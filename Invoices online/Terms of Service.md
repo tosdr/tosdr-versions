@@ -197,59 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Anri van der Linde
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=165511457)  
-Lindani Protection Services & Projects
-
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=53121644)  
-Repairs In Motion
-
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=18119496)  
-INVOICES/JOBCARDS ONLINE
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=171756355)  
-Sarabi
-
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=146369588)  
-Creative Characters
-
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=93260066)  
-Laurinda Pretorius Spraak en Drama Ateljee
-
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=110037861)  
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=24898028)  
 TechnoDezi PTY(LTD)
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=179789841)  
-Three Moons Emporium
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=73597534)  
+CBR Verwe/Paints
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=84482994)  
-Moremi Kitchens Rustenburg
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=131884634)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=102351561)  
-TurboFibre
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=95363440)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=88948193)  
-Immediate Health (pty)ltd
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=203253020)  
+WIP Digital Solutions
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=24377901)  
-NGB HOLDINGS PTY LTD
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=43028230)  
+Meyer Towing & Recovery
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=113034997)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=145094106)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=175978553)  
-Cape Adventure Zone
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=119033538)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=059cb1ab208660a626201599cfa311cce78f11a60c659b553fbef81378d49687&c=138433384)  
-Van Der Merwe Olieverspreiders
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=179631488)  
+Laurinda Pretorius Spraak en Drama Ateljee
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=173286431)  
+Baby Toddles Infant Care
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=43157158)  
+Tagline Brands
+
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=48537383)  
+OXYAIDER (PTY) LTD
+
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=158865368)  
+One2b
+
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=142226359)  
+Bchange Online CC
+
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=f44ee510cd2229840ef73f45575b4d3eae9d9052cd7eb4ae493c5141c903d486&c=153360557)  
+Lizzy Pop PTY(Ltd)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
