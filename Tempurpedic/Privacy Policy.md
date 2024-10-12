@@ -35,7 +35,7 @@ Mattresses](https://www.tempurpedic.com/shop-mattresses/)[$300 Gift
 
 ![Tempur Adjustable Base](https://assets-www.tempurpedic.com/media/images/368x160_NavBasesV2.width-300.png)
 
-Bed Bases](https://www.tempurpedic.com/bases-and-foundations/)[2 for $99
+Bed Bases](https://www.tempurpedic.com/bases-and-foundations/)[BOGO
 
 ![Tempur-Cloud Adjustable Pillow](https://assets-www.tempurpedic.com/media/images/368x160_NavPillows.width-300.png)
 
