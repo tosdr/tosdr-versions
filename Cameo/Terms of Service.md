@@ -161,7 +161,7 @@ By creating an account on our Site, you agree to provide true, accurate, current
 * an exclusive (except as to the license granted to Cameo), royalty-free, fully paid, worldwide, sublicensable, irrevocable license to use, reproduce, distribute, edit (solely to the extent expressly permitted in Section 3.b.ii), and publicly display that Business CAMEO Video only on or in an unlimited number of (A) social media platforms, such as Facebook, Instagram, LinkedIn, Snapchat, TikTok, YouTube or Twitter, on accounts wholly owned, operated, and controlled by the Business (each, a “Business Social Media Account”), along with the right to advertise and promote the display of the Business CAMEO Video on the Business Social Media Account through advertising on such social media platform, (B) websites, landing pages, mobile applications owned, operated, and controlled by the Business, communications sent through Business-operated and -controlled channels of communication (such as email blasts or text messages to customers or internal company emails or meetings), and other similar channels owned, operated, and controlled by the Business and approved in advance by Cameo in writing, and (C) online platforms, display networks, and in-app advertising, including through digital demand side platform or advertising network accounts, but specifically excluding, in all cases, television, over the top (OTT), connected television (CTV), Out Of Home (OOH) and similar streaming media.
 * You may sublicense your rights in a Business CAMEO Video only to the extent necessary for you to use the Business CAMEO Video as permitted under these Terms (for example, posting it on a website or Business Social Media Account as set forth in this section 3.b). You may edit a Business CAMEO Video for length or formatting purposes, or to add your Business name or logo into the video, provided that (A) the resulting video and its use comply with these Terms (including preservation of the watermark on the original Business CAMEO Video); and (B) the edits do not alter in any way the substantive message of the original Business CAMEO Video or any portion thereof, including any endorsement contained therein. Cameo has the sole discretion to determine whether any given edits comply with this Section.
 
-3. At the end of the license period, provided that the Talent User has not requested removal of the applicable Business CAMEO Video, you are not required to archive or delete organic, authorized posts made on a Business Social Media Account, provided that you do not, nor will you authorize or encourage any third-party to, pin, repost, link-to, boost with paid spend, or otherwise promote any such organic post containing the Business CAMEO Video in any manner or re-order such organic post in a non-chronological manner. All other retention, use, reproduction, distribution and display of the Business CAMEO Video must end entirely and immediately upon completion of the license period. No other use is authorized under these Terms. To request other uses (for example, additional time, use on additional channels, the ability to use a Business name or logo as a sole watermark), contact us at business@cameo.com.
+3. At the end of the license period, provided that the Talent User has not requested removal of the applicable Business CAMEO Video, you are not required to archive or delete organic, authorized posts made on a Business Social Media Account, provided that you do not, nor will you authorize or encourage any third-party to, pin, repost, link-to, boost with paid spend, or otherwise promote any such organic post containing the Business CAMEO Video in any manner or re-order such organic post in a non-chronological manner. All other retention, use, reproduction, distribution and display of the Business CAMEO Video must end entirely and immediately upon completion of the license period. No other use is authorized under these Terms. To request other uses (for example, additional time, use on additional channels, the ability to use a Business name or logo as a sole watermark), contact us at [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection).
 
 4. Business CAMEO Video Representations and Warranties: You represent and warrant that:
 
@@ -227,7 +227,7 @@ From time to time, Cameo may offer sales or discounts. The additional terms of s
 
 4. Cameo reserves the right (but is under no obligation) to cancel your request for any CAMEO Video or other offering if: (i) your payment method is declined; or (ii) you have previously been banned or removed from our Site for any reason. Cameo also reserves the right at any time to change its fees and payment procedures, including its payment options and terms, either immediately upon posting on our Site or by other notice to you.
 5. Portion of Payment to Talent: Any payment for a CAMEO Video or any other offering, feature, or service on our Site, such as a tip, Direct Message, or sticker, will be divided between Cameo and Talent as provided for in [Section 4.b](#talent-fees-payment) of the [Talent Terms of Service](#talent-terms).
-6. Payment Questions: If you have a question about a purchase made on the App or a charge to your payment card, please contact us at [hello@cameo.com](mailto:hello@cameo.com). We have the sole discretion to determine how billing disputes between us will be resolved.
+6. Payment Questions: If you have a question about a purchase made on the App or a charge to your payment card, please contact us at [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection). We have the sole discretion to determine how billing disputes between us will be resolved.
 7. Taxes: If your purchase obligates Cameo to collect a sales tax, use tax, or any other equivalent tax (“Sales Tax”) from you, Cameo will collect Sales Tax in addition to the fee for your purchase. If you have not remitted applicable Sales Tax to Cameo, you will be responsible for the payment of the Sales Tax (and any related penalties or interest) to the appropriate tax authority and you will indemnify Cameo for any liability or expense Cameo may incur in connection with the payment of Sales Taxes on your purchases. At Cameo’s request, you will provide reasonable assistance and documentation relating to the payment of Sale Taxes on your purchases from Cameo (for example, official receipts issued by the appropriate tax authority confirming that you have paid all applicable taxes).
 
 [↑ Return to Top](#top)
@@ -260,9 +260,7 @@ Baron App, Inc. d/b/a Cameo
 2045 West Grand Avenue, Suite B  
 PMB 71534  
 Chicago, IL 60612-1577  
-[agent@cameo.com  
-  
-‍](mailto:agent@cameo.com)If you do not follow these requirements, your notice may not be valid. Please note, only notices of alleged copyright infringement should be sent to our Copyright Agent.
+[\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection)If you do not follow these requirements, your notice may not be valid. Please note, only notices of alleged copyright infringement should be sent to our Copyright Agent.
 
 2. Termination Policy: If we determine that you are a repeat infringer, we may terminate your access to our Site, remove or ban you (and any Site account you created or control), and take other appropriate action in our sole discretion.
 
@@ -295,7 +293,7 @@ You acknowledge and agree we may change or discontinue any aspect of our Site at
 
 ### 14\. Termination and Reservation of Rights
 
-You may cancel your Site account at any time by contacting a member of the Cameo team at [hello@cameo.com](mailto:hello@cameo.com). We reserve the right to terminate access to our Site to any person, including you, at any time, for any reason, in our sole discretion. If you violate any of these Terms, your permission to use our Site automatically terminates.
+You may cancel your Site account at any time by contacting a member of the Cameo team at [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection). We reserve the right to terminate access to our Site to any person, including you, at any time, for any reason, in our sole discretion. If you violate any of these Terms, your permission to use our Site automatically terminates.
 
 [↑ Return to Top](#top)
 
@@ -372,7 +370,7 @@ You may join a Fan Club from the Talent User’s profile page on our website or 
 
 * On web, from the Talent User’s profile page, select the “Following” button in the upper-right corner, then select “Unfollow”;
 * In the App, from the Talent User’s Follower Feed, select the three dots in the upper-right corner, then select “Unfollow”; or
-* By email, contact [hello@cameo.com](mailto:hello@cameo.com) and provide your username, the email address associated with your account, and the name of the Talent User.
+* By email, contact [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection) and provide your username, the email address associated with your account, and the name of the Talent User.
 
 **Unfollowing will not cancel any subscription to a Paid Feature.  
 **
@@ -387,7 +385,7 @@ A Talent User may offer Followers the opportunity to subscribe to other features
 
 * On web, from the Talent User’s profile page, select the “Subscribed” button in the upper-right corner, then select “Unsubscribe”;
 * In the App, in the Talent User’s Follower Feed, select the three dots in the upper-right corner, then select “Unsubscribe”; or
-* By email, contact [hello@cameo.com](mailto:hello@cameo.com), and provide your username, the email address associated with your account, and the name of the Talent User and the Paid Feature. You must contact us to cancel at least one day before the then-current subscription period ends to avoid being charged again.
+* By email, contact [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection), and provide your username, the email address associated with your account, and the name of the Talent User and the Paid Feature. You must contact us to cancel at least one day before the then-current subscription period ends to avoid being charged again.
 
 **Deleting the App from your device will not cancel your subscription to a Paid Feature.**
 
@@ -399,7 +397,7 @@ You acknowledge and agree that:
 2. you hereby grant to each other User (subject to such User’s payment in full) and to the Talent User the following limited rights to use your Messages **solely for their own personal, non-commercial, and non-promotional purposes**, subject to these Additional Terms: a non-exclusive, royalty-free, fully paid, worldwide, sublicensable, revocable license to use, reproduce, distribute, and publicly display those Messages **only on social media platforms and personal websites; in text and email messages; and in other personal storage media**; and (subject to your payment in full) you may use Messages created by other Users and the Talent User in the same manner; in addition, you hereby grant to the Talent User the right to use your Messages to promote their participation on our Site;
 3. each Message you create is a Submission under the [Site Terms](https://legal.cameo.com/termsofservice#site-terms);
 4. each Message is subject to the [Acceptable Use Policy](https://legal.cameo.com/termsofservice#acceptable-use) / [Community Guidelines](https://legal.cameo.com/communityguidelines);
-5. if you believe that a User, Talent User, or Follower Feed activity has violated the [Acceptable Use Policy](https://legal.cameo.com/termsofservice#acceptable-use) / [Community Guidelines](https://legal.cameo.com/communityguidelines) you may notify Cameo in writing at [hello@cameo.com](mailto:hello@cameo.com) or report Messages by a long-press in the App;
+5. if you believe that a User, Talent User, or Follower Feed activity has violated the [Acceptable Use Policy](https://legal.cameo.com/termsofservice#acceptable-use) / [Community Guidelines](https://legal.cameo.com/communityguidelines) you may notify Cameo in writing at [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection) or report Messages by a long-press in the App;
 6. Cameo may monitor any Follower Feed activity and Messages, and Cameo retains the right, in its sole discretion, to cancel any User’s Follower Feed membership or access to any Paid Feature; and
 7. Cameo will not be responsible or liable for any Submission (including any Message from a User) or any Talent Content (including any Message from a Talent User).
 
@@ -549,7 +547,7 @@ Text the keyword HELP to our short code.
 
 #### Customer Care
 
-If you are experiencing any problems, please email help@cameo.com or submit a help ticket at https://help.cameo.com/en/support/tickets/new
+If you are experiencing any problems, please email [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection) or submit a help ticket at https://help.cameo.com/en/support/tickets/new
 
 [↑ Return to Top](#top)
 
@@ -603,12 +601,12 @@ Last Updated: February 24, 2021
 
 * To check a Gift Card balance or value:
 
-* email Issuer at giftcards@cameo.com; or
+* email Issuer at [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection); or
 * call issuer toll-free at 1-800-243-1739.
 
 Note that the balance provided (whether by email or telephone) is an estimate only. In most cases, the price of each transaction will be debited immediately, but there may be times when the updated balance is delayed.
 
-2. To contact us with other questions or for help with Gift Cards, email Issuer at [help@cameo.com](mailto:help@cameo.com).
+2. To contact us with other questions or for help with Gift Cards, email Issuer at [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection).
 
 [↑ Return to Top](#top)
 
@@ -727,7 +725,7 @@ These Additional Terms apply when you buy physical goods and other non-digital m
 8. **Returns, Exchanges, and Replacements.  
     **
 
-* We work hard to make sure that every purchase from the Cameo Store creates a magical moment. If you aren’t completely happy with your purchase, please contact at [merch@cameo.com](mailto:merch@cameo.com) within 30 days of the date of delivery.
+* We work hard to make sure that every purchase from the Cameo Store creates a magical moment. If you aren’t completely happy with your purchase, please contact at [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection) within 30 days of the date of delivery.
 * **The Return Process.** We want you to be completely satisfied with your order from the Cameo Store. If you are not completely satisfied with your unworn, unwashed, and unused order or prefer a different item, your order was lost or damaged during delivery, please let us know within the 30-day return period. We may in our sole discretion offer you a choice among the following options: (i) a replacement for the item(s) you ordered; (ii) a reasonable substitute item(s) for you to consider; (iii) credits you can use to make future purchases from the Cameo Store; or (iv) a full refund of your purchase price for returned item(s). In order to process your request, we may ask for photographic or other evidence of the item(s) you received. While we may not require it in every case, we reserve the right to require you to return the original item(s) at your expense (and, as applicable, in its or their original, unworn, unwashed, unused, and undamaged form) before processing your request.
 
 [↑ Return to Top](#top)
@@ -817,7 +815,7 @@ Table of Contents
 
 * Talent User age 13 or older: Talent Users who are at least 13 years old may register directly. By registering, you represent and warrant that: (A) you are at least 13 years old (and, if between 13 and 18 years old, are registering with the supervision and with the consent of your parent or legal guardian, who also agrees to these Terms); (B) you are of legal age to form a binding contract; (C) you are (and if you are between 13 and 18 years old, your parent or legal guardian is) not barred from using our Site under the laws of the United States, your place of residence (and if you are between 13 and 18 years old, the place of residence of your parent or legal guardian), or any other applicable jurisdiction; and (D) you are (and if you are between 13 and 18 years old, your parent or legal guardian is) responsible for complying with all applicable laws and regulations relating to Talent User’s participation on our Site and will fully indemnify the Cameo Parties (defined below) for any failure to do so.
 * Parent or Legal Guardian of Talent User, under age 13: Talent Users who are under 13 years old, may register only through a parent or legal guardian who, by registering, represents and warrants that: (A) he or she is the parent or legal guardian of the Talent User and agrees to these Terms; (B) neither the parent or legal guardian nor the Talent User is barred from using our Site under the laws of the United States, the place of residence of the parent, legal guardian, or Talent User, or any other applicable jurisdiction; and (C) he or she is responsible for complying with all applicable laws and regulations relating to Talent User’s participation on our Site and will fully indemnify the Cameo Parties for any failure to do so.
-* Organizations: A management company, manager, agency, agent, publicist, or other individual or organization (each, an “Organization”) may register a Talent User (“Affiliated Talent”). By registering, the Organization represents and warrants for itself and each Affiliated Talent that: (A) Organization is the authorized representative of the Affiliated Talent (and, if the Affiliated Talent is below the age of 18, is registering with any consent required of the Affiliated Talent’s parent or legal guardian as set forth in [Sections 1.a(i)](#talent-participation-1ai) and [1.a(ii))](#talent-participation-1aii) and agrees to these Terms; (B) neither the Organization nor the Affiliated Talent is barred from using our Site under the laws of the United States, the place of residence of the Organization or any Affiliated Talent, or any other applicable jurisdiction; and (C) Organization is responsible for complying with all applicable laws and regulations relating to Affiliated Talent’s participation on our Site under these Terms and will fully indemnify the Cameo Parties for any failure to do so. To register Affiliated Talent as an Organization, please contact [talentsuccess@cameo.com](mailto:talentsuccess@cameo.com).
+* Organizations: A management company, manager, agency, agent, publicist, or other individual or organization (each, an “Organization”) may register a Talent User (“Affiliated Talent”). By registering, the Organization represents and warrants for itself and each Affiliated Talent that: (A) Organization is the authorized representative of the Affiliated Talent (and, if the Affiliated Talent is below the age of 18, is registering with any consent required of the Affiliated Talent’s parent or legal guardian as set forth in [Sections 1.a(i)](#talent-participation-1ai) and [1.a(ii))](#talent-participation-1aii) and agrees to these Terms; (B) neither the Organization nor the Affiliated Talent is barred from using our Site under the laws of the United States, the place of residence of the Organization or any Affiliated Talent, or any other applicable jurisdiction; and (C) Organization is responsible for complying with all applicable laws and regulations relating to Affiliated Talent’s participation on our Site under these Terms and will fully indemnify the Cameo Parties for any failure to do so. To register Affiliated Talent as an Organization, please contact [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection).
 
 2. Promotional Materials: At no cost to Cameo, you will provide to us the following promotional materials (“Promotional Materials”) within 72 hours of beginning the talent on-boarding process on our Site: (i) if you would like us to promote your participation on our Site, three high resolution images of yourself; (ii) your Site profile bio; and (iii) a promotional video of approximately :15 in length to let your fans know that they can book you on our Site. Please note that you will not be able to receive requests from Users until we receive your promotional video. From time to time we may request additional Promotional Materials from you for Cameo’s use to promote you on or in connection with our Site or on any social media platform or third-party website. Any other materials or photos of or concerning you that you approve for Cameo’s use will also be Promotional Materials under these Terms.
 
@@ -875,7 +873,7 @@ We offer Talent Users and others who register on our Site as a talent referral s
 
 **6\. Talent Content**
 
-1. License Grant to Talent Content: Our Site allows you to upload, submit, store, send, transmit, approve, and receive content and data, including your CAMEO Videos and Promotional Materials (collectively, “Talent Content”). When you upload, submit, store, send, transmit approve, or receive Talent Content to or through our Site, you grant to us a non-exclusive, royalty-free, fully paid, unlimited, universal, sublicensable (through multiple tiers of sublicenses), perpetual, and irrevocable license in any and all manner and media, whether now known or hereinafter invented or devised (including social media channels and third party websites and platforms), to use, reproduce, license, distribute, modify, adapt, publicly perform, publicly display, and create derivative works (for example, translations, adaptations, compilations, excerpts, or other modifications) of your Talent Content for the purposes of operating and providing our Site, to develop and improve our products and services, and to advertise, market, and promote our Site, products, and services, and you agree that such Talent Content may, in Cameo’s sole discretion, be used, including performed or displayed, in connection with any other elements, materials, copyrights, rights of publicity, or copyrighted materials. Please remember that third parties (including Users) may search for and see any Talent Content you submit to public areas of our Site. You agree that we may display advertising with or in connection with your Talent Content. You further acknowledge and agree that Cameo has no obligation to you in connection with any advertising displayed on or in connection with our Site (including no obligation to share any revenue received by Cameo as a result of any such advertising). Notwithstanding the foregoing, if you do not wish for Cameo to use, reproduce, license, distribute, publicly perform, or publicly display your Talent Content or adaptions, modifications or derivative works thereof in paid advertising, you may opt out of such paid uses by notifying Cameo in writing at [talent-advertising-choice@cameo.com](mailto:talent-advertising-choice@cameo.com) using the email address associated with your account.  
+1. License Grant to Talent Content: Our Site allows you to upload, submit, store, send, transmit, approve, and receive content and data, including your CAMEO Videos and Promotional Materials (collectively, “Talent Content”). When you upload, submit, store, send, transmit approve, or receive Talent Content to or through our Site, you grant to us a non-exclusive, royalty-free, fully paid, unlimited, universal, sublicensable (through multiple tiers of sublicenses), perpetual, and irrevocable license in any and all manner and media, whether now known or hereinafter invented or devised (including social media channels and third party websites and platforms), to use, reproduce, license, distribute, modify, adapt, publicly perform, publicly display, and create derivative works (for example, translations, adaptations, compilations, excerpts, or other modifications) of your Talent Content for the purposes of operating and providing our Site, to develop and improve our products and services, and to advertise, market, and promote our Site, products, and services, and you agree that such Talent Content may, in Cameo’s sole discretion, be used, including performed or displayed, in connection with any other elements, materials, copyrights, rights of publicity, or copyrighted materials. Please remember that third parties (including Users) may search for and see any Talent Content you submit to public areas of our Site. You agree that we may display advertising with or in connection with your Talent Content. You further acknowledge and agree that Cameo has no obligation to you in connection with any advertising displayed on or in connection with our Site (including no obligation to share any revenue received by Cameo as a result of any such advertising). Notwithstanding the foregoing, if you do not wish for Cameo to use, reproduce, license, distribute, publicly perform, or publicly display your Talent Content or adaptions, modifications or derivative works thereof in paid advertising, you may opt out of such paid uses by notifying Cameo in writing at [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection) using the email address associated with your account.  
 2. License Grant to Users:
 
 * For each CAMEO Video (other than a Business CAMEO Video), you hereby grant to the User and the Recipient a non-exclusive, royalty-free, fully paid, worldwide, sublicensable, and perpetual license to use, reproduce, distribute, and publicly display the CAMEO Video, in each case, solely in accordance with the [Site Terms](https://www.cameo.com/terms#siteTerms), in any and all media, whether now known or hereafter invented or devised (including social media channels and third-party websites and platforms).  
@@ -961,9 +959,9 @@ Baron App, Inc. d/b/a Cameo
 2045 West Grand Avenue, Suite B  
 PMB 71534  
 Chicago, IL 60612-1577  
-[agent@cameo.com](mailto:agent@cameo.com)
+[\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection)
 
-[‍](mailto:agent@cameo.com)If you do not follow these requirements, your notice may not be valid. Please note, only notices of alleged copyright infringement should be sent to our Copyright Agent.
+[\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection)If you do not follow these requirements, your notice may not be valid. Please note, only notices of alleged copyright infringement should be sent to our Copyright Agent.
 
 2. Termination Policy: If we determine that you are a repeat infringer, we may terminate your access to our Site, remove or ban you (and any Site account you created or control), and take other appropriate action in our sole discretion.
 
@@ -1005,7 +1003,7 @@ You acknowledge and agree we may change or discontinue any aspect of our Site at
 
 **16\. Termination and Reservation of Rights**
 
-You may cancel your Site account at any time by contacting a member of the Cameo team at [talentsuccess@cameo.com](mailto:talentsuccess@cameo.com). We reserve the right to terminate access to our Site to any person, including you, at any time, for any reason, in our sole discretion. If you violate any of these Terms, your permission to use our Site automatically terminates.
+You may cancel your Site account at any time by contacting a member of the Cameo team at [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection). We reserve the right to terminate access to our Site to any person, including you, at any time, for any reason, in our sole discretion. If you violate any of these Terms, your permission to use our Site automatically terminates.
 
 [↑ Return to Top](#top)
 
@@ -1087,7 +1085,7 @@ Last Updated: March 3, 2022
 2. you hereby grant to each User the following limited rights to use your Messages **solely for their own personal, non-commercial, and non-promotional purposes**, subject to these Additional Terms: a non-exclusive, royalty-free, fully paid, worldwide, sublicensable, revocable license to use, reproduce, distribute, and publicly display those Messages **only on social media platforms and personal websites; in text and email messages; and in other personal storage media**; and, you may use Messages created by Users in the same manner; in addition, you may use Messages to promote your participation on our Site;
 3. each Message you create is Talent Content under the [Talent Terms](https://legal.cameo.com/termsofservice#talent-terms);
 4. each Message is subject to the [Acceptable Use Policy](https://legal.cameo.com/termsofservice#acceptable-use) / [Community Guidelines](https://legal.cameo.com/communityguidelines);
-5. if you believe that a User or Follower Feed activity has violated the [Acceptable Use Policy](https://legal.cameo.com/termsofservice#acceptable-use) / [Community Guidelines](https://legal.cameo.com/communityguidelines), you may notify Cameo in writing at [talentsuccess@cameo.com](mailto:talentsuccess@cameo.com) or report Messages by a long-press in the App;
+5. if you believe that a User or Follower Feed activity has violated the [Acceptable Use Policy](https://legal.cameo.com/termsofservice#acceptable-use) / [Community Guidelines](https://legal.cameo.com/communityguidelines), you may notify Cameo in writing at [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection) or report Messages by a long-press in the App;
 6. Cameo may monitor any Paid Feature, Follower Feed activity, and Messages, and Cameo retains the right, in its sole discretion, to cancel any subscription or other Paid Feature; and
 7. Cameo will not be responsible or liable for any Message from any User or any Talent Content (including any Message from you).
 
@@ -1247,7 +1245,7 @@ Last updated: April 22, 2022
 
 [↑ Return to Top](#top)
 
-[Jobs](https://careers.cameo.com/)[Privacy](https://legal.cameo.com/privacypolicy)[Terms](https://legal.cameo.com/termsofservice)[Guidelines](https://legal.cameo.com/communityguidelines)[About](https://www.cameo.com/about)[Team](https://www.cameo.com/team)[Accessibility](https://www.cameo.com/accessibility)[Blog](http://cameoblog.medium.com/)[Press](mailto:press@cameo.com)[Help](mailto:hello@cameo.com)[For business](https://biz.cameo.com/)[Gift cards](https://www.cameo.com/giftcards)
+[Jobs](https://careers.cameo.com/)[Privacy](https://legal.cameo.com/privacypolicy)[Terms](https://legal.cameo.com/termsofservice)[Guidelines](https://legal.cameo.com/communityguidelines)[About](https://www.cameo.com/about)[Team](https://www.cameo.com/team)[Accessibility](https://www.cameo.com/accessibility)[Blog](http://cameoblog.medium.com/)[\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection)[\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection)[For business](https://biz.cameo.com/)[Gift cards](https://www.cameo.com/giftcards)
 
 Your Privacy Choices ![](https://cdn.prod.website-files.com/5fd772858a112fe4a06ec550/63c6cc9f6d98b5a6c8f5f497_privacyoptions123x59.png)
 
