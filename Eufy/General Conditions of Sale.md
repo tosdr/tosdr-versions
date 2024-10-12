@@ -598,7 +598,7 @@
     * [Baby Monitor E210](https://www.eufy.com/products/e83121d1?ref=navimenu_3_4_2_img)
     * [Baby Monitor E110 2-Cam Bundle](https://www.eufy.com/products/bundle-t83001d2-1-t83101w1-1?ref=navimenu_3_4_3_img)
     
-* Smart Lights
+* Smart Lights New
     
     1. Latest Tech
     2. Smart LED Lights
@@ -732,7 +732,7 @@ Search our shop
 * Clean
 * Security New
 * Baby
-* Smart Lights
+* Smart Lights New
 * Special Offers
 * Business
 * [Build Your Security System](https://www.eufy.com/build-your-own-security-system?ref=navimenu_7_copy)
