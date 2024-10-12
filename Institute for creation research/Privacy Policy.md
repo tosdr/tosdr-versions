@@ -96,69 +96,57 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
+More Acknowledges a Spiritual Part of Life
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/moved-with-fear2)
+[![](/i/Main%20Stage%20-%201400x1050/Human_Kindness_1400x1050.jpg)](https://www.icr.org/article/human-kindness-the-residual-image-of-god)
 
-[Moved with Fear](https://www.icr.org/article/moved-with-fear2/)
+[Human Kindness: The Residual Image of God](https://www.icr.org/article/human-kindness-the-residual-image-of-god/)
 
-“By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he...
+As the pandemic has strengthened its grip on the world these last couple months, it’s producing one interesting side effect: people are seeking out...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [LAUREN PENNINGTON](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=232)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/ordinary-matters)
+[![](https://dummyimage.com/328x116/DDD/000&text=Impact+Article)](https://www.icr.org/article/american-genesis-cosmological-beliefs-indians)
 
-[Ordinary Matters](https://www.icr.org/article/ordinary-matters/)
+[American Genesis: The Cosmological Beliefs of the Indians](https://www.icr.org/article/american-genesis-cosmological-beliefs-indians/)
 
-“Be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.”...
+With the rise of uniformitarian geology and Darwinian evolution in the nineteenth century, the stage was set for a naturalistic interpretation of life....
 
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+BY: [BILL JOHNSON](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=59)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/meaning-day)
+[![](/i/wide/evidence_eternity_wide.jpg)](https://www.icr.org/article/evidence-eternity-our-hearts)
 
-[The Meaning of "Day"](https://www.icr.org/article/meaning-day/)
+[Evidence of Eternity in Our Hearts?](https://www.icr.org/article/evidence-eternity-our-hearts/)
 
-“And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.” (Genesis 1:5) Many...
+We tend to think that some core in each person will somehow, somewhere live forever. Sociologists have been attempting to track down the source of this...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-Shop Related Products
+More Creation Science Update
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475517/file.jpg)
+[![](/i/Main%20Stage%20-%201400x1050/SpiderSilk_1400x1050.jpg)](https://www.icr.org/article/Spider-Silk-For-Nerve-Repairs)
 
-The Modern Creation Trilogy](https://store.icr.org/dr-henry-morris-the-modern-creation-trilogy.html)
+[Spider Silk Properties Ideal for Nerve Repairs](https://www.icr.org/article/Spider-Silk-For-Nerve-Repairs/)
 
-$29.99
+Big doesn’t always mean strong. Most of the time, strength comes from what something is made of. The proteins forming spider silk make that silk...
 
-$34.99
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10473917/file.jpg)
+[![](/i/Main%20Stage%20-%201400x1050/saltysweat_1400x1050.jpg)](https://www.icr.org/article/salty-sweat-desert-plant)
 
-Creation and the Second Coming](https://store.icr.org/dr-henry-morris-creation-and-the-second-coming.html)
+[Salty Sweat in a Desert Plant](https://www.icr.org/article/salty-sweat-desert-plant/)
 
-$10.99
+Although plants aren’t alive in the biblical sense,1 they are most certainly complex in their physiology and anatomy.2,3...
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32688/file.jpg)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-The Henry Morris Study Bible - Case](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-case.html)
+[![](/i/Main%20Stage%20-%201400x1050/green-algae-relatives-1400x1050)](https://www.icr.org/article/land-plants-algal-relatives)
 
-$34.99
+[Do Land Plants Have Algal Relatives?](https://www.icr.org/article/land-plants-algal-relatives/)
 
-$39.99
+Evolutionists recently reported observations about a plant group called the Zygnematophyceae (a class of green algae). They claimed to know more about...
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
-
-Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
-
-$12.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32690/file.jpg)
-
-The Henry Morris Study Bible - Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-leath.html)
-
-$79.99
-
-$94.99
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
