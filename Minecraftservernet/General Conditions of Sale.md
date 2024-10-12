@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+[![anarchyac](plugins/MineCraft/icons/25x25xanarchyac_1719165747.png.pagespeed.ic.kZQ7Exczo_.png)
 
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+Anarchy](https://minecraft-server.net/details/anarchyac/ "Anarchy")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![Folas1337](plugins/MineCraft/icons/Folas1337_1706960544.png)
+Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames]")[![Tilted_Tavern](plugins/MineCraft/icons/25x25xTilted_Tavern_1726404034.png.pagespeed.ic.TYT4nh9NT_.png)
+BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexMc")[![CraftedSurvival](plugins/MineCraft/icons/25x25xCraftedSurvival_1724663271.png.pagespeed.ic.7xXnoJyxX-.png)
 
-Tilted Tavern](https://minecraft-server.net/details/Tilted_Tavern/ "Tilted Tavern")[![projectsurvival](plugins/MineCraft/icons/25x25xprojectsurvival_1720953261.png.pagespeed.ic.hQETp6pFjB.png)
+Crafted Survival](https://minecraft-server.net/details/CraftedSurvival/ "Crafted Survival")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4](https://minecraft-server.net/details/projectsurvival/ "MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4")
+1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06147 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06245 - Created by [Debaucus](https://debauc.us/)
