@@ -242,7 +242,7 @@ IN ADDITION TO AND WITHOUT LIMITING ANY OF THE FOREGOING, WE AND THE PAYMENT CAR
 ‍**19\. NOTICES**  
 We will send all notices and other communications regarding the Services to you at the email address or physical address you provided for your Account, as may be updated by you from time to time. You will be considered to have received a notice from us regarding the Services when we send it to the email address or physical address we have in our records for you or when we post such notice on the Website or the Application.  
   
-Except as otherwise provided in these Terms, all notices to us that are intended to have a legal effect must be delivered via email to Legal@dosh.cash. All such notices are deemed effective upon documented receipt by us.  
+Except as otherwise provided in these Terms, all notices to us that are intended to have a legal effect must be delivered via email to [\[email protected\]](https://www.dosh.com/cdn-cgi/l/email-protection). All such notices are deemed effective upon documented receipt by us.  
   
 ‍**20\. GOVERNING LAW**  
 These Terms are governed by the laws of the State of Georgia, without giving effect to any principle that provide for the application of the law of another jurisdiction.  
