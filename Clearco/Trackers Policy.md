@@ -543,8 +543,8 @@ Discover More
 
 ![Arrow](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/65fde10e62e6a7603e922243_Arrow%20(1).svg)](http://my.clearbanc.com/signup)
 
-Email: support@clear.co  
-Press: press@clear.co  
+Email: [\[email protected\]](https://clear.co/cdn-cgi/l/email-protection)  
+Press: [\[email protected\]](https://clear.co/cdn-cgi/l/email-protection)  
 Tel: +1 (415) 610-5166
 
 Clearco Platform
