@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Anthony Slide](https://cdn.comedy.co.uk/images/library/people/300x200/a/anthony_slide.jpg "Anthony Slide")](https://www.comedy.co.uk/people/anthony-slide/features/anthony-slide-on-writing-about-comedy/) People
+
+[Anthony Slide on writing about the golden era of British comedy](https://www.comedy.co.uk/people/anthony-slide/features/anthony-slide-on-writing-about-comedy/)
+
 [![Red Dwarf. Image shows left to right: Kryten (Robert Llewellyn), Cat (Danny John-Jules), Lister (Craig Charles), Rimmer (Chris Barrie)](https://cdn.comedy.co.uk/images/library/comedies/300x200/r/red_dwarf_iconic.jpg "Red Dwarf. Image shows left to right: Kryten (Robert Llewellyn), Cat (Danny John-Jules), Lister (Craig Charles), Rimmer (Chris Barrie)")](https://www.comedy.co.uk/shop/features/tom-salinsky-red-dwarf-books/) Shop
 
 [Rogue Pun: Ultimate Lister - Tom Salinsky takes a deep-dive into Red Dwarf](https://www.comedy.co.uk/shop/features/tom-salinsky-red-dwarf-books/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Carry On Doctor. Nurse Sandra May (Barbara Windsor). Copyright: Peter Rogers Productions](https://cdn.comedy.co.uk/images/library/comedies/300x200/c/carry_on_doctor_sandra.jpg "Carry On Doctor. Nurse Sandra May (Barbara Windsor). Copyright: Peter Rogers Productions")](https://www.comedy.co.uk/quiz/327/) Quiz
 
 [British Comedy Quiz #327](https://www.comedy.co.uk/quiz/327/)
-
-[![Jokers Wild. Ray Martine. Credit: ITV](https://cdn.comedy.co.uk/images/library/comedies/300x200/j/jokers_wild_ray_martine.jpg "Jokers Wild. Ray Martine. Credit: ITV")](https://www.comedy.co.uk/features/comedy_chronicles/hackney-diamond-ray-martine/) Features
-
-[Comedy Chronicles: A Hackney diamond - The much-misunderstood Ray Martine](https://www.comedy.co.uk/features/comedy_chronicles/hackney-diamond-ray-martine/)
 
 #### Subscribe to our newsletters
 
