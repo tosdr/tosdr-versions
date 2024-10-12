@@ -2,7 +2,7 @@
 
 Jump to content
 
-[![](https://feddit.it/pictrs/image/4b5e1e91-c611-433c-bc07-8ee44f4d45f0.webp)Feddit.it](https://feddit.it/ "L'alternativa italiana e decentralizzata a Reddit, benvenutǝ!")
+[![](https://feddit.it/pictrs/image/ab61b750-22e1-4fd8-b198-df1c1028e03f.png)Feddit.it](https://feddit.it/ "L'alternativa italiana e decentralizzata a Reddit, benvenutǝ!")
 
 menu
 
