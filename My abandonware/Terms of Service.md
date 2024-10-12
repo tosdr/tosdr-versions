@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Bakatono-sama Mahjong Man'yuki](https://www.myabandonware.com/game/bakatono-sama-mahjong-man-yuki-jxo)
-* [Battle City](https://www.myabandonware.com/game/battle-city-973)
-* [Badlands](https://www.myabandonware.com/game/badlands-4j5)
-* [Battle Chopper](https://www.myabandonware.com/game/battle-chopper-5ab)
-* [Blandia](https://www.myabandonware.com/game/blandia-hgz)
+* [ATV Track](https://www.myabandonware.com/game/atv-track-ss5)
+* [After Burner: Climax](https://www.myabandonware.com/game/after-burner-climax-ss4)
+* [Bloody Wolf](https://www.myabandonware.com/game/bloody-wolf-ss3)
+* [Avenger](https://www.myabandonware.com/game/avenger-ss2)
+* [Astron Belt](https://www.myabandonware.com/game/astron-belt-ss1)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Vindaloo](https://www.myabandonware.com/game/vindaloo-q4i)
-* [Super Pro Football](https://www.myabandonware.com/game/super-pro-football-ebp)
-* [DK I Love Phonics](https://www.myabandonware.com/game/dk-i-love-phonics-m83)
+* [Droidz](https://www.myabandonware.com/game/droidz-kf0)
+* [Domino](https://www.myabandonware.com/game/domino-pmj)
+* [Shinsetsu Samurai Spirits: Bushidōretsuden](https://www.myabandonware.com/game/shinsetsu-samurai-spirits-bushidoretsuden-jyk)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
