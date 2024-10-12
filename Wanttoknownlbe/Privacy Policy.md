@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/geschiedenis/geheime-genootschappen/de-kwaadaardige-khazarische-maffia-deepstate/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/beleid-grieppandemie-ruikt-verdacht/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
