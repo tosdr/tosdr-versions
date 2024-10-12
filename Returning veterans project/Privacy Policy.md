@@ -191,10 +191,9 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Capt. Chris Brooks](https://cdn.returningveterans.org/images/honor/CPT_Chris_Brooks.jpg)  
+![Dr. Stephen Hunt](https://cdn.returningveterans.org/images/honor/stephen_hunt.jpg)  
 
-**In Honor of Capt. Chris Brooks**  
-United States Air Force  
+**In Honor of Dr. Stephen Hunt**  
 Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
@@ -240,5 +239,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/12/24 - 8:55:09  
+Printed 10/12/24 - 2:52:53  
 © 2024 Returning Veterans Project
