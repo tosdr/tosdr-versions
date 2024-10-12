@@ -204,7 +204,7 @@ Une réponse vous sera adressée dans un délai d’un (1) mois à compter de la
 
 **11\. Vous avez une question ?**
 
-Pour toute question sur l’engagement de Gamned! en matière de protection de la vie privée et des Données Personnelles, veuillez-vous adresser à Notre délégué à la protection des données à l’adresse suivante : [privacy@gamned.com](mailto:privacy@gamned.com).
+Pour toute question sur l’engagement de Gamned! en matière de protection de la vie privée et des Données Personnelles, veuillez-vous adresser à Notre délégué à la protection des données à l’adresse suivante : [\[email protected\]](https://www.gamned.com/cdn-cgi/l/email-protection).
 
 **12\. Modification de la Charte de Protection**
 
