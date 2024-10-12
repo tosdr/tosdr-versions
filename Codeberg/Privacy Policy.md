@@ -69,14 +69,6 @@ Law requires us to maintain up-to-date records of our membership data. This is t
 
 The pre-announcement subscription list was intended for single use only and has been deleted after the announcement of the Codeberg.org launch. Accounts on pre-announcement testing services have been migrated to Codeberg.org, where possible. These accounts and the connected data can be deleted using the "Delete Account" button on your personal account page. All unused data from testing servers has been deleted after launch.
 
-**Make software projects available in your native language!**
-
-**Join the Codeberg Translathon on October 12 + 13!**
-
-Localized free/libre software becomes accessible to a wide range of users, who would otherwise not be able to work with it due to reduced proficiency in written English. If you speak a language other than English, consider helping out. We count on you!
-
-[Participate and translate software](https://codeberg.org/Codeberg/translathon-2024#for-translators) [Register your project](https://codeberg.org/Codeberg/translathon-2024#for-project-maintainers-and-developers) [Explore projects](https://codeberg.org/explore/repos?only_show_relevant=0&q=translathon&topic=1)
-
 ![](https://design.codeberg.org/logo-kit/icon_inverted.svg)
 
 **Codeberg**
