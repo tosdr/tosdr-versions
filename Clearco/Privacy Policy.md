@@ -234,7 +234,7 @@ We will continue to retain certain information about our customers for seven (7)
 
 We take reasonable measures, including firewall barriers, SSL/TLS encryption techniques, and authentication procedures, to help protect your Personal Data from accidental loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. In addition, we limit access to your Personal Data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions, and they are subject to a duty of confidentiality. We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
-As the internet or email transmission is not fully secure or error free, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send us via email. Please keep this in mind when disclosing your Personal Data to Clearco via the internet. We encourage you to disclose any suspected security vulnerabilities or bugs to our security team at security@clear.co.
+As the internet or email transmission is not fully secure or error free, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send us via email. Please keep this in mind when disclosing your Personal Data to Clearco via the internet. We encourage you to disclose any suspected security vulnerabilities or bugs to our security team at [\[email protected\]](https://clear.co/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -324,7 +324,7 @@ Internal and External Third parties
 
 The categories of sources from which we collect Personal Data, our purposes for using your Personal Data as well as your rights to [access](https://clear.co/privacy/#rightsUnderLaw), [rectify](https://clear.co/privacy/#rightsUnderLaw) and [erase](https://clear.co/privacy/#rightsUnderLaw) your Personal Data are set forth above in this Policy.
 
-Clearco does not “sell” your Personal Data, nor do we have actual knowledge of any sale of personal information of minors under 18 years of age. Clearco will not discriminate against any individual for exercising their rights under the CCPA. In the event you require an authorized agent to act on your behalf to make a verifiable request related to your Personal Data, please contact us at privacy@clear.co. We request that sufficient detail be provided to reasonably verify you or your authorized agent. If you would like to exercise any of your rights under the CCPA, please contact us at privacy@clear.co.
+Clearco does not “sell” your Personal Data, nor do we have actual knowledge of any sale of personal information of minors under 18 years of age. Clearco will not discriminate against any individual for exercising their rights under the CCPA. In the event you require an authorized agent to act on your behalf to make a verifiable request related to your Personal Data, please contact us at [\[email protected\]](https://clear.co/cdn-cgi/l/email-protection). We request that sufficient detail be provided to reasonably verify you or your authorized agent. If you would like to exercise any of your rights under the CCPA, please contact us at [\[email protected\]](https://clear.co/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -342,7 +342,7 @@ You can also set your browser to refuse all or some browser cookies, or to alert
 
 **Opting Out**
 
-You can opt out of receiving our newsletters and marketing SMS/text messages and emails and to terminate our newsletter subscriptions by following the instructions in the emails or by contacting us by email at privacy@clear.co. Opting out in this manner will not end transmission of service-related SMS/text messages or emails, such as email alerts. You can also change your cookie preferences on our Sites.
+You can opt out of receiving our newsletters and marketing SMS/text messages and emails and to terminate our newsletter subscriptions by following the instructions in the emails or by contacting us by email at [\[email protected\]](https://clear.co/cdn-cgi/l/email-protection). Opting out in this manner will not end transmission of service-related SMS/text messages or emails, such as email alerts. You can also change your cookie preferences on our Sites.
 
 ‍
 
@@ -423,7 +423,7 @@ We reserve the right, at our discretion, to make changes to this Policy from tim
 
 **Contact us**
 
-If you have any questions about this Policy or our privacy practices including any request to exercise your rights available under law, please email privacy@clear.co or by mail addressed to “Clearco”, Attention: Privacy & Compliance Department, 33 Yonge Street, Suite 1302, Toronto, Ontario, Canada M5E 1G4.
+If you have any questions about this Policy or our privacy practices including any request to exercise your rights available under law, please email [\[email protected\]](https://clear.co/cdn-cgi/l/email-protection) or by mail addressed to “Clearco”, Attention: Privacy & Compliance Department, 33 Yonge Street, Suite 1302, Toronto, Ontario, Canada M5E 1G4.
 
 [![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660190120ed591c2ca6658f4_clearco-logo-black.png)](#)
 
@@ -439,8 +439,8 @@ Discover More
 
 ![Arrow](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/65fde10e62e6a7603e922243_Arrow%20(1).svg)](http://my.clearbanc.com/signup)
 
-Email: support@clear.co  
-Press: press@clear.co  
+Email: [\[email protected\]](https://clear.co/cdn-cgi/l/email-protection)  
+Press: [\[email protected\]](https://clear.co/cdn-cgi/l/email-protection)  
 Tel: +1 (415) 610-5166
 
 Clearco Platform
