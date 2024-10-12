@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Добровольцами в зону СВО отправились 12 активистов «Молодой Гвардии Единой России» и «Волонтерской Роты»](https://cdn.er.ru/media/news/October2024/x3WHIsdoszA2tepYPmYU-small.jpeg)](https://er.ru/activity/news/dobrovolcami-v-zonu-svo-otpravilis-12-aktivistov-molodoj-gvardii-edinoj-rossii-i-volonterskoj-roty)
+
+[Добровольцами в зону СВО отправились 12 активистов «Молодой Гвардии Единой России» и «Волонтерской Роты»](https://er.ru/activity/news/dobrovolcami-v-zonu-svo-otpravilis-12-aktivistov-molodoj-gvardii-edinoj-rossii-i-volonterskoj-roty)
+
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Нижегородская область](https://er.ru/activity/news?tags%5B0%5D=1447) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672)
+
+Сегодня 10:27
+
 [![«Единая Россия» и ЦК Компартии Китая обсудили форматы российско-китайского сотрудничества](https://cdn.er.ru/media/news/October2024/clPmv7SCVZBycNnp43Ai-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-i-ck-kompartii-kitaya-obsudili-formaty-rossijsko-kitajskogo-sotrudnichestva)
 
 [«Единая Россия» и ЦК Компартии Китая обсудили форматы российско-китайского сотрудничества](https://er.ru/activity/news/edinaya-rossiya-i-ck-kompartii-kitaya-obsudili-formaty-rossijsko-kitajskogo-sotrudnichestva)
@@ -336,14 +344,6 @@
 [Антон Горелкин: «Единая Россия» ведёт работу над обеспечением цифровой безопасности государства](https://er.ru/activity/news/anton-gorelkin-edinaya-rossiya-vedyot-rabotu-nad-obespecheniem-cifrovoj-bezopasnosti-gosudarstva)
 
 [#Горелкин](https://er.ru/activity/news?tags%5B0%5D=101387) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Кемеровская область-Кузбасс](https://er.ru/activity/news?tags%5B0%5D=137879) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#цифроваяграмотность](https://er.ru/activity/news?tags%5B0%5D=105659) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#цифровойдиктант](https://er.ru/activity/news?tags%5B0%5D=1095797)
-
-10.10.24
-
-[![Ольга Казакова: Все направления партпроекта «Единой России» «Культура малой Родины» сохранены в проекте бюджета на 2025-2027 годы](https://cdn.er.ru/media/news/October2024/Acf80sAvmrcEurJ93lNf-small.jpg)](https://er.ru/activity/news/olga-kazakova-vse-napravleniya-partproekta-edinoj-rossii-kultura-maloj-rodiny-sohraneny-v-proekte-byudzheta-na-2025-2027-gody)
-
-[Ольга Казакова: Все направления партпроекта «Единой России» «Культура малой Родины» сохранены в проекте бюджета на 2025-2027 годы](https://er.ru/activity/news/olga-kazakova-vse-napravleniya-partproekta-edinoj-rossii-kultura-maloj-rodiny-sohraneny-v-proekte-byudzheta-na-2025-2027-gody)
-
-[#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Ставропольский край](https://er.ru/activity/news?tags%5B0%5D=1300) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#КультураМалойРодины](https://er.ru/activity/news?tags%5B0%5D=1090059) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
 
 10.10.24
 
