@@ -79,7 +79,7 @@ If you have a question or concern, please contact us and we will aim to resolve 
 **Data Subject Access Requests  
 **
 
-If you wish to update, delete or change personal information Beeper may hold, contact us at privacy@beeper.com  
+If you wish to update, delete or change personal information Beeper may hold, contact us at [\[email protected\]](https://www.beeper.com/cdn-cgi/l/email-protection)  
 
 **Changes  
 **
@@ -89,7 +89,7 @@ We may need to change this privacy statement and our notices from time to time. 
 **Contact Us  
 **
 
-You can get in touch by emailing us at privacy@beeper.com  
+You can get in touch by emailing us at [\[email protected\]](https://www.beeper.com/cdn-cgi/l/email-protection)  
   
 Beeper is a product of Automattic Inc.  
   
