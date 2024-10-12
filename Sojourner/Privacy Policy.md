@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-47b218cbb9c342373f416a9fa4856b8d
+2b84b2b7637238c49f6da0c806ec06f1
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Tiger eye bracelet](https://www.sojourner.biz/images/cache/jewelry/BR0035.200.webp)](https://www.sojourner.biz/jewelry/bracelets/tiger-eye-bracelet.html "Tiger eye bracelet")
+[![14 mm purple coin pearls](https://www.sojourner.biz/images/cache/pearls/PE0206.200.jpg)](https://www.sojourner.biz/beads/pearls/14-mm-purple-coin-pearls.html "14 mm purple coin pearls")
 
-#### [Tiger eye bracelet](https://www.sojourner.biz/jewelry/bracelets/tiger-eye-bracelet.html "Tiger eye bracelet")
+#### [14 mm purple coin pearls](https://www.sojourner.biz/beads/pearls/14-mm-purple-coin-pearls.html "14 mm purple coin pearls")
 
-$10.00
+$25.00
 
 ### Best Sellers
 
