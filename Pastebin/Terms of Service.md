@@ -328,37 +328,37 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [𝐹𝑅𝐸𝐸 500 𝒢𝐼𝐹𝒯-𝒞𝒜𝑅𝒟 𝒢𝒰𝐼𝒟𝐸𝒮 7GY1](https://pastebin.com/6CQq6uJm)
+* [BTC ACCOUNTS HACKED](https://pastebin.com/J9pvvC5e)
+    
+    JavaScript | 1 sec ago | 0.09 KB
+    
+* [Binance Account hack HYQM](https://pastebin.com/cDLecf3A)
     
     JavaScript | 1 sec ago | 0.12 KB
     
-* [Untitled Paste 1KTC](https://pastebin.com/3ENVXGZK)
+* [𝐹𝑅𝐸𝐸 500 𝒢𝐼𝐹𝒯-𝒞𝒜𝑅𝒟 𝒢𝒰𝐼𝒟𝐸𝒮 BEVC](https://pastebin.com/8KZ20R6P)
     
     JavaScript | 1 sec ago | 0.12 KB
     
-* [Nord Vpn HQ92](https://pastebin.com/zt5qfNGc)
+* [Amazon Gift-cardSS LEAKED ENER](https://pastebin.com/SuPfnrF7)
     
     JavaScript | 1 sec ago | 0.12 KB
     
-* [(𝟓𝟎𝟎 𝐄𝐔𝐑𝐎) 𝐌𝐀𝐊𝐄 𝐈𝐍 𝟏𝟎 𝐌𝐈𝐍𝐔𝐓𝐄𝐒 22ES](https://pastebin.com/gBvyGjRP)
+* [NETFLIX UHD ACCOUNTS](https://pastebin.com/pyAjEH4i)
+    
+    JavaScript | 3 sec ago | 0.09 KB
+    
+* [(𝟓𝟎𝟎 𝐄𝐔𝐑𝐎) 𝐌𝐀𝐊𝐄 𝐈𝐍 𝟏𝟎 𝐌𝐈𝐍𝐔𝐓𝐄𝐒 I4PO](https://pastebin.com/cBWzwY6V)
     
     JavaScript | 3 sec ago | 0.12 KB
     
-* [Amazon Gift-cardSS LEAKED C6C8](https://pastebin.com/XR4MvGZj)
+* [Chaturbate Accounts with Tokens](https://pastebin.com/rLFi7PCV)
     
-    JavaScript | 5 sec ago | 0.12 KB
+    JavaScript | 4 sec ago | 0.09 KB
     
-* [Chaturbate Accounts with Tokens](https://pastebin.com/QSNTQT7j)
-    
-    JavaScript | 5 sec ago | 0.09 KB
-    
-* [(𝟓𝟎𝟎 𝐄𝐔𝐑𝐎) 𝐌𝐀𝐊𝐄 𝐈𝐍 𝟏𝟎 𝐌𝐈𝐍𝐔𝐓𝐄𝐒 ST72](https://pastebin.com/EUVBH9Eh)
+* [Any GÎFT-VOUCHER FREEEE KPG5](https://pastebin.com/ceswLe43)
     
     JavaScript | 6 sec ago | 0.12 KB
-    
-* [NETFLIX UHD ACCOUNTS](https://pastebin.com/7CztC1i6)
-    
-    JavaScript | 7 sec ago | 0.09 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
