@@ -139,7 +139,7 @@ Fluid uses reasonable security efforts to protect your personal information. Ple
 
 #### 6\. Policy Towards Children
 
-Our Services are not directed to persons under 13. Fluid does not knowingly collect or solicit personal information from, anyone under the age of 13. Any personal information we receive from people we believe to be under 13 will be deleted from our system. If you become aware that your child has provided us with personal information without your consent, please contact us at legal@fluidmarket.com and we will delete such information from our system.  
+Our Services are not directed to persons under 13. Fluid does not knowingly collect or solicit personal information from, anyone under the age of 13. Any personal information we receive from people we believe to be under 13 will be deleted from our system. If you become aware that your child has provided us with personal information without your consent, please contact us at [\[email protected\]](https://www.fluidtruck.com/cdn-cgi/l/email-protection) and we will delete such information from our system.  
 
 #### 7\. Access and Correction
 
@@ -165,7 +165,7 @@ Right to Opt-Out of the Sale of Personal Information: California residents have 
   
 Right to Nondiscrimination: California residents have the right to not be discriminated against for exercising any of these rights.  
   
-If you would like to exercise one or more of the above rights, you can contact us by email at legal@fluidmarket.com or mail using the postal address provided below. We may need you to provide additional information to verify your request, such as providing data elements so that we can confirm they match the information already maintained by us. We will not use this additional information for anything other than handling your request. Please note that you may designate an authorized agent to make a request under the CCPA on your behalf.  
+If you would like to exercise one or more of the above rights, you can contact us by email at [\[email protected\]](https://www.fluidtruck.com/cdn-cgi/l/email-protection) or mail using the postal address provided below. We may need you to provide additional information to verify your request, such as providing data elements so that we can confirm they match the information already maintained by us. We will not use this additional information for anything other than handling your request. Please note that you may designate an authorized agent to make a request under the CCPA on your behalf.  
   
 Additionally, California Civil Code Section 1798.83 permits visitors to the Services who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not share personal information with third parties for their direct marketing purposes.  
 
@@ -185,7 +185,7 @@ Fluid Market Inc.
 PO BOX 351618  
 Westminster, CO 80035  
   
-Or by Email: [legal@fluidmarket.com](mailto:legal@fluidmarket.com)  
+Or by Email: [\[email protected\]](https://www.fluidtruck.com/cdn-cgi/l/email-protection)  
 
 Fluid Truck
 
