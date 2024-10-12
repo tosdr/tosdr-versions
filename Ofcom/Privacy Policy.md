@@ -157,7 +157,7 @@
 
 30 September 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/top-listening-trends-for-international-podcast-day/)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/ "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/?language=cy "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
@@ -384,7 +384,7 @@ From time to time, Ofcom may need to transfer personal data to other countries, 
 
 Cookies
 
-Like most websites, we use cookies to improve the quality of the website and your experience of it. Our [cookies statement](https://www.ofcom.org.uk/about-ofcom/our-website/cookies-policy/) explains more.
+Like most websites, we use cookies to improve the quality of the website and your experience of it. Our [cookies statement](https://www.ofcom.org.uk/about-ofcom/our-website/cookies-policy/?language=en) explains more.
 
 ### 
 
@@ -518,7 +518,7 @@ About this website
 ------------------
 
 * [Accessibility](https://www.ofcom.org.uk/about-ofcom/accessibility/accessibility/ "Accessibility of Ofcom's website")
-* [Cookies policy](https://www.ofcom.org.uk/about-ofcom/our-website/cookies-policy/ "Cookies policy")
+* [Cookies policy](https://www.ofcom.org.uk/about-ofcom/our-website/cookies-policy/?language=en "Cookies policy")
 * [Terms of use](https://www.ofcom.org.uk/about-ofcom/our-website/terms-of-use/ "Terms of use")
 * [Copyright and information re-use](https://www.ofcom.org.uk/about-ofcom/our-website/copyright/ "Copyright and information re-use")
 
