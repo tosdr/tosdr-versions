@@ -150,7 +150,7 @@ Menutoggle menu
         * [Blackout Periods](https://www.atlantafed.org/news/press-room/blackout-periods)
         * [Atlanta Fed Fact Sheet](https://www.atlantafed.org/news/press-room/fact-sheet)
         * [Our President](https://www.atlantafed.org/about/atlantafed/executive-leadership-committee/bostic-raphael)
-    * [Speeches](https://www.atlantafed.org/cqer/events)
+    * [Speeches](https://www.atlantafed.org/news/speeches)
         * [Speakers Bureau](https://www.atlantafed.org/news/speeches/speakersbureau)
 * [Education](https://www.atlantafed.org/education)
     * [Teach](https://www.atlantafed.org/education/teach)
