@@ -30,7 +30,7 @@ A Proper DMCA Notice will notify FileFactory.com of particular facts in a docume
 
 To exercise your DMCA rights, you must send your Proper DMCA Notice to the following agent designated by FileFactory.com (the "Designated Agent".) The contact information for FileFactory.com's Designated Agent is:
 
-> Email: dmca@filefactory.com  
+> Email: [\[email protected\]](https://www.filefactory.com/cdn-cgi/l/email-protection)  
 >   
 > FILEFACTORY CLOUD STORAGE LLC  
 > New Horizon, Ground Floor, 3½ Miles Philip S.W.  
@@ -69,7 +69,7 @@ To Write a Proper Counter-notification, please provide the following information
 
 To exercise your DMCA rights, you must send your Counter-notification to the "Designated Agent" for FileFactory.com, whose contact information is:
 
-> Email: dmca@filefactory.com
+> Email: [\[email protected\]](https://www.filefactory.com/cdn-cgi/l/email-protection)
 
 #### Repeat Infringers
 
