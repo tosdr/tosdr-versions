@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 11, 2024**
+**October 12, 2024**
 
 * * *
 
@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Single-Atom Editing Tech Developed](https://www.sciencedaily.com/releases/2024/10/241011141546.htm)
+* [Electron 'Pinball' in Space After Lightning](https://www.sciencedaily.com/releases/2024/10/241010142536.htm)
+* [Playing Songs to Darwin's Finches: New Species](https://www.sciencedaily.com/releases/2024/10/241010142532.htm)
+* [New Tech Improves Structural Strength](https://www.sciencedaily.com/releases/2024/10/241009215431.htm)
 * [3D Printing Method: Unique Objects Quickly](https://www.sciencedaily.com/releases/2024/10/241011141558.htm)
 * ['Inside-Out' Galaxy Growth in Early Universe](https://www.sciencedaily.com/releases/2024/10/241011141247.htm)
 * [Dance, Gibbon, Dance!](https://www.sciencedaily.com/releases/2024/10/241011141154.htm)
 * [19th Century Lions from Kenya Ate Humans](https://www.sciencedaily.com/releases/2024/10/241011140945.htm)
 * [Chaotic 3-Body Problem: Islands of Regularity](https://www.sciencedaily.com/releases/2024/10/241010142636.htm)
 * [Bilingualism Makes the Brain More Efficient](https://www.sciencedaily.com/releases/2024/10/241010142538.htm)
-* [Do Fungi Recognize Shapes?](https://www.sciencedaily.com/releases/2024/10/241009122809.htm)
-* [How Your Skin Tone Could Affect Your Meds](https://www.sciencedaily.com/releases/2024/10/241010205906.htm)
-* [Special 'Skinny Genes' Double Weight Loss](https://www.sciencedaily.com/releases/2024/10/241009122307.htm)
-* [Catastrophically Warm Predictions More Plausible](https://www.sciencedaily.com/releases/2024/10/241010124852.htm)
 
 Trending Topics
 ---------------
@@ -232,23 +232,23 @@ this week
 
 [Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
 
-[Racial Issues](https://www.sciencedaily.com/news/mind_brain/racial_issues/)
+[Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
 
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
-[Extrasolar Planets](https://www.sciencedaily.com/news/space_time/extrasolar_planets/)
+[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
+[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
 
 [Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
-[Extreme Survival](https://www.sciencedaily.com/news/plants_animals/extreme_survival/)
+[Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
 
   
 
