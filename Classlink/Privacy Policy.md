@@ -545,13 +545,13 @@ To learn more about the options available for ClassLink MFA, visit [classlink.co
 
 * SMS verification is configured directly by users and can be removed anytime from your ClassLink LaunchPad account.  
     
-* To stop receiving SMS messages from ClassLink, reply ‘STOP’ to the SMS message or delete the associated phone number from your security settings. Reply with ‘HELP’ for help or email us at [helpdesk@classlink.com](mailto:helpdesk@classlink.com?subject=ClassLink%20SMS%20Help).  
+* To stop receiving SMS messages from ClassLink, reply ‘STOP’ to the SMS message or delete the associated phone number from your security settings. Reply with ‘HELP’ for help or email us at [\[email protected\]](https://www.classlink.com/cdn-cgi/l/email-protection).  
     
 * Carriers are not liable for delayed or undelivered messages.  
     
 * As always, message and data rates may apply for any messages delivered from ClassLink and any replies you send. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.  
     
-* If you are experiencing issues with the messaging program, please email [helpdesk@classlink.com](mailto:helpdesk@classlink.com?subject=ClassLink%20SMS%20Help).  
+* If you are experiencing issues with the messaging program, please email [\[email protected\]](https://www.classlink.com/cdn-cgi/l/email-protection).  
     
 
 If you have any questions regarding privacy, please read our privacy policy at [classlink.com/privacy](https://www.classlink.com/company/privacy).  
