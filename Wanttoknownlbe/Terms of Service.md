@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/het-ontwaken-van-het-goddelijk-vrouwelijke/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/illuminati-insider-financiele-crisis-is-nodig-om-een-wereldregering-te-realiseren/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
