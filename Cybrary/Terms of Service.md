@@ -292,7 +292,7 @@ The following Terms of Service (the “Terms”) govern Customer’s (as defined
 
 **Updates.** From time to time, Cybrary may make offer updates to the Software, which will be governed by these Terms. Cybrary is not responsible for performance of updates in connection with any unauthorized plugins installed by Customer. Except as provided on an applicable Order Form, Cybrary is not obligated to provide any updates or other modifications to Customer. Customer may purchase upgrades, which might include new features to the Software for an additional fee not to exceed the then current price of such upgrades offered by Cybrary.
 
-**Support Services.** Cybrary will provide routine support and troubleshooting services (“Support Services”) to Customer. Customer may request Support Services by submitting a support ticket online which can be found at [support@cybrary.it](mailto:support@cybrary.it)
+**Support Services.** Cybrary will provide routine support and troubleshooting services (“Support Services”) to Customer. Customer may request Support Services by submitting a support ticket online which can be found at [\[email protected\]](https://www.cybrary.it/cdn-cgi/l/email-protection)
 
 2\. Restrictions on Use
 -----------------------
