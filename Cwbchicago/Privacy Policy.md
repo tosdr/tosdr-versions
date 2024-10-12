@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Recruits-August-2024-326x245.jpg)](https://cwbchicago.com/2024/10/mayor-axes-2-police-academy-classes-faces-legal-fight-over-shotspotter-contract.html "Mayor axes 2 police academy classes, faces legal fight over ShotSpotter contract: reports")
+
+Citywide
+
+### [Mayor axes 2 police academy classes, faces legal fight over ShotSpotter contract: reports](https://cwbchicago.com/2024/10/mayor-axes-2-police-academy-classes-faces-legal-fight-over-shotspotter-contract.html "Mayor axes 2 police academy classes, faces legal fight over ShotSpotter contract: reports")
+
+[October 9, 2024 6:03 AM](https://cwbchicago.com/2024/10)
+
+Mayor Brandon Johnson has canceled two police academy classes to save money and he’s heading toward a legal fight with the city council over ShotSpotter.[](https://cwbchicago.com/2024/10/mayor-axes-2-police-academy-classes-faces-legal-fight-over-shotspotter-contract.html "Mayor axes 2 police academy classes, faces legal fight over ShotSpotter contract: reports")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/october-9-chicago-map-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-during-a-string-of-overnight-robberies-carjacking.html "Man shot during a string of overnight robberies, carjacking")
+
+Goose Island
+
+### [Man shot during a string of overnight robberies, carjacking](https://cwbchicago.com/2024/10/man-shot-during-a-string-of-overnight-robberies-carjacking.html "Man shot during a string of overnight robberies, carjacking")
+
+[October 9, 2024 5:33 AM](https://cwbchicago.com/2024/10)
+
+Chicago police are investigating a robbery and carjacking surge reported overnight, including one case that ended with the victim being shot.[](https://cwbchicago.com/2024/10/man-shot-during-a-string-of-overnight-robberies-carjacking.html "Man shot during a string of overnight robberies, carjacking")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Mehdi-Medellel-326x245.jpg)](https://cwbchicago.com/2024/10/worker-charged-with-murdering-two-men-inside-fast-food-restaurant-chicago-police-say.html "Worker charged with murdering two men inside fast food restaurant, Chicago police say")
 
 Ashburn
@@ -252,26 +272,6 @@ Ashburn
 [October 8, 2024 7:11 PM](https://cwbchicago.com/2024/10)
 
 Surveillance video provided to CWBChicago appears to show that neither victim was threatening the shooter at the moment when they were killed.[](https://cwbchicago.com/2024/10/worker-charged-with-murdering-two-men-inside-fast-food-restaurant-chicago-police-say.html "Worker charged with murdering two men inside fast food restaurant, Chicago police say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/06/Ayca-Sarialioglu-326x245.jpg)](https://cwbchicago.com/2024/10/dui-driver-who-badly-injured-man-near-water-tower-place-gets-probation.html "DUI driver who badly injured man near Water Tower Place gets probation")
-
-Magnificent Mile
-
-### [DUI driver who badly injured man near Water Tower Place gets probation](https://cwbchicago.com/2024/10/dui-driver-who-badly-injured-man-near-water-tower-place-gets-probation.html "DUI driver who badly injured man near Water Tower Place gets probation")
-
-[October 8, 2024 5:59 PM](https://cwbchicago.com/2024/10)
-
-The hit-and-run driver accused of striking and badly injuring a man while driving drunk near Water Tower Place last year has been sentenced to 30 months of probation.[](https://cwbchicago.com/2024/10/dui-driver-who-badly-injured-man-near-water-tower-place-gets-probation.html "DUI driver who badly injured man near Water Tower Place gets probation")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/From-left-Anthony-Jones-Trinity-Peterson-and-Richard-Tolbert.-Chicago-Police-Department-326x245.jpg)](https://cwbchicago.com/2024/10/trio-charged-with-carjacking-pot-dealer-in-logan-square.html "Trio charged with carjacking pot dealer in Logan Square")
-
-Logan Square
-
-### [Trio charged with carjacking pot dealer in Logan Square](https://cwbchicago.com/2024/10/trio-charged-with-carjacking-pot-dealer-in-logan-square.html "Trio charged with carjacking pot dealer in Logan Square")
-
-[October 8, 2024 8:48 AM](https://cwbchicago.com/2024/10)
-
-Three men carjacked a pot dealer in Logan Square after not having enough money to buy his weed, officials say. Prosecutors asked Judge Shauna Boliker to detain all three men on the charges, but she decided to put them on electronic monitoring instead.[](https://cwbchicago.com/2024/10/trio-charged-with-carjacking-pot-dealer-in-logan-square.html "Trio charged with carjacking pot dealer in Logan Square")
 
 Search
 
