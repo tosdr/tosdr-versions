@@ -18,7 +18,19 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Bandidos furtam computadores e objetos pessoais de carro de vereadora em Jaraguá](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/6/csm_Teca_Nelma_956f619c87.jpg)
+   [![Corpo decapitado é encontrado dentro de estrutura em área de mata, no Tabuleiro do Martins](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/9/csm_Corpo_decapitado_e_encontrado_dentro_de_estrutura_em_area_de_mata__no_Tabuleiro_do_Martins_-_foto_Corpo_de__Bombeiros_a64e2629d8.jpeg)
+
+Maceió
+
+Corpo decapitado é encontrado dentro de estrutura em área de mata, no Tabuleiro do Martins](https://www.tnh1.com.br/noticia/nid/corpo-decapitado-e-encontrado-dentro-de-estrutura-em-area-de-mata-no-tabuleiro-do-martins/ "Corpo decapitado é encontrado dentro de estrutura em área de mata, no Tabuleiro do Martins")   [![Prefeitura destaca educação, espaços de lazer e cultura para as crianças de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_Prefeitura_destaca_educacao__espacos_de_lazer_e_cultura_para_as_criancas_de_Maceio_-_foto_Divulgacao_Secom_Maceio_b23f016db9.jpeg)
+
+12 de outubro
+
+Prefeitura destaca educação, espaços de lazer e cultura para as crianças de Maceió](https://www.tnh1.com.br/noticia/nid/prefeitura-destaca-educacao-espacos-de-lazer-e-cultura-para-as-criancas-de-maceio/ "Prefeitura destaca educação, espaços de lazer e cultura para as crianças de Maceió")   [![Brinquedos, lanche e diversão: Igreja Universal prepara Dia das Crianças especial em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/5/csm_Unisocial_Kids_-_foto_Divulgacao__5__14390b4def.jpeg)
+
+Unisocial Kids
+
+Brinquedos, lanche e diversão: Igreja Universal prepara Dia das Crianças especial em Maceió](https://www.tnh1.com.br/noticia/nid/brinquedos-lanche-e-diversao-igreja-universal-prepara-dia-das-criancas-especial-em-maceio/ "Brinquedos, lanche e diversão: Igreja Universal prepara Dia das Crianças especial em Maceió")   [![Bandidos furtam computadores e objetos pessoais de carro de vereadora em Jaraguá](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/6/csm_Teca_Nelma_956f619c87.jpg)
 
 Maceió
 
@@ -30,19 +42,7 @@ Confira o funcionamento dos shoppings e comércio no feriado de Nossa Senhora Ap
 
 Maceió
 
-Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue](https://www.tnh1.com.br/noticia/nid/projeto-para-reforma-da-praca-deodoro-e-aprovado-e-tem-data-para-ser-entregue/ "Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue")   [![Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/b/csm_menina_meningite_cf6b12e34a.png)
-
-Maceió
-
-Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://www.tnh1.com.br/noticia/nid/maceio-tem-30-casos-confirmados-de-meningite-mae-de-crianca-internada-faz-relato/ "Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato")   [![Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/4/csm_area-interditada-demolicao-pinheiro_016919e00c.jpg)
-
-Veja desvios
-
-Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis](https://www.tnh1.com.br/noticia/nid/avenida-no-pinheiro-e-interditada-pela-defesa-civil-para-demolicoes-de-imoveis/ "Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis")   [![Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
-
-Na Serraria
-
-Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://www.tnh1.com.br/noticia/nid/motorista-invade-contramao-bate-em-viatura-da-pm-e-e-preso-por-embriaguez-ao-volante/ "Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante")
+Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue](https://www.tnh1.com.br/noticia/nid/projeto-para-reforma-da-praca-deodoro-e-aprovado-e-tem-data-para-ser-entregue/ "Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao 
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/2/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_ad9da6f477.png)
-
-Meteorologia
-
-Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-veja-como-deve-ficar-o-tempo-em-alagoas-neste-fim-de-semana/ "Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana")   [![Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/5/csm_Onda_calor_-_Freepik_c60e743d3d.jpg)
-
-até domingo
-
-Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://www.tnh1.com.br/noticia/nid/inmet-emite-alerta-de-onda-de-calor-para-38-cidades-de-alagoas-veja-quais/ "Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais")   [![HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_Sesau_HGE_Acidentes_a175c35292.jpg)
+   [![Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/0/csm_csm_Praia_de_Maceio_-_foto_Emile_ValoesAscom_Semtel_b5dded546e_6f35563d41.jpeg)
 
 Alagoas
 
-HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://www.tnh1.com.br/noticia/nid/hge-atende-quase-4-mil-vitimas-de-acidentes-de-transito-de-janeiro-a-setembro-deste-ano/ "HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano")   [![Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/1/csm_Sol__calor_-_foto_Marcello_Casal_Jr_-_Agencia_Brasil_86076956ed.jpg)
+Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/praia-no-domingao-veja-os-trechos-proprios-para-banho-no-litoral-de-alagoas/ "Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas")   [![Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/2/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_ad9da6f477.png)
 
 Meteorologia
 
-Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://www.tnh1.com.br/noticia/nid/oito-cidades-de-alagoas-tem-alerta-de-baixa-umidade-nesta-quinta-feira/ "Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira")   [![Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/b/csm_Sexo_na_praia_de_Ponta_Verde_-_foto_Reproducao_6835180147.jpg)
+Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-veja-como-deve-ficar-o-tempo-em-alagoas-neste-fim-de-semana/ "Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana")   [![Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/5/csm_Onda_calor_-_Freepik_c60e743d3d.jpg)
+
+até domingo
+
+Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://www.tnh1.com.br/noticia/nid/inmet-emite-alerta-de-onda-de-calor-para-38-cidades-de-alagoas-veja-quais/ "Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais")   [![HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/4/csm_Sesau_HGE_Acidentes_a175c35292.jpg)
+
+Alagoas
+
+HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://www.tnh1.com.br/noticia/nid/hge-atende-quase-4-mil-vitimas-de-acidentes-de-transito-de-janeiro-a-setembro-deste-ano/ "HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano")   [![Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/1/csm_Sol__calor_-_foto_Marcello_Casal_Jr_-_Agencia_Brasil_86076956ed.jpg)
+
+Meteorologia
+
+Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://www.tnh1.com.br/noticia/nid/oito-cidades-de-alagoas-tem-alerta-de-baixa-umidade-nesta-quinta-feira/ "Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira")   [![Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/b/csm_Sexo_na_praia_de_Ponta_Verde_-_foto_Reproducao_6835180147.jpg)
 
 Polícia
 
-Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado](https://www.tnh1.com.br/noticia/nid/sexo-na-praia-veja-o-que-diz-o-mp-al-sobre-afastamento-de-aluno-no-curso-de-delegado/ "Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado")   [![Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_sexo_praia_9091d042b1.png)
-
-após denúncia
-
-Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://www.tnh1.com.br/noticia/nid/homem-filmado-fazendo-sexo-em-praia-de-maceio-e-afastado-do-curso-de-delegados-em-alagoas/ "Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas")
+Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado](https://www.tnh1.com.br/noticia/nid/sexo-na-praia-veja-o-que-diz-o-mp-al-sobre-afastamento-de-aluno-no-curso-de-delegado/ "Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -232,39 +232,39 @@ Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa
 
 Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa](https://www.tnh1.com.br/noticia/nid/homem-que-largou-casamento-apos-6-dias-tera-que-pagar-r-50-mil-por-festa/ "Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa")
 
-[![Prefeitura de Maceió promove vacinação infantil durante o festival Massayó Kids](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/7/csm_Prefeitura_de_Maceio_promove_vacinacao_infantil_durante_o_festival_Massayo_Kids_-_foto_Arquivo_Secom_Maceio_6a4e7c4970.jpeg)
-
-imunização
-
-imunização
-
-Prefeitura de Maceió promove vacinação infantil durante o festival Massayó Kids
-
-Prefeitura de Maceió promove vacinação infantil durante o festival Massayó Kids](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-promove-vacinacao-infantil-durante-o-festival-massayo-kids/ "Prefeitura de Maceió promove vacinação infantil durante o festival Massayó Kids")[![Queda de helicóptero dos Bombeiros mata seis em Minas Gerais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/c/csm_Bombeiros_mortos_em_MG_79427a1be9.jpeg)
+[![Temporal deixa ao menos sete mortos em São Paulo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/f/csm_Chuva_SP_-_foto_Paulo_Pinto_-_Agencia_Brasil_1141062fc3.jpg)
 
 Brasil
 
 Brasil
 
-Queda de helicóptero dos Bombeiros mata seis em Minas Gerais
+Temporal deixa ao menos sete mortos em São Paulo
 
-Queda de helicóptero dos Bombeiros mata seis em Minas Gerais](https://www.tnh1.com.br/noticia/nid/queda-de-helicoptero-dos-bombeiros-mata-seis-em-minas-gerais/ "Queda de helicóptero dos Bombeiros mata seis em Minas Gerais")[![Morre humorista Ary Toledo, aos 87 anos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/e/csm_Ari_Toledo_8362c036a9.jpg)
+Temporal deixa ao menos sete mortos em São Paulo](https://www.tnh1.com.br/noticia/nid/temporal-deixa-ao-menos-sete-mortos-em-sao-paulo/ "Temporal deixa ao menos sete mortos em São Paulo")[![Bombeiros buscam homem que desapareceu em barragem, no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/a/csm_Bombeiros_fazem_buscas_por_homem_que_desapareceu_em_barragem__no_interior_de_AL_-_foto_CBMAL__5__d532b76b4b.jpeg)
 
-Gente Famosa
+são sebastião
 
-Gente Famosa
+são sebastião
 
-Morre humorista Ary Toledo, aos 87 anos
+Bombeiros buscam homem que desapareceu em barragem, no interior de Alagoas
 
-Morre humorista Ary Toledo, aos 87 anos](https://www.tnh1.com.br/noticia/nid/morre-humorista-ary-toledo-aos-87-anos/ "Morre humorista Ary Toledo, aos 87 anos")[![Piloto morre carbonizado em queda de avião em Ouro Preto (MG)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/3/csm_Queda_Aviao_Ouro_Preto_23a9c1b33f.jpg)
+Bombeiros buscam homem que desapareceu em barragem, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/bombeiros-buscam-homem-que-desapareceu-em-barragem-no-interior-de-alagoas/ "Bombeiros buscam homem que desapareceu em barragem, no interior de Alagoas")[![Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/a/csm_Gustavo_Nicola_-_foto_Allan_Max_-_ASCOM_CSA_35e39fc782.jpg)
 
-monomotor
+gustavo nicola
 
-monomotor
+gustavo nicola
 
-Piloto morre carbonizado em queda de avião em Ouro Preto (MG)
+Meio-campista do CSA é suspenso após exame antidoping no ex-clube
 
-Piloto morre carbonizado em queda de avião em Ouro Preto (MG)](https://www.tnh1.com.br/noticia/nid/piloto-morre-carbonizado-em-queda-de-aviao-em-ouro-preto-mg/ "Piloto morre carbonizado em queda de avião em Ouro Preto (MG)")
+Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://www.tnh1.com.br/noticia/nid/meio-campista-do-csa-e-suspenso-apos-exame-antidoping-no-ex-clube/ "Meio-campista do CSA é suspenso após exame antidoping no ex-clube")[![Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/9/csm_Vitimas_de_acidente_com_helicoptero_do_Corpo_de_Bombeiros_em_Minas_Gerais_ef222f1a61.jpg)
+
+ouro preto
+
+ouro preto
+
+Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto
+
+Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://www.tnh1.com.br/noticia/nid/acidente-de-helicoptero-governo-de-mg-divulga-nomes-das-vitimas-e-decreta-luto/ "Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
