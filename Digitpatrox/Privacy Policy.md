@@ -20,16 +20,16 @@ Saturday, October 12 2024
 
 Latest
 
-* [UK Public sector at risk from supply chain attacks, new report warns](https://digitpatrox.com/uk-public-sector-at-risk-from-supply-chain-attacks-new-report-warns/)
-* [Apple is inventing a reality distortion field – Computerworld](https://digitpatrox.com/apple-is-inventing-a-reality-distortion-field-computerworld/)
-* [You Can Get Windows 11 Pro for $18 Right Now](https://digitpatrox.com/you-can-get-windows-11-pro-for-18-right-now/)
-* [Best Hybrid Cars for Under $35,000](https://digitpatrox.com/best-hybrid-cars-for-under-35000/)
-* [10 Things You Should Do Right After Building Your New PC](https://digitpatrox.com/10-things-you-should-do-right-after-building-your-new-pc/)
-* [Are your cloud resources at risk?](https://digitpatrox.com/are-your-cloud-resources-at-risk/)
-* [AMD Reveals Fleet of Chips for Heavy AI Workloads](https://digitpatrox.com/amd-reveals-fleet-of-chips-for-heavy-ai-workloads/)
-* [5 best new movies to stream this weekend on Netflix, Hulu, Max and more](https://digitpatrox.com/5-best-new-movies-to-stream-this-weekend-on-netflix-hulu-max-and-more/)
-* [Underground ransomware claims attack on Casio, leaks stolen data](https://digitpatrox.com/underground-ransomware-claims-attack-on-casio-leaks-stolen-data/)
-* [Boeing is cutting 10 percent of its workforce](https://digitpatrox.com/boeing-is-cutting-10-percent-of-its-workforce/)
+* [18 Android settings that’ll strengthen your security – Computerworld](https://digitpatrox.com/18-android-settings-thatll-strengthen-your-security-computerworld/)
+* [I Swear by This Copycat Popeyes Chicken Sandwich Recipe](https://digitpatrox.com/i-swear-by-this-copycat-popeyes-chicken-sandwich-recipe/)
+* [The Best Cinnamon for Your Spiced Holiday Drinks](https://digitpatrox.com/the-best-cinnamon-for-your-spiced-holiday-drinks/)
+* [Discover How Yaber Is Partnering With Pantone Color Institute With This New Exclusive Projector K3](https://digitpatrox.com/discover-how-yaber-is-partnering-with-pantone-color-institute-with-this-new-exclusive-projector-k3/)
+* [OpenAI says hackers keep trying to use its services for cyber attacks](https://digitpatrox.com/openai-says-hackers-keep-trying-to-use-its-services-for-cyber-attacks/)
+* [Found Business Banking Review (2024): Is it a Trustworthy Bank?](https://digitpatrox.com/found-business-banking-review-2024-is-it-a-trustworthy-bank/)
+* [You only need 2 dumbbells and 30 minutes to build muscle all over and strengthen your core](https://digitpatrox.com/you-only-need-2-dumbbells-and-30-minutes-to-build-muscle-all-over-and-strengthen-your-core/)
+* [Microsoft Outlook bug blocks email logins, causes app crashes](https://digitpatrox.com/microsoft-outlook-bug-blocks-email-logins-causes-app-crashes/)
+* [Google pulled its Wear OS update for old Pixel Watches to fix a big problem](https://digitpatrox.com/google-pulled-its-wear-os-update-for-old-pixel-watches-to-fix-a-big-problem/)
+* [NYT Connections Today: Hints and Answers for October 12, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-12-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/uukDgHfanvGoGx4tHMJjPU-1200-80.jpg)](https://digitpatrox.com/uk-public-sector-at-risk-from-supply-chain-attacks-new-report-warns/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/1718177-0-38534500-1728640129-android-security-settings.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/18-android-settings-thatll-strengthen-your-security-computerworld/)
     
-    [UK Public sector at risk from supply chain attacks, new report warns](https://digitpatrox.com/uk-public-sector-at-risk-from-supply-chain-attacks-new-report-warns/)
+    [18 Android settings that’ll strengthen your security – Computerworld](https://digitpatrox.com/18-android-settings-thatll-strengthen-your-security-computerworld/)
     
-    11 mins ago
+    52 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3560365-0-28380100-1728664935-Apple-Vision-Pro-Submerged-Apple-Immersive-Video.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-is-inventing-a-reality-distortion-field-computerworld/)
+* [![](https://lifehacker.com/imagery/articles/01J9YE8CRHAQMT0F0QSFN6F4BR/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/i-swear-by-this-copycat-popeyes-chicken-sandwich-recipe/)
     
-    [Apple is inventing a reality distortion field – Computerworld](https://digitpatrox.com/apple-is-inventing-a-reality-distortion-field-computerworld/)
-    
-    33 mins ago
-    
-* [![](https://lifehacker.com/imagery/articles/01J8QQ7XHQGKB2H8TXV7QC3X1N/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-windows-11-pro-for-18-right-now/)
-    
-    [You Can Get Windows 11 Pro for $18 Right Now](https://digitpatrox.com/you-can-get-windows-11-pro-for-18-right-now/)
+    [I Swear by This Copycat Popeyes Chicken Sandwich Recipe](https://digitpatrox.com/i-swear-by-this-copycat-popeyes-chicken-sandwich-recipe/)
     
     1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1695395550/prod/content/dam/CRO-Images-2023/09September/Cars/CR-Cars-Inlinehero-best-hybrids-under35k-0923)](https://digitpatrox.com/best-hybrid-cars-for-under-35000/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1728326949/prod/content/dam/CRO-Images-2024/Special-Products/CR-SP-InlineHero-Cinnamon-Holiday-Drinks-1024)](https://digitpatrox.com/the-best-cinnamon-for-your-spiced-holiday-drinks/)
     
-    [Best Hybrid Cars for Under $35,000](https://digitpatrox.com/best-hybrid-cars-for-under-35000/)
+    [The Best Cinnamon for Your Spiced Holiday Drinks](https://digitpatrox.com/the-best-cinnamon-for-your-spiced-holiday-drinks/)
+    
+    2 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/yaber-k3-pantone.jpg)](https://digitpatrox.com/discover-how-yaber-is-partnering-with-pantone-color-institute-with-this-new-exclusive-projector-k3/)
+    
+    [Discover How Yaber Is Partnering With Pantone Color Institute With This New Exclusive Projector K3](https://digitpatrox.com/discover-how-yaber-is-partnering-with-pantone-color-institute-with-this-new-exclusive-projector-k3/)
     
     2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-pc-with-the-monitor-keyboard-mouse-and-mousepad-near-it-and-a-gear-icon.jpg)](https://digitpatrox.com/10-things-you-should-do-right-after-building-your-new-pc/)
+* [![](https://cdn.mos.cms.futurecdn.net/9944EGjar5x4f7f2oC6yL6-1200-80.jpg)](https://digitpatrox.com/openai-says-hackers-keep-trying-to-use-its-services-for-cyber-attacks/)
     
-    [10 Things You Should Do Right After Building Your New PC](https://digitpatrox.com/10-things-you-should-do-right-after-building-your-new-pc/)
+    [OpenAI says hackers keep trying to use its services for cyber attacks](https://digitpatrox.com/openai-says-hackers-keep-trying-to-use-its-services-for-cyber-attacks/)
     
-    2 hours ago
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [11 mins ago
+* [52 mins ago
     
-    ### UK Public sector at risk from supply chain attacks, new report warns](https://digitpatrox.com/uk-public-sector-at-risk-from-supply-chain-attacks-new-report-warns/)
-* [33 mins ago
-    
-    ### Apple is inventing a reality distortion field – Computerworld](https://digitpatrox.com/apple-is-inventing-a-reality-distortion-field-computerworld/)
+    ### 18 Android settings that’ll strengthen your security – Computerworld](https://digitpatrox.com/18-android-settings-thatll-strengthen-your-security-computerworld/)
 * [1 hour ago
     
-    ### You Can Get Windows 11 Pro for $18 Right Now](https://digitpatrox.com/you-can-get-windows-11-pro-for-18-right-now/)
+    ### I Swear by This Copycat Popeyes Chicken Sandwich Recipe](https://digitpatrox.com/i-swear-by-this-copycat-popeyes-chicken-sandwich-recipe/)
+* [2 hours ago
+    
+    ### The Best Cinnamon for Your Spiced Holiday Drinks](https://digitpatrox.com/the-best-cinnamon-for-your-spiced-holiday-drinks/)
 
 Most Popular Topics
 
-* [September 4, 2024
+* [September 2, 2024
     
-    ### Today’s Wordle Answer and Hints (September 4, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-4-2024/)
-* [2 weeks ago
+    ### Best Portable Solar Panels and Solar Battery Chargers](https://digitpatrox.com/best-portable-solar-panels-and-solar-battery-chargers/)
+* [September 10, 2024
     
-    ### We Tested 14 Pro-Style Ranges. Here Are the 3 Best Models of 2024.](https://digitpatrox.com/we-tested-14-pro-style-ranges-here-are-the-3-best-models-of-2024/)
-* [August 24, 2024
+    ### Wordle Answer for Today, September 10, 2024](https://digitpatrox.com/wordle-answer-for-today-september-10-2024/)
+* [4 weeks ago
     
-    ### US oil giant Halliburton confirms cyberattack behind systems shutdown](https://digitpatrox.com/us-oil-giant-halliburton-confirms-cyberattack-behind-systems-shutdown/)
+    ### Best Side-by-Side Refrigerators of 2024](https://digitpatrox.com/best-side-by-side-refrigerators-of-2024/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### AMD Reveals Fleet of Chips for Heavy AI Workloads](https://digitpatrox.com/amd-reveals-fleet-of-chips-for-heavy-ai-workloads/)
-* [3 hours ago
+    ### You only need 2 dumbbells and 30 minutes to build muscle all over and strengthen your core](https://digitpatrox.com/you-only-need-2-dumbbells-and-30-minutes-to-build-muscle-all-over-and-strengthen-your-core/)
+* [4 hours ago
     
-    ### 5 best new movies to stream this weekend on Netflix, Hulu, Max and more](https://digitpatrox.com/5-best-new-movies-to-stream-this-weekend-on-netflix-hulu-max-and-more/)
-* [3 hours ago
+    ### Microsoft Outlook bug blocks email logins, causes app crashes](https://digitpatrox.com/microsoft-outlook-bug-blocks-email-logins-causes-app-crashes/)
+* [4 hours ago
     
-    ### Underground ransomware claims attack on Casio, leaks stolen data](https://digitpatrox.com/underground-ransomware-claims-attack-on-casio-leaks-stolen-data/)
+    ### Google pulled its Wear OS update for old Pixel Watches to fix a big problem](https://digitpatrox.com/google-pulled-its-wear-os-update-for-old-pixel-watches-to-fix-a-big-problem/)
 
 Most Viewed Topics
 
 * [August 12, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 21, 2024
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 13, 2024
     
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
