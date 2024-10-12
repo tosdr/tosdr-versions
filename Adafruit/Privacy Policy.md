@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Sometimes magic is just spending more time on something than anyone would reasonably expect”
+“ My father considered a walk among the mountains as the equivalent of churchgoing”
 
-[Teller](http://en.wikipedia.org/wiki/Teller_%28magician%29)
+[Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)
 
 [](https://www.adafruit.com/about)
 
