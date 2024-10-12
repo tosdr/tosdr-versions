@@ -230,12 +230,11 @@ It's Not News, It's Fark
 
 [![Fark25 Party](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want more news before we break it? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-See what's behind the green door  
-and help keep the tap flowing
+More Farking, less working
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -335,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Article warns "illegally made dogs" are being eaten in Seattle. Springfield, Ohio, unavailable for comment](https://www.fark.com/goto/13425136) ( [mynorthwest.com](https://www.fark.com/goto/13425136) ) » [(2 comments)](https://www.fark.com/comments/13425136/Article-warns-illegally-made-dogs-are-being-eaten-in-Seattle-Springfield-Ohio-unavailable-for-comment) |
-| [Discussion](https://www.fark.com/discussion/) | [If you could, would you swap gender?](https://www.fark.com/goto/13424726) ( [upworthy.com](https://www.fark.com/goto/13424726) ) » [(54 comments)](https://www.fark.com/comments/13424726/If-you-could-would-you-swap-gender) |
-| [Sports](https://www.fark.com/sports/) | [Was that wrong? Should I not have done that?](https://www.fark.com/goto/13424772) ( [nbcnews.com](https://www.fark.com/goto/13424772) ) » [(0 comments)](https://www.fark.com/comments/13424772/Was-that-wrong-Should-I-not-have-done-that) |
-| [Business](https://www.fark.com/business/) | [Boeing crash lands with 17,000 employees onboard](https://www.fark.com/goto/13424928) ( [theverge.com](https://www.fark.com/goto/13424928) ) » [(10 comments)](https://www.fark.com/comments/13424928/Boeing-crash-lands-with-17000-employees-onboard) |
-| [STEM](https://www.fark.com/stem/) | [Old and busted: TikTok corrupts children. New hotness: Discord corrupts children](https://www.fark.com/goto/13425050) ( [dw.com](https://www.fark.com/goto/13425050) ) » [(3 comments)](https://www.fark.com/comments/13425050/Old-busted-TikTok-corrupts-children-New-hotness-Discord-corrupts-children) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Kanye East](https://www.fark.com/goto/13425068) ( [rollingstone.com](https://www.fark.com/goto/13425068) ) » [(5 comments)](https://www.fark.com/comments/13425068/Kanye-East) |
-| [Fandom](https://www.fark.com/fandom/) | [I'm also great at this](https://www.fark.com/goto/13424758) ( [kotaku.com](https://www.fark.com/goto/13424758) ) » [(9 comments)](https://www.fark.com/comments/13424758/Im-also-great-at-this) |
-| [D'awww](https://www.fark.com/dawww/) | [Northern Virginia doing their part, their shelters are taking in animal rescues from Hurricanes Helene and Milton](https://www.fark.com/goto/13424352) ( [yahoo.com](https://www.fark.com/goto/13424352) ) » [(5 comments)](https://www.fark.com/comments/13424352/Northern-Virginia-doing-their-part-their-shelters-are-taking-in-animal-rescues-from-Hurricanes-Helene-Milton) |
-| [Food](https://www.fark.com/food/) | [Bear on the grill? Not a great idea](https://www.fark.com/goto/13424718) ( [arstechnica.com](https://www.fark.com/goto/13424718) ) » [(7 comments)](https://www.fark.com/comments/13424718/Bear-on-grill-Not-a-great-idea) |
-| [Politics](https://www.fark.com/politics/) | [Take him to Detroit](https://www.fark.com/goto/13424896) ( [youtube.com](https://www.fark.com/goto/13424896) ) » [(16 comments)](https://www.fark.com/comments/13424896/Take-him-to-Detroit) |
+| [Main](https://www.fark.com/) | [White whale sighted off the coast of Tonga. Nobody tell Ahab](https://www.fark.com/goto/13425196) ( [iflscience.com](https://www.fark.com/goto/13425196) ) » [(6 comments)](https://www.fark.com/comments/13425196/White-whale-sighted-off-coast-of-Tonga-Nobody-tell-Ahab) |
+| [Discussion](https://www.fark.com/discussion/) | [Why be content with the boring, pedestrian trucks that everyone else drives?](https://www.fark.com/goto/13424738) ( [trending.ebaumsworld.com](https://www.fark.com/goto/13424738) ) » [(11 comments)](https://www.fark.com/comments/13424738/Why-be-content-with-boring-pedestrian-trucks-that-everyone-else-drives) |
+| [Sports](https://www.fark.com/sports/) | [Allen unconscious for several seconds..,, NFLPA ... He was fine](https://www.fark.com/goto/13424912) ( [espn.com](https://www.fark.com/goto/13424912) ) » [(4 comments)](https://www.fark.com/comments/13424912/Allen-unconscious-for-several-seconds-NFLPA-He-was-fine) |
+| [Business](https://www.fark.com/business/) | [Biden/Harris economic Armageddon continues as Dow and S&P 500 hit record highs](https://www.fark.com/goto/13425188) ( [cnbc.com](https://www.fark.com/goto/13425188) ) » [(33 comments)](https://www.fark.com/comments/13425188/BidenHarris-economic-Armageddon-continues-as-Dow-SP-500-hit-record-highs) |
+| [STEM](https://www.fark.com/stem/) | [The truth about the origins of Christopher Columbus to be revealed by scientists. Who would have thought he would turn out to be an alien?](https://www.fark.com/goto/13425220) ( [news.sky.com](https://www.fark.com/goto/13425220) ) » [(4 comments)](https://www.fark.com/comments/13425220/The-truth-about-origins-of-Christopher-Columbus-to-be-revealed-by-scientists-Who-would-have-thought-he-would-turn-out-to-be-an-alien) |
+| [Entertainment](https://www.fark.com/entertainment/) | [More proof that comic book movies are dead: Deadpool & Wolverine breaks record for highest selling R-rated movie on digital U.S. - in just one week](https://www.fark.com/goto/13425198) ( [gizmodo.com](https://www.fark.com/goto/13425198) ) » [(2 comments)](https://www.fark.com/comments/13425198/More-proof-that-comic-book-movies-are-dead-Deadpool-Wolverine-breaks-record-for-highest-selling-R-rated-movie-on-digital-US-in-just-one-week) |
+| [Fandom](https://www.fark.com/fandom/) | [I'm also great at this](https://www.fark.com/goto/13424758) ( [kotaku.com](https://www.fark.com/goto/13424758) ) » [(17 comments)](https://www.fark.com/comments/13424758/Im-also-great-at-this) |
+| [D'awww](https://www.fark.com/dawww/) | [White whale sighted off the coast of Tonga. Nobody tell Ahab](https://www.fark.com/goto/13425196) ( [iflscience.com](https://www.fark.com/goto/13425196) ) » [(6 comments)](https://www.fark.com/comments/13425196/White-whale-sighted-off-coast-of-Tonga-Nobody-tell-Ahab) |
+| [Food](https://www.fark.com/food/) | [You're storing your baby carrots WRONG, which is why they taste so damn soapy](https://www.fark.com/goto/13424884) ( [thetakeout.com](https://www.fark.com/goto/13424884) ) » [(8 comments)](https://www.fark.com/comments/13424884/Youre-storing-your-baby-carrots-WRONG-which-is-why-they-taste-so-damn-soapy) |
+| [Politics](https://www.fark.com/politics/) | [Biden/Harris economic Armageddon continues as Dow and S&P 500 hit record highs](https://www.fark.com/goto/13425188) ( [cnbc.com](https://www.fark.com/goto/13425188) ) » [(33 comments)](https://www.fark.com/comments/13425188/BidenHarris-economic-Armageddon-continues-as-Dow-SP-500-hit-record-highs) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -354,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 12 2024 03:43:43  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 12 2024 09:43:33  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
