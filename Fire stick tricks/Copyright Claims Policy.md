@@ -85,11 +85,11 @@ Top VPNs
 
 #### Recent Posts
 
+* [How to Install Green Monster Kodi Build on Any Device](https://www.firesticktricks.com/green-monster-kodi-build.html)
+* [How to Install Smokin Kodi Build on Any Device (Super Easy Steps)](https://www.firesticktricks.com/smokin-kodi-build.html)
 * [How to Install & Use Very Local on FireStick Easily](https://www.firesticktricks.com/very-local-on-firestick.html)
 * [How to Install Barstool Sports on FireStick for All-in-one Streaming](https://www.firesticktricks.com/barstool-sports-on-firestick.html)
 * [How to Install and Use TD Ameritrade Network on FireStick](https://www.firesticktricks.com/td-ameritrade-network-on-firestick.html)
-* [How to Install Antstream on FireStick & Free Play Classic Games](https://www.firesticktricks.com/antstream-on-firestick.html)
-* [How to Install Stadium on FireStick for Free Sports Streaming](https://www.firesticktricks.com/stadium-on-firestick.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
