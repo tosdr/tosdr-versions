@@ -105,7 +105,7 @@ We retain personal information for the length of time required to provide the We
 
 ### **Exercising your rights**
 
-You can terminate your subscription to our newsletter or blog or request that your account be terminated by contacting us at  [privacy@digitalturbine.com](mailto:privacy@digitalturbine.com).
+You can terminate your subscription to our newsletter or blog or request that your account be terminated by contacting us at  [\[email protected\]](https://www.digitalturbine.com/cdn-cgi/l/email-protection).
 
 You can unsubscribe to our mailing lists by clicking the “Unsubscribe” link in these emails and confirming the email address for which you would like to unsubscribe.
 
@@ -135,7 +135,7 @@ We implement systems, applications, and procedures to secure personal informatio
 
 ### **Dispute Resolution**
 
-Contact us at [privacy@digitalturbine.com](mailto:privacy@DigitalTurbine.com) or write us for every request and complaint. We will make good-faith efforts to resolve any existing or potential dispute with you. [**Read More below**](#_Dispute_Resolution)
+Contact us at [\[email protected\]](https://www.digitalturbine.com/cdn-cgi/l/email-protection) or write us for every request and complaint. We will make good-faith efforts to resolve any existing or potential dispute with you. [**Read More below**](#_Dispute_Resolution)
 
 ### **Changes to this Privacy Policy**
 
@@ -147,7 +147,7 @@ This policy is an integral part of the Digital Turbine’s [Terms of Use](https:
 
 ### **Contact Us**
 
-Don’t hesitate to contact us at [privacy@digitalturbine.com](mailto:privacy@DigitalTurbine.com) for further information. [**Read More below**](#_Contact_Us)
+Don’t hesitate to contact us at [\[email protected\]](https://www.digitalturbine.com/cdn-cgi/l/email-protection) for further information. [**Read More below**](#_Contact_Us)
 
 The Digital Turbine Website Privacy Policy
 ==========================================
@@ -199,7 +199,7 @@ How\_\_Long
 
 We retain different types of personal information related to you for different periods, depending on the purposes for processing the information, our legitimate business purposes, and pursuant to legal requirements under applicable law.
 
-We will maintain your contact details to help us stay in contact with you. You can contact our privacy team at [privacy@digitalturbine.com](mailto:privacy@DigitalTurbine.com) and request to delete your contact details. Note that we will keep your details without using them if necessary and for the necessary period of time for legal requirements and proceedings.
+We will maintain your contact details to help us stay in contact with you. You can contact our privacy team at [\[email protected\]](https://www.digitalturbine.com/cdn-cgi/l/email-protection) and request to delete your contact details. Note that we will keep your details without using them if necessary and for the necessary period of time for legal requirements and proceedings.
 
 We will retain personal information related to you after you have left our Website if retention is reasonably necessary to resolve disputes between our users, to prevent fraud and abuse, or to enforce this Privacy Policy and our [Terms of Use](https://www.digitalturbine.com/legal/terms-of-use/). We will keep aggregated non-identifiable information without limitation, and to the extent reasonable, we will delete or de-identify potentially identifiable information when we no longer need to process the information.
 
@@ -243,13 +243,13 @@ In addition to your rights under the general section above, if you are a residen
 
 ### **Exercising Your Rights**
 
-If you wish to exercise any of your rights in relation to personal information related to you, please send us an email to [privacy@digitalturbine.com](mailto:privacy@DigitalTurbine.com).
+If you wish to exercise any of your rights in relation to personal information related to you, please send us an email to [\[email protected\]](https://www.digitalturbine.com/cdn-cgi/l/email-protection).
 
 You can stop using the Website at any time.
 
 You may also control what personal information we collect from your device by changing the permissions settings on your browser or mobile device.
 
-You may request to exercise the rights detailed under this section by submitting your request to us by emailing [privacy@digitalturbine.com.](mailto:privacy@DigitalTurbine.com.)
+You may request to exercise the rights detailed under this section by submitting your request to us by emailing [\[email protected\]](https://www.digitalturbine.com/cdn-cgi/l/email-protection)
 
 Note that only you or a person authorized to act on your behalf may make a request related to personal information related to you. A request for access can be made by you only twice within a 12-month period.
 
@@ -336,7 +336,7 @@ However, please understand that no security system is impenetrable. Although we 
 
 ### **Dispute Resolution**
 
-We do periodical assessments of our data processing and privacy practices to ensure that we comply with this policy, update the policy when we believe that we need to, and verify that we display the policy properly and in an accessible manner. If you have any concerns about how we process personal information related to you, you are welcome to contact our privacy team at [privacy@digitalturbine.com](mailto:privacy@DigitalTurbine.com) or write to us.
+We do periodical assessments of our data processing and privacy practices to ensure that we comply with this policy, update the policy when we believe that we need to, and verify that we display the policy properly and in an accessible manner. If you have any concerns about how we process personal information related to you, you are welcome to contact our privacy team at [\[email protected\]](https://www.digitalturbine.com/cdn-cgi/l/email-protection) or write to us.
 
 We will look into your query and make good-faith efforts to resolve any existing or potential dispute with you.
 
@@ -352,7 +352,7 @@ This policy is an integral part of the Digital Turbine [Terms of Use](https://ww
 
 ### **Contact Us**
 
-Don’t hesitate to get in touch with us at [privacy@digitalturbine.com](mailto:privacy@digitalturbine.com)
+Don’t hesitate to get in touch with us at [\[email protected\]](https://www.digitalturbine.com/cdn-cgi/l/email-protection)
 
 [![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/661917c5a7cc10c6a4630e9f_logo-digital-turbine.svg)![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/661d1550ed5858b5b592dd33_DT%20footer%20mobile%20logo.svg)](https://www.digitalturbine.com/)
 
