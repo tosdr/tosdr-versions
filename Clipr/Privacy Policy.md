@@ -96,7 +96,7 @@ The personal data that we collect via our website, in particular via the contact
 
 **8\. Rights of the user relating to his personal data**
 
-In accordance with the Data Protection Act, GDPR and CCPA, you have a right to access, rectify and delete personal data about you, as well as a right to portability of your data. You have a right to limit treatment, a right to oppose the treatment and a right to set guidelines on the fate of your personal data after your death. You can exercise these rights by writing to rgpd@clipr.co or to the address CAPTEEV SERVICE RGPD 10 RUE DE PENTHIEVRE 75008 PARIS. In accordance with the law, you have the legal right to lodge any claim with a supervisory authority [https://www.cnil.fr/en/home.](https://www.cnil.fr/en/home)
+In accordance with the Data Protection Act, GDPR and CCPA, you have a right to access, rectify and delete personal data about you, as well as a right to portability of your data. You have a right to limit treatment, a right to oppose the treatment and a right to set guidelines on the fate of your personal data after your death. You can exercise these rights by writing to [\[email protected\]](https://www.clipr.co/cdn-cgi/l/email-protection) or to the address CAPTEEV SERVICE RGPD 10 RUE DE PENTHIEVRE 75008 PARIS. In accordance with the law, you have the legal right to lodge any claim with a supervisory authority [https://www.cnil.fr/en/home.](https://www.cnil.fr/en/home)
 
 **9\. Consent of the user & opt out**
 
@@ -127,7 +127,7 @@ In order to provide the highest level of security for your Personal Data, Clipr 
 
 **13\. Do you have a question?**
 
-If you have any questions about Clipr’s commitment to privacy and the protection of Personal Data, please contact Our Data Protection Officer at the following address: privacy@clipr.co.
+If you have any questions about Clipr’s commitment to privacy and the protection of Personal Data, please contact Our Data Protection Officer at the following address: [\[email protected\]](https://www.clipr.co/cdn-cgi/l/email-protection).
 
 **14\. Modification of the Privacy Policy** 
 
@@ -145,7 +145,7 @@ _Last update : July 27, 2023._
 
 [](#)[](#)
 
-* [Contact us](mailto:contact@clipr.co?subject=Hello%20Clipr)
+* [\[email protected\]](https://www.clipr.co/cdn-cgi/l/email-protection)
 * [Terms of use](https://www.clipr.co/terms-conditions)
 * [Privacy terms](https://www.clipr.co/privacy-terms)
 
