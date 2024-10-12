@@ -31,6 +31,510 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Boeing despedirá a 17 000 empleados y anuncia retrasos en la producción
+=======================================================================
+
+La empresa anunció retrasos en sus entregas de los aviones 777X, llamados a ser los más grandes del mundo
+---------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Boeing.jpg)
+
+##### Agencia EFE
+
+El presidente y jefe ejecutivo de **Boeing**, **Kelly Ortberg**, anunció en una carta a todo su personal que la compañía va a despedir “en los próximos meses” al 10% de su plantilla. Ese porcentaje equivale a unas 17 000 personas.
+
+“Nuestro negocio está en un momento difícil, y no es fácil exagerar los retos que afrontamos (…) Restaurar la compañía requiere de decisiones duras que tendremos que tomar para hacer cambios estructurales que nos garanticen la competitividad”, dice en su carta.
+
+### Más noticias
+
+* [Paro de 24 horas de trabajadores de Aerolíneas Argentinas afecta a unos 37 000 pasajeros](https://www.elcomercio.com/actualidad/mundo/paro-24-horas-trabajadores-aerolineas-argentinas-afecta-37-000-pasajeros.html "Paro de 24 horas de trabajadores de Aerolíneas Argentinas afecta a unos 37 000 pasajeros")
+* [Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera](https://www.elcomercio.com/actualidad/quito/operaciones-aeropuerto-quito-normales-huracan-milton.html "Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera")
+* [Cancillería insta a ecuatorianos que deseen salir de Líbano hacerlo ‘de manera oportuna’](https://www.elcomercio.com/actualidad/mundo/cancilleria-insta-ecuatorianos-deseen-salir-libano-hacerlo-manera-oportuna.html "Cancillería insta a ecuatorianos que deseen salir de Líbano hacerlo ‘de manera oportuna’")
+
+La huelga en Boeing
+-------------------
+
+**Boeing** afronta una huelga desde el 13 de septiembre, sin visos de que concluya en breve. A esto se añade a los problemas técnicos que varios de sus aviones han registrado últimamente: solo en 2024, ha reportado al menos siete incidentes, aunque ninguno mortal.
+
+Tras anunciarse los despidos, y en las operaciones posteriores al cierre de **Wall Street,** las acciones de la compañía caían un 1,90%.
+
+Los despidos van a afectar a **directivos, gerentes y empleados rasos**, explica el presidente, que prometió una información más detallada en la próxima semana, pero ya anticipó que se anula el próximo ciclo de permisos.
+
+Las pérdidas de Boeing
+----------------------
+
+El ejecutivo dijo que esperan **pérdidas de 9,97 dólares por acción** en el tercer trimestre.
+
+Anunció además retrasos en sus entregas de aparatos: los 777X, llamados a ser los aviones más grandes del mundo. Ya no llegarán hasta 2026, lo que ya ha sido notificado a sus clientes.
+
+El anuncio del gigante aeronáutico llegó por sorpresa este viernes 11 de octubre, víspera de un puente de tres días festivos, en forma de dos comunicados: uno anticipando los resultados negativos del tercer trimestre, y otro comunicando las consecuencias que eso tendrá para la compañía.
+
+“Sabemos cómo estas decisiones os causarán dificultades, a vuestras familias y a todo el equipo, y de verdad me habría gustado no tener que tomarlas. Pero el estado del negocio y nuestra futura recuperación exige acciones dolorosas”, anota.
+
+Los problemas del fabricante de aviones
+---------------------------------------
+
+**Boeing** va camino de cerrar un ‘**annus horribilis**‘, que comenzó el 5 de enero en Portland, cuando un 737 Max 9 perdió una puerta nada más despegar de Portland y tuvo que volver a tierra.
+
+El incidente obligó a la compañía a inmovilizar temporalmente en todo el país numerosos modelos 737 Max, hizo que el Gobierno abrieras varias investigaciones federales y la acciones perdieron la cuarta parte de su valor, reduciendo en más de 40 000 millones de dólares la valoración de mercado de la empresa.
+
+A eso se sumó un nuevo goteo de incidentes durante febrero y marzo, la mayoría en EEUU -hubo uno en Nueva Zelanda- y sin graves consecuencias para los pasajeros, pero sí para la reputación de la empresa.
+
+Finalmente, la **huelga** declarada el 13 de septiembre por la **Asociación Internacional de Maquinistas y Trabajadores Aeroespaciales (IAM)** su principal sindicato de producción, paralizó dos importantes plantas de Boeing: las de ensamblaje de Renton y Everett, que producen el 737 MAX -el aparato más vendido-, el 777 de transporte de carga, y el avión cisterna militar 767, aunque en el comunicado de hoy el CEO se compromete a entregar los 767 a tiempo.
+
+Así serán los créditos de BanEcuador para la compra de paneles y generadores eléctricos
+=======================================================================================
+
+El Gobierno lanzó el Crédito Energía Ciudadana, ofreciendo financiamiento para la compra de paneles solares y generadores eléctricos. BanEcuador lidera esta iniciativa.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Las velas y los generadores de energía son utilizados por hogares y negocios. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/generadores.jpg)
+
+La ministra de Ambiente, y encargada de la cartera de **Energía y Minas**, **Inés Manzano**, anunció una línea de crédito para compra de **paneles solares y generadores eléctricos**. Con el objetivo de aplacar los efectos de la **crisis energética** que enfrenta **Ecuador** y que ha obligado a programar **cortes de luz** de hasta 10 horas en todo el país[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+Más noticias
+------------
+
+* [Conozca los horarios de cortes de luz en Guayaquil para este fin de semana](https://www.elcomercio.com/actualidad/ecuador/conozca-horarios-cortes-luz-guayaquil-fin-de-semana.html "Conozca los horarios de cortes de luz en Guayaquil para este fin de semana")
+* [Cortes de luz en Quito con nuevos horarios para el fin de semana del 12 y 13 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-quito-nuevos-horarios-fin-de-semana-del-12-13-de-octubre.html "Cortes de luz en Quito con nuevos horarios para el fin de semana del 12 y 13 de octubre")
+* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
+
+Manzano, en cadena nacional, informó que el Gobierno estableció una **nueva línea de financiamiento**, a través de **BanEcuador**, con el objetivo de facilitar el acceso a **paneles solares y generadores eléctricos**.
+
+Este nuevo producto financiero, denominado **Crédito Energía Ciudadana**, fue anunciado oficialmente por **BanEcuador** este viernes 11 de octubre de 2024 en sus redes sociales. Se trata de una herramienta diseñada para apoyar tanto a personas naturales como a pequeñas y medianas empresas (PYME) en la compra de **generadores eléctricos y paneles solares.** La iniciativa busca promover la **autogeneración** de energía en todo el país.
+
+La medida tiene un enfoque sostenible, ya que busca incentivar el uso de **energías alternativas** para el cuidado del ambiente. Pero, además, brinda soluciones financieras para la compra de generadores eléctricos, señaló BanEcuador.
+
+“Trabajamos en la sostenibilidad financiera, a través de asistencia técnica, medición de impacto y monitoreo ambiental, social y financiero”, agregó.
+
+Tipos de financiamiento
+-----------------------
+
+El **Crédito Energía Ciudadana** contempla **dos tipos de financiamiento**. El primero, denominado **Financiamiento Verde**, está destinado a la compra de paneles solares. Los ciudadanos pueden acceder a microcréditos de hasta 20 000 dólares con una tasa de interés del 14%. En el caso de las PYME, se ofrecen créditos de hasta 3 millones de dólares con una tasa de interés preferencial del 11,86%.
+
+BanEcuador también ofrece un **Financiamiento para Generadores con Combustible Fósil**. Este producto mantiene condiciones similares en cuanto a los montos y tasas de interés: hasta 20 000 dólares al 16,30% para personas naturales, y hasta 3 millones de dólares al 11,86% para las PYME.
+
+Con este plan, el Gobierno busca no solo enfrentar la actual crisis energética, sino también fomentar una transición hacia energías más limpias, contribuyendo al desarrollo económico sostenible del país y a la reducción de la dependencia de fuentes de energía tradicionales.
+
+Gobierno de Colombia y disidencias de FARC buscan extender cese el fuego
+========================================================================
+
+El Gobierno de Colombia y tres bloques del dividido Estado Mayor Central (EMC), la mayor disidencia de las FARC, arrancó este viernes en Bogotá el VI ciclo de diálogos de paz.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El delegado de las EMC, Andrey Avendaño (d), habla durante la instalación del VI ciclo de diálogos de paz con el Estado Mayor Central, este viernes en Bogotá (Colombia), Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/colombia-farc.jpg)
+
+El Gobierno de **Colombia** y tres bloques del dividido Estado Mayor Central (EMC), la mayor disidencia de las antiguas FARC, iniciaron este viernes 11 de octubre de 2024 el VI ciclo de diálogos de paz. La cita se dio en Bogotá, entre los puntos principales de la agenda está la posibilidad de extender el **cese el fuego** bilateral que acaba el próximo 15 de octubre.
+
+### Más noticias
+
+* [Gobierno de Venezuela se pone a disposición de Colombia para coadyuvar a su ‘estabilidad’](https://www.elcomercio.com/actualidad/mundo/gobierno-venezuela-pone-disposicion-colombia-coadyuvar-estabilidad.html "Gobierno de Venezuela se pone a disposición de Colombia para coadyuvar a su ‘estabilidad’")
+* [Miembros de grupo disidente de las FARC recibieron medidas cautelares](https://www.elcomercio.com/actualidad/seguridad/miembros-grupo-disidente-farc-medidas-cautelares.html "Miembros de grupo disidente de las FARC recibieron medidas cautelares")
+* [Gustavo Petro habla del inicio de un golpe de Estado por parte del CNE de Colombia](https://www.elcomercio.com/actualidad/mundo/gustavo-petro-golpe-estado-cne-colombia.html "Gustavo Petro habla del inicio de un golpe de Estado por parte del CNE de Colombia")
+
+Justo un año después de la instalación oficial de las negociaciones de paz, y luego de varias crisis tras la escisión del conocido EMC, las delegaciones se sentaron con la premisa de avanzar. “Este ciclo puede ser un verdadero salto adelante”, dijo el jefe negociador del Gobierno, **Camilo González Posso**.
+
+“Hace un año y tres días empezamos esta titánica tarea (…) donde se le dio el punto de partida a este proceso. Ahí fue donde logramos llegar a un acuerdo. Desde entonces nos hemos encontrado con miles de obstáculos, con vicisitudes”, aceptó el delegado de las disidencias, **Andrey Avendaño**. Además, agregó que están “muy expectantes de lo que pueda surgir en este ciclo”.
+
+En este sexto ciclo de conversaciones, que se extenderá hasta el 19 de octubre, también estará sobre la mesa el “tema ambiental”, que ambas delegaciones consideran “de vital importancia”.
+
+González Posso agregó que sus expectativas en esta reunión son “salir con decisiones muy puntuales, elaborar un cronograma exacto de trabajo para el siguiente periodo”.
+
+Al llamado Estado Mayor Central pertenecen los bloques de J**orge Suárez Briceño, Magdalena Medio y el Frente Raúl Reyes**
+
+El último ciclo en este proceso se celebró en julio, también en Bogotá. En abril pasado, el EMC se escindió, dejando fuera de las negociaciones a las disidencias comandadas por ‘**Iván Mordisco**‘, que operan principalmente en el suroccidente del país. Ellos han protagonizado una escalada de violencia desde entonces.
+
+“Llevamos seis meses desde la reconfiguración de la mesa. En abril abrimos un nuevo periodo y en estos seis meses hemos avanzado mucho para aprobar el acuerdo de participación. Hemos avanzado en prefigurar pasos inmediatos en materia de transformaciones territoriales”, dijo Posso.
+
+Aceleración de resultados
+-------------------------
+
+La instalación de este ciclo de diálogos en Bogotá estuvo acompañada de la ministra de Ambiente y Desarrollo Sostenible, Susana Muhamad. En su intervención, dijo que es necesario que este proceso entre en una aceleración de resultados, porque el Gobierno entra en el segundo tiempo de su mandato. Esto supone que debe llegar el momento de “consolidación del trabajo”, señaló.
+
+“El Gobierno Nacional está listo”, agregó la ministra. Esto señaló en referencia a las transformaciones territoriales y la defensa de la naturaleza, “pero no podemos hacer eso sin la paz”, alertó.
+
+Por su parte, el consejero comisionado para la paz, **Otty Patiño**, consideró que “se necesita persistencia, confianza en que es posible. Saber que construir la paz no es un camino lleno de rosas, sino de dificultades”, dijo. A la vez que se mostró optimista en que se alcance un acuerdo para extender el **cese el fuego.**
+
+Por el momento se sigue discutiendo si la ampliación del **cese de hostilidades** será de tres o de seis meses. Aunque ambas partes parecen inclinarse hacia la segunda opción.
+
+En esta línea, Patiño detalló que el presidente, **Gustavo Petro**, ordenó cambiar la lógica del cese el fuego: “El plan fundamental es, lo primero, la política de la transformación territorial, y como un elemento que lo puede sustentar, el cese el fuego”. 
+
+Conozca los horarios de cortes de luz en Guayaquil para este fin de semana
+==========================================================================
+
+Los nuevos horarios de los cortes de luz están publicados en la página web del Ministerio de Energía y Minas.
+-------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz se incrementaron en Ecuador debido a la falta de agua que impide el normal funcionamiento de las hidroeléctricas. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-gye-12.jpg)
+
+**Guayaquil** tendrá cortes de luz de hasta 10 horas diarias durante el fin de semana del 12 y 13 de octubre de 2024, en plenas fiestas de independencia de la **Perla del Pacífico**. Los horarios son actualizados e informados por las respectivas empresas eléctricas de cada localidad.
+
+### Más noticias
+
+* [Cortes de luz en Quito con nuevos horarios para el fin de se](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-quito-nuevos-horarios-fin-de-semana-del-12-13-de-octubre.html "Cortes de luz en Quito con nuevos horarios para el fin de semana del 12 y 13 de octubre")[m](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-quito-nuevos-horarios-fin-de-semana-del-12-13-de-octubre.html "Cortes de luz en Quito con nuevos horarios para el fin de semana del 12 y 13 de octubre")[ana del 12 y 13 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-quito-nuevos-horarios-fin-de-semana-del-12-13-de-octubre.html "Cortes de luz en Quito con nuevos horarios para el fin de semana del 12 y 13 de octubre")
+* [Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz](https://www.elcomercio.com/actualidad/quito/lugares-carga-vehicular-obras-cortes-luz-quito.html "Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz")
+* [Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-consulte-aqui-los-horarios-con-la-herramienta-de-ia-de-el-comercio.html "Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO")
+
+El horario de los cortes de luz van de cuatro a siete horas diarias, distribuidas en períodos de cuatro y tres horas, dependiendo del sector.
+
+Consulte aquí el cronograma completo por sectores
+-------------------------------------------------
+
+En este documento está el cronograma para el sábado 12 y el domingo 13 de octubre. Deslice el curso hacia abajo para ver los horarios por sectores.
+
+¿Dónde conocer los nuevos horarios de cortes de luz?
+----------------------------------------------------
+
+Los nuevos horarios de los cortes de luz están publicados en la página web del [Ministerio de Energía y Minas](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/"). En portal se despliegan los logotipos de las nueve empresas eléctricas distribuidoras, que son: CNEL, Empresa Eléctrica Quito, EmelNorte, Empresa Eléctrica Cotopaxi, Empresa Eléctrica Ambato, Empresa Eléctrica Riobamba, Empresa Eléctrica Azogues, Centro Sur y Empresa Eléctrica Regional del Sur.
+
+La búsqueda puede hacerlo en la **plataforma interactiva** de cada distribuidora o ver los PDF con los horarios de los apagones por sectores.
+
+Ante cualquier novedad o denuncia concerniente a los horarios de suspensión en su zona puede remitir un correo a: reporteshorarios@energiayminas.gob.ec con su inquietud.
+
+Desde el 9 de octubre pasado, el **Ministerio de Energía** tomó la decisión de incrementar las horas de apagones debido a la crisis energética que atraviesa el Ecuador, por el bajo nivel de agua en el **embalse de Mazar**, uno de los más grandes del país. La escasez hídrica dificulta la operación normal de las tres hidroeléctricas ubicadas en la cuenca del río Paute.  
+
+  
+  
+
+  
+
+Por estas razones subió la morosidad en las cooperativas de Ecuador
+===================================================================
+
+El crecimiento de los depósitos es muy porque no hay muchos recursos en el mercado ecuatoriano.
+-----------------------------------------------------------------------------------------------
+
+![El sector cooperativo tiene crecimientos entre el 3% y el 5%, lejos de lo que el sector tenía que era del 20%. Foto referencial: Freepik](https://www.elcomercio.com/wp-content/uploads/2022/04/cooperativas.png)
+
+La morosidad en el sector **cooperativo** de **Ecuador** crece. En agosto de 2024 este indicador se ubicó en 8,49%, un porcentaje superior a lo registrado en los mismos meses de 2022 y 2023, que estuvo en el 4,49% y 6,48%, respectivamente.
+
+Este nivel de morosidad ya se registró en la crisis económica del 2015. “No es un problema gravísimo”, pero sigue subiendo ya genera una preocupación, dice **Édgar Peñaherrera**, gerente de la **Red de Integración Ecuatoriana de Cooperativas de Ahorro y Crédito (Icored).**
+
+Según **Peñaherrera**, la cultura de pago se ha dañado en **Ecuador**, incluso entre quienes si pueden hacerlo. “Esperan a ver qué mismo pasa. Otros esperan a las condonaciones. Esa presiona la morosidad hacia arriba”.
+
+### Más noticias
+
+* [Cortes de luz a la industria afectan la economía del país si no se toman medidas](https://www.elcomercio.com/opinion/editorial/cortes-industria-empujan-ecuador-recesion-economica-editorial.html "Cortes de luz a la industria afectan la economía del país si no se toman medidas")
+* [Conozca cinco alivios para los deudores de bancos y cooperativas de Ecuador](https://www.elcomercio.com/actualidad/negocios/conozca-cinco-alivios-financieros-deudores-bancos-cooperativas-ecuador.html "Conozca cinco alivios para los deudores de bancos y cooperativas de Ecuador")
+* [Así trabajarán los bancos durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/negocios/bancos-feriado-9-octubre-atencion-guayaquil.html "Así trabajarán los bancos durante el feriado del 9 de octubre")
+
+¿Por qué crece la morosidad en las cooperativas?
+------------------------------------------------
+
+El crecimiento de la morosidad es más evidente en las cooperativas de ahorro y crédito porque llevan los servicios financieros a las zonas de **más pobreza en Ecuador,** dice Peñaherrera 
+
+“Es un ejercicio más riesgoso de colocar el dinero y creer en los asociados”. Los pequeños negocios y empresas en esos sectores están muy afectados y hay que esperar que se recuperen para reducir la morosidad.
+
+Peñaherrera dice que la economía está en recesión y es difícil que las personas quieran invertir porque además estamos próximos a las elecciones presidenciales y, sobre todo, por la inseguridad.
+
+El comportamiento de los depósitos
+----------------------------------
+
+El crecimiento de las captaciones es muy bajo porque no hay muchos recursos en el mercado. Según Peñaherrera, antes había incrementos superiores al 18%, pero ahora de hasta el 5%.
+
+“No es que no haya confianza en el sistema financiero, sino que no hay dinero”, dice Peñaherrera.
+
+Según él, es mucho complicado que las personas puedan dejar su dinero en pólizas a plazo porque sus ahorros le sirven para el diario. En las cooperativas, el 76% de los depósitos es a plazo porque las tasas de interés son más atractivas.
+
+Y si no hay depósitos tampoco hay créditos, dice Peñaherrera.
+
+El crecimiento del sector cooperativo
+-------------------------------------
+
+En la actualidad, el **sector cooperativo** tiene crecimientos entre el 3% y el 5%, lejos de lo que el sector tenía que era del 20%.
+
+Las cooperativas del segmento uno (**más grandes**) ya incursionaron en traer recursos del exterior para créditos de responsabilidad social, pero ahora no se lo hace porque las altas tasas de interés. 
+
+“No hay como crecer porque no existe mucho dinero en el mercado y hay que ser cautos y no se pueden relajar las políticas de crédito porque no hay una buena capacidad de pago”, dice Peñaherrera.
+
+Militar aprehendido es investigado por el robo de un cajero
+===========================================================
+
+Se trata de un cabo segundo en servicio activo, quien fue aprehendido en el sector de Quitumbe, en Quito.
+---------------------------------------------------------------------------------------------------------
+
+![Imagen referencial. El Ejército entregó al sospechoso a las autoridades competentes para su judicialización y formulación de cargos correspondientes. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2023/02/cajero1.jpg)
+
+### Agencia EFE
+
+Un **militar ecuatoriano** fue aprehendido para investigaciones en un caso de robo a un **cajero automático** en el sur de **Quito**.
+
+En este robo se usaron explosivos, informó el **Ejercicio** en un comunicado.
+
+Las **Fuerzas Armadas** indicaron que por información de inteligencia militar y en el marco de una operación interna para transparentar el accionar del personal, la madrugada de este viernes fue aprehendido en el sector de **Quitumbe**, en Quito.
+
+### Más noticias
+
+* [51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/seguridad/policia-seguridad-operativo-feriado-9-octubre.html "51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre")
+* [La Nasa envió carta de agradecimiento a un hacker por vulnerar sus sistemas de seguridad](https://www.elcomercio.com/tecnologia/nasa-envio-carta-agradecimiento-hacker-vulnerar-sistemas-seguridad.html "La Nasa envió carta de agradecimiento a un hacker por vulnerar sus sistemas de seguridad")
+
+El militar aprehendido en Quito
+-------------------------------
+
+El detenido para investigaciones es un **cabo segundo**, miembro del Ejército en **servicio activo.**
+
+El militar “realizaba el robo a un cajero automático ubicado en la zona, utilizando artefactos explosivos y abrojos, conocidos como ‘miguelillos’ para obstruir el seguimiento de vehículos de la fuerza pública”, especificó.
+
+Frente a este hecho, el **Ejército** **entregó al sospechoso** a las autoridades competentes para su judicialización y formulación de cargos correspondientes, indicó en el escrito.
+
+Agregó que se proporcionarán todas las facilidades a los trámites legales respectivos, que se ejecuten dentro de la investigación de este caso.
+
+Glenda Morejón, medallista olímpica en París 2024, se casó
+==========================================================
+
+Glenda Morejón está viviendo un año de ensueño: medalla olímpica y boda
+-----------------------------------------------------------------------
+
+![Glenda Morejón se casó con su pareja Marlon Pesantez.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-11T163229.505.jpg)
+
+El jueves 10 de octubre de 2024 será un día inolvidable para la medallista olímpica **Glenda Morejón**. La marchista imbabureña se casó con su pareja, Marlon Pesántez, con quien se había comprometido durante los **Juegos Olímpicos** de París 2024.
+
+El compromiso tuvo lugar en París el pasado 2 de agosto, mientras Morejón representaba a Ecuador en la cita olímpica. La marchista **compartió el emotivo momento de la propuesta c**on sus seguidores, mostrando el vínculo entre el amor y el deporte.
+
+### Más noticias:
+
+* [Glenda Morejón se comprometió en los Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/glenda-morejon-se-comprometio-juegos-olimpicos-paris.html "https://www.elcomercio.com/deportes/juegos-olimpicos/glenda-morejon-se-comprometio-juegos-olimpicos-paris.html")
+* [Glenda Morejón y Daniel Pintado ganan medalla de plata en París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/morejon-pintado-medalla-juegos-olimpicos.html "https://www.elcomercio.com/deportes/juegos-olimpicos/morejon-pintado-medalla-juegos-olimpicos.html")
+* [Los anillos olímpicos permanecerán en la torre Eiffel hasta 2028, según alcaldesa](https://www.elcomercio.com/actualidad/mundo/anillos-olimpicos-permaneceran-torre-eiffel-2028-alcaldesa.html "Los anillos olímpicos permanecerán en la torre Eiffel hasta 2028, según alcaldesa")
+
+Este compromiso no solo fue un momento significativo en su vida personal, sino que también pareció traer buena suerte a la atleta, ya que después de aceptarlo, consiguió su **mayor** **logro deportivo**: una medalla olímpica.
+
+Una boda de ensueño
+-------------------
+
+**Glenda Morejón y Marlon Pesántez** contrajeron matrimonio la tarde del 10 de octubre en Cuenca, en una ceremonia íntima a la que asistieron familiares y amigos cercanos.
+
+Entre los invitados estuvo la actriz Priscila Negrón, quien compartió en sus redes sociales videos del evento, mostrando a los **novios radiantes de felicidad.**
+
+Glenda **Morejón lució un elegante vestido blanco, recto y largo**, mientras que su esposo optó por un traje azul marino. Las imágenes capturaron momentos memorables, como el paso de la pareja por el Registro Civil y la clásica foto cortando la torta de recién casados.
+
+### Glenda Morejón, la medallista olímpica
+
+En los recientes Juegos Olímpicos de París 2024, **Glenda Morejón se unió al selecto grupo de deportistas ecuatorianos que han logrado una medalla** en la máxima cita deportiva mundial.
+
+Morejón compitió en dos pruebas de marcha. En la primera, la marcha femenina de 20 km, terminó en el sexto lugar, obteniendo un diploma olímpico. Sin embargo, la mayor gloria deportiva llegó el 7 de agosto, cuando compitió en la prueba mixta de marcha junto a **Daniel Pintado.**
+
+La pareja ecuatoriana se llevó la **medalla de plata** tras completar los 42 kilómetros en un tiempo de 2:51:22 horas, consolidando a Morejón como una de las figuras más importantes del deporte ecuatoriano.
+
+Este 2024 será un año que Glenda Morejón nunca olvidará, tanto en lo personal como en lo deportivo, al haber celebrado su matrimonio y haber conseguido una **medalla olímpica**, el máximo honor para cualquier atleta.
+
+FMI reducirá el costo de sus créditos para los países más endeudados
+====================================================================
+
+Esta decisión representará una disminución que bordea los 1 200 millones de dólares al año. Empezará desde el 1 de noviembre de 2024.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Desde el próximo 1 de noviembre de 2024 empezará la medida acordada por el Fondo Monetario Internacional. Foto: FMI](https://www.elcomercio.com/wp-content/uploads/2024/04/fmi-Ecuador.jpeg)
+
+##### Agencia EFE
+
+El **Fondo Monetario Internacional (FMI)** reducirá un 36% el costo de los préstamos que concede. Esa decisión representará un ahorro para los **países de ingresos bajos y medios** como **Ecuador**.
+
+Ese valor se estima en 1 200 millones de dólares al año.
+
+La **directora gerente de la institución, Kristalina Georgieva**, explicó en un comunicado que la medida se pondrá en práctica a partir del 1 de noviembre y que siete de los países que ahora pagan recargos por superar umbrales de deuda dejarán de hacerlo para 2026.
+
+Georgieva dijo que el directorio del **FMI** concluyó este viernes la revisión de la política de cargos y recargos de la institución con la aprobación de un “paquete global que sustancialmente reduce el costo de los préstamos a la vez que preserva la capacidad financiera del FMI para apoyar a los países que los necesitan”.
+
+### Más noticias
+
+* [Ecuador aún debe esperar para que se concrete el nuevo crédito del FMI](https://www.elcomercio.com/actualidad/negocios/ecuador-aun-debe-esperar-para-que-se-concrete-el-nuevo-credito-del-fmi.html "Ecuador aún debe esperar para que se concrete el  nuevo crédito del FMI")
+* [La caída en las ventas de vehículos en Ecuador no tiene freno](https://www.elcomercio.com/actualidad/negocios/caida-ventas-vehiculos-ecuador-freno.html "La caída en las ventas de vehículos en Ecuador no tiene freno")
+* [El precio de la gasolina cambia desde este 12 de octubre de 2024 en Ecuador](https://www.elcomercio.com/actualidad/negocios/precio-gasolina-cambia-12-de-octubre-de-2024.html "El precio de la gasolina cambia desde este 12 de octubre de 2024 en Ecuador")
+
+La decisión del Fondo Monetario Internacional
+---------------------------------------------
+
+Para rebajar el coste, el **FMI** reducirá el margen sobre los **derechos especiales de giro (DEG)** de 100 a 60 puntos base.
+
+Además, aumentará el umbral para aplicar los recargos, rebajará los intereses para recargos aplicados por cuestiones temporales de 100 a 75 puntos base e incrementará los umbrales para las tasas.
+
+Pero la institución también dejó claro que no tiene intención de eliminar los cargos y recargos al considerar que son una “parte esencial” de su estructura de gestión de riesgo.
+
+“De forma conjunta, cargos y recargos cubren gastos de intermediación de préstamos, ayudan a acumular reservas para proteger contra los riesgos financieros y proporcionan incentivos para una financiación prudente”, dijo **Georgieva.**
+
+Las revisiones anteriores del FMI
+---------------------------------
+
+La última vez que el **FMI** revisó su política de cargos y recargos fue en **2016**. El FMI reconoció que desde entonces los tipos de interés han aumentado de forma pronunciada en todo el mundo, encareciendo los costes de los préstamos para los países.
+
+En la actualidad, **19 países** pagan recargos por los préstamos con el FMI. A partir del 1 de noviembre, Benin, Costa de Marfil, Gabón, Georgia, Moldavia, Senegal, Sri Lanka y Surinam dejarán de hacerlo por el aumento del umbral para aplicarlos.
+
+Para el año fiscal 2026, de los 20 países que el FMI calcula habrían tenido que pagar los recargos en caso de no haber efectuado este cambio, siete no lo harán gracias a las medidas aprobadas este viernes.
+
+Un grupo internacional de economistas había solicitado al FMI una sustancial reforma de su política de recargos.
+
+“Las investigaciones muestran que los recargos del FMI son procíclicos y regresivos, ya que exigen tasas de interés más altas a los países durante las crisis financieras, cuando deberían estar invirtiendo en su propia recuperación”, apuntó la carta firmada por cerca de **150 economistas**, entre ellos el premio **Nobel Joseph Stiglitz.**
+
+Cortes de luz en Quito con nuevos horarios para el fin de semana del 12 y 13 de octubre
+=======================================================================================
+
+En Quito los cortes de luz tienen dos periodos de cinco horas para sector.
+--------------------------------------------------------------------------
+
+![El cronograma de la EEQ rige desde el pasado viernes hasta este domingo, 13 de octubre. FOTO: referencial Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-quito-domingo-6-de-octubre-2024.png)
+
+El Gobierno de **Daniel Noboa** programó **cortes de luz** de hasta 10 horas para este fin de semana del 12 y 13 de octubre de 2024 en Quito. El **aumento de horas de los racionamientos** responde a la crisis energética que atraviesa el país.
+
+### Más noticias
+
+* [Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz](https://www.elcomercio.com/actualidad/quito/lugares-carga-vehicular-obras-cortes-luz-quito.html "Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz")
+* [Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-consulte-aqui-los-horarios-con-la-herramienta-de-ia-de-el-comercio.html "Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO")
+* [Los cortes de luz se programan en cada región](https://www.elcomercio.com/actualidad/ecuador/donde-ver-los-horarios-de-cortes-de-luz-en-ecuador.html "Los cortes de luz se programan en cada región")
+
+Cortes de luz tienen nuevo horario
+----------------------------------
+
+El Ministerio de Energía y Minas publicó los nuevos horarios de cortes de luz para este fin de semana, a través de las distintas [empresas distribuidoras de electricidad](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/") de cada localidad.
+
+Cortes de luz en Quito
+----------------------
+
+La Empresa Eléctrica Quito (EEQ) anunció los nuevos cronogramas de cortes de luz que se aplicarán en la ciudad hasta el 13 de octubre de 2024.
+
+Los cortes de luz de 10 horas están divididos en dos períodos de cinco horas cada uno. Los rangos horarios según los sectores están dispuestos de la siguiente manera:
+
+**De 00:00 a 05:00** y de **10:00 a 15:00**  
+Luluncoto  
+Chilibulo  
+Miraflores  
+La Floresta  
+Río Coca  
+Cristianía  
+Epiclachima  
+Conocoto  
+Tumbaco
+
+**Desde las 00:00 hasta las 05:00 y 14:00 y 19:00**  
+La Carolina  
+Nueva Cumbayá  
+Mirador Alto  
+Los Bancos  
+Pérez Guerrero  
+El Obraje (Machachi)
+
+**Cortes de luz de 09:00 a 14:00 y de 19:00 a 24:00**  
+Chimbacalle  
+Belisario Quevedo  
+Granda Centeno  
+Gualo  
+Andalucía  
+Cotocollao  
+Inga Bajo
+
+**Desde las 05:00 hasta las 10:00 y 15:00 a 20:00**  
+Olímpico  
+Barrio Nuevo  
+El Bosque  
+San Antonio  
+Alangasí  
+San Rafael  
+Iñaquito  
+Santa Rosa  
+Sangolquí  
+Pomasqui  
+El Quinche  
+Eugenio Espejo
+
+**De 11:00 a 16:00 y de 20:00 a 24:00**  
+Luluncoto  
+Chilibulo  
+San Roque  
+Río Coca  
+Andalucía  
+Cotocollao  
+Alangasí  
+Santa Rosa  
+Inga Bajo
+
+**Desde las 14:00 hasta las 24:00**  
+Santa Rosa: Ideal Alambrec  
+Inga Bajo: Expreso Novopan
+
+Consulte aquí el cronograma completo:
+-------------------------------------
+
+En este documento está el cronograma desde el jueves 10 hasta el domingo 13 de octubre. Deslice el curso hacia abajo para ver los horarios del fin de semana por sectores.
+
+El precio de la gasolina cambia desde este 12 de octubre de 2024 en Ecuador
+===========================================================================
+
+El precio de las gasolinas extra, ecopaís, y súper se actualizará desde este 12 de octubre de 2024,
+---------------------------------------------------------------------------------------------------
+
+![El cambio del precio de la gasolina se aplica el día 12 de cada mes, en Ecuador. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/07/gasolina.jpg)
+
+El precio de las gasolinas **extra y ecopaís**, de 85 octanos, y la súper (95 octanos) cambiará en Ecuador desde este 12 de octubre de 2024. La **Agencia de Regulación y Control de Hidrocarburos** está a cargo de la socialización de la nueva tarifa, que estará vigente hasta el 11 de noviembre próximo[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+Más noticias
+------------
+
+* [¿Quiénes no pagarán las planillas de luz por tres meses en Ecuador?](https://www.elcomercio.com/actualidad/negocios/quienes-no-pagaran-planillas-luz-tres-meses-ecuador.html "¿Quiénes no pagarán las planillas de luz por tres meses en Ecuador?")
+* [Ecuador va a su propio ritmo en la apuesta de energías renovables](https://www.elcomercio.com/actualidad/negocios/ecuador-propio-ritmo-apuesta-energias-renovables.html "Ecuador va a su propio ritmo en la apuesta de energías renovables")
+* [Claves para ahorrar electricidad en tiempo de crisis en Ecuador](https://www.elcomercio.com/actualidad/negocios/claves-para-ahorrar-electricidad-en-tiempo-de-crisis-en-ecuador.html "Claves para ahorrar electricidad en tiempo de crisis en Ecuador")
+
+Desde este 12 de octubre de 2024, las **gasolinas extra, ecopaís** y súper tendrán una reducción por segundo mes consecutivo. Así, las tres gasolinas que se comercializan en el país se venderán a menor precio este mes, confirmó **Oswaldo Erazo**, secretario Ejecutivo de la Cámara Nacional de Distribuidores de Derivados de Petróleo (Camddepe).
+
+> Los precios de las gasolinas extra, súper y eco se actualizan el 12 de cada mes.  
+>   
+> En esta ocasión y por segundo mes consecutivo baja el precio por galón, desde el 12 de oct, hasta el 11 de nov.[@Primicias](https://twitter.com/Primicias?ref_src=twsrc%5Etfw) [@eluniversocom](https://twitter.com/eluniversocom?ref_src=twsrc%5Etfw) [@elcomerciocom](https://twitter.com/elcomerciocom?ref_src=twsrc%5Etfw) [@lahoraecuador](https://twitter.com/lahoraecuador?ref_src=twsrc%5Etfw) [@teleamazonasec](https://twitter.com/teleamazonasec?ref_src=twsrc%5Etfw) [@ecuavisa](https://twitter.com/ecuavisa?ref_src=twsrc%5Etfw)
+> 
+> — Oswaldo Erazo (@oswaldo\_erazoa) [October 11, 2024](https://twitter.com/oswaldo_erazoa/status/1844825698344579179?ref_src=twsrc%5Etfw)
+
+Las gasolinas extra y ecopaís se venden hasta este 11 de octubre a 2,59 dólares por galón. Mientras que, la **gasolina súper**, de 95 octanos, tiene el precio sugerido de 3,90 dólares por galón.
+
+El precio de la gasolina cambia cada mes
+----------------------------------------
+
+Desde el pasado 28 de junio de 2024, el presidente del Ecuador, **Daniel Noboa**, eliminó el subsidio de la**s gasolinas extra y ecopaís**.
+
+Tras este cambio, estos derivados entraron en un sistema de bandas y la tarifa fluctúa mensualmente, conforme al precio del petróleo en el mercado internacional. Con este nuevo sistema, el precio de estos derivados cambian el 12 de cada mes.
+
+Asimismo, la normativa señala que el precio de las **gasolinas extra y ecopaís** no podrá subir más del 5% mensual ni bajar más del 10% del mes anterior.
+
+Mientras que el precio de la gasolina súper está liberado y se comercializa a diferentes tarifas, dependiendo de la estación de servicio, respetando los márgenes de**l precio sugerido**.
+
+Precio del petróleo
+-------------------
+
+El crudo WTI (referencia para Ecuador) se comercializa actualmente a 75 dólares el barril.
+
+Perú atendió este 2024 más de 1,3 millones de casos por trastornos de salud mental
+==================================================================================
+
+El Ministerio de Salud de Perú atendió casos de problemas psicosociales.
+------------------------------------------------------------------------
+
+![Imagen referencial de una pesona con depresión.](https://www.elcomercio.com/wp-content/uploads/2024/10/depresion-pexels-.jpg)
+
+Los establecimientos sanitarios del **Ministerio de Salud de** [Perú](https://www.elcomercio.com/actualidad/mundo/peru-despliega-militares-aeronaves-combatir-numerosos-incendios-forestales.html "https://www.elcomercio.com/actualidad/mundo/peru-despliega-militares-aeronaves-combatir-numerosos-incendios-forestales.html") atendieron en lo que va de este año más de 1,3 millones de casos por trastornos de salud mental y problemas psicosociales, informaron este fuentes oficiales.
+
+### Más noticias
+
+* [303 figuras halladas en el desierto de Perú son más antiguas que las Líneas de Nazca](https://www.elcomercio.com/tendencias/ciencia/lineas-nazca-inteligencia-artificial.html "303 figuras halladas en el desierto de Perú son más antiguas que las Líneas de Nazca")
+* [Carlos Garcés sigue en racha y volvió a anotar en Perú](https://www.elcomercio.com/deportes/futbol/carlos-garces-goleador-cienciano-peru.html "Carlos Garcés sigue en racha y volvió a anotar en Perú")
+* [Perú despliega militares y aeronaves para combatir incendios forestales](https://www.elcomercio.com/actualidad/mundo/peru-despliega-militares-aeronaves-combatir-numerosos-incendios-forestales.html "Perú despliega militares y aeronaves para combatir incendios forestales")
+
+Esta información, ofrecida en el marco del Día Mundial de la Salud Mental, conmemorado cada 10 de octubre, busca “visibilizar la **salud mental como derecho humano y universal**“. Además, concienciar “sobre la importancia de tomar acción, así como brindar atención oportuna, de calidad y con calidez a la ciudadanía”, agrego el ministerio.
+
+Detalló que, entre las patologías de atención más frecuentes, se encuentran la **ansiedad, depresión, síndrome del maltrato, trastorno emocional** y del comportamiento en la niñez y adolescencia, y trastorno del desarrollo psicológico, entre otros.
+
+Al respecto, la **directora de Salud Mental, July Caballero,** dijo que la salud mental es “el estado de bienestar que depende de un equilibrio entre la persona y su entorno”. Esto permite desarrollar “habilidades para enfrentar vicisitudes, **adversidades de la vida, encontrar soluciones,** tener resiliencia y cumplir con su propósito en la vida”.
+
+Problemas de salud mental
+-------------------------
+
+“Cuando perdemos el estado de bienestar es cuando surgen los **problemas de salud mental**. Estos los podemos dividir en trastornos mentales y del comportamiento, y problemas psicosociales”, comentó.
+
+Caballero agregó que “los centros de **salud mental comunitaria brindan atención especializada**, cuentan con equipos interdisciplinarios donde se prioriza la atención integral de acuerdo a las necesidades identificadas de la persona y su familia”.
+
+“Asimismo, fomenta la **movilización social, comunitaria y la participación de usuarios y familiares**“, dijo.
+
+Centros de salud comunitaria
+----------------------------
+
+El ministerio informó que tiene planificado cerrar este año con **292 centros de salud mental comunitaria**, 52 unidades de hospitalización en hospitales generales, 94 hogares protegidos, seis servicios de salud mental en establecimientos penitenciarios y **11 equipos móviles** para atender a personas con trastornos mentales en situación de calle y a la población en zonas geográficas de difícil acceso. 
+
 Baltazar Ushca es velado en el Municipio de Guano
 =================================================
 
@@ -42,6 +546,10 @@ En el auditorio de la Municipalidad se levantó una capilla ardiente. Luego sus 
 Los restos del último **hielero del Chimborazo**, **Baltazar Ushca**, son velados en el **Municipio de Guano**.
 
 Familiares, amigos y autoridades locales llegaron al auditorio para homenajear a este **ícono** de la cultura y tradiciones del **Ecuador**. En ese lugar se levantó una capilla ardiente.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/PHOTO-2024-10-11-15-08-43-1024x768.jpg)
+
+**Foto: Cortesía Municipio de Guano.**
 
 **Ushca** falleció este viernes 11 de octubre de 2024 a la edad de 80 años. Su muerte se produjo tras un accidente doméstico ocurrido el 10 de octubre de 2024, cuando un toro lo derribó en su hogar, causándole lesiones graves.
 
@@ -58,13 +566,19 @@ A más de su trabajo como hielero, **Baltazar Ushca** también laboraba en el Mu
 El sepelio de Baltazar Ushca
 ----------------------------
 
-Los representantes del **Municipio de Guano** informaron que los restos de Ushca serán trasladados pasadas las 18:00 a la comunidad de **Pulinguí Santa Elena**, de donde era oriundo.
+Los representantes del **Municipio de Guano** informaron que los restos de Ushca serán trasladados pasadas las 18:00 a la comunidad de **Cuatro Esquinas**, de donde era oriundo.
 
-En ese lugar se realizará su sepelio. La comunidad ha expresado su dolor por su pérdida y ha recordado su legado como un representante viviente de las tradiciones ecuatorianas. 
+En ese lugar se realizará su sepelio. Inicialmente, se tiene previsto que sea sepultado el domingo cerca de las 13:00. Pero aún está por confirmarse porque las instituciones de **Chimborazo**, **Guano** y su parroquia quieren rendirle homenajes entre este viernes 11 y el domingo 13 de octubre.
 
-Ushca era un símbolo del turismo en la provincia de Chimborazo y un ícono cultural en Ecuador.
+La comunidad ha expresado su dolor por su pérdida y ha recordado su legado como un representante viviente de las tradiciones ecuatorianas. 
+
+**Ushca** era un símbolo del turismo en la provincia de **Chimborazo** y un ícono cultural en **Ecuador**.
 
 A lo largo de su vida, se dedicó a extraer hielo del **nevado Chimborazo** para venderlo en el mercado de Riobamba, preservando así una tradición que ha ido desapareciendo con el tiempo.
+
+En este link podrás mirar los homenajes recibidos en el Municipio de Guano:
+
+[https://www.facebook.com/share/v/K2tfJWFgn4E5J1AV/?mibextid=WC7FNe](https://www.facebook.com/share/v/K2tfJWFgn4E5J1AV/?mibextid=WC7FNe)
 
 Ecuador va a su propio ritmo en la apuesta de energías renovables
 =================================================================
@@ -483,465 +997,3 @@ Por otro lado, los colaboradores que **no desempeñen un papel jerárquic**o pod
 > Detalles ⬇️[https://t.co/K9hBVKTZSM](https://t.co/K9hBVKTZSM) [pic.twitter.com/Tt7U2orq4j](https://t.co/Tt7U2orq4j)
 > 
 > — Fiscalía Ecuador (@FiscaliaEcuador) [October 8, 2024](https://twitter.com/FiscaliaEcuador/status/1843451035467296949?ref_src=twsrc%5Etfw)
-
-Lula defiende una Brasil sin futbolistas que jueguen fuera del país
-===================================================================
-
-En los últimos años, Brasil ha perdido su esencia, y por eso el mandatario de la nación defiende una idea descabellada.
------------------------------------------------------------------------------------------------------------------------
-
-![Vinícius Júnior, figura del Real Madrid, con la camiseta de la Selección de Brasil.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-11T114840.434.jpg)
-
-**Luiz Inácio Lula da Silva**, presidente de Brasil, propuso este viernes que se excluya de la selección nacional a los futbolistas que juegan en el extranjero, argumentando que, en su opinión, “no hay ningún jugador estrella” fuera del país.
-
-“**Los que están fuera no son mejores que los que están aquí”**, afirmó durante una entrevista radiofónica, un día después de que la Canarinha ganase 1-2 a Chile en las eliminatorias del Mundial, con goles de Luiz Henrique e Igor Jesus, dos jugadores del Botafogo de Río de Janeiro.
-
-### Más noticias:
-
-* [Chile perdió con Brasil en los minutos finales](https://www.elcomercio.com/deportes/futbol/chile-brasil-resultado-eliminatorias-2026.html "Chile perdió con Brasil en los minutos finales")
-* [X vuelve a Brasil, pero con varias condiciones](https://www.elcomercio.com/actualidad/mundo/x-red-social-vuelve-brasil.html "X vuelve a Brasil, pero con varias condiciones")
-* [Venezuela no se rindió ante Argentina en las eliminatorias sudamericanas](https://www.elcomercio.com/deportes/eliminatorias/venezuela-argentina-eliminatorias-sudamericanas-resultado-empate.html "Venezuela no se rindió ante Argentina en las eliminatorias sudamericanas")
-
-Ya no hay buenos jugadores fuera de Brasil
-------------------------------------------
-
-El mandatario dijo que recientemente se reunió con el presidente de la Confederación Brasileña de Fútbol (CBF) y que le planteó la posibilidad de convocar solo a quienes juegan en el país, lo que excluiría a futbolistas como **Vinícius** **Junior**, Rodrigo, Militão y Endrick, del Real Madrid, o Raphinha, del Barça.
-
-Según Lula, en este momento no hay **“ningún Garrincha ni Romário”** en equipos extranjeros; solo “un montón de jóvenes que aún no son cracks”.
-
-“En Brasil hay jugadores buenos y de la misma calidad (que los que están fuera), entonces den oportunidades a los que están aquí”, propuso.
-
-El presidente, que es **seguidor del Corinthians** de São Paulo, gusta de comentar la actualidad deportiva durante las entrevistas y últimamente se ha mostrado crítico con la situación tanto de su equipo, que está en la zona de descenso, como de la selección.
-
-Brasil recupera terreno en eliminatorias
-----------------------------------------
-
-La ‘**Canarinha’ se impuso a Chile por 1-2**, en condición de visitante, y respiró aliviada, después de una serie de derrotas en las eliminatorias del Mundial frente a rivales teóricamente más débiles, como Paraguay.
-
-Con este resultado, los **pentacampeones del mundo ocupan el cuarto lugar** de la tabla con 13 puntos, mientras que la selección chilena se mantiene novena con cinco unidades, fuera de los puestos de clasificación.
-
-Por otra parte, gracias a la victoria de Brasil y al empate de **Ecuador, la ‘Tri’ descendió** a la quinta casilla con 12 unidades.
-
-Juicio de Sean ‘Diddy’ Combs iniciará en 2025 
-==============================================
-
-El juicio de Sean 'Diddy' Combs por tráfico sexual se realizará en Nueva York.
-------------------------------------------------------------------------------
-
-![Sean 'Diddy' Combs, ícono de la música, enfrenta graves acusaciones. Foto: IMDb.](https://www.elcomercio.com/wp-content/uploads/2024/10/Sean-Diddy-Combs-juicio.jpg)
-
-El **juicio** contra el famoso rapero y magnate de la música **Sean ‘Diddy’ Combs** ha sido programado para el **5 de mayo de 2025**.  
-
-### Más noticias
-
-* [Familia de Tupac investiga conexión con Sean ‘Diddy’ Combs y su asesinato](https://www.elcomercio.com/tendencias/trending/tupac-shakur-sean-diddy-combs-asesinato.html "https://www.elcomercio.com/tendencias/trending/tupac-shakur-sean-diddy-combs-asesinato.html") 
-* [Suben a 120 las acusaciones de abuso sexual contra P. Diddy](https://www.elcomercio.com/tendencias/trending/sean-combs-p-diddy-trafico-sexual.html "https://www.elcomercio.com/tendencias/trending/sean-combs-p-diddy-trafico-sexual.html")
-
-Este **proceso legal**, que se llevará a cabo en **Nueva York**, ha captado la atención mundial debido a la gravedad de las acusaciones: **tráfico sexual y extorsión**. Según el juez **Arun Subramanian**, quien preside el caso, se espera que el juicio se extienda por varias semanas debido a la complejidad de las pruebas y testimonios involucrados, de acuerdo con [El Espectador](https://www.elespectador.com/entretenimiento/gente/el-juicio-por-trafico-sexual-contra-el-rapero-sean-diddy-combs-comenzara-en-mayo/ "https://www.elespectador.com/entretenimiento/gente/el-juicio-por-trafico-sexual-contra-el-rapero-sean-diddy-combs-comenzara-en-mayo/"). 
-
-**Un juicio esperado para Sean ‘Diddy’ Combs** 
------------------------------------------------
-
-**Sean ‘Diddy’ Combs**, conocido por su **influencia en la industria musical,** enfrenta cargos que podrían cambiar el curso de su carrera. Las acusaciones incluyen la **dirección de una red de tráfico sexual** que operó durante años, y que afectó a numerosas víctimas. Este caso ha generado un debate intenso sobre el poder y la responsabilidad en el mundo del entretenimiento, a decir de [El Universal](https://www.eluniversal.com/internacional/192800/juicio-de-sean-diddy-combs-esta-previsto-para-mayo-de-2025 "https://www.eluniversal.com/internacional/192800/juicio-de-sean-diddy-combs-esta-previsto-para-mayo-de-2025"). 
-
-**Impacto en la industria musical** 
-------------------------------------
-
-El **juicio de ‘Diddy’** no solo afecta su reputación personal, sino que también pone en el centro de atención a la **industria musical**. Muchos se preguntan cómo estas acusaciones impactarán a otros artistas y ejecutivos del sector. **La industria ha sido criticada por su falta de acción** ante comportamientos inapropiados, y este caso podría ser un punto de inflexión para implementar cambios significativos, según recoge [Infobae](https://www.infobae.com/entretenimiento/2024/10/10/el-juicio-de-sean-diddy-combs-ya-tiene-fecha-su-destino-se-decidira-en-2025/ "https://www.infobae.com/entretenimiento/2024/10/10/el-juicio-de-sean-diddy-combs-ya-tiene-fecha-su-destino-se-decidira-en-2025/"). 
-
-**El futuro de Sean ‘Diddy’ Combs** 
-------------------------------------
-
-El resultado del juicio determinará el futuro de **Sean ‘Diddy’ Combs**. Si es declarado culpable, **podría enfrentar una larga condena en prisión**, lo que pondría **fin a su carrera musical y empresarial.** Sin embargo, si es absuelto, podría intentar **reconstruir su imagen pública y continuar con sus proyectos en la industria**. Este caso es un recordatorio de que nadie está por encima de la ley, independientemente de su fama o fortuna, a decir de [El Economista](https://www.eleconomista.com.mx/arteseideas/juicio-diddy-trafico-sexual-iniciara-mayo-20241010-729526.html "https://www.eleconomista.com.mx/arteseideas/juicio-diddy-trafico-sexual-iniciara-mayo-20241010-729526.html"). 
-
-El juicio de **Sean ‘Diddy’ Combs** es un evento que marcará un antes y un después en la **industria musical** y en la lucha contra el **tráfico sexual**. La atención mundial está puesta en este caso, y su desenlace podría tener repercusiones significativas en cómo se manejan las acusaciones de este tipo en el futuro. 
-
-Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay
-=================================================================
-
-La 'Tri' dejó escapar dos puntos valiosos ante un rival directo, y uno los más señalados es el joven talento de IDV.
---------------------------------------------------------------------------------------------------------------------
-
-![Kendry Páez en el partido entre la Selección de Ecuador ante Paraguay en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-11T111600.753.jpg)
-
-La **Selección de Ecuador** empató sin goles contra Paraguay en el Estadio Rodrigo Paz Delgado, en un partido donde el equipo ecuatoriano no logró generar peligro real, y donde se destacó el discreto desempeño de **Kendry Páez**.
-
-Enfrente, la ‘Albirroja’ dirigida por **Gustavo Alfaro,** un técnico que conoce muy bien a la ‘Tri’, se plantó en Quito con una defensa sólida de cinco hombres, que se reforzaba aún más cuando Ecuador tenía el balón.
-
-### Más noticias:
-
-* [Kendry Páez mantiene la ’10’ en la Selección de Ecuador](https://www.elcomercio.com/deportes/gonzalo-plata-seleccion-ecuador-kendry-paez-numero.html "Kendry Páez mantiene la ’10’ en la Selección de Ecuador")
-* [Álex Aguinaga habla con dureza sobre Kendry Páez](https://www.elcomercio.com/deportes/futbol/alex-aguinaga-habla-con-dureza-sobre-kendry-paez.html "Álex Aguinaga habla con dureza sobre Kendry Páez")
-* [Beccacece, satisfecho tras empate de la Selección de Ecuador con Paraguay](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-paraguay.html "Beccacece, satisfecho tras empate de la Selección de Ecuador con Paraguay")
-
-El equipo ecuatoriano, que en varios tramos del encuentro solo movía la pelota de manera lateral sin profundidad, **expuso las dificultades de Kendry Páez**, quien fue sustituido en el entretiempo. El mediocampista está lejos de la versión que alguna vez mostró tanto en su club como en la selección.
-
-Kendry Páez, en el centro de las críticas tras el empate
---------------------------------------------------------
-
-Desde que se anunció la convocatoria de **Sebastián Beccacece,** hubo mucho escepticismo respecto al llamado de Kendry Páez. En el último mes, el joven ha perdido la titularidad en Independiente del Valle, sumando solo algunos minutos como suplente.
-
-Este bajón, sumado a su **declive post Copa América,** generó malestar entre los aficionados, quienes cuestionaron su presencia en la selección.
-
-En el duelo contra Paraguay, donde Páez fue titular, todas las miradas estaban sobre él, tanto en las transmisiones televisivas como en las gradas del estadio. Sin embargo, e**l jugador de 17 años no tuvo un buen desempeño**, y fue duramente criticado en redes sociales, donde muchos afirmaban que, dado su momento actual, no debería haber sido convocado ni alineado como titular.
-
-En las tribunas del estadio, **varios aficionados también expresaron su descontent**o, señalando que Páez debía ser el primer cambio debido a su bajo rendimiento.
-
-Números de Páez con Ecuador
----------------------------
-
-A sus 17 años, Kendry Páez **ya acumula 15 partidos con la Selección de Ecuador**, 12 de ellos como titular y tres como suplente.
-
-Con casi 1,100 minutos de juego, el volante ha marcado **dos goles** y repartido tres asistencias.
-
-Uno de sus goles fue en las Eliminatorias Sudamericanas, frente a Bolivia, en un partido como visitante. Su segunda anotación fue en la victoria de Ecuador sobre Jamaica (3-1) durante la **Copa América** 2024, disputada en Estados Unidos.
-
-Páez comenzó su recorrido en la selección con el número 16, pero en los últimos 10 partidos se ha consolidado como el **portador de la camiseta número 10.**
-
-¿Qué pasó con Mazar con las lluvias registradas en Cuenca?
-==========================================================
-
-Las lluvias en Cuenca mejoraron los caudales en los ríos Tomebamba, Yanuncay y Paute.
--------------------------------------------------------------------------------------
-
-![La Central Hidroeléctrica de Mazar genera energía durante las noches para cubrir la demanda nacional. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/04/Mazar-Ecuador-cortes-de-luz.jpg)
-
-Las condiciones en el embalse de **Mazar** no mejoran, pese a las lluvias registradas en **Cuenca**. La cota se mantiene en los 2 112,6 metros sobre el nivel del mar.
-
-Está tres metros por debajo del nivel que temían los técnicos y **autoridades eléctricas**. Es decir, los 2 115.
-
-La razón es que cuando baja desde este último nivel, aumentan las posibilidades que ingresen sedimentos acumulados en el embalse de 410 millones de metros cúbicos. 
-
-Los sedimentos son rocas, palos o lodo. Esos materiales pueden afectar a las dos turbinas de la central Mazar, ubicado en los límites de **Azuay y Cañar.**
-
-### Más noticias
-
-* [Mazar tuvo una drástica disminución de su embalse, hay implicaciones](https://www.elcomercio.com/actualidad/negocios/embalse-mazar-sin-agua-las-implicaciones-cortes-luz-ecuador.html "Mazar tuvo una drástica disminución de su embalse, hay implicaciones")
-* [Mazar está por debajo del nivel para operar sin riesgo de sedimentos](https://www.elcomercio.com/actualidad/negocios/mazar-debajo-nivel-operar-riesgo-sedimentos.html "Mazar está por debajo del nivel para operar sin riesgo de sedimentos")
-* [Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz](https://www.elcomercio.com/actualidad/quito/lugares-carga-vehicular-obras-cortes-luz-quito.html "Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz")
-
-La generación de Mazar y Paute
-------------------------------
-
-Pese a que el ingreso de caudal a los embalses de **Mazar** y **Paute** siguen bajos por la sequía que afecta a Cuenca desde hace 91 días, Ecuador requiere de la producción de ambas centrales.
-
-**Mazar** operó entre las 19:00 del jueves 10 y las 01:00 de este viernes 11. Aportó con 600 megavatios/hora.
-
-La **Central Paute,** que es la segunda más grande de Ecuador, labora hasta con tres turbinas casi sin interrupciones.
-
-El **Operador Nacional de Electricidad (Cenace)** programó que la Central Paute aporte con el 5% de la producción hidroeléctrica de este viernes 11. **Sopladora** lo hará con el 3% y **Coca Codo Sinclair** entregará el 42%.
-
-Las lluvias registradas en Cuenca
----------------------------------
-
-Las lluvias registradas la tarde y noche del jueves 10 de octubre de 2024 mejoraron las condiciones en tres de los cuatro ríos de Cuenca.
-
-El **Yanuncay, Tomebamba y Machángara** están en condiciones normales, según la información publicada por la **Red Hidrometereológica** de **Cuenca**.
-
-Tienen caudales que supera los cuatro metros cúbicos por segundo. En los días previos tenía menos de 1,50.
-
-Esta red de la **empresa municipal Etapa** pronosticó que este viernes 11 de octubre se registren lluvias en **Cuenca**. Las probabilidades bordean el 78% para la tarde y bajan al 48% para la noche.
-
-Batalla campal en el Camp Nou, del FC Barcelona, deja seis heridos
-==================================================================
-
-El conjunto culé está remodelando su estadio para convertirlo en uno de los más grandes y modernos del mundo.
--------------------------------------------------------------------------------------------------------------
-
-![Obras del Camp Nou del FC Barcelona deja seis heridos por altercado.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-11T103629.250.jpg)
-
-El **FC Barcelona** comenzó la remodelación de su icónico estadio, el Camp Nou, a inicios de 2023. Por esta razón, durante la temporada 2024/25, el equipo culé juega fuera de su tradicional hogar. Sin embargo, los problemas en la construcción, **incluidos altercados violentos**, podrían extender el plazo de las obras.
-
-Este viernes 11 de octubre, varios medios españoles informaron s**obre un violento enfrentamiento en las inmediaciones del estadio** entre un grupo numeroso de obreros. El altercado dejó como resultado seis personas heridas, además de provocar varios despidos y nuevos retrasos en la obra.
-
-### Más noticias:
-
-* [La Selección de Ecuador descendió al quinto puesto en la tabla](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador descendió al quinto puesto en la tabla")
-* [Lionel Messi y un emotivo mensaje para Andrés Iniesta, tras su retirada](https://www.elcomercio.com/deportes/futbol/lionel-messi-emotivo-mensaje-para-andres-iniesta-tras-su-retirada.html "Lionel Messi y un emotivo mensaje para Andrés Iniesta, tras su retirada")
-* [FC Barcelona muestra su supremacía en Champions](https://www.elcomercio.com/deportes/fc-barcelona-young-boys-uefa-champions-league.html "FC Barcelona muestra su supremacía en Champions")
-
-Batalla campal en el Camp Nou
------------------------------
-
-El enfrentamiento, que tuvo lugar al mediodía de este viernes y en el que se **utilizaron palos**, dejó un saldo de seis personas con **heridas leves.** 
-
-Los involucrados en la pelea pertenecían a dos grupos de obreros, **uno compuesto por rumanos y el otro por albaneses**. Aún no se conocen las razones exactas que provocaron la trifulca.
-
-El encargado de la obra habría decidido despedir a todos los implicados en el incide**nte**. Cabe destacar que, hace algunos meses, ocurrió un altercado similar.
-
-No es la primera vez que sucede
--------------------------------
-
-El pasado 23 de mayo, se **registró otra pelea en las obras del Camp Nou** del FC Barcelona, que resultó en dos heridos y cuatro detenidos. En esa ocasión, también se utilizaron palos y material de construcción durante el altercado.
-
-Un testigo presencial informó a EFE que el enfrentamiento, que **involucró a una decena de trabajadores**, comenzó alrededor de las 11 de la mañana en la calle Arístides Maillol, justo frente a la entrada del Camp Nou, cuando dos grupos de obreros se enfrentaron.
-
-En el club están tranquilos, ya que el incidente no ocurrió dentro del estadio, sino en la vía pública. Durante la pelea, los obreros se enfrentaron utilizando herramientas.
-
-Baltazar Ushca, el último hielero del Chimborazo, deja un legado inmortal en el Ecuador 
-========================================================================================
-
-Baltazar Ushca, símbolo de resistencia cultural y de una vida dedicada a una tradición ancestral
-------------------------------------------------------------------------------------------------
-
-![Baltazar Ushca se erigió como un símbolo de una tradición ancestral en peligro de extinción. Foto: Cuenta X Ministerio de Turismo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Baltazar-Ushca.jpg)
-
-Los ecuatorianos se despertaron este 11 de octubre con **la lamentable noticia del fallecimiento de Baltazar Ushca**, una figura icónica del país y conocido como **el último hielero del Chimborazo**. Según informó el **GAD Municipal de Guano**, ciudad donde Ushca vivía, su muerte se confirmó tras un grave accidente. 
-
-### Más noticias
-
-* [Baltazar Ushca, el último hielero del Chimborazo, trasladado de urgencia al hospital](https://www.elcomercio.com/actualidad/ecuador/baltazar-ushca-ultimo-hielero-chimborazo-urgencia-hospital.html "https://www.elcomercio.com/actualidad/ecuador/baltazar-ushca-ultimo-hielero-chimborazo-urgencia-hospital.html")
-* [Falleció Baltazar Ushca, el último hielero del Ecuador](https://www.elcomercio.com/actualidad/ecuador-perdio-ultimo-hielero-fallecio-baltazar-ushca.html "https://www.elcomercio.com/actualidad/ecuador-perdio-ultimo-hielero-fallecio-baltazar-ushca.html")
-
-El incidente ocurrió el 10 de octubre, cuando **un toro lo derribó mientras realizaba labores domésticas en su hogar**. A pesar de sus 80 años y su empleo en el **Museo de Guano**, donde relataba su historia a los visitantes, Ushca seguía con sus actividades cotidianas. Tras el accidente, **fue atendido en Guano y luego trasladado al Hospital Solca de Riobamba**, donde se confirmó su deceso. 
-
-**Baltazar Ushca: Un legado de hielo y tradición** 
----------------------------------------------------
-
-**Baltazar Ushca Tenesaca**, conocido como **el último hielero del Chimborazo**, se convirtió en un **símbolo viviente de una tradición ancestral** que ha perdurado a lo largo de los siglos. A sus 80 años, **Ushca se mantuvo como baluarte de la ardua tarea de extraer hielo del majestuoso volcán Chimborazo**, una actividad que fue parte de su vida desde que tenía 15 años. Esta práctica, que alguna vez fue común en la región, ha desaparecido casi por completo, lo que dejó a Ushca como **el último de su clase**. 
-
-Archivo: EL COMERCIO
-
-**Un oficio en extinción** 
----------------------------
-
-La **extracción de hielo del Chimborazo** es una tradición que se remonta a tiempos precolombinos. Los hieleros, como Ushca, **suben al volcán para cortar bloques de hielo** que luego son transportados a los mercados locales. **Este hielo, conocido por su pureza**, es muy apreciado en la región. Sin embargo, con la llegada de la refrigeración moderna, la **demanda de hielo natural** ha disminuido drásticamente, lo que ha puesto en peligro esta tradición única. 
-
-**Baltazar Ushca realizaba su labor a más de 5000 metros sobre el nivel del mar**. Dos veces por semana, asciendía las laderas del Chimborazo para **extraer bloques de hielo** que luego transportaba a Riobamba, donde los vendía en el **mercado de La Merced**. Esta actividad, que la realizó durante más de 50 años, no solo se convirtió en su medio de vida, sino también en un acto de resistencia cultural   
-
-**Reconocimiento internacional** 
----------------------------------
-
-El **trabajo de Baltazar** **no pasó desapercibido**. En 2012, el documental ‘El Último Hielero’ dirigido por **Sandy Patch**, capturó su historia y la llevó a una audiencia global. Este documental ha sido presentado en varios festivales de cine y ha recibido elogios por su **conmovedor retrato de la vida de Ushca**, a decir de la página [Glaciares Chilenos](https://www.glaciareschilenos.org/peliculas-y-documentales/documental-el-ultimo-hielero-del-chimborazo-en-ecuador/ "https://www.glaciareschilenos.org/peliculas-y-documentales/documental-el-ultimo-hielero-del-chimborazo-en-ecuador/"). Además, el diario **The New York Times** reprodujo el documental, lo que amplió aún más su alcance. 
-
-**Desafíos modernos** 
-----------------------
-
-A pesar de los desafíos, **Baltazar Ushca** encontró formas de adaptarse. Incluso se convirtió en **empresario de agua**. Gracias al apoyo de un presentador ucraniano, **Dmytro Komarov**, pudo lanzar **su propia marca de agua embotellada**, según recoge el medio local [Radio K1](https://www.radiok1.com/post/el-%C3%BAltimo-hielero-del-chimborazo-ahora-es-empresario-de-agua "https://www.radiok1.com/post/el-%C3%BAltimo-hielero-del-chimborazo-ahora-es-empresario-de-agua"). Este emprendimiento no solo le proporcionaba un ingreso adicional, sino que también **ayudaba a preservar su legado**. 
-
-> [@jeffersonmerchant](https://www.tiktok.com/@jeffersonmerchant?refer=embed "@jeffersonmerchant") Baltazar Ushca conocido popularmente como “El Hielero del Chimborazo”, ahora es empresario. 🌋🇪🇨Comercializa agua embotellada extraida del hielo del [#volcán](https://www.tiktok.com/tag/volc%C3%A1n?refer=embed "volcán") [#Chimborazo](https://www.tiktok.com/tag/chimborazo?refer=embed "chimborazo"). [#testimonio](https://www.tiktok.com/tag/testimonio?refer=embed "testimonio") [#Ecuador](https://www.tiktok.com/tag/ecuador?refer=embed "ecuador") [#turismo](https://www.tiktok.com/tag/turismo?refer=embed "turismo") [#emprendimiento](https://www.tiktok.com/tag/emprendimiento?refer=embed "emprendimiento") [♬ A Sky Full of Stars – Coldplay](https://www.tiktok.com/music/A-Sky-Full-of-Stars-6705040738570225666?refer=embed "♬ A Sky Full of Stars - Coldplay")
-
-**Doctorado honoris causa**
----------------------------
-
-En reconocimiento a su dedicación y a su papel como **guardián de una tradición ancestral**, Baltazar Ushca fue honrado con un **doctorado honoris causa por el Instituto Mexicano de Líderes de Excelencia**. Durante la ceremonia, **Ushca pronunció un emotivo discurso en kichwa**, su lengua materna, para agradecer el reconocimiento y destacar la importancia de preservar las tradiciones
-
-**Un ícono cultural** 
-----------------------
-
-Baltazar Ushca no solo fue un trabajador incansable, sino también un **ícono cultural**. Su historia ha sido documentada en varios medios y **ha sido objeto de documentales** que destacan su vida y su trabajo. En agosto de 2024, **Ushca fue invitado a Guayaquil para inaugurar el Mes de las Artes y Cultura**. Esto significó uno de los últimos reconocimientos a su contribución a la cultura ecuatoriana. 
-
-En su comunidad y en el Ecuador, Ushca siempre fue visto como un héroe. Su trabajo no solo significó una **fuente de orgullo**, sino también **una conexión con el pasado**. 
-
-La caída en las ventas de vehículos en Ecuador no tiene freno
-=============================================================
-
-Las comercialización de automotores disminuyen drásticamente. En septiembre, se reporta una caída del 23,3%.
-------------------------------------------------------------------------------------------------------------
-
-![Las ventas de vehículos en Ecuador caen un 19,1% hasta septiembre de 2024 Cortesía Freepik](https://www.elcomercio.com/wp-content/uploads/2024/05/Ventas-vehiculos-Ecuador.jpg)
-
-Las cifras del sector automotriz en **Ecuador** durante 2024 han revelado un panorama complejo.
-
-Según el **Servicio de Rentas Internas (SRI)**, entre enero y septiembre de este 2024 se vendieron 83 098 vehículos.
-
-Esa cantidad representa una caída del 19,1% en comparación con el mismo periodo del 2023, cuando se comercializaron 102 761 unidades.
-
-Este descenso es el más significativo desde 2020, cuando las ventas alcanzaron solo 54 922 unidades.
-
-### Más noticias
-
-* [Las ventas del Ecuador tienen un preocupante desempeño en la economía, vea las cifras](https://www.elcomercio.com/actualidad/negocios/las-ventas-del-ecuador-tienen-un-preocupante-desempeno-en-la-economia-vea-las-cifras.html "Las ventas del Ecuador tienen un preocupante desempeño en la economía, vea las cifras")
-* [Cortes de luz a la industria afectan la economía del país si no se toman medidas](https://www.elcomercio.com/opinion/editorial/cortes-industria-empujan-ecuador-recesion-economica-editorial.html "Cortes de luz a la industria afectan la economía del país si no se toman medidas")
-
-Ventas de vehículos nuevos en septiembre
-----------------------------------------
-
-En septiembre de 2024, el mercado automotriz ecuatoriano experimentó un decrecimiento notable. Se registraron 8 098 unidades vendidas, lo que equivale a una disminución del 23,3% en comparación con el mismo mes de 2023, según un informe de la **Asociación de Empresas Automotrices del Ecuador (Aeade).**
-
-Este comportamiento se ha visto reflejado principalmente en el segmento de vehículos livianos, que sufrió una caída interanual del 26,3%.
-
-Los datos sugieren que los consumidores están cada vez más reacios a realizar nuevas compras debido a factores económicos y sociales adversos.
-
-Segmentación de ventas: vehículos livianos y comerciales
---------------------------------------------------------
-
-Entre enero y septiembre de 2024 se colocaron 71 827 vehículos livianos, desglosados de la siguiente manera: 16 727 automóviles, 39 294 SUVs y 15 806 camionetas.
-
-En contraste, las ventas de vehículos comerciales alcanzaron solo 11 271 unidades, lo que representa una contracción del 7% respecto al año anterior.
-
-Crecimiento en el segmento eléctrico
-------------------------------------
-
-A pesar del panorama desalentador para la mayoría de los segmentos, los vehículos eléctricos han mostrado un crecimiento notable.
-
-Durante este 2024 se comercializaron 1 316 vehículos eléctricos, lo que representa un aumento interanual del 14,7%.
-
-Motocicletas tienen más demanda
--------------------------------
-
-Mientras que las ventas de automóviles han caído drásticamente, las motocicletas han mantenido una tendencia positiva.
-
-Entre enero y septiembre de 2024, se vendieron 161 747 motocicletas, lo que marca un crecimiento del 10% comparado con el mismo periodo del año anterior.
-
-Este aumento puede atribuirse a la creciente preferencia por opciones de transporte más económicas y eficientes.
-
-Desafíos para el sector automotriz
-----------------------------------
-
-Los desafíos que enfrenta el sector automotriz son múltiples y complejos, según de la Aeade.
-
-La alta carga tributaria es uno de los factores más significativos que impactan negativamente las decisiones de compra, agrega este gremio. Los consumidores deben afrontar hasta 23 impuestos al adquirir un vehículo nuevo, lo que encarece el precio final.
-
-Falleció Baltazar Ushca, el último hielero del Ecuador
-======================================================
-
-Este personaje emblemático de Ecuador murió a los 80 años. Tuvo un accidente en su hogar ubicado en Guano.
-----------------------------------------------------------------------------------------------------------
-
-![Baltazar Ushca, el último hielero del Chimborazo, falleció en Riobamba.](https://www.elcomercio.com/wp-content/uploads/2024/10/Baltazar-Ushca-1.jpg)
-
-**Baltazar Ushca** murió este viernes 11 de octubre de 2024. La información fue confirmada por el **Municipio de Guano** mediante su cuenta en Facebook.
-
-El 10 de octubre, **Ushca** sufrió un accidente en su hogar cuando un toro lo derribó en su propiedad, mientras realizaba tareas domésticas.
-
-**Ushca**, de 80 años, sufrió una lesión fuerte que requirió de atención médica de urgencia.
-
-Él fue llevado al hospital de **Guano** y por la gravedad fue trasladado al **Hospital de Solca, en Riobamba.** Allí, se confirmó fallecimiento.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/PHOTO-2024-10-11-09-27-40-1024x1024.jpg)
-
-El **Municipio de Guano** indicó la labor y el legado de **Ushca** perdurarán en la memoria colectiva de nuestra tierra y más allá.
-
-“Su dedicación y su historia han inspirado a generaciones, convirtiéndolo en un símbolo de resistencia, resilencia, cultura y amor por nuestras tradiciones”.
-
-El **Municipio de Guano** dio sus condolencias y un abrazo solidario a su familia. “Que Dios les brinde consuelo y fortaleza en estos momentos de inmenso dolor, y que encuentren paz en los recuerdos de un ser tan admirable”.
-
-### Más noticias
-
-* [Baltazar Ushca, el último hielero del Chimborazo, trasladado de urgencia al hospital](https://www.elcomercio.com/actualidad/ecuador/baltazar-ushca-ultimo-hielero-chimborazo-urgencia-hospital.html "Baltazar Ushca, el último hielero del Chimborazo, trasladado de urgencia al hospital")
-
-El sepelio del último hielero de Ecuador
-----------------------------------------
-
-El cuerpo de Ushca será velado este viernes 11 de octubre de 2024, en el **Salón de la Municipalidad** de Guano. Se tiene previsto que el velorio empiece pasadas las 12:00 y finalice pasadas las 18:00.
-
-Posteriormente, sus restos serán trasladados a la comunidad de **Pulinguí Santa Elena**.
-
-¿Quién fue Baltazar Ushca?
---------------------------
-
-Baltazar Ushca Tenesaca, nació en 1944. Era conocido como el **último hielero del Chimborazo.**
-
-Desde los 15 años, ha cosechado hielo de los glaciares del volcán **Chimborazo**, una tradición que ha seguido a pesar de la disminución de su práctica debido a la modernización y el cambio climático.
-
-**Baltazar** caminaba hasta siete horas para recolectar hielo, que luego vendía en el Mercado de **La Merced en Riobamba.**
-
-Su labor ha sido reconocida con un doctorado honoris causa. Además, ha inspirado documentales sobre su vida y la **cultura indígena.**  
-
-Esto ocurre con las fallas en la web del Servicio de Rentas Internas
-====================================================================
-
-Los representantes del SRI publicaron un informe sobre las razones por las que no funciona su sitio web.
---------------------------------------------------------------------------------------------------------
-
-![El sitio web del SRI no funciona este viernes 11 de octubre de 2024. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/07/adultos-mayores.jpg)
-
-El **Servicio de Rentas** Internas informó sobre la situación que se registra en su **sitio web**. Este viernes 11 de octubre de 2024, los usuarios reportaron que existen fallas en la conexión con el web de esta entidad **tributaria ecuatoriana**.
-
-El **SRI** emitió un **comunicado** sobre esta situación. “Les informamos que nuestros servicios se encuentran temporalmente indisponibles debido a un inconveniente técnico”.
-
-### Más noticias
-
-* [Así puede actualizar su formulario de gastos personales para el SRI](https://www.elcomercio.com/actualidad/negocios/asi-puede-actualizar-su-formulario-de-gastos-personales-para-el-sri.html "Así puede actualizar su formulario de gastos personales para el SRI")
-* [SRI incrementa controles a los equipos de fútbol](https://www.elcomercio.com/actualidad/servicio-rentas-internas-incrementa-controles-equipos-futbol.html "SRI incrementa controles a los equipos de fútbol")
-* [499 celulares, consolas de videojuegos y tabletas fueron incautados por el SRI](https://www.elcomercio.com/actualidad/negocios/sri-incauto-celulares-consoladas-videojuegos-tabletas.html "499 celulares, consolas de videojuegos y tabletas fueron incautados por el SRI")
-
-Los trabajos en la web del SRI
-------------------------------
-
-Los representantes del **Servicio de Rentas Internas** indicaron que están trabajando para restablecerlos lo más pronto posible.
-
-Aunque no informaron sobre el tiempo que demorará en restablecer el funcionamiento del sitio web, señalaron que espera que en el transcurso de la mañana de este **viernes 11 de octubre,** “los servicios se normalicen de manera paulatina”.
-
-¿Qué trámites se pueden realizar en la web del SRI?
----------------------------------------------------
-
-En la página web del **Servicio de Rentas Internas (SRI)** de **Ecuador**, se pueden realizar diversos trámites en línea, facilitando el acceso a servicios tributarios.
-
-Los usuarios pueden inscribirse en el **Registro Único de Contribuyentes (RUC)** y actualizar datos personales y de contacto.
-
-Además, presentar anexos relacionados con retenciones y operaciones con partes relacionadas.
-
-También, es posible gestionar la generación de claves para acceder a servicios transaccionales y realizar consultas sobre el estado de trámites. 
-
-Para ciertos trámites se requiere un certificado digital de **firma electrónica.**
-
-Las muertes por el huracán Milton subieron en la Florida
-========================================================
-
-Gran parte de las víctimas fueron por tornados provocados por Milton. Las autoridades temen que la cifra pueda aumentar.
-------------------------------------------------------------------------------------------------------------------------
-
-![Fotografía de daños causados por el paso del huracán Milton en Sarasota, Florida (EE.UU.). Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Milton-2.jpg)
-
-Las muertes por **Milton** en **Florida** aumentan al menos a 16, varias de ellas debido a tornados ocurridos antes de la llegada del huracán, que ya se ha disipado en el **Atlántico**.
-
-La cifra, según las cuentas que lleva CNN, se suman a al menos 1 000 rescates hechos por los cuerpos de socorro hasta la noche de este pasado jueves.
-
-Sin embargo, el **gobernador del estado, Ron DeSantis**, dijo que el número de víctimas mortales puede aumentar a medida que prosiguen las operaciones de rescate.
-
-Hasta el momento se han confirmado al menos seis muertes en el condado de **St. Lucie**, en la costa este de **Florida**, donde tocaron tierra “tornados de giro rápido” antes de la llegada de Milton.
-
-### Más noticias
-
-* [Milton mantiene la amenaza de marejada ciclónica en la costa sureste de EE.UU.](https://www.elcomercio.com/actualidad/mundo/milton-mantiene-amenaza-marejada-ciclonica-costa-sureste-ee-uu.html "Milton mantiene la amenaza de marejada ciclónica en la costa sureste de EE.UU.")
-* [El huracán Milton deja 10 fallecidos y destrucción a su paso por Florida](https://www.elcomercio.com/actualidad/mundo/huracan-milton-deja-12-fallecidos-destruccion-paso-florida.html "El huracán Milton deja 10 fallecidos y destrucción a su paso por Florida")
-* [Disney World en Orlando y las secuelas del huracán Milton](https://www.elcomercio.com/actualidad/mundo/walt-disney-world-resort-en-orlando-secuelas-huracan-milton.html "Disney World en Orlando y las secuelas del huracán Milton")
-
-Los tornados provocados por Milton
-----------------------------------
-
-Según las autoridades, varias de estas víctimas **fallecieron** después de que tornados provocados por **Milton** azotaran la zona el miércoles en la tarde y tocaran tierra en la comunidad de personas mayores **Spanish Lakes Country Village, ubicada en el norte de Fort Pierce.**
-
-El alguacil del **condado de Volusia, Michael J. Chitwood,** confirmó la muerte de otras tres personas en esa región del este del estado.
-
-Otras dos muertes se presentaron en St. Petersburg, en la costa oeste de **Florida**, donde arribó Milton la noche del miércoles.
-
-El huracán tocó tierra la noche del miércoles en Siesta Key, cerca de la ciudad de **Sarasota**, con vientos máximos sostenidos de 205 kilómetros por hora, es decir con categoría 3.
-
-**Milton** es el segundo huracán que alcanza Florida en casi dos semanas, tras recibir el pasado 26 de septiembre el impacto del poderoso huracán **Helene**, que entró por el noroeste de este estado con categoría 4 y dejó una estela de devastación y muerte por seis estados del sureste de **EE.UU.**
-
-En el Día de la Niña destaquemos la importancia de la educación
-===============================================================
-
-El Día de la Niña resalta la relevancia de la educación y los derechos de millones de niñas a nivel global.
------------------------------------------------------------------------------------------------------------
-
-![La educación empodera a las niñas, pero millones aún enfrentan barreras. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-la-Nina.jpg)
-
-El **Día Internacional de la Niña** se celebra cada 11 de octubre desde que la **Asamblea General de las Naciones Unidas** lo proclamó en 2011.  
-
-### Más noticias
-
-* [Unicef difunde alarmante informe sobre violencia sexual contra niñas y adolescentes en el mundo](https://www.elcomercio.com/actualidad/mundo/unicef-informe-violencia-sexual-ninas-adolescentes.html "https://www.elcomercio.com/actualidad/mundo/unicef-informe-violencia-sexual-ninas-adolescentes.html")
-* [¿Qué se celebra el 11 de octubre? El Día de la Niña se conmemora en Ecuador](https://www.elcomercio.com/actualidad/11-de-octubre-dia-de-la-nina.html "https://www.elcomercio.com/actualidad/11-de-octubre-dia-de-la-nina.html")
-
-Esta fecha busca **reconocer los derechos de las niñas** y los desafíos únicos que enfrentan en todo el mundo. La **ONU** estableció este día para **concienciar** sobre la necesidad de abordar problemas como la educación, la igualdad de género, el matrimonio infantil y la violencia de género, de acuerdo con [Unicef](https://www.unicef.es/causas/derechos-ninos/dia-internacional-nina "https://www.unicef.es/causas/derechos-ninos/dia-internacional-nina").  
-
-**Importancia de la educación en el Día de la Niña** 
------------------------------------------------------
-
-**La educación es un derecho fundamental** y una herramienta poderosa para el **empoderamiento de las niñas**. Siguiendo con [Unicef](https://www.unicef.es/noticia/11-de-octubre-dia-internacional-de-la-nina "https://www.unicef.es/noticia/11-de-octubre-dia-internacional-de-la-nina"), aproximadamente **600 millones de niñas adolescentes se incorporarán al mercado laboral** en la próxima década. Sin embargo, muchas enfrentan barreras significativas para **acceder a una educación de calidad**. La falta de recursos, la discriminación de género y las normas culturales restrictivas son algunos de los obstáculos que deben superar. 
-
-**Desafíos actuales y soluciones** 
------------------------------------
-
-Las niñas enfrentan **desafíos únicos** **debido a su género y edad**. En muchas partes del mundo, **las niñas son más propensas a ser víctimas de violencia, explotación y discriminación**. Organizaciones como [**Plan International**](https://apoya.plan-international.es/dia-nina "https://apoya.plan-international.es/dia-nina") trabajan para visibilizar estos problemas y **promover acciones que garanticen sus derechos** y representación. La **educación, la salud y la protección** son áreas clave donde se centran los esfuerzos para **mejorar la vida de las niñas.** 
-
-**Acciones globales**  
------------------------
-
-A nivel global, se han implementado diversas **iniciativas para apoyar a las niñas**. La [Unesco](https://www.unesco.org/es/international-day-girl-child "https://www.unesco.org/es/international-day-girl-child"), por ejemplo, trabaja en **programas que promueven la educación inclusiva y equitativa**. A nivel local, muchas organizaciones promueven **eventos y campañas para sensibilizar sobre los derechos de las niñas** y fomentar su participación activa en la sociedad. Estas acciones son fundamentales para crear **un mundo más justo e igualitario para todas las niñas.** 
-
-No solo vale estar informados, sino también **inspirar a la acción para mejorar las condiciones de vida de las niñas en todo el mundo**. La educación y el empoderamiento son claves para un futuro mejor, y cada uno de nosotros puede contribuir a este cambio positivo.
