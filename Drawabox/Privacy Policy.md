@@ -24,11 +24,11 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://amzn.to/4cDKBhz)
+[](https://amzn.to/4bl6tx5)
 
-[](https://amzn.to/3KZMtFM)
+[](https://amzn.to/2SjhDei)
 
-[](https://amzn.to/3KUTasJ)
+[](https://amzn.to/2BA10no)
 
 [](https://amzn.to/2R8xkYn)
 
