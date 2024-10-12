@@ -166,91 +166,69 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Much Evidence Exists for a Worldwide Flood
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/mantlewaterflux-1400x1050-MainPage.jpg)](https://www.icr.org/article/mantle-water-flux-indicates-young-ocean)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/moved-with-fear2)
 
-[Mantle Water Flux Indicates a Young Ocean](https://www.icr.org/article/mantle-water-flux-indicates-young-ocean/)
+[Moved with Fear](https://www.icr.org/article/moved-with-fear2/)
 
-Secular science believes Earth’s oceans have existed for about four billion years.1 They also think the level of the ocean has remained...
+“By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/Great_Unconformity_Global_Flood_1400x1050.jpg)](https://www.icr.org/article/great-unconformity-solved-by-global-flood)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/ordinary-matters)
 
-[Great Unconformity Best Solved by Global Flood](https://www.icr.org/article/great-unconformity-solved-by-global-flood/)
+[Ordinary Matters](https://www.icr.org/article/ordinary-matters/)
 
-The Great Unconformity is one of the most baffling mysteries in the geological sciences.1 It is marked by a massive surface of erosion that...
+“Be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.”...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
 
-[![](/i/Main%20Stage%20-%201400x1050/Flood_Amazon_Sea_1400x1050.jpg)](https://www.icr.org/article/flood-solves-mystery-of-amazon-sea)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/meaning-day)
 
-[Flood Solves Mystery of Amazon Sea](https://www.icr.org/article/flood-solves-mystery-of-amazon-sea/)
+[The Meaning of "Day"](https://www.icr.org/article/meaning-day/)
 
-In the past 15 years, it’s been determined that a vast ocean once covered the western Amazon drainage basin.1 However, studies of the...
+“And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.” (Genesis 1:5) Many...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
-
-More Creation Science Update
-
-[![](/i/Main%20Stage%20-%201400x1050/shrinkingmercury_1400x1050.jpg)](https://www.icr.org/article/shrinking-mercury)
-
-[Youthful Mercury: Still Cooling and Shrinking](https://www.icr.org/article/shrinking-mercury/)
-
-The analysis of data from the MESSENGER spacecraft has revealed evidence of recent tectonic activity on Mercury—activity caused by the ongoing...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/Main%20Stage%20-%201400x1050/breaking-news-humans-procreated-with-humans-1400x1050)](https://www.icr.org/article/breaking-news-humans-proc-with-humans)
-
-[Breaking News: Humans Procreated With... Humans](https://www.icr.org/article/breaking-news-humans-proc-with-humans/)
-
-Over a century ago, evolutionists taught that Neanderthals were sub-human brutes.1 But in the intervening decades, as more research and discoveries...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/chengjiangfossil-1400x1050)](https://www.icr.org/article/chengjiang-cambrian-explosion)
-
-[Cambrian Explosion Explained by the Flood](https://www.icr.org/article/chengjiang-cambrian-explosion/)
-
-Conventional geologists are still baffled by the Cambrian Explosion. Some try to deny that it was sudden,1 but most admit that Cambrian rocks...
-
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475517/file.jpg)
 
-Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+The Modern Creation Trilogy](https://store.icr.org/dr-henry-morris-the-modern-creation-trilogy.html)
 
 $29.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
+$34.99
 
-Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10473917/file.jpg)
 
-$4.99
+Creation and the Second Coming](https://store.icr.org/dr-henry-morris-creation-and-the-second-coming.html)
 
-$9.99
+$10.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32688/file.jpg)
 
-Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
+The Henry Morris Study Bible - Case](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-case.html)
 
-$7.99
+$34.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
+$39.99
 
-Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
 
-$4.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
-
-Adam or Apes](https://store.icr.org/adam-or-apes.html)
+Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
 
 $12.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32690/file.jpg)
+
+The Henry Morris Study Bible - Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-leath.html)
+
+$79.99
+
+$94.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
