@@ -411,7 +411,7 @@ The contractual partner has the right to withdraw this contract within fourteen 
 
 The withdrawal period is fourteen days from the day of the conclusion of the contract. 
 
-In order to exercise the right of withdrawal, the contractual partner must inform AMBOSS GmbH (Torstrasse 19, 10119 Berlin, telephone number: +49 30 57702210, e-mail: hallo@amboss.com) of its decision to withdraw this contract by means of a clear declaration (e.g. a letter sent by post or an e-mail). The contractual partner may use this model withdrawal form for this purpose, which is, however, not mandatory. 
+In order to exercise the right of withdrawal, the contractual partner must inform AMBOSS GmbH (Torstrasse 19, 10119 Berlin, telephone number: +49 30 57702210, e-mail: [\[email protected\]](https://www.amboss.com/cdn-cgi/l/email-protection)) of its decision to withdraw this contract by means of a clear declaration (e.g. a letter sent by post or an e-mail). The contractual partner may use this model withdrawal form for this purpose, which is, however, not mandatory. 
 
 The authorized user may also fill in and submit the model withdrawal form or another clear declaration electronically on the website amboss.com. If he/she makes use of this option, AMBOSS GmbH will immediately send him/her (e.g. by e-mail) a confirmation of receipt of such withdrawal. To meet with the withdrawal deadline, it is sufficient for the contractual partner to send the communication concerning the exercise of the right of withdrawal before the withdrawal period has expired.
 
