@@ -126,7 +126,7 @@ We may periodically send you free newsletters and e-mails that directly promote 
 Modifying Your Information
 ==========================
 
-You can access and modify the personal information associated with your Account by logging in to your Balena account. If you want us to delete your personal information and your Account, please contact us at [legal@balena.io](mailto:legal@balena.io) with your request. We will take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
+You can access and modify the personal information associated with your Account by logging in to your Balena account. If you want us to delete your personal information and your Account, please contact us at [\[email protected\]](https://www.balena.io/cdn-cgi/l/email-protection) with your request. We will take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
 Email and Telephone Communications
 ==================================
@@ -303,4 +303,4 @@ Any information that is collected via our Services is covered by the Privacy Pol
 CONTACT US.
 ===========
 
-If you have any questions about our privacy practices or this Privacy Policy, or if you wish to submit a request to exercise your rights as detailed in this Privacy Policy, please contact us at [legal@balena.io](mailto:legal@balena.io) or by mail at 1517 12th Ave, Seattle, WA 98122.
+If you have any questions about our privacy practices or this Privacy Policy, or if you wish to submit a request to exercise your rights as detailed in this Privacy Policy, please contact us at [\[email protected\]](https://www.balena.io/cdn-cgi/l/email-protection) or by mail at 1517 12th Ave, Seattle, WA 98122.
