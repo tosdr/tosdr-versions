@@ -110,7 +110,7 @@ You must be at least 18 years of age to use this Website. By using the Website a
 
 **27.** Dexerto Limited is a company incorporated in England and Wales with registered number 08611030 whose registered address is 15, Queens Square, Leeds, LS2 8AJ and it operates the Website https://www.dexerto.com. The registered VAT number is 209716600.
 
-You can contact Dexerto Limited by email on [privacy@dexerto.com](mailto:privacy@dexerto.com).  
+You can contact Dexerto Limited by email on [\[email protected\]](https://www.dexerto.media/cdn-cgi/l/email-protection).  
 
 _Revised: 14th October, 2020_
 
@@ -147,7 +147,7 @@ London EC2A 4NE
 ‍  
 [+44 (0)20 3371 7226](tel:+44(0)1234567)  
   
-[contact@dexerto.com](mailto:Website enquiry?subject=contact%40dexerto.com)  
+[\[email protected\]](https://www.dexerto.media/cdn-cgi/l/email-protection)  
 
 [View map](#)
 
