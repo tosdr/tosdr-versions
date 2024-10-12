@@ -50,7 +50,7 @@ Articles on this site may include embedded content (e.g. videos, images, article
 
 Scroll Up
 
-MENU [![logo](https://off-guardian.org/wp-content/medialibrary/2018/11/LogoOffGraun3.jpg?x47580)](https://off-guardian.org/)
+MENU [![logo](https://off-guardian.org/wp-content/medialibrary/2018/11/LogoOffGraun3.jpg?x32685)](https://off-guardian.org/)
 
 * 
 * [HOME](https://off-guardian.org/)
