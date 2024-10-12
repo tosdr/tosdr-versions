@@ -32,7 +32,7 @@ Subscribe
 
 * [Shigeru Ishiba](https://www.japantimes.co.jp/tag/shigeru-ishiba/ "Shigeru Ishiba")
 * [MLB Playoffs](https://www.japantimes.co.jp/tag/mlb/ "MLB Playoffs")
-* [Middle East conflict](https://www.japantimes.co.jp/tag/middle-east/ "Middle East conflict")
+* [Nobel Prize](https://www.japantimes.co.jp/tag/nobel-prize/ "Nobel Prize")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
 
@@ -201,11 +201,11 @@ Podcast
 Longform
 --------
 
-  [![Dul Saroth (left) and Soeum Samrach, deminers with the Cambodian Mine Action and Victim Assistance Authority, practice using the Advanced Landmine Imaging System in Cambodia’s Siem Reap province in August.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425242.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dul Saroth (left) and Soeum Samrach, deminers with the Cambodian Mine Action and Victim Assistance Authority, practice using the Advanced Landmine Imaging System in Cambodia’s Siem Reap province in August.")](https://www.japantimes.co.jp/news/2024/10/07/japan/japan-cambodia-laos-demining-tech/ "The Japanese tech that could one day make Southeast Asia landmine-free")
+  [![Capsule hotels were created as a way to deal with the amount of overwork employees tend to do in Japan. Can't commute home? Then spend the night in an tiny, affordable sleeping space.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/426751.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Capsule hotels were created as a way to deal with the amount of overwork employees tend to do in Japan. Can't commute home? Then spend the night in an tiny, affordable sleeping space.")](https://www.japantimes.co.jp/business/2024/10/12/tech/sleep-market-tourism-japan/ "Japan wakes up to the market for a proper sleep")
 
-[The Japanese tech that could one day make Southeast Asia landmine-free](https://www.japantimes.co.jp/news/2024/10/07/japan/japan-cambodia-laos-demining-tech/ "The Japanese tech that could one day make Southeast Asia landmine-free")
+[Japan wakes up to the market for a proper sleep](https://www.japantimes.co.jp/business/2024/10/12/tech/sleep-market-tourism-japan/ "Japan wakes up to the market for a proper sleep")
 
-By [Anton L. Delgado](https://www.japantimes.co.jp/author/5049/anton-l-delgado/ "Anton L. Delgado")  
+By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
 
 SUSTAINABLE JAPAN
 -----------------
@@ -252,15 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Justice minister says he has severed all ties with Unification Church](https://www.japantimes.co.jp/news/2024/10/11/japan/politics/justice-minister-unification-church/ "Justice minister says he has severed all ties with Unification Church")
+[Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
 
-[Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world](https://www.japantimes.co.jp/news/2024/10/11/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
+1 hours ago
 
-[Ishiba clears low bar in diplomatic debut](https://www.japantimes.co.jp/news/2024/10/11/japan/politics/japan-asean-ishiba-analysis/ "Ishiba clears low bar in diplomatic debut")
+[Nippon Steel will exit Alabama plant if U.S. Steel bid succeeds](https://www.japantimes.co.jp/business/2024/10/12/companies/nippon-steel-alabama/ "Nippon Steel will exit Alabama plant if U.S. Steel bid succeeds")
 
-[Opposition party shakes up Japan’s rate debate with new inflation target](https://www.japantimes.co.jp/business/2024/10/11/economy/cdp-monetary-policy/ "Opposition party shakes up Japan’s rate debate with new inflation target")
+2 hours ago
 
-[Tokyo go-kart rental manager sent to prosecutors over traffic law violation](https://www.japantimes.co.jp/news/2024/10/11/japan/crime-legal/rental-kart-violation/ "Tokyo go-kart rental manager sent to prosecutors over traffic law violation")
+[Japan's MSDF eyeing Starlink for better internet connectivity at sea](https://www.japantimes.co.jp/news/2024/10/12/japan/msdf-better-internet/ "Japan's MSDF eyeing Starlink for better internet connectivity at sea")
+
+2 hours ago
+
+[Nobel laureate Nihon Hidankyo co-chair worries about children in Israel and Gaza](https://www.japantimes.co.jp/news/2024/10/12/japan/hidankyo-israel-gaza-children-worry/ "Nobel laureate Nihon Hidankyo co-chair worries about children in Israel and Gaza")
+
+3 hours ago
+
+[Nobel prize is a warning to a world on the nuclear brink](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel prize is a warning to a world on the nuclear brink")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
