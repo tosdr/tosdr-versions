@@ -14,7 +14,7 @@ Menu
     
     * [Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers in separate strikes](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
     * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
-    * [U.S. expands sanctions on Iran in response to its ballistic attack on Israel](https://apnews.com/article/treasury-sanctions-iran-gaza-israel-hezbollah-lebanon-5c3d798a1916e4ee197b13d000a776c1)
+    * [As Hezbollah and Israel battle on the border, Lebanon's army watches from the sidelines](https://apnews.com/article/lebanese-army-laf-israel-hezbollah-78f6ad2da82d64d1ae266aa5394e6d4e)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Residents slog through flooded streets, clear debris after Hurricane Milton tore through Florida](https://apnews.com/article/hurricane-milton-florida-7f60bbe9c6295f2ebef077eca2c1b4e1)
+    * [Floridians evacuated for Hurricane Milton after wake-up call from devastating Helene](https://apnews.com/article/hurricane-milton-florida-d044c0bb6b4ad1f5e2bd61ab44fb1b8c)
+    * [Far from where Hurricane Milton hit, tornadoes wrought unexpected damage](https://apnews.com/article/hurricane-milton-tornadoes-florida-wellington-damage-64caa6609c2a3c6476468ad89b0dee96)
     * [What to know as Florida residents begin cleaning up after Hurricane Milton](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
-    * [What's behind the northern lights that dazzled the sky farther south than normal](https://apnews.com/article/aurora-northern-lights-solar-storm-geomagnetic-19418e36587141b83fbba7a4f0d7b474)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Trump heads to Aurora, Colorado, to drive his anti-immigration message](https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70)
+    * [Data shows migrants aren't taking 'Black jobs' or 'Hispanic jobs,' despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
     * [Are male voters reluctant to vote for a woman? Harris' backers are confronting the question head on](https://apnews.com/article/harris-male-voters-sexism-trump-support-obama-bcf8dbcce4700ba24725ca178f7753b0)
-    * [JD Vance refused five times to acknowledge Donald Trump lost 2020 election in podcast interview](https://apnews.com/article/jd-vance-trump-lost-new-york-times-interview-e81ea9bc1900cab9eaf691e216d7a49e)
+    * [Trump drives his anti-immigration message in Aurora, Colorado](https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Dodgers will start Yamamoto against San Diego's Darvish in winner-take-all Game 5 of NLDS](https://apnews.com/article/mlb-playoffs-padres-dodgers-445b67be07a46a61051ab1627582f575)
-    * [Nevada high court to review decision in ex-Raiders coach Jon Gruden's lawsuit over NFL emails](https://apnews.com/article/gruden-nfl-lawsuit-2fd3e34a0e298b857b1b817c8fad4c77)
-    * [Todd Downing tasked with helping Aaron Rodgers and Jets' struggling offense after 'unique week'](https://apnews.com/article/jets-downing-3a678d03b6da0a064266b8ca67507f0d)
+    * [Yamamoto outduels Darvish in historic matchup as Dodgers beat Padres 2-0 to reach NLCS](https://apnews.com/article/mlb-playoffs-dodgers-padres-f0778cdc5ff2250641336fbe6c8d3f0c)
+    * [Padres muster no offense to support Yu Darvish's inspired pitching in NLDS loss to Dodgers](https://apnews.com/article/mlb-playoffs-padres-dodgers-darvish-tatis-machado-faee88063d0b9dbac2007ef6c943e76c)
+    * [Cam Skattebo runs for 156 yards, Arizona State knocks off No. 16 Utah 27-19](https://apnews.com/article/arizona-state-utah-score-skattebo-f0f3018c5a35437f5dba919d46bc15eb)
     
     Newsletters
     
@@ -115,8 +115,8 @@ Menu
     TOP STORIES
     
     * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
+    * [Jury finds ex-member of rock band Mr. Bungle guilty of killing his girlfriend](https://apnews.com/article/mr-bungle-girlfriend-killing-guilty-bd369201c2388383428a84746661929f)
     * [The making of 'The Apprentice,' in their words](https://apnews.com/article/sebastian-stan-donald-trump-apprentice-jeremy-strong-faf59cdd1c4e80bb8e97f7bea0b940fc)
-    * [Austin Stowell is emotional about playing stoic Jethro Gibbs in 'NCIS: Origins'](https://apnews.com/article/ncis-austin-stowell-gibbs-interview-2273dad6a6589ff82096536ca2e11f98)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [Stock market today: Wall Street rises to close its latest record-setting week as banks jump](https://apnews.com/article/stock-market-china-stimulus-fed-korea-rates-7dfc363b1ff32e71a335571cdf8325fb)
-    * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
-    * [Wholesale inflation remained cool last month in latest sign that price pressures are slowing](https://apnews.com/article/inflation-wholesale-prices-consumer-federal-reserve-rates-a551afcffbb495e5a302d5c847562df6)
+    * [Boeing will lay off 10% of its employees as a strike by factory workers cripples airplane production](https://apnews.com/article/boeing-layoffs-strike-airplane-factories-de637999cf525699577b42b72bff2a70)
+    * [Data shows migrants aren't taking 'Black jobs' or 'Hispanic jobs,' despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
+    * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     
 * [Science](https://apnews.com/science)
     
@@ -146,23 +146,23 @@ Menu
     
     TOP STORIES
     
+    * [FACT FOCUS: A look at the false information around Hurricanes Helene and Milton](https://apnews.com/article/election-hurricanes-false-info-helene-milton-a4c2df2463b69c1f2e3eb6846e3b37ae)
     * [FACT FOCUS: Online posts make unfounded claims about a helicopter delivering aid in North Carolina](https://apnews.com/article/fact-check-helicopter-north-carolina-helene-d44fb04825337e8a7ca69e9f616621f7)
     * [US disaster relief chief blasts false claims about Helene response as a 'truly dangerous narrative'](https://apnews.com/article/trump-fema-hurricane-helene-conspiracy-theories-criswell-07d5b1f6968cb2af11b63357186a1a15)
     * [After the deluge, the lies: Misinformation and hoaxes about Helene cloud the recovery](https://apnews.com/article/hurricane-helene-trump-musk-conspiracy-theories-misinformation-fe81869765d778ac2ff3dc5f9ac18e10)
     * [FACT FOCUS: Claims that more than 300,000 migrant children are missing lack context](https://apnews.com/article/fact-check-misinformation-migrant-children-missing-7ab0cea2fd2238346197429e952baa8b)
     * [A look at false and misleading claims from the vice presidential debate](https://apnews.com/article/debate-walz-vance-misinformation-fact-check-a3f67b1fdef425038dfac9267861247c)
-    * [Walz misleadingly claims to have been in Hong Kong during period tied to Tiananmen Square massacre](https://apnews.com/article/walz-china-tiananmen-square-protests-8d433bf7184e8c430aa31d1f5460fe87)
     
 * [Oddities](https://apnews.com/oddities)
     
     TOP STORIES
     
+    * [Witnesses can bear-ly believe the surprise visitor at Connecticut governor's estate](https://apnews.com/article/bear-climbs-fence-connecticut-governors-mansion-3b1aaf00afa14dc1c7e12ac0faf9d1b4)
     * [Woman pleads guilty to trying to smuggle 29 turtles across a Vermont lake into Canada by kayak](https://apnews.com/article/eastern-box-turtles-smuggling-vermont-lake-kayak-fdb63d3944a27ef12088fa97a16950a3)
     * [Authorities continue to investigate container suspected of holding dynamite in Tennessee](https://apnews.com/article/explosives-evacuation-knoxville-metal-recycler-3b929a961105649b12b258ec0a01e0f6)
     * [New Zealand ship didn’t sink because its captain was a woman, the ‘appalled’ defense minister says](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
     * [Washington state woman calls 911 after being hounded by up to 100 raccoons](https://apnews.com/article/washington-state-raccoon-invasion-cadf885cc7a4f2bd05e7755d448e7d8c)
-    * [How Waffle House helps Southerners — and FEMA — judge a storm's severity](https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819)
-    * [Former owner of water buffalo that roamed Iowa suburb for days pleads guilty](https://apnews.com/article/water-buffalo-iowa-96fea4fff4a4a11dc5024a8d16667499)
+    * [Wife-carrying championship victory brings beer and cash](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -203,7 +203,7 @@ Menu
     
     TOP STORIES
     
-    * [Human towers rise skyward in Spain's Catalonia as part of cultural pride](https://apnews.com/article/human-towers-castells-spain-catalonia-0146da4fd9edc44a681acb3944a81fb3)
+    * [A look at life inside Paraguay's overcrowded prisons](https://apnews.com/article/paraguay-prisons-photo-gallery-2c58be3819606a99950302574773a06f)
     * [Nepalese grapple with loss after floods kill over 200 people](https://apnews.com/article/nepal-flooding-photo-gallery-c7dd40a8557c03ee652dca28197c7442)
     * [In their 80s, these South Korean women learned reading and rap](https://apnews.com/article/south-korea-rappers-older-literacy-women-education-db7a109b38827e08804e6da20fb9414f)
     
@@ -234,9 +234,9 @@ Menu
     
     TOP STORIES
     
+    * [Drought is parching the world's largest man-made lake, stripping Zambia of its electricity](https://apnews.com/article/climate-power-electricity-drought-environment-6e3e746566b0831491e72de380f4079d)
     * [Climate change gave significant boost to Milton's destructive rain, winds, scientists say](https://apnews.com/article/hurricane-milton-climate-change-greenhouse-gases-fossil-fuels-aa1c971c228feb9da6f36fb9cc46ee81)
     * [Colombia’s river guardians battle to protect the Atrato amid threats and abandonment](https://apnews.com/article/atrato-guardians-illegal-mining-contamination-threats-choco-977ad1e171715b8f7fb20a8ac6b9e149)
-    * [Milton by the numbers: At least 5 dead, at least 12 tornadoes, 3.4M without power](https://apnews.com/article/hurricane-milton-florida-rainfall-numbers-tornadoes-fe7789ee03c910dd1ea25772eff4be8b)
     
 * [Health](https://apnews.com/health)
     
@@ -247,7 +247,7 @@ Menu
     * [Officials work to protect IV supplies in Florida after disruptions at North Carolina plant](https://apnews.com/article/hurricane-milton-iv-shortage-hospitals-drugs-e5f37ad059e1357786732758624c9fd2)
     * [Bakery that makes Sara Lee and Entenmann's pushes back on FDA sesame warning](https://apnews.com/article/bimbo-bakeries-sesame-allergy-warning-b12aeaf118910ee43058a6a58c789fe2)
     * [Florida hospitals and health care facilities in Hurricane Milton's path prepare for the worst](https://apnews.com/article/hurricane-milton-hospitals-nursing-homes-evacuations-prepare-c4146bee8f78a4769ba5829b4538f10e)
-    * [A peek inside the human brain shows a way it cleans out the kind of waste that leads to Alzheimer’s](https://apnews.com/article/clearing-brain-waste-alzheimers-f73b0e5f66a324e3d0e3f0cea951276b)
+    * [Texas man drops lawsuit against women he accused of helping his wife get abortion pills](https://apnews.com/article/texas-abortion-bans-settlement-4be6bdee1520292d675f678f7053a6ce)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
     * [AI is having its Nobel moment. Do scientists need the tech industry to sustain it?](https://apnews.com/article/ai-nobel-prizes-physics-chemistry-google-deepmind-hinton-cb963de3b4235f28f8c95ca9080830f6)
-    * [One Tech Tip: Here's what you need to do before and after your phone is stolen or lost](https://apnews.com/article/iphone-android-stolen-phone-theft-c4d0ab7ee40fca01bc46d7db03d590dd)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     * [Fisher-Price recalls over 2 million 'Snuga Swings' following the deaths of 5 infants](https://apnews.com/article/fisher-price-recalls-swings-infant-deaths-6010490ee97a24f66efece45c5e76f1c)
-    * [United Airlines is adding 8 new international destinations to its itinerary for next summer](https://apnews.com/article/united-italy-spain-tokyo-portugal-mongolia-7d03ed93152cee47f58944f26f7dc0af)
-    * [Disney World and other Orlando parks to reopen Friday after Hurricane Milton shutdown](https://apnews.com/article/disney-world-milton-universal-seaworld-reopening-c6393375c33b89e9041faa203784985f)
+    * [Hot-air balloon strikes and collapses radio tower in Albuquerque during festival](https://apnews.com/article/new-mexico-balloon-festival-radio-tower-4039dce175891ac7aba266d6c2b1a95d)
     
 * [Religion](https://apnews.com/religion)
     
@@ -294,11 +294,11 @@ Menu
     TOP STORIES
     
     * [Fuerzas israelíes matan a 2 soldados libaneses y hieren a 2 miembros de fuerzas de paz de la ONU](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
+    * [¿Hombres estadounidenses reacios a votar por una mujer? Simpatizantes de Harris abordan el tema](https://apnews.com/politics/elecciones-en-eeuu-26be5c8b8bf33987dcdff8e725782e2c)
+    * [Los datos contradicen afirmaciones de Trump de que migrantes acaparan "empleos negros" o "hispanos"](https://apnews.com/politics/general-news-7e55b37588f0d1fb4b1d349206752fc3)
     * [Migración por el Darién vuelve a crecer en septiembre apuntalada por venezolanos tras elecciones](https://apnews.com/world-news/general-news-8e6a12a73c4179908d301feb65972c19)
-    * [Nobel de la Paz reconoce a asociación japonesa de sobrevivientes de bombas atómicas Nihon Hidankyo](https://apnews.com/world-news/general-news-ee302667bd71e111e4c86f1a6e5f8d47)
-    * [El hacinamiento agobia al sistema penitenciario de Paraguay: así viven los presos de cinco cárceles](https://apnews.com/world-news/general-news-3e27caa14f734f0d5a0b727d6ed90e00)
-    * [Demandan en EEUU a excoronel salvadoreño por asesinato de periodistas holandeses en 1982](https://apnews.com/us-news/general-news-16f0db46b4d4c9b00d6e93b637d26a2c)
-    * [Brasil empieza a bloquear más de 2.000 sitios web de apuestas considerados como irregulares](https://apnews.com/world-news/general-news-4e6ccab148be429ab3aa988d70dfdea1)
+    * [Trump lleva su mensaje contra la inmigración a Aurora, Colorado](https://apnews.com/politics/donald-trump-7a3ce321a85aac6b1bb0b8d5cc663055)
+    * [Secuestran a diputado local en el norte de México](https://apnews.com/world-news/general-news-ed57fdaec878d77a0eb0e70836e21536)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,7 +460,7 @@ Submit Search
     
     * [Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers in separate strikes](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
     * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
-    * [U.S. expands sanctions on Iran in response to its ballistic attack on Israel](https://apnews.com/article/treasury-sanctions-iran-gaza-israel-hezbollah-lebanon-5c3d798a1916e4ee197b13d000a776c1)
+    * [As Hezbollah and Israel battle on the border, Lebanon's army watches from the sidelines](https://apnews.com/article/lebanese-army-laf-israel-hezbollah-78f6ad2da82d64d1ae266aa5394e6d4e)
     
     Newsletters
     
@@ -476,9 +476,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Residents slog through flooded streets, clear debris after Hurricane Milton tore through Florida](https://apnews.com/article/hurricane-milton-florida-7f60bbe9c6295f2ebef077eca2c1b4e1)
+    * [Floridians evacuated for Hurricane Milton after wake-up call from devastating Helene](https://apnews.com/article/hurricane-milton-florida-d044c0bb6b4ad1f5e2bd61ab44fb1b8c)
+    * [Far from where Hurricane Milton hit, tornadoes wrought unexpected damage](https://apnews.com/article/hurricane-milton-tornadoes-florida-wellington-damage-64caa6609c2a3c6476468ad89b0dee96)
     * [What to know as Florida residents begin cleaning up after Hurricane Milton](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
-    * [What's behind the northern lights that dazzled the sky farther south than normal](https://apnews.com/article/aurora-northern-lights-solar-storm-geomagnetic-19418e36587141b83fbba7a4f0d7b474)
     
     Newsletters
     
@@ -529,9 +529,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Trump heads to Aurora, Colorado, to drive his anti-immigration message](https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70)
+    * [Data shows migrants aren't taking 'Black jobs' or 'Hispanic jobs,' despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
     * [Are male voters reluctant to vote for a woman? Harris' backers are confronting the question head on](https://apnews.com/article/harris-male-voters-sexism-trump-support-obama-bcf8dbcce4700ba24725ca178f7753b0)
-    * [JD Vance refused five times to acknowledge Donald Trump lost 2020 election in podcast interview](https://apnews.com/article/jd-vance-trump-lost-new-york-times-interview-e81ea9bc1900cab9eaf691e216d7a49e)
+    * [Trump drives his anti-immigration message in Aurora, Colorado](https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70)
     
     Newsletters
     
@@ -559,9 +559,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Dodgers will start Yamamoto against San Diego's Darvish in winner-take-all Game 5 of NLDS](https://apnews.com/article/mlb-playoffs-padres-dodgers-445b67be07a46a61051ab1627582f575)
-    * [Nevada high court to review decision in ex-Raiders coach Jon Gruden's lawsuit over NFL emails](https://apnews.com/article/gruden-nfl-lawsuit-2fd3e34a0e298b857b1b817c8fad4c77)
-    * [Todd Downing tasked with helping Aaron Rodgers and Jets' struggling offense after 'unique week'](https://apnews.com/article/jets-downing-3a678d03b6da0a064266b8ca67507f0d)
+    * [Yamamoto outduels Darvish in historic matchup as Dodgers beat Padres 2-0 to reach NLCS](https://apnews.com/article/mlb-playoffs-dodgers-padres-f0778cdc5ff2250641336fbe6c8d3f0c)
+    * [Padres muster no offense to support Yu Darvish's inspired pitching in NLDS loss to Dodgers](https://apnews.com/article/mlb-playoffs-padres-dodgers-darvish-tatis-machado-faee88063d0b9dbac2007ef6c943e76c)
+    * [Cam Skattebo runs for 156 yards, Arizona State knocks off No. 16 Utah 27-19](https://apnews.com/article/arizona-state-utah-score-skattebo-f0f3018c5a35437f5dba919d46bc15eb)
     
     Newsletters
     
@@ -589,8 +589,8 @@ Submit Search
     TOP STORIES
     
     * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
+    * [Jury finds ex-member of rock band Mr. Bungle guilty of killing his girlfriend](https://apnews.com/article/mr-bungle-girlfriend-killing-guilty-bd369201c2388383428a84746661929f)
     * [The making of 'The Apprentice,' in their words](https://apnews.com/article/sebastian-stan-donald-trump-apprentice-jeremy-strong-faf59cdd1c4e80bb8e97f7bea0b940fc)
-    * [Austin Stowell is emotional about playing stoic Jethro Gibbs in 'NCIS: Origins'](https://apnews.com/article/ncis-austin-stowell-gibbs-interview-2273dad6a6589ff82096536ca2e11f98)
     
 * [Business](https://apnews.com/business)
     
@@ -604,9 +604,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Stock market today: Wall Street rises to close its latest record-setting week as banks jump](https://apnews.com/article/stock-market-china-stimulus-fed-korea-rates-7dfc363b1ff32e71a335571cdf8325fb)
-    * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
-    * [Wholesale inflation remained cool last month in latest sign that price pressures are slowing](https://apnews.com/article/inflation-wholesale-prices-consumer-federal-reserve-rates-a551afcffbb495e5a302d5c847562df6)
+    * [Boeing will lay off 10% of its employees as a strike by factory workers cripples airplane production](https://apnews.com/article/boeing-layoffs-strike-airplane-factories-de637999cf525699577b42b72bff2a70)
+    * [Data shows migrants aren't taking 'Black jobs' or 'Hispanic jobs,' despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
+    * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     
 * [Science](https://apnews.com/science)
     
@@ -630,23 +630,23 @@ Submit Search
     
     TOP STORIES
     
+    * [FACT FOCUS: A look at the false information around Hurricanes Helene and Milton](https://apnews.com/article/election-hurricanes-false-info-helene-milton-a4c2df2463b69c1f2e3eb6846e3b37ae)
     * [FACT FOCUS: Online posts make unfounded claims about a helicopter delivering aid in North Carolina](https://apnews.com/article/fact-check-helicopter-north-carolina-helene-d44fb04825337e8a7ca69e9f616621f7)
     * [US disaster relief chief blasts false claims about Helene response as a 'truly dangerous narrative'](https://apnews.com/article/trump-fema-hurricane-helene-conspiracy-theories-criswell-07d5b1f6968cb2af11b63357186a1a15)
     * [After the deluge, the lies: Misinformation and hoaxes about Helene cloud the recovery](https://apnews.com/article/hurricane-helene-trump-musk-conspiracy-theories-misinformation-fe81869765d778ac2ff3dc5f9ac18e10)
     * [FACT FOCUS: Claims that more than 300,000 migrant children are missing lack context](https://apnews.com/article/fact-check-misinformation-migrant-children-missing-7ab0cea2fd2238346197429e952baa8b)
     * [A look at false and misleading claims from the vice presidential debate](https://apnews.com/article/debate-walz-vance-misinformation-fact-check-a3f67b1fdef425038dfac9267861247c)
-    * [Walz misleadingly claims to have been in Hong Kong during period tied to Tiananmen Square massacre](https://apnews.com/article/walz-china-tiananmen-square-protests-8d433bf7184e8c430aa31d1f5460fe87)
     
 * [Oddities](https://apnews.com/oddities)
     
     TOP STORIES
     
+    * [Witnesses can bear-ly believe the surprise visitor at Connecticut governor's estate](https://apnews.com/article/bear-climbs-fence-connecticut-governors-mansion-3b1aaf00afa14dc1c7e12ac0faf9d1b4)
     * [Woman pleads guilty to trying to smuggle 29 turtles across a Vermont lake into Canada by kayak](https://apnews.com/article/eastern-box-turtles-smuggling-vermont-lake-kayak-fdb63d3944a27ef12088fa97a16950a3)
     * [Authorities continue to investigate container suspected of holding dynamite in Tennessee](https://apnews.com/article/explosives-evacuation-knoxville-metal-recycler-3b929a961105649b12b258ec0a01e0f6)
     * [New Zealand ship didn’t sink because its captain was a woman, the ‘appalled’ defense minister says](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
     * [Washington state woman calls 911 after being hounded by up to 100 raccoons](https://apnews.com/article/washington-state-raccoon-invasion-cadf885cc7a4f2bd05e7755d448e7d8c)
-    * [How Waffle House helps Southerners — and FEMA — judge a storm's severity](https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819)
-    * [Former owner of water buffalo that roamed Iowa suburb for days pleads guilty](https://apnews.com/article/water-buffalo-iowa-96fea4fff4a4a11dc5024a8d16667499)
+    * [Wife-carrying championship victory brings beer and cash](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -691,7 +691,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Human towers rise skyward in Spain's Catalonia as part of cultural pride](https://apnews.com/article/human-towers-castells-spain-catalonia-0146da4fd9edc44a681acb3944a81fb3)
+    * [A look at life inside Paraguay's overcrowded prisons](https://apnews.com/article/paraguay-prisons-photo-gallery-2c58be3819606a99950302574773a06f)
     * [Nepalese grapple with loss after floods kill over 200 people](https://apnews.com/article/nepal-flooding-photo-gallery-c7dd40a8557c03ee652dca28197c7442)
     * [In their 80s, these South Korean women learned reading and rap](https://apnews.com/article/south-korea-rappers-older-literacy-women-education-db7a109b38827e08804e6da20fb9414f)
     
@@ -727,9 +727,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Drought is parching the world's largest man-made lake, stripping Zambia of its electricity](https://apnews.com/article/climate-power-electricity-drought-environment-6e3e746566b0831491e72de380f4079d)
     * [Climate change gave significant boost to Milton's destructive rain, winds, scientists say](https://apnews.com/article/hurricane-milton-climate-change-greenhouse-gases-fossil-fuels-aa1c971c228feb9da6f36fb9cc46ee81)
     * [Colombia’s river guardians battle to protect the Atrato amid threats and abandonment](https://apnews.com/article/atrato-guardians-illegal-mining-contamination-threats-choco-977ad1e171715b8f7fb20a8ac6b9e149)
-    * [Milton by the numbers: At least 5 dead, at least 12 tornadoes, 3.4M without power](https://apnews.com/article/hurricane-milton-florida-rainfall-numbers-tornadoes-fe7789ee03c910dd1ea25772eff4be8b)
     
 * [Health](https://apnews.com/health)
     
@@ -740,7 +740,7 @@ Submit Search
     * [Officials work to protect IV supplies in Florida after disruptions at North Carolina plant](https://apnews.com/article/hurricane-milton-iv-shortage-hospitals-drugs-e5f37ad059e1357786732758624c9fd2)
     * [Bakery that makes Sara Lee and Entenmann's pushes back on FDA sesame warning](https://apnews.com/article/bimbo-bakeries-sesame-allergy-warning-b12aeaf118910ee43058a6a58c789fe2)
     * [Florida hospitals and health care facilities in Hurricane Milton's path prepare for the worst](https://apnews.com/article/hurricane-milton-hospitals-nursing-homes-evacuations-prepare-c4146bee8f78a4769ba5829b4538f10e)
-    * [A peek inside the human brain shows a way it cleans out the kind of waste that leads to Alzheimer’s](https://apnews.com/article/clearing-brain-waste-alzheimers-f73b0e5f66a324e3d0e3f0cea951276b)
+    * [Texas man drops lawsuit against women he accused of helping his wife get abortion pills](https://apnews.com/article/texas-abortion-bans-settlement-4be6bdee1520292d675f678f7053a6ce)
     
 * [Tech](https://apnews.com/technology)
     
@@ -753,9 +753,9 @@ Submit Search
     
     TOP STORIES
     
+    * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
     * [AI is having its Nobel moment. Do scientists need the tech industry to sustain it?](https://apnews.com/article/ai-nobel-prizes-physics-chemistry-google-deepmind-hinton-cb963de3b4235f28f8c95ca9080830f6)
-    * [One Tech Tip: Here's what you need to do before and after your phone is stolen or lost](https://apnews.com/article/iphone-android-stolen-phone-theft-c4d0ab7ee40fca01bc46d7db03d590dd)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -773,9 +773,9 @@ Submit Search
     
     TOP STORIES
     
+    * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     * [Fisher-Price recalls over 2 million 'Snuga Swings' following the deaths of 5 infants](https://apnews.com/article/fisher-price-recalls-swings-infant-deaths-6010490ee97a24f66efece45c5e76f1c)
-    * [United Airlines is adding 8 new international destinations to its itinerary for next summer](https://apnews.com/article/united-italy-spain-tokyo-portugal-mongolia-7d03ed93152cee47f58944f26f7dc0af)
-    * [Disney World and other Orlando parks to reopen Friday after Hurricane Milton shutdown](https://apnews.com/article/disney-world-milton-universal-seaworld-reopening-c6393375c33b89e9041faa203784985f)
+    * [Hot-air balloon strikes and collapses radio tower in Albuquerque during festival](https://apnews.com/article/new-mexico-balloon-festival-radio-tower-4039dce175891ac7aba266d6c2b1a95d)
     
 * [Religion](https://apnews.com/religion)
     
@@ -798,11 +798,11 @@ Submit Search
     TOP STORIES
     
     * [Fuerzas israelíes matan a 2 soldados libaneses y hieren a 2 miembros de fuerzas de paz de la ONU](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
+    * [¿Hombres estadounidenses reacios a votar por una mujer? Simpatizantes de Harris abordan el tema](https://apnews.com/politics/elecciones-en-eeuu-26be5c8b8bf33987dcdff8e725782e2c)
+    * [Los datos contradicen afirmaciones de Trump de que migrantes acaparan "empleos negros" o "hispanos"](https://apnews.com/politics/general-news-7e55b37588f0d1fb4b1d349206752fc3)
     * [Migración por el Darién vuelve a crecer en septiembre apuntalada por venezolanos tras elecciones](https://apnews.com/world-news/general-news-8e6a12a73c4179908d301feb65972c19)
-    * [Nobel de la Paz reconoce a asociación japonesa de sobrevivientes de bombas atómicas Nihon Hidankyo](https://apnews.com/world-news/general-news-ee302667bd71e111e4c86f1a6e5f8d47)
-    * [El hacinamiento agobia al sistema penitenciario de Paraguay: así viven los presos de cinco cárceles](https://apnews.com/world-news/general-news-3e27caa14f734f0d5a0b727d6ed90e00)
-    * [Demandan en EEUU a excoronel salvadoreño por asesinato de periodistas holandeses en 1982](https://apnews.com/us-news/general-news-16f0db46b4d4c9b00d6e93b637d26a2c)
-    * [Brasil empieza a bloquear más de 2.000 sitios web de apuestas considerados como irregulares](https://apnews.com/world-news/general-news-4e6ccab148be429ab3aa988d70dfdea1)
+    * [Trump lleva su mensaje contra la inmigración a Aurora, Colorado](https://apnews.com/politics/donald-trump-7a3ce321a85aac6b1bb0b8d5cc663055)
+    * [Secuestran a diputado local en el norte de México](https://apnews.com/world-news/general-news-ed57fdaec878d77a0eb0e70836e21536)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
