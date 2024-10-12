@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2014 Candidate Elections Overview](/assets/Images/teasers/full/Leg-by-Office-2014.png)](http://www.followthemoney.org/research/institute-reports/2014-candidate-elections-overview/)
+[![Microsoft](/assets/logos/MicrosoftGivingGraph.png)](http://www.followthemoney.org/research/institute-research/forbes-magazines-richest-americans-influence-state-politics)
+
+Microsoft spread its state political giving pretty evenly, 2005-2008.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
