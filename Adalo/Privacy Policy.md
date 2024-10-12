@@ -87,7 +87,7 @@ Personal Information we collect from you may be stored and processed in any coun
 Under California’s “Shine the Light” law, California residents have the right to request and obtain a list of the third parties, if any, to which personal information (as defined by California law) has been disclosed for their direct marketing purposes during the immediately prior calendar year. If you are a California resident and want a copy of this information, please submit a written request to us at the address provided in the Contact section below. In your request, please specify that you are requesting a “Your California Privacy Rights Notice.” Please allow 30 days for a response.  
 ‍  
 **6\. Children’s Privacy**  
-Persons under the age of 13, or any higher minimum age in the jurisdiction where that person resides, are not permitted to create accounts unless their parent has consented in accordance with applicable law. If we learn that we have collected the personal information of a child under the relevant minimum age without parental consent, we will take steps to delete the information as soon as possible. Parents who believe that their child has submitted personal information to us and would like to have it deleted may contact us at support@adalo.com.  
+Persons under the age of 13, or any higher minimum age in the jurisdiction where that person resides, are not permitted to create accounts unless their parent has consented in accordance with applicable law. If we learn that we have collected the personal information of a child under the relevant minimum age without parental consent, we will take steps to delete the information as soon as possible. Parents who believe that their child has submitted personal information to us and would like to have it deleted may contact us at [\[email protected\]](https://www.adalo.com/cdn-cgi/l/email-protection).  
 ‍  
 **7\. Opting Out**  
 You may “opt out” of receiving marketing or promotional emails from us by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your Account or our ongoing business relations.  
@@ -96,7 +96,7 @@ You may “opt out” of receiving marketing or promotional emails from us by fo
 We reserve the right to change the provisions of this Policy at any time. Please revisit this page periodically to stay aware of any changes. If we modify this Policy, we will make it available through the Service and indicate the date of the latest revision. Your continued use of the Service after the revised Policy has become effective indicates that you have read, understood, and agreed to the current version of this Policy.  
 ‍  
 **9\. Contact**  
-Please contact us with any questions regarding this Policy at support@adalo.com or at the address below.  
+Please contact us with any questions regarding this Policy at [\[email protected\]](https://www.adalo.com/cdn-cgi/l/email-protection) or at the address below.  
   
 Adalo  
 911 Washington Avenue  
@@ -116,13 +116,13 @@ What App Are You Going to Make Today?
 
 👋 Join the Adalo Community
 
-[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e13543973a16652d0_Twitter-Icon.png)](https://twitter.com/AdaloHQ)[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e13543989156652cf_Facebook-Icon.png)](https://www.facebook.com/AdaloHQ)[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e1354390a6c6652d1_LinkedIn.png)](https://www.linkedin.com/company/adalohq)[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e135439273d6652dd_AngelList-Icon.png)](https://angel.co/adalo)[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e135439084f6652ce_Email-Icon.png)](mailto:hello@adalo.com?subject=Hey%20Team%20Adalo!)
+[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e13543973a16652d0_Twitter-Icon.png)](https://twitter.com/AdaloHQ)[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e13543989156652cf_Facebook-Icon.png)](https://www.facebook.com/AdaloHQ)[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e1354390a6c6652d1_LinkedIn.png)](https://www.linkedin.com/company/adalohq)[![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d123a0e135439273d6652dd_AngelList-Icon.png)](https://angel.co/adalo)[\[email protected\]](https://www.adalo.com/cdn-cgi/l/email-protection)
 
 Stay in the loop on everything Adalo! Subscribe today!
 
 Welcome to the community! Updates coming your way soon.
 
-Oh no! Something went wrong! Please email us at hello@adalo.com
+Oh no! Something went wrong! Please email us at [\[email protected\]](https://www.adalo.com/cdn-cgi/l/email-protection)
 
 Links & Stuff
 
