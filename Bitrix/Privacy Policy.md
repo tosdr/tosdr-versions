@@ -756,7 +756,7 @@ Partners
 * [Abuse](https://www.bitrix24.com/abuse/)
 * [Do Not Sell or Share My Information](#)
 
-© 2024 Bitrix24
+© 2024 Alaio
 
 [](https://itunes.apple.com/app/bitrix24/id561683423)
 
