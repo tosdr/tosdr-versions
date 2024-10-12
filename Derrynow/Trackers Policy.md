@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-11 Oct 2024
+12 Oct 2024
 
 * [Home
     
@@ -284,13 +284,6 @@ Omagh Crown Court
 [County Derry man jailed after making up to £475,000 from illegal streaming services](https://www.derrynow.com/news/local-news/1627799/county-derry-man-jailed-after-making-up-to-475-000-from-illegal-streaming-services.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Northern Lights in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Northern Lights in Derry")](https://www.derrynow.com/gallery/home/1627395/northern-lights-in-derry.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[The skies of Derry are lit up by the Northern Lights](https://www.derrynow.com/gallery/home/1627395/northern-lights-in-derry.html)
------------------------------------------------------------------------------------------------------------------------------------
-
 [![Suspended sentence for Derry man following 'stupid, boorish behavior'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man following 'stupid, boorish behavior'")](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
 
 Derry Magistrate's Court
@@ -299,6 +292,15 @@ Derry Magistrate's Court
 
 [Suspended sentence for Derry man following 'stupid, boorish behavior'](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore")](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
+
+Colm Scullion (right) pictured during recording with John Creedon (left) and Christy Moore (centre).
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man arrested for possession of a knife and drugs handed suspended sentence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested for possession of a knife and drugs handed suspended sentence")](https://www.derrynow.com/news/local-news/1627794/man-arrested-for-possession-of-a-knife-and-drugs-handed-suspended-sentence.html)
 
@@ -316,12 +318,12 @@ Derry Magistrate's Court
 [Derry judge says there will be 'zero tolerance' of assaults on public servants](https://www.derrynow.com/news/local-news/1627705/derry-judge-says-there-will-be-zero-tolerance-of-assaults-on-public-servants.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PSNI application for footage linked to disorder ‘should never have been made’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI application for footage linked to disorder ‘should never have been made’")](https://www.derrynow.com/news/local-news/1627699/psni-application-for-footage-linked-to-disorder-should-never-have-been-made.html)
+[![Suspended sentence for Derry man charged with disorderly behavior and assaulting police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man charged with disorderly behavior and assaulting police")](https://www.derrynow.com/news/local-news/1627916/suspended-sentence-for-derry-man-charged-with-disorderly-behavior-and-assaulting-police.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[PSNI application for footage linked to disorder ‘should never have been made’](https://www.derrynow.com/news/local-news/1627699/psni-application-for-footage-linked-to-disorder-should-never-have-been-made.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Suspended sentence for Derry man charged with disorderly behavior and assaulting police](https://www.derrynow.com/news/local-news/1627916/suspended-sentence-for-derry-man-charged-with-disorderly-behavior-and-assaulting-police.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Paddy Tyre tribute concert planned for Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Paddy Tyre tribute concert planned for Derry's Guildhall")](https://www.derrynow.com/news/local-news/1627720/paddy-tyre-tribute-concert-planned-for-derry-s-guildhall.html)
 
@@ -332,14 +334,12 @@ Mayor of Derry Cllr Lilian Seenoi-Barr pictured with members of the late Paddy T
 [Paddy Tyre tribute concert planned for Derry's Guildhall](https://www.derrynow.com/news/local-news/1627720/paddy-tyre-tribute-concert-planned-for-derry-s-guildhall.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1627091/ruaidhri-higgins-this-is-an-unbelievably-powerful-football-club-when-everyone-is-sailing-in-the-one-direction.html)
+[![PSNI application for footage linked to disorder ‘should never have been made’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI application for footage linked to disorder ‘should never have been made’")](https://www.derrynow.com/news/local-news/1627699/psni-application-for-footage-linked-to-disorder-should-never-have-been-made.html)
 
-Derry City fae Bohemians again tomorrow night.
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ruaidhri Higgins - "This is an unbelievably powerful football club when everyone is sailing in the one direction.'](https://www.derrynow.com/news/derry-sport/1627091/ruaidhri-higgins-this-is-an-unbelievably-powerful-football-club-when-everyone-is-sailing-in-the-one-direction.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PSNI application for footage linked to disorder ‘should never have been made’](https://www.derrynow.com/news/local-news/1627699/psni-application-for-footage-linked-to-disorder-should-never-have-been-made.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,6 +519,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1628426/derry-city-take-a-point-but-miss-big-opportunity-against-bohemians.html)
+
+Paul McMullan reacts to a missed chance. Pic by Ramsey Cardy/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry City take a point but miss big opportunity against Bohemians](https://www.derrynow.com/news/derry-sport/1628426/derry-city-take-a-point-but-miss-big-opportunity-against-bohemians.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore")](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
 
 Colm Scullion (right) pictured during recording with John Creedon (left) and Christy Moore (centre).
@@ -528,7 +537,7 @@ Colm Scullion (right) pictured during recording with John Creedon (left) and Chr
 [Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry college lecturer won I.T Educator of the Year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry college lecturer won I.T Educator of the Year")](https://www.derrynow.com/news/local-news/1627947/derry-college-lecturer-wins-it-educator-of-the-year.html)
+[![Derry college lecturer won I.T Educator of the Year](https://www.derrynow.com/resizer/165/93/true/2024_10_11/462694586_978879107613046_4669349055564596151_n_Cropped-1728647274808.jpg--.jpg?1728647274847 "Derry college lecturer won I.T Educator of the Year")](https://www.derrynow.com/news/local-news/1627947/derry-college-lecturer-wins-it-educator-of-the-year.html)
 
 Lecturer Kevin McLaughlin with his award for IT Educator of the Year
 
@@ -561,15 +570,6 @@ Derry Magistrate's Court
 
 [Man arrested for possession of a knife and drugs handed suspended sentence](https://www.derrynow.com/news/local-news/1627794/man-arrested-for-possession-of-a-knife-and-drugs-handed-suspended-sentence.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Paddy Tyre tribute concert planned for Derry's Guildhall](https://www.derrynow.com/resizer/165/93/true/2024_10_11/PaddyTyre0410241-1728643915111.jpg--.jpg?1728643915817 "Paddy Tyre tribute concert planned for Derry's Guildhall")](https://www.derrynow.com/news/local-news/1627720/paddy-tyre-tribute-concert-planned-for-derry-s-guildhall.html)
-
-Mayor of Derry Cllr Lilian Seenoi-Barr pictured with members of the late Paddy Tyre’s family and local musicians at the launch of a tribute night in the Guildhall.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Paddy Tyre tribute concert planned for Derry's Guildhall](https://www.derrynow.com/news/local-news/1627720/paddy-tyre-tribute-concert-planned-for-derry-s-guildhall.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
