@@ -92,7 +92,7 @@ Niederhofstrasse 37
 1120 Vienna  
 Austria
 
-[privacy@connectad.io](mailto:privacy@connectad.io)
+[\[email protected\]](https://www.connectadrealtime.com/cdn-cgi/l/email-protection)
 
 ‍
 
@@ -104,7 +104,7 @@ Austria
 
 ###### Stay connected
 
-connect@connectad.io  
+[\[email protected\]](https://www.connectadrealtime.com/cdn-cgi/l/email-protection)  
 +43 1 435 03 00  
 +49 40 743 05 162  
 +1 (305) 459 3619
