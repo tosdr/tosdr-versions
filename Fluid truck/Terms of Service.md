@@ -174,7 +174,7 @@ While Fluid may provide pricing, rental, delivery, shipping, listing and other g
     * Stolen property, property with serial number removed/altered, burglary tools, lock picking devices
     * Unpackaged or adulterated food or cosmetics
     * Unsanitized bedding and clothing
-3. Damage to Items. Lenders may file a claim with Fluid for any damage incurred during a Transaction. Please contact Fluid Customer Care at [help@fluidtruck.com](mailto:help@fluidtruck.com) for additional information.
+3. Damage to Items. Lenders may file a claim with Fluid for any damage incurred during a Transaction. Please contact Fluid Customer Care at [\[email protected\]](https://www.fluidtruck.com/cdn-cgi/l/email-protection) for additional information.
 
 #### 4\. Borrowers
 
@@ -327,7 +327,7 @@ Users may post reviews, comments, photos, videos, and other content; send e-card
 
 #### 12\. Contact Fluid
 
-If you have any feedback or questions for us, please contact Fluid at [help@fluidtruck.com](mailto:help@fluidtruck.com).  
+If you have any feedback or questions for us, please contact Fluid at [\[email protected\]](https://www.fluidtruck.com/cdn-cgi/l/email-protection).  
 
 Fluid Truck
 
