@@ -253,8 +253,6 @@ EUR
     
     Information[#### Custom Flyers](https://www.jukeboxprint.com/flyers)[We offer a wide range of sizes, stocks, and finishes to provide every option you need for your next print flyer project.](https://www.jukeboxprint.com/flyers)
     
-    Information[#### Custom Calendars for Every Need](https://www.jukeboxprint.com/calendar-printing)[Stay organized in style with our custom Saddle Stitched, Wall, and Desktop calendars. Choose from premium paper stocks and finishes for a perfect look.](https://www.jukeboxprint.com/calendar-printing)
-    
     Information[#### Vinyl Banners](https://www.jukeboxprint.com/vinyl-banners)[Get durable, lightweight 13mil vinyl banners with a sleek matte finish. Perfect for vibrant, glare-free displays, indoors or out.](https://www.jukeboxprint.com/vinyl-banners)
     
     Information[#### Catalog Printing](https://www.jukeboxprint.com/catalog-printing)[Crafted for excellence, our custom catalogs boast the highest quality and cater to large quantities.](https://www.jukeboxprint.com/catalog-printing)
