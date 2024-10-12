@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* ['Inside-Out' Galaxy Growth in Early Universe](https://www.sciencedaily.com/releases/2024/10/241011141247.htm)
+* [Dance, Gibbon, Dance!](https://www.sciencedaily.com/releases/2024/10/241011141154.htm)
+* [19th Century Lions from Kenya Ate Humans](https://www.sciencedaily.com/releases/2024/10/241011140945.htm)
+* [Chaotic 3-Body Problem: Islands of Regularity](https://www.sciencedaily.com/releases/2024/10/241010142636.htm)
+* [Bilingualism Makes the Brain More Efficient](https://www.sciencedaily.com/releases/2024/10/241010142538.htm)
 * [Do Fungi Recognize Shapes?](https://www.sciencedaily.com/releases/2024/10/241009122809.htm)
 * [How Your Skin Tone Could Affect Your Meds](https://www.sciencedaily.com/releases/2024/10/241010205906.htm)
 * [Special 'Skinny Genes' Double Weight Loss](https://www.sciencedaily.com/releases/2024/10/241009122307.htm)
 * [Catastrophically Warm Predictions More Plausible](https://www.sciencedaily.com/releases/2024/10/241010124852.htm)
 * [Late Cretaceous Birds: Raptor-Like Feet](https://www.sciencedaily.com/releases/2024/10/241009144842.htm)
-* [Sweet Tooth: Depression, Diabetes, Stroke](https://www.sciencedaily.com/releases/2024/10/241009122507.htm)
-* [Active Robot Playmate for Toddlers?](https://www.sciencedaily.com/releases/2024/10/241009121555.htm)
-* [Ice Cream-Inspired Physics and Quantum Systems](https://www.sciencedaily.com/releases/2024/10/241008122544.htm)
-* [Tick-Borne Parasitic Disease On the Rise](https://www.sciencedaily.com/releases/2024/10/241008103800.htm)
-* [Sustaining Fish Populations](https://www.sciencedaily.com/releases/2024/10/241007160248.htm)
 
 Trending Topics
 ---------------
@@ -230,17 +230,17 @@ this week
 
 [Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
-[Disability](https://www.sciencedaily.com/news/health_medicine/disability/)
+[Racial Issues](https://www.sciencedaily.com/news/mind_brain/racial_issues/)
 
-[Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
+[Memory](https://www.sciencedaily.com/news/mind_brain/memory/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
-
 [Alternative Fuels](https://www.sciencedaily.com/news/matter_energy/alternative_fuels/)
 
-[Wearable Technology](https://www.sciencedaily.com/news/matter_energy/wearable_technology/)
+[Satellites](https://www.sciencedaily.com/news/space_time/satellites/)
+
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
