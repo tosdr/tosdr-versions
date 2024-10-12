@@ -247,8 +247,6 @@ Seller Name
 
 [Save](#)
 
-Midnight Moonlight Madness ends in Limited time deals end in Folies de minuit au clair de lune se terminent dans Aubaines d’une durée limitée se terminent dans – 
-
 Terms and Conditions
 ====================
 
