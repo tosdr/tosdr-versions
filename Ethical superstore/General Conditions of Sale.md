@@ -162,8 +162,8 @@ Customer Services Helpline
             * [Socks & Tights](https://www.ethicalsuperstore.com/category/fashion/womens/socks/)
             * [Nightwear](https://www.ethicalsuperstore.com/category/fashion/womens/nightwear/)
             * [Trousers & Leggings](https://www.ethicalsuperstore.com/category/fashion/womens/trousers/)
-            * [Swimwear](https://www.ethicalsuperstore.com/category/fashion/womens/swimwear/)
             * [Graphic T-Shirts & Jumpers](https://www.ethicalsuperstore.com/category/fashion/womens/graphic-t_shirt-and-jumpers/)
+            * [Swimwear](https://www.ethicalsuperstore.com/category/fashion/womens/swimwear/)
             * [Bags](https://www.ethicalsuperstore.com/category/fashion/womens/bags/)
         
         * [Mens](https://www.ethicalsuperstore.com/category/fashion/mens/)
