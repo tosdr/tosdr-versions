@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)9°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![forte pluie](https://www.watson.ch/fr/_watsui/static/img/weather/w-18.svg)12°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,26 +55,26 @@
 
 Thèmes du moment
 
-* [Technologie](https://www.watson.ch/fr/technologie/)
 * [Politique](https://www.watson.ch/fr/politique/)
-* [Ski Alpin](https://www.watson.ch/fr/ski-alpin/)
-* [Police](https://www.watson.ch/fr/police/)
-* [Tempête](https://www.watson.ch/fr/tempete/)
-* [Italie](https://www.watson.ch/fr/italie/)
+* [Technologie](https://www.watson.ch/fr/technologie/)
+* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [UDC](https://www.watson.ch/fr/udc/)
+* [Russie](https://www.watson.ch/fr/russie/)
+* [Tennis](https://www.watson.ch/fr/tennis/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
-* [Argent](https://www.watson.ch/fr/argent/)
+* [ATP](https://www.watson.ch/fr/atp/)
 * [nourriture](https://www.watson.ch/fr/nourriture/)
-* [Floride](https://www.watson.ch/fr/floride/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
-* [McDonald's](https://www.watson.ch/fr/mcdonald-s/)
+* [Vidéo](https://www.watson.ch/fr/video/)
+* [Jannik Sinner](https://www.watson.ch/fr/jannik-sinner/)
+* [Santé](https://www.watson.ch/fr/sante/)
 * [Climat](https://www.watson.ch/fr/climat/)
 * [Hamas](https://www.watson.ch/fr/hamas/)
 * [Gaza](https://www.watson.ch/fr/gaza/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Israël](https://www.watson.ch/fr/israel/)
-* [Volodymyr Zelensky](https://www.watson.ch/fr/volodymyr-zelensky/)
-* [Télévision](https://www.watson.ch/fr/television/)
+* [Sport en direct](https://www.watson.ch/fr/sport-en-direct/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
