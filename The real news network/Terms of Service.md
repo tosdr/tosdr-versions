@@ -108,10 +108,10 @@ Trending Posts
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
-* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
-* [Cornell is about to deport a student over Palestine activism](https://therealnews.com/cornell-is-about-to-deport-a-student-over-palestine-activism)
+* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
+* ['Look at our suffering!': Gaza's message to the world after a year of genocide](https://therealnews.com/gazas-message-to-the-world-after-a-year-of-genocide)
 
 Close
 
@@ -172,10 +172,10 @@ Trending Posts
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
-* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
-* [Cornell is about to deport a student over Palestine activism](https://therealnews.com/cornell-is-about-to-deport-a-student-over-palestine-activism)
+* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
+* ['Look at our suffering!': Gaza's message to the world after a year of genocide](https://therealnews.com/gazas-message-to-the-world-after-a-year-of-genocide)
 
 [Skip to content](#main)
 
@@ -371,10 +371,10 @@ Trending Posts
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
-* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
-* [Cornell is about to deport a student over Palestine activism](https://therealnews.com/cornell-is-about-to-deport-a-student-over-palestine-activism)
+* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
+* ['Look at our suffering!': Gaza's message to the world after a year of genocide](https://therealnews.com/gazas-message-to-the-world-after-a-year-of-genocide)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
