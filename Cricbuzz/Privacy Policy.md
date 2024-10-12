@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[PAKW vs AUSW - AUSW Won](https://www.cricbuzz.com/live-cricket-scores/94642/pakw-vs-ausw-14th-match-group-a-icc-womens-t20-world-cup-2024 "Pakistan Women v Australia Women, 14th Match, Group A - AUSW Won")[PAK vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - ENG Won")[NZW vs SLW - Preview](https://www.cricbuzz.com/live-cricket-scores/94649/nzw-vs-slw-15th-match-group-a-icc-womens-t20-world-cup-2024 "New Zealand Women v Sri Lanka Women, 15th Match, Group A - Preview")[IND vs BAN - IND Won](https://www.cricbuzz.com/live-cricket-scores/100247/ind-vs-ban-2nd-t20i-bangladesh-tour-of-india-2024 "India v Bangladesh, 2nd T20I - IND Won")[BANW vs WIW - WIW Won](https://www.cricbuzz.com/live-cricket-scores/94633/banw-vs-wiw-13th-match-group-b-icc-womens-t20-world-cup-2024 "Bangladesh Women v West Indies Women, 13th Match, Group B - WIW Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[IND vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/100256/ind-vs-ban-3rd-t20i-bangladesh-tour-of-india-2024 "India v Bangladesh, 3rd T20I - Preview")[PAKW vs AUSW - AUSW Won](https://www.cricbuzz.com/live-cricket-scores/94642/pakw-vs-ausw-14th-match-group-a-icc-womens-t20-world-cup-2024 "Pakistan Women v Australia Women, 14th Match, Group A - AUSW Won")[NZW vs SLW - Preview](https://www.cricbuzz.com/live-cricket-scores/94649/nzw-vs-slw-15th-match-group-a-icc-womens-t20-world-cup-2024 "New Zealand Women v Sri Lanka Women, 15th Match, Group A - Preview")[PAK vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - ENG Won")[BANW vs RSAW - Preview](https://www.cricbuzz.com/live-cricket-scores/94658/banw-vs-rsaw-16th-match-group-b-icc-womens-t20-world-cup-2024 "Bangladesh Women v South Africa Women, 16th Match, Group B - Preview")
 
 AllLive NowToday
 
@@ -108,17 +108,17 @@ AllLive NowToday
     
 * CSA T20 Knock Out Competition
     
-    [Northern Cape vs Limpopo](https://www.cricbuzz.com/live-cricket-scores/105244/ncape-vs-limpo-19th-match-csa-t20-knock-out-competition "Northern Cape v Limpopo, 19th Match - Upcoming")
-    
-    19th Match
-    
-* [Mpumalanga Rhinos vs Eastern Cape](https://www.cricbuzz.com/live-cricket-scores/105260/mpr-vs-ecape-21st-match-csa-t20-knock-out-competition "Mpumalanga Rhinos v Eastern Cape, 21st Match - Upcoming")
+    [Mpumalanga Rhinos vs Eastern Cape](https://www.cricbuzz.com/live-cricket-scores/105260/mpr-vs-ecape-21st-match-csa-t20-knock-out-competition "Mpumalanga Rhinos v Eastern Cape, 21st Match - Upcoming")
     
     21st Match
     
 * [Eastern Storm vs Tuskers](https://www.cricbuzz.com/live-cricket-scores/105252/estorm-vs-tusks-20th-match-csa-t20-knock-out-competition "Eastern Storm v Tuskers, 20th Match - Upcoming")
     
     20th Match
+    
+* [Northern Cape vs Limpopo](https://www.cricbuzz.com/live-cricket-scores/105244/ncape-vs-limpo-19th-match-csa-t20-knock-out-competition "Northern Cape v Limpopo, 19th Match - Upcoming")
+    
+    19th Match
     
 * LLC 2024
     
@@ -149,6 +149,22 @@ AllLive NowToday
 * [Chhattisgarh vs Delhi  LIVE](https://www.cricbuzz.com/live-cricket-scores/97279/cg-vs-del-elite-group-d-ranji-trophy "Chhattisgarh v Delhi, Elite Group D - Live")
     
     Elite Group D
+    
+* [Puducherry vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97221/pdc-vs-raj-elite-group-b-ranji-trophy "Puducherry v Rajasthan, Elite Group B - Stumps")
+    
+    Elite Group B
+    
+* [Himachal Pradesh vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/97216/hp-vs-utk-elite-group-b-ranji-trophy "Himachal Pradesh v Uttarakhand, Elite Group B - Stumps")
+    
+    Elite Group B
+    
+* [Railways vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97270/rlys-vs-cdg-elite-group-d-ranji-trophy "Railways v Chandigarh, Elite Group D - Stumps")
+    
+    Elite Group D
+    
+* [Gujarat vs Hyderabad](https://www.cricbuzz.com/live-cricket-scores/97212/guj-vs-hyd-elite-group-b-ranji-trophy "Gujarat v Hyderabad, Elite Group B - Stumps")
+    
+    Elite Group B
     
 * [Jharkhand vs Assam  LIVE](https://www.cricbuzz.com/live-cricket-scores/97261/jhkd-vs-asm-elite-group-d-ranji-trophy "Jharkhand v Assam, Elite Group D - Live")
     
@@ -189,22 +205,6 @@ AllLive NowToday
 * [Saurashtra vs Tamil Nadu](https://www.cricbuzz.com/live-cricket-scores/97284/saur-vs-tn-elite-group-d-ranji-trophy "Saurashtra v Tamil Nadu, Elite Group D - Stumps")
     
     Elite Group D
-    
-* [Puducherry vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97221/pdc-vs-raj-elite-group-b-ranji-trophy "Puducherry v Rajasthan, Elite Group B - Stumps")
-    
-    Elite Group B
-    
-* [Himachal Pradesh vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/97216/hp-vs-utk-elite-group-b-ranji-trophy "Himachal Pradesh v Uttarakhand, Elite Group B - Stumps")
-    
-    Elite Group B
-    
-* [Railways vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97270/rlys-vs-cdg-elite-group-d-ranji-trophy "Railways v Chandigarh, Elite Group D - Stumps")
-    
-    Elite Group D
-    
-* [Gujarat vs Hyderabad](https://www.cricbuzz.com/live-cricket-scores/97212/guj-vs-hyd-elite-group-b-ranji-trophy "Gujarat v Hyderabad, Elite Group B - Stumps")
-    
-    Elite Group B
     
 * Ranji Trophy Plate
     
@@ -256,13 +256,13 @@ AllLive NowToday
     
     1st Match, Group A
     
-* [Colombia vs Brazil](https://www.cricbuzz.com/live-cricket-scores/108555/clm-vs-bra-4th-match-group-a-sa-mens-championships-2024 "Colombia v Brazil, 4th Match, Group A - BRA Won")
-    
-    4th Match, Group A
-    
 * [Argentina vs Chile](https://www.cricbuzz.com/live-cricket-scores/108547/arg-vs-chl-3rd-match-group-b-sa-mens-championships-2024 "Argentina v Chile, 3rd Match, Group B - ARG Won")
     
     3rd Match, Group B
+    
+* [Colombia vs Brazil](https://www.cricbuzz.com/live-cricket-scores/108555/clm-vs-bra-4th-match-group-a-sa-mens-championships-2024 "Colombia v Brazil, 4th Match, Group A - BRA Won")
+    
+    4th Match, Group A
     
 * [Chile vs Uruguay](https://www.cricbuzz.com/live-cricket-scores/108569/chl-vs-urg-6th-match-group-b-sa-mens-championships-2024 "Chile v Uruguay, 6th Match, Group B - Upcoming")
     
@@ -272,13 +272,13 @@ AllLive NowToday
     
     5th Match, Group A
     
-* [Argentina vs Panama](https://www.cricbuzz.com/live-cricket-scores/108571/arg-vs-pan-7th-match-group-b-sa-mens-championships-2024 "Argentina v Panama, 7th Match, Group B - Upcoming")
-    
-    7th Match, Group B
-    
 * [Colombia vs Mexico](https://www.cricbuzz.com/live-cricket-scores/108577/clm-vs-mex-8th-match-group-a-sa-mens-championships-2024 "Colombia v Mexico, 8th Match, Group A - Upcoming")
     
     8th Match, Group A
+    
+* [Argentina vs Panama](https://www.cricbuzz.com/live-cricket-scores/108571/arg-vs-pan-7th-match-group-b-sa-mens-championships-2024 "Argentina v Panama, 7th Match, Group B - Upcoming")
+    
+    7th Match, Group B
     
 * [Colombia vs Peru](https://www.cricbuzz.com/live-cricket-scores/108587/clm-vs-per-10th-match-group-b-sa-mens-championships-2024 "Colombia v Peru, 10th Match, Group B - Upcoming")
     
@@ -288,13 +288,13 @@ AllLive NowToday
     
     9th Match, Group A
     
-* [Chile vs Panama](https://www.cricbuzz.com/live-cricket-scores/108595/chl-vs-pan-12th-match-group-a-sa-mens-championships-2024 "Chile v Panama, 12th Match, Group A - Upcoming")
-    
-    12th Match, Group A
-    
 * [Argentina vs Uruguay](https://www.cricbuzz.com/live-cricket-scores/108593/arg-vs-urg-11th-match-group-b-sa-mens-championships-2024 "Argentina v Uruguay, 11th Match, Group B - Upcoming")
     
     11th Match, Group B
+    
+* [Chile vs Panama](https://www.cricbuzz.com/live-cricket-scores/108595/chl-vs-pan-12th-match-group-a-sa-mens-championships-2024 "Chile v Panama, 12th Match, Group A - Upcoming")
+    
+    12th Match, Group A
     
 * [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/108611/tbc-vs-tbc-2nd-semi-final-sa-mens-championships-2024 "TBC v TBC, 2nd Semi-Final - Upcoming")
     
@@ -304,13 +304,13 @@ AllLive NowToday
     
     1st Semi-Final
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/108617/tbc-vs-tbc-3rd-place-play-off-sa-mens-championships-2024 "TBC v TBC, 3rd Place Play-off - Upcoming")
-    
-    3rd Place Play-off
-    
 * [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/108619/tbc-vs-tbc-final-sa-mens-championships-2024 "TBC v TBC, Final - Upcoming")
     
     Final
+    
+* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/108617/tbc-vs-tbc-3rd-place-play-off-sa-mens-championships-2024 "TBC v TBC, 3rd Place Play-off - Upcoming")
+    
+    3rd Place Play-off
     
 * WOMEN
     
@@ -377,6 +377,10 @@ AllLive NowToday
 * [Sydney Thunder Women vs Melbourne Stars Women](https://www.cricbuzz.com/live-cricket-scores/103998/sytw-vs-mlsw-9th-match-t20-spring-challenge "Sydney Thunder Women v Melbourne Stars Women, 9th Match - Upcoming")
     
     9th Match
+    
+* [Australian Capital Territory Women vs Brisbane Heat Women](https://www.cricbuzz.com/live-cricket-scores/104007/act-meteors-vs-brhw-10th-match-t20-spring-challenge "Australian Capital Territory Women v Brisbane Heat Women, 10th Match - Upcoming")
+    
+    10th Match
     
 * Womens East Asia Cup 2024
     
@@ -723,37 +727,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [No Mohammed Shami yet as India announce squad for New Zealand Tests](https://www.cricbuzz.com/cricket-news/131972/no-mohammed-shami-yet-as-india-announce-squad-for-new-zealand-tests "No Mohammed Shami yet as India announce squad for New Zealand Tests")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131971/gardner-takes-four-in-rout-of-pakistan "Gardner takes four in rout of Pakistan ")
 
 [Gardner takes four in rout of Pakistan](https://www.cricbuzz.com/cricket-news/131971/gardner-takes-four-in-rout-of-pakistan "Gardner takes four in rout of Pakistan ")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131970/india-look-to-complete-5-0-series-sweep-over-bangladesh "India look to complete '5-0' series sweep over Bangladesh")
 
 [India look to complete '5-0' series sweep over Bangladesh](https://www.cricbuzz.com/cricket-news/131970/india-look-to-complete-5-0-series-sweep-over-bangladesh "India look to complete '5-0' series sweep over Bangladesh")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/131969/south-africa-out-to-win-big-and-edge-closer-to-semifinal-berth "South Africa out to win big and edge closer to semifinal berth")
 
 [South Africa out to win big and edge closer to semifinal berth](https://www.cricbuzz.com/cricket-news/131969/south-africa-out-to-win-big-and-edge-closer-to-semifinal-berth "South Africa out to win big and edge closer to semifinal berth")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/131968/increased-part-time-options-adds-to-indias-bowling-cupboard "Increased part-time options adds to India's bowling cupboard")
 
 [Increased part-time options adds to India's bowling cupboard](https://www.cricbuzz.com/cricket-news/131968/increased-part-time-options-adds-to-indias-bowling-cupboard "Increased part-time options adds to India's bowling cupboard")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131967/ranji-highlights-hingrajia-ton-arrests-gujarats-slide "Ranji Highlights: Hingrajia ton arrests Gujarat's slide")
 
 [Ranji Highlights: Hingrajia ton arrests Gujarat's slide](https://www.cricbuzz.com/cricket-news/131967/ranji-highlights-hingrajia-ton-arrests-gujarats-slide "Ranji Highlights: Hingrajia ton arrests Gujarat's slide")
 
-6h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
