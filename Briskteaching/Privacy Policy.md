@@ -191,7 +191,7 @@ We will not knowingly retain Student Records beyond the time period required to 
 
 _Please note: Schools are responsible for maintaining current class rosters, and for managing Student Data which they no longer need for an educational purpose by submitting a deletion request._
 
-If you are using the Service on behalf of a School and wish to access Student Data, delete Student Data or close your account, please contact us ([privacy@briskteaching.com](mailto:privacy@briskteaching.com)). If you are a Parent or Student and wish to access Student Data, delete Student Data or close your account, please direct your request to your School. 
+If you are using the Service on behalf of a School and wish to access Student Data, delete Student Data or close your account, please contact us ([\[email protected\]](https://www.briskteaching.com/cdn-cgi/l/email-protection)). If you are a Parent or Student and wish to access Student Data, delete Student Data or close your account, please direct your request to your School. 
 
 _Questions About Student Data_
 
@@ -242,7 +242,7 @@ A parent/guardian has the right to access the personal data we have collected fr
 
 Unless we receive a deletion request, we will retain the personal data collected from the child for as long as necessary to provide the Service and comply with our legal obligations, which could include retaining information as needed for recordkeeping and billing obligations. We will delete and/or de-identify the child’s personal data when it is no longer needed for the purposes for which it was collected. 
 
-If you require additional assistance regarding your child’s personal data, please contact us at [privacy@briskteaching.com](mailto:privacy@briskteaching.com). We will respond to all requests as soon as possible. For requests that relate to Students, we may be required to refer the request to the School or School administrator for action.
+If you require additional assistance regarding your child’s personal data, please contact us at [\[email protected\]](https://www.briskteaching.com/cdn-cgi/l/email-protection). We will respond to all requests as soon as possible. For requests that relate to Students, we may be required to refer the request to the School or School administrator for action.
 
 If you believe a child under the age of 13 has provided personal data to us other than as described above, please contact us using the information in the Contact Us section below so that we may delete such information.
 
@@ -252,11 +252,11 @@ If you believe a child under the age of 13 has provided personal data to us othe
 
 You may control your information in the following ways:
 
-* **Profile, controls and data sharing settings**. You may update your account information and may change some of your account controls and data sharing preferences by visiting your “Account” page, removing our browser extension via the “settings” or “tools” menu on your web browser, or emailing us at [privacy@briskteaching.com](mailto:privacy@briskteaching.com).
+* **Profile, controls and data sharing settings**. You may update your account information and may change some of your account controls and data sharing preferences by visiting your “Account” page, removing our browser extension via the “settings” or “tools” menu on your web browser, or emailing us at [\[email protected\]](https://www.briskteaching.com/cdn-cgi/l/email-protection).
 * **Disconnecting your Brisk account from third party sites**. As discussed above, you may be able to connect your Brisk account to accounts you have on third party sites such as Google. You may disconnect your account from a third-party site at any time by visiting the “Account” page to remove authenticated sites and services or removing the Google Chrome Extension under the “Tools” page. 
 * **Changing your cookie preferences**. For additional details about the cookies we use on our websites and to adjust your preferences with regard to those cookies, please review our Cookie Notice.
 * **Changing your communications preferences**. You can stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. You may not opt out of service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices).
-* **Modifying or deleting your information**. If you have any questions about modifying your information, or if you want to remove your name or comments from our Service or publicly displayed content, you can contact us directly at [privacy@briskteaching.com](mailto:privacy@briskteaching.com). We may not be able to modify your information in all circumstances.
+* **Modifying or deleting your information**. If you have any questions about modifying your information, or if you want to remove your name or comments from our Service or publicly displayed content, you can contact us directly at [\[email protected\]](https://www.briskteaching.com/cdn-cgi/l/email-protection). We may not be able to modify your information in all circumstances.
 
 8\. SECURITY  
 
@@ -268,7 +268,7 @@ For Schools that provide us with a designated point of contact for security brea
 9\. CONTACT US  
 
 **_In short: Please feel free to contact us with any questions. Our contact info is below.  
-‍_**If you have any questions or requests in connection with this Privacy Notice or other privacy-related matters, please send an email to [privacy@briskteaching.com](mailto:privacy@briskteaching.com).
+‍_**If you have any questions or requests in connection with this Privacy Notice or other privacy-related matters, please send an email to [\[email protected\]](https://www.briskteaching.com/cdn-cgi/l/email-protection).
 
 10\. UPDATES TO THIS PRIVACY NOTICE  
 
