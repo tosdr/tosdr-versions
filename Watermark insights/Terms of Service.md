@@ -49,13 +49,13 @@
         * [Deans](https://www.watermarkinsights.com/roles/dean/)
         * [Student success](https://www.watermarkinsights.com/roles/student-success/)
         * [CTO/CIO](https://www.watermarkinsights.com/roles/cto-cio/)
-    * * ### Solution demos: 2024 product updates
+    * * ### Southeast Technical College Spotlight
             
-            [Register](https://www.watermarkinsights.com/resources/live-solution-demos-2024-product-updates "Register")
+            [Hear their story](https://www.watermarkinsights.com/resources/videos/how-southeast-technical-college-streamlines-assessment "Hear their story")
             
             ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/07/Who-We-Serve-tab-shorter.png)
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/10/Nav-Menu-Ad.png)
             
 * [Resources](https://www.watermarkinsights.com/resources)
     * * [Resource library](https://www.watermarkinsights.com/resources)
@@ -104,6 +104,8 @@
             ![](/wp-content/uploads/2024/01/Group-21334.png)
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
+* [Schedule a Demo](https://www.watermarkinsights.com/request-demo/ "Schedule a Demo")
+    
 
 [Book a meeting](https://www.watermarkinsights.com/request-demo/)
 
@@ -156,13 +158,13 @@
         * [Deans](https://www.watermarkinsights.com/roles/dean/)
         * [Student success](https://www.watermarkinsights.com/roles/student-success/)
         * [CTO/CIO](https://www.watermarkinsights.com/roles/cto-cio/)
-    * * ### Solution demos: 2024 product updates
+    * * ### Southeast Technical College Spotlight
             
-            [Register](https://www.watermarkinsights.com/resources/live-solution-demos-2024-product-updates "Register")
+            [Hear their story](https://www.watermarkinsights.com/resources/videos/how-southeast-technical-college-streamlines-assessment "Hear their story")
             
             ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/07/Who-We-Serve-tab-shorter.png)
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/10/Nav-Menu-Ad.png)
             
 * [Resources](https://www.watermarkinsights.com/resources)
     * * [Resource library](https://www.watermarkinsights.com/resources)
@@ -211,6 +213,8 @@
             ![](/wp-content/uploads/2024/01/Group-21334.png)
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
+* [Schedule a Demo](https://www.watermarkinsights.com/request-demo/ "Schedule a Demo")
+    
 
 * [Learn about EIS](https://www.watermarkinsights.com/explore/educational-impact-suite/)
 * [Book a meeting](https://www.watermarkinsights.com/request-demo/)
