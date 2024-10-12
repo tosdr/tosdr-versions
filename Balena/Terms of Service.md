@@ -126,4 +126,4 @@ YOU EXPRESSLY UNDERSTAND AND AGREE THAT BALENA WILL NOT BE LIABLE FOR ANY INDIRE
   
 The failure of Balena to exercise or enforce any right or provision of the Terms of Service will not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and Balena and govern your use of the Service, superseding any prior agreements between you and Balena (including, but not limited to, any prior versions of the Terms of Service). You agree that these Terms of Service and Your use of the Service are governed under laws of the State of Washington, U.S.A.  
   
-Questions about the Terms of Service should be sent to [legal@Balena.io](mailto:legal@balena.io?subject=Balena%20Terms%20of%20Service).
+Questions about the Terms of Service should be sent to [\[email protected\]](https://www.balena.io/cdn-cgi/l/email-protection).
