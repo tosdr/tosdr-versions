@@ -1,8 +1,9 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Zwp-SAoAAVAAAABba-0)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZwrULQoAAVAAAABbmsk)
 
 Es noticia
 
 * [Militares Líbano](https://www.elmundo.es/espana/2024/10/12/670907c7fc6c8392128b45ba.html)
+* [España Dinamarca](https://www.elmundo.es/deportes/futbol/uefa-nations-league/espana-dinamarca/2024/10/12/01_0195_20241012_118_369-directo.html)
 * [Oriente Próximo](https://www.elmundo.es/internacional/2024/10/12/6709423021efa063118b4570.html)
 * [Cristian Dior](https://www.elmundo.es/madrid/2024/10/12/670938fe21efa0672a8b458e.html)
 * [Copa América](https://www.elmundo.es/deportes/2024/10/11/66eb12d621efa03e478b4590.html)
@@ -10,8 +11,7 @@ Es noticia
 * [Bea la legionaria](https://www.elmundo.es/loc/famosos/2024/10/12/670938bcfc6c83944a8b45bd.html)
 * [Jota Peleteiro](https://www.elmundo.es/loc/famosos/2024/10/12/6708e586fc6c83bd0a8b45a6.html)
 * [El Taiger](https://www.elmundo.es/cultura/musica/2024/10/11/6708c3dffdddff4a378b456f.html)
-* [España Dinamarca](https://www.elmundo.es/como/2024/10/11/67093da7e9cf4a162b8b458e.html)
-* [Desfile 12 octubre Madrid](https://www.elmundo.es/como/2024/10/11/6708f155e9cf4a95708b4599.html)
+* [Desfile 12 octubre Madrid](https://www.elmundo.es/espana/2024/10/12/670a6f8121efa07c298b45a3.html)
 * [Everest](https://www.elmundo.es/deportes/nieve/2024/10/11/670940c4e9cf4acc288b45a7.html)
 * [Carolina Yuste](https://www.elmundo.es/cultura/cine/2024/10/11/6708ff0fe4d4d821568b4592.html)
 * [Naiara OT](https://www.elmundo.es/loc/famosos/2024/10/11/67094a94fc6c83d2588b45d1.html)
