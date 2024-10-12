@@ -25,7 +25,7 @@ Privacy Policy
 
 ‍**Last updated August 31, 2021  
 ‍**  
-Thank you for choosing to be part of our community at CrowdNautics, Inc., doing business as CashCamel (“**CashCamel**”, “**we**”, “**us**”, or “**our**”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our notice, or our practices with regards to your personal information, please contact us at [hello@crowdnautics.com](#).  
+Thank you for choosing to be part of our community at CrowdNautics, Inc., doing business as CashCamel (“**CashCamel**”, “**we**”, “**us**”, or “**our**”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our notice, or our practices with regards to your personal information, please contact us at [\[email protected\]](#).  
   
 When you visit our website [https://www.crowdnautics.com](https://www.crowdnautics.com/), mobile application, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Sites or Apps and our services.  
   
@@ -92,7 +92,7 @@ We use the information we collect or receive:
   
 **To send administrative information to you.** We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.  
   
-**To post testimonials.** We post testimonials on our Services or Apps that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and testimonial. If you wish to update, or delete your testimonial, please contact us at hello@crowdnautics.com and be sure to include your name, testimonial location, and contact information.  
+**To post testimonials.** We post testimonials on our Services or Apps that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and testimonial. If you wish to update, or delete your testimonial, please contact us at [\[email protected\]](https://www.crowdnautics.com/cdn-cgi/l/email-protection) and be sure to include your name, testimonial location, and contact information.  
   
 **Request Feedback.** We may use your information to request feedback and to contact you about your use of our Services or Apps.  
   
@@ -158,7 +158,7 @@ When we have no ongoing legitimate business need to process your personal inform
   
 ‍_In Short:_** _We do not knowingly collect data from or market to children under 18 years of age.  
   
-‍_We do not knowingly solicit data from or market to children under 18 years of age. By using the Services or Apps, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services or Apps. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at hello@crowdnautics.com.  
+‍_We do not knowingly solicit data from or market to children under 18 years of age. By using the Services or Apps, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services or Apps. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at [\[email protected\]](https://www.crowdnautics.com/cdn-cgi/l/email-protection).  
 ‍  
 **8\. WHAT ARE YOUR PRIVACY RIGHTS?  
   
@@ -166,7 +166,7 @@ When we have no ongoing legitimate business need to process your personal inform
   
 ‍_If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).  
   
-If you have questions or comments about your privacy rights, you may email us at hello@crowdnautics.com.  
+If you have questions or comments about your privacy rights, you may email us at [\[email protected\]](https://www.crowdnautics.com/cdn-cgi/l/email-protection).  
 ‍  
 **Account Information  
   
@@ -174,7 +174,7 @@ If you have questions or comments about your privacy rights, you may email us at
 ‍  
    ■  Contact us using the contact information provided.  
   
-   ■  support@crowdnautics.com  
+   ■  [\[email protected\]](https://www.crowdnautics.com/cdn-cgi/l/email-protection)  
   
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.  
   
@@ -184,7 +184,7 @@ Upon your request to terminate your account, we will deactivate or delete your a
   
    ■  Contact us using the contact information provided.  
   
-   ■  support@crowdnautics.com  
+   ■  [\[email protected\]](https://www.crowdnautics.com/cdn-cgi/l/email-protection)  
 ‍  
 **9\. CONTROLS FOR DO-NOT-TRACK FEATURES  
   
@@ -206,7 +206,7 @@ If you are under 18 years of age, reside in California, and have a registered ac
 ‍  
 **12\. HOW CAN YOU CONTACT US ABOUT THIS POLICY?  
   
-‍**If you have questions or comments about this policy, you may email us at hello@crowdnautics.com or by post to:  
+‍**If you have questions or comments about this policy, you may email us at [\[email protected\]](https://www.crowdnautics.com/cdn-cgi/l/email-protection) or by post to:  
   
 CrowdNautics, Inc.  
 1924 Fairview St,  
