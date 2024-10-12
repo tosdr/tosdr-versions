@@ -149,21 +149,21 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
-   [![Piles of salt at Sečovlje Saltpans Natural Park.](https://img.atlasobscura.com/m4fAyG8dwgSI2rDETFCfUbja3ETGsF65Y4AM-QMLvKs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lODQy/YWYyNy01YmNiLTRi/NzktYTI4NC0zMjMx/OWZjOTI5ZTUyYWYy/YWQyMTY4YmFiYjM1/MTZfU2XEjW92bGpl/LTIzNDg4Ny5qcGc.jpg)
+   [![Addams Family Silhouettes](https://img.atlasobscura.com/rMYQ6CC6OGLbXwR6s-plMJOc02gr6J-Vb1L0oxyt9Ps/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84MTAx/YTcyOC02M2YwLTQx/NjQtYTc1My05ZGM0/ZTllODRlNDcwMmEz/OGUyYjk3OTUzYmFl/MThfSU1HXzcxNzEu/anBlZw.jpg)
 
-Sečovlje Saltpans Natural Park](https://www.atlasobscura.com/places/secovlje-saltpans-natural-park)
+Charles Addams Fine Arts Hall](https://www.atlasobscura.com/places/charles-addams-fine-arts-hall)
 
-   [![An aerial view of the pink waters of Lake Atanasovsko.](https://img.atlasobscura.com/jFJMwaXhnlY7b-59C7wuYOr9IgN-X0xFr73SZ63faxE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83ZDJk/OWEyZi01ODI1LTQ1/ZGQtOTAwYS0yNTY4/MzkzOTE1NGQ4YjFj/MDViNTk1YzNjZjg0/ZmNfQnVyZ2FzX0p1/bmkyMDEyX01lZXJ3/YXNzZXJzYWxpbmVu/XzIuanBlZw.jpg)
+   [![](https://img.atlasobscura.com/fn8n0bLaV6KripKfSZ0UhOBl9dPc1mp3zD6SPdTpS4E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jNjI1/ZjU4Zi1lNGJjLTQx/OWEtYTZmMS1hZTE4/YzVlOGUyMDc3YTZj/MWQ0MDAxZjUzYmNk/MDFfMTAwMDA4MDAy/Mi5qcGc.jpg)
 
-Lake Atanasovsko](https://www.atlasobscura.com/places/lake-atanasovsko)
+The Model Shipyard](https://www.atlasobscura.com/places/the-model-shipyard)
 
-   [![Tham Nang Ene Cave lit up with colorful neon lights.](https://img.atlasobscura.com/WSlS2W0Ot9O0gr2_I_H1Mk8LkxDYriXNfCUC675syu4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xZmZh/MzM2Ni1hYjRhLTQ4/YzEtOWZlNy1lNjM0/ZTA2OTJlNTdlODdj/YzA2N2M2MTlkNmFh/MWZfc2h1dHRlcnN0/b2NrXzIzMTE2NTg5/MjUuanBn.jpg)
+   [![Church of St. Sophia in Nessebar](https://img.atlasobscura.com/FJPn8OfLu4vW4LIvBR70ks_oSlHgkn4I8eJQN_EWIx4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNDJh/M2JiOS1jNGM4LTRk/MWEtYmRiYS1kMzM1/Njc3Mjk2ZDg1NTY2/NzMzZDAxMGU4MDdh/ZWRfMzI3NzIwMTY4/OTdfNTNjMzczZjAy/Y19rLmpwZw.jpg)
 
-Tham Nang Ene Cave](https://www.atlasobscura.com/places/tham-nang-ene-cave)
+Hagia Sophia Church](https://www.atlasobscura.com/places/hagia-sophia-nessebar)
 
-   [![](https://img.atlasobscura.com/6BLOc0ttyvw8XHuOz0HVmm1PBcxQLvYLl8wyWvH2iBU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84NGI5/NzdmMy1iZmUwLTQ3/NWYtOTZjMi1mZTJk/N2FhMDU5MjdkNTgy/YWY1YTEwZGJmYzQ2/NzJfSU1HXzAxMjku/SlBH.jpg)
+   [![A wooden grave marker at Silver Islet Cemetery.](https://img.atlasobscura.com/ZZ7cdtKSOh2MLQU2r2RN-taoFt3kxxJzM7A8iDA-vkc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lZTc2/M2VhMy03YzdkLTQ5/YjctOTBkYy00ODA1/YzhiZTRjNDlkNDY0/ZmE5OGU2MDk0NzEx/YTZfRTlHTjFULmpw/Zw.jpg)
 
-Lehmja Oak Forest](https://www.atlasobscura.com/places/lehmja-oak-forest)
+Silver Islet Cemetery](https://www.atlasobscura.com/places/silver-islet-cemetery)
 
 Latest Places to Eat & Drink
 
