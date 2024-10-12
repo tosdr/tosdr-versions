@@ -1,6 +1,6 @@
 [Accessibility Resource Center](https://www.verizon.com/accessibility) [Skip to main content](#gnav20-header-end)
 
-[Personal](https://www.verizon.com/) [Business](https://www.verizon.com/business/)
+[Personal](https://www.verizon.com/) [Business](https://www.verizon.com/business/?cmp=vcgref_naveyebrow)
 
 [1-833-VERIZON](tel:+18338374966)
 
@@ -232,7 +232,7 @@ Sign in
 * [Account overview](https://secure.verizon.com/signin)
 * [Account overview](https://www.verizon.com/privacy/secure/your-data)
 * [Pay bill](https://secure.verizon.com/signin?goto=https%3A%2F%2Fwww.verizon.com%2Ffeatured%2Fintent%2F%3Fintent%3Dpaybill)
-* [Prepaid instant pay](https://myvprepay.verizon.com/prepaid/ui/mobile/InstantPay/)
+* [Make a one-time payment](https://secure.verizon.com/signin?action=otp)
 * [Register](https://secure.verizon.com/account/register/start)
 * [Business Log in](https://mblogin.verizonwireless.com/account/business/signin)
 
@@ -251,7 +251,7 @@ Sign in
 * [Account overview](https://secure.verizon.com/signin)
 * [Account overview](https://www.verizon.com/privacy/secure/your-data)
 * [Pay bill](https://secure.verizon.com/signin?goto=https%3A%2F%2Fwww.verizon.com%2Ffeatured%2Fintent%2F%3Fintent%3Dpaybill)
-* [Prepaid instant pay](https://myvprepay.verizon.com/prepaid/ui/mobile/InstantPay/)
+* [Make a one-time payment](https://secure.verizon.com/signin?action=otp)
 * [Register](https://secure.verizon.com/account/register/start)
 * [Business Log in](https://mblogin.verizonwireless.com/account/business/signin)
 
@@ -263,6 +263,8 @@ Choose your cart:
 * [Home solutions](https://www.verizon.com/inhome/resumecart?xpssource=learn&gnavOffSearchFlag=true)
 
 Close
+
+[Personal](https://www.verizon.com/) [Business](https://www.verizon.com/business/?cmp=vcgref_naveyebrow)
 
 [1-833-VERIZON](tel:+18338374966)
 
@@ -276,11 +278,9 @@ Close
 
 [Español](https://espanol.verizon.com/)
 
-[Personal](https://www.verizon.com/) [Business](https://www.verizon.com/business/)
+iPhone 15 Pro Max on us with new line. No trade-in req’d. Online Only. Ends 10.23 l [Buy now.](https://www.verizon.com/smartphones/apple-iphone-15-pro-max/) Or get up to $540 when you [bring your own phone.](https://www.verizon.com/bring-your-own-device/)  |  [Details](javascript:void(0);)
 
-iPhone 16 Pro. Get it on us. | [Buy now.](https://www.verizon.com/smartphones/apple-iphone-16-pro/) Or get up to $540 when you [bring your own phone.](https://www.verizon.com/bring-your-own-device/)  |  [Details](javascript:void(0);)
-
-iPhone: $999.99 (128 GB only) purchase w/new or upgrade smartphone line on Unlimited Ultimate plan (min. $90/mo w/Auto Pay (+taxes/fees) for 36 mos) req’d. Less $1,000 trade-in/promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. For upgrades, phone must be active on account for 60 days prior to trade in. Smartphone trade-in must be from Apple, Google or Samsung; trade-in terms apply.  
+iPhone: $1,099.99 (256 GB only) device payment or full retail purchase w/ new smartphone line on Unlimited Ultimate or postpaid Unlimited Plus plan (min. $80/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $1,099.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.  
   
 Bring your own device: Receive up to $540 promo credit ($360 on postpaid Unlimited Plus and Unlimited Welcome or $540 on Unlimited Ultimate) when you add a new smartphone line with your own 4G/5G smartphone. Promo credit applied over 36 months; promo credits end if eligibility requirements are no longer met. Offer may not be combined with other offers.
 
@@ -705,7 +705,6 @@ Follow Verizon Fios
 
 [](https://www.verizon.com/ "Verizon Home Page")
 
-* [Site Map](https://www.verizon.com/info/sitemap/)
 * [Privacy Policy](https://www.verizon.com/about/privacy/)
 * [California Privacy Notice](https://www.verizon.com/about/privacy/full-privacy-policy?scrollto=index-1#acc-item-55)
 * [Health Privacy Notice](https://www.verizon.com/about/privacy/health-privacy-notice)
