@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-files-complaint-national-labor-relations-board-machinists-union/281-2176f793-c7e4-463c-bb4d-4183ac75a500)
+    *  [![](https://media.king5.com/assets/KING/images/891d466c-d6d6-4b6d-b212-3604db3c7291/20241012T013728/891d466c-d6d6-4b6d-b212-3604db3c7291_16x9.jpg) ![](https://media.king5.com/assets/KING/images/891d466c-d6d6-4b6d-b212-3604db3c7291/20241012T013728/891d466c-d6d6-4b6d-b212-3604db3c7291_360x203.jpg)](https://www.king5.com/article/news/politics/elections/candidates-pierce-county-sheriff-discuss-issues/281-fecff313-7fb7-4485-9915-4f68e584f67c)
         
-        #### [Boeing, machinists' union accuse each other of bad faith bargaining to the feds](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-files-complaint-national-labor-relations-board-machinists-union/281-2176f793-c7e4-463c-bb4d-4183ac75a500)
+        #### [Candidates for Pierce County sheriff sit down with KING 5](https://www.king5.com/article/news/politics/elections/candidates-pierce-county-sheriff-discuss-issues/281-fecff313-7fb7-4485-9915-4f68e584f67c)
         
-    *  [![](https://media.king5.com/assets/KING/images/bef12994-4c2f-45b2-928a-82c3280c5867/20241011T180256/bef12994-4c2f-45b2-928a-82c3280c5867_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bef12994-4c2f-45b2-928a-82c3280c5867/20241011T180256/bef12994-4c2f-45b2-928a-82c3280c5867_360x203.jpg)](https://www.king5.com/article/sports/nba-returns-seattle-one-night-rain-city-showcase/281-115187c5-5ce3-4081-ace3-4a66a7249f44)
+    *  [![](https://media.king5.com/assets/KING/images/a0bb2abb-7749-4e04-bdea-47047cb29e49/20241011T212240/a0bb2abb-7749-4e04-bdea-47047cb29e49_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a0bb2abb-7749-4e04-bdea-47047cb29e49/20241011T212240/a0bb2abb-7749-4e04-bdea-47047cb29e49_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-police-arrest-teens-connection-80-armed-robberies/281-eae22f2e-85a6-43d8-b127-edfa8ee274a9)
         
-        #### [NBA returns to Seattle for one night with Rain City Showcase](https://www.king5.com/article/sports/nba-returns-seattle-one-night-rain-city-showcase/281-115187c5-5ce3-4081-ace3-4a66a7249f44)
+        #### [Authorities arrest teens in connection with nearly 80 armed robberies throughout King County](https://www.king5.com/article/news/crime/seattle-police-arrest-teens-connection-80-armed-robberies/281-eae22f2e-85a6-43d8-b127-edfa8ee274a9)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/CCT/images/eb27a329-d1af-45fd-abda-d3140c1ee7de/20241011T112017/eb27a329-d1af-45fd-abda-d3140c1ee7de_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/eb27a329-d1af-45fd-abda-d3140c1ee7de/20241011T112017/eb27a329-d1af-45fd-abda-d3140c1ee7de_360x203.jpg)](https://www.king5.com/article/news/nation-world/milton-cleanup-continues/507-5bf79a13-a948-449e-a899-6dfdb3fd3edd)
-        
-        #### [What's next for Florida after Hurricane Milton? Many residents still don't know.](https://www.king5.com/article/news/nation-world/milton-cleanup-continues/507-5bf79a13-a948-449e-a899-6dfdb3fd3edd)
-        
-    *  [![](https://media.king5.com/assets/KING/images/ce7a3c96-ce6e-4b89-8bfa-954fc3eefe14/20241011T193511/ce7a3c96-ce6e-4b89-8bfa-954fc3eefe14_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ce7a3c96-ce6e-4b89-8bfa-954fc3eefe14/20241011T193511/ce7a3c96-ce6e-4b89-8bfa-954fc3eefe14_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/9fd6d4e2-f32a-4e52-82b2-234b8736d930/20241012T003215/9fd6d4e2-f32a-4e52-82b2-234b8736d930_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9fd6d4e2-f32a-4e52-82b2-234b8736d930/20241012T003215/9fd6d4e2-f32a-4e52-82b2-234b8736d930_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/CCT/images/afeba818-18ce-40d7-bf83-fb4754b2d2a9/20241011T190527/afeba818-18ce-40d7-bf83-fb4754b2d2a9_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/afeba818-18ce-40d7-bf83-fb4754b2d2a9/20241011T190527/afeba818-18ce-40d7-bf83-fb4754b2d2a9_360x203.jpg)](https://www.king5.com/article/news/nation-world/northern-lights-dazzling-farther-south-than-normal-cause/507-7a651b98-87fa-410e-9833-34235a635500)
+        
+        #### [What's behind the northern lights that dazzled the sky farther south than normal](https://www.king5.com/article/news/nation-world/northern-lights-dazzling-farther-south-than-normal-cause/507-7a651b98-87fa-410e-9833-34235a635500)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-58°
+56°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
