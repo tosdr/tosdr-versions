@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. python
+1. digital marketing
     
-2. excel
+2. law
     
-3. flutter
+3. finance
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Cybersecurity
     
-    3,998 courses](https://www.classcentral.com/subject/communication-skills)
+    15,880 courses](https://www.classcentral.com/subject/cybersecurity)
 2. [Project Management
     
-    3,921 courses](https://www.classcentral.com/subject/project-management)
-3. [Web Design
+    3,964 courses](https://www.classcentral.com/subject/project-management)
+3. [Artificial Intelligence
     
-    2,349 courses](https://www.classcentral.com/subject/web-design)
+    11,858 courses](https://www.classcentral.com/subject/ai)
 
 Popular courses
 ---------------
 
-1. [Philosophy, Science and Religion: Religion and Science
+1. [Extreme Geological Events
     
-    University of Edinburgh](https://www.classcentral.com/course/philosophy-science-religion-3-10623)
-2. [Improving Communication Skills
+    Cardiff University](https://www.classcentral.com/course/extreme-geological-events-13558)
+2. [Direct Tax Laws and Practice
     
-    University of Pennsylvania](https://www.classcentral.com/course/wharton-communication-skills-8235)
-3. [Unlocking Information Security I: From Cryptography to Buffer Overflows
+    Tezpur University](https://www.classcentral.com/course/swayam-direct-tax-laws-and-practice-14009)
+3. [Machine Learning Foundations: A Case Study Approach
     
-    Tel Aviv University](https://www.classcentral.com/course/information-security-tel-aviv-university-unlockin-16964)
+    University of Washington](https://www.classcentral.com/course/ml-foundations-4352)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
