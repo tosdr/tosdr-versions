@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/why-do-nursing-homes-get-fines/ "Why Do Nursing Homes Get Fines?")
+[![Who can i sue for a wrongful death in an assisted living facility?](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility-300x200.jpg "Who Can I Sue for a Wrongful Death in an Assisted Living Facility?")](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility/ "Who Can I Sue for a Wrongful Death in an Assisted Living Facility?")
 
-[#### Why Do Nursing Homes Get Fines?](https://www.pintas.com/faq/why-do-nursing-homes-get-fines/)
+[#### Who Can I Sue for a Wrongful Death in an Assisted Living Facility?](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility/)
 
-[![Where does ovarian cancer spread first?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-where-does-ovarian-cancer-spread-first-scaled.jpg "Where Does Ovarian Cancer Spread First?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-does-ovarian-cancer-spread-first/ "Where Does Ovarian Cancer Spread First?")
+[![Are elderly people given lots of rules at nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-are-elderly-people-given-lots-of-rules-at-nursing-homes-scaled.jpg "Are Elderly People Given Lots of Rules at Nursing Homes?")](https://www.pintas.com/faq/are-elderly-people-given-lots-of-rules-at-nursing-homes/ "Are Elderly People Given Lots of Rules at Nursing Homes?")
 
-[#### Where Does Ovarian Cancer Spread First?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-does-ovarian-cancer-spread-first/)
+[#### Are Elderly People Given Lots of Rules at Nursing Homes?](https://www.pintas.com/faq/are-elderly-people-given-lots-of-rules-at-nursing-homes/)
 
-[![Can you be misdiagnosed with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-you-be-misdiagnosed-with-lung-cancer.jpg "Can You Be Misdiagnosed with Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/misdiagnosis "Can You Be Misdiagnosed with Lung Cancer?")
+[![What is advanced mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-what-is-advanced-mesothelioma-scaled.jpg "What Is Advanced Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-is-advanced-mesothelioma "What Is Advanced Mesothelioma?")
 
-[#### Can You Be Misdiagnosed with Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/misdiagnosis)
+[#### What Is Advanced Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-is-advanced-mesothelioma)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
