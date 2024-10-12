@@ -141,7 +141,7 @@ The material on this website is protected by U.S. and international copyright la
 
 ‍
 
-The contact information of [PartnerandCoInvestorRelations@cimgroup.com](mailto:PartnerandCoInvestorRelations@cimgroup.com) is intended for use solely by persons who already have an investment account with CIM Group or with whom CIM Group has already initiated discussions regarding the possibility of becoming a partner through one or more private investment funds sponsored by CIM Group. CIM Group does not accept investments from the general public. Eligible partners in CIM Group investment funds generally are required to be "qualified purchasers" within the meaning of the United States Investment Company Act of 1940, which generally includes individuals who own at least $5 million of investment assets and certain entities that own at least $25 million of investment assets.
+The contact information of [\[email protected\]](https://www.cimgroup.com/cdn-cgi/l/email-protection) is intended for use solely by persons who already have an investment account with CIM Group or with whom CIM Group has already initiated discussions regarding the possibility of becoming a partner through one or more private investment funds sponsored by CIM Group. CIM Group does not accept investments from the general public. Eligible partners in CIM Group investment funds generally are required to be "qualified purchasers" within the meaning of the United States Investment Company Act of 1940, which generally includes individuals who own at least $5 million of investment assets and certain entities that own at least $25 million of investment assets.
 
 ‍
 
