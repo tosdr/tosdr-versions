@@ -161,7 +161,7 @@ Sections 1, 3, 4 and 8-19 shall survive any termination of our agreement with re
 
 All notices to be provided by Grain to You under these Terms may be delivered in writing (i) by nationally recognized overnight delivery service or US mail to the contact mailing address provided by You on any Form; or (ii) electronic mail to the electronic mail address provided for Your Account owner.
 
-Grain reserves the right to determine the form and means of providing notifications to our users, provided that you may opt out of certain means of notification by contacting us at privacy@grain.com, or at:
+Grain reserves the right to determine the form and means of providing notifications to our users, provided that you may opt out of certain means of notification by contacting us at [\[email protected\]](https://grain.com/cdn-cgi/l/email-protection), or at:
 
 Grain Intelligence, Inc.  
 Attn: Legal Department
