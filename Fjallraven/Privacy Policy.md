@@ -276,7 +276,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=3771af56-c9f2-475e-a3ad-c731b2498d19)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=b7d11937-abd7-4df8-8497-4e2cde923255)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -440,7 +440,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=3771af56-c9f2-475e-a3ad-c731b2498d19)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=b7d11937-abd7-4df8-8497-4e2cde923255)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -775,7 +775,7 @@ Customer Service
 * [Returns](https://www.fjallraven.com/us/en-us/customer-service/returns/)
 * [Warranty](https://www.fjallraven.com/us/en-us/customer-service/warranty/)
 * [Product Families](https://www.fjallraven.com/us/en-us/customer-service/guides/)
-* [Product Care](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
+* [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
 * [Repair](https://www.fjallraven.com/us/en-us/customer-service/repair/)
 * [Size Guide](https://www.fjallraven.com/us/en-us/customer-service/size-chart/)
 * [Industry Pro Program](https://www.fjallraven.com/us/en-us/industry-pro-registration/)
@@ -808,7 +808,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=3771af56-c9f2-475e-a3ad-c731b2498d19)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=b7d11937-abd7-4df8-8497-4e2cde923255)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
