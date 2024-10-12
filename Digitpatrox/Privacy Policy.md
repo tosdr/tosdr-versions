@@ -20,16 +20,16 @@ Saturday, October 12 2024
 
 Latest
 
-* [18 Android settings that’ll strengthen your security – Computerworld](https://digitpatrox.com/18-android-settings-thatll-strengthen-your-security-computerworld/)
-* [I Swear by This Copycat Popeyes Chicken Sandwich Recipe](https://digitpatrox.com/i-swear-by-this-copycat-popeyes-chicken-sandwich-recipe/)
-* [The Best Cinnamon for Your Spiced Holiday Drinks](https://digitpatrox.com/the-best-cinnamon-for-your-spiced-holiday-drinks/)
-* [Discover How Yaber Is Partnering With Pantone Color Institute With This New Exclusive Projector K3](https://digitpatrox.com/discover-how-yaber-is-partnering-with-pantone-color-institute-with-this-new-exclusive-projector-k3/)
-* [OpenAI says hackers keep trying to use its services for cyber attacks](https://digitpatrox.com/openai-says-hackers-keep-trying-to-use-its-services-for-cyber-attacks/)
-* [Found Business Banking Review (2024): Is it a Trustworthy Bank?](https://digitpatrox.com/found-business-banking-review-2024-is-it-a-trustworthy-bank/)
-* [You only need 2 dumbbells and 30 minutes to build muscle all over and strengthen your core](https://digitpatrox.com/you-only-need-2-dumbbells-and-30-minutes-to-build-muscle-all-over-and-strengthen-your-core/)
-* [Microsoft Outlook bug blocks email logins, causes app crashes](https://digitpatrox.com/microsoft-outlook-bug-blocks-email-logins-causes-app-crashes/)
-* [Google pulled its Wear OS update for old Pixel Watches to fix a big problem](https://digitpatrox.com/google-pulled-its-wear-os-update-for-old-pixel-watches-to-fix-a-big-problem/)
-* [NYT Connections Today: Hints and Answers for October 12, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-12-2024/)
+* [Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](https://digitpatrox.com/microsoft-deprecates-pptp-and-l2tp-vpn-protocols-in-windows-server/)
+* [Hackers took over robovacs to chase pets and yell slurs](https://digitpatrox.com/hackers-took-over-robovacs-to-chase-pets-and-yell-slurs/)
+* [NYT Strands Today: Hints, Answers & Spangram for October 13](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-13/)
+* [Here’s what’s new in Office 2024 – Computerworld](https://digitpatrox.com/heres-whats-new-in-office-2024-computerworld/)
+* [Walmart’s October ‘Prime Day’ Sale Is Still Going](https://digitpatrox.com/walmarts-october-prime-day-sale-is-still-going/)
+* [How to upgrade Windows 10 to 11 24H2](https://digitpatrox.com/how-to-upgrade-windows-10-to-11-24h2/)
+* [How to Maintain a Car That Isn’t Driven Much](https://digitpatrox.com/how-to-maintain-a-car-that-isnt-driven-much/)
+* [8 Stats That Explain Why Gen Z Prefers Video Games to Movies](https://digitpatrox.com/8-stats-that-explain-why-gen-z-prefers-video-games-to-movies/)
+* [Firefox Update Patches Exploited Vulnerability](https://digitpatrox.com/firefox-update-patches-exploited-vulnerability/)
+* [What is a cooling gel mattress topper and should you buy one?](https://digitpatrox.com/what-is-a-cooling-gel-mattress-topper-and-should-you-buy-one/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/1718177-0-38534500-1728640129-android-security-settings.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/18-android-settings-thatll-strengthen-your-security-computerworld/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/14/Windows-Server.jpg)](https://digitpatrox.com/microsoft-deprecates-pptp-and-l2tp-vpn-protocols-in-windows-server/)
     
-    [18 Android settings that’ll strengthen your security – Computerworld](https://digitpatrox.com/18-android-settings-thatll-strengthen-your-security-computerworld/)
+    [Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](https://digitpatrox.com/microsoft-deprecates-pptp-and-l2tp-vpn-protocols-in-windows-server/)
     
-    52 mins ago
+    6 seconds ago
     
-* [![](https://lifehacker.com/imagery/articles/01J9YE8CRHAQMT0F0QSFN6F4BR/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/i-swear-by-this-copycat-popeyes-chicken-sandwich-recipe/)
+* [![](https://cdn.vox-cdn.com/thumbor/oZWxzrEc02aZl4xQgN-FV5TMXHg=/0x0:5760x3840/1200x628/filters:focal(2880x1920:2881x1921)/cdn.vox-cdn.com/uploads/chorus_asset/file/24889891/8A0A9622.jpeg)](https://digitpatrox.com/hackers-took-over-robovacs-to-chase-pets-and-yell-slurs/)
     
-    [I Swear by This Copycat Popeyes Chicken Sandwich Recipe](https://digitpatrox.com/i-swear-by-this-copycat-popeyes-chicken-sandwich-recipe/)
+    [Hackers took over robovacs to chase pets and yell slurs](https://digitpatrox.com/hackers-took-over-robovacs-to-chase-pets-and-yell-slurs/)
     
-    1 hour ago
+    17 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1728326949/prod/content/dam/CRO-Images-2024/Special-Products/CR-SP-InlineHero-Cinnamon-Holiday-Drinks-1024)](https://digitpatrox.com/the-best-cinnamon-for-your-spiced-holiday-drinks/)
+* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-13/)
     
-    [The Best Cinnamon for Your Spiced Holiday Drinks](https://digitpatrox.com/the-best-cinnamon-for-your-spiced-holiday-drinks/)
+    [NYT Strands Today: Hints, Answers & Spangram for October 13](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-13/)
+    
+    32 mins ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3555023-0-97078300-1728554631-microsoft-office-2024-apps.webp?w=1024)](https://digitpatrox.com/heres-whats-new-in-office-2024-computerworld/)
+    
+    [Here’s what’s new in Office 2024 – Computerworld](https://digitpatrox.com/heres-whats-new-in-office-2024-computerworld/)
     
     2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/yaber-k3-pantone.jpg)](https://digitpatrox.com/discover-how-yaber-is-partnering-with-pantone-color-institute-with-this-new-exclusive-projector-k3/)
+* [![](https://lifehacker.com/imagery/articles/01J862VZ05FC5GFQNRQ2KAR24R/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/walmarts-october-prime-day-sale-is-still-going/)
     
-    [Discover How Yaber Is Partnering With Pantone Color Institute With This New Exclusive Projector K3](https://digitpatrox.com/discover-how-yaber-is-partnering-with-pantone-color-institute-with-this-new-exclusive-projector-k3/)
-    
-    2 hours ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/9944EGjar5x4f7f2oC6yL6-1200-80.jpg)](https://digitpatrox.com/openai-says-hackers-keep-trying-to-use-its-services-for-cyber-attacks/)
-    
-    [OpenAI says hackers keep trying to use its services for cyber attacks](https://digitpatrox.com/openai-says-hackers-keep-trying-to-use-its-services-for-cyber-attacks/)
+    [Walmart’s October ‘Prime Day’ Sale Is Still Going](https://digitpatrox.com/walmarts-october-prime-day-sale-is-still-going/)
     
     3 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [52 mins ago
+* [6 seconds ago
     
-    ### 18 Android settings that’ll strengthen your security – Computerworld](https://digitpatrox.com/18-android-settings-thatll-strengthen-your-security-computerworld/)
-* [1 hour ago
+    ### Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](https://digitpatrox.com/microsoft-deprecates-pptp-and-l2tp-vpn-protocols-in-windows-server/)
+* [17 mins ago
     
-    ### I Swear by This Copycat Popeyes Chicken Sandwich Recipe](https://digitpatrox.com/i-swear-by-this-copycat-popeyes-chicken-sandwich-recipe/)
-* [2 hours ago
+    ### Hackers took over robovacs to chase pets and yell slurs](https://digitpatrox.com/hackers-took-over-robovacs-to-chase-pets-and-yell-slurs/)
+* [32 mins ago
     
-    ### The Best Cinnamon for Your Spiced Holiday Drinks](https://digitpatrox.com/the-best-cinnamon-for-your-spiced-holiday-drinks/)
+    ### NYT Strands Today: Hints, Answers & Spangram for October 13](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-13/)
 
 Most Popular Topics
 
-* [September 2, 2024
-    
-    ### Best Portable Solar Panels and Solar Battery Chargers](https://digitpatrox.com/best-portable-solar-panels-and-solar-battery-chargers/)
-* [September 10, 2024
-    
-    ### Wordle Answer for Today, September 10, 2024](https://digitpatrox.com/wordle-answer-for-today-september-10-2024/)
 * [4 weeks ago
     
-    ### Best Side-by-Side Refrigerators of 2024](https://digitpatrox.com/best-side-by-side-refrigerators-of-2024/)
+    ### How to Unhide Apps on iPhone in iOS 18](https://digitpatrox.com/how-to-unhide-apps-on-iphone-in-ios-18/)
+* [August 23, 2024
+    
+    ### Connecticut special needs school hacked; student SSNs, finance, and medical info compromised](https://digitpatrox.com/connecticut-special-needs-school-hacked-student-ssns-finance-and-medical-info-compromised/)
+* [3 weeks ago
+    
+    ### Huge Skechers summer clearance event — 7 sneaker deals I’d buy now from $44](https://digitpatrox.com/huge-skechers-summer-clearance-event-7-sneaker-deals-id-buy-now-from-44/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### You only need 2 dumbbells and 30 minutes to build muscle all over and strengthen your core](https://digitpatrox.com/you-only-need-2-dumbbells-and-30-minutes-to-build-muscle-all-over-and-strengthen-your-core/)
+    ### How to Maintain a Car That Isn’t Driven Much](https://digitpatrox.com/how-to-maintain-a-car-that-isnt-driven-much/)
+* [3 hours ago
+    
+    ### 8 Stats That Explain Why Gen Z Prefers Video Games to Movies](https://digitpatrox.com/8-stats-that-explain-why-gen-z-prefers-video-games-to-movies/)
 * [4 hours ago
     
-    ### Microsoft Outlook bug blocks email logins, causes app crashes](https://digitpatrox.com/microsoft-outlook-bug-blocks-email-logins-causes-app-crashes/)
-* [4 hours ago
-    
-    ### Google pulled its Wear OS update for old Pixel Watches to fix a big problem](https://digitpatrox.com/google-pulled-its-wear-os-update-for-old-pixel-watches-to-fix-a-big-problem/)
+    ### Firefox Update Patches Exploited Vulnerability](https://digitpatrox.com/firefox-update-patches-exploited-vulnerability/)
 
 Most Viewed Topics
 
+* [August 21, 2024
+    
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
