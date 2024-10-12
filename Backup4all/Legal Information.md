@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Mandic using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-mandic-using-backup4all-kb.html)  
+* [How to back up data files from T Cloud using ...](https://www.backup4all.com/how-to-back-up-data-files-from-t-cloud-using-backup4all-kb.html)  
     
-* [Configure Backup4all for remote monitoring](https://www.backup4all.com/configure-backup4all-for-remote-monitoring-kb.html)  
+* [How to do a selective restore](https://www.backup4all.com/how-to-do-a-selective-restore-kb.html)  
     
-* [How to configure and use One Touch Backup?](https://www.backup4all.com/how-to-configure-and-use-one-touch-backup-kb.html)  
+* [How to back up data files from Wasabi S3 Comp ...](https://www.backup4all.com/how-to-back-up-date-files-from-wasabi-s3-compatible-kb.html)  
     
-* [FTP backup using passive mode](https://www.backup4all.com/ftp-backup-using-passive-mode-kb.html)  
+* [How to back up data files from FTP using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ftp-using-backup4all-kb.html)  
     
-* [How to force Backup4all to copy again some mi ...](https://www.backup4all.com/how-to-force-backup4all-to-copy-again-some-missing-files-in-destination-kb.html)  
+* [How to restore your data files from MinIO usi ...](https://www.backup4all.com/how-to-restore-your-data-files-from-minio-using-backup4all-kb.html)  
     
 
 Choose language:
