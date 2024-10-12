@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/some-arm-positions-inaccurate-blood-pressure-results-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/early-heart-health-management-protect-brain-health-1440x810.jpg)
 
-Blood Pressure Readings Can Be Overestimated if Arm Is Not Positioned Correctly](https://www.everydayhealth.com/heart-health/blood-pressure-overestimated-if-arm-not-positioned-correctly/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+A Healthier Heart Means a Healthier Brain](https://www.everydayhealth.com/healthy-aging/improved-heart-health-can-also-protect-the-brain/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/jenna-fischer-reveals-breast-cancer-diagnosis-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/florida-officials-flesh-eating-vibrio-bacteria-floodwaters-1440x810.jpg)
 
-5 Takeaways From Actress Jenna Fischer’s Breast Cancer Reveal](https://www.everydayhealth.com/cancer/takeaways-from-jenna-fischers-breast-cancer-reveal/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Florida Warns of Flesh-Eating Bacteria Risk From Hurricane Milton](https://www.everydayhealth.com/infectious-diseases/florida-warns-of-flesh-eating-bacteria-risk-from-hurricane-milton/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/dupixent-approval-treat-copd-pdufa-1440x810.jpg)
 
