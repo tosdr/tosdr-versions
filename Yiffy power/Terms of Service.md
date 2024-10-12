@@ -97,31 +97,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 181 1
+0 195 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/mal0-scp-1471-and-scp-1471-a-scp-foundation-created-by-voider-artist/)
+[](https://yiff-party.com/yiff/akihota-fierce-mountain-created-by-naive-tabby/)
 
-[mal0, scp-1471, and scp-1471-a (scp foundation) created by voider (artist)](https://yiff-party.com/yiff/mal0-scp-1471-and-scp-1471-a-scp-foundation-created-by-voider-artist/)
+[akihota fierce-mountain created by naive tabby](https://yiff-party.com/yiff/akihota-fierce-mountain-created-by-naive-tabby/)
 
-0 2 0
+0 1 0
 
 October 12, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/zira-directed-by-anonymous-director/)
+[](https://yiff-party.com/yiff/pocketpair-and-etc-created-by-aleidom/)
 
-[zira directed by anonymous director](https://yiff-party.com/yiff-ai-premium/zira-directed-by-anonymous-director/)
+[pocketpair and etc created by aleidom](https://yiff-party.com/yiff/pocketpair-and-etc-created-by-aleidom/)
 
-0 59 0
+0 89 0
 
 September 12, 2024
 
-[](https://yiff-party.com/yiff/mizu-nintendo-and-etc-created-by-vilf/)
+[](https://yiff-party.com/yiff/alien-franchise-created-by-patto/)
 
-[mizu (nintendo and etc) created by vilf](https://yiff-party.com/yiff/mizu-nintendo-and-etc-created-by-vilf/)
+[alien (franchise) created by patto](https://yiff-party.com/yiff/alien-franchise-created-by-patto/)
 
-0 198 0
+0 97 0
 
 September 12, 2024
 
