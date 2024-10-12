@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers in separate strikes](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
+    * [Heavy Israeli bombardment in northern Gaza as UN peacekeepers in Lebanon are hit again](https://apnews.com/article/mideast-wars-israel-hamas-hezbollah-gaza-lebanon-681c9c85541c8c96b802a1bad8e45e41)
     * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
-    * [Middle East latest: Israeli military renews orders for Palestinians to leave northern Gaza](https://apnews.com/article/israel-hezbollah-hamas-latest-mideast-12-october-2024-a6cb533eb39d69bd2bea60c46b7dcb0b)
+    * [As Hezbollah and Israel battle on the border, Lebanon's army watches from the sidelines](https://apnews.com/article/lebanese-army-laf-israel-hezbollah-78f6ad2da82d64d1ae266aa5394e6d4e)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Back-to-back hurricanes reshape 2024 campaign’s final stretch](https://apnews.com/article/harris-trump-biden-helene-milton-hurricane-fema-f1bf69434656bd693daf316db3842fac)
-    * [Harris was asked to name a few of Trump's virtues. Here's her response](https://apnews.com/article/harris-trump-virtues-univision-aa072d5a209d022583fc4702ae9ca93c)
-    * [Obama urges Black men to show up for Harris as he campaigns in critical Pennsylvania](https://apnews.com/article/obama-harris-trump-2024-election-d9874edf5ae646bf632dc463bcee3625)
+    * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
+    * [Why is Donald Trump campaigning in California, a state he's almost certain to lose?](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa)
+    * [Doctor deems Harris in 'excellent health.' Her team aims to contrast with Trump's scant medical info](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Data shows migrants aren't taking 'Black jobs' or 'Hispanic jobs,' despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
-    * [Harris is releasing a report on her health and poking Trump for failing to do likewise](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
-    * [Are male voters reluctant to vote for a woman? Harris' backers are confronting the question head on](https://apnews.com/article/harris-male-voters-sexism-trump-support-obama-bcf8dbcce4700ba24725ca178f7753b0)
+    * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
+    * [Doctor deems Harris in 'excellent health.' Her team aims to contrast with Trump's scant medical info](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
+    * [Data shows migrants aren’t taking jobs from Black or Hispanic people, despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
     
     Newsletters
     
@@ -93,8 +93,8 @@ Menu
     TOP STORIES
     
     * [Yamamoto outduels Darvish in historic matchup as Dodgers beat Padres 2-0 to reach NLCS](https://apnews.com/article/mlb-playoffs-dodgers-padres-f0778cdc5ff2250641336fbe6c8d3f0c)
-    * [Padres muster no offense to support Yu Darvish's inspired pitching in NLDS loss to Dodgers](https://apnews.com/article/mlb-playoffs-padres-dodgers-darvish-tatis-machado-faee88063d0b9dbac2007ef6c943e76c)
-    * [Cam Skattebo runs for 156 yards and 2 TDs, Arizona State knocks off No. 16 Utah 27-19](https://apnews.com/article/arizona-state-utah-score-skattebo-f0f3018c5a35437f5dba919d46bc15eb)
+    * [Tigers hope Carpenter can come off bench in ALDS Game 5 while dealing with hamstring injury](https://apnews.com/article/tigers-mlb-playoffs-kerry-carpenter-8d281367625ee8d1ef2cf1388b5bdc98)
+    * [Holding a Super Bowl outside the US is a possibility, NFL Commissioner Goodell says](https://apnews.com/article/goodell-nfl-london-international-caa03e8d27aa2a07ab0a848bc015fff7)
     
     Newsletters
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [Changing OpenAI's nonprofit structure could have big consequences](https://apnews.com/article/openai-sam-altman-nonprofit-equity-investment-irs-1447dc7589ae312017f7141384b19535)
+    * [Documents show OpenAI's long journey from nonprofit to $157B valued company](https://apnews.com/article/openai-nonprofit-application-tax-exempt-status-ebf38549cdf0529fc5ec727e2815ed12)
     * [Boeing will lay off 10% of its employees as a strike by factory workers cripples airplane production](https://apnews.com/article/boeing-layoffs-strike-airplane-factories-de637999cf525699577b42b72bff2a70)
-    * [Data shows migrants aren't taking 'Black jobs' or 'Hispanic jobs,' despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
-    * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     
 * [Science](https://apnews.com/science)
     
@@ -173,7 +173,7 @@ Menu
     * [Don't fall for fake dentists offering veneers and other dental work on social media](https://apnews.com/article/veneers-dentist-teeth-whitening-scam-unlicensed-d0d9d57613a10f18bc9735dc5eca4b41)
     * [‘I love you but I hate you.’ What to do when you can’t stand your long-term partner](https://apnews.com/article/relationships-love-hate-wellness-marriage-936794bf67b7a616aebcf31d7fedd2ba)
     * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
-    * [Cutting back on meat doesn't have to mean going without protein](https://apnews.com/article/protein-substitutes-vegetarian-recipes-ac983c806e94e0066634ad6f46eeed6e)
+    * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -242,12 +242,12 @@ Menu
     
     TOP STORIES
     
+    * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     * [Company recalls nearly 10 million pounds of meat and poultry dishes for listeria contamination](https://apnews.com/article/brucepac-listeria-meat-recall-f4d8db2752137f5bdaa5fbfcc12dd3d6)
     * [Milton spares Daytona Beach, Florida, factory that's a critical supplier of IV fluids](https://apnews.com/article/hurricane-milton-iv-fluid-supplies-381caf525b556166e7e82fee5826f92c)
     * [Officials work to protect IV supplies in Florida after disruptions at North Carolina plant](https://apnews.com/article/hurricane-milton-iv-shortage-hospitals-drugs-e5f37ad059e1357786732758624c9fd2)
     * [Bakery that makes Sara Lee and Entenmann's pushes back on FDA sesame warning](https://apnews.com/article/bimbo-bakeries-sesame-allergy-warning-b12aeaf118910ee43058a6a58c789fe2)
-    * [Florida hospitals and health care facilities in Hurricane Milton's path prepare for the worst](https://apnews.com/article/hurricane-milton-hospitals-nursing-homes-evacuations-prepare-c4146bee8f78a4769ba5829b4538f10e)
-    * [Texas man drops lawsuit against women he accused of helping his wife get abortion pills](https://apnews.com/article/texas-abortion-bans-settlement-4be6bdee1520292d675f678f7053a6ce)
+    * [Doctor deems Harris in 'excellent health.' Her team aims to contrast with Trump's scant medical info](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
     
 * [Tech](https://apnews.com/technology)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     * [Kim Jones steps down as artistic director at Fendi to concentrate on his role at Dior Men's](https://apnews.com/article/italy-fendi-kim-jones-1fe57e1b58515865a052126f38ffbd03)
     * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
-    * [Fisher-Price recalls over 2 million 'Snuga Swings' following the deaths of 5 infants](https://apnews.com/article/fisher-price-recalls-swings-infant-deaths-6010490ee97a24f66efece45c5e76f1c)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Hindus in Bangladesh celebrate their largest festival under tight security following attacks](https://apnews.com/article/bangladesh-durga-puja-hindu-festival-violence-3e87b4d3702308687aeee43854da03eb)
     * [Zelenskyy appeals to allies to keep up aid as Germany pledges new weapons package](https://apnews.com/article/pope-zelenskyy-russia-ukraine-scholz-a8d440a7c78a32a22d449743338dd0c2)
     * [AP PHOTOS: Performers bring Hindu gods to life in the Ramleela](https://apnews.com/article/india-festival-ramleela-dussehra-hindu-gods-1571d00214a0bb7c6027f674ec646c92)
-    * [Ethel Kennedy, social activist and wife of Robert F. Kennedy, has died](https://apnews.com/article/ethel-kennedy-dies-00eb88951db24e0cada9bd48b66ad8ea)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
+    * [Israel bombardea el norte de Gaza mientras fuerzas de paz de la ONU son atacadas en Líbano](https://apnews.com/world-news/general-news-9761b381a40760ed8bd2f12ad3fbf441)
     * [Mientras Hezbollah e Israel combaten en la frontera, el Ejército libanés mira desde los márgenes](https://apnews.com/world-news/general-news-9091e3820005d6c22021bcf8de6adf0e)
-    * [Fuerzas israelíes matan a 2 soldados libaneses y hieren a 2 miembros de fuerzas de paz de la ONU](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
     * [El líder británico Keir Starmer cumple 100 días en el gobierno. Ha sido un inicio accidentado](https://apnews.com/world-news/general-news-f1e500409b2b8cf2795f7f1a96f1c44c)
-    * [¿Hombres estadounidenses reacios a votar por una mujer? Simpatizantes de Harris abordan el tema](https://apnews.com/politics/elecciones-en-eeuu-26be5c8b8bf33987dcdff8e725782e2c)
-    * [Los datos contradicen afirmaciones de Trump de que migrantes acaparan "empleos negros" o "hispanos"](https://apnews.com/politics/general-news-7e55b37588f0d1fb4b1d349206752fc3)
-    * [Llevan al hospital a varios niños y adultos en Pensilvania tras comer "hongos tóxicos"](https://apnews.com/us-news/general-news-044eb366174a555ebceccc85d7aad445)
+    * [Funcionario de la ONU pide proteger puertos y aeropuertos del Líbano en medio de ofensiva israelí](https://apnews.com/world-news/general-news-206cfe87a774c5b2ed38a42c9a4a283b)
+    * [Kamala Harris está en “excelente estado de salud”, informa su médico](https://apnews.com/politics/elecciones-en-eeuu-715301b54503ebbef4bff45b70505db4)
+    * [Reclutadores militares ucranianos irrumpen en la vida nocturna de Kiev en busca de nuevos soldados](https://apnews.com/world-news/general-news-73d2f845ce73c3f55e7ebdee89dd499f)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -458,9 +458,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers in separate strikes](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
+    * [Heavy Israeli bombardment in northern Gaza as UN peacekeepers in Lebanon are hit again](https://apnews.com/article/mideast-wars-israel-hamas-hezbollah-gaza-lebanon-681c9c85541c8c96b802a1bad8e45e41)
     * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
-    * [Middle East latest: Israeli military renews orders for Palestinians to leave northern Gaza](https://apnews.com/article/israel-hezbollah-hamas-latest-mideast-12-october-2024-a6cb533eb39d69bd2bea60c46b7dcb0b)
+    * [As Hezbollah and Israel battle on the border, Lebanon's army watches from the sidelines](https://apnews.com/article/lebanese-army-laf-israel-hezbollah-78f6ad2da82d64d1ae266aa5394e6d4e)
     
     Newsletters
     
@@ -504,9 +504,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Back-to-back hurricanes reshape 2024 campaign’s final stretch](https://apnews.com/article/harris-trump-biden-helene-milton-hurricane-fema-f1bf69434656bd693daf316db3842fac)
-    * [Harris was asked to name a few of Trump's virtues. Here's her response](https://apnews.com/article/harris-trump-virtues-univision-aa072d5a209d022583fc4702ae9ca93c)
-    * [Obama urges Black men to show up for Harris as he campaigns in critical Pennsylvania](https://apnews.com/article/obama-harris-trump-2024-election-d9874edf5ae646bf632dc463bcee3625)
+    * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
+    * [Why is Donald Trump campaigning in California, a state he's almost certain to lose?](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa)
+    * [Doctor deems Harris in 'excellent health.' Her team aims to contrast with Trump's scant medical info](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
     
     Newsletters
     
@@ -529,9 +529,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Data shows migrants aren't taking 'Black jobs' or 'Hispanic jobs,' despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
-    * [Harris is releasing a report on her health and poking Trump for failing to do likewise](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
-    * [Are male voters reluctant to vote for a woman? Harris' backers are confronting the question head on](https://apnews.com/article/harris-male-voters-sexism-trump-support-obama-bcf8dbcce4700ba24725ca178f7753b0)
+    * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
+    * [Doctor deems Harris in 'excellent health.' Her team aims to contrast with Trump's scant medical info](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
+    * [Data shows migrants aren’t taking jobs from Black or Hispanic people, despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
     
     Newsletters
     
@@ -560,8 +560,8 @@ Submit Search
     TOP STORIES
     
     * [Yamamoto outduels Darvish in historic matchup as Dodgers beat Padres 2-0 to reach NLCS](https://apnews.com/article/mlb-playoffs-dodgers-padres-f0778cdc5ff2250641336fbe6c8d3f0c)
-    * [Padres muster no offense to support Yu Darvish's inspired pitching in NLDS loss to Dodgers](https://apnews.com/article/mlb-playoffs-padres-dodgers-darvish-tatis-machado-faee88063d0b9dbac2007ef6c943e76c)
-    * [Cam Skattebo runs for 156 yards and 2 TDs, Arizona State knocks off No. 16 Utah 27-19](https://apnews.com/article/arizona-state-utah-score-skattebo-f0f3018c5a35437f5dba919d46bc15eb)
+    * [Tigers hope Carpenter can come off bench in ALDS Game 5 while dealing with hamstring injury](https://apnews.com/article/tigers-mlb-playoffs-kerry-carpenter-8d281367625ee8d1ef2cf1388b5bdc98)
+    * [Holding a Super Bowl outside the US is a possibility, NFL Commissioner Goodell says](https://apnews.com/article/goodell-nfl-london-international-caa03e8d27aa2a07ab0a848bc015fff7)
     
     Newsletters
     
@@ -604,9 +604,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Changing OpenAI's nonprofit structure could have big consequences](https://apnews.com/article/openai-sam-altman-nonprofit-equity-investment-irs-1447dc7589ae312017f7141384b19535)
+    * [Documents show OpenAI's long journey from nonprofit to $157B valued company](https://apnews.com/article/openai-nonprofit-application-tax-exempt-status-ebf38549cdf0529fc5ec727e2815ed12)
     * [Boeing will lay off 10% of its employees as a strike by factory workers cripples airplane production](https://apnews.com/article/boeing-layoffs-strike-airplane-factories-de637999cf525699577b42b72bff2a70)
-    * [Data shows migrants aren't taking 'Black jobs' or 'Hispanic jobs,' despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
-    * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     
 * [Science](https://apnews.com/science)
     
@@ -657,7 +657,7 @@ Submit Search
     * [Don't fall for fake dentists offering veneers and other dental work on social media](https://apnews.com/article/veneers-dentist-teeth-whitening-scam-unlicensed-d0d9d57613a10f18bc9735dc5eca4b41)
     * [‘I love you but I hate you.’ What to do when you can’t stand your long-term partner](https://apnews.com/article/relationships-love-hate-wellness-marriage-936794bf67b7a616aebcf31d7fedd2ba)
     * [It's time to roll up sleeves for new COVID, flu shots](https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad)
-    * [Cutting back on meat doesn't have to mean going without protein](https://apnews.com/article/protein-substitutes-vegetarian-recipes-ac983c806e94e0066634ad6f46eeed6e)
+    * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -735,12 +735,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     * [Company recalls nearly 10 million pounds of meat and poultry dishes for listeria contamination](https://apnews.com/article/brucepac-listeria-meat-recall-f4d8db2752137f5bdaa5fbfcc12dd3d6)
     * [Milton spares Daytona Beach, Florida, factory that's a critical supplier of IV fluids](https://apnews.com/article/hurricane-milton-iv-fluid-supplies-381caf525b556166e7e82fee5826f92c)
     * [Officials work to protect IV supplies in Florida after disruptions at North Carolina plant](https://apnews.com/article/hurricane-milton-iv-shortage-hospitals-drugs-e5f37ad059e1357786732758624c9fd2)
     * [Bakery that makes Sara Lee and Entenmann's pushes back on FDA sesame warning](https://apnews.com/article/bimbo-bakeries-sesame-allergy-warning-b12aeaf118910ee43058a6a58c789fe2)
-    * [Florida hospitals and health care facilities in Hurricane Milton's path prepare for the worst](https://apnews.com/article/hurricane-milton-hospitals-nursing-homes-evacuations-prepare-c4146bee8f78a4769ba5829b4538f10e)
-    * [Texas man drops lawsuit against women he accused of helping his wife get abortion pills](https://apnews.com/article/texas-abortion-bans-settlement-4be6bdee1520292d675f678f7053a6ce)
+    * [Doctor deems Harris in 'excellent health.' Her team aims to contrast with Trump's scant medical info](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
     
 * [Tech](https://apnews.com/technology)
     
@@ -773,17 +773,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     * [Kim Jones steps down as artistic director at Fendi to concentrate on his role at Dior Men's](https://apnews.com/article/italy-fendi-kim-jones-1fe57e1b58515865a052126f38ffbd03)
     * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
-    * [Fisher-Price recalls over 2 million 'Snuga Swings' following the deaths of 5 infants](https://apnews.com/article/fisher-price-recalls-swings-infant-deaths-6010490ee97a24f66efece45c5e76f1c)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Hindus in Bangladesh celebrate their largest festival under tight security following attacks](https://apnews.com/article/bangladesh-durga-puja-hindu-festival-violence-3e87b4d3702308687aeee43854da03eb)
     * [Zelenskyy appeals to allies to keep up aid as Germany pledges new weapons package](https://apnews.com/article/pope-zelenskyy-russia-ukraine-scholz-a8d440a7c78a32a22d449743338dd0c2)
     * [AP PHOTOS: Performers bring Hindu gods to life in the Ramleela](https://apnews.com/article/india-festival-ramleela-dussehra-hindu-gods-1571d00214a0bb7c6027f674ec646c92)
-    * [Ethel Kennedy, social activist and wife of Robert F. Kennedy, has died](https://apnews.com/article/ethel-kennedy-dies-00eb88951db24e0cada9bd48b66ad8ea)
     
     Newsletters
     
@@ -797,12 +797,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Israel bombardea el norte de Gaza mientras fuerzas de paz de la ONU son atacadas en Líbano](https://apnews.com/world-news/general-news-9761b381a40760ed8bd2f12ad3fbf441)
     * [Mientras Hezbollah e Israel combaten en la frontera, el Ejército libanés mira desde los márgenes](https://apnews.com/world-news/general-news-9091e3820005d6c22021bcf8de6adf0e)
-    * [Fuerzas israelíes matan a 2 soldados libaneses y hieren a 2 miembros de fuerzas de paz de la ONU](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
     * [El líder británico Keir Starmer cumple 100 días en el gobierno. Ha sido un inicio accidentado](https://apnews.com/world-news/general-news-f1e500409b2b8cf2795f7f1a96f1c44c)
-    * [¿Hombres estadounidenses reacios a votar por una mujer? Simpatizantes de Harris abordan el tema](https://apnews.com/politics/elecciones-en-eeuu-26be5c8b8bf33987dcdff8e725782e2c)
-    * [Los datos contradicen afirmaciones de Trump de que migrantes acaparan "empleos negros" o "hispanos"](https://apnews.com/politics/general-news-7e55b37588f0d1fb4b1d349206752fc3)
-    * [Llevan al hospital a varios niños y adultos en Pensilvania tras comer "hongos tóxicos"](https://apnews.com/us-news/general-news-044eb366174a555ebceccc85d7aad445)
+    * [Funcionario de la ONU pide proteger puertos y aeropuertos del Líbano en medio de ofensiva israelí](https://apnews.com/world-news/general-news-206cfe87a774c5b2ed38a42c9a4a283b)
+    * [Kamala Harris está en “excelente estado de salud”, informa su médico](https://apnews.com/politics/elecciones-en-eeuu-715301b54503ebbef4bff45b70505db4)
+    * [Reclutadores militares ucranianos irrumpen en la vida nocturna de Kiev en busca de nuevos soldados](https://apnews.com/world-news/general-news-73d2f845ce73c3f55e7ebdee89dd499f)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
