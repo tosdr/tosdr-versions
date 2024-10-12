@@ -541,6 +541,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![Exploring Italy's hidden gems - 8 must-see spots](https://media.restless.co.uk/uploads/2024/06/exploring-italys-hidden-gems-8-must-see-spots-768x398.jpg)](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
+
+### [Exploring Italy’s hidden gems – 6 must-see spots](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
+
+[Read More »](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
+
 [![11 travel destinations where you can avoid crowds](https://media.restless.co.uk/uploads/2023/01/travel-destinations-where-you-can-avoid-crowds-768x512.jpg)](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
 
 ### [11 travel destinations where you can avoid crowds](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
@@ -570,12 +576,6 @@ New in travel
 ### [12 of the cheapest countries to visit in Europe](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
 
 [Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
-
-[![10 sun-soaked cruise destinations for 2024-2025](https://media.restless.co.uk/uploads/2024/05/best-cruise-destinations-for-2024-2025-768x512.jpg)](https://restless.co.uk/travel/sun-soaked-cruise-destinations-for-2024-2025/)
-
-### [10 sun-soaked cruise destinations for 2024-2025](https://restless.co.uk/travel/sun-soaked-cruise-destinations-for-2024-2025/) 
-
-[Read More »](https://restless.co.uk/travel/sun-soaked-cruise-destinations-for-2024-2025/)
 
 Popular travel guides
 ---------------------
