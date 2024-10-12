@@ -108,7 +108,7 @@ In accordance with applicable law, you may have the right to:
 * **Request Correction**. You may request correction of your Personal Information where it is inaccurate, incomplete, or outdated.  
 * **Request Deletion (“Opt Out”) or Withdraw Consent**. You may request to remove your PII from our records. Note that if your Personal Information is deleted, you may no longer access or be able to use certain Services, and any account you have with us may become deactivated.
 
-If you wish to access, correct, amend, or delete PII you have provided directly to us, please contact our Privacy Officer at [**privacy@andela.com**](mailto:privacy@andela.com). For deletion/opt-out requests, please include the subject line “OPT OUT”. We will respond to requests within thirty (30) days. If we require more time, we will inform you of the reason and extension period for a response in writing.
+If you wish to access, correct, amend, or delete PII you have provided directly to us, please contact our Privacy Officer at [\[email protected\]](https://www.codewars.com/cdn-cgi/l/email-protection). For deletion/opt-out requests, please include the subject line “OPT OUT”. We will respond to requests within thirty (30) days. If we require more time, we will inform you of the reason and extension period for a response in writing.
 
 **How to Block Cookies**. You can block Cookies by setting your internet browser to block some or all Cookies. You can withdraw your consent at any time by deleting placed Cookies and disabling Cookies in your browser, or as explained above. You can change your browser settings to block or notify you when you receive a Cookie, delete Cookies, or browse our Services using your browser’s anonymous usage setting. Please refer to your browser instructions or help screen to learn more about how to adjust or modify your browser settings. If you do not agree to our use of Cookies or similar technologies which store information on your device, you should change your browser settings accordingly. If you use your browser settings to block all Cookies (including essential Cookies) you may not be able to access all or parts of our Services, and some features of our Website may not function properly.
 
@@ -141,14 +141,14 @@ We take measures to delete your Personal Information or keep it in a form that d
 Children's Privacy
 ------------------
 
-We do not knowingly collect, maintain, or use Personal Information from children under 16 years of age (“**Minors**”), and no parts of our Services are directed at children.  If you learn that a Minor has provided us with Personal Information in violation of this Privacy Policy, please alert us at [privacy@andela.com](mailto:privacy@andela.com).
+We do not knowingly collect, maintain, or use Personal Information from children under 16 years of age (“**Minors**”), and no parts of our Services are directed at children.  If you learn that a Minor has provided us with Personal Information in violation of this Privacy Policy, please alert us at [\[email protected\]](https://www.codewars.com/cdn-cgi/l/email-protection).
 
 **As Required by Law and Similar Disclosures.** We may access, preserve, and disclose your Personal Information if we believe doing so is required or appropriate to: (a) comply with law enforcement requests and legal process, such as a court order or subpoena; (b) respond to your requests; or (c) protect your, our, or others’ rights, property, or safety. This includes exchanging information with other companies and organizations, including law enforcement agencies, for the purposes of fraud protection and to prevent cyber or other suspected or alleged crimes. For the avoidance of doubt, the disclosure of your Personal Information may occur if you post any objectionable content on or through the Services.
 
 Contact Us
 ----------
 
-Andela Inc. is the controller or entity responsible for the processing of your Personal Information pursuant to this Privacy Policy. We welcome feedback from all our Users and if you have any questions regarding this Privacy Policy or the use of your Personal Information, please contact us. You can email our privacy officer at, [privacy@andela.com](mailto:privacy@andela.com) or you can send mail to us at:
+Andela Inc. is the controller or entity responsible for the processing of your Personal Information pursuant to this Privacy Policy. We welcome feedback from all our Users and if you have any questions regarding this Privacy Policy or the use of your Personal Information, please contact us. You can email our privacy officer at, [\[email protected\]](https://www.codewars.com/cdn-cgi/l/email-protection) or you can send mail to us at:
 
 Andela Inc.
 
