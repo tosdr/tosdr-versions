@@ -402,6 +402,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Former Dallas Uber driver arrested for punching elderly passenger on video](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/dalllas-uber-assault-arrest.png?ve=1&tl=1)
+
+ ![Former Dallas Uber driver arrested for punching elderly passenger on video](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/dalllas-uber-assault-arrest.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/former-dallas-uber-driver-arrested-punching-elderly-passenger-video)
+
+### [Former Dallas Uber driver arrested for punching elderly passenger on video](https://www.fox4news.com/news/former-dallas-uber-driver-arrested-punching-elderly-passenger-video)
+
+ [![Fort Worth man accused of nearly decapitating wife found dead while awaiting trial](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-peyton-fw-camden-yard-dr-murder-9p_00.00.30.56.jpg?ve=1&tl=1)
+
+ ![Fort Worth man accused of nearly decapitating wife found dead while awaiting trial](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-peyton-fw-camden-yard-dr-murder-9p_00.00.30.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nathaniel-rowland-found-dead-elizabeth-rowland-murder-suspect-fatal-stabbing)
+
+### [Fort Worth man accused of nearly decapitating wife found dead while awaiting trial](https://www.fox4news.com/news/nathaniel-rowland-found-dead-elizabeth-rowland-murder-suspect-fatal-stabbing)
+
+ [![Broken elevator door led to Colorado mine accident that killed 1, trapped 12 tourists](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-84051937.jpg?ve=1&tl=1)
+
+ ![Broken elevator door led to Colorado mine accident that killed 1, trapped 12 tourists](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-84051937.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/colorado-mine-elevator-accident-kills-tour-guide)
+
+### [Broken elevator door led to Colorado mine accident that killed 1, trapped 12 tourists](https://www.fox4news.com/news/colorado-mine-elevator-accident-kills-tour-guide)
+
  [![Trump visits Aurora, Colorado to warn of migrant threat that city says doesn't exist](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/donald-trump-scaled.jpg?ve=1&tl=1)
 
  ![Trump visits Aurora, Colorado to warn of migrant threat that city says doesn't exist](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/donald-trump-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-rally-aurora-colorado)
@@ -413,24 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Hurricane Milton: Death toll rises as Florida recovers from damage](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2176957818.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-florida-damage-death-toll-rises-october-11-2024)
 
 ### [Hurricane Milton: Death toll rises as Florida recovers from damage](https://www.fox4news.com/news/hurricane-milton-florida-damage-death-toll-rises-october-11-2024)
-
- [![UT Arlington hosts Texas Autocross Weekend for student-designed formula cars](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dionne-uta-autocross-exhibit-5p_00.01.33.48.jpg?ve=1&tl=1)
-
- ![UT Arlington hosts Texas Autocross Weekend for student-designed formula cars](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dionne-uta-autocross-exhibit-5p_00.01.33.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ut-arlington-hosts-texas-autocross-weekend)
-
-### [UT Arlington hosts Texas Autocross Weekend for student-designed formula cars](https://www.fox4news.com/news/ut-arlington-hosts-texas-autocross-weekend)
-
- [![7-Eleven closing more than 400 locations](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/10/32/18/gettyimages-2166912433-scaled.jpg?ve=1&tl=1)
-
- ![7-Eleven closing more than 400 locations](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/10/32/18/592/333/gettyimages-2166912433-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/7-eleven-closing-more-than-400-locations)
-
-### [7-Eleven closing more than 400 locations](https://www.fox4news.com/news/7-eleven-closing-more-than-400-locations)
-
- [![Dallas paramedic killed: Police release picture of hit-and-run driver's SUV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/hit-and-run.png?ve=1&tl=1)
-
- ![Dallas paramedic killed: Police release picture of hit-and-run driver's SUV](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/hit-and-run.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/daniela-fonseca-hit-and-run-crash-suspect-vehicle-update)
-
-### [Dallas paramedic killed: Police release picture of hit-and-run driver's SUV](https://www.fox4news.com/news/daniela-fonseca-hit-and-run-crash-suspect-vehicle-update)
 
 ###### [News](https://www.fox4news.com/news)
 
