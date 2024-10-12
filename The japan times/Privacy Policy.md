@@ -499,10 +499,6 @@ Revised June 1, 2022
 
   [![Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426839.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.")](https://www.japantimes.co.jp/environment/2024/10/09/energy/azec-fossil-fuel-technology/ "Japan pushes fossil fuel tech in Asia carbon neutrality initiative")
 
-[The forgotten Japanese naturalist who created a U.S. national park](https://www.japantimes.co.jp/community/2024/10/07/issues/george-masa-hiking-appalachia-shin-etsu-trail/ "The forgotten Japanese naturalist who created a U.S. national park")
-
-  [![Without Japanese outdoorsman George Masa, America might not have the Great Smoky Mountains National Park — so why do so many people in Japan not know he existed?](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425577.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Without Japanese outdoorsman George Masa, America might not have the Great Smoky Mountains National Park — so why do so many people in Japan not know he existed?")](https://www.japantimes.co.jp/community/2024/10/07/issues/george-masa-hiking-appalachia-shin-etsu-trail/ "The forgotten Japanese naturalist who created a U.S. national park")
-
 Podcast
 -------
 
@@ -566,23 +562,17 @@ Latest News
 
 [Ishiba reiterates need for nuclear deterrence despite group's Nobel Prize](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/ishiba-nuclear-deterrance/ "Ishiba reiterates need for nuclear deterrence despite group's Nobel Prize")
 
-4 hours ago
+10 hours ago
 
 [Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize-nihon-hidankyo/ "Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo")
 
-5 hours ago
+11 hours ago
 
 [China's stimulus message leaves investors wanting though hanging onto hope](https://www.japantimes.co.jp/business/2024/10/12/economy/china-stimulus-message-investors-disappoint/ "China's stimulus message leaves investors wanting though hanging onto hope")
 
-10 hours ago
-
 [Victims of Typhoon Hagibis remembered five years after disaster](https://www.japantimes.co.jp/news/2024/10/12/japan/miyagi-typhoon-victims-remembered/ "Victims of Typhoon Hagibis remembered five years after disaster")
 
-10 hours ago
-
 [People in Hiroshima and Nagasaki reiterate call for peace after Nobel win](https://www.japantimes.co.jp/news/2024/10/12/japan/hiroshima-nagasaki-peace-call/ "People in Hiroshima and Nagasaki reiterate call for peace after Nobel win")
-
-11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
