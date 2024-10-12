@@ -1,4 +1,4 @@
-[**Put your server at the top!** Subscriptions to "Premium Option" are open.](https://minecraft-mp.com/servers/premium/)
+[**Subscriptions to "Premium Option" will end very soon!** Click here for more information!](https://minecraft-mp.com/servers/premium/)
 
 Privacy Policy
 ==============
