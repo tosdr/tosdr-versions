@@ -30,16 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ad555d55-5a24-47e3-a316-cc651ca40ea7/20241011T215335/ad555d55-5a24-47e3-a316-cc651ca40ea7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ad555d55-5a24-47e3-a316-cc651ca40ea7/20241011T215335/ad555d55-5a24-47e3-a316-cc651ca40ea7_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/great-river-quilt-show-mississippi-valley-quilters-guild-500-quilts/526-db65970a-f756-4dd0-abfd-cf926896e4ac)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e1e51911-e62c-41b5-9894-3fa8c7943023/20241012T010134/e1e51911-e62c-41b5-9894-3fa8c7943023_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e1e51911-e62c-41b5-9894-3fa8c7943023/20241012T010134/e1e51911-e62c-41b5-9894-3fa8c7943023_360x203.jpg)](https://www.wqad.com/article/traffic/locals-weigh-in-new-traffic-safety-plan-road-safety-concerns/526-6874ceed-f73c-492f-936c-fbb7dbd948bf)
         
-        #### [Ab-sew-lutely! The Great River Quilt Show returns to the Quad Cities](https://www.wqad.com/article/news/local/the-current/great-river-quilt-show-mississippi-valley-quilters-guild-500-quilts/526-db65970a-f756-4dd0-abfd-cf926896e4ac) [![](https://media.tegna-media.com/assets/WQAD/images/ad555d55-5a24-47e3-a316-cc651ca40ea7/20241011T215335/ad555d55-5a24-47e3-a316-cc651ca40ea7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ad555d55-5a24-47e3-a316-cc651ca40ea7/20241011T215335/ad555d55-5a24-47e3-a316-cc651ca40ea7_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/great-river-quilt-show-mississippi-valley-quilters-guild-500-quilts/526-db65970a-f756-4dd0-abfd-cf926896e4ac)
+        #### [New Traffic Safety Plan invites locals to address dangerous intersections](https://www.wqad.com/article/traffic/locals-weigh-in-new-traffic-safety-plan-road-safety-concerns/526-6874ceed-f73c-492f-936c-fbb7dbd948bf)
         
-        #### [A sea of quilts: The Great River Quilt Show returns to the Quad Cities](https://www.wqad.com/article/news/local/the-current/great-river-quilt-show-mississippi-valley-quilters-guild-500-quilts/526-db65970a-f756-4dd0-abfd-cf926896e4ac)
-    *  [![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_360x203.jpg)](https://www.wqad.com/article/news/crime/sterling-man-arrested-shooting-damage-vehicle/526-76bf038c-58b7-4510-b5c0-5281e7f12a1c)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f3a3d5de-2303-40fb-8840-7ca2ac044219/20241011T201508/f3a3d5de-2303-40fb-8840-7ca2ac044219_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f3a3d5de-2303-40fb-8840-7ca2ac044219/20241011T201508/f3a3d5de-2303-40fb-8840-7ca2ac044219_360x203.jpg)](https://www.wqad.com/article/news/crime/iowa-teen-who-killed-teacher-must-serve-35-years-before-being-up-for-parole/526-950ed507-dc77-47c8-82db-7ab645afa911)
         
-        #### [Sterling man arrested following shooting that damaged residence, vehicle](https://www.wqad.com/article/news/crime/sterling-man-arrested-shooting-damage-vehicle/526-76bf038c-58b7-4510-b5c0-5281e7f12a1c) [![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_360x203.jpg)](https://www.wqad.com/article/news/crime/sterling-man-arrested-shooting-damage-vehicle/526-76bf038c-58b7-4510-b5c0-5281e7f12a1c)
+        #### [Iowa teen who killed teacher must serve 35 years before being up for parole](https://www.wqad.com/article/news/crime/iowa-teen-who-killed-teacher-must-serve-35-years-before-being-up-for-parole/526-950ed507-dc77-47c8-82db-7ab645afa911)
         
-        #### [Sterling man arrested after shooting that damaged residence, vehicle](https://www.wqad.com/article/news/crime/sterling-man-arrested-shooting-damage-vehicle/526-76bf038c-58b7-4510-b5c0-5281e7f12a1c)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -88,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-79°
+67°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
