@@ -142,11 +142,11 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Baseball Collection](https://store.barstoolsports.com/collections/baseball)
-* [Pick 'Em - Week 7](https://www.barstoolsports.com/video/3527820/dave-portnoy-is-donezo-pick-em-week-7)
-* [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
+* [Barstool Sports Advisors](https://www.barstoolsports.com/video/3528014/the-advisors-go-country-with-the-king-of-the-south-barstool-sports-advisors-week-6)
+* [The Pro Football Football Show](https://www.barstoolsports.com/video/3528001/big-cats-backup-quarterback-test-or-pro-football-football-show-week-6)
 * [Football Collection](https://store.barstoolsports.com/collections/football)
-* [Stella Blue Coffee Fall Flavors](https://stellabluecoffee.com/)
+* [Baseball Collection](https://store.barstoolsports.com/collections/baseball)
+* [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 
 Privacy Policy
 ==============
