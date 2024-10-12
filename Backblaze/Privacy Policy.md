@@ -241,7 +241,7 @@ Backblaze shall, at the choice of the Customer, delete or return all the Files t
 Information:
 ------------
 
-Backblaze shall at the request of a Customer make available to it all information reasonably necessary to demonstrate compliance with the obligations under this DPA, including a copy of the most recent report on such compliance performed at the request of Backblaze by an external auditor, if available, and only if the Customer agrees to keep such information confidential under a non-disclosure agreement provided by Backblaze. Backblaze shall immediately inform the Customer if, in its opinion, an instruction infringes GDPR data protection provisions applicable to the Customer and/or Backblaze. For further information on our compliance with GDPR, please visit our knowledge base at help.backblaze.com or contact us at [privacy@backblaze.com](mailto:privacy@backblaze.com).
+Backblaze shall at the request of a Customer make available to it all information reasonably necessary to demonstrate compliance with the obligations under this DPA, including a copy of the most recent report on such compliance performed at the request of Backblaze by an external auditor, if available, and only if the Customer agrees to keep such information confidential under a non-disclosure agreement provided by Backblaze. Backblaze shall immediately inform the Customer if, in its opinion, an instruction infringes GDPR data protection provisions applicable to the Customer and/or Backblaze. For further information on our compliance with GDPR, please visit our knowledge base at help.backblaze.com or contact us at [\[email protected\]](https://www.backblaze.com/cdn-cgi/l/email-protection).
 
 ‍
 
