@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Shankill Butchers: Loyalists or Serial Killers?](/wp-content/thumbnails/6962-100x70.jpg?x53432)
+* [![Boy Interrupted](/wp-content/thumbnails/10322-100x70.jpg?x53432)
     
-    The Shankill Butchers: Loyalists or Serial Killers?
+    Boy Interrupted
     
-    With 19 murders between them, the Shankill Butchers were the most prolific gang of serial killers in UK history. During the dark days of the Troubles their savagery stood apart, paralysing both commun](https://documentaryheaven.com/the-shankill-butchers-loyalists-or-serial-killers/ "The Shankill Butchers: Loyalists or Serial Killers?")
-* [![Meet the Night Runners](/wp-content/thumbnails/14543-100x70.jpg?x53432)
+    Boy Interrupted is a HBO film that examines the life of Evan Perry a 15 year old boy from New York who took his own life in 2005. This film which was made by his parents Dana and Hart looks at how Eva](https://documentaryheaven.com/boy-interrupted/ "Boy Interrupted")
+* [![Nissan GTR](/wp-content/thumbnails/8454-100x70.jpg?x53432)
     
-    Meet the Night Runners
+    Nissan GTR
     
-    There seems to be a mysterious trend gripping rural Kenya, it is something which has been spoken about through the generations, a form of witchcraft for want of a better description. The people carryi](https://documentaryheaven.com/meet-night-runners/ "Meet the Night Runners")
-* [![The Story of Science: Power, Proof and Passion](/wp-content/thumbnails/6535-100x70.jpg?x53432)
+    Designed to rival Porsche and Ferrari with speeds exceeding 300km/hr and an acceleration of 0 to 100km/hr in 2.8 seconds, Nissan GTR is the ultimate Japanese super car. With a design that is uniquely](https://documentaryheaven.com/nissan-gtr/ "Nissan GTR")
+* [![Failed Inventions](/wp-content/thumbnails/1104-100x70.jpg?x53432)
     
-    The Story of Science: Power, Proof and Passion
+    Failed Inventions
     
-    For thousands of years we have wrestled with the great questions of existence. Who are we? What is the world made of? How did we get here? The quest to answer these is the story of science. Each week,](https://documentaryheaven.com/the-story-of-science-power-proof-and-passion/ "The Story of Science: Power, Proof and Passion")
-* [![Six Day War](/wp-content/thumbnails/6489-100x70.jpg?x53432)
+    The world always had its share of dreamers, tinkerers and inventors. Some who have had great ideas, but many more who had missed the mark. Some were ahead of there times, others ideas were just plain](https://documentaryheaven.com/failed-inventions/ "Failed Inventions")
+* [![Blind Spot](/wp-content/thumbnails/5024-100x70.jpg?x53432)
     
-    Six Day War
+    Blind Spot
     
-    The story of the Arab-Israeli War of 1967, the echoes of which are still heard today in the middle east.In May of that year, Egypt, under President Nasser, blocked the Tiran Straits to Israeli shipp](https://documentaryheaven.com/six-day-war/ "Six Day War")
-* [![Fluoride: The Hard to Swallow Truth](/wp-content/thumbnails/5742-100x70.jpg?x53432)
+    Blind Spot is a documentary that establishes the inextricable link between the energy we use, the way we run our economy and the effect it has had on our environment.It takes as a starting point t](https://documentaryheaven.com/blind-spot/ "Blind Spot")
+* [![Cops and Robbers](/wp-content/thumbnails/14080-100x70.jpg?x53432)
     
-    Fluoride: The Hard to Swallow Truth
+    Cops and Robbers
     
-    This short documentary looks at the initial theories behind the effectiveness of fluoride and where it originated. It goes on to show the lack of science behind the use of Fluoride and reveals Fluor](https://documentaryheaven.com/fluoride-the-hard-to-swallow-truth/ "Fluoride: The Hard to Swallow Truth")
+    Corey Pegues is Retired NYPD Commander turned author, he grew up in Jamaica, Queens during the 70's and 80's, a rough time for New York with regards to drug related crime. As a kid he played Cops and](https://documentaryheaven.com/cops-and-robbers/ "Cops and Robbers")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
