@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for your great support.
+You have just reminded me why I have been with you for so many years now.
 
-Fahad Saadah
+Roy Buckley
