@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-FoxyProxy worked well for me and was easy to setup for Chrome (which I then sent to my TV using Google Chromecast). Used it to watch new episodes of BBC's Sherlock.
+I am finding FoxyProxy on the laptop quite fantastic.
 
-Aneet Chachra
+Chris McRaib
