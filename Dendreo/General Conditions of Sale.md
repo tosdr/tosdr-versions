@@ -253,7 +253,7 @@ Les limites d’utilisation concernent notamment (i) les Modules prévus dans le
 
 La phase de configuration technique des Services et de formation initiale à distance est assurée par QUANTOS EVOLUTION soit une fois l’autorisation de prélèvement donnée, soit après l’acceptation du devis personnalisé, soit à tout autre moment si accord entre les Parties.
 
-Le Client peut à tout moment changer d’Abonnement pour un Abonnement de niveau supérieur, en notifiant sa demande à QUANTOS EVOLUTION par e-mail à l’adresse support@dendreo.com. Le Client pourra également souscrire à des Services ou Modules supplémentaires directement sur son Compte Client.
+Le Client peut à tout moment changer d’Abonnement pour un Abonnement de niveau supérieur, en notifiant sa demande à QUANTOS EVOLUTION par e-mail à l’adresse [\[email protected\]](https://www.dendreo.com/cdn-cgi/l/email-protection). Le Client pourra également souscrire à des Services ou Modules supplémentaires directement sur son Compte Client.
 
 Le Client peut également changer d’Abonnement pour un Abonnement de niveau de service inférieur, avant la fin de sa période d'engagement initiale, mais devra payer, le cas échéant, la différence mensuelle cumulée du prix d'Abonnement correspondant à sa période d'engagement initiale.
 
@@ -336,7 +336,7 @@ Le responsable du traitement des données est le représentant légal de QUANTOS
 
 Dans le cadre de l'exécution de leurs prestations, les tiers n'ont qu'un accès limité aux données et ont l'obligation de les utiliser en conformité avec les dispositions de la législation applicable en matière de protection des données personnelles. En dehors des cas énoncés ci-dessus, QUANTOS EVOLUTION s'interdit de vendre, louer, céder ou donner accès à des tiers aux données sans consentement préalable du Client, à moins d'y être contraint en raison d'un motif légitime.
 
-Conformément à la réglementation applicable, le Client dispose d'un droit d'accès, de rectification, d'effacement, et de portabilité des données le concernant, ainsi que du droit de s'opposer au traitement pour motif légitime, droits qu'il peut exercer en s'adressant au responsable de traitement à l'adresse postale ou email suivante : dpo@dendreo.com  
+Conformément à la réglementation applicable, le Client dispose d'un droit d'accès, de rectification, d'effacement, et de portabilité des données le concernant, ainsi que du droit de s'opposer au traitement pour motif légitime, droits qu'il peut exercer en s'adressant au responsable de traitement à l'adresse postale ou email suivante : [\[email protected\]](https://www.dendreo.com/cdn-cgi/l/email-protection)  
 
 ARTICLE 9. LIMITES DE RESPONSABILITÉS DE QUANTOS EVOLUTION
 ----------------------------------------------------------
@@ -415,7 +415,7 @@ Les Services étant réservés exclusivement à un usage professionnel, les éve
 
 Le Contrat est conclu pour la période d’engagement définie par les Parties renouvelée automatiquement, sauf si dénonciation expresse du Client ou de QUANTOS EVOLUTION avant la fin de la période d’engagement.
 
-Le Client pourra mettre fin à tout moment à son Contrat, par simple courrier électronique adressé à QUANTOS EVOLUTION à l’adresse support@dendreo.com.
+Le Client pourra mettre fin à tout moment à son Contrat, par simple courrier électronique adressé à QUANTOS EVOLUTION à l’adresse [\[email protected\]](https://www.dendreo.com/cdn-cgi/l/email-protection).
 
 En cas d’Abonnement mensuel, chaque mois commencé est dû dans sa totalité. La demande de résiliation du Client est possible jusqu’au dernier jour du mois en cours.
 
@@ -525,7 +525,7 @@ QUANTOS EVOLUTION s’engage à corriger les éventuelles erreurs de fonctionnem
 
 Les heures ouvrées sont les heures allant de 9h à 18h du lundi au vendredi, heure de Paris. Les délais s’entendent à partir de la prise en charge par QUANTOS EVOLUTION de l’incident, qui se matérialise par une réponse électronique de QUANTOS EVOLUTION à tout signalement d’incident par le Client.
 
-Les incidents doivent être signalés à l’adresse unique [support@dendreo.com](mailto:support@dendreo.com) : QUANTOS EVOLUTION s’engage à prendre en compte tous les signalements de dysfonctionnements de niveaux critiques ou élevés sous 2h ouvrées, et les autres sous 14h ouvrées.
+Les incidents doivent être signalés à l’adresse unique [\[email protected\]](https://www.dendreo.com/cdn-cgi/l/email-protection) : QUANTOS EVOLUTION s’engage à prendre en compte tous les signalements de dysfonctionnements de niveaux critiques ou élevés sous 2h ouvrées, et les autres sous 14h ouvrées.
 
 En cas de non-respect des engagements de durée maximale d’interruption admissible, des pénalités peuvent être demandées par le Client qui ne pourront excéder le montant HT de l’Abonnement proratisé selon la durée d’indisponibilité excédant les durées maximales prévues.
 
