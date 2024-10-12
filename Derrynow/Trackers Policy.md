@@ -268,15 +268,6 @@ Derry Magistrate's Court
 [Man who attacked police with baseball bat, assaulted partner and rammed police car jailed](https://www.derrynow.com/news/local-news/1627914/man-who-attacked-police-with-baseball-bat-assaulted-partner-and-rammed-police-car-jailed.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry man jailed after making up to £475,000 from illegal streaming services](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man jailed after making up to £475,000 from illegal streaming services")](https://www.derrynow.com/news/local-news/1627799/county-derry-man-jailed-after-making-up-to-475-000-from-illegal-streaming-services.html)
-
-Omagh Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry man jailed after making up to £475,000 from illegal streaming services](https://www.derrynow.com/news/local-news/1627799/county-derry-man-jailed-after-making-up-to-475-000-from-illegal-streaming-services.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore")](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
 
 Colm Scullion (right) pictured during recording with John Creedon (left) and Christy Moore (centre).
@@ -286,14 +277,12 @@ Colm Scullion (right) pictured during recording with John Creedon (left) and Chr
 [Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspended sentence for Derry man following 'stupid, boorish behavior'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man following 'stupid, boorish behavior'")](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1627153/derry-death-notices-saturday-october-12-2024.html)
 
-Derry Magistrate's Court
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for Derry man following 'stupid, boorish behavior'](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Saturday, October 12 2024](https://www.derrynow.com/news/deaths/1627153/derry-death-notices-saturday-october-12-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man arrested for possession of a knife and drugs handed suspended sentence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested for possession of a knife and drugs handed suspended sentence")](https://www.derrynow.com/news/local-news/1627794/man-arrested-for-possession-of-a-knife-and-drugs-handed-suspended-sentence.html)
 
@@ -304,12 +293,14 @@ Derry Magistrate's Court
 [Man arrested for possession of a knife and drugs handed suspended sentence](https://www.derrynow.com/news/local-news/1627794/man-arrested-for-possession-of-a-knife-and-drugs-handed-suspended-sentence.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry judge says there will be 'zero tolerance' of assaults on public servants](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry judge says there will be 'zero tolerance' of assaults on public servants")](https://www.derrynow.com/news/local-news/1627705/derry-judge-says-there-will-be-zero-tolerance-of-assaults-on-public-servants.html)
+[![Derry college lecturer won I.T Educator of the Year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry college lecturer won I.T Educator of the Year")](https://www.derrynow.com/news/local-news/1627947/derry-college-lecturer-wins-it-educator-of-the-year.html)
+
+Lecturer Kevin McLaughlin with his award for IT Educator of the Year
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry judge says there will be 'zero tolerance' of assaults on public servants](https://www.derrynow.com/news/local-news/1627705/derry-judge-says-there-will-be-zero-tolerance-of-assaults-on-public-servants.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry college lecturer won I.T Educator of the Year](https://www.derrynow.com/news/local-news/1627947/derry-college-lecturer-wins-it-educator-of-the-year.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Suspended sentence for Derry man charged with disorderly behavior and assaulting police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man charged with disorderly behavior and assaulting police")](https://www.derrynow.com/news/local-news/1627916/suspended-sentence-for-derry-man-charged-with-disorderly-behavior-and-assaulting-police.html)
 
@@ -327,21 +318,30 @@ Mayor of Derry Cllr Lilian Seenoi-Barr pictured with members of the late Paddy T
 [Paddy Tyre tribute concert planned for Derry's Guildhall](https://www.derrynow.com/news/local-news/1627720/paddy-tyre-tribute-concert-planned-for-derry-s-guildhall.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PSNI application for footage linked to disorder ‘should never have been made’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI application for footage linked to disorder ‘should never have been made’")](https://www.derrynow.com/news/local-news/1627699/psni-application-for-footage-linked-to-disorder-should-never-have-been-made.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1628426/derry-city-take-a-point-but-miss-big-opportunity-against-bohemians.html)
+
+Paul McMullan reacts to a missed chance. Pic by Ramsey Cardy/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry City take a point but miss big opportunity against Bohemians](https://www.derrynow.com/news/derry-sport/1628426/derry-city-take-a-point-but-miss-big-opportunity-against-bohemians.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sinn Fein member resigns over claims of sending inappropriate messages to teen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein member resigns over claims of sending inappropriate messages to teen")](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[PSNI application for footage linked to disorder ‘should never have been made’](https://www.derrynow.com/news/local-news/1627699/psni-application-for-footage-linked-to-disorder-should-never-have-been-made.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Sinn Fein member resigns over claims of sending inappropriate messages to teen](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry college lecturer won I.T Educator of the Year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry college lecturer won I.T Educator of the Year")](https://www.derrynow.com/news/local-news/1627947/derry-college-lecturer-wins-it-educator-of-the-year.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1627133/5-games-to-go-derry-city-legends-backing-ruaidhri-higgins-to-end-club-s-wait-for-a-league-title.html)
 
-Lecturer Kevin McLaughlin with his award for IT Educator of the Year
+Derry City manager Ruaidhri Higgins is hoping to lead Derry City to a first league title in 27 years.
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry college lecturer won I.T Educator of the Year](https://www.derrynow.com/news/local-news/1627947/derry-college-lecturer-wins-it-educator-of-the-year.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[5 GAMES TO GO: Derry City legends backing Ruaidhri Higgins to end club's wait for a league title](https://www.derrynow.com/news/derry-sport/1627133/5-games-to-go-derry-city-legends-backing-ruaidhri-higgins-to-end-club-s-wait-for-a-league-title.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,14 +521,46 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1627153/derry-death-notices-saturday-october-12-2024.html)
+[![Derry Radical Bookfair set to return](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Radical Bookfair set to return")](https://www.derrynow.com/news/local-news/1628604/derry-radical-bookfair-set-to-return.html)
+
+The Derry Radical Bookfair in Pilots Row Community Centre
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry Radical Bookfair set to return](https://www.derrynow.com/news/local-news/1628604/derry-radical-bookfair-set-to-return.html)
+----------------------------------------------------------------------------------------------------------------------------------
+
+[![Sinn Fein member resigns over claims of sending inappropriate messages to teen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein member resigns over claims of sending inappropriate messages to teen")](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Sinn Fein member resigns over claims of sending inappropriate messages to teen](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Directorial debut for Derry based filmmaker with the release if Kathleen Is Here in theatres](https://www.derrynow.com/resizer/165/93/true/2024_09_26/Untitled_design_%284%29-1727356801780.png--.png?1727356801970 "Directorial debut for Derry based filmmaker with the release if Kathleen Is Here in theatres")](https://www.derrynow.com/news/what-s-on/1625608/directorial-debut-for-derry-based-filmmaker-with-the-release-of-kathleen-is-here-in-theatres.html)
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[Directorial debut for Derry based filmmaker with the release of Kathleen Is Here in theatres](https://www.derrynow.com/news/what-s-on/1625608/directorial-debut-for-derry-based-filmmaker-with-the-release-of-kathleen-is-here-in-theatres.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Buildings across Northern Ireland light up blue in support of World Arthritis Day](https://www.derrynow.com/resizer/165/93/true/2024_10_10/2024-10-10_15_21_46_2024_10_10-wad_bridewell-_magherafelt-1728559801280-jpeg-1728570777612.jpeg--.jpeg?1728570777693 "Buildings across Northern Ireland light up blue in support of World Arthritis Day")](https://www.derrynow.com/news/local-news/1627086/buildings-across-northern-ireland-light-up-blue-in-support-of-world-arthritis-day.html)
+
+The Bridewell Tourist Information Centre, Magherafelt 
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Buildings across Northern Ireland light up blue in support of World Arthritis Day](https://www.derrynow.com/news/local-news/1627086/buildings-across-northern-ireland-light-up-blue-in-support-of-world-arthritis-day.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1627153/derry-death-notices-saturday-october-12-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Saturday, October 12 2024](https://www.derrynow.com/news/deaths/1627153/derry-death-notices-saturday-october-12-2024.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1628426/derry-city-take-a-point-but-miss-big-opportunity-against-bohemians.html)
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_11/2958773-1728679940534.jpg--.jpg?1728679941783 "Derry City")](https://www.derrynow.com/news/derry-sport/1628426/derry-city-take-a-point-but-miss-big-opportunity-against-bohemians.html)
 
 Paul McMullan reacts to a missed chance. Pic by Ramsey Cardy/ Sportsfile
 
@@ -536,40 +568,6 @@ Paul McMullan reacts to a missed chance. Pic by Ramsey Cardy/ Sportsfile
 
 [Derry City take a point but miss big opportunity against Bohemians](https://www.derrynow.com/news/derry-sport/1628426/derry-city-take-a-point-but-miss-big-opportunity-against-bohemians.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](https://www.derrynow.com/resizer/165/93/true/2024_10_11/image_123650291_%2855%29-1728671028043_1728671322.JPG--.JPG?1728671322212 "Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore")](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
-
-Colm Scullion (right) pictured during recording with John Creedon (left) and Christy Moore (centre).
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry college lecturer won I.T Educator of the Year](https://www.derrynow.com/resizer/165/93/true/2024_10_11/462694586_978879107613046_4669349055564596151_n_Cropped-1728647274808.jpg--.jpg?1728647274847 "Derry college lecturer won I.T Educator of the Year")](https://www.derrynow.com/news/local-news/1627947/derry-college-lecturer-wins-it-educator-of-the-year.html)
-
-Lecturer Kevin McLaughlin with his award for IT Educator of the Year
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry college lecturer won I.T Educator of the Year](https://www.derrynow.com/news/local-news/1627947/derry-college-lecturer-wins-it-educator-of-the-year.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for Derry man charged with disorderly behavior and assaulting police](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Suspended sentence for Derry man charged with disorderly behavior and assaulting police")](https://www.derrynow.com/news/local-news/1627916/suspended-sentence-for-derry-man-charged-with-disorderly-behavior-and-assaulting-police.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for Derry man charged with disorderly behavior and assaulting police](https://www.derrynow.com/news/local-news/1627916/suspended-sentence-for-derry-man-charged-with-disorderly-behavior-and-assaulting-police.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man who attacked police with baseball bat, assaulted partner and rammed police car jailed](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Man who attacked police with baseball bat, assaulted partner and rammed police car jailed")](https://www.derrynow.com/news/local-news/1627914/man-who-attacked-police-with-baseball-bat-assaulted-partner-and-rammed-police-car-jailed.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who attacked police with baseball bat, assaulted partner and rammed police car jailed](https://www.derrynow.com/news/local-news/1627914/man-who-attacked-police-with-baseball-bat-assaulted-partner-and-rammed-police-car-jailed.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
