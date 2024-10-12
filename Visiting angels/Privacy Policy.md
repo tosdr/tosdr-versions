@@ -221,9 +221,13 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
 \*Each Visiting Angels agency is a franchise that is independently owned and operated. The Franchisor, Living Assistance Services Inc., does not control or manage the day to day business operations of any Visiting Angels franchised agency.
 
+![Cookie Consent Cookie Image](img/cookie.svg)
+
 We use cookies to personalize your experience on our site. To find out more, please read our [privacy policy](https://www.visitingangels.com/privacy-policy).
 
 Accept
+
+X
 
 #### Personalized Care Delivered to Your Inbox
 
