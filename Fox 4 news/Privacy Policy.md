@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Mom left critically injured 9-year-old son behind after crash, report says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/monica-tutt-mug-dallas-co-2023.jpg?ve=1&tl=1)
+ [![Trump visits Aurora, Colorado to warn of migrant threat that city says doesn't exist](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/donald-trump-scaled.jpg?ve=1&tl=1)
 
- ![Mom left critically injured 9-year-old son behind after crash, report says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/monica-tutt-mug-dallas-co-2023.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/monica-tutt-arden-road-crash-affidavit)
+ ![Trump visits Aurora, Colorado to warn of migrant threat that city says doesn't exist](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/donald-trump-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-rally-aurora-colorado)
 
-### [Mom left critically injured 9-year-old son behind after crash, report says](https://www.fox4news.com/news/monica-tutt-arden-road-crash-affidavit)
+### [Trump visits Aurora, Colorado to warn of migrant threat that city says doesn't exist](https://www.fox4news.com/news/trump-rally-aurora-colorado)
 
- [![Kevin O'Leary argues recent hurricanes won't stop people from moving to Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1146139361.jpg?ve=1&tl=1)
+ [![Hurricane Milton: Death toll rises as Florida recovers from damage](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2176957818.jpg?ve=1&tl=1)
 
- ![Kevin O'Leary argues recent hurricanes won't stop people from moving to Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1146139361.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/florida-housing-market-hurricanes-insurance-costs)
+ ![Hurricane Milton: Death toll rises as Florida recovers from damage](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2176957818.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-florida-damage-death-toll-rises-october-11-2024)
 
-### [Kevin O'Leary argues recent hurricanes won't stop people from moving to Florida](https://www.fox4news.com/news/florida-housing-market-hurricanes-insurance-costs)
+### [Hurricane Milton: Death toll rises as Florida recovers from damage](https://www.fox4news.com/news/hurricane-milton-florida-damage-death-toll-rises-october-11-2024)
 
- [![Taco Bell brings back '90s fan-favorite, but not for long](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1973669685-1.jpg?ve=1&tl=1)
+ [![UT Arlington hosts Texas Autocross Weekend for student-designed formula cars](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dionne-uta-autocross-exhibit-5p_00.01.33.48.jpg?ve=1&tl=1)
 
- ![Taco Bell brings back '90s fan-favorite, but not for long](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1973669685-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/taco-bell-double-decker-taco-returns)
+ ![UT Arlington hosts Texas Autocross Weekend for student-designed formula cars](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dionne-uta-autocross-exhibit-5p_00.01.33.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ut-arlington-hosts-texas-autocross-weekend)
 
-### [Taco Bell brings back '90s fan-favorite, but not for long](https://www.fox4news.com/news/taco-bell-double-decker-taco-returns)
+### [UT Arlington hosts Texas Autocross Weekend for student-designed formula cars](https://www.fox4news.com/news/ut-arlington-hosts-texas-autocross-weekend)
 
- [![Man fatally stabbed in South Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/DPD-Dallas-Police-car.jpg?ve=1&tl=1)
+ [![7-Eleven closing more than 400 locations](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/10/32/18/gettyimages-2166912433-scaled.jpg?ve=1&tl=1)
 
- ![Man fatally stabbed in South Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/592/333/DPD-Dallas-Police-car.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-fatally-stabbed-south-dallas)
+ ![7-Eleven closing more than 400 locations](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/10/32/18/592/333/gettyimages-2166912433-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/7-eleven-closing-more-than-400-locations)
 
-### [Man fatally stabbed in South Dallas](https://www.fox4news.com/news/man-fatally-stabbed-south-dallas)
+### [7-Eleven closing more than 400 locations](https://www.fox4news.com/news/7-eleven-closing-more-than-400-locations)
 
- [![74 birds seized from cockfight in Van Zandt County, SPCA of Texas awarded custody](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/photo-sep-28-2024-11-28-10-pm-scaled.jpg?ve=1&tl=1)
+ [![Dallas paramedic killed: Police release picture of hit-and-run driver's SUV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/hit-and-run.png?ve=1&tl=1)
 
- ![74 birds seized from cockfight in Van Zandt County, SPCA of Texas awarded custody](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/photo-sep-28-2024-11-28-10-pm-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/74-birds-seized-from-cockfight-van-zandt-county-spca-texas-awarded-custody)
+ ![Dallas paramedic killed: Police release picture of hit-and-run driver's SUV](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/hit-and-run.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/daniela-fonseca-hit-and-run-crash-suspect-vehicle-update)
 
-### [74 birds seized from cockfight in Van Zandt County, SPCA of Texas awarded custody](https://www.fox4news.com/news/74-birds-seized-from-cockfight-van-zandt-county-spca-texas-awarded-custody)
+### [Dallas paramedic killed: Police release picture of hit-and-run driver's SUV](https://www.fox4news.com/news/daniela-fonseca-hit-and-run-crash-suspect-vehicle-update)
 
 ###### [News](https://www.fox4news.com/news)
 
