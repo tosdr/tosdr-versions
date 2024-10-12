@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Teazle Action](https://www.myabandonware.com/game/teazle-action-s89)
+* [Teazle 2](https://www.myabandonware.com/game/teazle-2-s88)
 * [Atomic Robo-Kid](https://www.myabandonware.com/game/atomic-robo-kid-4io)
 * [Big Buck Hunter Pro](https://www.myabandonware.com/game/big-buck-hunter-pro-ssf)
 * [280 Zzzap](https://www.myabandonware.com/game/280-zzzap-sse)
-* [21](https://www.myabandonware.com/game/21-ssd)
-* [Attack](https://www.myabandonware.com/game/attack-ssc)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
