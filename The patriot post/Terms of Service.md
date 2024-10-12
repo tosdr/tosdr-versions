@@ -191,7 +191,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110995-what-it-means-2024-10-11)
+     [](https://patriotpost.us/memes/111033-lotta-nothing-2024-10-12)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -203,17 +203,14 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Tony Perkins How Should Christians Approach the 2024 Election?](https://patriotpost.us/opinion/111028-how-should-christians-approach-the-2024-election-2024-10-12)
+*      [Matthew Continetti How Harris Bombed Her Media Blitz](https://patriotpost.us/opinion/111017-how-harris-bombed-her-media-blitz-2024-10-12)
+*      [The Washington Stand Afghan National in U.S. Plotted ISIS Terror Attack on Election Day](https://patriotpost.us/opinion/111030-afghan-national-in-us-plotted-isis-terror-attack-on-election-day-2024-10-12)
+*      [Imprimis The Dangers of Price Controls](https://patriotpost.us/opinion/111018-the-dangers-of-price-controls-2024-10-12)
 *      [Michael Reagan Kamala Has Nothing in Mind](https://patriotpost.us/opinion/111016-kamala-has-nothing-in-mind-2024-10-11)
 *      [David Harsanyi America’s Bipartisan Spending Suicide Pact](https://patriotpost.us/opinion/111014-americas-bipartisan-spending-suicide-pact-2024-10-11)
 *      [Michael Barone What the Census Can Tell Us About Swing States](https://patriotpost.us/opinion/111013-what-the-census-can-tell-us-about-swing-states-2024-10-11)
 *      [Josh Hammer One Year After Oct. 7, American Voters Face Stark Foreign Policy Choice](https://patriotpost.us/opinion/111012-one-year-after-oct-7-american-voters-face-stark-foreign-policy-choice-2024-10-11)
-*      [Erick Erickson Where Are the Big Names?](https://patriotpost.us/opinion/111011-where-are-the-big-names-2024-10-11)
-*      [Tim Graham What if Bob Woodward Wrote a Book on Doug Emhoff?](https://patriotpost.us/opinion/111010-what-if-bob-woodward-wrote-a-book-on-doug-emhoff-2024-10-11) 
-*      [Victor Davis Hanson Try a Little Honesty About Israel](https://patriotpost.us/opinion/111009-try-a-little-honesty-about-israel-2024-10-11)
-*      [Gary Bauer Exploiting Emergencies](https://patriotpost.us/opinion/111015-exploiting-emergencies-2024-10-11)
-*      [Mark Alexander Profiles of Valor: He Saved Our Lives](https://patriotpost.us/alexander/110987-profiles-of-valor-he-saved-our-lives-2024-10-11)
-*      [The Washington Stand Karine Jean-Pierre Just Proved Kamala’s Miscarriage Rhetoric Is ‘Dangerous’](https://patriotpost.us/opinion/111029-karine-jean-pierre-just-proved-kamalas-miscarriage-rhetoric-is-dangerous-2024-10-11)
-*      [The Babylon Bee 10 Differences Between Kamala Harris and Joe Biden](https://patriotpost.us/opinion/111020-10-differences-between-kamala-harris-and-joe-biden-2024-10-11)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -227,11 +224,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
