@@ -1,4 +1,4 @@
-* [Register](https://oauth.accounts.firefox.com/v1/authorization?action=signup&scope=profile&state=4500bcaa863e2f23be7869f07bc177806874135563c5ab7f1d132c45cb841b0f%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8) or [Log in](https://oauth.accounts.firefox.com/v1/authorization?action=signin&scope=profile&state=4500bcaa863e2f23be7869f07bc177806874135563c5ab7f1d132c45cb841b0f%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8)
+* [Register](https://oauth.accounts.firefox.com/v1/authorization?action=signup&scope=profile&state=aba8897ee4df37606a977dc71a03f0ad81b0f86d3b37912c231e33463bdffdec%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8) or [Log in](https://oauth.accounts.firefox.com/v1/authorization?action=signin&scope=profile&state=aba8897ee4df37606a977dc71a03f0ad81b0f86d3b37912c231e33463bdffdec%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8)
 * [Other Applications](# "Find add-ons for other applications")
     * [Firefox](https://addons.thunderbird.net/en-us/firefox)
     * [Firefox for Android](https://addons.thunderbird.net/en-us/android)
@@ -107,9 +107,9 @@ L’outil Signal Spam a été déclaré à la CNIL (déclaration n°1222631) et 
 
 To create your own collections, you must have a Mozilla Add-ons account.
 
-[Create an Add-ons Account](https://oauth.accounts.firefox.com/v1/authorization?action=signup&scope=profile&state=4500bcaa863e2f23be7869f07bc177806874135563c5ab7f1d132c45cb841b0f%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8)
+[Create an Add-ons Account](https://oauth.accounts.firefox.com/v1/authorization?action=signup&scope=profile&state=aba8897ee4df37606a977dc71a03f0ad81b0f86d3b37912c231e33463bdffdec%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8)
 
-or [log in to your current account](https://oauth.accounts.firefox.com/v1/authorization?action=signin&scope=profile&state=4500bcaa863e2f23be7869f07bc177806874135563c5ab7f1d132c45cb841b0f%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8)
+or [log in to your current account](https://oauth.accounts.firefox.com/v1/authorization?action=signin&scope=profile&state=aba8897ee4df37606a977dc71a03f0ad81b0f86d3b37912c231e33463bdffdec%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8)
 
 ![Footer logo](https://addons.thunderbird.net/static/img/zamboni/footer-logo-med.png?b=58a99cbb-667a0970)
 
