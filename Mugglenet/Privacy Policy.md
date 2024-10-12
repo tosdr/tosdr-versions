@@ -244,14 +244,6 @@ MuggleNet Archive Select Month October 2024  (7) September 2024  (30) August 2
 
 ### October 2024
 
-#### Fri, Oct 11
-
-Dawn French's birthday
-
-Recurs yearly
-
-The Fat Lady (PoA)
-
 #### Sat, Oct 12
 
 Harry performs Levicorpus on a sleeping Ron
@@ -288,6 +280,14 @@ Filius Flitwick's birthday
 
 Recurs yearly
 
+#### Fri, Oct 18
+
+Toby Regbo's birthday
+
+Recurs yearly
+
+Young Albus Dumbledore
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-In early drafts, the Malfoy surname was variously Smart, Spinks, and Spungen.
+Culpeper’s Herbal, a book written in London in 1652 that categorizes herbs and their medical uses, served as inspiration for herbology.
 
 ### Potter History
 
-April 18, 2012 – MuggleNet’s global reread, Alohomora!, is launched.
+January 11, 2006 – It is announced that the Harry Potter and the Goblet of Fire DVD will be available on March 7, 2006.
 
 ### Potter Quote
 
-“We teachers are rather good at magic, you know.”
+“I suggest you both go up to Madam Pomfrey. She is already tending to Miss Fawcett, of Ravenclaw, and Mr. Summers, of Hufflepuff, both of whom decided to age themselves up a little too. Though I must say, neither of their beards is anything like as fine as yours.”
 
 [](#)
 
