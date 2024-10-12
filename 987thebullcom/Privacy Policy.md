@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Sounds Like The RadioZach Top<br><br>11:35pm |
-| I Am Not OkayJelly Roll<br><br>11:32pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>11:29pm |
-| Miles On ItKane Brown Ft Marshmello<br><br>11:26pm |
-| TequilaDan Shay<br><br>11:23pm |
+| Do I Make You WannaBilly Currington<br><br>4:56am |
+| Miles On ItKane Brown Ft Marshmello<br><br>4:53am |
+| I Am Not OkayJelly Roll<br><br>4:50am |
+| WranglersMiranda Lambert<br><br>4:47am |
+| The PainterCody Johnson<br><br>4:39am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
 
 [](https://www.alphamediausa.com/)
 
