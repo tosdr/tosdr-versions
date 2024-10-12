@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![MoneyMaze](/assets/logos/thelowroad.png)](http://www.followthemoney.org/research/institute-research/best-practices-for-independent-spending-part-one)
-
-Just try to follow the maze of independent expenditures.
+[![2014 Candidate Elections Overview](/assets/Images/teasers/full/Leg-by-Office-2014.png)](http://www.followthemoney.org/research/institute-reports/2014-candidate-elections-overview/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
