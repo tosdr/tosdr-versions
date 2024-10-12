@@ -54,14 +54,14 @@
 * [The Wooly Team](https://www.senorwooly.com/team)
 * [FAQ](https://www.senorwooly.com/faq)
 
-![Sr. Wooly Songbook Volume 1](https://assets.senorwooly.com/uploads/a2f98060-a143-41b1-92ca-b78309ea8a35.png)
+![The Billy & Gorro Winter Set: Scarf & Hat Combo](https://assets.senorwooly.com/uploads/210d807a-5b90-4370-bfd2-b7f1a54179b7.png)
 
 On Sale
 =======
 
 15% off
 
-Sr. Wooly Songbook Volume 1 ~$20.00~ $17.00 [Go to store](https://www.senorwooly.com/store/product/sr-wooly-songbook)
+The Billy & Gorro Winter Set: Scarf & Hat Combo ~$39.70~ $33.74 [Go to store](https://www.senorwooly.com/store/product/billy-y-gorro)
 
 ![](https://assets.senorwooly.com/static/images/marketing/doctor.png)
 
