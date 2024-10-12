@@ -137,12 +137,12 @@ MSX Music player
 
 Latest reactions
 
+* [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
 * [Godzilla Balls by Paxanga Soft](https://www.msx.org/news/en/godzilla-balls "Godzilla Balls by Paxanga Soft")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [Tiny Magic update, new batch and soundtrack CD](https://www.msx.org/news/software/en/tiny-magic-update "Tiny Magic update, new batch and soundtrack CD")
-* [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
@@ -150,19 +150,19 @@ Latest reactions
 
 Latest forum posts
 
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=68 "WonderTANG! Who wants to juice up your MSX?")
+* [A1 MK2 two EPROM system - need help removing app firmware (Cockpit?)](https://www.msx.org/forum/msx-talk/hardware/a1-mk2-two-eprom-system-need-help-removing-app-firmware-cockpit "A1 MK2 two EPROM system - need help removing app firmware (Cockpit?)")
+* [Enhanced decoding of YJK images](https://www.msx.org/forum/msx-talk/software/enhanced-decoding-yjk-images?page=4 "Enhanced decoding of YJK images")
+* [Gunfright Msxblue cheat trainer help](https://www.msx.org/forum/msx-talk/general-discussion/gunfright-msxblue-cheat-trainer-help "Gunfright Msxblue cheat trainer help")
+* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto "RIP Fabio Belavenuto")
 * [Omega MSX No Video Signal](https://www.msx.org/forum/msx-talk/hardware/omega-msx-no-video-signal "Omega MSX No Video Signal")
 * [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card?page=1 "MFRSCC+SD FAT12 & FAT16 partition on one card.")
-* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto "RIP Fabio Belavenuto")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=67 "WonderTANG! Who wants to juice up your MSX?")
 * [Emulating Zemmix Neo on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/emulating-zemmix-neo-on-openmsx "Emulating Zemmix Neo on OpenMSX")
 * [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=2 "Sony HB-75AS not displaying")
 * [Looking for ROBOPAL (by BANDAI) software](https://www.msx.org/forum/msx-talk/software/looking-for-robopal-by-bandai-software?page=1 "Looking for ROBOPAL (by BANDAI) software")
-* [A1 MK2 two EPROM system - need help removing app firmware (Cockpit?)](https://www.msx.org/forum/msx-talk/hardware/a1-mk2-two-eprom-system-need-help-removing-app-firmware-cockpit "A1 MK2 two EPROM system - need help removing app firmware (Cockpit?)")
 * [Cheap and durable joystick](https://www.msx.org/forum/msx-talk/hardware/cheap-and-durable-joystick "Cheap and durable joystick")
 * [MSX Bluetooth transmitter](https://www.msx.org/forum/msx-talk/hardware/msx-bluetooth-transmitter "MSX Bluetooth transmitter")
 * [Bluemsx Gunfright cheat trainer help](https://www.msx.org/forum/msx-talk/emulation/bluemsx-gunfright-cheat-trainer-help "Bluemsx Gunfright cheat trainer help")
-* [MSX2 - RBG Video output not working](https://www.msx.org/forum/msx-talk/hardware/msx2-rbg-video-output-not-working?page=1 "MSX2 - RBG Video output not working")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=122 "Please help testing upcoming openMSX release!")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
