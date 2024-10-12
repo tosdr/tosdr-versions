@@ -562,7 +562,7 @@ Deliver customer value and drive business outcomes
     
     Help Center
     
-    Answers to every Amplitude question](https://help.amplitude.com/hc/en-us)
+    Answers to every Amplitude question](https://amplitude.com/docs)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Developer Hub icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Developer Hub icon](https://cdn.sanity.io/images/l5rq9j6r/production/0ce11092fdadc6e391624c34290501f050fd0f56-24x24.svg)
@@ -585,7 +585,7 @@ Deliver customer value and drive business outcomes
     
     Drive business success with expert guidance and support](https://amplitude.com/services)
 
-* [Help Center](https://help.amplitude.com/hc/en-us)
+* [Help Center](https://amplitude.com/docs)
 * [Developer Hub](https://www.docs.developers.amplitude.com/)
 * [Academy & Training](https://academy.amplitude.com/)
 * [Professional Services](https://amplitude.com/services)
@@ -684,7 +684,7 @@ Deliver customer value and drive business outcomes
     
     Help Center
     
-    Answers to every Amplitude question](https://help.amplitude.com/hc/en-us)
+    Answers to every Amplitude question](https://amplitude.com/docs)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Developer Hub icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Developer Hub icon](https://cdn.sanity.io/images/l5rq9j6r/production/0ce11092fdadc6e391624c34290501f050fd0f56-24x24.svg)
@@ -707,7 +707,7 @@ Deliver customer value and drive business outcomes
     
     Drive business success with expert guidance and support](https://amplitude.com/services)
 
-* [Help Center](https://help.amplitude.com/hc/en-us)
+* [Help Center](https://amplitude.com/docs)
 * [Developer Hub](https://www.docs.developers.amplitude.com/)
 * [Academy & Training](https://academy.amplitude.com/)
 * [Professional Services](https://amplitude.com/services)
@@ -1292,7 +1292,7 @@ Deliver customer value and drive business outcomes
     
     Help Center
     
-    Answers to every Amplitude question](https://help.amplitude.com/hc/en-us)
+    Answers to every Amplitude question](https://amplitude.com/docs)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Developer Hub icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Developer Hub icon](https://cdn.sanity.io/images/l5rq9j6r/production/0ce11092fdadc6e391624c34290501f050fd0f56-24x24.svg)
@@ -1315,7 +1315,7 @@ Deliver customer value and drive business outcomes
     
     Drive business success with expert guidance and support](https://amplitude.com/services)
 
-* [Help Center](https://help.amplitude.com/hc/en-us)
+* [Help Center](https://amplitude.com/docs)
 * [Developer Hub](https://www.docs.developers.amplitude.com/)
 * [Academy & Training](https://academy.amplitude.com/)
 * [Professional Services](https://amplitude.com/services)
@@ -1414,7 +1414,7 @@ Deliver customer value and drive business outcomes
     
     Help Center
     
-    Answers to every Amplitude question](https://help.amplitude.com/hc/en-us)
+    Answers to every Amplitude question](https://amplitude.com/docs)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Developer Hub icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Developer Hub icon](https://cdn.sanity.io/images/l5rq9j6r/production/0ce11092fdadc6e391624c34290501f050fd0f56-24x24.svg)
@@ -1437,7 +1437,7 @@ Deliver customer value and drive business outcomes
     
     Drive business success with expert guidance and support](https://amplitude.com/services)
 
-* [Help Center](https://help.amplitude.com/hc/en-us)
+* [Help Center](https://amplitude.com/docs)
 * [Developer Hub](https://www.docs.developers.amplitude.com/)
 * [Academy & Training](https://academy.amplitude.com/)
 * [Professional Services](https://amplitude.com/services)
@@ -1790,7 +1790,7 @@ Resources
 Support
 
 * [Contact Us](https://amplitude.com/contact)
-* [Help Center](https://help.amplitude.com/hc/)
+* [Help Center](https://amplitude.com/docs)
 * [Community](https://amplitude.com/community)
 * [Developer Docs](https://developers.amplitude.com/docs)
 
