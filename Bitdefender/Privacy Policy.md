@@ -99,7 +99,7 @@
         GravityZone Add-ons
         
         * [Security for Mobile](https://www.bitdefender.com/en-us/business/gravityzone-addons/security-for-mobile)
-        * [Security for Email](https://www.bitdefender.com/en-us/business/products/security-for-email)
+        * [Security for Email](https://www.bitdefender.com/en-us/business/gravityzone-addons/email-security)
         * [Security for Storage](https://www.bitdefender.com/en-us/business/products/security-for-storage)
         * [Integrity Monitoring](https://www.bitdefender.com/en-us/business/products/gravityzone-integrity-monitoring)
         * [Patch Management](https://www.bitdefender.com/en-us/business/gravityzone-addons/patch-management)
