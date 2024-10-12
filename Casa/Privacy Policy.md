@@ -315,13 +315,13 @@ We retain Personal Data about you for as long as you have an open account with u
 
 **Personal Data of Children**
 
-**As noted in the Terms of Service, we do not knowingly collect or solicit Personal Data from children under 16  years of age; if you are a child under the age of 16, please do not attempt to register for or otherwise use the Services or send us any Personal Data. If we learn we have collected Personal Data from a child under 16 years of age, we will delete that information as quickly as possible. If you believe that a child under 16 years of age may have provided Personal Data to us, please contact us at** [**help@team.casa**](mailto:help@team.casa)**.  
+**As noted in the Terms of Service, we do not knowingly collect or solicit Personal Data from children under 16  years of age; if you are a child under the age of 16, please do not attempt to register for or otherwise use the Services or send us any Personal Data. If we learn we have collected Personal Data from a child under 16 years of age, we will delete that information as quickly as possible. If you believe that a child under 16 years of age may have provided Personal Data to us, please contact us at** [\[email protected\]](https://keys.casa/cdn-cgi/l/email-protection)**.  
   
-Please note that certain of the Services may require you to provide information regarding the child or children in relation to whom you may be using the Services, including Personal Information such as first and last name (among other information), in order to properly provide such Services to you. As noted above, we work to protect the security of any such information that you provide us, but please be aware that no method of transmitting data over the internet or storing data is completely secure. If you’d like to request that we delete any such information, please contact us at** [**help@team.casa**](mailto:help@team.casa)**.**
+Please note that certain of the Services may require you to provide information regarding the child or children in relation to whom you may be using the Services, including Personal Information such as first and last name (among other information), in order to properly provide such Services to you. As noted above, we work to protect the security of any such information that you provide us, but please be aware that no method of transmitting data over the internet or storing data is completely secure. If you’d like to request that we delete any such information, please contact us at** [\[email protected\]](https://keys.casa/cdn-cgi/l/email-protection)**.**
 
 **California Resident Rights**
 
-**Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Data to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at** [**help@team.casa**](mailto:help@team.casa)**.  
+**Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Data to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at** [\[email protected\]](https://keys.casa/cdn-cgi/l/email-protection)**.  
 **
 
 **European Union and United Kingdom Data Subject Rights**
@@ -333,7 +333,7 @@ EU and UK Residents**
   
 For this section, we use the terms “Personal Data” and “processing” as they are defined in the GDPR, but “Personal Data” generally means information that can be used to individually identify a person, and “processing” generally covers actions that can be performed in connection with data such as collection, use, storage and disclosure. Services will be the controller of your Personal Data processed in connection with the Services.  
   
-If there are any conflicts between this section and any other provision of this Privacy and Data Protection Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at** [**help@team.casa**](mailto:help@team.casa)**.  
+If there are any conflicts between this section and any other provision of this Privacy and Data Protection Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at** [\[email protected\]](https://keys.casa/cdn-cgi/l/email-protection)**.  
 **
 
 **  
@@ -382,7 +382,7 @@ Sharing Personal Data**
 
 **EU Data Subject Rights**
 
-**You have certain rights with respect to your Personal Data, including those set forth below. For more information about these rights, or to submit a request, please email us at help@team.casa. Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision. In some cases, we may also need you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request.** 
+**You have certain rights with respect to your Personal Data, including those set forth below. For more information about these rights, or to submit a request, please email us at [\[email protected\]](https://keys.casa/cdn-cgi/l/email-protection). Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision. In some cases, we may also need you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request.** 
 
 * **Access**: You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access certain of your Personal Data by logging on to your account.
 * **Rectification**: If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can also correct some of this information directly by logging on to your account.
@@ -395,7 +395,7 @@ Sharing Personal Data**
 
 **Transfers of Personal Data**
 
-**The Services are hosted and operated in the United States (“U.S.”) and elsewhere throughout the world through Casa and its service providers, where the laws may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Casa and will be hosted on U.S. servers and elsewhere throughout the world, and you authorize Casa to transfer, store and process your information to and in the U.S. and elsewhere throughout the world as necessary to perform our duties in providing you with the Services. Additionally, you understand that your Personal Data may be processed in countries (including the United States) where laws regarding processing Personal Information may be less stringent than in your country. Please contact us at** [**help@team.casa**](mailto:help@team.casa) **with any questions or concerns.**
+**The Services are hosted and operated in the United States (“U.S.”) and elsewhere throughout the world through Casa and its service providers, where the laws may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Casa and will be hosted on U.S. servers and elsewhere throughout the world, and you authorize Casa to transfer, store and process your information to and in the U.S. and elsewhere throughout the world as necessary to perform our duties in providing you with the Services. Additionally, you understand that your Personal Data may be processed in countries (including the United States) where laws regarding processing Personal Information may be less stringent than in your country. Please contact us at** [\[email protected\]](https://keys.casa/cdn-cgi/l/email-protection) **with any questions or concerns.**
 
 Changes to this Privacy and Data Protection Policy
 
@@ -408,7 +408,7 @@ Contact Information
 **
 
 * [https://casa.io](https://casa.io/)
-* [help@team.casa](mailto:help@team.casa)
+* [\[email protected\]](https://keys.casa/cdn-cgi/l/email-protection)
 * 1580 N. Logan St. Ste 660, PMB 78958 Denver, CO 80203-1942, United States
 
 **Effective Date: June 21, 2023**
