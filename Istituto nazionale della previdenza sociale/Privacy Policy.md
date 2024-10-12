@@ -360,6 +360,8 @@ it
             * [Digitalizzazione, innovazione e sicurezza nella PA](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/pnrr---piano-nazionale-ripresa-resilienza/digitalizzazione--innovazione-e-sicurezza-nella-pa.html)
             * [Digitalizzazione delle grandi amministrazioni centrali](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/pnrr---piano-nazionale-ripresa-resilienza/digitalizzazione-delle-grandi-amministrazioni-centrali.html)
             * [Target PNRR](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/pnrr---piano-nazionale-ripresa-resilienza/target-pnrr.html)
+            * [Nuovo portale multiservizio ASI](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/pnrr---piano-nazionale-ripresa-resilienza/nuovo-portale-multiservizio-asi.html)
+            * [Servizio di Instant Feedback](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/pnrr---piano-nazionale-ripresa-resilienza/servizio-di-instant-feedback.html)
             
         
     * [Verso la certificazione di parità](https://www.inps.it/it/it/inps-comunica/verso-la-certificazione-di-parita.html)
@@ -810,10 +812,10 @@ it
             * [Procedura Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-fascicolo-previdenziale-del-cittadino.html)
             * [Procedura Estratto Conto Contributivo](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-estratto-conto-contributivo.html)
             * [Dipendenti pubblici e privati: domanda prestazioni previdenziali](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/dipendenti-pubblici-e-privati-domanda-prestazioni-previdenziali.html)
+            * [Congedi di maternità e paternità](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/congedi-di-maternit-e-paternit.html)
             * [Procedura Cassetto previdenziale aziende](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-cassetto-previdenziale-aziende.html)
             * [Procedura Iscrizione e Variazione azienda](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-iscrizione-e-variazione-azienda.html)
             * [Procedura Portale delle Agevolazioni](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-portale-delle-agevolazioni.html)
-            * [Congedi di maternità e paternità](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/congedi-di-maternit-e-paternit.html)
             
         * [Per le imprese](#)
             
