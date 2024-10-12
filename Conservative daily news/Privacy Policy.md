@@ -126,6 +126,12 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Kamala Harris 2024 election media bias](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/clean-up-crew-2/)
+    
+    [Clean-up Crew](https://www.conservativedailynews.com/2024/10/clean-up-crew-2/)
+    
+    October 12, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-harris-go-neck-and-neck-across-key-swing-states/)
     
     [Trump, Harris Go Neck And Neck Across Key Swing States](https://www.conservativedailynews.com/2024/10/trump-harris-go-neck-and-neck-across-key-swing-states/)
@@ -168,15 +174,10 @@ Recent Posts
     
     October 11, 2024
     
-* [![Bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2023/08/stg082123dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/inflation-ticks-down-less-than-expected-as-fears-of-hot-economy-grow/)
-    
-    [Inflation Ticks Down Less Than Expected As Fears Of Hot Economy Grow](https://www.conservativedailynews.com/2024/10/inflation-ticks-down-less-than-expected-as-fears-of-hot-economy-grow/)
-    
-    October 10, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [New: Winchester Model 98 Signal Cannon](https://www.thegunpage.com/new-winchester-model-98-signal-cannon/10611164)
 * [TFB Review: Magpul SL MP5 Stock](https://www.thegunpage.com/tfb-review-magpul-sl-mp5-stock/10611160)
 * [POTD: Revolver That Fires Rubber Balls Using Blank Cartridges](https://www.thegunpage.com/potd-revolver-that-fires-rubber-balls-using-blank-cartridges/10611161)
 * [TFB Podcast Roundup 150: The October 11th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-150-the-october-11th-roundup/10611162)
@@ -185,7 +186,6 @@ Recent Posts
 * [New CZ 600+ ERGO DRIVEN HUNT Rifle](https://www.thegunpage.com/new-cz-600-ergo-driven-hunt-rifle/10611155)
 * [Court Blocks Enforcement Of NY Carry Ban On Private Property Open To The Public](https://www.thegunpage.com/court-blocks-enforcement-of-ny-carry-ban-on-private-property-open-to-the-public/10611148)
 * [FN Introduces the FN SCAR 15P In .300 BLACKOUT](https://www.thegunpage.com/fn-introduces-the-fn-scar-15p-in-300-blackout/10611146)
-* [Gov. Sarah Sanders, Sen. John Boozman Headline SIG Sauer Jacksonville Arkansas Ammunition Center Grand Opening](https://www.thegunpage.com/gov-sarah-sanders-sen-john-boozman-headline-sig-sauer-jacksonville-arkansas-ammunition-center-grand-opening/10611151)
 * [Hunter Attacked And Severely Bitten By Grizzly In Wyoming](https://www.thegunpage.com/hunter-attacked-and-severely-bitten-by-grizzly-in-wyoming/10611144)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
