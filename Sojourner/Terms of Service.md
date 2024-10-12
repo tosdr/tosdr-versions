@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-139109e90d8040b83a59a43179d5b00d
+aeb310345c7e86d1e1c46328417cd3f9
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,9 +142,9 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm flat round oregon blue opal beads](https://sojourner.biz/images/cache/aquamarine/AQM009.200.jpg)](https://sojourner.biz/beads/stone-a-l/aquamarine/12-mm-flat-round-oregon-blue-opal-beads.html "12 mm flat round oregon blue opal beads")
+[![Vintage Czech two-hole square beads](https://sojourner.biz/images/cache/glass/GL0053.200.jpg)](https://sojourner.biz/beads/glass/vintage-czech-two-hole-square-beads.html "Vintage Czech two-hole square beads")
 
-#### [12 mm flat round oregon blue opal beads](https://sojourner.biz/beads/stone-a-l/aquamarine/12-mm-flat-round-oregon-blue-opal-beads.html "12 mm flat round oregon blue opal beads")
+#### [Vintage Czech two-hole square beads](https://sojourner.biz/beads/glass/vintage-czech-two-hole-square-beads.html "Vintage Czech two-hole square beads")
 
 $25.00
 
