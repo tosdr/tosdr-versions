@@ -19,7 +19,7 @@ Menu
     * [Robert Louis Stevenson Trail](https://tane.harre.nz/tags/robert-louis-stevenson-trail/)
     * [Te Araroa](https://tane.harre.nz/tags/te-araroa/)
 
-Last Updated: 11/10/2024
+Last Updated: 12/10/2024
 
 Privacy Policy
 ==============
@@ -109,23 +109,23 @@ I am a New Zealander, living in France, who is interested in guitar, hiking, ope
 
 ### Related posts
 
+[![](https://tane.harre.nz/media/posts/687/responsive/Fake_News-xs.jpeg)](https://tane.harre.nz/does-trade-me-deserve-the-privacy-trust-mark/)
+
+#### [Does Trade Me deserve the Privacy Trust Mark?](https://tane.harre.nz/does-trade-me-deserve-the-privacy-trust-mark/)
+
+13/05/2018
+
 [![](https://tane.harre.nz/media/posts/688/responsive/Parliament_House_Wellington_New_Zealand_50-xs.jpg)](https://tane.harre.nz/make-a-submission-on-the-privacy-bill/)
 
 #### [Make a submission on the Privacy Bill](https://tane.harre.nz/make-a-submission-on-the-privacy-bill/)
 
 16/05/2016
 
-[![](https://tane.harre.nz/media/posts/676/responsive/Privacy-Security-Freedom-1080x675-xs.png)](https://tane.harre.nz/privacy-is-a-limit-on-power/)
+[![](https://tane.harre.nz/media/posts/686/responsive/The_Privacy_Shop_banner-1080x496-xs.jpg)](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
 
-#### [Privacy is a limit on power](https://tane.harre.nz/privacy-is-a-limit-on-power/)
+#### [What is the cost of privacy online?](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
 
-16/04/2018
-
-[![](https://tane.harre.nz/media/posts/690/responsive/Eu-European-Union-Data-Regulation-Gdpr-3222692-xs.jpg)](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
-
-#### [GDPR Privacy Policy Overview for New Zealand](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
-
-24/05/2018
+12/05/2018
 
 Comments
 --------
@@ -165,7 +165,7 @@ Comments
 * [File Sharing](https://tane.harre.nz/tags/file-sharing/) (3)
 * [Fontainebleau](https://tane.harre.nz/tags/fontainebleau/) (7)
 * [Fontainebleau Info](https://tane.harre.nz/tags/fontainebleau-info/) (20)
-* [Food](https://tane.harre.nz/tags/food/) (2)
+* [Food](https://tane.harre.nz/tags/food/) (3)
 * [France](https://tane.harre.nz/tags/france/) (40)
 * [Great Barrier Island](https://tane.harre.nz/tags/great-barrier-island/) (12)
 * [Grez Sur Loing](https://tane.harre.nz/tags/grez-sur-loing/) (2)
