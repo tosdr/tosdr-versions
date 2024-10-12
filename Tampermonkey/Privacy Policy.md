@@ -288,6 +288,6 @@ As a responsible company, we do not use automatic decision-making or profiling.
 
 Effective Date: 2023-02-21
 
-10/11/2024, 10:24:07 PM [Imprint](https://tampermonkey.net/imprint.php)   [Privacy Policy](https://tampermonkey.net/privacy.php)
+10/12/2024, 3:53:11 AM [Imprint](https://tampermonkey.net/imprint.php)   [Privacy Policy](https://tampermonkey.net/privacy.php)
 
 [▲](# "Scroll to top")
