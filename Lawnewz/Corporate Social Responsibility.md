@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Joel Castillo appears inset against an image of the apartment complex where he was fatally shot.](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Joel-Castillo-432x243.jpg)](https://lawandcrime.com/crime/14-year-old-killer-taunted-16-year-old-neighbor-about-his-mother-recently-dying-in-a-car-crash-before-shooting-him-police/)
+1. [![Brittani Moore mug shot after arrest in sister's shooting death.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Brittni-Moore--432x243.jpg)](https://lawandcrime.com/crime/woman-shot-sister-in-the-back-of-the-head-before-taking-lyft-to-publix-called-911-and-tried-to-pin-murder-on-husbands-pregnant-girlfriend-sheriff/)
     
-    ### [14-year-old killer taunted 16-year-old neighbor about his mother recently dying in a car crash before shooting him: Police](https://lawandcrime.com/crime/14-year-old-killer-taunted-16-year-old-neighbor-about-his-mother-recently-dying-in-a-car-crash-before-shooting-him-police/)
+    ### [Woman shot sister in the back of the head before taking Lyft to Publix, calling 911, and trying to pin murder on husband's pregnant girlfriend: Sheriff](https://lawandcrime.com/crime/woman-shot-sister-in-the-back-of-the-head-before-taking-lyft-to-publix-called-911-and-tried-to-pin-murder-on-husbands-pregnant-girlfriend-sheriff/)
     
-2. [![The Conway (S.C.) Police Department (Google Maps)](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Conway-S.C.-Police-Department-432x243.jpg)](https://lawandcrime.com/lawsuit/woman-who-got-bad-vibes-during-botched-facebook-marketplace-deal-forced-to-endure-jail-cell-with-trash-everywhere-blood-on-walls-after-wrongful-arrest-lawsuit/)
+2. [![YSL RICO judge, Fani Willis](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Fani-Willis-432x243.jpg)](https://lawandcrime.com/live-trials/live-trials-current/ysl-rico-case/it-shouldnt-be-happening-judge-calls-out-fani-willis-for-email-reply-all-screw-up-in-ysl-rico-case-already-tripped-up-by-secret-talks/)
     
-    ### [Woman who got 'bad vibes' during botched Facebook Marketplace deal forced to endure jail cell with 'trash everywhere, blood on walls' after wrongful arrest: Lawsuit](https://lawandcrime.com/lawsuit/woman-who-got-bad-vibes-during-botched-facebook-marketplace-deal-forced-to-endure-jail-cell-with-trash-everywhere-blood-on-walls-after-wrongful-arrest-lawsuit/)
+    ### ['It shouldn't be happening': Judge calls out Fani Willis for email reply all screw-up in YSL RICO case already tripped up by secret talks](https://lawandcrime.com/live-trials/live-trials-current/ysl-rico-case/it-shouldnt-be-happening-judge-calls-out-fani-willis-for-email-reply-all-screw-up-in-ysl-rico-case-already-tripped-up-by-secret-talks/)
     
 3. [![Alice ](https://am21.mediaite.com/lc/cnt/uploads/2024/01/Alice-Alyx-Kamakaokalani-Herrmann-Theobald-22Theo22-Brooks-Lengyel-432x243.jpg)](https://lawandcrime.com/crime/former-mr-bungle-rocker-found-guilty-of-murdering-girlfriend-who-recorded-her-last-moments-alive/)
     
     ### ['You're gonna f—ing die right now. Are you ready?': Ex-rocker convicted of murdering girlfriend who chillingly recorded her last moments alive](https://lawandcrime.com/crime/former-mr-bungle-rocker-found-guilty-of-murdering-girlfriend-who-recorded-her-last-moments-alive/)
     
-4. [![Shirl Lee Sweeney (Charleston County (S.C.) Sheriff's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Shirl-Lee-Sweeney-432x243.jpg)](https://lawandcrime.com/crime/woman-let-diabetic-teen-die-from-milkshake-after-months-of-failing-to-give-her-insulin-police/)
+4. [![The Conway (S.C.) Police Department (Google Maps)](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Conway-S.C.-Police-Department-432x243.jpg)](https://lawandcrime.com/lawsuit/woman-who-got-bad-vibes-during-botched-facebook-marketplace-deal-forced-to-endure-jail-cell-with-trash-everywhere-blood-on-walls-after-wrongful-arrest-lawsuit/)
     
-    ### [Woman let diabetic teen die from milkshake after months of failing to give her insulin: Police](https://lawandcrime.com/crime/woman-let-diabetic-teen-die-from-milkshake-after-months-of-failing-to-give-her-insulin-police/)
+    ### [Woman who got 'bad vibes' during botched Facebook Marketplace deal forced to endure jail cell with 'trash everywhere, blood on walls' after wrongful arrest: Lawsuit](https://lawandcrime.com/lawsuit/woman-who-got-bad-vibes-during-botched-facebook-marketplace-deal-forced-to-endure-jail-cell-with-trash-everywhere-blood-on-walls-after-wrongful-arrest-lawsuit/)
     
-5. [![Inset: Stephanie Phillips-Siwiec (Fulton County Sheriff). Background: Wellstar North Fulton Medical Center (WAGA).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/hospital-432x243.jpg)](https://lawandcrime.com/crime/hospital-nurse-used-hand-sanitizer-to-steal-wedding-rings-from-dementia-patient-dislocating-a-finger-cops/)
+5. [![Dr. Dre, Dr. Charles Sophy](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Dr-Dre-Charles-Sophy-432x243.jpg)](https://lawandcrime.com/lawsuit/you-f-ed-with-the-wrong-one-high-profile-psychiatrist-and-marriage-counselor-files-bombshell-lawsuit-against-dr-dre-claiming-bizarre-fake-fbi-agent-intimidation/)
     
-    ### [Hospital nurse used hand sanitizer to steal wedding rings from dementia patient, dislocating a finger: Cops](https://lawandcrime.com/crime/hospital-nurse-used-hand-sanitizer-to-steal-wedding-rings-from-dementia-patient-dislocating-a-finger-cops/)
+    ### ['You f—ed with the wrong one': High-profile psychiatrist and marriage counselor files bombshell lawsuit against Dr. Dre claiming bizarre fake FBI agent intimidation](https://lawandcrime.com/lawsuit/you-f-ed-with-the-wrong-one-high-profile-psychiatrist-and-marriage-counselor-files-bombshell-lawsuit-against-dr-dre-claiming-bizarre-fake-fbi-agent-intimidation/)
     
 
 [](http://eepurl.com/c89Jdb)
