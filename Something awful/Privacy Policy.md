@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [21 Jump Street; Jeff, Who Lives at Home; 1000 Words](https://www.somethingawful.com/current-movie-reviews/jump-street-jeff/1/)
-* [Joyful Noise; Contraband; The Artist](https://www.somethingawful.com/current-movie-reviews/joyful-noise-contraband/1/)
-* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
-* [I Want to Believe in Change](https://www.somethingawful.com/news/joe-biden-believe/)
-* [Classic Comics III](https://www.somethingawful.com/photoshop-phriday/classic-comics-iii/1/)
+* [Memos from Bear Cave: Daddy's Home](https://www.somethingawful.com/news/bear-cave-daddy/)
+* [ValueClick Wants You... To Delete Your Content!](https://www.somethingawful.com/hogosphere/valueclick-and-censorship/1/)
+* [State Og Update: 01.08.05](https://www.somethingawful.com/state-og/state-og-update-96/)
+* [State Og Update: 09.25.04](https://www.somethingawful.com/state-og/state-og-update-84/)
+* [State Og Update: 05.14.05](https://www.somethingawful.com/state-og/state-og-update-110/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [ITT it is the 1990s and we are watching TV at 2AM](http://forums.somethingawful.com/showthread.php?threadid=4072465 "ITT it is the 1990s and we are watching TV at 2AM")
 * ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [all your wildest dreams are about to come true](http://forums.somethingawful.com/showthread.php?threadid=4072500 "all your wildest dreams are about to come true")
+* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [ITT it is the 1990s and we are watching TV at 2AM](http://forums.somethingawful.com/showthread.php?threadid=4072465 "ITT it is the 1990s and we are watching TV at 2AM")
 
 ### Random Articles
 
-* [Putting the Lord to Good Use](https://www.somethingawful.com/news/putting-lord-good/)
-* [The Caricature Art of Doctor Dogballs!](https://www.somethingawful.com/photoshop-phriday/celebrity-caricature-art/)
-* [The Writer's Notebook: Chuck Palahniuk](https://www.somethingawful.com/news/writers-notebook-chuck/)
-* [Silent Hill 5 Exclusive Scoops!](https://www.somethingawful.com/hogosphere/silent-hill-exclusive/1/)
-* [Belly Punishment (Thanks, SlimGoodbody!) (NWS!)](https://www.somethingawful.com/awful-links/belly-punishment-fetish/)
+* [Afterlife Telegrams](https://www.somethingawful.com/awful-links/awful-link-1262/)
+* [The SummerSled](https://www.somethingawful.com/awful-links/awful-link-1118/)
+* [Sullie.com](https://www.somethingawful.com/awful-links/awful-link-1103/)
+* [Coming To Terms With Watch Dogs Special Edition Bonuses](https://www.somethingawful.com/news/watch-dogs-bonuses/)
+* [The Official Dragonlance Faq](https://www.somethingawful.com/awful-links/awful-link-3892/)
 
 [Random!](https://www.somethingawful.com/random/)
 
