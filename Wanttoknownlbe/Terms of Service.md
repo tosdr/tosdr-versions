@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/illuminati-insider-financiele-crisis-is-nodig-om-een-wereldregering-te-realiseren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/het-bewijs-nieuwe-energie-technologie-bestaat/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
