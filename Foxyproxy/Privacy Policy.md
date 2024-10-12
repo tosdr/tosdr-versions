@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great customer service :)
+I love FoxyProxy so I can watch British tele !
 
-Ken Agee
+Jim Stockbauer
