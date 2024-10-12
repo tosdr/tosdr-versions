@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[15% Off All Home Safety Prodcts I Code: HOME15](https://www.thehomesecuritysuperstore.com/collections/home-safety?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+All+Home+Safety+Prodcts)
+[15% Off Stun Guns & Batons | Use Code: SB15](https://www.thehomesecuritysuperstore.com/collections/self-defense?utm_source=website&utm_medium=merchant&utm_campaign=15%25+Off+Stun+Guns+%26+Batons)
 
-Today’s offer: :: | 15% Off All Home Safety Prodcts I Code: HOME15
+Today’s offer: :: | 15% Off Stun Guns & Batons | Use Code: SB15
 
 Today’s offer: : :
 
- 15% Off All Home Safety Prodcts I Code: HOME15
+ 15% Off Stun Guns & Batons Use Code: SB15
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
