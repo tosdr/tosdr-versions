@@ -87,8 +87,9 @@
     4. [Where We Work](https://www.compassion.com/where-we-work.htm)
     5. [Press Center](https://www.compassion.com/press-center.htm)
     6. [Financial Integrity](https://www.compassion.com/about/financial.htm)
-    7. [Careers](https://www.compassion.com/employment/christian-employment.htm)
-    8. [FAQ](https://www.compassion.com/about/faq.htm)
+    7. [Accountability Report](https://www.compassion.com/about/accountability-report.htm)
+    8. [Careers](https://www.compassion.com/employment/christian-employment.htm)
+    9. [FAQ](https://www.compassion.com/about/faq.htm)
     
 * [For Sponsors](https://www.compassion.com/for-sponsors/)
     
@@ -162,9 +163,11 @@ Search text fields
     4. [Where We Work](https://www.compassion.com/where-we-work.htm)
     5. [Press Center](https://www.compassion.com/press-center.htm)
     6. [Financial Integrity](https://www.compassion.com/about/financial.htm)
-    7. [Careers](https://www.compassion.com/employment/christian-employment.htm)
-    8. [Tour Our Ministry Center](https://www.compassion.com/tours/colorado-springs-tours.htm)
-    9. [FAQ](https://www.compassion.com/about/faq.htm)
+    7. [Accountability Report](https://www.compassion.com/about/accountability-report.htm)
+    8. [Careers](https://www.compassion.com/employment/christian-employment.htm)
+    9. [Tour Our Ministry Center](https://www.compassion.com/tours/colorado-springs-tours.htm)
+    10. [FAQ](https://www.compassion.com/about/faq.htm)
+    11. [Accountability Report](https://www.compassion.com/about/accountability-report.htm)
     
 5. [For Sponsors\>](https://www.compassion.com/for-sponsors/default.htm)
     
