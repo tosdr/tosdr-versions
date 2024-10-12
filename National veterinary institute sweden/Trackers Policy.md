@@ -1278,7 +1278,6 @@ Gå direkt till :
         * [Lediga jobb](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/)[](#)
             * [Helpdesktekniker](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/helpdesktekniker/)
             * [Systemutvecklare](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/systemutvecklare/)
-            * [Laboratoriedjurstekniker - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratoriedjurstekniker-intermittent-anstallning/)
             * [Analytisk kemist](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/analytisk-kemist/)
             * [Biomedicinsk analytiker (BMA)](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/biomedicinsk-analytiker-bma/)
         * [SVA som arbetsplats](https://www.sva.se/om-oss/arbeta-hos-oss/sva-som-arbetsplats/)
