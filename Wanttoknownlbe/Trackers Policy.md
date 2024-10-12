@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/%e2%80%98ufo%e2%80%99s-bestaan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/hoe-een-overheid-een-persoon-kapot-wil-maken/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
