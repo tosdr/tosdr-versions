@@ -28,7 +28,7 @@ Terms of Service
 **Tree Social OY** Terms and Conditions  
 Last Updated: 21 August, 2022  
   
-These Terms and Conditions ("Terms", "Terms and Conditions") govern your relationship with the [https://simplePDF.eu](https://simplepdf.eu/) website (the "Service") operated by **Tree Social OY** ("us", "we", or "our").  
+These Terms and Conditions ("Terms", "Terms and Conditions") govern your relationship with the [https://simplepdf.com](https://simplepdf.com/) website (the "Service") operated by **Tree Social OY** ("us", "we", or "our").  
   
 Please read these Terms and Conditions carefully before using the Service.  
   
@@ -130,7 +130,7 @@ By continuing to access or use our Service after those revisions become effectiv
 How to contact us
 -----------------
 
-If you have any questions about these terms, please email us at: [tos@simplePDF.eu](mailto:tos@simplePDF.eu)
+If you have any questions about these terms, please email us at: [tos@simplepdf.com](mailto:tos@simplepdf.com)
 
 [?](https://simplepdf.eu/help)Feedback
 
