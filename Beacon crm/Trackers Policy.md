@@ -416,6 +416,6 @@ Try Beacon for free today.
 
 **Contact**
 
-[020 3886 0205](tel:02038860205)[support@beaconcrm.org](mailto:support@beaconcrm.org)
+[020 3886 0205](tel:02038860205)[\[email protected\]](https://www.beaconcrm.org/cdn-cgi/l/email-protection)
 
 ©2024 Beacon Apps Ltd. All Rights Reserved. 4-6 New Inn Broadway, London EC2A 3PR
