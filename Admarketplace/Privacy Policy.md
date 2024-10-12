@@ -151,7 +151,7 @@ adMarketplace, Inc.,
 90 Park Ave,  
 11th Floor New York, NY 10016 USA  
 Tel. +1 212 925 2022  
-Email: [privacy@admarketplace.com](mailto:privacy@admarketplace.com)
+Email: [\[email protected\]](https://www.admarketplace.com/cdn-cgi/l/email-protection)
 
 **3\. Purposes of and Legal Bases for Processing of Personal Information**
 --------------------------------------------------------------------------
@@ -366,7 +366,7 @@ Data Privacy Framework (DPF) program, and to view our certification, please visi
 
 In compliance with the EU-US DPF Principles, adMarketplace commits to resolve complaints  
 about our collection or use of your personal information.  EU or UK individuals with questions  
-concerning our DPF policy may directed them to [privacy@admarketplace.com](mailto:privacy@admarketplace.com). If we have  
+concerning our DPF policy may directed them to [\[email protected\]](https://www.admarketplace.com/cdn-cgi/l/email-protection). If we have  
 not been able to satisfactorily resolve the issue, then, you may submit your complaint to  
 JAMS using this link: [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework).  
 JAMS is adMarketplace’s designated DPF dispute resolution provider.
@@ -434,7 +434,7 @@ Protection Laws, which may include the following:
     your rights.
 18. To Lodge a Complaint – We appreciate the opportunity to address any complaint you  
     may have about our processing of your personal information or handling of your rights  
-    request, so please direct any concerns to us via email at [privacy@admarketplace.com](mailto:privacy@admarketplace.com).  
+    request, so please direct any concerns to us via email at [\[email protected\]](https://www.admarketplace.com/cdn-cgi/l/email-protection).  
     Regardless, you have the right to complain to a data protection authority about our  
     collection and use of your personal information. Contact details for data protection  
     authorities in the European Economic Area are available here:  
@@ -447,7 +447,7 @@ information.
 
 In regard to Personal Information collected from our own website ([adMarketplace.com](http://admarketplace.com/)),  
 you can withdraw your consent by contacting us. In regard to Europe Data, you may also  
-contact our DPO at [dpo@admarketplace.com](mailto:dpo@admarketplace.com) or [privacy@admarketplace.com](mailto:privacy@admarketplace.com) .
+contact our DPO at [\[email protected\]](https://www.admarketplace.com/cdn-cgi/l/email-protection) or [\[email protected\]](https://www.admarketplace.com/cdn-cgi/l/email-protection) .
 
 **14\. California requirements**
 --------------------------------
@@ -477,7 +477,7 @@ on a regular basis.
 --------------
 
 For any questions about our privacy practices, you may contact our data protection officer  
-and privacy team by email here: [privacy@admarketplace.com](mailto:privacy@admarketplace.com), or via:
+and privacy team by email here: [\[email protected\]](https://www.admarketplace.com/cdn-cgi/l/email-protection), or via:
 
 Our postal address:  
 adMarketplace Inc.  
