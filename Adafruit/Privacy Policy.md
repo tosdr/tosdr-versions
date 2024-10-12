@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Things do not happen. Things are made to happen”
+“ Sometimes magic is just spending more time on something than anyone would reasonably expect”
 
-[John F. Kennedy](http://library.und.edu/digital/john-f-kennedy-archive/delivered.php)
+[Teller](http://en.wikipedia.org/wiki/Teller_%28magician%29)
 
 [](https://www.adafruit.com/about)
 
