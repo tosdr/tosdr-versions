@@ -84,7 +84,7 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[![image Yoga Trapèze](/storage/highlights/61343/highlight.webp?v=876080)
+[![image Yoga Trapèze](/storage/highlights/61343/highlight.webp?v=319191)
 
 ##### Yoga Trapèze
 
@@ -92,7 +92,7 @@ lun. 27 janvier 2025 - **12:00** à Crissier salle 2
 
 Le Yoga Trapez est l'outil d'inversion de yoga le plus puissant jamais créé.  Les avantages du yoga d'inversion...](https://app.pole-emotion.ch/cours/61343)[](https://app.pole-emotion.ch/evjf)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=877607)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=320504)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
