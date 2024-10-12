@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Back Then Right NowTyler Hubbard<br><br>11:38am |
-| Backseat DriverKane Brown<br><br>11:34am |
-| Lies, Lies, LiesMorgan Wallen<br><br>11:31am |
-| Boot Scootin' BoogieBrooks And Dunn<br><br>11:28am |
-| A Bar Song (Tipsy)Shaboozey<br><br>11:25am |
+| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>5:39pm |
+| One Number AwayLuke Combs<br><br>5:35pm |
+| Man Made A BarMorgan Wallen Ft Eric Church<br><br>5:32pm |
+| Where It EndsBailey Zimmerman<br><br>5:23pm |
+| Am I OkMegan Moroney<br><br>5:19pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-News Talk • Eastern
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
+Country • Western
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Country • Western
+Top 40 • Pacific NW
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
