@@ -130,6 +130,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
+
+  [![Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427344.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.")](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
+
 [Ban on dual nationality is constitutional, Fukuoka High Court rules](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
 
   [![Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427084.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.")](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
@@ -146,12 +150,16 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Nobuyo Oyama](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Nobuyo Oyama")](https://www.japantimes.co.jp/culture/2024/10/11/entertainment-news/nobuyo-oyama-obituary/ "Long-time 'Doraemon' voice actor Nobuyo Oyama dies at 90")
 
-[Ishiba keeps low profile as he makes diplomatic debut](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
-
-  [![Ishiba addresses the ASEAN-Japan Summit meeting in Laos on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427091.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Ishiba addresses the ASEAN-Japan Summit meeting in Laos on Thursday.")](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
-
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
+
+By [Kanako Takahara](https://www.japantimes.co.jp/author/162/kanako-takahara/ "Kanako Takahara"), [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang") and [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
+
+  [![Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427344.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.")](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -183,14 +191,6 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
   [![Nobuyo Oyama](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Nobuyo Oyama")](https://www.japantimes.co.jp/culture/2024/10/11/entertainment-news/nobuyo-oyama-obituary/ "Long-time 'Doraemon' voice actor Nobuyo Oyama dies at 90")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Ishiba keeps low profile as he makes diplomatic debut](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
-
-By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez") and [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
-
-  [![Ishiba addresses the ASEAN-Japan Summit meeting in Laos on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427091.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Ishiba addresses the ASEAN-Japan Summit meeting in Laos on Thursday.")](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
-
 Podcast
 -------
 
@@ -210,9 +210,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,25 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
+[Ishiba reiterates need for nuclear deterrence despite group's Nobel Prize](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/ishiba-nuclear-deterrance/ "Ishiba reiterates need for nuclear deterrence despite group's Nobel Prize")
 
 1 hours ago
 
-[Nippon Steel will exit Alabama plant if U.S. Steel bid succeeds](https://www.japantimes.co.jp/business/2024/10/12/companies/nippon-steel-alabama/ "Nippon Steel will exit Alabama plant if U.S. Steel bid succeeds")
+[China's stimulus message leaves investors wanting though hanging onto hope](https://www.japantimes.co.jp/business/2024/10/12/economy/china-stimulus-message-investors-disappoint/ "China's stimulus message leaves investors wanting though hanging onto hope")
 
-2 hours ago
+4 hours ago
 
-[Japan's MSDF eyeing Starlink for better internet connectivity at sea](https://www.japantimes.co.jp/news/2024/10/12/japan/msdf-better-internet/ "Japan's MSDF eyeing Starlink for better internet connectivity at sea")
+[Victims of Typhoon Hagibis remembered five years after disaster](https://www.japantimes.co.jp/news/2024/10/12/japan/miyagi-typhoon-victims-remembered/ "Victims of Typhoon Hagibis remembered five years after disaster")
 
-2 hours ago
+4 hours ago
 
-[Nobel laureate Nihon Hidankyo co-chair worries about children in Israel and Gaza](https://www.japantimes.co.jp/news/2024/10/12/japan/hidankyo-israel-gaza-children-worry/ "Nobel laureate Nihon Hidankyo co-chair worries about children in Israel and Gaza")
+[People in Hiroshima and Nagasaki reiterate call for peace after Nobel win](https://www.japantimes.co.jp/news/2024/10/12/japan/hiroshima-nagasaki-peace-call/ "People in Hiroshima and Nagasaki reiterate call for peace after Nobel win")
 
-3 hours ago
+4 hours ago
 
-[Nobel prize is a warning to a world on the nuclear brink](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel prize is a warning to a world on the nuclear brink")
+[Lawson and FamilyMart post higher first-half profits](https://www.japantimes.co.jp/business/2024/10/12/companies/lawson-familymart-profits/ "Lawson and FamilyMart post higher first-half profits")
 
-3 hours ago
+5 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
