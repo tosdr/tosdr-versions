@@ -28,7 +28,7 @@ Search transit system
 
 * [100 Mile House](https://www.bctransit.com/100-mile-house)
 * [Agassiz-Harrison](https://www.bctransit.com/agassiz-harrison)
-* [Ashcroft-Cache-Creek-Clinton](https://www.bctransit.com/ashcroft-cache-creek-clinton)
+* [Ashcroft-Cache Creek-Clinton](https://www.bctransit.com/ashcroft-cache-creek-clinton)
 * [Bella Coola Valley](https://www.bctransit.com/bella-coola-valley)
 * [Boundary](https://www.bctransit.com/boundary)
 * [Bulkley-Nechako](https://www.bctransit.com/bulkley-nechako)
