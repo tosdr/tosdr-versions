@@ -32,7 +32,7 @@ Bring! Labs AG
 Räffelstrasse 26  
 CH-8045 Zürich  
   
-If you have any questions about this Privacy Notice, you may contact us at any time by sending us an email (feedback@getbring.com).
+If you have any questions about this Privacy Notice, you may contact us at any time by sending us an email ([\[email protected\]](https://www.getbring.com/cdn-cgi/l/email-protection)).
 
 **What is the Bring! App and how can I use the Bring! App?**
 ------------------------------------------------------------
@@ -140,7 +140,7 @@ We use the personal data mentioned above for the following purposes:
 * to improve our app and our website based on user habits
 * to allow you to use certain services in our app and on our website
 * for purposes of analysis and performance in order to improve your experience with our app continuously
-* if available to you - to inform you as registered user of our app by email about new recipes and trends and to keep you up to date on news about our app. You may withdraw your consent to receive such information at any time by sending us an email at feedback@getbring.com or by clicking on the link in the respective email
+* if available to you - to inform you as registered user of our app by email about new recipes and trends and to keep you up to date on news about our app. You may withdraw your consent to receive such information at any time by sending us an email at [\[email protected\]](https://www.getbring.com/cdn-cgi/l/email-protection) or by clicking on the link in the respective email
 * to notify you of suitable recipes, offers and promotions that might interest you or to point out to you shopping opportunities in your proximity
 * to provide you with interesting insights into your shopping behaviour on a regular basis (once a month at the most) in the app or via email (for example: your most frequently purchased items or your use of shopping lists compared to other list recipients)
 * to provide you with relevant advertising and retargeting on our app and website
@@ -274,7 +274,7 @@ You have the right to file a complaint about the collection and use of your pers
 How to contact us
 -----------------
 
-If you have questions or concerns regarding the use of your personal data, you may raise them at any time by contacting us at [feedback@getbring.com](mailto:mailto:feedback@getbring.com).  
+If you have questions or concerns regarding the use of your personal data, you may raise them at any time by contacting us at [\[email protected\]](https://www.getbring.com/cdn-cgi/l/email-protection).  
 
 ![](https://cdn.prod.website-files.com/5fbe6548a005d56f0dd39a2e/5fc24a65f7e1555200865e1b_bring-logo.svg)
 
