@@ -30,32 +30,28 @@ FOX SCORES
     
 * [Women's T20 WC
     
-    12/10 21:00 AEST
+    NZL won by 8 wkts
     
     |     |     |
     | --- | --- |
-    | NZL | –   |
-    | SRI | –   |
+    | NZL | 2 /118 |
+    | SRI | 5 /115 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250115)
 * [Women's T20 WC
     
-    13/10 1:00 AEST
-    
     |     |     |
     | --- | --- |
-    | BAN | –   |
-    | RSA | –   |
+    | BAN | 1 /1 |
+    | RSA |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250116)
 * [Men's T20I
     
-    13/10 0:30 AEST
-    
     |     |     |
     | --- | --- |
-    | IND | –   |
-    | BAN | –   |
+    | IND | 1 /96 |
+    | BAN |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250103)
 * [Women's T20
@@ -80,24 +76,44 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250106)
 * [Women's T20
     
-    12/10 19:00 AEST
+    SYD6 won by 3 runs
     
     |     |     |
     | --- | --- |
-    | SYD6 | –   |
-    | BRI | –   |
+    | SYD6 | 5 /147 |
+    | BRI | 9 /144 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250107)
 * [Women's T20
     
-    12/10 19:30 AEST
+    HOB won by 5 wkts
     
     |     |     |
     | --- | --- |
-    | ADE | –   |
-    | HOB | –   |
+    | ADE | 137 |
+    | HOB | 5 /141 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250108)
+* [Women's T20
+    
+    13/10 14:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYDT | –   |
+    | MELS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250109)
+* [One-Day Cup
+    
+    13/10 13:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WA  | –   |
+    | QLD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250107)
 * NRL
     
 * [ESL
@@ -164,36 +180,56 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240707)
 * [AFL Women's
     
-    12/10 19:15 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | FRE | –   |
-    | CAR | –   |
+    | FRE | 4.6.30 |
+    | CAR | 5.4.34 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240708)
+* [AFL Women's
+    
+    13/10 13:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NM  | –   |
+    | SYD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240709)
 * Basketball
     
 * [NBL
     
-    3rd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | ILL | 77  |
-    | TAS | 51  |
+    | ILL | 109 |
+    | TAS | 76  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040003/play-by-play)
 * [NBL
     
-    12/10 20:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | SEM | –   |
-    | BRI | –   |
+    | SEM | 85  |
+    | BRI | 87  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040004)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040004/play-by-play)
+* [NBL
+    
+    13/10 14:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYD | –   |
+    | CAI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040005)
 * Baseball
     
 * [MLB
