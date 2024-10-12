@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukovo-0001-umetnici-radovi-atmosfera/marko-kovacic/marko-kovaccicc.jpg?itok=0KUtoD96)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukovo-0001-umetnici-radovi-atmosfera/marko-kovacic)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/aleksandar-rafajlovic/slikao-sam-airtona-senu/kljuc-u-ruke.jpg?itok=8z3G1BeX)](http://seecult.org/galerija/galerija-umetnika/aleksandar-rafajlovic/slikao-sam-airtona-senu)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/coolio.jpg?itok=d27K0E-a)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/stefan-labina-teona-bojan-vuletic.jpg?itok=MH694-U4)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,9 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Sunce nikad više premijerno u Talinu](http://seecult.org/vest/sunce-nikad-vise-premijerno-u-talinu)
+* [Mihalkov u Narodnom pozorištu](http://seecult.org/vest/mihalkov-u-narodnom-pozoristu)
+* [Ne idi daleko najbolja predstava 19. Zvezdarišta](http://seecult.org/vest/ne-idi-daleko-najbolja-predstava-19-zvezdarista)
 * [Beogradski aplauz za Grlićev ljubavni triler i kritiku društva](http://seecult.org/vest/beogradski-aplauz-za-grlicev-ljubavni-triler-i-kritiku-drustva)
 * [Nadrealizam u MSUB-u](http://seecult.org/vest/nadrealizam-u-msub-u)
 * [Muška suza u JDP-u](http://seecult.org/vest/muska-suza-u-jdp-u)
@@ -349,9 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [60 godina Galerije DOB-a](http://seecult.org/vest/60-godina-galerije-dob)
 * [Sprečiti zatvaranje Remonta](http://seecult.org/vest/spreciti-zatvaranje-remonta)
 * [59\. Dečji oktobarski salon – S druge strane stvarnosti](http://seecult.org/vest/59-decji-oktobarski-salon-s-druge-strane-stvarnosti)
-* [Ućutkivanje Sokrata aktuelno vekovima](http://seecult.org/vest/ucutkivanje-sokrata-aktuelno-vekovima)
-* [Uži izbor za nagradu Milica Stojadinović Srpkinja](http://seecult.org/vest/uzi-izbor-za-nagradu-milica-stojadinovic-srpkinja)
-* [Almodovarova Susedna soba otvara 30. FAF](http://seecult.org/vest/almodovarova-susedna-soba-otvara-30-faf)
 
 * [Konkursi](#tab1_1)
 
