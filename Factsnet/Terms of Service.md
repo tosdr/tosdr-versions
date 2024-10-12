@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![40 Facts About Descloizite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-descloizite/)
+[![25 Facts About Canine Sports ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/25-facts-about-canine-sports/)
 
-Earth Sciences
+Sports
 
-11 Oct 2024
+12 Oct 2024
 
-[40 Facts About Descloizite](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-descloizite/)
+[25 Facts About Canine Sports](https://facts.net/lifestyle/sports/25-facts-about-canine-sports/)
 
-[![28 Facts About Party Cocktails ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/food/28-facts-about-party-cocktails/)
+[![30 Facts About Molybdochalkos ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/30-facts-about-molybdochalkos/)
 
-Food
+Chemistry
 
-11 Oct 2024
+12 Oct 2024
 
-[28 Facts About Party Cocktails](https://facts.net/lifestyle/food/28-facts-about-party-cocktails/)
+[30 Facts About Molybdochalkos](https://facts.net/science/chemistry/30-facts-about-molybdochalkos/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
