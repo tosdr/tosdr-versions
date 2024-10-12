@@ -2,7 +2,7 @@ Canadian Owned & Operated Since 2012
 
 ![](https://www.hmebc.com/wp-content/themes/UWD/icons/call.png) [1-844-821-0075](tel:1-844-821-0075)
 
-[![Home](https://www.hmebc.com/wp-content/themes/UWD/images/hmehomehealthlogo.png)](https://www.hmebc.com/)
+[![Home](https://www.hmebc.com/wp-content/themes/UWD/images/hmehomehealthlogo.svg)](https://www.hmebc.com/)
 
 [Account](https://www.hmebc.com/my-account/) [![](https://www.hmebc.com/wp-content/themes/UWD/icons/shopping_cart.svg) 0](https://www.hmebc.com/cart/)
 
@@ -276,7 +276,7 @@ Telephone:[1-844-821-0075](tel:1-844-821-0075)
 
 [Get Directions](https://www.google.com/maps/dir/?api=1&destination=HME+Home+Health,#105A%205631%20Inlet%20Ave,%20Sechelt,%20BC%20V0N%203A0)
 
-![](https://www.hmebc.com/wp-content/themes/UWD/images/hmehomehealthlogo.png) [Sign Up for Our Newsletter](https://www.hmebc.com/learning-and-resources/newsletter-sign-up/)
+![](https://www.hmebc.com/wp-content/themes/UWD/images/hmehomehealthlogo.svg) [Sign Up for Our Newsletter](https://www.hmebc.com/learning-and-resources/newsletter-sign-up/)
 
 #### Help Centre
 
