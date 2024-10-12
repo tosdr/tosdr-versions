@@ -5,7 +5,7 @@
 UKC
 ===](https://www.ukclimbing.com/ "Go to homepage")Toggle navigation[](https://www.ukclimbing.com/user/)
 
-[![Advert](https://ukc2.com/ads/i/12041.webp?t=1718292438)](https://advertising.ukclimbing.com/click.php?id=12041&uri=4)
+[![Advert](https://img.ukclimbing.com/ads/i/11913.jpg?fm=jpg&time=1709891946&w=728&s=c6769c1a5ef2a4e4958ebd1d6eaefd5a)](https://advertising.ukclimbing.com/click.php?id=11913&uri=4)
 
 Menu Toggle navigation Toggle navigation Toggle navigation Toggle navigation
 
@@ -144,6 +144,8 @@ We will generally keep your data for a minimum of 3 years after you cease using 
 If you choose to enter one of our competitions then we need to know an address in the event that you win the competition. This address is held by UKClimbing Limited and passed on to the third party company operating the competition so that they can send out the prizes. Only the address of winners is passed on to the third party company and no permission is given for the third party to use the address in way other than sending out the prize in the competition. UKClimbing Limited will make no other use of your address data and will not pass it on to any other third party except the third party clearly defined in the competition entry form. Your address can be edited or removed through your user profile.
 
 Competitions also give you the option to opt-in to mailing lists of third party companies running the competitions. If you opt-in then your email address held by UKClimbing will be supplied to the third party company for use in their mailing list. The Fair Processing Practice of the data passed on to the third party company is the responsibility of the third party company collecting the data. UKClimbing Limited does not retain this data.
+
+[![Advert](https://img.ukclimbing.com/ads/b/12013.jpg?fm=jpg&time=1715341026&w=300&s=8d7b16ce86c55e0293cec6c7663d7855)](https://advertising.ukclimbing.com/click.php?id=12013&uri=55)
 
 [Advertising on UKC](https://advertising.ukclimbing.com/)
 
