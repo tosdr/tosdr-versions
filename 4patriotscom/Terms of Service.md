@@ -72,7 +72,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Ultimate Meat Medley Jumbo Meat - Jumbo Can
         
-        41 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
+        42 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
         
     
 * [Survival Food](https://4patriots.com/collections/food)
@@ -103,7 +103,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 4-Week Emergency Survival Food Kit
         
-        1026 reviews](https://4patriots.com/products/4-week-survival-food-kit)
+        1027 reviews](https://4patriots.com/products/4-week-survival-food-kit)
         
     
 * [Power & Solar](https://4patriots.com/collections/power-solar)
