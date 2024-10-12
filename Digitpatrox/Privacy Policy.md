@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Friday, October 11 2024
+Saturday, October 12 2024
 
 Latest
 
-* [AMD eyes networking efficiency gains in bid to streamline AI data center operations](https://digitpatrox.com/amd-eyes-networking-efficiency-gains-in-bid-to-streamline-ai-data-center-operations/)
-* [Over 31 Million User Accounts Exposed](https://digitpatrox.com/over-31-million-user-accounts-exposed/)
-* [Elon Musk unveils Tesla self-driving Cybercab for under $30,000 — what the heck is it?](https://digitpatrox.com/elon-musk-unveils-tesla-self-driving-cybercab-for-under-30000-what-the-heck-is-it/)
-* [Hackers abuse F5 BIG-IP cookies to map internal servers](https://digitpatrox.com/hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
-* [How to lock any app with Face ID on an iPhone using iOS 18](https://digitpatrox.com/how-to-lock-any-app-with-face-id-on-an-iphone-using-ios-18/)
-* [Imgur is going to be less strict about memes with adult humor](https://digitpatrox.com/imgur-is-going-to-be-less-strict-about-memes-with-adult-humor/)
-* [Pets Go Codes (October 2024) – Are There Any?](https://digitpatrox.com/pets-go-codes-october-2024-are-there-any/)
-* [Best Free Antivirus for Gamers in 2024](https://digitpatrox.com/best-free-antivirus-for-gamers-in-2024/)
-* [Zoom launches new AI companion features for workplace platform](https://digitpatrox.com/zoom-launches-new-ai-companion-features-for-workplace-platform/)
-* [Download our Google Spaces Cheat Sheet](https://digitpatrox.com/download-our-google-spaces-cheat-sheet/)
+* [The JMGO N1S Pro RGB Laser Projector Is $400 Off Right Now](https://digitpatrox.com/the-jmgo-n1s-pro-rgb-laser-projector-is-400-off-right-now/)
+* [Windows 11 gets update KB5044373, KB5044374, and build 27723 (preview)](https://digitpatrox.com/windows-11-gets-update-kb5044373-kb5044374-and-build-27723-preview/)
+* [How to Sell Your Car to an Online Retailer](https://digitpatrox.com/how-to-sell-your-car-to-an-online-retailer/)
+* [TikTok Effects Are My New Mobile Gaming Obsession](https://digitpatrox.com/tiktok-effects-are-my-new-mobile-gaming-obsession/)
+* [Embracing cloud migration at scale](https://digitpatrox.com/embracing-cloud-migration-at-scale/)
+* [7 Causes of Call Center Burnout Any Employer Can Address](https://digitpatrox.com/7-causes-of-call-center-burnout-any-employer-can-address/)
+* [NYT Connections today hints and answers — Saturday, October 12 (#489)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-saturday-october-12-489/)
+* [Casio confirms customer data stolen in a ransomware attack](https://digitpatrox.com/casio-confirms-customer-data-stolen-in-a-ransomware-attack/)
+* [Leak: AMD’s Ryzen 9000X3D chips aren’t looking like a leap forward](https://digitpatrox.com/leak-amds-ryzen-9000x3d-chips-arent-looking-like-a-leap-forward/)
+* [Bleach TYBW Part 3 Episode 2 Release Date and Time (Countdown Timer)](https://digitpatrox.com/bleach-tybw-part-3-episode-2-release-date-and-time-countdown-timer/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/SV8qnrvC5vLbQsYsyZxd37-1200-80.jpg)](https://digitpatrox.com/amd-eyes-networking-efficiency-gains-in-bid-to-streamline-ai-data-center-operations/)
+* [![](https://lifehacker.com/imagery/articles/01J9YPC4H50XVRWB00R768P0R9/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-jmgo-n1s-pro-rgb-laser-projector-is-400-off-right-now/)
     
-    [AMD eyes networking efficiency gains in bid to streamline AI data center operations](https://digitpatrox.com/amd-eyes-networking-efficiency-gains-in-bid-to-streamline-ai-data-center-operations/)
+    [The JMGO N1S Pro RGB Laser Projector Is $400 Off Right Now](https://digitpatrox.com/the-jmgo-n1s-pro-rgb-laser-projector-is-400-off-right-now/)
     
-    43 mins ago
+    2 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241011-internet-archive-accounts-exposed.jpg)](https://digitpatrox.com/over-31-million-user-accounts-exposed/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/10/kb5044373-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-gets-update-kb5044373-kb5044374-and-build-27723-preview/)
     
-    [Over 31 Million User Accounts Exposed](https://digitpatrox.com/over-31-million-user-accounts-exposed/)
+    [Windows 11 gets update KB5044373, KB5044374, and build 27723 (preview)](https://digitpatrox.com/windows-11-gets-update-kb5044373-kb5044374-and-build-27723-preview/)
     
-    47 mins ago
+    24 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/bhdv9bdcd75TyCrPMCjjPU-1200-80.jpg)](https://digitpatrox.com/elon-musk-unveils-tesla-self-driving-cybercab-for-under-30000-what-the-heck-is-it/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727373989/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-How-to-Get-the-Most-Selling-Your-Car-0924)](https://digitpatrox.com/how-to-sell-your-car-to-an-online-retailer/)
     
-    [Elon Musk unveils Tesla self-driving Cybercab for under $30,000 — what the heck is it?](https://digitpatrox.com/elon-musk-unveils-tesla-self-driving-cybercab-for-under-30000-what-the-heck-is-it/)
+    [How to Sell Your Car to an Online Retailer](https://digitpatrox.com/how-to-sell-your-car-to-an-online-retailer/)
     
-    1 hour ago
+    33 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2022/05/09/F5_loogo.jpg)](https://digitpatrox.com/hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-hand-holding-a-phone-with-a-tiktok-filter-a-controller-in-the-background-and-several-tiktok-logos.jpg)](https://digitpatrox.com/tiktok-effects-are-my-new-mobile-gaming-obsession/)
     
-    [Hackers abuse F5 BIG-IP cookies to map internal servers](https://digitpatrox.com/hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
+    [TikTok Effects Are My New Mobile Gaming Obsession](https://digitpatrox.com/tiktok-effects-are-my-new-mobile-gaming-obsession/)
     
-    1 hour ago
+    36 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/A55zAsvOduPsZkHtdSp6PdPaixY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986267/HT015_S_Haddad_ios_iphone_apps.jpg)](https://digitpatrox.com/how-to-lock-any-app-with-face-id-on-an-iphone-using-ios-18/)
+* [![](https://cdn.mos.cms.futurecdn.net/p6FzTUhxoWjtX2XPoVracW-1200-80.jpg)](https://digitpatrox.com/embracing-cloud-migration-at-scale/)
     
-    [How to lock any app with Face ID on an iPhone using iOS 18](https://digitpatrox.com/how-to-lock-any-app-with-face-id-on-an-iphone-using-ios-18/)
+    [Embracing cloud migration at scale](https://digitpatrox.com/embracing-cloud-migration-at-scale/)
     
     2 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [43 mins ago
+* [2 mins ago
     
-    ### AMD eyes networking efficiency gains in bid to streamline AI data center operations](https://digitpatrox.com/amd-eyes-networking-efficiency-gains-in-bid-to-streamline-ai-data-center-operations/)
-* [47 mins ago
+    ### The JMGO N1S Pro RGB Laser Projector Is $400 Off Right Now](https://digitpatrox.com/the-jmgo-n1s-pro-rgb-laser-projector-is-400-off-right-now/)
+* [24 mins ago
     
-    ### Over 31 Million User Accounts Exposed](https://digitpatrox.com/over-31-million-user-accounts-exposed/)
-* [1 hour ago
+    ### Windows 11 gets update KB5044373, KB5044374, and build 27723 (preview)](https://digitpatrox.com/windows-11-gets-update-kb5044373-kb5044374-and-build-27723-preview/)
+* [33 mins ago
     
-    ### Elon Musk unveils Tesla self-driving Cybercab for under $30,000 — what the heck is it?](https://digitpatrox.com/elon-musk-unveils-tesla-self-driving-cybercab-for-under-30000-what-the-heck-is-it/)
+    ### How to Sell Your Car to an Online Retailer](https://digitpatrox.com/how-to-sell-your-car-to-an-online-retailer/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [1 week ago
     
-    ### With genAI models, size matters (and smaller may be better) – Computerworld](https://digitpatrox.com/with-genai-models-size-matters-and-smaller-may-be-better-computerworld/)
-* [August 16, 2024
+    ### What Is It & What Can It Do?](https://digitpatrox.com/what-is-it-what-can-it-do/)
+* [2 days ago
     
-    ### How to use Android Quick Share to transfer files on Windows 11](https://digitpatrox.com/how-to-use-android-quick-share-to-transfer-files-on-windows-11/)
+    ### The iPhone 16 Pro Gets a New Ultra-Premium Leather Case From Nomad](https://digitpatrox.com/the-iphone-16-pro-gets-a-new-ultra-premium-leather-case-from-nomad/)
 * [4 weeks ago
     
-    ### ChatGPT’s New o1 Model Shows You How It Solved Your Problem](https://digitpatrox.com/chatgpts-new-o1-model-shows-you-how-it-solved-your-problem/)
+    ### New name, same ambitious vision: Introducing Qodea](https://digitpatrox.com/new-name-same-ambitious-vision-introducing-qodea/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Pets Go Codes (October 2024) – Are There Any?](https://digitpatrox.com/pets-go-codes-october-2024-are-there-any/)
+    ### NYT Connections today hints and answers — Saturday, October 12 (#489)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-saturday-october-12-489/)
+* [2 hours ago
+    
+    ### Casio confirms customer data stolen in a ransomware attack](https://digitpatrox.com/casio-confirms-customer-data-stolen-in-a-ransomware-attack/)
 * [3 hours ago
     
-    ### Best Free Antivirus for Gamers in 2024](https://digitpatrox.com/best-free-antivirus-for-gamers-in-2024/)
-* [3 hours ago
-    
-    ### Zoom launches new AI companion features for workplace platform](https://digitpatrox.com/zoom-launches-new-ai-companion-features-for-workplace-platform/)
+    ### Leak: AMD’s Ryzen 9000X3D chips aren’t looking like a leap forward](https://digitpatrox.com/leak-amds-ryzen-9000x3d-chips-arent-looking-like-a-leap-forward/)
 
 Most Viewed Topics
 
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 11, 2024
+* [August 12, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 21, 2024
+    
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
