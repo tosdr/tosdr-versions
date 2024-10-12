@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Confira o funcionamento dos shoppings e comércio no feriado de Nossa Senhora Aparecida](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/2/csm_csm_comercio-feriado-centro-foto-fecomercio_408930b8b8_64614bc8dc.jpg)
+   [![Bandidos furtam computadores e objetos pessoais de carro de vereadora em Jaraguá](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/6/csm_Teca_Nelma_956f619c87.jpg)
 
 Maceió
 
-Confira o funcionamento dos shoppings e comércio no feriado de Nossa Senhora Aparecida](https://www.tnh1.com.br/noticia/nid/confira-o-funcionamento-dos-shoppings-e-comercio-no-feriado-de-nossa-senhora-aparecida/ "Confira o funcionamento dos shoppings e comércio no feriado de Nossa Senhora Aparecida")   [![Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/5/csm_Projeto_reforma_Praca_Deodoro_-_foto_Itawi_Albuquerque_-_Secom_Maceio_cc73171c30.jpg)
+Bandidos furtam computadores e objetos pessoais de carro de vereadora em Jaraguá](https://www.tnh1.com.br/noticia/nid/bandidos-furtam-computadores-e-objetos-pessoais-de-carro-de-vereadora-em-jaragua/ "Bandidos furtam computadores e objetos pessoais de carro de vereadora em Jaraguá")   [![Confira o funcionamento dos shoppings e comércio no feriado de Nossa Senhora Aparecida](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/2/csm_csm_comercio-feriado-centro-foto-fecomercio_408930b8b8_64614bc8dc.jpg)
 
 Maceió
 
-Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue](https://www.tnh1.com.br/noticia/nid/projeto-para-reforma-da-praca-deodoro-e-aprovado-e-tem-data-para-ser-entregue/ "Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue")   [![Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/b/csm_menina_meningite_cf6b12e34a.png)
+Confira o funcionamento dos shoppings e comércio no feriado de Nossa Senhora Aparecida](https://www.tnh1.com.br/noticia/nid/confira-o-funcionamento-dos-shoppings-e-comercio-no-feriado-de-nossa-senhora-aparecida/ "Confira o funcionamento dos shoppings e comércio no feriado de Nossa Senhora Aparecida")   [![Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/5/csm_Projeto_reforma_Praca_Deodoro_-_foto_Itawi_Albuquerque_-_Secom_Maceio_cc73171c30.jpg)
 
 Maceió
 
-Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://www.tnh1.com.br/noticia/nid/maceio-tem-30-casos-confirmados-de-meningite-mae-de-crianca-internada-faz-relato/ "Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato")   [![Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/4/csm_area-interditada-demolicao-pinheiro_016919e00c.jpg)
+Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue](https://www.tnh1.com.br/noticia/nid/projeto-para-reforma-da-praca-deodoro-e-aprovado-e-tem-data-para-ser-entregue/ "Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue")   [![Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/b/csm_menina_meningite_cf6b12e34a.png)
+
+Maceió
+
+Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://www.tnh1.com.br/noticia/nid/maceio-tem-30-casos-confirmados-de-meningite-mae-de-crianca-internada-faz-relato/ "Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato")   [![Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/4/csm_area-interditada-demolicao-pinheiro_016919e00c.jpg)
 
 Veja desvios
 
-Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis](https://www.tnh1.com.br/noticia/nid/avenida-no-pinheiro-e-interditada-pela-defesa-civil-para-demolicoes-de-imoveis/ "Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis")   [![Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
+Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis](https://www.tnh1.com.br/noticia/nid/avenida-no-pinheiro-e-interditada-pela-defesa-civil-para-demolicoes-de-imoveis/ "Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis")   [![Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
 
 Na Serraria
 
-Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://www.tnh1.com.br/noticia/nid/motorista-invade-contramao-bate-em-viatura-da-pm-e-e-preso-por-embriaguez-ao-volante/ "Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante")   [![Carros de luxo batem na orla de Jatiúca e motoristas saem ilesos; veja vídeos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/f/csm_acidente_orla_jatiuca_reproducao_tv_pajucara_8f68f0ac16.png)
-
-Av. Álvaro Otacílio
-
-Carros de luxo batem na orla de Jatiúca e motoristas saem ilesos; veja vídeos](https://www.tnh1.com.br/noticia/nid/carros-de-luxo-batem-na-orla-de-jatiuca-e-motoristas-saem-ilesos-veja-videos/ "Carros de luxo batem na orla de Jatiúca e motoristas saem ilesos; veja vídeos")
+Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://www.tnh1.com.br/noticia/nid/motorista-invade-contramao-bate-em-viatura-da-pm-e-e-preso-por-embriaguez-ao-volante/ "Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,7 +82,19 @@ Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![PM apreende arma de fogo, maconha, cocaína e clorofórmio em ações no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/8/csm_PM_apreende_arma_de_fogo__maconha__cocaina_e_cloroformio_em_acoes_no_interior_-_foto_PMAL_70168082fb.jpg)
+   [![Suspeito de furto é detido pela população e amarrado com cordas no Centro de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/5/csm_viatura_policia_militar_-_ascom_ssp_d10baa51f1.jpg)
+
+Polícia
+
+Suspeito de furto é detido pela população e amarrado com cordas no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/suspeito-de-furto-e-detido-pela-populacao-e-amarrado-com-cordas-no-centro-de-maceio/ "Suspeito de furto é detido pela população e amarrado com cordas no Centro de Maceió")   [![Homem é assassinado com cinco tiros no bairro do Feitosa, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/4/csm_csm_csm_Viatura_Policia_divulgacao_f5775afa08_46f80f2ca9_1dd3b5d2e3.jpg)
+
+Polícia
+
+Homem é assassinado com cinco tiros no bairro do Feitosa, em Maceió](https://www.tnh1.com.br/noticia/nid/homem-e-assassinado-com-cinco-tiros-no-bairro-do-feitosa-em-maceio/ "Homem é assassinado com cinco tiros no bairro do Feitosa, em Maceió")   [![Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_ecc0a38459.jpg)
+
+Polícia
+
+Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/homens-armados-invadem-casa-e-matam-dois-jovens-a-tiros-no-benedito-bentes/ "Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes")   [![PM apreende arma de fogo, maconha, cocaína e clorofórmio em ações no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/8/csm_PM_apreende_arma_de_fogo__maconha__cocaina_e_cloroformio_em_acoes_no_interior_-_foto_PMAL_70168082fb.jpg)
 
 Polícia
 
@@ -94,19 +106,7 @@ Fraude: PF cumpre mandado contra maceioense que recebeu R$ 30 mil em transferên
 
 Parado por populares
 
-Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido em Arapiraca](https://www.tnh1.com.br/noticia/nid/adolescente-tenta-roubar-posto-de-combustivel-mas-e-imobilizado-e-apreendido-em-arapiraca/ "Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido em Arapiraca")   [![Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/0/csm_atentado_feitosa_reproducao_foto_1_88d837da6c.png)
-
-Em investigação
-
-Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://www.tnh1.com.br/noticia/nid/cenas-fortes-imagens-mostram-atentado-no-feitosa-autores-do-crime-tambem-foram-mortos/ "Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos")   [![Suspeito de tentar matar jovem após acidente de trânsito é preso em Penedo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/9/csm_prisao_penedo_69aece615e.jpeg)
-
-Polícia
-
-Suspeito de tentar matar jovem após acidente de trânsito é preso em Penedo](https://www.tnh1.com.br/noticia/nid/suspeito-de-tentar-matar-jovem-apos-acidente-de-transito-e-preso-em-penedo/ "Suspeito de tentar matar jovem após acidente de trânsito é preso em Penedo ")   [![Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
-
-Na Serraria
-
-Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://www.tnh1.com.br/noticia/nid/motorista-invade-contramao-bate-em-viatura-da-pm-e-e-preso-por-embriaguez-ao-volante/ "Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante")
+Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido em Arapiraca](https://www.tnh1.com.br/noticia/nid/adolescente-tenta-roubar-posto-de-combustivel-mas-e-imobilizado-e-apreendido-em-arapiraca/ "Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido em Arapiraca")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -198,15 +198,15 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/c/csm_mulher-engana-justica-reproducao_6677dd306c.png)
+[![Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/9/csm_Nadal_b2d5329c1e.jpg)
 
-plano quase perfeito
+Esporte
 
-plano quase perfeito
+Esporte
 
-Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada
+Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal
 
-Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada](https://www.tnh1.com.br/noticia/nid/mulher-engana-exercito-por-33-anos-recebe-mais-de-r-3-milhoes-e-acaba-condenada/ "Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada")[![Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/0/csm_atentado_feitosa_reproducao_foto_1_dc2439079b.png)
+Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal](https://www.tnh1.com.br/noticia/nid/sindrome-de-mueller-weiss-entenda-o-que-e-a-doenca-que-afeta-nadal-1/ "Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal")[![Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/0/csm_atentado_feitosa_reproducao_foto_1_dc2439079b.png)
 
 Em investigação
 
@@ -222,49 +222,49 @@ Maceió
 
 Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato
 
-Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://www.tnh1.com.br/noticia/nid/maceio-tem-30-casos-confirmados-de-meningite-mae-de-crianca-internada-faz-relato/ "Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato")[![Dupla mata homem, deixa mulher grávida ferida e é assassinada por outros atiradores na hora da fuga](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/3/csm_atentado-homem-gravida-feitosa_71d882b0ab.jpg)
+Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://www.tnh1.com.br/noticia/nid/maceio-tem-30-casos-confirmados-de-meningite-mae-de-crianca-internada-faz-relato/ "Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato")[![Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/5/csm_Casamento_-_foto_Pixabay_e3f3075af7.jpg)
 
-No Feitosa
+indenização
 
-No Feitosa
+indenização
 
-Dupla mata homem, deixa mulher grávida ferida e é assassinada por outros atiradores na hora da fuga
+Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa
 
-Dupla mata homem, deixa mulher grávida ferida e é assassinada por outros atiradores na hora da fuga](https://www.tnh1.com.br/noticia/nid/dupla-mata-homem-deixa-mulher-gravida-ferida-e-e-assassinada-por-outros-atiradores-na-hora-da-fuga/ "Dupla mata homem, deixa mulher grávida ferida e é assassinada por outros atiradores na hora da fuga")
+Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa](https://www.tnh1.com.br/noticia/nid/homem-que-largou-casamento-apos-6-dias-tera-que-pagar-r-50-mil-por-festa/ "Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa")
 
-[![Homem desenvolve tumor no couro cabeludo após dançar breaking por décadas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/5/csm_breaking-danca-reproducao-freepik_9593ccd7c2.png)
+[![Prefeitura de Maceió promove vacinação infantil durante o festival Massayó Kids](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/7/csm_Prefeitura_de_Maceio_promove_vacinacao_infantil_durante_o_festival_Massayo_Kids_-_foto_Arquivo_Secom_Maceio_6a4e7c4970.jpeg)
 
-caroço significativo
+imunização
 
-caroço significativo
+imunização
 
-Homem desenvolve tumor no couro cabeludo após dançar breaking por décadas
+Prefeitura de Maceió promove vacinação infantil durante o festival Massayó Kids
 
-Homem desenvolve tumor no couro cabeludo após dançar breaking por décadas](https://www.tnh1.com.br/noticia/nid/homem-desenvolve-tumor-no-couro-cabeludo-apos-dancar-breaking-por-decadas/ "Homem desenvolve tumor no couro cabeludo após dançar breaking por décadas")[![Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_csm_rei-charles-instagram-clarencehouse_6a258ceb34_5a9cbf82dc.jpg)
+Prefeitura de Maceió promove vacinação infantil durante o festival Massayó Kids](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-promove-vacinacao-infantil-durante-o-festival-massayo-kids/ "Prefeitura de Maceió promove vacinação infantil durante o festival Massayó Kids")[![Queda de helicóptero dos Bombeiros mata seis em Minas Gerais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/c/csm_Bombeiros_mortos_em_MG_79427a1be9.jpeg)
 
-Família Real
+Brasil
 
-Família Real
+Brasil
 
-Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer
+Queda de helicóptero dos Bombeiros mata seis em Minas Gerais
 
-Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer](https://www.tnh1.com.br/noticia/nid/rei-charles-dispensa-homeopata-e-tera-dois-medicos-de-plantao-em-primeira-grande-viagem-apos-diagnostico-de-cancer/ "Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer")[![Homem que atacou mulheres em SP disse à família que intenção era exigir Pix para comprar drogas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/f/csm_homem-atacou-mulher-reproducao_e31da601ca.png)
+Queda de helicóptero dos Bombeiros mata seis em Minas Gerais](https://www.tnh1.com.br/noticia/nid/queda-de-helicoptero-dos-bombeiros-mata-seis-em-minas-gerais/ "Queda de helicóptero dos Bombeiros mata seis em Minas Gerais")[![Morre humorista Ary Toledo, aos 87 anos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/e/csm_Ari_Toledo_8362c036a9.jpg)
 
-Está desaparecido
+Gente Famosa
 
-Está desaparecido
+Gente Famosa
 
-Homem que atacou mulheres em SP disse à família que intenção era exigir Pix para comprar drogas
+Morre humorista Ary Toledo, aos 87 anos
 
-Homem que atacou mulheres em SP disse à família que intenção era exigir Pix para comprar drogas](https://www.tnh1.com.br/noticia/nid/homem-que-atacou-mulheres-em-sp-disse-a-familia-que-intencao-era-exigir-pix-para-comprar-drogas/ "Homem que atacou mulheres em SP disse à família que intenção era exigir Pix para comprar drogas")[![Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa; entenda a história](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/4/csm_separacao-divorcio-reproducao-pexels_71c13402a5.jpg)
+Morre humorista Ary Toledo, aos 87 anos](https://www.tnh1.com.br/noticia/nid/morre-humorista-ary-toledo-aos-87-anos/ "Morre humorista Ary Toledo, aos 87 anos")[![Piloto morre carbonizado em queda de avião em Ouro Preto (MG)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/3/csm_Queda_Aviao_Ouro_Preto_23a9c1b33f.jpg)
 
-EM SP
+monomotor
 
-EM SP
+monomotor
 
-Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa; entenda a história
+Piloto morre carbonizado em queda de avião em Ouro Preto (MG)
 
-Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa; entenda a história](https://www.tnh1.com.br/noticia/nid/homem-que-largou-casamento-apos-6-dias-tera-que-pagar-r-50-mil-por-festa-entenda-a-historia/ "Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa; entenda a história")
+Piloto morre carbonizado em queda de avião em Ouro Preto (MG)](https://www.tnh1.com.br/noticia/nid/piloto-morre-carbonizado-em-queda-de-aviao-em-ouro-preto-mg/ "Piloto morre carbonizado em queda de avião em Ouro Preto (MG)")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
