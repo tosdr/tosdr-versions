@@ -31,6 +31,260 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cartas a Quito / 12 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este sábado 12 de octubre de 2024
+-----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+“Camino a Carapungo voy”…Calderón la parroquia más grande del Ecuador
+---------------------------------------------------------------------
+
+Asentada en la parte Norte de la Meseta de Guangüiltagua, según los registros históricos nace con el asentamiento ancestral de Carapungo, esta palabra de la lengua quichua,  está formada por los términos  “cara”, y “pungu”, que significa Puerta de los Caras,  poblada con asentamientos de “Zambizas, Cotocollaos, Pillajos, Pomasquis”, acoge a 5 comunas  descendientes del pueblo Quitus Caras: Llano Grande, La Capilla, San Miguel del Común, Oyacoto y Santa Anita. Pero el 9 de agosto de 1897, en  la presidencia del General Eloy Alfaro, “Carapungo”, siendo parte de la parroquia de Zámbiza, fue elevada a la categoría de parroquia con el nombre de Calderón en honor al héroe ecuatoriano Abdón Calderón. Pero la gente nativa decidió quedarse con el antiguo nombre de Carapungo y hoy es conocido como el barrio más antiguo de esta parroquia que  ha ido creciendo sustantivamente y  hasta tiene una canción… “Simiruco” (alegre)… “Camino a Carapungo voy… indio de Llano Grande, soy… Simiruquito por ahí, Simiruquito por allá”… precioso este aire típico.  Calderón cuenta con 132 barrios, según el Informe de Participación ciudadana del proceso de delimitación de barrios, actualizado en febrero del 2022, pero faltan  ingresar  unos 60 barrios aproximadamente. Calderón  es  la parroquia más Grande y poblada del País y del Distrito Metropolitano de Quito. Se ha convertido en una plataforma de vivienda asequible y alberga a migrantes de las provincias del Norte  y de todo el Ecuador. Cuando hicieron la Panamericana Norte en 1930, Calderón quedó dividida en dos partes y la falta de planificación en la apertura de calles en cuadras a la redonda no ha permitido el desplazamiento de la movilidad, especialmente en la parte occidental.  Pero el día 6 de octubre del 2024 entregó la Prefecta Paola Pavón como obra del Consejo Provincial, la prolongación de la vía Pío XII, la misma que permite una gran descongestión vehicular, uniendo las parroquias circunvecinas, Calderón,  Pusuquí y el Noroccidente, así como muchísimos  barrios  el Bicencentario, San Miguel del Común, San Juan, San José de Morán, etc.  Entrar a Calderón por Carapungo demandaba unos 30 minutos o más, hoy por esta se hace vía 10 m. desde la Simón Bolívar. 
+
+Mariana de Jesús Tobar Arce
+
+Debe haber luz de 6:00 a 10:00, de 12:30 a 14:30 y de 16:30 a 22:30
+-------------------------------------------------------------------
+
+En lugar de apagar por 10 horas seguidas la luz al sector industrial, que utiliza el 25% de la energía eléctrica, para poder planificar sus turnos de trabajo se puede mantener el servicio de luz de 6:00 a 10:00, de 12:30 a 14:30 y de 16:30 a 22:30, y cada tres horas en las madrugadas -para evitar que se descompongan los alimentos congelados- mientras las empresas importan sus propios generadores eléctricos. Con un esquema así, se evitará además congestionar aún más el tráfico por la falta de semáforos en entradas y salidas de las instituciones educativas. Además, no se afectará el horario destinado a los adultos mayores y personas vulnerables para su aseo, alimentación y para estar debidamente informados -una de sus mayores distracciones- a través de los medios de comunicación.
+
+Mientras la naturaleza ayuda a alcanzar, con los tapones que se construyan para embalses, las cotas máximas de agua en las plantas hidroeléctricas, los ecuatorianos debemos reducir nuestro consumo de electricidad, que ‘ha aumentado en los últimos días un 6%’ según han señalado las autoridades, cambiando por ejemplo para el día los horarios de los partidos de fútbol, donde se utiliza excesiva energía eléctrica. Hasta que se pueda reforzar la matriz energética con nuevos proyectos hidroeléctricos o eólicos, el gobierno puede promover los ‘micro proyectos solares’, aprovechando que Ecuador goza de 12 horas diarias de luz solar. De adoptarse este esquema para todo el país, sin horarios diferenciados, no se afectará al empleo por el cierre de empresas y pequeños y medianos negocios, incluyendo restaurantes, teatros, y circuitos de atractivos turísticos, que deben funcionar por la noche -con estratégicas desconexiones eléctricas voluntarias, y no se exacerbará los ‘tiempos muertos de transportación’ por el caos vehicular que se agrava por la falta de semáforos.
+
+Frente a la molestia generalizada por este lamentable retroceso, que aumenta la inseguridad y disminuye el ingreso de turistas a nuestro país, las empresas, que precisan par de horas extras de luz para que se enciendan -y al final de la jornada se enfríen- sus equipos, deben disponer urgentemente la importación para que colaboren con sus propios generadores eléctricos, para no tener que modificar un esquema horario como el propuesto, y todos, sector industrial, comercial y residencial dejemos de sentir la incertidumbre con los cortes con horarios cambiantes. Si podemos organizarnos, hasta que empecemos a caminar por senderos de mayor certidumbre.
+
+Diego Fabián Valdivieso Anda
+
+La magia en la campaña electoral
+================================
+
+Los deseos secretos de todos los demás candidatos pueden cumplirse sin que afecte los deseos de los cuatro anteriores.
+----------------------------------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+Si apareciera el hada **madrina** de los **políticos** no podría satisfacer los deseos de todos. Aparentemente, porque si les concediera el cumplimiento de su más **secreta** **aspiración**, tal vez no sea tan difícil. Todos dicen que aspiran a ganar la **elección** y llegar a la **presidencia** para resolver los problemas de los **ecuatorianos**, pero eso sería magia.
+
+Si le preguntara el hada al **líder** de la **revolución** **ciudadana** cuál es su **sueño** **secreto**, probablemente sería: alcanzar la mayoría en la **Asamblea** **Nacional**. Y entonces podría responder el hada: no hay problema, el precio es la presidencia de la República. Trato hecho.
+
+El sueño secreto del líder de ADN podría ser: quiero librarme de la **vicepresidente**, ganar en **primera** **vuelta** y resolver lacrisis de energía. Le podría contestar. Sólo te puedo conceder un deseo porque son excluyentes. Librarte de la **vicepresidente** puede costarte la **elección** y aunque ganes en **primera** **vuelta** perderás en la segunda si siguen los **apagones**.
+
+El deseo secreto del **candidato** de SUMA podría ser: no quiero que me pongas en primer lugar, me basta con ser segundo, pero también quiero parecerme a **Bukele** y que nadie se acuerde que era **socialcristiano**. La respuesta sería: Ya que te basta el segundo, te  concedo el segundo deseo.
+
+El secreto deseo del **candidato** de **Pachakutic** podría ser: Quiero que nadie se acuerde que vine a quemar **Quito** y que humillé a dos presidentes, también quiero que desaparezca el libro _**Rebelión**_. La respuesta podría ser: No puedo borrar lo que ya ocurrió, pero puedo borrarte a ti.
+
+Los **deseos** **secretos** de todos los demás **candidatos** pueden cumplirse sin que afecte los deseos de los cuatro anteriores. Adaptando a las **circunstancias** un cuento de **Sisek** podríamos preguntamos: si el hada madrina ofreciera a cada **candidato** cumplir su deseo con la **condición** de que los demás reciban el doble de lo que pida ¿Qué pedirían? El cuento de **Sisek** dice que pidieron que les arranque un ojo. Ojalá aceptemos la **realidad** y olvidemos hadas **madrinas**.
+
+Arroz con menestra de fréjol y carne a la plancha
+=================================================
+
+Un plato sencillo, lleno de tradición y sabor. ¡Comparte esta receta con tus amigos!
+------------------------------------------------------------------------------------
+
+![En la mesa no puede faltar esta clásica receta de la cocina guayaquileña.](https://www.elcomercio.com/wp-content/uploads/2024/10/image-2-2.png)
+
+Durante las **fiestas octubrinas**, la ciudad se viste de gala para conmemorar su **independencia** con **desfiles**, **eventos culturales** y, por supuesto, su rica **gastronomía**. Uno de los **platos** más **emblemáticos** que acompaña estas festividades es el **arroz con menestra de fréjol y carne a la plancha**, un verdadero símbolo de la **cocina guayaquileña**. Este plato combina el **sabor tradicional** de los fréjoles, cocidos lentamente en una deliciosa salsa, con el inconfundible toque del arroz blanco y la carne a la plancha, sencilla pero jugosa. Es una **receta** que une a las **familias** en la mesa, celebrando tanto los **sabores** como el espíritu festivo de **Guayaquil**. Te compartimos la receta para que puedas preparar y rendir homenaje a la ciudad, a través de sus **sabores tradicionales**.
+
+Ingredientes
+------------
+
+**Para el arroz**
+
+2 tazas de arroz blanco
+
+4 tazas de agua
+
+1 cucharada de aceite vegetal
+
+Sal al gusto
+
+**Para la menestra de frejol**
+
+2 tazas de frejol (puede ser negro, rojo o canario) remojado por 8 horas
+
+1 cebolla picada en cuadritos
+
+2 dientes de ajo picados
+
+1 pimiento rojo o verde picado
+
+1 cucharadita de comino
+
+1 cucharadita de achiote (opcional)
+
+2 cucharadas de aceite vegetal
+
+1 plátano verde o maduro (opcional, para acompañar)
+
+Sal y pimienta al gusto
+
+Culantro (cilantro) picado para decorar
+
+**Para la carne a la plancha**
+
+4 filetes de carne (puede ser res, pollo o cerdo, según tu preferencia)
+
+Sal y pimienta al gusto
+
+Ajo en polvo (opcional)
+
+Aceite o mantequilla para la plancha
+
+* * *
+
+> Esta receta es un plato típico ecuatoriano, lleno de sabores tradicionales que evocan hogar y cultura.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-10-1024x907.png)
+
+Disfruta de este delicioso y nutritivo plato de arroz con menestra y carne a la plancha.
+
+Preparación de la receta arroz con menestra de fréjol con carne a la plancha
+----------------------------------------------------------------------------
+
+* **Enjuagar** bien el arroz hasta que el agua salga clara. En una olla, calentar con una cucharada de aceite.
+* **Añadir** el arroz y sofreír durante 2 minutos.
+* **Agregar** el agua y una pizca de sal. **Dejar** que hierva a fuego medio hasta que el agua se evapore.
+* Cuando el agua se haya consumido, **bajar** el fuego, **tapar** la olla y **dejar cocinar** a fuego lento por 15 minutos o hasta que el arroz esté completamente cocido. **Apagar** el fuego y **dejar reposar**.
+* **Cocinar** los frejoles en agua con sal a fuego medio hasta que estén tiernos (aproximadamente 1 hora). Puedes utilizar una olla de presión para acortar el tiempo.
+* En una sartén, **calentar** el aceite y sofreír la cebolla, el ajo, y el pimiento. **Añadir** el comino, el achiote (si lo usas), la sal y la pimienta.
+* **Incorporar** los frejoles cocidos con un poco del agua de la cocción para que no queden secos. **Cocinar** a fuego lento por unos 15 minutos, dejando que se mezclen bien los sabores.
+* **Ajustar** el sabor con sal y pimienta si es necesario. Al final, puedes **añadir** culantro picado para dar frescura.
+* **Sazonar** los filetes de carne con ajo triturado, comino, orégano, sal y pimienta.
+* **Calentar** una plancha o sartén con un chorrito de aceite. Sella la carne a fuego alto al principio para atrapar los jugos dentro y luego cocina a fuego medio para alcanzar el punto deseado.
+* **Servir** una porción de arroz blanco en el plato.
+* **Acompañar** con una buena porción de menestra de fréjol.
+* **Colocar** la carne a la plancha a un lado.
+* Puedes **acompañar** el plato con rodajas de aguacate o ensalada fresca, si lo deseas.
+
+Consejos para realizar de mejor manera la receta de arroz con menestra de fréjol y carne a la plancha
+-----------------------------------------------------------------------------------------------------
+
+* Puedes usar **fréjol rojo**, **negro** o **canario**. Asegúrate de remojarlos en agua durante al menos 8 horas (o toda la noche) para que se cocinen más rápido y queden suaves. Esto también mejora su **digestión** y evita que queden duros. Es mejor añadir la sal a la menestra cuando los **fréjoles** estén casi listos.
+* El sabor de la **menestra** depende en gran medida de un buen **sofrito**. Asegúrate de dorar bien la cebolla, el ajo, el pimiento y el tomate, ya que esto intensifica los sabores. El comino y el achiote le darán un toque característico, así que no los omitas.
+* La clave para una **carne** a la **plancha jugosa** es no cocinarla demasiado. Puedes variar el tipo de carne: **pollo o chuletas de cerdo a la plancha** son opciones deliciosas si quieres diversificar el plato.
+* Un toque de **cilantro** fresco picado sobre la **menestra** justo antes de servir realzará su **aroma** y sabor. Es un toque final **sencillo** pero muy **efectivo**.
+
+Con estos consejos, lograrás una **menestra sabrosa**, **un arroz bien cocido y una carne jugosa**, haciendo de este plato una verdadera celebración de la cocina ecuatoriana. ¡Buen provecho!
+
+Perú venció a Uruguay de manera agónica en eliminatorias
+========================================================
+
+La 'Celeste' sigue en caída libre desde la Copa América y no logra levantar cabeza.
+-----------------------------------------------------------------------------------
+
+![Perú venció a Uruguay con un gol agónico en las eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-11T220657.368.jpg)
+
+**Uruguay**, con todos sus problemas internos, intentó conseguir un resultado positivo en su visita a **Perú**, pero no fue posible.
+
+La ‘Bicolor’ se impuso de manera agónica con un gol en los últimos minutos, llevándose la victoria 1-0. Este triunfo marcó la primera victoria de **Jorge Fossati como DT en las eliminatorias sudamericanas**.
+
+### Más noticias:
+
+* [¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/como-fue-el-regreso-de-leonardo-campana-a-la-seleccion-de-ecuador.html "¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?")
+* [Chile perdió con Brasil en los minutos finales](https://www.elcomercio.com/deportes/futbol/chile-brasil-resultado-eliminatorias-2026.html "Chile perdió con Brasil en los minutos finales")
+* [Venezuela no se rindió ante Argentina en las eliminatorias sudamericanas](https://www.elcomercio.com/deportes/eliminatorias/venezuela-argentina-eliminatorias-sudamericanas-resultado-empate.html "Venezuela no se rindió ante Argentina en las eliminatorias sudamericanas")
+
+Un triunfo sufrido para Perú
+----------------------------
+
+El Estadio Nacional fue escenario de un partido muy intenso y disputado.
+
+En los primeros 45 minutos, **ambos equipos generaron oportunidades** para ponerse en ventaja. Sin embargo, los arqueros fueron los grandes protagonistas, con destacadas actuaciones que mantuvieron el marcador en cero.
+
+**Sergio** **Rochet**, portero uruguayo, fue clave en los últimos minutos del primer tiempo, cuando realizó una espectacular atajada que evitó que los locales se fueran al descanso con ventaja.
+
+En la segunda mitad, P**erú mantuvo la presión sobre la defensa uruguaya**, impulsado por el buen ánimo tras las acciones del primer tiempo. Aunque insistieron, no lograban concretar.
+
+Uruguay, por su parte, generó pocas acciones de peligro y apostó por remates de media distancia, sin mucho éxito.
+
+Finalmente, la ‘**Bicolor’ obtuvo su recompensa** en los últimos minutos del partido. A los 87 minutos, el defensor **Miguel Araujo marcó el gol de la victoria** tras un gran centro de Piero Quispe. En la jugada, el arquero Sergio Rochet quedó mal posicionado y no tuvo tiempo para reaccionar adecuadamente.
+
+Situación en la tabla de posiciones
+-----------------------------------
+
+Con esta victoria, **Perú** se aleja del último lugar y se ubica en la novena posición con seis puntos, relegando a Chile al décimo lugar con cinco unidades.
+
+Uruguay, por su parte, dejó pasar la oportunidad de acercarse a los líderes tras el tropiezo de Colombia. La ‘**Celeste’ se mantiene en el tercer puesto con 15 puntos**, uno menos que los cafeteros y cuatro por detrás del líder, Argentina.
+
+**Ecuador, con 12 puntos**, sigue ocupando la quinta posición en la tabla.
+
+El Colegio Alemán de Quito logra la suficiencia energética con proyecto solar
+=============================================================================
+
+A través del proyecto fotovoltáico, el Colegio Alemán tiene energía limpia para autoconsumo e inyecta al sistema público.
+-------------------------------------------------------------------------------------------------------------------------
+
+![560 paneles solares se instalaron en el Colegio Alemán de Quito. Foto: Diego Pallero](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-20-1.jpg)
+
+El **Colegio Alemán de Quito** dio un paso significativo hacia la sostenibilidad con la implementación de un **proyecto fotovoltaico**. Lo que nació como una propuesta estudiantil, hoy permite tener suficiencia energética y es un aporte a la reducción de emisiones de CO2 al ambiente.
+
+Más noticias
+------------
+
+* [¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?](https://www.elcomercio.com/actualidad/negocios/nueva-propuesta-ley-energia-puede-poner-fin-crisis-energetica.html "¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?")
+* [¿Proyectos de energía eléctrica de Ecuador son atractivos para las inversiones?](https://www.elcomercio.com/actualidad/negocios/proyectos-energia-ecuador-atraen-inversiones-privadas.html "¿Proyectos de energía eléctrica de Ecuador son atractivos para las inversiones?")
+
+La idea nació de los estudiantes
+--------------------------------
+
+El proyecto comenzó por iniciativa de los alumnos. **Tomás Granda, presidente del Parlamento Estudiantil**, cuenta que la idea fue de los chicos que se graduaron el 2023, como parte de un proyecto de participación estudiantil. El objetivo era reducir la huella de carbono del Colegio Alemán de Quito.
+
+Como antecedente, los alumnos ya contaban con un proyecto piloto que se realizó en 2012. Junto con la empresa ecuatoriana-alemana Sunset se colocaron paneles solares con distintas inclinaciones al norte, sur, este y oeste en uno de los bloques del colegio. La idea era saber con fines pedagógicos cuál generaba más energía. En ese momento no había una regulación para este tipo de proyectos. Así lo recuerda Víctor Aanen, gerente del establecimiento educativo.
+
+Doce años después, los estudiantes afinaron su iniciativa hablando con proveedores, pidieron cotizaciones y armaron una propuesta económica. Al final dialogaron con el rectorado para concienciar sobre este cambio que les hacía falta.
+
+Ahora que es una realidad, para Tomás “es un privilegio poder contar con energía renovable”. Añade que es uno de los pocos colegios de Quito y de Ecuador que tiene su propia energía.
+
+![Los paneles solares están ubicados estratégicamente en los techos de cinco edificios del Colegio Alemán. Foto: Diego Pallero](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-21-1024x683.jpg)
+
+Los paneles solares están ubicados estratégicamente en los techos de cinco edificios. Foto: Diego Pallero
+
+La puesta en marcha del proyecto solar
+--------------------------------------
+
+Planteada la propuesta comenzaron a ver las posibilidades reales para hacerlo; la Junta Directiva aprobó y empezaron las licitaciones en 2023. La implementación arrancó en marzo del 2024, de la mano de la empresa ecuatoriana Renova Energía.
+
+De acuerdo con las condiciones establecidas por el [Empresa Eléctrica Quito (EEQ)](https://www.eeq.com.ec/ "https://www.eeq.com.ec/"), Christian Marín, gerente, explica que se fue ajustando el diseño definitivo. Se decidió que los paneles se ubicarían en cinco bloques que físicamente se encuentran cerca y se estableció que la entidad educativa requería 560 paneles solares para producir 360 mil KWh al año.
+
+Los paneles, de origen austriaco y chino llegaron por barco al puerto de Guayaquil y de ahí se trasladaron a Cumbayá, en donde está el Colegio Alemán de Quito.
+
+Al ser paneles sumamente delicados recibieron una capacitación previa por parte del fabricante para transportarlos verticalmente. Usaron grúas para ubicarlos en su sitio.
+
+![Christian Marín, gerente de Renova Energía, en el cuarto de inversores, que transforman la corriente continua de los paneles en energía alterna. Foto: Diego Pallero](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-22-1024x683.jpg)
+
+Christian Marín, gerente de Renova Energía, en el cuarto de inversores, los cuales transforman la corriente continua de los paneles en energía alterna. Foto: Diego Pallero
+
+Monitoreo de la generación de energía solar en tiempo real
+----------------------------------------------------------
+
+Todos los paneles están conectados mediante cables subterráneos a los inversores, que se encuentran en un cuarto ubicado estratégicamente y con aislamiento de sonido. Estos equipos plateados son la parte central del sistema y convierten la corriente continua de los módulos solares en corriente alterna normalizada y la inyecta a la red pública.
+
+Cada uno de los inversores (ver foto) tiene un grupo de paneles, pero todos generan como uno solo. Lo más interesante es que toda su información está en la web y se monitorea en tiempo real. Por ejemplo se puede ver que un día con alta radiación se generó un excedente y este se inyectó a la red pública. Otro día menos soleado y más lluvioso, en cambio, toman energía de la red pública.
+
+Al final del mes se realiza un cruce de kW y la idea es que el colegio cubra el 100% de lo que necesita con la energía limpia que producen. La norma contempla que si al final del mes hay un excedente de energía se registra en la planilla del siguiente mes hasta los dos años. Si calculan mal y generan más de lo que el colegio consume en estos dos años se perderían esos kilovatios.
+
+Impacto de la energía solar al ambiente
+---------------------------------------
+
+Este proyecto tiene beneficios en dos vías para el ambiente. El primero es que al usar energía solar se reduce cerca de 140 toneladas de CO2 al año. Esto corresponde a plantar 3500 árboles al año o dejar de recorrer 560 mil km en un auto a gasolina. Con esto se aporta al mejoramiento de la calidad del aire.
+
+Hasta fines de septiembre, según Víctor Aanen, ya lograron bajar 29 toneladas de CO2.
+
+El segundo beneficio es que no se almacena la energía en baterías de litio, que son contaminantes. Además su vida útil no es tan larga como los paneles (10 años) y son muy costosas.
+
+Tomás Granda cree que esto es lo que lo mejor de todo, pues toda la energía que se recoge se usa. El resto se inyecta al sistema eléctrico nacional y, en esta época de crisis energética, es un aporte.
+
+¿Qué ocurre cuando hay cortes de energía eléctrica?
+---------------------------------------------------
+
+Christian Marín explica que el sistema de energía solar deja de operar cuando la EEQ aplica los cortes e inmediatamente entra a funcionar un generador.
+
+Si se corta la electricidad, por norma técnica y seguridad, los paneles no pueden generar energía. Si seguirían generando y un operario de la empresa eléctrica está subido en un poste pudiera hacerle daño.
+
+   
+
 Boeing despedirá a 17 000 empleados y anuncia retrasos en la producción
 =======================================================================
 
@@ -762,238 +1016,4 @@ Para sacar el máximo provecho de esta funcionalidad, considera los siguientes c
 
 * **Utiliza descripciones claras**: Una descripción detallada ayuda a los participantes a entender el propósito y los detalles del evento. 
 
-* **Fomenta la participación**: Usa el chat del grupo para animar a los miembros a confirmar su asistencia y participar activamente en la planificación. 
-
-¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?
-===================================================================
-
-El retorno de Leonardo Campana a la ‘Tri’ fue uno de los más esperados por la afición, que lo recibió con una cálida ovación.
------------------------------------------------------------------------------------------------------------------------------
-
-![Leonardo Campana lamentándose una acción de gol en el partido de Ecuador y Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-11T124125.417.jpg)
-
-**Leonardo** **Campana** volvió a sumar minutos con la **Selección** **de** **Ecuador** luego de casi un año de ausencia del combinado nacional. El delantero del Inter Miami participó en el empate contra Paraguay, generando gran expectativa entre los aficionados.
-
-Corría el minuto 65 en el Estadio Rodrigo Paz Delgado cuando **Sebastián Beccacece** encendió las gradas. El técnico argentino llamó a ‘Leo’, quien estaba realizando ejercicios de calentamiento, y le dio las instrucciones previas a su ingreso.
-
-### Más noticias:
-
-* [La Selección de Ecuador descendió al quinto puesto en la tabla](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador descendió al quinto puesto en la tabla")
-* [Leonardo Campana alborotó a los aficionados de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-alboroto-a-los-aficionados-de-la-seleccion-de-ecuador.html "Leonardo Campana alborotó a los aficionados de la Selección de Ecuador")
-* [Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay](https://www.elcomercio.com/deportes/futbol/kendry-paez-bajo-criticas-tras-empate-ecuador-paraguay.html "Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay")
-
-Finalmente, **Campana reemplazó a Gonzalo Plata**, quien también regresaba a la ‘Tri’, y disputó poco más de media hora en las eliminatorias sudamericanas.
-
-El partido de Leonardo Campana
-------------------------------
-
-El ingreso de Campana respondió a la necesidad de Beccacece de darle mayor presencia ofensiva al equipo, en un partido en el que **Paraguay optó por una defensa muy cerrada** y retrasada con múltiples hombres protegiendo su área.
-
-Campana no logró asentarse del todo en el campo debido a la férrea defensa guaraní, lo que lo obligó a moverse por varios sectores del terreno, especialmente por la banda derecha. Como nueve de referencia, el delantero del Inter Miami intentó situarse en el área, pero **recibió pocos balones y tuvo dificultades** para conectarse con sus compañeros.
-
-En total, **tocó el balón solo nueve veces,** completó cinco de ocho pases y perdió la posesión en tres ocasiones. Su i**mpacto en el juego fue limitado**.
-
-El estadio explotó con la entrada de Campana
---------------------------------------------
-
-El llamado de **Beccacece a Campana** hizo que los aficionados presentes en el estadio se emocionaran, con gritos y ovaciones que resonaron por todo el Rodrigo Paz Delgado. El delantero, que atraviesa un gran momento en la MLS, fue recibido como uno de los héroes más esperados de la noche.
-
-> ¡EL CAMBIO MÁS ESPERADO! 🤩  
->   
-> Ingresa Leonardo Campana por Gonzalo Plata  
->   
-> ⚽️ 🇪🇨 [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw) 0⃣🆚 0⃣ [#Paraguay](https://twitter.com/hashtag/Paraguay?src=hash&ref_src=twsrc%5Etfw) 🇵🇾[#LaTrixECDF](https://twitter.com/hashtag/LaTrixECDF?src=hash&ref_src=twsrc%5Etfw) 📲 [https://t.co/cOXVlVw69p](https://t.co/cOXVlVw69p) [pic.twitter.com/VfWaQPmgF2](https://t.co/VfWaQPmgF2)
-> 
-> — ®El Canal del Fútbol 🇪🇨⚽ (@ElCanalDFutbol) [October 10, 2024](https://twitter.com/ElCanalDFutbol/status/1844505235978616995?ref_src=twsrc%5Etfw)
-
-Cuando finalmente pisó el césped, las **gradas estallaron de nuevo en aplausos y vítore**s, dándole una bienvenida llena de entusiasmo y cariño.
-
-En medio de la euforia por el ingreso de Campana, los hinchas también comenzaron a pedir la entrada de **John** **Yeboah**, lo que finalmente ocurrió pocos minutos después.
-
-Sentenciado por tenencia de mono catalogado en peligro crítico
-==============================================================
-
-El condenado fue encontrado en posesión de un mono aullador. Está en la lista roja de mamíferos de Ecuador.
------------------------------------------------------------------------------------------------------------
-
-![Foto referencial publicada por el Ministerio del Ambiente. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/MONO.jpg)
-
-El ecuatoriano José fue condenado a tres años de prisión por el **delito de tenencia y transporte ilegal** de un **mono aullador** (Alouatta palliata).
-
-Esta sentencia, emitida por un juez de **garantías penales**, también incluye una multa equivalente a 10 salarios básicos unificados.
-
-La condena se produce tras ser sorprendido en **delito flagrante** durante un operativo de control de vida silvestre, lo que subraya la creciente preocupación sobre la protección de la **fauna** en **Ecuador**.
-
-### Más noticias
-
-* [Esta es la situación de la fauna afectada por los incendios en Quito del 24 de septiembre](https://www.elcomercio.com/tendencias/ambiente/incendios-forestales-quito-fauna-rescate.html "Esta es la situación de la fauna afectada por los incendios en Quito del 24 de septiembre")
-* [Incendios forestales amenazan a la fauna ‘invisible’ clave de los bosques de Quito](https://www.elcomercio.com/tendencias/ambiente/incendios-forestales-fauna-quito-invisible.html "Incendios forestales amenazan a la fauna ‘invisible’ clave de los bosques de Quito")
-* [13 perros en condición de maltrato, rescatados en Quito](https://www.elcomercio.com/actualidad/13-perros-en-condicion-de-maltrato-rescatados-en-quito-puengasi.html "13 perros en condición de maltrato, rescatados en Quito")
-
-El operativo y la detención en Ecuador
---------------------------------------
-
-El 9 de julio de 2024, la **Unidad de Protección Ambiental (UPMA)** de la **Policía** Nacional del Ecuador realizó un operativo que resultó en la detención del ciudadano en posesión del mono aullador.
-
-En la audiencia de juzgamiento, se presentó información clave proporcionada por el **Ministerio del Ambiente**, Agua y Transición Ecológica (Maate).
-
-Esta colaboración interinstitucional fue fundamental para establecer la responsabilidad del acusado en el delito contra la flora y fauna, conforme al artículo 247 del **Código Orgánico Integral Penal (COIP).**
-
-El mono aullador es un especie en peligro crítico
--------------------------------------------------
-
-El mono aullador se encuentra catalogado como **Peligro Crítico**, según la lista roja de **mamíferos** de **Ecuador** y en el Apéndice II de **CITES**.
-
-Esto resalta la urgencia con que se deben abordar estos delitos, ya que cada acción cuenta para preservar las especies en riesgo.
-
-La situación actual exige una mayor conciencia pública sobre la importancia de proteger nuestra biodiversidad.
-
-El Ministerio del Ambiente pidió a los ciudadanos para que denuncien este tipo de delitos al **ECU 911** o a través de las redes sociales oficiales de ese ministerio.
-
-¿Qué jugadores de Ecuador se reencontraron con Alfaro?
-======================================================
-
-17 de los 25 jugadores que fueron convocados en la Selección de Ecuador para enfrentar a Paraguay se reencontraron con Gustavo Alfaro.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Gustavo Alfaro (izq.), DT de la Selección de Ecuador, junto a Gonzalo Plata, uno de sus exdirigidos.](https://www.elcomercio.com/wp-content/uploads/2024/10/PALL4924-scaled.jpg)
-
-La Selección de Ecuador se enfrentó a la de Paraguay del DT Gustavo Alfaro, quien dirigió al equipo entre 2020 y 2022. En la convocatoria de **25 jugadores** para enfrentar a la ‘Albirroja’, 17 de los citados habían sido dirigidos por el entrenador argentino.
-
-El combinado tricolor y los guaranís dividieron honores en su compromiso por la novena fecha de las eliminatorias sudamericanas rumbo al **Mundial de 2026**. El partido estuvo marcado por el reencuentro de la escuadra con el entrenador paraguayo.
-
-### Más noticias:
-
-* [Beccacece, satisfecho tras empate de la Selección de Ecuador con Paraguay](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-paraguay.html "Beccacece, satisfecho tras empate de la Selección de Ecuador con Paraguay")
-* [‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador](https://www.elcomercio.com/deportes/chito-vera-moises-caicedo-seleccion-ecuador.html "‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador")
-* [¿Cuándo juega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-eliminatorias-mundial-2026.html "¿Cuándo juega la Selección de Ecuador ante Uruguay?")
-
-Para el choque, Alfaro arribó con un empate ante Uruguay y un triunfo ante Brasil en la doble fecha clasificatoria en la que debutó. El estratega gaucho, sin embargo, ya conocía al equipo tricolor al que ahora dirige **Sebastián Beccacece**.
-
-Después de la salida del entrenador en 2022, el técnico que estuvo en medio de él y del vigente en la Tri fue **Félix Sánchez Bas**, quien abandonó el cargo tras la **Copa América**. Tras la despedida de Alfaro, los cambios realizados tanto por Beccacece como por su antecesor no fueron de mayor profundidad.
-
-La Selección de Ecuador, con un once casi 100% de Alfaro
---------------------------------------------------------
-
-Dentro de la alineación que plantó **Sebastián Beccacece** en la Selección de Ecuador, 10 de los 11 jugadores titulares estuvieron con Gustavo Alfaro. Asimismo, al menos ocho debutaron durante su gestión.
-
-Al igual que los **futbolistas** que estuvieron en la oncena inicial, un **nutrido grupo** ocupó el banco de suplentes. Estos también se mezclaron entre nombres que formaron parte de su paso por el equipo y otros a los que él les dio su primera oportunidad.
-
-Las caras que se reencontraron con el **entrenador** fueron: Hernán Galíndez, Gonzalo Valle, Félix Torres, Willian Pacho, Piero Hincapié, Angelo Preciado, Jhoanner Chávez, Jeremy Sarmiento, Gonzalo Plata, Kevin Rodríguez, Leonardo Campana, Alan Franco, Moisés Caicedo, Pervis Estupiñán, Gonzalo Plata, Enner Valencia.
-
-¿Quiénes fueron las excepciones de la Selección de Ecuador?
------------------------------------------------------------
-
-Entre aquellos que no tuvieron un pasado con **Gustavo Alfaro** en la Tri se encontraron jugadores jóvenes y otros cuyo nivel repunto de manera posterior. Estos formaron parte de la etapa de Félix Sánchez y de la nueva con Beccacece[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
-
-Los futbolistas que no llegaron a coincidir con el argentino fueron **Joel Ordóñez, Cristian Ramírez, Alan Minda, Óscar Zambrano, Kendry Páez, Jhon Yeboah, Pedro Vite y John Mercado.**
-
-La quinua, considerada un superalimento, ayuda a retrasar el envejecimiento 
-============================================================================
-
-También ayuda a aumentar la masa muscular.
-------------------------------------------
-
-![Este grano puede aportar más proteína que, incluso, el arroz integral. Foto: iStock](https://www.elcomercio.com/wp-content/uploads/2024/10/quinoa-envejecimiento.jpg)
-
-A la **quinua** ya le dicen que es **el cereal para retrasar el envejecimiento** y para **aumentar la masa muscular**. Se hizo famosa por ser el **alimento de los astronautas**, pero sus beneficios se amplían a otros grupos de personas. 
-
-### Más noticias
-
-* [Expertos descifran genoma de la quinua](https://www.elcomercio.com/tendencias/ciencia/genoma-quinua-genes-alimentacion-humanidad.html "https://www.elcomercio.com/tendencias/ciencia/genoma-quinua-genes-alimentacion-humanidad.html")
-* [La quinua es un versátil suplemento](https://www.elcomercio.com/tendencias/quinua-suplemento-alimento-gastronomia-cocina.html "https://www.elcomercio.com/tendencias/quinua-suplemento-alimento-gastronomia-cocina.html")
-
-**Un alimento poderoso para muchos grupos** 
---------------------------------------------
-
-Se le reconoce como **un alimento poderoso que ofrece muchos nutrientes**, pero en muchos hogares pasa inadvertido. Es **fuente de proteínas, antioxidantes y grasas saludables**, convirtiéndose en una alternativa también para los deportistas. 
-
-**Fuente de proteínas y antioxidantes** 
-----------------------------------------
-
-“La **cantidad de proteínas en la quinua** depende de la variedad, con un rango comprendido entre un 10,4 por ciento y un 17,0 por ciento de su parte comestible”, detalla la **Organización de las Naciones Unidas para la Alimentación y la Agricultura** (FAO), cuya asamblea declaró oficialmente a 2013 como **el Año Internacional de la Quinua** (como también se le conoce). 
-
-**Los aminoácidos esenciales en la quinua** 
---------------------------------------------
-
-Contiene los **nueve aminoácidos esenciales** -los componentes básicos de las proteínas- que el cuerpo del ser humano necesita, pero que no puede producir por sí mismo. **Es un alimento que pueden consumir las personas con diabetes**. 
-
-**Protección contra el daño celular y el envejecimiento** 
-----------------------------------------------------------
-
-Igualmente, se le endilga que **puede retrasar el envejecimiento y evitar el daño celular**. Posee **vitamina E**, una molécula orgánica que **protege el tejido corporal** del daño causado por los radicales libres, los cuales juegan un papel importante en el **proceso de envejecimiento**. 
-
-**Beneficios de la vitamina C en la piel** 
--------------------------------------------
-
-**Tiene vitamina C**, considerada un **potente antioxidante** que neutraliza los radicales libres que causan **estrés oxidativo en la piel** y provocan su **envejecimiento prematuro**. Además, **contribuye para la producción de colágeno** en las células cutáneas; es decir, **ayuda a mantener la estructura de la piel**. 
-
-**Flavonoides que retrasan el envejecimiento** 
------------------------------------------------
-
-Y se le suman **dos flavonoides**: la quercetina y el kaemferol. Ambos **pueden ayudar a retrasar el envejecimiento**. 
-
-**Grasas saludables: omega 3 y omega 6** 
------------------------------------------
-
-El **omega 3 y el omega 6** que hace parte de su composición son de tipo poliinsaturado. De acuerdo con la revista MedlinePlus, es un tipo de **grasa dietaria** que se encuentra en alimentos vegetales y animales, tales como el salmón, los aceites vegetales, y algunas nueces y semillas. 
-
-**Contribución de la quinua en el control del peso** 
------------------------------------------------------
-
-“La cantidad de proteínas y fibra que aporta, así como nivel de **grasas saludables** y de carbohidratos, **ayudan a reducir péptidos que despiertan el hambre y los antojos**, como la grelina, mientras contribuye a saciarnos y a evitar la sensación de apetito durante mucho más tiempo”, detalla la revista Elle con respecto a los beneficios relacionados con el peso. 
-
-Caso Metástasis, 30 vinculados podrían enfrentar estas sentencias
-=================================================================
-
-En el caso Metástasis 30 personas fueron llamadas a juicio por presenta participación de delincuencia organizada.
------------------------------------------------------------------------------------------------------------------
-
-![Audiencia del caso Metástasis el pasado 12 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/caso-mestastasis.png)
-
-El pasado 7 de octubre de 2023, el **juez Manuel Cabrera** acogió la solicitud de la **Fiscalía General del Estado** y llamó a juicio a **30 de los 37 procesados** por su presunta participación en el delito de **delincuencia organizada**, según lo establecido en la audiencia preparatoria de juicio.
-
-### Más noticias
-
-* [Caso Metástasis iniciará una nueva etapa, ¿quiénes fueron llamados a juicio?](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-iniciara-una-nueva-etapa-quienes-fueron-llamados-juicios.html "Caso Metástasis iniciará una nueva etapa, ¿quiénes fueron llamados a juicio?")
-* [Caso Metástasis, juez Manuel Cabrera toma una resolución contra 37 procesados](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-juez-manuel-cabrera-tomo-una-decision-contra-37-procesados.html "Caso Metástasis, juez Manuel Cabrera toma una resolución contra 37 procesados")
-* [Caso Metástasis, acusaciones y defensas chocan en audiencias](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-acusaciones-defensas-chocan-audiencias.html "Caso Metástasis, acusaciones y defensas chocan en audiencias")
-
-De acuerdo con la Fiscalía, existen **suficientes indicios que vinculan a los procesados** con las actividades ilícitas investigadas, lo que les obliga a enfrentar el juicio para e**sclarecer su situación jurídica**.
-
-> [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw)[#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw)[#LlamadosAJuicio](https://twitter.com/hashtag/LlamadosAJuicio?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/DXBoiG5mxG](https://t.co/DXBoiG5mxG)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 7, 2024](https://twitter.com/FiscaliaEcuador/status/1843433282614231340?ref_src=twsrc%5Etfw)
-
-Entre los acusados se encuentran cuatro personas a quienes la Fiscalía señala como los **presuntos líderes de una organización criminal**. Además, se han identificado colaboradores que habrían contribuido a la operación de esta **red delictiva**.
-
-Investigación iniciada tras el asesinato de Norero
---------------------------------------------------
-
-La investigación que destapó la red criminal del **caso Metástasis** comenzó a raíz del asesinato de **Leandro Norero** en el Centro de Privación de Libertad de Cotopaxi.
-
-Según la Fiscalía, Norero lideraba una organización desde prisión, cuyo objetivo principal era asegurar privilegios para él y su familia, además de **evadir la justicia** en un proceso por lavado de activos. Entre los colaboradores mencionados durante la audiencia se incluyen jueces, fiscales, policías, guías penitenciarios y abogados.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): con la presencia –vía telemática– de la fiscal general del Estado, Diana Salazar, se reinstala la audiencia preparatoria de juicio. El juez Manuel Cabrera informará si llama o no a juicio a los 37 procesados por presunta [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/87xHBhwVan](https://t.co/87xHBhwVan)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 7, 2024](https://twitter.com/FiscaliaEcuador/status/1843374211655709024?ref_src=twsrc%5Etfw)
-
-El juez Cabrera, además de [llamar a juicio a **30 personas**](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-iniciara-una-nueva-etapa-quienes-fueron-llamados-juicios.html "https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-iniciara-una-nueva-etapa-quienes-fueron-llamados-juicios.html"), dictó auto de **sobreseimiento para otros siete procesados**. Estas personas quedaron exentos de continuar con el **proceso judicial** al no encontrarse pruebas suficientes en su contra.
-
-Algunos **procesados se encuentran actualmente prófugos**, lo que ha provocado la suspensión de la etapa de juicio para ellos.
-
-Vinculados en el caso Metástasis
---------------------------------
-
-Posibles sentencias para los implicados en el caso Metástasis
--------------------------------------------------------------
-
-El **artículo 369 del Código Orgánico Integral Penal (COIP)** tipifica el delito de delincuencia organizada, estableciendo penas de **siete a 10 años de prisión** para aquellos que ocupen roles de liderazgo dentro de **organizaciones criminales**. Esta sanción aplica a quienes financien, ejerzan mando o planifiquen actividades delictivas.
-
-Por otro lado, los colaboradores que **no desempeñen un papel jerárquic**o podrían enfrentar penas privativas de libertad de **cinco a siete años**. Esto incluye a quienes contribuyen al funcionamiento de estas estructuras delictivas sin asumir un **rol directivo**.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): 30 procesados son llamados a juicio. [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) los procesa por su presunta participación en el delito de [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Detalles ⬇️[https://t.co/K9hBVKTZSM](https://t.co/K9hBVKTZSM) [pic.twitter.com/Tt7U2orq4j](https://t.co/Tt7U2orq4j)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 8, 2024](https://twitter.com/FiscaliaEcuador/status/1843451035467296949?ref_src=twsrc%5Etfw)
+* **Fomenta la participación**: Usa el chat del grupo para animar a los miembros a confirmar su asistencia y participar activamente en la planificación.
