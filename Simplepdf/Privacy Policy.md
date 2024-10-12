@@ -69,7 +69,7 @@ SimplePDF would like to make sure you are fully aware of all of your data protec
 * The right to object to processing - You have the right to object to SimplePDF's processing of your personal data, under certain conditions.
 * The right to data portability - You have the right to request that SimplePDF transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: [gdpr@simplePDF.eu](mailto:gdpr@simplePDF.eu)
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: [gdpr@simplepdf.com](mailto:gdpr@simplepdf.com)
 
 How do we use cookies?
 ----------------------
@@ -94,7 +94,7 @@ How to contact us
 
 If you have any questions about SimplePDF's privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
 
-Email us at: [privacy@simplePDF.eu](mailto:privacy@simplePDF.eu)
+Email us at: [privacy@simplepdf.com](mailto:privacy@simplepdf.com)
 
 [?](https://simplepdf.eu/help)Feedback
 
