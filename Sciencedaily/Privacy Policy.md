@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [3D Printing Method: Unique Objects Quickly](https://www.sciencedaily.com/releases/2024/10/241011141558.htm)
 * ['Inside-Out' Galaxy Growth in Early Universe](https://www.sciencedaily.com/releases/2024/10/241011141247.htm)
 * [Dance, Gibbon, Dance!](https://www.sciencedaily.com/releases/2024/10/241011141154.htm)
 * [19th Century Lions from Kenya Ate Humans](https://www.sciencedaily.com/releases/2024/10/241011140945.htm)
@@ -217,7 +218,6 @@ this hour
 * [How Your Skin Tone Could Affect Your Meds](https://www.sciencedaily.com/releases/2024/10/241010205906.htm)
 * [Special 'Skinny Genes' Double Weight Loss](https://www.sciencedaily.com/releases/2024/10/241009122307.htm)
 * [Catastrophically Warm Predictions More Plausible](https://www.sciencedaily.com/releases/2024/10/241010124852.htm)
-* [Late Cretaceous Birds: Raptor-Like Feet](https://www.sciencedaily.com/releases/2024/10/241009144842.htm)
 
 Trending Topics
 ---------------
@@ -230,25 +230,25 @@ this week
 
 [Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
-[Racial Issues](https://www.sciencedaily.com/news/mind_brain/racial_issues/)
+[Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
 
-[Memory](https://www.sciencedaily.com/news/mind_brain/memory/)
+[Racial Issues](https://www.sciencedaily.com/news/mind_brain/racial_issues/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Alternative Fuels](https://www.sciencedaily.com/news/matter_energy/alternative_fuels/)
-
-[Satellites](https://www.sciencedaily.com/news/space_time/satellites/)
+[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
 
 [Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+
+[Extrasolar Planets](https://www.sciencedaily.com/news/space_time/extrasolar_planets/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
 
-[Extreme Survival](https://www.sciencedaily.com/news/plants_animals/extreme_survival/)
+[Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
-[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
+[Extreme Survival](https://www.sciencedaily.com/news/plants_animals/extreme_survival/)
 
   
 
