@@ -301,7 +301,7 @@ We have appointed a data protection officer ("DPO") who is responsible for overs
 If you have any questions about this privacy policy or our privacy practices, please contact us in the following ways:
 
 Full name of legal entity: Beacon Apps Ltd  
-Email address: [**privacy@beaconcrm.org**](mailto:privacy@beaconcrm.org)  
+Email address: [\[email protected\]](https://www.beaconcrm.org/cdn-cgi/l/email-protection)  
 Postal address: 4-6 New Inn Broadway, London, EC2A 3PR  
 VAT Number: 346348093  
 ICO Registration Number: ZA555583
@@ -695,6 +695,6 @@ Try Beacon for free today.
 
 **Contact**
 
-[020 3886 0205](tel:02038860205)[support@beaconcrm.org](mailto:support@beaconcrm.org)
+[020 3886 0205](tel:02038860205)[\[email protected\]](https://www.beaconcrm.org/cdn-cgi/l/email-protection)
 
 ©2024 Beacon Apps Ltd. All Rights Reserved. 4-6 New Inn Broadway, London EC2A 3PR
