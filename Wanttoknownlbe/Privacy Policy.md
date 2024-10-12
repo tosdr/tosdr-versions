@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/de-griepprik-de-weerstand-ertegen-groeit/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/media-cover-up/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
