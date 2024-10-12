@@ -135,7 +135,7 @@ We’ll process your data when we have a legal obligation to do so, for example,
 
 (iv) With your consent
 
-We may ask for your agreement to process your information for specific purposes and you have the right to withdraw your consent at any time. For example, we ask for your consent to publish your testimonial, if it includes your identification. If you wish to withdraw your consent, you can contact us at privacy@grain.co.
+We may ask for your agreement to process your information for specific purposes and you have the right to withdraw your consent at any time. For example, we ask for your consent to publish your testimonial, if it includes your identification. If you wish to withdraw your consent, you can contact us at [\[email protected\]](https://grain.com/cdn-cgi/l/email-protection).
 
 **8\. SHARING OF INFORMATION COLLECTED**
 
@@ -157,11 +157,11 @@ We may also share Personal Information with third parties when we have your cons
 
 **9\. CHOICE AND COMMUNICATIONS PREFERENCES**
 
-We offer those who provide personal contact information a means to choose how we use the information provided. You can opt-out of receiving marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of our marketing emails or you may send a request to privacy@grain.co.
+We offer those who provide personal contact information a means to choose how we use the information provided. You can opt-out of receiving marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of our marketing emails or you may send a request to [\[email protected\]](https://grain.com/cdn-cgi/l/email-protection).
 
 **10\. ACCESSING, EXPORTING AND REMOVING YOUR INFORMATION AND OTHER AVAILABLE RIGHTS**
 
-Upon request, we will provide you with information about whether we hold and otherwise process, or process on behalf of a third party, any of your Personal Information. To request this information please contact us at privacy@grain.co. Subscribers to our Services may update or change their Account Information by editing their profile or organization record or by contacting privacy@grain.co for more detailed instructions. To make a request to have Personal Information maintained by us returned to you or removed, please email privacy@grain.co. Requests to access, change, or remove your information will be handled within thirty 30 days.
+Upon request, we will provide you with information about whether we hold and otherwise process, or process on behalf of a third party, any of your Personal Information. To request this information please contact us at [\[email protected\]](https://grain.com/cdn-cgi/l/email-protection). Subscribers to our Services may update or change their Account Information by editing their profile or organization record or by contacting [\[email protected\]](https://grain.com/cdn-cgi/l/email-protection) for more detailed instructions. To make a request to have Personal Information maintained by us returned to you or removed, please email [\[email protected\]](https://grain.com/cdn-cgi/l/email-protection). Requests to access, change, or remove your information will be handled within thirty 30 days.
 
 An individual who seeks access to, or who seeks to correct, amend, or delete inaccuracies in Personal Information stored or processed by us on behalf of a Subscriber should direct his/her query to the Subscriber (the data controller). Upon receipt of a request from one of our Subscribers for us to remove the data, we will respond to their request within thirty (30) days. We will retain Personal Information that we store and process on behalf of our Subscribers for as long as needed to provide the Services to our Subscribers. We will retain and use this Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -169,11 +169,11 @@ If you are a Subscriber or otherwise provide us with Personal Information in con
 
 **12\. SECURITY**
 
-The security of your Personal Information is important to us. We follow generally accepted, reasonable, and appropriate standards to protect the Personal Information submitted to us, both during transmission and once it is received. In deciding what is reasonable and appropriate we take into account the risks involved and the nature of the information. If you have any questions about the security of your Personal Information, you can contact us at privacy@grain.co.
+The security of your Personal Information is important to us. We follow generally accepted, reasonable, and appropriate standards to protect the Personal Information submitted to us, both during transmission and once it is received. In deciding what is reasonable and appropriate we take into account the risks involved and the nature of the information. If you have any questions about the security of your Personal Information, you can contact us at [\[email protected\]](https://grain.com/cdn-cgi/l/email-protection).
 
 **13\. CHILDREN’S PERSONAL INFORMATION**
 
-We do not knowingly collect any Personal Information from children under the age of 16. If you are under the age of 16, please do not use or submit any Personal Information through our Websites or Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through the Websites or Services without parental permission. If you have reason to believe that a child under the age of 16 has provided Personal Information to us through the Websites or Services, please contact us at privacy@grain.co, and we will use commercially reasonable efforts to delete that information.
+We do not knowingly collect any Personal Information from children under the age of 16. If you are under the age of 16, please do not use or submit any Personal Information through our Websites or Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through the Websites or Services without parental permission. If you have reason to believe that a child under the age of 16 has provided Personal Information to us through the Websites or Services, please contact us at [\[email protected\]](https://grain.com/cdn-cgi/l/email-protection), and we will use commercially reasonable efforts to delete that information.
 
 **14\. BUSINESS TRANSACTIONS**
 
@@ -185,7 +185,7 @@ If there are any material changes to this Policy, you will be notified by our po
 
 **16\. CONTACT US**
 
-If you have questions regarding this Policy or about the privacy practices of Grain, please contact us by email at privacy@grain.co, or at:
+If you have questions regarding this Policy or about the privacy practices of Grain, please contact us by email at [\[email protected\]](https://grain.com/cdn-cgi/l/email-protection), or at:
 
 Grain Intelligence, Inc.  
 Attn: Privacy Officer
@@ -204,7 +204,7 @@ Get Started with Grain
 
 [Try for free](https://grain.com/app/signup)
 
-[hello@grain.com](mailto:hello@grain.com)
+[\[email protected\]](https://grain.com/cdn-cgi/l/email-protection)
 
 [Follow Grain on LinkedIn](https://www.linkedin.com/company/grainhq/)[Follow Grain on Twitter](https://twitter.com/GrainHQ)[Follow Grain on YouTube](https://www.youtube.com/channel/UCJ8JwSUW68njZbycrxhTGMQ)[Follow Grain on Facebook](https://www.facebook.com/usegrain/)
 
@@ -240,7 +240,7 @@ Company
 
 [Press](https://grain.com/careers#press)
 
-[Contact Us](mailto:hello@grain.co?subject=Hello%20Grain%20Team%20(footer))
+[\[email protected\]](https://grain.com/cdn-cgi/l/email-protection)
 
 Resources
 
