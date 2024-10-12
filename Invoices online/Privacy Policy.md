@@ -125,50 +125,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Henry Venter
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=171389173)  
-MR Compressors& Industrial Supplies
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=195427898)  
+Cape Adventure Zone
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=17026269)  
-Repairs In Motion
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=71320243)  
+VA AND M BUSINESSES (PTY)LTD
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=160524371)  
-ARCHITEK PTY LTD
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=165295035)  
+Little Nutty Professors
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=213195569)  
-CHARLIEX CONSTRUCTIONS
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=143174091)  
+Wiselink Broadband Pty Ltd
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=183331798)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=50494212)  
+CBR Verwe/Paints
 
-![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=94371533)  
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=177775449)  
+Nogana Events and Decor
+
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=128305263)  
+RADIO TYGERBERG 104FM NPC
+
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=108925082)  
+Quad Biking Cape Town
+
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=133012247)  
+MONSTER CONNECT (PTY) LTD
+
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=33445152)  
+PROGRAPHIX PTY LTD
+
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=126467692)  
+Highlands Auto Engineering
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=136040179)  
+Tagline Brands
+
+![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=133491597)  
 Sportspro Group (Pty) Ltd
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=86394954)  
-Mtunzini Group
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=131643388)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=10824955)  
-Peter Salvage Pty Ltd
-
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=81925421)  
-Depot Diesel (Pty) Ltd
-
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=166920472)  
-Lindani Protection Services & Projects
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=48877002)  
-Myfinance-Online
-
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=25674002)  
-J.M. HUMAN RESOURCES
-
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=147921353)  
-Van Der Merwe Olieverspreiders
-
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=49529639)  
-Cpower Projects t/a Pro Pure Water
-
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=dd07ca6d07791b55d0a4c6fd2ebd9e4009696bb7e5c094c46c2749642e802f30&c=101419510)  
-Leef in Afrikaans
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=17549746)  
+Konsortium Operations (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
