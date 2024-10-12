@@ -183,3 +183,5 @@ Jun 17, 2018 | Posted by [Dr Karl](https://pocketdentistry.com/author/admin01/ "
 [**Get VIDEdental** app for watching clinical videos](http://videdental.com/)
 
 [![](https://storage.googleapis.com/faquiz2/Beta/banner.png)](https://videdental.com/)
+
+WhatsApp us
