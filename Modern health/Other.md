@@ -232,4 +232,6 @@ The comprehensive mental health care platform for enterprises around the world
 
 |
 
-[Cookie Preferences](#)
+[Cookie Preferences](https://www.modernhealth.com/consent-to-telehealth-treatment)
+
+Cookie Preferences
