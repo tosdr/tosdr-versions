@@ -35,8 +35,8 @@ Terms of Use - Mod DB
     * [upload](https://www.moddb.com/downloads/add)
 * [RTX Remix](https://www.moddb.com/rtx)
     * [Games Compatibility](https://www.moddb.com/rtx)
-    * [Mods](https://www.moddb.com/rtx/mods)
-    * [Files](https://www.moddb.com/rtx/downloads)
+    * [Remix Mods](https://www.moddb.com/rtx/mods)
+    * [Remix Files](https://www.moddb.com/rtx/downloads)
     * [PBR Assets](https://www.moddb.com/rtx/downloads?filter=t&category=34)
     * [News](https://www.moddb.com/rtx/articles)
     * [Tutorials](https://www.moddb.com/rtx/tutorials)
@@ -292,6 +292,6 @@ If you have any questions about these Terms, please contact us:
 * By post: DBolical Pty Ltd - 164 Kings Way, South Melbourne VIC 3205 Australia
 * By visiting this page on our website: [https://www.moddb.com/contact](https://www.moddb.com/contact)
 
-[](https://www.dbolical.com/ "DBolical - Entertainment Euphoria")Cookies | [Terms of Use](https://www.moddb.com/terms-of-use) | [Privacy Policy](https://www.moddb.com/privacy-policy) [Blog](https://www.moddb.com/blog) | [About](https://www.moddb.com/about) | [Advertise](https://www.moddb.com/advertise) | [Contact](https://www.moddb.com/contact) | [Submit Mod](https://www.moddb.com/mods/add) | [Cross-Platform Mod Support](https://mod.io/ "Cross Platform Mod support for game developers") | [Site Map](https://www.moddb.com/sitemap) © 2002 - 2024 [DBolical Pty Ltd.](https://www.dbolical.com/)  All Rights Reserved.  [5766 modders](https://www.moddb.com/members/online).
+[](https://www.dbolical.com/ "DBolical - Entertainment Euphoria")Cookies | [Terms of Use](https://www.moddb.com/terms-of-use) | [Privacy Policy](https://www.moddb.com/privacy-policy) [Blog](https://www.moddb.com/blog) | [About](https://www.moddb.com/about) | [Advertise](https://www.moddb.com/advertise) | [Contact](https://www.moddb.com/contact) | [Submit Mod](https://www.moddb.com/mods/add) | [Cross-Platform Mod Support](https://mod.io/ "Cross Platform Mod support for game developers") | [Site Map](https://www.moddb.com/sitemap) © 2002 - 2024 [DBolical Pty Ltd.](https://www.dbolical.com/)  All Rights Reserved.  [7668 modders](https://www.moddb.com/members/online).
 
 ![CS](https://b.scorecardresearch.com/p?c1=2&c2=8518622&cs_ucfr=0&cv=2.0&cj=1)
