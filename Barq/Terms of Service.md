@@ -118,7 +118,7 @@ Changes
 
 [\[email protected\]](https://barq.social/cdn-cgi/l/email-protection)
 
-[Send feedback](https://feedback.barq.social/)
+[Send feedback](https://discord.gg/ndrDq6Wpf8)
 
 [Is BARQ! down?](https://stats.uptimerobot.com/w5P4BUvo3J)
 
