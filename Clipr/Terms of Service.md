@@ -118,7 +118,7 @@ Notwithstanding any value attributed to such data by you or any third party, you
 
 We respect the intellectual property of others and take the protection of our copyright, trademarks, and all other intellectual property very seriously, and ask that Users do the same.
 
-If you are a content owner or User with concerns regarding infringement of your copyright on our Service, you may notify us on contact@clipr.co by providing our representative with the following information:
+If you are a content owner or User with concerns regarding infringement of your copyright on our Service, you may notify us on [\[email protected\]](https://www.clipr.co/cdn-cgi/l/email-protection) by providing our representative with the following information:
 
 1. The electronic or physical signature of the owner of the copyright or the person authorized to act on the owner's behalf;
 2. A description of the copyrighted work that you claim has been infringed and a description of the infringing activity along with where it is located on the Service;
@@ -218,13 +218,13 @@ The foregoing limitation of liability shall apply to the fullest extent permitte
 
 18.9 Disclosures: The Service hereunder are offered by: Capteev SAS, 10 rue de Penthièvre, 75008 Paris, France. General: Your electronic consent to this Agreement (or to any other agreement between you and Clipr), whether by clicking “I AGREE” or similar buttons and/or your registration to use the Service or your continued use of the Service governed by this Agreement, shall constitute your electronic signature and, according to the provisions of the applicable law (including, without limitation, information technology laws), shall be of the same effect as if you had signed such agreement manually and physically. Upon our request, you agree to sign a non-electronic version of this Agreement. A printed version of this Agreement and/or of any notice given in electronic form shall be admissible in judicial, quasi-judicial, or administrative proceedings arising out of or relating to this Agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
 
-18.10 Contact: Please contact us at contact@clipr.co with any questions regarding this Agreement or the Terms.  
+18.10 Contact: Please contact us at [\[email protected\]](https://www.clipr.co/cdn-cgi/l/email-protection) with any questions regarding this Agreement or the Terms.  
 
 ![](https://cdn.prod.website-files.com/5efa5c411553a178e49b14a5/5efa5fc875331b574d3c5b53_logo-clipr%403x.png)
 
 [](#)[](#)
 
-* [Contact us](mailto:contact@clipr.co?subject=Hello%20Clipr)
+* [\[email protected\]](https://www.clipr.co/cdn-cgi/l/email-protection)
 * [Terms of use](https://www.clipr.co/terms-conditions)
 * [Privacy terms](https://www.clipr.co/privacy-terms)
 
