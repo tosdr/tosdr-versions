@@ -550,7 +550,7 @@ msg
 
 flash
 
-By checking this box, I agree to the [Privacy Policy](https://store.digitalriver.com/store/defaults/en_US/DisplayDRPrivacyPolicyPage/eCommerceProvider.DR+globalTech+Inc.) and the [Terms of Sale](https://store.digitalriver.com/store/defaults/en_US/DisplayDRTermsAndConditionsPage/eCommerceProvider.DR+globalTech+Inc.) of [DR globalTech Inc.](https://store.digitalriver.com/store/defaults/en_US/DisplayDRAboutDigitalRiverPage/eCommerceProvider.DR+globalTech+Inc.)
+By checking this box, I agree to the [Privacy Policy](https://store.digitalriver.com/store/defaults/en_US/DisplayDRPrivacyPolicyPage/eCommerceProvider.DR+globalTech+Inc.) and the [Terms of Sale](https://store.digitalriver.com/store/defaults/en_US/DisplayDRTermsAndConditionsPage/eCommerceProvider.DR+globalTech+Inc.) of [DR globalTech Inc.](https://store.digitalriver.com/store/defaults/en_US/DisplayDRAboutDigitalRiverPage/eCommerceProvider.DR+globalTech+Inc.) See our [Privacy Policy](https://www.logitech.com/en-us/legal/privacy-policy.html) .
 
 Or
 
