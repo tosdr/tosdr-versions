@@ -51,7 +51,7 @@ This Privacy Policy does not apply to the information that we collect about empl
 
 We may update this Privacy Policy from time to time and will provide notice to you as describe below in the section titled [Notice of Changes](#notice-of-changes).
 
-Our Site is not directed at children under the age of 13 and we do not knowingly collect information from individuals under the age of 13. If you are under the age of 13, you may not use the Site or provide your information to us through the Site or otherwise. If a child under the age of 13 has provided us with their information without parental or guardian consent, the parent or guardian may contact us by emailing us at [privacy@digitaltrends.com](mailto:privacy@digitaltrends.com). We will remove the information and unsubscribe the child from any applicable services.
+Our Site is not directed at children under the age of 13 and we do not knowingly collect information from individuals under the age of 13. If you are under the age of 13, you may not use the Site or provide your information to us through the Site or otherwise. If a child under the age of 13 has provided us with their information without parental or guardian consent, the parent or guardian may contact us by emailing us at [\[email protected\]](https://www.dtmg.co/cdn-cgi/l/email-protection). We will remove the information and unsubscribe the child from any applicable services.
 
 If you are a citizen of Switzerland, the United Kingdom, or a country in the European Economic Area, we explain the additional rights that you may have under European privacy laws in the [European Privacy Rights](#European-Privacy-Rights) section. If you are a resident of California, Nevada, or Virginia we explain additional rights that you may have in the [U.S. Data Privacy Rights](#us-state-data-privacy-rights) section.
 
@@ -205,10 +205,10 @@ You may choose to opt out of providing some information to us in some cases:
 
 ‍
 
-* **Our Email Communications:** If you would like to opt out of receiving our email newsletter, you can opt out by sending an opt out email to [privacy@digitaltrends.com](mailto:privacy@digitaltrends.com) or by clicking the “unsubscribe” link at the bottom of the email or by sending us a return email asking to be omitted from future email distributions. This opt out only applies to the email newsletter or marketing communications, and not administrative or business communications.  
+* **Our Email Communications:** If you would like to opt out of receiving our email newsletter, you can opt out by sending an opt out email to [\[email protected\]](https://www.dtmg.co/cdn-cgi/l/email-protection) or by clicking the “unsubscribe” link at the bottom of the email or by sending us a return email asking to be omitted from future email distributions. This opt out only applies to the email newsletter or marketing communications, and not administrative or business communications.  
     ‍
 
-* **Information You Provide Us**: You may send us an email at [privacy@digitaltrends.com](mailto:privacy@digitaltrends.com) to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+* **Information You Provide Us**: You may send us an email at [\[email protected\]](https://www.dtmg.co/cdn-cgi/l/email-protection) to request access to, correct, or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 ‍
 
@@ -306,7 +306,7 @@ We do not collect information about user’s age. Where we receive demographic i
 
 ‍
 
-To the extent we sell or share your personal information as those terms are defined under the CCPA, you have the right to opt-out of the sale or sharing of your personal information by us to third parties at any time. You may submit a request to opt-out of by clicking [Do Not Sell My Personal Information](https://www.digitaltrends.com/do-not-sell-my-info/). You may also submit a request to opt-out by emailing us at [privacy@digitaltrends.com](mailto:privacy@digitaltrends.com).
+To the extent we sell or share your personal information as those terms are defined under the CCPA, you have the right to opt-out of the sale or sharing of your personal information by us to third parties at any time. You may submit a request to opt-out of by clicking [Do Not Sell My Personal Information](https://www.digitaltrends.com/do-not-sell-my-info/). You may also submit a request to opt-out by emailing us at [\[email protected\]](https://www.dtmg.co/cdn-cgi/l/email-protection).
 
 ### Collection of Sensitive Personal Information
 
@@ -336,7 +336,7 @@ To the extent provided under the VCDPA, and subject to applicable exceptions, Vi
 
 ‍
 
-To the extent “sale” under the VCDPA is interpreted to include advertising technology activities as a “sale,” we have sold the following categories of information: Identifiers, Geolocation (not precise geolocation), Internet or Network Activity, and Inferences. We sell or share this information with our Advertising Partners or customers. You may submit a request to opt-out of by clicking [Do Not Sell My Personal Information](https://www.digitaltrends.com/do-not-sell-my-info/). You may also submit a request to opt-out by emailing us at [privacy@digitaltrends.com](mailto:privacy@digitaltrends.com).
+To the extent “sale” under the VCDPA is interpreted to include advertising technology activities as a “sale,” we have sold the following categories of information: Identifiers, Geolocation (not precise geolocation), Internet or Network Activity, and Inferences. We sell or share this information with our Advertising Partners or customers. You may submit a request to opt-out of by clicking [Do Not Sell My Personal Information](https://www.digitaltrends.com/do-not-sell-my-info/). You may also submit a request to opt-out by emailing us at [\[email protected\]](https://www.dtmg.co/cdn-cgi/l/email-protection).
 
 ### Financial Incentives
 
@@ -358,7 +358,7 @@ Under California Civil Code sections 1798.83- 1798.84, California residents are 
 
 Nevada Resident Privacy Rights  
 
-If you are a resident of Nevada, you have the right to opt out of the sale of certain information to third parties who intend to license or sell that information. You can exercise this right by contacting us at [privacy@digitaltrends.com](mailto:privacy@digitaltrends.com) with the subject line “**Nevada Do Not Sell Reques**t” and providing us with your name and the email address.  
+If you are a resident of Nevada, you have the right to opt out of the sale of certain information to third parties who intend to license or sell that information. You can exercise this right by contacting us at [\[email protected\]](https://www.dtmg.co/cdn-cgi/l/email-protection) with the subject line “**Nevada Do Not Sell Reques**t” and providing us with your name and the email address.  
 
 European Resident Privacy Rights  
 
@@ -390,11 +390,11 @@ If you have any questions or comments about this notice, the ways in which we co
 
 **TollFree Phone:** [1-888-914-9661](tel:1-888-914-9661)
 
-**Email:** [privacy@digitaltrends.com](mailto:privacy@digitaltrends.com)
+**Email:** [\[email protected\]](https://www.dtmg.co/cdn-cgi/l/email-protection)
 
 **Postal Address:** 111 SW 5th Ave Ste 1000, Portland, OR 97204
 
-**Data Protection Officer:** Nathan Bell; [dpo@digitaltrends.com](mailto:dpo@digitaltrends.com)  
+**Data Protection Officer:** Nathan Bell; [\[email protected\]](https://www.dtmg.co/cdn-cgi/l/email-protection)  
 
 CHANGE LOG  
 
