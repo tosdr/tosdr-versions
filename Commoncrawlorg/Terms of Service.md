@@ -244,7 +244,7 @@ Please report any violations of these ToU to Common Crawl:
   
 Contact us at:  
   
-    info@commoncrawl.org  
+    [\[email protected\]](https://commoncrawl.org/cdn-cgi/l/email-protection)  
   
 or:  
   
