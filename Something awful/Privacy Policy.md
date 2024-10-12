@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Fall TV Preview](https://www.somethingawful.com/news/fall-television-preview/1/)
-* [The Simcity Board of Advisors](https://www.somethingawful.com/news/simcity-advisors/1/)
-* [\[Slide Show\] The Sexiest Photos From the Victoria's Secret Fashion Show 2013](https://www.somethingawful.com/news/victorias-secret-stone/1/)
-* [GSElevator's How to Trap, Kill, and Eat a Goldman Sachs Banker](https://www.somethingawful.com/news/gselevator-goldman-sachs/1/)
-* [Yankee Candles](https://www.somethingawful.com/photoshop-phriday/yankee-candles/1/)
+* [21 Jump Street; Jeff, Who Lives at Home; 1000 Words](https://www.somethingawful.com/current-movie-reviews/jump-street-jeff/1/)
+* [Joyful Noise; Contraband; The Artist](https://www.somethingawful.com/current-movie-reviews/joyful-noise-contraband/1/)
+* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
+* [I Want to Believe in Change](https://www.somethingawful.com/news/joe-biden-believe/)
+* [Classic Comics III](https://www.somethingawful.com/photoshop-phriday/classic-comics-iii/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Thread for going down a mineshaft in Cripple Creek and dying](http://forums.somethingawful.com/showthread.php?threadid=4072421 "Thread for going down a mineshaft in Cripple Creek and dying")
 * ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [ITT it is the 1990s and we are watching TV at 2AM](http://forums.somethingawful.com/showthread.php?threadid=4072465 "ITT it is the 1990s and we are watching TV at 2AM")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [all your wildest dreams are about to come true](http://forums.somethingawful.com/showthread.php?threadid=4072500 "all your wildest dreams are about to come true")
 
 ### Random Articles
 
-* [A Religious Experience](https://www.somethingawful.com/news/a-religious-experience/)
-* [State Og Monthly Report](https://www.somethingawful.com/state-og/state-og-monthly/)
-* [Oblivion; 42; The Place Beyond the Pines; Scary Movie 5](https://www.somethingawful.com/current-movie-reviews/oblivion-42/1/)
-* [Gothic Chicago](https://www.somethingawful.com/awful-links/awful-link-1030/)
-* [Mystery date...](https://www.somethingawful.com/news/mystery-date/)
+* [Putting the Lord to Good Use](https://www.somethingawful.com/news/putting-lord-good/)
+* [The Caricature Art of Doctor Dogballs!](https://www.somethingawful.com/photoshop-phriday/celebrity-caricature-art/)
+* [The Writer's Notebook: Chuck Palahniuk](https://www.somethingawful.com/news/writers-notebook-chuck/)
+* [Silent Hill 5 Exclusive Scoops!](https://www.somethingawful.com/hogosphere/silent-hill-exclusive/1/)
+* [Belly Punishment (Thanks, SlimGoodbody!) (NWS!)](https://www.somethingawful.com/awful-links/belly-punishment-fetish/)
 
 [Random!](https://www.somethingawful.com/random/)
 
