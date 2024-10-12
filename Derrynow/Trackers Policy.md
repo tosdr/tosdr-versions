@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, October 11 2024](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man who attacked police with baseball bat, assaulted partner and rammed police car jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who attacked police with baseball bat, assaulted partner and rammed police car jailed")](https://www.derrynow.com/news/local-news/1627914/man-who-attacked-police-with-baseball-bat-assaulted-partner-and-rammed-police-car-jailed.html)
 
 Derry Magistrate's Court
@@ -284,15 +277,6 @@ Omagh Crown Court
 [County Derry man jailed after making up to £475,000 from illegal streaming services](https://www.derrynow.com/news/local-news/1627799/county-derry-man-jailed-after-making-up-to-475-000-from-illegal-streaming-services.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspended sentence for Derry man following 'stupid, boorish behavior'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man following 'stupid, boorish behavior'")](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for Derry man following 'stupid, boorish behavior'](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore")](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
 
 Colm Scullion (right) pictured during recording with John Creedon (left) and Christy Moore (centre).
@@ -301,6 +285,15 @@ Colm Scullion (right) pictured during recording with John Creedon (left) and Chr
 
 [Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for Derry man following 'stupid, boorish behavior'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man following 'stupid, boorish behavior'")](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for Derry man following 'stupid, boorish behavior'](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man arrested for possession of a knife and drugs handed suspended sentence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested for possession of a knife and drugs handed suspended sentence")](https://www.derrynow.com/news/local-news/1627794/man-arrested-for-possession-of-a-knife-and-drugs-handed-suspended-sentence.html)
 
@@ -340,6 +333,15 @@ Mayor of Derry Cllr Lilian Seenoi-Barr pictured with members of the late Paddy T
 
 [PSNI application for footage linked to disorder ‘should never have been made’](https://www.derrynow.com/news/local-news/1627699/psni-application-for-footage-linked-to-disorder-should-never-have-been-made.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry college lecturer won I.T Educator of the Year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry college lecturer won I.T Educator of the Year")](https://www.derrynow.com/news/local-news/1627947/derry-college-lecturer-wins-it-educator-of-the-year.html)
+
+Lecturer Kevin McLaughlin with his award for IT Educator of the Year
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry college lecturer won I.T Educator of the Year](https://www.derrynow.com/news/local-news/1627947/derry-college-lecturer-wins-it-educator-of-the-year.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,6 +521,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1627153/derry-death-notices-saturday-october-12-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, October 12 2024](https://www.derrynow.com/news/deaths/1627153/derry-death-notices-saturday-october-12-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1628426/derry-city-take-a-point-but-miss-big-opportunity-against-bohemians.html)
 
 Paul McMullan reacts to a missed chance. Pic by Ramsey Cardy/ Sportsfile
@@ -528,7 +537,7 @@ Paul McMullan reacts to a missed chance. Pic by Ramsey Cardy/ Sportsfile
 [Derry City take a point but miss big opportunity against Bohemians](https://www.derrynow.com/news/derry-sport/1628426/derry-city-take-a-point-but-miss-big-opportunity-against-bohemians.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore")](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
+[![Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](https://www.derrynow.com/resizer/165/93/true/2024_10_11/image_123650291_%2855%29-1728671028043_1728671322.JPG--.JPG?1728671322212 "Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore")](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
 
 Colm Scullion (right) pictured during recording with John Creedon (left) and Christy Moore (centre).
 
@@ -561,15 +570,6 @@ Derry Magistrate's Court
 
 [Man who attacked police with baseball bat, assaulted partner and rammed police car jailed](https://www.derrynow.com/news/local-news/1627914/man-who-attacked-police-with-baseball-bat-assaulted-partner-and-rammed-police-car-jailed.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man arrested for possession of a knife and drugs handed suspended sentence](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Man arrested for possession of a knife and drugs handed suspended sentence")](https://www.derrynow.com/news/local-news/1627794/man-arrested-for-possession-of-a-knife-and-drugs-handed-suspended-sentence.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man arrested for possession of a knife and drugs handed suspended sentence](https://www.derrynow.com/news/local-news/1627794/man-arrested-for-possession-of-a-knife-and-drugs-handed-suspended-sentence.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
