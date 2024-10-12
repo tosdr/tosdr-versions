@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/aleksandar-rafajlovic/slikao-sam-airtona-senu/kljuc-u-ruke.jpg?itok=8z3G1BeX)](http://seecult.org/galerija/galerija-umetnika/aleksandar-rafajlovic/slikao-sam-airtona-senu)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/price/stories/veronika-smit.?itok=b-AO8bS3)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/price-stories)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/stefan-labina-teona-bojan-vuletic.jpg?itok=MH694-U4)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/x-02.jpg?itok=Z-ra396d)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
