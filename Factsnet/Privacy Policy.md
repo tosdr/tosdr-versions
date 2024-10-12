@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Virgil Earp ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/35-facts-about-virgil-earp/)
+[![30 Facts About Digestive Duplication ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-digestive-duplication/)
 
-History
+Health Science
 
-11 Oct 2024
+12 Oct 2024
 
-[35 Facts About Virgil Earp](https://facts.net/history/35-facts-about-virgil-earp/)
+[30 Facts About Digestive Duplication](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-digestive-duplication/)
 
-[![25 Facts About German Architecture ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/25-facts-about-german-architecture/)
+[![30 Facts About Nicrosil ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-nicrosil/)
 
-Culture & The Arts
+Earth Sciences
 
-11 Oct 2024
+12 Oct 2024
 
-[25 Facts About German Architecture](https://facts.net/culture-and-the-arts/25-facts-about-german-architecture/)
+[30 Facts About Nicrosil](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-nicrosil/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
