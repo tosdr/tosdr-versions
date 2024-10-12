@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Culpeper’s Herbal, a book written in London in 1652 that categorizes herbs and their medical uses, served as inspiration for herbology.
+A picture of Gandalf the Grey (from The Lord of the Rings) can be seen in the collection of great wizards in Albus Dumbledore’s study in the Harry Potter and the Chamber of Secrets film.
 
 ### Potter History
 
-January 11, 2006 – It is announced that the Harry Potter and the Goblet of Fire DVD will be available on March 7, 2006.
+May 1, 2008 – For the first time in a decade, the weekly New York Times Best Seller List doesn’t hold a single Harry Potter book.
 
 ### Potter Quote
 
-“I suggest you both go up to Madam Pomfrey. She is already tending to Miss Fawcett, of Ravenclaw, and Mr. Summers, of Hufflepuff, both of whom decided to age themselves up a little too. Though I must say, neither of their beards is anything like as fine as yours.”
+“Pathetic! With the whole wide world of ear-related humor before you, you go for holey?”
 
 [](#)
 
