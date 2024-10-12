@@ -51,7 +51,7 @@ AzərbaycanAfrikaansBahasa IndonesiaMelayuCatalàčeštinaDanskDeutschEestiEngli
 
 [](https://www.whatsapp.com/download)
 
-![mother and daughter hugging while holding mobile device](https://scontent.whatsapp.net/v/t39.8562-34/316546300_547692113846445_7299710494491288098_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=QGTCbSiwjkMQ7kNvgFc_oQk&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIByALc1tWalZF6jYPb35P8MM_zI1MlY7OUv44J_x35xY&oe=67107E65)
+![mother and daughter hugging while holding mobile device](https://scontent.whatsapp.net/v/t39.8562-34/316546300_547692113846445_7299710494491288098_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=QGTCbSiwjkMQ7kNvgFc_oQk&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIDlSFad5BKpchyzlkIzFrCkYH2puyIIKw3OV2pz2648f&oe=6710B6A5)
 
 Message privately
 =================
@@ -60,38 +60,38 @@ Simple, reliable, private messaging and calling for free\*, available all over t
 
 [Download](https://www.whatsapp.com/download)
 
-![example of text bubble on whatsapp reading good morning mom with emoji](https://scontent.whatsapp.net/v/t39.8562-34/329792464_534173148815054_3736500652022655929_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=DPwvrYSwChAQ7kNvgF71zKQ&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaICV08GG2k4JOBzUPn32dpcIdxUtATBJ6nmLUcf8R8vEF&oe=67106D03)
+![example of text bubble on whatsapp reading good morning mom with emoji](https://scontent.whatsapp.net/v/t39.8562-34/329792464_534173148815054_3736500652022655929_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=DPwvrYSwChAQ7kNvgF71zKQ&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaINXEJOcqSYb0Eu8M1eo_zUeBV9MzYGPIyYlLAmE32pVC&oe=6710A543)
 
-![heart emoji reaction to a message on whatsapp](https://scontent.whatsapp.net/v/t39.8562-34/326429760_565901131866976_8960223839941330956_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=YP1dPhpHwxEQ7kNvgEmxQA8&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIJqR6xPy4VuTlnUalwa_IkkrZ5fAsXPX8Zed3T_k6B2A&oe=67108588)
+![heart emoji reaction to a message on whatsapp](https://scontent.whatsapp.net/v/t39.8562-34/326429760_565901131866976_8960223839941330956_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=YP1dPhpHwxEQ7kNvgEmxQA8&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIOMVZth4S-DPFsmHAmxagkybCkTJ0f7RO7pfTF1BgPff&oe=6710BDC8)
 
-![whatsapp feature of sticker of coffee image to reply to messages](https://scontent.whatsapp.net/v/t39.8562-34/318567080_617695970110803_5923371384204745052_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=lsoUqIenX2MQ7kNvgF6JYvL&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIG1wQpvpRHExJc_PS4qpo08HE-qFodos_kRgWiy_97cY&oe=671052A6)
+![whatsapp feature of sticker of coffee image to reply to messages](https://scontent.whatsapp.net/v/t39.8562-34/318567080_617695970110803_5923371384204745052_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=lsoUqIenX2MQ7kNvgF6JYvL&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIBz7XOdOGsEMxZ0T7axgeFyai6vXM97X9_Hv4HPMgibb&oe=6710C326)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/311201427_619010693228007_5878944071555156995_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=D0xCxr1DhKYQ7kNvgEaC2JL&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIG-LZxzRb5dBIdkrlaP7si7bjyDFovZjm8y08N-ANI-e&oe=671073B6)
+![](https://scontent.whatsapp.net/v/t39.8562-34/311201427_619010693228007_5878944071555156995_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=D0xCxr1DhKYQ7kNvgEaC2JL&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIP5Ijbq3aFGpkFVi9Mtx-xdT1m6T4PxH_4QjMDGWUcuX&oe=6710ABF6)
 
-![example of text bubble on whatsapp reading good morning mom with emoji](https://scontent.whatsapp.net/v/t39.8562-34/329792464_534173148815054_3736500652022655929_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=DPwvrYSwChAQ7kNvgF71zKQ&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaICV08GG2k4JOBzUPn32dpcIdxUtATBJ6nmLUcf8R8vEF&oe=67106D03)
+![example of text bubble on whatsapp reading good morning mom with emoji](https://scontent.whatsapp.net/v/t39.8562-34/329792464_534173148815054_3736500652022655929_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=DPwvrYSwChAQ7kNvgF71zKQ&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaINXEJOcqSYb0Eu8M1eo_zUeBV9MzYGPIyYlLAmE32pVC&oe=6710A543)
 
-![heart emoji reaction to a message on whatsapp](https://scontent.whatsapp.net/v/t39.8562-34/326429760_565901131866976_8960223839941330956_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=YP1dPhpHwxEQ7kNvgEmxQA8&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIJqR6xPy4VuTlnUalwa_IkkrZ5fAsXPX8Zed3T_k6B2A&oe=67108588)
+![heart emoji reaction to a message on whatsapp](https://scontent.whatsapp.net/v/t39.8562-34/326429760_565901131866976_8960223839941330956_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=YP1dPhpHwxEQ7kNvgEmxQA8&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIOMVZth4S-DPFsmHAmxagkybCkTJ0f7RO7pfTF1BgPff&oe=6710BDC8)
 
-![whatsapp feature of sticker of coffee image to reply to messages](https://scontent.whatsapp.net/v/t39.8562-34/318567080_617695970110803_5923371384204745052_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=lsoUqIenX2MQ7kNvgF6JYvL&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIG1wQpvpRHExJc_PS4qpo08HE-qFodos_kRgWiy_97cY&oe=671052A6)
+![whatsapp feature of sticker of coffee image to reply to messages](https://scontent.whatsapp.net/v/t39.8562-34/318567080_617695970110803_5923371384204745052_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=lsoUqIenX2MQ7kNvgF6JYvL&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIBz7XOdOGsEMxZ0T7axgeFyai6vXM97X9_Hv4HPMgibb&oe=6710C326)
 
-![sound bite of voice messaging feature on whatsapp](https://scontent.whatsapp.net/v/t39.8562-34/327063196_5800887573364035_3294745791563659576_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=TDKMatWXHbgQ7kNvgGdKGVj&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIGeRhK3tQK0Bz7xZQcCnCag9a_n4UegEfEpYpWRogTkU&oe=67105D4E)
+![sound bite of voice messaging feature on whatsapp](https://scontent.whatsapp.net/v/t39.8562-34/327063196_5800887573364035_3294745791563659576_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=TDKMatWXHbgQ7kNvgGdKGVj&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIDo4grL-_SMcvW9xZccSxqkpkjPjquyf23tnFnDvAFzd&oe=6710CDCE)
 
-![picture of mother and daughter sent through whatsapp with timestamp ](https://scontent.whatsapp.net/v/t39.8562-34/327713084_566495871797259_1779906837439389762_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=_ELRXqk621EQ7kNvgGGPAav&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaILc1xyx2FEbaNnKbJxQAnUbP8D8RqciYmH2QndU7Gwsn&oe=67105BDB)
+![picture of mother and daughter sent through whatsapp with timestamp ](https://scontent.whatsapp.net/v/t39.8562-34/327713084_566495871797259_1779906837439389762_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=CngFIWUzeQ4Q7kNvgHhAvIh&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIBzkkpBdzoWndRUszX5pQxXBpb4Fysmp1TqaySUM3ZK1&oe=6710CC5B)
 
-![teary eyed emoji used to react to photo message on whatsapp](https://scontent.whatsapp.net/v/t39.8562-34/331324920_411994007808830_5458286697352087382_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=Ief1FV2vhUgQ7kNvgF_IDLI&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIP51AQXbSHOjJs_ZZCp6cZyhoSiTItwPiX1xxXL3RE6J&oe=6710566A)
+![teary eyed emoji used to react to photo message on whatsapp](https://scontent.whatsapp.net/v/t39.8562-34/331324920_411994007808830_5458286697352087382_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=ZVUDTa6-jLEQ7kNvgHw8pRw&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIKLbKsW3SSUEdXo5ho4P6O45mxyrfHMuT7YCr3WLibRy&oe=6710C6EA)
 
-![secure text on whatsapp platform reading can't wait for our next family trip](https://scontent.whatsapp.net/v/t39.8562-34/323914620_1571722909934742_4947035793330347072_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=8EF2dI4DKxAQ7kNvgFlHJp2&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIErM6JMCq6PaLPyNr5DJ_QdVCZqYwHuQPIjcQyhBOd2B&oe=67106008)
+![secure text on whatsapp platform reading can't wait for our next family trip](https://scontent.whatsapp.net/v/t39.8562-34/323914620_1571722909934742_4947035793330347072_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=8EF2dI4DKxAQ7kNvgFlHJp2&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIFhTWYBOEI_ER1WXaCcZQiwh8d5nmIAETvVsVobWIOV5&oe=6710D088)
 
-![](https://scontent.whatsapp.net/v/t39.8562-34/319083687_560355302533985_451317800534933863_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=QaD76nTyFi4Q7kNvgHYkjwa&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIJ5wI8P88gzu4DBS78SPdvErU3ZTNRG1Eh2IVf1saOvV&oe=67106817)
+![](https://scontent.whatsapp.net/v/t39.8562-34/319083687_560355302533985_451317800534933863_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=QaD76nTyFi4Q7kNvgHYkjwa&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaICHZZoBiNc59TuOdY5Dm91l6pkNpvtQWD8xBefjx8QCc&oe=6710D897)
 
 \* Data charges may apply. Contact your provider for details.
 
-![bubbles of text saying hello in different languages with individual users icons](https://scontent.whatsapp.net/v/t39.8562-34/462067182_1276011330091528_8814370273400156670_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=C2DIJXTpNgoQ7kNvgHuiFU_&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaILPTN9nxevs-jDvXNWSgCl80TArCxL7peEgdrLG9AD1Z&oe=6710562F)
+![bubbles of text saying hello in different languages with individual users icons](https://scontent.whatsapp.net/v/t39.8562-34/462067182_1276011330091528_8814370273400156670_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=C2DIJXTpNgoQ7kNvgHuiFU_&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIHXGUvqgolpVJtcHLSGm4wYy9jqUt7CLutETnpzZJeQV&oe=6710C6AF)
 
 With private messaging and calling, you can be yourself, speak freely and feel close to the most important people in your life no matter where they are.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![bubbles of text saying hello in different languages with individual users icons](https://scontent.whatsapp.net/v/t39.8562-34/315632381_5616928641708856_9210500231334849736_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=XUDYY3nT9-wQ7kNvgEbKEzP&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIB1n3CNc-bn7SpQrMIpew7txt8KuMNRq0pRgfgvkkxAN&oe=67105ACD)
+![bubbles of text saying hello in different languages with individual users icons](https://scontent.whatsapp.net/v/t39.8562-34/315632381_5616928641708856_9210500231334849736_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=XUDYY3nT9-wQ7kNvgEbKEzP&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIEGtbOwI6VWl8Fzvh7ks5TqRzn4xLU9UxLW747yILZVh&oe=6710CB4D)
 
 Never miss a moment with voice and video calls
 ----------------------------------------------
@@ -100,9 +100,9 @@ From a group call to classmates to a quick call with mom, feel like you’re in 
 
 [Learn more](https://www.whatsapp.com/stayconnected)
 
-![screenshot of end to end encrypted video call of man connecting with his family through video](https://scontent.whatsapp.net/v/t39.8562-34/316211879_640016534274402_8272733547019635528_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=i5E6Jukz0ioQ7kNvgE83WQq&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIK-El5VFe7fziQAXlHYKhhX7L44h3DKKetegJVnaJg3X&oe=671082D6)
+![screenshot of end to end encrypted video call of man connecting with his family through video](https://scontent.whatsapp.net/v/t39.8562-34/316211879_640016534274402_8272733547019635528_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=i5E6Jukz0ioQ7kNvgE83WQq&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIHJdyutdqt9C51xdEPh1kKldqnK7JbaZ3vMm-Xt9fgr_&oe=6710BB16)
 
-![screenshot of end to end encryption screen showing your personal messages and calls are secured](https://scontent.whatsapp.net/v/t39.8562-34/316036583_870096634427722_4468595013887544943_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=oGdBq6MDBnYQ7kNvgFSHCOs&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIDWTbmQaWBTayVf5RuMu9erBOzyIuns6B9xrtTwZq6P0&oe=67107AB1)
+![screenshot of end to end encryption screen showing your personal messages and calls are secured](https://scontent.whatsapp.net/v/t39.8562-34/316036583_870096634427722_4468595013887544943_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=oGdBq6MDBnYQ7kNvgFSHCOs&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIOAoGxVIw6cp_yA2wiAq0qdIyGSzOAE61wLQEVW_SFs3&oe=6710B2F1)
 
 Speak  
 **freely**
@@ -120,17 +120,17 @@ Whether it's planning an outing with friends or simply staying on top of your fa
 
 [Learn more](https://www.whatsapp.com/community)
 
-![screenshot of whatsapp feature group conversation including photo and message exchange](https://scontent.whatsapp.net/v/t39.8562-34/318759416_815630979518701_2490140615586319278_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=1lS9_G8WEGsQ7kNvgEzmBAq&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaINMemXLTQ0EPpYkq7UpmmWByO9KRQPo2jGk-lVde7i11&oe=6710654D)
+![screenshot of whatsapp feature group conversation including photo and message exchange](https://scontent.whatsapp.net/v/t39.8562-34/318759416_815630979518701_2490140615586319278_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=kdb9jyNAH9wQ7kNvgEO5eyN&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIAbDqkNUa1ln6cjCUCrP95--9-Jy4qo3ey_WPn8pg2D8&oe=6710D5CD)
 
-![screenshot of whatsapp group customized to be called best friend group](https://scontent.whatsapp.net/v/t39.8562-34/318716844_644367477472796_6799212725643495984_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=1ILL75CJ2nYQ7kNvgHL2Hsx&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIP-pBC-7wc56NMNI3UsxxJhVURHh7W-SBgv8YqL-B-Qz&oe=67105AA5)
+![screenshot of whatsapp group customized to be called best friend group](https://scontent.whatsapp.net/v/t39.8562-34/318716844_644367477472796_6799212725643495984_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=i05ZR_5XYbEQ7kNvgGMU8dn&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIKV3NfMeBXG95ju9dBncd9zI78gPIaQJrOBmcpX153qp&oe=6710CB25)
 
-![whatsapp feature showing users status using happy face and heart sticker with location tagged as pebble beach](https://scontent.whatsapp.net/v/t39.8562-34/311869879_1082331725759559_5382136804801289925_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=75BaNVBpTXoQ7kNvgGe2C2r&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaILGiYield0jOWlLhYyixb0AtEkKJXR5PX8iYC8WhToch&oe=6710686F)
+![whatsapp feature showing users status using happy face and heart sticker with location tagged as pebble beach](https://scontent.whatsapp.net/v/t39.8562-34/311869879_1082331725759559_5382136804801289925_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=75BaNVBpTXoQ7kNvgGe2C2r&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaID65aaleX96DjVhQRA_YiHC9LdJTUxgeRGy6lWZn1FZ1&oe=6710D8EF)
 
-![whatsapp feature showing users status using happy face and heart sticker with location tagged as pebble beach](https://scontent.whatsapp.net/v/t39.8562-34/311869879_1082331725759559_5382136804801289925_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=75BaNVBpTXoQ7kNvgGe2C2r&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaILGiYield0jOWlLhYyixb0AtEkKJXR5PX8iYC8WhToch&oe=6710686F)
+![whatsapp feature showing users status using happy face and heart sticker with location tagged as pebble beach](https://scontent.whatsapp.net/v/t39.8562-34/311869879_1082331725759559_5382136804801289925_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=75BaNVBpTXoQ7kNvgGe2C2r&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaID65aaleX96DjVhQRA_YiHC9LdJTUxgeRGy6lWZn1FZ1&oe=6710D8EF)
 
-![whatsapp feature showing users status using happy face and heart sticker with location tagged as pebble beach](https://scontent.whatsapp.net/v/t39.8562-34/311869879_1082331725759559_5382136804801289925_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=75BaNVBpTXoQ7kNvgGe2C2r&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaILGiYield0jOWlLhYyixb0AtEkKJXR5PX8iYC8WhToch&oe=6710686F)
+![whatsapp feature showing users status using happy face and heart sticker with location tagged as pebble beach](https://scontent.whatsapp.net/v/t39.8562-34/311869879_1082331725759559_5382136804801289925_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=75BaNVBpTXoQ7kNvgGe2C2r&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaID65aaleX96DjVhQRA_YiHC9LdJTUxgeRGy6lWZn1FZ1&oe=6710D8EF)
 
-![whatsapp user profile image of happy lady laughing](https://scontent.whatsapp.net/v/t39.8562-34/409964903_7655947307754468_3960711266215354357_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=qVjUHZxqOb8Q7kNvgHna3Do&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIOI5m5lUj9LfS-z8cEyEMkKqp452JpzngNxyEjNaeAl7&oe=67107E40)
+![whatsapp user profile image of happy lady laughing](https://scontent.whatsapp.net/v/t39.8562-34/409964903_7655947307754468_3960711266215354357_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=qVjUHZxqOb8Q7kNvgHna3Do&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIBwk9EObDKXxyBhEv-StdTZOng9ypryxkqW9YILJhr1O&oe=6710B680)
 
 Say what  
 you feel
@@ -148,7 +148,7 @@ WhatsApp Business helps you reach your customers globally to deliver compelling 
 
 [Learn more](https://business.whatsapp.com/)
 
-![screenshot of whatsapp business showing an online grocery store with products for sale](https://scontent.whatsapp.net/v/t39.8562-34/329699257_2856843487782508_7800545505417662242_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=5eBpxKEeE60Q7kNvgHZNadq&_nc_ht=scontent.whatsapp.net&_nc_gid=AUKkRpJfNh9nR850_MteDmX&oh=01_Q5AaIBxw9gDPyMRwTccn-EYcjvaG22Uy2R5iHbBHnQbFo18J&oe=67105A5B)
+![screenshot of whatsapp business showing an online grocery store with products for sale](https://scontent.whatsapp.net/v/t39.8562-34/329699257_2856843487782508_7800545505417662242_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=5eBpxKEeE60Q7kNvgHZNadq&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=AXy7OHFb3-Lr68V1_ILDTaC&oh=01_Q5AaIJkm7HOeFJsRtHLXWTVTsUjMlOghIgC5TuYfkq9AWi6H&oe=6710CADB)
 
 [Download](https://www.whatsapp.com/download)
 
