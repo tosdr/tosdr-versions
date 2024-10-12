@@ -197,59 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Henry Venter
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=145561299)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=163956757)  
+NWET Pty LTD
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=147436319)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=96172198)  
+AFS Electrical
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=106091693)  
-KTEN PARTS
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=205220370)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=5535224)  
-Cooper Logistics (Pty) Ltd
-
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=155020360)  
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=34637674)  
 J.M. HUMAN RESOURCES
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=46161150)  
-Oak Tree Immigration
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=77580272)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=5126033)  
-Cooper Power South Africa (Pty) LTD
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=72370706)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=111893853)  
-Multi CNC Solutions CC
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=185079862)  
+Kainos (Pty) Ltd
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=162149176)  
-MSPCloud (Pty) Ltd
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=179141195)  
+Lemba Truck Stop
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=68637277)  
-RADIO TYGERBERG 104FM NPC
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=136630245)  
+Fox Alarms & Security
 
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=142351352)  
-Glass and Allied Industries
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=50734382)  
+Druce Digital
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=86263180)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=156280651)  
+APTV Telecoms CC
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=159839816)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=136543111)  
+Creative Characters
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=45100390)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=180446349)  
+VA AND M BUSINESSES (PTY)LTD
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=0614c784c60ad7382b60840177367da4494a3be42c2a9244f97aaebc1fa2b527&c=93381436)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=87598679)  
+Bloem Rugby Academy PTY (Ltd)
+
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=d9443cc23fac7d2f554a9dbc8a125c2b52713d37d07684a8be043a7c4fbe53aa&c=34151095)  
+IEMS (PTY) ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
