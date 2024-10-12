@@ -14,7 +14,7 @@ Menu
     
     * [Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers in separate strikes](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
     * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
-    * [As Hezbollah and Israel battle on the border, Lebanon's army watches from the sidelines](https://apnews.com/article/lebanese-army-laf-israel-hezbollah-78f6ad2da82d64d1ae266aa5394e6d4e)
+    * [Middle East latest: Israeli military renews orders for Palestinians to leave northern Gaza](https://apnews.com/article/israel-hezbollah-hamas-latest-mideast-12-october-2024-a6cb533eb39d69bd2bea60c46b7dcb0b)
     
     Newsletters
     
@@ -73,8 +73,8 @@ Menu
     TOP STORIES
     
     * [Data shows migrants aren't taking 'Black jobs' or 'Hispanic jobs,' despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
+    * [Harris is releasing a report on her health and poking Trump for failing to do likewise](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
     * [Are male voters reluctant to vote for a woman? Harris' backers are confronting the question head on](https://apnews.com/article/harris-male-voters-sexism-trump-support-obama-bcf8dbcce4700ba24725ca178f7753b0)
-    * [Trump drives his anti-immigration message in Aurora, Colorado](https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70)
     
     Newsletters
     
@@ -94,7 +94,7 @@ Menu
     
     * [Yamamoto outduels Darvish in historic matchup as Dodgers beat Padres 2-0 to reach NLCS](https://apnews.com/article/mlb-playoffs-dodgers-padres-f0778cdc5ff2250641336fbe6c8d3f0c)
     * [Padres muster no offense to support Yu Darvish's inspired pitching in NLDS loss to Dodgers](https://apnews.com/article/mlb-playoffs-padres-dodgers-darvish-tatis-machado-faee88063d0b9dbac2007ef6c943e76c)
-    * [Cam Skattebo runs for 156 yards, Arizona State knocks off No. 16 Utah 27-19](https://apnews.com/article/arizona-state-utah-score-skattebo-f0f3018c5a35437f5dba919d46bc15eb)
+    * [Cam Skattebo runs for 156 yards and 2 TDs, Arizona State knocks off No. 16 Utah 27-19](https://apnews.com/article/arizona-state-utah-score-skattebo-f0f3018c5a35437f5dba919d46bc15eb)
     
     Newsletters
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [Kim Jones steps down as artistic director at Fendi to concentrate on his role at Dior Men's](https://apnews.com/article/italy-fendi-kim-jones-1fe57e1b58515865a052126f38ffbd03)
     * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     * [Fisher-Price recalls over 2 million 'Snuga Swings' following the deaths of 5 infants](https://apnews.com/article/fisher-price-recalls-swings-infant-deaths-6010490ee97a24f66efece45c5e76f1c)
-    * [Hot-air balloon strikes and collapses radio tower in Albuquerque during festival](https://apnews.com/article/new-mexico-balloon-festival-radio-tower-4039dce175891ac7aba266d6c2b1a95d)
     
 * [Religion](https://apnews.com/religion)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
+    * [Mientras Hezbollah e Israel combaten en la frontera, el Ejército libanés mira desde los márgenes](https://apnews.com/world-news/general-news-9091e3820005d6c22021bcf8de6adf0e)
     * [Fuerzas israelíes matan a 2 soldados libaneses y hieren a 2 miembros de fuerzas de paz de la ONU](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
+    * [El líder británico Keir Starmer cumple 100 días en el gobierno. Ha sido un inicio accidentado](https://apnews.com/world-news/general-news-f1e500409b2b8cf2795f7f1a96f1c44c)
     * [¿Hombres estadounidenses reacios a votar por una mujer? Simpatizantes de Harris abordan el tema](https://apnews.com/politics/elecciones-en-eeuu-26be5c8b8bf33987dcdff8e725782e2c)
     * [Los datos contradicen afirmaciones de Trump de que migrantes acaparan "empleos negros" o "hispanos"](https://apnews.com/politics/general-news-7e55b37588f0d1fb4b1d349206752fc3)
-    * [Migración por el Darién vuelve a crecer en septiembre apuntalada por venezolanos tras elecciones](https://apnews.com/world-news/general-news-8e6a12a73c4179908d301feb65972c19)
-    * [Trump lleva su mensaje contra la inmigración a Aurora, Colorado](https://apnews.com/politics/donald-trump-7a3ce321a85aac6b1bb0b8d5cc663055)
-    * [Secuestran a diputado local en el norte de México](https://apnews.com/world-news/general-news-ed57fdaec878d77a0eb0e70836e21536)
+    * [Llevan al hospital a varios niños y adultos en Pensilvania tras comer "hongos tóxicos"](https://apnews.com/us-news/general-news-044eb366174a555ebceccc85d7aad445)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,7 +460,7 @@ Submit Search
     
     * [Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers in separate strikes](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
     * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
-    * [As Hezbollah and Israel battle on the border, Lebanon's army watches from the sidelines](https://apnews.com/article/lebanese-army-laf-israel-hezbollah-78f6ad2da82d64d1ae266aa5394e6d4e)
+    * [Middle East latest: Israeli military renews orders for Palestinians to leave northern Gaza](https://apnews.com/article/israel-hezbollah-hamas-latest-mideast-12-october-2024-a6cb533eb39d69bd2bea60c46b7dcb0b)
     
     Newsletters
     
@@ -530,8 +530,8 @@ Submit Search
     TOP STORIES
     
     * [Data shows migrants aren't taking 'Black jobs' or 'Hispanic jobs,' despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
+    * [Harris is releasing a report on her health and poking Trump for failing to do likewise](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
     * [Are male voters reluctant to vote for a woman? Harris' backers are confronting the question head on](https://apnews.com/article/harris-male-voters-sexism-trump-support-obama-bcf8dbcce4700ba24725ca178f7753b0)
-    * [Trump drives his anti-immigration message in Aurora, Colorado](https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70)
     
     Newsletters
     
@@ -561,7 +561,7 @@ Submit Search
     
     * [Yamamoto outduels Darvish in historic matchup as Dodgers beat Padres 2-0 to reach NLCS](https://apnews.com/article/mlb-playoffs-dodgers-padres-f0778cdc5ff2250641336fbe6c8d3f0c)
     * [Padres muster no offense to support Yu Darvish's inspired pitching in NLDS loss to Dodgers](https://apnews.com/article/mlb-playoffs-padres-dodgers-darvish-tatis-machado-faee88063d0b9dbac2007ef6c943e76c)
-    * [Cam Skattebo runs for 156 yards, Arizona State knocks off No. 16 Utah 27-19](https://apnews.com/article/arizona-state-utah-score-skattebo-f0f3018c5a35437f5dba919d46bc15eb)
+    * [Cam Skattebo runs for 156 yards and 2 TDs, Arizona State knocks off No. 16 Utah 27-19](https://apnews.com/article/arizona-state-utah-score-skattebo-f0f3018c5a35437f5dba919d46bc15eb)
     
     Newsletters
     
@@ -773,9 +773,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Kim Jones steps down as artistic director at Fendi to concentrate on his role at Dior Men's](https://apnews.com/article/italy-fendi-kim-jones-1fe57e1b58515865a052126f38ffbd03)
     * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     * [Fisher-Price recalls over 2 million 'Snuga Swings' following the deaths of 5 infants](https://apnews.com/article/fisher-price-recalls-swings-infant-deaths-6010490ee97a24f66efece45c5e76f1c)
-    * [Hot-air balloon strikes and collapses radio tower in Albuquerque during festival](https://apnews.com/article/new-mexico-balloon-festival-radio-tower-4039dce175891ac7aba266d6c2b1a95d)
     
 * [Religion](https://apnews.com/religion)
     
@@ -797,12 +797,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Mientras Hezbollah e Israel combaten en la frontera, el Ejército libanés mira desde los márgenes](https://apnews.com/world-news/general-news-9091e3820005d6c22021bcf8de6adf0e)
     * [Fuerzas israelíes matan a 2 soldados libaneses y hieren a 2 miembros de fuerzas de paz de la ONU](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
+    * [El líder británico Keir Starmer cumple 100 días en el gobierno. Ha sido un inicio accidentado](https://apnews.com/world-news/general-news-f1e500409b2b8cf2795f7f1a96f1c44c)
     * [¿Hombres estadounidenses reacios a votar por una mujer? Simpatizantes de Harris abordan el tema](https://apnews.com/politics/elecciones-en-eeuu-26be5c8b8bf33987dcdff8e725782e2c)
     * [Los datos contradicen afirmaciones de Trump de que migrantes acaparan "empleos negros" o "hispanos"](https://apnews.com/politics/general-news-7e55b37588f0d1fb4b1d349206752fc3)
-    * [Migración por el Darién vuelve a crecer en septiembre apuntalada por venezolanos tras elecciones](https://apnews.com/world-news/general-news-8e6a12a73c4179908d301feb65972c19)
-    * [Trump lleva su mensaje contra la inmigración a Aurora, Colorado](https://apnews.com/politics/donald-trump-7a3ce321a85aac6b1bb0b8d5cc663055)
-    * [Secuestran a diputado local en el norte de México](https://apnews.com/world-news/general-news-ed57fdaec878d77a0eb0e70836e21536)
+    * [Llevan al hospital a varios niños y adultos en Pensilvania tras comer "hongos tóxicos"](https://apnews.com/us-news/general-news-044eb366174a555ebceccc85d7aad445)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
