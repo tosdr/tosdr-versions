@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/229/c9b.jpg "The Weekly Meme Roundup: Alarmo, Hurricane Milton And More")
+* [![Drinking Out of Cups](https://i.kym-cdn.com/featured_items/icons/wide/000/026/241/lizard.jpg "Happy Birthday To 'Drinkin' Outta Cups,' Now 18 Years Old")
     
-    The Weekly Meme Roundup: Alarmo, Hurricane Milton And More](https://knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-alarmo-hurricane-milton-and-more)
+    Happy Birthday To 'Drinkin' Outta Cups,' Now 18 Years Old](https://knowyourmeme.com/memes/drinking-out-of-cups)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/228/sf2.jpg "What Is The 'Subtle Foreshadowing' Meme? The Meaning Of The Viral 'Non-Linear Storytelling' TikTok Trend Explained")
+* [![You Know Things Are Gonna Be Bad When Minos Prime Wakes Up And Says His Speech](https://i.kym-cdn.com/featured_items/icons/wide/000/026/240/cover5.jpg "You Know Things Are Gonna Be Bad When Minos Prime Wakes Up And Says His Speech")
     
-    What Is The 'Subtle Foreshadowing' Meme? The Meaning Of The Viral 'Non-Linear Storytelling' TikTok Trend Explained](https://knowyourmeme.com/editorials/guides/what-is-the-subtle-foreshadowing-meme-the-meaning-of-the-viral-non-linear-storytelling-tiktok-trend-explained)
+    You Know Things Are Gonna Be Bad When Minos Prime Wakes Up And Says His Speech](https://knowyourmeme.com/memes/ah-free-at-last-o-gabriel)
     
-* [![The 2024 Internet Archive Hack took place between October 9th and October 11th, with the site suffering a data breach that compromised over 31 million users, as well as a DDoS attack that brought down Archive.org and Openlibrary.org. A "hacktivist" group that goes by BlackMeta on X claimed responsibility for the DDoS attack, claiming to be motivated by the Internet Archive's supposed connection to the U.S. government and by extension the government of Israel. Several internet users remained skeptical of this reasoning, given that the Internet Archive is a non-profit organization neither owned by the U.S. government nor claims to contribute to the Zionist project.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/227/internet_archive.jpg "A Hacker Group Has Claimed Responsibility For The DDoS Attack On The Internet Archive That Breached Private Info Of 31M Members")
+* [!["The Muffin Song" Makes Its Way Onto TikTok](https://i.kym-cdn.com/featured_items/icons/wide/000/026/239/maxresdefault.jpg "On Its Ten Year Anniversary, The Original asdfmovie That The 'Muffin Song' Is From Is Now Age Restricted")
     
-    A Hacker Group Has Claimed Responsibility For The DDoS Attack On The Internet Archive That Breached Private Info Of 31M Members](https://knowyourmeme.com/memes/events/2024-internet-archive-hack)
+    On Its Ten Year Anniversary, The Original asdfmovie That The 'Muffin Song' Is From Is Now Age Restricted](https://knowyourmeme.com/memes/the-muffin-song-i-baked-you-a-pie)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/226/interpretive_dance.jpg "What's The 'Interpretive Dance' Trend? TikTokers Making Their Boyfriend's Dance To Spend The Night Explained")
+* [![Memes Have Everyone But Dexter As The Infamous 'Bay Harbor Butcher'](https://i.kym-cdn.com/featured_items/icons/wide/000/026/238/cover3.jpg "Memes Have Everyone But Dexter As The Infamous 'Bay Harbor Butcher'")
     
-    What's The 'Interpretive Dance' Trend? TikTokers Making Their Boyfriend's Dance To Spend The Night Explained](https://knowyourmeme.com/editorials/guides/whats-the-interpretive-dance-trend-tiktokers-making-their-boyfriends-dance-to-spend-the-night-explained)
+    Memes Have Everyone But Dexter As The Infamous 'Bay Harbor Butcher'](https://knowyourmeme.com/memes/doakes-was-the-bay-harbor-butcher)
     
-* [![MrBeast Rents Out Entire Theater To Watch Talk Tuah And Eat Lunchly, Breaking Some Remaining Threads Of Sanity Online](https://i.kym-cdn.com/featured_items/icons/wide/000/026/225/9d389-17285412734161-1920.jpg "MrBeast Rents Out Entire Theater To Watch Talk Tuah And Eat Lunchly, Breaking Some Remaining Threads Of Sanity Online")
+* [![The Nintendo Alarmo refers to an alarm clock created by Nintendo and announced in 2024. The Alarmo was designed with Nintendo graphics, sounds and songs from popular games that the user could choose from to customize their alarm clock experience. In October 2024, Nintendo announced the Alarmo's release on social media platforms like Twitter / X and YouTube. It inspired viral memes and reactions upon its release. Many internet users and Nintendo fans joked about the price, which was roughly $100 USD, and the fact that Nintendo announced an alarm clock instead of something more coveted like the rumored Nintendo Switch 2.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/237/nintendo-alarmo.jpg "Nintendo Baited Everyone When They Made A 'Big Announcement' Yesterday That Turned Out To Be Alarmo")
     
-    MrBeast Rents Out Entire Theater To Watch Talk Tuah And Eat Lunchly, Breaking Some Remaining Threads Of Sanity Online](https://knowyourmeme.com/memes/mrbeast-rented-out-an-entire-theater)
+    Nintendo Baited Everyone When They Made A 'Big Announcement' Yesterday That Turned Out To Be Alarmo](https://knowyourmeme.com/memes/subcultures/nintendo-alarmo)
     
 
 ##### Also Trending:
 
-[2024 Internet Archive Hack](https://knowyourmeme.com/memes/events/2024-internet-archive-hack "2024 Internet Archive Hack") [Government Making Hurricanes Conspiracy Theory](https://knowyourmeme.com/memes/government-making-hurricanes-conspiracy-theory "Government Making Hurricanes Conspiracy Theory")
+[Government Making Hurricanes Conspiracy Theory](https://knowyourmeme.com/memes/government-making-hurricanes-conspiracy-theory "Government Making Hurricanes Conspiracy Theory") [2024 Internet Archive Hack](https://knowyourmeme.com/memes/events/2024-internet-archive-hack "2024 Internet Archive Hack") [Chinese Panda Memes](https://knowyourmeme.com/memes/chinese-panda-reaction-images-biaoqing-panda-head-%E7%86%8A%E7%8C%AB%E4%BA%BA%E8%A1%A8%E6%83%85%E5%8C%85 "Chinese Panda Memes") [Spiritual Successor To Disco Elysium](https://knowyourmeme.com/memes/spiritual-successor-to-disco-elysium "Spiritual Successor To Disco Elysium")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### O HAI! You must login or signup first!
+### Hello! You must login or signup first!
 
 |     |     |
 | --- | --- |
