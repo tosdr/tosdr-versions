@@ -153,7 +153,7 @@ Shifting the conversation around the impacts of digital technologies
     
     * Open calls
     
-    [### \[Offene Ausschreibung\] Kostenfreie Workshops zur Förderung digitaler Medienkompetenz für Jugendliche](https://tacticaltech.org/news/open-calls/offener-aufruf-zu-partnerschaften/)
+    [### kostenfreie workshops zur förderung der digitalen medienkompetenz für jugendliche](https://tacticaltech.org/news/open-calls/offener-aufruf-zu-partnerschaften/)
     
     Wir sind auf der Suche nach Partnerschaften mit formellen oder informellen, in Berlin ansässigen Jugendorganisationen und -institutionen, vor allem solchen, die mit jungen Menschen (13-18 Jahre) aus traditionell marginalisierten Identitäten oder Hintergründen arbeiten.
     
@@ -163,9 +163,9 @@ Shifting the conversation around the impacts of digital technologies
     
     * Open calls
     
-    [### \[Open Call\] Get Free Training on Critical Digital Literacy for Youth](https://tacticaltech.org/news/open-calls/free-training-digital-literacy-berlin/)
+    [### \[Open Call\] Free training for Berlin educators to learn how to open critical conversations about the impacts of AI & tech](https://tacticaltech.org/news/open-calls/free-training-digital-literacy-berlin/)
     
-    Are you a social worker, community leader, youth advocate, or educator working with teens? Tactical Tech is seeking partners in Berlin for their digital literacy project, What the Future Wants (WTFW) – Comes to Berlin. Organisations and individuals will gain new skills through training sessions on digital literacy topics such as AI, misinformation, and digital privacy, access educational resources, and receive financial support to host workshops or exhibitions in their communities.
+    Are you a social worker, community leader, youth advocate, or educator working with teens? Tactical Tech is seeking organisations and individuals in Berlin interested in getting trained on digital literacy topics such as AI, misinformation, and digital privacy, accessing educational resources, and receiving financial support to host workshops or exhibitions in their communities.
     
     [Read more →](https://tacticaltech.org/news/open-calls/free-training-digital-literacy-berlin/)
     
