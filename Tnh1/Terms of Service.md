@@ -14,99 +14,9 @@
 
 [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
 
-Últimas de Maceió
-
-[Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
-
-   [![Confira o funcionamento dos shoppings e comércio no feriado de Nossa Senhora Aparecida](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/2/csm_csm_comercio-feriado-centro-foto-fecomercio_408930b8b8_64614bc8dc.jpg)
-
-Maceió
-
-Confira o funcionamento dos shoppings e comércio no feriado de Nossa Senhora Aparecida](https://www.tnh1.com.br/noticia/nid/confira-o-funcionamento-dos-shoppings-e-comercio-no-feriado-de-nossa-senhora-aparecida/ "Confira o funcionamento dos shoppings e comércio no feriado de Nossa Senhora Aparecida")   [![Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/5/csm_Projeto_reforma_Praca_Deodoro_-_foto_Itawi_Albuquerque_-_Secom_Maceio_cc73171c30.jpg)
-
-Maceió
-
-Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue](https://www.tnh1.com.br/noticia/nid/projeto-para-reforma-da-praca-deodoro-e-aprovado-e-tem-data-para-ser-entregue/ "Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue")   [![Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/b/csm_menina_meningite_cf6b12e34a.png)
-
-Maceió
-
-Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://www.tnh1.com.br/noticia/nid/maceio-tem-30-casos-confirmados-de-meningite-mae-de-crianca-internada-faz-relato/ "Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato")   [![Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/4/csm_area-interditada-demolicao-pinheiro_016919e00c.jpg)
-
-Veja desvios
-
-Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis](https://www.tnh1.com.br/noticia/nid/avenida-no-pinheiro-e-interditada-pela-defesa-civil-para-demolicoes-de-imoveis/ "Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis")   [![Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
-
-Na Serraria
-
-Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://www.tnh1.com.br/noticia/nid/motorista-invade-contramao-bate-em-viatura-da-pm-e-e-preso-por-embriaguez-ao-volante/ "Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante")   [![Carros de luxo batem na orla de Jatiúca e motoristas saem ilesos; veja vídeos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/f/csm_acidente_orla_jatiuca_reproducao_tv_pajucara_8f68f0ac16.png)
-
-Av. Álvaro Otacílio
-
-Carros de luxo batem na orla de Jatiúca e motoristas saem ilesos; veja vídeos](https://www.tnh1.com.br/noticia/nid/carros-de-luxo-batem-na-orla-de-jatiuca-e-motoristas-saem-ilesos-veja-videos/ "Carros de luxo batem na orla de Jatiúca e motoristas saem ilesos; veja vídeos")
-
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
-Últimas de Alagoas
-
-[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
-
-   [![Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/2/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_ad9da6f477.png)
-
-Meteorologia
-
-Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-veja-como-deve-ficar-o-tempo-em-alagoas-neste-fim-de-semana/ "Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana")   [![Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/5/csm_Onda_calor_-_Freepik_c60e743d3d.jpg)
-
-até domingo
-
-Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://www.tnh1.com.br/noticia/nid/inmet-emite-alerta-de-onda-de-calor-para-38-cidades-de-alagoas-veja-quais/ "Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais")   [![HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_Sesau_HGE_Acidentes_a175c35292.jpg)
-
-Alagoas
-
-HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://www.tnh1.com.br/noticia/nid/hge-atende-quase-4-mil-vitimas-de-acidentes-de-transito-de-janeiro-a-setembro-deste-ano/ "HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano")   [![Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/1/csm_Sol__calor_-_foto_Marcello_Casal_Jr_-_Agencia_Brasil_86076956ed.jpg)
-
-Meteorologia
-
-Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://www.tnh1.com.br/noticia/nid/oito-cidades-de-alagoas-tem-alerta-de-baixa-umidade-nesta-quinta-feira/ "Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira")   [![Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/b/csm_Sexo_na_praia_de_Ponta_Verde_-_foto_Reproducao_6835180147.jpg)
-
-Polícia
-
-Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado](https://www.tnh1.com.br/noticia/nid/sexo-na-praia-veja-o-que-diz-o-mp-al-sobre-afastamento-de-aluno-no-curso-de-delegado/ "Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado")   [![Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_sexo_praia_9091d042b1.png)
-
-após denúncia
-
-Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://www.tnh1.com.br/noticia/nid/homem-filmado-fazendo-sexo-em-praia-de-maceio-e-afastado-do-curso-de-delegados-em-alagoas/ "Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas")
-
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-
-Últimas de Polícia
-
-[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
-
-   [![PM apreende arma de fogo, maconha, cocaína e clorofórmio em ações no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/8/csm_PM_apreende_arma_de_fogo__maconha__cocaina_e_cloroformio_em_acoes_no_interior_-_foto_PMAL_70168082fb.jpg)
-
-Polícia
-
-PM apreende arma de fogo, maconha, cocaína e clorofórmio em ações no interior](https://www.tnh1.com.br/noticia/nid/pm-apreende-arma-de-fogo-maconha-cocaina-e-cloroformio-em-acoes-no-interior/ "PM apreende arma de fogo, maconha, cocaína e clorofórmio em ações no interior")   [![Fraude: PF cumpre mandado contra maceioense que recebeu R$ 30 mil em transferências bancárias](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/d/csm_operacao_vergel_ascom_pf_61d9abc69c.jpeg)
-
-Movimentações
-
-Fraude: PF cumpre mandado contra maceioense que recebeu R$ 30 mil em transferências bancárias](https://www.tnh1.com.br/noticia/nid/fraude-pf-cumpre-mandado-contra-maceioense-que-recebeu-r-30-mil-em-transferencias-bancarias/ "Fraude: PF cumpre mandado contra maceioense que recebeu R$ 30 mil em transferências bancárias")   [![Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido em Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_apreensao_arma_adolescente_roubo_posto_-_arapiraca_856c5c458c.jpeg)
-
-Parado por populares
-
-Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido em Arapiraca](https://www.tnh1.com.br/noticia/nid/adolescente-tenta-roubar-posto-de-combustivel-mas-e-imobilizado-e-apreendido-em-arapiraca/ "Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido em Arapiraca")   [![Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/0/csm_atentado_feitosa_reproducao_foto_1_88d837da6c.png)
-
-Em investigação
-
-Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://www.tnh1.com.br/noticia/nid/cenas-fortes-imagens-mostram-atentado-no-feitosa-autores-do-crime-tambem-foram-mortos/ "Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos")   [![Suspeito de tentar matar jovem após acidente de trânsito é preso em Penedo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/9/csm_prisao_penedo_69aece615e.jpeg)
-
-Polícia
-
-Suspeito de tentar matar jovem após acidente de trânsito é preso em Penedo](https://www.tnh1.com.br/noticia/nid/suspeito-de-tentar-matar-jovem-apos-acidente-de-transito-e-preso-em-penedo/ "Suspeito de tentar matar jovem após acidente de trânsito é preso em Penedo ")   [![Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
-
-Na Serraria
-
-Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://www.tnh1.com.br/noticia/nid/motorista-invade-contramao-bate-em-viatura-da-pm-e-e-preso-por-embriaguez-ao-volante/ "Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,16 +25,6 @@ Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao 
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
-
-Pessoas & Negócios
-
-Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,7 +98,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/c/csm_mulher-engana-justica-reproducao_6677dd306c.png)
+[![Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/c/csm_mulher-engana-justica-reproducao_6677dd306c.png)
 
 plano quase perfeito
 
@@ -206,7 +106,7 @@ plano quase perfeito
 
 Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada
 
-Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada](https://www.tnh1.com.br/noticia/nid/mulher-engana-exercito-por-33-anos-recebe-mais-de-r-3-milhoes-e-acaba-condenada/ "Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada")[![Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_sexo_praia_b113de540d.png)
+Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada](https://www.tnh1.com.br/noticia/nid/mulher-engana-exercito-por-33-anos-recebe-mais-de-r-3-milhoes-e-acaba-condenada/ "Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada")[![Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/7/csm_sexo_praia_b113de540d.png)
 
 após denúncia
 
@@ -214,15 +114,7 @@ após denúncia
 
 Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas
 
-Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://www.tnh1.com.br/noticia/nid/homem-filmado-fazendo-sexo-em-praia-de-maceio-e-afastado-do-curso-de-delegados-em-alagoas/ "Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas")[![Vídeo de sexo faz árbitra e inspetor dos juízes serem suspensos; advogado levanta a tese de IA](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/e/csm_arbitra_Elif_Karaarslan_rep_instagram_5662388eef.jpg)
-
-Na Turquia
-
-Na Turquia
-
-Vídeo de sexo faz árbitra e inspetor dos juízes serem suspensos; advogado levanta a tese de IA
-
-Vídeo de sexo faz árbitra e inspetor dos juízes serem suspensos; advogado levanta a tese de IA](https://www.tnh1.com.br/noticia/nid/video-de-sexo-faz-arbitra-e-inspetor-dos-juizes-serem-suspensos-advogado-levanta-a-tese-de-ia/ "Vídeo de sexo faz árbitra e inspetor dos juízes serem suspensos; advogado levanta a tese de IA")[![Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/0/csm_atentado_feitosa_reproducao_foto_1_dc2439079b.png)
+Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://www.tnh1.com.br/noticia/nid/homem-filmado-fazendo-sexo-em-praia-de-maceio-e-afastado-do-curso-de-delegados-em-alagoas/ "Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas")[![Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/0/csm_atentado_feitosa_reproducao_foto_1_dc2439079b.png)
 
 Em investigação
 
@@ -230,41 +122,49 @@ Em investigação
 
 Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos
 
-Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://www.tnh1.com.br/noticia/nid/cenas-fortes-imagens-mostram-atentado-no-feitosa-autores-do-crime-tambem-foram-mortos/ "Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos")
+Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://www.tnh1.com.br/noticia/nid/cenas-fortes-imagens-mostram-atentado-no-feitosa-autores-do-crime-tambem-foram-mortos/ "Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos")[![Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/b/csm_menina_meningite_dd7f3a724f.png)
 
-[![Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/9/csm_Nadal_b2d5329c1e.jpg)
+Maceió
 
-Esporte
+Maceió
 
-Esporte
+Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato
 
-Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal
+Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://www.tnh1.com.br/noticia/nid/maceio-tem-30-casos-confirmados-de-meningite-mae-de-crianca-internada-faz-relato/ "Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato")
 
-Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal](https://www.tnh1.com.br/noticia/nid/sindrome-de-mueller-weiss-entenda-o-que-e-a-doenca-que-afeta-nadal-1/ "Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal")[![Polícia investiga furto de 115 armas e munições em cidade de 4,5 mil habitantes de SC](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/6/csm_armas-furtadas-sc-reproducao-portal-magronada_6b705a2c92.jpg)
+[![Homem desenvolve tumor no couro cabeludo após dançar breaking por décadas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/5/csm_breaking-danca-reproducao-freepik_9593ccd7c2.png)
 
-PREJUÍZO GRANDE
+caroço significativo
 
-PREJUÍZO GRANDE
+caroço significativo
 
-Polícia investiga furto de 115 armas e munições em cidade de 4,5 mil habitantes de SC
+Homem desenvolve tumor no couro cabeludo após dançar breaking por décadas
 
-Polícia investiga furto de 115 armas e munições em cidade de 4,5 mil habitantes de SC](https://www.tnh1.com.br/noticia/nid/policia-investiga-furto-de-115-armas-e-municoes-em-cidade-de-45-mil-habitantes-de-sc/ "Polícia investiga furto de 115 armas e munições em cidade de 4,5 mil habitantes de SC")[![Homem é condenado por extorquir a própria mãe: “Você vai morrer. A casa e o dinheiro ficarão para mim"](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/7/csm_violencia_mulher_agencia_brasil_033a739e41.png)
+Homem desenvolve tumor no couro cabeludo após dançar breaking por décadas](https://www.tnh1.com.br/noticia/nid/homem-desenvolve-tumor-no-couro-cabeludo-apos-dancar-breaking-por-decadas/ "Homem desenvolve tumor no couro cabeludo após dançar breaking por décadas")[![Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_csm_rei-charles-instagram-clarencehouse_6a258ceb34_5a9cbf82dc.jpg)
 
-Interior
+Família Real
 
-Interior
+Família Real
 
-Homem é condenado por extorquir a própria mãe: “Você vai morrer. A casa e o dinheiro ficarão para mim"
+Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer
 
-Homem é condenado por extorquir a própria mãe: “Você vai morrer. A casa e o dinheiro ficarão para mim"](https://www.tnh1.com.br/noticia/nid/homem-e-condenado-por-extorquir-a-propria-mae-voce-vai-morrer-a-casa-e-o-dinheiro-ficarao-para-mim/ "Homem é condenado por extorquir a própria mãe: “Você vai morrer. A casa e o dinheiro ficarão para mim"")[![Seis pacientes testam positivo para HIV após transplante de órgãos no RJ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/a/csm_laboratorio-rio-de-janeiro-pacientes-HIV-reproducao-google_744aae766c.png)
+Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer](https://www.tnh1.com.br/noticia/nid/rei-charles-dispensa-homeopata-e-tera-dois-medicos-de-plantao-em-primeira-grande-viagem-apos-diagnostico-de-cancer/ "Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer")[![Homem que atacou mulheres em SP disse à família que intenção era exigir Pix para comprar drogas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/f/csm_homem-atacou-mulher-reproducao_e31da601ca.png)
 
-polícia investiga
+Está desaparecido
 
-polícia investiga
+Está desaparecido
 
-Seis pacientes testam positivo para HIV após transplante de órgãos no RJ
+Homem que atacou mulheres em SP disse à família que intenção era exigir Pix para comprar drogas
 
-Seis pacientes testam positivo para HIV após transplante de órgãos no RJ](https://www.tnh1.com.br/noticia/nid/seis-pacientes-testam-positivo-para-hiv-apos-transplante-de-orgaos-no-rj/ "Seis pacientes testam positivo para HIV após transplante de órgãos no RJ")
+Homem que atacou mulheres em SP disse à família que intenção era exigir Pix para comprar drogas](https://www.tnh1.com.br/noticia/nid/homem-que-atacou-mulheres-em-sp-disse-a-familia-que-intencao-era-exigir-pix-para-comprar-drogas/ "Homem que atacou mulheres em SP disse à família que intenção era exigir Pix para comprar drogas")[![Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa; entenda a história](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/4/csm_separacao-divorcio-reproducao-pexels_71c13402a5.jpg)
+
+EM SP
+
+EM SP
+
+Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa; entenda a história
+
+Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa; entenda a história](https://www.tnh1.com.br/noticia/nid/homem-que-largou-casamento-apos-6-dias-tera-que-pagar-r-50-mil-por-festa-entenda-a-historia/ "Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa; entenda a história")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
