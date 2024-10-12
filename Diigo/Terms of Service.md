@@ -171,8 +171,3 @@ Please contact us at [info@diigo.com](mailto:info@diigo.com) with any questions 
 * [Blog](http://blog.diigo.com/)
 * [Twitter](http://www.twitter.com/diigo "Follow us on Twitter")
 * [Contact Us](https://www.diigo.com/common/contact)
-
-Status: 500 Internal Server Error Content-Type: text/html
-
-500 Internal Server Error
-=========================
