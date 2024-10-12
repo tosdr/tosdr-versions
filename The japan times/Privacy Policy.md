@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 12, 2024](https://www.japantimes.co.jp/archive/2024/10/12/ "archive page")
+[October 13, 2024](https://www.japantimes.co.jp/archive/2024/10/13/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,17 +463,17 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
+[17-year-old girl found dead in Osaka hotel room was strangled](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
 
-  [![Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427344.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.")](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
+  [![A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425274.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.")](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
 
 [Ban on dual nationality is constitutional, Fukuoka High Court rules](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
 
   [![Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427084.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.")](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
 
-[17-year-old girl found dead in Osaka hotel room was strangled](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
+[Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
 
-  [![A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425274.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.")](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
+  [![Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427344.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.")](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
 
 [Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
@@ -566,23 +566,23 @@ Latest News
 
 [Ishiba reiterates need for nuclear deterrence despite group's Nobel Prize](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/ishiba-nuclear-deterrance/ "Ishiba reiterates need for nuclear deterrence despite group's Nobel Prize")
 
-1 hours ago
+4 hours ago
+
+[Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize-nihon-hidankyo/ "Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo")
+
+5 hours ago
 
 [China's stimulus message leaves investors wanting though hanging onto hope](https://www.japantimes.co.jp/business/2024/10/12/economy/china-stimulus-message-investors-disappoint/ "China's stimulus message leaves investors wanting though hanging onto hope")
 
-4 hours ago
+10 hours ago
 
 [Victims of Typhoon Hagibis remembered five years after disaster](https://www.japantimes.co.jp/news/2024/10/12/japan/miyagi-typhoon-victims-remembered/ "Victims of Typhoon Hagibis remembered five years after disaster")
 
-4 hours ago
+10 hours ago
 
 [People in Hiroshima and Nagasaki reiterate call for peace after Nobel win](https://www.japantimes.co.jp/news/2024/10/12/japan/hiroshima-nagasaki-peace-call/ "People in Hiroshima and Nagasaki reiterate call for peace after Nobel win")
 
-4 hours ago
-
-[Lawson and FamilyMart post higher first-half profits](https://www.japantimes.co.jp/business/2024/10/12/companies/lawson-familymart-profits/ "Lawson and FamilyMart post higher first-half profits")
-
-5 hours ago
+11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
