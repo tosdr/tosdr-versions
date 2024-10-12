@@ -13,7 +13,7 @@ Other languages:
 * [Deutsch](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/de "Policy:Privacy policy/de (100% translated)")
 * [Deutsch (Sie-Form)](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/de-formal "Policy:Privacy policy/de-formal (46% translated)")
 * English
-* [Esperanto](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/eo "Policy:Privacy policy/eo (54% translated)")
+* [Esperanto](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/eo "Policy:Privacy policy/eo (57% translated)")
 * [Frysk](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/fy "Policy:Privacy policy/fy (1% translated)")
 * [Hausa](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ha "Policy:Privacy policy/ha (20% translated)")
 * [Kiswahili](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/sw "Policy:Privacy policy/sw (95% translated)")
