@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Henry Venter
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=195427898)  
-Cape Adventure Zone
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=87792262)  
+Forgotten Goods (Pty) Ltd
 
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=71320243)  
-VA AND M BUSINESSES (PTY)LTD
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=175719789)  
+Wiselink Broadband Vryheid
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=165295035)  
-Little Nutty Professors
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=20479499)  
+APTV Telecoms CC
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=143174091)  
-Wiselink Broadband Pty Ltd
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=16570042)  
+CGHK Enterprises (PTY) LTD
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=50494212)  
-CBR Verwe/Paints
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=99590344)  
+Tiny Cuddles Photography
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=177775449)  
-Nogana Events and Decor
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=68991169)  
+Eruca (PTY)Ltd
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=128305263)  
-RADIO TYGERBERG 104FM NPC
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=29165980)  
+Moremi Kitchens Rustenburg
 
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=108925082)  
-Quad Biking Cape Town
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=68729127)  
+OXYAIDER (PTY) LTD
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=133012247)  
-MONSTER CONNECT (PTY) LTD
-
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=33445152)  
-PROGRAPHIX PTY LTD
-
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=126467692)  
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=87988916)  
 Highlands Auto Engineering
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=136040179)  
-Tagline Brands
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=103353811)  
+Lily Fern & Co
 
-![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=133491597)  
-Sportspro Group (Pty) Ltd
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=53672252)  
+MONSTER SECURITY GUARDING
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=131643388)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=66921250)  
+All Trucking Solutions
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=014410b9de9aa8670ca4cbf4517a276d57e250a0d3ee75c5633b0413b7f05ba8&c=17549746)  
-Konsortium Operations (PTY) LTD
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=21081029)  
+NWET Pty LTD
+
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=55786856)  
+Frameless Fanatix (Pty) Ltd.
+
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=e549486b92fd080be533af67e4274ffae6415551b86caabe672ba08907ef327c&c=109948967)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
