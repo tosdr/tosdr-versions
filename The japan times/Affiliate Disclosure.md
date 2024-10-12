@@ -254,23 +254,17 @@ Latest News
 
 [Ishiba reiterates need for nuclear deterrence despite group's Nobel Prize](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/ishiba-nuclear-deterrance/ "Ishiba reiterates need for nuclear deterrence despite group's Nobel Prize")
 
-4 hours ago
+10 hours ago
 
 [Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize-nihon-hidankyo/ "Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo")
 
-5 hours ago
+11 hours ago
 
 [China's stimulus message leaves investors wanting though hanging onto hope](https://www.japantimes.co.jp/business/2024/10/12/economy/china-stimulus-message-investors-disappoint/ "China's stimulus message leaves investors wanting though hanging onto hope")
 
-10 hours ago
-
 [Victims of Typhoon Hagibis remembered five years after disaster](https://www.japantimes.co.jp/news/2024/10/12/japan/miyagi-typhoon-victims-remembered/ "Victims of Typhoon Hagibis remembered five years after disaster")
 
-10 hours ago
-
 [People in Hiroshima and Nagasaki reiterate call for peace after Nobel win](https://www.japantimes.co.jp/news/2024/10/12/japan/hiroshima-nagasaki-peace-call/ "People in Hiroshima and Nagasaki reiterate call for peace after Nobel win")
-
-11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
