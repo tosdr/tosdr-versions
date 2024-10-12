@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/WTOL/images/64d71689-b1bb-4afa-87a5-49101e9720cf/64d71689-b1bb-4afa-87a5-49101e9720cf_16x9.jpg) ![](https://media.kagstv.com/assets/WTOL/images/64d71689-b1bb-4afa-87a5-49101e9720cf/64d71689-b1bb-4afa-87a5-49101e9720cf_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-bryan-tx-on-oct-10-2024/500-cd6ec1e3-4049-4020-9a6f-dd1b0836e5de)
+        
+        #### [Missing teen last seen in Bryan area found safe, authorities say](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-bryan-tx-on-oct-10-2024/500-cd6ec1e3-4049-4020-9a6f-dd1b0836e5de)
+        
     *  [![](https://media.kagstv.com/assets/KUSA/images/bc0afd67-7492-447a-a107-c45677099179/20241011T191120/bc0afd67-7492-447a-a107-c45677099179_16x9.jpg) ![](https://media.kagstv.com/assets/KUSA/images/bc0afd67-7492-447a-a107-c45677099179/20241011T191120/bc0afd67-7492-447a-a107-c45677099179_360x203.jpg)](https://www.kagstv.com/article/news/local/equipment-malfunction-gold-mine-attraction-cripple-creek/73-fb8dcc8d-4e97-4745-bd93-538501133f3c)
         
-        #### [Mine tour guide identified as victim of accident Mollie Kathleen Gold Mine](https://www.kagstv.com/article/news/local/equipment-malfunction-gold-mine-attraction-cripple-creek/73-fb8dcc8d-4e97-4745-bd93-538501133f3c)
-        
-    *  [![](https://media.kagstv.com/assets/KCEN/images/feebce07-09eb-4cee-b9e7-ae386f12fa88/20241011T175717/feebce07-09eb-4cee-b9e7-ae386f12fa88_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/feebce07-09eb-4cee-b9e7-ae386f12fa88/20241011T175717/feebce07-09eb-4cee-b9e7-ae386f12fa88_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-bryan-tx-on-oct-10-2024/500-cd6ec1e3-4049-4020-9a6f-dd1b0836e5de)
-        
-        #### [Have you seen this person? Bryan authorities seeking help finding missing 14-year-old](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-bryan-tx-on-oct-10-2024/500-cd6ec1e3-4049-4020-9a6f-dd1b0836e5de)
+        #### [Mine tour guide identified as victim of accident at Mollie Kathleen Gold Mine](https://www.kagstv.com/article/news/local/equipment-malfunction-gold-mine-attraction-cripple-creek/73-fb8dcc8d-4e97-4745-bd93-538501133f3c)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-92°
+75°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
