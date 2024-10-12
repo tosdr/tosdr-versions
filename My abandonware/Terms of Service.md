@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [ATV Track](https://www.myabandonware.com/game/atv-track-ss5)
-* [After Burner: Climax](https://www.myabandonware.com/game/after-burner-climax-ss4)
-* [Bloody Wolf](https://www.myabandonware.com/game/bloody-wolf-ss3)
-* [Avenger](https://www.myabandonware.com/game/avenger-ss2)
-* [Astron Belt](https://www.myabandonware.com/game/astron-belt-ss1)
+* [Atomic Robo-Kid](https://www.myabandonware.com/game/atomic-robo-kid-4io)
+* [Big Buck Hunter Pro](https://www.myabandonware.com/game/big-buck-hunter-pro-ssf)
+* [280 Zzzap](https://www.myabandonware.com/game/280-zzzap-sse)
+* [21](https://www.myabandonware.com/game/21-ssd)
+* [Attack](https://www.myabandonware.com/game/attack-ssc)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
