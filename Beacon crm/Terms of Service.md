@@ -269,7 +269,7 @@ These terms tell you the rules for using our website [**www.beaconcrm.org**](htt
 
 We are a limited company.
 
-To contact us, please email [**support@beaconcrm.org**](mailto:support@beaconcrm.org).
+To contact us, please email [\[email protected\]](https://www.beaconcrm.org/cdn-cgi/l/email-protection).
 
 #### By using our site you accept these terms
 
@@ -319,7 +319,7 @@ If you choose, or you are provided with, a user identification code, password or
 
 We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use.
 
-If you know or suspect that anyone other than you knows your user identification code or password, you must promptly notify us at [**support@beaconcrm.org**](mailto:support@beaconcrm.org).
+If you know or suspect that anyone other than you knows your user identification code or password, you must promptly notify us at [\[email protected\]](https://www.beaconcrm.org/cdn-cgi/l/email-protection).
 
 #### How you may use material on our site
 
@@ -364,7 +364,7 @@ This website may include information and materials uploaded by other users of th
 
 #### How to complain about content uploaded by other users
 
-If you wish to complain about content uploaded by other users, please contact us at [**support@beaconcrm.org**](mailto:support@beaconcrm.org).
+If you wish to complain about content uploaded by other users, please contact us at [\[email protected\]](https://www.beaconcrm.org/cdn-cgi/l/email-protection).
 
 #### Our responsibility for loss or damage suffered by you
 
@@ -439,7 +439,7 @@ We reserve the right to withdraw linking permission without notice.
 
 The website in which you are linking must comply in all respects with the content standards set out in our [**Acceptable Use Policy**](https://www.beaconcrm.org/legal/terms#schedule-1).
 
-If you wish to link to or make any use of content on our site other than that set out above, please contact [**support@beaconcrm.org**](mailto:support@beaconcrm.org).
+If you wish to link to or make any use of content on our site other than that set out above, please contact [\[email protected\]](https://www.beaconcrm.org/cdn-cgi/l/email-protection).
 
 #### Which country's laws apply to any disputes?
 
@@ -471,6 +471,6 @@ Try Beacon for free today.
 
 **Contact**
 
-[020 3886 0205](tel:02038860205)[support@beaconcrm.org](mailto:support@beaconcrm.org)
+[020 3886 0205](tel:02038860205)[\[email protected\]](https://www.beaconcrm.org/cdn-cgi/l/email-protection)
 
 ©2024 Beacon Apps Ltd. All Rights Reserved. 4-6 New Inn Broadway, London EC2A 3PR
