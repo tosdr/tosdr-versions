@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-897d11c3051575521006a7d008aa93ab
+139109e90d8040b83a59a43179d5b00d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Green tendril clasp](https://sojourner.biz/images/cache/SKU0441variations.200.jpg)](https://sojourner.biz/clasps/glass/green-tendril-clasp.html "Green tendril clasp")
+[![12 mm flat round oregon blue opal beads](https://sojourner.biz/images/cache/aquamarine/AQM009.200.jpg)](https://sojourner.biz/beads/stone-a-l/aquamarine/12-mm-flat-round-oregon-blue-opal-beads.html "12 mm flat round oregon blue opal beads")
 
-#### [Green tendril clasp](https://sojourner.biz/clasps/glass/green-tendril-clasp.html "Green tendril clasp")
+#### [12 mm flat round oregon blue opal beads](https://sojourner.biz/beads/stone-a-l/aquamarine/12-mm-flat-round-oregon-blue-opal-beads.html "12 mm flat round oregon blue opal beads")
 
-$39.00
+$25.00
 
 ### Best Sellers
 
