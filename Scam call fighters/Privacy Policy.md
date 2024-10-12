@@ -302,13 +302,6 @@ Giới thiệu trang phunucodon.me - Saoke(\*\*\*.0.57). Saoke TV - Trang web xe
 
 .
 
-**Đối tác:**  
-[nhà cái uy tín](https://nhacaiuytin77.com/) nhacaiuytin77.com  
-[nha cai uy tin](https://nhacaiaz.net/) nhacaiaz.com  
-[nhà cái uy tín](https://nhacaiuytin.cash/) nhacaiuytin.cash  
-[jun88](https://jun8868.info/)  
-[nha cai uy tin](https://nhacaiuytin1.me/)  
-
 [![Fb](/themes/colatv/assets/image/Fb_cola.png)](#) [![yt](/themes/colatv/assets/image/youtube.png)](#) [![in](/themes/colatv/assets/image/instagram.png)](#) [![x](/themes/colatv/assets/image/twitter.png)](#)
 
 ![protect](/themes/colatv/assets/image/CN_cola.png)
