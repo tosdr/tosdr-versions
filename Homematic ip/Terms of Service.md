@@ -317,6 +317,12 @@ Sicherheits-Champion: Homematic IP zum achten Mal in Folge vom VDE zertifiziert]
 
 [Okt.
 
+17-19
+
+Event](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-10-17-bauhaus-dresden-nickern)
+
+[Okt.
+
 10-12
 
 Event
@@ -351,6 +357,8 @@ Pfadnavigation
 --------------
 
 1. [Home](https://homematic-ip.com/de)
+2. [Service](https://homematic-ip.com/de/service)
+3. EULA
 
 Nutzungsbedingungen für die Homematic IP App und Homematic IP Cloud
 ===================================================================
