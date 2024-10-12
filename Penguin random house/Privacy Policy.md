@@ -14,14 +14,6 @@ Recommendations
 
 Audio
 
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
-    
-    Books Bans Are on the Rise in America
-    
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
-
-* * *
-
 * [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
     
     Join Our Authors for Upcoming Events
@@ -30,11 +22,19 @@ Audio
 
 * * *
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
     
-    New Releases
+    Browse All Our Lists, Essays, and Interviews
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+
+* * *
+
+* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/09/26151432/PRH_New-Audio_site_1200x626_Oct2024.jpg)
+    
+    New Stories to Listen to
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
 * <
     
