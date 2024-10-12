@@ -230,12 +230,11 @@ It's Not News, It's Fark
 
 [![Fark25 Party](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want more stories with less ads? Try
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -335,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Trump will speak to an audience of Cumming women next week](https://www.fark.com/goto/13424608) ( [press.foxnews.com](https://www.fark.com/goto/13424608) ) » [(14 comments)](https://www.fark.com/comments/13424608/Trump-will-speak-to-an-audience-of-Cumming-women-next-week) |
-| [Discussion](https://www.fark.com/discussion/) | ["I gave my partner a threesome and he won't stop asking for another one. What do?" (possible nsfw content on page)](https://www.fark.com/goto/13424464) ( [thesun.co.uk](https://www.fark.com/goto/13424464) ) » [(15 comments)](https://www.fark.com/comments/13424464/I-gave-my-partner-a-threesome-he-wont-stop-asking-for-another-one-What-do-possible-nsfw-content-on-page) |
-| [Sports](https://www.fark.com/sports/) | [Let Russ rock](https://www.fark.com/goto/13424288) ( [nfl.com](https://www.fark.com/goto/13424288) ) » [(1 comment)](https://www.fark.com/comments/13424288/Let-Russ-rock) |
-| [Business](https://www.fark.com/business/) | [Just to be clear, when you're delivering for Uber Eats, your job is to take stuff TO apartments, not take stuff FROM them](https://www.fark.com/goto/13424528) ( [nydailynews.com](https://www.fark.com/goto/13424528) ) » [(4 comments)](https://www.fark.com/comments/13424528/Just-to-be-clear-when-youre-delivering-for-Uber-Eats-your-job-is-to-take-stuff-TO-apartments-not-take-stuff-FROM-them) |
-| [STEM](https://www.fark.com/stem/) | [Scientists finally put a face on the biggest bug to ever crawl the earth. Next up, googly eyes on a T-Rex](https://www.fark.com/goto/13424494) ( [independent.co.uk](https://www.fark.com/goto/13424494) ) » [(2 comments)](https://www.fark.com/comments/13424494/Scientists-finally-put-a-face-on-biggest-bug-to-ever-crawl-earth-Next-up-googly-eyes-on-a-T-Rex) |
-| [Entertainment](https://www.fark.com/entertainment/) | [How they make Da Bomb hot sauce](https://www.fark.com/goto/13424426) ( [youtube.com](https://www.fark.com/goto/13424426) ) » [(9 comments)](https://www.fark.com/comments/13424426/How-they-make-Da-Bomb-hot-sauce) |
-| [Fandom](https://www.fark.com/fandom/) | [Report: Roblox is a pedophile hellscape for kids](https://www.fark.com/goto/13424232) ( [kotaku.com](https://www.fark.com/goto/13424232) ) » [(18 comments)](https://www.fark.com/comments/13424232/Report-Roblox-is-a-pedophile-hellscape-for-kids) |
-| [D'awww](https://www.fark.com/dawww/) | [Man goes to the Champagne region of France not to sip the bubbly, he went to catch the world's biggest goldfish](https://www.fark.com/goto/13424376) ( [theguardian.com](https://www.fark.com/goto/13424376) ) » [(3 comments)](https://www.fark.com/comments/13424376/Man-goes-to-Champagne-region-of-France-not-to-sip-bubbly-he-went-to-catch-worlds-biggest-goldfish) |
-| [Food](https://www.fark.com/food/) | [Why is bacon getting so expensive?](https://www.fark.com/goto/13424682) ( [apnews.com](https://www.fark.com/goto/13424682) ) » [(7 comments)](https://www.fark.com/comments/13424682/Why-is-bacon-getting-so-expensive) |
-| [Politics](https://www.fark.com/politics/) | [Maybe this would be the time to talk about gun violence](https://www.fark.com/goto/13424082) ( [cbsnews.com](https://www.fark.com/goto/13424082) ) » [(8 comments)](https://www.fark.com/comments/13424082/Maybe-this-would-be-time-to-talk-about-gun-violence) |
+| [Main](https://www.fark.com/) | [Mebs: Apparently breakdancing too much can turn you into a conehead](https://www.fark.com/goto/13424042) ( [metro.co.uk](https://www.fark.com/goto/13424042) ) » [(5 comments)](https://www.fark.com/comments/13424042/Mebs-Apparently-breakdancing-too-much-can-turn-you-into-a-conehead) |
+| [Discussion](https://www.fark.com/discussion/) | [If you could, would you swap gender?](https://www.fark.com/goto/13424726) ( [upworthy.com](https://www.fark.com/goto/13424726) ) » [(27 comments)](https://www.fark.com/comments/13424726/If-you-could-would-you-swap-gender) |
+| [Sports](https://www.fark.com/sports/) | [Game 5 of the NLDS will decide who advances to play the Mets. Will it be the San Diego Padres? Or will it be the Los Angeles Dodgers? Who do you want to win? First pitch is at 8:08 PM ET on FOX](https://www.fark.com/goto/13423918) ( [espn.com](https://www.fark.com/goto/13423918) ) » [(21 comments)](https://www.fark.com/comments/13423918/Game-5-of-NLDS-will-decide-who-advances-to-play-Mets-Will-it-be-San-Diego-Padres-Or-will-it-be-Los-Angeles-Dodgers-Who-do-you-want-to-win-First-pitch-is-at-808-PM-ET-on-FOX) |
+| [Business](https://www.fark.com/business/) | [Cash-only: Cuban dictatorship creates VIP lounges in airports to revive the shattered economy](https://www.fark.com/goto/13424722) ( [aol.com](https://www.fark.com/goto/13424722) ) » [(1 comment)](https://www.fark.com/comments/13424722/Cash-only-Cuban-dictatorship-creates-VIP-lounges-in-airports-to-revive-shattered-economy) |
+| [STEM](https://www.fark.com/stem/) | [You didn't really think Elmo's bartending robots were real, right?](https://www.fark.com/goto/13424834) ( [gizmodo.com](https://www.fark.com/goto/13424834) ) » [(13 comments)](https://www.fark.com/comments/13424834/You-didnt-really-think-Elmos-bartending-robots-were-real-right) |
+| [Entertainment](https://www.fark.com/entertainment/) | ["10 Harsh Realties Of Rewatching The Wizard Of Oz" AKA: Gen-Z writer over-analyzes an 85-year-old family film](https://www.fark.com/goto/13424700) ( [msn.com](https://www.fark.com/goto/13424700) ) » [(32 comments)](https://www.fark.com/comments/13424700/-10-Harsh-Realties-Of-Rewatching-The-Wizard-Of-Oz-AKA-Gen-Z-writer-over-analyzes-an-85-year-old-family-film) |
+| [Fandom](https://www.fark.com/fandom/) | [Report: Roblox is a pedophile hellscape for kids](https://www.fark.com/goto/13424232) ( [kotaku.com](https://www.fark.com/goto/13424232) ) » [(36 comments)](https://www.fark.com/comments/13424232/Report-Roblox-is-a-pedophile-hellscape-for-kids) |
+| [D'awww](https://www.fark.com/dawww/) | [Northern Virginia doing their part, their shelters are taking in animal rescues from Hurricanes Helene and Milton](https://www.fark.com/goto/13424352) ( [yahoo.com](https://www.fark.com/goto/13424352) ) » [(5 comments)](https://www.fark.com/comments/13424352/Northern-Virginia-doing-their-part-their-shelters-are-taking-in-animal-rescues-from-Hurricanes-Helene-Milton) |
+| [Food](https://www.fark.com/food/) | [This is how you should be making s'mores](https://www.fark.com/goto/13424748) ( [thetakeout.com](https://www.fark.com/goto/13424748) ) » [(3 comments)](https://www.fark.com/comments/13424748/This-is-how-you-should-be-making-smores) |
+| [Politics](https://www.fark.com/politics/) | [Trump saying he was named Michigan's 'man of the year' was news to those who hand out those awards](https://www.fark.com/goto/13424590) ( [msn.com](https://www.fark.com/goto/13424590) ) » [(5 comments)](https://www.fark.com/comments/13424590/Trump-saying-he-was-named-Michigans-man-of-year-was-news-to-those-who-hand-out-those-awards) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -354,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 11 2024 15:43:06  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 11 2024 21:43:53  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
