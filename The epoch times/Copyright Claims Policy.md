@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [In Colorado, Trump Announces ‘Operation Aurora’ to Target Illegal Immigrant Crime](https://www.theepochtimes.com/us/in-colorado-trump-announces-operation-aurora-to-target-illegal-immigrant-crime-5740214)
+    
+    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    
+    [![In Colorado, Trump Announces ‘Operation Aurora’ to Target Illegal Immigrant Crime](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![In Colorado, Trump Announces ‘Operation Aurora’ to Target Illegal Immigrant Crime](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740222-Donald-Trump-4_JF_10112024-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-colorado-trump-announces-operation-aurora-to-target-illegal-immigrant-crime-5740214)
+* [Whoever Wins This Pennsylvania County Is Expected to Win the White House](https://www.theepochtimes.com/us/whoever-wins-this-pennsylvania-county-is-expected-to-win-the-white-house-5738704)
+    
+    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    
+    [![Whoever Wins This Pennsylvania County Is Expected to Win the White House](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Whoever Wins This Pennsylvania County Is Expected to Win the White House](https://img.theepochtimes.com/assets/uploads/2023/11/09/id5526730-GettyImages-1563693363_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/whoever-wins-this-pennsylvania-county-is-expected-to-win-the-white-house-5738704)
+* [Fischer-Price Recalls More Than 2 Million Infant Swings Following 5 Deaths](https://www.theepochtimes.com/business/fischer-price-recalls-more-than-2-million-infant-swings-following-5-deaths-5740206)
+    
+    2hr By [Wim De Gent](https://www.theepochtimes.com/author/wim-degent)
+    
+    [![Fischer-Price Recalls More Than 2 Million Infant Swings Following 5 Deaths](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Fischer-Price Recalls More Than 2 Million Infant Swings Following 5 Deaths](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740207-Fisher_Price_Recall_24285676442729-205x123.jpg.webp)](https://www.theepochtimes.com/business/fischer-price-recalls-more-than-2-million-infant-swings-following-5-deaths-5740206)
+* [Biden Estimates Milton Damage at $50 Billion, Plans Florida Visit for Sunday](https://www.theepochtimes.com/us/biden-estimates-milton-damage-at-50-billion-plans-florida-visit-for-sunday-5740238)
+    
+    2hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Biden Estimates Milton Damage at $50 Billion, Plans Florida Visit for Sunday](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Estimates Milton Damage at $50 Billion, Plans Florida Visit for Sunday](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740246-Biden_White-House_hurricane-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-estimates-milton-damage-at-50-billion-plans-florida-visit-for-sunday-5740238)
+* [Day in Photos: Illegal Immigration, Nobel Peace Prize, and Hurricane Kirk](https://www.theepochtimes.com/article/day-in-photos-illegal-immigration-nobel-peace-prize-and-hurricane-kirk-5739789)
+    
+    2hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Illegal Immigration, Nobel Peace Prize, and Hurricane Kirk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Illegal Immigration, Nobel Peace Prize, and Hurricane Kirk](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740146-GettyImages-2177170172-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-illegal-immigration-nobel-peace-prize-and-hurricane-kirk-5739789)
+* [Stumping in a Swing State, Harris Vows to Appoint a Bipartisan Advisory Council](https://www.theepochtimes.com/us/stumping-in-a-swing-state-harris-vows-to-appoint-a-bipartisan-advisory-council-5740196)
+    
+    3hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
+    
+    [![Stumping in a Swing State, Harris Vows to Appoint a Bipartisan Advisory Council](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Stumping in a Swing State, Harris Vows to Appoint a Bipartisan Advisory Council](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740265-Harris-GettyImages-2177225508-205x123.jpg.webp)](https://www.theepochtimes.com/us/stumping-in-a-swing-state-harris-vows-to-appoint-a-bipartisan-advisory-council-5740196)
+* [Takeaways From Maryland’s US Senate Debate Between Larry Hogan and Angela Alsobrooks](https://www.theepochtimes.com/us/takeaways-from-marylands-us-senate-debate-between-larry-hogan-and-angela-alsobrooks-5739842)
+    
+    4hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    
+    [![Takeaways From Maryland’s US Senate Debate Between Larry Hogan and Angela Alsobrooks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Takeaways From Maryland’s US Senate Debate Between Larry Hogan and Angela Alsobrooks](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739860-FotoJet-205x123.jpg.webp)](https://www.theepochtimes.com/us/takeaways-from-marylands-us-senate-debate-between-larry-hogan-and-angela-alsobrooks-5739842)
+* [Appeals Court Weighs Texas’s Challenge to ‘Dreamers’ Program](https://www.theepochtimes.com/us/appeals-court-weighs-challenge-to-dreamers-program-5739868)
+    
+    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Appeals Court Weighs Texas’s Challenge to ‘Dreamers’ Program](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Appeals Court Weighs Texas’s Challenge to ‘Dreamers’ Program](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740260-DACA-protestKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-weighs-challenge-to-dreamers-program-5739868)
 * [In Photos: Northern and Southern Lights Decorate Night Sky](https://www.theepochtimes.com/article/in-photos-northern-and-southern-lights-decorate-night-sky-5740120)
     
-    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![In Photos: Northern and Southern Lights Decorate Night Sky](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![In Photos: Northern and Southern Lights Decorate Night Sky](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739619-Northern-Lights-GettyImages-2177106807-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-photos-northern-and-southern-lights-decorate-night-sky-5740120)
 * [Boeing to Slash 17,000 Jobs, End 767 Cargo Plane Production](https://www.theepochtimes.com/business/boeing-to-slash-17000-jobs-end-767-cargo-plane-production-5740135)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Boeing to Slash 17,000 Jobs, End 767 Cargo Plane Production](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Boeing to Slash 17,000 Jobs, End 767 Cargo Plane Production](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733234-1.tagreuters.com2024binary_LYNXMPEK8T0RA-FILEDIMAGE.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-to-slash-17000-jobs-end-767-cargo-plane-production-5740135)
-* [Congress Asks Telecom Executives to Testify on CCP Hack](https://www.theepochtimes.com/us/congress-asks-telecom-executives-to-testify-on-ccp-hack-5740029)
-    
-    1hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![Congress Asks Telecom Executives to Testify on CCP Hack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Congress Asks Telecom Executives to Testify on CCP Hack](https://img.theepochtimes.com/assets/uploads/2024/05/24/id5656632-Rep.-John-Moolenaar-speaks-at-event-on-May-23-2024-205x123.jpg.webp)](https://www.theepochtimes.com/us/congress-asks-telecom-executives-to-testify-on-ccp-hack-5740029)
-* [Blinken: US Concerned Over Beijing’s ‘Dangerous and Unlawful Actions’ in South China Sea](https://www.theepochtimes.com/china/blinken-us-concerned-over-beijings-dangerous-and-unlawful-actions-in-south-china-sea-5739738)
-    
-    2hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
-    
-    [![Blinken: US Concerned Over Beijing’s ‘Dangerous and Unlawful Actions’ in South China Sea](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Blinken: US Concerned Over Beijing’s ‘Dangerous and Unlawful Actions’ in South China Sea](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739942-Laos_ASEAN_Antony-Blinken-205x123.jpg.webp)](https://www.theepochtimes.com/china/blinken-us-concerned-over-beijings-dangerous-and-unlawful-actions-in-south-china-sea-5739738)
-* [Consumer Confidence Tumbles Amid Frustration Over High Prices](https://www.theepochtimes.com/us/consumer-confidence-tumbles-amid-frustration-over-high-prices-5740034)
-    
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Consumer Confidence Tumbles Amid Frustration Over High Prices](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Consumer Confidence Tumbles Amid Frustration Over High Prices](https://img.theepochtimes.com/assets/uploads/2024/08/19/id5708290-GettyImages-1241224919-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/consumer-confidence-tumbles-amid-frustration-over-high-prices-5740034)
-* [Where Harris and Trump Stand on Ukraine](https://www.theepochtimes.com/article/where-harris-and-trump-stand-on-ukraine-5734642)
-    
-    2hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
-    
-    [![Where Harris and Trump Stand on Ukraine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Where Harris and Trump Stand on Ukraine](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740116-GettyImages-1248904663-205x123.jpg.webp)](https://www.theepochtimes.com/article/where-harris-and-trump-stand-on-ukraine-5734642)
-* [Australian Court Sides with X in Free Speech Battle](https://www.theepochtimes.com/world/australian-court-sides-with-x-in-free-speech-battle-5740043)
-    
-    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Australian Court Sides with X in Free Speech Battle](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Australian Court Sides with X in Free Speech Battle](https://img.theepochtimes.com/assets/uploads/2024/02/22/id5592914-GettyImages-1782225491-205x123.jpg.webp)](https://www.theepochtimes.com/world/australian-court-sides-with-x-in-free-speech-battle-5740043)
-* [Michigan’s US Senate Race Tightens as Rogers, Slotkin Woo Undecideds](https://www.theepochtimes.com/us/michigans-us-senate-race-tightens-as-rogers-slotkin-woo-undecideds-5732837)
-    
-    2hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
-    
-    [![Michigan’s US Senate Race Tightens as Rogers, Slotkin Woo Undecideds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Michigan’s US Senate Race Tightens as Rogers, Slotkin Woo Undecideds](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739985-10092024-L1160170-Detroit-Michigan-205x123.jpg.webp)](https://www.theepochtimes.com/us/michigans-us-senate-race-tightens-as-rogers-slotkin-woo-undecideds-5732837)
-* [DeSantis Issues Warning to Residents to Avoid Preventable Post-Hurricane Fatalities](https://www.theepochtimes.com/us/desantis-issues-warning-to-residents-to-avoid-preventable-post-hurricane-fatalities-5739920)
-    
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![DeSantis Issues Warning to Residents to Avoid Preventable Post-Hurricane Fatalities](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![DeSantis Issues Warning to Residents to Avoid Preventable Post-Hurricane Fatalities](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740123-DeSantis-GettyImages-2173721368KO-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/desantis-issues-warning-to-residents-to-avoid-preventable-post-hurricane-fatalities-5739920)
-* [Wholesale Inflation Rises Above Expectations, Suggesting Price Pressures Persist](https://www.theepochtimes.com/business/wholesale-inflation-rises-above-expectations-suggesting-price-pressures-persist-5739959)
-    
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Wholesale Inflation Rises Above Expectations, Suggesting Price Pressures Persist](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Wholesale Inflation Rises Above Expectations, Suggesting Price Pressures Persist](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719102-GettyImages-2166779968-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/wholesale-inflation-rises-above-expectations-suggesting-price-pressures-persist-5739959)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
