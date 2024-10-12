@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [A Timeline Of Garth Brooks &...](https://classiccountrymusic.com/a-timeline-of-garth-brooks-trisha-yearwoods-relationship-marriage/)
 * [Reba McEntire Finally Shares The Theme...](https://classiccountrymusic.com/reba-mcentire-finally-shares-the-theme-song-for-her-new-sitcom-happys-place/)
 * [Tim McGraw & Luke Combs Team...](https://classiccountrymusic.com/tim-mcgraw-luke-combs-team-up-at-2019-cma-fest-for-real-good-man/)
-* [Ronnie Dunn Sings “I’ll Never Forgive...](https://classiccountrymusic.com/ronnie-dunn-sings-ill-never-forgive-my-heart-in-honor-of-dean-dillon/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
