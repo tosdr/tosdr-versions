@@ -3,7 +3,7 @@
 * [BLOG](https://mynextpay.ca/blog/)
 * [FRANÇAIS](https://mynextpay.ca/fr)
 
-[![Mynextpay](https://mynextpay.ca/wp-content/uploads/2020/12/mynextpay-logoret2.png)](https://mynextpay.ca/)
+[![Mynextpay](https://b3252150.smushcdn.com/3252150/wp-content/uploads/2020/12/mynextpay-logoret2.png?lossy=1&strip=1&webp=1)](https://mynextpay.ca/)
 
 * [SERVICES](#)
     * [PAYDAY LOANS](https://mynextpay.ca/payday-loans/)
@@ -94,7 +94,7 @@ Apply Now
 
 ![Credit consolidation in BC](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "image4")
 
-![Credit consolidation in BC](https://mynextpay.ca/wp-content/uploads/2024/10/image4-1.jpg "image4")
+![Credit consolidation in BC](https://b3252150.smushcdn.com/3252150/wp-content/uploads/2024/10/image4-1.jpg?lossy=1&strip=1&webp=1 "image4")
 
 **How Credit Consolidation in BC Works: A Step-by-Step Guide**
 --------------------------------------------------------------
