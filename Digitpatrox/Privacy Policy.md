@@ -20,16 +20,16 @@ Saturday, October 12 2024
 
 Latest
 
-* [The JMGO N1S Pro RGB Laser Projector Is $400 Off Right Now](https://digitpatrox.com/the-jmgo-n1s-pro-rgb-laser-projector-is-400-off-right-now/)
-* [Windows 11 gets update KB5044373, KB5044374, and build 27723 (preview)](https://digitpatrox.com/windows-11-gets-update-kb5044373-kb5044374-and-build-27723-preview/)
-* [How to Sell Your Car to an Online Retailer](https://digitpatrox.com/how-to-sell-your-car-to-an-online-retailer/)
-* [TikTok Effects Are My New Mobile Gaming Obsession](https://digitpatrox.com/tiktok-effects-are-my-new-mobile-gaming-obsession/)
-* [Embracing cloud migration at scale](https://digitpatrox.com/embracing-cloud-migration-at-scale/)
-* [7 Causes of Call Center Burnout Any Employer Can Address](https://digitpatrox.com/7-causes-of-call-center-burnout-any-employer-can-address/)
-* [NYT Connections today hints and answers — Saturday, October 12 (#489)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-saturday-october-12-489/)
-* [Casio confirms customer data stolen in a ransomware attack](https://digitpatrox.com/casio-confirms-customer-data-stolen-in-a-ransomware-attack/)
-* [Leak: AMD’s Ryzen 9000X3D chips aren’t looking like a leap forward](https://digitpatrox.com/leak-amds-ryzen-9000x3d-chips-arent-looking-like-a-leap-forward/)
-* [Bleach TYBW Part 3 Episode 2 Release Date and Time (Countdown Timer)](https://digitpatrox.com/bleach-tybw-part-3-episode-2-release-date-and-time-countdown-timer/)
+* [UK Public sector at risk from supply chain attacks, new report warns](https://digitpatrox.com/uk-public-sector-at-risk-from-supply-chain-attacks-new-report-warns/)
+* [Apple is inventing a reality distortion field – Computerworld](https://digitpatrox.com/apple-is-inventing-a-reality-distortion-field-computerworld/)
+* [You Can Get Windows 11 Pro for $18 Right Now](https://digitpatrox.com/you-can-get-windows-11-pro-for-18-right-now/)
+* [Best Hybrid Cars for Under $35,000](https://digitpatrox.com/best-hybrid-cars-for-under-35000/)
+* [10 Things You Should Do Right After Building Your New PC](https://digitpatrox.com/10-things-you-should-do-right-after-building-your-new-pc/)
+* [Are your cloud resources at risk?](https://digitpatrox.com/are-your-cloud-resources-at-risk/)
+* [AMD Reveals Fleet of Chips for Heavy AI Workloads](https://digitpatrox.com/amd-reveals-fleet-of-chips-for-heavy-ai-workloads/)
+* [5 best new movies to stream this weekend on Netflix, Hulu, Max and more](https://digitpatrox.com/5-best-new-movies-to-stream-this-weekend-on-netflix-hulu-max-and-more/)
+* [Underground ransomware claims attack on Casio, leaks stolen data](https://digitpatrox.com/underground-ransomware-claims-attack-on-casio-leaks-stolen-data/)
+* [Boeing is cutting 10 percent of its workforce](https://digitpatrox.com/boeing-is-cutting-10-percent-of-its-workforce/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01J9YPC4H50XVRWB00R768P0R9/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-jmgo-n1s-pro-rgb-laser-projector-is-400-off-right-now/)
+* [![](https://cdn.mos.cms.futurecdn.net/uukDgHfanvGoGx4tHMJjPU-1200-80.jpg)](https://digitpatrox.com/uk-public-sector-at-risk-from-supply-chain-attacks-new-report-warns/)
     
-    [The JMGO N1S Pro RGB Laser Projector Is $400 Off Right Now](https://digitpatrox.com/the-jmgo-n1s-pro-rgb-laser-projector-is-400-off-right-now/)
+    [UK Public sector at risk from supply chain attacks, new report warns](https://digitpatrox.com/uk-public-sector-at-risk-from-supply-chain-attacks-new-report-warns/)
     
-    2 mins ago
+    11 mins ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/10/kb5044373-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-gets-update-kb5044373-kb5044374-and-build-27723-preview/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3560365-0-28380100-1728664935-Apple-Vision-Pro-Submerged-Apple-Immersive-Video.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-is-inventing-a-reality-distortion-field-computerworld/)
     
-    [Windows 11 gets update KB5044373, KB5044374, and build 27723 (preview)](https://digitpatrox.com/windows-11-gets-update-kb5044373-kb5044374-and-build-27723-preview/)
-    
-    24 mins ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727373989/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-How-to-Get-the-Most-Selling-Your-Car-0924)](https://digitpatrox.com/how-to-sell-your-car-to-an-online-retailer/)
-    
-    [How to Sell Your Car to an Online Retailer](https://digitpatrox.com/how-to-sell-your-car-to-an-online-retailer/)
+    [Apple is inventing a reality distortion field – Computerworld](https://digitpatrox.com/apple-is-inventing-a-reality-distortion-field-computerworld/)
     
     33 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-hand-holding-a-phone-with-a-tiktok-filter-a-controller-in-the-background-and-several-tiktok-logos.jpg)](https://digitpatrox.com/tiktok-effects-are-my-new-mobile-gaming-obsession/)
+* [![](https://lifehacker.com/imagery/articles/01J8QQ7XHQGKB2H8TXV7QC3X1N/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-windows-11-pro-for-18-right-now/)
     
-    [TikTok Effects Are My New Mobile Gaming Obsession](https://digitpatrox.com/tiktok-effects-are-my-new-mobile-gaming-obsession/)
+    [You Can Get Windows 11 Pro for $18 Right Now](https://digitpatrox.com/you-can-get-windows-11-pro-for-18-right-now/)
     
-    36 mins ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/p6FzTUhxoWjtX2XPoVracW-1200-80.jpg)](https://digitpatrox.com/embracing-cloud-migration-at-scale/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1695395550/prod/content/dam/CRO-Images-2023/09September/Cars/CR-Cars-Inlinehero-best-hybrids-under35k-0923)](https://digitpatrox.com/best-hybrid-cars-for-under-35000/)
     
-    [Embracing cloud migration at scale](https://digitpatrox.com/embracing-cloud-migration-at-scale/)
+    [Best Hybrid Cars for Under $35,000](https://digitpatrox.com/best-hybrid-cars-for-under-35000/)
+    
+    2 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-pc-with-the-monitor-keyboard-mouse-and-mousepad-near-it-and-a-gear-icon.jpg)](https://digitpatrox.com/10-things-you-should-do-right-after-building-your-new-pc/)
+    
+    [10 Things You Should Do Right After Building Your New PC](https://digitpatrox.com/10-things-you-should-do-right-after-building-your-new-pc/)
     
     2 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [2 mins ago
+* [11 mins ago
     
-    ### The JMGO N1S Pro RGB Laser Projector Is $400 Off Right Now](https://digitpatrox.com/the-jmgo-n1s-pro-rgb-laser-projector-is-400-off-right-now/)
-* [24 mins ago
-    
-    ### Windows 11 gets update KB5044373, KB5044374, and build 27723 (preview)](https://digitpatrox.com/windows-11-gets-update-kb5044373-kb5044374-and-build-27723-preview/)
+    ### UK Public sector at risk from supply chain attacks, new report warns](https://digitpatrox.com/uk-public-sector-at-risk-from-supply-chain-attacks-new-report-warns/)
 * [33 mins ago
     
-    ### How to Sell Your Car to an Online Retailer](https://digitpatrox.com/how-to-sell-your-car-to-an-online-retailer/)
+    ### Apple is inventing a reality distortion field – Computerworld](https://digitpatrox.com/apple-is-inventing-a-reality-distortion-field-computerworld/)
+* [1 hour ago
+    
+    ### You Can Get Windows 11 Pro for $18 Right Now](https://digitpatrox.com/you-can-get-windows-11-pro-for-18-right-now/)
 
 Most Popular Topics
 
-* [1 week ago
+* [September 4, 2024
     
-    ### What Is It & What Can It Do?](https://digitpatrox.com/what-is-it-what-can-it-do/)
-* [2 days ago
+    ### Today’s Wordle Answer and Hints (September 4, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-4-2024/)
+* [2 weeks ago
     
-    ### The iPhone 16 Pro Gets a New Ultra-Premium Leather Case From Nomad](https://digitpatrox.com/the-iphone-16-pro-gets-a-new-ultra-premium-leather-case-from-nomad/)
-* [4 weeks ago
+    ### We Tested 14 Pro-Style Ranges. Here Are the 3 Best Models of 2024.](https://digitpatrox.com/we-tested-14-pro-style-ranges-here-are-the-3-best-models-of-2024/)
+* [August 24, 2024
     
-    ### New name, same ambitious vision: Introducing Qodea](https://digitpatrox.com/new-name-same-ambitious-vision-introducing-qodea/)
+    ### US oil giant Halliburton confirms cyberattack behind systems shutdown](https://digitpatrox.com/us-oil-giant-halliburton-confirms-cyberattack-behind-systems-shutdown/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### NYT Connections today hints and answers — Saturday, October 12 (#489)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-saturday-october-12-489/)
-* [2 hours ago
-    
-    ### Casio confirms customer data stolen in a ransomware attack](https://digitpatrox.com/casio-confirms-customer-data-stolen-in-a-ransomware-attack/)
 * [3 hours ago
     
-    ### Leak: AMD’s Ryzen 9000X3D chips aren’t looking like a leap forward](https://digitpatrox.com/leak-amds-ryzen-9000x3d-chips-arent-looking-like-a-leap-forward/)
+    ### AMD Reveals Fleet of Chips for Heavy AI Workloads](https://digitpatrox.com/amd-reveals-fleet-of-chips-for-heavy-ai-workloads/)
+* [3 hours ago
+    
+    ### 5 best new movies to stream this weekend on Netflix, Hulu, Max and more](https://digitpatrox.com/5-best-new-movies-to-stream-this-weekend-on-netflix-hulu-max-and-more/)
+* [3 hours ago
+    
+    ### Underground ransomware claims attack on Casio, leaks stolen data](https://digitpatrox.com/underground-ransomware-claims-attack-on-casio-leaks-stolen-data/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
