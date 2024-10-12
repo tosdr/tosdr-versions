@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![forte pluie](https://www.watson.ch/fr/_watsui/static/img/weather/w-18.svg)12°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![pluie modérée](https://www.watson.ch/fr/_watsui/static/img/weather/w-17.svg)11°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,25 +55,25 @@
 
 Thèmes du moment
 
+* [Football](https://www.watson.ch/fr/football/)
+* [Nati](https://www.watson.ch/fr/nati/)
+* [Equipe de Suisse](https://www.watson.ch/fr/equipe-de-suisse/)
+* [Serbie](https://www.watson.ch/fr/serbie/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [Technologie](https://www.watson.ch/fr/technologie/)
+* [Parents](https://www.watson.ch/fr/parents/)
+* [Enfants](https://www.watson.ch/fr/enfants/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
+* [Accident](https://www.watson.ch/fr/accident/)
+* [Ski nordique](https://www.watson.ch/fr/ski-nordique/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [UDC](https://www.watson.ch/fr/udc/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Tennis](https://www.watson.ch/fr/tennis/)
-* [En direct](https://www.watson.ch/fr/en-direct/)
-* [ATP](https://www.watson.ch/fr/atp/)
+* [Brésil](https://www.watson.ch/fr/bresil/)
+* [jeunesse](https://www.watson.ch/fr/jeunesse/)
 * [nourriture](https://www.watson.ch/fr/nourriture/)
-* [Vidéo](https://www.watson.ch/fr/video/)
-* [Jannik Sinner](https://www.watson.ch/fr/jannik-sinner/)
+* [Médecine](https://www.watson.ch/fr/medecine/)
 * [Santé](https://www.watson.ch/fr/sante/)
-* [Climat](https://www.watson.ch/fr/climat/)
-* [Hamas](https://www.watson.ch/fr/hamas/)
-* [Gaza](https://www.watson.ch/fr/gaza/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Israël](https://www.watson.ch/fr/israel/)
 * [Sport en direct](https://www.watson.ch/fr/sport-en-direct/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
