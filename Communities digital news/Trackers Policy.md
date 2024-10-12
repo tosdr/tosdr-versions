@@ -80,6 +80,42 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mayorkas-2-220x180.jpg)](https://americanwirenews.com/mayorkas-shredded-for-visit-to-swanky-sushi-joint-after-brief-trip-to-hurricane-ravaged-nc/)
+
+[Mayorkas shredded for visit to swanky sushi joint after brief trip to hurricane-ravaged NC](https://americanwirenews.com/mayorkas-shredded-for-visit-to-swanky-sushi-joint-after-brief-trip-to-hurricane-ravaged-nc/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-roberts-walz-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/fox-news-anchor-asks-of-walz-who-wants-a-knucklehead-a-heartbeat-away-from-the-presidency/)
+
+[Fox News anchor asks of Walz, ‘Who wants a knucklehead a heartbeat away from the presidency?’’](https://americanwirenews.com/fox-news-anchor-asks-of-walz-who-wants-a-knucklehead-a-heartbeat-away-from-the-presidency/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-clarke-youngkin-220x180.jpg)](https://americanwirenews.com/in-mind-boggling-move-doj-sues-battleground-state-over-removal-of-non-citizens-from-voter-rolls/)
+
+[In mind-boggling move, DOJ sues battleground state over removal of non-citizens from voter rolls](https://americanwirenews.com/in-mind-boggling-move-doj-sues-battleground-state-over-removal-of-non-citizens-from-voter-rolls/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gretchen-whitmer-social-media-post-220x180.jpg)](https://americanwirenews.com/big-gretch-blasted-by-catholic-league-for-mocking-eucharist-in-perverse-video-there-is-no-wiggle-room/)
+
+[‘Big Gretch’ blasted by Catholic League for mocking Eucharist in perverse video: ‘There is no wiggle room’](https://americanwirenews.com/big-gretch-blasted-by-catholic-league-for-mocking-eucharist-in-perverse-video-there-is-no-wiggle-room/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mcmahon-220x180.jpg)](https://americanwirenews.com/cbs-news-ceos-dem-donations-get-attention-as-network-engulfed-by-scandal/)
+
+[CBS News CEO’s Dem donations get attention as network engulfed by scandal](https://americanwirenews.com/cbs-news-ceos-dem-donations-get-attention-as-network-engulfed-by-scandal/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djtauroraco-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-pledges-crackdown-on-illegal-alien-gangs-at-aurora-co-rally/)
+
+[Trump pledges crackdown on illegal alien gangs at Aurora, CO rally](https://americanwirenews.com/trump-pledges-crackdown-on-illegal-alien-gangs-at-aurora-co-rally/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-james-comer-sg-jamie-raskin-220x180.jpg)](https://americanwirenews.com/comer-unloads-on-ultimate-hypocrite-raskin-over-hint-dems-may-not-certify-trump-win/)
+
+[Comer unloads on ‘ultimate hypocrite’ Raskin over hint Dems may not certify Trump win](https://americanwirenews.com/comer-unloads-on-ultimate-hypocrite-raskin-over-hint-dems-may-not-certify-trump-win/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jessemanprob1-1200-x-628-220x180.jpg)](https://americanwirenews.com/jesse-watters-breaks-down-kamalas-man-problem/)
+
+[Jesse Watters breaks down Kamala’s ‘man problem’](https://americanwirenews.com/jesse-watters-breaks-down-kamalas-man-problem/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bojo-joe1-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/boris-johnson-says-biden-told-him-his-family-origins-were-not-really-irish-at-all/)
+
+[Boris Johnson says Biden told him his family origins ‘were not really Irish at all’](https://americanwirenews.com/boris-johnson-says-biden-told-him-his-family-origins-were-not-really-irish-at-all/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-univsion-220x180.jpg)](https://americanwirenews.com/from-bad-optics-to-word-salads-harris-univision-town-hall-likely-did-little-to-sway-hispanic-voters/)
 
 [From bad optics to word salads, Harris’ Univision town hall likely did little to sway Hispanic voters](https://americanwirenews.com/from-bad-optics-to-word-salads-harris-univision-town-hall-likely-did-little-to-sway-hispanic-voters/)
@@ -139,44 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kjphoax-1200-x-628-220x180.jpg)](https://americanwirenews.com/jean-pierre-adds-more-fuel-to-latest-trump-putin-hoax/)
 
 [Jean-Pierre adds more fuel to latest Trump-Putin hoax](https://americanwirenews.com/jean-pierre-adds-more-fuel-to-latest-trump-putin-hoax/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-thecackler-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnn-throws-kamala-a-town-hall-lifeline-after-trump-nixes-debate/)
-
-[CNN throws Kamala a town hall lifeline after Trump nixes debate](https://americanwirenews.com/cnn-throws-kamala-a-town-hall-lifeline-after-trump-nixes-debate/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/gettyimages-1592110723-1-220x180.jpg)](https://americanwirenews.com/shocking-twist-in-case-of-afghan-refugee-charged-with-planning-election-day-massacre/)
-
-[SHOCKING twist in case of Afghan refugee charged with planning Election Day massacre](https://americanwirenews.com/shocking-twist-in-case-of-afghan-refugee-charged-with-planning-election-day-massacre/)
-
-Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-2-220x180.jpg)](https://americanwirenews.com/terrible-news-for-the-candidate-who-cast-deciding-vote-on-so-called-inflation-reduction-act/)
-
-[Terrible news for the candidate who cast deciding vote on so-called ‘Inflation Reduction Act’](https://americanwirenews.com/terrible-news-for-the-candidate-who-cast-deciding-vote-on-so-called-inflation-reduction-act/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-donald-trump-andrew-schulz-split-1-220x180.jpg)](https://americanwirenews.com/trump-shares-thoughts-on-who-he-thinks-was-behind-assassination-attempt/)
-
-[Trump shares thoughts on who he thinks was behind assassination attempt](https://americanwirenews.com/trump-shares-thoughts-on-who-he-thinks-was-behind-assassination-attempt/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-adams-220x180.jpg)](https://americanwirenews.com/top-nyc-officials-brawl-over-cell-phone-at-gracie-mansion-as-embattled-mayor-adams-hosts-event/)
-
-[Top NYC officials brawl over cell phone at Gracie Mansion as embattled Mayor Adams hosts event](https://americanwirenews.com/top-nyc-officials-brawl-over-cell-phone-at-gracie-mansion-as-embattled-mayor-adams-hosts-event/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-queens-brothel-220x180.jpg)](https://americanwirenews.com/nyc-leaders-call-on-gov-hochul-to-send-100-state-troopers-to-urban-crime-zone-more-brothels-than-bodegas/)
-
-[NYC leaders call on Gov Hochul to send 100 state troopers to urban crime zone: ‘More brothels than bodegas’](https://americanwirenews.com/nyc-leaders-call-on-gov-hochul-to-send-100-state-troopers-to-urban-crime-zone-more-brothels-than-bodegas/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hillary-clinton-3-220x180.jpg)](https://americanwirenews.com/hillarys-new-book-still-bemoaning-2016-election-loss-is-a-flop-out-of-the-gates/)
-
-[Hillary’s new book STILL bemoaning 2016 election loss is a flop out of the gates](https://americanwirenews.com/hillarys-new-book-still-bemoaning-2016-election-loss-is-a-flop-out-of-the-gates/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-flagrant-220x180.jpg)](https://americanwirenews.com/trump-hilariously-roasts-biden-he-has-one-ability-i-dont-have/)
-
-[Trump hilariously roasts Biden: ‘He has one ability I don’t have…’](https://americanwirenews.com/trump-hilariously-roasts-biden-he-has-one-ability-i-dont-have/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/12/SG-Good-Dog-220x180.jpeg)](https://americanwirenews.com/young-boy-buried-under-rubble-until-family-dog-comes-to-the-rescue-i-thought-i-was-all-alone/)
-
-[Young boy buried under rubble until family dog comes to the rescue: ‘I thought I was all alone’](https://americanwirenews.com/young-boy-buried-under-rubble-until-family-dog-comes-to-the-rescue-i-thought-i-was-all-alone/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
