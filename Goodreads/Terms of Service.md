@@ -1,4 +1,4 @@
-[![Top Horror from the Past Five Years](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1727387722i/451.jpg)](https://www.goodreads.com/blog/show/2846?ref=tophorror24_eb)
+[![Creature Feature: New Books with Monsters Galore](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1728689402i/455.jpg)](https://www.goodreads.com/blog/show/2841?ref=crtftr24_eb)
 
 [](https://www.goodreads.com/ "Goodreads Home")
 
