@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/media-cover-up/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/gps-en-sinterklaas-bestaan/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
