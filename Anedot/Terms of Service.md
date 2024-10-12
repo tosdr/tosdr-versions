@@ -56,7 +56,7 @@ In registering and creating an Account, you agree to (i) provide true, accurate,
 
 (a) Pause. You have the right to temporarily pause your Account at any time. You may do so by following the “pause” link. Any funds that are held in custody for you at the time of pause, less any applicable fees, will be paid out to you according to your payout schedule, assuming all payout-related authentication requirements have been fulfilled.  
 
-(b) Closure. You have the right to permanently close your Account at any time. You may do so by contacting us via email at [help@anedot.com](mailto:help@anedot.com). You understand and agree that Anedot may hold any funds in your Account for up to 90 days after the effective date of closure (the “**Hold Period**”). Any funds that are still in your Account after the Hold Period, less any applicable fees, will be paid out to you according to your payout schedule, assuming all payout-related authentication requirements have been fulfilled.  
+(b) Closure. You have the right to permanently close your Account at any time. You may do so by contacting us via email at [\[email protected\]](https://www.anedot.com/cdn-cgi/l/email-protection). You understand and agree that Anedot may hold any funds in your Account for up to 90 days after the effective date of closure (the “**Hold Period**”). Any funds that are still in your Account after the Hold Period, less any applicable fees, will be paid out to you according to your payout schedule, assuming all payout-related authentication requirements have been fulfilled.  
 
 (c) Effect of Pausing or Closing an Account. Pausing or closing an Account will not relieve an Organization and its Account Owner and Authorized Users of their continued obligations under these Terms, including the obligations regarding payment of all fees or chargebacks related thereto or other obligations to Donors who have made donations through the Fundraising Services (each a “**Donation**”).  
 
@@ -174,7 +174,7 @@ It is Anedot’s policy to respond to notices of alleged copyright infringement 
 
 10\. Technical Support.  
 
-Anedot provides technical support in connection with the Fundraising Services and the other Anedot Services via (a) email at [help@anedot.com](mailto:help@anedot.com), (b) phone at 225-250-1301, (c) chat through the Site, (d) social media messaging (e.g., Facebook, Instagram, etc.) and (e) SMS. Support hours are 8:00 am to 6:00 pm CST excluding all Federal, state and other company holidays.  
+Anedot provides technical support in connection with the Fundraising Services and the other Anedot Services via (a) email at [\[email protected\]](https://www.anedot.com/cdn-cgi/l/email-protection), (b) phone at 225-250-1301, (c) chat through the Site, (d) social media messaging (e.g., Facebook, Instagram, etc.) and (e) SMS. Support hours are 8:00 am to 6:00 pm CST excluding all Federal, state and other company holidays.  
 
 11\. Content.  
 
@@ -350,7 +350,7 @@ This dispute resolution provision will be governed by the Federal Arbitration Ac
 
 (iii) Survival. This arbitration agreement will survive the termination of your use of the Fundraising Services or any of the other Anedot Services or your relationship with Anedot.  
 
-**(c) 30 Day Right to Opt-Out.** You have the right to opt-out and not be bound by the arbitration provisions set forth in this Section 21.3 above by sending written notice of your decision to opt-out to [help@anedot.com](mailto:help@anedot.com). The notice must be sent to Anedot within thirty (30) days of your use of any of the Anedot Services or agreeing to these Terms, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those sections. If you opt-out of these arbitration provisions, we also will not be bound by them.  
+**(c) 30 Day Right to Opt-Out.** You have the right to opt-out and not be bound by the arbitration provisions set forth in this Section 21.3 above by sending written notice of your decision to opt-out to [\[email protected\]](https://www.anedot.com/cdn-cgi/l/email-protection). The notice must be sent to Anedot within thirty (30) days of your use of any of the Anedot Services or agreeing to these Terms, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those sections. If you opt-out of these arbitration provisions, we also will not be bound by them.  
 
 **(d) Improperly Filed Claims.** All claims you bring against Anedot must be resolved in accordance with this Section 21.3. All claims filed or brought contrary to this Section 21.3 shall be considered improperly filed. Should you file a claim contrary to this Section 21.3, Anedot may recover attorneys’ fees and costs up to $15,000, provided that Anedot has notified you in writing of the improperly filed claim, and you have failed to promptly withdraw the claim.  
 
@@ -396,7 +396,7 @@ The communications between you and Anedot use electronic means, whether you visi
 
 21.13 Disclosures.  
 
-The Fundraising Services, the Anedot Platform, the Site and the other Anedot Services are offered by Anedot, Inc.¸1340 Poydras Street, Suite 1770, New Orleans LA 70112 and email: [help@anedot.com](mailto:help@anedot.com).  
+The Fundraising Services, the Anedot Platform, the Site and the other Anedot Services are offered by Anedot, Inc.¸1340 Poydras Street, Suite 1770, New Orleans LA 70112 and email: [\[email protected\]](https://www.anedot.com/cdn-cgi/l/email-protection).  
 
 If you are a California resident, you may have this same information emailed to you by sending a letter to Anedot, Inc.¸1340 Poydras Street, Suite 1770, New Orleans LA 70112 with your email address and a request for this information.  
 
@@ -447,7 +447,7 @@ In registering and creating an Account, you agree to (i) provide true, accurate,
 
 **(a) Pause.** You have the right to temporarily pause your Account at any time. You may do so by following the “pause” link. Any funds that are held in custody for you at the time of pause, less any applicable fees, will be paid out to you according to your payout schedule, assuming all payout-related authentication requirements have been fulfilled.
 
-**(b) Closure.** You have the right to permanently close your Account at any time. You may do so by contacting us via email at help@anedot.com. You understand and agree that Anedot may hold any funds in your Account for up to 90 days after the effective date of closure (the “**Hold Period**”). Any funds that are still in your Account after the Hold Period, less any applicable fees, will be paid out to you according to your payout schedule, assuming all payout-related authentication requirements have been fulfilled.   
+**(b) Closure.** You have the right to permanently close your Account at any time. You may do so by contacting us via email at [\[email protected\]](https://www.anedot.com/cdn-cgi/l/email-protection). You understand and agree that Anedot may hold any funds in your Account for up to 90 days after the effective date of closure (the “**Hold Period**”). Any funds that are still in your Account after the Hold Period, less any applicable fees, will be paid out to you according to your payout schedule, assuming all payout-related authentication requirements have been fulfilled.   
 
 **(c) Effect of Pausing or Closing an Account.** Pausing or closing an Account will not relieve an Organization and its Account Owner and Authorized Users of their continued obligations under these Terms, including the obligations regarding payment of all fees or chargebacks related thereto or other obligations to Donors who have made donations through the Fundraising Services (each a “**Donation**”).  
 
@@ -549,7 +549,7 @@ It is Anedot’s policy to respond to notices of alleged copyright infringement 
 
 ### **10\. Technical Support.**
 
-Anedot provides technical support in connection with the Fundraising Services and the other Anedot Services via (a) email at help@anedot.com, (b) phone at 225-250-1301, (c) chat through the Site, (d) social media messaging (e.g., Facebook, Instagram, etc.) and (e) SMS. Support hours are 8:00 am to 6:00 pm CST excluding all Federal, state and other company holidays.   
+Anedot provides technical support in connection with the Fundraising Services and the other Anedot Services via (a) email at [\[email protected\]](https://www.anedot.com/cdn-cgi/l/email-protection), (b) phone at 225-250-1301, (c) chat through the Site, (d) social media messaging (e.g., Facebook, Instagram, etc.) and (e) SMS. Support hours are 8:00 am to 6:00 pm CST excluding all Federal, state and other company holidays.   
 
 ### **11\. Content.**
 
@@ -724,7 +724,7 @@ If a dispute arises between you and Anedot, the goal is to provide you with a ne
 * **Survival.** This arbitration agreement will survive the termination of your use of the Fundraising Services or any of the other Anedot Services or your relationship with Anedot.  
     
 
-**(c) 30 Day Right to Opt-Out.** You have the right to opt-out and not be bound by the arbitration provisions set forth in this Section 21.3 above by sending written notice of your decision to opt-out to help@anedot.com. The notice must be sent to Anedot within thirty (30) days of your use of any of the Anedot Services or agreeing to these Terms, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those sections. If you opt-out of these arbitration provisions, we also will not be bound by them.  
+**(c) 30 Day Right to Opt-Out.** You have the right to opt-out and not be bound by the arbitration provisions set forth in this Section 21.3 above by sending written notice of your decision to opt-out to [\[email protected\]](https://www.anedot.com/cdn-cgi/l/email-protection). The notice must be sent to Anedot within thirty (30) days of your use of any of the Anedot Services or agreeing to these Terms, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those sections. If you opt-out of these arbitration provisions, we also will not be bound by them.  
 
 **(d) Improperly Filed Claims.** All claims you bring against Anedot must be resolved in accordance with this Section 21.3. All claims filed or brought contrary to this Section 21.3 shall be considered improperly filed. Should you file a claim contrary to this Section 21.3, Anedot may recover attorneys’ fees and costs up to $15,000, provided that Anedot has notified you in writing of the improperly filed claim, and you have failed to promptly withdraw the claim.  
 
@@ -772,7 +772,7 @@ The communications between you and Anedot use electronic means, whether you visi
 
 **21.13 Disclosures.**
 
-The Fundraising Services, the Anedot Platform, the Site and the other Anedot Services are offered by Anedot, Inc.¸ 1340 Poydras Street, Suite 1770, New Orleans LA 70112 and email: help@anedot.com.   
+The Fundraising Services, the Anedot Platform, the Site and the other Anedot Services are offered by Anedot, Inc.¸ 1340 Poydras Street, Suite 1770, New Orleans LA 70112 and email: [\[email protected\]](https://www.anedot.com/cdn-cgi/l/email-protection).   
 
 If you are a California resident, you may have this same information emailed to you by sending a letter to Anedot, Inc.¸ 1340 Poydras Street, Suite 1770, New Orleans LA 70112 with your email address and a request for this information.  
 
