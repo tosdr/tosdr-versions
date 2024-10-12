@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![A Cry for Innocence](/wp-content/thumbnails/6970-100x70.jpg?x53432)
+* [![Slavery in the Chocolate Industry](/wp-content/thumbnails/6740-100x70.png?x53432)
     
-    A Cry for Innocence
+    Slavery in the Chocolate Industry
     
-    Damien Echols, 35, has spent his entire adult life on Arkansas’ death row. Every day, he faces the possibility of execution. But there is a bright spot in his life.Lorri (his wife) is familiar wit](https://documentaryheaven.com/a-cry-for-innocence/ "A Cry for Innocence")
-* [![Seven Wonders of the Microbe World (combined)](/wp-content/thumbnails/6259-100x70.jpg?x53432)
+    Although slavery is no longer legal there are still millions of people living in slavery today. One place and industry where slaves still exist is the cocoa industry. This documentary takes a deeper l](https://documentaryheaven.com/slavery-in-the-chocolate-industry/ "Slavery in the Chocolate Industry")
+* [![Blind Spot](/wp-content/thumbnails/5024-100x70.jpg?x53432)
     
-    Seven Wonders of the Microbe World (combined)
+    Blind Spot
     
-    From black death to cholera, microbes have been resonsible for some of the worlds most devastating diseases. But at the same time this tiny single cell organisms have aided our survival on earth helpi](https://documentaryheaven.com/seven-wonders-of-the-microbe-world-combined/ "Seven Wonders of the Microbe World (combined)")
-* [![Cash for Kim](/wp-content/thumbnails/12305-100x70.jpg?x53432)
+    Blind Spot is a documentary that establishes the inextricable link between the energy we use, the way we run our economy and the effect it has had on our environment.It takes as a starting point t](https://documentaryheaven.com/blind-spot/ "Blind Spot")
+* [![Aleister Crowley: The Wickedest Man in the World](/wp-content/thumbnails/1791-100x70.jpg?x53432)
     
-    Cash for Kim
+    Aleister Crowley: The Wickedest Man in the World
     
-    In 2014 a welder working on a large shipyard located in Gdynia, Poland, died in an on-the-job accident. His death lead to an investigation which discovered that the victim was actually an immigrant fr](https://documentaryheaven.com/cash-for-kim/ "Cash for Kim")
-* [![The Power and the Glory](/wp-content/thumbnails/8630-100x70.jpg?x53432)
+    Involved as a young adult in the Hermetic Order of the Golden Dawn, he first studied mysticism with and made enemies of William Butler Yeats and Arthur Edward Waite. Like many in occult circles of the](https://documentaryheaven.com/aleister-crowley-the-wickedest-man-in-the-world/ "Aleister Crowley: The Wickedest Man in the World")
+* [![Growing Pains of a Teenage Genius](/wp-content/thumbnails/10016-100x70.jpg?x53432)
     
-    The Power and the Glory
+    Growing Pains of a Teenage Genius
     
-    In this journey to the graves of great leaders and heroes dark secrets will emerge.Why was the burial casket of a murdered president cast deep into the atlantic ocean? Could a pit in Syberia hide](https://documentaryheaven.com/power-and-glory/ "The Power and the Glory")
-* [![Supermarket Secrets](/wp-content/thumbnails/833-100x70.jpeg?x53432)
+    Cameron Thompson is only 13 and he has been a maths genius for as long as he can remember. At aged 10 he sat an online maths test getting every question right, at age 11 he managed to rattle through t](https://documentaryheaven.com/growing-pains-teenage-genius/ "Growing Pains of a Teenage Genius")
+* [![The Growing Pains of Ahmed And Moshe](/wp-content/thumbnails/7666-100x70.jpg?x53432)
     
-    Supermarket Secrets
+    The Growing Pains of Ahmed And Moshe
     
-    How and what we eat has radically changed over the past few decades with the all-consuming rise of the supermarket. But what price are we pa...all » How and what we eat has radically changed over the](https://documentaryheaven.com/dispatches-supermarket-secrets/ "Supermarket Secrets")
+    In the summer of 2012 we flew from Amsterdam to Tel-Aviv to meet young Israelis and Palestinians and film their stories. We made contact with youngsters in Modi'in and Ni'lin. Two villages only a few](https://documentaryheaven.com/growing-pains-ahmed-moshe/ "The Growing Pains of Ahmed And Moshe")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
