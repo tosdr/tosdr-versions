@@ -217,7 +217,7 @@ Our products and services are not directed to minors under the age of 16 and we 
 
 6. **Your Choices Regarding Direct Marketing**‍
 
-On occasion, we may use your personal information for direct marketing purposes and/or provide your personal information to affiliates for direct marketing purposes.  If you do not wish to receive such marketing communications from us, please let us know that you would like to “opt out” by emailing us at [privacy@cimgroup.com](mailto:%20privacy@cimgroup.com?subject=Privacy%20Policy%20Inquiry), contacting us at 1-833-687-3621 [or using this webform](#Privacy-Form-Link-Target).  
+On occasion, we may use your personal information for direct marketing purposes and/or provide your personal information to affiliates for direct marketing purposes.  If you do not wish to receive such marketing communications from us, please let us know that you would like to “opt out” by emailing us at [\[email protected\]](https://www.cimgroup.com/cdn-cgi/l/email-protection), contacting us at 1-833-687-3621 [or using this webform](#Privacy-Form-Link-Target).  
   
 Some email communications from us include instructions on how to stop receiving them. Please follow these instructions if you no longer wish to receive such email messages from us.
 
@@ -271,7 +271,7 @@ In conducting business with CIM, in connection with your application for or empl
 
 12. **Your Feedback**‍
 
-To help us improve our Privacy Policy and practices, please give us your feedback by emailing us at [privacy@cimgroup.com](mailto:%20privacy@cimgroup.com?subject=Privacy%20Policy%20Inquiry), contacting us at 1-833-687-3621 [or using this webform](#Privacy-Form-Link-Target).  
+To help us improve our Privacy Policy and practices, please give us your feedback by emailing us at [\[email protected\]](https://www.cimgroup.com/cdn-cgi/l/email-protection), contacting us at 1-833-687-3621 [or using this webform](#Privacy-Form-Link-Target).  
 
 ‍
 
@@ -279,7 +279,7 @@ To help us improve our Privacy Policy and practices, please give us your feedbac
 
 13. **California Privacy Rights and Disclosures**‍
 
-This California Privacy Rights and Disclosure section addresses legal obligations and rights specified in the California Consumer Privacy Act, or CCPA, as amended. For the purposes of this section (_California Privacy Rights and Disclosures_), **personal information** means information that identifies, relates to, describes, is reasonably capable of being associated with, or could be reasonably linked, directly or indirectly, with a particular consumer  or household. If you need access to this privacy policy in a different format for accessibility reasons, please contact us at [privacy@cimgroup.com](mailto:%20privacy@cimgroup.com?subject=Privacy%20Policy%20Inquiry).  
+This California Privacy Rights and Disclosure section addresses legal obligations and rights specified in the California Consumer Privacy Act, or CCPA, as amended. For the purposes of this section (_California Privacy Rights and Disclosures_), **personal information** means information that identifies, relates to, describes, is reasonably capable of being associated with, or could be reasonably linked, directly or indirectly, with a particular consumer  or household. If you need access to this privacy policy in a different format for accessibility reasons, please contact us at [\[email protected\]](https://www.cimgroup.com/cdn-cgi/l/email-protection).  
   
 These obligations and rights apply to businesses doing business in California and to California residents and information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with California consumers or households.  It does not include deidentified or aggregate information, publicly available information, or lawfully obtained, truthful information that is a matter of public concern.
 
@@ -617,7 +617,7 @@ If you are a California resident, the CCPA grants you the right to request certa
 6. The categories of third parties to whom we’ve disclosed your personal information.  
     
 
-To exercise your CCPA right to request this information, either email us at [privacy@cimgroup.com](mailto:%20privacy@cimgroup.com?subject=Privacy%20Policy%20Inquiry), contact us at 1-833-687-3621 [or use this webform.](#Privacy-Form-Link-Target) These requests for disclosure are generally free.
+To exercise your CCPA right to request this information, either email us at [\[email protected\]](https://www.cimgroup.com/cdn-cgi/l/email-protection), contact us at 1-833-687-3621 [or use this webform.](#Privacy-Form-Link-Target) These requests for disclosure are generally free.
 
 ‍
 
@@ -625,7 +625,7 @@ To exercise your CCPA right to request this information, either email us at [pri
   
 Upon your request, and subject to certain exceptions, we will delete, and direct applicable service providers to delete, the personal information we have collected about you.  
   
-To exercise your right to request the deletion of your personal information, either email us at [privacy@cimgroup.com](mailto:privacy@cimgroup.com?subject=Privacy%20Policy%20Inquiry), contact us at 1-833-687-3621 [or use this webform](#Privacy-Form-Link-Target).  These requests for deletion are generally free.
+To exercise your right to request the deletion of your personal information, either email us at [\[email protected\]](https://www.cimgroup.com/cdn-cgi/l/email-protection), contact us at 1-833-687-3621 [or use this webform](#Privacy-Form-Link-Target).  These requests for deletion are generally free.
 
 ‍
 
@@ -641,7 +641,7 @@ Upon your request, and subject to certain limitations, we will correct any inacc
 
 ‍
 
-To exercise your right to request the correction of your personal information, either email us at [privacy@cimgroup.com](mailto:%20privacy@cimgroup.com?subject=Privacy%20Policy%20Inquiry), contact us at 1-833-687-3621 [or use this webform](#Privacy-Form-Link-Target).  These requests for correction are generally free.
+To exercise your right to request the correction of your personal information, either email us at [\[email protected\]](https://www.cimgroup.com/cdn-cgi/l/email-protection), contact us at 1-833-687-3621 [or use this webform](#Privacy-Form-Link-Target).  These requests for correction are generally free.
 
 ‍
 
@@ -745,7 +745,7 @@ When you are based in the European Union (the “**EU**”), personal data colle
 
 **e. Rights of Individuals**  
   
-You may have certain data privacy rights which may be subject to limitations and/or restrictions. These rights include the right to: (i) request access to and rectification and erasure of your personal data; (ii) obtain restriction of processing or to object to processing of your personal data; and (iii) ask for a copy of your personal data to be provided to you, or a third party, in a digital format. You also have the right to lodge a complaint about the processing of your personal data with your local data protection authority. If you would like to exercise any of these rights, please feel free to email us at: [privacy@cimgroup.com](mailto:privacy@cimgroup.com?subject=Privacy%20Policy%20Inquiry).
+You may have certain data privacy rights which may be subject to limitations and/or restrictions. These rights include the right to: (i) request access to and rectification and erasure of your personal data; (ii) obtain restriction of processing or to object to processing of your personal data; and (iii) ask for a copy of your personal data to be provided to you, or a third party, in a digital format. You also have the right to lodge a complaint about the processing of your personal data with your local data protection authority. If you would like to exercise any of these rights, please feel free to email us at: [\[email protected\]](https://www.cimgroup.com/cdn-cgi/l/email-protection).
 
 **_Please note that this form should only be used for data privacy related inquiries, and CIM will respond to all such inquiries for further verification information._**
 
