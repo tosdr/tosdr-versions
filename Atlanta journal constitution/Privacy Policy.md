@@ -17,7 +17,7 @@ Log In
 * [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-oct-11-13/P5QGRKLJNFGKFC6MEGFLOLPRDQ/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
-* [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
+* [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
