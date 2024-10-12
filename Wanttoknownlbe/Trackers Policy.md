@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/hoe-een-overheid-een-persoon-kapot-wil-maken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/terugkeer-van-bewezen-waarden-in-de-landbouw/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
