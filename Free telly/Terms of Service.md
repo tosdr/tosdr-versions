@@ -11,7 +11,7 @@ Terms of Service
 
 Welcome to Telly, the ultimate free television upgrade for the living room. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”), including, without limitation, any request to receive information about, or to acquire any product made available by Telly (each, a “Product”). Your acquisition of any Products will also be governed by any other terms made available by us to you during the sign-up process. If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at:
 
-Email: [support@telly.com](http://support@telly.com/)
+Email: [\[email protected\]](http://support@telly.com/)
 
 These Terms of Use (the “Terms”) are a binding contract between you and TELLY, INC. (“Telly,” “we” and “us”). Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. These Terms include the provisions in this document as well as those in the Privacy Policy www.freetelly.com, any other relevant policies and any other accompanying terms and conditions of sale entered into between you and us for the sale of any Products. Your use of or participation in certain Services may also be subject to additional policies, rules and/or conditions (“Additional Terms”), which are incorporated herein by reference, and you understand and agree that by using or participating in any such Services, you agree to also comply with these Additional Terms.
 
@@ -35,7 +35,7 @@ Telly takes the privacy of its users very seriously. For the current Telly Priva
 
 ###### _Children’s Online Privacy Protection Act_
 
-The Children’s Online Privacy Protection Act (“COPPA”) requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13 years of age. We do not knowingly collect or solicit personally identifiable information from children under 13 years of age; if you are a child under 13 years of age, please do not attempt to register for or otherwise use the Services or send us any personal information. If we learn we have collected personal information from a child under 13 years of age, we will delete that information as quickly as possible. Our Products and Services may be able to the detect the physical presence of a child, but no personal information about children is collected.  If you believe that a child under 13 years of age may have provided us personal information, please contact us at support@freetelly.com.
+The Children’s Online Privacy Protection Act (“COPPA”) requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13 years of age. We do not knowingly collect or solicit personally identifiable information from children under 13 years of age; if you are a child under 13 years of age, please do not attempt to register for or otherwise use the Services or send us any personal information. If we learn we have collected personal information from a child under 13 years of age, we will delete that information as quickly as possible. Our Products and Services may be able to the detect the physical presence of a child, but no personal information about children is collected.  If you believe that a child under 13 years of age may have provided us personal information, please contact us at [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection).
 
 What are the basics of using Telly?
 ===================================
@@ -129,7 +129,7 @@ The Telly Device is free for consumers. Services are also currently free, but we
 What if I want to stop using the Services?
 ==========================================
 
-You’re free to do that at any time by contacting us at support@freetelly.com; please refer to our Privacy Policy www.freetelly.com as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our Services.
+You’re free to do that at any time by contacting us at [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection); please refer to our Privacy Policy www.freetelly.com as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our Services.
 
 Telly is also free to terminate (or suspend access to) your use of the Services or your account for any reason in our discretion, including your breach of these Terms. Telly has the sole right to decide whether you are in violation of any of the restrictions set forth in these Terms.
 
@@ -139,7 +139,7 @@ If you stop using the Services, or if Telly terminates your use of the Services,
 
 Account termination may result in destruction of any Content associated with your account, so keep that in mind before you decide to terminate your account.
 
-If you have deleted your account by mistake, contact us immediately at support@freetelly.com – we will try to help, but unfortunately, we can’t promise that we can recover or restore anything.
+If you have deleted your account by mistake, contact us immediately at [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection) – we will try to help, but unfortunately, we can’t promise that we can recover or restore anything.
 
 Provisions that, by their nature, should survive termination of these Terms shall survive termination. By way of example, all of the following will survive termination: any obligation you have to indemnify us, any limitations on our liability, any terms regarding ownership or intellectual property rights, and terms regarding disputes between us, including without limitation the arbitration agreement.
 
@@ -236,7 +236,7 @@ We welcome feedback on how to improve the accessibility of our site and our prod
 
 (e) _Waiver of Class or Consolidated Actions._ ALL CLAIMS AND DISPUTES WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE ARBITRATED OR LITIGATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS BASIS. CLAIMS OF MORE THAN ONE CUSTOMER OR USER CANNOT BE ARBITRATED OR LITIGATED JOINTLY OR CONSOLIDATED WITH THOSE OF ANY OTHER CUSTOMER OR USER. If however, this waiver of class or consolidated actions is deemed invalid or unenforceable, neither you nor Telly is entitled to arbitration; instead all claims and disputes will be resolved in a court as set forth in (g) below.
 
-(f) _Opt-out._ You have the right to opt out of the provisions of this Section by sending written notice of your decision to opt out to the following address: support@freetelly.com within thirty (30) days of first accepting these Terms. You must include (i) your name and residence address, (ii) the email address and/or telephone number associated with your account, and (iii) a clear statement that you want to opt out of these Terms’ arbitration agreement.
+(f) _Opt-out._ You have the right to opt out of the provisions of this Section by sending written notice of your decision to opt out to the following address: [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection) within thirty (30) days of first accepting these Terms. You must include (i) your name and residence address, (ii) the email address and/or telephone number associated with your account, and (iii) a clear statement that you want to opt out of these Terms’ arbitration agreement.
 
 (g) _Exclusive Venue_. If you send the opt-out notice in (f), and/or in any circumstances where the foregoing arbitration agreement permits either you or Telly to litigate any dispute arising out of or relating to the subject matter of these Terms in court, then the foregoing arbitration agreement will not apply to either party, and both you and Telly agree that any judicial proceeding (other than small claims actions) will be brought in the state or federal courts located in, respectively, Los Angeles, California, or the federal district in which that county falls.
 
