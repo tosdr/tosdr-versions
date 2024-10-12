@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Local resident are calling for a multi-agency approach that targets crack dealing and use on their streets](https://southwarknews.co.uk/wp-content/uploads/2024/10/Local-resident-are-calling-for-a-multi-agency-approach-that-targets-crack-dealing-and-use-on-their-streets-360x180.png)](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
+    
+    ### [Brixton ‘twenty times worse’ than ’24-hour crack supermarket’ of the early 2000s, locals warn](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_7509-360x180.jpg)](https://southwarknews.co.uk/news/housing/bermondsey-council-flats-reach-building-milestone/)
     
     ### [Bermondsey council flats reach building milestone](https://southwarknews.co.uk/news/housing/bermondsey-council-flats-reach-building-milestone/)
@@ -51,10 +55,6 @@
     [![Cllr Ian Wingfield was first elected to a Southwark seat in 1989](https://southwarknews.co.uk/wp-content/uploads/2024/10/Cllr-Ian-Wingfield-was-first-elected-to-a-Southwark-seat-in-1989-360x180.png)](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
     
     ### [‘Hindsight is a wonderful thing’: Southwark’s longest-serving councillor discusses the biggest regrets and successes of his 35-year career](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
-    
-    [![Leo Gregory, Green Street actor (left), and Roy Larner (right). Image: Dougie Brimson](https://southwarknews.co.uk/wp-content/uploads/2024/10/Leo-Gregory-Green-Street-actor-left-and-Roy-Larner-right.-Image-Dougie-Brimson-360x180.png)](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
-    
-    ### [Exclusive: ‘Green Street’ creator to make movie about man who shouted ‘F\*ck you I’m Millwall’ while fighting off Jihadi terrorists](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Local resident are calling for a multi-agency approach that targets crack dealing and use on their streets](https://southwarknews.co.uk/wp-content/uploads/2024/10/Local-resident-are-calling-for-a-multi-agency-approach-that-targets-crack-dealing-and-use-on-their-streets-360x180.png)](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
+    
+    ### [Brixton ‘twenty times worse’ than ’24-hour crack supermarket’ of the early 2000s, locals warn](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_7509-360x180.jpg)](https://southwarknews.co.uk/news/housing/bermondsey-council-flats-reach-building-milestone/)
     
     ### [Bermondsey council flats reach building milestone](https://southwarknews.co.uk/news/housing/bermondsey-council-flats-reach-building-milestone/)
@@ -132,10 +136,6 @@ View All Result
     [![Cllr Ian Wingfield was first elected to a Southwark seat in 1989](https://southwarknews.co.uk/wp-content/uploads/2024/10/Cllr-Ian-Wingfield-was-first-elected-to-a-Southwark-seat-in-1989-360x180.png)](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
     
     ### [‘Hindsight is a wonderful thing’: Southwark’s longest-serving councillor discusses the biggest regrets and successes of his 35-year career](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
-    
-    [![Leo Gregory, Green Street actor (left), and Roy Larner (right). Image: Dougie Brimson](https://southwarknews.co.uk/wp-content/uploads/2024/10/Leo-Gregory-Green-Street-actor-left-and-Roy-Larner-right.-Image-Dougie-Brimson-360x180.png)](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
-    
-    ### [Exclusive: ‘Green Street’ creator to make movie about man who shouted ‘F\*ck you I’m Millwall’ while fighting off Jihadi terrorists](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -349,6 +349,12 @@ Website
 
 [9th October 2024](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
 
+[![Local resident are calling for a multi-agency approach that targets crack dealing and use on their streets](https://southwarknews.co.uk/wp-content/uploads/2024/10/Local-resident-are-calling-for-a-multi-agency-approach-that-targets-crack-dealing-and-use-on-their-streets-120x86.png)](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
+
+### [Brixton ‘twenty times worse’ than ’24-hour crack supermarket’ of the early 2000s, locals warn](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
+
+[12th October 2024](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
+
 [![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
 
 ### [New outdoor food market to start on weekends in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
@@ -366,12 +372,6 @@ Website
 ### [Woman stabbed on Walworth Road](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
 
 [8th October 2024](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
-
-[![Connal Trueman in training. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/C-Trueman-426272-750x375-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
-
-### [Millwall goalkeeper heads out on emergency loan](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
-
-[7th October 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
 
 ### Featured Articles
 
