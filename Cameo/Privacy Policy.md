@@ -229,12 +229,12 @@ Cameo takes commercially reasonable security measures to protect the information
 2. Exercising Your Access, Deletion, Do-Not-Sell, Do-Not-Share, and Similar Rights.
 
 1. Rights. Your rights may include the right to ask us: to let you know and access the specific pieces of Personal Information we have collected about you over the last 12 months, to correct or delete Personal Information we have collected about you, and to opt-out of the sharing or sale of Personal Information, all subject to some limits. You are not required to create an account to make a request; more information on each of these rights is set out below. 
-2. Authorized Agent. If you are an agent submitting a request on a consumer’s behalf, please have them complete, date, and sign the Verification of Identity and Designation of Authorized Agent form at [this link](https://cdn.cameo.com/static/legal/Cameo+-+Verification+of+Identity+and+Designation+of+Authorized+Agent.pdf) and send a copy, by email to [dataprotection@cameo.com](mailto:dataprotection@cameo.com). Alternatively, you may submit a copy of a power of attorney. In either case, please also indicate in your email the nature of your request. The consumer’s identity, in addition to your own, will need to be independently verified for us to be able to fulfill your request. We may also ask the consumer to directly confirm to us that they gave you permission to submit the request. Keep in mind that if we do not receive adequate proof that an agent is authorized to act on a consumer’s behalf, we may deny the request.
+2. Authorized Agent. If you are an agent submitting a request on a consumer’s behalf, please have them complete, date, and sign the Verification of Identity and Designation of Authorized Agent form at [this link](https://cdn.cameo.com/static/legal/Cameo+-+Verification+of+Identity+and+Designation+of+Authorized+Agent.pdf) and send a copy, by email to [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection). Alternatively, you may submit a copy of a power of attorney. In either case, please also indicate in your email the nature of your request. The consumer’s identity, in addition to your own, will need to be independently verified for us to be able to fulfill your request. We may also ask the consumer to directly confirm to us that they gave you permission to submit the request. Keep in mind that if we do not receive adequate proof that an agent is authorized to act on a consumer’s behalf, we may deny the request.
 
 3. Response Timing. We typically process: an access or deletion request within 45 days from the day we receive it (and will notify you within that period if we need more time); and an opt-out of sale or sharing request within 15 business days from the day we receive it.
 4. Request to Know/Access or Request to Correct or Delete.
 
-1. Making A Request. If you would like to request information about the Personal Information we have collected about you over the last 12 months or to request that we correct or delete your information, you (or an authorized agent) may submit your request, along with the first and last name of the subject of the request, the email address used to interact with Cameo, and confirmation of your jurisdiction of residency by either: (1) sending an email to [dataprotection@cameo.com](mailto:dataprotection@cameo.com); or (2) calling us toll-free at [1-800-243-1739](tel:1-800-243-1739).
+1. Making A Request. If you would like to request information about the Personal Information we have collected about you over the last 12 months or to request that we correct or delete your information, you (or an authorized agent) may submit your request, along with the first and last name of the subject of the request, the email address used to interact with Cameo, and confirmation of your jurisdiction of residency by either: (1) sending an email to [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection); or (2) calling us toll-free at [1-800-243-1739](tel:1-800-243-1739).
 2. Verifying A Request. We will use the information you provide to verify your request and may request additional information if needed. If we are unable to verify that the individual submitting the request is the same individual about whom we have collected information (or someone authorized by that individual to act on their behalf), we will not be able to process the request. If we decline to process your request, you may appeal by contacting us at the email address or phone number above within a reasonable time after your request is declined; your appeal must include sufficient information for us to identify your original request and any information or reasons you wish us to consider upon appeal.
 3. Other Important Information.
 
@@ -249,7 +249,7 @@ Cameo takes commercially reasonable security measures to protect the information
     **
 
 * You may have the right (for example, under California Civil Code § 1798.83) to periodically request and obtain from us the details of any personal information we shared with a third party for the third party’s direct marketing purposes during the prior calendar year. The details would include the categories of personal information and the names and addresses of the third party with which it was shared.
-* To request information about this sharing, you may submit a request with "My Privacy Rights" in the subject line, along with your first and last name, and complete mailing address (including street address, city, state, and zip code) by either: sending an email message to [dataprotection@cameo.com](mailto:dataprotection@cameo.com); or writing to us at the mailing address in [Contact Us](https://legal.cameo.com/privacypolicy#contact-us).
+* To request information about this sharing, you may submit a request with "My Privacy Rights" in the subject line, along with your first and last name, and complete mailing address (including street address, city, state, and zip code) by either: sending an email message to [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection); or writing to us at the mailing address in [Contact Us](https://legal.cameo.com/privacypolicy#contact-us).
 * If you do not submit and send your request with complete information as set forth above, we will not process it.
 
 [↑ Return to Top](#top)
@@ -260,7 +260,7 @@ Cameo takes commercially reasonable security measures to protect the information
 Cameo does not currently sell your covered information as defined under applicable Nevada law; however, you may submit an opt-out request, which we will honor as required by Nevada law should engage in such a sale in the future.
 
 1. **Making a Request**  
-    You may submit an opt-out request by sending an email message to [dataprotection@cameo.com](mailto:dataprotection@cameo.com); along with your full name, any user name, and complete mailing address (including street address, city, state, and zip code), email address (so that we can contact you, if needed, in connection with the request) and confirmation that you are a Nevada resident.
+    You may submit an opt-out request by sending an email message to [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection); along with your full name, any user name, and complete mailing address (including street address, city, state, and zip code), email address (so that we can contact you, if needed, in connection with the request) and confirmation that you are a Nevada resident.
 2. **Verifying a Request**  
     You must provide us with information reasonably requested by us to verify your identity and the authenticity of the request.  
     ‍  
@@ -345,7 +345,7 @@ No matter where the information is located, Cameo takes commercially reasonable 
 
 1. ‍**To contact us about this Privacy Policy only:**
 
-1. send an email to [dataprotection@cameo.com](mailto:dataprotection@cameo.com);
+1. send an email to [\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection);
 2. call us toll-free at [1-800-243-1739](tel:1-800-243-1739); or
 3. write to us at:  
     ‍  
@@ -364,7 +364,7 @@ No matter where the information is located, Cameo takes commercially reasonable 
 
 [↑ Return to Top](#top)
 
-[Jobs](https://careers.cameo.com/)[Privacy](https://legal.cameo.com/privacypolicy)[Terms](https://legal.cameo.com/termsofservice)[Guidelines](https://legal.cameo.com/communityguidelines)[About](https://www.cameo.com/about)[Team](https://www.cameo.com/team)[Accessibility](https://www.cameo.com/accessibility)[Blog](http://cameoblog.medium.com/)[Press](mailto:press@cameo.com)[Help](mailto:hello@cameo.com)[For business](https://biz.cameo.com/)[Gift cards](https://www.cameo.com/giftcards)
+[Jobs](https://careers.cameo.com/)[Privacy](https://legal.cameo.com/privacypolicy)[Terms](https://legal.cameo.com/termsofservice)[Guidelines](https://legal.cameo.com/communityguidelines)[About](https://www.cameo.com/about)[Team](https://www.cameo.com/team)[Accessibility](https://www.cameo.com/accessibility)[Blog](http://cameoblog.medium.com/)[\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection)[\[email protected\]](https://www.cameo.com/cdn-cgi/l/email-protection)[For business](https://biz.cameo.com/)[Gift cards](https://www.cameo.com/giftcards)
 
 Your Privacy Choices ![](https://cdn.prod.website-files.com/5fd772858a112fe4a06ec550/63c6cc9f6d98b5a6c8f5f497_privacyoptions123x59.png)
 
