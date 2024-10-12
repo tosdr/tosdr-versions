@@ -64,19 +64,19 @@ Suggested Searches
 
 ### Featured
 
-[![This photo features a tall, charcoal colored structure that looks like a headless AT-AT walker from Star Wars. A rectangular cylinder about twice as tall as a person rests atop a base with tall, skinny "legs." Two people wearing white gowns and blue gloves stand underneath the base, with two other similarly gowned people on either side of the structure. In the background, large walls are covered in light gray panels with seafoam green outlines.](https://www.nasa.gov/wp-content/uploads/2024/10/oba-copy-1.jpg?w=1024)
+[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
 
-4 min read
+2 min read
 
-### NASA’s Roman Space Telescope’s ‘Exoskeleton’ Whirls Through Major Test
+### Hubble Spots a Grand Spiral of Starbursts
 
-article3 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)[![NASA: New Insights into How Mars Became Uninhabitable](https://science.nasa.gov/wp-content/uploads/2024/09/mars-wet-lpi-16x9-1.jpg)
+article13 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
 
 5 min read
 
-### NASA: New Insights into How Mars Became Uninhabitable
+### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
 
-article4 days ago](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article1 day ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -241,25 +241,25 @@ Back
 
 ### Featured
 
-[![This photo features a tall, charcoal colored structure that looks like a headless AT-AT walker from Star Wars. A rectangular cylinder about twice as tall as a person rests atop a base with tall, skinny "legs." Two people wearing white gowns and blue gloves stand underneath the base, with two other similarly gowned people on either side of the structure. In the background, large walls are covered in light gray panels with seafoam green outlines.](https://www.nasa.gov/wp-content/uploads/2024/10/oba-copy-1.jpg?w=1024)
+[![NASA’s Hubble Watches Jupiter’s Great Red Spot Behave Like a Stress Ball](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-jupiter-grs-8panel-2024oct09-stsci-01j9452hkd789drcanamg1jhkv.png)
+
+4 min read
+
+### NASA’s Hubble Watches Jupiter’s Great Red Spot Behave Like a Stress Ball
+
+article 2 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-watches-jupiters-great-red-spot-behave-like-a-stress-ball/)[![Photo of the Orion capsule, a white spacecraft with a solar array deployed, with the moon in the background.](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-i-srag-orion.jpg?w=1024)
+
+3 min read
+
+### Artemis I Radiation Measurements Validate Orion Safety for Astronauts
+
+article 2 days ago](https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/)[![This photo features a tall, charcoal colored structure that looks like a headless AT-AT walker from Star Wars. A rectangular cylinder about twice as tall as a person rests atop a base with tall, skinny "legs." Two people wearing white gowns and blue gloves stand underneath the base, with two other similarly gowned people on either side of the structure. In the background, large walls are covered in light gray panels with seafoam green outlines.](https://www.nasa.gov/wp-content/uploads/2024/10/oba-copy-1.jpg?w=1024)
 
 4 min read
 
 ### NASA’s Roman Space Telescope’s ‘Exoskeleton’ Whirls Through Major Test
 
-article 3 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)[![Perseverance Matters](https://science.nasa.gov/wp-content/uploads/2024/10/mars-perseverance-sif-1212-0774537099-675eby-n0560000srlc00648-0000lmj.png)
-
-2 min read
-
-### Perseverance Matters
-
-article 4 days ago](https://science.nasa.gov/blog/perseverance-matters/)[![Hubble Observes a Peculiar Galaxy Shape](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc4694-potw2440a.jpg)
-
-2 min read
-
-### Hubble Observes a Peculiar Galaxy Shape
-
-article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)
+article 3 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)
 
 ### Highlights
 
@@ -269,7 +269,7 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-p
 
 ### Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
 
-article 3 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Astronaut Kathryn D. Sullivan, 41-G mission specialist, uses binoculars for a magnified viewing of earth through the forward cabin windows.](https://www.nasa.gov/wp-content/uploads/2023/09/41g-11-027.jpg?w=1024)
+article 7 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Astronaut Kathryn D. Sullivan, 41-G mission specialist, uses binoculars for a magnified viewing of earth through the forward cabin windows.](https://www.nasa.gov/wp-content/uploads/2023/09/41g-11-027.jpg?w=1024)
 
 8 min read
 
@@ -307,25 +307,25 @@ article 3 days ago](https://www.nasa.gov/hurricane-milton/)
 
 ### Highlights
 
-[![ESA/NASA’s SOHO Spies Bright Comet Making Debut in Evening Sky](https://science.nasa.gov/wp-content/uploads/2024/10/soho-lasco-cometa3-10-10-24.jpg)
+[![The Next Full Moon is a Supermoon, and the Hunter’s Moon](https://science.nasa.gov/wp-content/uploads/2023/06/49641911586_4d26910aba_supermoon_March_2020-1280-jpg.webp)
 
-2 min read
+29 min read
 
-### ESA/NASA’s SOHO Spies Bright Comet Making Debut in Evening Sky
+### The Next Full Moon is a Supermoon, and the Hunter’s Moon
 
-article 1 hour ago](https://science.nasa.gov/centers-and-facilities/goddard/esa-nasas-soho-spies-bright-comet-in-evening-sky/)[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
+article 2 hours ago](https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-and-the-hunters-moon/)[![Asteroid and Comet Resources](https://science.nasa.gov/wp-content/uploads/2024/10/bennu-comettempel1.png)
+
+1 min read
+
+### Asteroid and Comet Resources
+
+article 3 hours ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
 
 1 min read
 
 ### Pluto and Dwarf Planet Resources
 
-article 20 hours ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
-
-5 min read
-
-### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
-
-article 1 day ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)
+article 1 day ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)
 
 ### Featured
 
@@ -335,7 +335,7 @@ article 1 day ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-
 
 ### Hubble Spots a Grand Spiral of Starbursts
 
-article 9 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
+article 13 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
 
 5 min read
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-p
 
 ### Highlights
 
-[![ESA/NASA’s SOHO Spies Bright Comet Making Debut in Evening Sky](https://science.nasa.gov/wp-content/uploads/2024/10/soho-lasco-cometa3-10-10-24.jpg)
-
-2 min read
-
-### ESA/NASA’s SOHO Spies Bright Comet Making Debut in Evening Sky
-
-article 1 hour ago](https://science.nasa.gov/centers-and-facilities/goddard/esa-nasas-soho-spies-bright-comet-in-evening-sky/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
+[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
 
 2 min read
 
 ### Hubble Spots a Grand Spiral of Starbursts
 
-article 9 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![Sail Along with NASA’s Solar Sail Tech Demo in Real-Time Simulation](https://science.nasa.gov/wp-content/uploads/2024/10/acs3-eyes-4.png)
+article 13 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![Sail Along with NASA’s Solar Sail Tech Demo in Real-Time Simulation](https://science.nasa.gov/wp-content/uploads/2024/10/acs3-eyes-4.png)
 
 2 min read
 
 ### Sail Along with NASA’s Solar Sail Tech Demo in Real-Time Simulation
 
-article 23 hours ago](https://science.nasa.gov/science-research/sail-along-with-nasas-solar-sail-tech-demo-in-real-time-simulation/)
+article 1 day ago](https://science.nasa.gov/science-research/sail-along-with-nasas-solar-sail-tech-demo-in-real-time-simulation/)[![Carbon Mapper Coalition’s Tanager-1 satellite detected this methane plume in Karachi, Pakistan](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26416-ghg-plumes-16.jpg?w=1024)
+
+4 min read
+
+### First Greenhouse Gas Plumes Detected With NASA-Designed Instrument
+
+article 1 day ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
 
 ### Highlights
 
@@ -401,13 +401,13 @@ article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-
 
 ### Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
 
-article 3 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Illustration of NASA’s Perseverance rover begins its descent through the Martian atmosphere](https://www.nasa.gov/wp-content/uploads/2023/03/pia24318_08_powereddescent_2000.jpg?w=1024)
+article 7 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Illustration of NASA’s Perseverance rover begins its descent through the Martian atmosphere](https://www.nasa.gov/wp-content/uploads/2023/03/pia24318_08_powereddescent_2000.jpg?w=1024)
 
 2 min read
 
 ### Controlled Propulsion for Gentle Landings 
 
-article 3 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
+article 8 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
 
 4 min read
 
@@ -417,47 +417,47 @@ article 2 days ago](https://www.nasa.gov/technology/space-comms/space-communicat
 
 ### Featured
 
-[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
+[![Asteroid and Comet Resources](https://science.nasa.gov/wp-content/uploads/2024/10/bennu-comettempel1.png)
+
+1 min read
+
+### Asteroid and Comet Resources
+
+article 3 hours ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
 
 1 min read
 
 ### Pluto and Dwarf Planet Resources
 
-article 20 hours ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)[![A woman stands and smiles in the Teague lobby at NASA Johnson. She is wearing a red blouse and black pants. Behind her is a mural of astronauts and space exploration, as well as a NASA logo on the wall.](https://www.nasa.gov/wp-content/uploads/2024/10/image-7-e1728592422646.jpg?w=720)
+article 1 day ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)[![A woman stands and smiles in the Teague lobby at NASA Johnson. She is wearing a red blouse and black pants. Behind her is a mural of astronauts and space exploration, as well as a NASA logo on the wall.](https://www.nasa.gov/wp-content/uploads/2024/10/image-7-e1728592422646.jpg?w=720)
 
 3 min read
 
 ### Igniting Inspiration: Jennifer Becerra’s STEM Legacy at Johnson 
 
-article 24 hours ago](https://www.nasa.gov/centers-and-facilities/igniting-inspiration-jennifer-becerras-stem-legacy-at-johnson/)[![How Do Astronauts Get in Shape? – New “Ask SME” from NASA eClips](https://science.nasa.gov/wp-content/uploads/2024/10/ask-sme-corey-twine-thumbnail-1280px-shannon-verstynen.jpg)
-
-2 min read
-
-### How Do Astronauts Get in Shape? – New “Ask SME” from NASA eClips
-
-article 2 days ago](https://science.nasa.gov/learning-resources/science-activation/how-do-astronauts-get-in-shape-new-ask-sme-from-nasa-eclips/)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/igniting-inspiration-jennifer-becerras-stem-legacy-at-johnson/)
 
 ### Featured
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/09/architecture-illustration-logistics.png?w=1024)
-
-4 min read
-
-### NASA Seeks Innovative Artemis Lunar Logistics, Mobility Solutions
-
-article 3 days ago](https://www.nasa.gov/general/nasa-seeks-innovative-artemis-lunar-logistics-mobility-solutions/)[![Low-angle self-portrait of NASA's Curiosity Mars rover](https://www.nasa.gov/wp-content/uploads/2023/03/pia19808-main_tight_crop-monday.jpg?w=1024)
+[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
 
 3 min read
 
-### Public Participation in Machine Learning Bolsters Extraterrestrial Research
+### Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
 
-article 3 days ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/public-participation-in-machine-learning-bolsters-extraterrestrial-research/)[![The STS-41G crew of Jon A. McBride, front row left, Sally K. Ride, Kathryn D. Sullivan, and David C. Leestma; Paul D. Scully-Power, back row left, Robert L. Crippen, and Marc Garneau of Canada](https://www.nasa.gov/wp-content/uploads/2024/10/sts-41g-2-crew-photo-s84-37981.jpg?w=1024)
+article 7 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Lopez-Alegria, second from left, and the rest of the Ax-3 crew](https://www.nasa.gov/wp-content/uploads/2024/09/hhm-2024-43-la-ax-3-onboard-crew-photo-iss070e075488.jpg?w=1024)
 
-13 min read
+24 min read
 
-### 40 Years Ago: STS-41G – A Flight of Many Firsts and Records
+### NASA Celebrates Hispanic Heritage Month 2024
 
-article 4 days ago](https://www.nasa.gov/history/40-years-ago-sts-41g-a-flight-of-many-firsts-and-records/)
+article 4 hours ago](https://www.nasa.gov/history/nasa-celebrates-hispanic-heritage-month-2024/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
+
+4 min read
+
+### NASA Terminal Transmits First Laser Communications Uplink to Space 
+
+article 2 days ago](https://www.nasa.gov/technology/space-comms/space-communications/nasa-terminal-transmits-first-laser-communications-uplink-to-space/)
 
 ### Highlights
 
