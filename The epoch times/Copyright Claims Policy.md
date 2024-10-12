@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Pony Round-Up in Virginia Captures Hearts of Horse Lovers for 100 Years](https://www.theepochtimes.com/article/pony-round-up-in-virginia-captures-hearts-of-horse-lovers-for-100-years-5729055)
+    
+    1hr By [Natasha Holt](https://www.theepochtimes.com/author/natasha-holt)
+    
+    [![Pony Round-Up in Virginia Captures Hearts of Horse Lovers for 100 Years](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pony Round-Up in Virginia Captures Hearts of Horse Lovers for 100 Years](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740374-lead-out-205x123.jpg.webp)](https://www.theepochtimes.com/article/pony-round-up-in-virginia-captures-hearts-of-horse-lovers-for-100-years-5729055)
+* [More Than 400 North American 7-Eleven Stores to Close](https://www.theepochtimes.com/business/more-than-400-north-american-7-eleven-stores-to-close-5740319)
+    
+    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![More Than 400 North American 7-Eleven Stores to Close](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![More Than 400 North American 7-Eleven Stores to Close](https://img.theepochtimes.com/assets/uploads/2024/08/19/id5708310-7-Eleven-store-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/more-than-400-north-american-7-eleven-stores-to-close-5740319)
+* [Your Mattress May Be the Cause of Nagging Symptoms—Here’s How](https://www.theepochtimes.com/health/your-old-mattress-may-be-the-cause-of-nagging-symptoms-heres-how-5726280)
+    
+    3hr By [Flora Zhao](https://www.theepochtimes.com/author/flora-zhao)
+    
+    [![Your Mattress May Be the Cause of Nagging Symptoms—Here’s How](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Your Mattress May Be the Cause of Nagging Symptoms—Here’s How](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738660-Mattress-featured-image-205x123.gif)](https://www.theepochtimes.com/health/your-old-mattress-may-be-the-cause-of-nagging-symptoms-heres-how-5726280)
+* [California Voters Will Determine the Fate of 10 Ballot Measures](https://www.theepochtimes.com/us/california-voters-will-determine-the-fate-of-10-ballot-measures-5739248)
+    
+    4hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    
+    [![California Voters Will Determine the Fate of 10 Ballot Measures](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![California Voters Will Determine the Fate of 10 Ballot Measures](https://img.theepochtimes.com/assets/uploads/2024/06/13/id5668246-Voting-California-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-voters-will-determine-the-fate-of-10-ballot-measures-5739248)
+* [US Soldier Jailed for 14 Years for Seeking to Help ISIS Plot to Kill Troops](https://www.theepochtimes.com/us/us-soldier-jailed-for-14-years-for-seeking-to-help-isis-plot-to-kill-troops-5740290)
+    
+    6hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![US Soldier Jailed for 14 Years for Seeking to Help ISIS Plot to Kill Troops](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Soldier Jailed for 14 Years for Seeking to Help ISIS Plot to Kill Troops](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693479-DOJ-e1696240213898-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-soldier-jailed-for-14-years-for-seeking-to-help-isis-plot-to-kill-troops-5740290)
 * [China’s ICBM Launch Tested Both Missile Capability and Geo-Political Waters, Analysts Say](https://www.theepochtimes.com/china/chinas-icbm-launch-tested-both-missile-capability-and-geo-political-waters-analysts-say-5733245)
     
-    NEW By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
+    8hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
     
     [![China’s ICBM Launch Tested Both Missile Capability and Geo-Political Waters, Analysts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![China’s ICBM Launch Tested Both Missile Capability and Geo-Political Waters, Analysts Say](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729889-GettyImages-1175318272-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinas-icbm-launch-tested-both-missile-capability-and-geo-political-waters-analysts-say-5733245)
 * [Social Security Recipients to Get Lower Boost in 2024: What Retirees Should Know](https://www.theepochtimes.com/us/social-security-recipients-to-get-lower-boost-in-2024-what-retirees-should-know-5740006)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Social Security Recipients to Get Lower Boost in 2024: What Retirees Should Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Social Security Recipients to Get Lower Boost in 2024: What Retirees Should Know](https://img.theepochtimes.com/assets/uploads/2023/03/23/id5145274-Social-Security-card-GettyImages-1346574898-205x123.jpg.webp)](https://www.theepochtimes.com/us/social-security-recipients-to-get-lower-boost-in-2024-what-retirees-should-know-5740006)
 * [Beijing’s Repression on US Soil a Threat to Security: State Department](https://www.theepochtimes.com/china/beijings-repression-on-us-soil-a-threat-to-security-state-department-5740051)
     
-    2hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    9hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
     [![Beijing’s Repression on US Soil a Threat to Security: State Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Beijing’s Repression on US Soil a Threat to Security: State Department](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740052-GettyImages-455650602-205x123.jpg.webp)](https://www.theepochtimes.com/china/beijings-repression-on-us-soil-a-threat-to-security-state-department-5740051)
 * [Central Banks Are Buying Gold: What You Need to Know](https://www.theepochtimes.com/business/central-banks-are-buying-gold-what-you-need-to-know-5739967)
     
-    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    9hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Central Banks Are Buying Gold: What You Need to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Central Banks Are Buying Gold: What You Need to Know](https://img.theepochtimes.com/assets/uploads/2023/08/19/id5476626-GettyImages-1227918179-205x123.jpg.webp)](https://www.theepochtimes.com/business/central-banks-are-buying-gold-what-you-need-to-know-5739967)
-* [In Colorado, Trump Announces ‘Operation Aurora’ to Target Illegal Immigrant Crime](https://www.theepochtimes.com/us/in-colorado-trump-announces-operation-aurora-to-target-illegal-immigrant-crime-5740214)
+* [California Commission Nixes SpaceX’s Plan for More Rocket Launches](https://www.theepochtimes.com/us/california-commission-nixes-spacexs-plan-for-more-rocket-launches-5740248)
     
-    6hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    12hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
     
-    [![In Colorado, Trump Announces ‘Operation Aurora’ to Target Illegal Immigrant Crime](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![California Commission Nixes SpaceX’s Plan for More Rocket Launches](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![In Colorado, Trump Announces ‘Operation Aurora’ to Target Illegal Immigrant Crime](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740222-Donald-Trump-4_JF_10112024-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-colorado-trump-announces-operation-aurora-to-target-illegal-immigrant-crime-5740214)
-* [Whoever Wins This Pennsylvania County Is Expected to Win the White House](https://www.theepochtimes.com/us/whoever-wins-this-pennsylvania-county-is-expected-to-win-the-white-house-5738704)
-    
-    7hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
-    
-    [![Whoever Wins This Pennsylvania County Is Expected to Win the White House](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Whoever Wins This Pennsylvania County Is Expected to Win the White House](https://img.theepochtimes.com/assets/uploads/2023/11/09/id5526730-GettyImages-1563693363_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/whoever-wins-this-pennsylvania-county-is-expected-to-win-the-white-house-5738704)
-* [Fischer-Price Recalls More Than 2 Million Infant Swings Following 5 Deaths](https://www.theepochtimes.com/business/fischer-price-recalls-more-than-2-million-infant-swings-following-5-deaths-5740206)
-    
-    8hr By [Wim De Gent](https://www.theepochtimes.com/author/wim-degent)
-    
-    [![Fischer-Price Recalls More Than 2 Million Infant Swings Following 5 Deaths](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Fischer-Price Recalls More Than 2 Million Infant Swings Following 5 Deaths](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740207-Fisher_Price_Recall_24285676442729-205x123.jpg.webp)](https://www.theepochtimes.com/business/fischer-price-recalls-more-than-2-million-infant-swings-following-5-deaths-5740206)
-* [Biden Estimates Milton Damage at $50 Billion, Plans Florida Visit for Sunday](https://www.theepochtimes.com/us/biden-estimates-milton-damage-at-50-billion-plans-florida-visit-for-sunday-5740238)
-    
-    8hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![Biden Estimates Milton Damage at $50 Billion, Plans Florida Visit for Sunday](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Estimates Milton Damage at $50 Billion, Plans Florida Visit for Sunday](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740246-Biden_White-House_hurricane-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-estimates-milton-damage-at-50-billion-plans-florida-visit-for-sunday-5740238)
-* [Day in Photos: Illegal Immigration, Nobel Peace Prize, and Hurricane Kirk](https://www.theepochtimes.com/article/day-in-photos-illegal-immigration-nobel-peace-prize-and-hurricane-kirk-5739789)
-    
-    8hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Illegal Immigration, Nobel Peace Prize, and Hurricane Kirk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Illegal Immigration, Nobel Peace Prize, and Hurricane Kirk](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740146-GettyImages-2177170172-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-illegal-immigration-nobel-peace-prize-and-hurricane-kirk-5739789)
-* [Stumping in a Swing State, Harris Vows to Appoint a Bipartisan Advisory Council](https://www.theepochtimes.com/us/stumping-in-a-swing-state-harris-vows-to-appoint-a-bipartisan-advisory-council-5740196)
-    
-    9hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
-    
-    [![Stumping in a Swing State, Harris Vows to Appoint a Bipartisan Advisory Council](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Stumping in a Swing State, Harris Vows to Appoint a Bipartisan Advisory Council](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740265-Harris-GettyImages-2177225508-205x123.jpg.webp)](https://www.theepochtimes.com/us/stumping-in-a-swing-state-harris-vows-to-appoint-a-bipartisan-advisory-council-5740196)
+    ![California Commission Nixes SpaceX’s Plan for More Rocket Launches](https://img.theepochtimes.com/assets/uploads/2024/09/id5728462-1.tagreuters.com2024binary_LYNXMPEK8L08O-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-commission-nixes-spacexs-plan-for-more-rocket-launches-5740248)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
