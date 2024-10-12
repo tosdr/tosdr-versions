@@ -214,45 +214,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Linux plays an important role at TomTom as the core of all our Portable Navigation Devices. We believe that by becoming an Open Invention Network licensee, we encourage Linux development and foster innovation in a technical community that benefits everyone.  
+> Philips is proud to be a founder of the Open Invention Network. Over the years, OSS has been an important building block for many of our businesses and is increasingly important for the medical and health tech industries. OSS enables faster development of monitoring, imaging, diagnostic, and informatic platforms, while driving down costs. With more than 4,000 community members, OIN is ensuring that OSS innovation continues its rapid pace, in a safe environment enabled by licensing.  
 
-Peter SpoursDirector of IPTomTom
-
-> Linux can be found in consumer and professional systems in use around the globe. We are committed to redesigning the lifestyles of people around the world, by providing them with excitement and peace of mind. One way we create sophisticated products is by using advanced open platforms, and we are committed to ensuring their ongoing development.  
-
-Tetsuro FuseJVCKENWOODVice Operating Officer
-
-> At the time of OIN’s founding, open source was nascent, and most software was built in silos. During the past 15 years, we have been pleased to watch the OIN community grow from 6 members to more than 3,300. The OIN community’s powerful cross license has enabled businesses to safely develop and sell innovative new systems and platforms that have revolutionized the way the world conducts business.  
-
-Peter TotoSenior VP, IP CounselSony Corporation of America
+Jako EleveldHead of IP LicensingRoyal Philips
 
 > _Demonstrating its commitment to open innovation, NatWest is a Gold member in FINOS, the main global organization aiming to move the entire financial services industry toward collaboration through Open Source and FDC3 standards. NatWest is also building on its foundations of open banking by creating the ‘Bank of APIs’ – an API ecosystem that brings an increasingly wide variety of our services to customers and partners in new and innovative ways. Open is important to us. As such we are proud… [Read more](https://openinventionnetwork.com/testimonial/natwest-group/ "Complete testimonial by Declan O’Gorman")_
 
 Declan O’GormanHead of Enterprise Engineering, NatWest Group
 
-> Freedom to participate in open source projects and adopt Linux and other open source code has been enabled through broad based participation in the OIN cross-license, which has become a litmus test for authenticity in the open source community. Joining the OIN community demonstrates an explicit recognition among signatories of a commitment to open source technologies and the set of norms required around the appropriate use of patents in an increasingly open source-centric world. Companies that … [Read more](https://openinventionnetwork.com/testimonial/keith-bergelt-open-invention-network/ "Complete testimonial by Keith Bergelt")
+> We recognize the value in shared innovation, a fundamental characteristic of open source communities. In addition to joining OIN, Square is one of the founders of the Crypto Open Patent Alliance (COPA), a collaborative consortium in which members pledge not to use their crypto technology patents, except for defensive purposes. Our participation in the OIN community demonstrates our commitment to support collaborative technology development.
 
-Keith BergeltCEOOpen Invention Network
+Max SillsCounsel at Square and General Manager of COPA
 
-> For more than two decades, we have been a steadfast supporter of open source and the numerous benefits it provides. We have and continue to support the OIN and the Linux Foundation. IBM and Red Hat believe this is a key initiative to significantly deter non-practicing entities from asserting patents against the open source community.  
+> Open Source technologies, especially Embedded Linux, have enabled the rapid development of intelligent products that can be found throughout the infrastructure of homes. LIXIL’s participation in the OIN community shows our consistent commitment to open source innovation.  
 
-Todd MooreCTO, Developer EcosystemsIBM
+Yugo KanazawaChief Digital OfficerLIXIL
 
-> Our stated mission is “Enabling Leading-Edge Technologies” and continuously improving ourselves so that we can offer products and services that satisfy our customers worldwide and contribute to the development of our society through the development of the most advanced technologies. In order to further promote this effort, we believe that the utilization of open source software will be essential. Open source platforms enable the rapid deployment of advanced computing and testing solutions. W… [Read more](https://openinventionnetwork.com/testimonial/advantest/ "Complete testimonial by Koichi Tsukui")
+> _We continuously look for ways to integrate the best technologies in our payment solutions, which helps to deliver capabilities and services that our merchant and bank customers value and trust. We provide our customers safer and faster digital transaction services, and open source is a significant innovation driver in these offerings. We are pleased to join the Open Invention Network and support its role in protecting Open Source software._
 
-Koichi TsukuiChief Technology Officer, Advantest
+Christophe DuquenneGroup Chief Technology & Operations Officer, Worldline
 
-> We believe the protection OIN offers the open source community helps increase global contributions to and adoption of open source technologies. We are honored to stand with OIN as an active participant in its program to protect against patent aggression in core Linux and other important OSS technologies.  
+> We applaud OIN’s efforts to promote patent non-aggression in the cloud by adding the OpenStack packages to its Linux System definition. The OpenStack Foundation Board of Directors appreciates that the rapidly-growing OIN community has been, and is now explicitly, supporting freedom of action in the cloud of the future that OpenStack has been formed to enable.  
 
-Erich AndersenCorporate Vice President and Chief IP CounselMicrosoft
+Alan ClarkChairman of the BoardOpenStack Foundation
 
-> At Shopify, we’ve built our platform on Ruby on Rails. We view open source software as a key foundation for our business. By joining the Open Invention Network, we have committed to patent non-aggression in core Linux and adjacent open source software. We believe that this commitment will promote innovation and help enable entrepreneurs and developers to build on open source foundations without focusing on the threat of litigation. We strongly encourage all forward-looking ecommerce platforms,… [Read more](https://openinventionnetwork.com/testimonial/shopify/ "Complete testimonial by Robert Guay")
+> China Mobile is committed to becoming a world-class information services and sci-tech innovation enterprise, and understands that Linux System and open source technology is a cornerstone to drive technological innovation and accelerate service innovation. After joining OIN, China Mobile will not only continue to support the innovative practice of open source projects, but also work closely with OIN and its members to promote the high-level implementation of the Linux System and open source techn… [Read more](https://openinventionnetwork.com/testimonial/china-mobile/ "Complete testimonial by Jia Liu")
 
-Robert GuaySenior Counsel, Intellectual PropertyShopify
+Jia LiuDeputy GM, Science & Technology Innovation, China Mobile
 
-> For some time, Groupe Renault has invested in developing the innovations and technologies that will enable sustainable transportation that excels in urban and rural environments and brings connected services in the vehicle. With our rapid pace of development coupled with our passion for precision, quality and interoperability, we see leveraging open source software as an important part of our strategy.  
+> As a global leader in open source, SUSE enables innovation from the largest data centers in the world to cloud environments, and our technology is embedded in every day devices like cars, points of sale and MRIs. Open source infrastructure is the power behind the cloud and digital transformation, and our customers rely on us for mission critical business outcomes and for innovation. As a leader in bringing open source solutions to enterprises, including enterprise Linux, we see firsthand why … [Read more](https://openinventionnetwork.com/testimonial/thomas-di-giacomo-suse/ "Complete testimonial by Thomas Di Giacomo")
 
-Groupe Renault
+Thomas Di GiacomoPresident of Engineering & InnovationSUSE
+
+> Embecosm has joined OIN, an industry consortium with an ever-growing patent pool that facilitates cross-licensing, for mutual defense against those who would use patents against the Linux ecosystem. All members are protected, even companies like Embecosm which bring no patents to the table. I don’t like the world we are in, but at least Embecosm is now in a stronger position to protect free software.  
+
+Jeremy BennettFounder and Chief ExecutiveEmbecosm
+
+> OIN protects the open-source community through a patent cross-license for Linux and related open-source technologies. The license is free and available to companies, organizations, and individual developers if they agree not to assert their own patents against Linux.  
+
+Chris DiBonaDirector of Open SourceGoogle
 
 [![Open Invention Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201373%20172'%3E%3C/svg%3E)
 
@@ -268,7 +268,7 @@ Your Name\*
 
 Email\*
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
