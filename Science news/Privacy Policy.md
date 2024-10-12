@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Navigation research often excludes the environment. That’s starting to change](https://www.sciencenews.org/article/navigation-research-exclude-environment)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")21 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")October 11, 2024
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Saturn’s first Trojan asteroid has finally been discovered](https://www.sciencenews.org/article/saturn-first-trojan-asteroid-discovered)
             
-            By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")23 hours ago
+            By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")October 11, 2024
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
