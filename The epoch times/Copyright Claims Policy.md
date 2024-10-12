@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [A Guide to Home Preparedness](https://www.theepochtimes.com/article/a-guide-to-home-preparedness-5740113)
+    
+    NEW By [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
+    
+    [![A Guide to Home Preparedness](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![A Guide to Home Preparedness](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740427-Prep-Guide-Lead-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/a-guide-to-home-preparedness-5740113)
+* [Day in Photos: Railway Collision, Record-Large Lesson, and World Twins Day](https://www.theepochtimes.com/article/day-in-photos-railway-collision-record-large-lesson-and-world-twins-day-5740401)
+    
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Railway Collision, Record-Large Lesson, and World Twins Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Railway Collision, Record-Large Lesson, and World Twins Day](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740452-Lead-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-railway-collision-record-large-lesson-and-world-twins-day-5740401)
+* [Michigan Republicans Win Election Integrity Lawsuit Over Number of Poll Workers](https://www.theepochtimes.com/us/michigan-republicans-win-election-integrity-lawsuit-over-number-of-poll-workers-5740371)
+    
+    1hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    
+    [![Michigan Republicans Win Election Integrity Lawsuit Over Number of Poll Workers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Michigan Republicans Win Election Integrity Lawsuit Over Number of Poll Workers](https://img.theepochtimes.com/assets/uploads/2020/11/11/Detroit-205x123.jpg.webp)](https://www.theepochtimes.com/us/michigan-republicans-win-election-integrity-lawsuit-over-number-of-poll-workers-5740371)
+* [Federal Appeals Court Upholds Ruling Against Alabama’s Mail-In Ballot Assistance Restrictions](https://www.theepochtimes.com/us/federal-appeals-court-upholds-ruling-against-alabamas-mail-in-ballot-assistance-restrictions-5740376)
+    
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Federal Appeals Court Upholds Ruling Against Alabama’s Mail-In Ballot Assistance Restrictions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Federal Appeals Court Upholds Ruling Against Alabama’s Mail-In Ballot Assistance Restrictions](https://img.theepochtimes.com/assets/uploads/2024/03/20/id5611384-GettyImages-2054042827-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-appeals-court-upholds-ruling-against-alabamas-mail-in-ballot-assistance-restrictions-5740376)
+* [Joining NATO Is Stumbling Block in Ukraine’s ‘Victory Plan’](https://www.theepochtimes.com/world/joining-nato-is-stumbling-block-in-ukraines-victory-plan-5739859)
+    
+    3hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    
+    [![Joining NATO Is Stumbling Block in Ukraine’s ‘Victory Plan’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Joining NATO Is Stumbling Block in Ukraine’s ‘Victory Plan’](https://img.theepochtimes.com/assets/uploads/2024/03/10/id5604545-GettyImages-1252010756-small-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/joining-nato-is-stumbling-block-in-ukraines-victory-plan-5739859)
+* [Behind the Movement to Ban Cellphones in Schools](https://www.theepochtimes.com/article/behind-the-movement-to-ban-cellphones-in-schools-5732800)
+    
+    5hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    
+    [![Behind the Movement to Ban Cellphones in Schools](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Behind the Movement to Ban Cellphones in Schools](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739411-lead8-205x123.gif)](https://www.theepochtimes.com/article/behind-the-movement-to-ban-cellphones-in-schools-5732800)
+* [DOJ Sues Virginia for Purging Voter Rolls Close to Election](https://www.theepochtimes.com/us/doj-sues-virginia-for-purging-voter-rolls-close-to-election-5740307)
+    
+    7hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![DOJ Sues Virginia for Purging Voter Rolls Close to Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![DOJ Sues Virginia for Purging Voter Rolls Close to Election](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727693-GettyImages-2172380707-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-sues-virginia-for-purging-voter-rolls-close-to-election-5740307)
 * [Pony Round-Up in Virginia Captures Hearts of Horse Lovers for 100 Years](https://www.theepochtimes.com/article/pony-round-up-in-virginia-captures-hearts-of-horse-lovers-for-100-years-5729055)
     
-    1hr By [Natasha Holt](https://www.theepochtimes.com/author/natasha-holt)
+    7hr By [Natasha Holt](https://www.theepochtimes.com/author/natasha-holt) and [Nanette Holt](https://www.theepochtimes.com/author/nanette-holt)
     
     [![Pony Round-Up in Virginia Captures Hearts of Horse Lovers for 100 Years](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Pony Round-Up in Virginia Captures Hearts of Horse Lovers for 100 Years](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740374-lead-out-205x123.jpg.webp)](https://www.theepochtimes.com/article/pony-round-up-in-virginia-captures-hearts-of-horse-lovers-for-100-years-5729055)
 * [More Than 400 North American 7-Eleven Stores to Close](https://www.theepochtimes.com/business/more-than-400-north-american-7-eleven-stores-to-close-5740319)
     
-    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    8hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![More Than 400 North American 7-Eleven Stores to Close](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![More Than 400 North American 7-Eleven Stores to Close](https://img.theepochtimes.com/assets/uploads/2024/08/19/id5708310-7-Eleven-store-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/more-than-400-north-american-7-eleven-stores-to-close-5740319)
-* [Your Mattress May Be the Cause of Nagging Symptoms—Here’s How](https://www.theepochtimes.com/health/your-old-mattress-may-be-the-cause-of-nagging-symptoms-heres-how-5726280)
+* [Your Mattress May Be the Cause of Unexplained Symptoms—Here’s Why](https://www.theepochtimes.com/health/your-old-mattress-may-be-the-cause-of-nagging-symptoms-heres-how-5726280)
     
-    3hr By [Flora Zhao](https://www.theepochtimes.com/author/flora-zhao)
+    9hr By [Flora Zhao](https://www.theepochtimes.com/author/flora-zhao)
     
-    [![Your Mattress May Be the Cause of Nagging Symptoms—Here’s How](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Your Mattress May Be the Cause of Unexplained Symptoms—Here’s Why](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Your Mattress May Be the Cause of Nagging Symptoms—Here’s How](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738660-Mattress-featured-image-205x123.gif)](https://www.theepochtimes.com/health/your-old-mattress-may-be-the-cause-of-nagging-symptoms-heres-how-5726280)
-* [California Voters Will Determine the Fate of 10 Ballot Measures](https://www.theepochtimes.com/us/california-voters-will-determine-the-fate-of-10-ballot-measures-5739248)
-    
-    4hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
-    
-    [![California Voters Will Determine the Fate of 10 Ballot Measures](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![California Voters Will Determine the Fate of 10 Ballot Measures](https://img.theepochtimes.com/assets/uploads/2024/06/13/id5668246-Voting-California-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-voters-will-determine-the-fate-of-10-ballot-measures-5739248)
-* [US Soldier Jailed for 14 Years for Seeking to Help ISIS Plot to Kill Troops](https://www.theepochtimes.com/us/us-soldier-jailed-for-14-years-for-seeking-to-help-isis-plot-to-kill-troops-5740290)
-    
-    6hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
-    
-    [![US Soldier Jailed for 14 Years for Seeking to Help ISIS Plot to Kill Troops](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Soldier Jailed for 14 Years for Seeking to Help ISIS Plot to Kill Troops](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693479-DOJ-e1696240213898-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-soldier-jailed-for-14-years-for-seeking-to-help-isis-plot-to-kill-troops-5740290)
-* [China’s ICBM Launch Tested Both Missile Capability and Geo-Political Waters, Analysts Say](https://www.theepochtimes.com/china/chinas-icbm-launch-tested-both-missile-capability-and-geo-political-waters-analysts-say-5733245)
-    
-    8hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
-    
-    [![China’s ICBM Launch Tested Both Missile Capability and Geo-Political Waters, Analysts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![China’s ICBM Launch Tested Both Missile Capability and Geo-Political Waters, Analysts Say](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729889-GettyImages-1175318272-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinas-icbm-launch-tested-both-missile-capability-and-geo-political-waters-analysts-say-5733245)
-* [Social Security Recipients to Get Lower Boost in 2024: What Retirees Should Know](https://www.theepochtimes.com/us/social-security-recipients-to-get-lower-boost-in-2024-what-retirees-should-know-5740006)
-    
-    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Social Security Recipients to Get Lower Boost in 2024: What Retirees Should Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Social Security Recipients to Get Lower Boost in 2024: What Retirees Should Know](https://img.theepochtimes.com/assets/uploads/2023/03/23/id5145274-Social-Security-card-GettyImages-1346574898-205x123.jpg.webp)](https://www.theepochtimes.com/us/social-security-recipients-to-get-lower-boost-in-2024-what-retirees-should-know-5740006)
-* [Beijing’s Repression on US Soil a Threat to Security: State Department](https://www.theepochtimes.com/china/beijings-repression-on-us-soil-a-threat-to-security-state-department-5740051)
-    
-    9hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
-    
-    [![Beijing’s Repression on US Soil a Threat to Security: State Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Beijing’s Repression on US Soil a Threat to Security: State Department](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740052-GettyImages-455650602-205x123.jpg.webp)](https://www.theepochtimes.com/china/beijings-repression-on-us-soil-a-threat-to-security-state-department-5740051)
-* [Central Banks Are Buying Gold: What You Need to Know](https://www.theepochtimes.com/business/central-banks-are-buying-gold-what-you-need-to-know-5739967)
-    
-    9hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Central Banks Are Buying Gold: What You Need to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Central Banks Are Buying Gold: What You Need to Know](https://img.theepochtimes.com/assets/uploads/2023/08/19/id5476626-GettyImages-1227918179-205x123.jpg.webp)](https://www.theepochtimes.com/business/central-banks-are-buying-gold-what-you-need-to-know-5739967)
-* [California Commission Nixes SpaceX’s Plan for More Rocket Launches](https://www.theepochtimes.com/us/california-commission-nixes-spacexs-plan-for-more-rocket-launches-5740248)
-    
-    12hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
-    
-    [![California Commission Nixes SpaceX’s Plan for More Rocket Launches](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![California Commission Nixes SpaceX’s Plan for More Rocket Launches](https://img.theepochtimes.com/assets/uploads/2024/09/id5728462-1.tagreuters.com2024binary_LYNXMPEK8L08O-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-commission-nixes-spacexs-plan-for-more-rocket-launches-5740248)
+    ![Your Mattress May Be the Cause of Unexplained Symptoms—Here’s Why](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738660-Mattress-featured-image-205x123.gif)](https://www.theepochtimes.com/health/your-old-mattress-may-be-the-cause-of-nagging-symptoms-heres-how-5726280)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
