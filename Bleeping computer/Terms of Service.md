@@ -36,6 +36,9 @@
         
         Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/)
     
+    * [![If you're looking for a job change, try this $40 cybersecurity bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        If you're looking for a job change, try this $40 cybersecurity bundle](https://www.bleepingcomputer.com/offer/deals/if-youre-looking-for-a-job-change-try-this-40-cybersecurity-bundle/)
     * [![CISA: Hackers abuse F5 BIG-IP cookies to map internal servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         CISA: Hackers abuse F5 BIG-IP cookies to map internal servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
@@ -45,9 +48,6 @@
     * [![Get help studying for Microsoft tech certifications in this course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Get help studying for Microsoft tech certifications in this course deal](https://www.bleepingcomputer.com/offer/deals/get-help-studying-for-microsoft-tech-certifications-in-this-course-deal/)
-    * [![Ukraine arrests rogue VPN operator providing access to Runet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Ukraine arrests rogue VPN operator providing access to Runet](https://www.bleepingcomputer.com/news/legal/ukraine-arrests-rogue-vpn-operator-providing-access-to-runet/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
