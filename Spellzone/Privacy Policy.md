@@ -303,9 +303,11 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
 [Children and Young Peoples’ Privacy Policy](https://www.spellzone.com/pages/policies/child-friendly-privacy-policy.cfm)
 
-"Fantastic - the most relevant material/resource ever seen for both dyslexia and teaching spelling rules."
+"I ran the trial with a small group of students over three weeks before the summer holidays," she says. "I quickly saw the benefits, and signed up."
 
-**College Lecturer**
+**King's Leadership Academy, Warrington**
+
+[read more...](https://www.spellzone.com/pages/case-studies/kings-leadership-academy.cfm)
 
 ### Curriculum...
 
