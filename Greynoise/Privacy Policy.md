@@ -114,7 +114,7 @@ Please read this Privacy Policy carefully to understand our policies and practic
 
 ### 1.2 Children
 
-Our Site and Platform are not intended for children under 16 years of age. No one under age 16 may provide any Personal Data to GreyNoise. We do not knowingly collect Personal Data from children under 16. If you are under 16, do not use or provide any information on the Site, register for a subscription to the Platform, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or username you may use. If we learn we have collected or received Personal Data from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us at [support@greynoise.io](mailto:support@greynoise.io).
+Our Site and Platform are not intended for children under 16 years of age. No one under age 16 may provide any Personal Data to GreyNoise. We do not knowingly collect Personal Data from children under 16. If you are under 16, do not use or provide any information on the Site, register for a subscription to the Platform, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or username you may use. If we learn we have collected or received Personal Data from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us at [\[email protected\]](https://greynoise.io/cdn-cgi/l/email-protection).
 
 2\. Visitors
 ------------
@@ -217,11 +217,11 @@ On occasion we include links to third parties on the Site. If you follow a link 
 
 You have the right to:
 
-* Request access to, correct or delete any Personal Data that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. You may send us an email at support@greynoise.io to make such a request.
+* Request access to, correct or delete any Personal Data that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. You may send us an email at [\[email protected\]](https://greynoise.io/cdn-cgi/l/email-protection) to make such a request.
 * As a Customer, review and change your Personal Data by logging into the Platform and visiting your account profile.
 * Remove and/or reject cookies from our Site with your browser settings. If you remove or reject our cookies, it could affect how the Site and our Platform perform for you.
-* You can object to processing of your Personal Data, request us to restrict processing of your Personal Data, or request to have your Personal Data in a portable format. You may send us an email at support@greynoise.io to make such a request.
-* You can object to processing of your Personal Data, request us to restrict processing of your Personal Data, or request to have your Personal Data in a portable format. You may send us an email at support@greynoise.io to make such a request.
+* You can object to processing of your Personal Data, request us to restrict processing of your Personal Data, or request to have your Personal Data in a portable format. You may send us an email at [\[email protected\]](https://greynoise.io/cdn-cgi/l/email-protection) to make such a request.
+* You can object to processing of your Personal Data, request us to restrict processing of your Personal Data, or request to have your Personal Data in a portable format. You may send us an email at [\[email protected\]](https://greynoise.io/cdn-cgi/l/email-protection) to make such a request.
 * To make a complaint at any time to the data privacy authority in your jurisdiction. We would, however, appreciate the chance to deal with your concerns before you approach such authority so please contact us in the first instance.
 
 8\. Data, security, and retention
@@ -247,7 +247,7 @@ It is our policy to post any changes we make to our Privacy Policy on this page.
 10\. Contact information
 ------------------------
 
-To ask questions or comment about this Privacy Policy and our privacy practices, contact us at: [support@greynoise.io](mailto:support@greynoise.io).
+To ask questions or comment about this Privacy Policy and our privacy practices, contact us at: [\[email protected\]](https://greynoise.io/cdn-cgi/l/email-protection).
 
 Cut through the noise
 ---------------------
