@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2013-2014 Ballot Measure Overview](/assets/Images/teasers/full/2013-14-Giving-to-BM-by-Industry.png)](https://www.followthemoney.org/research/institute-reports/ballot-measures-2013-and-2014/)
+[![MoneyMaze](/assets/logos/thelowroad.png)](http://www.followthemoney.org/research/institute-research/best-practices-for-independent-spending-part-one)
+
+Just try to follow the maze of independent expenditures.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
