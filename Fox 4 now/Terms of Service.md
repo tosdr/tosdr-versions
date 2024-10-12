@@ -103,7 +103,7 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[AFTER MILTON | Tracking updates on power restoration, road access and infrastructure in your community](https://www.fox4now.com/weather/hurricane-center/tracking-milton-approaching-hurricane-sparks-tornadoes-in-southwest-florida)
+[LIVE BLOG | Southwest Florida's updates on power, roads, schools & recovery aid](https://www.fox4now.com/weather/hurricane-center/tracking-milton-approaching-hurricane-sparks-tornadoes-in-southwest-florida)
 
 Terms of Use
 ============
