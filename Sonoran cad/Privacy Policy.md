@@ -696,10 +696,6 @@ Last updated 5 months ago
 
 On this page
 
-Was this helpful?
-
-[Edit on GitHub](https://github.com/Sonoran-Software/SonoranCAD-Documentation/blob/master/other/policy/privacy-policy.md)
-
 * [Privacy Policy for Sonoran Software Systems](#privacy-policy-for-sonoran-software-systems)
 * [1\. Introduction](#id-1.-introduction)
 * [2\. Information We Collect](#id-2.-information-we-collect)
@@ -709,3 +705,7 @@ Was this helpful?
 * [6\. Children's Privacy](#id-6.-childrens-privacy)
 * [7\. Changes to This Privacy Policy](#id-7.-changes-to-this-privacy-policy)
 * [8\. Contact Us](#id-8.-contact-us)
+
+Was this helpful?
+
+[Edit on GitHub](https://github.com/Sonoran-Software/SonoranCAD-Documentation/blob/master/other/policy/privacy-policy.md)
