@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4a54131aad27e4cbf0c0e8610f913ad9
+47b218cbb9c342373f416a9fa4856b8d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Dark orange Swarovski polka dot clasp](https://www.sojourner.biz/images/cache/SKU0149front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/dark-orange-swarovski-polka-dot-clasp.html "Dark orange Swarovski polka dot clasp")
+[![Tiger eye bracelet](https://www.sojourner.biz/images/cache/jewelry/BR0035.200.webp)](https://www.sojourner.biz/jewelry/bracelets/tiger-eye-bracelet.html "Tiger eye bracelet")
 
-#### [Dark orange Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/dark-orange-swarovski-polka-dot-clasp.html "Dark orange Swarovski polka dot clasp")
+#### [Tiger eye bracelet](https://www.sojourner.biz/jewelry/bracelets/tiger-eye-bracelet.html "Tiger eye bracelet")
 
-$15.00
+$10.00
 
 ### Best Sellers
 
