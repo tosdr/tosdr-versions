@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Marina Ahmad](https://southwarknews.co.uk/wp-content/uploads/2022/11/Marina-Ahmad-AM-360x180.jpg)](https://southwarknews.co.uk/area/southwark/lets-ensure-that-every-child-has-the-chance-to-develop-a-healthy-smile-writes-marina-ahmad/)
+    
+    ### [‘Let’s ensure that every child has the chance to develop a healthy smile,’ writes Marina Ahmad](https://southwarknews.co.uk/area/southwark/lets-ensure-that-every-child-has-the-chance-to-develop-a-healthy-smile-writes-marina-ahmad/)
+    
+    [![Housing Ombudsman Richard Blakeway. Credit: Housing Ombdusman](https://southwarknews.co.uk/wp-content/uploads/2024/10/Richard-Blakeway-Photo-e1728661966969-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-homeowners-conference-to-host-government-speakers/)
+    
+    ### [Southwark HomeOwners Conference to host government speakers](https://southwarknews.co.uk/area/southwark/southwark-homeowners-conference-to-host-government-speakers/)
+    
     [![Local resident are calling for a multi-agency approach that targets crack dealing and use on their streets](https://southwarknews.co.uk/wp-content/uploads/2024/10/Local-resident-are-calling-for-a-multi-agency-approach-that-targets-crack-dealing-and-use-on-their-streets-360x180.png)](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
     
     ### [Brixton ‘twenty times worse’ than ’24-hour crack supermarket’ of the early 2000s, locals warn](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
@@ -46,15 +54,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2022/07/WEB-Night-Tube-360x180.jpg)](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
     
     ### [Proposals for the Night Tube to run on Thursday nights are being kept ‘under review’](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
-    
-    [![Kaya Comer Schwartz
-    Credit: Islington Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Kaya-Comer-Schwartz-360x180.jpg)](https://southwarknews.co.uk/area/london/leader-of-islington-council-kaya-comer-schwartz-to-be-new-deputy-mayor-for-policing/)
-    
-    ### [Leader of Islington Council, Kaya Comer-Schwartz, to be new deputy mayor for policing](https://southwarknews.co.uk/area/london/leader-of-islington-council-kaya-comer-schwartz-to-be-new-deputy-mayor-for-policing/) 
-    
-    [![Cllr Ian Wingfield was first elected to a Southwark seat in 1989](https://southwarknews.co.uk/wp-content/uploads/2024/10/Cllr-Ian-Wingfield-was-first-elected-to-a-Southwark-seat-in-1989-360x180.png)](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
-    
-    ### [‘Hindsight is a wonderful thing’: Southwark’s longest-serving councillor discusses the biggest regrets and successes of his 35-year career](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +99,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Marina Ahmad](https://southwarknews.co.uk/wp-content/uploads/2022/11/Marina-Ahmad-AM-360x180.jpg)](https://southwarknews.co.uk/area/southwark/lets-ensure-that-every-child-has-the-chance-to-develop-a-healthy-smile-writes-marina-ahmad/)
+    
+    ### [‘Let’s ensure that every child has the chance to develop a healthy smile,’ writes Marina Ahmad](https://southwarknews.co.uk/area/southwark/lets-ensure-that-every-child-has-the-chance-to-develop-a-healthy-smile-writes-marina-ahmad/)
+    
+    [![Housing Ombudsman Richard Blakeway. Credit: Housing Ombdusman](https://southwarknews.co.uk/wp-content/uploads/2024/10/Richard-Blakeway-Photo-e1728661966969-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-homeowners-conference-to-host-government-speakers/)
+    
+    ### [Southwark HomeOwners Conference to host government speakers](https://southwarknews.co.uk/area/southwark/southwark-homeowners-conference-to-host-government-speakers/)
+    
     [![Local resident are calling for a multi-agency approach that targets crack dealing and use on their streets](https://southwarknews.co.uk/wp-content/uploads/2024/10/Local-resident-are-calling-for-a-multi-agency-approach-that-targets-crack-dealing-and-use-on-their-streets-360x180.png)](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
     
     ### [Brixton ‘twenty times worse’ than ’24-hour crack supermarket’ of the early 2000s, locals warn](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
@@ -127,15 +134,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2022/07/WEB-Night-Tube-360x180.jpg)](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
     
     ### [Proposals for the Night Tube to run on Thursday nights are being kept ‘under review’](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
-    
-    [![Kaya Comer Schwartz
-    Credit: Islington Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Kaya-Comer-Schwartz-360x180.jpg)](https://southwarknews.co.uk/area/london/leader-of-islington-council-kaya-comer-schwartz-to-be-new-deputy-mayor-for-policing/)
-    
-    ### [Leader of Islington Council, Kaya Comer-Schwartz, to be new deputy mayor for policing](https://southwarknews.co.uk/area/london/leader-of-islington-council-kaya-comer-schwartz-to-be-new-deputy-mayor-for-policing/) 
-    
-    [![Cllr Ian Wingfield was first elected to a Southwark seat in 1989](https://southwarknews.co.uk/wp-content/uploads/2024/10/Cllr-Ian-Wingfield-was-first-elected-to-a-Southwark-seat-in-1989-360x180.png)](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
-    
-    ### [‘Hindsight is a wonderful thing’: Southwark’s longest-serving councillor discusses the biggest regrets and successes of his 35-year career](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -193,6 +191,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Popular Articles
 
+[![Local resident are calling for a multi-agency approach that targets crack dealing and use on their streets](https://southwarknews.co.uk/wp-content/uploads/2024/10/Local-resident-are-calling-for-a-multi-agency-approach-that-targets-crack-dealing-and-use-on-their-streets-120x86.png)](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
+
+### [Brixton ‘twenty times worse’ than ’24-hour crack supermarket’ of the early 2000s, locals warn](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
+
+[12th October 2024](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
+
 [![Umana Yana owner, Debbie Monfries](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4937-e1728574270295-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
 
 ### [Exclusive: Council says it won’t remove huge telecom boxes blocking Caribbean restaurant](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
@@ -204,12 +208,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [‘It’s one of the most beautiful atmospheres in England’ – Millwall defender on why he joined the Lions](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
 
 [9th October 2024](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
-
-[![Local resident are calling for a multi-agency approach that targets crack dealing and use on their streets](https://southwarknews.co.uk/wp-content/uploads/2024/10/Local-resident-are-calling-for-a-multi-agency-approach-that-targets-crack-dealing-and-use-on-their-streets-120x86.png)](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
-
-### [Brixton ‘twenty times worse’ than ’24-hour crack supermarket’ of the early 2000s, locals warn](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
-
-[12th October 2024](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
 
 [![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
 
