@@ -36,12 +36,21 @@ Menu
 * [DESTINATIONS](https://bucketlistjourney.net/category/destinations/)
     * [Africa](https://bucketlistjourney.net/category/destinations/africa/)
     * [Asia](https://bucketlistjourney.net/category/destinations/asia-destinations/)
-    * [Caribbean](https://bucketlistjourney.net/category/caribbean-travel/)
-    * [Central America](https://bucketlistjourney.net/category/central-america-travel/)
-    * [Europe](https://bucketlistjourney.net/category/europe-travel-explore/)
+        * [Hong Kong](https://bucketlistjourney.net/category/destinations/asia-destinations/hong-kong/)
+        * [Indonesia](https://bucketlistjourney.net/category/destinations/asia-destinations/indonesia/)
+        * [Japan](https://bucketlistjourney.net/category/destinations/asia-destinations/japan/)
+        * [Jordan](https://bucketlistjourney.net/category/destinations/asia-destinations/jordan/)
+        * [Thailand](https://bucketlistjourney.net/category/destinations/asia-destinations/thailand/)
+        * [Vietnam](https://bucketlistjourney.net/category/destinations/asia-destinations/vietnam/)
+    * [Caribbean](https://bucketlistjourney.net/category/destinations/caribbean-travel/)
+    * [Central America](https://bucketlistjourney.net/category/destinations/central-america-travel/)
+        * [Costa Rica](https://bucketlistjourney.net/category/destinations/central-america-travel/costa-rica/)
+        * [Panama](https://bucketlistjourney.net/category/destinations/central-america-travel/panama/)
+    * [Europe](https://bucketlistjourney.net/category/destinations/europe-travel-explore/)
+        * [Italy](https://bucketlistjourney.net/category/destinations/europe-travel-explore/italy-europe-travel/)
     * [Mexico](https://bucketlistjourney.net/category/destinations/mexico-central-america-travel/)
-    * [United States](https://bucketlistjourney.net/category/north-america-travel/)
-    * [South America](https://bucketlistjourney.net/category/south-america/)
+    * [South America](https://bucketlistjourney.net/category/destinations/south-america/)
+    * [United States](https://bucketlistjourney.net/category/destinations/north-america-travel/)
     * [MY TOP 100](https://bucketlistjourney.net/ultimate-travel-bucket-list/)
 * [CALIFORNIA](https://bucketlistjourney.net/category/california-travel/)
 * [TIPS + TOOLS](#)
@@ -69,12 +78,21 @@ Menu
 * [DESTINATIONS](https://bucketlistjourney.net/category/destinations/)
     * [Africa](https://bucketlistjourney.net/category/destinations/africa/)
     * [Asia](https://bucketlistjourney.net/category/destinations/asia-destinations/)
-    * [Caribbean](https://bucketlistjourney.net/category/caribbean-travel/)
-    * [Central America](https://bucketlistjourney.net/category/central-america-travel/)
-    * [Europe](https://bucketlistjourney.net/category/europe-travel-explore/)
+        * [Hong Kong](https://bucketlistjourney.net/category/destinations/asia-destinations/hong-kong/)
+        * [Indonesia](https://bucketlistjourney.net/category/destinations/asia-destinations/indonesia/)
+        * [Japan](https://bucketlistjourney.net/category/destinations/asia-destinations/japan/)
+        * [Jordan](https://bucketlistjourney.net/category/destinations/asia-destinations/jordan/)
+        * [Thailand](https://bucketlistjourney.net/category/destinations/asia-destinations/thailand/)
+        * [Vietnam](https://bucketlistjourney.net/category/destinations/asia-destinations/vietnam/)
+    * [Caribbean](https://bucketlistjourney.net/category/destinations/caribbean-travel/)
+    * [Central America](https://bucketlistjourney.net/category/destinations/central-america-travel/)
+        * [Costa Rica](https://bucketlistjourney.net/category/destinations/central-america-travel/costa-rica/)
+        * [Panama](https://bucketlistjourney.net/category/destinations/central-america-travel/panama/)
+    * [Europe](https://bucketlistjourney.net/category/destinations/europe-travel-explore/)
+        * [Italy](https://bucketlistjourney.net/category/destinations/europe-travel-explore/italy-europe-travel/)
     * [Mexico](https://bucketlistjourney.net/category/destinations/mexico-central-america-travel/)
-    * [United States](https://bucketlistjourney.net/category/north-america-travel/)
-    * [South America](https://bucketlistjourney.net/category/south-america/)
+    * [South America](https://bucketlistjourney.net/category/destinations/south-america/)
+    * [United States](https://bucketlistjourney.net/category/destinations/north-america-travel/)
     * [MY TOP 100](https://bucketlistjourney.net/ultimate-travel-bucket-list/)
 * [CALIFORNIA](https://bucketlistjourney.net/category/california-travel/)
 * [TIPS + TOOLS](#)
@@ -208,6 +226,14 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[The average traveler has seen 3 of these European ![The average traveler has seen 3 of these European cities. How many have you checked off your bucket list?! 🤔
+Drop your number in the comments! 👇 I’m at 20 cities (and counting)! 
+#bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories #traveltheworld #worldtraveler #travelmore #travellover #europe #europeancities](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![The average traveler has seen 3 of these European cities. How many have you checked off your bucket list?! 🤔
+Drop your number in the comments! 👇 I’m at 20 cities (and counting)! 
+#bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories #traveltheworld #worldtraveler #travelmore #travellover #europe #europeancities](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DA_Owu-vy0S/) 
+
 [If you’re heading to the #NorthernCalifornia coa ![If you’re heading to the #NorthernCalifornia coastal town of Bodega Bay, then you’re probably gonna want to eat some seafood (as well as you should!) 🦀
 ⚡️ SAVE FOR YOUR TRIP TO BODEGA⚡️
 Here are my top picks for fishy (in the best way) spots you won’t want to miss: 🐟🍽️
@@ -271,44 +297,6 @@ Drop the word ⚡️TRAVEL⚡️ in the comments to get the link.
 👉 Want the full list of 100? 
 Drop the word ⚡️TRAVEL⚡️ in the comments to get the link.
 #bucketlist #bucketlisttravel #bucketlistadventures #travel #travelbucketlist #borntotravel  #exploretheglobe #wanderlust #travelmore #travellover](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAlc-pdPKM9/) 
-
-[🚗✨ Here’s my one-day bucket list itinerary ![🚗✨ Here’s my one-day bucket list itinerary for SEBASTOPOL, CALIFORNIA
-(💫 SAVE for planning your trip to Northern #California💫)
-1️⃣ Start the morning with coffee & pastries  @brewtaylorlane ☕️ 
-2️⃣ Go to @boringfarm to pick some raspberries. It’s a do-it-yourself place, so grab your box and load up. Plus, don’t skip the raspberry popsicle!  PS: this is the last weekend of the season, so make sure to grab your spot online.
-3️⃣ Stroll down Florence Avenue to check out the quirky junk art—seriously, every few houses has its own little masterpiece. 
-4️⃣ Grab lunch @handline.sebastopol—it’s a casual coastal-centric restaurant that has great tacos and soft serve ice cream 🌮
-5️⃣ Wine lovers, @drinkregion is a MUST. They have over 50 self-serve wines—you can taste or go all in for a full glass! 🍷
-6️⃣ Explore and shopping @thebarlow707—a 12-acre open-air market district.
-Here’s some of my favorite shops: 
-@acorn.shop: cute home goods and gifts
-@rustboutique: women’s clothes & jewelry
-@jgswitzer: Fiber art & felted fabrics for the home
-@indigenousdesigns: : Beautiful organic and fair trade fashion
-7️⃣ Play some pinball at @therewindarcade. Load up your playing card and go wild with so many retro games!
-8️⃣ Get a pre-dinner cocktail at the super trendy @fernbar.sebastopol. I got the creamy Thai Iced Tea, and it was almost too pretty to drink! PS: their food there is great too!
-9️⃣ Have dinner @ramengaijin— a yummy ramen shop and izakaya. The best seats are at the ramen counter! 🍜 
-1️⃣0️⃣ And no day is complete without dessert, so hit up @screaminmimisicecream for some ice cream🍦 I loved the cherry chocolate almond flavor!
-@sonomacounty @visitcalifornia #sebastopol #sebastopolcalifornia #sonomacounty #thebarlow #visitcalifornia #California #northerncalifornia #travelbucketlist #bucketlist #bucketlistadventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![🚗✨ Here’s my one-day bucket list itinerary for SEBASTOPOL, CALIFORNIA
-(💫 SAVE for planning your trip to Northern #California💫)
-1️⃣ Start the morning with coffee & pastries  @brewtaylorlane ☕️ 
-2️⃣ Go to @boringfarm to pick some raspberries. It’s a do-it-yourself place, so grab your box and load up. Plus, don’t skip the raspberry popsicle!  PS: this is the last weekend of the season, so make sure to grab your spot online.
-3️⃣ Stroll down Florence Avenue to check out the quirky junk art—seriously, every few houses has its own little masterpiece. 
-4️⃣ Grab lunch @handline.sebastopol—it’s a casual coastal-centric restaurant that has great tacos and soft serve ice cream 🌮
-5️⃣ Wine lovers, @drinkregion is a MUST. They have over 50 self-serve wines—you can taste or go all in for a full glass! 🍷
-6️⃣ Explore and shopping @thebarlow707—a 12-acre open-air market district.
-Here’s some of my favorite shops: 
-@acorn.shop: cute home goods and gifts
-@rustboutique: women’s clothes & jewelry
-@jgswitzer: Fiber art & felted fabrics for the home
-@indigenousdesigns: : Beautiful organic and fair trade fashion
-7️⃣ Play some pinball at @therewindarcade. Load up your playing card and go wild with so many retro games!
-8️⃣ Get a pre-dinner cocktail at the super trendy @fernbar.sebastopol. I got the creamy Thai Iced Tea, and it was almost too pretty to drink! PS: their food there is great too!
-9️⃣ Have dinner @ramengaijin— a yummy ramen shop and izakaya. The best seats are at the ramen counter! 🍜 
-1️⃣0️⃣ And no day is complete without dessert, so hit up @screaminmimisicecream for some ice cream🍦 I loved the cherry chocolate almond flavor!
-@sonomacounty @visitcalifornia #sebastopol #sebastopolcalifornia #sonomacounty #thebarlow #visitcalifornia #California #northerncalifornia #travelbucketlist #bucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAYyXDyP3js/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
