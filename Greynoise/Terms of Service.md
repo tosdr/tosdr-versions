@@ -140,7 +140,7 @@ GreyNoise offers a trial period for its paid subscription tiers and also offers 
 
 ### 2.3 Subscription
 
-Potential Customers interested in purchasing a subscription to the Platform may contact GreyNoise by email at sales@greynoise.io to request a custom quotation for a subscription to the Platform (a “Quotation”). The request should include: Customer name, email address, and preferred license. Upon receipt of a request, GreyNoise will work with the potential Customer to ascertain any additional details necessary to provide a Quotation. GreyNoise will deliver a Quotation containing the relevant terms of the subscription, including a Bill of Materials for each requested GreyNoise Subscription. To accept the Quotation, sign and return the Quotation to sales@greynoise.io. The Quotation and any associated Bill of Materials are incorporated by reference and made a part of this EULA . In the event of any discrepancy between the terms of this EULA and a Customer’s accepted Quotation, the terms of the Quotation control. For Customers who purchase a subscription through resale by a GreyNoise partner, the material terms of the subscription (duration, Fee, payment terms, renewal terms, scope of access) are governed by the agreement between the Customer and the GreyNoise partner.
+Potential Customers interested in purchasing a subscription to the Platform may contact GreyNoise by email at [\[email protected\]](https://www.greynoise.io/cdn-cgi/l/email-protection) to request a custom quotation for a subscription to the Platform (a “Quotation”). The request should include: Customer name, email address, and preferred license. Upon receipt of a request, GreyNoise will work with the potential Customer to ascertain any additional details necessary to provide a Quotation. GreyNoise will deliver a Quotation containing the relevant terms of the subscription, including a Bill of Materials for each requested GreyNoise Subscription. To accept the Quotation, sign and return the Quotation to [\[email protected\]](https://www.greynoise.io/cdn-cgi/l/email-protection). The Quotation and any associated Bill of Materials are incorporated by reference and made a part of this EULA . In the event of any discrepancy between the terms of this EULA and a Customer’s accepted Quotation, the terms of the Quotation control. For Customers who purchase a subscription through resale by a GreyNoise partner, the material terms of the subscription (duration, Fee, payment terms, renewal terms, scope of access) are governed by the agreement between the Customer and the GreyNoise partner.
 
 ### 2.4 Security
 
@@ -314,7 +314,7 @@ If any provision of this EULA is held by a court or other tribunal of competent 
 
 ### 11.5 Contact us
 
-All feedback, comments, requests for technical support and other communications relating to your subscription or the Platform should be directed to: [support@greynoise.io](mailto:support@greynoise.io).
+All feedback, comments, requests for technical support and other communications relating to your subscription or the Platform should be directed to: [\[email protected\]](https://www.greynoise.io/cdn-cgi/l/email-protection).
 
 Cut through the noise
 ---------------------
