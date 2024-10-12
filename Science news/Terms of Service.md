@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Navigation research often excludes the environment. That’s starting to change](https://www.sciencenews.org/article/navigation-research-exclude-environment)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")8 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")14 hours ago
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
             ### [Radioactive beams give a real-time view of cancer treatment in mice](https://www.sciencenews.org/article/radioactive-ion-cancer-treatment)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")14 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")20 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [DNA from old hair helps confirm the macabre diet of two 19th century lions](https://www.sciencenews.org/article/dna-hair-teeth-diet-lions)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")12 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")18 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Radioactive beams give a real-time view of cancer treatment in mice](https://www.sciencenews.org/article/radioactive-ion-cancer-treatment)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")14 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")20 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Saturn’s first Trojan asteroid has finally been discovered](https://www.sciencenews.org/article/saturn-first-trojan-asteroid-discovered)
             
-            By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")10 hours ago
+            By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")16 hours ago
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
