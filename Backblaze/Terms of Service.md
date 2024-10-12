@@ -318,7 +318,7 @@ You and Backblaze agree that each party may bring disputes against the other onl
 Your Right to Opt Out of Arbitration
 ------------------------------------
 
-You may opt out of the agreement to arbitrate. If you do so, neither you nor Backblaze can require the other to participate in an arbitration proceeding. To opt out, you must notify Backblaze within 90 days of the date that you first agreed to these Terms. To opt out by mail, send your written opt-out notice to this address: Backblaze, Inc.c/o Arbitration Opt-Out, 500 Ben Franklin Ct., San Mateo, CA 94401. Your written opt-out notice must include (1) your name and residence address; (2) the email address associated with your account; (3) a clear statement that you want to opt out of this arbitration agreement; (4) date sent, and (5) your signature. Alternatively, you can opt out online by fully sending an email with the above information to: legal@backblaze.com.
+You may opt out of the agreement to arbitrate. If you do so, neither you nor Backblaze can require the other to participate in an arbitration proceeding. To opt out, you must notify Backblaze within 90 days of the date that you first agreed to these Terms. To opt out by mail, send your written opt-out notice to this address: Backblaze, Inc.c/o Arbitration Opt-Out, 500 Ben Franklin Ct., San Mateo, CA 94401. Your written opt-out notice must include (1) your name and residence address; (2) the email address associated with your account; (3) a clear statement that you want to opt out of this arbitration agreement; (4) date sent, and (5) your signature. Alternatively, you can opt out online by fully sending an email with the above information to: [\[email protected\]](https://www.backblaze.com/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -372,7 +372,7 @@ The Terms may be modified from time to time. The date of the most recent revisio
 Contact
 -------
 
-We welcome all questions, concerns, and feedback you might have about these terms. If you have suggestions for us, let us know at legal@backblaze.com.
+We welcome all questions, concerns, and feedback you might have about these terms. If you have suggestions for us, let us know at [\[email protected\]](https://www.backblaze.com/cdn-cgi/l/email-protection).
 
 ‍
 
