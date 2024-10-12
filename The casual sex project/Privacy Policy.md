@@ -104,6 +104,16 @@ Oct 10 2024
 
 By **[Carolyn D. Gorman](https://admin.mi52siterestore.com/person/carolyn-d-gorman/), [Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/cognitive-behavioral-therapy-for-criminal-offending/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/universities-compete-circumvent-racial-admissions-ban.jpg)[](https://admin.mi52siterestore.com/article/no-collusion-universities-compete-to-circumvent-racial-admissions-ban/ "Read More")
+
+Commentary Education Higher Ed
+
+Oct 11 2024
+
+[No Collusion: Universities Compete to Circumvent Racial Admissions Ban](https://admin.mi52siterestore.com/article/no-collusion-universities-compete-to-circumvent-racial-admissions-ban/)
+
+By **[James Piereson](https://admin.mi52siterestore.com/person/james-piereson/), [Naomi Schaefer Riley](https://admin.mi52siterestore.com/person/naomi-schaefer-riley/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/no-collusion-universities-compete-to-circumvent-racial-admissions-ban/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/a_threat_to_fair_play_.jpg)[](https://admin.mi52siterestore.com/article/a-threat-to-fair-play/ "Read More")
 
 Commentary Culture, Governance Culture & Society, Gender Ideology, New York
@@ -133,16 +143,6 @@ Oct 04 2024
 [Why I’m So Grateful to Be an American on This Rosh Hashana](https://admin.mi52siterestore.com/article/why-im-so-grateful-to-be-an-american-on-this-rosh-hashana/)
 
 By **[Tal Fortgang](https://admin.mi52siterestore.com/person/tal-fortgang/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/why-im-so-grateful-to-be-an-american-on-this-rosh-hashana/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/how_to_balance_the_budget.jpg)[](https://admin.mi52siterestore.com/article/how-to-balance-the-budget/ "Read More")
-
-Commentary Economics Tax & Budget
-
-Oct 04 2024
-
-[How to Balance the Budget](https://admin.mi52siterestore.com/article/how-to-balance-the-budget/)
-
-By **[Chris Pope](https://admin.mi52siterestore.com/person/chris-pope/), [Andrew G. Biggs](https://admin.mi52siterestore.com/person/andrew-g-biggs/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/how-to-balance-the-budget/)
 
 Our Policy Areas
 ----------------
