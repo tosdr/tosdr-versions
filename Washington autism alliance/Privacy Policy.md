@@ -128,16 +128,6 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     October 2024
     
-    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA9AQAAAABnoa1iAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIyCoQsABMQAAeRw1DoAAAAASUVORK5CYII=)
-    
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/Pictureqwe-150x61.png)](https://washingtonautismalliance.org/events/special-education-sep2024/?occurrence=2024-10-12)
-    
-    Oct 12 2024
-    
-    #### [Blueprints to Special Education (How to build effective school services)](https://washingtonautismalliance.org/events/special-education-sep2024/?occurrence=2024-10-12) Sale has ended
-    
-    Zoom https://zoom.us (please download the app and check your internet connectivity)
-    
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
     
     ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-1-150x56.png)](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-10-14)
