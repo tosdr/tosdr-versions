@@ -167,7 +167,7 @@ You may not include links to any web site as part of your ad unless the content 
 
 **Digital Millennium Copyright Act ("DMCA") Notice:** Materials may be made available on the Site, or via the Service, by third parties not within the control of adMarketplace. We are under no obligation to, and do not, scan ads sent through the Service for the inclusion of illegal content. However, we respect the copyright properties of others. It is our policy not to permit materials known by us to be infringing to remain on the Site or the Service. You should notify us promptly if you believe any materials on the Site or the Service infringe a third party copyright. Upon our receipt of a proper notice of claimed infringement under the DMCA, we will respond expeditiously to follow the procedures specified in the DMCA to resolve the claim between the notifying party and the alleged infringer who provided the content in issue, including, where applicable and technically possible, removing or disabling access to materials claimed to be infringing or by removing or disabling access to such materials. Our designated agent (i.e. proper party) to whom you should address any DMCA notice to is: Adam Epstein, adMarketplace Inc., 1250 Broadway, 31st Floor, New York, NY 10001.
 
-**Questions:** Should you have any questions regarding this Agreement you may [contact us.](mailto:legal@admarketplace.com)
+**Questions:** Should you have any questions regarding this Agreement you may [\[email protected\]](https://www.admarketplace.com/cdn-cgi/l/email-protection)
 
 [![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64fae83a665953d8193077f4_logo-blue1.svg)](https://www.admarketplace.com/)
 
