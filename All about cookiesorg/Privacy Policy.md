@@ -208,9 +208,9 @@ _International Data Transfers_
 
 We offer EU Model Clauses, also known as Standard Contractual Clauses, to meet the adequacy and security requirements for our customers that operate in the European Union and the United Kingdom, and make transfers of Personal Information from those jurisdictions to the United States and other countries that lack adequacy determinations. Please contact us as detailed in the “Contact Us” section below for more information.
 
-### State Privacy Lawss
+### State Privacy Laws
 
-State law provides residents in Calfornia, Colorado, Connecticut, Utah, and Virginia with the additional rights described below:
+State law provides residents in Calfornia, Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia with the additional rights described below:
 
 * The right to know what Personal Information we have collected, used, disclosed, and sold about you. To submit a request to know, click on this link to visit our [web form](https://www.allaboutcookies.org/ccpa).
 * The right to request that we delete any Personal Information we have collected about you, subject to certain exceptions. To submit a request for deletion, click on this link to visit our [web form](https://www.allaboutcookies.org/ccpa).
