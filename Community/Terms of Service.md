@@ -67,7 +67,7 @@ You are not permitted to use Community (including sending messages to a Communit
 **
 ---------------------------------
 
-You must not use Community to transmit any content or data that is unlawful, that infringes any intellectual property rights, or that otherwise violates our [Acceptable Use Policy](https://www.community.com/legal/aup). If you think someone is sending messages in violation of our [Acceptable Use Policy](https://www.community.com/legal/aup), please email us at platform-integrity@community.com.Though we have no obligation to do so, we may access, review, block (including limiting Community Leaders’ ability to access messages), or delete your messages at any time and for any reason, including (i) to provide and develop Community, (ii) if we think your messages violate these Terms, (iii) you have not fully completed registration with Community and/or connected with the relevant Community Leader, and (iv) to comply with applicable law or any request or requirement of a court, law enforcement or other administrative agency or governmental body. For any messages sent or received, we do not guarantee: (a) the suitability or legality of such messages; (b) the truth or accuracy of such messages; (c) the performance or conduct of people on Community (including Community Leaders and Community Members); or (d) who a Community Leader or Community Member permits to access and use Community on their behalf.
+You must not use Community to transmit any content or data that is unlawful, that infringes any intellectual property rights, or that otherwise violates our [Acceptable Use Policy](https://www.community.com/legal/aup). If you think someone is sending messages in violation of our [Acceptable Use Policy](https://www.community.com/legal/aup), please email us at [\[email protected\]](https://www.community.com/cdn-cgi/l/email-protection) we have no obligation to do so, we may access, review, block (including limiting Community Leaders’ ability to access messages), or delete your messages at any time and for any reason, including (i) to provide and develop Community, (ii) if we think your messages violate these Terms, (iii) you have not fully completed registration with Community and/or connected with the relevant Community Leader, and (iv) to comply with applicable law or any request or requirement of a court, law enforcement or other administrative agency or governmental body. For any messages sent or received, we do not guarantee: (a) the suitability or legality of such messages; (b) the truth or accuracy of such messages; (c) the performance or conduct of people on Community (including Community Leaders and Community Members); or (d) who a Community Leader or Community Member permits to access and use Community on their behalf.
 
 **4\. Terms for Community Members**
 -----------------------------------
@@ -86,9 +86,9 @@ By sending messages to a Community Number, registering to become a Community Mem
 * some messages may not be delivered (e.g., if there is an outage on the Community or if a carrier blocks content);
 * messages sent via Community may contain links to third-party websites or apps, which may be subject to different terms and conditions and privacy practices, and we are not responsible or liable for their content, products, or services (“**Third Party Materials**”);
 * you will use only your own phone number or account when messaging a Community Leader (and if we discover that you did not use your own phone number or account, we may suspend or terminate your account access at any time); and
-* if you change or deactivate the phone number or account that you used when signing up to receive messages from a Community Leader, you will email us at help@community.com within 72 hours to update or remove your information.
+* if you change or deactivate the phone number or account that you used when signing up to receive messages from a Community Leader, you will email us at [\[email protected\]](https://www.community.com/cdn-cgi/l/email-protection) within 72 hours to update or remove your information.
 
-If you want to stop receiving messages from a particular Community Number, send a message that says STOP (case insensitive) to that Community Number. For more information about our privacy practices (including information on how to stop receiving messages from all Community Leaders), see our [Privacy Policy](https://www.community.com/privacy-policy). You may also request assistance at any time by sending a message that says HELP (case insensitive) to any Community Number or emailing us at help@community.com.
+If you want to stop receiving messages from a particular Community Number, send a message that says STOP (case insensitive) to that Community Number. For more information about our privacy practices (including information on how to stop receiving messages from all Community Leaders), see our [Privacy Policy](https://www.community.com/privacy-policy). You may also request assistance at any time by sending a message that says HELP (case insensitive) to any Community Number or emailing us at [\[email protected\]](https://www.community.com/cdn-cgi/l/email-protection).
 
 By registering with Community, you agree that Community may use your information to send you emails, text messages, and other messages, including for Community’s marketing purposes, informational purposes (such as updates to our service), and to suggest other leaders to follow.
 
@@ -116,7 +116,7 @@ We welcome and encourage you to provide us with feedback, comments, and suggesti
 **
 -----------------------------
 
-You may terminate these Terms at any time and for any reason by emailing us at us at help@community.com and asking us to delete your Community account, and we may suspend or disable your Community account and/or terminate these Terms at any time, for any reason, without advance notice. If we suspend or disable your Community account for a violation of these Terms, you must not create another Community account without our permission.
+You may terminate these Terms at any time and for any reason by emailing us at us at [\[email protected\]](https://www.community.com/cdn-cgi/l/email-protection) and asking us to delete your Community account, and we may suspend or disable your Community account and/or terminate these Terms at any time, for any reason, without advance notice. If we suspend or disable your Community account for a violation of these Terms, you must not create another Community account without our permission.
 
 Regardless of who terminates these Terms, both you and we continue to be bound by sections 3, 4, 6, and 9-16 of these Terms and any other provisions that by their nature are intended to survive termination or expiration of these Terms.  
 
@@ -131,11 +131,11 @@ DMCA Notices
 1507 7th Street, #536  
 Santa Monica CA 90401
 
-[copyright@community.com](mailto:copyright@community.com)
+[\[email protected\]](https://www.community.com/cdn-cgi/l/email-protection)
 
 Please note that if you knowingly give false, misleading, or inaccurate information regarding the existence of infringing content, we may suspend your account, and you may face other legal consequences.
 
-If we have taken down any material or content that you believe should not have been removed, you can send us a written counter-notice by email to copyright@community.com. Please be sure your counter-notice meets the DMCA requirements.
+If we have taken down any material or content that you believe should not have been removed, you can send us a written counter-notice by email to [\[email protected\]](https://www.community.com/cdn-cgi/l/email-protection). Please be sure your counter-notice meets the DMCA requirements.
 
 We may promptly terminate without notice the accounts of users who have been notified of infringing activity, including those who have had messages removed from Community at least three times (“**Repeat Infringers**”).  
 
@@ -186,7 +186,7 @@ The arbitration will be administered by the American Arbitration Association und
 
 The arbitrator’s decision will follow the terms of these Terms and will be final and binding. The arbitrator will have authority to award temporary, interim or permanent injunctive relief or relief providing for specific performance of these Terms, but only to the extent necessary to provide relief warranted by the individual claim before the arbitrator. The award rendered by the arbitrator may be confirmed and enforced in any court having jurisdiction thereof.
 
-You may opt out of this agreement to arbitrate by emailing us at accountservices@community.com with your first name, last name, phone number, and address within 30 days of accepting this agreement to arbitrate, with a statement that you decline this arbitration agreement.
+You may opt out of this agreement to arbitrate by emailing us at [\[email protected\]](https://www.community.com/cdn-cgi/l/email-protection) with your first name, last name, phone number, and address within 30 days of accepting this agreement to arbitrate, with a statement that you decline this arbitration agreement.
 
 Notwithstanding any of the foregoing, nothing in these Terms will prevent you from bringing issues to the attention of federal, state, or local agencies and, if the law allows, they can seek relief against us for you.  
 
