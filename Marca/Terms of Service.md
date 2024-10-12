@@ -1,14 +1,16 @@
  
 
 * Es noticia:
-* [Desfile 12 octubre](https://www.marca.com/tiramillas/actualidad/2024/10/12/670a2414ca4741c1338b4585.html)
+* [Giro de Lombardía](https://www.marca.com/ciclismo/clasicas-ciclismo/2024/10/12/670a5c51cf4b11615bf52b59-directo.html)
+* [Pogacar](https://www.marca.com/ciclismo/2024/10/12/670a8708e2704e705b8b45ce.html)
+* [Topuria](https://www.marca.com/tiramillas/actualidad/2024/10/12/670a53e5268e3eab6d8b45a3.html)
 * [España - Dinamarca cuándo es](https://www.marca.com/futbol/seleccion/2024/10/12/670a21d8e2704e45628b45b0.html)
 * [Alineación España - Dinamarca](https://www.marca.com/futbol/seleccion/2024/10/11/670900bcca47411c188b45a9.html)
-* [Camp Nou](https://www.marca.com/futbol/barcelona/2024/10/11/6709325a268e3e3e668b45a3.html)
+* [Cartagena - Racing de Ferrol](https://www.marca.com/futbol/laliga-hypermotion/cartagena-racing-ferrol/2024/10/12/01_0102_20241012_3554_875-directo.html)
 * [Lamine Yamal](https://www.marca.com/futbol/seleccion/2024/10/12/670a16e622601d792c8b460c.html)
 * [Cádiz Málaga horario](https://www.marca.com/futbol/segunda-division/2024/10/11/670945c022601d792c8b45c4.html)
 * [Partidazo youtubers](https://www.marca.com/videojuegos/streamers/2024/10/11/6708401a22601de3788b4571.html)
-* [Huracán Milton](https://www.marca.com/tiramillas/actualidad/2024/10/11/6709477946163fcf708b458c.html)
+* [Faro Málaga](https://www.marca.com/tiramillas/actualidad/2024/10/12/670a686446163f695f8b45b2.html)
 * [Draymond Green](https://www.marca.com/baloncesto/nba/2024/10/12/draymond-green-amigos-atravesar-pecho-klay-thompson.html)
 * [Hernán Cortés](https://www.marca.com/tiramillas/actualidad/2024/10/12/670a2312268e3e167a8b4595.html)
 * [Moneda 1 céntimo](https://www.marca.com/tiramillas/actualidad/economia/2024/10/12/67099d5f22601d586b8b457c.html)
