@@ -634,14 +634,6 @@ Aidan Vrolyk Calgary 30/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-The team was fast and efficient getting everything done
-
-Kyle Jackson Calgary 28/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Absolutely incredible service! Well priced and wonderful employees!
 
 Meg Gillies Calgary 28/09/2024
@@ -661,6 +653,14 @@ Alexandra Calgary 28/09/2024
 Super kind and fast at removing everything. Best service!
 
 Nevada Rai Calgary 28/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+The team was fast and efficient getting everything done
+
+Kyle Jackson Calgary 28/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -898,6 +898,14 @@ dawn cisler Wisconsin 05/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Very precise and timely pick up for an old mattress. Staff on phone and pickup were friendly !
+
+Julie Allen Columbus 05/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Alex and Paul were awesome
 
 Jen Chang LA Metro 05/10/2024
@@ -914,9 +922,17 @@ Damira Grady Wisconsin 05/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Very nice. Great pricing. Will use this team again.
+They were very fast, respectful and honest
 
-suz r Madison 05/10/2024
+Jessica Dyer Columbus 05/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Awesome same day service. Professional and respectful employees. Will definitely use them again!!!
+
+Ryan McElwee Columbus 05/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -930,9 +946,9 @@ Brad Leisring Cincinnati 05/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Very precise and timely pick up for an old mattress. Staff on phone and pickup were friendly !
+Very nice. Great pricing. Will use this team again.
 
-Julie Allen Columbus 05/10/2024
+suz r Madison 05/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -941,14 +957,6 @@ Julie Allen Columbus 05/10/2024
 I didn’t know what Got Junk was about, but now that I know more about the company yes I will consider using them in the future.
 
 Ronald Dale Cincinnati 05/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-They were very fast, respectful and honest
-
-Jessica Dyer Columbus 05/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -965,14 +973,6 @@ Harley Maye Austin 05/10/2024
 Paris and Luke were awesome. Came in gave a reasonable price, and took all that I needed to get rid of in a timely manner.
 
 Josh Moore Cincinnati 05/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Awesome same day service. Professional and respectful employees. Will definitely use them again!!!
-
-Ryan McElwee Columbus 05/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
