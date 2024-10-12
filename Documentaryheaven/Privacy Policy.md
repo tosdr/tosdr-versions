@@ -118,11 +118,6 @@ Advertisement
     Prisoners of Katrina
     
     n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
-    
-    Louis Theroux: Drinking To Oblivion
-    
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 * [![Amy Winehouse: What Really Happened](/wp-content/thumbnails/6033-100x70.jpg?x53432)
     
     Amy Winehouse: What Really Happened
@@ -133,34 +128,39 @@ Advertisement
     The Trials of J. Robert Oppenheimer
     
     J. Robert Oppenheimer, a man of brilliant intellect, unwavering pride, and undeniable charisma, once stood as a national hero. Guiding the United States through the crucible of World War II, he playe...](https://documentaryheaven.com/the-trials-of-j-robert-oppenheimer/ "The Trials of J. Robert Oppenheimer")
+* [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
+    
+    Canada’s woke nightmare: A warning to the West
+    
+    Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
 
 ###### Throwback Documentaries
 
-* [![Slavery in the Chocolate Industry](/wp-content/thumbnails/6740-100x70.png?x53432)
+* [![Australia’s Deadliest: Shark Coast](/wp-content/thumbnails/9869-100x70.jpg?x53432)
     
-    Slavery in the Chocolate Industry
+    Australia’s Deadliest: Shark Coast
     
-    Although slavery is no longer legal there are still millions of people living in slavery today. One place and industry where slaves still exist is the cocoa industry. This documentary takes a deeper l](https://documentaryheaven.com/slavery-in-the-chocolate-industry/ "Slavery in the Chocolate Industry")
-* [![Blind Spot](/wp-content/thumbnails/5024-100x70.jpg?x53432)
+    Western Austrailia's stunning coastline has recently been ravaged by a deadly predator, the community it appears in under siege, with beaches being closed left, right and centre, tourism as well has t](https://documentaryheaven.com/australias-deadliest-shark-coast/ "Australia’s Deadliest: Shark Coast")
+* [![Expelled: No Intelligence Allowed](/wp-content/thumbnails/2444-100x70.jpg?x53432)
     
-    Blind Spot
+    Expelled: No Intelligence Allowed
     
-    Blind Spot is a documentary that establishes the inextricable link between the energy we use, the way we run our economy and the effect it has had on our environment.It takes as a starting point t](https://documentaryheaven.com/blind-spot/ "Blind Spot")
-* [![Aleister Crowley: The Wickedest Man in the World](/wp-content/thumbnails/1791-100x70.jpg?x53432)
+    Ben Stein shows us a world where Academia’s freedom of inquiry might not be so free. This should be a concern for anyone and everyone. This undermines the concept that we will be teaching facts and tr](https://documentaryheaven.com/expelled-no-intelligence-allowed/ "Expelled: No Intelligence Allowed")
+* [![Inside the KGB: Terror of the Soviet Union](/wp-content/thumbnails/8194-100x70.jpg?x53432)
     
-    Aleister Crowley: The Wickedest Man in the World
+    Inside the KGB: Terror of the Soviet Union
     
-    Involved as a young adult in the Hermetic Order of the Golden Dawn, he first studied mysticism with and made enemies of William Butler Yeats and Arthur Edward Waite. Like many in occult circles of the](https://documentaryheaven.com/aleister-crowley-the-wickedest-man-in-the-world/ "Aleister Crowley: The Wickedest Man in the World")
-* [![Growing Pains of a Teenage Genius](/wp-content/thumbnails/10016-100x70.jpg?x53432)
+    The Committee for State Security, more commonly known by its transliteration "KGB" was the main security agency for the Soviet Union from 1954 until its collapse in 1991. The committee was a dire](https://documentaryheaven.com/inside-kgb-terror-soviet-union/ "Inside the KGB: Terror of the Soviet Union")
+* [![Sandy Hook](/wp-content/thumbnails/6956-100x70.jpg?x53432)
     
-    Growing Pains of a Teenage Genius
+    Sandy Hook
     
-    Cameron Thompson is only 13 and he has been a maths genius for as long as he can remember. At aged 10 he sat an online maths test getting every question right, at age 11 he managed to rattle through t](https://documentaryheaven.com/growing-pains-teenage-genius/ "Growing Pains of a Teenage Genius")
-* [![The Growing Pains of Ahmed And Moshe](/wp-content/thumbnails/7666-100x70.jpg?x53432)
+    From the Author: Mark Howitt takes an investigative look into the events and controversy surrounding the Sandy Hook elementary school shooting which happened on December 14th 2012. This documentary ex](https://documentaryheaven.com/sandy-hook/ "Sandy Hook")
+* [![A Man Who Delivers](/wp-content/thumbnails/7616-100x70.jpg?x53432)
     
-    The Growing Pains of Ahmed And Moshe
+    A Man Who Delivers
     
-    In the summer of 2012 we flew from Amsterdam to Tel-Aviv to meet young Israelis and Palestinians and film their stories. We made contact with youngsters in Modi'in and Ni'lin. Two villages only a few](https://documentaryheaven.com/growing-pains-ahmed-moshe/ "The Growing Pains of Ahmed And Moshe")
+    An innovative film about the daily grind for a drug dealer. Following a day in the life of a London cocaine dealer, the challenge was to build a narrative without the contributor wanting to appear on](https://documentaryheaven.com/man-who-delivers/ "A Man Who Delivers")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
