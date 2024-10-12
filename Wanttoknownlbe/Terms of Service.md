@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/het-bewijs-nieuwe-energie-technologie-bestaat/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/boeken/voeding-en-fysieke-degeneratie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
