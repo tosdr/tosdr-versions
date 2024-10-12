@@ -288,9 +288,9 @@ Cancel
 
 [Seasonal Trends](https://www.art.com/shop/wall-art/ "Seasonal Trends")
 
-[Christmas](https://www.art.com/gallery/id--b7911/christmas-posters.htm "Christmas")
-
 [Autumn Essence](https://www.art.com/gallery/id--b40375/autumn-essence-posters.htm "Autumn Essence")
+
+[Christmas](https://www.art.com/gallery/id--b7911/christmas-posters.htm "Christmas")
 
 [Fall Landscape](https://www.art.com/gallery/id--b275246/fall-landscapes-posters.htm "Fall Landscape")
 
