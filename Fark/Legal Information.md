@@ -230,11 +230,12 @@ It's Not News, It's Fark
 
 [![Fark25 Party](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want to see behind the curtain? Try
+Want more news before we break it? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+See what's behind the green door  
+and help keep the tap flowing
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +335,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Mebs: Apparently breakdancing too much can turn you into a conehead](https://www.fark.com/goto/13424042) ( [metro.co.uk](https://www.fark.com/goto/13424042) ) » [(5 comments)](https://www.fark.com/comments/13424042/Mebs-Apparently-breakdancing-too-much-can-turn-you-into-a-conehead) |
-| [Discussion](https://www.fark.com/discussion/) | [If you could, would you swap gender?](https://www.fark.com/goto/13424726) ( [upworthy.com](https://www.fark.com/goto/13424726) ) » [(27 comments)](https://www.fark.com/comments/13424726/If-you-could-would-you-swap-gender) |
-| [Sports](https://www.fark.com/sports/) | [Game 5 of the NLDS will decide who advances to play the Mets. Will it be the San Diego Padres? Or will it be the Los Angeles Dodgers? Who do you want to win? First pitch is at 8:08 PM ET on FOX](https://www.fark.com/goto/13423918) ( [espn.com](https://www.fark.com/goto/13423918) ) » [(21 comments)](https://www.fark.com/comments/13423918/Game-5-of-NLDS-will-decide-who-advances-to-play-Mets-Will-it-be-San-Diego-Padres-Or-will-it-be-Los-Angeles-Dodgers-Who-do-you-want-to-win-First-pitch-is-at-808-PM-ET-on-FOX) |
-| [Business](https://www.fark.com/business/) | [Cash-only: Cuban dictatorship creates VIP lounges in airports to revive the shattered economy](https://www.fark.com/goto/13424722) ( [aol.com](https://www.fark.com/goto/13424722) ) » [(1 comment)](https://www.fark.com/comments/13424722/Cash-only-Cuban-dictatorship-creates-VIP-lounges-in-airports-to-revive-shattered-economy) |
-| [STEM](https://www.fark.com/stem/) | [You didn't really think Elmo's bartending robots were real, right?](https://www.fark.com/goto/13424834) ( [gizmodo.com](https://www.fark.com/goto/13424834) ) » [(13 comments)](https://www.fark.com/comments/13424834/You-didnt-really-think-Elmos-bartending-robots-were-real-right) |
-| [Entertainment](https://www.fark.com/entertainment/) | ["10 Harsh Realties Of Rewatching The Wizard Of Oz" AKA: Gen-Z writer over-analyzes an 85-year-old family film](https://www.fark.com/goto/13424700) ( [msn.com](https://www.fark.com/goto/13424700) ) » [(32 comments)](https://www.fark.com/comments/13424700/-10-Harsh-Realties-Of-Rewatching-The-Wizard-Of-Oz-AKA-Gen-Z-writer-over-analyzes-an-85-year-old-family-film) |
-| [Fandom](https://www.fark.com/fandom/) | [Report: Roblox is a pedophile hellscape for kids](https://www.fark.com/goto/13424232) ( [kotaku.com](https://www.fark.com/goto/13424232) ) » [(36 comments)](https://www.fark.com/comments/13424232/Report-Roblox-is-a-pedophile-hellscape-for-kids) |
+| [Main](https://www.fark.com/) | [Article warns "illegally made dogs" are being eaten in Seattle. Springfield, Ohio, unavailable for comment](https://www.fark.com/goto/13425136) ( [mynorthwest.com](https://www.fark.com/goto/13425136) ) » [(2 comments)](https://www.fark.com/comments/13425136/Article-warns-illegally-made-dogs-are-being-eaten-in-Seattle-Springfield-Ohio-unavailable-for-comment) |
+| [Discussion](https://www.fark.com/discussion/) | [If you could, would you swap gender?](https://www.fark.com/goto/13424726) ( [upworthy.com](https://www.fark.com/goto/13424726) ) » [(54 comments)](https://www.fark.com/comments/13424726/If-you-could-would-you-swap-gender) |
+| [Sports](https://www.fark.com/sports/) | [Was that wrong? Should I not have done that?](https://www.fark.com/goto/13424772) ( [nbcnews.com](https://www.fark.com/goto/13424772) ) » [(0 comments)](https://www.fark.com/comments/13424772/Was-that-wrong-Should-I-not-have-done-that) |
+| [Business](https://www.fark.com/business/) | [Boeing crash lands with 17,000 employees onboard](https://www.fark.com/goto/13424928) ( [theverge.com](https://www.fark.com/goto/13424928) ) » [(10 comments)](https://www.fark.com/comments/13424928/Boeing-crash-lands-with-17000-employees-onboard) |
+| [STEM](https://www.fark.com/stem/) | [Old and busted: TikTok corrupts children. New hotness: Discord corrupts children](https://www.fark.com/goto/13425050) ( [dw.com](https://www.fark.com/goto/13425050) ) » [(3 comments)](https://www.fark.com/comments/13425050/Old-busted-TikTok-corrupts-children-New-hotness-Discord-corrupts-children) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Kanye East](https://www.fark.com/goto/13425068) ( [rollingstone.com](https://www.fark.com/goto/13425068) ) » [(5 comments)](https://www.fark.com/comments/13425068/Kanye-East) |
+| [Fandom](https://www.fark.com/fandom/) | [I'm also great at this](https://www.fark.com/goto/13424758) ( [kotaku.com](https://www.fark.com/goto/13424758) ) » [(9 comments)](https://www.fark.com/comments/13424758/Im-also-great-at-this) |
 | [D'awww](https://www.fark.com/dawww/) | [Northern Virginia doing their part, their shelters are taking in animal rescues from Hurricanes Helene and Milton](https://www.fark.com/goto/13424352) ( [yahoo.com](https://www.fark.com/goto/13424352) ) » [(5 comments)](https://www.fark.com/comments/13424352/Northern-Virginia-doing-their-part-their-shelters-are-taking-in-animal-rescues-from-Hurricanes-Helene-Milton) |
-| [Food](https://www.fark.com/food/) | [This is how you should be making s'mores](https://www.fark.com/goto/13424748) ( [thetakeout.com](https://www.fark.com/goto/13424748) ) » [(3 comments)](https://www.fark.com/comments/13424748/This-is-how-you-should-be-making-smores) |
-| [Politics](https://www.fark.com/politics/) | [Trump saying he was named Michigan's 'man of the year' was news to those who hand out those awards](https://www.fark.com/goto/13424590) ( [msn.com](https://www.fark.com/goto/13424590) ) » [(5 comments)](https://www.fark.com/comments/13424590/Trump-saying-he-was-named-Michigans-man-of-year-was-news-to-those-who-hand-out-those-awards) |
+| [Food](https://www.fark.com/food/) | [Bear on the grill? Not a great idea](https://www.fark.com/goto/13424718) ( [arstechnica.com](https://www.fark.com/goto/13424718) ) » [(7 comments)](https://www.fark.com/comments/13424718/Bear-on-grill-Not-a-great-idea) |
+| [Politics](https://www.fark.com/politics/) | [Take him to Detroit](https://www.fark.com/goto/13424896) ( [youtube.com](https://www.fark.com/goto/13424896) ) » [(16 comments)](https://www.fark.com/comments/13424896/Take-him-to-Detroit) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +354,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 11 2024 21:43:53  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 12 2024 03:43:43  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
