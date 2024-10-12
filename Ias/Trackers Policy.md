@@ -236,6 +236,8 @@ This Cookie Policy governs the use of cookies and social media plugins by the **
 * [Scientology Newsroom](http://www.scientologynews.org/)
 * [Scientology Volunteer Ministers](http://www.volunteerministers.org/)
 * [Scientology Online Courses](http://www.scientologycourses.org/)
+* [David Miscavige](https://www.davidmiscavige.org/)
+* [Religious Technology Center](https://www.rtc.org/)
 * [The Way to Happiness](http://www.thewaytohappiness.org/)
 * [Criminon](https://www.criminon.org/)
 * [Narconon](http://www.narconon.org/)
