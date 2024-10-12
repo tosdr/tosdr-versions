@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Wanderlust; Act of Valor; Gone; Tyler Perry's Good Deeds; The Secret World of Arrietty](https://www.somethingawful.com/current-movie-reviews/wanderlust-act-valor/1/)
-* [The Secret Life of Walter Mitty; Out of the Furnace; The Book Thief](https://www.somethingawful.com/current-movie-reviews/secret-walter-mitty/1/)
-* [Miiverse Highlights!](https://www.somethingawful.com/comedy-goldmine/nintendo-posts-preteens/)
-* [Choose Your Own Adventure Books That Never Quite Made It](https://www.somethingawful.com/comedy-goldmine/choose-your-own/1/)
-* [Rape Board and Eka's Portal](https://www.somethingawful.com/weekend-web/rape-vore-forum/1/)
+* [Glitch Faces!](https://www.somethingawful.com/photoshop-phriday/glitch-faces-gifs/1/)
+* [ScribblerToo is Some Kind of Magic!](https://www.somethingawful.com/comedy-goldmine/scribblertoo-scary-stories/1/)
+* [Banker.Bmp, Part 2!](https://www.somethingawful.com/photoshop-phriday/photoshop-phriday-banker2/)
+* [American Cheerleader, The Gladiator Zone, Unleashed, and Steam](https://www.somethingawful.com/weekend-web/american-cheerleader-gladiator/1/)
+* [Casca and His Hats, Again!](https://www.somethingawful.com/photoshop-phriday/casca-again-mercenary/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [Frank talk about urine](http://forums.somethingawful.com/showthread.php?threadid=4072519 "Frank talk about urine")
 * ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [all your wildest dreams are about to come true](http://forums.somethingawful.com/showthread.php?threadid=4072500 "all your wildest dreams are about to come true")
-* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [ITT it is the 1990s and we are watching TV at 2AM](http://forums.somethingawful.com/showthread.php?threadid=4072465 "ITT it is the 1990s and we are watching TV at 2AM")
 
 ### Random Articles
 
-* [The IC/B2E](https://www.somethingawful.com/awful-links/awful-link-1882/)
-* [Charlie-Barkin](https://www.somethingawful.com/awful-links/awful-link-3995/)
-* [Sponsored Links From Around the Web](https://www.somethingawful.com/news/sponsor-around-web/)
-* [Margo Joy (Thanks, Mark!)](https://www.somethingawful.com/awful-links/margo-joy-music/)
-* [The Voice Of The Internet- Death Threat](https://www.somethingawful.com/flash-tub/voice-cartoon-death/)
+* [Fireaxe - Lovecraftian Nightmares](https://www.somethingawful.com/awful-links/awful-link-752/)
+* [February 11, 2008](https://www.somethingawful.com/forum-fridays/ff02-11-08/1/)
+* [Your Guide to Tomorrow's Olympics Coverage](https://www.somethingawful.com/guides/olympics-schedule-2012/)
+* [Le Steve Gourmet](https://www.somethingawful.com/news/le-steve-gourmet/)
+* [The Nuge Board, Panty Hog and Quizilla](https://www.somethingawful.com/weekend-web/nuge-board-panty/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
