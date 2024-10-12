@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-2b84b2b7637238c49f6da0c806ec06f1
+3f88c0372c106f8989999ffb91d87c28
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![14 mm purple coin pearls](https://www.sojourner.biz/images/cache/pearls/PE0206.200.jpg)](https://www.sojourner.biz/beads/pearls/14-mm-purple-coin-pearls.html "14 mm purple coin pearls")
+[![Onyx bracelet](https://www.sojourner.biz/images/cache/jewelry/BR0036.200.webp)](https://www.sojourner.biz/jewelry/bracelets/onyx-bracelet.html "Onyx bracelet")
 
-#### [14 mm purple coin pearls](https://www.sojourner.biz/beads/pearls/14-mm-purple-coin-pearls.html "14 mm purple coin pearls")
+#### [Onyx bracelet](https://www.sojourner.biz/jewelry/bracelets/onyx-bracelet.html "Onyx bracelet")
 
-$25.00
+$10.00
 
 ### Best Sellers
 
