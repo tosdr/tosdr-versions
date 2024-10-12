@@ -252,6 +252,7 @@ Select a School
 * [Euphoria to Buzzworthy Training Site](https://www.browardschools.com/Domain/10025)
 * [Gulfstream Early Learning Center](https://www.browardschools.com/Domain/243)
 * [Sandbox Site](https://www.browardschools.com/Domain/10115)
+* [Emergency Information and Resources](https://www.browardschools.com/Domain/17744)
 
 [Sign In](https://www.browardschools.com/site/Default.aspx?PageType=7&SiteID=4&IgnoreRedirect=true)
 
@@ -784,6 +785,14 @@ Our Schools
     * [Resources](https://www.browardschools.com/domain/13676)
     * [Forms](https://www.browardschools.com/domain/13677)
     * [Contact Us](https://www.browardschools.com/domain/13678)
+* [WCM Training](https://www.browardschools.com/domain/14074)
+    
+    "
+    
+    * [Train. Build. Explain.](https://www.browardschools.com/domain/14074)
+    * [Re-Builds No Left Nav](https://www.browardschools.com/domain/14075)
+    * [CSS Inspiration Sites](https://www.browardschools.com/domain/14107)
+    * [Informational](https://www.browardschools.com/domain/16818)
 * [Website Administrator Resources](https://www.browardschools.com/domain/12655)
     
     "* [Testing Channel](https://www.browardschools.com/domain/25356)
