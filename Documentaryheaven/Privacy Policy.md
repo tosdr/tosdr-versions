@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Boy Interrupted](/wp-content/thumbnails/10322-100x70.jpg?x53432)
+* [![A Cry for Innocence](/wp-content/thumbnails/6970-100x70.jpg?x53432)
     
-    Boy Interrupted
+    A Cry for Innocence
     
-    Boy Interrupted is a HBO film that examines the life of Evan Perry a 15 year old boy from New York who took his own life in 2005. This film which was made by his parents Dana and Hart looks at how Eva](https://documentaryheaven.com/boy-interrupted/ "Boy Interrupted")
-* [![Nissan GTR](/wp-content/thumbnails/8454-100x70.jpg?x53432)
+    Damien Echols, 35, has spent his entire adult life on Arkansas’ death row. Every day, he faces the possibility of execution. But there is a bright spot in his life.Lorri (his wife) is familiar wit](https://documentaryheaven.com/a-cry-for-innocence/ "A Cry for Innocence")
+* [![Seven Wonders of the Microbe World (combined)](/wp-content/thumbnails/6259-100x70.jpg?x53432)
     
-    Nissan GTR
+    Seven Wonders of the Microbe World (combined)
     
-    Designed to rival Porsche and Ferrari with speeds exceeding 300km/hr and an acceleration of 0 to 100km/hr in 2.8 seconds, Nissan GTR is the ultimate Japanese super car. With a design that is uniquely](https://documentaryheaven.com/nissan-gtr/ "Nissan GTR")
-* [![Failed Inventions](/wp-content/thumbnails/1104-100x70.jpg?x53432)
+    From black death to cholera, microbes have been resonsible for some of the worlds most devastating diseases. But at the same time this tiny single cell organisms have aided our survival on earth helpi](https://documentaryheaven.com/seven-wonders-of-the-microbe-world-combined/ "Seven Wonders of the Microbe World (combined)")
+* [![Cash for Kim](/wp-content/thumbnails/12305-100x70.jpg?x53432)
     
-    Failed Inventions
+    Cash for Kim
     
-    The world always had its share of dreamers, tinkerers and inventors. Some who have had great ideas, but many more who had missed the mark. Some were ahead of there times, others ideas were just plain](https://documentaryheaven.com/failed-inventions/ "Failed Inventions")
-* [![Blind Spot](/wp-content/thumbnails/5024-100x70.jpg?x53432)
+    In 2014 a welder working on a large shipyard located in Gdynia, Poland, died in an on-the-job accident. His death lead to an investigation which discovered that the victim was actually an immigrant fr](https://documentaryheaven.com/cash-for-kim/ "Cash for Kim")
+* [![The Power and the Glory](/wp-content/thumbnails/8630-100x70.jpg?x53432)
     
-    Blind Spot
+    The Power and the Glory
     
-    Blind Spot is a documentary that establishes the inextricable link between the energy we use, the way we run our economy and the effect it has had on our environment.It takes as a starting point t](https://documentaryheaven.com/blind-spot/ "Blind Spot")
-* [![Cops and Robbers](/wp-content/thumbnails/14080-100x70.jpg?x53432)
+    In this journey to the graves of great leaders and heroes dark secrets will emerge.Why was the burial casket of a murdered president cast deep into the atlantic ocean? Could a pit in Syberia hide](https://documentaryheaven.com/power-and-glory/ "The Power and the Glory")
+* [![Supermarket Secrets](/wp-content/thumbnails/833-100x70.jpeg?x53432)
     
-    Cops and Robbers
+    Supermarket Secrets
     
-    Corey Pegues is Retired NYPD Commander turned author, he grew up in Jamaica, Queens during the 70's and 80's, a rough time for New York with regards to drug related crime. As a kid he played Cops and](https://documentaryheaven.com/cops-and-robbers/ "Cops and Robbers")
+    How and what we eat has radically changed over the past few decades with the all-consuming rise of the supermarket. But what price are we pa...all » How and what we eat has radically changed over the](https://documentaryheaven.com/dispatches-supermarket-secrets/ "Supermarket Secrets")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
