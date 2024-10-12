@@ -31,31 +31,162 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Cartas a Quito / 12 de octubre de 2024
-======================================
+¿Qué se conmemora el 12 de octubre?
+===================================
 
-Estas son las cartas a Quito de este sábado 12 de octubre de 2024
------------------------------------------------------------------
+En Ecuador, desde el 2011 cada 12 de octubre se conmemora el Día de la Interculturalidad y la Pluriculturalidad para reivindicar la diversidad.
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+![Cada 12 de octubre en Ecuador se celebra el 'Día de la Interculturalidad y Pluriculturalidad'. Foto: Gobernacion de Santo Domingo de los Tsachilas.](https://www.elcomercio.com/wp-content/uploads/2022/10/Dia-interculturalidad.jpg)
 
-“Camino a Carapungo voy”…Calderón la parroquia más grande del Ecuador
----------------------------------------------------------------------
+El **12 de octubre** de **1492** fue el día en el que llegaron las **carabelas** de **Cristóbal** **Colón** a América. A este hecho histórico antes se lo denominaba como el **Descubrimiento de América**.
 
-Asentada en la parte Norte de la Meseta de Guangüiltagua, según los registros históricos nace con el asentamiento ancestral de Carapungo, esta palabra de la lengua quichua,  está formada por los términos  “cara”, y “pungu”, que significa Puerta de los Caras,  poblada con asentamientos de “Zambizas, Cotocollaos, Pillajos, Pomasquis”, acoge a 5 comunas  descendientes del pueblo Quitus Caras: Llano Grande, La Capilla, San Miguel del Común, Oyacoto y Santa Anita. Pero el 9 de agosto de 1897, en  la presidencia del General Eloy Alfaro, “Carapungo”, siendo parte de la parroquia de Zámbiza, fue elevada a la categoría de parroquia con el nombre de Calderón en honor al héroe ecuatoriano Abdón Calderón. Pero la gente nativa decidió quedarse con el antiguo nombre de Carapungo y hoy es conocido como el barrio más antiguo de esta parroquia que  ha ido creciendo sustantivamente y  hasta tiene una canción… “Simiruco” (alegre)… “Camino a Carapungo voy… indio de Llano Grande, soy… Simiruquito por ahí, Simiruquito por allá”… precioso este aire típico.  Calderón cuenta con 132 barrios, según el Informe de Participación ciudadana del proceso de delimitación de barrios, actualizado en febrero del 2022, pero faltan  ingresar  unos 60 barrios aproximadamente. Calderón  es  la parroquia más Grande y poblada del País y del Distrito Metropolitano de Quito. Se ha convertido en una plataforma de vivienda asequible y alberga a migrantes de las provincias del Norte  y de todo el Ecuador. Cuando hicieron la Panamericana Norte en 1930, Calderón quedó dividida en dos partes y la falta de planificación en la apertura de calles en cuadras a la redonda no ha permitido el desplazamiento de la movilidad, especialmente en la parte occidental.  Pero el día 6 de octubre del 2024 entregó la Prefecta Paola Pavón como obra del Consejo Provincial, la prolongación de la vía Pío XII, la misma que permite una gran descongestión vehicular, uniendo las parroquias circunvecinas, Calderón,  Pusuquí y el Noroccidente, así como muchísimos  barrios  el Bicencentario, San Miguel del Común, San Juan, San José de Morán, etc.  Entrar a Calderón por Carapungo demandaba unos 30 minutos o más, hoy por esta se hace vía 10 m. desde la Simón Bolívar. 
+### Más noticias
 
-Mariana de Jesús Tobar Arce
+* [¿Qué se celebra el 9 de octubre en Ecuador y en el mundo?](https://www.elcomercio.com/tendencias/cultura/9-octubre-celebracion-independencia-guayaquil-efemerides.html "¿Qué se celebra el 9 de octubre en Ecuador y en el mundo? ")
+* [Celebra el Día de la Sonrisa con alegría y optimismo](https://www.elcomercio.com/tendencias/curiosidades/dia-sonrisa-efemeride-historia.html "Celebra el Día de la Sonrisa con alegría y optimismo ")
 
-Debe haber luz de 6:00 a 10:00, de 12:30 a 14:30 y de 16:30 a 22:30
--------------------------------------------------------------------
+El objetivo de la flota de Colón era llegar a las **Indias**, pero luego de una larga travesía arribaron a la **isla Guanahaní,** ubicada en las **Bahamas**. Con el descubrimiento de **pueblos aborígenes** de **América**, llegó la colonización española. Los **indígenas** fueron **esclavizados**, **evangelizados**. A algunos los **asesinaron** las tropas españolas.
 
-En lugar de apagar por 10 horas seguidas la luz al sector industrial, que utiliza el 25% de la energía eléctrica, para poder planificar sus turnos de trabajo se puede mantener el servicio de luz de 6:00 a 10:00, de 12:30 a 14:30 y de 16:30 a 22:30, y cada tres horas en las madrugadas -para evitar que se descompongan los alimentos congelados- mientras las empresas importan sus propios generadores eléctricos. Con un esquema así, se evitará además congestionar aún más el tráfico por la falta de semáforos en entradas y salidas de las instituciones educativas. Además, no se afectará el horario destinado a los adultos mayores y personas vulnerables para su aseo, alimentación y para estar debidamente informados -una de sus mayores distracciones- a través de los medios de comunicación.
+El 12 de octubre, a nivel hispanohablante, se lo conoce como **Día de la Hispanidad** o también como Día de la Raza. En Ecuador, en cambio, se estableció que durante esa fecha se conmemora a las **comunidades nacionales** y sus culturas.
 
-Mientras la naturaleza ayuda a alcanzar, con los tapones que se construyan para embalses, las cotas máximas de agua en las plantas hidroeléctricas, los ecuatorianos debemos reducir nuestro consumo de electricidad, que ‘ha aumentado en los últimos días un 6%’ según han señalado las autoridades, cambiando por ejemplo para el día los horarios de los partidos de fútbol, donde se utiliza excesiva energía eléctrica. Hasta que se pueda reforzar la matriz energética con nuevos proyectos hidroeléctricos o eólicos, el gobierno puede promover los ‘micro proyectos solares’, aprovechando que Ecuador goza de 12 horas diarias de luz solar. De adoptarse este esquema para todo el país, sin horarios diferenciados, no se afectará al empleo por el cierre de empresas y pequeños y medianos negocios, incluyendo restaurantes, teatros, y circuitos de atractivos turísticos, que deben funcionar por la noche -con estratégicas desconexiones eléctricas voluntarias, y no se exacerbará los ‘tiempos muertos de transportación’ por el caos vehicular que se agrava por la falta de semáforos.
+La conmemoración en Ecuador
+---------------------------
 
-Frente a la molestia generalizada por este lamentable retroceso, que aumenta la inseguridad y disminuye el ingreso de turistas a nuestro país, las empresas, que precisan par de horas extras de luz para que se enciendan -y al final de la jornada se enfríen- sus equipos, deben disponer urgentemente la importación para que colaboren con sus propios generadores eléctricos, para no tener que modificar un esquema horario como el propuesto, y todos, sector industrial, comercial y residencial dejemos de sentir la incertidumbre con los cortes con horarios cambiantes. Si podemos organizarnos, hasta que empecemos a caminar por senderos de mayor certidumbre.
+Desde octubre de 2011, mediante el [Decreto Ejecutivo 910](https://www.culturaypatrimonio.gob.ec/dia-de-la-interculturalidad-y-plurinacionalidad/#:~:text=El%2012%20de%20octubre%2C%20debe,las%20m%C3%A1s%20diversas%20del%20pa%C3%ADs. "https://www.culturaypatrimonio.gob.ec/dia-de-la-interculturalidad-y-plurinacionalidad/#:~:text=El%2012%20de%20octubre%2C%20debe,las%20m%C3%A1s%20diversas%20del%20pa%C3%ADs."), el 12 de octubre se conmemora el Día de la Interculturalidad y la Pluriculturalidad. Hasta el 2010 se homenajeaba el **Día de la Raza** y **Día de la Amazonía**, este último porque en 1542, Francisco de Orellana descubrió el **Río Amazonas.**
 
-Diego Fabián Valdivieso Anda
+Según el **Ministerio de Cultura y Patrimonio,** esta fecha sirve de “reivindicación y reconocimiento de la diversidad  cultural del Ecuador… Comprender y  visibilizar el proceso del coloniaje vivido por  los pueblos indígenas de América, desde hace más de 500 años”.
+
+En Ecuador, existen **17 pueblos y nacionalidades** ubicada en la **Costa, Sierra y Amazonía.**
+
+Controversia
+------------
+
+La celebración del 12 de octubre, conocida en muchos países de América Latina como el “**Día de la Raza”**, ha generado controversias y debates a lo largo del tiempo. Este día conmemora la llegada de Cristóbal Colón al continente americano en 1492, un evento que marcó el inicio del contacto entre **Europa y América**. Sin embargo, su significado ha sido objeto de **reinterpretaciones** y **críticas**.
+
+Para muchos, el 12 de octubre representa el inicio de un periodo de **colonización**, explotación y genocidio de los pueblos originarios. El encuentro entre los dos mundos **no fue pacífico** y, tras la llegada de los colonizadores europeos, las culturas indígenas enfrentaron la **imposición de sistemas políticos**, religiosos y económicos que devastaron sus sociedades.
+
+En este sentido, movimientos sociales y comunidades indígenas en distintos países han impulsado el **rechazo** a la **conmemoración** de la fecha, argumentando que es un recordatorio de opresión y sufrimiento.
+
+Por otro lado, algunos gobiernos y sectores defienden el 12 de octubre como una fecha para celebrar la **diversidad cultural y el mestizaje**, señalando que este día simboliza la mezcla de culturas que hoy conforman la identidad latinoamericana.
+
+No obstante, en las últimas décadas, varios países han cambiado el nombre y el enfoque de la festividad, optando por celebraciones que reconozcan la **resistencia indígena o la diversidad cultural**, en un esfuerzo por ofrecer una visión más inclusiva y crítica de la historia.
+
+* [Eventos en Quito por el Día del pasillo ecuatoriano](https://www.elcomercio.com/tendencias/entretenimiento/eventos-quito-dia-pasillo-ecuatoriano.html "Eventos en Quito por el Día del pasillo ecuatoriano")
+* [Dia Internacional de los Afrodescendientes se celebra el 31 de agosto](https://www.elcomercio.com/tendencias/sociedad/dia-internacional-afrodescendientes-celebra-31-agosto.html "Dia Internacional de los Afrodescendientes se celebra el 31 de agosto")
+
+¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?
+=====================================================================
+
+La Tricolor visitará a Uruguay en las eliminatorias sudamericanas al Mundial 2026. ¿Cuándo juega la Selección de Ecuador?
+-------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-55-1.jpg)
+
+La **Selección de Ecuador** se prepara para su próximo desafío en las eliminatorias sudamericanas al Mundial 2026. ¿Cuándo juega la **Selección de Ecuado**r en **eliminatorias sudamericanas**?
+
+Después de un empate sin goles contra Paraguay el 10 de octubre de 2024, la Tri se mantiene en el cuarto lugar de la tabla, con 12 puntos en nueve partidos.
+
+Este resultado en el estadio **Rodrigo Paz Delgado** marca el primer empate bajo el mando del entrenador argentino **Sebastián Beccacece**, quien asumió el cargo en agosto.
+
+### Más noticias:
+
+* [‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador](https://www.elcomercio.com/deportes/chito-vera-moises-caicedo-seleccion-ecuador.html "‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador")
+* [¿Cuándo juega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-eliminatorias-mundial-2026.html "¿Cuándo juega la Selección de Ecuador ante Uruguay?")
+* [La Selección de Ecuador conserva el cuarto puesto de eliminatorias](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador conserva el cuarto puesto de eliminatorias")
+
+Antes, con **Beccacece**, Ecuador logró un triunfo ante Perú (1-0) y perdió ante Brasil (1-0).
+
+¿Cuándo jugará Ecuador ante Uruguay?
+------------------------------------
+
+Ecuador ahora centra su atención en su próximo encuentro contra Uruguay, programado para el martes 15 de octubre a las 18:30 en el histórico estadio Centenario de Montevideo.
+
+Este será un reto significativo, ya que la Tri busca mantenerse en zona de clasificación en las eliminatorias para el Mundial del 2026.
+
+La última visita de Ecuador fue con derrota 
+--------------------------------------------
+
+El 9 de septiembre de 2021 la Selección de Ecuador, con Alfaro como su entrenador, fue derrotada 1-0 por Uruguay en la décima jornada de las **eliminatorias al Mundial Catar 2022.** 
+
+Por primera vez este encuentro se disputó en el estadio Campeón del Siglo, escenario que pertenece a Peñarol, equipo en el que brilló el delantero ecuatoriano Alberto Spencer en la década de los 60. 
+
+La ‘Tri’ le planteó una dura resistencia a los ‘charrúas’ que recién en el minuto 90+2’ marcó el único tanto por intermedio de Gastón Pereiro. 
+
+Ecuador con Beccacece
+---------------------
+
+Bajo la dirección de **Beccacece**, Ecuador ha mostrado un juego sólido, especialmente en defensa, pero ahora necesita encontrar la manera de ser más efectivo en el ataque para aprovechar las oportunidades.
+
+Uruguay vs. Ecuador
+-------------------
+
+El partido entre Uruguay y Ecuador se realizará el martes 15 de octubre del 2024, desde las 18:30 de Ecuador.
+
+Se jugará en el estadio Centenario de Montevideo.
+
+El cometa Tsuchinshan nos lleva de regreso al origen del Sistema Solar 
+=======================================================================
+
+El cometa Tsuchinshan se acercará a la Tierra, lo que significará un espectáculo celestial único.
+-------------------------------------------------------------------------------------------------
+
+![El cometa Tsuchinshan es más que un espectáculo visual; es una ventana al pasado de nuestro Sistema Solar. Foto: es.wired.com.](https://www.elcomercio.com/wp-content/uploads/2024/10/Cometa-Tsuchinshan.jpg)
+
+El **cometa Tsuchinshan**, oficialmente conocido como **C/2023 A3 Tsuchinshan-ATLAS**, fue descubierto en 2023 por el **Observatorio de Tsuchinshan en China**.  
+
+### Más noticias
+
+* [Calendario de los eventos astronómicos más importantes de este 2024](https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html "https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html") 
+* [La ciencia detrás del equinoccio y lo que se debe tener en cuenta](https://www.elcomercio.com/tendencias/ciencia/equinoccio-septiembre-astronomia-clima.html "https://www.elcomercio.com/tendencias/ciencia/equinoccio-septiembre-astronomia-clima.html") 
+
+Este cometa es un **remanente helado del sistema solar primitivo**, compuesto principalmente de hielo y polvo. Su descubrimiento ha capturado la atención de astrónomos y entusiastas del cielo por igual, debido a su **potencial para convertirse en uno de los cometas más brillantes** visibles desde la Tierra en los últimos años, según informa la página [Astronomy](https://www.astronomy.com/observing/comet-tsuchinshan-atlas-may-soon-become-bright/ "https://www.astronomy.com/observing/comet-tsuchinshan-atlas-may-soon-become-bright/"). 
+
+**Características y trayectoria del cometa Tsuchinshan** 
+---------------------------------------------------------
+
+El **cometa Tsuchinshan** tiene un núcleo de aproximadamente 3 kilómetros de diámetro. A medida que se acerca al Sol, el calor provoca que el hielo se sublime,lo que crea una atmósfera difusa conocida como coma, y una cola que puede extenderse millones de kilómetros en el espacio. Este fenómeno, según [The New York Times](https://www.nytimes.com/2024/10/08/science/comet-tsuchinshan-atlas.html "https://www.nytimes.com/2024/10/08/science/comet-tsuchinshan-atlas.html"), es lo que hace que **los cometas sean visibles desde la Tierra**.  
+
+**El perihelio del cometa** 
+----------------------------
+
+De acuerdo con el **[Observatorio Astronómico de Quito](https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/647-boletin-de-prensa-el-beso-cosmico-del-cometa-tsuchinshan-atlas "https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/647-boletin-de-prensa-el-beso-cosmico-del-cometa-tsuchinshan-atlas")**, el cometa alcanzó su perihelio, el punto más cercano al Sol, el 27 de septiembre de 2024. En octubre se vuelve **visible a simple vista**, con una magnitud de hasta 0,4, lo que lo hace tan brillante como muchas estrellas. Sin embargo, **su visibilidad depende de su comportamiento antes de llegar al Sol y de si sobrevive a ese acercamiento**. 
+
+**Visibilidad en octubre** 
+---------------------------
+
+El 27 de octubre, **será visible desde el Ecuador continental** hacia el este, en la constelación del Sextante, con una magnitud de 0,8. Aunque **se podrá observar sin telescopio**, se sugiere usar uno pequeño para obtener una mejor vista. 
+
+**Observación óptima en octubre** 
+----------------------------------
+
+El **12 de octubre de 2024, el mejor momento para observarlo** será entre las 18:20 y las 18:38, al mirar hacia el oeste, **justo después de la puesta de sol**, en la constelación de Virgo. Si las condiciones climáticas lo permiten, se podrá apreciar una larga y brillante cola. 
+
+Trabajos en la Ecovía y la complicación en el túnel Guayasamín
+==============================================================
+
+Toda obra pública incomoda, aunque traiga beneficios. En la Ecovía viajan 120 00 personas diarias; por el túnel, 35 000 vehículos.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Los trabajos en la Ecovía a la altura de la avenida Guayasamín complicará el tránsito en esta zona del norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/guayasamin-editorial-vale.jpg)
+
+Los trabajos para la rehabilitación vial de los carriles exclusivos de la **Ecovía** de Quito han generado un sinnúmero de inconvenientes para los quiteños y más todavía al comenzarlos a la altura del túnel Guayasamín. Y con ellos llegan los reclamos. En verdad, las intervenciones han provocado una **congestión** mayor en una ciudad que ya de por sí vive complicaciones de tránsito que **exasperan el ánimo de la ciudadanía.**
+
+Sin embargo, en esta ciudad y en cualquier otra del mundo, **la obra pública siempre será incómoda** porque altera el ritmo cotidiano del sector en donde se realice. Al ser una ciudad estrecha, muchas obras extienden las complicaciones a una distancia aún mayor de lo que ocurriría en urbes más redondas o cuadradas, si caben los términos.
+
+**El lunes 14 de octubre del 2024** será el primer día laboral durante la intervención en la **Ecovía** a la altura de la **Plaza Argentina** y que deberá terminar el **20 de este mes.** Solamente por el **túnel Guayasamín** pasan al menos **35 000 vehículos diarios**. Además, allí confluyen miles de automóviles que usan la av. **Seis de Diciembre** y la **De los Shyris**. En un día cualquiera, durante las horas picos, largas columnas de vehículos pasan muchos minutos esperando salir de un atolladero insoportable.
+
+Se presume que el **tránsito** se complicará aún más en estos **10 días**. Ya hay reclamos anticipándose a lo que vendrá, pues **toda obra pública es incómoda,** molesta, aunque después pueda traer beneficios y mejoras. Para muchos, en cambio, no parece que este sea el caso. Sin embargo, es una obra que **beneficiaría a los 120 000 pasajeros** que usan la **Ecovía** diariamente. Es casi el doble de quienes cruzarían el túnel Guayasamín **si en cada automóvil viajaran dos personas**, algo que no ocurre.
+
+> La conexión con los valles es uno de los serios problemas que tiene la ciudad. Además, se carece de un sistema de transporte que aliente a que más usuarios lo usen. La Ciudad debe pensar en un plan urgente de transportación masiva que vaya más allá del Metro y que apunte, además, a los valles, como los de Tumbaco, Los Chillos y de San Antonio.
+
+Para ello, debe pensarse en **obras de magnitud mayor,** de **grandes presupuestos**, una **obra pública de largo aliento** en su ejecución y, por tanto, generarán una incomidad aún más grande. Sin embargo, el Metro es un ejemplo de cómo su construcción, que complicó el tránsito por mucho tiempo, dejó finalmente enormes beneficios para la Ciudad.
+
+Quizá a eso estén apuntando los reclamos ciudadanos por las obras en la **Plaza Argentina**. Muchos no sienten como una mejora a la movilidad. No se ve que haya un plan de vialidad mayor. Hay proyectos que se han planteado desde varios años atrás, pero poco se avanca hacia su consolidación. Quedan como buenas ideas que padecen el sueño de los justos.
+
+Debe ser complejo pensar en un **plan integral en una ciudad con una geografía tan complicada** como la de Quito. La solución siempre será un transporte público eficiente. Debe ser saludabe, es decir no tan contaminante como los **buses que tiznan las paredes** de las casas por el humo que emanan desde sus tubos de escape. Debe ser segura, no solamente en cuanto a robos y hurtos, sino con choferes responsables en el ejercicio de su profesión.
+
+Hay un reclamo que podría tener sentido. ¿Cuáles son las razones por las que la obra pública se ejecuta cuando llueve y hay clases? ¿Por qué no la hicieron durante las vacaciones, cuando hay menos vehículos y el clima es seco? Pero no tiene menos sentido que la obra pública, cualquiera que fuese, incomoda. **La zona de la Plaza Argentina tendrá unos días complicados y el humor de sus usuarios se pondrá a prueba.**
 
 La magia en la campaña electoral
 ================================
@@ -167,6 +298,32 @@ Consejos para realizar de mejor manera la receta de arroz con menestra de fréjo
 * Un toque de **cilantro** fresco picado sobre la **menestra** justo antes de servir realzará su **aroma** y sabor. Es un toque final **sencillo** pero muy **efectivo**.
 
 Con estos consejos, lograrás una **menestra sabrosa**, **un arroz bien cocido y una carne jugosa**, haciendo de este plato una verdadera celebración de la cocina ecuatoriana. ¡Buen provecho!
+
+Cartas a Quito / 12 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este sábado 12 de octubre de 2024
+-----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+“Camino a Carapungo voy”…Calderón la parroquia más grande del Ecuador
+---------------------------------------------------------------------
+
+Asentada en la parte Norte de la Meseta de Guangüiltagua, según los registros históricos nace con el asentamiento ancestral de Carapungo, esta palabra de la lengua quichua,  está formada por los términos  “cara”, y “pungu”, que significa Puerta de los Caras,  poblada con asentamientos de “Zambizas, Cotocollaos, Pillajos, Pomasquis”, acoge a 5 comunas  descendientes del pueblo Quitus Caras: Llano Grande, La Capilla, San Miguel del Común, Oyacoto y Santa Anita. Pero el 9 de agosto de 1897, en  la presidencia del General Eloy Alfaro, “Carapungo”, siendo parte de la parroquia de Zámbiza, fue elevada a la categoría de parroquia con el nombre de Calderón en honor al héroe ecuatoriano Abdón Calderón. Pero la gente nativa decidió quedarse con el antiguo nombre de Carapungo y hoy es conocido como el barrio más antiguo de esta parroquia que  ha ido creciendo sustantivamente y  hasta tiene una canción… “Simiruco” (alegre)… “Camino a Carapungo voy… indio de Llano Grande, soy… Simiruquito por ahí, Simiruquito por allá”… precioso este aire típico.  Calderón cuenta con 132 barrios, según el Informe de Participación ciudadana del proceso de delimitación de barrios, actualizado en febrero del 2022, pero faltan  ingresar  unos 60 barrios aproximadamente. Calderón  es  la parroquia más Grande y poblada del País y del Distrito Metropolitano de Quito. Se ha convertido en una plataforma de vivienda asequible y alberga a migrantes de las provincias del Norte  y de todo el Ecuador. Cuando hicieron la Panamericana Norte en 1930, Calderón quedó dividida en dos partes y la falta de planificación en la apertura de calles en cuadras a la redonda no ha permitido el desplazamiento de la movilidad, especialmente en la parte occidental.  Pero el día 6 de octubre del 2024 entregó la Prefecta Paola Pavón como obra del Consejo Provincial, la prolongación de la vía Pío XII, la misma que permite una gran descongestión vehicular, uniendo las parroquias circunvecinas, Calderón,  Pusuquí y el Noroccidente, así como muchísimos  barrios  el Bicencentario, San Miguel del Común, San Juan, San José de Morán, etc.  Entrar a Calderón por Carapungo demandaba unos 30 minutos o más, hoy por esta se hace vía 10 m. desde la Simón Bolívar. 
+
+Mariana de Jesús Tobar Arce
+
+Debe haber luz de 6:00 a 10:00, de 12:30 a 14:30 y de 16:30 a 22:30
+-------------------------------------------------------------------
+
+En lugar de apagar por 10 horas seguidas la luz al sector industrial, que utiliza el 25% de la energía eléctrica, para poder planificar sus turnos de trabajo se puede mantener el servicio de luz de 6:00 a 10:00, de 12:30 a 14:30 y de 16:30 a 22:30, y cada tres horas en las madrugadas -para evitar que se descompongan los alimentos congelados- mientras las empresas importan sus propios generadores eléctricos. Con un esquema así, se evitará además congestionar aún más el tráfico por la falta de semáforos en entradas y salidas de las instituciones educativas. Además, no se afectará el horario destinado a los adultos mayores y personas vulnerables para su aseo, alimentación y para estar debidamente informados -una de sus mayores distracciones- a través de los medios de comunicación.
+
+Mientras la naturaleza ayuda a alcanzar, con los tapones que se construyan para embalses, las cotas máximas de agua en las plantas hidroeléctricas, los ecuatorianos debemos reducir nuestro consumo de electricidad, que ‘ha aumentado en los últimos días un 6%’ según han señalado las autoridades, cambiando por ejemplo para el día los horarios de los partidos de fútbol, donde se utiliza excesiva energía eléctrica. Hasta que se pueda reforzar la matriz energética con nuevos proyectos hidroeléctricos o eólicos, el gobierno puede promover los ‘micro proyectos solares’, aprovechando que Ecuador goza de 12 horas diarias de luz solar. De adoptarse este esquema para todo el país, sin horarios diferenciados, no se afectará al empleo por el cierre de empresas y pequeños y medianos negocios, incluyendo restaurantes, teatros, y circuitos de atractivos turísticos, que deben funcionar por la noche -con estratégicas desconexiones eléctricas voluntarias, y no se exacerbará los ‘tiempos muertos de transportación’ por el caos vehicular que se agrava por la falta de semáforos.
+
+Frente a la molestia generalizada por este lamentable retroceso, que aumenta la inseguridad y disminuye el ingreso de turistas a nuestro país, las empresas, que precisan par de horas extras de luz para que se enciendan -y al final de la jornada se enfríen- sus equipos, deben disponer urgentemente la importación para que colaboren con sus propios generadores eléctricos, para no tener que modificar un esquema horario como el propuesto, y todos, sector industrial, comercial y residencial dejemos de sentir la incertidumbre con los cortes con horarios cambiantes. Si podemos organizarnos, hasta que empecemos a caminar por senderos de mayor certidumbre.
+
+Diego Fabián Valdivieso Anda
 
 Perú venció a Uruguay de manera agónica en eliminatorias
 ========================================================
@@ -787,233 +944,4 @@ Caballero agregó que “los centros de **salud mental comunitaria brindan atenc
 Centros de salud comunitaria
 ----------------------------
 
-El ministerio informó que tiene planificado cerrar este año con **292 centros de salud mental comunitaria**, 52 unidades de hospitalización en hospitales generales, 94 hogares protegidos, seis servicios de salud mental en establecimientos penitenciarios y **11 equipos móviles** para atender a personas con trastornos mentales en situación de calle y a la población en zonas geográficas de difícil acceso. 
-
-Baltazar Ushca es velado en el Municipio de Guano
-=================================================
-
-En el auditorio de la Municipalidad se levantó una capilla ardiente. Luego sus restos serán llevados a su comunidad.
---------------------------------------------------------------------------------------------------------------------
-
-![Fotografía del 20 de mayo de 2021 del indígena ecuatoriano Baltazar Ushca en Cuatro esquinas (Ecuador). EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Baltazar-Ushca-2.jpg)
-
-Los restos del último **hielero del Chimborazo**, **Baltazar Ushca**, son velados en el **Municipio de Guano**.
-
-Familiares, amigos y autoridades locales llegaron al auditorio para homenajear a este **ícono** de la cultura y tradiciones del **Ecuador**. En ese lugar se levantó una capilla ardiente.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/PHOTO-2024-10-11-15-08-43-1024x768.jpg)
-
-**Foto: Cortesía Municipio de Guano.**
-
-**Ushca** falleció este viernes 11 de octubre de 2024 a la edad de 80 años. Su muerte se produjo tras un accidente doméstico ocurrido el 10 de octubre de 2024, cuando un toro lo derribó en su hogar, causándole lesiones graves.
-
-Inicialmente fue atendido en un centro médico local y luego trasladado de urgencia al **Hospital Solca de Riobamba**, donde lamentablemente murió.
-
-A más de su trabajo como hielero, **Baltazar Ushca** también laboraba en el Museo de Guano, donde compartía su rica historia y conocimientos sobre esta actividad.
-
-### Más noticias
-
-* [Baltazar Ushca, el último hielero del Chimborazo, deja un legado inmortal en el Ecuador](https://www.elcomercio.com/tendencias/cultura/baltazar-ushca-ultimo-hielero-chimborazo-biografia.html "Baltazar Ushca, el último hielero del Chimborazo, deja un legado inmortal en el Ecuador ")
-* [Falleció Baltazar Ushca, el último hielero del Ecuador](https://www.elcomercio.com/actualidad/ecuador/ecuador-perdio-ultimo-hielero-fallecio-baltazar-ushca.html "Falleció Baltazar Ushca, el último hielero del Ecuador")
-* [Baltazar Ushca, el último hielero del Chimborazo, trasladado de urgencia al hospital](https://www.elcomercio.com/actualidad/ecuador/baltazar-ushca-ultimo-hielero-chimborazo-urgencia-hospital.html "Baltazar Ushca, el último hielero del Chimborazo, trasladado de urgencia al hospital")
-
-El sepelio de Baltazar Ushca
-----------------------------
-
-Los representantes del **Municipio de Guano** informaron que los restos de Ushca serán trasladados pasadas las 18:00 a la comunidad de **Cuatro Esquinas**, de donde era oriundo.
-
-En ese lugar se realizará su sepelio. Inicialmente, se tiene previsto que sea sepultado el domingo cerca de las 13:00. Pero aún está por confirmarse porque las instituciones de **Chimborazo**, **Guano** y su parroquia quieren rendirle homenajes entre este viernes 11 y el domingo 13 de octubre.
-
-La comunidad ha expresado su dolor por su pérdida y ha recordado su legado como un representante viviente de las tradiciones ecuatorianas. 
-
-**Ushca** era un símbolo del turismo en la provincia de **Chimborazo** y un ícono cultural en **Ecuador**.
-
-A lo largo de su vida, se dedicó a extraer hielo del **nevado Chimborazo** para venderlo en el mercado de Riobamba, preservando así una tradición que ha ido desapareciendo con el tiempo.
-
-En este link podrás mirar los homenajes recibidos en el Municipio de Guano:
-
-[https://www.facebook.com/share/v/K2tfJWFgn4E5J1AV/?mibextid=WC7FNe](https://www.facebook.com/share/v/K2tfJWFgn4E5J1AV/?mibextid=WC7FNe)
-
-Ecuador va a su propio ritmo en la apuesta de energías renovables
-=================================================================
-
-Ecuador aprovecha las energías renovables. Estas fuentes buscan reducir la dependencia del país de la energía hidroeléctrica.
------------------------------------------------------------------------------------------------------------------------------
-
-![La central hidroeléctrica Coca Codo Sinclair tiene una capacidad instalada de 1500 MW y es la más grande del país. Foto: Cortesía Coca Codo](https://www.elcomercio.com/wp-content/uploads/2024/06/Coca-Codo-Sinclair-2.jpg)
-
-Las energías renovables, como la **solar, eólica, hidroeléctrica, geotérmica y la biomasa**, lidera la transformación energética en todo el mundo. El objetivo principal es reducir la dependencia de los **combustibles fósiles** y mitigar el impacto ambiental. La **diversificación es clave**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-Según datos del Operador Nacional de Electricidad (Cenace), el 72% de la energía el Ecuador depende del agua. Esta dependencia ha llevado a la **grave crisis** **energética** por la que atraviesa actualmente el país, debido, en parte, a la sequía que afronta el país y la región. Por esta razón, las autoridades buscan cambiar la **matriz energética**. Estas son algunas de las opciones.
-
-### Más noticias
-
-* [Paneles solares están en auge en Ecuador](https://www.elcomercio.com/actualidad/negocios/paneles-solares-auge-ecuador-cortes-de-luz.html "Paneles solares están en auge en Ecuador")
-* [¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?](https://www.elcomercio.com/actualidad/negocios/nueva-propuesta-ley-energia-puede-poner-fin-crisis-energetica.html "¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?")
-* [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
-
-Energía solar
--------------
-
-La energía solar aprovecha la radiación del sol para generar electricidad o calor. Existen dos tipos principales: la **fotovoltaica**, que convierte la luz solar directamente en electricidad mediante paneles solares, y la s**olar térmica**, que utiliza la **energía del sol** para calentar fluidos que generan vapor y mueven turbinas eléctricas.
-
-En **Ecuador** hay **31 pequeñas plantas fotovoltaicas** **públicas**, principalmente en **Galápagos**. El Estudio del **Potencial Solar Fotovoltaico del Ecuador** determinó que el país tiene más de 14 millones de hectáreas con buenas condiciones de radiación solar.
-
-Energía eólica
---------------
-
-La **energía eólica** se obtiene del aprovechamiento de la fuerza del viento mediante aerogeneradores, que convierten el movimiento de las palas en energía eléctrica. Esta tecnología es ampliamente utilizada en regiones con fuertes corrientes de viento, tanto en tierra (onshore) como en el mar (offshore). La **energía eólica** es una de las fuentes más consolidadas.
-
-En **Ecuador**, hay cuatro centrales eólicas en operación, dos de ellas están en Galápagos y dos Loja. Además, hay otros dos proyectos eólicos en Loja y Manabí, que deberían empezar su construcción.
-
-Energía hidráulica
-------------------
-
-La energía hidráulica utiliza el movimiento del agua, ya sea de ríos o grandes presas, para mover turbinas y generar electricidad. Es una de las formas más antiguas de energía renovable y sigue siendo una de las más utilizadas en todo el mundo.
-
-En Ecuador, el 72% de la matriz energética es hidráulica. Según datos oficiales, hay 47 hidroeléctricas públicas en el país. La más grande es Coca Codo Sinclair, entre Napo y Sucumbíos, con 1 500 megavatios (MW) de potencia instalada. Solo esta central aporta con cerca del 30% de la energía que necesita el Ecuador cada día. Actualmente, hay varias centrales hídricas en construcción, por ejemplo, Toachi-Pilatón, Santiago y cardenillo.
-
-Energía geotérmica
-------------------
-
-La energía geotérmica aprovecha el calor natural del interior de la Tierra, ya que captura vapor o agua caliente almacenada bajo la superficie para generar electricidad o calefacción. Es una fuente confiable de energía renovable y constante, especialmente en regiones volcánicas o con actividad geotérmica. Sin embargo, su explotación está limitada geográficamente y puede causar emisiones de gases no deseados si no se controla adecuadamente.
-
-Ecuador tiene un Plan de Desarrollo Geotérmico desde 2010. Este documento señala que el país tiene un potencial bruto de alrededor de 1 000 MW. Hay 22 prospectos, de los cuales 11 son de alta entalpía (generación de electricidad). A inicios de octubre de 2024, se firmó un acuerdo para financiar el proyecto **geotérmico Chachimbiro**, en Imbabura.
-
-Biomasa y biogás
-----------------
-
-El biogás y la biomasa se consolidan como fuentes clave de energía renovable, pues se destaca por su capacidad de aprovechar residuos orgánicos y vegetales. El biogás, producido a través de la descomposición de materiales como estiércol o desechos agrícolas, se transforma en electricidad y calor. La biomasa, en cambio, incluye el uso de recursos como madera, cáscaras de arroz y otros restos vegetales para la generación de energía.
-
-En Ecuador hay varias iniciativas privadas, por ejemplo, la Empresa Pública Metropolitana de Gestión Integral de Residuos Sólidos (Emgirs) con la española Gasgreen aprovechan el biogás generado en el relleno sanitario de El Inga, en Quito, para que se convierta en energía limpia.
-
-Energía mareomotriz
--------------------
-
-La energía mareomotriz se basa en el movimiento de las mareas para generar electricidad. Funciona mediante el uso de turbinas instaladas en áreas donde las mareas suben y bajan de manera significativa. Es una fuente predecible y confiable, pero su instalación y mantenimiento son costosos. No se conocen iniciativas que se estén desarrollando en la Ecuador-
-
-Energía undimotriz (de las olas)
---------------------------------
-
-La energía undimotriz aprovecha el movimiento de las olas en la superficie del mar para generar electricidad. Existen varios diseños para capturar este tipo de energía, pero aún está en una fase experimental en muchos lugares. Ecuador aún no tiene proyectos de este tipo de energía.
-
-Hidrógeno verde
----------------
-
-El hidrógeno verde se produce mediante **electrólisis del agua**, usando electricidad generada a partir de fuentes renovables (hídrica, solar, eólica, etc). Este proceso separa las moléculas de agua en oxígeno e hidrógeno, que luego puede ser utilizado como combustible. Es considerado una de las claves para la descarbonización de sectores difíciles de electrificar, como la industria pesada y el transporte.
-
-Se conocen, varios proyectos piloto de hidrógeno verde que se están desarrollando en varias provincias de Ecuador.
-
-Energía nuclear
----------------
-
-Se obtiene mediante la **fisión nuclear**, un proceso que divide átomos (generalmente de uranio o plutonio) para liberar energía. Aunque es eficiente en su producción, la energía nuclear enfrenta desafíos importantes como la gestión de **residuos radiactivos** y los riesgos asociados con accidentes en las plantas nucleares.
-
-Según expertos, el Ecuador cuenta con los minerales necesarios para desarrollar energía nuclear en el futuro. Sin embargo, la implementación de esta tecnología es costosa. Actualmente, no hay proyectos de energía nuclear en el país.
-
-Supervivientes japoneses de las bombas atómicas reciben el Nobel de la Paz
-==========================================================================
-
-El Comité Nobel noruego otorgó el Premio de la Paz a la agrupación japonesa Nihon Hidankyo.
--------------------------------------------------------------------------------------------
-
-![Toshiyuki Mimaki, representante de Nihon Hidankyo (Confederación Japonesa de Organizaciones de víctimas de bombas A y H), habló en Hiroshima, Japón. EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Nobel-de-la-paz.jpg)
-
-##### Agencia EFE
-
-La organización japonesa **Nihon Hidankyo**, que agrupa a supervivientes de las bombas atómicas, fue galardonada con el **Premio Nobel de la Paz 2024**. **Toshiyuki Mimaki**, representante de la organización, confió en que este galardón “dé más peso” al mensaje antinuclear que promueven.
-
-**Nihon Hidankyo** es una agrupación fundada 1956 por ‘**hibakusha**‘ o supervivientes a las bombas atómicas lanzadas por **Estados Unidos** sobre **Hiroshima y Nagasaki**. Desde entonces ha trabajado por difundir los testimonios de los afectados por todo el mundo y por promover un mundo libre de armas nucleares.
-
-“Creo que al recibir este premio tan grande, nuestras palabras podrán tener más peso”, dijo en una comparecencia ante los medios locales Mimaki, quien tenía tres años cuando la primera bomba nuclear de la historia fue lanzada sobre la cuidad donde residía con su familia.
-
-### Más noticias
-
-* [Conoce a Han Kang, premio Nobel de Literatura 2024, su estilo e impacto literario](https://www.elcomercio.com/tendencias/cultura/han-kang-premio-nobel-literatura.html "Conoce a Han Kang, premio Nobel de Literatura 2024, su estilo e impacto literario ")
-* [Nobel de Química por revelar códigos de proteínas mediante inteligencia artificial](https://www.elcomercio.com/actualidad/nobel-de-quimica-por-revelar-codigos-de-proteinas-mediante-inteligencia-artificial-2.html "Nobel de Química por revelar códigos de proteínas mediante inteligencia artificial")
-* [Nobel de Medicina es para Ambros y Ruvkun, descubridores del micro-ARN](https://www.elcomercio.com/actualidad/mundo/nobel-de-medicina-es-para-ambros-y-ruvkun-descubridores-del-micro-arn.html "Nobel de Medicina es para Ambros y Ruvkun, descubridores del micro-ARN")
-
-El trabajo de Nihon Hidan
--------------------------
-
-  
-“Nosotros ya nos estamos haciendo viejos, el promedio de nuestra edad es unos 85 años. Pero contamos con la siguiente generación”, señaló sobre la edad media entre los supervivientes a los bombardeos atómicos restantes en **Japón**.
-
-“Quiero que se **acaben** las **armas nucleares** mientras estemos vivos, es un deseo de todos los 114 000 ‘hibakusha’ que quedamos. Yo estoy en contra de la guerra”, añadió Mimaki, miembro del comité representativo de la organización.
-
-**Mimaki** admitió que el galardón ha causado una **gran sorpresa tanto a la propia asociación como en la ciudad de Hiroshima** y en todo **Japón** -“no me lo puedo creer, parece como un sueño”, dijo- y bromeó al afirmar que “no es tan fácil ganar un Nobel” y mencionar al escritor nipón Haruki Murakami, eterno candidato al galardón en la categoría literaria.
-
-Las reacciones sobre el Nobel de la Paz
----------------------------------------
-
-Otro miembro de **Nihon Hidankyo**, el superviviente al bombardeo de **Nagasaki** Sueichi Kido, afirmó que el premio **Nobel** “reconoce los resultados de mucho tiempo luchando” por parte de la organización, y confesó que el galardón le trae a la memoria los rostros de otros compañeros ‘hibakusha’ ya fallecidos.
-
-El **primer ministro de Japón, Shigeru Ishiba**, también quiso valorar el galardón, un premio “muy importante” para una organización “que lleva mucho tiempo trabajando”, según dijo en una rueda de prensa al término de su participación en la cumbre de la **Asociación de Naciones del Sudeste Asiático en Laos.**
-
-El **Comité Nobel noruego otorgó el Premio de la Paz** a la agrupación japonesa “por sus esfuerzos para lograr un mundo libre de armas nucleares y demostrar a través de testimonios de testigos que las armas nucleares nunca deben volver a utilizarse”.
-
-WhatsApp presenta una función que permite organizar eventos
-===========================================================
-
-Aprende a crear y personalizar eventos en grupos de WhatsApp.
--------------------------------------------------------------
-
-![WhatsApp permite crear eventos en grupos comunitarios para organizar reuniones. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-eventos-1.jpg)
-
-**[WhatsApp](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a "https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a")** ha incorporado una **nueva función** que permite **crear eventos dentro de los grupos**, ideal para planificar reuniones con amigos, compañeros de trabajo, familiares u otras ocasiones.  
-
-### Más noticias
-
-* [Aprende a usar Copilot, la IA de Microsoft, en WhatsApp con unos sencillos pasos](https://www.elcomercio.com/tecnologia/copilot-whatsapp-microsoft-inteligencia-artificial.html "https://www.elcomercio.com/tecnologia/copilot-whatsapp-microsoft-inteligencia-artificial.html") 
-* [WhatsApp planea modificar la función de “escribiendo” en los chats](https://www.elcomercio.com/tecnologia/whatsapp-funcion-escribiendo-actualizacion.html "https://www.elcomercio.com/tecnologia/whatsapp-funcion-escribiendo-actualizacion.html") 
-
-Para utilizar esta opción, según [Infobae](https://www.infobae.com/tecno/2024/08/06/organiza-eventos-en-whatsapp-esta-es-la-nueva-funcion-para-grupos/ "https://www.infobae.com/tecno/2024/08/06/organiza-eventos-en-whatsapp-esta-es-la-nueva-funcion-para-grupos/"), **los usuarios solo necesitan acceder al grupo y comenzar a organizar el evento**. Esta funcionalidad **está disponible tanto para dispositivos Android como iPhone**, lo que facilita que los participantes de un grupo, sin importar la marca de su teléfono, puedan unirse o rechazar la invitación al evento. 
-
-**¿Para qué sirve la función de eventos en WhatsApp?** 
--------------------------------------------------------
-
-Según la [página de WhatsApp](https://faq.whatsapp.com/2127363544304650/?cms_platform=android&locale=es_LA "https://faq.whatsapp.com/2127363544304650/?cms_platform=android&locale=es_LA"), es posible crear eventos en grupos de una comunidad para **facilitar la organización de reuniones y mantener la conexión entre los contactos**. Cabe destacar que **solo un miembro del grupo puede crear un evento**, y por el momento no es posible designar un coorganizador. 
-
-**Proceso para crear un evento** 
----------------------------------
-
-* Desde el chat grupal de la comunidad, tocar el ícono **Evento**. 
-
-* Ingresar el nombre, la hora y la fecha del evento. 
-
-* Opcionalmente, agregar una descripción, ubicación o enlace de llamada de WhatsApp. 
-
-* Las descripciones pueden tener hasta 2048 caracteres. 
-
-* Los **enlaces de llamada** de WhatsApp pueden añadirse con hasta un año de anticipación. 
-
-* También **se pueden incluir enlaces de otras plataformas**, como Zoom. 
-
-* Tocar la flecha en la parte inferior derecha para finalizar. 
-
-* El evento se compartirá en el chat grupal, donde los miembros podrán responder y ver la información del evento. 
-
-Una vez finalizado, se debe tocar la flecha en la parte inferior derecha. **El evento se compartirá en el chat grupal**, donde los miembros podrán responder y consultar la información. 
-
-**No es posible invitar a personas que no pertenezcan al grupo** ni reenviar el evento. Además, los eventos también se pueden crear en grupos de avisos, pero solo si se es administrador de la comunidad. 
-
-**Personalización de eventos** 
--------------------------------
-
-**La personalización es clave para que un evento sea memorable**. WhatsApp permite **añadir descripciones de hasta 2048 caracteres**, lo que da espacio suficiente para incluir todos los detalles necesarios. Además, se puede **adjuntar enlaces de llamada de WhatsApp**, lo que facilita la participación de los miembros que no pueden asistir físicamente. 
-
-**Beneficios de usar WhatsApp para eventos** 
----------------------------------------------
-
-Utilizar **WhatsApp para organizar eventos** tiene múltiples beneficios. Primero, es una plataforma que la mayoría de las personas ya utilizan, lo que **elimina la necesidad de descargar aplicaciones adicionales**. Segundo, la función de eventos en grupos permite una comunicación directa y rápida entre los participantes. Finalmente, la posibilidad de personalizar y actualizar la información del evento en tiempo real asegura que todos estén al tanto de cualquier cambio. 
-
-**Consejos para maximizar el uso de eventos en WhatsApp** 
-----------------------------------------------------------
-
-Para sacar el máximo provecho de esta funcionalidad, considera los siguientes consejos: 
-
-* **Mantén la información actualizada**: Asegúrate de actualizar cualquier cambio en la fecha, hora o ubicación del evento. 
-
-* **Utiliza descripciones claras**: Una descripción detallada ayuda a los participantes a entender el propósito y los detalles del evento. 
-
-* **Fomenta la participación**: Usa el chat del grupo para animar a los miembros a confirmar su asistencia y participar activamente en la planificación.
+El ministerio informó que tiene planificado cerrar este año con **292 centros de salud mental comunitaria**, 52 unidades de hospitalización en hospitales generales, 94 hogares protegidos, seis servicios de salud mental en establecimientos penitenciarios y **11 equipos móviles** para atender a personas con trastornos mentales en situación de calle y a la población en zonas geográficas de difícil acceso.
