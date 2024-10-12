@@ -40,18 +40,22 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250115)
 * [Women's T20 WC
     
+    RSA won by 7 wkts
+    
     |     |     |
     | --- | --- |
-    | BAN | 1 /1 |
-    | RSA |     |
+    | BAN | 3 /106 |
+    | RSA | 3 /107 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250116)
 * [Men's T20I
     
+    IND won by 133 runs
+    
     |     |     |
     | --- | --- |
-    | IND | 1 /94 |
-    | BAN |     |
+    | IND | 6 /297 |
+    | BAN | 7 /164 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250103)
 * [Women's T20
@@ -118,12 +122,12 @@ FOX SCORES
     
 * [ESL
     
-    13/10 4:00 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | WIG | –   |
-    | HKR | –   |
+    | WIG | 9   |
+    | HKR | 2   |
     
     Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/ESL20243001)
 * [Women's PM XIII
@@ -154,26 +158,6 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | HAW | 11.8.74 |
-    | WCE | 1.2.8 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240705)
-* [AFL Women's
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | RIC | 6.10.46 |
-    | GEE | 5.9.39 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240706)
-* [AFL Women's
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
     | BRI | 6.8.44 |
     | GCS | 4.4.28 |
     
@@ -198,6 +182,26 @@ FOX SCORES
     | SYD | –   |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240709)
+* [AFL Women's
+    
+    13/10 15:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | STK | –   |
+    | MEL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240710)
+* [AFL Women's
+    
+    13/10 17:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | GWS | –   |
+    | ADE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240711)
 * Basketball
     
 * [NBL
@@ -230,26 +234,26 @@ FOX SCORES
     | CAI | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040005)
+* [NBL
+    
+    13/10 16:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MEL | –   |
+    | ADL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040006)
 * Baseball
     
 * [MLB
     
-    Final
+    Bottom 8th Innings
     
     |     |     |
     | --- | --- |
-    | LAD | 2   |
-    | SD  | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240040029307E)
-* [MLB
-    
-    13/10 4:08 AEST
-    
-    |     |     |
-    | --- | --- |
-    | CLE | –   |
-    | DET | –   |
+    | CLE | 7   |
+    | DET | 3   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400400275048)
 
