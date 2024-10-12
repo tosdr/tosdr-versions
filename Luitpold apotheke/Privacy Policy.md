@@ -325,25 +325,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[GAVISCON Dual Suspension mit Zweifachwirkung gegen Sodbrennen (48x10 ml)](https://www.medikamente-per-klick.de/product?artnr=16511079&simpleContentAttachmentId=14183&wochenklick)  
-**Jetzt 10% extra sparen mit Gutschein Code: gaviscon10**  
-[![Jetzt 10% extra sparen mit Gutschein Code: gaviscon10](/images/products/medikamenteperklick/mittel/16511079_m.jpg "Jetzt 10% extra sparen mit Gutschein Code: gaviscon10")](https://www.medikamente-per-klick.de/product?artnr=16511079&simpleContentAttachmentId=14183&wochenklick)
+[NUROFEN 400mg Ibuprofen Weichkapseln bei Schmerzen 30St.](https://www.medikamente-per-klick.de/product?artnr=18065810&simpleContentAttachmentId=14183&wochenklick)  
+**MHD 02/2025**  
+[![Jetzt 10% extra sparen mit Gutschein Code: gaviscon10](/images/products/medikamenteperklick/mittel/18065810_m.jpg "Jetzt 10% extra sparen mit Gutschein Code: gaviscon10")](https://www.medikamente-per-klick.de/product?artnr=18065810&simpleContentAttachmentId=14183&wochenklick)
 
 VK1:
 
-44,98 €\*
+15,20 €\*
 
 Ihr Preis:
 
-29,28 €\*
+9,22 €\*
 
 Sie sparen:
 
-15,70 € \-35%
+5,98 € \-39%
 
-2024-10-11 11:30:00
+2024-10-19 08:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=16511079&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=18065810&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -637,4 +637,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=telcqckxcylgetatswphtaoqqftxcfok&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=dnzqyodergqmktvtkmeezfjjfcaoemkl&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
