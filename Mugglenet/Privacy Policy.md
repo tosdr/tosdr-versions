@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-A picture of Gandalf the Grey (from The Lord of the Rings) can be seen in the collection of great wizards in Albus Dumbledore’s study in the Harry Potter and the Chamber of Secrets film.
+Originally, the Weasleys’ cousin who was a Squib was going to have a child who would be a first year during “Goblet of Fire”. The child, Mafalda, was cut and her role was given to Rita Skeeter.
 
 ### Potter History
 
-May 1, 2008 – For the first time in a decade, the weekly New York Times Best Seller List doesn’t hold a single Harry Potter book.
+March 12, 2008 – After many rumors, Warner Bros. officially announces that Harry Potter and the Deathly Hallows will be split into two separate films.
 
 ### Potter Quote
 
-“Pathetic! With the whole wide world of ear-related humor before you, you go for holey?”
+“I’m three years older than you were when you fought You-Know– Who over the Sorcerer’s Stone and it’s because of me Malfoy’s stuck back in Umbridge’s office with giant flying bogeys attacking him!”
 
 [](#)
 
