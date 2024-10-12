@@ -30,16 +30,6 @@ FOX SCORES
     
 * [Women's T20 WC
     
-    AUS won by 9 wkts
-    
-    |     |     |
-    | --- | --- |
-    | AUS | 1 /83 |
-    | PAK | 82  |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250114)
-* [Women's T20 WC
-    
     12/10 21:00 AEST
     
     |     |     |
@@ -48,6 +38,16 @@ FOX SCORES
     | SRI | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250115)
+* [Women's T20 WC
+    
+    13/10 1:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BAN | –   |
+    | RSA | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250116)
 * [Men's T20I
     
     13/10 0:30 AEST
@@ -60,22 +60,22 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250103)
 * [Women's T20
     
-    12/10 14:30 AEST
+    ACT won by 38 runs
     
     |     |     |
     | --- | --- |
-    | ACT | –   |
-    | MELS | –   |
+    | ACT | 4 /147 |
+    | MELS | 109 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250105)
 * [Women's T20
     
-    12/10 15:00 AEST
+    PER won by 1 wkt
     
     |     |     |
     | --- | --- |
-    | MELR | –   |
-    | PER | –   |
+    | MELR | 3 /169 |
+    | PER | 9 /170 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250106)
 * [Women's T20
@@ -100,6 +100,16 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250108)
 * NRL
     
+* [ESL
+    
+    13/10 4:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WIG | –   |
+    | HKR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/ESL20243001)
 * [Women's PM XIII
     
     13/10 14:00 AEST
@@ -124,32 +134,32 @@ FOX SCORES
     
 * [AFL Women's
     
-    12/10 13:05 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | HAW | –   |
-    | WCE | –   |
+    | HAW | 11.8.74 |
+    | WCE | 1.2.8 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240705)
 * [AFL Women's
     
-    12/10 15:05 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | RIC | –   |
-    | GEE | –   |
+    | RIC | 6.10.46 |
+    | GEE | 5.9.39 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240706)
 * [AFL Women's
     
-    12/10 17:05 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | BRI | –   |
-    | GCS | –   |
+    | BRI | 6.8.44 |
+    | GCS | 4.4.28 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240707)
 * [AFL Women's
@@ -166,14 +176,14 @@ FOX SCORES
     
 * [NBL
     
-    12/10 17:30 AEST
+    3rd Qtr
     
     |     |     |
     | --- | --- |
-    | ILL | –   |
-    | TAS | –   |
+    | ILL | 77  |
+    | TAS | 51  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040003)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040003/play-by-play)
 * [NBL
     
     12/10 20:00 AEST
@@ -188,14 +198,24 @@ FOX SCORES
     
 * [MLB
     
-    Top 7th Innings
+    Final
     
     |     |     |
     | --- | --- |
-    | LAD | 1   |
+    | LAD | 2   |
     | SD  | 0   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240040029307E)
+* [MLB
+    
+    13/10 4:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CLE | –   |
+    | DET | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400400275048)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
