@@ -582,7 +582,7 @@ Shipping & Policies
 * [Privacy Policy](https://www.peepshowtoys.com/policies/privacy-policy)
 * [Press](https://www.peepshowtoys.com/pages/press)
 * [Accessibility Statement](https://www.peepshowtoys.com/pages/accessibility-statement)
-* [Refund Policy](https://www.peepshowtoys.com/policies/refund-policy)
+* [Refund Policy](https://www.peepshowtoys.com/pages/exchange_policy)
 
 About & Info
 
