@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [In separate strikes, Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
+    * [Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers in separate strikes](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
     * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
-    * [North Korea accuses South Korea of flying drones to its capital and threatens to attack next time](https://apnews.com/article/north-korea-south-drones-attack-threat-border-d1b2e42665fba63dbf4cf2f36a96f5f5)
+    * [U.S. expands sanctions on Iran in response to its ballistic attack on Israel](https://apnews.com/article/treasury-sanctions-iran-gaza-israel-hezbollah-lebanon-5c3d798a1916e4ee197b13d000a776c1)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Residents slog through flooded streets, pick up debris after Hurricane Milton tore through Florida](https://apnews.com/article/hurricane-milton-florida-7f60bbe9c6295f2ebef077eca2c1b4e1)
+    * [Residents slog through flooded streets, clear debris after Hurricane Milton tore through Florida](https://apnews.com/article/hurricane-milton-florida-7f60bbe9c6295f2ebef077eca2c1b4e1)
+    * [What to know as Florida residents begin cleaning up after Hurricane Milton](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
     * [What's behind the northern lights that dazzled the sky farther south than normal](https://apnews.com/article/aurora-northern-lights-solar-storm-geomagnetic-19418e36587141b83fbba7a4f0d7b474)
-    * [Abortion has passed inflation as the top election issue for women under 30, survey finds](https://apnews.com/article/younger-women-abortion-survey-c8c504a7b9b5a92b4c101a57a3e3a4dc)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Trump heads to Colorado to drive his anti-immigration message](https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70)
-    * [Harris viewed more positively by Hispanic women than by Hispanic men: AP-NORC poll](https://apnews.com/article/hispanic-latino-voters-harris-trump-toughness-economy-d42696a973e0988aed41bab2a46bb4cc)
-    * [The drownings of 2 Navy SEALs were preventable, military investigation finds](https://apnews.com/article/navy-seal-deaths-investigation-training-failures-78e138486050c9748fc3724347ed230f)
+    * [Trump heads to Aurora, Colorado, to drive his anti-immigration message](https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70)
+    * [Are male voters reluctant to vote for a woman? Harris' backers are confronting the question head on](https://apnews.com/article/harris-male-voters-sexism-trump-support-obama-bcf8dbcce4700ba24725ca178f7753b0)
+    * [JD Vance refused five times to acknowledge Donald Trump lost 2020 election in podcast interview](https://apnews.com/article/jd-vance-trump-lost-new-york-times-interview-e81ea9bc1900cab9eaf691e216d7a49e)
     
     Newsletters
     
@@ -93,8 +93,8 @@ Menu
     TOP STORIES
     
     * [Dodgers will start Yamamoto against San Diego's Darvish in winner-take-all Game 5 of NLDS](https://apnews.com/article/mlb-playoffs-padres-dodgers-445b67be07a46a61051ab1627582f575)
-    * [Sons of Duke standout Carlos Boozer following father's footsteps to the Blue Devils](https://apnews.com/article/duke-cameron-cayden-boozer-c05e446831fe80b02e28946991a91cfc)
-    * [Analysis: Some quarterbacks just need a second chance, or third or fourth](https://apnews.com/article/sam-darnold-vikings-mayfield-2529ce97334c62ec07cfbf38d99eef00)
+    * [Nevada high court to review decision in ex-Raiders coach Jon Gruden's lawsuit over NFL emails](https://apnews.com/article/gruden-nfl-lawsuit-2fd3e34a0e298b857b1b817c8fad4c77)
+    * [Todd Downing tasked with helping Aaron Rodgers and Jets' struggling offense after 'unique week'](https://apnews.com/article/jets-downing-3a678d03b6da0a064266b8ca67507f0d)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Austin Stowell is emotional about playing stoic Jethro Gibbs in 'NCIS: Origins'](https://apnews.com/article/ncis-austin-stowell-gibbs-interview-2273dad6a6589ff82096536ca2e11f98)
-    * [Music Review: Charli XCX’s 'Brat and it’s completely different but also still brat' remixes, ranked](https://apnews.com/article/charli-xcx-billie-eilish-lorde-troye-sivan-bon-iver-music-review-ranking-1470dd5f05aa8a412a08e5565611f941)
+    * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
     * [The making of 'The Apprentice,' in their words](https://apnews.com/article/sebastian-stan-donald-trump-apprentice-jeremy-strong-faf59cdd1c4e80bb8e97f7bea0b940fc)
+    * [Austin Stowell is emotional about playing stoic Jethro Gibbs in 'NCIS: Origins'](https://apnews.com/article/ncis-austin-stowell-gibbs-interview-2273dad6a6589ff82096536ca2e11f98)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [Wholesale inflation remained cool last month in latest sign that price pressures are slowing](https://apnews.com/article/inflation-wholesale-prices-consumer-federal-reserve-rates-a551afcffbb495e5a302d5c847562df6)
+    * [Stock market today: Wall Street rises to close its latest record-setting week as banks jump](https://apnews.com/article/stock-market-china-stimulus-fed-korea-rates-7dfc363b1ff32e71a335571cdf8325fb)
     * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
-    * [JPMorgan sets aside more money for potential bad loans but says consumers are on 'solid footing'](https://apnews.com/article/jpmorgan-earnings-bank-interest-loans-faec1fdd73f911ac70e9e659f852c603)
+    * [Wholesale inflation remained cool last month in latest sign that price pressures are slowing](https://apnews.com/article/inflation-wholesale-prices-consumer-federal-reserve-rates-a551afcffbb495e5a302d5c847562df6)
     
 * [Science](https://apnews.com/science)
     
@@ -157,12 +157,12 @@ Menu
     
     TOP STORIES
     
+    * [Woman pleads guilty to trying to smuggle 29 turtles across a Vermont lake into Canada by kayak](https://apnews.com/article/eastern-box-turtles-smuggling-vermont-lake-kayak-fdb63d3944a27ef12088fa97a16950a3)
+    * [Authorities continue to investigate container suspected of holding dynamite in Tennessee](https://apnews.com/article/explosives-evacuation-knoxville-metal-recycler-3b929a961105649b12b258ec0a01e0f6)
     * [New Zealand ship didn’t sink because its captain was a woman, the ‘appalled’ defense minister says](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
     * [Washington state woman calls 911 after being hounded by up to 100 raccoons](https://apnews.com/article/washington-state-raccoon-invasion-cadf885cc7a4f2bd05e7755d448e7d8c)
     * [How Waffle House helps Southerners — and FEMA — judge a storm's severity](https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819)
     * [Former owner of water buffalo that roamed Iowa suburb for days pleads guilty](https://apnews.com/article/water-buffalo-iowa-96fea4fff4a4a11dc5024a8d16667499)
-    * [Nibi the 'diva' beaver to stay at rescue center, Massachusetts governor decides](https://apnews.com/article/nibi-beaver-release-massachusetts-governor-d4d96214a18b1c41b8945e2c9d813f98)
-    * [There's a moose on the loose — in a New Hampshire swimming pool](https://apnews.com/article/moose-recue-swimming-pool-new-hampshire-c2bb162a7cb6adbbe8dd4a9342de1650)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
-    * [United Airlines adding 8 new international destinations to itinerary for next summer](https://apnews.com/article/united-italy-spain-tokyo-portugal-mongolia-7d03ed93152cee47f58944f26f7dc0af)
+    * [Fisher-Price recalls over 2 million 'Snuga Swings' following the deaths of 5 infants](https://apnews.com/article/fisher-price-recalls-swings-infant-deaths-6010490ee97a24f66efece45c5e76f1c)
+    * [United Airlines is adding 8 new international destinations to its itinerary for next summer](https://apnews.com/article/united-italy-spain-tokyo-portugal-mongolia-7d03ed93152cee47f58944f26f7dc0af)
     * [Disney World and other Orlando parks to reopen Friday after Hurricane Milton shutdown](https://apnews.com/article/disney-world-milton-universal-seaworld-reopening-c6393375c33b89e9041faa203784985f)
-    * [Hurricane Milton has caused thousands of flight cancellations, is yours one of them? What to know](https://apnews.com/article/hurricane-milton-flight-canceled-what-to-do-a23264e3e504ff55d7ebdf2576626a81)
     
 * [Religion](https://apnews.com/religion)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Misión de ONU en Líbano afirma que nuevas explosiones en su base hieren a 2 dos cascos azules](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
+    * [Fuerzas israelíes matan a 2 soldados libaneses y hieren a 2 miembros de fuerzas de paz de la ONU](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
     * [Migración por el Darién vuelve a crecer en septiembre apuntalada por venezolanos tras elecciones](https://apnews.com/world-news/general-news-8e6a12a73c4179908d301feb65972c19)
-    * [El hacinamiento agobia al sistema penitenciario de Paraguay: así viven los presos de cinco cárceles](https://apnews.com/world-news/general-news-3e27caa14f734f0d5a0b727d6ed90e00)
     * [Nobel de la Paz reconoce a asociación japonesa de sobrevivientes de bombas atómicas Nihon Hidankyo](https://apnews.com/world-news/general-news-ee302667bd71e111e4c86f1a6e5f8d47)
-    * [Rusia lanza su cuarto ataque aéreo en una semana contra Odesa, región exportadora clave de Ucrania](https://apnews.com/world-news/general-news-14245b6fe48fafbc914dfe3a4d628c62)
-    * [Kenia y Haití instan a socios internacionales a cumplir compromisos con misión de paz](https://apnews.com/world-news/general-news-6e0767b00c63b1a493fb77a2156218a7)
+    * [El hacinamiento agobia al sistema penitenciario de Paraguay: así viven los presos de cinco cárceles](https://apnews.com/world-news/general-news-3e27caa14f734f0d5a0b727d6ed90e00)
+    * [Demandan en EEUU a excoronel salvadoreño por asesinato de periodistas holandeses en 1982](https://apnews.com/us-news/general-news-16f0db46b4d4c9b00d6e93b637d26a2c)
+    * [Brasil empieza a bloquear más de 2.000 sitios web de apuestas considerados como irregulares](https://apnews.com/world-news/general-news-4e6ccab148be429ab3aa988d70dfdea1)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -458,9 +458,9 @@ Submit Search
     
     TOP STORIES
     
-    * [In separate strikes, Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
+    * [Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers in separate strikes](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
     * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
-    * [North Korea accuses South Korea of flying drones to its capital and threatens to attack next time](https://apnews.com/article/north-korea-south-drones-attack-threat-border-d1b2e42665fba63dbf4cf2f36a96f5f5)
+    * [U.S. expands sanctions on Iran in response to its ballistic attack on Israel](https://apnews.com/article/treasury-sanctions-iran-gaza-israel-hezbollah-lebanon-5c3d798a1916e4ee197b13d000a776c1)
     
     Newsletters
     
@@ -476,9 +476,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Residents slog through flooded streets, pick up debris after Hurricane Milton tore through Florida](https://apnews.com/article/hurricane-milton-florida-7f60bbe9c6295f2ebef077eca2c1b4e1)
+    * [Residents slog through flooded streets, clear debris after Hurricane Milton tore through Florida](https://apnews.com/article/hurricane-milton-florida-7f60bbe9c6295f2ebef077eca2c1b4e1)
+    * [What to know as Florida residents begin cleaning up after Hurricane Milton](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
     * [What's behind the northern lights that dazzled the sky farther south than normal](https://apnews.com/article/aurora-northern-lights-solar-storm-geomagnetic-19418e36587141b83fbba7a4f0d7b474)
-    * [Abortion has passed inflation as the top election issue for women under 30, survey finds](https://apnews.com/article/younger-women-abortion-survey-c8c504a7b9b5a92b4c101a57a3e3a4dc)
     
     Newsletters
     
@@ -529,9 +529,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Trump heads to Colorado to drive his anti-immigration message](https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70)
-    * [Harris viewed more positively by Hispanic women than by Hispanic men: AP-NORC poll](https://apnews.com/article/hispanic-latino-voters-harris-trump-toughness-economy-d42696a973e0988aed41bab2a46bb4cc)
-    * [The drownings of 2 Navy SEALs were preventable, military investigation finds](https://apnews.com/article/navy-seal-deaths-investigation-training-failures-78e138486050c9748fc3724347ed230f)
+    * [Trump heads to Aurora, Colorado, to drive his anti-immigration message](https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70)
+    * [Are male voters reluctant to vote for a woman? Harris' backers are confronting the question head on](https://apnews.com/article/harris-male-voters-sexism-trump-support-obama-bcf8dbcce4700ba24725ca178f7753b0)
+    * [JD Vance refused five times to acknowledge Donald Trump lost 2020 election in podcast interview](https://apnews.com/article/jd-vance-trump-lost-new-york-times-interview-e81ea9bc1900cab9eaf691e216d7a49e)
     
     Newsletters
     
@@ -560,8 +560,8 @@ Submit Search
     TOP STORIES
     
     * [Dodgers will start Yamamoto against San Diego's Darvish in winner-take-all Game 5 of NLDS](https://apnews.com/article/mlb-playoffs-padres-dodgers-445b67be07a46a61051ab1627582f575)
-    * [Sons of Duke standout Carlos Boozer following father's footsteps to the Blue Devils](https://apnews.com/article/duke-cameron-cayden-boozer-c05e446831fe80b02e28946991a91cfc)
-    * [Analysis: Some quarterbacks just need a second chance, or third or fourth](https://apnews.com/article/sam-darnold-vikings-mayfield-2529ce97334c62ec07cfbf38d99eef00)
+    * [Nevada high court to review decision in ex-Raiders coach Jon Gruden's lawsuit over NFL emails](https://apnews.com/article/gruden-nfl-lawsuit-2fd3e34a0e298b857b1b817c8fad4c77)
+    * [Todd Downing tasked with helping Aaron Rodgers and Jets' struggling offense after 'unique week'](https://apnews.com/article/jets-downing-3a678d03b6da0a064266b8ca67507f0d)
     
     Newsletters
     
@@ -588,9 +588,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Austin Stowell is emotional about playing stoic Jethro Gibbs in 'NCIS: Origins'](https://apnews.com/article/ncis-austin-stowell-gibbs-interview-2273dad6a6589ff82096536ca2e11f98)
-    * [Music Review: Charli XCX’s 'Brat and it’s completely different but also still brat' remixes, ranked](https://apnews.com/article/charli-xcx-billie-eilish-lorde-troye-sivan-bon-iver-music-review-ranking-1470dd5f05aa8a412a08e5565611f941)
+    * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
     * [The making of 'The Apprentice,' in their words](https://apnews.com/article/sebastian-stan-donald-trump-apprentice-jeremy-strong-faf59cdd1c4e80bb8e97f7bea0b940fc)
+    * [Austin Stowell is emotional about playing stoic Jethro Gibbs in 'NCIS: Origins'](https://apnews.com/article/ncis-austin-stowell-gibbs-interview-2273dad6a6589ff82096536ca2e11f98)
     
 * [Business](https://apnews.com/business)
     
@@ -604,9 +604,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Wholesale inflation remained cool last month in latest sign that price pressures are slowing](https://apnews.com/article/inflation-wholesale-prices-consumer-federal-reserve-rates-a551afcffbb495e5a302d5c847562df6)
+    * [Stock market today: Wall Street rises to close its latest record-setting week as banks jump](https://apnews.com/article/stock-market-china-stimulus-fed-korea-rates-7dfc363b1ff32e71a335571cdf8325fb)
     * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
-    * [JPMorgan sets aside more money for potential bad loans but says consumers are on 'solid footing'](https://apnews.com/article/jpmorgan-earnings-bank-interest-loans-faec1fdd73f911ac70e9e659f852c603)
+    * [Wholesale inflation remained cool last month in latest sign that price pressures are slowing](https://apnews.com/article/inflation-wholesale-prices-consumer-federal-reserve-rates-a551afcffbb495e5a302d5c847562df6)
     
 * [Science](https://apnews.com/science)
     
@@ -641,12 +641,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Woman pleads guilty to trying to smuggle 29 turtles across a Vermont lake into Canada by kayak](https://apnews.com/article/eastern-box-turtles-smuggling-vermont-lake-kayak-fdb63d3944a27ef12088fa97a16950a3)
+    * [Authorities continue to investigate container suspected of holding dynamite in Tennessee](https://apnews.com/article/explosives-evacuation-knoxville-metal-recycler-3b929a961105649b12b258ec0a01e0f6)
     * [New Zealand ship didn’t sink because its captain was a woman, the ‘appalled’ defense minister says](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
     * [Washington state woman calls 911 after being hounded by up to 100 raccoons](https://apnews.com/article/washington-state-raccoon-invasion-cadf885cc7a4f2bd05e7755d448e7d8c)
     * [How Waffle House helps Southerners — and FEMA — judge a storm's severity](https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819)
     * [Former owner of water buffalo that roamed Iowa suburb for days pleads guilty](https://apnews.com/article/water-buffalo-iowa-96fea4fff4a4a11dc5024a8d16667499)
-    * [Nibi the 'diva' beaver to stay at rescue center, Massachusetts governor decides](https://apnews.com/article/nibi-beaver-release-massachusetts-governor-d4d96214a18b1c41b8945e2c9d813f98)
-    * [There's a moose on the loose — in a New Hampshire swimming pool](https://apnews.com/article/moose-recue-swimming-pool-new-hampshire-c2bb162a7cb6adbbe8dd4a9342de1650)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -773,9 +773,9 @@ Submit Search
     
     TOP STORIES
     
-    * [United Airlines adding 8 new international destinations to itinerary for next summer](https://apnews.com/article/united-italy-spain-tokyo-portugal-mongolia-7d03ed93152cee47f58944f26f7dc0af)
+    * [Fisher-Price recalls over 2 million 'Snuga Swings' following the deaths of 5 infants](https://apnews.com/article/fisher-price-recalls-swings-infant-deaths-6010490ee97a24f66efece45c5e76f1c)
+    * [United Airlines is adding 8 new international destinations to its itinerary for next summer](https://apnews.com/article/united-italy-spain-tokyo-portugal-mongolia-7d03ed93152cee47f58944f26f7dc0af)
     * [Disney World and other Orlando parks to reopen Friday after Hurricane Milton shutdown](https://apnews.com/article/disney-world-milton-universal-seaworld-reopening-c6393375c33b89e9041faa203784985f)
-    * [Hurricane Milton has caused thousands of flight cancellations, is yours one of them? What to know](https://apnews.com/article/hurricane-milton-flight-canceled-what-to-do-a23264e3e504ff55d7ebdf2576626a81)
     
 * [Religion](https://apnews.com/religion)
     
@@ -797,12 +797,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Misión de ONU en Líbano afirma que nuevas explosiones en su base hieren a 2 dos cascos azules](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
+    * [Fuerzas israelíes matan a 2 soldados libaneses y hieren a 2 miembros de fuerzas de paz de la ONU](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
     * [Migración por el Darién vuelve a crecer en septiembre apuntalada por venezolanos tras elecciones](https://apnews.com/world-news/general-news-8e6a12a73c4179908d301feb65972c19)
-    * [El hacinamiento agobia al sistema penitenciario de Paraguay: así viven los presos de cinco cárceles](https://apnews.com/world-news/general-news-3e27caa14f734f0d5a0b727d6ed90e00)
     * [Nobel de la Paz reconoce a asociación japonesa de sobrevivientes de bombas atómicas Nihon Hidankyo](https://apnews.com/world-news/general-news-ee302667bd71e111e4c86f1a6e5f8d47)
-    * [Rusia lanza su cuarto ataque aéreo en una semana contra Odesa, región exportadora clave de Ucrania](https://apnews.com/world-news/general-news-14245b6fe48fafbc914dfe3a4d628c62)
-    * [Kenia y Haití instan a socios internacionales a cumplir compromisos con misión de paz](https://apnews.com/world-news/general-news-6e0767b00c63b1a493fb77a2156218a7)
+    * [El hacinamiento agobia al sistema penitenciario de Paraguay: así viven los presos de cinco cárceles](https://apnews.com/world-news/general-news-3e27caa14f734f0d5a0b727d6ed90e00)
+    * [Demandan en EEUU a excoronel salvadoreño por asesinato de periodistas holandeses en 1982](https://apnews.com/us-news/general-news-16f0db46b4d4c9b00d6e93b637d26a2c)
+    * [Brasil empieza a bloquear más de 2.000 sitios web de apuestas considerados como irregulares](https://apnews.com/world-news/general-news-4e6ccab148be429ab3aa988d70dfdea1)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
