@@ -241,16 +241,16 @@ The Terms of Use, Privacy Policy and Code of Conduct, constitute the sole and en
 **Copyright Infringement**
 --------------------------
 
-If you believe that any User Contributions violate your copyright, please contact [legal@andela.com](mailto:legal@andela.com).  It is the policy of the Company to terminate the user accounts of repeat infringers.
+If you believe that any User Contributions violate your copyright, please contact [\[email protected\]](https://www.codewars.com/cdn-cgi/l/email-protection).  It is the policy of the Company to terminate the user accounts of repeat infringers.
 
 **Comments and Concerns**
 -------------------------
 
 This website is operated by Andela Inc.
 
-All notices of copyright infringement claims should be sent to [legal@andela.com.](mailto:legal@andela.com)
+All notices of copyright infringement claims should be sent to [\[email protected\]](https://www.codewars.com/cdn-cgi/l/email-protection)
 
-All other feedback, comments, requests for technical support and other communications relating to the Website should be directed to: [info@codewars.com](mailto:info@codewars.com).
+All other feedback, comments, requests for technical support and other communications relating to the Website should be directed to: [\[email protected\]](https://www.codewars.com/cdn-cgi/l/email-protection).
 
 [![](https://cdn.prod.website-files.com/6674f0cdb5b7b401612cf015/6674f0cdb5b7b401612cf067_codewars-logomark.svg)](#)
 
