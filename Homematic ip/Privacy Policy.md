@@ -317,6 +317,20 @@ Sicherheits-Champion: Homematic IP zum achten Mal in Folge vom VDE zertifiziert]
 
 [Okt.
 
+17
+
+Event
+
+Entdecken Sie Homematic IP auf der TU Boot 2024! Vom 17. Oktober bis 25. November an 20 Standorten in den Niederlanden](https://homematic-ip.com/de/event/tu-boot-2024-deventer-2024-10-17-deventer)
+
+[Okt.
+
+17-19
+
+Event](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-10-17-bauhaus-dresden-nickern)
+
+[Okt.
+
 10-12
 
 Event
