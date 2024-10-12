@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/help-om-de-eu-gmo-petitie-aan-te-bieden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/universum/%e2%80%98ufo%e2%80%99s-bestaan/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
