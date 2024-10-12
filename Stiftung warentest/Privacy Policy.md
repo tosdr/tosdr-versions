@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
-* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
-* [Reinigungs­trend Oil Cleansing: Mit Öl gegen Make-up und Sonnen­creme](https://www.test.de/Reinigungstrend-Oil-Cleansing-Mit-Oel-gegen-Make-up-und-Sonnencreme-6133947-0/ "Reinigungstrend Oil Cleansing - Mit Öl gegen Make-up und Sonnencreme")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
-* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Nahrungs­ergän­zungs­mittel für Knochen, Knorpel oder Gelenke: Alle sind über­flüssig – einige auch riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Knochen-Knorpel-oder-Gelenke-Alle-sind-ueberfluessig-einige-auch-riskant-6095273-0/ "Nahrungsergänzungsmittel für Knochen, Knorpel oder Gelenke - Alle sind überflüssig – einige auch riskant")
+* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
+* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
-* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
-* [Reinigungs­trend Oil Cleansing: Mit Öl gegen Make-up und Sonnen­creme](https://www.test.de/Reinigungstrend-Oil-Cleansing-Mit-Oel-gegen-Make-up-und-Sonnencreme-6133947-0/ "Reinigungstrend Oil Cleansing - Mit Öl gegen Make-up und Sonnencreme")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
-* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Nahrungs­ergän­zungs­mittel für Knochen, Knorpel oder Gelenke: Alle sind über­flüssig – einige auch riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Knochen-Knorpel-oder-Gelenke-Alle-sind-ueberfluessig-einige-auch-riskant-6095273-0/ "Nahrungsergänzungsmittel für Knochen, Knorpel oder Gelenke - Alle sind überflüssig – einige auch riskant")
+* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
+* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
-* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
-* [Reinigungs­trend Oil Cleansing: Mit Öl gegen Make-up und Sonnen­creme](https://www.test.de/Reinigungstrend-Oil-Cleansing-Mit-Oel-gegen-Make-up-und-Sonnencreme-6133947-0/ "Reinigungstrend Oil Cleansing - Mit Öl gegen Make-up und Sonnencreme")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
-* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Nahrungs­ergän­zungs­mittel für Knochen, Knorpel oder Gelenke: Alle sind über­flüssig – einige auch riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Knochen-Knorpel-oder-Gelenke-Alle-sind-ueberfluessig-einige-auch-riskant-6095273-0/ "Nahrungsergänzungsmittel für Knochen, Knorpel oder Gelenke - Alle sind überflüssig – einige auch riskant")
+* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
+* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
-* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
-* [Reinigungs­trend Oil Cleansing: Mit Öl gegen Make-up und Sonnen­creme](https://www.test.de/Reinigungstrend-Oil-Cleansing-Mit-Oel-gegen-Make-up-und-Sonnencreme-6133947-0/ "Reinigungstrend Oil Cleansing - Mit Öl gegen Make-up und Sonnencreme")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
-* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Nahrungs­ergän­zungs­mittel für Knochen, Knorpel oder Gelenke: Alle sind über­flüssig – einige auch riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Knochen-Knorpel-oder-Gelenke-Alle-sind-ueberfluessig-einige-auch-riskant-6095273-0/ "Nahrungsergänzungsmittel für Knochen, Knorpel oder Gelenke - Alle sind überflüssig – einige auch riskant")
+* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
+* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
 
 Service Stiftung Warentest
 
