@@ -94,8 +94,6 @@ Apply
 
 [](https://www.mypillow.com/the-classic-collection)
 
-[](https://www.mypillow.com/mycoffee-options)
-
 [](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
 
 [](https://www.mypillow.ca/mystore-general-redirect)
