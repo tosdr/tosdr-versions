@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Befestigung Auto­kinder­sitze: Gefähr­liche Isofix-Adapter](https://www.test.de/Befestigung-Autokindersitze-Gefaehrliche-Isofix-Adapter-6159718-0/ "Befestigung Autokindersitze - Gefährliche Isofix-Adapter")
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
-* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Befestigung Auto­kinder­sitze: Gefähr­liche Isofix-Adapter](https://www.test.de/Befestigung-Autokindersitze-Gefaehrliche-Isofix-Adapter-6159718-0/ "Befestigung Autokindersitze - Gefährliche Isofix-Adapter")
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
-* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Befestigung Auto­kinder­sitze: Gefähr­liche Isofix-Adapter](https://www.test.de/Befestigung-Autokindersitze-Gefaehrliche-Isofix-Adapter-6159718-0/ "Befestigung Autokindersitze - Gefährliche Isofix-Adapter")
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
-* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Befestigung Auto­kinder­sitze: Gefähr­liche Isofix-Adapter](https://www.test.de/Befestigung-Autokindersitze-Gefaehrliche-Isofix-Adapter-6159718-0/ "Befestigung Autokindersitze - Gefährliche Isofix-Adapter")
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
-* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
 
 Service Stiftung Warentest
 
