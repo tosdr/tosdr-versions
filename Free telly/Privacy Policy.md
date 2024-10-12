@@ -321,13 +321,13 @@ For example:
 
 **Personal Data of Children**
 
-As noted in the Terms of Use, we do not knowingly collect or solicit Personal Data about children under 18 years of age; if you are a child under the age of 18, please do not attempt to register for or otherwise use the Services or send us any Personal Data. If we learn we have collected Personal Data from a child under 18 years of age, we will delete that information as quickly as possible. If you believe that a child under 18  years of age may have provided Personal Data to us, please contact us at support@freetelly.com.
+As noted in the Terms of Use, we do not knowingly collect or solicit Personal Data about children under 18 years of age; if you are a child under the age of 18, please do not attempt to register for or otherwise use the Services or send us any Personal Data. If we learn we have collected Personal Data from a child under 18 years of age, we will delete that information as quickly as possible. If you believe that a child under 18  years of age may have provided Personal Data to us, please contact us at [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection).
 
 **California Resident Rights**
 
 If you are a California resident, you may have the rights set forth in this section pursuant to the California Consumer Privacy Act, as amended by the California Privacy Rights Act. Please see the “Exercising Your Rights” section below for instructions regarding how to exercise these rights. Please note that we may process Personal Data of our customers’ end users or employees in connection with our provision of certain Services to our customers. If we are processing your data as a service provider, you should contact the entity that collected your Personal Data in the first instance to address your rights with respect to such data.
 
-If there are any conflicts between this section and any other provision of this Telly Website, App and Reservations Privacy Policy and you are a California resident, the portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following rights apply to you, please contact us at support@freetelly.com.
+If there are any conflicts between this section and any other provision of this Telly Website, App and Reservations Privacy Policy and you are a California resident, the portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following rights apply to you, please contact us at [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection).
 
 _Access_
 
@@ -375,7 +375,7 @@ Over the past 12 months, we have sold or shared those categories of your Persona
 
 You have the right to opt-out of the sale of your Personal Data or the sharing of it for cross-context behavioral advertising. You can opt-out using the following methods:
 
-* Email us at support@freetelly.com.
+* Email us at [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection).
 * For browsers that support it, you can use a [Global Privacy Control](https://globalprivacycontrol.org/) or similar control that is legally recognized by a government agency or industry standard and that complies with the CCPA. The signal issued by the control must be initiated by your browser and applies to the specific device and browser you use at the time you cast the signal. Please note this does not include Do Not Track signals. Please also note not all browsers support GPC at this time. 
 
 Once you have submitted an opt-out request, we will not ask you to reauthorize the sale of your Personal Data for at least 12 months.
@@ -392,7 +392,7 @@ We will not discriminate against you for exercising your rights under the CCPA.�
 
 If you are a Virginia resident, you have the rights set forth under the Virginia Consumer Data Protection Act (“VCDPA”). Please see the “Exercising Your Rights” section below for instructions regarding how to exercise these rights. Please note that we may process Personal Data of our customers’ end users or employees in connection with our provision of certain Services to our customers. If we are processing your Personal Data as a service provider, you should contact the entity that collected your Personal Data in the first instance to address your rights with respect to such data. Additionally, please note that these rights are subject to certain conditions and exceptions under applicable law, which may permit or require us to deny your request.
 
-If there are any conflicts between this section and any other provision of this Telly Website, App and Reservations Privacy Policy and you are a Virginia resident, the portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following rights apply to you, please contact us at support@freetelly.com.
+If there are any conflicts between this section and any other provision of this Telly Website, App and Reservations Privacy Policy and you are a Virginia resident, the portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following rights apply to you, please contact us at [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection).
 
 _Access_
 
@@ -414,7 +414,7 @@ _Opt-Out of Certain Processing Activities_
 
 If you are a Virginia resident, you may have the right to opt-out of the processing activities identified below.
 
-* You may have the right to opt-out of the processing of your Personal Data for targeted advertising purposes. We may process Personal Data governed by the Telly Website, App and Reservations Privacy Policy for targeted advertising purposes. To opt-out of our processing of Personal Data for targeted advertising purposes, please click Do Not Sell or Share My Personal Information \[[www.telly.com/do-not-sell-my-personal-data](http://www.telly.com/do-not-sell-my-personal-data)\] or email us at support@freetelly.com.
+* You may have the right to opt-out of the processing of your Personal Data for targeted advertising purposes. We may process Personal Data governed by the Telly Website, App and Reservations Privacy Policy for targeted advertising purposes. To opt-out of our processing of Personal Data for targeted advertising purposes, please click Do Not Sell or Share My Personal Information \[[www.telly.com/do-not-sell-my-personal-data](http://www.telly.com/do-not-sell-my-personal-data)\] or email us at [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection).
 
                -  Please note that if you are selected to receive a Telly Device, our processing of your Personal Data will be governed by our Telly Product Privacy                   Policy \[www.telly.com/product-privacy-policy\]; we process Personal Data governed by our Telly Product Privacy Policy                   \[[www.telly.com/product-privacy-policy](http://www.telly.com/product-privacy-policy)\] for targeted advertising purposes. Please refer to that Policy for more information.
 
@@ -434,7 +434,7 @@ If we refuse to take action on a request within a reasonable period of time afte
 
 You may appeal a decision by us using the following method:
 
-* Email us at: support@freetelly.com (title must include “VCDPA Appeal”)
+* Email us at: [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection) (title must include “VCDPA Appeal”)
 
 **Exercising Your Rights under CCPA and VCDPA**
 
@@ -446,7 +446,7 @@ We will work to respond to your Valid Request within the time period required by
 
 You may submit a Valid Request using the following method:
 
-* Email us at: support@freetelly.com
+* Email us at: [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection)
 
 If you are a California resident, you may also authorize an agent (an “Authorized Agent”) to exercise your rights on your behalf. To do this, you must provide your Authorized Agent with written permission to exercise your rights on your behalf, and we may request a copy of this written permission from your Authorized Agent when they make a request on your behalf.
 
@@ -456,14 +456,14 @@ If you are a California resident, you may also authorize an agent (an “Authori
 
 _California Resident Rights_
 
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of data to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at support@freetelly.com. 
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of data to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection). 
 
 Please note that because the effect of “Do Not Track” signals remains unclear, and there continues to be no consistent industry understanding of how to respond to such a signal, we do not alter our privacy practices when we detect a “Do Not Track” signal from your browser.  
 ‍
 
 _Nevada Resident Rights_
 
-If you are a resident of Nevada, you have the right to opt-out of the sale of certain data to third parties who intend to license or sell that data. You can exercise this right by contacting us at support@freetelly.com with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account. Please note that we do not currently sell your data as sales are defined in Nevada Revised Statutes Chapter 603A. 
+If you are a resident of Nevada, you have the right to opt-out of the sale of certain data to third parties who intend to license or sell that data. You can exercise this right by contacting us at [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection) with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account. Please note that we do not currently sell your data as sales are defined in Nevada Revised Statutes Chapter 603A. 
 
 ‍
 
@@ -472,7 +472,7 @@ If you are a resident of Nevada, you have the right to opt-out of the sale of ce
 If you have any questions or comments about this Telly Website, App and Reservations Privacy Policy, the ways in which we collect and use your data or your choices and rights regarding such collection and use, please do not hesitate to contact us at:
 
 * [www.telly.com](https://www.telly.com/)
-* support@freetelly.com
+* [\[email protected\]](https://www.freetelly.com/cdn-cgi/l/email-protection)
 * 14622 VENTURA BLVD #102 PMB 2037 SHERMAN OAKS, CA 91403
 
 ‍
