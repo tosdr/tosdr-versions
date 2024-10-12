@@ -402,6 +402,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Fort Worth shooting: 1 killed, 1 injured after suspect shoots into crowd near La Gran Plaza](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101224-sh-ftwpd-shooting-south-fwy-_kdfwa7f1_186_m_00.04.15.58.jpg?ve=1&tl=1)
+
+ ![Fort Worth shooting: 1 killed, 1 injured after suspect shoots into crowd near La Gran Plaza](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101224-sh-ftwpd-shooting-south-fwy-_kdfwa7f1_186_m_00.04.15.58.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-shooting-la-gran-plaza)
+
+### [Fort Worth shooting: 1 killed, 1 injured after suspect shoots into crowd near La Gran Plaza](https://www.fox4news.com/news/fort-worth-shooting-la-gran-plaza)
+
+ [![Fort Worth shooting: 1 dead, 1 injured in northwest Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101224-sh-ftwpd-shooting-ne-33rd-st_kdfwa7f3_186_m_00.17.13.36.jpg?ve=1&tl=1)
+
+ ![Fort Worth shooting: 1 dead, 1 injured in northwest Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101224-sh-ftwpd-shooting-ne-33rd-st_kdfwa7f3_186_m_00.17.13.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-ne-33rd-street-oct-12)
+
+### [1 dead, 1 injured in northwest Fort Worth shooting](https://www.fox4news.com/news/fort-worth-ne-33rd-street-oct-12)
+
+ [![18-wheeler driver dies after Fort Worth crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101224-sh-ftwpd-major-crash-fx-nw-loop-820-wb_kdfw_00.00.46.54.jpg?ve=1&tl=1)
+
+ ![18-wheeler driver dies after Fort Worth crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101224-sh-ftwpd-major-crash-fx-nw-loop-820-wb_kdfw_00.00.46.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/18-wheeler-driver-dies-after-fort-worth-crash)
+
+### [18-wheeler driver dies after Fort Worth crash](https://www.fox4news.com/news/18-wheeler-driver-dies-after-fort-worth-crash)
+
  [![Former Dallas Uber driver arrested for punching elderly passenger on video](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/dalllas-uber-assault-arrest.png?ve=1&tl=1)
 
  ![Former Dallas Uber driver arrested for punching elderly passenger on video](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/dalllas-uber-assault-arrest.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/former-dallas-uber-driver-arrested-punching-elderly-passenger-video)
@@ -413,24 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Fort Worth man accused of nearly decapitating wife found dead while awaiting trial](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-peyton-fw-camden-yard-dr-murder-9p_00.00.30.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nathaniel-rowland-found-dead-elizabeth-rowland-murder-suspect-fatal-stabbing)
 
 ### [Fort Worth man accused of nearly decapitating wife found dead while awaiting trial](https://www.fox4news.com/news/nathaniel-rowland-found-dead-elizabeth-rowland-murder-suspect-fatal-stabbing)
-
- [![Broken elevator door led to Colorado mine accident that killed 1, trapped 12 tourists](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-84051937.jpg?ve=1&tl=1)
-
- ![Broken elevator door led to Colorado mine accident that killed 1, trapped 12 tourists](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-84051937.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/colorado-mine-elevator-accident-kills-tour-guide)
-
-### [Broken elevator door led to Colorado mine accident that killed 1, trapped 12 tourists](https://www.fox4news.com/news/colorado-mine-elevator-accident-kills-tour-guide)
-
- [![Trump visits Aurora, Colorado to warn of migrant threat that city says doesn't exist](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/donald-trump-scaled.jpg?ve=1&tl=1)
-
- ![Trump visits Aurora, Colorado to warn of migrant threat that city says doesn't exist](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/donald-trump-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-rally-aurora-colorado)
-
-### [Trump visits Aurora, Colorado to warn of migrant threat that city says doesn't exist](https://www.fox4news.com/news/trump-rally-aurora-colorado)
-
- [![Hurricane Milton: Death toll rises as Florida recovers from damage](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2176957818.jpg?ve=1&tl=1)
-
- ![Hurricane Milton: Death toll rises as Florida recovers from damage](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2176957818.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-florida-damage-death-toll-rises-october-11-2024)
-
-### [Hurricane Milton: Death toll rises as Florida recovers from damage](https://www.fox4news.com/news/hurricane-milton-florida-damage-death-toll-rises-october-11-2024)
 
 ###### [News](https://www.fox4news.com/news)
 
