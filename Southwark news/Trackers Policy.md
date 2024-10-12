@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_7509-360x180.jpg)](https://southwarknews.co.uk/news/housing/bermondsey-council-flats-reach-building-milestone/)
+    
+    ### [Bermondsey council flats reach building milestone](https://southwarknews.co.uk/news/housing/bermondsey-council-flats-reach-building-milestone/)
+    
+    [![Computer-generated image of the Canada Water Masterplan](https://southwarknews.co.uk/wp-content/uploads/2024/10/Canada-Water-Masterplan-Dock-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/comment-private-security-cannot-replace-proper-policing-at-canada-water/)
+    
+    ### [Comment: Private security cannot replace proper policing at Canada Water](https://southwarknews.co.uk/area/rotherhithe/comment-private-security-cannot-replace-proper-policing-at-canada-water/)
+    
     [![The Blue Market. Credit: The Blue BID](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-11-15-20-12-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
     
     ### [‘Greening the Blue’: Eco event series coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
@@ -47,14 +55,6 @@
     [![Leo Gregory, Green Street actor (left), and Roy Larner (right). Image: Dougie Brimson](https://southwarknews.co.uk/wp-content/uploads/2024/10/Leo-Gregory-Green-Street-actor-left-and-Roy-Larner-right.-Image-Dougie-Brimson-360x180.png)](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
     
     ### [Exclusive: ‘Green Street’ creator to make movie about man who shouted ‘F\*ck you I’m Millwall’ while fighting off Jihadi terrorists](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
-    
-    [![Umana Yana owner, Debbie Monfries](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4937-e1728574270295-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
-    
-    ### [Exclusive: Council says it won’t remove huge telecom boxes blocking Caribbean restaurant](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
-    
-    [![Police and paramedics rushed to the scene on Quebec Way last month](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-and-paramedics-rushed-to-the-scene-on-Quebec-Way.--360x180.png)](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
-    
-    ### [Three teens arrested for Surrey Quays stabbing as police appeal for witnesses](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_7509-360x180.jpg)](https://southwarknews.co.uk/news/housing/bermondsey-council-flats-reach-building-milestone/)
+    
+    ### [Bermondsey council flats reach building milestone](https://southwarknews.co.uk/news/housing/bermondsey-council-flats-reach-building-milestone/)
+    
+    [![Computer-generated image of the Canada Water Masterplan](https://southwarknews.co.uk/wp-content/uploads/2024/10/Canada-Water-Masterplan-Dock-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/comment-private-security-cannot-replace-proper-policing-at-canada-water/)
+    
+    ### [Comment: Private security cannot replace proper policing at Canada Water](https://southwarknews.co.uk/area/rotherhithe/comment-private-security-cannot-replace-proper-policing-at-canada-water/)
+    
     [![The Blue Market. Credit: The Blue BID](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-11-15-20-12-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
     
     ### [‘Greening the Blue’: Eco event series coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
@@ -128,14 +136,6 @@ View All Result
     [![Leo Gregory, Green Street actor (left), and Roy Larner (right). Image: Dougie Brimson](https://southwarknews.co.uk/wp-content/uploads/2024/10/Leo-Gregory-Green-Street-actor-left-and-Roy-Larner-right.-Image-Dougie-Brimson-360x180.png)](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
     
     ### [Exclusive: ‘Green Street’ creator to make movie about man who shouted ‘F\*ck you I’m Millwall’ while fighting off Jihadi terrorists](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
-    
-    [![Umana Yana owner, Debbie Monfries](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4937-e1728574270295-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
-    
-    ### [Exclusive: Council says it won’t remove huge telecom boxes blocking Caribbean restaurant](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
-    
-    [![Police and paramedics rushed to the scene on Quebec Way last month](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-and-paramedics-rushed-to-the-scene-on-Quebec-Way.--360x180.png)](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
-    
-    ### [Three teens arrested for Surrey Quays stabbing as police appeal for witnesses](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
