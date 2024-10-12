@@ -187,11 +187,11 @@ Residents of certain jurisdictions (including the EEA, UK, California, Colorado,
 
 Please note that your rights may vary depending upon your jurisdiction and be subject to exceptions under law.  
 
-To exercise any of these rights, please contact us at privacy@goguardian.com. Authorized agents for California residents may submit requests at: [https://www.goguardian.com/ccpa-requests](https://www.goguardian.com/ccpa-requests).  We may require proof of the written authorization you have given.
+To exercise any of these rights, please contact us at [\[email protected\]](https://www.goguardian.com/cdn-cgi/l/email-protection). Authorized agents for California residents may submit requests at: [https://www.goguardian.com/ccpa-requests](https://www.goguardian.com/ccpa-requests).  We may require proof of the written authorization you have given.
 
 We will consider all of your requests and provide our response within the time period stated by applicable law. Please note, however, that certain information may be exempt from such requests in some circumstances, which may include needing to continue processing your information for our legitimate interests or to comply with a legal obligation. We may request that you provide us with information necessary to confirm your identity before responding to your request.
 
-Virginia residents may appeal the denial of a request here: privacy@goguardian.com. We will respond within the legally required time period, including a written explanation of the results of your appeal.  In addition to those rights, you may have the right to lodge a complaint with the relevant supervisory authority. However, we encourage you to contact us first, and we will do our very best to resolve your concern.
+Virginia residents may appeal the denial of a request here: [\[email protected\]](https://www.goguardian.com/cdn-cgi/l/email-protection). We will respond within the legally required time period, including a written explanation of the results of your appeal.  In addition to those rights, you may have the right to lodge a complaint with the relevant supervisory authority. However, we encourage you to contact us first, and we will do our very best to resolve your concern.
 
 #### 1.7.2 Privacy Choices: Do Not Sell or Share or Process My Personal Information for Targeted Advertising 
 
@@ -248,7 +248,7 @@ Our Website is operated in the United States. If you are located outside of the 
 
 Please see the "Your Rights and Choices" section above for more information.
 
-* **_How to Contact Us for Non-U.S. Residents:_** If you are located outside the United States and have questions or concerns regarding our Website Privacy Policy or practices, you may direct a complaint in writing to Privacy Officer, Liminex, Inc., 2030 East Maple Avenue, Suite 100 El Segundo, California 90245. Tel: 1-888-310-0410 Email: [privacy@goguardian.com](mailto:privacy@goguardian.com). Within a reasonable time of receiving the written complaint, we will review and address your complaint, as appropriate, and inform you of the results of such review and any steps taken to address your complaint.**_‍_**
+* **_How to Contact Us for Non-U.S. Residents:_** If you are located outside the United States and have questions or concerns regarding our Website Privacy Policy or practices, you may direct a complaint in writing to Privacy Officer, Liminex, Inc., 2030 East Maple Avenue, Suite 100 El Segundo, California 90245. Tel: 1-888-310-0410 Email: [\[email protected\]](https://www.goguardian.com/cdn-cgi/l/email-protection). Within a reasonable time of receiving the written complaint, we will review and address your complaint, as appropriate, and inform you of the results of such review and any steps taken to address your complaint.**_‍_**
 * **_Dispute Resolution for EU and Swiss Residents:_** If you are a resident of the EU or Switzerland whose personal data is subject to the Framework, and are dissatisfied with the manner in which we have addressed your concerns or we fail to respond to you within 45 days of your complaint, you may seek further assistance, at no cost to you, from our designated Data Privacy Framework independent recourse mechanism, the JAMS Data Privacy Framework Program, which you can learn more about by visiting [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework). Residents of the EU or Switzerland whose personal data is subject to the Framework may, in certain circumstances, elect to arbitrate unresolved complaints by invoking binding arbitration pursuant to the Framework’s Recourse, Enforcement and Liability Principle and Annex I of the Framework (see: [https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf](https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf)) but prior to initiating such arbitration, you must: (1) afford us the opportunity to resolve the issue; (2) seek assistance via our recourse mechanism above; and (3) contact the U.S. Department of Commerce (either directly or through the relevant Data Protection Authority) and afford the U.S. Department of Commerce time to attempt to resolve the issue. Each party shall be responsible for its own attorney's fees. Please be advised that, pursuant to the Framework, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Framework Principles with respect to the individual. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 3\. Cookies Notice
@@ -299,12 +299,12 @@ We may change this Website Privacy Policy to reflect changes in the law, our inf
 
 Protecting children’s and student’s privacy is especially important to us. We participate in the iKeepSafe Safe Harbor program. We have been granted the iKeepSafe COPPA Safe Harbor seal signifying that GoGuardian’s Website as well as the software that runs the Website and the GoGuardian Offerings (GoGuardian Admin, GoGuardian Teacher, and GoGuardian Beacon) have been reviewed and approved for having policies and practices surrounding the collection, use, maintenance and disclosure of personal information from children consistent with the iKeepSafe COPPA Safe Harbor program guidelines. COPPA protects the online privacy of children under the age of 13; below is an email for iKeepSafe Safe Harbor program:
 
-Email: [privacy@ikeepsafe.org](mailto:privacy@ikeepsafe.org)
+Email: [\[email protected\]](https://www.goguardian.com/cdn-cgi/l/email-protection)
 
 6\. How to Contact Us
 ---------------------
 
-If you have questions or concerns, the best way to reach us is by emailing privacy@goguardian.com. You can also reach us by calling 888-310-0410 or by writing to Liminex, Inc., Attn: Privacy Officer, 2030 East Maple Avenue, Suite 100 El Segundo, California 90245.
+If you have questions or concerns, the best way to reach us is by emailing [\[email protected\]](https://www.goguardian.com/cdn-cgi/l/email-protection). You can also reach us by calling 888-310-0410 or by writing to Liminex, Inc., Attn: Privacy Officer, 2030 East Maple Avenue, Suite 100 El Segundo, California 90245.
 
 Additionally, please feel free to consult additional resources such as the ones listed below.
 
