@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![gandara01](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254369.thumb.jpeg.f9e21fdf2e3ab295fac898087ddb06c0.jpeg)](https://www.clubedohardware.com.br/profile/1254369-gandara01/ "Ir ao perfil de gandara01")
-        
-        1
-        
-        [Qual cooler utilizar num Ryzen 5 7600x?](https://www.clubedohardware.com.br/forums/topic/1699491-qual-cooler-utilizar-num-ryzen-5-7600x/?do=getNewComment "Qual cooler utilizar num Ryzen 5 7600x?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [gandara01](https://www.clubedohardware.com.br/profile/1254369-gandara01/ "Ir ao perfil de gandara01")  
-        21 minutos atrás
-        
-    * [![JarOfFlies](https://www.clubedohardware.com.br/uploads/members/monthly_2023_02/179055336_WhatsAppImage2023-02-12at09_57_46.thumb.jpeg.9e397a93885c471086a82fbf201c2b09.jpeg)](https://www.clubedohardware.com.br/profile/651874-jarofflies/ "Ir ao perfil de JarOfFlies")
+    * [![EmanuelBJJ](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/Capturadetela2024-10-07201849.thumb.png.3c0fe2dd6b45907be0d7c50da1196f58.png)](https://www.clubedohardware.com.br/profile/1254062-emanuelbjj/ "Ir ao perfil de EmanuelBJJ")
         
         0
         
-        [Upgrade de processador, placa de Vídeo e fonte](https://www.clubedohardware.com.br/forums/topic/1699490-upgrade-de-processador-placa-de-v%C3%ADdeo-e-fonte/?do=getNewComment "Upgrade de processador, placa de Vídeo e fonte")
+        [Qual o melhor método para se ter um diagnóstico do PC?](https://www.clubedohardware.com.br/forums/topic/1699509-qual-o-melhor-m%C3%A9todo-para-se-ter-um-diagn%C3%B3stico-do-pc/?do=getNewComment "Qual o melhor método para se ter um diagnóstico do PC?")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [JarOfFlies](https://www.clubedohardware.com.br/profile/651874-jarofflies/ "Ir ao perfil de JarOfFlies")  
-        21 minutos atrás
-        
-    * [![Illgner28](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1184479.thumb.png.b7c39a5759b75788381aafa6b02765ed.png)](https://www.clubedohardware.com.br/profile/1184479-illgner28/ "Ir ao perfil de Illgner28")
-        
-        0
-        
-        [Como instalar um SSD?](https://www.clubedohardware.com.br/forums/topic/1699489-como-instalar-um-ssd/?do=getNewComment "Como instalar um SSD?")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Illgner28](https://www.clubedohardware.com.br/profile/1184479-illgner28/ "Ir ao perfil de Illgner28")  
-        40 minutos atrás
-        
-    * [![Phcj](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/imported-photo-1233529.thumb.png.42faa152fd0567416efd5638182be847.png)](https://www.clubedohardware.com.br/profile/1233529-phcj/ "Ir ao perfil de Phcj")
-        
-        0
-        
-        [Recomendação de configuração até 4000 reais](https://www.clubedohardware.com.br/forums/topic/1699488-recomenda%C3%A7%C3%A3o-de-configura%C3%A7%C3%A3o-at%C3%A9-4000-reais/?do=getNewComment "Recomendação de configuração até 4000 reais")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Phcj](https://www.clubedohardware.com.br/profile/1233529-phcj/ "Ir ao perfil de Phcj")  
-        48 minutos atrás
-        
-    * [![mineirimbb](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239cc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")
-        
-        0
-        
-        [Temperatura do SSD PCIe 5.0](https://www.clubedohardware.com.br/forums/topic/1699487-temperatura-do-ssd-pcie-50/?do=getNewComment "Temperatura do SSD PCIe 5.0")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [mineirimbb](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")  
-        56 minutos atrás
-        
-    * [![Gustavo lo](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46298%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EGL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1241736-gustavo-lo/ "Ir ao perfil de Gustavo lo")
-        
-        2
-        
-        [Muita Queda de fps do nada no Ryzen 4500 e GTX 1650](https://www.clubedohardware.com.br/forums/topic/1699486-muita-queda-de-fps-do-nada-no-ryzen-4500-e-gtx-1650/?do=getNewComment "Muita Queda de fps do nada no Ryzen 4500 e GTX 1650")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [Gustavo lo](https://www.clubedohardware.com.br/profile/1241736-gustavo-lo/ "Ir ao perfil de Gustavo lo")  
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [EmanuelBJJ](https://www.clubedohardware.com.br/profile/1254062-emanuelbjj/ "Ir ao perfil de EmanuelBJJ")  
         1 hora atrás
         
-    * [![Marcos FRM](https://www.clubedohardware.com.br/uploads/members/monthly_2016_01/vanellope_kart2.png.6c251cfab6df05a4ac8067eecb09ed7d.thumb.png.e413857f1275ad121e8ddd48ea77fb4a.png)](https://www.clubedohardware.com.br/profile/748347-marcos-frm/ "Ir ao perfil de Marcos FRM")
+    * [![PhaHell](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254380.thumb.jpeg.1593d2f7127ee638b1ceaf7f548c4cee.jpeg)](https://www.clubedohardware.com.br/profile/1254380-phahell/ "Ir ao perfil de PhaHell")
         
         0
         
-        [Dica: atualizar do Windows 10 para o 11 24H2 em máquinas não suportadas](https://www.clubedohardware.com.br/forums/topic/1699485-dica-atualizar-do-windows-10-para-o-11-24h2-em-m%C3%A1quinas-n%C3%A3o-suportadas/?do=getNewComment "Dica: atualizar do Windows 10 para o 11 24H2 em máquinas não suportadas")
+        [ao ligar o pc, o monitor secundário da vídeo, depois que o windows inicia para](https://www.clubedohardware.com.br/forums/topic/1699508-ao-ligar-o-pc-o-monitor-secund%C3%A1rio-da-v%C3%ADdeo-depois-que-o-windows-inicia-para/?do=getNewComment "ao ligar o pc, o monitor secundário da vídeo, depois que o windows inicia para")
         
-        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
-        Por [Marcos FRM](https://www.clubedohardware.com.br/profile/748347-marcos-frm/ "Ir ao perfil de Marcos FRM")  
-        1 hora atrás
-        
-    * [![OFraNath](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/1000104702(1).thumb.jpg.6a037fbc3e741aaf433698f5544511fc.jpg)](https://www.clubedohardware.com.br/profile/1254348-ofranath/ "Ir ao perfil de OFraNath")
-        
-        0
-        
-        [Maneiras de evitar bottleneck de CPU em jogos.](https://www.clubedohardware.com.br/forums/topic/1699480-maneiras-de-evitar-bottleneck-de-cpu-em-jogos/?do=getNewComment "Maneiras de evitar bottleneck de CPU em jogos.")
-        
-        [Quais jogos meu PC roda?](https://www.clubedohardware.com.br/forums/forum/277-quais-jogos-meu-pc-roda/ "Quais jogos meu PC roda?")  
-        Por [OFraNath](https://www.clubedohardware.com.br/profile/1254348-ofranath/ "Ir ao perfil de OFraNath")  
-        1 hora atrás
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [PhaHell](https://www.clubedohardware.com.br/profile/1254380-phahell/ "Ir ao perfil de PhaHell")  
+        3 horas atrás
         
     * [![ViFe](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")
         
-        4
+        0
         
-        [Recomendação de adaptador wi fi (usb)](https://www.clubedohardware.com.br/forums/topic/1699479-recomenda%C3%A7%C3%A3o-de-adaptador-wi-fi-usb/?do=getNewComment "Recomendação de adaptador wi fi (usb)")
+        [Recomendação de fone de ouvido sem fio (para celular android)](https://www.clubedohardware.com.br/forums/topic/1699507-recomenda%C3%A7%C3%A3o-de-fone-de-ouvido-sem-fio-para-celular-android/?do=getNewComment "Recomendação de fone de ouvido sem fio (para celular android)")
         
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
         Por [ViFe](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")  
-        2 horas atrás
+        3 horas atrás
         
-    * [![nicolaslca](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254362.thumb.png.55d1c2b67b004436dfe6c9bb9c95e13f.png)](https://www.clubedohardware.com.br/profile/1254362-nicolaslca/ "Ir ao perfil de nicolaslca")
+    * [![Gudy2022](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46287%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1198203-gudy2022/ "Ir ao perfil de Gudy2022")
         
-        1
+        2
         
-        [Monitor aparece uns borrão verde ao dar alt tab quando esta em jogo.](https://www.clubedohardware.com.br/forums/topic/1699478-monitor-aparece-uns-borr%C3%A3o-verde-ao-dar-alt-tab-quando-esta-em-jogo/?do=getNewComment "Monitor aparece uns borrão verde ao dar alt tab quando esta em jogo.")
+        [Qual GPU escolho pro meu setup? Fonte Cooler Master MWE 500W](https://www.clubedohardware.com.br/forums/topic/1699506-qual-gpu-escolho-pro-meu-setup-fonte-cooler-master-mwe-500w/?do=getNewComment "Qual GPU escolho pro meu setup? Fonte Cooler Master MWE 500W")
         
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [nicolaslca](https://www.clubedohardware.com.br/profile/1254362-nicolaslca/ "Ir ao perfil de nicolaslca")  
-        2 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Gudy2022](https://www.clubedohardware.com.br/profile/1198203-gudy2022/ "Ir ao perfil de Gudy2022")  
+        3 horas atrás
+        
+    * [![Eng Gabriel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254379.thumb.jpeg.091bf21c49f1b473a83fe5e49e4c08bb.jpeg)](https://www.clubedohardware.com.br/profile/1254379-eng-gabriel/ "Ir ao perfil de Eng Gabriel")
+        
+        0
+        
+        [Troquei placa-mãe e processador e não dá vídeo](https://www.clubedohardware.com.br/forums/topic/1699505-troquei-placa-m%C3%A3e-e-processador-e-n%C3%A3o-d%C3%A1-v%C3%ADdeo/?do=getNewComment "Troquei placa-mãe e processador e não dá vídeo")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Eng Gabriel](https://www.clubedohardware.com.br/profile/1254379-eng-gabriel/ "Ir ao perfil de Eng Gabriel")  
+        3 horas atrás
+        
+    * [![Matheus Cardoso Berto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1242406.thumb.jpeg.3dcdd5d1301bbff378762f3ca8e9be04.jpeg)](https://www.clubedohardware.com.br/profile/1242406-matheus-cardoso-berto/ "Ir ao perfil de Matheus Cardoso Berto")
+        
+        0
+        
+        [pc reiniciando ao rodar jogos pesados com xmp](https://www.clubedohardware.com.br/forums/topic/1699504-pc-reiniciando-ao-rodar-jogos-pesados-com-xmp/?do=getNewComment "pc reiniciando ao rodar jogos pesados com xmp")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Matheus Cardoso Berto](https://www.clubedohardware.com.br/profile/1242406-matheus-cardoso-berto/ "Ir ao perfil de Matheus Cardoso Berto")  
+        3 horas atrás
+        
+    * [![ze2204](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1071061.thumb.png.3092e68074e076ddfef7d833abb34d60.png)](https://www.clubedohardware.com.br/profile/1071061-ze2204/ "Ir ao perfil de ze2204")
+        
+        0
+        
+        [Computador desligando e ligando](https://www.clubedohardware.com.br/forums/topic/1699503-computador-desligando-e-ligando/?do=getNewComment "Computador desligando e ligando")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [ze2204](https://www.clubedohardware.com.br/profile/1071061-ze2204/ "Ir ao perfil de ze2204")  
+        4 horas atrás
+        
+    * [![Gabriel Souza S](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254377.thumb.jpeg.3ee44b43c2c1ff733ac84f842a313a89.jpeg)](https://www.clubedohardware.com.br/profile/1254377-gabriel-souza-s/ "Ir ao perfil de Gabriel Souza S")
+        
+        0
+        
+        [Overclock Vega7, Ryzen 5600GT](https://www.clubedohardware.com.br/forums/topic/1699502-overclock-vega7-ryzen-5600gt/?do=getNewComment "Overclock Vega7, Ryzen 5600GT")
+        
+        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
+        Por [Gabriel Souza S](https://www.clubedohardware.com.br/profile/1254377-gabriel-souza-s/ "Ir ao perfil de Gabriel Souza S")  
+        4 horas atrás
+        
+    * [![Gabriel Souza S](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254377.thumb.jpeg.3ee44b43c2c1ff733ac84f842a313a89.jpeg)](https://www.clubedohardware.com.br/profile/1254377-gabriel-souza-s/ "Ir ao perfil de Gabriel Souza S")
+        
+        0
+        
+        [Overclock Vega 7, Ryzen 5 5600GT](https://www.clubedohardware.com.br/forums/topic/1699501-overclock-vega-7-ryzen-5-5600gt/?do=getNewComment "Overclock Vega 7, Ryzen 5 5600GT")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Gabriel Souza S](https://www.clubedohardware.com.br/profile/1254377-gabriel-souza-s/ "Ir ao perfil de Gabriel Souza S")  
+        4 horas atrás
+        
+    * [![gamesbruno](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254374.thumb.png.2d546108802f311a79953f3b67bb076f.png)](https://www.clubedohardware.com.br/profile/1254374-gamesbruno/ "Ir ao perfil de gamesbruno")
+        
+        3
+        
+        [GeForce GTX 960 2GB com 100% de uso em jogos e FPS baixo](https://www.clubedohardware.com.br/forums/topic/1699497-geforce-gtx-960-2gb-com-100-de-uso-em-jogos-e-fps-baixo/?do=getNewComment "GeForce GTX 960 2GB com 100% de uso em jogos e FPS baixo")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [gamesbruno](https://www.clubedohardware.com.br/profile/1254374-gamesbruno/ "Ir ao perfil de gamesbruno")  
+        5 horas atrás
         
     
 
