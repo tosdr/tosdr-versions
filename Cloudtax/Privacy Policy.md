@@ -107,7 +107,7 @@ The personal information we gather when you open an account is used for the foll
 Other ways we collect and use personal information
 --------------------------------------------------
 
-**Marketing Communications:** From time to time, we may obtain your consent to send you email, SMS text messages and other communications about CloudTax products, services, or events that may be of interest to you. You can opt-out of receiving marketing and promotional email from us by following the unsubscribe instructions contained in each of our email communications. Please note that you will continue to receive email regarding your account and transactions with us. Alternatively, you can unsubscribe from any of our marketing communications by contacting us at [info@cloudtax.ca](mailto:info@cloudtax.ca).
+**Marketing Communications:** From time to time, we may obtain your consent to send you email, SMS text messages and other communications about CloudTax products, services, or events that may be of interest to you. You can opt-out of receiving marketing and promotional email from us by following the unsubscribe instructions contained in each of our email communications. Please note that you will continue to receive email regarding your account and transactions with us. Alternatively, you can unsubscribe from any of our marketing communications by contacting us at [\[email protected\]](https://cloudtax.ca/cdn-cgi/l/email-protection).
 
 **Customer Service/Relationship Manager:** If you contact us with a comment, question or complaint, you may be asked for information that identifies you (such as your name, address and a phone number) along with supplementary information we need to help us rapidly answer your question or reply to your comment, question, or complaint. We may keep this information to assist you in the future and to improve our customer service and, product and service offerings.
 
@@ -127,7 +127,7 @@ We will not disclose, trade, rent, sell or otherwise transfer your personal info
 We take privacy seriously
 -------------------------
 
-We are responsible for ensuring that we adhere to this Privacy Policy. We invite any user or prospective user to contact us at [info@cloudtax.ca](mailto:info@cloudtax.ca) with any questions regarding this Privacy Policy. A user wishing to review his or her personal information in our possession should send a written request to this effect to us at CloudTax Inc., Suite 2201, 250 Yonge Street Toronto, Ontario M5B 2L7, Canada or call at 1-888-953-2112.
+We are responsible for ensuring that we adhere to this Privacy Policy. We invite any user or prospective user to contact us at [\[email protected\]](https://cloudtax.ca/cdn-cgi/l/email-protection) with any questions regarding this Privacy Policy. A user wishing to review his or her personal information in our possession should send a written request to this effect to us at CloudTax Inc., Suite 2201, 250 Yonge Street Toronto, Ontario M5B 2L7, Canada or call at 1-888-953-2112.
 
 Access to your information
 --------------------------
@@ -140,7 +140,7 @@ Toronto, ON M5B 2L7
 
 or
 
-[info@cloudtax.ca](mailto:info@cloudtax.ca)
+[\[email protected\]](https://cloudtax.ca/cdn-cgi/l/email-protection)
 
 Collection and use of information about your visit to our website
 -----------------------------------------------------------------
