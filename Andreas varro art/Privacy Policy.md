@@ -68,7 +68,7 @@ Will be under responsibility and in charge of:
 
 **AV Art Sweden AB.  
 Phone: +46 (0)72 328 95 10  
-Info@andreasvarro.com  
+[\[email protected\]](https://www.andreasvarro.com/cdn-cgi/l/email-protection)  
 ‍**  
 (Hereinafter referred to as AV Art Sweden AB).
 
