@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Quality Thermal Made Easy: The Armasight Jockey 640 Compact Thermal Clip-On](https://www.thegunpage.com/quality-thermal-made-easy-the-armasight-jockey-640-compact-thermal-clip-on/10611156)
+* [First Look: SIG Sauer MCX-SPEAR 6.8X51](https://www.thegunpage.com/first-look-sig-sauer-mcx-spear-6-8x51/10611153)
+* [New CZ 600+ ERGO DRIVEN HUNT Rifle](https://www.thegunpage.com/new-cz-600-ergo-driven-hunt-rifle/10611155)
 * [Court Blocks Enforcement Of NY Carry Ban On Private Property Open To The Public](https://www.thegunpage.com/court-blocks-enforcement-of-ny-carry-ban-on-private-property-open-to-the-public/10611148)
 * [FN Introduces the FN SCAR 15P In .300 BLACKOUT](https://www.thegunpage.com/fn-introduces-the-fn-scar-15p-in-300-blackout/10611146)
+* [Gov. Sarah Sanders, Sen. John Boozman Headline SIG Sauer Jacksonville Arkansas Ammunition Center Grand Opening](https://www.thegunpage.com/gov-sarah-sanders-sen-john-boozman-headline-sig-sauer-jacksonville-arkansas-ammunition-center-grand-opening/10611151)
 * [Hunter Attacked And Severely Bitten By Grizzly In Wyoming](https://www.thegunpage.com/hunter-attacked-and-severely-bitten-by-grizzly-in-wyoming/10611144)
+* [Third Annual Remington Shoot To Cure Sporting Clays Fundraiser](https://www.thegunpage.com/third-annual-remington-shoot-to-cure-sporting-clays-fundraiser/10611152)
 * [The Masterkey Is Back! Tyr 1 KTMS 12-gauge](https://www.thegunpage.com/the-masterkey-is-back-tyr-1-ktms-12-gauge/10611142)
 * [Rust Armorer In More Gun Trouble](https://www.thegunpage.com/rust-armorer-in-more-gun-trouble/10611140)
-* [Pulsar Unveils The Thermion 2 LRF XL50 1.75-14x 1024 HD Thermal Optic](https://www.thegunpage.com/pulsar-unveils-the-thermion-2-lrf-xl50-1-75-14x-1024-hd-thermal-optic/10611143)
-* [Hypocrite in Chief: As a Wannabe President, Harris Has a Glock Problem](https://www.thegunpage.com/hypocrite-in-chief-as-a-wannabe-president-harris-has-a-glock-problem/10611138)
-* [What’s In Your Range Bag, Katie Zaun?](https://www.thegunpage.com/whats-in-your-range-bag-katie-zaun/10611137)
-* [TFB Review: XS Sights R3D 2.0 Desert Eagle Night Sights](https://www.thegunpage.com/tfb-review-xs-sights-r3d-2-0-desert-eagle-night-sights/10611134)
-* [POTD: Stogie Mag – Magazine-Shaped Humidor](https://www.thegunpage.com/potd-stogie-mag-magazine-shaped-humidor/10611135)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
