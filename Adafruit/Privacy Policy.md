@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Every person is born with a creative mind. Everyone has the ability”
+“ Things do not happen. Things are made to happen”
 
-[Mary Beatrice Davidson Kenner](https://en.wikipedia.org/wiki/Mary_Kenner)
+[John F. Kennedy](http://library.und.edu/digital/john-f-kennedy-archive/delivered.php)
 
 [](https://www.adafruit.com/about)
 
