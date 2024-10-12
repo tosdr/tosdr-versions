@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 603 active visitors** | **Friday, October 11, 2024** |
+| **You are 1 of 929 active visitors** | **Friday, October 11, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**To prohibit a citizen from wearing or carrying a war arm . . . is an unwarranted restriction upon the constitutional right to keep and bear arms. If cowardly and dishonorable men sometimes shoot unarmed men with army pistols or guns, the evil must be prevented by the penitentiary and gallows, and not by a general deprivation of constitutional privilege. \[Wilson v. State, 33 Ark. 557, at 560, 34 Am. Rep. 52, at 54 (1878)\]
+ **QUOTES TO REMEMBER**I have not one doubt, even if I am in agreement with the National Rifle Association, that that kind of record keeping procedure \[gun registration\] is the first step to eventual confiscation under one administration or another. �CHARLES MORGAN, DIRECTOR, WASHINGTON DC ACLU
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
