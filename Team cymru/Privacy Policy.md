@@ -22,8 +22,24 @@ top of page
     
 * [Community Services](https://www.team-cymru.com/community-services)
     
-    * [Threat Intelligence Services](https://www.team-cymru.com/community-threat-intelligence)
-    * [Network Services](https://www.team-cymru.com/community-network-services)
+    * Request A Service
+        
+        * [Bogon Signup](https://www.team-cymru.com/ty/bogons-networks)
+        * [UTRS Signup](https://www.team-cymru.com/ddos-mitigation-services)
+        * [Nimbus Signup](https://www.team-cymru.com/nimbus-signup)
+        * [DNB Signup](https://www.team-cymru.com/dnbsignup)
+        * [MHR Signup](https://hash.cymru.com/signup)
+        * [CSIRT Assistance Program Signup](https://www.team-cymru.com/csirt-ap)
+        
+    * Learn About A Service
+        
+        * [Bogon Networks](https://www.team-cymru.com/bogon-networks)
+        * [UTRS](https://www.team-cymru.com/ddos-mitigation-services)
+        * [Nimbus Threat Monitor](https://www.team-cymru.com/nimbus-threat-monitor)
+        * [Dragon News Bytes - DNB](https://www.team-cymru.com/dnb)
+        * [MHR](https://www.team-cymru.com/mhr)
+        * [CSIRT Assistance Program](https://www.team-cymru.com/csirt-ap)
+        
     * [News Blogs & Events](https://www.team-cymru.com/community-news-and-events)
     
 * [Resources](https://www.team-cymru.com/resources)
