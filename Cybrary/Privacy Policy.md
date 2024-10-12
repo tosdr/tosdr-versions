@@ -401,12 +401,12 @@ The GDPR went into effect on May 25, 2018. As a resident of the EU or EEA, you h
 
 You are not required to pay any charge for exercising your rights. If you make a request, we have one month to respond to you.
 
-Please contact us at privacy@cybrary.it if you wish to make a request.
+Please contact us at [\[email protected\]](https://www.cybrary.it/cdn-cgi/l/email-protection) if you wish to make a request.
 
 CONTACT US
 ----------
 
-For additional information pertaining to our Privacy Policy, please contact at [privacy@cybrary.it](mailto:privacy@cybrary.it) or by writing us at:
+For additional information pertaining to our Privacy Policy, please contact at [\[email protected\]](https://www.cybrary.it/cdn-cgi/l/email-protection) or by writing us at:
 
 **Cybrary, Inc.**
 
