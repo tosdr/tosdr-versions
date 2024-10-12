@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Fort Worth shooting: 1 killed, 1 injured after suspect shoots into crowd near La Gran Plaza](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101224-sh-ftwpd-shooting-south-fwy-_kdfwa7f1_186_m_00.04.15.58.jpg?ve=1&tl=1)
+ [![Halloween party shootout: 1 dead, at least 12 injured in Oklahoma City](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1446079326-4-scaled.jpg?ve=1&tl=1)
 
- ![Fort Worth shooting: 1 killed, 1 injured after suspect shoots into crowd near La Gran Plaza](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101224-sh-ftwpd-shooting-south-fwy-_kdfwa7f1_186_m_00.04.15.58.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-shooting-la-gran-plaza)
+ ![Halloween party shootout: 1 dead, at least 12 injured in Oklahoma City](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1446079326-4-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oklahoma-city-shooting-halloween-party)
 
-### [Fort Worth shooting: 1 killed, 1 injured after suspect shoots into crowd near La Gran Plaza](https://www.fox4news.com/news/fort-worth-shooting-la-gran-plaza)
+### [Halloween party shootout: 1 dead, at least 12 injured in Oklahoma City](https://www.fox4news.com/news/oklahoma-city-shooting-halloween-party)
 
- [![Fort Worth shooting: 1 dead, 1 injured in northwest Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101224-sh-ftwpd-shooting-ne-33rd-st_kdfwa7f3_186_m_00.17.13.36.jpg?ve=1&tl=1)
+ [![Frisco suspect arrested after 12-hour standoff](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Frisco-police-department-generic-Frisco-PD.png?ve=1&tl=1)
 
- ![Fort Worth shooting: 1 dead, 1 injured in northwest Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101224-sh-ftwpd-shooting-ne-33rd-st_kdfwa7f3_186_m_00.17.13.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-ne-33rd-street-oct-12)
+ ![Frisco suspect arrested after 12-hour standoff](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Frisco-police-department-generic-Frisco-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/frisco-suspect-arrested-after-12-hour-standoff)
 
-### [1 dead, 1 injured in northwest Fort Worth shooting](https://www.fox4news.com/news/fort-worth-ne-33rd-street-oct-12)
+### [Frisco suspect arrested after 12-hour standoff](https://www.fox4news.com/news/frisco-suspect-arrested-after-12-hour-standoff)
 
- [![18-wheeler driver dies after Fort Worth crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101224-sh-ftwpd-major-crash-fx-nw-loop-820-wb_kdfw_00.00.46.54.jpg?ve=1&tl=1)
+ [![Ex-NBA coach Sam Mitchell doxxes co-host’s address on live broadcast over salary joke](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-165463081-a.jpg?ve=1&tl=1)
 
- ![18-wheeler driver dies after Fort Worth crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101224-sh-ftwpd-major-crash-fx-nw-loop-820-wb_kdfw_00.00.46.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/18-wheeler-driver-dies-after-fort-worth-crash)
+ ![Ex-NBA coach Sam Mitchell doxxes co-host’s address on live broadcast over salary joke](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-165463081-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/ex-nba-coach-sam-mitchell-doxxes-co-hosts-address-live-broadcast-over-salary-joke)
 
-### [18-wheeler driver dies after Fort Worth crash](https://www.fox4news.com/news/18-wheeler-driver-dies-after-fort-worth-crash)
+### [Ex-NBA coach Sam Mitchell doxxes co-host’s address on live broadcast over salary joke](https://www.fox4news.com/sports/ex-nba-coach-sam-mitchell-doxxes-co-hosts-address-live-broadcast-over-salary-joke)
 
- [![Former Dallas Uber driver arrested for punching elderly passenger on video](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/dalllas-uber-assault-arrest.png?ve=1&tl=1)
+ [![Biltmore Estate staff, guests host impromptu wedding for couple during Helene](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/wedding-featured-image.jpg?ve=1&tl=1)
 
- ![Former Dallas Uber driver arrested for punching elderly passenger on video](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/dalllas-uber-assault-arrest.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/former-dallas-uber-driver-arrested-punching-elderly-passenger-video)
+ ![Biltmore Estate staff, guests host impromptu wedding for couple during Helene](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/wedding-featured-image.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biltmore-estate-helene-wedding-travis-jansen-putnam)
 
-### [Former Dallas Uber driver arrested for punching elderly passenger on video](https://www.fox4news.com/news/former-dallas-uber-driver-arrested-punching-elderly-passenger-video)
+### [Biltmore Estate staff, guests host impromptu wedding for couple during Helene](https://www.fox4news.com/news/biltmore-estate-helene-wedding-travis-jansen-putnam)
 
- [![Fort Worth man accused of nearly decapitating wife found dead while awaiting trial](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-peyton-fw-camden-yard-dr-murder-9p_00.00.30.56.jpg?ve=1&tl=1)
+ [![Man, 3 dogs killed in fire at Northwest Dallas mobile home park](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/033123-DFR-Members-Recognized-KDFWEME001_mpg_00.01.10.56.jpg?ve=1&tl=1)
 
- ![Fort Worth man accused of nearly decapitating wife found dead while awaiting trial](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-peyton-fw-camden-yard-dr-murder-9p_00.00.30.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nathaniel-rowland-found-dead-elizabeth-rowland-murder-suspect-fatal-stabbing)
+ ![Man, 3 dogs killed in fire at Northwest Dallas mobile home park](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/592/333/033123-DFR-Members-Recognized-KDFWEME001_mpg_00.01.10.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/northwest-dallas-lombardy-lane-fire)
 
-### [Fort Worth man accused of nearly decapitating wife found dead while awaiting trial](https://www.fox4news.com/news/nathaniel-rowland-found-dead-elizabeth-rowland-murder-suspect-fatal-stabbing)
+### [Man, 3 dogs killed in fire at Northwest Dallas mobile home park](https://www.fox4news.com/news/northwest-dallas-lombardy-lane-fire)
 
 ###### [News](https://www.fox4news.com/news)
 
