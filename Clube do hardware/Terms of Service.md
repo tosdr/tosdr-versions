@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_238477078_menu)
+ [Compartilhar](#elShareItem_505741423_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_490255768_menu)
+ [Compartilhar](#elShareItem_189693692_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,65 +365,85 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![EmanuelBJJ](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/Capturadetela2024-10-07201849.thumb.png.3c0fe2dd6b45907be0d7c50da1196f58.png)](https://www.clubedohardware.com.br/profile/1254062-emanuelbjj/ "Ir ao perfil de EmanuelBJJ")
+    * [![Kurota07](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254384.thumb.jpeg.9664f551ae3389b684bd85109f4d32b5.jpeg)](https://www.clubedohardware.com.br/profile/1254384-kurota07/ "Ir ao perfil de Kurota07")
         
         0
+        
+        [Kingston erro satafirm s11 240g](https://www.clubedohardware.com.br/forums/topic/1699512-kingston-erro-satafirm-s11-240g/?do=getNewComment "Kingston erro satafirm s11 240g")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Kurota07](https://www.clubedohardware.com.br/profile/1254384-kurota07/ "Ir ao perfil de Kurota07")  
+        9 minutos atrás
+        
+    * [![Gustavohpc](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362a9c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254373-gustavohpc/ "Ir ao perfil de Gustavohpc")
+        
+        1
+        
+        [Edição de áudio e efeitos](https://www.clubedohardware.com.br/forums/topic/1699510-edi%C3%A7%C3%A3o-de-%C3%A1udio-e-efeitos/?do=getNewComment "Edição de áudio e efeitos")
+        
+        [Gravação e edição de imagens, áudio e vídeo](https://www.clubedohardware.com.br/forums/forum/54-grava%C3%A7%C3%A3o-e-edi%C3%A7%C3%A3o-de-imagens-%C3%A1udio-e-v%C3%ADdeo/ "Gravação e edição de imagens, áudio e vídeo")  
+        Por [Gustavohpc](https://www.clubedohardware.com.br/profile/1254373-gustavohpc/ "Ir ao perfil de Gustavohpc")  
+        2 horas atrás
+        
+    * [![EmanuelBJJ](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/Capturadetela2024-10-07201849.thumb.png.3c0fe2dd6b45907be0d7c50da1196f58.png)](https://www.clubedohardware.com.br/profile/1254062-emanuelbjj/ "Ir ao perfil de EmanuelBJJ")
+        
+        1
         
         [Qual o melhor método para se ter um diagnóstico do PC?](https://www.clubedohardware.com.br/forums/topic/1699509-qual-o-melhor-m%C3%A9todo-para-se-ter-um-diagn%C3%B3stico-do-pc/?do=getNewComment "Qual o melhor método para se ter um diagnóstico do PC?")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [EmanuelBJJ](https://www.clubedohardware.com.br/profile/1254062-emanuelbjj/ "Ir ao perfil de EmanuelBJJ")  
-        1 hora atrás
+        7 horas atrás
         
     * [![PhaHell](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254380.thumb.jpeg.1593d2f7127ee638b1ceaf7f548c4cee.jpeg)](https://www.clubedohardware.com.br/profile/1254380-phahell/ "Ir ao perfil de PhaHell")
         
-        0
+        1
         
         [ao ligar o pc, o monitor secundário da vídeo, depois que o windows inicia para](https://www.clubedohardware.com.br/forums/topic/1699508-ao-ligar-o-pc-o-monitor-secund%C3%A1rio-da-v%C3%ADdeo-depois-que-o-windows-inicia-para/?do=getNewComment "ao ligar o pc, o monitor secundário da vídeo, depois que o windows inicia para")
         
         [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
         Por [PhaHell](https://www.clubedohardware.com.br/profile/1254380-phahell/ "Ir ao perfil de PhaHell")  
-        3 horas atrás
+        9 horas atrás
         
     * [![ViFe](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")
         
-        0
+        2
         
         [Recomendação de fone de ouvido sem fio (para celular android)](https://www.clubedohardware.com.br/forums/topic/1699507-recomenda%C3%A7%C3%A3o-de-fone-de-ouvido-sem-fio-para-celular-android/?do=getNewComment "Recomendação de fone de ouvido sem fio (para celular android)")
         
         [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
         Por [ViFe](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")  
-        3 horas atrás
+        9 horas atrás
         
     * [![Gudy2022](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46287%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1198203-gudy2022/ "Ir ao perfil de Gudy2022")
         
-        2
+        5
         
         [Qual GPU escolho pro meu setup? Fonte Cooler Master MWE 500W](https://www.clubedohardware.com.br/forums/topic/1699506-qual-gpu-escolho-pro-meu-setup-fonte-cooler-master-mwe-500w/?do=getNewComment "Qual GPU escolho pro meu setup? Fonte Cooler Master MWE 500W")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
         Por [Gudy2022](https://www.clubedohardware.com.br/profile/1198203-gudy2022/ "Ir ao perfil de Gudy2022")  
-        3 horas atrás
+        9 horas atrás
         
     * [![Eng Gabriel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254379.thumb.jpeg.091bf21c49f1b473a83fe5e49e4c08bb.jpeg)](https://www.clubedohardware.com.br/profile/1254379-eng-gabriel/ "Ir ao perfil de Eng Gabriel")
         
-        0
+        1
         
         [Troquei placa-mãe e processador e não dá vídeo](https://www.clubedohardware.com.br/forums/topic/1699505-troquei-placa-m%C3%A3e-e-processador-e-n%C3%A3o-d%C3%A1-v%C3%ADdeo/?do=getNewComment "Troquei placa-mãe e processador e não dá vídeo")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [Eng Gabriel](https://www.clubedohardware.com.br/profile/1254379-eng-gabriel/ "Ir ao perfil de Eng Gabriel")  
-        3 horas atrás
+        9 horas atrás
         
     * [![Matheus Cardoso Berto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1242406.thumb.jpeg.3dcdd5d1301bbff378762f3ca8e9be04.jpeg)](https://www.clubedohardware.com.br/profile/1242406-matheus-cardoso-berto/ "Ir ao perfil de Matheus Cardoso Berto")
         
-        0
+        1
         
         [pc reiniciando ao rodar jogos pesados com xmp](https://www.clubedohardware.com.br/forums/topic/1699504-pc-reiniciando-ao-rodar-jogos-pesados-com-xmp/?do=getNewComment "pc reiniciando ao rodar jogos pesados com xmp")
         
         [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
         Por [Matheus Cardoso Berto](https://www.clubedohardware.com.br/profile/1242406-matheus-cardoso-berto/ "Ir ao perfil de Matheus Cardoso Berto")  
-        3 horas atrás
+        9 horas atrás
         
     * [![ze2204](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1071061.thumb.png.3092e68074e076ddfef7d833abb34d60.png)](https://www.clubedohardware.com.br/profile/1071061-ze2204/ "Ir ao perfil de ze2204")
         
@@ -431,19 +451,9 @@ Mais opções...
         
         [Computador desligando e ligando](https://www.clubedohardware.com.br/forums/topic/1699503-computador-desligando-e-ligando/?do=getNewComment "Computador desligando e ligando")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
         Por [ze2204](https://www.clubedohardware.com.br/profile/1071061-ze2204/ "Ir ao perfil de ze2204")  
-        4 horas atrás
-        
-    * [![Gabriel Souza S](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254377.thumb.jpeg.3ee44b43c2c1ff733ac84f842a313a89.jpeg)](https://www.clubedohardware.com.br/profile/1254377-gabriel-souza-s/ "Ir ao perfil de Gabriel Souza S")
-        
-        0
-        
-        [Overclock Vega7, Ryzen 5600GT](https://www.clubedohardware.com.br/forums/topic/1699502-overclock-vega7-ryzen-5600gt/?do=getNewComment "Overclock Vega7, Ryzen 5600GT")
-        
-        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
-        Por [Gabriel Souza S](https://www.clubedohardware.com.br/profile/1254377-gabriel-souza-s/ "Ir ao perfil de Gabriel Souza S")  
-        4 horas atrás
+        10 horas atrás
         
     * [![Gabriel Souza S](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254377.thumb.jpeg.3ee44b43c2c1ff733ac84f842a313a89.jpeg)](https://www.clubedohardware.com.br/profile/1254377-gabriel-souza-s/ "Ir ao perfil de Gabriel Souza S")
         
@@ -453,17 +463,7 @@ Mais opções...
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
         Por [Gabriel Souza S](https://www.clubedohardware.com.br/profile/1254377-gabriel-souza-s/ "Ir ao perfil de Gabriel Souza S")  
-        4 horas atrás
-        
-    * [![gamesbruno](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254374.thumb.png.2d546108802f311a79953f3b67bb076f.png)](https://www.clubedohardware.com.br/profile/1254374-gamesbruno/ "Ir ao perfil de gamesbruno")
-        
-        3
-        
-        [GeForce GTX 960 2GB com 100% de uso em jogos e FPS baixo](https://www.clubedohardware.com.br/forums/topic/1699497-geforce-gtx-960-2gb-com-100-de-uso-em-jogos-e-fps-baixo/?do=getNewComment "GeForce GTX 960 2GB com 100% de uso em jogos e FPS baixo")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [gamesbruno](https://www.clubedohardware.com.br/profile/1254374-gamesbruno/ "Ir ao perfil de gamesbruno")  
-        5 horas atrás
+        10 horas atrás
         
     
 
@@ -624,10 +624,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
