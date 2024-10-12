@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Only four spell incantations appear in Harry Potter and the Sorcerer’s Stone: Wingardium Leviosa, Petrificus Totalus, Alohomora, and Locomotor Mortis.
+In early drafts, the Malfoy surname was variously Smart, Spinks, and Spungen.
 
 ### Potter History
 
-November 22, 2011 – Harry Potter and the Deathly Hallows – Part 2 is released on Blu-ray and DVD in the United States.
+April 18, 2012 – MuggleNet’s global reread, Alohomora!, is launched.
 
 ### Potter Quote
 
-“My brothers, my sisters. The clock is ticking faster. We who live for freedom, for truth, and for love. The moment has come to share my vision of the future that awaits if we do not rise up and take our rightful place in the world. Where we wizards are free. Aurors, join me in this circle, pledge to me your eternal allegiance, or die.”
+“We teachers are rather good at magic, you know.”
 
 [](#)
 
