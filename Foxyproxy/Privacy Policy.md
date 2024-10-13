@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-We used your service on and off for about a year (we are based in Gibraltar and Spain). We found the proxy tool ideal for receiving some UK channels that would not function within the browser. I have absolutely no complaints about the service and I do not recollect any time that the proxy was unavailable. We will probably sign up again in the future, but we currently do not need the proxy. I would (and have) recommended your service to other people in a similar situation.
+Many thanks for your prompt response.
 
-Andy McCullough
+Georgina
