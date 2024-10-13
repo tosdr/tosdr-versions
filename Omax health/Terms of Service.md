@@ -1,8 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)         
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)   
 
-Terms & Conditions – Omax Health - Omax Health                  
+    
 
-                
+Terms & Conditions – Omax Health - Omax Health                                 
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -303,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3392 reviews](https://omaxhealth.com/pages/reviews)
+[3396 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3072)
+(3076)
 
 5%
 
@@ -327,37 +327,34 @@ Go to product page
 
 (53)
 
-2189
+2194
 
-s
-
-[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-stacy j.
-
-**Amazing stuff**
-
-I love this stuff. I 1st heard of this from an Instagram influencer and I use to use Biofreeze, but this one is amazing and I have purchased 3x's. 2nd time I purchased my boss had some back pain and I showed him what I just received in mail he paid me for it and I ordered a new one for me! Will continue to purchase.. Works wonders.. I Tell all my friends
-
-S
-
-[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-Susan W.
-
-**Great for Autoimmune Disease!**
-
-My 31yo daughter has an autoimmune disease that affects her hip and lower back. She doesn't like to take painkillers all the time, so she tried pharmacy roll-ons - but they're not effective.  
-A few years ago I heard about your hemp roll-ons on The Dan Bongino Show. He raved about the product, so I ordered some. My daughter loves it! She doesn't go anywhere without one. Thanks for making such a great product!
-
-L
+R
 
 [CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
 
-Linda O.
+Rob L.
 
-**Best on the market!**
+works good !
 
-I love love love this product! It’s all that I had read it to be and could not be more pleased! Ordering on auto ship! NEVER want to be without it!! Instant coolness, decreased pain and wonderful smell❤️
+M
+
+[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
+
+Marla C.
+
+**The Best Immediate Relief**
+
+I lov d the original product so much that I now use Extra Strength. It provides immediate, soothing, deep relief. I always keep some on-hand.
+
+J
+
+[Omax3® Omega 3 Fish Oil | 750 mg](https://omaxhealth.com/products/omax3-ultra-pure#judgeme_product_reviews)
+
+Joe D.
+
+**Best Fish Oil**
+
+I have tried multiple fish oils and Omax is the best!
 
 Load More
