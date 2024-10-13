@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Pickup Express](https://www.myabandonware.com/game/pickup-express-s8f)
+* [Stratajong](https://www.myabandonware.com/game/stratajong-s8a)
 * [Teazle Action](https://www.myabandonware.com/game/teazle-action-s89)
 * [Teazle 2](https://www.myabandonware.com/game/teazle-2-s88)
 * [Atomic Robo-Kid](https://www.myabandonware.com/game/atomic-robo-kid-4io)
-* [Big Buck Hunter Pro](https://www.myabandonware.com/game/big-buck-hunter-pro-ssf)
-* [280 Zzzap](https://www.myabandonware.com/game/280-zzzap-sse)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
