@@ -59,7 +59,7 @@ Cancel
 * [Sign In](https://www.bhsubookstore.com/account_login.asp?)
 * [Create Account](https://www.bhsubookstore.com/account_create.asp?)
 
-Open Saturday 10am - 1pm. Stop in before the game!
+The bookstore is closed 10-14-2024.
 
 Privacy Policy/Terms of Use
 ===========================
