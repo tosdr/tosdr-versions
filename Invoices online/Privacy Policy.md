@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Hugo van Sittert
 
-![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=168749116)  
-Turnkey Innovations
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=12582201)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=106728665)  
-Lindani Protection Services & Projects
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=122415636)  
+Goju Ryu Karate Centre
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=89129993)  
-BD Maintenance
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=61857046)  
+CLEVER STUDENTS
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=56999696)  
-Depot Diesel (Pty) Ltd
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=39956582)  
+Tracknetics
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=186985592)  
-Oak Tree Immigration
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=102452967)  
+Druce Digital
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=93032445)  
-Kainos (Pty) Ltd
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=116154556)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=165972838)  
-webb it services
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=41246460)  
+African Roots
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=55116317)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=104038538)  
-Konsortium Operations ( Roamfree Meats )
-
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=136162202)  
-KTEN PARTS
-
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=133127795)  
-Chiron Medical Solutions
-
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=95094437)  
-Vplay Letsheng Mall
-
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=143934913)  
-Repairs In Motion
-
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=55389442)  
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=39104097)  
 VA AND M DEBT-AID (PTY) LTD
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=152683798)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=123384163)  
+Fox Alarms & Security
+
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=36217866)  
+Stevens Consulting
+
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=207989235)  
+Imvubu General Trading
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=116292038)  
+Mountain Lion Properties
+
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=25906341)  
+Shades of Summer Investments 184cc t/a Junker Construction
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=21450881)  
+LEO DEVELOPMENT GROUP
+
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=f0530d4a832bc22bdfc048a3581ff437f83e4f969b9c8b73421cd3a1a8437600&c=12399959)  
+Brilliant Roof Products
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
