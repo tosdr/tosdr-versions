@@ -26,21 +26,23 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mccain-harris-1200x630.jpg)](https://americanwirenews.com/consider-this-my-final-warning-shot-meghan-mccain-threatens-to-tell-dems-her-dads-real-feelings-about-harris/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-crockettjas-1200-x-628-1200x630.jpg)](https://americanwirenews.com/so-stupid-jasmine-crockett-says-maga-gang-white-supremacists-bringing-crime-to-communities/)
 
-[‘Consider this my final warning shot’: Meghan McCain threatens to tell Dems her dad’s REAL feelings about Harris](https://americanwirenews.com/consider-this-my-final-warning-shot-meghan-mccain-threatens-to-tell-dems-her-dads-real-feelings-about-harris/)
+[‘So stupid’: Jasmine Crockett says ‘MAGA gang, white supremacists’ bringing crime to communities](https://americanwirenews.com/so-stupid-jasmine-crockett-says-maga-gang-white-supremacists-bringing-crime-to-communities/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-brown-kennedy-1200x630.jpg)](https://americanwirenews.com/gop-senate-candidate-shreds-dem-opponent-for-not-doing-more-to-hold-biden-harris-admin-accountable/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/getty-quaid-1200x630.jpg)](https://americanwirenews.com/time-to-pick-a-side-dennis-quaid-speaks-at-trump-rally-draws-comparison-to-reagan/)
 
-[GOP Senate candidate shreds Dem opponent for not doing more to hold Biden-Harris admin accountable](https://americanwirenews.com/gop-senate-candidate-shreds-dem-opponent-for-not-doing-more-to-hold-biden-harris-admin-accountable/)
+(Photo by Mario Tama/Getty Images)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-6-1200x630.jpg)](https://americanwirenews.com/frankly-sir-kamala-lectures-undecided-voter-on-trump-says-she-earned-dem-nomination/)
+[‘Time to pick a side’: Dennis Quaid speaks at Trump rally, draws comparison to Reagan](https://americanwirenews.com/time-to-pick-a-side-dennis-quaid-speaks-at-trump-rally-draws-comparison-to-reagan/)
 
-[‘Frankly, sir…’ Kamala lectures undecided voter on Trump, says she ‘earned’ Dem nomination](https://americanwirenews.com/frankly-sir-kamala-lectures-undecided-voter-on-trump-says-she-earned-dem-nomination/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-rogan-1200x630.jpg)](https://americanwirenews.com/trump-confirms-joe-rogan-interview-heres-what-rogan-is-likely-to-ask/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gascon-hochman-1200x630.jpg)](https://americanwirenews.com/george-gascon-soros-backed-d-a-falls-massively-behind-opponent-its-not-even-close/)
+[Trump confirms Joe Rogan interview – here’s what Rogan is likely to ask](https://americanwirenews.com/trump-confirms-joe-rogan-interview-heres-what-rogan-is-likely-to-ask/)
 
-[George Gascon, Soros-backed D.A., falls MASSIVELY behind opponent: ‘It’s not even close’](https://americanwirenews.com/george-gascon-soros-backed-d-a-falls-massively-behind-opponent-its-not-even-close/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-snlkamala-1200-x-628-1200x630.jpg)](https://americanwirenews.com/snl-turns-on-kamala-skewers-floundering-democrat-nominee/)
+
+[SNL ‘turns on’ Kamala, skewers floundering Democrat nominee](https://americanwirenews.com/snl-turns-on-kamala-skewers-floundering-democrat-nominee/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bonjovi-1200x630.jpg)](https://americanwirenews.com/bon-jovi-sparks-backlash-when-he-endorses-kamala-prostrates-himself-with-song-about-privilege/)
 
@@ -58,9 +60,9 @@ Search for:
 
 [Cenk Uygur makes it plain for clueless Dems: ‘They’re so biased they can’t see straight’](https://americanwirenews.com/cenk-uygur-makes-it-plain-for-clueless-dems-theyre-so-biased-they-cant-see-straight/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-mmoore-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djtcoachella-1200-x-628-1200x630.jpg)
 
-### ‘You can get away with anything!’ Michael Moore urges Biden to go buck wild with last days in office](https://americanwirenews.com/you-can-get-away-with-anything-michael-moore-urges-biden-to-go-buck-wild-with-last-days-in-office/)
+### Liberals have a melt down after Trump mocks female heckler at rally: ‘Back home to mommy’](https://americanwirenews.com/liberals-have-a-melt-down-after-trump-mocks-female-heckler-at-rally-back-home-to-mommy/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
