@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [SkyMall Catalogue Jamboree](https://www.somethingawful.com/comedy-goldmine/skymall-catalogue-jamboree/1/)
-* [Bizarre Public Scenes](https://www.somethingawful.com/comedy-goldmine/bizarre-public-scenes/1/)
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Anime-Forums, PlayStation Forums, and Clan Recruitment](https://www.somethingawful.com/weekend-web/animeforums-playstation-forums/1/)
-* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
+* [Diversity Lane (Thanks, t3!)](https://www.somethingawful.com/awful-links/diversity-lane-comic/)
+* [Miley's Still Twerkin'!](https://www.somethingawful.com/photoshop-phriday/miley-cyrus-twerk/1/)
+* [Classic Literature Re-Imagined](https://www.somethingawful.com/photoshop-phriday/reimagined-literature/1/)
+* [Something Awesome's 10 Hottest Celebrity Racks](https://www.somethingawful.com/feature-articles/stupid-sexy-list/1/)
+* [Make the Worst Simulator Games!](https://www.somethingawful.com/comedy-goldmine/worst-simulator-games/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [all your wildest dreams are about to come true](http://forums.somethingawful.com/showthread.php?threadid=4072500 "all your wildest dreams are about to come true")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [Frank talk about urine](http://forums.somethingawful.com/showthread.php?threadid=4072519 "Frank talk about urine")
+* ![](https://fi.somethingawful.com/forums/posticons/lan-midwest.gif) [My girlfriend made me add her 11 year old son as a friend on PlayStation](http://forums.somethingawful.com/showthread.php?threadid=4072561 "My girlfriend made me add her 11 year old son as a friend on PlayStation")
 
 ### Random Articles
 
-* [Profile of a She-Devil](https://www.somethingawful.com/awful-links/awful-link-1855/)
-* [Cool things to say when you're opening the door for someone](https://www.somethingawful.com/comedy-goldmine/cool-door-opening/1/)
-* [Profiles in Scourging](https://www.somethingawful.com/news/spitzer-ferraro-clinton/1/)
-* [Rock of Ages](https://www.somethingawful.com/current-movie-reviews/rock-ages/)
-* [Patch Notes: Bulletstorm](https://www.somethingawful.com/video-game-article/bulletstorm-patch-notes/)
+* [The Fall of Man](https://www.somethingawful.com/news/fall-man/)
+* [Villain Thievz](https://www.somethingawful.com/awful-links/awful-link-628/)
+* [National Banner Ad Clicking Day](https://www.somethingawful.com/news/national-banner-ad/)
+* [Sunday Snort: POISON by Robert Closeknees Smith](https://www.somethingawful.com/daily-dirt/sunday-snort-poison/)
+* [Best of @sheboyganscan](https://www.somethingawful.com/twitter-tuesday/tt03-27-12/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
