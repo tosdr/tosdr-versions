@@ -165,23 +165,23 @@
     
     9 月 17, 2024 2
     
-* [![SimpleMindMap - 开源、功能完整的思维导图工具[跨平台/Web] 8](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-11T144631.481-115x115.jpg "SimpleMindMap - 开源、功能完整的思维导图工具[跨平台/Web] 8")](https://www.appinn.com/simplemindmap/ "SimpleMindMap – 开源、功能完整的思维导图工具[跨平台/Web]")
-    
-    [SimpleMindMap – 开源、功能完整的思维导图工具\[跨平台/Web\]](https://www.appinn.com/simplemindmap/ "SimpleMindMap – 开源、功能完整的思维导图工具[跨平台/Web]")
-    
-    9 月 11, 2024 1
-    
-* [![为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能 9](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-19T161939.974-115x115.jpg "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能 9")](https://www.appinn.com/winrar-7zip-mini-tips/ "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能")
+* [![为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能 8](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-19T161939.974-115x115.jpg "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能 8")](https://www.appinn.com/winrar-7zip-mini-tips/ "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能")
     
     [为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能](https://www.appinn.com/winrar-7zip-mini-tips/ "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能")
     
     9 月 19, 2024 1
     
-* [![为微软电子教鞭 ZoomIt v8.0.1 添加快捷键小抄｜新功能 DemoType：自动输入演示文本 10](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-10T200003.098-115x115.jpg "为微软电子教鞭 ZoomIt v8.0.1 添加快捷键小抄｜新功能 DemoType：自动输入演示文本 10")](https://www.appinn.com/zoomit-v8-demotype/ "为微软电子教鞭 ZoomIt v8.0.1 添加快捷键小抄｜新功能 DemoType：自动输入演示文本")
+* [![SkylineWebcams - 来自 60 多个国家、热门旅游地点的高清实况摄像头 9](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-15T164624.038-115x115.jpg "SkylineWebcams - 来自 60 多个国家、热门旅游地点的高清实况摄像头 9")](https://www.appinn.com/skylinewebcams/ "SkylineWebcams – 来自 60 多个国家、热门旅游地点的高清实况摄像头")
     
-    [为微软电子教鞭 ZoomIt v8.0.1 添加快捷键小抄｜新功能 DemoType：自动输入演示文本](https://www.appinn.com/zoomit-v8-demotype/ "为微软电子教鞭 ZoomIt v8.0.1 添加快捷键小抄｜新功能 DemoType：自动输入演示文本")
+    [SkylineWebcams – 来自 60 多个国家、热门旅游地点的高清实况摄像头](https://www.appinn.com/skylinewebcams/ "SkylineWebcams – 来自 60 多个国家、热门旅游地点的高清实况摄像头")
     
-    10 月 10, 2024 0
+    9 月 15, 2024 0
+    
+* [![Look Scanned 发布专业版，可批量将 PDF 转换成扫描样式｜看起来很旧、像纸那种 10](https://www.appinn.com/wp-content/uploads/2022/05/look-scanned.jpgo_-115x115.jpg "Look Scanned 发布专业版，可批量将 PDF 转换成扫描样式｜看起来很旧、像纸那种 10")](https://www.appinn.com/look-scanned-pro/ "Look Scanned 发布专业版，可批量将 PDF 转换成扫描样式｜看起来很旧、像纸那种")
+    
+    [Look Scanned 发布专业版，可批量将 PDF 转换成扫描样式｜看起来很旧、像纸那种](https://www.appinn.com/look-scanned-pro/ "Look Scanned 发布专业版，可批量将 PDF 转换成扫描样式｜看起来很旧、像纸那种")
+    
+    10 月 12, 2024 0
     
 
 ### 分类
