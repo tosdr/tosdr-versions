@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Tracy-Conley-326x245.jpg)](https://cwbchicago.com/2024/10/man-on-house-arrest-for-gun-case-had-machine-gun-pistol-drugs-and-1180-cash-in-his-living-room-prosecutors-say.html "Man on house arrest for gun case had machine gun, pistol, drugs, and $1,180 cash in his living room, prosecutors say")
+
+East Garfield Park
+
+### [Man on house arrest for gun case had machine gun, pistol, drugs, and $1,180 cash in his living room, prosecutors say](https://cwbchicago.com/2024/10/man-on-house-arrest-for-gun-case-had-machine-gun-pistol-drugs-and-1180-cash-in-his-living-room-prosecutors-say.html "Man on house arrest for gun case had machine gun, pistol, drugs, and $1,180 cash in his living room, prosecutors say")
+
+[October 9, 2024 6:24 PM](https://cwbchicago.com/2024/10)
+
+After Chicago police received a ShotSpotter alert last month at an address where a man was on house arrest for a pending felony gun charge, the Cook County Sheriff’s Office decided to pay the man a visit.[](https://cwbchicago.com/2024/10/man-on-house-arrest-for-gun-case-had-machine-gun-pistol-drugs-and-1180-cash-in-his-living-room-prosecutors-say.html "Man on house arrest for gun case had machine gun, pistol, drugs, and $1,180 cash in his living room, prosecutors say")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/JONNE-MONTESS-ALEXANDER-and-Oscar-Garcia-Adrain-326x245.jpg)](https://cwbchicago.com/2024/10/2-migrants-arrested-10-times-this-year-burglarized-lakefront-restaurant-prosecutors-say.html "2 migrants, arrested 10 times this year, burglarized lakefront restaurant, prosecutors say")
 
 Gold Coast
@@ -262,16 +272,6 @@ CTA
 [October 9, 2024 6:39 AM](https://cwbchicago.com/2024/10)
 
 A Cicero man has been jailed as a safety risk after prosecutors accused him of robbing and threatening to kill a woman with a broken bottle aboard a Blue Line train.[](https://cwbchicago.com/2024/10/9-time-felon-armed-with-broken-bottle-robbed-threatened-to-kill-woman-on-blue-line-officials-say.html "9-time felon armed with broken bottle robbed, threatened to kill woman on Blue Line, officials say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Recruits-August-2024-326x245.jpg)](https://cwbchicago.com/2024/10/mayor-axes-2-police-academy-classes-faces-legal-fight-over-shotspotter-contract.html "Mayor axes 2 police academy classes, faces legal fight over ShotSpotter contract: reports")
-
-Citywide
-
-### [Mayor axes 2 police academy classes, faces legal fight over ShotSpotter contract: reports](https://cwbchicago.com/2024/10/mayor-axes-2-police-academy-classes-faces-legal-fight-over-shotspotter-contract.html "Mayor axes 2 police academy classes, faces legal fight over ShotSpotter contract: reports")
-
-[October 9, 2024 6:03 AM](https://cwbchicago.com/2024/10)
-
-Mayor Brandon Johnson has canceled two police academy classes to save money and he’s heading toward a legal fight with the city council over ShotSpotter.[](https://cwbchicago.com/2024/10/mayor-axes-2-police-academy-classes-faces-legal-fight-over-shotspotter-contract.html "Mayor axes 2 police academy classes, faces legal fight over ShotSpotter contract: reports")
 
 Search
 
