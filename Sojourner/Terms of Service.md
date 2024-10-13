@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-357008d17f4ae6854147850f04677422
+f907fd4536065c1e115ef216b97ade67
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Large oval turquoise clasp](https://sojourner.biz/images/cache/SKU0039variations.200.jpg)](https://sojourner.biz/clasps/semi-precious/large-oval-turquoise-clasp.html "Large oval turquoise clasp")
+[![7 mm round garnet beads](https://sojourner.biz/images/cache/stone/GAR0003.200.jpg)](https://sojourner.biz/beads/stone-a-l/garnet/7-mm-round-garnet-beads.html "7 mm round garnet beads")
 
-#### [Large oval turquoise clasp](https://sojourner.biz/clasps/semi-precious/large-oval-turquoise-clasp.html "Large oval turquoise clasp")
+#### [7 mm round garnet beads](https://sojourner.biz/beads/stone-a-l/garnet/7-mm-round-garnet-beads.html "7 mm round garnet beads")
 
-$45.00
+$37.00
 
 ### Best Sellers
 
