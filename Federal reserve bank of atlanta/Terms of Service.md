@@ -26,7 +26,7 @@
     
 * [Community Development](https://www.atlantafed.org/community-development)
     
-    [About Us](https://www.atlantafed.org/community-development/about-us) [Data & Tools](https://www.atlantafed.org/community-development/data-and-tools) [Events](https://www.atlantafed.org/community-development/events) [Infographics](https://www.atlantafed.org/community-development/infographics) [Podcasts](https://www.atlantafed.org/cweo/workforce-currents) [Publications](https://www.atlantafed.org/cweo/ask-us-anything) [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
+    [About Us](https://www.atlantafed.org/community-development/about-us) [Data & Tools](https://www.atlantafed.org/community-development/data-and-tools) [Events](https://www.atlantafed.org/community-development/events) [Infographics](https://www.atlantafed.org/community-development/infographics) [Podcasts](https://www.atlantafed.org/community-development/podcasts) [Publications](https://www.atlantafed.org/community-development/publications) [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
     
 * [About the Fed](https://www.atlantafed.org/about)
     
