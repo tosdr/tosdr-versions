@@ -291,7 +291,7 @@ In accordance with the DMCA and other applicable laws, we have adopted a policy 
 
 [Contact](https://www.fakku.net/contact) [Support](https://www.fakku.net/support) [Jobs](https://www.fakku.net/jobs) [Terms](https://www.fakku.net/terms) [Privacy](https://www.fakku.net/privacy) [Merch](https://merch.fakku.net/)
 
-Close sidebar [Notifications](https://www.fakku.net/notifications) Dark mode
+Close sidebar [Notifications](https://www.fakku.net/notifications) [Shopping Cart](https://www.fakku.net/cart) Dark mode
 
 [Create Account](https://www.fakku.net/users/create) [Login](https://www.fakku.net/login)
 
