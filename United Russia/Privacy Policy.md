@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Якушев: Ежедневной работой специалисты сельхозотрасли добились для России статуса аграрной сверхдержавы](https://cdn.er.ru/media/news/October2024/GWkgCMSSVNSEsI7nDXzX-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-ezhednevnoj-rabotoj-specialisty-selhozotrasli-dobilis-dlya-rossii-statusa-agrarnoj-sverhderzhavy)
+
+[Владимир Якушев: Ежедневной работой специалисты сельхозотрасли добились для России статуса аграрной сверхдержавы](https://er.ru/activity/news/vladimir-yakushev-ezhednevnoj-rabotoj-specialisty-selhozotrasli-dobilis-dlya-rossii-statusa-agrarnoj-sverhderzhavy)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#Деньработникасельскогохозяйства](https://er.ru/activity/news?tags%5B0%5D=1092253)
+
+Сегодня 09:00
+
 [![Добровольцами в зону СВО отправились 12 активистов «Молодой Гвардии Единой России» и «Волонтерской Роты»](https://cdn.er.ru/media/news/October2024/x3WHIsdoszA2tepYPmYU-small.jpeg)](https://er.ru/activity/news/dobrovolcami-v-zonu-svo-otpravilis-12-aktivistov-molodoj-gvardii-edinoj-rossii-i-volonterskoj-roty)
 
 [Добровольцами в зону СВО отправились 12 активистов «Молодой Гвардии Единой России» и «Волонтерской Роты»](https://er.ru/activity/news/dobrovolcami-v-zonu-svo-otpravilis-12-aktivistov-molodoj-gvardii-edinoj-rossii-i-volonterskoj-roty)
@@ -336,14 +344,6 @@
 [«Единая Россия» и МГЕР организовали в регионах памятную акцию «Уничтоженное детство»](https://er.ru/activity/news/edinaya-rossiya-i-mger-organizovali-v-regionah-pamyatnuyu-akciyu-unichtozhennoe-detstvo)
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#уничтоженноедетство](https://er.ru/activity/news?tags%5B0%5D=1095798) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ВеликаяОтечественнаявойна](https://er.ru/activity/news?tags%5B0%5D=1093130) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#геноцид](https://er.ru/activity/news?tags%5B0%5D=58283)
-
-10.10.24
-
-[![Антон Горелкин: «Единая Россия» ведёт работу над обеспечением цифровой безопасности государства](https://cdn.er.ru/media/news/October2024/azimfzIlPmsG3hZ0u7uI-small.jpg)](https://er.ru/activity/news/anton-gorelkin-edinaya-rossiya-vedyot-rabotu-nad-obespecheniem-cifrovoj-bezopasnosti-gosudarstva)
-
-[Антон Горелкин: «Единая Россия» ведёт работу над обеспечением цифровой безопасности государства](https://er.ru/activity/news/anton-gorelkin-edinaya-rossiya-vedyot-rabotu-nad-obespecheniem-cifrovoj-bezopasnosti-gosudarstva)
-
-[#Горелкин](https://er.ru/activity/news?tags%5B0%5D=101387) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Кемеровская область-Кузбасс](https://er.ru/activity/news?tags%5B0%5D=137879) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#цифроваяграмотность](https://er.ru/activity/news?tags%5B0%5D=105659) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#цифровойдиктант](https://er.ru/activity/news?tags%5B0%5D=1095797)
 
 10.10.24
 
