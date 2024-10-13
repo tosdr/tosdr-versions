@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Originally, the Weasleys’ cousin who was a Squib was going to have a child who would be a first year during “Goblet of Fire”. The child, Mafalda, was cut and her role was given to Rita Skeeter.
+Jason Isaacs, who portrays Lucius Malfoy, believes that Lucius is cold to Draco because Lucius was raised in a similar way.
 
 ### Potter History
 
-March 12, 2008 – After many rumors, Warner Bros. officially announces that Harry Potter and the Deathly Hallows will be split into two separate films.
+January 5, 2008 – Warner Bros. announces that all of their films, including the Harry Potter series, will only be produced in Blu-ray, thus immediately ending the HD-DVD/Blu-ray war.
 
 ### Potter Quote
 
-“I’m three years older than you were when you fought You-Know– Who over the Sorcerer’s Stone and it’s because of me Malfoy’s stuck back in Umbridge’s office with giant flying bogeys attacking him!”
+“Malfoy’s got detention! I could sing!”
 
 [](#)
 
