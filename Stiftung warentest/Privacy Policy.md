@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Misch­fonds-ETF: Die ganze Geld­anlage in nur einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-nur-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in nur einem ETF")
-* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Misch­fonds-ETF: Die ganze Geld­anlage in nur einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-nur-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in nur einem ETF")
-* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Misch­fonds-ETF: Die ganze Geld­anlage in nur einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-nur-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in nur einem ETF")
-* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Misch­fonds-ETF: Die ganze Geld­anlage in nur einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-nur-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in nur einem ETF")
-* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
 
 Service Stiftung Warentest
 
