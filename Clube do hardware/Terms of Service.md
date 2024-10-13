@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_2010107844_menu)
+ [Compartilhar](#elShareItem_672104398_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1026014753_menu)
+ [Compartilhar](#elShareItem_746594663_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,6 +365,66 @@ Mais opções...
 
 * ### Últimos tópicos
     
+    * [![Bruno Cost4](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254187.thumb.jpeg.7f3cbb7ebcf7c312afe771d6c8a69a85.jpeg)](https://www.clubedohardware.com.br/profile/1254187-bruno-cost4/ "Ir ao perfil de Bruno Cost4")
+        
+        0
+        
+        [Quero saber qual a diferença entre processador 4.2GHz e 3.6GHz](https://www.clubedohardware.com.br/forums/topic/1699561-quero-saber-qual-a-diferen%C3%A7a-entre-processador-42ghz-e-36ghz/?do=getNewComment "Quero saber qual a diferença entre processador 4.2GHz e 3.6GHz")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Bruno Cost4](https://www.clubedohardware.com.br/profile/1254187-bruno-cost4/ "Ir ao perfil de Bruno Cost4")  
+        2 horas atrás
+        
+    * [![Laash](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2391c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254412-laash/ "Ir ao perfil de Laash")
+        
+        0
+        
+        [Como funciona a tensão de entrada e saida (no-break) ?](https://www.clubedohardware.com.br/forums/topic/1699560-como-funciona-a-tens%C3%A3o-de-entrada-e-saida-no-break/?do=getNewComment "Como funciona a tensão de entrada e saida (no-break) ?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Laash](https://www.clubedohardware.com.br/profile/1254412-laash/ "Ir ao perfil de Laash")  
+        3 horas atrás
+        
+    * [![KauazinhodoBem](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/Capturadetela2024-10-02120257.thumb.png.d93267211f1a6c0872febcb1c6cbd899.png)](https://www.clubedohardware.com.br/profile/1254414-kauazinhodobem/ "Ir ao perfil de KauazinhodoBem")
+        
+        4
+        
+        [GPU integrada usando com muita ram alocada](https://www.clubedohardware.com.br/forums/topic/1699559-gpu-integrada-usando-com-muita-ram-alocada/?do=getNewComment "GPU integrada usando com muita ram alocada")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [KauazinhodoBem](https://www.clubedohardware.com.br/profile/1254414-kauazinhodobem/ "Ir ao perfil de KauazinhodoBem")  
+        3 horas atrás
+        
+    * [![Dzt](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4b762%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251972-dzt/ "Ir ao perfil de Dzt")
+        
+        5
+        
+        [RX 5500XT desligando sozinha, descobri a causa, mas não sei como resolver](https://www.clubedohardware.com.br/forums/topic/1699558-rx-5500xt-desligando-sozinha-descobri-a-causa-mas-n%C3%A3o-sei-como-resolver/?do=getNewComment "RX 5500XT desligando sozinha, descobri a causa, mas não sei como resolver")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Dzt](https://www.clubedohardware.com.br/profile/1251972-dzt/ "Ir ao perfil de Dzt")  
+        5 horas atrás
+        
+    * [![Matheustesta](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c486%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1142530-matheustesta/ "Ir ao perfil de Matheustesta")
+        
+        0
+        
+        [Bateria da camera sony não carrega](https://www.clubedohardware.com.br/forums/topic/1699557-bateria-da-camera-sony-n%C3%A3o-carrega/?do=getNewComment "Bateria da camera sony não carrega")
+        
+        [Câmeras e filmadoras](https://www.clubedohardware.com.br/forums/forum/46-c%C3%A2meras-e-filmadoras/ "Câmeras e filmadoras")  
+        Por [Matheustesta](https://www.clubedohardware.com.br/profile/1142530-matheustesta/ "Ir ao perfil de Matheustesta")  
+        5 horas atrás
+        
+    * [![Liebe](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/0.thumb.png.8dacc4b6b37a49fcc0dc52afc9e334ae.png)](https://www.clubedohardware.com.br/profile/1254404-liebe/ "Ir ao perfil de Liebe")
+        
+        1
+        
+        [Recomendação de microfone até R$400,00 | Headsets da Fifine são bons?](https://www.clubedohardware.com.br/forums/topic/1699556-recomenda%C3%A7%C3%A3o-de-microfone-at%C3%A9-r40000-headsets-da-fifine-s%C3%A3o-bons/?do=getNewComment "Recomendação de microfone até R$400,00 | Headsets da Fifine são bons?")
+        
+        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
+        Por [Liebe](https://www.clubedohardware.com.br/profile/1254404-liebe/ "Ir ao perfil de Liebe")  
+        5 horas atrás
+        
     * [![Salame-Ninja](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254408.thumb.jpeg.73f75694ce01fc414d957a25cb3334bd.jpeg)](https://www.clubedohardware.com.br/profile/1254408-salame-ninja/ "Ir ao perfil de Salame-Ninja")
         
         0
@@ -373,7 +433,7 @@ Mais opções...
         
         [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
         Por [Salame-Ninja](https://www.clubedohardware.com.br/profile/1254408-salame-ninja/ "Ir ao perfil de Salame-Ninja")  
-        30 minutos atrás
+        6 horas atrás
         
     * [![deejaywesley](https://www.clubedohardware.com.br/uploads/members/monthly_2016_04/190357_106257809456643_1550682_n.jpg.13d39f6a9b427e43f31e66ffabf79a20.thumb.jpg.5c73af97716a456d4171d47c24571776.jpg)](https://www.clubedohardware.com.br/profile/529367-deejaywesley/ "Ir ao perfil de deejaywesley")
         
@@ -383,17 +443,17 @@ Mais opções...
         
         [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
         Por [deejaywesley](https://www.clubedohardware.com.br/profile/529367-deejaywesley/ "Ir ao perfil de deejaywesley")  
-        40 minutos atrás
+        6 horas atrás
         
     * [![FuryGAMING](https://www.clubedohardware.com.br/uploads/members/monthly_2016_11/583df317395aa_nxzt-hue-plus-rainbow-review_0(1)2.thumb.gif.877dfcc239494e394ef569951e2d782e.gif)](https://www.clubedohardware.com.br/profile/807539-furygaming/ "Ir ao perfil de FuryGAMING")
         
-        0
+        1
         
         [PC não da boot e só desliga diretamente na fonte.](https://www.clubedohardware.com.br/forums/topic/1699551-pc-n%C3%A3o-da-boot-e-s%C3%B3-desliga-diretamente-na-fonte/?do=getNewComment "PC não da boot e só desliga diretamente na fonte.")
         
         [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
         Por [FuryGAMING](https://www.clubedohardware.com.br/profile/807539-furygaming/ "Ir ao perfil de FuryGAMING")  
-        1 hora atrás
+        7 horas atrás
         
     * [![Igo0R](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254407.thumb.jpeg.8df3b6cd1c97305f9a365bfe7ca3415e.jpeg)](https://www.clubedohardware.com.br/profile/1254407-igo0r/ "Ir ao perfil de Igo0R")
         
@@ -403,67 +463,7 @@ Mais opções...
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [Igo0R](https://www.clubedohardware.com.br/profile/1254407-igo0r/ "Ir ao perfil de Igo0R")  
-        1 hora atrás
-        
-    * [![Eduardo Calassio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1053211.thumb.jpeg.b3a5cbf46a8852424d4a7979e6398cad.jpeg)](https://www.clubedohardware.com.br/profile/1053211-eduardo-calassio/ "Ir ao perfil de Eduardo Calassio")
-        
-        0
-        
-        [conectividade sobre fans argb](https://www.clubedohardware.com.br/forums/topic/1699549-conectividade-sobre-fans-argb/?do=getNewComment "conectividade sobre fans argb")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Eduardo Calassio](https://www.clubedohardware.com.br/profile/1053211-eduardo-calassio/ "Ir ao perfil de Eduardo Calassio")  
-        1 hora atrás
-        
-    * [![Liebe](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/0.thumb.png.8dacc4b6b37a49fcc0dc52afc9e334ae.png)](https://www.clubedohardware.com.br/profile/1254404-liebe/ "Ir ao perfil de Liebe")
-        
-        0
-        
-        [Mouse sem fio com scroll óptico](https://www.clubedohardware.com.br/forums/topic/1699548-mouse-sem-fio-com-scroll-%C3%B3ptico/?do=getNewComment "Mouse sem fio com scroll óptico")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Liebe](https://www.clubedohardware.com.br/profile/1254404-liebe/ "Ir ao perfil de Liebe")  
-        2 horas atrás
-        
-    * [![Lactobacilos](https://www.clubedohardware.com.br/uploads/members/monthly_2022_09/1060365459_Capturadetela2022-09-22125925.thumb.png.9e2f9d3595d1a4a7ede81894b4aad7bd.png)](https://www.clubedohardware.com.br/profile/657181-lactobacilos/ "Ir ao perfil de Lactobacilos")
-        
-        0
-        
-        [Recomendação de processador para RTX 4070](https://www.clubedohardware.com.br/forums/topic/1699547-recomenda%C3%A7%C3%A3o-de-processador-para-rtx-4070/?do=getNewComment "Recomendação de processador para RTX 4070")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Lactobacilos](https://www.clubedohardware.com.br/profile/657181-lactobacilos/ "Ir ao perfil de Lactobacilos")  
-        2 horas atrás
-        
-    * [![Badmatias](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1238938.thumb.jpeg.ec7c6a081bab859b5a71f09a3e44820f.jpeg)](https://www.clubedohardware.com.br/profile/1238938-badmatias/ "Ir ao perfil de Badmatias")
-        
-        1
-        
-        [Preciso de um no-break recomendação](https://www.clubedohardware.com.br/forums/topic/1699546-preciso-de-um-no-break-recomenda%C3%A7%C3%A3o/?do=getNewComment "Preciso de um no-break recomendação")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Badmatias](https://www.clubedohardware.com.br/profile/1238938-badmatias/ "Ir ao perfil de Badmatias")  
-        2 horas atrás
-        
-    * [![Mr. Caio Augusto](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/1643543052_Sem22.thumb.jpg.f92aa87fb021beeb04a64abb27a7da6b.jpg)](https://www.clubedohardware.com.br/profile/630306-mr-caio-augusto/ "Ir ao perfil de Mr. Caio Augusto")
-        
-        0
-        
-        [Roteador limitando velocidade internet - Artcher C6](https://www.clubedohardware.com.br/forums/topic/1699545-roteador-limitando-velocidade-internet-artcher-c6/?do=getNewComment "Roteador limitando velocidade internet - Artcher C6")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Mr. Caio Augusto](https://www.clubedohardware.com.br/profile/630306-mr-caio-augusto/ "Ir ao perfil de Mr. Caio Augusto")  
-        2 horas atrás
-        
-    * [![guilherme Perego](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1249747.thumb.jpeg.eb9c02d02b92e37e2c9c53bdb9fe4529.jpeg)](https://www.clubedohardware.com.br/profile/1249747-guilherme-perego/ "Ir ao perfil de guilherme Perego")
-        
-        1
-        
-        [Placa de Vídeo rodando em 8x 4.0](https://www.clubedohardware.com.br/forums/topic/1699544-placa-de-v%C3%ADdeo-rodando-em-8x-40/?do=getNewComment "Placa de Vídeo rodando em 8x 4.0")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [guilherme Perego](https://www.clubedohardware.com.br/profile/1249747-guilherme-perego/ "Ir ao perfil de guilherme Perego")  
-        2 horas atrás
+        7 horas atrás
         
     
 
@@ -623,5 +623,11 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 [×](#)
 
 * Criar novo...
+
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+
+**EBOOK GRÁTIS!**
+
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
