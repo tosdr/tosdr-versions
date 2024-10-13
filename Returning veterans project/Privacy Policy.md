@@ -191,11 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![COL Thomas Hawes](https://cdn.returningveterans.org/images/honor/COL_Tom_Hawes.png)  
+![USMA - West Point](https://cdn.returningveterans.org/images/honor/West_Point.jpg)  
 
-**In Honor of COL Thomas Hawes**  
+**In Honor of USMA - West Point**  
 United States Army  
-Submitted by John Cimral](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/12/24 - 8:43:36  
+Printed 10/13/24 - 2:47:19  
 © 2024 Returning Veterans Project
