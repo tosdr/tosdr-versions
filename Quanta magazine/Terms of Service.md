@@ -247,6 +247,12 @@ Past Week
 
 _By_ [Rebecca Boyle](https://www.quantamagazine.org/authors/rebecca-boyle)
 
+[![A woman sitting on a rocky shore looks up at the cosmos and sees a handful of solid shapes floating in the sky.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Geometry-crSenor-Salme-AppleTileThumbnail.webp)](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
+
+[#### Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
+
+_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
+
 [![People on ladders looking through holes in a wall at obscured numbers](https://www.quantamagazine.org/wp-content/uploads/2024/10/ZeroKnowledgePCPs-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
 
 [#### Computer Scientists Combine Two ‘Beautiful’ Proof Methods](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
@@ -258,12 +264,6 @@ _By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
 [#### The Unraveling of Space-Time](https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/)
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood) [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett) [Amanda Gefter](https://www.quantamagazine.org/authors/amanda-gefter) [Emily Buder](https://www.quantamagazine.org/authors/ebuder) [Mark Belan](https://www.quantamagazine.org/authors/markbelan) [Natalie Wolchover](https://www.quantamagazine.org/authors/natalie)
-
-[![A woman sitting on a rocky shore looks up at the cosmos and sees a handful of solid shapes floating in the sky.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Geometry-crSenor-Salme-AppleTileThumbnail.webp)](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
-
-[#### Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
-
-_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
 The Quanta Newsletter
 
