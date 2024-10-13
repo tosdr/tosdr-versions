@@ -6,8 +6,6 @@ Terms
 
 [Login](https://dezgo.com/account)
 
-[Flux Contest](https://dezgo.com/contest/flux)
-
 * * *
 
 [Text-to-Image XL](https://dezgo.com/text2image/sdxl)
@@ -48,12 +46,11 @@ Terms
 
 [System Status](https://status.dezgo.com/)
 
+[Flux Contest](https://dezgo.com/contest/flux)
+
 powered by Stable Diffusion AI  
 [Terms](https://dezgo.com/terms) - [Privacy](https://dezgo.com/privacy) - [Open RAIL-M License](https://dezgo.com/license)  
 Privacy Manager
-
-**Vote for the best Flux-generated images** in our contest! 20 lucky voters will be chosen at random to receive free Power Mode credits (worth 344 fast Flux images)  
-[Vote here](https://dezgo.com/contest/flux)
 
 ### TERMS OF SERVICE
 
