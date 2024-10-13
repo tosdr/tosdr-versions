@@ -124,7 +124,7 @@ All rights reserved.
 * [Terms of Service](https://www.artspace.com/legal)
 * [Accessibility Statement](https://www.artspace.com/accessibility)
 
-[](https://twitter.com/artspace)[](https://www.instagram.com/artspace/)  
+[](https://x.com/artspace)[](https://www.instagram.com/artspace/)  
 [](https://www.pinterest.com/artspace/)
 
 RECEIVE OUR AWARD WINNING EMAILS & ENJOY 10% OFF YOUR FIRST PURCHASE
