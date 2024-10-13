@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
+[![Gladius](plugins/MineCraft/icons/25x25xGladius_1687724866.png.pagespeed.ic.sE5XXSLjhm.png)
 
-BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexMc")[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
+Gladius SMP SEMI ANARCHY NO CRYSTAL PVP](https://minecraft-server.net/details/Gladius/ "Gladius SMP SEMI ANARCHY NO CRYSTAL PVP")[![SkyliteMCNetwork](plugins/MineCraft/icons/25x25xSkyliteMCNetwork_1728025073.png.pagespeed.ic.IvBfztrha8.jpg)
 
-TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![HearthCraft](plugins/MineCraft/icons/25x25xHearthCraft_1726669577.png.pagespeed.ic.HiP4ZJr9ct.jpg)
+SkyliteMC Network](https://minecraft-server.net/details/SkyliteMCNetwork/ "SkyliteMC Network")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
 
-HearthCraft SMP \[1.20.x\] - A no-griefing, no-resets economy experience](https://minecraft-server.net/details/HearthCraft/ "HearthCraft SMP [1.20.x] - A no-griefing, no-resets economy experience")[![Foundation-Craft](plugins/MineCraft/icons/25x25xFoundation-Craft_1694578831.png.pagespeed.ic.3NY6E8gU-J.png)
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-Foundation Craft](https://minecraft-server.net/details/Foundation-Craft/ "Foundation Craft")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
 
-1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")
+CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05713 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05736 - Created by [Debaucus](https://debauc.us/)
