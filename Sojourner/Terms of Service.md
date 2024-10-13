@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ecead4798aae5b2be7df104772a3015a
+a40a1292442d8ae5c82c5f7bb54d1cdb
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![10 mm clear frosted heart beads](https://sojourner.biz/images/cache/glass/HRT008.200.jpg)](https://sojourner.biz/beads/glass/10-mm-clear-frosted-heart-beads.html "10 mm clear frosted heart beads")
+[![17 mm blue speckled glass beads](https://sojourner.biz/images/cache/glass/GL0195.200.jpg)](https://sojourner.biz/beads/glass/17-mm-blue-speckled-glass-beads.html "17 mm blue speckled glass beads")
 
-#### [10 mm clear frosted heart beads](https://sojourner.biz/beads/glass/10-mm-clear-frosted-heart-beads.html "10 mm clear frosted heart beads")
+#### [17 mm blue speckled glass beads](https://sojourner.biz/beads/glass/17-mm-blue-speckled-glass-beads.html "17 mm blue speckled glass beads")
 
-$4.00
+$10.00
 
 ### Best Sellers
 
