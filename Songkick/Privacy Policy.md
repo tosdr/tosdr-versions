@@ -26,11 +26,11 @@
         *  [![Kanye West Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kanye West](https://www.songkick.com/artists/552177-kanye-west)
         *  [![Ed Sheeran Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ed Sheeran](https://www.songkick.com/artists/2083334-ed-sheeran)
         
+        *  [![Seori Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Seori](https://www.songkick.com/artists/10353264-seori)
+        *  [![Mckyyy Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mckyyy](https://www.songkick.com/artists/10352973-mckyyy)
         *  [![アトラスサウンドチーム Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) アトラスサウンドチーム](https://www.songkick.com/artists/10352290-atorasusaundotimu)
+        *  [![Matt Champion Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Matt Champion](https://www.songkick.com/artists/10351953-matt-champion)
         *  [![Sushi Soucy Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Sushi Soucy](https://www.songkick.com/artists/10351571-sushi-soucy)
-        *  [![Midland Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Midland](https://www.songkick.com/artists/10351433-midland)
-        *  [![KATSEYE Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) KATSEYE](https://www.songkick.com/artists/10350173-katseye)
-        *  [![Kapo Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kapo](https://www.songkick.com/artists/623433-kapo)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
