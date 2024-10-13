@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I used FoxyProxy on my recent trip to Australia (from the UK). Excellent product; I fully expect to use it on all future visits.
+It's been a super service, I will renew for one more month but in 2 weeks I am moving house, and sadly there is no ADSL broadband currently available in the area, and I may have to wait a year or more to get it. but as soon as I get broadband again I will be back.
 
-Jim Cooling
+Paul Crespel
