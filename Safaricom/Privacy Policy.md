@@ -90,7 +90,7 @@ HOLIDAY TYPES
 
 About us
 
-[Our Story](https://www.safari.com/about-us)[Why travel with us](https://www.safari.com/travel-with-us)[FAQ](https://www.safari.com/faq)[Testimonials](https://www.trustpilot.com/review/safari.com)[Financial Protection](https://www.safari.com/travel-with-us#financial-protection)[Meet the Team](https://www.safari.com/meet-the-team)[Contact us](https://www.safari.com/contact)
+[Our Story](https://www.safari.com/about-us)[Why travel with us](https://www.safari.com/travel-with-us)[FAQ](https://www.safari.com/faq)[Testimonials](https://www.trustpilot.com/review/safari.com)[Financial Protection](https://www.safari.com/travel-with-us#financial-protection)[Meet the Team](https://www.safari.com/meet-the-team)[Partner with us](https://www.safari.com/affiliates)[Contact us](https://www.safari.com/contact)
 
 Menu
 
@@ -301,7 +301,7 @@ Contact a safari expert now
 ### About us
 
 * [Why travel with us](https://www.safari.com/travel-with-us)[Ethical wildlife policy](https://www.safari.com/travel-with-us#ethical-wildlife-tourism-policy)[FAQ](https://www.safari.com/faq)[Our story](https://www.safari.com/about-us)[Meet the team](https://www.safari.com/meet-the-team)[Careers](https://www.safari.com/careers)[Traveler reviews](https://www.trustpilot.com/review/safari.com)[Africa's Leading Safari Company 2024](https://www.safari.com/blog/safari-com-world-travel-awards-nominee-2024-vote-for-us)
-* [Contact Us](https://www.safari.com/contact)
+* [Join Our Affiliate Program](https://www.safari.com/affiliates)
 
 ### Blog
 
