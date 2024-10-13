@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
-* [Omega MSX No Video Signal](https://www.msx.org/forum/msx-talk/hardware/omega-msx-no-video-signal "Omega MSX No Video Signal")
 * [Aleste 2 manual automated translation](https://www.msx.org/forum/msx-talk/general-discussion/aleste-2-manual-automated-translation?page=2 "Aleste 2 manual automated translation")
+* [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=28 "A new MSX (3?) for 2022 ?")
+* [Multiplayer link cable](https://www.msx.org/forum/msx-talk/development/multiplayer-link-cable?page=2 "Multiplayer link cable")
+* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto "RIP Fabio Belavenuto")
+* [F4/FMPAC V2.0 for Omega amp circuit not working](https://www.msx.org/forum/msx-talk/hardware/f4fmpac-for-omega-amp-circuit-not-working "F4/FMPAC V2.0 for Omega amp circuit not working")
+* [Omega MSX No Video Signal](https://www.msx.org/forum/msx-talk/hardware/omega-msx-no-video-signal "Omega MSX No Video Signal")
 * [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card?page=1 "MFRSCC+SD FAT12 & FAT16 partition on one card.")
 * [Tabmegx and openmsx](https://www.msx.org/forum/msx-talk/general-discussion/tabmegx-and-openmsx "Tabmegx and openmsx")
 * [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=100 "The Big MegaFlashROM SCC+ SD Topic")
-* [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=28 "A new MSX (3?) for 2022 ?")
 * [Enhanced decoding of YJK images](https://www.msx.org/forum/msx-talk/software/enhanced-decoding-yjk-images?page=4 "Enhanced decoding of YJK images")
-* [Multiplayer link cable](https://www.msx.org/forum/msx-talk/development/multiplayer-link-cable?page=2 "Multiplayer link cable")
 * [Help with Spectravideo SVI-727 80 column cartidge!!!](https://www.msx.org/forum/msx-talk/hardware/help-spectravideo-svi-727-80-column-cartidge?page=1 "Help with Spectravideo SVI-727 80 column cartidge!!!")
 * [TP33f source code.](https://www.msx.org/forum/msx-talk/development/tp33f-source-code "TP33f source code.")
-* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto "RIP Fabio Belavenuto")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=69 "WonderTANG! Who wants to juice up your MSX?")
-* [Disabling "Screenshot saved to" message in openMSX](https://www.msx.org/forum/msx-talk/openmsx/disabling-screenshot-saved-to-message-in-openmsx "Disabling "Screenshot saved to" message in openMSX")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
