@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Innovation
+
+### SpaceX in Texas: Promise in the heavens, tension on Earth](https://www.csmonitor.com/Science/2024/1013/spacex-starbase-starship-launch-texas "SpaceX in Texas: Promise in the heavens, tension on Earth")
+
 [Resilience
 
 ### Where Hezbollah stands, and what’s at stake, after battering by Israel](https://www.csmonitor.com/World/Middle-East/2024/1011/israel-hezbollah-resilience-lebanon-war "Where Hezbollah stands, and what’s at stake, after battering by Israel")
@@ -99,10 +103,6 @@ Recent Stories
 [Generosity
 
 ### The sound of silent giving](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1011/The-sound-of-silent-giving "The sound of silent giving")
-
-[Resilience
-
-### ‘The Last of the Sea Women’: How one director is documenting a South Korean tradition](https://www.csmonitor.com/The-Culture/TV/2024/1011/the-last-of-the-sea-women-sue-kim-south-korea "‘The Last of the Sea Women’: How one director is documenting a South Korean tradition")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
