@@ -19,7 +19,7 @@ Menu
 [No-Bake Colorful Fruit Cake – A Comprehensive Guide for Every Occasion](https://casihelper.com/no-bake-colorful-fruit-cake-a-comprehensive-guide-for-every-occasion/)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-October 13, 2024
+October 13, 2024October 13, 2024
 
 [![No-bake fruit cake Colorful no-bake cake No-bake holiday fruit cake No-bake dessert with fruit](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201350'%3E%3C/svg%3E)
 
