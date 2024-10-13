@@ -24,7 +24,7 @@ Free ToolsPremium ToolsData & Services
 
 Tools
 
-[Website Traffic Checker](https://www.similarweb.com/website/)[App Analytics](https://www.similarweb.com/app/)[Free Keyword Generator](https://www.similarweb.com/generator/)[UTM Builder](https://www.similarweb.com/utm-code-builder/)[SERP Seismograph](https://www.similarweb.com/serp/)
+[Website Traffic Checker](https://www.similarweb.com/website/)[App Analytics](https://www.similarweb.com/app/)[Free Keyword Generator](https://www.similarweb.com/generator/)[UTM Builder](https://www.similarweb.com/utm-code-builder/) [SERP Seismograph](https://www.similarweb.com/serp/)
 
 [Verify Your Website](https://www.similarweb.com/connect/)[Browser Extension](https://www.similarweb.com/corp/extension/)
 
