@@ -166,58 +166,6 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Acknowledges a Spiritual Part of Life
-
-[![](/i/Main%20Stage%20-%201400x1050/Human_Kindness_1400x1050.jpg)](https://www.icr.org/article/human-kindness-the-residual-image-of-god)
-
-[Human Kindness: The Residual Image of God](https://www.icr.org/article/human-kindness-the-residual-image-of-god/)
-
-As the pandemic has strengthened its grip on the world these last couple months, it’s producing one interesting side effect: people are seeking out...
-
-BY: [LAUREN PENNINGTON](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=232)
-
-[![](https://dummyimage.com/328x116/DDD/000&text=Impact+Article)](https://www.icr.org/article/american-genesis-cosmological-beliefs-indians)
-
-[American Genesis: The Cosmological Beliefs of the Indians](https://www.icr.org/article/american-genesis-cosmological-beliefs-indians/)
-
-With the rise of uniformitarian geology and Darwinian evolution in the nineteenth century, the stage was set for a naturalistic interpretation of life....
-
-BY: [BILL JOHNSON](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=59)
-
-[![](/i/wide/evidence_eternity_wide.jpg)](https://www.icr.org/article/evidence-eternity-our-hearts)
-
-[Evidence of Eternity in Our Hearts?](https://www.icr.org/article/evidence-eternity-our-hearts/)
-
-We tend to think that some core in each person will somehow, somewhere live forever. Sociologists have been attempting to track down the source of this...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-More Creation Science Update
-
-[![](/i/Main%20Stage%20-%201400x1050/SpiderSilk_1400x1050.jpg)](https://www.icr.org/article/Spider-Silk-For-Nerve-Repairs)
-
-[Spider Silk Properties Ideal for Nerve Repairs](https://www.icr.org/article/Spider-Silk-For-Nerve-Repairs/)
-
-Big doesn’t always mean strong. Most of the time, strength comes from what something is made of. The proteins forming spider silk make that silk...
-
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
-
-[![](/i/Main%20Stage%20-%201400x1050/saltysweat_1400x1050.jpg)](https://www.icr.org/article/salty-sweat-desert-plant)
-
-[Salty Sweat in a Desert Plant](https://www.icr.org/article/salty-sweat-desert-plant/)
-
-Although plants aren’t alive in the biblical sense,1 they are most certainly complex in their physiology and anatomy.2,3...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/green-algae-relatives-1400x1050)](https://www.icr.org/article/land-plants-algal-relatives)
-
-[Do Land Plants Have Algal Relatives?](https://www.icr.org/article/land-plants-algal-relatives/)
-
-Evolutionists recently reported observations about a plant group called the Zygnematophyceae (a class of green algae). They claimed to know more about...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
