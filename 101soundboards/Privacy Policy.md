@@ -502,7 +502,7 @@ If you have any questions about this Privacy Policy, please contact us:
   
   
 
-[Search](https://www.101soundboards.com/search) [Your Favorites Soundboard](https://www.101soundboards.com/favorites/me) [TTS](https://www.101soundboards.com/tts/me "Text to Speech")[](https://www.101soundboards.com/terminal "AI Sound FX Generator CLI Terminal")
+[Search](https://www.101soundboards.com/search) [Favorites](https://www.101soundboards.com/favorites/me) [TTS](https://www.101soundboards.com/tts/me "Text to Speech")[](https://www.101soundboards.com/terminal "AI Sound FX Generator CLI Terminal")
 
 Dark Mode Light Mode
 
