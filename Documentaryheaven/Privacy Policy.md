@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Australia’s Deadliest: Shark Coast](/wp-content/thumbnails/9869-100x70.jpg?x53432)
+* [![The Doctor, the Depleted Uranium, and the Dying Children](/wp-content/thumbnails/2642-100x70.jpg?x53432)
     
-    Australia’s Deadliest: Shark Coast
+    The Doctor, the Depleted Uranium, and the Dying Children
     
-    Western Austrailia's stunning coastline has recently been ravaged by a deadly predator, the community it appears in under siege, with beaches being closed left, right and centre, tourism as well has t](https://documentaryheaven.com/australias-deadliest-shark-coast/ "Australia’s Deadliest: Shark Coast")
-* [![Expelled: No Intelligence Allowed](/wp-content/thumbnails/2444-100x70.jpg?x53432)
+    An award winning documentary film produced for German television by Freider Wagner and Valentin Thurn. The film exposes the use and impact of radioactive weapons during the current war against Iraq.](https://documentaryheaven.com/the-doctor-the-depleted-uranium-and-the-dying-children/ "The Doctor, the Depleted Uranium, and the Dying Children")
+* [![No Laughing Matter: Inside the Bill Cosby Allegations](/wp-content/thumbnails/10545-100x70.jpg?x53432)
     
-    Expelled: No Intelligence Allowed
+    No Laughing Matter: Inside the Bill Cosby Allegations
     
-    Ben Stein shows us a world where Academia’s freedom of inquiry might not be so free. This should be a concern for anyone and everyone. This undermines the concept that we will be teaching facts and tr](https://documentaryheaven.com/expelled-no-intelligence-allowed/ "Expelled: No Intelligence Allowed")
-* [![Inside the KGB: Terror of the Soviet Union](/wp-content/thumbnails/8194-100x70.jpg?x53432)
+    In the fall 2014, Bill Cosby was re-staking his claim as an A-list celebrity at the age of 77, he was staring right into the eyes of a career rejuvenation and 30 years after his NBC blockbuster series](https://documentaryheaven.com/no-laughing-matter/ "No Laughing Matter: Inside the Bill Cosby Allegations")
+* [![City of Dogs](/wp-content/thumbnails/8924-100x70.jpg?x53432)
     
-    Inside the KGB: Terror of the Soviet Union
+    City of Dogs
     
-    The Committee for State Security, more commonly known by its transliteration "KGB" was the main security agency for the Soviet Union from 1954 until its collapse in 1991. The committee was a dire](https://documentaryheaven.com/inside-kgb-terror-soviet-union/ "Inside the KGB: Terror of the Soviet Union")
-* [![Sandy Hook](/wp-content/thumbnails/6956-100x70.jpg?x53432)
+    In this first episode of Louis Theroux's LA Stories, "City of Dogs" he heads to South LA on a journey through the outer edges of  canine companionship to discover how and why hundreds o](https://documentaryheaven.com/city-of-dogs/ "City of Dogs")
+* [![The Marvellous World of Roald Dahl](/wp-content/thumbnails/12594-100x70.jpg?x53432)
     
-    Sandy Hook
+    The Marvellous World of Roald Dahl
     
-    From the Author: Mark Howitt takes an investigative look into the events and controversy surrounding the Sandy Hook elementary school shooting which happened on December 14th 2012. This documentary ex](https://documentaryheaven.com/sandy-hook/ "Sandy Hook")
-* [![A Man Who Delivers](/wp-content/thumbnails/7616-100x70.jpg?x53432)
+    Roald Dahl is probably best known for having written a vast collection of award winning children's novels / short stories, most notably The BFG, Matilda, Charlie and the Chocolate Facto](https://documentaryheaven.com/marvellous-world-of-roald-dahl/ "The Marvellous World of Roald Dahl")
+* [![One Night in Vegas](/wp-content/thumbnails/9846-100x70.jpg?x53432)
     
-    A Man Who Delivers
+    One Night in Vegas
     
-    An innovative film about the daily grind for a drug dealer. Following a day in the life of a London cocaine dealer, the challenge was to build a narrative without the contributor wanting to appear on](https://documentaryheaven.com/man-who-delivers/ "A Man Who Delivers")
+    On September 7th of 1996, the WBC heavyweight champion, Mike Tyson, set about stripping Bruce Seldon of his WBA title at the MGM Grand in Las Vegas. Tyson at this point was a true cultural phenom](https://documentaryheaven.com/one-night-in-vegas/ "One Night in Vegas")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
