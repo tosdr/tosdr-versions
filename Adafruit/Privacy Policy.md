@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ There are a few people out there who really enjoy hacking things...”
+“ Do not train a child to learn by force or harshness; but direct them to it by what amuses their minds, so that you may be better able to discover with accuracy the peculiar bent of the genius of each”
 
-[Helen Greiner](http://www.nytimes.com/2006/03/08/technology/08iht-ptbot09.html?_r=0)
+[Plato](http://en.wikipedia.org/wiki/Plato)
 
 [](https://www.adafruit.com/about)
 
