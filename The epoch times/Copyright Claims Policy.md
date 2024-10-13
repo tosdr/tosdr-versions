@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [A Guide to Home Preparedness](https://www.theepochtimes.com/article/a-guide-to-home-preparedness-5740113)
+* [Floridians Continue Recovery, Damage Assessment After Milton](https://www.theepochtimes.com/us/floridians-continue-recovery-damage-assessment-after-milton-5740337)
     
-    NEW By [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
+    4hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
-    [![A Guide to Home Preparedness](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Floridians Continue Recovery, Damage Assessment After Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![A Guide to Home Preparedness](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740427-Prep-Guide-Lead-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/a-guide-to-home-preparedness-5740113)
+    ![Floridians Continue Recovery, Damage Assessment After Milton](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740428-siestakeybeach-205x123.png.webp)](https://www.theepochtimes.com/us/floridians-continue-recovery-damage-assessment-after-milton-5740337)
+* [Home Prep Guide: What You Need to Last 2 Weeks in an Emergency](https://www.theepochtimes.com/article/a-guide-to-home-preparedness-5740113)
+    
+    6hr By [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
+    
+    [![Home Prep Guide: What You Need to Last 2 Weeks in an Emergency](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Home Prep Guide: What You Need to Last 2 Weeks in an Emergency](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740427-Prep-Guide-Lead-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/a-guide-to-home-preparedness-5740113)
 * [Day in Photos: Railway Collision, Record-Large Lesson, and World Twins Day](https://www.theepochtimes.com/article/day-in-photos-railway-collision-record-large-lesson-and-world-twins-day-5740401)
     
-    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Railway Collision, Record-Large Lesson, and World Twins Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Railway Collision, Record-Large Lesson, and World Twins Day](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740452-Lead-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-railway-collision-record-large-lesson-and-world-twins-day-5740401)
 * [Michigan Republicans Win Election Integrity Lawsuit Over Number of Poll Workers](https://www.theepochtimes.com/us/michigan-republicans-win-election-integrity-lawsuit-over-number-of-poll-workers-5740371)
     
-    1hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    7hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
     [![Michigan Republicans Win Election Integrity Lawsuit Over Number of Poll Workers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Michigan Republicans Win Election Integrity Lawsuit Over Number of Poll Workers](https://img.theepochtimes.com/assets/uploads/2020/11/11/Detroit-205x123.jpg.webp)](https://www.theepochtimes.com/us/michigan-republicans-win-election-integrity-lawsuit-over-number-of-poll-workers-5740371)
 * [Federal Appeals Court Upholds Ruling Against Alabama’s Mail-In Ballot Assistance Restrictions](https://www.theepochtimes.com/us/federal-appeals-court-upholds-ruling-against-alabamas-mail-in-ballot-assistance-restrictions-5740376)
     
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Federal Appeals Court Upholds Ruling Against Alabama’s Mail-In Ballot Assistance Restrictions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Federal Appeals Court Upholds Ruling Against Alabama’s Mail-In Ballot Assistance Restrictions](https://img.theepochtimes.com/assets/uploads/2024/03/20/id5611384-GettyImages-2054042827-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-appeals-court-upholds-ruling-against-alabamas-mail-in-ballot-assistance-restrictions-5740376)
 * [Joining NATO Is Stumbling Block in Ukraine’s ‘Victory Plan’](https://www.theepochtimes.com/world/joining-nato-is-stumbling-block-in-ukraines-victory-plan-5739859)
     
-    3hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    9hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
     
     [![Joining NATO Is Stumbling Block in Ukraine’s ‘Victory Plan’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Joining NATO Is Stumbling Block in Ukraine’s ‘Victory Plan’](https://img.theepochtimes.com/assets/uploads/2024/03/10/id5604545-GettyImages-1252010756-small-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/joining-nato-is-stumbling-block-in-ukraines-victory-plan-5739859)
 * [Behind the Movement to Ban Cellphones in Schools](https://www.theepochtimes.com/article/behind-the-movement-to-ban-cellphones-in-schools-5732800)
     
-    5hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    11hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
     
     [![Behind the Movement to Ban Cellphones in Schools](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Behind the Movement to Ban Cellphones in Schools](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739411-lead8-205x123.gif)](https://www.theepochtimes.com/article/behind-the-movement-to-ban-cellphones-in-schools-5732800)
 * [DOJ Sues Virginia for Purging Voter Rolls Close to Election](https://www.theepochtimes.com/us/doj-sues-virginia-for-purging-voter-rolls-close-to-election-5740307)
     
-    7hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    13hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
     [![DOJ Sues Virginia for Purging Voter Rolls Close to Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![DOJ Sues Virginia for Purging Voter Rolls Close to Election](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727693-GettyImages-2172380707-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-sues-virginia-for-purging-voter-rolls-close-to-election-5740307)
 * [Pony Round-Up in Virginia Captures Hearts of Horse Lovers for 100 Years](https://www.theepochtimes.com/article/pony-round-up-in-virginia-captures-hearts-of-horse-lovers-for-100-years-5729055)
     
-    7hr By [Natasha Holt](https://www.theepochtimes.com/author/natasha-holt) and [Nanette Holt](https://www.theepochtimes.com/author/nanette-holt)
+    13hr By [Natasha Holt](https://www.theepochtimes.com/author/natasha-holt) and [Nanette Holt](https://www.theepochtimes.com/author/nanette-holt)
     
     [![Pony Round-Up in Virginia Captures Hearts of Horse Lovers for 100 Years](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Pony Round-Up in Virginia Captures Hearts of Horse Lovers for 100 Years](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740374-lead-out-205x123.jpg.webp)](https://www.theepochtimes.com/article/pony-round-up-in-virginia-captures-hearts-of-horse-lovers-for-100-years-5729055)
 * [More Than 400 North American 7-Eleven Stores to Close](https://www.theepochtimes.com/business/more-than-400-north-american-7-eleven-stores-to-close-5740319)
     
-    8hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    13hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![More Than 400 North American 7-Eleven Stores to Close](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![More Than 400 North American 7-Eleven Stores to Close](https://img.theepochtimes.com/assets/uploads/2024/08/19/id5708310-7-Eleven-store-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/more-than-400-north-american-7-eleven-stores-to-close-5740319)
-* [Your Mattress May Be the Cause of Unexplained Symptoms—Here’s Why](https://www.theepochtimes.com/health/your-old-mattress-may-be-the-cause-of-nagging-symptoms-heres-how-5726280)
-    
-    9hr By [Flora Zhao](https://www.theepochtimes.com/author/flora-zhao)
-    
-    [![Your Mattress May Be the Cause of Unexplained Symptoms—Here’s Why](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Your Mattress May Be the Cause of Unexplained Symptoms—Here’s Why](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738660-Mattress-featured-image-205x123.gif)](https://www.theepochtimes.com/health/your-old-mattress-may-be-the-cause-of-nagging-symptoms-heres-how-5726280)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
