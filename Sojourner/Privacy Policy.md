@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-70ac8ce8595d0913751a8482a341e179
+2be587fdab00961800e837c1061ae704
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm round aquamarine beads](https://www.sojourner.biz/images/cache/aquamarine/AQM007.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/aquamarine/10-mm-round-aquamarine-beads.html "10 mm round aquamarine beads")
+[![6 mm oval grey-green pearls](https://www.sojourner.biz/images/cache/pearls/PE0100.200.jpg)](https://www.sojourner.biz/beads/pearls/6-mm-oval-grey-green-pearls.html "6 mm oval grey-green pearls")
 
-#### [10 mm round aquamarine beads](https://www.sojourner.biz/beads/stone-a-l/aquamarine/10-mm-round-aquamarine-beads.html "10 mm round aquamarine beads")
+#### [6 mm oval grey-green pearls](https://www.sojourner.biz/beads/pearls/6-mm-oval-grey-green-pearls.html "6 mm oval grey-green pearls")
 
-$50.00
+$21.00
 
 ### Best Sellers
 
