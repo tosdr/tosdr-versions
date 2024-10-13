@@ -69,4 +69,4 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 Contact Us
 ----------
 
-If you have any questions about this privacy policy, please contact us at the email address [https://support.diasp.org/help/1941630404](https://support.diasp.org/help/1941630404).
+If you have any questions about this privacy policy, please contact us at the email address [https://support.diasp.org/help/2508486070](https://support.diasp.org/help/2508486070).
