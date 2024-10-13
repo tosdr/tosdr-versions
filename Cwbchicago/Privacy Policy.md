@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/JONNE-MONTESS-ALEXANDER-and-Oscar-Garcia-Adrain-326x245.jpg)](https://cwbchicago.com/2024/10/2-migrants-arrested-10-times-this-year-burglarized-lakefront-restaurant-prosecutors-say.html "2 migrants, arrested 10 times this year, burglarized lakefront restaurant, prosecutors say")
+
+Gold Coast
+
+### [2 migrants, arrested 10 times this year, burglarized lakefront restaurant, prosecutors say](https://cwbchicago.com/2024/10/2-migrants-arrested-10-times-this-year-burglarized-lakefront-restaurant-prosecutors-say.html "2 migrants, arrested 10 times this year, burglarized lakefront restaurant, prosecutors say")
+
+[October 9, 2024 7:35 AM](https://cwbchicago.com/2024/10)
+
+Two migrants from Venezuela, arrested a total of ten times this year, are now accused of burglarizing a restaurant storage shed at Oak Street Beach.[](https://cwbchicago.com/2024/10/2-migrants-arrested-10-times-this-year-burglarized-lakefront-restaurant-prosecutors-say.html "2 migrants, arrested 10 times this year, burglarized lakefront restaurant, prosecutors say")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/GERONIMO-ESPINOSO-326x245.jpg)](https://cwbchicago.com/2024/10/9-time-felon-armed-with-broken-bottle-robbed-threatened-to-kill-woman-on-blue-line-officials-say.html "9-time felon armed with broken bottle robbed, threatened to kill woman on Blue Line, officials say")
+
+CTA
+
+### [9-time felon armed with broken bottle robbed, threatened to kill woman on Blue Line, officials say](https://cwbchicago.com/2024/10/9-time-felon-armed-with-broken-bottle-robbed-threatened-to-kill-woman-on-blue-line-officials-say.html "9-time felon armed with broken bottle robbed, threatened to kill woman on Blue Line, officials say")
+
+[October 9, 2024 6:39 AM](https://cwbchicago.com/2024/10)
+
+A Cicero man has been jailed as a safety risk after prosecutors accused him of robbing and threatening to kill a woman with a broken bottle aboard a Blue Line train.[](https://cwbchicago.com/2024/10/9-time-felon-armed-with-broken-bottle-robbed-threatened-to-kill-woman-on-blue-line-officials-say.html "9-time felon armed with broken bottle robbed, threatened to kill woman on Blue Line, officials say")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Recruits-August-2024-326x245.jpg)](https://cwbchicago.com/2024/10/mayor-axes-2-police-academy-classes-faces-legal-fight-over-shotspotter-contract.html "Mayor axes 2 police academy classes, faces legal fight over ShotSpotter contract: reports")
 
 Citywide
@@ -252,26 +272,6 @@ Citywide
 [October 9, 2024 6:03 AM](https://cwbchicago.com/2024/10)
 
 Mayor Brandon Johnson has canceled two police academy classes to save money and he’s heading toward a legal fight with the city council over ShotSpotter.[](https://cwbchicago.com/2024/10/mayor-axes-2-police-academy-classes-faces-legal-fight-over-shotspotter-contract.html "Mayor axes 2 police academy classes, faces legal fight over ShotSpotter contract: reports")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/october-9-chicago-map-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-during-a-string-of-overnight-robberies-carjacking.html "Man shot during a string of overnight robberies, carjacking")
-
-Goose Island
-
-### [Man shot during a string of overnight robberies, carjacking](https://cwbchicago.com/2024/10/man-shot-during-a-string-of-overnight-robberies-carjacking.html "Man shot during a string of overnight robberies, carjacking")
-
-[October 9, 2024 5:33 AM](https://cwbchicago.com/2024/10)
-
-Chicago police are investigating a robbery and carjacking surge reported overnight, including one case that ended with the victim being shot.[](https://cwbchicago.com/2024/10/man-shot-during-a-string-of-overnight-robberies-carjacking.html "Man shot during a string of overnight robberies, carjacking")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Mehdi-Medellel-326x245.jpg)](https://cwbchicago.com/2024/10/worker-charged-with-murdering-two-men-inside-fast-food-restaurant-chicago-police-say.html "Worker charged with murdering two men inside fast food restaurant, Chicago police say")
-
-Ashburn
-
-### [Worker charged with murdering two men inside fast food restaurant, Chicago police say](https://cwbchicago.com/2024/10/worker-charged-with-murdering-two-men-inside-fast-food-restaurant-chicago-police-say.html "Worker charged with murdering two men inside fast food restaurant, Chicago police say")
-
-[October 8, 2024 7:11 PM](https://cwbchicago.com/2024/10)
-
-Surveillance video provided to CWBChicago appears to show that neither victim was threatening the shooter at the moment when they were killed.[](https://cwbchicago.com/2024/10/worker-charged-with-murdering-two-men-inside-fast-food-restaurant-chicago-police-say.html "Worker charged with murdering two men inside fast food restaurant, Chicago police say")
 
 Search
 
