@@ -248,7 +248,3 @@ Ensure that you never miss out on our promotions and special feature releases
 Available On
 
  [![chrome icon](https://blocksite.co/wp-content/uploads/2023/12/chrome-24-single-color.svg)](https://chromewebstore.google.com/detail/blocksite-block-websites/eiimnmioipafcokbfikbljfdeojpcgbh)[![firefox icon](https://blocksite.co/wp-content/uploads/2023/12/firefox-24-single-color.svg)](https://addons.mozilla.org/en-US/firefox/addon/blocksite/)[![edge icon](https://blocksite.co/wp-content/uploads/2023/12/edge-24-single-color.svg)](https://microsoftedge.microsoft.com/addons/detail/blocksite-block-websites/lbnblmjlpifpfpefbcgefbhnlcnnjgjk)[![play icon](https://blocksite.co/wp-content/uploads/2023/12/google-play-24-single-color.svg)](https://play.google.com/store/apps/details?id=co.blocksite)[![appstore icon](https://blocksite.co/wp-content/uploads/2023/12/app-store-24-single-color.svg)](https://apps.apple.com/us/app/blocksite/id1474967653)[![windows icon](https://blocksite.co/wp-content/uploads/2023/12/windows-24-single-color.svg)](https://user.blocksite.co/desktop-lp)
-
- [![](https://blocksite.co/wp-content/themes/blocksite/assets/images/glitter-star-magic.svg) New FEATURE](https://user.blocksite.co/suggestions-lp?utm_source=Terms%20of%20Use) **Every Second Counts** Discover Your Digital Timewasters. [Learn More ![](https://blocksite.co/wp-content/themes/blocksite/assets/images/arrow-right.svg)](https://user.blocksite.co/suggestions-lp?utm_source=Terms%20of%20Use) 
-
-![Close](https://blocksite.co/wp-content/themes/blocksite/assets/images/close-icon-dark.svg)
