@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Stevie Nicks returns to 'SNL' after 40 years](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2177118053-scaled.jpg?ve=1&tl=1)
+
+ ![Stevie Nicks returns to 'SNL' after 40 years](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2177118053-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/stevie-nicks-snl-the-lighthouse-single)
+
+### [Stevie Nicks returns to 'SNL' after 40 years](https://www.fox4news.com/news/stevie-nicks-snl-the-lighthouse-single)
+
+ [![Dallas Cowboys vs. Detroit Lions: How to watch, stream, things to look for in Week 6](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2176377027.jpg?ve=1&tl=1)
+
+ ![Dallas Cowboys vs. Detroit Lions: How to watch, stream, things to look for in Week 6](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2176377027.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-vs-detroit-lions-week-6)
+
+### [Dallas Cowboys vs. Detroit Lions: How to watch, stream, things to look for in Week 6](https://www.fox4news.com/sports/dallas-cowboys-vs-detroit-lions-week-6)
+
+ [![Dallas weather: Temperatures expected to climb near record high on Sunday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gzvpkvixqawgr_j.jpg?ve=1&tl=1)
+
+ ![Dallas weather: Temperatures expected to climb near record high on Sunday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gzvpkvixqawgr_j.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-sunday-record-high-oct-13-2024)
+
+### [Dallas weather: Temperatures expected to climb near record high on Sunday](https://www.fox4news.com/weather/dallas-weather-sunday-record-high-oct-13-2024)
+
  [![Atatiana Jefferson honored by Fort Worth community 5 years after shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/atatiana-jefferson-tay-day.jpg?ve=1&tl=1)
 
  ![Atatiana Jefferson honored by Fort Worth community 5 years after shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/atatiana-jefferson-tay-day.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/atatiana-jefferson-tay-day-parade-2024)
 
 ### [Atatiana Jefferson honored by Fort Worth community 5 years after shooting](https://www.fox4news.com/news/atatiana-jefferson-tay-day-parade-2024)
 
- [![Ewers returns as No. 1 Texas beats No. 18 Oklahoma 34-3 in 1st Red River Rivalry game as SEC members](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2178138834.jpg?ve=1&tl=1)
+ [![Shooting near Tennessee State University during homecoming kills 1, injures 9](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/tsushooting.jpg?ve=1&tl=1)
 
- ![Ewers returns as No. 1 Texas beats No. 18 Oklahoma 34-3 in 1st Red River Rivalry game as SEC members](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178138834.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/ewers-returns-no-1-texas-beats-no-18-oklahoma-34-3-1st-red-river-rivalry-game-sec-members)
+ ![Shooting near Tennessee State University during homecoming kills 1, injures 9](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/tsushooting.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tennessee-state-university-shooting-homecoming)
 
-### [Ewers returns as No. 1 Texas beats No. 18 Oklahoma 34-3 in 1st Red River Rivalry game as SEC members](https://www.fox4news.com/sports/ewers-returns-no-1-texas-beats-no-18-oklahoma-34-3-1st-red-river-rivalry-game-sec-members)
-
- [![Two homes in Frisco neighborhood catch fire in less than 24 hours](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-frisco-lago-vista-fire-9p_00.00.00.00.jpg?ve=1&tl=1)
-
- ![Two homes in Frisco neighborhood catch fire in less than 24 hours](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-frisco-lago-vista-fire-9p_00.00.00.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/frisco-fires-starwood-neighborhood)
-
-### [Two homes in Frisco neighborhood catch fire in less than 24 hours](https://www.fox4news.com/news/frisco-fires-starwood-neighborhood)
-
- [![Food item in Virginia woman's freezer was 84 years old, stuns family: 'Quite perplexing'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/fnc-cookie-freezer3.jpg?ve=1&tl=1)
-
- ![Food item in Virginia woman's freezer was 84 years old, stuns family: 'Quite perplexing'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/fnc-cookie-freezer3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/food-item-virginia-womans-freezer-was-84-years-old-stuns-family-quite-perplexing)
-
-### [Family finds ‘perplexing’ 84-year-old item in dead grandmother's freezer](https://www.fox4news.com/news/food-item-virginia-womans-freezer-was-84-years-old-stuns-family-quite-perplexing)
-
- [![Arkansas father kills man found with missing 14-year-old daughter: police](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1506271370-scaled.jpg?ve=1&tl=1)
-
- ![Arkansas father kills man found with missing 14-year-old daughter: police](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1506271370-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/aaron-spencer-arkansas-father-kills-man-found-missing-14-year-old-daughter)
-
-### [Arkansas father kills man found with missing 14-year-old daughter: police](https://www.fox4news.com/news/aaron-spencer-arkansas-father-kills-man-found-missing-14-year-old-daughter)
+### [Shooting near Tennessee State University during homecoming kills 1, injures 9](https://www.fox4news.com/news/tennessee-state-university-shooting-homecoming)
 
 ###### [News](https://www.fox4news.com/news)
 
