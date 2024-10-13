@@ -2,13 +2,13 @@
 
 Webinar |
 
-  ![Arrow Down](https://www.levelaccess.com/wp-content/themes/newptheme/assets/img/alert_arrow_down.svg) ![Arrow Up](https://www.levelaccess.com/wp-content/themes/newptheme/assets/img/alert_arrow_up.svg) Toggle alert
+  ![Arrow Down](data:image/svg+xml;nitro-empty-id=MTMyOjEzOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![Arrow Up](data:image/svg+xml;nitro-empty-id=MTMzOjE1Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) Toggle alert
 
 Banking on Digital Accessibility, featuring Discover, KeyBank, and Voya |
 
 [Register now](https://www.levelaccess.com/resources/webinar-banking-on-digital-accessibility/)
 
-[![Level Access logo - Go to home page](https://www.levelaccess.com/wp-content/uploads/2023/11/light.svg)](https://www.levelaccess.com/)
+[![Level Access logo - Go to home page](data:image/svg+xml;nitro-empty-id=MTU3OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.levelaccess.com/)
 
 Main menu
 
@@ -295,7 +295,7 @@ Arlington, VA 22201, USA
 
 We thank you for your interest in our privacy program. Your feedback helps us realize our commitment to provide and improve a transparent and robust privacy program for all people with whom we interact.
 
-![Level Access logo](https://www.levelaccess.com/wp-content/uploads/2023/11/light.svg)
+![Level Access logo](data:image/svg+xml;nitro-empty-id=NzA5OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 1310 N Courthouse Road  
 Suite 860  
@@ -305,11 +305,11 @@ Arlington, VA 22201
 
 Follow us
 
-[![X previously Twitter logo](https://www.levelaccess.com/wp-content/uploads/2023/10/Frame-740.svg)](https://twitter.com/levelaccessa11y)
+[![X previously Twitter logo](data:image/svg+xml;nitro-empty-id=NzI3OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://twitter.com/levelaccessa11y)
 
-[![YouTube icon](https://www.levelaccess.com/wp-content/uploads/2023/10/youtube.svg)](https://www.youtube.com/@LevelAccessA11y)
+[![YouTube icon](data:image/svg+xml;nitro-empty-id=NzM2OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.youtube.com/@LevelAccessA11y)
 
-[![LinkedIn logo](https://www.levelaccess.com/wp-content/uploads/2023/10/linkedin.svg)](https://www.linkedin.com/company/level-access/)
+[![LinkedIn logo](data:image/svg+xml;nitro-empty-id=NzQ1OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/level-access/)
 
 Solutions
 
