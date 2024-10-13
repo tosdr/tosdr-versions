@@ -6,7 +6,7 @@
 [Draw Freely.](https://inkscape.org/en/)
 ----------------------------------------
 
-* [Help us test Inkscape 1.4 beta!](https://inkscape.org/release/inkscape-1.4/?latest=1)
+* [❤️ Help us make Inkscape awesome! ❤️](https://inkscape.org/support-us/donate/)
     
 * English
     
@@ -57,8 +57,7 @@
     * [Licensing](https://inkscape.org/about/license/)
     * [Branding](https://inkscape.org/about/branding/)
 * Download
-    * [Current Stable Version 1.3.2](https://inkscape.org/release/)
-    * [Next Version Preview 1.4beta](https://inkscape.org/release/inkscape-1.4/?latest=1)
+    * [Current Stable Version 1.4](https://inkscape.org/release/)
     * [Unstable development snapshot](https://inkscape.org/release/inkscape-master/?latest=1)
     * [Extensions](https://inkscape.org/gallery/=extension/)
 * [News](https://inkscape.org/news/)
