@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/marica-radojcic-presic/five-eggs/bendzamin.?itok=-idMZjOP)](http://seecult.org/galerija/galerija-umetnika/marica-radojcic-presic/five-eggs)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/manik/manik-full-size-image/ne-veut-pas-l-egalite-we.jpg?itok=cuOLwtqh)](http://seecult.org/galerija/galerija-umetnika/manik/manik-full-size-image)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/bilijar-vs-dob-14807/dob1.jpg?itok=LV6hIn0I)](http://seecult.org/galerija/foto-galerija/foto-arhiva/bilijar-vs-dob-14807)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/change.jpg?itok=CewOtR74)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
