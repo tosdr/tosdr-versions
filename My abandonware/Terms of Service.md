@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Star Wars Trilogy Arcade](https://www.myabandonware.com/game/star-wars-trilogy-arcade-ssx)
-* [Triple Hunt](https://www.myabandonware.com/game/triple-hunt-ssw)
-* [Up Your Alley](https://www.myabandonware.com/game/up-your-alley-ssv)
-* [Arcana Heart](https://www.myabandonware.com/game/arcana-heart-ssm)
-* [Arcana Heart](https://www.myabandonware.com/game/arcana-heart-ssl)
+* [Amidar](https://www.myabandonware.com/game/amidar-hcj)
+* [Robix](https://www.myabandonware.com/game/robix-sta)
+* [Reptalia](https://www.myabandonware.com/game/reptalia-st9)
+* [Skins Game](https://www.myabandonware.com/game/skins-game-st4)
+* [Star Raker](https://www.myabandonware.com/game/star-raker-st3)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
