@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/891d466c-d6d6-4b6d-b212-3604db3c7291/20241012T013728/891d466c-d6d6-4b6d-b212-3604db3c7291_16x9.jpg) ![](https://media.king5.com/assets/KING/images/891d466c-d6d6-4b6d-b212-3604db3c7291/20241012T013728/891d466c-d6d6-4b6d-b212-3604db3c7291_360x203.jpg)](https://www.king5.com/article/news/politics/elections/candidates-pierce-county-sheriff-discuss-issues/281-fecff313-7fb7-4485-9915-4f68e584f67c)
+    *  [![](https://media.king5.com/assets/KING/images/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab/20240908T170729/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab/20240908T170729/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-huelga-de-boeing-las-elecciones-y-artista-vctor-melendez-diseo-una-camiseta-de-seattle-kraken/281-f65b01d8-69d7-429a-9412-6e37623a09b3)
         
-        #### [Candidates for Pierce County sheriff sit down with KING 5](https://www.king5.com/article/news/politics/elections/candidates-pierce-county-sheriff-discuss-issues/281-fecff313-7fb7-4485-9915-4f68e584f67c)
+        #### [Cinco Cosas: La huelga de Boeing, las elecciones, y artista Víctor Melendez diseño una camiseta de Seattle Kraken](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-huelga-de-boeing-las-elecciones-y-artista-vctor-melendez-diseo-una-camiseta-de-seattle-kraken/281-f65b01d8-69d7-429a-9412-6e37623a09b3)
         
-    *  [![](https://media.king5.com/assets/KING/images/8516a927-e268-47d3-877d-e8b166a7b221/20241013T032331/8516a927-e268-47d3-877d-e8b166a7b221_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8516a927-e268-47d3-877d-e8b166a7b221/20241013T032331/8516a927-e268-47d3-877d-e8b166a7b221_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/all-i-90-lanes-closed-mercer-island-due-to-police-activity/281-d77104a3-cb48-45ae-b410-ab654820537f)
+    *  [![](https://media.king5.com/assets/KING/images/fc4b9df3-fd38-4d39-9605-aa5a0aaae6d8/20241013T151655/fc4b9df3-fd38-4d39-9605-aa5a0aaae6d8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fc4b9df3-fd38-4d39-9605-aa5a0aaae6d8/20241013T151655/fc4b9df3-fd38-4d39-9605-aa5a0aaae6d8_360x203.jpg)](https://www.king5.com/article/news/local/public-safety/king-county-sexual-assault-resource-center-continues-lifesaving-bilingual-survivor-support/281-0fc41fc2-7d6b-43d7-820d-80641efd0953)
         
-        #### [Apparent bomb scare during police chase shuts down I-90 for hours](https://www.king5.com/article/traffic/traffic-news/all-i-90-lanes-closed-mercer-island-due-to-police-activity/281-d77104a3-cb48-45ae-b410-ab654820537f)
+        #### [King County Sexual Assault Resource Center continues 'lifesaving' bilingual survivor support](https://www.king5.com/article/news/local/public-safety/king-county-sexual-assault-resource-center-continues-lifesaving-bilingual-survivor-support/281-0fc41fc2-7d6b-43d7-820d-80641efd0953)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/05cd8a35-b54b-4153-985a-4f71f8a94188/20241013T052013/05cd8a35-b54b-4153-985a-4f71f8a94188_16x9.jpg) ![](https://media.king5.com/assets/KING/images/05cd8a35-b54b-4153-985a-4f71f8a94188/20241013T052013/05cd8a35-b54b-4153-985a-4f71f8a94188_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/e67039ac-e9c4-49d1-8263-579bd3d5e466/20241013T151532/e67039ac-e9c4-49d1-8263-579bd3d5e466_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e67039ac-e9c4-49d1-8263-579bd3d5e466/20241013T151532/e67039ac-e9c4-49d1-8263-579bd3d5e466_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-53°
+69°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
