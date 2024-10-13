@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/terugkeer-van-bewezen-waarden-in-de-landbouw/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/indringende-briefeis-aan-minister-ab-klink/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
