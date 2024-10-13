@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [No self-respecting democracy deserves Dutton](https://independentaustralia.net/article-display/no-self-respecting-democracy-deserves-dutton,19060 "Permanent Link : No self-respecting democracy deserves Dutton")
+* [POEM: The light in my left eye went away](https://independentaustralia.net/article-display/poem-the-light-in-my-left-eye-went-away,19066 "Permanent Link : POEM: The light in my left eye went away")
 * [Rigger in the sky: Now that's a "high flyer"!](https://independentaustralia.net/article-display/rigger-in-the-sky-now-thats-a-high-flyer,18948 "Permanent Link : Rigger in the sky: Now that's a "high flyer"!")
 * [Old tricks and new culture wars in the Queensland State Election](https://independentaustralia.net/article-display/old-tricks-and-new-culture-wars-in-the-queensland-state-election,19065 "Permanent Link : Old tricks and new culture wars in the Queensland State Election")
 * [Dominique Grubisa's own AI bot calls her out on lies](https://independentaustralia.net/article-display/dominique-grubisas-own-ai-bot-calls-her-out-on-lies,19064 "Permanent Link : Dominique Grubisa's own AI bot calls her out on lies")
 * [Housing wars: Strata owners vs owners corporations](https://independentaustralia.net/article-display/housing-wars-strata-owners-vs-owners-corporations,19063 "Permanent Link : Housing wars: Strata owners vs owners corporations")
 * [CARTOONS: Hurricane Milton challenges climate change denial](https://independentaustralia.net/article-display/cartoons-hurricane-milton-challenges-climate-change-denial,19046 "Permanent Link : CARTOONS: Hurricane Milton challenges climate change denial")
-* [Skilled temporary entrant stocks rising with no place to go](https://independentaustralia.net/article-display/skilled-temporary-entrant-stocks-rising-with-no-place-to-go,19062 "Permanent Link : Skilled temporary entrant stocks rising with no place to go")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
