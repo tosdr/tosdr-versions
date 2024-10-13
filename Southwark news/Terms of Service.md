@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![(LCCM)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Copy-of-LCM-MK-Scholarship-20231019-20-1-6000-x-4000-360x180.jpg)](https://southwarknews.co.uk/news/community/london-jazz-festival-will-be-hosted-at-music-college-in-southwark/)
+    
+    ### [London Jazz Festival will be hosted at music college in Southwark](https://southwarknews.co.uk/news/community/london-jazz-festival-will-be-hosted-at-music-college-in-southwark/)
+    
     [![Following by Kim Se-hwi (credit: London Korean Film Festival)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-16.19-e1728660050624-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/korean-film-festival-is-coming-to-the-south-bank-next-month/)
     
     ### [Korean film festival is coming to the South Bank next month](https://southwarknews.co.uk/area/south-bank/korean-film-festival-is-coming-to-the-south-bank-next-month/)
@@ -50,10 +54,6 @@
     [![Computer-generated image of the Canada Water Masterplan](https://southwarknews.co.uk/wp-content/uploads/2024/10/Canada-Water-Masterplan-Dock-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/comment-private-security-cannot-replace-proper-policing-at-canada-water/)
     
     ### [Comment: Private security cannot replace proper policing at Canada Water](https://southwarknews.co.uk/area/rotherhithe/comment-private-security-cannot-replace-proper-policing-at-canada-water/)
-    
-    [![The Blue Market. Credit: The Blue BID](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-11-15-20-12-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
-    
-    ### [‘Greening the Blue’: Eco event series coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![(LCCM)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Copy-of-LCM-MK-Scholarship-20231019-20-1-6000-x-4000-360x180.jpg)](https://southwarknews.co.uk/news/community/london-jazz-festival-will-be-hosted-at-music-college-in-southwark/)
+    
+    ### [London Jazz Festival will be hosted at music college in Southwark](https://southwarknews.co.uk/news/community/london-jazz-festival-will-be-hosted-at-music-college-in-southwark/)
+    
     [![Following by Kim Se-hwi (credit: London Korean Film Festival)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-16.19-e1728660050624-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/korean-film-festival-is-coming-to-the-south-bank-next-month/)
     
     ### [Korean film festival is coming to the South Bank next month](https://southwarknews.co.uk/area/south-bank/korean-film-festival-is-coming-to-the-south-bank-next-month/)
@@ -130,10 +134,6 @@ View All Result
     [![Computer-generated image of the Canada Water Masterplan](https://southwarknews.co.uk/wp-content/uploads/2024/10/Canada-Water-Masterplan-Dock-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/comment-private-security-cannot-replace-proper-policing-at-canada-water/)
     
     ### [Comment: Private security cannot replace proper policing at Canada Water](https://southwarknews.co.uk/area/rotherhithe/comment-private-security-cannot-replace-proper-policing-at-canada-water/)
-    
-    [![The Blue Market. Credit: The Blue BID](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-11-15-20-12-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
-    
-    ### [‘Greening the Blue’: Eco event series coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
