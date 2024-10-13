@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/nog-een-naam-van-een-mh-17-dader/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/nog-20-artsen-achter-v-d-linden-vs-rivm/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
