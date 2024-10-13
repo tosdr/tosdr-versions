@@ -205,25 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Hangover Part II; Kung Fu Panda 2; MILF](https://www.somethingawful.com/current-movie-reviews/hangover-part-ii/1/)
-* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [Hello, Welcome to ICQ](https://www.somethingawful.com/icq-pranks/icq-transcript-hello/1/)
-* [Randy Pitchford's Medieval Times USB Drive](https://www.somethingawful.com/news/pitchford-usb-medieval/)
-* [The UFO People](https://www.somethingawful.com/icq-pranks/icq-transcript-ufo/1/)
+* [Call of Cthulhu "1990's Handbook" - The Invisible Pattern (Part 1)](https://www.somethingawful.com/dungeons-and-dragons/call-of-cobain/1/)
+* [The Ridiculous Artwork of the Street Fighter: Player's Guide](https://www.somethingawful.com/dungeons-and-dragons/capcom-street-fighter/1/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [SkyMall Catalogue Jamboree](https://www.somethingawful.com/comedy-goldmine/skymall-catalogue-jamboree/1/)
+* [Historical Inaccuracies (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/historical-inaccuracies-part/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [Frank talk about urine](http://forums.somethingawful.com/showthread.php?threadid=4072519 "Frank talk about urine")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [What got you interested in SA?](http://forums.somethingawful.com/showthread.php?threadid=4072564 "What got you interested in SA?")
 * ![](https://fi.somethingawful.com/forums/posticons/lan-midwest.gif) [My girlfriend made me add her 11 year old son as a friend on PlayStation](http://forums.somethingawful.com/showthread.php?threadid=4072561 "My girlfriend made me add her 11 year old son as a friend on PlayStation")
 
 ### Random Articles
 
-* [FCoS: Corpus Mufasa Chapel](https://www.somethingawful.com/awful-links/awful-link-1511/)
-* [The National Missile Defense Defense System](https://www.somethingawful.com/news/national-missile-defense/)
-* [Hornet's Haunted Nest](https://www.somethingawful.com/awful-links/awful-link-559/)
-* [Rocket Raven (Thanks, Cinnamon Bastard!)](https://www.somethingawful.com/awful-links/rocket-raven-design/)
-* [Journey to the Center of my Bum](https://www.somethingawful.com/news/journey-center-my/)
+* [Under construction since 1868!](https://www.somethingawful.com/awfulvision/cleveland-horrorpunk-redneck/1/)
+* [Game Store Horror Stories](https://www.somethingawful.com/video-game-article/game-retail-stories/)
+* [Ansel89 Joins MURDERCHURCH](https://www.somethingawful.com/icq-pranks/ansel89-joins-murderchurch/1/)
+* [Very Sad Cats](https://www.somethingawful.com/flash-tub/sad-cats-cartoon/)
+* [The 2009 Flour and Grain Expo Commercial!](https://www.somethingawful.com/feature-articles/flour-and-grain/)
 
 [Random!](https://www.somethingawful.com/random/)
 
