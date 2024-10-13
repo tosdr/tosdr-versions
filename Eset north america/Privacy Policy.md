@@ -650,7 +650,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/about/newsroom/press-releases-list/)
+[United States (EN)](https://www.eset.com/us/landingpage-eis-v2/)
 
 * * *
 
