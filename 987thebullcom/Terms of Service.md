@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Wagon WheelDarius Rucker<br><br>5:39pm |
-| Whiskey On YouNate Smith<br><br>5:36pm |
-| AustinDasha<br><br>5:33pm |
-| I Go BackKenny Chesney<br><br>5:29pm |
-| I Am Not OkayJelly Roll<br><br>5:26pm |
+| To Be Loved By YouParker Mccollum<br><br>6:56pm |
+| Called CrazyKassi Ashton<br><br>6:52pm |
+| CowgirlsMorgan Wallen Ft Ernest<br><br>6:49pm |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>6:47pm |
+| As Good As I Once WasToby Keith<br><br>6:38pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -362,17 +362,17 @@ Featured Brands
 
 Spanish • Western
 
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Top 40 • Pacific NW
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
