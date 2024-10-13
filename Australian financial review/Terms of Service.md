@@ -318,15 +318,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3175%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_670/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/7f1758b4b35e3fe5174b29a920336a4f32dffaaa)](https://www.afr.com/life-and-luxury/health-and-wellness/kirsten-king-wants-you-to-flex-but-don-t-push-pilates-to-the-limit-20240912-p5k9xt)
+[![Denver & Liely marlo wine glass](https://static.ffx.io/images/$zoom_0.2659%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_42/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1da5a799c5535fcb89d205768f498fc836daee0a)](https://www.afr.com/life-and-luxury/design/australian-s-revolutionary-wine-glass-floors-french-experts-20241003-p5kfsd)
 
-### [Kirsten King wants you to flex; but don’t push Pilates to the limit](https://www.afr.com/life-and-luxury/health-and-wellness/kirsten-king-wants-you-to-flex-but-don-t-push-pilates-to-the-limit-20240912-p5k9xt)
+### [Australian’s revolutionary wine glass floors French experts](https://www.afr.com/life-and-luxury/design/australian-s-revolutionary-wine-glass-floors-french-experts-20241003-p5kfsd)
 
-* Lauren Sams
+* 57 mins ago
+* Paul Best
 
-* ### [Is your water bottle chic enough? Plus, limited-edition ice-cream](https://www.afr.com/life-and-luxury/fashion-and-style/is-your-water-bottle-chic-enough-plus-limited-edition-ice-cream-20240930-p5kemx)
+* ### [How one of Australia’s top chefs turned anger into change](https://www.afr.com/life-and-luxury/food-and-wine/how-one-of-australia-s-top-chefs-turned-anger-into-change-20240930-p5kej6)
     
-* ### [How to stop slouching and improve your posture](https://www.afr.com/life-and-luxury/health-and-wellness/how-to-stop-slouching-and-improve-your-posture-20240924-p5kd4h)
+* ### [Kirsten King wants you to flex; but don’t push Pilates to the limit](https://www.afr.com/life-and-luxury/health-and-wellness/kirsten-king-wants-you-to-flex-but-don-t-push-pilates-to-the-limit-20240912-p5k9xt)
     
 
 [Rich List](https://www.afr.com/rich-list)
