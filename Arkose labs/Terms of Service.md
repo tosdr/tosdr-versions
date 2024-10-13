@@ -369,4 +369,4 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
 
                                                   
 
-https://www.arkoselabs.com/explained/guide-to-cryptocurrency-security/
+https://www.arkoselabs.com/wp-login/
