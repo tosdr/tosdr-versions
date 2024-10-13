@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Israel steps up attacks in Gaza as UN peacekeepers come under fire in Lebanon](https://www.csmonitor.com/World/Middle-East/2024/1012/israel-airstrike-gaza-lebanon-un-peacekeepers-hunger-warnings "Israel steps up attacks in Gaza as UN peacekeepers come under fire in Lebanon")
+
 [### Where Hezbollah stands, and what’s at stake, after battering by Israel](https://www.csmonitor.com/World/Middle-East/2024/1011/israel-hezbollah-resilience-lebanon-war "Where Hezbollah stands, and what’s at stake, after battering by Israel")
 
 [### ‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders](https://www.csmonitor.com/World/Middle-East/2024/1010/israel-hezbollah-war-lebanon-iran "‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders")
-
-[### Will the West really back Ukraine ‘for as long as it takes’?](https://www.csmonitor.com/World/Europe/2024/1010/Ukraine-Zelenskyy-allies-weapons "Will the West really back Ukraine ‘for as long as it takes’?")
 
 * * *
 
