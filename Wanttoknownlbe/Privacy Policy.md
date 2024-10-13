@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/us-20-miljard-aan-defensie-airco-in-afghanistan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/nu-alle-jongens-aan-het-hpv-vaccin/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
