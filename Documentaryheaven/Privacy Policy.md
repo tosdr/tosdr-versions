@@ -123,44 +123,44 @@ Advertisement
     Amy Winehouse: What Really Happened
     
     Amy Winehouse is a singer and songwriter who is famous for her strong vocals as well as her blend of numerous musical styles such as soul, jazz and R&B.Winehouse has gained huge publicity for her dr...](https://documentaryheaven.com/amy-winehouse-what-really-happened/ "Amy Winehouse: What Really Happened")
+* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
+    
+    The Beginning and the End of the Universe
+    
+    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 * [![The Trials of J. Robert Oppenheimer](/wp-content/thumbnails/16705-100x70.jpg?x53432)
     
     The Trials of J. Robert Oppenheimer
     
     J. Robert Oppenheimer, a man of brilliant intellect, unwavering pride, and undeniable charisma, once stood as a national hero. Guiding the United States through the crucible of World War II, he playe...](https://documentaryheaven.com/the-trials-of-j-robert-oppenheimer/ "The Trials of J. Robert Oppenheimer")
-* [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
-    
-    Canada’s woke nightmare: A warning to the West
-    
-    Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
 
 ###### Throwback Documentaries
 
-* [![First Orbit](/wp-content/thumbnails/5669-100x70.jpg?x53432)
+* [![The Lost Pyramids of Caral](/wp-content/thumbnails/2153-100x70.jpg?x53432)
     
-    First Orbit
+    The Lost Pyramids of Caral
     
-    A real time recreation of Yuri Gagarin's pioneering first orbit, shot entirely in space from on board the International Space Station. The film combines this new footage with Gagarin's original missio](https://documentaryheaven.com/first-orbit/ "First Orbit")
-* [![National Geographic – Extreme Universe – Edge of Space](/wp-content/thumbnails/3718)
+    This is a pyramid that ranks as one of the largest in the world, period. It’s one that covers on the surface of the mound it covers like 15 football fields. The volume of it is some, we calculate some](https://documentaryheaven.com/the-lost-pyramids-of-caral/ "The Lost Pyramids of Caral")
+* [![The Brandon Teena Story](/wp-content/thumbnails/16350-100x70.jpg?x53432)
     
-    National Geographic – Extreme Universe – Edge of Space
+    The Brandon Teena Story
     
-    Delve into the unknown on a journey into deep oceans and deep space, as we seek the answers to some of mankind’s most unfathomable questions.National Geographic – Extreme Universe – S01E04 – Edge](https://documentaryheaven.com/national-geographic-%e2%80%93-extreme-universe-%e2%80%93-edge-of-space/ "National Geographic – Extreme Universe – Edge of Space")
-* [![The Smashing Machine](/wp-content/thumbnails/11959-100x70.jpg?x53432)
+    Brandon Tenna was a transgender man from Lincoln, Nebraska in the United States, who was the victim of a violent hate crime in 1993 and was later murdered in Humboldt, Nebraska, alongside Phillip DeV](https://documentaryheaven.com/brandon-teena-story/ "The Brandon Teena Story")
+* [![Bill Gates Talks at TED and Unleashes Mosquitoes](/wp-content/thumbnails/144-100x70.png?x53432)
     
-    The Smashing Machine
+    Bill Gates Talks at TED and Unleashes Mosquitoes
     
-    Originally released in 2002 and directed by John Hyams, The Smashing Machine is a film about the mixed martial arts career and personal life of Mark Kerr. This graphic documentary takes an u](https://documentaryheaven.com/smashing-machine/ "The Smashing Machine")
-* [![Evolution: The Minds Big Bang](/wp-content/thumbnails/8930-100x70.png?x53432)
+    On this year’s TED Talks 2009 in California Bill Gates shocked his audience of rich people with the unleashing of a swarm of mosquitoes, so that not only poor people can experience them. Further more](https://documentaryheaven.com/bill-gates-talks-at-ted-and-unleashes-mosquitoes/ "Bill Gates Talks at TED and Unleashes Mosquitoes")
+* [![UFO Cults: Heaven’s Gate](/wp-content/thumbnails/16056-100x70.jpg?x53432)
     
-    Evolution: The Minds Big Bang
+    UFO Cults: Heaven’s Gate
     
-    Narrated by Liam Neeson this Nova documentary examines the forces that might have helped contribute to the breakthrough which allowed us humans prevail over all other hominids such as the Neanderthals](https://documentaryheaven.com/evolution-minds-big-bang/ "Evolution: The Minds Big Bang")
-* [![Children of Chernobyl](/wp-content/thumbnails/12814-100x70.jpg?x53432)
+    The Heaven's Gate incident revealed that people will go to extreme lengths in the name of their belief. and the approach of the Millenium only fanned the flames of a curious phenomenon, UFO cults. A](https://documentaryheaven.com/ufo-cults-heavens-gate/ "UFO Cults: Heaven’s Gate")
+* [![The Devil Came On Horseback](/wp-content/thumbnails/5793-100x70.jpg?x53432)
     
-    Children of Chernobyl
+    The Devil Came On Horseback
     
-    The Chernobyl disaster of 1986 resulted in a radioactive fallout which was 100 times greater than a nuclear bomb. To this day nobody really knows the true extent of how many people were truly aff](https://documentaryheaven.com/children-of-chernobyl/ "Children of Chernobyl")
+    The tragedy taking place in Darfur as seen through the eyes of an American witness and who has since returned to the US to take action to stop it.Using the photographs and first hand testimony of fo](https://documentaryheaven.com/the-devil-came-on-horseback/ "The Devil Came On Horseback")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
