@@ -6,7 +6,7 @@
 
 Active Players
 
-1 , 0 6 7 , 2 8 8
+1 , 0 6 7 , 3 2 3
 
 * [Play](#)
     
@@ -147,7 +147,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1728790089) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1728811905) to resend activation email.
 
 OK
 
@@ -296,7 +296,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1728790089) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1728811905) to resend activation email.
 
 OK
 
@@ -1190,7 +1190,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 430000
+x 435000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1255,7 +1255,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 430000
+x 435000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
