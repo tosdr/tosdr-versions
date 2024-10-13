@@ -36,6 +36,9 @@
         
         Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/)
     
+    * [![Train to be a certified ethical hacker with this $50 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Train to be a certified ethical hacker with this $50 course bundle deal](https://www.bleepingcomputer.com/offer/deals/train-to-be-a-certified-ethical-hacker-with-this-50-course-bundle-deal/)
     * [![Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-pptp-and-l2tp-vpn-protocols-in-windows-server/)
@@ -45,9 +48,6 @@
     * [![If you're looking for a job change, try this $40 cybersecurity bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         If you're looking for a job change, try this $40 cybersecurity bundle](https://www.bleepingcomputer.com/offer/deals/if-youre-looking-for-a-job-change-try-this-40-cybersecurity-bundle/)
-    * [![CISA: Hackers abuse F5 BIG-IP cookies to map internal servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        CISA: Hackers abuse F5 BIG-IP cookies to map internal servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
