@@ -1,20 +1,20 @@
-Storm Updates and Recovery Solutions |Stay informed about branch operating hours and learn more about recovery solutions available after Hurricane Milton.
+Recovery Solutions |Learn more about recovery solutions available after Hurricane Milton.
 
 [](https://www.fairwinds.org/storm)
 
-Storm Updates and Recovery Solutions |Stay informed about branch operating hours and learn more about recovery solutions available after Hurricane Milton.
+Recovery Solutions |Learn more about recovery solutions available after Hurricane Milton.
 
 [](https://www.fairwinds.org/storm)
 
-Storm Updates and Recovery Solutions |Stay informed about branch operating hours and learn more about recovery solutions available after Hurricane Milton.
+Recovery Solutions |Learn more about recovery solutions available after Hurricane Milton.
 
 [](https://www.fairwinds.org/storm)
 
-Storm Updates and Recovery Solutions |Stay informed about branch operating hours and learn more about recovery solutions available after Hurricane Milton.
+Recovery Solutions |Learn more about recovery solutions available after Hurricane Milton.
 
 [](https://www.fairwinds.org/storm)
 
-Storm Updates and Recovery Solutions |Stay informed about branch operating hours and learn more about recovery solutions available after Hurricane Milton.
+Recovery Solutions |Learn more about recovery solutions available after Hurricane Milton.
 
 [](https://www.fairwinds.org/storm)
 
