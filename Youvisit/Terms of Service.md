@@ -1,5 +1,3 @@
-![](https://dc.ads.linkedin.com/collect/?pid=540602&fmt=gif)                                   
-
 [![YouVisit](https://www.youvisit.com/wp-content/themes/youvisit/dist/img/logo-dark.svg)](https://www.youvisit.com/ "YouVisit")
 
 * [Platform](https://www.youvisit.com/platform-capabilities/)
