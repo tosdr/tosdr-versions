@@ -160,7 +160,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 * [Notifications](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog) You must be signed in to change notification settings
 * [Fork 76](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
-* [Star 2.6k](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
+* [Star 2.7k](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
     
 
 * [Code](https://github.com/HermanMartinus/bearblog)
