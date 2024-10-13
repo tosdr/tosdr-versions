@@ -456,13 +456,13 @@ Free standard shipping on any $35 purchase
         * [Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/nightcap-parfum-pimprod2045006?sku=2618385)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/discover/fragrance-perfume-crush)
         
-        Orebella
+        Fragrance Crush | Valentino
         
-        New & exclusive! NIGHTCAP Parfum
+        Valentino Born in Roma Fragrances
         
-        [Shop now](https://www.ulta.com/p/nightcap-parfum-pimprod2045006?sku=2618385)
+        [Shop now](https://www.ulta.com/discover/fragrance-perfume-crush)
         
     * Body Care
         
@@ -563,13 +563,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=body-care)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/twelve-days-of-hydration-best-of-hempz-advent-calendar-pimprod2047997?sku=2631216)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/best-brightest-body-routine-pimprod2047742?sku=2631016)
         
-        Hempz
+        Sol de Janeiro
         
-        New! Twelve Days of Hydration Advent Calendar
+        New & exclusive! Best & Brightest Body Routine
         
-        [Shop now](https://www.ulta.com/p/twelve-days-of-hydration-best-of-hempz-advent-calendar-pimprod2047997?sku=2631216)
+        [Shop now](https://www.ulta.com/p/best-brightest-body-routine-pimprod2047742?sku=2631016)
         
     * Tools & Brushes
         
@@ -648,13 +648,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=tools-brushes)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/infinitipro-digitalaire-20-pimprod2047671?sku=2629961)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/duet-blow-dry-2-in-1-hair-dryer-brush-pimprod2045852?sku=2625285)
         
-        Conair
+        ghd
         
-        New! InfinitiPRO DigitalAIRE 2.0
+        Duet Blow Dry 2-In-1 Hair Dryer Brush
         
-        [Shop now](https://www.ulta.com/p/infinitipro-digitalaire-20-pimprod2047671?sku=2629961)
+        [Shop now](https://www.ulta.com/p/duet-blow-dry-2-in-1-hair-dryer-brush-pimprod2045852?sku=2625285)
         
     
     Browse By
