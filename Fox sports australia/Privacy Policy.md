@@ -18,8 +18,6 @@ FOX SCORES
     
 * [Supercars
     
-    10/10 13:20 AEST
-    
     |     |
     | --- |
     | Bathurst 1000 |
@@ -30,16 +28,6 @@ FOX SCORES
     
 * [Women's T20 WC
     
-    NZL won by 8 wkts
-    
-    |     |     |
-    | --- | --- |
-    | NZL | 2 /118 |
-    | SRI | 5 /115 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250115)
-* [Women's T20 WC
-    
     RSA won by 7 wkts
     
     |     |     |
@@ -48,6 +36,26 @@ FOX SCORES
     | RSA | 3 /107 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250116)
+* [Women's T20 WC
+    
+    13/10 21:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ENG | –   |
+    | SCO | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250117)
+* [Women's T20 WC
+    
+    14/10 1:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | IND | –   |
+    | AUS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250118)
 * [Men's T20I
     
     IND won by 133 runs
@@ -58,26 +66,6 @@ FOX SCORES
     | BAN | 7 /164 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250103)
-* [Women's T20
-    
-    ACT won by 38 runs
-    
-    |     |     |
-    | --- | --- |
-    | ACT | 4 /147 |
-    | MELS | 109 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250105)
-* [Women's T20
-    
-    PER won by 1 wkt
-    
-    |     |     |
-    | --- | --- |
-    | MELR | 3 /169 |
-    | PER | 9 /170 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250106)
 * [Women's T20
     
     SYD6 won by 3 runs
@@ -110,12 +98,10 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250109)
 * [One-Day Cup
     
-    13/10 13:00 AEST
-    
     |     |     |
     | --- | --- |
-    | WA  | –   |
-    | QLD | –   |
+    | WA  |     |
+    | QLD | 0 /0 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250107)
 * NRL
@@ -154,26 +140,6 @@ FOX SCORES
     
 * [AFL Women's
     
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | BRI | 6.8.44 |
-    | GCS | 4.4.28 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240707)
-* [AFL Women's
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | FRE | 4.6.30 |
-    | CAR | 5.4.34 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240708)
-* [AFL Women's
-    
     13/10 13:05 AEST
     
     |     |     |
@@ -210,16 +176,6 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | ILL | 109 |
-    | TAS | 76  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040003/play-by-play)
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
     | SEM | 85  |
     | BRI | 87  |
     
@@ -248,7 +204,7 @@ FOX SCORES
     
 * [MLB
     
-    Bottom 8th Innings
+    Final
     
     |     |     |
     | --- | --- |
