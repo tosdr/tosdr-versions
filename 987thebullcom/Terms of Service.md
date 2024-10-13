@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| To Be Loved By YouParker Mccollum<br><br>6:56pm |
-| Called CrazyKassi Ashton<br><br>6:52pm |
-| CowgirlsMorgan Wallen Ft Ernest<br><br>6:49pm |
-| I Got A GuyPost Malone Ft Luke Combs<br><br>6:47pm |
-| As Good As I Once WasToby Keith<br><br>6:38pm |
+| Boot Scootin' BoogieBrooks And Dunn<br><br>4:59am |
+| Pretty Little PoisonWarren Zeiders<br><br>4:55am |
+| Golden ChildMeghan Patrick<br><br>4:52am |
+| CowgirlsMorgan Wallen Ft Ernest<br><br>4:49am |
+| Friday Night HeartbreakerJon Pardi<br><br>4:45am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,17 +358,17 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
