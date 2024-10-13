@@ -315,17 +315,33 @@
 
 This material may not be published, broadcast, rewritten, or redistributed. ©2024 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by [Factset](https://go.factset.com/legal). Powered and implemented by [FactSet Digital Solutions](https://www.factset.com/solutions/digital-solutions). [Legal Statement](https://www.factset.com/privacy). Mutual Fund and ETF data provided by [Refinitiv Lipper](https://lipperalpha.refinitiv.com/).
 
-     [![Meghan McCain gives ‘final warning’ after VP Harris invokes late father: ‘I will start spilling tea’ - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/720/405/ef1bb5ee37136ae8e10b3577d9c6d8b6.jpg?tl=1&ve=1)
+                                                           [![Trump attacks Harris’ record at massive rally on her own turf: ‘She wants to destroy our country’ - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/720/405/0540026610dd32fa2498ec386f855e50.jpg?tl=1&ve=1)     ![1 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/720/405/5c83dfc8bc386301d8a37fab2dd8de58.jpg?tl=1&ve=1)      ![2 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/720/405/2f42f2e80282d9561bcc302cf25f6c0d.jpg?tl=1&ve=1)      ![wide - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/720/405/df206bd54c8e975ece490b858ee8bd36.jpg?tl=1&ve=1)      ![3 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/720/405/22bfc2578505898b7afdb8be2e885ba7.jpg?tl=1&ve=1)      ![7 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/720/405/b50613d9b9384c925997a7d5755c0219.jpg?tl=1&ve=1)      ![podium2 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/720/405/758479168cf5aa279eb6163b00786da1.jpg?tl=1&ve=1)      ![crowd - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/720/405/2bdc1a4e55d68fc04c1ee7d55f1ea191.jpg?tl=1&ve=1)      ![screen - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/720/405/f1a6dfcc6fb3321678614fe40e05b371.jpg?tl=1&ve=1)      ![undefined - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/720/405/1654ad7a0581091d9aa33af9ab5db951.jpg?tl=1&ve=1)
+
+‘PARADISE LOST’](https://www.foxnews.com/politics/trump-takes-detour-ultra-blue-california-spotlight-harris-home-turfs-failed-policies-paradise-lost)
+
+### [Trump attacks Harris’ record at massive rally on her own turf: ‘She wants to destroy our country’](https://www.foxnews.com/politics/trump-takes-detour-ultra-blue-california-spotlight-harris-home-turfs-failed-policies-paradise-lost)
+
+* [WATCH: Former president marvels at ‘great reception’ for rally in deep-blue California](https://www.foxnews.com/video/6363191791112)
+* [WATCH: Trump points to far-left policies for destroying The Golden State](https://www.foxnews.com/video/6363194030112)
+* [WATCH: Trump declares the US an ‘occupied country’ from illegal migrants](https://www.foxnews.com/video/6363194134112)
+
+     [![Meghan McCain gives ‘final warning’ after Harris invokes late dad: ‘I will start spilling tea’ - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/343/193/ef1bb5ee37136ae8e10b3577d9c6d8b6.jpg?tl=1&ve=1)
 
 DADDY’S GIRL](https://www.foxnews.com/politics/meghan-mccain-calls-out-kamala-harris-remarks-late-arizona-senator)
 
-### [Meghan McCain gives ‘final warning’ after VP Harris invokes late father: ‘I will start spilling tea’](https://www.foxnews.com/politics/meghan-mccain-calls-out-kamala-harris-remarks-late-arizona-senator)
+### [Meghan McCain gives ‘final warning’ after Harris invokes late dad: ‘I will start spilling tea’](https://www.foxnews.com/politics/meghan-mccain-calls-out-kamala-harris-remarks-late-arizona-senator)
 
-     [![Gunman opens fire near Tennessee State University in deadly shooting, several hurt - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/343/193/11214c90ef64d44bd6508ab3056f92ca.jpg?tl=1&ve=1)
+     [![One killed and several injured after gunman goes on deadly rampage near college campus - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/343/193/11214c90ef64d44bd6508ab3056f92ca.jpg?tl=1&ve=1)
 
-NASHVILLE TRAGEDY](https://www.foxnews.com/us/gunman-opens-fire-tennessee-state-university-nashville)
+HOMECOMING HORROR](https://www.foxnews.com/us/tennessee-state-university-shooting-leaves-least-1-dead-9-injured-police)
 
-### [Gunman opens fire near Tennessee State University in deadly shooting, several hurt](https://www.foxnews.com/us/gunman-opens-fire-tennessee-state-university-nashville)
+### [One killed and several injured after gunman goes on deadly rampage near college campus](https://www.foxnews.com/us/tennessee-state-university-shooting-leaves-least-1-dead-9-injured-police)
+
+     [![Whitmer in clean-up mode after appearing to mock Christians with pro-Harris video - Fox News](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/343/193/file-8.png?ve=1&tl=1&tl=1&ve=1)
+
+PODCAST PROBLEM](https://www.foxnews.com/politics/gretchen-whitmer-apologizes-video-her-feeding-doritos-kneeling-podcaster-following-backlash)
+
+### [Whitmer in clean-up mode after appearing to mock Christians with pro-Harris video](https://www.foxnews.com/politics/gretchen-whitmer-apologizes-video-her-feeding-doritos-kneeling-podcaster-following-backlash)
 
      [![Nick Cannon is latest celebrity to come forward with Diddy admission - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/343/193/diddy-cannon.jpg?tl=1&ve=1)
 
@@ -333,45 +349,33 @@ NASHVILLE TRAGEDY](https://www.foxnews.com/us/gunman-opens-fire-tennessee-state-
 
 ### [Nick Cannon is latest celebrity to come forward with Diddy admission](https://www.foxnews.com/entertainment/nick-cannon-admits-partied-diddy-teenager-got-nothing-hide)
 
-     [![Walz appearance at former high school’s football game met with protests and silent treatment - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/343/193/e49e82d94dc3019d5284da2e207c3af5.jpg?tl=1&ve=1)
-
-‘GETTING DESPERATE’](https://www.foxnews.com/sports/tim-walz-appearance-prompts-protests-silent-treatment-high-school-football-game-getting-desperate)
-
-### [Walz appearance at former high school’s football game met with protests and silent treatment](https://www.foxnews.com/sports/tim-walz-appearance-prompts-protests-silent-treatment-high-school-football-game-getting-desperate)
-
-     [![Former University of Michigan students accused of spying on military base for China, lying - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/343/193/china-spy.jpg?tl=1&ve=1)
+     [![Former students of prominent university accused of spying on military base for China - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/343/193/8451e168a55ca223455e305f32a5b332.jpg?tl=1&ve=1)
 
 SETTING SIGHTS](https://www.foxnews.com/us/chinese-university-michigan-students-charged-after-allegedly-spying-military-base)
 
-### [Former University of Michigan students accused of spying on military base for China, lying](https://www.foxnews.com/us/chinese-university-michigan-students-charged-after-allegedly-spying-military-base)
+### [Former students of prominent university accused of spying on military base for China](https://www.foxnews.com/us/chinese-university-michigan-students-charged-after-allegedly-spying-military-base)
 
-     [![Bill Maher sends message to pop star about how great the US is after she talks about Gaza - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/343/193/maher-roan.png?tl=1&ve=1)
+     [![Walz appearance at old stomping grounds met with protests and silent treatment - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/343/193/e49e82d94dc3019d5284da2e207c3af5.jpg?tl=1&ve=1)
 
-GOOD LUCK, BABE](https://www.foxnews.com/media/bill-maher-offers-open-letter-pop-star-chappell-roan-israel-you-dont-know-much-about-history)
+‘GETTING DESPERATE’](https://www.foxnews.com/sports/tim-walz-appearance-prompts-protests-silent-treatment-high-school-football-game-getting-desperate)
 
-### [Bill Maher sends message to pop star about how great the US is after she talks about Gaza](https://www.foxnews.com/media/bill-maher-offers-open-letter-pop-star-chappell-roan-israel-you-dont-know-much-about-history)
+### [Walz appearance at old stomping grounds met with protests and silent treatment](https://www.foxnews.com/sports/tim-walz-appearance-prompts-protests-silent-treatment-high-school-football-game-getting-desperate)
 
-     [![Penn State stuns USC with ‘flag football’ trick play — and epic touchdown - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/343/193/tyler-warren.jpg?tl=1&ve=1)
+     [![Team new to Big Ten shows powerhouse who’s boss in epic showdown - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/343/193/oregon-celebrates.jpg?tl=1&ve=1)
 
-WHERE'S THE BALL?](https://www.foxnews.com/sports/no-4-penn-state-pulls-off-flag-football-trick-play-leading-epic-touchdown-against-usc)SPORTS
+MIGHTY DUCKS](https://www.foxnews.com/sports/oregon-holds-off-ohio-states-final-second-comeback-epic-battle-top-three-big-ten-programs)SPORTS
 
-### [SEE IT: Penn State stuns USC with ‘flag football’ trick play — and epic touchdown](https://www.foxnews.com/sports/no-4-penn-state-pulls-off-flag-football-trick-play-leading-epic-touchdown-against-usc)
+### [Team new to Big Ten shows powerhouse who’s boss in epic showdown](https://www.foxnews.com/sports/oregon-holds-off-ohio-states-final-second-comeback-epic-battle-top-three-big-ten-programs)
 
-     [![Bath & Body Works apologizes for product after alleged likeness to KKK hood - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/343/193/f88828c9f8082a870c99c6a178a4d82e.jpg?tl=1&ve=1)
+     [![Political cartoons of the day - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/343/193/5b5f7127f6946d118bdf308ddb186027.png?tl=1&ve=1)](https://www.foxnews.com/politics/politics-cartoons-slideshow)
 
-CANDLE CONTROVERSY](https://www.foxbusiness.com/retail/bath-body-works-apologizes-candle-after-alleged-likeness-ku-klux-klan-hood-stirs-controversy)
-
-### [Bath & Body Works apologizes for product after alleged likeness to KKK hood](https://www.foxbusiness.com/retail/bath-body-works-apologizes-candle-after-alleged-likeness-ku-klux-klan-hood-stirs-controversy)
-
-[](https://www.foxnews.com/video/5614615980001)
-
-### [WATCH LIVE: Unwind with some laughs on ‘FOX News Saturday Night’](https://www.foxnews.com/video/5614615980001)
+### [Political cartoons of the day](https://www.foxnews.com/politics/politics-cartoons-slideshow)
 
 [Video
 
-WINNER'S MINDSET](https://www.foxnews.com/video/6363181913112)VIDEO
+COACHELLA HEADLINER](https://www.foxnews.com/video/6363191353112)WATCH
 
-### [NEWT GINGRICH: What I say when asked if Donald Trump will win the election](https://www.foxnews.com/video/6363181913112)
+### [Trump rallies California crowd, says one answer from Harris ‘disqualifies her from running’](https://www.foxnews.com/video/6363191353112)
 
 * [Fox News Channel  
     Pay TV Login Required](https://www.foxnews.com/video/5614615980001)
@@ -396,11 +400,11 @@ OUTKICK
 
 ### Amazon Prime makes massive political statement during NFL games](https://www.outkick.com/sports/amazon-prime-makes-massive-political-statement-during-nfl-games)
 
-    [![FOX Corporation launches donation drive for Hurricanes Helene, Milton relief efforts - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/208/117/e8731ce2917fa3f570eb7c628b3190e6.png?tl=1&ve=1)
+    ![Vice presidential candidates JD Vance and Tim Walz join FOX News Sunday - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/10/208/117/3bb53ed747745740ffc6bb11132d65be.png?tl=1&ve=1)
 
-DONATION DRIVE
+TUNE IN
 
-### FOX Corporation launches donation drive for Hurricanes Helene, Milton relief efforts](https://www.foxnews.com/media/fox-corporation-launches-donation-drive-american-red-cross-hurricane-helene-relief-efforts)
+### Vice presidential candidates JD Vance and Tim Walz join FOX News Sunday
 
     [![Walmart's October deals event: up to 50% off electronics, apparel, toys and more - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/208/117/istock-1176723728.jpg?tl=1&ve=1)
 
@@ -408,17 +412,11 @@ Deals
 
 ### Walmart's October deals event: up to 50% off electronics, apparel, toys and more](https://www.foxnews.com/lifestyle/walmarts-october-deals-event)
 
-     [![Nurses injured, one critically, as they rush outside hospital to help gunshot victim - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/philadelphia-nurses-struck-vehicle-dropping-off-gunshot-victim-hospital-police)
+     [![Bill Maher sends message to pop star about how great the US is after she talks about Gaza - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/bill-maher-offers-open-letter-pop-star-chappell-roan-israel-you-dont-know-much-about-history)
 
-[PHILADELPHIA](https://www.foxnews.com/category/us/philadelphia)
+[MEDIA](https://www.foxnews.com/category/media)
 
-### [Nurses injured, one critically, as they rush outside hospital to help gunshot victim](https://www.foxnews.com/us/philadelphia-nurses-struck-vehicle-dropping-off-gunshot-victim-hospital-police)
-
-     [![R. Kelly's daughter alleges singer sexually abused her as a child - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/r-kellys-daughter-buku-abi-alleges-singer-sexually-abused-her-child-too-scared-tell-anybody)
-
-[R KELLY](https://www.foxnews.com/category/person/r-kelly)
-
-### [R. Kelly's daughter alleges singer sexually abused her as a child](https://www.foxnews.com/entertainment/r-kellys-daughter-buku-abi-alleges-singer-sexually-abused-her-child-too-scared-tell-anybody)
+### [Bill Maher sends message to pop star about how great the US is after she talks about Gaza](https://www.foxnews.com/media/bill-maher-offers-open-letter-pop-star-chappell-roan-israel-you-dont-know-much-about-history)
 
      [![No-nonsense sheriff goes viral for laying down the law at hurricane evacuation shelters - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/florida-sheriff-announces-criminals-banned-from-evacuation-shelters-tells-them-go-directly-jail)
 
@@ -426,43 +424,49 @@ Deals
 
 ### [No-nonsense sheriff goes viral for laying down the law at hurricane evacuation shelters](https://www.foxnews.com/media/florida-sheriff-announces-criminals-banned-from-evacuation-shelters-tells-them-go-directly-jail)
 
-     [![See the wildest police bookings of the week - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/mugshots-week-oct-6-12-2024)
+     [![Liberal city shakes up leadership as residents turn on left-wing policies - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/portland-pushes-back-progressive-policies-resetting-new-city-council)
 
-[CRIME](https://www.foxnews.com/category/us/crime)
+[PORTLAND](https://www.foxnews.com/category/us/portland)
 
-### [See the wildest police bookings of the week](https://www.foxnews.com/us/mugshots-week-oct-6-12-2024)
+### [Liberal city shakes up leadership as residents turn on left-wing policies](https://www.foxnews.com/media/portland-pushes-back-progressive-policies-resetting-new-city-council)
 
-      [![Mark Levin: Kamala Harris surrounds herself with 'antisemites and worse' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6363188241112) WATCH
+     [![Bath & Body Works apologizes after product candle stirs up racial controversy - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/retail/bath-body-works-apologizes-candle-after-alleged-likeness-ku-klux-klan-hood-stirs-controversy)
 
-[life liberty levin](https://www.foxnews.com/video)
+[RETAIL](https://www.foxbusiness.com/tag/retail)
 
-### [Mark Levin: Kamala Harris surrounds herself with 'antisemites and worse'](https://www.foxnews.com/video/6363188241112)
+### [Bath & Body Works apologizes after product candle stirs up racial controversy](https://www.foxbusiness.com/retail/bath-body-works-apologizes-candle-after-alleged-likeness-ku-klux-klan-hood-stirs-controversy)
 
-     [![Political cartoons of the day - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/politics-cartoons-slideshow)
+      [![Chad Wolf: Biden and Harris' parole programs 'have problems' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6363183264112) WATCH
 
-[Politics](https://www.foxnews.com/category/politics)
+[fox news live](https://www.foxnews.com/video)
 
-### [Political cartoons of the day](https://www.foxnews.com/politics/politics-cartoons-slideshow)
+### [Chad Wolf: Biden and Harris' parole programs 'have problems'](https://www.foxnews.com/video/6363183264112)
 
-      [![Oregon receiver ejected for spitting on rival during team's biggest game of the year - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/oregon-player-ejected-spitting-ohio-state-opponent-why-even-do-that)SPORTS
+[](https://www.foxnews.com/video/5614615980001)
 
-'WHY EVEN DO THAT?'
+### [WATCH LIVE: Today’s top stories on ‘The Big Weekend Show’](https://www.foxnews.com/video/5614615980001)
 
-[OREGON DUCKS](https://www.foxnews.com/category/sports/ncaa/oregon-ducks)
+     [![JD Vance pinpoints one of the ‘biggest differences’ between Trump and Harris - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/jd-vance-points-biggest-difference-leadership-trump-harris-campaign-stop)
 
-### [Oregon receiver ejected for spitting on rival during team's biggest game of the year](https://www.foxnews.com/sports/oregon-player-ejected-spitting-ohio-state-opponent-why-even-do-that)
+[POLITICS](https://www.foxnews.com/category/politics)
 
-      [![College football mascot sends flirty message to A-list star on TV — and gets her attention - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/sydney-sweeney-responds-oregon-mascots-flirty-college-gameday-sign)SPORTS
+### [JD Vance pinpoints one of the ‘biggest differences’ between Trump and Harris](https://www.foxnews.com/politics/jd-vance-points-biggest-difference-leadership-trump-harris-campaign-stop)
 
-HAIL MARY PASS
+     [![R. Kelly's daughter alleges singer sexually abused her as a child - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/r-kellys-daughter-buku-abi-alleges-singer-sexually-abused-her-child-too-scared-tell-anybody)
 
-[OREGON DUCKS](https://www.foxnews.com/category/sports/ncaa/oregon-ducks)
+[R KELLY](https://www.foxnews.com/category/person/r-kelly)
 
-### [College football mascot sends flirty message to A-list star on TV — and gets her attention](https://www.foxnews.com/sports/sydney-sweeney-responds-oregon-mascots-flirty-college-gameday-sign)
+### [R. Kelly's daughter alleges singer sexually abused her as a child](https://www.foxnews.com/entertainment/r-kellys-daughter-buku-abi-alleges-singer-sexually-abused-her-child-too-scared-tell-anybody)
 
 [](https://www.foxnews.com/games)
 
 ### [PLAY NOW! Crosswords ♠ Word Search ♦ Crazy Crystals ♣ Stack & Match ♥ 5 Across!](https://www.foxnews.com/games)
+
+     [![Nurses injured, one critically, as they rush outside hospital to help gunshot victim - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/philadelphia-nurses-struck-vehicle-dropping-off-gunshot-victim-hospital-police)
+
+[PHILADELPHIA](https://www.foxnews.com/category/us/philadelphia)
+
+### [Nurses injured, one critically, as they rush outside hospital to help gunshot victim](https://www.foxnews.com/us/philadelphia-nurses-struck-vehicle-dropping-off-gunshot-victim-hospital-police)
 
      [![Suspects allegedly posed as workers in ritzy neighborhood before deadly home invasion - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/doorbell-video-shows-murder-suspects-pose-as-energy-workers-before-allegedly-killing-jewelry-store-owner)
 
@@ -470,13 +474,13 @@ HAIL MARY PASS
 
 ### [Suspects allegedly posed as workers in ritzy neighborhood before deadly home invasion](https://www.foxnews.com/us/doorbell-video-shows-murder-suspects-pose-as-energy-workers-before-allegedly-killing-jewelry-store-owner)
 
-      [![Pro soccer player disciplined for refusing to sign gay pride shirt, telling off fan who asked - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/german-soccer-player-punished-not-signing-gay-pride-shirt-im-not-signing-that)SPORTS
+      [![Penn State stuns USC with ‘flag football’ trick play — and epic touchdown - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/no-4-penn-state-pulls-off-flag-football-trick-play-leading-epic-touchdown-against-usc)SPORTS
 
-KICKING UP CONTROVERSY
+WHERE'S THE BALL?
 
-[SOCCER](https://www.foxnews.com/category/sports/soccer)
+[PENN STATE NITTANY LIONS](https://www.foxnews.com/category/sports/ncaa/penn-state-nittany-lions)
 
-### [Pro soccer player disciplined for refusing to sign gay pride shirt, telling off fan who asked](https://www.foxnews.com/sports/german-soccer-player-punished-not-signing-gay-pride-shirt-im-not-signing-that)
+### [SEE IT: Penn State stuns USC with ‘flag football’ trick play — and epic touchdown](https://www.foxnews.com/sports/no-4-penn-state-pulls-off-flag-football-trick-play-leading-epic-touchdown-against-usc)
 
       [![‘Home Improvement’ star shows off transformation since his ’90s heyday - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/home-improvement-richard-karn-slimmed-figure-90s-heyday)ENTERTAINMENT
 
@@ -486,23 +490,29 @@ UNDER CONSTRUCTION
 
 ### [SEE PICS: ‘Home Improvement’ star shows off transformation since his ’90s heyday](https://www.foxnews.com/entertainment/home-improvement-richard-karn-slimmed-figure-90s-heyday)
 
-     [![JD Vance pinpoints one of the ‘biggest differences’ between Trump and Harris - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/jd-vance-points-biggest-difference-leadership-trump-harris-campaign-stop)
+      [![College football mascot sends flirty message to A-list star on TV — and gets her attention - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/sydney-sweeney-responds-oregon-mascots-flirty-college-gameday-sign)SPORTS
 
-[POLITICS](https://www.foxnews.com/category/politics)
+HAIL MARY PASS
 
-### [JD Vance pinpoints one of the ‘biggest differences’ between Trump and Harris](https://www.foxnews.com/politics/jd-vance-points-biggest-difference-leadership-trump-harris-campaign-stop)
+[OREGON DUCKS](https://www.foxnews.com/category/sports/ncaa/oregon-ducks)
 
-     [![Deep-blue Portland overhauls leadership after ‘storm’ of far-left policies push city to brink - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/portland-pushes-back-progressive-policies-resetting-new-city-council)
+### [College football mascot sends flirty message to A-list star on TV — and gets her attention](https://www.foxnews.com/sports/sydney-sweeney-responds-oregon-mascots-flirty-college-gameday-sign)
 
-[PORTLAND](https://www.foxnews.com/category/us/portland)
+      [![LSU pulls off miracle win over Ole Miss after epic late-game collapse - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/lsu-pulls-off-miracle-win-over-ole-miss-after-epic-late-game-collapse)SPORTS
 
-### [Deep-blue Portland overhauls leadership after ‘storm’ of far-left policies push city to brink](https://www.foxnews.com/media/portland-pushes-back-progressive-policies-resetting-new-city-council)
+WHAT WERE THE ODDS?
 
-     [![Democrat leader ignites even more fury for ‘mocking’ Catholics with pro-Harris skit - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/michigan-catholic-bishops-condemn-whitmers-doritos-video-stunt-offensive)
+[LSU TIGERS](https://www.foxnews.com/category/sports/ncaa/lsu-tigers)
 
-[MEDIA](https://www.foxnews.com/category/media)
+### [LSU pulls off miracle win over Ole Miss after epic late-game collapse](https://www.foxnews.com/sports/lsu-pulls-off-miracle-win-over-ole-miss-after-epic-late-game-collapse)
 
-### [Democrat leader ignites even more fury for ‘mocking’ Catholics with pro-Harris skit](https://www.foxnews.com/media/michigan-catholic-bishops-condemn-whitmers-doritos-video-stunt-offensive)
+      [![Pro soccer player disciplined for refusing to sign gay pride shirt, telling off fan who asked - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/german-soccer-player-punished-not-signing-gay-pride-shirt-im-not-signing-that)SPORTS
+
+KICKING UP CONTROVERSY
+
+[SOCCER](https://www.foxnews.com/category/sports/soccer)
+
+### [Pro soccer player disciplined for refusing to sign gay pride shirt, telling off fan who asked](https://www.foxnews.com/sports/german-soccer-player-punished-not-signing-gay-pride-shirt-im-not-signing-that)
 
       [![Stranded college student lands unbelievable gift after chance encounter with airline CEO - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/travel/stranded-traveler-gifted-flight-upgrade-encounter-airline-ceo)TRAVEL
 
@@ -511,14 +521,6 @@ UNDER CONSTRUCTION
 [TRAVEL](https://www.foxnews.com/category/travel)
 
 ### [Stranded college student lands unbelievable gift after chance encounter with airline CEO](https://www.foxnews.com/travel/stranded-traveler-gifted-flight-upgrade-encounter-airline-ceo)
-
-      [![The 5 biggest twists that put Trump back in command of 2024 race - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/david-marcus-top-5-twists-put-trump-back-command)OPINION
-
-MAGA MOMENTUM
-
-[OPINION](https://www.foxnews.com/category/opinion)
-
-### [DAVID MARCUS: The 5 biggest twists that put Trump back in command of 2024 race](https://www.foxnews.com/opinion/david-marcus-top-5-twists-put-trump-back-command)
 
 [](https://www.foxnews.com/media/fox-corporation-launches-donation-drive-american-red-cross-hurricane-helene-relief-efforts)
 
@@ -571,6 +573,26 @@ MAGA MOMENTUM
 
 ### [Why did the feds bust this man? Which star's 'tacky' Halloween show sparked backlash?](https://www.foxnews.com/lifestyle/fox-news-digitals-news-quiz-october-11-2024)
 
+     [![See the wildest police bookings of the week - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/mugshots-week-oct-6-12-2024)
+
+[CRIME](https://www.foxnews.com/category/us/crime)
+
+### [See the wildest police bookings of the week](https://www.foxnews.com/us/mugshots-week-oct-6-12-2024)
+
+      [![ADHD now affects 15.5 million US adults: Here's what you should know - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/adhd-now-affects-15-5-million-us-adults-new-cdc-report)HEALTH
+
+EMERGING TREND
+
+[HEALTH](https://www.foxnews.com/category/health)
+
+### [ADHD now affects 15.5 million US adults: Here's what you should know](https://www.foxnews.com/health/adhd-now-affects-15-5-million-us-adults-new-cdc-report)
+
+     [![Army soldier who attempted to assist ISIS in killing US troops learns his fate - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/army-soldier-sentenced-14-years-isis-plot-kill-us-forces-after-requesting-he-serve-40-years)
+
+[TERRORISM](https://www.foxnews.com/category/world/terrorism)
+
+### [Army soldier who attempted to assist ISIS in killing US troops learns his fate](https://www.foxnews.com/us/army-soldier-sentenced-14-years-isis-plot-kill-us-forces-after-requesting-he-serve-40-years)
+
       [![Penn State gets walk-off win after fighting back from two-touchdown deficit - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/no-4-penn-state-fights-back-from-two-touchdown-deficit-walk-off-win-against-unranked-usc-overtime)SPORTS
 
 NEVER A DOUBT
@@ -578,14 +600,6 @@ NEVER A DOUBT
 [USC TROJANS](https://www.foxnews.com/category/sports/ncaa/usc-trojans)
 
 ### [Penn State gets walk-off win after fighting back from two-touchdown deficit](https://www.foxnews.com/sports/no-4-penn-state-fights-back-from-two-touchdown-deficit-walk-off-win-against-unranked-usc-overtime)
-
-      [![McDonald's lovers up in arms as Halloween item from their childhood keeps changing - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/fans-unhappy-return-mcdonalds-boo-buckets)FOOD
-
-LOVIN' TO HATE IT
-
-[FAST FOOD](https://www.foxnews.com/category/food-drink/food/fast-food)
-
-### [McDonald's lovers up in arms as Halloween item from their childhood keeps changing](https://www.foxnews.com/food-drink/fans-unhappy-return-mcdonalds-boo-buckets)
 
       [![Contractor discovers 83-year-old time capsule while working in popular national park - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/travel/time-capsule-1941-unearthed-indiana-dunes-national-park)TRAVEL
 
@@ -595,11 +609,11 @@ PIECE OF HISTORY
 
 ### [Contractor discovers 83-year-old time capsule while working in popular national park](https://www.foxnews.com/travel/time-capsule-1941-unearthed-indiana-dunes-national-park)
 
-     [![Southern city's rapid growth is fueling a red hot real estate market - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/real-estate/bentonville-ar-growing-rapidly-which-has-fueled-hot-real-estate-market)
+     [![Southern city many have never heard of is at the epicenter of a red hot real estate market - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/real-estate/bentonville-ar-growing-rapidly-which-has-fueled-hot-real-estate-market)
 
 [REAL ESTATE](https://www.foxbusiness.com/tag/real-estate)
 
-### [Southern city's rapid growth is fueling a red hot real estate market](https://www.foxbusiness.com/real-estate/bentonville-ar-growing-rapidly-which-has-fueled-hot-real-estate-market)
+### [Southern city many have never heard of is at the epicenter of a red hot real estate market](https://www.foxbusiness.com/real-estate/bentonville-ar-growing-rapidly-which-has-fueled-hot-real-estate-market)
 
       [![Doctors issue warning as 'highly contagious' respiratory infection is on the rise - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/whooping-cough-cases-up-more-than-over-time-last-year)HEALTH
 
@@ -651,20 +665,6 @@ HEALTH ALERT
 
 ### [Mob of up to 30 looters, some armed, ransack freight train in crime-ridden blue city](https://www.foxnews.com/us/mob-up-30-looters-some-armed-ransack-freight-train-chicago)
 
-     [![‘Man enough’ video for Harris quickly crowned ‘the cringiest political ad ever created’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/man-enough-video-supporting-harris-mocked-the-cringiest-political-ad-ever-created)
-
-[MEDIA](https://www.foxnews.com/category/media)
-
-### [‘Man enough’ video for Harris quickly crowned ‘the cringiest political ad ever created’](https://www.foxnews.com/media/man-enough-video-supporting-harris-mocked-the-cringiest-political-ad-ever-created)
-
-      [![What you need to know about eggs — and the conventional wisdom that’s actually wrong - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/5-egg-myths-dispelled-expert-tips-egg-lover)FOOD
-
-GET CRACKIN’
-
-[FOOD-DRINK](https://www.foxnews.com/category/food-drink)
-
-### [What you need to know about eggs — and the conventional wisdom that’s actually wrong](https://www.foxnews.com/food-drink/5-egg-myths-dispelled-expert-tips-egg-lover)
-
      [![UPenn donor who cut ties with alma mater redirects millions to Israeli universities instead - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/topic/anti-semitism)
 
 ### [ANTISEMITISM EXPOSED: UPenn donor who cut ties with alma mater redirects millions to Israeli universities instead](https://www.foxnews.com/category/topic/anti-semitism)
@@ -687,13 +687,13 @@ GALLOPING GHOSTWRITER
 
 ### [Meet the American who made Sleepy Hollow a legend and became first celebrity author](https://www.foxnews.com/lifestyle/meet-american-conjured-legend-sleepy-hollow-washington-irving-celebrity-author)
 
-      [![On this day in history, attack on USS Cole kills 17 American sailors, wounds dozens - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/this-day-history-oct-12-2000-terror-attack-uss-cole-kills-17-sailors-wounds-dozens)LIFESTYLE
+      [![On this day in history, October 13, 1792, cornerstone of White House is put down - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/this-day-history-oct-13-1792-cornerstone-white-house-down)LIFESTYLE
 
-DAY OF REMEMBRANCE
+HISTORIC BEGINNINGS
 
 [LIFESTYLE](https://www.foxnews.com/category/lifestyle)
 
-### [On this day in history, attack on USS Cole kills 17 American sailors, wounds dozens](https://www.foxnews.com/lifestyle/this-day-history-oct-12-2000-terror-attack-uss-cole-kills-17-sailors-wounds-dozens)
+### [On this day in history, October 13, 1792, cornerstone of White House is put down](https://www.foxnews.com/lifestyle/this-day-history-oct-13-1792-cornerstone-white-house-down)
 
      [![Tim Walz savagely roasted for hunting shtick: VIDEO - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/culture/tim-walz-pheasant-hunting-reaction)
 
@@ -771,21 +771,21 @@ Spots in US to mine for diamonds, gems](https://www.foxnews.com/travel/us-spots-
 [OutKick](https://www.outkick.com/)
 -----------------------------------
 
-     [![Texas Longhorns Are The Real Deal, So Jump On The Hype Train Now - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/texas-longhorns-real-deal-so-jump-hype-train-now)
+     [![Legendary Comedian Has Blunt Message For People Who Idolize Politicians: WATCH - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/culture/tim-dillon-david-hookstead-idolize-politicians)
+
+### [Legendary Comedian Has Blunt Message For People Who Idolize Politicians: WATCH](https://www.outkick.com/culture/tim-dillon-david-hookstead-idolize-politicians)
+
+### [Oregon Wins Big Ten Thriller Over Ohio State After Will Howard Blunder As The Clock Ticked To Zero](https://www.outkick.com/sports/oregon-will-howard-ohio-state-buckeyes-ducks)
+
+   [![EUGENE, OREGON - OCTOBER 12: Dillon Gabriel #8 of the Oregon Ducks celebrates with teammates after running for a touchdown during the fourth quarter of the game against the Ohio State Buckeyes at Autzen Stadium on October 12, 2024 in Eugene, Oregon. (Photo by Alika Jenner/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/oregon-will-howard-ohio-state-buckeyes-ducks)
 
 ### [Texas Longhorns Are The Real Deal, So Jump On The Hype Train Now](https://www.outkick.com/sports/texas-longhorns-real-deal-so-jump-hype-train-now)
+
+   [![DALLAS, TEXAS - OCTOBER 12: Quinn Ewers #3 of the Texas Longhorns poses with fans and teammates while wearing the Golden Hat Trophy after defeating the Oklahoma Sooners 34-3 at Cotton Bowl Stadium on October 12, 2024 in Dallas, Texas. (Photo by Alex Slitz/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/texas-longhorns-real-deal-so-jump-hype-train-now)
 
 ### [NHL Ref Offers Awesome Tribute To Legendary New York Rangers Announcer](https://www.outkick.com/sports/nhl-ref-offers-awesome-tribute-legendary-new-york-rangers-announcer)
 
    [![NHL referee Wes McCauley paid tribute to legendary Rangers broadcaster Sam Rosen, who will retire at the end of this season. (Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/nhl-ref-offers-awesome-tribute-legendary-new-york-rangers-announcer)
-
-### [Oregon's Traeshon Holden Ejected For Spitting On Ohio State Defender, Game Has Been Insane From The Start](https://www.outkick.com/sports/oregon-traeshon-holden-spitting-ohio-state)
-
-   [![EUGENE, OREGON - OCTOBER 12: Traeshon Holden #1 of the Oregon Ducks runs the ball after a catch during the second quarter against the Ohio State Buckeyes at Autzen Stadium on October 12, 2024 in Eugene, Oregon. (Photo by Ali Gradischer/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/oregon-traeshon-holden-spitting-ohio-state)
-
-### [It Didn't Take More Than A Few Plays Before Things Got Very Controversial Between Oregon And Ohio State](https://www.outkick.com/sports/didnt-take-more-than-few-plays-before-things-got-very-controversial-between-oregon-ohio-state)
-
-   [![EUGENE, OREGON - OCTOBER 12: Will Kacmarek #89 of the Ohio State Buckeyes catches a pass during the first quarter against the Oregon Ducks at Autzen Stadium on October 12, 2024 in Eugene, Oregon. (Photo by Ali Gradischer/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/didnt-take-more-than-few-plays-before-things-got-very-controversial-between-oregon-ohio-state)
 
 [Digital Originals](https://www.foxnews.com/category/us/digital-originals)
 --------------------------------------------------------------------------
@@ -847,21 +847,21 @@ Spots in US to mine for diamonds, gems](https://www.foxnews.com/travel/us-spots-
 [Elections](https://www.foxnews.com/elections)
 ----------------------------------------------
 
-     [![Meghan McCain calls out Kamala Harris over remarks about late Arizona senator: 'Don't make me start' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/meghan-mccain-calls-out-kamala-harris-remarks-late-arizona-senator)
+     [![On this day in history, October 13, 1792, cornerstone of White House is put down - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/this-day-history-oct-13-1792-cornerstone-white-house-down)
+
+### [On this day in history, October 13, 1792, cornerstone of White House is put down](https://www.foxnews.com/lifestyle/this-day-history-oct-13-1792-cornerstone-white-house-down)
+
+### [Trump takes detour to ultra-blue California to spotlight Harris' home turf's failed policies: 'Paradise lost'](https://www.foxnews.com/politics/trump-takes-detour-ultra-blue-california-spotlight-harris-home-turfs-failed-policies-paradise-lost)
+
+   [![Republican presidential nominee former President Donald Trump arrives to speak at a campaign rally at the Calhoun Ranch, Saturday, Oct. 12, 2024, in Coachella, Calif. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-takes-detour-ultra-blue-california-spotlight-harris-home-turfs-failed-policies-paradise-lost)
 
 ### [Meghan McCain calls out Kamala Harris over remarks about late Arizona senator: 'Don't make me start'](https://www.foxnews.com/politics/meghan-mccain-calls-out-kamala-harris-remarks-late-arizona-senator)
+
+   [![Meghan McCain called out Vice President Kamala Harris over an anecdote she shared at a campaign rally. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/meghan-mccain-calls-out-kamala-harris-remarks-late-arizona-senator)
 
 ### [White House releases medical report on VP Kamala Harris](https://www.foxnews.com/politics/white-house-releases-medical-report-vp-kamala-harris)
 
    [![Vice President Kamala Harris speaks at a campaign event on Thursday, Oct. 10, on the Gila River Indian Community reservation in Chandler, Ariz. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/white-house-releases-medical-report-vp-kamala-harris)
-
-### [VP Harris releasing detailed medical report, challenging Trump to do the same](https://www.foxnews.com/politics/vp-harris-releasing-detailed-medical-report-challenging-trump-do-same)
-
-   [![CHARLOTTE, NORTH CAROLINA - OCTOBER 05: Democratic presidential nominee, Vice President Kamala Harris speaks to the media before boarding Air Force Two after assessing the Hurricane Helene recovery response in North Carolina on October 5, 2024 in Charlotte, North Carolina. Harris was briefed on recovery operations at the Charlotte Air National Guard Base, visited a donation drop-off site for storm victims and met with impacted families. According to the Vice President&rsquo;s office, 74 percent of people who lost electricity during the storm now have power restored. (Photo by Mario Tama/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/vp-harris-releasing-detailed-medical-report-challenging-trump-do-same)
-
-### [The first October Surprise, in a presidential election considered the most important in history](https://www.foxnews.com/opinion/first-october-surprise-presidential-election-considered-most-important-history)
-
-   [![Republican and Democratic parties logos displayed on a phone screen and American flag displayed on a laptop screen are seen in this multiple exposure illustration photo taken in Krakow, Poland on August 25, 2022. (Photo by Jakub Porzycki/NurPhoto via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/first-october-surprise-presidential-election-considered-most-important-history)
 
 [Personal Freedoms](https://www.foxnews.com/category/us/personal-freedoms)
 --------------------------------------------------------------------------
@@ -943,9 +943,9 @@ NEW YORK, NEW YORK - SEPTEMBER 23: New York Gov. Kathy Hochul speaks about gun v
 [Crime](https://www.foxnews.com/category/us/crime)
 --------------------------------------------------
 
-     [![Gunman opens fire near Tennessee State University in Nashville - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/gunman-opens-fire-tennessee-state-university-nashville)
+     [![Tennessee State University shooting leaves at least 1 dead, 9 injured: police - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/tennessee-state-university-shooting-leaves-least-1-dead-9-injured-police)
 
-### [Gunman opens fire near Tennessee State University in Nashville](https://www.foxnews.com/us/gunman-opens-fire-tennessee-state-university-nashville)
+### [Tennessee State University shooting leaves at least 1 dead, 9 injured: police](https://www.foxnews.com/us/tennessee-state-university-shooting-leaves-least-1-dead-9-injured-police)
 
 ### [Mugshots of the week: Oct. 6-12, 2024](https://www.foxnews.com/us/mugshots-week-oct-6-12-2024)
 
@@ -1019,28 +1019,28 @@ NEW YORK, NEW YORK - SEPTEMBER 23: New York Gov. Kathy Hochul speaks about gun v
 [Sports](https://www.foxnews.com/sports)
 ----------------------------------------
 
-     [![Texas stymies Oklahoma's offense to earn Red River Rivalry win in first matchup as SEC members - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/texas-stymies-oklahomas-offense-earn-first-red-river-rivalry-win-foes-first-matchup-sec-members)
+     [![2024 Heisman Watch: Ashton Jeanty, Dillon Gabriel sit atop leaderboard - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/2024-heisman-watch)
 
-### [Texas stymies Oklahoma's offense to earn Red River Rivalry win in first matchup as SEC members](https://www.foxnews.com/sports/texas-stymies-oklahomas-offense-earn-first-red-river-rivalry-win-foes-first-matchup-sec-members)
+### [2024 Heisman Watch: Ashton Jeanty, Dillon Gabriel sit atop leaderboard](https://www.foxnews.com/sports/2024-heisman-watch)
 
-### [Oregon receiver ejected for spitting on Ohio State player: 'Why even do that?'](https://www.foxnews.com/sports/oregon-player-ejected-spitting-ohio-state-opponent-why-even-do-that)
+### [LSU pulls off miracle win over Ole Miss after epic late-game collapse](https://www.foxnews.com/sports/lsu-pulls-off-miracle-win-over-ole-miss-after-epic-late-game-collapse)
 
-   [![Traeshon Holden #1 of the Oregon Ducks runs the ball after a catch during the second quarter against the Ohio State Buckeyes at Autzen Stadium on October 12, 2024 in Eugene, Oregon. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/oregon-player-ejected-spitting-ohio-state-opponent-why-even-do-that)
+   [![Garrett Nussmeier 13 throws a pass as the LSU Tigers take on the Ole Miss Rebels at Tiger Stadium in Baton Rouge, LA. Saturday, Oct. 12, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/lsu-pulls-off-miracle-win-over-ole-miss-after-epic-late-game-collapse)
 
-### [UNC player Tylee Craft dies at 23 of lung cancer; teammate scores touchdown wearing his jersey](https://www.foxnews.com/sports/unc-player-tylee-craft-dies-23-lung-cancer-teammate-scores-touchdown-wearing-his-jersey)
+### [Oregon holds off Ohio State's final-second comeback in epic battle of top-three Big Ten programs](https://www.foxnews.com/sports/oregon-holds-off-ohio-states-final-second-comeback-epic-battle-top-three-big-ten-programs)
 
-   [![North Carolina wide receiver Tylee Craft (13) walks the bench during the second half of an NCAA college football game against Minnesota, Sept. 16, 2023, in Chapel Hill, N.C. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/unc-player-tylee-craft-dies-23-lung-cancer-teammate-scores-touchdown-wearing-his-jersey)
+   [![Dillon Gabriel #8 of the Oregon Ducks celebrates with teammates after running for a touchdown during the fourth quarter of the game against the Ohio State Buckeyes at Autzen Stadium on October 12, 2024 in Eugene, Oregon. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/oregon-holds-off-ohio-states-final-second-comeback-epic-battle-top-three-big-ten-programs)
 
-### [Former NBA player Steve Francis slams Lakers over decision to hire JJ Redick as coach](https://www.foxnews.com/sports/former-nba-player-steve-francis-slams-lakers-over-decision-hire-jj-redick-coach)
+### [Texas stymies Oklahoma's offense to earn Red River Rivalry win in foes' first matchup as SEC members](https://www.foxnews.com/sports/texas-stymies-oklahomas-offense-earn-first-red-river-rivalry-win-foes-first-matchup-sec-members)
 
-   [![Former NBA player, Steve Francis attends the Chicago Bulls against the Houston Rockets on February 3, 2017 at the Toyota Center in Houston, Texas. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/former-nba-player-steve-francis-slams-lakers-over-decision-hire-jj-redick-coach)
+   [![Texas Longhorns defensive back Michael Taaffe (16) celebrates with fans after beating Oklahoma Sooners 34-3 in the Red River Rivalry Football at the Cotton Bowl Stadium in Dallas, TX on Saturday Oct. 12, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/texas-stymies-oklahomas-offense-earn-first-red-river-rivalry-win-foes-first-matchup-sec-members)
 
 [U.S.](https://www.foxnews.com/us)
 ----------------------------------
 
-     [![Gunman opens fire near Tennessee State University in Nashville - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/gunman-opens-fire-tennessee-state-university-nashville)
+     [![Tennessee State University shooting leaves at least 1 dead, 9 injured: police - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/tennessee-state-university-shooting-leaves-least-1-dead-9-injured-police)
 
-### [Gunman opens fire near Tennessee State University in Nashville](https://www.foxnews.com/us/gunman-opens-fire-tennessee-state-university-nashville)
+### [Tennessee State University shooting leaves at least 1 dead, 9 injured: police](https://www.foxnews.com/us/tennessee-state-university-shooting-leaves-least-1-dead-9-injured-police)
 
 ### [Chinese University of Michigan students charged after allegedly spying on military base](https://www.foxnews.com/us/chinese-university-michigan-students-charged-after-allegedly-spying-military-base)
 
@@ -1266,9 +1266,13 @@ NEW YORK, NEW YORK - SEPTEMBER 23: New York Gov. Kathy Hochul speaks about gun v
 [Full Episodes](https://www.foxnews.com/video/topics/latest-news-video)
 -----------------------------------------------------------------------
 
-      [![Hannity - Friday, October 11 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6363172406112)
+      [![The Journal Editorial Report - Saturday, October 12 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6363190574112)
+
+### [The Journal Editorial Report - Saturday, October 12](https://www.foxnews.com/video/6363190574112)
 
 ### [Hannity - Friday, October 11](https://www.foxnews.com/video/6363172406112)
+
+    [![Hannity - Friday, October 11 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6363172406112)
 
 ### [The Ingraham Angle - Friday, October 11](https://www.foxnews.com/video/6363172097112)
 
@@ -1277,10 +1281,6 @@ NEW YORK, NEW YORK - SEPTEMBER 23: New York Gov. Kathy Hochul speaks about gun v
 ### [Gutfeld! - Friday, October 11](https://www.foxnews.com/video/6363169253112)
 
     [![Gutfeld! - Friday, October 11 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6363169253112)
-
-### [Jesse Watters Primetime - Friday, October 11](https://www.foxnews.com/video/6363169621112)
-
-    [![Jesse Watters Primetime - Friday, October 11 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6363169621112)
 
 [Latest Wires](https://www.foxnews.com/category/topic/associated-press)
 -----------------------------------------------------------------------
@@ -1361,9 +1361,13 @@ NEW YORK, NEW YORK - SEPTEMBER 23: New York Gov. Kathy Hochul speaks about gun v
 [Fox News Podcasts](https://radio.foxnews.com/podcast/)
 -------------------------------------------------------
 
-     [![Extra: What Does Home Insurance Cover After A Disaster? - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/10/12/extra-what-does-home-insurance-cover-after-a-disaster/)
+     [![Fox Sports Update – Game 5 between the Tigers and the Guardians - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/10/13/fox-sports-update-game-5-between-the-tigers-and-the-guardians/)
+
+### [Fox Sports Update – Game 5 between the Tigers and the Guardians](https://radio.foxnews.com/2024/10/13/fox-sports-update-game-5-between-the-tigers-and-the-guardians/)
 
 ### [Extra: What Does Home Insurance Cover After A Disaster?](https://radio.foxnews.com/2024/10/12/extra-what-does-home-insurance-cover-after-a-disaster/)
+
+   [![Extra: What Does Home Insurance Cover After A Disaster? - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/10/12/extra-what-does-home-insurance-cover-after-a-disaster/)
 
 ### [TMZ Minute – Tupac Shakur’s Brother Raising Concerns over “Diddy”](https://radio.foxnews.com/2024/10/12/tmz-minute-tupac-shakurs-brother-raising-concerns-over-diddy/)
 
@@ -1372,10 +1376,6 @@ NEW YORK, NEW YORK - SEPTEMBER 23: New York Gov. Kathy Hochul speaks about gun v
 ### [The Wise Men: Good For You, Son](https://radio.foxnews.com/2024/10/12/the-wise-men-good-for-you-son/)
 
    [![The Wise Men: Good For You, Son - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/10/12/the-wise-men-good-for-you-son/)
-
-### [High School Dropout To Founder & CEO: How DUB’s Steven Wang Is Democratizing Investing](https://radio.foxnews.com/2024/10/12/high-school-dropout-to-founder-ceo-how-dubs-steven-wang-is-democratizing-investing/)
-
-   [![High School Dropout To Founder &amp; CEO: How DUB&rsquo;s Steven Wang Is Democratizing Investing - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/10/12/high-school-dropout-to-founder-ceo-how-dubs-steven-wang-is-democratizing-investing/)
 
 ##### [U.S.](https://www.foxnews.com/us)
 
