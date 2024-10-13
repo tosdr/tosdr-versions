@@ -166,61 +166,91 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Astronomy
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/the-self-life)
+[![](/i/Main%20Stage%20-%201400x1050/Big_Bang_Crisis_1400x1050.jpg)](https://www.icr.org/article/astronomy-magazine-big-bang-in-crisis)
 
-[The Self Life](https://www.icr.org/article/the-self-life/)
+[Astronomy Magazine: Big Bang in Crisis?](https://www.icr.org/article/astronomy-magazine-big-bang-in-crisis/)
 
-“O wretched man that I am! who shall deliver me from the body of this death?” (Romans 7:24) This despondent cry follows Paul’s...
+The May 2020 issue of Astronomy magazine asks what might have once been seen as an unthinkable question: Is the Big Bang in Crisis?1 The article...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/certain-men)
+[![](/i/Main%20Stage%20-%201400x1050/Comet_SWAN_1400x1050.jpg)](https://www.icr.org/article/will-comet-swan-put-on-a-celestial-show)
 
-[Certain Men](https://www.icr.org/article/certain-men/)
+[Will Comet SWAN Put on a Celestial Show?](https://www.icr.org/article/will-comet-swan-put-on-a-celestial-show/)
 
-“For there are certain men crept in unawares, who were before of old ordained to this condemnation.” (Jude 1:4) Jude speaks severely...
+For families seeking worthwhile home-based science activities, Comet SWAN presents another opportunity to do some backyard astronomy and to celebrate God’s...
 
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/doing-righteousness)
+[![](/i/radio/images/Created%20Sun%20and%20Moon-StageImage.jpg)](https://www.icr.org/article/created-sun-and-moon)
 
-[Doing Righteousness](https://www.icr.org/article/doing-righteousness/)
+[The Created Sun and Moon](https://www.icr.org/article/created-sun-and-moon/)
 
-“Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.” (1 John 3:7) Every genuine...
+What does Scripture say about the sun and the moon? How do these two “great lights” rule the heavens? Dr. Jim Johnson describes the...
 
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/moon_formedin_hours_1400x1050.jpg)](https://www.icr.org/article/moon-formed-in-just-hours)
+
+[The Moon: Formed in Just Hours?](https://www.icr.org/article/moon-formed-in-just-hours/)
+
+Despite the moon’s apparently simple shape, uniformitarian scientists have long had great difficulty explaining how it could form by natural processes...
+
+BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+
+[![](/i/Main%20Stage%20-%201400x1050/CliffCollapses_1400x1050)](https://www.icr.org/article/cliff-collapse-collapses)
+
+[Cliff Collapse Collapses 'Deep Time'](https://www.icr.org/article/cliff-collapse-collapses/)
+
+Recently, video footage captured the spectacular collapse of an estimated 11,000 tons (22 million pounds) of rock, as a section of England’s Broadchurch...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/spiralgalaxy_1400x1050.jpg)](https://www.icr.org/article/distant-barred-spiral-galaxy)
+
+[Distant Barred Spiral Galaxy Shouldn't Exist?](https://www.icr.org/article/distant-barred-spiral-galaxy/)
+
+Conventional theories have a difficult time accounting for the existence of a distant galaxy whose existence has been revealed by the James Webb Space...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216437/file.jpg)
 
-The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
+The Ice Age and the Flood - eBook](https://store.icr.org/the-ice-age-and-the-flood-ebook.html)
+
+$2.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/12967277/file.jpg)
+
+The Climate Change Conflict: Keeping Cool Over Global Warming](https://store.icr.org/the-climate-change-conflict-keeping-cool-over-glob.html)
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216390/file.jpg)
+
+The Ice Age Real and Recent - Download](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent-downloa.html)
+
+$4.99
 
 $9.99
 
-$19.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/29505174/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
+The Ice Age and Climate Change](https://store.icr.org/the-ice-age-and-climate-change.html)
 
-The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
+$34.99
 
-$14.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32701/file.jpg)
 
-$19.99
+The Ice Age and the Flood](https://store.icr.org/dr-jake-hebert-the-ice-age-and-the-flood.html)
 
-[](https://store.icr.org/.html)
-
-$
-
-[](https://store.icr.org/.html)
-
-$
-
-[](https://store.icr.org/.html)
-
-$
+$2.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
