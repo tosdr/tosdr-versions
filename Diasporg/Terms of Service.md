@@ -6,7 +6,7 @@ Here are the important things you need to know about accessing and using the **d
 Accepting these Terms
 ---------------------
 
-If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing [https://support.diasp.org/help/1941630404](https://support.diasp.org/help/1941630404).
+If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know by e-mailing [https://support.diasp.org/help/2508486070](https://support.diasp.org/help/2508486070).
 
 Changes to these Terms
 ----------------------
@@ -133,4 +133,4 @@ We love feedback. Please let us know what you think of the Service, these Terms 
 Questions & Contact Information
 -------------------------------
 
-Questions or comments about the Service may be directed to us at the email address [https://support.diasp.org/help/1941630404](https://support.diasp.org/help/1941630404).
+Questions or comments about the Service may be directed to us at the email address [https://support.diasp.org/help/2508486070](https://support.diasp.org/help/2508486070).
