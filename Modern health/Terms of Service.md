@@ -45,9 +45,9 @@ Let's schedule a meeting at your convenience now!
 
 ](https://www.modernhealth.com/request-demo)
 
-[Register for our **World Mental Health Event with Naomi Osaka and Customer Mattel** on October 10 at 9am PT
+[Join the Excitement: Watch the Play panel discussion with Naomi Osaka and our customer Mattel!
 
-](https://join.modernhealth.com/WMHD2024.html)[](#)
+](https://explore.modernhealth.com/play-and-social-conection?utm_source=linkedin&utm_medium=social&utm_campaign=play-webinar-follow-up)[](#)
 
 [![](https://cdn.prod.website-files.com/5f39912be9da2f5c8fc5cc45/67016969deaa29d5b5e44ac8_ModernHealth-logo-main.svg)](https://www.modernhealth.com/)
 
