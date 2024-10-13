@@ -566,23 +566,19 @@ Latest News
 
 [Australia commits $64 million to protect against looming bird flu threat](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/ "Australia commits $64 million to protect against looming bird flu threat")
 
-4 hours ago
+10 hours ago
 
 [Israeli foreign minister reiterates U.N. chief Guterres is persona non grata over Iran stance](https://www.japantimes.co.jp/news/2024/10/13/world/israeli-foreign-minister-deems-guterres-persona-non-grata/ "Israeli foreign minister reiterates U.N. chief Guterres is persona non grata over Iran stance")
 
-4 hours ago
+10 hours ago
 
 [Secret documents show Hamas tried to persuade Iran to join its Oct. 7 attack](https://www.japantimes.co.jp/news/2024/10/13/world/hamas-iran-october-7-attack/ "Secret documents show Hamas tried to persuade Iran to join its Oct. 7 attack")
 
-5 hours ago
+11 hours ago
 
 [Taiwan spots Chinese carrier as video says military 'prepared for battle'](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
 
-7 hours ago
-
 [Japan's Empress Emerita leaves hospital](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-empress-emerita-michiko-leaves-hospital/ "Japan's Empress Emerita leaves hospital")
-
-9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
