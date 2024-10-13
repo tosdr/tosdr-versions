@@ -354,6 +354,20 @@ Read More
 Community News
 --------------
 
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-toxin-arlill-uss-octavia-e-butler-voyager-medallion/)
+
+### [Award Winner – Toxin Arlill, USS Octavia E. Butler – Voyager Medallion](https://www.starbase118.net/2024/award-winner-toxin-arlill-uss-octavia-e-butler-voyager-medallion/)
+
+otterhooligan October 13, 2024
+
+Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
+
+[Read More »](https://www.starbase118.net/2024/award-winner-toxin-arlill-uss-octavia-e-butler-voyager-medallion/)
+
 ### [Role In Focus – Diplomacy](https://www.starbase118.net/2024/role-in-focus-diplomacy/) 
 
 Lhandon Nilsen October 11, 2024
@@ -364,6 +378,8 @@ One of the most rewarding aspects of simming in the SB118 fleet is the diversity
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-talia-ohnari-uss-khitomer-prestigious-service-medallion-medical/)
 
 ### [Award winner – Talia Ohnari, USS Khitomer (Prestigious Service Medallion – Medical)](https://www.starbase118.net/2024/award-winner-talia-ohnari-uss-khitomer-prestigious-service-medallion-medical/)
@@ -373,18 +389,6 @@ skhuss October 9, 2024
 Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
 
 [Read More »](https://www.starbase118.net/2024/award-winner-talia-ohnari-uss-khitomer-prestigious-service-medallion-medical/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/Tuvok_promoted-768x585.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/promotions-for-august-september-2024/)
-
-### [Promotions for August & September 2024](https://www.starbase118.net/2024/promotions-for-august-september-2024/)
-
-Alora DeVeau October 8, 2024
-
-We’d like to congratulate all who saw their hard work and dedication pay off the last couple of months with a promotion to a higher
-
-[Read More »](https://www.starbase118.net/2024/promotions-for-august-september-2024/)
 
 Ready to get started?
 ---------------------
