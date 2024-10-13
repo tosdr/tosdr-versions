@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Doakes Was The Bay Harbor Butcher](https://knowyourmeme.com/memes/doakes-was-the-bay-harbor-butcher "Doakes Was The Bay Harbor Butcher") [2024 Internet Archive Hack](https://knowyourmeme.com/memes/events/2024-internet-archive-hack "2024 Internet Archive Hack") [Government Making Hurricanes Conspiracy Theory](https://knowyourmeme.com/memes/government-making-hurricanes-conspiracy-theory "Government Making Hurricanes Conspiracy Theory") [Spiritual Successor To Disco Elysium](https://knowyourmeme.com/memes/spiritual-successor-to-disco-elysium "Spiritual Successor To Disco Elysium") [Nintendo Alarmo](https://knowyourmeme.com/memes/subcultures/nintendo-alarmo "Nintendo Alarmo") [J.D. Vance Dossier Leak](https://knowyourmeme.com/memes/events/jd-vance-dossier-leak "J.D. Vance Dossier Leak")
+[Spiritual Successor To Disco Elysium](https://knowyourmeme.com/memes/spiritual-successor-to-disco-elysium "Spiritual Successor To Disco Elysium")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Yo Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
