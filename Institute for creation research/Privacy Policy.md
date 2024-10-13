@@ -96,91 +96,31 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Astronomy
-
-[![](/i/Main%20Stage%20-%201400x1050/Big_Bang_Crisis_1400x1050.jpg)](https://www.icr.org/article/astronomy-magazine-big-bang-in-crisis)
-
-[Astronomy Magazine: Big Bang in Crisis?](https://www.icr.org/article/astronomy-magazine-big-bang-in-crisis/)
-
-The May 2020 issue of Astronomy magazine asks what might have once been seen as an unthinkable question: Is the Big Bang in Crisis?1 The article...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/Main%20Stage%20-%201400x1050/Comet_SWAN_1400x1050.jpg)](https://www.icr.org/article/will-comet-swan-put-on-a-celestial-show)
-
-[Will Comet SWAN Put on a Celestial Show?](https://www.icr.org/article/will-comet-swan-put-on-a-celestial-show/)
-
-For families seeking worthwhile home-based science activities, Comet SWAN presents another opportunity to do some backyard astronomy and to celebrate God’s...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/radio/images/Created%20Sun%20and%20Moon-StageImage.jpg)](https://www.icr.org/article/created-sun-and-moon)
-
-[The Created Sun and Moon](https://www.icr.org/article/created-sun-and-moon/)
-
-What does Scripture say about the sun and the moon? How do these two “great lights” rule the heavens? Dr. Jim Johnson describes the...
-
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
 More Creation Science Update
 
-[![](/i/Main%20Stage%20-%201400x1050/moon_formedin_hours_1400x1050.jpg)](https://www.icr.org/article/moon-formed-in-just-hours)
+[![](/i/Main%20Stage%20-%201400x1050/brainscomplexity_1400x1050.jpg)](https://www.icr.org/article/cognitive-map-brain-complexity)
 
-[The Moon: Formed in Just Hours?](https://www.icr.org/article/moon-formed-in-just-hours/)
+[The Cognitive Map: An Incredible Display of the Brain&r.,.](https://www.icr.org/article/cognitive-map-brain-complexity/)
 
-Despite the moon’s apparently simple shape, uniformitarian scientists have long had great difficulty explaining how it could form by natural processes...
+To be spatially capable creatures, humans need their brains to tell them 1) where things are in relation to themselves and 2) where everything is in...
 
 BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
 
-[![](/i/Main%20Stage%20-%201400x1050/CliffCollapses_1400x1050)](https://www.icr.org/article/cliff-collapse-collapses)
+[![](/i/Main%20Stage%20-%201400x1050/dino-footprints-duck_1400x1050.jpg)](https://www.icr.org/article/Duck-Billed-Dinosaurs)
 
-[Cliff Collapse Collapses 'Deep Time'](https://www.icr.org/article/cliff-collapse-collapses/)
+[Solving the Mysterious Appearances of Duck-billed Dinosaurs](https://www.icr.org/article/Duck-Billed-Dinosaurs/)
 
-Recently, video footage captured the spectacular collapse of an estimated 11,000 tons (22 million pounds) of rock, as a section of England’s Broadchurch...
+A new discovery of a duck-billed dinosaur was announced in southern Chile.1 And not only does this new dinosaur lack identifiable ancestors,...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
 
-[![](/i/Main%20Stage%20-%201400x1050/spiralgalaxy_1400x1050.jpg)](https://www.icr.org/article/distant-barred-spiral-galaxy)
+[![](/i/Main%20Stage%20-%201400x1050/hypercarnivore-1400x1050)](https://www.icr.org/article/hypercarnivore-discovered)
 
-[Distant Barred Spiral Galaxy Shouldn't Exist?](https://www.icr.org/article/distant-barred-spiral-galaxy/)
+[A Strange and Mysterious Hypercarnivore Discovered](https://www.icr.org/article/hypercarnivore-discovered/)
 
-Conventional theories have a difficult time accounting for the existence of a distant galaxy whose existence has been revealed by the James Webb Space...
+In 1988 a fossil jaw was discovered by paleontologists in San Diego County, California. Decades later the scientists determined it belonged to a relatively...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216437/file.jpg)
-
-The Ice Age and the Flood - eBook](https://store.icr.org/the-ice-age-and-the-flood-ebook.html)
-
-$2.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/12967277/file.jpg)
-
-The Climate Change Conflict: Keeping Cool Over Global Warming](https://store.icr.org/the-climate-change-conflict-keeping-cool-over-glob.html)
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216390/file.jpg)
-
-The Ice Age Real and Recent - Download](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent-downloa.html)
-
-$4.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/29505174/file.jpg)
-
-The Ice Age and Climate Change](https://store.icr.org/the-ice-age-and-climate-change.html)
-
-$34.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32701/file.jpg)
-
-The Ice Age and the Flood](https://store.icr.org/dr-jake-hebert-the-ice-age-and-the-flood.html)
-
-$2.99
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
