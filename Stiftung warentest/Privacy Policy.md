@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
+* [Misch­fonds-ETF: Die ganze Geld­anlage in nur einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-nur-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in nur einem ETF")
+* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
+* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
+* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
+* [Misch­fonds-ETF: Die ganze Geld­anlage in nur einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-nur-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in nur einem ETF")
+* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
+* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
+* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
+* [Misch­fonds-ETF: Die ganze Geld­anlage in nur einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-nur-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in nur einem ETF")
+* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
+* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
+* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
+* [Misch­fonds-ETF: Die ganze Geld­anlage in nur einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-nur-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in nur einem ETF")
+* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
+* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
+* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
 
 Service Stiftung Warentest
 
