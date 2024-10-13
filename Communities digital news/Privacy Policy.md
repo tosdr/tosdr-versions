@@ -44,21 +44,23 @@ Search for:
 
 [SNL ‘turns on’ Kamala, skewers floundering Democrat nominee](https://americanwirenews.com/snl-turns-on-kamala-skewers-floundering-democrat-nominee/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bonjovi-1200x630.jpg)](https://americanwirenews.com/bon-jovi-sparks-backlash-when-he-endorses-kamala-prostrates-himself-with-song-about-privilege/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-wesko-1200x630.png)](https://americanwirenews.com/country-singers-song-about-storm-ravaged-nc-goes-viral-we-didnt-know-violence-til-we-met-helene/)
 
-[Bon Jovi sparks backlash when he endorses Kamala, prostrates himself with song about ‘privilege’](https://americanwirenews.com/bon-jovi-sparks-backlash-when-he-endorses-kamala-prostrates-himself-with-song-about-privilege/)
+[Country singer’s song about storm-ravaged NC goes viral: ‘We didn’t know violence ’til we met Helene’](https://americanwirenews.com/country-singers-song-about-storm-ravaged-nc-goes-viral-we-didnt-know-violence-til-we-met-helene/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-men-kamala-ad-1200x630.jpg)](https://americanwirenews.com/kamalas-new-manly-man-ad-is-industrial-strength-cringe/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-harris-biden-1200x630.jpg)](https://americanwirenews.com/et-tu-joe-biden-reportedly-sabotaging-kamalas-presidential-bid-after-being-forced-out/)
 
-[Kamala’s new manly man ad is industrial strength CRINGE](https://americanwirenews.com/kamalas-new-manly-man-ad-is-industrial-strength-cringe/)
+[‘Et tu, Joe?’ Biden reportedly sabotaging Kamala’s presidential bid after being forced out](https://americanwirenews.com/et-tu-joe-biden-reportedly-sabotaging-kamalas-presidential-bid-after-being-forced-out/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-julia-roberts-1200x630.jpg)](https://americanwirenews.com/actress-urges-women-to-get-men-to-vote-kamala-so-we-can-get-to-the-good-stuff-like-joy/)
 
 [Actress urges women to get men to vote Kamala so we can ‘get to the good stuff’ like ‘joy’](https://americanwirenews.com/actress-urges-women-to-get-men-to-vote-kamala-so-we-can-get-to-the-good-stuff-like-joy/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tyt-cenk-1200-x-628-1200-x-628-1200x630.jpg)](https://americanwirenews.com/cenk-uygur-makes-it-plain-for-clueless-dems-theyre-so-biased-they-cant-see-straight/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-trump-milley-1200x630.jpg)](https://americanwirenews.com/woke-train-wreck-trump-spox-slams-gen-milley-over-fascist-allegation/)
 
-[Cenk Uygur makes it plain for clueless Dems: ‘They’re so biased they can’t see straight’](https://americanwirenews.com/cenk-uygur-makes-it-plain-for-clueless-dems-theyre-so-biased-they-cant-see-straight/)
+(Official White House Photo by Shealah Craighead)
+
+[‘Woke train-wreck’: Trump spox slams Gen. Milley over ‘fascist’ allegation](https://americanwirenews.com/woke-train-wreck-trump-spox-slams-gen-milley-over-fascist-allegation/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djtcoachella-1200-x-628-1200x630.jpg)
 
@@ -79,6 +81,32 @@ Search for:
 ### [CNN’s Chris Wallace huffs at Tucker Carlson: ‘I’m employed’](https://americanwirenews.com/cnns-chris-wallace-jealously-huffs-at-tucker-im-employed/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-presler-220x180.jpg)](https://americanwirenews.com/scott-presler-says-trump-in-best-place-to-win-critical-battleground-state/)
+
+[Scott Presler says Trump in ‘best place’ to win critical battleground state](https://americanwirenews.com/scott-presler-says-trump-in-best-place-to-win-critical-battleground-state/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-welker-kornacki-poll-220x180.jpg)](https://americanwirenews.com/this-is-a-big-one-nbcs-welker-dismayed-over-poll-showing-trump-erases-5-point-harris-lead/)
+
+[‘This is a big one!’ NBC’s Welker dismayed over poll showing Trump erases 5-point Harris lead](https://americanwirenews.com/this-is-a-big-one-nbcs-welker-dismayed-over-poll-showing-trump-erases-5-point-harris-lead/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-spencer-sg-lonoke-220x180.jpg)](https://americanwirenews.com/arkansas-father-charged-with-murder-after-locating-missing-daughter-14-with-her-alleged-rapist/)
+
+[Arkansas father charged with murder after locating missing daughter, 14, with her alleged rapist](https://americanwirenews.com/arkansas-father-charged-with-murder-after-locating-missing-daughter-14-with-her-alleged-rapist/)
+
+Image via Lonoke County Detention Center
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vance-martha-1200-x-628-220x180.jpg)](https://americanwirenews.com/do-you-hear-yourself-jd-vance-shuts-down-martha-raddatz-over-venezuela-migrant-gangs/)
+
+[‘Do you hear yourself?’ JD Vance shuts down Martha Raddatz over Venezuela migrant gangs](https://americanwirenews.com/do-you-hear-yourself-jd-vance-shuts-down-martha-raddatz-over-venezuela-migrant-gangs/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-5-220x180.jpg)](https://americanwirenews.com/david-sacks-warns-kamalas-in-trouble-has-entered-the-doom-loop/)
+
+[David Sacks warns Kamala’s in trouble, has entered the ‘doom loop’](https://americanwirenews.com/david-sacks-warns-kamalas-in-trouble-has-entered-the-doom-loop/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gretchplank-1200-x-628-220x180.jpg)](https://americanwirenews.com/gretchen-whitmer-issued-tepid-apology-for-mocking-catholics-in-perverse-doritos-video/)
+
+[Gretchen Whitmer issued tepid apology for mocking Catholics in perverse Doritos video](https://americanwirenews.com/gretchen-whitmer-issued-tepid-apology-for-mocking-catholics-in-perverse-doritos-video/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-women-for-trump-220x180.jpg)](https://americanwirenews.com/trump-to-do-fox-news-town-hall-with-all-female-audience-moderated-by-harris-faulkner/)
 
@@ -153,30 +181,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-biden-hurricane-1-220x180.jpg)](https://americanwirenews.com/biden-tells-president-trump-to-help-hurricane-victims-during-presser-then-snaps-at-reporter/)
 
 [Biden tells ‘President Trump’ to help hurricane victims during presser, then SNAPS at reporter](https://americanwirenews.com/biden-tells-president-trump-to-help-hurricane-victims-during-presser-then-snaps-at-reporter/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-sg-gov.-david-paterson-stepson-beating-split-220x180.jpg)](https://americanwirenews.com/ny-officials-accused-of-violent-attack-against-fmr-governor-and-stepson-claim-innocence-now-theres-video/)
-
-[NY officials accused of violent attack against fmr. Governor and stepson claim innocence. Now, there’s video…](https://americanwirenews.com/ny-officials-accused-of-violent-attack-against-fmr-governor-and-stepson-claim-innocence-now-theres-video/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dana-white-220x180.jpg)](https://americanwirenews.com/ufc-chief-dana-white-sounds-the-alarm-on-kamala-this-clip-should-scare-everyone/)
-
-[UFC chief Dana White sounds the alarm on Kamala: ‘This clip should scare EVERYONE’](https://americanwirenews.com/ufc-chief-dana-white-sounds-the-alarm-on-kamala-this-clip-should-scare-everyone/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-whitmerdorito11200-x-628-220x180.jpg)](https://americanwirenews.com/gov-whitmer-feeds-doritos-to-woman-on-her-knees-in-bizarre-video-catholics-demand-immediate-apology/)
-
-[Gov. Whitmer feeds Doritos to woman on her knees in BIZARRE video, Catholics demand immediate apology](https://americanwirenews.com/gov-whitmer-feeds-doritos-to-woman-on-her-knees-in-bizarre-video-catholics-demand-immediate-apology/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-4-220x180.jpg)](https://americanwirenews.com/harris-walz-slammed-for-mixed-messaging-on-electoral-college-they-lie-with-such-ease/)
-
-[Harris, Walz slammed for mixed messaging on Electoral College: ‘They lie with such ease’](https://americanwirenews.com/harris-walz-slammed-for-mixed-messaging-on-electoral-college-they-lie-with-such-ease/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-obama-diaper-220x180.jpg)](https://americanwirenews.com/obamas-unhinged-accusation-about-trump-wearing-diapers-backfires/)
-
-[Obama’s unhinged accusation about Trump wearing diapers backfires](https://americanwirenews.com/obamas-unhinged-accusation-about-trump-wearing-diapers-backfires/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-speech-220x180.jpg)](https://americanwirenews.com/vogue-plasters-kamala-harris-on-its-cover-for-pre-election-boost/)
-
-[Vogue plasters Kamala Harris on its cover for pre-election boost](https://americanwirenews.com/vogue-plasters-kamala-harris-on-its-cover-for-pre-election-boost/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
