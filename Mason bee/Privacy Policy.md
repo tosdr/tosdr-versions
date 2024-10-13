@@ -109,23 +109,23 @@ I am a New Zealander, living in France, who is interested in guitar, hiking, ope
 
 ### Related posts
 
-[![](https://tane.harre.nz/media/posts/684/responsive/freedom_of_thought-1-xs.jpg)](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
-
-#### [Data privacy allows for freedom of thought and speech](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
-
-07/05/2018
-
 [![](https://tane.harre.nz/media/posts/676/responsive/Privacy-Security-Freedom-1080x675-xs.png)](https://tane.harre.nz/privacy-is-a-limit-on-power/)
 
 #### [Privacy is a limit on power](https://tane.harre.nz/privacy-is-a-limit-on-power/)
 
 16/04/2018
 
-[![](https://tane.harre.nz/media/posts/687/responsive/Fake_News-xs.jpeg)](https://tane.harre.nz/does-trade-me-deserve-the-privacy-trust-mark/)
+[![](https://tane.harre.nz/media/posts/686/responsive/The_Privacy_Shop_banner-1080x496-xs.jpg)](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
 
-#### [Does Trade Me deserve the Privacy Trust Mark?](https://tane.harre.nz/does-trade-me-deserve-the-privacy-trust-mark/)
+#### [What is the cost of privacy online?](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
 
-13/05/2018
+12/05/2018
+
+[![](https://tane.harre.nz/media/posts/690/responsive/Eu-European-Union-Data-Regulation-Gdpr-3222692-xs.jpg)](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
+
+#### [GDPR Privacy Policy Overview for New Zealand](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
+
+24/05/2018
 
 Comments
 --------
@@ -171,8 +171,9 @@ Comments
 * [Grez Sur Loing](https://tane.harre.nz/tags/grez-sur-loing/) (2)
 * [Internet Party](https://tane.harre.nz/tags/internet-party/) (39)
 * [KDE](https://tane.harre.nz/tags/kde/) (1)
-* [Linux](https://tane.harre.nz/tags/linux/) (15)
+* [Linux](https://tane.harre.nz/tags/linux/) (16)
 * [Linux Mint](https://tane.harre.nz/tags/linux-mint/) (4)
+* [LMDE6](https://tane.harre.nz/tags/lmde6/) (1)
 * [New Zealand](https://tane.harre.nz/tags/new-zealand/) (34)
 * [Nextcloud](https://tane.harre.nz/tags/nextcloud/) (1)
 * [OMV6](https://tane.harre.nz/tags/omv6/) (1)
