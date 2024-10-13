@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I am finding FoxyProxy on the laptop quite fantastic.
+I used FoxyProxy on my recent trip to Australia (from the UK). Excellent product; I fully expect to use it on all future visits.
 
-Chris McRaib
+Jim Cooling
