@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-048e394681dc710c247add578d0e170f
+95591358af621f24b672c220ea56c11f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm round pink Czech glass beads](https://www.sojourner.biz/images/cache/glass/GL0321.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-round-pink-czech-glass-beads.html "8 mm round pink Czech glass beads")
+[![14 mm faceted round black onyx beads](https://www.sojourner.biz/images/cache/stone/ON0011.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/onyx/14-mm-faceted-round-black-onyx-beads.html "14 mm faceted round black onyx beads")
 
-#### [8 mm round pink Czech glass beads](https://www.sojourner.biz/beads/glass/8-mm-round-pink-czech-glass-beads.html "8 mm round pink Czech glass beads")
+#### [14 mm faceted round black onyx beads](https://www.sojourner.biz/beads/stone-m-z/onyx/14-mm-faceted-round-black-onyx-beads.html "14 mm faceted round black onyx beads")
 
-$4.00
+$46.00
 
 ### Best Sellers
 
