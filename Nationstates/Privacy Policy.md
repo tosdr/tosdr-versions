@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Guess AN's best ally (19)](https://forum.nationstates.net/viewtopic.php?t=556614&f=25&view=unread#unread ""Guess AN's best ally" (19 posts)")
-* [Who would YN support in a war Between… (158)](https://forum.nationstates.net/viewtopic.php?t=555012&f=25&view=unread#unread ""Who would YN support in a war Between AN and AAN" (158 posts)")
-* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (9,793)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (9,793 posts)")
-* [Come up with a funny rip off name for… (208)](https://forum.nationstates.net/viewtopic.php?t=555981&f=25&view=unread#unread ""Come up with a funny rip off name for the company AN chooses" (208 posts)")
-* [Who does YN's soldiers surrender to,… (36)](https://forum.nationstates.net/viewtopic.php?t=556517&f=25&view=unread#unread ""Who does YN's soldiers surrender to, AN or AAN?" (36 posts)")
+* [Ukrainian War VII: Everything has a p… (6,875)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (6,875 posts)")
+* [NS Cliches II: Re-Rebooted (9,835)](https://forum.nationstates.net/viewtopic.php?t=520417&f=25&view=unread#unread ""NS Cliches II: Re-Rebooted" (9,835 posts)")
+* [\[DRAFT\] Regarding Artificial Islands (4)](https://forum.nationstates.net/viewtopic.php?t=556748&f=9&view=unread#unread ""[DRAFT] Regarding Artificial Islands" (4 posts)")
+* [UK Politics Thread: Conservative Lead… (11,536)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,536 posts)")
+* [World Lacrosse Championships 44 - Eve… (18)](https://forum.nationstates.net/viewtopic.php?t=556610&f=7&view=unread#unread ""World Lacrosse Championships 44 - Everything Thread" (18 posts)")
 
 Advertisement
 
