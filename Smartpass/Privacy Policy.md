@@ -156,6 +156,10 @@ Hear from our Customers](https://www.smartpass.app/customers)
 
 Featured Success Stories
 
+[Berlin HS
+
+Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
+
 [Pinelands Regional HS
 
 Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-pinelands-reduced-students-cutting-class-by-60)
@@ -163,10 +167,6 @@ Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-p
 [Simmons MS
 
 Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
-
-[Berlin HS
-
-Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
 
 ![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
