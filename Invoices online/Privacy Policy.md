@@ -118,63 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Kobus Venter
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=146233222)  
-Nogana Events and Decor
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=168749116)  
+Turnkey Innovations
 
-![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=176436955)  
-PHESA TECHNOLOGY(PTY) LTD
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=106728665)  
+Lindani Protection Services & Projects
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=208891971)  
-Druce Digital
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=89129993)  
+BD Maintenance
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=136929374)  
-Henry's Home Renovations
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=190280497)  
-Kaylas Creations
-
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=70247156)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
-
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=1689258)  
-APTV Telecoms CC
-
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=152947621)  
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=56999696)  
 Depot Diesel (Pty) Ltd
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=127798170)  
-Lion Software Develepment
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=186985592)  
+Oak Tree Immigration
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=69683380)  
-SR Travel Services
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=93032445)  
+Kainos (Pty) Ltd
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=213755375)  
-Dr V Naik Consult
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=165972838)  
+webb it services
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=102429829)  
-Imhoff Equestrian Centre
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=55116317)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=27105287)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=104038538)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=200110528)  
-Meyer Towing & Recovery
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=136162202)  
+KTEN PARTS
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=80e3f06efbe7d2675fb8eda9cd43204c60260a8d76d745c6bef235b9c2e29cdb&c=73482873)  
-LEO DEVELOPMENT GROUP
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=133127795)  
+Chiron Medical Solutions
+
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=95094437)  
+Vplay Letsheng Mall
+
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=143934913)  
+Repairs In Motion
+
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=55389442)  
+VA AND M DEBT-AID (PTY) LTD
+
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=d788a051a0c7a6011a564108693578fb08719330535f1756e3c7fa697deb2d3c&c=152683798)  
+Cooper Power Cape Town (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
