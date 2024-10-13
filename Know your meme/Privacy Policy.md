@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Drinking Out of Cups](https://i.kym-cdn.com/featured_items/icons/wide/000/026/241/lizard.jpg "Happy Birthday To 'Drinkin' Outta Cups,' Now 18 Years Old")
+* [![The 'Gendo Pose' Is A Classic TV Trope That Goes By Many Names](https://i.kym-cdn.com/featured_items/icons/wide/000/026/258/gendoposecover.jpg "The Gendo Pose Blessed Our Screens 29 Years Ago On This Day")
     
-    Happy Birthday To 'Drinkin' Outta Cups,' Now 18 Years Old](https://knowyourmeme.com/memes/drinking-out-of-cups)
+    The Gendo Pose Blessed Our Screens 29 Years Ago On This Day](https://knowyourmeme.com/memes/the-gendo-pose)
     
-* [![You Know Things Are Gonna Be Bad When Minos Prime Wakes Up And Says His Speech](https://i.kym-cdn.com/featured_items/icons/wide/000/026/240/cover5.jpg "You Know Things Are Gonna Be Bad When Minos Prime Wakes Up And Says His Speech")
+* [![Shaggy Emerges as the Ultimate Ultra Instinct Character](https://i.kym-cdn.com/featured_items/icons/wide/000/026/257/271.png "7 Years Ago, 'Ultra Instinct Shaggy' Revealed His True Power")
     
-    You Know Things Are Gonna Be Bad When Minos Prime Wakes Up And Says His Speech](https://knowyourmeme.com/memes/ah-free-at-last-o-gabriel)
+    7 Years Ago, 'Ultra Instinct Shaggy' Revealed His True Power](https://knowyourmeme.com/memes/ultra-instinct-shaggy)
     
-* [!["The Muffin Song" Makes Its Way Onto TikTok](https://i.kym-cdn.com/featured_items/icons/wide/000/026/239/maxresdefault.jpg "On Its Ten Year Anniversary, The Original asdfmovie That The 'Muffin Song' Is From Is Now Age Restricted")
+* [![Phoenix Wright's 'Objection!'](https://i.kym-cdn.com/featured_items/icons/wide/000/026/256/OBJECTION!.jpg "'Phoenix Wright: Ace Attorney' Is 23 Years Old Today, And So Is The 'Objection!' Meme")
     
-    On Its Ten Year Anniversary, The Original asdfmovie That The 'Muffin Song' Is From Is Now Age Restricted](https://knowyourmeme.com/memes/the-muffin-song-i-baked-you-a-pie)
+    'Phoenix Wright: Ace Attorney' Is 23 Years Old Today, And So Is The 'Objection!' Meme](https://knowyourmeme.com/memes/objection)
     
-* [![Memes Have Everyone But Dexter As The Infamous 'Bay Harbor Butcher'](https://i.kym-cdn.com/featured_items/icons/wide/000/026/238/cover3.jpg "Memes Have Everyone But Dexter As The Infamous 'Bay Harbor Butcher'")
+* [![Bizarre Video Series Tells Viewers To Change Da World](https://i.kym-cdn.com/featured_items/icons/wide/000/026/255/maxresdefault_(1).jpg "Change Da World... My Final Message... Turns Six Today")
     
-    Memes Have Everyone But Dexter As The Infamous 'Bay Harbor Butcher'](https://knowyourmeme.com/memes/doakes-was-the-bay-harbor-butcher)
+    Change Da World... My Final Message... Turns Six Today](https://knowyourmeme.com/memes/change-da-world-my-final-message)
     
-* [![The Nintendo Alarmo refers to an alarm clock created by Nintendo and announced in 2024. The Alarmo was designed with Nintendo graphics, sounds and songs from popular games that the user could choose from to customize their alarm clock experience. In October 2024, Nintendo announced the Alarmo's release on social media platforms like Twitter / X and YouTube. It inspired viral memes and reactions upon its release. Many internet users and Nintendo fans joked about the price, which was roughly $100 USD, and the fact that Nintendo announced an alarm clock instead of something more coveted like the rumored Nintendo Switch 2.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/237/nintendo-alarmo.jpg "Nintendo Baited Everyone When They Made A 'Big Announcement' Yesterday That Turned Out To Be Alarmo")
+* [!['Migu' Stars In Hatsune Miku Redraw Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/254/migu.jpg "'Migu' Stars In Hatsune Miku Redraw Meme")
     
-    Nintendo Baited Everyone When They Made A 'Big Announcement' Yesterday That Turned Out To Be Alarmo](https://knowyourmeme.com/memes/subcultures/nintendo-alarmo)
+    'Migu' Stars In Hatsune Miku Redraw Meme](https://knowyourmeme.com/memes/omg-it-migu)
     
 
 ##### Also Trending:
 
-[Spiritual Successor To Disco Elysium](https://knowyourmeme.com/memes/spiritual-successor-to-disco-elysium "Spiritual Successor To Disco Elysium")
+[Game Freak Pokémon GigaLeaks](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks "Game Freak Pokémon GigaLeaks") [Skyla](https://knowyourmeme.com/memes/skyla "Skyla") [Spiritual Successor To Disco Elysium](https://knowyourmeme.com/memes/spiritual-successor-to-disco-elysium "Spiritual Successor To Disco Elysium")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Hey! You must login or signup first!
 
 |     |     |
 | --- | --- |
