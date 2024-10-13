@@ -1,8 +1,6 @@
 [WHY FILESTACK?](https://www.filestack.com/file-uploader-diy/) [BLOG](https://blog.filestack.com/) [SUPPORT](mailto:support@filestack.com)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://www.filestack.com/wp-content/uploads/2023/01/fs-logo.svg)](https://www.filestack.com/)
+[![](https://www.filestack.com/wp-content/uploads/2023/01/fs-logo.svg)](https://www.filestack.com/)
 
 * [PRODUCTS](https://www.filestack.com/products/file-upload/)
     * [Uploads](https://www.filestack.com/products/file-upload/)
