@@ -36,6 +36,9 @@
         
         Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/)
     
+    * [![Iranian hackers now exploit Windows flaw to elevate privileges](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Iranian hackers now exploit Windows flaw to elevate privileges](https://www.bleepingcomputer.com/news/security/oilrig-hackers-now-exploit-windows-flaw-to-elevate-privileges/)
     * [![Train to be a certified ethical hacker with this $50 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Train to be a certified ethical hacker with this $50 course bundle deal](https://www.bleepingcomputer.com/offer/deals/train-to-be-a-certified-ethical-hacker-with-this-50-course-bundle-deal/)
@@ -45,9 +48,6 @@
     * [![OpenAI confirms threat actors use ChatGPT to write malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         OpenAI confirms threat actors use ChatGPT to write malware](https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
-    * [![If you're looking for a job change, try this $40 cybersecurity bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        If you're looking for a job change, try this $40 cybersecurity bundle](https://www.bleepingcomputer.com/offer/deals/if-youre-looking-for-a-job-change-try-this-40-cybersecurity-bundle/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
