@@ -107,69 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
 
 New translation
 
-[Karolina Czarnecka - Biały Kucyk](https://lyricstranslate.com/en/karolina-czarnecka-bialy-kucyk-english)
+[Tegomass - マルイチカラ (Maruichikara)](https://lyricstranslate.com/en/tegomass-maruichikara-transliteration)
 
-Polish → English
+Japanese → Transliteration
 
-[![losko_prime](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/loskoprime "losko_prime")
-
-New song
-
-[RK (France) - Bae](https://lyricstranslate.com/en/rk-france-bae-lyrics)
-
-French
-
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New song
-
-[Klaudia Kowalik - Za daleko](https://lyricstranslate.com/en/klaudia-kowalik-za-daleko-lyrics)
-
-Polish
-
-[![cristiana](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1115952-1682087978.jpg)](https://lyricstranslate.com/en/translator/cristiana "cristiana")
-
-New vote
-
-[Să ne imaginăm](https://lyricstranslate.com/en/imagine-s%C4%83-ne-imagin%C4%83m.html)
-
-5
-
-[![marta90](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1261967-1567282100.jpg)](https://lyricstranslate.com/en/translator/marta90 "marta90")
-
-New request
-
-[Rosenstolz - Die Zigarette danach](https://lyricstranslate.com/en/request/die-zigarette-danach-0)
-
-German → Polish
-
-[![losko_prime](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/loskoprime "losko_prime")
-
-New song
-
-[RK (France) - Qui je suis](https://lyricstranslate.com/en/rk-france-qui-je-suis-lyrics)
-
-French
-
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New song
-
-[Klaudia Kowalik - Niemiłość](https://lyricstranslate.com/en/klaudia-kowalik-niemilosc-lyrics)
-
-Polish
-
-[![losko_prime](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/loskoprime "losko_prime")
+[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1726261869.jpg)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
 
 New translation
 
-[Gims - Belle](https://lyricstranslate.com/en/gims-belle-italian)
+[Minako Sawamura - パンプキン・ラブ (Pumpkin Love)](https://lyricstranslate.com/en/minako-sawamura-pumpkin-love-transliteration)
 
-French → Italian
+Japanese → Transliteration
+
+[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1726261869.jpg)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
+
+New song
+
+[Yoshimi Iwasaki - BAD BOY](https://lyricstranslate.com/en/yoshimi-iwasaki-bad-boy-lyrics)
+
+English
+
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+
+New song
+
+[Kevin - Ter Zake](https://lyricstranslate.com/en/kevin-ter-zake-lyrics)
+
+Dutch
+
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
+
+New translation
+
+[Tegomass - ヒカリ (Hikari)](https://lyricstranslate.com/en/tegomass-hikari-transliteration)
+
+Japanese → Transliteration
+
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
+
+New translation
+
+[NEWS (Japan) - 星の旅人たち (Hoshi no tabibitotachi)](https://lyricstranslate.com/en/news-japan-hoshi-no-tabibitotachi-transliteration)
+
+Japanese → Transliteration
+
+[![Pyno](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600560-1714483876.png)](https://lyricstranslate.com/en/translator/pyno "Pyno")
+
+New song
+
+[Saving Bikini Bottom: The Sandy Cheeks Movie (OST) - Sandy Cheeks Theme](https://lyricstranslate.com/en/saving-bikini-bottom-sandy-cheeks-theme-lyrics)
+
+English
+
+[![Valeriu Raut](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1118259-1658638924.jpg)](https://lyricstranslate.com/en/translator/valeriu-raut "Valeriu Raut")
+
+New song
+
+[Bruno K. Öijer - Ett Regn I Regnet](https://lyricstranslate.com/en/bruno-k-oijer-ett-regn-i-regnet-lyrics)
+
+Swedish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
