@@ -214,45 +214,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Foxconn continuously looks for ways to integrate advances into the design and manufacturing of smart consumer electronics, cloud and networking equipment, computing devices and components, among others. We are pleased to join the Open Invention Network and support its role in protecting open source.
+> Open source technology, especially Linux, drives innovation in areas that are critical to the customers that we serve, including technologies such as servers, storage, cloud, converged applications, big data and IoT. By joining Open Invention Network, we are demonstrating our continued commitment to open source technology, and supporting it with patent non-aggression in Linux.  
 
-Mick LimDirector, Foxconn IP Affairs Division
+Norihiro SuzukiVice President and Executive Officer - CTOHitachi
 
-> Improving little by little every day is not just a slogan for Great Wall Motor. We believe in daily advances in our in-vehicle systems to improve our customers’ overall driving experience. Harnessing the benefits inherent in open source software to help do so completely aligns with our goals. By joining OIN, we are demonstrating our commitment to open source software, and supporting it with a pledge of patent non-aggression.  
+> We see incredible value in the Free and Open Source Software (FOSS) communities. Our work in collecting, preserving and making source code available to developers, academics and government entities, will enable developers to continue to innovate. We are very pleased for OIN’s sponsorship and its support in maintaining the technical and scientific knowledge that may be lost without preservation and may be further useful to developers from an intellectual property perspective.  
 
-Xiaozu WangHead of Intellectual PropertyGreat Wall Motor Company Limited
+Roberto Di CosmoFounder & CEOSoftware Heritage
 
-> At Bareos GmbH & Co. KG, we believe in the power of open source to drive innovation and progress. Joining the Open Invention Network aligns with our commitment to create a collaborative and secure environment for the open-source community. We look forward to contributing to and benefiting from this global network of like-minded organizations.
+> Linux Defenders is dedicated to protecting the Linux and the broader open-source community from poor-quality patents, through prior art activities and patent claim scope reduction.  
 
-Stephan DührManaging Director, Bareos GmbH & Co. KG
+Keith BergeltCEOOpen Invention Network
+
+> Global adoption of Linux and other open source technologies is an irreversible trend. For the last 15 years, they have transformed almost every industry. By sharing innovation, Linux and open source capabilities have soared, application interoperability is unprecedented, connectivity is virtually everywhere, while business and consumer productivity are at all-time highs. By blocking patent aggression in open source, OIN has enabled safer investments in product development and helped to enable th… [Read more](https://openinventionnetwork.com/testimonial/nec-and-necam/ "Complete testimonial by Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM")
+
+Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM
 
 > Over its 21 years existence, OVHcloud has developed a strong vision on how innovation is critical to empower cloud users with a relentless effort on open source and open standards. Joining OIN is a strong asset to keep on developing our open innovation roadmap and taking it to the community.  
 
 Miroslaw KlabaCo-founder & VP of EngineeringOVHcloud
 
-> For us, joining OIN is a statement. Linux has given MTU added value that can’t be expressed in euros. We have powerful software available for designing, configuring, and producing engines and for fleet management. One especially valuable aspect is the freedom to continuously further develop and refine perfectly tailored tools and methods to design and configure our high-tech products ourselves.  
+> We believe the protection OIN offers the open source community helps increase global contributions to and adoption of open source technologies. We are honored to stand with OIN as an active participant in its program to protect against patent aggression in core Linux and other important OSS technologies.  
 
-Nadia ZerelliHead of Engineering Systems, MTU Aero Engines
+Erich AndersenCorporate Vice President and Chief IP CounselMicrosoft
 
-> Openness and sharing are the sources of innovation. Alibaba is excited to join Open Invention Network and share our cutting edge innovations with industry leaders.  
+> The OpenChain Project is part of a broad global community engaging with all aspects of intellectual property around open source.  
 
-Jiangwei JiangAlgorithm EngineerAlibaba Cloud Computing
+Shane CoughlanProgram ManagerOpenChain Project
 
-> We look forward to participating in the Open Invention Network. Many of the services and apps that our customers depend on every day have been developed using open source software and we look forward to helping safeguard its future.  
+> We see incredible value in the Free and Open Source Software (FOSS) communities. Our work in collecting, preserving and making source code available to developers, academics and government entities, will enable developers to continue to innovate. We are very pleased for OIN’s sponsorship and its support in maintaining the technical and scientific knowledge that may be lost without preservation and may be further useful to developers from an intellectual property perspective.  
 
-Luke IbbetsonHead of Group R&DVodaphone
+Robert DiCosmoFounder & CEOSoftware Heritage
 
-> For some time, Groupe Renault has invested in developing the innovations and technologies that will enable sustainable transportation that excels in urban and rural environments and brings connected services in the vehicle. With our rapid pace of development coupled with our passion for precision, quality and interoperability, we see leveraging open source software as an important part of our strategy.  
+> Our stated mission is “Enabling Leading-Edge Technologies” and continuously improving ourselves so that we can offer products and services that satisfy our customers worldwide and contribute to the development of our society through the development of the most advanced technologies. In order to further promote this effort, we believe that the utilization of open source software will be essential. Open source platforms enable the rapid deployment of advanced computing and testing solutions. W… [Read more](https://openinventionnetwork.com/testimonial/advantest/ "Complete testimonial by Koichi Tsukui")
 
-Groupe Renault
+Koichi TsukuiChief Technology Officer, Advantest
 
-> Since its inception 15 years ago, OIN has provided unprecedented protection to enable the incredible growth and adoption of Linux and other related open source software around the world. As the OIN community has grown to over 3,000 members and the Linux definition has matured, that protection has only grown stronger. IBM and Red Hat have been two of the leading proponents and drivers of Linux and open source software for over 20 years and have been founding members of OIN since its inception.… [Read more](https://openinventionnetwork.com/testimonial/ken-king-openpower-ibm/ "Complete testimonial by Ken King")
+> _We remain focused on integrating the best technologies in our payment networks, which help to deliver services that our banks’ customers value and trust. We enable all financial institutions to offer safer, faster, and smarter digital transaction services and open source is a significant innovation driver in these offerings. We are pleased to join the Open Invention Network and support its role in protecting open source software._
 
-Ken KingGeneral ManagerOpenPower at IBM
-
-> As a global leader in open source, SUSE enables innovation from the largest data centers in the world to cloud environments, and our technology is embedded in every day devices like cars, points of sale and MRIs. Open source infrastructure is the power behind the cloud and digital transformation, and our customers rely on us for mission critical business outcomes and for innovation. As a leader in bringing open source solutions to enterprises, including enterprise Linux, we see firsthand why … [Read more](https://openinventionnetwork.com/testimonial/thomas-di-giacomo-suse/ "Complete testimonial by Thomas Di Giacomo")
-
-Thomas Di GiacomoPresident of Engineering & InnovationSUSE
+Sean ReillySVP & Associate General Counsel, The Clearing House
 
 [![Open Invention Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201373%20172'%3E%3C/svg%3E)
 
@@ -268,7 +268,7 @@ Your Name\*
 
 Email\*
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
