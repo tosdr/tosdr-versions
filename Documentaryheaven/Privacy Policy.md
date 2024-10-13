@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Doctor, the Depleted Uranium, and the Dying Children](/wp-content/thumbnails/2642-100x70.jpg?x53432)
+* [![Operation InfeKtion: How Russia Perfected the Art of War](/wp-content/thumbnails/14400-100x70.jpg?x53432)
     
-    The Doctor, the Depleted Uranium, and the Dying Children
+    Operation InfeKtion: How Russia Perfected the Art of War
     
-    An award winning documentary film produced for German television by Freider Wagner and Valentin Thurn. The film exposes the use and impact of radioactive weapons during the current war against Iraq.](https://documentaryheaven.com/the-doctor-the-depleted-uranium-and-the-dying-children/ "The Doctor, the Depleted Uranium, and the Dying Children")
-* [![No Laughing Matter: Inside the Bill Cosby Allegations](/wp-content/thumbnails/10545-100x70.jpg?x53432)
+    The thing about a virus is that it doesn't destroy you head on but rather brings you down from the inside, turning your own cells against you. This story is about a virus, a virus created five decades](https://documentaryheaven.com/operation-infektion-how-russia-perfected-art-of-war/ "Operation InfeKtion: How Russia Perfected the Art of War")
+* [![Pig Business](/wp-content/thumbnails/5576-100x70.jpg?x53432)
     
-    No Laughing Matter: Inside the Bill Cosby Allegations
+    Pig Business
     
-    In the fall 2014, Bill Cosby was re-staking his claim as an A-list celebrity at the age of 77, he was staring right into the eyes of a career rejuvenation and 30 years after his NBC blockbuster series](https://documentaryheaven.com/no-laughing-matter/ "No Laughing Matter: Inside the Bill Cosby Allegations")
-* [![City of Dogs](/wp-content/thumbnails/8924-100x70.jpg?x53432)
+    Pig Business is Big Business. This film documentary investigates the rise of factory pig farming, a system which abuses animals, pollutes the environment, threatens human health through dangerous ov](https://documentaryheaven.com/pig-business/ "Pig Business")
+* [![Jay-Z and Linkin Park: Collision Course Documentary](/wp-content/thumbnails/6339-100x70.jpg?x53432)
     
-    City of Dogs
+    Jay-Z and Linkin Park: Collision Course Documentary
     
-    In this first episode of Louis Theroux's LA Stories, "City of Dogs" he heads to South LA on a journey through the outer edges of  canine companionship to discover how and why hundreds o](https://documentaryheaven.com/city-of-dogs/ "City of Dogs")
-* [![The Marvellous World of Roald Dahl](/wp-content/thumbnails/12594-100x70.jpg?x53432)
+    The first question everyone asks about Collision Course is “Is this album more Jay-Z or Linkin Park?”The wrong answer is that it’s Jay-Z with a loud band or a back-and-forth of covers where one re](https://documentaryheaven.com/jay-z-and-linkin-park-collision-course-documentary/ "Jay-Z and Linkin Park: Collision Course Documentary")
+* [![Where The Wild Coffee Grows](/wp-content/thumbnails/7525-100x70.jpg?x53432)
     
-    The Marvellous World of Roald Dahl
+    Where The Wild Coffee Grows
     
-    Roald Dahl is probably best known for having written a vast collection of award winning children's novels / short stories, most notably The BFG, Matilda, Charlie and the Chocolate Facto](https://documentaryheaven.com/marvellous-world-of-roald-dahl/ "The Marvellous World of Roald Dahl")
-* [![One Night in Vegas](/wp-content/thumbnails/9846-100x70.jpg?x53432)
+    Starbucks and coffee drinkers globally love the green beans which grow in the wild remote altitudes of East Timor.Since it was a Portuguese colony – organic coffee have been cultivated for centuri](https://documentaryheaven.com/where-wild-coffee-grows/ "Where The Wild Coffee Grows")
+* [![The Alternativity](/wp-content/thumbnails/13745-100x70.jpg?x53432)
     
-    One Night in Vegas
+    The Alternativity
     
-    On September 7th of 1996, the WBC heavyweight champion, Mike Tyson, set about stripping Bruce Seldon of his WBA title at the MGM Grand in Las Vegas. Tyson at this point was a true cultural phenom](https://documentaryheaven.com/one-night-in-vegas/ "One Night in Vegas")
+    The Alternativity is a story which takes us to the city of Bethlehem, world capital of the international Jesus Christ birthday business and this year Bethlehem became home to a very unique h](https://documentaryheaven.com/alternativity/ "The Alternativity")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
