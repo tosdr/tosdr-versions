@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Biden Announces $612 Million in Electric Grid, Energy Funds During Florida Visit After Hurricane Milton](https://www.theepochtimes.com/us/biden-announces-612-million-in-electric-grid-energy-funds-during-florida-hurricane-visit-5740550)
+* [Mask Mandates Set to Return in Several California Areas: What We Know](https://www.theepochtimes.com/health/mask-mandates-set-to-return-in-several-california-areas-what-we-know-5740630)
     
-    NEW By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Biden Announces $612 Million in Electric Grid, Energy Funds During Florida Visit After Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Mask Mandates Set to Return in Several California Areas: What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Announces $612 Million in Electric Grid, Energy Funds During Florida Visit After Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740558-Biden-visits-Florida-Hurricane-Milton-GettyImages-2177496972-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-announces-612-million-in-electric-grid-energy-funds-during-florida-hurricane-visit-5740550)
+    ![Mask Mandates Set to Return in Several California Areas: What We Know](https://img.theepochtimes.com/assets/uploads/2023/08/22/id5478759-EpochImages-9193431748-xl-205x123.jpg.webp)](https://www.theepochtimes.com/health/mask-mandates-set-to-return-in-several-california-areas-what-we-know-5740630)
+* [Shen Yun Mid-Autumn Festival Technique Showcase | Premiering Oct. 17, 8 PM ET on GanJingWorld.com](https://www.theepochtimes.com/epochtv/shen-yun-mid-autumn-festival-technique-showcase-premiering-oct-17-8-pm-et-on-ganjingworld-com-5740495)
+    
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Shen Yun Mid-Autumn Festival Technique Showcase | Premiering Oct. 17, 8 PM ET on GanJingWorld.com](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Shen Yun Mid-Autumn Festival Technique Showcase | Premiering Oct. 17, 8 PM ET on GanJingWorld.com](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740688-Shen-Yun-Technique-Show-Case-1920x1080-1013-205x123.jpg.webp)](https://www.theepochtimes.com/epochtv/shen-yun-mid-autumn-festival-technique-showcase-premiering-oct-17-8-pm-et-on-ganjingworld-com-5740495)
+* [Tampa Bay Area Officials Request Feds Merge Helene and Milton Into One Disaster](https://www.theepochtimes.com/us/tampa-bay-area-officials-request-feds-merge-helene-and-milton-into-one-disaster-5740612)
+    
+    1hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![Tampa Bay Area Officials Request Feds Merge Helene and Milton Into One Disaster](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Tampa Bay Area Officials Request Feds Merge Helene and Milton Into One Disaster](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737204-GettyImages-2176521121-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/tampa-bay-area-officials-request-feds-merge-helene-and-milton-into-one-disaster-5740612)
+* [Pentagon to Send Advanced Missile Defense System and Troops to Israel](https://www.theepochtimes.com/world/pentagon-to-send-advanced-missile-defense-system-and-troops-to-israel-5740605)
+    
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Pentagon to Send Advanced Missile Defense System and Troops to Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pentagon to Send Advanced Missile Defense System and Troops to Israel](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740677-170730-usnews-thaad-test-mda-0628_32c956a27a864f4968b0077ea97f0f3b.nbcnews-ux-2880-1000-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/pentagon-to-send-advanced-missile-defense-system-and-troops-to-israel-5740605)
+* [Trump Appears to Confirm He’ll Appear on Joe Rogan’s Podcast](https://www.theepochtimes.com/us/trump-appears-to-confirm-hell-appear-on-joe-rogans-podcast-5740577)
+    
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Trump Appears to Confirm He’ll Appear on Joe Rogan’s Podcast](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Appears to Confirm He’ll Appear on Joe Rogan’s Podcast](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740640-Trump_Rogan-rogan-trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-appears-to-confirm-hell-appear-on-joe-rogans-podcast-5740577)
+* [Where Trump and Harris Stand on China Policies](https://www.theepochtimes.com/article/where-trump-and-harris-stand-on-china-policies-5714211)
+    
+    4hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu) and [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
+    
+    [![Where Trump and Harris Stand on China Policies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Where Trump and Harris Stand on China Policies](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740403-lead_v8_harris2-205x123.jpg.webp)](https://www.theepochtimes.com/article/where-trump-and-harris-stand-on-china-policies-5714211)
+* [Armed Man Who Allegedly Said He Wanted to ‘Kill the President’ Arrested Outside Trump Rally](https://www.theepochtimes.com/us/armed-man-who-allegedly-said-he-wanted-to-kill-the-president-arrested-outside-trump-rally-5740578)
+    
+    5hr By [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
+    
+    [![Armed Man Who Allegedly Said He Wanted to ‘Kill the President’ Arrested Outside Trump Rally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Armed Man Who Allegedly Said He Wanted to ‘Kill the President’ Arrested Outside Trump Rally](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740672-Trump-rally-California-GettyImages-2178152051-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/armed-man-who-allegedly-said-he-wanted-to-kill-the-president-arrested-outside-trump-rally-5740578)
+* [What to Eat to Improve Brains Function](https://www.theepochtimes.com/health/what-to-eat-to-improve-brains-function-5728500)
+    
+    5hr By [Zena le Roux](https://www.theepochtimes.com/author/zena-le-roux)
+    
+    [![What to Eat to Improve Brains Function](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![What to Eat to Improve Brains Function](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737278-shutterstock_2222459569-e1728853298495-205x123.jpg.webp)](https://www.theepochtimes.com/health/what-to-eat-to-improve-brains-function-5728500)
+* [Biden Announces $612 Million in Electric Grid, Energy Funds During Post-Hurricane Florida Visit](https://www.theepochtimes.com/us/biden-announces-612-million-in-electric-grid-energy-funds-during-florida-hurricane-visit-5740550)
+    
+    7hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Biden Announces $612 Million in Electric Grid, Energy Funds During Post-Hurricane Florida Visit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Announces $612 Million in Electric Grid, Energy Funds During Post-Hurricane Florida Visit](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740619-GettyImages-2177513081-florida-biden-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-announces-612-million-in-electric-grid-energy-funds-during-florida-hurricane-visit-5740550)
 * [Social Security Administration Warns Beneficiaries About COLA Scam](https://www.theepochtimes.com/us/social-security-administration-warns-beneficiaries-about-cola-scam-5740536)
     
-    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    7hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Social Security Administration Warns Beneficiaries About COLA Scam](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Social Security Administration Warns Beneficiaries About COLA Scam](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706447-Social-Security-card-GettyImages-1346574953-205x123.jpg.webp)](https://www.theepochtimes.com/us/social-security-administration-warns-beneficiaries-about-cola-scam-5740536)
-* [Autism: Rates Have Nearly Tripled in 20 Years, 3 Main Causative Factors](https://www.theepochtimes.com/health/autism-spectrum-disorder-symptoms-causes-treatments-and-natural-approaches-5737061)
-    
-    2hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
-    
-    [![Autism: Rates Have Nearly Tripled in 20 Years, 3 Main Causative Factors](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Autism: Rates Have Nearly Tripled in 20 Years, 3 Main Causative Factors](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740380-autism-feature-3-1-205x123.jpg.webp)](https://www.theepochtimes.com/health/autism-spectrum-disorder-symptoms-causes-treatments-and-natural-approaches-5737061)
-* [3 Florida Sites Offer Free Fuel Amid Hurricane Shortages, More to Open](https://www.theepochtimes.com/us/3-florida-sites-offer-free-fuel-amid-hurricane-shortages-more-to-open-5740472)
-    
-    16hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![3 Florida Sites Offer Free Fuel Amid Hurricane Shortages, More to Open](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![3 Florida Sites Offer Free Fuel Amid Hurricane Shortages, More to Open](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740554-GettyImages-2177088317-florida-gas-205x123.jpg.webp)](https://www.theepochtimes.com/us/3-florida-sites-offer-free-fuel-amid-hurricane-shortages-more-to-open-5740472)
-* [Floridians Continue Recovery, Damage Assessment After Milton](https://www.theepochtimes.com/us/floridians-continue-recovery-damage-assessment-after-milton-5740337)
-    
-    16hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Floridians Continue Recovery, Damage Assessment After Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Floridians Continue Recovery, Damage Assessment After Milton](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740538-siestakeybeach-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/floridians-continue-recovery-damage-assessment-after-milton-5740337)
-* [Home Prep Guide: What You Need to Last 2 Weeks in an Emergency](https://www.theepochtimes.com/article/a-guide-to-home-preparedness-5740113)
-    
-    18hr By [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
-    
-    [![Home Prep Guide: What You Need to Last 2 Weeks in an Emergency](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Home Prep Guide: What You Need to Last 2 Weeks in an Emergency](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740427-Prep-Guide-Lead-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/a-guide-to-home-preparedness-5740113)
-* [Day in Photos: Railway Collision, Record-Large Lesson, and World Twins Day](https://www.theepochtimes.com/article/day-in-photos-railway-collision-record-large-lesson-and-world-twins-day-5740401)
-    
-    18hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Railway Collision, Record-Large Lesson, and World Twins Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Railway Collision, Record-Large Lesson, and World Twins Day](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740452-Lead-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-railway-collision-record-large-lesson-and-world-twins-day-5740401)
-* [Michigan Republicans Win Election Integrity Lawsuit Over Number of Poll Workers](https://www.theepochtimes.com/us/michigan-republicans-win-election-integrity-lawsuit-over-number-of-poll-workers-5740371)
-    
-    19hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
-    
-    [![Michigan Republicans Win Election Integrity Lawsuit Over Number of Poll Workers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Michigan Republicans Win Election Integrity Lawsuit Over Number of Poll Workers](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740540-Detroit-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/michigan-republicans-win-election-integrity-lawsuit-over-number-of-poll-workers-5740371)
-* [Federal Appeals Court Upholds Ruling Against Alabama’s Mail-In Ballot Assistance Restrictions](https://www.theepochtimes.com/us/federal-appeals-court-upholds-ruling-against-alabamas-mail-in-ballot-assistance-restrictions-5740376)
-    
-    21hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Federal Appeals Court Upholds Ruling Against Alabama’s Mail-In Ballot Assistance Restrictions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Appeals Court Upholds Ruling Against Alabama’s Mail-In Ballot Assistance Restrictions](https://img.theepochtimes.com/assets/uploads/2024/03/20/id5611384-GettyImages-2054042827-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-appeals-court-upholds-ruling-against-alabamas-mail-in-ballot-assistance-restrictions-5740376)
-* [Joining NATO Is Stumbling Block in Ukraine’s ‘Victory Plan’](https://www.theepochtimes.com/world/joining-nato-is-stumbling-block-in-ukraines-victory-plan-5739859)
-    
-    21hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
-    
-    [![Joining NATO Is Stumbling Block in Ukraine’s ‘Victory Plan’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Joining NATO Is Stumbling Block in Ukraine’s ‘Victory Plan’](https://img.theepochtimes.com/assets/uploads/2024/03/10/id5604545-GettyImages-1252010756-small-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/joining-nato-is-stumbling-block-in-ukraines-victory-plan-5739859)
+    ![Social Security Administration Warns Beneficiaries About COLA Scam](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740616-Social-Security-card-GettyImages-1346574953-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/social-security-administration-warns-beneficiaries-about-cola-scam-5740536)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
