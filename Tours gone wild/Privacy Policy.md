@@ -20,9 +20,7 @@ Above Header
 
 [+1-786-522-3667](tel:+1-786-522-3667) [+44 20 33719356](tel:+44 20 33719356)
 
-[![TGW Travel Group](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20223%2051'%3E%3C/svg%3E)
-
-![TGW Travel Group](https://toursgonewild.com/wp-content/uploads/2020/06/tgw-travel.png)](https://toursgonewild.com/)
+[![TGW Travel Group](https://toursgonewild.com/wp-content/uploads/2020/06/tgw-travel.png)](https://toursgonewild.com/)
 
 Main Menu
 
@@ -110,9 +108,7 @@ Above Header
 
 [+1-786-522-3667](tel:+1-786-522-3667) [+44 20 33719356](tel:+44 20 33719356)
 
-[![TGW Travel Group](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20223%2051'%3E%3C/svg%3E)
-
-![TGW Travel Group](https://toursgonewild.com/wp-content/uploads/2020/06/tgw-travel.png)](https://toursgonewild.com/)
+[![TGW Travel Group](https://toursgonewild.com/wp-content/uploads/2020/06/tgw-travel.png)](https://toursgonewild.com/)
 
 Main Menu
 
