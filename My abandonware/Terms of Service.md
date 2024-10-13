@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Alien Syndrome](https://www.myabandonware.com/game/alien-syndrome-l2)
+* [Ashita no Joe Densetsu](https://www.myabandonware.com/game/ashita-no-joe-densetsu-jxn)
 * [Amidar](https://www.myabandonware.com/game/amidar-hcj)
 * [Robix](https://www.myabandonware.com/game/robix-sta)
 * [Reptalia](https://www.myabandonware.com/game/reptalia-st9)
-* [Skins Game](https://www.myabandonware.com/game/skins-game-st4)
-* [Star Raker](https://www.myabandonware.com/game/star-raker-st3)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
