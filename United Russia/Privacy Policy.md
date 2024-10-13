@@ -305,7 +305,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#Деньработникасельскогохозяйства](https://er.ru/activity/news?tags%5B0%5D=1092253)
 
-Сегодня 09:00
+13.10.24
 
 [![Добровольцами в зону СВО отправились 12 активистов «Молодой Гвардии Единой России» и «Волонтерской Роты»](https://cdn.er.ru/media/news/October2024/x3WHIsdoszA2tepYPmYU-small.jpeg)](https://er.ru/activity/news/dobrovolcami-v-zonu-svo-otpravilis-12-aktivistov-molodoj-gvardii-edinoj-rossii-i-volonterskoj-roty)
 
