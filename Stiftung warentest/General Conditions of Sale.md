@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
+* [Xperion Berlin: Gaming-Location für Kinder ab zwölf](https://www.test.de/Xperion-Berlin-Gaming-Location-fuer-Kinder-ab-zwoelf-5989107-0/ "Xperion Berlin - Gaming-Location für Kinder ab zwölf")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
 
 Service Stiftung Warentest
 
