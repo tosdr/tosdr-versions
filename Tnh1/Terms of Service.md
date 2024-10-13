@@ -198,23 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/9/csm_Nadal_b2d5329c1e.jpg)
-
-Esporte
-
-Esporte
-
-Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal
-
-Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal](https://www.tnh1.com.br/noticia/nid/sindrome-de-mueller-weiss-entenda-o-que-e-a-doenca-que-afeta-nadal-1/ "Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal")[![Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/5/csm_Casamento_-_foto_Pixabay_e3f3075af7.jpg)
-
-indenização
-
-indenização
-
-Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa
-
-Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa](https://www.tnh1.com.br/noticia/nid/homem-que-largou-casamento-apos-6-dias-tera-que-pagar-r-50-mil-por-festa/ "Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa")[![Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_csm_rei-charles-instagram-clarencehouse_6a258ceb34_5a9cbf82dc.jpg)
+[![Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_csm_rei-charles-instagram-clarencehouse_6a258ceb34_5a9cbf82dc.jpg)
 
 Família Real
 
@@ -222,15 +206,31 @@ Família Real
 
 Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer
 
-Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer](https://www.tnh1.com.br/noticia/nid/rei-charles-dispensa-homeopata-e-tera-dois-medicos-de-plantao-em-primeira-grande-viagem-apos-diagnostico-de-cancer/ "Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer")[![Idosa é presa durante festa de aniversário de 70 anos por estuprar afilhado ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/d/csm_idosa-presa-rj-abuso-afilhado-reproducao_5f4f5773a4.jpg)
+Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer](https://www.tnh1.com.br/noticia/nid/rei-charles-dispensa-homeopata-e-tera-dois-medicos-de-plantao-em-primeira-grande-viagem-apos-diagnostico-de-cancer/ "Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer")[![Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/a/csm_Gustavo_Nicola_-_foto_Allan_Max_-_ASCOM_CSA_35e39fc782.jpg)
 
-NO RJ
+gustavo nicola
 
-NO RJ
+gustavo nicola
 
-Idosa é presa durante festa de aniversário de 70 anos por estuprar afilhado
+Meio-campista do CSA é suspenso após exame antidoping no ex-clube
 
-Idosa é presa durante festa de aniversário de 70 anos por estuprar afilhado](https://www.tnh1.com.br/noticia/nid/idosa-e-presa-durante-festa-de-aniversario-de-70-anos-por-estuprar-afilhado/ "Idosa é presa durante festa de aniversário de 70 anos por estuprar afilhado ")
+Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://www.tnh1.com.br/noticia/nid/meio-campista-do-csa-e-suspenso-apos-exame-antidoping-no-ex-clube/ "Meio-campista do CSA é suspenso após exame antidoping no ex-clube")[![Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/9/csm_Vitimas_de_acidente_com_helicoptero_do_Corpo_de_Bombeiros_em_Minas_Gerais_ef222f1a61.jpg)
+
+ouro preto
+
+ouro preto
+
+Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto
+
+Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://www.tnh1.com.br/noticia/nid/acidente-de-helicoptero-governo-de-mg-divulga-nomes-das-vitimas-e-decreta-luto/ "Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto")[![Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_11045bcc20.jpg)
+
+Polícia
+
+Polícia
+
+Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes
+
+Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/homens-armados-invadem-casa-e-matam-dois-jovens-a-tiros-no-benedito-bentes/ "Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes")
 
 [![Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_Mae_alerta_sobre_como_vape_contribuiu_para_morte_de_filho_aos_20_anos_apos_infeccao_-_foto_Divulgacao_22fe9db73b.jpg)
 
