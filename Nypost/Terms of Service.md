@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Election Latest
-
-[Kamala Harris mingled with Tehran regime operative who promotes terrorism](https://nypost.com/2024/10/12/us-news/kamala-harris-mingled-with-iranian-regime-operative/)
-
 Terms Of Use
 ============
 
