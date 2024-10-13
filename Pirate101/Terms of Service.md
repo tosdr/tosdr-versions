@@ -225,7 +225,7 @@ The terms related to protection of the Company’s intellectual property rights,
   
 The Company’s failure to insist upon or enforce strict performance of any provision of these Terms of Use shall not constitute a waiver of the provision. Neither a course of dealing or conduct between you and the Company nor any trade practices shall be deemed to modify these Terms of Use.
 
-[](https://www.pirate101.com/autologin/free_game?jsessionid=zAguE4v4wd4nQhRMh741wQCIkVubx1gBMtbo8ekrc324zTzpI06Kn%2BAZzxcckpNMOAtYtkYDNxaLfaq5NuyyW6ebNHxCIwAGcYtqjFsXqJGkwEt80j0muUkZgLd8H1Sp)
+[](https://www.pirate101.com/autologin/free_game?jsessionid=1mi9uQhGmRgV5hKurKhTZUZAAHqZI8Fm5CacvvJMJhf4RrP7noWVS0XGmsL3yn0J9idOgO83y4cb9zkgZhu8iy3%2Fwg895PZALOT5tcEu%2B4dCOLUfKUXKrEzRYRjyosXY)
 
 * [Free Online Games](https://www.wizard101.com/)
     * [Free to Play Wizard101](https://www.wizard101.com/)
