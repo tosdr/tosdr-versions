@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Do not train a child to learn by force or harshness; but direct them to it by what amuses their minds, so that you may be better able to discover with accuracy the peculiar bent of the genius of each”
+“ Confusion and clutter are the failure of design, not the attributes of information”
 
-[Plato](http://en.wikipedia.org/wiki/Plato)
+[Edward Tufte](http://en.wikipedia.org/wiki/Edward_Tufte)
 
 [](https://www.adafruit.com/about)
 
