@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (28)](https://forum.nationstates.net/viewtopic.php?t=556127&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - IC" (28 posts)")
-* [Is AN or AAN more well known/Famous? (800)](https://forum.nationstates.net/viewtopic.php?t=554643&f=25&view=unread#unread ""Is AN or AAN more well known/Famous?" (800 posts)")
-* [Copa Rushmori XLVII - Sign-Up/OOC Thr… (28)](https://forum.nationstates.net/viewtopic.php?t=556442&f=7&view=unread#unread ""Copa Rushmori XLVII - Sign-Up/OOC Thread (ONLY Rushmore)" (28 posts)")
-* [Transformers: Electric Trepidation (9,375)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (9,375 posts)")
-* [American Politics: The Last Month (11,865)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: The Last Month" (11,865 posts)")
+* [What real-world nation, if any, inspi… (151)](https://forum.nationstates.net/viewtopic.php?t=545952&f=23&view=unread#unread ""What real-world nation, if any, inspired yours?" (151 posts)")
+* [What triggers you about the AN? (9,216)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (9,216 posts)")
+* [The Collective Security League Assemb… (246)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (246 posts)")
+* [Internal and International Incidents… (4,477)](https://forum.nationstates.net/viewtopic.php?t=525784&f=5&view=unread#unread ""Internal and International Incidents [OOC • OPEN]" (4,477 posts)")
+* [How do you imagine the player above y… (2,136)](https://forum.nationstates.net/viewtopic.php?t=539223&f=25&view=unread#unread ""How do you imagine the player above you in real life?" (2,136 posts)")
 
 Advertisement
 
