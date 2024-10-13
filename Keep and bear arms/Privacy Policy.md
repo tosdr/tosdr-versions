@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 659 active visitors** | **Sunday, October 13, 2024** |
+| **You are 1 of 1196 active visitors** | **Sunday, October 13, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**Americans who value freedom had better be more concerned about the gun control crowd than the criminals. The criminals want your money. The Neo-Totalitarians want your freedom. � Charlie Reese
+ **QUOTES TO REMEMBER**The Constitution is a written instrument. As such, its meaning does not alter. That which it meant when it was adopted, it means now. � SOUTH CAROLINA v. US, 199 U.S. 437, 448 (1905)
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
