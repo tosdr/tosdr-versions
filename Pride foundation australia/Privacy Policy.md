@@ -282,7 +282,7 @@ Sydney, NSW, 2000.
 
 ![](https://pridefoundation.org.au/wp-content/uploads/2021/04/pridefoundationlogo-small.png)
 
-![ACNC-Registered-Charity-Logo_RGB.png](https://pridefoundation.org.au/wp-content/uploads/elementor/thumbs/ACNC-Registered-Charity-Logo_RGB-ppij9remiz8dkrb9viwbqvxts33f3g0ywspsjv1knk.png "ACNC-Registered-Charity-Logo_RGB.png")
+![](https://pridefoundation.org.au/wp-content/uploads/elementor/thumbs/ACNC-Registered-Charity-Logo_RGB-ppij9remiz8dkrb9viwbqvxts33f3g0ywspsjv1knk.png "ACNC-Registered-Charity-Logo_RGB.png")
 
 Pride Foundation Australia acknowledges the traditional custodians of the land on which we operate, in so-called Australia. We acknowledge that sovereignty has never been ceded by Aboriginal and Torres Strait Islander people and that it always was, and always will be Aboriginal land. We pay our respects to the Elders past and present. 
 
@@ -362,7 +362,7 @@ Subscribe
 
 ![](https://pridefoundation.org.au/wp-content/uploads/2021/04/pridefoundationlogo-small.png)
 
-![ACNC-Registered-Charity-Logo_RGB.png](https://pridefoundation.org.au/wp-content/uploads/elementor/thumbs/ACNC-Registered-Charity-Logo_RGB-ppij9remiz8dkrb9viwbqvxts33f3g0ywspsjv1knk.png "ACNC-Registered-Charity-Logo_RGB.png")
+![](https://pridefoundation.org.au/wp-content/uploads/elementor/thumbs/ACNC-Registered-Charity-Logo_RGB-ppij9remiz8dkrb9viwbqvxts33f3g0ywspsjv1knk.png "ACNC-Registered-Charity-Logo_RGB.png")
 
 Pride Foundation Australia acknowledges the traditional custodians of the land on which we operate, in so-called Australia. We acknowledge that sovereignty has not been ceded to First Nations and remains stolen. We pay our respects to the Elders past, present and emerging. 
 
