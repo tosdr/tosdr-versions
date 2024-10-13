@@ -313,19 +313,19 @@ article 5 days ago](https://www.nasa.gov/hurricane-milton/)
 
 ### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
-article 7 hours ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![The Next Full Moon is a Supermoon, and the Hunter’s Moon](https://science.nasa.gov/wp-content/uploads/2023/06/49641911586_4d26910aba_supermoon_March_2020-1280-jpg.webp)
+article 15 hours ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![The Next Full Moon is a Supermoon, and the Hunter’s Moon](https://science.nasa.gov/wp-content/uploads/2023/06/49641911586_4d26910aba_supermoon_March_2020-1280-jpg.webp)
 
 29 min read
 
 ### The Next Full Moon is a Supermoon, and the Hunter’s Moon
 
-article 1 day ago](https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-and-the-hunters-moon/)[![Asteroid and Comet Resources](https://science.nasa.gov/wp-content/uploads/2024/10/bennu-comettempel1.png)
+article 2 days ago](https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-and-the-hunters-moon/)[![Asteroid and Comet Resources](https://science.nasa.gov/wp-content/uploads/2024/10/bennu-comettempel1.png)
 
 1 min read
 
 ### Asteroid and Comet Resources
 
-article 1 day ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)
+article 2 days ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)
 
 ### Featured
 
@@ -357,7 +357,7 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-p
 
 ### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
-article 7 hours ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
+article 15 hours ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
 
 2 min read
 
@@ -369,29 +369,29 @@ article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-gran
 
 ### Sail Along with NASA’s Solar Sail Tech Demo in Real-Time Simulation
 
-article 2 days ago](https://science.nasa.gov/science-research/sail-along-with-nasas-solar-sail-tech-demo-in-real-time-simulation/)
+article 3 days ago](https://science.nasa.gov/science-research/sail-along-with-nasas-solar-sail-tech-demo-in-real-time-simulation/)
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/09/ksc-20240920-ph-kls01-0114.jpg?w=1024)
+[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+
+2 min read
+
+### A Serendipitous NASA Family Reunion
+
+article 6 hours ago](https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+
+2 min read
+
+### Una reunión familiar de la NASA por casualidad
+
+article 6 hours ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/ksc-20240920-ph-kls01-0114.jpg?w=1024)
 
 4 min read
 
 ### Girls in STEM Inspired to Fly High at NASA Kennedy
 
-article 3 weeks ago](https://www.nasa.gov/aeronautics/girls-in-stem-inspired-to-fly-high-at-nasa-kennedy/)[![A graphic showing various airplanes over a sun-drenched New York City skyline. with the words "Research Opportunities" overlaid on top.](https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?w=1024)
-
-7 min read
-
-### ARMD Solicitations
-
-article 3 weeks ago](https://www.nasa.gov/aeronautics/armd-solicitations/)[![A researcher assists a student in guiding his cylindrical-shaped paper model into a tabletop demonstration unit.](https://www.nasa.gov/wp-content/uploads/2024/09/grc-2024-c-08875.jpg?w=1024)
-
-1 min read
-
-### Students Soar at NASA Glenn’s Aviation Day
-
-article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-soar-at-nasa-glenns-aviation-day/)
+article 3 weeks ago](https://www.nasa.gov/aeronautics/girls-in-stem-inspired-to-fly-high-at-nasa-kennedy/)
 
 ### Highlights
 
@@ -423,19 +423,19 @@ article 4 days ago](https://www.nasa.gov/technology/space-comms/space-communicat
 
 ### Asteroid and Comet Resources
 
-article 1 day ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
+article 2 days ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
 
 1 min read
 
 ### Pluto and Dwarf Planet Resources
 
-article 2 days ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)[![A woman stands and smiles in the Teague lobby at NASA Johnson. She is wearing a red blouse and black pants. Behind her is a mural of astronauts and space exploration, as well as a NASA logo on the wall.](https://www.nasa.gov/wp-content/uploads/2024/10/image-7-e1728592422646.jpg?w=720)
+article 3 days ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)[![A woman stands and smiles in the Teague lobby at NASA Johnson. She is wearing a red blouse and black pants. Behind her is a mural of astronauts and space exploration, as well as a NASA logo on the wall.](https://www.nasa.gov/wp-content/uploads/2024/10/image-7-e1728592422646.jpg?w=720)
 
 3 min read
 
 ### Igniting Inspiration: Jennifer Becerra’s STEM Legacy at Johnson 
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/igniting-inspiration-jennifer-becerras-stem-legacy-at-johnson/)
+article 3 days ago](https://www.nasa.gov/centers-and-facilities/igniting-inspiration-jennifer-becerras-stem-legacy-at-johnson/)
 
 ### Featured
 
@@ -451,7 +451,7 @@ article 2 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering
 
 ### NASA Celebrates Hispanic Heritage Month 2024
 
-article 1 day ago](https://www.nasa.gov/history/nasa-celebrates-hispanic-heritage-month-2024/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/history/nasa-celebrates-hispanic-heritage-month-2024/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
 
 4 min read
 
@@ -467,7 +467,7 @@ article 4 days ago](https://www.nasa.gov/technology/space-comms/space-communicat
 
 ### Una gerente de proyectos de la NASA rinde homenaje a la influencia de su madre
 
-article 5 days ago](https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/)[![A close up image of a set of massive solar arrays measuring about 46.5 feet (14.2 meters) long and about 13.5 feet (4.1 meters) high on NASA’s Europa Clipper spacecraft inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/09/europa-clipper.jpg?w=1024)
+article 6 days ago](https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/)[![A close up image of a set of massive solar arrays measuring about 46.5 feet (14.2 meters) long and about 13.5 feet (4.1 meters) high on NASA’s Europa Clipper spacecraft inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/09/europa-clipper.jpg?w=1024)
 
 5 min read
 
