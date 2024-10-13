@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZwrULQoAAVEAAABcFBQ)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZwsnRQoAAVEAAABcX1Y)
 
 Es noticia
 
@@ -12,7 +12,7 @@ Es noticia
 * [Jota Peleteiro](https://www.elmundo.es/loc/famosos/2024/10/12/6708e586fc6c83bd0a8b45a6.html)
 * [El Taiger](https://www.elmundo.es/cultura/musica/2024/10/11/6708c3dffdddff4a378b456f.html)
 * [Desfile 12 octubre Madrid](https://www.elmundo.es/espana/2024/10/12/670a6f8121efa07c298b45a3.html)
-* [Everest](https://www.elmundo.es/deportes/nieve/2024/10/11/670940c4e9cf4acc288b45a7.html)
+* [Cristóbal Colón](https://www.elmundo.es/cultura/2024/10/13/670b0757fc6c83ac6b8b4582.html)
 * [Carolina Yuste](https://www.elmundo.es/cultura/cine/2024/10/11/6708ff0fe4d4d821568b4592.html)
 * [Naiara OT](https://www.elmundo.es/loc/famosos/2024/10/11/67094a94fc6c83d2588b45d1.html)
 * [Iker Jimenez](https://www.elmundo.es/television/2024/10/11/670955eafc6c830b538b45b1.html)
