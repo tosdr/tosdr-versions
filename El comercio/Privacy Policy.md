@@ -31,6 +31,273 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cartas a Quito / 13 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este domingo 13 de octubre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Discriminación escolar contra niño autista
+------------------------------------------
+
+En Ecuador, la discriminación sigue siendo una triste realidad, incluso en lugares que deberían ser de inclusión, como las escuelas. Recientemente, un niño con autismo fue discriminado en su escuela, una situación que, como docente, me preocupa profundamente. Este acto es un reflejo de la falta de empatía.
+
+El autismo no es una barrera para el aprendizaje, sino una manera diferente de procesar el mundo. Lamentablemente, muchos aún no entienden esta realidad. Al discriminar a este niño, estamos enviando un mensaje equivocado: que solo hay un “modo correcto” de aprender y de ser. Esto es inaceptable.
+
+Las escuelas en Ecuador deberían ser espacios seguros donde todos los estudiantes, independientemente de sus habilidades, puedan desarrollarse. En lugar de excluir, deberíamos estar construyendo un sistema que abrace la diversidad. Cada niño tiene algo valioso que ofrecer, y la educación debe adaptarse a esas necesidades únicas.
+
+Como profesor, sé que la inclusión no es solo un derecho, sino una oportunidad para todos. Enseñar a niños con autismo no es un desafío, sino una experiencia enriquecedora que puede cambiar la vida de cualquier docente. Nos recuerda que todos aprendemos de maneras distintas y que eso está bien.
+
+La discriminación no solo afecta al niño que la sufre, también afecta a sus compañeros. Al permitirla, estamos enseñando a las futuras generaciones que es aceptable excluir a alguien por ser diferente. Estamos creando un ciclo de prejuicio que debe ser roto cuanto antes.
+
+Es urgente que las escuelas ecuatorianas se capaciten en educación inclusiva. No podemos seguir permitiendo que niños como este sean discriminados. Cada niño, con o sin autismo, merece una educación que los valore por quienes son, y no por lo que se espera que sean. La educación inclusiva no es un favor, es un derecho. Y si no luchamos por él, estamos fallando como sociedad.
+
+Roberto Camana-Fiallos
+
+Turismo a la fragilidad
+=======================
+
+Es hora de cambiar la percepción de la vejez y demostrar que podemos vencer a este enemigo silencioso y disfrutar de una vida plena y activa.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+En **nuestra cultura**, es común escuchar la expresión: “Estoy en la edad del cóndor”, con dolor por aquí, con dolor por acá. Existe una **creencia** generalizada de que el **malestar** permanente es una parte natural del **envejecimiento**. Incluso en la madurez, comenzamos a experimentar **dolencias** que asumimos como normales. Cuando estos dolores se intensifican, recurrimos a **remedios populares** con propiedades **antiinflamatorias**, como la manzanilla y la cúrcuma. Algunos optan por el **chugchuhuazo** o la **dulcamara**. En el **mercado virtual**, hay miles de suplementos que se promocionan como “naturales” y que prometen aliviar el **sufrimiento**. Esta es una **industria multimillonaria** de cápsulas, pastillas, esencias a precios exorbitantes.
+
+Sin embargo, **especialistas** en **termalismo** y geriatría, que participaron en TERMATALIA 2024 en Ourense, España, sostienen que, aunque la **vejez** se asocia comúnmente con **dolor y debilidad**, esta percepción es errónea. Explican que la “**fragilidad**” es un **síndrome geriátrico** que implica una disminución de la **reserva fisiológica** y la capacidad de **adaptación** del cuerpo. Este concepto, aunque poco conocido, es crucial para entender y mejorar la calidad de vida en la **tercera edad.**
+
+La **fragilidad aumenta** la **vulnerabilidad** de las **personas mayores** a enfermedades, lesiones y pérdida de autonomía. Sin embargo, muchos desconocen que este estado no es una **consecuencia** inevitable del **envejecimiento**, sino un proceso que puede prevenirse y gestionarse adecuadamente. La falta de **conocimiento** sobre la **fragilidad** lleva a la aceptación pasiva del **dolor** y la **debilidad** como parte natural de la **vejez**, cuando en realidad, estos pueden y deben evitarse.
+
+Para **combatir la fragilidad** es esencial mantenerse físicamente activo y seguir una **nutrición** adecuada que refuerce la **salud ósea y muscular.** Hoteles y restaurantes pueden captar nuevos clientes con menús de **alimentos saludables** e incluso de **sanación**. El control del peso es fundamental para evitar la sobrecarga en las **articulaciones** y prevenir enfermedades como la **diabetes** e **hipertensión**. Chequeos médicos regulares son esenciales para detectar y tratar problemas antes de que se agraven.
+
+En la **madurez** es crucial entender la importancia del concepto de pre-fragilidad, la etapa en la que aún es posible revertir o ralentizar el proceso de **fragilidad.** Durante esta fase, es vital implementar todas las medidas preventivas. En este contexto, el termalismo y los spas son aliados importantes. Las **aguas termales** y los **tratamientos** de **spa** ayudan a mejorar la **circulación**, **aliviar dolores musculares**, articulares, promueven la **relajación** y el **bienestar general**, lo que contribuye a mantener la **movilidad** y la **calidad de vida**.
+
+Hoy en día es fundamental informarse y educarse sobre la **fragilidad**. Es hora de cambiar la **percepción** de la **vejez** y demostrar que podemos vencer a este **enemigo silencioso** y disfrutar de una **vida plena** y activa en nuestros **años dorados**. **Viajar** cobra una **importancia vital**, ya que es uno de los mejores **antídotos** contra la **depresión**.
+
+¿Aún tenemos un proyecto común?
+===============================
+
+Cada responsable del manejo del país, en el ámbito local, regional o nacional, debe recordar que no importa lo bien lustrado que mantenga su camarote.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
+
+El **historiador Juan Maiguashca** asegura que la “**ficción guía**” del Ecuador del siglo XIX fue la república, sostenida en la **defensa** del **bien común** que emergió en **momentos** de **tensión** como un mapa del mundo que tenía como puntos de **gravedad** la virtud, la **igualdad** y la **justicia**.
+
+De acuerdo con su lectura, la potente **imagen** de la república constituyó una **fuente** de **legitimidad** y de control social para las élites y se convirtió en el **espacio cultural** al que apelaron **fuerzas políticas** opuestas para mantener una (conflictiva) **tradición** en **común**.
+
+Incluso en [1859, año en que el Ecuador estuvo a punto de disgregarse](http://hdl.handle.net/10469/9522) por las **aspiraciones regionales** opuestas, las **fuerzas** enfrentadas fueron capaces de renunciar a satisfacer sus propias **aspiraciones** para **conservar** y mantener a la **nación** unida, según reseña el historiador Miguel Ángel González Leal.
+
+Hoy, a 200 años de la **creación** de la **república**, y dada la **calamidad** en que se encuentra el **Ecuador**, que registra **problemas** en todos los **órdenes** de la **administración pública**, en medio del caos y el retraso que son la realidad cotidiana, más allá de la **utopía** liberal de “**orden** y **progreso**” con la que se fundó la nación, resulta pertinente preguntarse si las actuales **élites nacionales**, sean **económicas**, **políticas** o **culturales**, se plantean todavía un **proyecto en común**.
+
+¿Dónde es posible encontrar un **sueño** de nación –de nación, no de **facción**– que oriente los pasos que la sociedad debe dar para salir del **caos** y el **desorden** que impera en cada acto de la **gestión pública**? En medio del desconcierto, los que ostentan puestos de **responsabilidad** (y los que aspiran a tenerlos) olvidan que más allá del partido que enciende sus **pasiones**, pertenecemos a una misma **patria**.
+
+Cada **responsable** del **manejo** del **país**, en el **ámbito local, regional o nacional,** debe recordar que no importa lo bien lustrado que mantenga su **camarote**, si el barco se hunde también naufragará, producto de una **lucha fraccionaria** que ha permutado **líderes** por **mercenarios**.
+
+Reflexiones en época de  campaña 
+=================================
+
+La sociedad debe rechazar la falta de control en las redes sociales y exigir transparencia electoral.
+-----------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+La **campaña electoral** ha empezado de manera **no oficial**, pero sí en la práctica de la **política nacional.** Lo cual, como **sociedad**, nos debe invitar a estar alerta a fin de no dejarnos llevar, influenciar o utilizar por las **acciones** y/u **omisiones políticas** – muchas veces con malas intenciones – de los distintos **sectores** y/o actores, ya sea su **participación** y/o influencia directa o indirecta.
+
+La  peculiar e “ingenua” – por decir lo menos – **interpretación** del CNE dada no mucho tiempo atrás, en el sentido de que, los controles de la presencia de las **campañas electorales,** incluido los gastos, realizados en **redes sociales y plataformas digitales**, aplicaría para los candidatos al CPCCS y no para el resto de **candidaturas**, incluidas la **presidencia** y **vicepresidencia** de la **república**, constituye una **torpeza monumental,** cuando hoy en día ya no sorprende, la enorme penetración e influencia de las distintas **plataformas** y **medios digitales en la opinión pública** y en el **imaginario colectivo**, dejando de lado y superando  a los medios y sistemas de comunicación y propaganda tradicionales.
+
+La lamentable “**viveza política**” consciente de la falta de **control y de la alta eficacia** de la comunicación en los medios digitales, ha venido burlándose **descaradamente** de los **límites de campaña**; y, el CNE, con dicha  forzada y torpe “**interpretación**”, en vez de poner freno a esta **mala y abusiva práctica**, más bien le ha dado un **espaldarazo**, es decir, el mismo órgano estatal encargado del **proceso** de **control electoral,** haciéndose no solo de la vista gorda ante algo tan **evidente**, ha brindado  expresamente  luz verde, es decir, ha avalado algo que evidentemente resulta un abuso  y que desnuda el poco sentido de respeto de algunas c**andidaturas al espíritu de la ley** y  al **sentido común**. Lo cual, también  nos debe invitar a **reflexionar** en el sentido de que ¿cómo podríamos confiar en la **seriedad de un candidato,**  si sus primeros actos de campaña se basan en **burlar la ley**?
+
+Adicionalmente, algo que siendo totalmente **incorrecto** se ha vuelto casi normal por lo **habitual**, es la nefasta tarea de los **troll centers,** contratados y enfocados principalmente en  llevar a cabo  una de las más canallas  tareas y  **acciones políticas**, esto es, **descalificar** y **desprestigiar**  utilizando como argumentos la **exageración**, la inexacta **interpretación**, la burla,  la mentira, la mala intención,  etc., todo lo cual realizado cobardemente desde el **anonimato**, la **oscuridad** y la **falsedad**, buscando vender la **imagen** de ser miles de **usuarios** cuando en realidad son pocos con muchas **cuentas** **falsas**, enfocados en desarrollar un **ejército digital** dentro de una **guerra** de **imagen sucia** y baja; todo lo cual alimentado y aprovechándose  de una **sociedad** apurada,  en la que la **conducta** de unos pocos influye en la de muchos, ya que prima en ella el **seguimiento** de manada y no la **reflexión individual.**
+
+Estas **prácticas** (provengan de donde provengan)  deben  ser **desterradas y sancionadas,** no solamente por  los **órganos estatales** a cargo, incluida la Fiscalía de ser el caso, sino también y sobre todo por la sociedad, no dando paso a estas **malas acciones** que no suman a la claridad y al buen criterio **ciudadano** y por consiguiente no apuntalan el apropiado **desenvolvimiento democrático** a efectos de que se den debidas **reflexiones** y por ende las **mejores decisiones** en **momentos electorales**.
+
+No es difícil darse cuenta, cuáles son las reales **intenciones** detrás de dichas **publicaciones** y a quién o a quienes benefician; toda vez que, su **utilización**, a quienes más descalifican en verdad, es a quienes las utilizan.
+
+Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?
+==========================================================================================
+
+Las ITS en Ecuador aumentaron significativamente desde 2019. Hay disparidades entre provincias.
+-----------------------------------------------------------------------------------------------
+
+![La sífilis, una infección bacteriana de transmisión sexual, es prevenible y curable, pero los casos han aumentado en todo el mundo. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-23.jpg)
+
+Ecuador enfrenta un significativo aumento de las **Infecciones de Transmisión Sexual (ITS)**. Este incremento es mayor en provincias amazónicas y refleja disparidades socioeconómicas. La pobreza y la desigualdad, entre otros factores agravan el riesgo de propagación de estas enfermedades.
+
+Más noticias
+------------
+
+* [En Quito, las enfermedades no transmisibles siguen cobrando vidas. Las respiratorias persisten.](https://www.elcomercio.com/actualidad/quito/en-quito-las-enfermedades-no-transmisibles-siguen-cobrando-vidas-las-respiratorias-persisten.html "En Quito, las enfermedades no transmisibles siguen cobrando vidas. Las respiratorias persisten.")
+* [El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios](https://www.elcomercio.com/tendencias/salud/ecuador-tambien-afronta-el-aumento-de-pacientes-con-sobrepeso-y-obesidad.html "El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios")
+
+Hay más de 30 bacterias, virus y parásitos que se transmiten por contacto sexual, incluido el contacto con la vagina, el ano y la boca. Algunas ITS también pueden transmitirse de la madre al hijo durante el embarazo, el parto y la lactancia. Hay ocho patógenos que dan lugar a la máxima incidencia de ITS, según la **[Organización Mundial de la Salud.](https://www.who.int/es/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)?gad_source=1&gclid=CjwKCAjw9p24BhB_EiwA8ID5BvR1JLJ2eL547akMpt3tltZJfNmyInSXc-Mpuu8WUrUIWyMkry0ZaxoC69sQAvD_BwE "https://www.who.int/es/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)?gad_source=1&gclid=CjwKCAjw9p24BhB_EiwA8ID5BvR1JLJ2eL547akMpt3tltZJfNmyInSXc-Mpuu8WUrUIWyMkry0ZaxoC69sQAvD_BwE")** Cuatro de estas enfermedades tienen cura: sífilis, gonorrea, clamidiosis y tricomoniasis). Las otras cuatro son por virus: hepatitis B, herpes simple, virus de la inmunodeficiencia humana (VIH) y el virus del papiloma humano (HPV).
+
+Mayor tasa de incidencia de ITS en la Amazonía
+----------------------------------------------
+
+En 2019, antes de la pandemia por covid, la tasa de incidencia nacional era de **ocho por cada 10 mil** **habitantes**. Cuatro años después, 2023, esta tasa subió a **11,7**. 
+
+Si se analiza a escala provincial, el **Ministerio de Salud Pública (MSP)** registra que **13** de las **24** provincias se ubican por encima de la media en 2023 (ver cuadro interactivo).
+
+Las provincias que más preocupan son las amazónicas. **Napo**\-que está a la cabeza- duplicó su tasa, al pasar  de 18 a 40,2 casos por cada 10 mil habitantes. Morona Santiago, que tenía la tasa más baja: 7,8 también muestra un aumento significativo al duplicar a 18,4. 
+
+**Zamora Chinchipe** aumentó de 23,8 a 34,5.  Una situación similar ocurre en Sucumbíos (24,5 – 32,4).  
+
+Algunas provincias de la Costa (**Esmeraldas**) y Sierra (**Carchi y Tungurahua**) muestran aumentos, aunque en menor medida, y hay casos aislados de disminución o constancia en **Pastaza y Santo Domingo**.
+
+¿Qué factores socioeconómicos contribuyen a las disparidades provinciales en las tasas de ITS?
+----------------------------------------------------------------------------------------------
+
+Los factores socioeconómicos, como la pobreza y la desigualdad, limitan el acceso a servicios de salud y educación sexual, dejando a muchas personas sin recursos para prevenir o tratar las ITS. En áreas rurales y comunidades marginadas, la falta de infraestructura y servicios de salud agrava la situación, especialmente en la población amazónica, donde las distancias a los centros de salud son grandes.
+
+En Napo, **76,6%** de hogares del **área rural** vive en condición de pobreza por necesidades básicas insatisfechas, mientras que **19%** está en **pobreza extrema**, según el último censo del INEC.
+
+La situación en la ruralidad de **Morona Santiago** es aún peor. El 81% no logra satisfacer lo básico, en tanto el 29% está en pobreza extrema.
+
+Las condiciones de vida precarias y el hacinamiento, además dificultan las prácticas sexuales seguras y favorecen la transmisión de ITS. Además, la estigmatización y discriminación asociadas a la pobreza desincentivan la búsqueda de atención médica.
+
+La desigualdad económica también fomenta el trabajo sexual en condiciones de riesgo, aumentando la vulnerabilidad a las ITS. Factores como el autocuidado, la automedicación, el nivel educativo y aspectos culturales contribuyen a esta problemática.
+
+Cambios en las prácticas sexuales
+---------------------------------
+
+Los cambios en las prácticas sexuales han influido significativamente en el aumento de las ITS. Entre estos cambios se incluyen el aumento de parejas sexuales múltiples y la disminución en el uso de condones. Esto eleva el riesgo de transmisión. 
+
+Además, el uso de redes sociales y aplicaciones de citas ha facilitado encuentros sexuales con desconocidos, a menudo sin protección. 
+
+Las prácticas sexuales de alto riesgo, como sexo anal sin preservativo, y el consumo de alcohol y drogas promueven comportamientos de riesgo. 
+
+Paralelamente, un cambio en las normas sociales hacia una mayor permisividad sexual fomenta una mayor experimentación y comportamiento sexual de riesgo.
+
+Así como las desigualdades de género, el estigma, la discriminación hacia distintos grupos poblacionales. 
+
+Los factores demográficos
+-------------------------
+
+Las áreas con alta densidad poblacional pueden facilitar la transmisión de ITS debido a un mayor contacto interpersonal. 
+
+La creciente movilidad humana, incluyendo la migración, también aumenta la vulnerabilidad a las ITS. 
+
+Por otra parte, las poblaciones más jóvenes tienden a tener mayores tasas de ITS. El inicio temprano en la vida sexual, sobre todo en la Costa y Amazonía. Se mantiene el inicio de  relaciones sexuales a los 10 años de edad, lo cual permite una mayor propagación de estas infecciones.
+
+El flujo constante de personas y las dinámicas asociadas al turismo y las actividades comerciales en destinos turísticos aumentan la incidencia de ITS. Galápagos, por ejemplo, muestra un aumento considerable entre 2019 y 2023.
+
+Las mujeres buscan más atención médica  
+----------------------------------------
+
+Entre 2019 y 2023 en Ecuador, los casos reportados de ITS, confirman que es predominantemente en mujeres (93%) que en hombres (7%). 
+
+Las tendencias de género en la incidencia de ITS en Ecuador muestran diferencias significativas. Las ITS más prevalentes en **hombres**: 
+
+* Papiloma Virus Humano (35,3%)
+* sífilis genital primaria (24,3%)
+* infecciones gonocócicas (gonorrea) (13,5%). 
+
+En **mujeres** destacan: 
+
+* enfermedad inflamatoria pélvica (47%)
+* Papiloma Virus Humano (25,49%) 
+* sífilis genital primaria (10,6%)
+
+El predominio en mujeres se debe a que demandan más servicios de salud, por el autocuidado de su salud. Por ende hay más diagnósticos y prescripción de tratamientos para ellas.
+
+Los hombres, en muchos casos son asintomáticos y en otros optan por la automedicación. También reciben la medicación, luego de que sus parejas acuden a los centros de salud. 
+
+Dentro de la vigilancia epidemiológica, no todos los casos de ITS son de notificación obligatoria. Entre los eventos principales que se vigilan en el Subsistema de Vigilancia Epidemiológica son casos de sífilis y gonorrea, ya que son ITS frecuentes con una incidencia considerable en la morbilidad y la mortalidad y con pocas opciones de tratamiento debido a la resistencia de su agente causal a los antimicrobianos.
+
+Grupos poblacionales de más riesgo
+----------------------------------
+
+* Jóvenes y adolescentes
+* Hombres que tienen sexo con hombres
+* Personas trans
+* Trabajadores/as sexuales
+* Personas que usan drogas intravenosas.
+* Personas privadas de la libertad (PPL)
+* Poblaciones migrantes
+* Comunidades indígenas y rurales
+
+La tasa de incidencia de Ecuador está en la media regional
+----------------------------------------------------------
+
+Ecuador se sitúa en el rango promedio de tasas de Infecciones de Transmisión Sexual (ITS) en la región, según los registros que maneja el MSP. Perú muestra variabilidad en sus tasas, destacando la sífilis y la gonorrea como las más diagnosticadas.
+
+Colombia reporta tasas similares, con ciudades como Bogotá que presentan cifras más elevadas; las ITS más comunes son el papilomavirus, la sífilis y la gonorrea. Brasil tiene una mayor incidencia de ITS, especialmente en ciudades grandes como São Paulo y Rio de Janeiro, con la sífilis, la gonorrea y el herpes genital como las más diagnosticadas.
+
+Chile mantiene tasas estables gracias a sus esfuerzos en prevención, con el papilomavirus, la sífilis y la gonorrea como las prevalentes. Argentina también se enfoca en la prevención y reporta cifras cercanas a las de Ecuador, con la sífilis, la gonorrea y el papilomavirus como las ITS más comunes. En general, la tasa de incidencia de ITS en Ecuador es comparable y se ubica en un rango intermedio respecto a sus vecinos.
+
+Independiente Juniors homenajeó al fallecido Roberto Cabezas
+============================================================
+
+Independiente Juniors ocupa el segundo lugar de la tabla de posiciones de la Liga Pro Serie B de Ecuador.
+---------------------------------------------------------------------------------------------------------
+
+![Jugadores de Independiente Juniors en el homenaje a Roberto Cabezas.](https://www.elcomercio.com/wp-content/uploads/2024/10/homenaje_cabezas_1.jpg)
+
+**Independiente Juniors** rindió un sentido homenaje a Roberto Cabezas, jugador de los registros del club que falleció en las primeras horas del lunes 7 de octubre de 2024 en Quito.
+
+La causa del fallecimiento de Roberto Cabezas, formado en Independiente del Valle, **fue por un fatal siniestro de tránsito en la Autopista General Rumiñahui**, que une a las ciudades de Quito con Sangolquí, a la altura de la entrada a Conocoto.
+
+### Más noticias:
+
+* [Así está el estado de salud de Marco Angulo, jugador de Liga de Quito](https://www.elcomercio.com/deportes/futbol/asi-esta-estado-de-salud-marco-angulo-jugador-de-liga-de-quito.html "Así está el estado de salud de Marco Angulo, jugador de Liga de Quito")
+* [¿Qué es el coma inducido, la condición de Marco Angulo?](https://www.elcomercio.com/deportes/futbol/que-es-coma-inducido-condicion-de-marco-angulo.html "¿Qué es el coma inducido, la condición de Marco Angulo?")
+* [¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-eliminatorias-uruguay.html "¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?")
+
+Cabezas y Víctor Charcopa fallecieron, mientas que **Marco Angulo, jugador de Liga de Quito**, sigue hospitalizado con pronóstico reservado en el Hospital Eugenio Espejo.
+
+Uno de los homenajes vino de parte de sus compañeros de **Independiente Juniors en el partido de la fecha 33** de la Liga Pro Serie B, que los enfrentó a Vargas Torres de Esmeraldas en el estadio de Independiente del Valle.
+
+“**Siempre con nosotros, amigo**” fue la leyenda inscrita en una camiseta blanca con la imagen de Cabezas que llevaron sus compañeros al momento de saltar a la cancha.
+
+Antes de iniciar el encuentro se dio un minuto de silencio en memoria del deportistas que jugada como defensa.
+
+Además, **se sumó una pancarta, la camiseta con el número 20** y una gigantografía.
+
+Pero el momento más emotivo estuvo a cargo de **Milton Cagua, capitán de Independiente Juniors**, al anotar el 1-0 a los tres minutos de iniciado el compromiso.
+
+El remate de Cagua fue desde fuera del área y **contó con la complicidad del portero Kenneth Perea**, que no pudo controlar el balón y se le escurrió entre sus manos antes de ir a parar al fondo de su arco.
+
+Cagua se hincó y lloró al momento del festejo y se lo dedicó a Cabezas. El resto de jugadores de Independiente lo abrazaron.
+
+El encuentro **terminó 2-0 y complicó a los esmeraldeños** en su lucha por no descender a la segunda categoría.
+
+> 🤩🙌 ¡UN GOL MUY ESPECIAL PARA EL CAPITÁN! 🫡  
+>   
+> 📲 Al minuto 3, Milton Cagua pone el 1-0 a favor de [@INDJRS\_EC](https://twitter.com/INDJRS_EC?ref_src=twsrc%5Etfw) y se lo dedica a Roberto Cabezas.[#LigaProEcuabetxECDF](https://twitter.com/hashtag/LigaProEcuabetxECDF?src=hash&ref_src=twsrc%5Etfw) 📲 [https://t.co/seIKKJcWb1](https://t.co/seIKKJcWb1) [pic.twitter.com/XPfn9OI5mG](https://t.co/XPfn9OI5mG)
+> 
+> — ®El Canal del Fútbol 🇪🇨⚽ (@ElCanalDFutbol) [October 11, 2024](https://twitter.com/ElCanalDFutbol/status/1844839918406603242?ref_src=twsrc%5Etfw)
+
+¿Quién fue Roberto Cabezas?
+---------------------------
+
+Nació en Quinindé el 7 de octubre de 2002 y, cuando se produjo el suceso, cumplía 22 años. Se desempeñaba como lateral izquierdo y había realizado sus formativas en **Independiente del Valle**, club en el que militaba en su filial: **Independiente Juniors.**
+
+Con la escuadra que milita en la **Serie B** disputó tan solo un juego durante la temporada 2024. Su único partido fue ante **Chacaritas**, donde participó 18 minutos tras ingresar desde el banco.
+
+A nivel juvenil, Cabezas también sumó experiencia con la **Selección de Ecuador Sub-17**. En ella fue donde tuvo mayor regularidad y disputó el Mundial juvenil y el Sudamericano de 2019, de manera que llegó a acumular 13 partidos.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/homenaje_cabezas_2-1024x683.jpg)
+
+Foto: API.
+
+**Roberto Cabezas** había destacado a nivel juvenil con Independiente del Valle y, en aquella etapa, era una de sus promesas a largo plazo. Pese a ello, el futbolista **no llegó a debutar con el primer equipo** de los de Sangolquí.
+
+Los mayores éxitos de Cabezas también se produjeron a nivel formativo. El lateral izquierdo había formado parte del equipo campeón de la **Copa Libertadores Sub-20** durante el 2020, en el cual estuvieron jugadores ya consolidados a nivel absoluto[.](https://en.wikipedia.org/wiki/Independiente_del_Valle "https://en.wikipedia.org/wiki/Independiente_del_Valle")
+
+En aquel torneo continental, el fallecido futbolista compartió camerino con **Moisés Caicedo**, uno de los capitanes de la Selección de Ecuador y el Chelsea, y **Piero Hincapié**, destacado central de la Tri y del Bayer Leverkusen de Alemania.
+
+Dicho plantel también estaba conformado por Marco Angulo, quien se encontraba con él en el siniestro.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/homenaje_cabezas_3-1024x683.jpg)
+
+Foto: API.
+
+No te pierdas – El Confesionario
+--------------------------------
+
 Deportivo Quito entrenó con el volcán Cotopaxi de testigo
 =========================================================
 
@@ -912,355 +1179,3 @@ Con el anuncio de **Shrek 5 para 2026**, los fanáticos están ansiosos por ver 
 A medida que la **saga de Shrek** continúa creciendo, los aficionados tienen la oportunidad de revivir su infancia y disfrutar de un **mundo lleno de humor, amistad y lecciones valiosas**.
 
 Con este orden de visualización, están listos para disfrutar de cada rincón de la **magia de Shrek** y todo lo que este universo tiene para ofrecer.
-
-  
-  
-
-Dragonas Independiente tienen rival en la Libertadores Femenina
-===============================================================
-
-Dragonas Independiente se clasificaron para la Copa Libertadores Femenina como campeonas de la Superliga Femenina.
-------------------------------------------------------------------------------------------------------------------
-
-![Larissa Nunes (d) y Nayeli Bolaños con Dragonas Independiente en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_1.jpg)
-
-Deportivo Cali y Alianza Lima sellaron su pase a los cuartos de final de la Copa Libertadores femenina 2024, una clasificación que también celebraron **Dragonas Independiente de Ecuador** y el Independiente Santa Fe colombiano.
-
-En un partido por la llave D, **las Azucareras golearon 4-0 a las chilenas de Santiago Morning** y aseguraron como punteras su clasificación con puntaje perfecto (9 enteros), en el último partido de la fase de grupos del torneo continental que se juega hasta el 19 de octubre en Paraguay.
-
-### Más noticias:
-
-* [La Selección de Ecuador descendió al quinto puesto en la tabla](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador descendió al quinto puesto en la tabla")
-* [Batalla campal en el Camp Nou, del FC Barcelona, deja seis heridos](https://www.elcomercio.com/deportes/futbol/batalla-campal-en-el-camp-nou-fcbarcelona-deja-seis-heridos.html "Batalla campal en el Camp Nou, del FC Barcelona, deja seis heridos")
-* [Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay](https://www.elcomercio.com/deportes/futbol/kendry-paez-bajo-criticas-tras-empate-ecuador-paraguay.html "Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay")
-
-Como escolta se ubicó **Alianza Lima con 6 unidades**, el plantel chileno cayó al tercer puesto con 3 enteros, y las paraguayas de Guaraní quedaron colistas sin puntos.
-
-En el estadio Arsenio Erico de Asunción, **Deportivo Cali demostró superioridad desde el inicio** y se fue en ventaja en el minuto dos del juego con un gol sorpresivo de media distancia de Ledys Calvo, imposible de atajar para la guardameta Martina Funck.
-
-Un gol de penal cobrado por Kelly Ibargüen (m.22), luego de una falta a la capitana **Ingrid Guerra, puso en ventaja a las colombianas** que ampliaron el marcador con otro tanto de Daniela Castellanos (m.33).
-
-En la segunda etapa, Santiago Morning quiso recuperarse pero las colombianas mantuvieron intensidad en el ataque así como precaución en la defensa.
-
-La delantera **Yésica Muñoz anotó el cuarto** para el equipo verdiblanco con un remate desde la franja derecha luego de una asistencia de Guerra.
-
-A la misma hora, **Alianza Lima derrotaba 3-0 a Guaraní en la localidad de Ypané**, a unos 20 kilómetros de Asunción, con dobletes de la atacante Adriana Lúcar (m.27 y m.54) y un gol de Neidy Romero (m.45+5).
-
-Dragonas rivalizarán con el Cali
---------------------------------
-
-Más temprano, los equipos femeninos de Independiente Santa Fe y **Dragonas Independiente se clasificaron** desde el Grupo C.
-
-Las colombianas terminaron líderes de la llave con cinco puntos al igualar 1-1 con el Ferroviária brasileño, que terminó en la tercera casilla con tres.
-
-En tanto, **el plantel ecuatoriano ganó el segundo cupo de la llave** luego de vencer por 2-0 a Peñarol, último con dos enteros.
-
-De este modo, quedaron confirmados los cruces de la siguiente fase entre Independiente Santa Fe y Alianza Lima, y **Deportivo Cali con Dragonas Independiente**, encuentros que se celebrarán el domingo 13 de octubre.
-
-La lista de los ocho mejores equipos de la Libertadores también la integran Corinthians, a**ctual campeón de la Libertadores Femenina**, que se verá con el club paraguayo Olimpia, a la vez que el Santos de Brasil chocará con el Boca Juniors argentino, en partidos pactados para este sábado 12. 
-
-![Foto: Facebook Libertadores Femenina.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_2-1024x683.jpg)
-
-No te pierdas – El Confesionario
---------------------------------
-
-La Selección Ecuador con cuatro jugadores con riesgo de suspensión
-==================================================================
-
-La Selección de Ecuador arranca la rueda de revanchas de las eliminatorias al Mundial 2026 visitando a Uruguay.
----------------------------------------------------------------------------------------------------------------
-
-![Jugadores de la Selección de Ecuador en el juego ante Paraguay en octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_reinvindicacion_2.jpg)
-
-La Selección de Ecuador deja de lado el empate de local contra Paraguay y se alistan en **procura de la reivindicación a domicilio ante Uruguay**, el próximo martes 15 de octubre de 2024, por la décima fecha de las eliminatorias sudamericanas del Mundial 2026.
-
-Tras el reciente partido en la capital ecuatoriana, la Selección de Ecuador, **dirigida por el argentino Sebastián Beccacece**, se entrenó el viernes 11 y, jugadores como Alan Franco sostuvieron que saldrán por los tres puntos contra Uruguay.
-
-### Más noticias:
-
-* [Beccacece, satisfecho tras empate de la Selección de Ecuador con Paraguay](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-paraguay.html "Beccacece, satisfecho tras empate de la Selección de Ecuador con Paraguay")
-* [Chile perdió con Brasil en los minutos finales](https://www.elcomercio.com/deportes/futbol/chile-brasil-resultado-eliminatorias-2026.html "Chile perdió con Brasil en los minutos finales")
-* [Gustavo Alfaro acoge como ‘triunfo’ el cariño recibido en Ecuador](https://www.elcomercio.com/deportes/futbol/gustavo-alfaro-empate-quito-eliminatorias.html "Gustavo Alfaro acoge como ‘triunfo’ el cariño recibido en Ecuador")
-
-Ecuador efectuó **trabajos de recuperación de los jugadores que tuvieron mayor desgaste físico** contra los paraguayos, mientras que los que no actuaron o entraron al cambio, efectuaron trabajos mucho más exigente para encarar el cuarto encuentro de la mano de Beccacece.
-
-La Federación Ecuatoriana de Fútbol (FEF) publicó un vídeo, donde se observa a la mayoría de los jugadores, **efectuando trabajos y movimientos con balón en la concentración del equipo en Quito**, en la Casa de la Selección.
-
-Otros jugadores alientan la esperanza de encontrar los espacios cerca del arco uruguayo para poder concretar la propuesta de juego que propondrán en el estadio Centenario, cosa que no pudieron hacer de local por el riguroso sistema defensivo impuesto por los paraguayos.
-
-Uruguay navega entre las críticas
----------------------------------
-
-El seleccionador de Uruguay, Marcelo Bielsa, afirmó este viernes que las críticas de Luis Suárez en su contra han hecho que su **“autoridad quede, de algún modo, afectada**“, pero garantizó que la preparación para el partido que perdieron este viernes por 1-0 ante Perú la hizo “con máxima seriedad”.
-
-En la rueda de prensa tras la derrota de su equipo por la novena jornada de las eliminatorias suramericanas, Bielsa afirmó que la respuesta que encontró de los jugadores de cara al duelo “fue la misma” de siempre.
-
-Destacó la **“entrega generosa**” en un partido, que, a su juicio, debió haber concluido con empate.
-
-“La entrega del equipo fue muy generosa, más allá de cómo hayamos jugado. Creo que lo que pasó en la semana no condiciona ni explica, **no lo vinculo con cómo jugamos ni creo que haya tenido efecto** que haya sido una semana con mucha efervescencia”, dijo Bielsa en la rueda de prensa posterior al partido.
-
-De este modo se refirió a la polémica desatada, luego de que **Suárez dijera en una entrevista al programa ‘De Fútbol Se Habla Así’** de DSports que Bielsa tuvo malos modos con jugadores de la plantilla.
-
-En dicha entrevista, remarcó que hubo futbolistas que le pidieron al argentino “**que por lo menos les dijera ‘buen día**‘”, apuntó que no debería sorprender si más futbolistas renuncian a jugar con Uruguay y aseguró que hay trabajadores vinculados a la selección que no pueden disfrutar de su labor.
-
-Cuatro jugadores con tarjeta amarilla
--------------------------------------
-
-El histórico goleador del Inter de Miami, Estados Unidos, **Leonardo Campana, también ha resaltado encontrarse en plenitud** de condiciones y dispuesto a rendir al máximo durante el próximo partido, si es alineado desde el comienzo del encuentro por Beccacece.
-
-El empate sin goles ante la ‘Albirroja’ hizo que Ecuador perdiera el cuarto puesto, **ahora en manos de Brasil**, que ganó y sumó 13 puntos, contra los 12 y el quinto lugar de los ecuatorianos, mientras Uruguay, a falta del partido de este viernes contra Perú, está tercero, con 15 unidades.
-
-Contra Uruguay serán cuatro los jugadores que saldrán arrastrando una tarjeta amarilla: Félix Torres, Alan Franco, Kendry Páez y Moisés Caicedo.
-
-![Jugadores de la Selección de Ecuador en el Rodrigo Paz Delgado en octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_reinvindicacion_1-1024x683.jpg)
-
-Foto: Diego Pallero/EL COMERCIO.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Adultos mayores en Bolivia aprenden sobre tecnología
-====================================================
-
-Una de las clases más demandadas es la de nuevas tecnologías, en el horario de la mañana hay unos 15 estudiantes.
------------------------------------------------------------------------------------------------------------------
-
-![Adultos mayores crean un vínculo con las tecnologías.](https://www.elcomercio.com/wp-content/uploads/2024/10/manos-viejito-pexels.jpg)
-
-Más de 1000 **adultos mayores en Bolivia** se capacitan en nuevas **tecnologías, gastronomía y asesoramiento legal**. El objetivo es **incorporarse en alguna actividad económica** o que les permita tener una “vejez digna” e “independiente” en actividades cotidianas. Esto ocurre en un país en donde 6 de cada 10 personas mayores de 65 años trabajan, **la mayoría en la informalidad**.
-
-### Más noticias
-
-* [Evo Morales es investigado por ‘trata de personas’ en Bolivia](https://www.elcomercio.com/actualidad/mundo/evo-morales-investigado-trata-personas-violacion-menor-edad.html "Evo Morales es investigado por ‘trata de personas’ en Bolivia")
-* [Selección de Ecuador jugará contra Bolivia en Guayaquil](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-jugara-contra-bolivia-en-guayaquil.html "Selección de Ecuador jugará contra Bolivia en Guayaquil")
-* [Polémica en Bolivia por juego sucio de Chile en eliminatorias](https://www.elcomercio.com/deportes/futbol/polemica-en-bolivia-por-juego-sucio-de-chile-en-eliminatorias.html "Polémica en Bolivia por juego sucio de Chile en eliminatorias")
-
-La **Universidad del Adulto Mayor de la municipalidad de La Paz,** sede de Gobierno, es la entidad que brinda a personas de la tercera edad **esas oportunidades** para aprender a desarrollar nuevas habilidades.
-
-Cuestión de actitud
--------------------
-
-Aurora Bracamonte, quien fue estudiante de esta universidad, actualmente dicta clases de gastronomía y chocolatería a personas de su generación. Para ella, la **vejez “es una cuestión de actitud”** y por eso no hay que vivir “como viejos”.
-
-Renta dignidad
---------------
-
-“Me solidarizo con mis compañeras que solo viven con su **renta dignidad, entonces aprender a ha**cer chocolate artesanal hace que ellas puedan generar recursos y esa es mi gratificación”, dijo Aurora al comenzar su taller.
-
-La renta dignidad es una **pensión vitalicia** que el Estado otorga a los bolivianos mayores de 60 años que no reciben jubilación. El monto es de 4 550 bolivianos anuales (658 dólares).
-
-El secretario de Educación y Desarrollo Social de la Alcaldía de La Paz, Jaques Alcoba, contó que actualmente la **Universidad del Adulto Mayor** tiene **1 107 estudiantes mayores de 60 años** que reciben clases de tecnología, gastronomía, computación, inglés y asesoramiento en derecho, entre otros, de forma gratuita.
-
-“Es muy emotivo ver cuando estas personas están en un entorno de aprendizaje, dicen que ellas ya no pueden estudiar, **que ya no producen,** que son obsoletos para la sociedad y con esta universidad hemos roto ese mito porque cada vez tenemos más estudiantes”, enfatizó.
-
-Una de las clases más demandadas es la de nuevas tecnologías, en el horario de la mañana hay unos 15 estudiantes, cada uno con su celular en la mano y con un cuaderno de apuntes en la mesa.
-
-“Hoy en día es necesario **aprender tecnología para podernos comunicar** con las demás personas, aprender nuevas aplicaciones y también disfrutamos porque en momentos libres ya podemos mandar mensajes, chistes y meses”, comentó a EFE Angélica Polo.
-
- En Bolivia existen alrededor de **1 267 190 adultos mayores,** según el Instituto Nacional de Estadísticas (INE) y que equivale al 10,1 % de la población del país.
-
-Alcoba precisó que la proyección de envejecimiento al año 2030 es de un 5 % y que en La Paz el 12 % de la población es adulta mayor, eso significa 109 mil personas.
-
-**Danza y fisioterapia para activar el cuerpo**
------------------------------------------------
-
-En el cuarto piso del edificio principal de la universidad esta el **salón de danza**, allí hay una decena de mujeres de la tercera edad que cantan y bailan danzas folclóricas bolivianas.
-
-“Es mi segundo año y la universidad ha sido una bendición, hemos crecido espiritualmente, tenemos nuevas amigas, la verdad de que la edad es solo un número y la danza nos llena de salud”, afirmó Cecilia Vargas.
-
-Ella y sus compañeras forman parte del **ballet oficial de la universidad**, pero también algunas se inscribieron a **clases de nuevas tecnologías y orientación legal**, actividades que las mantiene ocupadas toda la semana.
-
-Los adultos mayores tienen acceso a **sesiones de fisioterapia por dolencias** como la artrosis, que es común en la tercera edad, y tienen sesiones colectivas de ejercicios para estirar los músculos.
-
-En algunas ocasiones, como en el caso de Néstor Herbas, la fisioterapia le ayudó luego de sufrir un accidente de tránsito.
-
-“Paso clases desde 2021, el año pasado tuve un accidente, pasé fisioterapia y he dejado las muletas y el bastón gracias a la sesiones”, indicó a Herbas.
-
-Juan Riquelme Angulo se vistió de héroe con un doblete ante Brasil
-==================================================================
-
-La Selección de Ecuador sub-15 está dirigida por Juan Carlos Burbano, exjugador de El Nacional.
------------------------------------------------------------------------------------------------
-
-![Juan Riquelme Angulo celebra uno de los goles marcado a Bolivia en el Sudamericano sub-15.](https://www.elcomercio.com/wp-content/uploads/2024/10/angulo_gol_1.jpg)
-
-**Juan Riquelme Angulo** se vistió de héroe y marcó el doblete con el que la Selección de Ecuador sub-15 le ganó a la de Brasil por 2-1, la noche del viernes 11 de octubre de 2024.
-
-Juan Angulo, **jugador de los registros de Independiente del Valle**, es uno de los más prometedores de la Selección de Ecuador, que quedó en la puerta de avanzar a las semifinales del torneo cuya sede es Santa Cruz de la Sierra, Bolivia.
-
-### Más noticias:
-
-* [¿Cuándo juega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-eliminatorias-mundial-2026.html "¿Cuándo juega la Selección de Ecuador ante Uruguay?")
-* [‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador](https://www.elcomercio.com/deportes/chito-vera-moises-caicedo-seleccion-ecuador.html "‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador")
-* [Dragonas a cuartos de final de la Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-libertadores-femenina-cuartos.html "Dragonas a cuartos de final de la Libertadores Femenina")
-
-Desde el inicio, apunta la Conmebol en su portal web, la Tri mostró seguridad y **pudo anotar el primer tanto en el minuto 11 de la mano de Angulo**, tras una jugada que la comandó Yaxi Johan García, jugador de Barcelona Sporting Club, por la zona derecha.
-
-La ‘Verdeamarela’ consiguió la igualdad con el remate de Ruan Barbosa a los 28 minutos, con un potente remate cruzado que dejó sin reacción a Miguel Peralta, arquero que juega en Independiente del Valle.
-
-Pero la noche estaba marcada para que **Angulo nuevamente anote y ponga a Ecuador adelante en el marcador a los 39** minutos del primer tiempo, en un nuevo contragolpe que, esta vez, se gestó por la zona izquierda.
-
-Para el joven delantero fue el tercer gol en el Sudamericano. En el empate 1-1 contra Uruguay en la primera jornada, también inscribió su nombre en el marcador.
-
-La segunda mitad fue reñida, y el **seleccionado brasileño en la búsqueda de invertir el resultado** no logró superar al rival, y el resultado final fue de 2-1.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBB0ZfdvVn1/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DBB0ZfdvVn1/?utm_source=ig_embed&utm_campaign=loading)
-
-Ecuador busca las semifinales
------------------------------
-
-Con este resultado la **Selección de Ecuador alcanzó los 5 puntos** y se ubica en la segunda posición del grupo B, liderado por Argentina con 7.
-
-Ecuador tiene en sus manos la clasificación a las semifinales. Un **triunfo en la última jornada ante Venezuela** le dará el boleto para meterse entre las cuatro mejores selecciones del torneo.
-
-Ecuatorianos y venezolanos jugarán el **domingo 13, desde las 17:00, en el estadio Ramón Aguilera Costas** de Santa Cruz de la Sierra, con el arbitraje del chileno Manuel Vergara.
-
-“Me siento muy feliz con el grupo y por haber anotado dos goles. No es fácil marcarle a Brasil, pero vengo trabajando para hacer un buen trabajo. **Ya pensamos en el siguiente partido que lo queremos ganar**“, declaró Angulo al departamento de prensa de la Federación Ecuatoriana de Fútbol.
-
-![Foto: La Tri.](https://www.elcomercio.com/wp-content/uploads/2024/10/angulo_gol_2-1024x683.jpg)
-
-Foto: La Tri.
-
-Convocados
-----------
-
-### Arqueros
-
-Miguel Peralta – Independiente del Valle  
-Mijail Vaca – El Nacional  
-Jostin García – Liga de Quito
-
-Defensas
---------
-
-Virgilio Olaya – Aucas  
-Deinner Ordóñez – Independiente del Valle  
-Jordan Mejía – Elche (ESP)  
-Bolívar Torres – Emelec  
-Fricio Caicedo – Liga de Quito  
-Jalmar Ramírez – Elche (ESP)  
-Darío Castillo – Barcelona SC  
-Benny Atahualpa Birner – Kieler Holstein (ALE)
-
-Volantes
---------
-
-Holger Quintero – Independiente del Valle  
-Justin Lerma – Independiente del Valle  
-Edwin Quintero – Independiente del Valle  
-Renato Caicedo – Universidad Católica  
-Yaxi García – Barcelona SC  
-Ederson Castillo – Liga de Quito  
-Jhosué Minda – Liga de Quito  
-Malcom Dacosta – Bournemouth (ING)
-
-Delanteros
-----------
-
-Kevin Pineda – Liga de Quito  
-Demcy Manteca – Liga de Quito  
-Juan Riquelme Angulo – Independiente del Valle
-
-No te pierdas – El Confesionario
---------------------------------
-
-Baltazar Ushca es despedido entre honores y recuerdos, en Guano
-===============================================================
-
-Baltazar Ushca, reconocido como el último hielero del Chimborazo, será despedido el 14 de octubre de 2024 en Pulingui, donde actualmente es velado en su hogar.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Baltazar dedicó más de cinco décadas de su vida a recolectar hielo del Chimborazo. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/c2ec03f2966db9514540d5403260a9a3325721e7.jpg)
-
-  
-El 14 de octubre de 2024, la comunidad de **Pulinguí** se unirá para rendir homenaje a **Baltazar Ushca**, reconocido y recordado como el **último representante de la ancestral tradición de recolección de hielo** en el Chimborazo. 
-
-### Más noticias
-
-* [Baltazar Ushca es velado en el Municipio de Guano](https://www.elcomercio.com/actualidad/ecuador/baltazar-ushca-velado-municipio-guano.html "https://www.elcomercio.com/actualidad/ecuador/baltazar-ushca-velado-municipio-guano.html")
-* [Baltazar Ushca, el último hielero del Chimborazo, deja un legado inmortal en el Ecuador](https://www.elcomercio.com/tendencias/cultura/baltazar-ushca-ultimo-hielero-chimborazo-biografia.html) 
-* [Falleció Baltazar Ushca, el último hielero del Ecuador](https://www.elcomercio.com/actualidad/ecuador/ecuador-perdio-ultimo-hielero-fallecio-baltazar-ushca.html)
-
-  
-**Baltazar Ushca,** quien dedicó más de cinco décadas de su vida a esta labor, deja una huella imborrable en la **cultura indígena** y en la **memoria colectiva de su comunidad**. Su sepelio no solo representa una despedida, sino también la **reivindicación de una tradición** que ha sido parte fundamental de la vida dela sierra ecuatoriana.
-
-  
-La **comunidad de Pulinguí,** ubicada en las faldas del **Chimborazo**, será el escenario de una ceremonia que reunirá a familiares, amigos y autoridades locales. Miguel Guamán, director de turismo del municipio de **Guano** y amigo cercano de **Baltazar**, destacó la importancia de su legado: “**Baltazar era mucho más que un recolector de hielo**, **era el corazón de nuestra cultura**. Su vida era un reflejo de nuestra conexión con la montaña”.
-
-La ceremonia de **sepelio** se llevará a cabo en el centro de la comunidad. Allí se honrará la memoria de un hombre que encarnó la **sabiduría ancestral y el respeto por la naturaleza**.
-
-  
-Baltazar en el turismo y la cultura
---------------------------------------
-
-**Baltazar Ushca** deja una historia, que trasciende fronteras. Se convirtió en un símbolo del **patrimonio cultural ecuatoriano**. Su labor ha sido documentada en diversos medios, resaltando la importancia de esta tradición casi extinguida. “**Su dedicación a la recolección de hielo era un acto de resistencia cultural**. Ahora, más que nunca, debemos preservar su legado y mantener viva esta tradición”, afirmó Guamán.
-
-El legado de Baltazar
----------------------
-
-  
-La muerte de **Baltazar Ushca** representa una pérdida significativa para la **comunidad de Pulinguí** y para la cultura indígena en Ecuador. Su legado vivirá a través de las **historias que se contarán** y de los esfuerzos por preservar la tradición de la recolección de hielo.
-
-La comunidad se prepara para **despedirlo con honores ancestrales**. Buscan que su memoria perdure en el corazón de las **futuras generaciones**. En palabras de Miguel Guamán: “**La vida de Baltazar es un ejemplo de cómo la conexión con nuestra cultura y nuestra tierra puede marcar la diferencia**. Debemos continuar su legado y enseñarle a las nuevas generaciones sobre nuestras tradiciones”.
-
-El sepelio de Baltazar
-----------------------
-
-  
-El sepelio de **Baltazar Ushca** se llevará a cabo el 14 de octubre de 2024. Actualmente, su cuerpo es velado **en su casa en Pulingui**, donde vivió junto a su esposa, quien falleció hace aproximadamente seis años.
-
-**Sus hijos residen en la misma comunidad**, así como sus nietos. Desde el municipio de Guano, se ha confirmado reconocer la vida y el trabajo de **Baltazar.**
-
-Franklin Cobo, comunicador del **municipio de Guano**, destaca la importancia de **Baltazar Ushca** en la historia y **cultura local**. Según Cobo, “es muy posible que Manuel, su hijo, continúe con la leyenda y siga trabajando para **recolectar hielo en el Chimborazo**”. Esta continuidad no solo representa un homenaje a su padre, sino también una oportunidad para preservar la tradición ancestral de recolección de hielo en la montaña.
-
-Cobo resalta que **Baltazar** siempre se destacó por su **humildad y dedicación**, aspectos que Manuel parece heredar. A medida que la comunidad se despide de **Baltazar**, su legado vive a través de las nuevas generaciones que buscan mantener viva la conexión con el **Chimborazo y sus tradiciones**.
-
-Jessica Jurado, actriz de ‘La Usurpadora’, fallece a los 56 años
-================================================================
-
-Jessica Jurado, reconocida por su papel en "La Usurpadora", falleció a los 56 años en México. La Asociación Nacional de Intérpretes confirmó la noticia.
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Jessica Jurado, durante la escena en la que Paulina le confiesa a Patricia que es la usurpadora.](https://www.elcomercio.com/wp-content/uploads/2024/10/Jessica-Jurado-La-usurpadora-telenovela.jpg)
-
-La actriz mexicana **Jessica Jurado**, famosa por interpretar a Patricia Bracho en la **telenovela La Usurpadora**, murió a los 56 años. La Asociación Nacional de Intérpretes (ANDI) fue la encargada de dar a conocer la noticia, sin especificar las causas del **fallecimiento**.
-
-### Más noticias
-
-* [Selección de Ecuador reta a Brasil en el horario de la telenovela de moda](https://www.elcomercio.com/deportes/eliminatorias/seleccion-de-ecuador-reta-a-brasil-horario-telenovela-de-moda.html "Selección de Ecuador reta a Brasil en el horario de la telenovela de moda")
-* [Murió actor de ‘Pasión de Gavilanes’ en Colombia](https://www.elcomercio.com/afull/murio-actor-pasion-de-gavilanes-colombia.html "ttps://www.elcomercio.com/afull/murio-actor-pasion-de-gavilanes-colombia.html")
-
-Jessica Jurado participó en la telenovela La usurpadora
--------------------------------------------------------
-
-**Jessica Jurado**, nacida el 12 de octubre de 1968 en Guadalajara, Jalisco, era parte de la reconocida **“dinastía Bracho”**, dentro de las telenovelas mexicanas.
-
-La **Asociación Nacional de Intérpretes (ANDI)** anunció a través de redes sociales el fallecimiento de la actriz, que además participó en otras famosas **producciones**.
-
-“Se Comunica el sensible fallecimiento de nuestra socia intérprete Jessica Jurado. Actriz mexicana recordada por el personaje de **Patricia Bracho en la telenovela** _**La Usurpadora**_”, se lee en el breve mensaje donde le dan sus condolencias a familiares y amigos de la actriz.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBANVRXNtqR/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Asociación Nacional de Intérpretes (@andimexico)](https://www.instagram.com/p/DBANVRXNtqR/?utm_source=ig_embed&utm_campaign=loading)
-
-Las novelas fueron su mayor apuesta
------------------------------------
-
-La actriz se destacó por su actuación en diversas producciones televisivas, siendo su papel en _**La Usurpadora**_ el que la catapultó a la fama. En esta **telenovela**, transmitida en 1998, interpretó a **Patricia** **Bracho**, uno de los personajes más recordados por los fanáticos del melodrama mexicano.
-
-Jurado comenzó su carrera en 1986 con la telenovela _**Marionetas**_, donde dio vida a Alejandra Valencia, un personaje que le permitió debutar como actriz.
-
-A partir de allí, su trayectoria continuó en ascenso. Participó en _Amor en silencio_ en 1988 y en la icónica _**María la del Barrio**_ en 1995, donde encarnó a Verónica Robles, la madre de Tita (Ludwika Paleta), quien busca reconectar con su hija. Estos roles consolidaron su presencia en la televisión mexicana.
-
-El reconocimiento llegó con **_La Usurpadora_,** donde compartió pantalla con **Gabriela Spanic**, Marcelo Buquet, Libertad Lamarque. Su personaje, **Patricia Bracho**, la hizo inolvidable para el público, al igual que su participación en la película _**Más allá de la usurpadora**_.
-
-Retirada del ojo público
-------------------------
-
-Sin embargo, después de su trabajo en la serie **_Entre el amor y el odio_ en 2002**, Jessica decidió **retirarse** de los reflectores, manteniendo una vida alejada de la opinión pública durante más de dos décadas.
-
-La noticia de su fallecimiento ha generado gran conmoción entre sus **seguidores**, quienes recuerdan con cariño los personajes que interpretó.
-
-A pesar de que la **Asociación Nacional de Intérpretes** no reveló detalles sobre la causa de su muerte, la actriz dejó un legado importante en la historia de las telenovelas mexicanas. Hasta el momento, su familia no ha emitido un comunicado oficial al respecto.
