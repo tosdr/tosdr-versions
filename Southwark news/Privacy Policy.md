@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Following by Kim Se-hwi (credit: London Korean Film Festival)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-16.19-e1728660050624-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/korean-film-festival-is-coming-to-the-south-bank-next-month/)
+    
+    ### [Korean film festival is coming to the South Bank next month](https://southwarknews.co.uk/area/south-bank/korean-film-festival-is-coming-to-the-south-bank-next-month/)
+    
+    [![London mayor Sadiq Khan. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/06/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/we-cant-have-more-austerity-weve-had-14-years-of-austerity-says-londons-mayor/)
+    
+    ### [‘We can’t have more austerity – We’ve had 14 years of austerity,’ says London’s mayor](https://southwarknews.co.uk/area/london/we-cant-have-more-austerity-weve-had-14-years-of-austerity-says-londons-mayor/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/christopher-biggins-darts-360x180.jpg)](https://southwarknews.co.uk/news/community/south-london-celebrates-success-at-over-60s-olympics/)
+    
+    ### [South London celebrates success at ‘over-60’s Olympics’](https://southwarknews.co.uk/news/community/south-london-celebrates-success-at-over-60s-olympics/)
+    
     [![Marina Ahmad](https://southwarknews.co.uk/wp-content/uploads/2022/11/Marina-Ahmad-AM-360x180.jpg)](https://southwarknews.co.uk/area/southwark/lets-ensure-that-every-child-has-the-chance-to-develop-a-healthy-smile-writes-marina-ahmad/)
     
     ### [‘Let’s ensure that every child has the chance to develop a healthy smile,’ writes Marina Ahmad](https://southwarknews.co.uk/area/southwark/lets-ensure-that-every-child-has-the-chance-to-develop-a-healthy-smile-writes-marina-ahmad/)
@@ -42,18 +54,6 @@
     [![The Blue Market. Credit: The Blue BID](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-11-15-20-12-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
     
     ### [‘Greening the Blue’: Eco event series coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
-    
-    [![L: Resident shares her opinion; R: Brixton Village (credit: Isabel Ramírez)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-12.46-360x180.jpg)](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
-    
-    ### [Exclusive: Brixton Market traders say they ‘were not told’ about the market going up for sale](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
-    
-    [![The office scheme approved in 2021](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-office-scheme-approved-in-2021-e1728638709751-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
-    
-    ### [Southwark Station to close for nine weekends from October](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2022/07/WEB-Night-Tube-360x180.jpg)](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
-    
-    ### [Proposals for the Night Tube to run on Thursday nights are being kept ‘under review’](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Following by Kim Se-hwi (credit: London Korean Film Festival)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-16.19-e1728660050624-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/korean-film-festival-is-coming-to-the-south-bank-next-month/)
+    
+    ### [Korean film festival is coming to the South Bank next month](https://southwarknews.co.uk/area/south-bank/korean-film-festival-is-coming-to-the-south-bank-next-month/)
+    
+    [![London mayor Sadiq Khan. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/06/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/we-cant-have-more-austerity-weve-had-14-years-of-austerity-says-londons-mayor/)
+    
+    ### [‘We can’t have more austerity – We’ve had 14 years of austerity,’ says London’s mayor](https://southwarknews.co.uk/area/london/we-cant-have-more-austerity-weve-had-14-years-of-austerity-says-londons-mayor/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/christopher-biggins-darts-360x180.jpg)](https://southwarknews.co.uk/news/community/south-london-celebrates-success-at-over-60s-olympics/)
+    
+    ### [South London celebrates success at ‘over-60’s Olympics’](https://southwarknews.co.uk/news/community/south-london-celebrates-success-at-over-60s-olympics/)
+    
     [![Marina Ahmad](https://southwarknews.co.uk/wp-content/uploads/2022/11/Marina-Ahmad-AM-360x180.jpg)](https://southwarknews.co.uk/area/southwark/lets-ensure-that-every-child-has-the-chance-to-develop-a-healthy-smile-writes-marina-ahmad/)
     
     ### [‘Let’s ensure that every child has the chance to develop a healthy smile,’ writes Marina Ahmad](https://southwarknews.co.uk/area/southwark/lets-ensure-that-every-child-has-the-chance-to-develop-a-healthy-smile-writes-marina-ahmad/)
@@ -122,18 +134,6 @@ View All Result
     [![The Blue Market. Credit: The Blue BID](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-11-15-20-12-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
     
     ### [‘Greening the Blue’: Eco event series coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
-    
-    [![L: Resident shares her opinion; R: Brixton Village (credit: Isabel Ramírez)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-12.46-360x180.jpg)](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
-    
-    ### [Exclusive: Brixton Market traders say they ‘were not told’ about the market going up for sale](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
-    
-    [![The office scheme approved in 2021](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-office-scheme-approved-in-2021-e1728638709751-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
-    
-    ### [Southwark Station to close for nine weekends from October](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2022/07/WEB-Night-Tube-360x180.jpg)](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
-    
-    ### [Proposals for the Night Tube to run on Thursday nights are being kept ‘under review’](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
