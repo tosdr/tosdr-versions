@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![A woman in a skirt and jacket](https://www.women.com/img/gallery/wrong-jacket-theory-is-the-perfect-way-to-upgrade-your-fall-winter-outfits/intro-1728582522.jpg)](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
+*  [![Ivanka Trump at an event](https://www.women.com/img/gallery/trends-ivanka-trump-has-nailed-with-her-polished-style/intro-1728585306.jpg)](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
     [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
     
-    [Wrong Jacket Theory Is The Perfect Way To Upgrade Your Fall & Winter Outfits](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
-    ==============================================================================================================================================================
+    [Trends Ivanka Trump Has Nailed With Her Polished Style](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+    =======================================================================================================================================
     
-    Wrong jacket theory, like wrong shoe theory, embraces unexpected combinations. Easily add interest to your fall and winter outfits by mixing up your outerwear.
+    Ivanka Trump has embraced some fun, flirty styles since leaving the White House. Her post-politics outfits nail recent trends like monochromatic looks.
     
-    By Bernadette Roe [Read More](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
+    By Bernadette Roe [Read More](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
     
-* *  [![Kristen Stewart at an event](https://www.women.com/img/gallery/5-kristen-stewart-looks-that-bella-swan-wouldve-hated/intro-1728592311.jpg)](https://www.women.com/1685585/kristen-stewart-looks-bella-swan-twilight-would-hate/)
+* *  [![Suri Cruise posing](https://www.women.com/img/gallery/suri-cruises-style-has-totally-transformed-over-the-years/intro-1727979833.jpg)](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        
+        ### [Suri Cruise's Style Has Totally Transformed Over The Years](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
+        
+        Suri Cruise, one of the most photographed celebrity tots in the world, started life in dresses and bows, but her style has totally transformed since the 2000s.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
+        
+    *  [![A woman in a skirt and jacket](https://www.women.com/img/gallery/wrong-jacket-theory-is-the-perfect-way-to-upgrade-your-fall-winter-outfits/intro-1728582522.jpg)](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
         [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
         
-        ### [5 Kristen Stewart Looks That Bella Swan Would've Hated](https://www.women.com/1685585/kristen-stewart-looks-bella-swan-twilight-would-hate/)
+        ### [Wrong Jacket Theory Is The Perfect Way To Upgrade Your Fall & Winter Outfits](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
         
-        Kristen Stewart may have no problem making a bold fashion statement, but her "Twilight" character couldn't be more different.
+        Wrong jacket theory, like wrong shoe theory, embraces unexpected combinations. Easily add interest to your fall and winter outfits by mixing up your outerwear.
         
-        By Bernadette Roe [Read More](https://www.women.com/1685585/kristen-stewart-looks-bella-swan-twilight-would-hate/)
-        
-    *  [![Julia Roberts](https://www.women.com/img/gallery/julia-robertss-most-iconic-hair-looks-of-all-time/intro-1728426066.jpg)](https://www.women.com/1683509/julia-roberts-most-iconic-hair-looks/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-        
-        ### [Julia Roberts's Most Iconic Hair Looks Of All Time](https://www.women.com/1683509/julia-roberts-most-iconic-hair-looks/)
-        
-        While the thought of Julia Roberts is likely to conjure thoughts of big, curly hair, the actress has experimented with far more looks than just that.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1683509/julia-roberts-most-iconic-hair-looks/)
+        By Bernadette Roe [Read More](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
         
 
 More Stories
 ------------
 
+*  [![Kristen Stewart at an event](https://www.women.com/img/gallery/5-kristen-stewart-looks-that-bella-swan-wouldve-hated/intro-1728592311.jpg)](https://www.women.com/1685585/kristen-stewart-looks-bella-swan-twilight-would-hate/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [5 Kristen Stewart Looks That Bella Swan Would've Hated](https://www.women.com/1685585/kristen-stewart-looks-bella-swan-twilight-would-hate/)
+    
+    Kristen Stewart may have no problem making a bold fashion statement, but her "Twilight" character couldn't be more different.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1685585/kristen-stewart-looks-bella-swan-twilight-would-hate/)
+    
+*  [![Julia Roberts](https://www.women.com/img/gallery/julia-robertss-most-iconic-hair-looks-of-all-time/intro-1728426066.jpg)](https://www.women.com/1683509/julia-roberts-most-iconic-hair-looks/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Julia Roberts's Most Iconic Hair Looks Of All Time](https://www.women.com/1683509/julia-roberts-most-iconic-hair-looks/)
+    
+    While the thought of Julia Roberts is likely to conjure thoughts of big, curly hair, the actress has experimented with far more looks than just that.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1683509/julia-roberts-most-iconic-hair-looks/)
+    
 *  [![Angelina Jolie red lipstick](https://www.women.com/img/gallery/angelina-jolies-best-old-hollywood-looks-that-prove-shes-the-ultimate-movie-star/intro-1728415128.jpg)](https://www.women.com/1683257/angelina-jolie-best-old-hollywood-looks-prove-ultimate-move-star/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -381,30 +405,6 @@ More Stories
     We look to Taylor Swift for everything from book recs to Instagram captions. So why wouldn't we look to her for Halloween costume ideas?
     
     By Emily Hutchinson [Read More](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
-    
-*  [![Kate Moss skinny scarf](https://www.women.com/img/gallery/the-celeb-approved-early-aughts-skinny-scarf-trend-is-officially-back/intro-1727285222.jpg)](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [The Celeb-Approved Early Aughts Skinny Scarf Trend Is Officially Back](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
-    
-    Whether you love the skinny scarf like Kate Moss or feel it's your duty to at least try it out, you'll need some inspiration before stocking up.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1673332/celeb-approved-early-aughts-skinny-scarf-trend-officially-back/)
-    
-*  [![Kate Winslet](https://www.women.com/img/gallery/5-times-kate-winslet-shut-down-body-shamers/intro-1727290672.jpg)](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-    
-    ### [5 Times Kate Winslet Shut Down Body Shamers](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
-    
-    Over the years, Kate Winslet has become a pro at shutting down body shamers, and now she's out to eradicate them for good.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1673497/times-kate-winslet-shut-down-body-shamers/)
     
 
 Back
