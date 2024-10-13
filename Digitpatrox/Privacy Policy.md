@@ -20,16 +20,16 @@ Sunday, October 13 2024
 
 Latest
 
-* [Deepfakes Can Fool Facial Recognition on Crypto Exchanges](https://digitpatrox.com/deepfakes-can-fool-facial-recognition-on-crypto-exchanges/)
-* [NYT Strands today — hints, spangram and answers for game #224 (Sunday, October 13 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-224-sunday-october-13-2024/)
-* [OpenAI confirms threat actors use ChatGPT to write malware](https://digitpatrox.com/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
-* [Starship’s fifth test flight is approved: where to watch the launch](https://digitpatrox.com/starships-fifth-test-flight-is-approved-where-to-watch-the-launch/)
-* [NYT Connections Today: Hints and Answers for October 13, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-13-2024/)
-* [Microsoft brings Copilot AI tools to OneDrive – Computerworld](https://digitpatrox.com/microsoft-brings-copilot-ai-tools-to-onedrive-computerworld/)
-* [When It’s Time to Stop Watering Your Lawn, Trees, and Garden in Fall](https://digitpatrox.com/when-its-time-to-stop-watering-your-lawn-trees-and-garden-in-fall/)
-* [Does the 5-Second Rule Work?](https://digitpatrox.com/does-the-5-second-rule-work/)
-* [I Only Use Microsoft Word in Dark Mode—Here’s How You Can Too](https://digitpatrox.com/i-only-use-microsoft-word-in-dark-mode-heres-how-you-can-too/)
-* [The Latest Call Center IVR Upgrades Are Slashing Wait Times](https://digitpatrox.com/the-latest-call-center-ivr-upgrades-are-slashing-wait-times/)
+* [This Is How Apple Intelligence’s Notification Summaries Handle Breakup Texts](https://digitpatrox.com/this-is-how-apple-intelligences-notification-summaries-handle-breakup-texts/)
+* [Most Fuel-Efficient Used Compact SUVs](https://digitpatrox.com/most-fuel-efficient-used-compact-suvs/)
+* [Fake Job Listings are Everywhere; Here’s How to Avoid Them](https://digitpatrox.com/fake-job-listings-are-everywhere-heres-how-to-avoid-them/)
+* [8 Simple Call Center Best Practices That Require $0 Spend](https://digitpatrox.com/8-simple-call-center-best-practices-that-require-0-spend/)
+* [The Keychron Q14 Max is the best ergonomic keyboard I’ve used so far — and my wrists have never been this pain-free](https://digitpatrox.com/the-keychron-q14-max-is-the-best-ergonomic-keyboard-ive-used-so-far-and-my-wrists-have-never-been-this-pain-free/)
+* [WordPress.org’s latest move involves taking control of a WP Engine plugin](https://digitpatrox.com/wordpress-orgs-latest-move-involves-taking-control-of-a-wp-engine-plugin/)
+* [Today’s Wordle Answer and Hints (October 13, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-13-2024/)
+* [DOJ suggests splitting off Chrome and Android to break Google’s monopoly](https://digitpatrox.com/doj-suggests-splitting-off-chrome-and-android-to-break-googles-monopoly/)
+* [You Need a Better Broom (and Here Are Six to Choose From)](https://digitpatrox.com/you-need-a-better-broom-and-here-are-six-to-choose-from/)
+* [Best Dish Drying Racks and Mats](https://digitpatrox.com/best-dish-drying-racks-and-mats/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241011-ai-deepfake-video-crypto-accounts.jpg)](https://digitpatrox.com/deepfakes-can-fool-facial-recognition-on-crypto-exchanges/)
+* [![](https://lifehacker.com/imagery/articles/01J9Y82VJJBC626B3SE2ZHFPVG/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/this-is-how-apple-intelligences-notification-summaries-handle-breakup-texts/)
     
-    [Deepfakes Can Fool Facial Recognition on Crypto Exchanges](https://digitpatrox.com/deepfakes-can-fool-facial-recognition-on-crypto-exchanges/)
+    [This Is How Apple Intelligence’s Notification Summaries Handle Breakup Texts](https://digitpatrox.com/this-is-how-apple-intelligences-notification-summaries-handle-breakup-texts/)
     
-    35 mins ago
+    3 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-224-sunday-october-13-2024/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1671550464/prod/content/dam/CRO-Images-2022/Cars/12December/CR-Cars-InlineHero-Most-Fuel-Efficient-Used-Compact-SUVs-1222)](https://digitpatrox.com/most-fuel-efficient-used-compact-suvs/)
     
-    [NYT Strands today — hints, spangram and answers for game #224 (Sunday, October 13 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-224-sunday-october-13-2024/)
+    [Most Fuel-Efficient Used Compact SUVs](https://digitpatrox.com/most-fuel-efficient-used-compact-suvs/)
     
-    50 mins ago
+    34 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2022/05/12/ai-cybersecurity-hacker.jpg)](https://digitpatrox.com/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/kground.jpg)](https://digitpatrox.com/fake-job-listings-are-everywhere-heres-how-to-avoid-them/)
     
-    [OpenAI confirms threat actors use ChatGPT to write malware](https://digitpatrox.com/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
+    [Fake Job Listings are Everywhere; Here’s How to Avoid Them](https://digitpatrox.com/fake-job-listings-are-everywhere-heres-how-to-avoid-them/)
     
-    1 hour ago
+    37 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/4K9nCisaviTAd7mbw7bzrFgUnHg=/0x0:2050x1079/1200x628/filters:focal(1025x540:1026x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25674333/Starship_fifth_flight.jpeg)](https://digitpatrox.com/starships-fifth-test-flight-is-approved-where-to-watch-the-launch/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/Yan-Krukau-pexels-yankrukov-8866743.jpeg)](https://digitpatrox.com/8-simple-call-center-best-practices-that-require-0-spend/)
     
-    [Starship’s fifth test flight is approved: where to watch the launch](https://digitpatrox.com/starships-fifth-test-flight-is-approved-where-to-watch-the-launch/)
+    [8 Simple Call Center Best Practices That Require $0 Spend](https://digitpatrox.com/8-simple-call-center-best-practices-that-require-0-spend/)
     
     2 hours ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/07/NYT-Connections-Today-Featured.jpg?w=1250&quality=75)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-13-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/TCoaxJAJiVzE5KDredAmwM-1200-80.jpg)](https://digitpatrox.com/the-keychron-q14-max-is-the-best-ergonomic-keyboard-ive-used-so-far-and-my-wrists-have-never-been-this-pain-free/)
     
-    [NYT Connections Today: Hints and Answers for October 13, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-13-2024/)
+    [The Keychron Q14 Max is the best ergonomic keyboard I’ve used so far — and my wrists have never been this pain-free](https://digitpatrox.com/the-keychron-q14-max-is-the-best-ergonomic-keyboard-ive-used-so-far-and-my-wrists-have-never-been-this-pain-free/)
     
     2 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [35 mins ago
+* [3 mins ago
     
-    ### Deepfakes Can Fool Facial Recognition on Crypto Exchanges](https://digitpatrox.com/deepfakes-can-fool-facial-recognition-on-crypto-exchanges/)
-* [50 mins ago
+    ### This Is How Apple Intelligence’s Notification Summaries Handle Breakup Texts](https://digitpatrox.com/this-is-how-apple-intelligences-notification-summaries-handle-breakup-texts/)
+* [34 mins ago
     
-    ### NYT Strands today — hints, spangram and answers for game #224 (Sunday, October 13 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-224-sunday-october-13-2024/)
-* [1 hour ago
+    ### Most Fuel-Efficient Used Compact SUVs](https://digitpatrox.com/most-fuel-efficient-used-compact-suvs/)
+* [37 mins ago
     
-    ### OpenAI confirms threat actors use ChatGPT to write malware](https://digitpatrox.com/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
+    ### Fake Job Listings are Everywhere; Here’s How to Avoid Them](https://digitpatrox.com/fake-job-listings-are-everywhere-heres-how-to-avoid-them/)
 
 Most Popular Topics
 
-* [September 12, 2024
+* [September 2, 2024
     
-    ### Google Chrome makes it easier to opt out of annoying notifications on Android](https://digitpatrox.com/google-chrome-makes-it-easier-to-opt-out-of-annoying-notifications-on-android/)
-* [2 weeks ago
+    ### Best Movies and TV Shows on Prime This Month](https://digitpatrox.com/best-movies-and-tv-shows-on-prime-this-month/)
+* [September 13, 2024
     
-    ### Intel and the US set to seal $8.5B CHIPS Act funding – Computerworld](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
-* [2 weeks ago
+    ### Wordle Answer for Today, September 13, 2024](https://digitpatrox.com/wordle-answer-for-today-september-13-2024/)
+* [August 15, 2024
     
-    ### What Is No-Code Automation?](https://digitpatrox.com/what-is-no-code-automation/)
+    ### NetSuite vulnerability could leave thousands of websites exposed](https://digitpatrox.com/netsuite-vulnerability-could-leave-thousands-of-websites-exposed/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [3 hours ago
     
-    ### When It’s Time to Stop Watering Your Lawn, Trees, and Garden in Fall](https://digitpatrox.com/when-its-time-to-stop-watering-your-lawn-trees-and-garden-in-fall/)
+    ### Today’s Wordle Answer and Hints (October 13, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-13-2024/)
 * [5 hours ago
     
-    ### Does the 5-Second Rule Work?](https://digitpatrox.com/does-the-5-second-rule-work/)
+    ### DOJ suggests splitting off Chrome and Android to break Google’s monopoly](https://digitpatrox.com/doj-suggests-splitting-off-chrome-and-android-to-break-googles-monopoly/)
 * [5 hours ago
     
-    ### I Only Use Microsoft Word in Dark Mode—Here’s How You Can Too](https://digitpatrox.com/i-only-use-microsoft-word-in-dark-mode-heres-how-you-can-too/)
+    ### You Need a Better Broom (and Here Are Six to Choose From)](https://digitpatrox.com/you-need-a-better-broom-and-here-are-six-to-choose-from/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 21, 2024
-    
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
