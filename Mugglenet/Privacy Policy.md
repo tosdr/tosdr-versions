@@ -244,20 +244,6 @@ MuggleNet Archive Select Month October 2024  (7) September 2024  (30) August 2
 
 ### October 2024
 
-#### Sat, Oct 12
-
-Harry performs Levicorpus on a sleeping Ron
-
-Recurs yearly
-
-1996
-
-Katie Bell Imperiused by Madam Rosmerta
-
-Recurs yearly
-
-1996
-
 #### Mon, Oct 14
 
 Dumbledore shows Harry his memory of Tom Riddle at the orphanage
@@ -288,6 +274,14 @@ Recurs yearly
 
 Young Albus Dumbledore
 
+#### Sat, Oct 19
+
+Sir Michael Gambon's birthday RIP
+
+Recurs yearly
+
+Albus Dumbledore (PoA-DH2)
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -298,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Jason Isaacs, who portrays Lucius Malfoy, believes that Lucius is cold to Draco because Lucius was raised in a similar way.
+The giant squid is a peaceful creature. It can be seen coming up to the surface to be tickled or fed toast; it has even been known to rescue students who have fallen in.
 
 ### Potter History
 
-January 5, 2008 – Warner Bros. announces that all of their films, including the Harry Potter series, will only be produced in Blu-ray, thus immediately ending the HD-DVD/Blu-ray war.
+April 22, 2007 – The first trailer for Harry Potter and the Order of the Phoenix premieres for international movie audiences.
 
 ### Potter Quote
 
-“Malfoy’s got detention! I could sing!”
+“What are Fred and I, next-door neighbors?”
 
 [](#)
 
