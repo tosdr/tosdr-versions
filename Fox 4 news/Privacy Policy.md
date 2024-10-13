@@ -402,6 +402,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Atatiana Jefferson honored by Fort Worth community 5 years after shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/atatiana-jefferson-tay-day.jpg?ve=1&tl=1)
+
+ ![Atatiana Jefferson honored by Fort Worth community 5 years after shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/atatiana-jefferson-tay-day.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/atatiana-jefferson-tay-day-parade-2024)
+
+### [Atatiana Jefferson honored by Fort Worth community 5 years after shooting](https://www.fox4news.com/news/atatiana-jefferson-tay-day-parade-2024)
+
  [![Ewers returns as No. 1 Texas beats No. 18 Oklahoma 34-3 in 1st Red River Rivalry game as SEC members](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2178138834.jpg?ve=1&tl=1)
 
  ![Ewers returns as No. 1 Texas beats No. 18 Oklahoma 34-3 in 1st Red River Rivalry game as SEC members](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178138834.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/ewers-returns-no-1-texas-beats-no-18-oklahoma-34-3-1st-red-river-rivalry-game-sec-members)
@@ -425,12 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Arkansas father kills man found with missing 14-year-old daughter: police](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1506271370-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/aaron-spencer-arkansas-father-kills-man-found-missing-14-year-old-daughter)
 
 ### [Arkansas father kills man found with missing 14-year-old daughter: police](https://www.fox4news.com/news/aaron-spencer-arkansas-father-kills-man-found-missing-14-year-old-daughter)
-
- [![Halloween party shootout: 1 dead, at least 12 injured in Oklahoma City](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1446079326-4-scaled.jpg?ve=1&tl=1)
-
- ![Halloween party shootout: 1 dead, at least 12 injured in Oklahoma City](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1446079326-4-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oklahoma-city-shooting-halloween-party)
-
-### [Halloween party shootout: 1 dead, at least 12 injured in Oklahoma City](https://www.fox4news.com/news/oklahoma-city-shooting-halloween-party)
 
 ###### [News](https://www.fox4news.com/news)
 
