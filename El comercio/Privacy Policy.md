@@ -31,6 +31,503 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Deportivo Quito entrenó con el volcán Cotopaxi de testigo
+=========================================================
+
+Deportivo Quito es uno de los 32 equipos que aún pugnan por uno de los dos cupos para ascender a la Serie B 2025.
+-----------------------------------------------------------------------------------------------------------------
+
+![Jugadores del Deportivo Quito en octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/quito_cotopaxi_1.jpg)
+
+**Deportivo Quito** sigue con sus entrenamientos previos a los que será la llave de los dieciseisavos de final del Torneo Nacional de Ascenso, que está a cargo en el nivel organizativo de la Federación Ecuatoriana de Fútbol.
+
+Tras el sorteo de los dieciseisavos de final realizado el miércoles 9 de octubre de 2024, **Deportivo Quito quedó emparejado en la parte derecha** del mapa de partidos, con 11 equipos de la Costa, tres de la Sierra y dos de la Amazonía.
+
+### Más noticias:
+
+* [¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/como-fue-el-regreso-de-leonardo-campana-a-la-seleccion-de-ecuador.html "¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?")
+* [Juan Riquelme Angulo se vistió de héroe con un doblete ante Brasil](https://www.elcomercio.com/deportes/futbol/juan-riquelme-angulo-goles-ecuador.html "Juan Riquelme Angulo se vistió de héroe con un doblete ante Brasil")
+* [Lula defiende una Brasil sin futbolistas que jueguen fuera del país](https://www.elcomercio.com/deportes/futbol/lula-defiende-una-brasil-sin-futbolistas-que-jueguen-fuera-del-pais.html "Lula defiende una Brasil sin futbolistas que jueguen fuera del país")
+
+Para llegar a los dieciseisavos de final, el Quito **no tuvo problemas para derrotar contundentemente a Santa Elena Sporting Club** por un marcador global de de 5-1, gracias al 3-0 registrado en el estadio del Complejo de Independiente del Valle; y el 2-1 de la revancha en Samborondón.
+
+En esta nueva fase se medirá a **Cantera Orense, club con sede en Machala**, que dejó en el camino a la Cantera de Pastaza con un global de 6-1, luego de ganar en la ida 4-1 y en la revancha por 0-2.
+
+Hasta las semifinales el formato del Ascenso Nacional contempla partidos de ida y vuelta.
+
+La gran final se jugará en una final única tal como se viene realizando desde 2020, donde la primera sede el estadio Municipal de Otavalo; **en el 2021 el Reina del Cisne de Loja**; en el 2022 el 7 de Octubre de Quevedo; y en el 2023 el Olímpico de Ibarra.
+
+![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/quito_cotopaxi_2-1024x683.jpg)
+
+Foto: Facebook del club.
+
+El Quito se fue al Cotopaxi
+---------------------------
+
+Como parte del proceso de preparación planificada por Carlos Castro, entrenador del Deportivo Quito, fue hacer una sesión de entrenamiento con el volcán Cotopaxi como testigo del arduo trabajo físico.
+
+El plantel partido desde el **Complejo Ney Mancheno Velasco en Carcelén** en las primera horas del viernes 11 de octubre. Lo hizo vía terrestre en un ambiente lleno de camaradería y el buen ambiente que prima por estos días en la ‘AKD’.
+
+Una vez en el lugar **realizaron varios circuitos de resistencia y fuerza** para mejorar la condición física de sus jugadores, siempre con Castro a la cabeza, que no tuvo problemas a la hora de volver a vestirse de ‘corto’, tal como en su etapa de jugador activo.
+
+> ¿Y si le damos un día tranqui 😎 por ser feriado? 🏃🏾‍♂️🏋🏾‍♀️ ¡Venga! [#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) objetivos claros 💙❤️ [pic.twitter.com/bVm5x13T9S](https://t.co/bVm5x13T9S)
+> 
+> — SD Quito Oficial (@SDQuito\_Oficial) [October 12, 2024](https://twitter.com/SDQuito_Oficial/status/1845127719782080685?ref_src=twsrc%5Etfw)
+
+Clasificados a los dieciseisavos de final
+-----------------------------------------
+
+### Zona izquierda
+
+Jipijapa (Manabí) vs. Deportivo Quevedo (Los Ríos)
+
+**Atlético Vinotinto (Pichincha) vs. Olmedo (Chimborazo)**
+
+La Paz (Manabí) vs. Atlético JBG (Guayas)
+
+**Miguel Iturralde (Pichincha) vs. Mineros (Bolívar)**
+
+Luz Valdivia (Santa Elena) vs. La Unión (Cotopaxi)
+
+**11 de Mayo (Manabí) vs. Patria (Guayas)**
+
+La Troncal (Cañar) vs. Juventud Italiana (Manabí)
+
+**Cuenca Juniors (Azuay) vs. Guaranda (Bolívar)**
+
+### Zona derecha
+
+Liga de Portoviejo (Manabí) vs. Daquilema (Chimborazo)
+
+**Naranja Mekánica (Guayas) vs. Huaquillas (El Oro)**
+
+Cantera Orense (El Oro) vs. Deportivo Quito (Pichincha)
+
+**Toreros (Guayas) vs. Santa Elena Sumpa (Santa Elena)**
+
+22 de Julio (Esmeraldas) vs. San Camilo (Los Ríos)
+
+**Ecuagenera (Zamora Chinchipe) vs. Huancavilca (Santa Elena)**
+
+Aviced (Azuay) vs. Everest (Guayas)
+
+**New Porto (Manabí) vs. Primero de Mayo (Zamora Chinchipe)**
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre
+============================================================================================
+
+La ministra de Energía encargada, Inés Manzano, señaló que los próximos días serán críticos debido a la escasez de lluvias.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz continuarán debido a la escasez de lluvias, que afecta el funcionamiento de las hidroeléctricas. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-quito-14.jpg)
+
+La **Empresa Eléctrica Quito** (EEQ) publicó los horarios de **cortes de luz** en **Quito**, para la semana del lunes 14 al domingo 20 de octubre de 2024. Los racionamientos de electricidad serán de hasta de 10 horas al día.
+
+### Más noticias
+
+* [Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios](https://www.elcomercio.com/actualidad/negocios/cortes-luz-continuan-14-al-20-octubre-2024-conozca-nuevos-horarios.html "Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios")
+* [Ecuador va a su propio ritmo en la apuesta de energías renovables](https://www.elcomercio.com/actualidad/negocios/ecuador-propio-ritmo-apuesta-energias-renovables.html "Ecuador va a su propio ritmo en la apuesta de energías renovables")
+* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
+
+La ministra de Energía encargada, **Inés Manzano**, señaló que los próximos días serán críticos debido a la escasez de lluvias, que afecta el funcionamiento de las hidroeléctricas del país.
+
+La EEQ programó **cortes de luz** de 10 horas para cada sector, en dos períodos de entre tres y siete horas.
+
+Revise el horario de corte de luz para su sector
+------------------------------------------------
+
+En el siguiente cronograma constan los horarios desde el lunes 14 hasta el domingo 20 de octubre de 2024.
+
+La ministra **Manzano**, también dijo: “sabemos el esfuerzo de cada uno y las molestias que la crisis de sequía ocasiona, por eso nuestro compromiso es que tengan hoy (sábado 12 de octubre) los horarios para que puedan **planificar sus actividades** dentro de estas condiciones”.
+
+“Vamos a salir de esta crisis. Mientras la enfrentamos, estamos ejecutando todas las acciones que no se tomaron antes para poder diversificar la forma en que generamos energía, para que en un futuro cercano no tengamos que depender de si llueve o no”, señaló.
+
+Los horarios de cortes de luz de todo el país lo puede revisar en la [página web del Ministerio de Energía y Minas.](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/") Allí se encuentran los cronogramas por cada una de las nueve empresas distribuidoras de electricidad del país.
+
+La Copa Ecuador confirmó horarios de las semifinales
+====================================================
+
+Las semifinales de la Copa Ecuador se jugarán con partidos de ida y vuelta. El actual campeón es Independiente del Valle.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Jugadores de El Nacional en la Copa Ecuador 2024 en el Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/10/copa_ecuador_horarios_1.jpg)
+
+La **Copa Ecuador**, organizada por la Federación Ecuatoriana de Fútbol (FEF), confirmó los horarios de los cuatro partidos de las llaves de semifinales para definir a los dos finalistas.
+
+Este sábado 12 de octubre de 2024, la Copa Ecuador, **a través de sus redes sociales oficiales**, dio a conocer la programación de las semifinales con lo que quedó marcado el camino para buscar al campeón.
+
+### Más noticias:
+
+* [Glenda Morejón, medallista olímpica en París 2024, se casó](https://www.elcomercio.com/deportes/glenda-morejon-medallista-olimpica-en-paris-2024-se-caso.html "Glenda Morejón, medallista olímpica en París 2024, se casó")
+* [Perú venció a Uruguay de manera agónica en eliminatorias](https://www.elcomercio.com/deportes/futbol/peru-vencio-uruguay-de-manera-agonica-en-eliminatorias.html "Perú venció a Uruguay de manera agónica en eliminatorias")
+* [¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-eliminatorias-uruguay.html "¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?")
+
+En las semifinales de la Copa Ecuador están instalados Mushuc Runa, la gran sorpresa de la competición que juega por segunda vez la parte decisiva; **Universidad Católica, que juega por primera vez esta instancia**; El Nacional, que a edición seguida se mete entre los cuatro mejores; e Independiente del Valle, el vigente campeón y gran favorito.
+
+En las semifinales el **formato del certamen sufre una ligera modificación**, puesto que se jugarán con partidos de ida y vuelta, a diferencia de las anteriores fases que se definieron a partido único.
+
+Para la final regresa el formato original de un solo partido. **Se jugará en una sede neutral** que aún la FEF no define, pero que en las próximas semanas se revelará, tomando en cuenta que en primera instancia estaba proyectado que se lleve a cabo en noviembre.
+
+Los premios de la Copa Ecuador
+------------------------------
+
+El campeón de la Copa Ecuador se llevará un **premio económico de 340 000 dólares**, más el cupo a la primera fase de la Copa Libertadores 2025 en donde se asegura, tomando en cuenta la tabla de la presente edición, 400 000 dólares más.
+
+El subcampeón de la Copa Ecuador se embolsa 200 000 dólares, los semifinalistas 80 000 dólares, **por llegar a los cuartos de final 50 000 dólares**, en los octavos de final 30 000 dólares, en la primera fase 20 000 dólares; y en la fase previa 10 000 dólares.
+
+En relación con el 2022, el **premio económico para el campeón fue de 800 000 dólares**, mientras que para el vicecampeón era de 200 000, y para los semifinalistas de 100 000 dólares.
+
+En 2019 el **monarca ingresó en su cuenta bancaria 200 000 dólares**, más el cuarto cupo a la Copa Sudamericana de 2020.
+
+![Rafael Romo, arquero de Universidad Católica.](https://www.elcomercio.com/wp-content/uploads/2024/10/copa_ecuador_horarios_2-1024x683.jpg)
+
+Rafael Romo, arquero de Universidad Católica.
+
+Semifinales
+-----------
+
+### Martes 22/10
+
+17:00 Universidad Católica vs. Independiente del Valle
+
+Estadio: Rodrigo Paz Delgado
+
+### Miércoles 23/10
+
+14:00 Mushuc Runa vs. El Nacional
+
+Estadio: La Cocha
+
+### Martes 29/10
+
+Independiente del Valle vs. Universidad Católica
+
+Estadio: Complejo IDV
+
+### Jueves 31/10
+
+El Nacional vs. Mushuc Runa
+
+Estadio: Olímpico Atahualpa
+
+![Joaquín Vergés, jugador de Mushuc Runa.](https://www.elcomercio.com/wp-content/uploads/2024/10/copa_ecuador_horarios_3-1024x683.jpg)
+
+Joaquín Vergés, jugador de Mushuc Runa.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Agentes sufrieron ataque con explosivo durante control de tricimotos; mire el video
+===================================================================================
+
+Este sábado 12 de octubre de 2024, la Agencia de Tránsito y Movilidad de Guayaquil (ATM) rechazó los actos violentos registrados durante un operativo de control de tricimotos en la Cooperativa Juan Montalvo, en el norte de la ciudad. En el incidente se lanzó un explosivo contra los miembros de la Policía y agentes de \[…\]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/tricimoto.jpg)
+
+Este sábado 12 de octubre de 2024, la Agencia de Tránsito y Movilidad de Guayaquil (ATM) rechazó los actos violentos registrados durante un **operativo de control de tricimotos** en la Cooperativa Juan Montalvo, en el norte de la ciudad. En el incidente se lanzó un explosivo contra los miembros de la Policía y agentes de tránsito.
+
+### Más noticias
+
+* [Video capta nueva modalidad de robo en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/video-capta-nueva-modalidad-robo-guayaquil-inseguridad.html "Video capta nueva modalidad de robo en Guayaquil")
+* [51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/seguridad/policia-seguridad-operativo-feriado-9-octubre.html "51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre")
+* [Zazza, ‘youtuber’ italiano en Guayaquil, recibe amenazas de muerte](https://www.elcomercio.com/afull/zazza-youtuber-amenazas-guayaquil.html "Zazza, ‘youtuber’ italiano en Guayaquil, recibe amenazas de muerte ")
+
+Tricimoto estalló
+-----------------
+
+El hecho ocurrió el viernes 11 de octubre de 2024, durante un operativo de control de tricimotos. Los agentes de la ATM y la Policía Nacional fueron víctimas de un acto de violencia cuando se lanzó un explosivo contra las fuerzas del orden. El incidente no dejó civiles, policías o agentes afectados.
+
+Las imágenes se viralizaron en redes sociales, mostrando el instante en que una **tricimoto** retenida **estalla en llamas** tras el impacto de un explosivo. Un policía que aseguraba el vehículo tuvo que saltar rápidamente para evitar ser alcanzado por el fuego.
+
+> .[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)🟡🔵🔴  
+>   
+> Agentes de la [@ATMGuayaquil](https://twitter.com/ATMGuayaquil?ref_src=twsrc%5Etfw) logran detener al sujeto que por poco quema 🔥 vivo a un uniformado de la [@PoliciaEcuador](https://twitter.com/PoliciaEcuador?ref_src=twsrc%5Etfw), mientras incautaban una tricimoto.  
+>   
+> Operativo que pretendía ser evitado por los afectados en [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw). [#EcuadorBajoAtaqueTerrorista](https://twitter.com/hashtag/EcuadorBajoAtaqueTerrorista?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/RBr6ofHxkw](https://t.co/RBr6ofHxkw)
+> 
+> — Unidad Nacional de las Organizaciones GUAYAS (@UnidadN593) [October 12, 2024](https://twitter.com/UnidadN593/status/1845166222549405896?ref_src=twsrc%5Etfw)
+
+Tras estos hechos se **suspendió el operativo**. El mismo tenía como objetivo verificar la legalidad de los vehículos en circulación y garantizar la seguridad ciudadana.
+
+A pesar de la interrupción del operativo, se logró **retener 11 motocicletas** que no contaban con los **títulos habilitantes** requeridos. Los vehículos retenidos permanecen en el Centro de Retención Vehicular en la vía a la Costa para su respectivo trámite legal.
+
+Las autoridades rechazaron enérgicamente estos actos violentos. “Este tipo de agresiones no solo atentan contra el **orden público**, sino que buscan impedir el cumplimiento de la ley y ponen en riesgo la seguridad de todos”, señaló la ATM, en un comunicado.
+
+> Rechazamos los incidentes violentos ocurridos durante operativo en Coop. Juan Montalvo. [pic.twitter.com/xicVWD1OZk](https://t.co/xicVWD1OZk)
+> 
+> — ATM Guayaquil (@ATMGuayaquil) [October 12, 2024](https://twitter.com/ATMGuayaquil/status/1845147847018049987?ref_src=twsrc%5Etfw)
+
+Gobierno designa nuevas autoridades de electricidad en medio de la crisis energética
+====================================================================================
+
+El cambio de autoridades se produce en medio de la crisis energética por la que atraviesa el Ecuador.
+-----------------------------------------------------------------------------------------------------
+
+![Fabián Calero es el nuevo viceministro de Electricidad. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/fabian-calero.jpg)
+
+El Gobierno de **Daniel Noboa** designó al nuevo viceministro de Electricidad este 12 de octubre de 2024. El nombramiento del nuevo funcionario se da dos semanas después de la renuncia del exviceministro de Electricidad, **Rafael Quintero**. El cambio de autoridades se produce en medio de la **crisis energétic**a por la que atraviesa el Ecuador, que ha obligado a programar **cortes de luz** de hasta 10 horas diarias[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
+* [El Ministro de Energía se va y ya tiene reemplazo](https://www.elcomercio.com/actualidad/negocios/quien-asumira-el-ministerio-de-energia.html "El Ministro de Energía se va y ya tiene reemplazo")
+* [Así serán los créditos de BanEcuador para la compra de paneles y generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/creditos-banecuador-compra-paneles-solares-generadores-electricos.html "Así serán los créditos de BanEcuador para la compra de paneles y generadores eléctricos")
+
+El Ministerio de Energía y Minas señaló que la ministra encargada, **Inés Manzano**, designó a **Fabián Calero Freire** como nuevo Viceministro de Electricidad y Energía Renovable. El funcionario hasta hoy ocupaba la gerencia de la Corporación Eléctrica del Ecuador (Celec).
+
+> 📍\[COMUNICADO OFICIAL\]  
+>   
+> 📌Informamos a la ciudadanía sobre la designación del nuevo Viceministro de Electricidad y Energía Renovable.  
+>   
+> 🔹Más detalles⤵️ [pic.twitter.com/0rCvua8TpB](https://t.co/0rCvua8TpB)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 12, 2024](https://twitter.com/RecNaturalesEC/status/1845186086626009339?ref_src=twsrc%5Etfw)
+
+Según el comunicado, Calero posee un Doctorado en **Ingeniería Eléctrica y Computación**, otorgado por la Universidad de Waterloo (Canadá). Además, tiene más de 17 años de experiencia en el sector  
+eléctrico, donde destaca su cargo como Gerente subrogante de la Celec.
+
+“El viceministro Calero se incorpora al cargo con la convicción de cumplir los objetivos planteados para superar la emergencia eléctrica y en diversificar la matriz energética con nuevas fuentes de energía para beneficio de los ecuatorianos”, señaló.
+
+Gustavo Sánchez va a la Gerencia de Celec
+-----------------------------------------
+
+Asimismo, el Directorio de la Empresa Pública Estratégica Corporación Eléctrica del Ecuador(Celec), presidido por la ministra de Energía y Minas (e), **Inés Manzan**o, encargó la Gerencia General al ingeniero **Gustavo Rafael Sánchez Íñiguez**.
+
+La nueva autoridad de esta empresa pública es ingeniero eléctrico por la Escuela Politécnica Nacional, cuenta con una maestría en Salud y Seguridad Ocupacional con mención en Prevención de Riesgos  
+Laborales por la Universidad Internacional SEK y tiene 16 años de experiencia en el sector eléctrico, señaló el Ministerio de Energía en un comunicado.
+
+Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios
+========================================================================================
+
+La ministra de Energía encargada, Inés Manzano, señaló que la semana del 14 al 20 de octubre de 2024 será crítica por la falta de lluvias.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![Inés Manzano, ministra encargada de Energía.](https://www.elcomercio.com/wp-content/uploads/2024/10/ines-manzao.jpg)
+
+La ministra de Energía encargada, **Inés Manzano**, señaló que la semana del 14 al 20 de octubre de 2024 será crítica por la **falta de lluvias**. La crisis hídrica impide el normal funcionamiento de las **hidroeléctricas** del país y obliga a continuar con los **cortes de luz** en todo el Ecuador, con un promedio de 10 horas al día.
+
+### Más noticias
+
+* [Conozca los horarios de cortes de luz en Guayaquil para este fin de semana](https://www.elcomercio.com/actualidad/ecuador/conozca-horarios-cortes-luz-guayaquil-fin-de-semana.html "Conozca los horarios de cortes de luz en Guayaquil para este fin de semana")
+* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
+* [Así serán los créditos de BanEcuador para la compra de paneles y generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/creditos-banecuador-compra-paneles-solares-generadores-electricos.html "Así serán los créditos de BanEcuador para la compra de paneles y generadores eléctricos")
+
+Con un video en sus redes sociales, señaló este 12 de octubre de 2024, que se está revisando los resultados de los racionamientos de energía. “En estos momentos la **mayoría de hidroeléctrica** están en óptimo funcionamiento y en relación con la represa Mazar, en el complejo Paute, la reserva de agua ha aumentado 70 centímetros, desde el jueves hasta la noche de ayer”, dijo.
+
+> 📍IMPORTANTE  
+>   
+> 📌La ministra [@inesmanzano](https://twitter.com/inesmanzano?ref_src=twsrc%5Etfw) informa sobre los horarios de suspensión del servicio de energía eléctrica para el periodo del 14 hasta el 20 de octubre.  
+>   
+> 🔶Conoce la programación en⏩ [https://t.co/4YfPN33hy5](https://t.co/4YfPN33hy5)  
+>   
+> 🔹Más detalles en ⤵️ [pic.twitter.com/3L9gtmhBfJ](https://t.co/3L9gtmhBfJ)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 12, 2024](https://twitter.com/RecNaturalesEC/status/1845211945852400124?ref_src=twsrc%5Etfw)
+
+“Ante esta situación debemos **mantener los cortes** y ser responsables, la próxima semana será crítica y las condiciones climáticas demuestran **escasas lluvias en la zona sur**“, agregó.
+
+Además, señaló que ya están disponibles en la página de[l **Ministerio de Energía y Minas** los horarios de los cortes de luz desde el lunes 14 al domingo 20 de octubre](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/") de las zonas de: Azogues, Loja, Los Ríos, Manabí, Milagro, Santa Elena, Sucumbíos y la empresa eléctrica Regional Sur.
+
+Como esta semana que termina, los horarios serán de hasta 10 horas de cortes de luz, distribuidos en varios períodos.
+
+El cronograma para las provincias que faltan estarán publicadas este sábado 12 de octubre, para que las familias y empresas tomen las medidas necesarias, aseguró la Ministra.
+
+Lo que ‘dos pedazos de esponja’ pueden causar en la imagen personal
+===================================================================
+
+¿Qué mensajes crees que transmiten? Te contamos
+-----------------------------------------------
+
+![Zendaya llevó este outfit al desfile de Louis Vuitton en octubre de 2024. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-8-1.jpg)
+
+Si piensas que las **hombreras** son solo **dos pedazos de esponja** que se colocan en una chaqueta o vestido, te equivocas. Hay más de lo que te imaginas detrás de estos elementos.
+
+En septiembre y octubre de 2024 celebridades como [**Esther Cañadas**](https://www.instagram.com/esthercanadasofficial/?hl=es), **[Lady Gaga](http://Lady Gaga lanza nuevo disco inspirado en el ‘Joker’   Este contenido ha sido publicado originalmente por EL COMERCIO. Si vas a hacer uso del mismo, por favor, cita la fuente y haz un enlace hacia la nota original en la dirección: https://www.elcomercio.com/tendencias/musica/lady-gaga-joker-disco-musica.html)** o **[Zendaya](http://Zendaya ha marcado la historia de la Gala Met con sus ‘looks’  Este contenido ha sido publicado originalmente por EL COMERCIO. Si vas a hacer uso del mismo, por favor, cita la fuente y haz un enlace hacia la nota original en la dirección: https://www.elcomercio.com/tendencias/zendaya-looks-gala-met.html)** han utilizado prendas con hombreras para asistir a eventos. En tiendas nacionales también se ofrecen _blazers_ con estas piezas o, incluso, se ofertan por sí solas para que las usuarias las coloque en la ropa que quieran.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-7-1024x683.jpg)
+
+La modelo española Esther Cañadas asistió así al desfile de Balenciaga en París el 1 de octubre de 2024. Foto: Instagram
+
+### Más noticias
+
+* **[El outfit de Miley Cyrus envió poderoso mensaje en la Convención Disney 23](https://www.elcomercio.com/tendencias/miley-cyrus-mensaje-outfit-convencion-disney-power-suit.html "https://www.elcomercio.com/tendencias/miley-cyrus-mensaje-outfit-convencion-disney-power-suit.html")**
+* **[Michelle Obama y su elección de moda en la DNC](https://www.elcomercio.com/afull/michelle-obama-moda-convencion-nacional-democrata.html "https://www.elcomercio.com/afull/michelle-obama-moda-convencion-nacional-democrata.html")**
+
+¿Por qué lo hacen? La respuesta obvia es porque están de moda, pero ahí no termina todo. Quizás quienes las utilizan solo estén enteradas de la función práctica que cumplen y no de todo lo que representan, por eso a continuación te contamos.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-1024x683.jpg)
+
+Lady Gaga rindió homenaje a su personaje de Harley Quinn en el estreno de la cinta ‘Joker: Folie á Deux’ con este traje que llevaba dramáticas hombreras. Foto: Instagram
+
+1\. Poder y empoderamiento
+--------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/08/miley-cyrus-power-suit-el-comercio-4-1024x683.jpg)
+
+Así lució Miley Cyrus cuando recibió el premio Leyenda Disney en agosto de 2024. Foto: Instagram
+
+Las hombreras no solo son una tendencia; también proyectan poder y autoridad. En los años 80, fueron vistas como un símbolo de empoderamiento femenino, ayudando a las mujeres a sentirse más fuertes y seguras.
+
+¿Cómo? Estas piezas te hacen parecer más alta y con la espalda más ancha, dos características más masculinas que femeninas. Diseñadores como Yves Saint Laurent las popularizaron para dar una imagen de poder en sus creaciones.
+
+2\. Evolución estilística
+-------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-1-1024x683.jpg)
+
+Las hombreras con apliques como estas se venden como accesorios para incorporar en cualquier prenda. Fotos: Pinterest
+
+Aunque en los 2000 las hombreras perdieron popularidad, en 2023 y 2024 han estado de vuelta. Se han visto en _blazers_, vestidos, blusas y hasta camisetas, es decir en ropa más formal y hasta casual. Incluso hay hombreras con apliques como taches, cadenas, lentejuelas, etc., que se venden por separado y que las chicas agregan a su gusto.
+
+3\. Un cambio cultural
+----------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-9-1024x683.jpg)
+
+Zendaya apareció con este blazer sobre una falda para asistir al desfile de Louis Vuitton en octubre de 2024. Foto: Instagram
+
+Son un reflejo de cambios sociales. **[Juan Carlos Guamán](https://www.instagram.com/juancarlosguaman.ec/?hl=es-la "https://www.instagram.com/juancarlosguaman.ec/?hl=es-la")**, un diseñador ecuatoriano, señala que comenzaron a integrarse en las vestimentas femeninas, simbolizando una creciente independencia y la entrada de la mujer en espacios tradicionalmente masculinos. Eso sí -enfatiza- no todo es para todas si lo que se busca es construir una determinada imagen.
+
+4\. Distinción de rango
+-----------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-3-1024x683.jpg)
+
+A la izquierda una hombrera de aspecto militar y a la derecha una chaqueta femenina tipo militar con una hombrera de cuentas y brillos. Fotos: Pinterest
+
+Seguro las has visto en los uniformes militares y es que las hombreras o _charreteras_ y otros adornos en los hombros servían para indicar el rango y la posición dentro de la jerarquía militar. Cuanto más decoradas y grandes eran, mayor era el rango del oficial. Esto permitía que los soldados reconocieran rápidamente a sus superiores en el campo de batalla.
+
+En ese ámbito, también tenían un propósito simbólico. Eran una forma de hacer que el soldado pareciera más imponente y poderoso, lo que contribuía a la disciplina y al respeto en la tropa. El diseño exagerado de los hombros proyectaba una imagen de fuerza y autoridad.
+
+5\. Aspecto psicológico
+-----------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-6-1024x683.jpg)
+
+Hay piezas de tela que se colocan también a manera de hombreras como en esta chaqueta. Foto: Pinterest
+
+Los aspectos antes mencionado saltaron a la ropa femenina tanto con el propósito práctico de soporte y estructura de la ropa como con una función simbólica. [Isabel Avilés](https://www.instagram.com/isavilesuio/?hl=es "https://www.instagram.com/isavilesuio/?hl=es"), estratega ecuatoriana de marcas de moda, dice que las hombreras no solo son estéticas; también influyen en cómo nos percibimos y nos proyectamos. “Te hacen sentir con más porte, más intelectual”, dice, lo que resalta su carga simbólica.
+
+6\. Un símbolo aspiracional
+---------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-2-1024x683.jpg)
+
+Los blazer son la prenda por excelencia que se construye con hombreras para favorecer su estructura. Fotos: Pinterest
+
+Las hombreras son un símbolo de aspiración. Recuerdan el _power suit_ femenino de épocas pasadas y su rol en promover la igualdad de géneros a través de la moda.
+
+El _power suit_ es un conjunto de ropa, generalmente un traje, que se asocia con la imagen de autoridad y empoderamiento, especialmente en el contexto profesional.
+
+Este estilo se popularizó en las décadas de 1980 y 1990 y se convirtió en un símbolo de éxito y confianza, particularmente entre las mujeres en el ámbito laboral.
+
+Ellas buscaban ser tomadas en serio tanto como los hombres en el aspecto profesional, de ahí que veamos estas piezas sobre todo en **ropa de oficina**. En conclusión, **la ropa también empodera**.
+
+Congestión vehicular en av. Simón Bolívar por limpieza de taludes
+=================================================================
+
+Trabajadores de la Empresa Pública Metropolitana de Movilidad y Obras Públicas (Epmmop) realizan la limpieza de los taludes en la avenida Simón Bolívar, sentido Quito - valle.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El trabajo está previsto realizarlo durante estos tres días. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/obras-quito-1.jpg)
+
+Trabajadores de la **Empresa Pública Metropolitana de Movilidad y Obras Públicas de Quito** (Epmmop) limpian los taludes en la avenida Simón Bolívar, sentido **Quito – valle**. Allí se retira árboles, maleza y ceniza generada por los **incendios** forestales de hace unas pocas semanas. Las **obras se programaron** para este feriado por la Independencia de **Guayaquil**, del 11 al 13 de octubre del 2024.
+
+### Más noticias
+
+* [Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-choque-heridos-quito-ruminahui-monjas.html "Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito")
+* [Cierre en la av. Simón Bolívar se ejecuta por incendio forestal](https://www.elcomercio.com/actualidad/quito/cierre-simon-bolivar-incendio.html "Cierre en la av. Simón Bolívar se ejecuta por incendio forestal")
+* [Av. Simón Bolívar, cerrada debido a choque múltiple en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-debido-a-choque-multiple-en-quito.html "Av. Simón Bolívar, cerrada debido a choque múltiple en Quito")
+
+Los trabajos ocasionaron gran congestión vehicular en esta vía. Hasta la tarde de este sábado 12 de octubre, los obreros continuaban las labores de limpieza.
+
+Las tareas se realizan exactamente en el sector del redondel **El Cóndor**, sentido norte – sur, entre las avenidas **Simón Bolívar** y **Oswaldo Guayasamín**.
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 📍 Sector: Redondel El Cóndor  
+> 🚧 Cierre: av. Simón Bolívar y av. Oswaldo Guayasamín  
+> 🛣️ Carriles cerrados: todos en sentido norte-sur.  
+> 💥Motivo: trabajos de limpieza por los incendios.  
+>   
+> 👆🏼 Con precaución y atención en las vías ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/jPLAqqRqmX](https://t.co/jPLAqqRqmX)
+> 
+> — AMTQuito (@AMT\_Quito) [October 12, 2024](https://twitter.com/AMT_Quito/status/1845086345447772425?ref_src=twsrc%5Etfw)
+
+**Patricia Carrillo**, directora Metropolitana de Gestión de Riesgos del Municipio de Quito, informó que posterior a los incendios forestales se efectuó una evaluación de las condiciones de los taludes en este sector y se “identificó que existe una capa vegetal que acumula ceniza, rocas sueltas, restos de árboles y también, una parte de un material de arrastre que se quedó sin protección cuando se quemaron los árboles. Las lluvias podrían hacer que este material se desprenda, causando problemas a los transeúntes y a los vehículos”.
+
+Está previsto que los trabajo se realicen durante los tres días de feriado, aprovechando que el flujo de vehículos baja considerablemente en los días de descanso. Pero puede ampliarse dependiendo de las condiciones climáticas, agregó.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/4202bc80-32f8-4dcb-8ec0-fd56fba28e63-768x1024.jpeg)
+
+Así quedaron los taludes circundantes en la Av. Simón Bolívar, luego de la limpieza efectuada este sábado 12 de octubre de 2024. Foto: Cortesía
+
+Spin-off de The Big Bang Theory avanza con tres actores originales
+==================================================================
+
+El spin-off de Big Bang Theory comienza a tomar forma con tres actores originales firmando contratos de exclusividad.
+---------------------------------------------------------------------------------------------------------------------
+
+![The Big Bang Theory está a punto de tener una serie derivada o spin-off.](https://www.elcomercio.com/wp-content/uploads/2024/10/Spin-off-the-Big-Bang-Theory.jpg)
+
+Desde que **_The Big Bang Theory_** culminó en 2019 como una de las comedias más exitosas de la televisión, los fanáticos han especulado sobre posibles continuaciones. El anuncio de un **spin-off** por parte de Warner Bros Television en abril de 2023 generó gran expectativa, aunque los detalles sobre la trama y el elenco permanecían en el aire[.](https://es.wikipedia.org/wiki/The_Big_Bang_Theory "https://es.wikipedia.org/wiki/The_Big_Bang_Theory")
+
+### Más noticias
+
+* [Murió actor de la serie ‘The Big Bang Theory’ a los 94 años](https://www.elcomercio.com/tendencias/bob-newhart-the-big-bang-theory.html "https://www.elcomercio.com/tendencias/bob-newhart-the-big-bang-theory.html")
+* [¿Cómo se enteró el elenco de ‘The Big Bang Theory’ del final de la serie?](https://www.elcomercio.com/tendencias/cartelera/elenco-big-bang-theory-final-serie.html "https://www.elcomercio.com/tendencias/cartelera/elenco-big-bang-theory-final-serie.html")
+
+Se viene el Spin-off de The Big Bang Theory
+-------------------------------------------
+
+_The Big Bang Theory_ es una de las **series más icónicas** de la televisión contemporánea, tanto por su duración de 12 temporadas como por el impacto cultural que generó.
+
+Estrenada en 2007 y finalizada en 2019, la comedia narra la vida de un **grupo de amigos científicos** y sus relaciones personales, sociales y profesionales, abordando temas como la física, las matemáticas, la cultura geek y las dinámicas sociales entre los personajes.
+
+Humanizar a los científicos
+---------------------------
+
+Los protagonistas principales, **Sheldon**, Leonard, Raj y Howard, representan **estereotipos** del científico “nerd”, pero la serie logra humanizarlos y conectar con una **audiencia más amplia**.
+
+Uno de los aspectos más destacados de **_The Big Bang Theory_** fue su capacidad para popularizar la ciencia y la cultura **geek**. A través de sus diálogos ingeniosos y referencias a conceptos científicos complejos, logró introducir estos temas en la **cultura popular** de una manera accesible y entretenida.
+
+Además, figuras reconocidas del ámbito científico, como **Stephen Hawking y Neil deGrasse Tyson**, aparecieron como invitados en varios episodios, lo que reforzó el vínculo de la serie con la ciencia real.
+
+Desarrollo de los personajes
+----------------------------
+
+Otro aspecto importante es el desarrollo de los personajes, especialmente el de **Sheldon Cooper**, quien se convirtió en uno de los personajes más queridos y complejos de la televisión. Su **evolución emocional** y social a lo largo de la serie, así como la forma en que el grupo de amigos va cambiando y creciendo, fue un factor clave en el éxito de la producción.
+
+En términos de impacto cultural, la serie ayudó a **desestigmatizar** los estereotipos sobre los “**nerds**” y “geeks”, demostrando que estos pueden ser **personajes entrañables**, inteligentes y con vidas interesantes.
+
+_The Big Bang Theory_ no solo fue una c**omedia de situación**, sino un fenómeno cultural que reflejó y, en muchos sentidos, modificó la percepción de la ciencia y la tecnología en el **entretenimiento** mainstream.
+
+El spin off tiene actores originales de la serie
+------------------------------------------------
+
+La participación de tres personajes secundarios icónicos de **_The Big Bang Theory_ sugiere que el spin-off** continuará explorando el **universo de la serie original**, manteniendo su esencia mientras introduce nuevas historias y desafíos para los personajes.
+
+La nueva serie derivada de _The Big Bang Theory_ está en desarrollo, con **tres actores del elenco original** confirmados para protagonizarla. Kevin Sussman, Brian Posehn y Lauren Lapkus han **firmado contratos de exclusividad con Warner Bros Television**, lo que da indicios de que el proyecto, bajo la dirección de Chuck Lorre, está avanzando.
+
+Ahora, con la firma de Kevin Sussman (Stuart), Brian Posehn (Bert) y Lauren Lapkus (Denise), los rumores sobre una **trama centrada en la tienda de cómics** y sus excéntricos personajes comienzan a cobrar fuerza.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-26-1024x683.jpg)
+
+Kevin Sussman (centro) interpreta a Stuart, en The Big Bang Theory. Foto: Captura de video.
+
+El chico de los cómics
+----------------------
+
+El personaje de Stuart Bloom, interpretado por Sussman, fue introducido en la segunda temporada de **_The Big Bang Theory_** como el dueño de una tienda de cómics que rápidamente se convirtió en un **favorito** entre los seguidores.
+
+A lo largo de las temporadas, su relación con Denise (Lauren Lapkus) y su interacción con Bert (Brian Posehn), un geólogo **aficionado a la guitarra**, formaron parte de varias tramas cómicas. Esta dinámica podría ser el eje central de la nueva serie, que mantendría el tono de humor característico de **Chuck Lorre.**
+
+A pesar del avance en las negociaciones con los actores, el proyecto aún se encuentra en las **etapas iniciales.** Según fuentes cercanas, el guion está en proceso de desarrollo.
+
 16 binomios presidenciales tienen posturas aún dispersas para elecciones 2025
 =============================================================================
 
@@ -767,424 +1264,3 @@ Sin embargo, después de su trabajo en la serie **_Entre el amor y el odio_ en 2
 La noticia de su fallecimiento ha generado gran conmoción entre sus **seguidores**, quienes recuerdan con cariño los personajes que interpretó.
 
 A pesar de que la **Asociación Nacional de Intérpretes** no reveló detalles sobre la causa de su muerte, la actriz dejó un legado importante en la historia de las telenovelas mexicanas. Hasta el momento, su familia no ha emitido un comunicado oficial al respecto.
-
-Djokovic buscará su trofeo número 100 en la final de Shanghái
-=============================================================
-
-El tenista serbio Novak Djokovic ganó el Masters de Shanghái en 2012, 2013, 2015 y 2018.
-----------------------------------------------------------------------------------------
-
-![Novak Djokovic celebra su triunfo ante Taylor Fritz en el Masters de Shanghái.](https://www.elcomercio.com/wp-content/uploads/2024/10/novak_1.jpg)
-
-El actual número 4 del tenis mundial, **el serbio Novak Djokovic, jugará la final del Másters 1 000** de Shanghái contra el mejor tenista del año, el italiano Jannik Sinner, tras imponerse en la segunda semifinal al estadounidense Taylor Fritz por 6-4 y 7-6 (6).
-
-Djokovic había pronosticado otro “partido duro” ante un destacado sacador como Fritz: “**Tendré que estar preparado para otro partido apretado**. Con condiciones tan rápidas, sacar bien es una gran ventaja. Sé lo que me espera, pero espero estar fresco”.
-
-### Más noticias:
-
-* [Leonardo Campana alborotó a los aficionados de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-alboroto-a-los-aficionados-de-la-seleccion-de-ecuador.html "Leonardo Campana alborotó a los aficionados de la Selección de Ecuador")
-* [Bolivia, con uno menos, se encamina al Mundial 2026 ante Colombia](https://www.elcomercio.com/deportes/bolivia-partido-colombia-eliminatorias-mundial-2026.html "Bolivia, con uno menos, se encamina al Mundial 2026 ante Colombia")
-* [Venezuela no se rindió ante Argentina en las eliminatorias sudamericanas](https://www.elcomercio.com/deportes/eliminatorias/venezuela-argentina-eliminatorias-sudamericanas-resultado-empate.html "Venezuela no se rindió ante Argentina en las eliminatorias sudamericanas")
-
-Y, desde luego, el serbio **centró su juego en el resto desde el primer momento**: en el primer saque de Fritz, obligó al estadounidense a salvar hasta tres bolas de rotura. Y en el quinto juego, por fin se llevó el gato al agua para ponerse el set de cara.
-
-Tampoco es que Fritz estuviera especialmente brillante en su servicio. Durante el primer set, todas las estadísticas apuntaron a que el de Djokovic fue mejor, igual que en el juego defensivo.
-
-La segunda manga comenzó más igualada, y precisamente en un disputado quinto juego en el que Fritz salvó la rotura –**hasta 8 de 9 bolas de ‘break’ frustró el estadounidense a lo largo del partido**\-, el serbio encendió las alarmas al llevarse la mano a su maltrecha rodilla derecha con gesto de dolor.
-
-El balcánico es duro y acabó reponiéndose. Pero los problemas volverían a aparecer al final del undécimo juego, y esta vez parecía algo más serio.
-
-**Djokovic tuvo que pedir un descanso para recibir asistencia** del fisio por dolores en la parte izquierda de la cadera, que le habían hecho renquear en los minutos anteriores.
-
-Aunque esto le hizo estar más errático, ‘Nole’ no dejó que Fritz, quien había malgastado la oportunidad de romperle el saque en el **octavo juego y también desperdició un punto de set**, oliera la sangre.
-
-Así, acabó sellando su acceso a la final vía ‘tie break’ a la hora y 56 minutos.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/novak_2-1024x683.jpg)
-
-Foto: EFE.
-
-Djokovic busca el centenario
-----------------------------
-
-El tenista que más tiempo ha pasado en lo más alto del ‘ranking’ ATP en la historia mantiene vivas sus opciones de destacarse todavía más como dominador en Shanghái, torneo con el que se **alzó en cuatro ocasiones (2012, 2013, 2015 y 2018)**, más que ningún otro. En caso de ganarlo este año, sería el trofeo número 100 de su carrera.
-
-Esta semana, además, Djokovic está en el foco después del anuncio de la retirada de su gran rival, el español Rafa Nadal, **lo que le dejará como único superviviente del ‘big 3’** que completaba otra leyenda como el suizo Roger Federer: “Es abrumador. Yo todavía disfruto compitiendo, pero una parte importante de mí se va con ellos”.
-
-El belgradense amplía también su absoluto dominio ante Fritz: ambos miembros del actual ‘top 10’ del tenis mundial **habían disputado 9 encuentros hasta ahora, y todos ellos habían caído** del lado de Djokovic, el último de ellos en los cuartos de final del Abierto de Australia de este mismo año.
-
-Fritz ya había bromeado con esa estadística tras su último partido, confesándose “emocionado” ante la posibilidad de conseguir su primera victoria contra Djokovic, algo que, en cualquier caso, calificó de “increíblemente difícil”: “Alguna de estas veces me tocará, cada vez soy mejor”.
-
-El ‘Djoker’ tuvo que remontar en cuartos ante el joven checo Jakub Mensik (6-7 (4), 6-1, 6-4). Antes, **había logrado victorias ante el estadounidense Alex Michelsen** (7-6 (3), 7-6 (9)), el italiano Flavio Cobolli (6-1, 6-2) y el ruso Roman Safiullin (6-3, 6-2).
-
-Fritz, por su parte, había avanzado rondas contra el francés Terence Atmane (7-6 (4), 7-6 (5)), **el japonés Yosuke Watanuki (6-3, 6-4)**, el danés Holger Rune (6-1 y 6-2 en tan solo 55 minutos) y el belga David Goffin (6-3, 6-4). EFE
-
-No te pierdas – El Confesionario
---------------------------------
-
-Josué Sánchez, el creador del chop suey de cangrejo y camarón, en Guayaquil
-===========================================================================
-
-Josué Sánchez reinventa el chop suey con cangrejo y camarón al ajillo, un plato que resalta lo mejor de los sabores del mar y la tradición guayaquileña.
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Si aún no has tenido la oportunidad de probar el chop suey de cangrejo y camarón al ajillo de Josué Sánchez, te estás perdiendo una experiencia culinaria única.](https://www.elcomercio.com/wp-content/uploads/2024/10/Mi-plato-favorito.jpg)
-
-En el vibrante escenario **gastronómico de Guayaquil**, **Josué Sánchez** ha logrado destacarse con un plato único que fusiona lo mejor de la cocina china y ecuatoriana: el **chop suey de cangrejo y camarón al ajillo.** Este innovador platillo no solo refleja su pasión por los mariscos, sino también su capacidad para reinventar sabores tradicionales con un toque moderno y atrevido.
-
-### **Más platos favoritos:**
-
-* [Ceviche con la mano, un bocado crujiente y fresco](https://www.elcomercio.com/videos/cebiche-con-la-mano-un-bocado-crujiente-y-fresco.html)
-* [Cordero al páramo: Un viaje gastronómico en Inés](https://www.elcomercio.com/video/sabores-video/cordero-al-paramo-un-viaje-gastronomico-en-ines.html "Cordero al páramo: Un viaje gastronómico en Inés")
-* [La Única tiene un sabor único mexicano](https://www.elcomercio.com/video/sabores-video/la-unica-tiene-un-sabor-unico-mexicano.html "La Única tiene un sabor único mexicano")
-
-Una historia de creación en la cocina
--------------------------------------
-
-**Josué Sánchez**, fundador del restaurante **La Pata Gorda**, recuerda cómo nació la idea de este peculiar **chop suey en 2010**, cuando estaba inmerso en la apertura de su local. En sus primeras semanas, pasaba largas horas en la cocina, experimentando con diferentes combinaciones de sabores, buscando algo que dejara una huella en el paladar de sus comensales.
-
-“Todo empezó con mi amor por los cangrejos”, dice Sánchez. “Después de pasar horas martillando las tenazas para extraer la carne, comencé a mezclar el cangrejo con salsita criolla de la casa, maduro frito cortadito y una salsa especial. Al final, le añadí camarones al ajillo y esa combinación fue una revelación”.
-
-A partir de ese momento, el chef supo que había creado algo único. Este chop suey, aunque comparte su nombre con un clásico plato chino, es un homenaje a los ingredientes frescos del mar y a la cocina costera ecuatoriana, adaptado al estilo personal de Sánchez.
-
-El secreto detrás de los sabores
---------------------------------
-
-La base de este **chop suey** es el cangrejo, cuidadosamente preparado tras horas de cocción y desmenuzado a mano para garantizar una textura suave. “El cangrejo es el corazón del plato, pero la verdadera magia está en los acompañantes”, explica Sánchez. La salsa criolla, hecha con una mezcla de ajíes, cebolla y cilantro, aporta un sabor auténtico y fresco. El maduro frito, ligeramente dulce, contrasta a la perfección con el ajo de los camarones, creando una armonía de sabores que es irresistible.
-
-Uno de los aspectos que distingue a este chop suey de otras versiones es la inclusión del camarón al ajillo. “El ajillo le da un toque robusto al plato. Los camarones se doran en aceite de oliva con ajo hasta que estén perfectamente cocidos, lo que potencia su sabor y les da una textura deliciosa”, dice el chef.
-
-Además, la salsa de la casa, que es un secreto celosamente guardado, juega un papel crucial. Está hecha con ingredientes locales y tiene un sabor ligeramente ahumado que eleva cada bocado.
-
-Innovación y tradición en un solo plato
----------------------------------------
-
-Aunque el chop suey es originalmente un plato chino, la versión de Josué Sánchez ha sido adaptada a los **sabores de Guayaquil**. Su cocina está impregnada de las tradiciones costeras ecuatorianas, pero siempre busca sorprender a sus clientes con nuevas interpretaciones de los platos clásicos. “Al principio, la gente pensaba que era solo otro **chop suey**, pero cuando lo probaban, se daban cuenta de que era algo completamente diferente”, cuenta con una sonrisa.
-
-Sánchez añade que uno de los ingredientes que más sorprendió a sus clientes fue el maduro frito. “Cuando le añadí maduro al plato, pensé que era arriesgado, pero la combinación de dulce y salado hizo que todo encajara. El maduro aporta una textura crujiente por fuera y suave por dentro que complementa perfectamente los mariscos”.
-
-#### Un plato que ha conquistado corazones
-
-Desde su creación, el chop suey de cangrejo y camarón al ajillo se ha convertido en uno de los platos más solicitados en La Pata Gorda. Visitantes de todas partes de Ecuador, e incluso de otros países, han acudido al restaurante para degustar este innovador platillo. “Es increíble ver cómo algo que comenzó como una simple idea se ha convertido en un plato que muchos consideran su favorito”, afirma Sánchez.
-
-El chef también comenta que el chop suey ha evolucionado con el tiempo. “Siempre estoy buscando formas de mejorar el plato. A veces añado un toque extra de picante, o cambio ligeramente la receta de la salsa criolla. Es parte de mi filosofía de cocina: siempre buscar la perfección”.
-
-¿Qué hace tan especial al chop suey de Josué Sánchez?
------------------------------------------------------
-
-La respuesta radica en la mezcla de sabores y en la dedicación del chef a cada detalle. El uso de ingredientes frescos, locales y de alta calidad es fundamental. Sánchez insiste en que su cangrejo siempre proviene de las costas de Ecuador, y sus camarones son seleccionados a mano para asegurar que estén en su punto óptimo de frescura.
-
-Además, su atención al proceso de preparación es lo que eleva este chop suey a otro nivel. “Cada paso en la cocina es importante”, dice. “Desde la elección de los ingredientes hasta la cocción de los mariscos, todo tiene que ser perfecto”
-
-¿Qué se conmemora el 12 de octubre?
-===================================
-
-En Ecuador, desde el 2011 cada 12 de octubre se conmemora el Día de la Interculturalidad y la Pluriculturalidad para reivindicar la diversidad.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Cada 12 de octubre en Ecuador se celebra el 'Día de la Interculturalidad y Pluriculturalidad'. Foto: Gobernacion de Santo Domingo de los Tsachilas.](https://www.elcomercio.com/wp-content/uploads/2022/10/Dia-interculturalidad.jpg)
-
-El **12 de octubre** de **1492** fue el día en el que llegaron las **carabelas** de **Cristóbal** **Colón** a América. A este hecho histórico antes se lo denominaba como el **Descubrimiento de América**.
-
-### Más noticias
-
-* [¿Qué se celebra el 9 de octubre en Ecuador y en el mundo?](https://www.elcomercio.com/tendencias/cultura/9-octubre-celebracion-independencia-guayaquil-efemerides.html "¿Qué se celebra el 9 de octubre en Ecuador y en el mundo? ")
-* [Celebra el Día de la Sonrisa con alegría y optimismo](https://www.elcomercio.com/tendencias/curiosidades/dia-sonrisa-efemeride-historia.html "Celebra el Día de la Sonrisa con alegría y optimismo ")
-
-El objetivo de la flota de Colón era llegar a las **Indias**, pero luego de una larga travesía arribaron a la **isla Guanahaní,** ubicada en las **Bahamas**. Con el descubrimiento de **pueblos aborígenes** de **América**, llegó la colonización española. Los **indígenas** fueron **esclavizados**, **evangelizados**. A algunos los **asesinaron** las tropas españolas.
-
-El 12 de octubre, a nivel hispanohablante, se lo conoce como **Día de la Hispanidad** o también como Día de la Raza. En Ecuador, en cambio, se estableció que durante esa fecha se conmemora a las **comunidades nacionales** y sus culturas.
-
-La conmemoración en Ecuador
----------------------------
-
-Desde octubre de 2011, mediante el [Decreto Ejecutivo 910](https://www.culturaypatrimonio.gob.ec/dia-de-la-interculturalidad-y-plurinacionalidad/#:~:text=El%2012%20de%20octubre%2C%20debe,las%20m%C3%A1s%20diversas%20del%20pa%C3%ADs. "https://www.culturaypatrimonio.gob.ec/dia-de-la-interculturalidad-y-plurinacionalidad/#:~:text=El%2012%20de%20octubre%2C%20debe,las%20m%C3%A1s%20diversas%20del%20pa%C3%ADs."), el 12 de octubre se conmemora el Día de la Interculturalidad y la Pluriculturalidad. Hasta el 2010 se homenajeaba el **Día de la Raza** y **Día de la Amazonía**, este último porque en 1542, Francisco de Orellana descubrió el **Río Amazonas.**
-
-Según el **Ministerio de Cultura y Patrimonio,** esta fecha sirve de “reivindicación y reconocimiento de la diversidad  cultural del Ecuador… Comprender y  visibilizar el proceso del coloniaje vivido por  los pueblos indígenas de América, desde hace más de 500 años”.
-
-En Ecuador, existen **17 pueblos y nacionalidades** ubicada en la **Costa, Sierra y Amazonía.**
-
-Controversia
-------------
-
-La celebración del 12 de octubre, conocida en muchos países de América Latina como el “**Día de la Raza”**, ha generado controversias y debates a lo largo del tiempo. Este día conmemora la llegada de Cristóbal Colón al continente americano en 1492, un evento que marcó el inicio del contacto entre **Europa y América**. Sin embargo, su significado ha sido objeto de **reinterpretaciones** y **críticas**.
-
-Para muchos, el 12 de octubre representa el inicio de un periodo de **colonización**, explotación y genocidio de los pueblos originarios. El encuentro entre los dos mundos **no fue pacífico** y, tras la llegada de los colonizadores europeos, las culturas indígenas enfrentaron la **imposición de sistemas políticos**, religiosos y económicos que devastaron sus sociedades.
-
-En este sentido, movimientos sociales y comunidades indígenas en distintos países han impulsado el **rechazo** a la **conmemoración** de la fecha, argumentando que es un recordatorio de opresión y sufrimiento.
-
-Por otro lado, algunos gobiernos y sectores defienden el 12 de octubre como una fecha para celebrar la **diversidad cultural y el mestizaje**, señalando que este día simboliza la mezcla de culturas que hoy conforman la identidad latinoamericana.
-
-No obstante, en las últimas décadas, varios países han cambiado el nombre y el enfoque de la festividad, optando por celebraciones que reconozcan la **resistencia indígena o la diversidad cultural**, en un esfuerzo por ofrecer una visión más inclusiva y crítica de la historia.
-
-* [Eventos en Quito por el Día del pasillo ecuatoriano](https://www.elcomercio.com/tendencias/entretenimiento/eventos-quito-dia-pasillo-ecuatoriano.html "Eventos en Quito por el Día del pasillo ecuatoriano")
-* [Dia Internacional de los Afrodescendientes se celebra el 31 de agosto](https://www.elcomercio.com/tendencias/sociedad/dia-internacional-afrodescendientes-celebra-31-agosto.html "Dia Internacional de los Afrodescendientes se celebra el 31 de agosto")
-
-El precio de la gasolina cambia desde este 12 de octubre de 2024 en Ecuador
-===========================================================================
-
-El precio de las gasolinas extra, ecopaís, y súper se actualizará desde este 12 de octubre de 2024,
----------------------------------------------------------------------------------------------------
-
-![El cambio del precio de la gasolina se aplica el día 12 de cada mes, en Ecuador. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/07/gasolina.jpg)
-
-El precio de las gasolinas **extra y ecopaís**, de 85 octanos, y la súper (95 octanos) cambiará en Ecuador desde este 12 de octubre de 2024. La **Agencia de Regulación y Control de Hidrocarburos** está a cargo de la socialización de la nueva tarifa, que estará vigente hasta el 11 de noviembre próximo[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-Más noticias
-------------
-
-* [¿Quiénes no pagarán las planillas de luz por tres meses en Ecuador?](https://www.elcomercio.com/actualidad/negocios/quienes-no-pagaran-planillas-luz-tres-meses-ecuador.html "¿Quiénes no pagarán las planillas de luz por tres meses en Ecuador?")
-* [Ecuador va a su propio ritmo en la apuesta de energías renovables](https://www.elcomercio.com/actualidad/negocios/ecuador-propio-ritmo-apuesta-energias-renovables.html "Ecuador va a su propio ritmo en la apuesta de energías renovables")
-* [Claves para ahorrar electricidad en tiempo de crisis en Ecuador](https://www.elcomercio.com/actualidad/negocios/claves-para-ahorrar-electricidad-en-tiempo-de-crisis-en-ecuador.html "Claves para ahorrar electricidad en tiempo de crisis en Ecuador")
-
-Desde este 12 de octubre de 2024, las **gasolinas extra, ecopaís** y **súper** tendrán una reducción por segundo mes consecutivo.
-
-El precio de las gasolinas extra y ecopaís pasó de 2,59 a 2,56 dólares por galón. Mientras que, la **gasolina súper**, de 95 octanos, tiene el precio sugerido de 3,90 dólares por galón.
-
-Así, las tres gasolinas que se comercializan en el país se venderán a menor precio este mes, confirmó **Oswaldo Erazo**, secretario Ejecutivo de la Cámara Nacional de Distribuidores de Derivados de Petróleo (Camddepe).
-
-> Los precios de las gasolinas extra, súper y eco se actualizan el 12 de cada mes.  
->   
-> En esta ocasión y por segundo mes consecutivo baja el precio por galón, desde el 12 de oct, hasta el 11 de nov.[@Primicias](https://twitter.com/Primicias?ref_src=twsrc%5Etfw) [@eluniversocom](https://twitter.com/eluniversocom?ref_src=twsrc%5Etfw) [@elcomerciocom](https://twitter.com/elcomerciocom?ref_src=twsrc%5Etfw) [@lahoraecuador](https://twitter.com/lahoraecuador?ref_src=twsrc%5Etfw) [@teleamazonasec](https://twitter.com/teleamazonasec?ref_src=twsrc%5Etfw) [@ecuavisa](https://twitter.com/ecuavisa?ref_src=twsrc%5Etfw)
-> 
-> — Oswaldo Erazo (@oswaldo\_erazoa) [October 11, 2024](https://twitter.com/oswaldo_erazoa/status/1844825698344579179?ref_src=twsrc%5Etfw)
-
-El precio de la gasolina cambia cada mes
-----------------------------------------
-
-Desde el pasado 28 de junio de 2024, el presidente del Ecuador, **Daniel Noboa**, eliminó el subsidio de la**s gasolinas extra y ecopaís**.
-
-Tras este cambio, estos derivados entraron en un sistema de bandas y la tarifa fluctúa mensualmente, conforme al precio del petróleo en el mercado internacional. Con este nuevo sistema, el precio de estos derivados cambian el 12 de cada mes.
-
-Asimismo, la normativa señala que el precio de las **gasolinas extra y ecopaís** no podrá subir más del 5% mensual ni bajar más del 10% del mes anterior.
-
-Mientras que el precio de la gasolina súper está liberado y se comercializa a diferentes tarifas, dependiendo de la estación de servicio, respetando los márgenes de**l precio sugerido**.
-
-Precio del petróleo
--------------------
-
-El crudo WTI (referencia para Ecuador) se comercializa actualmente a 75 dólares el barril.
-
-¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?
-=====================================================================
-
-La Tricolor visitará a Uruguay en las eliminatorias sudamericanas al Mundial 2026. ¿Cuándo juega la Selección de Ecuador?
--------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-55-1.jpg)
-
-La **Selección de Ecuador** se prepara para su próximo desafío en las eliminatorias sudamericanas al Mundial 2026. ¿Cuándo juega la **Selección de Ecuado**r en **eliminatorias sudamericanas**?
-
-Después de un empate sin goles contra Paraguay el 10 de octubre de 2024, la Tri se mantiene en el cuarto lugar de la tabla, con 12 puntos en nueve partidos.
-
-Este resultado en el estadio **Rodrigo Paz Delgado** marca el primer empate bajo el mando del entrenador argentino **Sebastián Beccacece**, quien asumió el cargo en agosto.
-
-### Más noticias:
-
-* [‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador](https://www.elcomercio.com/deportes/chito-vera-moises-caicedo-seleccion-ecuador.html "‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador")
-* [¿Cuándo juega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-eliminatorias-mundial-2026.html "¿Cuándo juega la Selección de Ecuador ante Uruguay?")
-* [La Selección de Ecuador conserva el cuarto puesto de eliminatorias](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador conserva el cuarto puesto de eliminatorias")
-
-Antes, con **Beccacece**, Ecuador logró un triunfo ante Perú (1-0) y perdió ante Brasil (1-0).
-
-¿Cuándo jugará Ecuador ante Uruguay?
-------------------------------------
-
-Ecuador ahora centra su atención en su próximo encuentro contra Uruguay, programado para el martes 15 de octubre a las 18:30 en el histórico estadio Centenario de Montevideo.
-
-Este será un reto significativo, ya que la Tri busca mantenerse en zona de clasificación en las eliminatorias para el Mundial del 2026.
-
-La última visita de Ecuador fue con derrota 
---------------------------------------------
-
-El 9 de septiembre de 2021 la Selección de Ecuador, con Alfaro como su entrenador, fue derrotada 1-0 por Uruguay en la décima jornada de las **eliminatorias al Mundial Catar 2022.** 
-
-Por primera vez este encuentro se disputó en el estadio Campeón del Siglo, escenario que pertenece a Peñarol, equipo en el que brilló el delantero ecuatoriano Alberto Spencer en la década de los 60. 
-
-La ‘Tri’ le planteó una dura resistencia a los ‘charrúas’ que recién en el minuto 90+2’ marcó el único tanto por intermedio de Gastón Pereiro. 
-
-Ecuador con Beccacece
----------------------
-
-Bajo la dirección de **Beccacece**, Ecuador ha mostrado un juego sólido, especialmente en defensa, pero ahora necesita encontrar la manera de ser más efectivo en el ataque para aprovechar las oportunidades.
-
-Uruguay vs. Ecuador
--------------------
-
-El partido entre Uruguay y Ecuador se realizará el martes 15 de octubre del 2024, desde las 18:30 de Ecuador.
-
-Se jugará en el estadio Centenario de Montevideo.
-
-El cometa Tsuchinshan nos lleva de regreso al origen del Sistema Solar 
-=======================================================================
-
-El cometa Tsuchinshan se acercará a la Tierra, lo que significará un espectáculo celestial único.
--------------------------------------------------------------------------------------------------
-
-![El cometa Tsuchinshan es más que un espectáculo visual; es una ventana al pasado de nuestro Sistema Solar. Foto: es.wired.com.](https://www.elcomercio.com/wp-content/uploads/2024/10/Cometa-Tsuchinshan.jpg)
-
-El **cometa Tsuchinshan**, oficialmente conocido como **C/2023 A3 Tsuchinshan-ATLAS**, fue descubierto en 2023 por el **Observatorio de Tsuchinshan en China**.  
-
-### Más noticias
-
-* [Calendario de los eventos astronómicos más importantes de este 2024](https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html "https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html") 
-* [La ciencia detrás del equinoccio y lo que se debe tener en cuenta](https://www.elcomercio.com/tendencias/ciencia/equinoccio-septiembre-astronomia-clima.html "https://www.elcomercio.com/tendencias/ciencia/equinoccio-septiembre-astronomia-clima.html") 
-
-Este cometa es un **remanente helado del sistema solar primitivo**, compuesto principalmente de hielo y polvo. Su descubrimiento ha capturado la atención de astrónomos y entusiastas del cielo por igual, debido a su **potencial para convertirse en uno de los cometas más brillantes** visibles desde la Tierra en los últimos años, según informa la página [Astronomy](https://www.astronomy.com/observing/comet-tsuchinshan-atlas-may-soon-become-bright/ "https://www.astronomy.com/observing/comet-tsuchinshan-atlas-may-soon-become-bright/"). 
-
-**Características y trayectoria del cometa Tsuchinshan** 
----------------------------------------------------------
-
-El **cometa Tsuchinshan** tiene un núcleo de aproximadamente 3 kilómetros de diámetro. A medida que se acerca al Sol, el calor provoca que el hielo se sublime,lo que crea una atmósfera difusa conocida como coma, y una cola que puede extenderse millones de kilómetros en el espacio. Este fenómeno, según [The New York Times](https://www.nytimes.com/2024/10/08/science/comet-tsuchinshan-atlas.html "https://www.nytimes.com/2024/10/08/science/comet-tsuchinshan-atlas.html"), es lo que hace que **los cometas sean visibles desde la Tierra**.  
-
-**El perihelio del cometa** 
-----------------------------
-
-De acuerdo con el **[Observatorio Astronómico de Quito](https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/647-boletin-de-prensa-el-beso-cosmico-del-cometa-tsuchinshan-atlas "https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/647-boletin-de-prensa-el-beso-cosmico-del-cometa-tsuchinshan-atlas")**, el cometa alcanzó su perihelio, el punto más cercano al Sol, el 27 de septiembre de 2024. En octubre se vuelve **visible a simple vista**, con una magnitud de hasta 0,4, lo que lo hace tan brillante como muchas estrellas. Sin embargo, **su visibilidad depende de su comportamiento antes de llegar al Sol y de si sobrevive a ese acercamiento**. 
-
-**Visibilidad en octubre** 
----------------------------
-
-El 27 de octubre, **será visible desde el Ecuador continental** hacia el este, en la constelación del Sextante, con una magnitud de 0,8. Aunque **se podrá observar sin telescopio**, se sugiere usar uno pequeño para obtener una mejor vista. 
-
-**Observación óptima en octubre** 
-----------------------------------
-
-El **12 de octubre de 2024, el mejor momento para observarlo** será entre las 18:20 y las 18:38, al mirar hacia el oeste, **justo después de la puesta de sol**, en la constelación de Virgo. Si las condiciones climáticas lo permiten, se podrá apreciar una larga y brillante cola. 
-
-Trabajos en la Ecovía y la complicación en el túnel Guayasamín
-==============================================================
-
-Toda obra pública incomoda, aunque traiga beneficios. En la Ecovía viajan 120 00 personas diarias; por el túnel, 35 000 vehículos.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Los trabajos en la Ecovía a la altura de la avenida Guayasamín complicará el tránsito en esta zona del norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/guayasamin-editorial-vale.jpg)
-
-Los trabajos para la rehabilitación vial de los carriles exclusivos de la **Ecovía** de Quito han generado un sinnúmero de inconvenientes para los quiteños y más todavía al comenzarlos a la altura del túnel Guayasamín. Y con ellos llegan los reclamos. En verdad, las intervenciones han provocado una **congestión** mayor en una ciudad que ya de por sí vive complicaciones de tránsito que **exasperan el ánimo de la ciudadanía.**
-
-Sin embargo, en esta ciudad y en cualquier otra del mundo, **la obra pública siempre será incómoda** porque altera el ritmo cotidiano del sector en donde se realice. Al ser una ciudad estrecha, muchas obras extienden las complicaciones a una distancia aún mayor de lo que ocurriría en urbes más redondas o cuadradas, si caben los términos.
-
-**El lunes 14 de octubre del 2024** será el primer día laboral durante la intervención en la **Ecovía** a la altura de la **Plaza Argentina** y que deberá terminar el **20 de este mes.** Solamente por el **túnel Guayasamín** pasan al menos **35 000 vehículos diarios**. Además, allí confluyen miles de automóviles que usan la av. **Seis de Diciembre** y la **De los Shyris**. En un día cualquiera, durante las horas picos, largas columnas de vehículos pasan muchos minutos esperando salir de un atolladero insoportable.
-
-Se presume que el **tránsito** se complicará aún más en estos **10 días**. Ya hay reclamos anticipándose a lo que vendrá, pues **toda obra pública es incómoda,** molesta, aunque después pueda traer beneficios y mejoras. Para muchos, en cambio, no parece que este sea el caso. Sin embargo, es una obra que **beneficiaría a los 120 000 pasajeros** que usan la **Ecovía** diariamente. Es casi el doble de quienes cruzarían el túnel Guayasamín **si en cada automóvil viajaran dos personas**, algo que no ocurre.
-
-> La conexión con los valles es uno de los serios problemas que tiene la ciudad. Además, se carece de un sistema de transporte que aliente a que más usuarios lo usen. La Ciudad debe pensar en un plan urgente de transportación masiva que vaya más allá del Metro y que apunte, además, a los valles, como los de Tumbaco, Los Chillos y de San Antonio.
-
-Para ello, debe pensarse en **obras de magnitud mayor,** de **grandes presupuestos**, una **obra pública de largo aliento** en su ejecución y, por tanto, generarán una incomidad aún más grande. Sin embargo, el Metro es un ejemplo de cómo su construcción, que complicó el tránsito por mucho tiempo, dejó finalmente enormes beneficios para la Ciudad.
-
-Quizá a eso estén apuntando los reclamos ciudadanos por las obras en la **Plaza Argentina**. Muchos no sienten como una mejora a la movilidad. No se ve que haya un plan de vialidad mayor. Hay proyectos que se han planteado desde varios años atrás, pero poco se avanca hacia su consolidación. Quedan como buenas ideas que padecen el sueño de los justos.
-
-Debe ser complejo pensar en un **plan integral en una ciudad con una geografía tan complicada** como la de Quito. La solución siempre será un transporte público eficiente. Debe ser saludabe, es decir no tan contaminante como los **buses que tiznan las paredes** de las casas por el humo que emanan desde sus tubos de escape. Debe ser segura, no solamente en cuanto a robos y hurtos, sino con choferes responsables en el ejercicio de su profesión.
-
-Hay un reclamo que podría tener sentido. ¿Cuáles son las razones por las que la obra pública se ejecuta cuando llueve y hay clases? ¿Por qué no la hicieron durante las vacaciones, cuando hay menos vehículos y el clima es seco? Pero no tiene menos sentido que la obra pública, cualquiera que fuese, incomoda. **La zona de la Plaza Argentina tendrá unos días complicados y el humor de sus usuarios se pondrá a prueba.**
-
-Arroz con menestra de fréjol y carne a la plancha
-=================================================
-
-Un plato sencillo, lleno de tradición y sabor. ¡Comparte esta receta con tus amigos!
-------------------------------------------------------------------------------------
-
-![En la mesa no puede faltar esta clásica receta de la cocina guayaquileña.](https://www.elcomercio.com/wp-content/uploads/2024/10/image-2-2.png)
-
-Durante las **fiestas octubrinas**, la ciudad se viste de gala para conmemorar su **independencia** con **desfiles**, **eventos culturales** y, por supuesto, su rica **gastronomía**. Uno de los **platos** más **emblemáticos** que acompaña estas festividades es el **arroz con menestra de fréjol y carne a la plancha**, un verdadero símbolo de la **cocina guayaquileña**. Este plato combina el **sabor tradicional** de los fréjoles, cocidos lentamente en una deliciosa salsa, con el inconfundible toque del arroz blanco y la carne a la plancha, sencilla pero jugosa. Es una **receta** que une a las **familias** en la mesa, celebrando tanto los **sabores** como el espíritu festivo de **Guayaquil**. Te compartimos la receta para que puedas preparar y rendir homenaje a la ciudad, a través de sus **sabores tradicionales**.
-
-Ingredientes
-------------
-
-**Para el arroz**
-
-2 tazas de arroz blanco
-
-4 tazas de agua
-
-1 cucharada de aceite vegetal
-
-Sal al gusto
-
-**Para la menestra de frejol**
-
-2 tazas de frejol (puede ser negro, rojo o canario) remojado por 8 horas
-
-1 cebolla picada en cuadritos
-
-2 dientes de ajo picados
-
-1 pimiento rojo o verde picado
-
-1 cucharadita de comino
-
-1 cucharadita de achiote (opcional)
-
-2 cucharadas de aceite vegetal
-
-1 plátano verde o maduro (opcional, para acompañar)
-
-Sal y pimienta al gusto
-
-Culantro (cilantro) picado para decorar
-
-**Para la carne a la plancha**
-
-4 filetes de carne (puede ser res, pollo o cerdo, según tu preferencia)
-
-Sal y pimienta al gusto
-
-Ajo en polvo (opcional)
-
-Aceite o mantequilla para la plancha
-
-* * *
-
-> Esta receta es un plato típico ecuatoriano, lleno de sabores tradicionales que evocan hogar y cultura.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-10-1024x907.png)
-
-Disfruta de este delicioso y nutritivo plato de arroz con menestra y carne a la plancha.
-
-Preparación de la receta arroz con menestra de fréjol con carne a la plancha
-----------------------------------------------------------------------------
-
-* **Enjuagar** bien el arroz hasta que el agua salga clara. En una olla, calentar con una cucharada de aceite.
-* **Añadir** el arroz y sofreír durante 2 minutos.
-* **Agregar** el agua y una pizca de sal. **Dejar** que hierva a fuego medio hasta que el agua se evapore.
-* Cuando el agua se haya consumido, **bajar** el fuego, **tapar** la olla y **dejar cocinar** a fuego lento por 15 minutos o hasta que el arroz esté completamente cocido. **Apagar** el fuego y **dejar reposar**.
-* **Cocinar** los frejoles en agua con sal a fuego medio hasta que estén tiernos (aproximadamente 1 hora). Puedes utilizar una olla de presión para acortar el tiempo.
-* En una sartén, **calentar** el aceite y sofreír la cebolla, el ajo, y el pimiento. **Añadir** el comino, el achiote (si lo usas), la sal y la pimienta.
-* **Incorporar** los frejoles cocidos con un poco del agua de la cocción para que no queden secos. **Cocinar** a fuego lento por unos 15 minutos, dejando que se mezclen bien los sabores.
-* **Ajustar** el sabor con sal y pimienta si es necesario. Al final, puedes **añadir** culantro picado para dar frescura.
-* **Sazonar** los filetes de carne con ajo triturado, comino, orégano, sal y pimienta.
-* **Calentar** una plancha o sartén con un chorrito de aceite. Sella la carne a fuego alto al principio para atrapar los jugos dentro y luego cocina a fuego medio para alcanzar el punto deseado.
-* **Servir** una porción de arroz blanco en el plato.
-* **Acompañar** con una buena porción de menestra de fréjol.
-* **Colocar** la carne a la plancha a un lado.
-* Puedes **acompañar** el plato con rodajas de aguacate o ensalada fresca, si lo deseas.
-
-Consejos para realizar de mejor manera la receta de arroz con menestra de fréjol y carne a la plancha
------------------------------------------------------------------------------------------------------
-
-* Puedes usar **fréjol rojo**, **negro** o **canario**. Asegúrate de remojarlos en agua durante al menos 8 horas (o toda la noche) para que se cocinen más rápido y queden suaves. Esto también mejora su **digestión** y evita que queden duros. Es mejor añadir la sal a la menestra cuando los **fréjoles** estén casi listos.
-* El sabor de la **menestra** depende en gran medida de un buen **sofrito**. Asegúrate de dorar bien la cebolla, el ajo, el pimiento y el tomate, ya que esto intensifica los sabores. El comino y el achiote le darán un toque característico, así que no los omitas.
-* La clave para una **carne** a la **plancha jugosa** es no cocinarla demasiado. Puedes variar el tipo de carne: **pollo o chuletas de cerdo a la plancha** son opciones deliciosas si quieres diversificar el plato.
-* Un toque de **cilantro** fresco picado sobre la **menestra** justo antes de servir realzará su **aroma** y sabor. Es un toque final **sencillo** pero muy **efectivo**.
-
-Con estos consejos, lograrás una **menestra sabrosa**, **un arroz bien cocido y una carne jugosa**, haciendo de este plato una verdadera celebración de la cocina ecuatoriana. ¡Buen provecho!
-
-La magia en la campaña electoral
-================================
-
-Los deseos secretos de todos los demás candidatos pueden cumplirse sin que afecte los deseos de los cuatro anteriores.
-----------------------------------------------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-Si apareciera el hada **madrina** de los **políticos** no podría satisfacer los deseos de todos. Aparentemente, porque si les concediera el cumplimiento de su más **secreta** **aspiración**, tal vez no sea tan difícil. Todos dicen que aspiran a ganar la **elección** y llegar a la **presidencia** para resolver los problemas de los **ecuatorianos**, pero eso sería magia.
-
-Si le preguntara el hada al **líder** de la **revolución** **ciudadana** cuál es su **sueño** **secreto**, probablemente sería: alcanzar la mayoría en la **Asamblea** **Nacional**. Y entonces podría responder el hada: no hay problema, el precio es la presidencia de la República. Trato hecho.
-
-El sueño secreto del líder de ADN podría ser: quiero librarme de la **vicepresidente**, ganar en **primera** **vuelta** y resolver lacrisis de energía. Le podría contestar. Sólo te puedo conceder un deseo porque son excluyentes. Librarte de la **vicepresidente** puede costarte la **elección** y aunque ganes en **primera** **vuelta** perderás en la segunda si siguen los **apagones**.
-
-El deseo secreto del **candidato** de SUMA podría ser: no quiero que me pongas en primer lugar, me basta con ser segundo, pero también quiero parecerme a **Bukele** y que nadie se acuerde que era **socialcristiano**. La respuesta sería: Ya que te basta el segundo, te  concedo el segundo deseo.
-
-El secreto deseo del **candidato** de **Pachakutic** podría ser: Quiero que nadie se acuerde que vine a quemar **Quito** y que humillé a dos presidentes, también quiero que desaparezca el libro _**Rebelión**_. La respuesta podría ser: No puedo borrar lo que ya ocurrió, pero puedo borrarte a ti.
-
-Los **deseos** **secretos** de todos los demás **candidatos** pueden cumplirse sin que afecte los deseos de los cuatro anteriores. Adaptando a las **circunstancias** un cuento de **Sisek** podríamos preguntamos: si el hada madrina ofreciera a cada **candidato** cumplir su deseo con la **condición** de que los demás reciban el doble de lo que pida ¿Qué pedirían? El cuento de **Sisek** dice que pidieron que les arranque un ojo. Ojalá aceptemos la **realidad** y olvidemos hadas **madrinas**.
