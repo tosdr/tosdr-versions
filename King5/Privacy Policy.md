@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/af4a89f7-e6be-4279-82a2-4d960c69962a/20241012T203124/af4a89f7-e6be-4279-82a2-4d960c69962a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/af4a89f7-e6be-4279-82a2-4d960c69962a/20241012T203124/af4a89f7-e6be-4279-82a2-4d960c69962a_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/all-i-90-lanes-closed-mercer-island-due-to-police-activity/281-d77104a3-cb48-45ae-b410-ab654820537f)
+    *  [![](https://media.king5.com/assets/KING/images/8516a927-e268-47d3-877d-e8b166a7b221/20241013T032331/8516a927-e268-47d3-877d-e8b166a7b221_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8516a927-e268-47d3-877d-e8b166a7b221/20241013T032331/8516a927-e268-47d3-877d-e8b166a7b221_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/all-i-90-lanes-closed-mercer-island-due-to-police-activity/281-d77104a3-cb48-45ae-b410-ab654820537f)
         
-        #### [All I-90 lanes reopen following apparent bomb scare during police chase](https://www.king5.com/article/traffic/traffic-news/all-i-90-lanes-closed-mercer-island-due-to-police-activity/281-d77104a3-cb48-45ae-b410-ab654820537f)
+        #### [Apparent bomb scare during police chase shuts down I-90 for hours](https://www.king5.com/article/traffic/traffic-news/all-i-90-lanes-closed-mercer-island-due-to-police-activity/281-d77104a3-cb48-45ae-b410-ab654820537f)
         
-    *  [![](https://media.king5.com/assets/KING/images/361f3446-ad21-4131-8dda-666a10216056/20241012T145728/361f3446-ad21-4131-8dda-666a10216056_16x9.jpg) ![](https://media.king5.com/assets/KING/images/361f3446-ad21-4131-8dda-666a10216056/20241012T145728/361f3446-ad21-4131-8dda-666a10216056_360x203.jpg)](https://www.king5.com/article/news/local/pets-and-animals/seattle-area-feline-rescue-launches-emergency-fundraiser-continue-life-saving-care/281-e2f4908d-8b36-4cf5-833e-83610c965aa0)
+    *  [![](https://media.king5.com/assets/KING/images/696ce516-28e7-4aa5-a98e-3613fea24844/20241013T050637/696ce516-28e7-4aa5-a98e-3613fea24844_16x9.jpg) ![](https://media.king5.com/assets/KING/images/696ce516-28e7-4aa5-a98e-3613fea24844/20241013T050637/696ce516-28e7-4aa5-a98e-3613fea24844_360x203.jpg)](https://www.king5.com/article/news/local/west-seattle-gas-station-clerk-speaks-out-robbery-king-county/281-71c15a41-18a7-4928-9bf3-c6d40cff94be)
         
-        #### [Seattle Area Feline Rescue launches emergency fundraiser to continue life-saving care](https://www.king5.com/article/news/local/pets-and-animals/seattle-area-feline-rescue-launches-emergency-fundraiser-continue-life-saving-care/281-e2f4908d-8b36-4cf5-833e-83610c965aa0)
+        #### [West Seattle gas station clerk speaks out after robbery connected to nearly 80 crimes in King County](https://www.king5.com/article/news/local/west-seattle-gas-station-clerk-speaks-out-robbery-king-county/281-71c15a41-18a7-4928-9bf3-c6d40cff94be)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/835cb772-bbab-4c8b-9b13-00868bd15b22/20241012T142010/835cb772-bbab-4c8b-9b13-00868bd15b22_16x9.jpg) ![](https://media.king5.com/assets/KING/images/835cb772-bbab-4c8b-9b13-00868bd15b22/20241012T142010/835cb772-bbab-4c8b-9b13-00868bd15b22_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/05cd8a35-b54b-4153-985a-4f71f8a94188/20241013T052013/05cd8a35-b54b-4153-985a-4f71f8a94188_16x9.jpg) ![](https://media.king5.com/assets/KING/images/05cd8a35-b54b-4153-985a-4f71f8a94188/20241013T052013/05cd8a35-b54b-4153-985a-4f71f8a94188_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-58°
+53°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
