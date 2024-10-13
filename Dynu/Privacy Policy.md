@@ -240,39 +240,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### Voices
+### 90% Renewals
 
-_"I’ve tried many dynamic DNS services in the past and Dynu always impresses me.  
-I can’t get my work done without it at this point and I also appreciate the incredibly fast response time by your support.  
   
-I look forward to future developments and I thank you for a great product!"_  
-  
-Jeffrey Oden, Network Engineer  
-Pennsylvania, USA  
-
-_"We have been using Dynu email hosting for years now and have never had an issue so far.  
-  
-Multi-protocol, multi-platform, nice webmail interface, extensively customizable, excellent credentials management, there is nothing bad to say about it.  
-With its very affordable price and its strong user community you really can't go wrong."_  
-  
-Gregory Journe, Project Manager  
-Lyon, France  
-
-_"I've been using Dynu hostnames as my day-to-day Remote Desktop sessions for a long time, and I'm very happy with it.  
-  
-The IP Update Client for Windows can run as a System service, so I do not even need to keep my Windows account logged in. Dynu rocks!"_  
-  
-Kristian Grandahl, Lead Architect Infrastructure Team  
-Crayon, Norway  
-
-_"Many of our customers' ISP blocks port 25 so they have not been able to host email server on premise.  
-Dynu email store/forward service literally saved the day!  
-  
-We looked at some other providers but Dynu is so far the most stable and affordable one can find. I recommend Dynu to every customer I have."_  
-  
-Allan Baker, IT Consultant  
-Arizona, USA  
-
+Over 90% of our clients renew their services for over one year.  
   
 
 ### News
