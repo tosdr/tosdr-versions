@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a40a1292442d8ae5c82c5f7bb54d1cdb
+357008d17f4ae6854147850f04677422
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![17 mm blue speckled glass beads](https://sojourner.biz/images/cache/glass/GL0195.200.jpg)](https://sojourner.biz/beads/glass/17-mm-blue-speckled-glass-beads.html "17 mm blue speckled glass beads")
+[![Large oval turquoise clasp](https://sojourner.biz/images/cache/SKU0039variations.200.jpg)](https://sojourner.biz/clasps/semi-precious/large-oval-turquoise-clasp.html "Large oval turquoise clasp")
 
-#### [17 mm blue speckled glass beads](https://sojourner.biz/beads/glass/17-mm-blue-speckled-glass-beads.html "17 mm blue speckled glass beads")
+#### [Large oval turquoise clasp](https://sojourner.biz/clasps/semi-precious/large-oval-turquoise-clasp.html "Large oval turquoise clasp")
 
-$10.00
+$45.00
 
 ### Best Sellers
 
