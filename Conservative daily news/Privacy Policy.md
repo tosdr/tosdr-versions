@@ -1,15 +1,15 @@
-Saturday, October 12 2024
+Sunday, October 13 2024
 
 Breaking News
 
-* [Prominent Election Expert Suggests Pollsters ‘Have No Idea’ If They’re Accurately Measuring Trump Support](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/)
-* [Harris Townhall For Latino ‘Undecided Voters’ Reportedly Filled With Die-Hard Dems](https://www.conservativedailynews.com/2024/10/harris-townhall-for-latino-undecided-voters-reportedly-filled-with-die-hard-dems/)
-* [Why Does Abortion Need A Euphemism](https://www.conservativedailynews.com/2024/10/why-does-abortion-need-a-euphemism/)
-* [Blue State Officials Claim Aurora Crime Concerns Are Invalid Despite One Crucial Detail](https://www.conservativedailynews.com/2024/10/blue-state-officials-claim-aurora-crime-concerns-are-invalid-despite-one-crucial-detail/)
-* [Trump, Harris Go Neck And Neck Across Key Swing States](https://www.conservativedailynews.com/2024/10/trump-harris-go-neck-and-neck-across-key-swing-states/)
-* [President Joe Biden’s Schedule for Friday, October 11, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-11-2024/)
-* [We Could Be One Cackle Away From WWIII](https://www.conservativedailynews.com/2024/10/we-could-be-one-cackle-away-from-wwiii/)
-* [Maryland Attorney General Tries To Delay Potential Supreme Court Hearing On ‘Assault Weapons’ Ban](https://www.conservativedailynews.com/2024/10/maryland-attorney-general-tries-to-delay-potential-supreme-court-hearing-on-assault-weapons-ban/)
+* [Biden Delivers Remarks in Response to Hurricane Milton](https://www.conservativedailynews.com/2024/10/biden-delivers-remarks-in-response-to-hurricane-milton/)
+* [President Joe Biden’s Schedule for Sunday, October 13, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024/)
+* [The Realignment Of Catholic Voters To The GOP](https://www.conservativedailynews.com/2024/10/the-realignment-of-catholic-voters-to-the-gop/)
+* [Was Obama A President, Or A Black President](https://www.conservativedailynews.com/2024/10/was-obama-a-president-or-a-black-president/)
+* [NY Times Poll Shows Harris’ Support Among Key Voter Bloc In ‘Dangerously Low Territory’](https://www.conservativedailynews.com/2024/10/ny-times-poll-shows-harris-support-among-key-voter-bloc-in-dangerously-low-territory/)
+* [Kamala Isn’t Just Stupid, She’s Dangerous](https://www.conservativedailynews.com/2024/10/kamala-isnt-just-stupid-shes-dangerous/)
+* [America In The Age Of Stupidity: Why do we celebrate Indigenous Peoples Day?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-do-we-celebrate-indigenous-peoples-day/)
+* [Here’s How Much More Everyday Items Cost Than When You Voted Four Years Ago](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,72 +111,75 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.74%
 
-* [![Milton how to help](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/florida-needs-prayers-and-hands/)
+* [![Kamala Harris 2024 election Kamalanomics](https://www.conservativedailynews.com/wp-content/uploads/2024/09/01-joyjoy-kam-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/)
     
-    [Florida Needs Prayers – and Hands](https://www.conservativedailynews.com/2024/10/florida-needs-prayers-and-hands/)
+    [Here’s How Much More Everyday Items Cost Than When You Voted Four Years Ago](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/)
     
-    October 10, 2024
+    October 13, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/06/Jack-Phillips.jpg)](https://www.conservativedailynews.com/2024/10/colorado-supreme-court-finally-dismisses-case-against-christian-cake-baker-after-over-12-years-of-legal-battles/)
-    
-    [Colorado Supreme Court Finally Dismisses Case Against Christian Cake Baker After Over 12 Years Of Legal Battles](https://www.conservativedailynews.com/2024/10/colorado-supreme-court-finally-dismisses-case-against-christian-cake-baker-after-over-12-years-of-legal-battles/)
-    
-    October 8, 2024
-    
-
-Recent Posts
-
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/)
     
     [Prominent Election Expert Suggests Pollsters ‘Have No Idea’ If They’re Accurately Measuring Trump Support](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/)
     
     October 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/stg072123dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/consumer-confidence-drops-as-americans-remain-frustrated-with-high-prices-one-month-from-election/)
+
+Recent Posts
+
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Joe-Biden-Tampa-Florida-Hurrican-Milton-speech-220x150.jpg)](https://www.conservativedailynews.com/2024/10/biden-delivers-remarks-in-response-to-hurricane-milton/)
     
-    [Consumer Confidence Drops As Americans Remain Frustrated With High Prices One Month From Election](https://www.conservativedailynews.com/2024/10/consumer-confidence-drops-as-americans-remain-frustrated-with-high-prices-one-month-from-election/)
+    [Biden Delivers Remarks in Response to Hurricane Milton](https://www.conservativedailynews.com/2024/10/biden-delivers-remarks-in-response-to-hurricane-milton/)
     
-    October 12, 2024
+    October 13, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/03/Boeing.jpg)](https://www.conservativedailynews.com/2024/10/problem-ridden-boeing-announces-massive-job-cuts-as-worker-strike-continues/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/Joe-Biden-air-force-one-1-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024/)
     
-    [Problem-Ridden Boeing Announces Massive Job Cuts As Worker Strike Continues](https://www.conservativedailynews.com/2024/10/problem-ridden-boeing-announces-massive-job-cuts-as-worker-strike-continues/)
+    [President Joe Biden’s Schedule for Sunday, October 13, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024/)
     
-    October 12, 2024
+    October 13, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Kamala-Harris-Laughing-220x150.jpg)](https://www.conservativedailynews.com/2024/10/harris-townhall-for-latino-undecided-voters-reportedly-filled-with-die-hard-dems/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/12/Priest-candles-church-220x150.png)](https://www.conservativedailynews.com/2024/10/the-realignment-of-catholic-voters-to-the-gop/)
     
-    [Harris Townhall For Latino ‘Undecided Voters’ Reportedly Filled With Die-Hard Dems](https://www.conservativedailynews.com/2024/10/harris-townhall-for-latino-undecided-voters-reportedly-filled-with-die-hard-dems/)
+    [The Realignment Of Catholic Voters To The GOP](https://www.conservativedailynews.com/2024/10/the-realignment-of-catholic-voters-to-the-gop/)
     
-    October 12, 2024
+    October 13, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Pentagon-220x150.jpg)](https://www.conservativedailynews.com/2024/10/navy-ship-carries-out-vital-task-that-could-give-us-edge-over-china-if-war-broke-out-in-taiwan/)
+* [![Democrats woke gender ideology](https://www.conservativedailynews.com/wp-content/uploads/2023/06/01-wokethroat-sm-1080a.jpg)](https://www.conservativedailynews.com/2024/10/was-obama-a-president-or-a-black-president/)
     
-    [Navy Ship Carries Out Vital Task That Could Give US Edge Over China If War Broke Out In Taiwan](https://www.conservativedailynews.com/2024/10/navy-ship-carries-out-vital-task-that-could-give-us-edge-over-china-if-war-broke-out-in-taiwan/)
+    [Was Obama A President, Or A Black President](https://www.conservativedailynews.com/2024/10/was-obama-a-president-or-a-black-president/)
     
-    October 12, 2024
+    October 13, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5646-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/why-does-abortion-need-a-euphemism/)
+* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/10/ny-times-poll-shows-harris-support-among-key-voter-bloc-in-dangerously-low-territory/)
     
-    [Why Does Abortion Need A Euphemism](https://www.conservativedailynews.com/2024/10/why-does-abortion-need-a-euphemism/)
+    [NY Times Poll Shows Harris’ Support Among Key Voter Bloc In ‘Dangerously Low Territory’](https://www.conservativedailynews.com/2024/10/ny-times-poll-shows-harris-support-among-key-voter-bloc-in-dangerously-low-territory/)
     
-    October 12, 2024
+    October 13, 2024
     
-* [![Biden border illegal immigration](https://www.conservativedailynews.com/wp-content/uploads/2024/01/stg012824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/blue-state-officials-claim-aurora-crime-concerns-are-invalid-despite-one-crucial-detail/)
+* [![Kamala Harris drunk and stupid](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamala-isnt-just-stupid-shes-dangerous/)
     
-    [Blue State Officials Claim Aurora Crime Concerns Are Invalid Despite One Crucial Detail](https://www.conservativedailynews.com/2024/10/blue-state-officials-claim-aurora-crime-concerns-are-invalid-despite-one-crucial-detail/)
+    [Kamala Isn’t Just Stupid, She’s Dangerous](https://www.conservativedailynews.com/2024/10/kamala-isnt-just-stupid-shes-dangerous/)
     
-    October 12, 2024
+    October 13, 2024
     
-* [![Kamala Harris 2024 election media bias](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/clean-up-crew-2/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/columbus-day-indigenous-peoples-day-restricted-220x150.jpg)](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-do-we-celebrate-indigenous-peoples-day/)
     
-    [Clean-up Crew](https://www.conservativedailynews.com/2024/10/clean-up-crew-2/)
+    [America In The Age Of Stupidity: Why do we celebrate Indigenous Peoples Day?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-do-we-celebrate-indigenous-peoples-day/)
     
-    October 12, 2024
+    October 13, 2024
+    
+* [![Tim Walz electoral college](https://www.conservativedailynews.com/wp-content/uploads/2024/10/02-elccollege-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/governor-knucklehead/)
+    
+    [Governor Knucklehead](https://www.conservativedailynews.com/2024/10/governor-knucklehead/)
+    
+    October 13, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Is 38 Special a Good Self-Defense Round?](https://www.thegunpage.com/is-38-special-a-good-self-defense-round/10611180)
+* [Silencer Saturday #350: New Direct Thread Gemtech Silencers](https://www.thegunpage.com/silencer-saturday-350-new-direct-thread-gemtech-silencers/10611178)
+* [Results: 2024 NRA National High Power Rifle OTC Championships](https://www.thegunpage.com/results-2024-nra-national-high-power-rifle-otc-championships/10611176)
 * [TFB Armorer's Bench: Converting 30-30 Win to 32-40 Win](https://www.thegunpage.com/tfb-armorers-bench-converting-30-30-win-to-32-40-win/10611172)
 * [Maryland Group Asks Supreme Court To Explore State’s Handgun Licensing Requirements](https://www.thegunpage.com/maryland-group-asks-supreme-court-to-explore-states-handgun-licensing-requirements/10611167)
 * [New: Winchester Model 98 Signal Cannon](https://www.thegunpage.com/new-winchester-model-98-signal-cannon/10611164)
@@ -184,9 +187,6 @@ Recent Posts
 * [POTD: Revolver That Fires Rubber Balls Using Blank Cartridges](https://www.thegunpage.com/potd-revolver-that-fires-rubber-balls-using-blank-cartridges/10611161)
 * [TFB Podcast Roundup 150: The October 11th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-150-the-october-11th-roundup/10611162)
 * [Quality Thermal Made Easy: The Armasight Jockey 640 Compact Thermal Clip-On](https://www.thegunpage.com/quality-thermal-made-easy-the-armasight-jockey-640-compact-thermal-clip-on/10611156)
-* [First Look: SIG Sauer MCX-SPEAR 6.8X51](https://www.thegunpage.com/first-look-sig-sauer-mcx-spear-6-8x51/10611153)
-* [New CZ 600+ ERGO DRIVEN HUNT Rifle](https://www.thegunpage.com/new-cz-600-ergo-driven-hunt-rifle/10611155)
-* [Court Blocks Enforcement Of NY Carry Ban On Private Property Open To The Public](https://www.thegunpage.com/court-blocks-enforcement-of-ny-carry-ban-on-private-property-open-to-the-public/10611148)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,15 +228,15 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Prominent Election Expert Suggests Pollsters ‘Have No Idea’ If They’re Accurately Measuring Trump Support](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/#comment-782655)
+* Catboss on [Trump Campaign Requests Military Aircraft, Bulletproof Glass Amid Security Threats](https://www.conservativedailynews.com/2024/10/trump-campaign-requests-military-aircraft-bulletproof-glass-amid-security-threats/#comment-782654)
+* Will Delito on [Trump Campaign Requests Military Aircraft, Bulletproof Glass Amid Security Threats](https://www.conservativedailynews.com/2024/10/trump-campaign-requests-military-aircraft-bulletproof-glass-amid-security-threats/#comment-782653)
 * KayCee on [Chutzpah](https://www.conservativedailynews.com/2024/10/chutzpah/#comment-782647)
 * Stanley Warner on [America’s Bipartisan Spending Suicide Pact](https://www.conservativedailynews.com/2024/10/americas-bipartisan-spending-suicide-pact/#comment-782638)
 * charles wilkins on [Clean-up Crew](https://www.conservativedailynews.com/2024/10/clean-up-crew-2/#comment-782637)
 * KayCee on [One Year Later](https://www.conservativedailynews.com/2024/10/one-year-later/#comment-782630)
 * KayCee on [How Is It Misinformation To Ask A Question](https://www.conservativedailynews.com/2024/10/how-is-it-misinformation-to-ask-a-question/#comment-782629)
 * Stanley Warner on [Chutzpah](https://www.conservativedailynews.com/2024/10/chutzpah/#comment-782628)
-* Stanley Warner on [Biden-Harris Administration ‘Grossly’ Underestimated Inflation Since 2019, New Study Shows](https://www.conservativedailynews.com/2024/10/biden-harris-administration-grossly-underestimated-inflation-since-2019-new-study-shows/#comment-782627)
-* charles wilkins on [Florida Needs Prayers – and Hands](https://www.conservativedailynews.com/2024/10/florida-needs-prayers-and-hands/#comment-782621)
-* KayCee on [Media Blitz Not Working For Democrats](https://www.conservativedailynews.com/2024/10/media-blitz-not-working-for-democrats/#comment-782613)
 
 [Close](#)
 
