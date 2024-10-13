@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/perspektive-9/perspektive-9d.jpg?itok=YgRLS8ay)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/perspektive-9)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/marica-radojcic-presic/five-eggs/ben3.jpg?itok=UFycYF_y)](http://seecult.org/galerija/galerija-umetnika/marica-radojcic-presic/five-eggs)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/trese-lupa-udara/trese-lupa-udara-006.?itok=PU0vflfJ)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/trese-lupa-udara)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/butch-morris-nublu-orchestra-211007/nublu8.jpg?itok=KLY1rgU_)](http://seecult.org/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/butch-morris-nublu-orchestra-211007)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
