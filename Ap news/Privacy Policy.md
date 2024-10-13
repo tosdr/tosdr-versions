@@ -12,7 +12,7 @@ Menu
     
     TOP STORIES
     
-    * [Heavy Israeli bombardment in northern Gaza as UN peacekeepers in Lebanon are hit again](https://apnews.com/article/mideast-wars-israel-hamas-hezbollah-gaza-lebanon-681c9c85541c8c96b802a1bad8e45e41)
+    * [Israeli strikes kill a family of 8 in Gaza and destroy a century-old market in Lebanon](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-13-2024-a8cd5df3e2bb4ab08405a78251244bb2)
     * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
     * [As Hezbollah and Israel battle on the border, Lebanon's army watches from the sidelines](https://apnews.com/article/lebanese-army-laf-israel-hezbollah-78f6ad2da82d64d1ae266aa5394e6d4e)
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Floridians cleaning up from Hurricane Milton are hampered by a widespread fuel shortage](https://apnews.com/article/hurricane-milton-florida-d044c0bb6b4ad1f5e2bd61ab44fb1b8c)
-    * [Far from where Hurricane Milton's eye hit, tornadoes wrought unexpected damage](https://apnews.com/article/hurricane-milton-tornadoes-florida-wellington-damage-64caa6609c2a3c6476468ad89b0dee96)
-    * [What to know as Florida residents begin cleaning up after Hurricane Milton](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
+    * [Determination to rebuild follows Florida's hurricanes with acceptance that storms will come again](https://apnews.com/article/hurricane-milton-florida-a39b7a04052e9cd9d0d8598d090ea54b)
+    * [Volunteers bring solar power to Hurricane Helene's disaster zone](https://apnews.com/article/hurricane-helene-solar-power-north-carolina-095b6ff5f1290ac7439f12b555f9845d)
+    * [Biden will survey Hurricane Milton damage in Florida, Harris attends church in North Carolina](https://apnews.com/article/harris-biden-hurricane-milton-election-84526011bf223902a04f41f59b7651b5)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Trump tested the limits on using the military at home. If elected again, he plans to go further](https://apnews.com/article/trump-military-border-civil-unrest-domestic-use-a136c69cc85184b07f161c4c09b46c50)
+    * [Biden will survey Hurricane Milton damage in Florida, Harris attends church in North Carolina](https://apnews.com/article/harris-biden-hurricane-milton-election-84526011bf223902a04f41f59b7651b5)
     * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
-    * [Donald Trump holds a rally in California, a state he's almost certain to lose](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa)
-    * [Harris helps pack aid boxes for North Carolina hurricane victims ahead of Sunday campaign push](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
     
     Newsletters
     
@@ -92,8 +92,8 @@ Menu
     
     TOP STORIES
     
+    * [Dillon Gabriel rallies No. 3 Oregon past No. 2 Ohio State, 32-31](https://apnews.com/article/ohio-state-oregon-score-68fb7b786ae40ca2630bb3bafd68830d)
     * [Thomas hits grand slam off Skubal, Guardians down Tigers 7-3 to reach AL Championship Series](https://apnews.com/article/mlb-playoffs-tigers-guardians-b6c33f918a7bdfd39a299632a3394dfa)
-    * [Ewers returns as No. 1 Texas beats No. 18 Oklahoma 34-3 in 1st Red River Rivalry game as SEC members](https://apnews.com/article/texas-oklahoma-college-football-score-ewers-fdde647e2a9dd15a1a768d244301bad2)
     * [No. 4 Penn State rallies back to beat USC 33-30 in overtime on TE Tyler Warren's record day](https://apnews.com/article/usc-penn-state-score-fa8d60806cd32f0292ee66e37e4251f5)
     
     Newsletters
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [Ariana Grande hosts 'SNL' for the first time since the last female presidential nominee](https://apnews.com/article/snl-ariana-grande-stevie-nicks-58c903e3c28588b78f4d7efac63e977f)
     * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
     * [Jury finds ex-member of rock band Mr. Bungle guilty of killing his girlfriend](https://apnews.com/article/mr-bungle-girlfriend-killing-guilty-bd369201c2388383428a84746661929f)
-    * [The making of 'The Apprentice,' in their words](https://apnews.com/article/sebastian-stan-donald-trump-apprentice-jeremy-strong-faf59cdd1c4e80bb8e97f7bea0b940fc)
     
 * [Business](https://apnews.com/business)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [Volunteers bring solar power to Hurricane Helene's disaster zone](https://apnews.com/article/hurricane-helene-solar-power-north-carolina-095b6ff5f1290ac7439f12b555f9845d)
     * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
-    * [AI is having its Nobel moment. Do scientists need the tech industry to sustain it?](https://apnews.com/article/ai-nobel-prizes-physics-chemistry-google-deepmind-hinton-cb963de3b4235f28f8c95ca9080830f6)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [Eggnog before Thanksgiving? Shoppers eager for a new season scramble retail calendars](https://apnews.com/article/seasonal-trends-holiday-halloween-thanksgiving-christmas-335a4baeb03a8afb37206e74bfcbbf28)
     * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     * [Kim Jones steps down as artistic director at Fendi to concentrate on his role at Dior Men's](https://apnews.com/article/italy-fendi-kim-jones-1fe57e1b58515865a052126f38ffbd03)
-    * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     
 * [Religion](https://apnews.com/religion)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Israel bombardea norte de Gaza; fuerzas de paz de ONU sufren nuevo ataque en Líbano](https://apnews.com/world-news/general-news-9761b381a40760ed8bd2f12ad3fbf441)
+    * [Ataques israelíes matan a una familia en Gaza y destruyen un mercado centenario en Líbano](https://apnews.com/world-news/general-news-efa99131cb37916528b98c0f5323c236)
+    * [Otra consecuencia de la emigración y la crisis en Cuba: el aumento de mascotas abandonadas](https://apnews.com/world-news/general-news-eb93f7a538ab0ea00b9364dd706443f6)
     * [Mientras Hezbollah e Israel combaten en la frontera, el Ejército libanés mira desde los márgenes](https://apnews.com/world-news/general-news-9091e3820005d6c22021bcf8de6adf0e)
-    * [La gasolina escasea en Florida mientras el estado se recupera del paso del huracán Milton](https://apnews.com/us-news/general-news-a813c3e041f3c6c7a1d9c24868a47897)
-    * [Funcionario de ONU pide proteger puertos y aeropuertos del Líbano en medio de ofensiva israelí](https://apnews.com/world-news/general-news-206cfe87a774c5b2ed38a42c9a4a283b)
-    * [El líder británico Keir Starmer cumple 100 días en el gobierno. Ha sido un inicio accidentado](https://apnews.com/world-news/general-news-f1e500409b2b8cf2795f7f1a96f1c44c)
-    * [America First Policy Institute, grupo que asesora a Trump, denuncia ciberataque](https://apnews.com/us-news/general-news-54d8c0a17f785461c4e8c2963a01f6ca)
+    * [Exjuez de Macao es elegido como primer líder de la ciudad de casinos nacido en la China continental](https://apnews.com/world-news/general-news-f7da03db89e85aca6999f1f8539f7505)
+    * [Florida reconstruye con determinación tras los huracanes, asume que habrá más tormentas](https://apnews.com/us-news/general-news-279e57c77ec36066f3843f46fb38db05)
+    * [En acto de campaña, Trump escucha a inmigrante que ingresó a EEUU sin autorización legal](https://apnews.com/us-news/general-news-5cbeebc7fd7cf7b69d466788cd7c5f2a)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -458,7 +458,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Heavy Israeli bombardment in northern Gaza as UN peacekeepers in Lebanon are hit again](https://apnews.com/article/mideast-wars-israel-hamas-hezbollah-gaza-lebanon-681c9c85541c8c96b802a1bad8e45e41)
+    * [Israeli strikes kill a family of 8 in Gaza and destroy a century-old market in Lebanon](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-13-2024-a8cd5df3e2bb4ab08405a78251244bb2)
     * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
     * [As Hezbollah and Israel battle on the border, Lebanon's army watches from the sidelines](https://apnews.com/article/lebanese-army-laf-israel-hezbollah-78f6ad2da82d64d1ae266aa5394e6d4e)
     
@@ -476,9 +476,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Floridians cleaning up from Hurricane Milton are hampered by a widespread fuel shortage](https://apnews.com/article/hurricane-milton-florida-d044c0bb6b4ad1f5e2bd61ab44fb1b8c)
-    * [Far from where Hurricane Milton's eye hit, tornadoes wrought unexpected damage](https://apnews.com/article/hurricane-milton-tornadoes-florida-wellington-damage-64caa6609c2a3c6476468ad89b0dee96)
-    * [What to know as Florida residents begin cleaning up after Hurricane Milton](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
+    * [Determination to rebuild follows Florida's hurricanes with acceptance that storms will come again](https://apnews.com/article/hurricane-milton-florida-a39b7a04052e9cd9d0d8598d090ea54b)
+    * [Volunteers bring solar power to Hurricane Helene's disaster zone](https://apnews.com/article/hurricane-helene-solar-power-north-carolina-095b6ff5f1290ac7439f12b555f9845d)
+    * [Biden will survey Hurricane Milton damage in Florida, Harris attends church in North Carolina](https://apnews.com/article/harris-biden-hurricane-milton-election-84526011bf223902a04f41f59b7651b5)
     
     Newsletters
     
@@ -529,9 +529,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Trump tested the limits on using the military at home. If elected again, he plans to go further](https://apnews.com/article/trump-military-border-civil-unrest-domestic-use-a136c69cc85184b07f161c4c09b46c50)
+    * [Biden will survey Hurricane Milton damage in Florida, Harris attends church in North Carolina](https://apnews.com/article/harris-biden-hurricane-milton-election-84526011bf223902a04f41f59b7651b5)
     * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
-    * [Donald Trump holds a rally in California, a state he's almost certain to lose](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa)
-    * [Harris helps pack aid boxes for North Carolina hurricane victims ahead of Sunday campaign push](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
     
     Newsletters
     
@@ -559,8 +559,8 @@ Submit Search
     
     TOP STORIES
     
+    * [Dillon Gabriel rallies No. 3 Oregon past No. 2 Ohio State, 32-31](https://apnews.com/article/ohio-state-oregon-score-68fb7b786ae40ca2630bb3bafd68830d)
     * [Thomas hits grand slam off Skubal, Guardians down Tigers 7-3 to reach AL Championship Series](https://apnews.com/article/mlb-playoffs-tigers-guardians-b6c33f918a7bdfd39a299632a3394dfa)
-    * [Ewers returns as No. 1 Texas beats No. 18 Oklahoma 34-3 in 1st Red River Rivalry game as SEC members](https://apnews.com/article/texas-oklahoma-college-football-score-ewers-fdde647e2a9dd15a1a768d244301bad2)
     * [No. 4 Penn State rallies back to beat USC 33-30 in overtime on TE Tyler Warren's record day](https://apnews.com/article/usc-penn-state-score-fa8d60806cd32f0292ee66e37e4251f5)
     
     Newsletters
@@ -588,9 +588,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Ariana Grande hosts 'SNL' for the first time since the last female presidential nominee](https://apnews.com/article/snl-ariana-grande-stevie-nicks-58c903e3c28588b78f4d7efac63e977f)
     * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
     * [Jury finds ex-member of rock band Mr. Bungle guilty of killing his girlfriend](https://apnews.com/article/mr-bungle-girlfriend-killing-guilty-bd369201c2388383428a84746661929f)
-    * [The making of 'The Apprentice,' in their words](https://apnews.com/article/sebastian-stan-donald-trump-apprentice-jeremy-strong-faf59cdd1c4e80bb8e97f7bea0b940fc)
     
 * [Business](https://apnews.com/business)
     
@@ -753,9 +753,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Volunteers bring solar power to Hurricane Helene's disaster zone](https://apnews.com/article/hurricane-helene-solar-power-north-carolina-095b6ff5f1290ac7439f12b555f9845d)
     * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
-    * [AI is having its Nobel moment. Do scientists need the tech industry to sustain it?](https://apnews.com/article/ai-nobel-prizes-physics-chemistry-google-deepmind-hinton-cb963de3b4235f28f8c95ca9080830f6)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -773,9 +773,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Eggnog before Thanksgiving? Shoppers eager for a new season scramble retail calendars](https://apnews.com/article/seasonal-trends-holiday-halloween-thanksgiving-christmas-335a4baeb03a8afb37206e74bfcbbf28)
     * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     * [Kim Jones steps down as artistic director at Fendi to concentrate on his role at Dior Men's](https://apnews.com/article/italy-fendi-kim-jones-1fe57e1b58515865a052126f38ffbd03)
-    * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     
 * [Religion](https://apnews.com/religion)
     
@@ -797,12 +797,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel bombardea norte de Gaza; fuerzas de paz de ONU sufren nuevo ataque en Líbano](https://apnews.com/world-news/general-news-9761b381a40760ed8bd2f12ad3fbf441)
+    * [Ataques israelíes matan a una familia en Gaza y destruyen un mercado centenario en Líbano](https://apnews.com/world-news/general-news-efa99131cb37916528b98c0f5323c236)
+    * [Otra consecuencia de la emigración y la crisis en Cuba: el aumento de mascotas abandonadas](https://apnews.com/world-news/general-news-eb93f7a538ab0ea00b9364dd706443f6)
     * [Mientras Hezbollah e Israel combaten en la frontera, el Ejército libanés mira desde los márgenes](https://apnews.com/world-news/general-news-9091e3820005d6c22021bcf8de6adf0e)
-    * [La gasolina escasea en Florida mientras el estado se recupera del paso del huracán Milton](https://apnews.com/us-news/general-news-a813c3e041f3c6c7a1d9c24868a47897)
-    * [Funcionario de ONU pide proteger puertos y aeropuertos del Líbano en medio de ofensiva israelí](https://apnews.com/world-news/general-news-206cfe87a774c5b2ed38a42c9a4a283b)
-    * [El líder británico Keir Starmer cumple 100 días en el gobierno. Ha sido un inicio accidentado](https://apnews.com/world-news/general-news-f1e500409b2b8cf2795f7f1a96f1c44c)
-    * [America First Policy Institute, grupo que asesora a Trump, denuncia ciberataque](https://apnews.com/us-news/general-news-54d8c0a17f785461c4e8c2963a01f6ca)
+    * [Exjuez de Macao es elegido como primer líder de la ciudad de casinos nacido en la China continental](https://apnews.com/world-news/general-news-f7da03db89e85aca6999f1f8539f7505)
+    * [Florida reconstruye con determinación tras los huracanes, asume que habrá más tormentas](https://apnews.com/us-news/general-news-279e57c77ec36066f3843f46fb38db05)
+    * [En acto de campaña, Trump escucha a inmigrante que ingresó a EEUU sin autorización legal](https://apnews.com/us-news/general-news-5cbeebc7fd7cf7b69d466788cd7c5f2a)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
