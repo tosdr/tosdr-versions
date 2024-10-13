@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I've been a happy customer for years now.
+I love the Foxy Proxy service and your support is top notch!
 
-Said Marouf
+Nathan Kroll
