@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Ewers returns as No. 1 Texas beats No. 18 Oklahoma 34-3 in 1st Red River Rivalry game as SEC members](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2178138834.jpg?ve=1&tl=1)
+
+ ![Ewers returns as No. 1 Texas beats No. 18 Oklahoma 34-3 in 1st Red River Rivalry game as SEC members](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178138834.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/ewers-returns-no-1-texas-beats-no-18-oklahoma-34-3-1st-red-river-rivalry-game-sec-members)
+
+### [Ewers returns as No. 1 Texas beats No. 18 Oklahoma 34-3 in 1st Red River Rivalry game as SEC members](https://www.fox4news.com/sports/ewers-returns-no-1-texas-beats-no-18-oklahoma-34-3-1st-red-river-rivalry-game-sec-members)
+
+ [![Two homes in Frisco neighborhood catch fire in less than 24 hours](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-frisco-lago-vista-fire-9p_00.00.00.00.jpg?ve=1&tl=1)
+
+ ![Two homes in Frisco neighborhood catch fire in less than 24 hours](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-frisco-lago-vista-fire-9p_00.00.00.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/frisco-fires-starwood-neighborhood)
+
+### [Two homes in Frisco neighborhood catch fire in less than 24 hours](https://www.fox4news.com/news/frisco-fires-starwood-neighborhood)
+
+ [![Food item in Virginia woman's freezer was 84 years old, stuns family: 'Quite perplexing'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/fnc-cookie-freezer3.jpg?ve=1&tl=1)
+
+ ![Food item in Virginia woman's freezer was 84 years old, stuns family: 'Quite perplexing'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/fnc-cookie-freezer3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/food-item-virginia-womans-freezer-was-84-years-old-stuns-family-quite-perplexing)
+
+### [Family finds ‘perplexing’ 84-year-old item in dead grandmother's freezer](https://www.fox4news.com/news/food-item-virginia-womans-freezer-was-84-years-old-stuns-family-quite-perplexing)
+
+ [![Arkansas father kills man found with missing 14-year-old daughter: police](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1506271370-scaled.jpg?ve=1&tl=1)
+
+ ![Arkansas father kills man found with missing 14-year-old daughter: police](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1506271370-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/aaron-spencer-arkansas-father-kills-man-found-missing-14-year-old-daughter)
+
+### [Arkansas father kills man found with missing 14-year-old daughter: police](https://www.fox4news.com/news/aaron-spencer-arkansas-father-kills-man-found-missing-14-year-old-daughter)
+
  [![Halloween party shootout: 1 dead, at least 12 injured in Oklahoma City](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1446079326-4-scaled.jpg?ve=1&tl=1)
 
  ![Halloween party shootout: 1 dead, at least 12 injured in Oklahoma City](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1446079326-4-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oklahoma-city-shooting-halloween-party)
 
 ### [Halloween party shootout: 1 dead, at least 12 injured in Oklahoma City](https://www.fox4news.com/news/oklahoma-city-shooting-halloween-party)
-
- [![Frisco suspect arrested after 12-hour standoff](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Frisco-police-department-generic-Frisco-PD.png?ve=1&tl=1)
-
- ![Frisco suspect arrested after 12-hour standoff](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Frisco-police-department-generic-Frisco-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/frisco-suspect-arrested-after-12-hour-standoff)
-
-### [Frisco suspect arrested after 12-hour standoff](https://www.fox4news.com/news/frisco-suspect-arrested-after-12-hour-standoff)
-
- [![Ex-NBA coach Sam Mitchell doxxes co-host’s address on live broadcast over salary joke](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-165463081-a.jpg?ve=1&tl=1)
-
- ![Ex-NBA coach Sam Mitchell doxxes co-host’s address on live broadcast over salary joke](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-165463081-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/ex-nba-coach-sam-mitchell-doxxes-co-hosts-address-live-broadcast-over-salary-joke)
-
-### [Ex-NBA coach Sam Mitchell doxxes co-host’s address on live broadcast over salary joke](https://www.fox4news.com/sports/ex-nba-coach-sam-mitchell-doxxes-co-hosts-address-live-broadcast-over-salary-joke)
-
- [![Biltmore Estate staff, guests host impromptu wedding for couple during Helene](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/wedding-featured-image.jpg?ve=1&tl=1)
-
- ![Biltmore Estate staff, guests host impromptu wedding for couple during Helene](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/wedding-featured-image.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biltmore-estate-helene-wedding-travis-jansen-putnam)
-
-### [Biltmore Estate staff, guests host impromptu wedding for couple during Helene](https://www.fox4news.com/news/biltmore-estate-helene-wedding-travis-jansen-putnam)
-
- [![Man, 3 dogs killed in fire at Northwest Dallas mobile home park](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/033123-DFR-Members-Recognized-KDFWEME001_mpg_00.01.10.56.jpg?ve=1&tl=1)
-
- ![Man, 3 dogs killed in fire at Northwest Dallas mobile home park](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/592/333/033123-DFR-Members-Recognized-KDFWEME001_mpg_00.01.10.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/northwest-dallas-lombardy-lane-fire)
-
-### [Man, 3 dogs killed in fire at Northwest Dallas mobile home park](https://www.fox4news.com/news/northwest-dallas-lombardy-lane-fire)
 
 ###### [News](https://www.fox4news.com/news)
 
