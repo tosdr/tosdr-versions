@@ -173,6 +173,15 @@ Number of items in basket: 0
 
 [View All](https://alanthomsonsim.com/category/product-updates/)
 
+12th October 2024 [0](https://alanthomsonsim.com/tpe-merge-updated-to-v1-0-2/#comments "Comment on TPE Merge Updated to V1.0.2")
+
+[TPE Merge Updated to V1.0.2](https://alanthomsonsim.com/tpe-merge-updated-to-v1-0-2/)
+--------------------------------------------------------------------------------------
+
+By [Hayden Yates](https://alanthomsonsim.com/author/ats-hayden/)
+
+Latest version of the TPE Merge & Chat Moss is available now. Please head to Launcher to redownload both routes....
+
 14th March 2024 Off
 
 [Just Trains Product Updates March 2024](https://alanthomsonsim.com/just-trains-product-updates-march-2024/)
@@ -180,7 +189,7 @@ Number of items in basket: 0
 
 By [Alan Thomson Simulation](https://alanthomsonsim.com/author/admin/)
 
-The following Just Trains products have been updated. The updated installers can be found in your account on their order...
+The following Just Trains products have been updated. The updated...
 
 25th January 2024 Off
 
@@ -190,15 +199,6 @@ The following Just Trains products have been updated. The updated installers can
 By [Alan Thomson Simulation](https://alanthomsonsim.com/author/admin/)
 
 Latest Update: 2024/01/24 The below log shows all updates for...
-
-16th April 2023 Off
-
-[Changelogs](https://alanthomsonsim.com/changelogs/)
-----------------------------------------------------
-
-By [Alan Thomson Simulation](https://alanthomsonsim.com/author/admin/)
-
-You can view product changelogs here
 
 ### Alan thomson simulation on youtube
 
@@ -214,12 +214,15 @@ You can view product changelogs here
 
 ### Random Download
 
-*  [![](https://alanthomsonsim.com/wp-content/uploads/edd/2019/07/jpg/vmachin/20190713155815_1-100x100.jpg "1B78 1945 Nottingham to St Pancras International 2019")
+*  [![](https://alanthomsonsim.com/wp-content/uploads/edd/2022/08/png/pdcekue/455-100x100.png "Class 455 Vossloh Traction Pack")
     
-    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "1B78 1945 Nottingham to St Pancras International 2019")](https://alanthomsonsim.com/downloads/1b78-1945-nottingham-to-st-pancras-international-2019/ "1B78 1945 Nottingham to St Pancras International 2019")[1B78 1945 Nottingham to St Pancras International 2019](https://alanthomsonsim.com/downloads/1b78-1945-nottingham-to-st-pancras-international-2019/ "1B78 1945 Nottingham to St Pancras International 2019")
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "Class 455 Vossloh Traction Pack")](https://alanthomsonsim.com/downloads/class-455-vossloh-traction-pack/ "Class 455 Vossloh Traction Pack")[Class 455 Vossloh Traction Pack](https://alanthomsonsim.com/downloads/class-455-vossloh-traction-pack/ "Class 455 Vossloh Traction Pack")
 
 ### Most Recent Additions
 
+*  [![](https://alanthomsonsim.com/wp-content/uploads/2024/10/1Z31-100x100.png "(GB) 1Z31 11:26 Norwich - Lowestoft")
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "(GB) 1Z31 11:26 Norwich - Lowestoft")](https://alanthomsonsim.com/downloads/gb-1z31-1126-norwich-lowestoft/ "(GB) 1Z31 11:26 Norwich - Lowestoft")[(GB) 1Z31 11:26 Norwich – Lowestoft](https://alanthomsonsim.com/downloads/gb-1z31-1126-norwich-lowestoft/ "(GB) 1Z31 11:26 Norwich - Lowestoft")
 *  [![](https://alanthomsonsim.com/wp-content/uploads/2024/10/20241010183455_1-100x100.jpg "6E45 1206 Theale Puma Gbrf - Immingham Puma Gbrf (2017)")
     
     ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "6E45 1206 Theale Puma Gbrf - Immingham Puma Gbrf (2017)")](https://alanthomsonsim.com/downloads/6e45-1206-theale-puma-gbrf-immingham-puma-gbrf-2017/ "6E45 1206 Theale Puma Gbrf - Immingham Puma Gbrf (2017)")[6E45 1206 Theale Puma Gbrf – Immingham Puma Gbrf (2017)](https://alanthomsonsim.com/downloads/6e45-1206-theale-puma-gbrf-immingham-puma-gbrf-2017/ "6E45 1206 Theale Puma Gbrf - Immingham Puma Gbrf (2017)")
@@ -253,9 +256,6 @@ You can view product changelogs here
 *  [![](https://alanthomsonsim.com/wp-content/uploads/2024/10/20230410220736_1-100x100.jpg "06:06 Northampton to Liverpool Lime Street (2007)")
     
     ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "06:06 Northampton to Liverpool Lime Street (2007)")](https://alanthomsonsim.com/downloads/0606-northampton-to-liverpool-lime-street-2007/ "06:06 Northampton to Liverpool Lime Street (2007)")[06:06 Northampton to Liverpool Lime Street (2007)](https://alanthomsonsim.com/downloads/0606-northampton-to-liverpool-lime-street-2007/ "06:06 Northampton to Liverpool Lime Street (2007)")
-*  [![](https://alanthomsonsim.com/wp-content/uploads/2024/10/Screenshot_MML-London-to-Bedford-AP_52.01412-0.50502_11-46-28-100x100.jpg "1G18 10:50 St Pancras International to Bedford (2010)")
-    
-    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "1G18 10:50 St Pancras International to Bedford (2010)")](https://alanthomsonsim.com/downloads/1g18-1050-st-pancras-international-to-bedford-2010/ "1G18 10:50 St Pancras International to Bedford (2010)")[1G18 10:50 St Pancras International to Bedford (2010)](https://alanthomsonsim.com/downloads/1g18-1050-st-pancras-international-to-bedford-2010/ "1G18 10:50 St Pancras International to Bedford (2010)")
 
 ### (c) Alan Thomson Simulation Ltd 2022
 
