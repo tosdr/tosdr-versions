@@ -182,6 +182,18 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Decisions in Dentistry recently reported on the AD ![Decisions in Dentistry recently reported on the ADA’s opposition to dental therapy. Allen Hindin, DDS, MPH, a retired dentist in Connecticut who worked with underserved communities throughout his career, offered the following comment:⁠
+⁠
+“Wouldn't it be interesting to see what the Federal Trade Commission might have to say, about the most recent effort to misinform America about safety and effectiveness of dental therapists over the past century worldwide and almost 20 years nationally? Health profession or frightened guild?”⁠
+⁠
+What do you think?⁠
+⁠
+Click the link in bio for full article.⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBBtMJZzyPD/) 
+
 [Recent advancements have shifted the understanding ![Recent advancements have shifted the understanding and management of peri-implant disease, highlighting the detrimental effects of certain debridement techniques and materials on implant surfaces. Central to these findings is the concept of metallosis, a pathogenic process triggered by oral biofilm and exacerbated by titanium particle release. Understanding these mechanisms is crucial for improving long-term treatment success and maintaining implant health. Link in bio.⁠
 ⁠
 ⁠
@@ -224,13 +236,6 @@ Listen via the link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAvrnBhthqf/) 
-
-[A recent study demonstrates that dental implants p ![A recent study demonstrates that dental implants provide a safe and effective option for women with primary Sjögren disease, improving their oral health and quality of life over 5 years. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAtNsYhSDaV/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
