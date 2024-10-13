@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![Fark25 Party](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Can't get enough Fark in your life? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+Come for the Total, stay for the Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Scientists are working on a catfish / alligator hybrid...but point out that we shouldn't worry, they're sterile and can't reproduce. Jeff Goldblum seen knocking furiously on a window outside, yelling "Life finds a way"](https://www.fark.com/goto/13425304) ( [outdoorlife.com](https://www.fark.com/goto/13425304) ) » [(32 comments)](https://www.fark.com/comments/13425304/Scientists-are-working-on-a-catfish-alligator-hybridbut-point-out-that-we-shouldnt-worry-theyre-sterile-cant-reproduce-Jeff-Goldblum-seen-knocking-furiously-on-a-window-outside-yelling-Life-finds-a-way) |
-| [Discussion](https://www.fark.com/discussion/) | [If you're not at The Party, you could watch Big Clive Live, coming up at 4:00 PM ET. Or not. Scrufdog LIT](https://www.fark.com/goto/13425544) ( [twitch.tv](https://www.fark.com/goto/13425544) ) » [(2 comments)](https://www.fark.com/comments/13425544/If-youre-not-at-The-Party-you-could-watch-Big-Clive-Live-coming-up-at-400-PM-ET-Or-not-Scrufdog-LIT) |
-| [Sports](https://www.fark.com/sports/) | [Saturday Evening MMA: UFC Vegas 98 - Brandon Royval vs Tatsuro Taira, Brad Tavares vs Park Jun-Yong. Prelims at 4 PM ET, main card at 7 PM ET](https://www.fark.com/goto/13425108) ( [ufc.com](https://www.fark.com/goto/13425108) ) » [(1 comment)](https://www.fark.com/comments/13425108/Saturday-Evening-MMA-UFC-Vegas-98-Brandon-Royval-vs-Tatsuro-Taira-Brad-Tavares-vs-Park-Jun-Yong-Prelims-at-4-PM-ET-main-card-at-7-PM-ET) |
-| [Business](https://www.fark.com/business/) | [Fisher-Price recalls over 2 million "Snuga Baby2Death Swings" for reasons that should be obvious](https://www.fark.com/goto/13425254) ( [apnews.com](https://www.fark.com/goto/13425254) ) » [(12 comments)](https://www.fark.com/comments/13425254/Fisher-Price-recalls-over-2-million-Snuga-Baby2Death-Swings-for-reasons-that-should-be-obvious) |
-| [STEM](https://www.fark.com/stem/) | [If you're not at The Party, you could watch Big Clive Live, coming up at 4:00 PM ET. Or not. Scrufdog LIT](https://www.fark.com/goto/13425544) ( [twitch.tv](https://www.fark.com/goto/13425544) ) » [(2 comments)](https://www.fark.com/comments/13425544/If-youre-not-at-The-Party-you-could-watch-Big-Clive-Live-coming-up-at-400-PM-ET-Or-not-Scrufdog-LIT) |
-| [Entertainment](https://www.fark.com/entertainment/) | [As Fark celebrates turning 25, the Curtis Institute celebrates turning 100. That's a lot of bourbon](https://www.fark.com/goto/13425316) ( [whyy.org](https://www.fark.com/goto/13425316) ) » [(2 comments)](https://www.fark.com/comments/13425316/As-Fark-celebrates-turning-25-Curtis-Institute-celebrates-turning-100-Thats-a-lot-of-bourbon) |
-| [Fandom](https://www.fark.com/fandom/) | [Steam confirms the obvious. Ric Romero shrugs his shoulders, mutters "no duh"](https://www.fark.com/goto/13425270) ( [gizmodo.com](https://www.fark.com/goto/13425270) ) » [(10 comments)](https://www.fark.com/comments/13425270/Steam-confirms-obvious-Ric-Romero-shrugs-his-shoulders-mutters-no-duh) |
-| [D'awww](https://www.fark.com/dawww/) | [White whale sighted off the coast of Tonga. Nobody tell Ahab](https://www.fark.com/goto/13425196) ( [iflscience.com](https://www.fark.com/goto/13425196) ) » [(38 comments)](https://www.fark.com/comments/13425196/White-whale-sighted-off-coast-of-Tonga-Nobody-tell-Ahab) |
-| [Food](https://www.fark.com/food/) | [An article that covers the latest food recall asks the question: why does it keep happening? That it does not say "massive deregulation resulting in poor inspection practices" anywhere in it earns it the Dumbass tag](https://www.fark.com/goto/13425346) ( [delish.com](https://www.fark.com/goto/13425346) ) » [(3 comments)](https://www.fark.com/comments/13425346/An-article-that-covers-latest-food-recall-asks-question-why-does-it-keep-happening-That-it-does-not-say-massive-deregulation-resulting-in-poor-inspection-practices-anywhere-in-it-earns-it-Dumbass-tag) |
-| [Politics](https://www.fark.com/politics/) | [After mocking VP Harris for using a teleprompter, DonOld has to stop his speech to fix his teleprompter](https://www.fark.com/goto/13425294) ( [independent.co.uk](https://www.fark.com/goto/13425294) ) » [(69 comments)](https://www.fark.com/comments/13425294/After-mocking-VP-Harris-for-using-a-teleprompter-DonOld-has-to-stop-his-speech-to-fix-his-teleprompter) |
+| [Main](https://www.fark.com/) | [Photoshop this walkway](https://www.fark.com/goto/13419436) ( [cloudfront-us-east-1.images.arcpublishing.com](https://www.fark.com/goto/13419436) ) » [(10 comments)](https://www.fark.com/comments/13419436/Photoshop-this-walkway) |
+| [Discussion](https://www.fark.com/discussion/) | [The Mauricio Pochettino era begins for the US Men's National Soccer Team. How will they fair against Los Canaleros. Game starts at 9pm ET on TNT](https://www.fark.com/goto/13425622) ( [espn.com](https://www.fark.com/goto/13425622) ) » [(12 comments)](https://www.fark.com/comments/13425622/The-Mauricio-Pochettino-era-begins-for-US-Mens-National-Soccer-Team-How-will-they-fair-against-Los-Canaleros-Game-starts-at-9pm-ET-on-TNT) |
+| [Sports](https://www.fark.com/sports/) | [The Mauricio Pochettino era begins for the US Men's National Soccer Team. How will they fair against Los Canaleros. Game starts at 9pm ET on TNT](https://www.fark.com/goto/13425622) ( [espn.com](https://www.fark.com/goto/13425622) ) » [(12 comments)](https://www.fark.com/comments/13425622/The-Mauricio-Pochettino-era-begins-for-US-Mens-National-Soccer-Team-How-will-they-fair-against-Los-Canaleros-Game-starts-at-9pm-ET-on-TNT) |
+| [Business](https://www.fark.com/business/) | [Fisher-Price recalls over 2 million "Snuga Baby2Death Swings" for reasons that should be obvious](https://www.fark.com/goto/13425254) ( [apnews.com](https://www.fark.com/goto/13425254) ) » [(21 comments)](https://www.fark.com/comments/13425254/Fisher-Price-recalls-over-2-million-Snuga-Baby2Death-Swings-for-reasons-that-should-be-obvious) |
+| [STEM](https://www.fark.com/stem/) | [Smokin' in the Boys' Room just got a bit harder to get away with](https://www.fark.com/goto/13425570) ( [futurism.com](https://www.fark.com/goto/13425570) ) » [(13 comments)](https://www.fark.com/comments/13425570/Smokin-in-Boys-Room-just-got-a-bit-harder-to-get-away-with) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Remember that song "Happy" that everyone liked a few years ago? The artist; not so much](https://www.fark.com/goto/13425484) ( [wbls.com](https://www.fark.com/goto/13425484) ) » [(39 comments)](https://www.fark.com/comments/13425484/Remember-that-song-Happy-that-everyone-liked-a-few-years-ago-The-artist-not-so-much) |
+| [Fandom](https://www.fark.com/fandom/) | [Renault's Alpine sports car division makes plans to come to the US. This is not a repeat from 1986](https://www.fark.com/goto/13425382) ( [caranddriver.com](https://www.fark.com/goto/13425382) ) » [(11 comments)](https://www.fark.com/comments/13425382/Renaults-Alpine-sports-car-division-makes-plans-to-come-to-US-This-is-not-a-repeat-from-1986) |
+| [D'awww](https://www.fark.com/dawww/) | [Woman adopts baby donkey and you've already clicked the link](https://www.fark.com/goto/13425532) ( [youtube.com](https://www.fark.com/goto/13425532) ) » [(5 comments)](https://www.fark.com/comments/13425532/Woman-adopts-baby-donkey-youve-already-clicked-link) |
+| [Food](https://www.fark.com/food/) | [Food prices are getting crazy in the rest of the world](https://www.fark.com/goto/13425458) ( [theconversation.com](https://www.fark.com/goto/13425458) ) » [(16 comments)](https://www.fark.com/comments/13425458/Food-prices-are-getting-crazy-in-rest-of-world) |
+| [Politics](https://www.fark.com/politics/) | [Salmond floating downstream](https://www.fark.com/goto/13425554) ( [theguardian.com](https://www.fark.com/goto/13425554) ) » [(15 comments)](https://www.fark.com/comments/13425554/Salmond-floating-downstream) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 12 2024 15:44:12  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 12 2024 21:42:28  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
