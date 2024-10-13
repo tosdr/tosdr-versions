@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. hacking
+1. digital marketing
     
-2. computer science
+2. English
     
-3. trading
+3. computer science
     
 
 Popular subjects
 ----------------
 
-1. [Cybersecurity
+1. [Marketing
     
-    15,880 courses](https://www.classcentral.com/subject/cybersecurity)
-2. [Project Management
+    7,789 courses](https://www.classcentral.com/subject/marketing)
+2. [Digital Marketing
     
-    3,964 courses](https://www.classcentral.com/subject/project-management)
-3. [Artificial Intelligence
+    5,923 courses](https://www.classcentral.com/subject/digital-marketing)
+3. [Graphic Design
     
-    11,858 courses](https://www.classcentral.com/subject/ai)
+    4,208 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [Extreme Geological Events
+1. [Mechanical Ventilation for COVID-19
     
-    Cardiff University](https://www.classcentral.com/course/extreme-geological-events-13558)
-2. [Direct Tax Laws and Practice
+    Harvard University](https://www.classcentral.com/course/healthcare-harvard-university-mechanical-ventilat-19347)
+2. [Working with Translation: Theory and Practice
     
-    Tezpur University](https://www.classcentral.com/course/swayam-direct-tax-laws-and-practice-14009)
-3. [Machine Learning Foundations: A Case Study Approach
+    Cardiff University](https://www.classcentral.com/course/working-with-translation-6981)
+3. [Anatomy: Know Your Abdomen
     
-    University of Washington](https://www.classcentral.com/course/ml-foundations-4352)
+    University of Leeds](https://www.classcentral.com/course/anatomy-know-your-abdomen-5008)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
