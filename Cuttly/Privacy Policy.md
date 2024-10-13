@@ -154,7 +154,7 @@ URL Shortener
 
 * [Why Cuttly?](https://cutt.ly/resources/blog/why-cuttly)
 * [URL Shortener](https://cutt.ly/)
-* [Features & Pricing](https://cutt.ly/url-shortener-features)
+* [Features & Pricing](https://cutt.ly/pro-pricing)
 
 Link Management
 ---------------
