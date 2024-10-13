@@ -28,7 +28,7 @@ Schedule and share with no extra steps needed.](https://www.socialnewsdesk.com/n
 
 Real-time monitoring for keeping your audience engaged and informed while on air.](https://www.socialnewsdesk.com/snd-on-air-social-media-live-display/)
 
-![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/BL_NAV-1-1.png)
+[![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/ligon.png)](https://www.socialnewsdesk.com/blog/snds-search-and-listen-transforms-mont-belvieus-community-connection/)
 
 **Tools for critical social media** engagement
 
@@ -56,7 +56,7 @@ Rely on mission critical social media tools to keep the community safe.](https:/
 
 Transform patient engagement and education through social media.](https://www.socialnewsdesk.com/healthcare/)
 
-![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/kath_NAV-1-1.png)
+[![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/sweetwater.png)](https://www.socialnewsdesk.com/blog/customer-review-city-of-sweetwater-conquers-social-media-chaos-with-snd/)
 
 **Trusted by America’s cities, newsrooms and universities**
 
@@ -76,13 +76,15 @@ Master social media management with free downloadable resources.](https://www.so
 
 View educational tutorials from experts in social media.](https://www.socialnewsdesk.com/snd-webinars-events)[Blog
 
-Stay updated with the latest industry trends and insights.](https://www.socialnewsdesk.com/resources/)[About us
+Stay updated with the latest industry trends and insights.](https://www.socialnewsdesk.com/resources/)[Customer Stories
+
+See what real SND customers have to say about their experience.](https://www.socialnewsdesk.com/snd-customer-stories)[About us
 
 Meet the team behind SND and see why we love social media.](https://www.socialnewsdesk.com/about-us/)[Customer support
 
 Access human support for any assistance you need with our platform.](https://support.socialnewsdesk.com/)
 
-![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/dee_mav_images-1-1.png)
+[![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/MTSU.png)](https://www.socialnewsdesk.com/blog/mtsu-unlocks-campus-wide-social-media-management-with-snd/)
 
 **Real human support**
 
