@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/62b27568-668e-4219-867d-0d41db052aab/20241013T215733/62b27568-668e-4219-867d-0d41db052aab_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/62b27568-668e-4219-867d-0d41db052aab/20241013T215733/62b27568-668e-4219-867d-0d41db052aab_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/lake-potter-do-not-swim-signs-rock-island-akwaaba-qc/526-dc117b65-4f4f-4208-9efb-ab9f0135fded)
+        
+        #### [Nonprofit that helps QC immigrants launches public safety campaign at Lake Potter in Rock Island](https://www.wqad.com/article/news/local/public-safety/lake-potter-do-not-swim-signs-rock-island-akwaaba-qc/526-dc117b65-4f4f-4208-9efb-ab9f0135fded) [![](https://media.tegna-media.com/assets/WQAD/images/62b27568-668e-4219-867d-0d41db052aab/20241013T215733/62b27568-668e-4219-867d-0d41db052aab_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/62b27568-668e-4219-867d-0d41db052aab/20241013T215733/62b27568-668e-4219-867d-0d41db052aab_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/lake-potter-do-not-swim-signs-rock-island-akwaaba-qc/526-dc117b65-4f4f-4208-9efb-ab9f0135fded)
+        
+        #### [QC nonprofit working to make Lake Potter safer for immigrant community following young boy's death](https://www.wqad.com/article/news/local/public-safety/lake-potter-do-not-swim-signs-rock-island-akwaaba-qc/526-dc117b65-4f4f-4208-9efb-ab9f0135fded)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/e1e51911-e62c-41b5-9894-3fa8c7943023/20241012T010134/e1e51911-e62c-41b5-9894-3fa8c7943023_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e1e51911-e62c-41b5-9894-3fa8c7943023/20241012T010134/e1e51911-e62c-41b5-9894-3fa8c7943023_360x203.jpg)](https://www.wqad.com/article/traffic/locals-weigh-in-new-traffic-safety-plan-road-safety-concerns/526-6874ceed-f73c-492f-936c-fbb7dbd948bf)
         
         #### [New Traffic Safety Plan invites locals to address dangerous intersections](https://www.wqad.com/article/traffic/locals-weigh-in-new-traffic-safety-plan-road-safety-concerns/526-6874ceed-f73c-492f-936c-fbb7dbd948bf)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f3a3d5de-2303-40fb-8840-7ca2ac044219/20241011T201508/f3a3d5de-2303-40fb-8840-7ca2ac044219_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f3a3d5de-2303-40fb-8840-7ca2ac044219/20241011T201508/f3a3d5de-2303-40fb-8840-7ca2ac044219_360x203.jpg)](https://www.wqad.com/article/news/crime/iowa-teen-who-killed-teacher-must-serve-35-years-before-being-up-for-parole/526-950ed507-dc77-47c8-82db-7ab645afa911)
-        
-        #### [Iowa teen who killed teacher must serve 35 years before being up for parole](https://www.wqad.com/article/news/crime/iowa-teen-who-killed-teacher-must-serve-35-years-before-being-up-for-parole/526-950ed507-dc77-47c8-82db-7ab645afa911)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -88,7 +89,7 @@ Davenport, IA »
 
 57°
 
-![Fair/Wind](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
+![Sunny/Wind](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
