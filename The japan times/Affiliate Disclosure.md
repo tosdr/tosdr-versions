@@ -142,9 +142,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427344.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.")](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
 
-[Nobel prize is a warning to a world on the nuclear brink](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel prize is a warning to a world on the nuclear brink")
+[Nobel Prize is a warning to a world on the nuclear brink](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel Prize is a warning to a world on the nuclear brink")
 
-  [![The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427373.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.")](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel prize is a warning to a world on the nuclear brink")
+  [![The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427373.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.")](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel Prize is a warning to a world on the nuclear brink")
 
 [Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
 
@@ -177,11 +177,11 @@ By [Kanako Takahara](https://www.japantimes.co.jp/author/162/kanako-takahara/ "K
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Nobel prize is a warning to a world on the nuclear brink](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel prize is a warning to a world on the nuclear brink")
+[Nobel Prize is a warning to a world on the nuclear brink](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel Prize is a warning to a world on the nuclear brink")
 
 By [Mark Trevelyan](https://www.japantimes.co.jp/author/2842/mark-trevelyan/ "Mark Trevelyan")  
 
-  [![The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427373.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.")](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel prize is a warning to a world on the nuclear brink")
+  [![The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427373.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.")](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel Prize is a warning to a world on the nuclear brink")
 
 [BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
 
@@ -250,25 +250,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[In Hiroshima peace park, visitors hope Nobel win will boost peace efforts](https://www.japantimes.co.jp/news/2024/10/13/japan/hiroshima-nobel-reaction/ "In Hiroshima peace park, visitors hope Nobel win will boost peace efforts")
+[Taiwan spots Chinese carrier as video says military 'prepared for battle'](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
 
-2 hours ago
+1 hours ago
 
-[North Korean leader's powerful sister warns of 'horrible' response to drones](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/kim-sister-north-korea-drones/ "North Korean leader's powerful sister warns of 'horrible' response to drones")
+[Japan's Empress Emerita leaves hospital](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-empress-emerita-michiko-leaves-hospital/ "Japan's Empress Emerita leaves hospital")
 
-2 hours ago
+3 hours ago
 
-[Kyoto partners with e-gift service company to let tourists Donate & Go](https://www.japantimes.co.jp/news/2024/10/13/japan/society/donate-go-kyoto/ "Kyoto partners with e-gift service company to let tourists Donate & Go")
+[Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
 
-2 hours ago
+4 hours ago
 
-[Hurricane Milton’s floodwaters are hiding a dirty secret](https://www.japantimes.co.jp/news/2024/10/13/world/hurricane-milton-floodwaters/ "Hurricane Milton’s floodwaters are hiding a dirty secret")
+[Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-nuclear-deterrance/ "Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says")
 
-2 hours ago
+4 hours ago
 
-[Many acquitted murder suspects initially found guilty for confessions](https://www.japantimes.co.jp/news/2024/10/13/japan/crime-legal/japan-retrial-acquittal-confessions-guilt/ "Many acquitted murder suspects initially found guilty for confessions")
+[Ishiba to consider visiting U.S. to meet president-elect, report says](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-visit-us-president-elect/ "Ishiba to consider visiting U.S. to meet president-elect, report says")
 
-2 hours ago
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
