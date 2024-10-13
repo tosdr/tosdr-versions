@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Glitch Faces!](https://www.somethingawful.com/photoshop-phriday/glitch-faces-gifs/1/)
-* [ScribblerToo is Some Kind of Magic!](https://www.somethingawful.com/comedy-goldmine/scribblertoo-scary-stories/1/)
-* [Banker.Bmp, Part 2!](https://www.somethingawful.com/photoshop-phriday/photoshop-phriday-banker2/)
-* [American Cheerleader, The Gladiator Zone, Unleashed, and Steam](https://www.somethingawful.com/weekend-web/american-cheerleader-gladiator/1/)
-* [Casca and His Hats, Again!](https://www.somethingawful.com/photoshop-phriday/casca-again-mercenary/)
+* [SkyMall Catalogue Jamboree](https://www.somethingawful.com/comedy-goldmine/skymall-catalogue-jamboree/1/)
+* [Bizarre Public Scenes](https://www.somethingawful.com/comedy-goldmine/bizarre-public-scenes/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Anime-Forums, PlayStation Forums, and Clan Recruitment](https://www.somethingawful.com/weekend-web/animeforums-playstation-forums/1/)
+* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [Frank talk about urine](http://forums.somethingawful.com/showthread.php?threadid=4072519 "Frank talk about urine")
 * ![](https://fi.somethingawful.com/forums/posticons/pi-woofwoofwoof.gif) [all your wildest dreams are about to come true](http://forums.somethingawful.com/showthread.php?threadid=4072500 "all your wildest dreams are about to come true")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [Frank talk about urine](http://forums.somethingawful.com/showthread.php?threadid=4072519 "Frank talk about urine")
 
 ### Random Articles
 
-* [Fireaxe - Lovecraftian Nightmares](https://www.somethingawful.com/awful-links/awful-link-752/)
-* [February 11, 2008](https://www.somethingawful.com/forum-fridays/ff02-11-08/1/)
-* [Your Guide to Tomorrow's Olympics Coverage](https://www.somethingawful.com/guides/olympics-schedule-2012/)
-* [Le Steve Gourmet](https://www.somethingawful.com/news/le-steve-gourmet/)
-* [The Nuge Board, Panty Hog and Quizilla](https://www.somethingawful.com/weekend-web/nuge-board-panty/1/)
+* [Profile of a She-Devil](https://www.somethingawful.com/awful-links/awful-link-1855/)
+* [Cool things to say when you're opening the door for someone](https://www.somethingawful.com/comedy-goldmine/cool-door-opening/1/)
+* [Profiles in Scourging](https://www.somethingawful.com/news/spitzer-ferraro-clinton/1/)
+* [Rock of Ages](https://www.somethingawful.com/current-movie-reviews/rock-ages/)
+* [Patch Notes: Bulletstorm](https://www.somethingawful.com/video-game-article/bulletstorm-patch-notes/)
 
 [Random!](https://www.somethingawful.com/random/)
 
