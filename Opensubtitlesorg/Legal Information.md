@@ -2,117 +2,117 @@
 
 ![](//static.opensubtitles.org/gfx/img_trans.gif)[Site Language](javascript:void(0);)
 
-* [Aragonés](https://www.opensubtitles.org/disclaimer/setlang-an "(an) Aragonés")
+* [Aragonés](https://www.opensubtitles.org/en/n/disclaimer/setlang-an "(an) Aragonés")
     
-* [العربية](https://www.opensubtitles.org/disclaimer/setlang-ar "(ar) العربية")
+* [العربية](https://www.opensubtitles.org/en/n/disclaimer/setlang-ar "(ar) العربية")
     
-* [Asturianu](https://www.opensubtitles.org/disclaimer/setlang-at "(at) Asturianu")
+* [Asturianu](https://www.opensubtitles.org/en/n/disclaimer/setlang-at "(at) Asturianu")
     
-* [български език](https://www.opensubtitles.org/disclaimer/setlang-bg "(bg) български език")
+* [български език](https://www.opensubtitles.org/en/n/disclaimer/setlang-bg "(bg) български език")
     
-* [Brezhoneg](https://www.opensubtitles.org/disclaimer/setlang-br "(br) Brezhoneg")
+* [Brezhoneg](https://www.opensubtitles.org/en/n/disclaimer/setlang-br "(br) Brezhoneg")
     
-* [Català](https://www.opensubtitles.org/disclaimer/setlang-ca "(ca) Català")
+* [Català](https://www.opensubtitles.org/en/n/disclaimer/setlang-ca "(ca) Català")
     
-* [Čeština](https://www.opensubtitles.org/disclaimer/setlang-cs "(cs) Čeština")
+* [Čeština](https://www.opensubtitles.org/en/n/disclaimer/setlang-cs "(cs) Čeština")
     
-* [Dansk](https://www.opensubtitles.org/disclaimer/setlang-da "(da) Dansk")
+* [Dansk](https://www.opensubtitles.org/en/n/disclaimer/setlang-da "(da) Dansk")
     
-* [Deutsch](https://www.opensubtitles.org/disclaimer/setlang-de "(de) Deutsch")
+* [Deutsch](https://www.opensubtitles.org/en/n/disclaimer/setlang-de "(de) Deutsch")
     
-* [Ελληνικά](https://www.opensubtitles.org/disclaimer/setlang-el "(el) Ελληνικά")
+* [Ελληνικά](https://www.opensubtitles.org/en/n/disclaimer/setlang-el "(el) Ελληνικά")
     
 * [English](# "(en) English")
     
-* [Esperanto](https://www.opensubtitles.org/disclaimer/setlang-eo "(eo) Esperanto")
+* [Esperanto](https://www.opensubtitles.org/en/n/disclaimer/setlang-eo "(eo) Esperanto")
     
-* [Español](https://www.opensubtitles.org/disclaimer/setlang-es "(es) Español")
+* [Español](https://www.opensubtitles.org/en/n/disclaimer/setlang-es "(es) Español")
     
-* [Eesti keel](https://www.opensubtitles.org/disclaimer/setlang-et "(et) Eesti keel")
+* [Eesti keel](https://www.opensubtitles.org/en/n/disclaimer/setlang-et "(et) Eesti keel")
     
-* [Basque](https://www.opensubtitles.org/disclaimer/setlang-eu "(eu) Basque")
+* [Basque](https://www.opensubtitles.org/en/n/disclaimer/setlang-eu "(eu) Basque")
     
-* [فارسی](https://www.opensubtitles.org/disclaimer/setlang-fa "(fa) فارسی")
+* [فارسی](https://www.opensubtitles.org/en/n/disclaimer/setlang-fa "(fa) فارسی")
     
-* [Suomi](https://www.opensubtitles.org/disclaimer/setlang-fi "(fi) Suomi")
+* [Suomi](https://www.opensubtitles.org/en/n/disclaimer/setlang-fi "(fi) Suomi")
     
-* [Français](https://www.opensubtitles.org/disclaimer/setlang-fr "(fr) Français")
+* [Français](https://www.opensubtitles.org/en/n/disclaimer/setlang-fr "(fr) Français")
     
-* [Galego](https://www.opensubtitles.org/disclaimer/setlang-gl "(gl) Galego")
+* [Galego](https://www.opensubtitles.org/en/n/disclaimer/setlang-gl "(gl) Galego")
     
-* [עִבְרִית](https://www.opensubtitles.org/disclaimer/setlang-he "(he) עִבְרִית")
+* [עִבְרִית](https://www.opensubtitles.org/en/n/disclaimer/setlang-he "(he) עִבְרִית")
     
-* [हिन्दी](https://www.opensubtitles.org/disclaimer/setlang-hi "(hi) हिन्दी")
+* [हिन्दी](https://www.opensubtitles.org/en/n/disclaimer/setlang-hi "(hi) हिन्दी")
     
-* [Hrvatski jezik](https://www.opensubtitles.org/disclaimer/setlang-hr "(hr) Hrvatski jezik")
+* [Hrvatski jezik](https://www.opensubtitles.org/en/n/disclaimer/setlang-hr "(hr) Hrvatski jezik")
     
-* [Magyar](https://www.opensubtitles.org/disclaimer/setlang-hu "(hu) Magyar")
+* [Magyar](https://www.opensubtitles.org/en/n/disclaimer/setlang-hu "(hu) Magyar")
     
-* [Armenian](https://www.opensubtitles.org/disclaimer/setlang-hy "(hy) Armenian")
+* [Armenian](https://www.opensubtitles.org/en/n/disclaimer/setlang-hy "(hy) Armenian")
     
-* [Bahasa Indonesia](https://www.opensubtitles.org/disclaimer/setlang-id "(id) Bahasa Indonesia")
+* [Bahasa Indonesia](https://www.opensubtitles.org/en/n/disclaimer/setlang-id "(id) Bahasa Indonesia")
     
-* [Icelandic](https://www.opensubtitles.org/disclaimer/setlang-is "(is) Icelandic")
+* [Icelandic](https://www.opensubtitles.org/en/n/disclaimer/setlang-is "(is) Icelandic")
     
-* [Italiano](https://www.opensubtitles.org/disclaimer/setlang-it "(it) Italiano")
+* [Italiano](https://www.opensubtitles.org/en/n/disclaimer/setlang-it "(it) Italiano")
     
-* [日本語](https://www.opensubtitles.org/disclaimer/setlang-ja "(ja) 日本語")
+* [日本語](https://www.opensubtitles.org/en/n/disclaimer/setlang-ja "(ja) 日本語")
     
-* [Georgian](https://www.opensubtitles.org/disclaimer/setlang-ka "(ka) Georgian")
+* [Georgian](https://www.opensubtitles.org/en/n/disclaimer/setlang-ka "(ka) Georgian")
     
-* [ភាសាខ្មែរ](https://www.opensubtitles.org/disclaimer/setlang-km "(km) ភាសាខ្មែរ")
+* [ភាសាខ្មែរ](https://www.opensubtitles.org/en/n/disclaimer/setlang-km "(km) ភាសាខ្មែរ")
     
-* [한국어](https://www.opensubtitles.org/disclaimer/setlang-ko "(ko) 한국어")
+* [한국어](https://www.opensubtitles.org/en/n/disclaimer/setlang-ko "(ko) 한국어")
     
-* [македонски јазик](https://www.opensubtitles.org/disclaimer/setlang-mk "(mk) македонски јазик")
+* [македонски јазик](https://www.opensubtitles.org/en/n/disclaimer/setlang-mk "(mk) македонски јазик")
     
-* [Malay](https://www.opensubtitles.org/disclaimer/setlang-ms "(ms) Malay")
+* [Malay](https://www.opensubtitles.org/en/n/disclaimer/setlang-ms "(ms) Malay")
     
-* [Nederlands](https://www.opensubtitles.org/disclaimer/setlang-nl "(nl) Nederlands")
+* [Nederlands](https://www.opensubtitles.org/en/n/disclaimer/setlang-nl "(nl) Nederlands")
     
-* [Norsk](https://www.opensubtitles.org/disclaimer/setlang-no "(no) Norsk")
+* [Norsk](https://www.opensubtitles.org/en/n/disclaimer/setlang-no "(no) Norsk")
     
-* [Occitan](https://www.opensubtitles.org/disclaimer/setlang-oc "(oc) Occitan")
+* [Occitan](https://www.opensubtitles.org/en/n/disclaimer/setlang-oc "(oc) Occitan")
     
-* [Português (BR)](https://www.opensubtitles.org/disclaimer/setlang-pb "(pb) Português (BR)")
+* [Português (BR)](https://www.opensubtitles.org/en/n/disclaimer/setlang-pb "(pb) Português (BR)")
     
-* [Polski](https://www.opensubtitles.org/disclaimer/setlang-pl "(pl) Polski")
+* [Polski](https://www.opensubtitles.org/en/n/disclaimer/setlang-pl "(pl) Polski")
     
-* [Português](https://www.opensubtitles.org/disclaimer/setlang-pt "(pt) Português")
+* [Português](https://www.opensubtitles.org/en/n/disclaimer/setlang-pt "(pt) Português")
     
-* [Română](https://www.opensubtitles.org/disclaimer/setlang-ro "(ro) Română")
+* [Română](https://www.opensubtitles.org/en/n/disclaimer/setlang-ro "(ro) Română")
     
-* [русский язык](https://www.opensubtitles.org/disclaimer/setlang-ru "(ru) русский язык")
+* [русский язык](https://www.opensubtitles.org/en/n/disclaimer/setlang-ru "(ru) русский язык")
     
-* [සිංහල](https://www.opensubtitles.org/disclaimer/setlang-si "(si) සිංහල")
+* [සිංහල](https://www.opensubtitles.org/en/n/disclaimer/setlang-si "(si) සිංහල")
     
-* [Slovenčina](https://www.opensubtitles.org/disclaimer/setlang-sk "(sk) Slovenčina")
+* [Slovenčina](https://www.opensubtitles.org/en/n/disclaimer/setlang-sk "(sk) Slovenčina")
     
-* [Slovenščina](https://www.opensubtitles.org/disclaimer/setlang-sl "(sl) Slovenščina")
+* [Slovenščina](https://www.opensubtitles.org/en/n/disclaimer/setlang-sl "(sl) Slovenščina")
     
-* [Shqip](https://www.opensubtitles.org/disclaimer/setlang-sq "(sq) Shqip")
+* [Shqip](https://www.opensubtitles.org/en/n/disclaimer/setlang-sq "(sq) Shqip")
     
-* [Cрпски](https://www.opensubtitles.org/disclaimer/setlang-sr "(sr) Cрпски")
+* [Cрпски](https://www.opensubtitles.org/en/n/disclaimer/setlang-sr "(sr) Cрпски")
     
-* [Svenska](https://www.opensubtitles.org/disclaimer/setlang-sv "(sv) Svenska")
+* [Svenska](https://www.opensubtitles.org/en/n/disclaimer/setlang-sv "(sv) Svenska")
     
-* [ภาษาไทย](https://www.opensubtitles.org/disclaimer/setlang-th "(th) ภาษาไทย")
+* [ภาษาไทย](https://www.opensubtitles.org/en/n/disclaimer/setlang-th "(th) ภาษาไทย")
     
-* [Tagalog](https://www.opensubtitles.org/disclaimer/setlang-tl "(tl) Tagalog")
+* [Tagalog](https://www.opensubtitles.org/en/n/disclaimer/setlang-tl "(tl) Tagalog")
     
-* [Türkçe](https://www.opensubtitles.org/disclaimer/setlang-tr "(tr) Türkçe")
+* [Türkçe](https://www.opensubtitles.org/en/n/disclaimer/setlang-tr "(tr) Türkçe")
     
-* [татарча](https://www.opensubtitles.org/disclaimer/setlang-tt "(tt) татарча")
+* [татарча](https://www.opensubtitles.org/en/n/disclaimer/setlang-tt "(tt) татарча")
     
-* [українська мова](https://www.opensubtitles.org/disclaimer/setlang-uk "(uk) українська мова")
+* [українська мова](https://www.opensubtitles.org/en/n/disclaimer/setlang-uk "(uk) українська мова")
     
-* [O'zbek](https://www.opensubtitles.org/disclaimer/setlang-uz "(uz) O'zbek")
+* [O'zbek](https://www.opensubtitles.org/en/n/disclaimer/setlang-uz "(uz) O'zbek")
     
-* [Tiếng Việt](https://www.opensubtitles.org/disclaimer/setlang-vi "(vi) Tiếng Việt")
+* [Tiếng Việt](https://www.opensubtitles.org/en/n/disclaimer/setlang-vi "(vi) Tiếng Việt")
     
-* [汉语](https://www.opensubtitles.org/disclaimer/setlang-zh "(zh) 汉语")
+* [汉语](https://www.opensubtitles.org/en/n/disclaimer/setlang-zh "(zh) 汉语")
     
-* [漢語](https://www.opensubtitles.org/disclaimer/setlang-zt "(zt) 漢語")
+* [漢語](https://www.opensubtitles.org/en/n/disclaimer/setlang-zt "(zt) 漢語")
     
 
 **You are not logged in!**   [Log-In](https://www.opensubtitles.org/en/login/redirect-|en|disclaimer) | [Register](https://www.opensubtitles.org/en/newuser)
@@ -266,11 +266,11 @@ OpenSubtitles Copyrights 2006-2016 by OpenSubtitles Group Limited. All Rights Re
 
 [Support us](https://www.opensubtitles.org/en/support) | [Download](https://www.opensubtitles.org/en/downloads) | [FAQ](https://www.opensubtitles.org/en/faq) | [Statistics](https://www.opensubtitles.org/en/statistics) | [Contact](https://www.opensubtitles.org/en/contact) | [Disclaimer](https://www.opensubtitles.org/en/disclaimer) | [Developers](http://trac.opensubtitles.org/projects/opensubtitles "Webservice API") | [DMCA](https://www.opensubtitles.org/en/dmca) | [Admins](https://www.opensubtitles.org/en/stafflist)
 
-[English subtitles](https://www.opensubtitles.org/disclaimer/setlang-en "English subtitles - opensubtitles.org") | [Subtitols en aragonés](https://www.opensubtitles.org/disclaimer/setlang-an "Subtitols en aragonés - opensubtitles.org") | [ترجمة عربى](https://www.opensubtitles.org/disclaimer/setlang-ar "ترجمة عربى - opensubtitles.org") | [Euskarazko azpidatziak](https://www.opensubtitles.org/disclaimer/setlang-eu "Euskarazko azpidatziak - opensubtitles.org") | [Български субтитри](https://www.opensubtitles.org/disclaimer/setlang-bg "Български субтитри - opensubtitles.org") | [Hrvatski titlovi](https://www.opensubtitles.org/disclaimer/setlang-hr "Hrvatski titlovi - opensubtitles.org") | [Subtítols en Català](https://www.opensubtitles.org/disclaimer/setlang-ca "Subtítols en Català - opensubtitles.org") | [České titulky](https://www.opensubtitles.org/disclaimer/setlang-cs "České titulky - opensubtitles.org") | [Danske undertekster](https://www.opensubtitles.org/disclaimer/setlang-da "Danske undertekster - opensubtitles.org") | [Deutsche Untertitel](https://www.opensubtitles.org/disclaimer/setlang-de "Deutsche Untertitel - opensubtitles.org") | [Nederlandse Ondertitels](https://www.opensubtitles.org/disclaimer/setlang-nl "Nederlandse Ondertitels - opensubtitles.org") | [Eesti subtiitrid](https://www.opensubtitles.org/disclaimer/setlang-et "Eesti subtiitrid - opensubtitles.org") | [Esperantaj subtekstoj](https://www.opensubtitles.org/disclaimer/setlang-eo "Esperantaj subtekstoj - opensubtitles.org") | [subtítulos en Espańol](https://www.opensubtitles.org/disclaimer/setlang-es "subtítulos en Espańol - opensubtitles.org") | [زیرنویس فارسی](https://www.opensubtitles.org/disclaimer/setlang-fa "زیرنویس فارسی - opensubtitles.org") | [Suomi tekstitykset](https://www.opensubtitles.org/disclaimer/setlang-fi "Suomi tekstitykset - opensubtitles.org") | [Sous-titres français](https://www.opensubtitles.org/disclaimer/setlang-fr "Sous-titres français - opensubtitles.org") | [Subtítulos en galego](https://www.opensubtitles.org/disclaimer/setlang-gl "Subtítulos en galego - opensubtitles.org") | [Ελληνικά υπότιτλοι](https://www.opensubtitles.org/disclaimer/setlang-gr "Ελληνικά υπότιτλοι - opensubtitles.org") | [כתוביות עברית](https://www.opensubtitles.org/disclaimer/setlang-he "כתוביות עברית - opensubtitles.org") | [हिन्दी सबटायटल](https://www.opensubtitles.org/disclaimer/setlang-hi "हिन्दी सबटायटल - opensubtitles.org") | [Magyar feliratok](https://www.opensubtitles.org/disclaimer/setlang-hu "Magyar feliratok - opensubtitles.org") | [Íslenskir Textar](https://www.opensubtitles.org/disclaimer/setlang-is "Íslenskir Textar - opensubtitles.org") | [Subjudul Bahasa Indonesia](https://www.opensubtitles.org/disclaimer/setlang-id "Subjudul Bahasa Indonesia - opensubtitles.org") | [Italiano sottotitoli](https://www.opensubtitles.org/disclaimer/setlang-it "Italiano sottotitoli - opensubtitles.org") | [日本のサブタイトル](https://www.opensubtitles.org/disclaimer/setlang-ja "日本のサブタイトル - opensubtitles.org") | [ქართული სუბტიტრები](https://www.opensubtitles.org/disclaimer/setlang-ka "ქართული სუბტიტრები - opensubtitles.org") | [អត្ថបទរឿងជាភាសាខ្មែរ](https://www.opensubtitles.org/disclaimer/setlang-km "អត្ថបទរឿងជាភាសាខ្មែរ - opensubtitles.org") | [한국 부제](https://www.opensubtitles.org/disclaimer/setlang-ko "한국 부제 - opensubtitles.org") | [Македонски преводи](https://www.opensubtitles.org/disclaimer/setlang-mk "Македонски преводи - opensubtitles.org") | [Subjudul Bahasa Melayu](https://www.opensubtitles.org/disclaimer/setlang-mc "Subjudul Bahasa Melayu - opensubtitles.org") | [Norske undertekster](https://www.opensubtitles.org/disclaimer/setlang-no "Norske undertekster - opensubtitles.org") | [Sostítols en occitan](https://www.opensubtitles.org/disclaimer/setlang-oc "Sostítols en occitan - opensubtitles.org") | [Polskie napisy](https://www.opensubtitles.org/disclaimer/setlang-pl "Polskie napisy - opensubtitles.org") | [legendas em Portuguęs](https://www.opensubtitles.org/disclaimer/setlang-pt "legendas em Portuguęs - opensubtitles.org") | [legendas em Português Brasileiro](https://www.opensubtitles.org/disclaimer/setlang-pb "legendas em Português Brasileiro - opensubtitles.org") | [Romana subtitrari](https://www.opensubtitles.org/disclaimer/setlang-ro "Romana subtitrari - opensubtitles.org") | [Русские субтитры](https://www.opensubtitles.org/disclaimer/setlang-ru "Русские субтитры - opensubtitles.org") | [සින්හල උපසිරසි](https://www.opensubtitles.org/disclaimer/setlang-si "සින්හල උපසිරසි - opensubtitles.org") | [Titra shqip](https://www.opensubtitles.org/disclaimer/setlang-sq "Titra shqip - opensubtitles.org") | [Srpski prevodi](https://www.opensubtitles.org/disclaimer/setlang-sr "Srpski prevodi - opensubtitles.org") | [Slovenské titulky](https://www.opensubtitles.org/disclaimer/setlang-sk "Slovenské titulky - opensubtitles.org") | [تۆرکجه آلت‌یازی](https://www.opensubtitles.org/disclaimer/setlang-aj "تۆرکجه آلت‌یازی - opensubtitles.org") | [Svenska undertexter](https://www.opensubtitles.org/disclaimer/setlang-sv "Svenska undertexter - opensubtitles.org") | [คำบรรยายไทย](https://www.opensubtitles.org/disclaimer/setlang-th "คำบรรยายไทย - opensubtitles.org") | [Türkçe altyazı](https://www.opensubtitles.org/disclaimer/setlang-tr "Türkçe altyazı - opensubtitles.org") | [Tagalog subtitles](https://www.opensubtitles.org/disclaimer/setlang-tl "Tagalog subtitles - opensubtitles.org") | [Українські субтитри](https://www.opensubtitles.org/disclaimer/setlang-uk "Українські субтитри - opensubtitles.org") | [Phụ đề tiếng Việt](https://www.opensubtitles.org/disclaimer/setlang-vi "Phụ đề tiếng Việt - opensubtitles.org") | [中文字幕](https://www.opensubtitles.org/disclaimer/setlang-zh "中文字幕 - opensubtitles.org")
+[English subtitles](https://www.opensubtitles.org/en/n/disclaimer/setlang-en "English subtitles - opensubtitles.org") | [Subtitols en aragonés](https://www.opensubtitles.org/en/n/disclaimer/setlang-an "Subtitols en aragonés - opensubtitles.org") | [ترجمة عربى](https://www.opensubtitles.org/en/n/disclaimer/setlang-ar "ترجمة عربى - opensubtitles.org") | [Euskarazko azpidatziak](https://www.opensubtitles.org/en/n/disclaimer/setlang-eu "Euskarazko azpidatziak - opensubtitles.org") | [Български субтитри](https://www.opensubtitles.org/en/n/disclaimer/setlang-bg "Български субтитри - opensubtitles.org") | [Hrvatski titlovi](https://www.opensubtitles.org/en/n/disclaimer/setlang-hr "Hrvatski titlovi - opensubtitles.org") | [Subtítols en Català](https://www.opensubtitles.org/en/n/disclaimer/setlang-ca "Subtítols en Català - opensubtitles.org") | [České titulky](https://www.opensubtitles.org/en/n/disclaimer/setlang-cs "České titulky - opensubtitles.org") | [Danske undertekster](https://www.opensubtitles.org/en/n/disclaimer/setlang-da "Danske undertekster - opensubtitles.org") | [Deutsche Untertitel](https://www.opensubtitles.org/en/n/disclaimer/setlang-de "Deutsche Untertitel - opensubtitles.org") | [Nederlandse Ondertitels](https://www.opensubtitles.org/en/n/disclaimer/setlang-nl "Nederlandse Ondertitels - opensubtitles.org") | [Eesti subtiitrid](https://www.opensubtitles.org/en/n/disclaimer/setlang-et "Eesti subtiitrid - opensubtitles.org") | [Esperantaj subtekstoj](https://www.opensubtitles.org/en/n/disclaimer/setlang-eo "Esperantaj subtekstoj - opensubtitles.org") | [subtítulos en Espańol](https://www.opensubtitles.org/en/n/disclaimer/setlang-es "subtítulos en Espańol - opensubtitles.org") | [زیرنویس فارسی](https://www.opensubtitles.org/en/n/disclaimer/setlang-fa "زیرنویس فارسی - opensubtitles.org") | [Suomi tekstitykset](https://www.opensubtitles.org/en/n/disclaimer/setlang-fi "Suomi tekstitykset - opensubtitles.org") | [Sous-titres français](https://www.opensubtitles.org/en/n/disclaimer/setlang-fr "Sous-titres français - opensubtitles.org") | [Subtítulos en galego](https://www.opensubtitles.org/en/n/disclaimer/setlang-gl "Subtítulos en galego - opensubtitles.org") | [Ελληνικά υπότιτλοι](https://www.opensubtitles.org/en/n/disclaimer/setlang-gr "Ελληνικά υπότιτλοι - opensubtitles.org") | [כתוביות עברית](https://www.opensubtitles.org/en/n/disclaimer/setlang-he "כתוביות עברית - opensubtitles.org") | [हिन्दी सबटायटल](https://www.opensubtitles.org/en/n/disclaimer/setlang-hi "हिन्दी सबटायटल - opensubtitles.org") | [Magyar feliratok](https://www.opensubtitles.org/en/n/disclaimer/setlang-hu "Magyar feliratok - opensubtitles.org") | [Íslenskir Textar](https://www.opensubtitles.org/en/n/disclaimer/setlang-is "Íslenskir Textar - opensubtitles.org") | [Subjudul Bahasa Indonesia](https://www.opensubtitles.org/en/n/disclaimer/setlang-id "Subjudul Bahasa Indonesia - opensubtitles.org") | [Italiano sottotitoli](https://www.opensubtitles.org/en/n/disclaimer/setlang-it "Italiano sottotitoli - opensubtitles.org") | [日本のサブタイトル](https://www.opensubtitles.org/en/n/disclaimer/setlang-ja "日本のサブタイトル - opensubtitles.org") | [ქართული სუბტიტრები](https://www.opensubtitles.org/en/n/disclaimer/setlang-ka "ქართული სუბტიტრები - opensubtitles.org") | [អត្ថបទរឿងជាភាសាខ្មែរ](https://www.opensubtitles.org/en/n/disclaimer/setlang-km "អត្ថបទរឿងជាភាសាខ្មែរ - opensubtitles.org") | [한국 부제](https://www.opensubtitles.org/en/n/disclaimer/setlang-ko "한국 부제 - opensubtitles.org") | [Македонски преводи](https://www.opensubtitles.org/en/n/disclaimer/setlang-mk "Македонски преводи - opensubtitles.org") | [Subjudul Bahasa Melayu](https://www.opensubtitles.org/en/n/disclaimer/setlang-mc "Subjudul Bahasa Melayu - opensubtitles.org") | [Norske undertekster](https://www.opensubtitles.org/en/n/disclaimer/setlang-no "Norske undertekster - opensubtitles.org") | [Sostítols en occitan](https://www.opensubtitles.org/en/n/disclaimer/setlang-oc "Sostítols en occitan - opensubtitles.org") | [Polskie napisy](https://www.opensubtitles.org/en/n/disclaimer/setlang-pl "Polskie napisy - opensubtitles.org") | [legendas em Portuguęs](https://www.opensubtitles.org/en/n/disclaimer/setlang-pt "legendas em Portuguęs - opensubtitles.org") | [legendas em Português Brasileiro](https://www.opensubtitles.org/en/n/disclaimer/setlang-pb "legendas em Português Brasileiro - opensubtitles.org") | [Romana subtitrari](https://www.opensubtitles.org/en/n/disclaimer/setlang-ro "Romana subtitrari - opensubtitles.org") | [Русские субтитры](https://www.opensubtitles.org/en/n/disclaimer/setlang-ru "Русские субтитры - opensubtitles.org") | [සින්හල උපසිරසි](https://www.opensubtitles.org/en/n/disclaimer/setlang-si "සින්හල උපසිරසි - opensubtitles.org") | [Titra shqip](https://www.opensubtitles.org/en/n/disclaimer/setlang-sq "Titra shqip - opensubtitles.org") | [Srpski prevodi](https://www.opensubtitles.org/en/n/disclaimer/setlang-sr "Srpski prevodi - opensubtitles.org") | [Slovenské titulky](https://www.opensubtitles.org/en/n/disclaimer/setlang-sk "Slovenské titulky - opensubtitles.org") | [تۆرکجه آلت‌یازی](https://www.opensubtitles.org/en/n/disclaimer/setlang-aj "تۆرکجه آلت‌یازی - opensubtitles.org") | [Svenska undertexter](https://www.opensubtitles.org/en/n/disclaimer/setlang-sv "Svenska undertexter - opensubtitles.org") | [คำบรรยายไทย](https://www.opensubtitles.org/en/n/disclaimer/setlang-th "คำบรรยายไทย - opensubtitles.org") | [Türkçe altyazı](https://www.opensubtitles.org/en/n/disclaimer/setlang-tr "Türkçe altyazı - opensubtitles.org") | [Tagalog subtitles](https://www.opensubtitles.org/en/n/disclaimer/setlang-tl "Tagalog subtitles - opensubtitles.org") | [Українські субтитри](https://www.opensubtitles.org/en/n/disclaimer/setlang-uk "Українські субтитри - opensubtitles.org") | [Phụ đề tiếng Việt](https://www.opensubtitles.org/en/n/disclaimer/setlang-vi "Phụ đề tiếng Việt - opensubtitles.org") | [中文字幕](https://www.opensubtitles.org/en/n/disclaimer/setlang-zh "中文字幕 - opensubtitles.org")
 
 \[ [Hockey Arena](http://www.hockeyarena.net/ "Online Manager - Hockey Arena") | [Movie Posters](https://www.cinematerial.com/ "Digital Movie posters") \]
 
-© 2006-2024 opensubtitles.org | web3.int.opensubtitles.org backend
+© 2006-2024 opensubtitles.org | lw2 backend
 
 [![](//static.opensubtitles.org/gfx/css/close.gif)](javascript:void(0))
 
