@@ -207,6 +207,24 @@ _tablet\_android_Tablet
 
 1
 
+![](https://play-lh.googleusercontent.com/a/ACg8ocIDLt_Lr4kyKkfno2vDrRz8DSnqOIXiUBrsYU76WBZU0oR9gw=s32-mo)
+
+Kevin Rich
+
+_more\_vert_
+
+* Flag inappropriate
+
+October 11, 2024
+
+Features SMS blocking rules that, for whatever reason, don't seem to exist on competing apps. It's also nice that numbers in your contacts are separated into their own list, distinct from all unknown numbers. Finally, there's a handy feature where 2FA text message codes are automatically copied to the clipboard. However beyond that, there isn't much going for it. I have weird rendering errors on my device where occasionally older messages will float over or behind current messages. Strange.
+
+Did you find this helpful?
+
+Yes
+
+No
+
 ![](https://play-lh.googleusercontent.com/a-/ALV-UjVB6oZGX3dO31ivrdye8mBqskFOH7bdNiIaY_fd3293iAdx83pphA=s32)
 
 Rafael “El Guapo” Castillo
@@ -242,27 +260,6 @@ August 29, 2024
 5 Month Update -- Get This App!! The small monthly price is worth every penny. It's an election year and the fundraising texts are out of control. This app saves me from 20-40 texts per day and I love it! It is saving my sanity, and there are so many different ways to filter. I almost exclusively use the "Context" filter which looks at specific words in the text message. You can filter by everyone or only unknown contacts which is an excellent feature. This app is exactly what I need.
 
 10 people found this review helpful
-
-Did you find this helpful?
-
-Yes
-
-No
-
-![](https://play-lh.googleusercontent.com/a-/ALV-UjVCSblf5Gv0vLC8Y4X88j4U3LmSFy2HUJcXO6yn1g2Cf8bLLcNu=s32)
-
-Trey Racer
-
-_more\_vert_
-
-* Flag inappropriate
-* Show review history
-
-July 4, 2024
-
-Super great app! Does everything you need: blocks those annoying group messages from random spammers, blocks unknown messages, filters spam, very easy to setup and make it work the way you need. Got 1-time premium purchase after doing some testing. Totally worth it! No regrets, also it finally copies my codes just fine - that's a really cool feature!
-
-5 people found this review helpful
 
 Did you find this helpful?
 
@@ -307,7 +304,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGHZlb2dtcUllb2tKOFQ0eHJyaU9KNkE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljKwOsc)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGZIbit2S1prUjZXZ2czK1Uzd3hreXc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljI7VHY)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/uU38cxbeMKLKDXQYopB9r1ybCFO-2vdfTKtV-mXp-zZ7Mcv_AW6MzSSCWkR_ybvgRA=s64)
 
@@ -339,7 +336,7 @@ Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Point
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en_us/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en-US_us/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -351,4 +348,4 @@ Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentgu
 
 ![](https://ssl.gstatic.com/store/images/regionflags/us.png)
 
-United States (English)
+United States (English (United States))
