@@ -1,6 +1,6 @@
     
 
-[Schnell zugreifen: Reduzierte Oktober-Angebote! Jetzt entdecken](https://www.lidl.de/c/shop-highlights/a10053491)
+[Entdecke Parkside: Akkus, Werkzeuge, Zubehör und vieles mehr!](https://www.lidl.de/c/parkside/s10028969)
 
 1. [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")
 2. Menü
@@ -49,7 +49,7 @@ Um die Website korrekt anzuzeigen, verwende bitte einen der folgenden Browser:
 Main Navigation[Zurück](#)
 
 1. [Onlineshop](https://www.lidl.de/)
-2. [Filial-Angebote](https://www.lidl.de/c/deluxe-herbst-ab-07-10/a10056001?tabCode=Current_Sales_Week)
+2. [Filial-Angebote](https://www.lidl.de/c/garten-ab-14-10/a10056436?tabCode=Current_Sales_Week)
 3. [Lidl Plus](https://www.lidl.de/c/lidl-plus/s10007388)
 4. [Sale](https://www.lidl.de/q/query/supersale)
 5. [Themenwelten](https://www.lidl.de/c/themenwelten/s10007142)
@@ -76,7 +76,7 @@ Main Navigation[Zurück](#)
 12. [Tierbedarf](https://www.lidl.de/h/tierbedarf/h10006711)
 13. [Guthabenkarten & Gutscheine](https://www.lidl.de/h/guthaben-gutscheinkarten/h10005877)
 
-1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/deluxe-herbst-ab-07-10/a10056001?tabCode=Current_Sales_Week)
+1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/garten-ab-14-10/a10056436?tabCode=Current_Sales_Week)
 2. [Unsere Prospekte](https://www.lidl.de/c/online-prospekte/s10005610)
 3. [Frische-Angebote](https://www.lidl.de/c/billiger-frische/a10007140)
 4. [Vegane Welt](https://www.lidl.de/c/vegan/s10007709)
