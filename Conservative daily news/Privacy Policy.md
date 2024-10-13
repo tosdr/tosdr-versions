@@ -2,14 +2,14 @@ Saturday, October 12 2024
 
 Breaking News
 
+* [Prominent Election Expert Suggests Pollsters ‘Have No Idea’ If They’re Accurately Measuring Trump Support](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/)
+* [Harris Townhall For Latino ‘Undecided Voters’ Reportedly Filled With Die-Hard Dems](https://www.conservativedailynews.com/2024/10/harris-townhall-for-latino-undecided-voters-reportedly-filled-with-die-hard-dems/)
+* [Why Does Abortion Need A Euphemism](https://www.conservativedailynews.com/2024/10/why-does-abortion-need-a-euphemism/)
+* [Blue State Officials Claim Aurora Crime Concerns Are Invalid Despite One Crucial Detail](https://www.conservativedailynews.com/2024/10/blue-state-officials-claim-aurora-crime-concerns-are-invalid-despite-one-crucial-detail/)
 * [Trump, Harris Go Neck And Neck Across Key Swing States](https://www.conservativedailynews.com/2024/10/trump-harris-go-neck-and-neck-across-key-swing-states/)
 * [President Joe Biden’s Schedule for Friday, October 11, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-11-2024/)
 * [We Could Be One Cackle Away From WWIII](https://www.conservativedailynews.com/2024/10/we-could-be-one-cackle-away-from-wwiii/)
 * [Maryland Attorney General Tries To Delay Potential Supreme Court Hearing On ‘Assault Weapons’ Ban](https://www.conservativedailynews.com/2024/10/maryland-attorney-general-tries-to-delay-potential-supreme-court-hearing-on-assault-weapons-ban/)
-* [Trump Confirms Campaign Booked One Of World’s Most Famous Arenas For Rally In ‘Play’ For Blue State](https://www.conservativedailynews.com/2024/10/trump-confirms-campaign-booked-one-of-worlds-most-famous-arenas-for-rally-in-play-for-blue-state/)
-* [Dems’ Worst Nightmare Is Coming True In Battleground States](https://www.conservativedailynews.com/2024/10/dems-worst-nightmare-is-coming-true-in-battleground-states/)
-* [Trying to Understand the Way Leftist’s Think](https://www.conservativedailynews.com/2024/10/trying-to-understand-the-way-leftists-think/)
-* [White House Press Briefing with Karine Jean-Pierre – 10/10/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-10-24/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,57 +126,59 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/)
+    
+    [Prominent Election Expert Suggests Pollsters ‘Have No Idea’ If They’re Accurately Measuring Trump Support](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/)
+    
+    October 12, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/stg072123dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/consumer-confidence-drops-as-americans-remain-frustrated-with-high-prices-one-month-from-election/)
+    
+    [Consumer Confidence Drops As Americans Remain Frustrated With High Prices One Month From Election](https://www.conservativedailynews.com/2024/10/consumer-confidence-drops-as-americans-remain-frustrated-with-high-prices-one-month-from-election/)
+    
+    October 12, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/03/Boeing.jpg)](https://www.conservativedailynews.com/2024/10/problem-ridden-boeing-announces-massive-job-cuts-as-worker-strike-continues/)
+    
+    [Problem-Ridden Boeing Announces Massive Job Cuts As Worker Strike Continues](https://www.conservativedailynews.com/2024/10/problem-ridden-boeing-announces-massive-job-cuts-as-worker-strike-continues/)
+    
+    October 12, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Kamala-Harris-Laughing-220x150.jpg)](https://www.conservativedailynews.com/2024/10/harris-townhall-for-latino-undecided-voters-reportedly-filled-with-die-hard-dems/)
+    
+    [Harris Townhall For Latino ‘Undecided Voters’ Reportedly Filled With Die-Hard Dems](https://www.conservativedailynews.com/2024/10/harris-townhall-for-latino-undecided-voters-reportedly-filled-with-die-hard-dems/)
+    
+    October 12, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Pentagon-220x150.jpg)](https://www.conservativedailynews.com/2024/10/navy-ship-carries-out-vital-task-that-could-give-us-edge-over-china-if-war-broke-out-in-taiwan/)
+    
+    [Navy Ship Carries Out Vital Task That Could Give US Edge Over China If War Broke Out In Taiwan](https://www.conservativedailynews.com/2024/10/navy-ship-carries-out-vital-task-that-could-give-us-edge-over-china-if-war-broke-out-in-taiwan/)
+    
+    October 12, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5646-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/why-does-abortion-need-a-euphemism/)
+    
+    [Why Does Abortion Need A Euphemism](https://www.conservativedailynews.com/2024/10/why-does-abortion-need-a-euphemism/)
+    
+    October 12, 2024
+    
+* [![Biden border illegal immigration](https://www.conservativedailynews.com/wp-content/uploads/2024/01/stg012824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/blue-state-officials-claim-aurora-crime-concerns-are-invalid-despite-one-crucial-detail/)
+    
+    [Blue State Officials Claim Aurora Crime Concerns Are Invalid Despite One Crucial Detail](https://www.conservativedailynews.com/2024/10/blue-state-officials-claim-aurora-crime-concerns-are-invalid-despite-one-crucial-detail/)
+    
+    October 12, 2024
+    
 * [![Kamala Harris 2024 election media bias](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/clean-up-crew-2/)
     
     [Clean-up Crew](https://www.conservativedailynews.com/2024/10/clean-up-crew-2/)
     
     October 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-harris-go-neck-and-neck-across-key-swing-states/)
-    
-    [Trump, Harris Go Neck And Neck Across Key Swing States](https://www.conservativedailynews.com/2024/10/trump-harris-go-neck-and-neck-across-key-swing-states/)
-    
-    October 11, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/10/americas-bipartisan-spending-suicide-pact/)
-    
-    [America’s Bipartisan Spending Suicide Pact](https://www.conservativedailynews.com/2024/10/americas-bipartisan-spending-suicide-pact/)
-    
-    October 11, 2024
-    
-* [![Hezbollah Israel rockets escalation](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz101124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/escalation/)
-    
-    [Escalation](https://www.conservativedailynews.com/2024/10/escalation/)
-    
-    October 11, 2024
-    
-* [![Kamalanomics Kamala Harris no change](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/no-change/)
-    
-    [No Change](https://www.conservativedailynews.com/2024/10/no-change/)
-    
-    October 11, 2024
-    
-* [![misinformation Joe Biden media bias](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv101024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/misinformed/)
-    
-    [Misinformed](https://www.conservativedailynews.com/2024/10/misinformed/)
-    
-    October 11, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/White-House-Briefing-Room-220x150.png)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-11-2024/)
-    
-    [President Joe Biden’s Schedule for Friday, October 11, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-11-2024/)
-    
-    October 11, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Laughing.jpg)](https://www.conservativedailynews.com/2024/10/we-could-be-one-cackle-away-from-wwiii/)
-    
-    [We Could Be One Cackle Away From WWIII](https://www.conservativedailynews.com/2024/10/we-could-be-one-cackle-away-from-wwiii/)
-    
-    October 11, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Armorer's Bench: Converting 30-30 Win to 32-40 Win](https://www.thegunpage.com/tfb-armorers-bench-converting-30-30-win-to-32-40-win/10611172)
+* [Maryland Group Asks Supreme Court To Explore State’s Handgun Licensing Requirements](https://www.thegunpage.com/maryland-group-asks-supreme-court-to-explore-states-handgun-licensing-requirements/10611167)
 * [New: Winchester Model 98 Signal Cannon](https://www.thegunpage.com/new-winchester-model-98-signal-cannon/10611164)
 * [TFB Review: Magpul SL MP5 Stock](https://www.thegunpage.com/tfb-review-magpul-sl-mp5-stock/10611160)
 * [POTD: Revolver That Fires Rubber Balls Using Blank Cartridges](https://www.thegunpage.com/potd-revolver-that-fires-rubber-balls-using-blank-cartridges/10611161)
@@ -185,8 +187,6 @@ Recent Posts
 * [First Look: SIG Sauer MCX-SPEAR 6.8X51](https://www.thegunpage.com/first-look-sig-sauer-mcx-spear-6-8x51/10611153)
 * [New CZ 600+ ERGO DRIVEN HUNT Rifle](https://www.thegunpage.com/new-cz-600-ergo-driven-hunt-rifle/10611155)
 * [Court Blocks Enforcement Of NY Carry Ban On Private Property Open To The Public](https://www.thegunpage.com/court-blocks-enforcement-of-ny-carry-ban-on-private-property-open-to-the-public/10611148)
-* [FN Introduces the FN SCAR 15P In .300 BLACKOUT](https://www.thegunpage.com/fn-introduces-the-fn-scar-15p-in-300-blackout/10611146)
-* [Hunter Attacked And Severely Bitten By Grizzly In Wyoming](https://www.thegunpage.com/hunter-attacked-and-severely-bitten-by-grizzly-in-wyoming/10611144)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,15 +228,15 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [Chutzpah](https://www.conservativedailynews.com/2024/10/chutzpah/#comment-782647)
+* Stanley Warner on [America’s Bipartisan Spending Suicide Pact](https://www.conservativedailynews.com/2024/10/americas-bipartisan-spending-suicide-pact/#comment-782638)
+* charles wilkins on [Clean-up Crew](https://www.conservativedailynews.com/2024/10/clean-up-crew-2/#comment-782637)
 * KayCee on [One Year Later](https://www.conservativedailynews.com/2024/10/one-year-later/#comment-782630)
 * KayCee on [How Is It Misinformation To Ask A Question](https://www.conservativedailynews.com/2024/10/how-is-it-misinformation-to-ask-a-question/#comment-782629)
 * Stanley Warner on [Chutzpah](https://www.conservativedailynews.com/2024/10/chutzpah/#comment-782628)
 * Stanley Warner on [Biden-Harris Administration ‘Grossly’ Underestimated Inflation Since 2019, New Study Shows](https://www.conservativedailynews.com/2024/10/biden-harris-administration-grossly-underestimated-inflation-since-2019-new-study-shows/#comment-782627)
 * charles wilkins on [Florida Needs Prayers – and Hands](https://www.conservativedailynews.com/2024/10/florida-needs-prayers-and-hands/#comment-782621)
 * KayCee on [Media Blitz Not Working For Democrats](https://www.conservativedailynews.com/2024/10/media-blitz-not-working-for-democrats/#comment-782613)
-* Jeff L. on [Trying to Understand the Way Leftist’s Think](https://www.conservativedailynews.com/2024/10/trying-to-understand-the-way-leftists-think/#comment-782608)
-* charles wilkins on [Unreal](https://www.conservativedailynews.com/2024/10/unreal/#comment-782598)
-* charles wilkins on [Unreal](https://www.conservativedailynews.com/2024/10/unreal/#comment-782597)
 
 [Close](#)
 
