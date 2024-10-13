@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About Canine Sports ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/25-facts-about-canine-sports/)
+[![30 Facts About Szary Disease ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2298%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-sezary-disease/)
 
-Sports
+Health Science
 
-12 Oct 2024
+13 Oct 2024
 
-[25 Facts About Canine Sports](https://facts.net/lifestyle/sports/25-facts-about-canine-sports/)
+[30 Facts About Szary Disease](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-sezary-disease/)
 
-[![30 Facts About Molybdochalkos ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/30-facts-about-molybdochalkos/)
+[![50 Facts About Porphyrin ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/biology-earth-and-life-science/50-facts-about-porphyrin/)
 
-Chemistry
+Biology
 
-12 Oct 2024
+13 Oct 2024
 
-[30 Facts About Molybdochalkos](https://facts.net/science/chemistry/30-facts-about-molybdochalkos/)
+[50 Facts About Porphyrin](https://facts.net/earth-and-life-science/biology-earth-and-life-science/50-facts-about-porphyrin/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
