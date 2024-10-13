@@ -14,99 +14,9 @@
 
 [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
 
-Últimas de Maceió
-
-[Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
-
-   [![Corpo decapitado é encontrado dentro de estrutura em área de mata, no Tabuleiro do Martins](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/9/csm_Corpo_decapitado_e_encontrado_dentro_de_estrutura_em_area_de_mata__no_Tabuleiro_do_Martins_-_foto_Corpo_de__Bombeiros_a64e2629d8.jpeg)
-
-Maceió
-
-Corpo decapitado é encontrado dentro de estrutura em área de mata, no Tabuleiro do Martins](https://www.tnh1.com.br/noticia/nid/corpo-decapitado-e-encontrado-dentro-de-estrutura-em-area-de-mata-no-tabuleiro-do-martins/ "Corpo decapitado é encontrado dentro de estrutura em área de mata, no Tabuleiro do Martins")   [![Prefeitura destaca educação, espaços de lazer e cultura para as crianças de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_Prefeitura_destaca_educacao__espacos_de_lazer_e_cultura_para_as_criancas_de_Maceio_-_foto_Divulgacao_Secom_Maceio_b23f016db9.jpeg)
-
-12 de outubro
-
-Prefeitura destaca educação, espaços de lazer e cultura para as crianças de Maceió](https://www.tnh1.com.br/noticia/nid/prefeitura-destaca-educacao-espacos-de-lazer-e-cultura-para-as-criancas-de-maceio/ "Prefeitura destaca educação, espaços de lazer e cultura para as crianças de Maceió")   [![Brinquedos, lanche e diversão: Igreja Universal prepara Dia das Crianças especial em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/5/csm_Unisocial_Kids_-_foto_Divulgacao__5__14390b4def.jpeg)
-
-Unisocial Kids
-
-Brinquedos, lanche e diversão: Igreja Universal prepara Dia das Crianças especial em Maceió](https://www.tnh1.com.br/noticia/nid/brinquedos-lanche-e-diversao-igreja-universal-prepara-dia-das-criancas-especial-em-maceio/ "Brinquedos, lanche e diversão: Igreja Universal prepara Dia das Crianças especial em Maceió")   [![Bandidos furtam computadores e objetos pessoais de carro de vereadora em Jaraguá](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/6/csm_Teca_Nelma_956f619c87.jpg)
-
-Maceió
-
-Bandidos furtam computadores e objetos pessoais de carro de vereadora em Jaraguá](https://www.tnh1.com.br/noticia/nid/bandidos-furtam-computadores-e-objetos-pessoais-de-carro-de-vereadora-em-jaragua/ "Bandidos furtam computadores e objetos pessoais de carro de vereadora em Jaraguá")   [![Confira o funcionamento dos shoppings e comércio no feriado de Nossa Senhora Aparecida](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/2/csm_csm_comercio-feriado-centro-foto-fecomercio_408930b8b8_64614bc8dc.jpg)
-
-Maceió
-
-Confira o funcionamento dos shoppings e comércio no feriado de Nossa Senhora Aparecida](https://www.tnh1.com.br/noticia/nid/confira-o-funcionamento-dos-shoppings-e-comercio-no-feriado-de-nossa-senhora-aparecida/ "Confira o funcionamento dos shoppings e comércio no feriado de Nossa Senhora Aparecida")   [![Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/5/csm_Projeto_reforma_Praca_Deodoro_-_foto_Itawi_Albuquerque_-_Secom_Maceio_cc73171c30.jpg)
-
-Maceió
-
-Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue](https://www.tnh1.com.br/noticia/nid/projeto-para-reforma-da-praca-deodoro-e-aprovado-e-tem-data-para-ser-entregue/ "Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue")
-
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
-Últimas de Alagoas
-
-[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
-
-   [![Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
-
-sortudos
-
-Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro](https://www.tnh1.com.br/noticia/nid/conheca-os-ganhadores-do-alagoas-da-sorte-deste-domingo-13-de-outubro/ "Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ")   [![Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/0/csm_csm_Praia_de_Maceio_-_foto_Emile_ValoesAscom_Semtel_b5dded546e_6f35563d41.jpeg)
-
-Alagoas
-
-Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/praia-no-domingao-veja-os-trechos-proprios-para-banho-no-litoral-de-alagoas/ "Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas")   [![Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/2/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_ad9da6f477.png)
-
-Meteorologia
-
-Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-veja-como-deve-ficar-o-tempo-em-alagoas-neste-fim-de-semana/ "Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana")   [![Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/5/csm_Onda_calor_-_Freepik_c60e743d3d.jpg)
-
-até domingo
-
-Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://www.tnh1.com.br/noticia/nid/inmet-emite-alerta-de-onda-de-calor-para-38-cidades-de-alagoas-veja-quais/ "Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais")   [![HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/4/csm_Sesau_HGE_Acidentes_a175c35292.jpg)
-
-Alagoas
-
-HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://www.tnh1.com.br/noticia/nid/hge-atende-quase-4-mil-vitimas-de-acidentes-de-transito-de-janeiro-a-setembro-deste-ano/ "HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano")   [![Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/1/csm_Sol__calor_-_foto_Marcello_Casal_Jr_-_Agencia_Brasil_86076956ed.jpg)
-
-Meteorologia
-
-Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://www.tnh1.com.br/noticia/nid/oito-cidades-de-alagoas-tem-alerta-de-baixa-umidade-nesta-quinta-feira/ "Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira")
-
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-
-Últimas de Polícia
-
-[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
-
-   [![Suspeito de furto é detido pela população e amarrado com cordas no Centro de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/5/csm_viatura_policia_militar_-_ascom_ssp_d10baa51f1.jpg)
-
-Polícia
-
-Suspeito de furto é detido pela população e amarrado com cordas no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/suspeito-de-furto-e-detido-pela-populacao-e-amarrado-com-cordas-no-centro-de-maceio/ "Suspeito de furto é detido pela população e amarrado com cordas no Centro de Maceió")   [![Homem é assassinado com cinco tiros no bairro do Feitosa, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/4/csm_csm_csm_Viatura_Policia_divulgacao_f5775afa08_46f80f2ca9_1dd3b5d2e3.jpg)
-
-Polícia
-
-Homem é assassinado com cinco tiros no bairro do Feitosa, em Maceió](https://www.tnh1.com.br/noticia/nid/homem-e-assassinado-com-cinco-tiros-no-bairro-do-feitosa-em-maceio/ "Homem é assassinado com cinco tiros no bairro do Feitosa, em Maceió")   [![Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_ecc0a38459.jpg)
-
-Polícia
-
-Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/homens-armados-invadem-casa-e-matam-dois-jovens-a-tiros-no-benedito-bentes/ "Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes")   [![PM apreende arma de fogo, maconha, cocaína e clorofórmio em ações no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/8/csm_PM_apreende_arma_de_fogo__maconha__cocaina_e_cloroformio_em_acoes_no_interior_-_foto_PMAL_70168082fb.jpg)
-
-Polícia
-
-PM apreende arma de fogo, maconha, cocaína e clorofórmio em ações no interior](https://www.tnh1.com.br/noticia/nid/pm-apreende-arma-de-fogo-maconha-cocaina-e-cloroformio-em-acoes-no-interior/ "PM apreende arma de fogo, maconha, cocaína e clorofórmio em ações no interior")   [![Fraude: PF cumpre mandado contra maceioense que recebeu R$ 30 mil em transferências bancárias](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/d/csm_operacao_vergel_ascom_pf_61d9abc69c.jpeg)
-
-Movimentações
-
-Fraude: PF cumpre mandado contra maceioense que recebeu R$ 30 mil em transferências bancárias](https://www.tnh1.com.br/noticia/nid/fraude-pf-cumpre-mandado-contra-maceioense-que-recebeu-r-30-mil-em-transferencias-bancarias/ "Fraude: PF cumpre mandado contra maceioense que recebeu R$ 30 mil em transferências bancárias")   [![Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido em Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_apreensao_arma_adolescente_roubo_posto_-_arapiraca_856c5c458c.jpeg)
-
-Parado por populares
-
-Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido em Arapiraca](https://www.tnh1.com.br/noticia/nid/adolescente-tenta-roubar-posto-de-combustivel-mas-e-imobilizado-e-apreendido-em-arapiraca/ "Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido em Arapiraca")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,16 +25,6 @@ Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido 
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
-
-Pessoas & Negócios
-
-Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,7 +98,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/a/csm_Gustavo_Nicola_-_foto_Allan_Max_-_ASCOM_CSA_35e39fc782.jpg)
+[![Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/a/csm_Gustavo_Nicola_-_foto_Allan_Max_-_ASCOM_CSA_35e39fc782.jpg)
 
 gustavo nicola
 
@@ -206,7 +106,7 @@ gustavo nicola
 
 Meio-campista do CSA é suspenso após exame antidoping no ex-clube
 
-Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://www.tnh1.com.br/noticia/nid/meio-campista-do-csa-e-suspenso-apos-exame-antidoping-no-ex-clube/ "Meio-campista do CSA é suspenso após exame antidoping no ex-clube")[![Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/9/csm_Vitimas_de_acidente_com_helicoptero_do_Corpo_de_Bombeiros_em_Minas_Gerais_ef222f1a61.jpg)
+Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://www.tnh1.com.br/noticia/nid/meio-campista-do-csa-e-suspenso-apos-exame-antidoping-no-ex-clube/ "Meio-campista do CSA é suspenso após exame antidoping no ex-clube")[![Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/9/csm_Vitimas_de_acidente_com_helicoptero_do_Corpo_de_Bombeiros_em_Minas_Gerais_ef222f1a61.jpg)
 
 ouro preto
 
@@ -214,7 +114,15 @@ ouro preto
 
 Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto
 
-Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://www.tnh1.com.br/noticia/nid/acidente-de-helicoptero-governo-de-mg-divulga-nomes-das-vitimas-e-decreta-luto/ "Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto")[![Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_11045bcc20.jpg)
+Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://www.tnh1.com.br/noticia/nid/acidente-de-helicoptero-governo-de-mg-divulga-nomes-das-vitimas-e-decreta-luto/ "Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto")[![Árbitra suspensa por vídeo de sexo rompe silêncio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/3/csm_arbitra_Elif_Karaarslan_-_foto_Reproducao_Instagram_c72d9ac8d2.jpg)
+
+Futebol Internacional
+
+Futebol Internacional
+
+Árbitra suspensa por vídeo de sexo rompe silêncio
+
+Árbitra suspensa por vídeo de sexo rompe silêncio](https://www.tnh1.com.br/noticia/nid/arbitra-suspensa-por-video-de-sexo-rompe-silencio/ "Árbitra suspensa por vídeo de sexo rompe silêncio")[![Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_11045bcc20.jpg)
 
 Polícia
 
@@ -222,49 +130,41 @@ Polícia
 
 Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes
 
-Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/homens-armados-invadem-casa-e-matam-dois-jovens-a-tiros-no-benedito-bentes/ "Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes")[![Árbitra suspensa por vídeo de sexo rompe silêncio](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/3/csm_arbitra_Elif_Karaarslan_-_foto_Reproducao_Instagram_c72d9ac8d2.jpg)
+Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/homens-armados-invadem-casa-e-matam-dois-jovens-a-tiros-no-benedito-bentes/ "Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes")
 
-Futebol Internacional
+[![Após temporal com ventos recordes, 760 mil seguem sem energia em São Paulo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/6/csm_sao_paulo_apagao_3a78a27856.png)
 
-Futebol Internacional
+Brasil
 
-Árbitra suspensa por vídeo de sexo rompe silêncio
+Brasil
 
-Árbitra suspensa por vídeo de sexo rompe silêncio](https://www.tnh1.com.br/noticia/nid/arbitra-suspensa-por-video-de-sexo-rompe-silencio/ "Árbitra suspensa por vídeo de sexo rompe silêncio")
+Após temporal com ventos recordes, 760 mil seguem sem energia em São Paulo
 
-[![Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_4d08ef68ae.jpg)
+Após temporal com ventos recordes, 760 mil seguem sem energia em São Paulo](https://www.tnh1.com.br/noticia/nid/apos-temporal-com-ventos-recordes-760-mil-seguem-sem-energia-em-sao-paulo/ "Após temporal com ventos recordes, 760 mil seguem sem energia em São Paulo")[![Sidney vence Prova de Fogo em A Fazenda; veja quem está na Baia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/0/csm_a_fazenda_fc0e8e3c66.png)
 
-sortudos
+Televisão
 
-sortudos
+Televisão
 
-Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro
+Sidney vence Prova de Fogo em A Fazenda; veja quem está na Baia
 
-Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro](https://www.tnh1.com.br/noticia/nid/conheca-os-ganhadores-do-alagoas-da-sorte-deste-domingo-13-de-outubro/ "Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ")[![Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_Mae_alerta_sobre_como_vape_contribuiu_para_morte_de_filho_aos_20_anos_apos_infeccao_-_foto_Divulgacao_22fe9db73b.jpg)
+Sidney vence Prova de Fogo em A Fazenda; veja quem está na Baia](https://www.tnh1.com.br/noticia/nid/sidney-vence-prova-de-fogo-em-a-fazenda-veja-quem-esta-na-baia/ "Sidney vence Prova de Fogo em A Fazenda; veja quem está na Baia")[![Xuxa emociona público com show em intervalo de futebol; assista ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/0/csm_Xuxa_futebol_99573ed358.png)
 
-após infecção
+Televisão
 
-após infecção
+Televisão
 
-Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'
+Xuxa emociona público com show em intervalo de futebol; assista
 
-Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'](https://www.tnh1.com.br/noticia/nid/mae-alerta-sobre-como-vape-contribuiu-para-morte-de-filho-aos-20-anos-pulmao-nao-reagiu/ "Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'")[![Árbitra suspensa por vídeo de sexo rompe silêncio](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/3/csm_arbitra_Elif_Karaarslan_-_foto_Reproducao_Instagram_c72d9ac8d2.jpg)
+Xuxa emociona público com show em intervalo de futebol; assista](https://www.tnh1.com.br/noticia/nid/xuxa-emociona-publico-com-show-em-intervalo-de-futebol-assista/ "Xuxa emociona público com show em intervalo de futebol; assista ")[![Ação contra suposta invasão de áreas públicas prende 6 pessoas no Acre](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/2/csm_presos_acre_f98a42b951.png)
 
-Futebol Internacional
+Brasil
 
-Futebol Internacional
+Brasil
 
-Árbitra suspensa por vídeo de sexo rompe silêncio
+Ação contra suposta invasão de áreas públicas prende 6 pessoas no Acre
 
-Árbitra suspensa por vídeo de sexo rompe silêncio](https://www.tnh1.com.br/noticia/nid/arbitra-suspensa-por-video-de-sexo-rompe-silencio/ "Árbitra suspensa por vídeo de sexo rompe silêncio")[![Abertas as inscrições dos editais da Política Nacional Aldir Blanc](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_abertas-as-inscricoes-dos-editais-da-politica-nacional-aldir-blanc_-_foto_Edvan_Ferreira_-_Agencia_Alagoas_7593213bea.jpg)
-
-Cultura
-
-Cultura
-
-Abertas as inscrições dos editais da Política Nacional Aldir Blanc
-
-Abertas as inscrições dos editais da Política Nacional Aldir Blanc](https://www.tnh1.com.br/noticia/nid/abertas-as-inscricoes-dos-editais-da-politica-nacional-aldir-blanc/ "Abertas as inscrições dos editais da Política Nacional Aldir Blanc")
+Ação contra suposta invasão de áreas públicas prende 6 pessoas no Acre](https://www.tnh1.com.br/noticia/nid/acao-contra-suposta-invasao-de-areas-publicas-prende-6-pessoas-no-acre/ "Ação contra suposta invasão de áreas públicas prende 6 pessoas no Acre")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
