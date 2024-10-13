@@ -50,31 +50,31 @@ Projeto para reforma da Praça Deodoro é aprovado e tem data para ser entregue]
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/0/csm_csm_Praia_de_Maceio_-_foto_Emile_ValoesAscom_Semtel_b5dded546e_6f35563d41.jpeg)
+   [![Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
+
+sortudos
+
+Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro](https://www.tnh1.com.br/noticia/nid/conheca-os-ganhadores-do-alagoas-da-sorte-deste-domingo-13-de-outubro/ "Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ")   [![Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/0/csm_csm_Praia_de_Maceio_-_foto_Emile_ValoesAscom_Semtel_b5dded546e_6f35563d41.jpeg)
 
 Alagoas
 
-Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/praia-no-domingao-veja-os-trechos-proprios-para-banho-no-litoral-de-alagoas/ "Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas")   [![Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/2/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_ad9da6f477.png)
+Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/praia-no-domingao-veja-os-trechos-proprios-para-banho-no-litoral-de-alagoas/ "Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas")   [![Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/2/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_ad9da6f477.png)
 
 Meteorologia
 
-Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-veja-como-deve-ficar-o-tempo-em-alagoas-neste-fim-de-semana/ "Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana")   [![Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/5/csm_Onda_calor_-_Freepik_c60e743d3d.jpg)
+Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-veja-como-deve-ficar-o-tempo-em-alagoas-neste-fim-de-semana/ "Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana")   [![Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/5/csm_Onda_calor_-_Freepik_c60e743d3d.jpg)
 
 até domingo
 
-Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://www.tnh1.com.br/noticia/nid/inmet-emite-alerta-de-onda-de-calor-para-38-cidades-de-alagoas-veja-quais/ "Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais")   [![HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/4/csm_Sesau_HGE_Acidentes_a175c35292.jpg)
+Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://www.tnh1.com.br/noticia/nid/inmet-emite-alerta-de-onda-de-calor-para-38-cidades-de-alagoas-veja-quais/ "Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais")   [![HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/4/csm_Sesau_HGE_Acidentes_a175c35292.jpg)
 
 Alagoas
 
-HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://www.tnh1.com.br/noticia/nid/hge-atende-quase-4-mil-vitimas-de-acidentes-de-transito-de-janeiro-a-setembro-deste-ano/ "HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano")   [![Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/1/csm_Sol__calor_-_foto_Marcello_Casal_Jr_-_Agencia_Brasil_86076956ed.jpg)
+HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://www.tnh1.com.br/noticia/nid/hge-atende-quase-4-mil-vitimas-de-acidentes-de-transito-de-janeiro-a-setembro-deste-ano/ "HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano")   [![Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/1/csm_Sol__calor_-_foto_Marcello_Casal_Jr_-_Agencia_Brasil_86076956ed.jpg)
 
 Meteorologia
 
-Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://www.tnh1.com.br/noticia/nid/oito-cidades-de-alagoas-tem-alerta-de-baixa-umidade-nesta-quinta-feira/ "Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira")   [![Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/b/csm_Sexo_na_praia_de_Ponta_Verde_-_foto_Reproducao_6835180147.jpg)
-
-Polícia
-
-Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado](https://www.tnh1.com.br/noticia/nid/sexo-na-praia-veja-o-que-diz-o-mp-al-sobre-afastamento-de-aluno-no-curso-de-delegado/ "Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado")
+Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://www.tnh1.com.br/noticia/nid/oito-cidades-de-alagoas-tem-alerta-de-baixa-umidade-nesta-quinta-feira/ "Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -198,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_csm_rei-charles-instagram-clarencehouse_6a258ceb34_5a9cbf82dc.jpg)
-
-Família Real
-
-Família Real
-
-Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer
-
-Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer](https://www.tnh1.com.br/noticia/nid/rei-charles-dispensa-homeopata-e-tera-dois-medicos-de-plantao-em-primeira-grande-viagem-apos-diagnostico-de-cancer/ "Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer")[![Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/a/csm_Gustavo_Nicola_-_foto_Allan_Max_-_ASCOM_CSA_35e39fc782.jpg)
+[![Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/a/csm_Gustavo_Nicola_-_foto_Allan_Max_-_ASCOM_CSA_35e39fc782.jpg)
 
 gustavo nicola
 
@@ -214,7 +206,7 @@ gustavo nicola
 
 Meio-campista do CSA é suspenso após exame antidoping no ex-clube
 
-Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://www.tnh1.com.br/noticia/nid/meio-campista-do-csa-e-suspenso-apos-exame-antidoping-no-ex-clube/ "Meio-campista do CSA é suspenso após exame antidoping no ex-clube")[![Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/9/csm_Vitimas_de_acidente_com_helicoptero_do_Corpo_de_Bombeiros_em_Minas_Gerais_ef222f1a61.jpg)
+Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://www.tnh1.com.br/noticia/nid/meio-campista-do-csa-e-suspenso-apos-exame-antidoping-no-ex-clube/ "Meio-campista do CSA é suspenso após exame antidoping no ex-clube")[![Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/9/csm_Vitimas_de_acidente_com_helicoptero_do_Corpo_de_Bombeiros_em_Minas_Gerais_ef222f1a61.jpg)
 
 ouro preto
 
@@ -222,7 +214,7 @@ ouro preto
 
 Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto
 
-Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://www.tnh1.com.br/noticia/nid/acidente-de-helicoptero-governo-de-mg-divulga-nomes-das-vitimas-e-decreta-luto/ "Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto")[![Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_11045bcc20.jpg)
+Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://www.tnh1.com.br/noticia/nid/acidente-de-helicoptero-governo-de-mg-divulga-nomes-das-vitimas-e-decreta-luto/ "Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto")[![Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_11045bcc20.jpg)
 
 Polícia
 
@@ -230,17 +222,7 @@ Polícia
 
 Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes
 
-Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/homens-armados-invadem-casa-e-matam-dois-jovens-a-tiros-no-benedito-bentes/ "Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes")
-
-[![Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_Mae_alerta_sobre_como_vape_contribuiu_para_morte_de_filho_aos_20_anos_apos_infeccao_-_foto_Divulgacao_22fe9db73b.jpg)
-
-após infecção
-
-após infecção
-
-Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'
-
-Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'](https://www.tnh1.com.br/noticia/nid/mae-alerta-sobre-como-vape-contribuiu-para-morte-de-filho-aos-20-anos-pulmao-nao-reagiu/ "Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'")[![Árbitra suspensa por vídeo de sexo rompe silêncio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/3/csm_arbitra_Elif_Karaarslan_-_foto_Reproducao_Instagram_c72d9ac8d2.jpg)
+Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/homens-armados-invadem-casa-e-matam-dois-jovens-a-tiros-no-benedito-bentes/ "Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes")[![Árbitra suspensa por vídeo de sexo rompe silêncio](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/3/csm_arbitra_Elif_Karaarslan_-_foto_Reproducao_Instagram_c72d9ac8d2.jpg)
 
 Futebol Internacional
 
@@ -248,7 +230,33 @@ Futebol Internacional
 
 Árbitra suspensa por vídeo de sexo rompe silêncio
 
-Árbitra suspensa por vídeo de sexo rompe silêncio](https://www.tnh1.com.br/noticia/nid/arbitra-suspensa-por-video-de-sexo-rompe-silencio/ "Árbitra suspensa por vídeo de sexo rompe silêncio")[![Abertas as inscrições dos editais da Política Nacional Aldir Blanc](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/4/csm_abertas-as-inscricoes-dos-editais-da-politica-nacional-aldir-blanc_-_foto_Edvan_Ferreira_-_Agencia_Alagoas_7593213bea.jpg)
+Árbitra suspensa por vídeo de sexo rompe silêncio](https://www.tnh1.com.br/noticia/nid/arbitra-suspensa-por-video-de-sexo-rompe-silencio/ "Árbitra suspensa por vídeo de sexo rompe silêncio")
+
+[![Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_4d08ef68ae.jpg)
+
+sortudos
+
+sortudos
+
+Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro
+
+Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro](https://www.tnh1.com.br/noticia/nid/conheca-os-ganhadores-do-alagoas-da-sorte-deste-domingo-13-de-outubro/ "Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ")[![Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_Mae_alerta_sobre_como_vape_contribuiu_para_morte_de_filho_aos_20_anos_apos_infeccao_-_foto_Divulgacao_22fe9db73b.jpg)
+
+após infecção
+
+após infecção
+
+Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'
+
+Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'](https://www.tnh1.com.br/noticia/nid/mae-alerta-sobre-como-vape-contribuiu-para-morte-de-filho-aos-20-anos-pulmao-nao-reagiu/ "Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'")[![Árbitra suspensa por vídeo de sexo rompe silêncio](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/3/csm_arbitra_Elif_Karaarslan_-_foto_Reproducao_Instagram_c72d9ac8d2.jpg)
+
+Futebol Internacional
+
+Futebol Internacional
+
+Árbitra suspensa por vídeo de sexo rompe silêncio
+
+Árbitra suspensa por vídeo de sexo rompe silêncio](https://www.tnh1.com.br/noticia/nid/arbitra-suspensa-por-video-de-sexo-rompe-silencio/ "Árbitra suspensa por vídeo de sexo rompe silêncio")[![Abertas as inscrições dos editais da Política Nacional Aldir Blanc](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_abertas-as-inscricoes-dos-editais-da-politica-nacional-aldir-blanc_-_foto_Edvan_Ferreira_-_Agencia_Alagoas_7593213bea.jpg)
 
 Cultura
 
@@ -256,15 +264,7 @@ Cultura
 
 Abertas as inscrições dos editais da Política Nacional Aldir Blanc
 
-Abertas as inscrições dos editais da Política Nacional Aldir Blanc](https://www.tnh1.com.br/noticia/nid/abertas-as-inscricoes-dos-editais-da-politica-nacional-aldir-blanc/ "Abertas as inscrições dos editais da Política Nacional Aldir Blanc")[![Navalni, opositor de Putin, deixou diário inédito antes de morrer; leia trechos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/9/csm_csm_O_lider_opositor_russo_Alexei_Navalny_Foto_Reproducao_-_Redes_sociais_293d43ba68_82db63f431.jpg)
-
-no Ártico
-
-no Ártico
-
-Navalni, opositor de Putin, deixou diário inédito antes de morrer; leia trechos
-
-Navalni, opositor de Putin, deixou diário inédito antes de morrer; leia trechos](https://www.tnh1.com.br/noticia/nid/navalni-opositor-de-putin-deixou-diario-inedito-antes-de-morrer-leia-trechos/ "Navalni, opositor de Putin, deixou diário inédito antes de morrer; leia trechos")
+Abertas as inscrições dos editais da Política Nacional Aldir Blanc](https://www.tnh1.com.br/noticia/nid/abertas-as-inscricoes-dos-editais-da-politica-nacional-aldir-blanc/ "Abertas as inscrições dos editais da Política Nacional Aldir Blanc")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
