@@ -31,6 +31,875 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Iván Kaviedes y Armando Paredes protagonizarán la pelea del año
+===============================================================
+
+Jaime Iván Kaviedes y Armando Paredes dejan el fútbol y se calzarán los guantes de box en Quito.
+------------------------------------------------------------------------------------------------
+
+![Armando Paredes (i) y Jaime Iván Kaviedes en 2004.](https://www.elcomercio.com/wp-content/uploads/2024/10/kaviedes_paredes_1.jpg)
+
+**Iván Kaviedes**, leyenda del fútbol ecuatoriano, y Armando Paredes, exjugador con pasado en Barcelona Sporting Club y Emelec, entre otros equipos, protagonizarán un evento deportivo que nada tiene que ver con el fútbol.
+
+Tanto **Jaime Iván Kaviedes como Armando Paredes** dejaron hace mucho tiempo el fútbol, pero sus nombres no han estado en el olvido, especialmente por actos extradeportivos que los han mantenido en el centro de la polémica.
+
+### Más noticias:
+
+* [Glenda Morejón, medallista olímpica en París 2024, se casó](https://www.elcomercio.com/deportes/glenda-morejon-medallista-olimpica-en-paris-2024-se-caso.html "Glenda Morejón, medallista olímpica en París 2024, se casó")
+* [¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-eliminatorias-uruguay.html "¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?")
+* [Juan Riquelme Angulo se vistió de héroe con un doblete ante Brasil](https://www.elcomercio.com/deportes/futbol/juan-riquelme-angulo-goles-ecuador.html "Juan Riquelme Angulo se vistió de héroe con un doblete ante Brasil")
+
+Uno de los últimos escándalos de Kaviedes se produjo en mayo de 2024, cuando **Rorys Aragón, exarquero de Emelec, El Nacional, Inter de Milán y Standard Lieja**, solo por mencionar algunos, reveló que el talentoso jugador se había escapado de un centro de rehabilitación.
+
+En agosto Paredes fue noticia por haber estado **involucrado en un incidente cuando intentó ingresar al estadio Monumental por la fuerza**, lo que provocó que el automóvil en el que iba sea retirado del lugar por la autoridades correspondientes.
+
+Ambos exfutbolistas parece que no les gusta estar alejados del foco del comentario público, por lo que se anunció que volverá a la acción, pero no para vestirse de corto y saltar a una cancha de fútbol, sino para subirse a un ring de box.
+
+Kaviedes y Paredes se darán de ‘quiños’
+---------------------------------------
+
+El sábado 12 de octubre de 2024 el youtuber ecuatoriano Kike Jav sorprendió a sus seguidores al anunciar que **Kaviedes y Paredes protagonizarán una pelea en el Coliseo General Rumiñahui** en Quito.
+
+“Buscamos opciones y me entero de que han llamado a Armando Paredes. Lo quiero mucho a Armando, me ha hecho **mil y una cosas a lo largo de nuestra carrera futbolística, no tenía el código del respeto**. Es hora de arreglar cuentas pendientes”, mencionó el ‘Nine’ en el video promocional.
+
+“(…) Aquí no te voy a perdonar nada, **lo siento muchísimo, así que prepárate y nos vemos en el ring**“, fue la respuesta del ‘Travieso’, como también es conocido el mediocampista que alcanzó a ser seleccionado nacional.
+
+El evento está programado para el sábado **30 de noviembre en un horario que aún no se confirma**.
+
+Desde el 21 de octubre se pondrán a la venta las entradas para el evento en el que también se incluirán a otros ‘boxeadores’.
+
+¿Quién es Jaime Iván Kaviedes?
+------------------------------
+
+**Jaime Iván Kaviedes** jugó en siete países a lo largo de su carrera profesional que arrancó en 1995 y finalizó en 2020. En ese lapso, 19 equipos le abrieron las puertas al ariete que nació en Santo Domingo de los Tsáchilas en 1977.
+
+El primer equipo de **Iván Kaviedes fue Emelec**. En 1995 debutó con la casaca azul, y tres años más tarde, fue el goleador del campeonato nacional y del mundo con 43 tantos en 39 partidos.
+
+Para 1999 fue **transferido al Perugia de Italia.** Solo se mantuvo un semestre. Jugó 14 partidos y les marcó goles a Juventus, Sampdoria e Inter. Se salvaron del descenso por un solo punto.
+
+Después del Perugia se sumaron uno tras otro los equipos en los que Kaviedes llegó, pero que no pudo alcanzar una estabilidad que le permita demostrar todo el talento que tenía en sus pies.
+
+Celta de Vigo (España), Puebla (México), **Valladolid (España), Porto (Portugal), Barcelona SC (Ecuador)**, Deportivo Quito (Ecuador), Crystal Palace (Inglaterra), y Argentinos Juniors (Argentina), fueron hasta el primer semestre de 2006 los equipos en los que jugó el delantero.
+
+En **Argentina** **fue su última oportunidad** en el exterior. Luego de eso coleccionó camisetas en quipos de la Serie A, B y Segunda Categoría del país.
+
+El Nacional, Liga de Quito, Macará, Aucas, Liga de Loja, Liga de Portoviejo, Águilas de Santo Domingo, CD Santo Domingo y Club Aviced, tuvieron en su nómina a Kaviedes.
+
+![Foto: Twitter @fifaworldcup_es.](https://www.elcomercio.com/wp-content/uploads/2022/09/kaviedes-700x391.jpg)
+
+Foto: Twitter @fifaworldcup\_es.
+
+¿Quién es Armando Paredes?
+--------------------------
+
+El 18 de junio de 1984 nació en Vinces, **cantó de la provincia de Los Ríos**, Armando Paredes, mediocampista que por sus características llegó a ser seleccionado de Ecuador.
+
+Su presentación en el fútbol ecuatoriano lo hizo con la camiseta de **Barcelona Sporting Club en 2004**, con tan solo 19 años. Su habilidad rápidamente lo hizo destacar del resto de sus compañeros.
+
+Antes de llegar al cuadro guayaquileño formó parte de **San Rita de Vinces y Liga de Loja**, ambos equipos ligados al fútbol de ascenso del país.
+
+Entre 2004 y 2008 alternó entre Barcelona y Emelec. En ambos equipos lo más cerca que estuvo de ser **campeón nacional fue en 2005 con los amarillos**, y en 2006 con los azules, pero se quedó en la puerta y vio como los festejos fueron de Liga de Quito y El Nacional, respectivamente.
+
+Tras salir de los equipos del Astillero, desde 2009 hasta 2015 deambuló, sin mucho éxito, en Olmedo, El Nacional, Audaz Octubrino, **otra vez Liga de Loja, Liga de Portoviejo, Valle del Chota**, Deportivo Quevedo y Carchi 04 Fútbol Club.
+
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/08/armando_paredes_2-1024x683.jpg)
+
+Foto: Archivo histórico EL COMERCIO.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz
+=======================================================================================
+
+Ecuador inició dos procesos para contar con centrales termoeléctricas, en momentos en que rigen cortes de luz de hasta diez horas.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![La central El Descanso, en Cañar, es un modelo de generación de energía termoeléctrica en el país.](https://www.elcomercio.com/wp-content/uploads/2024/10/centrales-termoelectricas-cortes-de-luz.jpg)
+
+Ecuador inició dos nuevos procesos para la incorporación de otros 160 megavatios térmicos al Sistema Nacional Interconectado (SNI), con **dos centrales termoeléctricas**, en momentos en que rigen **cortes de luz** de hasta diez horas diarias y por franjas horarias en Ecuador[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico")
+
+### Más noticias
+
+* [Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios](https://www.elcomercio.com/actualidad/negocios/cortes-luz-continuan-14-al-20-octubre-2024-conozca-nuevos-horarios.html "Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios")
+* [Cortes de luz en Quito fueron organizados para este domingo 13 de octubre](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-fueron-organizados-para-este-domingo-13-de-octubre.html "Cortes de luz en Quito fueron organizados para este domingo 13 de octubre")
+
+Centrales termoeléctricas para evitar cortes de luz
+---------------------------------------------------
+
+La empresa pública Estratégica Corporación Eléctrica de Ecuador (CELEC) informó que el primer proceso es para la **adquisición, instalación, comisionamiento** y puesta en marcha de grupos electrógenos terrestres de 120 MW, en **Durán**, en la provincia costera del Guayas.
+
+Se trata de una **nueva central térmica** que se ubicará en el kilómetro 14 de la vía Durán-Boliche, funcionará con combustible HF04 y su energía se incorporará al SNI a través de la Subestación Durán.
+
+Se inicia el proceso de contratación
+------------------------------------
+
+CELEC indicó que el pasado miércoles publicó en el portal de compras públicas este proceso, que inicia con la recepción de propuestas hasta **hoy, domingo 13 de octubre de 2024**.
+
+De inmediato, la Comisión Técnica analizará el plazo, precio y la adhesión a los **criterios técnicos** de los términos de referencia, y seleccionará la propuesta más conveniente para el **país**.
+
+Posteriormente tendrá lugar la recepción de formularios por parte del proveedor seleccionado, la emisión de **documentos internos** y se procederá con la **adjudicación**.
+
+Segunda central en Machala
+--------------------------
+
+El segundo proceso es para el alquiler de 40 megavatios adicionales para la **central Machala II**. Serán dos unidades de 20 MW cada una, duales, es decir, que funcionarán con **diésel o gas natural.**
+
+El pasado viernes, se presentó el proceso al portal de **compras públicas**. El plazo para la presentación de las propuestas concluye el **16 de octubre**.
+
+La compra y alquiler de estas nuevas unidades son parte del **segundo bloque de generación emergente**, que incorporará hasta 800 MW adicionales al SNI.
+
+Los procesos se presentan en momentos en que Ecuador atraviesa por una **severa crisis energética** que obligó esta semana a **reprogramar los cortes de luz** y elevarlos de cuatro a hasta diez horas diarias.
+
+La sequía en Ecuador
+--------------------
+
+El Gobierno aseguró recientemente que el país ha afrontado la peor **sequía en 60 años**, lo que había afectado a la generación en varias **plantas hidroeléctricas**.
+
+Además, anotó que “años de abandono y de **corrupción en la contratación** de obras del sector eléctrico” habían causado los problemas en el suministro de energía a escala nacional.
+
+El Gobierno ha anunciado medidas de medio y largo plazo para atender la **crisis energética**, como la contratación de una planta eléctrica flotante de la empresa turca Karpowership de 100 megavatios, que ya está en **funcionamiento**.
+
+El sector privado en la crisis energética
+-----------------------------------------
+
+Además, el Ministerio de Energía ha solicitado a las empresas privadas tener activados sus g**eneradores eléctricos a combustible** todo el tiempo que sea posible durante el día para reducir la demanda del sistema eléctrico nacional.
+
+La matriz de generación eléctrica de Ecuador depende en más de un **70 % de centrales hidroeléctricas**, especialmente de Coca Codo Sinclair, la hidroeléctrica más grande del país con 1 500 megavatios de potencia; y en el embalse de **Mazar**, que alimenta a un complejo de tres centrales en el río Paute con una potencia en conjunto de más de **1 700 megavatios.**
+
+Feriados que restan en Ecuador para este 2024
+=============================================
+
+Después de la conmemoración de la Independencia de Guayaquil, Ecuador tiene en su calendario varios feriados nacionales restantes.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Familia en la playa de Ballenita en Santa Elena en un Feriado de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/08/santa-elena.png)
+
+Después de la conmemoración de la **Independencia de Guayaquil**, Ecuador tiene en su calendario varios **feriados nacionales restantes**.
+
+### Más noticias
+
+* [Sector turístico espera reactivación durante el feriado](https://www.elcomercio.com/actualidad/ecuador/viajeros-turismo-guayaquil-feriado-ecuador.html "Sector turístico espera reactivación durante el feriado")
+* [51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/seguridad/policia-seguridad-operativo-feriado-9-octubre.html "51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre")
+* [Conoce el estado de las vías en Ecuador para el feriado](https://www.elcomercio.com/actualidad/ecuador/conoce-el-estado-de-las-vias-en-ecuador-para-el-feriado.html "Conoce el estado de las vías en Ecuador para el feriado")
+
+A continuación, se presenta un resumen de los **días de descanso que aún quedan en 2024**, conforme a la **normativa vigente**.
+
+### Día de Difuntos e Independencia de Cuenca
+
+El próximo feriado nacional será el **Día de Difuntos**, que se traslada del 2 de noviembre al **viernes 1 de noviembre**. Este día conmemora a los fallecidos y es una fecha importante dentro de las tradiciones ecuatorianas.
+
+Al día siguiente, se conmemorará la **Independencia de Cuenca**, programada para el **lunes 4 de noviembre**. Este feriado celebra la independencia de la ciudad de Cuenca, ocurrida en 1820, y es una fecha histórica relevante en el calendario nacional.
+
+Feriado por Navidad
+-------------------
+
+El último feriado nacional de 2024 será la **Navidad**, que se celebra el **miércoles 25 de diciembre**. Este día es reconocido como un feriado obligatorio en el país, lo que significa que los trabajadores, tanto del sector público como del privado, tienen derecho a un día de descanso remunerado, conforme lo establece el **Código del Trabajo**.
+
+Si bien no se puede trasladar, este feriado es uno de los más importantes del año y está enmarcado dentro de las **festividades religiosas y culturales**. En años anteriores, la Navidad ha sido un día de descanso nacional sin excepción, con algunas actividades laborales limitadas a servicios de emergencia y hospitalarios.
+
+Normativa de los feriados en Ecuador
+------------------------------------
+
+Según la **Ley Orgánica del Servicio Público** y el **[Código del Trabajo](https://es.wikipedia.org/wiki/Ministerio_del_Trabajo_(Ecuador) "https://es.wikipedia.org/wiki/Ministerio_del_Trabajo_(Ecuador)")**, las fechas de los feriados nacionales pueden trasladarse para favorecer fines de semana largos, como ocurre en el caso de los feriados de noviembre de este año.
+
+Esta disposición está diseñada para garantizar el descanso de los trabajadores, además de impulsar otras actividades vinculadas a estos días.
+
+El calendario de feriados nacionales está establecido por el **Registro Oficial Número 906 – Suplemento del 20 de diciembre de 2016**, que detalla las fechas y las disposiciones legales para el traslado de los días de descanso.
+
+Ecuador se prepara así para los últimos feriados de 2024, que ofrecerán oportunidades de descanso conforme a lo estipulado en la normativa vigente​.
+
+Las 33 selecciones eliminadas rumbo al Mundial 2026
+===================================================
+
+Son 33 las selecciones que ya no podrán jugar el Mundial 2026 y deberán esperar hasta el 2023 para lograrlo.
+------------------------------------------------------------------------------------------------------------
+
+![Trofeo de la Copa Mundial de la FIFA.](https://www.elcomercio.com/wp-content/uploads/2024/05/eliminatorias_mundial_2026.jpg)
+
+Las eliminatorias al Mundial 2026, que será **organizado por Canadá, Estados Unidos y México**, están  en marcha con las 211 selecciones afiliadas a la FIFA en franca competencia para lograr una de las 48 plazas disponibles.
+
+Aunque el número de plazas se incrementó, **existe un grupo de 33 selecciones** que ya fueron eliminadas, no estarán presentes en el Mundial 2026 y deberán esperar hasta el 2030 para intentar inscribir su nombre en la competencia.
+
+### Más noticias:
+
+* [(Video) Impactante accidente detiene el GP de Mónaco](https://www.elcomercio.com/deportes/formula-1/accidente-monaco-formula1-sergio-perez.html "(Video) Impactante accidente detiene el GP de Mónaco")
+* [Antonio Álvarez sigue como presidente de Barcelona SC](https://www.elcomercio.com/deportes/futbol/antonio-alvarez-presidente-barcelona-guayaquil.html "Antonio Álvarez sigue como presidente de Barcelona SC")
+
+Las selecciones eliminadas pertenecen 28 a la **Confederación Asiática de Fútbol** (AFC por sus siglas en inglés); dos a la Confederación de Norteamérica, Centroamérica y el Caribe de Fútbol (Concacaf); y tres a la Confederación de Fútbol de Oceanía (OFC por sus siglas en inglés).
+
+Mongolia, Maldivas, Guam, Sri Lanka, Macao, Camboya, Timor Oriental, Brunéi, Bután, Laos,  
+India, Afganistán, Siria, **Birmania, Tailandia, Singapur, Malasia**, China Taipéi, Turkmenistán,  
+Hong Kong, Vietnam, Filipinas, Tayikistán, Pakistán, Yemen, Nepal, Líbano, Bangladés, fueron eliminadas en la AFC.
+
+Según explica la FIFA, la primera ronda **concluyó el 17 de diciembre de 2023**. Los 20  equipos peor clasificados disputaron 10 eliminatorias de ida y vuelta a dos partidos, y los ganadores se unieron a otras 26 naciones en la segunda ronda.
+
+En esta etapa las **36 selecciones se dividen en nueve grupos** de cuatro selecciones cada uno. Pero eso no es todo. Los combinados que sigan en competencia aún tendrán que superar tres rondas más para llegar al Mundial.
+
+Esta etapa se llevó a cabo del 16 de noviembre de 2023 al 11 de junio de 2024. 18 siguen en competencia.
+
+![Foto: Facebook FIFA.](https://www.elcomercio.com/wp-content/uploads/2024/05/fifa_eliminadas_1-1024x683.jpg)
+
+Foto: Facebook FIFA.
+
+Las selecciones eliminadas de la Concacaf
+-----------------------------------------
+
+Las Islas Vírgenes de los Estados Unidos e Islas **Turcas y Caicos** ya fueron eliminadas.
+
+En marzo de 2024 se jugaron partidos a ida y vuelta. Los ganadores anotaron su nombre en la segunda ronda.
+
+Ahí un total de **30 equipos de Concacaf** competirán en seis grupos de cinco equipos.
+
+Cada país jugará, según la FIFA, **dos partidos en casa y dos fuera de casa**. Los ganadores y subcampeones de grupo (12 equipos en total) pasarán a la ronda final.
+
+El partido inaugural del Mundial 2026 será el 11 de junio en el **estadio Azteca de Ciudad de México**, mientras que la gran final se disputará el 19 de julio en el MetLife Stadium, de Nueva Jersey.
+
+Las selecciones eliminadas de Oceanía
+-------------------------------------
+
+La FIFA destaca que por primera vez **Oceanía tiene asegurado un cupo directo para jugar una Copa del Mundo**. Se suma que puede lograr una segunda plaza con el medio cupo que tiene para disputar el repechaje.
+
+Las rondas preliminares de las eliminatorias se llevaron a cabo en setiembre de 2024. Luego vendrán una segunda ronda y, **finalmente, en marzo de 2025 se llevarán a cabo las semifinales**.
+
+Los ganadores disputarán las finales para determinar al seleccionado que irá directamente al Mundial y cuál a la repesca.
+
+Al momento, **Samoa Americana, Islas Cook y Tonga** son las tres eliminadas.
+
+Calendario de Ecuador en las eliminatorias
+------------------------------------------
+
+Las eliminatorias sudamericanas para la selección **Ecuador se reanudaron el 6 de septiembre** con una derrota 1-0 en su visita a Brasil en Curitiba, en el debut de Sebastián Beccacece como su nuevo entrenador.
+
+El 10 recibió a Perú en el Rodrigo Paz Delgado y le ganó 1-0 con un tanto de Enner Valencia.
+
+El 10 de octubre la Tri volvió a **ser local ante Paraguay** y empató 0-0 en lo que fue el regreso al país del Gustavo Alfaro, su antiguo DT.
+
+El 15 de octubre el **cruce será ante Uruguay** en Montevideo. Este será el primer compromiso como parte de la segunda rueda de este largo camino al próximo Mundial.
+
+El 14 de noviembre el turno es para que **Ecuador sea el anfitrión de Bolivia**. Para esta jornada abandonará Quito y se mudará a Guayaquil para jugar en el Monumental de Barcelona Sporting Club.
+
+El 19 de noviembre está programado el último choque de Ecuador de este 2024 en eliminatorias. Tiene que ir al **Metropolitano de Barranquilla** para enfrentarse a la complicada Colombia.
+
+Al momento la selección de **Ecuador es quinta en la tabla de posiciones** con 12 puntos y un gol diferencia positivo de +2.
+
+El líder es Argentina que tiene 19, Colombia es segunda con 16, Uruguay ocupa la tercera casilla con 15, Brasil asoma cuarta con 13, y la sorprende Bolivia es sexta con 12
+
+Hay que recordar que las **seis primeras selecciones de la Conmebol** clasificarán directamente al Mundial 2026. La séptima disputará un repechaje.
+
+![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/05/fifa_eliminadas_2-1024x683.jpg)
+
+Foto: Diego Pallero / EL COMERCIO.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Brasil anuncia subsidio para los 100 000 pescadores afectados por la sequía
+===========================================================================
+
+Pescadores del estado de Rondonia, en la frontera con Bolivia, expresaron recientemente a su preocupación por la falta de pesca.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Fotografía de la Amazonía brasileña.](https://www.elcomercio.com/wp-content/uploads/2024/10/amazonia-brasil-efe-octubre-.jpg)
+
+El [Gobierno de Brasil](https://www.elcomercio.com/actualidad/mundo/impactos-sequias-colombia-bolivia-mexico-chile.html "https://www.elcomercio.com/actualidad/mundo/impactos-sequias-colombia-bolivia-mexico-chile.html") anunció un subsidio de **2 824 reales (unos 512 dólares)** para los cerca de **100 000 pescadores** afectados por la histórica sequía que padece la Amazonía.
+
+### Más noticias
+
+* [Brasil busca que sus empresas incorporen la sostenibilidad](https://www.elcomercio.com/actualidad/mundo/brasil-busca-empresas-incorporen-sostenibilidad.html "Brasil busca que sus empresas incorporen la sostenibilidad ")
+* [Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?](https://www.elcomercio.com/actualidad/ecuador/sequia-afecta-hidroelectricas-cortes-luz.html "Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?")
+* [Impacto de los incendios en países de América Latina](https://www.elcomercio.com/actualidad/mundo/impacto-incendios-paises-america-latina.html "Impacto de los incendios en países de América Latina")
+
+El Ejecutivo prevé el desembolso de un total de **300 millones de reales** con estos apoyos, que equivalen a dos salarios mínimos por persona y que complementarán el subsidio que los pescadores reciben por la veda que prohíbe esta actividad durante algunos meses del año.
+
+La medida, publicada en el **Diario Oficial de la Unión**, contemplará los alrededor de 100 municipios de la región norte de Brasil que decretaron la situación de calamidad o de emergencia debido a la sequía.
+
+Pescadores del estado de Rondonia, en la frontera con Bolivia, expresaron recientemente a su preocupación por la falta de pesca ante la disminución a **mínimos históricos del río Madeira**, uno de los mayores afluentes del Amazonas.
+
+Relatos de pescadores
+---------------------
+
+La sequía imposibilitó la pesca desde el mes de mayo, cuando lo normal era que esta actividad parase a partir de julio, según relataron los pescadores.
+
+Además, la disminución del creó grandes bancos de arena y aisló a muchas comunidades ribereñas que tienen el río como única vía de comunicación con su entorno.
+
+El Negro, otro importante afluente del Amazonas, también batió un mínimo histórico la semana pasada a su paso por la ciudad de Manaos, al superar la marca registrada en la sequía del año pasado.
+
+Tras pasar por el mes de septiembre más caluroso de los últimos 63 años, el Instituto Nacional de Meteorología prevé que la mayor parte de **Brasil termine el año con temperaturas superiores** a la media histórica y un nivel menor de precipitaciones.
+
+El 58 % del territorio brasileño se encuentra en situación de sequía, según el Gobierno.
+
+Shakira rompe nuevo récord con el video de su sencillo Soltera
+==============================================================
+
+Shakira reafirma su estatus como una de las artistas más influyentes a nivel global.
+------------------------------------------------------------------------------------
+
+![El videoclip fue realizado en Miami. Foto: Instagram Shakira](https://www.elcomercio.com/wp-content/uploads/2024/10/Soltera1.jpg)
+
+  
+**Shakira** vuelve a hacer historia con el lanzamiento de su nuevo **videoclip Soltera**. Este alcanzó más de 6.5 millones de visualizaciones en menos de 24 horas. Este éxito consolida a la **cantante colombiana** como una de las artistas más influyentes en **plataformas digitales**.
+
+### Más noticias
+
+* [El orden definitivo para disfrutar del universo de Shrek](https://www.elcomercio.com/afull/el-orden-definitivo-para-disfrutar-del-universo-de-shrek.html)
+* [Lo que ‘dos pedazos de esponja’ pueden causar en la imagen personal](https://www.elcomercio.com/tendencias/hombreras-imagen-personal-moda.html)
+* [Michelle Obama y su elección de moda en la DNC](https://www.elcomercio.com/afull/michelle-obama-moda-convencion-nacional-democrata.html?source=Internal&ref=Single+Content+Link)
+
+  
+Shakira domina YouTube con Soltera
+-------------------------------------
+
+El video muestra a **Shakira** en una faceta **divertida y despreocupada**, acompañada de figuras destacadas como Winnie Harlow, Natti Natasha, Anitta y Lele Pons. Realizado en Miami, el videoclip ha causado **sensación entre sus seguidores** por su mensaje de empoderamiento y su vibrante producción.
+
+**Shakira**, que recientemente se ha convertido en un **ícono del feminismo musical**, ha utilizado este tema para hablar sobre **la libertad y la soltería**. Soltera sigue la línea de sus recientes éxitos, enfocándose en su **vida personal** tras su separación del exfutbolista Gerard Piqué.
+
+  
+El impacto global de Soltera
+-------------------------------
+
+El videoclip fue grabado en el club LIV de Miami, uno de los lugares más exclusivos de la ciudad, cuenta con una producción que **resalta la alegría y la camaradería entre mujeres**. En apenas unas horas, Soltera rompió el **récord del debut** más visto para un video latino en solitario en 2024, posicionándose como uno de los **grandes éxitos del año**.
+
+Este nuevo logro se suma a la impresionante **carrera de Shakira**, quien ha demostrado ser una pionera en la **música latina**. Con una base de fanáticos que la apoya incondicionalmente, cada lanzamiento de la **barranquillera** genera una gran expectativa a nivel mundial.
+
+  
+Shakira arrasa con su gira en América Latina
+-----------------------------------------------
+
+Además del éxito de su nuevo sencillo, **Shakira** se prepara para su gira internacional “Las Mujeres no Lloran”, que la llevará por varios países de América Latina en 2025. La gira incluirá presentaciones en Brasil, Colombia, Argentina, Perú y México, donde miles de fanáticos esperan **verla en vivo**.
+
+Con su **energía arrolladora** y su capacidad para conectar con el público, **Shakira sigue rompiendo barreras** y consolidándose como una de las artistas más importantes de la música mundial.
+
+Uruguay navega aguas agitadas antes de recibir a Ecuador
+========================================================
+
+La Selección de Uruguay marcha en el tercer lugar de la tabla de posiciones de las eliminatorias sudamericanas.
+---------------------------------------------------------------------------------------------------------------
+
+![Edison Flores (d) de Perú disputa un balón con Federico Valverde de Uruguay, en un partido de las eliminatorias sudamericanas para el Mundial de 2026 entre Perú y Uruguay en el estadio Nacional en Lima.](https://www.elcomercio.com/wp-content/uploads/2024/10/uruguay_bielsa_1.jpg)
+
+La **Selección de Uruguay** arribó el sábado 12 de octubre de 2024 a Montevideo desde Lima y se trasladó desde el Aeropuerto Internacional de Carrasco hacia el Complejo Celeste, donde trabaja pensando en el duelo frente a Ecuador.
+
+Según informó la Asociación Uruguaya de Fútbol, **la plantilla encabezada por Marcelo Bielsa**, una vez en Montevideo comenzarán el régimen de concentración en el Complejo Celeste, donde este domingo 13 se entrenarán.
+
+### Más noticias:
+
+* [Glenda Morejón, medallista olímpica en París 2024, se casó](https://www.elcomercio.com/deportes/glenda-morejon-medallista-olimpica-en-paris-2024-se-caso.html "Glenda Morejón, medallista olímpica en París 2024, se casó")
+* [La Selección Ecuador con cuatro jugadores con riesgo de suspensión](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-tarjeta-amarilla.html "La Selección Ecuador con cuatro jugadores con riesgo de suspensión")
+* [Dragonas Independiente tienen rival en la Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/dragonas-cali-cuartos-libertadores-femenina.html "Dragonas Independiente tienen rival en la Libertadores Femenina")
+
+El próximo martes 15, la **Selección de Uruguay recibirá a Ecuador** en el histórico estadio Centenario de Montevideo por la décima jornada de las eliminatorias sudamericanas del Mundial de 2026.
+
+Para ese encuentro, **Bielsa recuperará a dos futbolistas que se perdieron el duelo frente a Perú** por estar suspendidos: el central José María Giménez y el lateral Mathías Olivera.
+
+De hecho, es probable que ambos sean titulares en un partido en el que Uruguay buscará volver al camino de la victoria luego de tres fechas sin sumar de a tres.
+
+Por otra parte, cuatro futbolistas que fueron convocados por Bielsa y que **no viajaron a Perú trabajarán junto al resto de la plantilla**: Marco Oroná, Lucas Sanabria, Pablo Suárez y Joaquín Lavega.
+
+Uruguay navega aguas agitadas
+-----------------------------
+
+El viernes 11, Uruguay cayó por 1-0 frente a Perú en un duelo que se definió en los instantes finales gracias a un tanto del central Miguel Araujo tras una gran habilitación de Piero Quispe.
+
+Finalizado el partido, el **seleccionador de Uruguay habló en una conferencia de prensa** y aseguró que este fue parejo y prácticamente sin situaciones de gol.
+
+“Nosotros tuvimos más la pelota, pero no creamos peligro. Perú tampoco creó peligro, pero las sensaciones que ellos tenían cuando atacaban eran mejores que las nuestras. Era un partido que debería haber terminado empatado”, concluyó.
+
+Por otro lado, señaló que lo ocurrido con Luis Suárez no influyó en el juego en de la Celeste.
+
+“Influencia no tuvo ninguna. **La entrega del equipo me pareció que fue una entrega muy generosa**, más allá de cómo jugamos. Creo que lo que pasó en la semana no condiciona. No lo vinculo con cómo jugamos ni creo que haya tenido efecto que haya sido una semana con mucha efervescencia”, dijo el director técnico.
+
+Días atrás, Suárez brindó una entrevista al programa ‘De Fútbol Se Habla Así’, en la que acusó a Bielsa de malos modos con jugadores de la plantilla.
+
+![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/uruguay_bielsa_2-1024x683.jpg)
+
+Foto: EFE.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Los huracanes más mortíferos de la historia reciente de EE.UU.
+==============================================================
+
+Helene es responsable por el momento de más de 200 muertes y es el segundo ciclón más mortífero que se registra en el Estados Unidos.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Una persona desafía las fuertes olas y vientos del huracán Helene en Cedar Key, Florida.](https://www.elcomercio.com/wp-content/uploads/2024/10/helene-huracan-efe-ok.jpg)
+
+Tras casi una semana de haber tocado tierra en el **noroeste de Florida** como un huracán de categoría 4, [Helene](https://www.elcomercio.com/actualidad/mundo/joe-biden-1-000-soldados-zona-devastada-helene.html "https://www.elcomercio.com/actualidad/mundo/joe-biden-1-000-soldados-zona-devastada-helene.html") es responsable por el momento de más de 200 muertes y se alza ya como el segundo ciclón más mortífero que se registra en el Estados Unidos continental en los últimos 50 años.
+
+### Más noticias
+
+* [Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz](https://www.elcomercio.com/actualidad/mundo/helene-deja-sureste-ee-uu-menos-26-muertos-cuatro-millones-sin-luz.html "Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz")
+* [La tormenta Helene pasa frente a la península de Yucatán y tiene bajo alerta a la Florida](https://www.elcomercio.com/actualidad/mundo/tormenta-helene-pasa-frente-peninsula-yucatan-tiene-bajo-alerta-florida.html "La tormenta Helene pasa frente a la península de Yucatán y tiene bajo alerta a la Florida")
+* [Aviones llegan con ayuda del Ejército a Acapulco tras el huracán John](https://www.elcomercio.com/actualidad/mundo/aviones-llegan-ayuda-ejercito-acapulco-huracan-john.html "Aviones llegan con ayuda del Ejército a Acapulco tras el huracán John")
+
+Por delante de él, y a considerable ventaja, encabeza la lista el **huracán Katrina**, que con **1 392 muertes** adjudicadas figura entre los cinco ciclones tropicales más letales en la historia de Estados Unidos, de acuerdo al Centro Nacional de Huracanes (NHC, en inglés) de este país.
+
+Estos son los huracanes más mortales que impactaron en Estados Unidos continental en los últimos 50 años:
+
+5\. Harvey (2017)
+-----------------
+
+Produjo lluvias de registros históricos en Houston, en Texas, estado por cuya costa central de cara al Golfo de México tocó tierra el 25 de agosto, como un huracán de categoría 4. La cifra de muertos llegó a 103 y produjo destrucción en ese estado y en Luisiana.
+
+**4\. La supertormenta Sandy (2012)**
+-------------------------------------
+
+Produjo al menos **147 muertes directas** y una catastrófica marejada ciclónica en las costas de Nueva York y Nueva Jersey, por donde tocó tierra a fines de octubre como un gigantesco ciclón postropical.
+
+3. **Ian (2022)**
+-----------------
+
+El poderoso huracán Ian entró a Estados Unidos a través de la costa oeste de Florida y, como Helene, lo hizo con categoría 4. Dejó 156 decesos principalmente en Florida, además de Carolina del Norte y Virginia. Tras destruir más de **19 000 viviendas y edificios en el condado de Lee**, donde se asienta Fort Myers, Ian volvió a tocar tierra en Carolina del Sur.
+
+2\. Helene (2024)
+-----------------
+
+Entró por el **noroeste de Florida**, en la zona conocida como Big Bend, la noche del pasado 26 de septiembre con categoría 4 en la escala Saffir-Simpson (de un máximo de 5) y desde ahí dejó una estela de al menos 800 kilómetros de devastación por seis estados del sureste de EEUU. En Carolina del Norte, la **cifra de fallecidos asciende a casi un centena**r, en especial en el área al sur de los Montes Apalaches, pero las autoridades no descartan que la cifra aumente en los próximos días.
+
+**1\. Katrina (2005)**
+----------------------
+
+El inmenso **huracán Katrina** golpeó con virulencia la **costa estadounidense del Golfo de México** en agosto de 2005. Tocó tierra primero en Keating Beach, en Florida, como un ciclón de categoría 1, y luego alcanzó Luisiana y Misisipi con categoría 3. El mayor número de decesos se reportaron en la ciudad de Nueva Orleans (Luisiana), que registró catastróficas inundaciones por la marejada ciclónica.
+
+De acuerdo a los registros del NHC, Katrina es superado por el huracán conocido como Great Galveston, en Texas, de 1900 y que se calcula se cobró al menos 8 000 vidas, así como el de Lake Okeechobee, en Florida, de 1928 y responsable de unos 2 500 decesos.
+
+Otros huracanes
+---------------
+
+Otros huracanes dignos de mención son Agnes (1972), que se cobró 128 vidas, en especial en los estados de **Pensilvania, Nueva York, Virginia y Maryland**, donde se registraron considerables inundaciones luego de que el ciclón tocara tierra en el noroeste de Florida como un huracán de categoría 1.
+
+De igual modo, el **huracán Audrey,** que tocó tierra en Luisiana en junio de 1957 con categoría 3, y fue responsable de más de 400 decesos tras registrar una marejada ciclónica de hasta 3,5 metros (12 pies) en áreas de ese estado y de Texas.
+
+Y por último, el huracán María, de categoría 4, que en septiembre de 2017 devastó Puerto Rico y está considerado como el más destructivo en la historia reciente de la isla caribeña, la cual casi en su totalidad quedó sin electricidad. Si bien en un inicio se le atribuyeron 67 muertes, un posterior estudio hecho por la **Universidad George Washington por encargo del Gobierno de Puerto Rico**, elevó el número de fatalidades a 2 975. 
+
+La Selección de Ecuador expondrá su férrea defensa contra Uruguay
+=================================================================
+
+La Selección de Ecuador arranca la ruda de revanchas de las eliminatorias al Mundial 2026 visitando a Uruguay.
+--------------------------------------------------------------------------------------------------------------
+
+![Félix Torres despeja un balón ante Paraguay en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_defensa_1.jpg)
+
+La **Selección de Ecuador** procurará el próximo martes 15 de octubre de 2024 hacer gala, una vez más, de su férreo sistema defensivo contra uno de los mejores ataques, el de Uruguay, en Montevideo, por la décima fecha de las eliminatorias del Mundial de 2026.
+
+En las últimas seis jornadas, la **Selección de** **Ecuador recibió solo un gol por la séptima fecha a domicilio de Brasil**, y son cuatro goles en total los que ha recibido en la actual eliminatoria, contra los 13 goles que ha convertido Uruguay, junto a Argentina, en las nueve fechas disputadas.
+
+### Más noticias:
+
+* [Juan Riquelme Angulo se vistió de héroe con un doblete ante Brasil](https://www.elcomercio.com/deportes/futbol/juan-riquelme-angulo-goles-ecuador.html "Juan Riquelme Angulo se vistió de héroe con un doblete ante Brasil")
+* [La Selección Ecuador con cuatro jugadores con riesgo de suspensión](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-tarjeta-amarilla.html "La Selección Ecuador con cuatro jugadores con riesgo de suspensión")
+* [Sebastián Beccacece volvió a respaldar a Kendry Páez](https://www.elcomercio.com/deportes/futbol/sebatian-beccacece-kendry-paez-seleccion.html "Sebastián Beccacece volvió a respaldar a Kendry Páez")
+
+El portero argentino naturalizado ecuatoriano, **Hernán Galíndez, junto a Félix Torres, William Pacho y Piero Hincapié** han estructurado uno de los mejores sistemas defensivos de Sudamérica, con la labor solidaria hasta del goleador histórico del equipo, Enner Valencia.
+
+La labor de los centrocampistas también ha incidido a ese propósito, **pero el problema de la Tri surge por las pocas ocasiones de gol** que ha fabricado, pues en los últimos seis encuentros convirtió dos, de los seis que ha marcado en la actual eliminatoria.
+
+De las seis anotaciones, **dos fueron del defensa Félix Torres**, los otros goles fueron de Enner Valencia, Ángel Mena, Kevin Rodríguez y del juvenil Kendry Páez.
+
+El ataque, un problema sin solución
+-----------------------------------
+
+Las críticas han apuntado sobre Valencia, autor de 42 goles, porque en las eliminatorias sudamericanas para el Mundial de **Canadá, Estados Unidos y México**, ha convertido tan solo uno.
+
+En descargo de Valencia, han sido pocas las asistencias precisas que ha recibido frente al arco contrario, como la única que sí se le presentó y aprovechó contra Perú, con un centro preciso de Alan Franco.
+
+El clamor de los ecuatorianos es que a su equipo le faltan goleadores, pero más bien, **le faltan jugadores de creación desde la mitad de la cancha** o un buen engranaje de juego ofensivo, a tal punto que el juego del equipo nace en gran volumen desde su línea de tres defensas.
+
+El equipo del seleccionador argentino, Sebastián Beccacece, todavía carece de elaboración de juego ofensivo, por más dinámica y velocidad que intenta aplicar para llegar al arco contrario.
+
+Ecuador se clasificó para el **Mundial de Catar 2022 ejerciendo una presión constante** sobre la zona defensiva contraria, impresa por el técnico argentino Gustavo Alfaro, propuesta con la que hacía superioridad numérica en ataque y la mayoría de sus jugadores terminaron anotando.
+
+![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_defensa_3-1024x683.jpg)
+
+Foto: Diego Pallero / EL COMERCIO.
+
+Ecuador busca su nueva identidad
+--------------------------------
+
+Tras la no renovación con Alfaro, l**legó el español Félix Sánchez, que ratificó a la plantilla mundialista**, pero cuya principal buena herencia hasta marzo de 2023, fue consolidar la línea de tres en defensa, que prevalece en la actualidad dentro del proceso.
+
+La conclusión a la que muchos llegan en Ecuador es que dentro del actual proceso eliminatorio el equipo encontró a la mejor generación de defensas, pero que está al frente de una discreta generación de atacantes.
+
+Sin embargo, **jugadores como Enner Valencia y Leonardo Campana** forman también la selecta lista de atacantes con muy buenos registros en importantes Ligas extranjeras, además de Gonzalo Plata, Kevin Rodríguez, Alan Minda, Jhon Yeboah, Jeremy Sarmiento, entre otros.
+
+Ante **Uruguay será el cuarto partido de Ecuador con Beccacece**, con evidente falta de entrenamientos en procura de plasmar sus ideas de juego, mientras la Tri, como también le dicen a la selección, se mantiene en la zona de clasificación directa y a la espera de que prime la paciencia hasta que se consolide el proceso.
+
+![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_defensa_2-1024x683.jpg)
+
+Foto: Diego Pallero / EL COMERCIO.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Cortes de luz establecidos para Guayaquil este domingo 13 de octubre
+====================================================================
+
+La Corporación Nacional de Electricidad (CNEL) programó cortes de luz de hasta 10 horas en Guayaquil este domingo 13 de octubre.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![En Guayaquil, CNEL ha establecido cortes de luz en varios sectores de la ciudad. Foto: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/10/Luz3.jpg)
+
+  
+Cortes de Luz en **Guayaquil** están organizados por la Corporación Nacional de Electricidad (CNEL). Los **racionamientos de electricidad**, que pueden extenderse hasta **10 horas al día**, son consecuencia de la **escasez de lluvias** que afecta a las principales **hidroeléctricas del país**, lo que ha provocado una reducción en la capacidad de generación de energía.
+
+### Más noticias
+
+* [Cortes de luz en Quito fueron organizados para este domingo 13 de octubre](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-fueron-organizados-para-este-domingo-13-de-octubre.html)
+* [Cortes de luz se suspendieron por algunas horas este domingo 13 de octubre, en Ecuador](https://www.elcomercio.com/actualidad/cortes-de-luz-se-suspendieron-por-algunas-horas-este-domingo-13-de-octubre-en-ecuador.html)
+* [¿Hallazgo de restos de Andrew Irvine cambiará la historia de ascensos al Everest?](https://www.elcomercio.com/deportes/otros/andrew-irvine-hallazgo-pierna-everest.html)
+
+  
+Cortes de luz de hasta 10 horas en Guayaquil
+-----------------------------------------------
+
+En **Guayaquil**, la CNEL ha establecido **cortes de luz** en varios sectores de la ciudad, distribuidos en dos períodos durante el día. El primero tendrá una duración de entre tres y cinco horas, mientras que el segundo puede extenderse hasta siete horas. El cronograma detallado de los **cortes de luz** para este domingo, 13 de octubre de 2024, está disponible en la página web de la CNEL.
+
+La ministra de Energía encargada, Inés Manzano, advierte que la **crisis hídrica** continuará afectando al país. “Las hidroeléctricas están operando a su capacidad mínima, lo que nos obliga a mantener los racionamientos de energía en todo Ecuador, incluyendo Guayaquil”, señaló Manzano en un mensaje difundido en sus redes sociales.
+
+Acciones ante la crisis hídrica
+-------------------------------
+
+Frente a este escenario, las autoridades han instado a la **ciudadanía de Guayaquil** a tomar precauciones y **planificar sus actividades diarias** en función de los cortes de luz. La CNEL mantiene canales de comunicación abiertos para informar sobre los horarios y **zonas afectadas**.
+
+El Gobierno ha señalado que se están ejecutando acciones para **enfrentar la crisis**. Entre estas está la incorporación de nuevas **fuentes de energía renovable** y la designación de nuevos responsables en el **sector eléctrico**.
+
+Sinner ganó su primer Masters de Shanghái tras vencer a Djokovic
+================================================================
+
+El italiano Jannik Sinner evitó que el serbio Novak Djokovic gane el título número 100 de su carrera.
+-----------------------------------------------------------------------------------------------------
+
+![Jannik Sinner con el trofeo del Masters de Shanghái 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/sinner_1.jpg)
+
+El mejor tenista del momento, **el italiano Jannik Sinner**, celebró que oficialmente acabará el año como número 1 del ‘ranking’ mundial imponiéndose en la final del Masters 1000 de Shanghái al actual número 4 de la tabla y más veces campeón de ese torneo, el serbio Novak Djokovic.
+
+Tras vencer por 7-6 (4) y 6-3 en una hora y 37 minutos, **Sinner logra alzarse con este trofeo por primera vez** y sumó el séptimo título de la temporada para alcanzar un total de 17 desde que se convirtió en profesional.
+
+### Más noticias:
+
+* [Batalla campal en el Camp Nou, del FC Barcelona, deja seis heridos](https://www.elcomercio.com/deportes/futbol/batalla-campal-en-el-camp-nou-fcbarcelona-deja-seis-heridos.html "Batalla campal en el Camp Nou, del FC Barcelona, deja seis heridos")
+* [Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay](https://www.elcomercio.com/deportes/futbol/kendry-paez-bajo-criticas-tras-empate-ecuador-paraguay.html "Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay")
+* [Lula defiende](https://www.elcomercio.com/deportes/futbol/lula-defiende-una-brasil-sin-futbolistas-que-jueguen-fuera-del-pais.html "Lula defiende una Brasil sin futbolistas que jueguen fuera del país") [una](https://www.elcomercio.com/deportes/futbol/lula-defiende-una-brasil-sin-futbolistas-que-jueguen-fuera-del-pais.html "Lula defiende una Brasil sin futbolistas que jueguen fuera del país") [Brasil sin futbolistas que jueguen fuera del país](https://www.elcomercio.com/deportes/futbol/lula-defiende-una-brasil-sin-futbolistas-que-jueguen-fuera-del-pais.html "Lula defiende una Brasil sin futbolistas que jueguen fuera del país")
+
+Además, impidió que el serbio sume el torneo número 100 en una de sus paradas predilectas del circuito.
+
+Todo comenzó marcado por una igualdad absoluta: **los dos finalistas se mostraban implacables** en sus turnos de saque y no daban opción de rotura a su rival. Ni siquiera un solo ‘deuce’. Así, la única alternativa era el ‘tie break’.
+
+Y fue precisamente en el desempate cuando se le empezaron a ver las costuras a Djokovic: los errores del serbio en las subidas a la red y la fiabilidad absoluta de Sinner acabaron decantando la cosa de lado del italiano.
+
+Sinner había olido la sangre del veterano, y llegó a ponerse 0-40 en el segundo juego del segundo set.
+
+El serbio **acabaría remontando para evitar el ‘break’**, pero volvió a fallar en la red (solo convirtió 5 de 11 puntos en esta faceta del juego a lo largo del partido) y acabó permitiendo que su rival le rompiera el saque.
+
+El serbio hizo el **ademán de recuperarse tras ir 4-1 abajo**, pero Sinner demostró por qué está donde está manteniéndose firme en el momento decisivo y cerrando su victoria nada menos que con un ‘ace’.
+
+‘Nole’, afectado en sus dos últimos partidos por problemas físicos, **había advertido de que no se veía como favorito ante Sinner**: “Es muy constante y es el jugador a batir, sin duda, especialmente en pista dura. (…) Voy a necesitar estar a mi mejor nivel para ganar. Será un partido largo, el más duro del campeonato”.
+
+Sinner le había devuelto el elogio: “**Hemos tenido muchos partidos duros**, es uno de los desafíos más duros que hay en nuestro deporte. Estoy feliz de jugar con él en la final, lo hace todavía más especial”, había indicado tras imponerse en la semifinal al checo Tomas Machac (6-4, 7-5).
+
+Con esa victoria, **Sinner se ganó oficialmente el honor de cerrar el año en el trono del tenis mundial**, convirtiéndose en el 19º jugador en lograrlo y en el primero de su país. Pese a confesarse “feliz” por haber cumplido “un sueño”, también aseguró que esto no le impediría estar “concentrado” de cara a la final.
+
+![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/sinner_2-1024x683.jpg)
+
+Foto: EFE.
+
+Historial de los finalistas
+---------------------------
+
+Sinner y Djokovic disputaron hoy su octavo duelo. Hasta ahora, el serbio había ganado en cuatro ocasiones, por tres del italiano, que consigue igualarle por fin.
+
+Si bien esas **tres victorias de Sinner se produjeron en los últimos cuatro enfrentamientos** entre ambos, la única que había logrado Djokovic en ese período fue precisamente en la única final que habían disputado hasta ahora: la de las ATP Finals de Turín del año pasado, con resultado favorable al serbio por 6-3 y 6-3.
+
+Al acceder a la final, **Djokovic buscaba el trofeo número 100 de su carrera** y su quinto en Shanghái tras los de 2012, 2013, 2015 y 2018.
+
+Al serbio, que mantiene un largo idilio con los aficionados chinos, le sigue con 3 entorchados el británico Andy Murray, el cual colgó la raqueta este mismo año.
+
+“Luchar por el 100º título aquí, **donde he tenido un gran éxito en el pasado** y donde cuento con tanto apoyo, parece cosa del destino”, aseguró ayer.
+
+Las gradas de la pista central de Qizhong estuvieron hoy repletas de banderas serbias, y muchos aficionados chinos llegaron a cantarle “¡Vamos, ‘Nole’!” en serbio.
+
+La locura entre el público no hizo, sino aumentar cuando se vio quién estaba viendo el partido: en la pista, el actual número uno y el tenista que más tiempo ha pasado en lo alto de la tabla en la historia.
+
+Y en el palco de honor, **el legendario Roger Federer**, flanqueado por dos españoles que saben lo que es paladear el trono del tenis mundial, Carlos Alcaraz y su actual entrenador, Juan Carlos Ferrero.
+
+En esta edición, **Sinner ha mejorado de forma indiscutible su historial en el Másters de Shanghái**: con el torneo suspendido durante tres años por la política de ‘cero covid’ del Gobierno chino, la de 2023 fue su primera participación, y cayó en octavos de final ante el estadounidense Ben Shelton.
+
+Antes de vencer ante Machac, el mejor tenista del momento había pasado sus primeras rondas ante el japonés Taro Daniel (6-1, 6-4) y el **argentino Tomás Etcheverry (6-7 (3), 6-4, 6-2)**.
+
+Luego, se tomó su particular ‘vendetta’ contra Shelton en octavos (6-4, 7-6 (1)), y arrasó (6-1, 6-4) ante el número 5 del ‘ranking’, el ruso Daniil Medvedev, el cual jugó con problemas en su hombro derecho.
+
+![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/sinner_3-1024x683.jpg)
+
+Foto: EFE.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Cortes de luz en Quito fueron organizados para este domingo 13 de octubre
+=========================================================================
+
+La EEQ programó cortes de luz de hasta 10 horas para Quito este domingo 13 de octubre.
+--------------------------------------------------------------------------------------
+
+![La ciudadanía puede planificar sus actividades según los cronogramas de cortes de luz. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Luz2.jpg)
+
+  
+Los cortes de luz en Quito se mantienen debido a la crisis hídrica que atraviesa el país.
+
+La **Empresa Eléctrica Quito** (EEQ) anunció los horarios de los **cortes de luz de Quito programados** para este domingo 13 de octubre de 2024.  Los cortes, que **pueden durar hasta 10 horas**, forman parte de las medidas implementadas para enfrentar la **falta de lluvias** que afecta a las principales hidroeléctricas.
+
+### Más noticias
+
+* [Cortes de luz se suspendieron por algunas horas este domingo 13 de octubre, en Ecuador](https://www.elcomercio.com/actualidad/cortes-de-luz-se-suspendieron-por-algunas-horas-este-domingo-13-de-octubre-en-ecuador.html)
+* [Gobierno designa nuevas autoridades de electricidad en medio de la crisis energética](https://www.elcomercio.com/actualidad/negocios/gobierno-designa-nuevas-autoridades-electricidad-crisis-energetica.html)
+* [Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios](https://www.elcomercio.com/actualidad/negocios/cortes-luz-continuan-14-al-20-octubre-2024-conozca-nuevos-horarios.html)
+
+  
+Horarios de los cortes en Quito
+----------------------------------
+
+Los **cortes de luz en Quito** estarán distribuidos en dos períodos. El primero tendrá una duración de entre tres y cinco horas, y el segundo de hasta siete horas. Estos horarios pueden variar según la zona y se aplican en **diferentes sectores** de la capital, lo que afecta tanto a **áreas residenciales como comerciales**. La EEQ publicó los cronogramas de cada sector en su página web para que la ciudadanía pueda **planificar sus actividades**.
+
+Estos son los horarios para hoy:
+
+**00:00 a 05:00 / 10:00 a 15:00**
+
+* Luluncoto
+* Chilibulo
+* Miraflores
+* La Floresta
+* Río Coca
+* Cristianía
+* Epiclachima
+* Conocoto
+* Tumbaco
+
+**00:00 a 05:00 / 14:00 a 19:00**
+
+* La Carolina
+* Nueva Cumbayá
+* Mirador Alto
+* Los Bancos
+* Pérez Guerrero
+* El Obraje (Machachi)
+
+**09:00 a 14:00 / 19:00 a 24:00**
+
+* Chimbacalle
+* Belisario Quevedo
+* Granda Centeno
+* Gualo
+* Andalucía
+* Cotocollao
+* Inga Bajo
+
+**05:00 a 10:00 / 15:00 a 20:00**
+
+* Olímpico
+* Barrionuevo
+* El Bosque
+* San Antonio
+* Alangasí
+* San Rafael
+* Iñaquito
+* Santa Rosa
+* Sangolquí
+* Pomasqui
+* El Quinche
+* Eugenio Espejo
+
+**11:00 a 16:00 / 20:00 a 24:00**
+
+* Luluncoto
+* Chilibulo
+* San Roque
+* Río Coca
+* Andalucía
+* Cotocollao
+* Conocoto
+* Alangasí
+* Santa Rosa
+* Inga Bajo
+
+**14:00 a 24:00**
+
+* Santa Rosa
+* Inga Bajo
+
+Para consultar su sector con exactitud puede ingresar a la página web de la EEQ.
+
+Según la ministra de Energía encargada, **Inés Manzano**, la semana del 14 al 20 de octubre será especialmente crítica debido a la **escasez de lluvias**, lo que seguirá afectando el suministro de energía en el país. “Debemos continuar con los cortes y ser responsables, ya que la crisis hídrica no muestra signos de mejora en los próximos días”, señaló.
+
+  
+Medidas para afrontar la crisis eléctrica
+--------------------------------------------
+
+El Gobierno ecuatoriano ha tomado varias medidas para **mitigar los efectos de la crisis eléctrica**. Entre estas se encuentra la diversificación de la **matriz energética** y la designación de nuevas autoridades en el sector, con el fin de agilizar la implementación de soluciones a largo plazo. Sin embargo, los **racionamientos seguirán siendo necesarios** mientras persista la falta de agua en las principales represas.
+
+Los ciudadanos pueden revisar los horarios específicos de los **cortes de luz en Quito**, así como de otras provincias, en las páginas web de la EEQ y del Ministerio de Energía y Minas. Las **empresas eléctricas** han instado a la población a **tomar precauciones y adaptarse a estos racionamientos**, que continuarán hasta que las condiciones climáticas mejoren.
+
+¿Hallazgo de restos de Andrew Irvine cambiará la historia de ascensos al Everest?
+=================================================================================
+
+Andrew Irvine y George Malloy intentaron llegar a la cima del Everest en 1924. No existen registros de si lo lograron.
+----------------------------------------------------------------------------------------------------------------------
+
+![Fotografía de Jimmy Chin/National Geographic.](https://www.elcomercio.com/wp-content/uploads/2024/10/irvine_2.jpg)
+
+Uno de los grandes misterios del alpinismo podría empezar a ser resuelto después de 100 años, una vez que un equipo de National Geographic, al parecer, **encontró una parte del cuerpo de Andrew Irvine**.
+
+Se trata de un pie que todo apunta puede pertenecer al alpinista **Andrew Irvine, que el 8 de junio de 1924**, junto al escalador George Mallory, fueron vistos por última vez mientras intentaban convertirse en los primeros en llegar a la cima del Everest.
+
+### Más noticias:
+
+* [La Selección de Ecuador descendió al quinto puesto en la tabla](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador descendió al quinto puesto en la tabla")
+* [Iván Vallejo, el ecuatoriano que llegó a lo más alto del mundo](https://www.elcomercio.com/deportes/otros/ivan-vallejo-confesionario-montanismo-everest.html)
+* [Carla Pérez, una eminencia en el montañismo mundial](https://www.elcomercio.com/deportes/otros/carla-perez-confesionario-montanismo-ecuador.html)
+
+No existe un registro si **Irvine** y **Malloy lograron llegar a la cima**, por lo que este reconocimiento está en manos de Tenzing Norgay y Edmund Hillary, quienes 29 años más tarde coronaron el pico más alto del mundo. Por lo que con este hallazgo se abre el debate entre los historiadores del montañismo sobre la posibilidad de que los ingleses Irvine y Malloy fueron los **primeros en coronar** el monte más alto del mundo (8,849 m.s.n.m.).
+
+Irvine y Malloy intentaron su **ascenso bajo de la cara norte del Monte Everest**, en una amplia extensión del glacial Rongbuk Central.
+
+Según relata National Geographic, los restos de Mallory fueron encontrados en 1999, pero los de Irvine no, por lo que sigue siendo una incógnita si los dos británicos finalmente lograron su objetivo.
+
+La familia de Irvine proporcionó una **muestra de ADN para corroborar si el pie encontrado** pertenece al alpinista, aunque el equipo que halló los restos está casi seguro que se trata del joven que tenía 22 años cuando pereció.
+
+¿Cómo fue el hallazgo?
+----------------------
+
+En septiembre, una expedición de National Geographic, comandada por el fotógrafo **Jimmy Chin, y los cineastas y escaladores Erich Roepke y Mark Fisher**, halló la bota. En su interior encontraron un pie que inmediatamente relacionaron con Irvine.
+
+“Levanté el calcetín”, dice Chin, describiendo el momento, “y hay una etiqueta roja que tiene **A.C. IRVINE cosido en él**“.
+
+Chin relata que él y sus compañeros reconocieron la importancia del momento al unísono. “Literalmente, todos corríamos en círculos soltando tacos”, cuenta el fotógrafo en un amplio informe que fue publicado en el sitio web de National Geographic el 11 de octubre de 2024.
+
+Chin agrega que “**es la primera vez evidencia real de donde terminó Sandy**“, como también era conocido Irvine, dando un paso trascendental para empezar a dar respuestas a sus familiares y para que el mundo del alpinismo resuelva uno de los misterios sin resolver durante décadas.
+
+La primera pista que hallaron fue una botella de oxígeno que tenía marcada la fecha de 1933, **que perteneció a una expedición que encontró** en ese año un objeto que pertenecía a Irvine, pero que también fracasó en su intento de llegar a la cima.
+
+El propio fotógrafo relata que el hallazgo se dio de forma “fortuita”, puesto que en el lugar donde hallaron la bota el hielo se había derretido una semana antes.
+
+Desde entonces, relata la BBC, **el pie ha sido retirado de la montaña debido a la preocupación** de que los cuervos lo estuvieran acechando, de acuerdo a reportes, y se entregó a las autoridades de montañismo chinas que gobiernan la cara norte del Everest.
+
+¿Quién era Irvine?
+------------------
+
+Irvine provenía de una familia de clase media alta en **Cheshire, Inglaterra**; era guapo y atlético, un remero estrella en Oxford.
+
+Aun así, Irvine ha sido a **menudo objeto de críticas por carecer de experiencia técnica** en montañismo antes de llegar a la montaña en 1924.
+
+Según se informa, probablemente sufría de una discapacidad de aprendizaje como la dislexia que lo obstaculizaba como lector, **pero tenía talento mecánico y sobresalía en matemáticas e ingeniería**.
+
+Cuando se unió a la expedición, fue nombrado inmediatamente para servir como oficial de oxígeno, y ayudó a mejorar el diseño de los cilindros de oxígeno del equipo.
+
+Se ganó su lugar en el equipo de la cumbre a fuerza de voluntad y destreza atlética. “Irvine”, **escribió el líder de la expedición E.F. Norton en The Fight For Everest**, “era grande y fuerte, con hombros finos y piernas comparativamente ligeras”.
+
+Summers dice que Mallory probablemente valoró la deferencia de Irvine hacia el escalador mayor. Irvine era totalmente leal a Mallory, dice Norton, en el amplio texto de National Geographic.
+
+![Fotografía de Jimmy Chin/National Geographic.](https://www.elcomercio.com/wp-content/uploads/2024/10/irvine_1-1024x683.jpg)
+
+Fotografía de Jimmy Chin/National Geographic.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Cortes de luz se suspendieron por algunas horas este domingo 13 de octubre, en Ecuador
+======================================================================================
+
+Los cortes de luz en Ecuador fueron suspendidos temporalmente este domingo 13 de octubre hasta las 11 de la mañana.
+-------------------------------------------------------------------------------------------------------------------
+
+![La ministra de Energía, Inés Manzano, advirtió que la semana del 14 al 20 de octubre será crítica por la crisis hídrica. Foto: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/10/Luz1.jpg)
+
+  
+Este domingo 13 de octubre de 2024, los **cortes de luz en Ecuador** fueron suspendidos temporalmente hasta las **11 de la mañana**, según informó la Corporación Nacional de Electricidad **(CENACE).** 
+
+### Más noticias
+
+* [Gobierno designa nuevas autoridades de electricidad en medio de la crisis energética](https://www.elcomercio.com/actualidad/negocios/gobierno-designa-nuevas-autoridades-electricidad-crisis-energetica.html)
+* [Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre](https://www.elcomercio.com/actualidad/quito/conozca-nuevos-horarios-cortes-de-luz-quito-semana-del-14-al-20-octubre.html)
+* [Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios](https://www.elcomercio.com/actualidad/negocios/cortes-luz-continuan-14-al-20-octubre-2024-conozca-nuevos-horarios.html)
+
+  
+Esta decisión se enmarca en la serie de **racionamientos energéticos** que afectan al país debido a la crisis hídrica, la cual ha limitado el funcionamiento de las principales hidroeléctricas.
+
+  
+La ministra de Energía encargada, **Inés Manzano**, advirtió que la semana del 14 al 20 de octubre será crítica por la **falta de lluvias**. “Ante esta situación debemos **mantener los cortes** y ser responsables, la próxima semana será crítica y las condiciones climáticas demuestran escasas lluvias en la zona sur“, explicó Manzano. En un video publicado en sus redes sociales el 12 de octubre de 2024, la funcionaria destacó que se está monitoreando de cerca la evolución de los racionamientos.
+
+> 📍COMUNICADO| El Operador Nacional de Electricidad (CENACE) informa ⤵️ [pic.twitter.com/BdtMkZdKFc](https://t.co/BdtMkZdKFc)
+> 
+> — CENACE (@OperadorCenace) [October 13, 2024](https://twitter.com/OperadorCenace/status/1845463615605817628?ref_src=twsrc%5Etfw)
+
+  
+Mejoras en las hidroeléctricas
+---------------------------------
+
+Se ha registrado una leve mejora en la reserva de agua de la **represa Mazar**. “La reserva de agua ha aumentado 70 centímetros desde el jueves hasta la noche de ayer”, afirmó Manzano, pero aclaró que esta mejora no es suficiente para evitar los cortes.
+
+El Ministerio de **Energía y Minas** publicó en su página web los horarios de los cortes de luz que se aplicarán desde el lunes 14 hasta el domingo 20 de octubre. Entre las provincias afectadas se encuentran Azogues, Loja, Los Ríos, Manabí, Milagro, Santa Elena y Sucumbíos. **Los apagones podrían durar hasta 10 horas diarias**, distribuidos en varios períodos.
+
+  
+Nuevas autoridades en el sector eléctrico
+--------------------------------------------
+
+> 📍IMPORTANTE  
+>   
+> 📌La ministra [@inesmanzano](https://twitter.com/inesmanzano?ref_src=twsrc%5Etfw) informa sobre los horarios de suspensión del servicio de energía eléctrica para el periodo del 14 hasta el 20 de octubre.  
+>   
+> 🔶Conoce la programación en⏩ [https://t.co/4YfPN33hy5](https://t.co/4YfPN33hy5)  
+>   
+> 🔹Más detalles en ⤵️ [pic.twitter.com/3L9gtmhBfJ](https://t.co/3L9gtmhBfJ)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 12, 2024](https://twitter.com/RecNaturalesEC/status/1845211945852400124?ref_src=twsrc%5Etfw)
+
+En medio de esta crisis, el **Gobierno de Daniel Noboa** designó a **Fabián Calero Freire como nuevo viceministro de Electricidad y Energía Renovable**, cargo que hasta hace dos semanas ocupaba Rafael Quintero. Calero, quien tiene un doctorado en Ingeniería Eléctrica y Computación por la Universidad de Waterloo en Canadá, posee más de 17 años de experiencia en el sector eléctrico. Hasta el momento de su nombramiento, se desempeñaba como gerente de la Corporación Eléctrica del Ecuador (Celec).
+
+El Ministerio de Energía destacó que Calero trabajará para superar la **emergencia eléctrica** y diversificar la **matriz energética**. Por su parte, Gustavo Rafael Sánchez Íñiguez fue nombrado como nuevo gerente general de Celec. Sánchez es ingeniero eléctrico por la Escuela Politécnica Nacional y cuenta con 16 años de experiencia en el sector.
+
+Estas designaciones buscan reforzar los esfuerzos del Gobierno para **estabilizar la situación eléctrica** en el país, mientras los ciudadanos y empresas se preparan para una nueva semana de cortes.
+
+¿Aún tenemos un proyecto común?
+===============================
+
+Cada responsable del manejo del país, en el ámbito local, regional o nacional, debe recordar que no importa lo bien lustrado que mantenga su camarote.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
+
+El **historiador Juan Maiguashca** asegura que la “**ficción guía**” del Ecuador del siglo XIX fue la república, sostenida en la **defensa** del **bien común** que emergió en **momentos** de **tensión** como un mapa del mundo que tenía como puntos de **gravedad** la virtud, la **igualdad** y la **justicia**.
+
+De acuerdo con su lectura, la potente **imagen** de la república constituyó una **fuente** de **legitimidad** y de control social para las élites y se convirtió en el **espacio cultural** al que apelaron **fuerzas políticas** opuestas para mantener una (conflictiva) **tradición** en **común**.
+
+Incluso en [1859, año en que el Ecuador estuvo a punto de disgregarse](http://hdl.handle.net/10469/9522) por las **aspiraciones regionales** opuestas, las **fuerzas** enfrentadas fueron capaces de renunciar a satisfacer sus propias **aspiraciones** para **conservar** y mantener a la **nación** unida, según reseña el historiador Miguel Ángel González Leal.
+
+Hoy, a 200 años de la **creación** de la **república**, y dada la **calamidad** en que se encuentra el **Ecuador**, que registra **problemas** en todos los **órdenes** de la **administración pública**, en medio del caos y el retraso que son la realidad cotidiana, más allá de la **utopía** liberal de “**orden** y **progreso**” con la que se fundó la nación, resulta pertinente preguntarse si las actuales **élites nacionales**, sean **económicas**, **políticas** o **culturales**, se plantean todavía un **proyecto en común**.
+
+¿Dónde es posible encontrar un **sueño** de nación –de nación, no de **facción**– que oriente los pasos que la sociedad debe dar para salir del **caos** y el **desorden** que impera en cada acto de la **gestión pública**? En medio del desconcierto, los que ostentan puestos de **responsabilidad** (y los que aspiran a tenerlos) olvidan que más allá del partido que enciende sus **pasiones**, pertenecemos a una misma **patria**.
+
+Cada **responsable** del **manejo** del **país**, en el **ámbito local, regional o nacional,** debe recordar que no importa lo bien lustrado que mantenga su **camarote**, si el barco se hunde también naufragará, producto de una **lucha fraccionaria** que ha permutado **líderes** por **mercenarios**.
+
+Reflexiones en época de  campaña 
+=================================
+
+La sociedad debe rechazar la falta de control en las redes sociales y exigir transparencia electoral.
+-----------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+La **campaña electoral** ha empezado de manera **no oficial**, pero sí en la práctica de la **política nacional.** Lo cual, como **sociedad**, nos debe invitar a estar alerta a fin de no dejarnos llevar, influenciar o utilizar por las **acciones** y/u **omisiones políticas** – muchas veces con malas intenciones – de los distintos **sectores** y/o actores, ya sea su **participación** y/o influencia directa o indirecta.
+
+La  peculiar e “ingenua” – por decir lo menos – **interpretación** del CNE dada no mucho tiempo atrás, en el sentido de que, los controles de la presencia de las **campañas electorales,** incluido los gastos, realizados en **redes sociales y plataformas digitales**, aplicaría para los candidatos al CPCCS y no para el resto de **candidaturas**, incluidas la **presidencia** y **vicepresidencia** de la **república**, constituye una **torpeza monumental,** cuando hoy en día ya no sorprende, la enorme penetración e influencia de las distintas **plataformas** y **medios digitales en la opinión pública** y en el **imaginario colectivo**, dejando de lado y superando  a los medios y sistemas de comunicación y propaganda tradicionales.
+
+La lamentable “**viveza política**” consciente de la falta de **control y de la alta eficacia** de la comunicación en los medios digitales, ha venido burlándose **descaradamente** de los **límites de campaña**; y, el CNE, con dicha  forzada y torpe “**interpretación**”, en vez de poner freno a esta **mala y abusiva práctica**, más bien le ha dado un **espaldarazo**, es decir, el mismo órgano estatal encargado del **proceso** de **control electoral,** haciéndose no solo de la vista gorda ante algo tan **evidente**, ha brindado  expresamente  luz verde, es decir, ha avalado algo que evidentemente resulta un abuso  y que desnuda el poco sentido de respeto de algunas c**andidaturas al espíritu de la ley** y  al **sentido común**. Lo cual, también  nos debe invitar a **reflexionar** en el sentido de que ¿cómo podríamos confiar en la **seriedad de un candidato,**  si sus primeros actos de campaña se basan en **burlar la ley**?
+
+Adicionalmente, algo que siendo totalmente **incorrecto** se ha vuelto casi normal por lo **habitual**, es la nefasta tarea de los **troll centers,** contratados y enfocados principalmente en  llevar a cabo  una de las más canallas  tareas y  **acciones políticas**, esto es, **descalificar** y **desprestigiar**  utilizando como argumentos la **exageración**, la inexacta **interpretación**, la burla,  la mentira, la mala intención,  etc., todo lo cual realizado cobardemente desde el **anonimato**, la **oscuridad** y la **falsedad**, buscando vender la **imagen** de ser miles de **usuarios** cuando en realidad son pocos con muchas **cuentas** **falsas**, enfocados en desarrollar un **ejército digital** dentro de una **guerra** de **imagen sucia** y baja; todo lo cual alimentado y aprovechándose  de una **sociedad** apurada,  en la que la **conducta** de unos pocos influye en la de muchos, ya que prima en ella el **seguimiento** de manada y no la **reflexión individual.**
+
+Estas **prácticas** (provengan de donde provengan)  deben  ser **desterradas y sancionadas,** no solamente por  los **órganos estatales** a cargo, incluida la Fiscalía de ser el caso, sino también y sobre todo por la sociedad, no dando paso a estas **malas acciones** que no suman a la claridad y al buen criterio **ciudadano** y por consiguiente no apuntalan el apropiado **desenvolvimiento democrático** a efectos de que se den debidas **reflexiones** y por ende las **mejores decisiones** en **momentos electorales**.
+
+No es difícil darse cuenta, cuáles son las reales **intenciones** detrás de dichas **publicaciones** y a quién o a quienes benefician; toda vez que, su **utilización**, a quienes más descalifican en verdad, es a quienes las utilizan.
+
 Cartas a Quito / 13 de octubre de 2024
 ======================================
 
@@ -75,46 +944,6 @@ Para **combatir la fragilidad** es esencial mantenerse físicamente activo y seg
 En la **madurez** es crucial entender la importancia del concepto de pre-fragilidad, la etapa en la que aún es posible revertir o ralentizar el proceso de **fragilidad.** Durante esta fase, es vital implementar todas las medidas preventivas. En este contexto, el termalismo y los spas son aliados importantes. Las **aguas termales** y los **tratamientos** de **spa** ayudan a mejorar la **circulación**, **aliviar dolores musculares**, articulares, promueven la **relajación** y el **bienestar general**, lo que contribuye a mantener la **movilidad** y la **calidad de vida**.
 
 Hoy en día es fundamental informarse y educarse sobre la **fragilidad**. Es hora de cambiar la **percepción** de la **vejez** y demostrar que podemos vencer a este **enemigo silencioso** y disfrutar de una **vida plena** y activa en nuestros **años dorados**. **Viajar** cobra una **importancia vital**, ya que es uno de los mejores **antídotos** contra la **depresión**.
-
-¿Aún tenemos un proyecto común?
-===============================
-
-Cada responsable del manejo del país, en el ámbito local, regional o nacional, debe recordar que no importa lo bien lustrado que mantenga su camarote.
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
-
-El **historiador Juan Maiguashca** asegura que la “**ficción guía**” del Ecuador del siglo XIX fue la república, sostenida en la **defensa** del **bien común** que emergió en **momentos** de **tensión** como un mapa del mundo que tenía como puntos de **gravedad** la virtud, la **igualdad** y la **justicia**.
-
-De acuerdo con su lectura, la potente **imagen** de la república constituyó una **fuente** de **legitimidad** y de control social para las élites y se convirtió en el **espacio cultural** al que apelaron **fuerzas políticas** opuestas para mantener una (conflictiva) **tradición** en **común**.
-
-Incluso en [1859, año en que el Ecuador estuvo a punto de disgregarse](http://hdl.handle.net/10469/9522) por las **aspiraciones regionales** opuestas, las **fuerzas** enfrentadas fueron capaces de renunciar a satisfacer sus propias **aspiraciones** para **conservar** y mantener a la **nación** unida, según reseña el historiador Miguel Ángel González Leal.
-
-Hoy, a 200 años de la **creación** de la **república**, y dada la **calamidad** en que se encuentra el **Ecuador**, que registra **problemas** en todos los **órdenes** de la **administración pública**, en medio del caos y el retraso que son la realidad cotidiana, más allá de la **utopía** liberal de “**orden** y **progreso**” con la que se fundó la nación, resulta pertinente preguntarse si las actuales **élites nacionales**, sean **económicas**, **políticas** o **culturales**, se plantean todavía un **proyecto en común**.
-
-¿Dónde es posible encontrar un **sueño** de nación –de nación, no de **facción**– que oriente los pasos que la sociedad debe dar para salir del **caos** y el **desorden** que impera en cada acto de la **gestión pública**? En medio del desconcierto, los que ostentan puestos de **responsabilidad** (y los que aspiran a tenerlos) olvidan que más allá del partido que enciende sus **pasiones**, pertenecemos a una misma **patria**.
-
-Cada **responsable** del **manejo** del **país**, en el **ámbito local, regional o nacional,** debe recordar que no importa lo bien lustrado que mantenga su **camarote**, si el barco se hunde también naufragará, producto de una **lucha fraccionaria** que ha permutado **líderes** por **mercenarios**.
-
-Reflexiones en época de  campaña 
-=================================
-
-La sociedad debe rechazar la falta de control en las redes sociales y exigir transparencia electoral.
------------------------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-La **campaña electoral** ha empezado de manera **no oficial**, pero sí en la práctica de la **política nacional.** Lo cual, como **sociedad**, nos debe invitar a estar alerta a fin de no dejarnos llevar, influenciar o utilizar por las **acciones** y/u **omisiones políticas** – muchas veces con malas intenciones – de los distintos **sectores** y/o actores, ya sea su **participación** y/o influencia directa o indirecta.
-
-La  peculiar e “ingenua” – por decir lo menos – **interpretación** del CNE dada no mucho tiempo atrás, en el sentido de que, los controles de la presencia de las **campañas electorales,** incluido los gastos, realizados en **redes sociales y plataformas digitales**, aplicaría para los candidatos al CPCCS y no para el resto de **candidaturas**, incluidas la **presidencia** y **vicepresidencia** de la **república**, constituye una **torpeza monumental,** cuando hoy en día ya no sorprende, la enorme penetración e influencia de las distintas **plataformas** y **medios digitales en la opinión pública** y en el **imaginario colectivo**, dejando de lado y superando  a los medios y sistemas de comunicación y propaganda tradicionales.
-
-La lamentable “**viveza política**” consciente de la falta de **control y de la alta eficacia** de la comunicación en los medios digitales, ha venido burlándose **descaradamente** de los **límites de campaña**; y, el CNE, con dicha  forzada y torpe “**interpretación**”, en vez de poner freno a esta **mala y abusiva práctica**, más bien le ha dado un **espaldarazo**, es decir, el mismo órgano estatal encargado del **proceso** de **control electoral,** haciéndose no solo de la vista gorda ante algo tan **evidente**, ha brindado  expresamente  luz verde, es decir, ha avalado algo que evidentemente resulta un abuso  y que desnuda el poco sentido de respeto de algunas c**andidaturas al espíritu de la ley** y  al **sentido común**. Lo cual, también  nos debe invitar a **reflexionar** en el sentido de que ¿cómo podríamos confiar en la **seriedad de un candidato,**  si sus primeros actos de campaña se basan en **burlar la ley**?
-
-Adicionalmente, algo que siendo totalmente **incorrecto** se ha vuelto casi normal por lo **habitual**, es la nefasta tarea de los **troll centers,** contratados y enfocados principalmente en  llevar a cabo  una de las más canallas  tareas y  **acciones políticas**, esto es, **descalificar** y **desprestigiar**  utilizando como argumentos la **exageración**, la inexacta **interpretación**, la burla,  la mentira, la mala intención,  etc., todo lo cual realizado cobardemente desde el **anonimato**, la **oscuridad** y la **falsedad**, buscando vender la **imagen** de ser miles de **usuarios** cuando en realidad son pocos con muchas **cuentas** **falsas**, enfocados en desarrollar un **ejército digital** dentro de una **guerra** de **imagen sucia** y baja; todo lo cual alimentado y aprovechándose  de una **sociedad** apurada,  en la que la **conducta** de unos pocos influye en la de muchos, ya que prima en ella el **seguimiento** de manada y no la **reflexión individual.**
-
-Estas **prácticas** (provengan de donde provengan)  deben  ser **desterradas y sancionadas,** no solamente por  los **órganos estatales** a cargo, incluida la Fiscalía de ser el caso, sino también y sobre todo por la sociedad, no dando paso a estas **malas acciones** que no suman a la claridad y al buen criterio **ciudadano** y por consiguiente no apuntalan el apropiado **desenvolvimiento democrático** a efectos de que se den debidas **reflexiones** y por ende las **mejores decisiones** en **momentos electorales**.
-
-No es difícil darse cuenta, cuáles son las reales **intenciones** detrás de dichas **publicaciones** y a quién o a quienes benefician; toda vez que, su **utilización**, a quienes más descalifican en verdad, es a quienes las utilizan.
 
 Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?
 ==========================================================================================
@@ -297,885 +1126,3 @@ Foto: API.
 
 No te pierdas – El Confesionario
 --------------------------------
-
-Deportivo Quito entrenó con el volcán Cotopaxi de testigo
-=========================================================
-
-Deportivo Quito es uno de los 32 equipos que aún pugnan por uno de los dos cupos para ascender a la Serie B 2025.
------------------------------------------------------------------------------------------------------------------
-
-![Jugadores del Deportivo Quito en octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/quito_cotopaxi_1.jpg)
-
-**Deportivo Quito** sigue con sus entrenamientos previos a los que será la llave de los dieciseisavos de final del Torneo Nacional de Ascenso, que está a cargo en el nivel organizativo de la Federación Ecuatoriana de Fútbol.
-
-Tras el sorteo de los dieciseisavos de final realizado el miércoles 9 de octubre de 2024, **Deportivo Quito quedó emparejado en la parte derecha** del mapa de partidos, con 11 equipos de la Costa, tres de la Sierra y dos de la Amazonía.
-
-### Más noticias:
-
-* [¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/como-fue-el-regreso-de-leonardo-campana-a-la-seleccion-de-ecuador.html "¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?")
-* [Juan Riquelme Angulo se vistió de héroe con un doblete ante Brasil](https://www.elcomercio.com/deportes/futbol/juan-riquelme-angulo-goles-ecuador.html "Juan Riquelme Angulo se vistió de héroe con un doblete ante Brasil")
-* [Lula defiende una Brasil sin futbolistas que jueguen fuera del país](https://www.elcomercio.com/deportes/futbol/lula-defiende-una-brasil-sin-futbolistas-que-jueguen-fuera-del-pais.html "Lula defiende una Brasil sin futbolistas que jueguen fuera del país")
-
-Para llegar a los dieciseisavos de final, el Quito **no tuvo problemas para derrotar contundentemente a Santa Elena Sporting Club** por un marcador global de de 5-1, gracias al 3-0 registrado en el estadio del Complejo de Independiente del Valle; y el 2-1 de la revancha en Samborondón.
-
-En esta nueva fase se medirá a **Cantera Orense, club con sede en Machala**, que dejó en el camino a la Cantera de Pastaza con un global de 6-1, luego de ganar en la ida 4-1 y en la revancha por 0-2.
-
-Hasta las semifinales el formato del Ascenso Nacional contempla partidos de ida y vuelta.
-
-La gran final se jugará en una final única tal como se viene realizando desde 2020, donde la primera sede el estadio Municipal de Otavalo; **en el 2021 el Reina del Cisne de Loja**; en el 2022 el 7 de Octubre de Quevedo; y en el 2023 el Olímpico de Ibarra.
-
-![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/quito_cotopaxi_2-1024x683.jpg)
-
-Foto: Facebook del club.
-
-El Quito se fue al Cotopaxi
----------------------------
-
-Como parte del proceso de preparación planificada por Carlos Castro, entrenador del Deportivo Quito, fue hacer una sesión de entrenamiento con el volcán Cotopaxi como testigo del arduo trabajo físico.
-
-El plantel partido desde el **Complejo Ney Mancheno Velasco en Carcelén** en las primera horas del viernes 11 de octubre. Lo hizo vía terrestre en un ambiente lleno de camaradería y el buen ambiente que prima por estos días en la ‘AKD’.
-
-Una vez en el lugar **realizaron varios circuitos de resistencia y fuerza** para mejorar la condición física de sus jugadores, siempre con Castro a la cabeza, que no tuvo problemas a la hora de volver a vestirse de ‘corto’, tal como en su etapa de jugador activo.
-
-> ¿Y si le damos un día tranqui 😎 por ser feriado? 🏃🏾‍♂️🏋🏾‍♀️ ¡Venga! [#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) objetivos claros 💙❤️ [pic.twitter.com/bVm5x13T9S](https://t.co/bVm5x13T9S)
-> 
-> — SD Quito Oficial (@SDQuito\_Oficial) [October 12, 2024](https://twitter.com/SDQuito_Oficial/status/1845127719782080685?ref_src=twsrc%5Etfw)
-
-Clasificados a los dieciseisavos de final
------------------------------------------
-
-### Zona izquierda
-
-Jipijapa (Manabí) vs. Deportivo Quevedo (Los Ríos)
-
-**Atlético Vinotinto (Pichincha) vs. Olmedo (Chimborazo)**
-
-La Paz (Manabí) vs. Atlético JBG (Guayas)
-
-**Miguel Iturralde (Pichincha) vs. Mineros (Bolívar)**
-
-Luz Valdivia (Santa Elena) vs. La Unión (Cotopaxi)
-
-**11 de Mayo (Manabí) vs. Patria (Guayas)**
-
-La Troncal (Cañar) vs. Juventud Italiana (Manabí)
-
-**Cuenca Juniors (Azuay) vs. Guaranda (Bolívar)**
-
-### Zona derecha
-
-Liga de Portoviejo (Manabí) vs. Daquilema (Chimborazo)
-
-**Naranja Mekánica (Guayas) vs. Huaquillas (El Oro)**
-
-Cantera Orense (El Oro) vs. Deportivo Quito (Pichincha)
-
-**Toreros (Guayas) vs. Santa Elena Sumpa (Santa Elena)**
-
-22 de Julio (Esmeraldas) vs. San Camilo (Los Ríos)
-
-**Ecuagenera (Zamora Chinchipe) vs. Huancavilca (Santa Elena)**
-
-Aviced (Azuay) vs. Everest (Guayas)
-
-**New Porto (Manabí) vs. Primero de Mayo (Zamora Chinchipe)**
-
-No te pierdas – El Confesionario
---------------------------------
-
-Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre
-============================================================================================
-
-La ministra de Energía encargada, Inés Manzano, señaló que los próximos días serán críticos debido a la escasez de lluvias.
----------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz continuarán debido a la escasez de lluvias, que afecta el funcionamiento de las hidroeléctricas. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-quito-14.jpg)
-
-La **Empresa Eléctrica Quito** (EEQ) publicó los horarios de **cortes de luz** en **Quito**, para la semana del lunes 14 al domingo 20 de octubre de 2024. Los racionamientos de electricidad serán de hasta de 10 horas al día.
-
-### Más noticias
-
-* [Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios](https://www.elcomercio.com/actualidad/negocios/cortes-luz-continuan-14-al-20-octubre-2024-conozca-nuevos-horarios.html "Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios")
-* [Ecuador va a su propio ritmo en la apuesta de energías renovables](https://www.elcomercio.com/actualidad/negocios/ecuador-propio-ritmo-apuesta-energias-renovables.html "Ecuador va a su propio ritmo en la apuesta de energías renovables")
-* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
-
-La ministra de Energía encargada, **Inés Manzano**, señaló que los próximos días serán críticos debido a la escasez de lluvias, que afecta el funcionamiento de las hidroeléctricas del país.
-
-La EEQ programó **cortes de luz** de 10 horas para cada sector, en dos períodos de entre tres y siete horas.
-
-Revise el horario de corte de luz para su sector
-------------------------------------------------
-
-En el siguiente cronograma constan los horarios desde el lunes 14 hasta el domingo 20 de octubre de 2024.
-
-La ministra **Manzano**, también dijo: “sabemos el esfuerzo de cada uno y las molestias que la crisis de sequía ocasiona, por eso nuestro compromiso es que tengan hoy (sábado 12 de octubre) los horarios para que puedan **planificar sus actividades** dentro de estas condiciones”.
-
-“Vamos a salir de esta crisis. Mientras la enfrentamos, estamos ejecutando todas las acciones que no se tomaron antes para poder diversificar la forma en que generamos energía, para que en un futuro cercano no tengamos que depender de si llueve o no”, señaló.
-
-Los horarios de cortes de luz de todo el país lo puede revisar en la [página web del Ministerio de Energía y Minas.](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/") Allí se encuentran los cronogramas por cada una de las nueve empresas distribuidoras de electricidad del país.
-
-La Copa Ecuador confirmó horarios de las semifinales
-====================================================
-
-Las semifinales de la Copa Ecuador se jugarán con partidos de ida y vuelta. El actual campeón es Independiente del Valle.
--------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de El Nacional en la Copa Ecuador 2024 en el Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/10/copa_ecuador_horarios_1.jpg)
-
-La **Copa Ecuador**, organizada por la Federación Ecuatoriana de Fútbol (FEF), confirmó los horarios de los cuatro partidos de las llaves de semifinales para definir a los dos finalistas.
-
-Este sábado 12 de octubre de 2024, la Copa Ecuador, **a través de sus redes sociales oficiales**, dio a conocer la programación de las semifinales con lo que quedó marcado el camino para buscar al campeón.
-
-### Más noticias:
-
-* [Glenda Morejón, medallista olímpica en París 2024, se casó](https://www.elcomercio.com/deportes/glenda-morejon-medallista-olimpica-en-paris-2024-se-caso.html "Glenda Morejón, medallista olímpica en París 2024, se casó")
-* [Perú venció a Uruguay de manera agónica en eliminatorias](https://www.elcomercio.com/deportes/futbol/peru-vencio-uruguay-de-manera-agonica-en-eliminatorias.html "Perú venció a Uruguay de manera agónica en eliminatorias")
-* [¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-eliminatorias-uruguay.html "¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?")
-
-En las semifinales de la Copa Ecuador están instalados Mushuc Runa, la gran sorpresa de la competición que juega por segunda vez la parte decisiva; **Universidad Católica, que juega por primera vez esta instancia**; El Nacional, que a edición seguida se mete entre los cuatro mejores; e Independiente del Valle, el vigente campeón y gran favorito.
-
-En las semifinales el **formato del certamen sufre una ligera modificación**, puesto que se jugarán con partidos de ida y vuelta, a diferencia de las anteriores fases que se definieron a partido único.
-
-Para la final regresa el formato original de un solo partido. **Se jugará en una sede neutral** que aún la FEF no define, pero que en las próximas semanas se revelará, tomando en cuenta que en primera instancia estaba proyectado que se lleve a cabo en noviembre.
-
-Los premios de la Copa Ecuador
-------------------------------
-
-El campeón de la Copa Ecuador se llevará un **premio económico de 340 000 dólares**, más el cupo a la primera fase de la Copa Libertadores 2025 en donde se asegura, tomando en cuenta la tabla de la presente edición, 400 000 dólares más.
-
-El subcampeón de la Copa Ecuador se embolsa 200 000 dólares, los semifinalistas 80 000 dólares, **por llegar a los cuartos de final 50 000 dólares**, en los octavos de final 30 000 dólares, en la primera fase 20 000 dólares; y en la fase previa 10 000 dólares.
-
-En relación con el 2022, el **premio económico para el campeón fue de 800 000 dólares**, mientras que para el vicecampeón era de 200 000, y para los semifinalistas de 100 000 dólares.
-
-En 2019 el **monarca ingresó en su cuenta bancaria 200 000 dólares**, más el cuarto cupo a la Copa Sudamericana de 2020.
-
-![Rafael Romo, arquero de Universidad Católica.](https://www.elcomercio.com/wp-content/uploads/2024/10/copa_ecuador_horarios_2-1024x683.jpg)
-
-Rafael Romo, arquero de Universidad Católica.
-
-Semifinales
------------
-
-### Martes 22/10
-
-17:00 Universidad Católica vs. Independiente del Valle
-
-Estadio: Rodrigo Paz Delgado
-
-### Miércoles 23/10
-
-14:00 Mushuc Runa vs. El Nacional
-
-Estadio: La Cocha
-
-### Martes 29/10
-
-Independiente del Valle vs. Universidad Católica
-
-Estadio: Complejo IDV
-
-### Jueves 31/10
-
-El Nacional vs. Mushuc Runa
-
-Estadio: Olímpico Atahualpa
-
-![Joaquín Vergés, jugador de Mushuc Runa.](https://www.elcomercio.com/wp-content/uploads/2024/10/copa_ecuador_horarios_3-1024x683.jpg)
-
-Joaquín Vergés, jugador de Mushuc Runa.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Agentes sufrieron ataque con explosivo durante control de tricimotos; mire el video
-===================================================================================
-
-Este sábado 12 de octubre de 2024, la Agencia de Tránsito y Movilidad de Guayaquil (ATM) rechazó los actos violentos registrados durante un operativo de control de tricimotos en la Cooperativa Juan Montalvo, en el norte de la ciudad. En el incidente se lanzó un explosivo contra los miembros de la Policía y agentes de \[…\]
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/tricimoto.jpg)
-
-Este sábado 12 de octubre de 2024, la Agencia de Tránsito y Movilidad de Guayaquil (ATM) rechazó los actos violentos registrados durante un **operativo de control de tricimotos** en la Cooperativa Juan Montalvo, en el norte de la ciudad. En el incidente se lanzó un explosivo contra los miembros de la Policía y agentes de tránsito.
-
-### Más noticias
-
-* [Video capta nueva modalidad de robo en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/video-capta-nueva-modalidad-robo-guayaquil-inseguridad.html "Video capta nueva modalidad de robo en Guayaquil")
-* [51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/seguridad/policia-seguridad-operativo-feriado-9-octubre.html "51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre")
-* [Zazza, ‘youtuber’ italiano en Guayaquil, recibe amenazas de muerte](https://www.elcomercio.com/afull/zazza-youtuber-amenazas-guayaquil.html "Zazza, ‘youtuber’ italiano en Guayaquil, recibe amenazas de muerte ")
-
-Tricimoto estalló
------------------
-
-El hecho ocurrió el viernes 11 de octubre de 2024, durante un operativo de control de tricimotos. Los agentes de la ATM y la Policía Nacional fueron víctimas de un acto de violencia cuando se lanzó un explosivo contra las fuerzas del orden. El incidente no dejó civiles, policías o agentes afectados.
-
-Las imágenes se viralizaron en redes sociales, mostrando el instante en que una **tricimoto** retenida **estalla en llamas** tras el impacto de un explosivo. Un policía que aseguraba el vehículo tuvo que saltar rápidamente para evitar ser alcanzado por el fuego.
-
-> .[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)🟡🔵🔴  
->   
-> Agentes de la [@ATMGuayaquil](https://twitter.com/ATMGuayaquil?ref_src=twsrc%5Etfw) logran detener al sujeto que por poco quema 🔥 vivo a un uniformado de la [@PoliciaEcuador](https://twitter.com/PoliciaEcuador?ref_src=twsrc%5Etfw), mientras incautaban una tricimoto.  
->   
-> Operativo que pretendía ser evitado por los afectados en [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw). [#EcuadorBajoAtaqueTerrorista](https://twitter.com/hashtag/EcuadorBajoAtaqueTerrorista?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/RBr6ofHxkw](https://t.co/RBr6ofHxkw)
-> 
-> — Unidad Nacional de las Organizaciones GUAYAS (@UnidadN593) [October 12, 2024](https://twitter.com/UnidadN593/status/1845166222549405896?ref_src=twsrc%5Etfw)
-
-Tras estos hechos se **suspendió el operativo**. El mismo tenía como objetivo verificar la legalidad de los vehículos en circulación y garantizar la seguridad ciudadana.
-
-A pesar de la interrupción del operativo, se logró **retener 11 motocicletas** que no contaban con los **títulos habilitantes** requeridos. Los vehículos retenidos permanecen en el Centro de Retención Vehicular en la vía a la Costa para su respectivo trámite legal.
-
-Las autoridades rechazaron enérgicamente estos actos violentos. “Este tipo de agresiones no solo atentan contra el **orden público**, sino que buscan impedir el cumplimiento de la ley y ponen en riesgo la seguridad de todos”, señaló la ATM, en un comunicado.
-
-> Rechazamos los incidentes violentos ocurridos durante operativo en Coop. Juan Montalvo. [pic.twitter.com/xicVWD1OZk](https://t.co/xicVWD1OZk)
-> 
-> — ATM Guayaquil (@ATMGuayaquil) [October 12, 2024](https://twitter.com/ATMGuayaquil/status/1845147847018049987?ref_src=twsrc%5Etfw)
-
-Gobierno designa nuevas autoridades de electricidad en medio de la crisis energética
-====================================================================================
-
-El cambio de autoridades se produce en medio de la crisis energética por la que atraviesa el Ecuador.
------------------------------------------------------------------------------------------------------
-
-![Fabián Calero es el nuevo viceministro de Electricidad. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/fabian-calero.jpg)
-
-El Gobierno de **Daniel Noboa** designó al nuevo viceministro de Electricidad este 12 de octubre de 2024. El nombramiento del nuevo funcionario se da dos semanas después de la renuncia del exviceministro de Electricidad, **Rafael Quintero**. El cambio de autoridades se produce en medio de la **crisis energétic**a por la que atraviesa el Ecuador, que ha obligado a programar **cortes de luz** de hasta 10 horas diarias[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
-* [El Ministro de Energía se va y ya tiene reemplazo](https://www.elcomercio.com/actualidad/negocios/quien-asumira-el-ministerio-de-energia.html "El Ministro de Energía se va y ya tiene reemplazo")
-* [Así serán los créditos de BanEcuador para la compra de paneles y generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/creditos-banecuador-compra-paneles-solares-generadores-electricos.html "Así serán los créditos de BanEcuador para la compra de paneles y generadores eléctricos")
-
-El Ministerio de Energía y Minas señaló que la ministra encargada, **Inés Manzano**, designó a **Fabián Calero Freire** como nuevo Viceministro de Electricidad y Energía Renovable. El funcionario hasta hoy ocupaba la gerencia de la Corporación Eléctrica del Ecuador (Celec).
-
-> 📍\[COMUNICADO OFICIAL\]  
->   
-> 📌Informamos a la ciudadanía sobre la designación del nuevo Viceministro de Electricidad y Energía Renovable.  
->   
-> 🔹Más detalles⤵️ [pic.twitter.com/0rCvua8TpB](https://t.co/0rCvua8TpB)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 12, 2024](https://twitter.com/RecNaturalesEC/status/1845186086626009339?ref_src=twsrc%5Etfw)
-
-Según el comunicado, Calero posee un Doctorado en **Ingeniería Eléctrica y Computación**, otorgado por la Universidad de Waterloo (Canadá). Además, tiene más de 17 años de experiencia en el sector  
-eléctrico, donde destaca su cargo como Gerente subrogante de la Celec.
-
-“El viceministro Calero se incorpora al cargo con la convicción de cumplir los objetivos planteados para superar la emergencia eléctrica y en diversificar la matriz energética con nuevas fuentes de energía para beneficio de los ecuatorianos”, señaló.
-
-Gustavo Sánchez va a la Gerencia de Celec
------------------------------------------
-
-Asimismo, el Directorio de la Empresa Pública Estratégica Corporación Eléctrica del Ecuador(Celec), presidido por la ministra de Energía y Minas (e), **Inés Manzan**o, encargó la Gerencia General al ingeniero **Gustavo Rafael Sánchez Íñiguez**.
-
-La nueva autoridad de esta empresa pública es ingeniero eléctrico por la Escuela Politécnica Nacional, cuenta con una maestría en Salud y Seguridad Ocupacional con mención en Prevención de Riesgos  
-Laborales por la Universidad Internacional SEK y tiene 16 años de experiencia en el sector eléctrico, señaló el Ministerio de Energía en un comunicado.
-
-Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios
-========================================================================================
-
-La ministra de Energía encargada, Inés Manzano, señaló que la semana del 14 al 20 de octubre de 2024 será crítica por la falta de lluvias.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![Inés Manzano, ministra encargada de Energía.](https://www.elcomercio.com/wp-content/uploads/2024/10/ines-manzao.jpg)
-
-La ministra de Energía encargada, **Inés Manzano**, señaló que la semana del 14 al 20 de octubre de 2024 será crítica por la **falta de lluvias**. La crisis hídrica impide el normal funcionamiento de las **hidroeléctricas** del país y obliga a continuar con los **cortes de luz** en todo el Ecuador, con un promedio de 10 horas al día.
-
-### Más noticias
-
-* [Conozca los horarios de cortes de luz en Guayaquil para este fin de semana](https://www.elcomercio.com/actualidad/ecuador/conozca-horarios-cortes-luz-guayaquil-fin-de-semana.html "Conozca los horarios de cortes de luz en Guayaquil para este fin de semana")
-* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
-* [Así serán los créditos de BanEcuador para la compra de paneles y generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/creditos-banecuador-compra-paneles-solares-generadores-electricos.html "Así serán los créditos de BanEcuador para la compra de paneles y generadores eléctricos")
-
-Con un video en sus redes sociales, señaló este 12 de octubre de 2024, que se está revisando los resultados de los racionamientos de energía. “En estos momentos la **mayoría de hidroeléctrica** están en óptimo funcionamiento y en relación con la represa Mazar, en el complejo Paute, la reserva de agua ha aumentado 70 centímetros, desde el jueves hasta la noche de ayer”, dijo.
-
-> 📍IMPORTANTE  
->   
-> 📌La ministra [@inesmanzano](https://twitter.com/inesmanzano?ref_src=twsrc%5Etfw) informa sobre los horarios de suspensión del servicio de energía eléctrica para el periodo del 14 hasta el 20 de octubre.  
->   
-> 🔶Conoce la programación en⏩ [https://t.co/4YfPN33hy5](https://t.co/4YfPN33hy5)  
->   
-> 🔹Más detalles en ⤵️ [pic.twitter.com/3L9gtmhBfJ](https://t.co/3L9gtmhBfJ)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 12, 2024](https://twitter.com/RecNaturalesEC/status/1845211945852400124?ref_src=twsrc%5Etfw)
-
-“Ante esta situación debemos **mantener los cortes** y ser responsables, la próxima semana será crítica y las condiciones climáticas demuestran **escasas lluvias en la zona sur**“, agregó.
-
-Además, señaló que ya están disponibles en la página de[l **Ministerio de Energía y Minas** los horarios de los cortes de luz desde el lunes 14 al domingo 20 de octubre](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/") de las zonas de: Azogues, Loja, Los Ríos, Manabí, Milagro, Santa Elena, Sucumbíos y la empresa eléctrica Regional Sur.
-
-Como esta semana que termina, los horarios serán de hasta 10 horas de cortes de luz, distribuidos en varios períodos.
-
-El cronograma para las provincias que faltan estarán publicadas este sábado 12 de octubre, para que las familias y empresas tomen las medidas necesarias, aseguró la Ministra.
-
-Lo que ‘dos pedazos de esponja’ pueden causar en la imagen personal
-===================================================================
-
-¿Qué mensajes crees que transmiten? Te contamos
------------------------------------------------
-
-![Zendaya llevó este outfit al desfile de Louis Vuitton en octubre de 2024. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-8-1.jpg)
-
-Si piensas que las **hombreras** son solo **dos pedazos de esponja** que se colocan en una chaqueta o vestido, te equivocas. Hay más de lo que te imaginas detrás de estos elementos.
-
-En septiembre y octubre de 2024 celebridades como [**Esther Cañadas**](https://www.instagram.com/esthercanadasofficial/?hl=es), **[Lady Gaga](http://Lady Gaga lanza nuevo disco inspirado en el ‘Joker’   Este contenido ha sido publicado originalmente por EL COMERCIO. Si vas a hacer uso del mismo, por favor, cita la fuente y haz un enlace hacia la nota original en la dirección: https://www.elcomercio.com/tendencias/musica/lady-gaga-joker-disco-musica.html)** o **[Zendaya](http://Zendaya ha marcado la historia de la Gala Met con sus ‘looks’  Este contenido ha sido publicado originalmente por EL COMERCIO. Si vas a hacer uso del mismo, por favor, cita la fuente y haz un enlace hacia la nota original en la dirección: https://www.elcomercio.com/tendencias/zendaya-looks-gala-met.html)** han utilizado prendas con hombreras para asistir a eventos. En tiendas nacionales también se ofrecen _blazers_ con estas piezas o, incluso, se ofertan por sí solas para que las usuarias las coloque en la ropa que quieran.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-7-1024x683.jpg)
-
-La modelo española Esther Cañadas asistió así al desfile de Balenciaga en París el 1 de octubre de 2024. Foto: Instagram
-
-### Más noticias
-
-* **[El outfit de Miley Cyrus envió poderoso mensaje en la Convención Disney 23](https://www.elcomercio.com/tendencias/miley-cyrus-mensaje-outfit-convencion-disney-power-suit.html "https://www.elcomercio.com/tendencias/miley-cyrus-mensaje-outfit-convencion-disney-power-suit.html")**
-* **[Michelle Obama y su elección de moda en la DNC](https://www.elcomercio.com/afull/michelle-obama-moda-convencion-nacional-democrata.html "https://www.elcomercio.com/afull/michelle-obama-moda-convencion-nacional-democrata.html")**
-
-¿Por qué lo hacen? La respuesta obvia es porque están de moda, pero ahí no termina todo. Quizás quienes las utilizan solo estén enteradas de la función práctica que cumplen y no de todo lo que representan, por eso a continuación te contamos.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-1024x683.jpg)
-
-Lady Gaga rindió homenaje a su personaje de Harley Quinn en el estreno de la cinta ‘Joker: Folie á Deux’ con este traje que llevaba dramáticas hombreras. Foto: Instagram
-
-1\. Poder y empoderamiento
---------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/08/miley-cyrus-power-suit-el-comercio-4-1024x683.jpg)
-
-Así lució Miley Cyrus cuando recibió el premio Leyenda Disney en agosto de 2024. Foto: Instagram
-
-Las hombreras no solo son una tendencia; también proyectan poder y autoridad. En los años 80, fueron vistas como un símbolo de empoderamiento femenino, ayudando a las mujeres a sentirse más fuertes y seguras.
-
-¿Cómo? Estas piezas te hacen parecer más alta y con la espalda más ancha, dos características más masculinas que femeninas. Diseñadores como Yves Saint Laurent las popularizaron para dar una imagen de poder en sus creaciones.
-
-2\. Evolución estilística
--------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-1-1024x683.jpg)
-
-Las hombreras con apliques como estas se venden como accesorios para incorporar en cualquier prenda. Fotos: Pinterest
-
-Aunque en los 2000 las hombreras perdieron popularidad, en 2023 y 2024 han estado de vuelta. Se han visto en _blazers_, vestidos, blusas y hasta camisetas, es decir en ropa más formal y hasta casual. Incluso hay hombreras con apliques como taches, cadenas, lentejuelas, etc., que se venden por separado y que las chicas agregan a su gusto.
-
-3\. Un cambio cultural
-----------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-9-1024x683.jpg)
-
-Zendaya apareció con este blazer sobre una falda para asistir al desfile de Louis Vuitton en octubre de 2024. Foto: Instagram
-
-Son un reflejo de cambios sociales. **[Juan Carlos Guamán](https://www.instagram.com/juancarlosguaman.ec/?hl=es-la "https://www.instagram.com/juancarlosguaman.ec/?hl=es-la")**, un diseñador ecuatoriano, señala que comenzaron a integrarse en las vestimentas femeninas, simbolizando una creciente independencia y la entrada de la mujer en espacios tradicionalmente masculinos. Eso sí -enfatiza- no todo es para todas si lo que se busca es construir una determinada imagen.
-
-4\. Distinción de rango
------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-3-1024x683.jpg)
-
-A la izquierda una hombrera de aspecto militar y a la derecha una chaqueta femenina tipo militar con una hombrera de cuentas y brillos. Fotos: Pinterest
-
-Seguro las has visto en los uniformes militares y es que las hombreras o _charreteras_ y otros adornos en los hombros servían para indicar el rango y la posición dentro de la jerarquía militar. Cuanto más decoradas y grandes eran, mayor era el rango del oficial. Esto permitía que los soldados reconocieran rápidamente a sus superiores en el campo de batalla.
-
-En ese ámbito, también tenían un propósito simbólico. Eran una forma de hacer que el soldado pareciera más imponente y poderoso, lo que contribuía a la disciplina y al respeto en la tropa. El diseño exagerado de los hombros proyectaba una imagen de fuerza y autoridad.
-
-5\. Aspecto psicológico
------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-6-1024x683.jpg)
-
-Hay piezas de tela que se colocan también a manera de hombreras como en esta chaqueta. Foto: Pinterest
-
-Los aspectos antes mencionado saltaron a la ropa femenina tanto con el propósito práctico de soporte y estructura de la ropa como con una función simbólica. [Isabel Avilés](https://www.instagram.com/isavilesuio/?hl=es "https://www.instagram.com/isavilesuio/?hl=es"), estratega ecuatoriana de marcas de moda, dice que las hombreras no solo son estéticas; también influyen en cómo nos percibimos y nos proyectamos. “Te hacen sentir con más porte, más intelectual”, dice, lo que resalta su carga simbólica.
-
-6\. Un símbolo aspiracional
----------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/hombreras-El-comercio-2-1024x683.jpg)
-
-Los blazer son la prenda por excelencia que se construye con hombreras para favorecer su estructura. Fotos: Pinterest
-
-Las hombreras son un símbolo de aspiración. Recuerdan el _power suit_ femenino de épocas pasadas y su rol en promover la igualdad de géneros a través de la moda.
-
-El _power suit_ es un conjunto de ropa, generalmente un traje, que se asocia con la imagen de autoridad y empoderamiento, especialmente en el contexto profesional.
-
-Este estilo se popularizó en las décadas de 1980 y 1990 y se convirtió en un símbolo de éxito y confianza, particularmente entre las mujeres en el ámbito laboral.
-
-Ellas buscaban ser tomadas en serio tanto como los hombres en el aspecto profesional, de ahí que veamos estas piezas sobre todo en **ropa de oficina**. En conclusión, **la ropa también empodera**.
-
-Congestión vehicular en av. Simón Bolívar por limpieza de taludes
-=================================================================
-
-Trabajadores de la Empresa Pública Metropolitana de Movilidad y Obras Públicas (Epmmop) realizan la limpieza de los taludes en la avenida Simón Bolívar, sentido Quito - valle.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El trabajo está previsto realizarlo durante estos tres días. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/obras-quito-1.jpg)
-
-Trabajadores de la **Empresa Pública Metropolitana de Movilidad y Obras Públicas de Quito** (Epmmop) limpian los taludes en la avenida Simón Bolívar, sentido **Quito – valle**. Allí se retira árboles, maleza y ceniza generada por los **incendios** forestales de hace unas pocas semanas. Las **obras se programaron** para este feriado por la Independencia de **Guayaquil**, del 11 al 13 de octubre del 2024.
-
-### Más noticias
-
-* [Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-choque-heridos-quito-ruminahui-monjas.html "Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito")
-* [Cierre en la av. Simón Bolívar se ejecuta por incendio forestal](https://www.elcomercio.com/actualidad/quito/cierre-simon-bolivar-incendio.html "Cierre en la av. Simón Bolívar se ejecuta por incendio forestal")
-* [Av. Simón Bolívar, cerrada debido a choque múltiple en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-debido-a-choque-multiple-en-quito.html "Av. Simón Bolívar, cerrada debido a choque múltiple en Quito")
-
-Los trabajos ocasionaron gran congestión vehicular en esta vía. Hasta la tarde de este sábado 12 de octubre, los obreros continuaban las labores de limpieza.
-
-Las tareas se realizan exactamente en el sector del redondel **El Cóndor**, sentido norte – sur, entre las avenidas **Simón Bolívar** y **Oswaldo Guayasamín**.
-
-> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> 📍 Sector: Redondel El Cóndor  
-> 🚧 Cierre: av. Simón Bolívar y av. Oswaldo Guayasamín  
-> 🛣️ Carriles cerrados: todos en sentido norte-sur.  
-> 💥Motivo: trabajos de limpieza por los incendios.  
->   
-> 👆🏼 Con precaución y atención en las vías ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/jPLAqqRqmX](https://t.co/jPLAqqRqmX)
-> 
-> — AMTQuito (@AMT\_Quito) [October 12, 2024](https://twitter.com/AMT_Quito/status/1845086345447772425?ref_src=twsrc%5Etfw)
-
-**Patricia Carrillo**, directora Metropolitana de Gestión de Riesgos del Municipio de Quito, informó que posterior a los incendios forestales se efectuó una evaluación de las condiciones de los taludes en este sector y se “identificó que existe una capa vegetal que acumula ceniza, rocas sueltas, restos de árboles y también, una parte de un material de arrastre que se quedó sin protección cuando se quemaron los árboles. Las lluvias podrían hacer que este material se desprenda, causando problemas a los transeúntes y a los vehículos”.
-
-Está previsto que los trabajo se realicen durante los tres días de feriado, aprovechando que el flujo de vehículos baja considerablemente en los días de descanso. Pero puede ampliarse dependiendo de las condiciones climáticas, agregó.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/4202bc80-32f8-4dcb-8ec0-fd56fba28e63-768x1024.jpeg)
-
-Así quedaron los taludes circundantes en la Av. Simón Bolívar, luego de la limpieza efectuada este sábado 12 de octubre de 2024. Foto: Cortesía
-
-Spin-off de The Big Bang Theory avanza con tres actores originales
-==================================================================
-
-El spin-off de Big Bang Theory comienza a tomar forma con tres actores originales firmando contratos de exclusividad.
----------------------------------------------------------------------------------------------------------------------
-
-![The Big Bang Theory está a punto de tener una serie derivada o spin-off.](https://www.elcomercio.com/wp-content/uploads/2024/10/Spin-off-the-Big-Bang-Theory.jpg)
-
-Desde que **_The Big Bang Theory_** culminó en 2019 como una de las comedias más exitosas de la televisión, los fanáticos han especulado sobre posibles continuaciones. El anuncio de un **spin-off** por parte de Warner Bros Television en abril de 2023 generó gran expectativa, aunque los detalles sobre la trama y el elenco permanecían en el aire[.](https://es.wikipedia.org/wiki/The_Big_Bang_Theory "https://es.wikipedia.org/wiki/The_Big_Bang_Theory")
-
-### Más noticias
-
-* [Murió actor de la serie ‘The Big Bang Theory’ a los 94 años](https://www.elcomercio.com/tendencias/bob-newhart-the-big-bang-theory.html "https://www.elcomercio.com/tendencias/bob-newhart-the-big-bang-theory.html")
-* [¿Cómo se enteró el elenco de ‘The Big Bang Theory’ del final de la serie?](https://www.elcomercio.com/tendencias/cartelera/elenco-big-bang-theory-final-serie.html "https://www.elcomercio.com/tendencias/cartelera/elenco-big-bang-theory-final-serie.html")
-
-Se viene el Spin-off de The Big Bang Theory
--------------------------------------------
-
-_The Big Bang Theory_ es una de las **series más icónicas** de la televisión contemporánea, tanto por su duración de 12 temporadas como por el impacto cultural que generó.
-
-Estrenada en 2007 y finalizada en 2019, la comedia narra la vida de un **grupo de amigos científicos** y sus relaciones personales, sociales y profesionales, abordando temas como la física, las matemáticas, la cultura geek y las dinámicas sociales entre los personajes.
-
-Humanizar a los científicos
----------------------------
-
-Los protagonistas principales, **Sheldon**, Leonard, Raj y Howard, representan **estereotipos** del científico “nerd”, pero la serie logra humanizarlos y conectar con una **audiencia más amplia**.
-
-Uno de los aspectos más destacados de **_The Big Bang Theory_** fue su capacidad para popularizar la ciencia y la cultura **geek**. A través de sus diálogos ingeniosos y referencias a conceptos científicos complejos, logró introducir estos temas en la **cultura popular** de una manera accesible y entretenida.
-
-Además, figuras reconocidas del ámbito científico, como **Stephen Hawking y Neil deGrasse Tyson**, aparecieron como invitados en varios episodios, lo que reforzó el vínculo de la serie con la ciencia real.
-
-Desarrollo de los personajes
-----------------------------
-
-Otro aspecto importante es el desarrollo de los personajes, especialmente el de **Sheldon Cooper**, quien se convirtió en uno de los personajes más queridos y complejos de la televisión. Su **evolución emocional** y social a lo largo de la serie, así como la forma en que el grupo de amigos va cambiando y creciendo, fue un factor clave en el éxito de la producción.
-
-En términos de impacto cultural, la serie ayudó a **desestigmatizar** los estereotipos sobre los “**nerds**” y “geeks”, demostrando que estos pueden ser **personajes entrañables**, inteligentes y con vidas interesantes.
-
-_The Big Bang Theory_ no solo fue una c**omedia de situación**, sino un fenómeno cultural que reflejó y, en muchos sentidos, modificó la percepción de la ciencia y la tecnología en el **entretenimiento** mainstream.
-
-El spin off tiene actores originales de la serie
-------------------------------------------------
-
-La participación de tres personajes secundarios icónicos de **_The Big Bang Theory_ sugiere que el spin-off** continuará explorando el **universo de la serie original**, manteniendo su esencia mientras introduce nuevas historias y desafíos para los personajes.
-
-La nueva serie derivada de _The Big Bang Theory_ está en desarrollo, con **tres actores del elenco original** confirmados para protagonizarla. Kevin Sussman, Brian Posehn y Lauren Lapkus han **firmado contratos de exclusividad con Warner Bros Television**, lo que da indicios de que el proyecto, bajo la dirección de Chuck Lorre, está avanzando.
-
-Ahora, con la firma de Kevin Sussman (Stuart), Brian Posehn (Bert) y Lauren Lapkus (Denise), los rumores sobre una **trama centrada en la tienda de cómics** y sus excéntricos personajes comienzan a cobrar fuerza.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-26-1024x683.jpg)
-
-Kevin Sussman (centro) interpreta a Stuart, en The Big Bang Theory. Foto: Captura de video.
-
-El chico de los cómics
-----------------------
-
-El personaje de Stuart Bloom, interpretado por Sussman, fue introducido en la segunda temporada de **_The Big Bang Theory_** como el dueño de una tienda de cómics que rápidamente se convirtió en un **favorito** entre los seguidores.
-
-A lo largo de las temporadas, su relación con Denise (Lauren Lapkus) y su interacción con Bert (Brian Posehn), un geólogo **aficionado a la guitarra**, formaron parte de varias tramas cómicas. Esta dinámica podría ser el eje central de la nueva serie, que mantendría el tono de humor característico de **Chuck Lorre.**
-
-A pesar del avance en las negociaciones con los actores, el proyecto aún se encuentra en las **etapas iniciales.** Según fuentes cercanas, el guion está en proceso de desarrollo.
-
-16 binomios presidenciales tienen posturas aún dispersas para elecciones 2025
-=============================================================================
-
-El CNE evalúa las candidaturas de los binomios presidenciales para las elecciones 2025.
----------------------------------------------------------------------------------------
-
-![Las votaciones generales serán el 9 de febrero de 2025.](https://www.elcomercio.com/wp-content/uploads/2024/10/binomios-analisis.jpg)
-
-El camino hacia las **elecciones 2025** avanza con **16 binomios** calificados por el **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)**. El organismo sigue con las evaluaciones de las candidaturas para conocer el listado final[.](https://es.wikipedia.org/wiki/Ecuador)
-
-En los comicios del 9 de febrero, los ecuatorianos elegirán titulares para la **Presidencia y Vicepresidencia**. Pero, ¿a qué le apuntan las duplas que buscan dirigir a Ecuador?
-
-### Más noticias
-
-* [Seis binomios en firme para las elecciones 2025, ¿cuál es el proceso?](https://www.elcomercio.com/elecciones/seis-binomios-en-firme-para-las-elecciones-2025-cual-es-el-proceso.html "Seis binomios en firme para las elecciones 2025, ¿cuál es el proceso?")
-* [CNE abre nueva etapa para ser observador en las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-abre-nueva-etapa-para-observador-elecciones-2025.html "CNE abre nueva etapa para ser observador en las elecciones 2025")
-* [Elecciones de 2025, impugnaciones y ajustes finales antes de la campaña electoral](https://www.elcomercio.com/actualidad/politica/elecciones-de-2025-impugnaciones-y-ajustes-finales-antes-de-la-campana-electoral.html "Elecciones de 2025, impugnaciones y ajustes finales antes de la campaña electoral")
-* [Segunda vuelta electoral para las elecciones de 2025, ¿en qué casos se realiza?](https://www.elcomercio.com/actualidad/politica/en-que-casos-se-realiza-segunda-vuelta-electoral.html "Segunda vuelta electoral para las elecciones de 2025, ¿en qué casos se realiza?")
-
-Elecciones 2025 y binomios presidenciales
------------------------------------------
-
-La **inseguridad** y el empleo están entre los temas cruciales que deberá enfrentar el equipo ganador. A estos se suma una **crisis energética** sin una salida inmediata a la vista.
-
-Sin embargo, todavía las directrices de los **postulantes** no son claras. Hasta la mañana del jueves, 10 de octubre, siete binomios ya constaban con candidaturas en firme.
-
-Es decir, ya tienen asegurado un puesto en las elecciones. Claro que el **Pleno** del organismo sigue evaluando las postulaciones.
-
-La lista definitiva, que incluye aspirantes a la **Asamblea Nacional** y al **Parlamento Andino**, se conocerá el 30 de diciembre de 2024.
-
-Las posturas y los análisis
----------------------------
-
-**Arturo Moscoso**, catedrático de Ciencias Políticas y Relaciones Internacional, aludió a que, si bien aún no se puede hacer una interiorización a las líneas discursivas, se puede intuir cuál será la línea transversal: el ataque al actual presidente y candidato, **Daniel Noboa**.
-
-La actual **crisis energética**, sin duda, es uno de los motores para enganchar los cuestionamientos. También está la inseguridad, la violencia y la necesidad de empleo.
-
-**Moscoso** sostuvo que se puede, en vista de que no hay partidos ideológicos ni programáticos en Ecuador, no se podría anticipar una línea discursiva.
-
-No obstante, en casos como el binomio de la **Revolución Ciudadana**, con **Luisa González y Diego Borja**, el experto habló de que la proclama de “antes estábamos mejor” podría repetirse. Esto, aun cuando en las elecciones de 2023, no dio resultados ganadores.
-
-En ese año, durante las elecciones anticipadas, **Luisa González** perdió la contienda contra **Daniel Noboa**. Esto luego de que el expresidente Guillermo Lasso definió la muerte cruzada.
-
-Binomios que están en curso
----------------------------
-
-* **Jimmy Jairala y Lucía Vallecilla**, Movimiento Centro Democrático (CD), lista 1.
-* **Jorge Escala y Pacha Terán**, Partido Unidad Popular (UP), lista 2.
-* **Andrea González y Galo Moncayo**, Partido Sociedad Patriótica (PSE), lista 3.
-* **Víctor Araus y Cristina Carrera**, Movimiento Pueblo, Igualdad y Democracia (PID), lista 4.
-* **Luisa González y Diego Borja**, Movimiento de la Revolución Ciudadana (RC), lista 5.
-* **Henry Kronfle Kozhaya y Dallyana Passailaigue**, Partido Social Cristiano (PSC), lista 6.
-* **Daniel Noboa y María José Pinto**, Movimiento Acción Democrática Nacional (ADN), lista 7.
-* **Luis Felipe Tillería y Karla Rosero**, Partido Avanza, lista 8.
-* **Carlos Rabascall y Alejandra Rivas**, Partido Izquierda Democrática, lista 12.
-* **Juan Iván Cueva con Cristina Reyes**, Movimiento Amigo, lista 16.
-* **Pedro Granja y Verónica Silva**, Partido Socialista Ecuatoriano (PSE), lista 17.
-* **Leonidas Iza Salazar y Katiuska Molina**, Movimiento Pachakutik, lista 18.
-* **Iván Saquicela y María Luisa Coello**, Movimiento Democracia Sí, lista 20.
-* **Francesco Tabacchi y Blanca Saquicela**, Movimiento Creando Oportunidades (CREO), lista 21.
-* **Jan Topic y Mishelle Calvache**, Partido Sociedad Unida Más Acción (SUMA), lista 23.
-* **Henry Cucalón y Carla Larrea**, Movimiento Construye, lista 25.
-
-La perspectiva sobre las duplas
--------------------------------
-
-**Francisco Rocha**, analista político, aludió a que, al menos, un 80% de duplas no cuenta con una línea discursiva definida. Del Presidente y candidato, claro, se pueden conocer detalles con base en la gestión actual.
-
-Por otro lado, remarcó Rocha, está la **Revolución Ciudadana**, que una vez más busca estar en las finales. A la par, “hay otros que no logramos descubrir por qué son candidatos”.
-
-Están, a su vez, aquellos que ocuparían una candidatura para lograr mantener el membrete del **partido o movimiento político**. Esto debido a que la norma electoral exige la participación para no desaparecer.
-
-El Analista no descarta que haya **candidatos** con la intencionalidad de ayudar a otro postulante, intentando dividir aún más los votos.
-
-Candidatos en firme y el fondo electoral
-----------------------------------------
-
-El Pleno del **CNE**, el 5 de abril de 2024, aprobó el presupuesto para el desarrollo de las elecciones generales de 2025. Este corresponde a 91 707 668,72 dólares.
-
-En la consulta popular y refrendo de abril de 2024, el presupuesto fue de **60 022 933,86 dólares**.
-
-Para el **Fondo de Promoción Electoral** se contempla una proyección por un monto de **13 760 259,81** dólares. Los rubros fijos para los partidos políticos y movimientos se definirán, justamente, una vez que se conozcan las candidaturas en firme.
-
-> 💡 [#PagaTusMultasEnLínea](https://twitter.com/hashtag/PagaTusMultasEnL%C3%ADnea?src=hash&ref_src=twsrc%5Etfw) 💻  
->   
-> También puedes hacerlo de manera presencial 📍a través de depósito en Bancos y Cooperativas a 🇪🇨 escala nacional, comercios minoristas y entidades aliadas a [@FacilitoRed](https://twitter.com/FacilitoRed?ref_src=twsrc%5Etfw). ⬇️[#ServiciosEnLíneaCNE](https://twitter.com/hashtag/ServiciosEnL%C3%ADneaCNE?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/BPGdybkxJw](https://t.co/BPGdybkxJw)
-> 
-> — cnegobec (@cnegobec) [October 10, 2024](https://twitter.com/cnegobec/status/1844393189324808505?ref_src=twsrc%5Etfw)
-
-Cálculos para la campaña
-------------------------
-
-La normativa electoral establece que el cálculo del gasto electoral se realiza según el número de electores. Para las elecciones 2025 son 13 736 314.
-
-* **Binomio presidencial:** 5 494 525,60 dólares, que corresponde a 40 centavos por el número de electores.
-* **Parlamentarios andinos:** 137 363,14 dólares y son 10 centavos.
-* **Asambleístas nacionales:** 4 120 894,20 y son 30 centavos.  
-* **Asambleístas provinciales:** 30 centavos por electores según la jurisdicción.  
-* **Asambleístas del exterior:** 60 centavos según la circunscripción.    
-
-El gasto electoral y el **Fondo de Promoción Electoral** son dos montos diferentes. El primero se refiere a lo que cada partido político y movimiento destina de recursos propios o autogestionados.
-
-El **Fondo de Promoción Electoral**, en cambio, es el que destina el Estado, a través del **CNE**, para gastos en radio, prensa escrita, televisión y medios digitales, así como en vallas publicitarias.
-
-El cambio climático ha impulsado a los huracanes Helene y Milton
-================================================================
-
-Tanto el huracán Milton como su predecesor Helene, son potenciados por el calor incrementado por el cambio climático.
----------------------------------------------------------------------------------------------------------------------
-
-![Una mujer camina por una calle inundada tras el huracán Milton en Bradenton, Florida, EE.UU., el 10 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/c5b7023860c9691f77a975d391bc121586eb56f7.jpg)
-
-Tanto el **huracán** **Milton**, que causó grandes destrozos en la península de la Florida, en el sureste de Estados Unidos, como su predecesor Helene, son potenciados por el calor incrementado por el **cambio climático**, según la Organización Meteorológica Mundial (OMM)[.](https://es.wikipedia.org/wiki/Hurac%C3%A1n_Milton "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Milton")
-
-Más noticias
-------------
-
-* [Las muertes por el huracán Milton subieron en la Florida](https://www.elcomercio.com/actualidad/mundo/muertes-huracan-milton-subieron-florida.html "Las muertes por el huracán Milton subieron en la Florida")
-* [Disney World en Orlando y las secuelas del huracán Milton](https://www.elcomercio.com/actualidad/mundo/walt-disney-world-resort-en-orlando-secuelas-huracan-milton.html "Disney World en Orlando y las secuelas del huracán Milton")
-
-Milton y el cambio climático
-----------------------------
-
-Un boletín de la **OMM** destacó que “el calor del océano en el golfo de México juega un papel importante, ya que las temperaturas cálidas de la superficie del mar proporcionan la **energía** **necesaria** para que los **huracanes** se intensifiquen”.
-
-“Cuanto más profundas sean las aguas más **cálidas**, más energía puede absorber una tormenta”, recordó la entidad.
-
-Milton fue categoría 5
-----------------------
-
-Milton, que alcanzó velozmente la **categoría 5**, la mayor en la escala Saffir-Simpson, se degradó al nivel 4 este martes 8, pero aun así avanzaba con vientos de 250 kilómetros por hora hacia las costas del centro de **Florida** sobre el **golfo de México**.
-
-En su avance, aunque el ojo del huracán no tocó la península de **Yucatán** en el sureste de México, sus coletazos en forma de fuertes lluvias y holas de varios metros sí se sentirán en esas áreas, colocadas en estado de alerta por las autoridades.
-
-[![](https://ipsnoticias.net/wp-content/uploads/2024/10/Milton-martes-Noaa.jpg)](https://ipsnoticias.net/wp-content/uploads/2024/10/Milton-martes-Noaa.jpg)
-
-  
-El huracán Milton provocó que millones de personas buscan refugio en previsión de los fuertes vientos y precipitaciones. Como su predecesor Helene, este huracán se ha fortalecido con las aguas calentadas por el cambio climático. Imagen: Noaa
-
-La huida a causa de Milton
---------------------------
-
-En Tampa y otras ciudades del centro-oeste de **Florida** se vivió una masiva estampida que congestionaba las autopistas tras instrucciones de las autoridades para que millones de personas dejasen sus hogares, cerrasen viviendas, comercios y buscasen refugio en el extremo sur de la península o en las ciudades al norte de ella.
-
-El Centro Nacional de Huracanes de Estados Unidos mantuvo la alerta máxima e indicó que Milton fue“ un huracán extremadamente peligroso”,.
-
-Dos huracanes en seguidilla
----------------------------
-
-El sureste de Estados Unidos aún no se recupera del **huracán Helene**, que hace menos de dos semanas azotó la región, provocó la **muerte de al menos 230 personas** y causó inundaciones y cuantiosos daños materiales.
-
-Helene “fue e**xtremadamente anómalo**, ya que provocó sus impactos más graves mucho después de tocar tierra, produciendo inundaciones sin precedentes”, dijo Flavio Pons, del instituto francés Pierre-Simon Laplace, dedicado a la investigación en **ciencias atmosféricas y oceánicas**.
-
-El calentamiento global
------------------------
-
-“Es probable que las precipitaciones se vieran incrementadas por el calentamiento global. En particular, el excepcionalmente cálido golfo de **México** probablemente impulsó tanto la rápida intensificación de Helene como el río atmosférico que finalmente provocó las **precipitaciones** históricas”, dijo Pons.
-
-Citando fuentes de la estadounidense Administración Nacional Oceaánica y Atmosférica (Noaa), la OMM dijo que en el caso de **Milton** este se intensificó a un ritmo explosivo, algo cada vez más habitual, como se vio con el huracán Beryl en julio pasado. Fue **la tercera intensificación más rápida** en la cuenca del Atlántico.
-
-Tres huracanes
---------------
-
-Actualmente, hay tres huracanes en el Atlántico: **Milton, Leslie y Kirk**, lo que se considera excepcional para un mes de octubre.
-
-Kirk es actualmente un huracán de categoría 1, pero se debilitará y se convertirá en un ex ciclón tropical cuando llegue a Europa el miércoles 9.
-
-Los principales impactos se producirán en Francia. **Météo-France prevé que Kirk** será una tormenta peligrosa, con ráfagas de viento de hasta 110 kilómetros por hora en la costa y hasta 90 kph en el interior, y fuertes lluvias, desde la región del Loira hasta la región de Lorena, incluida la zona de París.
-
-Sebastián Beccacece volvió a respaldar a Kendry Páez
-====================================================
-
-Sebastián Beccacece tendrá ante Uruguay su segundo partido con la Selección de Ecuador fuera de casa.
------------------------------------------------------------------------------------------------------
-
-![Kendry Páez con la Selección de Ecuador en el Rodrigo Paz Delgado ante Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/paez_becca_1.jpg)
-
-Sebastián Beccacece, entrenador de la **Selección de Ecuador,** compareció este sábado 12 de octubre de 2024 ante los medios de comunicación en la Casa de la Selección en Quito.
-
-La rueda de prensa entre **Sebastián Beccacece y los medios de comunicación** se da en la previa del viaje de la Selección de Ecuador a Montevideo, donde el martes 15 se medirá contra Uruguay en el mítico estadio Centenario.
-
-### Más noticias:
-
-* [¿Qué jugadores de Ecuador se reencontraron con Alfaro?](https://www.elcomercio.com/deportes/seleccion-ecuador-gustavo-alfaro-reencuetro.html "¿Qué jugadores de Ecuador se reencontraron con Alfaro?")
-* [¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/como-fue-el-regreso-de-leonardo-campana-a-la-seleccion-de-ecuador.html "¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?")
-* [Glenda Morejón, medallista olímpica en París 2024, se casó](https://www.elcomercio.com/deportes/glenda-morejon-medallista-olimpica-en-paris-2024-se-caso.html "Glenda Morejón, medallista olímpica en París 2024, se casó")
-
-Con su habitual tranquilidad y amplitud a la hora de responder las preguntas de los medios de comunicación, Beccacece volvió a ratificar que la Tri “mereció” ganar el partido ante Paraguay el pasado jueves 10 en el Rodrigo Paz Delgado.
-
-“Fuimos superiores. **Si una de las ocho opciones que tuvimos entraba**, en este momento estaríamos hablando de otra cosa y tuviéramos tres puntos más”, dijo el argentino que fue nombrado como entrenador del equipo nacional en agosto en reemplazo del español Félix Sánchez.
-
-Consultado sobre el presente futbolístico de Kendry Páez, el en**trenador argentino destacó el compromiso que el futbolista de Independiente del Valle** muestra en la preparación previa a los juegos de la Selección.
-
-“Veo un niño muy feliz. **Es el que más corrió en los entrenamientos**. Trabaja con mucha pasión, mucha energía, con mucho ánimo y está relacionándose muy bien con sus compañeros”, agregó.
-
-“Acá se lo trata como uno mas, no se siente sobre observado. **Creo que puede mejorar su rendimiento** porque lo he visto hacer cosas muy buenas y se lo he dicho. Necesitamos que en su día a día tenga la continuidad que tiene con nosotros”, explicó el DT.
-
-Finalmente, mencionó que a Páez le hará “**muy bien salir” del país para integrarse al Chelsea de Inglaterra**, club al que llegará en junio de 2025, una vez que cumpla la mayoría de edad.
-
-“No veo la hora de que salga de acá. Me gustaría que esté afuera jugando”, enfatizó ‘Becca’.
-
-John Yeboah es la única duda
-----------------------------
-
-Beccacece adelantó que la única duda que **tiene para enfrentar a la ‘Celeste’ es John Yeboah**, que arrastra ciertas molestias físicas que le han impedido estar al 100% de sus condiciones en esta doble fecha de eliminatorias.
-
-“Yeboah la única duda que tenemos. **Desde junio hasta hoy solo jugó 118 minutos** y la mitad fueron en la Selección. No tenía club y no hizo pretemporada”, explicó sobre el deportista nacido en Alemania.
-
-Agregó que pasar del fútbol de Polonia al de Italia, **le significa a Yeboah tener una “mayor exigencia”** y un proceso de adaptación a la nueva forma de entrenamientos y a lo que le pide su entrenador.
-
-Desglosó que solo jugó 40 minutos desde que llegó al Venezia, **pero que su convocatorias se debe a las “condiciones naturales”** que tiene y con las que le puede dar a la Tri otra opción en el ataque y generar peligro cerca del área rival.
-
-“No está en condiciones naturales de afrontar una exigencia tan pareja. **Tiene que entrenarse mejor, adaptarse a la liga** que llego y también a las exigencias de jugar unas eliminatorias sudamericanas. Esperemos que en noviembre esté mejor”, concluyó.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/paez_becca_2-1024x683.jpg)
-
-Foto: API.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Miembros de las juntas para elecciones 2025 tienen obligaciones y límites
-=========================================================================
-
-Los miembros de las juntas receptoras del voto tienen lineamientos fijos para las elecciones 2025.
---------------------------------------------------------------------------------------------------
-
-![En la consulta popular de 2024 se incluyeron 11 preguntas.](https://www.elcomercio.com/wp-content/uploads/2024/10/juntas-receptoras-del-voto-2.jpg)
-
-Los miembros de las **juntas receptoras del voto** para las **elecciones 2025** en Ecuador recibirán una notificación presencial o vía correo electrónico[.](https://es.wikipedia.org/wiki/Ecuador)
-
-Quienes tengan que estar en los distintos recintos recibirán la información del **18 de noviembre de este 2024 hasta el 25 de enero**.
-
-### Más noticias
-
-* [Seis binomios en firme para las elecciones 2025, ¿cuál es el proceso?](https://www.elcomercio.com/elecciones/seis-binomios-en-firme-para-las-elecciones-2025-cual-es-el-proceso.html "Seis binomios en firme para las elecciones 2025, ¿cuál es el proceso?")
-* [Aumentan binomios calificados para las elecciones 2025](https://www.elcomercio.com/actualidad/aumentan-binomios-calificados-cne-elecciones-2025.html "Aumentan binomios calificados para las elecciones 2025")
-* [¿Quiénes se salvan de integrar una junta receptora del voto?](https://www.elcomercio.com/elecciones/quienes-se-salvan-integrar-junta-receptora-voto.html "¿Quiénes se salvan de integrar una junta receptora del voto?")
-
-> ¡Gracias por acompañarnos! 🤝  
->   
-> Se suspende la Sesión Ordinaria No. 8⃣3⃣ del [#PlenoCNE](https://twitter.com/hashtag/PlenoCNE?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Infórmate de las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) en nuestros canales oficiales. 💻⤵️  
->   
-> 📲 [https://t.co/7jydYZpjVD](https://t.co/7jydYZpjVD) [pic.twitter.com/gauWqUYXYS](https://t.co/gauWqUYXYS)
-> 
-> — cnegobec (@cnegobec) [October 10, 2024](https://twitter.com/cnegobec/status/1844450062044463357?ref_src=twsrc%5Etfw)
-
-Miembros de las juntas en las elecciones 2025
----------------------------------------------
-
-En la consulta popular 2024, el **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)** instaló **41 252 juntas** receptoras del voto, a escala nacional y en el exterior.
-
-El número de electores para los comicios 2025 asciende a 13 736 314. De estos, **13 279 829** se encuentran en el país y **456 485** en el exterior.
-
-La convocatoria a las **elecciones 2025**, emitida por el organismo electoral, establece las directrices para las juntas receptoras del voto y sus integrantes.
-
-Las obligaciones
-----------------
-
-Son obligaciones de las **juntas receptoras del voto** levantar las actas de instalación y de escrutinios. Esta no es la única responsabilidad, se suma entregar al elector las papeletas y el certificado de votación.
-
-* **Efectuar** los escrutinios, una vez concluido el sufragio
-* **Remitir** a la Junta Provincial Electoral y a la Junta Especial del Exterior las urnas, paquetes y sobres que contenga el acta de instalación y la primera de escrutinios, con la protección de la fuerza pública.
-* **Entregar** al coordinador electoral el segundo ejemplar del acta de escrutinio de cada dignidad, en sobres debidamente sellados y firmados por el Presidente y Secretario.
-* **Fijar** el tercer ejemplar del acta de escrutinios en un lugar visible donde funcionó la Junta Receptora del Voto.
-* **Cuidar** que las actas de instalación y de escrutinios lleven las firmas del Presidente y del Secretario, así como los sobres que contengan dichas actas y los paquetes de los votos válidos, blancos y nulos.
-* **Entregar** copia del acta de los resúmenes de resultados a las organizaciones políticas y a las candidatas y candidatos que lo solicitaren o a sus delegados debidamente acreditados.
-* **Impedir** que el día de las elecciones se haga propaganda electoral o proselitismo político en el recinto del sufragio
-* **Vigilar** que el acto electoral se realice con normalidad y orden.
-* **Facilitar** la tarea de los observadores acreditados oficialmente.
-* **Participar**, de manera obligatoria, en las actividades de capacitación programadas por el **CNE** y sus delegaciones electorales.
-
-Las sanciones
--------------
-
-Los lineamientos del **CNE** también contemplan sanciones y hay varias conductas que pueden conllevar estas complicaciones.
-
-* **Con multas** desde 11 salarios básicos unificados hasta 20, destitución y/o suspensión de derechos de participación desde seis meses hasta dos años, a los miembros de las juntas receptoras del voto por abandonar sin justificación el cumplimiento de sus funciones hasta la terminación del escrutinio y la suscripción de los documentos electorales pertinentes. 
-* **Con multa** de tres remuneraciones, los vocales de las juntas receptoras del voto que con su decisión contribuyan a negar el voto de un elector facultado por hacerlo, o que acepten el voto de una persona impedida legalmente para sufragar. 
-* En el caso de no concurrir a integrar las **juntas receptoras del voto**, estando obligados, serán multados con el equivalente al 15% de una remuneración mensual básica unificada. 
-* De incumplimiento de la capacitación, el **CNE** impondrá una multa del valor equivalente al 10% del salario básico, salvo las excepciones establecidas en el **Código de la Democracia**, y en los reglamentos emitidos por el órgano electoral.
-
-Las votaciones generales, luego del voto en casa y de privados de la libertad sin sentencia ejecutoriada, serán el **9 de febrero de 2025**. De haber segunda vuelta, esta se llevará a cabo el 13 de abril.
-
-Los ecuatorianos elegirán titulares de la **Presidencia, Vicepresidencia**, 151 asambleístas y cinco parlamentarios andinos.
-
-El orden definitivo para disfrutar del universo de Shrek
-========================================================
-
-La cuenta oficial de Shrek reveló el orden cronológico para ver todas las películas, series y especiales del universo del ogro verde, que abarca más de dos décadas de aventuras.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Con la llegada de Shrek 5 en 2026, los fanáticos pueden disfrutar de un repaso completo que incluye 14 proyectos. Foto: DreamWorks](https://www.elcomercio.com/wp-content/uploads/2024/10/Shrek1.jpg)
-
-  
-Desde su debut en 2001, **Shrek** se ha convertido en un **fenómeno cultural**, que encanta a millones con su singular **mezcla de humor, aventura y lecciones de vida**. La historia sigue a un **ogro** que solo busca la **paz en su pantano**, pero su vida da un giro inesperado cuando decide rescatar a la princesa **Fiona**, lo que desata una serie de eventos que desafían las convenciones de los **cuentos de hadas**.
-
-### Más noticias
-
-* [Las cinco mejores películas de la semana de Netflix en Ecuador](https://www.elcomercio.com/tendencias/cine/peliculas-netflix-ecuador.html)
-* [Luego de ver ‘La Sustancia’, estas cinco cosas se quedarán en tu cabeza](https://www.elcomercio.com/tendencias/la-sustancia-pelicula.html)
-* [Jessica Jurado, actriz de ‘La Usurpadora’, fallece a los 56 años](https://www.elcomercio.com/afull/jessica-jurado-actriz-de-la-usurpadora-fallece-a-los-56-anos.html)
-
-A medida que la saga se expande, **DreamWorks** ha lanzado múltiples películas, especiales y ‘spin-offs‘ enriquecen este **universo mágico**. Con la llegada de **Shrek 5** en julio de 2026, la nostalgia ha llevado a muchos a preguntarse: ¿cuál es el mejor orden para ver todas estas aventuras? La cuenta oficial de **Shrek en X** (anteriormente Twitter) ha aclarado este dilema, y presenta el **cronograma definitivo** que todo fan debe seguir.
-
-  
-El inicio: El Gato con Botas (2011)
---------------------------------------
-
-  
-Para aquellos que desean conocer el origen de uno de los personajes más carismáticos de la saga, **El Gato con Botas** es el punto de partida ideal. Esta película presenta las épicas aventuras del **astuto felino** en busca redención y tesoros antes de cruzarse con **Shrek**.
-
-  
-La historia central: Shrek (2001)
-------------------------------------
-
-  
-La aventura de **Shrek** comienza aquí. La **película original** establece el tono de la saga. Presenta a un **ogro** que intenta **vivir en soledad**, pero se ve obligado a embarcarse en una misión para **rescatar a Fiona**. Con su ingenioso humor y un elenco de personajes entrañables, esta película se convirtió en un **clásico instantáneo**.
-
-  
-Las secuelas que amplían el mundo: Shrek 2 (2004) y Shrek Tercero (2007)
----------------------------------------------------------------------------
-
-  
-**Shrek 2** lleva a la pareja al reino de **Muy Muy Lejano**, donde enfrentan la complejidad de las **relaciones familiares y culturales**. Aquí se desarrollan temas de **aceptación e identidad**, todo mientras la comedia se mantiene al frente.
-
-Posteriormente, **Shrek Tercero** lleva a Shrek a buscar un heredero. Aquí se introducen nuevos personajes y desafíos que refuerzan el **concepto de familia**.
-
-  
-Cortometrajes y especiales festivos: Shrek: ídolo de Muy Muy Lejano (2004), Shrek Ogrorisa la Navidad (2007), y más
-----------------------------------------------------------------------------------------------------------------------
-
-  
-Estos cortos y especiales ofrecen una **mirada divertida y festiva** a los **personajes de Shrek**. Desde competiciones de canto en Shrek: ídolo de Muy Muy Lejano hasta la caótica celebración navideña en **Shrek Ogrorisa la Navidad**, estos relatos son perfectos para complementar la narrativa principal.
-
-  
-Shrek para siempre (2010) 
------------------------------
-
-  
-**Shrek para siempre** plantea un giro inesperado. Explora lo que significa realmente **ser un ogro feliz**. Además, las historias de Halloween y las aventuras del Gato con Botas no dejan de enriquecer este vasto universo.
-
-Orden completo:
----------------
-
-* El gato con botas (2011)
-
-* Shrek (2001)
-
-* Shrek 2 (2004)
-
-* Shrek: Ídolo de muy muy lejano (2004)
-
-* Shrek Tercero(2007)
-
-* Shrek ogrorisa la Navidad (2007)
-
-* Shrek 4: Para siempre (2010)
-
-* Un relato de Shrek: Asústame si puedes (2010)
-
-* La Shrektacular Navidad de Burro (2010)
-
-* El cerdo que gritó hombre lobo (2011)
-
-* El gato con botas: Los tres diablos (2011)
-
-* El gato con botas: Atrapado en un cuento épico (2017)
-
-* Las aventuras del gato con botas. Temporadas  1-8 (2015-2018)
-
-* El gato con botas: El último deseo (2022)
-
-  
-Expectativas para Shrek 5
-----------------------------
-
-Con el anuncio de **Shrek 5 para 2026**, los fanáticos están ansiosos por ver qué nuevas aventuras esperan a **Shrek y sus amigos**. Se espera que la película mantenga el mismo espíritu de comedia que ha caracterizado a la saga desde sus inicios.
-
-A medida que la **saga de Shrek** continúa creciendo, los aficionados tienen la oportunidad de revivir su infancia y disfrutar de un **mundo lleno de humor, amistad y lecciones valiosas**.
-
-Con este orden de visualización, están listos para disfrutar de cada rincón de la **magia de Shrek** y todo lo que este universo tiene para ofrecer.
