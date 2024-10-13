@@ -63,7 +63,7 @@ Last Updated: September 18, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/59 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/56?api_key=lynw6&callback=koytqp%5C%22koytqp&code=k8xk2&csrf_token=e8seg&emailto=hnmya&enddate=bizch&from=gcbec&jsonp=f8g2e&key=j9nn8&list_type=dns1t&m=ksm8e&month=kqwg4&p=pyt4n&query=uq13t&region=r20t1&terms=ms702&unsubscribe_token=lvsr2&url=ecktg&view=i03yz&year=un0qx "Printer Friendly, PDF & Email")
 
 Cookie Notice
 =============
