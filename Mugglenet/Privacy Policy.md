@@ -292,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Unlocking Charm (Alohomora) is known as “thief’s friend.”
+While filming Harry Potter and the Prisoner of Azkaban, Tom Felton’s Hogwarts robes had their pockets sewn shut because he kept trying to sneak food onto the set.
 
 ### Potter History
 
-February 19, 2008 – Confirmation that David Yates will be directing Harry Potter and the Deathly Hallows is accidentally announced by author Lois Lowry.
+November 12, 2013 – Wonderbook: Book of Potions is released for PlayStation 3 in North America.
 
 ### Potter Quote
 
-“If you went out and got a bit of snogging done yourself, you wouldn’t mind so much that everyone else does it!”
+“She stopped you killing me. And I’ve seen the real you, I saw you last year. You’re a wreck. You’re barely alive. That’s where all your power got you. You’re in hiding. You’re ugly, you’re foul —”
 
 [](#)
 
