@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 13, 2024](https://www.japantimes.co.jp/archive/2024/10/13/ "archive page")
+[October 14, 2024](https://www.japantimes.co.jp/archive/2024/10/14/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -130,17 +130,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[17-year-old girl found dead in Osaka hotel room was strangled](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-  [![A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425274.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.")](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
-
-[Ban on dual nationality is constitutional, Fukuoka High Court rules](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
-
-  [![Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427084.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.")](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
-
-[Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
-
-  [![Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427344.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.")](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
 [Nobel Prize is a warning to a world on the nuclear brink](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel Prize is a warning to a world on the nuclear brink")
 
@@ -150,30 +142,24 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427386.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
 
+[Danish-style 'schools for life' gaining popularity in Japan](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
+
+  [![People engage in discussions during a program of School for Life Compath in Biei, Hokkaido, in August 2021.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427176.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "People engage in discussions during a program of School for Life Compath in Biei, Hokkaido, in August 2021.")](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
+
+[Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-nuclear-deterrance/ "Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says")
+
+  [![Prime Minister Shigeru Ishiba speaks during a debate with other political party leaders at the Japan National Press Club in Tokyo on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427417.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks during a debate with other political party leaders at the Japan National Press Club in Tokyo on Saturday. ")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-nuclear-deterrance/ "Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says")
+
 Editors' Picks
 --------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[17-year-old girl found dead in Osaka hotel room was strangled](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
-
-  [![A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425274.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.")](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Ban on dual nationality is constitutional, Fukuoka High Court rules](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
 By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
 
-  [![Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427084.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.")](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
-
-By [Kanako Takahara](https://www.japantimes.co.jp/author/162/kanako-takahara/ "Kanako Takahara"), [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang") and [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427344.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.")](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -188,6 +174,20 @@ By [Mark Trevelyan](https://www.japantimes.co.jp/author/2842/mark-trevelyan/ "Ma
 [Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
 
   [![Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427386.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Danish-style 'schools for life' gaining popularity in Japan](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
+
+  [![People engage in discussions during a program of School for Life Compath in Biei, Hokkaido, in August 2021.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427176.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "People engage in discussions during a program of School for Life Compath in Biei, Hokkaido, in August 2021.")](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-nuclear-deterrance/ "Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says")
+
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+
+  [![Prime Minister Shigeru Ishiba speaks during a debate with other political party leaders at the Japan National Press Club in Tokyo on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427417.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks during a debate with other political party leaders at the Japan National Press Club in Tokyo on Saturday. ")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-nuclear-deterrance/ "Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says")
 
 Podcast
 -------
@@ -208,9 +208,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -250,25 +250,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Australia commits $64 million to protect against looming bird flu threat](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/ "Australia commits $64 million to protect against looming bird flu threat")
+
+4 hours ago
+
+[Israeli foreign minister reiterates U.N. chief Guterres is persona non grata over Iran stance](https://www.japantimes.co.jp/news/2024/10/13/world/israeli-foreign-minister-deems-guterres-persona-non-grata/ "Israeli foreign minister reiterates U.N. chief Guterres is persona non grata over Iran stance")
+
+4 hours ago
+
+[Secret documents show Hamas tried to persuade Iran to join its Oct. 7 attack](https://www.japantimes.co.jp/news/2024/10/13/world/hamas-iran-october-7-attack/ "Secret documents show Hamas tried to persuade Iran to join its Oct. 7 attack")
+
+5 hours ago
+
 [Taiwan spots Chinese carrier as video says military 'prepared for battle'](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
 
-1 hours ago
+7 hours ago
 
 [Japan's Empress Emerita leaves hospital](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-empress-emerita-michiko-leaves-hospital/ "Japan's Empress Emerita leaves hospital")
 
-3 hours ago
-
-[Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
-
-4 hours ago
-
-[Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-nuclear-deterrance/ "Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says")
-
-4 hours ago
-
-[Ishiba to consider visiting U.S. to meet president-elect, report says](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-visit-us-president-elect/ "Ishiba to consider visiting U.S. to meet president-elect, report says")
-
-4 hours ago
+9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
