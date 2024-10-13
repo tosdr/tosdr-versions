@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Everyone Else Burns. Image shows left to right: Rachel (Amy James-Kelly), Fiona Lewis (Kate O'Flynn), David Lewis (Simon Bird), Aaron (Harry Connor)](https://cdn.comedy.co.uk/images/library/comedies/300x200/e/everyone_else_burns_series2.jpg "Everyone Else Burns. Image shows left to right: Rachel (Amy James-Kelly), Fiona Lewis (Kate O'Flynn), David Lewis (Simon Bird), Aaron (Harry Connor)")](https://www.comedy.co.uk/tv/everyone-else-burns/interviews/series-2-cast-and-writers/) TV
+
+[Everyone Else Burns interview](https://www.comedy.co.uk/tv/everyone-else-burns/interviews/series-2-cast-and-writers/)
+
 [![Anthony Slide](https://cdn.comedy.co.uk/images/library/people/300x200/a/anthony_slide.jpg "Anthony Slide")](https://www.comedy.co.uk/people/anthony-slide/features/anthony-slide-on-writing-about-comedy/) People
 
 [Anthony Slide on writing about the golden era of British comedy](https://www.comedy.co.uk/people/anthony-slide/features/anthony-slide-on-writing-about-comedy/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Henry Rowley. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/people/300x200/h/henry_rowley_c.jpg "Henry Rowley. Credit: Matt Crockett")](https://www.comedy.co.uk/live/features/henry-rowley-interview/) Live
 
 [Henry Rowley talks about heading out on tour](https://www.comedy.co.uk/live/features/henry-rowley-interview/)
-
-[![Carry On Doctor. Nurse Sandra May (Barbara Windsor). Copyright: Peter Rogers Productions](https://cdn.comedy.co.uk/images/library/comedies/300x200/c/carry_on_doctor_sandra.jpg "Carry On Doctor. Nurse Sandra May (Barbara Windsor). Copyright: Peter Rogers Productions")](https://www.comedy.co.uk/quiz/327/) Quiz
-
-[British Comedy Quiz #327](https://www.comedy.co.uk/quiz/327/)
 
 #### Subscribe to our newsletters
 
