@@ -4,10 +4,10 @@
 
 [WhatsApp 331.4799267](https://wa.me/393314799267?text=Gentile%20Dott.%20Tornatola,%20la%20contatto%20per%20concordare%20un%20consulto%20/%20appuntamento.%20Mi%20chiamo%20...%20)
 
-[![Psicologo Roma | Dr. Luca TORNATOLA](https://www.lucatornatola.it/psicologo/wp-content/uploads/2023/06/LOGO-LT-Psicologo.png)](https://www.lucatornatola.it/psicologo/ "Psicologo Psicoterapeuta Roma Dott. Luca Tornatola")
+[![Psicologo Roma | Dr. Luca TORNATOLA](https://www.lucatornatola.it/psicologo/wp-content/uploads/2023/06/LOGO-LT-Psicologo.png)](https://www.lucatornatola.it/psicologo/ "<img width="686" height="104" src="https://www.lucatornatola.it/psicologo/wp-content/uploads/2023/06/LOGO-LT-Psicologo.png" class="skip-lazy" alt="Psicologo Roma | Dr. Luca TORNATOLA" decoding="async" fetchpriority="high" srcset="https://www.lucatornatola.it/psicologo/wp-content/uploads/2023/06/LOGO-LT-Psicologo.png 686w, https://www.lucatornatola.it/psicologo/wp-content/uploads/2023/06/LOGO-LT-Psicologo-300x45.png 300w" sizes="(max-width: 686px) 100vw, 686px" loading="lazy" />")
 
 * [Bio](https://www.lucatornatola.it/psicologo/bio/ "Bio")
-* [Supporto psi](https://www.lucatornatola.it/psicologo/supporto-psicologico/ "Supporto psi")
+* [Supporto psi](https://www.lucatornatola.it/psicologo/supporto-psicologico/ "<span class="menu-item-title-wrap dd-title">Supporto psi</span><div  class="caret-wrap 2"><span class="caret"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg></span></div>")
     * [Percorso psicologico individuale](https://www.lucatornatola.it/psicologo/supporto-psicologico/percorso-terapia-individuale/ "Percorso psicologico individuale")
     * [Percorso per la coppia](https://www.lucatornatola.it/psicologo/supporto-psicologico/terapia-di-coppia/ "Percorso per la coppia")
     * [Percorso per la Famiglia](https://www.lucatornatola.it/psicologo/supporto-psicologico/famiglia-terapia-familiare/ "Percorso per la Famiglia")
@@ -15,7 +15,7 @@
     * [Consulto psicologico](https://www.lucatornatola.it/psicologo/consulto-psicologico-gratuito/ "Consulto psicologico")
     * [Psicologo per adolescenti](https://www.lucatornatola.it/psicologo/per-adolescenti-roma/ "Psicologo per adolescenti")
     * [Terapia di coppia](https://www.lucatornatola.it/psicologo/terapia-di-coppia/ "Terapia di coppia")
-* [Divulgazione](https://www.lucatornatola.it/psicologo/divulgazione-psicologica/ "Divulgazione")
+* [Divulgazione](https://www.lucatornatola.it/psicologo/divulgazione-psicologica/ "<span class="menu-item-title-wrap dd-title">Divulgazione</span><div  class="caret-wrap 10"><span class="caret"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg></span></div>")
     * [Adolescenza](https://www.lucatornatola.it/psicologo/adolescenza/ "Adolescenza")
     * [Coppia](https://www.lucatornatola.it/psicologo/coppia/ "Coppia")
     * [Famiglia](https://www.lucatornatola.it/psicologo/famiglia/ "Famiglia")
@@ -24,14 +24,14 @@
 * [Contatti](https://www.lucatornatola.it/psicologo/roma/ "Contatti")
 * [Prenota](https://www.lucatornatola.it/psicologo/prenota/ "Prenota")
 
-[![Psicologo Roma | Dr. Luca TORNATOLA](https://www.lucatornatola.it/psicologo/wp-content/uploads/2023/06/LOGO-LT-Psicologo.png)](https://www.lucatornatola.it/psicologo/ "Psicologo Psicoterapeuta Roma Dott. Luca Tornatola")
+[![Psicologo Roma | Dr. Luca TORNATOLA](https://www.lucatornatola.it/psicologo/wp-content/uploads/2023/06/LOGO-LT-Psicologo.png)](https://www.lucatornatola.it/psicologo/ "<img width="686" height="104" src="https://www.lucatornatola.it/psicologo/wp-content/uploads/2023/06/LOGO-LT-Psicologo.png" class="skip-lazy" alt="Psicologo Roma | Dr. Luca TORNATOLA" decoding="async" srcset="https://www.lucatornatola.it/psicologo/wp-content/uploads/2023/06/LOGO-LT-Psicologo.png 686w, https://www.lucatornatola.it/psicologo/wp-content/uploads/2023/06/LOGO-LT-Psicologo-300x45.png 300w" sizes="(max-width: 686px) 100vw, 686px" loading="lazy" />")
 
 Navigation Menu
 
 Navigation Menu
 
 * [Bio](https://www.lucatornatola.it/psicologo/bio/ "Bio")
-* [Supporto psi](https://www.lucatornatola.it/psicologo/supporto-psicologico/ "Supporto psi")
+* [Supporto psi](https://www.lucatornatola.it/psicologo/supporto-psicologico/ "<span class="menu-item-title-wrap dd-title">Supporto psi</span><div tabindex="0" class="caret-wrap 2"><span class="caret"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg></span></div>")
     * [Percorso psicologico individuale](https://www.lucatornatola.it/psicologo/supporto-psicologico/percorso-terapia-individuale/ "Percorso psicologico individuale")
     * [Percorso per la coppia](https://www.lucatornatola.it/psicologo/supporto-psicologico/terapia-di-coppia/ "Percorso per la coppia")
     * [Percorso per la Famiglia](https://www.lucatornatola.it/psicologo/supporto-psicologico/famiglia-terapia-familiare/ "Percorso per la Famiglia")
@@ -39,7 +39,7 @@ Navigation Menu
     * [Consulto psicologico](https://www.lucatornatola.it/psicologo/consulto-psicologico-gratuito/ "Consulto psicologico")
     * [Psicologo per adolescenti](https://www.lucatornatola.it/psicologo/per-adolescenti-roma/ "Psicologo per adolescenti")
     * [Terapia di coppia](https://www.lucatornatola.it/psicologo/terapia-di-coppia/ "Terapia di coppia")
-* [Divulgazione](https://www.lucatornatola.it/psicologo/divulgazione-psicologica/ "Divulgazione")
+* [Divulgazione](https://www.lucatornatola.it/psicologo/divulgazione-psicologica/ "<span class="menu-item-title-wrap dd-title">Divulgazione</span><div tabindex="0" class="caret-wrap 10"><span class="caret"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"/></svg></span></div>")
     * [Adolescenza](https://www.lucatornatola.it/psicologo/adolescenza/ "Adolescenza")
     * [Coppia](https://www.lucatornatola.it/psicologo/coppia/ "Coppia")
     * [Famiglia](https://www.lucatornatola.it/psicologo/famiglia/ "Famiglia")
@@ -92,7 +92,7 @@ Inoltre, diversi browser forniscono vari metodi per bloccare e cancellare i cook
 Per saperne di più su come gestire ed eliminare i cookie, visita: wikipedia.org, www.allaboutcookies.org.
 
 [Fissa un appuntamento  
-(anche online)](https://www.lucatornatola.it/psicologo/prenota/ "Fissa un appuntamento
+(anche online)](https://www.lucatornatola.it/psicologo/prenota/ "Fissa un appuntamento<br />
 (anche online)")
 
 * [Informazioni sulla politica dei cookie](#informazioni_sulla_politica_dei_cookie "Informazioni sulla politica dei cookie")
@@ -111,7 +111,7 @@ Convenzioni attive
   
 [![Psicologo a Roma](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Psicologo a Roma")
 
-![Psicologo a Roma](https://www.lucatornatola.it/psicologo/wp-content/uploads/2020/12/LOGO-LT-Psicologo-Roma-bianco-300x45.png "Psicologo a Roma")](https://www.lucatornatola.it/psicologo/ "Psicologo a Roma")
+![Psicologo a Roma](https://www.lucatornatola.it/psicologo/wp-content/uploads/2020/12/LOGO-LT-Psicologo-Roma-bianco-300x45.png "Psicologo a Roma")](https://www.lucatornatola.it/psicologo/ "<picture><source data-srcset="https://www.lucatornatola.it/psicologo/wp-content/uploads/2020/12/LOGO-LT-Psicologo-Roma-bianco-300x45.png.webp" type="image/webp"><img class="opaco90 webpexpress-processed lazyload" title="Psicologo a Roma" data-src="https://www.lucatornatola.it/psicologo/wp-content/uploads/2020/12/LOGO-LT-Psicologo-Roma-bianco-300x45.png" alt="Psicologo a Roma" width="300" height="45" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 300px; --smush-placeholder-aspect-ratio: 300/45;"><noscript><img class="opaco90 webpexpress-processed" title="Psicologo a Roma" src="https://www.lucatornatola.it/psicologo/wp-content/uploads/2020/12/LOGO-LT-Psicologo-Roma-bianco-300x45.png" alt="Psicologo a Roma" width="300" height="45"></noscript></picture>")
 
 Riceve su appuntamento presso i seguenti studi:
 
@@ -129,8 +129,8 @@ Riceve su appuntamento presso i seguenti studi:
 * * *
 
 Per appuntamenti è possibile:  
-\- utilizzare il [**modulo di prenotazione on-line**](https://www.lucatornatola.it/psicologo/prenota/ "modulo di prenotazione on-line")  
-\- inviare un messaggio ([WhatsApp](https://wa.me/393314799267?text=Gentile%20Dott.%20Tornatola,%20la%20contatto%20per%20concordare%20un%20consulto%20/%20appuntamento.) o [Telegram](https://t.me/PsicologoRoma)) al [**331 4799267**](tel:00393314799267 "331 4799267")  
+\- utilizzare il [**modulo di prenotazione on-line**](https://www.lucatornatola.it/psicologo/prenota/ "<strong>modulo di prenotazione on-line</strong>")  
+\- inviare un messaggio ([WhatsApp](https://wa.me/393314799267?text=Gentile%20Dott.%20Tornatola,%20la%20contatto%20per%20concordare%20un%20consulto%20/%20appuntamento.) o [Telegram](https://t.me/PsicologoRoma)) al [**331 4799267**](tel:00393314799267 "<strong>331 4799267</strong>")  
 
 ![Psicologo a Roma](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Psicologo a Roma")
 
