@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/what-are-the-3-stages-of-sepsis/ "What Are the 3 Stages of Sepsis?")
+[![How do you file a lawsuit against a nursing home for abuse or neglect?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect.jpg "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/ "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")
 
-[#### What Are the 3 Stages of Sepsis?](https://www.pintas.com/faq/what-are-the-3-stages-of-sepsis/)
+[#### How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/)
 
-[![Who can i sue for a wrongful death in an assisted living facility?](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility-300x200.jpg "Who Can I Sue for a Wrongful Death in an Assisted Living Facility?")](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility/ "Who Can I Sue for a Wrongful Death in an Assisted Living Facility?")
+[![What are the signs of emotional abuse in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-signs-of-emotional-abuse-in-nursing-homes-scaled.jpg "What Are the Signs of Emotional Abuse in Nursing Homes?")](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/ "What Are the Signs of Emotional Abuse in Nursing Homes?")
 
-[#### Who Can I Sue for a Wrongful Death in an Assisted Living Facility?](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility/)
+[#### What Are the Signs of Emotional Abuse in Nursing Homes?](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/)
 
-[![How do bones break?](https://www.pintas.com/wp-content/uploads/2020/09/broken-bones-how-do-bones-break.jpg "How Do Bones Break?")](https://www.pintas.com/faq/broken-bones/ "How Do Bones Break?")
+[![How are asbestos cases paid out?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-how-are-asbestos-cases-paid-out.jpg "How Are Asbestos Cases Paid Out?")](https://www.pintas.com/practice-areas/lung-cancer/how-are-asbestos-cases-paid-out/ "How Are Asbestos Cases Paid Out?")
 
-[#### How Do Bones Break?](https://www.pintas.com/faq/broken-bones/)
+[#### How Are Asbestos Cases Paid Out?](https://www.pintas.com/practice-areas/lung-cancer/how-are-asbestos-cases-paid-out/)
 
 ### Injured?  
 Tell Us What Happened.
