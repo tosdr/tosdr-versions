@@ -259,14 +259,14 @@ Advertise with Us
 
 Most Popular
 
-[!['Our hearts are broken' - Community in shock after sudden death of toddler as investigation launched](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Our hearts are broken' - Community in shock after sudden death of toddler as investigation launched")](https://www.derrynow.com/news/national-news/1628605/our-hearts-are-broken-community-in-shock-after-sudden-death-of-toddler-as-investigation-launched.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
 
-Sringfield Road, West Belfast (Photo: Google Maps)
+Derry City fans at the Brandywell. Pics by Keith Moore, nwpresspics
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-['Our hearts are broken' - Community in shock after sudden death of toddler as investigation launched](https://www.derrynow.com/news/national-news/1628605/our-hearts-are-broken-community-in-shock-after-sudden-death-of-toddler-as-investigation-launched.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Derry City fans at the Brandywell](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![23-year-old man arrested on suspicion of various drugs related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "23-year-old man arrested on suspicion of various drugs related offences")](https://www.derrynow.com/news/local-news/1628631/23-year-old-man-arrested-on-suspicion-of-various-drugs-related-offences.html)
 
@@ -277,19 +277,35 @@ Police arrested the man in the Glenshane Road area of Derry
 [23-year-old man arrested on suspicion of various drugs related offences](https://www.derrynow.com/news/local-news/1628631/23-year-old-man-arrested-on-suspicion-of-various-drugs-related-offences.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sinn Fein member resigns over claims of sending inappropriate messages to teen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein member resigns over claims of sending inappropriate messages to teen")](https://www.derrynow.com/news/northern-ireland/1628595/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
+[![PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place")](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[GAA](https://www.derrynow.com/section/997/cookie-policy)
 
-[Sinn Fein member resigns over claims of sending inappropriate messages to teen](https://www.derrynow.com/news/northern-ireland/1628595/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sinn Fein member resigns over claims of sending inappropriate messages to teen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein member resigns over claims of sending inappropriate messages to teen")](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
+[![23-year-old man arrested in Derry charged with number of drugs offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "23-year-old man arrested in Derry charged with number of drugs offences")](https://www.derrynow.com/news/local-news/1628933/23-year-old-man-arrested-in-derry-charged-with-number-of-drugs-offences.html)
+
+PSNI
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Sinn Fein member resigns over claims of sending inappropriate messages to teen](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[23-year-old man arrested in Derry charged with number of drugs offences](https://www.derrynow.com/news/local-news/1628933/23-year-old-man-arrested-in-derry-charged-with-number-of-drugs-offences.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1627154/derry-death-notices-sunday-october-13-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, October 13 2024](https://www.derrynow.com/news/deaths/1627154/derry-death-notices-sunday-october-13-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry doctor receives a MRANI Award for his exceptional service to the community](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry doctor receives a MRANI Award for his exceptional service to the community")](https://www.derrynow.com/news/local-news/1625992/derry-doctor-receives-a-mrani-award-for-his-exceptional-service-to-the-community.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry doctor receives a MRANI Award for his exceptional service to the community](https://www.derrynow.com/news/local-news/1625992/derry-doctor-receives-a-mrani-award-for-his-exceptional-service-to-the-community.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Craigbane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Craigbane")](https://www.derrynow.com/news/derry-sport/1628818/craigbane-defeat-ballymaguigan-to-claim-the-joe-brolly-cup-for-the-second-time-in-three-years.html)
 
@@ -300,44 +316,30 @@ Craigbane celebrate their victory at Celtic Park. Pic by Keith Moore, nwpresspic
 [Craigbane defeat Ballymaguigan to claim the Joe Brolly Cup for the second time in three years](https://www.derrynow.com/news/derry-sport/1628818/craigbane-defeat-ballymaguigan-to-claim-the-joe-brolly-cup-for-the-second-time-in-three-years.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Directorial debut for Derry based filmmaker with the release if Kathleen Is Here in theatres](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Directorial debut for Derry based filmmaker with the release if Kathleen Is Here in theatres")](https://www.derrynow.com/news/what-s-on/1625608/directorial-debut-for-derry-based-filmmaker-with-the-release-of-kathleen-is-here-in-theatres.html)
+[![Faughanvale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Faughanvale")](https://www.derrynow.com/news/derry-sport/1629041/faughanvale-come-from-behind-to-make-this-year-s-intermediate-final.html)
 
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
+Faughanvale defeated Drumsurn to make this year's Intermediate final. Pic by George Sweeney, nwpresspics
 
-[Directorial debut for Derry based filmmaker with the release of Kathleen Is Here in theatres](https://www.derrynow.com/news/what-s-on/1625608/directorial-debut-for-derry-based-filmmaker-with-the-release-of-kathleen-is-here-in-theatres.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1627154/derry-death-notices-sunday-october-13-2024.html)
+[Faughanvale come from behind to make this year's Intermediate final](https://www.derrynow.com/news/derry-sport/1629041/faughanvale-come-from-behind-to-make-this-year-s-intermediate-final.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[![Ballymaguigan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballymaguigan")](https://www.derrynow.com/news/derry-sport/1629037/six-the-magic-number-for-new-senior-champions-ballymaguigan.html)
 
-[Derry Death Notices - Sunday, October 13 2024](https://www.derrynow.com/news/deaths/1627154/derry-death-notices-sunday-october-13-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
+The Ballymaguigan team before the game. Pic by Danny O'Kane.
 
-[![Derry Radical Bookfair set to return](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Radical Bookfair set to return")](https://www.derrynow.com/news/local-news/1628604/derry-radical-bookfair-set-to-return.html)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-The Derry Radical Bookfair in Pilots Row Community Centre
+[Six the magic number for new Senior champions Ballymaguigan!](https://www.derrynow.com/news/derry-sport/1629037/six-the-magic-number-for-new-senior-champions-ballymaguigan.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Local News](https://www.derrynow.com/section/975/news)
+[![Shane McGrogan goal sends Newbridge to their first senior final since 1991!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Shane McGrogan goal sends Newbridge to their first senior final since 1991!")](https://www.derrynow.com/news/derry-sport/1629044/shane-mcgrogan-goal-sends-newbridge-to-their-first-senior-final-since-1991.html)
 
-[Derry Radical Bookfair set to return](https://www.derrynow.com/news/local-news/1628604/derry-radical-bookfair-set-to-return.html)
-----------------------------------------------------------------------------------------------------------------------------------
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[![Buildings across Northern Ireland light up blue in support of World Arthritis Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Buildings across Northern Ireland light up blue in support of World Arthritis Day")](https://www.derrynow.com/news/local-news/1627086/buildings-across-northern-ireland-light-up-blue-in-support-of-world-arthritis-day.html)
-
-The Bridewell Tourist Information Centre, Magherafelt 
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Buildings across Northern Ireland light up blue in support of World Arthritis Day](https://www.derrynow.com/news/local-news/1627086/buildings-across-northern-ireland-light-up-blue-in-support-of-world-arthritis-day.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man who allegedly exposed himself to school children released on police bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who allegedly exposed himself to school children released on police bail")](https://www.derrynow.com/news/northern-ireland/1628562/man-who-allegedly-exposed-himself-to-school-children-released-on-police-bail.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Man who allegedly exposed himself to school children released on police bail](https://www.derrynow.com/news/northern-ireland/1628562/man-who-allegedly-exposed-himself-to-school-children-released-on-police-bail.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Shane McGrogan goal sends Newbridge to their first senior final since 1991!](https://www.derrynow.com/news/derry-sport/1629044/shane-mcgrogan-goal-sends-newbridge-to-their-first-senior-final-since-1991.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,53 +519,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1627154/derry-death-notices-sunday-october-13-2024.html)
+[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1629040/john-quigg-on-board-at-institute-as-goals-from-sean-carlin-and-mikhail-kennedy-earn-victory-over-newry.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, October 13 2024](https://www.derrynow.com/news/deaths/1627154/derry-death-notices-sunday-october-13-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Craigbane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Craigbane")](https://www.derrynow.com/news/derry-sport/1628818/craigbane-defeat-ballymaguigan-to-claim-the-joe-brolly-cup-for-the-second-time-in-three-years.html)
-
-Craigbane celebrate their victory at Celtic Park. Pic by Keith Moore, nwpresspics
+Mikhail Kennedy leads the Institute team out. Pic by Keith Moore/ nwpresspics
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Craigbane defeat Ballymaguigan to claim the Joe Brolly Cup for the second time in three years](https://www.derrynow.com/news/derry-sport/1628818/craigbane-defeat-ballymaguigan-to-claim-the-joe-brolly-cup-for-the-second-time-in-three-years.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[John Quigg on board at Institute as goals from Sean Carlin and Mikhail Kennedy earn victory over Newry](https://www.derrynow.com/news/derry-sport/1629040/john-quigg-on-board-at-institute-as-goals-from-sean-carlin-and-mikhail-kennedy-earn-victory-over-newry.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![MacD on Music: Employee of the Month](https://www.derrynow.com/resizer/165/93/true/2024_10_10/In_consequence_-_Front_cover_-_For_metadata-1728574317101_1728574592.jpg--.jpg?1728574592201 "MacD on Music: Employee of the Month")](https://www.derrynow.com/news/what-s-on/1627156/macd-on-music-employee-of-the-month.html)
+[![Shane McGrogan goal sends Newbridge to their first senior final since 1991!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Shane McGrogan goal sends Newbridge to their first senior final since 1991!")](https://www.derrynow.com/news/derry-sport/1629044/shane-mcgrogan-goal-sends-newbridge-to-their-first-senior-final-since-1991.html)
 
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[MacD on Music: Employee of the Month](https://www.derrynow.com/news/what-s-on/1627156/macd-on-music-employee-of-the-month.html)
---------------------------------------------------------------------------------------------------------------------------------
+[Shane McGrogan goal sends Newbridge to their first senior final since 1991!](https://www.derrynow.com/news/derry-sport/1629044/shane-mcgrogan-goal-sends-newbridge-to-their-first-senior-final-since-1991.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![23-year-old man arrested on suspicion of various drugs related offences](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "23-year-old man arrested on suspicion of various drugs related offences")](https://www.derrynow.com/news/local-news/1628631/23-year-old-man-arrested-on-suspicion-of-various-drugs-related-offences.html)
+[![Faughanvale](https://www.derrynow.com/resizer/165/93/true/2024_10_13/Drumsurn_v_Faughanvale_3__-1728820393648.jpg--.jpg?1728820393796 "Faughanvale")](https://www.derrynow.com/news/derry-sport/1629041/faughanvale-come-from-behind-to-make-this-year-s-intermediate-final.html)
 
-Police arrested the man in the Glenshane Road area of Derry
+Faughanvale defeated Drumsurn to make this year's Intermediate final. Pic by George Sweeney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Faughanvale come from behind to make this year's Intermediate final](https://www.derrynow.com/news/derry-sport/1629041/faughanvale-come-from-behind-to-make-this-year-s-intermediate-final.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ballymaguigan](https://www.derrynow.com/resizer/165/93/true/2024_10_13/Derry_LGFA_Senior_Final_2024-16-1728819892378.jpg--.jpg?1728819893788 "Ballymaguigan")](https://www.derrynow.com/news/derry-sport/1629037/six-the-magic-number-for-new-senior-champions-ballymaguigan.html)
+
+The Ballymaguigan team before the game. Pic by Danny O'Kane.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Six the magic number for new Senior champions Ballymaguigan!](https://www.derrynow.com/news/derry-sport/1629037/six-the-magic-number-for-new-senior-champions-ballymaguigan.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![23-year-old man arrested in Derry charged with number of drugs offences](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "23-year-old man arrested in Derry charged with number of drugs offences")](https://www.derrynow.com/news/local-news/1628933/23-year-old-man-arrested-in-derry-charged-with-number-of-drugs-offences.html)
+
+PSNI
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[23-year-old man arrested on suspicion of various drugs related offences](https://www.derrynow.com/news/local-news/1628631/23-year-old-man-arrested-on-suspicion-of-various-drugs-related-offences.html)
+[23-year-old man arrested in Derry charged with number of drugs offences](https://www.derrynow.com/news/local-news/1628933/23-year-old-man-arrested-in-derry-charged-with-number-of-drugs-offences.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Radical Bookfair set to return](https://www.derrynow.com/resizer/165/93/true/2024_10_12/signal-2024-01-31-15-18-37-350-7-1728738745312.jpg--.jpg?1728738745358 "Derry Radical Bookfair set to return")](https://www.derrynow.com/news/local-news/1628604/derry-radical-bookfair-set-to-return.html)
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_13/Derry_Fans_4-1728809340219.jpg--.jpg?1728809340277 "Derry City")](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
 
-The Derry Radical Bookfair in Pilots Row Community Centre
+Derry City fans at the Brandywell. Pics by Keith Moore, nwpresspics
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry Radical Bookfair set to return](https://www.derrynow.com/news/local-news/1628604/derry-radical-bookfair-set-to-return.html)
-----------------------------------------------------------------------------------------------------------------------------------
-
-[![Sinn Fein member resigns over claims of sending inappropriate messages to teen](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_12/1728735902535_0.jpg--.jpg?1728735902660 "Sinn Fein member resigns over claims of sending inappropriate messages to teen")](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Sinn Fein member resigns over claims of sending inappropriate messages to teen](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Derry City fans at the Brandywell](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
