@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/mensheid-lijdt-aan-massapsychose/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/nog-een-naam-van-een-mh-17-dader/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
