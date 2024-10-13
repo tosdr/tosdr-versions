@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/891d466c-d6d6-4b6d-b212-3604db3c7291/20241012T013728/891d466c-d6d6-4b6d-b212-3604db3c7291_16x9.jpg) ![](https://media.king5.com/assets/KING/images/891d466c-d6d6-4b6d-b212-3604db3c7291/20241012T013728/891d466c-d6d6-4b6d-b212-3604db3c7291_360x203.jpg)](https://www.king5.com/article/news/politics/elections/candidates-pierce-county-sheriff-discuss-issues/281-fecff313-7fb7-4485-9915-4f68e584f67c)
+        
+        #### [Candidates for Pierce County sheriff sit down with KING 5](https://www.king5.com/article/news/politics/elections/candidates-pierce-county-sheriff-discuss-issues/281-fecff313-7fb7-4485-9915-4f68e584f67c)
+        
     *  [![](https://media.king5.com/assets/KING/images/8516a927-e268-47d3-877d-e8b166a7b221/20241013T032331/8516a927-e268-47d3-877d-e8b166a7b221_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8516a927-e268-47d3-877d-e8b166a7b221/20241013T032331/8516a927-e268-47d3-877d-e8b166a7b221_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/all-i-90-lanes-closed-mercer-island-due-to-police-activity/281-d77104a3-cb48-45ae-b410-ab654820537f)
         
         #### [Apparent bomb scare during police chase shuts down I-90 for hours](https://www.king5.com/article/traffic/traffic-news/all-i-90-lanes-closed-mercer-island-due-to-police-activity/281-d77104a3-cb48-45ae-b410-ab654820537f)
-        
-    *  [![](https://media.king5.com/assets/KING/images/696ce516-28e7-4aa5-a98e-3613fea24844/20241013T050637/696ce516-28e7-4aa5-a98e-3613fea24844_16x9.jpg) ![](https://media.king5.com/assets/KING/images/696ce516-28e7-4aa5-a98e-3613fea24844/20241013T050637/696ce516-28e7-4aa5-a98e-3613fea24844_360x203.jpg)](https://www.king5.com/article/news/local/west-seattle-gas-station-clerk-speaks-out-robbery-king-county/281-71c15a41-18a7-4928-9bf3-c6d40cff94be)
-        
-        #### [West Seattle gas station clerk speaks out after robbery connected to nearly 80 crimes in King County](https://www.king5.com/article/news/local/west-seattle-gas-station-clerk-speaks-out-robbery-king-county/281-71c15a41-18a7-4928-9bf3-c6d40cff94be)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 53°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
