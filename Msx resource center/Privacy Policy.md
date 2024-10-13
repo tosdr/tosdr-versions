@@ -150,6 +150,8 @@ Latest reactions
 
 Latest forum posts
 
+* [Omega MSX No Video Signal](https://www.msx.org/forum/msx-talk/hardware/omega-msx-no-video-signal "Omega MSX No Video Signal")
+* [Aleste 2 manual automated translation](https://www.msx.org/forum/msx-talk/general-discussion/aleste-2-manual-automated-translation?page=2 "Aleste 2 manual automated translation")
 * [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card?page=1 "MFRSCC+SD FAT12 & FAT16 partition on one card.")
 * [Tabmegx and openmsx](https://www.msx.org/forum/msx-talk/general-discussion/tabmegx-and-openmsx "Tabmegx and openmsx")
 * [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=100 "The Big MegaFlashROM SCC+ SD Topic")
@@ -161,8 +163,6 @@ Latest forum posts
 * [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto "RIP Fabio Belavenuto")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=69 "WonderTANG! Who wants to juice up your MSX?")
 * [Disabling "Screenshot saved to" message in openMSX](https://www.msx.org/forum/msx-talk/openmsx/disabling-screenshot-saved-to-message-in-openmsx "Disabling "Screenshot saved to" message in openMSX")
-* [Omega MSX No Video Signal](https://www.msx.org/forum/msx-talk/hardware/omega-msx-no-video-signal "Omega MSX No Video Signal")
-* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
