@@ -140,6 +140,7 @@ MSX Music player
 
 Latest reactions
 
+* [XPLA V3.0 & ADXP V5.0 by Mstz80ax](https://www.msx.org/news/software/en/xpla-v30-adxp-v50-by-mstz80ax "XPLA V3.0 & ADXP V5.0 by Mstz80ax")
 * [Godzilla Balls by Paxanga Soft](https://www.msx.org/news/en/godzilla-balls "Godzilla Balls by Paxanga Soft")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
@@ -149,23 +150,22 @@ Latest reactions
 * [Tiny Magic update, new batch and soundtrack CD](https://www.msx.org/news/software/en/tiny-magic-update "Tiny Magic update, new batch and soundtrack CD")
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
-* [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
 
 Latest forum posts
 
-* [Omega MSX No Video Signal](https://www.msx.org/forum/msx-talk/hardware/omega-msx-no-video-signal "Omega MSX No Video Signal")
+* [VATT - VRAM Access Timing Tester](https://www.msx.org/forum/msx-talk/development/vatt-vram-access-timing-tester?page=18 "VATT - VRAM Access Timing Tester")
+* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=1 "RIP Fabio Belavenuto")
+* [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
+* [Aleste 2 tips?](https://www.msx.org/forum/msx-talk/software/aleste-2-tips "Aleste 2 tips?")
+* [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card?page=1 "MFRSCC+SD FAT12 & FAT16 partition on one card.")
 * [Hello World](https://www.msx.org/forum/msx-talk/off-topic/hello-world "Hello World")
 * [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=28 "A new MSX (3?) for 2022 ?")
+* [Omega MSX No Video Signal](https://www.msx.org/forum/msx-talk/hardware/omega-msx-no-video-signal "Omega MSX No Video Signal")
 * [Aleste 2 manual automated translation](https://www.msx.org/forum/msx-talk/general-discussion/aleste-2-manual-automated-translation?page=2 "Aleste 2 manual automated translation")
-* [VATT - VRAM Access Timing Tester](https://www.msx.org/forum/msx-talk/development/vatt-vram-access-timing-tester?page=17 "VATT - VRAM Access Timing Tester")
 * [NOP videoclips](https://www.msx.org/forum/msx-talk/graphics-and-music/nop-videoclips?page=1 "NOP videoclips")
-* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=1 "RIP Fabio Belavenuto")
 * [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=100 "The Big MegaFlashROM SCC+ SD Topic")
 * [Multiplayer link cable](https://www.msx.org/forum/msx-talk/development/multiplayer-link-cable?page=2 "Multiplayer link cable")
 * [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=4 "BEER-MSX RUN")
-* [F4/FMPAC V2.0 for Omega amp circuit not working](https://www.msx.org/forum/msx-talk/hardware/f4fmpac-for-omega-amp-circuit-not-working "F4/FMPAC V2.0 for Omega amp circuit not working")
-* [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card?page=1 "MFRSCC+SD FAT12 & FAT16 partition on one card.")
-* [Tabmegx and openmsx](https://www.msx.org/forum/msx-talk/general-discussion/tabmegx-and-openmsx "Tabmegx and openmsx")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
