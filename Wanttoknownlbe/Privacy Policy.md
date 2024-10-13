@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/nu-alle-jongens-aan-het-hpv-vaccin/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/9-11/911-prof-dr-ruppert-geeft-openheid-van-zaken/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
