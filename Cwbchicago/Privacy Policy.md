@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Tracy-Conley-326x245.jpg)](https://cwbchicago.com/2024/10/man-on-house-arrest-for-gun-case-had-machine-gun-pistol-drugs-and-1180-cash-in-his-living-room-prosecutors-say.html "Man on house arrest for gun case had machine gun, pistol, drugs, and $1,180 cash in his living room, prosecutors say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/William-Garner-Cobb-Hall-326x245.jpg)](https://cwbchicago.com/2024/10/burglar-stole-brass-urinal-fittings-at-u-of-c-causing-floods-elevator-damage-prosecutors-say.html "Burglar stole brass urinal fittings at U of C, causing floods and elevator damage, prosecutors say")
 
-East Garfield Park
+Hyde Park
 
-### [Man on house arrest for gun case had machine gun, pistol, drugs, and $1,180 cash in his living room, prosecutors say](https://cwbchicago.com/2024/10/man-on-house-arrest-for-gun-case-had-machine-gun-pistol-drugs-and-1180-cash-in-his-living-room-prosecutors-say.html "Man on house arrest for gun case had machine gun, pistol, drugs, and $1,180 cash in his living room, prosecutors say")
+### [Burglar stole brass urinal fittings at U of C, causing floods and elevator damage, prosecutors say](https://cwbchicago.com/2024/10/burglar-stole-brass-urinal-fittings-at-u-of-c-causing-floods-elevator-damage-prosecutors-say.html "Burglar stole brass urinal fittings at U of C, causing floods and elevator damage, prosecutors say")
 
-[October 9, 2024 6:24 PM](https://cwbchicago.com/2024/10)
+[October 10, 2024 6:48 AM](https://cwbchicago.com/2024/10)
 
-After Chicago police received a ShotSpotter alert last month at an address where a man was on house arrest for a pending felony gun charge, the Cook County Sheriff’s Office decided to pay the man a visit.[](https://cwbchicago.com/2024/10/man-on-house-arrest-for-gun-case-had-machine-gun-pistol-drugs-and-1180-cash-in-his-living-room-prosecutors-say.html "Man on house arrest for gun case had machine gun, pistol, drugs, and $1,180 cash in his living room, prosecutors say")
+You’ve heard the phrase, “People will steal anything that’s not nailed down.” As insatiable consumers of Chicago police report narratives, we can confirm the phrase is true. [](https://cwbchicago.com/2024/10/burglar-stole-brass-urinal-fittings-at-u-of-c-causing-floods-elevator-damage-prosecutors-say.html "Burglar stole brass urinal fittings at U of C, causing floods and elevator damage, prosecutors say")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/JONNE-MONTESS-ALEXANDER-and-Oscar-Garcia-Adrain-326x245.jpg)](https://cwbchicago.com/2024/10/2-migrants-arrested-10-times-this-year-burglarized-lakefront-restaurant-prosecutors-say.html "2 migrants, arrested 10 times this year, burglarized lakefront restaurant, prosecutors say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/1100-block-of-West-Division-326x245.jpg)](https://cwbchicago.com/2024/10/robber-bites-off-chunk-of-victims-ear-on-goose-island.html "Robber bites off chunk of victim’s ear on Goose Island")
 
-Gold Coast
+Goose Island
 
-### [2 migrants, arrested 10 times this year, burglarized lakefront restaurant, prosecutors say](https://cwbchicago.com/2024/10/2-migrants-arrested-10-times-this-year-burglarized-lakefront-restaurant-prosecutors-say.html "2 migrants, arrested 10 times this year, burglarized lakefront restaurant, prosecutors say")
+### [Robber bites off chunk of victim’s ear on Goose Island](https://cwbchicago.com/2024/10/robber-bites-off-chunk-of-victims-ear-on-goose-island.html "Robber bites off chunk of victim’s ear on Goose Island")
 
-[October 9, 2024 7:35 AM](https://cwbchicago.com/2024/10)
+[October 10, 2024 6:22 AM](https://cwbchicago.com/2024/10)
 
-Two migrants from Venezuela, arrested a total of ten times this year, are now accused of burglarizing a restaurant storage shed at Oak Street Beach.[](https://cwbchicago.com/2024/10/2-migrants-arrested-10-times-this-year-burglarized-lakefront-restaurant-prosecutors-say.html "2 migrants, arrested 10 times this year, burglarized lakefront restaurant, prosecutors say")
+A man is recovering after a would-be robber bit off a chunk of his ear while trying to steal his bike on Goose Island yesterday evening.[](https://cwbchicago.com/2024/10/robber-bites-off-chunk-of-victims-ear-on-goose-island.html "Robber bites off chunk of victim’s ear on Goose Island")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/GERONIMO-ESPINOSO-326x245.jpg)](https://cwbchicago.com/2024/10/9-time-felon-armed-with-broken-bottle-robbed-threatened-to-kill-woman-on-blue-line-officials-say.html "9-time felon armed with broken bottle robbed, threatened to kill woman on Blue Line, officials say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Mehdi-Medellel-1-326x245.jpg)](https://cwbchicago.com/2024/10/cashier-who-murdered-2-men-in-restaurant-dining-had-little-or-no-interaction-with-victims-prosecutors-say.html "Cashier who murdered 2 men in restaurant dining had little or no interaction with victims, prosecutors say")
 
-CTA
+Ashburn
 
-### [9-time felon armed with broken bottle robbed, threatened to kill woman on Blue Line, officials say](https://cwbchicago.com/2024/10/9-time-felon-armed-with-broken-bottle-robbed-threatened-to-kill-woman-on-blue-line-officials-say.html "9-time felon armed with broken bottle robbed, threatened to kill woman on Blue Line, officials say")
+### [Cashier who murdered 2 men in restaurant dining had little or no interaction with victims, prosecutors say](https://cwbchicago.com/2024/10/cashier-who-murdered-2-men-in-restaurant-dining-had-little-or-no-interaction-with-victims-prosecutors-say.html "Cashier who murdered 2 men in restaurant dining had little or no interaction with victims, prosecutors say")
 
-[October 9, 2024 6:39 AM](https://cwbchicago.com/2024/10)
+[October 10, 2024 5:17 AM](https://cwbchicago.com/2024/10)
 
-A Cicero man has been jailed as a safety risk after prosecutors accused him of robbing and threatening to kill a woman with a broken bottle aboard a Blue Line train.[](https://cwbchicago.com/2024/10/9-time-felon-armed-with-broken-bottle-robbed-threatened-to-kill-woman-on-blue-line-officials-say.html "9-time felon armed with broken bottle robbed, threatened to kill woman on Blue Line, officials say")
+A fast food cashier had little or no contact with two men he shot to death in the restaurant’s dining room Monday night, prosecutors said as they filed charges in the case.[](https://cwbchicago.com/2024/10/cashier-who-murdered-2-men-in-restaurant-dining-had-little-or-no-interaction-with-victims-prosecutors-say.html "Cashier who murdered 2 men in restaurant dining had little or no interaction with victims, prosecutors say")
 
 Search
 
