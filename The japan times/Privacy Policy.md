@@ -475,13 +475,13 @@ Revised June 1, 2022
 
   [![Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427344.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, speaks at an event held in November at United Nations headquarters in New York on the sidelines of the second meeting of state parties to the Treaty on the Prohibition of Nuclear Weapons.")](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
 
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+[Nobel prize is a warning to a world on the nuclear brink](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel prize is a warning to a world on the nuclear brink")
 
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+  [![The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427373.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.")](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel prize is a warning to a world on the nuclear brink")
 
-[Long-time 'Doraemon' voice actor Nobuyo Oyama dies at 90](https://www.japantimes.co.jp/culture/2024/10/11/entertainment-news/nobuyo-oyama-obituary/ "Long-time 'Doraemon' voice actor Nobuyo Oyama dies at 90")
+[Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
 
-  [![Nobuyo Oyama](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Nobuyo Oyama")](https://www.japantimes.co.jp/culture/2024/10/11/entertainment-news/nobuyo-oyama-obituary/ "Long-time 'Doraemon' voice actor Nobuyo Oyama dies at 90")
+  [![Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427386.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
 
 [Bank of Japan vows better messaging to avoid more market turmoil](https://www.japantimes.co.jp/business/2024/10/11/economy/himino-boj-messaging/ "Bank of Japan vows better messaging to avoid more market turmoil")
 
@@ -498,6 +498,10 @@ Revised June 1, 2022
 [Japan pushes fossil fuel tech in Asia carbon neutrality initiative](https://www.japantimes.co.jp/environment/2024/10/09/energy/azec-fossil-fuel-technology/ "Japan pushes fossil fuel tech in Asia carbon neutrality initiative")
 
   [![Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426839.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.")](https://www.japantimes.co.jp/environment/2024/10/09/energy/azec-fossil-fuel-technology/ "Japan pushes fossil fuel tech in Asia carbon neutrality initiative")
+
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
 Podcast
 -------
@@ -560,19 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Ishiba reiterates need for nuclear deterrence despite group's Nobel Prize](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/ishiba-nuclear-deterrance/ "Ishiba reiterates need for nuclear deterrence despite group's Nobel Prize")
+[In Hiroshima peace park, visitors hope Nobel win will boost peace efforts](https://www.japantimes.co.jp/news/2024/10/13/japan/hiroshima-nobel-reaction/ "In Hiroshima peace park, visitors hope Nobel win will boost peace efforts")
 
-10 hours ago
+2 hours ago
 
-[Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize-nihon-hidankyo/ "Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo")
+[North Korean leader's powerful sister warns of 'horrible' response to drones](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/kim-sister-north-korea-drones/ "North Korean leader's powerful sister warns of 'horrible' response to drones")
 
-11 hours ago
+2 hours ago
 
-[China's stimulus message leaves investors wanting though hanging onto hope](https://www.japantimes.co.jp/business/2024/10/12/economy/china-stimulus-message-investors-disappoint/ "China's stimulus message leaves investors wanting though hanging onto hope")
+[Kyoto partners with e-gift service company to let tourists Donate & Go](https://www.japantimes.co.jp/news/2024/10/13/japan/society/donate-go-kyoto/ "Kyoto partners with e-gift service company to let tourists Donate & Go")
 
-[Victims of Typhoon Hagibis remembered five years after disaster](https://www.japantimes.co.jp/news/2024/10/12/japan/miyagi-typhoon-victims-remembered/ "Victims of Typhoon Hagibis remembered five years after disaster")
+2 hours ago
 
-[People in Hiroshima and Nagasaki reiterate call for peace after Nobel win](https://www.japantimes.co.jp/news/2024/10/12/japan/hiroshima-nagasaki-peace-call/ "People in Hiroshima and Nagasaki reiterate call for peace after Nobel win")
+[Hurricane Milton’s floodwaters are hiding a dirty secret](https://www.japantimes.co.jp/news/2024/10/13/world/hurricane-milton-floodwaters/ "Hurricane Milton’s floodwaters are hiding a dirty secret")
+
+2 hours ago
+
+[Many acquitted murder suspects initially found guilty for confessions](https://www.japantimes.co.jp/news/2024/10/13/japan/crime-legal/japan-retrial-acquittal-confessions-guilt/ "Many acquitted murder suspects initially found guilty for confessions")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
