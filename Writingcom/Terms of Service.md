@@ -107,4 +107,4 @@ We reserve the right to amend these Terms from time to time in our sole discreti
 12\. GOVERNING LAW  
 This TERMS OF SERVICE agreement and any disputes arising from it or the services of Writing.Com will be governed by and construed in accordance with the laws of the Commonwealth of Pennsylvania.
 
-(Generated in 0.11 seconds at 7:03pm on Oct 12, 2024.)
+(Generated in 0.15 seconds at 12:59am on Oct 13, 2024.)
