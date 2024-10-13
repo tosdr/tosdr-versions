@@ -17,12 +17,12 @@ Login with username, password and session length
 News:
 -----
 
-Make sure you're familiar with the forum rules. You can [find them here](https://www.thefurryforum.com/forums/index.php?page=rules).
+Other smiley sets available - you change the species by going to **Profile > Look and Layout > Smiley Set**!
 
   
   
 
-[![Juliet](adverts/juliet.png "Juliet")](https://www.furaffinity.net/user/julietthewhitewitch)
+[![WingedZephyr](adverts/zeph.gif "WingedZephyr")](http://www.furaffinity.net/user/wingedzephyr)
 
   
 
