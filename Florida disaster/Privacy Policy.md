@@ -223,9 +223,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Friday, October 11, 2024**
+**Sunday, October 13, 2024**
 
-**...Mostly Dry and Seasonable Conditions Across the State in Wake of Hurricane Milton...Isolated to Scattered Showers to Continue Moving Onshore Along Portions of East Coast and Move Across South Florida; Isolated Thunderstorm or Two Cannot Be Ruled Out...Rainfall Should Remain Light and Brief; Isolated Locally Heavy Downpours May Be Possible Near the Coast...Breezy Winds Continue Statewide With Wind Gusts of 30 MPH Possible...Pleasant Conditions This Afternoon...Mostly Dry Conditions Overnight with Spotty Showers Along East Coast...Cooler Conditions Across North Florida...Moderate to High Risk for Rip Currents Statewide...Coastal Flood Warning Along St. Johns River Due to Trapped Water Leading to Moderate to Major Coastal Flooding...Widespread Moderate to Major Riverine Conditions Across West-Central Florida, Central Florida and Northeast Florida; Record Flooding Possible...NHC Continues to Monitor One (1) Disturbance and One (1) Named System in Atlantic Basin...**
+**...Mostly Sunny and Dry Conditions for North and Central Florida...Spotty Showers Become More Numerous Across South Florida This Afternoon...Increasing Concern for Localized Flooding Along the Urban I-95 Corridor in Southeast Florida...Minor to Moderate Coastal Flooding Remains Possible Along the St. Johns River and Northeast Florida Coast At or Near Times of High Tide...Widespread Modeate to Major Riverine Flooding Continues for West, Central, and Northeast Florida Waterways...Rivers to Remain in Flood Stage for the Next Several Weeks at Some Locations...National Hurricane Center Continues to Monitor Invest 94L Over the Eastern Tropical Atlantic (Low - 30% Chance of Development Over the Next 7 Days)...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
