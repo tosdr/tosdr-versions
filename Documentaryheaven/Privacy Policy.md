@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Operation InfeKtion: How Russia Perfected the Art of War](/wp-content/thumbnails/14400-100x70.jpg?x53432)
+* [![First Orbit](/wp-content/thumbnails/5669-100x70.jpg?x53432)
     
-    Operation InfeKtion: How Russia Perfected the Art of War
+    First Orbit
     
-    The thing about a virus is that it doesn't destroy you head on but rather brings you down from the inside, turning your own cells against you. This story is about a virus, a virus created five decades](https://documentaryheaven.com/operation-infektion-how-russia-perfected-art-of-war/ "Operation InfeKtion: How Russia Perfected the Art of War")
-* [![Pig Business](/wp-content/thumbnails/5576-100x70.jpg?x53432)
+    A real time recreation of Yuri Gagarin's pioneering first orbit, shot entirely in space from on board the International Space Station. The film combines this new footage with Gagarin's original missio](https://documentaryheaven.com/first-orbit/ "First Orbit")
+* [![National Geographic – Extreme Universe – Edge of Space](/wp-content/thumbnails/3718)
     
-    Pig Business
+    National Geographic – Extreme Universe – Edge of Space
     
-    Pig Business is Big Business. This film documentary investigates the rise of factory pig farming, a system which abuses animals, pollutes the environment, threatens human health through dangerous ov](https://documentaryheaven.com/pig-business/ "Pig Business")
-* [![Jay-Z and Linkin Park: Collision Course Documentary](/wp-content/thumbnails/6339-100x70.jpg?x53432)
+    Delve into the unknown on a journey into deep oceans and deep space, as we seek the answers to some of mankind’s most unfathomable questions.National Geographic – Extreme Universe – S01E04 – Edge](https://documentaryheaven.com/national-geographic-%e2%80%93-extreme-universe-%e2%80%93-edge-of-space/ "National Geographic – Extreme Universe – Edge of Space")
+* [![The Smashing Machine](/wp-content/thumbnails/11959-100x70.jpg?x53432)
     
-    Jay-Z and Linkin Park: Collision Course Documentary
+    The Smashing Machine
     
-    The first question everyone asks about Collision Course is “Is this album more Jay-Z or Linkin Park?”The wrong answer is that it’s Jay-Z with a loud band or a back-and-forth of covers where one re](https://documentaryheaven.com/jay-z-and-linkin-park-collision-course-documentary/ "Jay-Z and Linkin Park: Collision Course Documentary")
-* [![Where The Wild Coffee Grows](/wp-content/thumbnails/7525-100x70.jpg?x53432)
+    Originally released in 2002 and directed by John Hyams, The Smashing Machine is a film about the mixed martial arts career and personal life of Mark Kerr. This graphic documentary takes an u](https://documentaryheaven.com/smashing-machine/ "The Smashing Machine")
+* [![Evolution: The Minds Big Bang](/wp-content/thumbnails/8930-100x70.png?x53432)
     
-    Where The Wild Coffee Grows
+    Evolution: The Minds Big Bang
     
-    Starbucks and coffee drinkers globally love the green beans which grow in the wild remote altitudes of East Timor.Since it was a Portuguese colony – organic coffee have been cultivated for centuri](https://documentaryheaven.com/where-wild-coffee-grows/ "Where The Wild Coffee Grows")
-* [![The Alternativity](/wp-content/thumbnails/13745-100x70.jpg?x53432)
+    Narrated by Liam Neeson this Nova documentary examines the forces that might have helped contribute to the breakthrough which allowed us humans prevail over all other hominids such as the Neanderthals](https://documentaryheaven.com/evolution-minds-big-bang/ "Evolution: The Minds Big Bang")
+* [![Children of Chernobyl](/wp-content/thumbnails/12814-100x70.jpg?x53432)
     
-    The Alternativity
+    Children of Chernobyl
     
-    The Alternativity is a story which takes us to the city of Bethlehem, world capital of the international Jesus Christ birthday business and this year Bethlehem became home to a very unique h](https://documentaryheaven.com/alternativity/ "The Alternativity")
+    The Chernobyl disaster of 1986 resulted in a radioactive fallout which was 100 times greater than a nuclear bomb. To this day nobody really knows the true extent of how many people were truly aff](https://documentaryheaven.com/children-of-chernobyl/ "Children of Chernobyl")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
