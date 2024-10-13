@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![MoneyMaze](/assets/logos/thelowroad.png)](http://www.followthemoney.org/research/institute-research/best-practices-for-independent-spending-part-one)
-
-Just try to follow the maze of independent expenditures.
+[![Bail Bond Industry Political Spending, By Type, 2009-2017](/assets/Images/teasers/small/bail-bond.JPG)](https://www.followthemoney.org/research/institute-reports/bail-bond-businesses-buck-for-bookings)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
