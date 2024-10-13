@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Pickup Express](https://www.myabandonware.com/game/pickup-express-s8f)
-* [Stratajong](https://www.myabandonware.com/game/stratajong-s8a)
-* [Teazle Action](https://www.myabandonware.com/game/teazle-action-s89)
-* [Teazle 2](https://www.myabandonware.com/game/teazle-2-s88)
-* [Atomic Robo-Kid](https://www.myabandonware.com/game/atomic-robo-kid-4io)
+* [Star Wars Trilogy Arcade](https://www.myabandonware.com/game/star-wars-trilogy-arcade-ssx)
+* [Triple Hunt](https://www.myabandonware.com/game/triple-hunt-ssw)
+* [Up Your Alley](https://www.myabandonware.com/game/up-your-alley-ssv)
+* [Arcana Heart](https://www.myabandonware.com/game/arcana-heart-ssm)
+* [Arcana Heart](https://www.myabandonware.com/game/arcana-heart-ssl)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Droidz](https://www.myabandonware.com/game/droidz-kf0)
-* [Domino](https://www.myabandonware.com/game/domino-pmj)
-* [Shinsetsu Samurai Spirits: Bushidōretsuden](https://www.myabandonware.com/game/shinsetsu-samurai-spirits-bushidoretsuden-jyk)
+* [Kōtetsu Reiiki Steeldom](https://www.myabandonware.com/game/kotetsu-reiiki-steeldom-n8g)
+* [The Bradley Trainer](https://www.myabandonware.com/game/the-bradley-trainer-rk7)
+* [Big Buck Hunter 2006: Call of the Wild](https://www.myabandonware.com/game/big-buck-hunter-2006-call-of-the-wild-sjb)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
