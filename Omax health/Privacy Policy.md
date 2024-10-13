@@ -1,6 +1,6 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)         
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)              Privacy Policy – Omax Health - Omax Health                     
 
-Privacy Policy – Omax Health - Omax Health                                     
+                
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -303,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3396 reviews](https://omaxhealth.com/pages/reviews)
+[3397 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3076)
+(3077)
 
 5%
 
@@ -327,7 +327,17 @@ Go to product page
 
 (53)
 
-2194
+2195
+
+M
+
+[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+Monica H.
+
+**Use it daily!**
+
+Son plays hockey and mom and dad have past sports related injuries. We use this daily for instant relief.
 
 R
 
@@ -346,15 +356,5 @@ Marla C.
 **The Best Immediate Relief**
 
 I lov d the original product so much that I now use Extra Strength. It provides immediate, soothing, deep relief. I always keep some on-hand.
-
-J
-
-[Omax3® Omega 3 Fish Oil | 750 mg](https://omaxhealth.com/products/omax3-ultra-pure#judgeme_product_reviews)
-
-Joe D.
-
-**Best Fish Oil**
-
-I have tried multiple fish oils and Omax is the best!
 
 Load More
