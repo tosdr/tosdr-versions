@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-groene-revolutie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/nepnieuws-oorlog-met-libie-op-leugens-gebouwd/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
