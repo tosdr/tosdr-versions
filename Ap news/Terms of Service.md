@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [Harris goes to North Carolina to resume campaigning in a state hit hard by Hurricane Helene](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
     * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
     * [Why is Donald Trump campaigning in California, a state he's almost certain to lose?](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa)
-    * [Doctor deems Harris in 'excellent health.' Her team aims to contrast with Trump's scant medical info](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
     
     Newsletters
     
@@ -73,8 +73,8 @@ Menu
     TOP STORIES
     
     * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
+    * [Harris goes to North Carolina to resume campaigning in a state hit hard by Hurricane Helene](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
     * [Doctor deems Harris in 'excellent health.' Her team aims to contrast with Trump's scant medical info](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
-    * [Data shows migrants aren’t taking jobs from Black or Hispanic people, despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
     
     Newsletters
     
@@ -92,8 +92,8 @@ Menu
     
     TOP STORIES
     
-    * [Yamamoto outduels Darvish in historic matchup as Dodgers beat Padres 2-0 to reach NLCS](https://apnews.com/article/mlb-playoffs-dodgers-padres-f0778cdc5ff2250641336fbe6c8d3f0c)
-    * [Tigers hope Carpenter can come off bench in ALDS Game 5 while dealing with hamstring injury](https://apnews.com/article/tigers-mlb-playoffs-kerry-carpenter-8d281367625ee8d1ef2cf1388b5bdc98)
+    * [Thomas hits grand slam off Skubal, Guardians down Tigers 7-3 to reach AL Championship Series](https://apnews.com/article/mlb-playoffs-tigers-guardians-b6c33f918a7bdfd39a299632a3394dfa)
+    * [No. 7 Alabama overcomes botched onside recovery to beat South Carolina 27-25](https://apnews.com/article/south-carolina-alabama-score-79e76fc9c386ab2b4251d6871b5da36d)
     * [Holding a Super Bowl outside the US is a possibility, NFL Commissioner Goodell says](https://apnews.com/article/goodell-nfl-london-international-caa03e8d27aa2a07ab0a848bc015fff7)
     
     Newsletters
@@ -157,12 +157,12 @@ Menu
     
     TOP STORIES
     
+    * [Mud, beer and cash: Annual wife-carrying championship attracts competitive couples to Maine](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     * [Witnesses can bear-ly believe the surprise visitor at Connecticut governor's estate](https://apnews.com/article/bear-climbs-fence-connecticut-governors-mansion-3b1aaf00afa14dc1c7e12ac0faf9d1b4)
     * [Woman pleads guilty to trying to smuggle 29 turtles across a Vermont lake into Canada by kayak](https://apnews.com/article/eastern-box-turtles-smuggling-vermont-lake-kayak-fdb63d3944a27ef12088fa97a16950a3)
     * [Authorities continue to investigate container suspected of holding dynamite in Tennessee](https://apnews.com/article/explosives-evacuation-knoxville-metal-recycler-3b929a961105649b12b258ec0a01e0f6)
     * [New Zealand ship didn’t sink because its captain was a woman, the ‘appalled’ defense minister says](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
     * [Washington state woman calls 911 after being hounded by up to 100 raccoons](https://apnews.com/article/washington-state-raccoon-invasion-cadf885cc7a4f2bd05e7755d448e7d8c)
-    * [Wife-carrying championship victory brings beer and cash](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -295,9 +295,9 @@ Menu
     
     * [Israel bombardea el norte de Gaza mientras fuerzas de paz de la ONU son atacadas en Líbano](https://apnews.com/world-news/general-news-9761b381a40760ed8bd2f12ad3fbf441)
     * [Mientras Hezbollah e Israel combaten en la frontera, el Ejército libanés mira desde los márgenes](https://apnews.com/world-news/general-news-9091e3820005d6c22021bcf8de6adf0e)
+    * [La gasolina escasea en Florida mientras el estado se recupera del paso del huracán Milton](https://apnews.com/us-news/general-news-a813c3e041f3c6c7a1d9c24868a47897)
     * [El líder británico Keir Starmer cumple 100 días en el gobierno. Ha sido un inicio accidentado](https://apnews.com/world-news/general-news-f1e500409b2b8cf2795f7f1a96f1c44c)
     * [Funcionario de la ONU pide proteger puertos y aeropuertos del Líbano en medio de ofensiva israelí](https://apnews.com/world-news/general-news-206cfe87a774c5b2ed38a42c9a4a283b)
-    * [Kamala Harris está en “excelente estado de salud”, informa su médico](https://apnews.com/politics/elecciones-en-eeuu-715301b54503ebbef4bff45b70505db4)
     * [Reclutadores militares ucranianos irrumpen en la vida nocturna de Kiev en busca de nuevos soldados](https://apnews.com/world-news/general-news-73d2f845ce73c3f55e7ebdee89dd499f)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
@@ -504,9 +504,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Harris goes to North Carolina to resume campaigning in a state hit hard by Hurricane Helene](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
     * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
     * [Why is Donald Trump campaigning in California, a state he's almost certain to lose?](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa)
-    * [Doctor deems Harris in 'excellent health.' Her team aims to contrast with Trump's scant medical info](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
     
     Newsletters
     
@@ -530,8 +530,8 @@ Submit Search
     TOP STORIES
     
     * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
+    * [Harris goes to North Carolina to resume campaigning in a state hit hard by Hurricane Helene](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
     * [Doctor deems Harris in 'excellent health.' Her team aims to contrast with Trump's scant medical info](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
-    * [Data shows migrants aren’t taking jobs from Black or Hispanic people, despite what Trump says](https://apnews.com/article/trump-biden-harris-employment-jobs-economy-immigration-db0bdbc6a029068389b31d8d148b9d3a)
     
     Newsletters
     
@@ -559,8 +559,8 @@ Submit Search
     
     TOP STORIES
     
-    * [Yamamoto outduels Darvish in historic matchup as Dodgers beat Padres 2-0 to reach NLCS](https://apnews.com/article/mlb-playoffs-dodgers-padres-f0778cdc5ff2250641336fbe6c8d3f0c)
-    * [Tigers hope Carpenter can come off bench in ALDS Game 5 while dealing with hamstring injury](https://apnews.com/article/tigers-mlb-playoffs-kerry-carpenter-8d281367625ee8d1ef2cf1388b5bdc98)
+    * [Thomas hits grand slam off Skubal, Guardians down Tigers 7-3 to reach AL Championship Series](https://apnews.com/article/mlb-playoffs-tigers-guardians-b6c33f918a7bdfd39a299632a3394dfa)
+    * [No. 7 Alabama overcomes botched onside recovery to beat South Carolina 27-25](https://apnews.com/article/south-carolina-alabama-score-79e76fc9c386ab2b4251d6871b5da36d)
     * [Holding a Super Bowl outside the US is a possibility, NFL Commissioner Goodell says](https://apnews.com/article/goodell-nfl-london-international-caa03e8d27aa2a07ab0a848bc015fff7)
     
     Newsletters
@@ -641,12 +641,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Mud, beer and cash: Annual wife-carrying championship attracts competitive couples to Maine](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     * [Witnesses can bear-ly believe the surprise visitor at Connecticut governor's estate](https://apnews.com/article/bear-climbs-fence-connecticut-governors-mansion-3b1aaf00afa14dc1c7e12ac0faf9d1b4)
     * [Woman pleads guilty to trying to smuggle 29 turtles across a Vermont lake into Canada by kayak](https://apnews.com/article/eastern-box-turtles-smuggling-vermont-lake-kayak-fdb63d3944a27ef12088fa97a16950a3)
     * [Authorities continue to investigate container suspected of holding dynamite in Tennessee](https://apnews.com/article/explosives-evacuation-knoxville-metal-recycler-3b929a961105649b12b258ec0a01e0f6)
     * [New Zealand ship didn’t sink because its captain was a woman, the ‘appalled’ defense minister says](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
     * [Washington state woman calls 911 after being hounded by up to 100 raccoons](https://apnews.com/article/washington-state-raccoon-invasion-cadf885cc7a4f2bd05e7755d448e7d8c)
-    * [Wife-carrying championship victory brings beer and cash](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -799,9 +799,9 @@ Submit Search
     
     * [Israel bombardea el norte de Gaza mientras fuerzas de paz de la ONU son atacadas en Líbano](https://apnews.com/world-news/general-news-9761b381a40760ed8bd2f12ad3fbf441)
     * [Mientras Hezbollah e Israel combaten en la frontera, el Ejército libanés mira desde los márgenes](https://apnews.com/world-news/general-news-9091e3820005d6c22021bcf8de6adf0e)
+    * [La gasolina escasea en Florida mientras el estado se recupera del paso del huracán Milton](https://apnews.com/us-news/general-news-a813c3e041f3c6c7a1d9c24868a47897)
     * [El líder británico Keir Starmer cumple 100 días en el gobierno. Ha sido un inicio accidentado](https://apnews.com/world-news/general-news-f1e500409b2b8cf2795f7f1a96f1c44c)
     * [Funcionario de la ONU pide proteger puertos y aeropuertos del Líbano en medio de ofensiva israelí](https://apnews.com/world-news/general-news-206cfe87a774c5b2ed38a42c9a4a283b)
-    * [Kamala Harris está en “excelente estado de salud”, informa su médico](https://apnews.com/politics/elecciones-en-eeuu-715301b54503ebbef4bff45b70505db4)
     * [Reclutadores militares ucranianos irrumpen en la vida nocturna de Kiev en busca de nuevos soldados](https://apnews.com/world-news/general-news-73d2f845ce73c3f55e7ebdee89dd499f)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
