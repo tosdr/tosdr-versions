@@ -45,7 +45,7 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Facial Hair](https://www.artofmanliness.com/style/facial-hair/)
 * [Ties](https://www.artofmanliness.com/style/ties/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/clothing/iron-your-jeans/)
+[![A person in blue jeans and brown shoes stands on the wooden deck, looking every bit the modern-day pardner surveying the horizon.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/clothing/iron-your-jeans/)
 
 [Iron Your Jeans, Pardner](https://www.artofmanliness.com/style/clothing/iron-your-jeans/)
 
@@ -115,15 +115,15 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Health](https://www.artofmanliness.com/health-fitness/health/)
 * [Program Review](https://www.artofmanliness.com/health-fitness/program-review/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/leg-press/)
+[![Cartoon of a muscular man perfecting his leg press techniques while wearing a green tank top and red shoes.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/leg-press/)
 
 [Leg Press Like a Pro: Tips, Techniques, and Mistakes to Avoid](https://www.artofmanliness.com/health-fitness/fitness/leg-press/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
+[![A vintage black and white photo captures the essence of Physical Culture, featuring a strongman in a singlet and striped socks, confidently posing with large, round weights.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
 
 [Podcast #1,026: 5,000 Years of Sweat — Lost Workout Wisdom From the History of Physical Culture](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
+[![As morning light kisses the grassy field, a person, seemingly born to run, glides effortlessly through nature's embrace. With hills and trees painting the horizon, each step syncs with the rhythm of their internal podcast of thoughts and dreams.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
 
 [Podcast #1,021: You Were Born to Run](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
 
@@ -131,11 +131,11 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Bro Splits: Are They Right For You?](https://www.artofmanliness.com/health-fitness/fitness/bro-splits/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/how-to-treat-someone-for-shock/)
+[![A person in a white shirt demonstrates the Skill of the Week by tending to another's leg injury in a forest. The injured individual, clad in an orange jacket, lies on the ground as they receive care and treatment for shock amidst the tranquil woodland setting.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/how-to-treat-someone-for-shock/)
 
 [Skill of the Week: Treat Someone for Shock](https://www.artofmanliness.com/health-fitness/health/how-to-treat-someone-for-shock/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
+[![A hand holds a scoop of protein powder, hovering above an open blue container, with a hint of creatine ready to boost your workout mix.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
 
 [Podcast #1,024: The Safe, Effective Supplement That Can Improve Your Body and Brain](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
 
@@ -170,11 +170,11 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Relationships](https://www.artofmanliness.com/people/relationships/)
 * [Social Skills](https://www.artofmanliness.com/people/social-skills/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/take-the-d-word-off-the-table/)
+[![Two cartoon-style hands holding each other across a table, one pale and one tan, as if bridging any ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/take-the-d-word-off-the-table/)
 
 [Take the D Word Off the Table](https://www.artofmanliness.com/people/family/take-the-d-word-off-the-table/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/podcast-1020-becoming-a-tech-intentional-family/)
+[![A family gathers around the table, each member engrossed in their smartphones as a podcast plays softly in the background. A bowl of snacks sits invitingly, offering a hint of intentional connection amidst the digital focus.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/podcast-1020-becoming-a-tech-intentional-family/)
 
 [Podcast #1,020: Becoming a Tech Intentional Family](https://www.artofmanliness.com/people/family/podcast-1020-becoming-a-tech-intentional-family/)
 
@@ -218,11 +218,11 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [10 Ways to Be a Better Husband Today](https://www.artofmanliness.com/people/relationships/10-ways-to-be-a-better-husband-today/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/dale-carnegie-s-damned-fool-things-i-have-done/)
+[![An elderly man in a suit writes at his desk, head resting on his hand, reflecting perhaps on the ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/dale-carnegie-s-damned-fool-things-i-have-done/)
 
 [Dale Carnegie’s “Damned Fool Things I Have Done”](https://www.artofmanliness.com/people/social-skills/dale-carnegie-s-damned-fool-things-i-have-done/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podcast-1025-whats-going-on-with-your-social-anxiety/)
+[![Text against a light background reads: ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podcast-1025-whats-going-on-with-your-social-anxiety/)
 
 [Podcast #1,025: What’s Going on With Your Social Anxiety?](https://www.artofmanliness.com/people/social-skills/podcast-1025-whats-going-on-with-your-social-anxiety/)
 
@@ -240,7 +240,7 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Manly Know-How](https://www.artofmanliness.com/skills/manly-know-how/)
 * [Outdoor/Survival](https://www.artofmanliness.com/skills/outdoor-survival/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-handle-3-common-pistol-misfires/)
+[![Illustration of a person at a shooting range encountering common pistol misfires, with their firearm clicking instead of firing and question marks floating above their head.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-handle-3-common-pistol-misfires/)
 
 [How to Handle 3 Common Pistol Misfires](https://www.artofmanliness.com/skills/how-to/how-to-handle-3-common-pistol-misfires/)
 
@@ -280,7 +280,7 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Skill of the Week: Escape a Car Hanging Off a Cliff](https://www.artofmanliness.com/skills/outdoor-survival/how-to-escape-a-car-hanging-off-a-cliff/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/7-ways-to-help-your-kids-enjoy-hiking/)
+[![A family with two adults and two kids enjoys hiking on a forest trail. The child in the middle wears a blue backpack, while the adult on the right carries the other child.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/7-ways-to-help-your-kids-enjoy-hiking/)
 
 [7 Ways to Help Your Kids Enjoy Hiking](https://www.artofmanliness.com/skills/outdoor-survival/7-ways-to-help-your-kids-enjoy-hiking/)
 
