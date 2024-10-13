@@ -138,23 +138,25 @@ Save settings
 
 ### Featured Articles
 
+[![Get Your Dream Job](https://www.wikihow.com/images/thumb/0/02/Get-Your-Dream-Job-Step-13-Version-2.jpg/-crop-126-120-126px-Get-Your-Dream-Job-Step-13-Version-2.jpg)
+
+How to  
+Get Your Dream Job](https://www.wikihow.com/Get-Your-Dream-Job)
+
+[![Study For Exams](https://www.wikihow.com/images/thumb/1/1a/Study-For-Exams-Step-30-Version-2.jpg/-crop-126-120-126px-Study-For-Exams-Step-30-Version-2.jpg)
+
+How to  
+Study For Exams](https://www.wikihow.com/Study-For-Exams)
+
+[![Be Single and Happy in Your 30s](https://www.wikihow.com/images/thumb/e/ec/Be-Single-and-Happy-in-Your-30s-Step-10.jpg/-crop-126-120-126px-Be-Single-and-Happy-in-Your-30s-Step-10.jpg)
+
+How to  
+Be Single and Happy in Your 30s](https://www.wikihow.com/Be-Single-and-Happy-in-Your-30s)
+
 [![Know What You Want in Life](https://www.wikihow.com/images/thumb/6/62/Know-What-You-Want-in-Life-Step-17-Version-3.jpg/-crop-126-120-126px-Know-What-You-Want-in-Life-Step-17-Version-3.jpg.png)
 
 How to  
 Know What You Want in Life](https://www.wikihow.com/Know-What-You-Want-in-Life)
-
-[![Handle a Dog Attack](https://www.wikihow.com/images/thumb/5/5f/Handle-a-Dog-Attack-Step-15-Version-2.jpg/-crop-126-120-126px-Handle-a-Dog-Attack-Step-15-Version-2.jpg)
-
-What to Do When a Dog Attacks](https://www.wikihow.com/Handle-a-Dog-Attack)
-
-[![Use Spotify to DJ at a Party](https://www.wikihow.com/images/thumb/a/ab/Use-Spotify-to-DJ-at-a-Party-Step-12-Version-2.jpg/-crop-126-120-126px-Use-Spotify-to-DJ-at-a-Party-Step-12-Version-2.jpg)
-
-Using Spotify's DJ Mode to Play Music at Parties](https://www.wikihow.com/Use-Spotify-to-DJ-at-a-Party)
-
-[![Be Organized in Middle School](https://www.wikihow.com/images/thumb/9/90/Be-Organized-in-Middle-School-Step-15.jpg/-crop-126-120-126px-Be-Organized-in-Middle-School-Step-15.jpg)
-
-How to  
-Be Organized in Middle School](https://www.wikihow.com/Be-Organized-in-Middle-School)
 
   
 
@@ -197,4 +199,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-144
+134
