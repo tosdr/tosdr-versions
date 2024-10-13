@@ -206,23 +206,7 @@ Esporte
 
 Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal
 
-Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal](https://www.tnh1.com.br/noticia/nid/sindrome-de-mueller-weiss-entenda-o-que-e-a-doenca-que-afeta-nadal-1/ "Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal")[![Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/0/csm_atentado_feitosa_reproducao_foto_1_dc2439079b.png)
-
-Em investigação
-
-Em investigação
-
-Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos
-
-Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://www.tnh1.com.br/noticia/nid/cenas-fortes-imagens-mostram-atentado-no-feitosa-autores-do-crime-tambem-foram-mortos/ "Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos")[![Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/b/csm_menina_meningite_dd7f3a724f.png)
-
-Maceió
-
-Maceió
-
-Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato
-
-Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://www.tnh1.com.br/noticia/nid/maceio-tem-30-casos-confirmados-de-meningite-mae-de-crianca-internada-faz-relato/ "Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato")[![Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/5/csm_Casamento_-_foto_Pixabay_e3f3075af7.jpg)
+Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal](https://www.tnh1.com.br/noticia/nid/sindrome-de-mueller-weiss-entenda-o-que-e-a-doenca-que-afeta-nadal-1/ "Síndrome de Mueller-Weiss: entenda o que é a doença que afeta Nadal")[![Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/5/csm_Casamento_-_foto_Pixabay_e3f3075af7.jpg)
 
 indenização
 
@@ -230,41 +214,57 @@ indenização
 
 Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa
 
-Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa](https://www.tnh1.com.br/noticia/nid/homem-que-largou-casamento-apos-6-dias-tera-que-pagar-r-50-mil-por-festa/ "Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa")
+Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa](https://www.tnh1.com.br/noticia/nid/homem-que-largou-casamento-apos-6-dias-tera-que-pagar-r-50-mil-por-festa/ "Homem que largou casamento após 6 dias terá que pagar R$ 50 mil por festa")[![Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_csm_rei-charles-instagram-clarencehouse_6a258ceb34_5a9cbf82dc.jpg)
 
-[![Temporal deixa ao menos sete mortos em São Paulo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/f/csm_Chuva_SP_-_foto_Paulo_Pinto_-_Agencia_Brasil_1141062fc3.jpg)
+Família Real
 
-Brasil
+Família Real
 
-Brasil
+Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer
 
-Temporal deixa ao menos sete mortos em São Paulo
+Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer](https://www.tnh1.com.br/noticia/nid/rei-charles-dispensa-homeopata-e-tera-dois-medicos-de-plantao-em-primeira-grande-viagem-apos-diagnostico-de-cancer/ "Rei Charles dispensa homeopata e terá dois médicos de plantão em primeira grande viagem após diagnóstico de câncer")[![Idosa é presa durante festa de aniversário de 70 anos por estuprar afilhado ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/d/csm_idosa-presa-rj-abuso-afilhado-reproducao_5f4f5773a4.jpg)
 
-Temporal deixa ao menos sete mortos em São Paulo](https://www.tnh1.com.br/noticia/nid/temporal-deixa-ao-menos-sete-mortos-em-sao-paulo/ "Temporal deixa ao menos sete mortos em São Paulo")[![Bombeiros buscam homem que desapareceu em barragem, no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/a/csm_Bombeiros_fazem_buscas_por_homem_que_desapareceu_em_barragem__no_interior_de_AL_-_foto_CBMAL__5__d532b76b4b.jpeg)
+NO RJ
 
-são sebastião
+NO RJ
 
-são sebastião
+Idosa é presa durante festa de aniversário de 70 anos por estuprar afilhado
 
-Bombeiros buscam homem que desapareceu em barragem, no interior de Alagoas
+Idosa é presa durante festa de aniversário de 70 anos por estuprar afilhado](https://www.tnh1.com.br/noticia/nid/idosa-e-presa-durante-festa-de-aniversario-de-70-anos-por-estuprar-afilhado/ "Idosa é presa durante festa de aniversário de 70 anos por estuprar afilhado ")
 
-Bombeiros buscam homem que desapareceu em barragem, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/bombeiros-buscam-homem-que-desapareceu-em-barragem-no-interior-de-alagoas/ "Bombeiros buscam homem que desapareceu em barragem, no interior de Alagoas")[![Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/a/csm_Gustavo_Nicola_-_foto_Allan_Max_-_ASCOM_CSA_35e39fc782.jpg)
+[![Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_Mae_alerta_sobre_como_vape_contribuiu_para_morte_de_filho_aos_20_anos_apos_infeccao_-_foto_Divulgacao_22fe9db73b.jpg)
 
-gustavo nicola
+após infecção
 
-gustavo nicola
+após infecção
 
-Meio-campista do CSA é suspenso após exame antidoping no ex-clube
+Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'
 
-Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://www.tnh1.com.br/noticia/nid/meio-campista-do-csa-e-suspenso-apos-exame-antidoping-no-ex-clube/ "Meio-campista do CSA é suspenso após exame antidoping no ex-clube")[![Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/9/csm_Vitimas_de_acidente_com_helicoptero_do_Corpo_de_Bombeiros_em_Minas_Gerais_ef222f1a61.jpg)
+Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'](https://www.tnh1.com.br/noticia/nid/mae-alerta-sobre-como-vape-contribuiu-para-morte-de-filho-aos-20-anos-pulmao-nao-reagiu/ "Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'")[![Árbitra suspensa por vídeo de sexo rompe silêncio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/3/csm_arbitra_Elif_Karaarslan_-_foto_Reproducao_Instagram_c72d9ac8d2.jpg)
 
-ouro preto
+Futebol Internacional
 
-ouro preto
+Futebol Internacional
 
-Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto
+Árbitra suspensa por vídeo de sexo rompe silêncio
 
-Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://www.tnh1.com.br/noticia/nid/acidente-de-helicoptero-governo-de-mg-divulga-nomes-das-vitimas-e-decreta-luto/ "Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto")
+Árbitra suspensa por vídeo de sexo rompe silêncio](https://www.tnh1.com.br/noticia/nid/arbitra-suspensa-por-video-de-sexo-rompe-silencio/ "Árbitra suspensa por vídeo de sexo rompe silêncio")[![Abertas as inscrições dos editais da Política Nacional Aldir Blanc](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/4/csm_abertas-as-inscricoes-dos-editais-da-politica-nacional-aldir-blanc_-_foto_Edvan_Ferreira_-_Agencia_Alagoas_7593213bea.jpg)
+
+Cultura
+
+Cultura
+
+Abertas as inscrições dos editais da Política Nacional Aldir Blanc
+
+Abertas as inscrições dos editais da Política Nacional Aldir Blanc](https://www.tnh1.com.br/noticia/nid/abertas-as-inscricoes-dos-editais-da-politica-nacional-aldir-blanc/ "Abertas as inscrições dos editais da Política Nacional Aldir Blanc")[![Navalni, opositor de Putin, deixou diário inédito antes de morrer; leia trechos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/9/csm_csm_O_lider_opositor_russo_Alexei_Navalny_Foto_Reproducao_-_Redes_sociais_293d43ba68_82db63f431.jpg)
+
+no Ártico
+
+no Ártico
+
+Navalni, opositor de Putin, deixou diário inédito antes de morrer; leia trechos
+
+Navalni, opositor de Putin, deixou diário inédito antes de morrer; leia trechos](https://www.tnh1.com.br/noticia/nid/navalni-opositor-de-putin-deixou-diario-inedito-antes-de-morrer-leia-trechos/ "Navalni, opositor de Putin, deixou diário inédito antes de morrer; leia trechos")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
