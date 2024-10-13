@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-12 Oct 2024
+13 Oct 2024
 
 * [Home
     
@@ -284,22 +284,6 @@ Police arrested the man in the Glenshane Road area of Derry
 [23-year-old man arrested on suspicion of various drugs related offences](https://www.derrynow.com/news/local-news/1628631/23-year-old-man-arrested-on-suspicion-of-various-drugs-related-offences.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sinn Fein member resigns over claims of sending inappropriate messages to teen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein member resigns over claims of sending inappropriate messages to teen")](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Sinn Fein member resigns over claims of sending inappropriate messages to teen](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1628426/derry-city-take-a-point-but-miss-big-opportunity-against-bohemians.html)
-
-Paul McMullan reacts to a missed chance. Pic by Ramsey Cardy/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry City take a point but miss big opportunity against Bohemians](https://www.derrynow.com/news/derry-sport/1628426/derry-city-take-a-point-but-miss-big-opportunity-against-bohemians.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Sinn Fein member resigns over claims of sending inappropriate messages to teen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein member resigns over claims of sending inappropriate messages to teen")](https://www.derrynow.com/news/northern-ireland/1628595/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
@@ -307,19 +291,19 @@ Paul McMullan reacts to a missed chance. Pic by Ramsey Cardy/ Sportsfile
 [Sinn Fein member resigns over claims of sending inappropriate messages to teen](https://www.derrynow.com/news/northern-ireland/1628595/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Sinn Fein member resigns over claims of sending inappropriate messages to teen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein member resigns over claims of sending inappropriate messages to teen")](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Sinn Fein member resigns over claims of sending inappropriate messages to teen](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Directorial debut for Derry based filmmaker with the release if Kathleen Is Here in theatres](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Directorial debut for Derry based filmmaker with the release if Kathleen Is Here in theatres")](https://www.derrynow.com/news/what-s-on/1625608/directorial-debut-for-derry-based-filmmaker-with-the-release-of-kathleen-is-here-in-theatres.html)
 
 [What's On](https://www.derrynow.com/section/1058/what-s-on)
 
 [Directorial debut for Derry based filmmaker with the release of Kathleen Is Here in theatres](https://www.derrynow.com/news/what-s-on/1625608/directorial-debut-for-derry-based-filmmaker-with-the-release-of-kathleen-is-here-in-theatres.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man who allegedly exposed himself to school children released on police bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who allegedly exposed himself to school children released on police bail")](https://www.derrynow.com/news/northern-ireland/1628562/man-who-allegedly-exposed-himself-to-school-children-released-on-police-bail.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Man who allegedly exposed himself to school children released on police bail](https://www.derrynow.com/news/northern-ireland/1628562/man-who-allegedly-exposed-himself-to-school-children-released-on-police-bail.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Buildings across Northern Ireland light up blue in support of World Arthritis Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Buildings across Northern Ireland light up blue in support of World Arthritis Day")](https://www.derrynow.com/news/local-news/1627086/buildings-across-northern-ireland-light-up-blue-in-support-of-world-arthritis-day.html)
 
@@ -338,6 +322,20 @@ The Derry Radical Bookfair in Pilots Row Community Centre
 
 [Derry Radical Bookfair set to return](https://www.derrynow.com/news/local-news/1628604/derry-radical-bookfair-set-to-return.html)
 ----------------------------------------------------------------------------------------------------------------------------------
+
+[![Man who allegedly exposed himself to school children released on police bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who allegedly exposed himself to school children released on police bail")](https://www.derrynow.com/news/northern-ireland/1628562/man-who-allegedly-exposed-himself-to-school-children-released-on-police-bail.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Man who allegedly exposed himself to school children released on police bail](https://www.derrynow.com/news/northern-ireland/1628562/man-who-allegedly-exposed-himself-to-school-children-released-on-police-bail.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Jamie Dornan looking forward to ‘much-needed’ break after filming Netflix drama](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Jamie Dornan looking forward to ‘much-needed’ break after filming Netflix drama")](https://www.derrynow.com/news/northern-ireland/1628594/jamie-dornan-looking-forward-to-much-needed-break-after-filming-netflix-drama.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Jamie Dornan looking forward to ‘much-needed’ break after filming Netflix drama](https://www.derrynow.com/news/northern-ireland/1628594/jamie-dornan-looking-forward-to-much-needed-break-after-filming-netflix-drama.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
