@@ -10,7 +10,9 @@
 
 [Skip to Content](#content)
 
-[![Cuddlist](https://cuddlist.com/wp-content/uploads/2019/08/cuddlist-professional-cuddle-therapy-blue-large-1.png "Cuddlist")](https://cuddlist.com/ "Cuddlist Training")
+[![Cuddlist](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Cuddlist")
+
+![Cuddlist](https://cuddlist.com/wp-content/uploads/2019/08/cuddlist-professional-cuddle-therapy-blue-large-1.png "Cuddlist")](https://cuddlist.com/ "Cuddlist Training")
 
 MENUMENU
 
