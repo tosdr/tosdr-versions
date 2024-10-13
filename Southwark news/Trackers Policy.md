@@ -221,11 +221,11 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [8th October 2024](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
 
-[![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
+[![The Den. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Den-generic-1-750x375-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
 
-### [New outdoor food market to start on weekends in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
+### [On this day: Millwall splashed the cash on Brighton youngster](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
 
-[6th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
+[11th October 2024](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
 
 ### Featured Articles
 
