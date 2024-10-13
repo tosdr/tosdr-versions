@@ -7,10 +7,6 @@
 * [WhatsApp](https://wa.me/96892423242 "Muscat Livestock on WhatsApp")
 * [LinkedIn](https://www.linkedin.com/company/muscatlivestock/ "Muscat Livestock on LinkedIn")
 
-Use code **'OCT10'** and get **10% off** storewide.
-
-Shop OFFERS and SAVE BIG [Month Start Sale](https://mls.om/collections/month-end-offers "Month Start Offers")
-
 **Fresh AUS** [**Angus**](https://mls.om/collections/australian-black-angus-beef "https://mls.om/collections/australian-black-angus-beef") **and AUS** [**Wagyu**](https://mls.om/collections/australian-wagyu-beef "Australian Wagyu Beef") **beef delivered within 2 hours across Muscat.**
 
 **100% free returns & replacements because you deserve only the best!**
