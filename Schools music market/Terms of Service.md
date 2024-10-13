@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/big-fat-music-quiz/)
+ [](https://schoolsmusicmarket.com/product/live-music-performance-how-to-get-a-festival-slot-presentation/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/franken-rhymes-a-halloween-rhyming-worksheet/)
+ [](https://schoolsmusicmarket.com/product/songwriting-lesson-part-3-lets-write-a-middle-8/)
 
 ###### Browse By Year/Grade
 
