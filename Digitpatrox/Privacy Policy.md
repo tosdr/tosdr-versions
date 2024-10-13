@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Saturday, October 12 2024
+Sunday, October 13 2024
 
 Latest
 
-* [Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](https://digitpatrox.com/microsoft-deprecates-pptp-and-l2tp-vpn-protocols-in-windows-server/)
-* [Hackers took over robovacs to chase pets and yell slurs](https://digitpatrox.com/hackers-took-over-robovacs-to-chase-pets-and-yell-slurs/)
-* [NYT Strands Today: Hints, Answers & Spangram for October 13](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-13/)
-* [Here’s what’s new in Office 2024 – Computerworld](https://digitpatrox.com/heres-whats-new-in-office-2024-computerworld/)
-* [Walmart’s October ‘Prime Day’ Sale Is Still Going](https://digitpatrox.com/walmarts-october-prime-day-sale-is-still-going/)
-* [How to upgrade Windows 10 to 11 24H2](https://digitpatrox.com/how-to-upgrade-windows-10-to-11-24h2/)
-* [How to Maintain a Car That Isn’t Driven Much](https://digitpatrox.com/how-to-maintain-a-car-that-isnt-driven-much/)
-* [8 Stats That Explain Why Gen Z Prefers Video Games to Movies](https://digitpatrox.com/8-stats-that-explain-why-gen-z-prefers-video-games-to-movies/)
-* [Firefox Update Patches Exploited Vulnerability](https://digitpatrox.com/firefox-update-patches-exploited-vulnerability/)
-* [What is a cooling gel mattress topper and should you buy one?](https://digitpatrox.com/what-is-a-cooling-gel-mattress-topper-and-should-you-buy-one/)
+* [Deepfakes Can Fool Facial Recognition on Crypto Exchanges](https://digitpatrox.com/deepfakes-can-fool-facial-recognition-on-crypto-exchanges/)
+* [NYT Strands today — hints, spangram and answers for game #224 (Sunday, October 13 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-224-sunday-october-13-2024/)
+* [OpenAI confirms threat actors use ChatGPT to write malware](https://digitpatrox.com/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
+* [Starship’s fifth test flight is approved: where to watch the launch](https://digitpatrox.com/starships-fifth-test-flight-is-approved-where-to-watch-the-launch/)
+* [NYT Connections Today: Hints and Answers for October 13, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-13-2024/)
+* [Microsoft brings Copilot AI tools to OneDrive – Computerworld](https://digitpatrox.com/microsoft-brings-copilot-ai-tools-to-onedrive-computerworld/)
+* [When It’s Time to Stop Watering Your Lawn, Trees, and Garden in Fall](https://digitpatrox.com/when-its-time-to-stop-watering-your-lawn-trees-and-garden-in-fall/)
+* [Does the 5-Second Rule Work?](https://digitpatrox.com/does-the-5-second-rule-work/)
+* [I Only Use Microsoft Word in Dark Mode—Here’s How You Can Too](https://digitpatrox.com/i-only-use-microsoft-word-in-dark-mode-heres-how-you-can-too/)
+* [The Latest Call Center IVR Upgrades Are Slashing Wait Times](https://digitpatrox.com/the-latest-call-center-ivr-upgrades-are-slashing-wait-times/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/14/Windows-Server.jpg)](https://digitpatrox.com/microsoft-deprecates-pptp-and-l2tp-vpn-protocols-in-windows-server/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241011-ai-deepfake-video-crypto-accounts.jpg)](https://digitpatrox.com/deepfakes-can-fool-facial-recognition-on-crypto-exchanges/)
     
-    [Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](https://digitpatrox.com/microsoft-deprecates-pptp-and-l2tp-vpn-protocols-in-windows-server/)
+    [Deepfakes Can Fool Facial Recognition on Crypto Exchanges](https://digitpatrox.com/deepfakes-can-fool-facial-recognition-on-crypto-exchanges/)
     
-    6 seconds ago
+    35 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/oZWxzrEc02aZl4xQgN-FV5TMXHg=/0x0:5760x3840/1200x628/filters:focal(2880x1920:2881x1921)/cdn.vox-cdn.com/uploads/chorus_asset/file/24889891/8A0A9622.jpeg)](https://digitpatrox.com/hackers-took-over-robovacs-to-chase-pets-and-yell-slurs/)
+* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-224-sunday-october-13-2024/)
     
-    [Hackers took over robovacs to chase pets and yell slurs](https://digitpatrox.com/hackers-took-over-robovacs-to-chase-pets-and-yell-slurs/)
+    [NYT Strands today — hints, spangram and answers for game #224 (Sunday, October 13 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-224-sunday-october-13-2024/)
     
-    17 mins ago
+    50 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-13/)
+* [![](https://www.bleepstatic.com/content/hl-images/2022/05/12/ai-cybersecurity-hacker.jpg)](https://digitpatrox.com/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
     
-    [NYT Strands Today: Hints, Answers & Spangram for October 13](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-13/)
+    [OpenAI confirms threat actors use ChatGPT to write malware](https://digitpatrox.com/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
     
-    32 mins ago
+    1 hour ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3555023-0-97078300-1728554631-microsoft-office-2024-apps.webp?w=1024)](https://digitpatrox.com/heres-whats-new-in-office-2024-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/4K9nCisaviTAd7mbw7bzrFgUnHg=/0x0:2050x1079/1200x628/filters:focal(1025x540:1026x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25674333/Starship_fifth_flight.jpeg)](https://digitpatrox.com/starships-fifth-test-flight-is-approved-where-to-watch-the-launch/)
     
-    [Here’s what’s new in Office 2024 – Computerworld](https://digitpatrox.com/heres-whats-new-in-office-2024-computerworld/)
+    [Starship’s fifth test flight is approved: where to watch the launch](https://digitpatrox.com/starships-fifth-test-flight-is-approved-where-to-watch-the-launch/)
     
     2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01J862VZ05FC5GFQNRQ2KAR24R/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/walmarts-october-prime-day-sale-is-still-going/)
+* [![](https://beebom.com/wp-content/uploads/2024/07/NYT-Connections-Today-Featured.jpg?w=1250&quality=75)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-13-2024/)
     
-    [Walmart’s October ‘Prime Day’ Sale Is Still Going](https://digitpatrox.com/walmarts-october-prime-day-sale-is-still-going/)
+    [NYT Connections Today: Hints and Answers for October 13, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-13-2024/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [6 seconds ago
+* [35 mins ago
     
-    ### Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](https://digitpatrox.com/microsoft-deprecates-pptp-and-l2tp-vpn-protocols-in-windows-server/)
-* [17 mins ago
+    ### Deepfakes Can Fool Facial Recognition on Crypto Exchanges](https://digitpatrox.com/deepfakes-can-fool-facial-recognition-on-crypto-exchanges/)
+* [50 mins ago
     
-    ### Hackers took over robovacs to chase pets and yell slurs](https://digitpatrox.com/hackers-took-over-robovacs-to-chase-pets-and-yell-slurs/)
-* [32 mins ago
+    ### NYT Strands today — hints, spangram and answers for game #224 (Sunday, October 13 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-224-sunday-october-13-2024/)
+* [1 hour ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for October 13](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-13/)
+    ### OpenAI confirms threat actors use ChatGPT to write malware](https://digitpatrox.com/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
 
 Most Popular Topics
 
-* [4 weeks ago
+* [September 12, 2024
     
-    ### How to Unhide Apps on iPhone in iOS 18](https://digitpatrox.com/how-to-unhide-apps-on-iphone-in-ios-18/)
-* [August 23, 2024
+    ### Google Chrome makes it easier to opt out of annoying notifications on Android](https://digitpatrox.com/google-chrome-makes-it-easier-to-opt-out-of-annoying-notifications-on-android/)
+* [2 weeks ago
     
-    ### Connecticut special needs school hacked; student SSNs, finance, and medical info compromised](https://digitpatrox.com/connecticut-special-needs-school-hacked-student-ssns-finance-and-medical-info-compromised/)
-* [3 weeks ago
+    ### Intel and the US set to seal $8.5B CHIPS Act funding – Computerworld](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
+* [2 weeks ago
     
-    ### Huge Skechers summer clearance event — 7 sneaker deals I’d buy now from $44](https://digitpatrox.com/huge-skechers-summer-clearance-event-7-sneaker-deals-id-buy-now-from-44/)
+    ### What Is No-Code Automation?](https://digitpatrox.com/what-is-no-code-automation/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### How to Maintain a Car That Isn’t Driven Much](https://digitpatrox.com/how-to-maintain-a-car-that-isnt-driven-much/)
-* [3 hours ago
-    
-    ### 8 Stats That Explain Why Gen Z Prefers Video Games to Movies](https://digitpatrox.com/8-stats-that-explain-why-gen-z-prefers-video-games-to-movies/)
 * [4 hours ago
     
-    ### Firefox Update Patches Exploited Vulnerability](https://digitpatrox.com/firefox-update-patches-exploited-vulnerability/)
+    ### When It’s Time to Stop Watering Your Lawn, Trees, and Garden in Fall](https://digitpatrox.com/when-its-time-to-stop-watering-your-lawn-trees-and-garden-in-fall/)
+* [5 hours ago
+    
+    ### Does the 5-Second Rule Work?](https://digitpatrox.com/does-the-5-second-rule-work/)
+* [5 hours ago
+    
+    ### I Only Use Microsoft Word in Dark Mode—Here’s How You Can Too](https://digitpatrox.com/i-only-use-microsoft-word-in-dark-mode-heres-how-you-can-too/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
