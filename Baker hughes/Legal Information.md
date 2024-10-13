@@ -626,7 +626,7 @@ Select your language English日本語
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flare-management)
             
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flowmeters/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flowmeters)
                 
             * [Flare Solutions](https://www.bakerhughes.com/panametrics/flare-management/flare-solutions)
                 
@@ -643,7 +643,7 @@ Select your language English日本語
             
             * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-flowmeters)
                 
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flowmeters/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flowmeters)
                 
             * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flowmeters)
                 
@@ -1589,7 +1589,7 @@ Search
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flare-management)
             
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flowmeters/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flowmeters)
                 
             * [Flare Solutions](https://www.bakerhughes.com/panametrics/flare-management/flare-solutions)
                 
@@ -1606,7 +1606,7 @@ Search
             
             * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-flowmeters)
                 
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flowmeters/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flowmeters)
                 
             * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flowmeters)
                 
