@@ -228,9 +228,9 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
-
 [Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
+
+[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
 [Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
 
@@ -248,7 +248,7 @@ this week
 
 [Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
-[Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
+[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
 
   
 
