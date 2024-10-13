@@ -20,16 +20,16 @@ Sunday, October 13 2024
 
 Latest
 
+* [Why You Need to File Your Homeowners Insurance Claim ASAP After a Disaster](https://digitpatrox.com/why-you-need-to-file-your-homeowners-insurance-claim-asap-after-a-disaster/)
+* [Beware a Flood of Flooded Cars](https://digitpatrox.com/beware-a-flood-of-flooded-cars/)
+* [What Version of Linux Are We On?](https://digitpatrox.com/what-version-of-linux-are-we-on/)
+* [APAC Concerns Grow Over Foreign AI Monopolies, Competition](https://digitpatrox.com/apac-concerns-grow-over-foreign-ai-monopolies-competition/)
+* [What is a fall simmer pot and how to make one](https://digitpatrox.com/what-is-a-fall-simmer-pot-and-how-to-make-one/)
+* [Meta suggests AI Northern Lights pics are as good as the real thing](https://digitpatrox.com/meta-suggests-ai-northern-lights-pics-are-as-good-as-the-real-thing/)
+* [Who Is Okarun in Dandadan? Power & Abilities Explained](https://digitpatrox.com/who-is-okarun-in-dandadan-power-abilities-explained/)
+* [Microsoft wants Copilot to be your new AI best friend – Computerworld](https://digitpatrox.com/microsoft-wants-copilot-to-be-your-new-ai-best-friend-computerworld/)
 * [This Is How Apple Intelligence’s Notification Summaries Handle Breakup Texts](https://digitpatrox.com/this-is-how-apple-intelligences-notification-summaries-handle-breakup-texts/)
 * [Most Fuel-Efficient Used Compact SUVs](https://digitpatrox.com/most-fuel-efficient-used-compact-suvs/)
-* [Fake Job Listings are Everywhere; Here’s How to Avoid Them](https://digitpatrox.com/fake-job-listings-are-everywhere-heres-how-to-avoid-them/)
-* [8 Simple Call Center Best Practices That Require $0 Spend](https://digitpatrox.com/8-simple-call-center-best-practices-that-require-0-spend/)
-* [The Keychron Q14 Max is the best ergonomic keyboard I’ve used so far — and my wrists have never been this pain-free](https://digitpatrox.com/the-keychron-q14-max-is-the-best-ergonomic-keyboard-ive-used-so-far-and-my-wrists-have-never-been-this-pain-free/)
-* [WordPress.org’s latest move involves taking control of a WP Engine plugin](https://digitpatrox.com/wordpress-orgs-latest-move-involves-taking-control-of-a-wp-engine-plugin/)
-* [Today’s Wordle Answer and Hints (October 13, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-13-2024/)
-* [DOJ suggests splitting off Chrome and Android to break Google’s monopoly](https://digitpatrox.com/doj-suggests-splitting-off-chrome-and-android-to-break-googles-monopoly/)
-* [You Need a Better Broom (and Here Are Six to Choose From)](https://digitpatrox.com/you-need-a-better-broom-and-here-are-six-to-choose-from/)
-* [Best Dish Drying Racks and Mats](https://digitpatrox.com/best-dish-drying-racks-and-mats/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01J9Y82VJJBC626B3SE2ZHFPVG/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/this-is-how-apple-intelligences-notification-summaries-handle-breakup-texts/)
+* [![](https://lifehacker.com/imagery/articles/01J9WECE3QWZDGMKZ9K1JHA2VX/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/why-you-need-to-file-your-homeowners-insurance-claim-asap-after-a-disaster/)
     
-    [This Is How Apple Intelligence’s Notification Summaries Handle Breakup Texts](https://digitpatrox.com/this-is-how-apple-intelligences-notification-summaries-handle-breakup-texts/)
+    [Why You Need to File Your Homeowners Insurance Claim ASAP After a Disaster](https://digitpatrox.com/why-you-need-to-file-your-homeowners-insurance-claim-asap-after-a-disaster/)
     
-    3 mins ago
+    9 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1671550464/prod/content/dam/CRO-Images-2022/Cars/12December/CR-Cars-InlineHero-Most-Fuel-Efficient-Used-Compact-SUVs-1222)](https://digitpatrox.com/most-fuel-efficient-used-compact-suvs/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1721418671/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Beware-a-Flood-of-Flooded-Cars-0724)](https://digitpatrox.com/beware-a-flood-of-flooded-cars/)
     
-    [Most Fuel-Efficient Used Compact SUVs](https://digitpatrox.com/most-fuel-efficient-used-compact-suvs/)
+    [Beware a Flood of Flooded Cars](https://digitpatrox.com/beware-a-flood-of-flooded-cars/)
     
-    34 mins ago
+    40 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/kground.jpg)](https://digitpatrox.com/fake-job-listings-are-everywhere-heres-how-to-avoid-them/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/16.jpg)](https://digitpatrox.com/what-version-of-linux-are-we-on/)
     
-    [Fake Job Listings are Everywhere; Here’s How to Avoid Them](https://digitpatrox.com/fake-job-listings-are-everywhere-heres-how-to-avoid-them/)
+    [What Version of Linux Are We On?](https://digitpatrox.com/what-version-of-linux-are-we-on/)
     
-    37 mins ago
+    43 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/Yan-Krukau-pexels-yankrukov-8866743.jpeg)](https://digitpatrox.com/8-simple-call-center-best-practices-that-require-0-spend/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241011-apac-concerns-foreign-ai-monopoly-competition.jpg)](https://digitpatrox.com/apac-concerns-grow-over-foreign-ai-monopolies-competition/)
     
-    [8 Simple Call Center Best Practices That Require $0 Spend](https://digitpatrox.com/8-simple-call-center-best-practices-that-require-0-spend/)
+    [APAC Concerns Grow Over Foreign AI Monopolies, Competition](https://digitpatrox.com/apac-concerns-grow-over-foreign-ai-monopolies-competition/)
     
     2 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/TCoaxJAJiVzE5KDredAmwM-1200-80.jpg)](https://digitpatrox.com/the-keychron-q14-max-is-the-best-ergonomic-keyboard-ive-used-so-far-and-my-wrists-have-never-been-this-pain-free/)
+* [![](https://cdn.mos.cms.futurecdn.net/BsnHh29hoQDx3SqXa4ft2g-1200-80.jpg)](https://digitpatrox.com/what-is-a-fall-simmer-pot-and-how-to-make-one/)
     
-    [The Keychron Q14 Max is the best ergonomic keyboard I’ve used so far — and my wrists have never been this pain-free](https://digitpatrox.com/the-keychron-q14-max-is-the-best-ergonomic-keyboard-ive-used-so-far-and-my-wrists-have-never-been-this-pain-free/)
+    [What is a fall simmer pot and how to make one](https://digitpatrox.com/what-is-a-fall-simmer-pot-and-how-to-make-one/)
     
     2 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 mins ago
+* [9 mins ago
     
-    ### This Is How Apple Intelligence’s Notification Summaries Handle Breakup Texts](https://digitpatrox.com/this-is-how-apple-intelligences-notification-summaries-handle-breakup-texts/)
-* [34 mins ago
+    ### Why You Need to File Your Homeowners Insurance Claim ASAP After a Disaster](https://digitpatrox.com/why-you-need-to-file-your-homeowners-insurance-claim-asap-after-a-disaster/)
+* [40 mins ago
     
-    ### Most Fuel-Efficient Used Compact SUVs](https://digitpatrox.com/most-fuel-efficient-used-compact-suvs/)
-* [37 mins ago
+    ### Beware a Flood of Flooded Cars](https://digitpatrox.com/beware-a-flood-of-flooded-cars/)
+* [43 mins ago
     
-    ### Fake Job Listings are Everywhere; Here’s How to Avoid Them](https://digitpatrox.com/fake-job-listings-are-everywhere-heres-how-to-avoid-them/)
+    ### What Version of Linux Are We On?](https://digitpatrox.com/what-version-of-linux-are-we-on/)
 
 Most Popular Topics
 
-* [September 2, 2024
+* [August 25, 2024
     
-    ### Best Movies and TV Shows on Prime This Month](https://digitpatrox.com/best-movies-and-tv-shows-on-prime-this-month/)
-* [September 13, 2024
+    ### SolarWinds fixes hardcoded credentials flaw in Web Help Desk](https://digitpatrox.com/solarwinds-fixes-hardcoded-credentials-flaw-in-web-help-desk/)
+* [September 12, 2024
     
-    ### Wordle Answer for Today, September 13, 2024](https://digitpatrox.com/wordle-answer-for-today-september-13-2024/)
-* [August 15, 2024
+    ### How to install Microsoft Edge on Linux](https://digitpatrox.com/how-to-install-microsoft-edge-on-linux/)
+* [2 weeks ago
     
-    ### NetSuite vulnerability could leave thousands of websites exposed](https://digitpatrox.com/netsuite-vulnerability-could-leave-thousands-of-websites-exposed/)
+    ### Ring is adding 24/7 video recording to the Stick Up Cam and Indoor Cam starting next month](https://digitpatrox.com/ring-is-adding-24-7-video-recording-to-the-stick-up-cam-and-indoor-cam-starting-next-month/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Today’s Wordle Answer and Hints (October 13, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-13-2024/)
+    ### Who Is Okarun in Dandadan? Power & Abilities Explained](https://digitpatrox.com/who-is-okarun-in-dandadan-power-abilities-explained/)
 * [5 hours ago
     
-    ### DOJ suggests splitting off Chrome and Android to break Google’s monopoly](https://digitpatrox.com/doj-suggests-splitting-off-chrome-and-android-to-break-googles-monopoly/)
+    ### Microsoft wants Copilot to be your new AI best friend – Computerworld](https://digitpatrox.com/microsoft-wants-copilot-to-be-your-new-ai-best-friend-computerworld/)
 * [5 hours ago
     
-    ### You Need a Better Broom (and Here Are Six to Choose From)](https://digitpatrox.com/you-need-a-better-broom-and-here-are-six-to-choose-from/)
+    ### This Is How Apple Intelligence’s Notification Summaries Handle Breakup Texts](https://digitpatrox.com/this-is-how-apple-intelligences-notification-summaries-handle-breakup-texts/)
 
 Most Viewed Topics
 
+* [August 21, 2024
+    
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
