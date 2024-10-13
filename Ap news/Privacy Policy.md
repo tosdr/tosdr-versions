@@ -13,8 +13,8 @@ Menu
     TOP STORIES
     
     * [Israeli strikes kill a family of 8 in Gaza and destroy a century-old market in Lebanon](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-13-2024-a8cd5df3e2bb4ab08405a78251244bb2)
-    * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
-    * [As Hezbollah and Israel battle on the border, Lebanon's army watches from the sidelines](https://apnews.com/article/lebanese-army-laf-israel-hezbollah-78f6ad2da82d64d1ae266aa5394e6d4e)
+    * [Ukraine’s human rights envoy urges response to alleged killings of Ukrainian POWs in Kursk](https://apnews.com/article/russia-ukraine-war-pows-kursk-drones-missiles-d8eabbac5bd82b34bd715c4d7473a346)
+    * [Netanyahu mulls plan to empty northern Gaza of civilians and cut off aid to those left inside](https://apnews.com/article/hamas-israel-generals-plan-eiland-gaza-219d7eb9a3050e281ccc032d5a56263c)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
+    * [In an engineering feat, mechanical SpaceX arms catch Starship rocket booster back at the launch pad](https://apnews.com/article/spacex-starship-rocket-launch-7af865e987bb4a2aad38759e06013626)
     * [Determination to rebuild follows Florida's hurricanes with acceptance that storms will come again](https://apnews.com/article/hurricane-milton-florida-a39b7a04052e9cd9d0d8598d090ea54b)
-    * [Volunteers bring solar power to Hurricane Helene's disaster zone](https://apnews.com/article/hurricane-helene-solar-power-north-carolina-095b6ff5f1290ac7439f12b555f9845d)
-    * [Biden will survey Hurricane Milton damage in Florida, Harris attends church in North Carolina](https://apnews.com/article/harris-biden-hurricane-milton-election-84526011bf223902a04f41f59b7651b5)
+    * [Prison operator under federal scrutiny spent millions settling Tennessee mistreatment claims](https://apnews.com/article/prison-settlement-tennessee-mistreatment-deaths-1c2b3cd5cd395a7f1453566e366fb415)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [US will send an air defense battery and American troops to Israel to bolster defenses against Iran](https://apnews.com/article/thaad-israel-missile-defense-iran-pentagon-34a0b06d82352df6cb0b80d94d4913c8)
     * [Trump tested the limits on using the military at home. If elected again, he plans to go further](https://apnews.com/article/trump-military-border-civil-unrest-domestic-use-a136c69cc85184b07f161c4c09b46c50)
-    * [Biden will survey Hurricane Milton damage in Florida, Harris attends church in North Carolina](https://apnews.com/article/harris-biden-hurricane-milton-election-84526011bf223902a04f41f59b7651b5)
-    * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
+    * [Biden is surveying Hurricane Milton damage in Florida. Harris is going to church in North Carolina](https://apnews.com/article/harris-biden-hurricane-milton-election-84526011bf223902a04f41f59b7651b5)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Dillon Gabriel rallies No. 3 Oregon past No. 2 Ohio State, 32-31](https://apnews.com/article/ohio-state-oregon-score-68fb7b786ae40ca2630bb3bafd68830d)
-    * [Thomas hits grand slam off Skubal, Guardians down Tigers 7-3 to reach AL Championship Series](https://apnews.com/article/mlb-playoffs-tigers-guardians-b6c33f918a7bdfd39a299632a3394dfa)
-    * [No. 4 Penn State rallies back to beat USC 33-30 in overtime on TE Tyler Warren's record day](https://apnews.com/article/usc-penn-state-score-fa8d60806cd32f0292ee66e37e4251f5)
+    * ['Big Spender' is the theme music for MLB final four as high-payroll Mets, Yankees, Dodgers reach LCS](https://apnews.com/article/mlb-alcs-nlcs-yankees-dodgers-met-guardians-dc05281efb0cc2e19fa592e2e5dcbfec)
+    * [Ohtani gives hope to young baseball players in Japan, and the rest of the country, too](https://apnews.com/article/shohei-ohtani-japan-youth-baseball-tokyo-5088edf93270589269f2621c1eebd866)
+    * [Ruth Chepngetich of Kenya smashes world record by nearly 2 minutes at Chicago Marathon](https://apnews.com/article/chicago-marathon-ruth-chepngetich-world-record-a0ac28b89f4763cc8150ae301e369176)
     
     Newsletters
     
@@ -115,8 +115,8 @@ Menu
     TOP STORIES
     
     * [Ariana Grande hosts 'SNL' for the first time since the last female presidential nominee](https://apnews.com/article/snl-ariana-grande-stevie-nicks-58c903e3c28588b78f4d7efac63e977f)
+    * [‘Game of Thrones’ dragon-forged Iron Throne fetches nearly $1.5 million at auction](https://apnews.com/article/game-of-thrones-auction-sale-iron-throne-530a138f252f6684c744d21fec41c873)
     * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
-    * [Jury finds ex-member of rock band Mr. Bungle guilty of killing his girlfriend](https://apnews.com/article/mr-bungle-girlfriend-killing-guilty-bd369201c2388383428a84746661929f)
     
 * [Business](https://apnews.com/business)
     
@@ -234,9 +234,9 @@ Menu
     
     TOP STORIES
     
+    * [Clean energy workers are desperately needed, but many don't know these jobs exist](https://apnews.com/article/renewable-energy-heat-pump-solar-incarcerated-jobs-440fbc3411f6e92219b61efdac8b4fed)
     * [Drought is parching the world's largest man-made lake, stripping Zambia of its electricity](https://apnews.com/article/climate-power-electricity-drought-environment-6e3e746566b0831491e72de380f4079d)
     * [Climate change gave significant boost to Milton's destructive rain, winds, scientists say](https://apnews.com/article/hurricane-milton-climate-change-greenhouse-gases-fossil-fuels-aa1c971c228feb9da6f36fb9cc46ee81)
-    * [Colombia’s river guardians battle to protect the Atrato amid threats and abandonment](https://apnews.com/article/atrato-guardians-illegal-mining-contamination-threats-choco-977ad1e171715b8f7fb20a8ac6b9e149)
     
 * [Health](https://apnews.com/health)
     
@@ -269,7 +269,7 @@ Menu
     
     TOP STORIES
     
-    * [Eggnog before Thanksgiving? Shoppers eager for a new season scramble retail calendars](https://apnews.com/article/seasonal-trends-holiday-halloween-thanksgiving-christmas-335a4baeb03a8afb37206e74bfcbbf28)
+    * [Why stores are throwing out the traditional retail calendar](https://apnews.com/article/seasonal-trends-holiday-halloween-thanksgiving-christmas-335a4baeb03a8afb37206e74bfcbbf28)
     * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     * [Kim Jones steps down as artistic director at Fendi to concentrate on his role at Dior Men's](https://apnews.com/article/italy-fendi-kim-jones-1fe57e1b58515865a052126f38ffbd03)
     
@@ -295,10 +295,10 @@ Menu
     
     * [Ataques israelíes matan a una familia en Gaza y destruyen un mercado centenario en Líbano](https://apnews.com/world-news/general-news-efa99131cb37916528b98c0f5323c236)
     * [Otra consecuencia de la emigración y la crisis en Cuba: el aumento de mascotas abandonadas](https://apnews.com/world-news/general-news-eb93f7a538ab0ea00b9364dd706443f6)
-    * [Mientras Hezbollah e Israel combaten en la frontera, el Ejército libanés mira desde los márgenes](https://apnews.com/world-news/general-news-9091e3820005d6c22021bcf8de6adf0e)
-    * [Exjuez de Macao es elegido como primer líder de la ciudad de casinos nacido en la China continental](https://apnews.com/world-news/general-news-f7da03db89e85aca6999f1f8539f7505)
-    * [Florida reconstruye con determinación tras los huracanes, asume que habrá más tormentas](https://apnews.com/us-news/general-news-279e57c77ec36066f3843f46fb38db05)
-    * [En acto de campaña, Trump escucha a inmigrante que ingresó a EEUU sin autorización legal](https://apnews.com/us-news/general-news-5cbeebc7fd7cf7b69d466788cd7c5f2a)
+    * [Biden visita Florida para evaluar los daños causados por el huracán Milton](https://apnews.com/politics/general-news-ed0e30c054d1647d1d01a0e719eaa408)
+    * [Trump puso a prueba los límites del uso del ejército. Si gana, planea ir más lejos](https://apnews.com/politics/general-news-b9473403e7c3056d5884a4642a00c11f)
+    * [Walz se va de caza a Minnesota para destacar sus raíces rurales](https://apnews.com/us-news/general-news-cbdfddf62e05c8afe9edaa65816560db)
+    * [Consumidores ansiosos adelantan el calendario de compras de temporada](https://apnews.com/us-news/general-news-af0c2535b4ccb3b09cc4f04fe35cb5cc)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -459,8 +459,8 @@ Submit Search
     TOP STORIES
     
     * [Israeli strikes kill a family of 8 in Gaza and destroy a century-old market in Lebanon](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-13-2024-a8cd5df3e2bb4ab08405a78251244bb2)
-    * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
-    * [As Hezbollah and Israel battle on the border, Lebanon's army watches from the sidelines](https://apnews.com/article/lebanese-army-laf-israel-hezbollah-78f6ad2da82d64d1ae266aa5394e6d4e)
+    * [Ukraine’s human rights envoy urges response to alleged killings of Ukrainian POWs in Kursk](https://apnews.com/article/russia-ukraine-war-pows-kursk-drones-missiles-d8eabbac5bd82b34bd715c4d7473a346)
+    * [Netanyahu mulls plan to empty northern Gaza of civilians and cut off aid to those left inside](https://apnews.com/article/hamas-israel-generals-plan-eiland-gaza-219d7eb9a3050e281ccc032d5a56263c)
     
     Newsletters
     
@@ -476,9 +476,9 @@ Submit Search
     
     TOP STORIES
     
+    * [In an engineering feat, mechanical SpaceX arms catch Starship rocket booster back at the launch pad](https://apnews.com/article/spacex-starship-rocket-launch-7af865e987bb4a2aad38759e06013626)
     * [Determination to rebuild follows Florida's hurricanes with acceptance that storms will come again](https://apnews.com/article/hurricane-milton-florida-a39b7a04052e9cd9d0d8598d090ea54b)
-    * [Volunteers bring solar power to Hurricane Helene's disaster zone](https://apnews.com/article/hurricane-helene-solar-power-north-carolina-095b6ff5f1290ac7439f12b555f9845d)
-    * [Biden will survey Hurricane Milton damage in Florida, Harris attends church in North Carolina](https://apnews.com/article/harris-biden-hurricane-milton-election-84526011bf223902a04f41f59b7651b5)
+    * [Prison operator under federal scrutiny spent millions settling Tennessee mistreatment claims](https://apnews.com/article/prison-settlement-tennessee-mistreatment-deaths-1c2b3cd5cd395a7f1453566e366fb415)
     
     Newsletters
     
@@ -529,9 +529,9 @@ Submit Search
     
     TOP STORIES
     
+    * [US will send an air defense battery and American troops to Israel to bolster defenses against Iran](https://apnews.com/article/thaad-israel-missile-defense-iran-pentagon-34a0b06d82352df6cb0b80d94d4913c8)
     * [Trump tested the limits on using the military at home. If elected again, he plans to go further](https://apnews.com/article/trump-military-border-civil-unrest-domestic-use-a136c69cc85184b07f161c4c09b46c50)
-    * [Biden will survey Hurricane Milton damage in Florida, Harris attends church in North Carolina](https://apnews.com/article/harris-biden-hurricane-milton-election-84526011bf223902a04f41f59b7651b5)
-    * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
+    * [Biden is surveying Hurricane Milton damage in Florida. Harris is going to church in North Carolina](https://apnews.com/article/harris-biden-hurricane-milton-election-84526011bf223902a04f41f59b7651b5)
     
     Newsletters
     
@@ -559,9 +559,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Dillon Gabriel rallies No. 3 Oregon past No. 2 Ohio State, 32-31](https://apnews.com/article/ohio-state-oregon-score-68fb7b786ae40ca2630bb3bafd68830d)
-    * [Thomas hits grand slam off Skubal, Guardians down Tigers 7-3 to reach AL Championship Series](https://apnews.com/article/mlb-playoffs-tigers-guardians-b6c33f918a7bdfd39a299632a3394dfa)
-    * [No. 4 Penn State rallies back to beat USC 33-30 in overtime on TE Tyler Warren's record day](https://apnews.com/article/usc-penn-state-score-fa8d60806cd32f0292ee66e37e4251f5)
+    * ['Big Spender' is the theme music for MLB final four as high-payroll Mets, Yankees, Dodgers reach LCS](https://apnews.com/article/mlb-alcs-nlcs-yankees-dodgers-met-guardians-dc05281efb0cc2e19fa592e2e5dcbfec)
+    * [Ohtani gives hope to young baseball players in Japan, and the rest of the country, too](https://apnews.com/article/shohei-ohtani-japan-youth-baseball-tokyo-5088edf93270589269f2621c1eebd866)
+    * [Ruth Chepngetich of Kenya smashes world record by nearly 2 minutes at Chicago Marathon](https://apnews.com/article/chicago-marathon-ruth-chepngetich-world-record-a0ac28b89f4763cc8150ae301e369176)
     
     Newsletters
     
@@ -589,8 +589,8 @@ Submit Search
     TOP STORIES
     
     * [Ariana Grande hosts 'SNL' for the first time since the last female presidential nominee](https://apnews.com/article/snl-ariana-grande-stevie-nicks-58c903e3c28588b78f4d7efac63e977f)
+    * [‘Game of Thrones’ dragon-forged Iron Throne fetches nearly $1.5 million at auction](https://apnews.com/article/game-of-thrones-auction-sale-iron-throne-530a138f252f6684c744d21fec41c873)
     * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
-    * [Jury finds ex-member of rock band Mr. Bungle guilty of killing his girlfriend](https://apnews.com/article/mr-bungle-girlfriend-killing-guilty-bd369201c2388383428a84746661929f)
     
 * [Business](https://apnews.com/business)
     
@@ -727,9 +727,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Clean energy workers are desperately needed, but many don't know these jobs exist](https://apnews.com/article/renewable-energy-heat-pump-solar-incarcerated-jobs-440fbc3411f6e92219b61efdac8b4fed)
     * [Drought is parching the world's largest man-made lake, stripping Zambia of its electricity](https://apnews.com/article/climate-power-electricity-drought-environment-6e3e746566b0831491e72de380f4079d)
     * [Climate change gave significant boost to Milton's destructive rain, winds, scientists say](https://apnews.com/article/hurricane-milton-climate-change-greenhouse-gases-fossil-fuels-aa1c971c228feb9da6f36fb9cc46ee81)
-    * [Colombia’s river guardians battle to protect the Atrato amid threats and abandonment](https://apnews.com/article/atrato-guardians-illegal-mining-contamination-threats-choco-977ad1e171715b8f7fb20a8ac6b9e149)
     
 * [Health](https://apnews.com/health)
     
@@ -773,7 +773,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Eggnog before Thanksgiving? Shoppers eager for a new season scramble retail calendars](https://apnews.com/article/seasonal-trends-holiday-halloween-thanksgiving-christmas-335a4baeb03a8afb37206e74bfcbbf28)
+    * [Why stores are throwing out the traditional retail calendar](https://apnews.com/article/seasonal-trends-holiday-halloween-thanksgiving-christmas-335a4baeb03a8afb37206e74bfcbbf28)
     * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     * [Kim Jones steps down as artistic director at Fendi to concentrate on his role at Dior Men's](https://apnews.com/article/italy-fendi-kim-jones-1fe57e1b58515865a052126f38ffbd03)
     
@@ -799,10 +799,10 @@ Submit Search
     
     * [Ataques israelíes matan a una familia en Gaza y destruyen un mercado centenario en Líbano](https://apnews.com/world-news/general-news-efa99131cb37916528b98c0f5323c236)
     * [Otra consecuencia de la emigración y la crisis en Cuba: el aumento de mascotas abandonadas](https://apnews.com/world-news/general-news-eb93f7a538ab0ea00b9364dd706443f6)
-    * [Mientras Hezbollah e Israel combaten en la frontera, el Ejército libanés mira desde los márgenes](https://apnews.com/world-news/general-news-9091e3820005d6c22021bcf8de6adf0e)
-    * [Exjuez de Macao es elegido como primer líder de la ciudad de casinos nacido en la China continental](https://apnews.com/world-news/general-news-f7da03db89e85aca6999f1f8539f7505)
-    * [Florida reconstruye con determinación tras los huracanes, asume que habrá más tormentas](https://apnews.com/us-news/general-news-279e57c77ec36066f3843f46fb38db05)
-    * [En acto de campaña, Trump escucha a inmigrante que ingresó a EEUU sin autorización legal](https://apnews.com/us-news/general-news-5cbeebc7fd7cf7b69d466788cd7c5f2a)
+    * [Biden visita Florida para evaluar los daños causados por el huracán Milton](https://apnews.com/politics/general-news-ed0e30c054d1647d1d01a0e719eaa408)
+    * [Trump puso a prueba los límites del uso del ejército. Si gana, planea ir más lejos](https://apnews.com/politics/general-news-b9473403e7c3056d5884a4642a00c11f)
+    * [Walz se va de caza a Minnesota para destacar sus raíces rurales](https://apnews.com/us-news/general-news-cbdfddf62e05c8afe9edaa65816560db)
+    * [Consumidores ansiosos adelantan el calendario de compras de temporada](https://apnews.com/us-news/general-news-af0c2535b4ccb3b09cc4f04fe35cb5cc)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
