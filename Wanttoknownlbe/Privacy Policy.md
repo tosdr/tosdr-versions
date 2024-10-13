@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/9-11/911-prof-dr-ruppert-geeft-openheid-van-zaken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/kijk-ook-weer-youtube-covid-censuur-verwijderd/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
