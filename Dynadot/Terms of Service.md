@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Celebrate Cyber Security Awareness month with these TLDs on the HSTS Preload List! Now 50% off ➡️](https://www.dynadot.com/registry/google?utm_source=Promobar&utm_campaign=Google%20Registry%20Promobar%20Oct%202024&utm_medium=Google%20TLDs&drefid=4610)
+[Celebrate Cyber Security Awareness month with these TLDs on the HSTS Preload List! Now 50% off ➡️](https://www.dynadot.com/registry/google?utm_source=Promobar&utm_campaign=Google%20Registry%20Promobar%20Oct%202024&utm_medium=Google%20TLDs&drefid=4610)[Find the exact match domain for your corporation with .INC! Use code INC25REG for $193.49 on 1st year registrations 💼](https://www.dynadot.com/domain/inc?utm_source=Promobar&utm_campaign=INC%20Promobar%20Oct%202024&utm_medium=inc&drefid=4611)
 
 [](https://www.dynadot.com/)
 
