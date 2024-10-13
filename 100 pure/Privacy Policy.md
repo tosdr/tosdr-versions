@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5764 reviews (5764)
+5764 reviews (5766)
 
 $16.00 $29.00
 
@@ -50,7 +50,7 @@ CHOOSE Size
 
 ### [Multi-Vitamin + Antioxidants Ultra Riché PM Treatment](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
 
-1046 reviews (1046)
+1046 reviews (1047)
 
 $64.00
 
