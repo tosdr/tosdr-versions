@@ -29,17 +29,15 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![TheosisMC](plugins/MineCraft/icons/25x25xTheosisMC_1723365735.png.pagespeed.ic.rP37hCYpnu.png)
+[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
 
-TheosisMC • Hardcore Survival • 1.21.1](https://minecraft-server.net/details/TheosisMC/ "TheosisMC • Hardcore Survival • 1.21.1")[![Provim](plugins/MineCraft/icons/25x25xProvim_1709788708.png.pagespeed.ic.n0spKrJJzX.png)
+CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
 
-Provim Survival & Story | Freshly Reset](https://minecraft-server.net/details/Provim/ "Provim Survival & Story | Freshly Reset")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![EcoSMP](plugins/MineCraft/icons/25x25xEcoSMP_1714532090.png.pagespeed.ic._cNYKCUl0B.png)
 
-1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")[![troete](plugins/MineCraft/icons/25x25xtroete_1725906453.png.pagespeed.ic.inCJFl11BP.png)
+EcoSMP](https://minecraft-server.net/details/EcoSMP/ "EcoSMP")[![Foundation-Craft](plugins/MineCraft/icons/25x25xFoundation-Craft_1694578831.png.pagespeed.ic.3NY6E8gU-J.png)
 
-RuinSpirit](https://minecraft-server.net/details/troete/ "RuinSpirit")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
-
-BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexMc")
+Foundation Craft](https://minecraft-server.net/details/Foundation-Craft/ "Foundation Craft")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -142,4 +140,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05853 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.062 - Created by [Debaucus](https://debauc.us/)
