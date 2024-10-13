@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 159 utilisateurs actifs
+##### 608 utilisateurs actifs
 
 Chargement en cours
 
@@ -138,8 +138,8 @@ Chargement en cours
 ### Tendance
 
 * [Télécharger les ISO de Windows 10](https://lecrabeinfo.net/telecharger-iso-windows-10.html)
-* [Les meilleurs serveurs DNS en 2024 (rapides et gratuits)](https://lecrabeinfo.net/les-meilleurs-serveurs-dns-rapides-et-gratuits.html)
 * [Créer une clé USB d'installation de Windows 10](https://lecrabeinfo.net/creer-une-cle-usb-dinstallation-de-windows-10.html)
+* [Les meilleurs serveurs DNS en 2024 (rapides et gratuits)](https://lecrabeinfo.net/les-meilleurs-serveurs-dns-rapides-et-gratuits.html)
 
 ### À propos
 
@@ -154,7 +154,7 @@ Chargement en cours
 
 * 67 734 membres
 * 919 articles
-* 26 699 commentaires
+* 26 700 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
