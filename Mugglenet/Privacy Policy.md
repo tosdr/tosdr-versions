@@ -292,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The giant squid is a peaceful creature. It can be seen coming up to the surface to be tickled or fed toast; it has even been known to rescue students who have fallen in.
+The Unlocking Charm (Alohomora) is known as “thief’s friend.”
 
 ### Potter History
 
-April 22, 2007 – The first trailer for Harry Potter and the Order of the Phoenix premieres for international movie audiences.
+February 19, 2008 – Confirmation that David Yates will be directing Harry Potter and the Deathly Hallows is accidentally announced by author Lois Lowry.
 
 ### Potter Quote
 
-“What are Fred and I, next-door neighbors?”
+“If you went out and got a bit of snogging done yourself, you wouldn’t mind so much that everyone else does it!”
 
 [](#)
 
