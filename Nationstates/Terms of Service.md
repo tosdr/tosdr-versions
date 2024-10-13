@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What real-world nation, if any, inspi… (151)](https://forum.nationstates.net/viewtopic.php?t=545952&f=23&view=unread#unread ""What real-world nation, if any, inspired yours?" (151 posts)")
-* [What triggers you about the AN? (9,216)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (9,216 posts)")
-* [The Collective Security League Assemb… (246)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (246 posts)")
-* [Internal and International Incidents… (4,477)](https://forum.nationstates.net/viewtopic.php?t=525784&f=5&view=unread#unread ""Internal and International Incidents [OOC • OPEN]" (4,477 posts)")
-* [How do you imagine the player above y… (2,136)](https://forum.nationstates.net/viewtopic.php?t=539223&f=25&view=unread#unread ""How do you imagine the player above you in real life?" (2,136 posts)")
+* [Guess AN's best ally (19)](https://forum.nationstates.net/viewtopic.php?t=556614&f=25&view=unread#unread ""Guess AN's best ally" (19 posts)")
+* [Who would YN support in a war Between… (158)](https://forum.nationstates.net/viewtopic.php?t=555012&f=25&view=unread#unread ""Who would YN support in a war Between AN and AAN" (158 posts)")
+* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (9,793)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (9,793 posts)")
+* [Come up with a funny rip off name for… (208)](https://forum.nationstates.net/viewtopic.php?t=555981&f=25&view=unread#unread ""Come up with a funny rip off name for the company AN chooses" (208 posts)")
+* [Who does YN's soldiers surrender to,… (36)](https://forum.nationstates.net/viewtopic.php?t=556517&f=25&view=unread#unread ""Who does YN's soldiers surrender to, AN or AAN?" (36 posts)")
 
 Advertisement
 
