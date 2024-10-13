@@ -268,13 +268,6 @@ Sringfield Road, West Belfast (Photo: Google Maps)
 ['Our hearts are broken' - Community in shock after sudden death of toddler as investigation launched](https://www.derrynow.com/news/national-news/1628605/our-hearts-are-broken-community-in-shock-after-sudden-death-of-toddler-as-investigation-launched.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1627153/derry-death-notices-saturday-october-12-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, October 12 2024](https://www.derrynow.com/news/deaths/1627153/derry-death-notices-saturday-october-12-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![23-year-old man arrested on suspicion of various drugs related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "23-year-old man arrested on suspicion of various drugs related offences")](https://www.derrynow.com/news/local-news/1628631/23-year-old-man-arrested-on-suspicion-of-various-drugs-related-offences.html)
 
 Police arrested the man in the Glenshane Road area of Derry
@@ -298,6 +291,15 @@ Police arrested the man in the Glenshane Road area of Derry
 [Sinn Fein member resigns over claims of sending inappropriate messages to teen](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Craigbane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Craigbane")](https://www.derrynow.com/news/derry-sport/1628818/craigbane-defeat-ballymaguigan-to-claim-the-joe-brolly-cup-for-the-second-time-in-three-years.html)
+
+Craigbane celebrate their victory at Celtic Park. Pic by Keith Moore, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Craigbane defeat Ballymaguigan to claim the Joe Brolly Cup for the second time in three years](https://www.derrynow.com/news/derry-sport/1628818/craigbane-defeat-ballymaguigan-to-claim-the-joe-brolly-cup-for-the-second-time-in-three-years.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Directorial debut for Derry based filmmaker with the release if Kathleen Is Here in theatres](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Directorial debut for Derry based filmmaker with the release if Kathleen Is Here in theatres")](https://www.derrynow.com/news/what-s-on/1625608/directorial-debut-for-derry-based-filmmaker-with-the-release-of-kathleen-is-here-in-theatres.html)
 
 [What's On](https://www.derrynow.com/section/1058/what-s-on)
@@ -305,14 +307,12 @@ Police arrested the man in the Glenshane Road area of Derry
 [Directorial debut for Derry based filmmaker with the release of Kathleen Is Here in theatres](https://www.derrynow.com/news/what-s-on/1625608/directorial-debut-for-derry-based-filmmaker-with-the-release-of-kathleen-is-here-in-theatres.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Buildings across Northern Ireland light up blue in support of World Arthritis Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Buildings across Northern Ireland light up blue in support of World Arthritis Day")](https://www.derrynow.com/news/local-news/1627086/buildings-across-northern-ireland-light-up-blue-in-support-of-world-arthritis-day.html)
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1627154/derry-death-notices-sunday-october-13-2024.html)
 
-The Bridewell Tourist Information Centre, Magherafelt 
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Buildings across Northern Ireland light up blue in support of World Arthritis Day](https://www.derrynow.com/news/local-news/1627086/buildings-across-northern-ireland-light-up-blue-in-support-of-world-arthritis-day.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Sunday, October 13 2024](https://www.derrynow.com/news/deaths/1627154/derry-death-notices-sunday-october-13-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Radical Bookfair set to return](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Radical Bookfair set to return")](https://www.derrynow.com/news/local-news/1628604/derry-radical-bookfair-set-to-return.html)
 
@@ -323,19 +323,21 @@ The Derry Radical Bookfair in Pilots Row Community Centre
 [Derry Radical Bookfair set to return](https://www.derrynow.com/news/local-news/1628604/derry-radical-bookfair-set-to-return.html)
 ----------------------------------------------------------------------------------------------------------------------------------
 
+[![Buildings across Northern Ireland light up blue in support of World Arthritis Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Buildings across Northern Ireland light up blue in support of World Arthritis Day")](https://www.derrynow.com/news/local-news/1627086/buildings-across-northern-ireland-light-up-blue-in-support-of-world-arthritis-day.html)
+
+The Bridewell Tourist Information Centre, Magherafelt 
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Buildings across Northern Ireland light up blue in support of World Arthritis Day](https://www.derrynow.com/news/local-news/1627086/buildings-across-northern-ireland-light-up-blue-in-support-of-world-arthritis-day.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man who allegedly exposed himself to school children released on police bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who allegedly exposed himself to school children released on police bail")](https://www.derrynow.com/news/northern-ireland/1628562/man-who-allegedly-exposed-himself-to-school-children-released-on-police-bail.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
 [Man who allegedly exposed himself to school children released on police bail](https://www.derrynow.com/news/northern-ireland/1628562/man-who-allegedly-exposed-himself-to-school-children-released-on-police-bail.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Jamie Dornan looking forward to ‘much-needed’ break after filming Netflix drama](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Jamie Dornan looking forward to ‘much-needed’ break after filming Netflix drama")](https://www.derrynow.com/news/northern-ireland/1628594/jamie-dornan-looking-forward-to-much-needed-break-after-filming-netflix-drama.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Jamie Dornan looking forward to ‘much-needed’ break after filming Netflix drama](https://www.derrynow.com/news/northern-ireland/1628594/jamie-dornan-looking-forward-to-much-needed-break-after-filming-netflix-drama.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1627154/derry-death-notices-sunday-october-13-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, October 13 2024](https://www.derrynow.com/news/deaths/1627154/derry-death-notices-sunday-october-13-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Craigbane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Craigbane")](https://www.derrynow.com/news/derry-sport/1628818/craigbane-defeat-ballymaguigan-to-claim-the-joe-brolly-cup-for-the-second-time-in-three-years.html)
 
 Craigbane celebrate their victory at Celtic Park. Pic by Keith Moore, nwpresspics
@@ -524,7 +533,7 @@ Craigbane celebrate their victory at Celtic Park. Pic by Keith Moore, nwpresspic
 [Craigbane defeat Ballymaguigan to claim the Joe Brolly Cup for the second time in three years](https://www.derrynow.com/news/derry-sport/1628818/craigbane-defeat-ballymaguigan-to-claim-the-joe-brolly-cup-for-the-second-time-in-three-years.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![MacD on Music: Employee of the Month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Employee of the Month")](https://www.derrynow.com/news/what-s-on/1627156/macd-on-music-employee-of-the-month.html)
+[![MacD on Music: Employee of the Month](https://www.derrynow.com/resizer/165/93/true/2024_10_10/In_consequence_-_Front_cover_-_For_metadata-1728574317101_1728574592.jpg--.jpg?1728574592201 "MacD on Music: Employee of the Month")](https://www.derrynow.com/news/what-s-on/1627156/macd-on-music-employee-of-the-month.html)
 
 [What's On](https://www.derrynow.com/section/1058/what-s-on)
 
@@ -555,13 +564,6 @@ The Derry Radical Bookfair in Pilots Row Community Centre
 
 [Sinn Fein member resigns over claims of sending inappropriate messages to teen](https://www.derrynow.com/news/local-news/1628584/sinn-fein-member-resigns-over-claims-of-sending-inappropriate-messages-to-teen.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Directorial debut for Derry based filmmaker with the release if Kathleen Is Here in theatres](https://www.derrynow.com/resizer/165/93/true/2024_09_26/Untitled_design_%284%29-1727356801780.png--.png?1727356801970 "Directorial debut for Derry based filmmaker with the release if Kathleen Is Here in theatres")](https://www.derrynow.com/news/what-s-on/1625608/directorial-debut-for-derry-based-filmmaker-with-the-release-of-kathleen-is-here-in-theatres.html)
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[Directorial debut for Derry based filmmaker with the release of Kathleen Is Here in theatres](https://www.derrynow.com/news/what-s-on/1625608/directorial-debut-for-derry-based-filmmaker-with-the-release-of-kathleen-is-here-in-theatres.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
