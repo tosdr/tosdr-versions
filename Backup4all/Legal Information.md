@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from T Cloud using ...](https://www.backup4all.com/how-to-back-up-data-files-from-t-cloud-using-backup4all-kb.html)  
+* [How to customize email notifications](https://www.backup4all.com/how-to-customize-email-notifications-kb.html)  
     
-* [How to do a selective restore](https://www.backup4all.com/how-to-do-a-selective-restore-kb.html)  
+* [How to back up data files from NiftyClouds us ...](https://www.backup4all.com/how-to-back-up-data-files-from-niftyclouds-using-backup4all-kb.html)  
     
-* [How to back up data files from Wasabi S3 Comp ...](https://www.backup4all.com/how-to-back-up-date-files-from-wasabi-s3-compatible-kb.html)  
+* [How to back up Outlook.com (former Hotmail) e ...](https://www.backup4all.com/how-to-back-up-hotmail-emails-kb.html)  
     
-* [How to back up data files from FTP using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ftp-using-backup4all-kb.html)  
+* [How to enable on Linux the ciphers supported ...](https://www.backup4all.com/how-to-enable-on-linux-the-ciphers-supported-by-backup4all-kb.html)  
     
-* [How to restore your data files from MinIO usi ...](https://www.backup4all.com/how-to-restore-your-data-files-from-minio-using-backup4all-kb.html)  
+* [How to back up data files from NetApp using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-netapp-using-backup4all-kb.html)  
     
 
 Choose language:
