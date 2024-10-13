@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/nog-20-artsen-achter-v-d-linden-vs-rivm/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/professor-van-der-pijl-en-de-mh17-ramp-twijfels/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
