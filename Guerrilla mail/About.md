@@ -2,7 +2,7 @@
 
 ### Guerrilla Mail - Disposable Temporary E-Mail Address
 
-Avoid spam and stay safe - use a disposable email address! Click the "WTF" button below for help. So far we've processed **17,270,112,774 emails**, Keeping your real inbox safe and clean (287947 emails going in / hour)
+Avoid spam and stay safe - use a disposable email address! Click the "WTF" button below for help. So far we've processed **17,271,356,383 emails**, Keeping your real inbox safe and clean (96799 emails going in / hour)
 
 Do you own a domain? Use it with Guerrilla Mail! Email arriving to your domain will be accessible only by you. Or, you may give access to everyone. Price: $9.99 USD / year. Don't have a domain? You can get one from [Namecheap.com](https://www.namecheap.com/)
 
@@ -14,8 +14,8 @@ Eg. mydomain.com
 
 Payment Method:  Bitcoin |  PayPal
 
-qocvucnx @ sharklasers.comguerrillamail.infogrr.laguerrillamail.bizguerrillamail.comguerrillamail.deguerrillamail.netguerrillamail.orgguerrillamailblock.compokemail.netspam4.me   [Forget Me](https://www.guerrillamail.com/?fgt=1) [WTF?](#)  
-u43fho+bl4zkn79ikq8g@sharklasers.com Copy to clipboard  ![](/img/mask-alias.png) Scramble Address
+ywwokmfm @ sharklasers.comguerrillamail.infogrr.laguerrillamail.bizguerrillamail.comguerrillamail.deguerrillamail.netguerrillamail.orgguerrillamailblock.compokemail.netspam4.me   [Forget Me](https://www.guerrillamail.com/?fgt=1) [WTF?](#)  
+u44di6+u36ewbtg0xv0@sharklasers.com Copy to clipboard  ![](/img/mask-alias.png) Scramble Address
 
 Inbox ID:   [Forget Me](https://www.guerrillamail.com/?fgt=1)  
 Your Email Address is:  
