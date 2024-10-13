@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/indringende-briefeis-aan-minister-ab-klink/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-groene-revolutie/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
