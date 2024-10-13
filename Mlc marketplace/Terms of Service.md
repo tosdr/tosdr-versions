@@ -32,7 +32,6 @@ Menu
 
 * [Customer Reviews](https://mls.om/pages/customer-reviews)
 * [National Day Waiting-list](https://mls.om/pages/54th-national-day)
-* [Month Start Sale](https://mls.om/collections/month-start-offers)
 * [MLS Subscriptions](https://mls.om/pages/build-your-box)
     
     * Back
