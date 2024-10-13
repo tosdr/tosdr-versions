@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![The Most Exciting Picture Books Coming Fall 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/29153607/Fall-Preview-2024-600x314-picture.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    The Most Exciting Picture Books Coming Fall 2024
+    Books Bans Are on the Rise in America
     
-    Learn More >](https://www.readbrightly.com/picture-books-fall-preview/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * * *
 
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/09/26151432/PRH_New-Audio_site_1200x626_Oct2024.jpg)
     
-    How To Read More in 2024
+    New Stories to Listen to
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
 * * *
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
+* [![A Guide to Truman Capote Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/31122907/PRH_Site_1200x628_TrumanCapot.jpg)
     
-    New Releases
+    A Guide to Truman Capote Books
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/truman-capote-books/)
 
 * <
     
