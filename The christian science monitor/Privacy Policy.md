@@ -94,7 +94,7 @@ Recent Stories
 
 [Innovation
 
-### SpaceX in Texas: Promise in the heavens, tension on Earth](https://www.csmonitor.com/Science/2024/1013/spacex-starbase-starship-launch-texas "SpaceX in Texas: Promise in the heavens, tension on Earth")
+### Big launch for SpaceX, but promise aloft comes with tension in Texas](https://www.csmonitor.com/Science/2024/1013/spacex-starbase-starship-launch-texas "Big launch for SpaceX, but promise aloft comes with tension in Texas")
 
 [Resilience
 
