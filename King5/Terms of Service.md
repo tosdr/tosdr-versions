@@ -32,7 +32,7 @@ Navigation
     
     *  [![](https://media.king5.com/assets/KING/images/af4a89f7-e6be-4279-82a2-4d960c69962a/20241012T203124/af4a89f7-e6be-4279-82a2-4d960c69962a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/af4a89f7-e6be-4279-82a2-4d960c69962a/20241012T203124/af4a89f7-e6be-4279-82a2-4d960c69962a_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/all-i-90-lanes-closed-mercer-island-due-to-police-activity/281-d77104a3-cb48-45ae-b410-ab654820537f)
         
-        #### [All I-90 lanes closed on Mercer Island due to police activity, bomb squad responding](https://www.king5.com/article/traffic/traffic-news/all-i-90-lanes-closed-mercer-island-due-to-police-activity/281-d77104a3-cb48-45ae-b410-ab654820537f)
+        #### [All I-90 lanes reopen following apparent bomb scare during police chase](https://www.king5.com/article/traffic/traffic-news/all-i-90-lanes-closed-mercer-island-due-to-police-activity/281-d77104a3-cb48-45ae-b410-ab654820537f)
         
     *  [![](https://media.king5.com/assets/KING/images/361f3446-ad21-4131-8dda-666a10216056/20241012T145728/361f3446-ad21-4131-8dda-666a10216056_16x9.jpg) ![](https://media.king5.com/assets/KING/images/361f3446-ad21-4131-8dda-666a10216056/20241012T145728/361f3446-ad21-4131-8dda-666a10216056_360x203.jpg)](https://www.king5.com/article/news/local/pets-and-animals/seattle-area-feline-rescue-launches-emergency-fundraiser-continue-life-saving-care/281-e2f4908d-8b36-4cf5-833e-83610c965aa0)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-63°
+58°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
