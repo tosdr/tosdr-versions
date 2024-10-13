@@ -30,8 +30,8 @@ Menu
     
     TOP STORIES
     
-    * [Floridians evacuated for Hurricane Milton after wake-up call from devastating Helene](https://apnews.com/article/hurricane-milton-florida-d044c0bb6b4ad1f5e2bd61ab44fb1b8c)
-    * [Far from where Hurricane Milton hit, tornadoes wrought unexpected damage](https://apnews.com/article/hurricane-milton-tornadoes-florida-wellington-damage-64caa6609c2a3c6476468ad89b0dee96)
+    * [Floridians cleaning up from Hurricane Milton are hampered by a widespread fuel shortage](https://apnews.com/article/hurricane-milton-florida-d044c0bb6b4ad1f5e2bd61ab44fb1b8c)
+    * [Far from where Hurricane Milton's eye hit, tornadoes wrought unexpected damage](https://apnews.com/article/hurricane-milton-tornadoes-florida-wellington-damage-64caa6609c2a3c6476468ad89b0dee96)
     * [What to know as Florida residents begin cleaning up after Hurricane Milton](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
     
     Newsletters
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris goes to North Carolina to resume campaigning in a state hit hard by Hurricane Helene](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
+    * [Harris helps pack aid boxes for North Carolina hurricane victims ahead of Sunday campaign push](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
     * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
-    * [Why is Donald Trump campaigning in California, a state he's almost certain to lose?](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa)
+    * [Donald Trump holds a rally in California, a state he's almost certain to lose](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa)
     
     Newsletters
     
@@ -73,8 +73,8 @@ Menu
     TOP STORIES
     
     * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
-    * [Harris goes to North Carolina to resume campaigning in a state hit hard by Hurricane Helene](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
-    * [Doctor deems Harris in 'excellent health.' Her team aims to contrast with Trump's scant medical info](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
+    * [Donald Trump holds a rally in California, a state he's almost certain to lose](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa)
+    * [Harris helps pack aid boxes for North Carolina hurricane victims ahead of Sunday campaign push](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
     
     Newsletters
     
@@ -93,8 +93,8 @@ Menu
     TOP STORIES
     
     * [Thomas hits grand slam off Skubal, Guardians down Tigers 7-3 to reach AL Championship Series](https://apnews.com/article/mlb-playoffs-tigers-guardians-b6c33f918a7bdfd39a299632a3394dfa)
-    * [No. 7 Alabama overcomes botched onside recovery to beat South Carolina 27-25](https://apnews.com/article/south-carolina-alabama-score-79e76fc9c386ab2b4251d6871b5da36d)
-    * [Holding a Super Bowl outside the US is a possibility, NFL Commissioner Goodell says](https://apnews.com/article/goodell-nfl-london-international-caa03e8d27aa2a07ab0a848bc015fff7)
+    * [Ewers returns as No. 1 Texas beats No. 18 Oklahoma 34-3 in 1st Red River Rivalry game as SEC members](https://apnews.com/article/texas-oklahoma-college-football-score-ewers-fdde647e2a9dd15a1a768d244301bad2)
+    * [No. 4 Penn State rallies back to beat USC 33-30 in overtime on TE Tyler Warren's record day](https://apnews.com/article/usc-penn-state-score-fa8d60806cd32f0292ee66e37e4251f5)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Israel bombardea el norte de Gaza mientras fuerzas de paz de la ONU son atacadas en Líbano](https://apnews.com/world-news/general-news-9761b381a40760ed8bd2f12ad3fbf441)
+    * [Israel bombardea norte de Gaza; fuerzas de paz de ONU sufren nuevo ataque en Líbano](https://apnews.com/world-news/general-news-9761b381a40760ed8bd2f12ad3fbf441)
     * [Mientras Hezbollah e Israel combaten en la frontera, el Ejército libanés mira desde los márgenes](https://apnews.com/world-news/general-news-9091e3820005d6c22021bcf8de6adf0e)
     * [La gasolina escasea en Florida mientras el estado se recupera del paso del huracán Milton](https://apnews.com/us-news/general-news-a813c3e041f3c6c7a1d9c24868a47897)
+    * [Funcionario de ONU pide proteger puertos y aeropuertos del Líbano en medio de ofensiva israelí](https://apnews.com/world-news/general-news-206cfe87a774c5b2ed38a42c9a4a283b)
     * [El líder británico Keir Starmer cumple 100 días en el gobierno. Ha sido un inicio accidentado](https://apnews.com/world-news/general-news-f1e500409b2b8cf2795f7f1a96f1c44c)
-    * [Funcionario de la ONU pide proteger puertos y aeropuertos del Líbano en medio de ofensiva israelí](https://apnews.com/world-news/general-news-206cfe87a774c5b2ed38a42c9a4a283b)
-    * [Reclutadores militares ucranianos irrumpen en la vida nocturna de Kiev en busca de nuevos soldados](https://apnews.com/world-news/general-news-73d2f845ce73c3f55e7ebdee89dd499f)
+    * [America First Policy Institute, grupo que asesora a Trump, denuncia ciberataque](https://apnews.com/us-news/general-news-54d8c0a17f785461c4e8c2963a01f6ca)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -476,8 +476,8 @@ Submit Search
     
     TOP STORIES
     
-    * [Floridians evacuated for Hurricane Milton after wake-up call from devastating Helene](https://apnews.com/article/hurricane-milton-florida-d044c0bb6b4ad1f5e2bd61ab44fb1b8c)
-    * [Far from where Hurricane Milton hit, tornadoes wrought unexpected damage](https://apnews.com/article/hurricane-milton-tornadoes-florida-wellington-damage-64caa6609c2a3c6476468ad89b0dee96)
+    * [Floridians cleaning up from Hurricane Milton are hampered by a widespread fuel shortage](https://apnews.com/article/hurricane-milton-florida-d044c0bb6b4ad1f5e2bd61ab44fb1b8c)
+    * [Far from where Hurricane Milton's eye hit, tornadoes wrought unexpected damage](https://apnews.com/article/hurricane-milton-tornadoes-florida-wellington-damage-64caa6609c2a3c6476468ad89b0dee96)
     * [What to know as Florida residents begin cleaning up after Hurricane Milton](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
     
     Newsletters
@@ -504,9 +504,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris goes to North Carolina to resume campaigning in a state hit hard by Hurricane Helene](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
+    * [Harris helps pack aid boxes for North Carolina hurricane victims ahead of Sunday campaign push](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
     * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
-    * [Why is Donald Trump campaigning in California, a state he's almost certain to lose?](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa)
+    * [Donald Trump holds a rally in California, a state he's almost certain to lose](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa)
     
     Newsletters
     
@@ -530,8 +530,8 @@ Submit Search
     TOP STORIES
     
     * [Obama’s callout to Black men touches a nerve among Democrats. Is election-year misogyny at play?](https://apnews.com/article/election-2024-black-men-obama-harris-misogyny-c468d83d73c52406648c9bd5e7b9a33d)
-    * [Harris goes to North Carolina to resume campaigning in a state hit hard by Hurricane Helene](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
-    * [Doctor deems Harris in 'excellent health.' Her team aims to contrast with Trump's scant medical info](https://apnews.com/article/harris-medical-records-trump-903d7c1654ca0236a4b08f9b59b4e2b8)
+    * [Donald Trump holds a rally in California, a state he's almost certain to lose](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa)
+    * [Harris helps pack aid boxes for North Carolina hurricane victims ahead of Sunday campaign push](https://apnews.com/article/harris-north-carolina-trump-hurricane-campaign-8961abd7d02bb95c6c6ba81a59ce9049)
     
     Newsletters
     
@@ -560,8 +560,8 @@ Submit Search
     TOP STORIES
     
     * [Thomas hits grand slam off Skubal, Guardians down Tigers 7-3 to reach AL Championship Series](https://apnews.com/article/mlb-playoffs-tigers-guardians-b6c33f918a7bdfd39a299632a3394dfa)
-    * [No. 7 Alabama overcomes botched onside recovery to beat South Carolina 27-25](https://apnews.com/article/south-carolina-alabama-score-79e76fc9c386ab2b4251d6871b5da36d)
-    * [Holding a Super Bowl outside the US is a possibility, NFL Commissioner Goodell says](https://apnews.com/article/goodell-nfl-london-international-caa03e8d27aa2a07ab0a848bc015fff7)
+    * [Ewers returns as No. 1 Texas beats No. 18 Oklahoma 34-3 in 1st Red River Rivalry game as SEC members](https://apnews.com/article/texas-oklahoma-college-football-score-ewers-fdde647e2a9dd15a1a768d244301bad2)
+    * [No. 4 Penn State rallies back to beat USC 33-30 in overtime on TE Tyler Warren's record day](https://apnews.com/article/usc-penn-state-score-fa8d60806cd32f0292ee66e37e4251f5)
     
     Newsletters
     
@@ -797,12 +797,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel bombardea el norte de Gaza mientras fuerzas de paz de la ONU son atacadas en Líbano](https://apnews.com/world-news/general-news-9761b381a40760ed8bd2f12ad3fbf441)
+    * [Israel bombardea norte de Gaza; fuerzas de paz de ONU sufren nuevo ataque en Líbano](https://apnews.com/world-news/general-news-9761b381a40760ed8bd2f12ad3fbf441)
     * [Mientras Hezbollah e Israel combaten en la frontera, el Ejército libanés mira desde los márgenes](https://apnews.com/world-news/general-news-9091e3820005d6c22021bcf8de6adf0e)
     * [La gasolina escasea en Florida mientras el estado se recupera del paso del huracán Milton](https://apnews.com/us-news/general-news-a813c3e041f3c6c7a1d9c24868a47897)
+    * [Funcionario de ONU pide proteger puertos y aeropuertos del Líbano en medio de ofensiva israelí](https://apnews.com/world-news/general-news-206cfe87a774c5b2ed38a42c9a4a283b)
     * [El líder británico Keir Starmer cumple 100 días en el gobierno. Ha sido un inicio accidentado](https://apnews.com/world-news/general-news-f1e500409b2b8cf2795f7f1a96f1c44c)
-    * [Funcionario de la ONU pide proteger puertos y aeropuertos del Líbano en medio de ofensiva israelí](https://apnews.com/world-news/general-news-206cfe87a774c5b2ed38a42c9a4a283b)
-    * [Reclutadores militares ucranianos irrumpen en la vida nocturna de Kiev en busca de nuevos soldados](https://apnews.com/world-news/general-news-73d2f845ce73c3f55e7ebdee89dd499f)
+    * [America First Policy Institute, grupo que asesora a Trump, denuncia ciberataque](https://apnews.com/us-news/general-news-54d8c0a17f785461c4e8c2963a01f6ca)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
