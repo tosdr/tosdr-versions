@@ -132,107 +132,119 @@ Política de privacidade
 
 [](https://whatsapp.com/channel/0029VaA51oy9hXF2RfactE03 "WhatsApp Clube do Hardware")
 
+* ### Popular agora
+    
+    * [![guilherme Perego](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1249747.thumb.jpeg.eb9c02d02b92e37e2c9c53bdb9fe4529.jpeg)](https://www.clubedohardware.com.br/profile/1249747-guilherme-perego/ "Ir ao perfil de guilherme Perego")
+        
+        33
+        
+        [Radeon RX 6600 rodando em PCI-E 4.0 x8](https://www.clubedohardware.com.br/forums/topic/1699544-radeon-rx-6600-rodando-em-pci-e-40-x8/ "Visualizar tópico")
+        
+        Por [guilherme Perego](https://www.clubedohardware.com.br/profile/1249747-guilherme-perego/ "Ir ao perfil de guilherme Perego")  
+        21 horas atrás
+        
+    
 * ### Últimos tópicos
     
-    * [![Pedroghu](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1191461-pedroghu/ "Ir ao perfil de Pedroghu")
+    * [![Gustavo lo](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46298%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EGL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1241736-gustavo-lo/ "Ir ao perfil de Gustavo lo")
         
         0
         
-        [GeForce RTX 4070TI Super ou Radeon RX 7900XT, qual é melhor opção?](https://www.clubedohardware.com.br/forums/topic/1699570-geforce-rtx-4070ti-super-ou-radeon-rx-7900xt-qual-%C3%A9-melhor-op%C3%A7%C3%A3o/?do=getNewComment "GeForce RTX 4070TI Super ou  Radeon RX 7900XT, qual é melhor opção?")
+        [como diminuir o clock da gpu e do processador](https://www.clubedohardware.com.br/forums/topic/1699594-como-diminuir-o-clock-da-gpu-e-do-processador/?do=getNewComment "como diminuir o clock da gpu e do processador")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Pedroghu](https://www.clubedohardware.com.br/profile/1191461-pedroghu/ "Ir ao perfil de Pedroghu")  
-        6 minutos atrás
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [Gustavo lo](https://www.clubedohardware.com.br/profile/1241736-gustavo-lo/ "Ir ao perfil de Gustavo lo")  
+        agora
         
-    * [![Andre2392](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254420.thumb.png.6ca4ae3f14136b3ba6816b077373a203.png)](https://www.clubedohardware.com.br/profile/1254420-andre2392/ "Ir ao perfil de Andre2392")
+    * [![Matheus309](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c48462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254438-matheus309/ "Ir ao perfil de Matheus309")
         
-        0
+        1
         
-        [Fio solto do microfone](https://www.clubedohardware.com.br/forums/topic/1699569-fio-solto-do-microfone/?do=getNewComment "Fio solto do microfone")
-        
-        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
-        Por [Andre2392](https://www.clubedohardware.com.br/profile/1254420-andre2392/ "Ir ao perfil de Andre2392")  
-        28 minutos atrás
-        
-    * [![syzluiz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1249229.thumb.jpeg.8bc422db99ba7cfc09f1642c842e5634.jpeg)](https://www.clubedohardware.com.br/profile/1249229-syzluiz/ "Ir ao perfil de syzluiz")
-        
-        0
-        
-        [Moto One Action desligando e descarregando a bateria apos conectar cabo otg](https://www.clubedohardware.com.br/forums/topic/1699567-moto-one-action-desligando-e-descarregando-a-bateria-apos-conectar-cabo-otg/?do=getNewComment "Moto One Action desligando e descarregando a bateria apos conectar cabo otg")
-        
-        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
-        Por [syzluiz](https://www.clubedohardware.com.br/profile/1249229-syzluiz/ "Ir ao perfil de syzluiz")  
-        59 minutos atrás
-        
-    * [![DougRiddler](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1235039.thumb.jpeg.89e801cd944656c1f9e0181d31c5276e.jpeg)](https://www.clubedohardware.com.br/profile/1235039-dougriddler/ "Ir ao perfil de DougRiddler")
-        
-        0
-        
-        [Teclado digitando 2 caracteres em uma tecla](https://www.clubedohardware.com.br/forums/topic/1699566-teclado-digitando-2-caracteres-em-uma-tecla/?do=getNewComment "Teclado digitando 2 caracteres em uma tecla")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [DougRiddler](https://www.clubedohardware.com.br/profile/1235039-dougriddler/ "Ir ao perfil de DougRiddler")  
-        1 hora atrás
-        
-    * [![Samuel Ives](https://lh6.googleusercontent.com/-hODdQPh4dmI/AAAAAAAAAAI/AAAAAAAAAFM/YdVy52JTEbE/photo.jpg)](https://www.clubedohardware.com.br/profile/846749-samuel-ives/ "Ir ao perfil de Samuel Ives")
-        
-        0
-        
-        [Computador em suspensão liga ao colocar meu celular pra carregar na tomada](https://www.clubedohardware.com.br/forums/topic/1699565-computador-em-suspens%C3%A3o-liga-ao-colocar-meu-celular-pra-carregar-na-tomada/?do=getNewComment "Computador em suspensão liga ao colocar meu celular pra carregar na tomada")
-        
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [Samuel Ives](https://www.clubedohardware.com.br/profile/846749-samuel-ives/ "Ir ao perfil de Samuel Ives")  
-        1 hora atrás
-        
-    * [![Kamito](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253202.thumb.jpeg.e0c7d46425c98e75f33ca34abf9726b8.jpeg)](https://www.clubedohardware.com.br/profile/1253202-kamito/ "Ir ao perfil de Kamito")
-        
-        0
-        
-        [fan 4 pinos e rgb ou argb?](https://www.clubedohardware.com.br/forums/topic/1699564-fan-4-pinos-e-rgb-ou-argb/?do=getNewComment "fan 4 pinos e rgb ou argb?")
+        [Troquei o air cooler, porém meu Pc está pior](https://www.clubedohardware.com.br/forums/topic/1699593-troquei-o-air-cooler-por%C3%A9m-meu-pc-est%C3%A1-pior/?do=getNewComment "Troquei o air cooler, porém meu Pc está pior")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Kamito](https://www.clubedohardware.com.br/profile/1253202-kamito/ "Ir ao perfil de Kamito")  
-        4 horas atrás
+        Por [Matheus309](https://www.clubedohardware.com.br/profile/1254438-matheus309/ "Ir ao perfil de Matheus309")  
+        16 minutos atrás
         
-    * [![MatthWin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254416.thumb.jpeg.4dd94269728cdbcb8068bcf7e15f1599.jpeg)](https://www.clubedohardware.com.br/profile/1254416-matthwin/ "Ir ao perfil de MatthWin")
-        
-        0
-        
-        [alguma BIOS para placa B75-HM PLUS](https://www.clubedohardware.com.br/forums/topic/1699563-alguma-bios-para-placa-b75-hm-plus/?do=getNewComment "alguma BIOS para placa B75-HM PLUS")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [MatthWin](https://www.clubedohardware.com.br/profile/1254416-matthwin/ "Ir ao perfil de MatthWin")  
-        5 horas atrás
-        
-    * [![gandara01](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254369.thumb.jpeg.f9e21fdf2e3ab295fac898087ddb06c0.jpeg)](https://www.clubedohardware.com.br/profile/1254369-gandara01/ "Ir ao perfil de gandara01")
-        
-        1
-        
-        [Qual fonte usar com Ryzen 5 7600x e GeForce RTX 4060TI?](https://www.clubedohardware.com.br/forums/topic/1699562-qual-fonte-usar-com-ryzen-5-7600x-e-geforce-rtx-4060ti/?do=getNewComment "Qual fonte usar com Ryzen 5 7600x e GeForce RTX 4060TI?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [gandara01](https://www.clubedohardware.com.br/profile/1254369-gandara01/ "Ir ao perfil de gandara01")  
-        5 horas atrás
-        
-    * [![Bruno Cost4](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254187.thumb.jpeg.7f3cbb7ebcf7c312afe771d6c8a69a85.jpeg)](https://www.clubedohardware.com.br/profile/1254187-bruno-cost4/ "Ir ao perfil de Bruno Cost4")
-        
-        1
-        
-        [Quero saber qual a diferença entre processador 4.2GHz e 3.6GHz](https://www.clubedohardware.com.br/forums/topic/1699561-quero-saber-qual-a-diferen%C3%A7a-entre-processador-42ghz-e-36ghz/?do=getNewComment "Quero saber qual a diferença entre processador 4.2GHz e 3.6GHz")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Bruno Cost4](https://www.clubedohardware.com.br/profile/1254187-bruno-cost4/ "Ir ao perfil de Bruno Cost4")  
-        8 horas atrás
-        
-    * [![Laash](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2391c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254412-laash/ "Ir ao perfil de Laash")
+    * [![KelvinP](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254433.thumb.png.a755feec7519bdd146d78b6c9b4a26d9.png)](https://www.clubedohardware.com.br/profile/1254433-kelvinp/ "Ir ao perfil de KelvinP")
         
         0
         
-        [Como funciona a tensão de entrada e saida (no-break) ?](https://www.clubedohardware.com.br/forums/topic/1699560-como-funciona-a-tens%C3%A3o-de-entrada-e-saida-no-break/?do=getNewComment "Como funciona a tensão de entrada e saida (no-break) ?")
+        [Placa de vídeo negada pelo próprio monitor](https://www.clubedohardware.com.br/forums/topic/1699592-placa-de-v%C3%ADdeo-negada-pelo-pr%C3%B3prio-monitor/?do=getNewComment "Placa de vídeo negada pelo próprio monitor")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [KelvinP](https://www.clubedohardware.com.br/profile/1254433-kelvinp/ "Ir ao perfil de KelvinP")  
+        41 minutos atrás
+        
+    * [![DonCorleone](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/wp12091224-bills-dbz-wallpapers.thumb.jpg.2ccd1da8fdf7283a5d11f9a32f811d46.jpg)](https://www.clubedohardware.com.br/profile/1241368-doncorleone/ "Ir ao perfil de DonCorleone")
+        
+        0
+        
+        [O headset BINNUNE é bom?](https://www.clubedohardware.com.br/forums/topic/1699591-o-headset-binnune-%C3%A9-bom/?do=getNewComment "O headset BINNUNE é bom?")
+        
+        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
+        Por [DonCorleone](https://www.clubedohardware.com.br/profile/1241368-doncorleone/ "Ir ao perfil de DonCorleone")  
+        1 hora atrás
+        
+    * [![DonCorleone](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/wp12091224-bills-dbz-wallpapers.thumb.jpg.2ccd1da8fdf7283a5d11f9a32f811d46.jpg)](https://www.clubedohardware.com.br/profile/1241368-doncorleone/ "Ir ao perfil de DonCorleone")
+        
+        0
+        
+        [Indicação de mouse + teclado sem fio ??](https://www.clubedohardware.com.br/forums/topic/1699590-indica%C3%A7%C3%A3o-de-mouse-teclado-sem-fio/?do=getNewComment "Indicação de mouse + teclado sem fio ??")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [DonCorleone](https://www.clubedohardware.com.br/profile/1241368-doncorleone/ "Ir ao perfil de DonCorleone")  
+        1 hora atrás
+        
+    * [![Widson Raynner](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c49a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EWR%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1199993-widson-raynner/ "Ir ao perfil de Widson Raynner")
+        
+        0
+        
+        [RTX4080 é compatível com a placa-mãe Gigabyte B650 Gaming X?](https://www.clubedohardware.com.br/forums/topic/1699589-rtx4080-%C3%A9-compat%C3%ADvel-com-a-placa-m%C3%A3e-gigabyte-b650-gaming-x/?do=getNewComment "RTX4080 é compatível com a placa-mãe Gigabyte B650 Gaming X?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Widson Raynner](https://www.clubedohardware.com.br/profile/1199993-widson-raynner/ "Ir ao perfil de Widson Raynner")  
+        1 hora atrás
+        
+    * [![Davidv10](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254430.thumb.png.2ee5378b4b574be09fde82e8a162b123.png)](https://www.clubedohardware.com.br/profile/1254430-davidv10/ "Ir ao perfil de Davidv10")
+        
+        0
+        
+        [Posso usar um HD externo com um sistema operacional diferente do notebook?](https://www.clubedohardware.com.br/forums/topic/1699588-posso-usar-um-hd-externo-com-um-sistema-operacional-diferente-do-notebook/?do=getNewComment "Posso usar um HD externo com um sistema operacional diferente do notebook?")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Davidv10](https://www.clubedohardware.com.br/profile/1254430-davidv10/ "Ir ao perfil de Davidv10")  
+        2 horas atrás
+        
+    * [![Lucas Aster](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2383c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ELA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1199908-lucas-aster/ "Ir ao perfil de Lucas Aster")
+        
+        3
+        
+        [SSD adata legend 800 dissipador dilatando ?](https://www.clubedohardware.com.br/forums/topic/1699587-ssd-adata-legend-800-dissipador-dilatando/?do=getNewComment "SSD adata legend 800 dissipador dilatando ?")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Lucas Aster](https://www.clubedohardware.com.br/profile/1199908-lucas-aster/ "Ir ao perfil de Lucas Aster")  
+        2 horas atrás
+        
+    * [![SamuelCheio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1245178.thumb.jpeg.fb2cc072674e2590f2615b2b9eac1e2e.jpeg)](https://www.clubedohardware.com.br/profile/1245178-samuelcheio/ "Ir ao perfil de SamuelCheio")
+        
+        1
+        
+        [Fonte com o cooler girando mais lentamente e cheiro estranho](https://www.clubedohardware.com.br/forums/topic/1699586-fonte-com-o-cooler-girando-mais-lentamente-e-cheiro-estranho/?do=getNewComment "Fonte com o cooler girando mais lentamente e cheiro estranho")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Laash](https://www.clubedohardware.com.br/profile/1254412-laash/ "Ir ao perfil de Laash")  
-        9 horas atrás
+        Por [SamuelCheio](https://www.clubedohardware.com.br/profile/1245178-samuelcheio/ "Ir ao perfil de SamuelCheio")  
+        2 horas atrás
+        
+    * [![frmarcos](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/download(1).thumb.jpg.59f595c913ed00dc1a954b7eb65ee42d.jpg)](https://www.clubedohardware.com.br/profile/1229988-frmarcos/ "Ir ao perfil de frmarcos")
+        
+        0
+        
+        [Não consigo fazer overclock i7 2600k - Skill issue](https://www.clubedohardware.com.br/forums/topic/1699585-n%C3%A3o-consigo-fazer-overclock-i7-2600k-skill-issue/?do=getNewComment "Não consigo fazer overclock i7 2600k - Skill issue")
+        
+        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
+        Por [frmarcos](https://www.clubedohardware.com.br/profile/1229988-frmarcos/ "Ir ao perfil de frmarcos")  
+        2 horas atrás
         
     
 
