@@ -190,14 +190,24 @@
 
 Subscribe
 
-[#### Inflammatory Bowel Disease](https://www.healthline.com/inflammatory-bowel-disease)
+[#### Mental Well-Being](https://www.healthline.com/mental-health)
 
-* [Basics of IBD](https://www.healthline.com/inflammatory-bowel-disease/ibd-basics)
-* [Treatments](https://www.healthline.com/inflammatory-bowel-disease/treating-ibd)
-* [Food & Gut Health](https://www.healthline.com/inflammatory-bowel-disease/food-gut-health)
-* [Live Well with IBD](https://www.healthline.com/inflammatory-bowel-disease/lifestyle-ibd)
-* [Community](https://apps.apple.com/us/app/ibd-healthline/id1459294732)
-* [Newsletter](https://www.healthline.com/newsletter-signup/ibd)
+* [Anxiety](https://www.healthline.com/mental-health/anxiety)
+* [Depression](https://www.healthline.com/mental-health/depression)
+* [Better Sleep](https://www.healthline.com/mental-health/sleep)
+* [Nutrition & Supplements](https://www.healthline.com/mental-health/nutrition-supplements)
+* [Building Relationships](https://www.healthline.com/mental-health/building-relationships)
+* [Emotional Well-Being](https://www.healthline.com/mental-health/mind-and-body)
+* [Navigating Therapy](https://www.healthline.com/mental-health/treatment)
+* [Crisis Support](https://www.healthline.com/mental-health/crisis-support)
+* [ADHD](https://www.healthline.com/mental-health/adhd)
+* [Bipolar Disorder](https://www.healthline.com/mental-health/bipolar)
+* [Eating Disorders](https://www.healthline.com/mental-health/eating-disorders)
+* [OCD](https://www.healthline.com/mental-health/ocd)
+* [Schizophrenia](https://www.healthline.com/mental-health/schizophrenia)
+* [Addiction](https://www.healthline.com/mental-health/addiction)
+* [Services & Reviews](https://www.healthline.com/reviews/mental-health-services-and-products)
+* [Apps](https://www.healthline.com/mental-health/apps)
 
 Ad & Sponsorship Policy
 =======================
