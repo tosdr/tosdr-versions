@@ -70,19 +70,19 @@ Suggested Searches
 
 ### Hubble Spots a Grand Spiral of Starbursts
 
-article1 day ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
+article2 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
 
 5 min read
 
 ### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
 
-article2 days ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article3 days ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
 ### What’s Up: October 2024 Skywatching Tips from NASA
 
-article1 week ago](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/)
+article2 weeks ago](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/)
 
 Back
 
@@ -259,7 +259,7 @@ article 3 days ago](https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-ra
 
 ### NASA’s Roman Space Telescope’s ‘Exoskeleton’ Whirls Through Major Test
 
-article 4 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)
+article 5 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)
 
 ### Highlights
 
@@ -275,7 +275,7 @@ article 1 day ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-
 
 ### Kathryn Sullivan: The First American Woman to Walk in Space
 
-article 2 days ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/acd24-0156-048.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/acd24-0156-048.jpg?w=1024)
 
 2 min read
 
@@ -297,7 +297,7 @@ article 2 days ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detec
 
 ### NASA-Funded Study Assesses Pollution Near Los Angeles-Area Warehouses
 
-article 3 days ago](https://www.nasa.gov/earth/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/)[![NASA astronaut Matthew Dominick captured this photo of Hurricane Milton from the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/gzyjmonxwaa-3bx.jpeg?w=683)
+article 4 days ago](https://www.nasa.gov/earth/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/)[![NASA astronaut Matthew Dominick captured this photo of Hurricane Milton from the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/gzyjmonxwaa-3bx.jpeg?w=683)
 
 1 min read
 
@@ -307,25 +307,25 @@ article 4 days ago](https://www.nasa.gov/hurricane-milton/)
 
 ### Highlights
 
-[![The Next Full Moon is a Supermoon, and the Hunter’s Moon](https://science.nasa.gov/wp-content/uploads/2023/06/49641911586_4d26910aba_supermoon_March_2020-1280-jpg.webp)
+[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
+
+6 min read
+
+### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
+
+article 4 hours ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![The Next Full Moon is a Supermoon, and the Hunter’s Moon](https://science.nasa.gov/wp-content/uploads/2023/06/49641911586_4d26910aba_supermoon_March_2020-1280-jpg.webp)
 
 29 min read
 
 ### The Next Full Moon is a Supermoon, and the Hunter’s Moon
 
-article 22 hours ago](https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-and-the-hunters-moon/)[![Asteroid and Comet Resources](https://science.nasa.gov/wp-content/uploads/2024/10/bennu-comettempel1.png)
+article 1 day ago](https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-and-the-hunters-moon/)[![Asteroid and Comet Resources](https://science.nasa.gov/wp-content/uploads/2024/10/bennu-comettempel1.png)
 
 1 min read
 
 ### Asteroid and Comet Resources
 
-article 23 hours ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
-
-1 min read
-
-### Pluto and Dwarf Planet Resources
-
-article 2 days ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)
+article 1 day ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)
 
 ### Featured
 
@@ -335,13 +335,13 @@ article 2 days ago](https://science.nasa.gov/solar-system/resources/resource-pac
 
 ### Hubble Spots a Grand Spiral of Starbursts
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
 
 5 min read
 
 ### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
 
-article 2 days ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![Hubble Observes a Peculiar Galaxy Shape](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc4694-potw2440a.jpg)
+article 3 days ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![Hubble Observes a Peculiar Galaxy Shape](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc4694-potw2440a.jpg)
 
 2 min read
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-p
 
 ### Highlights
 
-[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
+[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
+
+6 min read
+
+### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
+
+article 4 hours ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
 
 2 min read
 
 ### Hubble Spots a Grand Spiral of Starbursts
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![Sail Along with NASA’s Solar Sail Tech Demo in Real-Time Simulation](https://science.nasa.gov/wp-content/uploads/2024/10/acs3-eyes-4.png)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![Sail Along with NASA’s Solar Sail Tech Demo in Real-Time Simulation](https://science.nasa.gov/wp-content/uploads/2024/10/acs3-eyes-4.png)
 
 2 min read
 
 ### Sail Along with NASA’s Solar Sail Tech Demo in Real-Time Simulation
 
-article 2 days ago](https://science.nasa.gov/science-research/sail-along-with-nasas-solar-sail-tech-demo-in-real-time-simulation/)[![Carbon Mapper Coalition’s Tanager-1 satellite detected this methane plume in Karachi, Pakistan](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26416-ghg-plumes-16.jpg?w=1024)
-
-4 min read
-
-### First Greenhouse Gas Plumes Detected With NASA-Designed Instrument
-
-article 2 days ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
+article 2 days ago](https://science.nasa.gov/science-research/sail-along-with-nasas-solar-sail-tech-demo-in-real-time-simulation/)
 
 ### Highlights
 
@@ -407,7 +407,7 @@ article 1 day ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-
 
 ### Controlled Propulsion for Gentle Landings 
 
-article 1 day ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
 
 4 min read
 
@@ -423,7 +423,7 @@ article 3 days ago](https://www.nasa.gov/technology/space-comms/space-communicat
 
 ### Asteroid and Comet Resources
 
-article 23 hours ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
+article 1 day ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
 
 1 min read
 
@@ -451,7 +451,7 @@ article 1 day ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-
 
 ### NASA Celebrates Hispanic Heritage Month 2024
 
-article 24 hours ago](https://www.nasa.gov/history/nasa-celebrates-hispanic-heritage-month-2024/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/history/nasa-celebrates-hispanic-heritage-month-2024/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
 
 4 min read
 
