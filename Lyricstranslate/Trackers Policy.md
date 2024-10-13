@@ -137,67 +137,65 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
-
-New translation
-
-[Jin (BTS) - 슈퍼 참치 (Super Tuna) - Extended Version](https://lyricstranslate.com/en/jin-bts-syupeo-camci-super-tuna-english)
-
-English → English
-
-[![Optimus_ Crepper](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1632651-1728646028.jpg)](https://lyricstranslate.com/en/translator/optimus-crepper "Optimus_ Crepper")
+[![solarpunk](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1582073-1687200031.jpg)](https://lyricstranslate.com/en/translator/solarpunk "solarpunk")
 
 New comment
 
-Obs! When clicking a sentence a orange background ...  [more](https://lyricstranslate.com/en/comment/1169451#comment-1169451)
+Changed it, cпасибо вам обоим!  [more](https://lyricstranslate.com/en/comment/1169864#comment-1169864)
 
-[![pingodapenguin](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/pingodapenguin "pingodapenguin")
-
-New translation
-
-[Rammstein - Der Meister](https://lyricstranslate.com/en/rammstein-der-meister-danish)
-
-German → Danish
-
-[![BeckoningCat](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601382-1702141765.jpg)](https://lyricstranslate.com/en/translator/beckoningcat "BeckoningCat")
-
-New translation
-
-[Terrian - Honestly, We Just Need Jesus](https://lyricstranslate.com/en/terrian-honestly-we-just-need-je-french)
-
-English → French
-
-[![itscami](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1405229-1544380442.jpg)](https://lyricstranslate.com/en/translator/dance-moms "itscami")
-
-New translation
-
-[Patrick Watson - Lost With You](https://lyricstranslate.com/en/patrick-watson-lost-you-italian)
-
-English → Italian
-
-[![Optimus_ Crepper](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1632651-1728646028.jpg)](https://lyricstranslate.com/en/translator/optimus-crepper "Optimus_ Crepper")
-
-New translation
-
-[Chris Abolade - titanic](https://lyricstranslate.com/en/chris-abolade-titanic-english)
-
-Norwegian → English
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Quartetto Cetra - Triana morena](https://lyricstranslate.com/en/quartetto-cetra-triana-morena-english)
-
-Spanish → English
-
-[![Natalia Arlovskaya](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1392475-1706287626.jpg)](https://lyricstranslate.com/en/translator/natalia-arlovskaya "Natalia Arlovskaya")
+[![Bloomidoly](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/bloomidoly "Bloomidoly")
 
 New song
 
-[Bubblegum Crisis (OST) - 傷だらけのWild](https://lyricstranslate.com/en/bubblegum-crisis-ost-kizu-darake-no-wild-lyrics)
+[Yeri Mua - Croketita](https://lyricstranslate.com/en/yeri-mua-croketita-lyrics)
 
-Japanese
+Spanish
+
+[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
+
+New idiom
+
+[es wird aus sei(n) mit mir/dir/uns/...](https://lyricstranslate.com/en/idiom/es-wird-aus-sein-mit-mirdiruns)
+
+[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
+
+New explanation of idiom
+
+[es wird mein/dein/unser/euer....Ende sein, ich werde/du wirst/wir werden/ihr werdet sterben...](https://lyricstranslate.com/en/es-wird-meindeinunsereuerende-sein-ich-werdedu-wirstwir-werdenihr-werdet-sterben)
+
+German (Austrian/Bavarian) → German
+
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+
+New song
+
+[Anna K - Pyramida boha slunce](https://lyricstranslate.com/en/anna-k-pyramida-boha-slunce-lyrics)
+
+Czech
+
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+
+New song
+
+[Anna K - V malinách](https://lyricstranslate.com/en/anna-k-v-malinach-lyrics)
+
+Czech
+
+[![Bloomidoly](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/bloomidoly "Bloomidoly")
+
+New song
+
+[Christian Nodal - La Corazonada](https://lyricstranslate.com/en/christian-nodal-la-corazonada-lyrics)
+
+Spanish
+
+[![somethingswell](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1509067-1657157546.jpg)](https://lyricstranslate.com/en/translator/somethingswell "somethingswell")
+
+New song
+
+[Hervør Sabina Á Torkilsheyggi - Beiggin](https://lyricstranslate.com/en/hervor-sabina-torkilshe-beiggin-lyrics)
+
+Faroese
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
