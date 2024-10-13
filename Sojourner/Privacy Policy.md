@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-95591358af621f24b672c220ea56c11f
+70ac8ce8595d0913751a8482a341e179
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![14 mm faceted round black onyx beads](https://www.sojourner.biz/images/cache/stone/ON0011.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/onyx/14-mm-faceted-round-black-onyx-beads.html "14 mm faceted round black onyx beads")
+[![10 mm round aquamarine beads](https://www.sojourner.biz/images/cache/aquamarine/AQM007.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/aquamarine/10-mm-round-aquamarine-beads.html "10 mm round aquamarine beads")
 
-#### [14 mm faceted round black onyx beads](https://www.sojourner.biz/beads/stone-m-z/onyx/14-mm-faceted-round-black-onyx-beads.html "14 mm faceted round black onyx beads")
+#### [10 mm round aquamarine beads](https://www.sojourner.biz/beads/stone-a-l/aquamarine/10-mm-round-aquamarine-beads.html "10 mm round aquamarine beads")
 
-$46.00
+$50.00
 
 ### Best Sellers
 
