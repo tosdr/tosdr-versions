@@ -208,9 +208,9 @@ Flirtual empowers users to take control of their dating app data, transforming i
 
 Block Explorer
 
-View details of data transactions, addresses, and other activities on the Satori testnet.
+View details of data transactions, addresses, and other activities on the Moksha testnet.
 
-[Block Explorer](https://satori.vanascan.io/)[GitHub](https://github.com/vana-com)
+[Block Explorer](https://vanascan.io/)[GitHub](https://github.com/vana-com)
 
 ![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66843b1cb84823695c968cd4_Faucet.png)
 
