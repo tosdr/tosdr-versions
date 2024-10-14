@@ -1,4 +1,4 @@
-[![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
+[![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_64,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
 Apps
 
@@ -14,9 +14,35 @@ Developers
 
 SNT
 
-Download for mobileDownload for macOS[Download for Windows](https://status.im/api/download/windows)[Download for Linux](https://status.im/api/download/linux)
+Download for mobileiOSAndroid
 
-[![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
+Download for macOS
+
+[](https://status.im/api/download/windows)
+
+[Download for Windows](https://status.im/api/download/windows)
+
+[](https://status.im/api/download/linux)
+
+[Download for Linux](https://status.im/api/download/linux)
+
+[Download for desktop](https://status.im/apps#desktop)
+
+Download for macOS
+
+[](https://status.im/api/download/windows)
+
+[Download for Windows](https://status.im/api/download/windows)
+
+[](https://status.im/api/download/linux)
+
+[Download for Linux](https://status.im/api/download/linux)
+
+[Download for desktop](https://status.im/apps#desktop)
+
+Download for mobileiOSAndroid
+
+[![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_64,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
 * Apps
 * Ecosystem
@@ -26,9 +52,35 @@ Download for mobileDownload for macOS[Download for Windows](https://status.im/ap
 * Developers
 * SNT
 
-Download for macOS[Download for Windows](https://status.im/api/download/windows)[Download for Linux](https://status.im/api/download/linux)Download for mobile
+Download for macOS
 
-[![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
+[](https://status.im/api/download/windows)
+
+[Download for Windows](https://status.im/api/download/windows)
+
+[](https://status.im/api/download/linux)
+
+[Download for Linux](https://status.im/api/download/linux)
+
+[Download for desktop](https://status.im/apps#desktop)
+
+Download for mobileiOSAndroid
+
+Download for mobileiOSAndroid
+
+Download for macOS
+
+[](https://status.im/api/download/windows)
+
+[Download for Windows](https://status.im/api/download/windows)
+
+[](https://status.im/api/download/linux)
+
+[Download for Linux](https://status.im/api/download/linux)
+
+[Download for desktop](https://status.im/apps#desktop)
+
+[![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_64,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
 * Apps
 * Ecosystem
@@ -38,9 +90,35 @@ Download for macOS[Download for Windows](https://status.im/api/download/windows)
 * Developers
 * SNT
 
-Download for macOS[Download for Windows](https://status.im/api/download/windows)[Download for Linux](https://status.im/api/download/linux)Download for mobile
+Download for mobileiOSAndroid
 
-[![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
+Download for macOS
+
+[](https://status.im/api/download/windows)
+
+[Download for Windows](https://status.im/api/download/windows)
+
+[](https://status.im/api/download/linux)
+
+[Download for Linux](https://status.im/api/download/linux)
+
+[Download for desktop](https://status.im/apps#desktop)
+
+Download for macOS
+
+[](https://status.im/api/download/windows)
+
+[Download for Windows](https://status.im/api/download/windows)
+
+[](https://status.im/api/download/linux)
+
+[Download for Linux](https://status.im/api/download/linux)
+
+[Download for desktop](https://status.im/apps#desktop)
+
+Download for mobileiOSAndroid
+
+[![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_64,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
 Apps
 
@@ -56,7 +134,33 @@ Developers
 
 SNT
 
-Download for macOS[Download for Windows](https://status.im/api/download/windows)[Download for Linux](https://status.im/api/download/linux)Download for mobile
+Download for macOS
+
+[](https://status.im/api/download/windows)
+
+[Download for Windows](https://status.im/api/download/windows)
+
+[](https://status.im/api/download/linux)
+
+[Download for Linux](https://status.im/api/download/linux)
+
+[Download for desktop](https://status.im/apps#desktop)
+
+Download for mobileiOSAndroid
+
+Download for mobileiOSAndroid
+
+Download for macOS
+
+[](https://status.im/api/download/windows)
+
+[Download for Windows](https://status.im/api/download/windows)
+
+[](https://status.im/api/download/linux)
+
+[Download for Linux](https://status.im/api/download/linux)
+
+[Download for desktop](https://status.im/apps#desktop)
 
 ![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Non%20Beta%20Release/Illustrations/hero-1)![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Non%20Beta%20Release/Illustrations/hero-2)
 
@@ -70,7 +174,33 @@ jump to web3
 
 Use the open-source, decentralised wallet and messenger.
 
-Download for mobileDownload for macOS[Download for Windows](https://status.im/api/download/windows)[Download for Linux](https://status.im/api/download/linux)
+Download for mobileiOSAndroid
+
+Download for macOS
+
+[](https://status.im/api/download/windows)
+
+[Download for Windows](https://status.im/api/download/windows)
+
+[](https://status.im/api/download/linux)
+
+[Download for Linux](https://status.im/api/download/linux)
+
+[Download for desktop](https://status.im/apps#desktop)
+
+Download for macOS
+
+[](https://status.im/api/download/windows)
+
+[Download for Windows](https://status.im/api/download/windows)
+
+[](https://status.im/api/download/linux)
+
+[Download for Linux](https://status.im/api/download/linux)
+
+[Download for desktop](https://status.im/apps#desktop)
+
+Download for mobileiOSAndroid
 
 ![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1920,q_auto/Non%20Beta%20Release/Illustrations/Hero_Non_Beta_Release_Mobile_Long)
 
@@ -113,11 +243,11 @@ See all your assets and NFTs in one place, even if spread across multiple blockc
 
 Currently supported networks
 
-Mainnet
+![mainnet](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_256,q_auto/Wallet/Icons/Logos/01)Mainnet
 
-Optimism
+![optimism](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_256,q_auto/Wallet/Icons/Logos/02)Optimism
 
-Arbitrum
+![arbitrum](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_256,q_auto/Wallet/Icons/Logos/03)Arbitrum
 
 Aggregated balance
 
@@ -266,6 +396,8 @@ A secure contactless hardware wallet.
 
 Status Mobile Public Release & New Desktop Beta Now Live!
 
+![Us](https://our.status.im/content/images/2024/06/Avatar_-_1080.webp)
+
 Us
 
 on Sep 05, 2024
@@ -274,6 +406,8 @@ on Sep 05, 2024
 
 Status Partners with Linea to Launch Status Network
 
+![Us](https://our.status.im/content/images/2024/06/Avatar_-_1080.webp)
+
 Us
 
 on Aug 20, 2024
@@ -281,6 +415,8 @@ on Aug 20, 2024
 ![](https://our.status.im/content/images/2024/08/Blog_Linea_Status.jpg)](https://status.im/blog/linea-partnership-status-network)[Status
 
 Embracing Community Choices: Status to Develop SNT Staking and Status L2
+
+![Us](https://our.status.im/content/images/2024/06/Avatar_-_1080.webp)
 
 Us
 
@@ -315,9 +451,35 @@ Be unstoppable
 
 Use the open-source, decentralised wallet and messenger.
 
-Download for mobileDownload for macOS[Download for Windows](https://status.im/api/download/windows)[Download for Linux](https://status.im/api/download/linux)
+Download for mobileiOSAndroid
 
-[![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
+Download for macOS
+
+[](https://status.im/api/download/windows)
+
+[Download for Windows](https://status.im/api/download/windows)
+
+[](https://status.im/api/download/linux)
+
+[Download for Linux](https://status.im/api/download/linux)
+
+[Download for desktop](https://status.im/apps#desktop)
+
+Download for macOS
+
+[](https://status.im/api/download/windows)
+
+[Download for Windows](https://status.im/api/download/windows)
+
+[](https://status.im/api/download/linux)
+
+[Download for Linux](https://status.im/api/download/linux)
+
+[Download for desktop](https://status.im/apps#desktop)
+
+Download for mobileiOSAndroid
+
+[![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_64,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
 Apps
 
@@ -367,7 +529,7 @@ SNT
 * [Curate](https://curate.status.app/)
 * [Exchanges](https://status.im/snt/exchanges)
 
-[![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
+[![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_64,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
 Apps
 
