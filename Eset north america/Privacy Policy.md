@@ -650,7 +650,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/business/advanced-protection/)
+[United States (EN)](https://www.eset.com/us/home/eset-vpn/)
 
 * * *
 
