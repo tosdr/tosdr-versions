@@ -219,6 +219,8 @@ October 11, 2024
 
 Features SMS blocking rules that, for whatever reason, don't seem to exist on competing apps. It's also nice that numbers in your contacts are separated into their own list, distinct from all unknown numbers. Finally, there's a handy feature where 2FA text message codes are automatically copied to the clipboard. However beyond that, there isn't much going for it. I have weird rendering errors on my device where occasionally older messages will float over or behind current messages. Strange.
 
+1 person found this review helpful
+
 Did you find this helpful?
 
 Yes
@@ -238,7 +240,7 @@ September 25, 2024
 
 09/25/2024 uo: I can send and receive images IF and only if I use data instead of Wi-Fi. 01/28/2023 update: This text app is great for filtering out spam, but it can't send or receive images unless they're very small and even then not alway. Very robust, feature filled app. Paid version highly ecommended. I love being able to block messages and avoid spam.
 
-5 people found this review helpful
+6 people found this review helpful
 
 Did you find this helpful?
 
@@ -246,20 +248,20 @@ Yes
 
 No
 
-![](https://play-lh.googleusercontent.com/a-/ALV-UjWt5-C_C981j24U-MLJSv6XOj6d1vzLdSI5Hy8VWCDWIkYUdxg4=s32)
+![](https://play-lh.googleusercontent.com/a-/ALV-UjUv3kXtnPS4RNtSX7a1RWs-rjmrKhk0XafvLLGc1SGYRXQWYC77=s32)
 
-Caleb's Mom
+Josh Mudge
 
 _more\_vert_
 
 * Flag inappropriate
 * Show review history
 
-August 29, 2024
+October 13, 2024
 
-5 Month Update -- Get This App!! The small monthly price is worth every penny. It's an election year and the fundraising texts are out of control. This app saves me from 20-40 texts per day and I love it! It is saving my sanity, and there are so many different ways to filter. I almost exclusively use the "Context" filter which looks at specific words in the text message. You can filter by everyone or only unknown contacts which is an excellent feature. This app is exactly what I need.
+Edit: Still no response from support, but it's no longer crashing constantly so that's a plus. Not all of my texts that I exchanged in the stock SMS app appear to show up though. Key Messages worked well and had decent support, then it became Mezo SMS. Now it crashes continuously and the support people no longer respond.
 
-10 people found this review helpful
+2 people found this review helpful
 
 Did you find this helpful?
 
@@ -304,7 +306,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGloN2xnc3J2R2pQaEpGSlpHd1RWUkE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljI-wnc)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGEh0a2FEVG9RVlh4UGY3YXo1RG94QUE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLpIg8)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/uU38cxbeMKLKDXQYopB9r1ybCFO-2vdfTKtV-mXp-zZ7Mcv_AW6MzSSCWkR_ybvgRA=s64)
 
@@ -320,7 +322,7 @@ Wize SMS: Message & Messenger
 
 Browser by Fulldive Co.
 
-4.3_star_](https://play.google.com/store/apps/details?id=com.fulldive.extension.divesms)
+4.2_star_](https://play.google.com/store/apps/details?id=com.fulldive.extension.divesms)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/H-gvp6FzVPkEjwqnh2z6ks6PiKoC2AjsPMnZeHlOdDTB58jJn7kxDbh7VLsHdndfB2s=s64)
 
