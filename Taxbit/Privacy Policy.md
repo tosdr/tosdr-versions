@@ -22,7 +22,7 @@ Learn more about the newly finalized regulations and how to prepare
     
     [Enterprise Accounting](https://taxbit.com/products/enterprise-accounting/)
     
-    The comprehensive platform designed to streamline financial reporting and corporate tax filing of digital assets held by businesses.
+    The comprehensive suite designed to streamline financial reporting and corporate tax filing of digital assets held by businesses.
     
     [Contact Sales](https://www.taxbit.com/schedule-a-demo)
     
