@@ -475,13 +475,21 @@ Revised June 1, 2022
 
   [![Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427386.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
 
+[Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
+
+  [![Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427338.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
+
 [Danish-style 'schools for life' gaining popularity in Japan](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
 
   [![People engage in discussions during a program of School for Life Compath in Biei, Hokkaido, in August 2021.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427176.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "People engage in discussions during a program of School for Life Compath in Biei, Hokkaido, in August 2021.")](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
 
-[Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-nuclear-deterrance/ "Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says")
+[Poorest nations in worst financial shape since 2006, World Bank says](https://www.japantimes.co.jp/business/2024/10/14/economy/world-bank-26-poorest-nations/ "Poorest nations in worst financial shape since 2006, World Bank says")
 
-  [![Prime Minister Shigeru Ishiba speaks during a debate with other political party leaders at the Japan National Press Club in Tokyo on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427417.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks during a debate with other political party leaders at the Japan National Press Club in Tokyo on Saturday. ")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-nuclear-deterrance/ "Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says")
+  [![Afghan women after an earthquake in Herat, Afghanistan, on Oct. 10, 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427586.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Afghan women after an earthquake in Herat, Afghanistan, on Oct. 10, 2023")](https://www.japantimes.co.jp/business/2024/10/14/economy/world-bank-26-poorest-nations/ "Poorest nations in worst financial shape since 2006, World Bank says")
+
+[SpaceX captures booster rocket in step toward Musk’s Mars dream](https://www.japantimes.co.jp/business/2024/10/14/tech/spacex-booster-rocket-musk-mars/ "SpaceX captures booster rocket in step toward Musk’s Mars dream")
+
+  [![Starship's Super Heavy Booster is grappled at the launch pad in Starbase near Boca Chica, Texas, on Sunday, during the Starship Flight 5 test. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427568.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Starship's Super Heavy Booster is grappled at the launch pad in Starbase near Boca Chica, Texas, on Sunday, during the Starship Flight 5 test. ")](https://www.japantimes.co.jp/business/2024/10/14/tech/spacex-booster-rocket-musk-mars/ "SpaceX captures booster rocket in step toward Musk’s Mars dream")
 
 [Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize-nihon-hidankyo/ "Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo")
 
@@ -494,14 +502,6 @@ Revised June 1, 2022
 [Peter Barakan’s Live Magic! takes its final bow](https://www.japantimes.co.jp/culture/2024/10/11/music/peter-barakan-live-magic-finale/ "Peter Barakan’s Live Magic! takes its final bow")
 
   [![Annual festival Peter Barakan’s Live Magic! was born a decade ago when Barakan (left) decided to create a platform to share his love of roots music, which he attributes to growing up in 1960s England.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/425944.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Annual festival Peter Barakan’s Live Magic! was born a decade ago when Barakan (left) decided to create a platform to share his love of roots music, which he attributes to growing up in 1960s England.")](https://www.japantimes.co.jp/culture/2024/10/11/music/peter-barakan-live-magic-finale/ "Peter Barakan’s Live Magic! takes its final bow")
-
-[Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
-
-  [![Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426811.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ")](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
-
-[Japan pushes fossil fuel tech in Asia carbon neutrality initiative](https://www.japantimes.co.jp/environment/2024/10/09/energy/azec-fossil-fuel-technology/ "Japan pushes fossil fuel tech in Asia carbon neutrality initiative")
-
-  [![Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426839.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.")](https://www.japantimes.co.jp/environment/2024/10/09/energy/azec-fossil-fuel-technology/ "Japan pushes fossil fuel tech in Asia carbon neutrality initiative")
 
 Podcast
 -------
@@ -564,21 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Australia commits $64 million to protect against looming bird flu threat](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/ "Australia commits $64 million to protect against looming bird flu threat")
+[North Korea put border troops on high alert after drone claims](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/north-korea-border-alert-drone/ "North Korea put border troops on high alert after drone claims")
 
-10 hours ago
+15 mins ago
 
-[Israeli foreign minister reiterates U.N. chief Guterres is persona non grata over Iran stance](https://www.japantimes.co.jp/news/2024/10/13/world/israeli-foreign-minister-deems-guterres-persona-non-grata/ "Israeli foreign minister reiterates U.N. chief Guterres is persona non grata over Iran stance")
+[Biden congratulates Nihon Hidankyo on winning Nobel Peace Prize](https://www.japantimes.co.jp/news/2024/10/14/japan/biden-congratulates-nihon-hidankyo/ "Biden congratulates Nihon Hidankyo on winning Nobel Peace Prize")
 
-10 hours ago
+40 mins ago
 
-[Secret documents show Hamas tried to persuade Iran to join its Oct. 7 attack](https://www.japantimes.co.jp/news/2024/10/13/world/hamas-iran-october-7-attack/ "Secret documents show Hamas tried to persuade Iran to join its Oct. 7 attack")
+[Japan's empress emerita leaves hospital](https://www.japantimes.co.jp/news/2024/10/14/japan/japan-empress-emerita-michiko-leaves-hospital/ "Japan's empress emerita leaves hospital")
 
-11 hours ago
+59 mins ago
 
-[Taiwan spots Chinese carrier as video says military 'prepared for battle'](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
+[Poorest nations in worst financial shape since 2006, World Bank says](https://www.japantimes.co.jp/business/2024/10/14/economy/world-bank-26-poorest-nations/ "Poorest nations in worst financial shape since 2006, World Bank says")
 
-[Japan's Empress Emerita leaves hospital](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-empress-emerita-michiko-leaves-hospital/ "Japan's Empress Emerita leaves hospital")
+1 hours ago
+
+[China leaves economists wanting more action to defeat deflation](https://www.japantimes.co.jp/business/2024/10/14/economy/china-economists-action-deflation/ "China leaves economists wanting more action to defeat deflation")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
