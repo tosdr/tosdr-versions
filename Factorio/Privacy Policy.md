@@ -6,7 +6,7 @@
 
 [Game](https://factorio.com/game/game-overview)
 
-[Screenshots](https://factorio.com/game/screenshots) [Videos](https://factorio.com/game/videos) [Content](https://factorio.com/game/content) [Artwork](https://factorio.com/game/artwork) [About us](https://factorio.com/game/about) [Buy](https://factorio.com/buy) [Demo](https://factorio.com/download)
+[Screenshots](https://factorio.com/game/screenshots) [Videos](https://factorio.com/game/videos) [Content](https://factorio.com/game/content) [Space age Content](https://factorio.com/game/content-space-age) [Artwork](https://factorio.com/game/artwork) [About us](https://factorio.com/game/about) [Buy](https://factorio.com/buy) [Buy Space Age](https://factorio.com/buy-space-age) [Demo](https://factorio.com/download)
 
 [Merch](https://factorio.com/store)
 
