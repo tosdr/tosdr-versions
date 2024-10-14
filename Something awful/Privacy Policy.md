@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Know Your Comics: Guys With Big Heads](https://www.somethingawful.com/news/big-head-comic/)
-* [The Great American Reach Around - The Northeast & The Two Irelands](https://www.somethingawful.com/news/gara-week-four/1/)
-* [The 7 Most Awful Things to Happen to the Internet](https://www.somethingawful.com/most-awful/seven-awful-internet/1/)
-* [Men's Hats Ranked From Most to Least Tainted](https://www.somethingawful.com/news/men-hats-taint/1/)
-* [\[Mature\] Exalted's Most Mature Content (A Mature Article) for Matures Only](https://www.somethingawful.com/dungeons-and-dragons/burn-down-whitewolf/1/)
+* [Retro SWAT](https://www.somethingawful.com/fashion-swat/retro-swat/1/)
+* [Sharper FX Inc.](https://www.somethingawful.com/awful-links/extreme-church/)
+* [2004: A Look Ahead](https://www.somethingawful.com/news/2004-look-ahead/)
+* [AwfulVision, Literally.](https://www.somethingawful.com/awfulvision/toilet-furry-jesus/1/)
+* [The World's Weirdest Laws](https://www.somethingawful.com/news/weird-laws/)
 
 ### Popular Threads
 
@@ -218,11 +218,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [System of a Down: Hate-Mail](https://www.somethingawful.com/your-band-sucks/system-down-hatemail/)
-* [Halo 3 Spoilers, Most Significant Moments In Gaming](https://www.somethingawful.com/video-game-article/halo-spoilers-most/)
-* [Son of Nightmares Fear Factory!](https://www.somethingawful.com/comedy-goldmine/nightmares-reactions-photoshops/1/)
-* [Jokes2Go (Thanks, Dions!)](https://www.somethingawful.com/awful-links/jokes2go/)
-* [Cthulhu Coloring Book!](https://www.somethingawful.com/comedy-goldmine/cthulhu-coloring-book/1/)
+* [You Didn't Get the Part!](https://www.somethingawful.com/photoshop-phriday/recast-movies/1/)
+* [Hitchhiking: The Greatest Game I've Ever Played](https://www.somethingawful.com/comedy-goldmine/hitchhiking-greatest-game/1/)
+* [ARE YALL READY TO SEE MY SISTER'S LANDING STRIP?](https://www.somethingawful.com/levi-johnston/mercede-playboy-levi/1/)
+* [Further Proof Paypal Sucks](https://www.somethingawful.com/news/further-proof-paypal/)
+* [Reptoids (Thanks, blackishsheep!)](https://www.somethingawful.com/awful-links/reptoids-john-rhodes/)
 
 [Random!](https://www.somethingawful.com/random/)
 
