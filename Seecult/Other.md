@@ -111,17 +111,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Kalendar događaja](http://seecult.org/kalendar "Kalendar događaja")[](http://seecult.org/kalendar "Kalendar događaja")
 
-* [10:00 Radonić sam. Izbor crteža Novaka Radonića, BG](javascript:void(0);)
-    
-    **15.12.2023 | 10:00**
-    
-    Narodni muzej Srbije/Kabinet grafike, Trg Republike 1a, Beograd
-    
-    **RADONIĆ SAM. IZBOR CRTEŽA NOVAKA RADONIĆA** - izložba (14.12.2023.-13.10.2024.)
-    
-    [http://www.narodnimuzej.rs](http://www.narodnimuzej.rs/)
-    
-    [10:00 Spekter. 70 let Zbirke UGM, MB](javascript:void(0);)
+* [10:00 Spekter. 70 let Zbirke UGM, MB](javascript:void(0);)
     
     **03.02.2024 | 10:00**
     
@@ -223,16 +213,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
-    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -244,6 +224,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     avtorji razstave: Tina Buh, Admir Ganić, Andrej Smrekar
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
     [11:00 Mila Gvardiol, BG](javascript:void(0);)
     
@@ -319,14 +309,104 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.czkd.org](http://www.czkd.org/)
     
+    [10:00 10. Trienale sodobne umetnosti - U3, LJ](javascript:void(0);)
+    
+    **22.06.2024 | 10:00**
+    
+    Moderna galerija, Cankarjeva 15, Ljubljana
+    
+    **10\. TRIENALE SODOBNE UMETNOSTI - U3: PROTI TOKU ČASA** (21.6.-17.11.2024.)
+    
+    **Nika Autor**
+    
+    **Jaka Babnik**
+    
+    **Nataša Berk**
+    
+    **Viktor Bernik**
+    
+    **Maxime Berthou &  Mark Požlep**
+    
+    **Martin Bricelj Baraga**
+    
+    **Jasmina Cibic**
+    
+    **Ana Čavić**
+    
+    **Lana Čmajčanin**
+    
+    **DNLM**
+    
+    **Aleksandra Domanović**
+    
+    **name:**
+    
+    **Vadim Fishkin**
+    
+    **Jošt Franko**
+    
+    **Tomaž Furlan**
+    
+    **Ištvan Išt Huzjan**
+    
+    **Sanela Jahić**
+    
+    **Staš Kleindienst**
+    
+    **Andrea Knezović**
+    
+    **Polonca Lovšin**
+    
+    **The Nonument Group**
+    
+    **Gala Alica**
+    
+    **Marjetica Potrč**
+    
+    **Tobias Putrih**
+    
+    **Tjaša Rener**
+    
+    **Peter Rauch**
+    
+    **Maruša Sagadin**
+    
+    **Duba Sambolec**
+    
+    **Luka Savić**
+    
+    **Maja Smrekar**
+    
+    **Robertina Šebjanič**
+    
+    **Andrej Škufca**
+    
+    **Igor Štromajer**
+    
+    **Apolonija Šušteršič**
+    
+    **Ulay**
+    
+    **Tao G. Vrhovec Sambolec**
+    
+    **Matej Andraž Vogrinčič**
+    
+    **Nana Wolke**
+    
+    **Neja Zorzut**
+    
+    Kustos: **Tevž Logar**
+    
+    [https://www.mg-lj.si/si](https://www.mg-lj.si/si)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/marica-radojcic-presic/five-eggs/ben3.jpg?itok=UFycYF_y)](http://seecult.org/galerija/galerija-umetnika/marica-radojcic-presic/five-eggs)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukovo-0001-umetnici-radovi-atmosfera/ivana-vidic/ivana-vidich.jpg?itok=94KPasi8)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukovo-0001-umetnici-radovi-atmosfera/ivana-vidic)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/butch-morris-nublu-orchestra-211007/nublu8.jpg?itok=KLY1rgU_)](http://seecult.org/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/butch-morris-nublu-orchestra-211007)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/festival-na-tockovima.jpg?itok=T5_WLbhP)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
