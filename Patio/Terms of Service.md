@@ -29,7 +29,7 @@ Once you purchase this domain, our team will send you detailed instructions on h
 
 Buy Now
 
-$6,990 USD $12,000 Sale Ends In 3 Days
+$6,990 USD $12,000 Sale Ends In 6 Days
 
 Pay in Installments $641 _x 12 months_
 
@@ -85,7 +85,7 @@ Once you purchase this domain, our team will send you detailed instructions on h
 
 Buy Now
 
-$6,990 USD $12,000 Sale Ends In 3 Days
+$6,990 USD $12,000 Sale Ends In 6 Days
 
 Pay in Installments $641 _x 12 months_
 
@@ -181,17 +181,17 @@ Purchase
 * [Food & Drink](https://patio.app/search/categories/Food%20%26%20Drink)
 * [Transportation & Shipping](https://patio.app/search/categories/Transportation%20%26%20Shipping)
 
-* [Security](https://patio.app/search/categories/Security)
-* [Fashion & Clothing](https://patio.app/search/categories/Fashion%20%26%20Clothing)
-
 * [Real Estate](https://patio.app/search/categories/Real%20Estate)
+* [Security](https://patio.app/search/categories/Security)
+
+* [Fashion & Clothing](https://patio.app/search/categories/Fashion%20%26%20Clothing)
 * [Sports](https://patio.app/search/categories/Sports)
 
-* [Payment](https://patio.app/search/categories/Payment)
 * [Music & Audio](https://patio.app/search/categories/Music%20%26%20Audio)
+* [Payment](https://patio.app/search/categories/Payment)
 
-* [Recruitment & Staffing](https://patio.app/search/categories/Recruitment%20%26%20Staffing)
 * [Marketing & Advertising](https://patio.app/search/categories/Marketing%20%26%20Advertising)
+* [Recruitment & Staffing](https://patio.app/search/categories/Recruitment%20%26%20Staffing)
 
 * [Professional Services](https://patio.app/search/categories/Professional%20Services)
 * [Legal, Attorney, Law](https://patio.app/search/categories/Legal%2C%20Attorney%2C%20Law)
