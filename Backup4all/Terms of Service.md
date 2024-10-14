@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Walrus using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-walrus-using-backup4all-kb.html)  
+* [Why some of the source files are not backed u ...](https://www.backup4all.com/why-some-of-the-source-files-are-not-backed-up-kb.html)  
     
-* [How to restore a backup to Dropbox](https://www.backup4all.com/how-to-restore-a-backup-to-dropbox-kb.html)  
+* [How to back up data files from DDN using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ddn-using-backup4all-kb.html)  
     
-* [How to back up files from Cloudflare R2 using ...](https://www.backup4all.com/how-to-back-up-files-from-cloudflare-r2-using-backup4all-kb.html)  
+* [How to backup to OneDrive using Backup4all](https://www.backup4all.com/how-to-backup-to-skydrive-using-backup4all-kb.html)  
     
-* [How to back up data files from Amazon S3 usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-amazon-s3-using-backup4all-kb.html)  
+* [How to backup your data to HostEurope](https://www.backup4all.com/how-to-backup-your-data-to-hosteurope-kb.html)  
     
-* [How to move a backup from a failing hard driv ...](https://www.backup4all.com/how-to-move-a-backup-from-a-failing-hard-drive-to-a-new-one-kb.html)  
+* [How to schedule a backup job in the New Backu ...](https://www.backup4all.com/how-to-schedule-a-backup-job-in-the-new-backup-wizard-kb.html)  
     
 
 Choose language:
