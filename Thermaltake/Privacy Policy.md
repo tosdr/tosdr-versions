@@ -319,6 +319,7 @@ We may from time to time revise the privacy protection policies in accordance wi
 
 * [About Us](https://www.thermaltakecorp.com/ "About Us")
 * [Where to Buy](https://www.thermaltake.com/wheretobuys "Where to Buy")
+* [Privacy Policy / Cookie Settings](https://www.thermaltake.com/privacy-policy-cookie-restriction-mode "Privacy Policy / Cookie Settings")
 
 #### LCGS Store
 
