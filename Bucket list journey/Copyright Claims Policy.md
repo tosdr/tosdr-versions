@@ -347,7 +347,7 @@ Drop the word ⚡️TRAVEL⚡️ in the comments to get the link.
 ### DESTINATIONS
 
 [World Travel](https://bucketlistjourney.net/category/destinations/)  
-[USA Travel](https://bucketlistjourney.net/category/north-america-travel/)  
+[USA Travel](https://bucketlistjourney.net/category/destinations/united-states/)  
 [California](https://bucketlistjourney.net/category/california-travel/)
 
 © BUCKET LIST JOURNEY 2024 | ALL RIGHTS RESERVED | [GET IN TOUCH](https://bucketlistjourney.net/advertisesponsor__trashed/contact/) | [PRIVACY POLICY](https://bucketlistjourney.net/terms/)
