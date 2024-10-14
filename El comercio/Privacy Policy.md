@@ -31,6 +31,709 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La av. Mariana de Jesús será intervenida por 15 días; conozca las rutas alternas
+================================================================================
+
+La rehabilitación de la avenida Mariana de Jesús avanza en el tramo entre Pedro Calvo y Oe7B con un plan de movilidad para asegurar el acceso a centros de salud. La intervención durará 15 días.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El segundo tramo de intervención arranca en la Mariana de Jesús.](https://www.elcomercio.com/wp-content/uploads/2024/08/MAriana-de-JEsus-1.jpg)
+
+La rehabilitación de la avenida **Mariana de Jesús**, en el norte de **Quito**, entra en una nueva fase desde este lunes 14 de octubre de 2024. Los trabajos se extenderán por 15 días y afecta una zona clave de **servicios médicos** debido a la alta concentración de centros de salud en el sector[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+### Más noticias
+
+* [¿Cuándo comienzan los trabajos de la Ecovía en la Plaza Argentina?](https://www.elcomercio.com/actualidad/quito/trabajos-ecovia-plaza-argentina-transito.html "¿Cuándo comienzan los trabajos de la Ecovía en la Plaza Argentina?")
+* [Congestión vehicular en av. Simón Bolívar por limpieza de taludes](https://www.elcomercio.com/actualidad/quito/municipio-retira-arboles-maleza-ceniza-taludes-av-simon-bolivar.html "Congestión vehicular en av. Simón Bolívar por limpieza de taludes")
+* [Guayaquil tiene nuevos horarios de cortes de luz para este lunes 14 de octubre de 2024](https://www.elcomercio.com/actualidad/ecuador/guayaquil-nuevos-horarios-cortes-de-luz-lunes-14-de-octubre-de-2024.html "Guayaquil tiene nuevos horarios de cortes de luz para este lunes 14 de octubre de 2024")
+
+El **Municipio de Quito** informó que este lunes 14 de octubre de 2024 continuarán las obras en la **av. Mariana de Jesús**, en el tramo entre la **calle Pedro Calvo y la calle Oe7B.**
+
+Para evitar problemas de congestión en el sector, la Empresa Pública Metropolitana de Movilidad y Obras Públicas (Epmmop) implementó un plan de movilidad. El mismo busca garantizar el acceso continuo a **emergencias médicas** y la fluidez vehicular durante los trabajos, señaló el Municipio.
+
+Las labores de rehabilitación comenzarán por el carril en sentido oriente-occidente, es decir, el de subida hacia la avenida Mariscal Sucre (Occidental). Una vez finalizados los trabajos en este carril, la intervención continuará en el carril opuesto, que conecta en sentido occidente-oriente. El objetivo es mejorar la transitabilidad y seguridad de esta importante arteria vial de Quito, cuyo deterioro ha afectado el flujo vehicular en la zona.
+
+Rutas alternas por obras en la av. Mariana de Jesús
+---------------------------------------------------
+
+> 👷🏼[#RehabilitaciónVial](https://twitter.com/hashtag/Rehabilitaci%C3%B3nVial?src=hash&ref_src=twsrc%5Etfw) | Pilas vecinos se vienen nuevos cierres en la. [#AvMarianaDeJesús](https://twitter.com/hashtag/AvMarianaDeJes%C3%BAs?src=hash&ref_src=twsrc%5Etfw)👷🏼  
+>   
+> Desde este lunes 14 de octubre avanzamos con la intervención en el tramo entre Pedro Calvo y Oe7B.  
+>   
+> Léelo aquí👉 [https://t.co/SNq14XZojf](https://t.co/SNq14XZojf)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw)[#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/xPrEvlrCQc](https://t.co/xPrEvlrCQc)
+> 
+> — Obras Quito (@ObrasQuito) [October 13, 2024](https://twitter.com/ObrasQuito/status/1845262011183063192?ref_src=twsrc%5Etfw)
+
+Para mitigar el impacto de las obras, se han dispuesto rutas alternas, entre ellas, las calles **Pedro Calvo**, **San Gabriel y Nicolás Arteta**. Estas vías servirán para conectar la avenida **Occidental** con la avenida **América**, minimizando las posibles congestiones. Además, los pasajes y vías transversales se mantendrán habilitados para los residentes del sector, quienes no verán interrumpido su acceso habitual, agregó la municipalidad.
+
+Los trabajos se realizarán en **jornadas extendidas**, incluyendo fines de semana y feriados, desde las 07:00 hasta las 18:30. Asimismo, se contemplan **turnos nocturnos**, siempre que las condiciones climáticas lo permitan y no haya interrupciones por cortes de energía eléctrica.
+
+Razones para defender a ‘Joker 2’ y considerarla una buena película (alerta ‘spoiler’)
+======================================================================================
+
+‘Joker 2: Folie à Deux’ desafía las expectativas al transformarse en un musical audaz.
+--------------------------------------------------------------------------------------
+
+![‘Joker 2: Folie à Deux’ es dirigida por Todd Phillips y protagonizada por Joaquín Phoenix y Lady Gaga. Foto: IMDb.](https://www.elcomercio.com/wp-content/uploads/2024/10/Joker-2-Folie-a-Deux-1.jpg)
+
+La recién estrenada película **‘Joker 2: Folie à Deux’** ha provocado **opiniones divididas** entre críticos y espectadores. Aunque algunos la consideran una decepción en comparación con su predecesora, otros **destacan su valentía narrativa**.  
+
+### Más noticias
+
+* [La crítica preliminar se divide ante ‘Joker 2: Folie à Deux’](https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-joaquin-phoenix-lady-gaga.html "https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-joaquin-phoenix-lady-gaga.html") 
+* [¿Por qué fracasó el ‘Joker: Folie à Deux’?](https://www.elcomercio.com/tendencias/fracaso-joker-folie-a-deux.html "https://www.elcomercio.com/tendencias/fracaso-joker-folie-a-deux.html")
+
+Dirigida por **Todd Phillips** y protagonizada por **Joaquín Phoenix y Lady Gaga**, la película se aleja del **camino esperado**, arriesgándose por un **formato de musical**. A continuación, presentamos **varios puntos clave** que reflejan la complejidad de esta secuela, que **seguramente será apreciada a futuro**.  
+
+**‘Joker 2: Folie à Deux’: un musical inesperado** 
+---------------------------------------------------
+
+La decisión de **transformar la historia en un musical** ha generado descontento. Muchos esperaban una continuación más oscura y anárquica; cercana al **Joker de Heath Ledger**. Esta elección ha desdibujado las expectativas previas, al dejar a la audiencia confundida. Sin embargo, el elemento musical refleja la **lucha interna del protagonista**. La mayoría de las **escenas musicales** suceden en la **mente disociada de Fleck**; es una **invitación a su mente trastornada**. 
+
+**Lady Gaga como Harley Quinn** 
+--------------------------------
+
+Gaga interpreta a **Lee Quinzel**, una versión de Harley Quinn que ha sido criticada. Algunos **culpan a su actuación por el fracaso percibido de la película**. Sin embargo, su papel es crucial para el **desarrollo del Joker**. El enamoramiento de Lee con el Joker, y no con Fleck, añade una nueva **capa de complejidad a la historia**. 
+
+**La muerte del Joker** 
+------------------------
+
+La película se centra en la **muerte simbólica de Joker** y el desarrollo de Fleck. La narrativa profundiza en la **salud mental del protagonista** y sus **experiencias traumáticas**. Se observa una **exploración más profunda de su historia personal**. Esta decisión desafía las expectativas de una **trama tradicional de villanos**. El Joker muere porque **Fleck no quiere encarnarlo más** y Fleck muere porque no puede ser el Joker.
+
+**La infancia de Fleck** 
+-------------------------
+
+Desde la primera entrega, **Fleck es un personaje marcado por el trauma**. Creció bajo la influencia de una madre que le impuso **identidades falsas,** como llamarlo ‘Happy’. Sus **experiencias infantiles**, los **abusos que sufrió**, moldearon su percepción del mundo. Esta secuela explora las consecuencias de esos traumas de manera más visceral.  
+
+**Encierro en Arkham** 
+-----------------------
+
+**Fleck es recluido en una prisión común**, lo que refleja la dura realidad de su situación. La violencia y los abusos en el **sistema carcelario** son un telón de fondo constante. En este entorno, conoce a Lee, quien busca acercarse a él. Su relación se convierte en una **manipulación sutil**, lo que **impulsa su transformación en Joker**. 
+
+**La música como escape** 
+--------------------------
+
+**La música se presenta como un mecanismo de escape para Fleck**. A través de números musicales, la película invita a la audiencia a **explorar su psique**. Los temas musicales, tanto originales como versiones, aportan un contraste intrigante. Esta **dualidad entre la música y la violencia enfatiza la lucha interna del personaje**. 
+
+**Conflicto con su abogada** 
+-----------------------------
+
+La abogada **Maryanne Stewart** se convierte en una figura de **legítimo apoyo para Fleck**. A diferencia de Lee, **ella busca su bienestar real**. Este conflicto entre los intereses de Lee y Maryanne **añade tensión a la narrativa**. La **lucha de Fleck por su identidad** se complica con las manipulaciones externas. 
+
+**Juicio y autoevaluación** 
+----------------------------
+
+El **juicio de Fleck** es un **momento crítico en la trama**. La **falta de comprensión de su salud mental** agrava su situación. El **sistema judicial** falla en proporcionar el tratamiento adecuado. Este aspecto resalta la **crítica social hacia las instituciones** y su incapacidad para ayudar a quienes lo necesitan. **Le cortaron la asistencia social**, lo recluyeron en prisión en lugar de en un psiquiátrico, e incluso **el juicio se convirtió en una suerte de ‘reality show’**, guiños a juicios como el de **Johnny Depp y Amber Heard**. 
+
+**Gary, el amigo despreciado** 
+-------------------------------
+
+El **personaje de Gary**, el **amigo enano de Fleck**, simboliza la humanidad del protagonista. **Su apoyo genuino contrasta con las traiciones que sufre**. Este vínculo desencadena una revelación crucial para Fleck. Su desprecio por quienes lo han menospreciado lo empuja a rechazar la identidad del Joker. **Gary hace que Fleck se quiebre** y se dé cuenta de que **no es el Joker que todos lo empujan a ser**; por eso **escapa cuando sus simpatizantes intentan liberarlo**. Toda su vida lo han presionado para que sea alguien que no es. 
+
+**Llamado a la audiencia** 
+---------------------------
+
+**‘Joker 2’ no solo examina la dualidad de sus personajes, sino también la de la audiencia**. La idolatría hacia el criminal resalta la **delgada línea entre anti-héroe y villano**. La película **cuestiona la moralidad de admirar a un villano**. Este enfoque provocador invita a **reflexionar sobre nuestras propias percepciones**. 
+
+En conclusión, ‘Joker 2: Folie à Deux’ es **una obra que desafía las convenciones y lo esperado**. Aunque sus elecciones narrativas no han satisfecho a todos, **ofrecen una exploración rica y compleja de la psicología del personaje**. La película **continúa el diálogo sobre la salud mental y la crítica social**, y destaca la importancia de ver más allá de las expectativas. 
+
+Dragonas Independiente semifinalistas de la Libertadores Femenina
+=================================================================
+
+Dragonas Independiente juegan por primera vez la Copa Libertadores Femenina. Son las campeonas de Ecuador.
+----------------------------------------------------------------------------------------------------------
+
+![Nayely Bolaños celebra uno de los dos goles que marcó con Dragonas Independiente en la Libertadores Femenina 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_semifinal_2.jpg)
+
+**Dragonas Independiente** siguen a paso firme en su primera participación en la Copa Libertadores Femenina que se juegan en Paraguay, y se clasificaron paras las semifinales en su primera participación.
+
+El partido entre Dragonas **Independiente de Ecuador y Deportivo Cali de Colombia** se jugó la noche de este domingo 13 de octubre de 2024 en el estadio Arsenio Erico en Asunción.
+
+### Más noticias:
+
+* [La Copa Ecuador confirmó horarios de las semifinales](https://www.elcomercio.com/deportes/futbol/copa-ecuador-horarios-semifinales-llaves.html "La Copa Ecuador confirmó horarios de las semifinales")
+* [Deportivo Quito entrenó con el volcán Cotopaxi de testigo](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-nacional-cotopaxi.html "Deportivo Quito entrenó con el volcán Cotopaxi de testigo")
+* [Independiente Juniors homenajeó al fallecido Roberto Cabezas](https://www.elcomercio.com/deportes/futbol/indepeniente-juniors-roberto-cabezas-homenaje.html "Independiente Juniors homenajeó al fallecido Roberto Cabezas")
+
+Las Dragonas necesitaron tres minutos **para concretar el 3-0 en el marcador con un espectacular doblete de Nayely Bolaños**, la figura que tiene el equipo en la temporada 2024, tanto en la Superliga Femenina, como en esta Copa.
+
+Los tantos de Bolaños llegaron a los 26 y 29 minutos del primer tiempo. El primer con un golpe de cabeza luego de un cobro de tiro de esquina de Karen Litardo, y el segundo con un potente remate de derecha a pase de Emily Arias.
+
+El 3-0 llegó desde el punto penal por la propia delantera a los 73 minutos. Lo hizo con un **preciso remate que fue a parar al ángulo** del palo derecho de Ximena Ospina, que por más que se estiró no iba a llegar por la violencia del disparo.
+
+Las colombianas intentaron reaccionar, pero se **encontraron con un equipo ecuatoriano fuerte en defensa** y solvente en la mitad de la cancha, por lo que no pasaron grandes sustos a lo largo de los 90 minutos.
+
+Finalizado el juego las jugadoras celebraron en la cancha. Hubo abrazos, cánticos y agradecimientos, antes de retirarse a los camerinos con la mente puesta en lo que será la siguiente fase.
+
+![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_semifinal_1-1024x683.jpg)
+
+Foto: Facebook del club.
+
+Dragonas tendrán su revancha
+----------------------------
+
+Independiente Santa Fe de Colombia será el rival de Dragonas en las semifinales de la Copa Libertadores.
+
+Para las ecuatorianas será una revancha. **Ambas escuadras compartieron el grupo C**. En el juego del 7 de octubre las colombianas ganaron por 0-1 con un gol de Mariana Zamorana a los 24 minutos del primer tiempo.
+
+Santa Fe ganó el grupo con 5 puntos, **mientas que las Dragonas se quedaron con el segundo puesto** con 4.
+
+Santa Fe en los **cuartos de final no tuvo problemas para despachar a Alianza Lima** por 2-0 con goles de Natalia Gaitán y Karla Torres.
+
+“Contenta con el equipo, el cuerpo técnico y todos quienes nos apoyan (…) **Aprovechamos las oportunidades, fuimos contundes** y vamos a trabajar para pasar las semifinales”, declaró Bolaños a la Conmebol.
+
+“Venimos a hacer historia y **este es el inicio de todas las cosas buenas que nos vienen**“, completó la goleadora ecuatoriana.
+
+Formación de Dragonas:
+----------------------
+
+Andrea Vera; Karen Litardo, Verónica Riveros (Ivette Fernández), Analiz Zambrano y Mayerli Rodríguez; **Rosa Miño, Larissa Nunes (Adriana Valenzuela) y Emily Arias (Naomy Briones)**; Yaritza Vallecilla, Karen Páez (Claudia Rendón) y Nayely Bolaños (Adriana Lomas).
+
+Semifinales
+-----------
+
+### Martes 15/10
+
+19:00 Corinthians vs. Boca Juniors
+
+Estadio: Cancha de fútbol de la CONMEBOL
+
+### Miércoles 16/10
+
+19:00 Independiente Santa Fe vs. Dragonas Independiente
+
+Estadio: Cancha de fútbol de la CONMEBOL
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Guayaquil tiene nuevos horarios de cortes de luz para este lunes 14 de octubre de 2024
+======================================================================================
+
+La Cnel publicó los horarios de cortes de luz para el 14 de octubre de 2024, con racionamientos de hasta 10 horas diarias.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz serán de hasta 10 horas, divididos en varios períodos. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-gye-14.jpg)
+
+La **Corporación Nacional de Electricidad** (Cnel) publicó los nuevos horarios de **cortes de luz** de **Guayaquil** para este lunes 14 de octubre de 2024.
+
+### Más noticias
+
+* [Cortes de luz para este 14 de octubre de 2024 en Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-horarios-14-de-octubre-de-2024-quito.html "Cortes de luz para este 14 de octubre de 2024 en Quito")
+* [Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz](https://www.elcomercio.com/actualidad/gobierno-de-daniel-noboa-abre-procesos-para-centrales-termoelectricas-por-cortes-de-luz.html "Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz")
+* [Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios](https://www.elcomercio.com/actualidad/negocios/cortes-luz-continuan-14-al-20-octubre-2024-conozca-nuevos-horarios.html "Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios")
+
+La ministra de Energía encargada, **Inés Manzano**, señaló que la tercera semana de este mes, del 14 al 20 de octubre de 2024, será crítica por la falta de lluvias. La crisis hídrica impide el normal funcionamiento de las hidroeléctricas del país y obliga a continuar con los cortes de luz en todo el Ecuador, con un promedio de 10 horas al día.
+
+En Guayaquil, los horarios programados para esta semana tiene hasta tres períodos, de entre dos y cinco horas de racionamientos eléctricos, por sector.
+
+Revise el horario de cortes de luz para Guayaquil
+-------------------------------------------------
+
+Pese al cronograma establecido, la Cnel señaló que los **cortes de energía** pueden reducirse dentro del período programado, debido al mejoramiento de las **condiciones hidrológica**s del país, ya que el 72% de la matriz energética del Ecuador es hídrica y depende del agua.
+
+Este lunes 14 de octubre de 2024 empieza la cuarta semana de racionamientos eléctricos en todo el Ecuador. Según las autoridades, se realiza un monitorio constante de las operaciones en las hidroeléctricas para ir ajustando los horarios de los apagones.
+
+**Ecuador** pasa por una de las peores crisis energéticas, en parte, debido a la grave **sequía** que afronta el país y la región. Inicialmente, los cortes de luz tenían un promedio de 8 horas al día, actualmente son de 10 horas. Según expertos, los racionamientos eléctricos podrían extenderse hasta finales de año e incluso hasta los primeros meses del 2025.
+
+Los horarios de cortes de luz de todo el país lo puede revisar en la [página web del Ministerio de Energía y Minas](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/). Allí se encuentran los cronogramas por cada una de las nueve empresas distribuidoras de electricidad del país.
+
+  
+
+Cuniburo se suma a los equipos de Pichincha en la Serie A
+=========================================================
+
+Cuniburo se encamina a proclamarse como campeón de la Serie B, una vez que aseguró el ascenso a la Serie A.
+-----------------------------------------------------------------------------------------------------------
+
+![Jugadores de Cuniburo en la Liga Pro Serie B de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/cuniburo_1.jpg)
+
+**Cuniburo Fútbol Club** cerró su espectacular temporada en la Liga Pro Serie B con el ansiado ascenso a la Serie A 2025, con lo que la provincia de Pichincha suman un nuevo representante en la máxima categoría del fútbol de Ecuador.
+
+El ascenso de **Cuniburo se concretó la tarde de este domingo 13 de octubre de 2024**, luego que Guayaquil City perdiera por 2-0 en su visita a San Antonio en el estadio Olímpico de Ibarra con tantos de Francesco Fiorelli y Édison Guerrero.
+
+### Más noticias:
+
+* [Sebastián Beccacece volvió a respaldar a Kendry Páez](https://www.elcomercio.com/deportes/futbol/sebatian-beccacece-kendry-paez-seleccion.html "Sebastián Beccacece volvió a respaldar a Kendry Páez")
+* [La Copa Ecuador confirmó horarios de las semifinales](https://www.elcomercio.com/deportes/futbol/copa-ecuador-horarios-semifinales-llaves.html "La Copa Ecuador confirmó horarios de las semifinales")
+* [Deportivo Quito entrenó con el volcán Cotopaxi de testigo](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-nacional-cotopaxi.html "Deportivo Quito entrenó con el volcán Cotopaxi de testigo")
+
+El día previo **Cuniburo había empatado 2-2 con Leones FC** en el mismo Olímpico de Ibarra. Los locales anotaron por intermedio de Kevin Velasco y Frixon Vargas, mientras que la visita lo hizo con Rafael Monti y Ariel Mina.
+
+Este resultado le **permitió sumar 60 puntos y tener un gol diferencia positivo de +19**, a tan solo tres fechas para completar el calendario de la Serie B.
+
+El derrota de Guayaquil City los estancó en el cuarto puesto con 50 puntos y un gol diferencia positivo de +21, por lo que matemáticamente es imposible que alcancen a Cuniburo, porque su techo máximo es de 59.
+
+El segundo puesto en la tabla es para **Independiente Juniors con 56 unidades** y un gol diferencia positivos de +22.
+
+Los del Valle no están en la pugna por ascender. El reglamento de la Liga Pro impide que dos equipos filiales compitan en la mismo categoría.
+
+La ventaja por el s**egundo cupo disponible la tiene Manta con 54 puntos** y un gol diferencia positivo de +3.
+
+Un tercero en la lucha es 9 de Octubre que tiene 46 puntos y un gol diferencia positivo de +3.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/cuniburo_2-1024x683.jpg)
+
+Foto: API.
+
+Pichincha domina la Serie A
+---------------------------
+
+Cuniburo será el sexto equipo de **Pichincha que en el 2025 jugará en la Serie A**, confirmando la supremacía de esta provincia en la Primera División de Ecuador.
+
+En el 2024 participan **Aucas, Cumbayá, El Nacional, Independiente del Valle**, Liga de Quito y Universidad Católica.
+
+De los seis equipos, **Cumbayá es el único que está comprometido con el descenso** y tiene altas posibilidades de perder la categoría a falta de seis jornadas para completar el calendario.
+
+**Cumbayá ocupa el penúltimo lugar de la tabla de posiciones** con 18 puntos y un gol diferencia negativo de -20, mientras que Delfín, el antepenúltimo, tiene 23 y poco a poco se aleja de la zona roja.
+
+La historia de Cuniburo
+-----------------------
+
+Para Cuniburo será su primera participación en la Serie A. **Fue fundado el 11 de abril de 1992** y está afiliado a la Asociación de Fútbol No Amateur de Pichincha.
+
+El nombre de Cuniburo se debe a una comunidad cercana a la parroquia Cangahua, dentro del cantón Cayambe.
+
+Tras un largo camino en el fútbol amateur y de **Segunda Categoría logró el ascenso a la Serie B** en el 2022, tras dejar en el camino a San Antonio con un marcador global de 4-3.
+
+Su localía la ejercen en el estadio Olímpico Atahualpa. Su actual entrenador es el argentino Juan Grabowski.
+
+En el plantel destacan nombres como los de Marco Carrasco, **Kevin Ushiña, Luis Romero, Ariel Mina, Jefferson Orejuela**, Sergio López, José Lugo y Hernán Lino, todos con pasado en equipos de la Serie A.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/cuniburo_3-1024x683.jpg)
+
+Foto: API.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Cortes de luz para este 14 de octubre de 2024 en Quito
+======================================================
+
+La Empresa Eléctrica Quito (EEQ) publicó los horarios de cortes de luz programados para el 14 de octubre de 2024.
+-----------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Quito serán de hasta 10 horas al día. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-quito-nuevos.jpg)
+
+Los **cortes de luz** programados continuarán durante la tercera semana de octubre de 2024. La Empresa Eléctrica Quito (EEQ) publicó los **horarios** para este lunes 14 de octubre para la ciudad. Los racionamientos eléctricos son de hasta 10 horas al día[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz](https://www.elcomercio.com/actualidad/gobierno-de-daniel-noboa-abre-procesos-para-centrales-termoelectricas-por-cortes-de-luz.html "Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz")
+* [Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios](https://www.elcomercio.com/actualidad/negocios/cortes-luz-continuan-14-al-20-octubre-2024-conozca-nuevos-horarios.html "Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios")
+* [Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz](https://www.elcomercio.com/actualidad/quito/lugares-carga-vehicular-obras-cortes-luz-quito.html "Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz")
+
+Por lo general, las franjas de racionamiento eléctrico están divididos en dos períodos diarios por cada sector de Quito.
+
+Por ejemplo, las subestaciones **Miraflores, Río Coca, Conocoto y Tumbaco** tienen 10 horas de cortes de luz en dos períodos: 08:00 a 11:00 y de 17:00 a 24:00.
+
+Mientras que las subestaciones de: **Luluncoto, Chilibulo, La Floresta, Cristianía y Epiclachima** también 10 horas de racionamiento eléctrico en dos períodos de cinco horas cada uno: de 06:00 a 11:00 y de 15:00 a 20:00.
+
+Revise en este documento los cortes de luz de este 14 de octubre en Quito
+-------------------------------------------------------------------------
+
+Cortes de luz en el sector industrial
+-------------------------------------
+
+Asimismo, la EEQ programó apagones de 10 horas para el sector **industrial de Quit**o, ubicado en Santa Rosa e Inga Bajo. Los cortes de luz serán de 14:00 a 24:00.
+
+La ministra de Producción, **Sonsoles García**, señaló que el Gobierno y el sector industrial coordinaron los **cortes de luz** para minimizar el impacto en la **producción y el comercio**.
+
+La ministra de Producción explicó que se ajustaron los horarios para que las actividades económicas puedan continuar de manera eficiente. Además, dijo que se ha priorizado a las ciudades de **Ambato y Cuenca**, con el objetivo de acoplar los apagones a las necesidades productivas de estas zonas.
+
+Asimismo, señaló que las autoridades mantienen un diálogo constante con las distribuidoras eléctricas y los gremios industriales para garantizar que las medidas energéticas se implementen con el menor perjuicio posible.
+
+Los horarios de cortes de luz de todo el país lo puede revisar en la [página web del Ministerio de Energía y Minas](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/"). Allí se encuentran los cronogramas por cada una de las nueve empresas distribuidoras de electricidad del país.
+
+Ecuador decomisa más de 500 kilos de cocaína en contenedores de exportación
+===========================================================================
+
+La Policía Nacional inform que decomisó más de 500 kilos de cocaína que estaban ocultos en un contenedor con banano de exportación.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/policia-rusia.jpg)
+
+**Ecuador** decomisó un **cargamento de cocaína** oculto en un contenedor con productos de exportación que iba hacia Rusia. Dos **personas fueron detenidas** y varios objetos incautados para continuar la investigación[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Policía decomisó millonario cargamento de droga en alta mar](https://www.elcomercio.com/actualidad/ecuador/policia-cargamento-droga-alta-mar-galapagos.html "Policía decomisó millonario cargamento de droga en alta mar")
+* [Requisa en la cárcel de El Inca deja estos resultados](https://www.elcomercio.com/actualidad/seguridad/requisa-carcel-el-inca-deja-estos-resultados.html "Requisa en la cárcel de El Inca deja estos resultados")
+* [Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil](https://www.elcomercio.com/actualidad/seguridad/agresores-sexuales-estados-unidos-guayaquil.html "Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil")
+
+La Policía Nacional informó este 13 de octubre de 2024 que decomisó más de 500 kilos de cocaína que estaban ocultos en un contenedor con **banano de exportación**. El cargamento tenía como destino **Rusia**.
+
+El hallazgo se dio durante el operativo denominado ‘Poseidón XLIV’, realizado el sábado 12 de octubre en un **puerto marítimo de Guayaquil**. Allí se localizaron 573 paquetes tipo ladrillo que contenían cocaína.
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) || AFECTAMOS A GRUPOS NARCODELICTIVOS EN 21 MILLONES DE DÓLARES  
+>   
+> Como resultado de un operativo en el que se decomisó 573 paquetes rectangulares de clorhidrato de cocaína con más de 5 millones de dosis de estupefacientes ocultos en contenedores en un puerto de [#GYE](https://twitter.com/hashtag/GYE?src=hash&ref_src=twsrc%5Etfw); la… [pic.twitter.com/eKw4sb14rM](https://t.co/eKw4sb14rM)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 13, 2024](https://twitter.com/PoliciaEcuador/status/1845507274153885962?ref_src=twsrc%5Etfw)
+
+La Unidad de Información de Puertos y Aeropuertos (UIPA) y el Centro Regional de Adiestramiento Canino (CRAC) identificaron al contenedor que contenía un cargamento de bananos y estaba contaminado con la droga. En su interior se ocultaba un total de 526 686 gramos de cocaína.
+
+La Policía detuvo a los ciudadanos Andrew C. y Andrés A. **con fines de investigació**n.
+
+Además, como indicios se obtuvieron tres teléfonos celulares, un vehículo tipo tractocamión, un contenedor y varios sellos navieros. Este material servirá para continuar con las indagaciones y desarticular esta red de narcotráfico, señaló la Policía.
+
+Según datos oficiales, la acción policial evitó que más de 5,2 millones de dosis de droga lleguen a las calles. La afectación es de más de 21 millones de dólares para los grupos narcodelictivos.
+
+Ecuador está catalogado como el tercer país en el mundo que más droga decomisa, detrás de Colombia y Estados Unidos. Según registros, de los tres últimos años se han incautado de 200 toneladas de estupefacientes, mientras que acumula 149 toneladas en el primer semestre de 2024.
+
+La Selección de Ecuador sub-15 perdió y espera resultados
+=========================================================
+
+La Selección de Ecuador sub-15 cerró su participación en el Sudamericano en Bolivia con 5 puntos.
+-------------------------------------------------------------------------------------------------
+
+![Juan Riquelme Angulo (19) en el Sudamericano sub-15 de 2024 con Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_venezuela_juvenil_2.jpg)
+
+La **Selección de Ecuador sub-15** no tuvo una buena jornada en el Campeonato Sudamericano que se juega en Bolivia, y perdió ante Venezuela por 0-4 en su último partido del grupo B.
+
+Los combinados de la Selección de **Ecuador y Venezuela se enfrentaron** la tarde de este domingo 13 de octubre de 2024, en el estadio Ramón Aguilera Costa de Santa Cruz de la Sierra.
+
+### Más noticias:
+
+* [Glenda Morejón, medallista olímpica en París 2024, se casó](https://www.elcomercio.com/deportes/glenda-morejon-medallista-olimpica-en-paris-2024-se-caso.html "Glenda Morejón, medallista olímpica en París 2024, se casó")
+* [¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-eliminatorias-uruguay.html "¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?")
+* [La Selección Ecuador con cuatro jugadores con riesgo de suspensión](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-tarjeta-amarilla.html "La Selección Ecuador con cuatro jugadores con riesgo de suspensión")
+
+Para Ecuador el trámite del partido se empezó a complicar desde el primer minuto con el **golazo de Yimvert Berroterán (UCV FC Cantera) que sacó un zapatazo para clavar el 0-1**.
+
+El remate del venezolano fue con pierna izquierda y fue a parar en el ángulo del pórtico defendido por Miguel Peralta (Independiente del Valle).
+
+Berroterán aprovechó un error defensivo del defensa central Virgilio Olaya (Aucas), **que tuvo un partido para el olvido a lo largo de los 80 minutos** reglamentarios que el reglamento contempla para el sub-15.
+
+> ¡Desde el vestuario! ⏱️⚽️  
+>   
+> El golazo de Yimvert Berroterán que abrió el partido antes del minuto de juego para [@juvenilesfvf](https://twitter.com/juvenilesfvf?ref_src=twsrc%5Etfw) en la CONMEBOL [#Sub15](https://twitter.com/hashtag/Sub15?src=hash&ref_src=twsrc%5Etfw) 🇻🇪[#CreeEnGrande](https://twitter.com/hashtag/CreeEnGrande?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/EKfdMOCE63](https://t.co/EKfdMOCE63)
+> 
+> — CONMEBOL.com (@CONMEBOL) [October 13, 2024](https://twitter.com/CONMEBOL/status/1845581002388934796?ref_src=twsrc%5Etfw)
+
+Luego a los 17 minutos el 0-2 tuvo la firma de **David García (Houston Academy)**; y a los 40 minutos el 0-3 por intermedio del propio García, dando por cerrado un primer tiempo irreconocible para la Tri.
+
+> ¡El segundo de la Vinotinto! 🍷🎯  
+>   
+> David García eludió al arquero y amplió en favor de [@juvenilesfvf](https://twitter.com/juvenilesfvf?ref_src=twsrc%5Etfw) en la despedida de la CONMEBOL [#Sub15](https://twitter.com/hashtag/Sub15?src=hash&ref_src=twsrc%5Etfw) 🏆[#CreeEnGrande](https://twitter.com/hashtag/CreeEnGrande?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/pX5DYjR1zL](https://t.co/pX5DYjR1zL)
+> 
+> — CONMEBOL.com (@CONMEBOL) [October 13, 2024](https://twitter.com/CONMEBOL/status/1845600354815050219?ref_src=twsrc%5Etfw)
+
+La goleada 0-4 de la **‘Vinotinto’ se concretó a los 52 minutos del segundo tiempo**, con un tanto de John Mancilla (Monagas), para cerrar el marcador y anotarse su primera victoria en el campeonato y se despidió de la competencia.
+
+> ¡El último de Venezuela! ⚽️4⃣  
+>   
+> John Mancilla decoró la gran victoria de [@juvenilesfvf](https://twitter.com/juvenilesfvf?ref_src=twsrc%5Etfw) en su último partido por la CONMEBOL [#Sub15](https://twitter.com/hashtag/Sub15?src=hash&ref_src=twsrc%5Etfw) 🇻🇪[#CreeEnGrande](https://twitter.com/hashtag/CreeEnGrande?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/YAQPYpmwd6](https://t.co/YAQPYpmwd6)
+> 
+> — CONMEBOL.com (@CONMEBOL) [October 13, 2024](https://twitter.com/CONMEBOL/status/1845601014478442830?ref_src=twsrc%5Etfw)
+
+Ecuador espera resultados
+-------------------------
+
+Antes de esta jornada, **Ecuador dependía de sus propios resultados** para clasificarse a las semifinales, pero la derrota los deja a la espera de lo que puedan hacer Argentina y Brasil en el último partido del grupo B.
+
+La tabla de posiciones está liderada por **Argentina, ya clasificada, con 7 puntos** y un gol diferencia  
+positivo de +2.
+
+Ecuador se quedó en el **segundo puesto con 5 puntos y un gol diferencia negativo de -3**. Su campana se resume en dos empates (vs. Uruguay 1-1 y vs. Argentina 2-2), una victoria (vs. Brasil 2-1) y una derrota (vs. Venezuela 0-4).
+
+Brasil es **tercera con 4 putos y un gol diferencia positivo de +2**. El único resultado que les sirve para avanzar de ronda en la victoria. Un empate o una derrota favorecerá a Ecuador que espera por el milagro.
+
+La tabla de se completa con Venezuela que alcanzó 4 puntos y un gol diferencia de 0, mientas que Uruguay descendió al quinto y último puesto con 3 unidades y un gol diferencia negativo de -1.
+
+![Foto: La Tri.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_venezuela_juvenil_1-1024x683.jpg)
+
+Foto: La Tri.
+
+Juan Carlos Burbano, DT de la Tri
+---------------------------------
+
+El histórico mediocampista Juan Carlos Burbano es el entrenador encargado de la Selección de Ecuador sub-15.
+
+Como jugador, **Burbano no solo acudió al primer mundial de Ecuador en Corea-Japón 2002**, sino que estuvo durante todo el ciclo eliminatorio que constituyó la clasificación con la guía técnica del colombiano Hernán Darío Gómez.
+
+A su vez, el tricolor **también jugó los choques clasificatorios hacia el Mundial de Francia 1998** y la Copa América de 1997. A nivel de clubes jugó para Universidad Católica, Deportivo Quito y El Nacional, donde fue capitán.
+
+Después de su retiro, **el quiteño fue asistente técnico en El Nacional** hasta que tuvo su oportunidad como DT de los puros criollos.
+
+A su vez, también se desempeñó como coordinador de las divisiones juveniles de Liga de Quito.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Ocho impactantes verdades sobre los psicópatas que seguro no sabías
+===================================================================
+
+Lo que has oído sobre los psicópatas podría no ser cierto. Te contamos.
+-----------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/psicopatas-El-comercio.jpg)
+
+El escalofriante **caso de Wade Wilson**, apodado el **‘[Deadpool Killer’](https://www.elcomercio.com/afull/penademuerte-deadpool-killer-asesino-guapo.html "https://www.elcomercio.com/afull/penademuerte-deadpool-killer-asesino-guapo.html")**, desató un intenso debate sobre la influencia de la apariencia física en la percepción de la culpabilidad.
+
+A pesar de haber confesado sus crímenes, un grupo de mujeres abogó por él en 2024 basándose en su imagen y en su atractivo, como si esto pudiera garantizar que no volvería a cometer actos violentos.
+
+En este contexto, el estreno en septiembre de 2024 de una miniserie sobre los **[hermanos Menéndez](https://www.elcomercio.com/actualidad/mundo/caso-de-los-hermanos-menendez-toma-nuevo-giro-saldran-libres.html "https://www.elcomercio.com/actualidad/mundo/caso-de-los-hermanos-menendez-toma-nuevo-giro-saldran-libres.html")** que cometieron **parricidio** ha reavivado la discusión, ya que muchos argumentan que estos jóvenes eran víctimas de abusos, lo que a su vez invita a cuestionar cómo se identifica a los psicópatas en nuestra sociedad.
+
+El cine ha retratado a psicópatas como **Hannibal Lecter** y **Jeffrey Dahmer** como figuras intrigantes y complejas, a menudo destacando su inteligencia y carisma, lo que contribuye a una percepción distorsionada de la psicopatía. Estas representaciones tienden a simplificar la realidad, al centrar la atención en el dramatismo de sus crímenes, en lugar de explorar las profundidades de su psicología y sus efectos en las víctimas.
+
+A partir de entrevistas con el psicólogo y docente de la **[UISEK](https://uisek.edu.ec/ "https://uisek.edu.ec/")**, Roberto Sicard León, y con la Dra. Agustina Vinagre González, de la **[UNIR](https://estudia.unir.net/ec/ec-gen-ma-gene-maestrias-oficiales-online/ "https://estudia.unir.net/ec/ec-gen-ma-gene-maestrias-oficiales-online/")**, hemos elaborado una lista de **mitos y verdades sobre los psicópatas** que ayudarán a desentrañar este complejo tema.
+
+1\. Mito: La psicopatía es un trastorno mental
+----------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/psicopatas-El-comercio-2-1024x683.jpg)
+
+Hannibal Lecter, asesino preso en la cinta ‘El silencio de los inocentes’. Foto: Pinterest
+
+**Verdad:** No, la psicopatía no se considera un trastorno mental en los manuales de diagnóstico. Aunque puede asociarse al **Trastorno Antisocial de la Personalidad**, presenta diferencias significativas y no es una enfermedad mental en sí misma. La confusión conceptual es común, ya que la psicopatía no aparece en ningún diagnóstico manual y, aunque se suele identificar con el Trastorno Antisocial, tiene características diferenciales.
+
+2\. Mito: Sufren emocionalmente
+-------------------------------
+
+**Verdad:** No, los psicópatas no experimentan el sufrimiento emocional como lo hace la mayoría de las personas. Tienden a **simular emociones** para manipular a los demás, lo que puede dar la falsa impresión de que son víctimas de sus propias acciones. Como señala Sicard León, “el observador convencional puede pensar que el psicópata sufre, justificando así su conducta, sin darse cuenta de que en realidad simulan emociones para obtener beneficios”.
+
+3\. Mito: Se hereda genéticamente
+---------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/psicopatas-El-comercio-1-1024x683.jpg)
+
+Norman Bates, asesino de las películas ‘Psicosis’. Foto: Pinterest
+
+**Verdad:** No del todo, la neurobiología y la interacción con el entorno son más relevantes que la **genética** en la formación de la personalidad psicopática. Factores como la falta de estímulos emocionales positivos en la infancia y la exposición a la **violencia** pueden activar marcadores hereditarios relacionados con la psicopatía. Dice Vinagre González que las alteraciones neurobiológicas, especialmente en el lóbulo prefrontal, son más significativas en este contexto.
+
+4\. Mito: Pueden cambiar su comportamiento
+------------------------------------------
+
+**Verdad:** Rara vez, los psicópatas modifican su conducta y comenzarán manipulando a los demás para alcanzar sus **objetivos**. Vinagre González advierte que “no hay posibilidad de que una persona con rasgos psicopáticos cambie su forma de actuar, ya que consideran que su **egocentrismo** es una virtud”.
+
+5\. Mito: Son inteligentes
+--------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/psicopatas-El-comercio-3-1024x683.jpg)
+
+Fulanito de tal, asesino de la cinta Seven. Foto: Pinterest
+
+**Verdad:** Sí, los psicópatas suelen poseer un buen nivel intelectual, lo que les permite planificar sus actos meticulosamente. **Sicard León** destaca que esta habilidad les ayuda a no resultar inimputables en procesos legales, ya que comprenden sus acciones. Es decir, tienen la capacidad de entender lo que hacen y, por lo tanto, pueden ser consideradas culpables.
+
+6\. Mito: Son líderes positivos y carismáticos
+----------------------------------------------
+
+**Verdad:** Sí, pero, aunque pueden parecer carismáticos, su liderazgo es destructivo y busca controlar a otros. Sicard León señala que “la psicopatía es un rasgo común en líderes corruptos, que buscan dominar a través del miedo”.
+
+7\. Mito: Sienten empatía en alguna medida
+------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/psicopatas-El-comercio-5-1024x683.jpg)
+
+Patrick Bateman, asesino de la película ‘American psyco’. Foto: Pinterest
+
+**Verdad:** Carecen de empatía genuina y solo imitan emociones para manipular. Según Vinagre González, su frialdad emocional y ausencia de culpa son características definitorias.
+
+8\. Mito: Solo se identifica en hombres
+---------------------------------------
+
+![Alex Forrest, asesina en la cinta 'Atracción fatal'. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/Glenn-Close-Fatal-Attraction-1024x768.jpg)
+
+Alex Forrest, asesina en la cinta ‘Atracción fatal’. Foto: Pinterest
+
+**Verdad**: No, la psicopatía no es exclusiva de los hombres; aunque su prevalencia es mayor en ellos, las mujeres también pueden presentar rasgos psicopáticos.
+
+Estudios como los de Dolan y Fullam (2006) y Williams y Paulhus (2004) sugieren que las mujeres tienden a manifestar manipulación social en lugar de agresión directa, lo que puede dificultar su identificación.
+
+Además, investigaciones como las de Lilienfeld y Andrews (1996) destacan un sesgo de género en las herramientas de evaluación que puede subestimar la psicopatía en mujeres.
+
+¿Es posible identificar a una persona psicópata en nuestro entorno?
+-------------------------------------------------------------------
+
+Aunque es posible identificar a personas psicópatas, pueden engañar y confundir debido a su encanto superficial y **habilidades manipuladoras**. Se requiere una observación detallada y sin prejuicios ideológicos para identificar a un psicópata.
+
+Dice Vinagre González que “las personas co**n rasgos psicopáticos** pueden engañar o confundir en un primer momento. A menudo, presentan un encanto superficial y una imagen atractiva para los demás, impulsados por su naturaleza manipuladora.
+
+Sin embargo, esta fachada positiva es efímera; a medida que se profundiza en el conocimiento de la persona, la verdadera naturaleza tiende a revelarse con el tiempo. Por su parte, Sicard León enfatiza que es posible identificar a estos individuos mediante una observación atenta y sin prejuicios ideológicos.
+
+Choque en Tambillo deja dos fallecidos y siete heridos al final del feriado
+===========================================================================
+
+Un choque en Tambillo entre un autobús y tres autos causó dos muertes y siete heridos. El siniestro ocurrió en la Panamericana sur
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Los bomberos atendieron a los heridos en el choque que ocurrió en Tambillo, en la salida sur de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/choque-tambillo.jpg)
+
+Un **choque** en la Panamericana sur, a la altura de **Tambillo**, cantón Mejía, al sur de Quito, dejó como saldo dos fallecidos y siete heridos, al final del **feriado** nacional por la **independencia de Guayaquil**[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito")
+
+### Más noticias
+
+* [¿Cuál es el siguiente feriado de Ecuador?](https://www.elcomercio.com/actualidad/ecuador/siguiente-feriado-ecuador-difuntos-difuntos.html "¿Cuál es el siguiente feriado de Ecuador?")
+* [Feriados que restan en Ecuador para este 2024](https://www.elcomercio.com/actualidad/ecuador/feriados-que-restan-en-ecuador-para-este-2024.html "Feriados que restan en Ecuador para este 2024")
+
+El choque en Tambillo sucedió al final del feriado
+--------------------------------------------------
+
+El siniestro, ocurrido el domingo 13 de octubre de 2024, involucró a un autobús y tres automóviles, generando una fuerte congestión vehicular en el sector.
+
+El Servicio Integrado de Seguridad ECU911 reportó el siniestro en la Panamericana sur, en el sector **Tambillo**, en sentido sur-norte, alrededor de las 14:00 del domingo 13 de octubre.
+
+Este incidente, registrado en el último día del **feriado** por la independencia de Guayaquil, del 11 al 13 de octubre, dejó, al menos, siete personas heridas y dos fallecidos. Los testigos del hecho alertaron con las llamadas de emergencia, lo que permitió una rápida movilización de los equipos de socorro.
+
+> 🔄 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Siniestro de tránsito en la Av. Panamericana Sur, sector Tambillo.  
+>   
+> 🤕🖤🖤 Siete personas resultaron heridas y, lamentablemente, dos fallecieron.  
+>   
+> 🚑 Nuestros paramédicos brindan atención prehospitalaria a los afectados. [#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/RKz7DcEudb](https://t.co/RKz7DcEudb) [pic.twitter.com/tAaelMkq70](https://t.co/tAaelMkq70)
+> 
+> — Bomberos Quito (@BomberosQuito) [October 13, 2024](https://twitter.com/BomberosQuito/status/1845565727845331388?ref_src=twsrc%5Etfw)
+
+Intervención de los grupos de rescate
+-------------------------------------
+
+En la sala operativa del ECU911 se coordinó la intervención de varios organismos, incluidos la Policía Nacional, el Cuerpo de Bomberos de Mejía, el Ministerio de Salud Pública (MSP) y Panavial. Estos equipos acudieron de inmediato para atender a los afectados.
+
+En el lugar, los bomberos de Quito confirmaron que dos personas fallecieron en el siniestro, mientras que otras siete resultaron heridas y recibieron atención prehospitalaria.
+
+Cierre de la Panamericana Sur
+-----------------------------
+
+El choque provocó el cierre total de la circulación vehicular en la Panamericana sur, en sentido sur-norte, por más de dos horas, lo que generó una extensa congestión vehicular. Las cámaras de videovigilancia captaron el embotellamiento en la zona, lo que causó mayores retrasos en los traslados hacia Quito.
+
+Los agentes de tránsito trabajaban para reabrir la vía y controlar el flujo vehicular mientras se llevaban a cabo las labores de auxilio.
+
+Los ciudadanos que se desplazaban de regreso a la ciudad luego del feriado tuvieron que afrontar largas demoras debido a la congestión vehicular.
+
+Cerca de las 17:00, desde el ECU **911** se informó que la circulación en la Panamericana Sur estaba totalmente habilitada en el lugar de la emergencia.
+
+Miembros de la **Policía Nacional** permanecieron en el sitio brindando seguridad vial, debido a la gran congestión vehicular en la zona.
+
+¿Cuál es el siguiente feriado de Ecuador?
+=========================================
+
+El feriado de 9 de Octubre es el último que Ecuador tuvo. La fecha cívica cayó miércoles.
+-----------------------------------------------------------------------------------------
+
+![Ecuador todavía tiene feriados durante el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/Difuntos-feriado-Ecuador-.jpg)
+
+**Ecuador** acaba de celebrar el feriado del 9 de octubre por la **Independencia de Guayaquil.** Aunque la fecha cívica cayó un miércoles, el descanso se trasladó al viernes 11 de octubre, extendiéndose hasta el fin de semana[.](https://es.wikipedia.org/wiki/D%C3%ADa_de_Muertos "https://es.wikipedia.org/wiki/D%C3%ADa_de_Muertos")
+
+Más noticias
+------------
+
+* [Sector turístico espera reactivación durante el feriado](https://www.elcomercio.com/actualidad/ecuador/viajeros-turismo-guayaquil-feriado-ecuador.html "Sector turístico espera reactivación durante el feriado")
+* [51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/seguridad/policia-seguridad-operativo-feriado-9-octubre.html "51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre")
+* [Así trabajarán los bancos durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/negocios/bancos-feriado-9-octubre-atencion-guayaquil.html "Así trabajarán los bancos durante el feriado del 9 de octubre")
+
+Aún quedan varios **feriados no recuperables** en lo que resta del 2024. ¿Cuál es el más cercano?
+
+¿Cuál es el feriado más cercano en Ecuador?
+-------------------------------------------
+
+El siguiente feriado en **Ecuador** será el del **Día de los Difuntos**, que originalmente cae el sábado 2 de noviembre, pero se adelanta al viernes 1 de noviembre para crear un fin de semana largo.
+
+¿Por qué se celebra el Día de los Difuntos en Ecuador?
+------------------------------------------------------
+
+Según el **Ministerio de Turismo**, la conmemoración del **Día de los Difuntos** refleja la diversidad cultural del país. Cada 2 de noviembre, las cuatro regiones de **Ecuador** honran a sus difuntos con una combinación de **tradiciones ancestrales** y ritos que forman parte de la cultura del país, para mantener viva la memoria de sus seres queridos.
+
+Por ejemplo, en **Pichincha**, los camposantos reciben a los fieles que depositan ofrendas florales y rezan en las tumbas de sus difuntos. En los hogares se prepara la tradicional colada morada, acompañada de guaguas de pan, lo cual permite a las familias reunirse y recordar a sus seres queridos con respeto y cariño.
+
+Mientras tanto, en **Cuenca**, las comunidades indígenas de **Azuay** y **Cañar** visitan el cementerio y comparten alimentos en las tumbas de los difuntos. Este rito se basa en la creencia de que la muerte es solo un paso a otra vida similar, y que el difunto regresa cada año.
+
+Por otro lado, en **Cañar**, en cambio, los familiares llevan al cementerio objetos valiosos del difunto e invitan a participar del juego Piruruy (juego de dados). Según la suerte que se obtenga, se pueden conocer sus necesidades o sus reproches. Gracias a este dado tallado en un hueso de llama, también se pueden resolver desacuerdos.
+
+Según la **cosmovisión** **andina**, este día es un espacio para expresar la reciprocidad que existe entre quienes viven en el Kay Pacha (mundo terrenal) y los que coexisten en el Uku Pacha (mundo de los muertos).
+
+Además, los habitantes de sectores rurales visitan los cementerios durante la noche y permanecen en vigilia, acompañados de cánticos y oraciones.
+
+Niña asesinó a sus hermanas menores y se lo confesó a su madre por mensaje de texto
+===================================================================================
+
+En Rusia, una niña habría confesado que asesinó a sus dos medias hermanas menores en la ciudad de Toliatti.
+-----------------------------------------------------------------------------------------------------------
+
+![Imagen referencial. Una niña confesó haber quitado la vida a sus hermanas menores.](https://www.elcomercio.com/wp-content/uploads/2024/10/nina-asesino-hermanas.jpg)
+
+En un impactante caso que ha conmocionado a Rusia, una **niña** habría confesado que **asesinó** a sus dos medias **hermanas** menores en la ciudad de Toliatti[.](https://es.wikipedia.org/wiki/Toliatti "https://es.wikipedia.org/wiki/Toliatti")
+
+### Más noticias
+
+* [En el Día de la Niña destaquemos la importancia de la educación](https://www.elcomercio.com/tendencias/cultura/dia-internacional-nina-onu-efemeride-educacion.html "En el Día de la Niña destaquemos la importancia de la educación")
+* [Unicef difunde alarmante informe sobre violencia sexual contra niñas y adolescentes en el mundo](https://www.elcomercio.com/actualidad/mundo/unicef-informe-violencia-sexual-ninas-adolescentes.html "Unicef difunde alarmante informe sobre violencia sexual contra niñas y adolescentes en el mundo")
+
+Niña asesinó a sus hermanas
+---------------------------
+
+La joven, identificada como la principal **sospechosa**, habría admitido el crimen en un **mensaje** de **texto** enviado a su madre, en el que escribió: **“Fui yo”.**
+
+Las víctimas, de apenas **dos y cinco años**, fueron encontradas sin vida en el porche de su hogar, presentando múltiples heridas de arma blanca. El macabro hallazgo fue hecho por otra hermana de la familia, de tan solo 10 años, quien al descubrir los **cuerpos**, alertó a los adultos. Para ese momento, la adolescente sospechosa no estaba presente en la casa.
+
+Los reportes de medios locales señalan que la niña había sido dejada **al cuidado de sus hermanas** mientras su madre y padrastro no estaban. Según las investigaciones iniciales, luego de llevar a cabo el asesinato, habría abandonado la escena para dar un **paseo en un parque cercano**. Fue allí donde las autoridades lograron encontrarla más tarde.
+
+Confesión escalofriante por mensaje de texto
+--------------------------------------------
+
+El horror no terminó con el descubrimiento de los cuerpos. Cuando la madre, e**l padrastro y la hermana** mayor de la familia llegaron a la casa, inmediatamente comenzaron a buscarla. 
+
+En ese momento, la madre decidió contactarla por mensaje de texto, a lo que la joven respondió fríamente: **“Fui yo, jajaja”.** Posteriormente, fue detenida y trasladada a un **hospital psiquiátrico** para una evaluación. Hasta ahora, no se han identificado signos de trastorno mental en la menor.
+
+Reacciones en la comunidad y análisis del caso
+----------------------------------------------
+
+La familia vivía en la misma casa con las **tres hermanas, su madre y su padrastro.** De acuerdo con los testimonios de vecinos, el entorno familiar no mostraba señales de problemas, e incluso describieron a la madre como una **persona “positiva”,** que trabajaba como profesora en una guardería y actualmente se encontraba de baja por maternidad.
+
+Este caso también ha generado fuertes reacciones de **figuras públicas**. La actriz y activista Yana Poplavskaya expresó su preocupación ante lo que considera una **creciente influencia negativa** en los jóvenes debido al uso descontrolado de la tecnología y las **redes sociales.** 
+
+En un mensaje difundido en Telegram, escribió: “El infierno que pasó en la familia **Toliatti** es consecuencia de todo lo que sucede en **Internet**, en las redes sociales y en **nuestra sociedad.** El acceso desenfrenado a los teléfonos móviles, cuando los padres ni siquiera saben con qué o con quién están involucrados sus hijos. Prácticamente, no hay censura en la red”.
+
+Las autoridades continúan con la **investigación para esclarecer los motivos** detrás de este trágico suceso, mientras la adolescente permanece bajo observación psiquiátrica.
+
+¿Por qué condenaron a ciudadano que tenía un mono aullador como mascota?
+========================================================================
+
+Un ciudadano fue condenado a tres años de prisión por el delito de tenencia y transporte ilegal de un mono aullador, animal que no es mascota
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Mono-aullador-mascota.jpg)
+
+El ciudadano ecuatoriano José E. B. M. fue condenado a **tres años de prisión** por el delito de tenencia y transporte ilegal de un mono aullador (Alouatta palliata), especie que está en la categoría de ‘Peligro Crítico’, informó el **Ministerio de Ambiente, Agua** y Transición Ecológica (MAATE)[.](https://es.wikipedia.org/wiki/Alouatta)
+
+### Más noticias
+
+* [Sentenciado por tenencia de mono catalogado en peligro crítico](https://www.elcomercio.com/actualidad/ecuador/sentenciado-tenencia-mono-catalogado-peligro-critico.html "Sentenciado por tenencia de mono catalogado en peligro crítico")
+* [El mono aullador, especie única de Centro y Sudamérica](https://www.elcomercio.com/sociedad/monoaullador-selva-animales-fauna-america.html "https://www.elcomercio.com/sociedad/monoaullador-selva-animales-fauna-america.html")
+
+El mono aullador no es mascota
+------------------------------
+
+El mono aullador, conocido científicamente como **Alouatta palliata**, es una especie clave en los ecosistemas tropicales de Ecuador. Estos primates habitan en las selvas húmedas y bosques nublados, donde su presencia es fundamental para **mantener el equilibrio ecológico**. En esencia, no son mascotas.
+
+Son frugívoros y dispersores de semillas, lo que les permite contribuir a la regeneración de los bosques, favoreciendo la diversidad de plantas y árboles. Además, su **capacidad de dispersar semillas en largas** distancias asegura la propagación de especies vegetales, lo que promueve la conectividad del hábitat.
+
+El valor del mono aullador no solo radica en su función como dispersor de semillas, sino también en su papel dentro de la **cadena alimenticia**. Como consumidores primarios, su **dieta** de hojas y frutas equilibra las poblaciones de plantas y mantiene un control sobre la **vegetación**.
+
+A su vez, el mono aullador es presa para **depredadores como jaguares y águilas**, lo que lo convierte en un eslabón crucial en la estructura trófica de los **bosques ecuatorianos**.
+
+La **conservación** de esta especie es vital, ya que los monos aulladores son sensibles a la fragmentación de su hábitat causada por la deforestación. Sin estos primates, se vería comprometida la capacidad de **regeneración natural de los ecosistemas**, afectando la biodiversidad y la sostenibilidad de los bosques en Ecuador.
+
+Las consecuencias de tener un mono aullador como mascota
+--------------------------------------------------------
+
+El ciudadano deberá, además, pagar una multa de 4 600 dólares, equivalente a **diez salarios básicos** unificados, luego de ser sorprendido en delito flagrante, según la sentencia emitida por un juez de garantías penales.
+
+El pasado 9 de julio, durante un operativo de control de vida silvestre, **el ciudadano fue detenido** por la Unidad de Protección Ambiental (UPMA) de la Policía Nacional del Ecuador, en posesión de un mono aullador.
+
+Audiencia de juzgamiento
+------------------------
+
+En la audiencia de juzgamiento y con base en la información proporcionada por el MAATE se determinó la responsabilidad del **acusado en el delito contra la flora y fauna**, conforme al artículo 247, del Código Orgánico Integral Penal (COIP).
+
+Esta sanción representa un avance en la aplicación de la ley en defensa de la vida silvestre y es el resultado del esfuerzo conjunto entre el Ministerio, la Unidad Nacional de Investigación de Delitos Contra el Ambiente y la Naturaleza (UNIDCAM) de la Policía Nacional del Ecuador y el Municipio de la ciudad costera de Guayaquil, apuntó el MAATE.
+
+Protección al mono aullador
+---------------------------
+
+El espécimen encontrado fue trasladado a un centro de manejo y conservación ex situ para recibir la atención veterinaria necesaria.
+
+Según la l**ista roja de mamíferos de Ecuador** y en el Apéndice II de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres (CITES), el mono aullador se encuentra en **‘Peligro Crítico’**.
+
 Iván Kaviedes y Armando Paredes protagonizarán la pelea del año
 ===============================================================
 
@@ -414,715 +1117,6 @@ Días atrás, Suárez brindó una entrevista al programa ‘De Fútbol Se Habla 
 ![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/uruguay_bielsa_2-1024x683.jpg)
 
 Foto: EFE.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Los huracanes más mortíferos de la historia reciente de EE.UU.
-==============================================================
-
-Helene es responsable por el momento de más de 200 muertes y es el segundo ciclón más mortífero que se registra en el Estados Unidos.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Una persona desafía las fuertes olas y vientos del huracán Helene en Cedar Key, Florida.](https://www.elcomercio.com/wp-content/uploads/2024/10/helene-huracan-efe-ok.jpg)
-
-Tras casi una semana de haber tocado tierra en el **noroeste de Florida** como un huracán de categoría 4, [Helene](https://www.elcomercio.com/actualidad/mundo/joe-biden-1-000-soldados-zona-devastada-helene.html "https://www.elcomercio.com/actualidad/mundo/joe-biden-1-000-soldados-zona-devastada-helene.html") es responsable por el momento de más de 200 muertes y se alza ya como el segundo ciclón más mortífero que se registra en el Estados Unidos continental en los últimos 50 años.
-
-### Más noticias
-
-* [Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz](https://www.elcomercio.com/actualidad/mundo/helene-deja-sureste-ee-uu-menos-26-muertos-cuatro-millones-sin-luz.html "Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz")
-* [La tormenta Helene pasa frente a la península de Yucatán y tiene bajo alerta a la Florida](https://www.elcomercio.com/actualidad/mundo/tormenta-helene-pasa-frente-peninsula-yucatan-tiene-bajo-alerta-florida.html "La tormenta Helene pasa frente a la península de Yucatán y tiene bajo alerta a la Florida")
-* [Aviones llegan con ayuda del Ejército a Acapulco tras el huracán John](https://www.elcomercio.com/actualidad/mundo/aviones-llegan-ayuda-ejercito-acapulco-huracan-john.html "Aviones llegan con ayuda del Ejército a Acapulco tras el huracán John")
-
-Por delante de él, y a considerable ventaja, encabeza la lista el **huracán Katrina**, que con **1 392 muertes** adjudicadas figura entre los cinco ciclones tropicales más letales en la historia de Estados Unidos, de acuerdo al Centro Nacional de Huracanes (NHC, en inglés) de este país.
-
-Estos son los huracanes más mortales que impactaron en Estados Unidos continental en los últimos 50 años:
-
-5\. Harvey (2017)
------------------
-
-Produjo lluvias de registros históricos en Houston, en Texas, estado por cuya costa central de cara al Golfo de México tocó tierra el 25 de agosto, como un huracán de categoría 4. La cifra de muertos llegó a 103 y produjo destrucción en ese estado y en Luisiana.
-
-**4\. La supertormenta Sandy (2012)**
--------------------------------------
-
-Produjo al menos **147 muertes directas** y una catastrófica marejada ciclónica en las costas de Nueva York y Nueva Jersey, por donde tocó tierra a fines de octubre como un gigantesco ciclón postropical.
-
-3. **Ian (2022)**
------------------
-
-El poderoso huracán Ian entró a Estados Unidos a través de la costa oeste de Florida y, como Helene, lo hizo con categoría 4. Dejó 156 decesos principalmente en Florida, además de Carolina del Norte y Virginia. Tras destruir más de **19 000 viviendas y edificios en el condado de Lee**, donde se asienta Fort Myers, Ian volvió a tocar tierra en Carolina del Sur.
-
-2\. Helene (2024)
------------------
-
-Entró por el **noroeste de Florida**, en la zona conocida como Big Bend, la noche del pasado 26 de septiembre con categoría 4 en la escala Saffir-Simpson (de un máximo de 5) y desde ahí dejó una estela de al menos 800 kilómetros de devastación por seis estados del sureste de EEUU. En Carolina del Norte, la **cifra de fallecidos asciende a casi un centena**r, en especial en el área al sur de los Montes Apalaches, pero las autoridades no descartan que la cifra aumente en los próximos días.
-
-**1\. Katrina (2005)**
-----------------------
-
-El inmenso **huracán Katrina** golpeó con virulencia la **costa estadounidense del Golfo de México** en agosto de 2005. Tocó tierra primero en Keating Beach, en Florida, como un ciclón de categoría 1, y luego alcanzó Luisiana y Misisipi con categoría 3. El mayor número de decesos se reportaron en la ciudad de Nueva Orleans (Luisiana), que registró catastróficas inundaciones por la marejada ciclónica.
-
-De acuerdo a los registros del NHC, Katrina es superado por el huracán conocido como Great Galveston, en Texas, de 1900 y que se calcula se cobró al menos 8 000 vidas, así como el de Lake Okeechobee, en Florida, de 1928 y responsable de unos 2 500 decesos.
-
-Otros huracanes
----------------
-
-Otros huracanes dignos de mención son Agnes (1972), que se cobró 128 vidas, en especial en los estados de **Pensilvania, Nueva York, Virginia y Maryland**, donde se registraron considerables inundaciones luego de que el ciclón tocara tierra en el noroeste de Florida como un huracán de categoría 1.
-
-De igual modo, el **huracán Audrey,** que tocó tierra en Luisiana en junio de 1957 con categoría 3, y fue responsable de más de 400 decesos tras registrar una marejada ciclónica de hasta 3,5 metros (12 pies) en áreas de ese estado y de Texas.
-
-Y por último, el huracán María, de categoría 4, que en septiembre de 2017 devastó Puerto Rico y está considerado como el más destructivo en la historia reciente de la isla caribeña, la cual casi en su totalidad quedó sin electricidad. Si bien en un inicio se le atribuyeron 67 muertes, un posterior estudio hecho por la **Universidad George Washington por encargo del Gobierno de Puerto Rico**, elevó el número de fatalidades a 2 975. 
-
-La Selección de Ecuador expondrá su férrea defensa contra Uruguay
-=================================================================
-
-La Selección de Ecuador arranca la ruda de revanchas de las eliminatorias al Mundial 2026 visitando a Uruguay.
---------------------------------------------------------------------------------------------------------------
-
-![Félix Torres despeja un balón ante Paraguay en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_defensa_1.jpg)
-
-La **Selección de Ecuador** procurará el próximo martes 15 de octubre de 2024 hacer gala, una vez más, de su férreo sistema defensivo contra uno de los mejores ataques, el de Uruguay, en Montevideo, por la décima fecha de las eliminatorias del Mundial de 2026.
-
-En las últimas seis jornadas, la **Selección de** **Ecuador recibió solo un gol por la séptima fecha a domicilio de Brasil**, y son cuatro goles en total los que ha recibido en la actual eliminatoria, contra los 13 goles que ha convertido Uruguay, junto a Argentina, en las nueve fechas disputadas.
-
-### Más noticias:
-
-* [Juan Riquelme Angulo se vistió de héroe con un doblete ante Brasil](https://www.elcomercio.com/deportes/futbol/juan-riquelme-angulo-goles-ecuador.html "Juan Riquelme Angulo se vistió de héroe con un doblete ante Brasil")
-* [La Selección Ecuador con cuatro jugadores con riesgo de suspensión](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-tarjeta-amarilla.html "La Selección Ecuador con cuatro jugadores con riesgo de suspensión")
-* [Sebastián Beccacece volvió a respaldar a Kendry Páez](https://www.elcomercio.com/deportes/futbol/sebatian-beccacece-kendry-paez-seleccion.html "Sebastián Beccacece volvió a respaldar a Kendry Páez")
-
-El portero argentino naturalizado ecuatoriano, **Hernán Galíndez, junto a Félix Torres, William Pacho y Piero Hincapié** han estructurado uno de los mejores sistemas defensivos de Sudamérica, con la labor solidaria hasta del goleador histórico del equipo, Enner Valencia.
-
-La labor de los centrocampistas también ha incidido a ese propósito, **pero el problema de la Tri surge por las pocas ocasiones de gol** que ha fabricado, pues en los últimos seis encuentros convirtió dos, de los seis que ha marcado en la actual eliminatoria.
-
-De las seis anotaciones, **dos fueron del defensa Félix Torres**, los otros goles fueron de Enner Valencia, Ángel Mena, Kevin Rodríguez y del juvenil Kendry Páez.
-
-El ataque, un problema sin solución
------------------------------------
-
-Las críticas han apuntado sobre Valencia, autor de 42 goles, porque en las eliminatorias sudamericanas para el Mundial de **Canadá, Estados Unidos y México**, ha convertido tan solo uno.
-
-En descargo de Valencia, han sido pocas las asistencias precisas que ha recibido frente al arco contrario, como la única que sí se le presentó y aprovechó contra Perú, con un centro preciso de Alan Franco.
-
-El clamor de los ecuatorianos es que a su equipo le faltan goleadores, pero más bien, **le faltan jugadores de creación desde la mitad de la cancha** o un buen engranaje de juego ofensivo, a tal punto que el juego del equipo nace en gran volumen desde su línea de tres defensas.
-
-El equipo del seleccionador argentino, Sebastián Beccacece, todavía carece de elaboración de juego ofensivo, por más dinámica y velocidad que intenta aplicar para llegar al arco contrario.
-
-Ecuador se clasificó para el **Mundial de Catar 2022 ejerciendo una presión constante** sobre la zona defensiva contraria, impresa por el técnico argentino Gustavo Alfaro, propuesta con la que hacía superioridad numérica en ataque y la mayoría de sus jugadores terminaron anotando.
-
-![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_defensa_3-1024x683.jpg)
-
-Foto: Diego Pallero / EL COMERCIO.
-
-Ecuador busca su nueva identidad
---------------------------------
-
-Tras la no renovación con Alfaro, l**legó el español Félix Sánchez, que ratificó a la plantilla mundialista**, pero cuya principal buena herencia hasta marzo de 2023, fue consolidar la línea de tres en defensa, que prevalece en la actualidad dentro del proceso.
-
-La conclusión a la que muchos llegan en Ecuador es que dentro del actual proceso eliminatorio el equipo encontró a la mejor generación de defensas, pero que está al frente de una discreta generación de atacantes.
-
-Sin embargo, **jugadores como Enner Valencia y Leonardo Campana** forman también la selecta lista de atacantes con muy buenos registros en importantes Ligas extranjeras, además de Gonzalo Plata, Kevin Rodríguez, Alan Minda, Jhon Yeboah, Jeremy Sarmiento, entre otros.
-
-Ante **Uruguay será el cuarto partido de Ecuador con Beccacece**, con evidente falta de entrenamientos en procura de plasmar sus ideas de juego, mientras la Tri, como también le dicen a la selección, se mantiene en la zona de clasificación directa y a la espera de que prime la paciencia hasta que se consolide el proceso.
-
-![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_defensa_2-1024x683.jpg)
-
-Foto: Diego Pallero / EL COMERCIO.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Cortes de luz establecidos para Guayaquil este domingo 13 de octubre
-====================================================================
-
-La Corporación Nacional de Electricidad (CNEL) programó cortes de luz de hasta 10 horas en Guayaquil este domingo 13 de octubre.
---------------------------------------------------------------------------------------------------------------------------------
-
-![En Guayaquil, CNEL ha establecido cortes de luz en varios sectores de la ciudad. Foto: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/10/Luz3.jpg)
-
-  
-Cortes de Luz en **Guayaquil** están organizados por la Corporación Nacional de Electricidad (CNEL). Los **racionamientos de electricidad**, que pueden extenderse hasta **10 horas al día**, son consecuencia de la **escasez de lluvias** que afecta a las principales **hidroeléctricas del país**, lo que ha provocado una reducción en la capacidad de generación de energía.
-
-### Más noticias
-
-* [Cortes de luz en Quito fueron organizados para este domingo 13 de octubre](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-fueron-organizados-para-este-domingo-13-de-octubre.html)
-* [Cortes de luz se suspendieron por algunas horas este domingo 13 de octubre, en Ecuador](https://www.elcomercio.com/actualidad/cortes-de-luz-se-suspendieron-por-algunas-horas-este-domingo-13-de-octubre-en-ecuador.html)
-* [¿Hallazgo de restos de Andrew Irvine cambiará la historia de ascensos al Everest?](https://www.elcomercio.com/deportes/otros/andrew-irvine-hallazgo-pierna-everest.html)
-
-  
-Cortes de luz de hasta 10 horas en Guayaquil
------------------------------------------------
-
-En **Guayaquil**, la CNEL ha establecido **cortes de luz** en varios sectores de la ciudad, distribuidos en dos períodos durante el día. El primero tendrá una duración de entre tres y cinco horas, mientras que el segundo puede extenderse hasta siete horas. El cronograma detallado de los **cortes de luz** para este domingo, 13 de octubre de 2024, está disponible en la página web de la CNEL.
-
-La ministra de Energía encargada, Inés Manzano, advierte que la **crisis hídrica** continuará afectando al país. “Las hidroeléctricas están operando a su capacidad mínima, lo que nos obliga a mantener los racionamientos de energía en todo Ecuador, incluyendo Guayaquil”, señaló Manzano en un mensaje difundido en sus redes sociales.
-
-Acciones ante la crisis hídrica
--------------------------------
-
-Frente a este escenario, las autoridades han instado a la **ciudadanía de Guayaquil** a tomar precauciones y **planificar sus actividades diarias** en función de los cortes de luz. La CNEL mantiene canales de comunicación abiertos para informar sobre los horarios y **zonas afectadas**.
-
-El Gobierno ha señalado que se están ejecutando acciones para **enfrentar la crisis**. Entre estas está la incorporación de nuevas **fuentes de energía renovable** y la designación de nuevos responsables en el **sector eléctrico**.
-
-Sinner ganó su primer Masters de Shanghái tras vencer a Djokovic
-================================================================
-
-El italiano Jannik Sinner evitó que el serbio Novak Djokovic gane el título número 100 de su carrera.
------------------------------------------------------------------------------------------------------
-
-![Jannik Sinner con el trofeo del Masters de Shanghái 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/sinner_1.jpg)
-
-El mejor tenista del momento, **el italiano Jannik Sinner**, celebró que oficialmente acabará el año como número 1 del ‘ranking’ mundial imponiéndose en la final del Masters 1000 de Shanghái al actual número 4 de la tabla y más veces campeón de ese torneo, el serbio Novak Djokovic.
-
-Tras vencer por 7-6 (4) y 6-3 en una hora y 37 minutos, **Sinner logra alzarse con este trofeo por primera vez** y sumó el séptimo título de la temporada para alcanzar un total de 17 desde que se convirtió en profesional.
-
-### Más noticias:
-
-* [Batalla campal en el Camp Nou, del FC Barcelona, deja seis heridos](https://www.elcomercio.com/deportes/futbol/batalla-campal-en-el-camp-nou-fcbarcelona-deja-seis-heridos.html "Batalla campal en el Camp Nou, del FC Barcelona, deja seis heridos")
-* [Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay](https://www.elcomercio.com/deportes/futbol/kendry-paez-bajo-criticas-tras-empate-ecuador-paraguay.html "Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay")
-* [Lula defiende](https://www.elcomercio.com/deportes/futbol/lula-defiende-una-brasil-sin-futbolistas-que-jueguen-fuera-del-pais.html "Lula defiende una Brasil sin futbolistas que jueguen fuera del país") [una](https://www.elcomercio.com/deportes/futbol/lula-defiende-una-brasil-sin-futbolistas-que-jueguen-fuera-del-pais.html "Lula defiende una Brasil sin futbolistas que jueguen fuera del país") [Brasil sin futbolistas que jueguen fuera del país](https://www.elcomercio.com/deportes/futbol/lula-defiende-una-brasil-sin-futbolistas-que-jueguen-fuera-del-pais.html "Lula defiende una Brasil sin futbolistas que jueguen fuera del país")
-
-Además, impidió que el serbio sume el torneo número 100 en una de sus paradas predilectas del circuito.
-
-Todo comenzó marcado por una igualdad absoluta: **los dos finalistas se mostraban implacables** en sus turnos de saque y no daban opción de rotura a su rival. Ni siquiera un solo ‘deuce’. Así, la única alternativa era el ‘tie break’.
-
-Y fue precisamente en el desempate cuando se le empezaron a ver las costuras a Djokovic: los errores del serbio en las subidas a la red y la fiabilidad absoluta de Sinner acabaron decantando la cosa de lado del italiano.
-
-Sinner había olido la sangre del veterano, y llegó a ponerse 0-40 en el segundo juego del segundo set.
-
-El serbio **acabaría remontando para evitar el ‘break’**, pero volvió a fallar en la red (solo convirtió 5 de 11 puntos en esta faceta del juego a lo largo del partido) y acabó permitiendo que su rival le rompiera el saque.
-
-El serbio hizo el **ademán de recuperarse tras ir 4-1 abajo**, pero Sinner demostró por qué está donde está manteniéndose firme en el momento decisivo y cerrando su victoria nada menos que con un ‘ace’.
-
-‘Nole’, afectado en sus dos últimos partidos por problemas físicos, **había advertido de que no se veía como favorito ante Sinner**: “Es muy constante y es el jugador a batir, sin duda, especialmente en pista dura. (…) Voy a necesitar estar a mi mejor nivel para ganar. Será un partido largo, el más duro del campeonato”.
-
-Sinner le había devuelto el elogio: “**Hemos tenido muchos partidos duros**, es uno de los desafíos más duros que hay en nuestro deporte. Estoy feliz de jugar con él en la final, lo hace todavía más especial”, había indicado tras imponerse en la semifinal al checo Tomas Machac (6-4, 7-5).
-
-Con esa victoria, **Sinner se ganó oficialmente el honor de cerrar el año en el trono del tenis mundial**, convirtiéndose en el 19º jugador en lograrlo y en el primero de su país. Pese a confesarse “feliz” por haber cumplido “un sueño”, también aseguró que esto no le impediría estar “concentrado” de cara a la final.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/sinner_2-1024x683.jpg)
-
-Foto: EFE.
-
-Historial de los finalistas
----------------------------
-
-Sinner y Djokovic disputaron hoy su octavo duelo. Hasta ahora, el serbio había ganado en cuatro ocasiones, por tres del italiano, que consigue igualarle por fin.
-
-Si bien esas **tres victorias de Sinner se produjeron en los últimos cuatro enfrentamientos** entre ambos, la única que había logrado Djokovic en ese período fue precisamente en la única final que habían disputado hasta ahora: la de las ATP Finals de Turín del año pasado, con resultado favorable al serbio por 6-3 y 6-3.
-
-Al acceder a la final, **Djokovic buscaba el trofeo número 100 de su carrera** y su quinto en Shanghái tras los de 2012, 2013, 2015 y 2018.
-
-Al serbio, que mantiene un largo idilio con los aficionados chinos, le sigue con 3 entorchados el británico Andy Murray, el cual colgó la raqueta este mismo año.
-
-“Luchar por el 100º título aquí, **donde he tenido un gran éxito en el pasado** y donde cuento con tanto apoyo, parece cosa del destino”, aseguró ayer.
-
-Las gradas de la pista central de Qizhong estuvieron hoy repletas de banderas serbias, y muchos aficionados chinos llegaron a cantarle “¡Vamos, ‘Nole’!” en serbio.
-
-La locura entre el público no hizo, sino aumentar cuando se vio quién estaba viendo el partido: en la pista, el actual número uno y el tenista que más tiempo ha pasado en lo alto de la tabla en la historia.
-
-Y en el palco de honor, **el legendario Roger Federer**, flanqueado por dos españoles que saben lo que es paladear el trono del tenis mundial, Carlos Alcaraz y su actual entrenador, Juan Carlos Ferrero.
-
-En esta edición, **Sinner ha mejorado de forma indiscutible su historial en el Másters de Shanghái**: con el torneo suspendido durante tres años por la política de ‘cero covid’ del Gobierno chino, la de 2023 fue su primera participación, y cayó en octavos de final ante el estadounidense Ben Shelton.
-
-Antes de vencer ante Machac, el mejor tenista del momento había pasado sus primeras rondas ante el japonés Taro Daniel (6-1, 6-4) y el **argentino Tomás Etcheverry (6-7 (3), 6-4, 6-2)**.
-
-Luego, se tomó su particular ‘vendetta’ contra Shelton en octavos (6-4, 7-6 (1)), y arrasó (6-1, 6-4) ante el número 5 del ‘ranking’, el ruso Daniil Medvedev, el cual jugó con problemas en su hombro derecho.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/sinner_3-1024x683.jpg)
-
-Foto: EFE.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Cortes de luz en Quito fueron organizados para este domingo 13 de octubre
-=========================================================================
-
-La EEQ programó cortes de luz de hasta 10 horas para Quito este domingo 13 de octubre.
---------------------------------------------------------------------------------------
-
-![La ciudadanía puede planificar sus actividades según los cronogramas de cortes de luz. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Luz2.jpg)
-
-  
-Los cortes de luz en Quito se mantienen debido a la crisis hídrica que atraviesa el país.
-
-La **Empresa Eléctrica Quito** (EEQ) anunció los horarios de los **cortes de luz de Quito programados** para este domingo 13 de octubre de 2024.  Los cortes, que **pueden durar hasta 10 horas**, forman parte de las medidas implementadas para enfrentar la **falta de lluvias** que afecta a las principales hidroeléctricas.
-
-### Más noticias
-
-* [Cortes de luz se suspendieron por algunas horas este domingo 13 de octubre, en Ecuador](https://www.elcomercio.com/actualidad/cortes-de-luz-se-suspendieron-por-algunas-horas-este-domingo-13-de-octubre-en-ecuador.html)
-* [Gobierno designa nuevas autoridades de electricidad en medio de la crisis energética](https://www.elcomercio.com/actualidad/negocios/gobierno-designa-nuevas-autoridades-electricidad-crisis-energetica.html)
-* [Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios](https://www.elcomercio.com/actualidad/negocios/cortes-luz-continuan-14-al-20-octubre-2024-conozca-nuevos-horarios.html)
-
-  
-Horarios de los cortes en Quito
-----------------------------------
-
-Los **cortes de luz en Quito** estarán distribuidos en dos períodos. El primero tendrá una duración de entre tres y cinco horas, y el segundo de hasta siete horas. Estos horarios pueden variar según la zona y se aplican en **diferentes sectores** de la capital, lo que afecta tanto a **áreas residenciales como comerciales**. La EEQ publicó los cronogramas de cada sector en su página web para que la ciudadanía pueda **planificar sus actividades**.
-
-Estos son los horarios para hoy:
-
-**00:00 a 05:00 / 10:00 a 15:00**
-
-* Luluncoto
-* Chilibulo
-* Miraflores
-* La Floresta
-* Río Coca
-* Cristianía
-* Epiclachima
-* Conocoto
-* Tumbaco
-
-**00:00 a 05:00 / 14:00 a 19:00**
-
-* La Carolina
-* Nueva Cumbayá
-* Mirador Alto
-* Los Bancos
-* Pérez Guerrero
-* El Obraje (Machachi)
-
-**09:00 a 14:00 / 19:00 a 24:00**
-
-* Chimbacalle
-* Belisario Quevedo
-* Granda Centeno
-* Gualo
-* Andalucía
-* Cotocollao
-* Inga Bajo
-
-**05:00 a 10:00 / 15:00 a 20:00**
-
-* Olímpico
-* Barrionuevo
-* El Bosque
-* San Antonio
-* Alangasí
-* San Rafael
-* Iñaquito
-* Santa Rosa
-* Sangolquí
-* Pomasqui
-* El Quinche
-* Eugenio Espejo
-
-**11:00 a 16:00 / 20:00 a 24:00**
-
-* Luluncoto
-* Chilibulo
-* San Roque
-* Río Coca
-* Andalucía
-* Cotocollao
-* Conocoto
-* Alangasí
-* Santa Rosa
-* Inga Bajo
-
-**14:00 a 24:00**
-
-* Santa Rosa
-* Inga Bajo
-
-Para consultar su sector con exactitud puede ingresar a la página web de la EEQ.
-
-Según la ministra de Energía encargada, **Inés Manzano**, la semana del 14 al 20 de octubre será especialmente crítica debido a la **escasez de lluvias**, lo que seguirá afectando el suministro de energía en el país. “Debemos continuar con los cortes y ser responsables, ya que la crisis hídrica no muestra signos de mejora en los próximos días”, señaló.
-
-  
-Medidas para afrontar la crisis eléctrica
---------------------------------------------
-
-El Gobierno ecuatoriano ha tomado varias medidas para **mitigar los efectos de la crisis eléctrica**. Entre estas se encuentra la diversificación de la **matriz energética** y la designación de nuevas autoridades en el sector, con el fin de agilizar la implementación de soluciones a largo plazo. Sin embargo, los **racionamientos seguirán siendo necesarios** mientras persista la falta de agua en las principales represas.
-
-Los ciudadanos pueden revisar los horarios específicos de los **cortes de luz en Quito**, así como de otras provincias, en las páginas web de la EEQ y del Ministerio de Energía y Minas. Las **empresas eléctricas** han instado a la población a **tomar precauciones y adaptarse a estos racionamientos**, que continuarán hasta que las condiciones climáticas mejoren.
-
-¿Hallazgo de restos de Andrew Irvine cambiará la historia de ascensos al Everest?
-=================================================================================
-
-Andrew Irvine y George Malloy intentaron llegar a la cima del Everest en 1924. No existen registros de si lo lograron.
-----------------------------------------------------------------------------------------------------------------------
-
-![Fotografía de Jimmy Chin/National Geographic.](https://www.elcomercio.com/wp-content/uploads/2024/10/irvine_2.jpg)
-
-Uno de los grandes misterios del alpinismo podría empezar a ser resuelto después de 100 años, una vez que un equipo de National Geographic, al parecer, **encontró una parte del cuerpo de Andrew Irvine**.
-
-Se trata de un pie que todo apunta puede pertenecer al alpinista **Andrew Irvine, que el 8 de junio de 1924**, junto al escalador George Mallory, fueron vistos por última vez mientras intentaban convertirse en los primeros en llegar a la cima del Everest.
-
-### Más noticias:
-
-* [La Selección de Ecuador descendió al quinto puesto en la tabla](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador descendió al quinto puesto en la tabla")
-* [Iván Vallejo, el ecuatoriano que llegó a lo más alto del mundo](https://www.elcomercio.com/deportes/otros/ivan-vallejo-confesionario-montanismo-everest.html)
-* [Carla Pérez, una eminencia en el montañismo mundial](https://www.elcomercio.com/deportes/otros/carla-perez-confesionario-montanismo-ecuador.html)
-
-No existe un registro si **Irvine** y **Malloy lograron llegar a la cima**, por lo que este reconocimiento está en manos de Tenzing Norgay y Edmund Hillary, quienes 29 años más tarde coronaron el pico más alto del mundo. Por lo que con este hallazgo se abre el debate entre los historiadores del montañismo sobre la posibilidad de que los ingleses Irvine y Malloy fueron los **primeros en coronar** el monte más alto del mundo (8,849 m.s.n.m.).
-
-Irvine y Malloy intentaron su **ascenso bajo de la cara norte del Monte Everest**, en una amplia extensión del glacial Rongbuk Central.
-
-Según relata National Geographic, los restos de Mallory fueron encontrados en 1999, pero los de Irvine no, por lo que sigue siendo una incógnita si los dos británicos finalmente lograron su objetivo.
-
-La familia de Irvine proporcionó una **muestra de ADN para corroborar si el pie encontrado** pertenece al alpinista, aunque el equipo que halló los restos está casi seguro que se trata del joven que tenía 22 años cuando pereció.
-
-¿Cómo fue el hallazgo?
-----------------------
-
-En septiembre, una expedición de National Geographic, comandada por el fotógrafo **Jimmy Chin, y los cineastas y escaladores Erich Roepke y Mark Fisher**, halló la bota. En su interior encontraron un pie que inmediatamente relacionaron con Irvine.
-
-“Levanté el calcetín”, dice Chin, describiendo el momento, “y hay una etiqueta roja que tiene **A.C. IRVINE cosido en él**“.
-
-Chin relata que él y sus compañeros reconocieron la importancia del momento al unísono. “Literalmente, todos corríamos en círculos soltando tacos”, cuenta el fotógrafo en un amplio informe que fue publicado en el sitio web de National Geographic el 11 de octubre de 2024.
-
-Chin agrega que “**es la primera vez evidencia real de donde terminó Sandy**“, como también era conocido Irvine, dando un paso trascendental para empezar a dar respuestas a sus familiares y para que el mundo del alpinismo resuelva uno de los misterios sin resolver durante décadas.
-
-La primera pista que hallaron fue una botella de oxígeno que tenía marcada la fecha de 1933, **que perteneció a una expedición que encontró** en ese año un objeto que pertenecía a Irvine, pero que también fracasó en su intento de llegar a la cima.
-
-El propio fotógrafo relata que el hallazgo se dio de forma “fortuita”, puesto que en el lugar donde hallaron la bota el hielo se había derretido una semana antes.
-
-Desde entonces, relata la BBC, **el pie ha sido retirado de la montaña debido a la preocupación** de que los cuervos lo estuvieran acechando, de acuerdo a reportes, y se entregó a las autoridades de montañismo chinas que gobiernan la cara norte del Everest.
-
-¿Quién era Irvine?
-------------------
-
-Irvine provenía de una familia de clase media alta en **Cheshire, Inglaterra**; era guapo y atlético, un remero estrella en Oxford.
-
-Aun así, Irvine ha sido a **menudo objeto de críticas por carecer de experiencia técnica** en montañismo antes de llegar a la montaña en 1924.
-
-Según se informa, probablemente sufría de una discapacidad de aprendizaje como la dislexia que lo obstaculizaba como lector, **pero tenía talento mecánico y sobresalía en matemáticas e ingeniería**.
-
-Cuando se unió a la expedición, fue nombrado inmediatamente para servir como oficial de oxígeno, y ayudó a mejorar el diseño de los cilindros de oxígeno del equipo.
-
-Se ganó su lugar en el equipo de la cumbre a fuerza de voluntad y destreza atlética. “Irvine”, **escribió el líder de la expedición E.F. Norton en The Fight For Everest**, “era grande y fuerte, con hombros finos y piernas comparativamente ligeras”.
-
-Summers dice que Mallory probablemente valoró la deferencia de Irvine hacia el escalador mayor. Irvine era totalmente leal a Mallory, dice Norton, en el amplio texto de National Geographic.
-
-![Fotografía de Jimmy Chin/National Geographic.](https://www.elcomercio.com/wp-content/uploads/2024/10/irvine_1-1024x683.jpg)
-
-Fotografía de Jimmy Chin/National Geographic.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Cortes de luz se suspendieron por algunas horas este domingo 13 de octubre, en Ecuador
-======================================================================================
-
-Los cortes de luz en Ecuador fueron suspendidos temporalmente este domingo 13 de octubre hasta las 11 de la mañana.
--------------------------------------------------------------------------------------------------------------------
-
-![La ministra de Energía, Inés Manzano, advirtió que la semana del 14 al 20 de octubre será crítica por la crisis hídrica. Foto: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/10/Luz1.jpg)
-
-  
-Este domingo 13 de octubre de 2024, los **cortes de luz en Ecuador** fueron suspendidos temporalmente hasta las **11 de la mañana**, según informó la Corporación Nacional de Electricidad **(CENACE).** 
-
-### Más noticias
-
-* [Gobierno designa nuevas autoridades de electricidad en medio de la crisis energética](https://www.elcomercio.com/actualidad/negocios/gobierno-designa-nuevas-autoridades-electricidad-crisis-energetica.html)
-* [Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre](https://www.elcomercio.com/actualidad/quito/conozca-nuevos-horarios-cortes-de-luz-quito-semana-del-14-al-20-octubre.html)
-* [Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios](https://www.elcomercio.com/actualidad/negocios/cortes-luz-continuan-14-al-20-octubre-2024-conozca-nuevos-horarios.html)
-
-  
-Esta decisión se enmarca en la serie de **racionamientos energéticos** que afectan al país debido a la crisis hídrica, la cual ha limitado el funcionamiento de las principales hidroeléctricas.
-
-  
-La ministra de Energía encargada, **Inés Manzano**, advirtió que la semana del 14 al 20 de octubre será crítica por la **falta de lluvias**. “Ante esta situación debemos **mantener los cortes** y ser responsables, la próxima semana será crítica y las condiciones climáticas demuestran escasas lluvias en la zona sur“, explicó Manzano. En un video publicado en sus redes sociales el 12 de octubre de 2024, la funcionaria destacó que se está monitoreando de cerca la evolución de los racionamientos.
-
-> 📍COMUNICADO| El Operador Nacional de Electricidad (CENACE) informa ⤵️ [pic.twitter.com/BdtMkZdKFc](https://t.co/BdtMkZdKFc)
-> 
-> — CENACE (@OperadorCenace) [October 13, 2024](https://twitter.com/OperadorCenace/status/1845463615605817628?ref_src=twsrc%5Etfw)
-
-  
-Mejoras en las hidroeléctricas
----------------------------------
-
-Se ha registrado una leve mejora en la reserva de agua de la **represa Mazar**. “La reserva de agua ha aumentado 70 centímetros desde el jueves hasta la noche de ayer”, afirmó Manzano, pero aclaró que esta mejora no es suficiente para evitar los cortes.
-
-El Ministerio de **Energía y Minas** publicó en su página web los horarios de los cortes de luz que se aplicarán desde el lunes 14 hasta el domingo 20 de octubre. Entre las provincias afectadas se encuentran Azogues, Loja, Los Ríos, Manabí, Milagro, Santa Elena y Sucumbíos. **Los apagones podrían durar hasta 10 horas diarias**, distribuidos en varios períodos.
-
-  
-Nuevas autoridades en el sector eléctrico
---------------------------------------------
-
-> 📍IMPORTANTE  
->   
-> 📌La ministra [@inesmanzano](https://twitter.com/inesmanzano?ref_src=twsrc%5Etfw) informa sobre los horarios de suspensión del servicio de energía eléctrica para el periodo del 14 hasta el 20 de octubre.  
->   
-> 🔶Conoce la programación en⏩ [https://t.co/4YfPN33hy5](https://t.co/4YfPN33hy5)  
->   
-> 🔹Más detalles en ⤵️ [pic.twitter.com/3L9gtmhBfJ](https://t.co/3L9gtmhBfJ)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 12, 2024](https://twitter.com/RecNaturalesEC/status/1845211945852400124?ref_src=twsrc%5Etfw)
-
-En medio de esta crisis, el **Gobierno de Daniel Noboa** designó a **Fabián Calero Freire como nuevo viceministro de Electricidad y Energía Renovable**, cargo que hasta hace dos semanas ocupaba Rafael Quintero. Calero, quien tiene un doctorado en Ingeniería Eléctrica y Computación por la Universidad de Waterloo en Canadá, posee más de 17 años de experiencia en el sector eléctrico. Hasta el momento de su nombramiento, se desempeñaba como gerente de la Corporación Eléctrica del Ecuador (Celec).
-
-El Ministerio de Energía destacó que Calero trabajará para superar la **emergencia eléctrica** y diversificar la **matriz energética**. Por su parte, Gustavo Rafael Sánchez Íñiguez fue nombrado como nuevo gerente general de Celec. Sánchez es ingeniero eléctrico por la Escuela Politécnica Nacional y cuenta con 16 años de experiencia en el sector.
-
-Estas designaciones buscan reforzar los esfuerzos del Gobierno para **estabilizar la situación eléctrica** en el país, mientras los ciudadanos y empresas se preparan para una nueva semana de cortes.
-
-¿Aún tenemos un proyecto común?
-===============================
-
-Cada responsable del manejo del país, en el ámbito local, regional o nacional, debe recordar que no importa lo bien lustrado que mantenga su camarote.
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
-
-El **historiador Juan Maiguashca** asegura que la “**ficción guía**” del Ecuador del siglo XIX fue la república, sostenida en la **defensa** del **bien común** que emergió en **momentos** de **tensión** como un mapa del mundo que tenía como puntos de **gravedad** la virtud, la **igualdad** y la **justicia**.
-
-De acuerdo con su lectura, la potente **imagen** de la república constituyó una **fuente** de **legitimidad** y de control social para las élites y se convirtió en el **espacio cultural** al que apelaron **fuerzas políticas** opuestas para mantener una (conflictiva) **tradición** en **común**.
-
-Incluso en [1859, año en que el Ecuador estuvo a punto de disgregarse](http://hdl.handle.net/10469/9522) por las **aspiraciones regionales** opuestas, las **fuerzas** enfrentadas fueron capaces de renunciar a satisfacer sus propias **aspiraciones** para **conservar** y mantener a la **nación** unida, según reseña el historiador Miguel Ángel González Leal.
-
-Hoy, a 200 años de la **creación** de la **república**, y dada la **calamidad** en que se encuentra el **Ecuador**, que registra **problemas** en todos los **órdenes** de la **administración pública**, en medio del caos y el retraso que son la realidad cotidiana, más allá de la **utopía** liberal de “**orden** y **progreso**” con la que se fundó la nación, resulta pertinente preguntarse si las actuales **élites nacionales**, sean **económicas**, **políticas** o **culturales**, se plantean todavía un **proyecto en común**.
-
-¿Dónde es posible encontrar un **sueño** de nación –de nación, no de **facción**– que oriente los pasos que la sociedad debe dar para salir del **caos** y el **desorden** que impera en cada acto de la **gestión pública**? En medio del desconcierto, los que ostentan puestos de **responsabilidad** (y los que aspiran a tenerlos) olvidan que más allá del partido que enciende sus **pasiones**, pertenecemos a una misma **patria**.
-
-Cada **responsable** del **manejo** del **país**, en el **ámbito local, regional o nacional,** debe recordar que no importa lo bien lustrado que mantenga su **camarote**, si el barco se hunde también naufragará, producto de una **lucha fraccionaria** que ha permutado **líderes** por **mercenarios**.
-
-Reflexiones en época de  campaña 
-=================================
-
-La sociedad debe rechazar la falta de control en las redes sociales y exigir transparencia electoral.
------------------------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-La **campaña electoral** ha empezado de manera **no oficial**, pero sí en la práctica de la **política nacional.** Lo cual, como **sociedad**, nos debe invitar a estar alerta a fin de no dejarnos llevar, influenciar o utilizar por las **acciones** y/u **omisiones políticas** – muchas veces con malas intenciones – de los distintos **sectores** y/o actores, ya sea su **participación** y/o influencia directa o indirecta.
-
-La  peculiar e “ingenua” – por decir lo menos – **interpretación** del CNE dada no mucho tiempo atrás, en el sentido de que, los controles de la presencia de las **campañas electorales,** incluido los gastos, realizados en **redes sociales y plataformas digitales**, aplicaría para los candidatos al CPCCS y no para el resto de **candidaturas**, incluidas la **presidencia** y **vicepresidencia** de la **república**, constituye una **torpeza monumental,** cuando hoy en día ya no sorprende, la enorme penetración e influencia de las distintas **plataformas** y **medios digitales en la opinión pública** y en el **imaginario colectivo**, dejando de lado y superando  a los medios y sistemas de comunicación y propaganda tradicionales.
-
-La lamentable “**viveza política**” consciente de la falta de **control y de la alta eficacia** de la comunicación en los medios digitales, ha venido burlándose **descaradamente** de los **límites de campaña**; y, el CNE, con dicha  forzada y torpe “**interpretación**”, en vez de poner freno a esta **mala y abusiva práctica**, más bien le ha dado un **espaldarazo**, es decir, el mismo órgano estatal encargado del **proceso** de **control electoral,** haciéndose no solo de la vista gorda ante algo tan **evidente**, ha brindado  expresamente  luz verde, es decir, ha avalado algo que evidentemente resulta un abuso  y que desnuda el poco sentido de respeto de algunas c**andidaturas al espíritu de la ley** y  al **sentido común**. Lo cual, también  nos debe invitar a **reflexionar** en el sentido de que ¿cómo podríamos confiar en la **seriedad de un candidato,**  si sus primeros actos de campaña se basan en **burlar la ley**?
-
-Adicionalmente, algo que siendo totalmente **incorrecto** se ha vuelto casi normal por lo **habitual**, es la nefasta tarea de los **troll centers,** contratados y enfocados principalmente en  llevar a cabo  una de las más canallas  tareas y  **acciones políticas**, esto es, **descalificar** y **desprestigiar**  utilizando como argumentos la **exageración**, la inexacta **interpretación**, la burla,  la mentira, la mala intención,  etc., todo lo cual realizado cobardemente desde el **anonimato**, la **oscuridad** y la **falsedad**, buscando vender la **imagen** de ser miles de **usuarios** cuando en realidad son pocos con muchas **cuentas** **falsas**, enfocados en desarrollar un **ejército digital** dentro de una **guerra** de **imagen sucia** y baja; todo lo cual alimentado y aprovechándose  de una **sociedad** apurada,  en la que la **conducta** de unos pocos influye en la de muchos, ya que prima en ella el **seguimiento** de manada y no la **reflexión individual.**
-
-Estas **prácticas** (provengan de donde provengan)  deben  ser **desterradas y sancionadas,** no solamente por  los **órganos estatales** a cargo, incluida la Fiscalía de ser el caso, sino también y sobre todo por la sociedad, no dando paso a estas **malas acciones** que no suman a la claridad y al buen criterio **ciudadano** y por consiguiente no apuntalan el apropiado **desenvolvimiento democrático** a efectos de que se den debidas **reflexiones** y por ende las **mejores decisiones** en **momentos electorales**.
-
-No es difícil darse cuenta, cuáles son las reales **intenciones** detrás de dichas **publicaciones** y a quién o a quienes benefician; toda vez que, su **utilización**, a quienes más descalifican en verdad, es a quienes las utilizan.
-
-Cartas a Quito / 13 de octubre de 2024
-======================================
-
-Estas son las cartas a Quito de este domingo 13 de octubre de 2024
-------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Discriminación escolar contra niño autista
-------------------------------------------
-
-En Ecuador, la discriminación sigue siendo una triste realidad, incluso en lugares que deberían ser de inclusión, como las escuelas. Recientemente, un niño con autismo fue discriminado en su escuela, una situación que, como docente, me preocupa profundamente. Este acto es un reflejo de la falta de empatía.
-
-El autismo no es una barrera para el aprendizaje, sino una manera diferente de procesar el mundo. Lamentablemente, muchos aún no entienden esta realidad. Al discriminar a este niño, estamos enviando un mensaje equivocado: que solo hay un “modo correcto” de aprender y de ser. Esto es inaceptable.
-
-Las escuelas en Ecuador deberían ser espacios seguros donde todos los estudiantes, independientemente de sus habilidades, puedan desarrollarse. En lugar de excluir, deberíamos estar construyendo un sistema que abrace la diversidad. Cada niño tiene algo valioso que ofrecer, y la educación debe adaptarse a esas necesidades únicas.
-
-Como profesor, sé que la inclusión no es solo un derecho, sino una oportunidad para todos. Enseñar a niños con autismo no es un desafío, sino una experiencia enriquecedora que puede cambiar la vida de cualquier docente. Nos recuerda que todos aprendemos de maneras distintas y que eso está bien.
-
-La discriminación no solo afecta al niño que la sufre, también afecta a sus compañeros. Al permitirla, estamos enseñando a las futuras generaciones que es aceptable excluir a alguien por ser diferente. Estamos creando un ciclo de prejuicio que debe ser roto cuanto antes.
-
-Es urgente que las escuelas ecuatorianas se capaciten en educación inclusiva. No podemos seguir permitiendo que niños como este sean discriminados. Cada niño, con o sin autismo, merece una educación que los valore por quienes son, y no por lo que se espera que sean. La educación inclusiva no es un favor, es un derecho. Y si no luchamos por él, estamos fallando como sociedad.
-
-Roberto Camana-Fiallos
-
-Turismo a la fragilidad
-=======================
-
-Es hora de cambiar la percepción de la vejez y demostrar que podemos vencer a este enemigo silencioso y disfrutar de una vida plena y activa.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
-
-En **nuestra cultura**, es común escuchar la expresión: “Estoy en la edad del cóndor”, con dolor por aquí, con dolor por acá. Existe una **creencia** generalizada de que el **malestar** permanente es una parte natural del **envejecimiento**. Incluso en la madurez, comenzamos a experimentar **dolencias** que asumimos como normales. Cuando estos dolores se intensifican, recurrimos a **remedios populares** con propiedades **antiinflamatorias**, como la manzanilla y la cúrcuma. Algunos optan por el **chugchuhuazo** o la **dulcamara**. En el **mercado virtual**, hay miles de suplementos que se promocionan como “naturales” y que prometen aliviar el **sufrimiento**. Esta es una **industria multimillonaria** de cápsulas, pastillas, esencias a precios exorbitantes.
-
-Sin embargo, **especialistas** en **termalismo** y geriatría, que participaron en TERMATALIA 2024 en Ourense, España, sostienen que, aunque la **vejez** se asocia comúnmente con **dolor y debilidad**, esta percepción es errónea. Explican que la “**fragilidad**” es un **síndrome geriátrico** que implica una disminución de la **reserva fisiológica** y la capacidad de **adaptación** del cuerpo. Este concepto, aunque poco conocido, es crucial para entender y mejorar la calidad de vida en la **tercera edad.**
-
-La **fragilidad aumenta** la **vulnerabilidad** de las **personas mayores** a enfermedades, lesiones y pérdida de autonomía. Sin embargo, muchos desconocen que este estado no es una **consecuencia** inevitable del **envejecimiento**, sino un proceso que puede prevenirse y gestionarse adecuadamente. La falta de **conocimiento** sobre la **fragilidad** lleva a la aceptación pasiva del **dolor** y la **debilidad** como parte natural de la **vejez**, cuando en realidad, estos pueden y deben evitarse.
-
-Para **combatir la fragilidad** es esencial mantenerse físicamente activo y seguir una **nutrición** adecuada que refuerce la **salud ósea y muscular.** Hoteles y restaurantes pueden captar nuevos clientes con menús de **alimentos saludables** e incluso de **sanación**. El control del peso es fundamental para evitar la sobrecarga en las **articulaciones** y prevenir enfermedades como la **diabetes** e **hipertensión**. Chequeos médicos regulares son esenciales para detectar y tratar problemas antes de que se agraven.
-
-En la **madurez** es crucial entender la importancia del concepto de pre-fragilidad, la etapa en la que aún es posible revertir o ralentizar el proceso de **fragilidad.** Durante esta fase, es vital implementar todas las medidas preventivas. En este contexto, el termalismo y los spas son aliados importantes. Las **aguas termales** y los **tratamientos** de **spa** ayudan a mejorar la **circulación**, **aliviar dolores musculares**, articulares, promueven la **relajación** y el **bienestar general**, lo que contribuye a mantener la **movilidad** y la **calidad de vida**.
-
-Hoy en día es fundamental informarse y educarse sobre la **fragilidad**. Es hora de cambiar la **percepción** de la **vejez** y demostrar que podemos vencer a este **enemigo silencioso** y disfrutar de una **vida plena** y activa en nuestros **años dorados**. **Viajar** cobra una **importancia vital**, ya que es uno de los mejores **antídotos** contra la **depresión**.
-
-Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?
-==========================================================================================
-
-Las ITS en Ecuador aumentaron significativamente desde 2019. Hay disparidades entre provincias.
------------------------------------------------------------------------------------------------
-
-![La sífilis, una infección bacteriana de transmisión sexual, es prevenible y curable, pero los casos han aumentado en todo el mundo. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-23.jpg)
-
-Ecuador enfrenta un significativo aumento de las **Infecciones de Transmisión Sexual (ITS)**. Este incremento es mayor en provincias amazónicas y refleja disparidades socioeconómicas. La pobreza y la desigualdad, entre otros factores agravan el riesgo de propagación de estas enfermedades.
-
-Más noticias
-------------
-
-* [En Quito, las enfermedades no transmisibles siguen cobrando vidas. Las respiratorias persisten.](https://www.elcomercio.com/actualidad/quito/en-quito-las-enfermedades-no-transmisibles-siguen-cobrando-vidas-las-respiratorias-persisten.html "En Quito, las enfermedades no transmisibles siguen cobrando vidas. Las respiratorias persisten.")
-* [El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios](https://www.elcomercio.com/tendencias/salud/ecuador-tambien-afronta-el-aumento-de-pacientes-con-sobrepeso-y-obesidad.html "El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios")
-
-Hay más de 30 bacterias, virus y parásitos que se transmiten por contacto sexual, incluido el contacto con la vagina, el ano y la boca. Algunas ITS también pueden transmitirse de la madre al hijo durante el embarazo, el parto y la lactancia. Hay ocho patógenos que dan lugar a la máxima incidencia de ITS, según la **[Organización Mundial de la Salud.](https://www.who.int/es/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)?gad_source=1&gclid=CjwKCAjw9p24BhB_EiwA8ID5BvR1JLJ2eL547akMpt3tltZJfNmyInSXc-Mpuu8WUrUIWyMkry0ZaxoC69sQAvD_BwE "https://www.who.int/es/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)?gad_source=1&gclid=CjwKCAjw9p24BhB_EiwA8ID5BvR1JLJ2eL547akMpt3tltZJfNmyInSXc-Mpuu8WUrUIWyMkry0ZaxoC69sQAvD_BwE")** Cuatro de estas enfermedades tienen cura: sífilis, gonorrea, clamidiosis y tricomoniasis). Las otras cuatro son por virus: hepatitis B, herpes simple, virus de la inmunodeficiencia humana (VIH) y el virus del papiloma humano (HPV).
-
-Mayor tasa de incidencia de ITS en la Amazonía
-----------------------------------------------
-
-En 2019, antes de la pandemia por covid, la tasa de incidencia nacional era de **ocho por cada 10 mil** **habitantes**. Cuatro años después, 2023, esta tasa subió a **11,7**. 
-
-Si se analiza a escala provincial, el **Ministerio de Salud Pública (MSP)** registra que **13** de las **24** provincias se ubican por encima de la media en 2023 (ver cuadro interactivo).
-
-Las provincias que más preocupan son las amazónicas. **Napo**\-que está a la cabeza- duplicó su tasa, al pasar  de 18 a 40,2 casos por cada 10 mil habitantes. Morona Santiago, que tenía la tasa más baja: 7,8 también muestra un aumento significativo al duplicar a 18,4. 
-
-**Zamora Chinchipe** aumentó de 23,8 a 34,5.  Una situación similar ocurre en Sucumbíos (24,5 – 32,4).  
-
-Algunas provincias de la Costa (**Esmeraldas**) y Sierra (**Carchi y Tungurahua**) muestran aumentos, aunque en menor medida, y hay casos aislados de disminución o constancia en **Pastaza y Santo Domingo**.
-
-¿Qué factores socioeconómicos contribuyen a las disparidades provinciales en las tasas de ITS?
-----------------------------------------------------------------------------------------------
-
-Los factores socioeconómicos, como la pobreza y la desigualdad, limitan el acceso a servicios de salud y educación sexual, dejando a muchas personas sin recursos para prevenir o tratar las ITS. En áreas rurales y comunidades marginadas, la falta de infraestructura y servicios de salud agrava la situación, especialmente en la población amazónica, donde las distancias a los centros de salud son grandes.
-
-En Napo, **76,6%** de hogares del **área rural** vive en condición de pobreza por necesidades básicas insatisfechas, mientras que **19%** está en **pobreza extrema**, según el último censo del INEC.
-
-La situación en la ruralidad de **Morona Santiago** es aún peor. El 81% no logra satisfacer lo básico, en tanto el 29% está en pobreza extrema.
-
-Las condiciones de vida precarias y el hacinamiento, además dificultan las prácticas sexuales seguras y favorecen la transmisión de ITS. Además, la estigmatización y discriminación asociadas a la pobreza desincentivan la búsqueda de atención médica.
-
-La desigualdad económica también fomenta el trabajo sexual en condiciones de riesgo, aumentando la vulnerabilidad a las ITS. Factores como el autocuidado, la automedicación, el nivel educativo y aspectos culturales contribuyen a esta problemática.
-
-Cambios en las prácticas sexuales
----------------------------------
-
-Los cambios en las prácticas sexuales han influido significativamente en el aumento de las ITS. Entre estos cambios se incluyen el aumento de parejas sexuales múltiples y la disminución en el uso de condones. Esto eleva el riesgo de transmisión. 
-
-Además, el uso de redes sociales y aplicaciones de citas ha facilitado encuentros sexuales con desconocidos, a menudo sin protección. 
-
-Las prácticas sexuales de alto riesgo, como sexo anal sin preservativo, y el consumo de alcohol y drogas promueven comportamientos de riesgo. 
-
-Paralelamente, un cambio en las normas sociales hacia una mayor permisividad sexual fomenta una mayor experimentación y comportamiento sexual de riesgo.
-
-Así como las desigualdades de género, el estigma, la discriminación hacia distintos grupos poblacionales. 
-
-Los factores demográficos
--------------------------
-
-Las áreas con alta densidad poblacional pueden facilitar la transmisión de ITS debido a un mayor contacto interpersonal. 
-
-La creciente movilidad humana, incluyendo la migración, también aumenta la vulnerabilidad a las ITS. 
-
-Por otra parte, las poblaciones más jóvenes tienden a tener mayores tasas de ITS. El inicio temprano en la vida sexual, sobre todo en la Costa y Amazonía. Se mantiene el inicio de  relaciones sexuales a los 10 años de edad, lo cual permite una mayor propagación de estas infecciones.
-
-El flujo constante de personas y las dinámicas asociadas al turismo y las actividades comerciales en destinos turísticos aumentan la incidencia de ITS. Galápagos, por ejemplo, muestra un aumento considerable entre 2019 y 2023.
-
-Las mujeres buscan más atención médica  
-----------------------------------------
-
-Entre 2019 y 2023 en Ecuador, los casos reportados de ITS, confirman que es predominantemente en mujeres (93%) que en hombres (7%). 
-
-Las tendencias de género en la incidencia de ITS en Ecuador muestran diferencias significativas. Las ITS más prevalentes en **hombres**: 
-
-* Papiloma Virus Humano (35,3%)
-* sífilis genital primaria (24,3%)
-* infecciones gonocócicas (gonorrea) (13,5%). 
-
-En **mujeres** destacan: 
-
-* enfermedad inflamatoria pélvica (47%)
-* Papiloma Virus Humano (25,49%) 
-* sífilis genital primaria (10,6%)
-
-El predominio en mujeres se debe a que demandan más servicios de salud, por el autocuidado de su salud. Por ende hay más diagnósticos y prescripción de tratamientos para ellas.
-
-Los hombres, en muchos casos son asintomáticos y en otros optan por la automedicación. También reciben la medicación, luego de que sus parejas acuden a los centros de salud. 
-
-Dentro de la vigilancia epidemiológica, no todos los casos de ITS son de notificación obligatoria. Entre los eventos principales que se vigilan en el Subsistema de Vigilancia Epidemiológica son casos de sífilis y gonorrea, ya que son ITS frecuentes con una incidencia considerable en la morbilidad y la mortalidad y con pocas opciones de tratamiento debido a la resistencia de su agente causal a los antimicrobianos.
-
-Grupos poblacionales de más riesgo
-----------------------------------
-
-* Jóvenes y adolescentes
-* Hombres que tienen sexo con hombres
-* Personas trans
-* Trabajadores/as sexuales
-* Personas que usan drogas intravenosas.
-* Personas privadas de la libertad (PPL)
-* Poblaciones migrantes
-* Comunidades indígenas y rurales
-
-La tasa de incidencia de Ecuador está en la media regional
-----------------------------------------------------------
-
-Ecuador se sitúa en el rango promedio de tasas de Infecciones de Transmisión Sexual (ITS) en la región, según los registros que maneja el MSP. Perú muestra variabilidad en sus tasas, destacando la sífilis y la gonorrea como las más diagnosticadas.
-
-Colombia reporta tasas similares, con ciudades como Bogotá que presentan cifras más elevadas; las ITS más comunes son el papilomavirus, la sífilis y la gonorrea. Brasil tiene una mayor incidencia de ITS, especialmente en ciudades grandes como São Paulo y Rio de Janeiro, con la sífilis, la gonorrea y el herpes genital como las más diagnosticadas.
-
-Chile mantiene tasas estables gracias a sus esfuerzos en prevención, con el papilomavirus, la sífilis y la gonorrea como las prevalentes. Argentina también se enfoca en la prevención y reporta cifras cercanas a las de Ecuador, con la sífilis, la gonorrea y el papilomavirus como las ITS más comunes. En general, la tasa de incidencia de ITS en Ecuador es comparable y se ubica en un rango intermedio respecto a sus vecinos.
-
-Independiente Juniors homenajeó al fallecido Roberto Cabezas
-============================================================
-
-Independiente Juniors ocupa el segundo lugar de la tabla de posiciones de la Liga Pro Serie B de Ecuador.
----------------------------------------------------------------------------------------------------------
-
-![Jugadores de Independiente Juniors en el homenaje a Roberto Cabezas.](https://www.elcomercio.com/wp-content/uploads/2024/10/homenaje_cabezas_1.jpg)
-
-**Independiente Juniors** rindió un sentido homenaje a Roberto Cabezas, jugador de los registros del club que falleció en las primeras horas del lunes 7 de octubre de 2024 en Quito.
-
-La causa del fallecimiento de Roberto Cabezas, formado en Independiente del Valle, **fue por un fatal siniestro de tránsito en la Autopista General Rumiñahui**, que une a las ciudades de Quito con Sangolquí, a la altura de la entrada a Conocoto.
-
-### Más noticias:
-
-* [Así está el estado de salud de Marco Angulo, jugador de Liga de Quito](https://www.elcomercio.com/deportes/futbol/asi-esta-estado-de-salud-marco-angulo-jugador-de-liga-de-quito.html "Así está el estado de salud de Marco Angulo, jugador de Liga de Quito")
-* [¿Qué es el coma inducido, la condición de Marco Angulo?](https://www.elcomercio.com/deportes/futbol/que-es-coma-inducido-condicion-de-marco-angulo.html "¿Qué es el coma inducido, la condición de Marco Angulo?")
-* [¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-eliminatorias-uruguay.html "¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?")
-
-Cabezas y Víctor Charcopa fallecieron, mientas que **Marco Angulo, jugador de Liga de Quito**, sigue hospitalizado con pronóstico reservado en el Hospital Eugenio Espejo.
-
-Uno de los homenajes vino de parte de sus compañeros de **Independiente Juniors en el partido de la fecha 33** de la Liga Pro Serie B, que los enfrentó a Vargas Torres de Esmeraldas en el estadio de Independiente del Valle.
-
-“**Siempre con nosotros, amigo**” fue la leyenda inscrita en una camiseta blanca con la imagen de Cabezas que llevaron sus compañeros al momento de saltar a la cancha.
-
-Antes de iniciar el encuentro se dio un minuto de silencio en memoria del deportistas que jugada como defensa.
-
-Además, **se sumó una pancarta, la camiseta con el número 20** y una gigantografía.
-
-Pero el momento más emotivo estuvo a cargo de **Milton Cagua, capitán de Independiente Juniors**, al anotar el 1-0 a los tres minutos de iniciado el compromiso.
-
-El remate de Cagua fue desde fuera del área y **contó con la complicidad del portero Kenneth Perea**, que no pudo controlar el balón y se le escurrió entre sus manos antes de ir a parar al fondo de su arco.
-
-Cagua se hincó y lloró al momento del festejo y se lo dedicó a Cabezas. El resto de jugadores de Independiente lo abrazaron.
-
-El encuentro **terminó 2-0 y complicó a los esmeraldeños** en su lucha por no descender a la segunda categoría.
-
-> 🤩🙌 ¡UN GOL MUY ESPECIAL PARA EL CAPITÁN! 🫡  
->   
-> 📲 Al minuto 3, Milton Cagua pone el 1-0 a favor de [@INDJRS\_EC](https://twitter.com/INDJRS_EC?ref_src=twsrc%5Etfw) y se lo dedica a Roberto Cabezas.[#LigaProEcuabetxECDF](https://twitter.com/hashtag/LigaProEcuabetxECDF?src=hash&ref_src=twsrc%5Etfw) 📲 [https://t.co/seIKKJcWb1](https://t.co/seIKKJcWb1) [pic.twitter.com/XPfn9OI5mG](https://t.co/XPfn9OI5mG)
-> 
-> — ®El Canal del Fútbol 🇪🇨⚽ (@ElCanalDFutbol) [October 11, 2024](https://twitter.com/ElCanalDFutbol/status/1844839918406603242?ref_src=twsrc%5Etfw)
-
-¿Quién fue Roberto Cabezas?
----------------------------
-
-Nació en Quinindé el 7 de octubre de 2002 y, cuando se produjo el suceso, cumplía 22 años. Se desempeñaba como lateral izquierdo y había realizado sus formativas en **Independiente del Valle**, club en el que militaba en su filial: **Independiente Juniors.**
-
-Con la escuadra que milita en la **Serie B** disputó tan solo un juego durante la temporada 2024. Su único partido fue ante **Chacaritas**, donde participó 18 minutos tras ingresar desde el banco.
-
-A nivel juvenil, Cabezas también sumó experiencia con la **Selección de Ecuador Sub-17**. En ella fue donde tuvo mayor regularidad y disputó el Mundial juvenil y el Sudamericano de 2019, de manera que llegó a acumular 13 partidos.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/homenaje_cabezas_2-1024x683.jpg)
-
-Foto: API.
-
-**Roberto Cabezas** había destacado a nivel juvenil con Independiente del Valle y, en aquella etapa, era una de sus promesas a largo plazo. Pese a ello, el futbolista **no llegó a debutar con el primer equipo** de los de Sangolquí.
-
-Los mayores éxitos de Cabezas también se produjeron a nivel formativo. El lateral izquierdo había formado parte del equipo campeón de la **Copa Libertadores Sub-20** durante el 2020, en el cual estuvieron jugadores ya consolidados a nivel absoluto[.](https://en.wikipedia.org/wiki/Independiente_del_Valle "https://en.wikipedia.org/wiki/Independiente_del_Valle")
-
-En aquel torneo continental, el fallecido futbolista compartió camerino con **Moisés Caicedo**, uno de los capitanes de la Selección de Ecuador y el Chelsea, y **Piero Hincapié**, destacado central de la Tri y del Bayer Leverkusen de Alemania.
-
-Dicho plantel también estaba conformado por Marco Angulo, quien se encontraba con él en el siniestro.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/homenaje_cabezas_3-1024x683.jpg)
-
-Foto: API.
 
 No te pierdas – El Confesionario
 --------------------------------
