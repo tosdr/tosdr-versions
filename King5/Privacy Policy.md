@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/361f3446-ad21-4131-8dda-666a10216056/20241012T145728/361f3446-ad21-4131-8dda-666a10216056_16x9.jpg) ![](https://media.king5.com/assets/KING/images/361f3446-ad21-4131-8dda-666a10216056/20241012T145728/361f3446-ad21-4131-8dda-666a10216056_360x203.jpg)](https://www.king5.com/article/news/local/pets-and-animals/seattle-area-feline-rescue-launches-emergency-fundraiser-continue-life-saving-care/281-e2f4908d-8b36-4cf5-833e-83610c965aa0)
+    *  [![](https://media.king5.com/assets/KING/images/28f06813-9a26-49af-9fba-7055a5ab4584/20241010T062254/28f06813-9a26-49af-9fba-7055a5ab4584_16x9.jpg) ![](https://media.king5.com/assets/KING/images/28f06813-9a26-49af-9fba-7055a5ab4584/20241010T062254/28f06813-9a26-49af-9fba-7055a5ab4584_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-strike-enters-second-month-costs-company-more-1-billion/281-3c4b29bc-5e8d-486a-973e-5d4bc9d703de)
         
-        #### [Seattle Area Feline Rescue launches emergency fundraiser to continue life-saving care](https://www.king5.com/article/news/local/pets-and-animals/seattle-area-feline-rescue-launches-emergency-fundraiser-continue-life-saving-care/281-e2f4908d-8b36-4cf5-833e-83610c965aa0)
+        #### [Boeing strike enters second month, costs company more than $1 billion](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-strike-enters-second-month-costs-company-more-1-billion/281-3c4b29bc-5e8d-486a-973e-5d4bc9d703de)
         
-    *  [![](https://media.king5.com/assets/KING/images/ddf5b4b5-a548-4f46-8328-9666d0761b88/ddf5b4b5-a548-4f46-8328-9666d0761b88_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ddf5b4b5-a548-4f46-8328-9666d0761b88/ddf5b4b5-a548-4f46-8328-9666d0761b88_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattles-street-paid-parking-fall-rates-begin-tuesday/281-e74a9d12-3b6f-4505-a799-039ef76d02eb)
+    *  [![](https://media.king5.com/assets/KING/images/a6622b55-b24d-4fdb-a915-9499ea865ea0/20241014T045554/a6622b55-b24d-4fdb-a915-9499ea865ea0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a6622b55-b24d-4fdb-a915-9499ea865ea0/20241014T045554/a6622b55-b24d-4fdb-a915-9499ea865ea0_360x203.jpg)](https://www.king5.com/article/news/local/king-county-sheriffs-office-investigating-explosion-burien/281-5400ed88-dbd1-41ee-ad3e-a3848c7a6cfc)
         
-        #### [Seattle's on-street paid parking fall rates begin Tuesday. Here's what you need to know](https://www.king5.com/article/news/local/seattle/seattles-street-paid-parking-fall-rates-begin-tuesday/281-e74a9d12-3b6f-4505-a799-039ef76d02eb)
+        #### [King County Sheriff's Office investigating explosion in Burien](https://www.king5.com/article/news/local/king-county-sheriffs-office-investigating-explosion-burien/281-5400ed88-dbd1-41ee-ad3e-a3848c7a6cfc)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/bb51c451-be8e-4b8b-ac46-5aac38c584d9/20241014T052207/bb51c451-be8e-4b8b-ac46-5aac38c584d9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bb51c451-be8e-4b8b-ac46-5aac38c584d9/20241014T052207/bb51c451-be8e-4b8b-ac46-5aac38c584d9_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/KREM/images/dc999ffa-a85c-4340-baf4-96b66798d844/20241011T184543/dc999ffa-a85c-4340-baf4-96b66798d844_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/dc999ffa-a85c-4340-baf4-96b66798d844/20241011T184543/dc999ffa-a85c-4340-baf4-96b66798d844_360x203.jpg)](https://www.king5.com/article/tech/science/environment/earthquake-risk-northwest/293-b6cc829c-20a1-4c6c-a66f-705ea955053b)
         
         #### [Understanding our earthquake risk in the northwest](https://www.king5.com/article/tech/science/environment/earthquake-risk-northwest/293-b6cc829c-20a1-4c6c-a66f-705ea955053b)
-        
-    *  [![](https://media.king5.com/assets/KING/images/e67039ac-e9c4-49d1-8263-579bd3d5e466/20241013T151532/e67039ac-e9c4-49d1-8263-579bd3d5e466_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e67039ac-e9c4-49d1-8263-579bd3d5e466/20241013T151532/e67039ac-e9c4-49d1-8263-579bd3d5e466_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-63°
+57°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
