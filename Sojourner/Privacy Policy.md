@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-19ce0339a3c23e74ea5e6731b8b41879
+de60fd5d071a6074b15db9a37ac4a77c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Candle No 3 (grapefruit)](https://www.sojourner.biz/images/cache/soaps/SS010_CandleNo3_grandebougie3.200.webp)](https://www.sojourner.biz/candle-no-3-grapefruit.html "Candle No 3 (grapefruit)")
+[![Transparent forest green indented square beads](https://www.sojourner.biz/images/cache/glass/VB0020.200.jpg)](https://www.sojourner.biz/beads/glass/transparent-forest-green-indented-square-beads.html "Transparent forest green indented square beads")
 
-#### [Candle No 3 (grapefruit)](https://www.sojourner.biz/candle-no-3-grapefruit.html "Candle No 3 (grapefruit)")
+#### [Transparent forest green indented square beads](https://www.sojourner.biz/beads/glass/transparent-forest-green-indented-square-beads.html "Transparent forest green indented square beads")
 
-$29.00
+$6.00
 
 ### Best Sellers
 
