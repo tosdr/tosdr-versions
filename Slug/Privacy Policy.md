@@ -5,12 +5,11 @@
 * [Post](https://slug.com/share/post)
 * [Browse](https://slug.com/discuss)
     
-    [Posts](https://slug.com/discuss)[Members](https://slug.com/members)[Groups](https://slug.com/groups)[Magazine](https://slug.com/magazine)[Polls](https://slug.com/discuss/polls)
+    [Posts](https://slug.com/discuss)
     
-* [Groups](https://slug.com/groups)
 * [Learn](https://slug.com/about)
     
-    [About Us](https://slug.com/about) [FAQ](https://slug.com/faq) [Coins & Rewards](https://slug.com/coins) [Contact](https://slug.com/contact) [Promote Us](https://slug.com/promote)
+    [About Us](https://slug.com/about) [FAQ](https://slug.com/faq) [Contact](https://slug.com/contact)
     
 
 * Log into your Slug.com account
@@ -78,7 +77,6 @@ The terms applicable to the Email This Profile to a Friend or Invite Friends ser
 * [About](https://slug.com/about)
 * [Terms](https://slug.com/terms)
 * [Privacy](https://slug.com/privacy)
-* [Promote](https://slug.com/promote)
 * [Contact](https://slug.com/contact)
 * [FAQ](https://slug.com/faq)
 
