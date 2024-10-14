@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Aero Fighters](https://www.myabandonware.com/game/aero-fighters-b9z)
-* [Action Fighter](https://www.myabandonware.com/game/action-fighter-ku)
-* [Alpha Mission](https://www.myabandonware.com/game/alpha-mission-9vq)
-* [Alien Syndrome](https://www.myabandonware.com/game/alien-syndrome-l2)
-* [Ashita no Joe Densetsu](https://www.myabandonware.com/game/ashita-no-joe-densetsu-jxn)
+* [Cajun Video Poker](https://www.myabandonware.com/game/cajun-video-poker-stk)
+* [Cadillac Impressions](https://www.myabandonware.com/game/cadillac-impressions-stj)
+* [Brix](https://www.myabandonware.com/game/brix-sti)
+* [Blackjack](https://www.myabandonware.com/game/blackjack-sth)
+* [Backgammon](https://www.myabandonware.com/game/backgammon-stg)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Kōtetsu Reiiki Steeldom](https://www.myabandonware.com/game/kotetsu-reiiki-steeldom-n8g)
-* [The Bradley Trainer](https://www.myabandonware.com/game/the-bradley-trainer-rk7)
-* [Big Buck Hunter 2006: Call of the Wild](https://www.myabandonware.com/game/big-buck-hunter-2006-call-of-the-wild-sjb)
+* [Backgammon](https://www.myabandonware.com/game/backgammon-oq5)
+* [Road's Edge](https://www.myabandonware.com/game/road-s-edge-snv)
+* [Quarterback Attack](https://www.myabandonware.com/game/quarterback-attack-n79)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
