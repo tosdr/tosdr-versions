@@ -205,7 +205,7 @@ If you have questions or concerns about this Policy, please contact Network18 at
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Oct 14, 2024
+Oct 15, 2024
 
 [View All](https://www.news18.com/short-news/)
 
