@@ -1,1 +1,486 @@
-�\*{#V�2#I��PG�?��8��:�4�>g=c�6��(����jG���ƞ\[�����膻���A�l��F��v�L����}�b�v;tB Hމ�啖l�J�8�ؒGV�Z�e���~w�,T��}V�m��b�#�E!@���\*b$ �J�<�LI���oZ�dkl.�\\����Ȟs� ���w7�vd� d\`\`ȹ���w�m\`8;Mr ��Ւ#Grg$�!e�٭G�� �C9����M"�W�I�H��h��3�T1j:L��R�S��'Q�M��ג�+�2 ������Dl��F�VE�wc�\_v���N�{�� ܌�4@�C�9$�&�7i�/n��q��DkÅBGf&�D 7��%��s���CpݣP\[�@u#�!��&�V!MD}�t��'������"Y��"\*�LV��WU��'h���W\`��x��y̱��8�xJ�������Lw{�{r\[���d�m��5A�E�c'������gx9��~�41�͠�#嶞���/>\_�^���r� :D���\_�|E���2��M¼��L~!�7'ى��1�W��.��\_\_���������C�s��Rg��V�V�ӏ���{��X u�P7��(b\\���<�?s�����.P��F�6 �}�����,��^�p/�^!o{V�.�Ce��t����>\[~ڣ�e!�l�I��rU�껭���<��T��������=���/<��Y7����P�?�!��k��#����P֡b�P�w���؀y����ظc���������US�ViQ�q'�t\]��-۠��6"�Ӯ=�=�I�E�YZ5�z\]�1Y��f�$���j&�p����e8��0|n�$�D�{A�F��V���7� F�uu��2�,z�z��� �h1\`\\����h�O�}�YQڤ՚M�f�\*�Ӳ�fI� �+�Os�޺��?H���;���� �M��&-U8 �����k7֠+Qe,Ѧ��%�N}y��R�|�x�Ὴ��C��{��@f��Opd�6�"ş @%�1\`Z#\`�S�u�ΰ�KF�2�:M��o��b�H���.AZ�w������pw��=�v3�Y��̢�pM�/�\\隌��q�4�I���I9��ts����6z���kp����@)A7�V��A\[���, �� ���׉�%p�-,j�0,T j�3a�-�\\?�p/�=���BCK�\`.��, }�/�I8ќ6��ε!���zm&\_�aa�+�"l8�=�f{4@j/�\[�\]���)�IJ��X��P�| O�\[x����RK1?���laN �p2j�躧c)�b͗�%�Dc�x��9��>�������W�;�f��'O��PN����=͏b��l'v��G��8���Ij���$o����۟�z�Fu��A�<����{H�}�-o���͸v�F�m���m����k\[�{�6ة^E�x{���ν���9t;B�\_����ɾT{o�#�Y���m�K�ؐ�Ŝ��oV��F�jO�ډ�j�B�����ˣZ�{o0:A���p�Zo���#����4K\\Ϩ��:Y�\_�ۃ"�m�k�!�\*o���V���� F7B�P��L5�5�V6�P�D��^�N7�������FX�k|A�G�/�/N춐��>��k��v��0�����F��-�s�E�^i���u��N���n��d�߽ݕ�7����W���QG�8��}�>H��GW~����>���8R"�ΏG�����t����.&��=)�1չ�s0�/K��L{4���{������N�N��������\]q \[��dsxsx���v�@��s�wޅ}9��0������p8�������#H���s���$��gӄy�,�|h�G�/Ky>����c>�\*��Ge UBP i}�n����F�.��8�^X+���QXCX~脣���E��'Vk>�� )��I�v.�cߣ��΍w��i<<���� G����>��'��4h(:�u$�����f?͠Hi����85���������F � �1)iIȏ��������+8)��aK𔬠4d�ьwԾ�� ���O����V���͢�\`)��٪ῂ�������r3H Z�/F;����޻��\[<�G\_�i(�q=��m�-�鑈W�PB�!�.0熼ԣz���@c��ԮVZ����|��{ۖqoç�=�ϴ��R��ꆮ����W\[�~���cG��N��#���/��,$鉬����0����빟��6��S�<�����v��Ԧ��t�e���>/c�4��tz�5��.C�j'�����~\_���Z�x��C�6^Z?/���+�>j�gs�px��}�bG@���-/��S:��c�aR�MY�e1�N�M/m�������3t��%����<��>�Kیx<�/�H��n�iܞa��i?�v�oS��huws}y=��y�� dwY�b���C�S�)��pCW�׃�����q^�5���z�Ê���;��������v�����F�ud�� 5�u>�U�m����8/���Ԩ'$l��'>�S��<8�<�yܟ��������u�8���rlC�^۲NSG�}\[���-��t�l���ObJL���iG��ݑ:�ِ�>'�� I3�pBv���p%-��FZ3(i�)Wh$�H�UH+Rb ș�"���-i��g�ZX�4��� B\*��bp#��b�N� J����E"E63\*iBC��r�� Y- ���¢p�\[� ���sB����+i�^j!u�Ē�卨�d�B���a Hj�Fł�∅b�V��):��(�\\�G������!B� 'T�^ِIQ� � �� CL��� \*!�F��;R�g������qAҀ(\\�N����'��s�� ;Ɲ{悐ID9�I �r�y��FvTq�A�3�<��Z��#)Fa��Eq�xԩ(�j�� �.1����x��KE�h$ I�O�tG)B�"tKf(?x~�b�",= +J���Gb0���\_�0#e2A�K���7�8�tG��@�$.��� H�U$���e"��Ġ���A�/\\�������\`J�SHe�'����r�'8�$�?�0'v�|�R8#�u�9#�5QV��J���\_�B�\]�㏮��.�f\\��3J%/��X�\[S�3����߇\`���<�+�\_\`M�T�\`����/�6��\\��1���ע�drA5.P!����V9C�<�g�H���)U��0$틩@2��\_ʨ�4R�(�J:\\U��nՈ���\`��������q���6u��$%�D)I�3CqJ��Ay�J������2W�̬�\\Q2��4srs0���je���L9!%�Z�<�0N+�U6�BΣ��T�V$��r@�l��#���K�W�׃̗�B�k�P"�h ���^jy7� $��2�JdN&�j��Ԗ!K��Ni��c�4�.=��mkL�\`�><��}�o����UB����g����/�j�q~�����p86pH��D�\[���;��G��n7��Ƀqg�7ٰ(�.�v~�����׹��z}�@�����:S$�����6\_ۦ'>.c�0I~�c}�G�{�z�l�zI��zYXx��H���}V�fN�5/���a��xv~�+m��N�Gew22B�?T�Q��s�C����'��6�U;���!�����gN�������3�Bbǁa=k��Vd١ω&�1�d�Y�ܘ>\]�G밀s�B&�����������WE�8^b�k;I����gRyJ��4�y� ·WR�\*��'��8O{̀��6�oI��ޘ� oB���m�eD/� ���m �,�� c�6S~A\`���v�N�)�iY�W띮-�}��k��c0U ��c�KC���u�So��t>Q ��n�Pۍ����8���L'w,"�6ju�!�FIR�q�VqZV�+CFRNN�{O<�WG���}�pԋ��r=�6�u������Xė���n���纅3�}C��c�nDܻ-x�4�Od�R�h�P���\\E���!P�SpWu�c�V�ˠȪ:���㢌3�R�$���b��b\_�xIP��\]�Tk�\*�%�n\*҃l��,�޻�A7 �����~m�� �B'�����C+�L�"��t���nk��>�)��i�+L��ZD��튕�;'4 zm(�Ƀ�\_etN�\`��B(���y^Z%���0������I���>���Ï���\]�h��?o%7�����^\_�m\`i� ��ߧ'�ޠ5bx:O�"m T� ���<2:N-�����<�ϵc�;�î^�N�r��W�� ��?9�p6�qfe�h��R��@LF\[Ɔ��bJ�.,���s&���^�s3 U T{�� wMߛ)�Z�\`w/���k�m'� �G���v��w�nE?�����)j rH�K�mF<��Cs ^%q�J�v�F\`��$��.���Ɉ>�Ji�鑄�^�c{��.q��v�n�� ���ΈV�"�%/���'�)�y�Z�M��J�^�q��,��fu��ii�\]���~��ܥ��������P�c4�����:��<\\���qW���s����ow<������K>��Dj�v�^7�:�n�����ڶ��!p��"uϤG����y,��C��u��^X�ā���ӆ�b۱ݫGN�0'%{h��Y����eK8E�pi�#fd��Q��\[�ק�W�n:r�1�da�M�Y���� ,��1�GFKƇ\]�\*y�ǯU8-����1 RU��tl��\\����LB����r-%�UBƩ���Β�9��%��awӑG���sFԲ��x!��^㑎:�DS�#���PQ�{o��q!�X/a��y}zy�n�̆:��Bؼ�����" B�L�?S>\\�C�� �����A�>$q�T�)���x��qm�������ql���F����K��4�\*\`��dD= �������,k2J�,ɲ4O�H��Ȋ��I���\*3��e�-����hQ���z�5�\*�ʪ\*�jU�eV����\*�� y�>���7���&Y�G���1�#b�6�.\`1~�{yht��������E5 ��6�æ�9ᑫ3���j�KG��� �o>�c��=����U��>�$woN�q��3�e��N�Y�v���@t%a�\`�!\]���e(� ���So�%EN0zR��Dm����6\`uI���L�n������׿�+͠@� \`��Bn���w��LKI�N�jr3�,����cB��'4�z��0@Ԕ�R��E$ԨG+'=~��\[3���l��n\\I��{�xL0�dT#��M���s�y:t%���j\]�v��Qv�ն�>�5��@������ ����Q�\*8 �M����˖����b7�>�@j�~F�-X�0����lw<�~qz�\_�:2b���o0:T��� \`Ba:>B����p,�5�����ēR�6\]�.n����=�P)��#E�7)�G�d�펥���GHӀE��9��x�FKFaO�:mIA=�\[���� �N��C)'�'-,�'�Q��W�k\\c '�����)� ߮�t'H����Pש�V��j�^G��.ݗB"����aw6�&a:�K{��&J/�ހ��V"�~�ˤ�ÊW�Bv�����aٯ�����&��;�V���6��قd�z�\\'����տ��$���d�s9p��2��E�� �\[4�1|�Թ�����<���s�ʽI�P�8�� l\_������+�����D\\ xܥ�<�J\_U�����A{�A<����6Ss\*��~��=��u:͔�����)���.�Yl�>�)�̜v���r����y�/�|�4֒a��Y�:d���Bz���b&q�@�HM9<��QjqF���K�QJK(��Q�v|zXZ��>�$\*��~�>p����T���n�~S2���0�I%�9g�H��7�7�{���鐀5�V�E���}�rc�jK��v�1t04:�^Ũ�cJ��\[8�8>�ւ۰�\_��vhUƚ& u����nx�~�İ3�2��޴ϵ� �|\\�z���4��p�nu�vX�������GG͛V�2-#2邼�Z��+>�� �d:X��z�dl)A�5�� �rJW33\*�v��<��k�� ����g��\\9/?��}&�4�5�әZ��zAhi����p�� �� 껀�V�Al��k����vf��N�d��62�Z,G��WA������G������\*)��i�a!im2Ş��R��X�$G����ɫkYP�ǻ�D/7��.��}���4On��3��G �����a-=)%��,r\`k#q�ߑ��}M���p��d/�9Z��E��\`��a5�ܛ�XX��mQЧo�+8��j�F2ܑahX\\Q���E� ���m?8b!,k�UJک��Q �@��ix����,�#���/��m;@�-6�E�E);9��!��â1���!쏪��6��@̂< Jl�7��F�\[h.a���hcAԉ�pQ�K������I\[>H�}���0?��Ʒ~��0�^K�\`�㢿sE-�w����c,��'-6 6���r����� ���IGƴ��Zt�a&(�}A�7Bb�l�B<�A�q� ��M�#E��{������1꥘{I�bØYcqu�}����̚��WM1)�\]�۴��5м1cߜfa���%הd�F��<�w���U��\\:�����{#���\`��W}��I;�; GU�PAm0��=O�bIL�\`maW��{����ഏ�J�P� �j�F=�tqR�õY/)XF��W\\�b;�ro�����:hg�\\9�oš�+7��@�l�ɏ�����L�1ǀ2�^T����O:��$�. F�5D�����^l�2� O���&II��KNrĵ����1�U:�+\*U���\\�K��<��4�:��׾����}���\_1�s�u�{�\]�=8\\,^�����.U����/��Em0-��H&�pU���������P0l���#9&Z��#fIrwr�FƐ=֕����0�P����q�?���z�a�T�o�BÕADR/4���bQ1B'vNL��d��G͚���7��\_sI�ʂ�Հp�Qa�G���p;ni/^2�PGmZf���@��� m���>�X@�bd���eI�(������J�\[�L��(%��K�M�Z3��X�M-2C9�4\]i�z@'���2s��z+l�"W\`�ڀY��)����8,�tߜ5>e��uN�t)� ���и\_�(�v��T � +6� w"�<&�u�i�{����'�5�2-vu���d��Za���%�k����<��2sO�q����<�+tv��WKXg>À�2��fq������Ξ�,奃&�Ѝ!��z^�xs�k$���P^�Bߊ$I�E�7�Њ�p��%��p��ἃ�������h �r�a���Y^�i����Z ��R�w�,�W���xd,��MI��S��<�0�G�>JG�Q�vͻKrP��Ȥ��/j���報�3kjO��s��{�BX�M.���\`��!t�g��m�^@ӠAg����qj��V�� -x .�T�#.�g�#i�t���J����x�!+���>D��"������ 9���� \]��HD⪉�� S�D�\]T!�TZ\\����مP>��|������Ǫ�����ama���ca�t�����O�?�������|���c�\*�)K�3�o�ͣ�}b��k�S�a��\`���\]{��hB���j����������0�T2\_�F�ǃ\\t���(����z�Ďrľ��O��g.6�l����MDr�Q�m.\`�Vwz�sء�e M\[�1bKl��f Ͳ�B����$��C�V�ޤ�9l���Q�k�i���Oh�Ї�#ël����uI�<�$\`��KM�bb�g��%�=M��n�w��4�xt�k�~����)N�B�Fwe�"6Q,x��$�6�G�|����Jd��޷�{Ҏ8\_�F��1|������}��E6�B���0id�S���:\*6mOz���i���q�b�;��ݼa�9��N�����m�~�����u+\[�H+�I��3��H{d�5�Fx�ꯨ�B��!��K�����Y��DD�}��\]7�� >}@�&V�^ΰּߣ�� \]rTN�\['־0q�+���M ������!H�x���W���&�,��Y�H;\\l�H��\[��J.!\*���������DЃi��T��j�X@�ڦ�p�)@�w���R�A�I!����}�M�����Lv}YF�w���N�cg�\*�Ln^���3��9�/8��ٳ�ˠe��,D)\_�kRືd?n\]��g��֛0�����x�Is�'W�������I�8����t(m����Lf!�.�>l�Tu�d3�d��?�d�8�3S& ��p��x�h|����N�98�$�f���T�aY��-L m�'P��7�>���T�:��d~�T���X��Π�Q��l$�;���s��,?>J;bm�9����2��.��cZ@�e laj��@�뤳�^Ҟj=��d�Բ�/�\*|D��0HT��c�b���{\[VE���7���O ~ �K�ЉJnnK̖Z&���-�yK5�ELc�� \[;\]�:K� �iP;��zDUI��x\_��FNk�5{݅hmm��!h"DRnW����gD��( u���C����h8X<��A}k�s�g��Ȣ���|\[f�"$cz\\�y�:iV�)�r��j'!����S��ÿE�\]�Bb��������P���p���B@���(��TE��᲍���3\]UPh�?����RK����y֟�s�)pg�d�zi����;�@X/��NxSH���e"���csx����>o�����l��?2Q0幃D��q��f����d�d�ܙ�1����.vM��⤟٭ݜM�3h��P �\`��o%�W.����2�;B����A�2�MF��k�1g@5���1���P�댹%Tw \_�$�� ӑ�s�yX ���I�Fr�:��� )���ђܲcx�nM�?��H=u�\*��wc�{�~�m�J��ί����κh��C-��!�����)\_�qo� �@Y�?���!��G�P���NIU ख़��ǯ~T<.c���� ���5M�lb�����'�����E/�H�ЯrgӶm|��:\]�jG&ar�s7�"���� �.<�H=-�U��\_�kM\[�� �\`iS���2̵l����\_deAd�����4i�f�an�B�㥟v����.�Mu9F��ͳ�d���ޕS�w���$v��{�Z�ݏl'�����\\ȃH��6Q�y�̍�h�\_��i8��� k\\qs��u�,��� ���乚0{" �\\)޶�ѩ6�\*>(J!;�V���&=0V�����&�hdHYu�bhpJ{I�ޖ����\[٩�#�Y��$��'<��v�ų�|H|�� n��Ѻ�\*�����A��$�h;ʬ���~��\\O�D�d�!&�\_�|��\_�f�Ȟ>�3r&����NM���l��3.��� ����I�⛗�z� �bq\\�d�J\_�8ċ^�F��u��t�Y4YY}���� U�6ޔ��&��KcOUQ���3�{���{�by�>��"�t���ز|�fE�+��sכZ���0 ?\_ǎ�����Ԍ�\\��/? <�\`���r�@�����蠅͏�����2��@�.��Zz��R}5����X\\����ɶ��{��Z&f(��'ܣ��}�"�5����@���̯� ��n����5��� Ycَ�yMڵ:S}\*܄2�����S�9�y����4����(%������#����ï�}�d��1w ��#5l��G����:����w� r3�\]�T�V���,X��54��Z��D��B���%�\\��E��,TYtN��7b� Չx̼�5 ��5��.�&�%i�@8��涏�jW�¦���5��!�8r��(A�S��WK#@�,\\�{b-�0JH=Fd.�͘ņI�P�r�o�-�q���.��jЗ���y�$�k�9���\`ۮ:f� O|�� q��\\O6<=9���+њ��Wp���xc�5\*g��r=�Y�D9�L���?�D�x��8���G�0{���O�q'�l�r��T�����������r�IRě�\*�:I2h#�)�ԅ+$��ᚌ��=�����TaŁ��G5�UCMTRջ�$^����+����淝d$^a�n�בaa���Tj.&A�u�Á\`O�FO��$e��̔�)ݖ����RX�dZ����8:S�O�a�(�(։��/���տͰ|���a 4��\*R�6�\_&������ J-\[��4Kk�$hi&�B┵�\[W��$����s��݊�~�x�2 .E���̩kɨۇ"����?�����&\[VO�W�Lo�ٵ��1=�y�N�<��4'�Y�d����~#g�Du���v'g�kv��P��:\]�1�.QY܍\]g�޺��(��0���\*- ߏ������b\]e?7E�z���,�4��K��ˊ�\[4�|�N�!;aB\_�B0K%%�5�y&�����g�IbB�����\[)�.�ڧ'�C�>?�����٫nX�8W�Fc�Sir����bX�=�m#�2�"����ƀg��f�9P��i�w�m##�"���)w �.|��B͖{y���d�aO4��{DC� f��j|�)d�C��C\`J�'z�l2�����\]�Z�=�gmM�dz�P�/�����RQ��h����ĩ�Ɂ�Kk�gp��$Lj�����f�F�v���\]��<��%�4��U�Št\\�G� ��z�>�2ix�e!M��z#���%��y,Jv��V.�f����R;�;\\�i\[���s �ꩈ���Ҥ|{�O����(��s.?��X{���5� �hQ+��p��Ku�"��y/� af%'�)�9�E� q��;��=���e�������D��%)�T�����k�52\[XE�L�%���.dcȖ�׉d��W�{� y\]/fS �EG2��V�J�ǭ�ea\*���'�8=�a��\]>0"�G8�麳�Ϻ�\_���?S+�j���(�7� <�� ���,~o�K�^w\[�\\���%\_����� )1v�w5 �������ǆ��;�>�s���������0&"Q��e�S�#�Iln\_������m��cֱ96�/Y g/V\_%�9�!ь��$��>��FM�I��|�$\]�4�jE����zmj�enZ�\`>tEtx-A� Bt5�y�b��^���m5�(�(�x~b���VJ�Q�>/�hͪ�٫.�;S�S}lf:�M�u$��#�C����b��n���5��rs\*\`1�.M���+��4!��汞l�Yk\\���g�xY9'�͑0;۸�+�֩m�p�����:��3���uo������i��X)����1���0Z�ɪ2��Zm7���t@ k�I��tw��3G��L{�pp���mZ�|&ZZ���d,�4����U-v� ��ݵ��s,�R��BQ��Ƃ� %�PGE�)��^�9�e�ڿ��|,\*B�l#�Wa~I���O"%��=;��3x�a���qJ����4�2��}��&M�5�S�������N6d;����ŏ���V�>�>��q��-������4������?��,I�vK�\_?�-����yq:����G��pԴx�0U�>4�� �KX��t�W�A�)Xtޢ������QXMUC��3�f�\`���T\]w/�� �8GcM�^aK�ph\]41� 智qd�"M�TD$�۶����֭s ��F�LV�e��" 6����D����%J��ʥ�\* {����b����\[�lƌJ�>�$������o��m8�7\_�H��Q����k1,��W�6�4�A�5~=���y�?ॖ������9X��E�<�٦KV�� тC��c�A�r����n\]%Q?R \[��γY�W��l����v��2�F�$ �M�ъ�'�K00��u�W8ߪ�ߡ����FxP�Qb�W��C���I����k�m��fuKF?�\`���\]��:�x�=T�m>nq���� ����!�~���o���}Q�&�?U����8�g��=���X�5PZ��fQ?��+��a�|�4�u\` �Q2���b�IHQ�\[)�����������-z����\\�z��׏�Є6�Rm�P$W���1�{��czg��\[�3�s��d�a��r��\` �|G�d�(LG4���c�����7�\_�~\*��|�Wm�����j�m}��}-yMk�u���?No��r}9��V��@9�i��o�ǓS-���D�TJ��e�Fs ��\\�� %��i���R@��p�89w��dz1M�5�FGdZRvF��$ X��o�(�!a��F<\\I��c���{k�O-L{��K-M�LL��|�mP$+�(>�B����U� (�����T}��O\*��7I5.�zK�S���k��l\[=\`��$��2���U�az��t|h���%^EACgeV|���� ���y)F�VBa5<� �c����Rs$����h���{�i:�d�f��%����?�w�@䶺�9�1\\�=k�!-�=)ڦ�����Ӈ��;y>��?I|z���;��޹���ރ޽o}���w�Y��-��/���:K����\['o�|g&>=���J�7�/�̲����q�O���M���Dp�����Nn��e1<\[F<HWg����pE��,�e�t�\`e��Q3�d\[=�\`�4���c�n���c���<�!WİI�'�N�Y'H)��@8���H�76,�\\�\`�\[PO�����ch��أ�UۃP��������J�t��8GE\*;9��4A�q; �+U'�n�ܖQo�Ţ�TN�+�P����5rs��uC��ZR������� ���dݓ�G6I�S4c�0g�#���%�:���^�ɸ��+l�\]�՚ӊZ� n:T���d��h�#)l�=�)(��MA;�p:��{���ɗ��ӤOT�I�ilj��-\*��gvr27����\*|;����v�I���.��@k���+���Jp��!��\[e\`�5�5{\*�2�)�x�G�q�=�hCx� B Q�g� E5���b2�-���Z/�9�����#L�Nv�߭��\_r���!�^T��)�u�o#�A�4��M�Οz L���e�L(��\[H4����E�����+C�e�mq�;��+�u�,��d�<� ����NŻ�>��h�p-5�A-��i$����>��Q���\`{8<��H�� \\�נ}�ώk���9b�\`dyWd ��jc;o�ՃC�-�9�k��(���%͎���Ic�,ݖ�tЉ��"��5Ł��r�����y�tN���xjзM�'i�u��s�Ņ!:Ea����{���5u\_�\_ڶ 9ס9ɜÎӀƅQ9�h�JV,�LYx��-"��\\T�!\`-��8m�\]��-WA�����P��r�#�4�/�@i;0n3bW��{��NQ�T�,X�1�ӛQ#3��"B�9a���3��A#8�bd��˗/���4�4S|��S�d�����o��VS���k�L���A��84���n��Q�nQ���\*���Lepl.f�Y�1�n�q\`��\`7N�pX|3ћ1�2� ���t�s���| ,�"LR��v>\\���/�q�4|���Ϯ��vo����L#�ʠ�̳CW�1t�Y�<�ŋ����e�nWh����M}���O,V&k+\]��-��P�;��\[.���)0w�����~+jG���9�br�"�|T|�۰������I57��{�A�2�u��G�|�\*�++�#a"��"NC�c����#��,<�\_��:���B�n�v�B��������\]�\[K!'�̢����V����C=6���@��U,�≐Yέ��~������52�A��-�;hE/nS�/�r( �G�u�����9�ơ�����4(���%w� ��0�t�lk�#s�.�d}�4�\_�=I���g'jMÚ) �>��p��t5�#%dGP|:���\]x����m0��E���ۿr�%-���/U�E���hjy^鐥'�pl.r�z�D$��+�Ԥ���\`U�Ԡ 8�M )���J�P�k����Oߧ\[�����iI����W���r�8.�B�r�JSf'6��h�$<�8&fW2ZV�)�43:&���B$� b��Z 7�CL�:��ă �;\]����7�~» ���i+���6�|��a'r�a���P���f� TҐ�������}yf��P( ��C{���bcp�\`D˼�j}@kI#M��Fe#��nR0 p�\\,Uah▏-RH�Hc��9���b�����Y�����i���G�q��\\|���̝��+C4�{'��%�F��7vce#�Y�$�ɔ|%�f󃱟�l�T�^FCaК�$�Q��O:ӹ)�0��r��sV+�J!�cU��!� ��#ߥp��VZJ�5Dиv����1\*���\`Uۉ�}fG��F3�Se5��E\_�~#M�#J��gr!�c\\���P�usE��������lZj��j! ea1X�u�����oX��5OY�u~�=R�����1�I2MD4�D "��Y�@����C���:4->�zͧ'�\`Fr�QylQ�+����ϣ�c}���gJ���ȭ��)�%�'@hh>v\_����~�U���X��k�o"�7 !�\\@h5���ב��9|�HGu.��聀I�l�# �����x�&Yq��d�W��GF�q��u{^�$��6��Dfy"u\*\[��lli.� �R�V9���HS�f."ی�ϳ|+��w�52d%��5�X� oXƛ�~s���W���߽G�y�R��=�����Db�� ��n(���0�SqD{N���q���\[��Y�NK;��7�:��\*Ic�\`R�iV'� ��\[ת(�2ɓU��&%��\*ˬbe\]VU�X6UV6eS�Y^VeQ�(������ ~/�L��u�+>��;� ��nI�E\\���2�@!g�WM����,�E��k��똒:�8IX��u�I�y�g�\*N�$�c�=)B�T����p�k}f��L�ҥ��p���϶�\`I̿Y�P�-�p�8b�)Ȱc�����x�ҁ�a�|�'��>p2e����3�U�&7����N �^ ���d�<��)99>3�MTH���JHݬ\` �}�,��B�9��l�����nVs��J�I��E�@\_X��W7 �Nw���Qm�� G,��F�Ҏs �e �Vz&� qpoc�� iY��f�$����L��� ����'I�I�=�'�ot݆1���B�y� �00\`��Q�D"�2jWС���$X��S��;�#�4�(0:V��� �C�7"�1�i��4WF@W 3�����U�%���b\]�/yp�Sew�#>6ZB8�d�@��=۹���a��Ji �&�\\ >Wb�����fOf�'te;\_��e�e^�W��\_\*{���D\[B�(5֤X��ߡ� Vp�NˈI=�F�� =c��ׄӜ�z��za����>����C\]�置�ʅ��34�DAar� Z7I����>����/U��%�ϯ�p�ֳ��\*�"�⧒�橫Wo���Q<л|���оr�#7tu}o=P�uln땺��ϻ����U#�$fqR��r\`{�\]'Tu<�4�"8��Y������%^ �^������!{3(�M����0�JѪM����RS;�! �Y�!��5%l H��Zf -�������){4a�ե���H���Mܙ�~1C?9��U�V8����(�ǝ'�4��D3��\\k͗�x��5h�7���ZR(u��eo����G����8�\\/w
+* [](https://www.eyeem.com/)
+    
+* [Buy Royalty-free Content](https://www.eyeem.com/)
+    
+* [EyeEm Magazine](https://www.eyeem.com/magazine)
+    
+* [Pricing](https://www.eyeem.com/market/pricing)
+    
+* More
+    
+    [Our Story](https://www.eyeem.com/story)[Terms & Privacy](https://www.eyeem.com/tos)[FAQ & Help](https://eyeem.zendesk.com/hc/en-us)[Work With Us](https://www.eyeem.com/jobs)[Contact Us](https://www.eyeem.com/contact)
+    
+
+* For Contributors
+    
+    [Sell Your Work](https://www.eyeem.com/sell-your-work)[Join the Community](https://www.eyeem.com/creators)[EyeEm Awards](https://www.eyeem.com/awards)[Missions](https://www.eyeem.com/missions/photographers)
+    
+* [Contact Sales](https://www.eyeem.com/market/pricing#form)
+    
+* [0](https://www.eyeem.com/market/cart "Cart")
+    
+
+This website uses cookies to offer you a better browsing experience. [Learn more.](https://www.eyeem.com/en/privacy)
+
+[Terms of Service for Business Users](https://www.eyeem.com/terms/business)[Terms of Service for Creatives](https://www.eyeem.com/terms/photographers)[License Terms](https://www.eyeem.com/terms/license-terms)[Website Terms](https://www.eyeem.com/terms/website-terms)[Privacy Policy](https://www.eyeem.com/privacy)[Imprint](https://www.eyeem.com/imprint)
+
+Privacy Policy
+==============
+
+[Download PDF](https://cdn.prod.website-files.com/5a0ee6754d8d810001e02a24/664f3c1dc8d76208c8300ff6_20240520%20Privacy%20Policy%20ENG.pdf)
+
+In our Privacy Policy, we provide you with an overview of how we process your personal data when you use our services, our app EyeEm or visit our website, in accordance with our information requirements under the General Data Protection Regulation (GDPR). The Privacy Policy applies regardless of whether you are a registered user, using our app (“EyeEm”) or are visiting our websites.
+
+**1\. Data Controller & Data Protection Officer**
+=================================================
+
+The data controller responsible for the processing of your personal data when using our services within the meaning of Art. 4 (7) of the GDPR is:
+
+EyeEm Mobile GmbH, c/o Mindspace, Max-Beer-Straße 2-4, 10119 Berlin, Germany  
+‍[www.eyeem.com](https://www.eyeem.com/)  
+[\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection)  
+  
+Data protection officer: [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection)
+
+**2\. What is personal data?**
+==============================
+
+“Personal data” within the meaning of Art. 4 (1) of the GDPR is: “... any information relating to an identified or identifiable natural person (hereinafter the “data subject”); a natural person is considered as being identifiable, directly or indirectly, in particular by means of an identifier such as a name, an identification number, location data, an online identifier or one or more special characteristics expressing the physical, physiological, genetic, mental, economic, cultural or social identity of this natural person.”
+
+**3\. The purposes for which we process your personal data**
+============================================================
+
+We collect and process your personal data for the purpose of providing you with our services and their advanced features, continuously improving and developing them, ensuring their technical functionality and ensuring the security of our services.
+
+**4\. What personal information we collect from you and how we use it**
+=======================================================================
+
+**4.1 Data you submit to us**
+-----------------------------
+
+### **(a) When you register as a photographer/videographer (creator)**
+
+You are a “creator” if you want to share your content with us within the community (community account) or if you also want to offer it for licensing (Market account).
+
+**Community account:**
+
+To set up a community account, we need:
+
+* Your email address
+* Your username chosen by you or generated automatically by us (@username), which also corresponds to your user ID and which will be linked to your email address
+* A password to protect your user account
+
+If you register with us via a social network like Facebook. or Google, please read section 4.3 (a), since in this case we do not collect your data directly from you, but from a third party – namely the respective social network.
+
+**Market account (as Market):**
+
+For the activation of your Market account in order to offer your content for licensing, we need the following additional information:
+
+* Your real name (i.e. your legal name)
+* Your valid address
+* Information about whether you are over 18 years old
+* Name of the company/corporation and the tax number, if you sell your content as a merchant or for a company
+* Your PayPal account information. We will ask you to notify us of your PayPal account information at the latest after the sale of a license. Optionally, you can also link your PayPal account to your EyeEm account if you click on the “Earnings” section in the settings menu of your EyeEm account.
+
+Providing the above information about you is required. Otherwise, we cannot create the respective user account for you and cannot process any transactions for you (e.g. licensing of your content, payouts).
+
+We use this data:
+
+* To create your user account as a creator and, in the case of a Market account, also determine your identity, because we need to know who the licensor is in case of a license sale.
+* To contact you in case of required releases.
+* To contact you in the event of alleged copyright infringement and to clarify any other issues with your content.
+* To inform you about any license sale (e.g. via e-mail).
+* To pay your license share to you.
+* If necessary, to ask you if you would like to carry out service orders for us.
+* According to your account settings, you can receive notifications via the app (push notifications) and/or via email, e.g. community updates, promotions, mentions, etc. If you do not want to receive such notifications, you can unsubscribe from them at any time in the settings of the app or via the unsubscribe link in the email.
+* To send our newsletter or community updates, if you have given your consent (see below).
+
+Storage time: In principle, we only store this data until the deletion of your user account. If you have sold a license to your content, your data will also be archived for the duration of the statutory retention periods (tax-related, e.g. 10 years).
+
+Legal basis: The legal basis for this processing of your personal data is the fulfilment of the contract on the use of our services. between you and us (Art. 6 (1) (b) GDPR).
+
+### **(b) When you register as a buyer to purchase user licenses (Market Account as Buyer)**
+
+If you would like to purchase licenses for the use of content available at EyeEm Market, we request you to provide the following information to create your user account and to carry out the requested transactions:
+
+* Your real name (i.e. your legal name)
+* Your address
+* Your email address
+* The name of your company and the tax number or sales identification number if you act as a merchant or a company
+* Your payment details such as credit card number or PayPal email address. This data is requested at the latest when you want to acquire a license to use content. However, we do not store this data ourselves; it is sent by us directly to the payment service provider appointed by us and deleted after the transaction has been completed.
+
+Providing this information is necessary to create the respective user account for you and to conduct transactions with you and to grant you licenses according to our License Terms.
+
+We use this data:
+
+* To create a user account and identify you.
+* To handle transactions.
+* To send you notifications concerning transactions made (i.e. license purchases and the related payment processing).
+
+Storage time: We usually store this data in our active storage only until your user account is deleted and pending transactions are completed. Following this, we will archive the data for the duration of the statutory retention periods (tax-related, e.g. 10 years).
+
+Legal basis: The legal basis for this processing of your personal data is the fulfilment of the contract on the use of our services between you and us (Art. 6 (1) (b) GDPR).
+
+### **(c) When you provide additional, voluntary information in your profile**
+
+If you have a Community Account, you can voluntarily provide additional profile information in your profile to make it more meaningful. For example, you can:
+
+* Change the username automatically generated by us.
+* Specify a name for your profile.
+* Upload a picture of you as profile picture.
+* Provide further information about you in your profile.
+
+We use this data to make it visible in your profile to other users.
+
+Storage time: As a rule, we only save this data until your user account has been deleted and pending transactions have been completed.
+
+Legal basis: The legal basis for this processing of your personal data is your consent (Art. 6 (1) (a) GDPR).
+
+### **(d) When you upload content**
+
+When you have registered as a creator, you can upload content to EyeEm via our website or app.
+
+When you would like to upload content to EyeEm via the app, you must first give EyeEm access to your media library (i.e. Camera Roll or Photo Albums) on your mobile device. With this permission, we will display the folders and photos available in your media library from which you can select photos and upload them to your profile (Community or Market). In addition, the “Suggestions” tab within the upload process will show you the photos that you have either already liked in your media library (“Favorites”) or edited in other photo related apps (e.g. VSCO, Snapseed, Lightroom, Instagram, Flickr, etc.) and that also have a minimum size of 4 million pixels.
+
+With this function, we want to make it possible for you to quickly find and upload suitable photos for the EyeEm Market from the abundance of content in your media library. This pre-selection takes place automatically and exclusively on your mobile device. Beyond the purpose of a preselection of your photos, we do not process or store your photos or any other data that may be contained in your photos or media library before you select a photo and start to upload it. You can revoke your consent to access your media library at any time in the privacy settings of your mobile device. Without this consent you cannot upload pictures to the app, but you can still use other functions of the app (e.g. discover pictures of selected photographers, read articles in the EyeEm magazine).
+
+When you upload content, we also process the information contained in the metadata of such content (so- called exif data), such as the date, time and location of the shot, camera type, shutter speed, etc., as well as any additional information you provide about the content (e.g. tags, captions). We only collect and process information about the location of the photograph or recording if this information is already included in the metadata, if this information is derived from the content (e.g. for sights, landmarks) or if you add the location yourself when uploading.
+
+We use this data to provide our services, in particular to optimize the quality and sales opportunities of your content.
+
+Storage time: We usually store any metadata only until your user account is deleted and pending transactions are completed. When you use the “Suggested” feature we do not store any personal information. The feature runs completely on your mobile device.
+
+Legal basis: The legal basis for this processing of your personal data is the fulfilment of a contract on the use of our services between you and us (Art. 6 (1) (b) GDPR) .
+
+### **(e) When you contact us via our contact form or via email** 
+
+When you send us inquiries via our contact form or via email, we will save:
+
+* Your email address
+* All other information provided by you voluntarily.
+
+We use this data to answer your inquiries and to contact you regarding possible cooperations or information of events.
+
+Storage time: We store this data until six (6) months after the completion of your inquiry with us and then delete it unless you expressly agree that we may keep it longer.
+
+Legal basis: When you contact us via our contact form or via e-mail, the legal basis for this processing of your personal data is the fulfilment or initiation of a contract on the use of our services between you and us (Art. 6 (1) (b) GDPR). In case you submit a data protection inquiry via e-mail, the legal basis for processing you data is the fulfilment of our data protection obligations, e.g., for correction or deletion (Art. 6 (1) (c) GDPR).
+
+### **(f) When you register for our newsletters or community updates**
+
+When you register for our newsletters or email updates, we will save:
+
+* Your first and last name 
+* Your email address 
+
+We use your email address to first verify your subscription (double opt-in) and then to send you the respective newsletter or community updates via email. Community updates may include community newsletters, relevant press releases, information regarding new events, competitions and brand partnerships, announcements on Missions, specific community events and feature updates.
+
+Storage time: Your first and last name as well as your email address will be blocked as soon as you unsubscribe from the respective newsletter or community update.
+
+Legal basis: The legal basis for this processing of your personal data is your consent (Art. 6 (1) (a) GDPR), which you provide to us with your request to receive our newsletter.
+
+### **(g) When you register for our press mailing list (press accreditation)**
+
+When you register for our press mailing list, we will save:
+
+* Your email address 
+* All other data provided by you voluntarily (e.g. your name, job title, publication)
+
+We use your email address to verify your subscription (double opt-in) and to send you press releases, event information and invitations.
+
+Storage time: Your email address and, where applicable, other data provided by you will be deleted as soon as you unsubscribe from the mailing list.
+
+Legal basis: The legal basis for this processing of your personal data is your consent (Art. 6 (1) (a) GDPR), which you provide to us with your request to register for the mailing list.
+
+### **(h) When you provide us with a model or property release**
+
+When you provide us with a model or property release for the release of photographs or recordings of you, your private rooms, your works or other property rights to which you are entitled, we will process the personal data as stated in the respective release form, namely:
+
+* Your name
+* Your address
+* Your email address
+* Where applicable, your date of birth (model release), and
+* Where applicable, the location or description of your property (property release).
+
+Providing this information is necessary in order to prove to third parties that you agree that the content depicting you or your property can be used commercially.
+
+We only disclose the information to our distribution partners (by sending them the entire release document) and, if necessary, to the specific licensee. For more information, please see section 5.2.
+
+Storage time: We store the releases as long as your content is available at EyeEm Market, in the case of a license sale of such content, we also store the respective release(s) beyond this period for the duration of possible legal claims in order to be able to prove our authorization to license the content commercially. The same applies to the third party to whom we may pass on such releases.
+
+Legal basis: The legal basis for this processing of your personal data is the fulfilment of a contract between you and us (Art. 6 (1) (b) GDPR).
+
+**(i) When you appear as a model in our content**
+
+When you appear in a photograph or recording uploaded as content on our website, we process your image and, if applicable, your personal data included in the legal documentation as agreed with the creator and according to the terms and conditions on our website.
+
+Your image will be used for purposes of development, training, testing, or improvement of software, algorithms, and machine learning models in combination with other images, texts, graphics, films, audios, and audiovisual works, always in an aggregated form, without the processing pursuing or making it possible to uniquely identify you.
+
+Your image is publicly communicated worldwide through the internet -our websites- and your data included in the model release may be transferred to third parties in the form of licenses or access to the content, as described in the previous section. These international data transfers are made to countries with a level of personal data protection lower than that provided for in the GDPR, under the exception in Article 49(1)(a) of the GDPR. 
+
+Storage time: We store this data for as long as the content is available on our websites or platforms. In the case of a license sale, we retain the data beyond this period for the duration of any potential legal claims, in order to demonstrate our authorization to use the content commercially. The same applies to third parties to whom the content may be transferred.
+
+Legal basis: 
+
+If the content with your image was uploaded by a **community account**, the legal basis for this processing of your personal data is our legitimate interests (Art. 6 (1) (f) GDPR). Our legitimate interests are the development of new products and services based on artificial intelligence, the improvement of our current products and services, and the monetization of our content. You have the right to exercise your right to object to this processing of your data, which you can exercise in accordance with the provisions set forth below.
+
+If the content with your image was uploaded by a **market account**, the legal basis for this processing of your personal data is the fulfilment of a contract between you and the creator (Art. 6 (1) (b) GDPR).
+
+**4.2 Data that we automatically collect when you visit our website and use our app**
+-------------------------------------------------------------------------------------
+
+### **(a) Log data**
+
+Log data is data that is automatically recorded when you visit our website or use our app. Specifically, this is the following data:
+
+* IP address,
+* Type of Internet browser used,
+* Name of your Internet Service Provider (ISP),
+* Device data,
+* Start and end page you visited, and
+* Other activities within the app or on our website (so-called “events”), etc.
+
+We use this data solely for troubleshooting and quality-assurance purposes, for statistical and analytical purposes, and for monitoring system security.
+
+Legal basis: The legal basis for this processing of your log data is our legitimate interest in providing our websites as well as our app and ensuring the security of our IT systems (Art. 6 (1) (f) GDPR).
+
+### **(b) Location data**
+
+When you share your location data in your device settings, we process that data to suggest locations for tagging your content and to display nearby recorded content in our discover feed.
+
+### **Legal basis:** The legal basis for this processing of your location log data is your consent (Art. 6 (1) (a) GDPR), which you provide to us by voluntarily sharing it in your device settings.
+
+### **(c) Cookies and similar technologies**
+
+For our service to work properly, we sometimes store small files – called cookies – on your device. This is common on most major websites.
+
+#### **(i) What are cookies?**
+
+A cookie is a small text file that a web portal leaves on your device (computer, tablet or smartphone) when you visit it. This allows the portal to “remember” certain inputs and settings (e.g., login, language, font size, and other display preferences) over a period of time, and you do not need to re-enter them each time you visit and navigate the portal.
+
+#### **(ii) How can you exercise control over cookies?**
+
+You can control and/or delete cookies at your convenience. You can find out how to do this in the help function of the browser you are using or, for example, here: aboutcookies.org. You can delete all cookies stored on your device and set most browsers to prevent the storage of cookies, but then you may be required to make some settings manually each time you visit a page and accept the impairment of some features.
+
+#### **(iii) EyeEm cookies**
+
+On our website we use the following cookies:
+
+* **Strictly necessary cookies:** These cookies are necessary for our websites and services to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will then not work. These cookies store your session ID so that our servers can recognize you, but do not store any further personally identifiable information. 
+
+Legal basis: The legal basis for the processing of your personal data by means of necessary cookies is our legitimate interest in a needs-based design of our websites and app (Art.6 (1) (f) GDPR).
+
+With your explicit consent (in the cookies banner displayed on our websites and app) we use the following cookies:
+
+* **Performance cookies:** These cookies allow us to count visits and traffic sources so we can measure, analyze and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+* **Targeting cookies:** These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+* **Functional cookies:** These cookies enable the website to provide enhanced functionality and personalisation of our website and services, such as the language you selected. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+The cookies are not used for any purposes other than those mentioned above. **After having given your consent** you can opt-out of each cookie category (except strictly necessary cookies) in the “cookie settings” of your account. The cookie customization settings are provided by the service provider OneTrust.
+
+#### **(iv) Third-party cookies and similar third-party technologies**
+
+In addition to our own cookies, we also use third-party cookies and similar technologies (such as counting pixels) to provide our services, including troubleshooting, quality assurance, system-security monitoring, statistics and analytics, and a user-friendly design of our offerings (e.g. location-based photo contests), to measure efficiency and for optimization of advertisements we provide with other providers. As the providers and other technologies used may change, you should periodically review our Privacy Policy for updates.
+
+Legal basis: The legal basis for the processing of your personal data in this context is your consent (Art. 6 (1) (a) GDPR in connection with Sec. 25 (1) German Telecommunications Telemedia Data Protection Act).
+
+**_Provision of our services_**
+
+**\- Google Analytics**
+
+On our website we use Google Analytics, a web analytics service provided by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland ("Google").  Google Analytics uses cookies which are text files placed on your computer to help analyze how users use our websites. The information generated by the cookies is regularly transmitted to a Google server in the US and stored there. However, since IP anonymization is enabled on our website, Google will abbreviate the IP address of users within the EU Member States or within other parties to the Agreement on the European Economic Area prior to transmission to Google. Only in exceptional cases the full IP address will be sent to a Google server in the US and abbreviated there. Google is certified under the EU-US data protection framework and thus offers a guarantee that the European level of data protection is maintained.
+
+Google processes this information on our behalf to analyze the use of the website by the user, to provide reports on the activities on the website and to provide other services in connection with the use of the website for EyeEm. As part of the services provided by Google Analytics, the IP address transmitted by the user’s browser will not be merged with other data collected by Google.
+
+You may prevent the collection of cookie-generated data about your use of the website (including IP address) and its processing by Google by downloading and installing the following browser plug-in via the link below: http://tools.google.com/dlpage/gaoptout?hl=de.
+
+**\- Amplitude**
+
+Within our app, we use the analysis services of Amplitude Inc., San Francisco, 201 3rd Street, Suite 200, United States, (“Amplitude”) to collect certain data about the use of the app. The data collected includes your country of origin (including city and region) from which you registered and use the app, the language you use on your device, information about your device (model, operating system and version, mobile operator, device ID) and information about your usage (total duration in hours; date and time of last access to the app) and use of the various functions in the app (upload, discover, missions, etc.). The data obtained in this way is regularly transmitted to a server of Amplitude in the US. The data is stored and analyzed there and then transmitted to EyeEm. This service enables us to better understand the behavior of our app users and make the EyeEm Community and EyeEm Market more user- friendly and attractive. Amplitude is certified under the EU-US data protection framework and thus offers a guarantee that the European level of data protection is maintained. To find out more about how Amplitude uses information for analytical purposes can be found in the Amplitude Privacy Policy: https://amplitude.com/privacy.
+
+**\- Crashlytics Firebase**
+
+We have integrated the analysis service Crashlytics, a service of Google  Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland ("Crashlytics") into our app. Crashlytics collects information for us on how and under what circumstances the app crashes. The service therefore searches for crashes of the app, analyzes the collected data and provides us with reports. The collected data includes the device type, the version of the operating system and certain data on the hardware of your mobile device and the time of the crash, as well as your user ID and device ID. This information indicates how the app was working at the time of the crash.. You can find out more about how Crashlytics works at: https://firebase.google.com/products/crashlytics. 
+
+**\- Hotjar**
+
+We use Hotjar, a service of Hotjar Ltd., Dragonara Business Centre 5. Stock, Dragonara Road, Paceville St Julian's STJ 3141 Malta (” Hotjar”) in order to better understand our users' needs and to optimize our service and users' experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don't like, etc.). This enables us to build and maintain our service by means of user feedback. Hotjar uses cookies and other technologies to collect data on our users' behavior and their devices (in particular the IP address of the device (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s Privacy Policy at [https://www.hotjar.com/legal/policies/privacy/](https://www.hotjar.com/legal/policies/privacy/).
+
+**_Advertising_**
+
+We use so-called AdServers and their tracking tools to measure, optimize, and track clicks on our ads which we position on other sites. This process is used to evaluate the effectiveness of ads for statistical and market research purposes and may help optimize future advertising efforts. If you submit personal data via an ad-form (e.g. your name and email address), such information will be transferred to EyeEm and stored in Hubspot, a service used for client management. If you are already registered with EyeEm (Buyer Account), your user ID will be linked to the data collected in an ad-form.
+
+In all other cases, we only receive statistical pseudonymous data without reference to a specific person. Such data is stored in a cookie. In connection with the display of ads, third-party servers are necessarily contacted directly when using EyeEm. The third-party providers themselves are responsible for the privacy- compliant operation of the IT systems they use and the storage duration.
+
+Here you will find more information about the tracking pixels we use and their data processing:
+
+**\- Meta Pixel**
+
+We use the "conversion pixel" of Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland (“Meta”). By calling this pixel from your browser, Facebook can then determine whether a Facebook ad was successful. In particular, if you are registered with Facebook, we refer you to their privacy information at https://www.facebook.com/about/privacy/. 
+
+In this context, personal data is transferred to the USA. Meta is certified under the EU-US data protection framework and thus offers a guarantee that the European level of data protection is maintained.
+
+To change your consent please go to www.facebook.com/settings?tab=ads.  
+
+**\- LinkedIn**
+
+Our website uses features of the LinkedIn network provided by LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Ireland (“LinkedIn”). When some selected pages containing LinkedIn features are accessed, a connection is established to LinkedIn servers. LinkedIn will be notified that you have visited our website using your IP address. If you click on our LinkedIn advertising and are logged into your LinkedIn account, LinkedIn will be able to associate your visit to our website with your user account. We have no knowledge of the content of the transmitted data or its use by LinkedIn. Further information can be found in LinkedIn's privacy policy at: https://www.linkedin.com/legal/privacy-policy. 
+
+You can adjust the settings for advertising tracking at this link: https://www.linkedin.com/psettings/advertising/actions-that-showed-interest.  
+
+**\- Twitter**
+
+We use "Twitter pixels", a service provided by X Corp.. In particular, the Twitter pixel allows us to track users' actions after they have seen or clicked on a Twitter ad. The collected data is stored and processed by Twitter in accordance with the Twitter Privacy Policy: https://twitter.com/privacy. We have no influence on the extent and further use of data collected through the use of Twitter pixels by Twitter. You can change your privacy settings and permissions on Twitter in your account settings at: https://twitter.com/account/settings.
+
+**\- HubSpot**
+
+We use HubSpot Inc., 25 First Street, Cambridge, MA 02141 USA, (“HubSpot”)  services which make use of cookies for the provision of their services. Whilst these cookies are typically used to manage performance of the HubSpot services we use and do not include any personal information, it is possible that visits to our website, where we have your contact details, in the HubSpot CRM can be associated to you and therefore linked within our CRM record against your contact record. You can find out about what cookies HubSpot may place on your device here: [https://knowledge.hubspot.com/privacy-and-consent/what-cookies-does-hubspot-set-in-a-visitor-s-browser](https://knowledge.hubspot.com/articles/KCS_Article/Reports/What-cookies-does-HubSpot-set-in-a-visitor-%20s-browser).  
+
+**\- Google Ads**
+
+We use Google Ads functions of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland ("Google")  to target our online advertising on the Internet. Google uses cookies and/or device identifiers to deliver ads based on previous visits to the site or app. 
+
+In this context, personal data is transferred to the USA. Google is certified under the EU-US data protection framework and thus offers a guarantee that the European level of data protection is maintained.
+
+You could disable Google's use of cookies or device IDs in your advertising preferences. Link to withdraw your consent: https://adssettings.google.com/authenticated.  
+
+**\- Floodlight**
+
+Our online service uses the Floodlight service, a conversion tracking system for the marketing platform from Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland ("Google"). This system uses tags to record activities on our websites and allows us to add information to reports using the reporting function. In this context, a cookie is used to record repeated visits from a specific browser.  For more information about Google Floodlight, please visit: https://support.google.com/searchads/answer/7298761?visit\_id=638465449268889576-585856124&hl=de&ref\_topic=7301931&rd=1. 
+
+You can install the plug-in offered at https://www.google.com/settings/u/0/ads/plugin?hl=en to object to the analysis of the data described above with effect for the future.
+
+**\- Google Tag Manager**
+
+Our website uses the Google Tag Manager for the purpose of controlling the above-mentioned tracking tools and thus enabling personalised, interest- and location-related online advertising. 
+
+Here is the link to withdraw your consent: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated).
+
+**\- Quantcast**
+
+We make use of the pixel tags by Quantcast International Limited, Beaux Lane House, Lower Mercer Street, 1st Floor, Dublin 2, Ireland (“Quantcast”) to collect demographic information from our audience (including age, gender, family, location, income, education and occupation) to enable statistical and market research purposes and interest-based advertising.". The data collected by Quantcast is pseudonymous and does not contain any direct identifiable information (see Quantcast privacy policy here: https://legal.quantcast.com/#key-terms).
+
+In this context, personal data is transferred to the USA. We have concluded Standard Contractual Clauses with Quantcast to guarantee that the European level of data protection is maintained .
+
+### **4.3 Data that we receive from third parties**
+
+When you register with us through Facebook or a Google service, we will receive the authentication information required for your registration, i.e.:
+
+* Your full name
+* Your email address
+* Your user ID, and
+* All data that you have specified in your public profile.
+
+We use all of this information only to the same extent as the data that you provide when registering through our app or website.
+
+If you log in via the app, the data transmitted to us will also be used to help you find your Facebook / Google+ friends or be found by them, as long as they have also linked their account to the respective services.
+
+**5\. Whom do we share your personal data with?**
+=================================================
+
+We will only disclose your personal information to third parties (including processors, i.e. third parties who process data for us on our behalf) if the transfer is necessary to fulfill our contractual obligations to you, if we are otherwise legally entitled or obliged to disclose it, or if you have given us consent to do so. In order to provide our services, selected personal information may be shared with certain departments within our company. This includes employees from the accounting, legal, product management, marketing and IT departments. In certain cases, we also use external service providers who are commissioned by us to process data for us in accordance with instructions (see below).
+
+To the extent that your information is disclosed to third parties which are not located in an EEA country, we will ensure that the recipient has an adequate level of data protection, that adequate confidentiality provisions in the applicable contracts are maintained, that the standard contractual clauses for the transfer of personal information to processors issued by the European Commission are complied with, or that we obtain your consent.
+
+**5.1 Other users**
+-------------------
+
+Other users of our services, whether registered or not, or those accessing the content uploaded to EyeEm through a so-called API (Application Programming Interface), may be shown any information displayed on your public EyeEm profile (not your email address).
+
+**5.2 Distributors and licensees**
+----------------------------------
+
+We will pass on your names and/or usernames for the purpose of naming and identifying the copyright owner, to all who acquire use licenses for your content as well as our partners who market your content abroad. At the latest at their request, they also receive model releases and property releases for the purpose of proving the consent of the persons depicted or the persons entitled to the objects depicted. You agree with this transfer of data if you send us the respective model release or property release.
+
+**5.3 Service providers**
+-------------------------
+
+We also share your information with companies whose services we use to provide our services and manage our business affairs. In particular, the following services are provided to us by contractors we use: Payment services, hosting services, newsletter delivery, maintenance and support, web/app analysis, fraud monitoring and prevention, marketing services, CRM services, customer service management services, geodata transformation into actual locations, etc. Such service providers will be contractually obliged by us to process your data in accordance with the strict guidelines of the GDPR and may not use your data for any other purpose. Data will be disclosed in accordance with Art. 28 (1) GDPR .
+
+**5.4 Government agencies, authorities & courts, legal representatives**
+------------------------------------------------------------------------
+
+Insofar as we are legally obliged to do so or this is permitted under data protection law, we transmit personal data to authorities such as the police or the public prosecutor's office (Art. 6 (1) (c) GDPR). This data is disclosed on the basis of our legitimate interest in combating misuse, prosecuting criminal offences (e.g. credit card fraud) and securing, asserting and enforcing claims, provided that your rights and interests in the protection of your personal data do not predominate, Art. 6 (1) (f) GDPR.
+
+**5.5 Affiliates**
+------------------
+
+We may share your personal information with our affiliates (Freepik Company) if necessary to provide our services. This data is shared on the basis of our legitimate interest in leveraging our corporate structure to enhance operational efficiencies, improve service delivery, and foster innovation across our platforms. , Art. 6 (1)(f) GDPR.
+
+**6\. Your control options & rights**
+=====================================
+
+In addition to the ability to exercise control over your personal information and other data by changing your information and settings in your user account and, if necessary, creating links to third-party applications such as Facebook or Google, allowing or blocking cookies, or making do-not-track settings in your browser, you have the following legally protected rights. We offer you communications and measures in this respect in principle free of charge. However, in the case of manifestly unfounded or excessive requests, especially in the case of frequent repetition, we may levy a fee or refuse to act.
+
+**6.1 Information, correction, deletion and/or restriction**
+------------------------------------------------------------
+
+You have the right at any time to request information about what personal data we process about you and to demand correction, deletion and/or restriction of your personal data stored by us. For your security and if necessary, we will ask you to verify your details in the event of such a request or change. Please send us a message at: [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection).  
+
+**6.2 Revocation of your consent**
+----------------------------------
+
+If the data processing by us is based on your consent, you can revoke this consent at any time. To revoke your consent, please send us a message at: [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection).
+
+**6.3 Right to object**
+-----------------------
+
+You can object to our data processings based on our corporate legitimate interests. To do so, please send us a message at: [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection).
+
+ **6.4 Right to data portability**
+----------------------------------
+
+If applicable, you have the right to demand that we provide you with your personal data in a structured, common and machine-readable format, provided that the data processing is based on your consent or a contract between us or is carried out by automated means. However, this does not apply if the processing is not necessary for the performance of a task in the public interest or in the exercise of official authority assigned to the data controller. Furthermore, you have the right to have the personal data transferred directly from one responsible person to another responsible person, as far as this is technically feasible and as long as the rights and freedoms of other persons are not affected.
+
+**6.5 Right to lodge a complaint with the regulatory authority**
+----------------------------------------------------------------
+
+You also have the right to lodge a complaint about us with our supervisory authority.
+
+The supervisory authority responsible for us is:
+
+Berliner Beauftragte für Datenschutz und Informationsfreiheit  
+Alt-Moabit 59-61  
+10555 Berlin  
+Phone: +49 30 13889-0  
+Fax: +49 30 2155050  
+E-Mail: [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection)
+
+**7\. What do we do for the security of your data?**
+====================================================
+
+We have made technical and organizational arrangements to secure the website, mobile applications and other systems against loss, destruction, access, modification or disclosure of your personal data. Access to your profile is only possible after entering a password. You should always treat access information confidentially and close the browser window as soon as the connection with EyeEm is finished.
+
+**8\. Changes & updates to our Privacy Policy**
+===============================================
+
+We occasionally change and update our Privacy Policy to adapt it to changing requirements. If we make any material changes, we will notify you in advance by email or through our services (e.g. in-app news item) so that you can review the changes before they come into force. In the event of other updates or changes, we will publish the amended Privacy Policy without a separate notice on our website. 
+
+Accordingly, you should periodically visit our Privacy Policy to ensure that you know the current regulations. 
+
+May 2024
+
+For Brands
+
+[Image Licensing](https://www.eyeem.com/licensing)[Pricing & License Types](https://www.eyeem.com/market/pricing)[Need help?](https://eyeem.zendesk.com/hc/en-us/categories/360001243737-FAQ-Image-Buyers)
+
+For Contributors
+
+[Join as a contributor](https://www.eyeem.com/signup)[Sell your work](https://www.eyeem.com/signup/creator)[Ongoing Missions](https://www.eyeem.com/missions/photographers)[EyeEm Awards](https://www.eyeem.com/awards)[Need help?](https://eyeem.zendesk.com/hc/)
+
+Photography culture
+
+[EyeEm Magazine](https://www.eyeem.com/magazine)[Visual Trends](https://www.eyeem.com/visualtrends)
+
+About
+
+[Our story](https://www.eyeem.com/story)[Work with us](https://www.eyeem.com/jobs)[Press](https://www.eyeem.com/press)[FAQ](https://eyeem.zendesk.com/hc/en-us/categories/115000290289-Frequently-Asked-Questions)
+
+English
+
+Deutsch
+
+© 2024 EyeEm Mobile GmbH.
+
+[Privacy](https://www.eyeem.com/privacy)[Terms of Service](https://www.eyeem.com/tos)[Imprint](https://www.eyeem.com/imprint)
+
+[](https://www.facebook.com/EyeEm/)[](https://www.instagram.com/eyeemphoto/)[](https://twitter.com/EyeEm)[](https://vimeo.com/eyeem)[](https://www.youtube.com/channel/UCx8sMqfYEyo2y-PItosCQrA)
