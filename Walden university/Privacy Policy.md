@@ -1281,9 +1281,9 @@ Students and employees are reminded that many legal sources of content are avail
 
 Related Information
 
-* [Official Transcripts](https://www.waldenu.edu/admissions/transcripts)
-* [Seven Reasons to Get Your EdS Degree](https://www.waldenu.edu/education-specialist/resource/seven-reasons-to-get-your-eds-degree)
-* [Accreditation](https://www.waldenu.edu/about/accreditation)
+* [Apply Now | Submit Your Application Online –...](https://myhomepage.waldenu.edu/Walden/contact-us)
+* [What Are the Duties of a School Principal?](https://www.waldenu.edu/education-specialist/eds-in-educational-leadership-and-administration/resource/what-are-the-duties-of-a-school-principal)
+* [Petitions, Appeals, Grievances, and Complaints](https://academics.waldenu.edu/handbook/student-expectations/petitions-appeals)
 
 ![w background](/themes/custom/wal_base_2024/images/W.png)
 
