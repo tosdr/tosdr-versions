@@ -109,11 +109,11 @@ I am a New Zealander, living in France, who is interested in guitar, hiking, ope
 
 ### Related posts
 
-[![](https://tane.harre.nz/media/posts/684/responsive/freedom_of_thought-1-xs.jpg)](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
+[![](https://tane.harre.nz/media/posts/676/responsive/Privacy-Security-Freedom-1080x675-xs.png)](https://tane.harre.nz/privacy-is-a-limit-on-power/)
 
-#### [Data privacy allows for freedom of thought and speech](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
+#### [Privacy is a limit on power](https://tane.harre.nz/privacy-is-a-limit-on-power/)
 
-07/05/2018
+16/04/2018
 
 [![](https://tane.harre.nz/media/posts/687/responsive/Fake_News-xs.jpeg)](https://tane.harre.nz/does-trade-me-deserve-the-privacy-trust-mark/)
 
@@ -121,11 +121,11 @@ I am a New Zealander, living in France, who is interested in guitar, hiking, ope
 
 13/05/2018
 
-[![](https://tane.harre.nz/media/posts/676/responsive/Privacy-Security-Freedom-1080x675-xs.png)](https://tane.harre.nz/privacy-is-a-limit-on-power/)
+[![](https://tane.harre.nz/media/posts/690/responsive/Eu-European-Union-Data-Regulation-Gdpr-3222692-xs.jpg)](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
 
-#### [Privacy is a limit on power](https://tane.harre.nz/privacy-is-a-limit-on-power/)
+#### [GDPR Privacy Policy Overview for New Zealand](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
 
-16/04/2018
+24/05/2018
 
 Comments
 --------
@@ -155,7 +155,7 @@ Comments
 * [Appenzell](https://tane.harre.nz/tags/appenzell/) (6)
 * [Avon](https://tane.harre.nz/tags/avon/) (1)
 * [Barbizon](https://tane.harre.nz/tags/barbizon/) (2)
-* [Bourron Marlotte](https://tane.harre.nz/tags/bourron-marlotte/) (3)
+* [Bourron Marlotte](https://tane.harre.nz/tags/bourron-marlotte/) (4)
 * [Coromandel](https://tane.harre.nz/tags/coromandel/) (6)
 * [COVID-19](https://tane.harre.nz/tags/covid-19/) (10)
 * [Debian](https://tane.harre.nz/tags/debian-11/) (5)
@@ -164,7 +164,7 @@ Comments
 * [Facebook](https://tane.harre.nz/tags/facebook/) (1)
 * [File Sharing](https://tane.harre.nz/tags/file-sharing/) (3)
 * [Fontainebleau](https://tane.harre.nz/tags/fontainebleau/) (7)
-* [Fontainebleau Info](https://tane.harre.nz/tags/fontainebleau-info/) (21)
+* [Fontainebleau Info](https://tane.harre.nz/tags/fontainebleau-info/) (22)
 * [Food](https://tane.harre.nz/tags/food/) (3)
 * [France](https://tane.harre.nz/tags/france/) (40)
 * [Great Barrier Island](https://tane.harre.nz/tags/great-barrier-island/) (12)
