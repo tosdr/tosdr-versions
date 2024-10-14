@@ -1,6 +1,6 @@
 ### [Go to 99math](https://99math.com/)
 
-[![](//v.fastcdn.co/u/35959ce9/49473945-0-99mathlogo-white.png)](http://www.99math.com/)
+[![](//v.fastcdn.co/t/35959ce9/220e2da6/1728857024-49473945-125x80-99mathlogo-white.png)](http://www.99math.com/)
 
 **Terms of Use**
 ================
