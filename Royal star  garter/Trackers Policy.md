@@ -52,7 +52,7 @@ How you can help
 
 [Other ways to give](https://starandgarter.org/how-you-can-help/other-ways-to-give/)[Giving in memory and in celebration are just some of the ways you can support us.](https://starandgarter.org/how-you-can-help/other-ways-to-give/)
 
-[Volunteer for us](https://starandgarter.org/how-you-can-help/volunteer/)[Giving your time makes the world of difference to our residents.](https://starandgarter.org/how-you-can-help/volunteer/)
+[Volunteer for us](https://starandgarter.org/how-you-can-help/volunteer-for-us/)[Giving your time makes the world of difference to our residents.](https://starandgarter.org/how-you-can-help/volunteer-for-us/)
 
 How you can help
 
@@ -132,7 +132,7 @@ How you can help
 
 [Other ways to give](https://starandgarter.org/how-you-can-help/other-ways-to-give/) [Giving in memory and in celebration are just some of the ways you can support us.](https://starandgarter.org/how-you-can-help/other-ways-to-give/)
 
-[Volunteer for us](https://starandgarter.org/how-you-can-help/volunteer/) [Giving your time makes the world of difference to our residents.](https://starandgarter.org/how-you-can-help/volunteer/)
+[Volunteer for us](https://starandgarter.org/how-you-can-help/volunteer-for-us/) [Giving your time makes the world of difference to our residents.](https://starandgarter.org/how-you-can-help/volunteer-for-us/)
 
 How you can help
 
