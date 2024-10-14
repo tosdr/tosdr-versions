@@ -1,4 +1,4 @@
-[![Stardust Logo](images/Stardust-Logo.svg)](https://www.thestardustapp.com/index.html)
+[![Stardust Logo](images/Stardust-Logo.svg)](https://stardust.app/)
 
 [About Us](https://www.thestardustapp.com/about-us.html) [About Your Data](https://www.thestardustapp.com/about-your-data.html) [Shop](https://shop.stardust.app/)
 
@@ -176,7 +176,7 @@ Which version?
 
 [Download iOS](https://apps.apple.com/us/app/stardust-period-tracker/id1495829322)[Download Android](https://play.google.com/store/apps/details?id=com.stardust.app&hl=en_US&gl=US)
 
-[About Us](https://www.thestardustapp.com/about-us.html) [About Your Data](https://www.thestardustapp.com/about-your-data.html) [Contact](https://www.thestardustapp.com/contact.html)
+[About Us](https://www.thestardustapp.com/about-us.html) [About Your Data](https://www.thestardustapp.com/about-your-data.html) [Shop](https://shop.stardust.app/) [Contact](https://www.thestardustapp.com/contact.html)
 
 [Terms of Use](https://www.thestardustapp.com/terms-of-use.html) [Privacy Policy](https://www.thestardustapp.com/privacy-policy.html) [Health Data Privacy Policy](https://www.thestardustapp.com/health-data-privacy-policy.html)
 
