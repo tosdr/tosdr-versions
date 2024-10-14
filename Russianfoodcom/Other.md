@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,9 +148,10 @@
 
 Сейчас читают
 
-* [«Сосновые шишки» из пресноводной рыбы](https://www.russianfood.com/recipes/recipe.php?rid=19427)
-* [Салат из молодого красного перца](https://www.russianfood.com/recipes/recipe.php?rid=30298)
-* [Куриные грудки с сыром](https://www.russianfood.com/recipes/recipe.php?rid=30720)
+* [Скумбрия, запечённая с овощами](https://www.russianfood.com/recipes/recipe.php?rid=167170)
+* [Куриный суп с брокколи, вермишелью и яичной паутинкой](https://www.russianfood.com/recipes/recipe.php?rid=173226)
+* [Баклажаны в томатном соусе, с грецкими орехами](https://www.russianfood.com/recipes/recipe.php?rid=174303)
+* [Гречка с курицей и грибами, на молоке](https://www.russianfood.com/recipes/recipe.php?rid=173457)
 
 |     |
 | --- |
@@ -172,6 +173,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Вкусная классика и новые идеи. Лучшие рецепты из КАРТОФЕЛЯ (28)](https://www.russianfood.com/reading/?post_id=22725) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/711/sm_710343.jpg)](https://www.russianfood.com/reading/?post_id=22725)
+
+Хрустящие драники с сыром. Картошка с тыквой, перцем и грибами. Картофельная запеканка с перцем. Картофельный суп-пюре с чечевицей и рыбой. Картофельные булочки с яйцами и зеленью.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22725)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22725#comments) | 14.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Вкуснятина на скорую руку. Лучшие рецепты БЫСТРЕЕ! №24-42](https://www.russianfood.com/reading/?post_id=22724) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/385/sm_384949.jpg)](https://www.russianfood.com/reading/?post_id=22724)
+
+Ленивые вареники из творога. Быстрое шоколадное печенье. Куриная печень в медово-соевой глазури. Салат с фасолью, овощами и сухариками. Грибной суп со шпинатом и сливками.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22724)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22724#comments) | 14.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Постный хлеб из полужидкого теста с пряными травами](https://www.russianfood.com/recipes/recipe.php?rid=173345) |     |
+
+[![Фото к рецепту: Постный хлеб из полужидкого теста с пряными травами](//img1.russianfood.com/dycontent/images_upl/719/sm_718387.jpg "Фото к рецепту: Постный хлеб из полужидкого теста с пряными травами")](https://www.russianfood.com/recipes/recipe.php?rid=173345)
+
+Дрожжевое тесто для этого пряного хлеба получается полужидким, что позволяет ему быстрее подниматься. Чтобы в духовке хлеб не расплылся, его выпекают в форме. Хлеб получается мягким, с румяной корочкой и аппетитным ароматом, который придают сухие пряные травы.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173345)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173345#comments) | 14.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -341,48 +384,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22708#comments) | 10.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Картофельные котлеты с крабовыми палочками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=173449) |     |
-
-[![Фото к рецепту: Картофельные котлеты с крабовыми палочками и сыром](//img1.russianfood.com/dycontent/images_upl/737/sm_736439.jpg "Фото к рецепту: Картофельные котлеты с крабовыми палочками и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=173449)
-
-Оригинальные котлеты из картофельного пюре. Лёгкая сладость крабовых палочек и сливочный вкус сыра гармонично дополняют нежный картофель, делают котлеты более насыщенными и интересными.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173449)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_22 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173449#comments) | 10.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Капустные котлеты с творогом и грецкими орехами](https://www.russianfood.com/recipes/recipe.php?rid=173451) |     |
-
-[![Фото к рецепту: Капустные котлеты с творогом и грецкими орехами](//img1.russianfood.com/dycontent/images_upl/737/sm_736407.jpg "Фото к рецепту: Капустные котлеты с творогом и грецкими орехами")](https://www.russianfood.com/recipes/recipe.php?rid=173451)
-
-Разнообразить вкус капустных котлет помогут творог и грецкие орехи. Манная крупа и яйцо соединят ингредиенты. Котлеты получаются пышными и нежными. А вкрапления творога и тонкий ореховый аромат приятно улучшают характерный вкус капусты.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173451)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173451#comments) | 10.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Котлеты из куриных сердечек](https://www.russianfood.com/recipes/recipe.php?rid=173383) |     |
-
-[![Фото к рецепту: Котлеты из куриных сердечек](//img1.russianfood.com/dycontent/images_upl/736/sm_735532.jpg "Фото к рецепту: Котлеты из куриных сердечек")](https://www.russianfood.com/recipes/recipe.php?rid=173383)
-
-Нежные, мягкие и вкусные котлеты из куриных сердечек. Репчатый лук и манная крупа добавят котлетам сочность и пышность, чеснок и прованские травы привнесут аппетитный аромат.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173383)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173383#comments) | 10.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -452,10 +453,10 @@
 
 Новые рецепты:
 
-|     |
-| --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174487) |
-| [Закуска из зелёного лука и бекона](https://www.russianfood.com/recipes/recipe.php?rid=174487) |
+|     |     |
+| --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174487) | [![](//img1.russianfood.com/dycontent/images_upl/719/alt1_718387.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173345) |
+| [Закуска из зелёного лука и бекона](https://www.russianfood.com/recipes/recipe.php?rid=174487) | [Постный хлеб из полужидкого теста с пряными травами](https://www.russianfood.com/recipes/recipe.php?rid=173345) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -472,4 +473,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(88)
+(156)
