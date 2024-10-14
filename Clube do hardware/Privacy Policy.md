@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![cdestruction](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23ae62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1244819-cdestruction/ "Ir ao perfil de cdestruction")
+    * [![CircuitSeeker](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254467.thumb.jpeg.02143f61990afe1799355af094e78ad5.jpeg)](https://www.clubedohardware.com.br/profile/1254467-circuitseeker/ "Ir ao perfil de CircuitSeeker")
         
         0
         
-        [Tela azul ao baixar algo ou extrair,e o computador desliga do nada.](https://www.clubedohardware.com.br/forums/topic/1699632-tela-azul-ao-baixar-algo-ou-extraire-o-computador-desliga-do-nada/?do=getNewComment "Tela azul ao baixar algo ou extrair,e o computador desliga do nada.")
+        [CPU I5 9º chegando a 80ºC mesmo com watercooler](https://www.clubedohardware.com.br/forums/topic/1699643-cpu-i5-9%C2%BA-chegando-a-80%C2%BAc-mesmo-com-watercooler/?do=getNewComment "CPU I5 9º chegando a 80ºC mesmo com watercooler")
         
-        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
-        Por [cdestruction](https://www.clubedohardware.com.br/profile/1244819-cdestruction/ "Ir ao perfil de cdestruction")  
-        13 minutos atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [CircuitSeeker](https://www.clubedohardware.com.br/profile/1254467-circuitseeker/ "Ir ao perfil de CircuitSeeker")  
+        4 minutos atrás
         
-    * [![Eduardo SilvaC](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1248898.thumb.png.0d9899a1d863042096d580a8f02377ba.png)](https://www.clubedohardware.com.br/profile/1248898-eduardo-silvac/ "Ir ao perfil de Eduardo SilvaC")
-        
-        0
-        
-        [computador focado em cs2](https://www.clubedohardware.com.br/forums/topic/1699631-computador-focado-em-cs2/?do=getNewComment "computador focado em cs2")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Eduardo SilvaC](https://www.clubedohardware.com.br/profile/1248898-eduardo-silvac/ "Ir ao perfil de Eduardo SilvaC")  
-        1 hora atrás
-        
-    * [![mevun](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1236797.thumb.jpeg.73c2db61294f1272f60e3fd2a9a353f9.jpeg)](https://www.clubedohardware.com.br/profile/1236797-mevun/ "Ir ao perfil de mevun")
+    * [![xMatheus Gomes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254468.thumb.png.d1c96dbdecfb4ddb72f4aaaa63317d49.png)](https://www.clubedohardware.com.br/profile/1254468-xmatheus-gomes/ "Ir ao perfil de xMatheus Gomes")
         
         0
         
-        [placa-mãe reconhece SSD NVMe, mas ele não aparece na parte para boot.](https://www.clubedohardware.com.br/forums/topic/1699630-placa-m%C3%A3e-reconhece-ssd-nvme-mas-ele-n%C3%A3o-aparece-na-parte-para-boot/?do=getNewComment "placa-mãe reconhece SSD NVMe, mas ele não aparece na parte para boot.")
+        [asus tuf gaming z490-plus não para desligado com o power on by pci-e ativo](https://www.clubedohardware.com.br/forums/topic/1699642-asus-tuf-gaming-z490-plus-n%C3%A3o-para-desligado-com-o-power-on-by-pci-e-ativo/?do=getNewComment "asus tuf gaming z490-plus não para desligado com o power on by pci-e ativo")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [xMatheus Gomes](https://www.clubedohardware.com.br/profile/1254468-xmatheus-gomes/ "Ir ao perfil de xMatheus Gomes")  
+        10 minutos atrás
+        
+    * [![Joao Vitor Coveiro](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1248916.thumb.jpeg.9353e2d009e430402282d30afc563e65.jpeg)](https://www.clubedohardware.com.br/profile/1248916-joao-vitor-coveiro/ "Ir ao perfil de Joao Vitor Coveiro")
+        
+        0
+        
+        [Indicações de upgrade para PC com RX 580 e i3 7100](https://www.clubedohardware.com.br/forums/topic/1699641-indica%C3%A7%C3%B5es-de-upgrade-para-pc-com-rx-580-e-i3-7100/?do=getNewComment "Indicações de upgrade para PC com RX 580 e i3 7100")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Joao Vitor Coveiro](https://www.clubedohardware.com.br/profile/1248916-joao-vitor-coveiro/ "Ir ao perfil de Joao Vitor Coveiro")  
+        14 minutos atrás
+        
+    * [![fellipenz](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23bb62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EF%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1207837-fellipenz/ "Ir ao perfil de fellipenz")
+        
+        0
+        
+        [Preciso de uma sugestão de gabinete](https://www.clubedohardware.com.br/forums/topic/1699640-preciso-de-uma-sugest%C3%A3o-de-gabinete/?do=getNewComment "Preciso de uma sugestão de gabinete")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [fellipenz](https://www.clubedohardware.com.br/profile/1207837-fellipenz/ "Ir ao perfil de fellipenz")  
+        28 minutos atrás
+        
+    * [![Lipecrf7](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1245072.thumb.png.78e723f7e4154a44511ed4b18bcfb904.png)](https://www.clubedohardware.com.br/profile/1245072-lipecrf7/ "Ir ao perfil de Lipecrf7")
+        
+        0
+        
+        [Jogos apresentando falhas quando executados de NVMe 980 Samsung](https://www.clubedohardware.com.br/forums/topic/1699639-jogos-apresentando-falhas-quando-executados-de-nvme-980-samsung/?do=getNewComment "Jogos apresentando falhas quando executados de NVMe 980 Samsung")
         
         [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [mevun](https://www.clubedohardware.com.br/profile/1236797-mevun/ "Ir ao perfil de mevun")  
-        2 horas atrás
+        Por [Lipecrf7](https://www.clubedohardware.com.br/profile/1245072-lipecrf7/ "Ir ao perfil de Lipecrf7")  
+        34 minutos atrás
         
-    * [![Sunrise](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252537.thumb.jpeg.38523bc3c2de06eb8d1337716fd7b262.jpeg)](https://www.clubedohardware.com.br/profile/1252537-sunrise/ "Ir ao perfil de Sunrise")
-        
-        0
-        
-        [placa-mãe Itautec st4272 processador i5 2400](https://www.clubedohardware.com.br/forums/topic/1699629-placa-m%C3%A3e-itautec-st4272-processador-i5-2400/?do=getNewComment "placa-mãe Itautec st4272 processador i5 2400")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Sunrise](https://www.clubedohardware.com.br/profile/1252537-sunrise/ "Ir ao perfil de Sunrise")  
-        2 horas atrás
-        
-    * [![wd006](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254461.thumb.png.ac517f867f787979e73e3db7913bfcff.png)](https://www.clubedohardware.com.br/profile/1254461-wd006/ "Ir ao perfil de wd006")
+    * [![Wladimir Cabral](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/simpson_token.thumb.png.83faf73e13bd206cda1236607f0d9fe1.png)](https://www.clubedohardware.com.br/profile/422616-wladimir-cabral/ "Ir ao perfil de Wladimir Cabral")
         
         0
         
-        [queda de fps no fortnite](https://www.clubedohardware.com.br/forums/topic/1699628-queda-de-fps-no-fortnite/?do=getNewComment "queda de fps no fortnite")
+        [Windows Inicia Normalmente Mas Não Entra No Modo de Segurança](https://www.clubedohardware.com.br/forums/topic/1699638-windows-inicia-normalmente-mas-n%C3%A3o-entra-no-modo-de-seguran%C3%A7a/?do=getNewComment "Windows Inicia Normalmente Mas Não Entra No Modo de Segurança")
         
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [wd006](https://www.clubedohardware.com.br/profile/1254461-wd006/ "Ir ao perfil de wd006")  
-        3 horas atrás
+        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
+        Por [Wladimir Cabral](https://www.clubedohardware.com.br/profile/422616-wladimir-cabral/ "Ir ao perfil de Wladimir Cabral")  
+        58 minutos atrás
         
-    * [![JonatasWSF](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254460.thumb.jpeg.b27e541de840865bf19d7b956ad69e2b.jpeg)](https://www.clubedohardware.com.br/profile/1254460-jonataswsf/ "Ir ao perfil de JonatasWSF")
+    * [![LucasMZ2](https://www.clubedohardware.com.br/uploads/members/monthly_2022_08/1435600673_bigssomkeeluiZ.thumb.jpg.064063177acb23d9abdb5278c6268b27.jpg)](https://www.clubedohardware.com.br/profile/1201084-lucasmz2/ "Ir ao perfil de LucasMZ2")
         
         0
         
-        [Pc liga mas não inicia, nem aparece a tela da BIOS](https://www.clubedohardware.com.br/forums/topic/1699627-pc-liga-mas-n%C3%A3o-inicia-nem-aparece-a-tela-da-bios/?do=getNewComment "Pc liga mas não inicia, nem aparece a tela da BIOS")
+        [Troquei a pilha da BIOS do notebook e ele não da mais Vídeo](https://www.clubedohardware.com.br/forums/topic/1699636-troquei-a-pilha-da-bios-do-notebook-e-ele-n%C3%A3o-da-mais-v%C3%ADdeo/?do=getNewComment "Troquei a pilha da BIOS do notebook e ele não da mais Vídeo")
         
         [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [JonatasWSF](https://www.clubedohardware.com.br/profile/1254460-jonataswsf/ "Ir ao perfil de JonatasWSF")  
-        3 horas atrás
+        Por [LucasMZ2](https://www.clubedohardware.com.br/profile/1201084-lucasmz2/ "Ir ao perfil de LucasMZ2")  
+        1 hora atrás
         
-    * [![Gustavo Amaral](https://lh4.googleusercontent.com/--q8kwxdhhqo/AAAAAAAAAAI/AAAAAAAACz8/3jn_W9zauSI/photo.jpg)](https://www.clubedohardware.com.br/profile/845648-gustavo-amaral/ "Ir ao perfil de Gustavo Amaral")
+    * [![gustavokaka](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253881.thumb.png.c954e2435b5901a4066b4e50e8b22d1b.png)](https://www.clubedohardware.com.br/profile/1253881-gustavokaka/ "Ir ao perfil de gustavokaka")
         
-        0
+        6
         
-        [Controle Machenike G5 Pro (botão piscando)](https://www.clubedohardware.com.br/forums/topic/1699626-controle-machenike-g5-pro-bot%C3%A3o-piscando/?do=getNewComment "Controle Machenike G5 Pro (botão piscando)")
+        [Upgrade para Ryzen 5 5600X e GeForce RTX 3060 até R$ 5.000](https://www.clubedohardware.com.br/forums/topic/1699635-upgrade-para-ryzen-5-5600x-e-geforce-rtx-3060-at%C3%A9-r-5000/?do=getNewComment "Upgrade para Ryzen 5 5600X e GeForce RTX 3060 até R$ 5.000")
         
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Gustavo Amaral](https://www.clubedohardware.com.br/profile/845648-gustavo-amaral/ "Ir ao perfil de Gustavo Amaral")  
-        3 horas atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [gustavokaka](https://www.clubedohardware.com.br/profile/1253881-gustavokaka/ "Ir ao perfil de gustavokaka")  
+        1 hora atrás
         
-    * [![xozzn](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1186298.thumb.jpeg.5cd892520fb0447716e35b33240fe3de.jpeg)](https://www.clubedohardware.com.br/profile/1186298-xozzn/ "Ir ao perfil de xozzn")
+    * [![Allan01](https://lh6.googleusercontent.com/-XnM1zWZ02p0/AAAAAAAAAAI/AAAAAAAAANE/HdjntzttSkA/photo.jpg)](https://www.clubedohardware.com.br/profile/928906-allan01/ "Ir ao perfil de Allan01")
         
-        0
+        2
         
-        [3600+2060 dando muito gargalo](https://www.clubedohardware.com.br/forums/topic/1699625-36002060-dando-muito-gargalo/?do=getNewComment "3600+2060 dando muito gargalo")
+        [Memórias Asgard Loki incompatíveis com b550 aorus elite?](https://www.clubedohardware.com.br/forums/topic/1699634-mem%C3%B3rias-asgard-loki-incompat%C3%ADveis-com-b550-aorus-elite/?do=getNewComment "Memórias Asgard Loki incompatíveis com b550 aorus elite?")
         
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [xozzn](https://www.clubedohardware.com.br/profile/1186298-xozzn/ "Ir ao perfil de xozzn")  
-        3 horas atrás
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Allan01](https://www.clubedohardware.com.br/profile/928906-allan01/ "Ir ao perfil de Allan01")  
+        2 horas atrás
         
-    * [![Leumm1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254458.thumb.png.6122e068568edd6f58377c98d609c561.png)](https://www.clubedohardware.com.br/profile/1254458-leumm1/ "Ir ao perfil de Leumm1")
-        
-        1
-        
-        [Duex DX A320ZG M2 e Ryzen 5 5600G suportam a GeForce RTX 3050?](https://www.clubedohardware.com.br/forums/topic/1699621-duex-dx-a320zg-m2-e-ryzen-5-5600g-suportam-a-geforce-rtx-3050/?do=getNewComment "Duex DX A320ZG M2 e Ryzen 5 5600G suportam a GeForce RTX 3050?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Leumm1](https://www.clubedohardware.com.br/profile/1254458-leumm1/ "Ir ao perfil de Leumm1")  
-        5 horas atrás
-        
-    * [![PeterThunder123](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1235144.thumb.jpeg.9bd61c6bbaa56e02d19caee39e70b8f9.jpeg)](https://www.clubedohardware.com.br/profile/1235144-peterthunder123/ "Ir ao perfil de PeterThunder123")
+    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
         
         0
         
-        [Configurações sobre o Xbox Game Bar não salvam](https://www.clubedohardware.com.br/forums/topic/1699618-configura%C3%A7%C3%B5es-sobre-o-xbox-game-bar-n%C3%A3o-salvam/?do=getNewComment "Configurações sobre o Xbox Game Bar não salvam")
+        [hdds 2.5" ejetados do windows e continuam ligados](https://www.clubedohardware.com.br/forums/topic/1699633-hdds-25-ejetados-do-windows-e-continuam-ligados/?do=getNewComment "hdds 2.5" ejetados do windows e continuam ligados")
         
-        [Gravação e edição de imagens, áudio e vídeo](https://www.clubedohardware.com.br/forums/forum/54-grava%C3%A7%C3%A3o-e-edi%C3%A7%C3%A3o-de-imagens-%C3%A1udio-e-v%C3%ADdeo/ "Gravação e edição de imagens, áudio e vídeo")  
-        Por [PeterThunder123](https://www.clubedohardware.com.br/profile/1235144-peterthunder123/ "Ir ao perfil de PeterThunder123")  
-        5 horas atrás
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
+        3 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
