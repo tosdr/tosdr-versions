@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/ECommitteeSubmission/54SCJUST_SCF_7AE312DE-AFEE-40A8-8BE3-08DCDC4C6A57/CreateSubmission/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/footer/privacy/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/ECommitteeSubmission/54SCJUST_SCF_7AE312DE-AFEE-40A8-8BE3-08DCDC4C6A57/CreateSubmission/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/footer/privacy/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
