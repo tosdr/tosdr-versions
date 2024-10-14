@@ -618,6 +618,15 @@ If you contact PacificSource by email, once your email is received, we preserve 
 
 If you register for an online user account with PacificSource, you will be required to supply a valid email address and agree to the Website Portals Usage Agreement. By registering for an account, and voluntarily submitting your email address, you are agreeing that PacificSource may use your email address in the following ways: (1) as a piece of identifying information which may be used to authenticate your identity, (2) to correspond with you and provide you information about your account, and (3) to send you other health insurance messages, including messages related to your coverage, as PacificSource deems reasonable and/or necessary.
 
+### SMS / Text Messaging 
+
+1. We may send you Text / SMS messages to communicate important information related to your PacificSource coverage. 
+2. You can cancel the SMS service at any time. Just text "STOP" to the short code (722772). After you send the SMS message "STOP" to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If you want to join again, text “START” to the short code (722772) and we will start sending SMS messages to you again.
+3. If you are experiencing issues with the messaging program you can reply with the keyword HELP for more assistance, or you can get help directly at [cs@PacificSource.com](mailto:cs@PacificSource.com) or 888-977-9299.
+4. Carriers and PacificSource are not liable for delayed or undelivered messages.
+5. As always, message and data rates may apply for any messages sent to you from us and to us from you. The frequency of the messages you may receive from us will vary depending on the types of communications we determine are appropriate. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
+6. If you have any questions regarding privacy, please read our privacy policy: [Notice of Privacy Practice | PacificSource](https://pacificsource.com/privacy-policy)
+
 ### **Office closures**
 
 In case of an emergency office closure at PacificSource, we will update our operating hours on social media and post signs on public access doors. These signs and our social media updates will include phone numbers for assistance.
