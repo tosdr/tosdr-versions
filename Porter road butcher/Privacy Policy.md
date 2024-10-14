@@ -2,13 +2,9 @@
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-15% off loin cuts [save](https://porterroad.com/collections/cuts-from-the-loin)
-
 Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
 Flat Rate Shipping on Orders $125+ [details](#)
-
-15% off loin cuts [save](https://porterroad.com/collections/cuts-from-the-loin)
 
 Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
@@ -89,9 +85,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     
     See Details](https://porterroad.com/products/gift-card-1)
     
-    [Save 15%
-    
-    ### Bone-In Ribeye
+    [### Bone-In Ribeye
     
     Dry Aged
     
