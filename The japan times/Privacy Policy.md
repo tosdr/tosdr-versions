@@ -522,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -566,23 +566,13 @@ Latest News
 
 [Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson](https://www.japantimes.co.jp/news/2024/10/14/world/nobel-prize-economics-2024/ "Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson")
 
-6 hours ago
-
 [Hakamata makes first public appearance since acquittal](https://www.japantimes.co.jp/news/2024/10/14/japan/crime-legal/hakamata-first-appearance-after-acquittal/ "Hakamata makes first public appearance since acquittal")
-
-7 hours ago
 
 [A frustrated Trump lashes out behind closed doors over money](https://www.japantimes.co.jp/news/2024/10/14/world/politics/frustrated-trump-closed-doors-money/ "A frustrated Trump lashes out behind closed doors over money")
 
-7 hours ago
-
 [South Korea military says 'fully ready' as drone tensions soar](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/politics/south-korea-military-drone/ "South Korea military says 'fully ready' as drone tensions soar")
 
-7 hours ago
-
 [A decade of Jokowi: Popular Indonesian leader leaves rocky legacy](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/politics/jokowi-indonesia-legacy-critics/ "A decade of Jokowi: Popular Indonesian leader leaves rocky legacy")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
