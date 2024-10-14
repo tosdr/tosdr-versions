@@ -217,6 +217,12 @@ We may amend or update our Privacy Policy. We will provide you notice of amendme
 
 [Back to top](#top-of-page)
 
+### Privacy Rights for United States Residents
+
+You can learn more about the consumer privacy rights that may be available to you, by reviewing the United States Regional Privacy Notice [here](https://www.whatsapp.com/legal/ca-privacy-notice).
+
+[Back to top](#top-of-page)
+
   
   
 
@@ -224,7 +230,7 @@ We may amend or update our Privacy Policy. We will provide you notice of amendme
 
 Contact Us
 
-If you have questions or issues about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/915483389072145).
+If you have questions or issues about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/696255948470523/).
 
 WhatsApp LLC  
   
