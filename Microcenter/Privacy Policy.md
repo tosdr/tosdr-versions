@@ -1,5 +1,3 @@
- 
-
 Member Pricing Free Until 2025
 
 Meet Micro Center Member Pricing
@@ -42,11 +40,11 @@ Search for product
     
     Dallas
     
-    Opens 10AM Mon
+    Opens at 10AM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
-* Open 11am - 6pm today
+* Open 10am - 9pm today
 * * ![Close Modal](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_buttons_btn_closeModal.png)Close Your Store Modal
     * Your Store
         
