@@ -130,11 +130,22 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 [Download Speedify](https://speedify.com/download/) 
 
+Upcoming Events
+---------------
+
+Oct 16
+
+10:00 am - 11:00 am EDT
+
+### [10/16 @ 10am EDT – Routers that can BOND Wifi, 5G, Starlink | Ask the CEO your tech questions](https://speedify.com/event/10-16-10am-edt-routers-that-can-bond-wifi-5g-starlink-ask-the-ceo-your-tech-questions/ "10/16 @ 10am EDT – Routers that can BOND Wifi, 5G, Starlink | Ask the CEO your tech questions")
+
+[View Calendar](https://speedify.com/calendar/ "View more events.")
+
 #### Popular Posts
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
 * [New Miri X510 Bonding Network Router Powered by Speedify](https://speedify.com/blog/news/miri-x510-bonding-network-router-powered-by-speedify/)
-* [How to Easily Fix Instagram Freezing Issues for Good](https://speedify.com/blog/how-to/how-to-fix-instagram-freezing-problem/)
+* [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
 
 ### Bonding Apps
 
@@ -192,7 +203,3 @@ Follow us!
 * [Help](https://speedify.com/help/)
 * [Sign In](https://my.speedify.com/)
 * [Download](https://speedify.com/download/)
-
-                        
-
-This website uses cookies. To learn more, visit our [Cookie Policy](https://speedify.com/cookie-policy)[Ok](#)
