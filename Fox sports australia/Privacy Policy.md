@@ -18,10 +18,12 @@ FOX SCORES
     
 * [Women's T20 WC
     
+    NZL won by 54 runs
+    
     |     |     |
     | --- | --- |
-    | PAK |     |
-    | NZL | 0 /4 |
+    | PAK | 56  |
+    | NZL | 6 /110 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250119)
 * [Men's Test
@@ -34,16 +36,6 @@ FOX SCORES
     | ENG | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
-* [Women's T20
-    
-    BRI won by 7 wkts
-    
-    |     |     |
-    | --- | --- |
-    | ACT | 93  |
-    | BRI | 3 /94 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250110)
 * [Women's T20
     
     HOB won by 8 wkts
@@ -142,6 +134,16 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240801)
 * Motorsport
     
+* [Formula 1
+    
+    19/10 4:30 AEST
+    
+    |     |
+    | --- |
+    | United States Grand Prix |
+    |     |
+    
+    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=593)
 * [MotoGP
     
     18/10 10:45 AEST
@@ -156,66 +158,28 @@ FOX SCORES
     
 * [NFL
     
-    Full Time
+    15/10 11:15 AEST
     
     |     |     |
     | --- | --- |
-    | LV  | 13  |
-    | PIT | 32  |
+    | NYJ | –   |
+    | BUF | –   |
     
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250611)
-* [NFL
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250615)
+* Football
     
-    Full Time
+* [WCQ
     
-    |     |     |
-    | --- | --- |
-    | DEN | 16  |
-    | LAC | 23  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250610)
-* [NFL
-    
-    Full Time
+    15/10 21:35 AEST
     
     |     |     |
     | --- | --- |
-    | CAR | 20  |
-    | ATL | 38  |
+    | JPN | –   |
+    | AUS | –   |
     
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250613)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DAL | 9   |
-    | DET | 47  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250612)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NYG | 7   |
-    | CIN | 17  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250614)
+    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250401)
 * Baseball
     
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | LAD | 9   |
-    | NYM | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002E0214)
 * [MLB
     
     15/10 7:08 AEST
@@ -981,7 +945,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
