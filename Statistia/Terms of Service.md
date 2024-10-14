@@ -4,7 +4,6 @@
 
 [Statista Logo](https://www.statista.com/)
 
-* [](https://www.statista.com/newsletter/subscription)
 * * statista.com
     * [statista.es](https://es.statista.com/ "statista.es")
     * [statista.de](https://de.statista.com/ "statista.de")
