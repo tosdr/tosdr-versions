@@ -1,3 +1,9 @@
+  
+**Warning**: include\_once(../\_include/svgs-flags.php): failed to open stream: No such file or directory in **/var/www/softorbits.com/\_include/templates.php** on line **209**  
+  
+**Warning**: include\_once(): Failed opening '../\_include/svgs-flags.php' for inclusion (include\_path='.:/usr/share/php') in **/var/www/softorbits.com/\_include/templates.php** on line **209**  
+ SoftOrbits Privacy Policy English                                           
+
 SoftOrbits
 
 * [Our products](https://www.softorbits.net/download.html)
