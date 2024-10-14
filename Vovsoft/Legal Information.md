@@ -115,7 +115,7 @@ Please allow 1-2 business days for an email response. Note that emailing your co
 
 ![Top](/images/arrow-up.png)
 
-* [![Share on Facebook](/images/share-facebook.png "Share on Facebook")](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fvovsoft.com%2Fdmca%2F)
-* [![Share on Twitter](/images/share-x.png "Share on Twitter")](http://twitter.com/share/?url=https%3A%2F%2Fvovsoft.com%2Fdmca%2F&text=DMCA+Compliance+Statement+-+Vovsoft&via=vovsoft)
+* [![Share on Facebook](/images/share-facebook.png "Share on Facebook")](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fvovsoft.com%2Fdmca%2F)
+* [![Share on Twitter](/images/share-x.png "Share on Twitter")](https://twitter.com/share/?url=https%3A%2F%2Fvovsoft.com%2Fdmca%2F&text=DMCA+Compliance+Statement+-+Vovsoft&via=vovsoft)
 * [![Share on Linkedin](/images/share-linkedin.png "Share on Linkedin")](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fvovsoft.com%2Fdmca%2F)
 * [![Share on WhatsApp](/images/share-whatsapp.png "Share on WhatsApp")](https://web.whatsapp.com/send?text=https%3A%2F%2Fvovsoft.com%2Fdmca%2F)
