@@ -135,7 +135,7 @@ Search for:
 
 [Share](https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.thebookdesigner.com%2Fprivacy-policy%2F)
 
-Pin
+[Pin](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.thebookdesigner.com%2Fprivacy-policy%2F)
 
 0 Shares
 
