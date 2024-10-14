@@ -1060,7 +1060,7 @@ Please note, some products may not be available in your location.
 * [Affiliate](https://www.binance.com/en/activity/affiliate)
 * [Referral](https://www.binance.com/en/activity/referral?utm_source=Lite_web_footer)
 * [OTC Trading](https://www.binance.com/en/otc)
-* [Historical Market Data](https://www.binance.com/en/landing/data)
+* [Historical Market Data](https://data.binance.vision/)
 * [Proof of Reserves](https://www.binance.com/en/proof-of-reserves)
 
 ### Support
