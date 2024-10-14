@@ -142,7 +142,6 @@ If you have any questions about these Terms, please contact us.
 * [About](https://thegameawards.com/about)
 * [future class](https://thegameawards.com/future-class)
 * [FAQ](https://thegameawards.com/faq)
-* [Jury](https://thegameawards.com/voting-jury)
 * [Contact](https://thegameawards.com/about#about-contact)
 * [Privacy](https://thegameawards.com/privacy-policy)
 * [Terms](https://thegameawards.com/terms-and-conditions)
