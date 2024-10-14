@@ -51,8 +51,9 @@ Inhaltsverzeichnis
 17. [Nähere Informationen zum Hosting](#17)
 18. [Nähere Informationen zu Social Media Follow-us Buttons](#18)
 19. [Externe Inhalte](#19)
-20. [Kontakt, Geltendmachung Ihrer Rechte](#20)
-21. [Wie oft aktualisieren wir diese Datenschutzhinweise?](#21)
+20. [Unsere Nutzung der Utiq-Technologie](#20)
+21. [Kontakt, Geltendmachung Ihrer Rechte](#21)
+22. [Wie oft aktualisieren wir diese Datenschutzhinweise?](#22)
 
 Wir, die Ströer media brands GmbH, Torstraße 49, 10119 Berlin ("SMB", "wir" oder "uns"), freuen uns über Ihren Besuch auf spielaffe.de.
 
@@ -88,7 +89,7 @@ Die von uns gemeinsam mit den anderen Verantwortlichen verantworteten Verarbeitu
 * Einkauf von Werbeflächen;
 * Ausspielung von Werbung auf der Website.  
     Nähere Informationen zur Datenverarbeitung in gemeinsamer Verantwortlichkeit durch die anderen Vendoren finden Sie in deren Datenschutzhinweisen, die sie aus unserem "**[Datenschutz-Manager](#)**" heraus aufrufen können.  
-    Zur Wahrnehmung Ihrer Rechte als betroffene Person (hierzu näher im Abschnitt [13\. Welche Rechte haben Sie hinsichtlich Ihrer Daten?](#13)) können Sie sich entweder direkt an uns wenden (unsere Kontaktdaten finden Sie im Abschnitt [20\. Kontakt, Geltendmachung Ihrer Rechte](#20)) oder die im "**[Datenschutz-Manager](#)**" genannten Vendoren kontaktieren. Die gemeinsam Verantwortlichen haben sich darüber hinaus darauf verständigt, dass SMB als Publisher der Website als zentrale Anlaufstelle für die Wahrnehmung von Rechten der betroffenen Personen gegenüber sämtlichen gemeinsam Verantwortlichen agiert.
+    Zur Wahrnehmung Ihrer Rechte als betroffene Person (hierzu näher im Abschnitt [13\. Welche Rechte haben Sie hinsichtlich Ihrer Daten?](#13)) können Sie sich entweder direkt an uns wenden (unsere Kontaktdaten finden Sie im Abschnitt [21\. Kontakt, Geltendmachung Ihrer Rechte](#21)) oder die im "**[Datenschutz-Manager](#)**" genannten Vendoren kontaktieren. Die gemeinsam Verantwortlichen haben sich darüber hinaus darauf verständigt, dass SMB als Publisher der Website als zentrale Anlaufstelle für die Wahrnehmung von Rechten der betroffenen Personen gegenüber sämtlichen gemeinsam Verantwortlichen agiert.
 
 **6\. Welche Ihrer Daten verarbeiten wir?**  
 Wir verarbeiten Informationen über Sie, wenn Sie unsere Website nutzen, also sich z. B. einen Artikel oder ein Video ansehen. In Zusammenhang mit der Website verarbeiten wir folgende Daten in alleiniger oder gemeinsamer Verantwortlichkeit:
@@ -279,7 +280,7 @@ Folge eines Widerspruchs ist der Stopp der künftigen Verwendung. Dem Widerspruc
 **_14.2 Widerspruchsrecht aus persönlichen Gründen_**  
 Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, der Datenverarbeitung durch uns zu widersprechen, soweit sich diese auf unsere berechtigten Interessen stützt. Wir werden dann die Verarbeitung Ihrer Daten einstellen, es sei denn, wir können zwingende schutzwürdige Gründe für die Weiterverarbeitung nachweisen, welche Ihre Rechte überwiegen oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
 
-Für die Geltendmachung eines Widerspruchs genügt eine formlose Mitteilung an uns. Bitte nutzen Sie hierfür die im Abschnitt [20\. Kontakt, Geltendmachung Ihrer Rechte](#20) angegebenen Informationen.
+Für die Geltendmachung eines Widerspruchs genügt eine formlose Mitteilung an uns. Bitte nutzen Sie hierfür die im Abschnitt [21\. Kontakt, Geltendmachung Ihrer Rechte](#21) angegebenen Informationen.
 
 Bitte beachten Sie, dass wir in Bezug auf die Datenverarbeitung in gemeinsamer Verantwortlichkeit sowie generell im Zusammenhang mit Cookies grundsätzlich nicht in der Lage sind, Sie anhand Ihres Namens oder Ihrer E-Mail-Adresse zu identifizieren.
 
@@ -392,7 +393,24 @@ Bei einigen Artikeln der Website sind sogenannte Social Embeds integriert (z.B. 
 Zum Schutz Ihrer Daten weisen wir vor der Anzeige der jeweiligen Social Embeds darauf hin, dass eine Weitergabe von Daten stattfindet, sofern Sie sich die Social Embeds anzeigen lassen möchten. Sie haben dann die Möglichkeit, eine Einwilligung in die Datenweitergabe an den jeweiligen Social Embed Anbieter abzugeben und sich den Inhalt per Klick anzeigen zu lassen oder auf die Anzeige des Social Embeds zu verzichten.  
 Wir holen pro Social Embed Anbieter eine gesonderte Einwilligung ein, die Sie per Anbieter jederzeit mit Wirkung für die Zukunft widerrufen können.
 
-**20\. Kontakt, Geltendmachung Ihrer Rechte**  
+**20\. Unsere Nutzung der Utiq-Technologie**
+
+Die Utiq-Technologie wird von Utiq SA/NV bereitgestellt, einem europäischen AdTech-Unternehmen, das mit teilnehmenden Telekommunikationsnetzbetreibern (siehe Liste [hier](https://consenthub.utiq.com/pages/privacy-statement)) zusammenarbeitet, die zum Betrieb der Technologie beitragen. Die Utiq-Technologie ermöglicht es Webseiten wie der unseren, die die Utiq-Technologie nutzen, unsere digitalen Marketingaktivitäten durchzuführen.
+
+Wir verwenden die Utiq-Technologie auf unserer Webseite. Wenn Sie der Aktivierung dieser Technologie zustimmen, werden wir sie verwenden, um Sie als denselben Webseiten-Besucher zu erkennen und Erkenntnisse über Ihr Nutzungsverhalten auf unserer Webseite zu sammeln. So können wir Ihnen personalisierte Inhalte und Werbung anbieten oder Analysen durchführen, je nachdem, welche zusätzlichen Einwilligungen Sie uns für diese Zwecke erteilt haben. Wenn Sie die Utiq-Technologie auf einer unserer anderen Webseiten aktivieren (siehe Liste [hier](https://www.spielaffe.de/utiq-verwalten/#manage-utiq-website-list)), können wir die Utiq-Technologie nutzen, um Sie zu erkennen und Ihr Surfverhalten auf diesen Webseiten zu erfassen.
+
+Die Utiq-Technologie ist standardmäßig ausgeschaltet und erfordert Ihre Einwilligung, um aktiviert und verwendet zu werden. Die Technologie ist nur verfügbar, wenn Sie Kunde eines der teilnehmenden Telekommunikationsnetzbetreiber sind.  
+Für bestimmte Phasen der Datenverarbeitung fungieren wir zusammen mit Utiq als gemeinsamer Datenverantwortlicher. Als Teil dieser gemeinsamen Datenverantwortlichkeit holen wir Ihre Einwilligung zur Nutzung der Utiq-Technologie ein; dies gilt auch für die von Utiq und Ihrem Telekommunikationsnetzbetreiber durchgeführten Verarbeitungsprozesse; stellen wir Ihnen einen speziellen Link am unteren Rand unserer Webseite bereit, über den Sie Informationen über die Technologie und deren Verwaltung erhalten; stellt Utiq Ihnen ein Datenschutzportal ([consenthub](https://consenthub.utiq.com/)) zur Verfügung, um Ihnen die Ausübung Ihrer Datenschutzrechte zu erleichtern und Ihnen die einfache Verwaltung Ihrer Einwilligungen bei Utiq zu ermöglichen; zu jeder Zeit, an einem Ort.
+
+Ungeachtet dessen, dass Sie Ihre Rechte in Bezug auf jeden Datenverantwortlichen ausüben können, fungiert Utiq als gemeinsame Kontaktstelle für alle Fragen oder Anliegen, die Sie im Zusammenhang mit der Utiq-Technologie haben.
+
+Über das ([Utiq-Datenschutzportal (consenthub)](https://consenthub.utiq.com/)) können Sie alle von Ihnen erteilten Einwilligungen zur Nutzung der Utiq-Technologie auf allen an Utiq beteiligten Webseiten einsehen und widerrufen.
+
+Sie können Ihre nur für diese Webseite geltende Einwilligung auch [hier](https://www.spielaffe.de/utiq-verwalten/) widerrufen.
+
+Weitere Informationen über die Utiq-Technologie finden Sie in der [Datenschutzerklärung von Utiq](https://consenthub.utiq.com/pages/privacy-statement).
+
+**21\. Kontakt, Geltendmachung Ihrer Rechte**  
 Um Ihre vorstehenden Rechte wahrzunehmen, verwenden Sie bitte unser [Webformular](https://stroeer-requests.my.onetrust.com/webform/5223f5cf-ed85-4b3d-a37c-2f49312cbd78/bc6191dc-5ebe-4e19-8413-d330dff68a18).
 
 Bei Fragen oder Anmerkungen zu diesen Datenschutzhinweisen oder allgemein zum Datenschutz, wenden Sie sich bitte an:  
@@ -404,9 +422,9 @@ Torstr. 49
 Sie können Ihre Rechte in Bezug auf die Verarbeitung in gemeinsamer Verantwortlichkeit auch unmittelbar gegenüber den im **[Datenschutz-Manager](#)** genannten Vendoren geltend machen. Die gemeinsam Verantwortlichen (siehe hierzu im Abschnitt [4\. Wer ist für die Verarbeitung Ihrer Daten verantwortlich?](#4)) haben sich darüber hinaus darauf verständigt, dass Ströer als zentrale Anlaufstelle für die Wahrnehmung von Rechten der betroffenen Personen gegenüber sämtlichen gemeinsam Verantwortlichen agiert.  
 Wenn Sie Fragen zur Verarbeitung Ihrer personenbezogenen Daten oder zur Wahrnehmung Ihrer Rechte nach der DSGVO haben, können Sie unseren Datenschutzbeauftragten zu Rate ziehen. Sie erreichen ihn unter folgender E-Mail-Adresse: [smb-datenschutzbeauftragter@stroeer.de](mailto://smb-datenschutzbeauftragter@stroeer.de)
 
-**21\. Wie oft aktualisieren wir diese Datenschutzhinweise?**  
+**22\. Wie oft aktualisieren wir diese Datenschutzhinweise?**  
 Wir überarbeiten diese Datenschutzhinweise bei Änderungen an unserer Website spielaffe.de oder bei sonstigen Anlässen, die dies erforderlich machen. Die jeweils aktuelle Fassung finden Sie stets auf dieser Seite.  
-Die Datenschutzhinweise wurden zuletzt am 12.06.2024 aktualisiert.
+Die Datenschutzhinweise wurden zuletzt am 14.10.2024 aktualisiert.
 
 [![Spielaffe](#)Spielaffe · Über 3.000 Online-Spiele kostenlos spielen](https://www.spielaffe.de/)[![Medienratgeber](#)Der Medienratgeber für Familien](https://www.schau-hin.info/)[![Co2 neutrale Website](#)](https://www.spielaffe.de/Statisch/co2_neutrales-spielaffe "Co2 neutrale Website")
 
