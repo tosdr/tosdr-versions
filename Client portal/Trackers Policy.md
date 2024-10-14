@@ -33,6 +33,7 @@
         * [See all our use cases →](https://client-portal.io/industries)
 * [Features](https://client-portal.io/features)
 * [Pricing](https://client-portal.io/pricing)
+* [Email Course](https://client-portal.io/email-course/)
 
 [Buy Client Portal](https://client-portal.io/pricing)
 
