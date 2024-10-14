@@ -30,11 +30,11 @@ AI](https://namegenerator.com/place/city)[God Names
 
 AI](https://namegenerator.com/fiction/god)[Last Names](https://namegenerator.com/people/last)[Generative Names](https://namegenerator.com/people/generative)[Clan Names
 
-AI](https://namegenerator.com/people/clan)[Brand Names
+AI](https://namegenerator.com/people/clan)[Demon Names
 
-AI](https://namegenerator.com/business/brand)[Demon Names
+AI](https://namegenerator.com/fiction/demon)[Brand Names
 
-AI](https://namegenerator.com/fiction/demon)[Company Names
+AI](https://namegenerator.com/business/brand)[Company Names
 
 AI](https://namegenerator.com/business/company)
 
