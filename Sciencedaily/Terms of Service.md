@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 13, 2024**
+**October 14, 2024**
 
 * * *
 
@@ -229,6 +229,8 @@ this hour
 
 * * *
 
+* [Mysterious Heating of the Sun's Atmosphere](https://www.sciencedaily.com/releases/2024/10/241011141015.htm)
+* [Evolution in Real Time](https://www.sciencedaily.com/releases/2024/10/241011140950.htm)
 * [Small Brains Can Accomplish Big Things](https://www.sciencedaily.com/releases/2024/10/241003123111.htm)
 * [High-Speed Printable Circuits: Next-Gen Displays](https://www.sciencedaily.com/releases/2024/10/241010142542.htm)
 * [Single-Atom Editing Tech Developed](https://www.sciencedaily.com/releases/2024/10/241011141546.htm)
@@ -237,8 +239,6 @@ this hour
 * [New Tech Improves Structural Strength](https://www.sciencedaily.com/releases/2024/10/241009215431.htm)
 * [3D Printing Method: Unique Objects Quickly](https://www.sciencedaily.com/releases/2024/10/241011141558.htm)
 * ['Inside-Out' Galaxy Growth in Early Universe](https://www.sciencedaily.com/releases/2024/10/241011141247.htm)
-* [Dance, Gibbon, Dance!](https://www.sciencedaily.com/releases/2024/10/241011141154.htm)
-* [19th Century Lions from Kenya Ate Humans](https://www.sciencedaily.com/releases/2024/10/241011140945.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
+[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
 [Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
-[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
+[Gynecology](https://www.sciencedaily.com/news/health_medicine/gynecology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
-[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
+[Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
 
-[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
+[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
 
-[Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
+[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
-[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
+[Human Evolution](https://www.sciencedaily.com/news/fossils_ruins/human_evolution/)
 
   
 
