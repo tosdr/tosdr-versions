@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111026-mid-day-digest-2024-10-11?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111060-mid-day-digest-2024-10-14?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,7 +185,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111026-mid-day-digest-2024-10-11?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111060-mid-day-digest-2024-10-14?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -197,20 +197,20 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34358)
+     [](https://patriotpost.us/cartoons/34366)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Gary Bauer Left-Wing Hate](https://patriotpost.us/opinion/111050-left-wing-hate-2024-10-14)
+*      [Ken Blackwell Calling Out Executions in Iran Could Solve Many Problems in the Region](https://patriotpost.us/opinion/111049-calling-out-executions-in-iran-could-solve-many-problems-in-the-region-2024-10-14)
+*      [The Babylon Bee 9 Things Trump Could Do To Guarantee Victory In November](https://patriotpost.us/opinion/111051-9-things-trump-could-do-to-guarantee-victory-in-november-2024-10-14)
 *      [Tony Perkins How Should Christians Approach the 2024 Election?](https://patriotpost.us/opinion/111028-how-should-christians-approach-the-2024-election-2024-10-12)
 *      [Matthew Continetti How Harris Bombed Her Media Blitz](https://patriotpost.us/opinion/111017-how-harris-bombed-her-media-blitz-2024-10-12)
 *      [The Washington Stand Afghan National in U.S. Plotted ISIS Terror Attack on Election Day](https://patriotpost.us/opinion/111030-afghan-national-in-us-plotted-isis-terror-attack-on-election-day-2024-10-12)
 *      [Imprimis The Dangers of Price Controls](https://patriotpost.us/opinion/111018-the-dangers-of-price-controls-2024-10-12)
 *      [Michael Reagan Kamala Has Nothing in Mind](https://patriotpost.us/opinion/111016-kamala-has-nothing-in-mind-2024-10-11)
-*      [David Harsanyi America’s Bipartisan Spending Suicide Pact](https://patriotpost.us/opinion/111014-americas-bipartisan-spending-suicide-pact-2024-10-11)
-*      [Michael Barone What the Census Can Tell Us About Swing States](https://patriotpost.us/opinion/111013-what-the-census-can-tell-us-about-swing-states-2024-10-11)
-*      [Josh Hammer One Year After Oct. 7, American Voters Face Stark Foreign Policy Choice](https://patriotpost.us/opinion/111012-one-year-after-oct-7-american-voters-face-stark-foreign-policy-choice-2024-10-11)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,7 +224,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
