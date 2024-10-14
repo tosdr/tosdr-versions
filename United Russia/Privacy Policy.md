@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Антон Горелкин: Инициированный «Единой Россией» закон о майнинге криптовалют – первый шаг на пути развития отрасли](https://cdn.er.ru/media/news/October2024/cT7vyNdud8Zv6kP6jURY-small.jpg)](https://er.ru/activity/news/anton-gorelkin-iniciirovannyj-edinoj-rossiej-zakon-o-majninge-kriptovalyut-pervyj-shag-na-puti-razvitiya-otrasli)
+
+[Антон Горелкин: Инициированный «Единой Россией» закон о майнинге криптовалют – первый шаг на пути развития отрасли](https://er.ru/activity/news/anton-gorelkin-iniciirovannyj-edinoj-rossiej-zakon-o-majninge-kriptovalyut-pervyj-shag-na-puti-razvitiya-otrasli)
+
+[#Горелкин](https://er.ru/activity/news?tags%5B0%5D=101387) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#криптовалюта](https://er.ru/activity/news?tags%5B0%5D=110645) [#майнинг](https://er.ru/activity/news?tags%5B0%5D=111501) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
+
+Сегодня 18:40
+
+[![«Молодая Гвардия Единой России» и «Волонтёрская Рота» проведут в новых регионах мероприятия ко Дню отца](https://cdn.er.ru/media/news/October2024/wBIbkMNvPy9XmpwfoUSA-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volontyorskaya-rota-provedut-v-novyh-regionah-meropriyatiya-ko-dnyu-otca)
+
+[«Молодая Гвардия Единой России» и «Волонтёрская Рота» проведут в новых регионах мероприятия ко Дню отца](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volontyorskaya-rota-provedut-v-novyh-regionah-meropriyatiya-ko-dnyu-otca)
+
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=132412) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#деньотца](https://er.ru/activity/news?tags%5B0%5D=111880)
+
+Сегодня 18:03
+
+[![Владимир Якушев: «Единой России» важно слышать больше предложений из регионов и оперативно отвечать на запросы людей](https://cdn.er.ru/media/news/October2024/FPVG8xiHekIhSS1tr7UI-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinoj-rossii-vazhno-slyshat-bolshe-predlozhenij-iz-regionov-i-operativno-otvechat-na-zaprosy-lyudej)
+
+[Владимир Якушев: «Единой России» важно слышать больше предложений из регионов и оперативно отвечать на запросы людей](https://er.ru/activity/news/vladimir-yakushev-edinoj-rossii-vazhno-slyshat-bolshe-predlozhenij-iz-regionov-i-operativno-otvechat-na-zaprosy-lyudej)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#высшаяпартийнаяшколаЕР](https://er.ru/activity/news?tags%5B0%5D=128453) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517)
+
+Сегодня 14:10
+
 [![Кандидаты от «Единой России» набрали 92% голосов на выборах в прошедшее воскресенье](https://cdn.er.ru/media/news/October2024/CtB2o84qpk2UmxyJp3ug-small.jpg)](https://er.ru/activity/news/kandidaty-ot-edinoj-rossii-nabrali-92-golosov-na-vyborah-v-proshedshee-voskresene)
 
 [Кандидаты от «Единой России» набрали 92% голосов на выборах в прошедшее воскресенье](https://er.ru/activity/news/kandidaty-ot-edinoj-rossii-nabrali-92-golosov-na-vyborah-v-proshedshee-voskresene)
@@ -322,30 +346,6 @@
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#Деньработникасельскогохозяйства](https://er.ru/activity/news?tags%5B0%5D=1092253)
 
 13.10.24
-
-[![Добровольцами в зону СВО отправились 12 активистов «Молодой Гвардии Единой России» и «Волонтерской Роты»](https://cdn.er.ru/media/news/October2024/x3WHIsdoszA2tepYPmYU-small.jpeg)](https://er.ru/activity/news/dobrovolcami-v-zonu-svo-otpravilis-12-aktivistov-molodoj-gvardii-edinoj-rossii-i-volonterskoj-roty)
-
-[Добровольцами в зону СВО отправились 12 активистов «Молодой Гвардии Единой России» и «Волонтерской Роты»](https://er.ru/activity/news/dobrovolcami-v-zonu-svo-otpravilis-12-aktivistov-molodoj-gvardii-edinoj-rossii-i-volonterskoj-roty)
-
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Нижегородская область](https://er.ru/activity/news?tags%5B0%5D=1447) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672)
-
-12.10.24
-
-[![«Единая Россия» и ЦК Компартии Китая обсудили форматы российско-китайского сотрудничества](https://cdn.er.ru/media/news/October2024/clPmv7SCVZBycNnp43Ai-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-i-ck-kompartii-kitaya-obsudili-formaty-rossijsko-kitajskogo-sotrudnichestva)
-
-[«Единая Россия» и ЦК Компартии Китая обсудили форматы российско-китайского сотрудничества](https://er.ru/activity/news/edinaya-rossiya-i-ck-kompartii-kitaya-obsudili-formaty-rossijsko-kitajskogo-sotrudnichestva)
-
-[#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133) [#Китай](https://er.ru/activity/news?tags%5B0%5D=263) [#межпартийное взаимодействие](https://er.ru/activity/news?tags%5B0%5D=139731) [#КНДР](https://er.ru/activity/news?tags%5B0%5D=80779)
-
-11.10.24
-
-[![При содействии «Единой России» в Луганске состоялся второй фестиваль «Сердце Донбасса»](https://cdn.er.ru/media/news/October2024/jnnelXFXDH8D6HKzvLNw-small.jpg)](https://er.ru/activity/news/pri-sodejstvii-edinoj-rossii-v-luganske-sostoyalsya-vtoroj-festival-serdce-donbassa)
-
-[При содействии «Единой России» в Луганске состоялся второй фестиваль «Сердце Донбасса»](https://er.ru/activity/news/pri-sodejstvii-edinoj-rossii-v-luganske-sostoyalsya-vtoroj-festival-serdce-donbassa)
-
-[#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671) [#сторонникиЕР](https://er.ru/activity/news?tags%5B0%5D=1093192) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#гражданскиеинициативы](https://er.ru/activity/news?tags%5B0%5D=121730) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-11.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
