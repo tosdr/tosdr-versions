@@ -4,6 +4,7 @@
     
     Shop
     
+    * [Secure promo](https://www.philips-hue.com/en-us/products/smart-security?filters=FK_HUE_LIGHTING_PROD_TYPE_SEC_CAMERAS)
     * [Create your own starter kit](https://www.philips-hue.com/en-us/products/promotions/create-your-own-starter-kit)
     * [New](https://www.philips-hue.com/en-us/products/promotions/newest-philips-hue-products)
     * [Exclusives](https://www.philips-hue.com/en-us/products/all-products?filters=exclusive&page=1&sort=relevance)
