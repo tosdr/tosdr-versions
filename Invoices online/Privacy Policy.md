@@ -118,59 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Henry Venter
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=52602950)  
-Vplay Grafix
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=142622905)  
+Kaylas Creations
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=166926449)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=66653402)  
+ARCHITEK PTY LTD
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=190150370)  
-M's Frozen Delights
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=177106099)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=67358075)  
-Dr V Naik Consult
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=50424207)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=184343489)  
-LEO DEVELOPMENT GROUP
-
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=130062955)  
-Stories (Pty) Ltd t/a Storietyd
-
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=78246397)  
-Secunda Signs T/A Local Print and Signs
-
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=74419177)  
-Peter Salvage Pty Ltd
-
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=63965404)  
-IYD
-
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=21587406)  
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=146968092)  
 Bchange Online CC
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=165942123)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=184009051)  
+MONSTER SECURITY GUARDING
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=99611939)  
-Immediate Health (pty)ltd
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=63789831)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=68738795)  
-Firstweb Hosting & Design
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=134488398)  
+Imvubu General Trading
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=0afdc97ee156358e6be06b6580ee6ed76bdbf6382a9cae2994085ab1c267546b&c=54023275)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=83785547)  
+Stevens Consulting
+
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=190143186)  
+Depot Diesel (Pty) Ltd
+
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=190000686)  
+#DiGi3 Marketing & Design
+
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=12803223)  
+Testpro Laboratory (Pty) Ltd
+
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=144230455)  
+OXYAIDER (PTY) LTD
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=24561885)  
+Stories (Pty) Ltd t/a Storietyd
+
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=135493745)  
+Goju-Ryu Pretoria East
+
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=4dae6a8560a027fba28425d8495d3c797b750f682b5384ac5524b4b7836319f8&c=16556626)  
+FJW Security Cc
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
