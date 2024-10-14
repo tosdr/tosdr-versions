@@ -118,7 +118,7 @@ Je vindt de transparantierapporten van de afgelopen jaren op deze pagina.
 
 ### [Blogs](https://www.bit.nl/blogs)
 
-#### [Vrijheid van meningsuiting versus censuur](https://www.bit.nl/news/3568/293/Vrijheid-van-meningsuiting-versus-censuur)
+#### [Digitale soevereiniteit: wat betekent het voor jou en je bedrijf?](https://www.bit.nl/news/3608/293/Digitale-soevereiniteit-wat-betekent-het-voor-jou-en-je-bedrijf)
 
 [](https://www.bit.nl/blogs)
 
