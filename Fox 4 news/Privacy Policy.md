@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Need a vacation? Here are the destinations with the biggest airfare price drops](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2162120263.jpg?ve=1&tl=1)
+ [![Grand Prairie resident wins $5M from Texas Lottery scratch-off](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/400-million-mega-bucks.png?ve=1&tl=1)
 
- ![Need a vacation? Here are the destinations with the biggest airfare price drops](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2162120263.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/destinations-biggest-airfare-price-drops-2024)
+ ![Grand Prairie resident wins $5M from Texas Lottery scratch-off](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/400-million-mega-bucks.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-resident-wins-5m-from-texas-lottery-scratch-off)
 
-### [Need a vacation? Here are the destinations with the biggest airfare price drops](https://www.fox4news.com/news/destinations-biggest-airfare-price-drops-2024)
+### [Grand Prairie resident wins $5M from Texas Lottery scratch-off](https://www.fox4news.com/news/grand-prairie-resident-wins-5m-from-texas-lottery-scratch-off)
 
- [![5th Circuit Court orders federal judge removed from Texas foster care lawsuit](https://images.foxtv.com/m107833-mcdn.mp.lura.live/iupl/417/502/32/18/417502D68DD8610AD6E883E6D932AB9F.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=ceFcQK3-uhMzS7hzFwhZBPZLBuY&ve=1&tl=1)
+ [![North Richland Hills man killed in hit-and-run by alleged drunk driver](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1)
 
- ![5th Circuit Court orders federal judge removed from Texas foster care lawsuit](https://images.foxtv.com/images.foxtv.com/m107833-mcdn.mp.lura.live/iupl/417/502/32/18/592/333/417502D68DD8610AD6E883E6D932AB9F.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=ceFcQK3-uhMzS7hzFwhZBPZLBuY&ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/5th-circuit-court-orders-federal-judge-removed-from-texas-foster-care-lawsuit)
+ ![North Richland Hills man killed in hit-and-run by alleged drunk driver](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-richland-hills-jose-angel-valles-killed-hit-and-run)
 
-### [5th Circuit Court orders federal judge removed from Texas foster care lawsuit](https://www.fox4news.com/news/5th-circuit-court-orders-federal-judge-removed-from-texas-foster-care-lawsuit)
+### [North Richland Hills man killed in hit-and-run by alleged drunk driver](https://www.fox4news.com/news/north-richland-hills-jose-angel-valles-killed-hit-and-run)
 
- [![Here are the Texas House races that Democrats and Republicans think they can flip](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/11/32/18/478E3EC5ED994AC0B6EC1A1DF2C36D28-1.jpg?ve=1&tl=1)
+ [![Vem Miller: What we know about the man arrested near Trump's rally](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/untitled-design-1.jpg?ve=1&tl=1)
 
- ![Here are the Texas House races that Democrats and Republicans think they can flip](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/11/32/18/592/333/478E3EC5ED994AC0B6EC1A1DF2C36D28-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/here-texas-house-races-democrats-republicans-think-can-flip)
+ ![Vem Miller: What we know about the man arrested near Trump's rally](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/untitled-design-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/vem-miller-las-vegas-man-arrested-trump-coachella-rally)
 
-### [Here are the Texas House races that Democrats and Republicans think they can flip](https://www.fox4news.com/election/here-texas-house-races-democrats-republicans-think-can-flip)
+### [Vem Miller: What we know about the man arrested near Trump's rally](https://www.fox4news.com/news/vem-miller-las-vegas-man-arrested-trump-coachella-rally)
 
- [![Trial for Richard Allen, Delphi murders suspect, starts Monday: What to know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/09/32/18/abby-williams-richard-allen-libby-german.jpg?ve=1&tl=1)
+ [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/fox-local.jpg?ve=1&tl=1)
 
- ![Trial for Richard Allen, Delphi murders suspect, starts Monday: What to know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/09/32/18/592/333/abby-williams-richard-allen-libby-german.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richard-allen-delphi-murders-trial)
+ ![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/fox-local.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
-### [Delphi murders trial starts Monday: What to know](https://www.fox4news.com/news/richard-allen-delphi-murders-trial)
+### [How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://www.fox4news.com/news/how-to-download-fox-local)
 
- [![Aidan Hutchinson out for season with broken tibia](https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2024/10/32/18/gettyimages-2178262403-scaled.jpg?ve=1&tl=1)
+ [![Demi Moore says ex Bruce Willis is in 'stable' health as he battles dementia](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/fnc-getty-bruce-demi3.jpg?ve=1&tl=1)
 
- ![Aidan Hutchinson out for season with broken tibia](https://images.foxtv.com/images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178262403-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/aiden-hutchison-injured-third-quarter-lions-game)
+ ![Demi Moore says ex Bruce Willis is in 'stable' health as he battles dementia](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/fnc-getty-bruce-demi3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bruce-willis-dementia-demi-moore-update-latest-hamptons-film-festival)
 
-### [Aidan Hutchinson out for season with broken tibia](https://www.fox4news.com/sports/aiden-hutchison-injured-third-quarter-lions-game)
+### [Demi Moore says ex Bruce Willis is in 'stable' health as he battles dementia](https://www.fox4news.com/news/bruce-willis-dementia-demi-moore-update-latest-hamptons-film-festival)
 
 ###### [News](https://www.fox4news.com/news)
 
