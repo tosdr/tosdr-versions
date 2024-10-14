@@ -84,21 +84,23 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[![image Yoga Trapèze](/storage/highlights/61343/highlight.webp?v=875313)
+[![image Yoga Trapèze](/storage/highlights/61343/highlight.webp?v=686574)
 
 ##### Yoga Trapèze
 
 lun. 27 janvier 2025 - **12:00** à Crissier salle 2
 
-Le Yoga Trapez est l'outil d'inversion de yoga le plus puissant jamais créé.  Les avantages du yoga d'inversion...](https://app.pole-emotion.ch/cours/61343)[![image Yoga Trapèze](/storage/highlights/61328/highlight.webp?v=877759)
+Le Yoga Trapez est l'outil d'inversion de yoga le plus puissant jamais créé.  Les avantages du yoga d'inversion...](https://app.pole-emotion.ch/cours/61343)[![image Yoga Trapèze](/storage/highlights/61328/highlight.webp?v=689252)
 
 ##### Yoga Trapèze
 
 lun. 14 octobre 2024 - **12:00** à Crissier salle 2
 
-Le Yoga Trapez est l'outil d'inversion de yoga le plus puissant jamais créé.  Les avantages du yoga d'inversion...](https://app.pole-emotion.ch/cours/61328)[](https://app.pole-emotion.ch/evjf)
+Le Yoga Trapez est l'outil d'inversion de yoga le plus puissant jamais créé.  Les avantages du yoga d'inversion...
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=878712)](https://app.pole-emotion.ch/evjf)
+**c'est aujourd'hui!**](https://app.pole-emotion.ch/cours/61328)[](https://app.pole-emotion.ch/evjf)
+
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=690400)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
