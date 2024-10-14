@@ -523,10 +523,10 @@ Get Support
 
 [Live Training](#)[Help Docs](https://support.copy.ai/)[Community](#)
 
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8fa99080372ee502cfcc_logo_white_kerning-fix.svg)
+![copy.ai black and white transparent background logo](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8fa99080372ee502cfcc_logo_white_kerning-fix.svg)
 
 © 2024 CopyAI, Inc
 
 [Privacy Notice](https://copy.ai/privacy-notice)[Terms of Service](https://copy.ai/terms-of-service)[Status](https://status.copy.ai/)
 
-[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/656088bfb2e826ea15790b1b_Frame%20316126176.svg)](https://www.linkedin.com/company/copyai/)[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/656088bf82cf41a39803d531_Frame%20316126177.svg)](https://www.facebook.com/groups/887950931991543/)[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65822605bd3609a56a231a75_x.svg)](https://www.twitter.com/copy_ai)
+[![linkedin icon](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/656088bfb2e826ea15790b1b_Frame%20316126176.svg)](https://www.linkedin.com/company/copyai/)[![facebook icon](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/656088bf82cf41a39803d531_Frame%20316126177.svg)](https://www.facebook.com/groups/887950931991543/)[![twitter "X" logo](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65822605bd3609a56a231a75_x.svg)](https://www.twitter.com/copy_ai)
