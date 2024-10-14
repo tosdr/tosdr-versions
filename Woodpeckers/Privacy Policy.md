@@ -98,6 +98,7 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1727885091/fro
         * [Graphite Pen](https://www.woodpeck.com/measuring/pencils/graphite-pen.html)
         * [Marking Knife](https://www.woodpeck.com/measuring/pencils/wp-marking-knife.html)
         * [Notepad](https://www.woodpeck.com/measuring/pencils/notepad.html)
+    * [Protractors](https://www.woodpeck.com/measuring/protractors.html)
     * [Rules](https://www.woodpeck.com/measuring/rules.html)
         * [Edge Rules](https://www.woodpeck.com/measuring/rules/edge-rules.html)
         * [Hexscale Rules](https://www.woodpeck.com/measuring/rules/hexscale-rules-category.html)
