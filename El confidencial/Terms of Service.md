@@ -512,23 +512,18 @@ Lo principal a tener en cuenta
 
 Volver Arriba
 
-* [Quiénes somos](https://www.elconfidencial.com/espana/2020-12-14/quienes-somos_2876379/ "Quiénes somos")
-* [Trabaja con nosotros](https://www.elconfidencial.com/trabaja-con-nosotros/ "Trabaja con nosotros")
-* [Apps](https://www.elconfidencial.com/apps/ "Apps")
-* [Facebook](https://www.facebook.com/elconfidencial/ "Facebook")
-* [Twitter](https://twitter.com/elconfidencial "Twitter")
-* [Rss](https://www.elconfidencial.com/rss/ "Rss")
+* [Quiénes somos](https://www.elconfidencial.com/espana/2020-12-14/quienes-somos_2876379/)
+* [Trabaja con nosotros](https://www.elconfidencial.com/trabaja-con-nosotros/)
+* [Apps](https://www.elconfidencial.com/apps/)
+* [Facebook](https://www.facebook.com/elconfidencial/)
+* [Twitter](https://twitter.com/elconfidencial)
+* [Rss](https://www.elconfidencial.com/rss/)
 
-* [EC Laboratorio](https://lab.elconfidencial.com/)
-* [EC Brands](https://brands.elconfidencial.com/)
-* [Eventos](https://www.elconfidencial.com/eventos/)
-* [Servicios](https://www.elconfidencial.com/servicios/)
+[Lotería](https://www.elconfidencial.com/sorteos-y-loterias/ "Lotería")
 
-* © TITANIA COMPAÑÍA EDITORIAL, S.L. 2024. España. Todos los derechos reservados
-* [Condiciones](https://www.elconfidencial.com/politicas-de-privacidad/condiciones/ "Condiciones")
-* [Política de Privacidad](https://www.elconfidencial.com/politicas-de-privacidad/privacidad/ "Política de Privacidad")
-* [Política de Cookies](https://www.elconfidencial.com/politicas-de-privacidad/cookies/ "Política de Cookies")
-* [Configuración de cookies](javascript:Didomi.preferences.show(); "Configuración de cookies")
-* Auditado por GFK
-* [Canal Interno de Información](https://elconfidencial.bizneohr.com/whistleblowing-channel/ "Canal Interno de Información")
-* [Datos de mercado proporcionados por TradingView](https://es.tradingview.com/ "Datos de mercado proporcionados por TradingView")
+* [Lotería de Navidad](https://www.elconfidencial.com/loteria-de-navidad/ "Lotería de Navidad")
+* [Buscador Lotería de Navidad 2024](https://www.elconfidencial.com/loteria-de-navidad/buscador/ "Buscador Lotería de Navidad 2024")
+* [Comprobar Lotería de Navidad 2024](https://www.elconfidencial.com/loteria-de-navidad/comprobar/ "Comprobar Lotería de Navidad 2024")
+* [Lotería del Niño 2025](https://www.elconfidencial.com/loteria-nino/ "Lotería del Niño 2025")
+
+© TITANIA COMPAÑÍA EDITORIAL, S.L. 2024. España. Todos los derechos reservados[Condiciones](https://www.elconfidencial.com/politicas-de-privacidad/condiciones/)[Política de Privacidad](https://www.elconfidencial.com/politicas-de-privacidad/privacidad/)[Política de Cookies](https://www.elconfidencial.com/politicas-de-privacidad/cookies/)[Configuración de cookies](javascript:Didomi.preferences.show();)Auditado por GFK[Canal Interno de Información](https://elconfidencial.bizneohr.com/whistleblowing-channel/)[Datos de mercado proporcionados por TradingView](https://es.tradingview.com/)
