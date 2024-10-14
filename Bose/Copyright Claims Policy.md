@@ -1,10 +1,8 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Last chance to save $50 on Ultra Open Earbuds. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html).
+Use code SAVE10 to save 10% on select Certified Refurbished. [Shop](https://www.bose.com/c/refurbished)
 
 Sound for the season: Check out our newest fall arrivals. [Shop](https://www.bose.com/c/new-arrivals)
-
-Sign up for texts & get an extra 10% off Certified Refurbished products. [Sign up](https://cloud.email.bose.com/sms-sign-up).
 
 Back
 
@@ -21,7 +19,6 @@ Back
     * [Accessories](https://www.bose.com/c/accessories)
     * [All Products](https://www.bose.com/c/all-products)
     
-    * [Fall Sale](https://www.bose.com/c/fall-sale)
     * [Sets](https://www.bose.com/c/sets)
     * [Refurbished](https://www.bose.com/c/refurbished)
     * [Gift Cards](https://www.bose.com/gift-cards)
@@ -74,22 +71,20 @@ Back
     * [All Aviation Headsets](https://www.bose.com/c/aviation-headsets)
     * [Aviation Headset Accessories](https://www.bose.com/c/aviation-headsets/accessories)
     
-    [![](https://assets.bosecreative.com/m/38c575022ee21471/webimage-SF_UOEB_NavFlyout_PANEL_Fall_Mobile_image_343x180_x2.png)
+    [![](https://assets.bosecreative.com/m/46d72d3372f1aa07/webimage-SF_FR_NavFlyout_PANEL_Fall_Mobile_image_343x180_x2.png)
     
-    Ultra Open Earbuds
+    Certified Refurbished
     
-    ### Last chance to save $50](https://www.bose.com/ULT-HEADPHONEOPN.html "BUY NOW")
+    ### Save an extra 10%](https://www.bose.com/c/refurbished "SHOP")
     
      
     
-    Ultra Open Earbuds
+    Better sound. Better savings.
+    -----------------------------
     
-    Last chance to save $50
-    -----------------------
+    Save an extra 10% on select Certified Refurbished products with coupon code SAVE10.
     
-    Don’t add regret to your playlist and miss this deal!
-    
-    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html "BUY NOW")
+    [SHOP](https://www.bose.com/c/refurbished "SHOP")
     
 
 * [Explore](#)
@@ -124,20 +119,21 @@ Back
 
 * [Support](#)
     
-    * [Support homepage](https://support.bose.com/s/?language=en_US)
-    * [Troubleshooting](https://support.bose.com/s/guided-trouble-shooter-splash-page?language=en_US)
-    * [Order Tracking](https://www.bose.com/trackorder)
-    * [Returns](https://www.bose.com/returns)
+    * [Help Center](https://support.bose.com/s/?language=en_US)
+    * [My Orders](https://www.bose.com/trackorder)
+    * [My Products](https://www.bose.com/product-registration)
     * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
-    
-    * [Trade In](https://www.bose.com/trade-up)
-    * [Product Registration](https://www.bose.com/product-registration)
-    * [Product Warranty](https://www.bose.com/legal/product-warranty)
-    * [My Bose](https://www.bose.com/my-account)
     
     Back
     
-    [Support homepage](https://support.bose.com/s/?language=en_US)
+    * [Sign In / My Bose](https://www.bose.com/account)
+    * [Track My Order](https://www.bose.com/trackorder)
+    * [Returns & Exchanges](https://www.bose.com/returns)
+    
+    * [Troubleshooting](https://support.bose.com/s/guided-trouble-shooter-splash-page?language=en_US)
+    * [Register My Product](https://www.bose.com/product-registration)
+    * [Trade In Program](https://www.bose.com/trade-up)
+    * [Repair & Replacement](https://support.bose.com/s/repair-and-replacement-request?language=en_US)
     
      
     
@@ -179,11 +175,11 @@ Back
 * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/38c575022ee21471/webimage-SF_UOEB_NavFlyout_PANEL_Fall_Mobile_image_343x180_x2.png)
+[![](https://assets.bosecreative.com/m/46d72d3372f1aa07/webimage-SF_FR_NavFlyout_PANEL_Fall_Mobile_image_343x180_x2.png)
 
-Ultra Open Earbuds
+Certified Refurbished
 
-### Last chance to save $50](https://www.bose.com/ULT-HEADPHONEOPN.html "BUY NOW")
+### Save an extra 10%](https://www.bose.com/c/refurbished "SHOP")
 
 [![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwd7003f58/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
