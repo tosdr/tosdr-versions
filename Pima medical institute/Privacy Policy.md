@@ -235,7 +235,7 @@ Ready To Start Your Future In Healthcare?
 
 Request More Information here and a member of our team will get back to you as soon as possible to answer your questions and talk you through the process of enrolling for our on-campus programs. Or give us a call at [(800) 477-7462](tel:8004777462)
 
-                 
+                
 
 * Program 
     
@@ -284,8 +284,6 @@ Request More Information here and a member of our team will get back to you as s
 * 
 * 
 * 
-* CAPTCHA
-    
 
         
 
@@ -381,5 +379,4 @@ Next
 * 
 * 
 * 
-* 
-* CAPTCHA
+*
