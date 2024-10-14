@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Ruby Ridge](/wp-content/thumbnails/1056-100x70.jpg?x53432)
+* [![Kubrick Remembered](/wp-content/thumbnails/12699-100x70.png?x53432)
     
-    Ruby Ridge
+    Kubrick Remembered
     
-    A documentary on the Federal Siege at Ruby Ridge. "Ruby Ridge was the site of a violent confrontation and siege in the U.S. state of Idaho in 1992. It involved Randy Weaver, his family, Weaver's frien](https://documentaryheaven.com/ruby-ridge/ "Ruby Ridge")
-* [![Panorama: The Battle For Bomb Alley](/wp-content/thumbnails/5068-100x70.jpg?x53432)
+    Kubrick Remembered is one of the bonus films which was included in Stanley Kubrick: The Masterpiece Collection, a boxset which contained many of Kubrick's classics. In this documentary we ar](https://documentaryheaven.com/kubrick-remembered/ "Kubrick Remembered")
+* [![The Edge of Being](/wp-content/thumbnails/4028-100x70.jpg?x53432)
     
-    Panorama: The Battle For Bomb Alley
+    The Edge of Being
     
-    For four years, thousands of British servicemen fought with the Taliban for the district of Sangin – the most violent part of Afghanistan. The fighting cost 106 British lives, including Staff-Sergeant](https://documentaryheaven.com/panorama-the-battle-for-bomb-alley/ "Panorama: The Battle For Bomb Alley")
-* [![What the Bleep Do We Know!?](/wp-content/thumbnails/1313-100x70.jpg?x53432)
+    This short documentary is about the Russian spaceprogram, seen from the perspective of small town Russian farmers and citizen.Point of shooting: Russia, Pleseck. Northern base of Russian aerospac](https://documentaryheaven.com/the-edge-of-being/ "The Edge of Being")
+* [![A Brief History of Time](/wp-content/thumbnails/357-100x70.png?x53432)
     
-    What the Bleep Do We Know!?
+    A Brief History of Time
     
-    This hard-to-describe movie, which combines talking-head documentary footage with a fictional narrative, attempts to explain quantum physics in terms most audiences can understand. The extent to which](https://documentaryheaven.com/what-the-bleep-do-we-know/ "What the Bleep Do We Know!?")
-* [![In Saddam’s Shadow: 10 Years After](/wp-content/thumbnails/7029-100x70.jpg?x53432)
+    The movie about Stephen Hawking’s ideas from his book titled the same and abut his life. A Brief History of Time attempts to explain a range of subjects in cosmology, including the Big Bang, black hol](https://documentaryheaven.com/a-brief-history-of-time/ "A Brief History of Time")
+* [![The Trouble With Evan](/wp-content/thumbnails/8807-100x70.jpg?x53432)
     
-    In Saddam’s Shadow: 10 Years After
+    The Trouble With Evan
     
-    Ten years after the US invasion of Iraq, this documentary series by Vice takes us to Baghdad to see how the city is doing. The film is guided by Waleed Nesyif, after eight years away he is returning h](https://documentaryheaven.com/in-saddams-shadow-10-years-after/ "In Saddam’s Shadow: 10 Years After")
-* [![Riddles in Stone: The Secret Architecture of Washington D.C.](/wp-content/thumbnails/975-100x70.jpg?x53432)
+    This Fifth Estate documentary was filmed in 1994 and is about a troubled 11 year old called Evan and his family. His parents agreed to have video cameras installed in their home for a 3 month period w](https://documentaryheaven.com/trouble-with-evan/ "The Trouble With Evan")
+* [![China’s dirty secrets](/wp-content/thumbnails/7105-100x70.jpg?x53432)
     
-    Riddles in Stone: The Secret Architecture of Washington D.C.
+    China’s dirty secrets
     
-    This documentary explores the highly controversial subject of the design of America’s capital. Was the city built to reflect the majesty of America’s new found freedom? Or the hidden agenda of secret](https://documentaryheaven.com/riddles-in-stone-the-secret-architecture-of-washington-d-c/ "Riddles in Stone: The Secret Architecture of Washington D.C.")
+    China's factories provide low cost products such as computers and cars to the rest of the world. But critics claim such economic progress takes a heavy toll, polluting the country's air, land and rive](https://documentaryheaven.com/chinas-dirty-secrets/ "China’s dirty secrets")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
