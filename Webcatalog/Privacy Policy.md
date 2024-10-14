@@ -209,6 +209,8 @@ Support
 
 [Help](https://webcatalog.io/en/help/)
 
+[Account](https://webcatalog.io/en/account/)
+
 [System Status](https://status.webcatalog.io/)
 
 Company
