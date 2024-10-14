@@ -635,13 +635,13 @@ External
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flow-meters)
             
-            * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-flowmeters)
+            * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-allocation-leak-detection)
                 
             * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flowmeters)
                 
-            * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flowmeters)
+            * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flow-meters)
                 
-            * [Process Flow Meters](https://www.bakerhughes.com/panametrics/flowmeters/process-flowmeters)
+            * [Process Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/process-flow-meters)
                 
             
         * [Industrial Asset Inspection](https://www.bakerhughes.com/industrial-asset-inspection)
@@ -1598,13 +1598,13 @@ Search
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flow-meters)
             
-            * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-flowmeters)
+            * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-allocation-leak-detection)
                 
             * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flowmeters)
                 
-            * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flowmeters)
+            * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flow-meters)
                 
-            * [Process Flow Meters](https://www.bakerhughes.com/panametrics/flowmeters/process-flowmeters)
+            * [Process Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/process-flow-meters)
                 
             
         * [Industrial Asset Inspection](https://www.bakerhughes.com/industrial-asset-inspection)
