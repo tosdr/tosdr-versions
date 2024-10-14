@@ -208,6 +208,8 @@ this hour
 
 * * *
 
+* [Small Brains Can Accomplish Big Things](https://www.sciencedaily.com/releases/2024/10/241003123111.htm)
+* [High-Speed Printable Circuits: Next-Gen Displays](https://www.sciencedaily.com/releases/2024/10/241010142542.htm)
 * [Single-Atom Editing Tech Developed](https://www.sciencedaily.com/releases/2024/10/241011141546.htm)
 * [Electron 'Pinball' in Space After Lightning](https://www.sciencedaily.com/releases/2024/10/241010142536.htm)
 * [Playing Songs to Darwin's Finches: New Species](https://www.sciencedaily.com/releases/2024/10/241010142532.htm)
@@ -216,8 +218,6 @@ this hour
 * ['Inside-Out' Galaxy Growth in Early Universe](https://www.sciencedaily.com/releases/2024/10/241011141247.htm)
 * [Dance, Gibbon, Dance!](https://www.sciencedaily.com/releases/2024/10/241011141154.htm)
 * [19th Century Lions from Kenya Ate Humans](https://www.sciencedaily.com/releases/2024/10/241011140945.htm)
-* [Chaotic 3-Body Problem: Islands of Regularity](https://www.sciencedaily.com/releases/2024/10/241010142636.htm)
-* [Bilingualism Makes the Brain More Efficient](https://www.sciencedaily.com/releases/2024/10/241010142538.htm)
 
 Trending Topics
 ---------------
@@ -232,13 +232,13 @@ this week
 
 [Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
-[Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
+[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
-
 [Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
+
+[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
 
 [Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
 
@@ -248,7 +248,7 @@ this week
 
 [Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
-[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
+[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
 
   
 
