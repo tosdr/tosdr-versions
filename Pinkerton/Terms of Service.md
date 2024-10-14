@@ -63,6 +63,7 @@
     * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
     * [Retail](https://pinkerton.com/industries/retail)
+    * [Manufacturing](https://pinkerton.com/industries/manufacturing)
     
 * About Us
     
@@ -220,6 +221,7 @@ We use appropriate security measures to protect agains the loss, misuse and alte
     * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
     * [Retail](https://pinkerton.com/industries/retail)
+    * [Manufacturing](https://pinkerton.com/industries/manufacturing)
     
 * About Us
     
