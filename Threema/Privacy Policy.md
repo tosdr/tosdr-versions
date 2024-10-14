@@ -111,6 +111,7 @@ Depending on how you interact with the Threema Website, we process the following
 * First name;
 * Last name;
 * Company;
+* Domicile address;
 * Country;
 * Email address;
 * Telephone number;
@@ -122,10 +123,11 @@ What personal data is stored and for how long?
 The following personal data is stored by us (storage period in brackets):
 
 * IP address (for 10 days in logfiles and only if an error occurs when calling up the Threema Website);
-* First name (in principle for a maximum of 6 to 12 months or until revocation);
-* Last name (in principle for a maximum of 6 to 12 months or until revocation);
-* Company (in principle for a maximum of 6 to 12 months or until revocation);
-* Country (in principle for a maximum of 6 to 12 months or until revocation);
+* First name (in principle for a maximum of 6 to 15 months or until revocation);
+* Last name (in principle for a maximum of 6 to 15 months or until revocation);
+* Company (in principle for a maximum of 6 to 15 months or until revocation);
+* Domicile address (in principle for a maximum of 6 to 15 months or until revocation);
+* Country (in principle for a maximum of 6 to 15 months or until revocation);
 * Email address (in principle for a maximum of 6 to 12 months or until revocation);
 * Telephone number (in principle for a maximum of 6 to 12 months or until revocation);
 * Customer status (in principle for a maximum of 6 to 12 months or until revocation).
@@ -138,6 +140,15 @@ We make every effort to process the personal data that occurs when using the Thr
 The following companies located in Switzerland and the EU/EEA are commissioned by us as processors:
 
 * In order for you to register for and participate in webinars, Livestorm SAS located in France processes the first name, last name, company, country, email address and customer status.
+
+Is personal data collected from third parties?
+----------------------------------------------
+
+Principally, Threema does not collect any personal data from third parties.
+
+The following personal data is collected by Threema from companies located in Switzerland and the EU/EEA:
+
+For advertising by letter mail towards business customers (not private individuals or consumers in general), Threema collects from Dun & Bradstreet Schweiz AG, located in Switzerland, the first name, last name, company, domicile address, and country.
 
 What rights do you have?
 ------------------------
