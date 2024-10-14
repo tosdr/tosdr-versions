@@ -34,7 +34,7 @@ Free Returns up to 30 Days Contiguous U.S.
 
 [Drinkware](https://www.zak.com/collections/drinkware)
 
-[Bottles](https://www.zak.com/collections/bottles) [Tumblers](https://www.zak.com/collections/tumblers) [Kids](https://www.zak.com/collections/kids-drinkware) [Deals](https://www.zak.com/collections/drinkware-deals)
+[Bottles](https://www.zak.com/collections/bottles) [Tumblers](https://www.zak.com/collections/tumblers) [Insulated](https://www.zak.com/collections/insulated-drinkware) [Kids](https://www.zak.com/collections/kids-drinkware) [Deals](https://www.zak.com/collections/drinkware-deals)
 
 [](https://www.zak.com/collections/harmony-sustainable-water-bottles)
 
@@ -131,6 +131,8 @@ Hide menu [Drinkware](https://www.zak.com/collections/drinkware)
 [Bottles](https://www.zak.com/collections/bottles)
 
 [Tumblers](https://www.zak.com/collections/tumblers)
+
+[Insulated](https://www.zak.com/collections/insulated-drinkware)
 
 [Kids](https://www.zak.com/collections/kids-drinkware)
 
