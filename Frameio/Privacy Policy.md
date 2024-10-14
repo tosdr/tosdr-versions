@@ -3,61 +3,115 @@
 Mobile navigation
 -----------------
 
-[Start Free Trial](https://accounts.frame.io/welcome)
+[Sign In](https://accounts.frame.io/welcome?auth_callback=https%3A%2F%2Fapp.frame.io%2Fauth%2Fcallback&redirect_path=%2F)
 
-* [Product](https://frame.io/)
-* Integrations
+* Features
     
-    * [All Integrations](https://frame.io/integrations)
-    * [Creative Cloud](https://frame.io/integrations/creative-cloud)
-    * [Final Cut Pro](https://frame.io/integrations/final-cut-pro)
-    * [Media Composer](https://frame.io/integrations/avid-media-composer)
+    Features
+    --------
+    
+    Features
+    --------
+    
+    ### Product
+    
+    1. [Workflow Management](https://frame.io/features/workflow-management)
+    2. [File Management](https://frame.io/features/file-management)
+    3. [Share & Present](https://frame.io/features/present)
+    4. [Review & Approvals](https://frame.io/features/review-and-approval)
+    5. [iOS & iPad](https://frame.io/features/ios-ipad)
+    6. [Camera to Cloud](https://frame.io/features/c2c)
     
 * Enterprise
     
-    * [Overview](https://frame.io/enterprise)
-    * [Content Supply Chain](https://frame.io/content-supply-chain)
+    Enterprise
+    ----------
     
-* [Camera to Cloud](https://frame.io/c2c)
+    Enterprise
+    ----------
+    
+    ### Industries
+    
+    1. [Overview](https://frame.io/enterprise)
+    2. [Media and Entertainment](https://frame.io/enterprise/media-and-entertainment)
+    3. [Agencies](https://frame.io/enterprise/agencies)
+    4. [Brands](https://frame.io/enterprise/brands)
+    
 * Resources
     
-    * [Customers](https://frame.io/customers)
-    * [Blog](https://blog.frame.io/)
-    * [Frame.io Live](https://frame.io/live)
-    * [Support](https://support.frame.io/)
+    Resources
+    ---------
+    
+    Resources
+    ---------
+    
+    ### Insights & solutions
+    
+    1. [Blog](https://blog.frame.io/)
+    2. [Customer Stories](https://frame.io/customers)
+    3. [Frame.io Live](https://frame.io/live)
+    4. [What's New](https://frame.io/whats-new)
+    5. [Support](https://help.frame.io/en/)
+    6. [Resource Hub](https://frame.io/resources)
     
 * [Pricing](https://frame.io/pricing)
-* [V4 Beta](https://frame.io/v4)
 
-* [Start Free Trial](https://accounts.frame.io/welcome)
-* [Sign In](https://app.frame.io/)
+[Contact Sales](https://frame-io.drift.click/chat-with-an-expert)[Start Free Trial](https://accounts.frame.io/welcome/?signup_as_v4_account=true)
 
-* [Product](https://frame.io/)
-* Integrations
+* Features
     
-    * [All Integrations](https://frame.io/integrations)
-    * [Creative Cloud](https://frame.io/integrations/creative-cloud)
-    * [Final Cut Pro](https://frame.io/integrations/final-cut-pro)
-    * [Media Composer](https://frame.io/integrations/avid-media-composer)
+    Features
+    --------
+    
+    Features
+    --------
+    
+    ### Product
+    
+    1. [Workflow Management](https://frame.io/features/workflow-management)
+    2. [File Management](https://frame.io/features/file-management)
+    3. [Share & Present](https://frame.io/features/present)
+    4. [Review & Approvals](https://frame.io/features/review-and-approval)
+    5. [iOS & iPad](https://frame.io/features/ios-ipad)
+    6. [Camera to Cloud](https://frame.io/features/c2c)
     
 * Enterprise
     
-    * [Overview](https://frame.io/enterprise)
-    * [Content Supply Chain](https://frame.io/content-supply-chain)
+    Enterprise
+    ----------
     
-* [Camera to Cloud](https://frame.io/c2c)
+    Enterprise
+    ----------
+    
+    ### Industries
+    
+    1. [Overview](https://frame.io/enterprise)
+    2. [Media and Entertainment](https://frame.io/enterprise/media-and-entertainment)
+    3. [Agencies](https://frame.io/enterprise/agencies)
+    4. [Brands](https://frame.io/enterprise/brands)
+    
 * Resources
     
-    * [Customers](https://frame.io/customers)
-    * [Blog](https://blog.frame.io/)
-    * [Frame.io Live](https://frame.io/live)
-    * [Support](https://support.frame.io/)
+    Resources
+    ---------
+    
+    Resources
+    ---------
+    
+    ### Insights & solutions
+    
+    1. [Blog](https://blog.frame.io/)
+    2. [Customer Stories](https://frame.io/customers)
+    3. [Frame.io Live](https://frame.io/live)
+    4. [What's New](https://frame.io/whats-new)
+    5. [Support](https://help.frame.io/en/)
+    6. [Resource Hub](https://frame.io/resources)
     
 * [Pricing](https://frame.io/pricing)
-* [V4 Beta](https://frame.io/v4)
 
-* [Sign In](https://app.frame.io/)
-* [Start Free Trial](https://accounts.frame.io/welcome)
+* [Contact Sales](https://frame-io.drift.click/chat-with-an-expert)
+* [Sign In](https://accounts.frame.io/welcome?auth_callback=https%3A%2F%2Fapp.frame.io%2Fauth%2Fcallback&redirect_path=%2F)
+* [Start Free Trial](https://accounts.frame.io/welcome/?signup_as_v4_account=true)
 * [](https://www.adobe.com/ "Adobe")
 
 Privacy Policy
@@ -75,6 +129,13 @@ Privacy Policy Table of Contents
 * What does this Privacy Policy cover?
     
 * What information does Frame.io collect about me?
+    
+    * Categories of Personal information We Collect
+        
+    * Categories of Sources of Personal information
+        
+    * Our Business or Commercial Purposes for Collecting Personal information
+        
     
 * How We Disclose Your Personal information
     
@@ -104,6 +165,13 @@ Privacy Policy Table of Contents
 * This Privacy Policy covers how we treat personal information that we gather when you access or use our Services. “Personal information” means any information that identifies or relates to a particular individual or when combined with other information could be used to identify a specific individual and also includes information referred to as “personally identifiable information” or similar terms used in applicable data privacy laws, rules, or regulations. This Privacy Policy does not cover the practices of companies we don’t own or control or people we don’t manage.
     
 * This Privacy Policy covers how Frame.io (also referred to as “we,” “us,” or “our) will make use of your personal information in the context of:
+    
+    * Frame.io websites and web-based services;
+        
+    * Services that display or include a reference to this policy; and
+        
+    * Frame.io’s marketing, sales, and advertising practices.
+        
     
 
 ### What information does Frame.io collect about me?
@@ -172,16 +240,81 @@ We collect Personal information about you from the following categories of sourc
     
 * Personal information we obtain or receive from other sources including:
     
+    * Data brokers and aggregators from which we obtain information to supplement the personal information we collect.
+        
+    * Third party partners, such as third-party applications and services including social networks you choose to connect or interact with through our services.
+        
+    * Service providers such as advertising partners that collect or provide data in connection with assisting us in marketing and promotional services analyzing how you interact and engage with our Services on our behalf.
+        
+    * Service providers that generate leads and create user profiles in connection with sales and marketing efforts.
+        
+    * Publicly available sources, such as open government databases.
+        
+    
 
 #### Our Business or Commercial Purposes for Collecting Personal Information
 
 * **Providing, Customizing and Improving the Services**
     
+    * Creating and managing your account or other user profiles.
+        
+    * Processing orders or other transactions; billing.
+        
+    * Operating and maintaining our features and Services
+        
+    * Providing you with the products, features, services or information you request.
+        
+    * Meeting or fulfilling the reason you provided the information to us.
+        
+    * Providing support and assistance for the Services.
+        
+    * Responding to user inquiries.
+        
+    * Improving the Services, including testing, research, internal analytics and product development.
+        
+    * Providing and monitoring the effectiveness of the Services.
+        
+    * Personalizing the Services, website content and communications based on your preferences.
+        
+    * Remembering your preferences and settings, such as username, so that you will not have to re-enter it during your visit or the next time you visit the Services;
+        
+    * Monitoring aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Services;
+        
+    * Maintaining interoperability with third party services.
+        
+    * Doing fraud protection, security and debugging.
+        
+    * Diagnosing or fixing technology problems.
+        
+    * Carrying out other business purposes stated when collecting your personal information
+        
+    
 * **Marketing the Services**
+    
+    * Marketing and selling the Services.
+        
+    * Showing you advertisements, including interest-based or online behavioral advertising.
+        
     
 * **Corresponding with You**
     
+    * Responding to correspondence that we receive from you, contacting you when necessary or requested, and sending you information about Frame.io or the Services.
+        
+    * Sending emails and other communications according to your preferences or that display content that we think will interest you.
+        
+    
 * **Meeting Legal Requirements and Enforcing Legal Terms**
+    
+    * Fulfilling our legal obligations under applicable law, regulation, court order or other legal process, such as preventing, detecting and investigating security incidents and potentially illegal or prohibited activities.
+        
+    * Protecting the rights, property or safety of you, Frame.io or another party.
+        
+    * Enforcing any agreements with you.
+        
+    * Responding to claims that any posting or other content violates third-party rights.
+        
+    * Resolving disputes.
+        
     
 
 #### How We Disclose Your Personal Information
@@ -190,11 +323,43 @@ We disclose your personal information to the categories of service providers and
 
 * **Service Providers.** These parties help us provide the Services or perform business functions on our behalf. They include:
     
+    * Hosting, technology, and communication providers.
+        
+    * Security, spam, and fraud prevention consultants and providers.
+        
+    * Analytics providers that allow us to provide you with a more personalized experience, investigate issues, and help us improve product quality and features.
+        
+    * Fraud monitoring and prevention providers.
+        
+    * Support and customer service vendors.
+        
+    * Product fulfillment and delivery providers.
+        
+    * Payment processors.
+        
+        * Our payment processing partner Stripe, Inc. (“Stripe”) collects your voluntarily-provided payment card information necessary to process your payment.
+            
+        * Please see Stripe’s terms of service and privacy policy for information on its use and storage of your personal information.
+            
+        
+    
 * **Advertising Partners.** These parties help us market our services and provide you with other offers that may be of interest to you. They include:
+    
+    * Ad networks.
+        
+    * Marketing partners and providers.
+        
     
 * **Business Partners.** These parties partner with us in offering various services and include businesses that you have a relationship with.
     
 * **Parties You Authorize, Access, or Authenticate**
+    
+    * Third parties you access through the services.
+        
+    * Social media services.
+        
+    * Other users.
+        
     
 
 #### Legal Obligations
@@ -433,7 +598,55 @@ We will only process your personal information if we have a lawful basis for doi
 
 * **Contractual Necessity**: We process the following categories of personal information as a matter of “contractual necessity”, meaning that we need to process the data to perform under our Terms of Service with you, which enables us to provide you with the Services. When we process data due to contractual necessity, failure to provide such personal information will result in your inability to use some or all portions of the Services that require such data.
     
+    * Profile or Contact Data
+        
+    * Payment Data
+        
+    * Commercial Data
+        
+    
 * **Legitimate Interest**:
+    
+    * We process the following categories of personal information when we believe it furthers the legitimate interest of us or third parties:
+        
+        * Profile or Contact Data
+            
+        * Device/IP Data
+            
+        * Web Analytics
+            
+        * Social Network Data
+            
+        * Consumer Demographic Data
+            
+        * Professional or Employment Related Data
+            
+        * Geolocation Data
+            
+        * Inferences from Other personal information Collected
+            
+        * Other Identifying Information that You Voluntarily Choose to Provide
+            
+        * We may also de-identify or anonymize personal information to further our legitimate interests.
+            
+        
+    * Examples of these legitimate interests include (as described in more detail above):
+        
+        * Providing, customizing, and improving the Services.
+            
+        * Marketing the Services.
+            
+        * Corresponding with you.
+            
+        * Provision of customer support.
+            
+        * Protection from fraud or security threats.
+            
+        * Meeting legal requirements and enforcing legal terms.
+            
+        * Completing corporate transactions.
+            
+        
     
 * **Consent:** In some cases, we process personal information based on the consent you expressly grant to us at the time we collect such data. When we process personal information based on your consent, it will be expressly indicated to you at the point and time of collection.
     
@@ -465,75 +678,51 @@ The Services are hosted and operated in the United States (“U.S.”) through F
 
 * We may update this Privacy Policy from time to time to account for new technologies, industry practices, regulatory requirements or for other purposes. If we do, we will change the “last updated” date at the top of this policy and the revised policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it. We encourage you to periodically review this Privacy Policy for the latest information on our privacy practices. Under certain circumstances (for example, with certain material changes or where it is required by applicable privacy laws), we will provide notice to you of these changes, and where required by applicable law, we will obtain your consent. Notice may be by email to you, by posting a notice of such changes on our Services, or by other means consistent with applicable law.
     
-* If you have a privacy question, concern, or request, contact us at:  
-    [www.frame.io](https://frame.io/)  
-    [support@frame.io](mailto:support@frame.io)  
-    345 Park Avenue, San Jose, CA 95110, United States
+* If you have a privacy question, concern, or request, contact us at:
+    
+    * [www.frame.io](https://frame.io/)
+        
+    * [support@frame.io](mailto:support@frame.io)
+        
+    * 345 Park Avenue, San Jose, CA 95110, United States
+        
     
 
 [](https://frame.io/)
 
-[Overview](https://frame.io/)
+Features
 
-* [Enterprise](https://frame.io/enterprise)
-* [Content Supply Chain](https://frame.io/content-supply-chain)
-* [Pricing](https://frame.io/pricing)
-* [Customers](https://frame.io/customers)
-* [Camera to Cloud](https://frame.io/c2c)
+* [Workflow Management](https://frame.io/features/workflow-management)
+* [File Management](https://frame.io/features/file-management)
+* [Share & Present](https://frame.io/features/present)
+* [Review & Approval](https://frame.io/features/review-and-approval)
+* [iOS & iPad](https://frame.io/features/ios-ipad)
+* [Camera to Cloud](https://frame.io/features/c2c)
 * [Transfer](https://frame.io/transfer)
-* [Security](https://frame.io/security)
-* [Developers](https://developer.frame.io/)
 
-Overview
-
-* [Enterprise](https://frame.io/enterprise)
-* [Content Supply Chain](https://frame.io/content-supply-chain)
-* [Pricing](https://frame.io/pricing)
-* [Customers](https://frame.io/customers)
-* [Camera to Cloud](https://frame.io/c2c)
-* [Transfer](https://frame.io/transfer)
-* [Security](https://frame.io/security)
-* [Developers](https://developer.frame.io/)
-
-[Integrations](https://frame.io/integrations)
-
-* [All integrations](https://frame.io/integrations)
-* [Premiere Pro](https://frame.io/integrations/creative-cloud)
-* [After Effects](https://frame.io/integrations/creative-cloud)
-* [Final Cut Pro](https://frame.io/integrations/final-cut-pro)
-* [Avid Media Composer](https://frame.io/integrations/avid-media-composer)
-
-Integrations
-
-* [All integrations](https://frame.io/integrations)
-* [Premiere Pro](https://frame.io/integrations/creative-cloud)
-* [After Effects](https://frame.io/integrations/creative-cloud)
-* [Final Cut Pro](https://frame.io/integrations/final-cut-pro)
-* [Avid Media Composer](https://frame.io/integrations/avid-media-composer)
-
-[Company](https://frame.io/)
+Resources
 
 * [Blog](https://blog.frame.io/)
+* [Customer Stories](https://frame.io/customers)
 * [Frame.io Live](https://frame.io/live)
-* [Careers](https://frame.io/careers)
+* [What's New](https://frame.io/whats-new)
+* [Support](https://help.frame.io/en/)
+* [Resource Hub](https://frame.io/resources)
+* [Developers](https://developer.frame.io/)
+* [Status](https://status.frame.io/)
+
+Enterprise
+
+* [Overview](https://frame.io/enterprise)
+* [Agencies](https://frame.io/enterprise/agencies)
+* [Brands](https://frame.io/enterprise/brands)
+* [Media & Entertainment](https://frame.io/enterprise/media-and-entertainment)
 
 Company
 
-* [Blog](https://blog.frame.io/)
-* [Frame.io Live](https://frame.io/live)
+* [Talk with Sales](https://frame-io.drift.click/chat-with-an-expert)
+* [Contact Us](https://frame.io/contact)
 * [Careers](https://frame.io/careers)
-
-[Support](https://support.frame.io/)
-
-* [Support](https://support.frame.io/)
-* [Status Page](https://status.frame.io/)
-* [Contact Us](mailto:support@frame.io)
-
-Support
-
-* [Support](https://support.frame.io/)
-* [Status Page](https://status.frame.io/)
-* [Contact Us](mailto:support@frame.io)
 
 [](https://www.adobe.com/ "Adobe")© 2024 Adobe Inc. All rights reserved.
 
