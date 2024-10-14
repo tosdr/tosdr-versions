@@ -118,57 +118,62 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Jannie Schutte - myFinance-Online.co.za
+Kobus Venter
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=76130920)  
-National Elite Security Services (PTY) LTD
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=212508547)  
+Chiron Medical Solutions
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=30019502)  
-Meyer Towing & Recovery
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=200222391)  
+CGHK Enterprises (PTY) LTD
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=205336274)  
-Waterfinatics Swim School
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=125458314)  
+PROGRAPHIX PTY LTD
 
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=52039372)  
-Secunda Signs T/A Local Print and Signs
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=189309395)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=206136726)  
-Goju Ryu Karate Centre
-
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=71741450)  
-Bchange Online CC
-
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=189445148)  
-AquariumSmiths
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=18289353)  
-Kaylas Creations
-
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=80255584)  
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=126480620)  
 Oak Tree Immigration
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=206986170)  
-Tagline Brands
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=104370653)  
+Fox Alarms & Security CC
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=70863904)  
-Repairs In Motion
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=76694427)  
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=168944098)  
-MONSTER SECURITY GUARDING
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=158923826)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=194680661)  
-Goju-Ryu Pretoria East
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=78532281)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=120141958)  
-Eruca (PTY)Ltd
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=134130371)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=93ab43344a998e074a64ce7477e3f7c97a81de75bb0d30df8d097a7b0f95f4e3&c=191937133)  
-CHARLIEX CONSTRUCTIONS
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=36813079)  
+SAUL ATHOL ACRES RENTAL
+
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=155087478)  
+Moremi Kitchens Rustenburg
+
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=58488911)  
+Forgotten Goods (Pty) Ltd
+
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=94986445)  
+Abandoned Vehicle and Truck Solutions
+
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=62286e04feb7aaed30c52bae694f7fa9bfe970449fcd707a8f1e1d2f5c816863&c=210462253)  
+One2b
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
