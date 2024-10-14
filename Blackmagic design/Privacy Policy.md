@@ -595,7 +595,7 @@ Also please note that by using our services, we assume that you are happy for us
         
     2. 15.2
         
-        This Privacy Policy applies to use of the YouTube API Services in Blackmagic’s DaVinci Resolve and DaVinci Resolve Studio products to upload video files directly to the your YouTube account.
+        This Privacy Policy applies to use of the YouTube API Services in Blackmagic’s DaVinci Resolve and DaVinci Resolve Studio products to upload video files directly to your YouTube account.
         
     3. 15.3
         
