@@ -142,11 +142,11 @@ Resource Library
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
+* [Root Causes 431: New Mozilla Proposal to Combat Delayed Revocation](https://www.sectigo.com/resource-library/root-causes-431-new-mozilla-proposal-to-combat-delayed-revocation)
 * [Root Causes 430: How Does a TLS Handshake Work?](https://www.sectigo.com/resource-library/root-causes-430-how-does-a-tls-handshake-work)
 * [Root Causes 429: ServiceNow Outage Due to Expired Root Certificate](https://www.sectigo.com/resource-library/root-causes-429-servicenow-outage-due-to-expired-root-certificate)
 * [Root Causes 428: .MOBI Attack Puts WHOIS-based DCV into Question](https://www.sectigo.com/resource-library/root-causes-428-mobi-attack-puts-whois-based-dcv-into-question)
 * [Root Causes 427: Mapping CLM to NIST CSF 2.0](https://www.sectigo.com/resource-library/root-causes-427-mapping-clm-to-nist-csf-2-0)
-* [Root Causes 426: Expired Certificate Takes Down Bank of England](https://www.sectigo.com/resource-library/root-causes-426-expired-certificate-takes-down-bank-of-england)
 
 The total economic impact™ of Sectigo Certificate Manager
 
@@ -235,11 +235,11 @@ Login
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Q4 2024 Pulse Webinar](https://www.sectigo.com/resource-library/q4-2024-pulse-webinar)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 431: New Mozilla Proposal to Combat Delayed Revocation](https://www.sectigo.com/resource-library/root-causes-431-new-mozilla-proposal-to-combat-delayed-revocation)
     * [Root Causes 430: How Does a TLS Handshake Work?](https://www.sectigo.com/resource-library/root-causes-430-how-does-a-tls-handshake-work)
     * [Root Causes 429: ServiceNow Outage Due to Expired Root Certificate](https://www.sectigo.com/resource-library/root-causes-429-servicenow-outage-due-to-expired-root-certificate)
     * [Root Causes 428: .MOBI Attack Puts WHOIS-based DCV into Question](https://www.sectigo.com/resource-library/root-causes-428-mobi-attack-puts-whois-based-dcv-into-question)
     * [Root Causes 427: Mapping CLM to NIST CSF 2.0](https://www.sectigo.com/resource-library/root-causes-427-mapping-clm-to-nist-csf-2-0)
-    * [Root Causes 426: Expired Certificate Takes Down Bank of England](https://www.sectigo.com/resource-library/root-causes-426-expired-certificate-takes-down-bank-of-england)
     
 
 *  #}
