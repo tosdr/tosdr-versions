@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
-* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
-* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
 * [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Verpackungs­ärger: Gelositin Nasen­pflege](https://www.test.de/Verpackungsaerger-Gelositin-Nasenpflege-5937577-0/ "Verpackungsärger - Gelositin Nasenpflege")
+* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
-* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
-* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
 * [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Verpackungs­ärger: Gelositin Nasen­pflege](https://www.test.de/Verpackungsaerger-Gelositin-Nasenpflege-5937577-0/ "Verpackungsärger - Gelositin Nasenpflege")
+* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
-* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
-* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
 * [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Verpackungs­ärger: Gelositin Nasen­pflege](https://www.test.de/Verpackungsaerger-Gelositin-Nasenpflege-5937577-0/ "Verpackungsärger - Gelositin Nasenpflege")
+* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
-* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
-* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
 * [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Verpackungs­ärger: Gelositin Nasen­pflege](https://www.test.de/Verpackungsaerger-Gelositin-Nasenpflege-5937577-0/ "Verpackungsärger - Gelositin Nasenpflege")
+* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
 
 Service Stiftung Warentest
 
