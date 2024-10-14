@@ -282,6 +282,32 @@ Recurs yearly
 
 Albus Dumbledore (PoA-DH2)
 
+#### Sun, Oct 20
+
+Dan Fogler's birthday
+
+Recurs yearly
+
+Jacob Kowalski
+
+George Harris's birthday
+
+Recurs yearly
+
+Kingsley Shacklebolt
+
+Harry Potter: A History of Magic
+
+Recurs yearly
+
+2017
+
+Harry Potter: A Journey Through a History of Magic
+
+Recurs yearly
+
+2017
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -292,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There are 1,100,086 words in the entire “Harry Potter” series.
+Rhys Ifans, the actor who plays Xenophilius Lovegood, compared being asked to work on “Harry Potter and the Deathly Hallows” with being knighted.
 
 ### Potter History
 
-May 1, 2008 – For the first time in a decade, the weekly New York Times Best Seller List doesn’t hold a single Harry Potter book.
+January 23, 2005 – The length of Half-Blood Prince was revealed on Barnes & Noble and Amazon websites.
 
 ### Potter Quote
 
-“Pathetic! With the whole wide world of ear-related humor before you, you go for holey?”
+“Give her hell from us, Peeves.”
 
 [](#)
 
