@@ -36,6 +36,11 @@ Buyer(s) shall defend, indemnify and hold harmless Media.net and its affiliates,
 * No ads may request geo location data from user/browser where it is served
 * Video advertisements shall be displayed exclusively on inventory that has been explicitly designated to support video monetization.
 * Buyers must fully comply with all parameters as specified in the OpenRTB bid request. This includes, but is not limited to, adherence to category blocks, blocked creative attributes, and format classification.
+* Buyers must comply with all applicable national, federal, provincial, state, and local laws that govern the use of Political Advertising, including but not limited to
+    * verifying and disclosing the source of political ads
+    * ensuring required disclosures are present on the creative
+    * obtaining essential registrations
+    * maintaining required records (including archives)
 
 ### II. Ad Creative & Behavior Policies
 
