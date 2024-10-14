@@ -1,4 +1,4 @@
-[Help](http://gosupermodel.com/support/ "Get tips and help related to goSupermodel") | [Rules](http://gosupermodel.com/support/page.jsp?id=126 "Rules") | [Redeem code](http://gosupermodel.com/profiles/redeemcode.jsp "Redeem goCodes and gift card") |[](http://gosupermodel.com/billing/ "See the VIP options and buy VIP")
+[Help](http://gosupermodel.com/support/ "Get tips and help related to goSupermodel") | [Rules](http://gosupermodel.com/support/page.jsp?id=1001 "Rules") | [Redeem code](http://gosupermodel.com/profiles/redeemcode.jsp "Redeem goCodes and gift card") |[](http://gosupermodel.com/billing/ "See the VIP options and buy VIP")
 
 [Log in](http://gosupermodel.com/)
 
@@ -153,7 +153,7 @@ Contact
 Help
 ----
 
-* [Rules](https://gosupermodel.com/support/page.jsp?id=126)
+* [Rules](https://gosupermodel.com/support/page.jsp?id=1001)
 * [Explanations](https://gosupermodel.com/support/page.jsp?id=101)
 * [Safety](https://gosupermodel.com/support/safety.jsp)
 
