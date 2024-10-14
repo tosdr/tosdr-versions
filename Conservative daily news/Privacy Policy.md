@@ -1,15 +1,15 @@
-Sunday, October 13 2024
+Monday, October 14 2024
 
 Breaking News
 
+* [It’s Time To Close The Door For Good On Ranked-Choice Voting](https://www.conservativedailynews.com/2024/10/its-time-to-close-the-door-for-good-on-ranked-choice-voting/)
+* [Black Voters Make Surprising Shift Away From Democrats, Poll Shows](https://www.conservativedailynews.com/2024/10/black-voters-make-surprising-shift-away-from-democrats-poll-shows/)
 * [Biden Delivers Remarks in Response to Hurricane Milton](https://www.conservativedailynews.com/2024/10/biden-delivers-remarks-in-response-to-hurricane-milton/)
 * [President Joe Biden’s Schedule for Sunday, October 13, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024/)
 * [The Realignment Of Catholic Voters To The GOP](https://www.conservativedailynews.com/2024/10/the-realignment-of-catholic-voters-to-the-gop/)
 * [Was Obama A President, Or A Black President](https://www.conservativedailynews.com/2024/10/was-obama-a-president-or-a-black-president/)
 * [NY Times Poll Shows Harris’ Support Among Key Voter Bloc In ‘Dangerously Low Territory’](https://www.conservativedailynews.com/2024/10/ny-times-poll-shows-harris-support-among-key-voter-bloc-in-dangerously-low-territory/)
 * [Kamala Isn’t Just Stupid, She’s Dangerous](https://www.conservativedailynews.com/2024/10/kamala-isnt-just-stupid-shes-dangerous/)
-* [America In The Age Of Stupidity: Why do we celebrate Indigenous Peoples Day?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-do-we-celebrate-indigenous-peoples-day/)
-* [Here’s How Much More Everyday Items Cost Than When You Voted Four Years Ago](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,18 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Tim Walz electoral college](https://www.conservativedailynews.com/wp-content/uploads/2024/10/02-elccollege-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/its-time-to-close-the-door-for-good-on-ranked-choice-voting/)
+    
+    [It’s Time To Close The Door For Good On Ranked-Choice Voting](https://www.conservativedailynews.com/2024/10/its-time-to-close-the-door-for-good-on-ranked-choice-voting/)
+    
+    October 13, 2024
+    
+* [![Bidenomics jobs black voters](https://www.conservativedailynews.com/wp-content/uploads/2024/02/01-newjobs-ac-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/black-voters-make-surprising-shift-away-from-democrats-poll-shows/)
+    
+    [Black Voters Make Surprising Shift Away From Democrats, Poll Shows](https://www.conservativedailynews.com/2024/10/black-voters-make-surprising-shift-away-from-democrats-poll-shows/)
+    
+    October 13, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Joe-Biden-Tampa-Florida-Hurrican-Milton-speech-220x150.jpg)](https://www.conservativedailynews.com/2024/10/biden-delivers-remarks-in-response-to-hurricane-milton/)
     
     [Biden Delivers Remarks in Response to Hurricane Milton](https://www.conservativedailynews.com/2024/10/biden-delivers-remarks-in-response-to-hurricane-milton/)
@@ -159,18 +171,6 @@ Recent Posts
 * [![Kamala Harris drunk and stupid](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamala-isnt-just-stupid-shes-dangerous/)
     
     [Kamala Isn’t Just Stupid, She’s Dangerous](https://www.conservativedailynews.com/2024/10/kamala-isnt-just-stupid-shes-dangerous/)
-    
-    October 13, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/columbus-day-indigenous-peoples-day-restricted-220x150.jpg)](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-do-we-celebrate-indigenous-peoples-day/)
-    
-    [America In The Age Of Stupidity: Why do we celebrate Indigenous Peoples Day?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-do-we-celebrate-indigenous-peoples-day/)
-    
-    October 13, 2024
-    
-* [![Tim Walz electoral college](https://www.conservativedailynews.com/wp-content/uploads/2024/10/02-elccollege-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/governor-knucklehead/)
-    
-    [Governor Knucklehead](https://www.conservativedailynews.com/2024/10/governor-knucklehead/)
     
     October 13, 2024
     
