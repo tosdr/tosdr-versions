@@ -253,7 +253,7 @@ Sign up
 
  OR
 
-[Login with Microsoft](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=5a5c866c-0105-4bc4-ae0d-3e995d07a028&response_type=id_token+code&nonce=A1op3zVe9Wo5tpn2tRs7KA&scope=openid%20profile%20email%20User.Read&response_mode=form_post&redirect_uri=https://www.thinglink.com/action/azurelogin&state=r:/subprocessors "Login with Microsoft.")   [](# "Login with Google.")FDGRKbTGPwojruhkPm64QqLd5bLCpIYr\_aMSa\_v3\_HIUvuGDh-Qv-t-cAOizCSdg
+[Login with Microsoft](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=5a5c866c-0105-4bc4-ae0d-3e995d07a028&response_type=id_token+code&nonce=N1e2kFnJZPcRieXyRkfR4w&scope=openid%20profile%20email%20User.Read&response_mode=form_post&redirect_uri=https://www.thinglink.com/action/azurelogin&state=r:/subprocessors "Login with Microsoft.")   [](# "Login with Google.")qCdUP\_gbLk56pFgYq2V-Fy25Lao9JKV6\_mUNKy5PKWcl3U6IetTFYd-cAOizCSdg
 
   [](#)[Login with Clever](https://clever.com/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Fwww.thinglink.com%2Faction%2Fcleverlogin&client_id=35ec47d01b85ff7bf80d "Login with Clever.") [Login with Facebook](https://www.facebook.com/dialog/oauth?client_id=163019823751039&scope=email&redirect_uri=https://www.thinglink.com/action/fblogin&state=r:/subprocessors "Login with Facebook.") [Login with MPASSid](https://www.thinglink.com/auth/mpassid/login "Login with MPASSid")
 
