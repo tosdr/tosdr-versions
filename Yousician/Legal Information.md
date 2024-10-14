@@ -1,6 +1,4 @@
-🎵 New: The Billie Collection 🎵 Play your favorite Billie Eilish songs!
-
-[Learn more](https://yousician.com/billie-eilish)
+**GET 10% OFF** any Yousician plan – available only on our website! [Claim your discount here >](https://account.yousician.com/plans?coupon=web10)
 
 [Yousician Logo Yousician logo](https://yousician.com/)
 
@@ -222,9 +220,9 @@ If you are a California resident, please note that under the California Consumer
 
 [![Download on the AppStore](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Download on the AppStore](/app/themes/yousician/assets/images/download-appstore.svg?x39036)](https://itunes.apple.com/us/app/yousician/id959883039)[![Download Android app on Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Download on the AppStore](/app/themes/yousician/assets/images/download-appstore.svg?x54805)](https://itunes.apple.com/us/app/yousician/id959883039)[![Download Android app on Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Download Android app on Google Play](/app/themes/yousician/assets/images/download-playstore.svg?x39036)](https://play.google.com/store/apps/details?id=com.yousician.yousician)
+![Download Android app on Google Play](/app/themes/yousician/assets/images/download-playstore.svg?x54805)](https://play.google.com/store/apps/details?id=com.yousician.yousician)
 
 [Download for desktop](https://account.yousician.com/download)
 
@@ -232,7 +230,7 @@ If you are a California resident, please note that under the California Consumer
 
 [![Yousician logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Yousician logo](/app/themes/yousician/assets/images/yousician-horizontal-green.svg?x39036)](https://yousician.com/)
+![Yousician logo](/app/themes/yousician/assets/images/yousician-horizontal-green.svg?x54805)](https://yousician.com/)
 
 * [Yousician on Instagram Instagram](https://www.instagram.com/yousician/?hl=en)
 * [Yousician on Facebook Facebook](https://www.facebook.com/yousician/)
