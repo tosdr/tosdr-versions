@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [The NOVU Sports Blog (80)](https://forum.nationstates.net/viewtopic.php?t=552025&f=7&view=unread#unread ""The NOVU Sports Blog" (80 posts)")
-* [Arsenals of Anterra | Military Equipm… (5)](https://forum.nationstates.net/viewtopic.php?t=522896&f=23&view=unread#unread ""Arsenals of Anterra | Military Equipment Gallery" (5 posts)")
-* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (10,012)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (10,012 posts)")
-* [\[DRAFT\] Fatal Web (20)](https://forum.nationstates.net/viewtopic.php?t=543291&f=13&view=unread#unread ""[DRAFT] Fatal Web" (20 posts)")
-* [Is AU A Liberal, Centrist, or Conserv… (459)](https://forum.nationstates.net/viewtopic.php?t=555272&f=25&view=unread#unread ""Is AU A Liberal, Centrist, or Conservative?" (459 posts)")
+* [American Politics: Remember, Remember… (160)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (160 posts)")
+* [Is AU A Liberal, Centrist, or Conserv… (476)](https://forum.nationstates.net/viewtopic.php?t=555272&f=25&view=unread#unread ""Is AU A Liberal, Centrist, or Conservative?" (476 posts)")
+* [Guess Who BN Is! (5,381)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (5,381 posts)")
+* [Guess AN's Gender (3,840)](https://forum.nationstates.net/viewtopic.php?t=543783&f=25&view=unread#unread ""Guess AN's Gender" (3,840 posts)")
 
 Advertisement
 
