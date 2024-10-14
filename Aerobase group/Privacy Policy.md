@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [US to send missile defense system and troops to Israel](https://www.defensenews.com/news/your-military/2024/10/14/us-to-send-missile-defense-system-and-troops-to-israel/)  
+    10/14/24 11:17am  
+    
+    Troops prepare to load a Terminal High Altitude Area Defense (THAAD) launching station onto a 4th Airlift Squadron C-17 Globemaster III at Fort Bliss, Texas, Feb. 23, 2019. The U.S. is sending a THAAD battery, along with the troops needed to operate it, to Israel. (Staff Sgt. Cory D. Payne/U.S. Air Force via AP)
+    
 * [MacDill dodges major storm damage as people, planes remain evacuated](https://www.defensenews.com/air/2024/10/10/macdill-dodges-major-storm-damage-as-people-planes-remain-evacuated/)  
     10/10/24 05:30pm  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     10/09/24 06:34am  
     
     A prototype of Dassault's "nEUROn" combat drone flies above the military airport in Istres, in southeastern France, in 2012. (AFP/ Dassault Aviation)
-    
-* [Air Force picks seven new possible homes for KC-46A Pegasus](https://www.defensenews.com/news/your-air-force/2024/10/08/air-force-picks-seven-new-possible-homes-for-kc-46a-pegasus/)  
-    10/08/24 11:31am  
-    
-    A KC-46A Pegasus refuels a Navy F/A-18F Super Hornet off the coast of Maryland on July 1, 2020. (Lt. Zach Fisher/Navy)
     
 
 Recent parts by keyword  
