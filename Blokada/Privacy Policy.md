@@ -145,11 +145,11 @@ This Privacy policy may be updated and, in such case, a new version will be publ
 
 | Topic |     | Replies | Views | Activity |
 | --- | --- | --- | --- | --- |
-| [Do I have a Blokada account?](https://community.blokada.org/t/do-i-have-a-blokada-account/40)<br><br>[FAQ](https://community.blokada.org/c/guides/common-questions-faq/14)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) ,  [android](https://community.blokada.org/tag/android) ,  [ios](https://community.blokada.org/tag/ios) | 0   | 13010 | June 16, 2020 |
+| [Do I have a Blokada account?](https://community.blokada.org/t/do-i-have-a-blokada-account/40)<br><br>[FAQ](https://community.blokada.org/c/guides/common-questions-faq/14)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) ,  [android](https://community.blokada.org/tag/android) ,  [ios](https://community.blokada.org/tag/ios) | 0   | 13012 | June 16, 2020 |
 | [Alternative payment without using the play store](https://community.blokada.org/t/alternative-payment-without-using-the-play-store/22057)<br><br>[Support](https://community.blokada.org/c/support/21)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) ,  [android](https://community.blokada.org/tag/android) | 2   | 646 | March 16, 2022 |
-| [Renew Blokada Plus](https://community.blokada.org/t/renew-blokada-plus/25345)<br><br>[Support](https://community.blokada.org/c/support/21)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) | 1   | 412 | August 2, 2022 |
+| [Renew Blokada Plus](https://community.blokada.org/t/renew-blokada-plus/25345)<br><br>[Support](https://community.blokada.org/c/support/21)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) | 1   | 414 | August 2, 2022 |
 | [Paying for a Blokada account with cryptocurrency?](https://community.blokada.org/t/paying-for-a-blokada-account-with-cryptocurrency/23467)<br><br>[Other Discussions](https://community.blokada.org/c/other/10) | 2   | 440 | May 13, 2022 |
-| [Very bewildered about blokada 5 vs blokada 6](https://community.blokada.org/t/very-bewildered-about-blokada-5-vs-blokada-6/25557)<br><br>[Other Discussions](https://community.blokada.org/c/other/10)<br><br>[android](https://community.blokada.org/tag/android) | 4   | 2413 | August 10, 2022 |
+| [Very bewildered about blokada 5 vs blokada 6](https://community.blokada.org/t/very-bewildered-about-blokada-5-vs-blokada-6/25557)<br><br>[Other Discussions](https://community.blokada.org/c/other/10)<br><br>[android](https://community.blokada.org/tag/android) | 4   | 2414 | August 10, 2022 |
 
 * [Home](https://community.blokada.org/)
 * [Categories](https://community.blokada.org/categories)
