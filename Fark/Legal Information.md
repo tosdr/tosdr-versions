@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more news before we break it? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-See what's behind the green door  
-and help keep the tap flowing
+The next best thing to UltraFark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [DNA analysis suggests Christopher Columbus wasn't Italian, and Adam Sandler will get to write a new version of the Chanukah Song](https://www.fark.com/goto/13426644) ( [bbc.com](https://www.fark.com/goto/13426644) ) » [(1 comment)](https://www.fark.com/comments/13426644/DNA-analysis-suggests-Christopher-Columbus-wasnt-Italian-Adam-Sandler-will-get-to-write-a-new-version-of-Chanukah-Song) |
-| [Discussion](https://www.fark.com/discussion/) | [The ritual to determine if Laurent is immune to the walker virus looms. Carol has found herself with the Pouvoir, and Daryl finds himself at Losang's tender mercies. Will there be death? The Walking Dead: Daryl and Carol in France, 9PM ET on AMC](https://www.fark.com/goto/13425820) ( [msn.com](https://www.fark.com/goto/13425820) ) » [(2 comments)](https://www.fark.com/comments/13425820/The-ritual-to-determine-if-Laurent-is-immune-to-walker-virus-looms-Carol-has-found-herself-with-Pouvoir-Daryl-finds-himself-at-Losangs-tender-mercies-Will-there-be-death-The-Walking-Dead-Daryl-Carol-in-France-9PM-ET-on-AMC) |
-| [Sports](https://www.fark.com/sports/) | [2nd degree burns are nothing to cheer about, Teach](https://www.fark.com/goto/13426558) ( [yahoo.com](https://www.fark.com/goto/13426558) ) » [(2 comments)](https://www.fark.com/comments/13426558/-2nd-degree-burns-are-nothing-to-cheer-about-Teach) |
-| [Business](https://www.fark.com/business/) | [Buffett dumps $9.6 billion worth of Bank of America stock, a key component of Berkshire's portfolio since ancient times. Some of the money will be used to repurchase Berkshire shares, which says... something](https://www.fark.com/goto/13426470) ( [finance.yahoo.com](https://www.fark.com/goto/13426470) ) » [(5 comments)](https://www.fark.com/comments/13426470/Buffett-dumps-$96-billion-worth-of-Bank-of-America-stock-a-key-component-of-Berkshires-portfolio-since-ancient-times-Some-of-money-will-be-used-to-repurchase-Berkshire-shares-which-says-something) |
-| [STEM](https://www.fark.com/stem/) | [DARPA thinks walls of oysters can protect shores from hurricanes, especially with a shot of hot sauce](https://www.fark.com/goto/13426492) ( [parametric-architecture.com](https://www.fark.com/goto/13426492) ) » [(0 comments)](https://www.fark.com/comments/13426492/DARPA-thinks-walls-of-oysters-can-protect-shores-from-hurricanes-especially-with-a-shot-of-hot-sauce) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Life, the universe, and Douglas Adams](https://www.fark.com/goto/13426572) ( [kickstarter.com](https://www.fark.com/goto/13426572) ) » [(6 comments)](https://www.fark.com/comments/13426572/Life-universe-Douglas-Adams) |
-| [Fandom](https://www.fark.com/fandom/) | ["When I was a boy I wouldn't have said I was into games because I don't want to seem nerdy and uncool. Now I wouldn't say it because I don't want to be mistaken for an online psycho with an enlarged sense of entitlement"](https://www.fark.com/goto/13426274) ( [metro.co.uk](https://www.fark.com/goto/13426274) ) » [(38 comments)](https://www.fark.com/comments/13426274/When-I-was-a-boy-I-wouldnt-have-said-I-was-into-games-because-I-dont-want-to-seem-nerdy-uncool-Now-I-wouldnt-say-it-because-I-dont-want-to-be-mistaken-for-an-online-psycho-with-an-enlarged-sense-of-entitlement) |
+| [Main](https://www.fark.com/) | [Gates open on London's Thames Tideway Tunnel super sewer. Fortunately with 'before' video](https://www.fark.com/goto/13426806) ( [bbc.com](https://www.fark.com/goto/13426806) ) » [(8 comments)](https://www.fark.com/comments/13426806/Gates-open-on-Londons-Thames-Tideway-Tunnel-super-sewer-Fortunately-with-before-video) |
+| [Discussion](https://www.fark.com/discussion/) | [Can I afford this? Will they like me? Will they think I'm bat-sheet crazy? Am I early? Am I late?](https://www.fark.com/goto/13426856) ( [lifehacker.com](https://www.fark.com/goto/13426856) ) » [(1 comment)](https://www.fark.com/comments/13426856/Can-I-afford-this-Will-they-like-me-Will-they-think-Im-bat-sheet-crazy-Am-I-early-Am-I-late) |
+| [Sports](https://www.fark.com/sports/) | [Yankees boss Aaron Boone savagely overreacts to notion that Guardians slugger José Ramírez is underrated and underappreciated](https://www.fark.com/goto/13426754) ( [awfulannouncing.com](https://www.fark.com/goto/13426754) ) » [(0 comments)](https://www.fark.com/comments/13426754/Yankees-boss-Aaron-Boone-savagely-overreacts-to-notion-that-Guardians-slugger-Jos-Ramrez-is-underrated-underappreciated) |
+| [Business](https://www.fark.com/business/) | [It turns out Elmo "invents" robots and cybertaxis just like he "invented" Tesla](https://www.fark.com/goto/13426758) ( [hollywoodreporter.com](https://www.fark.com/goto/13426758) ) » [(10 comments)](https://www.fark.com/comments/13426758/It-turns-out-Elmo-invents-robots-cybertaxis-just-like-he-invented-Tesla) |
+| [STEM](https://www.fark.com/stem/) | [Why we should treat AI like they do in Star Wars](https://www.fark.com/goto/13426818) ( [unite.ai](https://www.fark.com/goto/13426818) ) » [(3 comments)](https://www.fark.com/comments/13426818/Why-we-should-treat-AI-like-they-do-in-Star-Wars) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Francis Ford Coppafeel](https://www.fark.com/goto/13426780) ( [thedailybeast.com](https://www.fark.com/goto/13426780) ) » [(2 comments)](https://www.fark.com/comments/13426780/Francis-Ford-Coppafeel) |
+| [Fandom](https://www.fark.com/fandom/) | [The Penguin Episode 4 introduces minor DC villain who has only shown up in live action three times, or about as often as Riddler (spoilers)](https://www.fark.com/goto/13426728) ( [slashfilm.com](https://www.fark.com/goto/13426728) ) » [(4 comments)](https://www.fark.com/comments/13426728/The-Penguin-Episode-4-introduces-minor-DC-villain-who-has-only-shown-up-in-live-action-three-times-about-as-often-as-Riddler-spoilers) |
 | [D'awww](https://www.fark.com/dawww/) | [Just a baby and her giant dog watching the world go by](https://www.fark.com/goto/13426040) ( [yahoo.com](https://www.fark.com/goto/13426040) ) » [(3 comments)](https://www.fark.com/comments/13426040/Just-a-baby-her-giant-dog-watching-world-go-by) |
-| [Food](https://www.fark.com/food/) | [A crucial question of culinary ettiquette - should your fork face up or down?](https://www.fark.com/goto/13426236) ( [theguardian.com](https://www.fark.com/goto/13426236) ) » [(33 comments)](https://www.fark.com/comments/13426236/A-crucial-question-of-culinary-ettiquette-should-your-fork-face-up-down) |
-| [Politics](https://www.fark.com/politics/) | [Too late: Tubbo's already peddling the commemorative coin for five easy payments of $199.99](https://www.fark.com/goto/13426636) ( [cnn.com](https://www.fark.com/goto/13426636) ) » [(6 comments)](https://www.fark.com/comments/13426636/Too-late-Tubbos-already-peddling-commemorative-coin-for-five-easy-payments-of-$19999) |
+| [Food](https://www.fark.com/food/) | [Phil Edwards presents, The United States of Beer](https://www.fark.com/goto/13426768) ( [youtube.com](https://www.fark.com/goto/13426768) ) » [(0 comments)](https://www.fark.com/comments/13426768/Phil-Edwards-presents-The-United-States-of-Beer) |
+| [Politics](https://www.fark.com/politics/) | [To properly fix Social Security taxes must be raised, you'll get over it. You'll have to](https://www.fark.com/goto/13426844) ( [vox.com](https://www.fark.com/goto/13426844) ) » [(18 comments)](https://www.fark.com/comments/13426844/To-properly-fix-Social-Security-taxes-must-be-raised-youll-get-over-it-Youll-have-to) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 14 2024 03:42:24  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 14 2024 09:42:14  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
