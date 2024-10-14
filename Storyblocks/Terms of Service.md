@@ -74,6 +74,7 @@ Storyblocks for Business
 
 * [Learn More](https://www.storyblocks.com/business-solutions/enterprise)
 * [License Comparison](https://www.storyblocks.com/business-solutions/license-comparison)
+* [Demo Video](https://www.storyblocks.com/business-solutions/storyblocks-demo)
 
 Use Cases
 
@@ -349,6 +350,7 @@ Creative Tools
 * [Storyblocks for Business](https://www.storyblocks.com/business-solutions)
 * [Storyblocks for Education](https://www.storyblocks.com/business-solutions/education)
 * [Compare Licenses](https://www.storyblocks.com/business-solutions/license-comparison)
+* [Demo Video](https://www.storyblocks.com/business-solutions/storyblocks-demo)
 * [Data Licensing](https://www.storyblocks.com/business-solutions/data-licensing)
 * [Storyblocks API](https://www.storyblocks.com/business-solutions/api)
 
