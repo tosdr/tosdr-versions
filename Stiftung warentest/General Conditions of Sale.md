@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
-* [Winterliche Heiß­getränke: Glüh-Gin macht Glüh­wein Konkurrenz](https://www.test.de/Winterliche-Heissgetraenke-Glueh-Gin-macht-Gluehwein-Konkurrenz-5933646-0/ "Winterliche Heißgetränke - Glüh-Gin macht Glühwein Konkurrenz")
-* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
-* [Winterliche Heiß­getränke: Glüh-Gin macht Glüh­wein Konkurrenz](https://www.test.de/Winterliche-Heissgetraenke-Glueh-Gin-macht-Gluehwein-Konkurrenz-5933646-0/ "Winterliche Heißgetränke - Glüh-Gin macht Glühwein Konkurrenz")
-* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
-* [Winterliche Heiß­getränke: Glüh-Gin macht Glüh­wein Konkurrenz](https://www.test.de/Winterliche-Heissgetraenke-Glueh-Gin-macht-Gluehwein-Konkurrenz-5933646-0/ "Winterliche Heißgetränke - Glüh-Gin macht Glühwein Konkurrenz")
-* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
-* [Winterliche Heiß­getränke: Glüh-Gin macht Glüh­wein Konkurrenz](https://www.test.de/Winterliche-Heissgetraenke-Glueh-Gin-macht-Gluehwein-Konkurrenz-5933646-0/ "Winterliche Heißgetränke - Glüh-Gin macht Glühwein Konkurrenz")
-* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
 
 Service Stiftung Warentest
 
