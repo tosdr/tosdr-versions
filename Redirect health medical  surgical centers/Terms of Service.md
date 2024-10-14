@@ -103,9 +103,9 @@ Programs & Services
 * [Chiropractic](https://arrowheadhealth.com/programs-services/chiropractic/)
 * [Motor Vehicle Accidents](https://arrowheadhealth.com/programs-services/motor-vehicle-accidents/)
 * [Pain & Injury Management](https://arrowheadhealth.com/programs-services/pain-injury-management/)
-* [Skin Care](https://arrowheadhealth.com/programs-services/skin-care/)
+* [Skin Care](https://arrowheadhealth.com/?page_id=696776)
 * [Sports Physicals](https://arrowheadhealth.com/programs-services/family-practice/sports-physicals/)
-* [Diabetes Treatment and Management](https://arrowheadhealth.com/programs-services/diabetes-treatment-management/)
+* [Diabetes Treatment and Management](https://arrowheadhealth.com/?page_id=13340)
 * [Lab Testing](https://arrowheadhealth.com/programs-services/lab-testing/)
 * [DOT Physicals](https://arrowheadhealth.com/programs-services/family-practice/dot-physicals/)
 
