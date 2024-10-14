@@ -320,9 +320,8 @@ Advertise
 
 [![Denver & Liely marlo wine glass](https://static.ffx.io/images/$zoom_0.2659%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_42/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1da5a799c5535fcb89d205768f498fc836daee0a)](https://www.afr.com/life-and-luxury/design/australian-s-revolutionary-wine-glass-floors-french-experts-20241003-p5kfsd)
 
-### [Australian’s revolutionary wine glass floors French experts](https://www.afr.com/life-and-luxury/design/australian-s-revolutionary-wine-glass-floors-french-experts-20241003-p5kfsd)
+### [An Australian’s revolutionary wine glass has floored French experts](https://www.afr.com/life-and-luxury/design/australian-s-revolutionary-wine-glass-floors-french-experts-20241003-p5kfsd)
 
-* 57 mins ago
 * Paul Best
 
 * ### [How one of Australia’s top chefs turned anger into change](https://www.afr.com/life-and-luxury/food-and-wine/how-one-of-australia-s-top-chefs-turned-anger-into-change-20240930-p5kej6)
