@@ -31,7 +31,7 @@ Navigation
     
     *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/oct-13-2024-college-station-tx-shooting-investigation/500-b1d9dcee-64ea-4b8f-9b55-a947ddffcbac)
         
-        #### [Two arrested after College Station Police investigate shooting](https://www.kagstv.com/article/news/crime/oct-13-2024-college-station-tx-shooting-investigation/500-b1d9dcee-64ea-4b8f-9b55-a947ddffcbac)
+        #### [College Station Police arrest two after shooting investigation](https://www.kagstv.com/article/news/crime/oct-13-2024-college-station-tx-shooting-investigation/500-b1d9dcee-64ea-4b8f-9b55-a947ddffcbac)
         
     *  [![](https://media.kagstv.com/assets/WTOL/images/64d71689-b1bb-4afa-87a5-49101e9720cf/64d71689-b1bb-4afa-87a5-49101e9720cf_16x9.jpg) ![](https://media.kagstv.com/assets/WTOL/images/64d71689-b1bb-4afa-87a5-49101e9720cf/64d71689-b1bb-4afa-87a5-49101e9720cf_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-bryan-tx-on-oct-10-2024/500-cd6ec1e3-4049-4020-9a6f-dd1b0836e5de)
         
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-73°
+94°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
