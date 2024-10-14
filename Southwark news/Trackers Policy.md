@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Cllr Victor Chamberlain, leader of Southwark Lib Dems](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Victor-Chamberlain-leader-of-Southwark-Lib-Dems-360x180.png)](https://southwarknews.co.uk/area/southwark/labours-winter-fuel-payments-cut-is-cruel-and-wrong-but-southwark-council-can-still-do-the-right-thing-urges-the-leader-of-the-opposition/)
+    
+    ### [‘Labour’s Winter Fuel Payments Cut is cruel and wrong, but Southwark Council can still do the right thing’, urges the leader of the opposition](https://southwarknews.co.uk/area/southwark/labours-winter-fuel-payments-cut-is-cruel-and-wrong-but-southwark-council-can-still-do-the-right-thing-urges-the-leader-of-the-opposition/)
+    
     [![(LCCM)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Copy-of-LCM-MK-Scholarship-20231019-20-1-6000-x-4000-360x180.jpg)](https://southwarknews.co.uk/news/community/london-jazz-festival-will-be-hosted-at-music-college-in-southwark/)
     
     ### [London Jazz Festival will be hosted at music college in Southwark](https://southwarknews.co.uk/news/community/london-jazz-festival-will-be-hosted-at-music-college-in-southwark/)
@@ -50,10 +54,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_7509-360x180.jpg)](https://southwarknews.co.uk/news/housing/bermondsey-council-flats-reach-building-milestone/)
     
     ### [Bermondsey council flats reach building milestone](https://southwarknews.co.uk/news/housing/bermondsey-council-flats-reach-building-milestone/)
-    
-    [![Computer-generated image of the Canada Water Masterplan](https://southwarknews.co.uk/wp-content/uploads/2024/10/Canada-Water-Masterplan-Dock-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/comment-private-security-cannot-replace-proper-policing-at-canada-water/)
-    
-    ### [Comment: Private security cannot replace proper policing at Canada Water](https://southwarknews.co.uk/area/rotherhithe/comment-private-security-cannot-replace-proper-policing-at-canada-water/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Cllr Victor Chamberlain, leader of Southwark Lib Dems](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Victor-Chamberlain-leader-of-Southwark-Lib-Dems-360x180.png)](https://southwarknews.co.uk/area/southwark/labours-winter-fuel-payments-cut-is-cruel-and-wrong-but-southwark-council-can-still-do-the-right-thing-urges-the-leader-of-the-opposition/)
+    
+    ### [‘Labour’s Winter Fuel Payments Cut is cruel and wrong, but Southwark Council can still do the right thing’, urges the leader of the opposition](https://southwarknews.co.uk/area/southwark/labours-winter-fuel-payments-cut-is-cruel-and-wrong-but-southwark-council-can-still-do-the-right-thing-urges-the-leader-of-the-opposition/)
+    
     [![(LCCM)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Copy-of-LCM-MK-Scholarship-20231019-20-1-6000-x-4000-360x180.jpg)](https://southwarknews.co.uk/news/community/london-jazz-festival-will-be-hosted-at-music-college-in-southwark/)
     
     ### [London Jazz Festival will be hosted at music college in Southwark](https://southwarknews.co.uk/news/community/london-jazz-festival-will-be-hosted-at-music-college-in-southwark/)
@@ -130,10 +134,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_7509-360x180.jpg)](https://southwarknews.co.uk/news/housing/bermondsey-council-flats-reach-building-milestone/)
     
     ### [Bermondsey council flats reach building milestone](https://southwarknews.co.uk/news/housing/bermondsey-council-flats-reach-building-milestone/)
-    
-    [![Computer-generated image of the Canada Water Masterplan](https://southwarknews.co.uk/wp-content/uploads/2024/10/Canada-Water-Masterplan-Dock-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/comment-private-security-cannot-replace-proper-policing-at-canada-water/)
-    
-    ### [Comment: Private security cannot replace proper policing at Canada Water](https://southwarknews.co.uk/area/rotherhithe/comment-private-security-cannot-replace-proper-policing-at-canada-water/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
