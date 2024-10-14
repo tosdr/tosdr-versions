@@ -94,15 +94,15 @@ Recent Stories
 
 [Innovation
 
+### Europa Clipper launch: A NASA scientist on probing if life can exist on Jupiter moon](https://www.csmonitor.com/Science/2024/1014/europa-clipper-launch-nasa-life-jupiter-moon "Europa Clipper launch: A NASA scientist on probing if life can exist on Jupiter moon")
+
+[Innovation
+
 ### Big launch for SpaceX, but promise aloft comes with tension in Texas](https://www.csmonitor.com/Science/2024/1013/spacex-starbase-starship-launch-texas "Big launch for SpaceX, but promise aloft comes with tension in Texas")
 
 [Resilience
 
 ### Where Hezbollah stands, and what’s at stake, after battering by Israel](https://www.csmonitor.com/World/Middle-East/2024/1011/israel-hezbollah-resilience-lebanon-war "Where Hezbollah stands, and what’s at stake, after battering by Israel")
-
-[Generosity
-
-### The sound of silent giving](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1011/The-sound-of-silent-giving "The sound of silent giving")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
