@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/the-7-best-sandbox-games-for-a-relaxing-experience/)
+    [](https://player.me/foamstars-may-face-a-similar-ending-to-concord/)
     
-    ![The 7 Best Sandbox Games for a Relaxing yet Creative Experience](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/the-7-best-sandbox-games-for-a-relaxing-experience/)
+    [](https://player.me/foamstars-may-face-a-similar-ending-to-concord/)
     
-    ![The 7 Best Sandbox Games for a Relaxing yet Creative Experience](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](https://player.me/wp-content/uploads/2024/10/Foamstars-Continues-to-Flop-with-95-Fewer-Players-and-May-Face-a-Similar-Ending-To-Concord.png)
+
+[Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](https://player.me/foamstars-may-face-a-similar-ending-to-concord/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 14, 2024/
+
+Initially, Square Enix’s Foamstars was a fun, colourful alternative to Nintendo’s popular Splatoon, offering a unique foam-based combat system with…
+
+[Read More](https://player.me/foamstars-may-face-a-similar-ending-to-concord/)
+
+![Metaphor ReFantazio Archetypes Guide: The 5 Best Early Game Archetypes and How to Unlock](https://player.me/wp-content/uploads/2024/10/Metaphor-ReFantazio-Archetypes-Guide.png)
+
+[Metaphor ReFantazio Archetypes Guide: The 5 Best Early Game Archetypes and How to Unlock](https://player.me/metaphor-refantazio-archetypes-early-game-guide/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 14, 2024/
+
+Metaphor ReFantazio, the latest offering from Atlus, brings the beloved mechanics of the Persona series into a medieval fantasy setting.…
+
+[Read More](https://player.me/metaphor-refantazio-archetypes-early-game-guide/)
+
 ![‘We, Robot’ Tesla Robotaxi Event Complete Guide: The Announcements of Cybercab and Robovan](https://player.me/wp-content/uploads/2024/10/WeRobot-Tesla-Robotaxi-Event-Complete-Guide_-The-Announcements-of-Cybercab-and-Robovan.png)
 
 [‘We, Robot’ Tesla Robotaxi Event Complete Guide: The Announcements of Cybercab and Robovan](https://player.me/we-robot-tesla-robotaxi-event-complete-guide/)
@@ -218,32 +244,6 @@ October 8, 2024/
 The highly anticipated Silent Hill 2 Remake by Bloober Team offers an exciting yet terrifying experience for fans of psychological…
 
 [Read More](https://player.me/silent-hill-2-remake-difficulty-guide/)
-
-![Dredge Mobile Release Date Confirmed on December 18, 2024](https://player.me/wp-content/uploads/2024/10/Dredge-Mobile-Release-Date-Confirmed-on-December-18-2024.png)
-
-[Dredge Mobile Release Date Confirmed on December 18, 2024](https://player.me/dredge-mobile-release-date-on-december-18-2024/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------
-
-October 8, 2024/
-
-Black Salt Games has officially revealed that their critically acclaimed eldritch horror fishing game, Dredge, will make its way to…
-
-[Read More](https://player.me/dredge-mobile-release-date-on-december-18-2024/)
-
-![Mouthwashing Is Currently the New 10/10 Game on Steam: Here’s Why](https://player.me/wp-content/uploads/2024/10/Mouthwashing-Is-Currently-the-New-10-10-Game-on-Steam_Heres-Why.png)
-
-[Mouthwashing Is Currently the New 10/10 Game on Steam: Here’s Why](https://player.me/why-mouthwashing-is-the-new-10-10-game-on-steam/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------
-
-October 7, 2024/
-
-Mouthwashing, the latest psychological horror game from developer Wrong Organ and publisher CRITICAL REFLEX, has made a significant splash in…
-
-[Read More](https://player.me/why-mouthwashing-is-the-new-10-10-game-on-steam/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](https://player.me/wp-content/uploads/2024/10/Foamstars-Continues-to-Flop-with-95-Fewer-Players-and-May-Face-a-Similar-Ending-To-Concord.png)
+
+[Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](https://player.me/foamstars-may-face-a-similar-ending-to-concord/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 14, 2024/
+
+Initially, Square Enix’s Foamstars was a fun, colourful alternative to Nintendo’s popular Splatoon, offering a unique foam-based combat system with…
+
+[Read More](https://player.me/foamstars-may-face-a-similar-ending-to-concord/)
+
+![Metaphor ReFantazio Archetypes Guide: The 5 Best Early Game Archetypes and How to Unlock](https://player.me/wp-content/uploads/2024/10/Metaphor-ReFantazio-Archetypes-Guide.png)
+
+[Metaphor ReFantazio Archetypes Guide: The 5 Best Early Game Archetypes and How to Unlock](https://player.me/metaphor-refantazio-archetypes-early-game-guide/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 14, 2024/
+
+Metaphor ReFantazio, the latest offering from Atlus, brings the beloved mechanics of the Persona series into a medieval fantasy setting.…
+
+[Read More](https://player.me/metaphor-refantazio-archetypes-early-game-guide/)
+
 ![‘We, Robot’ Tesla Robotaxi Event Complete Guide: The Announcements of Cybercab and Robovan](https://player.me/wp-content/uploads/2024/10/WeRobot-Tesla-Robotaxi-Event-Complete-Guide_-The-Announcements-of-Cybercab-and-Robovan.png)
 
 [‘We, Robot’ Tesla Robotaxi Event Complete Guide: The Announcements of Cybercab and Robovan](https://player.me/we-robot-tesla-robotaxi-event-complete-guide/)
@@ -379,32 +405,6 @@ October 7, 2024/
 Mouthwashing, the latest psychological horror game from developer Wrong Organ and publisher CRITICAL REFLEX, has made a significant splash in…
 
 [Read More](https://player.me/why-mouthwashing-is-the-new-10-10-game-on-steam/)
-
-![While We Wait Here, the New Psychological Horror Kitchen Sim, Is Launching on October 23](https://player.me/wp-content/uploads/2024/10/While-We-Wait-Here-the-New-Psychological-Horror-Kitchen-Sim-Is-Launching-on-October-23.png)
-
-[While We Wait Here, the New Psychological Horror Kitchen Sim, Is Launching on October 23](https://player.me/while-we-wait-here-is-launching-on-october-23/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 7, 2024/
-
-Developer Bad Vices Games has officially unveiled the release date for their upcoming psychological horror title, While We Wait Here,…
-
-[Read More](https://player.me/while-we-wait-here-is-launching-on-october-23/)
-
-![Civilization 7 System Requirements Revealed: Can Your PC Download the Much-Anticipated Game?](https://player.me/wp-content/uploads/2024/10/Civilization-7-System-Requirements-Revealed——-Can-Your-PC-Download-the-Much-Anticipated-Game.png)
-
-[Civilization 7 System Requirements Revealed: Can Your PC Download the Much-Anticipated Game?](https://player.me/civilization-7-system-requirements-revealed/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 4, 2024/
-
-Sid Meier’s Civilization 7 is launching on February 11, 2025, marking the highly anticipated return of the legendary 4X strategy…
-
-[Read More](https://player.me/civilization-7-system-requirements-revealed/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ Apple enthusiasts, mark your calendars! Apple has officially announced the date 
 
 player.me
 
+[](https://player.me/foamstars-may-face-a-similar-ending-to-concord/ "Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord")
+
+[Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](https://player.me/foamstars-may-face-a-similar-ending-to-concord/)
+
+October 14, 2024
+
+[](https://player.me/metaphor-refantazio-archetypes-early-game-guide/ "Metaphor ReFantazio Archetypes Guide: The 5 Best Early Game Archetypes and How to Unlock")
+
+[Metaphor ReFantazio Archetypes Guide: The 5 Best Early Game Archetypes and How to Unlock](https://player.me/metaphor-refantazio-archetypes-early-game-guide/)
+
+October 14, 2024
+
 [](https://player.me/we-robot-tesla-robotaxi-event-complete-guide/ "‘We, Robot’ Tesla Robotaxi Event Complete Guide: The Announcements of Cybercab and Robovan")
 
 [‘We, Robot’ Tesla Robotaxi Event Complete Guide: The Announcements of Cybercab and Robovan](https://player.me/we-robot-tesla-robotaxi-event-complete-guide/)
@@ -853,22 +865,10 @@ October 9, 2024
 
 October 8, 2024
 
-[](https://player.me/dredge-mobile-release-date-on-december-18-2024/ "Dredge Mobile Release Date Confirmed on December 18, 2024")
-
-[Dredge Mobile Release Date Confirmed on December 18, 2024](https://player.me/dredge-mobile-release-date-on-december-18-2024/)
-
-October 8, 2024
-
-[](https://player.me/why-mouthwashing-is-the-new-10-10-game-on-steam/ "Mouthwashing Is Currently the New 10/10 Game on Steam: Here’s Why")
-
-[Mouthwashing Is Currently the New 10/10 Game on Steam: Here’s Why](https://player.me/why-mouthwashing-is-the-new-10-10-game-on-steam/)
-
-October 7, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 571,801 times, 17 visit(s) today
+Visited 571,865 times, 81 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
