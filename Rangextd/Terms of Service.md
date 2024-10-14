@@ -64,19 +64,19 @@ Shop Collections
 
 [View all collections](https://www.rangextd.com/collections) 
 
-* ![Collection image for: Personal Essentials](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=240&v=1727247097&width=300)
+* ![Collection image for: Personal Essentials](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=300&v=1727247097&width=240)
     
     [Personal Essentials](https://www.rangextd.com/collections/personal-essentials) 
     
-* ![Collection image for: Family Essentials](//savvysmartdeals.com/cdn/shop/collections/img-5.png?crop=center&height=240&v=1727247156&width=300)
+* ![Collection image for: Family Essentials](//savvysmartdeals.com/cdn/shop/collections/img-5.png?crop=center&height=300&v=1727247156&width=240)
     
     [Family Essentials](https://www.rangextd.com/collections/family-essentials) 
     
-* ![Collection image for: Travel](//savvysmartdeals.com/cdn/shop/collections/home-automotive-accessories.png?crop=center&height=240&v=1724829778&width=300)
+* ![Collection image for: Travel](//savvysmartdeals.com/cdn/shop/collections/home-automotive-accessories.png?crop=center&height=300&v=1724829778&width=240)
     
     [Travel](https://www.rangextd.com/collections/travel-mobility) 
     
-* ![Collection image for: Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=240&v=1728032127&width=300)
+* ![Collection image for: Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=300&v=1728032127&width=240)
     
     [Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) 
     
@@ -284,15 +284,19 @@ Discover the hottest items flying off the shelves.
     Personal Essentials
     -------------------
     
-    [Discover now](https://www.rangextd.com/collections/personal-essentials)
+    [See More Deals](https://www.rangextd.com/collections/personal-essentials)
     
 * ![](//savvysmartdeals.com/cdn/shop/files/preview_images/fbd0669f195d492c8bc200672c5da86e.thumbnail.0000000000_small.jpg?v=1722598662)
     
     ### Travel
     
+    [See More Deals](https://www.rangextd.com/collections/travel-mobility)
+    
 * ![Banner image for: Family Essentials](//savvysmartdeals.com/cdn/shop/files/Stack4_f5faa6f5-0e4d-4a15-899e-a1713df879d1.png?v=1727163260&width=620)
     
     ### Family Essentials
+    
+    [See More Deals](https://www.rangextd.com/collections/family-essentials)
     
     [](https://www.rangextd.com/collections/family-essentials)
     
