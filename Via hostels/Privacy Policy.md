@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_670c4c04dedfe)
+* [fun from day one!](#tab_670ca21f62cc5)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_670c4c04dedfe)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_670ca21f62cc5)
     
-* [fomo no more!](#tab_670c4c04dee0e)
+* [fomo no more!](#tab_670ca21f62cd8)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_670c4c04dee0e)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_670ca21f62cd8)
     
-* [we’ve got you covered, dude](#tab_670c4c04dee1a)
+* [we’ve got you covered, dude](#tab_670ca21f62ce6)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_670c4c04dee1a)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_670ca21f62ce6)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,6 +117,9 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
+[Ice, ice baby!😎 The Amsterdam ice bar is a must ![Ice, ice baby!😎 The Amsterdam ice bar is a must-visit! We loved every frosty moment and highly recommend it for an unforgettable night while in the city!🍸❄️ Book your tickets through the link in our bio!!🙌 
+#ChillVibes #amsterdamlife #viaamsterdam #solotravel #travelwithus #icebar](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBEaD6UisW1/) 
+
 [Celebrating Throwback Thursday with memories from ![Celebrating Throwback Thursday with memories from our epic back-to-school bash! 🎊 Can’t wait for the next one! 🤩💛🙌](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA76b2wo06T/) 
 
 [The best feeling😍🙌🤩 #memestagram #viaams ![The best feeling😍🙌🤩
@@ -146,10 +149,6 @@ Via is the perfect base for whatever brings you to the city—whether it's a con
 [We need your help🍹🔥 Our cocktail of the mont ![We need your help🍹🔥 Our cocktail of the month is a spicy margarita, but it’s missing a perfect name. Drop your creative ideas in the comments–the best suggestion can claim one of these for free in the dude bar!🌶️😉](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAV5nEWNiaT/) 
 
 [Whether it’s an after-work drink or a pre-game b ![Whether it’s an after-work drink or a pre-game before a night out, we’ve got you covered! 🍻 From morning till night, The Dude is at your service🛎🤩](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DATW7SVhO_J/) 
-
-[Welcome to your home away from home! 🏠💛 Ch ![Welcome to your home away from home! 🏠💛 
-Check out our cozy dorm rooms, where comfort meets community 🥰🙌👯
-#HostelLife #DormVibes #travelwithus #viaamsterdam #solotravel](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAQ5FYrN8Yh/) 
 
 current & upcoming events
 -------------------------
