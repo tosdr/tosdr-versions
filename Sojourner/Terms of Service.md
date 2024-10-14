@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-82bbc3539726142f70e9c912283a747b
+7670ba887b9f55718a896cc9e3a995af
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm to 10 mm cream oval pearls](https://sojourner.biz/images/cache/pearls/PE0065.200.jpg)](https://sojourner.biz/beads/pearls/8-mm-to-10-mm-cream-oval-pearls.html "8 mm to 10 mm cream oval pearls")
+[![6 mm transparent pink heart beads](https://sojourner.biz/images/cache/glass/HRT016.200.jpg)](https://sojourner.biz/beads/glass/6-mm-transparent-pink-heart-beads.html "6 mm transparent pink heart beads")
 
-#### [8 mm to 10 mm cream oval pearls](https://sojourner.biz/beads/pearls/8-mm-to-10-mm-cream-oval-pearls.html "8 mm to 10 mm cream oval pearls")
+#### [6 mm transparent pink heart beads](https://sojourner.biz/beads/glass/6-mm-transparent-pink-heart-beads.html "6 mm transparent pink heart beads")
 
-$8.00
+$2.00
 
 ### Best Sellers
 
