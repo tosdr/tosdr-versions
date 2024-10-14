@@ -184,14 +184,14 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**How the Pentagon is adapting to the threat of climate change** | PBS News Hour](https://video.nhpbs.org/video/defense-and-climate-1728846749?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 Ford Ranger & 2024 BMW X2** | MotorWeek](https://video.nhpbs.org/video/2024-ford-ranger-2024-bmw-x2-pluiue?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**American Jews reflect on High Holy Days a year after Oct. 7** | PBS News Hour](https://video.nhpbs.org/video/reflections-1728761807?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Reckoning and Repair Preview** | Stories from the Stage](https://video.nhpbs.org/video/stories-from-the-stage-reckoning-and-repair-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Condoleezza Rice** | Firing Line](https://video.nhpbs.org/video/condoleezza-rice-yifiaz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**TTC Extra: FOMO Online** | To The Contrary](https://video.nhpbs.org/video/ttc-extra-fomo-online-utod9y?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**full episode, 10/11/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-101124-k8cxod?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**New Hampshire's Civic Health** | The State We're In](https://video.nhpbs.org/video/new-hampshires-civic-health-ty4a3r?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**October 11, 2024** | Amanpour and Company](https://video.nhpbs.org/video/october-11-2024-si9nom?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Condoleezza Rice** | Firing Line](https://video.nhpbs.org/video/condoleezza-rice-yifiaz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**TTC Extra: FOMO Online** | To The Contrary](https://video.nhpbs.org/video/ttc-extra-fomo-online-utod9y?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Every other video about color is wrong.** | Reactions](https://video.nhpbs.org/video/every-other-video-about-color-is-wrong-sy46al?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
