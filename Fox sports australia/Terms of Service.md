@@ -14,18 +14,6 @@ FOX SCORES
 * NHL
 * US Sports
 
-* Motorsport
-    
-* [Supercars
-    
-    Complete
-    
-    |     |
-    | --- |
-    | Bathurst 1000 |
-    |     |
-    
-    Race Centre](https://www.foxsports.com.au/motorsport/supercars/race-centre?meetingid=744)
 * Cricket
     
 * [Women's T20 WC
@@ -48,24 +36,34 @@ FOX SCORES
     | AUS | 8 /151 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250118)
-* [One-Day Cup
+* [Women's T20 WC
     
-    WA won by 4 wkts
+    15/10 1:00 AEST
     
     |     |     |
     | --- | --- |
-    | WA  | 6 /301 |
-    | QLD | 300 |
+    | PAK | –   |
+    | NZL | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250107)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250119)
+* [Men's T20I
+    
+    WI won by 5 wkts
+    
+    |     |     |
+    | --- | --- |
+    | SRI | 7 /179 |
+    | WI  | 5 /180 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250201)
 * [Women's T20
     
-    14/10 10:00 AEST
+    BRI won by 7 wkts
     
     |     |     |
     | --- | --- |
-    | ACT | –   |
-    | BRI | –   |
+    | ACT | 93  |
+    | BRI | 3 /94 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250110)
 * [Women's T20
@@ -78,30 +76,74 @@ FOX SCORES
     | PER | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250111)
-* NRL
+* Netball
     
-* [Men's PM XIII
+* [Women's Test
     
-    Complete
+    20/10 17:30 AEST
     
     |     |     |
     | --- | --- |
-    | PPM | 20  |
-    | APM | 42  |
+    | NZL | –   |
+    | AUS | –   |
     
-    Match Centre](https://www.foxsports.com.au/nrl/prime-ministers-13/match-centre/PM1320240101)
+    Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240301)
+* NRL
+    
+* [Women's PC
+    
+    18/10 18:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AUS | –   |
+    | PNG | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240101)
+* [Men's PC
+    
+    18/10 20:10 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AUS | –   |
+    | TON | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/PAC20240101)
 * AFL
     
 * [AFL Women's
     
-    Complete
+    17/10 19:15 AEST
     
     |     |     |
     | --- | --- |
-    | GWS | 4.4.28 |
-    | ADE | 14.8.92 |
+    | CAR | –   |
+    | WBD | –   |
     
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240711)
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240801)
+* Motorsport
+    
+* [Supercars
+    
+    Complete
+    
+    |     |
+    | --- |
+    | Bathurst 1000 |
+    |     |
+    
+    Race Centre](https://www.foxsports.com.au/motorsport/supercars/race-centre?meetingid=744)
+* [MotoGP
+    
+    18/10 10:45 AEST
+    
+    |     |
+    | --- |
+    | Australian GP |
+    |     |
+    
+    Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=712)
 * NFL
     
 * [NFL
@@ -114,46 +156,6 @@ FOX SCORES
     | JAX | 16  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250603)
-* [NFL
-    
-    4th Qtr
-    
-    |     |     |
-    | --- | --- |
-    | TEN | 17  |
-    | IND | 20  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250605)
-* [NFL
-    
-    4th Qtr
-    
-    |     |     |
-    | --- | --- |
-    | GB  | 34  |
-    | ARI | 13  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250604)
-* [NFL
-    
-    4th Qtr
-    
-    |     |     |
-    | --- | --- |
-    | NE  | 21  |
-    | HOU | 41  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250606)
-* [NFL
-    
-    4th Qtr
-    
-    |     |     |
-    | --- | --- |
-    | NO  | 27  |
-    | TB  | 37  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250607)
 * [NFL
     
     Full Time
@@ -176,86 +178,104 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250609)
 * [NFL
     
-    14/10 7:05 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | DEN | –   |
-    | LAC | –   |
+    | GB  | 34  |
+    | ARI | 13  |
     
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250610)
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250604)
 * [NFL
     
-    14/10 7:05 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | LV  | –   |
-    | PIT | –   |
+    | TEN | 17  |
+    | IND | 20  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250605)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | NE  | 21  |
+    | HOU | 41  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250606)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | NO  | 27  |
+    | TB  | 51  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250607)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | LV  | 13  |
+    | PIT | 32  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250611)
 * [NFL
     
-    14/10 7:25 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | DAL | –   |
-    | DET | –   |
+    | DEN | 16  |
+    | LAC | 23  |
     
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250612)
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250610)
 * [NFL
     
-    14/10 7:25 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | CAR | –   |
-    | ATL | –   |
+    | CAR | 20  |
+    | ATL | 38  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250613)
 * [NFL
     
-    14/10 11:20 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | NYG | –   |
-    | CIN | –   |
+    | DAL | 9   |
+    | DET | 47  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250612)
+* [NFL
+    
+    3rd Qtr
+    
+    |     |     |
+    | --- | --- |
+    | NYG | 0   |
+    | CIN | 7   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250614)
-* Basketball
-    
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SYD | 99  |
-    | CAI | 73  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040005/play-by-play)
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MEL | 106 |
-    | ADL | 79  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040006/play-by-play)
 * Baseball
     
 * [MLB
     
-    14/10 11:15 AEST
+    Bottom 6th Innings
     
     |     |     |
     | --- | --- |
-    | LAD | –   |
-    | NYM | –   |
+    | LAD | 6   |
+    | NYM | 0   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002E0214)
 
@@ -358,9 +378,9 @@ FOX SCORES
 * [NRL Premiership](https://www.foxsports.com.au/nrl/nrl-premiership)NRL Premiership
     * [Latest News](https://www.foxsports.com.au/nrl/nrl-premiership/latest-news)
     * [Stats](https://www.foxsports.com.au/nrl/nrl-premiership/stats)
-* [State of Origin](https://www.foxsports.com.au/nrl/state-of-origin)
 * [NRLW](https://www.foxsports.com.au/nrl/nrlw)NRLW
     * [Live Stream](https://kayosports.com.au/?marketing=nrl-1&extcamp=fsaconnavnrl-ptr-fsp-lnk-grc-acq-nrl-kyo&channel=fsa&campaign=launch&voucher=LAUNCH)
+* [State of Origin](https://www.foxsports.com.au/nrl/state-of-origin)
 * [Teams](https://www.foxsports.com.au/nrl/nrl-premiership/teams)Teams
     * [Broncos](https://www.foxsports.com.au/nrl/nrl-premiership/teams/broncos)
     * [Bulldogs](https://www.foxsports.com.au/nrl/nrl-premiership/teams/bulldogs)
@@ -378,10 +398,8 @@ FOX SCORES
     * [Tigers](https://www.foxsports.com.au/nrl/nrl-premiership/teams/tigers)
     * [Titans](https://www.foxsports.com.au/nrl/nrl-premiership/teams/titans)
     * [Warriors](https://www.foxsports.com.au/nrl/nrl-premiership/teams/warriors)
-* [Win](https://www.foxsports.com.au/win)
 * [Fixtures & Results](https://www.foxsports.com.au/nrl/fixtures-results)
 * [Players](https://www.foxsports.com.au/nrl/player)
-* [RLWC](https://www.foxsports.com.au/nrl/rugby-league-world-cup)
 * [NRL Tipping](https://tips.com.au/?utm_source=FXS&utm_medium=website&utm_campaign=tips_nrl)
 
 [Netball](https://www.foxsports.com.au/netball)
@@ -910,6 +928,7 @@ FOX SCORES
 * [Wallabies](https://www.foxsports.com.au/video/rugby/wallabies)
 * [The Rugby Championship](https://www.foxsports.com.au/video/rugby/the-rugby-championship)
 * [Rugby](https://www.foxsports.com.au/video/rugby/rugby)
+* [Rugby World Cup](https://www.foxsports.com.au/video/rugby/rugby-world-cup)
 * [Sponsored](https://www.foxsports.com.au/video/rugby/sponsored)
 
 [Other Sports](https://www.foxsports.com.au/video/other-sports)
@@ -1012,14 +1031,13 @@ FOX SCORES
 * [Cricket](https://www.foxsports.com.au/cricket)
 * [Bathurst 1000](https://www.foxsports.com.au/motorsport/supercars/bathurst-1000)
 * [Motorsport](https://www.foxsports.com.au/motorsport)
-* [NBA](https://www.foxsports.com.au/basketball/nba)
+* [Basketball](https://www.foxsports.com.au/basketball)
 * [Boxing](https://www.foxsports.com.au/boxing)
 * [UFC](https://www.foxsports.com.au/ufc)
 * [Netball](https://www.foxsports.com.au/netball)
-* [Basketball](https://www.foxsports.com.au/basketball)
+* [NFL](https://www.foxsports.com.au/nfl)
 * More...
 
-* [NFL](https://www.foxsports.com.au/nfl)
 * [Golf](https://www.foxsports.com.au/golf)
 * [Football](https://www.foxsports.com.au/football)
 * [Tennis](https://www.foxsports.com.au/tennis)
