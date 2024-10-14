@@ -196,37 +196,45 @@ Volara is a decentralized data marketplace for X data. Run a miner to earn rewar
 
 [Volara](https://volara.xyz/)[X/Twitter](https://twitter.com/volaraxyz)
 
-![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66843ad18de9371161e52fc4_Flirtual.png)
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c8312eb1e802ab9a11d0b7_data_pig_vana.png)
 
-Flirtual
+DataPIG
 
-Flirtual empowers users to take control of their dating app data, transforming it into valuable insights and opportunities
+Building the best AI-driven recommendation engine for investments
 
-[Flirtual](https://www.flirtual.xyz/)[X/Twitter](#)
+[DataPIG](https://datapig.xyz/)[X/Twitter](https://x.com/datapiggy)
 
-![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66843af865c27278b08e6af7_Block%20Explorer.png)
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c82e84186b7bacc5302d7d_six_gpt.png)
 
-Block Explorer
+SixGPT
 
-View details of data transactions, addresses, and other activities on the Moksha testnet.
+Run a gpt model that proxies as a Vana miner on your hardware
 
-[Block Explorer](https://vanascan.io/)[GitHub](https://github.com/vana-com)
+[SixGPT](https://sixgpt.xyz/)[X/Twitter](https://twitter.com/sixgpt)
 
-![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66843b1cb84823695c968cd4_Faucet.png)
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c82fd43ebaf3c32af01f38_Sydintel_dao.png)
 
-Faucet
+Sydintel
 
-Fund your testnet wallet to start developing and experimenting with user-owned data applications.
+Uncovering dark corners of the internet with crowd-sourced intel
 
-[Faucet](https://faucet.vana.org/)[GitHub](https://github.com/vana-com)
+[Sydintel](https://sydintel.com/)[X/Twitter](https://x.com/sydintel)
 
-![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c82c6389379c3c6becc6c1_Symmetric.png)
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c82f3bf123a3d49c55a6f4_YKYR_dao.png)
 
-Symmetric
+YKYR
 
-Building a decentralized exchange on Vana’s network
+User-owned AI web analytics
 
-[Symmetric](https://symmetric.finance/)[X/Twitter](https://twitter.com/0xSymmetric)
+[X/Twitter](https://x.com/ykyrnow)[](#)
+
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c830b3f123a3d49c56efec_kleo_netowkr_vana.png)
+
+Kleo Network
+
+Building the world's most comprehensive dataset of browsing history
+
+[Kleo Network](https://www.kleo.network/)[Github](https://github.com/Kleo-Network)
 
 ![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c82d0db8587839c5bf417f_Finquarium_dao.png)
 
@@ -252,29 +260,21 @@ Earn from your LinkedIn data
 
 [Resume Data Dao](https://www.ldatadao.org/home)[](#)
 
-![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c82e84186b7bacc5302d7d_six_gpt.png)
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66843af865c27278b08e6af7_Block%20Explorer.png)
 
-SixGPT
+Block Explorer
 
-Run a gpt model that proxies as a Vana miner on your hardware
+View details of data transactions, addresses, and other activities on the Moksha testnet.
 
-[SixGPT](https://sixgpt.xyz/)[X/Twitter](https://twitter.com/sixgpt)
+[Block Explorer](https://vanascan.io/)[GitHub](https://github.com/vana-com)
 
-![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c82f3bf123a3d49c55a6f4_YKYR_dao.png)
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66843b1cb84823695c968cd4_Faucet.png)
 
-YKYR
+Faucet
 
-User-owned AI web analytics
+Fund your testnet wallet to start developing and experimenting with user-owned data applications.
 
-[X/Twitter](https://x.com/ykyrnow)[](#)
-
-![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c82fd43ebaf3c32af01f38_Sydintel_dao.png)
-
-Sydintel
-
-Uncovering dark corners of the internet with crowd-sourced intel
-
-[Sydintel](https://sydintel.com/)[X/Twitter](https://x.com/sydintel)
+[Faucet](https://faucet.vana.org/)[GitHub](https://github.com/vana-com)
 
 ![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66d0a325d88fe45ad0bec12b_mind_dao_new.png)
 
@@ -284,21 +284,21 @@ Answering how the new internet can advance human happiness
 
 [MindDAO](https://mind-dao.xyz/)[](#)
 
-![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c830b3f123a3d49c56efec_kleo_netowkr_vana.png)
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66843ad18de9371161e52fc4_Flirtual.png)
 
-Kleo Network
+Flirtual
 
-Building the world's most comprehensive dataset of browsing history
+Flirtual empowers users to take control of their dating app data, transforming it into valuable insights and opportunities
 
-[Kleo Network](https://www.kleo.network/)[Github](https://github.com/Kleo-Network)
+[Flirtual](https://www.flirtual.xyz/)[X/Twitter](#)
 
-![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c8312eb1e802ab9a11d0b7_data_pig_vana.png)
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c82c6389379c3c6becc6c1_Symmetric.png)
 
-DataPIG
+Symmetric
 
-Building the best AI-driven recommendation engine for investments
+Building a decentralized exchange on Vana’s network
 
-[DataPIG](https://datapig.xyz/)[X/Twitter](https://x.com/datapiggy)
+[Symmetric](https://symmetric.finance/)[X/Twitter](https://twitter.com/0xSymmetric)
 
 ![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c831d7f0e7e8e65fb386f6_scorll_data_dao.png)
 
