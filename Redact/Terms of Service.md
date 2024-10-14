@@ -1,8 +1,8 @@
 ![mobile preview](/images/svgs/exit_banner.svg)[![mobile preview](/images/svgs/clock.svg)
 
-Expires in 1850:20:46
+Expires in 42:18:56
 
-For Russian and Turkish users: Download Redact and Sign Up in the Account Tab to get Free Redact Premium to delete from Discord](https://redact.dev/login)
+Redact for Discord is free for users in Russia and Turkey Click for more info](https://carnelian-society-f72.notion.site/How-to-access-Redact-Premium-in-Russia-T-rkiye-for-deleting-discord-free-11a0acb4639c80aa91fbc7ce251822ed)
 
 [](https://redact.dev/)
 
