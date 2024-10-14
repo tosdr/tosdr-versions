@@ -304,29 +304,31 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Premier Investments chairman Solomon Lew.](https://static.ffx.io/images/$zoom_0.6051%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_332%2C$y_438/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/5bf0c4f83179538791ed7c38e2eea6f6e2a2a743)](https://www.afr.com/work-and-careers/workplace/solomon-lew-reveals-why-he-is-still-obsessed-with-myer-20240925-p5kdfp)
+[![South Africa’s first fully representative democratic elections in 1994 were a pivotal moment in Biopak CEO Gary Smith’s career.](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b0eb6885dc79d9842e134414ece4982147d5a328)](https://www.afr.com/work-and-careers/workplace/why-nelson-mandela-s-election-was-a-turning-point-for-this-ceo-20241014-p5ki0u)
 
-### [Solomon Lew reveals why he is still obsessed with Myer](https://www.afr.com/work-and-careers/workplace/solomon-lew-reveals-why-he-is-still-obsessed-with-myer-20240925-p5kdfp)
+### [Why Nelson Mandela’s election was a turning point for this CEO](https://www.afr.com/work-and-careers/workplace/why-nelson-mandela-s-election-was-a-turning-point-for-this-ceo-20241014-p5ki0u)
 
-* Patrick Durkin
+* 53 mins ago
+* Euan Black, Sally Patten and Lap Phan
 
-* ### [What men really think about the push for gender balance](https://www.afr.com/work-and-careers/workplace/what-men-really-think-about-the-push-for-gender-balance-20240923-p5kcvb)
+* ### [Solomon Lew reveals why he is still obsessed with Myer](https://www.afr.com/work-and-careers/workplace/solomon-lew-reveals-why-he-is-still-obsessed-with-myer-20240925-p5kdfp)
     
-* ### [CEO son crowned head of Rich List family’s $18b plumbing empire](https://www.afr.com/work-and-careers/workplace/ceo-son-crowned-head-of-rich-list-family-s-18b-plumbing-empire-20240910-p5k9ct)
+* ### [What men really think about the push for gender balance](https://www.afr.com/work-and-careers/workplace/what-men-really-think-about-the-push-for-gender-balance-20240923-p5kcvb)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Denver & Liely marlo wine glass](https://static.ffx.io/images/$zoom_0.2659%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_42/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1da5a799c5535fcb89d205768f498fc836daee0a)](https://www.afr.com/life-and-luxury/design/australian-s-revolutionary-wine-glass-floors-french-experts-20241003-p5kfsd)
+[![ ](https://static.ffx.io/images/$zoom_0.4448%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_52/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/38a69cf9075199e5c023263d1096d6c5e83cf155)](https://www.afr.com/technology/this-robot-will-do-battle-with-your-lawn-no-matter-the-cost-20241010-p5khbq)
 
-### [An Australian’s revolutionary wine glass has floored French experts](https://www.afr.com/life-and-luxury/design/australian-s-revolutionary-wine-glass-floors-french-experts-20241003-p5kfsd)
+### [This robot will do battle with your lawn, no matter the cost](https://www.afr.com/technology/this-robot-will-do-battle-with-your-lawn-no-matter-the-cost-20241010-p5khbq)
 
-* Paul Best
+* 53 mins ago
+* John Davidson
 
-* ### [How one of Australia’s top chefs turned anger into change](https://www.afr.com/life-and-luxury/food-and-wine/how-one-of-australia-s-top-chefs-turned-anger-into-change-20240930-p5kej6)
+* ### [A ‘practice makes perfect’ kind of sport](https://www.afr.com/life-and-luxury/health-and-wellness/a-practice-makes-perfect-kind-of-sport-20240930-p5kekg)
     
-* ### [Kirsten King wants you to flex; but don’t push Pilates to the limit](https://www.afr.com/life-and-luxury/health-and-wellness/kirsten-king-wants-you-to-flex-but-don-t-push-pilates-to-the-limit-20240912-p5k9xt)
+* ### [The Lotus Emeya is a big, dreamy electric sedan](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/the-lotus-emeya-is-a-big-dreamy-electric-sedan-20240913-p5kac2)
     
 
 [Rich List](https://www.afr.com/rich-list)
