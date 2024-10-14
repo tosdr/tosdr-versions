@@ -49,7 +49,7 @@ Main menu
     
     * [Modify/Cancel](#)
     * [MODIFY FLIGHT](https://www.airarabia.com/modify-flight)
-    * [CANCEL FLIGHT](https://www.airarabia.com/cancel-flight)
+    * [CANCEL FLIGHT](https://www.airarabia.com/flug-stornieren)
     * [ADD AIR REWARDS ID](https://www.airarabia.com/add-air-rewards-id)
     
     * [Add Extras](#)
@@ -266,8 +266,8 @@ Download the Air Arabia app for free and enjoy great deals wherever you are!
 
 #### About Us
 
-* [Media centre](https://press.airarabia.com/)
-* [Investor relations](https://www.airarabia.com/en/investor-relations)
+* [Media Centre](https://press.airarabia.com/)
+* [Investor Relations](https://www.airarabia.com/en/investor-relations)
 * [Company Information](https://www.airarabia.com/company-information)
 * [Community](https://press.airarabia.com/air-arabia/csr/)
 * [Sustainability](https://www.airarabia.com/sites/airarabia/files/gallery/AirArabia-ESG%20Report-English%20%281%29.pdf)
