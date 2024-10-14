@@ -555,6 +555,7 @@ The following table sets out information about the cookies we use on our Service
 | --- | --- | --- | --- | --- |
 | **Google Tags** | Functional | On first visiting the fingerprint.com site (our "**Site**") | Until you finish browsing our Site | This tag allows us to integrate analytics, such as Google Analytics, and similar products that track and monitor website traffic into our Site. This enable us to see how the Site is performing in order to identify errors or features that users find confusing.<br><br>This data will not, however, be shared with other Google services or used for contextualizing or personalizing the advertising displayed to you.<br><br>You can learn more about Google’s practices at [http://www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners), and view its currently available opt-out options at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) |
 | **\_vid, \_vid\_t, \_vid\_i** | Functional | On first visiting the Site | 1 year | This cookie allows us to demonstrate the functionality of our Service to visitors of the Site. |
+| **\_vid\_lr** | Funtional | On first visiting the Site | 1 year | This cookie is used to diagnose latency and performance issues |
 | **\_cfduiud** | Functional | On first visiting the dev.fingerprint.com site | 1 month | This cookie is used to identify individual clients behind a shared IP address and apply settings on a per-client basis. We use it in connection with ensuring the Site is presented to you in the correct language, and to identify trusted web traffic and apply security settings on a per-client basis. |
 
 Other than cookies that are necessary for the operation of our Site, you will only receive cookies when you have given us your consent to do so. In addition, if you do not wish to receive cookies, most browsers allow you to change your cookie settings.
@@ -656,7 +657,7 @@ We may update this European Data Annex from time to time and so you should revie
 
 If we need to provide you with information about something, whether for legal, marketing or other business related purposes, we will select what we believe is the best way to get in contact with you. We will usually do this through email. The fact that we may send notices to you will not stop you from being able to opt out of certain types of contact as described in this European Data Annex.
 
-Updated about 2 months ago
+Updated about 3 hours ago
 
 * * *
 
