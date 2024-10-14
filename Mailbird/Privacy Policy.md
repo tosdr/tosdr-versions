@@ -1,6 +1,6 @@
 [![Mailbird - We strive to make your email experience fly](/assets/imgs/logos/header-mailbird-white.svg)](https://www.getmailbird.com/ "Mailbird")
 
-[Mailbird is now free](https://www.getmailbird.com/pricing/)
+[Mailbird is now on Mac](https://www.getmailbird.com/downloading/)
 
 * [Pricing](https://www.getmailbird.com/pricing/)
 * [Features](https://www.getmailbird.com/features/)
