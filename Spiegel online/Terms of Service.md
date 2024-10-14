@@ -240,7 +240,7 @@ SPIEGEL Gruppe
 * [Schlagzeilen](https://www.spiegel.de/schlagzeilen/ "Schlagzeilen")
 * [Nahostkonflikt](https://www.spiegel.de/thema/nahostkonflikt/ "Nahostkonflikt")
 * [US-Wahl](https://www.spiegel.de/thema/us-praesidentschaftswahl-2024/ "US-Wahl")
-* [Ukraine-Krieg](https://www.spiegel.de/thema/ukraine_konflikt/ "Ukraine-Krieg")
+* [Ukrainekrieg](https://www.spiegel.de/thema/ukraine_konflikt/ "Ukrainekrieg")
 * [Newsletter](https://www.spiegel.de/newsletter "Newsletter")
 * [Debatte](https://www.spiegel.de/debatten/ "Debatte")
 * [SPIEGEL+](https://www.spiegel.de/plus/ "SPIEGEL+")
