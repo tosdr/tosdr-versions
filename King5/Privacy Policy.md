@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab/20240908T170729/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab/20240908T170729/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-huelga-de-boeing-las-elecciones-y-artista-vctor-melendez-diseo-una-camiseta-de-seattle-kraken/281-f65b01d8-69d7-429a-9412-6e37623a09b3)
+    *  [![](https://media.king5.com/assets/KING/images/361f3446-ad21-4131-8dda-666a10216056/20241012T145728/361f3446-ad21-4131-8dda-666a10216056_16x9.jpg) ![](https://media.king5.com/assets/KING/images/361f3446-ad21-4131-8dda-666a10216056/20241012T145728/361f3446-ad21-4131-8dda-666a10216056_360x203.jpg)](https://www.king5.com/article/news/local/pets-and-animals/seattle-area-feline-rescue-launches-emergency-fundraiser-continue-life-saving-care/281-e2f4908d-8b36-4cf5-833e-83610c965aa0)
         
-        #### [Cinco Cosas: La huelga de Boeing, las elecciones, y artista Víctor Melendez diseño una camiseta de Seattle Kraken](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-huelga-de-boeing-las-elecciones-y-artista-vctor-melendez-diseo-una-camiseta-de-seattle-kraken/281-f65b01d8-69d7-429a-9412-6e37623a09b3)
+        #### [Seattle Area Feline Rescue launches emergency fundraiser to continue life-saving care](https://www.king5.com/article/news/local/pets-and-animals/seattle-area-feline-rescue-launches-emergency-fundraiser-continue-life-saving-care/281-e2f4908d-8b36-4cf5-833e-83610c965aa0)
         
-    *  [![](https://media.king5.com/assets/KING/images/fc4b9df3-fd38-4d39-9605-aa5a0aaae6d8/20241013T151655/fc4b9df3-fd38-4d39-9605-aa5a0aaae6d8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fc4b9df3-fd38-4d39-9605-aa5a0aaae6d8/20241013T151655/fc4b9df3-fd38-4d39-9605-aa5a0aaae6d8_360x203.jpg)](https://www.king5.com/article/news/local/public-safety/king-county-sexual-assault-resource-center-continues-lifesaving-bilingual-survivor-support/281-0fc41fc2-7d6b-43d7-820d-80641efd0953)
+    *  [![](https://media.king5.com/assets/KING/images/ddf5b4b5-a548-4f46-8328-9666d0761b88/ddf5b4b5-a548-4f46-8328-9666d0761b88_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ddf5b4b5-a548-4f46-8328-9666d0761b88/ddf5b4b5-a548-4f46-8328-9666d0761b88_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattles-street-paid-parking-fall-rates-begin-tuesday/281-e74a9d12-3b6f-4505-a799-039ef76d02eb)
         
-        #### [King County Sexual Assault Resource Center continues 'lifesaving' bilingual survivor support](https://www.king5.com/article/news/local/public-safety/king-county-sexual-assault-resource-center-continues-lifesaving-bilingual-survivor-support/281-0fc41fc2-7d6b-43d7-820d-80641efd0953)
+        #### [Seattle's on-street paid parking fall rates begin Tuesday. Here's what you need to know](https://www.king5.com/article/news/local/seattle/seattles-street-paid-parking-fall-rates-begin-tuesday/281-e74a9d12-3b6f-4505-a799-039ef76d02eb)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KREM/images/dc999ffa-a85c-4340-baf4-96b66798d844/20241011T184543/dc999ffa-a85c-4340-baf4-96b66798d844_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/dc999ffa-a85c-4340-baf4-96b66798d844/20241011T184543/dc999ffa-a85c-4340-baf4-96b66798d844_360x203.jpg)](https://www.king5.com/article/tech/science/environment/earthquake-risk-northwest/293-b6cc829c-20a1-4c6c-a66f-705ea955053b)
+        
+        #### [Understanding our earthquake risk in the northwest](https://www.king5.com/article/tech/science/environment/earthquake-risk-northwest/293-b6cc829c-20a1-4c6c-a66f-705ea955053b)
+        
     *  [![](https://media.king5.com/assets/KING/images/e67039ac-e9c4-49d1-8263-579bd3d5e466/20241013T151532/e67039ac-e9c4-49d1-8263-579bd3d5e466_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e67039ac-e9c4-49d1-8263-579bd3d5e466/20241013T151532/e67039ac-e9c4-49d1-8263-579bd3d5e466_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/CCT/images/afeba818-18ce-40d7-bf83-fb4754b2d2a9/20241011T190527/afeba818-18ce-40d7-bf83-fb4754b2d2a9_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/afeba818-18ce-40d7-bf83-fb4754b2d2a9/20241011T190527/afeba818-18ce-40d7-bf83-fb4754b2d2a9_360x203.jpg)](https://www.king5.com/article/news/nation-world/northern-lights-dazzling-farther-south-than-normal-cause/507-7a651b98-87fa-410e-9833-34235a635500)
-        
-        #### [What's behind the northern lights that dazzled the sky farther south than normal](https://www.king5.com/article/news/nation-world/northern-lights-dazzling-farther-south-than-normal-cause/507-7a651b98-87fa-410e-9833-34235a635500)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-70°
+63°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
