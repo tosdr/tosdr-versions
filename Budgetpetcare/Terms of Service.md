@@ -1,10 +1,10 @@
-10.10 SUPER SALE!
+COLUMBUS DAY SAVINGS!
 
-20% Off + 10% **Cashback**
+22% Off + 10% **Cashback**
 
 on all orders -
 
-Use Code : OCTSALE
+Use Code : DISCOVER
 
 * [![Free Shipping](/images/truck.png)FREE SHIPPING\* | Guaranteed Delivery](https://www.budgetpetcare.com/ship_returns.aspx)
     
