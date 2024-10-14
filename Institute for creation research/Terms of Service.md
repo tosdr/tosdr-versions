@@ -166,32 +166,6 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Creation Science Update
-
-[![](/i/Main%20Stage%20-%201400x1050/brainscomplexity_1400x1050.jpg)](https://www.icr.org/article/cognitive-map-brain-complexity)
-
-[The Cognitive Map: An Incredible Display of the Brain&r.,.](https://www.icr.org/article/cognitive-map-brain-complexity/)
-
-To be spatially capable creatures, humans need their brains to tell them 1) where things are in relation to themselves and 2) where everything is in...
-
-BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
-
-[![](/i/Main%20Stage%20-%201400x1050/dino-footprints-duck_1400x1050.jpg)](https://www.icr.org/article/Duck-Billed-Dinosaurs)
-
-[Solving the Mysterious Appearances of Duck-billed Dinosaurs](https://www.icr.org/article/Duck-Billed-Dinosaurs/)
-
-A new discovery of a duck-billed dinosaur was announced in southern Chile.1 And not only does this new dinosaur lack identifiable ancestors,...
-
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
-
-[![](/i/Main%20Stage%20-%201400x1050/hypercarnivore-1400x1050)](https://www.icr.org/article/hypercarnivore-discovered)
-
-[A Strange and Mysterious Hypercarnivore Discovered](https://www.icr.org/article/hypercarnivore-discovered/)
-
-In 1988 a fossil jaw was discovered by paleontologists in San Diego County, California. Decades later the scientists determined it belonged to a relatively...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
