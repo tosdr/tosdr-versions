@@ -1,11 +1,5 @@
 You need to enable JavaScript to run Jabra Enhance.
 
-Get $150 off, right to your inbox!
-
-Get $150 off, right to your inbox!
-
-Get $150 off, right to your inbox!
-
 The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
 The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
@@ -22,9 +16,7 @@ The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/prod
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-Schedule call[(800) 854-2772](tel:8008542772)
-
-[](tel:8008542772 "Call us")
+[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -97,7 +89,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3834 reviews)
+4.6 out of 5(3847 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -144,7 +136,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3834 reviews)
+4.6 out of 5(3847 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.072d2d18.png)
 
