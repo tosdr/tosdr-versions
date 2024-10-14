@@ -304,15 +304,15 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
-* [![Outlook](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Microsoft Outlook bug blocks email logins, causes app crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-bug-blocks-email-logins-causes-app-crashes/)
-* [![Veeam](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Akira and Fog ransomware now exploit critical Veeam RCE flaw](https://www.bleepingcomputer.com/news/security/akira-and-fog-ransomware-now-exploiting-critical-veeam-rce-flaw/)
 * [![Casio](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Casio confirms customer data stolen in a ransomware attack](https://www.bleepingcomputer.com/news/security/casio-confirms-customer-data-stolen-in-a-ransomware-attack/)
+* [![AI hacker security Artificial Intelligence](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    OpenAI confirms threat actors use ChatGPT to write malware](https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
+* [![Chrome flare](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Google warns uBlock Origin and other extensions may be disabled soon](https://www.bleepingcomputer.com/news/google/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/)
 
 ##### Follow us:
 
