@@ -182,9 +182,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [OneTrust & Adobe: The power of permission-based personalization](https://www.onetrust.com/resources/onetrust-and-adobe-the-power-of-permission-based-personalization-webinar/)
 * [Building a strong security posture: Managing compliance, risk, and business engagement in a dynamic landscape](https://www.onetrust.com/resources/building-a-strong-security-posture-managing-compliance-risk-and-business-engagement-in-a-dynamic-landscape-webinar/)
 * [From request to resolution: Simplifying DSRs with automation](https://www.onetrust.com/resources/from-request-to-resolution-simplifying-dsrs-with-automation-webinar/)
-* [Data privacy and data protection: The basics explained](https://www.onetrust.com/resources/data-protection-and-data-privacy-the-basics-explained-ebook/)
 
 ### Platform
 
