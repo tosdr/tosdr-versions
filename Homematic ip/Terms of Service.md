@@ -327,7 +327,9 @@ Entdecken Sie Homematic IP auf der TU Boot 2024! Vom 17. Oktober bis 25. Novembe
 
 17-19
 
-Event](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-10-17-bauhaus-dresden-nickern)
+Event
+
+BAUHAUS Dresden-Nickern: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-10-17-bauhaus-dresden-nickern)
 
 *  [![DE](/modules/contrib/languageicons/flags/de.png "DE") DE](https://homematic-ip.com/de/eula)
 *  [![EN](/modules/contrib/languageicons/flags/en.png "EN") EN](https://homematic-ip.com/en/eula)
