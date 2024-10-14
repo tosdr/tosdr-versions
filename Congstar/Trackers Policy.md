@@ -43,7 +43,7 @@
     
     * [Prepaid](#)
         * [Prepaid-Tarife im Vergleich](https://www.congstar.de/prepaid/)
-        * [Prepaid Jahrespaket (100 GB/Jahr)](https://www.congstar.de/prepaid/tarife/prepaid-jahrespaket/)
+        * [Prepaid Jahrespaket (120 GB/Jahr)](https://www.congstar.de/prepaid/tarife/prepaid-jahrespaket/)
         * [Prepaid Allnet XL (20 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-xl/)
         * [Prepaid Allnet L (15 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-l/)
         * [Prepaid Allnet M (10 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-m/)
