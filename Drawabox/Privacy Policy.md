@@ -24,13 +24,13 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://drawabox.com/rec/zapata/shading)
-
-[](https://amzn.to/2Bz3JgN)
-
-[](https://drawabox.com/rec/bucci/digitalpainting)
+[](https://amzn.to/4cdoFKu)
 
 [](https://amzn.to/2R8xkYn)
+
+[](https://amzn.to/3KZMtFM)
+
+[](https://drawabox.com/rec/zapata/shading)
 
 ![Drawabox](https://d15v304a6xpq4b.cloudfront.net/assets/images/drawabox-logo.png "Drawabox")
 
