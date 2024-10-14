@@ -418,9 +418,7 @@ Material & Color
 
 Microlux Dark Moss Microlux Burgundy Microlux Blue Microlux Tan Duralux Chocolate Duralux Tan Leather Chestnut Miralux Chocolate Spectra Miralux Light Gray Spectra Miralux Saddle Microlux Chocolate Duralux Burgundy Duralux Blue
 
-Add to cart
-
-  This item is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
+ Add to cart
 
 Deluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Dark Moss - $1,699.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Burgundy - $1,999.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Blue - $1,999.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Tan - $1,999.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Duralux Chocolate - $2,199.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Duralux Tan - $2,199.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Leather Chestnut - Sold Out Deluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Chocolate Spectra - $2,599.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Light Gray Spectra - $2,599.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Saddle - $2,599.00 USD Deluxe 5 Zone / Miralux Chocolate Spectra - $3,299.00 USD Deluxe 5 Zone / Miralux Light Gray Spectra - $3,299.00 USD Deluxe 5 Zone / Miralux Saddle - $3,299.00 USD Petite 2 Zone / Duralux Chocolate - $2,499.00 USD Petite 2 Zone / Duralux Tan - $2,499.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Microlux Burgundy - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Microlux Blue - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Microlux Chocolate - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Microlux Tan - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Duralux Chocolate - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Duralux Tan - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Duralux Burgundy - $1,899.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Duralux Blue - $1,899.00 USD 
 
