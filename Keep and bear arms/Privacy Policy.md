@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 760 active visitors** | **Monday, October 14, 2024** |
+| **You are 1 of 707 active visitors** | **Monday, October 14, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -42,7 +42,7 @@ State Email Lists:
 |     |
 | --- |
 | Do you oppose Biden's anti-gun executive orders?  <br>Yes  <br>No  <br>Undecided |
-| [Current results](http://keepandbeararms.com/polls/pollmentorres.asp)  <br>[Earlier poll results](http://keepandbeararms.com/polls/pollmentorhist.asp)4770 people voted |
+| [Current results](http://keepandbeararms.com/polls/pollmentorres.asp)  <br>[Earlier poll results](http://keepandbeararms.com/polls/pollmentorhist.asp)4771 people voted |
 
 ![](/images/clear.gif)![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**Congress have no power to disarm the militia. Their swords, and every other terrible implement of the soldier, are the birthright of an American... The unlimited power of the sword is not in the hands of either the federal or state government, but, where I trust in God it will ever remain, in the hands of the people. � Tench Coxe, Pennsylvania Gazette, Feb. 20, 1788.
+ **QUOTES TO REMEMBER**Laws that forbid the carrying of arms disarm only those who are neither inclined nor determined to commit crimes. Such laws make things worse for the assaulted and better for the assailants; they serve rather to encourage than to prevent homicides, for an unarmed man may be attacked with greater confidence than an armed man. � Thomas Jefferson, quoting Cesare Beccaria in On Crimes and punishment (1764).
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
