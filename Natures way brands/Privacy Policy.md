@@ -751,7 +751,7 @@ Offer is to receive up to 60% off only on the merchandise displayed on   \[[ht
 
 25% off select products with code EXPLORENW
 
-Offer valid from 10/1/2023 until 12/31/2024 at 11:59pm CDT. Offer applies to all products listed at \[[https://naturesway.com/collections/explore-natures-way](https://naturesway.com/collections/explore-natures-way)\] using the code at checkout. Valid on merchandise only at naturesway.com. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited.
+Offer valid from 10/1/2023 until 6/30/25 at 11:59pm CDT. Offer applies to all products listed at \[[https://naturesway.com/collections/explore-natures-way](https://naturesway.com/collections/explore-natures-way)\] using the code at checkout. Valid on merchandise only at naturesway.com. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited.
 
 20% off your first order with email sign-up
 
@@ -1311,7 +1311,7 @@ Offer is to receive up to 60% off only on the merchandise displayed on   \[[ht
 
 25% off select products with code EXPLORENW
 
-Offer valid from 10/1/2023 until 12/31/2024 at 11:59pm CDT. Offer applies to all products listed at \[[https://naturesway.com/collections/explore-natures-way](https://naturesway.com/collections/explore-natures-way)\] using the code at checkout. Valid on merchandise only at naturesway.com. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited.
+Offer valid from 10/1/2023 until 6/30/25 at 11:59pm CDT. Offer applies to all products listed at \[[https://naturesway.com/collections/explore-natures-way](https://naturesway.com/collections/explore-natures-way)\] using the code at checkout. Valid on merchandise only at naturesway.com. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited.
 
 20% off your first order with email sign-up
 
