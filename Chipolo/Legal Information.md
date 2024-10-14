@@ -1,3 +1,5 @@
+Holiday Sale Up to 40% off
+
 Point finders for Google's Find My Device app Order now
 
 Chipolo Fruit LIMITED edition - 4x Chipolo ONE key finder More
@@ -32,9 +34,9 @@ Compare products [Store](https://chipolo.net/en-us/pages/chipolo-collection) [Lo
 
 Compare products
 
-Point finders for Google’s Find My Device app
+Early holiday sale
 
-Buy now[](https://chipolo.net/en-us/products/category/chipolo-point)
+[Link to the promotion](https://chipolo.net/en-us/pages/holiday-sale-2024)
 
 Terms of Use
 ============
