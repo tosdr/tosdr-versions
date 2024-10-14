@@ -158,13 +158,13 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Ultimate Water Filtration System & Nanomesh Filter
         
-        223 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
+        224 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
         
         [![ 1 Patriot Pure Nanomesh Water Filter](//4patriots.com/cdn/shop/files/1-PS-ARRAY-SHOP-ARRAY-NAN-_24x1024_1_360x.png?v=1694450490)
         
         ###### Patriot Pure Nanomesh™ Replacement Water Filter
         
-        55 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
+        57 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
         
     
 * [RV & Camping](https://4patriots.com/collections/camping-outdoor)
