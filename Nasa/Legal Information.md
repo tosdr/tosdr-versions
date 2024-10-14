@@ -70,7 +70,7 @@ Suggested Searches
 
 ### Hubble Spots a Grand Spiral of Starbursts
 
-article2 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
+article3 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
 
 5 min read
 
@@ -307,25 +307,25 @@ article 5 days ago](https://www.nasa.gov/hurricane-milton/)
 
 ### Highlights
 
-[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
+[![A SpaceX Falcon Heavy rocket with the Europa Clipper spacecraft aboard](https://www.nasa.gov/wp-content/uploads/2024/10/1-clipper-on-the-pad-24-10-13-at-10-05-47 am.png?w=1024)
+
+5 min read
+
+### Journey to a Water World: NASA’s Europa Clipper Is Ready to Launch
+
+article 6 hours ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
 
 6 min read
 
 ### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
-article 15 hours ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![The Next Full Moon is a Supermoon, and the Hunter’s Moon](https://science.nasa.gov/wp-content/uploads/2023/06/49641911586_4d26910aba_supermoon_March_2020-1280-jpg.webp)
+article 22 hours ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![The Next Full Moon is a Supermoon, and the Hunter’s Moon](https://science.nasa.gov/wp-content/uploads/2023/06/49641911586_4d26910aba_supermoon_March_2020-1280-jpg.webp)
 
 29 min read
 
 ### The Next Full Moon is a Supermoon, and the Hunter’s Moon
 
-article 2 days ago](https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-and-the-hunters-moon/)[![Asteroid and Comet Resources](https://science.nasa.gov/wp-content/uploads/2024/10/bennu-comettempel1.png)
-
-1 min read
-
-### Asteroid and Comet Resources
-
-article 2 days ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)
+article 2 days ago](https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-and-the-hunters-moon/)
 
 ### Featured
 
@@ -335,7 +335,7 @@ article 2 days ago](https://science.nasa.gov/solar-system/resources/resource-pac
 
 ### Hubble Spots a Grand Spiral of Starbursts
 
-article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
+article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
 
 5 min read
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-p
 
 ### Highlights
 
-[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
+[![A SpaceX Falcon Heavy rocket with the Europa Clipper spacecraft aboard](https://www.nasa.gov/wp-content/uploads/2024/10/1-clipper-on-the-pad-24-10-13-at-10-05-47 am.png?w=1024)
+
+5 min read
+
+### Journey to a Water World: NASA’s Europa Clipper Is Ready to Launch
+
+article 6 hours ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
 
 6 min read
 
 ### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
-article 15 hours ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
+article 22 hours ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
 
 2 min read
 
 ### Hubble Spots a Grand Spiral of Starbursts
 
-article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![Sail Along with NASA’s Solar Sail Tech Demo in Real-Time Simulation](https://science.nasa.gov/wp-content/uploads/2024/10/acs3-eyes-4.png)
-
-2 min read
-
-### Sail Along with NASA’s Solar Sail Tech Demo in Real-Time Simulation
-
-article 3 days ago](https://science.nasa.gov/science-research/sail-along-with-nasas-solar-sail-tech-demo-in-real-time-simulation/)
+article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)
 
 ### Highlights
 
@@ -379,13 +379,13 @@ article 3 days ago](https://science.nasa.gov/science-research/sail-along-with-na
 
 ### A Serendipitous NASA Family Reunion
 
-article 6 hours ago](https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+article 13 hours ago](https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
 
 2 min read
 
 ### Una reunión familiar de la NASA por casualidad
 
-article 6 hours ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/ksc-20240920-ph-kls01-0114.jpg?w=1024)
+article 13 hours ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/ksc-20240920-ph-kls01-0114.jpg?w=1024)
 
 4 min read
 
