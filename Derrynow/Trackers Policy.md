@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-13 Oct 2024
+14 Oct 2024
 
 * [Home
     
@@ -259,6 +259,13 @@ Advertise with Us
 
 Most Popular
 
+[![PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place")](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
+
+[GAA](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
 
 Derry City fans at the Brandywell. Pics by Keith Moore, nwpresspics
@@ -268,12 +275,12 @@ Derry City fans at the Brandywell. Pics by Keith Moore, nwpresspics
 [IN PICTURES: Derry City fans at the Brandywell](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place")](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
+[![Sadness as body of Donal Armstrong recovered from Derry's River Foyle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sadness as body of Donal Armstrong recovered from Derry's River Foyle")](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
 
-[GAA](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Sadness as body of Donal Armstrong recovered from Derry's River Foyle](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Shock as man arrested following Derry city centre stabbing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Shock as man arrested following Derry city centre stabbing")](https://www.derrynow.com/news/local-news/1629136/shock-as-man-arrested-following-derry-city-centre-stabbing.html)
 
@@ -283,13 +290,6 @@ Police at the scene in Foyle Street
 
 [Shock as man arrested following Derry city centre stabbing](https://www.derrynow.com/news/local-news/1629136/shock-as-man-arrested-following-derry-city-centre-stabbing.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Sadness as body of Donal Armstrong recovered from Derry's River Foyle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sadness as body of Donal Armstrong recovered from Derry's River Foyle")](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Sadness as body of Donal Armstrong recovered from Derry's River Foyle](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry doctor receives a MRANI Award for his exceptional service to the community](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry doctor receives a MRANI Award for his exceptional service to the community")](https://www.derrynow.com/news/local-news/1625992/derry-doctor-receives-a-mrani-award-for-his-exceptional-service-to-the-community.html)
 
@@ -519,6 +519,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Karl Lacey commits to Kilcoo as Down kingpins land another SFC](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Karl Lacey commits to Kilcoo as Down kingpins land another SFC")](https://www.derrynow.com/news/derry-sport/1629291/karl-lacey-commits-to-kilcoo-as-down-kingpins-land-another-sfc.html)
+
+Kilcoo boss Karl Lacey has dismissed reports linking him to the Derry job
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Karl Lacey commits to Kilcoo and dismisses reports linking him to the vacant Derry job](https://www.derrynow.com/news/derry-sport/1629291/karl-lacey-commits-to-kilcoo-as-down-kingpins-land-another-sfc.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Sadness as body of Donal Armstrong recovered from Derry's River Foyle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sadness as body of Donal Armstrong recovered from Derry's River Foyle")](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -526,7 +535,7 @@ Advertise with Us
 [Sadness as body of Donal Armstrong recovered from Derry's River Foyle](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Shock as man arrested following Derry city centre stabbing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Shock as man arrested following Derry city centre stabbing")](https://www.derrynow.com/news/local-news/1629136/shock-as-man-arrested-following-derry-city-centre-stabbing.html)
+[![Shock as man arrested following Derry city centre stabbing](https://www.derrynow.com/resizer/165/93/true/2024_10_13/462597974_957601343074894_2819024363319180306_n-1728832056555.jpg--.jpg?1728832056574 "Shock as man arrested following Derry city centre stabbing")](https://www.derrynow.com/news/local-news/1629136/shock-as-man-arrested-following-derry-city-centre-stabbing.html)
 
 Police at the scene in Foyle Street
 
@@ -559,15 +568,6 @@ Faughanvale defeated Drumsurn to make this year's Intermediate final. Pic by Geo
 
 [Faughanvale come from behind to make this year's Intermediate final](https://www.derrynow.com/news/derry-sport/1629041/faughanvale-come-from-behind-to-make-this-year-s-intermediate-final.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ballymaguigan](https://www.derrynow.com/resizer/165/93/true/2024_10_13/Derry_LGFA_Senior_Final_2024-16-1728819892378.jpg--.jpg?1728819893788 "Ballymaguigan")](https://www.derrynow.com/news/derry-sport/1629037/six-the-magic-number-for-new-senior-champions-ballymaguigan.html)
-
-The Ballymaguigan team before the game. Pic by Danny O'Kane.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Six the magic number for new Senior champions Ballymaguigan!](https://www.derrynow.com/news/derry-sport/1629037/six-the-magic-number-for-new-senior-champions-ballymaguigan.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
