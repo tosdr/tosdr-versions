@@ -11,10 +11,6 @@
 Main Navigation
 ---------------
 
-* [TheWrapBook](https://www.thewrap.com/the-wrapbook-tv-issue/)
-    * [TheWrapBook: The Art of Television](https://www.thewrap.com/the-wrapbook-tv-issue/)
-    * [The WrapBook: The Art of Cinema](https://www.thewrap.com/the-wrapbook-the-art-of-cinema-2023/)
-    * [WrapStyle](https://www.thewrap.com/wrapstyle/)
 * [TV](https://www.thewrap.com/category/tv/)
     * [TV](https://www.thewrap.com/category/tv/)
     * [Ratings](https://www.thewrap.com/category/category-column/ratings/)
@@ -30,17 +26,23 @@ Main Navigation
     * [Report From Toronto](https://www.thewrap.com/category/report-toronto/)
     * [Cannes](https://www.thewrap.com/category/report-cannes/)
     * [Cannes Magazine](https://www.thewrap.com/cannes-2024/)
+    * [CinemaCon](https://www.thewrap.com/category/category-column/report-cinemacon/)
 * [Awards](https://www.thewrap.com/category/awards/)
     * [Awards](https://www.thewrap.com/category/awards/)
     * [Emmys](https://www.thewrap.com/category/emmys/)
     * [Oscars](https://www.thewrap.com/category/oscars/)
     * [How I Did It](https://www.thewrap.com/category/how-i-did-it/)
+* [TheWrapBook](https://www.thewrap.com/the-wrapbook-tv-issue/)
+    * [TheWrapBook: The Art of Television](https://www.thewrap.com/the-wrapbook-tv-issue/)
+    * [The WrapBook: The Art of Cinema](https://www.thewrap.com/the-wrapbook-the-art-of-cinema-2023/)
+    * [WrapStyle](https://www.thewrap.com/wrapstyle/)
 * [PRO](https://www.thewrap.com/members-hub)
     * [Members Hub](https://www.thewrap.com/members-hub/)
     * [Data and Analysis](https://www.thewrap.com/data-analysis/)
     * [WrapPRO](https://www.thewrap.com/category/wrappro/)
-* [More](#)
+    * [TheGrill 2024 Videos](https://www.thewrap.com/thegrill-2024-panels-videos/)
     * [The Grill](https://www.thewrap.com/the-grill/)
+* [More](#)
     * [Power Women Summit](https://www.thewrap.com/power-women-summit-2023-panels-videos/)
     * [Screening Series RSVP](https://thewrapscreenings.splashthat.com/)
     * [Screenings Archive](https://www.thewrap.com/tag/thewrap_screening_series/)
@@ -56,7 +58,6 @@ Main Navigation
     * [Tech](https://www.thewrap.com/category/tech/)
     * [Culture](https://www.thewrap.com/category/culture/)
     * [Media](https://www.thewrap.com/category/media/)
-    * [CinemaCon](https://www.thewrap.com/category/category-column/report-cinemacon/)
     * [WrapWomen](https://wrapwomen.thewrap.com/)
 
 [Newsletters](https://www.thewrap.com/newsletters/)[](https://www.thewrap.com/?s=)
@@ -81,7 +82,7 @@ Follow Us
 Trending Topics:
 ----------------
 
-* [TheGrill 2024](https://www.thewrap.com/category/thegrill-conference/)
+* [TheGrill 2024](https://www.thewrap.com/thegrill-2024-panels-videos/)
 * [Holding On in Hollywood](https://www.thewrap.com/tag/holding-on-in-hollywood/)
 
 Privacy Policy
