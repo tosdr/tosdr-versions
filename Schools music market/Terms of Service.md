@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/name-the-instruments-worksheet/)
+ [](https://schoolsmusicmarket.com/product/music-lessons-for-ks1-music-story/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/musical-quiz-includes-answers-sheet/)
+ [](https://schoolsmusicmarket.com/product/trace-the-musical-symbols-colouring-activity-2/)
 
 ###### Browse By Year/Grade
 
