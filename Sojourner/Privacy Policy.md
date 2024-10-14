@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7c723a5c86d1f12669d226ca72dbe1de
+96bd722e1912795a58b99f0acaef72bc
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Red sunset clasp](https://www.sojourner.biz/images/cache/SKU0453-2front.200.jpg)](https://www.sojourner.biz/clasps/glass/red-sunset-clasp.html "Red sunset clasp")
+[![Square Swarovski crystal clasp](https://www.sojourner.biz/images/cache/SKU0097.200.jpg)](https://www.sojourner.biz/clasps/swarovski/square-swarovski-crystal-clasp.html "Square Swarovski crystal clasp")
 
-#### [Red sunset clasp](https://www.sojourner.biz/clasps/glass/red-sunset-clasp.html "Red sunset clasp")
+#### [Square Swarovski crystal clasp](https://www.sojourner.biz/clasps/swarovski/square-swarovski-crystal-clasp.html "Square Swarovski crystal clasp")
 
-$36.50
+$49.00
 
 ### Best Sellers
 
