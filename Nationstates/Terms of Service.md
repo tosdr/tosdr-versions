@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Ukrainian War VII: Everything has a p… (6,875)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (6,875 posts)")
-* [NS Cliches II: Re-Rebooted (9,835)](https://forum.nationstates.net/viewtopic.php?t=520417&f=25&view=unread#unread ""NS Cliches II: Re-Rebooted" (9,835 posts)")
-* [\[DRAFT\] Regarding Artificial Islands (4)](https://forum.nationstates.net/viewtopic.php?t=556748&f=9&view=unread#unread ""[DRAFT] Regarding Artificial Islands" (4 posts)")
-* [UK Politics Thread: Conservative Lead… (11,536)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,536 posts)")
-* [World Lacrosse Championships 44 - Eve… (18)](https://forum.nationstates.net/viewtopic.php?t=556610&f=7&view=unread#unread ""World Lacrosse Championships 44 - Everything Thread" (18 posts)")
+* [The Einheitswelt Democratic Revolutio… (4)](https://forum.nationstates.net/viewtopic.php?t=556877&f=5&view=unread#unread ""The Einheitswelt Democratic Revolution[IC]" (4 posts)")
+* [Australians protesting in favour of H… (350)](https://forum.nationstates.net/viewtopic.php?t=556236&f=20&view=unread#unread ""Australians protesting in favour of Hezbollah and Hamas" (350 posts)")
+* [World Bowl XLIX \[49\] Everything Thread (191)](https://forum.nationstates.net/viewtopic.php?t=555385&f=7&view=unread#unread ""World Bowl XLIX [49] Everything Thread" (191 posts)")
+* [Sparkalia | On Sparkling Future (282)](https://forum.nationstates.net/viewtopic.php?t=520687&f=12&view=unread#unread ""Sparkalia | On Sparkling Future" (282 posts)")
+* [Would YL befriend AL? (24)](https://forum.nationstates.net/viewtopic.php?t=556131&f=25&view=unread#unread ""Would YL befriend AL?" (24 posts)")
 
 Advertisement
 
