@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[This emerging bio-oxidative treatment offers a pow ![This emerging bio-oxidative treatment offers a powerful and cost-effective approach to combating oral infections. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBEY2g_TNkY/) 
+
 [Decisions in Dentistry recently reported on the AD ![Decisions in Dentistry recently reported on the ADA’s opposition to dental therapy. Allen Hindin, DDS, MPH, a retired dentist in Connecticut who worked with underserved communities throughout his career, offered the following comment:⁠
 ⁠
 “Wouldn't it be interesting to see what the Federal Trade Commission might have to say, about the most recent effort to misinform America about safety and effectiveness of dental therapists over the past century worldwide and almost 20 years nationally? Health profession or frightened guild?”⁠
@@ -225,17 +232,6 @@ Click the link in bio for full article.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAyXRV0NL7g/) 
-
-[It’s no secret that dentistry has faced a drasti ![It’s no secret that dentistry has faced a drastic staffing shortage since the onset of the COVID-19 pandemic. The American Dental Association reported in 2022 that vacant positions in dental assisting and hygiene have reduced dental practice capacity by an estimated 10% nationally.⁠
-⁠
-In this episode of The Art of Dental Finance and Management,” Art is joined by Holli Perez for a conversation about dental staffing. From crafting a successful job advertisement to building an effective onboarding process, Holli shares advice for attracting, hiring, and retaining new employees at every level — as well as some of the most common recruiting mistakes she sees in dental practices.⁠
-⁠
-Listen via the link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAvrnBhthqf/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
