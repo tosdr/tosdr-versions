@@ -1,4 +1,4 @@
-Some Genoa pharmacies have been impacted by Hurricane Milton but are still accessible by phone. [Call your local pharmacy for the latest updates.](https://www.genoahealthcare.com/locations/)
+Get your flu shot at Genoa this fall! [Find a pharmacy location near you.](https://www.genoahealthcare.com/locations/)
 
 Close
 
