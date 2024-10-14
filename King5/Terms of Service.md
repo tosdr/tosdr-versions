@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ccd15194-5971-4f8a-a4ab-11f1dc3867e1/20241014T024710/ccd15194-5971-4f8a-a4ab-11f1dc3867e1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ccd15194-5971-4f8a-a4ab-11f1dc3867e1/20241014T024710/ccd15194-5971-4f8a-a4ab-11f1dc3867e1_360x203.jpg)](https://www.king5.com/article/news/local/owner-mount-vernon-plumbing-business-providing-aid-people-affected-hurricane-helene/281-74e5dc3a-62e2-46e6-ab2a-0a9f2f0d96ae)
+    *  [![](https://media.king5.com/assets/KING/images/c8bd6d5f-997e-44ec-8ba1-db668120467a/c8bd6d5f-997e-44ec-8ba1-db668120467a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c8bd6d5f-997e-44ec-8ba1-db668120467a/c8bd6d5f-997e-44ec-8ba1-db668120467a_360x203.jpg)](https://www.king5.com/article/money/markets/real-estate/washington-state-10-most-expensive-zip-codes/281-e68e4a58-6da5-476f-8f7f-58b41ab02a2e)
         
-        #### [Mount Vernon plumber travels thousands of miles to help people affected by Hurricane Helene](https://www.king5.com/article/news/local/owner-mount-vernon-plumbing-business-providing-aid-people-affected-hurricane-helene/281-74e5dc3a-62e2-46e6-ab2a-0a9f2f0d96ae)
+        #### [These are Washington state's 10 most expensive ZIP codes, new report shows](https://www.king5.com/article/money/markets/real-estate/washington-state-10-most-expensive-zip-codes/281-e68e4a58-6da5-476f-8f7f-58b41ab02a2e)
         
-    *  [![](https://media.king5.com/assets/KING/images/3e968d50-afbb-4f02-98ea-b469b567878d/20241014T122922/3e968d50-afbb-4f02-98ea-b469b567878d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3e968d50-afbb-4f02-98ea-b469b567878d/20241014T122922/3e968d50-afbb-4f02-98ea-b469b567878d_360x203.jpg)](https://www.king5.com/article/news/local/seattle/bus-strikes-pedestrian-interstate-5-north-seattle/281-0ec23623-bb84-4509-a945-2b706a9e557c)
+    *  [![](https://media.king5.com/assets/KING/images/ae0090bf-23bc-40b2-92f6-681ade53f01d/20241014T042010/ae0090bf-23bc-40b2-92f6-681ade53f01d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ae0090bf-23bc-40b2-92f6-681ade53f01d/20241014T042010/ae0090bf-23bc-40b2-92f6-681ade53f01d_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/63-year-old-woman-facing-vehicular-homicide-charges-2-people-killed-sr-410-crash/281-53b307a2-5c7f-4c22-bb7c-2432f3916948)
         
-        #### [Pedestrian struck by bus on I-5 north in Seattle](https://www.king5.com/article/news/local/seattle/bus-strikes-pedestrian-interstate-5-north-seattle/281-0ec23623-bb84-4509-a945-2b706a9e557c)
+        #### [Elderly man, woman killed in SR 410 crash near Enumclaw](https://www.king5.com/article/traffic/traffic-news/63-year-old-woman-facing-vehicular-homicide-charges-2-people-killed-sr-410-crash/281-53b307a2-5c7f-4c22-bb7c-2432f3916948)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KREM/images/dc999ffa-a85c-4340-baf4-96b66798d844/20241011T184543/dc999ffa-a85c-4340-baf4-96b66798d844_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/dc999ffa-a85c-4340-baf4-96b66798d844/20241011T184543/dc999ffa-a85c-4340-baf4-96b66798d844_360x203.jpg)](https://www.king5.com/article/tech/science/environment/earthquake-risk-northwest/293-b6cc829c-20a1-4c6c-a66f-705ea955053b)
-        
-        #### [Understanding the earthquake risk in the northwest](https://www.king5.com/article/tech/science/environment/earthquake-risk-northwest/293-b6cc829c-20a1-4c6c-a66f-705ea955053b)
-        
     *  [![](https://media.king5.com/assets/KING/images/9f740be0-2535-495c-89bc-1222eb4bd6ee/20241014T120622/9f740be0-2535-495c-89bc-1222eb4bd6ee_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9f740be0-2535-495c-89bc-1222eb4bd6ee/20241014T120622/9f740be0-2535-495c-89bc-1222eb4bd6ee_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KREM/images/dc999ffa-a85c-4340-baf4-96b66798d844/20241011T184543/dc999ffa-a85c-4340-baf4-96b66798d844_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/dc999ffa-a85c-4340-baf4-96b66798d844/20241011T184543/dc999ffa-a85c-4340-baf4-96b66798d844_360x203.jpg)](https://www.king5.com/article/tech/science/environment/earthquake-risk-northwest/293-b6cc829c-20a1-4c6c-a66f-705ea955053b)
+        
+        #### [Understanding the earthquake risk in the northwest](https://www.king5.com/article/tech/science/environment/earthquake-risk-northwest/293-b6cc829c-20a1-4c6c-a66f-705ea955053b)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-57°
+66°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
