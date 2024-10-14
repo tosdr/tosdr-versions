@@ -836,6 +836,12 @@ Sök Meny
                     
         * [Religionsdialog](https://www.svenskakyrkan.se/ekumenik/religionsmoten)
             
+            * [Guds vägar - judendom och kristendom](https://www.svenskakyrkan.se/guds-vagar---ett-inomkyrkligt-samtalsdokument)
+                
+            * [Arbete mot antisemitism](https://www.svenskakyrkan.se/svenska-kyrkans-ataganden-och-arbete-mot-antisemitism)
+                
+            * [Islamic Relief och Ibn Rushd](https://www.svenskakyrkan.se/svenska-kyrkans-samarbete-med-muslimska-organisationer-)
+                
         * [Stipendier för studier](https://www.svenskakyrkan.se/ekumeniska-stipendier)
             
         * [Plattform för ekumenik och interreligiös samverkan](https://www.svenskakyrkan.se/svenska-kyrkans-plattform-for-ekumenik-och-interreligios-samverkan)
