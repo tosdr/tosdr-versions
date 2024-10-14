@@ -150,6 +150,34 @@ AllLive NowToday
     
     Elite Group D
     
+* [Baroda vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/97185/brd-vs-mum-elite-group-a-ranji-trophy "Baroda v Mumbai, Elite Group A - Stumps")
+    
+    Elite Group A
+    
+* [Madhya Pradesh vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/97232/mp-vs-kar-elite-group-c-ranji-trophy "Madhya Pradesh v Karnataka, Elite Group C - Stumps")
+    
+    Elite Group C
+    
+* [Saurashtra vs Tamil Nadu](https://www.cricbuzz.com/live-cricket-scores/97284/saur-vs-tn-elite-group-d-ranji-trophy "Saurashtra v Tamil Nadu, Elite Group D - Stumps")
+    
+    Elite Group D
+    
+* [Vidarbha vs Andhra](https://www.cricbuzz.com/live-cricket-scores/97230/vid-vs-ap-elite-group-b-ranji-trophy "Vidarbha v Andhra, Elite Group B - Stumps")
+    
+    Elite Group B
+    
+* [Puducherry vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97221/pdc-vs-raj-elite-group-b-ranji-trophy "Puducherry v Rajasthan, Elite Group B - Stumps")
+    
+    Elite Group B
+    
+* [Himachal Pradesh vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/97216/hp-vs-utk-elite-group-b-ranji-trophy "Himachal Pradesh v Uttarakhand, Elite Group B - Stumps")
+    
+    Elite Group B
+    
+* [Railways vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97270/rlys-vs-cdg-elite-group-d-ranji-trophy "Railways v Chandigarh, Elite Group D - RLYS Won")
+    
+    Elite Group D
+    
 * [Gujarat vs Hyderabad](https://www.cricbuzz.com/live-cricket-scores/97212/guj-vs-hyd-elite-group-b-ranji-trophy "Gujarat v Hyderabad, Elite Group B - Stumps")
     
     Elite Group B
@@ -178,34 +206,6 @@ AllLive NowToday
     
     Elite Group C
     
-* [Baroda vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/97185/brd-vs-mum-elite-group-a-ranji-trophy "Baroda v Mumbai, Elite Group A - Stumps")
-    
-    Elite Group A
-    
-* [Madhya Pradesh vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/97232/mp-vs-kar-elite-group-c-ranji-trophy "Madhya Pradesh v Karnataka, Elite Group C - Stumps")
-    
-    Elite Group C
-    
-* [Saurashtra vs Tamil Nadu](https://www.cricbuzz.com/live-cricket-scores/97284/saur-vs-tn-elite-group-d-ranji-trophy "Saurashtra v Tamil Nadu, Elite Group D - Stumps")
-    
-    Elite Group D
-    
-* [Vidarbha vs Andhra](https://www.cricbuzz.com/live-cricket-scores/97230/vid-vs-ap-elite-group-b-ranji-trophy "Vidarbha v Andhra, Elite Group B - Stumps")
-    
-    Elite Group B
-    
-* [Puducherry vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97221/pdc-vs-raj-elite-group-b-ranji-trophy "Puducherry v Rajasthan, Elite Group B - Stumps")
-    
-    Elite Group B
-    
-* [Railways vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97270/rlys-vs-cdg-elite-group-d-ranji-trophy "Railways v Chandigarh, Elite Group D - RLYS Won")
-    
-    Elite Group D
-    
-* [Himachal Pradesh vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/97216/hp-vs-utk-elite-group-b-ranji-trophy "Himachal Pradesh v Uttarakhand, Elite Group B - Stumps")
-    
-    Elite Group B
-    
 * Ranji Trophy Plate
     
     [Sikkim vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/98103/skm-vs-miz-plate-ranji-trophy-plate "Sikkim v Mizoram, Plate - Stumps")
@@ -228,15 +228,7 @@ AllLive NowToday
     
 * SA Mens Championships 2024
     
-    [Colombia vs Mexico](https://www.cricbuzz.com/live-cricket-scores/108577/clm-vs-mex-8th-match-group-a-sa-mens-championships-2024 "Colombia v Mexico, 8th Match, Group A - MEX Won")
-    
-    8th Match, Group A
-    
-* [Argentina vs Panama](https://www.cricbuzz.com/live-cricket-scores/108571/arg-vs-pan-7th-match-group-b-sa-mens-championships-2024 "Argentina v Panama, 7th Match, Group B - PAN Won")
-    
-    7th Match, Group B
-    
-* [Peru vs Colombia](https://www.cricbuzz.com/live-cricket-scores/108587/per-vs-clm-10th-match-group-b-sa-mens-championships-2024 "Peru v Colombia, 10th Match, Group B - PER Won")
+    [Peru vs Colombia](https://www.cricbuzz.com/live-cricket-scores/108587/per-vs-clm-10th-match-group-b-sa-mens-championships-2024 "Peru v Colombia, 10th Match, Group B - PER Won")
     
     10th Match, Group B
     
@@ -252,11 +244,11 @@ AllLive NowToday
     
     11th Match, Group B
     
-* [Mexico vs Argentina](https://www.cricbuzz.com/live-cricket-scores/108611/mex-vs-arg-3rd-place-play-off-sa-mens-championships-2024 "Mexico v Argentina, 3rd place play-off - Complete")
+* [Mexico vs Argentina](https://www.cricbuzz.com/live-cricket-scores/108611/mex-vs-arg-3rd-place-play-off-sa-mens-championships-2024 "Mexico v Argentina, 3rd place play-off - ARG Won")
     
     3rd place play-off
     
-* [Chile vs Peru](https://www.cricbuzz.com/live-cricket-scores/108603/chl-vs-per-5th-place-play-off-sa-mens-championships-2024 "Chile v Peru, 5th place play-off - Complete")
+* [Chile vs Peru](https://www.cricbuzz.com/live-cricket-scores/108603/chl-vs-per-5th-place-play-off-sa-mens-championships-2024 "Chile v Peru, 5th place play-off - PER Won")
     
     5th place play-off
     
@@ -318,7 +310,7 @@ AllLive NowToday
     
     9th Match
     
-* [Australian Capital Territory Women vs Brisbane Heat Women](https://www.cricbuzz.com/live-cricket-scores/104007/act-meteors-vs-brhw-10th-match-t20-spring-challenge "Australian Capital Territory Women v Brisbane Heat Women, 10th Match - Preview")
+* [Australian Capital Territory Women vs Brisbane Heat Women](https://www.cricbuzz.com/live-cricket-scores/104007/act-meteors-vs-brhw-10th-match-t20-spring-challenge "Australian Capital Territory Women v Brisbane Heat Women, 10th Match - Complete")
     
     10th Match
     
@@ -333,6 +325,14 @@ AllLive NowToday
 * [Sydney Sixers Women vs Melbourne Stars Women](https://www.cricbuzz.com/live-cricket-scores/104032/sysw-vs-mlsw-13th-match-t20-spring-challenge "Sydney Sixers Women v Melbourne Stars Women, 13th Match - Upcoming")
     
     13th Match
+    
+* [Australian Capital Territory Women vs Hobart Hurricanes Women](https://www.cricbuzz.com/live-cricket-scores/104034/act-meteors-vs-hbhw-14th-match-t20-spring-challenge "Australian Capital Territory Women v Hobart Hurricanes Women, 14th Match - Upcoming")
+    
+    14th Match
+    
+* [Adelaide Strikers Women vs Brisbane Heat Women](https://www.cricbuzz.com/live-cricket-scores/104041/adsw-vs-brhw-15th-match-t20-spring-challenge "Adelaide Strikers Women v Brisbane Heat Women, 15th Match - Upcoming")
+    
+    15th Match
     
 * Bulgaria Women tour of Serbia
     
@@ -677,41 +677,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132007/ali-khan-returns-usa-drop-steven-taylor-and-nitish-kumar-for-nepal-t20is "Ali Khan returns; USA drop Steven Taylor and Nitish Kumar for Nepal T20Is")
+
+[Ali Khan returns; USA drop Steven Taylor and Nitish Kumar for Nepal T20Is](https://www.cricbuzz.com/cricket-news/132007/ali-khan-returns-usa-drop-steven-taylor-and-nitish-kumar-for-nepal-t20is "Ali Khan returns; USA drop Steven Taylor and Nitish Kumar for Nepal T20Is")
+
+just now
+
   [](https://www.cricbuzz.com/cricket-news/132006/brandon-king-evin-lewis-drive-west-indies-to-victory "Brandon King, Evin Lewis drive West Indies to victory")
 
 [Brandon King, Evin Lewis drive West Indies to victory](https://www.cricbuzz.com/cricket-news/132006/brandon-king-evin-lewis-drive-west-indies-to-victory "Brandon King, Evin Lewis drive West Indies to victory")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132005/powerful-australia-reach-semi-final-leaving-indias-position-dicey "Powerful Australia reach semi-final leaving India's position dicey")
 
 [Powerful Australia reach semi-final leaving India's position dicey](https://www.cricbuzz.com/cricket-news/132005/powerful-australia-reach-semi-final-leaving-indias-position-dicey "Powerful Australia reach semi-final leaving India's position dicey")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132004/asha-sobhana-misses-australia-game-due-to-last-minute-injury "Asha Sobhana misses Australia game due to last-minute injury ")
 
 [Asha Sobhana misses Australia game due to last-minute injury](https://www.cricbuzz.com/cricket-news/132004/asha-sobhana-misses-australia-game-due-to-last-minute-injury "Asha Sobhana misses Australia game due to last-minute injury ")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132003/ranji-highlights-mumbai-roar-back-against-baroda-through-kotians-five-fer "Ranji Highlights: Mumbai roar back against Baroda through Kotian's five-fer ")
 
 [Ranji Highlights: Mumbai roar back against Baroda through Kotian's five-fer](https://www.cricbuzz.com/cricket-news/132003/ranji-highlights-mumbai-roar-back-against-baroda-through-kotians-five-fer "Ranji Highlights: Mumbai roar back against Baroda through Kotian's five-fer ")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132002/england-take-top-spot-after-resounding-10-wicket-win "England take top spot after resounding 10-wicket win")
 
 [England take top spot after resounding 10-wicket win](https://www.cricbuzz.com/cricket-news/132002/england-take-top-spot-after-resounding-10-wicket-win "England take top spot after resounding 10-wicket win")
 
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132001/india-to-play-one-internal-warm-up-game-in-perth-ahead-of-border-gavaskar-trophy "India to play one internal warm-up game in Perth ahead of Border-Gavaskar Trophy")
-
-[India to play one internal warm-up game in Perth ahead of Border-Gavaskar Trophy](https://www.cricbuzz.com/cricket-news/132001/india-to-play-one-internal-warm-up-game-in-perth-ahead-of-border-gavaskar-trophy "India to play one internal warm-up game in Perth ahead of Border-Gavaskar Trophy")
-
-6h ago
+12h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
