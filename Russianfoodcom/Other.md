@@ -150,6 +150,7 @@
 
 * [«Сосновые шишки» из пресноводной рыбы](https://www.russianfood.com/recipes/recipe.php?rid=19427)
 * [Салат из молодого красного перца](https://www.russianfood.com/recipes/recipe.php?rid=30298)
+* [Куриные грудки с сыром](https://www.russianfood.com/recipes/recipe.php?rid=30720)
 
 |     |
 | --- |
@@ -171,6 +172,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Это что-то новенькое! Лучшие САЛАТЫ №24-42](https://www.russianfood.com/reading/?post_id=22722) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/739/sm_738836.jpg)](https://www.russianfood.com/reading/?post_id=22722)
+
+Салат с ветчиной, огурцами и горошком. Салат со свёклой и грушей. Салат с говядиной и кукурузой. Салат со свёклой и апельсином. Винегрет в тарталетках. Салат с крабовыми палочками и сельдереем. Крабовый салат с кальмарами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22722)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22722#comments) | 14.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -368,20 +383,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173383#comments) | 10.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Скумбрия, запечённая с помидорами, перцем и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173369) |     |
-
-[![Фото к рецепту: Скумбрия, запечённая с помидорами, перцем и шпинатом](//img1.russianfood.com/dycontent/images_upl/736/sm_735711.jpg "Фото к рецепту: Скумбрия, запечённая с помидорами, перцем и шпинатом")](https://www.russianfood.com/recipes/recipe.php?rid=173369)
-
-Кусочки скумбрии запекаются вместе с кружочками помидоров на подушке из обжаренных лука, болгарского перца и шпината. Перед запеканием рыба отправляется в маринад из сметаны, майонеза и горчицы. Благодаря маринаду, овощам и пряностям скумбрия получается нежной, сочной и очень ароматной.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173369)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173369#comments) | 10.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -451,10 +452,10 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741858.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174485) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741224.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174426) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742116.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173151) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737597.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173770) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174487) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741185.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174361) |
-| [Салат с пекинской капустой, яблоками и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174485) | [Суп-пюре из печёной тыквы с яблоком, луком и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174426) | [Рыбный суп с брокколи, рисом и сливками](https://www.russianfood.com/recipes/recipe.php?rid=173151) | [Баклажаны с фаршем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=173770) | [Закуска из зелёного лука и бекона](https://www.russianfood.com/recipes/recipe.php?rid=174487) | [Ванильные творожные кексы с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174361) |
+|     |
+| --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174487) |
+| [Закуска из зелёного лука и бекона](https://www.russianfood.com/recipes/recipe.php?rid=174487) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -471,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(111)
+(88)
