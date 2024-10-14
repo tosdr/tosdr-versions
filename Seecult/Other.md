@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukovo-0001-umetnici-radovi-atmosfera/ivana-vidic/ivana-vidich.jpg?itok=94KPasi8)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukovo-0001-umetnici-radovi-atmosfera/ivana-vidic)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/quaternio-terminorum/instalacija-qvaternio-termi.jpg?itok=axFZ2r0q)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/quaternio-terminorum)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/festival-na-tockovima.jpg?itok=T5_WLbhP)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zasto-su-knjizevne-promocije-dosadne-kosmogina/slam-ucesnici-u-djuri-4.jpg?itok=RY16b2F0)](http://seecult.org/galerija/foto-galerija/foto-arhiva/zasto-su-knjizevne-promocije-dosadne-kosmogina)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,6 +422,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Gran pri 64. MESS-a predstavi Tragudia Alesandra Sere](http://seecult.org/vest/gran-pri-64-mess-predstavi-tragudia-alesandra-sere)
 * [Sunce nikad više premijerno u Talinu](http://seecult.org/vest/sunce-nikad-vise-premijerno-u-talinu)
 * [Mihalkov u Narodnom pozorištu](http://seecult.org/vest/mihalkov-u-narodnom-pozoristu)
 * [Ne idi daleko najbolja predstava 19. Zvezdarišta](http://seecult.org/vest/ne-idi-daleko-najbolja-predstava-19-zvezdarista)
@@ -431,7 +432,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Han Kang dobitnica Nobela za književnost](http://seecult.org/vest/han-kang-dobitnica-nobela-za-knjizevnost)
 * [60 godina Galerije DOB-a](http://seecult.org/vest/60-godina-galerije-dob)
 * [Sprečiti zatvaranje Remonta](http://seecult.org/vest/spreciti-zatvaranje-remonta)
-* [59\. Dečji oktobarski salon – S druge strane stvarnosti](http://seecult.org/vest/59-decji-oktobarski-salon-s-druge-strane-stvarnosti)
 
 * [Konkursi](#tab1_1)
 
