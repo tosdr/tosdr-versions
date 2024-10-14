@@ -587,21 +587,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
-* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
-* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
-* [Winterreifen im Test: Die besten Winterreifen im Test des ADAC](https://www.test.de/Winterreifen-im-Test-Die-besten-Winterreifen-im-Test-des-ADAC-6045640-0/ "Winterreifen im Test - Die besten Winterreifen im Test des ADAC")
+* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
 
 Fußbereich
 
@@ -2724,21 +2724,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
-* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
-* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
-* [Winterreifen im Test: Die besten Winterreifen im Test des ADAC](https://www.test.de/Winterreifen-im-Test-Die-besten-Winterreifen-im-Test-des-ADAC-6045640-0/ "Winterreifen im Test - Die besten Winterreifen im Test des ADAC")
+* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2782,39 +2782,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
-* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
-* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
-* [Winterreifen im Test: Die besten Winterreifen im Test des ADAC](https://www.test.de/Winterreifen-im-Test-Die-besten-Winterreifen-im-Test-des-ADAC-6045640-0/ "Winterreifen im Test - Die besten Winterreifen im Test des ADAC")
+* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
 
 Neueste Tests
 
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
-* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
-* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
-* [Winterreifen im Test: Die besten Winterreifen im Test des ADAC](https://www.test.de/Winterreifen-im-Test-Die-besten-Winterreifen-im-Test-des-ADAC-6045640-0/ "Winterreifen im Test - Die besten Winterreifen im Test des ADAC")
+* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
 
 Service Stiftung Warentest
 
