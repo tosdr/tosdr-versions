@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Кандидаты от «Единой России» набрали 92% голосов на выборах в прошедшее воскресенье](https://cdn.er.ru/media/news/October2024/CtB2o84qpk2UmxyJp3ug-small.jpg)](https://er.ru/activity/news/kandidaty-ot-edinoj-rossii-nabrali-92-golosov-na-vyborah-v-proshedshee-voskresene)
+
+[Кандидаты от «Единой России» набрали 92% голосов на выборах в прошедшее воскресенье](https://er.ru/activity/news/kandidaty-ot-edinoj-rossii-nabrali-92-golosov-na-vyborah-v-proshedshee-voskresene)
+
+[#выборы](https://er.ru/activity/news?tags%5B0%5D=31) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ОМСУ](https://er.ru/activity/news?tags%5B0%5D=8960) [#мандаты](https://er.ru/activity/news?tags%5B0%5D=1199)
+
+Сегодня 12:10
+
+[![«Единая Россия» запустила в регионах мониторинг готовности многоквартирных домов к отопительному сезону](https://cdn.er.ru/media/news/October2024/rAbFneZV4ASr5PkkIW4L-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zapustila-v-regionah-monitoring-gotovnosti-mnogokvartirnyh-domov-k-otopitelnomu-sezonu)
+
+[«Единая Россия» запустила в регионах мониторинг готовности многоквартирных домов к отопительному сезону](https://er.ru/activity/news/edinaya-rossiya-zapustila-v-regionah-monitoring-gotovnosti-mnogokvartirnyh-domov-k-otopitelnomu-sezonu)
+
+[#Школаграмотногопотребителя](https://er.ru/activity/news?tags%5B0%5D=1090072) [#Козлов](https://er.ru/activity/news?tags%5B0%5D=8078) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 10:58
+
 [![Владимир Якушев: Ежедневной работой специалисты сельхозотрасли добились для России статуса аграрной сверхдержавы](https://cdn.er.ru/media/news/October2024/GWkgCMSSVNSEsI7nDXzX-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-ezhednevnoj-rabotoj-specialisty-selhozotrasli-dobilis-dlya-rossii-statusa-agrarnoj-sverhderzhavy)
 
 [Владимир Якушев: Ежедневной работой специалисты сельхозотрасли добились для России статуса аграрной сверхдержавы](https://er.ru/activity/news/vladimir-yakushev-ezhednevnoj-rabotoj-specialisty-selhozotrasli-dobilis-dlya-rossii-statusa-agrarnoj-sverhderzhavy)
@@ -330,22 +346,6 @@
 [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671) [#сторонникиЕР](https://er.ru/activity/news?tags%5B0%5D=1093192) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#гражданскиеинициативы](https://er.ru/activity/news?tags%5B0%5D=121730) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 11.10.24
-
-[![Александр Двойных: «Единая Россия» выступает за сохранение востребованных мер поддержки сельхозпроизводителей в бюджете на 2025 год](https://cdn.er.ru/media/news/October2024/4EsAOsjf8g2jleXSrQVT-small.jpg)](https://er.ru/activity/news/aleksandr-dvojnyh-edinaya-rossiya-vystupaet-za-sohranenie-vostrebovannyh-mer-podderzhki-selhozproizvoditelej-v-byudzhete-na-2025-god)
-
-[Александр Двойных: «Единая Россия» выступает за сохранение востребованных мер поддержки сельхозпроизводителей в бюджете на 2025 год](https://er.ru/activity/news/aleksandr-dvojnyh-edinaya-rossiya-vystupaet-za-sohranenie-vostrebovannyh-mer-podderzhki-selhozproizvoditelej-v-byudzhete-na-2025-god)
-
-[#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#РоссийскоеСело](https://er.ru/activity/news?tags%5B0%5D=101051) [#совещание](https://er.ru/activity/news?tags%5B0%5D=190) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#комплексноеразвитиесельскихтерриторий](https://er.ru/activity/news?tags%5B0%5D=136045) [#РССМ](https://er.ru/activity/news?tags%5B0%5D=12700)
-
-11.10.24
-
-[![«Единая Россия» и МГЕР организовали в регионах памятную акцию «Уничтоженное детство»](https://cdn.er.ru/media/news/October2024/YrOa7ZFyv4HBx80MqPVP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-organizovali-v-regionah-pamyatnuyu-akciyu-unichtozhennoe-detstvo)
-
-[«Единая Россия» и МГЕР организовали в регионах памятную акцию «Уничтоженное детство»](https://er.ru/activity/news/edinaya-rossiya-i-mger-organizovali-v-regionah-pamyatnuyu-akciyu-unichtozhennoe-detstvo)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#уничтоженноедетство](https://er.ru/activity/news?tags%5B0%5D=1095798) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ВеликаяОтечественнаявойна](https://er.ru/activity/news?tags%5B0%5D=1093130) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#геноцид](https://er.ru/activity/news?tags%5B0%5D=58283)
-
-10.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
