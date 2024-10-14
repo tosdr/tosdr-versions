@@ -275,12 +275,6 @@ Menu
     * [Veuve Cliquot](https://www.moonpig.com/uk/gifts/alcohol/veuve-cliquot/)
     * [Virgin Wines](https://www.moonpig.com/uk/gifts/alcohol/virgin-wines/)
     
-    ### Shop by Price
-    
-    * [£20 & Under](https://www.moonpig.com/uk/gifts/alcohol/20-under/)
-    * [£20-£60](https://www.moonpig.com/uk/gifts/alcohol/20-60/)
-    * [Premium](https://www.moonpig.com/uk/gifts/alcohol/premium/)
-    
 * Open Experiences dropdown[![Experiences](https://static.web-explore.prod.moonpig.net/_next/static/images/egifts-c9ec0761fc008af85e648577c9c0ac4a.svg)
     
     Experiences](https://www.moonpig.com/uk/gifts/experience-gifts/)
