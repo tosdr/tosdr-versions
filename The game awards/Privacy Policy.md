@@ -322,7 +322,6 @@ By email: [\[email protected\]](https://thegameawards.com/cdn-cgi/l/email-prote
 * [About](https://thegameawards.com/about)
 * [future class](https://thegameawards.com/future-class)
 * [FAQ](https://thegameawards.com/faq)
-* [Jury](https://thegameawards.com/voting-jury)
 * [Contact](https://thegameawards.com/about#about-contact)
 * [Privacy](https://thegameawards.com/privacy-policy)
 * [Terms](https://thegameawards.com/terms-and-conditions)
