@@ -99,7 +99,7 @@ Be sure to indicate the author of the material (name, surname and, if any, an In
 
 ### Login to 5play.org
 
-[](https://www.facebook.com/dialog/oauth?client_id=281507214574045&redirect_uri=https%3A%2F%2F5play.org%2Findex.php%3Fdo%3Dauth-social%26provider%3Dfc&scope=public_profile%2Cemail&display=popup&state=f7c10ee4ef43d8a107ef91e4b14dc074&response_type=code)[](https://accounts.google.com/o/oauth2/auth?client_id=609340283350-apppi0njujq31fe388ckhmtvsv9optgk.apps.googleusercontent.com&redirect_uri=https%3A%2F%2F5play.org%2Findex.php%3Fdo%3Dauth-social%26provider%3Dgoogle&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&state=f7c10ee4ef43d8a107ef91e4b14dc074&response_type=code)
+[](https://www.facebook.com/dialog/oauth?client_id=281507214574045&redirect_uri=https%3A%2F%2F5play.org%2Findex.php%3Fdo%3Dauth-social%26provider%3Dfc&scope=public_profile%2Cemail&display=popup&state=778db6c4fb740781e43ac4db419fbde9&response_type=code)[](https://accounts.google.com/o/oauth2/auth?client_id=609340283350-apppi0njujq31fe388ckhmtvsv9optgk.apps.googleusercontent.com&redirect_uri=https%3A%2F%2F5play.org%2Findex.php%3Fdo%3Dauth-social%26provider%3Dgoogle&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&state=778db6c4fb740781e43ac4db419fbde9&response_type=code)
 
 Login  [Forgot your password?](https://5play.org/index.php?do=lostpassword&lang=en) Password  
 
