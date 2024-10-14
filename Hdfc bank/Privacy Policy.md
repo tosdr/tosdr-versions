@@ -1488,7 +1488,7 @@ We share the SDK Information with service providers, to perform any of the act
 * [Cheque Collection Policy](https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=/Common%20Overlays/Feedback/PDFS/Citizens%20Charter/cheque_collection_policy.pdf)
 * [Fair Practices Code for Lenders](https://www.hdfcbank.com/personal/about-us/corporate-governance/fair-practice-code-for-lending)
 * [Code for Collection of Dues and Repossession of Security](https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=/Common%20Overlays/Feedback/PDFS/Citizens%20Charter/model_collection_repossession_policy.pdf)
-* [Code of Conduct for Direct Selling Agents](https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=/Personal/Pay/Cards/Credit%20Card/Credit%20Card%20Landing%20Page/dsa_cc.pdf)
+* [Code of Conduct for Direct Selling Agents](https://www.hdfcbank.com/personal/useful-links/important-messages/code-of-conduct-for-direct-selling-agents)
 
 * [Resources](https://www.hdfcbank.com/personal/resources)
 * [Home Loan](https://www.hdfc.com/housing-loans/home-loans)
@@ -1595,7 +1595,7 @@ We share the SDK Information with service providers, to perform any of the act
 * [Personal Loan (A2A)](https://applyonline.hdfcbank.com/loan/personal-loan/asset-to-asset/personal-loan-forma2a.html?mc_id=website_teleassist_10secs_pla2a&icid=website_teleassist_10secs_pla2a#nbb)
 * [XPRESS Business Loan](https://applyonline.hdfcbank.com/businessloans.html?mc_id=website_teleassist_xpress-bl&icid=website_teleassist_xpress-bl#nbb)
 * [Pre-approved Business Loan](https://applyonline.hdfcbank.com/loan/business-loan/existing-to-bank/apply-for-business-loan-online.html?mc_id=website_teleassist_10secs_bl&icid=website_teleassist_10secs_bl#nbb)
-* [XPRESS Personal Loan](https://applyonline.hdfcbank.com/personal-loans.html?mc_id=website_teleassist_xpress-pl&icid=website_teleassist_xpress-pl)
+* [XPRESS Personal Loan](https://v.hdfcbank.com/personal-business-loan.html?mc_id=website_footer_xpress-pl&icid=website_footer_xpress-pl)
 * [IndianOil HDFC Bank Credit Card](https://applyonline.hdfcbank.com/cards/credit-cards.html?channelsource=iocl&LGCode=MKTG&mc_id=website_TAN_CC_Footer_tele_assist&icid=website_TAN_organic_IOCL_CC_footer_teke_assist)
 
 * HDFC Group Websites
