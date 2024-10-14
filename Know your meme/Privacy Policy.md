@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![The 'Gendo Pose' Is A Classic TV Trope That Goes By Many Names](https://i.kym-cdn.com/featured_items/icons/wide/000/026/258/gendoposecover.jpg "The Gendo Pose Blessed Our Screens 29 Years Ago On This Day")
+* [![Game Freak Pokémon GigaLeaks refers to an October 12th, 2024 data leak from Pokémon developer Game Freak, supposedly revealing information about Nintendo's next-gen console, an unannounced 10th generation Pokémon game, as well as Pokémon Legends Z-A. The leaks were reportedly first shared on a private Discord server before Pokémon enthusiasts on X and 4chan's /vp/ board began discussing the information in the leaks in detail. Game Freak subsequently confirmed the news later on October 12th. The leak reportedly indicated the name of the Game Freak employee responsible, with tech enthusiasts speculating that he may have been a victim of a phishing scam. Notable memes that emerged from this leak include jokes about Typhlosion, and memes about Skyla.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/263/gamef.jpg "Pokémon Fans Are Reeling From The Lore Uncovered In The Game Freak Gigaleak ... And It's Not All Pretty")
     
-    The Gendo Pose Blessed Our Screens 29 Years Ago On This Day](https://knowyourmeme.com/memes/the-gendo-pose)
+    Pokémon Fans Are Reeling From The Lore Uncovered In The Game Freak Gigaleak ... And It's Not All Pretty](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks)
     
-* [![Shaggy Emerges as the Ultimate Ultra Instinct Character](https://i.kym-cdn.com/featured_items/icons/wide/000/026/257/271.png "7 Years Ago, 'Ultra Instinct Shaggy' Revealed His True Power")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/262/tpsfp.jpg "Where Did All The 'Temu Pig Shirt' Memes Come From? The Origins Of The Viral Twitter Ad-Turned-Meme Explained")
     
-    7 Years Ago, 'Ultra Instinct Shaggy' Revealed His True Power](https://knowyourmeme.com/memes/ultra-instinct-shaggy)
+    Where Did All The 'Temu Pig Shirt' Memes Come From? The Origins Of The Viral Twitter Ad-Turned-Meme Explained](https://knowyourmeme.com/editorials/guides/where-did-all-the-temu-pig-shirt-memes-come-from-the-origins-of-the-viral-twitter-ad-turned-meme-explained)
     
-* [![Phoenix Wright's 'Objection!'](https://i.kym-cdn.com/featured_items/icons/wide/000/026/256/OBJECTION!.jpg "'Phoenix Wright: Ace Attorney' Is 23 Years Old Today, And So Is The 'Objection!' Meme")
+* [![Typhlosion Game Freak Leaks refers to memes and jokes about Typhlosion, a fire-type Gen II Pokémon. After the Game Freak Gigaleak of October 2024 revealed an unreleased Pokémon lore story about a Typhlosion kidnapping a young girl and making her give birth to a half-human, half-Pokémon hybrid, internet users began posting memes and jokes about how Typhlosion is Not Like Us, and how the meme trend surrounding him resembles memes about Vaporeon.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/261/typhlosion.jpg "People Are Side-Eying Typhlosion After The Recent Pokémon Gigaleak Uncovered An Unsavory Origin Story ")
     
-    'Phoenix Wright: Ace Attorney' Is 23 Years Old Today, And So Is The 'Objection!' Meme](https://knowyourmeme.com/memes/objection)
+    People Are Side-Eying Typhlosion After The Recent Pokémon Gigaleak Uncovered An Unsavory Origin Story](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks)
     
-* [![Bizarre Video Series Tells Viewers To Change Da World](https://i.kym-cdn.com/featured_items/icons/wide/000/026/255/maxresdefault_(1).jpg "Change Da World... My Final Message... Turns Six Today")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/260/sabrina-carpenter-10312324-8004bb12e9624446adcfb710c00e89be.jpg "'I'm 17 And AFRAID Of Sabrina Carpenter' Kicks Off Doozy Of Discourse In Which Twitter Debates Whether It's Okay That Carpenter 'Dances Sexily'")
     
-    Change Da World... My Final Message... Turns Six Today](https://knowyourmeme.com/memes/change-da-world-my-final-message)
+    'I'm 17 And AFRAID Of Sabrina Carpenter' Kicks Off Doozy Of Discourse In Which Twitter Debates Whether It's Okay That Carpenter 'Dances Sexily'](https://knowyourmeme.com/news/im-17-and-afraid-of-sabrina-carpenter-kicks-off-doozy-of-discourse-in-which-twitter-debates-whether-its-okay-that-sabrina-carpenter-dances-sexily)
     
-* [!['Migu' Stars In Hatsune Miku Redraw Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/254/migu.jpg "'Migu' Stars In Hatsune Miku Redraw Meme")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/259/17-diapers-explained.jpg "What's The '17 Diapers' TikTok Video? Nurse Hannah, The Original Video And The Viral Debate That Has Mothers Divided, Explained")
     
-    'Migu' Stars In Hatsune Miku Redraw Meme](https://knowyourmeme.com/memes/omg-it-migu)
+    What's The '17 Diapers' TikTok Video? Nurse Hannah, The Original Video And The Viral Debate That Has Mothers Divided, Explained](https://knowyourmeme.com/editorials/guides/whats-the-17-diapers-tiktok-video-nurse-hannah-the-original-video-and-the-viral-debate-that-has-mothers-divided-explained)
     
 
 ##### Also Trending:
 
-[Game Freak Pokémon GigaLeaks](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks "Game Freak Pokémon GigaLeaks") [Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks") [Skyla](https://knowyourmeme.com/memes/skyla "Skyla") [Pokémon](https://knowyourmeme.com/memes/subcultures/pokemon "Pokémon")
+[Game Freak Pokémon GigaLeaks](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks "Game Freak Pokémon GigaLeaks") [Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks") [Tesla Optimus Robot](https://knowyourmeme.com/memes/subcultures/tesla-optimus-robot "Tesla Optimus Robot") [Skyla (Pokemon)](https://knowyourmeme.com/memes/skyla-pokemon "Skyla (Pokemon)") [Sprunki](https://knowyourmeme.com/memes/subcultures/sprunki "Sprunki")
 
 Privacy Policy
 ==============
