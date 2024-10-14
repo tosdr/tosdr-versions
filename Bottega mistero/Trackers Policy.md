@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/lasteroide-2011-ag5-potrebbe-colpire-la-terra-il-5-febbraio-2040/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/little-pink-backpack-il-diario-di-lisa/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
