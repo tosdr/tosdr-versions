@@ -96,7 +96,7 @@
         
     * [Direct claim status (DCS)](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/direct-claims-status/)
         * [Transferring DCS](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/direct-claims-status/transferring-dcs/)
-    * [Request a support visit](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/request-eqa-support-visit/)
+    * [Request a support review](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/request-eqa-support-visit/)
         
     * [Request bespoke training](https://www.ncfe.org.uk/qualifications/delivery-support/training/request-bespoke-training/)
         
