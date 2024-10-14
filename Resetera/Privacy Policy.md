@@ -110,8 +110,6 @@ Light/Dark
     
 * [](https://www.resetera.com/account/dismiss-notice?notice_id=402 "Dismiss notice")Asheville and Western North Carolina at large are in crisis after Helene, [please consider contributing to these local organizations and helping the people whose lives have been destroyed.](https://www.resetera.com/threads/asheville-and-western-north-carolina-at-large-are-in-crisis-after-helene-consider-contributing-to-these-local-organizations.1000155/)
     
-* [](https://www.resetera.com/account/dismiss-notice?notice_id=405 "Dismiss notice")Hey everyone, Jason Schreier is giving away ten copies of his new book, Play Nice: The Rise, Fall and Future of Blizzard Entertainment in [this thread](https://www.resetera.com/threads/win-a-copy-of-jason-schreiers-new-book-play-nice-the-rise-fall-and-future-of-blizzard-entertainment-plus-an-ama.1002645/), and will also be doing an AMA!
-    
 
 Privacy policy
 ==============
