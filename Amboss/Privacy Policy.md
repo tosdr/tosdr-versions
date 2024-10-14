@@ -493,6 +493,16 @@ There is a data transfer to third countries (United States of America).
 
 Further information is available in the provider’s privacy policy at https://policies.google.com/privacy.
 
+‍
+
+**Google Translate**
+
+We use the translation service Google Translate on our website. The provider is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland. Google processes the IP address of the visitor to save the language settings and preferences.
+
+There is a data transfer to third countries (United States of America).
+
+Further information is available in the provider's privacy policy at https://policies.google.com/privacy.
+
 **  
 Hotjar**
 
