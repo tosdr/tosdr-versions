@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Aero Fighters](https://www.myabandonware.com/game/aero-fighters-b9z)
+* [Action Fighter](https://www.myabandonware.com/game/action-fighter-ku)
+* [Alpha Mission](https://www.myabandonware.com/game/alpha-mission-9vq)
 * [Alien Syndrome](https://www.myabandonware.com/game/alien-syndrome-l2)
 * [Ashita no Joe Densetsu](https://www.myabandonware.com/game/ashita-no-joe-densetsu-jxn)
-* [Amidar](https://www.myabandonware.com/game/amidar-hcj)
-* [Robix](https://www.myabandonware.com/game/robix-sta)
-* [Reptalia](https://www.myabandonware.com/game/reptalia-st9)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
