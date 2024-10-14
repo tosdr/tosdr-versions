@@ -637,7 +637,9 @@ Tools
 
 [Dreamstime Facebook](https://www.facebook.com/dreamstime) [Dreamstime Twitter](https://x.com/dreamstime) [Dreamstime Pinterest](https://www.pinterest.com/dreamstime/) [Dreamstime Instagram](https://www.instagram.com/dreamstime) [Dreamstime Linkedin](https://www.linkedin.com/company/dreamstime) [Dreamstime Youtube](https://www.youtube.com/@dreamstime?sub_confirmation=1)
 
-Language English
+Language
+
+English
 
 * [English](https://www.dreamstime.com/terms)
 * [Deutsch](https://de.dreamstime.com/terms)
