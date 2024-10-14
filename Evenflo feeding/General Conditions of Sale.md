@@ -197,7 +197,7 @@ After we receive your returned item, it will be inspected. Upon approval for ref
 If your items are received damaged, please [Contact Us](https://www.evenflofeeding.com/company/contact-evenflo-support) for assistance.
 
 **Order Cancellation:  
-**If you would like to cancel your order, please [Contact Us](https://www.evenflofeeding.com/company/contact-evenflo-support) for assistance. Please note that orders are not eligible for cancellation once they have shipped.  
+**Typically, orders cannot be modified or cancelled once they are placed, though we are happy to assist with a return. If you need assistance, please [Contact Us](https://www.evenflofeeding.com/company/contact-evenflo-support).  
   
 Evenflo Feeding, Inc. reserves the right, at its sole discretion, to change, modify, add or remove portions of this Refund Policy, at any time. It is your responsibility to check this Refund Policy periodically for changes. Your continued use of the Site following the posting of changes will mean that you accept and agree to the changes.    
 
