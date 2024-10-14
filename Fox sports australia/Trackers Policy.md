@@ -18,16 +18,6 @@ FOX SCORES
     
 * [Women's T20 WC
     
-    ENG won by 10 wkts
-    
-    |     |     |
-    | --- | --- |
-    | ENG | 0 /113 |
-    | SCO | 6 /109 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250117)
-* [Women's T20 WC
-    
     AUS won by 9 runs
     
     |     |     |
@@ -46,16 +36,6 @@ FOX SCORES
     | NZL | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250119)
-* [Men's T20I
-    
-    WI won by 5 wkts
-    
-    |     |     |
-    | --- | --- |
-    | SRI | 7 /179 |
-    | WI  | 5 /180 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250201)
 * [Women's T20
     
     BRI won by 7 wkts
@@ -68,12 +48,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250110)
 * [Women's T20
     
-    14/10 15:00 AEST
+    HOB won by 8 wkts
     
     |     |     |
     | --- | --- |
-    | HOB | –   |
-    | PER | –   |
+    | HOB | 2 /139 |
+    | PER | 5 /136 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250111)
 * Netball
@@ -100,6 +80,16 @@ FOX SCORES
     | PNG | –   |
     
     Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240101)
+* [Women's PC
+    
+    19/10 17:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | TON | –   |
+    | SAM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240102)
 * [Men's PC
     
     18/10 20:10 AEST
@@ -146,16 +136,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=712)
 * NFL
     
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CHI | 35  |
-    | JAX | 16  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250603)
 * [NFL
     
     Full Time
@@ -258,26 +238,36 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250612)
 * [NFL
     
-    3rd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | NYG | 0   |
-    | CIN | 7   |
+    | NYG | 7   |
+    | CIN | 17  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250614)
 * Baseball
     
 * [MLB
     
-    Bottom 6th Innings
+    Final
     
     |     |     |
     | --- | --- |
-    | LAD | 6   |
+    | LAD | 9   |
     | NYM | 0   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002E0214)
+* [MLB
+    
+    15/10 7:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | LAD | –   |
+    | NYM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240020028DBB2)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -1023,7 +1013,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
