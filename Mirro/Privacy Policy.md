@@ -26,8 +26,6 @@
 
 [Contact us](https://www.mirro.com/contact)
 
-English
-
 Open Menu Close Menu
 
 Open Menu Close Menu
@@ -56,8 +54,6 @@ Open Menu Close Menu
 
 [Contact us](https://www.mirro.com/contact)
 
-English
-
 [Home](https://www.mirro.com/)
 
 [Products](https://www.mirro.com/products)
@@ -79,10 +75,6 @@ English
 [Where to Buy](https://www.mirro.com/where-to-buy)
 
 [Contact us](https://www.mirro.com/contact)
-
-[English](#)
-
-[Back](https://www.mirro.com/)
 
 **MIRRO Privacy Policy**
 
