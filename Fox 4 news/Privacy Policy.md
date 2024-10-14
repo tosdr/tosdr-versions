@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Rare comet spotted in North Texas sky](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gz0jabtxmaadowm.jpg?ve=1&tl=1)
+
+ ![Rare comet spotted in North Texas sky](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gz0jabtxmaadowm.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rare-comet-spotted-north-texas-sky)
+
+### [Rare comet spotted in North Texas sky](https://www.fox4news.com/news/rare-comet-spotted-north-texas-sky)
+
+ [![Jerry Jones on possibility of firing Mike McCarthy: 'I'm not considering that'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2178257278.jpg?ve=1&tl=1)
+
+ ![Jerry Jones on possibility of firing Mike McCarthy: 'I'm not considering that'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178257278.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jerry-jones-firing-mike-mccarthy-im-not-considering-that)
+
+### [Jerry Jones on possibility of firing Mike McCarthy: 'I'm not considering that'](https://www.fox4news.com/sports/jerry-jones-firing-mike-mccarthy-im-not-considering-that)
+
  [![The Colony Fire Department shows support for battalion chief battling kidney disease](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101324-aj-the-colony-firefighter-with-kidney-failu_00.01.41.26.jpg?ve=1&tl=1)
 
  ![The Colony Fire Department shows support for battalion chief battling kidney disease](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101324-aj-the-colony-firefighter-with-kidney-failu_00.01.41.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/colony-fire-toss-for-a-cause-brent-young)
 
 ### [The Colony Fire Department shows support for battalion chief battling kidney disease](https://www.fox4news.com/news/colony-fire-toss-for-a-cause-brent-young)
 
- [![Jared Goff throws 3 TD passes, Lions win 47-9 and hand Cowboys another lopsided home loss](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2178266059-scaled.jpg?ve=1&tl=1)
+ [![North Carolina football player dies following battle with rare lung cancer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2177364147.jpg?ve=1&tl=1)
 
- ![Jared Goff throws 3 TD passes, Lions win 47-9 and hand Cowboys another lopsided home loss](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178266059-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jared-goff-throws-3-td-passes-lions-win-47-9-hand-cowboys-another-lopsided-home-loss)
+ ![North Carolina football player dies following battle with rare lung cancer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2177364147.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/north-carolina-football-player-dies-lung-cancer)
 
-### [Jared Goff throws 3 TD passes, Lions win 47-9 and hand Cowboys another lopsided home loss](https://www.fox4news.com/sports/jared-goff-throws-3-td-passes-lions-win-47-9-hand-cowboys-another-lopsided-home-loss)
+### [North Carolina football player dies following battle with rare lung cancer](https://www.fox4news.com/sports/north-carolina-football-player-dies-lung-cancer)
 
- [![Jerry Jones on possible coaching change: 'I'm not considering that'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2178257278.jpg?ve=1&tl=1)
+ [![Menendez Brothers: Gascón reveals 'new evidence' letter that led to case review](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/menendez-case-2.jpg?ve=1&tl=1)
 
- ![Jerry Jones on possible coaching change: 'I'm not considering that'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178257278.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jerry-jones-firing-mike-mccarthy-im-not-considering-that)
+ ![Menendez Brothers: Gascón reveals 'new evidence' letter that led to case review](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/592/333/menendez-case-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/menendez-brothers-gascon-new-evidence-letter-case-review)
 
-### [Jerry Jones on possible coaching change: 'I'm not considering that'](https://www.fox4news.com/sports/jerry-jones-firing-mike-mccarthy-im-not-considering-that)
-
- [![Grapevine Lake fire: 10 boats damaged at Silver Lake Marina](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gzyvkfsxkaelqdc.jpg?ve=1&tl=1)
-
- ![Grapevine Lake fire: 10 boats damaged at Silver Lake Marina](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gzyvkfsxkaelqdc.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grapevine-lake-fire-smoke)
-
-### [Crews battle fire at Grapevine Lake](https://www.fox4news.com/news/grapevine-lake-fire-smoke)
-
- [![Possible third Trump assassination attempt thwarted in Coachella, Riverside County sheriff says](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/gettyimages-2178150758.jpg?ve=1&tl=1)
-
- ![Possible third Trump assassination attempt thwarted in Coachella, Riverside County sheriff says](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178150758.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/vem-miller-trump-coachella-rally-arrest-possible-assassination-attempt)
-
-### [Possible third Trump assassination attempt thwarted in Coachella, Riverside County sheriff says](https://www.fox4news.com/news/vem-miller-trump-coachella-rally-arrest-possible-assassination-attempt)
+### [Menendez Brothers: Gascón reveals 'new evidence' letter that led to case review](https://www.fox4news.com/news/menendez-brothers-gascon-new-evidence-letter-case-review)
 
 ###### [News](https://www.fox4news.com/news)
 
