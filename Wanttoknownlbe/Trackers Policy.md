@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/werkelijk-in-contact-met-water/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/george-van-houts-krijgt-frontier-award/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -141,6 +141,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Europees ID: aangenomen; Tweede Kamer buitenspel..!!?
+
+[ook hier controle.controle en nog eens controle op digitaal…](https://www.wanttoknow.nl/politiek/europees-id-aangenomen-tweede-kamer-buitenspel/comment-page-1/#comment-626339)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -389,14 +397,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### OM meet met 2 maten: rechtsstaat bezoedeld..!!
 
 [Hoi Arend :) Ja, een mooi en krachtig gedicht, een gedicht v…](https://www.wanttoknow.nl/effetjes/om-meet-met-2-maten-rechtsstaat-bezoedeld/comment-page-1/#comment-626306)
-
-![Arend Zeevat](https://secure.gravatar.com/avatar/54f43225736f1bab22ea8f9a12c4d3a3?s=50&d=identicon&r=g)
-
-##### **Arend Zeevat** reacts on:
-
-##### OM meet met 2 maten: rechtsstaat bezoedeld..!!
-
-[Voor Argusoog Radio heb ik ooit een interview gehouden met d…](https://www.wanttoknow.nl/effetjes/om-meet-met-2-maten-rechtsstaat-bezoedeld/comment-page-1/#comment-626305)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
