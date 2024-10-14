@@ -18,7 +18,7 @@
 
 Community
 
-[Partychan](https://chan.kemono.party/) [Telegram](https://t.me/kemonopartywelcome) [ThePornDude](https://theporndude.com/?kemono.party)
+[Partychan](https://chan.kemono.party/) [SimpleX Chat](https://t.me/kemonopartywelcome) [ThePornDude](https://theporndude.com/?kemono.party)
 
 ![](/static/menu.svg)
 
