@@ -6,7 +6,7 @@ Search 
 
 everything PLAY Exclusives Games Gaming Peripherals Digital Toys Lifestyle Movies Music Books
 
- [![Free Delivery on select items!](//s.pacn.ws/1/gallery/large/GA.06771.0233.svg?1606996510&v=PX-404) FREE WORLDWIDE DELIVERY when spending over US$ 99.99 on select items!](https://www.play-asia.com/blog/2022/06/01/freeshippingplayasia/)
+ [![Free Delivery on select items!](//s.pacn.ws/1/gallery/large/GA.06771.0233.svg?1607025310&v=PX-404) FREE WORLDWIDE DELIVERY when spending over US$ 99.99 on select items!](https://www.play-asia.com/blog/2022/06/01/freeshippingplayasia/)
 
 [](https://www.play-asia.com/account/)
 
@@ -18,7 +18,7 @@ everything PLAY Exclusives Games Gaming Peripherals Digital Toys Lifestyle Movie
 
 Help](https://www.play-asia.com/help/)
 
-[![](//s.pacn.ws/1/gallery/large/GA.07871.0186.svg?1708666189&v=PX-404)  
+[![](//s.pacn.ws/1/gallery/large/GA.07871.0186.svg?1708694989&v=PX-404)  
 EN | USD](#)
 
 ✖ theme
@@ -53,7 +53,7 @@ We accept
 
 Subscribe to our Newsletter!
 
-![Customer Service](//s.pacn.ws/1/gallery/large/GA.06753.0011.svg?1606379152&v=PX-404)
+![Customer Service](//s.pacn.ws/1/gallery/large/GA.06753.0011.svg?1606407952&v=PX-404)
 
 Contact Us!
 
@@ -65,4 +65,4 @@ Be sure to visit our social media pages !
   
 Playasia and its logo are trademarks of Playasia. Website & content copyright 2002-2024 Playasia.
 
-SN: 113 | 1007 { 58 } | A: | WS: 1 | PT: 0.015 | CDN: | Ro: , Cl: 1 | Q: 16 | T: | Cf: | CO: | bot:
+SN: 115 | 1007 { 58 } | A: | WS: 1 | PT: 0.018 | CDN: | Ro: , Cl: 1 | Q: 16 | T: | Cf: | CO: | bot:
