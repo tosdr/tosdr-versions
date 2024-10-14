@@ -26,57 +26,61 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bill-clinton-1200x630.png)](https://americanwirenews.com/oof-brutal-clip-bill-clinton-stops-at-mcdonalds-for-photo-op-gets-mistaken-for-joe-biden/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-kubrick-1200x630.jpg)](https://americanwirenews.com/stanley-kubricks-daughter-defends-trumps-use-of-full-metal-jacket-says-father-would-have-agreed/)
 
-[Oof! Brutal clip! Bill Clinton stops at McDonalds for photo op, gets mistaken for Joe Biden](https://americanwirenews.com/oof-brutal-clip-bill-clinton-stops-at-mcdonalds-for-photo-op-gets-mistaken-for-joe-biden/)
+[Stanley Kubrick’s daughter defends Trump’s use of ‘Full Metal Jacket,’ says father ‘would have agreed’](https://americanwirenews.com/stanley-kubricks-daughter-defends-trumps-use-of-full-metal-jacket-says-father-would-have-agreed/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-orshaw-1200-x-628-1200x630.jpg)](https://americanwirenews.com/top-oregon-official-gets-sacked-for-prioritizing-merit-over-gender-identity/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-psaki-carville-1200x630.jpg)](https://americanwirenews.com/james-carville-takes-trump-fearmongering-to-next-level-hes-going-to-have-a-roundup/)
 
-[Top Oregon official gets sacked for prioritizing merit over ‘gender identity’](https://americanwirenews.com/top-oregon-official-gets-sacked-for-prioritizing-merit-over-gender-identity/)
+[James Carville takes Trump fearmongering to next level: ‘He’s going to have a roundup’](https://americanwirenews.com/james-carville-takes-trump-fearmongering-to-next-level-hes-going-to-have-a-roundup/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-miller-1200x630.jpg)](https://americanwirenews.com/possible-third-assassination-attempt-on-trump-is-not-what-it-seems/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-harris-2-1200x630.jpg)](https://americanwirenews.com/rufo-vp-harris-plagiarized-at-least-a-dozen-sections-of-her-smart-on-crime-book/)
 
-[Possible THIRD ‘assassination attempt’ on Trump is not what it seems](https://americanwirenews.com/possible-third-assassination-attempt-on-trump-is-not-what-it-seems/)
+[Rufo says Kamala Harris plagiarized at least a dozen sections of her 2009 book: ‘We have the receipts’](https://americanwirenews.com/rufo-vp-harris-plagiarized-at-least-a-dozen-sections-of-her-smart-on-crime-book/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mayocbs-1200-x-628-1200x630.jpg)](https://americanwirenews.com/mayorkas-lashes-extremely-pernicious-critics-of-hurricane-helene-response-blames-congress-for-funding-troubles/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-sg-nuter-butter-tiktoks-split-1200x630.jpg)](https://americanwirenews.com/you-good-bizarre-ads-for-beloved-nutter-butter-cookies-prompts-concerns/)
 
-[Mayorkas lashes ‘extremely pernicious’ critics of Hurricane Helene response, blames Congress for funding troubles](https://americanwirenews.com/mayorkas-lashes-extremely-pernicious-critics-of-hurricane-helene-response-blames-congress-for-funding-troubles/)
+[‘You good?’ Bizarre ads for beloved Nutter Butter cookies prompts concerns](https://americanwirenews.com/you-good-bizarre-ads-for-beloved-nutter-butter-cookies-prompts-concerns/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-owens-burgerking-1200x630.jpg)](https://americanwirenews.com/sheriff-calls-for-back-up-after-burger-king-got-his-order-wrong/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bathbodyworks-candles-1200x630.jpg)](https://americanwirenews.com/bath-body-works-caves-to-snowflakes-over-candle-being-compared-to-kkk-hood/)
 
-[Sheriff calls for back up after Burger King got his order wrong](https://americanwirenews.com/sheriff-calls-for-back-up-after-burger-king-got-his-order-wrong/)
+[Bath & Body Works caves to snowflakes over candle being compared to KKK hood](https://americanwirenews.com/bath-body-works-caves-to-snowflakes-over-candle-being-compared-to-kkk-hood/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-1-1200x630.png)](https://americanwirenews.com/kamala-unveils-ridiculous-new-line-that-trump-is-hiding/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-goldberg-1200x630.jpg)](https://americanwirenews.com/i-was-filthy-whoopi-clapback-manages-to-confirm-trumps-filthy-dirty-disgusting-assertion/)
 
-[Kamala unveils ridiculous new line that Trump is ‘hiding’](https://americanwirenews.com/kamala-unveils-ridiculous-new-line-that-trump-is-hiding/)
+[‘I was filthy’: Whoopi clapback manages to confirm Trump’s ‘filthy, dirty, disgusting’ assertion](https://americanwirenews.com/i-was-filthy-whoopi-clapback-manages-to-confirm-trumps-filthy-dirty-disgusting-assertion/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-johnson-brennan-1200x630.jpg)](https://americanwirenews.com/speaker-johnson-says-straight-up-there-will-be-some-cheating-in-this-election-noncitizens-are-going-to-vote/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-aurora-gang-apartments-1200x630.jpg)](https://americanwirenews.com/mgmt-company-sets-record-straight-says-gangs-have-taken-control-of-several-colorado-properties/)
 
-[Speaker Johnson says straight up, ‘there will be some cheating in this election … noncitizens are going to vote’](https://americanwirenews.com/speaker-johnson-says-straight-up-there-will-be-some-cheating-in-this-election-noncitizens-are-going-to-vote/)
+[Mgmt company sets record straight, says gangs ‘have taken control’ of several Colorado properties](https://americanwirenews.com/mgmt-company-sets-record-straight-says-gangs-have-taken-control-of-several-colorado-properties/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-on-border-patrol-1200x630.jpg)](https://americanwirenews.com/the-official-union-of-the-u-s-border-patrol-announces-its-endorsement/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-harris-1200x630.jpg)](https://americanwirenews.com/she-is-slow-and-lethargic-trump-calls-for-kamala-harris-to-take-cognitive-test/)
 
-[The official union of the U.S. Border Patrol announces its endorsement](https://americanwirenews.com/the-official-union-of-the-u-s-border-patrol-announces-its-endorsement/)
+[‘She is slow and lethargic’: Trump calls for Kamala Harris to take cognitive test](https://americanwirenews.com/she-is-slow-and-lethargic-trump-calls-for-kamala-harris-to-take-cognitive-test/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musk-fetterman-split-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-hurricane-helene-nc-fema-deanne-criswell-split-1200x630.jpg)
 
-### Fetterman advises Dems to take Musk seriously, says he has an ‘appeal’ to voters](https://americanwirenews.com/fetterman-advises-dems-to-take-musk-seriously-says-he-has-an-appeal-to-voters/)
+### FEMA claims armed militia ‘out hunting’ agents in NC county – issues stand down order](https://americanwirenews.com/fema-claims-armed-militia-out-hunting-agents-in-nc-county-issues-stand-down-order/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [GOP Senate candidate shreds Dem opponent for not doing more to hold Biden-Harris admin accountable](https://americanwirenews.com/gop-senate-candidate-shreds-dem-opponent-for-not-doing-more-to-hold-biden-harris-admin-accountable/)
+### [‘Time to pick a side’: Dennis Quaid speaks at Trump rally, draws comparison to Reagan](https://americanwirenews.com/time-to-pick-a-side-dennis-quaid-speaks-at-trump-rally-draws-comparison-to-reagan/)
 
-### [Cenk Uygur makes it plain for clueless Dems: ‘They’re so biased they can’t see straight’](https://americanwirenews.com/cenk-uygur-makes-it-plain-for-clueless-dems-theyre-so-biased-they-cant-see-straight/)
+### [Liberals have a melt down after Trump mocks female heckler at rally: ‘Back home to mommy’](https://americanwirenews.com/liberals-have-a-melt-down-after-trump-mocks-female-heckler-at-rally-back-home-to-mommy/)
 
-### [Trump to do Fox News town hall with all-female audience moderated by Harris Faulkner](https://americanwirenews.com/trump-to-do-fox-news-town-hall-with-all-female-audience-moderated-by-harris-faulkner/)
+### [‘So stupid’: Jasmine Crockett says ‘MAGA gang, white supremacists’ bringing crime to communities](https://americanwirenews.com/so-stupid-jasmine-crockett-says-maga-gang-white-supremacists-bringing-crime-to-communities/)
 
-### [Harrison Butker endorses ‘most pro-life president’ Trump: ‘The most crucial topic for me’](https://americanwirenews.com/harrison-butker-endorses-most-pro-life-president-trump-the-most-crucial-topic-for-me/)
+### [‘Frankly, sir…’ Kamala lectures undecided voter on Trump, says she ‘earned’ Dem nomination](https://americanwirenews.com/frankly-sir-kamala-lectures-undecided-voter-on-trump-says-she-earned-dem-nomination/)
 
-### [Mayorkas shredded for visit to swanky sushi joint after brief trip to hurricane-ravaged NC](https://americanwirenews.com/mayorkas-shredded-for-visit-to-swanky-sushi-joint-after-brief-trip-to-hurricane-ravaged-nc/)
+### [‘You can get away with anything!’ Michael Moore urges Biden to go buck wild with last days in office](https://americanwirenews.com/you-can-get-away-with-anything-michael-moore-urges-biden-to-go-buck-wild-with-last-days-in-office/)
 
-### [Fox News anchor asks of Walz, ‘Who wants a knucklehead a heartbeat away from the presidency?’’](https://americanwirenews.com/fox-news-anchor-asks-of-walz-who-wants-a-knucklehead-a-heartbeat-away-from-the-presidency/)
+### [Bon Jovi sparks backlash when he endorses Kamala, prostrates himself with song about ‘privilege’](https://americanwirenews.com/bon-jovi-sparks-backlash-when-he-endorses-kamala-prostrates-himself-with-song-about-privilege/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-7-220x180.jpg)](https://americanwirenews.com/trump-spox-slams-kamala-as-a-stereotypical-leftist-over-resurfaced-take-on-columbus-day/)
+
+[Trump spox slams Kamala as a ‘stereotypical leftist’ over resurfaced take on Columbus Day](https://americanwirenews.com/trump-spox-slams-kamala-as-a-stereotypical-leftist-over-resurfaced-take-on-columbus-day/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-60-220x180.png)](https://americanwirenews.com/pressure-on-cbs-intensifies-to-release-the-60-minutes-transcript/)
 
@@ -89,6 +93,42 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-biden_kamala-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/biden-and-harris-camps-reportedly-quarreling-as-kamala-bubble-pops/)
 
 [Biden and Harris camps reportedly quarreling as Kamala bubble pops](https://americanwirenews.com/biden-and-harris-camps-reportedly-quarreling-as-kamala-bubble-pops/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-on-border-patrol-220x180.jpg)](https://americanwirenews.com/the-official-union-of-the-u-s-border-patrol-announces-its-endorsement/)
+
+[The official union of the U.S. Border Patrol announces its endorsement](https://americanwirenews.com/the-official-union-of-the-u-s-border-patrol-announces-its-endorsement/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-johnson-brennan-220x180.jpg)](https://americanwirenews.com/speaker-johnson-says-straight-up-there-will-be-some-cheating-in-this-election-noncitizens-are-going-to-vote/)
+
+[Speaker Johnson says straight up, ‘there will be some cheating in this election … noncitizens are going to vote’](https://americanwirenews.com/speaker-johnson-says-straight-up-there-will-be-some-cheating-in-this-election-noncitizens-are-going-to-vote/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-1-220x180.png)](https://americanwirenews.com/kamala-unveils-ridiculous-new-line-that-trump-is-hiding/)
+
+[Kamala unveils ridiculous new line that Trump is ‘hiding’](https://americanwirenews.com/kamala-unveils-ridiculous-new-line-that-trump-is-hiding/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-owens-burgerking-220x180.jpg)](https://americanwirenews.com/sheriff-calls-for-back-up-after-burger-king-got-his-order-wrong/)
+
+[Sheriff calls for back up after Burger King got his order wrong](https://americanwirenews.com/sheriff-calls-for-back-up-after-burger-king-got-his-order-wrong/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mayocbs-1200-x-628-220x180.jpg)](https://americanwirenews.com/mayorkas-lashes-extremely-pernicious-critics-of-hurricane-helene-response-blames-congress-for-funding-troubles/)
+
+[Mayorkas lashes ‘extremely pernicious’ critics of Hurricane Helene response, blames Congress for funding troubles](https://americanwirenews.com/mayorkas-lashes-extremely-pernicious-critics-of-hurricane-helene-response-blames-congress-for-funding-troubles/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-miller-220x180.jpg)](https://americanwirenews.com/possible-third-assassination-attempt-on-trump-is-not-what-it-seems/)
+
+[Possible THIRD ‘assassination attempt’ on Trump is not what it seems](https://americanwirenews.com/possible-third-assassination-attempt-on-trump-is-not-what-it-seems/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-orshaw-1200-x-628-220x180.jpg)](https://americanwirenews.com/top-oregon-official-gets-sacked-for-prioritizing-merit-over-gender-identity/)
+
+[Top Oregon official gets sacked for prioritizing merit over ‘gender identity’](https://americanwirenews.com/top-oregon-official-gets-sacked-for-prioritizing-merit-over-gender-identity/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bill-clinton-220x180.png)](https://americanwirenews.com/oof-brutal-clip-bill-clinton-stops-at-mcdonalds-for-photo-op-gets-mistaken-for-joe-biden/)
+
+[Oof! Brutal clip! Bill Clinton stops at McDonalds for photo op, gets mistaken for Joe Biden](https://americanwirenews.com/oof-brutal-clip-bill-clinton-stops-at-mcdonalds-for-photo-op-gets-mistaken-for-joe-biden/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musk-fetterman-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/fetterman-advises-dems-to-take-musk-seriously-says-he-has-an-appeal-to-voters/)
+
+[Fetterman advises Dems to take Musk seriously, says he has an ‘appeal’ to voters](https://americanwirenews.com/fetterman-advises-dems-to-take-musk-seriously-says-he-has-an-appeal-to-voters/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-presler-220x180.jpg)](https://americanwirenews.com/scott-presler-says-trump-in-best-place-to-win-critical-battleground-state/)
 
@@ -137,48 +177,6 @@ Image via Lonoke County Detention Center
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-rogan-220x180.jpg)](https://americanwirenews.com/trump-confirms-joe-rogan-interview-heres-what-rogan-is-likely-to-ask/)
 
 [Trump confirms Joe Rogan interview – here’s what Rogan is likely to ask](https://americanwirenews.com/trump-confirms-joe-rogan-interview-heres-what-rogan-is-likely-to-ask/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/getty-quaid-220x180.jpg)](https://americanwirenews.com/time-to-pick-a-side-dennis-quaid-speaks-at-trump-rally-draws-comparison-to-reagan/)
-
-[‘Time to pick a side’: Dennis Quaid speaks at Trump rally, draws comparison to Reagan](https://americanwirenews.com/time-to-pick-a-side-dennis-quaid-speaks-at-trump-rally-draws-comparison-to-reagan/)
-
-(Photo by Mario Tama/Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djtcoachella-1200-x-628-220x180.jpg)](https://americanwirenews.com/liberals-have-a-melt-down-after-trump-mocks-female-heckler-at-rally-back-home-to-mommy/)
-
-[Liberals have a melt down after Trump mocks female heckler at rally: ‘Back home to mommy’](https://americanwirenews.com/liberals-have-a-melt-down-after-trump-mocks-female-heckler-at-rally-back-home-to-mommy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-crockettjas-1200-x-628-220x180.jpg)](https://americanwirenews.com/so-stupid-jasmine-crockett-says-maga-gang-white-supremacists-bringing-crime-to-communities/)
-
-[‘So stupid’: Jasmine Crockett says ‘MAGA gang, white supremacists’ bringing crime to communities](https://americanwirenews.com/so-stupid-jasmine-crockett-says-maga-gang-white-supremacists-bringing-crime-to-communities/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-6-220x180.jpg)](https://americanwirenews.com/frankly-sir-kamala-lectures-undecided-voter-on-trump-says-she-earned-dem-nomination/)
-
-[‘Frankly, sir…’ Kamala lectures undecided voter on Trump, says she ‘earned’ Dem nomination](https://americanwirenews.com/frankly-sir-kamala-lectures-undecided-voter-on-trump-says-she-earned-dem-nomination/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-mmoore-1200-x-628-220x180.jpg)](https://americanwirenews.com/you-can-get-away-with-anything-michael-moore-urges-biden-to-go-buck-wild-with-last-days-in-office/)
-
-[‘You can get away with anything!’ Michael Moore urges Biden to go buck wild with last days in office](https://americanwirenews.com/you-can-get-away-with-anything-michael-moore-urges-biden-to-go-buck-wild-with-last-days-in-office/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bonjovi-220x180.jpg)](https://americanwirenews.com/bon-jovi-sparks-backlash-when-he-endorses-kamala-prostrates-himself-with-song-about-privilege/)
-
-[Bon Jovi sparks backlash when he endorses Kamala, prostrates himself with song about ‘privilege’](https://americanwirenews.com/bon-jovi-sparks-backlash-when-he-endorses-kamala-prostrates-himself-with-song-about-privilege/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-men-kamala-ad-220x180.jpg)](https://americanwirenews.com/kamalas-new-manly-man-ad-is-industrial-strength-cringe/)
-
-[Kamala’s new manly man ad is industrial strength CRINGE](https://americanwirenews.com/kamalas-new-manly-man-ad-is-industrial-strength-cringe/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gascon-hochman-220x180.jpg)](https://americanwirenews.com/george-gascon-soros-backed-d-a-falls-massively-behind-opponent-its-not-even-close/)
-
-[George Gascon, Soros-backed D.A., falls MASSIVELY behind opponent: ‘It’s not even close’](https://americanwirenews.com/george-gascon-soros-backed-d-a-falls-massively-behind-opponent-its-not-even-close/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-julia-roberts-220x180.jpg)](https://americanwirenews.com/actress-urges-women-to-get-men-to-vote-kamala-so-we-can-get-to-the-good-stuff-like-joy/)
-
-[Actress urges women to get men to vote Kamala so we can ‘get to the good stuff’ like ‘joy’](https://americanwirenews.com/actress-urges-women-to-get-men-to-vote-kamala-so-we-can-get-to-the-good-stuff-like-joy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mccain-harris-220x180.jpg)](https://americanwirenews.com/consider-this-my-final-warning-shot-meghan-mccain-threatens-to-tell-dems-her-dads-real-feelings-about-harris/)
-
-[‘Consider this my final warning shot’: Meghan McCain threatens to tell Dems her dad’s REAL feelings about Harris](https://americanwirenews.com/consider-this-my-final-warning-shot-meghan-mccain-threatens-to-tell-dems-her-dads-real-feelings-about-harris/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -268,29 +266,29 @@ Getty Images](https://americanwirenews.com/american-water-countrys-biggest-water
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-clarke-youngkin-1200x630.jpg)](https://americanwirenews.com/in-mind-boggling-move-doj-sues-battleground-state-over-removal-of-non-citizens-from-voter-rolls/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-men-kamala-ad-1200x630.jpg)](https://americanwirenews.com/kamalas-new-manly-man-ad-is-industrial-strength-cringe/)
 
-[In mind-boggling move, DOJ sues battleground state over removal of non-citizens from voter rolls](https://americanwirenews.com/in-mind-boggling-move-doj-sues-battleground-state-over-removal-of-non-citizens-from-voter-rolls/)
+[Kamala’s new manly man ad is industrial strength CRINGE](https://americanwirenews.com/kamalas-new-manly-man-ad-is-industrial-strength-cringe/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-clarke-youngkin-220x180.jpg)](https://americanwirenews.com/in-mind-boggling-move-doj-sues-battleground-state-over-removal-of-non-citizens-from-voter-rolls/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-men-kamala-ad-220x180.jpg)](https://americanwirenews.com/kamalas-new-manly-man-ad-is-industrial-strength-cringe/)
 
-[In mind-boggling move, DOJ sues battleground state over removal of non-citizens from voter rolls](https://americanwirenews.com/in-mind-boggling-move-doj-sues-battleground-state-over-removal-of-non-citizens-from-voter-rolls/)
+[Kamala’s new manly man ad is industrial strength CRINGE](https://americanwirenews.com/kamalas-new-manly-man-ad-is-industrial-strength-cringe/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gretchen-whitmer-social-media-post-220x180.jpg)](https://americanwirenews.com/big-gretch-blasted-by-catholic-league-for-mocking-eucharist-in-perverse-video-there-is-no-wiggle-room/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gascon-hochman-220x180.jpg)](https://americanwirenews.com/george-gascon-soros-backed-d-a-falls-massively-behind-opponent-its-not-even-close/)
 
-[‘Big Gretch’ blasted by Catholic League for mocking Eucharist in perverse video: ‘There is no wiggle room’](https://americanwirenews.com/big-gretch-blasted-by-catholic-league-for-mocking-eucharist-in-perverse-video-there-is-no-wiggle-room/)
+[George Gascon, Soros-backed D.A., falls MASSIVELY behind opponent: ‘It’s not even close’](https://americanwirenews.com/george-gascon-soros-backed-d-a-falls-massively-behind-opponent-its-not-even-close/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mcmahon-220x180.jpg)](https://americanwirenews.com/cbs-news-ceos-dem-donations-get-attention-as-network-engulfed-by-scandal/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-julia-roberts-220x180.jpg)](https://americanwirenews.com/actress-urges-women-to-get-men-to-vote-kamala-so-we-can-get-to-the-good-stuff-like-joy/)
 
-[CBS News CEO’s Dem donations get attention as network engulfed by scandal](https://americanwirenews.com/cbs-news-ceos-dem-donations-get-attention-as-network-engulfed-by-scandal/)
+[Actress urges women to get men to vote Kamala so we can ‘get to the good stuff’ like ‘joy’](https://americanwirenews.com/actress-urges-women-to-get-men-to-vote-kamala-so-we-can-get-to-the-good-stuff-like-joy/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djtauroraco-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-pledges-crackdown-on-illegal-alien-gangs-at-aurora-co-rally/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mccain-harris-220x180.jpg)](https://americanwirenews.com/consider-this-my-final-warning-shot-meghan-mccain-threatens-to-tell-dems-her-dads-real-feelings-about-harris/)
 
-[Trump pledges crackdown on illegal alien gangs at Aurora, CO rally](https://americanwirenews.com/trump-pledges-crackdown-on-illegal-alien-gangs-at-aurora-co-rally/)
+[‘Consider this my final warning shot’: Meghan McCain threatens to tell Dems her dad’s REAL feelings about Harris](https://americanwirenews.com/consider-this-my-final-warning-shot-meghan-mccain-threatens-to-tell-dems-her-dads-real-feelings-about-harris/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-james-comer-sg-jamie-raskin-220x180.jpg)](https://americanwirenews.com/comer-unloads-on-ultimate-hypocrite-raskin-over-hint-dems-may-not-certify-trump-win/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-brown-kennedy-220x180.jpg)](https://americanwirenews.com/gop-senate-candidate-shreds-dem-opponent-for-not-doing-more-to-hold-biden-harris-admin-accountable/)
 
-[Comer unloads on ‘ultimate hypocrite’ Raskin over hint Dems may not certify Trump win](https://americanwirenews.com/comer-unloads-on-ultimate-hypocrite-raskin-over-hint-dems-may-not-certify-trump-win/)
+[GOP Senate candidate shreds Dem opponent for not doing more to hold Biden-Harris admin accountable](https://americanwirenews.com/gop-senate-candidate-shreds-dem-opponent-for-not-doing-more-to-hold-biden-harris-admin-accountable/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
