@@ -142,13 +142,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427386.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
 
+[Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
+
+  [![Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427338.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
+
 [Danish-style 'schools for life' gaining popularity in Japan](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
 
   [![People engage in discussions during a program of School for Life Compath in Biei, Hokkaido, in August 2021.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427176.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "People engage in discussions during a program of School for Life Compath in Biei, Hokkaido, in August 2021.")](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
-
-[Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-nuclear-deterrance/ "Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says")
-
-  [![Prime Minister Shigeru Ishiba speaks during a debate with other political party leaders at the Japan National Press Club in Tokyo on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427417.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks during a debate with other political party leaders at the Japan National Press Club in Tokyo on Saturday. ")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-nuclear-deterrance/ "Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says")
 
 Editors' Picks
 --------------
@@ -177,17 +177,17 @@ By [Mark Trevelyan](https://www.japantimes.co.jp/author/2842/mark-trevelyan/ "Ma
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Danish-style 'schools for life' gaining popularity in Japan](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
+[Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
 
-  [![People engage in discussions during a program of School for Life Compath in Biei, Hokkaido, in August 2021.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427176.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "People engage in discussions during a program of School for Life Compath in Biei, Hokkaido, in August 2021.")](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+
+  [![Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427338.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-nuclear-deterrance/ "Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says")
+[Danish-style 'schools for life' gaining popularity in Japan](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
 
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
-
-  [![Prime Minister Shigeru Ishiba speaks during a debate with other political party leaders at the Japan National Press Club in Tokyo on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427417.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks during a debate with other political party leaders at the Japan National Press Club in Tokyo on Saturday. ")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/ishiba-nuclear-deterrance/ "Japan to ‘seriously consider’ U.N. nuke ban treaty observer status, Ishiba says")
+  [![People engage in discussions during a program of School for Life Compath in Biei, Hokkaido, in August 2021.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427176.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "People engage in discussions during a program of School for Life Compath in Biei, Hokkaido, in August 2021.")](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
 
 Podcast
 -------
@@ -208,9 +208,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -250,21 +250,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Australia commits $64 million to protect against looming bird flu threat](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/australia-bird-flu-funding/ "Australia commits $64 million to protect against looming bird flu threat")
+[North Korea put border troops on high alert after drone claims](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/north-korea-border-alert-drone/ "North Korea put border troops on high alert after drone claims")
 
-10 hours ago
+15 mins ago
 
-[Israeli foreign minister reiterates U.N. chief Guterres is persona non grata over Iran stance](https://www.japantimes.co.jp/news/2024/10/13/world/israeli-foreign-minister-deems-guterres-persona-non-grata/ "Israeli foreign minister reiterates U.N. chief Guterres is persona non grata over Iran stance")
+[Biden congratulates Nihon Hidankyo on winning Nobel Peace Prize](https://www.japantimes.co.jp/news/2024/10/14/japan/biden-congratulates-nihon-hidankyo/ "Biden congratulates Nihon Hidankyo on winning Nobel Peace Prize")
 
-10 hours ago
+40 mins ago
 
-[Secret documents show Hamas tried to persuade Iran to join its Oct. 7 attack](https://www.japantimes.co.jp/news/2024/10/13/world/hamas-iran-october-7-attack/ "Secret documents show Hamas tried to persuade Iran to join its Oct. 7 attack")
+[Japan's empress emerita leaves hospital](https://www.japantimes.co.jp/news/2024/10/14/japan/japan-empress-emerita-michiko-leaves-hospital/ "Japan's empress emerita leaves hospital")
 
-11 hours ago
+59 mins ago
 
-[Taiwan spots Chinese carrier as video says military 'prepared for battle'](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
+[Poorest nations in worst financial shape since 2006, World Bank says](https://www.japantimes.co.jp/business/2024/10/14/economy/world-bank-26-poorest-nations/ "Poorest nations in worst financial shape since 2006, World Bank says")
 
-[Japan's Empress Emerita leaves hospital](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-empress-emerita-michiko-leaves-hospital/ "Japan's Empress Emerita leaves hospital")
+1 hours ago
+
+[China leaves economists wanting more action to defeat deflation](https://www.japantimes.co.jp/business/2024/10/14/economy/china-economists-action-deflation/ "China leaves economists wanting more action to defeat deflation")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
