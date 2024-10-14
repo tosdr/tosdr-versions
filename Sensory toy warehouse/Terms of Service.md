@@ -40,7 +40,21 @@
     
 
 * [SHOP BY CATEGORY](#)
-    * * * [Sensory Toys](https://www.sensorytoywarehouse.com/product-category/sensory-toys-equipment/)
+    * * * [New!](https://www.sensorytoywarehouse.com/product-category/new-2024/)
+                
+                [Best Seller!](https://www.sensorytoywarehouse.com/product-category/best-seller/)
+                
+                [VAT Exemption](https://www.sensorytoywarehouse.com/vat-relief/)
+                
+                [FAQ](https://www.sensorytoywarehouse.com/frequently-asked-questions-sensory-toys/)
+                
+                [Browse all products](https://www.sensorytoywarehouse.com/shop/)
+                
+                ![](https://www.sensorytoywarehouse.com/wp-content/uploads/2024/10/bb-menu-side-banner.png)
+                
+                [](https://www.sensorytoywarehouse.com/product-category/educational-resources-tools/bouncy-bands-uk/)
+                
+        * * [Sensory Toys](https://www.sensorytoywarehouse.com/product-category/sensory-toys-equipment/)
                 * [Sensory Bubble Tubes](https://www.sensorytoywarehouse.com/product-category/sensory-toys-equipment/sensory-bubble-tubes/)
                 * [Sensory Fibre Optic Lights](https://www.sensorytoywarehouse.com/product-category/sensory-toys-equipment/fibre-optics-range-sensory/)
                 * [Large Sensory Toys](https://www.sensorytoywarehouse.com/product-category/sensory-toys-equipment/large-sensory-toys/)
@@ -295,7 +309,21 @@ Copyright 2024 © **Sensory Toy Warehouse**
     
 
 * [SHOP BY CATEGORY](#)
-    * * * [Sensory Toys](https://www.sensorytoywarehouse.com/product-category/sensory-toys-equipment/)
+    * * * [New!](https://www.sensorytoywarehouse.com/product-category/new-2024/)
+                
+                [Best Seller!](https://www.sensorytoywarehouse.com/product-category/best-seller/)
+                
+                [VAT Exemption](https://www.sensorytoywarehouse.com/vat-relief/)
+                
+                [FAQ](https://www.sensorytoywarehouse.com/frequently-asked-questions-sensory-toys/)
+                
+                [Browse all products](https://www.sensorytoywarehouse.com/shop/)
+                
+                ![](https://www.sensorytoywarehouse.com/wp-content/uploads/2024/10/bb-menu-side-banner.png)
+                
+                [](https://www.sensorytoywarehouse.com/product-category/educational-resources-tools/bouncy-bands-uk/)
+                
+        * * [Sensory Toys](https://www.sensorytoywarehouse.com/product-category/sensory-toys-equipment/)
                 * [Sensory Bubble Tubes](https://www.sensorytoywarehouse.com/product-category/sensory-toys-equipment/sensory-bubble-tubes/)
                 * [Sensory Fibre Optic Lights](https://www.sensorytoywarehouse.com/product-category/sensory-toys-equipment/fibre-optics-range-sensory/)
                 * [Large Sensory Toys](https://www.sensorytoywarehouse.com/product-category/sensory-toys-equipment/large-sensory-toys/)
