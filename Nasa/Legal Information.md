@@ -313,13 +313,13 @@ article 6 days ago](https://www.nasa.gov/hurricane-milton/)
 
 ### Journey to a Water World: NASA’s Europa Clipper Is Ready to Launch
 
-article 19 hours ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
+article 23 hours ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
 
 6 min read
 
 ### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
-article 1 day ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![The Next Full Moon is a Supermoon, and the Hunter’s Moon](https://science.nasa.gov/wp-content/uploads/2023/06/49641911586_4d26910aba_supermoon_March_2020-1280-jpg.webp)
+article 2 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![The Next Full Moon is a Supermoon, and the Hunter’s Moon](https://science.nasa.gov/wp-content/uploads/2023/06/49641911586_4d26910aba_supermoon_March_2020-1280-jpg.webp)
 
 29 min read
 
@@ -357,13 +357,13 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-p
 
 ### Journey to a Water World: NASA’s Europa Clipper Is Ready to Launch
 
-article 19 hours ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
+article 23 hours ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
 
 6 min read
 
 ### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
-article 1 day ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
+article 2 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
 
 2 min read
 
@@ -379,7 +379,7 @@ article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-gran
 
 ### NASA Spotlight: Felipe Valdez, an Inspiring Engineer
 
-article 2 hours ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+article 6 hours ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
 
 2 min read
 
