@@ -184,15 +184,15 @@ Yandex Terms of Service
 
 English
 
+Lietuvių
+
+Eesti keel
+
 Latviešu valoda
 
 Polski
 
 English
-
-Eesti keel
-
-Lietuvių
 
 Yandex Terms of Service
 =======================
@@ -329,15 +329,15 @@ Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
 
 English
 
+Lietuvių
+
+Eesti keel
+
 Latviešu valoda
 
 Polski
 
 English
-
-Eesti keel
-
-Lietuvių
 
 [Next
 
@@ -345,15 +345,15 @@ Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
 
 English
 
+Lietuvių
+
+Eesti keel
+
 Latviešu valoda
 
 Polski
 
 English
-
-Eesti keel
-
-Lietuvių
 
 [Yandex.Support homepage](https://yandex.com/legal)
 
