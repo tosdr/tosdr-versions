@@ -148,6 +148,29 @@ For further information regarding the applicable laws, regulations, and policies
 
 [![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/AS9120_ISO_9001.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
 
+#### Defense News
+
+* [MacDill dodges major storm damage as people, planes remain evacuated](https://www.defensenews.com/air/2024/10/10/macdill-dodges-major-storm-damage-as-people-planes-remain-evacuated/)  
+    10/10/24 05:30pm  
+    
+    MacDill Air Force Base avoided the worst of what Hurricane Milton had in store as the once-Category 5 storm weakened. But the base still must contend with flooding, road debris and other limited damage, such as the damaged airplane figure shown here. (MacDill Air Force Base)
+    
+* [Lockheed names software specialist as new head of F-35 jet program](https://www.defensenews.com/air/2024/10/09/lockheed-names-software-specialist-as-new-head-of-f-35-jet-program/)  
+    10/09/24 02:36pm  
+    
+    Lockheed Martin has struggled with software components for the F-35's latest upgrades, and has now put a software engineering specialist in charge of the multi-billion dollar program. (U.S. Air Force)
+    
+* [France kicks off development of wingman drone for Rafale fighter jet](https://www.defensenews.com/global/europe/2024/10/09/france-kicks-off-development-of-wingman-drone-for-rafale-fighter-jet/)  
+    10/09/24 06:34am  
+    
+    A prototype of Dassault's "nEUROn" combat drone flies above the military airport in Istres, in southeastern France, in 2012. (AFP/ Dassault Aviation)
+    
+* [Air Force picks seven new possible homes for KC-46A Pegasus](https://www.defensenews.com/news/your-air-force/2024/10/08/air-force-picks-seven-new-possible-homes-for-kc-46a-pegasus/)  
+    10/08/24 11:31am  
+    
+    A KC-46A Pegasus refuels a Navy F/A-18F Super Hornet off the coast of Maryland on July 1, 2020. (Lt. Zach Fisher/Navy)
+    
+
 Recent parts by keyword  
 
 The AeroBase Group Family ..
