@@ -244,7 +244,7 @@ Newest Update
 
 * ![icon9](/images/banner/index/icon9.png)10,000,000 people are using Leawo!
 * ![icon10](/images/banner/index/icon10.png)All Transactions are protected!
-* ![icon11](/images/banner/index/icon11.png)30-Day Money Back Guarantee!
+* ![icon14](/images/banner/index/icon14.png)14-Day Money Back Guarantee!
 
 ### Join Our Newsletter:
 
