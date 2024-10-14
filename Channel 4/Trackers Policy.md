@@ -92,6 +92,7 @@
     * Latest updates
         
         * [4Viewers Blog](https://www.channel4.com/4viewers/community/blog)
+        * [Upcoming Changes on Sky and Freesat](https://www.channel4.com/4viewers/blog/upcoming-changes)
         * [South Asian Film Season 2024](https://www.channel4.com/4viewers/blog/south-asian-films-2024)
         * [Formula 1 on Channel 4](https://www.channel4.com/4viewers/blog/formula-1-2024)
         * [Walter Presents](https://www.channel4.com/4viewers/blog/walter-presents)
