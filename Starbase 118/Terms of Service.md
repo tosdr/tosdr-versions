@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/07/akira-class-768x480.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/crew-of-the-uss-chintoka-comes-home/)
+
+### [Crew of the USS Chin’toka Comes Home](https://www.starbase118.net/2024/crew-of-the-uss-chintoka-comes-home/)
+
+Federation News Service October 14, 2024
+
+Sol System — Fitting Reward?
+
+[Read More »](https://www.starbase118.net/2024/crew-of-the-uss-chintoka-comes-home/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/200px-Quinn_Reynolds.jpg-150x150.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/the-golden-box/)
 
 ### [The Golden Box](https://www.starbase118.net/2024/the-golden-box/)
@@ -377,14 +389,6 @@ otterhooligan October 13, 2024
 Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
 
 [Read More »](https://www.starbase118.net/2024/award-winner-toxin-arlill-uss-octavia-e-butler-voyager-medallion/)
-
-### [Role In Focus – Diplomacy](https://www.starbase118.net/2024/role-in-focus-diplomacy/) 
-
-Lhandon Nilsen October 11, 2024
-
-One of the most rewarding aspects of simming in the SB118 fleet is the diversity of roles available, ranging from helm and medical to diplomacy
-
-[Read More »](https://www.starbase118.net/2024/role-in-focus-diplomacy/)
 
 Ready to get started?
 ---------------------
