@@ -335,7 +335,7 @@ Mo-Fr 8:00 - 17:00
 Klick des Tages
 
 [NUROFEN 400mg Ibuprofen Weichkapseln bei Schmerzen 30St.](https://www.medikamente-per-klick.de/product?artnr=18065810&simpleContentAttachmentId=14183&wochenklick)  
-**MHD 02/2025**  
+**inkl. 2€ Sofortrabatt - MHD 02/2025**  
 [![Jetzt 10% extra sparen mit Gutschein Code: gaviscon10](/images/products/medikamenteperklick/mittel/18065810_m.jpg "Jetzt 10% extra sparen mit Gutschein Code: gaviscon10")](https://www.medikamente-per-klick.de/product?artnr=18065810&simpleContentAttachmentId=14183&wochenklick)
 
 VK1:
@@ -344,11 +344,11 @@ VK1:
 
 Ihr Preis:
 
-9,22 €\*
+7,22 €\*
 
 Sie sparen:
 
-5,98 € \-39%
+7,98 € \-53%
 
 2024-10-19 08:00:00
 
@@ -646,4 +646,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=rlhxmrtazdhjdxvlyvpevheqqeshbjzw&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=vpuzfqzcxhsrlyztnsmycakqyjdbcqmn&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
