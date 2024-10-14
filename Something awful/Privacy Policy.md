@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Call of Cthulhu "1990's Handbook" - The Invisible Pattern (Part 1)](https://www.somethingawful.com/dungeons-and-dragons/call-of-cobain/1/)
-* [The Ridiculous Artwork of the Street Fighter: Player's Guide](https://www.somethingawful.com/dungeons-and-dragons/capcom-street-fighter/1/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [SkyMall Catalogue Jamboree](https://www.somethingawful.com/comedy-goldmine/skymall-catalogue-jamboree/1/)
-* [Historical Inaccuracies (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/historical-inaccuracies-part/1/)
+* [Bareback Exchange](https://www.somethingawful.com/weekend-web/bareback-exchange/1/)
+* [Dogster, Wrong Planet, and American Women Suck](https://www.somethingawful.com/weekend-web/dogs-aspergers-women/1/)
+* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
+* [Call of Cthulhu "1990's Handbook" - Saved by the Yith (part 1)](https://www.somethingawful.com/dungeons-and-dragons/morton-downey-cobain/1/)
+* [Ilsa - She Wolf of the SS - Part Two](https://www.somethingawful.com/movie-reviews/ilsa-she-wolf-2/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [What got you interested in SA?](http://forums.somethingawful.com/showthread.php?threadid=4072564 "What got you interested in SA?")
 * ![](https://fi.somethingawful.com/forums/posticons/lan-midwest.gif) [My girlfriend made me add her 11 year old son as a friend on PlayStation](http://forums.somethingawful.com/showthread.php?threadid=4072561 "My girlfriend made me add her 11 year old son as a friend on PlayStation")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [What got you interested in SA?](http://forums.somethingawful.com/showthread.php?threadid=4072564 "What got you interested in SA?")
 
 ### Random Articles
 
-* [Under construction since 1868!](https://www.somethingawful.com/awfulvision/cleveland-horrorpunk-redneck/1/)
-* [Game Store Horror Stories](https://www.somethingawful.com/video-game-article/game-retail-stories/)
-* [Ansel89 Joins MURDERCHURCH](https://www.somethingawful.com/icq-pranks/ansel89-joins-murderchurch/1/)
-* [Very Sad Cats](https://www.somethingawful.com/flash-tub/sad-cats-cartoon/)
-* [The 2009 Flour and Grain Expo Commercial!](https://www.somethingawful.com/feature-articles/flour-and-grain/)
+* [The Orc of Wes'sv'Urginia](https://www.somethingawful.com/webcam-ward/wow-threaten/)
+* [Welcome to The American Register!](https://www.somethingawful.com/awful-links/awful-link-706/)
+* [Credit Card Chip Reader FAQ](https://www.somethingawful.com/news/credit-chip-confusion/)
+* [Black Ops: Thanks for the Desk by the Door](https://www.somethingawful.com/news/black-cia-operative/)
+* [A Sink Cat, A Cool Rug](https://www.somethingawful.com/comedy-goldmine/sink-cat-rug/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
