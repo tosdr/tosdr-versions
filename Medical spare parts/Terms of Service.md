@@ -400,6 +400,9 @@ or [sign up](https://www.medicalspareparts.com/account/login "Sign up")
 * [Customization](https://msp-medical.com/customization/ "Customization")
 * close
     
+* [News](https://msp-medical.com/news/ "News")
+* close
+    
 
 We are your partner in Reliable Spare Parts
 
@@ -433,7 +436,7 @@ Currencies: Eur
 
 About MSP
 
-[About MSP](https://msp-medical.com/general/about-msp/ "About MSP") [Terms & Conditions](https://msp-medical.com/general/terms-conditions/ "Terms & Conditions ") [Privacy](https://msp-medical.com/general/privacy/ "Privacy") [Right of rescission](https://msp-medical.com/general/right-of-rescission/ "Right of rescission") [News](https://msp-medical.com/general/news/ "News") [Our assortment](https://msp-medical.com/general/our-assortment/ "Our assortment") [Careers](https://msp-medical.com/general/careers/ "Careers")
+[About MSP](https://msp-medical.com/general/about-msp/ "About MSP") [Terms & Conditions](https://msp-medical.com/general/terms-conditions/ "Terms & Conditions ") [Privacy](https://msp-medical.com/general/privacy/ "Privacy") [News](https://www.medicalspareparts.com/news/ "News") [Right of rescission](https://msp-medical.com/general/right-of-rescission/ "Right of rescission") [Our assortment](https://msp-medical.com/general/our-assortment/ "Our assortment") [Careers](https://msp-medical.com/general/careers/ "Careers")
 
 [Your account](https://www.medicalspareparts.com/account "Overview")
 
@@ -444,6 +447,7 @@ Categories
 * [Disposables](https://msp-medical.com/disposables/ "Disposables")
 * [Battery Technology](https://msp-medical.com/battery-technology/ "Battery Technology")
 * [Customization](https://msp-medical.com/customization/ "Customization")
+* [News](https://msp-medical.com/news/ "News")
 
 ![Face, Head, Person, Smile, Woman](https://msp-medical.com/media/e2/51/70/1718614711/nurse4.jpg?ts=1718618092)
 
@@ -523,7 +527,7 @@ Art. nr.: MSP-HH-AH-10910
 
 incl. VAT €136.67 Excl. VAT €112.95
 
-1 2 3 4 5
+1 2 3 4
 
         
 
@@ -668,8 +672,8 @@ General
 * [About MSP](https://msp-medical.com/general/about-msp/ "About MSP")
 * [Terms & Conditions](https://msp-medical.com/general/terms-conditions/ "Terms & Conditions ")
 * [Privacy](https://msp-medical.com/general/privacy/ "Privacy")
+* [News](https://www.medicalspareparts.com/news/ "News")
 * [Right of rescission](https://msp-medical.com/general/right-of-rescission/ "Right of rescission")
-* [News](https://msp-medical.com/general/news/ "News")
 * [Our assortment](https://msp-medical.com/general/our-assortment/ "Our assortment")
 * [Careers](https://msp-medical.com/general/careers/ "Careers")
 
@@ -729,8 +733,8 @@ Reviews
 * [About MSP](https://msp-medical.com/general/about-msp/ "About MSP")
 * [Terms & Conditions](https://msp-medical.com/general/terms-conditions/ "Terms & Conditions ")
 * [Privacy](https://msp-medical.com/general/privacy/ "Privacy")
+* [News](https://www.medicalspareparts.com/news/ "News")
 * [Right of rescission](https://msp-medical.com/general/right-of-rescission/ "Right of rescission")
-* [News](https://msp-medical.com/general/news/ "News")
 * [Our assortment](https://msp-medical.com/general/our-assortment/ "Our assortment")
 * [Careers](https://msp-medical.com/general/careers/ "Careers")
 
