@@ -114,7 +114,7 @@ More Stories
     
     ### [5 Kristen Stewart Looks That Bella Swan Would've Hated](https://www.women.com/1685585/kristen-stewart-looks-bella-swan-twilight-would-hate/)
     
-    Kristen Stewart may have no problem making a bold fashion statement, but her "Twilight" character couldn't be more different.
+    We get that K.Stew and Bella probably wouldn't have shared a closet, but let's say some of the actor's looks would send her "Twilight" character into hiding.
     
     By Bernadette Roe [Read More](https://www.women.com/1685585/kristen-stewart-looks-bella-swan-twilight-would-hate/)
     
