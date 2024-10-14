@@ -1,6 +1,6 @@
 [WebCatalog![WebCatalog](/_next/static/media/logo-white.48337c03.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://webcatalog.io/en/apps/)
 
-[Apps](https://webcatalog.io/en/apps/)[Games](https://webcatalog.io/en/games/)[Spaces](https://webcatalog.io/en/spaces/)[Download](https://webcatalog.io/en/desktop/)[Pricing](https://webcatalog.io/en/pricing/)[Help](https://webcatalog.io/en/help/)
+[Apps](https://webcatalog.io/en/apps/)[Games](https://webcatalog.io/en/games/)[Categories](https://webcatalog.io/en/categories/)
 
 Sign inAppearance
 
@@ -201,29 +201,13 @@ Explore
 
 Desktop
 
-[Download](https://webcatalog.io/en/desktop/)
+[Download](https://desktop.webcatalog.io/)
 
 [Spaces](https://webcatalog.io/en/spaces/)
-
-[Pricing](https://webcatalog.io/en/pricing/)
-
-[What's New](https://webcatalog.io/en/changelog/)
-
-Download
-
-[macOS](https://webcatalog.io/en/desktop/macos/)
-
-[Windows](https://webcatalog.io/en/desktop/windows/)
 
 Support
 
 [Help](https://webcatalog.io/en/help/)
-
-[Docs](https://docs.webcatalog.io/)
-
-[Account](https://webcatalog.io/en/account/)
-
-[License Key Recovery](https://webcatalog.io/en/license-recovery/)
 
 [System Status](https://status.webcatalog.io/)
 
@@ -255,7 +239,7 @@ WebCatalog](https://webcatalog.io/en/)
 
 [WebCatalog
 
-WebCatalog Desktop](https://webcatalog.io/en/desktop/)
+WebCatalog Desktop](https://desktop.webcatalog.io/)
 
 [Singlebox
 
