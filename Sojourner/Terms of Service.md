@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-46baa8d83dd5fa02630cc6017ca570e8
+096a6b00d44a2a31a2ecb51f429a62fa
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm round blue Czech glass beads](https://sojourner.biz/images/cache/glass/GL0348.200.jpg)](https://sojourner.biz/beads/glass/8-mm-round-blue-czech-glass-beads.html "8 mm round blue Czech glass beads")
+[![Large fancy agate flat oval beads](https://sojourner.biz/images/cache/stone/STN015.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/large-fancy-agate-flat-oval-beads.html "Large fancy agate flat oval beads")
 
-#### [8 mm round blue Czech glass beads](https://sojourner.biz/beads/glass/8-mm-round-blue-czech-glass-beads.html "8 mm round blue Czech glass beads")
+#### [Large fancy agate flat oval beads](https://sojourner.biz/beads/stone-m-z/other-stones/large-fancy-agate-flat-oval-beads.html "Large fancy agate flat oval beads")
 
-$2.00
+$18.00
 
 ### Best Sellers
 
@@ -168,8 +168,8 @@ $2.00
     $17.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Black and white playful cat sauce dish](https://sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
-    $7.00
+10. [Turquoise bar toggle clasp](https://sojourner.biz/clasps/toggles/turquoise-bar-toggle-clasp.html "Turquoise bar toggle clasp")  
+    $13.50
 
 [Top](#)
 
