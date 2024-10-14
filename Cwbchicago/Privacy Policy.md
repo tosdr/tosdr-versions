@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Judge-David-Kelly-326x245.jpg)](https://cwbchicago.com/2024/10/the-denyin-king-when-prosecutors-ask-judges-to-detain-felony-defendants-one-judge-says-no-more-than-any-other.html "The denyin’ king? When prosecutors ask judges to detain felony defendants, one judge says ‘no’ more than any other")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Jacob-Gies-left-and-Roberto-Nieves--326x245.jpg)](https://cwbchicago.com/2024/10/charges-dropped-against-1-of-2-cops-charged-with-slashing-tires-at-puerto-rican-fest.html "Charges dropped against 1 of 2 cops charged with slashing tires at Puerto Rican Fest")
 
 Citywide
 
-### [The denyin’ king? When prosecutors ask judges to detain felony defendants, one judge says ‘no’ more than any other](https://cwbchicago.com/2024/10/the-denyin-king-when-prosecutors-ask-judges-to-detain-felony-defendants-one-judge-says-no-more-than-any-other.html "The denyin’ king? When prosecutors ask judges to detain felony defendants, one judge says ‘no’ more than any other")
+### [Charges dropped against 1 of 2 cops charged with slashing tires at Puerto Rican Fest](https://cwbchicago.com/2024/10/charges-dropped-against-1-of-2-cops-charged-with-slashing-tires-at-puerto-rican-fest.html "Charges dropped against 1 of 2 cops charged with slashing tires at Puerto Rican Fest")
 
-[October 11, 2024 6:48 AM](https://cwbchicago.com/2024/10)
+[October 12, 2024 8:35 AM](https://cwbchicago.com/2024/10)
 
-In both Cook County and statewide, judges grant initial detention petitions roughly two times out of three. However, in Chicago, one judge is far less likely to put a defendant behind bars. In fact, he grants less than half of the petitions prosecutors present in his court.[](https://cwbchicago.com/2024/10/the-denyin-king-when-prosecutors-ask-judges-to-detain-felony-defendants-one-judge-says-no-more-than-any-other.html "The denyin’ king? When prosecutors ask judges to detain felony defendants, one judge says ‘no’ more than any other")
+Barely a month after two Chicago cops, including a high-ranking deputy chief, were charged with slashing the tires of a vehicle while on duty at Puerto Rican Fest, charges have been dropped against one of them.[](https://cwbchicago.com/2024/10/charges-dropped-against-1-of-2-cops-charged-with-slashing-tires-at-puerto-rican-fest.html "Charges dropped against 1 of 2 cops charged with slashing tires at Puerto Rican Fest")
 
-[![](https://cwbchicago.com/wp-content/uploads/2023/06/Jeffery-Morgan-tesla-326x245.jpg)](https://cwbchicago.com/2024/10/serial-car-burglar-foiled-by-face-tats-and-in-car-cameras-gets-9-year-sentence.html "Serial car burglar, foiled by face tats and in-car cameras, gets 9-year sentence")
+[![](https://cwbchicago.com/wp-content/uploads/2023/01/1600-w-juneway--326x245.jpg)](https://cwbchicago.com/2024/10/boy-16-shot-in-rogers-park-alley.html "Boy, 16, shot in Rogers Park alley")
 
-West Loop
+Rogers Park
 
-### [Serial car burglar, foiled by face tats and in-car cameras, gets 9-year sentence](https://cwbchicago.com/2024/10/serial-car-burglar-foiled-by-face-tats-and-in-car-cameras-gets-9-year-sentence.html "Serial car burglar, foiled by face tats and in-car cameras, gets 9-year sentence")
+### [Boy, 16, shot in Rogers Park alley](https://cwbchicago.com/2024/10/boy-16-shot-in-rogers-park-alley.html "Boy, 16, shot in Rogers Park alley")
 
-[October 10, 2024 7:26 PM](https://cwbchicago.com/2024/10)
+[October 12, 2024 7:41 AM](https://cwbchicago.com/2024/10)
 
-A five-time convicted felon has picked up two more convictions after pleading guilty to a string of car burglaries, mostly in the West Loop. Jeffery Morgan’s decision to have distinctive facial tattoos and to occasionally target Teslas, that take pictures of everyone who enters the car, contributed to his demise.[](https://cwbchicago.com/2024/10/serial-car-burglar-foiled-by-face-tats-and-in-car-cameras-gets-9-year-sentence.html "Serial car burglar, foiled by face tats and in-car cameras, gets 9-year sentence")
+A 16-year-old boy was shot on Friday evening in Rogers Park, according to Chicago police. He is the sixth person shot in the neighborhood since Labor Day.[](https://cwbchicago.com/2024/10/boy-16-shot-in-rogers-park-alley.html "Boy, 16, shot in Rogers Park alley")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/William-Garner-Cobb-Hall-326x245.jpg)](https://cwbchicago.com/2024/10/burglar-stole-brass-urinal-fittings-at-u-of-c-causing-floods-elevator-damage-prosecutors-say.html "Burglar stole brass urinal fittings at U of C, causing floods and elevator damage, prosecutors say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Amazon-dog-326x245.jpg)](https://cwbchicago.com/2024/10/man-finds-possible-human-head-in-a-box-while-walking-dog-on-west-side.html "Man walking dog finds human head inside an Amazon box")
 
-Hyde Park
+East Garfield Park
 
-### [Burglar stole brass urinal fittings at U of C, causing floods and elevator damage, prosecutors say](https://cwbchicago.com/2024/10/burglar-stole-brass-urinal-fittings-at-u-of-c-causing-floods-elevator-damage-prosecutors-say.html "Burglar stole brass urinal fittings at U of C, causing floods and elevator damage, prosecutors say")
+### [Man walking dog finds human head inside an Amazon box](https://cwbchicago.com/2024/10/man-finds-possible-human-head-in-a-box-while-walking-dog-on-west-side.html "Man walking dog finds human head inside an Amazon box")
 
-[October 10, 2024 6:48 AM](https://cwbchicago.com/2024/10)
+[October 11, 2024 8:00 AM](https://cwbchicago.com/2024/10)
 
-You’ve heard the phrase, “People will steal anything that’s not nailed down.” As insatiable consumers of Chicago police report narratives, we can confirm the phrase is true. [](https://cwbchicago.com/2024/10/burglar-stole-brass-urinal-fittings-at-u-of-c-causing-floods-elevator-damage-prosecutors-say.html "Burglar stole brass urinal fittings at U of C, causing floods and elevator damage, prosecutors say")
+Chicago police are conducting a death investigation after a man found an Amazon box containing an object that may be a human head on the West Side yesterday evening.[](https://cwbchicago.com/2024/10/man-finds-possible-human-head-in-a-box-while-walking-dog-on-west-side.html "Man walking dog finds human head inside an Amazon box")
 
 Search
 
