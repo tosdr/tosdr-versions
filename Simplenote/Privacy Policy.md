@@ -366,6 +366,8 @@ That’s it! Thanks for reading.
 * _October 29, 2009:_ Added Comments paragraph to explain Akismet comment storage policy.
 * _March 10, 2009:_ Added Ads paragraph to alert users that ads from third parties may use cookies.
 
+### _Related_
+
 ### Sections
 
 ▼
@@ -433,7 +435,7 @@ That’s it! Thanks for reading.
     
     *  [![](https://secure.gravatar.com/blavatar/9fbedcd4e26870fff807f789281aecac367fdf8212a9f08297d1510c2b4b0335?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png) Automattic](https://automattic.com/)
     
-    Join 10,374 other subscribers
+    Join 10,377 other subscribers
     
         
     
@@ -442,7 +444,6 @@ That’s it! Thanks for reading.
     * Already have a WordPress.com account? [Log in now.](https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fautomattic.com%252Fprivacy%252F)
         
     
-* [Privacy](#)
 * *  [![](https://secure.gravatar.com/blavatar/9fbedcd4e26870fff807f789281aecac367fdf8212a9f08297d1510c2b4b0335?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png) Automattic](https://automattic.com/)
     * [Customize](https://automattic.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fautomattic.wordpress.com%2Fprivacy%2F)
     * Subscribe Subscribed
