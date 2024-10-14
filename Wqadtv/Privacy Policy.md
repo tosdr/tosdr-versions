@@ -30,14 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WTOL/images/c940bce7-6a70-4256-9e2e-2d3af4927328/c940bce7-6a70-4256-9e2e-2d3af4927328_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/c940bce7-6a70-4256-9e2e-2d3af4927328/c940bce7-6a70-4256-9e2e-2d3af4927328_360x203.jpg)](https://www.wqad.com/article/news/local/person-hit-davenport-sunday-night-crash/526-ba75ec19-1199-4c6a-b6a8-e8c498fcaa53)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/fd541a10-b64f-4d71-910e-fdc7ac7386e8/20241014T205943/fd541a10-b64f-4d71-910e-fdc7ac7386e8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fd541a10-b64f-4d71-910e-fdc7ac7386e8/20241014T205943/fd541a10-b64f-4d71-910e-fdc7ac7386e8_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/starry-night-gala-fosters-voice-the-gray-matters-collective/526-de0a94df-c039-42e4-bfb8-c7888b80419e)
         
-        #### [Pedestrian seriously injured after being hit by vehicle in Davenport](https://www.wqad.com/article/news/local/person-hit-davenport-sunday-night-crash/526-ba75ec19-1199-4c6a-b6a8-e8c498fcaa53)
+        #### [Starry Night Gala raising money for local mental health services](https://www.wqad.com/article/news/local/the-current/starry-night-gala-fosters-voice-the-gray-matters-collective/526-de0a94df-c039-42e4-bfb8-c7888b80419e) [![](https://media.tegna-media.com/assets/WQAD/images/fd541a10-b64f-4d71-910e-fdc7ac7386e8/20241014T205943/fd541a10-b64f-4d71-910e-fdc7ac7386e8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fd541a10-b64f-4d71-910e-fdc7ac7386e8/20241014T205943/fd541a10-b64f-4d71-910e-fdc7ac7386e8_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/starry-night-gala-fosters-voice-the-gray-matters-collective/526-de0a94df-c039-42e4-bfb8-c7888b80419e)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/62b27568-668e-4219-867d-0d41db052aab/20241013T215733/62b27568-668e-4219-867d-0d41db052aab_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/62b27568-668e-4219-867d-0d41db052aab/20241013T215733/62b27568-668e-4219-867d-0d41db052aab_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/lake-potter-do-not-swim-signs-rock-island-akwaaba-qc/526-dc117b65-4f4f-4208-9efb-ab9f0135fded)
+        #### [Starry Night Gala raising money for Quad City mental health services](https://www.wqad.com/article/news/local/the-current/starry-night-gala-fosters-voice-the-gray-matters-collective/526-de0a94df-c039-42e4-bfb8-c7888b80419e)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c4c5cbc1-275c-4c10-ab82-b3d842788e8f/20241014T215036/c4c5cbc1-275c-4c10-ab82-b3d842788e8f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c4c5cbc1-275c-4c10-ab82-b3d842788e8f/20241014T215036/c4c5cbc1-275c-4c10-ab82-b3d842788e8f_360x203.jpg)](https://www.wqad.com/article/news/local/adcraft-opening-headquarters-clinton/526-9601d0f1-e76a-4171-bc69-f135e4510c24)
         
-        #### [Nonprofit that helps QC immigrants launches public safety campaign at Lake Potter in Rock Island](https://www.wqad.com/article/news/local/public-safety/lake-potter-do-not-swim-signs-rock-island-akwaaba-qc/526-dc117b65-4f4f-4208-9efb-ab9f0135fded)
+        #### [Adcraft opening new headquarters in Clinton](https://www.wqad.com/article/news/local/adcraft-opening-headquarters-clinton/526-9601d0f1-e76a-4171-bc69-f135e4510c24) [![](https://media.tegna-media.com/assets/WQAD/images/c4c5cbc1-275c-4c10-ab82-b3d842788e8f/20241014T215036/c4c5cbc1-275c-4c10-ab82-b3d842788e8f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c4c5cbc1-275c-4c10-ab82-b3d842788e8f/20241014T215036/c4c5cbc1-275c-4c10-ab82-b3d842788e8f_360x203.jpg)](https://www.wqad.com/article/news/local/adcraft-opening-headquarters-clinton/526-9601d0f1-e76a-4171-bc69-f135e4510c24)
         
+        #### [New Adcraft headquarters coming to Clinton](https://www.wqad.com/article/news/local/adcraft-opening-headquarters-clinton/526-9601d0f1-e76a-4171-bc69-f135e4510c24)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,14 +58,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ec607d20-a93e-4d0d-b2fb-0eed22a70153/20241014T130618/ec607d20-a93e-4d0d-b2fb-0eed22a70153_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ec607d20-a93e-4d0d-b2fb-0eed22a70153/20241014T130618/ec607d20-a93e-4d0d-b2fb-0eed22a70153_360x203.jpg)](https://www.wqad.com/article/weather/ask-andrew/northern-lights-visible-solar-storms/526-5e34f7de-1234-44de-8a2f-b1bb212e6363)
+    *  [![](https://media.tegna-media.com/assets/WCNC/images/c393430f-1d3a-40db-8107-56df9ccf7efa/20241008T155038/c393430f-1d3a-40db-8107-56df9ccf7efa_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/c393430f-1d3a-40db-8107-56df9ccf7efa/20241008T155038/c393430f-1d3a-40db-8107-56df9ccf7efa_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/helene-help-dashboard-western-nc-10-11-2024/275-702391c8-9e44-4dbc-8d83-f5d88fe9bc42)
         
-        #### [Why we'll likely see more northern lights through 2025](https://www.wqad.com/article/weather/ask-andrew/northern-lights-visible-solar-storms/526-5e34f7de-1234-44de-8a2f-b1bb212e6363) [![](https://media.tegna-media.com/assets/WQAD/images/ec607d20-a93e-4d0d-b2fb-0eed22a70153/20241014T130618/ec607d20-a93e-4d0d-b2fb-0eed22a70153_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ec607d20-a93e-4d0d-b2fb-0eed22a70153/20241014T130618/ec607d20-a93e-4d0d-b2fb-0eed22a70153_360x203.jpg)](https://www.wqad.com/article/weather/ask-andrew/northern-lights-visible-solar-storms/526-5e34f7de-1234-44de-8a2f-b1bb212e6363)
+        #### [Website launched to prioritize what donation centers actually need in western North Carolina](https://www.wqad.com/article/weather/hurricane/helene/helene-help-dashboard-western-nc-10-11-2024/275-702391c8-9e44-4dbc-8d83-f5d88fe9bc42)
         
-        #### [Solar storms likely to continue through 2024. Here's why.](https://www.wqad.com/article/weather/ask-andrew/northern-lights-visible-solar-storms/526-5e34f7de-1234-44de-8a2f-b1bb212e6363)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/732f1c61-e752-4126-bb5b-836a5ac33088/20241014T121241/732f1c61-e752-4126-bb5b-836a5ac33088_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/732f1c61-e752-4126-bb5b-836a5ac33088/20241014T121241/732f1c61-e752-4126-bb5b-836a5ac33088_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Frost and freeze conditions likely this week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [First frost and freeze of the season ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -87,9 +88,9 @@ Navigation
 
 Davenport, IA »
 
-53°
+52°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
