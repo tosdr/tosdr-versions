@@ -639,7 +639,7 @@ Contact Us
 
 [Privacy Policy](https://www.ifit.com/privacy-policy) [Cookie Policy](https://www.nordictrack.com/cookie-policy) [Mobile Terms and Conditions](https://www.ifit.com/mobile-terms-and-conditions) [Membership Policy](https://www.ifit.com/terms-of-membership) [Do not sell or share my personal information](https://www.nordictrack.com/cookie-policy)
 
-Pricing valid only within the Continental U.S. Site Last Updated on 13 Oct 2024 | Copyright ©2024 iFIT Inc.
+Pricing valid only within the Continental U.S. Site Last Updated on 14 Oct 2024 | Copyright ©2024 iFIT Inc.
 
 CLOSE
 
