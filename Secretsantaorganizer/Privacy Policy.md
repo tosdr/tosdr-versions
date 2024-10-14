@@ -60,7 +60,7 @@ You have the right to request access to all the personal data that we process ab
 
 You have the right to request that any personal data about you that is incorrect or inaccurate be corrected free of charge. If you have registered on our Website, you can personally correct much of such data through your profile. If such a request is submitted, you must also enclose proof showing that the personal data for which you request correction is incorrect.
 
-You have the right to withdraw previously granted permission for the processing of your personal data. You can withdraw your permission at all times by contacting us through our [contact form](https://www.secretsantaorganizer.com/contact).
+You have the right to withdraw previously granted permission for the processing of your personal data. You can withdraw your permission at all times by contacting us through our [contact form](https://www.secretsantaorganizer.com/en/contact).
 
 You have the right to request that personal data relating to you be removed if this is no longer needed in the light of the objectives that are outlined in this Privacy Policy or if you withdraw your processing permission. However, you must consider that a removal request to us will be assessed in the light of statutory or regulatory obligations or administrative or judicial orders, which may prevent us from removing the respective personal data.
 
@@ -73,10 +73,10 @@ If your personal data is processed on the basis of permission or on the basis of
 Privacy Contact Information
 ---------------------------
 
-If you wish to submit a request to exercise one or more of the above-mentioned rights, you can contact us through our [contact form](https://www.secretsantaorganizer.com/contact). Such request must clearly state what right you wish to exercise and why.We can ask you to provide proof of your identity . We will notify you immediately when such request has been received. If it appears that the request is founded, we will grant the request as quickly as is reasonably possible and no later than thirty (30) days after the request has been received.
+If you wish to submit a request to exercise one or more of the above-mentioned rights, you can contact us through our [contact form](https://www.secretsantaorganizer.com/en/contact). Such request must clearly state what right you wish to exercise and why.We can ask you to provide proof of your identity . We will notify you immediately when such request has been received. If it appears that the request is founded, we will grant the request as quickly as is reasonably possible and no later than thirty (30) days after the request has been received.
 
-If you have another question or complaint regarding the processing of your personal data, you can always contact us via our [contact form](https://www.secretsantaorganizer.com/contact). If you are still dissatisfied with our answer, then you are at liberty to file a complaint with the with the competent data protection authority (depending on your country of residence).
+If you have another question or complaint regarding the processing of your personal data, you can always contact us via our [contact form](https://www.secretsantaorganizer.com/en/contact). If you are still dissatisfied with our answer, then you are at liberty to file a complaint with the with the competent data protection authority (depending on your country of residence).
 
-[Need help? Got questions? Read the FAQ!](https://www.secretsantaorganizer.com/faq)
+[Need help? Got questions? Read the FAQ!](https://www.secretsantaorganizer.com/en/faq)
 
-[Privacy Policy](https://www.secretsantaorganizer.com/privacy) [Cookie Policy](https://www.secretsantaorganizer.com/cookie) [ECO Friendly Tips](https://www.secretsantaorganizer.com/eco-friendly-tips) [ECO Friendly Party](https://www.secretsantaorganizer.com/eco-friendly-party) [Top 10 Gifts Budget](https://www.secretsantaorganizer.com/top-10-gifts-budget) [Top 10 Gift Ideas](https://www.secretsantaorganizer.com/top-10-gifts-ideas)
+[Privacy Policy](https://www.secretsantaorganizer.com/en/privacy) [Cookie Policy](https://www.secretsantaorganizer.com/en/cookie) [ECO Friendly Tips](https://www.secretsantaorganizer.com/en/eco-friendly-tips) [ECO Friendly Party](https://www.secretsantaorganizer.com/en/eco-friendly-party) [Top 10 Gifts Budget](https://www.secretsantaorganizer.com/en/top-10-gifts-budget) [Top 10 Gift Ideas](https://www.secretsantaorganizer.com/en/top-10-gifts-ideas)
