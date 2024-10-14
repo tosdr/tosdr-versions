@@ -267,7 +267,7 @@ Templates
 
 1. Legalchevron-up icon
     
-    [User Terms of Service](https://asana.com/terms/terms-of-service)[Subscriber Terms](https://asana.com/terms/subscriber-terms)[Public Entity Amendment to Subscriber Terms](https://asana.com/terms/amendment)[API Terms](https://asana.com/terms/api-terms)[Developer Sandbox Terms](https://asana.com/terms/developer-sandbox-terms)[DMCA Policy](https://asana.com/terms/dmca-policy)[Modern Slavery Statement](https://asana.com/terms/modern-slavery-statement)
+    [User Terms of Service](https://asana.com/terms/terms-of-service)[Subscriber Terms](https://asana.com/terms/subscriber-terms)[Public Entity Amendment to Subscriber Terms](https://asana.com/terms/amendment)[API Terms](https://asana.com/terms/api-terms)[Developer Sandbox Terms](https://asana.com/terms/developer-sandbox-terms)[DMCA Policy](https://asana.com/terms/dmca-policy)[Modern Slavery Statement](https://asana.com/terms/modern-slavery-statement)[Product-Specific Terms](https://asana.com/terms/asana-product-specific-terms)
     
 2. Privacychevron-up icon
     
@@ -278,11 +278,11 @@ Templates
     [Data Security Standards](https://asana.com/terms/security-standards)
     
 
-Select an optionUser Terms of ServiceSubscriber TermsPublic Entity Amendment to Subscriber TermsAPI TermsDeveloper Sandbox TermsDMCA PolicyModern Slavery StatementPrivacy StatementPrivacy CommitmentData Processing AddendumSubprocessorsBusiness Associate Addendum (HIPAA)Cookies NoticeLaw Enforcement GuidelinesData Security Standards
+Select an optionUser Terms of ServiceSubscriber TermsPublic Entity Amendment to Subscriber TermsAPI TermsDeveloper Sandbox TermsDMCA PolicyModern Slavery StatementProduct-Specific TermsPrivacy StatementPrivacy CommitmentData Processing AddendumSubprocessorsBusiness Associate Addendum (HIPAA)Cookies NoticeLaw Enforcement GuidelinesData Security Standards
 
 section icon
 
-Select an optionUser Terms of ServiceSubscriber TermsPublic Entity Amendment to Subscriber TermsAPI TermsDeveloper Sandbox TermsDMCA PolicyModern Slavery StatementPrivacy StatementPrivacy CommitmentData Processing AddendumSubprocessorsBusiness Associate Addendum (HIPAA)Cookies NoticeLaw Enforcement GuidelinesData Security Standards
+Select an optionUser Terms of ServiceSubscriber TermsPublic Entity Amendment to Subscriber TermsAPI TermsDeveloper Sandbox TermsDMCA PolicyModern Slavery StatementProduct-Specific TermsPrivacy StatementPrivacy CommitmentData Processing AddendumSubprocessorsBusiness Associate Addendum (HIPAA)Cookies NoticeLaw Enforcement GuidelinesData Security Standards
 
 section icon
 
