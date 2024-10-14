@@ -6,7 +6,9 @@ My Bag
 
 CheckoutCheckout
 
-Continue Shopping
+Pre-order
+
+Edit
 
 Subtotal
 
