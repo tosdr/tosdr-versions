@@ -86,7 +86,7 @@ ADD TO TOTE
 
 $28.00 $28.00
 
-Black Tea - $28 Dark Chocolate - $28 Blackberry - $28
+Dark Chocolate - $28 Black Tea - $28 Blackberry - $28
 
 Black Tea
 
@@ -368,7 +368,7 @@ ADD TO TOTE
 
 ### [Green Tea EGCG Concentrate Cream](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
 
-637 reviews (637)
+689 reviews (689)
 
 $48.00
 
@@ -456,7 +456,7 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5289 reviews (5289)
+5290 reviews (5290)
 
 $28.00 $28.00
 
