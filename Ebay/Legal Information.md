@@ -1,4 +1,4 @@
-841226607359ccd07821-d372-46c6-8baa-698eb2305208:1928a0196e419997
+841262461779e939f7a7-2f5d-4773-acc2-5e9edd89e9a8:1928b4a4c5819997
 
 [Skip to main content](#mainContent)
 
@@ -12,6 +12,7 @@
 * [Brand Outlet](https://www.ebay.com/b/Brand-Outlet/bn_7115532402)
 * [Gift Cards](https://www.ebay.com/giftcards)
 * [Help & Contact](https://www.ebay.com/help/home)
+* [![Get the coupon](https://ir.ebaystatic.com/cr/v/c01/EB-20254_NA_091624_RM_CustomerMoments_CountdowntoHolidays_SFC_RW42_Doodle_150x30_FINAL3.jpg)](https://www.ebay.com/e/daily-deals/24-rw42-countdown-main)
 
 * [Sell](https://www.ebay.com/sl/sell)
 * [Watchlist](https://www.ebay.com/mye/myebay/watchlist "Watchlist")[Expand Watch List](#gh-wl-click)
