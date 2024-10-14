@@ -542,8 +542,8 @@ Werde jetzt Lidl Insider & sichere dir dein Willkommensgeschenk⁷!
 * [![Download Lidl Playstore](/static/assets/b3c6c459-6da4-4dd7-87bd-2b979c8ab561.png)](https://app.adjust.com/8cub0z?campaign=website&adgroup=footerbadges&fallback=https://play.google.com/store/apps/details?id=de.sec.mobile "Download Lidl Playstore")
 
 * [![Offizieller Premium-Partner des DHB](/static/assets/c2c0806f-87d2-49fe-a638-1ff839af83a3.png)](https://www.lidl.de/c/lebensmittelpartner-des-dhb/s10007398 "Lidl ist Offizieller Premium-Partner des DHB")
-* [![Bester Online-Shop | Händler des Jahres](/static/assets/Siegel_Bester_OS_HdJ_2023_lidlde_192px-646340.png)](https://www.lidl.de/c/awards/s10007372#10036522 "Bester Online-Shop | Händler des Jahres")
-* [![Retail Award in der Kategorie 'Discount' für Lidl!](/static/assets/retail-award2023-561840.jpg)](https://www.lidl.de/c/retail-award/s10005219 "Lidl bekommt den Retail Award in der Kategorie 'Discount'!")
+* [![Bester Online-Shop | Händler des Jahres](/static/assets/hdj-2024-OS_footer-1206564.png)](https://www.lidl.de/c/awards/s10007372#10036522 "Bester Online-Shop | Händler des Jahres")
+* [![Retail Award in der Kategorie 'Discount' für Lidl!](/static/assets/retail-award2024_footer-1205960.png)](https://www.lidl.de/c/retail-award/s10005219 "Lidl bekommt den Retail Award in der Kategorie 'Discount'!")
 * [![EHI Retail Institute zertifiziert](/static/assets/ffbd4eee-8d85-4f9f-9905-fc4f6241fbc2.png)](https://www.lidl.de/c/ehi-zertifikat/s10005401 "Lidl ist EHI Retail Institute zertifiziert!")
 * [![Lidl produziert nach Richtlinien der Öko-Verordnung!](/static/assets/d6fc779a-23fe-4316-8da2-df4b062adbb7.png)](https://unternehmen.lidl.de/verantwortung/gut-fuer-dich "Lidl produziert nach Richtlinien der Öko-Verordnung!")
 
