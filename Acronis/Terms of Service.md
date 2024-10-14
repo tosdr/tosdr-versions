@@ -114,7 +114,7 @@ Menu Close
     
     Cybersecurity
     
-    [Security + XDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/extended-detection-and-response/) [Security + EDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/security-edr/) [Managed Detection & Response (MDR)](https://www.acronis.com/en-us/products/cloud/cyber-protect/managed-detection-and-response/) [Email Security](https://www.acronis.com/en-us/products/cloud/cyber-protect/email-security/) [Collaboration App Security for M365](https://www.acronis.com/en-us/products/cloud/cyber-protect/m365-collaboration/) [Data Loss Prevention (DLP)](https://www.acronis.com/en-us/products/cloud/cyber-protect/data-loss-prevention/)
+    [Security + XDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/extended-detection-and-response/) [Security + EDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/security-edr/) [Managed Detection & Response (MDR)](https://www.acronis.com/en-us/products/cloud/cyber-protect/managed-detection-and-response/) [Email Security](https://www.acronis.com/en-us/products/cloud/cyber-protect/email-security/) [Collaboration App Security for M365](https://www.acronis.com/en-us/products/cloud/cyber-protect/m365-collaboration/) [Data Loss Prevention (DLP)](https://www.acronis.com/en-us/products/cloud/cyber-protect/data-loss-prevention/) [Security Awareness Training (SAT)](https://www.acronis.com/en-us/products/cloud/cyber-protect/security-awareness-training/)
     
     Data protection
     
@@ -137,7 +137,7 @@ Menu Close
     
     [Acronis Cyber Protect for Enterprise](https://www.acronis.com/en-us/products/cyber-protect-enterprise/)
     
-    NEW
+    New release
     
     The most secure backup and fastest recovery for Enterprise, designed specifically for multi-site, multi-generational and industrial IT.
     
@@ -153,8 +153,6 @@ Menu Close
     For home
     
     [Acronis True Image](https://www.acronis.com/en-us/products/true-image/)
-    
-    NEW RELEASE
     
     Formerly Acronis Home Office, it's the only personal cyber protection solution that delivers easy-to-use, integrated backup and anti-malware in one.
     
