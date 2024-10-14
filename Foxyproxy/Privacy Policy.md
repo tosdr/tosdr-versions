@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-This is my 8th year with Foxy Proxy and I love you guys!!
+I love your service and have helped numerous friends get set up with you.
 
-Shannon Latimer
+Sarah Hoffman
