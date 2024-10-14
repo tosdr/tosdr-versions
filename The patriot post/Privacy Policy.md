@@ -110,7 +110,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111040-philippians-1-9-2024-10-13)
+     [](https://patriotpost.us/memes/111041-honor-our-warriors-2024-10-14)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -143,15 +143,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
-“Labor to keep alive in your breast that little spark of celestial fire called conscience.” —George Washington (1748)
+“The boisterous sea of liberty is never without a wave.” —Thomas Jefferson (1820)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
