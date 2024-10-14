@@ -12,8 +12,8 @@ Menu
     
     TOP STORIES
     
-    * [Israel says 4 soldiers killed by Hezbollah drone attack while Israeli strike in Gaza leaves 20 dead](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-13-2024-a8cd5df3e2bb4ab08405a78251244bb2)
-    * [China holds large naval and air force exercises around Taiwan as a warning against independence](https://apnews.com/article/taiwan-china-military-drills-053fbadaf1125be4adfee7a7e6d1ce79)
+    * [Israeli strike on hospital tent camp kills 4 and ignites a fire that burns dozens](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-14-2024-70c8cf5a93eec9ea643a5fda5670da93)
+    * [China holds large military exercises surrounding Taiwan to warn against independence](https://apnews.com/article/taiwan-china-military-drills-053fbadaf1125be4adfee7a7e6d1ce79)
     * [North Korea is preparing to destroy northern parts of inter-Korean roads, Seoul says](https://apnews.com/article/north-korea-roads-destroy-tensions-drones-072433677101dc38e30bb65f908ec631)
     
     Newsletters
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Harris is laying out a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
     * [Trump's protests aside, his agenda has plenty of overlap with Project 2025](https://apnews.com/article/trump-project-2025-heritage-foundation-e2b1be71422f4afcfd4a397828f7cab6)
     * [This could have been a year of a federal court reckoning for Trump. Judges had other ideas](https://apnews.com/article/trump-federal-court-classified-documents-2020-election-302f87960dbd84d7be5daedaf03328d8)
-    * [Republican lawsuits target rules for overseas voters, but those ballots are already sent](https://apnews.com/article/overseas-voters-military-ballots-election-2024-republicans-a275299f6828ec0f54133ea5614ca0df)
     
     Newsletters
     
@@ -93,8 +93,8 @@ Menu
     TOP STORIES
     
     * [Dodgers tie postseason mark of 33 straight scoreless innings, top Mets 9-0 in NLCS opener](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-9e96e2d33bddac81dcf6aac6eeb3c0d6)
-    * [Lions pass rusher Aidan Hutchinson needs surgery after injury to left tibia vs. Cowboys](https://apnews.com/article/lions-aidan-hutchinson-injury-b5f91b7fef2430278c9dcdda1f014478)
     * [Joe Burrow runs for a TD and the Bengals' defense carries them past the Giants, 17-7](https://apnews.com/article/bengals-giants-score-eaa146eaf9410c9d9ba8ed7a3f9b36b3)
+    * [Jared Goff throws 3 TD passes, Lions win 47-9 and hand Cowboys another lopsided home loss](https://apnews.com/article/cowboys-lions-score-9dda5c6a7bab641e2281c717a07c15f6)
     
     Newsletters
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [Murder trial of tech consultant in death of Cash App founder Bob Lee begins](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
+    * [The Nobel economics prize is being announced in Sweden](https://apnews.com/article/nobel-economics-prize-db3bfe55ac17dd22cf82f1dd637bfa94)
     * [Changing OpenAI's nonprofit structure could have big consequences](https://apnews.com/article/openai-sam-altman-nonprofit-equity-investment-irs-1447dc7589ae312017f7141384b19535)
-    * [Documents show OpenAI's long journey from nonprofit to $157B valued company](https://apnews.com/article/openai-nonprofit-application-tax-exempt-status-ebf38549cdf0529fc5ec727e2815ed12)
-    * [Boeing will lay off 10% of its employees as a strike by factory workers cripples airplane production](https://apnews.com/article/boeing-layoffs-strike-airplane-factories-de637999cf525699577b42b72bff2a70)
     
 * [Science](https://apnews.com/science)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [Murder trial of tech consultant in death of Cash App founder Bob Lee begins](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
     * [Volunteers bring solar power to Hurricane Helene's disaster zone](https://apnews.com/article/hurricane-helene-solar-power-north-carolina-095b6ff5f1290ac7439f12b555f9845d)
     * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
-    * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -293,7 +293,7 @@ Menu
     
     TOP STORIES
     
-    * [El ejército israelí dice que 4 soldados murieron en ataque con drones de Hezbollah](https://apnews.com/world-news/general-news-efa99131cb37916528b98c0f5323c236)
+    * [Ataque israelí a campamento en un hospital deja 4 muertos y docenas de personas con quemaduras](https://apnews.com/world-news/general-news-4fc033c237a05cb507c8a74e69b714dd)
     * [Florida se reconstruye con determinación tras los huracanes, asume que habrá más tormentas](https://apnews.com/us-news/general-news-279e57c77ec36066f3843f46fb38db05)
     * [Harris critica a Trump por difundir desinformación sobre huracanes; Biden visita Florida](https://apnews.com/politics/general-news-ed0e30c054d1647d1d01a0e719eaa408)
     * [Otra consecuencia de la emigración y la crisis en Cuba: el aumento de mascotas abandonadas](https://apnews.com/world-news/general-news-eb93f7a538ab0ea00b9364dd706443f6)
@@ -458,8 +458,8 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel says 4 soldiers killed by Hezbollah drone attack while Israeli strike in Gaza leaves 20 dead](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-13-2024-a8cd5df3e2bb4ab08405a78251244bb2)
-    * [China holds large naval and air force exercises around Taiwan as a warning against independence](https://apnews.com/article/taiwan-china-military-drills-053fbadaf1125be4adfee7a7e6d1ce79)
+    * [Israeli strike on hospital tent camp kills 4 and ignites a fire that burns dozens](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-14-2024-70c8cf5a93eec9ea643a5fda5670da93)
+    * [China holds large military exercises surrounding Taiwan to warn against independence](https://apnews.com/article/taiwan-china-military-drills-053fbadaf1125be4adfee7a7e6d1ce79)
     * [North Korea is preparing to destroy northern parts of inter-Korean roads, Seoul says](https://apnews.com/article/north-korea-roads-destroy-tensions-drones-072433677101dc38e30bb65f908ec631)
     
     Newsletters
@@ -529,9 +529,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Harris is laying out a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
     * [Trump's protests aside, his agenda has plenty of overlap with Project 2025](https://apnews.com/article/trump-project-2025-heritage-foundation-e2b1be71422f4afcfd4a397828f7cab6)
     * [This could have been a year of a federal court reckoning for Trump. Judges had other ideas](https://apnews.com/article/trump-federal-court-classified-documents-2020-election-302f87960dbd84d7be5daedaf03328d8)
-    * [Republican lawsuits target rules for overseas voters, but those ballots are already sent](https://apnews.com/article/overseas-voters-military-ballots-election-2024-republicans-a275299f6828ec0f54133ea5614ca0df)
     
     Newsletters
     
@@ -560,8 +560,8 @@ Submit Search
     TOP STORIES
     
     * [Dodgers tie postseason mark of 33 straight scoreless innings, top Mets 9-0 in NLCS opener](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-9e96e2d33bddac81dcf6aac6eeb3c0d6)
-    * [Lions pass rusher Aidan Hutchinson needs surgery after injury to left tibia vs. Cowboys](https://apnews.com/article/lions-aidan-hutchinson-injury-b5f91b7fef2430278c9dcdda1f014478)
     * [Joe Burrow runs for a TD and the Bengals' defense carries them past the Giants, 17-7](https://apnews.com/article/bengals-giants-score-eaa146eaf9410c9d9ba8ed7a3f9b36b3)
+    * [Jared Goff throws 3 TD passes, Lions win 47-9 and hand Cowboys another lopsided home loss](https://apnews.com/article/cowboys-lions-score-9dda5c6a7bab641e2281c717a07c15f6)
     
     Newsletters
     
@@ -604,9 +604,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Murder trial of tech consultant in death of Cash App founder Bob Lee begins](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
+    * [The Nobel economics prize is being announced in Sweden](https://apnews.com/article/nobel-economics-prize-db3bfe55ac17dd22cf82f1dd637bfa94)
     * [Changing OpenAI's nonprofit structure could have big consequences](https://apnews.com/article/openai-sam-altman-nonprofit-equity-investment-irs-1447dc7589ae312017f7141384b19535)
-    * [Documents show OpenAI's long journey from nonprofit to $157B valued company](https://apnews.com/article/openai-nonprofit-application-tax-exempt-status-ebf38549cdf0529fc5ec727e2815ed12)
-    * [Boeing will lay off 10% of its employees as a strike by factory workers cripples airplane production](https://apnews.com/article/boeing-layoffs-strike-airplane-factories-de637999cf525699577b42b72bff2a70)
     
 * [Science](https://apnews.com/science)
     
@@ -753,9 +753,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Murder trial of tech consultant in death of Cash App founder Bob Lee begins](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
     * [Volunteers bring solar power to Hurricane Helene's disaster zone](https://apnews.com/article/hurricane-helene-solar-power-north-carolina-095b6ff5f1290ac7439f12b555f9845d)
     * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
-    * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -797,7 +797,7 @@ Submit Search
     
     TOP STORIES
     
-    * [El ejército israelí dice que 4 soldados murieron en ataque con drones de Hezbollah](https://apnews.com/world-news/general-news-efa99131cb37916528b98c0f5323c236)
+    * [Ataque israelí a campamento en un hospital deja 4 muertos y docenas de personas con quemaduras](https://apnews.com/world-news/general-news-4fc033c237a05cb507c8a74e69b714dd)
     * [Florida se reconstruye con determinación tras los huracanes, asume que habrá más tormentas](https://apnews.com/us-news/general-news-279e57c77ec36066f3843f46fb38db05)
     * [Harris critica a Trump por difundir desinformación sobre huracanes; Biden visita Florida](https://apnews.com/politics/general-news-ed0e30c054d1647d1d01a0e719eaa408)
     * [Otra consecuencia de la emigración y la crisis en Cuba: el aumento de mascotas abandonadas](https://apnews.com/world-news/general-news-eb93f7a538ab0ea00b9364dd706443f6)
