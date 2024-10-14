@@ -1,4 +1,4 @@
-[Until Oct 15th, get up to $50 of Bitcoin when purchasing a Ledger Wallet
+[Last chance to get up to $50 of Bitcoin rewards while supplies last
 
 See Offers](https://shop.ledger.com/pages/bitcoin-voucher-campaign)
 
