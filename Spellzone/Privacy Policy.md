@@ -303,11 +303,11 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
 [Children and Young Peoples’ Privacy Policy](https://www.spellzone.com/pages/policies/child-friendly-privacy-policy.cfm)
 
-"I ran the trial with a small group of students over three weeks before the summer holidays," she says. "I quickly saw the benefits, and signed up."
+One of the students has put in a huge amount of effort in completing Spellzone at least 3 times a week since his arrival with us in January. Looking at his scores after the latest GL testing, his standardised score has risen from 99 to 131. This is a truly phenomenal result. I just wanted to share the best result I have ever seen.
 
-**King's Leadership Academy, Warrington**
+**Terrie Penrose-Toms, Casterton College**
 
-[read more...](https://www.spellzone.com/pages/case-studies/kings-leadership-academy.cfm)
+[read more...](https://www.spellzone.com/pages/case-studies/casterton-college.cfm)
 
 ### Curriculum...
 
