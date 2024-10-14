@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Judge-David-Kelly-326x245.jpg)](https://cwbchicago.com/2024/10/the-denyin-king-when-prosecutors-ask-judges-to-detain-felony-defendants-one-judge-says-no-more-than-any-other.html "The denyin’ king? When prosecutors ask judges to detain felony defendants, one judge says ‘no’ more than any other")
+
+Citywide
+
+### [The denyin’ king? When prosecutors ask judges to detain felony defendants, one judge says ‘no’ more than any other](https://cwbchicago.com/2024/10/the-denyin-king-when-prosecutors-ask-judges-to-detain-felony-defendants-one-judge-says-no-more-than-any-other.html "The denyin’ king? When prosecutors ask judges to detain felony defendants, one judge says ‘no’ more than any other")
+
+[October 11, 2024 6:48 AM](https://cwbchicago.com/2024/10)
+
+In both Cook County and statewide, judges grant initial detention petitions roughly two times out of three. However, in Chicago, one judge is far less likely to put a defendant behind bars. In fact, he grants less than half of the petitions prosecutors present in his court.[](https://cwbchicago.com/2024/10/the-denyin-king-when-prosecutors-ask-judges-to-detain-felony-defendants-one-judge-says-no-more-than-any-other.html "The denyin’ king? When prosecutors ask judges to detain felony defendants, one judge says ‘no’ more than any other")
+
+[![](https://cwbchicago.com/wp-content/uploads/2023/06/Jeffery-Morgan-tesla-326x245.jpg)](https://cwbchicago.com/2024/10/serial-car-burglar-foiled-by-face-tats-and-in-car-cameras-gets-9-year-sentence.html "Serial car burglar, foiled by face tats and in-car cameras, gets 9-year sentence")
+
+West Loop
+
+### [Serial car burglar, foiled by face tats and in-car cameras, gets 9-year sentence](https://cwbchicago.com/2024/10/serial-car-burglar-foiled-by-face-tats-and-in-car-cameras-gets-9-year-sentence.html "Serial car burglar, foiled by face tats and in-car cameras, gets 9-year sentence")
+
+[October 10, 2024 7:26 PM](https://cwbchicago.com/2024/10)
+
+A five-time convicted felon has picked up two more convictions after pleading guilty to a string of car burglaries, mostly in the West Loop. Jeffery Morgan’s decision to have distinctive facial tattoos and to occasionally target Teslas, that take pictures of everyone who enters the car, contributed to his demise.[](https://cwbchicago.com/2024/10/serial-car-burglar-foiled-by-face-tats-and-in-car-cameras-gets-9-year-sentence.html "Serial car burglar, foiled by face tats and in-car cameras, gets 9-year sentence")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/William-Garner-Cobb-Hall-326x245.jpg)](https://cwbchicago.com/2024/10/burglar-stole-brass-urinal-fittings-at-u-of-c-causing-floods-elevator-damage-prosecutors-say.html "Burglar stole brass urinal fittings at U of C, causing floods and elevator damage, prosecutors say")
 
 Hyde Park
@@ -252,26 +272,6 @@ Hyde Park
 [October 10, 2024 6:48 AM](https://cwbchicago.com/2024/10)
 
 You’ve heard the phrase, “People will steal anything that’s not nailed down.” As insatiable consumers of Chicago police report narratives, we can confirm the phrase is true. [](https://cwbchicago.com/2024/10/burglar-stole-brass-urinal-fittings-at-u-of-c-causing-floods-elevator-damage-prosecutors-say.html "Burglar stole brass urinal fittings at U of C, causing floods and elevator damage, prosecutors say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/1100-block-of-West-Division-326x245.jpg)](https://cwbchicago.com/2024/10/robber-bites-off-chunk-of-victims-ear-on-goose-island.html "Robber bites off chunk of victim’s ear on Goose Island")
-
-Goose Island
-
-### [Robber bites off chunk of victim’s ear on Goose Island](https://cwbchicago.com/2024/10/robber-bites-off-chunk-of-victims-ear-on-goose-island.html "Robber bites off chunk of victim’s ear on Goose Island")
-
-[October 10, 2024 6:22 AM](https://cwbchicago.com/2024/10)
-
-A man is recovering after a would-be robber bit off a chunk of his ear while trying to steal his bike on Goose Island yesterday evening.[](https://cwbchicago.com/2024/10/robber-bites-off-chunk-of-victims-ear-on-goose-island.html "Robber bites off chunk of victim’s ear on Goose Island")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Mehdi-Medellel-1-326x245.jpg)](https://cwbchicago.com/2024/10/cashier-who-murdered-2-men-in-restaurant-dining-had-little-or-no-interaction-with-victims-prosecutors-say.html "Cashier who murdered 2 men in restaurant dining had little or no interaction with victims, prosecutors say")
-
-Ashburn
-
-### [Cashier who murdered 2 men in restaurant dining had little or no interaction with victims, prosecutors say](https://cwbchicago.com/2024/10/cashier-who-murdered-2-men-in-restaurant-dining-had-little-or-no-interaction-with-victims-prosecutors-say.html "Cashier who murdered 2 men in restaurant dining had little or no interaction with victims, prosecutors say")
-
-[October 10, 2024 5:17 AM](https://cwbchicago.com/2024/10)
-
-A fast food cashier had little or no contact with two men he shot to death in the restaurant’s dining room Monday night, prosecutors said as they filed charges in the case.[](https://cwbchicago.com/2024/10/cashier-who-murdered-2-men-in-restaurant-dining-had-little-or-no-interaction-with-victims-prosecutors-say.html "Cashier who murdered 2 men in restaurant dining had little or no interaction with victims, prosecutors say")
 
 Search
 
