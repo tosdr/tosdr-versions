@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Igreja Universal promove festa para mais de 600 crianças em Maceió; veja imagens ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/3/csm_festa_unisocial_baa002722c.jpeg)
+   [![Caso Braskem: MPF e MP/AL realizam inspeção nas obras de revitalização dos Flexais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/0/csm_inspecao_Flexais_MPF_AL_a374d9bc2b.jpeg)
 
-Projeto Unisocial
+cronograma ajustado
 
-Igreja Universal promove festa para mais de 600 crianças em Maceió; veja imagens](https://www.tnh1.com.br/noticia/nid/igreja-universal-promove-festa-para-mais-de-600-criancas-em-maceio-veja-imagens/ "Igreja Universal promove festa para mais de 600 crianças em Maceió; veja imagens ")   [![Massayó Kids reúne criançada no Estacionamento de Jaraguá](https://tnh1-cdn2.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/13/maceio_kids.png)
+Caso Braskem: MPF e MP/AL realizam inspeção nas obras de revitalização dos Flexais](https://www.tnh1.com.br/noticia/nid/caso-braskem-mpf-e-mpal-realizam-inspecao-nas-obras-de-revitalizacao-dos-flexais/ "Caso Braskem: MPF e MP/AL realizam inspeção nas obras de revitalização dos Flexais")   [![Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/3/csm_csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_b134dc68b3_393dcfe611.jpeg)
 
-Maceió
+Disputa por tráfico
 
-Massayó Kids reúne criançada no Estacionamento de Jaraguá](https://www.tnh1.com.br/noticia/nid/massayo-kids-reune-criancada-no-estacionamento-de-jaragua/ "Massayó Kids reúne criançada no Estacionamento de Jaraguá")   [![Governo apura denúncia contra agentes do Ronda no Bairro suspeitos de agressão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/c/csm_denuncia_ronda_553c3d92df.png)
+Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://www.tnh1.com.br/noticia/nid/homem-que-usou-farda-do-bope-para-assaltar-joalheria-e-indiciado-por-assassinato-no-prado/ "Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado")   [![Flagrante: loja divulga imagens de homem furtando produto em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/8/csm_suspeito-havan-reproducao_9f56d732ea.jpg)
 
-No benedito Bentes
+Veja vídeo
 
-Governo apura denúncia contra agentes do Ronda no Bairro suspeitos de agressão](https://www.tnh1.com.br/noticia/nid/governo-apura-denuncia-contra-agentes-do-ronda-no-bairro-suspeitos-de-agressao/ "Governo apura denúncia contra agentes do Ronda no Bairro suspeitos de agressão")   [![Corpo decapitado é encontrado dentro de estrutura em área de mata, no Tabuleiro do Martins](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/9/csm_Corpo_decapitado_e_encontrado_dentro_de_estrutura_em_area_de_mata__no_Tabuleiro_do_Martins_-_foto_Corpo_de__Bombeiros_a64e2629d8.jpeg)
+Flagrante: loja divulga imagens de homem furtando produto em Maceió](https://www.tnh1.com.br/noticia/nid/flagrante-loja-divulga-imagens-de-homem-furtando-produto-em-maceio/ "Flagrante: loja divulga imagens de homem furtando produto em Maceió")   [![Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/7/csm_toalha-tentativa-abuso-centro_eedcbcf62e.jpg)
 
-Maceió
+No Centro
 
-Corpo decapitado é encontrado dentro de estrutura em área de mata, no Tabuleiro do Martins](https://www.tnh1.com.br/noticia/nid/corpo-decapitado-e-encontrado-dentro-de-estrutura-em-area-de-mata-no-tabuleiro-do-martins/ "Corpo decapitado é encontrado dentro de estrutura em área de mata, no Tabuleiro do Martins")   [![Prefeitura destaca educação, espaços de lazer e cultura para as crianças de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_Prefeitura_destaca_educacao__espacos_de_lazer_e_cultura_para_as_criancas_de_Maceio_-_foto_Divulgacao_Secom_Maceio_b23f016db9.jpeg)
+Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://www.tnh1.com.br/noticia/nid/mulher-e-encontrada-com-sinais-de-violencia-apos-sofrer-tentativa-de-abuso-em-terreno-abandonado/ "Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado")   [![Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/1/csm_flagrante-ameaca-mulher-clima-bom_9ef6e110aa.jpg)
 
-12 de outubro
+No Clima Bom
 
-Prefeitura destaca educação, espaços de lazer e cultura para as crianças de Maceió](https://www.tnh1.com.br/noticia/nid/prefeitura-destaca-educacao-espacos-de-lazer-e-cultura-para-as-criancas-de-maceio/ "Prefeitura destaca educação, espaços de lazer e cultura para as crianças de Maceió")   [![Brinquedos, lanche e diversão: Igreja Universal prepara Dia das Crianças especial em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/5/csm_Unisocial_Kids_-_foto_Divulgacao__5__14390b4def.jpeg)
+Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte](https://www.tnh1.com.br/noticia/nid/video-homem-e-preso-apos-ser-flagrado-agredindo-a-ex-companheira-e-a-ameacando-de-morte/ "Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte")   [![Filho é preso por ameaçar a própria mãe após negar dar dinheiro a ele](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
 
-Unisocial Kids
+No Benedito Bentes
 
-Brinquedos, lanche e diversão: Igreja Universal prepara Dia das Crianças especial em Maceió](https://www.tnh1.com.br/noticia/nid/brinquedos-lanche-e-diversao-igreja-universal-prepara-dia-das-criancas-especial-em-maceio/ "Brinquedos, lanche e diversão: Igreja Universal prepara Dia das Crianças especial em Maceió")
+Filho é preso por ameaçar a própria mãe após negar dar dinheiro a ele](https://www.tnh1.com.br/noticia/nid/filho-e-preso-por-ameacar-a-propria-mae-apos-negar-dar-dinheiro-a-ele/ "Filho é preso por ameaçar a própria mãe após negar dar dinheiro a ele")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,31 +82,31 @@ HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro 
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/b/csm_droga_sertao_2f82aebbc8.png)
+   [![Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_colonia_perseguicao__2__c3447a2059.jpeg)
 
-Maceió e interior
+colônia leopoldina
 
-Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo](https://www.tnh1.com.br/noticia/nid/em-uma-semana-policia-militar-apreende-mais-de-20-quilos-de-drogas-e-11-armas-de-fogo/ "Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo ")   [![Suspeito de furto é detido pela população e amarrado com cordas no Centro de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/5/csm_viatura_policia_militar_-_ascom_ssp_d10baa51f1.jpg)
+Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://www.tnh1.com.br/noticia/nid/suspeitos-de-assaltos-morrem-viatura-capota-e-policiais-ficam-feridos-em-perseguicao-no-interior-de-al/ "Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL")   [![Homem é preso suspeito de tentar matar o marido a facadas em praça pública ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/4/csm_preso_saomiguel_871bdff6d3.png)
 
-Polícia
+São Miguel dos Campos
 
-Suspeito de furto é detido pela população e amarrado com cordas no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/suspeito-de-furto-e-detido-pela-populacao-e-amarrado-com-cordas-no-centro-de-maceio/ "Suspeito de furto é detido pela população e amarrado com cordas no Centro de Maceió")   [![Homem é assassinado com cinco tiros no bairro do Feitosa, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/4/csm_csm_csm_Viatura_Policia_divulgacao_f5775afa08_46f80f2ca9_1dd3b5d2e3.jpg)
+Homem é preso suspeito de tentar matar o marido a facadas em praça pública](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-tentar-matar-o-marido-a-facadas-em-praca-publica/ "Homem é preso suspeito de tentar matar o marido a facadas em praça pública ")   [![Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/3/csm_csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_b134dc68b3_393dcfe611.jpeg)
 
-Polícia
+Disputa por tráfico
 
-Homem é assassinado com cinco tiros no bairro do Feitosa, em Maceió](https://www.tnh1.com.br/noticia/nid/homem-e-assassinado-com-cinco-tiros-no-bairro-do-feitosa-em-maceio/ "Homem é assassinado com cinco tiros no bairro do Feitosa, em Maceió")   [![Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_ecc0a38459.jpg)
+Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://www.tnh1.com.br/noticia/nid/homem-que-usou-farda-do-bope-para-assaltar-joalheria-e-indiciado-por-assassinato-no-prado/ "Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado")   [![Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/7/csm_toalha-tentativa-abuso-centro_eedcbcf62e.jpg)
 
-Polícia
+No Centro
 
-Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/homens-armados-invadem-casa-e-matam-dois-jovens-a-tiros-no-benedito-bentes/ "Homens armados invadem casa e matam dois jovens a tiros no Benedito Bentes")   [![PM apreende arma de fogo, maconha, cocaína e clorofórmio em ações no interior](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/8/csm_PM_apreende_arma_de_fogo__maconha__cocaina_e_cloroformio_em_acoes_no_interior_-_foto_PMAL_70168082fb.jpg)
+Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://www.tnh1.com.br/noticia/nid/mulher-e-encontrada-com-sinais-de-violencia-apos-sofrer-tentativa-de-abuso-em-terreno-abandonado/ "Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado")   [![Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/1/csm_flagrante-ameaca-mulher-clima-bom_9ef6e110aa.jpg)
 
-Polícia
+No Clima Bom
 
-PM apreende arma de fogo, maconha, cocaína e clorofórmio em ações no interior](https://www.tnh1.com.br/noticia/nid/pm-apreende-arma-de-fogo-maconha-cocaina-e-cloroformio-em-acoes-no-interior/ "PM apreende arma de fogo, maconha, cocaína e clorofórmio em ações no interior")   [![Fraude: PF cumpre mandado contra maceioense que recebeu R$ 30 mil em transferências bancárias](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/d/csm_operacao_vergel_ascom_pf_61d9abc69c.jpeg)
+Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte](https://www.tnh1.com.br/noticia/nid/video-homem-e-preso-apos-ser-flagrado-agredindo-a-ex-companheira-e-a-ameacando-de-morte/ "Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte")   [![Filho é preso por ameaçar a própria mãe após negar dar dinheiro a ele](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
 
-Movimentações
+No Benedito Bentes
 
-Fraude: PF cumpre mandado contra maceioense que recebeu R$ 30 mil em transferências bancárias](https://www.tnh1.com.br/noticia/nid/fraude-pf-cumpre-mandado-contra-maceioense-que-recebeu-r-30-mil-em-transferencias-bancarias/ "Fraude: PF cumpre mandado contra maceioense que recebeu R$ 30 mil em transferências bancárias")
+Filho é preso por ameaçar a própria mãe após negar dar dinheiro a ele](https://www.tnh1.com.br/noticia/nid/filho-e-preso-por-ameacar-a-propria-mae-apos-negar-dar-dinheiro-a-ele/ "Filho é preso por ameaçar a própria mãe após negar dar dinheiro a ele")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -198,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Árbitra suspensa por vídeo de sexo rompe silêncio](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/3/csm_arbitra_Elif_Karaarslan_-_foto_Reproducao_Instagram_c72d9ac8d2.jpg)
-
-Futebol Internacional
-
-Futebol Internacional
-
-Árbitra suspensa por vídeo de sexo rompe silêncio
-
-Árbitra suspensa por vídeo de sexo rompe silêncio](https://www.tnh1.com.br/noticia/nid/arbitra-suspensa-por-video-de-sexo-rompe-silencio/ "Árbitra suspensa por vídeo de sexo rompe silêncio")[![Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/a/csm_variante_virus_cbe620b2b8.png)
+[![Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/a/csm_variante_virus_cbe620b2b8.png)
 
 Brasil
 
@@ -214,7 +206,7 @@ Brasil
 
 Nova variante do vírus Sars-CoV-2 é identificada em três estados
 
-Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://www.tnh1.com.br/noticia/nid/nova-variante-do-virus-sars-cov-2-e-identificada-em-tres-estados/ "Nova variante do vírus Sars-CoV-2 é identificada em três estados")[![Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/d/csm_carteira_de_trabalho_foto_secom_maceio_ffbed9bb06.jpg)
+Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://www.tnh1.com.br/noticia/nid/nova-variante-do-virus-sars-cov-2-e-identificada-em-tres-estados/ "Nova variante do vírus Sars-CoV-2 é identificada em três estados")[![Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/d/csm_carteira_de_trabalho_foto_secom_maceio_ffbed9bb06.jpg)
 
 Mercado de Trabalho
 
@@ -222,49 +214,57 @@ Mercado de Trabalho
 
 Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior
 
-Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/procurando-emprego-veja-789-novas-vagas-a-partir-desta-segunda-em-maceio-e-no-interior/ "Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior")[![Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_Mae_alerta_sobre_como_vape_contribuiu_para_morte_de_filho_aos_20_anos_apos_infeccao_-_foto_Divulgacao_22fe9db73b.jpg)
+Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/procurando-emprego-veja-789-novas-vagas-a-partir-desta-segunda-em-maceio-e-no-interior/ "Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior")[![Cinco ficam feridos em acidente entre caminhão, carro e moto na BR-316](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/0/csm_acidente_Santaluzia_5e6e29e711.jpeg)
 
-após infecção
+Trânsito
 
-após infecção
+Trânsito
 
-Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'
+Cinco ficam feridos em acidente entre caminhão, carro e moto na BR-316
 
-Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'](https://www.tnh1.com.br/noticia/nid/mae-alerta-sobre-como-vape-contribuiu-para-morte-de-filho-aos-20-anos-pulmao-nao-reagiu/ "Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'")
+Cinco ficam feridos em acidente entre caminhão, carro e moto na BR-316](https://www.tnh1.com.br/noticia/nid/cinco-ficam-feridos-em-acidente-entre-caminhao-carro-e-moto-na-br-316/ "Cinco ficam feridos em acidente entre caminhão, carro e moto na BR-316")[![Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/7/csm_toalha-tentativa-abuso-centro_cd2d931da3.jpg)
 
-[![Operação Raízes do Cedro: quinto voo decola do Líbano com 220 repatriados](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/1/csm_voo_FAB_2c0271cbbe.png)
+No Centro
 
-Mundo
+No Centro
 
-Mundo
+Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado
 
-Operação Raízes do Cedro: quinto voo decola do Líbano com 220 repatriados
+Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://www.tnh1.com.br/noticia/nid/mulher-e-encontrada-com-sinais-de-violencia-apos-sofrer-tentativa-de-abuso-em-terreno-abandonado/ "Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado")
 
-Operação Raízes do Cedro: quinto voo decola do Líbano com 220 repatriados](https://www.tnh1.com.br/noticia/nid/operacao-raizes-do-cedro-quinto-voo-decola-do-libano-com-220-repatriados/ "Operação Raízes do Cedro: quinto voo decola do Líbano com 220 repatriados")[![Mural gigante homenageia Lionel Messi em Rosário, sua cidade natal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/a/csm_mural_messi_f91a425fdd.png)
+[![Mani Rego entra na Justiça e pede reconhecimento de união estável com Davi Brito](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/3/csm_daviooficialll-reproducao_instagram__1__22ab894aae.jpg)
 
-Esporte
+ex do brother
 
-Esporte
+ex do brother
 
-Mural gigante homenageia Lionel Messi em Rosário, sua cidade natal
+Mani Rego entra na Justiça e pede reconhecimento de união estável com Davi Brito
 
-Mural gigante homenageia Lionel Messi em Rosário, sua cidade natal](https://www.tnh1.com.br/noticia/nid/mural-gigante-homenageia-lionel-messi-em-rosario-sua-cidade-natal/ "Mural gigante homenageia Lionel Messi em Rosário, sua cidade natal")[![Competições de esportes coletivos do JUBs começam nesta segunda no Distrito Federal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_JUBS_e059b82d2c.png)
+Mani Rego entra na Justiça e pede reconhecimento de união estável com Davi Brito](https://www.tnh1.com.br/noticia/nid/mani-rego-entra-na-justica-e-pede-reconhecimento-de-uniao-estavel-com-davi-brito/ "Mani Rego entra na Justiça e pede reconhecimento de união estável com Davi Brito")[![Quinto voo da FAB com 220 repatriados do Líbano chega a São Paulo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_FAB_repatriados_b7321710a0.png)
 
-Jogos Universitários
+Raízes do Cedro
 
-Jogos Universitários
+Raízes do Cedro
 
-Competições de esportes coletivos do JUBs começam nesta segunda no Distrito Federal
+Quinto voo da FAB com 220 repatriados do Líbano chega a São Paulo
 
-Competições de esportes coletivos do JUBs começam nesta segunda no Distrito Federal](https://www.tnh1.com.br/noticia/nid/competicoes-de-esportes-coletivos-do-jubs-comecam-nesta-segunda-no-distrito-federal/ "Competições de esportes coletivos do JUBs começam nesta segunda no Distrito Federal")[![Após temporal com ventos recordes, 760 mil seguem sem energia em São Paulo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/6/csm_sao_paulo_apagao_3a78a27856.png)
+Quinto voo da FAB com 220 repatriados do Líbano chega a São Paulo](https://www.tnh1.com.br/noticia/nid/quinto-voo-da-fab-com-220-repatriados-do-libano-chega-a-sao-paulo/ "Quinto voo da FAB com 220 repatriados do Líbano chega a São Paulo")[![Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/f/csm_colonia_perseguicao__2__697e279c8d.jpeg)
 
-Brasil
+colônia leopoldina
 
-Brasil
+colônia leopoldina
 
-Após temporal com ventos recordes, 760 mil seguem sem energia em São Paulo
+Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL
 
-Após temporal com ventos recordes, 760 mil seguem sem energia em São Paulo](https://www.tnh1.com.br/noticia/nid/apos-temporal-com-ventos-recordes-760-mil-seguem-sem-energia-em-sao-paulo/ "Após temporal com ventos recordes, 760 mil seguem sem energia em São Paulo")
+Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://www.tnh1.com.br/noticia/nid/suspeitos-de-assaltos-morrem-viatura-capota-e-policiais-ficam-feridos-em-perseguicao-no-interior-de-al/ "Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL")[![Pix está fora do ar? Nubank, Inter, Bradesco e outros bancos têm problemas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/0/csm_celular_telefonia_pexels_614ee45aa5.jpg)
+
+Economia
+
+Economia
+
+Pix está fora do ar? Nubank, Inter, Bradesco e outros bancos têm problemas
+
+Pix está fora do ar? Nubank, Inter, Bradesco e outros bancos têm problemas](https://www.tnh1.com.br/noticia/nid/pix-esta-fora-do-ar-nubank-inter-bradesco-e-outros-bancos-tem-problemas/ "Pix está fora do ar? Nubank, Inter, Bradesco e outros bancos têm problemas")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
