@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [The Einheitswelt Democratic Revolutio… (4)](https://forum.nationstates.net/viewtopic.php?t=556877&f=5&view=unread#unread ""The Einheitswelt Democratic Revolution[IC]" (4 posts)")
-* [Australians protesting in favour of H… (350)](https://forum.nationstates.net/viewtopic.php?t=556236&f=20&view=unread#unread ""Australians protesting in favour of Hezbollah and Hamas" (350 posts)")
-* [World Bowl XLIX \[49\] Everything Thread (191)](https://forum.nationstates.net/viewtopic.php?t=555385&f=7&view=unread#unread ""World Bowl XLIX [49] Everything Thread" (191 posts)")
-* [Sparkalia | On Sparkling Future (282)](https://forum.nationstates.net/viewtopic.php?t=520687&f=12&view=unread#unread ""Sparkalia | On Sparkling Future" (282 posts)")
-* [Would YL befriend AL? (24)](https://forum.nationstates.net/viewtopic.php?t=556131&f=25&view=unread#unread ""Would YL befriend AL?" (24 posts)")
+* [The NOVU Sports Blog (80)](https://forum.nationstates.net/viewtopic.php?t=552025&f=7&view=unread#unread ""The NOVU Sports Blog" (80 posts)")
+* [Arsenals of Anterra | Military Equipm… (5)](https://forum.nationstates.net/viewtopic.php?t=522896&f=23&view=unread#unread ""Arsenals of Anterra | Military Equipment Gallery" (5 posts)")
+* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (10,012)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (10,012 posts)")
+* [\[DRAFT\] Fatal Web (20)](https://forum.nationstates.net/viewtopic.php?t=543291&f=13&view=unread#unread ""[DRAFT] Fatal Web" (20 posts)")
+* [Is AU A Liberal, Centrist, or Conserv… (459)](https://forum.nationstates.net/viewtopic.php?t=555272&f=25&view=unread#unread ""Is AU A Liberal, Centrist, or Conservative?" (459 posts)")
 
 Advertisement
 
