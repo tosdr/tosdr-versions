@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[855-688-9669](tel:8775103202)
+[855-688-9669](tel:8556889669)
 
 [![JG Wentworth Logo](https://www.jgwentworth.com/wp-content/uploads/2024/01/JG-Wentworth-logo-header.svg)](https://www.jgwentworth.com/)
 
