@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/professor-van-der-pijl-en-de-mh17-ramp-twijfels/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/israel-zorg-dat-palestijnen-zionistische-eed-afleggen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
