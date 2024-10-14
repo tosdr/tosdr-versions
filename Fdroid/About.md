@@ -178,4 +178,4 @@ F-Droid is powered by your donations!
 * [DNS security and "bus factor" improvements](https://f-droid.org/en/2024/09/30/dns-security-and-bus-factor-improvements.html) Sep 30, 2024
 * [Statuses updated and a keyboard](https://f-droid.org/en/2024/09/26/twif.html) Sep 26, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-10-10, fdroid-website [2.276](https://gitlab.com/fdroid/fdroid-website/tree/26406590d4)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-10-14, fdroid-website [2.276](https://gitlab.com/fdroid/fdroid-website/tree/26406590d4)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
