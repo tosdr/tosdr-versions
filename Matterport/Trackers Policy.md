@@ -4,7 +4,7 @@
 
 [Search![search icon](/nextjs-assets/images/icons/search.svg)](https://matterport.com/search)[Contact Us](https://matterport.com/contact-us)![menu icon](/nextjs-assets/images/icons/menu.svg)
 
-Solutions![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)Products![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)Pricing![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)Resources![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)What's New![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)[![speech bubble icon](/nextjs-assets/images/icons/speech_bubble.svg)Contact Us](https://matterport.com/contact-us)[![avatar icon](/nextjs-assets/images/icons/avatar.svg)Sign In](https://authn.matterport.com/auth/login)[Free Trial](https://buy.matterport.com/free-account-register)
+Solutions![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)Products![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)Pricing![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)Resources![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)What's New![chevron up icon](/nextjs-assets/images/icons/chevron_up.svg)[![speech bubble icon](/nextjs-assets/images/icons/speech_bubble.svg)Contact Us](https://matterport.com/contact-us)[![avatar icon](/nextjs-assets/images/icons/avatar.svg)Sign In](https://authn.matterport.com/auth/login)[Start Free](https://buy.matterport.com/free-account-register)
 
 Sales: [+1(888) 993-8990](tel:+1(888) 993-8990)
 
@@ -19,7 +19,7 @@ Sales: [+1(888) 993-8990](tel:+1(888) 993-8990)
 * 日本語
 * 한국어
 
-[Free Trial](https://buy.matterport.com/free-account-register)
+[Start Free](https://buy.matterport.com/free-account-register)
 
 Cookie Policy
 =============
