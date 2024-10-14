@@ -134,7 +134,7 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     Oct 14 2024
     
-    #### [Gamification to Support High-Masking Autistic Students at School and Home](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-10-14)
+    #### [Gamification to Support High-Masking Autistic Students at School and Home](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-10-14) Sale has ended
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
