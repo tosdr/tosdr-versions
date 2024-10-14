@@ -1,9 +1,9 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZwwkmQoAAVEAAABcE08)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Zwx5SwoAAVEAAABc87M)
 
 Es noticia
 
 * [Militares Líbano](https://www.elmundo.es/espana/2024/10/12/670907c7fc6c8392128b45ba.html)
-* [España Dinamarca](https://www.elmundo.es/deportes/futbol/uefa-nations-league/espana-dinamarca/2024/10/12/01_0195_20241012_118_369-directo.html)
+* [Nico Williams](https://www.elmundo.es/deportes/futbol/2024/10/13/670956ccfc6c8322028b45c0.html)
 * [Mayra Gómez Kemp](https://www.elmundo.es/television/2024/10/13/670baa0921efa043148b45b8.html)
 * [Cristian Dior](https://www.elmundo.es/madrid/2024/10/12/670938fe21efa0672a8b458e.html)
 * [Copa América](https://www.elmundo.es/deportes/2024/10/11/66eb12d621efa03e478b4590.html)
