@@ -162,9 +162,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"This is a fantastic opportunity for our students!  I'm sure Spellzone will be invaluable in helping them to improve their spellings and therefore improve the quality of their writing in all subject areas!"
+"Thank goodness for Spellzone during this remote learning phase. The site is easy for students to navigate independently and they're really enjoying the activities and spelling games. You get an awful lot for your money with Spellzone. Really reassuring is the very prompt response with helpdesk queries. I've very rarely needed the helpdesk, but when I have, the issue has been addressed and sorted within a very short time."
 
-**Teacher, High School, UK**
+**Sarah Taggart, Oasis Academy Lord's Hill**
 
 ### Curriculum...
 
