@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I loved the proxy service, I could watch hulu from france at a good speed, which was great.
+Thank you for your advice as well as the great service FoxyProxy provides!
 
-Shelley MacDonald
+Michael Wagner
