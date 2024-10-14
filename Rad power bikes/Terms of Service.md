@@ -227,7 +227,7 @@
     
     [##### Help center
     
-    Search our extensive help center or contact us via email or chat Monday-Friday from 8am-5pm PT, and Saturday-Sunday from 9am-3pm PT.](https://support.radpowerbikes.com/ "Help center")[##### Service
+    Search our extensive help center or contact us via email or chat Monday-Friday from 8am-4pm PT, and Saturday-Sunday from 9am-3pm PT.](https://support.radpowerbikes.com/ "Help center")[##### Service
     
     Search our network of 1000+ service partners to find one near you.](https://www.radpowerbikes.com/pages/rad-service "Service")
     
