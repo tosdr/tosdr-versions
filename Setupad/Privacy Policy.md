@@ -1,12 +1,9 @@
 [![Logo](https://setupad.com/wp-content/themes/setupad/assets/img/new_company_logo.svg)](https://setupad.com/)
 
 * [For Publishers](# "For Publishers")
-    * [Setupad Header Bidding Wrapper](https://setupad.com/setupad-header-bidding-wrapper/ "Setupad Header Bidding Wrapper")
-    * [Setupad Prebid Manage Account](https://setupad.com/setupad-prebid-manage-account/ "Setupad Prebid Manage Account")
-    * [Setupad Prebid AdSense](https://setupad.com/setupad-prebid-adsense/ "Setupad Prebid AdSense")
-    * [Setupad Prebid](https://setupad.com/setupad-prebid/ "Setupad Prebid")
-    * [Setupad Prebid Self-Serve](https://setupad.com/setupad-prebid-self-serve/ "Setupad Prebid Self-Serve")
-    * [Setupad Prebid Adapter](https://setupad.com/setupad-prebid-adapter/ "Setupad Prebid Adapter")
+    * [Setupad Self Serve](https://setupad.com/setupad-self-serve/ "Setupad Self Serve")
+    * [Setupad Bidder](https://setupad.com/setupad-bidder/ "Setupad Bidder")
+    * [Managed Prebid](https://setupad.com/managed-prebid/ "Managed Prebid")
     * [Setupad CMP](https://setupad.com/cmp/ "Setupad CMP")
     * [Setupad WordPress Plugin](https://setupad.com/wordpress-plugin/ "Setupad WordPress Plugin")
 * [For Advertisers](https://setupad.com/private-marketplace-deals-for-advertisers/ "For Advertisers")
@@ -78,23 +75,19 @@ iOS: https://support.apple.com
 Setupad is a member of Interactive Advertising Bureau and complies with its highest industry standards on digital advertising, including user's privacy protection best practices. 7\. Final terms By using our Website you agree to the terms and conditions set out in this Privacy Policy.  
 For any questions or concerns regarding the Privacy Policy and use of the Website, please contact Setupad at this email address: [\[email protected\]](https://setupad.com/cdn-cgi/l/email-protection).
 
+ [![message icon](https://setupad.com/wp-content/themes/setupad/assets/img/message-icon-small.svg) ![message icon big](https://setupad.com/wp-content/themes/setupad/assets/img/message-icon-big.svg)](https://setupad.com/contact/)
+
 * * *
 
 ![company logo](https://setupad.com/wp-content/themes/setupad/assets/img/new_company_logo.svg)
 
 Products
 
-[HB Wrapper](https://setupad.com/setupad-header-bidding-wrapper/)
+[Setupad Self Serve](https://setupad.com/setupad-self-serve/)
 
-[Prebid Manage Account](https://setupad.com/setupad-prebid-manage-account/)
+[Setupad Bidder](https://setupad.com/setupad-bidder/)
 
-[Prebid AdSense](https://setupad.com/setupad-prebid-adsense/)
-
-[Prebid](https://setupad.com/setupad-prebid/)
-
-[Prebid Self-Serve](https://setupad.com/setupad-prebid-self-serve/)
-
-[Prebid Adapter](https://setupad.com/setupad-prebid-adapter/)
+[Managed Prebid](https://setupad.com/managed-prebid/)
 
 [CMP](https://setupad.com/cmp/)
 
