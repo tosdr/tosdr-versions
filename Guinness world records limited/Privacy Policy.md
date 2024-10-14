@@ -6,13 +6,13 @@ Menu
     
 * [SHOP](https://gwrstore.com/)
     
-* [DISCOVER](https://www.guinnessworldrecords.com/news/index.html)
-    
-* [WORK WITH US](https://www.guinnessworldrecords.com/business-marketing-solutions/index.html)
+* [NEWS & FEATURES](https://www.guinnessworldrecords.com/news/index.html)
     
 * [BOOKS](https://www.guinnessworldrecords.com/products/books/index.html)
     
 * [ABOUT US](https://www.guinnessworldrecords.com/about-us/index.html)
+    
+* [GWR FOR BUSINESS](https://www.guinnessworldrecords.com/business-marketing-solutions/index.html)
     
 
  [![https://kids.guinnessworldrecords.com](https://www.guinnessworldrecords.com/images/css/gwr_kids_link.jpg)](https://kids.guinnessworldrecords.com/)[en](# "Select Language")[](https://www.guinnessworldrecords.com/account/ "Account")[](https://www.guinnessworldrecords.com/search?term=%2A "Search")[](# "More")
@@ -48,7 +48,7 @@ Menu
 
 [Latest books](https://www.guinnessworldrecords.com/products/books/index.html)[Where to buy](https://www.guinnessworldrecords.com/products/books/buy-now/index.html)[Making of the book](https://www.guinnessworldrecords.com/products/books/book-production/index.html)[Book archive](https://www.guinnessworldrecords.com/products/books/history-of-the-book/book-cover-archive.html)
 
-### [WORK WITH US](https://www.guinnessworldrecords.com/business-marketing-solutions/index.html)
+### [GWR FOR BUSINESS](https://www.guinnessworldrecords.com/business-marketing-solutions/index.html)
 
 [Records for business](https://www.guinnessworldrecords.com/business-marketing-solutions/record-event-formats/index.html)[TV & Content Licensing](https://www.guinnessworldrecords.com/gwrstudios/index.html)[Live Entertainment](https://www.guinnessworldrecords.com/business-marketing-solutions/entertainment-programmes/index.html)[Case Studies](https://www.guinnessworldrecords.com/business-marketing-solutions/brand-case-studies/index.html)[Contact us](https://business.guinnessworldrecords.com/contact-us)
 
@@ -266,7 +266,7 @@ From time to time, and at any time, this Privacy Policy may be revised or change
 ##### CONTACT US
 
 * [Get in touch](https://www.guinnessworldrecords.com/contact/index.html)
-* [Work with us: Contact an Account Manager](https://business.guinnessworldrecords.com/contact-us?source=Website-EN-B2B-Form-Nav)
+* [GWR for Business: Contact an Account Manager](https://business.guinnessworldrecords.com/contact-us?source=Website-EN-B2B-Form-Nav)
 * [Advertise with us](https://www.guinnessworldrecords.com/direct-sales.html)
 * [Press Centre](https://www.guinnessworldrecords.com/news/press/index.html)
 
