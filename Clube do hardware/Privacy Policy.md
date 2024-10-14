@@ -134,104 +134,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![CircuitSeeker](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254467.thumb.jpeg.02143f61990afe1799355af094e78ad5.jpeg)](https://www.clubedohardware.com.br/profile/1254467-circuitseeker/ "Ir ao perfil de CircuitSeeker")
+    * [![reflection](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253839.thumb.jpeg.4f2879e49c146bf1050dac20d98740b5.jpeg)](https://www.clubedohardware.com.br/profile/1253839-reflection/ "Ir ao perfil de reflection")
         
         0
         
-        [CPU I5 9º chegando a 80ºC mesmo com watercooler](https://www.clubedohardware.com.br/forums/topic/1699643-cpu-i5-9%C2%BA-chegando-a-80%C2%BAc-mesmo-com-watercooler/?do=getNewComment "CPU I5 9º chegando a 80ºC mesmo com watercooler")
+        [Water cooler de 120mm suporta i5 13400f?](https://www.clubedohardware.com.br/forums/topic/1699670-water-cooler-de-120mm-suporta-i5-13400f/?do=getNewComment "Water cooler de 120mm suporta i5 13400f?")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [CircuitSeeker](https://www.clubedohardware.com.br/profile/1254467-circuitseeker/ "Ir ao perfil de CircuitSeeker")  
-        4 minutos atrás
+        Por [reflection](https://www.clubedohardware.com.br/profile/1253839-reflection/ "Ir ao perfil de reflection")  
+        5 minutos atrás
         
-    * [![xMatheus Gomes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254468.thumb.png.d1c96dbdecfb4ddb72f4aaaa63317d49.png)](https://www.clubedohardware.com.br/profile/1254468-xmatheus-gomes/ "Ir ao perfil de xMatheus Gomes")
+    * [![Lucas_GamerOfficial](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250203.thumb.jpeg.a3ed5191b4027335dd4037cad894b90d.jpeg)](https://www.clubedohardware.com.br/profile/1250203-lucas_gamerofficial/ "Ir ao perfil de Lucas_GamerOfficial")
         
-        0
+        1
         
-        [asus tuf gaming z490-plus não para desligado com o power on by pci-e ativo](https://www.clubedohardware.com.br/forums/topic/1699642-asus-tuf-gaming-z490-plus-n%C3%A3o-para-desligado-com-o-power-on-by-pci-e-ativo/?do=getNewComment "asus tuf gaming z490-plus não para desligado com o power on by pci-e ativo")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [xMatheus Gomes](https://www.clubedohardware.com.br/profile/1254468-xmatheus-gomes/ "Ir ao perfil de xMatheus Gomes")  
-        10 minutos atrás
-        
-    * [![Joao Vitor Coveiro](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1248916.thumb.jpeg.9353e2d009e430402282d30afc563e65.jpeg)](https://www.clubedohardware.com.br/profile/1248916-joao-vitor-coveiro/ "Ir ao perfil de Joao Vitor Coveiro")
-        
-        0
-        
-        [Indicações de upgrade para PC com RX 580 e i3 7100](https://www.clubedohardware.com.br/forums/topic/1699641-indica%C3%A7%C3%B5es-de-upgrade-para-pc-com-rx-580-e-i3-7100/?do=getNewComment "Indicações de upgrade para PC com RX 580 e i3 7100")
+        [Qual configuração para computador gamer devo montar até 4.000 reais?](https://www.clubedohardware.com.br/forums/topic/1699669-qual-configura%C3%A7%C3%A3o-para-computador-gamer-devo-montar-at%C3%A9-4000-reais/?do=getNewComment "Qual configuração para computador gamer devo montar até 4.000 reais?")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Joao Vitor Coveiro](https://www.clubedohardware.com.br/profile/1248916-joao-vitor-coveiro/ "Ir ao perfil de Joao Vitor Coveiro")  
-        14 minutos atrás
+        Por [Lucas\_GamerOfficial](https://www.clubedohardware.com.br/profile/1250203-lucas_gamerofficial/ "Ir ao perfil de Lucas_GamerOfficial")  
+        33 minutos atrás
         
-    * [![fellipenz](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23bb62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EF%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1207837-fellipenz/ "Ir ao perfil de fellipenz")
+    * [![yankaue15](https://www.clubedohardware.com.br/uploads/members/monthly_2020_08/okok.thumb.png.dae7443a85dc477af9091fd8e5645228.png)](https://www.clubedohardware.com.br/profile/1095095-yankaue15/ "Ir ao perfil de yankaue15")
         
-        0
+        3
         
-        [Preciso de uma sugestão de gabinete](https://www.clubedohardware.com.br/forums/topic/1699640-preciso-de-uma-sugest%C3%A3o-de-gabinete/?do=getNewComment "Preciso de uma sugestão de gabinete")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [fellipenz](https://www.clubedohardware.com.br/profile/1207837-fellipenz/ "Ir ao perfil de fellipenz")  
-        28 minutos atrás
-        
-    * [![Lipecrf7](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1245072.thumb.png.78e723f7e4154a44511ed4b18bcfb904.png)](https://www.clubedohardware.com.br/profile/1245072-lipecrf7/ "Ir ao perfil de Lipecrf7")
-        
-        0
-        
-        [Jogos apresentando falhas quando executados de NVMe 980 Samsung](https://www.clubedohardware.com.br/forums/topic/1699639-jogos-apresentando-falhas-quando-executados-de-nvme-980-samsung/?do=getNewComment "Jogos apresentando falhas quando executados de NVMe 980 Samsung")
+        [Kingston nv2 ou Kingston KC3000, qual escolher?](https://www.clubedohardware.com.br/forums/topic/1699668-kingston-nv2-ou-kingston-kc3000-qual-escolher/?do=getNewComment "Kingston nv2 ou Kingston KC3000, qual escolher?")
         
         [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Lipecrf7](https://www.clubedohardware.com.br/profile/1245072-lipecrf7/ "Ir ao perfil de Lipecrf7")  
-        34 minutos atrás
+        Por [yankaue15](https://www.clubedohardware.com.br/profile/1095095-yankaue15/ "Ir ao perfil de yankaue15")  
+        39 minutos atrás
         
-    * [![Wladimir Cabral](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/simpson_token.thumb.png.83faf73e13bd206cda1236607f0d9fe1.png)](https://www.clubedohardware.com.br/profile/422616-wladimir-cabral/ "Ir ao perfil de Wladimir Cabral")
+    * [![O tal do Boechat](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1234753.thumb.jpeg.2d70c13f594c4049dc05132c165fe630.jpeg)](https://www.clubedohardware.com.br/profile/1234753-o-tal-do-boechat/ "Ir ao perfil de O tal do Boechat")
+        
+        1
+        
+        [overclock seguro no Phenom II x4 965](https://www.clubedohardware.com.br/forums/topic/1699667-overclock-seguro-no-phenom-ii-x4-965/?do=getNewComment "overclock seguro no Phenom II x4 965")
+        
+        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
+        Por [O tal do Boechat](https://www.clubedohardware.com.br/profile/1234753-o-tal-do-boechat/ "Ir ao perfil de O tal do Boechat")  
+        40 minutos atrás
+        
+    * [![Leonardo Endress](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254488.thumb.jpeg.e89f14a2e3e6087a06fceeb20e8d71f4.jpeg)](https://www.clubedohardware.com.br/profile/1254488-leonardo-endress/ "Ir ao perfil de Leonardo Endress")
         
         0
         
-        [Windows Inicia Normalmente Mas Não Entra No Modo de Segurança](https://www.clubedohardware.com.br/forums/topic/1699638-windows-inicia-normalmente-mas-n%C3%A3o-entra-no-modo-de-seguran%C3%A7a/?do=getNewComment "Windows Inicia Normalmente Mas Não Entra No Modo de Segurança")
-        
-        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
-        Por [Wladimir Cabral](https://www.clubedohardware.com.br/profile/422616-wladimir-cabral/ "Ir ao perfil de Wladimir Cabral")  
-        58 minutos atrás
-        
-    * [![LucasMZ2](https://www.clubedohardware.com.br/uploads/members/monthly_2022_08/1435600673_bigssomkeeluiZ.thumb.jpg.064063177acb23d9abdb5278c6268b27.jpg)](https://www.clubedohardware.com.br/profile/1201084-lucasmz2/ "Ir ao perfil de LucasMZ2")
-        
-        0
-        
-        [Troquei a pilha da BIOS do notebook e ele não da mais Vídeo](https://www.clubedohardware.com.br/forums/topic/1699636-troquei-a-pilha-da-bios-do-notebook-e-ele-n%C3%A3o-da-mais-v%C3%ADdeo/?do=getNewComment "Troquei a pilha da BIOS do notebook e ele não da mais Vídeo")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [LucasMZ2](https://www.clubedohardware.com.br/profile/1201084-lucasmz2/ "Ir ao perfil de LucasMZ2")  
-        1 hora atrás
-        
-    * [![gustavokaka](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253881.thumb.png.c954e2435b5901a4066b4e50e8b22d1b.png)](https://www.clubedohardware.com.br/profile/1253881-gustavokaka/ "Ir ao perfil de gustavokaka")
-        
-        6
-        
-        [Upgrade para Ryzen 5 5600X e GeForce RTX 3060 até R$ 5.000](https://www.clubedohardware.com.br/forums/topic/1699635-upgrade-para-ryzen-5-5600x-e-geforce-rtx-3060-at%C3%A9-r-5000/?do=getNewComment "Upgrade para Ryzen 5 5600X e GeForce RTX 3060 até R$ 5.000")
+        [Upgrade de 1700x + 1060 ou vendo e compro novo?](https://www.clubedohardware.com.br/forums/topic/1699666-upgrade-de-1700x-1060-ou-vendo-e-compro-novo/?do=getNewComment "Upgrade de 1700x + 1060 ou vendo e compro novo?")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [gustavokaka](https://www.clubedohardware.com.br/profile/1253881-gustavokaka/ "Ir ao perfil de gustavokaka")  
-        1 hora atrás
+        Por [Leonardo Endress](https://www.clubedohardware.com.br/profile/1254488-leonardo-endress/ "Ir ao perfil de Leonardo Endress")  
+        48 minutos atrás
         
-    * [![Allan01](https://lh6.googleusercontent.com/-XnM1zWZ02p0/AAAAAAAAAAI/AAAAAAAAANE/HdjntzttSkA/photo.jpg)](https://www.clubedohardware.com.br/profile/928906-allan01/ "Ir ao perfil de Allan01")
+    * [![shori](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/imported-photo-1165308.thumb.jpeg.d2fff81952443fb2affde5c25ed80ccb.jpeg)](https://www.clubedohardware.com.br/profile/1165308-shori/ "Ir ao perfil de shori")
         
         2
         
-        [Memórias Asgard Loki incompatíveis com b550 aorus elite?](https://www.clubedohardware.com.br/forums/topic/1699634-mem%C3%B3rias-asgard-loki-incompat%C3%ADveis-com-b550-aorus-elite/?do=getNewComment "Memórias Asgard Loki incompatíveis com b550 aorus elite?")
+        [Este monitor UltraGear LG 24MS500 é uma boa compra?](https://www.clubedohardware.com.br/forums/topic/1699665-este-monitor-ultragear-lg-24ms500-%C3%A9-uma-boa-compra/?do=getNewComment "Este monitor UltraGear LG 24MS500 é uma boa compra?")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Allan01](https://www.clubedohardware.com.br/profile/928906-allan01/ "Ir ao perfil de Allan01")  
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [shori](https://www.clubedohardware.com.br/profile/1165308-shori/ "Ir ao perfil de shori")  
+        1 hora atrás
+        
+    * [![Sazaki7](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253633.thumb.png.1bb1ea75ec72afdb5fa9d844b9682ec8.png)](https://www.clubedohardware.com.br/profile/1253633-sazaki7/ "Ir ao perfil de Sazaki7")
+        
+        2
+        
+        [i5 10400f + RTX 3060 compatível?](https://www.clubedohardware.com.br/forums/topic/1699664-i5-10400f-rtx-3060-compat%C3%ADvel/?do=getNewComment "i5 10400f + RTX 3060 compatível?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Sazaki7](https://www.clubedohardware.com.br/profile/1253633-sazaki7/ "Ir ao perfil de Sazaki7")  
+        1 hora atrás
+        
+    * [![TestePC](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/cifra.thumb.jpg.b1fdf12858adcee64d87ac03a882d384.jpg)](https://www.clubedohardware.com.br/profile/1249698-testepc/ "Ir ao perfil de TestePC")
+        
+        2
+        
+        [Vale a pena trocar um Ryzen 7 5700g por um Ryzen 7 5700x3D?](https://www.clubedohardware.com.br/forums/topic/1699660-vale-a-pena-trocar-um-ryzen-7-5700g-por-um-ryzen-7-5700x3d/?do=getNewComment "Vale  a pena trocar um Ryzen 7 5700g por um Ryzen 7 5700x3D?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [TestePC](https://www.clubedohardware.com.br/profile/1249698-testepc/ "Ir ao perfil de TestePC")  
         2 horas atrás
         
-    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
+    * [![fxlcaovini](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/143ad88b46d67d982ed761424f50cae6.thumb.jpg.af8df9b7311396d12e84b2895574f5da.jpg)](https://www.clubedohardware.com.br/profile/1254482-fxlcaovini/ "Ir ao perfil de fxlcaovini")
+        
+        7
+        
+        [Recomendação de placa de vídeo para Ryzen 5 4600G: GeForce RTX 3050 6GB?](https://www.clubedohardware.com.br/forums/topic/1699659-recomenda%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo-para-ryzen-5-4600g-geforce-rtx-3050-6gb/?do=getNewComment "Recomendação de placa de vídeo para Ryzen 5 4600G: GeForce RTX 3050 6GB?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [fxlcaovini](https://www.clubedohardware.com.br/profile/1254482-fxlcaovini/ "Ir ao perfil de fxlcaovini")  
+        2 horas atrás
+        
+    * [![Rafael MOF](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1235916.thumb.jpeg.5ebb8cba0039a36211e0119f23febbcf.jpeg)](https://www.clubedohardware.com.br/profile/1235916-rafael-mof/ "Ir ao perfil de Rafael MOF")
         
         0
         
-        [hdds 2.5" ejetados do windows e continuam ligados](https://www.clubedohardware.com.br/forums/topic/1699633-hdds-25-ejetados-do-windows-e-continuam-ligados/?do=getNewComment "hdds 2.5" ejetados do windows e continuam ligados")
+        [Recomendação de Especificações/Modelo de Notebook](https://www.clubedohardware.com.br/forums/topic/1699658-recomenda%C3%A7%C3%A3o-de-especifica%C3%A7%C3%B5esmodelo-de-notebook/?do=getNewComment "Recomendação de Especificações/Modelo de Notebook")
         
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Rafael MOF](https://www.clubedohardware.com.br/profile/1235916-rafael-mof/ "Ir ao perfil de Rafael MOF")  
         3 horas atrás
         
     
