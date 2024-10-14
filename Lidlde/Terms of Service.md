@@ -4,12 +4,11 @@
 
 1. [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")
 2. Menü
-3. [Home](https://www.lidl.de/)
-4. [Onlineshop](https://www.lidl.de/online)
-5. [Filiale](https://www.lidl.de/store)
-6. 
-7. [](https://www.lidl.de/c/online-prospekte/s10005610)
-8. 1. [](https://www.lidl.de/mla/)
+3. [Onlineshop](https://www.lidl.de/)
+4. [Filiale](https://www.lidl.de/store)
+5. 
+6. [](https://www.lidl.de/c/online-prospekte/s10005610)
+7. 1. [](https://www.lidl.de/mla/)
     2. Herzlich willkommen in deinem Lidl-Konto.
         
         [Mein Konto](https://www.lidl.de/mla/)[Abmelden](https://www.lidl.de/user-api/logout?redirect=%2Fc%2Frechtliche-informationen%2Fs10007999)
@@ -25,8 +24,7 @@
         * [Meine Daten](https://www.lidl.de/css/manage-account/addresses)
         * [Lidl Connect Kundenkonto](https://kundenkonto.lidl-connect.de/mein-lidl-connect.html)
         
-    
-9. 1. [](https://www.lidl.de/otc/cart)
+8. 1. [](https://www.lidl.de/otc/cart)
     
 
 Der Browser wird nicht leider nicht mehr unterstützt!
@@ -40,11 +38,10 @@ Um die Website korrekt anzuzeigen, verwende bitte einen der folgenden Browser:
 
 **Achtung:**Bitte aktualisiere deinen Browser, wenn du mit diesem Browser fortfährst, könnte dein Einkaufserlebnis nicht zufriedenstellend sein!
 
-1. [Home](https://www.lidl.de/)
-2. [Onlineshop](https://www.lidl.de/online)
-3. [Filiale](https://www.lidl.de/store)
-4. [Prospekte](https://www.lidl.de/c/online-prospekte/s10005610)
-5. [Mein Konto](https://www.lidl.de/mla/)
+1. [Onlineshop](https://www.lidl.de/)
+2. [Filiale](https://www.lidl.de/store)
+3. [Mein Konto](https://www.lidl.de/mla/)
+4. Menü
 
 Main Navigation[Zurück](#)
 
@@ -147,7 +144,7 @@ Brand Navigation
 5. [Karriere](https://jobs.lidl.de/)
 6. [Newsroom](https://unternehmen.lidl.de/newsroom)
 
-1. [Home page](https://www.lidl.de/online)
+1. [Home page](https://www.lidl.de/)
 2. |[Meine Filiale](https://www.lidl.de/c/rund-um-die-filiale/s10007548)
 3. |[Rechtliche Informationen](https://www.lidl.de/c/rechtliche-informationen/s10007999)
 
