@@ -112,4 +112,4 @@ Address: 6 Bishopsgate London Ec2p 2at
 
 [Terms & Conditions](https://www.alza.co.uk/terms) [Claims Procedure](https://www.alza.co.uk/claims) [Privacy Policy](https://www.alza.co.uk/privacy)
 
-© 1994 - 2024 Alza.co.uk, v1.2.3
+© 1994 - 2024 Alza.co.uk, v1.1.0-Branch.tags-v1.1.0.Sha.89c37db4f6c839c184c2c16f1efdfae7b546badd+89c37db4f6c839c184c2c16f1efdfae7b546badd
