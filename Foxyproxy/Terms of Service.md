@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Was pleased with your service. Thank you.
+My experience with FoxyProxy, both in terms of connection speed and account setup/management, was absolutely perfect. So, keep up the good work!
 
-Andr Sirois
+George Diamantopoulos
