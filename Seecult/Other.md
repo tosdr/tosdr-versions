@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/quaternio-terminorum/instalacija-qvaternio-termi.jpg?itok=axFZ2r0q)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/quaternio-terminorum)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/sas-stojanovic-i-ana-vilenica/slike/suncana-strana-ulice.jpg?itok=SHtXnAl0)](http://seecult.org/galerija/galerija-umetnika/sasa-stojanovic-i-ana-vilenica/slike)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zasto-su-knjizevne-promocije-dosadne-kosmogina/slam-ucesnici-u-djuri-4.jpg?itok=RY16b2F0)](http://seecult.org/galerija/foto-galerija/foto-arhiva/zasto-su-knjizevne-promocije-dosadne-kosmogina)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kuca-na-jezeru.jpg?itok=J8mzqQji)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,16 +422,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Nepredvidiva prošlost budućnosti. O političkom potencijalu utopije](http://seecult.org/vest/nepredvidiva-proslost-buducnosti-o-politickom-potencijalu-utopije)
+* [Sveti Georgije ubiva aždahu u pripremi u JDP-u](http://seecult.org/vest/sveti-georgije-ubiva-azdahu-u-pripremi-u-jdp-u)
+* [Podizanje jarčeve trtice](http://seecult.org/vest/podizanje-jarceve-trtice)
+* [Čitanje poruka nevidljivog sveta prirode](http://seecult.org/vest/citanje-poruka-nevidljivog-sveta-prirode)
 * [Gran pri 64. MESS-a predstavi Tragudia Alesandra Sere](http://seecult.org/vest/gran-pri-64-mess-predstavi-tragudia-alesandra-sere)
 * [Sunce nikad više premijerno u Talinu](http://seecult.org/vest/sunce-nikad-vise-premijerno-u-talinu)
 * [Mihalkov u Narodnom pozorištu](http://seecult.org/vest/mihalkov-u-narodnom-pozoristu)
 * [Ne idi daleko najbolja predstava 19. Zvezdarišta](http://seecult.org/vest/ne-idi-daleko-najbolja-predstava-19-zvezdarista)
 * [Beogradski aplauz za Grlićev ljubavni triler i kritiku društva](http://seecult.org/vest/beogradski-aplauz-za-grlicev-ljubavni-triler-i-kritiku-drustva)
 * [Nadrealizam u MSUB-u](http://seecult.org/vest/nadrealizam-u-msub-u)
-* [Muška suza u JDP-u](http://seecult.org/vest/muska-suza-u-jdp-u)
-* [Han Kang dobitnica Nobela za književnost](http://seecult.org/vest/han-kang-dobitnica-nobela-za-knjizevnost)
-* [60 godina Galerije DOB-a](http://seecult.org/vest/60-godina-galerije-dob)
-* [Sprečiti zatvaranje Remonta](http://seecult.org/vest/spreciti-zatvaranje-remonta)
 
 * [Konkursi](#tab1_1)
 
