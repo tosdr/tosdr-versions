@@ -117,7 +117,7 @@ When you use this Service and when you communicate with Riiid electronically, fo
 
 10\. Privacy Policy
 
-You consent to the collection, processing and storage by Riiid of your personal information in accordance with the terms of Riiid’s Privacy Policy. You agree to comply with all applicable laws and regulations, and the terms of Riiid’s Privacy Policy, with respect to any access, use and/or submission by you of any personal information in connection with this website. For a detailed description of how Riiid collects and uses personal data about you, please see [Riiid’s Privacy Policy](https://www.google.com/url?q=https://docs.google.com/document/d/e/2PACX-1vQvC5ObSfrk2jhtAFMdsABEiPy6zP-Eez2QDZ3tPnk8YZdw2iO1sc01bLtkrjDghsCxFnxp9kA9Dnh1/pub&sa=D&source=editors&ust=1728913620379817&usg=AOvVaw0XmuyvF453nVN7U1RdYjbS).
+You consent to the collection, processing and storage by Riiid of your personal information in accordance with the terms of Riiid’s Privacy Policy. You agree to comply with all applicable laws and regulations, and the terms of Riiid’s Privacy Policy, with respect to any access, use and/or submission by you of any personal information in connection with this website. For a detailed description of how Riiid collects and uses personal data about you, please see [Riiid’s Privacy Policy](https://www.google.com/url?q=https://docs.google.com/document/d/e/2PACX-1vQvC5ObSfrk2jhtAFMdsABEiPy6zP-Eez2QDZ3tPnk8YZdw2iO1sc01bLtkrjDghsCxFnxp9kA9Dnh1/pub&sa=D&source=editors&ust=1728935176444961&usg=AOvVaw0mZbp5331-Yrm2v7pFXrmH).
 
 11\. Contact
 
