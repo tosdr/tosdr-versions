@@ -1,4 +1,4 @@
 JavaScriptを有効にしてください  
 Please turn on your JavaScript
 
-![](https://static.blahaj.zone/shonky/assets/transparent/Shonky.webp)This is totally fetch.
+![](https://static.blahaj.zone/shonky/assets/transparent/Shonky.webp)Powered by hormones!
