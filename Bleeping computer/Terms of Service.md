@@ -36,6 +36,9 @@
         
         Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/)
     
+    * [![This $30 bundle helps you prepare for AWS, CompTIA cloud IT certifications](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        This $30 bundle helps you prepare for AWS, CompTIA cloud IT certifications](https://www.bleepingcomputer.com/offer/deals/this-30-bundle-helps-you-prepare-for-aws-comptia-cloud-it-certifications/)
     * [![Google warns uBlock Origin and other extensions may be disabled soon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Google warns uBlock Origin and other extensions may be disabled soon](https://www.bleepingcomputer.com/news/google/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/)
@@ -45,9 +48,6 @@
     * [![Train to be a certified ethical hacker with this $50 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Train to be a certified ethical hacker with this $50 course bundle deal](https://www.bleepingcomputer.com/offer/deals/train-to-be-a-certified-ethical-hacker-with-this-50-course-bundle-deal/)
-    * [![Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-pptp-and-l2tp-vpn-protocols-in-windows-server/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,15 +352,15 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Casio](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Casio confirms customer data stolen in a ransomware attack](https://www.bleepingcomputer.com/news/security/casio-confirms-customer-data-stolen-in-a-ransomware-attack/)
-* [![AI hacker security Artificial Intelligence](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    OpenAI confirms threat actors use ChatGPT to write malware](https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
 * [![Chrome flare](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Google warns uBlock Origin and other extensions may be disabled soon](https://www.bleepingcomputer.com/news/google/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/)
+* [![AI hacker security Artificial Intelligence](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    OpenAI confirms threat actors use ChatGPT to write malware](https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
+* [![Casio](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Casio confirms customer data stolen in a ransomware attack](https://www.bleepingcomputer.com/news/security/casio-confirms-customer-data-stolen-in-a-ransomware-attack/)
 
 ##### Follow us:
 
