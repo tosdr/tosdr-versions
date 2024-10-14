@@ -223,9 +223,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Sunday, October 13, 2024**
+**Monday, October 14, 2024**
 
-**...Mostly Sunny and Dry Conditions for North and Central Florida...Spotty Showers Become More Numerous Across South Florida This Afternoon...Increasing Concern for Localized Flooding Along the Urban I-95 Corridor in Southeast Florida...Minor to Moderate Coastal Flooding Remains Possible Along the St. Johns River and Northeast Florida Coast At or Near Times of High Tide...Widespread Modeate to Major Riverine Flooding Continues for West, Central, and Northeast Florida Waterways...Rivers to Remain in Flood Stage for the Next Several Weeks at Some Locations...National Hurricane Center Continues to Monitor Invest 94L Over the Eastern Tropical Atlantic (Low - 30% Chance of Development Over the Next 7 Days)...**
+**...Mostly Sunny and Dry Conditions Statewide...Isolated Showers and Thunderstorms Possible During Afternoon and Evening Hours Across Florida Keys...Another Cold Front Moving Through North Florida Today and Tonight to Bring Reinforcing Cool and Dry Air...Minor to Moderate Coastal Flooding Remains Possible Along the St. Johns River and Northeast Florida Coast At or Near Times of High Tide...Widespread Modeate to Major Riverine Flooding Continues for West, Central, and Northeast Florida Waterways...Rivers to Remain in Flood Stage for the Next Several Weeks at Some Locations...National Hurricane Center Continues to Monitor Invest 94L Over the Eastern Tropical Atlantic (Medium - 50% Chance of Development Over the Next 7 Days)...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
