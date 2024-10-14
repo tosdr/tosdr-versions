@@ -2,7 +2,7 @@
 
 ![](https://px.ads.linkedin.com/collect/?pid=4160820&fmt=gif)
 
-      Privacy Policy | Toddle                                              
+      Privacy Policy | Toddle                                                 
 
 [![Toddle](https://www.toddleapp.com/wp-content/uploads/2021/01/toddle_title_dark.svg)](https://www.toddleapp.com/ "Toddle")
 
