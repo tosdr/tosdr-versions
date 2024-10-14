@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: Tyler Wellsted by the mural; R: Jesse Lloyd-Smith.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.54-360x180.jpg)](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
+    
+    ### [Heartfelt mural unveiled for Jesse Lloyd-Smith three months after he was killed in Peckham](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
+    
+    [![L: Jeff Thompson, founder.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.42-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
+    
+    ### [Inspiring Bermondsey man opened a gym for prostate cancer patients](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
+    
+    [![Guys St Thomas' Theatre Nurse strike](https://southwarknews.co.uk/wp-content/uploads/2024/10/Guys-St-Thomas-Theatre-Nurse-Strike_cropped-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
+    
+    ### [Guy’s and St Thomas’ nurses secure reduction in late-night shifts after strike action](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
+    
     [![Left to right: Meysam Ghorbani, Hosein Ghadimi, Hadi Salahi](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Meysam-Ghorbani-Hosein-Ghadimi-Hadi-Salahi-360x180.png)](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
     
     ### [Three jailed for drug dealing after vulnerable man dies in Bermondsey](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
@@ -42,18 +54,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/christopher-biggins-darts-360x180.jpg)](https://southwarknews.co.uk/news/community/south-london-celebrates-success-at-over-60s-olympics/)
     
     ### [South London celebrates success at ‘over-60’s Olympics’](https://southwarknews.co.uk/news/community/south-london-celebrates-success-at-over-60s-olympics/)
-    
-    [![Marina Ahmad](https://southwarknews.co.uk/wp-content/uploads/2022/11/Marina-Ahmad-AM-360x180.jpg)](https://southwarknews.co.uk/area/southwark/lets-ensure-that-every-child-has-the-chance-to-develop-a-healthy-smile-writes-marina-ahmad/)
-    
-    ### [‘Let’s ensure that every child has the chance to develop a healthy smile,’ writes Marina Ahmad](https://southwarknews.co.uk/area/southwark/lets-ensure-that-every-child-has-the-chance-to-develop-a-healthy-smile-writes-marina-ahmad/)
-    
-    [![Housing Ombudsman Richard Blakeway. Credit: Housing Ombdusman](https://southwarknews.co.uk/wp-content/uploads/2024/10/Richard-Blakeway-Photo-e1728661966969-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-homeowners-conference-to-host-government-speakers/)
-    
-    ### [Southwark HomeOwners Conference to host government speakers](https://southwarknews.co.uk/area/southwark/southwark-homeowners-conference-to-host-government-speakers/)
-    
-    [![Local resident are calling for a multi-agency approach that targets crack dealing and use on their streets](https://southwarknews.co.uk/wp-content/uploads/2024/10/Local-resident-are-calling-for-a-multi-agency-approach-that-targets-crack-dealing-and-use-on-their-streets-360x180.png)](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
-    
-    ### [Brixton ‘twenty times worse’ than ’24-hour crack supermarket’ of the early 2000s, locals warn](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: Tyler Wellsted by the mural; R: Jesse Lloyd-Smith.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.54-360x180.jpg)](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
+    
+    ### [Heartfelt mural unveiled for Jesse Lloyd-Smith three months after he was killed in Peckham](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
+    
+    [![L: Jeff Thompson, founder.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.42-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
+    
+    ### [Inspiring Bermondsey man opened a gym for prostate cancer patients](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
+    
+    [![Guys St Thomas' Theatre Nurse strike](https://southwarknews.co.uk/wp-content/uploads/2024/10/Guys-St-Thomas-Theatre-Nurse-Strike_cropped-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
+    
+    ### [Guy’s and St Thomas’ nurses secure reduction in late-night shifts after strike action](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
+    
     [![Left to right: Meysam Ghorbani, Hosein Ghadimi, Hadi Salahi](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Meysam-Ghorbani-Hosein-Ghadimi-Hadi-Salahi-360x180.png)](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
     
     ### [Three jailed for drug dealing after vulnerable man dies in Bermondsey](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
@@ -122,18 +134,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/christopher-biggins-darts-360x180.jpg)](https://southwarknews.co.uk/news/community/south-london-celebrates-success-at-over-60s-olympics/)
     
     ### [South London celebrates success at ‘over-60’s Olympics’](https://southwarknews.co.uk/news/community/south-london-celebrates-success-at-over-60s-olympics/)
-    
-    [![Marina Ahmad](https://southwarknews.co.uk/wp-content/uploads/2022/11/Marina-Ahmad-AM-360x180.jpg)](https://southwarknews.co.uk/area/southwark/lets-ensure-that-every-child-has-the-chance-to-develop-a-healthy-smile-writes-marina-ahmad/)
-    
-    ### [‘Let’s ensure that every child has the chance to develop a healthy smile,’ writes Marina Ahmad](https://southwarknews.co.uk/area/southwark/lets-ensure-that-every-child-has-the-chance-to-develop-a-healthy-smile-writes-marina-ahmad/)
-    
-    [![Housing Ombudsman Richard Blakeway. Credit: Housing Ombdusman](https://southwarknews.co.uk/wp-content/uploads/2024/10/Richard-Blakeway-Photo-e1728661966969-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-homeowners-conference-to-host-government-speakers/)
-    
-    ### [Southwark HomeOwners Conference to host government speakers](https://southwarknews.co.uk/area/southwark/southwark-homeowners-conference-to-host-government-speakers/)
-    
-    [![Local resident are calling for a multi-agency approach that targets crack dealing and use on their streets](https://southwarknews.co.uk/wp-content/uploads/2024/10/Local-resident-are-calling-for-a-multi-agency-approach-that-targets-crack-dealing-and-use-on-their-streets-360x180.png)](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
-    
-    ### [Brixton ‘twenty times worse’ than ’24-hour crack supermarket’ of the early 2000s, locals warn](https://southwarknews.co.uk/news/crime/brixton-twenty-times-worse-than-24-hour-crack-supermarket-of-the-early-2000s-locals-warn/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -373,6 +373,24 @@ Website
 
 ### Featured Articles
 
+[![L: Tyler Wellsted by the mural; R: Jesse Lloyd-Smith.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.54-120x86.jpg)](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
+
+### [Heartfelt mural unveiled for Jesse Lloyd-Smith three months after he was killed in Peckham](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
+
+[14th October 2024](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
+
+[![L: Jeff Thompson, founder.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.42-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
+
+### [Inspiring Bermondsey man opened a gym for prostate cancer patients](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
+
+[14th October 2024](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
+
+[![Guys St Thomas' Theatre Nurse strike](https://southwarknews.co.uk/wp-content/uploads/2024/10/Guys-St-Thomas-Theatre-Nurse-Strike_cropped-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
+
+### [Guy’s and St Thomas’ nurses secure reduction in late-night shifts after strike action](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
+
+[14th October 2024](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
+
 [![Left to right: Meysam Ghorbani, Hosein Ghadimi, Hadi Salahi](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Meysam-Ghorbani-Hosein-Ghadimi-Hadi-Salahi-120x86.png)](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
 
 ### [Three jailed for drug dealing after vulnerable man dies in Bermondsey](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
@@ -390,24 +408,6 @@ Website
 ### [Exclusive: Brixton Market traders say they ‘were not told’ about the market going up for sale](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
 
 [11th October 2024](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
-
-[![The office scheme approved in 2021](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-office-scheme-approved-in-2021-e1728638709751-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
-
-### [Southwark Station to close for nine weekends from October](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
-
-[11th October 2024](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2022/07/WEB-Night-Tube-120x86.jpg)](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
-
-### [Proposals for the Night Tube to run on Thursday nights are being kept ‘under review’](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
-
-[11th October 2024](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
-
-[![Leo Gregory, Green Street actor (left), and Roy Larner (right). Image: Dougie Brimson](https://southwarknews.co.uk/wp-content/uploads/2024/10/Leo-Gregory-Green-Street-actor-left-and-Roy-Larner-right.-Image-Dougie-Brimson-120x86.png)](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
-
-### [Exclusive: ‘Green Street’ creator to make movie about man who shouted ‘F\*ck you I’m Millwall’ while fighting off Jihadi terrorists](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
-
-[10th October 2024](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
 
 ### USEFUL PAGES
 
