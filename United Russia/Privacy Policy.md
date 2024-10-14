@@ -305,7 +305,7 @@
 
 [#Горелкин](https://er.ru/activity/news?tags%5B0%5D=101387) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#криптовалюта](https://er.ru/activity/news?tags%5B0%5D=110645) [#майнинг](https://er.ru/activity/news?tags%5B0%5D=111501) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
 
-Сегодня 18:40
+14.10.24
 
 [![«Молодая Гвардия Единой России» и «Волонтёрская Рота» проведут в новых регионах мероприятия ко Дню отца](https://cdn.er.ru/media/news/October2024/wBIbkMNvPy9XmpwfoUSA-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volontyorskaya-rota-provedut-v-novyh-regionah-meropriyatiya-ko-dnyu-otca)
 
@@ -313,7 +313,7 @@
 
 [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=132412) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#деньотца](https://er.ru/activity/news?tags%5B0%5D=111880)
 
-Сегодня 18:03
+14.10.24
 
 [![Владимир Якушев: «Единой России» важно слышать больше предложений из регионов и оперативно отвечать на запросы людей](https://cdn.er.ru/media/news/October2024/FPVG8xiHekIhSS1tr7UI-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinoj-rossii-vazhno-slyshat-bolshe-predlozhenij-iz-regionov-i-operativno-otvechat-na-zaprosy-lyudej)
 
@@ -321,7 +321,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#высшаяпартийнаяшколаЕР](https://er.ru/activity/news?tags%5B0%5D=128453) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517)
 
-Сегодня 14:10
+14.10.24
 
 [![Кандидаты от «Единой России» набрали 92% голосов на выборах в прошедшее воскресенье](https://cdn.er.ru/media/news/October2024/CtB2o84qpk2UmxyJp3ug-small.jpg)](https://er.ru/activity/news/kandidaty-ot-edinoj-rossii-nabrali-92-golosov-na-vyborah-v-proshedshee-voskresene)
 
@@ -329,7 +329,7 @@
 
 [#выборы](https://er.ru/activity/news?tags%5B0%5D=31) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ОМСУ](https://er.ru/activity/news?tags%5B0%5D=8960) [#мандаты](https://er.ru/activity/news?tags%5B0%5D=1199)
 
-Сегодня 12:10
+14.10.24
 
 [![«Единая Россия» запустила в регионах мониторинг готовности многоквартирных домов к отопительному сезону](https://cdn.er.ru/media/news/October2024/rAbFneZV4ASr5PkkIW4L-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zapustila-v-regionah-monitoring-gotovnosti-mnogokvartirnyh-domov-k-otopitelnomu-sezonu)
 
@@ -337,7 +337,7 @@
 
 [#Школаграмотногопотребителя](https://er.ru/activity/news?tags%5B0%5D=1090072) [#Козлов](https://er.ru/activity/news?tags%5B0%5D=8078) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 10:58
+14.10.24
 
 [![Владимир Якушев: Ежедневной работой специалисты сельхозотрасли добились для России статуса аграрной сверхдержавы](https://cdn.er.ru/media/news/October2024/GWkgCMSSVNSEsI7nDXzX-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-ezhednevnoj-rabotoj-specialisty-selhozotrasli-dobilis-dlya-rossii-statusa-agrarnoj-sverhderzhavy)
 
