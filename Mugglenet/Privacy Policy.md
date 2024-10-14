@@ -292,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-While filming Harry Potter and the Prisoner of Azkaban, Tom Felton’s Hogwarts robes had their pockets sewn shut because he kept trying to sneak food onto the set.
+There are 1,100,086 words in the entire “Harry Potter” series.
 
 ### Potter History
 
-November 12, 2013 – Wonderbook: Book of Potions is released for PlayStation 3 in North America.
+May 1, 2008 – For the first time in a decade, the weekly New York Times Best Seller List doesn’t hold a single Harry Potter book.
 
 ### Potter Quote
 
-“She stopped you killing me. And I’ve seen the real you, I saw you last year. You’re a wreck. You’re barely alive. That’s where all your power got you. You’re in hiding. You’re ugly, you’re foul —”
+“Pathetic! With the whole wide world of ear-related humor before you, you go for holey?”
 
 [](#)
 
