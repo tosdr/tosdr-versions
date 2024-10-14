@@ -12,7 +12,7 @@
     * [Casual (291)](https://an1.com/games/casual/)
     * [Strategy (278)](https://an1.com/games/strategy/)
     * [Sport (197)](https://an1.com/games/sport/)
-    * [Simulations (456)](https://an1.com/games/simulations/)
+    * [Simulations (457)](https://an1.com/games/simulations/)
     * [Race (316)](https://an1.com/games/race/)
     * [Desktop (32)](https://an1.com/games/desktop/)
     * [Logical (152)](https://an1.com/games/logical/)
