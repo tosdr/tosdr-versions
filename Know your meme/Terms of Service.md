@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Game Freak Pokémon GigaLeaks](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks "Game Freak Pokémon GigaLeaks") [Skyla](https://knowyourmeme.com/memes/skyla "Skyla") [Spiritual Successor To Disco Elysium](https://knowyourmeme.com/memes/spiritual-successor-to-disco-elysium "Spiritual Successor To Disco Elysium")
+[Game Freak Pokémon GigaLeaks](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks "Game Freak Pokémon GigaLeaks") [Skyla](https://knowyourmeme.com/memes/skyla "Skyla") [The "Saeko" Tweet](https://knowyourmeme.com/memes/saeko-tweet-could-you-please-address-me-as-saeko "The "Saeko" Tweet") [Spiritual Successor To Disco Elysium](https://knowyourmeme.com/memes/spiritual-successor-to-disco-elysium "Spiritual Successor To Disco Elysium") [Pokémon](https://knowyourmeme.com/memes/subcultures/pokemon "Pokémon")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### O HAI! You must login or signup first!
+### Yo Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
