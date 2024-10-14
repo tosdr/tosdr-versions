@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Time magazine owner calls out Kamala Harris for turning down multiple interview requests](https://nypost.com/2024/10/14/us-news/time-magazine-owner-calls-out-kamala-harris-for-turning-down-multiple-interview-requests/)
+
 Terms Of Use
 ============
 
