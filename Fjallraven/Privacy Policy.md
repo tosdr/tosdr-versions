@@ -274,9 +274,18 @@ Asia
     * [Show all](https://www.fjallraven.com/us/en-us/about/sustainability/)
     * [Explore](https://www.fjallraven.com/us/en-us/about/sustainability/)
     
+    ![](/4a76c5/globalassets/fjallraven/us/homepage/2024/new-mobile-heroshdw-1.png)
+    
+    [](https://www.fjallraven.com/us/en-us/about/sustainability/)
+    
+    SUSTAINABILITY
+    --------------
+    
+    ### LEARN MORE
+    
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=19a2ac6e-4b26-47dd-aece-22df4496416f)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=3558b8c2-dc2a-4446-a21e-0a63314fd74f)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -440,7 +449,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=19a2ac6e-4b26-47dd-aece-22df4496416f)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=3558b8c2-dc2a-4446-a21e-0a63314fd74f)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -808,7 +817,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=19a2ac6e-4b26-47dd-aece-22df4496416f)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=3558b8c2-dc2a-4446-a21e-0a63314fd74f)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
