@@ -541,6 +541,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![8 of the best travel destinations for spring 2025](https://media.restless.co.uk/uploads/2024/10/the-best-travel-destinations-for-spring-2025-768x508.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-for-spring/)
+
+### [8 of the best travel destinations for spring 2025](https://restless.co.uk/travel/the-best-travel-destinations-for-spring/)
+
+[Read More »](https://restless.co.uk/travel/the-best-travel-destinations-for-spring/)
+
 [![Exploring Italy's hidden gems - 8 must-see spots](https://media.restless.co.uk/uploads/2024/06/exploring-italys-hidden-gems-8-must-see-spots-768x398.jpg)](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
 
 ### [Exploring Italy’s hidden gems – 6 must-see spots](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
@@ -570,12 +576,6 @@ New in travel
 ### [9 awe-inspiring travel destinations best explored by small ships](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
 
 [Read More »](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
-
-[![12 of the cheapest countries to visit in Europe](https://media.restless.co.uk/uploads/2022/12/the-cheapest-countries-to-visit-in-europe-768x513.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
-
-### [12 of the cheapest countries to visit in Europe](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
-
-[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
 
 Popular travel guides
 ---------------------
