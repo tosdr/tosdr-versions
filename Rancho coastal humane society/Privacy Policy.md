@@ -1,7 +1,7 @@
 [](#)
 
 * [About](#)
-    * [Our Mission & Team](https://rchumanesociety.org/our-mission/)
+    * [Mission & Team](https://rchumanesociety.org/our-mission/)
     * [Board & Financials](https://rchumanesociety.org/board-financials/)
     * [Newsroom](https://rchumanesociety.org/newsroom/)
     * [Careers](https://rchumanesociety.org/careers/)
@@ -63,7 +63,7 @@ No products in the cart.
 [![Rancho Coastal Humane Society](https://rchumanesociety.org/wp-content/uploads/2015/12/RCHS-1960-Logo-tagline-sm.png)](https://rchumanesociety.org/)
 
 * [About](#)
-    * [Our Mission & Team](https://rchumanesociety.org/our-mission/)
+    * [Mission & Team](https://rchumanesociety.org/our-mission/)
     * [Board & Financials](https://rchumanesociety.org/board-financials/)
     * [Newsroom](https://rchumanesociety.org/newsroom/)
     * [Careers](https://rchumanesociety.org/careers/)
