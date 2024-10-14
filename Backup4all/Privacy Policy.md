@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Numergy using ...](https://www.backup4all.com/how-to-back-up-data-files-from-numergy-using-backup4all-kb.html)  
+* [How to override the application folders](https://www.backup4all.com/how-to-override-the-application-folders-kb.html)  
     
-* [How to create a mirror with zip backup](https://www.backup4all.com/how-to-create-a-mirror-with-zip-backup-kb.html)  
+* [How to use the backup list](https://www.backup4all.com/how-to-use-the-backup-list-kb.html)  
     
-* [Backup software](https://www.backup4all.com/backup-software-kb.html)  
+* [How to back up data files from Revera using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-revera-using-backup4all-kb.html)  
     
-* [How to use advanced backup settings in Backup ...](https://www.backup4all.com/how-to-use-advanced-settings-in-backup4all-kb.html)  
+* [Backup Outlook emails and settings](https://www.backup4all.com/backup-outlook-emails-and-settings-kb.html)  
     
-* [Backup videos with Backup4all](https://www.backup4all.com/backup-videos-with-backup4all-kb.html)  
+* [DVD formats supported by Backup4all](https://www.backup4all.com/dvd-formats-supported-by-backup4all-kb.html)  
     
 
 Choose language:
