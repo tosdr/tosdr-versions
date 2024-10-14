@@ -585,9 +585,9 @@ DANS TOUTE LA MESURE PERMISE PAR LA LOI, EN AUCUN CAS L'EDITEUR OU SES PARTENAIR
 Les plus lus
 ------------
 
-1. [![Hommage à Samuel Paty et Dominique Bernard, à Montpellier](https://images.bfmtv.com/HPU9L3mw3MSmjKKr50lJzp2fxH8=/0x72:1440x882/300x0/images/Hommage-a-Samuel-Paty-et-Dominique-Bernard-a-Montpellier-1728270.jpg)
+1. [![Les établissements scolaires observent une minute de silence en hommage à Samuel Paty et Dominique Bernard](https://images.bfmtv.com/Z31mbaWDr28IRshUy80QqAbWADg=/0x0:1920x1080/300x0/images/Les-etablissements-scolaires-observent-une-minute-de-silence-en-hommage-a-Samuel-Paty-et-Dominique-Bernard-1955972.jpg)
     
-    ![Hommage à Samuel Paty et Dominique Bernard, à Montpellier](https://images.bfmtv.com/HPU9L3mw3MSmjKKr50lJzp2fxH8=/0x72:1440x882/300x0/images/Hommage-a-Samuel-Paty-et-Dominique-Bernard-a-Montpellier-1728270.jpg)
+    ![Les établissements scolaires observent une minute de silence en hommage à Samuel Paty et Dominique Bernard](https://images.bfmtv.com/Z31mbaWDr28IRshUy80QqAbWADg=/0x0:1920x1080/300x0/images/Les-etablissements-scolaires-observent-une-minute-de-silence-en-hommage-a-Samuel-Paty-et-Dominique-Bernard-1955972.jpg)
     
     ### "Nous ne les oublierons pas": une minute de silence pour Samuel Paty et Dominique Bernard dans les écoles ce lundi](https://www.bfmtv.com/societe/education/nous-ne-les-oublierons-pas-une-minute-de-silence-pour-samuel-paty-et-dominique-bernard-dans-les-ecoles-ce-lundi_AD-202410140036.html ""Nous ne les oublierons pas": une minute de silence pour Samuel Paty et Dominique Bernard dans les écoles ce lundi")
 2. [### "Des gages pour Marine Le Pen": la gauche vent debout après l'annonce d'une nouvelle loi immigration](https://www.bfmtv.com/politique/gouvernement/des-gages-pour-marine-le-pen-la-gauche-vent-debout-apres-l-annonce-d-une-nouvelle-loi-immigration_AV-202410140037.html ""Des gages pour Marine Le Pen": la gauche vent debout après l'annonce d'une nouvelle loi immigration")
