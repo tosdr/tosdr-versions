@@ -255,26 +255,6 @@ Unlock special offers and receive timely updates from our knowledgeable experts.
 
 * * *
 
-Amazon
-
-American Express
-
-Apple Pay
-
-Diners Club
-
-Discover
-
-Meta Pay
-
-Google Pay
-
-Mastercard
-
-Shop Pay
-
-Visa
-
 © 2024 Dante Labs US, 3714 Bluestein Drive, Austin, TX 78721[](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
 Cart 0
