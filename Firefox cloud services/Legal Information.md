@@ -65,7 +65,7 @@ Please download Firefox ESR (Extended Support Release) to use Firefox.
         
     * [#### Release Notes
         
-        Get the details on the latest Firefox updates.](https://www.mozilla.org/firefox/131.0.2/releasenotes/)
+        Get the details on the latest Firefox updates.](https://www.mozilla.org/firefox/131.0.3/releasenotes/)
         
     
     [View all Firefox Browsers](https://www.mozilla.org/en-US/firefox/)
