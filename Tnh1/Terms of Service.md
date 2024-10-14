@@ -198,23 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/a/csm_Gustavo_Nicola_-_foto_Allan_Max_-_ASCOM_CSA_35e39fc782.jpg)
-
-gustavo nicola
-
-gustavo nicola
-
-Meio-campista do CSA é suspenso após exame antidoping no ex-clube
-
-Meio-campista do CSA é suspenso após exame antidoping no ex-clube](https://www.tnh1.com.br/noticia/nid/meio-campista-do-csa-e-suspenso-apos-exame-antidoping-no-ex-clube/ "Meio-campista do CSA é suspenso após exame antidoping no ex-clube")[![Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/9/csm_Vitimas_de_acidente_com_helicoptero_do_Corpo_de_Bombeiros_em_Minas_Gerais_ef222f1a61.jpg)
-
-ouro preto
-
-ouro preto
-
-Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto
-
-Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto](https://www.tnh1.com.br/noticia/nid/acidente-de-helicoptero-governo-de-mg-divulga-nomes-das-vitimas-e-decreta-luto/ "Acidente de helicóptero: Governo de MG divulga nomes das vítimas e decreta luto")[![Árbitra suspensa por vídeo de sexo rompe silêncio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/3/csm_arbitra_Elif_Karaarslan_-_foto_Reproducao_Instagram_c72d9ac8d2.jpg)
+[![Árbitra suspensa por vídeo de sexo rompe silêncio](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/3/csm_arbitra_Elif_Karaarslan_-_foto_Reproducao_Instagram_c72d9ac8d2.jpg)
 
 Futebol Internacional
 
@@ -222,7 +206,7 @@ Futebol Internacional
 
 Árbitra suspensa por vídeo de sexo rompe silêncio
 
-Árbitra suspensa por vídeo de sexo rompe silêncio](https://www.tnh1.com.br/noticia/nid/arbitra-suspensa-por-video-de-sexo-rompe-silencio/ "Árbitra suspensa por vídeo de sexo rompe silêncio")[![Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/a/csm_variante_virus_cbe620b2b8.png)
+Árbitra suspensa por vídeo de sexo rompe silêncio](https://www.tnh1.com.br/noticia/nid/arbitra-suspensa-por-video-de-sexo-rompe-silencio/ "Árbitra suspensa por vídeo de sexo rompe silêncio")[![Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/a/csm_variante_virus_cbe620b2b8.png)
 
 Brasil
 
@@ -230,7 +214,23 @@ Brasil
 
 Nova variante do vírus Sars-CoV-2 é identificada em três estados
 
-Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://www.tnh1.com.br/noticia/nid/nova-variante-do-virus-sars-cov-2-e-identificada-em-tres-estados/ "Nova variante do vírus Sars-CoV-2 é identificada em três estados")
+Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://www.tnh1.com.br/noticia/nid/nova-variante-do-virus-sars-cov-2-e-identificada-em-tres-estados/ "Nova variante do vírus Sars-CoV-2 é identificada em três estados")[![Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/d/csm_carteira_de_trabalho_foto_secom_maceio_ffbed9bb06.jpg)
+
+Mercado de Trabalho
+
+Mercado de Trabalho
+
+Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior
+
+Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/procurando-emprego-veja-789-novas-vagas-a-partir-desta-segunda-em-maceio-e-no-interior/ "Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior")[![Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_Mae_alerta_sobre_como_vape_contribuiu_para_morte_de_filho_aos_20_anos_apos_infeccao_-_foto_Divulgacao_22fe9db73b.jpg)
+
+após infecção
+
+após infecção
+
+Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'
+
+Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'](https://www.tnh1.com.br/noticia/nid/mae-alerta-sobre-como-vape-contribuiu-para-morte-de-filho-aos-20-anos-pulmao-nao-reagiu/ "Mãe alerta sobre como vape contribuiu para morte de filho aos 20 anos: 'Pulmão não reagiu'")
 
 [![Operação Raízes do Cedro: quinto voo decola do Líbano com 220 repatriados](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/1/csm_voo_FAB_2c0271cbbe.png)
 
