@@ -31,6 +31,173 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Congestión vehicular se registra en esta vía del norte de Quito este lunes 14 de octubre
+========================================================================================
+
+Los conductores de este sector de Quito reportaron un tiempo de entre 30 y 40 minutos de tráfico
+------------------------------------------------------------------------------------------------
+
+![Usuarios reportaron congestión vehicular en el sector de la Legarda.](https://www.elcomercio.com/wp-content/uploads/2024/10/Legarda.jpg)
+
+Este lunes 14 de octubre de 2024, el **tránsito vehicular colapsó** en el norte de Quito y causó el retraso de los quiteños a sus actividades diarias.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este lunes 14 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-14-de-octubre.html "Así funciona el Pico y placa en Quito este lunes 14 de octubre")
+* [Cortes de luz para este 14 de octubre de 2024 en Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-horarios-14-de-octubre-de-2024-quito.html "Cortes de luz para este 14 de octubre de 2024 en Quito")
+* [Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz](https://www.elcomercio.com/actualidad/gobierno-de-daniel-noboa-abre-procesos-para-centrales-termoelectricas-por-cortes-de-luz.html "Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz")
+
+Tráfico en el norte de Quito
+----------------------------
+
+El flujo vehicular en sentido norte sur tuvo complicaciones esta mañana en la av. **Mariscal Sucre**, en Quito. Conductores tuvieron problemas para circular desde la entrada **al Condado**, a la altura de la gasolinera Primax.
+
+Decenas de autos avanzaban poco a poco sobre la avenida conocida por los quiteños como la **Occidental**. Alejandro Cáceres, por ejemplo, llegó desde **Pomasqui** hasta este sector a las 06:10 y pudo pasar la calle Legarda recién a las 06:43.
+
+**Cáceres estuvo 33 minutos** en un tramo que normalmente hace en 5 minutos. Lo mismo le pasó a María Vélez, quien venía desde la zona del **Condado**. Ella estuvo más de 40 minutos atascada en el mismo tramo hasta la calle Legarda.
+
+Semáforos descalibrados
+-----------------------
+
+Antes del puente, Vélez pudo ver un **tráiler dañado** en un costado y pensó que ese era el motivo de la congestión. Sin embargo, usuarios en redes sociales se quejan de que el problema es la mala calibración de los semáforos.
+
+Reportan que el **semáforo dura pocos segundos** en ponerse nuevamente en verde, por lo que son muy pocos los vehículos que alcanzan a pasar.
+
+Verónica Guerra, por ejemplo, comentó en X que **el problema persiste desde el miércoles pasado**. Ella confirma que este inconveniente complica el tránsito hasta el sector del Condado y que lo que tomaba 5 minutos ahora toma 30.
+
+> [@washo2627](https://twitter.com/washo2627?ref_src=twsrc%5Etfw) [@AMT\_Quito](https://twitter.com/AMT_Quito?ref_src=twsrc%5Etfw) Por favor qué pasó en el semáforo de Legarda impide avanzar a los autos que tomamos la Av Mariscal Sucre sentido norte sur en la mañana, un trayecto que tomaba 5 minutos, desde el miércoles pasado toma 30 minutos!, el tráfico se irradia hasta el Condado!!!! [pic.twitter.com/l8FK1DEwSc](https://t.co/l8FK1DEwSc)
+> 
+> — Verónica Guerra (@VeroLuGuerra) [October 14, 2024](https://twitter.com/VeroLuGuerra/status/1845805119796867421?ref_src=twsrc%5Etfw)
+
+Así como Guerra, Daniel Loján comenta en la red social X que el **semáforo de la Occidental** y Legarda tiene **mal calibrados los tiempos**. La congestión se registra en la Occidental mientras por la Legarda no circula nadie.
+
+Los usuarios de esta red social hicieron el llamado a la **Agencia Metropolitana de Tránsito** (AMT) para que revisen este inconveniente con el semáforo.
+
+Te dejamos un **mapa en tiempo real** para que revises la congestión en la zona:
+
+Así funciona el Pico y placa en Quito este lunes 14 de octubre
+==============================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa rige de lunes a viernes en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-lunes-14.jpg)
+
+El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+
+### Más noticias
+
+* [Guayaquil tiene nuevos horarios de cortes de luz para este lunes 14 de octubre de 2024](https://www.elcomercio.com/actualidad/ecuador/guayaquil-nuevos-horarios-cortes-de-luz-lunes-14-de-octubre-de-2024.html "Guayaquil tiene nuevos horarios de cortes de luz para este lunes 14 de octubre de 2024")
+* [Cortes de luz para este 14 de octubre de 2024 en Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-horarios-14-de-octubre-de-2024-quito.html "Cortes de luz para este 14 de octubre de 2024 en Quito")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
+
+> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
+> 
+> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
+
+Seis autoras ecuatorianas imprescindibles para conmemorar el Día de las Escritoras 
+===================================================================================
+
+El Día de las Escritoras visibiliza la contribución de las mujeres en la literatura.
+------------------------------------------------------------------------------------
+
+![El Día de las Escritoras se estableció cerca de la festividad de Teresa de Jesús. Foto: www.cultura.gob.es.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas.jpg)
+
+El **Día de las Escritoras** es una iniciativa que busca **compensar la discriminación histórica hacia las mujeres en la literatura**, surgida en octubre de 2016 gracias a la colaboración entre la Biblioteca Nacional de España, la Asociación Clásicas y Modernas, y la FEDEPE.  
+
+### Más noticias
+
+* [Fallece escritora ganadora del Premio Nobel de Literatura](https://www.elcomercio.com/tendencias/cultura/alice-munro-escritora-premio-nobel-obituario.html "https://www.elcomercio.com/tendencias/cultura/alice-munro-escritora-premio-nobel-obituario.html") 
+* [Conoce a Han Kang, premio Nobel de Literatura 2024, su estilo e impacto literario](https://www.elcomercio.com/tendencias/cultura/han-kang-premio-nobel-literatura.html "https://www.elcomercio.com/tendencias/cultura/han-kang-premio-nobel-literatura.html") 
+
+Se eligió esta fecha, el lunes más cercano, por su proximidad a la festividad de **Teresa de Jesús (15 de octubre)**, símbolo de la excelencia literaria y espiritual femenina. Con motivo de esta celebración, se destaca una lista de **escritoras ecuatorianas reconocidas que merecen ser leídas**. 
+
+**Gabriela Alemán (Río de Janeiro, 1968)** 
+-------------------------------------------
+
+![Foto: El País.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas-1-1024x683.jpg)
+
+Foto: El País.
+
+Según la página [Mandrágora Teatro](https://mandragorateatro.org/gabriela-aleman-2/ "https://mandragorateatro.org/gabriela-aleman-2/"), **Gabriela Alemán**, nacida en **Río de Janeiro** y criada en siete países, descubrió la escritura en su adolescencia, influenciada por su abuelo, el **cronista Hugo Alemán**, y su padre, un ávido lector. Se formó académicamente en importantes universidades y destacó en el baloncesto. Sus viajes la inspiraron a escribir, lo que la llevó a convivir con destacados escritores en España, enriqueciendo su obra. Es escritora, profesora universitaria y traductora. **Recibió la beca Guggenheim** en 2006 y fue seleccionada para **Bogotá 39**. Su escritura se inspira en autoras como **Grace Paley y Ursula K. Le Guin**. Entre sus obras destacadas están: ‘Maldito corazón’ (1996), ‘Poso Wells’ (2007), ‘La muerte silba un blues’ (2014).  
+
+**Gabriela Ponce Padilla (Quito, 1977)** 
+-----------------------------------------
+
+![Foto: Ecuadorian Literature.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas-2-1024x683.jpg)
+
+Foto: Ecuadorian Literature.
+
+De acuerdo con la página de la **editorial española [Candaya](https://www.candaya.com/autor/gabriela-ponce/ "https://www.candaya.com/autor/gabriela-ponce/")**, Ponce es escritora, directora de teatro y **profesora de artes escénicas en la Universidad San Francisco de Quito**. Ha publicado ‘Antropofaguitas’ (2015), que ganó el **Premio del Ministerio de Cultura de Ecuador**, el monólogo Cama en la antología ‘Penumbra’ (2016) y la obra de teatro ‘Lugar’ (2017), galardonada con el **Premio Gallegos Lara**. Sus cuentos figuran en diversas antologías nacionales e internacionales. Cofundadora de **Casa Mitómana**, también ha producido y dirigido obras como ‘Tazas Rosas de Té’ (2016) y ‘Entrada en Pérdida’ (2013), esta última ganadora del **premio internacional Escritura de las Diferencias**. Su última obra de narrativa se titula **‘Flotar, pude’** (2024). 
+
+**Sandra Araya (Quito, 1980)** 
+-------------------------------
+
+![Foto: Radio Pichincha.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas-3-1024x683.jpg)
+
+Foto: Radio Pichincha.
+
+**Escritora quiteña**, ha ganado el **premio de novela corta Miguel Donoso Pareja** por su obra ‘Los enterramientos’, convirtiéndose en la primera mujer en recibir este galardón. En esta novela, explora la **relación entre la muerte y lo indígena**, al adentrarse en las **normas occidentales** sobre los **rituales funerarios** a través de personajes como Emma y Canaima. Araya ha publicado destacadas novelas, como ‘Orange’ (2014) y ‘La familia del Dr. Lehman’ (2015), además del libro de cuentos ‘Salvajes (del día después)’ (2022). Su escritura se caracteriza por la **fusión de elementos de terror y fantasía en contextos cotidianos.** 
+
+**Mónica Ojeda (Guayaquil, 1988)** 
+-----------------------------------
+
+![Foto: Páginas de Espuma.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas-4-1024x683.jpg)
+
+Foto: Páginas de Espuma.
+
+**Mónica Ojeda**, a decir de la página [Escritores](https://www.escritores.org/biografias/20579-ojeda-monica-#:~:text=M%C3%B3nica%20Ojeda&text=Es%20licenciada%20en%20Comunicaci%C3%B3n%20Social,en%20el%20%C3%A1rea%20de%20Literatura. "https://www.escritores.org/biografias/20579-ojeda-monica-#:~:text=M%C3%B3nica%20Ojeda&text=Es%20licenciada%20en%20Comunicaci%C3%B3n%20Social,en%20el%20%C3%A1rea%20de%20Literatura."), es **Licenciada en Comunicación Socia**l con mención en Literatura, posee un **Máster en Creación Literaria y otro en Teoría y Crítica de la Cultura**. Su obra incluye ‘La desfiguración Silva’ (2015), ganadora del **Premio Alba Narrativa**, ‘Nefando’ (2016), Mandíbula (2018), el libro de cuentos ‘Las Voladoras’ (2020) y ‘Chamanes eléctricos en la fiesta del sol’ (2024) así como el poemario ‘El ciclo de las piedras’ (2015), que le valió el **III Premio Nacional de Poesía Desembarco**. La narrativa de Ojeda explora **emociones vinculadas al miedo y la perversidad**, y se enmarca dentro del **“nuevo gótico latinoamericano”.** 
+
+**Natalia García Freire (Cuenca, 1991)**  
+------------------------------------------
+
+![Foto: Universidad del Azuay.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas-5-1024x683.jpg)
+
+Foto: Universidad del Azuay.
+
+**García Freire**, de acuerdo con la página [Hablemos](https://www.hablemosescritoras.com/writers/1768 "https://www.hablemosescritoras.com/writers/1768"), Escritoras, es **escritora y periodista**, con un **máster en Narrativa de la Escuela de Escritores de Madrid**. Ha publicado artículos en medios como BBC Mundo y Univisión, y su cuento Noche de fiesta apareció en la revista **La gran belleza**. Su primera novela, ‘Nuestra piel muerta’ (2019), ha sido traducida a varios idiomas y **reconocida por el New York Times como uno de los mejores libros del año**, aborda temas como la **conexión del hombre con la tierra, la pérdida y la locura**. Su segunda novela, ‘Trajiste contigo el viento’, fue publicada en 2022. Enseña **Escritura Creativa en la Escuela de Escritores de Madrid y en la Universidad del Azuay**, y también da clases de inglés en primaria. 
+
+**Yuliana Ortiz Ruano (Esmeraldas, 1992)** 
+-------------------------------------------
+
+![Foto: Universidad de las Artes.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas-6-1024x683.jpg)
+
+Foto: Universidad de las Artes.
+
+Siguiendo con la [misma fuente](https://www.hablemosescritoras.com/writers/1153 "https://www.hablemosescritoras.com/writers/1153"), **Ortiz Ruano** es escritora, poeta y **DJ de música afro del Pacífico**. Ruano también es licenciada en Literatura por la **Universidad de las Artes**. Es miembro de **grupos de investigación en artes y literatura afrodescendiente** y participó en el **Mapeo de Feminismos Negros en Abya Yala**. Su obra aborda temas de identidad, género, migración y la **experiencia de los pueblos afrodescendientes en América Latina**, que combina elementos poéticos y narrativos. Ha publicado en diversas revistas y antologías en varios países y **ha obtenido premios como el primer lugar en el concurso nacional de literatura en 2019**. Sus obras incluyen ‘Sovoz’ (2016), ‘Canciones desde el fin del mundo’ (2021), ‘Cuaderno del imposible retorno a Pangea’ (2021) y ‘Fiebre de carnaval’ (2022). 
+
 El reto de definir una visión de país en elecciones
 ===================================================
 
@@ -855,181 +1022,3 @@ Protección al mono aullador
 El espécimen encontrado fue trasladado a un centro de manejo y conservación ex situ para recibir la atención veterinaria necesaria.
 
 Según la l**ista roja de mamíferos de Ecuador** y en el Apéndice II de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres (CITES), el mono aullador se encuentra en **‘Peligro Crítico’**.
-
-Iván Kaviedes y Armando Paredes protagonizarán la pelea del año
-===============================================================
-
-Jaime Iván Kaviedes y Armando Paredes dejan el fútbol y se calzarán los guantes de box en Quito.
-------------------------------------------------------------------------------------------------
-
-![Armando Paredes (i) y Jaime Iván Kaviedes en 2004.](https://www.elcomercio.com/wp-content/uploads/2024/10/kaviedes_paredes_1.jpg)
-
-**Iván Kaviedes**, leyenda del fútbol ecuatoriano, y Armando Paredes, exjugador con pasado en Barcelona Sporting Club y Emelec, entre otros equipos, protagonizarán un evento deportivo que nada tiene que ver con el fútbol.
-
-Tanto **Jaime Iván Kaviedes como Armando Paredes** dejaron hace mucho tiempo el fútbol, pero sus nombres no han estado en el olvido, especialmente por actos extradeportivos que los han mantenido en el centro de la polémica.
-
-### Más noticias:
-
-* [Glenda Morejón, medallista olímpica en París 2024, se casó](https://www.elcomercio.com/deportes/glenda-morejon-medallista-olimpica-en-paris-2024-se-caso.html "Glenda Morejón, medallista olímpica en París 2024, se casó")
-* [¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-eliminatorias-uruguay.html "¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?")
-* [Juan Riquelme Angulo se vistió de héroe con un doblete ante Brasil](https://www.elcomercio.com/deportes/futbol/juan-riquelme-angulo-goles-ecuador.html "Juan Riquelme Angulo se vistió de héroe con un doblete ante Brasil")
-
-Uno de los últimos escándalos de Kaviedes se produjo en mayo de 2024, cuando **Rorys Aragón, exarquero de Emelec, El Nacional, Inter de Milán y Standard Lieja**, solo por mencionar algunos, reveló que el talentoso jugador se había escapado de un centro de rehabilitación.
-
-En agosto Paredes fue noticia por haber estado **involucrado en un incidente cuando intentó ingresar al estadio Monumental por la fuerza**, lo que provocó que el automóvil en el que iba sea retirado del lugar por la autoridades correspondientes.
-
-Ambos exfutbolistas parece que no les gusta estar alejados del foco del comentario público, por lo que se anunció que volverá a la acción, pero no para vestirse de corto y saltar a una cancha de fútbol, sino para subirse a un ring de box.
-
-Kaviedes y Paredes se darán de ‘quiños’
----------------------------------------
-
-El sábado 12 de octubre de 2024 el youtuber ecuatoriano Kike Jav sorprendió a sus seguidores al anunciar que **Kaviedes y Paredes protagonizarán una pelea en el Coliseo General Rumiñahui** en Quito.
-
-“Buscamos opciones y me entero de que han llamado a Armando Paredes. Lo quiero mucho a Armando, me ha hecho **mil y una cosas a lo largo de nuestra carrera futbolística, no tenía el código del respeto**. Es hora de arreglar cuentas pendientes”, mencionó el ‘Nine’ en el video promocional.
-
-“(…) Aquí no te voy a perdonar nada, **lo siento muchísimo, así que prepárate y nos vemos en el ring**“, fue la respuesta del ‘Travieso’, como también es conocido el mediocampista que alcanzó a ser seleccionado nacional.
-
-El evento está programado para el sábado **30 de noviembre en un horario que aún no se confirma**.
-
-Desde el 21 de octubre se pondrán a la venta las entradas para el evento en el que también se incluirán a otros ‘boxeadores’.
-
-¿Quién es Jaime Iván Kaviedes?
-------------------------------
-
-**Jaime Iván Kaviedes** jugó en siete países a lo largo de su carrera profesional que arrancó en 1995 y finalizó en 2020. En ese lapso, 19 equipos le abrieron las puertas al ariete que nació en Santo Domingo de los Tsáchilas en 1977.
-
-El primer equipo de **Iván Kaviedes fue Emelec**. En 1995 debutó con la casaca azul, y tres años más tarde, fue el goleador del campeonato nacional y del mundo con 43 tantos en 39 partidos.
-
-Para 1999 fue **transferido al Perugia de Italia.** Solo se mantuvo un semestre. Jugó 14 partidos y les marcó goles a Juventus, Sampdoria e Inter. Se salvaron del descenso por un solo punto.
-
-Después del Perugia se sumaron uno tras otro los equipos en los que Kaviedes llegó, pero que no pudo alcanzar una estabilidad que le permita demostrar todo el talento que tenía en sus pies.
-
-Celta de Vigo (España), Puebla (México), **Valladolid (España), Porto (Portugal), Barcelona SC (Ecuador)**, Deportivo Quito (Ecuador), Crystal Palace (Inglaterra), y Argentinos Juniors (Argentina), fueron hasta el primer semestre de 2006 los equipos en los que jugó el delantero.
-
-En **Argentina** **fue su última oportunidad** en el exterior. Luego de eso coleccionó camisetas en quipos de la Serie A, B y Segunda Categoría del país.
-
-El Nacional, Liga de Quito, Macará, Aucas, Liga de Loja, Liga de Portoviejo, Águilas de Santo Domingo, CD Santo Domingo y Club Aviced, tuvieron en su nómina a Kaviedes.
-
-![Foto: Twitter @fifaworldcup_es.](https://www.elcomercio.com/wp-content/uploads/2022/09/kaviedes-700x391.jpg)
-
-Foto: Twitter @fifaworldcup\_es.
-
-¿Quién es Armando Paredes?
---------------------------
-
-El 18 de junio de 1984 nació en Vinces, **cantó de la provincia de Los Ríos**, Armando Paredes, mediocampista que por sus características llegó a ser seleccionado de Ecuador.
-
-Su presentación en el fútbol ecuatoriano lo hizo con la camiseta de **Barcelona Sporting Club en 2004**, con tan solo 19 años. Su habilidad rápidamente lo hizo destacar del resto de sus compañeros.
-
-Antes de llegar al cuadro guayaquileño formó parte de **San Rita de Vinces y Liga de Loja**, ambos equipos ligados al fútbol de ascenso del país.
-
-Entre 2004 y 2008 alternó entre Barcelona y Emelec. En ambos equipos lo más cerca que estuvo de ser **campeón nacional fue en 2005 con los amarillos**, y en 2006 con los azules, pero se quedó en la puerta y vio como los festejos fueron de Liga de Quito y El Nacional, respectivamente.
-
-Tras salir de los equipos del Astillero, desde 2009 hasta 2015 deambuló, sin mucho éxito, en Olmedo, El Nacional, Audaz Octubrino, **otra vez Liga de Loja, Liga de Portoviejo, Valle del Chota**, Deportivo Quevedo y Carchi 04 Fútbol Club.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/08/armando_paredes_2-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz
-=======================================================================================
-
-Ecuador inició dos procesos para contar con centrales termoeléctricas, en momentos en que rigen cortes de luz de hasta diez horas.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![La central El Descanso, en Cañar, es un modelo de generación de energía termoeléctrica en el país.](https://www.elcomercio.com/wp-content/uploads/2024/10/centrales-termoelectricas-cortes-de-luz.jpg)
-
-Ecuador inició dos nuevos procesos para la incorporación de otros 160 megavatios térmicos al Sistema Nacional Interconectado (SNI), con **dos centrales termoeléctricas**, en momentos en que rigen **cortes de luz** de hasta diez horas diarias y por franjas horarias en Ecuador[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico")
-
-### Más noticias
-
-* [Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios](https://www.elcomercio.com/actualidad/negocios/cortes-luz-continuan-14-al-20-octubre-2024-conozca-nuevos-horarios.html "Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios")
-* [Cortes de luz en Quito fueron organizados para este domingo 13 de octubre](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-fueron-organizados-para-este-domingo-13-de-octubre.html "Cortes de luz en Quito fueron organizados para este domingo 13 de octubre")
-
-Centrales termoeléctricas para evitar cortes de luz
----------------------------------------------------
-
-La empresa pública Estratégica Corporación Eléctrica de Ecuador (CELEC) informó que el primer proceso es para la **adquisición, instalación, comisionamiento** y puesta en marcha de grupos electrógenos terrestres de 120 MW, en **Durán**, en la provincia costera del Guayas.
-
-Se trata de una **nueva central térmica** que se ubicará en el kilómetro 14 de la vía Durán-Boliche, funcionará con combustible HF04 y su energía se incorporará al SNI a través de la Subestación Durán.
-
-Se inicia el proceso de contratación
-------------------------------------
-
-CELEC indicó que el pasado miércoles publicó en el portal de compras públicas este proceso, que inicia con la recepción de propuestas hasta **hoy, domingo 13 de octubre de 2024**.
-
-De inmediato, la Comisión Técnica analizará el plazo, precio y la adhesión a los **criterios técnicos** de los términos de referencia, y seleccionará la propuesta más conveniente para el **país**.
-
-Posteriormente tendrá lugar la recepción de formularios por parte del proveedor seleccionado, la emisión de **documentos internos** y se procederá con la **adjudicación**.
-
-Segunda central en Machala
---------------------------
-
-El segundo proceso es para el alquiler de 40 megavatios adicionales para la **central Machala II**. Serán dos unidades de 20 MW cada una, duales, es decir, que funcionarán con **diésel o gas natural.**
-
-El pasado viernes, se presentó el proceso al portal de **compras públicas**. El plazo para la presentación de las propuestas concluye el **16 de octubre**.
-
-La compra y alquiler de estas nuevas unidades son parte del **segundo bloque de generación emergente**, que incorporará hasta 800 MW adicionales al SNI.
-
-Los procesos se presentan en momentos en que Ecuador atraviesa por una **severa crisis energética** que obligó esta semana a **reprogramar los cortes de luz** y elevarlos de cuatro a hasta diez horas diarias.
-
-La sequía en Ecuador
---------------------
-
-El Gobierno aseguró recientemente que el país ha afrontado la peor **sequía en 60 años**, lo que había afectado a la generación en varias **plantas hidroeléctricas**.
-
-Además, anotó que “años de abandono y de **corrupción en la contratación** de obras del sector eléctrico” habían causado los problemas en el suministro de energía a escala nacional.
-
-El Gobierno ha anunciado medidas de medio y largo plazo para atender la **crisis energética**, como la contratación de una planta eléctrica flotante de la empresa turca Karpowership de 100 megavatios, que ya está en **funcionamiento**.
-
-El sector privado en la crisis energética
------------------------------------------
-
-Además, el Ministerio de Energía ha solicitado a las empresas privadas tener activados sus g**eneradores eléctricos a combustible** todo el tiempo que sea posible durante el día para reducir la demanda del sistema eléctrico nacional.
-
-La matriz de generación eléctrica de Ecuador depende en más de un **70 % de centrales hidroeléctricas**, especialmente de Coca Codo Sinclair, la hidroeléctrica más grande del país con 1 500 megavatios de potencia; y en el embalse de **Mazar**, que alimenta a un complejo de tres centrales en el río Paute con una potencia en conjunto de más de **1 700 megavatios.**
-
-Feriados que restan en Ecuador para este 2024
-=============================================
-
-Después de la conmemoración de la Independencia de Guayaquil, Ecuador tiene en su calendario varios feriados nacionales restantes.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Familia en la playa de Ballenita en Santa Elena en un Feriado de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/08/santa-elena.png)
-
-Después de la conmemoración de la **Independencia de Guayaquil**, Ecuador tiene en su calendario varios **feriados nacionales restantes**.
-
-### Más noticias
-
-* [Sector turístico espera reactivación durante el feriado](https://www.elcomercio.com/actualidad/ecuador/viajeros-turismo-guayaquil-feriado-ecuador.html "Sector turístico espera reactivación durante el feriado")
-* [51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/seguridad/policia-seguridad-operativo-feriado-9-octubre.html "51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre")
-* [Conoce el estado de las vías en Ecuador para el feriado](https://www.elcomercio.com/actualidad/ecuador/conoce-el-estado-de-las-vias-en-ecuador-para-el-feriado.html "Conoce el estado de las vías en Ecuador para el feriado")
-
-A continuación, se presenta un resumen de los **días de descanso que aún quedan en 2024**, conforme a la **normativa vigente**.
-
-### Día de Difuntos e Independencia de Cuenca
-
-El próximo feriado nacional será el **Día de Difuntos**, que se traslada del 2 de noviembre al **viernes 1 de noviembre**. Este día conmemora a los fallecidos y es una fecha importante dentro de las tradiciones ecuatorianas.
-
-Al día siguiente, se conmemorará la **Independencia de Cuenca**, programada para el **lunes 4 de noviembre**. Este feriado celebra la independencia de la ciudad de Cuenca, ocurrida en 1820, y es una fecha histórica relevante en el calendario nacional.
-
-Feriado por Navidad
--------------------
-
-El último feriado nacional de 2024 será la **Navidad**, que se celebra el **miércoles 25 de diciembre**. Este día es reconocido como un feriado obligatorio en el país, lo que significa que los trabajadores, tanto del sector público como del privado, tienen derecho a un día de descanso remunerado, conforme lo establece el **Código del Trabajo**.
-
-Si bien no se puede trasladar, este feriado es uno de los más importantes del año y está enmarcado dentro de las **festividades religiosas y culturales**. En años anteriores, la Navidad ha sido un día de descanso nacional sin excepción, con algunas actividades laborales limitadas a servicios de emergencia y hospitalarios.
-
-Normativa de los feriados en Ecuador
-------------------------------------
-
-Según la **Ley Orgánica del Servicio Público** y el **[Código del Trabajo](https://es.wikipedia.org/wiki/Ministerio_del_Trabajo_(Ecuador) "https://es.wikipedia.org/wiki/Ministerio_del_Trabajo_(Ecuador)")**, las fechas de los feriados nacionales pueden trasladarse para favorecer fines de semana largos, como ocurre en el caso de los feriados de noviembre de este año.
-
-Esta disposición está diseñada para garantizar el descanso de los trabajadores, además de impulsar otras actividades vinculadas a estos días.
-
-El calendario de feriados nacionales está establecido por el **Registro Oficial Número 906 – Suplemento del 20 de diciembre de 2016**, que detalla las fechas y las disposiciones legales para el traslado de los días de descanso.
-
-Ecuador se prepara así para los últimos feriados de 2024, que ofrecerán oportunidades de descanso conforme a lo estipulado en la normativa vigente​.
