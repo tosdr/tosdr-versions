@@ -244,6 +244,8 @@ Español
 
 Get exclusive Publishing & Marketing tips to help you create and sell your books more effectively! You can unsubscribe at any time.
 
+[](https://www.instagram.com/luludotcom/)[](https://www.facebook.com/Luludotcom/)[](https://www.linkedin.com/company/luludotcom)[](https://www.youtube.com/@luludotcom)[](https://blog.lulu.com/)[](https://www.publishprosperpodcast.com/)[](https://www.tiktok.com/@lulupublishing)[](https://www.twitter.com/Luludotcom)
+
 [](https://www.lulu.com/ "Lulu Logo")[](https://www.lulu.com/sell/sell-on-your-site/print-api "Lulu API Logo")[](https://www.lulujr.com/ "Lulu Jr. Logo")[](https://www.thetilt.com/ "Tilt Logo")
 
 [Privacy Policy](https://www.lulu.com/privacy-policy)[Terms & Conditions](https://www.lulu.com/terms-and-conditions)
