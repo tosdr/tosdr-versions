@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is there a recall on johnson & johnson baby products?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-is-there-a-recall-on-johnson-johnson-baby-products.jpg "Is There a Recall on Johnson & Johnson Baby Products?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-johnson-and-johnson-baby-products-recalled "Is There a Recall on Johnson & Johnson Baby Products?")
+[![What is the treatment for bedsores?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-the-treatment-for-bedsores-scaled.jpg "What Is the Treatment for Bedsores?")](https://www.pintas.com/faq/what-is-the-treatment-for-bedsores/ "What Is the Treatment for Bedsores?")
 
-[#### Is There a Recall on Johnson & Johnson Baby Products?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-johnson-and-johnson-baby-products-recalled)
+[#### What Is the Treatment for Bedsores?](https://www.pintas.com/faq/what-is-the-treatment-for-bedsores/)
 
-[![How can i report abuse at a memory care facility?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-how-can-i-report-abuse-at-a-memory-care-facility-300x200.jpg "How Can I Report Abuse at a Memory Care Facility?")](https://www.pintas.com/faq/how-can-i-report-abuse-at-a-memory-care-facility/ "How Can I Report Abuse at a Memory Care Facility?")
+[![Can a chest x-ray show asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-chest-xray-show-asbestos.jpg "Can a Chest X-ray Show Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-chest-xray-show-asbestos/ "Can a Chest X-ray Show Asbestos?")
 
-[#### How Can I Report Abuse at a Memory Care Facility?](https://www.pintas.com/faq/how-can-i-report-abuse-at-a-memory-care-facility/)
+[#### Can a Chest X-ray Show Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-a-chest-xray-show-asbestos/)
 
-[![What is advanced mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-what-is-advanced-mesothelioma-scaled.jpg "What Is Advanced Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-is-advanced-mesothelioma "What Is Advanced Mesothelioma?")
+[![Do i need a lawyer for my memory care facility abuse claim?](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim-300x200.jpg "Do I Need a Lawyer for My Memory Care Facility Abuse Claim?")](https://www.pintas.com/faq/do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim/ "Do I Need a Lawyer for My Memory Care Facility Abuse Claim?")
 
-[#### What Is Advanced Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-is-advanced-mesothelioma)
+[#### Do I Need a Lawyer for My Memory Care Facility Abuse Claim?](https://www.pintas.com/faq/do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
