@@ -181,10 +181,10 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
 * [Tesla Robovan](https://techcrunch.com/2024/10/10/robovan-was-the-biggest-surprise-at-tesla-we-robot-event/)
-* [Fidelity Breach](http://fidelity/)
-* [Cybercab](https://techcrunch.com/2024/10/10/tesla-reveals-20-cybercabs-at-we-robot-event/)
-* [Tesla Cybercab](https://techcrunch.com/2024/10/10/tesla-reveals-20-cybercabs-at-we-robot-event/)
-* [Fearless Fund](https://techcrunch.com/2024/10/11/fearless-fund-has-made-its-first-big-deal-since-settling-its-controversial-lawsuit/)
+* [Casio Breach](https://techcrunch.com/2024/10/14/casio-confirms-customer-data-compromised-in-ransomware-attack/)
+* [SpaceX](https://techcrunch.com/2024/10/13/spacex-will-attempt-historic-catch-of-returning-starship-booster-on-sunday/)
+* [Morgan Neville](https://techcrunch.com/2024/10/13/director-morgan-neville-is-steering-clear-of-generative-ai-after-roadrunner-backlash/)
+* [Adobe Firefly](https://techcrunch.com/2024/10/14/adobe-invites-you-to-embrace-the-tech-with-fireflys-new-video-generator/)
 * [Tech Layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/10/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
