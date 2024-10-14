@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The History of the Devil](/wp-content/thumbnails/996-100x70.jpg?x53432)
+* [![Ruby Ridge](/wp-content/thumbnails/1056-100x70.jpg?x53432)
     
-    The History of the Devil
+    Ruby Ridge
     
-    The notion of the devil does not originate in the Bible, as many may think - In the Old Testament, Satan is just another one of God's servants. It is in Iran that the religious teacher Zarathustra sim](https://documentaryheaven.com/the-history-of-the-devil/ "The History of the Devil")
-* [![Time Trip](/wp-content/thumbnails/315-100x70.png?x53432)
+    A documentary on the Federal Siege at Ruby Ridge. "Ruby Ridge was the site of a violent confrontation and siege in the U.S. state of Idaho in 1992. It involved Randy Weaver, his family, Weaver's frien](https://documentaryheaven.com/ruby-ridge/ "Ruby Ridge")
+* [![Panorama: The Battle For Bomb Alley](/wp-content/thumbnails/5068-100x70.jpg?x53432)
     
-    Time Trip
+    Panorama: The Battle For Bomb Alley
     
-    Horizon's Time Trip is a thrilling journey deep into the strangeness of cutting-edge physics - a place where beautiful, baffling ideas are sometimes indistinguishable from the utterly crazy.On this](https://documentaryheaven.com/time-trip/ "Time Trip")
-* [![The Rise of Acid Attacks in the UK](/wp-content/thumbnails/13351-100x70.jpg?x53432)
+    For four years, thousands of British servicemen fought with the Taliban for the district of Sangin – the most violent part of Afghanistan. The fighting cost 106 British lives, including Staff-Sergeant](https://documentaryheaven.com/panorama-the-battle-for-bomb-alley/ "Panorama: The Battle For Bomb Alley")
+* [![What the Bleep Do We Know!?](/wp-content/thumbnails/1313-100x70.jpg?x53432)
     
-    The Rise of Acid Attacks in the UK
+    What the Bleep Do We Know!?
     
-    Acid attacks have existed worldwide for as long as corrosive substances have been around but only in recent years have they become somewhat common place with a reported 1,800 attacks occuring in Londo](https://documentaryheaven.com/rise-of-acid-attacks-in-uk/ "The Rise of Acid Attacks in the UK")
-* [![O.J. Simpson: The Lost Confession?](/wp-content/thumbnails/13899-100x70.jpg?x53432)
+    This hard-to-describe movie, which combines talking-head documentary footage with a fictional narrative, attempts to explain quantum physics in terms most audiences can understand. The extent to which](https://documentaryheaven.com/what-the-bleep-do-we-know/ "What the Bleep Do We Know!?")
+* [![In Saddam’s Shadow: 10 Years After](/wp-content/thumbnails/7029-100x70.jpg?x53432)
     
-    O.J. Simpson: The Lost Confession?
+    In Saddam’s Shadow: 10 Years After
     
-    Last October (Oct. 2017) O.J. Simpson was released from prison after serving nine years for several offences including robbery, weapons and assault convictions. He may have served his time for th](https://documentaryheaven.com/oj-simpson-lost-confession/ "O.J. Simpson: The Lost Confession?")
-* [![The Woman who thinks like a Cow](/wp-content/thumbnails/6614-100x70.jpg?x53432)
+    Ten years after the US invasion of Iraq, this documentary series by Vice takes us to Baghdad to see how the city is doing. The film is guided by Waleed Nesyif, after eight years away he is returning h](https://documentaryheaven.com/in-saddams-shadow-10-years-after/ "In Saddam’s Shadow: 10 Years After")
+* [![Riddles in Stone: The Secret Architecture of Washington D.C.](/wp-content/thumbnails/975-100x70.jpg?x53432)
     
-    The Woman who thinks like a Cow
+    Riddles in Stone: The Secret Architecture of Washington D.C.
     
-    Dr Temple Grandin has a unique ability to understand the animal mind - and she's convinced her skill is down to her autistic brain.Temple believes she experiences life like an animal. Her emotions](https://documentaryheaven.com/the-woman-who-thinks-like-a-cow/ "The Woman who thinks like a Cow")
+    This documentary explores the highly controversial subject of the design of America’s capital. Was the city built to reflect the majesty of America’s new found freedom? Or the hidden agenda of secret](https://documentaryheaven.com/riddles-in-stone-the-secret-architecture-of-washington-d-c/ "Riddles in Stone: The Secret Architecture of Washington D.C.")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
