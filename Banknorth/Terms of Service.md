@@ -1,11 +1,5 @@
 [×](#)
 
-### Staff Development Day
-
-All BankNorth locations will be closed Monday, October 14th. As always, our online and mobile banking services remain available 24/7 for your convenience.
-
-[×](#)
-
 ### Exciting News!
 
 On October 21, 2024, BankNorth will be launching a redesigned website. In addition to a new look, our domain will be moving to banknorth.bank for a more secure banking experience.
