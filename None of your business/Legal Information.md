@@ -43,6 +43,7 @@ Main navigation
     * [Membership](https://noyb.eu/en/support-us "Become a member")
     * [Donations](https://noyb.eu/en/donations-other-support-options "Donate!")
     * [Sponsorship](https://noyb.eu/en/sponsorships-partnerships "Become a noyb sponsor")
+    * [Tax deductability](https://noyb.eu/en/all-information-deductibility-donations)
     * [Member Login](https://support.noyb.eu/login)
 * [About us](https://noyb.eu/en/about-us "noyb topics")
     * [Team](https://noyb.eu/en/our-team-members-and-partners-0)
@@ -192,7 +193,7 @@ noyb
 * [Legal, Open Source & Privacy](https://noyb.eu/en/legal)
 * [Translations](https://noyb.eu/en/prevodi)
 * [Media](https://noyb.eu/en/media-center)
-* [Contact](https://noyb.eu/en/contact)
+* [Contact](https://noyb.eu/contact)
 * [Collective Redress](https://noyb.eu/node/1409)
 
 Main navigation
@@ -210,6 +211,7 @@ Main navigation
     * [Membership](https://noyb.eu/en/support-us "Become a member")
     * [Donations](https://noyb.eu/en/donations-other-support-options "Donate!")
     * [Sponsorship](https://noyb.eu/en/sponsorships-partnerships "Become a noyb sponsor")
+    * [Tax deductability](https://noyb.eu/en/all-information-deductibility-donations)
     * [Member Login](https://support.noyb.eu/login)
 * [About us](https://noyb.eu/en/about-us "noyb topics")
     * [Team](https://noyb.eu/en/our-team-members-and-partners-0)
