@@ -1,46 +1,22 @@
 ![](https://wts.everflowclient.io/logo.png)
 
-General
-
 1
 
-Fields with an asterisk (\*) are mandatory.
-
-### General
-
-First Name \*
+Field is required
 
 Field is required
 
-Last Name \*
-
 Field is required
 
-Email \*
-
 Field is required
-
-Email Confirmation \*
-
-Field is required
-
-Phone Number
 
 * * *
 
-### Company
-
-Legal Entity Type \*
-
-Select Legal Entity Type...
+Select ...
 
 Field is required
 
-Company/Individual/Website Name \*
-
 Field is required
-
-Website/Social/Media \*
 
 http(s)://
 
@@ -48,39 +24,19 @@ Field is required
 
 * * *
 
-### Address
-
-Address 1 \*
+Field is required
 
 Field is required
 
-Apartment, Suite, etc.
-
-City \*
-
 Field is required
 
-Postal Code \*
-
-Field is required
-
-Country \*
-
-Select Country...
+Select ...
 
 Field is required
 
 * * *
 
-### Billing
-
-Tax ID / VAT or SSN
-
 * * *
-
-### Additional Information
-
-Referral Code
 
 Skype/Telegram ID \*
 
@@ -92,10 +48,6 @@ Field is required
 
 * * *
 
-### Terms and Conditions
-
-###### Error!
-
 You must accept the terms and conditions to continue
 
 WTS Marketing and Operations LLC Terms \*
@@ -105,5 +57,3 @@ OVERVIEW This Agreement sets out the terms and conditions under which Affiliate 
 I agree to WTS Marketing and Operations LLC's Terms of Service
 
 * * *
-
-Apply
