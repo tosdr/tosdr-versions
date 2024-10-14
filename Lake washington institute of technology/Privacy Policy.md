@@ -27,7 +27,7 @@ Community
 
 Quicklinks
 
-[Academic Calendar](https://www.lwtech.edu/calendar/index.aspx)[Canvas](https://lwtech.instructure.com/)[ctcLink (LionsLink)](https://csprd.ctclink.us/psc/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_GN.H_SPRINGBOARD.FieldFormula.IScript_Main?institution=WA260&)[Legend](https://lwtech.okta.com/app/lwtech_legendokta_1/exkdbmh8bgjnONWpF4x7/sso/saml)[Okta Dashboard](https://lwtech.okta.com/)[Webmail](https://www.outlook.com/lwtech.edu)
+[Academic Calendar](https://www.lwtech.edu/calendar/index.aspx)[Canvas](https://lwtech.instructure.com/)[ctcLink (LionsLink)](https://csprd.ctclink.us/psc/csprd/EMPLOYEE/SA/s/WEBLIB_HCX_GN.H_SPRINGBOARD.FieldFormula.IScript_Main?institution=WA260&)[Legend](https://lwtech.okta.com/app/lwtech_legendokta_1/exkdbmh8bgjnONWpF4x7/sso/saml)[Okta Dashboard](https://lwtech.okta.com/)[Reset Password](https://my.lwtech.edu:444/identity/passwordreset)[Webmail](https://www.outlook.com/lwtech.edu)
 
 [Menu Closed](#)
 
