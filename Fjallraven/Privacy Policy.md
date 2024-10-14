@@ -276,7 +276,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=ece8ea40-3733-42e7-ba94-9d15e5320465)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=19a2ac6e-4b26-47dd-aece-22df4496416f)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -440,7 +440,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=ece8ea40-3733-42e7-ba94-9d15e5320465)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=19a2ac6e-4b26-47dd-aece-22df4496416f)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -774,9 +774,9 @@ Customer Service
 * [Shipping](https://www.fjallraven.com/us/en-us/customer-service/shipping/)
 * [Returns](https://www.fjallraven.com/us/en-us/customer-service/returns/)
 * [Warranty](https://www.fjallraven.com/us/en-us/customer-service/warranty/)
-* [Product Families](https://www.fjallraven.com/us/en-us/customer-service/guides/)
-* [Product Care](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
-* [Repair](https://www.fjallraven.com/us/en-us/customer-service/repair/)
+* [Product Families](https://www.fjallraven.com/us/en-us/about/guides/)
+* [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
+* [Repair](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/repair/)
 * [Size Guide](https://www.fjallraven.com/us/en-us/customer-service/size-chart/)
 * [Industry Pro Program](https://www.fjallraven.com/us/en-us/industry-pro-registration/)
 * [Resource Center](https://www.fjallraven.com/us/en-us/resource-center/)
@@ -808,7 +808,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=ece8ea40-3733-42e7-ba94-9d15e5320465)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=19a2ac6e-4b26-47dd-aece-22df4496416f)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
