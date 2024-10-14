@@ -33,7 +33,6 @@ Menu
     * [In Brief](https://www.nwprogressive.org/microblog/)
     * [PNWcurrents](https://www.nwprogressive.org/podcast/)
 * [Donate](https://www.nwprogressive.org/donate/)
-* [Picnic RSVP](https://www.nwprogressive.org/picnic/)
 
 Privacy Practices
 =================
@@ -166,7 +165,7 @@ Zip Code:\*
 
   ZIP Code 
 
-       
+        
 
 Δ
 
