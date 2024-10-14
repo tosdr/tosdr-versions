@@ -4,6 +4,28 @@
 
 [Subscribe](https://melobytes.com/en/pricing?utm_content=top_menu) [Community](https://www.reddit.com/r/Melobytes/) [TV](https://www.twitch.tv/melobytes) [Radio](https://www.youtube.com/channel/UCj7kwj6BmdxrhR3n2dzvDxQ/live) [Sign In](https://melobytes.com/en/signin) [Sign Up](https://melobytes.com/en/signup)[](#)
 
+Music composition
+
+* [Audio DJ](https://melobytes.com/en/app/audiodj)
+* [Become a rapper](https://melobytes.com/en/app/become_a_rapper)
+* [Convert date to music](https://melobytes.com/en/app/date2music)
+* [Convert images to video with music](https://melobytes.com/en/app/image2video)
+* [Create a melobytes story](https://melobytes.com/en/app/melobytes_story)
+* [Create animated 3D logo with music](https://melobytes.com/en/app/3d_logo)
+* [Drawing to music](https://melobytes.com/en/app/drawing2music)
+* [Image / Video to Music](https://melobytes.com/en/app/image2music)
+* [Melobytes (text to song) (procedurally generated music)](https://melobytes.com/en/app/melobytes)
+* [Melobytes DIY (text to song)](https://melobytes.com/en/app/melobytes_diy)
+* [Melobytes Pro (text to song)](https://melobytes.com/en/app/melobytes-pro)
+* [Melobytes surprise](https://melobytes.com/en/app/surprise)
+* [Motion to music](https://melobytes.com/en/app/motion2music)
+* [Movie music maker](https://melobytes.com/en/app/movie_music)
+* [Random music](https://melobytes.com/en/app/ai_melobytes_music)
+* [Random song](https://melobytes.com/en/app/ai_melobytes_song)
+* [Subtitles to Movie](https://melobytes.com/en/app/subtitles2movie)
+* [Text to rap song](https://melobytes.com/en/app/rap)
+* [Voice Recording to Song](https://melobytes.com/en/app/recordingtosong)
+
 Artificial Intelligence
 
 * [AI Become a singer](https://melobytes.com/en/app/ai_become_a_singer)
@@ -41,28 +63,6 @@ AI Stories
 * [AI Tic Tac Toe game to video](https://melobytes.com/en/app/ai_random_tic_tac_toe_to_video)
 * [AI Top Lists to video](https://melobytes.com/en/app/ai_random_top_list_to_video)
 * [AI weather forecast video](https://melobytes.com/en/app/ai_random_news_weather_video)
-
-Music composition
-
-* [Audio DJ](https://melobytes.com/en/app/audiodj)
-* [Become a rapper](https://melobytes.com/en/app/become_a_rapper)
-* [Convert date to music](https://melobytes.com/en/app/date2music)
-* [Convert images to video with music](https://melobytes.com/en/app/image2video)
-* [Create a melobytes story](https://melobytes.com/en/app/melobytes_story)
-* [Create animated 3D logo with music](https://melobytes.com/en/app/3d_logo)
-* [Drawing to music](https://melobytes.com/en/app/drawing2music)
-* [Image / Video to Music](https://melobytes.com/en/app/image2music)
-* [Melobytes (text to song) (procedurally generated music)](https://melobytes.com/en/app/melobytes)
-* [Melobytes DIY (text to song)](https://melobytes.com/en/app/melobytes_diy)
-* [Melobytes Pro (text to song)](https://melobytes.com/en/app/melobytes-pro)
-* [Melobytes surprise](https://melobytes.com/en/app/surprise)
-* [Motion to music](https://melobytes.com/en/app/motion2music)
-* [Movie music maker](https://melobytes.com/en/app/movie_music)
-* [Random music](https://melobytes.com/en/app/ai_melobytes_music)
-* [Random song](https://melobytes.com/en/app/ai_melobytes_song)
-* [Subtitles to Movie](https://melobytes.com/en/app/subtitles2movie)
-* [Text to rap song](https://melobytes.com/en/app/rap)
-* [Voice Recording to Song](https://melobytes.com/en/app/recordingtosong)
 
 Voice Composition
 
