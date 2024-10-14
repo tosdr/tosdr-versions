@@ -523,6 +523,12 @@ _Appzi_
 
 We use Appzi, a website visitor feedback collection tool on our website. The service is provided by Appzi, Inc., 2035 Sunset Lake Road, Newark, DE 19702, United States. Appzi allows us to collect feedback from website visitors. The data collected by Appzi includes the feedback provided by website visitors as well as information about your system (non-precise location, device type, operating system, browser type, screen resolution, URL visited). We process this data based on your consent as well as based on our commercial marketing interests. You can find more information about the data processed by Appzi in their privacy policy at [https://www.appzi.com/privacy](https://www.appzi.com/privacy).
 
+_Demandbase_
+
+We use Demandbase, an account-based marketing service, on our website. The service is provided by Demandbase, Inc., 222 2nd St., 24th Floor, San Francisco, CA 94105, USA. Demandbase enables us to identify and target B2B prospects who have shown interest in our services. This allows us to optimize and improve our marketing strategy.
+
+The data shared with Demandbase includes contact details of our clients and prospects (first and last name, company name, title, email. address(es), phone number(s), business address.) and website traffic data collected via Demandbase Tag (IP address, cookie ID, HTTP header, website engagement information). We process this data based on your consent as well as based on our commercial marketing interests. You can find more information about the data processed by Demandbase in their privacy policy at [https://www.demandbase.com/privacy/.](https://www.demandbase.com/privacy/)
+
 ### **3\. Other Recipients**
 
 _Cookiebot_
