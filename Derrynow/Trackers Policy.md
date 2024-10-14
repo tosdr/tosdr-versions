@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place")](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
-
-[GAA](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
 
 Derry City fans at the Brandywell. Pics by Keith Moore, nwpresspics
@@ -275,12 +268,12 @@ Derry City fans at the Brandywell. Pics by Keith Moore, nwpresspics
 [IN PICTURES: Derry City fans at the Brandywell](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sadness as body of Donal Armstrong recovered from Derry's River Foyle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sadness as body of Donal Armstrong recovered from Derry's River Foyle")](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
+[![PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place")](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[GAA](https://www.derrynow.com/section/997/cookie-policy)
 
-[Sadness as body of Donal Armstrong recovered from Derry's River Foyle](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Shock as man arrested following Derry city centre stabbing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Shock as man arrested following Derry city centre stabbing")](https://www.derrynow.com/news/local-news/1629136/shock-as-man-arrested-following-derry-city-centre-stabbing.html)
 
@@ -290,6 +283,13 @@ Police at the scene in Foyle Street
 
 [Shock as man arrested following Derry city centre stabbing](https://www.derrynow.com/news/local-news/1629136/shock-as-man-arrested-following-derry-city-centre-stabbing.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sadness as body of Donal Armstrong recovered from Derry's River Foyle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sadness as body of Donal Armstrong recovered from Derry's River Foyle")](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Sadness as body of Donal Armstrong recovered from Derry's River Foyle](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry doctor receives a MRANI Award for his exceptional service to the community](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry doctor receives a MRANI Award for his exceptional service to the community")](https://www.derrynow.com/news/local-news/1625992/derry-doctor-receives-a-mrani-award-for-his-exceptional-service-to-the-community.html)
 
@@ -307,13 +307,6 @@ PSNI
 [23-year-old man arrested in Derry charged with number of drugs offences](https://www.derrynow.com/news/local-news/1628933/23-year-old-man-arrested-in-derry-charged-with-number-of-drugs-offences.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1627154/derry-death-notices-sunday-october-13-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, October 13 2024](https://www.derrynow.com/news/deaths/1627154/derry-death-notices-sunday-october-13-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Faughanvale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Faughanvale")](https://www.derrynow.com/news/derry-sport/1629041/faughanvale-come-from-behind-to-make-this-year-s-intermediate-final.html)
 
 Faughanvale defeated Drumsurn to make this year's Intermediate final. Pic by George Sweeney, nwpresspics
@@ -322,6 +315,15 @@ Faughanvale defeated Drumsurn to make this year's Intermediate final. Pic by Geo
 
 [Faughanvale come from behind to make this year's Intermediate final](https://www.derrynow.com/news/derry-sport/1629041/faughanvale-come-from-behind-to-make-this-year-s-intermediate-final.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1629040/john-quigg-on-board-at-institute-as-goals-from-sean-carlin-and-mikhail-kennedy-earn-victory-over-newry.html)
+
+Mikhail Kennedy leads the Institute team out. Pic by Keith Moore/ nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[John Quigg on board at Institute as goals from Sean Carlin and Mikhail Kennedy earn victory over Newry](https://www.derrynow.com/news/derry-sport/1629040/john-quigg-on-board-at-institute-as-goals-from-sean-carlin-and-mikhail-kennedy-earn-victory-over-newry.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Ballymaguigan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballymaguigan")](https://www.derrynow.com/news/derry-sport/1629037/six-the-magic-number-for-new-senior-champions-ballymaguigan.html)
 
@@ -332,14 +334,14 @@ The Ballymaguigan team before the game. Pic by Danny O'Kane.
 [Six the magic number for new Senior champions Ballymaguigan!](https://www.derrynow.com/news/derry-sport/1629037/six-the-magic-number-for-new-senior-champions-ballymaguigan.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1629040/john-quigg-on-board-at-institute-as-goals-from-sean-carlin-and-mikhail-kennedy-earn-victory-over-newry.html)
+[![Karl Lacey commits to Kilcoo as Down kingpins land another SFC](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Karl Lacey commits to Kilcoo as Down kingpins land another SFC")](https://www.derrynow.com/news/derry-sport/1629291/karl-lacey-commits-to-kilcoo-as-down-kingpins-land-another-sfc.html)
 
-Mikhail Kennedy leads the Institute team out. Pic by Keith Moore/ nwpresspics
+Kilcoo boss Karl Lacey has dismissed reports linking him to the Derry job
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[John Quigg on board at Institute as goals from Sean Carlin and Mikhail Kennedy earn victory over Newry](https://www.derrynow.com/news/derry-sport/1629040/john-quigg-on-board-at-institute-as-goals-from-sean-carlin-and-mikhail-kennedy-earn-victory-over-newry.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Karl Lacey commits to Kilcoo and dismisses reports linking him to the vacant Derry job](https://www.derrynow.com/news/derry-sport/1629291/karl-lacey-commits-to-kilcoo-as-down-kingpins-land-another-sfc.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,6 +521,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1627155/derry-death-notices-monday-october-14-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, October 14 2024](https://www.derrynow.com/news/deaths/1627155/derry-death-notices-monday-october-14-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Karl Lacey commits to Kilcoo as Down kingpins land another SFC](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Karl Lacey commits to Kilcoo as Down kingpins land another SFC")](https://www.derrynow.com/news/derry-sport/1629291/karl-lacey-commits-to-kilcoo-as-down-kingpins-land-another-sfc.html)
 
 Kilcoo boss Karl Lacey has dismissed reports linking him to the Derry job
@@ -528,7 +537,7 @@ Kilcoo boss Karl Lacey has dismissed reports linking him to the Derry job
 [Karl Lacey commits to Kilcoo and dismisses reports linking him to the vacant Derry job](https://www.derrynow.com/news/derry-sport/1629291/karl-lacey-commits-to-kilcoo-as-down-kingpins-land-another-sfc.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sadness as body of Donal Armstrong recovered from Derry's River Foyle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sadness as body of Donal Armstrong recovered from Derry's River Foyle")](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
+[![Sadness as body of Donal Armstrong recovered from Derry's River Foyle](https://www.derrynow.com/resizer/165/93/true/1522572313578.jpg--.jpg?1522572314000 "Sadness as body of Donal Armstrong recovered from Derry's River Foyle")](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -559,15 +568,6 @@ Mikhail Kennedy leads the Institute team out. Pic by Keith Moore/ nwpresspics
 
 [Shane McGrogan goal sends Newbridge to their first senior final since 1991!](https://www.derrynow.com/news/derry-sport/1629044/shane-mcgrogan-goal-sends-newbridge-to-their-first-senior-final-since-1991.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Faughanvale](https://www.derrynow.com/resizer/165/93/true/2024_10_13/Drumsurn_v_Faughanvale_3__-1728820393648.jpg--.jpg?1728820393796 "Faughanvale")](https://www.derrynow.com/news/derry-sport/1629041/faughanvale-come-from-behind-to-make-this-year-s-intermediate-final.html)
-
-Faughanvale defeated Drumsurn to make this year's Intermediate final. Pic by George Sweeney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Faughanvale come from behind to make this year's Intermediate final](https://www.derrynow.com/news/derry-sport/1629041/faughanvale-come-from-behind-to-make-this-year-s-intermediate-final.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
