@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great service. Tech support was responsive when I had some through-put drops and had me up and running within a few hours.
+FoxyProxy delivered everything we needed at a great cost.
 
-David Bonofiglio
+Chris Noon
