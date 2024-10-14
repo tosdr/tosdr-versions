@@ -716,7 +716,7 @@ We reserve the right to request the product be shipped back to us in its origina
 
 **How to Submit Your Claim**
 
-To obtain a refund for product purchased directly on Naturesway.com, or if you are unable to obtain a refund from the authorized seller from which you purchased your product, please call one of our customer service representatives at 1-800-962-8873. Please have information available regarding where and when you purchased your product. Upon approval of your request, you will then need to mail your Nature’s Way product, a proof of purchase (such as your receipt), and your Guarantee approval confirmation number to:
+To obtain a refund for product purchased directly on Naturesway.com, or if you are unable to obtain a refund from the authorized seller from which you purchased your product, please call one of our Customer Care Team at 1-800-962-8873. Please have information available regarding where and when you purchased your product. Upon approval of your request, you will then need to mail your Nature’s Way product, a proof of purchase (such as your receipt), and your Guarantee approval confirmation number to:
 
 Nature’s Way Brands  
 Attn: Customer Care  
@@ -1280,7 +1280,7 @@ We reserve the right to request the product be shipped back to us in its origina
 
 **How to Submit Your Claim**
 
-To obtain a refund for product purchased directly on Naturesway.com, or if you are unable to obtain a refund from the authorized seller from which you purchased your product, please call one of our customer service representatives at 1-800-962-8873. Please have information available regarding where and when you purchased your product. Upon approval of your request, you will then need to mail your Nature’s Way product, a proof of purchase (such as your receipt), and your Guarantee approval confirmation number to:
+To obtain a refund for product purchased directly on Naturesway.com, or if you are unable to obtain a refund from the authorized seller from which you purchased your product, please call one of our Customer Care Team at 1-800-962-8873. Please have information available regarding where and when you purchased your product. Upon approval of your request, you will then need to mail your Nature’s Way product, a proof of purchase (such as your receipt), and your Guarantee approval confirmation number to:
 
 Nature’s Way Brands  
 Attn: Customer Care  
@@ -1501,8 +1501,6 @@ Nature's Way Brands | 2024 All Rights Reserved
 * Choosing a selection results in a full page refresh.
 
        
-
-Chat not available
 
 #### Hello there, looks like you're located in Canada.
 
