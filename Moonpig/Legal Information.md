@@ -12,34 +12,6 @@ Open menu
 
 Menu
 
-* Open Early Learning Centre dropdown[![Early Learning Centre](https://static.web-explore.prod.moonpig.net/_next/static/images/gift-d3ad42021d858e2f931dda63c7cd66cd.svg)
-    
-    Early Learning Centre](https://www.moonpig.com/uk/gifts/early-learning-centre/)
-    
-    ### Toys by Milestone
-    
-    * [New Baby](https://www.moonpig.com/uk/gifts/early-learning-centre/new-baby/)
-    * [1st Birthday](https://www.moonpig.com/uk/gifts/early-learning-centre/1st-birthday/)
-    * [2nd Birthday](https://www.moonpig.com/uk/gifts/early-learning-centre/2nd-birthday/)
-    
-    ### Toys by Type
-    
-    * [Soft Toys](https://www.moonpig.com/uk/gifts/early-learning-centre/soft-toys/)
-    * [Educational Toys](https://www.moonpig.com/uk/gifts/early-learning-centre/educational/)
-    * [Top Picks](https://www.moonpig.com/uk/gifts/early-learning-centre/top-picks/)
-    * [Toy Offers](https://www.moonpig.com/uk/gifts/early-learning-centre/offers/)
-    * [All Toys](https://www.moonpig.com/uk/gifts/early-learning-centre/all/)
-    
-    ### Add the Perfect Card
-    
-    * [Birthday Cards For Boys](https://www.moonpig.com/uk/personalised-cards/birthday/for-kids/for-him/)
-    * [Birthday Cards For Girls](https://www.moonpig.com/uk/personalised-cards/birthday/for-kids/for-her/)
-    * [Peter Rabbit](https://www.moonpig.com/uk/personalised-cards/peter-rabbit/)
-    * [Paddington](https://www.moonpig.com/uk/personalised-cards/paddington-bear/)
-    * [The Gruffalo](https://www.moonpig.com/uk/personalised-cards/gruffalo/)
-    * [Winnie the Pooh](https://www.moonpig.com/uk/personalised-cards/winnie-the-pooh/)
-    * [All Baby Cards](https://www.moonpig.com/uk/personalised-cards/for-baby/)
-    
 * Open Birthday dropdown[![Birthday](https://static.web-explore.prod.moonpig.net/_next/static/images/birthday-f0b12328b3bd6540e96cf61a50bbbf53.svg)
     
     Birthday](https://www.moonpig.com/uk/birthday/)
@@ -263,9 +235,51 @@ Menu
     * [Disney](https://www.moonpig.com/uk/disney/)
     * [LEGO](https://www.moonpig.com/uk/gifts/lego/)
     
-* [![Alcohol](https://static.web-explore.prod.moonpig.net/_next/static/images/gift-d3ad42021d858e2f931dda63c7cd66cd.svg)
+* Open Alcohol Gifts dropdown[![Alcohol Gifts](https://static.web-explore.prod.moonpig.net/_next/static/images/gift-d3ad42021d858e2f931dda63c7cd66cd.svg)
     
-    Alcohol](https://www.moonpig.com/uk/gifts/alcohol/all/)
+    Alcohol Gifts](https://www.moonpig.com/uk/gifts/alcohol/all/)
+    
+    ### Shop by Type
+    
+    * [Champagne](https://www.moonpig.com/uk/gifts/alcohol/champagne/)
+    * [Prosecco](https://www.moonpig.com/uk/gifts/alcohol/prosecco/)
+    * [All Wine](https://www.moonpig.com/uk/gifts/alcohol/wine/)
+    * [Red Wine](https://www.moonpig.com/uk/gifts/alcohol/red-wine/)
+    * [White Wine](https://www.moonpig.com/uk/gifts/alcohol/white-wine/)
+    * [Rosé Wine](https://www.moonpig.com/uk/gifts/alcohol/rose-wine/)
+    * [Beer & Cider](https://www.moonpig.com/uk/gifts/alcohol/beer-cider/)
+    * [Spirits & Whiskey](https://www.moonpig.com/uk/gifts/alcohol/spirits-whiskey/)
+    * [Personalised Alcohol](https://www.moonpig.com/uk/gifts/alcohol/personalised-alcohol/)
+    * [Gift Sets](https://www.moonpig.com/uk/gifts/alcohol/gift-sets/)
+    * [Hampers](https://www.moonpig.com/uk/gifts/alcohol/hampers/)
+    * [All Alcohol](https://www.moonpig.com/uk/gifts/alcohol/all/)
+    
+    ### Shop by Occasions
+    
+    * [Birthday](https://www.moonpig.com/uk/gifts/alcohol/birthday/)
+    * [Anniversary](https://www.moonpig.com/uk/gifts/alcohol/anniversary/)
+    * [Engagement](https://www.moonpig.com/uk/gifts/alcohol/engagement/)
+    * [Wedding](https://www.moonpig.com/uk/gifts/alcohol/wedding/)
+    * [Congratulations](https://www.moonpig.com/uk/gifts/alcohol/congratulations/)
+    * [Thank You](https://www.moonpig.com/uk/gifts/alcohol/thank-you/)
+    * [Thinking of You](https://www.moonpig.com/uk/gifts/alcohol/thinking-of-you/)
+    * [For Her](https://www.moonpig.com/uk/gifts/alcohol/for-her/)
+    * [For Him](https://www.moonpig.com/uk/gifts/alcohol/for-him/)
+    
+    ### Shop by Brand
+    
+    * [Lanson](https://www.moonpig.com/uk/gifts/alcohol/lanson/)
+    * [Moët & Chandon](https://www.moonpig.com/uk/gifts/alcohol/champagne/moet-chandon/)
+    * [Freixenet](https://www.moonpig.com/uk/gifts/alcohol/freixenet/)
+    * [Laurent Perrier](https://www.moonpig.com/uk/gifts/alcohol/champagne/laurent-perrier/)
+    * [Veuve Cliquot](https://www.moonpig.com/uk/gifts/alcohol/veuve-cliquot/)
+    * [Virgin Wines](https://www.moonpig.com/uk/gifts/alcohol/virgin-wines/)
+    
+    ### Shop by Price
+    
+    * [£20 & Under](https://www.moonpig.com/uk/gifts/alcohol/20-under/)
+    * [£20-£60](https://www.moonpig.com/uk/gifts/alcohol/20-60/)
+    * [Premium](https://www.moonpig.com/uk/gifts/alcohol/premium/)
     
 * Open Experiences dropdown[![Experiences](https://static.web-explore.prod.moonpig.net/_next/static/images/egifts-c9ec0761fc008af85e648577c9c0ac4a.svg)
     
