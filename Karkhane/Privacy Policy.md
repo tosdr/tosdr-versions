@@ -31,30 +31,30 @@ Privacy Policy
 * [![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/app/uploads/2020/06/barresi-ye-mobārezāt-e-kārgarān-o-vaziyat-e-niruye-kār-dar-maāden-e-irān-1-95x65.jpg)](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)[بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)
-* [![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/app/uploads/2020/11/do-ser-az-bolivi-az-taraneha-ye-kargaran-95x65.jpg)](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)[دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)
 * [![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](https://karkhane.org/app/uploads/2020/07/nemāyešnāme-ye-porsešnāme-95x65.jpg)](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)[نمایش‌نامه «پرسشنامه ، یا اطلاعات عمومی برای مسئولینِ عالی‌رتبه»](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)
 * [![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/app/uploads/2023/02/eshqal-e-karxane-jeneral-1357-95x65.jpg)](https://karkhane.org/4780/general-electric-occupation-by-workers/)[اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/4780/general-electric-occupation-by-workers/)
-* [![نمایش‌نامه «خطِ خواب» (۱)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![نمایش‌نامه «خطِ خواب» (۱)](https://karkhane.org/app/uploads/2022/02/xat-e-xaab-1-95x65.jpg)](https://karkhane.org/3696/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%ae%d8%b7-%d8%ae%d9%88%d8%a7%d8%a8-%db%b1/)[نمایش‌نامه «خطِ خواب» (۱)](https://karkhane.org/3696/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%ae%d8%b7-%d8%ae%d9%88%d8%a7%d8%a8-%db%b1/)
-* [![شعری از غسان کنفانی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![شعری از غسان کنفانی](https://karkhane.org/app/uploads/2024/02/a-poem-by-ghassan-kanafani-95x65.jpg)](https://karkhane.org/5353/a-poem-by-ghassan-kanafani/)[شعری از غسان کنفانی](https://karkhane.org/5353/a-poem-by-ghassan-kanafani/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://karkhane.org/app/uploads/2024/10/tabas_1-2-95x65.jpg)](https://karkhane.org/5912/death-of-tabas-miners/)[کشتار معدنچیان طبس یا حادثه‌ای اتفاقی؟!](https://karkhane.org/5912/death-of-tabas-miners/)
+    ![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/app/uploads/2020/11/do-ser-az-bolivi-az-taraneha-ye-kargaran-95x65.jpg)](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)[دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)
 * [![پوستر فیلم «سازمانده»-پهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![پوستر فیلم «سازمانده»-پهن](https://karkhane.org/app/uploads/2020/04/organizer-movie-poster-wide-95x65.jpg)](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)[یادداشتی بر فیلم «سازمانده»](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)
 * [![نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](https://karkhane.org/app/uploads/2021/01/reqabat-baraye-nesastan-sar-e-sofreye-xali-95x65.jpg)](https://karkhane.org/2461/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%b1%d9%82%d8%a7%d8%a8%d8%aa-%d8%a8%d8%b1%d8%a7%db%8c-%d9%86%d8%b4%d8%b3%d8%aa%d9%86-%d8%b3%d8%b1-%d8%b3%d9%81%d8%b1%d9%87-%d8%ae/)[نمایش‌نامه «رقابت برای نشستن سرِ سفره‌ی خالی»](https://karkhane.org/2461/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%b1%d9%82%d8%a7%d8%a8%d8%aa-%d8%a8%d8%b1%d8%a7%db%8c-%d9%86%d8%b4%d8%b3%d8%aa%d9%86-%d8%b3%d8%b1-%d8%b3%d9%81%d8%b1%d9%87-%d8%ae/)
+* [![حال و روزِ کارگران کارخانه‌های لاستیک‌سازی در ایران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![حال و روزِ کارگران کارخانه‌های لاستیک‌سازی در ایران](https://karkhane.org/app/uploads/2022/06/hal-o-ruz-e-kargaran-e-lastiksazi-dar-iran-95x65.jpg)](https://karkhane.org/4068/%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%84%d8%a7%d8%b3%d8%aa%db%8c%da%a9-%d8%b3%d8%a7%d8%b2%db%8c-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/)[گروه صنعتی بارز:‌ حال و روزِ کارگران کارخانه‌های لاستیک‌سازی در ایران](https://karkhane.org/4068/%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%84%d8%a7%d8%b3%d8%aa%db%8c%da%a9-%d8%b3%d8%a7%d8%b2%db%8c-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/)
+* [![inflation and capitalism](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![inflation and capitalism](https://karkhane.org/app/uploads/2024/02/Capit-95x65.jpeg)](https://karkhane.org/5376/nirooyekar-dastmozad/)[نیروی کار، ‌دستمزد و تورم](https://karkhane.org/5376/nirooyekar-dastmozad/)
+* [![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](https://karkhane.org/app/uploads/2020/06/čand-nemudār-e-sāde-darbāre-ye-dastmozd-1-95x65.png)](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)[چند نمودار ساده درباره‌ی دستمزد](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
