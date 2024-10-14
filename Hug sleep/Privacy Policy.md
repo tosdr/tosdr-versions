@@ -1,6 +1,6 @@
 ![Hassle Free Banner Icon](//hugsleep.com/cdn/shop/files/30-night-trial_505cc367-0bb1-4b95-9f0d-3b3fba4035d1.png?v=1717169970)
 
-30 night sleep guarantee with hassle free returns
+400,000+ happy customers
 
 [Skip to content](#MainContent)
 
@@ -19,7 +19,7 @@ Prime SALE: Buy one Sleep Pod, get another 50% OFF!
 
 [![mother tucking in son in sleep pod](//hugsleep.com/cdn/shop/files/SquarePDPs.001.jpg?v=1709244147&width=533)
 
-343 reviews
+347 reviews
 
 ### Kids - Hooded Sleep Pod Move
 
@@ -31,7 +31,7 @@ Unit price /  per](https://hugsleep.com/products/kids-hooded-sleep-pod-move) 
 
 [![woman laying in bed with sleep pod asleep](//hugsleep.com/cdn/shop/products/download.jpg?v=1659988966&width=533)
 
-343 reviews
+347 reviews
 
 ### Sleep Pod Move
 
@@ -43,7 +43,7 @@ Unit price /  per](https://hugsleep.com/products/sleep-pod-move-adult) 
 
 [![man in bed with hooded sleep pod move](//hugsleep.com/cdn/shop/files/Untitled5.007.jpg?v=1695958490&width=533)
 
-343 reviews
+347 reviews
 
 ### Hooded Sleep Pod Move
 
@@ -52,18 +52,6 @@ Regular price $89.99
 Regular price ~$129.99~ Sale price $89.99
 
 Unit price /  per](https://hugsleep.com/products/sleep-pod-move-hood) 
-
-[![little girl laying in bed with sleep pod asleep](//hugsleep.com/cdn/shop/products/download_29b35f00-49b7-4236-a9a8-e998a7292bba.jpg?v=1659989428&width=533)
-
-343 reviews
-
-### Sleep Pod Move - Kids
-
-Regular price $64.99
-
-Regular price ~$89.99~ Sale price $64.99
-
-Unit price /  per](https://hugsleep.com/products/sleep-pod-move-kids) 
 
 * [Adults Collection Featuring 100% HugStretch™ Technology](#)
 
@@ -97,9 +85,6 @@ BACK
 * [![](//hugsleep.com/cdn/shop/files/SquarePDPs.001_533x533.jpg?v=1709244147)
     
     Kids - Hooded Sleep Pod New](https://hugsleep.com/products/kids-hooded-sleep-pod-move)
-* [![](//hugsleep.com/cdn/shop/products/download_29b35f00-49b7-4236-a9a8-e998a7292bba_533x533.jpg?v=1659989428)
-    
-    Kids - Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-kids)
 * [![](//hugsleep.com/cdn/shop/files/PDPImages.001_533x533.jpg?v=1718821314)
     
     Kids Hug Wrap™ New](https://hugsleep.com/products/kids-hug-wrap%E2%84%A2)
@@ -232,7 +217,6 @@ BACK
     
 * [Kids Collection](https://hugsleep.com/collections/kids-collection)
     
-    * [Kids - Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-kids)
     * [Kids Hug Wrap™](https://hugsleep.com/products/kids-hug-wrap%E2%84%A2)
     * [Kids - Hooded Sleep Pod Move](https://hugsleep.com/products/kids-hooded-sleep-pod-move)
     
