@@ -6092,7 +6092,7 @@ false
 * [Personal Loan (A2A)](https://applyonline.hdfcbank.com/loan/personal-loan/asset-to-asset/personal-loan-forma2a.html?mc_id=website_teleassist_10secs_pla2a&icid=website_teleassist_10secs_pla2a#nbb)
 * [XPRESS Business Loan](https://applyonline.hdfcbank.com/businessloans.html?mc_id=website_teleassist_xpress-bl&icid=website_teleassist_xpress-bl#nbb)
 * [Pre-approved Business Loan](https://applyonline.hdfcbank.com/loan/business-loan/existing-to-bank/apply-for-business-loan-online.html?mc_id=website_teleassist_10secs_bl&icid=website_teleassist_10secs_bl#nbb)
-* [XPRESS Personal Loan](https://applyonline.hdfcbank.com/personal-loans.html?mc_id=website_teleassist_xpress-pl&icid=website_teleassist_xpress-pl)
+* [XPRESS Personal Loan](https://v.hdfcbank.com/personal-business-loan.html?mc_id=website_footer_xpress-pl&icid=website_footer_xpress-pl)
 * [IndianOil HDFC Bank Credit Card](https://applyonline.hdfcbank.com/cards/credit-cards.html?channelsource=iocl&LGCode=MKTG&mc_id=website_TAN_CC_Footer_tele_assist&icid=website_TAN_organic_IOCL_CC_footer_teke_assist)
 
 * HDFC Group Websites
