@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 14, 2024](https://www.japantimes.co.jp/archive/2024/10/14/ "archive page")
+[October 15, 2024](https://www.japantimes.co.jp/archive/2024/10/15/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -467,21 +467,29 @@ Revised June 1, 2022
 
   [![Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427543.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.")](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
 
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+[Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/commentary/2024/10/13/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
-[Nobel Prize is a warning to a world on the nuclear brink](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel Prize is a warning to a world on the nuclear brink")
-
-  [![The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427373.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.")](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel Prize is a warning to a world on the nuclear brink")
-
-[Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
-
-  [![Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427386.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
+  [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/commentary/2024/10/13/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
 [Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
 
   [![Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427338.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
+
+[Challenges remain six months to go before Osaka Expo](https://www.japantimes.co.jp/news/2024/10/13/japan/osaka-expo-six-months/ "Challenges remain six months to go before Osaka Expo")
+
+  [![The Osaka Expo site under construction. The expo is scheduled to take place on Yumeshima, an artificial island, from April 13 through Oct. 13 of next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427514.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Osaka Expo site under construction. The expo is scheduled to take place on Yumeshima, an artificial island, from April 13 through Oct. 13 of next year.")](https://www.japantimes.co.jp/news/2024/10/13/japan/osaka-expo-six-months/ "Challenges remain six months to go before Osaka Expo")
+
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+[Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson](https://www.japantimes.co.jp/news/2024/10/14/world/nobel-prize-economics-2024/ "Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson")
+
+  [![A view shows a screen in the Royal Swedish Academy of Sciences where the Nobel Prize in Economic Sciences is announced in Stockholm on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427659.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "A view shows a screen in the Royal Swedish Academy of Sciences where the Nobel Prize in Economic Sciences is announced in Stockholm on Monday.")](https://www.japantimes.co.jp/news/2024/10/14/world/nobel-prize-economics-2024/ "Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson")
+
+[A frustrated Trump lashes out behind closed doors over money](https://www.japantimes.co.jp/news/2024/10/14/world/politics/frustrated-trump-closed-doors-money/ "A frustrated Trump lashes out behind closed doors over money")
+
+  [![Former President Donald Trump makes calls to voters backstage after a town hall-style presidential campaign appearance at Macomb Community College in Warren, Michigan on Sept. 27.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427645.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former President Donald Trump makes calls to voters backstage after a town hall-style presidential campaign appearance at Macomb Community College in Warren, Michigan on Sept. 27.")](https://www.japantimes.co.jp/news/2024/10/14/world/politics/frustrated-trump-closed-doors-money/ "A frustrated Trump lashes out behind closed doors over money")
 
 [Poorest nations in worst financial shape since 2006, World Bank says](https://www.japantimes.co.jp/business/2024/10/14/economy/world-bank-26-poorest-nations/ "Poorest nations in worst financial shape since 2006, World Bank says")
 
@@ -494,14 +502,6 @@ Revised June 1, 2022
 [Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize-nihon-hidankyo/ "Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo")
 
   [![Toshiko Hamanaka (left), the assistant secretary-general of Nihon Hidankyo, and the organization's co-chair, Terumi Tanaka, during a news conference in Tokyo on Saturday, the day after the group was awarded the Nobel Peace Prize. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427419.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiko Hamanaka (left), the assistant secretary-general of Nihon Hidankyo, and the organization's co-chair, Terumi Tanaka, during a news conference in Tokyo on Saturday, the day after the group was awarded the Nobel Peace Prize. ")](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize-nihon-hidankyo/ "Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo")
-
-[Bank of Japan vows better messaging to avoid more market turmoil](https://www.japantimes.co.jp/business/2024/10/11/economy/himino-boj-messaging/ "Bank of Japan vows better messaging to avoid more market turmoil")
-
-  [![The Bank of Japan's surprise rate increase on July 31 led to Japanese stocks plummeting into bear-market territory, with the benchmark 225-issue Nikkei average falling 12.4% on Aug. 5 alone.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427193.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Bank of Japan's surprise rate increase on July 31 led to Japanese stocks plummeting into bear-market territory, with the benchmark 225-issue Nikkei average falling 12.4% on Aug. 5 alone.")](https://www.japantimes.co.jp/business/2024/10/11/economy/himino-boj-messaging/ "Bank of Japan vows better messaging to avoid more market turmoil")
-
-[Peter Barakan’s Live Magic! takes its final bow](https://www.japantimes.co.jp/culture/2024/10/11/music/peter-barakan-live-magic-finale/ "Peter Barakan’s Live Magic! takes its final bow")
-
-  [![Annual festival Peter Barakan’s Live Magic! was born a decade ago when Barakan (left) decided to create a platform to share his love of roots music, which he attributes to growing up in 1960s England.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/425944.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Annual festival Peter Barakan’s Live Magic! was born a decade ago when Barakan (left) decided to create a platform to share his love of roots music, which he attributes to growing up in 1960s England.")](https://www.japantimes.co.jp/culture/2024/10/11/music/peter-barakan-live-magic-finale/ "Peter Barakan’s Live Magic! takes its final bow")
 
 Podcast
 -------
@@ -566,23 +566,23 @@ Latest News
 
 [Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson](https://www.japantimes.co.jp/news/2024/10/14/world/nobel-prize-economics-2024/ "Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson")
 
-29 mins ago
+6 hours ago
 
 [Hakamata makes first public appearance since acquittal](https://www.japantimes.co.jp/news/2024/10/14/japan/crime-legal/hakamata-first-appearance-after-acquittal/ "Hakamata makes first public appearance since acquittal")
 
-1 hours ago
+7 hours ago
 
 [A frustrated Trump lashes out behind closed doors over money](https://www.japantimes.co.jp/news/2024/10/14/world/politics/frustrated-trump-closed-doors-money/ "A frustrated Trump lashes out behind closed doors over money")
 
-1 hours ago
+7 hours ago
 
 [South Korea military says 'fully ready' as drone tensions soar](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/politics/south-korea-military-drone/ "South Korea military says 'fully ready' as drone tensions soar")
 
-1 hours ago
+7 hours ago
 
 [A decade of Jokowi: Popular Indonesian leader leaves rocky legacy](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/politics/jokowi-indonesia-legacy-critics/ "A decade of Jokowi: Popular Indonesian leader leaves rocky legacy")
 
-1 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
