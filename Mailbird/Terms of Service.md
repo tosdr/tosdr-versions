@@ -5,15 +5,15 @@
 * [Pricing](https://www.getmailbird.com/pricing/)
 * [Features](https://www.getmailbird.com/features/)
 * [For Business](https://www.getmailbird.com/mailbird-business/)
-* [Mailbird for Mac](https://www.getmailbird.com/mailbird-for-mac)
 * [Resources](#)
     * [Blog](https://www.getmailbird.com/blog/)
-    * [Support](https://support.getmailbird.com/)
+    * [Support](https://help.getmailbird.com/)
     * [Testimonials](https://www.getmailbird.com/testimonial/)
     * [About](https://www.getmailbird.com/about/)
     * [We're hiring!](https://careers.getmailbird.com/)
     * [Why Mailbird?](https://www.getmailbird.com/why-choose-mailbird/)
     * [Community](https://www.facebook.com/groups/261799174696895)
+    * [Early adopters](https://www.getmailbird.com/alpha-testers/)
 * Get Mailbird Free
 *  [![Currently seeing the website in English](/assets/flagicons/flags/4x3/us.svg) English](https://www.getmailbird.com/license-agreement/ "English")
     * [![Switch to German](/assets/flagicons/flags/4x3/de.svg)German](https://www.getmailbird.com/de/license-agreement/ "German")
@@ -109,10 +109,10 @@ Company
 Support
 
 * [License Key Retrieval](https://www.getmailbird.com/license-retrieval/)
-* [Become a Mailbird early adopter](https://www.getmailbird.com/alpha-testers/)
 * [Unsubscribe from Newsletter](https://www.getmailbird.com/to-unsubscribe/)
 * [Upgrade](https://www.getmailbird.com/upgrade/)
-* [Support](https://support.getmailbird.com/)
+* [Support](https://help.getmailbird.com/)
+* [Early adopters](https://www.getmailbird.com/alpha-testers/)
 
 Setup
 
@@ -154,15 +154,11 @@ I agree
 
 ##### Mailbird for Mac is coming!
 
-Sign up to get early access!
-
 Our Early Access program is full.  
 Stay tuned; the official launch is right around the corner.
-
- Sign up
 
 ![Get Mailbird Free](/assets/themes/mb1/imgs/misc/birdie-notification-icon.svg) Just purchased
 
 ![Get Mailbird Free](/assets/themes/mb1/imgs/misc/downloads-notification-icon.svg) 0 person just downloaded Mailbird
 
-![Get Mailbird Free](/assets/themes/mb1/imgs/misc/downloads-counter-icon.svg) Join 3,308,178 users who trust us with their email needs Get Mailbird Free
+![Get Mailbird Free](/assets/themes/mb1/imgs/misc/downloads-counter-icon.svg) Join 3,308,178 users who trust Mailbird. Get Mailbird Free
