@@ -318,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-If a wizard is buried with a wand made of yew, the wand sprouts into a tree that guards the dead owner’s grave.
+Ginny Weasley’s middle name is Molly.
 
 ### Potter History
 
-May 21-24, 2009 – The first LeakyCon is held in Boston, Massachusetts.
+December 24, 2008 – In a first for the Harry Potter fandom, MuggleNet launches MuggleSpace, a social network designed specifically for Harry Potter fans.
 
 ### Potter Quote
 
-“Scars can come in handy. I have one myself above my left knee that is a perfect map of the London Underground.”
+“Now you mention it, d’you know . . . I think I’m feeling a bit . . . rebellious.”
 
 [](#)
 
