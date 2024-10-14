@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-what you don't know can hurt you
+exploit the possibilities
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -54,11 +54,11 @@ Top Authors In Last 30 Days
 ---------------------------
 
 * [Red Hat](https://packetstormsecurity.com/files/authors/4676) 250 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 146 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 86 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 150 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 90 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 32 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 21 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 14 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 24 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 15 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 11 files
 * [malvuln](https://packetstormsecurity.com/files/authors/15382) 8 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 7 files
@@ -76,6 +76,38 @@ Posted [Oct 11, 2024](https://packetstormsecurity.com/news/date/2024-10-11/ "14:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36464/) | [View](https://www.securityweek.com/recent-veeam-vulnerability-exploited-in-ransomware-attacks/)
+
+[Fidelity Investments Data Breach Impacts 77,000 Customers](https://packetstormsecurity.com/news/view/36463/Fidelity-Investments-Data-Breach-Impacts-77-000-Customers.html)
+
+Posted [Oct 11, 2024](https://packetstormsecurity.com/news/date/2024-10-11/ "14:40:22 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [bank](https://packetstormsecurity.com/news/tags/bank), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36463/) | [View](https://www.securityweek.com/fidelity-investments-data-breach-impacts-77000-customers/)
+
+[ShadowLogic Attack Targets AI Model Graphs To Create Codeless Backdoors](https://packetstormsecurity.com/news/view/36462/ShadowLogic-Attack-Targets-AI-Model-Graphs-To-Create-Codeless-Backdoors.html)
+
+Posted [Oct 11, 2024](https://packetstormsecurity.com/news/date/2024-10-11/ "14:40:16 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36462/) | [View](https://www.securityweek.com/shadowlogic-attack-targets-ai-model-graphs-to-create-codeless-backdoors/)
+
+[Meet The Team Paid To Break Into Top Secret Bases](https://packetstormsecurity.com/news/view/36461/Meet-The-Team-Paid-To-Break-Into-Top-Secret-Bases.html)
+
+Posted [Oct 11, 2024](https://packetstormsecurity.com/news/date/2024-10-11/ "14:40:06 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [military](https://packetstormsecurity.com/news/tags/military)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36461/) | [View](https://www.bbc.com/news/articles/c8el64yyppro)
+
+[FBI Created A Cryptocurrency So It Could Watch It Being Abused](https://packetstormsecurity.com/news/view/36460/FBI-Created-A-Cryptocurrency-So-It-Could-Watch-It-Being-Abused.html)
+
+Posted [Oct 11, 2024](https://packetstormsecurity.com/news/date/2024-10-11/ "14:40:01 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [spyware](https://packetstormsecurity.com/news/tags/spyware), [fbi](https://packetstormsecurity.com/news/tags/fbi), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36460/) | [View](https://www.theregister.com/2024/10/11/fbi_nexfundai_crypto_fraud_sting/)
 
 [US Charges 3 Companies, 15 People With Cryptocurrency Fraud](https://packetstormsecurity.com/news/view/36459/US-Charges-3-Companies-15-People-With-Cryptocurrency-Fraud.html)
 
@@ -116,38 +148,6 @@ Posted [Oct 10, 2024](https://packetstormsecurity.com/news/date/2024-10-10/ "13:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [password](https://packetstormsecurity.com/news/tags/password)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36455/) | [View](https://www.theregister.com/2024/10/10/internet_archive_ddos_data_leak/)
-
-[CISA Adds Fresh Ivanti Vuln, Critical Fortinet Bug To Hall Of Shame](https://packetstormsecurity.com/news/view/36454/CISA-Adds-Fresh-Ivanti-Vuln-Critical-Fortinet-Bug-To-Hall-Of-Shame.html)
-
-Posted [Oct 10, 2024](https://packetstormsecurity.com/news/date/2024-10-10/ "13:56:19 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36454/) | [View](https://www.theregister.com/2024/10/10/cisa_ivanti_fortinet_vulns/)
-
-[The Disappearance Of An Internet Domain](https://packetstormsecurity.com/news/view/36453/The-Disappearance-Of-An-Internet-Domain.html)
-
-Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:56:13 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [dns](https://packetstormsecurity.com/news/tags/dns)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36453/) | [View](https://every.to/p/the-disappearance-of-an-internet-domain)
-
-[GoldenJackal Threat Group Targets Air-Gapped Government Systems](https://packetstormsecurity.com/news/view/36452/GoldenJackal-Threat-Group-Targets-Air-Gapped-Government-Systems.html)
-
-Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:56:11 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36452/) | [View](https://www.scworld.com/news/goldenjackal-threat-group-targets-air-gapped-government-systems)
-
-[Casio Hit By Cyberattack](https://packetstormsecurity.com/news/view/36451/Casio-Hit-By-Cyberattack.html)
-
-Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:56:08 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [japan](https://packetstormsecurity.com/news/tags/japan)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36451/) | [View](https://www.securityweek.com/casio-hit-by-cyberattack/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1242332434&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1242332434.1728897872.1728897872.1728897872.1%3B%2B__utmz%3D32867617.1728897872.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2305985742&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2305985742.1728919587.1728919587.1728919587.1%3B%2B__utmz%3D32867617.1728919587.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
