@@ -155,6 +155,16 @@ to keep them secure
 
 ![The salvation army](https://www.dnsfilter.com/hs-fs/hubfs/62fd235a12c56d22fc06da8b_salvation-army-white.png?width=194&height=198&name=62fd235a12c56d22fc06da8b_salvation-army-white.png)
 
+[![Building a Future-Ready IT Workforce](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_buildingafuture_readyitworkforce1.webp?width=500&height=190&name=newsroom_buildingafuture_readyitworkforce1.webp)
+
+Posted on October 14, 2024 by Mikey Pruitt
+
+ **
+
+Building a Future-Ready IT Workforce
+
+**](https://www.dnsfilter.com/blog/building-a-future-ready-it-workforce)
+
 [![What’s Your Policy on Cybersecurity Awareness? What DNS Data Reveals](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_what%E2%80%99syourpolicyoncybersecurityawarenesswhatdnsdatareveals.webp?width=500&height=190&name=newsroom_what%E2%80%99syourpolicyoncybersecurityawarenesswhatdnsdatareveals.webp)
 
 Posted on October 10, 2024 by Serena Raymond
@@ -174,16 +184,6 @@ Posted on October 2, 2024 by Kory Underdown
 How and When to Block Cloud Storage in the Workplace
 
 **](https://www.dnsfilter.com/blog/how-to-block-dropbox-safety-and-security)
-
-[![Maximizing Efficiency and Security: The Art of Safe Automation](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_maximizingefficiencyandsecuritytheartofsafeautomation1.webp?width=500&height=190&name=newsroom_maximizingefficiencyandsecuritytheartofsafeautomation1.webp)
-
-Posted on October 1, 2024 by TK Keanini
-
- **
-
-Maximizing Efficiency and Security: The Art of Safe Automation
-
-**](https://www.dnsfilter.com/blog/the-art-of-safe-automation)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
