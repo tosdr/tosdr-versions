@@ -235,6 +235,18 @@ This website uses cookies to improve your experience. We'll assume you're ok wit
 
 [Privacy & Cookies Policy](#)
 
+[](#)
+
+#### YEAR-END CE SALE
+
+Coupon has expired
+
+[Get the Details](#)
+
+Get your units by year-end or buy now to get the discount and complete the courses next year. All at discounted pricing!
+
+Get Special CE Savings!
+
 \_\_\_\_
 
 \_\_\_\_
