@@ -96,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![Cigna Global Health](https://www.expatexchange.com/banner/Cigna_Global_Happy_728_90.png)](https://cignaglobal.7eer.net/em76Z?sharedid=68050-DESKTOP-leader-leaderad-vrs-B-Global-leader)
+[![GeoBlue](https://www.expatexchange.com/banner/INDV2079-ExpatExchangeAd_728x90_FNL.jpg)](https://www.expatexchange.com/partnerdirect/76/32737-DESKTOP-leader-leaderad-vrs-B-Global-leader)
 
-[![Cigna Global Health](https://www.expatexchange.com/banner/Cigna_Global_Chapter_300_250.jpg)](https://cignaglobal.7eer.net/em76Z?sharedid=68050-MOBILE-leader-leaderad-vrs-B-Global-leader)
+[![GeoBlue](https://www.expatexchange.com/banner/INDV2079-ExpatExchangeAd_300x250_FNL.jpg)](https://www.expatexchange.com/partnerdirect/76/32737-MOBILE-leader-leaderad-vrs-B-Global-leader)
 
 Privacy Policy
 ==============
