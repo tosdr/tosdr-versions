@@ -2,7 +2,7 @@
 
     
 
-Terms & Conditions – Omax Health - Omax Health                                 
+Terms & Conditions – Omax Health - Omax Health                                  
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
