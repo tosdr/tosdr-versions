@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. marketing
+1. English
     
-2. psychology
+2. javascript
     
-3. computer science
+3. html
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
+1. [Artificial Intelligence
     
-    13,240 courses](https://www.classcentral.com/subject/web-development)
+    11,961 courses](https://www.classcentral.com/subject/ai)
 2. [Cybersecurity
     
-    15,900 courses](https://www.classcentral.com/subject/cybersecurity)
+    15,919 courses](https://www.classcentral.com/subject/cybersecurity)
 3. [Digital Marketing
     
-    5,923 courses](https://www.classcentral.com/subject/digital-marketing)
+    5,926 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [Python for Data Science
+1. [Organic Chemistry 1
     
-    University of California, San Diego](https://www.classcentral.com/course/python-the-university-of-california-san-diego-pyt-8209)
-2. [Design Patterns
+    Jawaharlal Nehru University, New Delhi](https://www.classcentral.com/course/swayam-organic-chemistry-1-14221)
+2. [Vital Signs: Understanding What the Body Is Telling Us
     
-    University of Alberta](https://www.classcentral.com/course/design-patterns-9215)
-3. [The Analytics Edge
+    University of Pennsylvania](https://www.classcentral.com/course/vitalsigns-1887)
+3. [CS50's Introduction to Computer Science
     
-    Massachusetts Institute of Technology](https://www.classcentral.com/course/analytics-massachusetts-institute-of-technology-t-1623)
+    Harvard University](https://www.classcentral.com/course/computer-science-harvard-university-cs50-s-introd-442)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
