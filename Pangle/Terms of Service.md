@@ -1,60 +1,38 @@
-[](https://www.pangleglobal.com/zh/)
+![logo](//sf16-scmcdn-sg.i18n-pglstatp.com/obj/ad-media-static-sg/ad/pangle/homepage_overseas/assets/pangle_overseas.jpg "Pangle")
+----------------------------------------------------------------------------------------------------------------------------------
 
-[首页](https://www.pangleglobal.com/zh/)
+[![穿山甲-全球开发者成长平台](//sf16-scmcdn-sg.i18n-pglstatp.com/obj/ad-media-static-sg/ad/pangle/homepage_overseas/_next/static/assets/images/pangle-text.491fcc7f.svg)](https://www.pangleglobal.com/zh)
 
-[解决方案](https://www.pangleglobal.com/zh/solution)
+* ···
+    
+* [首页](https://www.pangleglobal.com/zh)
+* ···
+    
+* [解决方案](https://www.pangleglobal.com/zh/solution)
+    
+* ···
+    
+* [内容中心](https://www.pangleglobal.com/zh/resource)
+* ···
+    
+* [帮助中心](https://www.pangleglobal.com/zh/knowledge)
+    
+* ···
+    
+* [品牌安全中心](https://www.pangleglobal.com/zh/brandsafety)
+* ···
+    
 
-[内容中心](https://www.pangleglobal.com/zh/resource)
+登 录注 册中文
 
-[帮助中心](https://www.pangleglobal.com/zh/knowledge)
+[首页](https://www.pangleglobal.com/zh)/协议条款/
 
-[品牌安全中心](https://www.pangleglobal.com/zh/brandsafety)
-
-登录注册
-
-中文
-
-[首页](https://www.pangleglobal.com/zh/)
-
-/
-
-协议条款
-
-隐私协议
-
-[Pangle Partner Data Privacy Policy](https://www.pangleglobal.com/zh/privacy/partner-en)Pangle Partner Data Privacy Policy
-
-[Pangle End User Data Privacy Policy](https://www.pangleglobal.com/zh/privacy/enduser-en)Pangle End User Data Privacy Policy
-
-[パートナーデータプライバシーポリシー](https://www.pangleglobal.com/zh/privacy/partner-ja)パートナーデータプライバシーポリシー
-
-[エンドユーザーデータプライバシーポリシー](https://www.pangleglobal.com/zh/privacy/enduser-ja)エンドユーザーデータプライバシーポリシー
-
-[Pangle 파트너 개인정보처리방침](https://www.pangleglobal.com/zh/privacy/partner-ko)Pangle 파트너 개인정보처리방침
-
-[최종 사용자 개인정보처리방침](https://www.pangleglobal.com/zh/privacy/enduser-ko)최종 사용자 개인정보처리방침
-
-[合作夥伴資料隱私權政策](https://www.pangleglobal.com/zh/privacy/partner-zhtw)合作夥伴資料隱私權政策
-
-[終端使用者資料隱私權政策](https://www.pangleglobal.com/zh/privacy/enduser-zhtw)終端使用者資料隱私權政策
-
-[Política de Privacidade de Dados do Parceiro Pangle](https://www.pangleglobal.com/zh/privacy/partner-pt)Política de Privacidade de Dados do Parceiro Pangle
-
-[Política de Privacidade de Dados do Usuário Final Pangle](https://www.pangleglobal.com/zh/privacy/enduser-pt)Política de Privacidade de Dados do Usuário Final Pangle
-
-[Política de Privacidad de Datos del Socio Pangle](https://www.pangleglobal.com/zh/privacy/partner-sp)Política de Privacidad de Datos del Socio Pangle
-
-[Política de Privacidad de Datos del Usuario Final de Pangle](https://www.pangleglobal.com/zh/privacy/enduser-sp)Política de Privacidad de Datos del Usuario Final de Pangle
-
-[Politique de protection des données des partenaires de Pangle](https://www.pangleglobal.com/zh/privacy/partner-fr)Politique de protection des données des partenaires de Pangle
-
-[Politique de protection des données de l’utilisateur final de Pangle](https://www.pangleglobal.com/zh/privacy/enduser-fr)Politique de protection des données de l’utilisateur final de Pangle
-
-服务条款
-
-[Pangle Publisher Agreement](https://www.pangleglobal.com/zh/terms/partner-services-agreement-en)Pangle Publisher Agreement
-
-[EEA/SWISS/UK SPECIFIC DATA TERMS (“DATA TERMS”)](https://www.pangleglobal.com/zh/terms/28054)EEA/SWISS/UK SPECIFIC DATA TERMS (“DATA TERMS”)
+* 隐私协议
+    
+* 服务条款
+    
+    * [Pangle Publisher Agreement](https://www.pangleglobal.com/zh/terms/partner-services-agreement-en)
+    * [EEA/SWISS/UK SPECIFIC DATA TERMS (“DATA TERMS”)](https://www.pangleglobal.com/zh/terms/28054)
 
 Pangle Publisher Agreement
 ==========================
