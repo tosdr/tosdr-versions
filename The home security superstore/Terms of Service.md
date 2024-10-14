@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[15% Off Stun Guns & Batons | Use Code: SB15](https://www.thehomesecuritysuperstore.com/collections/self-defense?utm_source=website&utm_medium=merchant&utm_campaign=15%25+Off+Stun+Guns+%26+Batons)
+[15% Off Self-Defense for Women | Code: MYSAFETY](https://www.thehomesecuritysuperstore.com/collections/self-defense-for-women?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+Self-Defense+for+Womenn)
 
-Today’s offer: :: | 15% Off Stun Guns & Batons | Use Code: SB15
+Today’s offer: :: | 15% Off Self-Defense for Women | Code: MYSAFETY
 
 Today’s offer: : :
 
- 15% Off Stun Guns & Batons Use Code: SB15
+ 15% Off Self-Defense for Women Code: MYSAFETY
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
