@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/crisis-winst-of-verlies/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/boeken/wie-zijn-wij-werkelijk/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -141,6 +141,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Wat is er met ons bloed aan de hand?
+
+[Wanneer ik aan mensen probeer duidelijk te maken dat digital…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/wat-is-er-met-ons-bloed-aan-de-hand/comment-page-1/#comment-626337)
 
 ![kluut127](https://secure.gravatar.com/avatar/50b61c4097564ca71cf156762f721f76?s=50&d=identicon&r=g)
 
@@ -389,14 +397,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### De geregisseerde schietpartij op Trump..!!
 
 [Jens Baba heeft er een duidelijk zegje over, weinig spelden…](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/de-geregisseerde-schietpartij-op-trump/comment-page-1/#comment-626304)
-
-![Marie-José](https://secure.gravatar.com/avatar/c913238cd212a2c5422b677c807b1129?s=50&d=identicon&r=g)
-
-##### **Marie-José** reacts on:
-
-##### Wie weet wie de VS bestuurt..??
-
-[Ik ben het met Léon de Winter eens : Obama is degene die nog…](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/comment-page-1/#comment-626303)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
