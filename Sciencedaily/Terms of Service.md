@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Liftoff! NASA's Europa Clipper](https://www.sciencedaily.com/releases/2024/10/241014145904.htm)
 * [Mysterious Heating of the Sun's Atmosphere](https://www.sciencedaily.com/releases/2024/10/241011141015.htm)
 * [Evolution in Real Time](https://www.sciencedaily.com/releases/2024/10/241011140950.htm)
 * [Small Brains Can Accomplish Big Things](https://www.sciencedaily.com/releases/2024/10/241003123111.htm)
@@ -238,7 +239,6 @@ this hour
 * [Playing Songs to Darwin's Finches: New Species](https://www.sciencedaily.com/releases/2024/10/241010142532.htm)
 * [New Tech Improves Structural Strength](https://www.sciencedaily.com/releases/2024/10/241009215431.htm)
 * [3D Printing Method: Unique Objects Quickly](https://www.sciencedaily.com/releases/2024/10/241011141558.htm)
-* ['Inside-Out' Galaxy Growth in Early Universe](https://www.sciencedaily.com/releases/2024/10/241011141247.htm)
 
 Trending Topics
 ---------------
@@ -249,17 +249,17 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
+
 [Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
-[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
-
-[Gynecology](https://www.sciencedaily.com/news/health_medicine/gynecology/)
+[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
-[Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
 [Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
 
@@ -267,9 +267,9 @@ this week
 
 [Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
 
-[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
-
 [Human Evolution](https://www.sciencedaily.com/news/fossils_ruins/human_evolution/)
+
+[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
   
 
