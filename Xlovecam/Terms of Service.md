@@ -8,7 +8,7 @@ To find out whether your browser supports Javascript, or to allow scripts, see t
 
 [![XloveCam®](//medianew.wlresources.com/wl/xlovecam/logo-1663.png)](https://www.xlovecam.com/en/)
 
-* [Free Sex Cams (321)](https://www.xlovecam.com/en/)
+* [Free Sex Cams (428)](https://www.xlovecam.com/en/)
 * [Media](#)
     
     * [Pictures](https://www.xlovecam.com/en/photos/)
@@ -1503,6 +1503,9 @@ _Sign up_
 request an action from \-
 
 Sign up to take advantage of this feature!
+
+_Sign up_  
+to see \-'s posts
 
 Nickname (4 minimum characters)
 
