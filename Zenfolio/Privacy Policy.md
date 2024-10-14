@@ -69,7 +69,7 @@ Zenfolio Privacy Notice
 Welcome to Zenfolio!
 --------------------
 
-[Terms of Service Zenfolio](https://zenfolio.com/termsofuse/) | [Terms of Service PhotoBooker](https://zenfolio.com/terms-of-service-photobooker/) | [](https://zenfolio.com/privacypolicy)[Privacy Policy](https://zenfolio.com/privacypolicy/) | [California Privacy](https://zenfolio.com/privacypolicy#california) | [Copyright Policy](https://zenfolio.com/copyright/) | [Website Terms of Use](https://zenfolio.com/websiteterms/) | [Cookie Policy](https://zenfolio.com/cookies/) | [Open Source Fonts](https://zenfolio.com/attribution/) | [Data Processing Addendum](https://zenfolio.com/data-processing-agreement/) | [Acceptable Use Policy](https://zenfolio.com/acceptable-use-policy/) | [Data Protection Framework](https://zenfolio.com/data-protection-framework/) | [API Terms](https://zenfolio.com/api-terms/)
+[Terms of Service Zenfolio](https://zenfolio.com/termsofuse/) | [Terms of Service PhotoBooker](https://zenfolio.com/terms-of-service-photobooker/) | [](https://zenfolio.com/privacypolicy)[Privacy Policy](https://zenfolio.com/privacypolicy/) | [California Privacy](https://zenfolio.com/privacypolicy#california) | [Copyright Policy](https://zenfolio.com/copyright/) | [Website Terms of Use](https://zenfolio.com/websiteterms/) | [Cookie Policy](https://zenfolio.com/cookies/) | [Open Source Fonts](https://zenfolio.com/attribution/) | [Data Processing Addendum](https://zenfolio.com/data-processing-agreement/) | [Acceptable Use Policy](https://zenfolio.com/acceptable-use-policy/) | [Data Protection Framework](https://zenfolio.com/data-protection-framework/) | [API Terms](https://zenfolio.com/api-terms/)
 
 Last Updated: November 6, 2023
 
