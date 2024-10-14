@@ -19,6 +19,7 @@ Go to previous offer
 
 *  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Wicked Exclusive Collector's Pin Pack** Purchase a ticket to see Wicked in IMAX and get
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Wicked** Chance to win a trip to the Premiere of the film
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Scream Worthy Savings** See classic horror movies and get deals near you
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 25% off on all Andrea Bocelli products** When you buy a ticket to Andrea Bocelli 30: The
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Flowers + Movies = Perfect Halloween** Get $40 off spooky flowers with ticket purchase.
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get 2 tickets to Venom: The Last Dance & more!
@@ -26,7 +27,6 @@ Go to previous offer
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
 *  [![offer icon](https://images.fandango.com/cms/assets/64a40e40-5e81-11ef-a07e-5b03d6159fe4--rt-icon.svg) **New Audience Score Badge Unveiled: Verified Hot** Check out the first Verified Hot movies!](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_GlobalNav)
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
-*  [![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rediscover the magic of Hogwarts!** Get tickets at a theater near you](https://www.fandango.com/movie-news/return-to-the-magic-of-hogwarts-in-theaters-755159?cmp=TARS~FANDANGO~Back_To_Hogwarts_GlobalNav)
 * **Flowers + Movies** Get $40 off spooky flowers with ticket purchase.
 
 Go to next offer
@@ -210,6 +210,16 @@ Close
 
 "Full official rules here: https://nbcuni.sharepoint.com/:w:/s/MarketingHub/EduwQ9931CtOtL55pN916mEBDNo8AyGNxhToRXwsx7m92Q?e=xwbr8S Abbreviated: NO PURCHASE OR APP NECESSARY. Open to legal residents of the 50 United States and D.C., 18 years of age and older. Void where prohibited. Ends October 23, 2024. For Official Rules/Odds/Free Entry visit https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes. Sponsor: Fandango Media, LLC, 12180 Millennium Dr., Ste. 200, Playa Vista, CA, 90094 " [Learn More](https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes?cmp=TARS~FANDANGO~WickedPremiereSweeps_promomodule)
 
+### Halloween Deals Near You!
+
+Close
+
+![Get Scream Worthy Savings](https://images.fandango.com/cms/assets/bcc09fb0-8a4d-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-applepay-week4-tickets-343x362.png)
+
+#### Your favorite Halloween classics at spooky good prices are just a click away.
+
+Offers are subject to change or cancellation by each theater, please contact your local theater with any questions. [Learn More](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_GlobalNav)
+
 ### Special Offer
 
 Close
@@ -279,10 +289,6 @@ Close
 #### Get Deadpool's Premium Package - Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
 
 Deadpool’s Premium Package is non-refundable. While supplies last. Tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a package. See Offer Terms for full terms and conditions for each item included in Deadpool’s Premium Package, including full rules for the sweepstakes. [Buy Now](https://www.fandango.com/deadpoolandwolverine?cmp=TARS~FANDANGO~DeadpoolMicrosite_GlobalNav)
-
-### Rediscover the magic of Hogwarts!
-
-Close
 
 SPECIAL OFFER
 
