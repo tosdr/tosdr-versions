@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/28f06813-9a26-49af-9fba-7055a5ab4584/20241010T062254/28f06813-9a26-49af-9fba-7055a5ab4584_16x9.jpg) ![](https://media.king5.com/assets/KING/images/28f06813-9a26-49af-9fba-7055a5ab4584/20241010T062254/28f06813-9a26-49af-9fba-7055a5ab4584_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-strike-enters-second-month-costs-company-more-1-billion/281-3c4b29bc-5e8d-486a-973e-5d4bc9d703de)
+    *  [![](https://media.king5.com/assets/KING/images/ccd15194-5971-4f8a-a4ab-11f1dc3867e1/20241014T024710/ccd15194-5971-4f8a-a4ab-11f1dc3867e1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ccd15194-5971-4f8a-a4ab-11f1dc3867e1/20241014T024710/ccd15194-5971-4f8a-a4ab-11f1dc3867e1_360x203.jpg)](https://www.king5.com/article/news/local/owner-mount-vernon-plumbing-business-providing-aid-people-affected-hurricane-helene/281-74e5dc3a-62e2-46e6-ab2a-0a9f2f0d96ae)
         
-        #### [Boeing strike enters second month, costs company more than $1 billion](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-strike-enters-second-month-costs-company-more-1-billion/281-3c4b29bc-5e8d-486a-973e-5d4bc9d703de)
+        #### [Mount Vernon plumber travels thousands of miles to help people affected by Hurricane Helene](https://www.king5.com/article/news/local/owner-mount-vernon-plumbing-business-providing-aid-people-affected-hurricane-helene/281-74e5dc3a-62e2-46e6-ab2a-0a9f2f0d96ae)
         
-    *  [![](https://media.king5.com/assets/KING/images/a6622b55-b24d-4fdb-a915-9499ea865ea0/20241014T045554/a6622b55-b24d-4fdb-a915-9499ea865ea0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a6622b55-b24d-4fdb-a915-9499ea865ea0/20241014T045554/a6622b55-b24d-4fdb-a915-9499ea865ea0_360x203.jpg)](https://www.king5.com/article/news/local/king-county-sheriffs-office-investigating-explosion-burien/281-5400ed88-dbd1-41ee-ad3e-a3848c7a6cfc)
+    *  [![](https://media.king5.com/assets/KING/images/3e968d50-afbb-4f02-98ea-b469b567878d/20241014T122922/3e968d50-afbb-4f02-98ea-b469b567878d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3e968d50-afbb-4f02-98ea-b469b567878d/20241014T122922/3e968d50-afbb-4f02-98ea-b469b567878d_360x203.jpg)](https://www.king5.com/article/news/local/seattle/bus-strikes-pedestrian-interstate-5-north-seattle/281-0ec23623-bb84-4509-a945-2b706a9e557c)
         
-        #### [King County Sheriff's Office investigating explosion in Burien](https://www.king5.com/article/news/local/king-county-sheriffs-office-investigating-explosion-burien/281-5400ed88-dbd1-41ee-ad3e-a3848c7a6cfc)
+        #### [Pedestrian struck by bus on I-5 north in Seattle](https://www.king5.com/article/news/local/seattle/bus-strikes-pedestrian-interstate-5-north-seattle/281-0ec23623-bb84-4509-a945-2b706a9e557c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/bb51c451-be8e-4b8b-ac46-5aac38c584d9/20241014T052207/bb51c451-be8e-4b8b-ac46-5aac38c584d9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bb51c451-be8e-4b8b-ac46-5aac38c584d9/20241014T052207/bb51c451-be8e-4b8b-ac46-5aac38c584d9_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
     *  [![](https://media.king5.com/assets/KREM/images/dc999ffa-a85c-4340-baf4-96b66798d844/20241011T184543/dc999ffa-a85c-4340-baf4-96b66798d844_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/dc999ffa-a85c-4340-baf4-96b66798d844/20241011T184543/dc999ffa-a85c-4340-baf4-96b66798d844_360x203.jpg)](https://www.king5.com/article/tech/science/environment/earthquake-risk-northwest/293-b6cc829c-20a1-4c6c-a66f-705ea955053b)
         
-        #### [Understanding our earthquake risk in the northwest](https://www.king5.com/article/tech/science/environment/earthquake-risk-northwest/293-b6cc829c-20a1-4c6c-a66f-705ea955053b)
+        #### [Understanding the earthquake risk in the northwest](https://www.king5.com/article/tech/science/environment/earthquake-risk-northwest/293-b6cc829c-20a1-4c6c-a66f-705ea955053b)
+        
+    *  [![](https://media.king5.com/assets/KING/images/9f740be0-2535-495c-89bc-1222eb4bd6ee/20241014T120622/9f740be0-2535-495c-89bc-1222eb4bd6ee_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9f740be0-2535-495c-89bc-1222eb4bd6ee/20241014T120622/9f740be0-2535-495c-89bc-1222eb4bd6ee_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 57°
 
-![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
