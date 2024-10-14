@@ -253,17 +253,17 @@ _By_ [Rebecca Boyle](https://www.quantamagazine.org/authors/rebecca-boyle)
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
-[![People on ladders looking through holes in a wall at obscured numbers](https://www.quantamagazine.org/wp-content/uploads/2024/10/ZeroKnowledgePCPs-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
-
-[#### Computer Scientists Combine Two ‘Beautiful’ Proof Methods](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
-
-_By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
-
 [![An astronaut floats in front of a black hole, which is sucking various shapes and objects into it.](https://www.quantamagazine.org/wp-content/uploads/2024/09/MainSpaceTime-crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/)
 
 [#### The Unraveling of Space-Time](https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/)
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood) [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett) [Amanda Gefter](https://www.quantamagazine.org/authors/amanda-gefter) [Emily Buder](https://www.quantamagazine.org/authors/ebuder) [Mark Belan](https://www.quantamagazine.org/authors/markbelan) [Natalie Wolchover](https://www.quantamagazine.org/authors/natalie)
+
+[![People on ladders looking through holes in a wall at obscured numbers](https://www.quantamagazine.org/wp-content/uploads/2024/10/ZeroKnowledgePCPs-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
+
+[#### Computer Scientists Combine Two ‘Beautiful’ Proof Methods](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
+
+_By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
 
 The Quanta Newsletter
 
