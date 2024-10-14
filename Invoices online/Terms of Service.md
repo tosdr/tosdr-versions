@@ -197,58 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Anri van der Linde
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=47769933)  
-Baby Toddles Infant Care
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=203607261)  
+APTV Telecoms CC
 
-![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=192033939)  
-PHESA TECHNOLOGY(PTY) LTD
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=143554170)  
+Chiron Medical Solutions
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=55076511)  
-AquariumSmiths
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=142212510)  
+NGB HOLDINGS PTY LTD
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=31899853)  
-NEW BEGINNINGS DESIGNS
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=7550573)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=16222926)  
-Tiny Cuddles Photography
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=202764512)  
+FX ACCOUNTING
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=60621088)  
-Xpress Designs
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=10513221)  
+Enhle Oarabile Kea
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=6258584)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
-
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=93033012)  
-Laurinda Pretorius Spraak en Drama Ateljee
-
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=193409381)  
-BEE SURE CONSULTING (PTY) LTD
-
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=51340804)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=50374121)  
-LEO DEVELOPMENT GROUP
-
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=14188013)  
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=104273783)  
 CHARLIEX CONSTRUCTIONS
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=97298864)  
-Myfinance-Online
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=6082216)  
+NEW BEGINNINGS DESIGNS
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=24815575)  
-Kainos (Pty) Ltd
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=102947601)  
+Well Hung Art
 
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=1fa239596970ac12a0ccfcfc6b56e1890431fc34be8b3af440194e97e8b8541a&c=52712960)  
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=23575198)  
+Prosper Park
+
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=55696553)  
+Quad Biking Cape Town
+
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=110358588)  
+National Elite Security Services (PTY) LTD
+
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=182792512)  
+Printo
+
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=86591895)  
+Brilliant Roof Products
+
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=181668608)  
+Little Nutty Professors
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
