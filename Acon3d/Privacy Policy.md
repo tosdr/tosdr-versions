@@ -1,1 +1,1 @@
-![긴급 점검 공지 이미지](https://acon3d.blob.core.windows.net/public-images/emergency-inspection.png)
+![긴급 점검 공지 이미지](https://acon3d.blob.core.windows.net/public-images/emergency-inspection.png) [서버 장애에 따른 개발 진행 상황](https://acon3d.notion.site/11fe0c5ba98480fcae17fee52770e2cf?pvs=4)
