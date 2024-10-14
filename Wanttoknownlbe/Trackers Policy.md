@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/de-bilderberg-2016-zit-er-weer-op/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/crisis-winst-of-verlies/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
