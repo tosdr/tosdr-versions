@@ -783,7 +783,7 @@ skip to main content
         [Traditional Towers](https://www.lenovo.com/us/en/desktops/subseries-results?visibleDatas=992%3ATower%2CTower%25C2%25A0) [Small Form Factor](https://www.lenovo.com/us/en/desktops/subseries-results?visibleDatas=992%3ASmall%2520Form%2520Factor%2CSmall%2520Form%2520Factor%25C2%25A0) [All-in-One](https://www.lenovo.com/us/en/desktops/subseries-results?visibleDatas=992%3A%2520All-in-One) [Tiny Desktops](https://www.lenovo.com/us/en/desktops/subseries-results?visibleDatas=992%3ATiny%2CTiny%25C2%25A0) [Thin Client](https://www.lenovo.com/us/en/desktops/subseries-results?sortBy=bestSelling&visibleDatas=992%3AThin%2520Client) [Desktop Workstations](https://www.lenovo.com/us/en/c/workstations/thinkstation-p-series) [Build Your Own Desktops](https://www.lenovo.com/us/en/desktops/results/?visibleDatas=711%3ABuild%2520Your%2520Own) [Shop all Desktops](https://www.lenovo.com/us/en/desktops/)
     * Desktops by Use
         
-        [Work](https://www.lenovo.com/us/en/business/desktops/) [Gaming](https://www.lenovo.com/us/en/d/gaming-desktops/) [Everyday](https://www.lenovo.com/us/en/desktops/subseries-results?visibleDatas=993:Everyday%20Use)
+        [Work](https://www.lenovo.com/us/en/business/desktops/) [Gaming](https://www.lenovo.com/us/en/d/gaming-desktops/) [Everyday](https://www.lenovo.com/us/en/desktops/subseries-results?visibleDatas=993:Everyday%20Use) [Creators](https://www.lenovo.com/us/en/d/laptops-for-creators/)
         
         Desktops by Brand
         
