@@ -29,7 +29,7 @@
 User Agreement
 ==============
 
-Last Updated: July 30, 2024
+Last Updated: October 10, 2024
 
 1. [INTRODUCTION, ARBITRATION NOTICE & CLASS ACTION WAIVER](https://www.condenast.com/user-agreement#introduction-arbitration-notice)
 2. [MONITORING AND COMPLAINTS AGAINST OTHER USERS](https://www.condenast.com/user-agreement#monitoring-and-complaints)
