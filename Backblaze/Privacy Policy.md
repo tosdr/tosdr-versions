@@ -1,6 +1,6 @@
 [Partners](https://www.backblaze.com/partners)[Support](https://www.backblaze.com/help)[Sign In](https://secure.backblaze.com/user_signin.htm)
 
-[![Backblaze logo](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/668ff8bf4b20b0b7c311b669_Backblaze-logo.svg)](https://www.backblaze.com/)
+[](https://www.backblaze.com/)
 
 Products
 
