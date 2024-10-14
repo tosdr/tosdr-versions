@@ -134,7 +134,7 @@ Looking for our terms and conditions? You've come to the right place. We've set 
     
 * [Terms and Conditions – Pay Monthly and Pay Monthly SIM Only Contracts – Move to O2 plan (from 4 February 2024)](https://prod.ctassets.virginmedia.com/uploads/Terms_and_Conditions_Pay_Monthly_and_Pay_Monthly_SIM_Only_Contracts_Move_to_O2_plan_from_4_February_2024_5a231b084c.pdf)
     
-* [Terms and Conditions –](https://www.virginmedia.com/legal/stream) [Stream boxes](https://www.virginmedia.com/legal/stream)
+* [Terms and Conditions –](https://www.virginmedia.com/legal/flex) [Flex](https://www.virginmedia.com/legal/flex)
     
 * [Terms and Conditions - WiFi Guarantee with WiFi Max](https://prod.ctassets.virginmedia.com/uploads/Wi_Fi_Max_POST_21_JUL_2023_v3_059b6b25db.pdf)
     
