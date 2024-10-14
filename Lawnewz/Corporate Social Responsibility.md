@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Brittani Moore mug shot after arrest in sister's shooting death.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Brittni-Moore--432x243.jpg)](https://lawandcrime.com/crime/woman-shot-sister-in-the-back-of-the-head-before-taking-lyft-to-publix-called-911-and-tried-to-pin-murder-on-husbands-pregnant-girlfriend-sheriff/)
+1. [![Left to right: Greg Abbott and Janis Graham Jack](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Abbott-Jack-432x243.jpg)](https://lawandcrime.com/judiciary/must-be-removed-fifth-circuit-bounces-clinton-appointed-judge-from-long-running-texas-foster-care-system-abuse-case-after-greg-abbott-asks-for-her-removal/)
     
-    ### [Woman shot sister in the back of the head before taking Lyft to Publix, calling 911, and trying to pin murder on husband's pregnant girlfriend: Sheriff](https://lawandcrime.com/crime/woman-shot-sister-in-the-back-of-the-head-before-taking-lyft-to-publix-called-911-and-tried-to-pin-murder-on-husbands-pregnant-girlfriend-sheriff/)
+    ### ['Must be removed': Fifth Circuit bounces Clinton-appointed judge from long-running Texas foster care system abuse case after Greg Abbott asks for her removal](https://lawandcrime.com/judiciary/must-be-removed-fifth-circuit-bounces-clinton-appointed-judge-from-long-running-texas-foster-care-system-abuse-case-after-greg-abbott-asks-for-her-removal/)
     
-2. [![YSL RICO judge, Fani Willis](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Fani-Willis-432x243.jpg)](https://lawandcrime.com/live-trials/live-trials-current/ysl-rico-case/it-shouldnt-be-happening-judge-calls-out-fani-willis-for-email-reply-all-screw-up-in-ysl-rico-case-already-tripped-up-by-secret-talks/)
+2. [![Gerry Gelpi (Jefferson Parish Sheriff's Office).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/gelpi-432x243.jpg)](https://lawandcrime.com/crime/you-were-the-only-demon-that-day-judge-upbraids-murderer-who-claimed-he-was-the-son-of-god-when-he-stabbed-demon-neighbor-16-times/)
     
-    ### ['It shouldn't be happening': Judge calls out Fani Willis for email reply all screw-up in YSL RICO case already tripped up by secret talks](https://lawandcrime.com/live-trials/live-trials-current/ysl-rico-case/it-shouldnt-be-happening-judge-calls-out-fani-willis-for-email-reply-all-screw-up-in-ysl-rico-case-already-tripped-up-by-secret-talks/)
+    ### ['You were the only demon that day': Judge upbraids murderer who claimed he was the 'son of God' when he stabbed 'demon' neighbor 16 times](https://lawandcrime.com/crime/you-were-the-only-demon-that-day-judge-upbraids-murderer-who-claimed-he-was-the-son-of-god-when-he-stabbed-demon-neighbor-16-times/)
     
-3. [![Alice ](https://am21.mediaite.com/lc/cnt/uploads/2024/01/Alice-Alyx-Kamakaokalani-Herrmann-Theobald-22Theo22-Brooks-Lengyel-432x243.jpg)](https://lawandcrime.com/crime/former-mr-bungle-rocker-found-guilty-of-murdering-girlfriend-who-recorded-her-last-moments-alive/)
+3. [![Left to right: Jack Smith, Tanya Chutkan, Donald Trump](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Smith-Chutkan-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/the-court-will-deny-jan-6-judge-gives-trump-a-break-by-rejecting-new-efforts-to-pursue-maximum-transparency-over-redacted-jack-smith-immunity-brief/)
     
-    ### ['You're gonna f—ing die right now. Are you ready?': Ex-rocker convicted of murdering girlfriend who chillingly recorded her last moments alive](https://lawandcrime.com/crime/former-mr-bungle-rocker-found-guilty-of-murdering-girlfriend-who-recorded-her-last-moments-alive/)
+    ### ['The court will deny': Jan. 6 judge gives Trump a break by rejecting new efforts to 'pursue maximum transparency' over redacted Jack Smith immunity brief](https://lawandcrime.com/high-profile/the-court-will-deny-jan-6-judge-gives-trump-a-break-by-rejecting-new-efforts-to-pursue-maximum-transparency-over-redacted-jack-smith-immunity-brief/)
     
-4. [![The Conway (S.C.) Police Department (Google Maps)](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Conway-S.C.-Police-Department-432x243.jpg)](https://lawandcrime.com/lawsuit/woman-who-got-bad-vibes-during-botched-facebook-marketplace-deal-forced-to-endure-jail-cell-with-trash-everywhere-blood-on-walls-after-wrongful-arrest-lawsuit/)
+4. [![Virginia McCullough, inset on the left; Lois and John McCullough, inset on the right – against an image of the family's home.](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Virginia-McCullough-Parents-432x243.jpg)](https://lawandcrime.com/crime/i-know-i-dont-seem-100-evil-woman-murdered-her-parents-and-stashed-their-bodies-inside-makeshift-tombs-in-the-family-home-for-years-while-living-on-their-pensions/)
     
-    ### [Woman who got 'bad vibes' during botched Facebook Marketplace deal forced to endure jail cell with 'trash everywhere, blood on walls' after wrongful arrest: Lawsuit](https://lawandcrime.com/lawsuit/woman-who-got-bad-vibes-during-botched-facebook-marketplace-deal-forced-to-endure-jail-cell-with-trash-everywhere-blood-on-walls-after-wrongful-arrest-lawsuit/)
+    ### ['I know I don't seem 100% evil': Woman murdered her parents and stashed their bodies inside 'makeshift tombs' in the family home for years while living on their pensions](https://lawandcrime.com/crime/i-know-i-dont-seem-100-evil-woman-murdered-her-parents-and-stashed-their-bodies-inside-makeshift-tombs-in-the-family-home-for-years-while-living-on-their-pensions/)
     
-5. [![Dr. Dre, Dr. Charles Sophy](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Dr-Dre-Charles-Sophy-432x243.jpg)](https://lawandcrime.com/lawsuit/you-f-ed-with-the-wrong-one-high-profile-psychiatrist-and-marriage-counselor-files-bombshell-lawsuit-against-dr-dre-claiming-bizarre-fake-fbi-agent-intimidation/)
+5. [![Inset: Carmen Maldonado (The Rizzuto Law Firm). Background: The funeral home that is accused of sending Maldonado's body to the wrong country (WNBC).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/funeralhome-432x243.jpg)](https://lawandcrime.com/lawsuit/funeral-home-sent-casket-with-body-to-wrong-country-to-decompose-lawsuit-says/)
     
-    ### ['You f—ed with the wrong one': High-profile psychiatrist and marriage counselor files bombshell lawsuit against Dr. Dre claiming bizarre fake FBI agent intimidation](https://lawandcrime.com/lawsuit/you-f-ed-with-the-wrong-one-high-profile-psychiatrist-and-marriage-counselor-files-bombshell-lawsuit-against-dr-dre-claiming-bizarre-fake-fbi-agent-intimidation/)
+    ### [Funeral home sent casket with body to wrong country to decompose, lawsuit says](https://lawandcrime.com/lawsuit/funeral-home-sent-casket-with-body-to-wrong-country-to-decompose-lawsuit-says/)
     
 
 [](http://eepurl.com/c89Jdb)
