@@ -101,7 +101,6 @@ Please enter a search term
         * [Oil & Gas](https://www.pinsentmasons.com/sectors/energy/oil-gas)
         * [Renewables](https://www.pinsentmasons.com/sectors/energy/renewables-cleantech)
         * [All Energy](https://www.pinsentmasons.com/sectors/energy)
-    * [Government and public sector](https://www.pinsentmasons.com/sectors/public-sector)
     * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
         * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
         * [Finance](https://www.pinsentmasons.com/sectors/financial-services/banks)
