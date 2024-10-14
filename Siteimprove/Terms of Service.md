@@ -19,20 +19,53 @@ Close menu
     
 * Platform Platform
     
-    Core Strengths
+    [Digital Accessibility & Governance](https://siteimprove.com/platform/accessibility-digital-governance/)
     
-    * [![Digital Accessibility & Governance](/globalassets/media/redesign2024/icons/outlined_icon_nav_core_a11y_digital_governance-12.png)
+    * [![Accessibility](/globalassets/media/redesign2024/icons/outlined_icon_nav_core_a11y_digital_governance-1.png)
         
-        Digital Accessibility & Governance](https://siteimprove.com/platform/accessibility-digital-governance/)
-    * [![Digital Experience Analytics](/globalassets/media/redesign2024/icons/outlined_icon_nav_core_digital_experience_analytics-12.png)
+        Accessibility](https://siteimprove.com/platform/accessibility-digital-governance/accessibility/)
+    * [![Quality Assurance & Custom Rules](/globalassets/media/redesign2024/icons/icon_nav_core1_qa_custom_rules-1.png)
         
-        Digital Experience Analytics](https://siteimprove.com/platform/digital-experience-analytics/)
-    * [![Search & Performance Marketing](/globalassets/media/redesign2024/icons/outlined_icon_nav_core_search_engine_marketing-12.png)
+        Quality Assurance & Custom Rules](https://siteimprove.com/platform/accessibility-digital-governance/qa-and-custom-rules/)
+    * [![Designer & Developer Tools](/globalassets/media/redesign2024/icons/icon_nav_core1_designer_dev.png)
         
-        Search & Performance Marketing](https://siteimprove.com/platform/search-engine-marketing/)
-    * [![Cross-Channel Campaign Management](/globalassets/media/redesign2024/icons/outlined_icon_nav_core_cross-channel_ad_management-12.png)
+        Designer & Developer Tools](https://siteimprove.com/platform/accessibility-digital-governance/design-and-developer-tools/)
+    
+    [Digital Experience Analytics](https://siteimprove.com/platform/digital-experience-analytics/)
+    
+    * [![Content & Behavior Analytics](/globalassets/media/redesign2024/icons/icon_nav_core2_content_behavior.png)
         
-        Cross-Channel Campaign Management](https://siteimprove.com/platform/cross-channel-ad-management/)
+        Content & Behavior Analytics](https://siteimprove.com/platform/digital-experience-analytics/content-and-behavior-analytics/)
+    * [![Journey & Funnel Analysis](/globalassets/media/redesign2024/icons/icon_nav_core2_journey_funnel.png)
+        
+        Journey & Funnel Analysis](https://siteimprove.com/platform/digital-experience-analytics/funnel-analysis/)
+    * [![Visitor Engagement & KPIs](/globalassets/media/redesign2024/icons/icon_nav_core2_vistor_kpis.png)
+        
+        Visitor Engagement & KPIs](https://siteimprove.com/platform/digital-experience-analytics/visitor-engagement-kpis/)
+    
+    [Search & Performance Marketing](https://siteimprove.com/platform/search-engine-marketing/)
+    
+    * [![Unified Search Insights](/globalassets/media/redesign2024/icons/icon_nav_core3_unified_search_insights.png)
+        
+        Unified Search Insights](https://siteimprove.com/platform/search-engine-marketing/united-search-insights/)
+    * [![Content Marketing](/globalassets/media/redesign2024/icons/icon_nav_core3_content_marketing.png)
+        
+        Content Marketing](https://siteimprove.com/platform/search-engine-marketing/content-marketing/)
+    * [![Competitive Research](/globalassets/media/redesign2024/icons/icon_nav_core3_competitive_research.png)
+        
+        Competitive Research](https://siteimprove.com/platform/search-engine-marketing/competitive-research/)
+    * [![SEO Insights Stream](/globalassets/media/redesign2024/icons/icon_nav_core3_ai_seo.png)
+        
+        SEO Insights Stream](https://siteimprove.com/platform/search-engine-marketing/ai-seo-workflow-management/)
+    
+    [Cross-Channel Campaign Management](https://siteimprove.com/platform/cross-channel-ad-management/)
+    
+    * [![Paid Search](/globalassets/media/redesign2024/icons/icon_nav_core4_paid_search.png)
+        
+        Paid Search](https://siteimprove.com/platform/cross-channel-ad-management/paid-search/)
+    * [![Paid Social](/globalassets/media/redesign2024/icons/icon_nav_core4_paid_social.png)
+        
+        Paid Social](https://siteimprove.com/platform/cross-channel-ad-management/paid-social/)
     
     [Platform Overview](https://siteimprove.com/platform/)
     
