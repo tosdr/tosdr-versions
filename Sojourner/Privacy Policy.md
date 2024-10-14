@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-96bd722e1912795a58b99f0acaef72bc
+19ce0339a3c23e74ea5e6731b8b41879
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Square Swarovski crystal clasp](https://www.sojourner.biz/images/cache/SKU0097.200.jpg)](https://www.sojourner.biz/clasps/swarovski/square-swarovski-crystal-clasp.html "Square Swarovski crystal clasp")
+[![Candle No 3 (grapefruit)](https://www.sojourner.biz/images/cache/soaps/SS010_CandleNo3_grandebougie3.200.webp)](https://www.sojourner.biz/candle-no-3-grapefruit.html "Candle No 3 (grapefruit)")
 
-#### [Square Swarovski crystal clasp](https://www.sojourner.biz/clasps/swarovski/square-swarovski-crystal-clasp.html "Square Swarovski crystal clasp")
+#### [Candle No 3 (grapefruit)](https://www.sojourner.biz/candle-no-3-grapefruit.html "Candle No 3 (grapefruit)")
 
-$49.00
+$29.00
 
 ### Best Sellers
 
