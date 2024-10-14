@@ -93,6 +93,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Beard Oil FAQs: Answering All Your Pressing Beardly Questions](https://www.artofmanliness.com/style/facial-hair/beard-oil-faq/)
 
+[![Illustration of a person mastering the Skill of the Week by adjusting a blue necktie in a Full Windsor Necktie Knot, with a downward-pointing red arrow indicating the direction to pull.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/ties/how-to-tie-a-full-windsor-knot-an-illustrated-guide/)
+
+[Skill of the Week: Tie a Full Windsor Necktie Knot](https://www.artofmanliness.com/style/ties/how-to-tie-a-full-windsor-knot-an-illustrated-guide/)
+
 [![An illustration of a man and a boy demonstrating how to tie a tie.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/ties/how-to-tie-a-tie/)
 
 [How to Tie a Tie](https://www.artofmanliness.com/style/ties/how-to-tie-a-tie/)
@@ -104,10 +108,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Illustration of a man adjusting his tuxedo and demonstrating scarf tying techniques.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/ties/5-ways-to-tie-a-scarf-your-60-second-visual-guide/)
 
 [Skill of the Week: Tie a Scarf 5 Different Ways](https://www.artofmanliness.com/style/ties/5-ways-to-tie-a-scarf-your-60-second-visual-guide/)
-
-[![Illustration of a person tying a Half-Windsor Necktie Knot with arrows indicating the direction of movement.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/ties/how-to-tie-a-half-windsor-knot/)
-
-[Skill of the Week: Tie the Half-Windsor Necktie Knot](https://www.artofmanliness.com/style/ties/how-to-tie-a-half-windsor-knot/)
 
 [Browse all Get Style](https://www.artofmanliness.com/style/)
 
@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/career-wealth/leadership/podcast-1030-the-problems-with-the-cult-of-leadership/)
+
+[Podcast #1,030
+
+###### The Problems With the Cult of Leadership](https://www.artofmanliness.com/career-wealth/leadership/podcast-1030-the-problems-with-the-cult-of-leadership/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/advice/podcast-1029-treat-your-to-do-list-like-a-river-and-other-mindset-shifts-for-making-better-use-of-your-time/)
 
 [Podcast #1,029
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,027
 
 ###### The Imagination Muscle — Where Good Ideas Come From (And How to Have More of Them)](https://www.artofmanliness.com/character/behavior/podcast-1027-the-imagination-muscle-where-good-ideas-come-from-and-how-to-have-more-of-them/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
-
-[Podcast #1,026
-
-###### 5,000 Years of Sweat — Lost Workout Wisdom From the History of Physical Culture](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
