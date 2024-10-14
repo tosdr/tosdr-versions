@@ -92,6 +92,7 @@ Company
 * [Docs](https://docs.render.com/)
 * [Changelog](https://render.com/changelog)
 * [Blog](https://render.com/blog)
+* [Community](https://community.render.com/)
 * [Careers](https://render.com/careers)
 * [Privacy Policy](https://render.com/privacy)
 * [Security](https://render.com/trust)
@@ -102,10 +103,6 @@ Company
 * [LinkedIn](https://www.linkedin.com/company/renderco/)
 * [GitHub](https://github.com/renderinc)
 
-* [Changelog](https://render.com/changelog)
-* [Terms](https://render.com/terms)
-* [Privacy](https://render.com/privacy)
-* [Security and Trust](https://render.com/trust)
 * © Render 2024
 
 </noscript></body></html>
