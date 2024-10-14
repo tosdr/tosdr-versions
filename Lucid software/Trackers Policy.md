@@ -104,6 +104,8 @@ PINGDOM\_CANARY\_STRINGSkip to Content
 Lucid Software Inc. Cookie Policy
 =================================
 
+Please note, the document below is maintained using a 3rd-party system and Lucid do not control its accessibility features. If you experience any issues please contact our legal team at [legal@lucid.co](https://mailto:legal@lucid.co/) to provide assistence.
+
 Stay up to date with us:
 ------------------------
 
