@@ -1,1 +1,339 @@
-��jQT�zȌ䤶��F����g�����k��c��|\*�\[RJ���2{�@��h�T�̟uq$�#"B)ԟ�0�k\]�/��e◩~��r������h,o��썙6a�e�TQ��MV�Y�?�2�a��j/)/�G�PL��Ѝ�� i\`Vh#\`IdVS���5���̿�������y2�����5��"-y&�+�ۋ�f��}�DDDh}�1~��;�@��P\[����r�\[liꑌ��|����� \[��u����g�5�)D�t�߆в�������5��r�ryU���%�����(���"^G�5F&�%$�{��Yv�ncg�)R6֙���;&#W��1k���q9O�\]��K\\�=���1��M����M�)��������S&�1�PQn��\\�M��(ʕ^2-9g�\]r���u�q��?��������tM�|�g�H��)g�W�0�ݰi�u$.������q�χ=Y����hbdF;��8��L����E��%�kj�x���~|�z,�3e�����^�A��z���~�?�?X�u�ᕬ����F��S����tm�{���\[���Bi��^tފ攬6�ý/P+�F7�"2%\]��6� ��C���("��5J�jqbu�YJN�4��K3�T�9��;�\\�:v�;7��4��c։ΒG.\_\]��G���c�.y�t���2����{'�A~�Ur1�z/�j��G�B$�Xj�?q��?�\`�d��l��y�W �������,x����f\]E�\[����;�A�W�J@�n15���m���m6�Z��nW��ܡ�g�e��w#Wʚ���/��n�������7Y��"�\_y1�>౸�.�G�F1���u\`�(\*0���4�j��j��ˍ��KS��o�bY/;����Zn��r�ɨReV�\*D\[�\\��e���Ɋz�߇�7�v�gboy�9�wO�r� t�P�\`��=!f)�ӌ������l�2�?��}$'�g?��ܓ�����|A��3�^1�5��0\[f���MA����&�N��R�Vm�X��!�w+������s�\`q�\`����b�-�����Z\*�� �٥X����e����\_��Y���G�� �#k!u֕�?\`KNנ�������6/.�A\`�X\`�@(�����8\\\]\\�9�=����i<���=5��p鯰P����-�\\k�r�����P���8( ���\\�e���W�#\[<�W��������:�!X��w�=1!���vqq&vg)~.����c\]�"5�5�s|s<"+�=��.u���pժ.��Kޑ��^~TO����ޚ8�\\\\��Q��х�1s�V���|9�/�J�����7.���ⷋt�o��+��{^Ვ�/���n��B����9M�\_�d�4�X�Hzj�6C���� ����.O�\]��!�p��9u�N���ֿw���+$V����!&�����䊦n�Ջ�(��{��yr�,��H�\]㚯/��0��9��^�X��K���y�H�b!��oCU�0��i�t�ǖ�ŝ��L�P����C2g�nV~��ڸ&�B�B{d��Py���3|'~C�J����ѱO�����4.���M�\`����Lz/��\`�<����x6Q���q�^�Q��W����%��os�3y�8�$zd���\_�����ae�6;�}k���o��X?�K|��?��%���./}��>/�����W8��/u��8�y)g.R3u��ktW�{���4�A�S�%�\[�ާ��.~���9�:)\*9&�P�)W��Մ��@�z�q�|�ȽQmv�y�e� ����\]"������BâS�S�DO��&+��Dk�6fa�:��<�ѱ��nY� �w�BO���d���83��+Pt�����&�W�5���KcW�\]Q��X|���hFc�"�:�XO�ԃ�>�'���\\��vq�.͎�Y��0��TA������������C��Fh^f&{u���ݏ��6�l��w�<��D�?�a:���. ����ʴ������n���x�GE����izoch��1�$��w�鸀J���^�ü\*Дa��\`�-\]ֻ���\[\[�ak��=U�t��J�K��fP/����E�����=���ϻ��M-\]d�H��2����v��rG����w�i���\]^��Lo}b:�?�q����D�ޟ�M���h��t�M۴����S�����\[?�e���6\\���\].���~�n�+�����p�������?����kM���^�˱���P�?/������8^װ�c���c�>d� �+���k���0�mu��J\\�&�۲��a}�}���t��額}�7������z ��}'�Ud%���v����M���\]!�.�k/���4�XI�ugê�g�V/o�����sߝ;� �� �w��(��2hs\[kt�Ӈӯ�i�>\]�F=ak���q�p>��� �a{���h������t<�����\]{m�2�\]�uyi�n^�f�V�n=<� �����v4�{R�8�Ч��9A"iFN�NZ����U9�H+b�%�0� ��I�� iEJ,9�V$cT�# ��ޟ��E$ pe1�� ���H����F��$��\*4=~-�H��͹J��Ő��;��4!�K��;�¢p�;� ���Ӏ�##-(��r%-^~��:jbɈ��\]��d�B��ɼ$H�>2 �/�&�����, 1RtdeQX�~�  �:�ŋ�!B� 'T�^ِIQ� � ��hCL�.!:T8�f�{R�g R~ �HԸ�i@�p�;RG� ɧ�e.����{悐ID9�I �r�yE��8����3�<�����')�#���Uq�h�V��ⅢBk���Qm�EANQp�TD�F���������)E��B�����o���KOÊR����L�O�2#e2A�K���7����S�>�IT��pbG�?��5"��+�8�zD��E���\]~�r�L�S��l�DY���Q�������S���OY gļ�:gd!�>We� �tg!���-��%0|�Ч�)p!�0��xn̜Q\*yA���8oS%����9�~�q�f��\\ ~�7I�s� W�$� �yL�j���ӝ�%��q� � ΨN.�����8#D�.7�H�B��� Y\_M����RF-\\��RF�\\P�qCEr��Gl�M�� F)#��5�ҧ>u��$e�D)K���S�H� ��̤M�&K�c���E���%�!;�A3'�C������P+���:��R"O��-K��\\�PeC,�2�{ݫHb����! CG�������z���AGugT(\\�Cǵ��5Z�uMrq^52���dxj�U��Q�%jl����}����׶�4�x�q勞�����"jW�\*in��p9��S����ἢ�m9� �((q�:���dke^���F����l�a=P���v~�����ש��|y�w���g�u:�hx^G�˲��/m{|&���%���m��v���q��P^K/�Liı��D=���cc�<�~Z��a��i{�����n�9z������V��5Z/:&�d=ysQ:i�JE�G���g�����ǎ�K���e=�;�9�ak?��~�1��7����fw���w����{�x�|�.W���V��깱zA��羅ɋ"ߤ�|�������Eύ�lI��j�8V���a ���z�Sl�<��-�YEr��|<&�|�\`:&E�)�8�~}����³����"ߤ�uo4+7��7�{���a�=�~ B$zt������-zۂ�)��x0z ʿS��H\_\`�M��8������:�!L ^�Kv;�\[��CwD��L�R�E�&p�5!f�m+ptY��a\\�� &r�ًZX����Ykg��$��b�J��3�'t@n���t�:ͥ����š�x<\`��}�%�?z���3ḳ\*�foM�L~��2��p�?�\`�EUr���Ϩ7 ��ptZfc�Z���ql�u��&\]����:������3�;���e}1-k異=&��2^Yv�}y&�@}<&�j:&e���U�IN���B���tep��E��?�(��/���T<^�e�)���򡞌�$�\[@�z�T��>v�~�Yi���ϥ��{��~c�5���p�}�U�5(2��R���9���j�/�9ќ�+�rM���n�mV�\*;�2\*6�b��R�efp-mڜ�ÍWe�\]rj�j� fɩ��4!\[�!p@��< ���c��EL�\]y�q �j/|���k��7�n���ݦ��(�Jɚf�ߴI����i�MNϙ�C'�����:C��%�K@��y����g�Vd7��C���Z���R���:g�tʣ����|ނs�w�����qá���-Of�0cK1ֿuǬNF���-�m�+�^�%X&�k�q!3VɿoїΧ$�W=�NY��S�����M|$G�K���x��\_h� ��\[jz����»Zu���P��V�jI�F�U���i��ɖ�Zr���RڜzC���\`Q�R�c'Jf��I�7z���r��զ��.� �W����B(�Z'y���!�\\5��W\]:T\`��&���%NY���8�7g���b�:,��d�tZ�n�?��/�>5�T��i �2���j|<�!M$��La5>�ְ���(�����\*ϊ�c���4����ס=\[�n��J&rg��۶�������.׍� i�9�o�2Ng��q�8&2\[�S׭�Qm�cf�cr�nW��l�t�(���e��"���^ƒE�Ca�x&N���\]��{e��@�!�G89^Y���L���6���h�Ms���G��\`E�n������D��JDac&�G�t:���f�坅-7N{1z��Yd-F,.�=P�1�7�3������Z�}���9&K&\`��l8��$V�u՟{^�K��\[~ ��&z'��d�����V���lڥ?X��r�/��ѥS^;�?�D�L �������i'Gcו\_�P^;�\]��7Jq�ҽ���wӮO���^Аq��qJ%�z�M��!�C&���q���~���h��\\��E5�\`q�\]�X�ɓk��Z�Z�l��ڭ�tħZf|t߶�r! \[�!�����o��O�� B��qB��VJq��Ȭ%̏�M��A2�Z��1���0�Ch�f�5��dt�,9�nL����Q5��Ez��<�8or<�'�v�pHq���O=soRpTs)Z7x�R;����҅�Ђj��Y�93H�D�3�o�%8��P&lq�-1�� N<���\]����;v��rl���L�o��s��!Ǎ���;�������!��Y!lMe��O5���!�����QP�mw��z%.7�����\]� �t��o2��|'4D�(e�KvW��(q���A�㟤�(�'��rH-�ɸ��^�WHS��s�elX�v��1��=gMg"kt�Q��$\[w�^|V{�����M~�#k�Q�5qrw'z,Q©x��\_�៶^����of7�6�(Wj����j�40��Q �U4Y�eb�Zxc�(�� ๪ǉ�Ḓ��%�\[��F�G�;2�:�:�:~g��x� 5�#���Gf�߻d��XdA|~�t>�s;��Z�� '����Sc��F��΂ �X� �k�Mן�X�,㫭�:��j��F� U��{y���%�����W��Z�^���Iy��&�ڣ��V�N�Lc1��<��ȁ\]<��c�?$\`K0�q%\]On����?����B���$0��w! ���T�4ޚ�U���wW%2&y��A\*�3��D� ��(q��\]ʴ�# &��(A���IN�It�V�T��hd��t�����(oR��;Hƿ\*������S�����{d-%F��"=�^j�0K��D���A@�0�.OK7��er��xd �cp;|���n��Wl��c0�F ��\\7QY\_�t�+N��#e0$�P��� ���!\]"��z�&�..�p�biF5��P@zf�Ȫ�\]~�@��z�\`{g1 ���x�8M:�Z�R��)6Փ\*�Za׉ƣ$F?���A�s& 3v��MuS�~P���{3��s�ިh�컼�d�\]C���2�sh���k��~7r̽f�C\_�5�h�Z��!-���b�̄0C,��9�,3G\\��Ѭ�8!\]t�Q��Gh$��~��G:��'|QI�:45v�Э����J�L5faVp5�D�k�ѻw�~�/���\]vT���~��ɶ\*�%�UY��P�˪�rYp��v�)�ź�&���᏿+�ţNz���6Y~�9�9u�X�i�G����ϫ�44��ל B\[Ӟ��e�'g;�:�'R'~WպB�\_���wr\]�����Ͼ�#�ED2 ӽdҹs!�@^r�g��a�I7Wl )� a����~���9����w)�gAf(zA�9�|�3���%��P���6Fn�&"��ӯ���⥃�/�����H�M��5@�pvG\*�q�0���� 79�D�������^G�e� �(�1La���\[\[&8V���X"�ՎɅ��\*�H�b�2H46٪��R�6ZtEә�����\[�h7�I ����\*������o��!DE�θΰF�s��a�K#�@����3����\[�<���O�}�q�L�P��{�5�����E4 ���=���0!���تЄ38�T.z�,h�p�ͮ= �q5�O�<U\[#F�i�.��M5q�|'Ι�i6� l�Y���!�T���e�YN��2\*<2F��8�#u�P5�4K�8�D��e\]~w��BҜ�>�qwE�����Xъ�+���s�-q+�v� �,��s��4�,�p�M|�'�\`���19��� 3�8����W�$2B|բ��ࠧ� �e%��-�E�lW}�l���g�cȮ���� (��ch��=�,�x�ǺW���5%�� ��<�h�q�Ʇ�<����Q���ڴ���J4}�g%�#Bst�i�Y���DFu��G�?�Lփ�xYwU����eѯ �=�I�d���dϪ�@^Q���(r8���\_y�RsL �l1��a���}̧�Q��� z���X"���i�f,��ƥƶ9^y����V�����o� ,�uHM@�įErS͚�G�Qr�@Aʣ�^O�wp�Px� �|@� �\`�rը��&u�\`���h�'���n2\*�q ���LXX���cd�U|�I�D��p�d���w �Y&�j0X����!E�&�PԿD�Nްq��@Z;g/�� 1������bS+6쐜�)�)w�\]�\_�Y�m�Jf���)��7�B ���h��U��ԑ�� �c?zZ�U��dl�+θ��d(:FOR�) ���4�����"! v~i ۺI���l�)\*��w�R�m�\]2D�����\`��4�:��\*����F��&z��?��qQ|x(M#M��%7%��F�z�f:IU?����$����°�X�^|Y�Z�gC�{�=��I5�G D���U�'�}z��o��=HM0l�Qy�����I^:����dW,�p\[R�?1�2�tmr��ԵVǮ3a�Ι�jwl�����r�-H�\]-�����\]�d��?OC'�m���$'�9��p�ސ�29H���Qָ��P?h�I�#��E�n�+����ւmh�=#α��\`xLqz� � �M�����PY�$Q�4t��{����5Ld���\]u0sH���3�hW���&b���Ze�� ^ed�a�+�3K\[���ivetzږ��!���u�0�CD����u �Q������}�<�b�20� 9u�\_����\\/)����"'�#6cQ��ﵦ'�a6�oE�v<~ hz;�1�.�s�6U�-� ��"�M;1ׂ&��s7(��h\_�VaN��홃�Pլa�͝cz�=ǁǜ��".-�L֊��Z��5�:�ʐ��ƌ�ߊ���b����#$c<k�#�tC �~�~!�����%|w�|<4ّ�\[%k���)6�����E4�ȕ��,�� � � v���r�.�؊FU��Ļ����(���\`b�W���ܚ�\`��H�=� (��; ��YGH��"Ej���u=���/ݗ�^t�s�-#\`)�z�;ף 68�J~v�z�A�Kk��B5Rm�#�Q�\[�� �ePܞ���H��ڠ��.p�$�\`��rjOBq�˸A!�K����m��p0A\\���O��QR�y�˰\*������H�HsoT��IGp' =�,��ؐ��AO>ґ�={�B�n<�Q� 촚��P��A�e�����\*:V� 8 ����؁5H���#�1ni9n�b(�h�鍒�nb� B�ӕ�<$����Г�j�?1�\`n�|�A=��4��/�"Gc! G$��y���3�X�@��$sR��i�O��cQ�A�9/��;�a� ���3c��J ��4m�Pq��nۄ�-�#c� �� ���$b�XP��ǫN�RuU��,�G���E�g�D���%��R��X�uyX�b\_��}�/����bY���T-r��uqmf%�t\_c�WZ<"�'a�&���@��W 2\`~�+�4�ar�.�&��\[�eg�\`��<�lh���'�e/c��Am��&JK��)�0�q��B�W\_A�㳯���=������#����Af���M���e���1"�!K�rkD���� ���۾�1�0���j���|\\�|@�G�V,:\\�G��9�,�Tfv��P���6\]\*���u�Z|�-�6Bf��� �ۂ �˦@���eym,��{��z�?f�y�6�wYQdK$O�%+�k�){Zm �+Ls�֜醮� �J�T�8����Mu� :\`�k�U����� '?+�� A%��!��}���Mj�:�u{���<�D��g����x��cO4TI�'"��T���4��q��T&���L�u;G5a��l�P�����Y���د��}�/�~�\_W�a�?6��Ak>��A�f��f�GRcT��� >w���K���#H��F!��f���p��j�b5���P��� h����ޮ�q&�06��x~�G�j�bB/�b�W ��\\6�L ������7�!Ǎ r\[Z{��\`���(G b�)��w�\_� ��.���+=�\*ݖ�i;~��٘P�vfzv��c�A#qZ��R�����s@˃g/�μ�񭁍�O�!�VWl�\`��¸���5���k����x���Ē"g�����Q�t�l�G"VTcH8� �u�I�x��<M�(b����d������A\_| Q�e�$�Җ'�v�;0ϓZ �\`0�k�3AG�>z^��h�!I\]�Yh�i �B�C�����d$E��Ԧ8��;��t��\`-F���S@���C�S�\`�|�׻)����I ����n��h .d!�#���a�S4%B�0\_�Q�D�ai����4S��x��4����f�b�mx(O/׍U����>�0}�2�U���S�����R�CL��\*�� �$��ܰ��E�3\_�½H�,���b���y��QI �e\\�M۞k\*:���:� �Ql���\_�&�ۓ�yuM@�?�J��40���\]Y�� �@E�{QEt�\*K�d�\]��n�m\]�}��1�TŅj�K �9�\`�5��\_F�m�Q\\ '��i�<@șX9v���&N��3F�k�����p%��վ��L�Ǵa5��V�Qb�<��>R���ʭd"��y���}����̵3W�ʅ�����Qa��ҧW��}Y�:$�й<$}��6�>���8@��B胦ߋHeal�����mX�\[7��HQ�����7\]z (x�\_N�\[E^��!pD;��T�Ge���A�'/X���+8Nw~� cf֧\[�)9f�B3����q�6f��TH�E�8�"^{�b���XY���&j�"�X0����eɒ ��:c�С��,�Pl�O� ���qz�Oر�ve,&�>B�=�\\Č�K(��2�E�/���x(��t�D���7�d,�ˊ>��2��T�f&���D�I�����H� �0fL楜eZ�!o��c���6O��c�'W��G�9~�2<�xLaԆ2�v�ɱ�Om\]�NF�'ݑY�$�igh5��$����(�C�W�iDDJ%>X�Ib��ȅ��p0�UI;X�@8gb��,�C�LQ{1�\` J�=A�(0u�gC�T�!u�i����W}���)\\��lOh��\`�GG(#ЈXQ<�+!x�%��/k��0�3Ȭlو{�(�^������T ƚ �Z��\_cG�qIJ�T�����!����H�k�/���Z�\]��&!��Ș��� ��1�\\j��:74�2C\*kxƙ�d�(�IM��;T�k\\�,�44�pX����=i���Čt�����Ӏ�5n�Yx��� k�ՇL���������j�'�����l0�В�a�6�s�:��|+�ۨ�E 1Z�)):�$\`i�O�P�?�i�K��K�TZz�K�ӕک���J�J��7�� 3v������P�#Ee�'%aA��R?b�k�"��&K7w�3ټ8r<�W������l�8 k���sV�Ʌ7)Z9�)ԡ��l�0Z�g3�%;�ͮ\\y��RI���{�NY�N�2����T�\`ɣ��Fj6�X�"d$E�}v:�c^d��^�b��͵G$�CH���XO�ٴ˪��k���v%�е�gݗ��\\z�%� rf,h \]k��T)K�o� O�����%~���}�{^�U���dū�Vs�df�-mx�kNJ��ʭ��U�TM���j� ���Wcz��5@s�W�1,Hm-;��1s����3��^Xj�L�+Cs����Ȍ�z㌸��d+���:/���Iz�\*��e)�Lęea������YH�����5�N���܋��E��$Vw{��'�X�9�HQ��C7.RD��W�1qh�э��m�B�(��|M��ד�1O�0\\�=s�� �Bp-�MwF���� �\\\`q��}��m����LE�mh>��nR�N�.͵+�>��8����=Trm:���I����UO�P�3����#���h�I͗��?Ż��r\]+V��U�AG�$,ﻉ�%��\*�X$����dmf�7�PA{�d� q��ȫ2�����s��d���Z�r��n2\_?p�5��#�A��!�V��I�OGP�m�cx2�ZY�+r 0(���F�SS���ӻ���1!��a'�-�3�ԫ�}�$"��8���M�I�B������ ��)�,"�l��m�Q�"#��au�ƀ�V/���'ϟ��� ��+nr�b��Zl���L1i��?3 �X�,gD��6FK����u��%��b ⨲�f�-�ӂ5Ƣե�'o����h�Z�w�������U#���YQ��m�w�x7 �p7�ՂZ�\_��<�B���~b) t�ʟ�󁃩E9Ke1 ����\]��'Kl+1bI���J�y��%:4���O�YSs����#-��-k�a�PQx��/����C/�q$� �#�S�2J�� �>���Y5?���U\`p�CX���+ }҅��xb\*�NeI�鹍�ั�9襻Z1�f�EpAŕs���Ҋ�ʕ���)Qxr�(?E��G����;�U؇�^���\\��е5Dxr��x��n�d" ���?��勐��%PnAX;�mi.����@D!N���&pZ�)9bCYǓ�pV���1p89���ְ�x�Υ�FE��8�:��Z�g1� Zns�P����i<��a�Kv/5/��������||�������c�\\n��n��.wz\[l���n��v��nW�Ԯ���o�Հ��P2�@��vDy{��i���ݥcJ�� R&\[Y �"R\_�8�� ���n��&��j�Ǜ�0���p��q��i?�� Y������u\*�V^�\`�8$����|sR�Z���FR���@+d�qd�I�Q�|�œ�5�(�w̫@�<���w�bg����2i�2^�.LGG7��&�L�6�z�q��2\\��|�t�B����Rc���!���ub����\\U��)��5����h����b�:�Ө��x�@��c����\`̂���&!B�A�KoXO�!7�V� n������~t�X(���ُ���=� ΞeH�I}g4��"�廢�d�w�1��!���\_psi�2BG2t��>����\`"Z�(n�P�L���w=\[$) ۮ�����C�F�Gy��1to�~rg�m���.E�^Y�×��� %��8�6�v\*9�b�b�65x������r���) �3ב��Ȥ���a��ϗ�B��P®��j�˕��C��V\`�eƛ������0����������Zi ���:\]��Oy���d��kL�����6��c7�n�͎��i��۱�9��#����͑�^i�۶?�$M�F&��C�a��<=Pj6�@�Pq�\]�#0M������x�:�ս-�l�Ii\\X�h ��>�1�Wڞ����J%��5\]�}\*lL2C�����Z^%�����=WS��+�ܢ�!M�Щ8�&���/h���L��R~�yK���!C���R�� ��3��?�&V|�C�劵>Ԋ�Zժ^W���m��M#ߠP��5M/ŭ\]ݯS&X��,���H嶫tJ'�l�Bv��Ĳ�q%�=\[��d����s ���h�\[��ʠkK���f��>/�f%��}�U��Nzś��,V���\*?�^\\��wG�U����h��\]\]��>��yP�5��)�6��"7��阄���mvX�5o���^�j��.?����zZ�t��y��طU��8&P^B��p�l�h\[���˽�x���w�B�F��u���ȮSu? �@�B�e��~�$�O�s�\]QlE���Pk�J\\o��\[�L<�M:���d��x�2�����+ �\\k(�����u�t�'���eZ�f���qٌ�i�Վ�Q�͕<~>f��CL������p�-������UV���b��L%�3\]��h�{���2����g��k.�ye��\]f�>ֱv��y��Z4zdÞ����;��r��K��"I���=K;�Du+/�������>����X9��6��ק��Od��t�������� �x{y�%�/��|<� �����E�Q3�Iε��7�?���Q�Xέ43��V��oyQ��N׋6v�d
+* [](https://www.eyeem.com/)
+    
+* [Buy Royalty-free Content](https://www.eyeem.com/)
+    
+* [EyeEm Magazine](https://www.eyeem.com/magazine)
+    
+* [Pricing](https://www.eyeem.com/market/pricing)
+    
+* More
+    
+    [Our Story](https://www.eyeem.com/story)[Terms & Privacy](https://www.eyeem.com/tos)[FAQ & Help](https://eyeem.zendesk.com/hc/en-us)[Work With Us](https://www.eyeem.com/jobs)[Contact Us](https://www.eyeem.com/contact)
+    
+
+* For Contributors
+    
+    [Sell Your Work](https://www.eyeem.com/sell-your-work)[Join the Community](https://www.eyeem.com/creators)[EyeEm Awards](https://www.eyeem.com/awards)[Missions](https://www.eyeem.com/missions/photographers)
+    
+* [Contact Sales](https://www.eyeem.com/market/pricing#form)
+    
+* [0](https://www.eyeem.com/market/cart "Cart")
+    
+
+This website uses cookies to offer you a better browsing experience. [Learn more.](https://www.eyeem.com/en/privacy)
+
+Here is what you need to know when using EyeEm.
+===============================================
+
+[Terms of Service for Photographers >](https://www.eyeem.com/terms/photographers)[Terms of Service for Business Users >](https://www.eyeem.com/terms/business)[Website Terms >](https://www.eyeem.com/terms/website-terms)[License Terms >](https://www.eyeem.com/terms/license-terms)[Privacy Policy >](https://www.eyeem.com/privacy)[Imprint >](https://www.eyeem.com/imprint)
+
+[![](https://cdn.prod.website-files.com/5a016d51240da900013d2ea2/5e272fc5fe29f015e8352db4_blank-document.svg)
+
+Terms of Service for Creatives](https://www.eyeem.com/terms/photographers)[![](https://cdn.prod.website-files.com/5a016d51240da900013d2ea2/5e272fc5fe29f015e8352db4_blank-document.svg)
+
+Terms of Service for Business Users](https://www.eyeem.com/terms/business)[![](https://cdn.prod.website-files.com/5a016d51240da900013d2ea2/5e272fc5fe29f015e8352db4_blank-document.svg)
+
+Website Terms](https://www.eyeem.com/terms/website-terms)[![](https://cdn.prod.website-files.com/5a016d51240da900013d2ea2/5e272fc5fe29f015e8352db4_blank-document.svg)
+
+License Terms](https://www.eyeem.com/terms/license-terms)[![](https://cdn.prod.website-files.com/5a016d51240da900013d2ea2/5e272fc5fe29f015e8352db4_blank-document.svg)
+
+Privacy Policy](https://www.eyeem.com/privacy)[![](https://cdn.prod.website-files.com/5a016d51240da900013d2ea2/5e272fc5fe29f015e8352db4_blank-document.svg)
+
+Imprint](https://www.eyeem.com/imprint)
+
+Terms of Service for Creatives
+==============================
+
+[](#)
+
+### Welcome to EyeEm! We want to empower your creativity.
+
+Here are our Terms of Service for Creatives. Please read them carefully before you get started! They govern your use of the EyeEm website www.eyeem.com and mobile applications (iOS and Android) and all services available to creatives (together “EyeEm”). EyeEm is operated by EyeEm Mobile GmbH ("EyeEm" or “We”). Further information about EyeEm can be found in the [Imprint](http://www.eyeem.com/imprint).
+
+Valid from April 3rd, 2024  
+
+#### 1\. Acceptance of Terms
+
+To gain access to EyeEm you must first register for a Contributor’s Account. To gain access to the EyeEm Market you must additionally register for a Seller’s Account (both accounts together “EyeEm Account”). When you register, you accept these Terms of Service and acknowledge our [Privacy Policy](http://www.eyeem.com/privacy). This way we become contractual partners, each with contractual rights and obligations.
+
+‍
+
+#### 2\. Services
+
+EyeEm is a community and a marketplace for photos, videos and illustrations.
+
+EyeEm Community: Here you can upload photos, videos and illustrations (collectively referred to as "Content"), publicly display and share your Content with others, comment on other users' Content, participate in contests ("Missions"), read tutorials, interviews and articles, and use other services offered for Creatives. The goal of the EyeEm Community is to provide creatives with a platform for showcasing their creative work, getting discovered, and being inspired. In return for these opportunities, you grant us the rights outlined in section 8.1 regarding  your Content uploaded to EyeEM Community. 
+
+EyeEm Market: Here you have the opportunity to sell us licenses for your Content. By doing so, you allow us to resell on our platform and through our distribution partner network. By thus allowing renowned photo agencies, stock photo collections and other distribution platforms (e.g. Getty Images, Adobe, Freepik, etc) to purchase and publish your Content, you will receive a share of the licensing fees we collect. Additional terms under section 10 apply to EyeEm Market.
+
+For clarification: A contractual relationship with a third party is exclusively formed between EyeEm and the respective third party involved. Due to such contract, you acquire neither independent claims against EyeEm's contracting partners nor are you directly contractually obligated to them
+
+EyeEm also publishes a print magazine and organizes various events, exhibitions and workshops.We have the right to modify or discontinue our services at any time. You are not automatically entitled to the receipt of an EyeEm Account, the selection of your Content for EyeEm Market and/or partner platforms. We do not promise that you will receive unlimited upload capacities or the error-free and uninterrupted availability of the EyeEm platform and services.
+
+‍
+
+#### 3\. Registration  
+
+You can register for an EyeEm Account if you meet the age requirements as per section 4 and you are not a member of a copyright collecting society. You can register by entering a valid email address and a secure password or via social media networks (as available, such as Google or Facebook). You may choose a username, provided such username is still available and does not violate any third-party rights, laws or regulations.
+
+For a Seller’s Account, you must additionally provide your full name, registered address and payout information. If you would like to sell Content as an entrepreneur, you must also provide your company name and VAT number.
+
+Your registration becomes effective once you have completed the registration process and we activate your account, or otherwise confirm this to you.
+
+Your EyeEm Account is personal to you. You may not create an account for a third party, transfer your account to a third party or allow a third party to use your account. You are responsible for all activities that take place in your EyeEm Account and must inform us immediately of any actual or suspected unauthorized access to your account.
+
+When you first register for your account, you will have the opportunity to choose whether you would like to receive our newsletter and community updates, from which you may unsubscribe at any time. Consent to such updates is not required for your registration.
+
+Any information that you provide to us during registration (or later) must be complete, correct and up to date at all times. If information is incomplete or incorrect, we reserve the right to restrict or terminate your usage of EyeEm.
+
+Please choose a secure password and keep this password confidential. We reserve the right to change our password requirements at any time to meet current security standards. If you become aware that your password is or may have been compromised, you must inform us immediately at [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection). Please note that we may have to reset your password to ensure the security of your account.
+
+We also have the right to change the requirements for registration or use of EyeEm Accounts (e.g. ID authentication) at any time. If you do not meet the new requirements, we are entitled to restrict the usage of your EyeEm Account or terminate our contract with you in accordance with section 16.
+
+####   
+4\. Age Restrictions
+
+For a Seller’s Account to join the EyeEm Market you must be at least 18 years old. For a Contributor’s Account to join the EyeEm Community you must be (i) at least 18 years old or (ii) at least 14 years old and have the consent of a parent or guardian. By registering for an account with us, you confirm to meet these age requirements.  
+We may ask you to provide proof of your age or your parents'/guardian’s consent at any time and may therefore contact you in this regard. Parents or legal guardians who have given their consent are fully responsible for their child's account activities and that such activities are in accordance with these Terms of Service. Parents or legal guardians are liable for their child's misconduct and any damages resulting from it. Parents and legal guardians are advised that Content available on EyeEm may be inappropriate for minors.
+
+‍
+
+#### 5\. Upload of Content
+
+You may only upload Content to EyeEm, if such Content is your original Content, which means only you created it and you did not copy, edit or imitate any third-party work. Your Content must not violate our Terms of Service and any applicable laws and regulations. You must have the unrestricted right to provide us with such Content to the extent defined below.
+
+  
+By uploading Content to your EyeEm Account, you agree that your Content, name and username may be publicly visible on EyeEm and may be liked, commented upon and shared in social media networks (e.g. Facebook and Instagram) by EyeEm and other users.
+
+EyeEm is not a platform for storing and managing your Content. Therefore, always keep copies of your Content safely backed up outside your EyeEm Account.
+
+EyeEm may at any time amend content and/or technical requirements for uploading Content and may refuse to upload certain Content at its discretion.
+
+When you have a Seller’s Account, your Content on your account is automatically transmitted to the EyeEm Market. However, this does not mean that your Content (i) automatically qualifies for sales on EyeEm Market and/or our distribution partners or (ii) is immediately offered for licensing. Content for EyeEm Market  is subject to a review process by EyeEm. The scope of such review is subject to the discretion of EyeEm and our distribution partners, but will likely be primarily undertaken via automated means (using image recognition software). You can see which of your Content has been selected to be offered for licensing for EyeEm Market and for distribution partners in your user profile. The time frame for the review and selection can vary.
+
+You can delete your Content from your user account at any time. For further information and removal of Market Content please see section 13.
+
+####   
+6\. Prohibited Content and Unacceptable Use of EyeEm
+
+Content or conduct that violates the rights of third parties, is inappropriate or violates applicable laws is not permitted on EyeEm. This includes in particular the following Content and conduct:
+
+Pornographic, insulting or racist Content as well as Content that violates laws or regulations for the protection of children or young people. This also applies to usernames, tags, captions, and comments that you add to your Content or that of other users.  
+Content of third parties, i.e. Content that you have not created yourself or that you have copied or imitated in whole or in part without the consent of the respective rights owner.  
+Content which impairs or infringes the rights of third parties, in particular personal rights, copyrights, trademarks, or other intellectual property rights.  
+Using EyeEm for direct advertising purposes or contacting other users, licensees, customers and/or partners of EyeEm for the purchase or sale of products or services, as well as any form of spam or other harassing behavior (e.g. when commenting on Content).
+
+‍
+
+#### 7\. Reporting and Removal of Prohibited Content
+
+We cannot comprehensively check Content uploaded on our platform for potential rights or Terms of Service violations. If we receive indications of illegal Content or discover violations against third party rights, applicable laws or our Terms of Service, we may, at our sole discretion and without notice, delete such Content from your account and block it from further upload.
+
+If you discover Content on EyeEm that violates section 6 above, you may report such Content at any time via the app or website ("Report") or contact [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection) directly. Your report must contain specific information about the violation to be processed. You will find further information on our website. Reports with insufficient information may not be answered. Abusive reports or false statements will be legally prosecuted.
+
+We will review Reports, contact you if we have any questions, and delete any inappropriate Content. We reserve the right to temporarily block Reported Content until the final result of review, and, at our discretion, delete Reported Content. In case of infringements and legal claims we reserve the right to forward your contact information to the claimant to the extent legally permitted.
+
+‍
+
+#### 8.1 Grant of Rights – EyeEm Community
+
+By uploading Content to EyeEm Community, you grant us regarding your Content the non-exclusive, worldwide, transferable and sublicensable right to reproduce, distribute, publicly display, transform, adapt, make derivative works of, communicate to the public and/or promote such Content.
+
+This specifically includes the sublicensable and transferable right to use your Content for the training, development and improvement of software, algorithms and machine learning models. In case you do not agree to this, you should not add your Content to EyeEm Community. 
+
+The rights granted in this section 8.1 regarding your Content remains valid until complete deletion from EyeEm Community and partner platforms according to section 13. You can request the deletion of your Content at any time. The conditions for this can be found in section 13.
+
+#### 8.2 Grant of Rights – EyeEm Market
+
+When you upload Content to the EyeEm Market by using a Seller’s Account, you grant us the non-exclusive, transferable right to offer such Content on our own behalf and at our own expense for licensing through EyeEm and our distribution partners worldwide. This includes the right to reproduce, distribute, publicly display, transform, adapt, make derivative works of, communicate to the public and promote such Content and/or to grant non-exclusive rights of use to third parties, for any business purpose.
+
+Our distribution partners have included renowned photo agencies, stock photo collections and other distribution platforms (e.g. Getty Images, Adobe, Freepik, etc.). EyeEm may terminate distribution partnerships and enter into new distribution partnerships at any time. When you have a Seller’s Account, you cannot determine for which distribution partners your Content is selected, this is at EyeEm’s sole discretion.
+
+These non-exclusive rights granted by you to EyeEm include (i) the right to use such Content worldwide and in perpetuity in any media and context (private, editorial and commercial), including, but not limited to, print and online media, for newsletters, book covers, book illustrations, posters, art prints and products of any kind, to distribute, transmit, exhibit, reproduce it and make it available to the public, to edit the Content within the scope of moral rights (e.g., but not limited to, format it, change the image resolution, add watermarks, create thumbnails, add or replace titles and tags), to combine with other works and content, and to use for the production, sale and promotion of goods and services of all kinds, which may comprise, among others, activities such as the development and improvement of digital assets, marketing campaigns, software, algorithms, machine learning models and user interfaces; and (ii) the right to grant licenses to your Content on behalf of EyeEm to third parties, the scope of which may cover some or all the uses listed at (i).
+
+If third parties are interested in licensing exclusive rights, we will always ask you separately for your consent and will therefore contact you.  
+You also allow us and hereby grant us the right to use your Content free of charge for the promotion of our platform, services and/or your Content, e.g. on our website, social media channels, and in internal and external communication. The same applies to our distribution partners and partner platforms.
+
+The right to distribute and to grant licenses to your Content on behalf of EyeEm to third parties remains valid until complete deletion from EyeEm Market and partner platforms according to section 13. You can request the deletion of your Content at any time. The conditions for this can be found in section 13.
+
+#### 8.3 Model and Property Releases
+
+When you upload Content, all third-party rights affected by the Content must be cleared.
+
+When you upload Content on which people are recognizable or identifiable by certain characteristics or attributes (e.g. scars or tattoos), you must obtain and provide documentation of their consent to use such Content ("Model Release"). You must also provide a Model Release for yourself if you are visible in the Content.
+
+When you upload Content which depicts third party property (e.g. real estate, offices, apartments, parks, museums) or otherwise affects the rights of third parties (e.g. trademarks, logos, copyrights, intellectual property), you must obtain and provide documentation of permission from the rights owner(s) for the use of such Content (“Property Release”). Such consent is usually required if you have to purchase a ticket for a certain location (e.g. parks, castles, museums, music or sports events, etc.).
+
+You are solely responsible for obtaining all legally necessary permissions. The above explanations are not exhaustive and do not relieve you of your responsibility to ensure your Content complies with the applicable laws and regulations (e.g. photography restrictions, prohibitions, copyright exceptions, etc.).This applies regardless of whether EyeEm conducts its own review or makes recommendations. If you are unsure whether your Content requires a release, feel free to contact us.  
+  
+You may obtain the necessary permissions by using our release request templates and processes, or comparable templates. Once signed, you can then upload them as documents on your account or send them to us by email. Please check that the release documents submitted are valid and complete. We reserve the right to update our release templates and processes at any time. These are provided as a suggestion only and does not constitute legal advice or affect your obligation to make sure your Content does not infringe third party rights or any laws. All releases submitted are processed and stored in accordance with our [Privacy Policy](http://www.eyeem.com/privacy) and can be made available to our partners and licensees, if necessary, to fulfil contractual obligations.
+
+‍
+
+#### 9\. EyeEm Missions
+
+We occasionally run competitions ("Missions"), in which we search for Content on specific topics or for specific brands. You can participate in these Missions if you have a registered EyeEm Account.  The applicable Mission Partner and Mission Terms will be notified to you on EyeEm.
+
+By participating in a Mission, you agree to the respective Mission Terms. You agree that we may share your Content, name and username with the Mission Partner. You also grant us and our Mission Partner the right to use your Content free of charge to promote the Mission on social media channels, websites or in print. You hereby acknowledge that this may also be connected with advertising purposes of the Mission Partners and that no separate remuneration will be due. We and our Mission Partners are entitled but not obliged, to name you in such use of your Content on social media channels. The respective Mission Terms shall apply.
+
+‍
+
+#### 10.1 EyeEm Market – License Terms and Pricing
+
+We may contact you regarding questions about your Market activation and Content, and to notify you about license sales or exclusive license requests.
+
+Please note that in accordance with section 10.3, payouts of your license shares can only be made to you if you are registered with the payment service provider selected by EyeEm (“EyeEm Payment Provider”).  
+  
+We may define license terms and license prices for the licensing of your Content to third parties at our discretion and may negotiate these with third parties. EyeEm and distribution partners may offer special pricing, packages and discounts at any time, which may affect the price of your Content and therefore your license share. If you do not agree to this, you should not add your Content to EyeEm Market. The then-current EyeEm Market license prices are available on our website.
+
+‍
+
+#### 10.2 EyeEm Market – Sales notifications
+
+We will inform you about the cumulative or individual revenue generated by sales of your Content after the expiry of any legal or contractual withdrawal period, as applicable, and after receipt of payment from the purchasers. You will receive this information within the app and/or by email.
+
+You acknowledge that the information about a license sale may occur later than the use of your Content by the third party who purchased your content. If you notice that your Content is being used by third parties but have not yet received a sales notification, please contact our Support Team at [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection) first and not the licensee or user of your Content until we have checked the status of licensing.  
+
+‍
+
+#### 10.3 EyeEm Market – Your License Share and Payouts
+
+When we sell your Content via EyeEm Market or our distribution partners, you will receive a share of fifty percent (50%) of the license or sublicense fees (“License Share”) actually received by EyeEm from the sale of your Content after deduction of sales-related taxes (including applicable transaction and currency costs) and other fees (e.g. withholding tax, if applicable). You will not be notified of the identity of the licensor of your Content.
+
+**Payout Request:** If your License Share reaches an amount of 10 USD or the equivalent amount in a local currency, to the extent this is offered by EyeEm as payout currency ("Minimum Payout"), you can request a payout of your License Share by submitting a "Payout Request" in your account. In addition, you may request payment of your accumulated License Share (i) once  a year (irrespective of whether you reached the Minimum Payout) and (ii) when you request the deletion of your user account (see section 16) by writing to customer support ([\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection)).
+
+**EyeEm Payment Service:** As soon as you have submitted a valid Payout Request, the payment will be processed by an EyeEm Payment Provider, usually within 30 days. Please check if the EyeEm Payment Provider is available in your country and if you are registered for their payment service. Please note that payouts (if required) can only be made via the EyeEm Payment Provider. Also check whether the payout to you was successful or whether the EyeEm Payment Provider requires any further action on your end. EyeEm assumes no liability for a successful payout. If more than one attempt has to be made to payout the License Share, due to circumstances beyond EyeEm's control, any costs incurred will be deducted from the amount of the next payout. You can generate a payment receipt via your account.
+
+**Payout Paused:** Should we be notified or become aware of a copyright violation or other violation of third-party rights (with regard to Content uploaded by you) after notification of a license sale to you, we are entitled to withhold pending payouts until final clarification of such legal claims. This will apply to all your pending payouts of License Shares, whether or not they relate to the reported Content or other Content uploaded by you.
+
+**Payout Lapsed:**  While you have your account with us, we will keep your License Share available for payment for the period equal to the applicable statutory limitation periods (i.e. for 3 years). After this period, your right to payment will lapse. Therefore, please check your user account regularly to see whether you have any outstanding payout claims.
+
+If you receive a notification from us (by email or via your account) that there has been a claim that your Content infringes third party rights, you must reply to that notification in writing. If you do not reply within 30 days of such notification, you may, at our discretion, lose the right to a payout of the License Share for all your Content. The License Share will then be deleted in your account.
+
+If your account is deleted, you lose the right to payouts for all accumulated and future Licenses Shares. Please therefore make sure that you submit a Payment Request prior to the deletion of your account.  
+
+Refunds: If we receive a notification of a license refund to the third party licensor of your Content (for example, due to legal or contractual rights of withdrawal or return periods) after we have paid out the respective License Fee to you, we are entitled to offset the payout with future payouts or reclaim any payments already processed. This also applies in cases in which Content licenses were made in violation of our Terms of Service as well as in violation of criminal laws (e.g. credit card abuse, copyright infringement).
+
+‍
+
+#### 11\. Credits and Moral Rights
+
+EyeEm is entitled to publish and share your name and/or username with third parties (licensees and partners) in connection with the use of your Content but does not assume any responsibility for compliance with any applicable credit obligations.
+
+Attribution may be excluded, especially in the case of commercial use, in accordance with industry practice and applicable licensing terms. You acknowledge and agree that EyeEm and licensees of your Content may use your Content with or without attribution and thus you waive your right to be named as the author of such Content to the extent permitted by law. You further waive any claim of infringement of any other moral rights for those jurisdictions that permit a waiver of moral rights.
+
+‍
+
+#### 12\. Notifications and Communication
+
+In your account settings, you may choose which notifications you want to receive via the app and email. With each approval you give your consent that we can notify you about the information and topics you have selected. You can revoke this consent at any time in your account settings.
+
+We may contact you e.g. via email at any time concerning information required for the performance of the contract or fulfilment of a legal obligation. The storage and processing of your personal data and the communication with you is carried out in accordance with the [EyeEm Privacy Policy](http://www.eyeem.com/privacy), which you can access on the website and in the app at any time.
+
+‍
+
+#### 13\. Removal of Content
+
+Content that you have only shared within the EyeEm Community can be deleted directly by yourself at any time. Content that has already been shared on EyeEm Magazine or social media networks may still be visible after the deletion of your content in the EyeEm Community.
+
+To delete your Content from the EyeEm Market and partner platforms, you must submit a deletion request by clicking on the "Remove from Market" or "Delete" button. If you wish to delete multiple Content from EyeEm Market and/or partner platforms at once, you can also contact [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection) and provide us with the Content ID numbers that you wish to delete. Please indicate whether you would like to delete the respective Content from EyeEm Market only or completely from your user account. Complete deletion from EyeEm Market and distribution partner platforms may take up to 180 days from the date of your deletion request.
+
+You hereby acknowledge and agree that your authorization for EyeEm to market and license your Content according to sections 8 and 10 will remain valid until the Content is deleted from EyeEm and all partner platforms within the time frame indicated above. All license agreements entered into before complete deletion and the rights of use granted thereby remain unaffected by the request for deletion or the deletion.
+
+If you wish to delete Content from EyeEm Market because you realize it violates the rights of third parties, you should mark your request for deletion as "urgent" and also provide information to [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection). In this case, we will make every effort to delete the content more quickly and instruct our partners accordingly, but we cannot guarantee this.
+
+We may at any time and without notice delete Content from your account which in our opinion violates the Terms of Service.
+
+‍
+
+#### 14\. Your Liability
+
+You alone - or your parents or legal guardians - are responsible for your conduct as a user and compliance with these Terms of Service and applicable laws.
+
+With each upload of Content, you guarantee, promise, warrant and undertake that
+
+You are the sole originator of this Content, i.e. you have created it on your own, and you can freely dispose of the Content and existing rights of use and you are not violating any other contracts with third parties, e.g. you have not yet transferred any non-exclusive rights to third parties and have not assigned any rights to copyright collecting societies;  
+Your Content does not violate any applicable laws or regulations;  
+Your Content does not violate the rights of third parties, and you have obtained the necessary consents from the rights holders; and  
+The releases you have provided are valid and binding and grant all rights to use the Content commercially without further consent.
+
+You will indemnify us and hold us harmless from and against any claims made against us by third parties for any violation of applicable laws or of your obligations or warranties under these Terms of Service. This includes the costs necessary to defend or defend against such claims, and also applies to claims that may be made after termination of our contract.
+
+Please note that we may be legally obliged to pass on your personal data to third parties to the extent permitted by law in the event of rights infringements. You will find further information in our [Privacy Policy](http://www.eyeem.com/privacy).
+
+‍
+
+#### 15\. Our Liability
+
+Content uploaded to EyeEm is third party Content. We check such Content for potential legal violations to the extent technically possible and commercially reasonable.
+
+We hereby exclude liability for illegal, incorrect or incomplete Content and in particular for damages resulting from the use of uploaded Content to the extent permitted by law. This also applies to links to our platform (e.g. to user profiles) and from our platform to external websites. We also exclude any liability for illegal copying of your Content by third parties.
+
+However, we are liable without limitation for damages (a) resulting from injury to life, body or health caused by a breach of duty by us or one of our legal representatives or vicarious agents, (b) caused by the absence of a quality guaranteed by us or (c) caused intentionally or by gross negligence by us or one of our legal representatives or vicarious agents. In the case of damage to property or financial losses caused by slight negligence, we shall only be liable in the event of a breach of a material contractual obligation and only up to the amount of the damage foreseeable at the time of conclusion of the contract. Material contractual obligations are those whose fulfilment is essential for the proper execution of the contract and on whose compliance a contractual partner regularly relies and may rely.
+
+Liability for indirect and unforeseeable damages, loss of production and use, lost profits, savings and financial losses due to third party claims is excluded in the case of simple negligence - except in the case of injury to life, body or health.
+
+This clause sets out the entire liability of EyeEm under or in connection with the Agreement  and outside of this Agreement. Any further liability other than in this contract is excluded - regardless of the legal nature of the asserted claim. However, the above limitations or exclusions of liability shall not apply to any mandatory strict liability (e.g. under the German Product Liability Act) or liability under a strict guarantee.
+
+‍
+
+#### 16\. Termination and Deletion of Your Account
+
+You have the right to terminate the contractual relationship at any time. Please contact [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection) for the deletion of your user account. In this case we will delete all your Content in accordance with section 13.
+
+Please make sure that you have requested the License Shares available for payout before requesting the deletion of your user account. You can also request the payout of amounts below the applicable Payout Minimum according to section 10.3 within the deletion request process. We will inform you by email about any license sale processed until complete deletion of your Content in accordance to section 13 and will therefore keep your email address in our database. You will find further information in our [Privacy Policy](http://www.eyeem.com/privacy).
+
+If you violate these Terms of Service, we may delete your user account at any time without prior notification and restrict you from any future registration. Furthermore, we may terminate our contract with a prior notice period of 4 weeks by email and delete your account and Content if your user account has not been used for at least 12 months.
+
+####   
+17\. Changes to the Terms
+
+We have the right to update the Terms of Service at any time in accordance with this provision. When you register for an account, the then-current version will be notified to you. If we make changes, we will publish the updated Terms of Service on our platform. In addition, we may inform you within the app, your user account or by email.
+
+If you do not agree with the changes, you may terminate the contract with EyeEm by email within 4 weeks after notification. We will then delete your user account and remove your Content in accordance with section 13.
+
+If you do not terminate the contract within the notified period, your continued use of the EyeEm services shall be deemed to constitute your acceptance of the new Terms of Service.
+
+‍
+
+#### 18\. Final Clauses
+
+A transfer of rights and obligations from the Terms of Service and the contract established by the Terms of Service to third parties requires your prior consent. This does not apply to a transfer of rights and obligations by us to affiliated companies, in particular the transfer of operational control and responsibility of the platform and other services. For the transfer of rights to distribution partners, the authorization according to section 8.2 and 10 applies.
+
+The Terms of Service shall be interpreted according to German law. The UN Sales Convention is hereby excluded. The place of performance for the granting of rights is our registered office, if legally permissible. If you use EyeEm as an entrepreneur, our company headquarters is also the exclusive place of jurisdiction.
+
+The original version of these Terms of Service was written in German. If there is any contradiction between the German version and a translation of the Terms of Service, the German version shall prevail.
+
+Should any provision of these Terms of Service prove to be invalid, ineffective or unenforceable in whole or in part, the validity and enforceability of the remaining provisions shall not be affected thereby. Invalid or missing provisions shall be replaced by statutory law.
+
+‍
+
+#### 19\. Contact
+
+If you have any questions about these Terms of Service, you can contact us at [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection).
+
+For Brands
+
+[Image Licensing](https://www.eyeem.com/licensing)[Pricing & License Types](https://www.eyeem.com/market/pricing)[Need help?](https://eyeem.zendesk.com/hc/en-us/categories/360001243737-FAQ-Image-Buyers)
+
+For Contributors
+
+[Join as a contributor](https://www.eyeem.com/signup)[Sell your work](https://www.eyeem.com/signup/creator)[Ongoing Missions](https://www.eyeem.com/missions/photographers)[EyeEm Awards](https://www.eyeem.com/awards)[Need help?](https://eyeem.zendesk.com/hc/)
+
+Photography culture
+
+[EyeEm Magazine](https://www.eyeem.com/magazine)[Visual Trends](https://www.eyeem.com/visualtrends)
+
+About
+
+[Our story](https://www.eyeem.com/story)[Work with us](https://www.eyeem.com/jobs)[Press](https://www.eyeem.com/press)[FAQ](https://eyeem.zendesk.com/hc/en-us/categories/115000290289-Frequently-Asked-Questions)
+
+English
+
+Deutsch
+
+© 2024 EyeEm Mobile GmbH.
+
+[Privacy](https://www.eyeem.com/privacy)[Terms of Service](https://www.eyeem.com/tos)[Imprint](https://www.eyeem.com/imprint)
+
+[](https://www.facebook.com/EyeEm/)[](https://www.instagram.com/eyeemphoto/)[](https://twitter.com/EyeEm)[](https://vimeo.com/eyeem)[](https://www.youtube.com/channel/UCx8sMqfYEyo2y-PItosCQrA)
