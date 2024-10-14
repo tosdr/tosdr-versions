@@ -1,4 +1,21 @@
-![hw-icon](https://a.hwstatic.com/raw/upload/f_auto,q_auto/wds/logos/brand/hw-icon.svg "hw-icon")
+![hw-full](https://a.hwstatic.com/raw/upload/f_auto,q_auto/wds/logos/brand/hw-full.svg "hw-full")
+
+EnglishUSD
+
+English
+
+USD
+
+* Accommodation
+* Explore Hostelworld
+* Work With Us
+
+* [Help](https://hwhelp.hostelworldgroup.com/hc/en-us "Help")
+
+Hostels Worldwide
+=================
+
+We have 12582 Hostels in 2620 cities.
 
 Where do you want to go?
 
@@ -29,7 +46,7 @@ Check In
 
 Check Out
 
-4 nights selected
+3 nights selected
 
 October 2024
 
@@ -1955,142 +1972,334 @@ Sun
 
 Guests
 
-EnglishUSD
+![calendar-confirmation](https://a.hwstatic.com/raw/upload/f_auto,q_auto/wds/illustrations/sm/calendar-confirmation.svg "calendar-confirmation")Flexible Booking & Free Cancellation options available.
 
-English
+[Hostels](https://www.hostelworld.com/hostels/ "Hostels") [Hotels](https://www.hostelworld.com/hotels/ "Hotels") [Bed and Breakfasts](https://www.hostelworld.com/bed-and-breakfasts/ "Bed and Breakfasts")
 
-USD
+Top Cities Worldwide
+--------------------
 
-* Accommodation
-* Explore Hostelworld
-* Work With Us
+Discover popular places for unforgettable adventures
 
-* [Help](https://hwhelp.hostelworldgroup.com/hc/en-us "Help")
+[](https://www.hostelworld.com/st/hostels/europe/england/london/ "London Hostels")
 
-Hostelworld Cookies Policy
---------------------------
+stefa.ninchen
 
-At Hostelworld.com, we use cookies (omb nomb nomb!) on our websites and mobile applications to make sure your experience is as perfect as it can be. But we also want to be sure you understand what kind of data we are gathering when you book accommodation or experiences with us and how you are always in control.
+LondonHostels
 
-### What is a cookie anyway?
+from US$13.27
 
-When you return to browse the same website in the future, the data stored in the cookie can be retrieved by the website to notify the website of your previous activity so it can deliver a more user-friendly service - for example, remembering previous purchases or account login details. Cookies were designed to be a reliable mechanism for websites to remember the state of the website or activity the user had taken in the past. This can include clicking particular buttons, logging in, or a record of which pages were visited by the user.
+[](https://www.hostelworld.com/st/hostels/europe/spain/barcelona/ "Barcelona Hostels")
 
-When you return to browse the same website in the future, the data stored in the cookie can be retrieved by the website to notify the website of your previous activity so it can deliver a more user-friendly service - for example, remembering previous purchases or account login details. Cookies were designed to be a reliable mechanism for websites to remember the state of the website or activity the user had taken in the past. This can include clicking particular buttons, logging in, or a record of which pages were visited by the user.
+nattaliarr
 
-Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether you are logged in or not, and which account you are logged in under. Without such a mechanism, the website would not know whether to send a page containing sensitive information, or require you to authenticate yourself by logging-in.
+BarcelonaHostels
 
-### Types of cookies we eat …. eh we mean use!
+from US$17.67
 
-Like most websites, Hostelworld’s online channels and applications (apps) collect some information about you (e.g., information on IP addresses, browsers, internet service providers, referring pages, exit pages, operating systems, date stamps, time stamps and clickstream data). This information won’t be linked to any other information we collect about you unless you have consented to it. Both we and our third-party tracking partners use browser storage, app storage, cookies, pixels, beacons, scripts and tags to analyse trends, administer our sites, track user movement through our sites and collect demographic information about our overall user base. We may receive reports on these from our third-party tracking partners on an individual and aggregate (i.e., anonymous) basis and those partners may combine that information with other information they have collected from you. At Hostelworld.com, we use three varieties of cookies to optimise your website experience:
+[](https://www.hostelworld.com/st/hostels/europe/netherlands/amsterdam/ "Amsterdam Hostels")
 
-* Required cookies
-* Functional cookies
-* Functionality cookies
-* Advertising cookies
+\_federicalillo\_
 
-These cookies are a mixture of first party cookies, which we set ourselves, and third party cookies, which are set by other websites.
+AmsterdamHostels
 
-### What our cookies do
+from US$15.46
 
-We use cookies across our websites and mobile applications to provide the following functions
+[](https://www.hostelworld.com/st/hostels/europe/france/paris/ "Paris Hostels")
 
-* Personalization – For example, your language preference is remembered.
-* Session management - To ensure that your session is routed to the correct system within the Hostelworld infrastructure for the duration of your visit.
-* Usage Tracking - Hostelworld use Omniture web analytics / Google Analytics solution to provide analysis of a users’ ongoing usage of the website. This facilitates ongoing improvements to the website.
-* AB Testing / multivariate testing - We can display multiple versions of a page to you to assess which generates the best customer experience for you.
-* Advertising - Display advertising content depending on location, language, and your past browsing history.
+ourcolourfuljourney
 
-### Required Cookies
+ParisHostels
 
-We use a number of cookies which are required in order to allow you to access our websites, to move between pages and to receive services which you have requested. These cookies are required to enable core site functionality and are therefore always enabled. These cookies will remember your selected country and language, track your movement on and usage of our site for statistical purposes and store whether you are logged in or not. We won’t ask for your consent to place these cookies because we have a legitimate purpose for setting them. The following are examples of some of the required cookies which we use:
+from US$17.12
 
-| Service | Function | Example Cookie Details | Cookie Type |
-| --- | --- | --- | --- |
-| Load Balancer | We use multiple servers to ensure that our users receive the best possible experience when browsing our websites, even when we are experiencing high levels of traffic. This cookie is required to route your session to the correct server. | All these cookies are prefixed with "NSC\_" | First Party |
-| PHP Session ID | We use the PHP scripting language to create our websites. The PHP Session ID Cookie is required for PHP code to function. | PHPSESSID, psid | First Party |
-| Credit Card Processing | We use cookies to facilitate the processing of credit cards when you make a booking through the website. | \_k | First Party |
+[](https://www.hostelworld.com/st/hostels/europe/portugal/lisbon/ "Lisbon Hostels")
 
-### Functional Cookies
+lauren\_dixon
 
-We use functional cookies which are entirely optional and allow us to remember your preferences and experiences on our sites. For example, cookies save you the trouble of selecting your language or currency every time you access the website and recall your customisation preferences. We also use functional cookies to analyse how our visitors use our websites and to monitor website performance. This allows us to provide a high quality experience by customising our offering and quickly identifying and fixing any issues that arise. For example, we might use performance cookies to keep track of which pages are most popular, which method of linking between pages is most effective, and to determine why some pages are receiving error messages. The following are examples of the types of functionality cookies which we use:
+LisbonHostels
 
-| Service | Function | Example Cookie Details | Cookie Type |
-| --- | --- | --- | --- |
-| Google Analytics | This is a secondary customer usage service to Adobe Site Catalyst. | All these cookies are prefixed with "\_utm" | First Party |
-| Hostelworld Site Language | When you indicate that you would like one of our websites to be displayed in a different language we use this cookie to record that preference. | lang | First Party |
-| Hostelworld Site Currency | When you indicate that you would like to use a particular currency with one of our websites we use this cookie to record that preference. | HostelWorldCurrency, HostelsComCurrency | First Party |
-| Liveperson.net | We provide a service whereby you can contact a customer service representative through our websites. These cookies enable that service to operate. | HumanClickSiteContainerID\_18146098, HumanClickKEY, HumanClickACTIVE | Third Party |
+from US$12.15
 
-### Performance Cookies
+[](https://www.hostelworld.com/st/hostels/europe/germany/berlin/ "Berlin Hostels")
 
-We utilise other cookies to analyse how our visitors use our websites and to monitor website performance. This allows us to provide a high quality experience by customising our offering and quickly identifying and fixing any issues that arise. For example, we might use performance cookies to keep track of which pages are most popular, which method of linking between pages is most effective, and to determine why some pages are receiving error messages. The following are examples of the types of performance cookies which we use:
+BerlinHostels
 
-| Service | Function | Example Cookie Details | Cookie Type |
-| --- | --- | --- | --- |
-| Visual Web Optimiser | We use these cookies to display multiple versions of a page to our users to assess which generates the best customer experience. | All cookies are prefixed with "\_vis\_opt" | First Party |
-| Adobe Site Catalyst | These cookies allow us to generate \[anonymous\] customer usage statistics. | All these cookies are prefixed with "s\_" | First Party. (Note: s\_vi is a Third Party cookie) |
-| Google Analytics | This is a secondary customer usage service to Adobe Site Catalyst. | All these cookies are prefixed with "\_utm" | First Party |
+from US$12.15
 
-### Advertising Cookies
+[](https://www.hostelworld.com/st/hostels/europe/spain/madrid/ "Madrid Hostels")
 
-Hostelworld, our partners and advertisers use cookies to display advertisements that we believe are relevant to you and your interests. Third Party advertisers and partners may analyse data they collect about your use of the Hostelworld website, through first and third-party cookies, in order to serve adverts to you on the Hostelworld website or on other third party websites. We also work with advertisers in order to display Hostelworld adverts on third party websites, based on cookies set on your visit to the Hostelworld website. Advertisers may also use information about your previous web activity to tailor the adverts which are displayed on the Hostelworld website. Advertising cookies may also be used to track your responses to particular adverts, which helps advertisers to ensure that you see the most relevant advertisements in future, both on Hostelworld websites and on third party websites. Those partners (e.g., Facebook and Google) may combine that information with other information they have collected from you. The following are examples of the types of targeting/advertising cookies which we use:
+MadridHostels
 
-| Service | Function | Example Cookie Details | Cookie Type |
-| --- | --- | --- | --- |
-| PPC Tracking /App Tracking | When we advertise on external websites we sometimes pay for these advertisements on the basis of how many clicks are made on the adverts which lead to users visiting our websites or installing our apps (this is known as Pay Per Click advertising). We use these cookies to allow reporting of customer activity on the site and to track app installations and in-app conversions. | VisitorSource, VisitorNo,LB, Cookie\_PPCSource, Cookie\_PPCSOURCE30days, LB\_PPCSource\*, PPCVisitno | First Party and Third Party |
-| Google Analytics | We use certain of the Google Analytics advertising features to allow third parties to serve adverts to you when you are on other sites that may be relevant to you based on your use of the Hostelworld site. This is done on an anonymised basis, using non-personally identifiable information. We may also use Google Analytics advertising features to help ascertain how many times our adverts are seen on other sites, and to be provided with aggregated and anonymised details about the demographics and interests of users of Hostelworld. | All these cookies are prefixed with "\_utm" | First Party |
-| Commission Junction | We partner with a number of affiliates who refer users to our websites. This is an example of one of the cookies which we use to track these referrals. | HWCommissionJunction | First Party |
-| DoubleClick | We display adverts on the website that we and our advertisers believe are relevant to you. These cookies may also be used by advertisers to allow third parties to serve adverts to you when you are on other sites. These adverts may be adapted to be relevant to you based on your use of the Hostelworld site. This is done on an anonymised basis, using non-personally identifiable information. The DoubleClick cookies are an example of some of the cookies which we use in connection with these advertising services. | Id, mc,\_drt, uid, pluto2 | Third Party |
-| Add This Widget | Some of the services on our website are supplied by third parties, such as the "Add this button which allows the sharing of pages from our websites on social networks. The third party service also sets cookies which track the usage of the service and may be used to deliver advertisements which are of interest to you. | Uid, \_atuvc, dt, loc, uit, psc | Third Party |
+from US$15.46
 
-### How to manage cookies
+[](https://www.hostelworld.com/st/hostels/europe/italy/rome/ "Rome Hostels")
 
-The cookies are placed on your device. This means that we cannot delete them for you. You must do that yourself in the way prescribed by your specific device. If you are on a website operated by Hostelworld.com, you can also avoid cookies being placed by adjusting the browser settings in your device. If you are using an app published by Hostelworld.com, please note that cookies set in an app work in a different way and you will have to control this via your device directly. Real browser cookies are set to expire. Similar types of technologies like local storage on your device do not have expiration built-in but must be deleted by you. We have linked to instructions on how to adjust/delete cookies on some of the more common devices below.
+annalisati\_
 
-If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in your browser settings. For further information about how to turn off cookie acceptance please refer to the “Help” function in your browser.
+RomeHostels
 
-If you would like to opt out of the Google Analytics features mentioned above, [details of how to opt-out are available here](https://tools.google.com/dlpage/gaoptout).
+from US$37.28
 
-Hostelworld works with Flashtalking to serve advertising creative. Hostelworld may place 1st party cookies on your device to provide more relevant advertising. [To opt-out of Flashtalking cookies please click here](https://www.flashtalking.com/uk/privacypolicy/). These cookies are anonymous and will not collect personally identifiable information.
+### Top Hostels
 
-Please note that disabling cookie support may prevent this website from functioning properly and you may not be able to fully utilise all of its features and services.
+[![St Christopher's Inn Gare du Nord](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's Inn Gare du Nord")
 
-Please find examples of guides on how to block cookies and how to remove cookies in the various browsers for PCs and Macs:
+**St Christopher's Inn Gare du Nord**
 
-* [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
-* [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
-* [Mozilla Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
-* [Opera](https://help.opera.com/Windows/9.51/en/cookies.html)
-* [Safari](https://support.apple.com/en-us/HT201265)
-* [Microsoft Edge](https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy)
-* [Samsung Browser](https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy)
+Paris
 
-### Further Information
+7.7
 
-For further information about cookies generally and their usage, please visit [AllAboutCookies](https://www.allaboutcookies.org/) and [YourOnlineChoices](https://www.youronlinechoices.eu/).
+From US$24.40](https://www.hostelworld.com/st/hostels/p/72963/st-christopher-s-inn-gare-du-nord/ "St Christopher's Inn Gare du Nord")[![St Christopher's Barcelona](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's Barcelona")
+
+**St Christopher's Barcelona**
+
+Barcelona
+
+8.8
+
+From US$18.27](https://www.hostelworld.com/st/hostels/p/61557/st-christopher-s-barcelona/ "St Christopher's Barcelona")[![Anda Venice](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Anda Venice")
+
+**Anda Venice**
+
+Venice
+
+9.3
+
+From US$19.41](https://www.hostelworld.com/st/hostels/p/285768/anda-venice/ "Anda Venice")[![ClinkNOORD](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "ClinkNOORD")
+
+**ClinkNOORD**
+
+Amsterdam
+
+8.6
+
+From US$21.87](https://www.hostelworld.com/st/hostels/p/93919/clinknoord/ "ClinkNOORD")[![Wombat's City Hostel London](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel London")
+
+**Wombat's City Hostel London**
+
+London
+
+9.3
+
+From US$32.29](https://www.hostelworld.com/st/hostels/p/88047/wombat-s-city-hostel-london/ "Wombat's City Hostel London")[![St Christopher's at The Winston](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's at The Winston")
+
+**St Christopher's at The Winston**
+
+Amsterdam
+
+8.6
+
+From US$24.40](https://www.hostelworld.com/st/hostels/p/13607/st-christopher-s-at-the-winston/ "St Christopher's at The Winston")[![Wombat's City Hostel Vienna Naschmarkt](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel Vienna Naschmarkt")
+
+**Wombat's City Hostel Vienna Naschmarkt**
+
+Vienna
+
+9.0
+
+From US$23.48](https://www.hostelworld.com/st/hostels/p/45674/wombat-s-city-hostel-vienna-naschmarkt/ "Wombat's City Hostel Vienna Naschmarkt")[![Next House Copenhagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Next House Copenhagen")
+
+**Next House Copenhagen**
+
+Copenhagen
+
+9.2
+
+From US$18.70](https://www.hostelworld.com/st/hostels/p/310761/next-house-copenhagen/ "Next House Copenhagen")
+
+### Hostels Worldwide
+
+Europe Asia North America South America Oceania Africa
+
+![Europe](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Europe")
+
+* [Albania](https://www.hostelworld.com/hostels/europe/albania/ "View all hostels in Albania")
+* [Andorra](https://www.hostelworld.com/hostels/europe/andorra/ "View all hostels in Andorra")
+* [Armenia](https://www.hostelworld.com/hostels/europe/armenia/ "View all hostels in Armenia")
+* [Austria](https://www.hostelworld.com/hostels/europe/austria/ "View all hostels in Austria")
+* [Belgium](https://www.hostelworld.com/hostels/europe/belgium/ "View all hostels in Belgium")
+* [Bosnia And Herzegovina](https://www.hostelworld.com/hostels/europe/bosnia-and-herzegovina/ "View all hostels in Bosnia And Herzegovina")
+* [Bulgaria](https://www.hostelworld.com/hostels/europe/bulgaria/ "View all hostels in Bulgaria")
+* [Croatia](https://www.hostelworld.com/hostels/europe/croatia/ "View all hostels in Croatia")
+* [Cyprus](https://www.hostelworld.com/hostels/europe/cyprus/ "View all hostels in Cyprus")
+* [Czech Republic](https://www.hostelworld.com/hostels/europe/czech-republic/ "View all hostels in Czech Republic")
+* [Denmark](https://www.hostelworld.com/hostels/europe/denmark/ "View all hostels in Denmark")
+* [England](https://www.hostelworld.com/hostels/europe/england/ "View all hostels in England")
+* [Estonia](https://www.hostelworld.com/hostels/europe/estonia/ "View all hostels in Estonia")
+* [Finland](https://www.hostelworld.com/hostels/europe/finland/ "View all hostels in Finland")
+* [France](https://www.hostelworld.com/hostels/europe/france/ "View all hostels in France")
+* [Georgia](https://www.hostelworld.com/hostels/europe/georgia/ "View all hostels in Georgia")
+* [Germany](https://www.hostelworld.com/hostels/europe/germany/ "View all hostels in Germany")
+* [Gibraltar](https://www.hostelworld.com/hostels/europe/gibraltar/ "View all hostels in Gibraltar")
+* [Greece](https://www.hostelworld.com/hostels/europe/greece/ "View all hostels in Greece")
+* [Hungary](https://www.hostelworld.com/hostels/europe/hungary/ "View all hostels in Hungary")
+* [Iceland](https://www.hostelworld.com/hostels/europe/iceland/ "View all hostels in Iceland")
+* [Ireland](https://www.hostelworld.com/hostels/europe/ireland/ "View all hostels in Ireland")
+* [Italy](https://www.hostelworld.com/hostels/europe/italy/ "View all hostels in Italy")
+* [Kosovo](https://www.hostelworld.com/hostels/europe/kosovo/ "View all hostels in Kosovo")
+* [Latvia](https://www.hostelworld.com/hostels/europe/latvia/ "View all hostels in Latvia")
+* [Liechtenstein](https://www.hostelworld.com/hostels/europe/liechtenstein/ "View all hostels in Liechtenstein")
+* [Lithuania](https://www.hostelworld.com/hostels/europe/lithuania/ "View all hostels in Lithuania")
+* [Luxembourg](https://www.hostelworld.com/hostels/europe/luxembourg/ "View all hostels in Luxembourg")
+* [Malta](https://www.hostelworld.com/hostels/europe/malta/ "View all hostels in Malta")
+* [Moldova](https://www.hostelworld.com/hostels/europe/moldova/ "View all hostels in Moldova")
+* [Montenegro](https://www.hostelworld.com/hostels/europe/montenegro/ "View all hostels in Montenegro")
+* [Netherlands](https://www.hostelworld.com/hostels/europe/netherlands/ "View all hostels in Netherlands")
+* [North Macedonia](https://www.hostelworld.com/hostels/europe/north-macedonia/ "View all hostels in North Macedonia")
+* [Northern Ireland](https://www.hostelworld.com/hostels/europe/northern-ireland/ "View all hostels in Northern Ireland")
+* [Norway](https://www.hostelworld.com/hostels/europe/norway/ "View all hostels in Norway")
+* [Poland](https://www.hostelworld.com/hostels/europe/poland/ "View all hostels in Poland")
+* [Portugal](https://www.hostelworld.com/hostels/europe/portugal/ "View all hostels in Portugal")
+* [Romania](https://www.hostelworld.com/hostels/europe/romania/ "View all hostels in Romania")
+* [San Marino](https://www.hostelworld.com/hostels/europe/san-marino/ "View all hostels in San Marino")
+* [Scotland](https://www.hostelworld.com/hostels/europe/scotland/ "View all hostels in Scotland")
+* [Serbia](https://www.hostelworld.com/hostels/europe/serbia/ "View all hostels in Serbia")
+* [Slovakia](https://www.hostelworld.com/hostels/europe/slovakia/ "View all hostels in Slovakia")
+* [Slovenia](https://www.hostelworld.com/hostels/europe/slovenia/ "View all hostels in Slovenia")
+* [Spain](https://www.hostelworld.com/hostels/europe/spain/ "View all hostels in Spain")
+* [Sweden](https://www.hostelworld.com/hostels/europe/sweden/ "View all hostels in Sweden")
+* [Switzerland](https://www.hostelworld.com/hostels/europe/switzerland/ "View all hostels in Switzerland")
+* [Turkey](https://www.hostelworld.com/hostels/europe/turkey/ "View all hostels in Turkey")
+* [Ukraine](https://www.hostelworld.com/hostels/europe/ukraine/ "View all hostels in Ukraine")
+* [Wales](https://www.hostelworld.com/hostels/europe/wales/ "View all hostels in Wales")
+
+* [Azerbaijan](https://www.hostelworld.com/hostels/europe/azerbaijan/ "View all hostels in Azerbaijan")
+* [Bangladesh](https://www.hostelworld.com/hostels/europe/bangladesh/ "View all hostels in Bangladesh")
+* [Brunei](https://www.hostelworld.com/hostels/europe/brunei/ "View all hostels in Brunei")
+* [Cambodia](https://www.hostelworld.com/hostels/europe/cambodia/ "View all hostels in Cambodia")
+* [China](https://www.hostelworld.com/hostels/europe/china/ "View all hostels in China")
+* [Hong Kong China](https://www.hostelworld.com/hostels/europe/hong-kong-china/ "View all hostels in Hong Kong China")
+* [India](https://www.hostelworld.com/hostels/europe/india/ "View all hostels in India")
+* [Indonesia](https://www.hostelworld.com/hostels/europe/indonesia/ "View all hostels in Indonesia")
+* [Iran](https://www.hostelworld.com/hostels/europe/iran/ "View all hostels in Iran")
+* [Israel](https://www.hostelworld.com/hostels/europe/israel/ "View all hostels in Israel")
+* [Japan](https://www.hostelworld.com/hostels/europe/japan/ "View all hostels in Japan")
+* [Jordan](https://www.hostelworld.com/hostels/europe/jordan/ "View all hostels in Jordan")
+* [Kazakhstan](https://www.hostelworld.com/hostels/europe/kazakhstan/ "View all hostels in Kazakhstan")
+* [Kyrgyzstan](https://www.hostelworld.com/hostels/europe/kyrgyzstan/ "View all hostels in Kyrgyzstan")
+* [Laos](https://www.hostelworld.com/hostels/europe/laos/ "View all hostels in Laos")
+* [Lebanon](https://www.hostelworld.com/hostels/europe/lebanon/ "View all hostels in Lebanon")
+* [Malaysia](https://www.hostelworld.com/hostels/europe/malaysia/ "View all hostels in Malaysia")
+* [Maldives](https://www.hostelworld.com/hostels/europe/maldives/ "View all hostels in Maldives")
+* [Mongolia](https://www.hostelworld.com/hostels/europe/mongolia/ "View all hostels in Mongolia")
+* [Myanmar](https://www.hostelworld.com/hostels/europe/myanmar/ "View all hostels in Myanmar")
+* [Nepal](https://www.hostelworld.com/hostels/europe/nepal/ "View all hostels in Nepal")
+* [Oman](https://www.hostelworld.com/hostels/europe/oman/ "View all hostels in Oman")
+* [Pakistan](https://www.hostelworld.com/hostels/europe/pakistan/ "View all hostels in Pakistan")
+* [Palestine](https://www.hostelworld.com/hostels/europe/palestine/ "View all hostels in Palestine")
+* [Philippines](https://www.hostelworld.com/hostels/europe/philippines/ "View all hostels in Philippines")
+* [Saudi Arabia](https://www.hostelworld.com/hostels/europe/saudi-arabia/ "View all hostels in Saudi Arabia")
+* [Singapore](https://www.hostelworld.com/hostels/europe/singapore/ "View all hostels in Singapore")
+* [South Korea](https://www.hostelworld.com/hostels/europe/south-korea/ "View all hostels in South Korea")
+* [Sri Lanka](https://www.hostelworld.com/hostels/europe/sri-lanka/ "View all hostels in Sri Lanka")
+* [Taiwan China](https://www.hostelworld.com/hostels/europe/taiwan-china/ "View all hostels in Taiwan China")
+* [Tajikistan](https://www.hostelworld.com/hostels/europe/tajikistan/ "View all hostels in Tajikistan")
+* [Thailand](https://www.hostelworld.com/hostels/europe/thailand/ "View all hostels in Thailand")
+* [United Arab Emirates](https://www.hostelworld.com/hostels/europe/united-arab-emirates/ "View all hostels in United Arab Emirates")
+* [Uzbekistan](https://www.hostelworld.com/hostels/europe/uzbekistan/ "View all hostels in Uzbekistan")
+* [Vietnam](https://www.hostelworld.com/hostels/europe/vietnam/ "View all hostels in Vietnam")
+
+* [Antigua And Barbuda](https://www.hostelworld.com/hostels/europe/antigua-and-barbuda/ "View all hostels in Antigua And Barbuda")
+* [Bahamas](https://www.hostelworld.com/hostels/europe/bahamas/ "View all hostels in Bahamas")
+* [Barbados](https://www.hostelworld.com/hostels/europe/barbados/ "View all hostels in Barbados")
+* [Belize](https://www.hostelworld.com/hostels/europe/belize/ "View all hostels in Belize")
+* [Canada](https://www.hostelworld.com/hostels/europe/canada/ "View all hostels in Canada")
+* [Costa Rica](https://www.hostelworld.com/hostels/europe/costa-rica/ "View all hostels in Costa Rica")
+* [Cuba](https://www.hostelworld.com/hostels/europe/cuba/ "View all hostels in Cuba")
+* [Dominican Republic](https://www.hostelworld.com/hostels/europe/dominican-republic/ "View all hostels in Dominican Republic")
+* [El Salvador](https://www.hostelworld.com/hostels/europe/el-salvador/ "View all hostels in El Salvador")
+* [Guadeloupe](https://www.hostelworld.com/hostels/europe/guadeloupe/ "View all hostels in Guadeloupe")
+* [Guatemala](https://www.hostelworld.com/hostels/europe/guatemala/ "View all hostels in Guatemala")
+* [Honduras](https://www.hostelworld.com/hostels/europe/honduras/ "View all hostels in Honduras")
+* [Jamaica](https://www.hostelworld.com/hostels/europe/jamaica/ "View all hostels in Jamaica")
+* [Mexico](https://www.hostelworld.com/hostels/europe/mexico/ "View all hostels in Mexico")
+* [Nicaragua](https://www.hostelworld.com/hostels/europe/nicaragua/ "View all hostels in Nicaragua")
+* [Panama](https://www.hostelworld.com/hostels/europe/panama/ "View all hostels in Panama")
+* [Trinidad And Tobago](https://www.hostelworld.com/hostels/europe/trinidad-and-tobago/ "View all hostels in Trinidad And Tobago")
+* [US Virgin Islands](https://www.hostelworld.com/hostels/europe/us-virgin-islands/ "View all hostels in US Virgin Islands")
+* [USA](https://www.hostelworld.com/hostels/europe/usa/ "View all hostels in USA")
+
+* [Argentina](https://www.hostelworld.com/hostels/europe/argentina/ "View all hostels in Argentina")
+* [Aruba](https://www.hostelworld.com/hostels/europe/aruba/ "View all hostels in Aruba")
+* [Bolivia](https://www.hostelworld.com/hostels/europe/bolivia/ "View all hostels in Bolivia")
+* [Brazil](https://www.hostelworld.com/hostels/europe/brazil/ "View all hostels in Brazil")
+* [Chile](https://www.hostelworld.com/hostels/europe/chile/ "View all hostels in Chile")
+* [Colombia](https://www.hostelworld.com/hostels/europe/colombia/ "View all hostels in Colombia")
+* [Ecuador](https://www.hostelworld.com/hostels/europe/ecuador/ "View all hostels in Ecuador")
+* [Martinique](https://www.hostelworld.com/hostels/europe/martinique/ "View all hostels in Martinique")
+* [Netherlands Antilles](https://www.hostelworld.com/hostels/europe/netherlands-antilles/ "View all hostels in Netherlands Antilles")
+* [Paraguay](https://www.hostelworld.com/hostels/europe/paraguay/ "View all hostels in Paraguay")
+* [Peru](https://www.hostelworld.com/hostels/europe/peru/ "View all hostels in Peru")
+* [Puerto Rico](https://www.hostelworld.com/hostels/europe/puerto-rico/ "View all hostels in Puerto Rico")
+* [Suriname](https://www.hostelworld.com/hostels/europe/suriname/ "View all hostels in Suriname")
+* [Uruguay](https://www.hostelworld.com/hostels/europe/uruguay/ "View all hostels in Uruguay")
+* [Venezuela](https://www.hostelworld.com/hostels/europe/venezuela/ "View all hostels in Venezuela")
+
+* [Australia](https://www.hostelworld.com/hostels/europe/australia/ "View all hostels in Australia")
+* [Cook Islands](https://www.hostelworld.com/hostels/europe/cook-islands/ "View all hostels in Cook Islands")
+* [East Timor](https://www.hostelworld.com/hostels/europe/east-timor/ "View all hostels in East Timor")
+* [Fiji](https://www.hostelworld.com/hostels/europe/fiji/ "View all hostels in Fiji")
+* [French Polynesia](https://www.hostelworld.com/hostels/europe/french-polynesia/ "View all hostels in French Polynesia")
+* [New Zealand](https://www.hostelworld.com/hostels/europe/new-zealand/ "View all hostels in New Zealand")
+* [Samoa](https://www.hostelworld.com/hostels/europe/samoa/ "View all hostels in Samoa")
+
+* [Algeria](https://www.hostelworld.com/hostels/europe/algeria/ "View all hostels in Algeria")
+* [Angola](https://www.hostelworld.com/hostels/europe/angola/ "View all hostels in Angola")
+* [Botswana](https://www.hostelworld.com/hostels/europe/botswana/ "View all hostels in Botswana")
+* [Cape Verde](https://www.hostelworld.com/hostels/europe/cape-verde/ "View all hostels in Cape Verde")
+* [Egypt](https://www.hostelworld.com/hostels/europe/egypt/ "View all hostels in Egypt")
+* [Ethiopia](https://www.hostelworld.com/hostels/europe/ethiopia/ "View all hostels in Ethiopia")
+* [Ghana](https://www.hostelworld.com/hostels/europe/ghana/ "View all hostels in Ghana")
+* [Kenya](https://www.hostelworld.com/hostels/europe/kenya/ "View all hostels in Kenya")
+* [Lesotho](https://www.hostelworld.com/hostels/europe/lesotho/ "View all hostels in Lesotho")
+* [Madagascar](https://www.hostelworld.com/hostels/europe/madagascar/ "View all hostels in Madagascar")
+* [Malawi](https://www.hostelworld.com/hostels/europe/malawi/ "View all hostels in Malawi")
+* [Morocco](https://www.hostelworld.com/hostels/europe/morocco/ "View all hostels in Morocco")
+* [Mozambique](https://www.hostelworld.com/hostels/europe/mozambique/ "View all hostels in Mozambique")
+* [Namibia](https://www.hostelworld.com/hostels/europe/namibia/ "View all hostels in Namibia")
+* [Reunion](https://www.hostelworld.com/hostels/europe/reunion/ "View all hostels in Reunion")
+* [Rwanda](https://www.hostelworld.com/hostels/europe/rwanda/ "View all hostels in Rwanda")
+* [Sao Tome And Principe](https://www.hostelworld.com/hostels/europe/sao-tome-and-principe/ "View all hostels in Sao Tome And Principe")
+* [Senegal](https://www.hostelworld.com/hostels/europe/senegal/ "View all hostels in Senegal")
+* [South Africa](https://www.hostelworld.com/hostels/europe/south-africa/ "View all hostels in South Africa")
+* [Swaziland](https://www.hostelworld.com/hostels/europe/swaziland/ "View all hostels in Swaziland")
+* [Tanzania](https://www.hostelworld.com/hostels/europe/tanzania/ "View all hostels in Tanzania")
+* [Tunisia](https://www.hostelworld.com/hostels/europe/tunisia/ "View all hostels in Tunisia")
+* [Uganda](https://www.hostelworld.com/hostels/europe/uganda/ "View all hostels in Uganda")
+* [Zambia](https://www.hostelworld.com/hostels/europe/zambia/ "View all hostels in Zambia")
+* [Zimbabwe](https://www.hostelworld.com/hostels/europe/zimbabwe/ "View all hostels in Zimbabwe")
+
+[View all hostels in Europe](https://www.hostelworld.com/hostels/europe/ "View all hostels in Europe")
+
+### 
+
+About Hostelworld
+
+Hostelworld.com brings you online bookings at thousands of hostels worldwide. Check out our up to the minute hostel reviews, view photographs and read detailed descriptions of all our hostels. Confirmed reservations at a selection of youth hostels, independent hostels and international hostels in Europe, Asia, Africa, North America, South America and Oceania.
 
 Language
 
-* [English](https://www.hostelworld.com/cookiespolicy/)
-* [Français](https://www.hostelworld.com/fr/cookiespolicy/)
-* [Deutsch](https://www.hostelworld.com/de/cookiespolicy/)
-* [Español](https://www.hostelworld.com/es/cookiespolicy/)
-* [Italiano](https://www.hostelworld.com/it/cookiespolicy/)
-* [Português](https://www.hostelworld.com/pt/cookiespolicy/)
-* [Português (Brasil)](https://www.hostelworld.com/br/cookiespolicy/)
-* [Svenska](https://www.hostelworld.com/sv/cookiespolicy/)
-* [Polski](https://www.hostelworld.com/pl/cookiespolicy/)
-* [Suomi](https://www.hostelworld.com/fi/cookiespolicy/)
-* [Dansk](https://www.hostelworld.com/da/cookiespolicy/)
-* [Nederlands](https://www.hostelworld.com/nl/cookiespolicy/)
-* [Norsk](https://www.hostelworld.com/no/cookiespolicy/)
-* [český](https://www.hostelworld.com/cs/cookiespolicy/)
-* [Русский](https://www.hostelworld.com/ru/cookiespolicy/)
-* [Türk](https://www.hostelworld.com/tr/cookiespolicy/)
-* [中文](https://www.hostelworld.com/zh/cookiespolicy/)
-* [日本語](https://www.hostelworld.com/ja/cookiespolicy/)
-* [한국어](https://www.hostelworld.com/ko/cookiespolicy/)
+* [English](https://www.hostelworld.com/hostels/)
+* [Français](https://www.hostelworld.com/fr/auberges-de-jeunesse/)
+* [Deutsch](https://www.hostelworld.com/de/jugendherbergen/)
+* [Español](https://www.hostelworld.com/es/albergues/)
+* [Italiano](https://www.hostelworld.com/it/ostelli/)
+* [Português](https://www.hostelworld.com/pt/albergues/)
+* [Português (Brasil)](https://www.hostelworld.com/br/hostels/)
+* [Svenska](https://www.hostelworld.com/sv/vandrarhem/)
+* [Polski](https://www.hostelworld.com/pl/schroniska/)
+* [Suomi](https://www.hostelworld.com/fi/hostellit/)
+* [Dansk](https://www.hostelworld.com/da/vandrerhjem/)
+* [Nederlands](https://www.hostelworld.com/nl/hostels/)
+* [Norsk](https://www.hostelworld.com/no/vandrerhjem/)
+* [český](https://www.hostelworld.com/cs/ubytovny/)
+* [Русский](https://www.hostelworld.com/ru/khostely/)
+* [Türk](https://www.hostelworld.com/tr/hostels/)
+* [中文](https://www.hostelworld.com/zh/lushe/)
+* [日本語](https://www.hostelworld.com/ja/hosuteru/)
+* [한국어](https://www.hostelworld.com/ko/hoseuterdeur/)
 
 **Follow us on**
 
