@@ -88,7 +88,7 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
     
 * [Brands](https://www.emp.de/markenkleidung/)
     
-* [Entertainment](https://www.emp.de/entertainment/)
+* [Entertainment](https://www.emp.de/fan-merch/)
     
 * [Lifestyle](https://www.emp.de/fun-lifestyle/wohnen/)
     
