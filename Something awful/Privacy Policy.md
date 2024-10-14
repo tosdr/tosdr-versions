@@ -205,23 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Reaching for the Great Beyond: Six Steps to Success](https://www.somethingawful.com/news/six-steps-success/1/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [The Annotated Richard McBeef](https://www.somethingawful.com/news/richard-mcbeef/1/)
-* [The Five-Day Prank](https://www.somethingawful.com/icq-pranks/icq-transcript-fiveday/1/)
-* [The 7 Creepiest Articles About Edward Snowden's Girlfriend](https://www.somethingawful.com/news/snowden-pole-dancer/1/)
+* [Know Your Comics: Guys With Big Heads](https://www.somethingawful.com/news/big-head-comic/)
+* [The Great American Reach Around - The Northeast & The Two Irelands](https://www.somethingawful.com/news/gara-week-four/1/)
+* [The 7 Most Awful Things to Happen to the Internet](https://www.somethingawful.com/most-awful/seven-awful-internet/1/)
+* [Men's Hats Ranked From Most to Least Tainted](https://www.somethingawful.com/news/men-hats-taint/1/)
+* [\[Mature\] Exalted's Most Mature Content (A Mature Article) for Matures Only](https://www.somethingawful.com/dungeons-and-dragons/burn-down-whitewolf/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [What got you interested in SA?](http://forums.somethingawful.com/showthread.php?threadid=4072564 "What got you interested in SA?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/sports.png) [Honkbal Hoofdklasse](http://forums.somethingawful.com/showthread.php?threadid=4072637 "Honkbal Hoofdklasse")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [How do you feel about your hair going grey?](http://forums.somethingawful.com/showthread.php?threadid=4072644 "How do you feel about your hair going grey?")
 
 ### Random Articles
 
-* [YEMENFREEDOMNEWS.YE](https://www.somethingawful.com/news/yemen-news-saleh/)
-* [The Arabian Nights Entertainments!](https://www.somethingawful.com/photoshop-phriday/arabian-night-entertainment/1/)
-* [I Hate You Page 127](https://www.somethingawful.com/cliff-yablonski/i-hate-you-127/)
-* [Sony's Robot People](https://www.somethingawful.com/news/sonys-robot-people/)
-* [Music Magazines](https://www.somethingawful.com/your-band-sucks/music-magazines/)
+* [System of a Down: Hate-Mail](https://www.somethingawful.com/your-band-sucks/system-down-hatemail/)
+* [Halo 3 Spoilers, Most Significant Moments In Gaming](https://www.somethingawful.com/video-game-article/halo-spoilers-most/)
+* [Son of Nightmares Fear Factory!](https://www.somethingawful.com/comedy-goldmine/nightmares-reactions-photoshops/1/)
+* [Jokes2Go (Thanks, Dions!)](https://www.somethingawful.com/awful-links/jokes2go/)
+* [Cthulhu Coloring Book!](https://www.somethingawful.com/comedy-goldmine/cthulhu-coloring-book/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
