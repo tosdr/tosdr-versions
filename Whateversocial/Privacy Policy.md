@@ -20,7 +20,7 @@ To permamently disable libremdb from storing your theme prefrences, either turn 
 Instance information
 --------------------
 
-Version: [3.1.0](https://github.com/zyachel/libremdb/tree/v3.1.0)
+Version: [4.0.0](https://github.com/zyachel/libremdb/tree/v4.0.0)
 
 Privacy policy last updated on 31 october, 2022.
 
@@ -32,4 +32,4 @@ You can see the full revision history of this privacy policy on GitHub, or Codeb
 * [Contact](https://binge.whatever.social/contact)
 * [Back to top](#)
 
-Licensed under [GNU AGPLv3](https://www.gnu.org/licenses/agpl-3.0-standalone.html).
+_libremdb does not host any content. All content on libremdb is from IMDb. IMDb is a trademark of IMDb.com, Inc._
