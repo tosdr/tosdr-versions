@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Deadly Fort Worth shooting under investigation](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101324-sh-ftwpd-shooting-fx-kyleigh-dr_kdfwa91e_18_00.00.40.02.jpg?ve=1&tl=1)
+ [![The Colony Fire Department shows support for battalion chief battling kidney disease](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101324-aj-the-colony-firefighter-with-kidney-failu_00.01.41.26.jpg?ve=1&tl=1)
 
- ![Deadly Fort Worth shooting under investigation](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101324-sh-ftwpd-shooting-fx-kyleigh-dr_kdfwa91e_18_00.00.40.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/deadly-fort-worth-shooting-under-investigation)
+ ![The Colony Fire Department shows support for battalion chief battling kidney disease](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101324-aj-the-colony-firefighter-with-kidney-failu_00.01.41.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/colony-fire-toss-for-a-cause-brent-young)
 
-### [Deadly Fort Worth shooting under investigation](https://www.fox4news.com/news/deadly-fort-worth-shooting-under-investigation)
+### [The Colony Fire Department shows support for battalion chief battling kidney disease](https://www.fox4news.com/news/colony-fire-toss-for-a-cause-brent-young)
 
- [![Abandoned school building in South Dallas catches fire Sunday morning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101324-dallas-beckley-ave-fire-kdfweme002_08_03_08_00.14.50.30.jpg?ve=1&tl=1)
+ [![Jared Goff throws 3 TD passes, Lions win 47-9 and hand Cowboys another lopsided home loss](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2178266059-scaled.jpg?ve=1&tl=1)
 
- ![Abandoned school building in South Dallas catches fire Sunday morning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101324-dallas-beckley-ave-fire-kdfweme002_08_03_08_00.14.50.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/maya-angelou-high-school-south-dallas-catches-fire-sunday-morning)
+ ![Jared Goff throws 3 TD passes, Lions win 47-9 and hand Cowboys another lopsided home loss](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178266059-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jared-goff-throws-3-td-passes-lions-win-47-9-hand-cowboys-another-lopsided-home-loss)
 
-### [Abandoned school building in South Dallas catches fire Sunday morning](https://www.fox4news.com/news/maya-angelou-high-school-south-dallas-catches-fire-sunday-morning)
+### [Jared Goff throws 3 TD passes, Lions win 47-9 and hand Cowboys another lopsided home loss](https://www.fox4news.com/sports/jared-goff-throws-3-td-passes-lions-win-47-9-hand-cowboys-another-lopsided-home-loss)
 
- [![Police identify deceased victim in shooting near TSU homecoming, motive still unclear](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/tsushooting2.jpg?ve=1&tl=1)
+ [![Jerry Jones on possible coaching change: 'I'm not considering that'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2178257278.jpg?ve=1&tl=1)
 
- ![Police identify deceased victim in shooting near TSU homecoming, motive still unclear](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/tsushooting2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tennessee-state-universit-shooting-tsu-homecoming)
+ ![Jerry Jones on possible coaching change: 'I'm not considering that'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178257278.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jerry-jones-firing-mike-mccarthy-im-not-considering-that)
 
-### [Police identify deceased victim in shooting near TSU homecoming, motive still unclear](https://www.fox4news.com/news/tennessee-state-universit-shooting-tsu-homecoming)
+### [Jerry Jones on possible coaching change: 'I'm not considering that'](https://www.fox4news.com/sports/jerry-jones-firing-mike-mccarthy-im-not-considering-that)
 
- [![Grapevine Lake fire sends plumes of smoke into the air](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/img_8903.jpg?ve=1&tl=1)
+ [![Grapevine Lake fire: 10 boats damaged at Silver Lake Marina](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gzyvkfsxkaelqdc.jpg?ve=1&tl=1)
 
- ![Grapevine Lake fire sends plumes of smoke into the air](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/img_8903.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grapevine-lake-fire-smoke)
+ ![Grapevine Lake fire: 10 boats damaged at Silver Lake Marina](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gzyvkfsxkaelqdc.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grapevine-lake-fire-smoke)
 
 ### [Crews battle fire at Grapevine Lake](https://www.fox4news.com/news/grapevine-lake-fire-smoke)
 
- [![Woman admits to setting fire that killed man, 3 dogs in Northwest Dallas mobile home park, officials say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-lombardy-ln-fatal-fire-9p_00.01.16.02.jpg?ve=1&tl=1)
+ [![Possible third Trump assassination attempt thwarted in Coachella, Riverside County sheriff says](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/gettyimages-2178150758.jpg?ve=1&tl=1)
 
- ![Woman admits to setting fire that killed man, 3 dogs in Northwest Dallas mobile home park, officials say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-lombardy-ln-fatal-fire-9p_00.01.16.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/woman-admits-setting-fire-killed-man-3-dogs-northwest-dallas-mobile-home-park-officials-say)
+ ![Possible third Trump assassination attempt thwarted in Coachella, Riverside County sheriff says](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178150758.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/vem-miller-trump-coachella-rally-arrest-possible-assassination-attempt)
 
-### [Woman admits to setting fire that killed man, 3 dogs in Northwest Dallas mobile home park, officials say](https://www.fox4news.com/news/woman-admits-setting-fire-killed-man-3-dogs-northwest-dallas-mobile-home-park-officials-say)
+### [Possible third Trump assassination attempt thwarted in Coachella, Riverside County sheriff says](https://www.fox4news.com/news/vem-miller-trump-coachella-rally-arrest-possible-assassination-attempt)
 
 ###### [News](https://www.fox4news.com/news)
 
