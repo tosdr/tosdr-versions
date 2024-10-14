@@ -356,7 +356,17 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/200px-Quinn_Reynolds.jpg-150x150.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/the-golden-box/)
+
+### [The Golden Box](https://www.starbase118.net/2024/the-golden-box/)
+
+Alora DeVeau October 14, 2024
+
+Over the years, Starbase 118 has had numerous members join our ranks.  Some are with us for a season before they have to take a
+
+[Read More »](https://www.starbase118.net/2024/the-golden-box/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-toxin-arlill-uss-octavia-e-butler-voyager-medallion/)
 
@@ -375,20 +385,6 @@ Lhandon Nilsen October 11, 2024
 One of the most rewarding aspects of simming in the SB118 fleet is the diversity of roles available, ranging from helm and medical to diplomacy
 
 [Read More »](https://www.starbase118.net/2024/role-in-focus-diplomacy/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-talia-ohnari-uss-khitomer-prestigious-service-medallion-medical/)
-
-### [Award winner – Talia Ohnari, USS Khitomer (Prestigious Service Medallion – Medical)](https://www.starbase118.net/2024/award-winner-talia-ohnari-uss-khitomer-prestigious-service-medallion-medical/)
-
-skhuss October 9, 2024
-
-Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
-
-[Read More »](https://www.starbase118.net/2024/award-winner-talia-ohnari-uss-khitomer-prestigious-service-medallion-medical/)
 
 Ready to get started?
 ---------------------
