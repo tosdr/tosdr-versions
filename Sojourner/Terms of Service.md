@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-635756b8baf1b24ba09193fef3baaa7a
+82bbc3539726142f70e9c912283a747b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm by 6 mm oval shiny purple polka dot Czech beads](https://sojourner.biz/images/cache/glass/GL0017.200.jpg)](https://sojourner.biz/beads/glass/8-mm-by-6-mm-oval-shiny-purple-polka-dot-czech-beads.html "8 mm by 6 mm oval shiny purple polka dot Czech beads")
+[![8 mm to 10 mm cream oval pearls](https://sojourner.biz/images/cache/pearls/PE0065.200.jpg)](https://sojourner.biz/beads/pearls/8-mm-to-10-mm-cream-oval-pearls.html "8 mm to 10 mm cream oval pearls")
 
-#### [8 mm by 6 mm oval shiny purple polka dot Czech beads](https://sojourner.biz/beads/glass/8-mm-by-6-mm-oval-shiny-purple-polka-dot-czech-beads.html "8 mm by 6 mm oval shiny purple polka dot Czech beads")
+#### [8 mm to 10 mm cream oval pearls](https://sojourner.biz/beads/pearls/8-mm-to-10-mm-cream-oval-pearls.html "8 mm to 10 mm cream oval pearls")
 
-$10.00
+$8.00
 
 ### Best Sellers
 
