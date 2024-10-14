@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Home Rent Prices Rise in September: Report](https://www.theepochtimes.com/us/home-rent-prices-rise-in-september-report-5740579)
+    
+    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Home Rent Prices Rise in September: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Home Rent Prices Rise in September: Report](https://img.theepochtimes.com/assets/uploads/2024/09/03/id5717612-IrvineHomes_ForSale_JF_7_09212020KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/home-rent-prices-rise-in-september-report-5740579)
+* [Local Heroes Hailed as North Carolina Digs Out From Hurricane Helene Disaster](https://www.theepochtimes.com/us/local-heroes-hailed-as-north-carolina-digs-out-from-hurricane-helene-disaster-5740694)
+    
+    1hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    
+    [![Local Heroes Hailed as North Carolina Digs Out From Hurricane Helene Disaster](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Local Heroes Hailed as North Carolina Digs Out From Hurricane Helene Disaster](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736506-Helene-Body-Recovery-3_JF_10062024-205x123.jpg.webp)](https://www.theepochtimes.com/us/local-heroes-hailed-as-north-carolina-digs-out-from-hurricane-helene-disaster-5740694)
+* [In Arizona, Trump Proposes Pay Raise for Border Patrol](https://www.theepochtimes.com/us/in-arizona-trump-proposes-pay-raise-for-border-patrol-5740725)
+    
+    2hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    
+    [![In Arizona, Trump Proposes Pay Raise for Border Patrol](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![In Arizona, Trump Proposes Pay Raise for Border Patrol](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5740752-Trump-Border-Patrol-1_JF_10132024-v-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-arizona-trump-proposes-pay-raise-for-border-patrol-5740725)
+* [China Holds New Military Drills Around Taiwan](https://www.theepochtimes.com/china/china-holds-new-military-drills-around-taiwan-5740805)
+    
+    2hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![China Holds New Military Drills Around Taiwan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![China Holds New Military Drills Around Taiwan](https://img.theepochtimes.com/assets/uploads/2024/07/24/id5693174-A07-O-CONCERNS-OVER-TAIWAN-RISE-AS-RUSSIA-DECLARES-WAR-1200x881-e1658634104414KO-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-holds-new-military-drills-around-taiwan-5740805)
 * [Day in Photos: Biden Surveys Milton Damage, SpaceX Launch, and Belgian Elections](https://www.theepochtimes.com/article/day-in-photos-biden-surveys-milton-damage-space-x-launch-and-belgian-elections-5740646)
     
-    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    10hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Biden Surveys Milton Damage, SpaceX Launch, and Belgian Elections](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Biden Surveys Milton Damage, SpaceX Launch, and Belgian Elections](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740678-GettyImages-2178233400_1-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-biden-surveys-milton-damage-space-x-launch-and-belgian-elections-5740646)
 * [Trump Says His Supporters Won’t Cause Election Chaos](https://www.theepochtimes.com/us/trump-says-his-supporters-wont-cause-election-chaos-5740625)
     
-    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    11hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Trump Says His Supporters Won’t Cause Election Chaos](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Says His Supporters Won’t Cause Election Chaos](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739827-GettyImages-2177049750-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-his-supporters-wont-cause-election-chaos-5740625)
 * [Mask Mandates Set to Return in Several California Areas: What We Know](https://www.theepochtimes.com/health/mask-mandates-set-to-return-in-several-california-areas-what-we-know-5740630)
     
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Mask Mandates Set to Return in Several California Areas: What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Mask Mandates Set to Return in Several California Areas: What We Know](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740691-EpochImages-9193431748-xlKO-205x123.jpg.webp)](https://www.theepochtimes.com/health/mask-mandates-set-to-return-in-several-california-areas-what-we-know-5740630)
 * [Tampa Bay Area Officials Request Feds Merge Helene and Milton Into One Disaster](https://www.theepochtimes.com/us/tampa-bay-area-officials-request-feds-merge-helene-and-milton-into-one-disaster-5740612)
     
-    7hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    13hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
     [![Tampa Bay Area Officials Request Feds Merge Helene and Milton Into One Disaster](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Tampa Bay Area Officials Request Feds Merge Helene and Milton Into One Disaster](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737204-GettyImages-2176521121-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/tampa-bay-area-officials-request-feds-merge-helene-and-milton-into-one-disaster-5740612)
 * [Pentagon to Send Advanced Missile Defense System and Troops to Israel](https://www.theepochtimes.com/world/pentagon-to-send-advanced-missile-defense-system-and-troops-to-israel-5740605)
     
-    10hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    15hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Pentagon to Send Advanced Missile Defense System and Troops to Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Pentagon to Send Advanced Missile Defense System and Troops to Israel](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740677-170730-usnews-thaad-test-mda-0628_32c956a27a864f4968b0077ea97f0f3b.nbcnews-ux-2880-1000-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/pentagon-to-send-advanced-missile-defense-system-and-troops-to-israel-5740605)
 * [Where Trump and Harris Stand on China Policies](https://www.theepochtimes.com/article/where-trump-and-harris-stand-on-china-policies-5714211)
     
-    10hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu) and [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
+    16hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu) and [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
     
     [![Where Trump and Harris Stand on China Policies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Where Trump and Harris Stand on China Policies](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740403-lead_v8_harris2-205x123.jpg.webp)](https://www.theepochtimes.com/article/where-trump-and-harris-stand-on-china-policies-5714211)
-* [Armed Man Arrested Outside Trump Rally in California Faces Gun Charges](https://www.theepochtimes.com/us/armed-man-who-allegedly-said-he-wanted-to-kill-the-president-arrested-outside-trump-rally-5740578)
-    
-    11hr By [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
-    
-    [![Armed Man Arrested Outside Trump Rally in California Faces Gun Charges](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Armed Man Arrested Outside Trump Rally in California Faces Gun Charges](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740672-Trump-rally-California-GettyImages-2178152051-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/armed-man-who-allegedly-said-he-wanted-to-kill-the-president-arrested-outside-trump-rally-5740578)
-* [What to Eat to Improve Brain Function](https://www.theepochtimes.com/health/what-to-eat-to-improve-brains-function-5728500)
-    
-    11hr By [Zena le Roux](https://www.theepochtimes.com/author/zena-le-roux)
-    
-    [![What to Eat to Improve Brain Function](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![What to Eat to Improve Brain Function](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737278-shutterstock_2222459569-e1728853298495-205x123.jpg.webp)](https://www.theepochtimes.com/health/what-to-eat-to-improve-brains-function-5728500)
-* [Biden Announces $612 Million in Electric Grid, Energy Funds During Post-Hurricane Florida Visit](https://www.theepochtimes.com/us/biden-announces-612-million-in-electric-grid-energy-funds-during-florida-hurricane-visit-5740550)
-    
-    13hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Biden Announces $612 Million in Electric Grid, Energy Funds During Post-Hurricane Florida Visit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Announces $612 Million in Electric Grid, Energy Funds During Post-Hurricane Florida Visit](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740619-GettyImages-2177513081-florida-biden-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-announces-612-million-in-electric-grid-energy-funds-during-florida-hurricane-visit-5740550)
-* [Social Security Administration Warns Beneficiaries About COLA Scam](https://www.theepochtimes.com/us/social-security-administration-warns-beneficiaries-about-cola-scam-5740536)
-    
-    13hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Social Security Administration Warns Beneficiaries About COLA Scam](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Social Security Administration Warns Beneficiaries About COLA Scam](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740616-Social-Security-card-GettyImages-1346574953-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/social-security-administration-warns-beneficiaries-about-cola-scam-5740536)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
