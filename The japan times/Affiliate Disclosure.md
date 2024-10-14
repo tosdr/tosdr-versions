@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 14, 2024](https://www.japantimes.co.jp/archive/2024/10/14/ "archive page")
+[October 15, 2024](https://www.japantimes.co.jp/archive/2024/10/15/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -134,21 +134,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427543.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.")](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
 
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+[Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/commentary/2024/10/13/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
-[Nobel Prize is a warning to a world on the nuclear brink](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel Prize is a warning to a world on the nuclear brink")
-
-  [![The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427373.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.")](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel Prize is a warning to a world on the nuclear brink")
-
-[Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
-
-  [![Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427386.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
+  [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/commentary/2024/10/13/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
 [Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
 
   [![Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427338.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
+
+[Challenges remain six months to go before Osaka Expo](https://www.japantimes.co.jp/news/2024/10/13/japan/osaka-expo-six-months/ "Challenges remain six months to go before Osaka Expo")
+
+  [![The Osaka Expo site under construction. The expo is scheduled to take place on Yumeshima, an artificial island, from April 13 through Oct. 13 of next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427514.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Osaka Expo site under construction. The expo is scheduled to take place on Yumeshima, an artificial island, from April 13 through Oct. 13 of next year.")](https://www.japantimes.co.jp/news/2024/10/13/japan/osaka-expo-six-months/ "Challenges remain six months to go before Osaka Expo")
+
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
 Editors' Picks
 --------------
@@ -159,27 +159,11 @@ Editors' Picks
 
   [![Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427543.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.")](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
 
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+[Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/commentary/2024/10/13/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
-By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
-
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Nobel Prize is a warning to a world on the nuclear brink](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel Prize is a warning to a world on the nuclear brink")
-
-By [Mark Trevelyan](https://www.japantimes.co.jp/author/2842/mark-trevelyan/ "Mark Trevelyan")  
-
-  [![The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427373.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The remains of the Prefectural Industry Promotion Building after the nuclear bombing of Hiroshima in September 1945.")](https://www.japantimes.co.jp/news/2024/10/12/japan/politics/nobel-prize-nuclear-brink-warning/ "Nobel Prize is a warning to a world on the nuclear brink")
-
-[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
-
-[Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
-
-  [![Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427386.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers pitcher Yoshinobu Yamamoto pumps his fist during the fourth inning of Friday's series-clinching win over the Padres at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/10/12/baseball/mlb/dodgers-yamamoto-top-padres-darvish/ "Dodgers drop Padres in historic Japanese pitchers' duel to advance in MLB playoffs")
+  [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/commentary/2024/10/13/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -188,6 +172,20 @@ By [Mark Trevelyan](https://www.japantimes.co.jp/author/2842/mark-trevelyan/ "Ma
 By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
   [![Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427338.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Challenges remain six months to go before Osaka Expo](https://www.japantimes.co.jp/news/2024/10/13/japan/osaka-expo-six-months/ "Challenges remain six months to go before Osaka Expo")
+
+  [![The Osaka Expo site under construction. The expo is scheduled to take place on Yumeshima, an artificial island, from April 13 through Oct. 13 of next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427514.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Osaka Expo site under construction. The expo is scheduled to take place on Yumeshima, an artificial island, from April 13 through Oct. 13 of next year.")](https://www.japantimes.co.jp/news/2024/10/13/japan/osaka-expo-six-months/ "Challenges remain six months to go before Osaka Expo")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
 Podcast
 -------
@@ -252,23 +250,23 @@ Latest News
 
 [Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson](https://www.japantimes.co.jp/news/2024/10/14/world/nobel-prize-economics-2024/ "Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson")
 
-29 mins ago
+6 hours ago
 
 [Hakamata makes first public appearance since acquittal](https://www.japantimes.co.jp/news/2024/10/14/japan/crime-legal/hakamata-first-appearance-after-acquittal/ "Hakamata makes first public appearance since acquittal")
 
-1 hours ago
+7 hours ago
 
 [A frustrated Trump lashes out behind closed doors over money](https://www.japantimes.co.jp/news/2024/10/14/world/politics/frustrated-trump-closed-doors-money/ "A frustrated Trump lashes out behind closed doors over money")
 
-1 hours ago
+7 hours ago
 
 [South Korea military says 'fully ready' as drone tensions soar](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/politics/south-korea-military-drone/ "South Korea military says 'fully ready' as drone tensions soar")
 
-1 hours ago
+7 hours ago
 
 [A decade of Jokowi: Popular Indonesian leader leaves rocky legacy](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/politics/jokowi-indonesia-legacy-critics/ "A decade of Jokowi: Popular Indonesian leader leaves rocky legacy")
 
-1 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
