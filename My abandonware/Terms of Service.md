@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Cajun Video Poker](https://www.myabandonware.com/game/cajun-video-poker-stk)
-* [Cadillac Impressions](https://www.myabandonware.com/game/cadillac-impressions-stj)
-* [Brix](https://www.myabandonware.com/game/brix-sti)
-* [Blackjack](https://www.myabandonware.com/game/blackjack-sth)
-* [Backgammon](https://www.myabandonware.com/game/backgammon-stg)
+* [Alex Kidd: The Lost Stars](https://www.myabandonware.com/game/alex-kidd-the-lost-stars-aqu)
+* [Pic Trivia](https://www.myabandonware.com/game/pic-trivia-suc)
+* [Patience Abroad](https://www.myabandonware.com/game/patience-abroad-sub)
+* [Cat 'n Mouse](https://www.myabandonware.com/game/cat-n-mouse-sua)
+* [Egyptian Solitaire](https://www.myabandonware.com/game/egyptian-solitaire-su9)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
