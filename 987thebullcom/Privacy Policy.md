@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Dust On The BottleDavid Lee Murphy<br><br>5:39pm |
-| Ain'T No Love In OklahomaLuke Combs<br><br>5:35pm |
-| Bigger HousesDan Shay<br><br>5:32pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:29pm |
-| 23Chayce Beckham<br><br>5:26pm |
+| Its 5 Oclock SomewhereAlan Jackson And Jimmy Buffett<br><br>11:37pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>11:34pm |
+| Hometown HomeLocash<br><br>11:31pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>11:27pm |
+| World On FireNate Smith<br><br>11:24pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Sports • Midwest
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
