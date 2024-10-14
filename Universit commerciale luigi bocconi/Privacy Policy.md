@@ -332,9 +332,9 @@ If you need any further information or have any queries, feel free to contact ou
 
 Watch video
 
-        ![](/sites/default/files/styles/container_100_lg/public/oembed_thumbnails/2024-01/dKYt-6Yr4-siidOfFtIze1RBeC9iaJWt0dNe0E5hcsQ.jpg.jpg?itok=_r_aVA1_)
+        ![](/sites/default/files/styles/container_100_lg/public/oembed_thumbnails/2024-01/dKYt-6Yr4-siidOfFtIze1RBeC9iaJWt0dNe0E5hcsQ.jpg.webp?itok=_r_aVA1_)
 
-        ![](/sites/default/files/styles/container_100_lg/public/media/images/gdpr_eng.jpg.jpg?itok=Ozxy0LMv)
+        ![](/sites/default/files/styles/container_100_lg/public/media/images/gdpr_eng.jpg.webp?itok=Ozxy0LMv)
 
 Scroll to top
 
@@ -348,15 +348,15 @@ Stay in touch
 * [Twitter ![Go To Twitter](/sites/default/files/styles/footer_icon/public/footer/icon-menu/x_1.png.webp?itok=Y7MLjZ5L "Twitter")](https://twitter.com/unibocconi) 
 * [Linkedin ![Go To Linkedin](/sites/default/files/styles/footer_icon/public/footer/icon-menu/linkedin_0.png.webp?itok=oWwIb-bE "Linkedin")](https://www.linkedin.com/school/universita-bocconi/) 
 * [Youtube ![Go to Youtube](/sites/default/files/styles/footer_icon/public/footer/icon-menu/youtube.png.webp?itok=8F3uxcIQ "Youtube")](https://www.youtube.com/user/UniBocconi) 
-* [Instagram ![Go to Instagram](/sites/default/files/styles/footer_icon/public/footer/icon-menu/instagram_0.png.webp?VersionId=CzjbrVImJ04QQqL7UoB2DXLLRsBqFigw&itok=T4tCicO3 "Instagram")](https://www.instagram.com/unibocconi/) 
-* [Tiktok ![Go to Tiktok](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tiktok.png.webp?VersionId=ZBol6dRdsaryF6L.zNLYyzoZFUEr.x2s&itok=d1yjTdEa "Tiktok")](https://www.tiktok.com/@unibocconi/) 
-* [Weechat ![Go to Weechat](/sites/default/files/styles/footer_icon/public/footer/icon-menu/wechat_0.png.webp?VersionId=FRgaIyiNDP8YRhT11_6eXSX1g_7X_rks&itok=C_uORqlC "Weechat")](https://weechat.org/) 
+* [Instagram ![Go to Instagram](/sites/default/files/styles/footer_icon/public/footer/icon-menu/instagram_0.png.webp?itok=T4tCicO3 "Instagram")](https://www.instagram.com/unibocconi/) 
+* [Tiktok ![Go to Tiktok](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tiktok.png.webp?itok=d1yjTdEa "Tiktok")](https://www.tiktok.com/@unibocconi/) 
+* [Weechat ![Go to Weechat](/sites/default/files/styles/footer_icon/public/footer/icon-menu/wechat_0.png.webp?itok=C_uORqlC "Weechat")](https://weechat.org/) 
 
 Listen to our podcast
 
 * [Spotify ![Go to Spotify](/sites/default/files/styles/footer_icon/public/footer/icon-menu/spotify.png.webp?itok=uU_88Z0- "Spotify")](https://www.unibocconi.it/en/about-us/podcast) 
 * [Spreaker ![Go to Spreaker](/sites/default/files/styles/footer_icon/public/footer/icon-menu/speaker_pod.png.webp?itok=c6WiDStJ "Spreaker")](https://www.unibocconi.it/en/about-us/podcast) 
-* [Apple podcast ![Go to Apple podcast](/sites/default/files/styles/footer_icon/public/footer/icon-menu/apple_pod.png.webp?VersionId=bHyv2Crp_hnwbTqVP8laBKyFOhOEj.rT&itok=RK16RIy1 "Apple podcast")](https://www.unibocconi.it/en/about-us/podcast) 
+* [Apple podcast ![Go to Apple podcast](/sites/default/files/styles/footer_icon/public/footer/icon-menu/apple_pod.png.webp?itok=RK16RIy1 "Apple podcast")](https://www.unibocconi.it/en/about-us/podcast) 
 
 Bocconi Spheres
 
@@ -368,14 +368,14 @@ Bocconi Spheres
 
 Media center
 
-* [BTV ![Go to BTV](/sites/default/files/styles/footer_icon/public/footer/icon-menu/btv.png.webp?VersionId=8jfdWMxwpPIZBqQxb07zypvDy0jmE72m&itok=euce4HxJ "BTV")](https://bocconitv.it/?key=footer) 
+* [BTV ![Go to BTV](/sites/default/files/styles/footer_icon/public/footer/icon-menu/btv.png.webp?itok=euce4HxJ "BTV")](https://bocconitv.it/?key=footer) 
 * [TL ![Go to TL](/sites/default/files/styles/footer_icon/public/footer/icon-menu/on.png.webp?itok=gyXozZWU "TL")](https://traileoni.it/?key=footer) 
-* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?VersionId=YA9axCUDY6syYJFR_Mt1XSJVsjkmJXuc&itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
+* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
 
 Mobile app
 
 * [yoU@B ![Go to U@B](/sites/default/files/styles/footer_icon/public/footer/icon-menu/uab_3.png.webp?itok=Q4_iyoS6 "U@B")](https://apps.apple.com/us/app/you-b-pro/id1616135031) 
-* [Campus VR ![Go to Campus VR](/sites/default/files/styles/footer_icon/public/footer/icon-menu/campus_58.png.webp?VersionId=1iGLdTprwD2.DnG_eQjVA13UtPG7QnLJ&itok=jwSJr0k2 "Campus VR")](https://apps.apple.com/us/app/bocconi-campus-vr/id1296722313?uo=4) 
+* [Campus VR ![Go to Campus VR](/sites/default/files/styles/footer_icon/public/footer/icon-menu/campus_58.png.webp?itok=jwSJr0k2 "Campus VR")](https://apps.apple.com/us/app/bocconi-campus-vr/id1296722313?uo=4) 
 
 Mobile app
 
