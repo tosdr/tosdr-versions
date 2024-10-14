@@ -29,6 +29,7 @@ Connexion
 
 * En cuisine
     * [Actus food](https://www.marmiton.org/cuisine-rapide/actus-food-tp123982.html)
+    * [L'électroménager en cuisine](https://www.marmiton.org/tout-sur-electromenagers-sc34.html)
     * [Tendance food](https://www.marmiton.org/cuisine-rapide/tendance-tp121939.html)
     * [Cuisine variée au Airfryer](https://www.marmiton.org/tout-sur-electromenagers/airfryer-ssc80.html)
     * [Mieux manger](https://www.marmiton.org/mieux-cuisiner/mieux-manger-tp125264.html)
@@ -36,7 +37,6 @@ Connexion
     * [Bien manger par](https://www.marmiton.org/dossier-bien-manger-par-electrolux)
     * [Promo](https://promo.marmiton.org/)
     * [Accords mets & vins avec Vinatis](https://www.marmiton.org/shopping/decouvrez-vinatis-votre-e-caviste-de-confiance-pour-l-achat-de-vins-en-ligne-s4089602.html)
-    * [L'électroménager en cuisine](https://www.marmiton.org/tout-sur-electromenagers-sc34.html)
 * Mes aides à la cuisine
     * [Table de conversion](https://www.marmiton.org/pratique/table-conversion.aspx)
     * [Mon Frigo](https://www.marmiton.org/recettes)
