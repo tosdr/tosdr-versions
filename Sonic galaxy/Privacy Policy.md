@@ -35,10 +35,10 @@ Google, as a third party vendor, uses cookies to serve ads on this site. Google�
 Recent Updates
 --------------
 
+* [Dry Bowser Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-drybowser/)
 * [Sticks The Badger Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-sticks/)
 * [Sonic Battle Sprite Sheets – Game Boy Advance](https://www.sonicgalaxy.net/sprites-gba-sb/)
 * [Wendy O. Koopa Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-wendykoopa/)
 * [Blaze The Cat Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-blaze/)
-* [Sonic Triple Trouble Sprite Sheets – Sega Game Gear](https://www.sonicgalaxy.net/sprites-gg-stt/)
 
 © 2013- • [Sonic Galaxy.net](https://www.sonicgalaxy.net/) • Division of [Realm of Darkness.net](https://www.realmofdarkness.net/) • [Contact](https://www.sonicgalaxy.net/contact) • [Privacy](https://www.sonicgalaxy.net/privacy) [Frontier Theme](https://ronangelo.com/frontier/)
