@@ -63,7 +63,7 @@ Contracte de serveis de Microsoft
     * Altres Altres
         * [Seguretat i baixades gratuïtes](https://www.microsoft.com/download)
         * [Educació](https://www.microsoft.com/education)
-    * [Tot Microsoft](https://www.microsoft.com/en-us/sitemap.aspx)
+    * [Tot Microsoft](https://www.microsoft.com/en-us/sitemap)
     
 
  Cerca Cerca a Microsoft.com
