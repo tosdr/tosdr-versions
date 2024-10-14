@@ -12,7 +12,7 @@ At Soundtrap for Education, we value the trust of the schools and school distric
 
 The Student Privacy Pledge
 
-Soundtrap for Education is a signatory of the [Student Privacy Pledge](https://www.google.com/url?q=https://studentprivacypledge.org/&sa=D&source=editors&ust=1728882538076466&usg=AOvVaw22wCGR3UddO25bHTlltRdv) (the “Pledge”), an industry standard of privacy principles for providers of K–12 educational services. As part of our commitment to the Pledge, we follow certain core principles with respect to our collection and use of student personal information, including the following:
+Soundtrap for Education is a signatory of the [Student Privacy Pledge](https://www.google.com/url?q=https://studentprivacypledge.org/&sa=D&source=editors&ust=1728903786602960&usg=AOvVaw1jxn7CvDkPoZYC7z3RyJhv) (the “Pledge”), an industry standard of privacy principles for providers of K–12 educational services. As part of our commitment to the Pledge, we follow certain core principles with respect to our collection and use of student personal information, including the following:
 
 * We collect, maintain, use or share student personal information only for purposes for which we were authorized.
 * We disclose clearly in contracts and/or privacy policies what types of student personal information we collect and the purposes for which it is used and shared.
