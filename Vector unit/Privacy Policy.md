@@ -1,5 +1,3 @@
-[\- LIMITED EDITION REZ PLUSH -](https://www.makeship.com/products/rez-plush)
-
 [Home](https://www.vectorunit.com/)
 
 Games
@@ -52,8 +50,6 @@ About
 
 [![Vector Unit](//images.squarespace-cdn.com/content/v1/552d2128e4b0c421d2bebae5/1430187634388-I48CRGCBOJFRY83TI8TE/VectorUnit_logo-transparent.png?format=1500w)](https://www.vectorunit.com/)
 ===============================================================================================================================================================================================
-
-[\- LIMITED EDITION REZ PLUSH -](https://www.makeship.com/products/rez-plush)
 
 [Home](https://www.vectorunit.com/)
 
