@@ -41,32 +41,20 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Ivanka Trump at an event](https://www.women.com/img/gallery/trends-ivanka-trump-has-nailed-with-her-polished-style/intro-1728585306.jpg)](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+*  [![Anne Hathaway at an event](https://www.women.com/img/gallery/anne-hathaway-outfits-that-fell-totally-flat/intro-1728661386.jpg)](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
     [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
     
-    [Trends Ivanka Trump Has Nailed With Her Polished Style](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
-    =======================================================================================================================================
+    [Anne Hathaway Outfits That Fell Totally Flat](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
+    ======================================================================================================================
     
-    Ivanka Trump has embraced some fun, flirty styles since leaving the White House. Her post-politics outfits nail recent trends like monochromatic looks.
+    Anne Hathaway has rocked some fabulous red carpet looks over the years, but she's not always as fashionable as her characters. Here are outfits that fell flat.
     
-    By Bernadette Roe [Read More](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+    By Bernadette Roe [Read More](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
     
-* *  [![Suri Cruise posing](https://www.women.com/img/gallery/suri-cruises-style-has-totally-transformed-over-the-years/intro-1727979833.jpg)](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-        
-        ### [Suri Cruise's Style Has Totally Transformed Over The Years](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
-        
-        Suri Cruise, one of the most photographed celebrity tots in the world, started life in dresses and bows, but her style has totally transformed since the 2000s.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
-        
-    *  [![A woman in a skirt and jacket](https://www.women.com/img/gallery/wrong-jacket-theory-is-the-perfect-way-to-upgrade-your-fall-winter-outfits/intro-1728582522.jpg)](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
+* *  [![A woman in a skirt and jacket](https://www.women.com/img/gallery/wrong-jacket-theory-is-the-perfect-way-to-upgrade-your-fall-winter-outfits/intro-1728582522.jpg)](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -78,10 +66,46 @@
         
         By Bernadette Roe [Read More](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
         
+    *  [![Woman reading drinking tea](https://www.women.com/img/gallery/the-best-christmas-rom-com-books-of-the-2020s-so-far/intro-1728423261.jpg)](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Bernadette Roe
+        
+        ### [The Best Christmas Rom-Com Books Of The 2020s (So Far)](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
+        
+        All types of books can feed the mind, but there's something truly indulgent about escaping into a wintry romance novel that feeds the soul.
+        
+        By Bernadette Roe [Read More](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
+        
 
 More Stories
 ------------
 
+*  [![Ivanka Trump at an event](https://www.women.com/img/gallery/trends-ivanka-trump-has-nailed-with-her-polished-style/intro-1728585306.jpg)](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Trends Ivanka Trump Has Nailed With Her Polished Style](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+    
+    Ivanka Trump has embraced some fun, flirty styles since leaving the White House. Her post-politics outfits nail recent trends like monochromatic looks.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+    
+*  [![Suri Cruise posing](https://www.women.com/img/gallery/suri-cruises-style-has-totally-transformed-over-the-years/intro-1727979833.jpg)](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Suri Cruise's Style Has Totally Transformed Over The Years](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
+    
+    Suri Cruise, one of the most photographed celebrity tots in the world, started life in dresses and bows, but her style has totally transformed since the 2000s.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
+    
 *  [![Kristen Stewart at an event](https://www.women.com/img/gallery/5-kristen-stewart-looks-that-bella-swan-wouldve-hated/intro-1728592311.jpg)](https://www.women.com/1685585/kristen-stewart-looks-bella-swan-twilight-would-hate/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -381,30 +405,6 @@ More Stories
     TV presenter and actor Kelly Ripa is generally known for her timeless style, but on occasion, she's worn a few outfits that had us shaking our heads.
     
     By Emily Hutchinson [Read More](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
-    
-*  [![Kylie Jenner posing](https://www.women.com/img/gallery/kylie-jenners-style-transformation-from-blue-hair-to-british-vogue/intro-1727285832.jpg)](https://www.women.com/1673379/kylie-jenner-style-transformation-from-blue-hair-british-vogue/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Kylie Jenner's Style Transformation From Blue Hair To British Vogue](https://www.women.com/1673379/kylie-jenner-style-transformation-from-blue-hair-british-vogue/)
-    
-    Kylie Jenner's 2024 British Vogue cover marks a significant change from her ultra-glam, grungy, and girly looks of years past.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1673379/kylie-jenner-style-transformation-from-blue-hair-british-vogue/)
-    
-*  [![Taylor Swift performing](https://www.women.com/img/gallery/taylor-swifts-best-halloween-costumes-from-comfy-to-comic-book/intro-1727451431.jpg)](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Taylor Swift's Best Halloween Costumes From Comfy To Comic Book](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
-    
-    We look to Taylor Swift for everything from book recs to Instagram captions. So why wouldn't we look to her for Halloween costume ideas?
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1675153/taylor-swift-best-halloween-costumes-from-comfy-to-comic-book/)
     
 
 Back
