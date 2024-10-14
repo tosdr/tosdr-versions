@@ -31,6 +31,127 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+El reto de definir una visión de país en elecciones
+===================================================
+
+El CNEha calificado a 16 binomios, lo que refleja una diversidad de opciones, pero también la fragmentación del espectro político
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen creada con inteligencia artificial con el prompt: un político habla a sus votantes.](https://www.elcomercio.com/wp-content/uploads/2024/10/Untitled-design-22.jpg)
+
+El escenario político de cara a las elecciones generales de 2025 en Ecuador pinta un **panorama complejo**, no solo por la cantidad de binomios presidenciales, sino también por la falta de claridad en sus propuestas[.](https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025 "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025")
+
+El Consejo Nacional Electoral (CNE) ha calificado a **16 binomios**, lo que refleja una diversidad de opciones, pero también la fragmentación del espectro político. Con solo algunos meses antes de los comicios, las duplas tienen el **desafío de articular un discurso coherente** que aborde los problemas urgentes del país.
+
+> Lo más preocupante es que un gran porcentaje de los binomios todavía no tiene una línea discursiva clara, lo que podría resultar en una campaña superficial y llena de lugares comunes.
+
+Uno de los temas que más apremia a los ecuatorianos es la inseguridad. En un país donde los índices de violencia se han disparado en los últimos años, no es sorprendente que la ciudadanía exija **soluciones** **concretas**. Sin embargo, lo que se ha observado hasta el momento en la mayoría de las candidaturas es una retórica vacía que no va más allá de las **críticas al gobierno**. Esto no es suficiente para garantizar un cambio estructural. ¿Qué están proponiendo los candidatos en términos de seguridad? Hasta ahora, poco o nada.
+
+A esto se suma una crisis energética. Las **políticas energéticas** de los últimos años no han logrado estabilizar un sistema que requiere inversión y planificación a largo plazo. El enfoque debe estar en **soluciones viables** y sostenibles que integren tanto al sector público como al privado.
+
+Otro aspecto que merece atención es el empleo, un tema que parece haber quedado relegado a un segundo plano en medio del **bullicio electoral**. El Ecuador enfrenta una alta tasa de desempleo y subempleo, lo que afecta especialmente a los jóvenes. Las promesas de **reactivación económica** han sido vagas y, al igual que en la seguridad, no se ha visto una propuesta robusta que incluya la creación de nuevas oportunidades laborales a través de la innovación y el emprendimiento.
+
+Lo más preocupante es que un gran porcentaje de los binomios todavía no tiene una línea discursiva [clara](https://www.elcomercio.com/elecciones/16-binomios-presidenciales-tienen-posturas-dispersas-elecciones-2025.html "https://www.elcomercio.com/elecciones/16-binomios-presidenciales-tienen-posturas-dispersas-elecciones-2025.html"), lo que podría resultar en una **campaña superficial** y llena de lugares comunes. Si bien el CNE tiene hasta el 30 de diciembre para publicar la lista definitiva de candidaturas, la pregunta que persiste es: ¿qué clase de debate podemos esperar cuando la mayoría de los candidatos no han presentado propuestas concretas?
+
+En las [elecciones](https://www.elcomercio.com/actualidad/politica/donde-votar-elecciones-2025.html "https://www.elcomercio.com/actualidad/politica/donde-votar-elecciones-2025.html") de 2025, más que nunca, **el país necesita liderazgo**, pero no uno basado en promesas vacías, sino en ideas y planes sólidos que puedan ejecutarse en un contexto de crisis múltiple. A medida que se acerca el 9 de febrero, las duplas que aspiran a gobernar Ecuador deben ser capaces de comunicar de manera efectiva cómo enfrentarán los **desafíos del futuro**.
+
+Cartas a Quito / 14 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este lunes 14 de octubre de 2024
+----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+La ordenanza verde azul y el Valle de Uravía
+--------------------------------------------
+
+La Ordenanza Metropolitana no. 060 – 2023, más conocida como la ordenanza “Verde-Azul”, fue aprobada por el Concejo Metropolitano de Quito, el 4 de julio de 2023, a raíz de la sentencia dictada dentro de la acción de protección no. 2167-21-EP/22, seguida a favor del Río Monjas, en contra del Municipio del Distrito Metropolitano de Quito
+
+Dicha sentencia dispuso como reparación integral, entre otras, el establecimiento de un marco normativo encaminado a establecer los principios y las reglas que se deben considerar para revertir la situación, lo que condujo a la aprobación de la ordenanza Verde – Azul.
+
+En la exposición de motivos de la ordenanza, se dice textualmente lo siguiente: “Se deja sentado que se requiere tener en cuenta los derechos desarrollados en la sentencia, para que la cuenca del río Monjas y otras cuencas semejantes en el Distrito Metropolitano de Quito se restauren y sean tratadas de forma integral. Para el efecto, se determinó que se elabore una ordenanza “verde-azul”, bajo la coordinación de la Secretaría de Ambiente, con la asesoría y participación de las entidades y dependencias metropolitanas que correspondan.”
+
+Esto es, el propio Concejo Metropolitano ha reconocido la obligatoriedad del precedente constitucional sobre el caso del Río Monjas y la fuerza vinculante de dicho precedente para otros casos similares. Actuar de manera diferente, sería incurrir en un grave incumplimiento de la sentencia constitucional antes citada, con todos los riesgos que eso implica, que incluso podrían llevar a la destitución de la máxima autoridad municipal y de la totalidad de los concejales.
+
+Habiendo transcurrido más de un año de su aprobación, la ordenanza Verde -Azul ha quedado en una simple declaración de “buenas intenciones”, ya que, en la práctica, es “letra muerta”, porque ninguna de las nueve disposiciones transitorias que se dictaron, han sido cumplidas dentro de los términos previstos en la ordenanza, justamente por la negligencia y “quemeimportismo” del propio municipio capitalino.
+
+Por citar un ejemplo, la disposición tercera, dice: ”En el término de doscientos setenta (270) días contados a partir de la fecha de sanción de la presente ordenanza, la autoridad ambiental distrital elaborará el Plan Estratégico Ambiental Integral en los Ríos y Quebradas de Quito.“
+
+Recién en estos días – como vulgarmente se dice, “más vale tarde que nunca” – las autoridades municipales han invitado a la ciudadanía a participar en un denominado  “Taller Diagnóstico Participativo para la Elaboración de: Plan Estratégico de Ríos y Quebradas y el Plan de Manejo de Microcuencas del DMQ”.
+
+A pesar de la vigencia de la ordenanza Verde – Azul, que protege integralmente las microcuencas, ríos y quebradas del Distrito Metropolitano de Quito (DMQ), la Empresa Metropolitana de Agua Potable y Saneamiento (EPMAPS), en flagrante violación del precedente jurisprudencial contenido en la sentencia constitucional no. 2167-21-EP/22 sobre el Río Monjas y aplicable a todos los ríos del DMQ, continúa realizando los estudios para la pretendida construcción de una planta de tratamiento de aguas residuales (PTAR) en la microcuenca hidrográfica del valle de Uravía, parroquia de Checa.
+
+El Río Uravía, como parte vital de la naturaleza, – al igual que el Río Aquepi en la Provincia de Santo Domingo de los Tsáchilas, el Río Monjas en la ciudad de Quito, el Bosque Protector Los Cedros en Cotacachi-Imbabura, y el Río Machángara en  esta ciudad -,  es sujeto y titular de los derechos reconocidos a la naturaleza y tiene derecho a que se respete integralmente su existencia y el mantenimiento y regeneración de sus ciclos vitales, estructura, funciones y procesos evolutivos, conforme establece el art. 71 de nuestra Constitución.
+
+Alfonso López J.
+
+1954 como si fuese 2024, “pero condenado y al explotar”
+-------------------------------------------------------
+
+Jesús o Isha pasó años en el Tíbet y la India, los R. Magos de Oriente sabían de su venida y no Occidente. Kirpal Singh: <La humanidad tendrá que aprender a un altísimo costo, sus diferencias los llevarán a la destrucción, todos quieren paz, pero se preparan para la guerra con ingentes recursos. Cuando llegue la destrucción se extenderá por todo el mundo con las bombas. Hay antagonismo entre clase y clase, país y país y se busca dominar a los demás. Los actos “obscuros” aumentan día a día y se ha vuelto imposible para un ser humano correcto vivir en el mundo> En su pequeño libro de 1954, ¡Hombre, Conócete a ti Mismo!, el prólogo de B. Sena: <Mediante un gran esfuerzo de siglos, el hombre ha logrado en gran medida controlar las Fuerzas de la Naturaleza y ponerlas a su servicio. Pero lamentablemente, debido a que este control ha llegado antes de obtener el Autoconocimiento: conocer su Ser o Alma (y a Dios Padre), y su convivencia con la humanidad. Todo lo que descubrió e inventos diseñados para el servicio de la humanidad, se han vuelto en destrucción y devastación. Dejando de lado sus ideas íntimas por la paz, siembra sin darse cuenta las semillas del odio, la diferencia de clases, la discriminación racial, las pasiones y prejuicios nacionales y la discordia mundial. Y la “Paz del Mundo” por falta de un entendimiento adecuado, hoy pende de un hilo muy delgado. Las injusticias sociales y las desigualdades económicas han hecho que la gente sea escéptica de Dios y tengan desconfianza. La “paz con las armas”, el miedo perpetuo y la impotencia en que vivimos no es un estado ideal. Deseamos una paz viva, basada en el amor fraterno y la buena voluntad, la confianza y respeto como hijos del mismo Padre Supremo.> Obscuros, extremistas, fundamentalistas y vendidos de derecha explotan al “Mundo Libre Democrático y la Familia y la Fe en Dios Padre”.   
+
+Juan Carlos Cobo Rueda
+
+Humanismo, solidaridad, patriotismo
+===================================
+
+Limpiemos la corrupción pública y privada que enmaraña y obstaculiza el indispensable desarrollo de un Sistema Nacional de Salud.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+La **vida** de los **seres humanos** depende fundamentalmente del goce pleno de **salud**. Las d**iferencias económicas y sociales** no deben ser determinantes para que unos **seres humanos** puedan acceder a tratamientos médicos y otros no. 
+
+Nuestra **patria** pequeña ha sido maltratada constantemente, salvo contadas **excepciones**, por poderes sedientos de **fortunas arrebatadas** a todo el **pueblo**, con el pretexto de la realización de **grandes contratos** y obras inmensamente sobrevaloradas, con presupuestos iniciales, sorpresivamente superados, en **suculentas cifras**, en obras muchas veces mal concluidas. El **erario nacional** se ha debilitado tanto que la crisis, en que se halla sumido el país, afecta a la **seguridad**, al **empleo**, a la **educación** y sobre todo a la salud, de manera casi **catastrófica**.
+
+Duele mucho contemplar a inmensas **mayorías populares**, de **trabajadores** y **jubilados**, que concurren a **servicios públicos y del IESS**, en búsqueda de una solución a sus **enfermedades** y se encuentran con la triste realidad de una enorme **carencia** de **medicamentos** e **insumos**. El Congreso Nacional en el 2002 aprobó la **Ley Orgánica del Sistema Nacional de Salud**, misma que fue reglamentada en el Gobierno del Presidente Gustavo Noboa. No se la ha aplicado, pero han existido intentos de iniciarla y se han creado redes para la atención a **pacientes de los hospitales** del Ministerio de Salud, del IESS, del ISSFA, del ISSPOL, del **Seguro Social Campesino,** en **intervenciones** y **procedimientos** que no  se pueden efectuar en esas **instituciones públicas**, que carecen de los **equipos** o del **personal preparado**; pero que se realizan en **Centros Privados** especializados y bien dotados como SOLCA, **hospitales privados**, c**entros de diálisis y de altas especialidades intervencionistas**. Las redes han funcionado y han permitido que miles de pacientes pobres hayan recibido **tratamientos** muy complejos y costosos, en los últimos años, dando luz a la esencia del **Sistema Nacional de Salud** que preconiza que todo centro, al que se transfieran los pacientes de otras **instituciones**, tiene la **obligación** de recibirlos y tratarlos, para posteriormente **intercambiar costos**, de acuerdo a tarifarios señalados previamente y correctamente auditados. Desgraciadamente, el IESS, principalmente, y el **Ministerio de Salud,** han retardado las auditorías y han dejado de cumplir con los pagos a los **prestadores de la atención**, ocasionándoles tantos problemas de subsistencia que algunos han quebrado y otros, que atraviesan serias **dificultades económicas**, se han visto obligados a no atender a pacientes de la **red pública y del IESS**. Estas irregularidades han dado pábulo al aparecimiento de brotes de **corrupción**, ya en las **instituciones remitentes**, ya entre los prestadores. Son repugnantes las estafas de **contados gerentes** y propietarios de conocidos y desprestigiados **servicios hospitalarios**, que se han enriquecido ilícitamente apropiándose de todo el dinero que han cancelado parcial y retardadamente los **derivadores hospitalarios**, sin cumplir con el pago de **honorarios a los médicos** que han realizado los **procedimientos**, ni tampoco a las casas que venden y proveen los **insumos de elevada tecnología**, indispensables para llevar a cabo esas intervenciones.
+
+El país necesita **evolucionar**, cambiar la mente de sus **ciudadanos**, especialmente de los jóvenes que han crecido en un **ambiente viciado** por el mal ejemplo de **políticos** y de gente inescrupulosa que han abusado del poder para **enriquecerse** de manera **fraudulenta** en muy corto tiempo. Es imprescindible y urgente rescatar y dar **vigencia** a **valores morales y éticos** que enrumben a una nueva **sociedad**, de la que puedan **enorgullecerse** y formar parte **nuestros descendientes**. No debemos olvidar que el mayor valor de una nación es el **ser humano** y la esencia de la vida del ser humano es l**a salud mental y física**, prioricemos todos los **esfuerzos** por vencer el **desorden, la politiquería, los gritos** y afanes sectarios y absurdos que colman el tiempo de la Asamblea incapaz de elaborar leyes de beneficio nacional y respondamos al **clamor** de los **compatriotas enfermos** que ruegan por recobrar y mantener la **salud**, que es un **derecho** humano del pobre, del rico, del niño, del viejo, del hombre y de la mujer… de todos. Limpiemos la **corrupción** **pública** y privada que enmaraña y obstaculiza el indispensable desarrollo de un **Sistema Nacional de Salud** que proteja a los **ecuatorianos sanos y enfermos**.
+
+El consumo de los hogares en Ecuador cae; estas son las implicaciones en la economía
+====================================================================================
+
+En el segundo trimestre de 2024, el consumo de los hogares en Ecuador cayó un 2,2% en comparación con el mismo periodo del año anterior.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![El consumo de los hogares cayó 2,2% en el segundo semestre del 2024. El descenso en el consumo afecta tanto a las familias como a la economía en general. Foto: Archivo](https://www.elcomercio.com/wp-content/uploads/2024/10/consumo.jpg)
+
+En el segundo trimestre de 2024, el consumo de los hogares en Ecuador cayó un 2,2% en comparación con el mismo periodo del año anterior. Esta reducción, según datos del Banco Central del Ecuador (BCE), forma parte de una **desaceleración económica** que también afectó al Producto Interno Bruto (PIB). Este se contrajo un 2,2% entre abril y junio de 2024[​](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [La economía de Ecuador cayó, ¿por qué decreció?](https://www.elcomercio.com/actualidad/negocios/economia-ecuador-cayo-por-que-decrecio.html "La economía de Ecuador cayó, ¿por qué decreció?")
+* [Generadores eléctricos pagan menos impuestos y aranceles en Ecuador](https://www.elcomercio.com/actualidad/negocios/generadores-electricos-pagan-menos-impuestos-y-aranceles-en-ecuador.html "Generadores eléctricos pagan menos impuestos y aranceles en Ecuador")
+* [Ecuador busca cambiar la matriz energética para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-cambiar-matriz-energetica-evitar-cortes-luz.html "Ecuador busca cambiar la matriz energética para evitar cortes de luz")
+
+El consumo en los hogares
+-------------------------
+
+Según el Informe de Cuentas Nacionales del BCE, la demanda de productos **textiles, calzado**, así como de servicios de **comercio, transporte, alojamiento y alimentación** disminuyó notablemente en el segundo trimestre del 2024.
+
+Esto afectó al **sector comercial**, cuyas **ventas minoristas** cayeron en rubros como combustibles, productos farmacéuticos y ferretería​. Además, las **importaciones** de bienes de consumo duradero se redujeron en un 12,7%, lo que muestra un **debilitamiento** en la demanda de productos de larga duración, como electrodomésticos, muebles, vehículos, entre otros.
+
+El consumidor ecuatoriano
+-------------------------
+
+El consumidor ecuatoriano ha demostrado una notable capacidad de adaptación, consolidándose como uno de los más resilientes de la región, según **Diego Gizzi**, director de Retail de Dichter & Neira. Actualmente, los hábitos de consumo han cambiado significativamente, agregó.
+
+Por ejemplo, el canal tradicional (tiendas), que representa el 65% del **consumo en el paí**s, experimentó una caída del 18% en los dos primeros trimestres de 2024, evidenciando una tendencia hacia la **cautela y el ahorro** en el gasto diario.
+
+En comparación con el trimestre anterior, el consumo de los hogares cayó un 0,05%, lo que sugiere una tendencia de **contracción sostenida**. Esto está vinculado a la reducción en el **acceso al crédito** y la caída en la compra de bienes duraderos.
+
+Caída del crédito de consumo
+----------------------------
+
+El crédito al consumo también **registró una disminución**. Durante el segundo trimestre de 2024, los créditos otorgados por el Sistema Financiero Nacional (SFN) bajaron un 2,4% en monto y un 3% en número de operaciones. Esto indica que las familias ecuatorianas están **limitando su endeudamiento** y concentrándose en mantener gastos esenciales.
+
+Además, los recientes cortes de luz en el país han agravado la situación. El 66% de los tenderos ecuatorianos reportan que los **apagones han afectado negativamente sus ventas**, y solo 2 de cada 10 están preparados para afrontar estos desafíos, por ejemplo, con generadores propios.
+
+Esto no solo afecta a los comerciantes, sino que también limita las opciones de los consumidores, quienes dependen de estos puntos de venta para su abastecimiento cotidiano.
+
+Así, el descenso en el consumo afecta tanto a las **familias como a la economía en general**, ya que representa un componente crucial del PIB. La recuperación dependerá de la capacidad del Gobierno para estabilizar el **empleo** y fomentar la **inversión**, factores clave para **reactivar el consumo interno​.**
+
 La av. Mariana de Jesús será intervenida por 15 días; conozca las rutas alternas
 ================================================================================
 
@@ -381,8 +502,8 @@ Según datos oficiales, la acción policial evitó que más de 5,2 millones de d
 
 Ecuador está catalogado como el tercer país en el mundo que más droga decomisa, detrás de Colombia y Estados Unidos. Según registros, de los tres últimos años se han incautado de 200 toneladas de estupefacientes, mientras que acumula 149 toneladas en el primer semestre de 2024.
 
-La Selección de Ecuador sub-15 perdió y espera resultados
-=========================================================
+La Selección de Ecuador sub-15 perdió, pero se clasificó
+========================================================
 
 La Selección de Ecuador sub-15 cerró su participación en el Sudamericano en Bolivia con 5 puntos.
 -------------------------------------------------------------------------------------------------
@@ -427,19 +548,20 @@ La goleada 0-4 de la **‘Vinotinto’ se concretó a los 52 minutos del segundo
 > 
 > — CONMEBOL.com (@CONMEBOL) [October 13, 2024](https://twitter.com/CONMEBOL/status/1845601014478442830?ref_src=twsrc%5Etfw)
 
-Ecuador espera resultados
--------------------------
+Ecuador se clasificó para las semifinales
+-----------------------------------------
 
-Antes de esta jornada, **Ecuador dependía de sus propios resultados** para clasificarse a las semifinales, pero la derrota los deja a la espera de lo que puedan hacer Argentina y Brasil en el último partido del grupo B.
+Antes de esta jornada, **Ecuador dependía de sus propios resultados** para clasificarse a las semifinales, pero la derrota lo dejó a la espera de lo que puedan hacer Argentina y Brasil en el último partido del grupo B.
 
-La tabla de posiciones está liderada por **Argentina, ya clasificada, con 7 puntos** y un gol diferencia  
-positivo de +2.
+Argentinos y brasileños empataron 1-1 y ese resultado benefició a la Tri que se metió entre los cuatro mejores. La ‘Albiceleste’ ganó el grupo con 8 puntos y un gol diferencia positivo de +2.
 
 Ecuador se quedó en el **segundo puesto con 5 puntos y un gol diferencia negativo de -3**. Su campana se resume en dos empates (vs. Uruguay 1-1 y vs. Argentina 2-2), una victoria (vs. Brasil 2-1) y una derrota (vs. Venezuela 0-4).
 
-Brasil es **tercera con 4 putos y un gol diferencia positivo de +2**. El único resultado que les sirve para avanzar de ronda en la victoria. Un empate o una derrota favorecerá a Ecuador que espera por el milagro.
+Brasil fue **tercera con 5 putos y un gol diferencia positivo de +2**, pero la ventaja para los tricolores fue haberle ganado a la ‘Verdeamarela’ en el duelo directo.
 
 La tabla de se completa con Venezuela que alcanzó 4 puntos y un gol diferencia de 0, mientas que Uruguay descendió al quinto y último puesto con 3 unidades y un gol diferencia negativo de -1.
+
+Para el miércoles 16 están programadas las semifinales entre **Argentina vs. Paraguay y Chile vs. Ecuador**.
 
 ![Foto: La Tri.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_venezuela_juvenil_1-1024x683.jpg)
 
@@ -911,212 +1033,3 @@ Esta disposición está diseñada para garantizar el descanso de los trabajadore
 El calendario de feriados nacionales está establecido por el **Registro Oficial Número 906 – Suplemento del 20 de diciembre de 2016**, que detalla las fechas y las disposiciones legales para el traslado de los días de descanso.
 
 Ecuador se prepara así para los últimos feriados de 2024, que ofrecerán oportunidades de descanso conforme a lo estipulado en la normativa vigente​.
-
-Las 33 selecciones eliminadas rumbo al Mundial 2026
-===================================================
-
-Son 33 las selecciones que ya no podrán jugar el Mundial 2026 y deberán esperar hasta el 2023 para lograrlo.
-------------------------------------------------------------------------------------------------------------
-
-![Trofeo de la Copa Mundial de la FIFA.](https://www.elcomercio.com/wp-content/uploads/2024/05/eliminatorias_mundial_2026.jpg)
-
-Las eliminatorias al Mundial 2026, que será **organizado por Canadá, Estados Unidos y México**, están  en marcha con las 211 selecciones afiliadas a la FIFA en franca competencia para lograr una de las 48 plazas disponibles.
-
-Aunque el número de plazas se incrementó, **existe un grupo de 33 selecciones** que ya fueron eliminadas, no estarán presentes en el Mundial 2026 y deberán esperar hasta el 2030 para intentar inscribir su nombre en la competencia.
-
-### Más noticias:
-
-* [(Video) Impactante accidente detiene el GP de Mónaco](https://www.elcomercio.com/deportes/formula-1/accidente-monaco-formula1-sergio-perez.html "(Video) Impactante accidente detiene el GP de Mónaco")
-* [Antonio Álvarez sigue como presidente de Barcelona SC](https://www.elcomercio.com/deportes/futbol/antonio-alvarez-presidente-barcelona-guayaquil.html "Antonio Álvarez sigue como presidente de Barcelona SC")
-
-Las selecciones eliminadas pertenecen 28 a la **Confederación Asiática de Fútbol** (AFC por sus siglas en inglés); dos a la Confederación de Norteamérica, Centroamérica y el Caribe de Fútbol (Concacaf); y tres a la Confederación de Fútbol de Oceanía (OFC por sus siglas en inglés).
-
-Mongolia, Maldivas, Guam, Sri Lanka, Macao, Camboya, Timor Oriental, Brunéi, Bután, Laos,  
-India, Afganistán, Siria, **Birmania, Tailandia, Singapur, Malasia**, China Taipéi, Turkmenistán,  
-Hong Kong, Vietnam, Filipinas, Tayikistán, Pakistán, Yemen, Nepal, Líbano, Bangladés, fueron eliminadas en la AFC.
-
-Según explica la FIFA, la primera ronda **concluyó el 17 de diciembre de 2023**. Los 20  equipos peor clasificados disputaron 10 eliminatorias de ida y vuelta a dos partidos, y los ganadores se unieron a otras 26 naciones en la segunda ronda.
-
-En esta etapa las **36 selecciones se dividen en nueve grupos** de cuatro selecciones cada uno. Pero eso no es todo. Los combinados que sigan en competencia aún tendrán que superar tres rondas más para llegar al Mundial.
-
-Esta etapa se llevó a cabo del 16 de noviembre de 2023 al 11 de junio de 2024. 18 siguen en competencia.
-
-![Foto: Facebook FIFA.](https://www.elcomercio.com/wp-content/uploads/2024/05/fifa_eliminadas_1-1024x683.jpg)
-
-Foto: Facebook FIFA.
-
-Las selecciones eliminadas de la Concacaf
------------------------------------------
-
-Las Islas Vírgenes de los Estados Unidos e Islas **Turcas y Caicos** ya fueron eliminadas.
-
-En marzo de 2024 se jugaron partidos a ida y vuelta. Los ganadores anotaron su nombre en la segunda ronda.
-
-Ahí un total de **30 equipos de Concacaf** competirán en seis grupos de cinco equipos.
-
-Cada país jugará, según la FIFA, **dos partidos en casa y dos fuera de casa**. Los ganadores y subcampeones de grupo (12 equipos en total) pasarán a la ronda final.
-
-El partido inaugural del Mundial 2026 será el 11 de junio en el **estadio Azteca de Ciudad de México**, mientras que la gran final se disputará el 19 de julio en el MetLife Stadium, de Nueva Jersey.
-
-Las selecciones eliminadas de Oceanía
--------------------------------------
-
-La FIFA destaca que por primera vez **Oceanía tiene asegurado un cupo directo para jugar una Copa del Mundo**. Se suma que puede lograr una segunda plaza con el medio cupo que tiene para disputar el repechaje.
-
-Las rondas preliminares de las eliminatorias se llevaron a cabo en setiembre de 2024. Luego vendrán una segunda ronda y, **finalmente, en marzo de 2025 se llevarán a cabo las semifinales**.
-
-Los ganadores disputarán las finales para determinar al seleccionado que irá directamente al Mundial y cuál a la repesca.
-
-Al momento, **Samoa Americana, Islas Cook y Tonga** son las tres eliminadas.
-
-Calendario de Ecuador en las eliminatorias
-------------------------------------------
-
-Las eliminatorias sudamericanas para la selección **Ecuador se reanudaron el 6 de septiembre** con una derrota 1-0 en su visita a Brasil en Curitiba, en el debut de Sebastián Beccacece como su nuevo entrenador.
-
-El 10 recibió a Perú en el Rodrigo Paz Delgado y le ganó 1-0 con un tanto de Enner Valencia.
-
-El 10 de octubre la Tri volvió a **ser local ante Paraguay** y empató 0-0 en lo que fue el regreso al país del Gustavo Alfaro, su antiguo DT.
-
-El 15 de octubre el **cruce será ante Uruguay** en Montevideo. Este será el primer compromiso como parte de la segunda rueda de este largo camino al próximo Mundial.
-
-El 14 de noviembre el turno es para que **Ecuador sea el anfitrión de Bolivia**. Para esta jornada abandonará Quito y se mudará a Guayaquil para jugar en el Monumental de Barcelona Sporting Club.
-
-El 19 de noviembre está programado el último choque de Ecuador de este 2024 en eliminatorias. Tiene que ir al **Metropolitano de Barranquilla** para enfrentarse a la complicada Colombia.
-
-Al momento la selección de **Ecuador es quinta en la tabla de posiciones** con 12 puntos y un gol diferencia positivo de +2.
-
-El líder es Argentina que tiene 19, Colombia es segunda con 16, Uruguay ocupa la tercera casilla con 15, Brasil asoma cuarta con 13, y la sorprende Bolivia es sexta con 12
-
-Hay que recordar que las **seis primeras selecciones de la Conmebol** clasificarán directamente al Mundial 2026. La séptima disputará un repechaje.
-
-![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/05/fifa_eliminadas_2-1024x683.jpg)
-
-Foto: Diego Pallero / EL COMERCIO.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Brasil anuncia subsidio para los 100 000 pescadores afectados por la sequía
-===========================================================================
-
-Pescadores del estado de Rondonia, en la frontera con Bolivia, expresaron recientemente a su preocupación por la falta de pesca.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Fotografía de la Amazonía brasileña.](https://www.elcomercio.com/wp-content/uploads/2024/10/amazonia-brasil-efe-octubre-.jpg)
-
-El [Gobierno de Brasil](https://www.elcomercio.com/actualidad/mundo/impactos-sequias-colombia-bolivia-mexico-chile.html "https://www.elcomercio.com/actualidad/mundo/impactos-sequias-colombia-bolivia-mexico-chile.html") anunció un subsidio de **2 824 reales (unos 512 dólares)** para los cerca de **100 000 pescadores** afectados por la histórica sequía que padece la Amazonía.
-
-### Más noticias
-
-* [Brasil busca que sus empresas incorporen la sostenibilidad](https://www.elcomercio.com/actualidad/mundo/brasil-busca-empresas-incorporen-sostenibilidad.html "Brasil busca que sus empresas incorporen la sostenibilidad ")
-* [Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?](https://www.elcomercio.com/actualidad/ecuador/sequia-afecta-hidroelectricas-cortes-luz.html "Sequía afecta a hidroeléctricas y obliga a cortes de luz, ¿qué se espera?")
-* [Impacto de los incendios en países de América Latina](https://www.elcomercio.com/actualidad/mundo/impacto-incendios-paises-america-latina.html "Impacto de los incendios en países de América Latina")
-
-El Ejecutivo prevé el desembolso de un total de **300 millones de reales** con estos apoyos, que equivalen a dos salarios mínimos por persona y que complementarán el subsidio que los pescadores reciben por la veda que prohíbe esta actividad durante algunos meses del año.
-
-La medida, publicada en el **Diario Oficial de la Unión**, contemplará los alrededor de 100 municipios de la región norte de Brasil que decretaron la situación de calamidad o de emergencia debido a la sequía.
-
-Pescadores del estado de Rondonia, en la frontera con Bolivia, expresaron recientemente a su preocupación por la falta de pesca ante la disminución a **mínimos históricos del río Madeira**, uno de los mayores afluentes del Amazonas.
-
-Relatos de pescadores
----------------------
-
-La sequía imposibilitó la pesca desde el mes de mayo, cuando lo normal era que esta actividad parase a partir de julio, según relataron los pescadores.
-
-Además, la disminución del creó grandes bancos de arena y aisló a muchas comunidades ribereñas que tienen el río como única vía de comunicación con su entorno.
-
-El Negro, otro importante afluente del Amazonas, también batió un mínimo histórico la semana pasada a su paso por la ciudad de Manaos, al superar la marca registrada en la sequía del año pasado.
-
-Tras pasar por el mes de septiembre más caluroso de los últimos 63 años, el Instituto Nacional de Meteorología prevé que la mayor parte de **Brasil termine el año con temperaturas superiores** a la media histórica y un nivel menor de precipitaciones.
-
-El 58 % del territorio brasileño se encuentra en situación de sequía, según el Gobierno.
-
-Shakira rompe nuevo récord con el video de su sencillo Soltera
-==============================================================
-
-Shakira reafirma su estatus como una de las artistas más influyentes a nivel global.
-------------------------------------------------------------------------------------
-
-![El videoclip fue realizado en Miami. Foto: Instagram Shakira](https://www.elcomercio.com/wp-content/uploads/2024/10/Soltera1.jpg)
-
-  
-**Shakira** vuelve a hacer historia con el lanzamiento de su nuevo **videoclip Soltera**. Este alcanzó más de 6.5 millones de visualizaciones en menos de 24 horas. Este éxito consolida a la **cantante colombiana** como una de las artistas más influyentes en **plataformas digitales**.
-
-### Más noticias
-
-* [El orden definitivo para disfrutar del universo de Shrek](https://www.elcomercio.com/afull/el-orden-definitivo-para-disfrutar-del-universo-de-shrek.html)
-* [Lo que ‘dos pedazos de esponja’ pueden causar en la imagen personal](https://www.elcomercio.com/tendencias/hombreras-imagen-personal-moda.html)
-* [Michelle Obama y su elección de moda en la DNC](https://www.elcomercio.com/afull/michelle-obama-moda-convencion-nacional-democrata.html?source=Internal&ref=Single+Content+Link)
-
-  
-Shakira domina YouTube con Soltera
--------------------------------------
-
-El video muestra a **Shakira** en una faceta **divertida y despreocupada**, acompañada de figuras destacadas como Winnie Harlow, Natti Natasha, Anitta y Lele Pons. Realizado en Miami, el videoclip ha causado **sensación entre sus seguidores** por su mensaje de empoderamiento y su vibrante producción.
-
-**Shakira**, que recientemente se ha convertido en un **ícono del feminismo musical**, ha utilizado este tema para hablar sobre **la libertad y la soltería**. Soltera sigue la línea de sus recientes éxitos, enfocándose en su **vida personal** tras su separación del exfutbolista Gerard Piqué.
-
-  
-El impacto global de Soltera
--------------------------------
-
-El videoclip fue grabado en el club LIV de Miami, uno de los lugares más exclusivos de la ciudad, cuenta con una producción que **resalta la alegría y la camaradería entre mujeres**. En apenas unas horas, Soltera rompió el **récord del debut** más visto para un video latino en solitario en 2024, posicionándose como uno de los **grandes éxitos del año**.
-
-Este nuevo logro se suma a la impresionante **carrera de Shakira**, quien ha demostrado ser una pionera en la **música latina**. Con una base de fanáticos que la apoya incondicionalmente, cada lanzamiento de la **barranquillera** genera una gran expectativa a nivel mundial.
-
-  
-Shakira arrasa con su gira en América Latina
------------------------------------------------
-
-Además del éxito de su nuevo sencillo, **Shakira** se prepara para su gira internacional “Las Mujeres no Lloran”, que la llevará por varios países de América Latina en 2025. La gira incluirá presentaciones en Brasil, Colombia, Argentina, Perú y México, donde miles de fanáticos esperan **verla en vivo**.
-
-Con su **energía arrolladora** y su capacidad para conectar con el público, **Shakira sigue rompiendo barreras** y consolidándose como una de las artistas más importantes de la música mundial.
-
-Uruguay navega aguas agitadas antes de recibir a Ecuador
-========================================================
-
-La Selección de Uruguay marcha en el tercer lugar de la tabla de posiciones de las eliminatorias sudamericanas.
----------------------------------------------------------------------------------------------------------------
-
-![Edison Flores (d) de Perú disputa un balón con Federico Valverde de Uruguay, en un partido de las eliminatorias sudamericanas para el Mundial de 2026 entre Perú y Uruguay en el estadio Nacional en Lima.](https://www.elcomercio.com/wp-content/uploads/2024/10/uruguay_bielsa_1.jpg)
-
-La **Selección de Uruguay** arribó el sábado 12 de octubre de 2024 a Montevideo desde Lima y se trasladó desde el Aeropuerto Internacional de Carrasco hacia el Complejo Celeste, donde trabaja pensando en el duelo frente a Ecuador.
-
-Según informó la Asociación Uruguaya de Fútbol, **la plantilla encabezada por Marcelo Bielsa**, una vez en Montevideo comenzarán el régimen de concentración en el Complejo Celeste, donde este domingo 13 se entrenarán.
-
-### Más noticias:
-
-* [Glenda Morejón, medallista olímpica en París 2024, se casó](https://www.elcomercio.com/deportes/glenda-morejon-medallista-olimpica-en-paris-2024-se-caso.html "Glenda Morejón, medallista olímpica en París 2024, se casó")
-* [La Selección Ecuador con cuatro jugadores con riesgo de suspensión](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-tarjeta-amarilla.html "La Selección Ecuador con cuatro jugadores con riesgo de suspensión")
-* [Dragonas Independiente tienen rival en la Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/dragonas-cali-cuartos-libertadores-femenina.html "Dragonas Independiente tienen rival en la Libertadores Femenina")
-
-El próximo martes 15, la **Selección de Uruguay recibirá a Ecuador** en el histórico estadio Centenario de Montevideo por la décima jornada de las eliminatorias sudamericanas del Mundial de 2026.
-
-Para ese encuentro, **Bielsa recuperará a dos futbolistas que se perdieron el duelo frente a Perú** por estar suspendidos: el central José María Giménez y el lateral Mathías Olivera.
-
-De hecho, es probable que ambos sean titulares en un partido en el que Uruguay buscará volver al camino de la victoria luego de tres fechas sin sumar de a tres.
-
-Por otra parte, cuatro futbolistas que fueron convocados por Bielsa y que **no viajaron a Perú trabajarán junto al resto de la plantilla**: Marco Oroná, Lucas Sanabria, Pablo Suárez y Joaquín Lavega.
-
-Uruguay navega aguas agitadas
------------------------------
-
-El viernes 11, Uruguay cayó por 1-0 frente a Perú en un duelo que se definió en los instantes finales gracias a un tanto del central Miguel Araujo tras una gran habilitación de Piero Quispe.
-
-Finalizado el partido, el **seleccionador de Uruguay habló en una conferencia de prensa** y aseguró que este fue parejo y prácticamente sin situaciones de gol.
-
-“Nosotros tuvimos más la pelota, pero no creamos peligro. Perú tampoco creó peligro, pero las sensaciones que ellos tenían cuando atacaban eran mejores que las nuestras. Era un partido que debería haber terminado empatado”, concluyó.
-
-Por otro lado, señaló que lo ocurrido con Luis Suárez no influyó en el juego en de la Celeste.
-
-“Influencia no tuvo ninguna. **La entrega del equipo me pareció que fue una entrega muy generosa**, más allá de cómo jugamos. Creo que lo que pasó en la semana no condiciona. No lo vinculo con cómo jugamos ni creo que haya tenido efecto que haya sido una semana con mucha efervescencia”, dijo el director técnico.
-
-Días atrás, Suárez brindó una entrevista al programa ‘De Fútbol Se Habla Así’, en la que acusó a Bielsa de malos modos con jugadores de la plantilla.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/uruguay_bielsa_2-1024x683.jpg)
-
-Foto: EFE.
-
-No te pierdas – El Confesionario
---------------------------------
