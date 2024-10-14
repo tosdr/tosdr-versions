@@ -2,7 +2,9 @@
 
 * 3D Printers
     
-[* Filament](https://store.bambulab.com/collections/bambu-lab-3d-printer-filament?skr=yes)[* Accessories](https://store.bambulab.com/collections/accessories?skr=yes)* Software
+* Filament
+    
+[* Accessories](https://store.bambulab.com/collections/accessories?skr=yes)* Software
     
 [* Support](https://bambulab.com/en/support)* Company
     
