@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Labor turns nature summit into blatant act of hypocrisy](https://independentaustralia.net/article-display/labor-turns-nature-summit-into-blatant-act-of-hypocrisy,19071 "Permanent Link : Labor turns nature summit into blatant act of hypocrisy")
 * [The cost of living crisis is over — so why aren’t we all celebrating?](https://independentaustralia.net/article-display/the-cost-of-living-crisis-is-over-so-why-arent-we-all-celebrating,19068 "Permanent Link : The cost of living crisis is over — so why aren’t we all celebrating?")
+* [Booming partner visa backlog will reduce migration opportunities for students](https://independentaustralia.net/article-display/booming-partner-visa-backlog-will-reduce-migration-opportunities-for-students,19072 "Permanent Link : Booming partner visa backlog will reduce migration opportunities for students")
+* [Labor turns nature summit into blatant act of hypocrisy](https://independentaustralia.net/article-display/labor-turns-nature-summit-into-blatant-act-of-hypocrisy,19071 "Permanent Link : Labor turns nature summit into blatant act of hypocrisy")
 * [Parliamentary disability discourse reopening old wounds](https://independentaustralia.net/article-display/parliamentary-disability-discourse-reopening-old-wounds,19069 "Permanent Link : Parliamentary disability discourse reopening old wounds")
 * [POEM: The light in my left eye went away](https://independentaustralia.net/article-display/poem-the-light-in-my-left-eye-went-away,19066 "Permanent Link : POEM: The light in my left eye went away")
 * [Rigger in the sky: Now that's a "high flyer"!](https://independentaustralia.net/article-display/rigger-in-the-sky-now-thats-a-high-flyer,18948 "Permanent Link : Rigger in the sky: Now that's a "high flyer"!")
 * [Old tricks and new culture wars in the Queensland State Election](https://independentaustralia.net/article-display/old-tricks-and-new-culture-wars-in-the-queensland-state-election,19065 "Permanent Link : Old tricks and new culture wars in the Queensland State Election")
-* [Dominique Grubisa's own AI bot calls her out on lies](https://independentaustralia.net/article-display/dominique-grubisas-own-ai-bot-calls-her-out-on-lies,19064 "Permanent Link : Dominique Grubisa's own AI bot calls her out on lies")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
