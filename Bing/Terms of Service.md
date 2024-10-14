@@ -81,7 +81,7 @@ Microsoft Services Agreement
         * [Gift cards](https://www.microsoft.com/en-us/store/b/gift-cards)
         * [Licensing](https://www.microsoft.com/licensing/)
         * [Unlocked stories](https://unlocked.microsoft.com/)
-    * [View Sitemap](https://www.microsoft.com/en-us/sitemap.aspx)
+    * [View Sitemap](https://www.microsoft.com/en-us/sitemap)
     
 
  Search Search Microsoft.com
