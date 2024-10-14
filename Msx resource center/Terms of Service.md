@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
-* [Disable floppy drive](https://www.msx.org/forum/msx-talk/openmsx/disable-floppy-drive "Disable floppy drive ")
-* [VATT - VRAM Access Timing Tester](https://www.msx.org/forum/msx-talk/development/vatt-vram-access-timing-tester?page=18 "VATT - VRAM Access Timing Tester")
-* [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card?page=2 "MFRSCC+SD FAT12 & FAT16 partition on one card.")
+* [Help with Spectravideo SVI-727 80 column cartidge!!!](https://www.msx.org/forum/msx-talk/hardware/help-spectravideo-svi-727-80-column-cartidge?page=1 "Help with Spectravideo SVI-727 80 column cartidge!!!")
 * [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=100 "The Big MegaFlashROM SCC+ SD Topic")
 * [Aleste 2 tips?](https://www.msx.org/forum/msx-talk/software/aleste-2-tips "Aleste 2 tips?")
+* [Disable floppy drive](https://www.msx.org/forum/msx-talk/openmsx/disable-floppy-drive "Disable floppy drive ")
+* [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card?page=2 "MFRSCC+SD FAT12 & FAT16 partition on one card.")
+* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=14 "Full English translation of Illusion City for MSX Turbo-R")
+* [VATT - VRAM Access Timing Tester](https://www.msx.org/forum/msx-talk/development/vatt-vram-access-timing-tester?page=18 "VATT - VRAM Access Timing Tester")
 * [Aleste 2 manual automated translation](https://www.msx.org/forum/msx-talk/general-discussion/aleste-2-manual-automated-translation?page=2 "Aleste 2 manual automated translation")
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
 * [F4/FMPAC V2.0 for Omega amp circuit not working](https://www.msx.org/forum/msx-talk/hardware/f4fmpac-for-omega-amp-circuit-not-working "F4/FMPAC V2.0 for Omega amp circuit not working")
 * [The Stone of Wisdom Remake](https://www.msx.org/forum/msx-talk/general-discussion/the-stone-of-wisdom-remake "The Stone of Wisdom Remake")
 * [Hello World](https://www.msx.org/forum/msx-talk/off-topic/hello-world "Hello World")
 * [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=1 "RIP Fabio Belavenuto")
-* [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
-* [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=28 "A new MSX (3?) for 2022 ?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
