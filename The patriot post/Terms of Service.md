@@ -191,7 +191,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111040-philippians-1-9-2024-10-13)
+     [](https://patriotpost.us/memes/111041-honor-our-warriors-2024-10-14)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -224,11 +224,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
-“Labor to keep alive in your breast that little spark of celestial fire called conscience.” —George Washington (1748)
+“The boisterous sea of liberty is never without a wave.” —Thomas Jefferson (1820)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
