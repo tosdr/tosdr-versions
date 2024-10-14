@@ -1,6 +1,6 @@
 □
 
-                 Privacy Policy - VORO MOTORS                      
+              Privacy Policy - VORO MOTORS                      
 
          
 
@@ -31,7 +31,6 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [Climber(New!)](https://www.voromotors.com/products/inmotion-climber-electric-scooter)
     * [Kaabo Electric Scooters](https://www.voromotors.com/collections/kaabo-electric-scooters)
         * [Wolf King GTR(New!)](https://www.voromotors.com/products/kaabo-wolf-king-gtr)
-        * [Wolf King GT (72V)](https://www.voromotors.com/products/wolf-king-gt)
         * [Mantis King GT](https://www.voromotors.com/products/kaabo-mantis-king-gt-electric-scooter)
         * [Wolf Warrior X GT](https://www.voromotors.com/products/wolf-warrior-x-gt-pro-electric-scooter)
         * [Mantis Pro SEFinal Sale!](https://www.voromotors.com/products/kaabo-mantis-pro-se)
@@ -219,7 +218,6 @@ Continue Shopping
 * [Kaabo Electric Scooters](https://www.voromotors.com/collections/kaabo-electric-scooters)
 
 * [Wolf King GTR(New!)](https://www.voromotors.com/products/kaabo-wolf-king-gtr)
-* [Wolf King GT (72V)](https://www.voromotors.com/products/wolf-king-gt)
 * [Mantis King GT](https://www.voromotors.com/products/kaabo-mantis-king-gt-electric-scooter)
 * [Wolf Warrior X GT](https://www.voromotors.com/products/wolf-warrior-x-gt-pro-electric-scooter)
 * [Mantis Pro SEFinal Sale!](https://www.voromotors.com/products/kaabo-mantis-pro-se)
