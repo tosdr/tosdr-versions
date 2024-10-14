@@ -4116,7 +4116,7 @@ e. to share and disclose the Information with the Bank’s service providers, co
 
 1\. The offer is only valid on completing the application end-to-end digitally. Accordingly, this voucher would be issued (post issuance and activation of the credit card) towards Go-Green Initiatives.
 
-2\. The referrer and referee will be incentivised with a voucher worth Rs. 250 each upon successful issuance and activation of credit card issued to the referee. To activate the credit card the referee must complete 1 transaction using the credit card applied within 30 days from credit card issuance date.
+2\. The referrer and referee will be incentivised with a voucher worth Rs. 250 each upon successful issuance and activation of credit card issued to the referee. To activate the credit card the referee must complete 1 transaction using the credit card applied within 14 days from credit card issuance date.
 
 3\. The referrer and referee agree to receive calls, SMS, email & WhatsApp messages from HDFC Bank for personalized offerings regarding new products and services.
 
@@ -5985,7 +5985,7 @@ false
 * [Cheque Collection Policy](https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=/Common%20Overlays/Feedback/PDFS/Citizens%20Charter/cheque_collection_policy.pdf)
 * [Fair Practices Code for Lenders](https://www.hdfcbank.com/personal/about-us/corporate-governance/fair-practice-code-for-lending)
 * [Code for Collection of Dues and Repossession of Security](https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=/Common%20Overlays/Feedback/PDFS/Citizens%20Charter/model_collection_repossession_policy.pdf)
-* [Code of Conduct for Direct Selling Agents](https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=/Personal/Pay/Cards/Credit%20Card/Credit%20Card%20Landing%20Page/dsa_cc.pdf)
+* [Code of Conduct for Direct Selling Agents](https://www.hdfcbank.com/personal/useful-links/important-messages/code-of-conduct-for-direct-selling-agents)
 
 * [Resources](https://www.hdfcbank.com/personal/resources)
 * [Home Loan](https://www.hdfc.com/housing-loans/home-loans)
