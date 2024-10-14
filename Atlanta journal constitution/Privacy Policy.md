@@ -14,6 +14,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-transit-expansion-optimism-no-really/ZBZZNLZFVVH7FDDUU77A63Q3D4/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
