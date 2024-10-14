@@ -592,7 +592,7 @@ Kopieren
 
 [](#)
 
-[![BitBox Swiss](/fileadmin/_processed_/2/a/csm_blocktrainervertikal_7f33fe5e4a.jpg)](https://ref.blocktrainer.de/bitbox/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![Kurant](/fileadmin/_processed_/8/7/csm_Banner_hoch_390x615_93118de063.png)](http://www.kurant.net/)
 
 **Privatsphäre-Einstellungen**
 
