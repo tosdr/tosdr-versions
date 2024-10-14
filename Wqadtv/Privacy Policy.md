@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/62b27568-668e-4219-867d-0d41db052aab/20241013T215733/62b27568-668e-4219-867d-0d41db052aab_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/62b27568-668e-4219-867d-0d41db052aab/20241013T215733/62b27568-668e-4219-867d-0d41db052aab_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/lake-potter-do-not-swim-signs-rock-island-akwaaba-qc/526-dc117b65-4f4f-4208-9efb-ab9f0135fded)
         
-        #### [Nonprofit that helps QC immigrants launches public safety campaign at Lake Potter in Rock Island](https://www.wqad.com/article/news/local/public-safety/lake-potter-do-not-swim-signs-rock-island-akwaaba-qc/526-dc117b65-4f4f-4208-9efb-ab9f0135fded) [![](https://media.tegna-media.com/assets/WQAD/images/62b27568-668e-4219-867d-0d41db052aab/20241013T215733/62b27568-668e-4219-867d-0d41db052aab_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/62b27568-668e-4219-867d-0d41db052aab/20241013T215733/62b27568-668e-4219-867d-0d41db052aab_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/lake-potter-do-not-swim-signs-rock-island-akwaaba-qc/526-dc117b65-4f4f-4208-9efb-ab9f0135fded)
+        #### [Nonprofit that helps QC immigrants launches public safety campaign at Lake Potter in Rock Island](https://www.wqad.com/article/news/local/public-safety/lake-potter-do-not-swim-signs-rock-island-akwaaba-qc/526-dc117b65-4f4f-4208-9efb-ab9f0135fded)
         
-        #### [QC nonprofit working to make Lake Potter safer for immigrant community following young boy's death](https://www.wqad.com/article/news/local/public-safety/lake-potter-do-not-swim-signs-rock-island-akwaaba-qc/526-dc117b65-4f4f-4208-9efb-ab9f0135fded)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/e1e51911-e62c-41b5-9894-3fa8c7943023/20241012T010134/e1e51911-e62c-41b5-9894-3fa8c7943023_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e1e51911-e62c-41b5-9894-3fa8c7943023/20241012T010134/e1e51911-e62c-41b5-9894-3fa8c7943023_360x203.jpg)](https://www.wqad.com/article/traffic/locals-weigh-in-new-traffic-safety-plan-road-safety-concerns/526-6874ceed-f73c-492f-936c-fbb7dbd948bf)
         
         #### [New Traffic Safety Plan invites locals to address dangerous intersections](https://www.wqad.com/article/traffic/locals-weigh-in-new-traffic-safety-plan-road-safety-concerns/526-6874ceed-f73c-492f-936c-fbb7dbd948bf)
@@ -57,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dd4f03ff-b4d6-4f6c-8b78-9afc2675916d/20241013T120532/dd4f03ff-b4d6-4f6c-8b78-9afc2675916d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dd4f03ff-b4d6-4f6c-8b78-9afc2675916d/20241013T120532/dd4f03ff-b4d6-4f6c-8b78-9afc2675916d_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WHAS/images/0cfa32a4-9ddd-461b-bae8-122be4e897bf/0cfa32a4-9ddd-461b-bae8-122be4e897bf_16x9.jpeg) ![](https://media.tegna-media.com/assets/WHAS/images/0cfa32a4-9ddd-461b-bae8-122be4e897bf/0cfa32a4-9ddd-461b-bae8-122be4e897bf_360x203.jpeg)](https://www.wqad.com/article/life/home-garden/plants-and-garden/freeze-warning-frost-protect-plants-garden/526-e808a635-f5d1-41b8-9396-4d95d826beae)
         
-        #### [Coolest air of the season](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [The first freeze of the season is in the forecast. Here's how you can protect your plants](https://www.wqad.com/article/life/home-garden/plants-and-garden/freeze-warning-frost-protect-plants-garden/526-e808a635-f5d1-41b8-9396-4d95d826beae)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/afeba818-18ce-40d7-bf83-fb4754b2d2a9/20241011T190527/afeba818-18ce-40d7-bf83-fb4754b2d2a9_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/afeba818-18ce-40d7-bf83-fb4754b2d2a9/20241011T190527/afeba818-18ce-40d7-bf83-fb4754b2d2a9_360x203.jpg)](https://www.wqad.com/article/news/nation-world/northern-lights-dazzling-farther-south-than-normal-cause/507-7a651b98-87fa-410e-9833-34235a635500)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/6d2d002c-4a56-4fc6-ba9e-f052441c89d1/20241013T231420/6d2d002c-4a56-4fc6-ba9e-f052441c89d1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6d2d002c-4a56-4fc6-ba9e-f052441c89d1/20241013T231420/6d2d002c-4a56-4fc6-ba9e-f052441c89d1_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [What's behind the northern lights that dazzled the sky farther south than normal](https://www.wqad.com/article/news/nation-world/northern-lights-dazzling-farther-south-than-normal-cause/507-7a651b98-87fa-410e-9833-34235a635500)
+        #### [Cooler days ahead for a real taste of fall](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -87,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-57°
+48°
 
-![Sunny/Wind](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
