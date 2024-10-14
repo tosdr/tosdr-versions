@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Caso Braskem: MPF e MP/AL realizam inspeção nas obras de revitalização dos Flexais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/0/csm_inspecao_Flexais_MPF_AL_a374d9bc2b.jpeg)
+   [![Contador de história leva apresentação para crianças em tratamento oncológico](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/a/csm_entretenimento_criancas_hospital_ascom_7dc2d0e727.jpg)
+
+em maceió
+
+Contador de história leva apresentação para crianças em tratamento oncológico](https://www.tnh1.com.br/noticia/nid/contador-de-historia-leva-apresentacao-para-criancas-em-tratamento-oncologico/ "Contador de história leva apresentação para crianças em tratamento oncológico")   [![Caso Braskem: MPF e MP/AL realizam inspeção nas obras de revitalização dos Flexais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/0/csm_inspecao_Flexais_MPF_AL_a374d9bc2b.jpeg)
 
 cronograma ajustado
 
-Caso Braskem: MPF e MP/AL realizam inspeção nas obras de revitalização dos Flexais](https://www.tnh1.com.br/noticia/nid/caso-braskem-mpf-e-mpal-realizam-inspecao-nas-obras-de-revitalizacao-dos-flexais/ "Caso Braskem: MPF e MP/AL realizam inspeção nas obras de revitalização dos Flexais")   [![Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/3/csm_csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_b134dc68b3_393dcfe611.jpeg)
+Caso Braskem: MPF e MP/AL realizam inspeção nas obras de revitalização dos Flexais](https://www.tnh1.com.br/noticia/nid/caso-braskem-mpf-e-mpal-realizam-inspecao-nas-obras-de-revitalizacao-dos-flexais/ "Caso Braskem: MPF e MP/AL realizam inspeção nas obras de revitalização dos Flexais")   [![Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/3/csm_csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_b134dc68b3_393dcfe611.jpeg)
 
 Disputa por tráfico
 
-Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://www.tnh1.com.br/noticia/nid/homem-que-usou-farda-do-bope-para-assaltar-joalheria-e-indiciado-por-assassinato-no-prado/ "Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado")   [![Flagrante: loja divulga imagens de homem furtando produto em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/8/csm_suspeito-havan-reproducao_9f56d732ea.jpg)
+Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://www.tnh1.com.br/noticia/nid/homem-que-usou-farda-do-bope-para-assaltar-joalheria-e-indiciado-por-assassinato-no-prado/ "Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado")   [![Flagrante: loja divulga imagens de homem furtando produto em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/8/csm_suspeito-havan-reproducao_9f56d732ea.jpg)
 
 Veja vídeo
 
-Flagrante: loja divulga imagens de homem furtando produto em Maceió](https://www.tnh1.com.br/noticia/nid/flagrante-loja-divulga-imagens-de-homem-furtando-produto-em-maceio/ "Flagrante: loja divulga imagens de homem furtando produto em Maceió")   [![Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/7/csm_toalha-tentativa-abuso-centro_eedcbcf62e.jpg)
+Flagrante: loja divulga imagens de homem furtando produto em Maceió](https://www.tnh1.com.br/noticia/nid/flagrante-loja-divulga-imagens-de-homem-furtando-produto-em-maceio/ "Flagrante: loja divulga imagens de homem furtando produto em Maceió")   [![Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/7/csm_toalha-tentativa-abuso-centro_eedcbcf62e.jpg)
 
 No Centro
 
-Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://www.tnh1.com.br/noticia/nid/mulher-e-encontrada-com-sinais-de-violencia-apos-sofrer-tentativa-de-abuso-em-terreno-abandonado/ "Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado")   [![Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/1/csm_flagrante-ameaca-mulher-clima-bom_9ef6e110aa.jpg)
+Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://www.tnh1.com.br/noticia/nid/mulher-e-encontrada-com-sinais-de-violencia-apos-sofrer-tentativa-de-abuso-em-terreno-abandonado/ "Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado")   [![Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/1/csm_flagrante-ameaca-mulher-clima-bom_9ef6e110aa.jpg)
 
 No Clima Bom
 
-Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte](https://www.tnh1.com.br/noticia/nid/video-homem-e-preso-apos-ser-flagrado-agredindo-a-ex-companheira-e-a-ameacando-de-morte/ "Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte")   [![Filho é preso por ameaçar a própria mãe após negar dar dinheiro a ele](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
-
-No Benedito Bentes
-
-Filho é preso por ameaçar a própria mãe após negar dar dinheiro a ele](https://www.tnh1.com.br/noticia/nid/filho-e-preso-por-ameacar-a-propria-mae-apos-negar-dar-dinheiro-a-ele/ "Filho é preso por ameaçar a própria mãe após negar dar dinheiro a ele")
+Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte](https://www.tnh1.com.br/noticia/nid/video-homem-e-preso-apos-ser-flagrado-agredindo-a-ex-companheira-e-a-ameacando-de-morte/ "Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Filho é preso por ameaçar a própria mãe após negar dar dinheiro a ele](http
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/b/csm_droga_sertao_2f82aebbc8.png)
-
-Maceió e interior
-
-Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo](https://www.tnh1.com.br/noticia/nid/em-uma-semana-policia-militar-apreende-mais-de-20-quilos-de-drogas-e-11-armas-de-fogo/ "Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo ")   [![Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
-
-sortudos
-
-Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro](https://www.tnh1.com.br/noticia/nid/conheca-os-ganhadores-do-alagoas-da-sorte-deste-domingo-13-de-outubro/ "Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ")   [![Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/0/csm_csm_Praia_de_Maceio_-_foto_Emile_ValoesAscom_Semtel_b5dded546e_6f35563d41.jpeg)
-
-Alagoas
-
-Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/praia-no-domingao-veja-os-trechos-proprios-para-banho-no-litoral-de-alagoas/ "Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas")   [![Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/2/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_ad9da6f477.png)
+   [![Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/5/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_2a8413dbf9.png)
 
 Meteorologia
 
-Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-veja-como-deve-ficar-o-tempo-em-alagoas-neste-fim-de-semana/ "Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana")   [![Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/5/csm_Onda_calor_-_Freepik_c60e743d3d.jpg)
+Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-terca-feira-15/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)")   [![Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_droga_sertao_2f82aebbc8.png)
 
-até domingo
+Maceió e interior
 
-Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://www.tnh1.com.br/noticia/nid/inmet-emite-alerta-de-onda-de-calor-para-38-cidades-de-alagoas-veja-quais/ "Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais")   [![HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_Sesau_HGE_Acidentes_a175c35292.jpg)
+Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo](https://www.tnh1.com.br/noticia/nid/em-uma-semana-policia-militar-apreende-mais-de-20-quilos-de-drogas-e-11-armas-de-fogo/ "Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo ")   [![Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
+
+sortudos
+
+Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro](https://www.tnh1.com.br/noticia/nid/conheca-os-ganhadores-do-alagoas-da-sorte-deste-domingo-13-de-outubro/ "Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ")   [![Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/0/csm_csm_Praia_de_Maceio_-_foto_Emile_ValoesAscom_Semtel_b5dded546e_6f35563d41.jpeg)
 
 Alagoas
 
-HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://www.tnh1.com.br/noticia/nid/hge-atende-quase-4-mil-vitimas-de-acidentes-de-transito-de-janeiro-a-setembro-deste-ano/ "HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano")
+Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/praia-no-domingao-veja-os-trechos-proprios-para-banho-no-litoral-de-alagoas/ "Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas")   [![Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/2/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_ad9da6f477.png)
+
+Meteorologia
+
+Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-veja-como-deve-ficar-o-tempo-em-alagoas-neste-fim-de-semana/ "Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana")   [![Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/5/csm_Onda_calor_-_Freepik_c60e743d3d.jpg)
+
+até domingo
+
+Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://www.tnh1.com.br/noticia/nid/inmet-emite-alerta-de-onda-de-calor-para-38-cidades-de-alagoas-veja-quais/ "Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,7 +82,19 @@ HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro 
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_colonia_perseguicao__2__c3447a2059.jpeg)
+   [![Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/e/csm_Homem-e-assassinado-apos-agredir-a-esposa-no-Villa-00786239-ae2d75513fb8c017bf7e5682e06c8b4a-7_bc9193d329.jpg)
+
+Polícia
+
+Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió](https://www.tnh1.com.br/noticia/nid/veja-o-que-se-sabe-sobre-caso-de-homem-que-foi-morto-a-tiros-apos-agredir-mulher-em-maceio/ "Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió")   [![PM desarticula ponto de desmanche de veículos e apreende armas de fogo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/f/csm_csm_viatura_policia_militar_-_ascom_ssp_b65a315e7e_6d5bc954da.jpg)
+
+são miguel dos campos
+
+PM desarticula ponto de desmanche de veículos e apreende armas de fogo](https://www.tnh1.com.br/noticia/nid/pm-desarticula-ponto-de-desmanche-de-veiculos-e-apreende-armas-de-fogo/ "PM desarticula ponto de desmanche de veículos e apreende armas de fogo ")   [![Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/9/csm_Taciana_Maria_Ramos_morta_pelo_companheiro_arquivo_pessoal_3821eaf220.jpg)
+
+12 golpes de faca
+
+Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://www.tnh1.com.br/noticia/nid/relacionamento-de-casal-de-alagoanos-acaba-em-tragedia-no-interior-de-sao-paulo/ "Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo")   [![Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_colonia_perseguicao__2__c3447a2059.jpeg)
 
 colônia leopoldina
 
@@ -94,19 +106,7 @@ Homem é preso suspeito de tentar matar o marido a facadas em praça pública](h
 
 Disputa por tráfico
 
-Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://www.tnh1.com.br/noticia/nid/homem-que-usou-farda-do-bope-para-assaltar-joalheria-e-indiciado-por-assassinato-no-prado/ "Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado")   [![Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/7/csm_toalha-tentativa-abuso-centro_eedcbcf62e.jpg)
-
-No Centro
-
-Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://www.tnh1.com.br/noticia/nid/mulher-e-encontrada-com-sinais-de-violencia-apos-sofrer-tentativa-de-abuso-em-terreno-abandonado/ "Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado")   [![Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/1/csm_flagrante-ameaca-mulher-clima-bom_9ef6e110aa.jpg)
-
-No Clima Bom
-
-Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte](https://www.tnh1.com.br/noticia/nid/video-homem-e-preso-apos-ser-flagrado-agredindo-a-ex-companheira-e-a-ameacando-de-morte/ "Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte")   [![Filho é preso por ameaçar a própria mãe após negar dar dinheiro a ele](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
-
-No Benedito Bentes
-
-Filho é preso por ameaçar a própria mãe após negar dar dinheiro a ele](https://www.tnh1.com.br/noticia/nid/filho-e-preso-por-ameacar-a-propria-mae-apos-negar-dar-dinheiro-a-ele/ "Filho é preso por ameaçar a própria mãe após negar dar dinheiro a ele")
+Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://www.tnh1.com.br/noticia/nid/homem-que-usou-farda-do-bope-para-assaltar-joalheria-e-indiciado-por-assassinato-no-prado/ "Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -206,49 +206,7 @@ Brasil
 
 Nova variante do vírus Sars-CoV-2 é identificada em três estados
 
-Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://www.tnh1.com.br/noticia/nid/nova-variante-do-virus-sars-cov-2-e-identificada-em-tres-estados/ "Nova variante do vírus Sars-CoV-2 é identificada em três estados")[![Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/d/csm_carteira_de_trabalho_foto_secom_maceio_ffbed9bb06.jpg)
-
-Mercado de Trabalho
-
-Mercado de Trabalho
-
-Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior
-
-Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/procurando-emprego-veja-789-novas-vagas-a-partir-desta-segunda-em-maceio-e-no-interior/ "Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior")[![Cinco ficam feridos em acidente entre caminhão, carro e moto na BR-316](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/0/csm_acidente_Santaluzia_5e6e29e711.jpeg)
-
-Trânsito
-
-Trânsito
-
-Cinco ficam feridos em acidente entre caminhão, carro e moto na BR-316
-
-Cinco ficam feridos em acidente entre caminhão, carro e moto na BR-316](https://www.tnh1.com.br/noticia/nid/cinco-ficam-feridos-em-acidente-entre-caminhao-carro-e-moto-na-br-316/ "Cinco ficam feridos em acidente entre caminhão, carro e moto na BR-316")[![Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/7/csm_toalha-tentativa-abuso-centro_cd2d931da3.jpg)
-
-No Centro
-
-No Centro
-
-Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado
-
-Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://www.tnh1.com.br/noticia/nid/mulher-e-encontrada-com-sinais-de-violencia-apos-sofrer-tentativa-de-abuso-em-terreno-abandonado/ "Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado")
-
-[![Mani Rego entra na Justiça e pede reconhecimento de união estável com Davi Brito](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/3/csm_daviooficialll-reproducao_instagram__1__22ab894aae.jpg)
-
-ex do brother
-
-ex do brother
-
-Mani Rego entra na Justiça e pede reconhecimento de união estável com Davi Brito
-
-Mani Rego entra na Justiça e pede reconhecimento de união estável com Davi Brito](https://www.tnh1.com.br/noticia/nid/mani-rego-entra-na-justica-e-pede-reconhecimento-de-uniao-estavel-com-davi-brito/ "Mani Rego entra na Justiça e pede reconhecimento de união estável com Davi Brito")[![Quinto voo da FAB com 220 repatriados do Líbano chega a São Paulo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_FAB_repatriados_b7321710a0.png)
-
-Raízes do Cedro
-
-Raízes do Cedro
-
-Quinto voo da FAB com 220 repatriados do Líbano chega a São Paulo
-
-Quinto voo da FAB com 220 repatriados do Líbano chega a São Paulo](https://www.tnh1.com.br/noticia/nid/quinto-voo-da-fab-com-220-repatriados-do-libano-chega-a-sao-paulo/ "Quinto voo da FAB com 220 repatriados do Líbano chega a São Paulo")[![Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/f/csm_colonia_perseguicao__2__697e279c8d.jpeg)
+Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://www.tnh1.com.br/noticia/nid/nova-variante-do-virus-sars-cov-2-e-identificada-em-tres-estados/ "Nova variante do vírus Sars-CoV-2 é identificada em três estados")[![Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/f/csm_colonia_perseguicao__2__697e279c8d.jpeg)
 
 colônia leopoldina
 
@@ -256,15 +214,57 @@ colônia leopoldina
 
 Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL
 
-Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://www.tnh1.com.br/noticia/nid/suspeitos-de-assaltos-morrem-viatura-capota-e-policiais-ficam-feridos-em-perseguicao-no-interior-de-al/ "Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL")[![Pix está fora do ar? Nubank, Inter, Bradesco e outros bancos têm problemas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/0/csm_celular_telefonia_pexels_614ee45aa5.jpg)
+Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://www.tnh1.com.br/noticia/nid/suspeitos-de-assaltos-morrem-viatura-capota-e-policiais-ficam-feridos-em-perseguicao-no-interior-de-al/ "Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL")[![Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/d/csm_carteira_de_trabalho_foto_secom_maceio_ffbed9bb06.jpg)
 
-Economia
+Mercado de Trabalho
 
-Economia
+Mercado de Trabalho
 
-Pix está fora do ar? Nubank, Inter, Bradesco e outros bancos têm problemas
+Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior
 
-Pix está fora do ar? Nubank, Inter, Bradesco e outros bancos têm problemas](https://www.tnh1.com.br/noticia/nid/pix-esta-fora-do-ar-nubank-inter-bradesco-e-outros-bancos-tem-problemas/ "Pix está fora do ar? Nubank, Inter, Bradesco e outros bancos têm problemas")
+Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/procurando-emprego-veja-789-novas-vagas-a-partir-desta-segunda-em-maceio-e-no-interior/ "Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior")[![Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/9/csm_Taciana_Maria_Ramos_morta_pelo_companheiro_arquivo_pessoal_1d70bab3ad.jpg)
+
+12 golpes de faca
+
+12 golpes de faca
+
+Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo
+
+Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://www.tnh1.com.br/noticia/nid/relacionamento-de-casal-de-alagoanos-acaba-em-tragedia-no-interior-de-sao-paulo/ "Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo")
+
+[![Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/e/csm_Homem-e-assassinado-apos-agredir-a-esposa-no-Villa-00786239-ae2d75513fb8c017bf7e5682e06c8b4a-7_1ac15e76ec.jpg)
+
+Polícia
+
+Polícia
+
+Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió
+
+Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió](https://www.tnh1.com.br/noticia/nid/veja-o-que-se-sabe-sobre-caso-de-homem-que-foi-morto-a-tiros-apos-agredir-mulher-em-maceio/ "Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió")[![Vini Jr. se torna jogador com maior valor de mercado da história do futebol](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_Vini_Jr_-_Instagarm_537c2af7a9.jpg)
+
+Futebol Internacional
+
+Futebol Internacional
+
+Vini Jr. se torna jogador com maior valor de mercado da história do futebol
+
+Vini Jr. se torna jogador com maior valor de mercado da história do futebol](https://www.tnh1.com.br/noticia/nid/vini-jr-se-torna-jogador-com-maior-valor-de-mercado-da-historia-do-futebol/ "Vini Jr. se torna jogador com maior valor de mercado da história do futebol")[![Vídeo: Xuxa abre vidro de carro para tirar fotos e fã cospe nela após show beneficente](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/c/csm_xuxa_cuspe_video_689f9a4616.jpg)
+
+em são paulo
+
+em são paulo
+
+Vídeo: Xuxa abre vidro de carro para tirar fotos e fã cospe nela após show beneficente
+
+Vídeo: Xuxa abre vidro de carro para tirar fotos e fã cospe nela após show beneficente](https://www.tnh1.com.br/noticia/nid/video-xuxa-abre-vidro-de-carro-para-tirar-fotos-e-fa-cospe-nela-apos-show-beneficente/ "Vídeo: Xuxa abre vidro de carro para tirar fotos e fã cospe nela após show beneficente")[![Mais de 100 feridos em acidentes foram atendidos no HGE durante o fim de semana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/6/csm_csm_HGE_altera_fluxo_de_entrada_da_urgencia_a_partir_desta_quinta-feira_Carla_Cleto_ad459e7363_5213f7e670.jpg)
+
+em maceió
+
+em maceió
+
+Mais de 100 feridos em acidentes foram atendidos no HGE durante o fim de semana
+
+Mais de 100 feridos em acidentes foram atendidos no HGE durante o fim de semana](https://www.tnh1.com.br/noticia/nid/mais-de-100-feridos-em-acidentes-foram-atendidos-no-hge-durante-o-fim-de-semana/ "Mais de 100 feridos em acidentes foram atendidos no HGE durante o fim de semana")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
