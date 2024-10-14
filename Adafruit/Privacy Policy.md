@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ ...the idea is to try to give all of the information to help others to judge the value of your contribution; not just the information that leads to judgment in one particular direction or another.”
+“ You can't see it if you don't look at it”
 
-[Richard Feynman](http://www.lhup.edu/~DSIMANEK/cargocul.htm)
+[Dan McKenna](http://books.google.com/books?id=3kY4-HYLqh0C&pg=PA60&lpg=PA60&dq=%22you+can%27t+see+it+if+you+don%27t+look+at+it%22+mckenna&source=bl&ots=oqJNEw26vj&sig=GuUscuvkmfuNbbiA-KaNAmORWmI&hl=en&ei=rKOoTbiQF4q4tweIpNTdBw&sa=X&oi=book_result&ct=result&resnum=1&ve)
 
 [](https://www.adafruit.com/about)
 
