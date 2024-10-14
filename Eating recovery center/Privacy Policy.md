@@ -58,7 +58,6 @@ Main navigation
             * [Eating Disorder Therapy](https://www.eatingrecoverycenter.com/eating-disorder-therapy)
             * [Insurance & Paying for Treatment](https://www.eatingrecoverycenter.com/insurance)
             * [Aftercare Support](https://www.eatingrecoverycenter.com/alumni-overview)
-            * [Research, Effectiveness & Results](https://www.eatingrecoverycenter.com/conditions/treatment-results)
             * [Nutrition Program](https://www.eatingrecoverycenter.com/resources/nutrition-program)
             * [Alumni Testimonials](https://www.eatingrecoverycenter.com/alumni/success-stories)
         * Additional Services
@@ -211,7 +210,6 @@ Main navigation
             * [Eating Disorder Therapy](https://www.eatingrecoverycenter.com/eating-disorder-therapy)
             * [Insurance & Paying for Treatment](https://www.eatingrecoverycenter.com/insurance)
             * [Aftercare Support](https://www.eatingrecoverycenter.com/alumni-overview)
-            * [Research, Effectiveness & Results](https://www.eatingrecoverycenter.com/conditions/treatment-results)
             * [Nutrition Program](https://www.eatingrecoverycenter.com/resources/nutrition-program)
             * [Alumni Testimonials](https://www.eatingrecoverycenter.com/alumni/success-stories)
         * Additional Services
@@ -546,7 +544,6 @@ Footer (ERC)
     * [Pay A Bill](https://www.eatingrecoverycenter.com/patients/pay-a-bill)
 * Why ERC
     * [Comprehensive Care](https://www.eatingrecoverycenter.com/eating-disorder-therapy)
-    * [Treatment Results](https://www.eatingrecoverycenter.com/conditions/treatment-results)
     * [Stories of Hope](https://www.eatingrecoverycenter.com/alumni/success-stories)
     * [Research & Publications](https://www.eatingrecoverycenter.com/research-publications)
 * Resources
