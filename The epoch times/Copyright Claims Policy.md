@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Home Rent Prices Rise in September: Report](https://www.theepochtimes.com/us/home-rent-prices-rise-in-september-report-5740579)
+* [Speaker Johnson Says FEMA Still Has Not Used Majority of Disaster Relief Funding](https://www.theepochtimes.com/us/speaker-johnson-says-fema-still-has-not-used-majority-of-disaster-relief-funding-5740952)
+    
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![Speaker Johnson Says FEMA Still Has Not Used Majority of Disaster Relief Funding](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Speaker Johnson Says FEMA Still Has Not Used Majority of Disaster Relief Funding](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728337-Mike-Johnson-AP24262005068159-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-says-fema-still-has-not-used-majority-of-disaster-relief-funding-5740952)
+* [What the Hospital IV Fluid Shortage May Mean for Patients](https://www.theepochtimes.com/health/what-the-hospital-iv-fluid-shortage-may-mean-for-patients-5739294)
+    
+    NEW By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
+    
+    [![What the Hospital IV Fluid Shortage May Mean for Patients](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![What the Hospital IV Fluid Shortage May Mean for Patients](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741051-shutterstock_2411727825-205x123.jpg.webp)](https://www.theepochtimes.com/health/what-the-hospital-iv-fluid-shortage-may-mean-for-patients-5739294)
+* [Meal Kits, Enoki Mushrooms Recalled Over Possible Listeria Contamination](https://www.theepochtimes.com/us/meal-kits-enoki-mushrooms-recalled-over-possible-listeria-contamination-5740957)
     
     1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Meal Kits, Enoki Mushrooms Recalled Over Possible Listeria Contamination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Meal Kits, Enoki Mushrooms Recalled Over Possible Listeria Contamination](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5740960-bistro28_expressmealkit_chickenburritobowl-205x123.jpg.webp)](https://www.theepochtimes.com/us/meal-kits-enoki-mushrooms-recalled-over-possible-listeria-contamination-5740957)
+* [President Lai Vows to ‘Protect Democratic Taiwan’ as China Holds Military Exercises Encircling the Island](https://www.theepochtimes.com/china/president-lai-vows-to-protect-democratic-taiwan-as-china-holds-military-exercises-encircling-the-island-5740911)
+    
+    2hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    
+    [![President Lai Vows to ‘Protect Democratic Taiwan’ as China Holds Military Exercises Encircling the Island](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![President Lai Vows to ‘Protect Democratic Taiwan’ as China Holds Military Exercises Encircling the Island](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5738907-2410092332252378-205x123.jpg.webp)](https://www.theepochtimes.com/china/president-lai-vows-to-protect-democratic-taiwan-as-china-holds-military-exercises-encircling-the-island-5740911)
+* [Largest Class Action Suit in English History Set to Launch Over Brazil Mining Disaster](https://www.theepochtimes.com/world/largest-class-action-suit-in-english-history-set-to-launch-over-brazil-mining-disaster-5740841)
+    
+    3hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![Largest Class Action Suit in English History Set to Launch Over Brazil Mining Disaster](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Largest Class Action Suit in English History Set to Launch Over Brazil Mining Disaster](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741015-2018-08-15T223545Z_1_LYNXMPEE7E1RU_RTROPTP_3_BHP-BILLITON-SAMARCO-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/largest-class-action-suit-in-english-history-set-to-launch-over-brazil-mining-disaster-5740841)
+* [Hezbollah ‘Swarm of Drones’ Kills 4 Israeli Soldiers at IDF Base](https://www.theepochtimes.com/world/hezbollah-swarm-of-drones-kills-4-israeli-soldiers-at-idf-base-5740837)
+    
+    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Hezbollah ‘Swarm of Drones’ Kills 4 Israeli Soldiers at IDF Base](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hezbollah ‘Swarm of Drones’ Kills 4 Israeli Soldiers at IDF Base](https://img.theepochtimes.com/assets/uploads/2022/09/13/Iran-drones-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-swarm-of-drones-kills-4-israeli-soldiers-at-idf-base-5740837)
+* [Home Rent Prices Rise in September: Report](https://www.theepochtimes.com/us/home-rent-prices-rise-in-september-report-5740579)
+    
+    7hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Home Rent Prices Rise in September: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Home Rent Prices Rise in September: Report](https://img.theepochtimes.com/assets/uploads/2024/09/03/id5717612-IrvineHomes_ForSale_JF_7_09212020KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/home-rent-prices-rise-in-september-report-5740579)
 * [Local Heroes Hailed as North Carolina Digs Out From Hurricane Helene Disaster](https://www.theepochtimes.com/us/local-heroes-hailed-as-north-carolina-digs-out-from-hurricane-helene-disaster-5740694)
     
-    1hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    7hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
     
     [![Local Heroes Hailed as North Carolina Digs Out From Hurricane Helene Disaster](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Local Heroes Hailed as North Carolina Digs Out From Hurricane Helene Disaster](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736506-Helene-Body-Recovery-3_JF_10062024-205x123.jpg.webp)](https://www.theepochtimes.com/us/local-heroes-hailed-as-north-carolina-digs-out-from-hurricane-helene-disaster-5740694)
+    ![Local Heroes Hailed as North Carolina Digs Out From Hurricane Helene Disaster](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5740993-20241008_120304-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/local-heroes-hailed-as-north-carolina-digs-out-from-hurricane-helene-disaster-5740694)
 * [In Arizona, Trump Proposes Pay Raise for Border Patrol](https://www.theepochtimes.com/us/in-arizona-trump-proposes-pay-raise-for-border-patrol-5740725)
     
-    2hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    8hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![In Arizona, Trump Proposes Pay Raise for Border Patrol](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![In Arizona, Trump Proposes Pay Raise for Border Patrol](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5740752-Trump-Border-Patrol-1_JF_10132024-v-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-arizona-trump-proposes-pay-raise-for-border-patrol-5740725)
-* [China Holds New Military Drills Around Taiwan](https://www.theepochtimes.com/china/china-holds-new-military-drills-around-taiwan-5740805)
+    ![In Arizona, Trump Proposes Pay Raise for Border Patrol](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5740912-Trump-Border-Patrol-1_JF_10132024-v-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-arizona-trump-proposes-pay-raise-for-border-patrol-5740725)
+* [CCP Launches ‘Joint Sword-2024B’ Military Drills Around Taiwan](https://www.theepochtimes.com/china/china-holds-new-military-drills-around-taiwan-5740805)
     
-    2hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    8hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
-    [![China Holds New Military Drills Around Taiwan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![CCP Launches ‘Joint Sword-2024B’ Military Drills Around Taiwan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![China Holds New Military Drills Around Taiwan](https://img.theepochtimes.com/assets/uploads/2024/07/24/id5693174-A07-O-CONCERNS-OVER-TAIWAN-RISE-AS-RUSSIA-DECLARES-WAR-1200x881-e1658634104414KO-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-holds-new-military-drills-around-taiwan-5740805)
-* [Day in Photos: Biden Surveys Milton Damage, SpaceX Launch, and Belgian Elections](https://www.theepochtimes.com/article/day-in-photos-biden-surveys-milton-damage-space-x-launch-and-belgian-elections-5740646)
-    
-    10hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Biden Surveys Milton Damage, SpaceX Launch, and Belgian Elections](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Biden Surveys Milton Damage, SpaceX Launch, and Belgian Elections](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740678-GettyImages-2178233400_1-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-biden-surveys-milton-damage-space-x-launch-and-belgian-elections-5740646)
-* [Trump Says His Supporters Won’t Cause Election Chaos](https://www.theepochtimes.com/us/trump-says-his-supporters-wont-cause-election-chaos-5740625)
-    
-    11hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Trump Says His Supporters Won’t Cause Election Chaos](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Says His Supporters Won’t Cause Election Chaos](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739827-GettyImages-2177049750-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-his-supporters-wont-cause-election-chaos-5740625)
-* [Mask Mandates Set to Return in Several California Areas: What We Know](https://www.theepochtimes.com/health/mask-mandates-set-to-return-in-several-california-areas-what-we-know-5740630)
-    
-    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Mask Mandates Set to Return in Several California Areas: What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Mask Mandates Set to Return in Several California Areas: What We Know](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740691-EpochImages-9193431748-xlKO-205x123.jpg.webp)](https://www.theepochtimes.com/health/mask-mandates-set-to-return-in-several-california-areas-what-we-know-5740630)
-* [Tampa Bay Area Officials Request Feds Merge Helene and Milton Into One Disaster](https://www.theepochtimes.com/us/tampa-bay-area-officials-request-feds-merge-helene-and-milton-into-one-disaster-5740612)
-    
-    13hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Tampa Bay Area Officials Request Feds Merge Helene and Milton Into One Disaster](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Tampa Bay Area Officials Request Feds Merge Helene and Milton Into One Disaster](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737204-GettyImages-2176521121-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/tampa-bay-area-officials-request-feds-merge-helene-and-milton-into-one-disaster-5740612)
-* [Pentagon to Send Advanced Missile Defense System and Troops to Israel](https://www.theepochtimes.com/world/pentagon-to-send-advanced-missile-defense-system-and-troops-to-israel-5740605)
-    
-    15hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Pentagon to Send Advanced Missile Defense System and Troops to Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Pentagon to Send Advanced Missile Defense System and Troops to Israel](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740677-170730-usnews-thaad-test-mda-0628_32c956a27a864f4968b0077ea97f0f3b.nbcnews-ux-2880-1000-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/pentagon-to-send-advanced-missile-defense-system-and-troops-to-israel-5740605)
-* [Where Trump and Harris Stand on China Policies](https://www.theepochtimes.com/article/where-trump-and-harris-stand-on-china-policies-5714211)
-    
-    16hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu) and [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
-    
-    [![Where Trump and Harris Stand on China Policies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Where Trump and Harris Stand on China Policies](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740403-lead_v8_harris2-205x123.jpg.webp)](https://www.theepochtimes.com/article/where-trump-and-harris-stand-on-china-policies-5714211)
+    ![CCP Launches ‘Joint Sword-2024B’ Military Drills Around Taiwan](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741029-Taiwan-military-drill-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-holds-new-military-drills-around-taiwan-5740805)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
