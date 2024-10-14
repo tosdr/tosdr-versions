@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![A Complete History Of My Sexual Failures](/wp-content/thumbnails/1085-100x70.jpg?x53432)
+* [![The History of the Devil](/wp-content/thumbnails/996-100x70.jpg?x53432)
     
-    A Complete History Of My Sexual Failures
+    The History of the Devil
     
-    Chris Waitt, the star and maker of the documentary, appears to be in his mid 30s and he has had his fair share of girlfriends -- all of whom have dumped him. He decides to find out why and he attempts](https://documentaryheaven.com/a-complete-history-of-my-sexual-failures/ "A Complete History Of My Sexual Failures")
-* [![Affluenza](/wp-content/thumbnails/592-100x70.png?x53432)
+    The notion of the devil does not originate in the Bible, as many may think - In the Old Testament, Satan is just another one of God's servants. It is in Iran that the religious teacher Zarathustra sim](https://documentaryheaven.com/the-history-of-the-devil/ "The History of the Devil")
+* [![Time Trip](/wp-content/thumbnails/315-100x70.png?x53432)
     
-    Affluenza
+    Time Trip
     
-    Through revealing personal stories, expert commentary, hilarious old film clips, dramatized vignettes, and "anti-commercial" breaks, Affluenza examines the high cost of achieving the most extravagant](https://documentaryheaven.com/affluenza/ "Affluenza")
-* [![Generation OS13: The new culture of resistance](/wp-content/thumbnails/6101-100x70.jpg?x53432)
+    Horizon's Time Trip is a thrilling journey deep into the strangeness of cutting-edge physics - a place where beautiful, baffling ideas are sometimes indistinguishable from the utterly crazy.On this](https://documentaryheaven.com/time-trip/ "Time Trip")
+* [![The Rise of Acid Attacks in the UK](/wp-content/thumbnails/13351-100x70.jpg?x53432)
     
-    Generation OS13: The new culture of resistance
+    The Rise of Acid Attacks in the UK
     
-    Generation OS13 is an explosive insight into the attack on civil liberties occurring in western democracies and how artists, musicians, journalists and authors encourage the peoples right to resist ag](https://documentaryheaven.com/generation-os13-the-new-culture-of-resistance/ "Generation OS13: The new culture of resistance")
-* [![The Fake Genius: A $30 BILLION Fraud](/wp-content/thumbnails/16703-100x70.jpg?x53432)
+    Acid attacks have existed worldwide for as long as corrosive substances have been around but only in recent years have they become somewhat common place with a reported 1,800 attacks occuring in Londo](https://documentaryheaven.com/rise-of-acid-attacks-in-uk/ "The Rise of Acid Attacks in the UK")
+* [![O.J. Simpson: The Lost Confession?](/wp-content/thumbnails/13899-100x70.jpg?x53432)
     
-    The Fake Genius: A $30 BILLION Fraud
+    O.J. Simpson: The Lost Confession?
     
-    Everyone likes a story about an underdog, someone out of the ordinary an unlikely genius who comes once in a lifetime, someone who wants to change the world for good... this is not one of those stori](https://documentaryheaven.com/the-fake-genius-a-30-billion-fraud/ "The Fake Genius: A $30 BILLION Fraud")
-* [![U93 The Flight That Fought Back](/wp-content/thumbnails/6018-100x70.jpg?x53432)
+    Last October (Oct. 2017) O.J. Simpson was released from prison after serving nine years for several offences including robbery, weapons and assault convictions. He may have served his time for th](https://documentaryheaven.com/oj-simpson-lost-confession/ "O.J. Simpson: The Lost Confession?")
+* [![The Woman who thinks like a Cow](/wp-content/thumbnails/6614-100x70.jpg?x53432)
     
-    U93 The Flight That Fought Back
+    The Woman who thinks like a Cow
     
-    A story of september 11. United flight 93 was one of four hijacked planes that day. But the crew and passengers of this flight got information about WTC and other hijacked planes on air phone. So the](https://documentaryheaven.com/u93-the-flight-that-fought-back/ "U93 The Flight That Fought Back")
+    Dr Temple Grandin has a unique ability to understand the animal mind - and she's convinced her skill is down to her autistic brain.Temple believes she experiences life like an animal. Her emotions](https://documentaryheaven.com/the-woman-who-thinks-like-a-cow/ "The Woman who thinks like a Cow")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
