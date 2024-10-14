@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-**⚠️ Hurricane Milton Update: [Your Safety is Our Priority](#hurricane)**
+**[Important Notice to Our Valued Patients](https://adhdonline.com/articles/important-notice-to-our-valued-patients/)** | **[Considering Switching to ADHD Online?](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)**
 
 [![ADHD Online from Mentavi Health](https://adhdonline.com/wp-content/uploads/2022/09/ADHD-Online-Full-Color-Logo-November-2023.png)](https://adhdonline.com/)
 
