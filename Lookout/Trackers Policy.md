@@ -101,15 +101,15 @@
             
             AI-powered, multi-layered threat defense solution](https://security.lookout.com/solutions/advanced-threat-protection)
     
-    Featured Report
+    New Features
     
-    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/66df31976d08f420838c2710_Q22024report.avif)
+    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/670ca0cee9e241b80c538629_lookout-smishing-launch-sneak-peak-nav-en-1200x628.avif)
     
     Webflow in 2021
     
-    * Read Lookout's Q2 2024 Mobile Threat Landscape Report
+    * ANNOUNCING THIS WEEK
         
-        What 220 Million Devices, 325 Million Apps, and Billions of Web Items Reveal About Growing Mobile Threats](https://security.lookout.com/threat-intelligence/report/q2-2024-mobile-landscape-threat-report)
+        Enhancing your protection against the modern kill chain](https://resources.lookout.com/resources/the-modern-kill-chain-how-attacks-have-gone-from-months-to-minutes)
     
 * Partners
     
