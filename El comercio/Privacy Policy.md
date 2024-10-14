@@ -31,994 +31,1057 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Congestión vehicular se registra en esta vía del norte de Quito este lunes 14 de octubre
-========================================================================================
+NASA lanza nave Clipper en busca de rastros de vida en luna de Júpiter
+======================================================================
 
-Los conductores de este sector de Quito reportaron un tiempo de entre 30 y 40 minutos de tráfico
-------------------------------------------------------------------------------------------------
+La agencia explicó que la nave, de 5 metros de altura y 30,5 m de ancho, recorrerá 2 900 millones de km para llegar a Júpiter en cerca de seis años.
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Usuarios reportaron congestión vehicular en el sector de la Legarda.](https://www.elcomercio.com/wp-content/uploads/2024/10/Legarda.jpg)
+![La misión SpaceX Europa de la NASA en un cohete SpaceX Falcon Heavy despega del Complejo de Lanzamiento 39A en el Centro Espacial Kennedy de la agencia en Cabo Cañaveral, Florida, EE.UU., el 14 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/NASA.jpg)
 
-Este lunes 14 de octubre de 2024, el **tránsito vehicular colapsó** en el norte de Quito y causó el retraso de los quiteños a sus actividades diarias.
-
-### Más noticias
-
-* [Así funciona el Pico y placa en Quito este lunes 14 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-14-de-octubre.html "Así funciona el Pico y placa en Quito este lunes 14 de octubre")
-* [Cortes de luz para este 14 de octubre de 2024 en Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-horarios-14-de-octubre-de-2024-quito.html "Cortes de luz para este 14 de octubre de 2024 en Quito")
-* [Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz](https://www.elcomercio.com/actualidad/gobierno-de-daniel-noboa-abre-procesos-para-centrales-termoelectricas-por-cortes-de-luz.html "Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz")
-
-Tráfico en el norte de Quito
-----------------------------
-
-El flujo vehicular en sentido norte sur tuvo complicaciones esta mañana en la av. **Mariscal Sucre**, en Quito. Conductores tuvieron problemas para circular desde la entrada **al Condado**, a la altura de la gasolinera Primax.
-
-Decenas de autos avanzaban poco a poco sobre la avenida conocida por los quiteños como la **Occidental**. Alejandro Cáceres, por ejemplo, llegó desde **Pomasqui** hasta este sector a las 06:10 y pudo pasar la calle Legarda recién a las 06:43.
-
-**Cáceres estuvo 33 minutos** en un tramo que normalmente hace en 5 minutos. Lo mismo le pasó a María Vélez, quien venía desde la zona del **Condado**. Ella estuvo más de 40 minutos atascada en el mismo tramo hasta la calle Legarda.
-
-Semáforos descalibrados
------------------------
-
-Antes del puente, Vélez pudo ver un **tráiler dañado** en un costado y pensó que ese era el motivo de la congestión. Sin embargo, usuarios en redes sociales se quejan de que el problema es la mala calibración de los semáforos.
-
-Reportan que el **semáforo dura pocos segundos** en ponerse nuevamente en verde, por lo que son muy pocos los vehículos que alcanzan a pasar.
-
-Verónica Guerra, por ejemplo, comentó en X que **el problema persiste desde el miércoles pasado**. Ella confirma que este inconveniente complica el tránsito hasta el sector del Condado y que lo que tomaba 5 minutos ahora toma 30.
-
-> [@washo2627](https://twitter.com/washo2627?ref_src=twsrc%5Etfw) [@AMT\_Quito](https://twitter.com/AMT_Quito?ref_src=twsrc%5Etfw) Por favor qué pasó en el semáforo de Legarda impide avanzar a los autos que tomamos la Av Mariscal Sucre sentido norte sur en la mañana, un trayecto que tomaba 5 minutos, desde el miércoles pasado toma 30 minutos!, el tráfico se irradia hasta el Condado!!!! [pic.twitter.com/l8FK1DEwSc](https://t.co/l8FK1DEwSc)
-> 
-> — Verónica Guerra (@VeroLuGuerra) [October 14, 2024](https://twitter.com/VeroLuGuerra/status/1845805119796867421?ref_src=twsrc%5Etfw)
-
-Así como Guerra, Daniel Loján comenta en la red social X que el **semáforo de la Occidental** y Legarda tiene **mal calibrados los tiempos**. La congestión se registra en la Occidental mientras por la Legarda no circula nadie.
-
-Los usuarios de esta red social hicieron el llamado a la **Agencia Metropolitana de Tránsito** (AMT) para que revisen este inconveniente con el semáforo.
-
-Te dejamos un **mapa en tiempo real** para que revises la congestión en la zona:
-
-Así funciona el Pico y placa en Quito este lunes 14 de octubre
-==============================================================
-
-Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
---------------------------------------------------------------------------------------------------------------------------------
-
-![El Pico y placa rige de lunes a viernes en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-lunes-14.jpg)
-
-El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
-
-Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+**Clipper,** la nave más grande de la NASA, **partió este lunes desde Florida hacia Europa**. Así se conoce a luna de Júpiter **cubierta de hielo** y que esconde en sus profundidades un enorme océano que puede albergar vida.
 
 ### Más noticias
 
+* [Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html "Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.")
+* [El teniente Dan desafió al huracán Milton y esto pasó](https://www.elcomercio.com/actualidad/mundo/teniente-dan-desafio-a-huracan-milton-y-esto-paso.html "El teniente Dan desafió al huracán Milton y esto pasó")
+* [Estas son las características comunes de las personas inteligentes](https://www.elcomercio.com/tendencias/curiosidades/personas-inteligentes-caracteristicas-ciencia.html "Estas son las características comunes de las personas inteligentes ")
+
+El lanzamiento de Clipper
+-------------------------
+
+**Clipper** fue lanzada por un cohete **Falcon Heavy de SpaceX** desde el Centro Espacial Kennedy, en el centro de **Florida**, a las 12:06 EST (16:06 GMT).
+
+La histórica misión para descifrar si **“estamos solos” en el universo** realizará unos 50 sobrevuelos a lo largo de esta misteriosa luna helada. Será a 25 kilómetros (16 millas) de altura, para determinar si Europa presenta condiciones **favorables de vida**.
+
+Durante unos cuatro años, la nave enviará pistas a los científicos sobre el potencial astrobiológico de los mundos habitables **más allá de la Tierra**. Pero la misión se podría extender como ls hizo la Galileo, que exploró la superficie helada de Europa hace más de 20 años.
+
+La agencia espacial estadounidense explicó que la nave, **de 5 metros de altura y 30,5 metros de ancho**, recorrerá **2 900 millones de km** para llegar a Júpiter en cerca de seis años. Después tardará uno más para ajustar su órbita e iniciar sus estudios en 2030.
+
+La misión **Europa Clipper** busca comprender la naturaleza de la capa de hielo, el océano interior y la composición y geología de esta luna, **según la NASA**.
+
+Se cree que Europa, **una de las lunas más conocidas de Júpiter**, posee “agua líquida, la química necesaria y una fuente de energía”, elementos indispensables para la **existencia de vida.**
+
+Con sus enormes paneles solares y antenas de radar, **Europa Clipper es la nave más grande** desarrollada por la NASA para una misión planetaria.
+
+El diseño de los paneles es crucial para e**l abastecimiento energético** porque Europa Clipper opera en el sistema de Júpiter, que está más de cinco veces más lejos del Sol que la Tierra.
+
+Protección de instrumentos de la radiación de Júpiter
+-----------------------------------------------------
+
+La nave está **equipada con nueve potentes instrumentos científicos.** Y, debido a que la luna Europa está bañada por la radiación atrapada en el campo magnético de Júpiter, los instrumentos de la nave y otros componentes electrónicos estarán encerrados dentro de una bóveda de paredes gruesas.
+
+La idea es **blindarse para ir a Júpiter** con una bóveda protectora de la radiación que fue desarrollada y utilizada con éxito por primera vez por la nave espacial Juno de la NASA.
+
+Las paredes de la bóveda, **hechas de titanio y aluminio**, actúan como un escudo contra la mayoría de las partículas atómicas de alta energía, que desacelera drásticamente la degradación de los componentes electrónicos de la nave.
+
+La carga útil incluye **cámaras y espectrómetros** para producir imágenes de alta resolución. También mapas de la composición de la superficie y la delgada atmósfera de la luna Europa.
+
+También incluye un radar de **penetración de hielo** para buscar agua subterránea y un magnetómetro. Además, mediciones de gravedad para desentrañar las **pistas sobre su océano** y su interior profundo.
+
+La nave también llevará un **instrumento térmico** para identificar las diferentes ubicaciones de hielo más cálido y quizás erupciones recientes de agua. Así como otros para medir la composición de las diminutas partículas en la delgada **atmósfera de la luna** y su entorno espacial.
+
+La luna Europa, según la NASA, **muestra evidencia** contundente de que existe un océano de agua líquida debajo de su corteza helada. Más allá de la Tierra, **Europa es considerada uno de los lugares** más prometedores donde podría haber entornos actualmente habitables en el [Sistema Solar](https://es.wikipedia.org/wiki/NASA "https://es.wikipedia.org/wiki/NASA").
+
+Asamblea trata proyecto sobre energías renovables ante cortes de luz
+====================================================================
+
+Este 14 de octubre, la Comisión de Desarrollo Económico aborda el proyecto de Ley para Impulsar la Iniciativa Privada en la Transición a Energías Renovables.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Comisión de la Asamblea conoció el proyecto de Ley Orgánica para Impulsar la Iniciativa Privada en la Transición a Energías Renovables, el 8 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/comision.jpg)
+
+El proyecto de **Ley Orgánica para Impulsar la Iniciativa Privada en la Transición a Energías Renovables** se trata en la **Asamblea Nacional**. Este tiene carácter de urgente en materia económica y se da en medio de los cortes de luz en Ecuador[.](https://es.wikipedia.org/wiki/Ecuador)
+
+La propuesta, este lunes, 14 de octubre de 2024, se desarrolla en medio de una **crisis energética** que genera complicaciones diarias a escala nacional.
+
+### Más noticias
+
+* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
 * [Guayaquil tiene nuevos horarios de cortes de luz para este lunes 14 de octubre de 2024](https://www.elcomercio.com/actualidad/ecuador/guayaquil-nuevos-horarios-cortes-de-luz-lunes-14-de-octubre-de-2024.html "Guayaquil tiene nuevos horarios de cortes de luz para este lunes 14 de octubre de 2024")
 * [Cortes de luz para este 14 de octubre de 2024 en Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-horarios-14-de-octubre-de-2024-quito.html "Cortes de luz para este 14 de octubre de 2024 en Quito")
 
-Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+Proyecto de Ley para Energías Renovables, entre cortes de luz
+-------------------------------------------------------------
 
-La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+La propuesta se desarrolló en la sesión de la Comisión de Desarrollo Económico, en modalidad virtual. En esta se presentó **Byron Benalcázar**, como delegado de la ministra de Energía (e), Inés Manzano.
 
-Horarios del Pico y placa
+El presidente Daniel Noboa presentó el plan para la transición a **energía renovable**.
+
+Benalcázar detalló que hay un incumplimiento del **Plan Maestro de Electricidad**, que se registra desde hace años atrás. Esto, entre las condiciones de estiaje, desembocó en la crisis energética que vive el país.
+
+Esas omisiones, dijo el Delegado, incluye la falta de desarrollo de planes de generación de energía.
+
+La propuesta
+------------
+
+La iniciativa del Ejecutivo, remitida a la **Asamblea Nacional**, se enfoca en promover soluciones económicas, generar energía renovable para enfrentar la crisis energética, optimizar recursos públicos y fomentar la inversión privada en el sector eléctrico nacional.
+
+En definitiva, el proyecto establece vías para desarrollar diversas fuentes de energía renovable y garantizar un **servicio energético** estable y accesible.
+
+El pasado 8 de octubre, la **Comisión de Desarrollo Económico** avocó conocimiento del proyecto, calificado a trámite por el Consejo de Administración Legislativa el pasado 4 de octubre de 2024.
+
+De acuerdo con la **Ley Orgánica de la Función Legislativa**, la comisión contará con un plazo no menor a cinco días y de máximo 10, a partir de empezado el tratamiento, para remitir su informe para primer debate en el **Pleno de la Asamblea**.
+
+El proceso en la Asamblea
 -------------------------
 
-En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+**Byron Benalcázar** expuso que cuentan con varios proyectos para generar energía, como los de generación solar. Algunos ya cuentan con estudios de prefactibilidad.
 
-Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+Lo propio con los de generación geotérmica, como el de **Chachimbiro**, en Imbabura, de 50 megavatios. Este ya tiene financiamiento.
 
-Multas por infringir la medida
-------------------------------
+Luego de la exposición del Funcionario delegado por **Inés Manzano**, el asambleísta **Blasco Luna** cuestionó que no haya sido ella quien “dé la cara”. Según él, sobre la propuesta hay más dudas que certezas.
 
-La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir 69 dólares la primera vez.
+El **Legislador**, además, cuestionó que lo que se requieren propuestas a corto plazo.
 
-Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+Por su parte, el asambleísta **Jorge Acaiturri** pidió detalles sobre las acciones que ya se anunciaron, como si la barcaza contratada para generar energía ya está funcionando en toda su capacidad.
 
-Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
-
-Límites en Quito para Pico y placa
-----------------------------------
-
-Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
-
-Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
-
-El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
-
-Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
-
-> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
-> 
-> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
-
-Seis autoras ecuatorianas imprescindibles para conmemorar el Día de las Escritoras 
-===================================================================================
-
-El Día de las Escritoras visibiliza la contribución de las mujeres en la literatura.
-------------------------------------------------------------------------------------
-
-![El Día de las Escritoras se estableció cerca de la festividad de Teresa de Jesús. Foto: www.cultura.gob.es.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas.jpg)
-
-El **Día de las Escritoras** es una iniciativa que busca **compensar la discriminación histórica hacia las mujeres en la literatura**, surgida en octubre de 2016 gracias a la colaboración entre la Biblioteca Nacional de España, la Asociación Clásicas y Modernas, y la FEDEPE.  
-
-### Más noticias
-
-* [Fallece escritora ganadora del Premio Nobel de Literatura](https://www.elcomercio.com/tendencias/cultura/alice-munro-escritora-premio-nobel-obituario.html "https://www.elcomercio.com/tendencias/cultura/alice-munro-escritora-premio-nobel-obituario.html") 
-* [Conoce a Han Kang, premio Nobel de Literatura 2024, su estilo e impacto literario](https://www.elcomercio.com/tendencias/cultura/han-kang-premio-nobel-literatura.html "https://www.elcomercio.com/tendencias/cultura/han-kang-premio-nobel-literatura.html") 
-
-Se eligió esta fecha, el lunes más cercano, por su proximidad a la festividad de **Teresa de Jesús (15 de octubre)**, símbolo de la excelencia literaria y espiritual femenina. Con motivo de esta celebración, se destaca una lista de **escritoras ecuatorianas reconocidas que merecen ser leídas**. 
-
-**Gabriela Alemán (Río de Janeiro, 1968)** 
--------------------------------------------
-
-![Foto: El País.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas-1-1024x683.jpg)
-
-Foto: El País.
-
-Según la página [Mandrágora Teatro](https://mandragorateatro.org/gabriela-aleman-2/ "https://mandragorateatro.org/gabriela-aleman-2/"), **Gabriela Alemán**, nacida en **Río de Janeiro** y criada en siete países, descubrió la escritura en su adolescencia, influenciada por su abuelo, el **cronista Hugo Alemán**, y su padre, un ávido lector. Se formó académicamente en importantes universidades y destacó en el baloncesto. Sus viajes la inspiraron a escribir, lo que la llevó a convivir con destacados escritores en España, enriqueciendo su obra. Es escritora, profesora universitaria y traductora. **Recibió la beca Guggenheim** en 2006 y fue seleccionada para **Bogotá 39**. Su escritura se inspira en autoras como **Grace Paley y Ursula K. Le Guin**. Entre sus obras destacadas están: ‘Maldito corazón’ (1996), ‘Poso Wells’ (2007), ‘La muerte silba un blues’ (2014).  
-
-**Gabriela Ponce Padilla (Quito, 1977)** 
------------------------------------------
-
-![Foto: Ecuadorian Literature.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas-2-1024x683.jpg)
-
-Foto: Ecuadorian Literature.
-
-De acuerdo con la página de la **editorial española [Candaya](https://www.candaya.com/autor/gabriela-ponce/ "https://www.candaya.com/autor/gabriela-ponce/")**, Ponce es escritora, directora de teatro y **profesora de artes escénicas en la Universidad San Francisco de Quito**. Ha publicado ‘Antropofaguitas’ (2015), que ganó el **Premio del Ministerio de Cultura de Ecuador**, el monólogo Cama en la antología ‘Penumbra’ (2016) y la obra de teatro ‘Lugar’ (2017), galardonada con el **Premio Gallegos Lara**. Sus cuentos figuran en diversas antologías nacionales e internacionales. Cofundadora de **Casa Mitómana**, también ha producido y dirigido obras como ‘Tazas Rosas de Té’ (2016) y ‘Entrada en Pérdida’ (2013), esta última ganadora del **premio internacional Escritura de las Diferencias**. Su última obra de narrativa se titula **‘Flotar, pude’** (2024). 
-
-**Sandra Araya (Quito, 1980)** 
--------------------------------
-
-![Foto: Radio Pichincha.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas-3-1024x683.jpg)
-
-Foto: Radio Pichincha.
-
-**Escritora quiteña**, ha ganado el **premio de novela corta Miguel Donoso Pareja** por su obra ‘Los enterramientos’, convirtiéndose en la primera mujer en recibir este galardón. En esta novela, explora la **relación entre la muerte y lo indígena**, al adentrarse en las **normas occidentales** sobre los **rituales funerarios** a través de personajes como Emma y Canaima. Araya ha publicado destacadas novelas, como ‘Orange’ (2014) y ‘La familia del Dr. Lehman’ (2015), además del libro de cuentos ‘Salvajes (del día después)’ (2022). Su escritura se caracteriza por la **fusión de elementos de terror y fantasía en contextos cotidianos.** 
-
-**Mónica Ojeda (Guayaquil, 1988)** 
------------------------------------
-
-![Foto: Páginas de Espuma.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas-4-1024x683.jpg)
-
-Foto: Páginas de Espuma.
-
-**Mónica Ojeda**, a decir de la página [Escritores](https://www.escritores.org/biografias/20579-ojeda-monica-#:~:text=M%C3%B3nica%20Ojeda&text=Es%20licenciada%20en%20Comunicaci%C3%B3n%20Social,en%20el%20%C3%A1rea%20de%20Literatura. "https://www.escritores.org/biografias/20579-ojeda-monica-#:~:text=M%C3%B3nica%20Ojeda&text=Es%20licenciada%20en%20Comunicaci%C3%B3n%20Social,en%20el%20%C3%A1rea%20de%20Literatura."), es **Licenciada en Comunicación Socia**l con mención en Literatura, posee un **Máster en Creación Literaria y otro en Teoría y Crítica de la Cultura**. Su obra incluye ‘La desfiguración Silva’ (2015), ganadora del **Premio Alba Narrativa**, ‘Nefando’ (2016), Mandíbula (2018), el libro de cuentos ‘Las Voladoras’ (2020) y ‘Chamanes eléctricos en la fiesta del sol’ (2024) así como el poemario ‘El ciclo de las piedras’ (2015), que le valió el **III Premio Nacional de Poesía Desembarco**. La narrativa de Ojeda explora **emociones vinculadas al miedo y la perversidad**, y se enmarca dentro del **“nuevo gótico latinoamericano”.** 
-
-**Natalia García Freire (Cuenca, 1991)**  
-------------------------------------------
-
-![Foto: Universidad del Azuay.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas-5-1024x683.jpg)
-
-Foto: Universidad del Azuay.
-
-**García Freire**, de acuerdo con la página [Hablemos](https://www.hablemosescritoras.com/writers/1768 "https://www.hablemosescritoras.com/writers/1768"), Escritoras, es **escritora y periodista**, con un **máster en Narrativa de la Escuela de Escritores de Madrid**. Ha publicado artículos en medios como BBC Mundo y Univisión, y su cuento Noche de fiesta apareció en la revista **La gran belleza**. Su primera novela, ‘Nuestra piel muerta’ (2019), ha sido traducida a varios idiomas y **reconocida por el New York Times como uno de los mejores libros del año**, aborda temas como la **conexión del hombre con la tierra, la pérdida y la locura**. Su segunda novela, ‘Trajiste contigo el viento’, fue publicada en 2022. Enseña **Escritura Creativa en la Escuela de Escritores de Madrid y en la Universidad del Azuay**, y también da clases de inglés en primaria. 
-
-**Yuliana Ortiz Ruano (Esmeraldas, 1992)** 
--------------------------------------------
-
-![Foto: Universidad de las Artes.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-las-Escritoras-Ecuatorianas-6-1024x683.jpg)
-
-Foto: Universidad de las Artes.
-
-Siguiendo con la [misma fuente](https://www.hablemosescritoras.com/writers/1153 "https://www.hablemosescritoras.com/writers/1153"), **Ortiz Ruano** es escritora, poeta y **DJ de música afro del Pacífico**. Ruano también es licenciada en Literatura por la **Universidad de las Artes**. Es miembro de **grupos de investigación en artes y literatura afrodescendiente** y participó en el **Mapeo de Feminismos Negros en Abya Yala**. Su obra aborda temas de identidad, género, migración y la **experiencia de los pueblos afrodescendientes en América Latina**, que combina elementos poéticos y narrativos. Ha publicado en diversas revistas y antologías en varios países y **ha obtenido premios como el primer lugar en el concurso nacional de literatura en 2019**. Sus obras incluyen ‘Sovoz’ (2016), ‘Canciones desde el fin del mundo’ (2021), ‘Cuaderno del imposible retorno a Pangea’ (2021) y ‘Fiebre de carnaval’ (2022). 
-
-El reto de definir una visión de país en elecciones
-===================================================
-
-El CNEha calificado a 16 binomios, lo que refleja una diversidad de opciones, pero también la fragmentación del espectro político
----------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen creada con inteligencia artificial con el prompt: un político habla a sus votantes.](https://www.elcomercio.com/wp-content/uploads/2024/10/Untitled-design-22.jpg)
-
-El escenario político de cara a las elecciones generales de 2025 en Ecuador pinta un **panorama complejo**, no solo por la cantidad de binomios presidenciales, sino también por la falta de claridad en sus propuestas[.](https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025 "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025")
-
-El Consejo Nacional Electoral (CNE) ha calificado a **16 binomios**, lo que refleja una diversidad de opciones, pero también la fragmentación del espectro político. Con solo algunos meses antes de los comicios, las duplas tienen el **desafío de articular un discurso coherente** que aborde los problemas urgentes del país.
-
-> Lo más preocupante es que un gran porcentaje de los binomios todavía no tiene una línea discursiva clara, lo que podría resultar en una campaña superficial y llena de lugares comunes.
-
-Uno de los temas que más apremia a los ecuatorianos es la inseguridad. En un país donde los índices de violencia se han disparado en los últimos años, no es sorprendente que la ciudadanía exija **soluciones** **concretas**. Sin embargo, lo que se ha observado hasta el momento en la mayoría de las candidaturas es una retórica vacía que no va más allá de las **críticas al gobierno**. Esto no es suficiente para garantizar un cambio estructural. ¿Qué están proponiendo los candidatos en términos de seguridad? Hasta ahora, poco o nada.
-
-A esto se suma una crisis energética. Las **políticas energéticas** de los últimos años no han logrado estabilizar un sistema que requiere inversión y planificación a largo plazo. El enfoque debe estar en **soluciones viables** y sostenibles que integren tanto al sector público como al privado.
-
-Otro aspecto que merece atención es el empleo, un tema que parece haber quedado relegado a un segundo plano en medio del **bullicio electoral**. El Ecuador enfrenta una alta tasa de desempleo y subempleo, lo que afecta especialmente a los jóvenes. Las promesas de **reactivación económica** han sido vagas y, al igual que en la seguridad, no se ha visto una propuesta robusta que incluya la creación de nuevas oportunidades laborales a través de la innovación y el emprendimiento.
-
-Lo más preocupante es que un gran porcentaje de los binomios todavía no tiene una línea discursiva [clara](https://www.elcomercio.com/elecciones/16-binomios-presidenciales-tienen-posturas-dispersas-elecciones-2025.html "https://www.elcomercio.com/elecciones/16-binomios-presidenciales-tienen-posturas-dispersas-elecciones-2025.html"), lo que podría resultar en una **campaña superficial** y llena de lugares comunes. Si bien el CNE tiene hasta el 30 de diciembre para publicar la lista definitiva de candidaturas, la pregunta que persiste es: ¿qué clase de debate podemos esperar cuando la mayoría de los candidatos no han presentado propuestas concretas?
-
-En las [elecciones](https://www.elcomercio.com/actualidad/politica/donde-votar-elecciones-2025.html "https://www.elcomercio.com/actualidad/politica/donde-votar-elecciones-2025.html") de 2025, más que nunca, **el país necesita liderazgo**, pero no uno basado en promesas vacías, sino en ideas y planes sólidos que puedan ejecutarse en un contexto de crisis múltiple. A medida que se acerca el 9 de febrero, las duplas que aspiran a gobernar Ecuador deben ser capaces de comunicar de manera efectiva cómo enfrentarán los **desafíos del futuro**.
-
-Cartas a Quito / 14 de octubre de 2024
-======================================
-
-Estas son las cartas a Quito de este lunes 14 de octubre de 2024
-----------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-La ordenanza verde azul y el Valle de Uravía
---------------------------------------------
-
-La Ordenanza Metropolitana no. 060 – 2023, más conocida como la ordenanza “Verde-Azul”, fue aprobada por el Concejo Metropolitano de Quito, el 4 de julio de 2023, a raíz de la sentencia dictada dentro de la acción de protección no. 2167-21-EP/22, seguida a favor del Río Monjas, en contra del Municipio del Distrito Metropolitano de Quito
-
-Dicha sentencia dispuso como reparación integral, entre otras, el establecimiento de un marco normativo encaminado a establecer los principios y las reglas que se deben considerar para revertir la situación, lo que condujo a la aprobación de la ordenanza Verde – Azul.
-
-En la exposición de motivos de la ordenanza, se dice textualmente lo siguiente: “Se deja sentado que se requiere tener en cuenta los derechos desarrollados en la sentencia, para que la cuenca del río Monjas y otras cuencas semejantes en el Distrito Metropolitano de Quito se restauren y sean tratadas de forma integral. Para el efecto, se determinó que se elabore una ordenanza “verde-azul”, bajo la coordinación de la Secretaría de Ambiente, con la asesoría y participación de las entidades y dependencias metropolitanas que correspondan.”
-
-Esto es, el propio Concejo Metropolitano ha reconocido la obligatoriedad del precedente constitucional sobre el caso del Río Monjas y la fuerza vinculante de dicho precedente para otros casos similares. Actuar de manera diferente, sería incurrir en un grave incumplimiento de la sentencia constitucional antes citada, con todos los riesgos que eso implica, que incluso podrían llevar a la destitución de la máxima autoridad municipal y de la totalidad de los concejales.
-
-Habiendo transcurrido más de un año de su aprobación, la ordenanza Verde -Azul ha quedado en una simple declaración de “buenas intenciones”, ya que, en la práctica, es “letra muerta”, porque ninguna de las nueve disposiciones transitorias que se dictaron, han sido cumplidas dentro de los términos previstos en la ordenanza, justamente por la negligencia y “quemeimportismo” del propio municipio capitalino.
-
-Por citar un ejemplo, la disposición tercera, dice: ”En el término de doscientos setenta (270) días contados a partir de la fecha de sanción de la presente ordenanza, la autoridad ambiental distrital elaborará el Plan Estratégico Ambiental Integral en los Ríos y Quebradas de Quito.“
-
-Recién en estos días – como vulgarmente se dice, “más vale tarde que nunca” – las autoridades municipales han invitado a la ciudadanía a participar en un denominado  “Taller Diagnóstico Participativo para la Elaboración de: Plan Estratégico de Ríos y Quebradas y el Plan de Manejo de Microcuencas del DMQ”.
-
-A pesar de la vigencia de la ordenanza Verde – Azul, que protege integralmente las microcuencas, ríos y quebradas del Distrito Metropolitano de Quito (DMQ), la Empresa Metropolitana de Agua Potable y Saneamiento (EPMAPS), en flagrante violación del precedente jurisprudencial contenido en la sentencia constitucional no. 2167-21-EP/22 sobre el Río Monjas y aplicable a todos los ríos del DMQ, continúa realizando los estudios para la pretendida construcción de una planta de tratamiento de aguas residuales (PTAR) en la microcuenca hidrográfica del valle de Uravía, parroquia de Checa.
-
-El Río Uravía, como parte vital de la naturaleza, – al igual que el Río Aquepi en la Provincia de Santo Domingo de los Tsáchilas, el Río Monjas en la ciudad de Quito, el Bosque Protector Los Cedros en Cotacachi-Imbabura, y el Río Machángara en  esta ciudad -,  es sujeto y titular de los derechos reconocidos a la naturaleza y tiene derecho a que se respete integralmente su existencia y el mantenimiento y regeneración de sus ciclos vitales, estructura, funciones y procesos evolutivos, conforme establece el art. 71 de nuestra Constitución.
-
-Alfonso López J.
-
-1954 como si fuese 2024, “pero condenado y al explotar”
--------------------------------------------------------
-
-Jesús o Isha pasó años en el Tíbet y la India, los R. Magos de Oriente sabían de su venida y no Occidente. Kirpal Singh: <La humanidad tendrá que aprender a un altísimo costo, sus diferencias los llevarán a la destrucción, todos quieren paz, pero se preparan para la guerra con ingentes recursos. Cuando llegue la destrucción se extenderá por todo el mundo con las bombas. Hay antagonismo entre clase y clase, país y país y se busca dominar a los demás. Los actos “obscuros” aumentan día a día y se ha vuelto imposible para un ser humano correcto vivir en el mundo> En su pequeño libro de 1954, ¡Hombre, Conócete a ti Mismo!, el prólogo de B. Sena: <Mediante un gran esfuerzo de siglos, el hombre ha logrado en gran medida controlar las Fuerzas de la Naturaleza y ponerlas a su servicio. Pero lamentablemente, debido a que este control ha llegado antes de obtener el Autoconocimiento: conocer su Ser o Alma (y a Dios Padre), y su convivencia con la humanidad. Todo lo que descubrió e inventos diseñados para el servicio de la humanidad, se han vuelto en destrucción y devastación. Dejando de lado sus ideas íntimas por la paz, siembra sin darse cuenta las semillas del odio, la diferencia de clases, la discriminación racial, las pasiones y prejuicios nacionales y la discordia mundial. Y la “Paz del Mundo” por falta de un entendimiento adecuado, hoy pende de un hilo muy delgado. Las injusticias sociales y las desigualdades económicas han hecho que la gente sea escéptica de Dios y tengan desconfianza. La “paz con las armas”, el miedo perpetuo y la impotencia en que vivimos no es un estado ideal. Deseamos una paz viva, basada en el amor fraterno y la buena voluntad, la confianza y respeto como hijos del mismo Padre Supremo.> Obscuros, extremistas, fundamentalistas y vendidos de derecha explotan al “Mundo Libre Democrático y la Familia y la Fe en Dios Padre”.   
-
-Juan Carlos Cobo Rueda
-
-Humanismo, solidaridad, patriotismo
-===================================
-
-Limpiemos la corrupción pública y privada que enmaraña y obstaculiza el indispensable desarrollo de un Sistema Nacional de Salud.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
-
-La **vida** de los **seres humanos** depende fundamentalmente del goce pleno de **salud**. Las d**iferencias económicas y sociales** no deben ser determinantes para que unos **seres humanos** puedan acceder a tratamientos médicos y otros no. 
-
-Nuestra **patria** pequeña ha sido maltratada constantemente, salvo contadas **excepciones**, por poderes sedientos de **fortunas arrebatadas** a todo el **pueblo**, con el pretexto de la realización de **grandes contratos** y obras inmensamente sobrevaloradas, con presupuestos iniciales, sorpresivamente superados, en **suculentas cifras**, en obras muchas veces mal concluidas. El **erario nacional** se ha debilitado tanto que la crisis, en que se halla sumido el país, afecta a la **seguridad**, al **empleo**, a la **educación** y sobre todo a la salud, de manera casi **catastrófica**.
-
-Duele mucho contemplar a inmensas **mayorías populares**, de **trabajadores** y **jubilados**, que concurren a **servicios públicos y del IESS**, en búsqueda de una solución a sus **enfermedades** y se encuentran con la triste realidad de una enorme **carencia** de **medicamentos** e **insumos**. El Congreso Nacional en el 2002 aprobó la **Ley Orgánica del Sistema Nacional de Salud**, misma que fue reglamentada en el Gobierno del Presidente Gustavo Noboa. No se la ha aplicado, pero han existido intentos de iniciarla y se han creado redes para la atención a **pacientes de los hospitales** del Ministerio de Salud, del IESS, del ISSFA, del ISSPOL, del **Seguro Social Campesino,** en **intervenciones** y **procedimientos** que no  se pueden efectuar en esas **instituciones públicas**, que carecen de los **equipos** o del **personal preparado**; pero que se realizan en **Centros Privados** especializados y bien dotados como SOLCA, **hospitales privados**, c**entros de diálisis y de altas especialidades intervencionistas**. Las redes han funcionado y han permitido que miles de pacientes pobres hayan recibido **tratamientos** muy complejos y costosos, en los últimos años, dando luz a la esencia del **Sistema Nacional de Salud** que preconiza que todo centro, al que se transfieran los pacientes de otras **instituciones**, tiene la **obligación** de recibirlos y tratarlos, para posteriormente **intercambiar costos**, de acuerdo a tarifarios señalados previamente y correctamente auditados. Desgraciadamente, el IESS, principalmente, y el **Ministerio de Salud,** han retardado las auditorías y han dejado de cumplir con los pagos a los **prestadores de la atención**, ocasionándoles tantos problemas de subsistencia que algunos han quebrado y otros, que atraviesan serias **dificultades económicas**, se han visto obligados a no atender a pacientes de la **red pública y del IESS**. Estas irregularidades han dado pábulo al aparecimiento de brotes de **corrupción**, ya en las **instituciones remitentes**, ya entre los prestadores. Son repugnantes las estafas de **contados gerentes** y propietarios de conocidos y desprestigiados **servicios hospitalarios**, que se han enriquecido ilícitamente apropiándose de todo el dinero que han cancelado parcial y retardadamente los **derivadores hospitalarios**, sin cumplir con el pago de **honorarios a los médicos** que han realizado los **procedimientos**, ni tampoco a las casas que venden y proveen los **insumos de elevada tecnología**, indispensables para llevar a cabo esas intervenciones.
-
-El país necesita **evolucionar**, cambiar la mente de sus **ciudadanos**, especialmente de los jóvenes que han crecido en un **ambiente viciado** por el mal ejemplo de **políticos** y de gente inescrupulosa que han abusado del poder para **enriquecerse** de manera **fraudulenta** en muy corto tiempo. Es imprescindible y urgente rescatar y dar **vigencia** a **valores morales y éticos** que enrumben a una nueva **sociedad**, de la que puedan **enorgullecerse** y formar parte **nuestros descendientes**. No debemos olvidar que el mayor valor de una nación es el **ser humano** y la esencia de la vida del ser humano es l**a salud mental y física**, prioricemos todos los **esfuerzos** por vencer el **desorden, la politiquería, los gritos** y afanes sectarios y absurdos que colman el tiempo de la Asamblea incapaz de elaborar leyes de beneficio nacional y respondamos al **clamor** de los **compatriotas enfermos** que ruegan por recobrar y mantener la **salud**, que es un **derecho** humano del pobre, del rico, del niño, del viejo, del hombre y de la mujer… de todos. Limpiemos la **corrupción** **pública** y privada que enmaraña y obstaculiza el indispensable desarrollo de un **Sistema Nacional de Salud** que proteja a los **ecuatorianos sanos y enfermos**.
-
-El consumo de los hogares en Ecuador cae; estas son las implicaciones en la economía
-====================================================================================
-
-En el segundo trimestre de 2024, el consumo de los hogares en Ecuador cayó un 2,2% en comparación con el mismo periodo del año anterior.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![El consumo de los hogares cayó 2,2% en el segundo semestre del 2024. El descenso en el consumo afecta tanto a las familias como a la economía en general. Foto: Archivo](https://www.elcomercio.com/wp-content/uploads/2024/10/consumo.jpg)
-
-En el segundo trimestre de 2024, el consumo de los hogares en Ecuador cayó un 2,2% en comparación con el mismo periodo del año anterior. Esta reducción, según datos del Banco Central del Ecuador (BCE), forma parte de una **desaceleración económica** que también afectó al Producto Interno Bruto (PIB). Este se contrajo un 2,2% entre abril y junio de 2024[​](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [La economía de Ecuador cayó, ¿por qué decreció?](https://www.elcomercio.com/actualidad/negocios/economia-ecuador-cayo-por-que-decrecio.html "La economía de Ecuador cayó, ¿por qué decreció?")
-* [Generadores eléctricos pagan menos impuestos y aranceles en Ecuador](https://www.elcomercio.com/actualidad/negocios/generadores-electricos-pagan-menos-impuestos-y-aranceles-en-ecuador.html "Generadores eléctricos pagan menos impuestos y aranceles en Ecuador")
-* [Ecuador busca cambiar la matriz energética para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-cambiar-matriz-energetica-evitar-cortes-luz.html "Ecuador busca cambiar la matriz energética para evitar cortes de luz")
-
-El consumo en los hogares
--------------------------
-
-Según el Informe de Cuentas Nacionales del BCE, la demanda de productos **textiles, calzado**, así como de servicios de **comercio, transporte, alojamiento y alimentación** disminuyó notablemente en el segundo trimestre del 2024.
-
-Esto afectó al **sector comercial**, cuyas **ventas minoristas** cayeron en rubros como combustibles, productos farmacéuticos y ferretería​. Además, las **importaciones** de bienes de consumo duradero se redujeron en un 12,7%, lo que muestra un **debilitamiento** en la demanda de productos de larga duración, como electrodomésticos, muebles, vehículos, entre otros.
-
-El consumidor ecuatoriano
--------------------------
-
-El consumidor ecuatoriano ha demostrado una notable capacidad de adaptación, consolidándose como uno de los más resilientes de la región, según **Diego Gizzi**, director de Retail de Dichter & Neira. Actualmente, los hábitos de consumo han cambiado significativamente, agregó.
-
-Por ejemplo, el canal tradicional (tiendas), que representa el 65% del **consumo en el paí**s, experimentó una caída del 18% en los dos primeros trimestres de 2024, evidenciando una tendencia hacia la **cautela y el ahorro** en el gasto diario.
-
-En comparación con el trimestre anterior, el consumo de los hogares cayó un 0,05%, lo que sugiere una tendencia de **contracción sostenida**. Esto está vinculado a la reducción en el **acceso al crédito** y la caída en la compra de bienes duraderos.
-
-Caída del crédito de consumo
-----------------------------
-
-El crédito al consumo también **registró una disminución**. Durante el segundo trimestre de 2024, los créditos otorgados por el Sistema Financiero Nacional (SFN) bajaron un 2,4% en monto y un 3% en número de operaciones. Esto indica que las familias ecuatorianas están **limitando su endeudamiento** y concentrándose en mantener gastos esenciales.
-
-Además, los recientes cortes de luz en el país han agravado la situación. El 66% de los tenderos ecuatorianos reportan que los **apagones han afectado negativamente sus ventas**, y solo 2 de cada 10 están preparados para afrontar estos desafíos, por ejemplo, con generadores propios.
-
-Esto no solo afecta a los comerciantes, sino que también limita las opciones de los consumidores, quienes dependen de estos puntos de venta para su abastecimiento cotidiano.
-
-Así, el descenso en el consumo afecta tanto a las **familias como a la economía en general**, ya que representa un componente crucial del PIB. La recuperación dependerá de la capacidad del Gobierno para estabilizar el **empleo** y fomentar la **inversión**, factores clave para **reactivar el consumo interno​.**
-
-La av. Mariana de Jesús será intervenida por 15 días; conozca las rutas alternas
-================================================================================
-
-La rehabilitación de la avenida Mariana de Jesús avanza en el tramo entre Pedro Calvo y Oe7B con un plan de movilidad para asegurar el acceso a centros de salud. La intervención durará 15 días.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El segundo tramo de intervención arranca en la Mariana de Jesús.](https://www.elcomercio.com/wp-content/uploads/2024/08/MAriana-de-JEsus-1.jpg)
-
-La rehabilitación de la avenida **Mariana de Jesús**, en el norte de **Quito**, entra en una nueva fase desde este lunes 14 de octubre de 2024. Los trabajos se extenderán por 15 días y afecta una zona clave de **servicios médicos** debido a la alta concentración de centros de salud en el sector[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-### Más noticias
-
-* [¿Cuándo comienzan los trabajos de la Ecovía en la Plaza Argentina?](https://www.elcomercio.com/actualidad/quito/trabajos-ecovia-plaza-argentina-transito.html "¿Cuándo comienzan los trabajos de la Ecovía en la Plaza Argentina?")
-* [Congestión vehicular en av. Simón Bolívar por limpieza de taludes](https://www.elcomercio.com/actualidad/quito/municipio-retira-arboles-maleza-ceniza-taludes-av-simon-bolivar.html "Congestión vehicular en av. Simón Bolívar por limpieza de taludes")
-* [Guayaquil tiene nuevos horarios de cortes de luz para este lunes 14 de octubre de 2024](https://www.elcomercio.com/actualidad/ecuador/guayaquil-nuevos-horarios-cortes-de-luz-lunes-14-de-octubre-de-2024.html "Guayaquil tiene nuevos horarios de cortes de luz para este lunes 14 de octubre de 2024")
-
-El **Municipio de Quito** informó que este lunes 14 de octubre de 2024 continuarán las obras en la **av. Mariana de Jesús**, en el tramo entre la **calle Pedro Calvo y la calle Oe7B.**
-
-Para evitar problemas de congestión en el sector, la Empresa Pública Metropolitana de Movilidad y Obras Públicas (Epmmop) implementó un plan de movilidad. El mismo busca garantizar el acceso continuo a **emergencias médicas** y la fluidez vehicular durante los trabajos, señaló el Municipio.
-
-Las labores de rehabilitación comenzarán por el carril en sentido oriente-occidente, es decir, el de subida hacia la avenida Mariscal Sucre (Occidental). Una vez finalizados los trabajos en este carril, la intervención continuará en el carril opuesto, que conecta en sentido occidente-oriente. El objetivo es mejorar la transitabilidad y seguridad de esta importante arteria vial de Quito, cuyo deterioro ha afectado el flujo vehicular en la zona.
-
-Rutas alternas por obras en la av. Mariana de Jesús
----------------------------------------------------
-
-> 👷🏼[#RehabilitaciónVial](https://twitter.com/hashtag/Rehabilitaci%C3%B3nVial?src=hash&ref_src=twsrc%5Etfw) | Pilas vecinos se vienen nuevos cierres en la. [#AvMarianaDeJesús](https://twitter.com/hashtag/AvMarianaDeJes%C3%BAs?src=hash&ref_src=twsrc%5Etfw)👷🏼  
->   
-> Desde este lunes 14 de octubre avanzamos con la intervención en el tramo entre Pedro Calvo y Oe7B.  
->   
-> Léelo aquí👉 [https://t.co/SNq14XZojf](https://t.co/SNq14XZojf)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw)[#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/xPrEvlrCQc](https://t.co/xPrEvlrCQc)
-> 
-> — Obras Quito (@ObrasQuito) [October 13, 2024](https://twitter.com/ObrasQuito/status/1845262011183063192?ref_src=twsrc%5Etfw)
-
-Para mitigar el impacto de las obras, se han dispuesto rutas alternas, entre ellas, las calles **Pedro Calvo**, **San Gabriel y Nicolás Arteta**. Estas vías servirán para conectar la avenida **Occidental** con la avenida **América**, minimizando las posibles congestiones. Además, los pasajes y vías transversales se mantendrán habilitados para los residentes del sector, quienes no verán interrumpido su acceso habitual, agregó la municipalidad.
-
-Los trabajos se realizarán en **jornadas extendidas**, incluyendo fines de semana y feriados, desde las 07:00 hasta las 18:30. Asimismo, se contemplan **turnos nocturnos**, siempre que las condiciones climáticas lo permitan y no haya interrupciones por cortes de energía eléctrica.
-
-Razones para defender a ‘Joker 2’ y considerarla una buena película (alerta ‘spoiler’)
-======================================================================================
-
-‘Joker 2: Folie à Deux’ desafía las expectativas al transformarse en un musical audaz.
---------------------------------------------------------------------------------------
-
-![‘Joker 2: Folie à Deux’ es dirigida por Todd Phillips y protagonizada por Joaquín Phoenix y Lady Gaga. Foto: IMDb.](https://www.elcomercio.com/wp-content/uploads/2024/10/Joker-2-Folie-a-Deux-1.jpg)
-
-La recién estrenada película **‘Joker 2: Folie à Deux’** ha provocado **opiniones divididas** entre críticos y espectadores. Aunque algunos la consideran una decepción en comparación con su predecesora, otros **destacan su valentía narrativa**.  
-
-### Más noticias
-
-* [La crítica preliminar se divide ante ‘Joker 2: Folie à Deux’](https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-joaquin-phoenix-lady-gaga.html "https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-joaquin-phoenix-lady-gaga.html") 
-* [¿Por qué fracasó el ‘Joker: Folie à Deux’?](https://www.elcomercio.com/tendencias/fracaso-joker-folie-a-deux.html "https://www.elcomercio.com/tendencias/fracaso-joker-folie-a-deux.html")
-
-Dirigida por **Todd Phillips** y protagonizada por **Joaquín Phoenix y Lady Gaga**, la película se aleja del **camino esperado**, arriesgándose por un **formato de musical**. A continuación, presentamos **varios puntos clave** que reflejan la complejidad de esta secuela, que **seguramente será apreciada a futuro**.  
-
-**‘Joker 2: Folie à Deux’: un musical inesperado** 
----------------------------------------------------
-
-La decisión de **transformar la historia en un musical** ha generado descontento. Muchos esperaban una continuación más oscura y anárquica; cercana al **Joker de Heath Ledger**. Esta elección ha desdibujado las expectativas previas, al dejar a la audiencia confundida. Sin embargo, el elemento musical refleja la **lucha interna del protagonista**. La mayoría de las **escenas musicales** suceden en la **mente disociada de Fleck**; es una **invitación a su mente trastornada**. 
-
-**Lady Gaga como Harley Quinn** 
---------------------------------
-
-Gaga interpreta a **Lee Quinzel**, una versión de Harley Quinn que ha sido criticada. Algunos **culpan a su actuación por el fracaso percibido de la película**. Sin embargo, su papel es crucial para el **desarrollo del Joker**. El enamoramiento de Lee con el Joker, y no con Fleck, añade una nueva **capa de complejidad a la historia**. 
-
-**La muerte del Joker** 
-------------------------
-
-La película se centra en la **muerte simbólica de Joker** y el desarrollo de Fleck. La narrativa profundiza en la **salud mental del protagonista** y sus **experiencias traumáticas**. Se observa una **exploración más profunda de su historia personal**. Esta decisión desafía las expectativas de una **trama tradicional de villanos**. El Joker muere porque **Fleck no quiere encarnarlo más** y Fleck muere porque no puede ser el Joker.
-
-**La infancia de Fleck** 
--------------------------
-
-Desde la primera entrega, **Fleck es un personaje marcado por el trauma**. Creció bajo la influencia de una madre que le impuso **identidades falsas,** como llamarlo ‘Happy’. Sus **experiencias infantiles**, los **abusos que sufrió**, moldearon su percepción del mundo. Esta secuela explora las consecuencias de esos traumas de manera más visceral.  
-
-**Encierro en Arkham** 
------------------------
-
-**Fleck es recluido en una prisión común**, lo que refleja la dura realidad de su situación. La violencia y los abusos en el **sistema carcelario** son un telón de fondo constante. En este entorno, conoce a Lee, quien busca acercarse a él. Su relación se convierte en una **manipulación sutil**, lo que **impulsa su transformación en Joker**. 
-
-**La música como escape** 
---------------------------
-
-**La música se presenta como un mecanismo de escape para Fleck**. A través de números musicales, la película invita a la audiencia a **explorar su psique**. Los temas musicales, tanto originales como versiones, aportan un contraste intrigante. Esta **dualidad entre la música y la violencia enfatiza la lucha interna del personaje**. 
-
-**Conflicto con su abogada** 
+Las medidas desde el Gobierno
 -----------------------------
 
-La abogada **Maryanne Stewart** se convierte en una figura de **legítimo apoyo para Fleck**. A diferencia de Lee, **ella busca su bienestar real**. Este conflicto entre los intereses de Lee y Maryanne **añade tensión a la narrativa**. La **lucha de Fleck por su identidad** se complica con las manipulaciones externas. 
+**Benalcázar** puntualizó que, además, se están recuperando estructuras para generar megavatios. También dijo que la barcaza está en su máxima capacidad de generación para la que fue contratada. Es decir, 100 megavatios.
 
-**Juicio y autoevaluación** 
-----------------------------
+Sobre la compra de energía a **Colombia**, el Funcionario señaló que es posible que en los próximos días, este país pueda habilitar este proceso. La semana anterior hubo ya una venta. A la par, están en marcha medidas con **Perú**.
 
-El **juicio de Fleck** es un **momento crítico en la trama**. La **falta de comprensión de su salud mental** agrava su situación. El **sistema judicial** falla en proporcionar el tratamiento adecuado. Este aspecto resalta la **crítica social hacia las instituciones** y su incapacidad para ayudar a quienes lo necesitan. **Le cortaron la asistencia social**, lo recluyeron en prisión en lugar de en un psiquiátrico, e incluso **el juicio se convirtió en una suerte de ‘reality show’**, guiños a juicios como el de **Johnny Depp y Amber Heard**. 
+¿Kendry Páez merece ser titular con la Selección de Ecuador ante Uruguay?
+=========================================================================
 
-**Gary, el amigo despreciado** 
--------------------------------
+Kendry Páez fue uno de los señalados de la 'Tri' en el último empate de la selección.
+-------------------------------------------------------------------------------------
 
-El **personaje de Gary**, el **amigo enano de Fleck**, simboliza la humanidad del protagonista. **Su apoyo genuino contrasta con las traiciones que sufre**. Este vínculo desencadena una revelación crucial para Fleck. Su desprecio por quienes lo han menospreciado lo empuja a rechazar la identidad del Joker. **Gary hace que Fleck se quiebre** y se dé cuenta de que **no es el Joker que todos lo empujan a ser**; por eso **escapa cuando sus simpatizantes intentan liberarlo**. Toda su vida lo han presionado para que sea alguien que no es. 
+![Kendry Paéz en el calentamiento previo del partido entre Ecuador y Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-14T135257.378.jpg)
 
-**Llamado a la audiencia** 
----------------------------
+La **Selección de Ecuador** enfrenta un reto complicado en su próximo partido ante Uruguay en Montevideo. Aún no se ha definido el once que utilizará Sebastián Beccacece para este encuentro, y la continuidad de **Kendry Páez** como titular es una incógnita.
 
-**‘Joker 2’ no solo examina la dualidad de sus personajes, sino también la de la audiencia**. La idolatría hacia el criminal resalta la **delgada línea entre anti-héroe y villano**. La película **cuestiona la moralidad de admirar a un villano**. Este enfoque provocador invita a **reflexionar sobre nuestras propias percepciones**. 
-
-En conclusión, ‘Joker 2: Folie à Deux’ es **una obra que desafía las convenciones y lo esperado**. Aunque sus elecciones narrativas no han satisfecho a todos, **ofrecen una exploración rica y compleja de la psicología del personaje**. La película **continúa el diálogo sobre la salud mental y la crítica social**, y destaca la importancia de ver más allá de las expectativas. 
-
-Dragonas Independiente semifinalistas de la Libertadores Femenina
-=================================================================
-
-Dragonas Independiente juegan por primera vez la Copa Libertadores Femenina. Son las campeonas de Ecuador.
-----------------------------------------------------------------------------------------------------------
-
-![Nayely Bolaños celebra uno de los dos goles que marcó con Dragonas Independiente en la Libertadores Femenina 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_semifinal_2.jpg)
-
-**Dragonas Independiente** siguen a paso firme en su primera participación en la Copa Libertadores Femenina que se juegan en Paraguay, y se clasificaron paras las semifinales en su primera participación.
-
-El partido entre Dragonas **Independiente de Ecuador y Deportivo Cali de Colombia** se jugó la noche de este domingo 13 de octubre de 2024 en el estadio Arsenio Erico en Asunción.
-
-### Más noticias:
-
-* [La Copa Ecuador confirmó horarios de las semifinales](https://www.elcomercio.com/deportes/futbol/copa-ecuador-horarios-semifinales-llaves.html "La Copa Ecuador confirmó horarios de las semifinales")
-* [Deportivo Quito entrenó con el volcán Cotopaxi de testigo](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-nacional-cotopaxi.html "Deportivo Quito entrenó con el volcán Cotopaxi de testigo")
-* [Independiente Juniors homenajeó al fallecido Roberto Cabezas](https://www.elcomercio.com/deportes/futbol/indepeniente-juniors-roberto-cabezas-homenaje.html "Independiente Juniors homenajeó al fallecido Roberto Cabezas")
-
-Las Dragonas necesitaron tres minutos **para concretar el 3-0 en el marcador con un espectacular doblete de Nayely Bolaños**, la figura que tiene el equipo en la temporada 2024, tanto en la Superliga Femenina, como en esta Copa.
-
-Los tantos de Bolaños llegaron a los 26 y 29 minutos del primer tiempo. El primer con un golpe de cabeza luego de un cobro de tiro de esquina de Karen Litardo, y el segundo con un potente remate de derecha a pase de Emily Arias.
-
-El 3-0 llegó desde el punto penal por la propia delantera a los 73 minutos. Lo hizo con un **preciso remate que fue a parar al ángulo** del palo derecho de Ximena Ospina, que por más que se estiró no iba a llegar por la violencia del disparo.
-
-Las colombianas intentaron reaccionar, pero se **encontraron con un equipo ecuatoriano fuerte en defensa** y solvente en la mitad de la cancha, por lo que no pasaron grandes sustos a lo largo de los 90 minutos.
-
-Finalizado el juego las jugadoras celebraron en la cancha. Hubo abrazos, cánticos y agradecimientos, antes de retirarse a los camerinos con la mente puesta en lo que será la siguiente fase.
-
-![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_semifinal_1-1024x683.jpg)
-
-Foto: Facebook del club.
-
-Dragonas tendrán su revancha
-----------------------------
-
-Independiente Santa Fe de Colombia será el rival de Dragonas en las semifinales de la Copa Libertadores.
-
-Para las ecuatorianas será una revancha. **Ambas escuadras compartieron el grupo C**. En el juego del 7 de octubre las colombianas ganaron por 0-1 con un gol de Mariana Zamorana a los 24 minutos del primer tiempo.
-
-Santa Fe ganó el grupo con 5 puntos, **mientas que las Dragonas se quedaron con el segundo puesto** con 4.
-
-Santa Fe en los **cuartos de final no tuvo problemas para despachar a Alianza Lima** por 2-0 con goles de Natalia Gaitán y Karla Torres.
-
-“Contenta con el equipo, el cuerpo técnico y todos quienes nos apoyan (…) **Aprovechamos las oportunidades, fuimos contundes** y vamos a trabajar para pasar las semifinales”, declaró Bolaños a la Conmebol.
-
-“Venimos a hacer historia y **este es el inicio de todas las cosas buenas que nos vienen**“, completó la goleadora ecuatoriana.
-
-Formación de Dragonas:
-----------------------
-
-Andrea Vera; Karen Litardo, Verónica Riveros (Ivette Fernández), Analiz Zambrano y Mayerli Rodríguez; **Rosa Miño, Larissa Nunes (Adriana Valenzuela) y Emily Arias (Naomy Briones)**; Yaritza Vallecilla, Karen Páez (Claudia Rendón) y Nayely Bolaños (Adriana Lomas).
-
-Semifinales
------------
-
-### Martes 15/10
-
-19:00 Corinthians vs. Boca Juniors
-
-Estadio: Cancha de fútbol de la CONMEBOL
-
-### Miércoles 16/10
-
-19:00 Independiente Santa Fe vs. Dragonas Independiente
-
-Estadio: Cancha de fútbol de la CONMEBOL
-
-No te pierdas – El Confesionario
---------------------------------
-
-Guayaquil tiene nuevos horarios de cortes de luz para este lunes 14 de octubre de 2024
-======================================================================================
-
-La Cnel publicó los horarios de cortes de luz para el 14 de octubre de 2024, con racionamientos de hasta 10 horas diarias.
---------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz serán de hasta 10 horas, divididos en varios períodos. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-gye-14.jpg)
-
-La **Corporación Nacional de Electricidad** (Cnel) publicó los nuevos horarios de **cortes de luz** de **Guayaquil** para este lunes 14 de octubre de 2024.
-
-### Más noticias
-
-* [Cortes de luz para este 14 de octubre de 2024 en Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-horarios-14-de-octubre-de-2024-quito.html "Cortes de luz para este 14 de octubre de 2024 en Quito")
-* [Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz](https://www.elcomercio.com/actualidad/gobierno-de-daniel-noboa-abre-procesos-para-centrales-termoelectricas-por-cortes-de-luz.html "Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz")
-* [Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios](https://www.elcomercio.com/actualidad/negocios/cortes-luz-continuan-14-al-20-octubre-2024-conozca-nuevos-horarios.html "Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios")
-
-La ministra de Energía encargada, **Inés Manzano**, señaló que la tercera semana de este mes, del 14 al 20 de octubre de 2024, será crítica por la falta de lluvias. La crisis hídrica impide el normal funcionamiento de las hidroeléctricas del país y obliga a continuar con los cortes de luz en todo el Ecuador, con un promedio de 10 horas al día.
-
-En Guayaquil, los horarios programados para esta semana tiene hasta tres períodos, de entre dos y cinco horas de racionamientos eléctricos, por sector.
-
-Revise el horario de cortes de luz para Guayaquil
--------------------------------------------------
-
-Pese al cronograma establecido, la Cnel señaló que los **cortes de energía** pueden reducirse dentro del período programado, debido al mejoramiento de las **condiciones hidrológica**s del país, ya que el 72% de la matriz energética del Ecuador es hídrica y depende del agua.
-
-Este lunes 14 de octubre de 2024 empieza la cuarta semana de racionamientos eléctricos en todo el Ecuador. Según las autoridades, se realiza un monitorio constante de las operaciones en las hidroeléctricas para ir ajustando los horarios de los apagones.
-
-**Ecuador** pasa por una de las peores crisis energéticas, en parte, debido a la grave **sequía** que afronta el país y la región. Inicialmente, los cortes de luz tenían un promedio de 8 horas al día, actualmente son de 10 horas. Según expertos, los racionamientos eléctricos podrían extenderse hasta finales de año e incluso hasta los primeros meses del 2025.
-
-Los horarios de cortes de luz de todo el país lo puede revisar en la [página web del Ministerio de Energía y Minas](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/). Allí se encuentran los cronogramas por cada una de las nueve empresas distribuidoras de electricidad del país.
-
-  
-
-Cuniburo se suma a los equipos de Pichincha en la Serie A
-=========================================================
-
-Cuniburo se encamina a proclamarse como campeón de la Serie B, una vez que aseguró el ascenso a la Serie A.
------------------------------------------------------------------------------------------------------------
-
-![Jugadores de Cuniburo en la Liga Pro Serie B de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/cuniburo_1.jpg)
-
-**Cuniburo Fútbol Club** cerró su espectacular temporada en la Liga Pro Serie B con el ansiado ascenso a la Serie A 2025, con lo que la provincia de Pichincha suman un nuevo representante en la máxima categoría del fútbol de Ecuador.
-
-El ascenso de **Cuniburo se concretó la tarde de este domingo 13 de octubre de 2024**, luego que Guayaquil City perdiera por 2-0 en su visita a San Antonio en el estadio Olímpico de Ibarra con tantos de Francesco Fiorelli y Édison Guerrero.
+Desde la llegada del entrenador argentino a la dirección técnica de la ‘Tri’, P**áez ha sido parte del once inicial en los tres partidos disputados**. Sin embargo, su rendimiento ha suscitado debate.
 
 ### Más noticias:
 
 * [Sebastián Beccacece volvió a respaldar a Kendry Páez](https://www.elcomercio.com/deportes/futbol/sebatian-beccacece-kendry-paez-seleccion.html "Sebastián Beccacece volvió a respaldar a Kendry Páez")
-* [La Copa Ecuador confirmó horarios de las semifinales](https://www.elcomercio.com/deportes/futbol/copa-ecuador-horarios-semifinales-llaves.html "La Copa Ecuador confirmó horarios de las semifinales")
-* [Deportivo Quito entrenó con el volcán Cotopaxi de testigo](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-nacional-cotopaxi.html "Deportivo Quito entrenó con el volcán Cotopaxi de testigo")
+* [Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay](https://www.elcomercio.com/deportes/futbol/kendry-paez-bajo-criticas-tras-empate-ecuador-paraguay.html "Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay")
+* [¿Cuándo juega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-uruguay.html "¿Cuándo juega la Selección de Ecuador ante Uruguay?")
 
-El día previo **Cuniburo había empatado 2-2 con Leones FC** en el mismo Olímpico de Ibarra. Los locales anotaron por intermedio de Kevin Velasco y Frixon Vargas, mientras que la visita lo hizo con Rafael Monti y Ariel Mina.
+¿Kendry Páez merece ser titular con Ecuador?
+--------------------------------------------
 
-Este resultado le **permitió sumar 60 puntos y tener un gol diferencia positivo de +19**, a tan solo tres fechas para completar el calendario de la Serie B.
+En el último partido ante Paraguay, el joven mediocampista de 17 años mostró dificultades y lo sustituyeron al medio tiempo. Aunque ha tenido un rol regular con la selección, su rendimiento ha **decaído** desde la **Copa América**, lo que ha llevado a cuestionar su lugar en el equipo.
 
-El derrota de Guayaquil City los estancó en el cuarto puesto con 50 puntos y un gol diferencia positivo de +21, por lo que matemáticamente es imposible que alcancen a Cuniburo, porque su techo máximo es de 59.
+Durante el encuentro, **Páez** no logró destacar, recibiendo críticas en redes sociales. Muchos aficionados opinaban que, dadas sus actuales circunstancias, no debería ser titular.
 
-El segundo puesto en la tabla es para **Independiente Juniors con 56 unidades** y un gol diferencia positivos de +22.
+En las gradas, el descontento también se hizo sentir, y varios hinchas pidieron su sustitución, sugiriendo que debería ser el primer cambio debido a su bajo nivel de juego.
 
-Los del Valle no están en la pugna por ascender. El reglamento de la Liga Pro impide que dos equipos filiales compitan en la mismo categoría.
+Por lo tanto, considerando la importancia y la dificultad del enfrentamiento contra Uruguay, sería prudente que **Beccacece** decidiera dejar al volante en la banca, permitiendo así explorar otras opciones y evitar una mayor exposición a su actual declive.
 
-La ventaja por el s**egundo cupo disponible la tiene Manta con 54 puntos** y un gol diferencia positivo de +3.
-
-Un tercero en la lucha es 9 de Octubre que tiene 46 puntos y un gol diferencia positivo de +3.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/cuniburo_2-1024x683.jpg)
-
-Foto: API.
-
-Pichincha domina la Serie A
+Números de Páez con Ecuador
 ---------------------------
 
-Cuniburo será el sexto equipo de **Pichincha que en el 2025 jugará en la Serie A**, confirmando la supremacía de esta provincia en la Primera División de Ecuador.
+A sus 17 años, **Kendry Páez acumula 15 partidos** con la Selección de Ecuador, de los cuales 12 fueron como titular y tres como suplente. Con casi 1,100 minutos de juego, ha marcado dos goles y proporcionado tres asistencias.
 
-En el 2024 participan **Aucas, Cumbayá, El Nacional, Independiente del Valle**, Liga de Quito y Universidad Católica.
+Uno de sus goles se produjo en las **eliminatorias sudamericanas** frente a Bolivia, mientras que su segunda anotación llegó en la victoria de Ecuador sobre Jamaica (3-1) durante la Copa América 2024, celebrada en Estados Unidos.
 
-De los seis equipos, **Cumbayá es el único que está comprometido con el descenso** y tiene altas posibilidades de perder la categoría a falta de seis jornadas para completar el calendario.
+Páez comenzó su trayectoria en la selección con el número 16, pero en los últimos 10 partidos se ha consolidado como portador de la camiseta número 10.
 
-**Cumbayá ocupa el penúltimo lugar de la tabla de posiciones** con 18 puntos y un gol diferencia negativo de -20, mientras que Delfín, el antepenúltimo, tiene 23 y poco a poco se aleja de la zona roja.
+¿Cuándo juega Ecuador contra Uruguay?
+-------------------------------------
 
-La historia de Cuniburo
+La Selección de **Ecuador se enfrentará a Uruguay** el martes 15 de octubre de 2024. Se disputará desde las 18:30, hora de Ecuador.
+
+Caso Odebrecht, Gabriel Massuh propone inmuebles como garantía
+==============================================================
+
+Gabriel Massuh, sentenciado por el delito de asociación ilícita en el caso Odebrecht, compareció ante la CNJ.
+-------------------------------------------------------------------------------------------------------------
+
+![Audiencia de ofrecimiento de pago en el caso Odebrecht.](https://www.elcomercio.com/wp-content/uploads/2024/10/cnj-odebrecht.jpg)
+
+El empresario **Gabriel Massuh**, sentenciado por el **delito de asociación ilícita** en el **caso Odebrecht**, compareció la mañana del lunes 14 de octubre ante la **Corte Nacional de Justicia (CNJ**) para detallar cómo pagará los **860 930 dólares** impuestos como **reparación integral al Estado**.
+
+### Más noticias
+
+* [Rafael Correa y Jorge Glas tienen procesos abiertos y sentencias en firme, en Ecuador](https://www.elcomercio.com/actualidad/seguridad/rafael-correa-jorge-glas-procesos-sentencias-ecuador.html "Rafael Correa y Jorge Glas tienen procesos abiertos y sentencias en firme, en Ecuador")
+* [Carlos Pólit fue sentenciado a 10 años de prisión en Estados Unidos](https://www.elcomercio.com/actualidad/seguridad/carlos-polit-sentenciado-10-anos-prision-estados-unidos.html "Carlos Pólit fue sentenciado a 10 años de prisión en Estados Unidos")
+* [Carlos Pólit tiene nueva fecha para conocer su sentencia en Estados Unidos](https://www.elcomercio.com/actualidad/politica/carlos-polit-nueva-fecha-conocer-sentencia-estados-unidos.html "Carlos Pólit tiene nueva fecha para conocer su sentencia en Estados Unidos")
+
+La audiencia estuvo dirigida por los jueces **Mercedes Caicedo, Felipe Córdova y Julio Arrieta**, quienes conforman el **Tribunal de Ejecución** a cargo del caso.
+
+Massuh propuso una **serie de bienes inmueble**s como garantía para asegurar el cumplimiento del pago, aunque el tribunal ha solicitado más detalles **sobre los valores presentado**s.
+
+Tribunal solicitó completar informe pericial sobre avalúo de bienes
+-------------------------------------------------------------------
+
+En una audiencia previa, el 23 de septiembre de 2024, la jueza Mercedes Caicedo había solicitado una hipoteca como garantía de pago.
+
+> 🔵[#SalaPenalCNJ](https://twitter.com/hashtag/SalaPenalCNJ?src=hash&ref_src=twsrc%5Etfw) | Audiencia de ofrecimiento de pago en contra del ciudadano Jorge G. y otros por el presunto delito de asociación ilícita.[#AudienciasCNJ](https://twitter.com/hashtag/AudienciasCNJ?src=hash&ref_src=twsrc%5Etfw)  
+> 💻 Sigue la audiencia aquí [https://t.co/t87x7rPIMP](https://t.co/t87x7rPIMP) [pic.twitter.com/rnff1Xujbv](https://t.co/rnff1Xujbv)
+> 
+> — Corte Nacional de Justicia (@CorteNacional) [October 14, 2024](https://twitter.com/CorteNacional/status/1845819348197277876?ref_src=twsrc%5Etfw)
+
+En respuesta, los abogados de **Massuh** presentaron tres propiedades ubicadas en Quito, Guayaquil y Quevedo, cuyo valor total asciende a más de **600 000 dólares**. La oficina en Quito, valorada en **212 528 dólares**, es uno de los bienes destacados.
+
+Sin embargo, el tribunal observó que el **informe pericial presentado para justificar los valores** de estos bienes estaba incompleto.
+
+Caicedo explicó que el informe actual **no incluye la documentación necesaria**, como los certificados municipales de avalúos y catastros, que respalden los valores comerciales propuestos.
+
+En consecuencia, **se concedió a la defensa de Massuh un plazo de 10 días** para que la perito encargada complete el informe y detalle cómo se establecieron los montos de avalúo para cada uno de los bienes inmuebles ofrecidos. Hasta que se entregue este informe, la diligencia quedó suspendida.
+
+### Propuesta de pago en cuotas
+
+El plan de pago presentado por la **defensa de Massuh** consiste en cancelar la reparación integral de **860 930 dólares en cuatro cuotas**.
+
+Se debe pagar la primera cuota de **200 000 dólare**s el 21 de octubre de 2024, mientras que las siguientes cuotas están programadas para el **1 de agosto de 2025**, el 1 de junio de 2026 y el 1 de septiembre de 2026.
+
+La **Procuraduría General del Estado** aceptó esta fórmula de pago y proporcionó los detalles de las cuentas donde se realizarán los depósitos.
+
+El caso Odebrecht, que implicó a **altos funcionarios y empresarios ecuatorianos**, sigue en proceso de ejecución pese a que las **sentencias fueron dictadas en 2017**. Entre los sentenciados se encuentran el exvicepresidente **Jorge Glas** y otros funcionarios, quienes también deben cumplir con **pagos de reparaciones económicas al Estado**.
+
+Dos binomios aún no están en firme para las elecciones 2025, ¿por qué?
+======================================================================
+
+El CNE dio un nuevo corte de las evaluaciones e impugnaciones a binomios para las elecciones 2025.
+--------------------------------------------------------------------------------------------------
+
+![CNE avanza en procesos relacionados a las elecciones 2025.](https://www.elcomercio.com/wp-content/uploads/2024/10/elecciones-inscripciones-en-linea-2.jpg)
+
+Los procesos para las **elecciones 2025** en Ecuador avanzan. Uno de estos es la evaluación de los binomios presidenciales inscritos por parte del Consejo Nacional Electoral (CNE).
+
+Hasta la mañana de este lunes, 14 de octubre de 2024, 14 duplas ya contaban con la denominación de en firma. Es decir, que ya tienen un lugar en la papeleta.
+
+### Más noticias
+
+* [16 binomios presidenciales tienen posturas aún dispersas para elecciones 2025](https://www.elcomercio.com/elecciones/16-binomios-presidenciales-tienen-posturas-dispersas-elecciones-2025.html "16 binomios presidenciales tienen posturas aún dispersas para elecciones 2025")
+* [Seis binomios en firme para las elecciones 2025, ¿cuál es el proceso?](https://www.elcomercio.com/elecciones/seis-binomios-en-firme-para-las-elecciones-2025-cual-es-el-proceso.html "Seis binomios en firme para las elecciones 2025, ¿cuál es el proceso?")
+* [Binomios presidenciales entran a un escrutinio múltiple](https://www.elcomercio.com/opinion/editorial/binomios-presidenciales-entran-a-escrutinio-multiple.html "Binomios presidenciales entran a un escrutinio múltiple")
+
+> 🔴 ATENCIÓN | El CNE cumple sus atribuciones constitucionales y legales 🇪🇨 respecto a la prohibición del uso de la imagen de 👧👦 niños, niñas y adolescentes en la publicidad electoral. 📢  
+>   
+> Conoce más detalles en el siguiente comunicado ⤵ [pic.twitter.com/AafbrXXZTG](https://t.co/AafbrXXZTG)
+> 
+> — cnegobec (@cnegobec) [October 13, 2024](https://twitter.com/cnegobec/status/1845574713000780165?ref_src=twsrc%5Etfw)
+
+Binomios rumbos a las elecciones 2025
+-------------------------------------
+
+Las inscripciones de las **candidaturas 2025** se cerraron el pasado 2 de octubre. 16 binomios se apuntaron y hubo una sola alianza, entre la **Revolución Ciudadana y Reto**.
+
+Luego de la postulación empezó a correr el plazo para las impugnaciones. En este proceso, 14 binomios ya superaron ese escrutinio y dos aún están a la espera de tener la denominación de en firme.
+
+En el segundo grupo están los equipos de las organizaciones Izquierda Democrática (**Carlos Rabascall y Alejandra Rivas**) y Suma (**Jan Topic y Mishelle Calvache**).
+
+Ambos binomios fueron objetados y el Pleno del CNE no dio paso. Sin embargo, luego el binomio de la **Izquierda Democrática** recibió una impugnación.
+
+En el caso de Topic, se registraron dos apelaciones ante el **Tribunal Contencioso Electoral (TCE)**.
+
+En el calendario electoral consta que el 30 de diciembre se conocerá el listado final de candidatos. Este incluye aspirantes a 151 puestos en la **Asamblea Nacional** y cinco, en el Parlamento Andino.
+
+> ¡Gracias por acompañarnos! 🤝  
+>   
+> Se suspende la Sesión Ordinaria No. 86 del [#PlenoCNE](https://twitter.com/hashtag/PlenoCNE?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> Infórmate en nuestros canales oficiales:⬇️ [https://t.co/7jydYZpjVD](https://t.co/7jydYZpjVD) 💻 [pic.twitter.com/QzK0jaBccy](https://t.co/QzK0jaBccy)
+> 
+> — cnegobec (@cnegobec) [October 14, 2024](https://twitter.com/cnegobec/status/1845892522108932474?ref_src=twsrc%5Etfw)
+
+Los procesos
+------------
+
+Como parte de los trámites en las elecciones 2025, los partidos y movimientos políticos deben informar al **CNE** sobre los ingresos y egresos a través del **Sistema Contable de Financiamiento a la Política.**
+
+El Pleno del **CNE**, el 5 de abril de 2024, aprobó el presupuesto para el desarrollo de las elecciones generales de 2025. Este corresponde a 91 707 668,72 dólares.
+
+Para el **Fondo de Promoción Electoral** se definió una proyección por un monto de **13 760 259,81 dólares**. Los montos fijos para los partidos políticos y movimientos se definirán cuando se conozcan las candidaturas en firme.
+
+El organismo electoral, además, recordó que está vigente la prohibición del uso de la imagen de niños y adolescentes en la publicidad electoral financiada con recursos del **Fondo de Promoción Electoral**.
+
+El **Código de la Niñez**, además de las normas electorales, incluye esa restricción en programas o eventos de proselitismo político o religioso.
+
+Las juntas cantonales de **Protección de Derechos** deben conocer y disponer las medidas administrativas de protección en caso de vulneración de los derechos individuales de los menores.
+
+El gasto electoral
+------------------
+
+Según la normativa electoral, el cálculo del gasto electoral se realiza según el número de electores. Para las elecciones 2025 son 13 736 314.
+
+* **Binomio presidencial:** 5 494 525,60 dólares, que corresponde a 40 centavos por el número de electores.
+* **Parlamentarios andinos:** 137 363,14 dólares y son 10 centavos.
+* **Asambleístas nacionales:** 4 120 894,20 y son 30 centavos.  
+* **Asambleístas provinciales:** 30 centavos por electores según la jurisdicción.  
+* **Asambleístas del exterior:** 60 centavos según la circunscripción.  
+
+Binomios en la carrera
+----------------------
+
+* Jimmy Jairala y Lucía Vallecilla, Movimiento Centro Democrático (CD), lista 1.
+* Jorge Escala y Pacha Terán, Partido Unidad Popular (UP), lista 2.
+* Andrea González y Galo Moncayo, Partido Sociedad Patriótica (PSE), lista 3.
+* Víctor Araus y Cristina Carrera, Movimiento Pueblo, Igualdad y Democracia (PID), lista 4.
+* Luisa González y Diego Borja, Movimiento de la Revolución Ciudadana (RC), lista 5.
+* Henry Kronfle Kozhaya y Dallyana Passailaigue, Partido Social Cristiano (PSC), lista 6.
+* Daniel Noboa y María José Pinto, Movimiento Acción Democrática Nacional (ADN), lista 7.
+* Luis Felipe Tillería y Karla Rosero, Partido Avanza, lista 8.
+* Carlos Rabascall y Alejandra Rivas, Partido Izquierda Democrática, lista 12.
+* Juan Iván Cueva con Cristina Reyes, Movimiento Amigo, lista 16.
+* Pedro Granja y Verónica Silva, Partido Socialista Ecuatoriano (PSE), lista 17.
+* Leonidas Iza Salazar y Katiuska Molina, Movimiento Pachakutik, lista 18.
+* Iván Saquicela y María Luisa Coello, Movimiento Democracia Sí, lista 20.
+* Francesco Tabacchi y Blanca Saquicela, Movimiento Creando Oportunidades (CREO), lista 21.
+* Jan Topic y Mishelle Calvache, Partido Sociedad Unida Más Acción (SUMA), lista 23.
+* Henry Cucalón y Carla Larrea, Movimiento Construye, lista 25.
+
+Koob Hurtado enfrentará al Deportivo Quito en el Ascenso Nacional
+=================================================================
+
+El defensa central Koob Hurtado es uno de los jugadores más experimentados de Cantera Orense.
+---------------------------------------------------------------------------------------------
+
+![Koob Hurtado con la camiseta de Cantera Orense en 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/hurtado_quito_4.jpg)
+
+**Cantera Orense** transita sus primeros kilómetros en el fútbol de la Segunda Categoría de El Oro y rápidamente se ganó un espacio para disputar uno de los dos cupos disponibles para la Liga Pro Serie B de 2025. 
+
+El plantel de jugadores de **Cantera Orense está conformado por jóvenes jugadores** que se forman en las categorías juveniles de Orense, club de la Liga Pro Serie A, del que es  su filial. 
+
+### Más noticias:
+
+* [Independiente Juniors homenajeó al fallecido Roberto Cabezas](https://www.elcomercio.com/deportes/futbol/indepeniente-juniors-roberto-cabezas-homenaje.html "Independiente Juniors homenajeó al fallecido Roberto Cabezas")
+* [Deportivo Quito entrenó con el volcán Cotopaxi de testigo](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-nacional-cotopaxi.html "Deportivo Quito entrenó con el volcán Cotopaxi de testigo")
+* [Uruguay navega aguas agitadas antes de recibir a Ecuador](https://www.elcomercio.com/deportes/futbol/uruguay-ecuador-montevideo-eliminatorias-mundial2026.html "Uruguay navega aguas agitadas antes de recibir a Ecuador")
+
+Juan Lupú, Anthony Moreno, Walter Carabalí, Jonathan Arboleda, Roosevelt Zambrano, Ariel Castillo, Alex Rodríguez, Maykel Pérez, **Marvin Ortiz, Danny Agurto, Cristhian Díaz** y Willian Rivas son los canteranos convocados para lo que fueron los treintaidosavos de final. 
+
+El siguiente reto de los de la **provincia de El Oro será el Deportivo Quito**, uno de los favoritos para llegar a las instancias finales y regresar a la Serie B luego de nueve años de ausencia. 
+
+El juego de ida entre Cantera Orense y el Quito, **válido por los dieciseisavos de final**, está programado para el domingo 20 de octubre de 2024 en el Complejo Deportivo Euclides Palacios, desde las 10:00.
+
+Para el Ascenso Nacional, **Cantera Orense reforzó su plantel con el defensa central Koob Hurtado**, que en el 2022 fue noticia en el país por haber dejado temporalmente el fútbol profesional para trabajar en los Estados Unidos en el área de la construcción. 
+
+![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/hurtado_quito_1-1024x683.jpg)
+
+Foto: Cortesía.
+
+Koob Hurtado y su llamativa historia 
+-------------------------------------
+
+Para el segundo semestre de 2024, **Koob David Hurtado Arboleda, nacido el 19 de julio de 1985** en el cantón Eloy Alfaro, provincia de Esmeraldas, se unió a Cantera Orense como uno de sus refuerzos. 
+
+Llegó a firmar por el Cobreloa de Chile y en Ecuador defendió a la Liga de Quito, Deportivo Cuenca, Liga de Portoviejo, entre otros.
+
+En enero de 2022, c**uando se dio a conocer que se encontraba trabajando en Estados Unidos** como repartidor y en labores de construcción, aseguró que aún no se retiraba del fútbol.
+
+Llamado alguna vez el ‘Balotelli ecuatoriano’, el fornido zaguero que también defendió al Aucas, Independiente del Valle y la Liga de Loja se sentía “bendecido” por su trabajo. 
+
+Su rutina empezaba desde muy temprano, **poco después de las 05:00**, para poder tomar el tren que lo lleva de Brooklyn a Manhattan, en Nueva York, donde trabajaba.
+
+“El 18 de este mes cumplo cinco meses acá. No es fácil, pero gracias a Dios me va de maravilla. Tengo personas que me han dado una acogida importante para poderme quedar. Acá se vive en verdad el sueño americano porque no se tiene tiempo para dormir”, aseguraba entre risas.
+
+“Acá la vida es muy acelerada. **Mi rutina es levantarme a las 05:30**, cepillarme la boca, cambiarme y caminar al tren para Manhattan que es donde trabajo. Eso todos los días, Gracias a Dios”, añadía.
+
+Antes de dedicarse a pintar paredes o pulir pisos, entre otras actividades que le ha tocado aprender, a inicios del 2021 también trabajó en Minneapolis, Minnesota, y entregaba colchones, muebles, sillas a domicilio.
+
+Luego regresó a Ecuador y **hasta se unió al Bonita Banana de Pasaje**, en El Oro, en la Segunda Categoría.
+
+A mediados del 2021 incluso tuvo ofertas de clubes de la Serie B, pero lo que le ofrecían económicamente no lo satisfizo y decidió retornar otra vez a Estados Unidos. 
+
+“Acá también juego en los barriales y me pagan 100 y hasta 200 dólares por un partido de índor y así me mantengo. **También voy al gimnasio, trato de mantenerme bien para tener una buena vejez**. Yo no me he retirado del fútbol todavía. Opté por venir porque la economía está dura en el país, pero no me he retirado“, afirmaba.
+
+![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/hurtado_quito_2-1024x683.jpg)
+
+Foto: Cortesía.
+
+Hurtado brilló en Liga de Loja
+------------------------------
+
+Hurtado hizo un recuento de su trayectoria deportiva y aseguró que uno de sus mejores momentos en el fútbol los vivió en la Liga de Loja, en el 2012.
+
+“Se hicieron cosas importantes para el club y la ciudad**. De ahí di el salto para ir a Liga de Quito y otro momento importante** para mí fue en Liga de Portoviejo, en el 2019, que subimos con el club, pero lamentablemente el equipo volvió para abajo por cuestiones dirigenciales. Es un equipo con una hinchada muy grande.”, recordó el defensa de 1,83 metros.
+
+En su niñez y adolescencia se perfilaba más como boxeador que futbolista. En el Guabo, El Oro, lo conocían más por realizar fintas y lanzar golpes que por patear una pelota. 
+
+“Yo nunca había jugado fútbol, nunca, pero gracias a Dios me fui a probar al Deportivo Cuenca, **me quedé en la sub-20 y de una me subieron al primer equipo**. Eso fue una bendición y pude llegar a ser profesional”, aseguró.
+
+El ‘Balotelli ecuatoriano’  siempre admiró a delanteros como Carlos ‘Cuqui’ Juárez, Wálter ‘Mamita’ Calderón, Eduardo ‘Tanque’ Hurtado, entre otros. **“Ya después cuando tuve de compañeros a (Marcelo) Fleitas**, (Segundo) Matamba, (Raúl) ‘Pavo’ Noriega, Wilson Carabalí, Marcelo Velasco, Omar Guerra, jugadores que te motivaban dentro del campo juego. 
+
+Fueron los primeros compañeros de experiencia que tuve y por los que **pude saber lo que era un camerino y un compañero de alto nivel**”, recordó Koob Hurtado, el ecuatoriano que ahora vivió en los Estados Unidos y que anhelaba retornar a un club profesional, algo que en Cantera Orense lo está cumpliendo.
+
+![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/hurtado_quito_3-1024x683.jpg)
+
+Foto: Cortesía.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Supuesto capo de la mafia albanesa en Ecuador irá a juicio acusado de lavado de activos
+=======================================================================================
+
+La Fiscalía detalló que presentó 1 441 elementos de convicción durante la audiencia de evaluación.
+--------------------------------------------------------------------------------------------------
+
+![Imagen referencial sobre un juicio.](https://www.elcomercio.com/wp-content/uploads/2024/10/justicia-pexels.jpg)
+
+La **Justicia ecuatoriana** ordenó la apertura de juicio por presunto lavado de activos a **Dritan Gjika**, al que las autoridades identifican como el **capo de la mafia albanesa** en el país andino. Se trata del supuesto cabecilla de una **red de narcotraficantes** que envió **decenas de toneladas de cocaína** a Europa desde puertos ecuatorianos.
+
+### Más noticias
+
+* [Fiscalía investiga red familiar de lavado de activos, liderada por funcionario de la UAFE](https://www.elcomercio.com/actualidad/fiscalia-investiga-red-familiar-lavado-activos-uafe.html "Fiscalía investiga red familiar de lavado de activos, liderada por funcionario de la UAFE")
+* [Caso Pampa: el juez tomó una decisión sobre la validez del proceso](https://www.elcomercio.com/actualidad/seguridad/caso-pampa-decision-validez-del-proceso.html "Caso Pampa: el juez tomó una decisión sobre la validez del proceso")
+* [Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html "Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis")
+
+La Fiscalía detalló este lunes, 14 de octubre de 2024, en un comunicado que presentó **1 441 elementos** de convicción durante la **audiencia de evaluación** y preparatoria de juicio por **presunto lavado de activos,** en el caso denominado ‘Pampa’, que involucra a **13 personas naturales** y ocho jurídicas.
+
+Elementos levantados durante investigación
+------------------------------------------
+
+Los elementos levantados durante la investigación demostrarían que los **acusados constituyeron** y administraron varias empresas dedicadas a la **exportación de productos agrícolas,** como el **banano, la compraventa de bienes inmuebles y productos cárnicos**, indicó.
+
+En un comunicado, el Ministerio Público añadió que estas actividades “habrían sido usadas para **ocultar** el **origen ilícito de dinero** proveniente del narcotráfico, dándole apariencia de legalidad”.
+
+A través de esos recursos -señaló- se adquirió **terrenos, viviendas, bodegas, aparcamientos, maquinaria pesada y vehículos,** entre otros bienes, entre 2015 y 2023.
+
+En el proceso, un juez resolvió llamar a juicio a: **Dritan Gjika (albanés)**, **Mario S. (argentino**), **Jairo M. (colombiano)** y a los **ecuatorianos Carlos G.,  Teresa P., Julio L., Bryan L., Julio L., Jonnathan L., Fulgencio C., Pablo H., Carina E. y a Yongdeng Z.**
+
+Además, a las personas jurídicas **Holtexsa S.A., Produccón de Cárnicos Carniproduccion S.A., Ingrener S.A., Cresmark S.A.,  Agricomtrade S.A., Negoglobal S.A., Sentilver S.A. y Damascoswett S.A.**
+
+“Todos los procesados enfrentarán el **juicio como autores directos,** a excepción de Gjika y Pablo H., quienes están prófugos y para los cuales se ordenó la **difusión roja de Interpol.** Además, el magistrado ratificó las **medidas cautelares personales** y **reales sobre todos los procesados**“, señala la Fiscalía.
+
+Más de 43,4 millone de dólares
+------------------------------
+
+Los **elementos de convicción** presentados demostrarían que los imputados formaron y administraron empresas con **actividades aparentemente legales**, pero que en realidad ocultaban el **origen ilícito** del dinero procedente del narcotráfico, apunta.
+
+Los bienes inmuebles, localizados en las **provincias de Guayas, Cotopaxi y Santa Elena**, fueron adquiridos a través de estas actividades. Según la Fiscalía, el monto aproximado del lavado de activos asciende a más de 43,4 millones de dólares.
+
+Detalló que Dritan Gjika utilizó empresas como **Cresmark S. A. y Agricomtrade S. A.,** dedicadas a la **exportación de banano**, para disimular el **origen ilícito de activos**. Se le atribuye el liderazgo en las actividades tanto de narcotráfico como de lavado de activos.
+
+Gjika contó con **colaboradores estratégicos**, como **Julio L. M., su esposa Teresa P., y sus hijos Byran L. y Julio L. P., además de Pablo H**., detalla la Fiscalía en un comunicado.
+
+Estas personas, a través de actividades comerciales como la producción agrícola, forestal y la compraventa de oro, incrementaron su patrimonio de manera desproporcionada, adquiriendo terrenos, viviendas, vehículos de alta gama y maquinaria pesada, pagados en efectivo, para ocultar la procedencia ilícita de fondos.
+
+Actuaron a través de las empresas **Producción de Cárnicos Carniproduccion S.A.** y **Agricomtrade S.A.,** precisó la Fiscalía.
+
+Mario S. y su esposa, Carina E., controlaron los **recursos financieros y humanos** de empresas como Holtexsa S. A., Ingrener S. A., Negoglobal S. A., Sentilver S. A. y Damascoswett S. A. Utilizando su rol como grandes **empresarios del sector bananero**, se beneficiaron de **actividades de narcotráfico,** incrementando su patrimonio no solo en Ecuador, sino también en **Argentina, Estados Unidos, España y Emiratos Árabes,** agregó.
+
+Colaboración entre Ecuador y España
+-----------------------------------
+
+El caso Pampa es producto de una colaboración entre las **autoridades ecuatorianas** y **españolas** que derivó en un operativo conjunto realizado a **inicios de febrero** donde fueron detenidas 30 personas (18 en Ecuador y 12 en España) de **nacionalidades ecuatoriana, española, argentina, colombiana, albanesa y china.**
+
+De acuerdo a la investigación, esta **organización se encargaba de enviar toneladas de cocaína** producidas en el **Valle del Cauca (oeste de Colombia)** camufladas en contenedores con exportaciones de fruta de Ecuador, principalmente banano.
+
+Bajo esa modalidad la organización criminal sería la responsable de al menos **11 envíos de cocaína** desde el puerto de Guayaquil, el más grande de Ecuador, **hasta países de Europa como Bélgica, Países Bajos y España.**
+
+Jugadores que no nacieron en Ecuador, pero están comprometidos con la ‘Tri’
+===========================================================================
+
+No hace falta nacer en un país para sentir esos colores, y estos jugadores lo demuestran cada vez que visten la camiseta de la selección.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Jeremy Sarmiento y John Yeboah, jugadores que nacieron fuera de Ecuador, pero que representan a la selección ecuatoriana con orgullo.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-14T131826.747.jpg)
+
+La **Selección de Ecuador** vive un proceso de globalización dentro de su plantel. Aunque históricamente ha habido jugadores nacionalizados que representan con orgullo los colores, ahora también se suman aquellos con raíces ecuatorianas que, por diversos motivos, nacieron fuera del país.
+
+Un claro ejemplo de esto son **John Yeboah y Jeremy Sarmiento**, quienes, a pesar de haber nacido lejos de la tierra de sus padres, están orgullosos de representar a la selección y han logrado conectar con los fanáticos, que los elogian cuando vienen a jugar en las eliminatorias.
+
+### Más noticias:
+
+* [¿Cuándo juega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-uruguay.html "¿Cuándo juega la Selección de Ecuador ante Uruguay?")
+* [Jeremy Sarmiento se une al Burnley de Inglaterra previo a la Tri](https://www.elcomercio.com/deportes/jeremy-sarmiento-nuevo-fichaje-burnley-seleccion-ecuador.html "Jeremy Sarmiento se une al Burnley de Inglaterra previo a la Tri")
+* [John Yeboah asiste y el Venezia obtiene su primer triunfo](https://www.elcomercio.com/deportes/john-yeboah-asistencia-venezia-genoa.html "John Yeboah asiste y el Venezia obtiene su primer triunfo")
+
+Raíces internacionales, pasión ecuatoriana
+------------------------------------------
+
+El primer caso destacado es el de Jeremy **Sarmiento**. **Nacido en España de padres ecuatorianos**, se mudó a Inglaterra a una edad temprana y representó a esa selección en categorías juveniles.
+
+Sin embargo, todo cambió en octubre de 2021, cuando recibió su primer llamado por Ecuador a los 19 años, gracias a un buen scouting de la selección y a **Gustavo Alfaro**, el entrenador que lo consolidó en el equipo nacional hasta la fecha, siendo un regular en las convocatorias.
+
+![Jeremy Sarmiento celebra un gol con la Selección de Ecuador en la Copa América 2024.](https://www.elcomercio.com/wp-content/uploads/2024/06/alineacion_ecuador_jamaica-1024x683.jpg)
+
+Jeremy Sarmiento celebra un gol con la Selección de Ecuador en la Copa América 2024.
+
+A Sarmiento se le unió posteriormente **John Yeboah**, nacido en Alemania, de madre ecuatoriana y padre guineano-ecuatoriano.
+
+Al igual que su compañero, **comenzó representando a la selección alemana** en etapas juveniles antes de cambiar de nacionalidad. Yeboah recibió su primer llamado en octubre de 2023, con 23 años, bajo las órdenes de Félix Sánchez Bas, y ahora es un regular en las convocatorias, a pesar de los cambios en el cuerpo técnico.
+
+![John Yeboah celebra uno de los goles de la Selección de Ecuador en Copa América](https://www.elcomercio.com/wp-content/uploads/2024/07/g-2024-07-01T193259.257-1024x683.jpg)
+
+John Yeboah celebra uno de los goles de la Selección de Ecuador en Copa América
+
+“Me alegra mucho que tengamos este tipo de jugadores, porque **tienen una preparación diferente; se formaron en Europa y eso ayuda a la selección**“, destacó Luis Fernando Saritama en una entrevista con EL COMERCIO.
+
+Queridos por la afición
 -----------------------
 
-Para Cuniburo será su primera participación en la Serie A. **Fue fundado el 11 de abril de 1992** y está afiliado a la Asociación de Fútbol No Amateur de Pichincha.
+Pese a su **lejanía con el país** durante su crecimiento, esto no ha impedido que tanto Yeboah como Sarmiento se sientan atraídos por la cultura ecuatoriana.
 
-El nombre de Cuniburo se debe a una comunidad cercana a la parroquia Cangahua, dentro del cantón Cayambe.
+Esta **conexión voluntaria con sus raíces** ha hecho que los aficionados siempre les muestren su apoyo y coreen sus nombres cuando juegan en Quito. Cada vez que han usado la camiseta de la selección, han hecho su mejor esfuerzo por representarla con dignidad.
 
-Tras un largo camino en el fútbol amateur y de **Segunda Categoría logró el ascenso a la Serie B** en el 2022, tras dejar en el camino a San Antonio con un marcador global de 4-3.
+“Hay una conexión con la hinchada. Ver a Yeboah compartir con los aficionados cuando corean su nombre demuestra que se siente a gusto, que **se siente ecuatoriano,** y eso es muy importante”, añadió Saritama.
 
-Su localía la ejercen en el estadio Olímpico Atahualpa. Su actual entrenador es el argentino Juan Grabowski.
+![John Yeboah (izq.) y Jeremy Sarmiento (der.) celebran un gol con la Selección de Ecuador antes de la Copa América.](https://www.elcomercio.com/wp-content/uploads/2024/06/10a1380a744a1eb7bcd23f91b401cf76b094effd-1024x683.jpg)
 
-En el plantel destacan nombres como los de Marco Carrasco, **Kevin Ushiña, Luis Romero, Ariel Mina, Jefferson Orejuela**, Sergio López, José Lugo y Hernán Lino, todos con pasado en equipos de la Serie A.
+John Yeboah (izq.) y Jeremy Sarmiento (der.) celebran un gol con la Selección de Ecuador antes de la Copa América.
 
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/cuniburo_3-1024x683.jpg)
+Números con la selección
+------------------------
+
+Desde 2021, Jeremy Sarmiento ha disputado 23 partidos con la selección, anotando dos goles y brindando dos asistencias. En cuanto a grandes torneos, ha participado en el **Mundial de Catar** 2022 y en la Copa América 2024.
+
+John **Yeboah**, que lleva menos de un año con el combinado nacional, ha sumado 9 partidos, con dos goles y una asistencia. En cuanto a torneos, ha disputado la Copa América 2024.
+
+Conoce la hermosa biblioteca ganadora del ‘Mundial de Bibliotecas’ de este año 
+===============================================================================
+
+Esta biblioteca ganó el Premio a la Biblioteca Pública del Año 2024, destaca por su innovación y diseño.
+--------------------------------------------------------------------------------------------------------
+
+![La Biblioteca de Beijing, diseñada por Snøhetta, resalta por su modernidad. Foto: news.cgtn.com.](https://www.elcomercio.com/wp-content/uploads/2024/10/mundial-bibliotecas-Beijing.jpg)
+
+La **Biblioteca de Beijing** ha sido galardonada con el prestigioso **Premio a la Biblioteca Pública del Año 2024**, otorgado por la **Federación Internacional de Asociaciones de Bibliotecarios y Bibliotecas** (IFLA).  
+
+### Más noticias
+
+* [Ministerio de Educación abrió 18 bibliotecas](https://www.elcomercio.com/actualidad/ministerio-educacion-bibliotecas-estudiantes-libros.html "https://www.elcomercio.com/actualidad/ministerio-educacion-bibliotecas-estudiantes-libros.html")
+* [La Biblioteca Ambulante fomenta la lectura en los barrios de Quito](https://www.elcomercio.com/tendencias/cultura/biblioteca-ambulante-lectura-infantil-quito.html "https://www.elcomercio.com/tendencias/cultura/biblioteca-ambulante-lectura-infantil-quito.html")
+
+Este reconocimiento marca un hito, ya que es **la primera vez que una biblioteca en China recibe este honor**. La ceremonia de premiación se llevó a cabo el 7 de octubre de 2024, en la Conferencia Internacional de Bibliotecas en Barcelona, de acuerdo con la [página oficial de la ciudad de Beijing](https://spanish.beijing.gov.cn/latest/news/202410/t20241010_3915967.html "https://spanish.beijing.gov.cn/latest/news/202410/t20241010_3915967.html"). 
+
+**El diseño vanguardista de la Biblioteca de Beijing** 
+-------------------------------------------------------
+
+El diseño de la **Biblioteca de Beijing**, a cargo de la **firma de arquitectura Snøhetta**, se destaca por su **enfoque en la sostenibilidad y la cohesión social**.  
+
+La estructura incorpora **soluciones innovadoras** que no solo reducen el impacto ambiental, sino que también crean un espacio acogedor y funcional para los usuarios. La biblioteca es descrita como **un “cielo de libros” vibrante y acogedor**, con un diseño que promueve la interacción y el aprendizaje, a decir de la web [Bustler](https://bustler.net/news/10098/sn-hetta-s-socially-cohesive-beijing-library-design-wins-public-library-of-the-year-award "https://bustler.net/news/10098/sn-hetta-s-socially-cohesive-beijing-library-design-wins-public-library-of-the-year-award"). 
+
+**Un espacio para la comunidad** 
+---------------------------------
+
+Más allá de su **impresionante arquitectura**, la **Biblioteca de Beijing** se centra en el fortalecimiento de la comunidad. Ofrece una amplia gama de servicios y actividades que **fomentan la participación ciudadana y el intercambio cultural**. Este enfoque comunitario es uno de los aspectos que más impresionó al jurado del premio, al destacar la capacidad de la biblioteca para **adaptarse a las necesidades de sus usuarios en la era digital**, según recoge la página de [Snøhetta](https://www.snohetta.com/news/beijing-library-awarded-ifla-public-library-of-the-year-2024 "https://www.snohetta.com/news/beijing-library-awarded-ifla-public-library-of-the-year-2024").  
+
+**Curiosidades y datos relevantes** 
+------------------------------------
+
+La **Biblioteca de Beijing** no solo es un centro de conocimiento, sino también un lugar de encuentro para personas de todas las edades.  
+
+Entre sus características más notables se encuentra **un jardín interior que simula un bosque**. Esto proporciona un **ambiente tranquilo y natural** para la lectura y el estudio. Además, la biblioteca cuenta con **tecnología de punta** que facilita el acceso a recursos digitales, lo que hace de este espacio un modelo a seguir para futuras bibliotecas en todo el mundo, [de acuerdo con la misma fuente](https://www.snohetta.com/projects/beijing-library "https://www.snohetta.com/projects/beijing-library"). 
+
+La **Biblioteca de Beijing** se erige como un ejemplo de cómo las bibliotecas pueden evolucionar para seguir siendo relevantes en el siglo XXI, al combinar tradición y modernidad en un espacio que celebra el conocimiento y la comunidad. 
+
+Aún quedan feriados en este 2024, ¿son recuperables?
+====================================================
+
+Feriados de este 2024 se acortan. Hay algunos elementos que recordar.
+---------------------------------------------------------------------
+
+![Iglesias y plazas están entre los destinos para aprovechar los feriados.](https://www.elcomercio.com/wp-content/uploads/2024/10/feriados.jpg)
+
+Luego del **feriado** por la Independencia de Guayaquil, por el que hubo un descanso de tres días, aún hay días de asuetos para lo que resta de **2024** en Ecuador[.](https://es.wikipedia.org/wiki/Ecuador)
+
+Ecuador cuenta con normativa que definen los parámetros de los feriados. Se trata de la Ley Reformatoria a la **Ley Orgánica del Servicio Público y al Código de Trabajo**. 
+
+El documento establece que cuando los días de descanso obligatorio a **escala nacional** o local establecidos en la **Ley** correspondan a los sábados o domingos, el feriado se trasladará, respectivamente, al anterior viernes o al lunes siguiente.
+
+### Más noticias
+
+* [Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-consulte-aqui-los-horarios-con-la-herramienta-de-ia-de-el-comercio.html "Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO")
+* [Más zonas seguras y sostenibles para levantar el turismo de Ecuador](https://www.elcomercio.com/opinion/editorial/mas-zonas-seguras-y-sostenibles-para-levantar-el-turismo-de-ecuador.html "Más zonas seguras y sostenibles para levantar el turismo de Ecuador")
+* [Sector turístico espera reactivación durante el feriado](https://www.elcomercio.com/actualidad/ecuador/viajeros-turismo-guayaquil-feriado-ecuador.html "Sector turístico espera reactivación durante el feriado")
+
+Los feriados en Ecuador
+-----------------------
+
+Asimismo, cuando los días de **descanso obligatorio** correspondan al martes, el feriado se trasladará al lunes inmediato anterior y si coinciden con miércoles o jueves, se pasará al viernes de la misma semana. 
+
+La norma contempla **10 feriados** por año en **Ecuador**. El último fue por la Independencia de Guayaquil (9 de octubre se traslada al 11 de octubre). Los siguientes son:
+
+* **Día de Difuntos** (2 de noviembre se traslada al 1 de noviembre).
+* **Independencia de Cuenca** (3 de noviembre se traslada al 4 de noviembre)
+* **Navidad** (25 de diciembre)
+
+¿Cuánto me pagan por trabajar en feriado?
+-----------------------------------------
+
+El **Código del Trabajo** define que, si una persona labora durante un feriado, **deberá ganar el 100% de recargo**. Para el cálculo se debe dividir el salario por 30 días y luego por las horas trabajadas.
+
+El pago por trabajar en días feriado se debe dar la **quincena** o al final del mes. Los feriados que restan en este 2024 no son **recuperables**.
+
+Los días recuperables corresponden a los que se salen del **calendario oficial**. Por ejemplo, cuando el Gobierno determina una jornada libre por alguna eventualidad.
+
+Los operativos
+--------------
+
+En los feriados, además de conocer las opciones turísticas, hay dispositivos de seguridad. En el descanso por la **Independencia de Guayaquil**, por ejemplo, la Policía destinó **51 544 servidores**: 42 231 preventivos, 1 781 de Inteligencia y 7 532 para investigación.
+
+De ese grupo, 3 000 estuvieron destinados para tareas de seguridad ciudadana. **8 525 en playas**, ferias y eventos públicos y 730 en zonas de montaña, senderos y parques.
+
+Un jugador marca la diferencia del precio entre Uruguay y Ecuador
+=================================================================
+
+Las selecciones de Uruguay y Ecuador suman un valor de mercado de 742 millones de dólares.
+------------------------------------------------------------------------------------------
+
+![Federico Valverde (i) y Moisés Caicedo en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/valverde_costo_1.jpg)
+
+Las selecciones de **Uruguay y Ecuador** están listas para afrontar el partido de la décima fecha de las eliminatorias al Mundial 2026, la primera que marca el inicio de la rueda de revanchas.
+
+El encuentro entre **Uruguay y Ecuador está programado para el martes 15 de octubre de 2024**, desde las 18:30, en el mítico estadio Centenario de Montevideo, sede, entre otros eventos, de la final de la Copa del Mundo de 1930.
+
+### Más noticias:
+
+* [La Selección Ecuador con cuatro jugadores con riesgo de suspensión](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-tarjeta-amarilla.html "La Selección Ecuador con cuatro jugadores con riesgo de suspensión")
+* [Sebastián Beccacece volvió a respaldar a Kendry Páez](https://www.elcomercio.com/deportes/futbol/sebatian-beccacece-kendry-paez-seleccion.html "Sebastián Beccacece volvió a respaldar a Kendry Páez")
+* [La Copa Ecuador confirmó horarios de las semifinales](https://www.elcomercio.com/deportes/futbol/copa-ecuador-horarios-semifinales-llaves.html "La Copa Ecuador confirmó horarios de las semifinales")
+
+Uruguay afronta el duelo contra la Tri **luego de la derrota sufrida por 1-0 en sus visita al Nacional de Lima**, en medio de una controversia desatada por el exseleccionado Luis Suárez sobre el manejo y trato del equipo por parte del entrenador argentino Marcelo Bielsa.
+
+Ecuador, en cambio, intentará pasar el mal sabor de boca que le dejó el **empate 0-0 ante Paraguay en el Rodrigo Paz Delgado,** en medio de cuestionamientos por las escasas opciones de gol con la que cuenta el equipo de Sebastián Beccacece.
+
+Con ese panorama llegan ambas escuadras que se mantienen en la zona de clasificación directa al Mundial con los ‘charrúas’ en la tercera casilla con 15 puntos, mientras que los tricolores son quintos con 12.
+
+La ‘Celeste’ es la favorita para ganar este duelo, **no solo porque juega en un estadio donde la Tri** no ha ganado nunca, sino que el valor de mercado de todos sus jugadores es superior y lo supera por un amplio margen.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/valverde_costo_3-1024x683.jpg)
+
+Uruguay vs. Ecuador en cifras
+-----------------------------
+
+Según Transfermarkt, **Uruguay tiene un valor de mercado de 450 millones de dólares**, vs. los 292 de Ecuador, lo que la mantiene como la quinta mejor valorada de las 10 selecciones de la Conmebol.
+
+La diferencia entre **Uruguay y Ecuador son de 168 millones de dólares**, pero el principal responsable de esta diferencia es Federico Valverde, jugador del Real Madrid que vale 141 millones de dólares, el más elevado de ambas selecciones.
+
+Sin Valverde en la convocatoria uruguaya, la **diferencia se reduciría drásticamente a 27 millones**.
+
+La diferencia también es bastante amplia entre sus compañeros. Por ejemplo, Darwin Núñez, goleador del equipo y de las eliminatorias con cinco tantos, **alcanza un valor de 70 millones**, es decir, la mitad.
+
+Si seguimos bajando nos encontramos en el podio de este ranking con **Manuel Ugarte, recientemente transferido al Manchester United, con 54 millones**.
+
+Entre los de menor valoración están Marcelo Sarachi (Boca Juniors) con 1,4 millones; **Facundo Bernal (Fluminense) con 1,5 millones**; y Guillermo Varela (Flamengo) con 1,8.
+
+En Ecuador, Moisés Caicedo es el mejor valorado con 81 millones de dólares, por lejos el más alto del plantel convocado con **Beccacece, que tiene la particularidad de tener a 22 jugadores** en el extranjero y solo tres en la Liga Pro.
+
+Está secundado por los defensas **Willian Pacho (PSG) y Piero Hincapié (Bayer Leverkusen)** con 43,6 millones de dólares.
+
+Los porteros Gonzalo Valle (Liga de Quito) y Hernán Galíndez, son los únicos cuyo valor de mercado es de 381 000 dólares.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/valverde_costo_2-1024x683.jpg)
 
 Foto: API.
 
 No te pierdas – El Confesionario
 --------------------------------
 
-Cortes de luz para este 14 de octubre de 2024 en Quito
-======================================================
+Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.
+================================================================
 
-La Empresa Eléctrica Quito (EEQ) publicó los horarios de cortes de luz programados para el 14 de octubre de 2024.
------------------------------------------------------------------------------------------------------------------
+Sheinbaum resaltó la oportunidad que tiene el país ante el fenómeno de la relocalización de empresas.
+-----------------------------------------------------------------------------------------------------
 
-![Los cortes de luz en Quito serán de hasta 10 horas al día. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-quito-nuevos.jpg)
+![Claudia Sheinbaum en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/claudia-sheinbaum-octubre-1.jpg)
 
-Los **cortes de luz** programados continuarán durante la tercera semana de octubre de 2024. La Empresa Eléctrica Quito (EEQ) publicó los **horarios** para este lunes 14 de octubre para la ciudad. Los racionamientos eléctricos son de hasta 10 horas al día[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+La presidenta de México, [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html"), adelantó este lunes, 14 de octubre de 2024, que habrá anuncios de **nuevas inversiones** durante el encuentro de **alto nivel de empresarios mexicanos** y estadounidenses que encabezará este martes, el ‘US-Mexico CEO Dialogue’.
 
 ### Más noticias
 
-* [Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz](https://www.elcomercio.com/actualidad/gobierno-de-daniel-noboa-abre-procesos-para-centrales-termoelectricas-por-cortes-de-luz.html "Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz")
-* [Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios](https://www.elcomercio.com/actualidad/negocios/cortes-luz-continuan-14-al-20-octubre-2024-conozca-nuevos-horarios.html "Los cortes de luz continúan del 14 al 20 de octubre de 2024; conozca los nuevos horarios")
-* [Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz](https://www.elcomercio.com/actualidad/quito/lugares-carga-vehicular-obras-cortes-luz-quito.html "Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz")
+* [Sheinbaum analiza impulsar la tipificación del crimen de transfeminicidio](https://www.elcomercio.com/actualidad/mundo/presidenta-mexico-analiza-impulsar-tipificacion-crimen-transfeminicidio.html "Sheinbaum analiza impulsar la tipificación del crimen de transfeminicidio")
+* [Claudia Sheinbaum propone las reglas para la elección popular del Poder Judicial](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-propone-reglaseleccion-popular-poder-judicial.html "Claudia Sheinbaum propone las reglas para la elección popular del Poder Judicial")
+* [Claudia Sheinbaum conversa por primera vez con Joe Biden](https://www.elcomercio.com/actualidad/mundo/sheinbaum-conversa-primera-joe-biden.html "Claudia Sheinbaum conversa por primera vez con Joe Biden ")
 
-Por lo general, las franjas de racionamiento eléctrico están divididos en dos períodos diarios por cada sector de Quito.
+La mandataria aseguró en el **Palacio Nacional** que en la reunión destacará “el interés que hay de inversionistas, particularmente de Estados Unidos en México, y también va a darse una conferencia de prensa después, donde entre otros (temas), se van a anunciar **algunas inversiones** que ya están planteadas”.
 
-Por ejemplo, las subestaciones **Miraflores, Río Coca, Conocoto y Tumbaco** tienen 10 horas de cortes de luz en dos períodos: 08:00 a 11:00 y de 17:00 a 24:00.
+¿De qué se trata este encuentro?
+--------------------------------
 
-Mientras que las subestaciones de: **Luluncoto, Chilibulo, La Floresta, Cristianía y Epiclachima** también 10 horas de racionamiento eléctrico en dos períodos de cinco horas cada uno: de 06:00 a 11:00 y de 15:00 a 20:00.
+“En su momento, **empresarios nacionales** y, principalmente, de Estados Unidos plantearon la posibilidad de que tuviéramos un diálogo para conocer **cuáles son los beneficios** y los incentivos que se van a generar para la inversión en México”, detalló la gobernante mexicana.
 
-Revise en este documento los cortes de luz de este 14 de octubre en Quito
--------------------------------------------------------------------------
+Encuentro entre Sheinbaum y directivos de Estados Unidos
+--------------------------------------------------------
 
-Cortes de luz en el sector industrial
--------------------------------------
+Este será el primer gran encuentro de Sheinbaum con directivos de Estados Unidos desde que asumió la presidencia el 1 de octubre en medio de la incertidumbre que causaron reformas como la que instaura **elecciones populares del Poder Judicial** y la que elimina reguladores autónomos de energía, economía y telecomunicaciones.
 
-Asimismo, la EEQ programó apagones de 10 horas para el sector **industrial de Quit**o, ubicado en Santa Rosa e Inga Bajo. Los cortes de luz serán de 14:00 a 24:00.
+Aún así, la presidenta descartó que haya “cautela” entre inversionistas.
 
-La ministra de Producción, **Sonsoles García**, señaló que el Gobierno y el sector industrial coordinaron los **cortes de luz** para minimizar el impacto en la **producción y el comercio**.
+“Tengo conocimiento, a través del secretario de Economía (Marcelo Ebrard) y, de manera directa, de **muchísimas empresas** que quieren seguir invirtiendo en nuestro país, México tuvo récord de exportaciones, es el principal socio comercial de Estados Unidos y esto va a seguir en nuestro país”, aseguró.
 
-La ministra de Producción explicó que se ajustaron los horarios para que las actividades económicas puedan continuar de manera eficiente. Además, dijo que se ha priorizado a las ciudades de **Ambato y Cuenca**, con el objetivo de acoplar los apagones a las necesidades productivas de estas zonas.
+Sheinbaum resaltó la oportunidad que tiene el país ante el fenómeno de la **relocalización de empresas** o ‘nearshoring’ y el Tratado entre México, Estados Unidos y Canadá (T-MEC).
 
-Asimismo, señaló que las autoridades mantienen un diálogo constante con las distribuidoras eléctricas y los gremios industriales para garantizar que las medidas energéticas se implementen con el menor perjuicio posible.
+Pero pidió que el éxito “no solo se mida” en inversión extranjera directa, con un récord de **31 000 millones de dólares** en el primer semestre del año, sino también con **indicadores de bienestar**. Se refirió a salarios, respeto a los derechos laborales y protección del medioambiente.
 
-Los horarios de cortes de luz de todo el país lo puede revisar en la [página web del Ministerio de Energía y Minas](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/"). Allí se encuentran los cronogramas por cada una de las nueve empresas distribuidoras de electricidad del país.
+Inversión que se acerque a las regiones
+---------------------------------------
 
-Ecuador decomisa más de 500 kilos de cocaína en contenedores de exportación
-===========================================================================
+Por ello, resaltó la creación de **“polos de bienestar”** para buscar que la inversión se acerque a las regiones donde haya disponibilidad de energía y capital humano.
 
-La Policía Nacional inform que decomisó más de 500 kilos de cocaína que estaban ocultos en un contenedor con banano de exportación.
------------------------------------------------------------------------------------------------------------------------------------
+“El t**ratado comercial con Estados Unidos** y **Canadá** abre esta posibilidad de lo que se llama hoy la relocalización de las empresas, **muchas empresas estadounidenses** que encuentran en México una oportunidad para invertir”, comentó.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/policia-rusia.jpg)
+Delincuentes que planeaban atacar a policías fueron detenidos en Pedro Moncayo
+==============================================================================
 
-**Ecuador** decomisó un **cargamento de cocaína** oculto en un contenedor con productos de exportación que iba hacia Rusia. Dos **personas fueron detenidas** y varios objetos incautados para continuar la investigación[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+Los sospechosos fueron aprehendidos en la parroquia de Malchinguí, en Pedro Moncayo, con armas, droga y dinero en efectivo.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Cinco hombres y dos mujeres fueron detenidos durante el operativo](https://www.elcomercio.com/wp-content/uploads/2024/10/detenidos-malchingui.jpg)
+
+La Policía Nacional capturó a **siete sospechosos** de **tentativa de terrorismo** en la parroquia de Malchinguí, en el cantón Pedro Moncayo, en la provincia de Pichincha.
+
+Los individuos fueron detenidos durante un operativo realizado por el Grupo de Operaciones Especiales (**GOE**), la madrugada de este lunes 14 de octubre de 2024.
 
 ### Más noticias
 
 * [Policía decomisó millonario cargamento de droga en alta mar](https://www.elcomercio.com/actualidad/ecuador/policia-cargamento-droga-alta-mar-galapagos.html "Policía decomisó millonario cargamento de droga en alta mar")
-* [Requisa en la cárcel de El Inca deja estos resultados](https://www.elcomercio.com/actualidad/seguridad/requisa-carcel-el-inca-deja-estos-resultados.html "Requisa en la cárcel de El Inca deja estos resultados")
-* [Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil](https://www.elcomercio.com/actualidad/seguridad/agresores-sexuales-estados-unidos-guayaquil.html "Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil")
+* [55 capturados deja la Operación Cero Impunidad de la Policía](https://www.elcomercio.com/actualidad/seguridad/55-capturados-deja-operacion-cero-impunidad-policia.html "55 capturados deja la Operación Cero Impunidad de la Policía")
+* [Policía detiene a exasambleísta por presunta concusión](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-exasambleista-por-presunta-concusion.html "Policía detiene a exasambleísta por presunta concusión")
 
-La Policía Nacional informó este 13 de octubre de 2024 que decomisó más de 500 kilos de cocaína que estaban ocultos en un contenedor con **banano de exportación**. El cargamento tenía como destino **Rusia**.
+Según detalló la entidad, se presume que los individuos intentaban realizar **actos ilícitos** en contra de servidores policiales.
 
-El hallazgo se dio durante el operativo denominado ‘Poseidón XLIV’, realizado el sábado 12 de octubre en un **puerto marítimo de Guayaquil**. Allí se localizaron 573 paquetes tipo ladrillo que contenían cocaína.
+Así mismo, planificaban **atacar dependencias** de la Policía ubicadas en la localidad.
 
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) || AFECTAMOS A GRUPOS NARCODELICTIVOS EN 21 MILLONES DE DÓLARES  
+Los uniformados detuvieron a **cinco hombres y dos mujeres**, una de ellas registraba antecedentes penales por tráfico ilícito de drogas y por **extorsión**.
+
+Los aprehendidos fueron:
+
+* Jederlyn B. (antecedentes)
+* Camila B.
+* Josué B.
+* Jeremy B.
+* Cristopher Ch.
+* Carlos Ch.
+* Marco M.  
+    
+
+Los detenidos pertenecerían al grupo armado organizado (**GAO**) de Los Lobos, indicó la Policía.
+
+Como indicios del presunto delito se encontró un **arma de fuego**, un cartucho, droga, dinero en efectivo, una balanza (gramera) y 14 celulares.
+
+Los aprehendidos fueron puestos a órdenes de las autoridades competentes, mientras que los indicios fueron ingresados mediante cadena de custodia.
+
+> 7 CAPTURADOS POR ATENTAR INSTITUCIONALES POLICIALES  
 >   
-> Como resultado de un operativo en el que se decomisó 573 paquetes rectangulares de clorhidrato de cocaína con más de 5 millones de dosis de estupefacientes ocultos en contenedores en un puerto de [#GYE](https://twitter.com/hashtag/GYE?src=hash&ref_src=twsrc%5Etfw); la… [pic.twitter.com/eKw4sb14rM](https://t.co/eKw4sb14rM)
+> En Cayambe – Pedro Moncayo, [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw), aprehendimos en flagrancia a 7 presuntos responsables en el delito de acción pública, quienes intentaban realizar actos ilícitos en contra de policías y dependencias policiales. Además,… [pic.twitter.com/xgWph6LP6L](https://t.co/xgWph6LP6L)
 > 
-> — Policía Ecuador (@PoliciaEcuador) [October 13, 2024](https://twitter.com/PoliciaEcuador/status/1845507274153885962?ref_src=twsrc%5Etfw)
+> — Policía Ecuador (@PoliciaEcuador) [October 14, 2024](https://twitter.com/PoliciaEcuador/status/1845847637657788799?ref_src=twsrc%5Etfw)
 
-La Unidad de Información de Puertos y Aeropuertos (UIPA) y el Centro Regional de Adiestramiento Canino (CRAC) identificaron al contenedor que contenía un cargamento de bananos y estaba contaminado con la droga. En su interior se ocultaba un total de 526 686 gramos de cocaína.
+4 845 operativos de seguridad se realizaron en el feriado
+---------------------------------------------------------
 
-La Policía detuvo a los ciudadanos Andrew C. y Andrés A. **con fines de investigació**n.
+Desde el jueves 10 hasta la madrugada del lunes 14 de octubre, más de **51 000 policías** se desplegaron para controlar la seguridad en Ecuador.
 
-Además, como indicios se obtuvieron tres teléfonos celulares, un vehículo tipo tractocamión, un contenedor y varios sellos navieros. Este material servirá para continuar con las indagaciones y desarticular esta red de narcotráfico, señaló la Policía.
+Según detalló la Institución, los servidores realizaron **4 845 operativos** preventivos y de control.
 
-Según datos oficiales, la acción policial evitó que más de 5,2 millones de dosis de droga lleguen a las calles. La afectación es de más de 21 millones de dólares para los grupos narcodelictivos.
+Las operaciones incluyeron el control de tránsito, verificación de documentos de identidad y antecedentes penales, atención de emergencias y denuncias ciudadanas, y colaboración con otras entidades de seguridad y control.
 
-Ecuador está catalogado como el tercer país en el mundo que más droga decomisa, detrás de Colombia y Estados Unidos. Según registros, de los tres últimos años se han incautado de 200 toneladas de estupefacientes, mientras que acumula 149 toneladas en el primer semestre de 2024.
+Además, se realizó operativos especiales contra la delincuencia organizada, el tráfico de drogas, de armas de fuego, entre otros delitos.
 
-La Selección de Ecuador sub-15 perdió, pero se clasificó
-========================================================
+Los uniformados detuvieron **475 personas** en estos cuatro días, permitiendo la incautación de **45 armas de fuego**, 167 armas blancas y 3 211 kilogramos de droga.
 
-La Selección de Ecuador sub-15 cerró su participación en el Sudamericano en Bolivia con 5 puntos.
--------------------------------------------------------------------------------------------------
+Tránsito por túnel Guayasamín, a prueba con cierre de la parada de Ecovía
+=========================================================================
 
-![Juan Riquelme Angulo (19) en el Sudamericano sub-15 de 2024 con Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_venezuela_juvenil_2.jpg)
+Este 14 de octubre fue el primer día laborable durante la intervención en las vías exclusivas de la Ecovía. Se espera que termine la obra antes de lo previsto.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-La **Selección de Ecuador sub-15** no tuvo una buena jornada en el Campeonato Sudamericano que se juega en Bolivia, y perdió ante Venezuela por 0-4 en su último partido del grupo B.
+![Pese a los temores, el tránsito por la vía Guayasamín hasta la Plaza Argentina no tuvo contratiempos mayores.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-4-1.jpg)
 
-Los combinados de la Selección de **Ecuador y Venezuela se enfrentaron** la tarde de este domingo 13 de octubre de 2024, en el estadio Ramón Aguilera Costa de Santa Cruz de la Sierra.
+A las **05:00** de este lunes **14 de octubre** comenzó el **operativo de tránsito** llevado a cabo por la **Agencia Metropolitana de Tránsito (AMT),** desde la salida del **túnel Guayasamín** hasta la **Plaza Argentina**. Es el **primer día laborable** que debió enfrentar la autoridad de **tránsito** con la intervención en esta **vía crucial** para **Quito**.
+
+### Más noticias
+
+* [Contraflujo de la av. Guayasamín se desvía hacia otra vía de Quito](https://www.elcomercio.com/actualidad/quito/contraflujo-av-guayasamin-quito-se-desvia-hacia-otra-via.html "Contraflujo de la av. Guayasamín se desvía hacia otra vía de Quito")
+* [Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre](https://www.elcomercio.com/actualidad/quito/conozca-nuevos-horarios-cortes-de-luz-quito-semana-del-14-al-20-octubre.html "Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre")
+* [La infanta Elena se olvida de la polémica del Rey Juan Carlos al ritmo de ‘Paquito el chocolatero’](https://www.elcomercio.com/actualidad/mundo/infanta-elena-olvida-polemica-rey-juan-carlos-ritmo-paquito-chocolatero.html "La infanta Elena se olvida de la polémica del Rey Juan Carlos al ritmo de ‘Paquito el chocolatero’")
+
+El operativo en la Plaza Argentina
+----------------------------------
+
+**Las obras comenzaron el jueves 10 de octubre a las 21:00**, en el inicio del **feriado** por la Independencia de Guayaquil. Pero este 14 de octubre era el momento de la verdad: por el **túnel Guayasamín** cruzan al menos 35 000 automóviles diarios y esa fue la preocupación fundamental **del operativo de la AMT[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")**
+
+Un total de **30 agentes** estarán desplazados por esta zona que es de por sí un punto conflictivo en Quito. Sin embargo, y a pesar de ser hora pico, la movilidad no fue tan complicada como se pensaba. Impresionaba que, durante los 10 minutos que EL COMERCIO dialogó con el director general de la AMT, Washington Martínez, solo hubo un bocinazo en esta zona de la ciudad.
+
+“Pensábamos tener muchos más problemas. No ha habido ningún siniestro ni se ha dañado ningún vehículo. Esto nos ha permitido tener el punto de equilibrio en este punto tan delicado de la ciudad”, dio Martínez.
+
+Problemas en el redondel del ciclista
+-------------------------------------
+
+La falta de bocinazos en esta zona en donde los conductores se desgañitan con los pitos en un día cualquiera, el orden con que fluía el tránsito, fueron destacados por la AMT. Los ciudadanos estuvieron informados y actuaron en consecuencia al tomar la Simón Bolívar hasta el redondel del ciclista.
+
+Sin embargo, en el redondel del ciclista se presentaron algunos problemas. A una conductora, que suele ir por el túnel Guayasamín, el GPS la llevó por la ruta de Nayón que desemboca en el UDLA Park, justo en el redondel. No había luz y, según ella, tampoco vio un agente de tránsito.
+
+Mosquera reconoció que hubo una mayor congestión y que la columna de vehículos se prolongaba por casi un kilómetro. La solución, según la AMT, fue disponer que el tránsito siguiera durante dos semáforos en rojo cada 15 minutos.
+
+Se vienen más trabajos en calles de Quito
+-----------------------------------------
+
+Si bien se tuvo previsto que la intervención en esta parte, que forma parte de la rehabilitación total de la Ecovía, se termine el 20 de octubre, los trabajos han avanzado de tal forma que se espera que se adelante la entrega dos o tres días antes.
+
+Luego de eso vienen los trabajos en otras zonas complicadas como la transversal de la avenida República, Orellana, Colón. Para la intersección de la avenida Patria, se espera comenzarlo durante el feriado de noviembre.
+
+¿Cuándo juega la Selección de Ecuador ante Uruguay?
+===================================================
+
+La Tricolor que lidera Sebastián Beccacece está lista para retar a Uruguay en Montevideo. ¿Cuándo juega la Selección de Ecuador?
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Hernán Galíndez, arquero de la Selección de Ecuador que visitará a Uruguay en eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/seleccion-1.jpg)
+
+La **Selección de Ecuador** se prepara para enfrentar a **Uruguay** en un partido crucial por las eliminatorias sudamericanas del **Mundial** de 2026.
+
+Este encuentro se realizará en el histórico estadio **Centenario** de **Montevideo** y representa una oportunidad única para que Ecuador busque su primer triunfo en territorio uruguayo.
+
+Hasta ahora, la **Tri** ha tenido un historial complicado en Uruguay, donde ha cosechado ocho derrotas y tres empates en 11 partidos disputados.
 
 ### Más noticias:
 
-* [Glenda Morejón, medallista olímpica en París 2024, se casó](https://www.elcomercio.com/deportes/glenda-morejon-medallista-olimpica-en-paris-2024-se-caso.html "Glenda Morejón, medallista olímpica en París 2024, se casó")
-* [¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-eliminatorias-uruguay.html "¿Cuándo juega la Selección de Ecuador en eliminatorias sudamericanas?")
-* [La Selección Ecuador con cuatro jugadores con riesgo de suspensión](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-tarjeta-amarilla.html "La Selección Ecuador con cuatro jugadores con riesgo de suspensión")
+* [Alberto Spencer, un ídolo que comparten Ecuador y Uruguay](https://www.elcomercio.com/deportes/futbol/alberto-spencer-seleccion-uruguay-ecuador.html "Alberto Spencer, un ídolo que comparten Ecuador y Uruguay")
+* [La Selección de Ecuador intenta primer triunfo en Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-eliminatorias-mundial2026.html "La Selección de Ecuador intenta primer triunfo en Uruguay")
+* [Uruguay navega aguas agitadas antes de recibir a Ecuador](https://www.elcomercio.com/deportes/futbol/uruguay-ecuador-montevideo-eliminatorias-mundial2026.html "Uruguay navega aguas agitadas antes de recibir a Ecuador")
 
-Para Ecuador el trámite del partido se empezó a complicar desde el primer minuto con el **golazo de Yimvert Berroterán (UCV FC Cantera) que sacó un zapatazo para clavar el 0-1**.
+Selección de Ecuador enfrenta a una ‘Celeste’ en crisis
+-------------------------------------------------------
 
-El remate del venezolano fue con pierna izquierda y fue a parar en el ángulo del pórtico defendido por Miguel Peralta (Independiente del Valle).
+Uruguay, actualmente en el tercer lugar de la tabla con 15 puntos, llega al partido tras una serie de resultados decepcionantes.
 
-Berroterán aprovechó un error defensivo del defensa central Virgilio Olaya (Aucas), **que tuvo un partido para el olvido a lo largo de los 80 minutos** reglamentarios que el reglamento contempla para el sub-15.
+La **Selección de Uruguay** ha perdido sus últimos tres partidos, incluyendo una reciente derrota 1-0 ante Perú.
 
-> ¡Desde el vestuario! ⏱️⚽️  
->   
-> El golazo de Yimvert Berroterán que abrió el partido antes del minuto de juego para [@juvenilesfvf](https://twitter.com/juvenilesfvf?ref_src=twsrc%5Etfw) en la CONMEBOL [#Sub15](https://twitter.com/hashtag/Sub15?src=hash&ref_src=twsrc%5Etfw) 🇻🇪[#CreeEnGrande](https://twitter.com/hashtag/CreeEnGrande?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/EKfdMOCE63](https://t.co/EKfdMOCE63)
-> 
-> — CONMEBOL.com (@CONMEBOL) [October 13, 2024](https://twitter.com/CONMEBOL/status/1845581002388934796?ref_src=twsrc%5Etfw)
+Este panorama tenso ha llevado a cuestionamientos sobre la dirección del equipo bajo el mando de Marcelo Bielsa, especialmente tras las polémicas declaraciones de **Luis Suárez**, quien criticó la gestión del seleccionador.
 
-Luego a los 17 minutos el 0-2 tuvo la firma de **David García (Houston Academy)**; y a los 40 minutos el 0-3 por intermedio del propio García, dando por cerrado un primer tiempo irreconocible para la Tri.
+Con el regreso de jugadores clave como **José María Giménez** y **Mathías Olivera**, la ‘Celeste’ busca recuperar la confianza y revertir su suerte.
 
-> ¡El segundo de la Vinotinto! 🍷🎯  
->   
-> David García eludió al arquero y amplió en favor de [@juvenilesfvf](https://twitter.com/juvenilesfvf?ref_src=twsrc%5Etfw) en la despedida de la CONMEBOL [#Sub15](https://twitter.com/hashtag/Sub15?src=hash&ref_src=twsrc%5Etfw) 🏆[#CreeEnGrande](https://twitter.com/hashtag/CreeEnGrande?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/pX5DYjR1zL](https://t.co/pX5DYjR1zL)
-> 
-> — CONMEBOL.com (@CONMEBOL) [October 13, 2024](https://twitter.com/CONMEBOL/status/1845600354815050219?ref_src=twsrc%5Etfw)
+Selección de Ecuador: Una defensa sólida
+----------------------------------------
 
-La goleada 0-4 de la **‘Vinotinto’ se concretó a los 52 minutos del segundo tiempo**, con un tanto de John Mancilla (Monagas), para cerrar el marcador y anotarse su primera victoria en el campeonato y se despidió de la competencia.
+La **Selección de Ecuador** ha mostrado un sólido sistema defensivo, permitiendo solo un gol en sus últimos seis partidos.
 
-> ¡El último de Venezuela! ⚽️4⃣  
->   
-> John Mancilla decoró la gran victoria de [@juvenilesfvf](https://twitter.com/juvenilesfvf?ref_src=twsrc%5Etfw) en su último partido por la CONMEBOL [#Sub15](https://twitter.com/hashtag/Sub15?src=hash&ref_src=twsrc%5Etfw) 🇻🇪[#CreeEnGrande](https://twitter.com/hashtag/CreeEnGrande?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/YAQPYpmwd6](https://t.co/YAQPYpmwd6)
-> 
-> — CONMEBOL.com (@CONMEBOL) [October 13, 2024](https://twitter.com/CONMEBOL/status/1845601014478442830?ref_src=twsrc%5Etfw)
+Este es un aspecto crucial que el director técnico Sebastián Beccacece espera capitalizar.
 
-Ecuador se clasificó para las semifinales
------------------------------------------
+A pesar de las críticas hacia su ataque, el equipo cuenta con futbolistas talentosos como Enner Valencia y Gonzalo Plata, quienes serán fundamentales para lograr la victoria. Ecuador ha anotado un total de seis goles en las eliminatorias, pero enfrenta el desafío de mejorar su capacidad ofensiva.
 
-Antes de esta jornada, **Ecuador dependía de sus propios resultados** para clasificarse a las semifinales, pero la derrota lo dejó a la espera de lo que puedan hacer Argentina y Brasil en el último partido del grupo B.
-
-Argentinos y brasileños empataron 1-1 y ese resultado benefició a la Tri que se metió entre los cuatro mejores. La ‘Albiceleste’ ganó el grupo con 8 puntos y un gol diferencia positivo de +2.
-
-Ecuador se quedó en el **segundo puesto con 5 puntos y un gol diferencia negativo de -3**. Su campana se resume en dos empates (vs. Uruguay 1-1 y vs. Argentina 2-2), una victoria (vs. Brasil 2-1) y una derrota (vs. Venezuela 0-4).
-
-Brasil fue **tercera con 5 putos y un gol diferencia positivo de +2**, pero la ventaja para los tricolores fue haberle ganado a la ‘Verdeamarela’ en el duelo directo.
-
-La tabla de se completa con Venezuela que alcanzó 4 puntos y un gol diferencia de 0, mientas que Uruguay descendió al quinto y último puesto con 3 unidades y un gol diferencia negativo de -1.
-
-Para el miércoles 16 están programadas las semifinales entre **Argentina vs. Paraguay y Chile vs. Ecuador**.
-
-![Foto: La Tri.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_venezuela_juvenil_1-1024x683.jpg)
-
-Foto: La Tri.
-
-Juan Carlos Burbano, DT de la Tri
+¿Cuándo juegan Ecuador y Uruguay?
 ---------------------------------
 
-El histórico mediocampista Juan Carlos Burbano es el entrenador encargado de la Selección de Ecuador sub-15.
+La **Selección de Ecuador** se enfrentará a Uruguay el martes 15 de octubre de 2024. Se disputará desde las 18:30, hora de Ecuador.
 
-Como jugador, **Burbano no solo acudió al primer mundial de Ecuador en Corea-Japón 2002**, sino que estuvo durante todo el ciclo eliminatorio que constituyó la clasificación con la guía técnica del colombiano Hernán Darío Gómez.
+Este partido no solo es vital para la clasificación al Mundial, sino que también se convierte en un momento histórico para Ecuador, que busca romper una racha negativa en Montevideo.
 
-A su vez, el tricolor **también jugó los choques clasificatorios hacia el Mundial de Francia 1998** y la Copa América de 1997. A nivel de clubes jugó para Universidad Católica, Deportivo Quito y El Nacional, donde fue capitán.
+Con un buen desempeño defensivo y una búsqueda constante de mejorar su ataque, la Tri espera dar un paso importante en su camino hacia el Mundial.
 
-Después de su retiro, **el quiteño fue asistente técnico en El Nacional** hasta que tuvo su oportunidad como DT de los puros criollos.
+Contrato de segunda barcaza de energía para Ecuador cambió
+==========================================================
 
-A su vez, también se desempeñó como coordinador de las divisiones juveniles de Liga de Quito.
+El Gobierno de Ecuador canceló el alquiler de una segunda barcaza de energía flotante, optando por comprar 350 MW de generación móvil.
+--------------------------------------------------------------------------------------------------------------------------------------
 
-No te pierdas – El Confesionario
---------------------------------
+![La barcaza eléctrica Powership Emre Bey de Karpowership. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/09/barcaza-19-1.jpg)
 
-Ocho impactantes verdades sobre los psicópatas que seguro no sabías
-===================================================================
+La **ministra de Energía** encargada, **Inés Manzano**, confirmó la mañana de este lunes 14 de octubre de 2024 que hubo un cambio con la contratación de alquiler de la **segunda barcaza** de generación eléctrica flotante[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
-Lo que has oído sobre los psicópatas podría no ser cierto. Te contamos.
------------------------------------------------------------------------
+Estos equipos debían llegar al **Ecuador en noviembre** próximo para hacer frente a la crisis energética que afronta el país y así evitar los **cortes de luz**, que actualmente son de hasta 10 horas al día.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/psicopatas-El-comercio.jpg)
+### Más noticias
 
-El escalofriante **caso de Wade Wilson**, apodado el **‘[Deadpool Killer’](https://www.elcomercio.com/afull/penademuerte-deadpool-killer-asesino-guapo.html "https://www.elcomercio.com/afull/penademuerte-deadpool-killer-asesino-guapo.html")**, desató un intenso debate sobre la influencia de la apariencia física en la percepción de la culpabilidad.
+* [Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-incorporar-nueva-barcaza-de-generacion-electrica-para-evitar-cortes-de-luz.html "Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz")
+* [Ecuador va a su propio ritmo en la apuesta de energías renovables](https://www.elcomercio.com/actualidad/negocios/ecuador-propio-ritmo-apuesta-energias-renovables.html "Ecuador va a su propio ritmo en la apuesta de energías renovables")
+* [Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre](https://www.elcomercio.com/actualidad/quito/conozca-nuevos-horarios-cortes-de-luz-quito-semana-del-14-al-20-octubre.html "Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre")
 
-A pesar de haber confesado sus crímenes, un grupo de mujeres abogó por él en 2024 basándose en su imagen y en su atractivo, como si esto pudiera garantizar que no volvería a cometer actos violentos.
+En una entrevista, Manzano explicó que la llegada de la segunda barcaza, anunciada por el exministro de Energía, **Antonio Goncalves**, fue cancelada. El proceso de contratación se suspendió. “Estamos haciendo algo mejor”. El presidente Daniel Noboa decidió comprar **generación móvil** en lugar de solo alquilarla, dijo en Teleamazonas.
 
-En este contexto, el estreno en septiembre de 2024 de una miniserie sobre los **[hermanos Menéndez](https://www.elcomercio.com/actualidad/mundo/caso-de-los-hermanos-menendez-toma-nuevo-giro-saldran-libres.html "https://www.elcomercio.com/actualidad/mundo/caso-de-los-hermanos-menendez-toma-nuevo-giro-saldran-libres.html")** que cometieron **parricidio** ha reavivado la discusión, ya que muchos argumentan que estos jóvenes eran víctimas de abusos, lo que a su vez invita a cuestionar cómo se identifica a los psicópatas en nuestra sociedad.
+“Es importante, porque la compra le va a quedar para toda la vida al parque de energía”, agregó.
 
-El cine ha retratado a psicópatas como **Hannibal Lecter** y **Jeffrey Dahmer** como figuras intrigantes y complejas, a menudo destacando su inteligencia y carisma, lo que contribuye a una percepción distorsionada de la psicopatía. Estas representaciones tienden a simplificar la realidad, al centrar la atención en el dramatismo de sus crímenes, en lugar de explorar las profundidades de su psicología y sus efectos en las víctimas.
+En lugar de la barcaza, se comprarán 350 megavatios (MW) de generación en tierra. Estos equipos estarán operativos entre 40 y 60 días. “Estamos esperando que el primer bloque ya entre a mediados de noviembre”, aseguró.
 
-A partir de entrevistas con el psicólogo y docente de la **[UISEK](https://uisek.edu.ec/ "https://uisek.edu.ec/")**, Roberto Sicard León, y con la Dra. Agustina Vinagre González, de la **[UNIR](https://estudia.unir.net/ec/ec-gen-ma-gene-maestrias-oficiales-online/ "https://estudia.unir.net/ec/ec-gen-ma-gene-maestrias-oficiales-online/")**, hemos elaborado una lista de **mitos y verdades sobre los psicópatas** que ayudarán a desentrañar este complejo tema.
+Un segundo **bloque de energía, de 800 MW**, que ya está en proceso de contratación, también estará operativo antes de fin de año.
 
-1\. Mito: La psicopatía es un trastorno mental
-----------------------------------------------
+Proceso de alquiler de la barcaza fue cancelado
+-----------------------------------------------
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/psicopatas-El-comercio-2-1024x683.jpg)
+El proceso de **alquiler de la barcaza,** de 250 MW, empezó el 19 de septiembre de 2024 con la convocatoria a las empresas interesadas, bajo la modalidad de emergencia. No se conoce cuántas compañías presentaron sus propuestas.
 
-Hannibal Lecter, asesino preso en la cinta ‘El silencio de los inocentes’. Foto: Pinterest
+La **primera barcaza alquilada por Ecuador** opera desde el 16 de septiembre pasado en el puerto de Guayaquil.
 
-**Verdad:** No, la psicopatía no se considera un trastorno mental en los manuales de diagnóstico. Aunque puede asociarse al **Trastorno Antisocial de la Personalidad**, presenta diferencias significativas y no es una enfermedad mental en sí misma. La confusión conceptual es común, ya que la psicopatía no aparece en ningún diagnóstico manual y, aunque se suele identificar con el Trastorno Antisocial, tiene características diferenciales.
+Esta embarcación de la empresa turca **Karpowership**, denominada Powership Emre Bey, tiene una capacidad de 100 MW, y estará en Ecuador durante 18 meses por un costo de 115 millones de dólares.
 
-2\. Mito: Sufren emocionalmente
--------------------------------
-
-**Verdad:** No, los psicópatas no experimentan el sufrimiento emocional como lo hace la mayoría de las personas. Tienden a **simular emociones** para manipular a los demás, lo que puede dar la falsa impresión de que son víctimas de sus propias acciones. Como señala Sicard León, “el observador convencional puede pensar que el psicópata sufre, justificando así su conducta, sin darse cuenta de que en realidad simulan emociones para obtener beneficios”.
-
-3\. Mito: Se hereda genéticamente
----------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/psicopatas-El-comercio-1-1024x683.jpg)
-
-Norman Bates, asesino de las películas ‘Psicosis’. Foto: Pinterest
-
-**Verdad:** No del todo, la neurobiología y la interacción con el entorno son más relevantes que la **genética** en la formación de la personalidad psicopática. Factores como la falta de estímulos emocionales positivos en la infancia y la exposición a la **violencia** pueden activar marcadores hereditarios relacionados con la psicopatía. Dice Vinagre González que las alteraciones neurobiológicas, especialmente en el lóbulo prefrontal, son más significativas en este contexto.
-
-4\. Mito: Pueden cambiar su comportamiento
-------------------------------------------
-
-**Verdad:** Rara vez, los psicópatas modifican su conducta y comenzarán manipulando a los demás para alcanzar sus **objetivos**. Vinagre González advierte que “no hay posibilidad de que una persona con rasgos psicopáticos cambie su forma de actuar, ya que consideran que su **egocentrismo** es una virtud”.
-
-5\. Mito: Son inteligentes
---------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/psicopatas-El-comercio-3-1024x683.jpg)
-
-Fulanito de tal, asesino de la cinta Seven. Foto: Pinterest
-
-**Verdad:** Sí, los psicópatas suelen poseer un buen nivel intelectual, lo que les permite planificar sus actos meticulosamente. **Sicard León** destaca que esta habilidad les ayuda a no resultar inimputables en procesos legales, ya que comprenden sus acciones. Es decir, tienen la capacidad de entender lo que hacen y, por lo tanto, pueden ser consideradas culpables.
-
-6\. Mito: Son líderes positivos y carismáticos
-----------------------------------------------
-
-**Verdad:** Sí, pero, aunque pueden parecer carismáticos, su liderazgo es destructivo y busca controlar a otros. Sicard León señala que “la psicopatía es un rasgo común en líderes corruptos, que buscan dominar a través del miedo”.
-
-7\. Mito: Sienten empatía en alguna medida
-------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/psicopatas-El-comercio-5-1024x683.jpg)
-
-Patrick Bateman, asesino de la película ‘American psyco’. Foto: Pinterest
-
-**Verdad:** Carecen de empatía genuina y solo imitan emociones para manipular. Según Vinagre González, su frialdad emocional y ausencia de culpa son características definitorias.
-
-8\. Mito: Solo se identifica en hombres
----------------------------------------
-
-![Alex Forrest, asesina en la cinta 'Atracción fatal'. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/Glenn-Close-Fatal-Attraction-1024x768.jpg)
-
-Alex Forrest, asesina en la cinta ‘Atracción fatal’. Foto: Pinterest
-
-**Verdad**: No, la psicopatía no es exclusiva de los hombres; aunque su prevalencia es mayor en ellos, las mujeres también pueden presentar rasgos psicopáticos.
-
-Estudios como los de Dolan y Fullam (2006) y Williams y Paulhus (2004) sugieren que las mujeres tienden a manifestar manipulación social en lugar de agresión directa, lo que puede dificultar su identificación.
-
-Además, investigaciones como las de Lilienfeld y Andrews (1996) destacan un sesgo de género en las herramientas de evaluación que puede subestimar la psicopatía en mujeres.
-
-¿Es posible identificar a una persona psicópata en nuestro entorno?
--------------------------------------------------------------------
-
-Aunque es posible identificar a personas psicópatas, pueden engañar y confundir debido a su encanto superficial y **habilidades manipuladoras**. Se requiere una observación detallada y sin prejuicios ideológicos para identificar a un psicópata.
-
-Dice Vinagre González que “las personas co**n rasgos psicopáticos** pueden engañar o confundir en un primer momento. A menudo, presentan un encanto superficial y una imagen atractiva para los demás, impulsados por su naturaleza manipuladora.
-
-Sin embargo, esta fachada positiva es efímera; a medida que se profundiza en el conocimiento de la persona, la verdadera naturaleza tiende a revelarse con el tiempo. Por su parte, Sicard León enfatiza que es posible identificar a estos individuos mediante una observación atenta y sin prejuicios ideológicos.
-
-Choque en Tambillo deja dos fallecidos y siete heridos al final del feriado
+Futuro del concurso de jueces y conjueces de la CNJ se conocerá esta semana
 ===========================================================================
 
-Un choque en Tambillo entre un autobús y tres autos causó dos muertes y siete heridos. El siniestro ocurrió en la Panamericana sur
-----------------------------------------------------------------------------------------------------------------------------------
+Esta semana concluye el plazo de 20 días otorgado por el pleno del Consejo de la Judicatura (CJ) a la Dirección Nacional de Talento Humano.
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-![Los bomberos atendieron a los heridos en el choque que ocurrió en Tambillo, en la salida sur de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/choque-tambillo.jpg)
+![Prueba teórica del concurso público para la selección y designación de jueces y conjueces de la CNJ el pasado 27 de julio.](https://www.elcomercio.com/wp-content/uploads/2024/10/concurso-jueces.jpg)
 
-Un **choque** en la Panamericana sur, a la altura de **Tambillo**, cantón Mejía, al sur de Quito, dejó como saldo dos fallecidos y siete heridos, al final del **feriado** nacional por la **independencia de Guayaquil**[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito")
+Esta semana concluye el **plazo de 20 días otorgado por el pleno del Consejo de la Judicatura (CJ)** a la **Dirección Nacional de Talento Humano**. Esto referente a la suspensión del **concurso de jueces y conjueces** de la **Corte Nacional de Justicia (CNJ)**.
 
 ### Más noticias
 
-* [¿Cuál es el siguiente feriado de Ecuador?](https://www.elcomercio.com/actualidad/ecuador/siguiente-feriado-ecuador-difuntos-difuntos.html "¿Cuál es el siguiente feriado de Ecuador?")
-* [Feriados que restan en Ecuador para este 2024](https://www.elcomercio.com/actualidad/ecuador/feriados-que-restan-en-ecuador-para-este-2024.html "Feriados que restan en Ecuador para este 2024")
+* [Pablo Muentes tuvo una respuesta de la CNJ sobre su habeas corpus](https://www.elcomercio.com/actualidad/seguridad/pablo-muentes-respuesta-cnj-habeas-corpus.html "Pablo Muentes tuvo una respuesta de la CNJ sobre su habeas corpus")
+* [Caso Purga: CNJ deja en suspenso decisión sobre habeas corpus de Pablo Muentes](https://www.elcomercio.com/actualidad/seguridad/caso-purga-cnj-deja-en-suspenso-decision-sobre-habeas-corpus-de-pablo-muentes.html "Caso Purga: CNJ deja en suspenso decisión sobre habeas corpus de Pablo Muentes")
+* [Concurso de Fiscal General tiene nuevos ajustes en su reglamento](https://www.elcomercio.com/actualidad/politica/concurso-fiscal-general-tiene-nuevos-ajustes-reglamento.html "Concurso de Fiscal General tiene nuevos ajustes en su reglamento")
 
-El choque en Tambillo sucedió al final del feriado
+Con el apoyo técnico de organismos internacionales, la institución deberá reforzar y finalizar la metodología para avanzar con las siguientes fases del concurso público. En este proceso se seleccionará a **10 jueces y 15 conjueces de la CNJ**.
+
+> 🔵 [#CJEnTerritorio](https://twitter.com/hashtag/CJEnTerritorio?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> El vocal del [@CJudicaturaEc](https://twitter.com/CJudicaturaEc?ref_src=twsrc%5Etfw), [@MerckBenavides](https://twitter.com/MerckBenavides?ref_src=twsrc%5Etfw), junto a la Directora de [@TungurahuaCJ](https://twitter.com/TungurahuaCJ?ref_src=twsrc%5Etfw), María Verónica Albán, se reunieron con Jueces de primer nivel de la provincia 👨‍⚖️👩‍⚖️, a quienes les manifestó la necesidad de recuperar la confianza de la ciudadanía en el… [pic.twitter.com/YrIx7r9auz](https://t.co/YrIx7r9auz)
+> 
+> — Consejo de la Judicatura (@CJudicaturaEc) [October 8, 2024](https://twitter.com/CJudicaturaEc/status/1843737263131504890?ref_src=twsrc%5Etfw)
+
+La nulidad afecta únicamente a la **fase de los exámenes de confianza**, por lo que **106 de los 107 postulantes** que aprobaron las **pruebas psicológicas** deberán repetir esta etapa.
+
+Pleno del Consejo de la Judicatura otorgó un plazo máximo
+---------------------------------------------------------
+
+El Consejo de la Judicatura declaró el pasado 26 de agosto la nulidad parcial del concurso para la selección de jueces y conjueces de la CNJ, específicamente, desde la fase del **examen de confianza**. Se otorgó un plazo de **15 días para realizar los cambios administrativos y normativos** necesarios y ajustar el cronograma del concurso.
+
+En busca de mayor transparencia, el Consejo anunció que contará con el respaldo de organismos internacionales, quienes proporcionarán asistencia técnica para optimizar la **metodología del examen de confianza**.
+
+En una sesión extraordinaria el 16 de septiembre, las autoridades del Consejo de la Judicatura, incluyendo a su presidente Mario Godoy, establecieron un nuevo **plazo de 20 días para que la Dirección Nacional de Talento Humano**, con apoyo internacional, refuerce la metodología del concurso y permita la reanudación del proceso.
+
+> 📰 [#BOLETÍN](https://twitter.com/hashtag/BOLET%C3%8DN?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> En sesión extraordinaria No. 109-2024, el Pleno del [@CJudicaturaEc](https://twitter.com/CJudicaturaEc?ref_src=twsrc%5Etfw) otorgó un término de 20 días, contados a partir de la presente fecha, para que la Dirección Nacional de Talento Humano de la institución, con la asistencia técnica de organismos internacionales,… [pic.twitter.com/mgMgNym9Sw](https://t.co/mgMgNym9Sw)
+> 
+> — Consejo de la Judicatura (@CJudicaturaEc) [September 16, 2024](https://twitter.com/CJudicaturaEc/status/1835828242390888880?ref_src=twsrc%5Etfw)
+
+Este lunes **14 de octubre de 2024** se cumplirían los **20 días** que le otorgó el CJ a la **Dirección Nacional de Talento Humano**.
+
+Renuncia de juez en medio del proceso de selección
 --------------------------------------------------
 
-El siniestro, ocurrido el domingo 13 de octubre de 2024, involucró a un autobús y tres automóviles, generando una fuerte congestión vehicular en el sector.
+En medio de la extensión del plazo, el juez nacional **Luis Adrián Rojas** presentó su renuncia a continuar en el proceso de selección.
 
-El Servicio Integrado de Seguridad ECU911 reportó el siniestro en la Panamericana sur, en el sector **Tambillo**, en sentido sur-norte, alrededor de las 14:00 del domingo 13 de octubre.
+En una carta enviada al **Consejo de la Judicatura**, Rojas recordó que participó en el concurso para juez de la CNJ en 2020, donde fue elegido conjuez por un **periodo de nueve años**. Actualmente, se desempeñaba como juez nacional encargado y **buscaba ser principalizado** a través del concurso de 2023, que fue anulado en su totalidad.
 
-Este incidente, registrado en el último día del **feriado** por la independencia de Guayaquil, del 11 al 13 de octubre, dejó, al menos, siete personas heridas y dos fallecidos. Los testigos del hecho alertaron con las llamadas de emergencia, lo que permitió una rápida movilización de los equipos de socorro.
+Rojas expresó su malestar por la vinculación de su nombre a presuntos actos irregulares durante el concurso. Aseguró haber actuado en apego a las **normas establecidas** y solicitó que se realizaran las recalificaciones correspondientes conforme al **reglamento vigente**.
 
-> 🔄 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Siniestro de tránsito en la Av. Panamericana Sur, sector Tambillo.  
->   
-> 🤕🖤🖤 Siete personas resultaron heridas y, lamentablemente, dos fallecieron.  
->   
-> 🚑 Nuestros paramédicos brindan atención prehospitalaria a los afectados. [#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/RKz7DcEudb](https://t.co/RKz7DcEudb) [pic.twitter.com/tAaelMkq70](https://t.co/tAaelMkq70)
+Fiscalía investiga posibles irregularidades en concurso público
+---------------------------------------------------------------
+
+La Fiscalía General del Estado mantiene una investigación en curso sobre presuntas irregularidades en el concurso de selección de jueces y conjueces de la CNJ.
+
+El 3 de octubre, **se realizaron allanamientos en Quito** como parte de las indagaciones relacionadas con tráfico de influencias. La investigación busca esclarecer posibles manipulaciones en la f**ase de exámenes de confianza**, en la que una empresa contratada**, Métricas Web S.A.**, fue señalada por falta de experiencia en la materia.
+
+Los **resultados de la auditoría** solicitada a la **Contraloría General del Estado** sobre el proceso contractual con **Métricas Web S.A.** aún están pendientes. Se espera que dicha auditoría arroje luz sobre las posibles fallas y **determine la validez del concurso público**, en el que se seleccionarán a los jueces y conjueces de la Corte Nacional de Justicia.
+
+Kate del Castillo ‘ofrece’ un automóvil de lujo por 50 dólares
+==============================================================
+
+La actriz contó que el vehículo tiene apenas 5 633 kilómetros de recorrido.
+---------------------------------------------------------------------------
+
+![La mexicana Kate del Castillo busca recaudar fondos. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-14T120317.855.jpg)
+
+La actriz mexicana **Kate del Castillo** anunció la rifa de su **lujoso automóvil**, valorado en más de 100 000 dólares. Con ese sorteo busca recaudar fondos para una organización benéfica.
+
+### **Más noticias:**
+
+* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
+* [Karol G alista un sencillo con toque iraní](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html")
+* [Mamá de ‘Diddy’ dice que su hijo no es un ‘monstruo’](https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Content+Link")
+
+**Kate del Castillo rifa un automóvil de lujo por una causa benéfica**
+----------------------------------------------------------------------
+
+**Kate del Castillo** anunció la rifa de un Lexus 500 LC convertible. Este sorteo se cerrará el próximo 12 de diciembre de 2024.
+
+> [View this post on Instagram](https://www.instagram.com/reel/DBEjUBiuv54/?utm_source=ig_embed&utm_campaign=loading)
 > 
-> — Bomberos Quito (@BomberosQuito) [October 13, 2024](https://twitter.com/BomberosQuito/status/1845565727845331388?ref_src=twsrc%5Etfw)
+> [A post shared by Kate del Castillo (@katedelcastillo)](https://www.instagram.com/reel/DBEjUBiuv54/?utm_source=ig_embed&utm_campaign=loading)
 
-Intervención de los grupos de rescate
--------------------------------------
+El Lexus, que ha permanecido sin uso en su garaje, cuenta con solo 3 500 millas recorridas. En un video compartido en sus redes sociales, del Castillo comentó: “¡Quiero que TÚ tengas este auto súper sexy! ¡Ya no lo quiero!”.
 
-En la sala operativa del ECU911 se coordinó la intervención de varios organismos, incluidos la Policía Nacional, el Cuerpo de Bomberos de Mejía, el Ministerio de Salud Pública (MSP) y Panavial. Estos equipos acudieron de inmediato para atender a los afectados.
+**Kate del Castillo ofrece un lujoso automóvil por 50 dólares**
+---------------------------------------------------------------
 
-En el lugar, los bomberos de Quito confirmaron que dos personas fallecieron en el siniestro, mientras que otras siete resultaron heridas y recibieron atención prehospitalaria.
+La actriz destacó que el **automóvil** es muy divertido de conducir y lo ofreció a un costo 50 dólares por boleto. Los interesados en participar pueden adquirir los **boletos** a través de la plataforma Raffle Creator. El sorteo está dirigido a personas mayores de 18 años.
 
-Cierre de la Panamericana Sur
------------------------------
+> [View this post on Instagram](https://www.instagram.com/reel/DBEhKfqOpH-/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Kate del Castillo (@katedelcastillo)](https://www.instagram.com/reel/DBEhKfqOpH-/?utm_source=ig_embed&utm_campaign=loading)
 
-El choque provocó el cierre total de la circulación vehicular en la Panamericana sur, en sentido sur-norte, por más de dos horas, lo que generó una extensa congestión vehicular. Las cámaras de videovigilancia captaron el embotellamiento en la zona, lo que causó mayores retrasos en los traslados hacia Quito.
+El sorteo generó un gran interés entre los seguidores de la actriz, quienes ven en esta oportunidad una forma de ganar un auto de lujo por una fracción de su valor original.
 
-Los agentes de tránsito trabajaban para reabrir la vía y controlar el flujo vehicular mientras se llevaban a cabo las labores de auxilio.
+Además del atractivo del premio, Kate del Castillo enfatizó que parte de los fondos recaudados se destinarán a una causa benéfica.
 
-Los ciudadanos que se desplazaban de regreso a la ciudad luego del feriado tuvieron que afrontar largas demoras debido a la congestión vehicular.
+**La reacción de los internautas tras el anuncio del sorteo**
+-------------------------------------------------------------
 
-Cerca de las 17:00, desde el ECU **911** se informó que la circulación en la Panamericana Sur estaba totalmente habilitada en el lugar de la emergencia.
+Diversas reacciones tuvieron los internautas tras enterarse del sorteo del automóvil de lujo. “Pronto lo veré en mi garaje”. “¿Cómo lo traería a Chile?”. “Me encanta”.
 
-Miembros de la **Policía Nacional** permanecieron en el sitio brindando seguridad vial, debido a la gran congestión vehicular en la zona.
+Hezbolá afirma que sus capacidades militares están intactas
+===========================================================
 
-¿Cuál es el siguiente feriado de Ecuador?
-=========================================
+Israel asegura que la campaña de bombardeos masiva en el Líbano logró destruir buena parte de las capacidades del grupo.
+------------------------------------------------------------------------------------------------------------------------
 
-El feriado de 9 de Octubre es el último que Ecuador tuvo. La fecha cívica cayó miércoles.
------------------------------------------------------------------------------------------
+![Edificios destruidos en la villa Maroun El Ras, en la frontera entre Israel y Líbano.](https://www.elcomercio.com/wp-content/uploads/2024/10/edificio-israel-hezbola.jpg)
 
-![Ecuador todavía tiene feriados durante el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/Difuntos-feriado-Ecuador-.jpg)
-
-**Ecuador** acaba de celebrar el feriado del 9 de octubre por la **Independencia de Guayaquil.** Aunque la fecha cívica cayó un miércoles, el descanso se trasladó al viernes 11 de octubre, extendiéndose hasta el fin de semana[.](https://es.wikipedia.org/wiki/D%C3%ADa_de_Muertos "https://es.wikipedia.org/wiki/D%C3%ADa_de_Muertos")
-
-Más noticias
-------------
-
-* [Sector turístico espera reactivación durante el feriado](https://www.elcomercio.com/actualidad/ecuador/viajeros-turismo-guayaquil-feriado-ecuador.html "Sector turístico espera reactivación durante el feriado")
-* [51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/seguridad/policia-seguridad-operativo-feriado-9-octubre.html "51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre")
-* [Así trabajarán los bancos durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/negocios/bancos-feriado-9-octubre-atencion-guayaquil.html "Así trabajarán los bancos durante el feriado del 9 de octubre")
-
-Aún quedan varios **feriados no recuperables** en lo que resta del 2024. ¿Cuál es el más cercano?
-
-¿Cuál es el feriado más cercano en Ecuador?
--------------------------------------------
-
-El siguiente feriado en **Ecuador** será el del **Día de los Difuntos**, que originalmente cae el sábado 2 de noviembre, pero se adelanta al viernes 1 de noviembre para crear un fin de semana largo.
-
-¿Por qué se celebra el Día de los Difuntos en Ecuador?
-------------------------------------------------------
-
-Según el **Ministerio de Turismo**, la conmemoración del **Día de los Difuntos** refleja la diversidad cultural del país. Cada 2 de noviembre, las cuatro regiones de **Ecuador** honran a sus difuntos con una combinación de **tradiciones ancestrales** y ritos que forman parte de la cultura del país, para mantener viva la memoria de sus seres queridos.
-
-Por ejemplo, en **Pichincha**, los camposantos reciben a los fieles que depositan ofrendas florales y rezan en las tumbas de sus difuntos. En los hogares se prepara la tradicional colada morada, acompañada de guaguas de pan, lo cual permite a las familias reunirse y recordar a sus seres queridos con respeto y cariño.
-
-Mientras tanto, en **Cuenca**, las comunidades indígenas de **Azuay** y **Cañar** visitan el cementerio y comparten alimentos en las tumbas de los difuntos. Este rito se basa en la creencia de que la muerte es solo un paso a otra vida similar, y que el difunto regresa cada año.
-
-Por otro lado, en **Cañar**, en cambio, los familiares llevan al cementerio objetos valiosos del difunto e invitan a participar del juego Piruruy (juego de dados). Según la suerte que se obtenga, se pueden conocer sus necesidades o sus reproches. Gracias a este dado tallado en un hueso de llama, también se pueden resolver desacuerdos.
-
-Según la **cosmovisión** **andina**, este día es un espacio para expresar la reciprocidad que existe entre quienes viven en el Kay Pacha (mundo terrenal) y los que coexisten en el Uku Pacha (mundo de los muertos).
-
-Además, los habitantes de sectores rurales visitan los cementerios durante la noche y permanecen en vigilia, acompañados de cánticos y oraciones.
-
-Niña asesinó a sus hermanas menores y se lo confesó a su madre por mensaje de texto
-===================================================================================
-
-En Rusia, una niña habría confesado que asesinó a sus dos medias hermanas menores en la ciudad de Toliatti.
------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial. Una niña confesó haber quitado la vida a sus hermanas menores.](https://www.elcomercio.com/wp-content/uploads/2024/10/nina-asesino-hermanas.jpg)
-
-En un impactante caso que ha conmocionado a Rusia, una **niña** habría confesado que **asesinó** a sus dos medias **hermanas** menores en la ciudad de Toliatti[.](https://es.wikipedia.org/wiki/Toliatti "https://es.wikipedia.org/wiki/Toliatti")
+El **grupo chií libanés Hezbolá** afirmó este lunes, 14 de octubre de 2024, que sus **capacidades militares** están intactas en un vídeo que muestra un **amplio arsenal de cohetes** y de **drones suicidas** en manos de la formación armada, que **niega que los bombardeos de Israel** destruyeran gran parte de su armamento.
 
 ### Más noticias
 
-* [En el Día de la Niña destaquemos la importancia de la educación](https://www.elcomercio.com/tendencias/cultura/dia-internacional-nina-onu-efemeride-educacion.html "En el Día de la Niña destaquemos la importancia de la educación")
-* [Unicef difunde alarmante informe sobre violencia sexual contra niñas y adolescentes en el mundo](https://www.elcomercio.com/actualidad/mundo/unicef-informe-violencia-sexual-ninas-adolescentes.html "Unicef difunde alarmante informe sobre violencia sexual contra niñas y adolescentes en el mundo")
+* [Israel anuncia nuevos ataques contra sedes de Hizbulá en Beirut y el sur del Líbano](https://www.elcomercio.com/actualidad/mundo/israel-anuncia-nuevos-ataques-sedes-hizbula-beirut-sur-libano.html "Israel anuncia nuevos ataques contra sedes de Hizbulá en Beirut y el sur del Líbano")
+* [Israel incrementa su presencia militar en Líbano](https://www.elcomercio.com/actualidad/mundo/israel-incrementa-presencia-militar-libano-hizbula-responde.html "Israel incrementa su presencia militar en Líbano")
+* [Hezbolá dice que disparó un misil balístico contra la sede del Mosad en Tel Aviv](https://www.elcomercio.com/actualidad/mundo/hezbola-dice-disparo-misil-balistico-contra-sede-mosad-tel-aviv.html "Hezbolá dice que disparó un misil balístico contra la sede del Mosad en Tel Aviv")
 
-Niña asesinó a sus hermanas
----------------------------
+Drones suicidas
+---------------
 
-La joven, identificada como la principal **sospechosa**, habría admitido el crimen en un **mensaje** de **texto** enviado a su madre, en el que escribió: **“Fui yo”.**
+En un vídeo, de **1,28 minutos de duración y titulado** ‘Nuestras capacidades están mil veces bien’, la agrupación mostró **decenas de cohetes** y d**e drones suicidas** manipulados por combatientes de Hezbolá. Aparecen vestidos con uniformes militares y con el rostro cubierto.
 
-Las víctimas, de apenas **dos y cinco años**, fueron encontradas sin vida en el porche de su hogar, presentando múltiples heridas de arma blanca. El macabro hallazgo fue hecho por otra hermana de la familia, de tan solo 10 años, quien al descubrir los **cuerpos**, alertó a los adultos. Para ese momento, la adolescente sospechosa no estaba presente en la casa.
+A lo largo de la grabación aparecen **imágenes del máximo comandante de Hezbolá**, Fuad Shukr, asesinado por Israel a finales de julio. También se muestra al **secretario general de la organización,** Hasán Nasrala, que también murió en un **bombardeo masivo israelí** efectuado a finales de septiembre contra los suburbios sur de Beirut.
 
-Los reportes de medios locales señalan que la niña había sido dejada **al cuidado de sus hermanas** mientras su madre y padrastro no estaban. Según las investigaciones iniciales, luego de llevar a cabo el asesinato, habría abandonado la escena para dar un **paseo en un parque cercano**. Fue allí donde las autoridades lograron encontrarla más tarde.
+Combatientes de Hezbolá
+-----------------------
 
-Confesión escalofriante por mensaje de texto
---------------------------------------------
+El vídeo concluye con **varios combatientes** de Hezbolá besando el Corán -el libro sagrado de los musulmanes- y colocando cohetes y drones en lanzaderas para ser disparados contra Israel.
 
-El horror no terminó con el descubrimiento de los cuerpos. Cuando la madre, e**l padrastro y la hermana** mayor de la familia llegaron a la casa, inmediatamente comenzaron a buscarla. 
+Campaña de bombardeos en Líbano
+-------------------------------
 
-En ese momento, la madre decidió contactarla por mensaje de texto, a lo que la joven respondió fríamente: **“Fui yo, jajaja”.** Posteriormente, fue detenida y trasladada a un **hospital psiquiátrico** para una evaluación. Hasta ahora, no se han identificado signos de trastorno mental en la menor.
+Israel asegura que la **campaña de bombardeos masiva en el Líban**o iniciada a finales de septiembre logró destruir buena parte de las **capacidades del grupo**. Esto mientras Hezbolá negó en varias ocasiones estas afirmaciones e incluso llegó a pedir **“paciencia” para revelar su verdadero arsenal.**
 
-Reacciones en la comunidad y análisis del caso
-----------------------------------------------
+“Quiero que sepan que lo que estamos haciendo es lo mínimo, como parte del plan de seguimiento de la batalla, y según nuestras consideraciones, los **planes diseñados** y los requisitos de campo”, dijo el pasado 30 de septiembre el número dos de Hezbolá, Naim Qassem. 
 
-La familia vivía en la misma casa con las **tres hermanas, su madre y su padrastro.** De acuerdo con los testimonios de vecinos, el entorno familiar no mostraba señales de problemas, e incluso describieron a la madre como una **persona “positiva”,** que trabajaba como profesora en una guardería y actualmente se encontraba de baja por maternidad.
+Fanático inmortalizó a Leonardo Campana en su cuerpo
+====================================================
 
-Este caso también ha generado fuertes reacciones de **figuras públicas**. La actriz y activista Yana Poplavskaya expresó su preocupación ante lo que considera una **creciente influencia negativa** en los jóvenes debido al uso descontrolado de la tecnología y las **redes sociales.** 
+Los hinchas de fútbol a veces hacen grandes locuras por sus ídolos, y Nicolás Beltrán no es la excepción.
+---------------------------------------------------------------------------------------------------------
 
-En un mensaje difundido en Telegram, escribió: “El infierno que pasó en la familia **Toliatti** es consecuencia de todo lo que sucede en **Internet**, en las redes sociales y en **nuestra sociedad.** El acceso desenfrenado a los teléfonos móviles, cuando los padres ni siquiera saben con qué o con quién están involucrados sus hijos. Prácticamente, no hay censura en la red”.
+![Leonardo Campana durante el partido de la Selección de Ecuador contra Paraguay en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-14T114919.367.jpg)
 
-Las autoridades continúan con la **investigación para esclarecer los motivos** detrás de este trágico suceso, mientras la adolescente permanece bajo observación psiquiátrica.
+El regreso de **Leonardo Campana** a la Selección de Ecuador, después de casi un año de ausencia, fue especial no solo para el delantero, sino también para uno de sus seguidores más fervientes.
 
-¿Por qué condenaron a ciudadano que tenía un mono aullador como mascota?
-========================================================================
+Durante uno de los entrenamientos en la **Casa de la Selección**, previo al partido contra Paraguay, Campana vivió un momento inesperado cuando se encontró con un fanático que decidió inmortalizarlo en su piel.
 
-Un ciudadano fue condenado a tres años de prisión por el delito de tenencia y transporte ilegal de un mono aullador, animal que no es mascota
----------------------------------------------------------------------------------------------------------------------------------------------
+### Más noticias:
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Mono-aullador-mascota.jpg)
+* [¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/como-fue-el-regreso-de-leonardo-campana-a-la-seleccion-de-ecuador.html "¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?")
+* [Leonardo Campana alborotó a los aficionados de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-alboroto-a-los-aficionados-de-la-seleccion-de-ecuador.html "Leonardo Campana alborotó a los aficionados de la Selección de Ecuador")
+* [La Selección de Ecuador intenta primer triunfo en Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-eliminatorias-mundial2026.html "La Selección de Ecuador intenta primer triunfo en Uruguay")
 
-El ciudadano ecuatoriano José E. B. M. fue condenado a **tres años de prisión** por el delito de tenencia y transporte ilegal de un mono aullador (Alouatta palliata), especie que está en la categoría de ‘Peligro Crítico’, informó el **Ministerio de Ambiente, Agua** y Transición Ecológica (MAATE)[.](https://es.wikipedia.org/wiki/Alouatta)
+Nicolás Beltrán, un joven de 20 años, decidió **tatuarse en su brazo izquierdo** la firma de Campana, a quien admira profundamente. Durante el encuentro, el aficionado le mostró el tatuaje al delantero del Inter Miami, quien se quedó atónito ante semejante gesto.
 
-### Más noticias
+Un aficionado se tatuó la firma de Leonardo Campana
+---------------------------------------------------
 
-* [Sentenciado por tenencia de mono catalogado en peligro crítico](https://www.elcomercio.com/actualidad/ecuador/sentenciado-tenencia-mono-catalogado-peligro-critico.html "Sentenciado por tenencia de mono catalogado en peligro crítico")
-* [El mono aullador, especie única de Centro y Sudamérica](https://www.elcomercio.com/sociedad/monoaullador-selva-animales-fauna-america.html "https://www.elcomercio.com/sociedad/monoaullador-selva-animales-fauna-america.html")
+Nicolás Beltrán explicó que considera a Campana como uno de sus más grandes ídolos futbolísticos, y eso lo motivó a tatuarse su firma.
 
-El mono aullador no es mascota
-------------------------------
+“**Ni Lionel Messi ni Cristiano Ronaldo.** Soy fan de Leonardo Campana”, comentó el joven emocionado en una entrevista con _Teleamazonas_.
 
-El mono aullador, conocido científicamente como **Alouatta palliata**, es una especie clave en los ecosistemas tropicales de Ecuador. Estos primates habitan en las selvas húmedas y bosques nublados, donde su presencia es fundamental para **mantener el equilibrio ecológico**. En esencia, no son mascotas.
+El tatuaje, sin embargo, no fue fácil de conseguir. **Nicolás contó a Campana** toda la travesía detrás de obtener su firma. Gracias a un amigo pasabolas, logró que el delantero firmara una camiseta en su último partido con la Tri ante Chile, y de esa rúbrica nació su tatuaje.
 
-Son frugívoros y dispersores de semillas, lo que les permite contribuir a la regeneración de los bosques, favoreciendo la diversidad de plantas y árboles. Además, su **capacidad de dispersar semillas en largas** distancias asegura la propagación de especies vegetales, lo que promueve la conectividad del hábitat.
+“He **seguido a Campana desde el Sudamericano Sub-20** de 2019, donde fue goleador. Incluso me hice su peinado con las dos rayitas”, añadió Beltrán.
 
-El valor del mono aullador no solo radica en su función como dispersor de semillas, sino también en su papel dentro de la **cadena alimenticia**. Como consumidores primarios, su **dieta** de hojas y frutas equilibra las poblaciones de plantas y mantiene un control sobre la **vegetación**.
+> 🤩 ¡ADMIRACIÓN POR LEO!  
+>   
+> ⚽️ Nicolás Beltrán es un gran fanático de 🇪🇨 Leonardo Campana y el hincha tiene tatuado en su brazo izquierdo la firma del goleador ecuatoriano.  
+>   
+> 📸 [@teleamazonasec](https://twitter.com/teleamazonasec?ref_src=twsrc%5Etfw) [pic.twitter.com/WIoIv9lIHK](https://t.co/WIoIv9lIHK)
+> 
+> — ESPN Ecuador (@ESPNEcuador) [October 13, 2024](https://twitter.com/ESPNEcuador/status/1845583356878033202?ref_src=twsrc%5Etfw)
 
-A su vez, el mono aullador es presa para **depredadores como jaguares y águilas**, lo que lo convierte en un eslabón crucial en la estructura trófica de los **bosques ecuatorianos**.
+El regreso de Campana a la selección
+------------------------------------
 
-La **conservación** de esta especie es vital, ya que los monos aulladores son sensibles a la fragmentación de su hábitat causada por la deforestación. Sin estos primates, se vería comprometida la capacidad de **regeneración natural de los ecosistemas**, afectando la biodiversidad y la sostenibilidad de los bosques en Ecuador.
+**Leonardo** **Campana** volvió a sumar minutos con la Selección de Ecuador en el empate 0-0 contra Paraguay, un partido en el que su regreso generó gran expectativa.
 
-Las consecuencias de tener un mono aullador como mascota
---------------------------------------------------------
+Su entrada al campo, alrededor del minuto 65, respondió a la necesidad del técnico **Sebastián** **Beccacece** de aumentar la presencia ofensiva del equipo. Paraguay optó por una defensa muy cerrada, complicando las acciones ofensivas.
 
-El ciudadano deberá, además, pagar una multa de 4 600 dólares, equivalente a **diez salarios básicos** unificados, luego de ser sorprendido en delito flagrante, según la sentencia emitida por un juez de garantías penales.
+El **delantero del Inter Miami no logró asentarse** del todo debido a la férrea defensa paraguaya, lo que lo llevó a moverse por varios sectores del campo, especialmente por la banda derecha. Aunque intentó situarse como un nueve de referencia, recibió pocos balones y tuvo dificultades para conectarse con sus compañeros.
 
-El pasado 9 de julio, durante un operativo de control de vida silvestre, **el ciudadano fue detenido** por la Unidad de Protección Ambiental (UPMA) de la Policía Nacional del Ecuador, en posesión de un mono aullador.
-
-Audiencia de juzgamiento
-------------------------
-
-En la audiencia de juzgamiento y con base en la información proporcionada por el MAATE se determinó la responsabilidad del **acusado en el delito contra la flora y fauna**, conforme al artículo 247, del Código Orgánico Integral Penal (COIP).
-
-Esta sanción representa un avance en la aplicación de la ley en defensa de la vida silvestre y es el resultado del esfuerzo conjunto entre el Ministerio, la Unidad Nacional de Investigación de Delitos Contra el Ambiente y la Naturaleza (UNIDCAM) de la Policía Nacional del Ecuador y el Municipio de la ciudad costera de Guayaquil, apuntó el MAATE.
-
-Protección al mono aullador
----------------------------
-
-El espécimen encontrado fue trasladado a un centro de manejo y conservación ex situ para recibir la atención veterinaria necesaria.
-
-Según la l**ista roja de mamíferos de Ecuador** y en el Apéndice II de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres (CITES), el mono aullador se encuentra en **‘Peligro Crítico’**.
+En total, Campana **tocó el balón nueve vece**s, completó cinco de ocho pases y perdió la posesión en tres ocasiones, por lo que su impacto en el juego fue limitado.
