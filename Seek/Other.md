@@ -56,31 +56,91 @@ Perform a job search
 
 Suggestions will appear below the field as you type
 
+Hide classifications
+
+Show classification list.
+
+Any Classification
+
+Done
+
+[](https://www.seek.com.au/ "Clear classifications")
+
+Classifications
+===============
+
+* [Accounting](https://www.seek.com.au/?classification=1200)
+* [Administration & Office Support](https://www.seek.com.au/?classification=6251)
+* [Advertising, Arts & Media](https://www.seek.com.au/?classification=6304)
+* [Banking & Financial Services](https://www.seek.com.au/?classification=1203)
+* [Call Centre & Customer Service](https://www.seek.com.au/?classification=1204)
+* [CEO & General Management](https://www.seek.com.au/?classification=7019)
+* [Community Services & Development](https://www.seek.com.au/?classification=6163)
+* [Construction](https://www.seek.com.au/?classification=1206)
+* [Consulting & Strategy](https://www.seek.com.au/?classification=6076)
+* [Design & Architecture](https://www.seek.com.au/?classification=6263)
+* [Education & Training](https://www.seek.com.au/?classification=6123)
+* [Engineering](https://www.seek.com.au/?classification=1209)
+* [Farming, Animals & Conservation](https://www.seek.com.au/?classification=6205)
+* [Government & Defence](https://www.seek.com.au/?classification=1210)
+* [Healthcare & Medical](https://www.seek.com.au/?classification=1211)
+* [Hospitality & Tourism](https://www.seek.com.au/?classification=1212)
+* [Human Resources & Recruitment](https://www.seek.com.au/?classification=6317)
+* [Information & Communication Technology](https://www.seek.com.au/?classification=6281)
+* [Insurance & Superannuation](https://www.seek.com.au/?classification=1214)
+* [Legal](https://www.seek.com.au/?classification=1216)
+* [Manufacturing, Transport & Logistics](https://www.seek.com.au/?classification=6092)
+* [Marketing & Communications](https://www.seek.com.au/?classification=6008)
+* [Mining, Resources & Energy](https://www.seek.com.au/?classification=6058)
+* [Real Estate & Property](https://www.seek.com.au/?classification=1220)
+* [Retail & Consumer Products](https://www.seek.com.au/?classification=6043)
+* [Sales](https://www.seek.com.au/?classification=6362)
+* [Science & Technology](https://www.seek.com.au/?classification=1223)
+* [Self Employment](https://www.seek.com.au/?classification=6261)
+* [Sport & Recreation](https://www.seek.com.au/?classification=6246)
+* [Trades & Services](https://www.seek.com.au/?classification=1225)
+
 **Where**
 
 Suggestions will appear below the field as you type
 
 SEEK
 
-⁠Filters
+More options⁠
 
-Filters
--------
+Refine your search
+==================
 
-#### Work type
+Show work type refinements.
+
+All typesAll work types
+
+Show minimum salary refinements.
+
+paying $0
+
+Show maximum salary refinements.
+
+to $350K+
+
+Show date listed refinements.
+
+listed any time
+
+Hide refinements
+
+Hide refinements
 
 Refine by Work Type
 ===================
 
-[Full time](https://www.seek.com.au/jobs/full-time)
+* [Full time](https://www.seek.com.au/jobs/full-time)
+* [Part time](https://www.seek.com.au/jobs/part-time)
+* [Contract/Temp](https://www.seek.com.au/jobs/contract-temp)
+* [Casual/Vacation](https://www.seek.com.au/jobs/casual-vacation)
 
-[Part time](https://www.seek.com.au/jobs/part-time)
-
-[Contract/Temp](https://www.seek.com.au/jobs/contract-temp)
-
-[Casual/Vacation](https://www.seek.com.au/jobs/casual-vacation)
-
-#### Paying (AUD)
+Minimum salary
+==============
 
 Salary type
 ===========
@@ -89,150 +149,57 @@ Salary type
 * [Monthly](https://www.seek.com.au/jobs?salarytype=monthly)
 * [Hourly](https://www.seek.com.au/jobs?salarytype=hourly)
 
-**From**
+Salary (AUD)
 
-$0
+* [$0](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-)
+* [30K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=30000-)
+* [40K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=40000-)
+* [50K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=50000-)
+* [60K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=60000-)
+* [70K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=70000-)
+* [80K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=80000-)
+* [100K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=100000-)
+* [120K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=120000-)
+* [150K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=150000-)
+* [200K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=200000-)
+* [250K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=250000-)
+* [350K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=350000-)
 
-[$0](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-)
+Maximum salary
+==============
 
-[$30K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=30000-)
+Salary type
+===========
 
-[$40K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=40000-)
+* [Annually](https://www.seek.com.au/jobs#)
+* [Monthly](https://www.seek.com.au/jobs?salarytype=monthly)
+* [Hourly](https://www.seek.com.au/jobs?salarytype=hourly)
 
-[$50K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=50000-)
+Salary (AUD)
 
-[$60K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=60000-)
-
-[$70K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=70000-)
-
-[$80K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=80000-)
-
-[$100K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=100000-)
-
-[$120K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=120000-)
-
-[$150K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=150000-)
-
-[$200K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=200000-)
-
-[$250K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=250000-)
-
-[$350K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=350000-)
-
-**To**
-
-$350K+
-
-[$30K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-30000)
-
-[$40K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-40000)
-
-[$50K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-50000)
-
-[$60K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-60000)
-
-[$70K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-70000)
-
-[$80K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-80000)
-
-[$100K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-100000)
-
-[$120K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-120000)
-
-[$150K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-150000)
-
-[$200K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-200000)
-
-[$250K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-250000)
-
-[$350K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-350000)
-
-[$350K+](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-)
-
-#### Classification
-
-[Accounting](https://www.seek.com.au/?classification=1200)
-
-[Administration & Office Support](https://www.seek.com.au/?classification=6251)
-
-[Advertising, Arts & Media](https://www.seek.com.au/?classification=6304)
-
-[Banking & Financial Services](https://www.seek.com.au/?classification=1203)
-
-[Call Centre & Customer Service](https://www.seek.com.au/?classification=1204)
-
-[CEO & General Management](https://www.seek.com.au/?classification=7019)
-
-[Community Services & Development](https://www.seek.com.au/?classification=6163)
-
-[Construction](https://www.seek.com.au/?classification=1206)
-
-[Consulting & Strategy](https://www.seek.com.au/?classification=6076)
-
-[Design & Architecture](https://www.seek.com.au/?classification=6263)
-
-[Education & Training](https://www.seek.com.au/?classification=6123)
-
-[Engineering](https://www.seek.com.au/?classification=1209)
-
-[Farming, Animals & Conservation](https://www.seek.com.au/?classification=6205)
-
-[Government & Defence](https://www.seek.com.au/?classification=1210)
-
-[Healthcare & Medical](https://www.seek.com.au/?classification=1211)
-
-[Hospitality & Tourism](https://www.seek.com.au/?classification=1212)
-
-[Human Resources & Recruitment](https://www.seek.com.au/?classification=6317)
-
-[Information & Communication Technology](https://www.seek.com.au/?classification=6281)
-
-[Insurance & Superannuation](https://www.seek.com.au/?classification=1214)
-
-[Legal](https://www.seek.com.au/?classification=1216)
-
-[Manufacturing, Transport & Logistics](https://www.seek.com.au/?classification=6092)
-
-[Marketing & Communications](https://www.seek.com.au/?classification=6008)
-
-[Mining, Resources & Energy](https://www.seek.com.au/?classification=6058)
-
-[Real Estate & Property](https://www.seek.com.au/?classification=1220)
-
-[Retail & Consumer Products](https://www.seek.com.au/?classification=6043)
-
-[Sales](https://www.seek.com.au/?classification=6362)
-
-[Science & Technology](https://www.seek.com.au/?classification=1223)
-
-[Self Employment](https://www.seek.com.au/?classification=6261)
-
-[Sport & Recreation](https://www.seek.com.au/?classification=6246)
-
-[Trades & Services](https://www.seek.com.au/?classification=1225)
-
-[See all](https://www.seek.com.au/)
-
-#### Listing time
+* [30K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-30000)
+* [40K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-40000)
+* [50K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-50000)
+* [60K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-60000)
+* [70K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-70000)
+* [80K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-80000)
+* [100K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-100000)
+* [120K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-120000)
+* [150K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-150000)
+* [200K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-200000)
+* [250K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-250000)
+* [350K](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-350000)
+* [350K+](https://www.seek.com.au/jobs?salarytype=annual&salaryrange=0-)
 
 Date Listed
 ===========
 
-[Any time](https://www.seek.com.au/jobs)
-
-[Last 3 days](https://www.seek.com.au/jobs?daterange=3)
-
-[Last 14 days](https://www.seek.com.au/jobs?daterange=14)
-
-[Today](https://www.seek.com.au/jobs?daterange=1)
-
-[Last 7 days](https://www.seek.com.au/jobs?daterange=7)
-
-[Last 30 days](https://www.seek.com.au/jobs?daterange=31)
-
-Clear all
-
-[SEEK](https://www.seek.com.au/jobs)
+* [Any time](https://www.seek.com.au/#)
+* [Today](https://www.seek.com.au/jobs?daterange=1)
+* [Last 3 days](https://www.seek.com.au/jobs?daterange=3)
+* [Last 7 days](https://www.seek.com.au/jobs?daterange=7)
+* [Last 14 days](https://www.seek.com.au/jobs?daterange=14)
+* [Last 30 days](https://www.seek.com.au/jobs?daterange=31)
 
 Quick search
 ============
