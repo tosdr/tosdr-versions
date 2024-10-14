@@ -59,7 +59,7 @@ Linux Mint uses Google Analytics for pages which URL starts with linuxmint.com/s
 
 ###### Paypal
 
-When you make a donation we receive personal information from Paypal. Transaction dates, amounts and county of origin are kept and shared with accountants and the Irish tax authorities. Although your full name and your postal address are kept by Paypal and accessible by us via Paypal, we do not store, copy or share this information.
+When you make a donation we receive personal information from Paypal. Transaction dates, amounts and country of origin are kept and shared with accountants and the Irish tax authorities. Although your full name and your postal address are kept by Paypal and accessible by us via Paypal, we do not store, copy or share this information.
 
 We keep a record of your email address to be able to identify future donations from being associated with you and to provide you with information and access to the list of donations you sent us.
 
