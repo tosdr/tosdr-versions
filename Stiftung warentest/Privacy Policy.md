@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
-* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
-* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
+* [Daten­handel auf Finanzportalen: Dubiose Daten­dealer im Web](https://www.test.de/Datenhandel-auf-Finanzportalen-Dubiose-Datendealer-5965071-0/ "Datenhandel auf Finanzportalen - Dubiose Datendealer im Web")
+* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
+* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
-* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
-* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
+* [Daten­handel auf Finanzportalen: Dubiose Daten­dealer im Web](https://www.test.de/Datenhandel-auf-Finanzportalen-Dubiose-Datendealer-5965071-0/ "Datenhandel auf Finanzportalen - Dubiose Datendealer im Web")
+* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
+* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
-* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
-* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
+* [Daten­handel auf Finanzportalen: Dubiose Daten­dealer im Web](https://www.test.de/Datenhandel-auf-Finanzportalen-Dubiose-Datendealer-5965071-0/ "Datenhandel auf Finanzportalen - Dubiose Datendealer im Web")
+* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
+* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
-* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
-* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
+* [Daten­handel auf Finanzportalen: Dubiose Daten­dealer im Web](https://www.test.de/Datenhandel-auf-Finanzportalen-Dubiose-Datendealer-5965071-0/ "Datenhandel auf Finanzportalen - Dubiose Datendealer im Web")
+* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
+* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
 
 Service Stiftung Warentest
 
