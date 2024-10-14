@@ -89,11 +89,11 @@ Upon receipt of the notice containing the required information, freeup.net may:
 
 ### Recent Posts
 
+* [Meet Cherry Yang: Operations Management and More](https://freeup.net/blog/freelance-tips/freelancer-spotlights/meet-cherry-yang-operations-management-and-more/)
 * [Common Causes of a Bottleneck in Your Business (And How to Solve Them)](https://freeup.net/blog/business-tips/common-causes-of-a-bottleneck-in-your-business-and-how-to-solve-them/)
 * [Prepping for the 2024 Big Deal Days With Your Freelancer](https://freeup.net/blog/business-tips/prepping-for-the-2024-big-deal-days-with-your-freelancer/)
 * [How the Right Freelancer Can Help You Smash the Competition During Prime Big Deal Days](https://freeup.net/blog/business-tips/how-the-right-freelancer-can-help-you-smash-the-competition-during-prime-big-deal-days/)
 * [How to Hire a Freelance Web Designer](https://freeup.net/blog/business-tips/how-to-hire-a-freelance-web-designer/)
-* [How to Exceed Expectations for Your Clients as a Freelancer](https://freeup.net/blog/freelance-tips/how-to-exceed-expectations-for-your-clients-as-a-freelancer/)
 
 [![FreeUp Logo](https://freeup.net/wp-content/themes/rare/src/images/imgs/freeup__logo--white.svg)](https://freeup.net/)
 
