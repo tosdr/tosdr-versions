@@ -98,8 +98,8 @@ And of course, if you have installed our mobile app on your mobile device and yo
 
 1. 1 [Sousou no Frieren](https://myanimelist.net/anime/52991/Sousou_no_Frieren)
 2. 2 [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
-3. 3 [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)
-4. 4 [Bleach: Sennen Kessen-hen - Soukoku-tan](https://myanimelist.net/anime/56784/Bleach__Sennen_Kessen-hen_-_Soukoku-tan)
+3. 3 [Bleach: Sennen Kessen-hen - Soukoku-tan](https://myanimelist.net/anime/56784/Bleach__Sennen_Kessen-hen_-_Soukoku-tan)
+4. 4 [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)
 5. 5 [Shingeki no Kyojin Season 3 Part 2](https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2)
 
 ### [More](https://myanimelist.net/topanime.php?type=airing)Top Airing Anime
