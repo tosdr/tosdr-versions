@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Make You Miss MeSam Hunt<br><br>11:38am |
-| Ain'T No Love In OklahomaLuke Combs<br><br>11:34am |
-| Am I OkMegan Moroney<br><br>11:31am |
-| When The Sun Goes DownKenny Chesney And Uncle Kracker<br><br>11:27am |
-| Thank GodKane Brown Ft Katelyn Brown<br><br>11:24am |
+| Dust On The BottleDavid Lee Murphy<br><br>5:39pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>5:35pm |
+| Bigger HousesDan Shay<br><br>5:32pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:29pm |
+| 23Chayce Beckham<br><br>5:26pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-News Talk • Eastern
+Sports • Midwest
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Country • Western
+Top 40 • Pacific NW
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Country • Western
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
