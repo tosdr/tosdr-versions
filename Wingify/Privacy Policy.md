@@ -160,6 +160,14 @@
     
     Webinars
     
+    [![](https://via.placeholder.com/300x300?tr=w-60,h-50)
+    
+    Use CRO Like the Pros: Surprising Ways to Nail Your CX](https://vwo.com/webinars/use-cro-like-pros-surprising-ways-nail-your-cx/)
+    
+    [![Thejas Sridhar](https://static.wingify.com/gcp/uploads/2024/02/image.png?tr=w-60,h-50)
+    
+    Fireside Chat: VWO’s Enhanced Stats Engine and More!](https://vwo.com/webinars/whats-next-experiment-reporting-vwos-lead-data-scientist-reveals-all/)
+    
     [![Arjun Kunnath](https://static.wingify.com/gcp/uploads/2024/01/Screenshot-2024-01-29-at-7.39.27-PM.png?tr=w-60,h-50)
     
     Understanding What Your Visitors Truly Want With VWO Insights – Web](https://vwo.com/webinars/understanding-what-visitors-truly-want-vwo-insights-web/)
@@ -171,14 +179,6 @@
     [![Ishan Goel](https://static.wingify.com/gcp/uploads/2023/12/speaker-17.png?tr=w-60,h-50)
     
     Fireside Chat: Evolution of Statistics and Experimentation with VWO’s Lead Data Scientist](https://vwo.com/webinars/fireside-chat-evolution-statistics-experimentation-vwos-lead-data-scientist/)
-    
-    [![Steven Waller](https://static.wingify.com/gcp/uploads/2024/06/steve-waller-headshot-1-scaled.jpg?tr=w-60,h-50)
-    
-    Cut Through the Noise to Drive More Conversions](https://vwo.com/webinars/cut-through-the-noise-to-drive-more-conversions/)
-    
-    [![Eric Siu](https://static.wingify.com/gcp/uploads/2024/07/Eric-Headshot-1-scaled.jpeg?tr=w-60,h-50)
-    
-    AI-First Strategies to Drive Traffic and Conversions for 2024](https://vwo.com/webinars/mastering-traffic-conversion-ai-strategies-for-2024/)
     
     [View all webinars](https://vwo.com/webinars)
     
