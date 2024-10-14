@@ -54,6 +54,7 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
+* [Breitbart Fight Club](https://web.breitbart.com/fight-club)
 * [2024 Election](https://www.breitbart.com/tag/2024-presidential-election/)
 * [Hurricane Milton](https://www.breitbart.com/tag/hurricane/)
 * [Israel Vs. Hezbollah](https://www.breitbart.com/tag/israel/)
