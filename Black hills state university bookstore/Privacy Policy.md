@@ -32,7 +32,7 @@ Cancel
     * [Buy / Reserve / Rent](https://www.bhsubookstore.com/buy_textbooks.asp?)
     * [Sell Textbooks](https://onlinebuyback.mbsbooks.com/index.php?jde=7523)
 * [Categories](#)
-    * [Apparel](https://www.bhsubookstore.com/shop_main.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA)
+    * [Apparel](#)
         * [T-Shirts](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=248)
         * [Sweatshirts](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=254)
         * [Shorts & Pants](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=289)
@@ -42,7 +42,7 @@ Cancel
         * [Children](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=298)
         * [Accessories](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA&catalog_id=257)
         * [View All Apparel](https://www.bhsubookstore.com/shop_main.asp?catalog_group_id=MjU&catalog_group_name=QXBwYXJlbA)
-    * [Gifts](https://www.bhsubookstore.com/shop_main.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM)
+    * [Gifts](#)
         * [Decals & Magnets](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=300)
         * [Drinkware](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=245)
         * [Flags & Pennants](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=268)
@@ -157,7 +157,7 @@ Begin Footer
 | Saturday | 10:00AM - 1:00PM |
 | Sunday | CLOSED |
 
-Sunday CLOSED CLOSED
+Monday CLOSED CLOSED
 
 [View All Store Hours](https://www.bhsubookstore.com/site_contact_us.asp?)
 
