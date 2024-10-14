@@ -40,21 +40,21 @@ Privacy Policy
 * [![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/app/uploads/2020/11/do-ser-az-bolivi-az-taraneha-ye-kargaran-95x65.jpg)](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)[دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)
+* [![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](https://karkhane.org/app/uploads/2020/06/čand-nemudār-e-sāde-darbāre-ye-dastmozd-1-95x65.png)](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)[چند نمودار ساده درباره‌ی دستمزد](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)
+* [![نگاهی به وضعیت و مطالبات کارگران تعمیر و نگهداری خط و ابنیه فنی راه‌آهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![نگاهی به وضعیت و مطالبات کارگران تعمیر و نگهداری خط و ابنیه فنی راه‌آهن](https://karkhane.org/app/uploads/2021/04/negahi-be-vaziyat-e-kargaran-e-abniye-fanni-rahahan-95x65.jpg)](https://karkhane.org/2574/%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%88-%d9%85%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%b1%d8%a7%d9%87%d8%a2%d9%87%d9%86-%d8%aa%d8%b1%d8%a7%d9%88%d8%b1/)[نگاهی به وضعیت و مطالبات کارگران تعمیر و نگهداری خط و ابنیه فنی راه‌آهن](https://karkhane.org/2574/%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%88-%d9%85%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%b1%d8%a7%d9%87%d8%a2%d9%87%d9%86-%d8%aa%d8%b1%d8%a7%d9%88%d8%b1/)
+* [![داستان «لبخندی از لِذت مبارزه»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![داستان «لبخندی از لِذت مبارزه»](https://karkhane.org/app/uploads/2022/07/labxandi-az-lezzat-e-mobareze-95x65.jpg)](https://karkhane.org/4117/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%d9%84%d8%a8%d8%ae%d9%86%d8%af%db%8c-%d8%a7%d8%b2-%d9%84%d8%b0%d8%aa-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d9%87/)[داستان «لبخندی از لذتِ مبارزه»](https://karkhane.org/4117/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%d9%84%d8%a8%d8%ae%d9%86%d8%af%db%8c-%d8%a7%d8%b2-%d9%84%d8%b0%d8%aa-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d9%87/)
+* [![فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](https://karkhane.org/app/uploads/2024/04/ofogh-e-kurosh-chain-stores-95x65.jpg)](https://karkhane.org/5455/ofogh-e-kurosh-chain-stores/)[فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](https://karkhane.org/5455/ofogh-e-kurosh-chain-stores/)
 * [![بیانیه‌ی «کمیته گالیسیا در حمایت از دونباس»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![بیانیه‌ی «کمیته گالیسیا در حمایت از دونباس»](https://karkhane.org/app/uploads/2022/09/galego-donbass-cgad-95x65.jpg)](https://karkhane.org/4143/%d8%a8%db%8c%d8%a7%d9%86%db%8c%d9%87%db%8c-%da%a9%d9%85%db%8c%d8%aa%d9%87-%da%af%d8%a7%d9%84%db%8c%d8%b3%db%8c%d8%a7-%d8%af%d8%b1-%d8%ad%d9%85%d8%a7%db%8c%d8%aa-%d8%a7%d8%b2-%d8%af/)[بیانیه‌ی «کمیته گالیسیا در حمایت از دونباس»](https://karkhane.org/4143/%d8%a8%db%8c%d8%a7%d9%86%db%8c%d9%87%db%8c-%da%a9%d9%85%db%8c%d8%aa%d9%87-%da%af%d8%a7%d9%84%db%8c%d8%b3%db%8c%d8%a7-%d8%af%d8%b1-%d8%ad%d9%85%d8%a7%db%8c%d8%aa-%d8%a7%d8%b2-%d8%af/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://karkhane.org/app/uploads/2024/06/5b-95x65.png)](https://karkhane.org/5626/a_view_of_big_capital_and_proltariat_in_iran/)[نمایی از سرمایه‌ی بزرگ و طبقه‌ی کارگر در ایران](https://karkhane.org/5626/a_view_of_big_capital_and_proltariat_in_iran/)
-* [![تجمع معلمان نهضت سوادآموزی جلوی مجلس اردیبهشت 1399](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![تجمع معلمان نهضت سوادآموزی جلوی مجلس اردیبهشت 1399](https://karkhane.org/app/uploads/2020/07/tajamo-e-moalemān-majles-ordibehešt-1399-95x65.jpg)](https://karkhane.org/2001/%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%d9%85%d8%b9%d9%84%d9%85%d8%a7%d9%86-%d8%ba%db%8c%d8%b1%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d8%b3%d8%a7%d9%84-1399-%d8%af%d9%87%d9%87%d8%a7-%d9%87/)[اعتراضات معلمان غیررسمی در سال ۱۳۹۹: دهها هزار معلم در بلاتکلیفی](https://karkhane.org/2001/%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%d9%85%d8%b9%d9%84%d9%85%d8%a7%d9%86-%d8%ba%db%8c%d8%b1%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d8%b3%d8%a7%d9%84-1399-%d8%af%d9%87%d9%87%d8%a7-%d9%87/)
-* [![گزارشی از کارگران قالی‌باف شهرستان بوکان](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![گزارشی از کارگران قالی‌باف شهرستان بوکان](https://karkhane.org/app/uploads/2021/10/gozaresh-kargaran-e-qalibaf-bukan-95x65.jpg)](https://karkhane.org/3168/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%82%d8%a7%d9%84%db%8c%d8%a8%d8%a7%d9%81-%d8%b4%d9%87%d8%b1%d8%b3%d8%aa%d8%a7%d9%86-%d8%a8%d9%88%da%a9%d8%a7%d9%86/)[رَج و رنجِ قالی‌بافان؛ گزارشی از کارگران قالی‌باف شهرستان بوکان](https://karkhane.org/3168/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%82%d8%a7%d9%84%db%8c%d8%a8%d8%a7%d9%81-%d8%b4%d9%87%d8%b1%d8%b3%d8%aa%d8%a7%d9%86-%d8%a8%d9%88%da%a9%d8%a7%d9%86/)
-* [![کتاب اولین حکومت کارگری](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![کتاب اولین حکومت کارگری](https://karkhane.org/app/uploads/2022/12/book-paris-commune-avvalin-hokumat-e-kargari-95x65.jpg)](https://karkhane.org/4260/first-labor-governmet/)[اولین حکومت کارگری](https://karkhane.org/4260/first-labor-governmet/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
