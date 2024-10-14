@@ -50,6 +50,7 @@ Main navigation
     * [Annual Reports](https://noyb.eu/en/annual-reports "our Annual Reports")
     * [FAQs](https://noyb.eu/en/faqs)
     * [Jobs](https://noyb.eu/en/jobs)
+    * [Collective Redress](https://noyb.eu/en/information-accordance-article-43-directive-eu-20201828-collective-redress)
     * [Media](https://noyb.eu/en/media-center)
     * [Contact](https://noyb.eu/en/contact "How to get in contact with noyb")
 * [GDPRhub](https://noyb.eu/en/gdprhub)
@@ -193,7 +194,7 @@ noyb
 * [Legal, Open Source & Privacy](https://noyb.eu/en/legal)
 * [Translations](https://noyb.eu/en/prevodi)
 * [Media](https://noyb.eu/en/media-center)
-* [Contact](https://noyb.eu/contact)
+* [Contact](https://noyb.eu/en/contact)
 * [Collective Redress](https://noyb.eu/node/1409)
 
 Main navigation
@@ -218,6 +219,7 @@ Main navigation
     * [Annual Reports](https://noyb.eu/en/annual-reports "our Annual Reports")
     * [FAQs](https://noyb.eu/en/faqs)
     * [Jobs](https://noyb.eu/en/jobs)
+    * [Collective Redress](https://noyb.eu/en/information-accordance-article-43-directive-eu-20201828-collective-redress)
     * [Media](https://noyb.eu/en/media-center)
     * [Contact](https://noyb.eu/en/contact "How to get in contact with noyb")
 * [GDPRhub](https://noyb.eu/en/gdprhub)
