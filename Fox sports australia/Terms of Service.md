@@ -18,24 +18,22 @@ FOX SCORES
     
 * [Women's T20 WC
     
-    AUS won by 9 runs
-    
     |     |     |
     | --- | --- |
-    | IND | 9 /142 |
-    | AUS | 8 /151 |
+    | PAK |     |
+    | NZL | 0 /4 |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250118)
-* [Women's T20 WC
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250119)
+* [Men's Test
     
-    15/10 1:00 AEST
+    15/10 16:00 AEST
     
     |     |     |
     | --- | --- |
     | PAK | –   |
-    | NZL | –   |
+    | ENG | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250119)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
 * [Women's T20
     
     BRI won by 7 wkts
@@ -56,6 +54,26 @@ FOX SCORES
     | PER | 5 /136 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250111)
+* [Women's T20
+    
+    15/10 14:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYD6 | –   |
+    | MELS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250112)
+* [Women's T20
+    
+    15/10 15:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ADE | –   |
+    | MELR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250113)
 * Netball
     
 * [Women's Test
@@ -100,6 +118,16 @@ FOX SCORES
     | TON | –   |
     
     Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/PAC20240101)
+* [Men's PC
+    
+    19/10 19:10 AEST
+    
+    |     |     |
+    | --- | --- |
+    | FIJ | –   |
+    | PNG | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/PAC20240102)
 * AFL
     
 * [AFL Women's
@@ -114,16 +142,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240801)
 * Motorsport
     
-* [Supercars
-    
-    Complete
-    
-    |     |
-    | --- |
-    | Bathurst 1000 |
-    |     |
-    
-    Race Centre](https://www.foxsports.com.au/motorsport/supercars/race-centre?meetingid=744)
 * [MotoGP
     
     18/10 10:45 AEST
@@ -136,66 +154,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=712)
 * NFL
     
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | PHI | 20  |
-    | CLE | 16  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250608)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BAL | 30  |
-    | WAS | 23  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250609)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | GB  | 34  |
-    | ARI | 13  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250604)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | TEN | 17  |
-    | IND | 20  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250605)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NE  | 21  |
-    | HOU | 41  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250606)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NO  | 27  |
-    | TB  | 51  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250607)
 * [NFL
     
     Full Time
@@ -268,6 +226,16 @@ FOX SCORES
     | NYM | –   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240020028DBB2)
+* [MLB
+    
+    15/10 10:38 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NYY | –   |
+    | CLE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400200204574)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
