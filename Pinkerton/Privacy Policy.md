@@ -63,6 +63,7 @@
     * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
     * [Retail](https://pinkerton.com/industries/retail)
+    * [Manufacturing](https://pinkerton.com/industries/manufacturing)
     
 * About Us
     
@@ -450,6 +451,7 @@ Pinkerton utilizes BBB National Programs for dispute resolutions.
     * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
     * [Retail](https://pinkerton.com/industries/retail)
+    * [Manufacturing](https://pinkerton.com/industries/manufacturing)
     
 * About Us
     
