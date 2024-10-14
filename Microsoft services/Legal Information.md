@@ -43,7 +43,9 @@ Skype
     * [New to Skype? Sign up](https://go.skype.com/signup?client_id=578134&redirect_uri=https%3A%2F%2Fweb.skype.com&source=scomnav)
     * [Sign out](https://go.skype.com/logout)
 
-     
+  
+
+      
 
 Skype Legal
 ===========
@@ -170,7 +172,7 @@ Developer & IT
 Company
 
 * [Careers](https://careers.microsoft.com/)
-* [About Microsoft](https://www.microsoft.com/en-us/about)
+* [About Microsoft](https://www.microsoft.com/about)
 * [Company news](https://news.microsoft.com/)
 * [Privacy at Microsoft](https://privacy.microsoft.com/en-us)
 * [Investors](https://www.microsoft.com/investor/default.aspx)
