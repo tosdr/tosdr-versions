@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-de60fd5d071a6074b15db9a37ac4a77c
+371765bffce18fa1e45f48539ce84f69
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Transparent forest green indented square beads](https://www.sojourner.biz/images/cache/glass/VB0020.200.jpg)](https://www.sojourner.biz/beads/glass/transparent-forest-green-indented-square-beads.html "Transparent forest green indented square beads")
+[![Peridot stone chips](https://www.sojourner.biz/images/cache/peridot_strand.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/chips/peridot-stone-chips.html "Peridot stone chips")
 
-#### [Transparent forest green indented square beads](https://www.sojourner.biz/beads/glass/transparent-forest-green-indented-square-beads.html "Transparent forest green indented square beads")
+#### [Peridot stone chips](https://www.sojourner.biz/beads/stone-a-l/chips/peridot-stone-chips.html "Peridot stone chips")
 
-$6.00
+$10.00
 
 ### Best Sellers
 
@@ -197,8 +197,8 @@ $6.00
     $17.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Black and white playful cat sauce dish](https://www.sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
-    $7.00
+10. [Turquoise bar toggle clasp](https://www.sojourner.biz/clasps/toggles/turquoise-bar-toggle-clasp.html "Turquoise bar toggle clasp")  
+    $13.50
 
 [Top](#)
 
