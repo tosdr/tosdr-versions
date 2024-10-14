@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Judge Rejects Arizona Group’s Bid to Investigate Citizenship of 42,000 Federal-Only Voters](https://www.theepochtimes.com/us/judge-rejects-arizona-groups-bid-to-investigate-citizenship-of-42000-federal-only-voters-5741086)
+    
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Judge Rejects Arizona Group’s Bid to Investigate Citizenship of 42,000 Federal-Only Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Judge Rejects Arizona Group’s Bid to Investigate Citizenship of 42,000 Federal-Only Voters](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739768-AZ-Early-Voting-iii_JF_10102024-LS-205x123.webp)](https://www.theepochtimes.com/us/judge-rejects-arizona-groups-bid-to-investigate-citizenship-of-42000-federal-only-voters-5741086)
+* [Man Arrested for Allegedly Threatening FEMA Workers in North Carolina, Officials Say](https://www.theepochtimes.com/us/man-arrested-for-allegedly-threatening-fema-workers-in-north-carolina-officials-say-5741146)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Man Arrested for Allegedly Threatening FEMA Workers in North Carolina, Officials Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Man Arrested for Allegedly Threatening FEMA Workers in North Carolina, Officials Say](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741304-GettyImages-2176738879KO-205x123.jpg)](https://www.theepochtimes.com/us/man-arrested-for-allegedly-threatening-fema-workers-in-north-carolina-officials-say-5741146)
+* [Gmail Users Warned About New Account Takeover Scam: Here’s What to Look For](https://www.theepochtimes.com/us/gmail-users-warned-about-new-account-takeover-scam-heres-what-to-look-for-5741074)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Gmail Users Warned About New Account Takeover Scam: Here’s What to Look For](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Gmail Users Warned About New Account Takeover Scam: Here’s What to Look For](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741301-gmail-shutterstock_1303813597-205x123.jpg.webp)](https://www.theepochtimes.com/us/gmail-users-warned-about-new-account-takeover-scam-heres-what-to-look-for-5741074)
+* [Americans in Lebanon Should ‘Depart Now,’ US Embassy Warns](https://www.theepochtimes.com/world/americans-in-lebanon-should-depart-now-us-embassy-warns-5741133)
+    
+    3hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
+    
+    [![Americans in Lebanon Should ‘Depart Now,’ US Embassy Warns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Americans in Lebanon Should ‘Depart Now,’ US Embassy Warns](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741212-GettyImages-2177486302KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/americans-in-lebanon-should-depart-now-us-embassy-warns-5741133)
+* [SpaceX Launches NASA Satellite on Quest for Life Near Jupiter](https://www.theepochtimes.com/science/spacex-launches-nasa-satellite-on-quest-for-life-near-jupiter-5741125)
+    
+    3hr By [Wim De Gent](https://www.theepochtimes.com/author/wim-degent)
+    
+    [![SpaceX Launches NASA Satellite on Quest for Life Near Jupiter](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![SpaceX Launches NASA Satellite on Quest for Life Near Jupiter](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741251-NASA-Europa-Launch-AP24288599789523-LS-205x123.jpg.webp)](https://www.theepochtimes.com/science/spacex-launches-nasa-satellite-on-quest-for-life-near-jupiter-5741125)
+* [Speaker Johnson Says Parts of Kids Online Safety Act ‘Very Problematic’](https://www.theepochtimes.com/us/speaker-johnson-says-parts-of-kids-online-safety-act-very-problematic-5741049)
+    
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Speaker Johnson Says Parts of Kids Online Safety Act ‘Very Problematic’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Speaker Johnson Says Parts of Kids Online Safety Act ‘Very Problematic’](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722508-GettyImages-2170520553-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-says-parts-of-kids-online-safety-act-very-problematic-5741049)
+* [Canada, India Expel Diplomats as RCMP Says Indian Agents Involved in Homicides](https://www.theepochtimes.com/world/india-expels-canadian-diplomats-as-rcmp-says-indian-agents-involved-in-homicides-5741124)
+    
+    4hr By [Noé Chartier](https://www.theepochtimes.com/author/noe-chartier)
+    
+    [![Canada, India Expel Diplomats as RCMP Says Indian Agents Involved in Homicides](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Canada, India Expel Diplomats as RCMP Says Indian Agents Involved in Homicides](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741210-Unknown-15KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/india-expels-canadian-diplomats-as-rcmp-says-indian-agents-involved-in-homicides-5741124)
+* [Harris Unveils Proposals for Black Men Ahead of Pennsylvania Rally](https://www.theepochtimes.com/us/harris-unveils-proposals-for-black-men-ahead-of-erie-pennsylvania-rally-5741054)
+    
+    5hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Harris Unveils Proposals for Black Men Ahead of Pennsylvania Rally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Unveils Proposals for Black Men Ahead of Pennsylvania Rally](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741253-kamala-harris2-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-unveils-proposals-for-black-men-ahead-of-erie-pennsylvania-rally-5741054)
+* [FEMA Makes ‘Operational Adjustments’ in North Carolina Amid Alleged Threats to Workers](https://www.theepochtimes.com/us/fema-makes-operational-adjustments-in-north-carolina-amid-alleged-threats-to-workers-5741031)
+    
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![FEMA Makes ‘Operational Adjustments’ in North Carolina Amid Alleged Threats to Workers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FEMA Makes ‘Operational Adjustments’ in North Carolina Amid Alleged Threats to Workers](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736927-North-Carolina-National-Guard-GettyImages-1033187726KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-makes-operational-adjustments-in-north-carolina-amid-alleged-threats-to-workers-5741031)
 * [Speaker Johnson Says FEMA Still Has Not Used Majority of Disaster Relief Funding](https://www.theepochtimes.com/us/speaker-johnson-says-fema-still-has-not-used-majority-of-disaster-relief-funding-5740952)
     
-    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![Speaker Johnson Says FEMA Still Has Not Used Majority of Disaster Relief Funding](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Speaker Johnson Says FEMA Still Has Not Used Majority of Disaster Relief Funding](https://img.theepochtimes.com/assets/uploads/2024/09/22/id5728337-Mike-Johnson-AP24262005068159-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-says-fema-still-has-not-used-majority-of-disaster-relief-funding-5740952)
-* [What the Hospital IV Fluid Shortage May Mean for Patients](https://www.theepochtimes.com/health/what-the-hospital-iv-fluid-shortage-may-mean-for-patients-5739294)
-    
-    NEW By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
-    
-    [![What the Hospital IV Fluid Shortage May Mean for Patients](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![What the Hospital IV Fluid Shortage May Mean for Patients](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741051-shutterstock_2411727825-205x123.jpg.webp)](https://www.theepochtimes.com/health/what-the-hospital-iv-fluid-shortage-may-mean-for-patients-5739294)
-* [Meal Kits, Enoki Mushrooms Recalled Over Possible Listeria Contamination](https://www.theepochtimes.com/us/meal-kits-enoki-mushrooms-recalled-over-possible-listeria-contamination-5740957)
-    
-    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Meal Kits, Enoki Mushrooms Recalled Over Possible Listeria Contamination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Meal Kits, Enoki Mushrooms Recalled Over Possible Listeria Contamination](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5740960-bistro28_expressmealkit_chickenburritobowl-205x123.jpg.webp)](https://www.theepochtimes.com/us/meal-kits-enoki-mushrooms-recalled-over-possible-listeria-contamination-5740957)
-* [President Lai Vows to ‘Protect Democratic Taiwan’ as China Holds Military Exercises Encircling the Island](https://www.theepochtimes.com/china/president-lai-vows-to-protect-democratic-taiwan-as-china-holds-military-exercises-encircling-the-island-5740911)
-    
-    2hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
-    
-    [![President Lai Vows to ‘Protect Democratic Taiwan’ as China Holds Military Exercises Encircling the Island](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![President Lai Vows to ‘Protect Democratic Taiwan’ as China Holds Military Exercises Encircling the Island](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5738907-2410092332252378-205x123.jpg.webp)](https://www.theepochtimes.com/china/president-lai-vows-to-protect-democratic-taiwan-as-china-holds-military-exercises-encircling-the-island-5740911)
-* [Largest Class Action Suit in English History Set to Launch Over Brazil Mining Disaster](https://www.theepochtimes.com/world/largest-class-action-suit-in-english-history-set-to-launch-over-brazil-mining-disaster-5740841)
-    
-    3hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
-    
-    [![Largest Class Action Suit in English History Set to Launch Over Brazil Mining Disaster](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Largest Class Action Suit in English History Set to Launch Over Brazil Mining Disaster](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741015-2018-08-15T223545Z_1_LYNXMPEE7E1RU_RTROPTP_3_BHP-BILLITON-SAMARCO-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/largest-class-action-suit-in-english-history-set-to-launch-over-brazil-mining-disaster-5740841)
-* [Hezbollah ‘Swarm of Drones’ Kills 4 Israeli Soldiers at IDF Base](https://www.theepochtimes.com/world/hezbollah-swarm-of-drones-kills-4-israeli-soldiers-at-idf-base-5740837)
-    
-    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
-    
-    [![Hezbollah ‘Swarm of Drones’ Kills 4 Israeli Soldiers at IDF Base](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Hezbollah ‘Swarm of Drones’ Kills 4 Israeli Soldiers at IDF Base](https://img.theepochtimes.com/assets/uploads/2022/09/13/Iran-drones-205x123.jpg.webp)](https://www.theepochtimes.com/world/hezbollah-swarm-of-drones-kills-4-israeli-soldiers-at-idf-base-5740837)
-* [Home Rent Prices Rise in September: Report](https://www.theepochtimes.com/us/home-rent-prices-rise-in-september-report-5740579)
-    
-    7hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Home Rent Prices Rise in September: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Home Rent Prices Rise in September: Report](https://img.theepochtimes.com/assets/uploads/2024/09/03/id5717612-IrvineHomes_ForSale_JF_7_09212020KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/home-rent-prices-rise-in-september-report-5740579)
-* [Local Heroes Hailed as North Carolina Digs Out From Hurricane Helene Disaster](https://www.theepochtimes.com/us/local-heroes-hailed-as-north-carolina-digs-out-from-hurricane-helene-disaster-5740694)
-    
-    7hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
-    
-    [![Local Heroes Hailed as North Carolina Digs Out From Hurricane Helene Disaster](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Local Heroes Hailed as North Carolina Digs Out From Hurricane Helene Disaster](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5740993-20241008_120304-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/local-heroes-hailed-as-north-carolina-digs-out-from-hurricane-helene-disaster-5740694)
-* [In Arizona, Trump Proposes Pay Raise for Border Patrol](https://www.theepochtimes.com/us/in-arizona-trump-proposes-pay-raise-for-border-patrol-5740725)
-    
-    8hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![In Arizona, Trump Proposes Pay Raise for Border Patrol](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![In Arizona, Trump Proposes Pay Raise for Border Patrol](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5740912-Trump-Border-Patrol-1_JF_10132024-v-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-arizona-trump-proposes-pay-raise-for-border-patrol-5740725)
-* [CCP Launches ‘Joint Sword-2024B’ Military Drills Around Taiwan](https://www.theepochtimes.com/china/china-holds-new-military-drills-around-taiwan-5740805)
-    
-    8hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
-    
-    [![CCP Launches ‘Joint Sword-2024B’ Military Drills Around Taiwan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![CCP Launches ‘Joint Sword-2024B’ Military Drills Around Taiwan](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741029-Taiwan-military-drill-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-holds-new-military-drills-around-taiwan-5740805)
+    ![Speaker Johnson Says FEMA Still Has Not Used Majority of Disaster Relief Funding](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741097-Mike-Johnson-AP24262005068159-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-says-fema-still-has-not-used-majority-of-disaster-relief-funding-5740952)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
