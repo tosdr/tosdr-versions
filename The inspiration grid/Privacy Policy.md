@@ -193,6 +193,22 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/10/ada-winners-packaging-feature.jpg)
+
+[Branding](https://theinspirationgrid.com/category/identity/)[Graphic Design](https://theinspirationgrid.com/category/design/)
+
+[](https://theinspirationgrid.com/editorial/top-10-packaging-design-winners-from-a-design-awards/)
+
+### Top 10 Packaging Design Winners from A’ Design Awards
+
+![](https://inspgr.id/app/uploads/2024/10/esr-geo-wallet-review-feature.jpg)
+
+[Product Design](https://theinspirationgrid.com/category/product-design/)[Technology](https://theinspirationgrid.com/category/technology-2/)
+
+[](https://theinspirationgrid.com/editorial/esr-geo-wallet-review-youll-never-lose-your-wallet-again/)
+
+### ESR Geo Wallet Review: You’ll never lose your wallet again
+
 ![](https://inspgr.id/app/uploads/2024/10/halloween-24-roundup-feature.jpg)
 
 [Art](https://theinspirationgrid.com/category/art/)[Graphic Design](https://theinspirationgrid.com/category/design/)
@@ -208,22 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/retro-revival-the-best-fonts-for-your-vintage-inspired-designs/)
 
 ### Retro Revival: The Best Fonts for your Vintage-Inspired Designs
-
-![](https://inspgr.id/app/uploads/2024/09/driver-web-platform-main-02.jpg)
-
-[Technology](https://theinspirationgrid.com/category/technology-2/)[UX & UI Design](https://theinspirationgrid.com/category/ui-design/)
-
-[](https://theinspirationgrid.com/editorial/this-new-platform-is-making-premium-websites-affordable-for-everyone/)
-
-### This New Platform is Making Premium Websites Affordable for Everyone
-
-![](https://inspgr.id/app/uploads/2024/09/gaomon-pd1320-pen-display-review-main-image.jpg)
-
-[Art](https://theinspirationgrid.com/category/art/)[Graphic Design](https://theinspirationgrid.com/category/design/)
-
-[](https://theinspirationgrid.com/editorial/gaomon-pd1320-pen-display-tablet-review/)
-
-### Gaomon PD1320 Pen Display Tablet Review
 
 #want
 -----
@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/illustration-duckie-feature.jpg)
+
+[](https://theinspirationgrid.com/cultural-fusions-illustrations-by-duckie/)
+
+### Cultural Fusions: Illustrations by Duckie
+
+![](https://inspgr.id/app/uploads/2024/10/art-kevin-m-fletcher-feature.jpg)
+
+[](https://theinspirationgrid.com/kaleidoscopic-portraits-by-kevin-m-fletcher/)
+
+### Kaleidoscopic Portraits by Kevin M. Fletcher
+
 ![](https://inspgr.id/app/uploads/2024/10/lettering-halfstudio-feature.jpg)
 
 [](https://theinspirationgrid.com/amazing-lettering-creations-by-halfstudio/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/sci-fi-worlds-the-art-of-pascal-blanche/)
 
 ### Sci-Fi Worlds: The Art of Pascal Blanché
-
-![](https://inspgr.id/app/uploads/2024/10/3d-julien-rivoire-feature.jpg)
-
-[](https://theinspirationgrid.com/awesome-retro-gaming-art-by-julien-rivoire/)
-
-### Awesome Retro Gaming Art by Julien Rivoire
-
-![](https://inspgr.id/app/uploads/2024/10/illustration-jonathan-calugi-feature.jpg)
-
-[](https://theinspirationgrid.com/continuous-lines-illustrations-by-jonathan-calugi/)
-
-### One Line Wonders: Expressive Illustrations by Jonathan Calugi
 
 Awesome products for creatives
 ------------------------------
