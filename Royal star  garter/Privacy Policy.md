@@ -52,7 +52,7 @@ How you can help
 
 [Other ways to give](https://starandgarter.org/how-you-can-help/other-ways-to-give/)[Giving in memory and in celebration are just some of the ways you can support us.](https://starandgarter.org/how-you-can-help/other-ways-to-give/)
 
-[Volunteer for us](https://starandgarter.org/how-you-can-help/volunteer/)[Giving your time makes the world of difference to our residents.](https://starandgarter.org/how-you-can-help/volunteer/)
+[Volunteer for us](https://starandgarter.org/how-you-can-help/volunteer-for-us/)[Giving your time makes the world of difference to our residents.](https://starandgarter.org/how-you-can-help/volunteer-for-us/)
 
 How you can help
 
@@ -132,7 +132,7 @@ How you can help
 
 [Other ways to give](https://starandgarter.org/how-you-can-help/other-ways-to-give/) [Giving in memory and in celebration are just some of the ways you can support us.](https://starandgarter.org/how-you-can-help/other-ways-to-give/)
 
-[Volunteer for us](https://starandgarter.org/how-you-can-help/volunteer/) [Giving your time makes the world of difference to our residents.](https://starandgarter.org/how-you-can-help/volunteer/)
+[Volunteer for us](https://starandgarter.org/how-you-can-help/volunteer-for-us/) [Giving your time makes the world of difference to our residents.](https://starandgarter.org/how-you-can-help/volunteer-for-us/)
 
 How you can help
 
@@ -490,12 +490,6 @@ Always Enabled
 
 Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
 
-Functional
-
- functional
-
-Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
-
 Advertisement
 
  advertisement
@@ -519,5 +513,11 @@ Others
  others
 
 Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+
+Functional
+
+ functional
+
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
 
 Save & Accept
