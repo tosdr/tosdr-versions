@@ -26,13 +26,13 @@ Popular tools
 
 AI](https://namegenerator.com/people/username)[City Names
 
-AI](https://namegenerator.com/place/city)[Last Names](https://namegenerator.com/people/last)[God Names
+AI](https://namegenerator.com/place/city)[God Names
 
-AI](https://namegenerator.com/fiction/god)[Brand Names
+AI](https://namegenerator.com/fiction/god)[Last Names](https://namegenerator.com/people/last)[Generative Names](https://namegenerator.com/people/generative)[Clan Names
 
-AI](https://namegenerator.com/business/brand)[Clan Names
+AI](https://namegenerator.com/people/clan)[Brand Names
 
-AI](https://namegenerator.com/people/clan)[Generative Names](https://namegenerator.com/people/generative)[Demon Names
+AI](https://namegenerator.com/business/brand)[Demon Names
 
 AI](https://namegenerator.com/fiction/demon)[Company Names
 
