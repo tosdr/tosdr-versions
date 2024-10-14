@@ -29,7 +29,7 @@ The product is distributed "as is" and without any warranty as to merchantabilit
 
 In any case, Vovsoft's entire liability under any provision of this agreement shall not exceed in the aggregate the sum of the fees licensee paid for this license (if any). Vovsoft is not responsible for any liability arising out of content provided by licensee or a third party that is accessed through the product and/or any material linked through such content.
 
-The product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit ([http://www.openssl.org](http://www.openssl.org/)). The product includes cryptographic software written by Eric Young ([\[email protected\]](https://vovsoft.com/cdn-cgi/l/email-protection)). Please remember that export/import and/or use of cryptography software, providing cryptography hooks or even just communicating technical details about cryptography software is illegal in some parts of the world. Vovsoft and the authors of OpenSSL are not liable for any violations you make. By downloading, installing or using any portion of the product, you agree that the product meet your local and state cryptography laws, rules and regulations.
+The product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit ([http://www.openssl.org](https://www.openssl.org/)). The product includes cryptographic software written by Eric Young ([\[email protected\]](https://vovsoft.com/cdn-cgi/l/email-protection)). Please remember that export/import and/or use of cryptography software, providing cryptography hooks or even just communicating technical details about cryptography software is illegal in some parts of the world. Vovsoft and the authors of OpenSSL are not liable for any violations you make. By downloading, installing or using any portion of the product, you agree that the product meet your local and state cryptography laws, rules and regulations.
 
 The product uses libraries from the [FFmpeg](http://ffmpeg.org/) project under the LGPLv3.
 
@@ -107,7 +107,7 @@ Without prejudice to any other rights, Vovsoft may terminate this agreement if l
 
 ![Top](/images/arrow-up.png)
 
-* [![Share on Facebook](/images/share-facebook.png "Share on Facebook")](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fvovsoft.com%2Feula%2F)
-* [![Share on Twitter](/images/share-x.png "Share on Twitter")](http://twitter.com/share/?url=https%3A%2F%2Fvovsoft.com%2Feula%2F&text=End-User+License+Agreement+-+Vovsoft&via=vovsoft)
+* [![Share on Facebook](/images/share-facebook.png "Share on Facebook")](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fvovsoft.com%2Feula%2F)
+* [![Share on Twitter](/images/share-x.png "Share on Twitter")](https://twitter.com/share/?url=https%3A%2F%2Fvovsoft.com%2Feula%2F&text=End-User+License+Agreement+-+Vovsoft&via=vovsoft)
 * [![Share on Linkedin](/images/share-linkedin.png "Share on Linkedin")](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fvovsoft.com%2Feula%2F)
 * [![Share on WhatsApp](/images/share-whatsapp.png "Share on WhatsApp")](https://web.whatsapp.com/send?text=https%3A%2F%2Fvovsoft.com%2Feula%2F)
