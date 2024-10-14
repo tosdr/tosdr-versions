@@ -45,6 +45,7 @@ Hauptnavigation
     * [Unsere Arbeit zu Israel/Palästina](https://www.amnesty.de/israel-palaestina-gaza-nahostkonflikt)
     * [Russland: Angriffskrieg stoppen!](https://www.amnesty.de/allgemein/kampagnen/russland-angriffskrieg-stoppen)
     * [Gemeinsam für die Menschen im Iran!](https://www.amnesty.de/allgemein/kampagnen/iran-jina-mahsa-amini-proteste-niederschlagung-gewalt-stoppen)
+    * [Schwangerschaftsabbrüche](https://www.amnesty.de/schwangerschaftsabbruch-deutschland)
     
 * [Informieren](https://www.amnesty.de/informieren)
     
