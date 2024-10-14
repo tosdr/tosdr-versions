@@ -131,6 +131,18 @@ SEND
 
 #### Featured POSts
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/countdown.webp)](https://www.sickchirpse.com/channel-4s-countdown-champion-charged-with-stabbing-rival-contestant/)
+
+### [Channel 4’s Countdown Champion Charged With Stabbing Rival Contestant](https://www.sickchirpse.com/channel-4s-countdown-champion-charged-with-stabbing-rival-contestant/)
+
+[Read More »](https://www.sickchirpse.com/channel-4s-countdown-champion-charged-with-stabbing-rival-contestant/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/ksi-conor-mcgregor.jpg)](https://www.sickchirpse.com/ksis-new-song-is-so-bad-that-conor-mcgregor-wants-to-beat-him-up-for-it/)
+
+### [KSI’s New Song Is So Bad That Conor McGregor Wants To Beat Him Up For It](https://www.sickchirpse.com/ksis-new-song-is-so-bad-that-conor-mcgregor-wants-to-beat-him-up-for-it/)
+
+[Read More »](https://www.sickchirpse.com/ksis-new-song-is-so-bad-that-conor-mcgregor-wants-to-beat-him-up-for-it/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/10/hurricane.jpg)](https://www.sickchirpse.com/streamers-are-travelling-to-the-hurriane-milton-evacuation-zone-to-win-70000-prize-set-by-another-streamer/)
 
 ### [Streamers Are Travelling To The Hurricane Milton Evacuation Zone To Win $70,000 Prize Set By Another Streamer](https://www.sickchirpse.com/streamers-are-travelling-to-the-hurriane-milton-evacuation-zone-to-win-70000-prize-set-by-another-streamer/)
@@ -149,19 +161,19 @@ SEND
 
 [Read More »](https://www.sickchirpse.com/fans-are-digging-up-old-weird-videos-of-yung-filly-after-youtuber-is-arrested-for-sexual-assault/)
 
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/rebekah-vardy-colleen-rooney.webp)](https://www.sickchirpse.com/rebekah-vardy-ordered-to-pay-colleen-rooney-100000-by-the-end-of-the-month/)
-
-### [Rebekah Vardy Ordered To Pay Colleen Rooney £100,000 By The End Of The Month](https://www.sickchirpse.com/rebekah-vardy-ordered-to-pay-colleen-rooney-100000-by-the-end-of-the-month/)
-
-[Read More »](https://www.sickchirpse.com/rebekah-vardy-ordered-to-pay-colleen-rooney-100000-by-the-end-of-the-month/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/lisa-marie-presley-son-ice.webp)](https://www.sickchirpse.com/lisa-marie-presley-kept-her-sons-body-on-dry-ice-at-her-home-for-two-months-after-his-death/)
-
-### [Lisa Marie Presley Kept Her Son’s Body On Dry Ice At Her Home For Two Months After His Death](https://www.sickchirpse.com/lisa-marie-presley-kept-her-sons-body-on-dry-ice-at-her-home-for-two-months-after-his-death/)
-
-[Read More »](https://www.sickchirpse.com/lisa-marie-presley-kept-her-sons-body-on-dry-ice-at-her-home-for-two-months-after-his-death/)
-
 #### trending post
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/countdown.webp)](https://www.sickchirpse.com/channel-4s-countdown-champion-charged-with-stabbing-rival-contestant/)
+
+### [Channel 4’s Countdown Champion Charged With Stabbing Rival Contestant](https://www.sickchirpse.com/channel-4s-countdown-champion-charged-with-stabbing-rival-contestant/)
+
+[Read More »](https://www.sickchirpse.com/channel-4s-countdown-champion-charged-with-stabbing-rival-contestant/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/ksi-conor-mcgregor.jpg)](https://www.sickchirpse.com/ksis-new-song-is-so-bad-that-conor-mcgregor-wants-to-beat-him-up-for-it/)
+
+### [KSI’s New Song Is So Bad That Conor McGregor Wants To Beat Him Up For It](https://www.sickchirpse.com/ksis-new-song-is-so-bad-that-conor-mcgregor-wants-to-beat-him-up-for-it/)
+
+[Read More »](https://www.sickchirpse.com/ksis-new-song-is-so-bad-that-conor-mcgregor-wants-to-beat-him-up-for-it/)
 
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/10/yung-filly.webp)](https://www.sickchirpse.com/fans-are-digging-up-old-weird-videos-of-yung-filly-after-youtuber-is-arrested-for-sexual-assault/)
 
@@ -180,18 +192,6 @@ SEND
 ### [Lisa Marie Presley Kept Her Son’s Body On Dry Ice At Her Home For Two Months After His Death](https://www.sickchirpse.com/lisa-marie-presley-kept-her-sons-body-on-dry-ice-at-her-home-for-two-months-after-his-death/)
 
 [Read More »](https://www.sickchirpse.com/lisa-marie-presley-kept-her-sons-body-on-dry-ice-at-her-home-for-two-months-after-his-death/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/michael-jackson-virgin.webp)](https://www.sickchirpse.com/michael-jackson-was-a-virgin-until-the-age-of-35-according-to-his-ex-lisa-marie-presley/)
-
-### [Michael Jackson Was A ‘Virgin Until The Age Of 35’ According To His Ex Lisa Marie Presley](https://www.sickchirpse.com/michael-jackson-was-a-virgin-until-the-age-of-35-according-to-his-ex-lisa-marie-presley/)
-
-[Read More »](https://www.sickchirpse.com/michael-jackson-was-a-virgin-until-the-age-of-35-according-to-his-ex-lisa-marie-presley/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/sydney-sweeney.jpg)](https://www.sickchirpse.com/paparazzi-tell-sydney-sweeneys-family-tell-her-to-come-outside-in-a-bikini-ill-take-pictures-then-leave-you-alone/)
-
-### [Paparazzi Tell Sydney Sweeney’s Family: “Tell Her To Come Outside In A Bikini, I’ll Take Pictures Then Leave You Alone”](https://www.sickchirpse.com/paparazzi-tell-sydney-sweeneys-family-tell-her-to-come-outside-in-a-bikini-ill-take-pictures-then-leave-you-alone/)
-
-[Read More »](https://www.sickchirpse.com/paparazzi-tell-sydney-sweeneys-family-tell-her-to-come-outside-in-a-bikini-ill-take-pictures-then-leave-you-alone/)
 
 Copyright 2023 © All rights Reserved.
 
