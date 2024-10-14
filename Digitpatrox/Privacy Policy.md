@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Sunday, October 13 2024
+Monday, October 14 2024
 
 Latest
 
-* [Three Services People Don’t Know They Can Get From Their Bank for Free](https://digitpatrox.com/three-services-people-dont-know-they-can-get-from-their-bank-for-free/)
-* [Consumer Reports’ Most Popular New Cars and SUVs](https://digitpatrox.com/consumer-reports-most-popular-new-cars-and-suvs/)
-* [Is 3G Still a Thing?](https://digitpatrox.com/is-3g-still-a-thing/)
-* [How to Detect Call Avoidance Without Micromanaging](https://digitpatrox.com/how-to-detect-call-avoidance-without-micromanaging/)
-* [New iPhone SE 4 case leak hints at major design upgrade](https://digitpatrox.com/new-iphone-se-4-case-leak-hints-at-major-design-upgrade/)
-* [SpaceX’s Starship test completes with a remarkable ‘chopstick’ booster catch](https://digitpatrox.com/spacexs-starship-test-completes-with-a-remarkable-chopstick-booster-catch/)
-* [Anime Souls Simulator X Codes (October 2024)](https://digitpatrox.com/anime-souls-simulator-x-codes-october-2024/)
-* [Why You Need to File Your Homeowners Insurance Claim ASAP After a Disaster](https://digitpatrox.com/why-you-need-to-file-your-homeowners-insurance-claim-asap-after-a-disaster/)
-* [Beware a Flood of Flooded Cars](https://digitpatrox.com/beware-a-flood-of-flooded-cars/)
-* [What Version of Linux Are We On?](https://digitpatrox.com/what-version-of-linux-are-we-on/)
+* [Google warns uBlock Origin and other extensions may be disabled soon](https://digitpatrox.com/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/)
+* [RedCap, the 5G for wearables and IoT, will get its first devices soon](https://digitpatrox.com/redcap-the-5g-for-wearables-and-iot-will-get-its-first-devices-soon/)
+* [NYT Connections Today: Hints and Answers for October 14, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-14-2024/)
+* [Snowflake bigs up the power of the partner and eyes deeper engagement to tackle business challenges in the enterprise AI era](https://digitpatrox.com/snowflake-bigs-up-the-power-of-the-partner-and-eyes-deeper-engagement-to-tackle-business-challenges-in-the-enterprise-ai-era/)
+* [You Need to Update Firefox ASAP](https://digitpatrox.com/you-need-to-update-firefox-asap/)
+* [What to Know Before Buying a Used Electric Vehicle](https://digitpatrox.com/what-to-know-before-buying-a-used-electric-vehicle/)
+* [Surface Pro vs. Surface Laptop: What’s the Difference?](https://digitpatrox.com/surface-pro-vs-surface-laptop-whats-the-difference/)
+* [Snowflake CEO: “Many vendors sell you parts of a car and tell you to build it yourself. At Snowflake we have a different philosophy. We want to give you the car.”](https://digitpatrox.com/snowflake-ceo-many-vendors-sell-you-parts-of-a-car-and-tell-you-to-build-it-yourself-at-snowflake-we-have-a-different-philosophy-we-want-to-give-you-the-car/)
+* [Massive Pokémon leak reveals new Switch 2 details](https://digitpatrox.com/massive-pokemon-leak-reveals-new-switch-2-details/)
+* [Iranian hackers now exploit Windows flaw to elevate privileges](https://digitpatrox.com/iranian-hackers-now-exploit-windows-flaw-to-elevate-privileges/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01J9Y5Q1T73WHE6MWMS1AWBJM3/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/three-services-people-dont-know-they-can-get-from-their-bank-for-free/)
+* [![](https://www.bleepstatic.com/content/hl-images/2021/09/23/Chrome_flare.jpg)](https://digitpatrox.com/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/)
     
-    [Three Services People Don’t Know They Can Get From Their Bank for Free](https://digitpatrox.com/three-services-people-dont-know-they-can-get-from-their-bank-for-free/)
+    [Google warns uBlock Origin and other extensions may be disabled soon](https://digitpatrox.com/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/)
     
-    9 mins ago
+    16 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1709219325/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2023-Honda-CR-V-Sport-Touring-f-driving-2-24)](https://digitpatrox.com/consumer-reports-most-popular-new-cars-and-suvs/)
+* [![](https://cdn.vox-cdn.com/thumbor/KWhU_P6iGx_RXYWnoqRRDCkKcQM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24341282/STK142_5G.jpg)](https://digitpatrox.com/redcap-the-5g-for-wearables-and-iot-will-get-its-first-devices-soon/)
     
-    [Consumer Reports’ Most Popular New Cars and SUVs](https://digitpatrox.com/consumer-reports-most-popular-new-cars-and-suvs/)
+    [RedCap, the 5G for wearables and IoT, will get its first devices soon](https://digitpatrox.com/redcap-the-5g-for-wearables-and-iot-will-get-its-first-devices-soon/)
     
-    40 mins ago
+    33 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-mobile-phone-tower-with-3g-written-next-to-it.jpg)](https://digitpatrox.com/is-3g-still-a-thing/)
+* [![](https://beebom.com/wp-content/uploads/2024/07/NYT-Connections-Today-Featured.jpg?w=1250&quality=75)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-14-2024/)
     
-    [Is 3G Still a Thing?](https://digitpatrox.com/is-3g-still-a-thing/)
+    [NYT Connections Today: Hints and Answers for October 14, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-14-2024/)
     
-    43 mins ago
+    48 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/call-center-pexels-mart-production-7709216.jpeg)](https://digitpatrox.com/how-to-detect-call-avoidance-without-micromanaging/)
+* [![](https://cdn.mos.cms.futurecdn.net/mZCYvi9oWUrCrFZfuiXVMJ-1200-80.jpg)](https://digitpatrox.com/snowflake-bigs-up-the-power-of-the-partner-and-eyes-deeper-engagement-to-tackle-business-challenges-in-the-enterprise-ai-era/)
     
-    [How to Detect Call Avoidance Without Micromanaging](https://digitpatrox.com/how-to-detect-call-avoidance-without-micromanaging/)
-    
-    2 hours ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/srpurMHZv3BEgSYuVQZsJZ-1200-80.jpg)](https://digitpatrox.com/new-iphone-se-4-case-leak-hints-at-major-design-upgrade/)
-    
-    [New iPhone SE 4 case leak hints at major design upgrade](https://digitpatrox.com/new-iphone-se-4-case-leak-hints-at-major-design-upgrade/)
+    [Snowflake bigs up the power of the partner and eyes deeper engagement to tackle business challenges in the enterprise AI era](https://digitpatrox.com/snowflake-bigs-up-the-power-of-the-partner-and-eyes-deeper-engagement-to-tackle-business-challenges-in-the-enterprise-ai-era/)
     
     2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01J9Y455X0T4BD2YXYGXCVHTT1/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/you-need-to-update-firefox-asap/)
+    
+    [You Need to Update Firefox ASAP](https://digitpatrox.com/you-need-to-update-firefox-asap/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [9 mins ago
+* [16 mins ago
     
-    ### Three Services People Don’t Know They Can Get From Their Bank for Free](https://digitpatrox.com/three-services-people-dont-know-they-can-get-from-their-bank-for-free/)
-* [40 mins ago
+    ### Google warns uBlock Origin and other extensions may be disabled soon](https://digitpatrox.com/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/)
+* [33 mins ago
     
-    ### Consumer Reports’ Most Popular New Cars and SUVs](https://digitpatrox.com/consumer-reports-most-popular-new-cars-and-suvs/)
-* [43 mins ago
+    ### RedCap, the 5G for wearables and IoT, will get its first devices soon](https://digitpatrox.com/redcap-the-5g-for-wearables-and-iot-will-get-its-first-devices-soon/)
+* [48 mins ago
     
-    ### Is 3G Still a Thing?](https://digitpatrox.com/is-3g-still-a-thing/)
+    ### NYT Connections Today: Hints and Answers for October 14, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-14-2024/)
 
 Most Popular Topics
 
-* [September 1, 2024
+* [August 30, 2024
     
-    ### Roborock’s pet-ready Q5 Pro robot vacuum is on sale for under $200](https://digitpatrox.com/roborocks-pet-ready-q5-pro-robot-vacuum-is-on-sale-for-under-200/)
-* [1 week ago
+    ### Your Secret Weapon for AI-Enhanced Natural-Sounding Content](https://digitpatrox.com/your-secret-weapon-for-ai-enhanced-natural-sounding-content/)
+* [August 17, 2024
     
-    ### Midsized SUVs With the Most Cargo Room](https://digitpatrox.com/midsized-suvs-with-the-most-cargo-room/)
-* [2 weeks ago
+    ### 9 hidden Google Pixel features for smarter calling – Computerworld](https://digitpatrox.com/9-hidden-google-pixel-features-for-smarter-calling-computerworld/)
+* [August 28, 2024
     
-    ### NetApp lands its ‘intelligent data infrastructure’ rebrand at Insight 2024](https://digitpatrox.com/netapp-lands-its-intelligent-data-infrastructure-rebrand-at-insight-2024/)
+    ### Mount Carmel Care Center notifies 2,375 people of year-old data breach](https://digitpatrox.com/mount-carmel-care-center-notifies-2375-people-of-year-old-data-breach/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [4 hours ago
     
-    ### Anime Souls Simulator X Codes (October 2024)](https://digitpatrox.com/anime-souls-simulator-x-codes-october-2024/)
+    ### Surface Pro vs. Surface Laptop: What’s the Difference?](https://digitpatrox.com/surface-pro-vs-surface-laptop-whats-the-difference/)
 * [5 hours ago
     
-    ### Why You Need to File Your Homeowners Insurance Claim ASAP After a Disaster](https://digitpatrox.com/why-you-need-to-file-your-homeowners-insurance-claim-asap-after-a-disaster/)
-* [6 hours ago
+    ### Snowflake CEO: “Many vendors sell you parts of a car and tell you to build it yourself. At Snowflake we have a different philosophy. We want to give you the car.”](https://digitpatrox.com/snowflake-ceo-many-vendors-sell-you-parts-of-a-car-and-tell-you-to-build-it-yourself-at-snowflake-we-have-a-different-philosophy-we-want-to-give-you-the-car/)
+* [5 hours ago
     
-    ### Beware a Flood of Flooded Cars](https://digitpatrox.com/beware-a-flood-of-flooded-cars/)
+    ### Massive Pokémon leak reveals new Switch 2 details](https://digitpatrox.com/massive-pokemon-leak-reveals-new-switch-2-details/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
