@@ -2,14 +2,14 @@ Monday, October 14 2024
 
 Breaking News
 
+* [Medal of Honor Monday: Army Staff Sgt. Clint Romesha](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-clint-romesha/)
+* [President Joe Biden’s Schedule for Monday, October 14, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-14-2024/)
+* [President Joe Biden’s Schedule for Sunday, October 13, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024-2/)
 * [It’s Time To Close The Door For Good On Ranked-Choice Voting](https://www.conservativedailynews.com/2024/10/its-time-to-close-the-door-for-good-on-ranked-choice-voting/)
 * [Black Voters Make Surprising Shift Away From Democrats, Poll Shows](https://www.conservativedailynews.com/2024/10/black-voters-make-surprising-shift-away-from-democrats-poll-shows/)
 * [Biden Delivers Remarks in Response to Hurricane Milton](https://www.conservativedailynews.com/2024/10/biden-delivers-remarks-in-response-to-hurricane-milton/)
 * [President Joe Biden’s Schedule for Sunday, October 13, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024/)
 * [The Realignment Of Catholic Voters To The GOP](https://www.conservativedailynews.com/2024/10/the-realignment-of-catholic-voters-to-the-gop/)
-* [Was Obama A President, Or A Black President](https://www.conservativedailynews.com/2024/10/was-obama-a-president-or-a-black-president/)
-* [NY Times Poll Shows Harris’ Support Among Key Voter Bloc In ‘Dangerously Low Territory’](https://www.conservativedailynews.com/2024/10/ny-times-poll-shows-harris-support-among-key-voter-bloc-in-dangerously-low-territory/)
-* [Kamala Isn’t Just Stupid, She’s Dangerous](https://www.conservativedailynews.com/2024/10/kamala-isnt-just-stupid-shes-dangerous/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,34 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Tim Walz Kamala Harris 2024 election sheeple](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/for-the-sheeple/)
+    
+    [For the Sheeple](https://www.conservativedailynews.com/2024/10/for-the-sheeple/)
+    
+    October 14, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/04-no-debate-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/final-showdown/)
+    
+    [Final Showdown](https://www.conservativedailynews.com/2024/10/final-showdown/)
+    
+    October 14, 2024
+    
+* [![A man wearing a medal around his neck looks forward.](https://www.conservativedailynews.com/wp-content/uploads/2024/10/130212-D-NI589-338-220x150.jpg)](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-clint-romesha/)
+    
+    [Medal of Honor Monday: Army Staff Sgt. Clint Romesha](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-clint-romesha/)
+    
+    October 14, 2024
+    
+* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-14-2024/)
+    
+    [President Joe Biden’s Schedule for Monday, October 14, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-14-2024/)
+    
+    October 14, 2024
+    
+* [President Joe Biden’s Schedule for Sunday, October 13, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024-2/)
+    
+    October 14, 2024
+    
 * [![Dinner food on table](https://www.conservativedailynews.com/wp-content/uploads/2018/07/Dinner-food-on-table.jpg)](https://www.conservativedailynews.com/2024/10/your-slow-cooker-is-a-great-holiday-helper/)
     
     [Your Slow Cooker Is a Great Holiday Helper](https://www.conservativedailynews.com/2024/10/your-slow-cooker-is-a-great-holiday-helper/)
@@ -144,49 +172,19 @@ Recent Posts
     
     October 13, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Joe-Biden-Tampa-Florida-Hurrican-Milton-speech-220x150.jpg)](https://www.conservativedailynews.com/2024/10/biden-delivers-remarks-in-response-to-hurricane-milton/)
-    
-    [Biden Delivers Remarks in Response to Hurricane Milton](https://www.conservativedailynews.com/2024/10/biden-delivers-remarks-in-response-to-hurricane-milton/)
-    
-    October 13, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/Joe-Biden-air-force-one-1-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024/)
-    
-    [President Joe Biden’s Schedule for Sunday, October 13, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024/)
-    
-    October 13, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/12/Priest-candles-church-220x150.png)](https://www.conservativedailynews.com/2024/10/the-realignment-of-catholic-voters-to-the-gop/)
-    
-    [The Realignment Of Catholic Voters To The GOP](https://www.conservativedailynews.com/2024/10/the-realignment-of-catholic-voters-to-the-gop/)
-    
-    October 13, 2024
-    
-* [![Democrats woke gender ideology](https://www.conservativedailynews.com/wp-content/uploads/2023/06/01-wokethroat-sm-1080a.jpg)](https://www.conservativedailynews.com/2024/10/was-obama-a-president-or-a-black-president/)
-    
-    [Was Obama A President, Or A Black President](https://www.conservativedailynews.com/2024/10/was-obama-a-president-or-a-black-president/)
-    
-    October 13, 2024
-    
-* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/10/ny-times-poll-shows-harris-support-among-key-voter-bloc-in-dangerously-low-territory/)
-    
-    [NY Times Poll Shows Harris’ Support Among Key Voter Bloc In ‘Dangerously Low Territory’](https://www.conservativedailynews.com/2024/10/ny-times-poll-shows-harris-support-among-key-voter-bloc-in-dangerously-low-territory/)
-    
-    October 13, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Parker Mountain Machine Releases The PMM G45 Ultra](https://www.thegunpage.com/parker-mountain-machine-releases-the-pmm-g45-ultra/10611200)
+* [Klutzy Walz Struggles Loading His Shotgun On Pheasant Hunt](https://www.thegunpage.com/klutzy-walz-struggles-loading-his-shotgun-on-pheasant-hunt/10611198)
+* [Aguila Copa Mundial Wraps Up In Saltillo, Mexico](https://www.thegunpage.com/aguila-copa-mundial-wraps-up-in-saltillo-mexico/10611195)
+* [Things Stupid People Do: Argument Over Chores Leads to Gun Play](https://www.thegunpage.com/things-stupid-people-do-argument-over-chores-leads-to-gun-play/10611193)
+* [TFB Weekly Web Deals 109: Deals for October 14th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-109-deals-for-october-14th-2024/10611196)
+* [Collegiate Rifle: First Road Trip Splits Doubleheader For Akron](https://www.thegunpage.com/collegiate-rifle-first-road-trip-splits-doubleheader-for-akron/10611197)
+* [New York Governor Signs New Anti-Gun Bills](https://www.thegunpage.com/new-york-governor-signs-new-anti-gun-bills/10611191)
 * [Okeechobee police chief still in hiding, now flouting multiple state laws](https://www.thegunpage.com/okeechobee-police-chief-still-in-hiding-now-flouting-multiple-state-laws/10611188)
+* [Hillsdale College Hosts 2024 USPSA Collegiate Match](https://www.thegunpage.com/hillsdale-college-hosts-2024-uspsa-collegiate-match/10611192)
 * [Armed Kansas Man Shoots Aggressor In Self-Defense](https://www.thegunpage.com/armed-kansas-man-shoots-aggressor-in-self-defense/10611183)
-* [Is 38 Special a Good Self-Defense Round?](https://www.thegunpage.com/is-38-special-a-good-self-defense-round/10611180)
-* [Silencer Saturday #350: New Direct Thread Gemtech Silencers](https://www.thegunpage.com/silencer-saturday-350-new-direct-thread-gemtech-silencers/10611178)
-* [Results: 2024 NRA National High Power Rifle OTC Championships](https://www.thegunpage.com/results-2024-nra-national-high-power-rifle-otc-championships/10611176)
-* [TFB Armorer's Bench: Converting 30-30 Win to 32-40 Win](https://www.thegunpage.com/tfb-armorers-bench-converting-30-30-win-to-32-40-win/10611172)
-* [Maryland Group Asks Supreme Court To Explore State’s Handgun Licensing Requirements](https://www.thegunpage.com/maryland-group-asks-supreme-court-to-explore-states-handgun-licensing-requirements/10611167)
-* [New: Winchester Model 98 Signal Cannon](https://www.thegunpage.com/new-winchester-model-98-signal-cannon/10611164)
-* [TFB Review: Magpul SL MP5 Stock](https://www.thegunpage.com/tfb-review-magpul-sl-mp5-stock/10611160)
-* [POTD: Revolver That Fires Rubber Balls Using Blank Cartridges](https://www.thegunpage.com/potd-revolver-that-fires-rubber-balls-using-blank-cartridges/10611161)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
