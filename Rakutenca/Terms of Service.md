@@ -255,7 +255,7 @@ FR
         
         [Clearly
         
-        up to 15% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
+        up to 8% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
         12% Cash Back](https://www.rakuten.ca/esteelauder)[WeightWatchers
         
