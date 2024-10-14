@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [Awakening’s Launch Trailer Kicks Off the Final Countdown](https://en.bandainamcoent.eu/unknown-9/news/awakenings-launch-trailer-kicks-the-final-countdown)
 * [Dive into a whirlwind of puzzle-solving fun as OUTRIGHT GAMES today releases “NICK JR. PARTY ADVENTURE”](https://en.bandainamcoent.eu/nickelodeon/news/dive-whirlwind-of-puzzle-solving-fun-outright-games-today-releases-nick-jr-party)
-* [A New Mystery Series In the World of Little Nightmares Announced](https://en.bandainamcoent.eu/little-nightmares/news/new-mystery-series-the-world-of-little-nightmares-announced)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
