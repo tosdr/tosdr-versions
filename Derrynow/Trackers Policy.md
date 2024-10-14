@@ -259,22 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
-
-Derry City fans at the Brandywell. Pics by Keith Moore, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[IN PICTURES: Derry City fans at the Brandywell](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place")](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
-
-[GAA](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Shock as man arrested following Derry city centre stabbing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Shock as man arrested following Derry city centre stabbing")](https://www.derrynow.com/news/local-news/1629136/shock-as-man-arrested-following-derry-city-centre-stabbing.html)
 
 Police at the scene in Foyle Street
@@ -291,48 +275,28 @@ Police at the scene in Foyle Street
 [Sadness as body of Donal Armstrong recovered from Derry's River Foyle](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry doctor receives a MRANI Award for his exceptional service to the community](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry doctor receives a MRANI Award for his exceptional service to the community")](https://www.derrynow.com/news/local-news/1625992/derry-doctor-receives-a-mrani-award-for-his-exceptional-service-to-the-community.html)
+[![Kyle McDermott: Heartbroken partner tells funeral of cherished memories](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kyle McDermott: Heartbroken partner tells funeral of cherished memories")](https://www.derrynow.com/news/local-news/1629499/kyle-mcdermott-heartbroken-partner-tells-funeral-of-cherished-memories.html)
+
+The funeral of Kyle McDermott (inset) took place at St Aengus' Church, Burt
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry doctor receives a MRANI Award for his exceptional service to the community](https://www.derrynow.com/news/local-news/1625992/derry-doctor-receives-a-mrani-award-for-his-exceptional-service-to-the-community.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Kyle McDermott: Heartbroken partner tells funeral of cherished memories](https://www.derrynow.com/news/local-news/1629499/kyle-mcdermott-heartbroken-partner-tells-funeral-of-cherished-memories.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![23-year-old man arrested in Derry charged with number of drugs offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "23-year-old man arrested in Derry charged with number of drugs offences")](https://www.derrynow.com/news/local-news/1628933/23-year-old-man-arrested-in-derry-charged-with-number-of-drugs-offences.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1627155/derry-death-notices-monday-october-14-2024.html)
 
-PSNI
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Death Notices - Monday, October 14 2024](https://www.derrynow.com/news/deaths/1627155/derry-death-notices-monday-october-14-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-[23-year-old man arrested in Derry charged with number of drugs offences](https://www.derrynow.com/news/local-news/1628933/23-year-old-man-arrested-in-derry-charged-with-number-of-drugs-offences.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice")](https://www.derrynow.com/news/local-news/1629487/pictures-foyle-school-of-speech-and-drama-host-charity-feis-for-foyle-hospice.html)
 
-[![Faughanvale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Faughanvale")](https://www.derrynow.com/news/derry-sport/1629041/faughanvale-come-from-behind-to-make-this-year-s-intermediate-final.html)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-Faughanvale defeated Drumsurn to make this year's Intermediate final. Pic by George Sweeney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Faughanvale come from behind to make this year's Intermediate final](https://www.derrynow.com/news/derry-sport/1629041/faughanvale-come-from-behind-to-make-this-year-s-intermediate-final.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1629040/john-quigg-on-board-at-institute-as-goals-from-sean-carlin-and-mikhail-kennedy-earn-victory-over-newry.html)
-
-Mikhail Kennedy leads the Institute team out. Pic by Keith Moore/ nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[John Quigg on board at Institute as goals from Sean Carlin and Mikhail Kennedy earn victory over Newry](https://www.derrynow.com/news/derry-sport/1629040/john-quigg-on-board-at-institute-as-goals-from-sean-carlin-and-mikhail-kennedy-earn-victory-over-newry.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ballymaguigan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballymaguigan")](https://www.derrynow.com/news/derry-sport/1629037/six-the-magic-number-for-new-senior-champions-ballymaguigan.html)
-
-The Ballymaguigan team before the game. Pic by Danny O'Kane.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Six the magic number for new Senior champions Ballymaguigan!](https://www.derrynow.com/news/derry-sport/1629037/six-the-magic-number-for-new-senior-champions-ballymaguigan.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice](https://www.derrynow.com/news/local-news/1629487/pictures-foyle-school-of-speech-and-drama-host-charity-feis-for-foyle-hospice.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Karl Lacey commits to Kilcoo as Down kingpins land another SFC](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Karl Lacey commits to Kilcoo as Down kingpins land another SFC")](https://www.derrynow.com/news/derry-sport/1629291/karl-lacey-commits-to-kilcoo-as-down-kingpins-land-another-sfc.html)
 
@@ -343,11 +307,64 @@ Kilcoo boss Karl Lacey has dismissed reports linking him to the Derry job
 [Karl Lacey commits to Kilcoo and dismisses reports linking him to the vacant Derry job](https://www.derrynow.com/news/derry-sport/1629291/karl-lacey-commits-to-kilcoo-as-down-kingpins-land-another-sfc.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Man (24) charged with racially motivated stabbing in Derry remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (24) charged with racially motivated stabbing in Derry remanded")](https://www.derrynow.com/news/local-news/1629624/man-24-remanded-following-racially-motivated-stabbing-in-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (24) remanded following racially motivated stabbing in Derry](https://www.derrynow.com/news/local-news/1629624/man-24-remanded-following-racially-motivated-stabbing-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![24-year-old man to appear in court following Derry city centre stabbing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "24-year-old man to appear in court following Derry city centre stabbing")](https://www.derrynow.com/news/local-news/1629456/24-year-old-man-to-appear-in-court-following-derry-city-centre-stabbing.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[24-year-old man to appear in court following Derry city centre stabbing](https://www.derrynow.com/news/local-news/1629456/24-year-old-man-to-appear-in-court-following-derry-city-centre-stabbing.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man (23) charged with number of drugs offences following weekend seizure in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (23) charged with number of drugs offences following weekend seizure in Derry")](https://www.derrynow.com/news/local-news/1629634/man-23-charged-with-number-of-drugs-offences-following-weekend-seizure-in-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (23) charged with number of drugs offences following weekend seizure in Derry](https://www.derrynow.com/news/local-news/1629634/man-23-charged-with-number-of-drugs-offences-following-weekend-seizure-in-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man in custody after £150k drugs seized in Derry search](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man in custody after £150k drugs seized in Derry search")](https://www.derrynow.com/news/local-news/1629781/man-in-custody-after-150k-drugs-seized-in-derry-search.html)
+
+The suspected drugs seized by Ballyarnett Neighbourhood Policing Team
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man in custody after £150k drugs seized in Derry search](https://www.derrynow.com/news/local-news/1629781/man-in-custody-after-150k-drugs-seized-in-derry-search.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice")](https://www.derrynow.com/news/local-news/1629487/pictures-foyle-school-of-speech-and-drama-host-charity-feis-for-foyle-hospice.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice](https://www.derrynow.com/news/local-news/1629487/pictures-foyle-school-of-speech-and-drama-host-charity-feis-for-foyle-hospice.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place")](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
+
+[GAA](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
+
+Derry City fans at the Brandywell. Pics by Keith Moore, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[IN PICTURES: Derry City fans at the Brandywell](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: New community ‘Read and Feed’ Hub opens at Synge Court, Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: New community ‘Read and Feed’ Hub opens at Synge Court, Derry")](https://www.derrynow.com/story-telling/pictures---videos/1628093/in-pictures-new-community-read-and-feed-hub-opens-at-synge-court-derry.html)
 
@@ -397,29 +414,6 @@ Multimedia
 
 [Throwback Thursday: Partytime out and about with the Derry News (2009)](https://www.derrynow.com/story-telling/pictures---videos/1625960/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Thornhill College students take to the skies](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Thornhill College students take to the skies")](https://www.derrynow.com/video/pictures---videos/1625869/video-derry-students-take-to-the-skies-to-emulate-amelia-earhart.html)
-
-Thornhill College students take to the skies
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Video: Derry students take to the skies to emulate Amelia Earhart](https://www.derrynow.com/video/pictures---videos/1625869/video-derry-students-take-to-the-skies-to-emulate-amelia-earhart.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry show jumper Daniel Coyle honoured for his Achievements in the Paris Olympics 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry show jumper Daniel Coyle honoured for his Achievements in the Paris Olympics 2024")](https://www.derrynow.com/story-telling/pictures---videos/1625852/in-pictures-derry-show-jumper-daniel-coyle-honoured-for-his-achievements-in-the-paris-olympics-2024.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry show jumper Daniel Coyle honoured for his Achievements in the Paris Olympics 2024](https://www.derrynow.com/story-telling/pictures---videos/1625852/in-pictures-derry-show-jumper-daniel-coyle-honoured-for-his-achievements-in-the-paris-olympics-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Proud faces all-around at St Conor's prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Proud faces all-around at St Conor's prizegiving")](https://www.derrynow.com/news/pictures---videos/1625475/pictures-proud-faces-all-around-at-st-conor-s-prizegiving.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Proud faces all-around at St Conor's prizegiving](https://www.derrynow.com/news/pictures---videos/1625475/pictures-proud-faces-all-around-at-st-conor-s-prizegiving.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,53 +515,49 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1627155/derry-death-notices-monday-october-14-2024.html)
+[![McGlone seeks assurance on Patient Safety Following Closure of Fairhill Health Centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McGlone seeks assurance on Patient Safety Following Closure of Fairhill Health Centre")](https://www.derrynow.com/news/county-derry-post/1629666/mcglone-seeks-assurance-on-patient-safety-following-closure-of-fairhill-health-centre.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Derry Death Notices - Monday, October 14 2024](https://www.derrynow.com/news/deaths/1627155/derry-death-notices-monday-october-14-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
+[McGlone seeks assurance on Patient Safety Following Closure of Fairhill Health Centre](https://www.derrynow.com/news/county-derry-post/1629666/mcglone-seeks-assurance-on-patient-safety-following-closure-of-fairhill-health-centre.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Karl Lacey commits to Kilcoo as Down kingpins land another SFC](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Karl Lacey commits to Kilcoo as Down kingpins land another SFC")](https://www.derrynow.com/news/derry-sport/1629291/karl-lacey-commits-to-kilcoo-as-down-kingpins-land-another-sfc.html)
+[![Man in custody after £150k drugs seized in Derry search](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man in custody after £150k drugs seized in Derry search")](https://www.derrynow.com/news/local-news/1629781/man-in-custody-after-150k-drugs-seized-in-derry-search.html)
 
-Kilcoo boss Karl Lacey has dismissed reports linking him to the Derry job
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Karl Lacey commits to Kilcoo and dismisses reports linking him to the vacant Derry job](https://www.derrynow.com/news/derry-sport/1629291/karl-lacey-commits-to-kilcoo-as-down-kingpins-land-another-sfc.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Sadness as body of Donal Armstrong recovered from Derry's River Foyle](https://www.derrynow.com/resizer/165/93/true/1522572313578.jpg--.jpg?1522572314000 "Sadness as body of Donal Armstrong recovered from Derry's River Foyle")](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
+The suspected drugs seized by Ballyarnett Neighbourhood Policing Team
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Sadness as body of Donal Armstrong recovered from Derry's River Foyle](https://www.derrynow.com/news/local-news/1629175/sadness-as-body-of-donal-armstrong-recovered-from-derry-s-river-foyle.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man in custody after £150k drugs seized in Derry search](https://www.derrynow.com/news/local-news/1629781/man-in-custody-after-150k-drugs-seized-in-derry-search.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Shock as man arrested following Derry city centre stabbing](https://www.derrynow.com/resizer/165/93/true/2024_10_13/462597974_957601343074894_2819024363319180306_n-1728832056555.jpg--.jpg?1728832056574 "Shock as man arrested following Derry city centre stabbing")](https://www.derrynow.com/news/local-news/1629136/shock-as-man-arrested-following-derry-city-centre-stabbing.html)
-
-Police at the scene in Foyle Street
+[![Bail granted for Derry man who breached bail conditions](https://www.derrynow.com/resizer/165/93/true/2024_05_29/derrycourthouse2.jpg---1716982422986.jpg--.jpg?1716982423183 "Bail granted for Derry man who breached bail conditions")](https://www.derrynow.com/news/local-news/1629648/bail-granted-for-derry-man-who-breached-bail-conditions.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Shock as man arrested following Derry city centre stabbing](https://www.derrynow.com/news/local-news/1629136/shock-as-man-arrested-following-derry-city-centre-stabbing.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Bail granted for Derry man who breached bail conditions](https://www.derrynow.com/news/local-news/1629648/bail-granted-for-derry-man-who-breached-bail-conditions.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Institute](https://www.derrynow.com/resizer/165/93/true/2024_10_13/Institute_v_Newry_9-1728820093664.jpg--.jpg?1728820095003 "Institute")](https://www.derrynow.com/news/derry-sport/1629040/john-quigg-on-board-at-institute-as-goals-from-sean-carlin-and-mikhail-kennedy-earn-victory-over-newry.html)
+[![Derry drawn against reigning champions in Ulster Championship](https://www.derrynow.com/resizer/165/93/true/2022_07_07/Derry_GAA_crest-1657185470230.png--.png?1657185470435 "Derry drawn against reigning champions in Ulster Championship")](https://www.derrynow.com/news/gaa/1629727/derry-drawn-against-reigning-champions-in-ulster-championship.html)
 
-Mikhail Kennedy leads the Institute team out. Pic by Keith Moore/ nwpresspics
+[GAA](https://www.derrynow.com/section/1060/gaa)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Derry drawn against reigning champions in Ulster Championship](https://www.derrynow.com/news/gaa/1629727/derry-drawn-against-reigning-champions-in-ulster-championship.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[John Quigg on board at Institute as goals from Sean Carlin and Mikhail Kennedy earn victory over Newry](https://www.derrynow.com/news/derry-sport/1629040/john-quigg-on-board-at-institute-as-goals-from-sean-carlin-and-mikhail-kennedy-earn-victory-over-newry.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Paid placement scheme with Civil Service on offer to Derry students](https://www.derrynow.com/resizer/165/93/true/2024_10_14/NICS_Student_placement_scheme_PR_landscape-1-1728904589684.jpg--.jpg?1728904590338 "Paid placement scheme with Civil Service on offer to Derry students")](https://www.derrynow.com/news/county-derry-post/1629665/paid-placement-scheme-with-civil-service-on-offer-to-derry-students.html)
 
-[![Shane McGrogan goal sends Newbridge to their first senior final since 1991!](https://www.derrynow.com/resizer/165/93/true/2024_10_13/Newbridge_v_Magherafelt_1__-1728820546134.jpg--.jpg?1728820546704 "Shane McGrogan goal sends Newbridge to their first senior final since 1991!")](https://www.derrynow.com/news/derry-sport/1629044/shane-mcgrogan-goal-sends-newbridge-to-their-first-senior-final-since-1991.html)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Paid placement scheme with Civil Service on offer to Derry students](https://www.derrynow.com/news/county-derry-post/1629665/paid-placement-scheme-with-civil-service-on-offer-to-derry-students.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Shane McGrogan goal sends Newbridge to their first senior final since 1991!](https://www.derrynow.com/news/derry-sport/1629044/shane-mcgrogan-goal-sends-newbridge-to-their-first-senior-final-since-1991.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Man (23) charged with number of drugs offences following weekend seizure in Derry](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man (23) charged with number of drugs offences following weekend seizure in Derry")](https://www.derrynow.com/news/local-news/1629634/man-23-charged-with-number-of-drugs-offences-following-weekend-seizure-in-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (23) charged with number of drugs offences following weekend seizure in Derry](https://www.derrynow.com/news/local-news/1629634/man-23-charged-with-number-of-drugs-offences-following-weekend-seizure-in-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
