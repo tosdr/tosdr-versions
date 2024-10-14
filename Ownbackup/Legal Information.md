@@ -56,7 +56,7 @@ solution overview](https://www.ownbackup.com/solutions-overview)
 
 Environments
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d3bded3a42c1914ab_salesforce.svg)](https://www.ownbackup.com/solutions-salesforce)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf76e58eeea28337b6e39_microsoft.svg)](https://www.ownbackup.com/solutions-microsoft-dynamics)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d4e56a7fbb734df8f_servicenow.svg)](https://www.ownbackup.com/solutions-servicenow)
+[![Saleforce logo](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d3bded3a42c1914ab_salesforce.svg)](https://www.ownbackup.com/solutions-salesforce)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf76e58eeea28337b6e39_microsoft.svg)](https://www.ownbackup.com/solutions-microsoft-dynamics)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d4e56a7fbb734df8f_servicenow.svg)](https://www.ownbackup.com/solutions-servicenow)
 
 Products
 
@@ -284,7 +284,7 @@ solution overview](https://www.ownbackup.com/solutions-overview)
 
 Environments
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d3bded3a42c1914ab_salesforce.svg)](https://www.ownbackup.com/solutions-salesforce)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf76e58eeea28337b6e39_microsoft.svg)](https://www.ownbackup.com/solutions-microsoft-dynamics)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d4e56a7fbb734df8f_servicenow.svg)](https://www.ownbackup.com/solutions-servicenow)
+[![Saleforce logo](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d3bded3a42c1914ab_salesforce.svg)](https://www.ownbackup.com/solutions-salesforce)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf76e58eeea28337b6e39_microsoft.svg)](https://www.ownbackup.com/solutions-microsoft-dynamics)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d4e56a7fbb734df8f_servicenow.svg)](https://www.ownbackup.com/solutions-servicenow)
 
 Products
 
