@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7670ba887b9f55718a896cc9e3a995af
+46baa8d83dd5fa02630cc6017ca570e8
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,9 +142,9 @@ Terms and Conditions
 
 ### Featured Product
 
-[![6 mm transparent pink heart beads](https://sojourner.biz/images/cache/glass/HRT016.200.jpg)](https://sojourner.biz/beads/glass/6-mm-transparent-pink-heart-beads.html "6 mm transparent pink heart beads")
+[![8 mm round blue Czech glass beads](https://sojourner.biz/images/cache/glass/GL0348.200.jpg)](https://sojourner.biz/beads/glass/8-mm-round-blue-czech-glass-beads.html "8 mm round blue Czech glass beads")
 
-#### [6 mm transparent pink heart beads](https://sojourner.biz/beads/glass/6-mm-transparent-pink-heart-beads.html "6 mm transparent pink heart beads")
+#### [8 mm round blue Czech glass beads](https://sojourner.biz/beads/glass/8-mm-round-blue-czech-glass-beads.html "8 mm round blue Czech glass beads")
 
 $2.00
 
