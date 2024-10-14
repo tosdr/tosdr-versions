@@ -7,7 +7,7 @@ Toggle navigation [WinningPrizeSearch.com](http://www.winningprizesearch.com/)
 * [Register](http://www.winningprizesearch.com/registration_page.php)
 * [Sign In](http://www.winningprizesearch.com/sign-in.php)
 
-October 13th, 2024
+October 14th, 2024
 
 [Submit Sweepstakes / Contest](http://www.winningprizesearch.com/submit/submitSweepstakes.php)
 
