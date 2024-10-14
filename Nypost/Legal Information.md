@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[US tells Americans in Lebanon to 'depart now' as Hezbollah-Israel war intensifies](https://nypost.com/2024/10/14/us-news/us-tells-americans-in-lebanon-to-depart-now-as-hezbollah-israel-war-intensifies/)
+
 Privacy Notice Highlights
 =========================
 
