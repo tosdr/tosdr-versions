@@ -1,6 +1,4 @@
-![](https://ad.doubleclick.net/ddm/activity/src=13579749;type=dr_consi;cat=drpag0;u1=/pages/content/customer-support/shopping-resources/returns;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=;gdpr_consent=;ord=13579749?)                                            ![](https://pix.pontiac.media/pixel?id=635&type=2)  
-
-![](https://ssbsync.smartadserver.com/api/sync?callerId=96&redirectUri=https%3A%2f%2ft.us1.dyntrk.com%2frt.php%3Frid%3D101874%26eqtvid%3D%5Bssb_sync_pid%5D%26gdpr%3D%5Bssb_sync_gdpr%5D%26gdpr_consent%3D%5Bssb_sync_gdpr_consent%5D&gdpr=&gdpr_consent=)
+![](https://ad.doubleclick.net/ddm/activity/src=13579749;type=dr_consi;cat=drpag0;u1=/pages/content/customer-support/shopping-resources/returns;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=;gdpr_consent=;ord=13579749?)                                               
 
 ![Facebook Page View](https://www.facebook.com/tr?id=2022048738020690&ev=PageView&noscript=1)
 
@@ -490,6 +488,8 @@ join the conversation
 * [YouTube](https://www.youtube.com/DRPowerEquipment "YouTube")
 * [Linkedin](http://linkedin.com/company/dr-power-equipment "Linkedin")
 * [Feed](https://www.drpowerblog.com/feed/ "Feed")
+
+Menu
 
 POWER EQUIPMENT  
 
