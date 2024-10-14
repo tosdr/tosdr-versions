@@ -240,10 +240,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### 90% Renewals
+#### Want to integrate our service into your own application?
 
   
-Over 90% of our clients renew their services for over one year.  
+[Check out our API](https://www.dynu.com/Resources/API)  
   
 
 ### News
