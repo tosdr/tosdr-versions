@@ -175,7 +175,7 @@ Cuttly Tools
 * [QR Codes](https://cutt.ly/resources/tools/qr-codes)
 * [Unshorten URL](https://cutt.ly/verify)
 * [TRAI SMS Compliance with Cuttly: Custom Domains with Headers](https://cutt.ly/resources/blog/compliance-trai-sms-regulations)
-* [TRAI SMS Compliance with Cuttly: generic 2s.ms shortener with Headers](https://cutt.ly/resources/blog/compliance-trai-sms-header-link-shortener)
+* [TRAI SMS Compliance with Cuttly: generic shortener with 2s.ms Domain & Headers](https://cutt.ly/resources/blog/compliance-trai-sms-header-link-shortener)
 
 Cuttly Resources
 ----------------
