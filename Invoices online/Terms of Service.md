@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Anri van der Linde
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=203607261)  
-APTV Telecoms CC
-
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=143554170)  
-Chiron Medical Solutions
-
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=142212510)  
-NGB HOLDINGS PTY LTD
-
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=7550573)  
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=214170062)  
 MOSELA GROUP Pty(ltd)
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=202764512)  
-FX ACCOUNTING
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=6099952)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=10513221)  
-Enhle Oarabile Kea
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=177057297)  
+Van Der Merwe Olieverspreiders
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=104273783)  
-CHARLIEX CONSTRUCTIONS
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=123491947)  
+Tracknetics
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=6082216)  
-NEW BEGINNINGS DESIGNS
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=190930646)  
+IEMS (PTY) ltd
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=102947601)  
-Well Hung Art
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=56476761)  
+VA AND M BUSINESSES (PTY)LTD
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=23575198)  
-Prosper Park
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=196198047)  
+MONSTER SECURITY GUARDING
 
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=55696553)  
-Quad Biking Cape Town
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=138417876)  
+Calonet
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=110358588)  
-National Elite Security Services (PTY) LTD
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=148769304)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=182792512)  
-Printo
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=89772588)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=86591895)  
-Brilliant Roof Products
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=162031693)  
+VIR Electrical (PTY) LTD
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=8d367dcbd9e45128803a2ea99b9e8297ad47e588edea29f8baa599f4f9b60f49&c=181668608)  
-Little Nutty Professors
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=201340767)  
+CBR Verwe/Paints
+
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=35765049)  
+NIMAWELL
+
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=195655977)  
+TIGERDSL
+
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=153126886)  
+Salvage Genie
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
