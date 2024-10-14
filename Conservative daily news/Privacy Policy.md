@@ -177,6 +177,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Armed Kansas Man Shoots Aggressor In Self-Defense](https://www.thegunpage.com/armed-kansas-man-shoots-aggressor-in-self-defense/10611183)
 * [Is 38 Special a Good Self-Defense Round?](https://www.thegunpage.com/is-38-special-a-good-self-defense-round/10611180)
 * [Silencer Saturday #350: New Direct Thread Gemtech Silencers](https://www.thegunpage.com/silencer-saturday-350-new-direct-thread-gemtech-silencers/10611178)
 * [Results: 2024 NRA National High Power Rifle OTC Championships](https://www.thegunpage.com/results-2024-nra-national-high-power-rifle-otc-championships/10611176)
@@ -186,7 +187,6 @@ Recent Posts
 * [TFB Review: Magpul SL MP5 Stock](https://www.thegunpage.com/tfb-review-magpul-sl-mp5-stock/10611160)
 * [POTD: Revolver That Fires Rubber Balls Using Blank Cartridges](https://www.thegunpage.com/potd-revolver-that-fires-rubber-balls-using-blank-cartridges/10611161)
 * [TFB Podcast Roundup 150: The October 11th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-150-the-october-11th-roundup/10611162)
-* [Quality Thermal Made Easy: The Armasight Jockey 640 Compact Thermal Clip-On](https://www.thegunpage.com/quality-thermal-made-easy-the-armasight-jockey-640-compact-thermal-clip-on/10611156)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Democrat Policies are Killing Small Businesses](https://www.conservativedailynews.com/2024/10/democrat-policies-are-killing-small-businesses/#comment-782658)
 * charles wilkins on [Prominent Election Expert Suggests Pollsters ‘Have No Idea’ If They’re Accurately Measuring Trump Support](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/#comment-782655)
 * Catboss on [Trump Campaign Requests Military Aircraft, Bulletproof Glass Amid Security Threats](https://www.conservativedailynews.com/2024/10/trump-campaign-requests-military-aircraft-bulletproof-glass-amid-security-threats/#comment-782654)
 * Will Delito on [Trump Campaign Requests Military Aircraft, Bulletproof Glass Amid Security Threats](https://www.conservativedailynews.com/2024/10/trump-campaign-requests-military-aircraft-bulletproof-glass-amid-security-threats/#comment-782653)
@@ -236,7 +237,6 @@ Recent Comments
 * charles wilkins on [Clean-up Crew](https://www.conservativedailynews.com/2024/10/clean-up-crew-2/#comment-782637)
 * KayCee on [One Year Later](https://www.conservativedailynews.com/2024/10/one-year-later/#comment-782630)
 * KayCee on [How Is It Misinformation To Ask A Question](https://www.conservativedailynews.com/2024/10/how-is-it-misinformation-to-ask-a-question/#comment-782629)
-* Stanley Warner on [Chutzpah](https://www.conservativedailynews.com/2024/10/chutzpah/#comment-782628)
 
 [Close](#)
 
