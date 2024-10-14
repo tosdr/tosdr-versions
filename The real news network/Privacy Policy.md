@@ -79,8 +79,8 @@ Trending Posts
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
-* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
+* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * ['Look at our suffering!': Gaza's message to the world after a year of genocide](https://therealnews.com/gazas-message-to-the-world-after-a-year-of-genocide)
 
 Close
@@ -143,8 +143,8 @@ Trending Posts
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
-* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
+* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * ['Look at our suffering!': Gaza's message to the world after a year of genocide](https://therealnews.com/gazas-message-to-the-world-after-a-year-of-genocide)
 
 [Skip to content](#main)
