@@ -5,7 +5,7 @@ Click below to view deal
 
 [View Deal](https://stacksocial.com/sales/oystervpn-lifetime-subscription)
 
-[Unlock 1minAI Pro Lifetime for $39.99 Today!](https://stacksocial.com/sales/1minai-pro-plan-lifetime-subscription)
+[Koofr Cloud Storage 1TB – $40 Off! Use KOOFR40](https://stacksocial.com/sales/koofr-cloud-storage-plans-lifetime-subscription-1tb)
 
 [![StackSocial Logo mobile](https://cdnp1.stackassets.com/6e671abaa5d0fe1ecaa134783b0dc291dd778601/store/5028ebcfae8c4e22b8a83fe28feaa0422b45d2aa2bad934961999e4c43f2/StackSocial_2023_Logomark_Black_Knockout.svg)![StackSocial Logo](https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg)](https://stacksocial.com/)
 
