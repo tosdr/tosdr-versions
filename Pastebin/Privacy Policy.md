@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [Amazon Gift cards LEAKED](https://pastebin.com/gZc6w9DR)
+* [(𝟓𝟎𝟎 𝐄𝐔𝐑𝐎) 𝐌𝐀𝐊𝐄 𝐈𝐍 𝟏𝟎 𝐌𝐈𝐍𝐔𝐓𝐄𝐒 6UQ0](https://pastebin.com/e2eLaJqC)
     
-    JavaScript | 5 sec ago | 0.09 KB
+    JavaScript | 2 sec ago | 0.12 KB
     
-* [Leaked by Zak](https://pastebin.com/pAhPLwyy)
+* [(𝟓𝟎𝟎 𝐄𝐔𝐑𝐎) 𝐌𝐀𝐊𝐄 𝐈𝐍 𝟏𝟎 𝐌𝐈𝐍𝐔𝐓𝐄𝐒 8CCT](https://pastebin.com/8s1PCZPq)
     
-    JavaScript | 21 sec ago | 0.09 KB
+    JavaScript | 5 sec ago | 0.12 KB
     
-* [BTC ACCOUNTS HACKED](https://pastebin.com/VU9xmqiH)
+* [⭐ 𝐹𝑅𝐸𝐸 500 𝒢𝐼𝐹𝒯-𝒞𝒜𝑅𝒟 𝒢𝒰𝐼𝒟𝐸 2U8T](https://pastebin.com/mbebZWt7)
     
-    JavaScript | 39 sec ago | 0.09 KB
+    JavaScript | 7 sec ago | 0.12 KB
     
-* [Chaturbate Accounts with Tokens](https://pastebin.com/Zuar2wBS)
+* [⭐ get any VOUCHER for FREEE 0T9V](https://pastebin.com/TusGRHKx)
     
-    JavaScript | 55 sec ago | 0.09 KB
+    JavaScript | 8 sec ago | 0.12 KB
     
-* [NETFLIX UHD ACCOUNTS](https://pastebin.com/VW0LRyZH)
+* [Binance Account hack GVOX](https://pastebin.com/0Y9u9aXZ)
     
-    JavaScript | 1 min ago | 0.09 KB
+    JavaScript | 8 sec ago | 0.12 KB
     
-* [Binance Accounts Leaked](https://pastebin.com/FvgDZmsy)
+* [𝐹𝑅𝐸𝐸 500 𝒢𝐼𝐹𝒯-𝒞𝒜𝑅𝒟 𝒢𝒰𝐼𝒟𝐸𝒮 CSJL](https://pastebin.com/HFgVdkdE)
     
-    JavaScript | 1 min ago | 0.09 KB
+    JavaScript | 12 sec ago | 0.12 KB
     
-* [Brazzers accounts](https://pastebin.com/3ZbMpXE6)
+* [Leaked by Zak](https://pastebin.com/v4EjkxKG)
     
-    JavaScript | 2 min ago | 0.09 KB
+    JavaScript | 14 sec ago | 0.09 KB
     
-* [Amazon Gift cards LEAKED](https://pastebin.com/JVrH2wxZ)
+* [𝐹𝑅𝐸𝐸 500 𝒢𝐼𝐹𝒯-𝒞𝒜𝑅𝒟 𝒢𝒰𝐼𝒟𝐸𝒮 2OSN](https://pastebin.com/TuAqdjtx)
     
-    JavaScript | 2 min ago | 0.09 KB
+    JavaScript | 15 sec ago | 0.12 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
