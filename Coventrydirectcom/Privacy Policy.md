@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last Updated: November 2021
+Last Updated: October 2024
 
 **Privacy Notice and Acceptance**
 
