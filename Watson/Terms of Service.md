@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)12°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)16°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -37,7 +37,6 @@
     * [What the Wine](https://www.watson.ch/fr/what-the-wine/)
 
 * ![watson sur Facebook](https://www.watson.ch/fr/_watsui/static/img/socialicons/icon_filled_facebook.svg)
-* ![watson sur X](https://www.watson.ch/fr/_watsui/static/img/socialicons/icon_filled_x.svg)
 * ![watson sur Instagram](https://www.watson.ch/fr/_watsui/static/img/socialicons/icon_filled_instagram.svg)
 * ![watson sur Linkedin](https://www.watson.ch/fr/_watsui/static/img/socialicons/icon_filled_linkedin.svg)
 * [Téléchargez l’app!](https://www.watson.ch/fr/app)
@@ -55,26 +54,26 @@
 
 Thèmes du moment
 
+* [Football](https://www.watson.ch/fr/football/)
 * [People](https://www.watson.ch/fr/people/)
-* [Espionnage](https://www.watson.ch/fr/espionnage/)
-* [Hockey sur glace](https://www.watson.ch/fr/hockey-sur-glace/)
-* [Servette](https://www.watson.ch/fr/servette/)
 * [Promotion](https://www.watson.ch/fr/promotion/)
+* [Santé](https://www.watson.ch/fr/sante/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Animaux](https://www.watson.ch/fr/animaux/)
-* [Terrorisme](https://www.watson.ch/fr/terrorisme/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Police](https://www.watson.ch/fr/police/)
 * [Valais](https://www.watson.ch/fr/valais/)
+* [Zurich](https://www.watson.ch/fr/zurich/)
 * [France](https://www.watson.ch/fr/france/)
-* [NHL](https://www.watson.ch/fr/nhl/)
-* [armes](https://www.watson.ch/fr/armes/)
+* [Montagne](https://www.watson.ch/fr/montagne/)
 * [Afghanistan](https://www.watson.ch/fr/afghanistan/)
-* [National League](https://www.watson.ch/fr/national-league/)
-* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
+* [Justice](https://www.watson.ch/fr/justice/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Chine](https://www.watson.ch/fr/chine/)
+* [ukraine](https://www.watson.ch/fr/ukraine/)
+* [Poutine](https://www.watson.ch/fr/poutine/)
 * [Politique](https://www.watson.ch/fr/politique/)
-* [CFF](https://www.watson.ch/fr/cff/)
-* [Genève](https://www.watson.ch/fr/geneve/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [CFF](https://www.watson.ch/fr/cff/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
@@ -518,7 +517,7 @@ Le for se situe à Zurich.
 
 [0](https://www.watson.ch/fr/mywatson)
 
-[](#)[](#)[](#)[](#)[](#)
+[](#)[](#)[](#)[](#)
 
 [0](https://www.watson.ch/fr/mywatson)
 
