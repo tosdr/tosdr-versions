@@ -240,16 +240,23 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### Priority Support
+#### Great Users
 
   
 
-#### Priority Support is staffed with experienced technicians and is an immediate, hands on approach to solving your unique problems.
+![Partner](/content/images/content/strip/medicoweb.com.png)
 
   
 
-[Get Priority Support](https://www.dynu.com/Membership)  
+![Partner](/content/images/content/strip/mediastar.id.png)
+
   
+
+![Partner](/content/images/content/strip/businesspcsupport.com.png)
+
+  
+
+![Partner](/content/images/content/strip/erp-sarajevo.com.png)
 
 ### News
 
