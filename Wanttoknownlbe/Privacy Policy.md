@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/kijk-ook-weer-youtube-covid-censuur-verwijderd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/wanttoknow-nlbe-gratis-maar-niet-voor-niets/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
