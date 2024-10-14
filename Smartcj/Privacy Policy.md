@@ -6,25 +6,25 @@
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://smartcj.com/forum/search.php?search_id=unanswered&sid=fb6ec7209671ba7ce06ef0655b24532b)
-    * [Active topics](https://smartcj.com/forum/search.php?search_id=active_topics&sid=fb6ec7209671ba7ce06ef0655b24532b)
+    * [Unanswered topics](https://smartcj.com/forum/search.php?search_id=unanswered&sid=426e53893007053b7ca259869edb5d39)
+    * [Active topics](https://smartcj.com/forum/search.php?search_id=active_topics&sid=426e53893007053b7ca259869edb5d39)
     
-    * [Search](https://smartcj.com/forum/search.php?sid=fb6ec7209671ba7ce06ef0655b24532b)
+    * [Search](https://smartcj.com/forum/search.php?sid=426e53893007053b7ca259869edb5d39)
     
-    * [Members](https://smartcj.com/forum/memberlist.php?sid=fb6ec7209671ba7ce06ef0655b24532b)
-    * [The team](https://smartcj.com/forum/memberlist.php?mode=team&sid=fb6ec7209671ba7ce06ef0655b24532b)
+    * [Members](https://smartcj.com/forum/memberlist.php?sid=426e53893007053b7ca259869edb5d39)
+    * [The team](https://smartcj.com/forum/memberlist.php?mode=team&sid=426e53893007053b7ca259869edb5d39)
     
-* [FAQ](https://smartcj.com/forum/app.php/help/faq?sid=fb6ec7209671ba7ce06ef0655b24532b "Frequently Asked Questions")
-* [About](https://smartcj.com/forum/app.php/about?sid=fb6ec7209671ba7ce06ef0655b24532b "About")
-* [Feature List](https://smartcj.com/forum/app.php/feature-list?sid=fb6ec7209671ba7ce06ef0655b24532b "Feature List")
-* [How To Buy](https://smartcj.com/forum/app.php/how-to-buy?sid=fb6ec7209671ba7ce06ef0655b24532b "How To Buy")
-* [Free Version](https://smartcj.com/forum/app.php/free-version?sid=fb6ec7209671ba7ce06ef0655b24532b "Free Version")
-* [Contacts](https://smartcj.com/forum/app.php/contacts?sid=fb6ec7209671ba7ce06ef0655b24532b "Contacts")
-* [Login](https://smartcj.com/forum/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=fb6ec7209671ba7ce06ef0655b24532b "Login")
-* [Register](https://smartcj.com/forum/ucp.php?mode=register&sid=fb6ec7209671ba7ce06ef0655b24532b)
+* [FAQ](https://smartcj.com/forum/app.php/help/faq?sid=426e53893007053b7ca259869edb5d39 "Frequently Asked Questions")
+* [About](https://smartcj.com/forum/app.php/about?sid=426e53893007053b7ca259869edb5d39 "About")
+* [Feature List](https://smartcj.com/forum/app.php/feature-list?sid=426e53893007053b7ca259869edb5d39 "Feature List")
+* [How To Buy](https://smartcj.com/forum/app.php/how-to-buy?sid=426e53893007053b7ca259869edb5d39 "How To Buy")
+* [Free Version](https://smartcj.com/forum/app.php/free-version?sid=426e53893007053b7ca259869edb5d39 "Free Version")
+* [Contacts](https://smartcj.com/forum/app.php/contacts?sid=426e53893007053b7ca259869edb5d39 "Contacts")
+* [Login](https://smartcj.com/forum/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=426e53893007053b7ca259869edb5d39 "Login")
+* [Register](https://smartcj.com/forum/ucp.php?mode=register&sid=426e53893007053b7ca259869edb5d39)
 
-* [Home](https://smartcj.com/forum/index.php?sid=fb6ec7209671ba7ce06ef0655b24532b)
-* [Search](https://smartcj.com/forum/search.php?sid=fb6ec7209671ba7ce06ef0655b24532b "View the advanced search options")
+* [Home](https://smartcj.com/forum/index.php?sid=426e53893007053b7ca259869edb5d39)
+* [Search](https://smartcj.com/forum/search.php?sid=426e53893007053b7ca259869edb5d39 "View the advanced search options")
 
 SmartCJ Support Forum - Privacy policy
 --------------------------------------
@@ -39,19 +39,21 @@ Your account will at a bare minimum contain a uniquely identifiable name (herein
   
 Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “SmartCJ Support Forum”, so please guard it carefully and under no circumstance will anyone affiliated with “SmartCJ Support Forum”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your email, then the phpBB software will generate a new password to reclaim your account.
 
-* [Home](https://smartcj.com/forum/index.php?sid=fb6ec7209671ba7ce06ef0655b24532b)
+* [Home](https://smartcj.com/forum/index.php?sid=426e53893007053b7ca259869edb5d39)
 * All times are UTC
-* [Delete cookies](https://smartcj.com/forum/ucp.php?mode=delete_cookies&sid=fb6ec7209671ba7ce06ef0655b24532b)
-* [Members](https://smartcj.com/forum/memberlist.php?sid=fb6ec7209671ba7ce06ef0655b24532b "View complete list of members")
-* [The team](https://smartcj.com/forum/memberlist.php?mode=team&sid=fb6ec7209671ba7ce06ef0655b24532b)
+* [Delete cookies](https://smartcj.com/forum/ucp.php?mode=delete_cookies&sid=426e53893007053b7ca259869edb5d39)
+* [Members](https://smartcj.com/forum/memberlist.php?sid=426e53893007053b7ca259869edb5d39 "View complete list of members")
+* [The team](https://smartcj.com/forum/memberlist.php?mode=team&sid=426e53893007053b7ca259869edb5d39)
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
   
 [phpBB SiteMaker](https://github.com/blitze/phpBB-ext-sitemaker)
 
-[Privacy](https://smartcj.com/forum/ucp.php?mode=privacy&sid=fb6ec7209671ba7ce06ef0655b24532b "Privacy") | [Terms](https://smartcj.com/forum/ucp.php?mode=terms&sid=fb6ec7209671ba7ce06ef0655b24532b "Terms")
+[Privacy](https://smartcj.com/forum/ucp.php?mode=privacy&sid=426e53893007053b7ca259869edb5d39 "Privacy") | [Terms](https://smartcj.com/forum/ucp.php?mode=terms&sid=426e53893007053b7ca259869edb5d39 "Terms")
 
 [](#)
 
 [](#)
+
+![](/forum/app.php/cron/cron.task.core.tidy_sessions?sid=426e53893007053b7ca259869edb5d39)
