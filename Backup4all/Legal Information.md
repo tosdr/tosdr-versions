@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to customize email notifications](https://www.backup4all.com/how-to-customize-email-notifications-kb.html)  
+* [How to back up data files from Mandic using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-mandic-using-backup4all-kb.html)  
     
-* [How to back up data files from NiftyClouds us ...](https://www.backup4all.com/how-to-back-up-data-files-from-niftyclouds-using-backup4all-kb.html)  
+* [How to restore a backup to HiDrive](https://www.backup4all.com/how-to-restore-a-backup-to-hidrive-kb.html)  
     
-* [How to back up Outlook.com (former Hotmail) e ...](https://www.backup4all.com/how-to-back-up-hotmail-emails-kb.html)  
+* [USB backup](https://www.backup4all.com/usb-backup-kb.html)  
     
-* [How to enable on Linux the ciphers supported ...](https://www.backup4all.com/how-to-enable-on-linux-the-ciphers-supported-by-backup4all-kb.html)  
+* [How to shutdown computer after backup](https://www.backup4all.com/how-to-shutdown-computer-after-backup-kb.html)  
     
-* [How to back up data files from NetApp using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-netapp-using-backup4all-kb.html)  
+* [Configure Backup4all for remote monitoring](https://www.backup4all.com/configure-backup4all-for-remote-monitoring-kb.html)  
     
 
 Choose language:
