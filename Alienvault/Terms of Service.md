@@ -171,9 +171,9 @@ be\_ixf;ym\_202410 d\_14; ct\_50
             
             Blog: Security Essentials
             
-            ##### Enhancing Cyber Resilience in the Financial Services Industry
+            ##### Snapping Safely: The Fun and Risks of Snapchat for Teens
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/enhancing-cyber-resilience-in-the-financial-services-industry)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/snapping-safely-the-fun-and-risks-of-snapchat-for-teens)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -201,9 +201,9 @@ be\_ixf;ym\_202410 d\_14; ct\_50
             
             Whitepaper
             
-            ##### Why Organizations Are Prioritizing Incident Readiness and Response in the Face of Regulatory Scrutiny
+            ##### LevelBlue Labs: Whitepaper
             
-            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/orgs-prioritize-incident-response)
+            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/whitepaper-test)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
@@ -511,13 +511,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Adithya Bharath](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Theresa Lanowitz
+#### Adithya Bharath
 
-Oct 9, 2024
+Oct 14, 2024
 
-### [Enhancing Cyber Resilience in the Financial Services Industry](https://cybersecurity.att.com/blogs/security-essentials/enhancing-cyber-resilience-in-the-financial-services-industry)
+### [Snapping Safely: The Fun and Risks of Snapchat for Teens](https://cybersecurity.att.com/blogs/security-essentials/snapping-safely-the-fun-and-risks-of-snapchat-for-teens)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
