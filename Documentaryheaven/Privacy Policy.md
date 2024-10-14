@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Lost Pyramids of Caral](/wp-content/thumbnails/2153-100x70.jpg?x53432)
+* [![A Complete History Of My Sexual Failures](/wp-content/thumbnails/1085-100x70.jpg?x53432)
     
-    The Lost Pyramids of Caral
+    A Complete History Of My Sexual Failures
     
-    This is a pyramid that ranks as one of the largest in the world, period. It’s one that covers on the surface of the mound it covers like 15 football fields. The volume of it is some, we calculate some](https://documentaryheaven.com/the-lost-pyramids-of-caral/ "The Lost Pyramids of Caral")
-* [![The Brandon Teena Story](/wp-content/thumbnails/16350-100x70.jpg?x53432)
+    Chris Waitt, the star and maker of the documentary, appears to be in his mid 30s and he has had his fair share of girlfriends -- all of whom have dumped him. He decides to find out why and he attempts](https://documentaryheaven.com/a-complete-history-of-my-sexual-failures/ "A Complete History Of My Sexual Failures")
+* [![Affluenza](/wp-content/thumbnails/592-100x70.png?x53432)
     
-    The Brandon Teena Story
+    Affluenza
     
-    Brandon Tenna was a transgender man from Lincoln, Nebraska in the United States, who was the victim of a violent hate crime in 1993 and was later murdered in Humboldt, Nebraska, alongside Phillip DeV](https://documentaryheaven.com/brandon-teena-story/ "The Brandon Teena Story")
-* [![Bill Gates Talks at TED and Unleashes Mosquitoes](/wp-content/thumbnails/144-100x70.png?x53432)
+    Through revealing personal stories, expert commentary, hilarious old film clips, dramatized vignettes, and "anti-commercial" breaks, Affluenza examines the high cost of achieving the most extravagant](https://documentaryheaven.com/affluenza/ "Affluenza")
+* [![Generation OS13: The new culture of resistance](/wp-content/thumbnails/6101-100x70.jpg?x53432)
     
-    Bill Gates Talks at TED and Unleashes Mosquitoes
+    Generation OS13: The new culture of resistance
     
-    On this year’s TED Talks 2009 in California Bill Gates shocked his audience of rich people with the unleashing of a swarm of mosquitoes, so that not only poor people can experience them. Further more](https://documentaryheaven.com/bill-gates-talks-at-ted-and-unleashes-mosquitoes/ "Bill Gates Talks at TED and Unleashes Mosquitoes")
-* [![UFO Cults: Heaven’s Gate](/wp-content/thumbnails/16056-100x70.jpg?x53432)
+    Generation OS13 is an explosive insight into the attack on civil liberties occurring in western democracies and how artists, musicians, journalists and authors encourage the peoples right to resist ag](https://documentaryheaven.com/generation-os13-the-new-culture-of-resistance/ "Generation OS13: The new culture of resistance")
+* [![The Fake Genius: A $30 BILLION Fraud](/wp-content/thumbnails/16703-100x70.jpg?x53432)
     
-    UFO Cults: Heaven’s Gate
+    The Fake Genius: A $30 BILLION Fraud
     
-    The Heaven's Gate incident revealed that people will go to extreme lengths in the name of their belief. and the approach of the Millenium only fanned the flames of a curious phenomenon, UFO cults. A](https://documentaryheaven.com/ufo-cults-heavens-gate/ "UFO Cults: Heaven’s Gate")
-* [![The Devil Came On Horseback](/wp-content/thumbnails/5793-100x70.jpg?x53432)
+    Everyone likes a story about an underdog, someone out of the ordinary an unlikely genius who comes once in a lifetime, someone who wants to change the world for good... this is not one of those stori](https://documentaryheaven.com/the-fake-genius-a-30-billion-fraud/ "The Fake Genius: A $30 BILLION Fraud")
+* [![U93 The Flight That Fought Back](/wp-content/thumbnails/6018-100x70.jpg?x53432)
     
-    The Devil Came On Horseback
+    U93 The Flight That Fought Back
     
-    The tragedy taking place in Darfur as seen through the eyes of an American witness and who has since returned to the US to take action to stop it.Using the photographs and first hand testimony of fo](https://documentaryheaven.com/the-devil-came-on-horseback/ "The Devil Came On Horseback")
+    A story of september 11. United flight 93 was one of four hijacked planes that day. But the crew and passengers of this flight got information about WTC and other hijacked planes on air phone. So the](https://documentaryheaven.com/u93-the-flight-that-fought-back/ "U93 The Flight That Fought Back")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
