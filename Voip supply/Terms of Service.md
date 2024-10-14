@@ -278,7 +278,7 @@ We may ask for this help code:
     * [Mitel](https://www.voipsupply.com/manufacturer/mitel)
     * [Mobotix](https://www.voipsupply.com/manufacturer/mobotix)
     * [Netgear](https://www.voipsupply.com/manufacturer/netgear)
-    * [NVT Phybridge](https://www.voipsupply.com/nvt-phybridge)
+    * [NVT Phybridge](https://www.voipsupply.com//manufacturer/nvt-phybridge)
     * [Panasonic](https://www.voipsupply.com/manufacturer/panasonic)
     * [Patton](https://www.voipsupply.com/manufacturer/patton)
     * [Plantronics](https://www.voipsupply.com/manufacturer/plantronics)
