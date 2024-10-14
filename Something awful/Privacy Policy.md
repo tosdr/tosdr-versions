@@ -205,24 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Bareback Exchange](https://www.somethingawful.com/weekend-web/bareback-exchange/1/)
-* [Dogster, Wrong Planet, and American Women Suck](https://www.somethingawful.com/weekend-web/dogs-aspergers-women/1/)
-* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
-* [Call of Cthulhu "1990's Handbook" - Saved by the Yith (part 1)](https://www.somethingawful.com/dungeons-and-dragons/morton-downey-cobain/1/)
-* [Ilsa - She Wolf of the SS - Part Two](https://www.somethingawful.com/movie-reviews/ilsa-she-wolf-2/1/)
+* [Reaching for the Great Beyond: Six Steps to Success](https://www.somethingawful.com/news/six-steps-success/1/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [The Annotated Richard McBeef](https://www.somethingawful.com/news/richard-mcbeef/1/)
+* [The Five-Day Prank](https://www.somethingawful.com/icq-pranks/icq-transcript-fiveday/1/)
+* [The 7 Creepiest Articles About Edward Snowden's Girlfriend](https://www.somethingawful.com/news/snowden-pole-dancer/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/lan-midwest.gif) [My girlfriend made me add her 11 year old son as a friend on PlayStation](http://forums.somethingawful.com/showthread.php?threadid=4072561 "My girlfriend made me add her 11 year old son as a friend on PlayStation")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [What got you interested in SA?](http://forums.somethingawful.com/showthread.php?threadid=4072564 "What got you interested in SA?")
 
 ### Random Articles
 
-* [The Orc of Wes'sv'Urginia](https://www.somethingawful.com/webcam-ward/wow-threaten/)
-* [Welcome to The American Register!](https://www.somethingawful.com/awful-links/awful-link-706/)
-* [Credit Card Chip Reader FAQ](https://www.somethingawful.com/news/credit-chip-confusion/)
-* [Black Ops: Thanks for the Desk by the Door](https://www.somethingawful.com/news/black-cia-operative/)
-* [A Sink Cat, A Cool Rug](https://www.somethingawful.com/comedy-goldmine/sink-cat-rug/1/)
+* [YEMENFREEDOMNEWS.YE](https://www.somethingawful.com/news/yemen-news-saleh/)
+* [The Arabian Nights Entertainments!](https://www.somethingawful.com/photoshop-phriday/arabian-night-entertainment/1/)
+* [I Hate You Page 127](https://www.somethingawful.com/cliff-yablonski/i-hate-you-127/)
+* [Sony's Robot People](https://www.somethingawful.com/news/sonys-robot-people/)
+* [Music Magazines](https://www.somethingawful.com/your-band-sucks/music-magazines/)
 
 [Random!](https://www.somethingawful.com/random/)
 
