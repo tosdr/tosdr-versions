@@ -197,57 +197,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Terri Winfield
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=214170062)  
-MOSELA GROUP Pty(ltd)
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=43240169)  
+van Schaik rentals
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=6099952)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=31992141)  
+MONSTER SECURITY SERVICES
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=177057297)  
-Van Der Merwe Olieverspreiders
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=15731552)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=123491947)  
-Tracknetics
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=204284686)  
+Imvubu General Trading
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=190930646)  
-IEMS (PTY) ltd
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=166344825)  
+ELLIE'S CLEANING CHICKS
 
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=56476761)  
-VA AND M BUSINESSES (PTY)LTD
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=26587414)  
+Kainos (Pty) Ltd
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=196198047)  
-MONSTER SECURITY GUARDING
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=177392539)  
+Lindani Protection Services & Projects
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=138417876)  
-Calonet
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=162978019)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=148769304)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=120574503)  
+United Paintball Federation
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=89772588)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=4394597)  
+Lizzy Pop PTY(Ltd)
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=162031693)  
-VIR Electrical (PTY) LTD
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=87544296)  
+One2b
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=201340767)  
-CBR Verwe/Paints
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=105465449)  
+Little Nutty Professors
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=35765049)  
-NIMAWELL
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=170568190)  
+Westside Car Audio CC
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=195655977)  
-TIGERDSL
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=94048326)  
+Lemba Truck Stop
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=8ae9cc0dd8b64fc0bf80b525d2529426508a878775928d9d09efd151bae4b57c&c=153126886)  
-Salvage Genie
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=84a1b0c19928c3c4a9b3828465af24ed98f4592c944111b49e0620c5350a4744&c=55546418)  
+webb it services
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
