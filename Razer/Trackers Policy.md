@@ -1,5 +1,13 @@
 Skip to Header Skip to Main Content Skip to Footer
 
+You are currently on the United States site.
+
+Select a location to view location-specific content and shop online.
+
+Switch to
+
+[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcookies)
+
 ![](../assets/images/mega-menu/menu-open.png)
 
 ![](../assets/images/mega-menu/menu-close.png)
