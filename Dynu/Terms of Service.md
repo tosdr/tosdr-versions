@@ -304,23 +304,19 @@ m. Headings. Headings used in this Agreement and the Additional Policies are sol
 n. Entire Agreement. This Agreement, together with the Additional Policies, constitute the complete and exclusive statement of all mutual understandings between You and Dynu Systems with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.  
   
 
-#### Great Users
+### Why migrate to us?
+
+#### We guarantee our commitment to quality
 
   
 
-![Partner](/content/images/content/strip/medicoweb.com.png)
+#### Performance
 
-  
+#### Support
 
-![Partner](/content/images/content/strip/mediastar.id.png)
+#### Security
 
-  
-
-![Partner](/content/images/content/strip/businesspcsupport.com.png)
-
-  
-
-![Partner](/content/images/content/strip/erp-sarajevo.com.png)
+#### Uptime
 
 ### News
 
