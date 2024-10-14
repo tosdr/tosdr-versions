@@ -126,6 +126,12 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Dinner food on table](https://www.conservativedailynews.com/wp-content/uploads/2018/07/Dinner-food-on-table.jpg)](https://www.conservativedailynews.com/2024/10/your-slow-cooker-is-a-great-holiday-helper/)
+    
+    [Your Slow Cooker Is a Great Holiday Helper](https://www.conservativedailynews.com/2024/10/your-slow-cooker-is-a-great-holiday-helper/)
+    
+    October 14, 2024
+    
 * [![Tim Walz electoral college](https://www.conservativedailynews.com/wp-content/uploads/2024/10/02-elccollege-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/its-time-to-close-the-door-for-good-on-ranked-choice-voting/)
     
     [It’s Time To Close The Door For Good On Ranked-Choice Voting](https://www.conservativedailynews.com/2024/10/its-time-to-close-the-door-for-good-on-ranked-choice-voting/)
@@ -168,15 +174,10 @@ Recent Posts
     
     October 13, 2024
     
-* [![Kamala Harris drunk and stupid](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamala-isnt-just-stupid-shes-dangerous/)
-    
-    [Kamala Isn’t Just Stupid, She’s Dangerous](https://www.conservativedailynews.com/2024/10/kamala-isnt-just-stupid-shes-dangerous/)
-    
-    October 13, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Okeechobee police chief still in hiding, now flouting multiple state laws](https://www.thegunpage.com/okeechobee-police-chief-still-in-hiding-now-flouting-multiple-state-laws/10611188)
 * [Armed Kansas Man Shoots Aggressor In Self-Defense](https://www.thegunpage.com/armed-kansas-man-shoots-aggressor-in-self-defense/10611183)
 * [Is 38 Special a Good Self-Defense Round?](https://www.thegunpage.com/is-38-special-a-good-self-defense-round/10611180)
 * [Silencer Saturday #350: New Direct Thread Gemtech Silencers](https://www.thegunpage.com/silencer-saturday-350-new-direct-thread-gemtech-silencers/10611178)
@@ -186,7 +187,6 @@ Recent Posts
 * [New: Winchester Model 98 Signal Cannon](https://www.thegunpage.com/new-winchester-model-98-signal-cannon/10611164)
 * [TFB Review: Magpul SL MP5 Stock](https://www.thegunpage.com/tfb-review-magpul-sl-mp5-stock/10611160)
 * [POTD: Revolver That Fires Rubber Balls Using Blank Cartridges](https://www.thegunpage.com/potd-revolver-that-fires-rubber-balls-using-blank-cartridges/10611161)
-* [TFB Podcast Roundup 150: The October 11th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-150-the-october-11th-roundup/10611162)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Here’s How Much More Everyday Items Cost Than When You Voted Four Years Ago](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/#comment-782668)
 * Stanley Warner on [Democrat Policies are Killing Small Businesses](https://www.conservativedailynews.com/2024/10/democrat-policies-are-killing-small-businesses/#comment-782658)
 * charles wilkins on [Prominent Election Expert Suggests Pollsters ‘Have No Idea’ If They’re Accurately Measuring Trump Support](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/#comment-782655)
 * Catboss on [Trump Campaign Requests Military Aircraft, Bulletproof Glass Amid Security Threats](https://www.conservativedailynews.com/2024/10/trump-campaign-requests-military-aircraft-bulletproof-glass-amid-security-threats/#comment-782654)
@@ -236,7 +237,6 @@ Recent Comments
 * Stanley Warner on [America’s Bipartisan Spending Suicide Pact](https://www.conservativedailynews.com/2024/10/americas-bipartisan-spending-suicide-pact/#comment-782638)
 * charles wilkins on [Clean-up Crew](https://www.conservativedailynews.com/2024/10/clean-up-crew-2/#comment-782637)
 * KayCee on [One Year Later](https://www.conservativedailynews.com/2024/10/one-year-later/#comment-782630)
-* KayCee on [How Is It Misinformation To Ask A Question](https://www.conservativedailynews.com/2024/10/how-is-it-misinformation-to-ask-a-question/#comment-782629)
 
 [Close](#)
 
