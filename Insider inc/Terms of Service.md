@@ -21,7 +21,7 @@ Terms of Service
 
 **THESE TERMS OF SERVICE CONTAIN BINDING PROVISIONS REGARDING DISPUTE RESOLUTION. PLEASE READ THE "DISPUTE RESOLUTION" SECTION 17 OF THESE TERMS OF SERVICE CAREFULLY, AS IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE OR PARTICIPATE IN A LAWSUIT FILED IN COURT.**
 
-Last updated: February 22, 2023
+Last updated: October 14, 2024
 
 Welcome to the websites, applications and services provided by Insider Inc., a Delaware corporation ("Insider Inc."), which include without limitation [www.businessinsider.com](https://www.businessinsider.com/), [www.tech insider.io](https://www.techinsider.io/), [www.insider.com](https://www.insider.com/), [www.insider-inc.com](http://www.insider-inc.com/), and [markets.businessinsider.com](https://markets.businessinsider.com/) (the "Sites"). These terms govern your access and use of the Sites.
 
@@ -121,6 +121,8 @@ You may use the Sites only for lawful purposes and in accordance with these Term
 * To engage in any other conduct that restricts or inhibits anyone's use or enjoyment of the Sites, or which, as determined by us, may harm Insider Inc. or users of the Sites or expose them to liability.
     
 * To monitor, scrape, index, or otherwise copy any of the material on the Sites by means of any robot, spider, or other automatic device, process, or means, regardless of whether such use may be considered a fair use under United States copyright law.
+    
+* To develop any software program, model, algorithm, or generative AI tool, including, but not limited to, training or using the Sites' content in connection with the development or operation of a machine learning or artificial intelligence (AI) system (including any use of the Sites' content for training, fine tuning, or grounding the machine learning or AI system or as part of retrieval-augmented generation).
     
 
 Additionally, you agree not to interfere with or attempt to interfere with the proper working of the Sites, including but not limited to:
@@ -278,7 +280,7 @@ b.     Arbitration Agreement.
 
          (v)    THE PARTIES UNDERSTAND THAT ARBITRATION MEANS THAT AN ARBITRATOR AND NOT A JUDGE OR JURY WILL DECIDE CLAIMS, AND THAT RIGHTS TO PREHEARING EXCHANGE OF INFORMATION AND APPEALS MAY BE LIMITED IN ARBITRATION. **YOU ACKNOWLEDGE AND AGREE THAT YOU AND INSIDER INC. ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY TO THE MAXIMUM EXTENT PERMITTED BY LAW.**
 
-c.      Class Arbitration & Collective Relief Waiver. YOU AND INSIDER INC. ACKNOWLEDGE AND AGREE THAT, TO THE MAXIMUM EXTENT ALLOWED BY LAW, EXCEPT AS SET OUT OTHERWISE IN THIS CLAUSE 17(c) AND CLAUSE 17(e) BELOW, ANY ARBITRATION SHALL BE CONDUCTED IN AN INDIVIDUAL CAPACITY ONLY AND NOT AS A CLASS OR OTHER CONSOLIDATED ACTION AND THE ARBITRATOR MAY AWARD RELIEF ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO RESOLVE AN INDIVIDUAL PARTY'S CLAIM, UNLESS INSIDER INC. CONSENTS TO CONSOLIDATE IN WRITING.
+c.      Class Arbitration & Collective Relief Waiver. YYOU AND INSIDER INC. ACKNOWLEDGE AND AGREE THAT, TO THE MAXIMUM EXTENT ALLOWED BY LAW, EXCEPT AS SET OUT OTHERWISE IN THIS CLAUSE 17(c) AND CLAUSE 17(e) BELOW, ANY ARBITRATION SHALL BE CONDUCTED IN AN INDIVIDUAL CAPACITY ONLY AND NOT AS A CLASS OR OTHER REPRESENTATIVE ACTION AND THE ARBITRATOR MAY AWARD RELIEF ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO RESOLVE AN INDIVIDUAL PARTY'S CLAIM, NOTWITHSTANDING THE PRECEDING SENTENCE, YOU ACKNOWLEDGE AND AGREE THAT ANY ARBITRATION INVOLVING YOU MAY PROCEED ON A CONSOLIDATED BASIS, THOUGH IT MAY DO SO ONLY IF UNLESS INSIDER INC. CONSENTS TO CONSOLIDATE IN WRITING.
 
 d.     Arbitration Rules, Initiation, Location & Procedure. If available, the arbitration will be administered by the National Arbitration and Mediation ("NAM") and resolved before a single arbitrator. In no event shall any arbitration be administered by the American Arbitration Association ("AAA"). Except as modified by this section 17, NAM will administer the arbitration according to applicable NAM rules and procedures available at www.namadr.com or by emailing NAM's Commercial Dept at commercial@namadr.com. If you are initiating arbitration, a copy of the demand shall also be emailed to legal@insider.com. If Insider Inc. is initiating arbitration, it will serve a copy of the demand to the email address associated with your Insider Inc. account. Subject to NAM rules and procedures, the arbitrator will have discretion to allow the filing of dispositive motions if they are likely to efficiently resolve or narrow issues in dispute. Unless prohibited by law, all arbitration proceedings will be confidential and closed to the public and any parties other than you and Insider Inc. (and each party's authorized representatives and agents), and all records relating thereto will be permanently sealed to the extent permitted by law.
 
