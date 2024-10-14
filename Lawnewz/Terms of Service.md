@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Left to right: Greg Abbott and Janis Graham Jack](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Abbott-Jack-432x243.jpg)](https://lawandcrime.com/judiciary/must-be-removed-fifth-circuit-bounces-clinton-appointed-judge-from-long-running-texas-foster-care-system-abuse-case-after-greg-abbott-asks-for-her-removal/)
+1. [![Sandi Ramona Goodman](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Sandi-Ramona-Goodman-432x243.jpg)](https://lawandcrime.com/crime/mommy-whoops-us-when-were-loud-mom-blamed-3-year-olds-significant-burns-on-bug-bites-but-her-google-searches-showed-otherwise-cops-say/)
     
-    ### ['Must be removed': Fifth Circuit bounces Clinton-appointed judge from long-running Texas foster care system abuse case after Greg Abbott asks for her removal](https://lawandcrime.com/judiciary/must-be-removed-fifth-circuit-bounces-clinton-appointed-judge-from-long-running-texas-foster-care-system-abuse-case-after-greg-abbott-asks-for-her-removal/)
+    ### ['Mommy whoops us when we're loud': Mom blamed 3-year-old's 'significant burns' on bug bites but her Google searches showed otherwise, cops say](https://lawandcrime.com/crime/mommy-whoops-us-when-were-loud-mom-blamed-3-year-olds-significant-burns-on-bug-bites-but-her-google-searches-showed-otherwise-cops-say/)
     
-2. [![Gerry Gelpi (Jefferson Parish Sheriff's Office).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/gelpi-432x243.jpg)](https://lawandcrime.com/crime/you-were-the-only-demon-that-day-judge-upbraids-murderer-who-claimed-he-was-the-son-of-god-when-he-stabbed-demon-neighbor-16-times/)
+2. [![DTE worker imposters](https://am24.mediaite.com/lc/cnt/uploads/2024/10/DTE-worker-imposters-432x243.jpg)](https://lawandcrime.com/crime/were-checking-for-gas-leaks-men-posing-as-energy-workers-in-upscale-neighborhood-murder-jewelry-store-owner-in-basement-and-tie-up-wife-cops-say/)
     
-    ### ['You were the only demon that day': Judge upbraids murderer who claimed he was the 'son of God' when he stabbed 'demon' neighbor 16 times](https://lawandcrime.com/crime/you-were-the-only-demon-that-day-judge-upbraids-murderer-who-claimed-he-was-the-son-of-god-when-he-stabbed-demon-neighbor-16-times/)
+    ### ['We're checking for gas leaks:' Men posing as energy workers in upscale neighborhood murder jewelry store owner in basement and tie up wife, cops say](https://lawandcrime.com/crime/were-checking-for-gas-leaks-men-posing-as-energy-workers-in-upscale-neighborhood-murder-jewelry-store-owner-in-basement-and-tie-up-wife-cops-say/)
     
-3. [![Left to right: Jack Smith, Tanya Chutkan, Donald Trump](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Smith-Chutkan-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/the-court-will-deny-jan-6-judge-gives-trump-a-break-by-rejecting-new-efforts-to-pursue-maximum-transparency-over-redacted-jack-smith-immunity-brief/)
+3. [![Lee Gilley, Christa Bauer Gilley](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Lee-Gilley-Christa-Gilley-432x243.jpg)](https://lawandcrime.com/crime/software-consultant-strangled-pregnant-wife-and-mom-of-2-tried-to-make-her-death-look-like-drug-overdose-suicide-after-argument-at-home-court-docs/)
     
-    ### ['The court will deny': Jan. 6 judge gives Trump a break by rejecting new efforts to 'pursue maximum transparency' over redacted Jack Smith immunity brief](https://lawandcrime.com/high-profile/the-court-will-deny-jan-6-judge-gives-trump-a-break-by-rejecting-new-efforts-to-pursue-maximum-transparency-over-redacted-jack-smith-immunity-brief/)
+    ### [Software consultant strangled pregnant wife and mom of 2, tried to make her death look like drug overdose suicide after argument at home: Court docs](https://lawandcrime.com/crime/software-consultant-strangled-pregnant-wife-and-mom-of-2-tried-to-make-her-death-look-like-drug-overdose-suicide-after-argument-at-home-court-docs/)
     
-4. [![Virginia McCullough, inset on the left; Lois and John McCullough, inset on the right – against an image of the family's home.](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Virginia-McCullough-Parents-432x243.jpg)](https://lawandcrime.com/crime/i-know-i-dont-seem-100-evil-woman-murdered-her-parents-and-stashed-their-bodies-inside-makeshift-tombs-in-the-family-home-for-years-while-living-on-their-pensions/)
+4. [![Inset: Monica Tutt (Dallas County Jail). Background: Scene of the crash (KXAS).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Monica-Tutt-432x243.png)](https://lawandcrime.com/crime/drunk-mom-complained-her-chance-at-a-nursing-career-was-over-after-she-abandoned-severely-injured-9-year-old-son-in-crash-cops/)
     
-    ### ['I know I don't seem 100% evil': Woman murdered her parents and stashed their bodies inside 'makeshift tombs' in the family home for years while living on their pensions](https://lawandcrime.com/crime/i-know-i-dont-seem-100-evil-woman-murdered-her-parents-and-stashed-their-bodies-inside-makeshift-tombs-in-the-family-home-for-years-while-living-on-their-pensions/)
+    ### [Drunk mom complained 'her chance at a nursing career was over' after she abandoned severely injured 9-year-old son in crash: Cops](https://lawandcrime.com/crime/drunk-mom-complained-her-chance-at-a-nursing-career-was-over-after-she-abandoned-severely-injured-9-year-old-son-in-crash-cops/)
     
-5. [![Inset: Carmen Maldonado (The Rizzuto Law Firm). Background: The funeral home that is accused of sending Maldonado's body to the wrong country (WNBC).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/funeralhome-432x243.jpg)](https://lawandcrime.com/lawsuit/funeral-home-sent-casket-with-body-to-wrong-country-to-decompose-lawsuit-says/)
+5. [![Aaron Spencer](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Aaron-Spencer--432x243.jpg)](https://lawandcrime.com/crime/dad-frantically-called-911-to-report-14-year-old-daughter-missing-tracked-down-and-shot-rapist-and-was-arrested-for-murder-wife/)
     
-    ### [Funeral home sent casket with body to wrong country to decompose, lawsuit says](https://lawandcrime.com/lawsuit/funeral-home-sent-casket-with-body-to-wrong-country-to-decompose-lawsuit-says/)
+    ### [Dad frantically called 911 to report 14-year-old daughter missing, tracked down and shot rapist, and faced 'outrageous' arrest for murder: Wife](https://lawandcrime.com/crime/dad-frantically-called-911-to-report-14-year-old-daughter-missing-tracked-down-and-shot-rapist-and-was-arrested-for-murder-wife/)
     
 
 [](http://eepurl.com/c89Jdb)
