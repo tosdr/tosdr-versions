@@ -18,11 +18,13 @@
 
 Community
 
-[Partychan](https://chan.kemono.party/) [SimpleX Chat](https://t.me/kemonopartywelcome) [ThePornDude](https://theporndude.com/?kemono.party)
+[Partychan](https://chan.kemono.party/) [SimpleX Chat](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FPtsqghzQKU83kYTlQ1VKg996dW4Cw4x_bvpKmiv8uns%3D%40smp18.simplex.im%2F2PpUYumx8Z_gfU8t-DYfzZ5GG8WAXngS%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEA6uRJ3DJIizPuuClIbLX_c6DZOCI4U2sB1ZEYyEkUoW4%253D%26srv%3Dlyqpnwbs2zqfr45jqkncwpywpbtq7jrhxnib5qddtr6npjyezuwd3nqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%2206v0Tl-2IH8VBGDSh5A7zw%3D%3D%22%7D) [ThePornDude](https://theporndude.com/?kemono.party)
 
 ![](/static/menu.svg)
 
 [Home](https://kemono.party/) [Artists](https://kemono.party/artists) [Posts](https://kemono.party/posts) [Import](https://kemono.party/importer) [Register](https://kemono.party/account/register?location=/dmca) [Login](https://kemono.party/account/login?location=/dmca)
+
+[Join the new SimpleX Chat Group!](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FPtsqghzQKU83kYTlQ1VKg996dW4Cw4x_bvpKmiv8uns%3D%40smp18.simplex.im%2F2PpUYumx8Z_gfU8t-DYfzZ5GG8WAXngS%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEA6uRJ3DJIizPuuClIbLX_c6DZOCI4U2sB1ZEYyEkUoW4%253D%26srv%3Dlyqpnwbs2zqfr45jqkncwpywpbtq7jrhxnib5qddtr6npjyezuwd3nqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%2206v0Tl-2IH8VBGDSh5A7zw%3D%3D%22%7D)
 
 #### DMCA Notice
 
