@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Rare comet spotted in North Texas sky](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gz0jabtxmaadowm.jpg?ve=1&tl=1)
+ [![Need a vacation? Here are the destinations with the biggest airfare price drops](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2162120263.jpg?ve=1&tl=1)
 
- ![Rare comet spotted in North Texas sky](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gz0jabtxmaadowm.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rare-comet-spotted-north-texas-sky)
+ ![Need a vacation? Here are the destinations with the biggest airfare price drops](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2162120263.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/destinations-biggest-airfare-price-drops-2024)
 
-### [Rare comet spotted in North Texas sky](https://www.fox4news.com/news/rare-comet-spotted-north-texas-sky)
+### [Need a vacation? Here are the destinations with the biggest airfare price drops](https://www.fox4news.com/news/destinations-biggest-airfare-price-drops-2024)
 
- [![Jerry Jones on possibility of firing Mike McCarthy: 'I'm not considering that'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2178257278.jpg?ve=1&tl=1)
+ [![5th Circuit Court orders federal judge removed from Texas foster care lawsuit](https://images.foxtv.com/m107833-mcdn.mp.lura.live/iupl/417/502/32/18/417502D68DD8610AD6E883E6D932AB9F.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=ceFcQK3-uhMzS7hzFwhZBPZLBuY&ve=1&tl=1)
 
- ![Jerry Jones on possibility of firing Mike McCarthy: 'I'm not considering that'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178257278.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jerry-jones-firing-mike-mccarthy-im-not-considering-that)
+ ![5th Circuit Court orders federal judge removed from Texas foster care lawsuit](https://images.foxtv.com/images.foxtv.com/m107833-mcdn.mp.lura.live/iupl/417/502/32/18/592/333/417502D68DD8610AD6E883E6D932AB9F.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=ceFcQK3-uhMzS7hzFwhZBPZLBuY&ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/5th-circuit-court-orders-federal-judge-removed-from-texas-foster-care-lawsuit)
 
-### [Jerry Jones on possibility of firing Mike McCarthy: 'I'm not considering that'](https://www.fox4news.com/sports/jerry-jones-firing-mike-mccarthy-im-not-considering-that)
+### [5th Circuit Court orders federal judge removed from Texas foster care lawsuit](https://www.fox4news.com/news/5th-circuit-court-orders-federal-judge-removed-from-texas-foster-care-lawsuit)
 
- [![The Colony Fire Department shows support for battalion chief battling kidney disease](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101324-aj-the-colony-firefighter-with-kidney-failu_00.01.41.26.jpg?ve=1&tl=1)
+ [![Here are the Texas House races that Democrats and Republicans think they can flip](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/11/32/18/478E3EC5ED994AC0B6EC1A1DF2C36D28-1.jpg?ve=1&tl=1)
 
- ![The Colony Fire Department shows support for battalion chief battling kidney disease](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101324-aj-the-colony-firefighter-with-kidney-failu_00.01.41.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/colony-fire-toss-for-a-cause-brent-young)
+ ![Here are the Texas House races that Democrats and Republicans think they can flip](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/11/32/18/592/333/478E3EC5ED994AC0B6EC1A1DF2C36D28-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/here-texas-house-races-democrats-republicans-think-can-flip)
 
-### [The Colony Fire Department shows support for battalion chief battling kidney disease](https://www.fox4news.com/news/colony-fire-toss-for-a-cause-brent-young)
+### [Here are the Texas House races that Democrats and Republicans think they can flip](https://www.fox4news.com/election/here-texas-house-races-democrats-republicans-think-can-flip)
 
- [![North Carolina football player dies following battle with rare lung cancer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2177364147.jpg?ve=1&tl=1)
+ [![Trial for Richard Allen, Delphi murders suspect, starts Monday: What to know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/09/32/18/abby-williams-richard-allen-libby-german.jpg?ve=1&tl=1)
 
- ![North Carolina football player dies following battle with rare lung cancer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2177364147.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/north-carolina-football-player-dies-lung-cancer)
+ ![Trial for Richard Allen, Delphi murders suspect, starts Monday: What to know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/09/32/18/592/333/abby-williams-richard-allen-libby-german.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richard-allen-delphi-murders-trial)
 
-### [North Carolina football player dies following battle with rare lung cancer](https://www.fox4news.com/sports/north-carolina-football-player-dies-lung-cancer)
+### [Delphi murders trial starts Monday: What to know](https://www.fox4news.com/news/richard-allen-delphi-murders-trial)
 
- [![Menendez Brothers: Gascón reveals 'new evidence' letter that led to case review](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/menendez-case-2.jpg?ve=1&tl=1)
+ [![Aidan Hutchinson out for season with broken tibia](https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2024/10/32/18/gettyimages-2178262403-scaled.jpg?ve=1&tl=1)
 
- ![Menendez Brothers: Gascón reveals 'new evidence' letter that led to case review](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/09/32/18/592/333/menendez-case-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/menendez-brothers-gascon-new-evidence-letter-case-review)
+ ![Aidan Hutchinson out for season with broken tibia](https://images.foxtv.com/images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178262403-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/aiden-hutchison-injured-third-quarter-lions-game)
 
-### [Menendez Brothers: Gascón reveals 'new evidence' letter that led to case review](https://www.fox4news.com/news/menendez-brothers-gascon-new-evidence-letter-case-review)
+### [Aidan Hutchinson out for season with broken tibia](https://www.fox4news.com/sports/aiden-hutchison-injured-third-quarter-lions-game)
 
 ###### [News](https://www.fox4news.com/news)
 
