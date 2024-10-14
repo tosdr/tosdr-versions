@@ -8,7 +8,7 @@
 * [![Instagram](https://apfed.org/wp-content/uploads/2022/09/instagram.png "Instagram")](https://www.instagram.com/apfedorg/)
 * [![Mail](https://apfed.org/wp-content/uploads/2015/03/mail.png "Mail")](mailto:mail@apfed.org)
 
-* [Sign Up or Renew Membership](https://apfed.org/become-apfed-member/)
+* [Join our mailing list](https://secure.everyaction.com/ftd5pgna8kqefE3rr87Gmg2)
 * [Members Area](https://apfed.org/apfed-newsletters/)
 * [Specialist Finder](https://apfed.org/find-support-treatment/specialist-finder/)
 * [Specialist Sign Up](https://apfed.org/apfed-professional-membership/)
