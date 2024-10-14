@@ -764,7 +764,7 @@ Translate Language
     * [School Choice](http://houstonisd.org/schoolchoice)
     * [DYADTravel](https://www.houstonisd.org/domain/56729)
     * [HISD Connect (Parent Portal)](https://www.houstonisd.org/domain/11001)
-    * [Class of 2024](https://www.houstonisd.org/Page/202422)
+    * [Class of 2024](https://www.houstonisd.org/Page/204421)
     * [Class of 2023](https://www.houstonisd.org/domain/55918)
     * [Campus Behavior Coordinators](https://www.houstonisd.org/CampusBehaviorCoordinators)
     * [Code of Conduct](https://www.houstonisd.org/codeofconduct)
