@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-FoxyProxy delivered everything we needed at a great cost.
+This is my 8th year with Foxy Proxy and I love you guys!!
 
-Chris Noon
+Shannon Latimer
