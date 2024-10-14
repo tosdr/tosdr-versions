@@ -63,6 +63,7 @@
     * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
     * [Retail](https://pinkerton.com/industries/retail)
+    * [Manufacturing](https://pinkerton.com/industries/manufacturing)
     
 * About Us
     
@@ -230,6 +231,7 @@ We welcome reports of suspected infringement of any of these rights. Please dire
     * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
     * [Retail](https://pinkerton.com/industries/retail)
+    * [Manufacturing](https://pinkerton.com/industries/manufacturing)
     
 * About Us
     
