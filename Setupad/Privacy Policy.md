@@ -1,7 +1,7 @@
 [![Logo](https://setupad.com/wp-content/themes/setupad/assets/img/new_company_logo.svg)](https://setupad.com/)
 
 * [For Publishers](# "For Publishers")
-    * [Setupad Self Serve](https://setupad.com/setupad-self-serve/ "Setupad Self Serve")
+    * [Setupad Self-Serve](https://setupad.com/setupad-self-serve/ "Setupad Self-Serve")
     * [Setupad Bidder](https://setupad.com/setupad-bidder/ "Setupad Bidder")
     * [Managed Prebid](https://setupad.com/managed-prebid/ "Managed Prebid")
     * [Setupad CMP](https://setupad.com/cmp/ "Setupad CMP")
@@ -83,7 +83,7 @@ For any questions or concerns regarding the Privacy Policy and use of the Websit
 
 Products
 
-[Setupad Self Serve](https://setupad.com/setupad-self-serve/)
+[Setupad Self-Serve](https://setupad.com/setupad-self-serve/)
 
 [Setupad Bidder](https://setupad.com/setupad-bidder/)
 
@@ -91,7 +91,7 @@ Products
 
 [CMP](https://setupad.com/cmp/)
 
-[Wordpress Plugin](https://setupad.com/wordpress-plugin/)
+[WordPress Plugin](https://setupad.com/wordpress-plugin/)
 
 Learn
 
