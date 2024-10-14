@@ -5,21 +5,21 @@ mh-nexus.de
 
 [Skip to content](#start_here)
 
- Search [Advanced search](https://forum.mh-nexus.de/search.php?sid=060b49ae5169889547ea75667a406265 "Advanced search") 
+ Search [Advanced search](https://forum.mh-nexus.de/search.php?sid=17e00c524f5e2e90453d0bf5e5d45f25 "Advanced search") 
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://forum.mh-nexus.de/search.php?search_id=unanswered&sid=060b49ae5169889547ea75667a406265)
-    * [Active topics](https://forum.mh-nexus.de/search.php?search_id=active_topics&sid=060b49ae5169889547ea75667a406265)
+    * [Unanswered topics](https://forum.mh-nexus.de/search.php?search_id=unanswered&sid=17e00c524f5e2e90453d0bf5e5d45f25)
+    * [Active topics](https://forum.mh-nexus.de/search.php?search_id=active_topics&sid=17e00c524f5e2e90453d0bf5e5d45f25)
     
-    * [Search](https://forum.mh-nexus.de/search.php?sid=060b49ae5169889547ea75667a406265)
+    * [Search](https://forum.mh-nexus.de/search.php?sid=17e00c524f5e2e90453d0bf5e5d45f25)
     
-* [FAQ](https://forum.mh-nexus.de/app.php/help/faq?sid=060b49ae5169889547ea75667a406265 "Frequently Asked Questions")
-* [Login](https://forum.mh-nexus.de/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dterms&sid=060b49ae5169889547ea75667a406265 "Login")
-* [Register](https://forum.mh-nexus.de/ucp.php?mode=register&sid=060b49ae5169889547ea75667a406265)
+* [FAQ](https://forum.mh-nexus.de/app.php/help/faq?sid=17e00c524f5e2e90453d0bf5e5d45f25 "Frequently Asked Questions")
+* [Login](https://forum.mh-nexus.de/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dterms&sid=17e00c524f5e2e90453d0bf5e5d45f25 "Login")
+* [Register](https://forum.mh-nexus.de/ucp.php?mode=register&sid=17e00c524f5e2e90453d0bf5e5d45f25)
 
-* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=060b49ae5169889547ea75667a406265)
-* [Search](https://forum.mh-nexus.de/search.php?sid=060b49ae5169889547ea75667a406265 "View the advanced search options")
+* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=17e00c524f5e2e90453d0bf5e5d45f25)
+* [Search](https://forum.mh-nexus.de/search.php?sid=17e00c524f5e2e90453d0bf5e5d45f25 "View the advanced search options")
 
 mh-nexus.de - Terms of use
 --------------------------
@@ -30,13 +30,13 @@ Our forums are powered by phpBB (hereinafter “they”, “them”, “their”
   
 You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually-orientated or any other material that may violate any laws be it of your country, the country where “mh-nexus.de” is hosted or International Law. Doing so may lead to you being immediately and permanently banned, with notification of your Internet Service Provider if deemed required by us. The IP address of all posts are recorded to aid in enforcing these conditions. You agree that “mh-nexus.de” have the right to remove, edit, move or close any topic at any time should we see fit. As a user you agree to any information you have entered to being stored in a database. While this information will not be disclosed to any third party without your consent, neither “mh-nexus.de” nor phpBB shall be held responsible for any hacking attempt that may lead to the data being compromised.
 
-* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=060b49ae5169889547ea75667a406265)
+* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=17e00c524f5e2e90453d0bf5e5d45f25)
 * All times are UTC+02:00
-* [Delete cookies](https://forum.mh-nexus.de/ucp.php?mode=delete_cookies&sid=060b49ae5169889547ea75667a406265)
+* [Delete cookies](https://forum.mh-nexus.de/ucp.php?mode=delete_cookies&sid=17e00c524f5e2e90453d0bf5e5d45f25)
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
-[Privacy](https://forum.mh-nexus.de/ucp.php?mode=privacy&sid=060b49ae5169889547ea75667a406265 "Privacy") | [Terms](https://forum.mh-nexus.de/ucp.php?mode=terms&sid=060b49ae5169889547ea75667a406265 "Terms")
+[Privacy](https://forum.mh-nexus.de/ucp.php?mode=privacy&sid=17e00c524f5e2e90453d0bf5e5d45f25 "Privacy") | [Terms](https://forum.mh-nexus.de/ucp.php?mode=terms&sid=17e00c524f5e2e90453d0bf5e5d45f25 "Terms")
 
 [](#)
 
