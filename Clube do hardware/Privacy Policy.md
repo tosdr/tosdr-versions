@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Edudiasjunior](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254454.thumb.png.842d563d633101812422f92371603ee1.png)](https://www.clubedohardware.com.br/profile/1254454-edudiasjunior/ "Ir ao perfil de Edudiasjunior")
+    * [![cdestruction](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23ae62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1244819-cdestruction/ "Ir ao perfil de cdestruction")
         
         0
         
-        [placa-mãe ASUS b760m plus wifi](https://www.clubedohardware.com.br/forums/topic/1699614-placa-m%C3%A3e-asus-b760m-plus-wifi/?do=getNewComment "placa-mãe ASUS b760m plus wifi")
+        [Tela azul ao baixar algo ou extrair,e o computador desliga do nada.](https://www.clubedohardware.com.br/forums/topic/1699632-tela-azul-ao-baixar-algo-ou-extraire-o-computador-desliga-do-nada/?do=getNewComment "Tela azul ao baixar algo ou extrair,e o computador desliga do nada.")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Edudiasjunior](https://www.clubedohardware.com.br/profile/1254454-edudiasjunior/ "Ir ao perfil de Edudiasjunior")  
-        22 minutos atrás
+        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
+        Por [cdestruction](https://www.clubedohardware.com.br/profile/1244819-cdestruction/ "Ir ao perfil de cdestruction")  
+        13 minutos atrás
         
-    * [![anderson coutinho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1229966.thumb.png.596ca3c6c90242531aaca6c86a6e0084.png)](https://www.clubedohardware.com.br/profile/1229966-anderson-coutinho/ "Ir ao perfil de anderson coutinho")
-        
-        0
-        
-        [Blueetoth do notebook V.S Bluetooth do celular](https://www.clubedohardware.com.br/forums/topic/1699613-blueetoth-do-notebook-vs-bluetooth-do-celular/?do=getNewComment "Blueetoth do notebook V.S Bluetooth do celular")
-        
-        [Placas de som e áudio onboard](https://www.clubedohardware.com.br/forums/forum/152-placas-de-som-e-%C3%A1udio-onboard/ "Placas de som e áudio onboard")  
-        Por [anderson coutinho](https://www.clubedohardware.com.br/profile/1229966-anderson-coutinho/ "Ir ao perfil de anderson coutinho")  
-        26 minutos atrás
-        
-    * [![nicolaslca](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254362.thumb.png.55d1c2b67b004436dfe6c9bb9c95e13f.png)](https://www.clubedohardware.com.br/profile/1254362-nicolaslca/ "Ir ao perfil de nicolaslca")
+    * [![Eduardo SilvaC](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1248898.thumb.png.0d9899a1d863042096d580a8f02377ba.png)](https://www.clubedohardware.com.br/profile/1248898-eduardo-silvac/ "Ir ao perfil de Eduardo SilvaC")
         
         0
         
-        [1050 ti não está aguentando 2 monitores ... (?)](https://www.clubedohardware.com.br/forums/topic/1699612-1050-ti-n%C3%A3o-est%C3%A1-aguentando-2-monitores/?do=getNewComment "1050 ti não está aguentando 2 monitores ... (?)")
+        [computador focado em cs2](https://www.clubedohardware.com.br/forums/topic/1699631-computador-focado-em-cs2/?do=getNewComment "computador focado em cs2")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [nicolaslca](https://www.clubedohardware.com.br/profile/1254362-nicolaslca/ "Ir ao perfil de nicolaslca")  
-        50 minutos atrás
+        Por [Eduardo SilvaC](https://www.clubedohardware.com.br/profile/1248898-eduardo-silvac/ "Ir ao perfil de Eduardo SilvaC")  
+        1 hora atrás
         
-    * [![Jdso_Arthur](https://www.clubedohardware.com.br/uploads/members/monthly_2022_12/imported-photo-1210558.thumb.gif.6e1851e8c7b01a889e9fd8143bb18b61.gif)](https://www.clubedohardware.com.br/profile/1210558-jdso_arthur/ "Ir ao perfil de Jdso_Arthur")
-        
-        0
-        
-        [machenike k500 b94w-w tri mode não conecta bluetooth ou wifi 2.4ghz](https://www.clubedohardware.com.br/forums/topic/1699611-machenike-k500-b94w-w-tri-mode-n%C3%A3o-conecta-bluetooth-ou-wifi-24ghz/?do=getNewComment "machenike k500 b94w-w tri mode não conecta bluetooth ou wifi 2.4ghz")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Jdso\_Arthur](https://www.clubedohardware.com.br/profile/1210558-jdso_arthur/ "Ir ao perfil de Jdso_Arthur")  
-        55 minutos atrás
-        
-    * [![NANDOfluis](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1205476.thumb.jpeg.a806bd037978f4e2d2434eb1ca35dbe7.jpeg)](https://www.clubedohardware.com.br/profile/1205476-nandofluis/ "Ir ao perfil de NANDOfluis")
+    * [![mevun](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1236797.thumb.jpeg.73c2db61294f1272f60e3fd2a9a353f9.jpeg)](https://www.clubedohardware.com.br/profile/1236797-mevun/ "Ir ao perfil de mevun")
         
         0
         
-        [som de chiado ao movimentar scroll do mouse?](https://www.clubedohardware.com.br/forums/topic/1699610-som-de-chiado-ao-movimentar-scroll-do-mouse/?do=getNewComment "som de chiado ao movimentar scroll do mouse?")
+        [placa-mãe reconhece SSD NVMe, mas ele não aparece na parte para boot.](https://www.clubedohardware.com.br/forums/topic/1699630-placa-m%C3%A3e-reconhece-ssd-nvme-mas-ele-n%C3%A3o-aparece-na-parte-para-boot/?do=getNewComment "placa-mãe reconhece SSD NVMe, mas ele não aparece na parte para boot.")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [mevun](https://www.clubedohardware.com.br/profile/1236797-mevun/ "Ir ao perfil de mevun")  
+        2 horas atrás
+        
+    * [![Sunrise](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252537.thumb.jpeg.38523bc3c2de06eb8d1337716fd7b262.jpeg)](https://www.clubedohardware.com.br/profile/1252537-sunrise/ "Ir ao perfil de Sunrise")
+        
+        0
+        
+        [placa-mãe Itautec st4272 processador i5 2400](https://www.clubedohardware.com.br/forums/topic/1699629-placa-m%C3%A3e-itautec-st4272-processador-i5-2400/?do=getNewComment "placa-mãe Itautec st4272 processador i5 2400")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [NANDOfluis](https://www.clubedohardware.com.br/profile/1205476-nandofluis/ "Ir ao perfil de NANDOfluis")  
-        55 minutos atrás
-        
-    * [![DaniloM2D](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2372c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/822643-danilom2d/ "Ir ao perfil de DaniloM2D")
-        
-        0
-        
-        [Como adicionar todas as atualizações na instalação do Windows 10 ?](https://www.clubedohardware.com.br/forums/topic/1699609-como-adicionar-todas-as-atualiza%C3%A7%C3%B5es-na-instala%C3%A7%C3%A3o-do-windows-10/?do=getNewComment "Como adicionar todas as atualizações na instalação do Windows 10 ?")
-        
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [DaniloM2D](https://www.clubedohardware.com.br/profile/822643-danilom2d/ "Ir ao perfil de DaniloM2D")  
-        1 hora atrás
-        
-    * [![Ygor Ferreira Campos de Sá](https://www.clubedohardware.com.br/uploads/members/monthly_2023_01/imported-photo-1212687.thumb.png.9a015da6de7fdba90b0e2d2220e9ab0d.png)](https://www.clubedohardware.com.br/profile/1212687-ygor-ferreira-campos-de-s%C3%A1/ "Ir ao perfil de Ygor Ferreira Campos de Sá")
-        
-        0
-        
-        [Como faço para escolher uma fonte nova para a minha televisão?](https://www.clubedohardware.com.br/forums/topic/1699608-como-fa%C3%A7o-para-escolher-uma-fonte-nova-para-a-minha-televis%C3%A3o/?do=getNewComment "Como faço para escolher uma fonte nova para a minha televisão?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Ygor Ferreira Campos de Sá](https://www.clubedohardware.com.br/profile/1212687-ygor-ferreira-campos-de-s%C3%A1/ "Ir ao perfil de Ygor Ferreira Campos de Sá")  
-        1 hora atrás
-        
-    * [![joaopaulofreire](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254451.thumb.png.d489552ce924bc65236520fa4577e30c.png)](https://www.clubedohardware.com.br/profile/1254451-joaopaulofreire/ "Ir ao perfil de joaopaulofreire")
-        
-        2
-        
-        [Fonte com Coil Whine durante uma determinada hora do dia](https://www.clubedohardware.com.br/forums/topic/1699607-fonte-com-coil-whine-durante-uma-determinada-hora-do-dia/?do=getNewComment "Fonte com Coil Whine durante uma determinada hora do dia")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [joaopaulofreire](https://www.clubedohardware.com.br/profile/1254451-joaopaulofreire/ "Ir ao perfil de joaopaulofreire")  
-        1 hora atrás
-        
-    * [![Mago Dragão Nascido](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1243347.thumb.jpeg.7d8bd80033cb539c5162ba06b41cbbea.jpeg)](https://www.clubedohardware.com.br/profile/1243347-mago-drag%C3%A3o-nascido/ "Ir ao perfil de Mago Dragão Nascido")
-        
-        4
-        
-        [então pessoal estou pensando comprar o i5 13400F em vez de i5 10400F](https://www.clubedohardware.com.br/forums/topic/1699606-ent%C3%A3o-pessoal-estou-pensando-comprar-o-i5-13400f-em-vez-de-i5-10400f/?do=getNewComment "então pessoal estou pensando comprar o i5 13400F em vez de i5 10400F")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Mago Dragão Nascido](https://www.clubedohardware.com.br/profile/1243347-mago-drag%C3%A3o-nascido/ "Ir ao perfil de Mago Dragão Nascido")  
-        1 hora atrás
-        
-    * [![Godoyy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254117.thumb.jpeg.26e4a56f4fa0c6ff3025183437ea7447.jpeg)](https://www.clubedohardware.com.br/profile/1254117-godoyy/ "Ir ao perfil de Godoyy")
-        
-        8
-        
-        [Quero sugestões para terminar de montar um pc](https://www.clubedohardware.com.br/forums/topic/1699605-quero-sugest%C3%B5es-para-terminar-de-montar-um-pc/?do=getNewComment "Quero sugestões para terminar de montar um pc")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Godoyy](https://www.clubedohardware.com.br/profile/1254117-godoyy/ "Ir ao perfil de Godoyy")  
+        Por [Sunrise](https://www.clubedohardware.com.br/profile/1252537-sunrise/ "Ir ao perfil de Sunrise")  
         2 horas atrás
+        
+    * [![wd006](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254461.thumb.png.ac517f867f787979e73e3db7913bfcff.png)](https://www.clubedohardware.com.br/profile/1254461-wd006/ "Ir ao perfil de wd006")
+        
+        0
+        
+        [queda de fps no fortnite](https://www.clubedohardware.com.br/forums/topic/1699628-queda-de-fps-no-fortnite/?do=getNewComment "queda de fps no fortnite")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [wd006](https://www.clubedohardware.com.br/profile/1254461-wd006/ "Ir ao perfil de wd006")  
+        3 horas atrás
+        
+    * [![JonatasWSF](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254460.thumb.jpeg.b27e541de840865bf19d7b956ad69e2b.jpeg)](https://www.clubedohardware.com.br/profile/1254460-jonataswsf/ "Ir ao perfil de JonatasWSF")
+        
+        0
+        
+        [Pc liga mas não inicia, nem aparece a tela da BIOS](https://www.clubedohardware.com.br/forums/topic/1699627-pc-liga-mas-n%C3%A3o-inicia-nem-aparece-a-tela-da-bios/?do=getNewComment "Pc liga mas não inicia, nem aparece a tela da BIOS")
+        
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [JonatasWSF](https://www.clubedohardware.com.br/profile/1254460-jonataswsf/ "Ir ao perfil de JonatasWSF")  
+        3 horas atrás
+        
+    * [![Gustavo Amaral](https://lh4.googleusercontent.com/--q8kwxdhhqo/AAAAAAAAAAI/AAAAAAAACz8/3jn_W9zauSI/photo.jpg)](https://www.clubedohardware.com.br/profile/845648-gustavo-amaral/ "Ir ao perfil de Gustavo Amaral")
+        
+        0
+        
+        [Controle Machenike G5 Pro (botão piscando)](https://www.clubedohardware.com.br/forums/topic/1699626-controle-machenike-g5-pro-bot%C3%A3o-piscando/?do=getNewComment "Controle Machenike G5 Pro (botão piscando)")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Gustavo Amaral](https://www.clubedohardware.com.br/profile/845648-gustavo-amaral/ "Ir ao perfil de Gustavo Amaral")  
+        3 horas atrás
+        
+    * [![xozzn](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1186298.thumb.jpeg.5cd892520fb0447716e35b33240fe3de.jpeg)](https://www.clubedohardware.com.br/profile/1186298-xozzn/ "Ir ao perfil de xozzn")
+        
+        0
+        
+        [3600+2060 dando muito gargalo](https://www.clubedohardware.com.br/forums/topic/1699625-36002060-dando-muito-gargalo/?do=getNewComment "3600+2060 dando muito gargalo")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [xozzn](https://www.clubedohardware.com.br/profile/1186298-xozzn/ "Ir ao perfil de xozzn")  
+        3 horas atrás
+        
+    * [![Leumm1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254458.thumb.png.6122e068568edd6f58377c98d609c561.png)](https://www.clubedohardware.com.br/profile/1254458-leumm1/ "Ir ao perfil de Leumm1")
+        
+        1
+        
+        [Duex DX A320ZG M2 e Ryzen 5 5600G suportam a GeForce RTX 3050?](https://www.clubedohardware.com.br/forums/topic/1699621-duex-dx-a320zg-m2-e-ryzen-5-5600g-suportam-a-geforce-rtx-3050/?do=getNewComment "Duex DX A320ZG M2 e Ryzen 5 5600G suportam a GeForce RTX 3050?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Leumm1](https://www.clubedohardware.com.br/profile/1254458-leumm1/ "Ir ao perfil de Leumm1")  
+        5 horas atrás
+        
+    * [![PeterThunder123](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1235144.thumb.jpeg.9bd61c6bbaa56e02d19caee39e70b8f9.jpeg)](https://www.clubedohardware.com.br/profile/1235144-peterthunder123/ "Ir ao perfil de PeterThunder123")
+        
+        0
+        
+        [Configurações sobre o Xbox Game Bar não salvam](https://www.clubedohardware.com.br/forums/topic/1699618-configura%C3%A7%C3%B5es-sobre-o-xbox-game-bar-n%C3%A3o-salvam/?do=getNewComment "Configurações sobre o Xbox Game Bar não salvam")
+        
+        [Gravação e edição de imagens, áudio e vídeo](https://www.clubedohardware.com.br/forums/forum/54-grava%C3%A7%C3%A3o-e-edi%C3%A7%C3%A3o-de-imagens-%C3%A1udio-e-v%C3%ADdeo/ "Gravação e edição de imagens, áudio e vídeo")  
+        Por [PeterThunder123](https://www.clubedohardware.com.br/profile/1235144-peterthunder123/ "Ir ao perfil de PeterThunder123")  
+        5 horas atrás
         
     
 
