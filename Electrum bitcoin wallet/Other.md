@@ -165,7 +165,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 * [Code](https://github.com/spesmilo/electrum)
 * [Issues 1.1k](https://github.com/spesmilo/electrum/issues)
-* [Pull requests 55](https://github.com/spesmilo/electrum/pulls)
+* [Pull requests 50](https://github.com/spesmilo/electrum/pulls)
 * [Security](https://github.com/spesmilo/electrum/security)
 * [Insights](https://github.com/spesmilo/electrum/pulse)
 
