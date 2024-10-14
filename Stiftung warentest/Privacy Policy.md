@@ -806,21 +806,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Warn­liste Zins­anlagen: Portale versprechen unrealistisch hohe Renditen auf Fest­geld](https://www.test.de/Unrealistische-Zinsversprechen-Falsches-Festgeld-6009488-0/ "Warnliste Zinsanlagen - Portale versprechen unrealistisch hohe Renditen auf Festgeld")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
 
 Fußbereich
 
@@ -3840,59 +3840,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Warn­liste Zins­anlagen: Portale versprechen unrealistisch hohe Renditen auf Fest­geld](https://www.test.de/Unrealistische-Zinsversprechen-Falsches-Festgeld-6009488-0/ "Warnliste Zinsanlagen - Portale versprechen unrealistisch hohe Renditen auf Festgeld")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Warn­liste Zins­anlagen: Portale versprechen unrealistisch hohe Renditen auf Fest­geld](https://www.test.de/Unrealistische-Zinsversprechen-Falsches-Festgeld-6009488-0/ "Warnliste Zinsanlagen - Portale versprechen unrealistisch hohe Renditen auf Festgeld")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
 
 Neueste Tests
 
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Warn­liste Zins­anlagen: Portale versprechen unrealistisch hohe Renditen auf Fest­geld](https://www.test.de/Unrealistische-Zinsversprechen-Falsches-Festgeld-6009488-0/ "Warnliste Zinsanlagen - Portale versprechen unrealistisch hohe Renditen auf Festgeld")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
 
 Service Stiftung Warentest
 
