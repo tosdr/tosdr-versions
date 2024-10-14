@@ -168,8 +168,8 @@ Customer Services Helpline
         
         * [Mens](https://www.ethicalsuperstore.com/category/fashion/mens/)
             * [Tops & T-Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/t_shirts/)
-            * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
             * [Graphic Tees](https://www.ethicalsuperstore.com/category/fashion/mens/graphic-tees/)
+            * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
             * [Trousers & Shorts](https://www.ethicalsuperstore.com/category/fashion/mens/trousers-and-shorts/)
             * [Jackets & Jumpers](https://www.ethicalsuperstore.com/category/fashion/mens/jackets-and-jumpers/)
             * [Pyjamas & Underwear](https://www.ethicalsuperstore.com/category/fashion/mens/underwear/)
@@ -206,8 +206,8 @@ Customer Services Helpline
         * [Garden & Outdoor](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/)
             * [Garden Accessories](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/garden-accessories/)
             * [Plants & Seeds](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/trees-plants-and-seeds/)
-            * [Wildlife](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/wildlife/)
             * [Solar Lighting](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/solar-garden-products/)
+            * [Wildlife](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/wildlife/)
             * [Picnic & Outdoor Living](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/outdoor-furniture/)
         
         * [Kitchen & Dining](https://www.ethicalsuperstore.com/category/home-and-garden/kitchen-and-dining/)
