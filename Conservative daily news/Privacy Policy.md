@@ -2,14 +2,14 @@ Tuesday, October 15 2024
 
 Breaking News
 
+* [America In The Age Of Stupidity: Two Things America Desperately Needs But Democrats Are Against](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-two-things-america-desperately-needs-but-democrats-are-against/)
+* [Do You Hear What You Are Saying?](https://www.conservativedailynews.com/2024/10/do-you-hear-what-you-are-saying/)
 * [President Joe Biden’s Schedule for Tuesday, October 15, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-15-2024/)
 * [Medal of Honor Monday: Army Staff Sgt. Clint Romesha](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-clint-romesha/)
 * [President Joe Biden’s Schedule for Monday, October 14, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-14-2024/)
 * [President Joe Biden’s Schedule for Sunday, October 13, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024-2/)
 * [It’s Time To Close The Door For Good On Ranked-Choice Voting](https://www.conservativedailynews.com/2024/10/its-time-to-close-the-door-for-good-on-ranked-choice-voting/)
 * [Black Voters Make Surprising Shift Away From Democrats, Poll Shows](https://www.conservativedailynews.com/2024/10/black-voters-make-surprising-shift-away-from-democrats-poll-shows/)
-* [Biden Delivers Remarks in Response to Hurricane Milton](https://www.conservativedailynews.com/2024/10/biden-delivers-remarks-in-response-to-hurricane-milton/)
-* [President Joe Biden’s Schedule for Sunday, October 13, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,65 +126,67 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
-* [![Kamala Harris Tim Walz joy 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/a-lack-of-joy/)
+* [![Kamalanomics Kamala Harris bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2024/08/gv080624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/health-care-costs-set-to-surge-next-year-despite-biden-harris-admin-promises-study-finds/)
     
-    [A Lack of Joy](https://www.conservativedailynews.com/2024/10/a-lack-of-joy/)
-    
-    October 15, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Joe-Biden-sleeping-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-15-2024/)
-    
-    [President Joe Biden’s Schedule for Tuesday, October 15, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-15-2024/)
+    [Health Care Costs Set To Surge Next Year Despite Biden-Harris Admin Promises, Study Finds](https://www.conservativedailynews.com/2024/10/health-care-costs-set-to-surge-next-year-despite-biden-harris-admin-promises-study-finds/)
     
     October 15, 2024
     
-* [![Tim Walz Kamala Harris 2024 election sheeple](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/for-the-sheeple/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Against-1-220x74.jpg)](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-two-things-america-desperately-needs-but-democrats-are-against/)
     
-    [For the Sheeple](https://www.conservativedailynews.com/2024/10/for-the-sheeple/)
+    [America In The Age Of Stupidity: Two Things America Desperately Needs But Democrats Are Against](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-two-things-america-desperately-needs-but-democrats-are-against/)
     
-    October 14, 2024
+    October 15, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/04-no-debate-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/final-showdown/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/03-o-shame-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/uncle-barack/)
     
-    [Final Showdown](https://www.conservativedailynews.com/2024/10/final-showdown/)
+    [Uncle Barack](https://www.conservativedailynews.com/2024/10/uncle-barack/)
     
-    October 14, 2024
+    October 15, 2024
     
-* [![A man wearing a medal around his neck looks forward.](https://www.conservativedailynews.com/wp-content/uploads/2024/10/130212-D-NI589-338-220x150.jpg)](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-clint-romesha/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5649-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/do-you-hear-what-you-are-saying/)
     
-    [Medal of Honor Monday: Army Staff Sgt. Clint Romesha](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-clint-romesha/)
+    [Do You Hear What You Are Saying?](https://www.conservativedailynews.com/2024/10/do-you-hear-what-you-are-saying/)
     
-    October 14, 2024
+    October 15, 2024
     
-* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-14-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv101524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/do-your-homework/)
     
-    [President Joe Biden’s Schedule for Monday, October 14, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-14-2024/)
+    [Do Your Homework](https://www.conservativedailynews.com/2024/10/do-your-homework/)
     
-    October 14, 2024
+    October 15, 2024
     
-* [President Joe Biden’s Schedule for Sunday, October 13, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024-2/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/Refrigerator-220x150.png)](https://www.conservativedailynews.com/2024/10/frozen-assets-stand-up-chicken-and-more-great-reader-tips/)
     
-    October 14, 2024
+    [Frozen Assets, Stand-Up Chicken and More Great Reader Tips](https://www.conservativedailynews.com/2024/10/frozen-assets-stand-up-chicken-and-more-great-reader-tips/)
     
-* [![Dinner food on table](https://www.conservativedailynews.com/wp-content/uploads/2018/07/Dinner-food-on-table.jpg)](https://www.conservativedailynews.com/2024/10/your-slow-cooker-is-a-great-holiday-helper/)
+    October 15, 2024
     
-    [Your Slow Cooker Is a Great Holiday Helper](https://www.conservativedailynews.com/2024/10/your-slow-cooker-is-a-great-holiday-helper/)
+* [![Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz101524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/nonsense/)
     
-    October 14, 2024
+    [Nonsense](https://www.conservativedailynews.com/2024/10/nonsense/)
+    
+    October 15, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/10/israel-made-the-west-israel-is-saving-the-west/)
+    
+    [Israel Made the West. Israel Is Saving the West](https://www.conservativedailynews.com/2024/10/israel-made-the-west-israel-is-saving-the-west/)
+    
+    October 15, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [PSA Releases the Soviet Arms AKS-74U “Krinkov” In 300BLK](https://www.thegunpage.com/psa-releases-the-soviet-arms-aks-74u-krinkov-in-300blk/10611222)
+* [Why You Should Call the Police: SD Family’s Vengeance Fail Ends in Their Own Demise](https://www.thegunpage.com/why-you-should-call-the-police-sd-familys-vengeance-fail-ends-in-their-own-demise/10611220)
+* [New Nosler Whitetail Country Ammunition Line](https://www.thegunpage.com/new-nosler-whitetail-country-ammunition-line/10611223)
+* [Harris Doubles Down Her Losing Gun Control Agenda](https://www.thegunpage.com/harris-doubles-down-her-losing-gun-control-agenda/10611218)
+* [Death threats against Okeechobee police chief never documented, investigated](https://www.thegunpage.com/death-threats-against-okeechobee-police-chief-never-documented-investigated/10611212)
 * [.21 Sharp: A Potential For Rimfire Competition?](https://www.thegunpage.com/21-sharp-a-potential-for-rimfire-competition/10611211)
 * [TFB Review: Springfield Armory Model 2020 Boundary 7mm PRC](https://www.thegunpage.com/tfb-review-springfield-armory-model-2020-boundary-7mm-prc/10611207)
 * [POTD: The New M230LF Dual Feed Bushmaster](https://www.thegunpage.com/potd-the-new-m230lf-dual-feed-bushmaster/10611208)
 * [The Rimfire Report: Taurus TX 22 Long-Term Review](https://www.thegunpage.com/the-rimfire-report-taurus-tx-22-long-term-review/10611209)
 * [Florida Police Chief Still Hiding from Public After Hurricane Gun Ban Gaffe](https://www.thegunpage.com/florida-police-chief-still-hiding-from-public-after-hurricane-gun-ban-gaffe/10611203)
-* [Franklin Armory Releases the G-S193 Binary Kit for the Glock 19](https://www.thegunpage.com/franklin-armory-releases-the-g-s193-binary-kit-for-the-glock-19/10611201)
-* [Rossi Pays Tribute To A Legendary Lawman](https://www.thegunpage.com/rossi-pays-tribute-to-a-legendary-lawman/10611205)
-* [Parker Mountain Machine Releases The PMM G45 Ultra](https://www.thegunpage.com/parker-mountain-machine-releases-the-pmm-g45-ultra/10611200)
-* [Klutzy Walz Struggles Loading His Shotgun On Pheasant Hunt](https://www.thegunpage.com/klutzy-walz-struggles-loading-his-shotgun-on-pheasant-hunt/10611198)
-* [Things Stupid People Do: Argument Over Chores Leads to Gun Play](https://www.thegunpage.com/things-stupid-people-do-argument-over-chores-leads-to-gun-play/10611193)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -226,6 +228,8 @@ Contact Us
 
 Recent Comments
 
+* TMann on [President Joe Biden’s Schedule for Monday, October 14, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-14-2024/#comment-782685)
+* charles wilkins on [The Story Teller](https://www.conservativedailynews.com/2024/10/the-story-teller/#comment-782684)
 * charles wilkins on [Here’s How Much More Everyday Items Cost Than When You Voted Four Years Ago](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/#comment-782668)
 * Stanley Warner on [Democrat Policies are Killing Small Businesses](https://www.conservativedailynews.com/2024/10/democrat-policies-are-killing-small-businesses/#comment-782658)
 * charles wilkins on [Prominent Election Expert Suggests Pollsters ‘Have No Idea’ If They’re Accurately Measuring Trump Support](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/#comment-782655)
@@ -233,8 +237,6 @@ Recent Comments
 * Will Delito on [Trump Campaign Requests Military Aircraft, Bulletproof Glass Amid Security Threats](https://www.conservativedailynews.com/2024/10/trump-campaign-requests-military-aircraft-bulletproof-glass-amid-security-threats/#comment-782653)
 * KayCee on [Chutzpah](https://www.conservativedailynews.com/2024/10/chutzpah/#comment-782647)
 * Stanley Warner on [America’s Bipartisan Spending Suicide Pact](https://www.conservativedailynews.com/2024/10/americas-bipartisan-spending-suicide-pact/#comment-782638)
-* charles wilkins on [Clean-up Crew](https://www.conservativedailynews.com/2024/10/clean-up-crew-2/#comment-782637)
-* KayCee on [One Year Later](https://www.conservativedailynews.com/2024/10/one-year-later/#comment-782630)
 
 [Close](#)
 
