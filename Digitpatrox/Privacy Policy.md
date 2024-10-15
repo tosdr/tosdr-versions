@@ -20,16 +20,16 @@ Tuesday, October 15 2024
 
 Latest
 
-* [New FASTCash malware Linux variant helps steal money from ATMs](https://digitpatrox.com/new-fastcash-malware-linux-variant-helps-steal-money-from-atms/)
-* [Destiny: Rising is a new mobile RPG shooter set in Bungie’s Destiny universe](https://digitpatrox.com/destiny-rising-is-a-new-mobile-rpg-shooter-set-in-bungies-destiny-universe/)
-* [Knull Will Have a Bigger Role than You Think, Confirms Venom 3 Director](https://digitpatrox.com/knull-will-have-a-bigger-role-than-you-think-confirms-venom-3-director/)
-* [The Best RMM Tools of 2024](https://digitpatrox.com/the-best-rmm-tools-of-2024-2/)
-* [Get started with charts and sparklines – Computerworld](https://digitpatrox.com/get-started-with-charts-and-sparklines-computerworld/)
-* [It’s Finally Easy to Change Your Apple Account Email](https://digitpatrox.com/its-finally-easy-to-change-your-apple-account-email/)
-* [The Best RMM Software of 2024](https://digitpatrox.com/the-best-rmm-software-of-2024/)
-* [Changing Your Apple Account’s Primary Email Just Got a Lot Easier](https://digitpatrox.com/changing-your-apple-accounts-primary-email-just-got-a-lot-easier/)
-* [What is Extreme Programming (XP)?](https://digitpatrox.com/what-is-extreme-programming-xp/)
-* [Watch Pakistan vs England 2nd Test 2024 live stream](https://digitpatrox.com/watch-pakistan-vs-england-2nd-test-2024-live-stream/)
+* [Microsoft logs 600 million identity attacks per day as threat actors collaborate more](https://digitpatrox.com/microsoft-logs-600-million-identity-attacks-per-day-as-threat-actors-collaborate-more/)
+* [High Call Center Queuing Times? 5 Causes With Easy Fixes](https://digitpatrox.com/high-call-center-queuing-times-5-causes-with-easy-fixes/)
+* [Is the Nolah Natural 11 mattress worth it? We tried the organic latex bed to find out](https://digitpatrox.com/is-the-nolah-natural-11-mattress-worth-it-we-tried-the-organic-latex-bed-to-find-out/)
+* [TrickMo malware steals Android PINs using fake lock screen](https://digitpatrox.com/trickmo-malware-steals-android-pins-using-fake-lock-screen/)
+* [Arlo is launching its first wired floodlight camera](https://digitpatrox.com/arlo-is-launching-its-first-wired-floodlight-camera/)
+* [YouTube Music Could Finally Get This Simple Playlist Feature Soon](https://digitpatrox.com/youtube-music-could-finally-get-this-simple-playlist-feature-soon/)
+* [£6.3 billion data center investment marks major ‘vote of confidence’ for UK tech industry](https://digitpatrox.com/6-3-billion-data-center-investment-marks-major-vote-of-confidence-for-uk-tech-industry/)
+* [These Sonos Speakers Are Still on Sale at Prime Day Prices](https://digitpatrox.com/these-sonos-speakers-are-still-on-sale-at-prime-day-prices/)
+* [Vendor Spotlight: Tribe29](https://digitpatrox.com/vendor-spotlight-tribe29/)
+* [Today’s NYT Connections Hints and Answer for October 15 (#492)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-october-15-492/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/31/Linux.jpg)](https://digitpatrox.com/new-fastcash-malware-linux-variant-helps-steal-money-from-atms/)
+* [![](https://cdn.mos.cms.futurecdn.net/U8Hpua3rAhSew9VachrgqR-1200-80.jpg)](https://digitpatrox.com/microsoft-logs-600-million-identity-attacks-per-day-as-threat-actors-collaborate-more/)
     
-    [New FASTCash malware Linux variant helps steal money from ATMs](https://digitpatrox.com/new-fastcash-malware-linux-variant-helps-steal-money-from-atms/)
+    [Microsoft logs 600 million identity attacks per day as threat actors collaborate more](https://digitpatrox.com/microsoft-logs-600-million-identity-attacks-per-day-as-threat-actors-collaborate-more/)
     
-    5 mins ago
+    18 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/9WGtAvB5pCVxrsDwdykO7GSgNkg=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25676572/1_Key_Visual.jpg)](https://digitpatrox.com/destiny-rising-is-a-new-mobile-rpg-shooter-set-in-bungies-destiny-universe/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/frustrated-customer-on-a-phone-call-pexels-rdne-6669856.jpeg)](https://digitpatrox.com/high-call-center-queuing-times-5-causes-with-easy-fixes/)
     
-    [Destiny: Rising is a new mobile RPG shooter set in Bungie’s Destiny universe](https://digitpatrox.com/destiny-rising-is-a-new-mobile-rpg-shooter-set-in-bungies-destiny-universe/)
+    [High Call Center Queuing Times? 5 Causes With Easy Fixes](https://digitpatrox.com/high-call-center-queuing-times-5-causes-with-easy-fixes/)
     
     22 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/Knull-Will-Have-a-Bigger-Role-Than-You-Think-Confirms-Venom-3-Director.jpg)](https://digitpatrox.com/knull-will-have-a-bigger-role-than-you-think-confirms-venom-3-director/)
+* [![](https://cdn.mos.cms.futurecdn.net/eCLr4KcsruCEmfZ72sp6bK-1200-80.jpg)](https://digitpatrox.com/is-the-nolah-natural-11-mattress-worth-it-we-tried-the-organic-latex-bed-to-find-out/)
     
-    [Knull Will Have a Bigger Role than You Think, Confirms Venom 3 Director](https://digitpatrox.com/knull-will-have-a-bigger-role-than-you-think-confirms-venom-3-director/)
+    [Is the Nolah Natural 11 mattress worth it? We tried the organic latex bed to find out](https://digitpatrox.com/is-the-nolah-natural-11-mattress-worth-it-we-tried-the-organic-latex-bed-to-find-out/)
     
     37 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/ppc1_cropped.jpg-1.webp)](https://digitpatrox.com/the-best-rmm-tools-of-2024-2/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/03/Android.jpg)](https://digitpatrox.com/trickmo-malware-steals-android-pins-using-fake-lock-screen/)
     
-    [The Best RMM Tools of 2024](https://digitpatrox.com/the-best-rmm-tools-of-2024-2/)
+    [TrickMo malware steals Android PINs using fake lock screen](https://digitpatrox.com/trickmo-malware-steals-android-pins-using-fake-lock-screen/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3557753-0-05986600-1728900196-man-working-on-excel-spreadsheet-with-charts-by-proxima-studio-via-shutterstock.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/get-started-with-charts-and-sparklines-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/VNnw3IpMVO98yJpCc0H49qoJSHc=/0x0:4303x2871/1200x628/filters:focal(2152x1436:2153x1437)/cdn.vox-cdn.com/uploads/chorus_asset/file/25672818/Arlo_Wired_Floodlight_Hero.jpg)](https://digitpatrox.com/arlo-is-launching-its-first-wired-floodlight-camera/)
     
-    [Get started with charts and sparklines – Computerworld](https://digitpatrox.com/get-started-with-charts-and-sparklines-computerworld/)
+    [Arlo is launching its first wired floodlight camera](https://digitpatrox.com/arlo-is-launching-its-first-wired-floodlight-camera/)
     
-    2 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [5 mins ago
+* [18 mins ago
     
-    ### New FASTCash malware Linux variant helps steal money from ATMs](https://digitpatrox.com/new-fastcash-malware-linux-variant-helps-steal-money-from-atms/)
+    ### Microsoft logs 600 million identity attacks per day as threat actors collaborate more](https://digitpatrox.com/microsoft-logs-600-million-identity-attacks-per-day-as-threat-actors-collaborate-more/)
 * [22 mins ago
     
-    ### Destiny: Rising is a new mobile RPG shooter set in Bungie’s Destiny universe](https://digitpatrox.com/destiny-rising-is-a-new-mobile-rpg-shooter-set-in-bungies-destiny-universe/)
+    ### High Call Center Queuing Times? 5 Causes With Easy Fixes](https://digitpatrox.com/high-call-center-queuing-times-5-causes-with-easy-fixes/)
 * [37 mins ago
     
-    ### Knull Will Have a Bigger Role than You Think, Confirms Venom 3 Director](https://digitpatrox.com/knull-will-have-a-bigger-role-than-you-think-confirms-venom-3-director/)
+    ### Is the Nolah Natural 11 mattress worth it? We tried the organic latex bed to find out](https://digitpatrox.com/is-the-nolah-natural-11-mattress-worth-it-we-tried-the-organic-latex-bed-to-find-out/)
 
 Most Popular Topics
 
 * [6 days ago
     
-    ### The Best Storage Mirror Deals During October Prime Day](https://digitpatrox.com/the-best-storage-mirror-deals-during-october-prime-day/)
-* [3 weeks ago
+    ### The Future of .io Websites Is Uncertain](https://digitpatrox.com/the-future-of-io-websites-is-uncertain/)
+* [2 weeks ago
     
-    ### Set Up Call Blocking on Any Phone in 6 Steps or Less](https://digitpatrox.com/set-up-call-blocking-on-any-phone-in-6-steps-or-less/)
-* [4 weeks ago
+    ### Wordle Answer for Today, September 28, 2024](https://digitpatrox.com/wordle-answer-for-today-september-28-2024/)
+* [1 week ago
     
-    ### OpenAI Confirms ChatGPT Did Message Users First, But It Won’t Anymore](https://digitpatrox.com/openai-confirms-chatgpt-did-message-users-first-but-it-wont-anymore/)
+    ### These Are the Best Early Prime Day Sales on Vitamix Blenders](https://digitpatrox.com/these-are-the-best-early-prime-day-sales-on-vitamix-blenders/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### The Best RMM Software of 2024](https://digitpatrox.com/the-best-rmm-software-of-2024/)
-* [3 hours ago
-    
-    ### Changing Your Apple Account’s Primary Email Just Got a Lot Easier](https://digitpatrox.com/changing-your-apple-accounts-primary-email-just-got-a-lot-easier/)
+    ### £6.3 billion data center investment marks major ‘vote of confidence’ for UK tech industry](https://digitpatrox.com/6-3-billion-data-center-investment-marks-major-vote-of-confidence-for-uk-tech-industry/)
 * [4 hours ago
     
-    ### What is Extreme Programming (XP)?](https://digitpatrox.com/what-is-extreme-programming-xp/)
+    ### These Sonos Speakers Are Still on Sale at Prime Day Prices](https://digitpatrox.com/these-sonos-speakers-are-still-on-sale-at-prime-day-prices/)
+* [4 hours ago
+    
+    ### Vendor Spotlight: Tribe29](https://digitpatrox.com/vendor-spotlight-tribe29/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 13, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 11, 2024
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
