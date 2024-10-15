@@ -72,11 +72,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![Image reads "sensory issues and clothing" with picture of a turtleneck sweater, scarf, wool socks, and jeans](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![Picture of hands tying a pink shoe. Text reads "left-right confusion and functional tasks"](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![Image reads "sensory issues and clothing" with picture of a turtleneck sweater, scarf, wool socks, and jeans](https://www.theottoolbox.com/wp-content/uploads/2023/04/sensory-issues-clothing.png)](https://www.theottoolbox.com/clothing-sensitivity-red-flags/)
+                ![Picture of hands tying a pink shoe. Text reads "left-right confusion and functional tasks"](https://www.theottoolbox.com/wp-content/uploads/2021/05/left-right-confusion-in-shoe-tying.png)](https://www.theottoolbox.com/left-right-discrimination-slide-deck/)
                 
-                #### [Clothing Sensitivity Red Flags](https://www.theottoolbox.com/clothing-sensitivity-red-flags/)
+                #### [Left Right Discrimination](https://www.theottoolbox.com/left-right-discrimination-slide-deck/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
