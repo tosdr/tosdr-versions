@@ -438,7 +438,7 @@ Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-* By email: [\[email protected\]](https://www.hurdlr.com/cdn-cgi/l/email-protection)
+* By email: hello@hurdlr.com
 * By mail: 5511 Cornish Road, Bethesda, MD 20814
 
 ‍
