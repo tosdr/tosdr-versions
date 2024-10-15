@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Truck BedHardy<br><br>11:39am |
-| Sounds Like The RadioZach Top<br><br>11:35am |
-| I Am Not OkayJelly Roll<br><br>11:32am |
-| Aint Nothing Bout YouBrooks And Dunn<br><br>11:29am |
-| A Bar Song (Tipsy)Shaboozey<br><br>11:26am |
+| Am I OkMegan Moroney<br><br>5:39pm |
+| Cold As YouLuke Combs<br><br>5:36pm |
+| Pretty Little PoisonWarren Zeiders<br><br>5:33pm |
+| Boot Scootin' BoogieBrooks And Dunn<br><br>5:23pm |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>5:21pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Country • Western
+News Talk • Eastern
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
