@@ -382,7 +382,7 @@ If you have any questions about this US State Supplement, you may contact us at:
 * [Affiliate Resources](https://northwest.rootsports.com/affiliate-resources/)
 * [Press](https://northwest.rootsports.com/category/press/)
 
-© 2024 ROOT SPORTS Powered by [OneCMS™ |](https://www.intertechmedia.com/features/one-cms/?utm_source=footer_link&utm_medium=website "OneCMS™.") Served by [InterTech Media LLC](https://www.intertechmedia.com/?utm_source=footer_link&utm_medium=website "Link to InterTech Media Homepage")
+© 2024 ROOT SPORTS Powered by [OneCMS™ |](https://www.intertechmedia.com/features/one-cms/?utm_campaign=footer_link&utm_medium=website "OneCMS™.") Served by [InterTech Media LLC](https://www.intertechmedia.com/?utm_campaign=footer_link&utm_medium=website "Link to InterTech Media Homepage")
 
 2682231380
 
