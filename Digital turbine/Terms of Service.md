@@ -22,7 +22,7 @@
 
 Login
 
-[AdColony](https://clients.adcolony.com/login)[DT Console](https://console.fyber.com/login)[ACP Offer Wall](https://acp-edge.fyber.com/login)
+[DT Console](https://console.fyber.com/login)[ACP Offer Wall](https://acp-edge.fyber.com/login)
 
 [Contact](#)
 
