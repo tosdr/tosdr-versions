@@ -646,7 +646,7 @@ Moloco Inc.
 601 Marshall St., 5th Floor  
 Redwood City, CA 94063
 
-[\[email protected\]](https://www.molocoads.com/cdn-cgi/l/email-protection)
+[privacy@moloco.com](mailto:privacy@moloco.com)
 
 UK GDPR Representative: Moloco UK Limited, with registered address No.1 London Bridge, London, SE1 9BG  
 ‍  
