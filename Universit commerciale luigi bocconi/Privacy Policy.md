@@ -41,7 +41,7 @@ Menu Close
     * [Master of Science](https://www.unibocconi.eu/en/programs/master-science-programs)
     * [Law](https://www.unibocconi.eu/en/programs/law-programs)
     * [Specialized Masters](https://www.unibocconi.eu/en/programs/specialized-master-programs)
-    * [PhD](https://www.unibocconi.eu/en/programs/phd)
+    * [PhD](https://www.unibocconi.eu/en/about-us/organization/schools/phd)
     * [Summer School](https://www.unibocconi.eu/en/programs/summer-school)
     * [SDA Bocconi School of Management](https://www.unibocconi.eu/en/programs/sda-bocconi-school-management)
     
@@ -60,6 +60,7 @@ Menu Close
     * [On-Campus Security](https://www.unibocconi.eu/en/campus/campus-security)
     * [Library](https://lib.unibocconi.it/en/)
     * [Bocconi Sport](https://www.bocconisport.eu/en)
+    * [Gallery](https://www.unibocconi.eu/en/campus/photo-gallery)
     
 * Applying to Bocconi
     
@@ -127,10 +128,6 @@ Menu Close
 * [For Alumni](https://bocconialumni.it/en/home/)
 * [Contact us](https://www.unibocconi.eu/en/contact-us)
 
-* * *
-
-* [Erasmus+ Scholarship: Before Mobility](https://www.unibocconi.eu/en/erasmus-scholarship-mobility)
-
 [Login](https://www.unibocconi.eu/en/reserved-area "Login")
 
 Languages
@@ -186,7 +183,7 @@ About Us
         * [Undergraduate School](https://www.unibocconi.eu/en/about-us/organization/schools/undergraduate-school)
         * [School of Law](https://www.unibocconi.eu/en/about-us/organization/schools/school-law)
         * [Graduate School](https://www.unibocconi.eu/en/about-us/organization/schools/graduate-school)
-        * [PhD School](https://www.unibocconi.eu/en/programs/phd)
+        * [PhD School](https://www.unibocconi.eu/en/about-us/organization/schools/phd)
         * [SDA Bocconi School of Management](https://www.unibocconi.eu/en/about-us/organization/schools/sda-bocconi-school-management)
         
     * [Staff](https://www.unibocconi.eu/en/about-us/organization/organizational-unit-directors-and-managers)
@@ -273,7 +270,7 @@ Organization
     * [Undergraduate School](https://www.unibocconi.eu/en/about-us/organization/schools/undergraduate-school)
     * [School of Law](https://www.unibocconi.eu/en/about-us/organization/schools/school-law)
     * [Graduate School](https://www.unibocconi.eu/en/about-us/organization/schools/graduate-school)
-    * [PhD School](https://www.unibocconi.eu/en/programs/phd)
+    * [PhD School](https://www.unibocconi.eu/en/about-us/organization/schools/phd)
     * [SDA Bocconi School of Management](https://www.unibocconi.eu/en/about-us/organization/schools/sda-bocconi-school-management)
     
 * [Staff](https://www.unibocconi.eu/en/about-us/organization/organizational-unit-directors-and-managers)
