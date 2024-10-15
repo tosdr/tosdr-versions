@@ -28,7 +28,7 @@ MENUMENU
                 * [ORCID Board](https://info.orcid.org/orcid-board/)
                 * [ORCID Team](https://info.orcid.org/orcid-team/)
                 * [Work with Us!](https://info.orcid.org/work-with-us/)
-                * [ORCID Partners](https://info.orcid.org/orcid-partners/)
+                * [ORCID Partners](https://info.orcid.org/orcid-community/orcid-community-partners/)
         * * [Services](https://info.orcid.org/documentation/features/)
                 * [Affiliation Manager](https://info.orcid.org/affiliation-manager/)
                 * [Member Portal](https://info.orcid.org/documentation/member-portal/)
@@ -127,7 +127,7 @@ MENUMENU
                 * [Consortia Interest Group](https://info.orcid.org/consortia-interest-group/)
                 * [Funders Interest Group](https://info.orcid.org/funders-interest-group/)
                 * [ORCID Researcher Advisory Council](https://info.orcid.org/orcid-researcher-advisory-council/)
-            * [Historical Groups](https://info.orcid.org/historical-task-forces-working-groups-and-steering-groups/)
+            * [Historical Groups](https://info.orcid.org/orcid-community/orcids-historical-community/)
         * * Integration Resources
                 * [API Documentation](https://info.orcid.org/documentation/)
                 * [For Developers](https://info.orcid.org/orcid-open-source-and-technical-community/#For_developers_contribute_technically_to_ORCID)
