@@ -299,7 +299,7 @@ Call **866-678-4172**
 
 **or scan the code below**
 
-![](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/QR8666784172.png)
+![Scan to call 866-678-4172](https://www.endurancewarranty.com/wp-content/uploads/2024/10/QR8338170149.png)
 
 [Call 866-678-4172](tel:866-678-4172)
 
@@ -356,7 +356,7 @@ To speak to a vehicle protection plan specialist and **save $300**
 
 **Scan the code below**
 
-![8666784172](https://www.endurancewarranty.com/wp-content/uploads/2024/09/QR8666784172.png) ![8005064640](https://www.endurancewarranty.com/wp-content/uploads/2024/09/QR8005064640.png) ![8002538203](https://www.endurancewarranty.com/wp-content/uploads/2024/09/QR8002538203.png)
+![833-817-0149](https://www.endurancewarranty.com/wp-content/uploads/2024/10/QR8338170149.png) ![833-817-0146](https://www.endurancewarranty.com/wp-content/uploads/2024/10/QR8338170146.png) ![833-817-0148](https://www.endurancewarranty.com/wp-content/uploads/2024/10/QR8338170148.png)
 
 ![](https://api.trustedform.com/ns.gif)
 
