@@ -4,64 +4,70 @@
 
 [Contact sales](https://webflow.com/contact-sales)
 
-* Product
+* Platform
     
     * Build
         
-        * [Designer
+        * [Design
             
-            Creative control, flexibility, and extensibility in a visual-first canvas](https://webflow.com/designer)
-        * [Page buildingNew
-            
-            Launch simple landing pages quickly and easily.](https://webflow.com/page-building)
+            Build high-performing sites](https://webflow.com/designer)
         * [Edit mode
             
-            Custom-built environment for content teammates](https://webflow.com/edit-mode)
-        * [Ecommerce
-            
-            Manage stunning online stores](https://webflow.com/ecommerce)
+            Empower your content team](https://webflow.com/edit-mode)
         * [Interactions
             
-            Craft immersive experiences without engineering support](https://webflow.com/interactions-animations)
-        * [Accessibility
+            Craft immersive experiences](https://webflow.com/interactions-animations)
+        * [Page building
             
-            Learn how you can build more accessible sites with Webflow](https://webflow.com/accessibility)
-    * Scale
+            New
+            
+            Launch simple landing pages quickly and easily](https://webflow.com/page-building)
+    * Manage
         
         * [CMS
             
-            Visual, composable content management](https://webflow.com/cms)
+            Manage content at scale](https://webflow.com/cms)
+        * [Hosting
+            
+            Host and scale your site without the hassle](https://webflow.com/hosting)
         * [Localization
             
             Customize your site for a worldwide audience](https://webflow.com/localization)
-        * [Hosting
-            
-            Reliable, scalable, fast, and secure hosting managed for you](https://webflow.com/hosting)
-        * [SEO
-            
-            Best-in-class, fine-tuned controls](https://webflow.com/seo)
         * [Security
             
-            State of the art web application security practices](https://webflow.com/security)
-    * Connect
+            Ensure your site stays safe](https://webflow.com/security)
+    * Optimize
+        
+        * [Analyze
+            
+            New
+            
+            Understand how your site performs](https://webflow.com/analyze)
+        * [Optimize
+            
+            New
+            
+            Maximize conversions with testing and personalization](https://webflow.com/optimize)
+        * [SEO
+            
+            Grow your reach with fine-tuned controls](https://webflow.com/seo)
+    * Extend
         
         * [Apps
             
-            Extend your site’s functionality](https://webflow.com/apps)
+            Connect your site to apps like HubSpot, Adobe Express, and more](https://webflow.com/apps)
         * [Figma to Webflow
             
-            Turn your static designs into clean, production-ready code](https://webflow.com/figma-to-webflow)
-    * [Webflow platform
-        
-        ↗
+            Turn static designs into clean, production-ready code](https://webflow.com/figma-to-webflow)
+    * [Platform overview
         
         Explore the power of the Webflow Platform
         
-        ![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb12234476ba4209b18_nav-ad-new.webp)](https://webflow.com/platform)
+        ↗](https://webflow.com/platform)[AI at Webflow
         
-        [Product updates
+        Elevate your site with the power of AI
         
-        See what we’ve shipped recently](https://webflow.com/updates)
+        ↗](https://webflow.com/ai)
     
 * Solutions
     
@@ -146,10 +152,7 @@
         
         * [Support
             
-            Browse support solutions or get in touch with our team](https://support.webflow.com/)
-        * [Documentation
-            
-            In-depth Webflow documentation](https://university.webflow.com/docs)
+            Jump into our product docs or connect with our Support team](https://help.webflow.com/)
         * [Forum
             
             Ask questions and learn alongside other Webflow users](https://forum.webflow.com/)
@@ -239,7 +242,7 @@ Last modified date: November 15, 2023
 
 Thank you for visiting the websites and associated domains of [www.webflow.com](http://www.webflow.com/) (collectively, the “**Sites**”). Webflow is the world’s leading visual development platform for building powerful websites without writing code. To learn more about how Webflow works, visit [Webflow University](https://university.webflow.com/). To learn more about Webflow's brand, including tone of voice, audiences, and messaging, visit our [official brand guidelines](https://brand-at.webflow.io/).
 
-These Terms of Service (“**Terms**'') govern your access to and use of the Sites and Platform. We've tried to keep the Terms as straightforward as possible, for example, by explaining some of the key concepts below in plain English to aid in your understanding (see the sidebar notes that all start with "Basically..."), but please note those explanations are not legally binding. If you have any comments or questions about these Terms, please [\[email protected\]](https://webflow.com/cdn-cgi/l/email-protection) and let us know.
+These Terms of Service (“**Terms**'') govern your access to and use of the Sites and Platform. We've tried to keep the Terms as straightforward as possible, for example, by explaining some of the key concepts below in plain English to aid in your understanding (see the sidebar notes that all start with "Basically..."), but please note those explanations are not legally binding. If you have any comments or questions about these Terms, please [email us](mailto:contact@webflow.com) and let us know.
 
 Subject to these Terms and during your Subscription Term (defined below), you may access and use Webflow’s software-as-a-service platform and the related web design technology products and services (e.g., the Webflow Designer, Dashboard, Workspace(s), Software, and Site Plans) that you access or subscribe to (collectively, the “**Platform**” or “**Webflow Platform**”) on a free, trial, or paid basis, as applicable.
 
@@ -360,7 +363,7 @@ You alone are responsible for any of your Website Content that may be lost or un
 
 ### 3.4 Featuring your Website Content and Marks
 
-Notwithstanding the above, in our discretion, Webflow may choose to feature your Website Content and/or your name, trade names, trademarks, logos, and other similarly identifying indicia included on your Website Content (collectively, “**Marks**”). You hereby grant us, a non-exclusive, revocable, royalty free, worldwide right and license to display or otherwise use your published Website Content or Marks for the limited purpose of Webflow marketing and promotional activities (e.g., we may feature your Website Content or Marks on our website, in our customer lists or social media accounts, etc.). You agree to waive any claims against us relating to any moral rights, artists’ rights, or any other similar rights worldwide that you may have in or to your Website Content or Marks and any right of inspection or approval of any such use. All goodwill related to the use of your Marks by Webflow will inure to the benefit of the owner of such Marks. This Section does not affect any rights you may have under applicable data protection laws. For clarity, you can revoke the licenses to Webflow to market and/or promote your Website Content and/or Marks by emailing us at [\[email protected\]](https://webflow.com/cdn-cgi/l/email-protection).
+Notwithstanding the above, in our discretion, Webflow may choose to feature your Website Content and/or your name, trade names, trademarks, logos, and other similarly identifying indicia included on your Website Content (collectively, “**Marks**”). You hereby grant us, a non-exclusive, revocable, royalty free, worldwide right and license to display or otherwise use your published Website Content or Marks for the limited purpose of Webflow marketing and promotional activities (e.g., we may feature your Website Content or Marks on our website, in our customer lists or social media accounts, etc.). You agree to waive any claims against us relating to any moral rights, artists’ rights, or any other similar rights worldwide that you may have in or to your Website Content or Marks and any right of inspection or approval of any such use. All goodwill related to the use of your Marks by Webflow will inure to the benefit of the owner of such Marks. This Section does not affect any rights you may have under applicable data protection laws. For clarity, you can revoke the licenses to Webflow to market and/or promote your Website Content and/or Marks by emailing us at [contact@webflow.com](mailto:contact@webflow.com).
 
 ### 3.5 Removal of Website Content by You
 
@@ -691,21 +694,27 @@ Product
 
 * [Platform](https://webflow.com/platform)
 * [Designer](https://webflow.com/designer)
+* [Edit mode](https://webflow.com/edit-mode)
+* [Interactions](https://webflow.com/interactions-animations)
 * [Page building](https://webflow.com/page-building)
 * [CMS](https://webflow.com/cms)
-* [Ecommerce](https://webflow.com/ecommerce)
-* [Interactions](https://webflow.com/interactions-animations)
-* [SEO](https://webflow.com/seo)
-* [Localization](https://webflow.com/localization)
-* [Edit mode](https://webflow.com/edit-mode)
 * [Hosting](https://webflow.com/hosting)
+* [Localization](https://webflow.com/localization)
+* [Security](https://webflow.com/security)
+* [Ecommerce](https://webflow.com/ecommerce)
+* [Analyze
+    
+    New](https://webflow.com/analyze)
+* [Optimize
+    
+    New](https://webflow.com/optimize)
+* [SEO](https://webflow.com/seo)
 * [DevLink
     
     Labs](http://webflow.com/devlink)
 * [Figma to Webflow
     
     Labs](https://webflow.com/figma-to-webflow)
-* [Security](https://webflow.com/security)
 * [Accessibility](https://webflow.com/accessibility)
 * [AI](https://webflow.com/ai)
 
