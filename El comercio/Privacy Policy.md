@@ -31,6 +31,534 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Ecuador tiene una deuda con Baltazar Ushca
+==========================================
+
+La noticia de su muerte tuvo transcendencia internacional. Su legado y nombre no deben olvidarse.
+-------------------------------------------------------------------------------------------------
+
+![Baltazar Ushca recibió un reconocimiento de Doctor Honoris Causa. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/Baltazar-Ushca-3.jpg)
+
+**Baltazar Ushca** quedó inmortalizado en el imaginario nacional e internacional como el Ú**ltimo hielero del Chimborazo**. La noticia de su muerte se difundió casi de inmediato en el extranjero.
+
+Se publicaron reseñas y los videos sobre su trayectoria y oficio se viralizaron. Tuvieron el mismo impacto que los documentales en los cuales se contaba sobre su oficio en el **Chimborazo** en busca de hielo. O el interés que despertaban sus vivencias que las contaba en el Museo del Municipio de Guano o en cualquier presentación a la que era invitado.
+
+> Un hombre humilde, de baja estatura y manos grandes y fuertes, se ganó -en vida- el respeto. Un reconocimiento que no se mide en dinero, sino en algo que va más allá: transcender.
+
+**Baltazar** es una figura emblemática en la historia cultural e indígena de **Ecuador**. Su vida y labor no solo han tenido un impacto significativo aquí, sino que también han resonado en el extranjero.
+
+Lo logró desde un espacio que puede pasar desapercibido para muchos. Sin embargo, el mundo puso en valor la importancia de preservar las **tradiciones ancestrales** frente a lo contemporáneo.
+
+A pesar de las adversidades climáticas y la disminución de hieleros debido a la llegada de tecnologías modernas como los refrigeradores o congeladores, Ushca continuó su labor. Fue el último representante de una tradición que se remonta a tiempos precolombinos.
+
+Tuvo reconocimientos en vida. En 2017 recibió un Doctorado Honoris Causa por su contribución a la cultura indígena.
+
+Su historia fue inmortalizada en el documental **El Último Hielero**, que ha sido presentado en festivales internacionales y ha atraído la atención de medios como The New York Times.
+
+Ese reconocimiento lo recibió también en su sepelio. Sus familiares, amigos, vecinos… rindieron un homenaje a un ecuatoriano, que no buscó fama, sino que su ejemplo y tenacidad le abrieron paso al reconocimiento.
+
+Ahora, le toca al **Ecuador** no olvidarse de su legado, ni de su nombre.
+
+Cuesta abajo es la rodada 
+==========================
+
+Ahora toca decidir acciones que impliquen menos desigualdad, si queremos que no crezca más la narco violencia y la delincuencia organizada.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Washington Herrera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Washington-Herrera-1.jpg)
+
+En los 11 meses de **gobierno** del joven **Daniel Noboa,** la pendiente hacia abajo de nuestro desarrollo se ha inclinado, más aún, a un **nivel** de **cero crecimiento**. Ante esta realidad debemos hacernos cargo del **problema** todos los **ecuatorianos**: la **élite económica**, los **dirigentes políticos**, los **académicos**, la clase media alta y baja, los **jóvenes** que votaron por él, porque hemos dejado de participar en este siglo como si lo hicimos en el anterior, cuando había **partidos políticos** con **dirigentes competentes** y **militancia** con experiencia.
+
+La **riqueza petrolera** se la gastó en **infraestructura** básica, en satisfacer **demandas militares**, en **burocracia gubernamental**, como si aquella nunca se iba a acabar. Pero esto sí puede suceder si no hay **inversiones** fuertes del **exterior** que sirvan para que el **petróleo** no se quede bajo tierra para siempre. Otros países **petroleros** constituyeron **fondos enormes** para atender el **financiamiento** del desarrollo a largo plazo y ahora son prósperos.
+
+La **geopolítica nacional**, basada en la geo **economía** de **regiones** diversas como la Costa y la Sierra, determinó lamentablemente el **clientelismo electoral** y los **múltiples subsidios** equivocados que afectaron a la **racionalidad fiscal** durante 40 años. Todo esto produjo una **concentración** de la **riqueza** en pocas manos, cuyos dineros se sacaron al exterior, en lugar de **invertir** en el **Ecuador**. Creció la clase **media alta** y **aumentó** la **pobreza** de los **ecuatorianos**. Ahora toca decidir **acciones** que impliquen menos **desigualdad**, si queremos que no crezca más la **narco violencia** y la **delincuencia organizada**.
+
+En medio de esta **situación caótica** no ha venido ninguna **inversión extranjera** importante y el país está en el despeñadero, con un **decrecimiento** del ingreso por habitante por debajo de cero. Ahora el **gobierno** de los **jóvenes** debe asumir **políticas públicas** virtuosas para revertir la **tragedia energética**, la **dramática** baja de la **explotación petrolera,** la perniciosa **contradicción política**, la carencia de probidad en la **gestión pública** y la **propensión** inusitada del **presidente** a viajar al exterior, sin resultado alguno, descuidando la **gobernanza** y afectando a los 17 millones de habitantes.
+
+El Faquir
+=========
+
+Poeta solitario que plasmó su angustia y búsqueda espiritual en versos sobre el dolor indígena y el misticismo.
+---------------------------------------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+“Espacio me has vencido. Ya sufro tu distancia./ Tu cercanía pesa sobre mi corazón./ Me abres el vago **cofre** de los **astros perdidos**/ y hallo en ellos el nombre de todo lo que amé”.
+
+César Dávila Andrade (Cuenca, 1918-Caracas, 1967) solía sentarse en la última mesa de un **galpón** frente al **teatro Bolívar** devenido en taberna. Pequeño, entelerido. De su **estampa física** se destacaba la **fortaleza** de su tórax; según él, jamás cultivó gimnasia o deporte alguno, la **disciplina respiratoria** del yoga fue la que le había dotado de esa **musculatura**.
+
+  “Dura como la vida la tarea poética” 
+---------------------------------------
+
+Recitaba sus **poemas** con voz modulada; pelo negro, a la gomina y sin raya; nariz romana y ojos abuhados, listos para cazar en medio de la noche las **turbulencias** de su espíritu convulso. “Estoy solo. La niñez vuelve a veces/ con sus **blancos cuadernos** de ternura./ Oigo entonces el **ruido** del **molino**/ y siento el peso de los días caer desde la **torre** de la **iglesia**/ con un sonido de **aves** de **ceniza**”.
+
+A los **muchachos** que lográbamos entrar a esa suerte de **sótano**, el **Faquir** nos leía el destino en la palma de la **mano** y sugería algún **libro** de **budismo** zen que no nos era fácil descifrar. Uno de esos días, el **poeta** Enrique Noboa Arízaga, con su voz **retumbante**, le increpó por su **desaliñado** aspecto y le entregó dos cortes de casimir: “Suficientes para dos paradas”, rezongó.
+
+A los pocos días, Juan Viteri Durand anunció que el **Faquir** no regresaría más, porque había canjeado los **cortes** de **casimir** por sendas botellas de licor. La **noticia** provocó más pesadumbre que **sonrisas**. Tampoco nosotros volvimos.
+
+¿Hasta qué punto son ciertas las “**anécdotas**” que se narran del poeta: ¿**místico angustiado** por la **tragedia** del **indígena** cuando escribió su célebre _Boletín y elegía de las mitas_ o producto de su novelera afiliación al socialismo? ¿Su **poética críptica** y confinada en el budismo zen, el rosacrucianismo y el masonismo fue la que lo condujo a cortarse la garganta frente a un espejo o fue su abandono a los **poderes** del silencio del Gran Vacío?
+
+“Dura como la **vida** la tarea **poética**,/ y la vida desesperadamente/ inclinada, para poder oír/ en el gran cántaro vegetativo/ una partícula de mármol, por lo menos/ cantando sola como si brillara/ y pinchándose en el cielo más oscuro”.
+
+Oscilante entre el **ascetismo** y lo surreal, la **poderosa** poesía del **Faquir** es muestra descarnada de un ser **solitario** que padeció incesantes **derrotas** suscitadas por su alcoholatría y la **desoladora evidencia** de la **inutilidad** de su oficio para hallar el absoluto.
+
+Sus primeros textos son de claro misticismo. Rondan **amores** idealizados, visiones, soledumbres y **paisajes** intimistas; un **espíritu** conmocionado por la búsqueda de Dios en su **dimensión cristiana** y las aguas **turbulentas** de sus **primigenias** proximidades a las **disciplinas** orientales. “Oh antiguo Arquitecto de las **gaseosas** manos/ los candelabros alzan su lengua hasta tu nombre/ y mi alma adelgazada te besa entre las cosas”.
+
+De _Catedral salvaje_: “Yo, que jugué a la **juventud** del Hombre,/ alzo esta noche mi cadáver hacia los dioses!/ Y, mientras cae el rocío sobre el mundo,/ atravieso la hoguera de la **resurrección**!”.
+
+_Boletín y elegía de las mitas_, uno de sus cantos más aclamados, **historia** del **dolor** padecido por los pueblos **indígenas** en la **conquista**, se erige como si fuera vivido y sufrido por su hacedor. Verso a verso, asciende y desciende por esa **escala** de **martirios** perpetrados por los **conquistadores** en la carne y en el alma de sus conquistados. “Y de tanto dolor, a siete cielos,/ por sesenta soles, Oh, Pachacámac,/ mujer pariendo mi hijo, le torcía los brazos./ Ella, dulce ya de tanto aborto, dijo:/ ‘Quiebra maqui de guagua; no quiero que sirva/ que sirva de mitaya a viracochas’/ Quebré”.
+
+Como un anacoreta fugado de sí mismo o un **dipsómano** irredimible que va de tumbo en tumbo, viviendo la **noche** de su **vida**, así fue el **Faquir**. Nocturnidad. Lobreguez y alucinaciones de **luz**. Los místicos son como absorbidos por las fuerzas celestes. En sus primeros tiempos el cielo se **clausura**. El silencio aniquila al ser. La **codicia** de conocer es vedada, y sublevada el alma vislumbra el conocimiento. Sin embargo, no todo es **pérdida**. En su más inclemente **soledad**, el ser se consolida en sí mismo. Fiesta de **espejos** en la cual nos extraviamos cada vez que alcanzamos y ganamos cada vez que perdemos. El éxtasis del poema nace del saber de este **enigma**.
+
+“Y la cabeza cortada continúa su cuenta./ Mas, apenas has escrito la primera palabra/ cuando ya sobreviene la **muerte** de los párpados;/ muere a continuación el lado izquierdo/ y luego/ el derecho…/ Internándose más/ el Poema puede **estallar** al otro lado de su rostro./ Procura entonces/ retirar delicadamente de entre sus labios/ la diminuta flecha **envenenada**”.
+
+Cartas a Quito / 15 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este martes 15 de octubre de 2024
+-----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+La obscuridad de las apariencias
+--------------------------------
+
+En lo más íntimo de nuestro ser siempre existe el deseo de figurar y trascender, por eso muchas veces se refleja nuestra accionar en ciertas ocasiones con querer aparentar lo que en realidad no somos de verdad y ahí se produce una transfiguración de nuestra personalidad, pues pretendemos lograr cosas que a lo mejor no son necesariamente las que queremos hacer y quizás nos esforzamos demasiado por conseguir lo que talvez no sea nuestra verdadera felicidad y es por eso que podemos pensar que están saliendo a la luz lo más obscuro de nuestras apariencias.
+
+Esto quizás se advierte muy notoriamente en los políticos que sacan a relucir una personalidad como que fuera la que va a transformar el mundo y creer que solamente con su liderazgo las cosas podrían resolverse, es decir aparece ese ego de su formación que a lo mejor desvirtúa notoriamente lo que en el fondo es su propia personalidad. Se crean, por lo tanto, personas ficticias, carentes de autenticidad y que con su carisma y su ardiente oratoria logran confundir a las masas, cuando en el fondo carecen de valores auténticos y a lo mejor no les importa para nada en lo más absoluto luchar por las necesidades de la población a la que pretenden representar.
+
+Se ha visto en el desarrollo de la humanidad cuantos líderes carismáticos que deslumbraron al mundo con su personalidad y su actuación, como si se tratara de verdaderos héroes y que impactaron tanto con sus logros, pero que a la larga cayeron en sus propios errores y terminaron por ser descartados y olvidados y quizás todo lo bueno que pudieron hacer se confundió en el olvido por todos los hechos y actos que a lo mejor dejaron recuerdos negativos y nefastos.
+
+Podríamos rememorar muchos casos de personas que se presentaron en el mundo como salvadores de la humanidad porque se destacaron mucho por sus éxitos y realizaciones en su gestión, pero que no lograron realmente hacer lo que resultaba bueno y adecuado y tuvieron en el fondo una obscuridad en sus verdaderas apariencias, pues parecería que eran buenas sus intenciones, pero luego cayeron en su propio ego, su intemperancia y obscurecieron y opacaron con sus malas acciones, todo lo bueno que a lo mejor pretendían. Quiere decir entonces que la naturaleza humana es susceptible a dañarse por la gente que lo rodea, por el adulo de quienes se encuentran a su alrededor, que solo se acostumbran a recibir órdenes y no contribuyen para evitar que esos líderes cometan tantos errores, que luego contribuyen para su total declive.
+
+Pensemos que no hay nada más bello y noble que buscar la propia autenticidad y no cubrirse en esa obscuridad de las apariencias, que a veces hace tanto daño y termina por opacar un buen accionar y unos propósitos sanos.
+
+Hernán Patricio Orcés Salvador
+
+Cortes de agua en Quito para este martes 15 de octubre
+======================================================
+
+La Epmaps detalló los sectores y los horarios en los que se suspenderá el servicio de agua potable.
+---------------------------------------------------------------------------------------------------
+
+![En los barrios afectados por los cortes de agua, la Epmaps distribuye el líquido con tanqueros](https://www.elcomercio.com/wp-content/uploads/2024/10/tanqueros-agua.jpg)
+
+La Empresa Metropolitana de Agua Potable y Saneamiento de Quito (**Epmaps**) informó los barrios y los horarios en lo que se realizarán cortes de agua este **martes 15 de octubre** de 2024.
+
+La suspensión tiene relación con la **crisis eléctrica** que enfrenta Quito y Ecuador, que ha provocado apagones programados de hasta 10 horas en varios sectores.
+
+### Más noticias
+
+* [¿Habrá cortes de luz durante el partido de la Selección de Ecuador?](https://www.elcomercio.com/actualidad/ecuador/cronograma-cortes-luz-partido-seleccion.html "¿Habrá cortes de luz durante el partido de la Selección de Ecuador?")
+* [Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-consulte-aqui-los-horarios-con-la-herramienta-de-ia-de-el-comercio.html "Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO")
+* [¿Cómo sigue Marco Angulo, jugador de Liga de Quito, tras siniestro de tránsito?](https://www.elcomercio.com/deportes/futbol/como-sigue-marco-angulo-jugador-liga-de-quito-siniestro-transito.html "¿Cómo sigue Marco Angulo, jugador de Liga de Quito, tras siniestro de tránsito?")
+
+En el caso de los cortes de agua, la Epmaps explicó que los barrios afectados son aquellos que se abastecen por la Planta de Tratamiento de Agua Potable de **Puengasí**, en el centro y sur de Quito.
+
+Ante ello, la entidad aseguró que están gestionando “la adquisición de **generadores** eléctricos que permitirán mantener operativas las estaciones de bombeo que abastecen a las zonas altas de Quito”.
+
+En estos sectores, mientras tanto, el abasteciendo de agua potable se realiza mediante **tanqueros**.
+
+Barrios con cortes de agua programados
+--------------------------------------
+
+### Grupo 1
+
+Estos barrios no tendrán servicio de agua potable desde las **19:00** del martes a las **07:00** del miércoles:
+
+* Germán Ávila
+* San Agustín
+* Los Andes
+* Chimbacalle
+* México
+* Pío XII
+* El Camal
+* Doscientas Casas
+* San Bartolo
+* Eplicachima
+* Argelia Intermedia
+* El Recreo
+* Clemencia
+* Ferroviaria Baja
+* Clemente Ballén
+* Teniente Hugo Ortíz
+* El Calzado
+* 1 de Mayo
+* Barrionuevo
+* Los Arrayanes
+* Atahualpa
+* La Magdalena
+* El Corazón
+
+### Grupo 2
+
+Los siguientes barrios tendrán la interrupción del servicio de agua potable de **07:00** a **19:00**:
+
+* 20 de Mayo
+* Ferroviaria Alta
+* Ferroviaria Media
+* Alegría 1
+* El Recrero
+* Clemencia
+* La Forestal
+* Lucha de los Pobres
+* San Martín
+* Argelia Alta
+* San Mateo
+* San Blas
+* Ciudad Futura
+* Oriente Quiteño
+* El Mirador
+* Chachas
+* Aida León
+* Hierba Buena 2
+* Lotización Miravalle
+* Vertientes Unidas
+* Eplicachima
+* Lotización Quingaiza
+
+> 📅 [#CalendarioDeRacionamiento](https://twitter.com/hashtag/CalendarioDeRacionamiento?src=hash&ref_src=twsrc%5Etfw) | Debido a los días consecutivos de falta de lluvias y las altas temperaturas, se implementará el calendario temporal de racionamiento para las zonas centro y sur abastecido por la Planta de Tratamiento de Agua Potable Puengasí, que rige desde las… [pic.twitter.com/mRqpGsiDvc](https://t.co/mRqpGsiDvc)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [October 1, 2024](https://twitter.com/aguadequito/status/1841112843158003742?ref_src=twsrc%5Etfw)
+
+Otros cortes de agua en Quito
+-----------------------------
+
+Además de este cronograma, otras **parroquias** del norte, centro y sur de la ciudad tendrán cortes con horarios esporádicos este martes. Los sectores son:
+
+* Conocoto
+* Chilibulo
+* Itchimbía
+* La Mena
+* Puengasí
+* La Argelia
+* La Ferroviaria
+* Alangasí
+* Chillogallo
+* La Ecuatoriana
+* San Juan
+* Belisario Quevedo
+* Turubamba
+* Rumipamba
+* El Condado
+* Cotocollao
+* Ponceano
+* Rumipamba
+* Iñaquito
+* Jipijapa
+* Nayón
+* Cochapamba
+* Comité del Pueblo
+* Kennedy
+* El Inca
+
+Para conocer la programación de cortes en los barrios y horarios de estas parroquias puedes visitar la página oficial de la [Epmaps](https://www.aguaquito.gob.ec/cortes-electricos-octubre/ "https://www.aguaquito.gob.ec/cortes-electricos-octubre/") a partir de la mañana de este martes 15 de octubre.
+
+Los vecinos de Bolaños en Quito se levantan a tres semanas del incendio forestal
+================================================================================
+
+Hace tres semanas, un voraz incendio paralizó a Quito. El barrio Bolaños fue uno de los más afectados por el flagelo.
+---------------------------------------------------------------------------------------------------------------------
+
+![Los vecinos de Bolaños deben pedir un aventón para cruzar por el túnel Guayasamín. No tienen un servicio de transporte desde 2004.](https://www.elcomercio.com/wp-content/uploads/2024/10/bolanos-jalando-dedo.jpg)
+
+Todo parece quedar como un **recuerdo cruel** e imborrable. **Los vecinos del Barrio Bolaños en Quito se levantan a tres semanas del incendio** que dejó a varias familias afectadas y buscan recuperarse. Varias quedaron damnificadas y **el olor a quemado no desaparece**. En muchos hay algo de **malhumor**. Saben que la tragedia reactivará la idea de **ubicarlos en otro sector**, pero no todos están de acuerdo y se quieren quedar allí, donde ha vivido su familia desde 1927, cuando este barrio se separó de Guápulo.
+
+### Más noticias
+
+* [Semáforos apagados complican la movilidad en Quito](https://www.elcomercio.com/actualidad/quito/semaforos-cortes-luz-novedades-apagados-quito.html "Semáforos apagados complican la movilidad en Quito")
+* [Afectados por los incendios forestales tendrán un beneficio en la planilla del agua](https://www.elcomercio.com/actualidad/quito/afectados-incendios-forestales-planilla-agua.html "Afectados por los incendios forestales tendrán un beneficio en la planilla del agua")
+* [Un tronco conservado miles de años aporta claves de solución climática](https://www.elcomercio.com/tendencias/ambiente/tronco-conservado-miles-anos-aporta-claves-solucion-climatica.html "Un tronco conservado miles de años aporta claves de solución climática")
+
+Lo que queda a tres semanas del incendio de Bolaños
+---------------------------------------------------
+
+“¿Qué traen? ¿Traen algo por lo menos? No han venido con nada”, dijo un hombre que trabajaba sobre unos metales, cuando **EL COMERCIO** llegó allá para conocer cómo están pasando, ahora que el incendio queda como un mal recuerdo imposible de borrar.
+
+Otro, más amable, estaba sembrando maíz. “No puedo hablar. Estoy bastante ocupado”, dijo a la distancia. **Este, en cambio, sonreía**. Quizá ese pedazo de tierra sobre la que trabajaba le devuelve un poco la esperanza.
+
+En cambio, **María Salvador Amalesa Quishpe** lamenta que “acá en el barrio no hay presidente. Hemos tenido fuertes discusiones. Por una cocina o por una refrigeradora fue una discordia. Hasta nos trataron mal”, dice esta mujer que regresaba de la cancha de fútbol cargado un costal con algunas botellas de cerveza que su hijo vende.
+
+**Teresita de Jesús Quitiaqués** vive en Bolaños unos 50 años. Ella no estuvo durante el incendio. Si bien no se quemó su casa, **se arruinó la maquinaria de la mecánica de su esposo y sus hijos** y a la hija se le **quemó la casa**. “A mí se me murieron los animalitos”, dice. Y añade: “**Estamos todos tristes porque no tenemos nada**, aunque tenemos la casita que pudieron salvar, pero no la de mi hija.
+
+**Vanesa Díaz** tiene 23 años y está **embarazada**. Ella fue de las primeras que debió **evacuar** la zona porque está embarazada de una niña. Recuerda bien “ese momento catastrófico porque todo el humo llegaba de golpe”. Ella volvió a este barrio donde vivió de pequeña y nunca había pasado nada semejante[.](https://es.wikipedia.org/wiki/Barrios_de_Quito "https://es.wikipedia.org/wiki/Barrios_de_Quito")
+
+Seguir en Bolaños, el objetivo de los vecinos
+---------------------------------------------
+
+Díaz mantiene en su recuerdo el miedo por las llamas que se expandían y porque “entraba full calor por las ventanas. Además, estaba sola y con miedo”. Pero estos miedos se suman a las pendientes que tienen en el barrio, las piedras que cuelgan de las laderas y las enfermedades respiratorias que están desarrollando. Y quizá el mayor problema que han tenido data del 2005, cuando se inauguró el túnel Guayasamín.
+
+En ese tiempo, los vecinos de Bolaños vieron la obra como una solución. Pero fue todo lo contrario. Diariamente, se ve a los pobladores salir a la vía Guayasamín para pedir un aventón a los vecinos o esperar que un taxi pase por allí. Los más afortunados, dice Díaz, son madres con sus niños, las mujeres embarazadas, pero difícilmente llevan a hombres.
+
+Y cuando ya se pierde toda esperanza, cruzan a pie, entre la contaminación del dióxido de carbono de los vehículos y el espantoso ruido de los extractores de olores.
+
+Sin embargo, no se quieren ir. “Aquí estamos bien. Vivimos en paz, no hay ladrones ni nada”, dice Quitiaqués. ¿Y si llega una propuesta para reubicarlos? “Habrá que ver”, dice Díaz, “pero que no sea tan lejos”.
+
+Así, más o menos, es la vida en Bolaños, en donde este 14 de octubre se cumplen tres semanas de ese incendio que bajó el ánimo de sus pobladores y de todos los quiteños.
+
+Daniel Noboa pone plazo para la adjudicación de frecuencias del espectro radioeléctrico
+=======================================================================================
+
+El presidente Daniel Noboa reformó el Reglamento de la Ley de Comunicación y fijó un plazo para la adjudicación de frecuencias.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Daniel Noboa, vía Decreto Ejecutivo, puso plazo para el proceso de adjudicación de frecuencias.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-28.jpg)
+
+El presidente **Daniel Noboa** puso plazo para la **adjudicación de frecuencias** del **espectro radioeléctrico**[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
+
+Lo hizo a través del **Decreto Ejecutivo 421**, firmado este lunes 14 de octubre de 2024.
+
+### Más noticias:
+
+* [Daniel Noboa hizo una advertencia a grupos narcoterroristas en cadena nacional](https://www.elcomercio.com/actualidad/politica/daniel-noboa-cadena-nacional-grupos-narcoterrorismo.html "Daniel Noboa hizo una advertencia a grupos narcoterroristas en cadena nacional")
+* [Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz](https://www.elcomercio.com/actualidad/gobierno-de-daniel-noboa-abre-procesos-para-centrales-termoelectricas-por-cortes-de-luz.html "Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz")
+
+Plazo para iniciar el proceso de adjudicación de frecuencias, señalado por Daniel Noboa
+---------------------------------------------------------------------------------------
+
+El Presidente Daniel Noboa reformó el reglamento de la Ley de Comunicación y ordenó que en **60 días** se inicie el proceso de adjudicación de frecuencias del espectro radioeléctrico en el país.
+
+Esto quiere decir que, a mediados de diciembre de este año, la Arcotel debe iniciar con el proceso público de adjudicación de frecuencias.
+
+La **Agencia de Regulación y Control de las Telecomunicaciones (Arcotel)** será la entidad encargada de iniciar el proceso público para la adjudicación de las frecuencias.
+
+El Consejo de Desarrollo y Promoción de la Información y Comunicación “deberá actualizar y codificar todos los manuales protocolos y directrices (…) para garantizar el derecho a la libertad de pensamiento y de expresión”.
+
+Este Decreto Ejecutivo tiene 14 artículos, dos disposiciones transitorias y una final.
+
+**Medios de comunicación con capital extranjero**
+
+Entre otros temas, reforma lo referente a los medios de comunicación con capital extranjero, la prohibición de publicidad engañosa.
+
+El documento señala que, para que una persona jurídica extranjera pueda ser accionista o socio de un medio de comunicación nacional, deberá estar domiciliada en este país y cumplir con el procedimiento de la legislación vigente.
+
+“En el caso de las personas naturales extranjeras que deseen ser accionistas o socias de medios de comunicación nacionales, deberán residir permanentemente en Ecuador”, señala.
+
+Responsables del asesinato de comediante ‘La Polilla’ fueron sentenciados
+=========================================================================
+
+El humorista fue asesinado el 11 de octubre de 2023, en Esmeraldas. Su crimen conmocionó a las miles de personas que lo seguían.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Dos de los tres detenidos por su presunta participación en el asesinato de 'Polilla' recibieron sentencia](https://www.elcomercio.com/wp-content/uploads/2024/10/aesinato-polilla.jpg)
+
+El Tribunal de Garantías Penales de Esmeraldas sentenció a **dos hombres** a prisión tras declararlos responsables del **asesinato** del comediante Jonathan Sánchez, conocido como ‘**La Polilla**‘.
+
+El humorista fue asesinado el 11 de octubre de **2023**, pasadas las 21:00, en el centro de la ciudad de Esmeraldas.
+
+### Más noticias
+
+* [Fiscalía formuló cargos contra exasambleísta por presunta concusión](https://www.elcomercio.com/actualidad/seguridad/fiscalia-formulo-cargos-contra-exasambleista-presunta-concusion.html "Fiscalía formuló cargos contra exasambleísta por presunta concusión")
+* [Policía capturó al octavo más buscado de Pichincha](https://www.elcomercio.com/actualidad/seguridad/policia-capturo-al-octavo-mas-buscado-de-pichincha.html "Policía capturó al octavo más buscado de Pichincha")
+* [Delincuentes que planeaban atacar a policías fueron detenidos en Pedro Moncayo](https://www.elcomercio.com/actualidad/seguridad/delincuentes-pedro-moncayo-policia-malchingui.html "Delincuentes que planeaban atacar a policías fueron detenidos en Pedro Moncayo")
+
+Sánchez se movilizaba en un vehículo blanco, acompañado de otra persona, cuando fue **interceptado** por varias motos.
+
+Los hombres armados abrieron fuego contra él por la ventana del conductor, impactándolo y causándole la **muerte inmediata**.
+
+Durante la investigación, se conoció que el influencer recibió **mensajes amenazantes**, por lo que se cree que fue víctima de **extorsión**.
+
+Audiencia de sentencia
+----------------------
+
+Luego de analizar las pruebas presentadas por Fiscalía, el Tribunal sentenció a **34 años y ocho meses** de prisión a **Steven Q. y Jair P.** por su participación en el asesinato de Jonathan Sánchez.
+
+Como pruebas del delito se incluyó los testimonios e informes de los agentes de **Investigación y Criminalística**.
+
+Los expertos analizaron una secuencia de imágenes obtenidas por las **cámaras de seguridad** donde se registró el hecho.
+
+Además, se tomó en cuenta la información detallada que arrojó el examen **médico-legal**, entre otras pruebas.
+
+En su resolución, el Tribunal también ordenó el pago de una multa de 1 333 salarios básicos unificados para cada uno de los sentenciados, **613 180 dólares**.
+
+‘La Polilla’
+------------
+
+El asesinato de ‘La Polilla’ conmocionó no solo a sus familiares y amigos, sino a quienes lo seguían en sus **redes sociales**.
+
+El humor y carisma que tenía Jonathan Sánchez le permitió destacar en Internet, donde se hizo conocer y formó su propia comunidad.
+
+En TikTok, por ejemplo, el comediante superó los **1,3 millones de seguidores**.
+
+Fuera de Internet, Sánchez se desempeñaba como trabajador de la Prefectura de Esmeraldas, en el área de **Comunicación**.
+
+Su sepelio se realizó en el Cementerio General de la ciudad, donde le dieron el adiós centenas de personas.
+
+Pleno de la Asamblea tiene fecha para decidir juicio político contra Mónica Palencia
+====================================================================================
+
+Dentro del proceso de juicio político contra Mónica Palencia, el Pleno de la Asamblea debe decidir sobre la censura y destitución de la funcionaria.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Pleno de la Asamblea tiene la última palabra en el juicio político contra Mónica Palencia.](https://www.elcomercio.com/wp-content/uploads/2024/07/asamblea-nac-1.jpg)
+
+El **Pleno de la Asamblea** tiene fecha para decidir sobre el **juicio político** contra **Mónica Palencia.**
+
+La presidenta de la Asamblea, **Viviana Veloz**, realizó la convocatoria, luego de obtener la documentación de la Comisión de Fiscalización.
+
+### Más noticias:
+
+* [Fiscalización deja en suspenso inició el trámite del juicio político contra Andrea Arrobo](https://www.elcomercio.com/actualidad/fiscalizacion-suspenso-juicio-politico-andrea-arrobo.html "Fiscalización deja en suspenso inició el trámite del juicio político contra Andrea Arrobo")
+* [Juicio político contra Mónica Palencia depende del Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/juicio-politico-contra-monica-palencia-depende-pleno-asamblea.html "Juicio político contra Mónica Palencia depende del Pleno de la Asamblea")
+
+Mónica Palencia es acusada, por asambleístas del **correísmo**, de incumplimiento de funciones.
+
+Entre los cargos está incursión policial en la **Embajada de México en Quito,** que concluyó con la captura del exvicepresidente.
+
+Asimismo, un supuesto incremento en las cifras de violencia en el país y la inexistencia del plan de seguridad denominado Fénix.
+
+El Pleno de la Asamblea tiene fecha para decidir sobre juicio político a Mónica Palencia
+----------------------------------------------------------------------------------------
+
+En la **Comisión de Fiscalización,** el correísmo no alcanzó los votos para lograr un informe con la recomendación de censura y destitución de Palencia.
+
+Sin embargo, aunque no exista resolución en firme de esta mesa; la decisión final la debe tomar el Pleno de la Asamblea.
+
+La presidenta de la Asamblea, Viviana Veloz convocó al Pleno de la Asamblea para conocer el “Informe de posturas”, respecto al trámite de sustanciación del enjuiciamiento político en contra de Palencia.
+
+El tema se abordará en la sesión 970, convocada para las 09:00 de este **jueves 17 de octubre de 2024**.
+
+Los impulsores del juicio político contra Mónica Palencia necesitan de una mayoría absoluta de 92 votos para censurar y destituir a la Ministra.
+
+La tarde de este lunes, la Comisión de Fiscalización no pudo iniciar el trámite del proceso de juicio político contra **Andrea Arrobo**, exministra de Energía y Minas.
+
+La sesión se instaló bajo la dirección de **Luis Alvarado**, quien dispuso verificar el cumplimiento de los requisitos de fondo y forma de la solicitud.
+
+Una vez confirmado el cumplimiento de los requisitos, Alvarado abrió el debate, pero nadie intervino.
+
+Por esta razón, la sesión fue suspendida.
+
+Daniel Noboa hizo una advertencia a grupos narcoterroristas en cadena nacional
+==============================================================================
+
+El Presidente dio una cadena nacional de radio y televisión, la noche de este lunes 14 de octubre.
+--------------------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa habló durante más de un minuto y medio en cadena nacional](https://www.elcomercio.com/wp-content/uploads/2024/10/noboa.jpg)
+
+El presidente de Ecuador, **Daniel Noboa**, difundió una cadena nacional de radio y televisión, la noche de este lunes 14 de octubre de 2024.
+
+En su mensaje, el jefe de Estado se dirigió a los **grupos narcoterroristas** para ‘recordarles’ que el Gobierno los enfrentará.
+
+### Más noticias
+
+* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
+* [Asamblea trata proyecto sobre energías renovables ante cortes de luz](https://www.elcomercio.com/actualidad/politica/asamblea-trata-proyecto-sobre-energias-renovables-ante-cortes-de-luz.html "Asamblea trata proyecto sobre energías renovables ante cortes de luz")
+* [Ecuador tendrá nuevo cantón, ¿qué pasa con las elecciones 2025?](https://www.elcomercio.com/elecciones/ecuador-nuevo-canton-elecciones-2025.html "Ecuador tendrá nuevo cantón, ¿qué pasa con las elecciones 2025?")
+
+Noboa dio **cifras económicas** sobre lo que representa al país combatir estos delitos:
+
+“Según informes satelitales existen **2 000 hectáreas** de plantaciones de coca (cocaína) en Ecuador; se estima que se iniciaron hace tres años, basados en informes de expertos”, dijo, aunque no detalló mayor información sobre cuáles son los informes y los expertos.
+
+“Cada hectárea de coca (cocaína) equivale a **160 000 dólares** en el valor comercial, 2 000 hectáreas serían un golpe de **320 millones de dólares** a grupos narcoterroristas relacionados con organizaciones criminales internacionales”, añadió.
+
+Noboa a grupos narcoterroristas: ‘Vamos por su financiamiento’
+--------------------------------------------------------------
+
+En su **advertencia** a estas organizaciones, en la que también incluyó a quienes realizan **minería ilegal**, Noboa culpó de ‘abrirles las puertas’ a los **gobiernos anteriore**s.
+
+“Un mensaje para todos los grupos narcoterroristas, no nos vamos a hacer de la vista gorda, el pasado les abrió las puertas para que nos convirtamos en un **país productor**, hoy estamos encargándonos de cerrarlas, vamos por su financiamiento”, señaló.
+
+El primer mandatario puso como ejemplo, una operación que realizaron las **Fuerzas Armadas** para combatir la producción y comercialización de droga, el viernes 11 de octubre.
+
+“Este es un recordatorio (para los grupos narcoterroristas), que por más que lo intenten, **este ya no es su país**; y a los ecuatorianos aquí estoy”, puntualizó el Presidente.
+
+> Un mensaje claro para los grupos narcoterroristas: Por más que lo intenten este ya no es su país. El viejo Ecuador se hizo de la vista gorda para permitirles enquistarse, [#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) no lo permitirá más. [pic.twitter.com/8gjtJFy3Po](https://t.co/8gjtJFy3Po)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 15, 2024](https://twitter.com/Presidencia_Ec/status/1846000184456573164?ref_src=twsrc%5Etfw)
+
+La no tan habitual intervención en cadena nacional de Daniel Noboa duró **un minuto con 38 segundos**; en este espacio **no se refirió a la crisis energética** que enfrenta el país, ni a ningún otro tema.
+
+Cortes de luz en Guayaquil este martes 15 de octubre
+====================================================
+
+Los horarios de los cortes de luz en Guayaquil para este martes 15 de octubre se mantienen hasta el viernes 18.
+---------------------------------------------------------------------------------------------------------------
+
+![Los horarios de los cortes de luz en Guayaquil este martes 15 de octubre se mantienen hasta el viernes 18.](https://www.elcomercio.com/wp-content/uploads/2024/09/cortes-luz-24-sep.jpg)
+
+Los **cortes de luz** en **Guayaquil** del **martes 15 de octubre de 2024** tienen los mismos horarios hasta el viernes 18 de octubre.
+
+**CNEL** distribuyó el cronograma con cortes de hasta 10 horas.
+
+### Más noticias:
+
+* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
+* [Asamblea trata proyecto sobre energías renovables ante cortes de luz](https://www.elcomercio.com/actualidad/politica/asamblea-trata-proyecto-sobre-energias-renovables-ante-cortes-de-luz.html "Asamblea trata proyecto sobre energías renovables ante cortes de luz")
+
+La cuarta semana consecutiva de cortes de luz en Ecuador inició con un anuncio de la ministra de Energía encargada, **Inés Manzano**.
+
+Manzano aseguró que los cortes de luz serían hasta diciembre y se espera que en ese mes ya sean mínimos.
+
+Los horarios de los cortes de luz en Guayaquil este martes 15 de octubre
+------------------------------------------------------------------------
+
+Las **empresas eléctricas** del país señalaron que los cortes de energía pueden **reducirse**, debido al mejoramiento de las condiciones hidrológicas del país.
+
+El 72% de la matriz energética del Ecuador es hídrica y depende del agua.
+
+Según las autoridades, se realiza un monitorio constante de las operaciones en las hidroeléctricas para ir ajustando los horarios de los apagones.
+
+Ecuador pasa por una de las peores crisis energéticas, en parte, debido a la grave sequía que afronta el país y la región.
+
+A continuación, **los horarios** de los cortes de luz en Guayaquil para este martes:
+
+Art, el payaso que venció al Joker y resucita al slasher
+========================================================
+
+La tercera entrega de la saga aún no llega a los cines nacionales, pero las expectativas son altas
+--------------------------------------------------------------------------------------------------
+
+![El actor David Howard Thornton encarna a Art. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/art-terrifier-El-comercio-1.jpg)
+
+**Jason Voorhees**, **Freddy Krueger** y **Michael Myers** tienen un relevo. Aunque muchos anhelan su regreso, sus sangrientas cacerías ya no generan el mismo temor que antes.
+
+En su lugar, ha surgido el sádico Art. El inquietante **payaso de la saga ‘Terrifier**‘ ha asumido el papel de villano, revitalizando así el _slasher_.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/slasher-El-comercio-1024x683.jpg)
+
+### Más noticias
+
+* **[¿Qué es una ‘folie á deux’?](https://www.elcomercio.com/afull/cine-y-series/que-es-folie-a-deux-joker.html "https://www.elcomercio.com/afull/cine-y-series/que-es-folie-a-deux-joker.html")**
+* **[Ocho impactantes verdades sobre los psicópatas que seguro no sabías](https://www.elcomercio.com/sociedad/psicopatas-mitos-verdades-datos.html "https://www.elcomercio.com/sociedad/psicopatas-mitos-verdades-datos.html")**
+
+Este subgénero cinematográfico había estado huérfano de un villano épico, pero con Art al frente, las películas de terror que presentan a un asesino acechando brutalmente a sus víctimas han experimentado un verdadero renacimiento.
+
+‘**Terrifier’ (2016): El nacimiento de un monstruo**
+----------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/slasher-El-comercio-2-1024x683.jpg)
+
+El primer ‘**Terrifier**‘ fue una apuesta atrevida del director Damien Leone, quien introdujo a Art el Payaso como el villano principal. El personaje, previamente visto en el cortometraje ‘All Hallows’ Eve’, se convirtió en una verdadera pesadilla visual.
+
+Era un payaso sádico, sin palabras, que asesina de manera brutal y con un deleite casi artístico. La película, con un bajo presupuesto, apostó por el _gore_ extremo y un terror gráfico que fue tan perturbador como efectivo.
+
+El éxito de ‘**Terrifier**‘ no fue inmediato en taquilla, pero la película se convirtió en un fenómeno de culto gracias al boca a boca y su difusión en plataformas de _streaming_. Lo que más llamó la atención fue la naturaleza despiadada de Art, un asesino que parece disfrutar no solo del asesinato, sino de la tortura psicológica de sus víctimas.
+
+En este sentido, ‘**Terrifier**‘ se mantuvo fiel a las raíces del _slasher_ clásico, pero llevándolo a un nivel de violencia gráfica que pocos habían visto en la última década.
+
+‘**Terrifier 2′ (2022): El fenómeno crece**
+-------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/slasher-El-comercio-1-1024x683.jpg)
+
+Con el estreno de ‘**Terrifier 2**‘ , la saga alcanzó un nuevo nivel de notoriedad. Esta secuela, mucho más ambiciosa, no solo expandió la mitología alrededor del arte, sino que también fue más brutal, más larga y más terrorífica que su predecesora.
+
+En esta entrega, el director Damien Leone demostró que el sadismo de Art no tenía límites y que el _slasher_ podía seguir siendo un terreno fértil para el terror contemporáneo.
+
+Por su parte, ‘**Terrifier 3**‘, la cinta más reciente también promete. En su estreno en Estados Unidos ha sido un éxito inesperado en la taquilla, superando en su primer fin de semana a películas como el ‘[Joker: Folie á Deux](joker: Folie %C3%A1 Deux "https://www.elcomercio.com/tendencias/fracaso-joker-folie-a-deux.html")‘.
+
+El logro fue asombroso, considerando su origen independiente y su presupuesto limitado. El público, fascinado por el regreso de un terror visceral y sin censura, convirtió la película en un fenómeno cultural.
+
+**El renacimiento del _slasher_**
+---------------------------------
+
+Art el Payaso representa el renacimiento del género _slasher_ en una era donde el terror ha estado dominado por el horror psicológico y el suspenso sobrenatural. Si bien el subgénero había estado en declive durante años, con franquicias icónicas llegando a su fin o reinventándose, la saga **Terrifier** ha demostrado que aún hay un lugar para el horror brutal y directo.
+
+A diferencia de las películas de terror que buscan asustar a través de la sutileza o el misterio, el _slasher_ destaca por su violencia gráfica, la sensación de peligro constante y el miedo visceral. Art el Payaso ha logrado revivir ese miedo con su mezcla de humor macabro, diseño perturbador y asesinatos creativos que recuerdan a los grandes del género, pero con un estilo propio que lo ha hecho destacar.
+
+**Terrifier** ha revitalizado el _slasher_, inspirando a una nueva generación de cineastas a explorar el género ya las audiencias a buscar experiencias de terror más intensas. En Ecuador el estreno de ‘Terrifier 3’ está previsto para el 31 de octubre de 2024 y las cintas ‘[All Hallows’ Eve](https://www.primevideo.com/detail/All-Hallows-Eve-La-v%C3%ADspera-de-Halloween "https://www.primevideo.com/detail/All-Hallows-Eve-La-v%C3%ADspera-de-Halloween")‘, ‘[Terrifier](https://www.primevideo.com/-/es/detail/Terrifier---El-Inicio/0GKKTNI68GB7IDOVIMPTKI3P0J "https://www.primevideo.com/-/es/detail/Terrifier---El-Inicio/0GKKTNI68GB7IDOVIMPTKI3P0J")‘ y ‘[Terrifier 2](https://www.primevideo.com/-/es/detail/Terrifier-2/0KP9PWOXRN5LHXSEBX2LG3JB1X "https://www.primevideo.com/-/es/detail/Terrifier-2/0KP9PWOXRN5LHXSEBX2LG3JB1X")‘ se pueden ver en _streaming_.
+
 Impacto de camión contra una vivienda cerró parte de la vía Alóag – Santo Domingo
 =================================================================================
 
@@ -449,656 +977,3 @@ Recientemente, el joven tuvo la oportunidad de mostrarle su tatuaje al propio **
 > [Ver esta publicación en Instagram](https://www.instagram.com/p/DBH7nyrohSw/?utm_source=ig_embed&utm_campaign=loading)
 > 
 > [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBH7nyrohSw/?utm_source=ig_embed&utm_campaign=loading)
-
-7 barreras para acceder a la atención de Infecciones de Transmisión Sexual en Ecuador
-=====================================================================================
-
-Las mujeres son las que más buscan atención médica, por lo que tienen más diagnósticos que los hombres.
--------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo_20241014_170914_0000-1.jpg)
-
-El acceso a la atención de las Infecciones de Transmisión Sexual (ITS) en Ecuador enfrenta al menos siete barreras en Ecuador. Esto no permite contar con un registro real de los pacientes con este tipo de enfermedades, de origen viral, bacteriano y micótico.
-
-Más noticias
-------------
-
-* [Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?](https://www.elcomercio.com/tendencias/salud/repunte-de-infecciones-de-transmision-sexual-en-ecuador-por-que-hay-mas-casos-en-mujeres.html "Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?")
-* [¿Por qué es tan importante hablar sobre la salud mental en el trabajo](https://www.elcomercio.com/tendencias/salud/dia-internacional-salud-mental-trabajo-efemeride.html "¿Por qué es tan importante hablar sobre la salud mental en el trabajo? ")
-
-Actualmente, el 93% de los diagnósticos con los que cuenta el Ministerio de Salud Pública son de mujeres, debido a que demandan más servicios médicos. En los hombres apenas es del 7%. En muchos casos son asintomáticos o presentan lesiones que son ignoradas o subvaloradas. También tienen vergüenza para recurrir al personal sanitario o recurren a la automedicación. Usan cremas tópicas o medicación empírica que retrasan el diagnóstico y el tratamiento.
-
-El personal de salud conoce de casos en hombres, a través de las parejas que sí acuden por atención y se envía la medicación. Pero no cuentan con los controles de seguimiento ni pruebas.
-
-En el 2023, el MSP registró **21 308** casos, mientras que en el 2019 fueron **14 155**. Esto significa un aumento de **7 153**.
-
-Entre las principales enfermedades que se vigilan en el subsistema de Vigilancia Epidemiológica del MSP están la **sífilis** y la **gonorrea**. Se tratan de ITS frecuentes con una incidencia considerable en la morbilidad y la mortalidad. Actualmente, hay pocas opciones de tratamiento por la resistencia de su agente causal a los medicamentos antimicrobianos.
-
-Adicionalmente, MSP realiza promoción y prevención de las ITS, lo cual incluye diagnóstico y tratamiento. Además de la entrega de preservativos y lubricantes a cada paciente y revisiones médicas posteriores. Pero pese a estos esfuerzos, el sistema de salud se enfrenta a estas siete barreras:
-
-### Estigma y discriminación
-
-El estigma y la discriminación son considerados como las principales barreras para el acceso a servicios de salud para personas con VIH/Sida y poblaciones claves o mayor expuestas al virus. Según **Onusida**, la discriminación exacerba los riesgos y priva a las personas de sus derechos, lo que acaba potenciando la epidemia del VIH. Esto se evidencia en tratos injustos (actos u omisiones) por percepciones reales o equivocadas de su estado serológico.
-
-Las personas con VIH tienen 2,4 veces más probabilidades de retrasar su tratamiento por experiencias de discriminación, según [Anthony Guerrero](https://ecuador.unfpa.org/es/news/lanzamiento-de-la-campa%C3%B1a-yonodiscrimino-combatiendo-el-estigma-y-la-discriminaci%C3%B3n-asociadas "https://ecuador.unfpa.org/es/news/lanzamiento-de-la-campa%C3%B1a-yonodiscrimino-combatiendo-el-estigma-y-la-discriminaci%C3%B3n-asociadas"), representante de la plataforma Mo**VHI**lízate. Incluso, llegan a estar muy enfermos porque han experimentado discriminación en estos servicios.
-
-Desinformación
---------------
-
-Un reciente estudio de la **Universidad Técnica de Ambato** sobre los factores que aumentan las ITS concluyó que la desinformación sobre métodos preventivos lleva a conductas de riesgo y no a buscar un tratamiento de manera oportuna. También hay mitos y mentiras que no solo desinforman, sino que perpetúan el estigma asociado, principalmente, al VIH-sida.
-
-### Algunos mitos y mentiras sobre el VIH
-
-* **VIH (Virus de Inmunodeficiencia Humana) y sida (Síndrome de Inmunodeficiencia Adquirida) son lo mismo**. La realidad es que el VIH es el virus que causa el sida, pero no todas las personas con VIH desarrollan sida.
-* **La transmisión de VIH de madre a hijo es inevitable**. Aunque existe el riesgo de transmisión, este puede ser prevenido mediante antirretrovirales durante el embarazo y la lactancia.
-* **El VIH solo afecta a la comunidad LGBTIQ+**. Esta creencia es estigmatizante y falsa. El VIH puede afectar a cualquier persona independientemente de su orientación sexual o identidad de género.
-* **Estoy seguro porque estoy en una relación monógama**: Esta creencia es errónea. El virus puede transmitirse en cualquier relación sexual sin protección.
-*  ****El VIH se transmite por contacto casual****. Hay personas que creen el VIH puede transmitirse a través de abrazos, besos, o al compartir utensilios. Falso. El VIH se transmite a través de sangre, semen, fluidos vaginales y leche materna, cuando la carga viral no ha sido suprimida.
-
-Educación sexual insuficiente
------------------------------
-
-La falta de educación es perjudicial para jóvenes y adolescentes, quienes, sin la información adecuada, están en mayor riesgo de contraer una ITS. El 20% de los nuevos casos corresponden al grupo etario de entre 18 a 24 años de edad.
-
-El MSP reconoce que en algunos países de la región implementaron programas de educación sexual desde edades tempranas dentro de sus sistemas educativos, enfocándose en la prevención y el conocimiento integral de la salud sexual y reproductiva. Un abordaje explícito de la salud sexual reduce las tasas de ITS, según el análisis de la U. Técnica de Ambato.
-
-Dificultad de acceso a los servicios de salud
----------------------------------------------
-
-Los problemas de acceso a la atención médica adecuada y oportuna se evidencia más en lugares alejados, como en la Amazonía. Ahí la población debe trasladarse a pie, en embarcaciones fluviales, transporte público para llegar al centro de salud primaria. Un ejemplo de esto es Chontapunta, en la parte norte de Napo. Debido a la falta de infraestructura cercana en áreas rurales, la detección y la atención llega tardíamente.
-
-En el caso de las mujeres embarazadas es necesario garantizar el nacimiento de niños sanos, pero el diagnostico debe ser a tiempo y hay que dar un tratamiento oportuno para prevenir la transmisión vertical.
-
-**Escasos recursos económicos**
--------------------------------
-
-La situación económica también juega un papel crucial. La pobreza por ingresos a escala nacional, en junio de 2024, se ubica en **25,5%**. La pobreza urbana es de 17,2%, mientras que en el área rural es de 43,2%, según los registros del INEC.
-
-**Confidencialidad y privacidad**
----------------------------------
-
-El miedo a que su información personal sea divulgada impide que muchas personas busquen atención médica para ITS. La discriminación en entornos sanitarios crea un ambiente donde los pacientes temen ser juzgados o rechazados, lo que les lleva a evitar servicios necesarios. Esto se traduce en una falta de confianza en el sistema sanitario.
-
-**Aspecto cultural**
---------------------
-
-Las ITS erróneamente no son percibidas como enfermedades que pueden tener efectos sobre la salud o la capacidad reproductiva.
-
-El conflicto de pareja, los celos y la desconfianza pueden ser la principal consecuencia identificada por ambos géneros.
-
-Aun cuando existe la percepción de riesgo (que los varones anclan en la “peligrosidad de los fluidos femeninos” y las mujeres en la “natural infidelidad” de sus parejas) no se adoptan conductas para prevenir las ITS.
-
-La escasa disponibilidad y capacidad para el tener sexo seguro remite a una compleja trama de normas, valores, estereotipos, relaciones de poder, sentimientos (afecto, temor y vergüenza) e ideas arraigadas, como que el preservativo “no es para el matrimonio”.
-
-La creencia cultural de que el varón no debe desaprovechar oportunidades de contacto sexual y/o que correr riesgos es un elemento esencial de la masculinidad conspiran seriamente contra la capacidad para protegerse.
-
-  
-
-  
-
-Las siete mejores películas para hablar de salud mental
-=======================================================
-
-Al visibilizar estos temas, estas películas contribuyen a desestigmatizar y normalizar la búsqueda de ayuda profesional.
-------------------------------------------------------------------------------------------------------------------------
-
-![Jack Nicholson ganó un Oscar por su actuación en la cinta 'Alguien voló sobre el nido del cuco'. Foto: IMDB](https://www.elcomercio.com/wp-content/uploads/2024/10/salud-mental-El-comercio.jpg)
-
-El cine, como un espejo de la sociedad, ha explorado a lo largo de los años las profundidades de la mente humana. A través de personajes complejos y tramas cautivadoras, el séptimo arte nos ha permitido vislumbrar los desafíos y las maravillas de la **salud mental**.
-
-En este reportaje, exploraremos siete películas que, con sensibilidad y realismo, abordan temas como la **esquizofrenia**, la **depresión**, el **trastorno bipolar**, la **pérdida de la memoria** y la **lucha por la identidad**.
-
-### Más noticias
-
-* **[Películas de salud mental que puedes ver en Netflix](https://www.elcomercio.com/afull/peliculas-salud-mental-netflix-streaming.html "https://www.elcomercio.com/afull/peliculas-salud-mental-netflix-streaming.html")**
-* **[Un cortometraje ecuatoriano reflexiona sobre el impacto de la salud mental](https://www.elcomercio.com/tendencias/cine/cortometraje-ecuatoriano-salud-mental-lesiones.html "https://www.elcomercio.com/tendencias/cine/cortometraje-ecuatoriano-salud-mental-lesiones.html")**
-
-Estas producciones no solo entretienen, sino que también nos invitan a empatizar, comprender y desestigmatizar las **enfermedades mentales**.
-
-Cisne Negro (2010)
-------------------
-
-Explora cómo la presión artística y la búsqueda de la perfección pueden desencadenar síntomas psicóticos y distorsiones de la realidad. Analiza la relación entre la mente y el cuerpo, y cómo las enfermedades mentales pueden manifestarse a través de síntomas físicos.
-
-Inocencia interrumpida (1999)
------------------------------
-
-Trastorno límite de la personalidad. Aborda la importancia del tratamiento y la terapia en la recuperación de las enfermedades mentales.
-
-Joker (2019)
-------------
-
-Examina cómo la sociedad, la desigualdad y la falta de oportunidades pueden desencadenar trastornos mentales y comportamientos violentos. Reflexiona sobre la importancia de la salud mental y la necesidad de abordar las causas subyacentes de la violencia. Joaquin Phoenix ofrece una interpretación desgarradora de un hombre marginado que se transforma en un símbolo de caos, revelando las consecuencias de la soledad y la injusticia social.
-
-Una mente maravillosa (2001)
-----------------------------
-
-Muestra los desafíos y los logros de una persona con esquizofrenia que busca encontrar un equilibrio entre su vida personal y profesional.
-
-Los juegos del destino (2012)
------------------------------
-
-No solo profundiza en los síntomas de la depresión y la ansiedad, sino que también explora cómo el entorno familiar puede influir en la salud mental de las mujeres. La película revela cómo las experiencias traumáticas de generaciones anteriores, como la pérdida y el abandono, pueden dejar una profunda huella en la psique de las protagonistas. Sin embargo, también muestra cómo el apoyo mutuo entre hermanas y la búsqueda de ayuda profesional pueden convertirse en herramientas poderosas para superar estas heridas y construir relaciones más sanas. A través de sus personajes, la película transmite un mensaje esperanzador sobre la capacidad de las personas para sanar y crecer, incluso en las circunstancias más difíciles.
-
-Alguien voló sobre el nido del cuco (1975)
-------------------------------------------
-
-Un clásico del cine que denuncia la deshumanización en los hospitales psiquiátricos, mostrando la lucha por la individualidad y la libertad. Denuncia la medicalización excesiva y la deshumanización de las personas con enfermedades mentales. Critica el sistema psiquiátrico y aboga por un enfoque más humano y personalizado en el tratamiento.
-
-Memento (2000)
---------------
-
-Christopher Nolan nos sumerge en la mente de un hombre con amnesia anterógrada que intenta reconstruir su pasado, explorando los límites de la memoria y la identidad. Explora cómo la pérdida de la memoria afecta la identidad, las relaciones y la percepción del tiempo. Reflexiona sobre la naturaleza de la realidad y la construcción de la identidad a través de la memoria.
-
-Cortes de luz en Quito este martes 15 de octubre
-================================================
-
-Los cortes de luz en Quito son de hasta 10 horas este martes 15 de octubre.
----------------------------------------------------------------------------
-
-![Los cortes de luz son de hasta 10 horas en quito este martes 15 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/tulcan.jpg)
-
-Los **cortes de luz** en **Quito** para este **martes 15 de octubre** de 2024 son de hasta 10 horas por sector[.](https://es.wikipedia.org/wiki/Quito)
-
-La Empresa Eléctrica Quito (EEQ) hizo una programación diferente para cada día de esta semana.
-
-### Más noticias:
-
-* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
-* [Asamblea trata proyecto sobre energías renovables ante cortes de luz](https://www.elcomercio.com/actualidad/politica/asamblea-trata-proyecto-sobre-energias-renovables-ante-cortes-de-luz.html "Asamblea trata proyecto sobre energías renovables ante cortes de luz")
-
-En esta semana, los cortes de luz de hasta 10 horas inician con el anuncio de la ministra de Energía encargada, **Inés Manzano**, de que se esperan cortes de luz hasta diciembre.
-
-Considerando que en ese mes los cortes de luz sean mínimos.
-
-Antes, Manzano, señaló que la tercera semana de este mes, del 14 al 20 de octubre de 2024, será crítica por la falta de lluvias.
-
-La crisis hídrica impide el normal funcionamiento de las hidroeléctricas del país y obliga a continuar con los cortes de luz en todo el Ecuador, con un promedio de 10 horas al día.
-
-Cortes de luz en Quito este martes 15 de octubre
-------------------------------------------------
-
-La disminución de las **franjas horarias** depende las condiciones hídricas para el abastecimiento de las hidroeléctricas existentes en el país.
-
-A continuación, los horarios de los cortos de luz de acuerdo a las franjas y los sectores, este martes, en la capital:
-
-Domina el estilo fit con estos outfits 
-=======================================
-
-El estilo fit domina la moda masculina, ajustando la silueta con comodidad y proyectando seguridad y elegancia
---------------------------------------------------------------------------------------------------------------
-
-![Outfit total black. Foto: Cortesía H&M](https://www.elcomercio.com/wp-content/uploads/2024/10/moda-El-comercio-4.jpg)
-
-El **estilo fit** marca la tendencia en la **moda masculina**. Este tipo de prendas se ajusta al cuerpo y realzan la silueta sin sacrificar la comodidad.  
-
-Los _outfits_ de este tipo permiten proyectar seguridad y estilo, ideales para quienes buscan destacar. Combinar elegancia con versatilidad es clave en el día a día y con [H&M](https://ec.hm.com/hombre) lo puedes conseguir.  
-
-### Más noticias
-
-* **[¿Quién es Ágatha Ruiz de la Prada?](https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-quito-ecuador-moda.html "https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-quito-ecuador-moda.html")**
-* **[El ‘clean girl look’ está ligado al autocuidado](https://www.elcomercio.com/tendencias/clean-girl-look-autocuidado.html "https://www.elcomercio.com/tendencias/clean-girl-look-autocuidado.html")**
-
-Además, las prendas fit son perfectas para moverse entre contextos casuales y formales. Con estos _outfits_, lucir bien nunca fue tan cómodo. 
-
-Confort con un toque moderno 
------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/FOTOS-WEB-MODA-MASCULINA-1024x683.jpg)
-
-Foto: Cortesía H&M
-
-Este polo de tejido sudadera es una prenda cómoda y moderna. Tiene un corte clásico pero añade detalles como la media cremallera y los puños ajustados que le dan un toque actual. Aunque es cómodo, ayuda a definir la figura sin quedar apretado. Es perfecto para usar todos los días, ya que combina estilo y funcionalidad, ideal para cualquier actividad diaria. 
-
-Estilo relajado pero pulido 
-----------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/FOTOS-WEB-MODA-MASCULINA-1-1024x683.jpg)
-
-Foto: Cortesía H&M
-
-La cazadora bomber es una prenda clásica que, con su corte estándar y detalles acanalados, proporciona un ajuste cómodo sin sacrificar estilo. El remate en cuello, puños y bajo aporta estructura a una prenda ligera, lo que la convierte en una opción excelente para las capas de climas variables como el de Quito. 
-
-Funcionalidad con ajuste perfecto
----------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/FOTOS-WEB-MODA-MASCULINA-4-1024x683.jpg)
-
-Foto: Cortesía H&M
-
-Este pantalón cargo ofrece una silueta ajustada que realza el contorno del cuerpo, pero sigue siendo práctico gracias a sus múltiples bolsillos. El elástico en la cintura con cordón de ajuste permite moverse cómodamente. Equilibra estilo y funcionalidad en un _look_ diario. 
-
-Elegancia sin rigidez 
-----------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/FOTOS-WEB-MODA-MASCULINA-3-1024x683.jpg)
-
-Foto: Cortesía H&M
-
-Las camisas ajustadas siguen siendo un básico versátil. Este modelo realza la figura sin sacrificar movilidad, gracias a su diseño de fácil planchado. Es ideal para combinar con otras prendas ajustadas o crear contrastes con piezas más sueltas.  
-
-Sofisticación monocromática 
-----------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/FOTOS-WEB-MODA-MASCULINA-5-1024x683.jpg)
-
-Foto: Cortesía H&M
-
-El _look total black_, compuesto por prendas ajustadas como un suéter y pantalones de cuero, es una opción perfecta para quienes buscan un impacto visual con comodidad. Las texturas flexibles aseguran libertad de movimiento sin perder estilo. 
-
-Los problemas de Marcelo Bielsa si Uruguay no gana a Ecuador
-============================================================
-
-La situación no es fácil para el equipo que dirige Marcelo Bielsa. Uruguay recibirá a Ecuador en las eliminatorias.
--------------------------------------------------------------------------------------------------------------------
-
-![Marcelo Bielsa es el DT de Uruguay que recibirá a Ecuador en eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/Bielsa.jpg)
-
-**Uruguay** se enfrenta a un momento crítico en su campaña de eliminatorias para el Mundial 2026. Los charrúas recibirán a Ecuador en el histórico estadio **Centenario** de **Montevideo**, el 15 de octubre del 2024.
-
-Si no logran una victoria, Marcelo Bielsa podría enfrentar serios problemas que comprometerían su liderazgo.
-
-### Más noticias:
-
-* [Ecuador sucumbe ante Uruguay en el historial de eliminatorias](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-sucumbe-ante-uruguay-en-el-historial-de-eliminatorias.html "Ecuador sucumbe ante Uruguay en el historial de eliminatorias")
-* [¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-beccacece-bielsa.html "¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?")
-* [La Selección de Ecuador tuvo a tres uruguayos en sus filas](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-nacionalizados-uruguay.html "La Selección de Ecuador tuvo a tres uruguayos en sus filas")
-
-**Pérdida de credibilidad en el vestuario**
--------------------------------------------
-
-La reciente derrota ante **Perú** y las declaraciones de **Luis Suárez** sobre la falta de respeto en el manejo del equipo han debilitado la confianza en Bielsa.
-
-Si Uruguay no gana, la situación podría escalar y muchos jugadores podrían cuestionar su capacidad para dirigir al equipo.
-
-La falta de respeto señalada por varios futbolistas podría llevar a una ruptura aún más profunda en el vestuario.
-
-**Presión mediática y crítica pública a Marcelo Bielsa**
---------------------------------------------------------
-
-La prensa uruguaya ha comenzado a presionar sobre la efectividad de Marcelo Bielsa al frente de la selección.
-
-Un nuevo fracaso contra Ecuador no solo acentuaría las críticas, sino que podría llevar a que la Asociación Uruguaya de Fútbol se replantee su continuidad.
-
-La exigencia por resultados es alta, y el entorno mediático podría convertirse en un verdadero calvario si los resultados no llegan.
-
-**Amenazas de renuncia de jugadores clave**
--------------------------------------------
-
-Luis Suárez advirtió que algunos jugadores podrían considerar renunciar a la selección si las condiciones de trabajo no mejoran.
-
-Si Uruguay no logra un triunfo ante Ecuador, es probable que más futbolistas se sumen a esta idea, debilitando aún más a la ‘Celeste’.
-
-La ausencia de líderes como Suárez podría tener repercusiones a largo plazo, tanto en el rendimiento del equipo como en su moral.
-
-Con el futuro incierto y la presión acumulándose, **Marcelo Bielsa** tiene ante sí un desafío monumental.
-
-La victoria contra Ecuador no solo es crucial para la clasificación, sino también para su propia estabilidad como director técnico.
-
-La afición espera que su equipo se levante en este momento crítico y recupere la confianza en el camino hacia el Mundial.
-
-Ruth Chepngetich y un increíble récord mundial de maratón
-=========================================================
-
-La atleta Ruth Chepngetich hizo historia y rompió el récord mundial de maratón en Chicago tras una serie de sacrificios en su carrera.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Ruth Chepngetich, atreta keniana, con su medalla tras ganar y romper el récord mundial en el maratón de Chicago.](https://www.elcomercio.com/wp-content/uploads/2024/10/463165656_18464195635002476_8533307460688104102_n.jpg)
-
-Antes de convertirse en atleta profesional, la keniana **Ruth Chepngetich** tenía el sueño de ser policía. Ahora, a sus 30 años, escribió una página de historia del deporte al batir el domingo en Chicago el récord del mundo de **maratón**, con una marca oficial de dos horas, nueve minutos y 56 segundos.
-
-Nacida en Kenia el 8 de agosto de 1994, **Chepngetich** se convirtió en la primera mujer capaz de derrumbar la barrera de las dos horas y diez minutos, y lo hizo por todo lo alto, al firmar su tercera corona en el maratón de Chicago.
-
-### Más noticias:
-
-* [La Bimbo Global Race llega a Quito con un fin benéfico y alimentario](https://www.elcomercio.com/deportes/carrera-bimbo-global-race-quito.html "La Bimbo Global Race llega a Quito con un fin benéfico y alimentario")
-* [Marcela Peñafiel promete en el Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/marcela-penafiel-mundial-ciclismo-ecuador.html "Marcela Peñafiel promete en el Mundial de Ciclismo con Ecuador")
-* [Glenda Morejón, medallista olímpica en París 2024, se casó](https://www.elcomercio.com/deportes/glenda-morejon-medallista-olimpica-en-paris-2024-se-caso.html "Glenda Morejón, medallista olímpica en París 2024, se casó")
-
-Rebajó casi dos minutos el anterior récord mundial, el que la etíope **Tigst Assefa** (2h.11.53) logró en Berlín en 2023 y dedicó esta hazaña al keniano **Kelvin Kiptum**, fallecido trágicamente el pasado febrero tras sellar el récord mundial masculino en Chicago el año pasado.
-
-“**Kiptum era un buen chico, trabajaba muy duro en los entrenamientos y se notó en Valencia, Londres y Chicago,** cuando hizo el récord de mundo. Es muy triste que haya tenido ese accidente, fue muy triste, fue una noticia devastadora en Kenia”, dijo en conversación con EFE poco antes de la disputa del maratón.
-
-Detrás de un carácter muy tranquilo y tono de voz bajo, **Chepngetich** es una atleta de extraordinario carácter y alma competitiva.
-
-El récord mundial ya era un objetivo de Ruth Chepngetich
---------------------------------------------------------
-
-Antes del maratón no se escondió y reconoció que el objetivo en **Chicago** no solo era triunfar por tercera vez, sino también firmar un **nuevo récord**.
-
-Creció en **Kenia** con el objetivo de ser policía, pero cuando descubrió su pasión y talento por el atletismo decidió enfocarse totalmente en el deporte. Era una adolescente y tuvo que convencer a sus padres para que pudiera **dejar el colegio** para perseguir sus sueños.
-
-“**Estoy agradecida, me siento feliz, mi sueño se ha hecho realidad. Llevo mucho tiempo intentando, lo fallé por 14 segundos (en 2022), y por fin lo he conseguido**“, dijo Chepngetich en la rueda de prensa posterior al maratón.
-
-La keniana logró su primera corona en Chicago en 2021 y en 2022 selló el doblete con una marca de dos horas, catorce minutos y 18 segundos que le hizo rozar la entonces plusmarca mundial de la keniana **Brigid Kosgei**.
-
-Una historia de éxito para Chepngetich
---------------------------------------
-
-No dejó de intentarlo y ya es la mujer más rápida del mundo en el maratón. Su triple corona en **Chicago** se suma al oro mundial en **Doha 2019** y al triunfo en el medio maratón de Buenos Aires.
-
-Tras la hazaña de **Chepngetich** en la Ciudad del Viento, Kenia luce ahora los récords mundiales de maratón tanto en categoría masculina como femenina.
-
-“**Para mi país significa mucho, estoy orgullosa por mi país. Estoy orgullosa por ser de Kenia**“, afirmó Chepngetich.
-
-La keniana, que tiene un centro entrenamiento en su tierra, manifestó el deseo de convertirse en un **ejemplo de disciplina** para las jóvenes chicas de su país.
-
-“**Quiero inspirar a las jóvenes a tener disciplina y quizás en un futuro habrá chicas que podrán soñar con batir mi récord**“, aseguró tras coronarse reina del maratón en Chicago, una ciudad que considera ya su segunda casa.
-
-Fiscalización deja en suspenso inició el trámite del juicio político contra Andrea Arrobo
-=========================================================================================
-
-Fiscalización reanudará la sesión para conocer el juicio político contra Andrea Arrobo en los próximos días.
-------------------------------------------------------------------------------------------------------------
-
-![Fiscalización conoce juicio politico contra Andrea Arrobo, exministra de Energía, por crisis energética.](https://www.elcomercio.com/wp-content/uploads/2024/04/Andrea-Arrobo.jpg)
-
-La **Comisión de Fiscalización** de la Asamblea Nacional sesionó para iniciar el trámite del **juicio político** contra **Andrea Arrobo**, exministra de Energía y Minas, la tarde de este lunes 14 de octubre de 2024.
-
-**Ana Galarza (Construye)** presentó la solicitud de juicio político contra Andrea Arrobo por **incumplimiento de funciones**, relacionado con la **crisis energética**, en abril.
-
-### Más noticias:
-
-* [Juicio político contra Andrea Arrobo es el siguiente en la lista de Fiscalización](https://www.elcomercio.com/actualidad/politica/juicio-politico-andrea-arrobo-siguiente-fiscalizacion.html "Juicio político contra Andrea Arrobo es el siguiente en la lista de Fiscalización")
-* [Juicio político contra Mónica Palencia depende del Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/juicio-politico-contra-monica-palencia-depende-pleno-asamblea.html "Juicio político contra Mónica Palencia depende del Pleno de la Asamblea")
-
-Bajo la dirección del asambleísta **Luis Alvarado**, se instaló la sesión de la Comisión de Fiscalización de la Asamblea.
-
-Alvarado solicitó constatar el cumplimiento de requisitos de fondo y forma y, una vez confirmado este punto, abrió el debate.
-
-La intención era avocar conocimiento de la solicitud de juicio político, previamente calificada por el **Consejo de Administración Legislativa (CAL).**
-
-Sin embargo, esto no ocurrió.
-
-Sin solicitudes del uso de la palabra y sin presentación de **ninguna moción** para la calificación del juicio político, la sesión fue suspendida.
-
-Causales del juicio político contra Andrea Arrobo
--------------------------------------------------
-
-La exministra, Andrea Arrobo, estuvo casi cinco meses cumpliendo las funciones de Ministra de Energía, hasta el 16 de abril de 2024.
-
-Debido a la **crisis energética**, el 17 de abril, **Daniel Noboa** pidió su renuncia y la acusó de supuesto sabotaje por haber afectado al sector energético.
-
-Junto a la exministra, otros 20 funcionarios también fueron señalados como posibles cómplices en la crisis energética.
-
-Posteriormente, a través de su cuenta de X, Arrobo señaló que, desde el 16 de abril, enfrentaba una investigación fiscal por el delito de paralización de servicio público.
-
-En su defensa, en una carta difundida por redes sociales, Arrobo señaló que recibió un “sector en crisis”.
-
-Esto, producto de más de seis años de “abandono” y de una falta de inversión, con problemas estructurales y una dependencia de la importación de energía.
-
-Así como, de condiciones climáticas “que no pueden solucionarse en cinco meses”.
-
-Solicitantes y causales del juicio político contra Andrea Arrobo que tramitará Fiscalización  
-El 8 de mayo de 2024, el Consejo de Administración Legislativa (CAL) calificó la solicitud de juicio político en contra de Andrea Arrobo.
-
-La iniciativa surgió de las bancadas de Construye y el Partido Social Cristiano (PSC) que le acusan de incumplimiento de funciones.
-
-El 24 de abril, Ana Galarza y Jaime Moreno de Construye ingresaron oficialmente la solicitud de juicio político contra Arrobo.
-
-Vicente Taiano (PSC) se unió al pedido, que contó con 40 firmas de respaldo.
-
-Según los solicitantes, la prueba “madre” del incumplimiento de funciones de Arrobo fue que los “apagones” seguían y no se hizo nada.
-
-Esto, pese a que hubo alertas desde noviembre del año pasado.  
-
-Recrea el estilo de Mia Wallace, la ‘femme fatale’ de ‘Pulp Fiction’ con estas ideas
-====================================================================================
-
-La cinta festeja hoy 30 años de su estreno. Mia Wallace es uno de los personajes más recordados de la película.
----------------------------------------------------------------------------------------------------------------
-
-![Uma Thurma encarnó a Mia Wallace en 'Pulp Fiction'. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/pulp-fiction-El-comercio.jpg)
-
-El 14 de octubre de 1994, ‘**Pulp Fiction**‘ **de Quentin Tarantino** llegó a los cines y, con ella, una revolución estilística. A 30 años de su estreno, la película no solo ha dejado una huella imborrable en el cine, sino también en el mundo de la moda.
-
-El personaje de **Mia Wallace**, interpretado por **Uma Thurman**, redefinió el arquetipo de **_femme fatale_** con su icónico estilo. Desde su vestido negro y blanco hasta su emblemático corte de cabello, su _look_ se ha convertido en un referente cultural.
-
-### Más noticias
-
-* **[Lo que ‘dos pedazos de esponja’ pueden causar en la imagen personal](https://www.elcomercio.com/tendencias/hombreras-imagen-personal-moda.html "https://www.elcomercio.com/tendencias/hombreras-imagen-personal-moda.html")**
-* **[El ‘clean girl look’ está ligado al autocuidado](https://www.elcomercio.com/tendencias/clean-girl-look-autocuidado.html "https://www.elcomercio.com/tendencias/clean-girl-look-autocuidado.html")**
-
-Celebridades y diseñadores han homenajeado su sofisticación violenta, inspirándose en la estética de la película. Más allá de la pasarela, el estilo de ‘Pulp Fiction’ sigue influyendo en las tendencias contemporáneas.
-
-La huella de Mia Wallace
-------------------------
-
-Mia Wallace es, sin duda, el rostro más icónico de Pulp Fiction.
-
-Su _look_, que combina una camisa blanca con pantalones negros, fue diseñado por Betsy Heimann, quien ha revelado que las limitaciones presupuestarias llevaron a decisiones creativas, como cortar los pantalones de Uma Thurman para adaptarlos a su altura.
-
-Esta estética ha inspirado a figuras como Lorde, quien ha replicado su traje en múltiples ocasiones, y ha influido en el vestuario de otras producciones, como el personaje de Jane en ‘Breaking Bad’.
-
-![Jane en 'Breaking Bad'. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/pulp-fiction-El-comercio-2-1024x683.jpg)
-
-Jane en ‘Breaking Bad’. Foto: Pinterest
-
-Inspiraciones en la moda
-------------------------
-
-La influencia de ‘Pulp Fiction’ se refleja en varias pasarelas, destacando el desfile de SS 25 de Saint Laurent, donde se rinde homenaje al traje de Mia.
-
-El corte bob de Thurman ha sido adoptado por actrices com[o **Katie Holmes**,](https://www.imdb.com/name/nm0005017/ "https://www.imdb.com/name/nm0005017/") y el _look_ se ha vuelto un clásico en fiestas de disfraces, siendo accesible para quienes buscan un estilo audaz sin complicaciones.
-
-Incluso la marca Urban Decay lanzó una línea de maquillaje inspirada en el icónico labial rojo de Mia.
-
-¿Cómo obtener el _look_ de Mia Wallace?
----------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/pulp-fiction-El-comercio-1-1024x683.jpg)
-
-**1\. Vestido negro ajustado** **o pantalones negros cortos**  
-Para capturar la esencia de Mia Wallace, busca un vestido negro que se ajuste a tu figura y que caiga justo por encima de las rodillas. Un diseño con cuello en V es ideal para resaltar el escote. Si son pantalones, asegúrate de que sean cortos.
-
-**2\. Camisa blanca**  
-Mia también usa una camisa blanca de manga larga, que puedes llevar por debajo del vestido o de manera independiente. Asegúrate de que sea de un tejido ligero para un look elegante.
-
-**3\. Maquillaje impactante**  
-El maquillaje es clave para lograr su look. Aplica un labial rojo intenso y un delineador de ojos negro. Mantén el resto del maquillaje sencillo para que la atención se centre en los labios.
-
-**4\. Corte de cabello**  
-El icónico corte bob con flequillo recto es esencial. Si no deseas un cambio drástico, considera usar una peluca que imite su estilo.
-
-**5\. Actitud segura**  
-Finalmente, el look de Mia Wallace se completa con una actitud segura y confiada. Mantén una postura erguida y canaliza la presencia de este icónico personaje. Pulp Fiction se puede ver en _streaming_ [aquí](https://www.netflix.com/ec/title/880640).
-
-Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute
-===============================================================
-
-Las lluvias en el norte del país aumentaron el caudal del río Coca. Las condiciones en las centrales del Complejo Paute son diferentes.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Captación de agua de Coca Codo Sinclair. Foto: Diego Pallero / El Comercio](https://www.elcomercio.com/wp-content/uploads/2024/10/Coca-Codo-Sinclair-14102024.jpg)
-
-El **Ministerio de Energía y Minas** señaló que la tercera semana de octubre de 2024 será crítica debido a la situación hídrica del **Ecuador**. Esto obligó a continuar con los **cortes de luz** de hasta 10 horas diarias hasta el domingo 20 de octubre de 2024[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
-* [Asamblea trata proyecto sobre energías renovables ante cortes de luz](https://www.elcomercio.com/actualidad/politica/asamblea-trata-proyecto-sobre-energias-renovables-ante-cortes-de-luz.html "Asamblea trata proyecto sobre energías renovables ante cortes de luz")
-* [Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre](https://www.elcomercio.com/actualidad/quito/conozca-nuevos-horarios-cortes-de-luz-quito-semana-del-14-al-20-octubre.html "Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre")
-
-Caudal de río Coca
-------------------
-
-Sin embargo, el fin de semana del 12 y 13 de octubre de 2024 se registraron lluvias en la parte norte del país y mejoró la operación de la Central Hidroeléctrica **Coca Codo Sinclair**, que aprovecha el potencial del río Coca, en el límite provincial de **Napo y Sucumbíos**.
-
-Según el monitorio diario del río Coca, este 13 de octubre se registró un caudal de 163 metros cúbicos por segundo (m³/s). En las dos primeras semanas de este mes, el promedio fue de 23 m³/s.
-
-La mejora del caudal del **río Coca** permitió disminuir los períodos de cortes de luz programados para el domingo 13 y lunes 14 de octubre. “Hemos tenido un buen flujo de lluvias, buenos caudales, Coca Codo Sinclair estuvo ayer (13 de octubre) extraordinario y pudimos aprovechar 1 100 megavatios (MW). Sin embargo, esa no es la normalidad”, dijo la ministra de Energía encargada, **Inés Manzano**, en una entrevista con Teleamazonas.
-
-Además, agregó que Coca Codo seguirá operando de esta manera, ya que en la zona de esta hidroeléctrica sí hay lluvias.
-
-**Coca Codo Sinclair** es la **hidroeléctrica** más grande del país, con 1 500 MW de potencia instalada. Esta central es de paso, es decir, no tiene un reservorio y debe aprovechar los caudales en el momento que se producen para generar energía.
-
-¿Qué pasa con el Complejo Hidroeléctrico Paute?
------------------------------------------------
-
-Pero, en el centro sur del país, en donde se encuentra ubicado el **Complejo Hidroeléctrico Paute** (Azuay), compuesto por tres centrales: **Mazar, Paute-Molino y Sopladora**, con un potencial de 1 700 MW, las **lluvias son escasas**.
-
-Hasta las 16:00 de este lunes las tres centrales permanecían apagadas. La cota del embalse de Mazar, el más grande y que alimenta a las tres hidroeléctricas, llegó a 2 114,8 metros sobre el nivel del mar (m s. n. m.), un metro de agua más que lo registrado el domingo. Sin embargo, aún se encuentra a 20 centímetros para alcanzar una operación mínima, que es **2 115** (m s. n. m.).
-
-Mientras que, para llegar al máximo de 2 153 metros sobre el nivel del mar, le falta más de 38 metros, que es igual que un edificio de más de 10 pisos.
-
-Según la data oficial, el caudal de este reservorio fue de 47,6 m³/s. a las 16:00 de este lunes. Esta cantidad de agua es insuficiente para llenarlo.
-
-Este embalse tiene una extensión de 31 kilómetros, por lo que se requiere 300 millones de m³ de agua para llenarlo, explicó **Ricardo Buitrón**, consultor energético. Es decir, se necesitaría **lluvias intensas**, que produzcan caudales de 120 m³/s por un mes, para completarlo.
-
-Se retoman los cortes programados
----------------------------------
-
-Pese a la mejora de **Coca Codo Sinclair** y a la subida de la cota de **Mazar**, el Operador Nacional de Electricidad (Cenace), retomó los cortes de luz programados a partir de las 12:00 de este lunes.
-
-Los horarios de cortes de luz de todo el país lo puede revisar en la [página web del Ministerio de Energía y Minas](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/"). Allí se encuentran los cronogramas por cada una de las nueve empresas distribuidoras de electricidad del país.
-
-Iván Kaviedes tiene uno de los apodos más ‘memorables’ de Sudamérica
-====================================================================
-
-Jaime Iván Kaviedes jugó con Ecuador tres eliminatorias, dos mundiales y una Copa América.
-------------------------------------------------------------------------------------------
-
-![Jaime Iván Kaviedes como jugador de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/kaviedes_apodo_1.jpg)
-
-**Iván Kaviedes** marcó una época legendario en la historia moderna de la Selección de Ecuador, con la que llegó a jugar 55 partidos, anotó 15 goles y jugó los mundiales de Corea-Japón 20202 y Alemania 2006.
-
-El nombre de Iván Kaviedes en el **fútbol ecuatoriano es sinónimo de calidad y de gratos recuerdos** entre 1998 y 2011, años en los que debutó y jugó por última vez con la Selección de Ecuador.
-
-### Más noticias:
-
-* [Las 33 selecciones eliminadas rumbo al Mundial 2026](https://www.elcomercio.com/deportes/futbol/eliminatorias-mundial26-selecciones-eliminadas-fifa.html "Las 33 selecciones eliminadas rumbo al Mundial 2026")
-* [Iván Kaviedes y Armando Paredes protagonizarán la pelea del año](https://www.elcomercio.com/deportes/boxeo/ivan-kaviedes-armando-paredes-pelea.html "Iván Kaviedes y Armando Paredes protagonizarán la pelea del año")
-* [La Selección de Ecuador sub-15 perdió, pero se clasificó](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-sub15-venezuela-resultado.html "La Selección de Ecuador sub-15 perdió, pero se clasificó")
-
-El debut de **Kaviedes fue en 1998 con Polo Carrera**, el mejor jugador de Liga de Quito, que le dio la confianza en una estrepitosa goleada de 5-1 contra Brasil jugado en el Robert F. Kennedy Memorial Stadium, ubicado en Washington.
-
-Kaviedes saltó en el equipo titular y fue sustituido a los 57 minutos por Nicolás Asencio, jugador de Barcelona Sporting Club.
-
-La Tri formó con Jacinto Espinoza; **Alberto Montaño, Hólguer Quiñónez, Néicer Reasco y Ulises de la Cruz**; Marlon Ayoví, Héctor Carabalí, Edwin Tenorio y Álex Darío Aguinaga; Kaviedes y Ariel Graziani.
-
-El último compromiso fue el 2 de septiembre de 2011 en la goleada 5-2 ante Jamaica en el estadio Olímpico Atahualpa. Este juego sirvió para que Édison Méndez complete los 100 partidos con la tricolor.
-
-El entrenador era el colombiano Reinaldo Rueda y formó con Adrián Bone; **Juan Carlos Paredes, Frickson Erazo, Giovanni Caicedo, Walter Ayoví**; Segundo Castillo, Luis Fernando Saritama, Edison Méndez, Christian Suárez; Cristian Benítez y Jaime Ayoví.
-
-Entró a los 72 minutos para reemplazar al fallecido ‘Chucho’ Benítez y nunca más fue citado.
-
-En ese lapso se recuerda el **gol marcado el 7 de noviembre de 2001 a Uruguay en la eliminatorias al Mundial** Corea-Japón 2002. A los 27 minutos del segundo tiempo colocó el 1-1 con un certero golpe de cabeza.
-
-En su hoja de vida contra también **haber jugado en la Copa América Paraguay 1999**. Estuvo en los tres partidos de la fase grupos y anotó dos goles, uno contra Argentina y otro frente a Uruguay.
-
-Precisamente las redes sociales de la **Copa América incluyó a Iván Kaviedes** como uno de los jugadores con los “apodos memorables” del fútbol sudamericano.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/kaviedes_apodo_2-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-El ‘Nine’ y su apodo
---------------------
-
-El 24 de octubre de 1997 nació en **Santo Domingo de los Tsáchilas, Jaime Iván Kaviedes Llorentty**, que debutó en el fútbol profesional con Emelec en 1995 y luego tuvo una extensa carrera en equipos de Italia, España, México, Portugal, Inglaterra y Argentina.
-
-En el 2020 jugó en el Aviced en la Segunda Categoría del Azuay, en lo que fue su último club a escala profesional.
-
-La historia cuenta que su apodo se **debe a que en su niñez recibió una camiseta que decía “nine”**, sobrenombre que fue el que lo acompañó desde su natal Santo Domingo y fue parte de su identidad como futbolista a lo largo de toda su carrera.
-
-La publicación de la Copa América también cita a Ángel ‘Fideo’ Di María, el ‘Fenómeno’ Ronaldo, Sebastián ‘Loco’ Abreu, **Carlos ‘Pibe’ Valderrama, Jorge ‘Mago’ Valdivia, Marco ‘Diablo’ Etcheverry**, Juan ‘Huracán’ Arango.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/kaviedes_apodo_3-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Perú refuerza la vigilencia y el monitoreo ambiental en el santuario del Machu Picchu
-=====================================================================================
-
-La nueva sede del Sernanp también se utilizará para la vigilancia y monitoreo del Parque Nacional del Manu.
------------------------------------------------------------------------------------------------------------
-
-![Vista general de la ciudadela prehispánica de Machu Picchu (Perú), en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/machu-picchu-efe.jpg)
-
- Las autoridades peruanas inauguraron este lunes, 14 de octubre de 2024, una nueva sede administrativa del **Servicio Nacional de Áreas Naturales Protegidas** (Sernanp) que permitirá fortalecer las acciones de vigilancia y monitoreo del **Santuario Histórico de Machu Picchu.**
-
-### Más noticias
-
-* [Arqueólogos peruanos retoman investigaciones en Machu Picchu](https://www.elcomercio.com/actualidad/mundo/arqueologos-peruanos-retoman-investigaciones-machu-picchu.html "https://www.elcomercio.com/actualidad/mundo/arqueologos-peruanos-retoman-investigaciones-machu-picchu.html")
-* [Machu Picchu contará con un tramo accesible para personas con discapacidad](https://www.elcomercio.com/actualidad/mundo/machu-picchu-tramo-accesible-personas-discapacidad.html "https://www.elcomercio.com/actualidad/mundo/machu-picchu-tramo-accesible-personas-discapacidad.html")
-* [Turistas europeos fueron expulsados de Machu Picchu por tomarse fotos desnudos](https://www.elcomercio.com/actualidad/mundo/turistas-fotos-desnudos-machu-picchu.html "https://www.elcomercio.com/actualidad/mundo/turistas-fotos-desnudos-machu-picchu.html")
-
-La nueva sede del Sernanp también se utilizará para la **vigilancia y monitoreo del Parque Nacional del Manu,** que, igual que el santuario del Machu Picchu, es una **área natural protegida y** considerada emblemática por su biodiversidad, según detalló un comunicado oficial.
-
-El encargado de inaugurar la sede, ubicada en el distrito cuzqueño de San Jerónimo, fue el ministro del Ambiente, **Juan Carlos Castro Vargas**. Destacó el compromiso del **Gobierno con la protección de estos territorios**, señalando que la nueva sede es resultado del esfuerzo conjunto para asegurar que estas áreas protegidas sean referentes globales en conservación.
-
-Áreas protegidas
-----------------
-
-Asimismo, explicó que esta sede potenciará las **coordinaciones entre ambas áreas protegidas,** que albergan especies y ecosistemas únicos que necesitan ser preservados a largo plazo.
-
-Nueva infraestructura
----------------------
-
-El jefe del Sernanp, José Carlos Nieto Navarrete, afirmó que esta **nueva infraestructura** es importante para el fortalecimiento de la gestión efectiva de estas áreas nacionales protegidas, ya que facilitará la labor diaria que realiza el personal en el campo.
-
-También fomentará la **colaboración entre las comunidades** y el Sernanp para promover un desarrollo sostenible que beneficie a todos.
-
-Luis Miguel era ‘buen besador’, dijo Lucía Méndez
-=================================================
-
-Durante años, hubo rumores acerca de un romance entre los dos cantantes.
-------------------------------------------------------------------------
-
-![Luis Miguel y Lucía Méndez en una foto compartida por la diva mexicana en su Instagram. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Luis-Miguel-Lucia-Mendez-El-comercio.jpg)
-
-**Lucía Méndez**, la icónica actriz y cantante mexicana de 69 años, abrió su corazón. La diva recordó su romance con **Luis Miguel**, de 54 años.
-
-En una entrevista, dice la revista HOLA!, Méndez confirmó que dejó a “El Sol” porque se enamoró de otro hombre, el **productor de televisión Pedro Torres**, con quien tuvo a su único hijo.
-
-### Más noticias
-
-* **[P. Diddy y su controversial vínculo con Justin Bieber se debate en las redes](https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html "https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html")**
-* **[Shakira se lleva bien con su ex y hace negocios con él](https://www.elcomercio.com/afull/shakira-ex-negocios.html "https://www.elcomercio.com/afull/shakira-ex-negocios.html")**
-
-Durante el **[pódcast ‘Pink Promise](https://open.spotify.com/show/7bncg5AkyumTO0Gamr42zI "https://open.spotify.com/show/7bncg5AkyumTO0Gamr42zI")‘**, la artista relató que su relación con Luis Miguel duró seis meses y que, a pesar de la diferencia de edad—ella tenía 33 y él 18—, la atracción fue mutua.
-
-Una noche inolvidable en Miami
-------------------------------
-
-Méndez compartió detalles sobre una noche memorable en Miami, donde la química entre ambos se intensificó. Según su relato, un joven Luis Miguel “tocó la puerta del hotel, llegó en smoking y con una botella de champaña”. Sin embargo, la velada tomó un giro inesperado.
-
-“Me tomé una copa y me puso borrachísima”, confesó, revelando que despertó junto a Luis Miguel al día siguiente y reflexionó: “Ah, caray”. Aunque tuvo sentimientos de enojo por la situación, la conexión entre ambos fue genuina.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBB2Y7IvtjK/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Lucía Méndez (@luciamendezof)](https://www.instagram.com/p/DBB2Y7IvtjK/?utm_source=ig_embed&utm_campaign=loading)
-
-Un romance complicado y el legado musical
------------------------------------------
-
-A pesar de los momentos románticos, Lucía describió a Luis Miguel como buen besador, según la revista VEa, pero nunca permitió que sus sentimientos se profundizaran, acotó. En la charla, también se refirió a la famosa canción **[Fría como el viento](https://youtu.be/D79-FN99dRI?si=xaj0HSUgKA8bLJbD "https://youtu.be/D79-FN99dRI?si=xaj0HSUgKA8bLJbD")**, la cual Luis Miguel le compuso tras su ruptura.
-
-“La verdad quiero mucho a Mickey, lo amo”, aseguró. Al ser preguntada sobre **Paloma Cuevas**, la actual pareja de Luis Miguel, Méndez respondió que es “una gran mujer, guapa”, dejando claro que no hay rencor.
-
-La historia de Lucía y Luis Miguel continúa fascinando a los fanáticos, quienes se preguntan qué hubiera pasado si las circunstancias hubieran sido diferentes. A lo largo de los años, los rumores sobre su relación han generado especulaciones, y ahora, con esta nueva revelación, los seguidores de ambos artistas pueden ver un lado más humano y personal de sus ídolos.
-
-La importancia del amor en su vida
-----------------------------------
-
-![Productor de televisión Pedro Torres, padre del único hijo de Lucía Méndez. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/Luis-Miguel-Lucia-Mendez-El-comercio-1-1024x683.jpg)
-
-Productor de televisión Pedro Torres, padre del único hijo de Lucía Méndez. Foto: Pinterest
-
-Lucía también reflexionó sobre el amor en su vida, afirmando que siempre ha buscado relaciones significativas y sinceras. Aunque su romance con Luis Miguel fue efímero, dejó una huella perdurable en su memoria, y su conexión se suma a una lista de relaciones icónicas en el mundo del espectáculo.
-
-La foto de Lucía Méndez y Luis Miguel juntos
---------------------------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBFyH4ZprEC/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Lucía Méndez (@luciamendezof)](https://www.instagram.com/p/DBFyH4ZprEC/?utm_source=ig_embed&utm_campaign=loading)
-
-El 13 de octubre de 2024, Lucía Méndez compartió en su Instagram, donde tiene más de 450 mil seguidores, una fotografía de la entrega de Premios TVyNovelas de 1986, hace más de 38 años.
-
-En la imagen, Luis Miguel aparece en un elegante esmoquin, mientras que la actriz, conocida por telenovelas como _**Tú o nadie**_, luce un vestido verde esmeralda y un peinado voluminoso característico de la época.
-
-Junto a la foto, Méndez escribió: “Recuerdito nocturno dominguero con Mickey! @luismiguel, descansen mis #Luwers los amo ♥️”.
