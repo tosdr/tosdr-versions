@@ -246,10 +246,6 @@ Related links
 
 [Clinical trials](https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html)
 
-[Pre-approval access request system](https://www.bms.com/healthcare-providers/early-patient-access-to-investigational-medicine.html)
-
-[Post study drug access request system](https://www.bms.com/healthcare-providers/post-study-drug-access.html)
-
 Researchers
 
 [Researchers](https://www.bms.com/researchers-and-partners.html)
