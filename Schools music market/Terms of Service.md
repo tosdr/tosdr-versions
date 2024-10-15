@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/lets-learn-about-jazz-music/)
+ [](https://schoolsmusicmarket.com/product/how-are-the-instruments-played-worksheet-activity/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/the-musical-meter-music-reflection-worksheet/)
+ [](https://schoolsmusicmarket.com/product/music-alphabet-worksheet/)
 
 ###### Browse By Year/Grade
 
