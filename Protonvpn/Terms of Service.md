@@ -215,9 +215,9 @@ If, in the provision of the Services, the Company processes, on the user’s beh
 8\. Intellectual property
 -------------------------
 
-All trademarks, service marks, logos, trade names, and other proprietary designations of PROTON (the “PROTON Trademarks”) displayed on this website are trademarks or registered trademarks of the Company, and numerous of the PROTON Trademarks are registered with the U.S. Patent and Trademark Office and with multiple trademark offices around the world. See, e.g., U.S. Reg. Nos. 4,751,245, 4,754,889; CH Reg. No. 662,183; EU Reg. No. 17,893,097. Nothing in these Terms and Conditions should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of the Proton Trademarks without our prior written permission in each instance. All goodwill generated from the use of the Proton Trademarks will inure to the Company’s exclusive benefit.
+All trademarks, service marks, logos, trade names, and other proprietary designations of PROTON (the “PROTON Trademarks”) displayed on this website are trademarks or registered trademarks of the Company, and numerous of the PROTON Trademarks are registered with the U.S. Patent and Trademark Office and with multiple trademark offices around the world. See, e.g., U.S. Reg. Nos. 4,751,245, 4,754,889; CH Reg. No. 662,183; EU Reg. No. 17,893,097. Nothing in these Terms of Service should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of the Proton Trademarks without our prior written permission in each instance. All goodwill generated from the use of the Proton Trademarks will inure to the Company’s exclusive benefit.
 
-9\. Terms of payment
+9\. Terms of Payment
 --------------------
 
 Subscriptions for the Services are charged on a monthly, yearly or bi-yearly billing cycle, depending on your selection. After the initial term, the subscription is renewed automatically for the same selected duration unless canceled or modified by you. Credit balances are automatically deducted accordingly. You are responsible for keeping payment information in relation with your Account up to date.
@@ -271,7 +271,7 @@ If you do not want your plan to renew, you need to downgrade your plan before th
 
 If you increase the billing cycle of your subscription (e.g. from 1 month to 1 year), the change is applied at the end of your current subscription cycle.
 
-11\. Modification to the terms of service
+11\. Modification to the Terms of Service
 -----------------------------------------
 
 Within the limits of applicable law, the Company reserves the right to review and change these Terms at any time. As long as you are using your Account or the Services, you are responsible for regularly reviewing these Terms. Continued use of your Account or the Services, including non-deletion of your Account after such changes are performed shall constitute your consent to them. The latest Terms will apply going forward and to any dispute or issue arising after the Terms have been updated.
@@ -293,7 +293,7 @@ If you are a consumer user residing in the United States of America, you consent
 13.1. Binding arbitration agreement and class action waiver
 -----------------------------------------------------------
 
-These Terms and Conditions contain a class action waiver as well as an arbitration provision, which requires you to arbitrate any claims (with certain exceptions) you may have on an individual basis. Arbitration on an individual basis means that you will not have, and that you waive, the right for a judge or jury to decide your claims, and that you may not proceed in a class, consolidated, or representative capacity in any forum, as described in more detail below. You have the right to opt out of arbitration and/or the class action waiver, as explained below. Please read this section and the class action waiver section carefully – it may significantly affect your legal rights, including your right to file a lawsuit in court and to have a jury hear your claims. It contains procedures for mandatory binding arbitration and a class action waiver.
+These Terms of Service contain a class action waiver as well as an arbitration provision, which requires you to arbitrate any claims (with certain exceptions) you may have on an individual basis. Arbitration on an individual basis means that you will not have, and that you waive, the right for a judge or jury to decide your claims, and that you may not proceed in a class, consolidated, or representative capacity in any forum, as described in more detail below. You have the right to opt out of arbitration and/or the class action waiver, as explained below. Please read this section and the class action waiver section carefully – it may significantly affect your legal rights, including your right to file a lawsuit in court and to have a jury hear your claims. It contains procedures for mandatory binding arbitration and a class action waiver.
 
 _**Informal dispute resolution**_. Either party asserting a dispute shall first try in good faith to resolve it by providing written notice as specified below to the other party describing the facts and circumstances (including any relevant documentation) and allowing the receiving party 30 days in which to respond. Both you and the Company agree that this dispute resolution procedure is a condition precedent which must be satisfied before initiating any arbitration against the other party.
 
@@ -360,9 +360,9 @@ On this page
 * [6\. Indemnification](#6-indemnification)
 * [7\. Privacy](#7-privacy)
 * [8\. Intellectual property](#8-intellectual-property)
-* [9\. Terms of payment](#9-terms-of-payment)
+* [9\. Terms of Payment](#9-terms-of-payment)
 * [10\. Modification of plan or billing cycle](#10-modification-of-plan-or-billing-cycle)
-* [11\. Modification to the terms of service](#11-modification-to-the-terms-of-service)
+* [11\. Modification to the Terms of Service](#11-modification-to-the-terms-of-service)
 * [12\. Severability](#12-severability)
 * [13\. Applicable law and language](#13-applicable-law-and-language)
 * [13.1. Binding arbitration agreement and class action waiver](#131-binding-arbitration-agreement-and-class-action-waiver)
