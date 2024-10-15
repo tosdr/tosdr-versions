@@ -188,3 +188,27 @@ Original ISP speed.
 [Start Now](https://www.hideipvpn.com/free-smart-dns-trial/)
 
 [![HideIPVPN Promo](https://www.hideipvpn.com/wp-content/uploads/2017/04/Ninja-08.png)](https://billing.hideipvpn.com/link.php?id=104)
+
+  
+  
+  
+  
+Exclusive Offer Popup
+
+  
+
+![Security Offer](https://www.hideipvpn.com/wp-content/uploads/2015/01/security.png)
+
+Exclusive One-Time Offer!
+-------------------------
+
+Wait! Get an incredible 90% OFF on your first purchase.
+
+\* New clients only
+
+[Claim Now](https://billing.hideipvpn.com/link.php?id=120)
+
+  
+  
+
+×
