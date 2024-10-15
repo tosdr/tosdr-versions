@@ -22,7 +22,6 @@ GETTING STArted
 ---------------
 
 * [Quick Start Guide](https://dev.fingerprintjs.com/docs/quick-start-guide)
-* [Planning your implementation](https://dev.fingerprintjs.com/docs/planning-implementation)
 * [Playground](https://demo.fingerprint.com/playground)
 * [Use cases](https://demo.fingerprint.com/)
 
@@ -30,6 +29,7 @@ Understanding Fingerprint
 -------------------------
 
 * [Introduction](https://dev.fingerprintjs.com/docs/introduction)
+* [Planning your implementation](https://dev.fingerprintjs.com/docs/planning-implementation)
 * [Identification accuracy and confidence](https://dev.fingerprintjs.com/docs/identification-accuracy-and-confidence)
 * [Privacy and compliance](https://dev.fingerprintjs.com/docs/privacy-and-compliance)
 * [Regions and data retention](https://dev.fingerprintjs.com/docs/regions)
@@ -657,7 +657,7 @@ We may update this European Data Annex from time to time and so you should revie
 
 If we need to provide you with information about something, whether for legal, marketing or other business related purposes, we will select what we believe is the best way to get in contact with you. We will usually do this through email. The fact that we may send notices to you will not stop you from being able to opt out of certain types of contact as described in this European Data Annex.
 
-Updated about 21 hours ago
+Updated 1 day ago
 
 * * *
 
