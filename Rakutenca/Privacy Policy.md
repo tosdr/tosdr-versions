@@ -377,13 +377,13 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/chewy)[PetSmart
         
-        2% Cash Back](https://www.rakuten.ca/petsmart)[Rover
+        2% Cash Back](https://www.rakuten.ca/petsmart)[TEMU
+        
+        2% Cash Back](https://www.rakuten.ca/temu)[Rover
         
         Up to $15 Cash Back](https://www.rakuten.ca/rover)[Well.ca
         
-        2% Cash Back](https://www.rakuten.ca/well)[Pet Valu
-        
-        Coupons Only](https://www.rakuten.ca/pet-valu)
+        2% Cash Back](https://www.rakuten.ca/well)
         
         Featured Shops & Deals
         
@@ -391,11 +391,11 @@ FR
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
-        ![](//static.rakuten.ca/img/campaign_entity/281169/en-right-rail_350x250_teemu.jpeg)
+        ![](//static.rakuten.ca/img/campaign_entity/299712/en-right-rail_cat_drop_300x250_canadian-tire.jpg)
         
-        TEMU
+        Canadian Tire
         
-        2% Cash Back](https://www.rakuten.ca/ticket/campaign/12CategoryFeaturedStores/store/temu?sourceName=nav-menu)
+        4% Cash Back](https://www.rakuten.ca/ticket/campaign/12CategoryFeaturedStores/store/canadian-tire?sourceName=nav-menu)
         
     * [Sports & Outdoor](https://www.rakuten.ca/stores/sports-outdoor "Sports & Outdoor Promo Codes and Coupons")
         
@@ -433,7 +433,9 @@ FR
         
         Recommended Stores
         
-        [QuickBooks
+        [Coinbase
+        
+        $12.50 Cash Back](https://www.rakuten.ca/coinbase)[QuickBooks
         
         Up to $10 Cash Back](https://www.rakuten.ca/quickbooks-canada)[Wealthsimple
         
@@ -465,11 +467,11 @@ FR
         
         20% Cash Back](https://www.rakuten.ca/airalo)[Hotels.com
         
-        up to 8% Cash Back](https://www.rakuten.ca/hotels-com)[Viator - A TripAdvisor Company
+        up to 8% Cash Back](https://www.rakuten.ca/hotels-com)[Flight Centre
         
-        12% Cash Back](https://www.rakuten.ca/viator)[Flight Centre
+        up to 3% Cash Back](https://www.rakuten.ca/flight-centre)[Holiday Inn
         
-        up to 3% Cash Back](https://www.rakuten.ca/flight-centre)
+        4% Cash Back](https://www.rakuten.ca/holiday-inn)
         
         Featured Shops & Deals
         
@@ -477,11 +479,11 @@ FR
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
-        ![](//static.rakuten.ca/img/campaign_entity/131684/en-cn-300x250-hotwire.jpg)
+        ![](//static.rakuten.ca/img/campaign_entity/299715/en-right-rail_cat_drop_300x250_viator.jpg)
         
-        Hotwire
+        Viator - A TripAdvisor Company
         
-        up to 1% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotwire?sourceName=nav-menu)
+        12% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
         
     
     * [Featured Shops & Deals](https://www.rakuten.ca/deals "Featured Shops & Deals at Rakuten.ca")
@@ -492,11 +494,11 @@ FR
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
-        ![](//static.rakuten.ca/img/campaign_entity/131684/en-cn-300x250-hotwire.jpg)
+        ![](//static.rakuten.ca/img/campaign_entity/299715/en-right-rail_cat_drop_300x250_viator.jpg)
         
-        Hotwire
+        Viator - A TripAdvisor Company
         
-        up to 1% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotwire?sourceName=nav-menu)
+        12% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
         
     * [See All Stores](https://www.rakuten.ca/stores "See All Stores at Rakuten.ca")
 * [2X Cash Back](https://www.rakuten.ca/fall-savings "Double Cash Back Promo Codes and Coupons at Rakuten.ca")
