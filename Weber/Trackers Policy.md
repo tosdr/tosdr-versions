@@ -790,6 +790,7 @@ Consumer Support
 * [Special Warranty Notice](https://dw-images.weber.com/images/customer-service/8651217_ADDNDM_WRRNTY_FCC_REV%20_23_wNtc062323.pdf "Special Warranty Notice")
 * [Track Order](https://www.weber.com/US/en/login/)
 * [Satisfaction Guarantee for Grilling Accessories](https://www.weber.com/US/en/satisfactionguarantee.html)
+* [Assembly](https://partnerships.angi.com/weber/)
 
 Replacement Parts
 -----------------
