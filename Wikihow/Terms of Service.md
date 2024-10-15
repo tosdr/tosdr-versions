@@ -390,25 +390,23 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Write Shorthand](https://www.wikihow.com/images/thumb/0/02/Write-Shorthand-Step-15-Version-3.jpg/-crop-126-120-126px-Write-Shorthand-Step-15-Version-3.jpg)
+
+Writing Shorthand: The Basics of the Teeline, Pitman, and Gregg Methods](https://www.wikihow.com/Write-Shorthand)
+
+[![Take Care of a Cat](https://www.wikihow.com/images/thumb/6/6e/Take-Care-of-a-Cat-Step-23-Version-3.jpg/-crop-126-120-126px-Take-Care-of-a-Cat-Step-23-Version-3.jpg)
+
+How to  
+Take Care of a Cat](https://www.wikihow.com/Take-Care-of-a-Cat)
+
+[![Godly Parent Quiz](https://www.wikihow.com/images/thumb/f/fe/Godly_parent_quiz.png/-crop-126-120-126px-Godly_parent_quiz.png)
+
+Who Is My Godly Parent Quiz](https://www.wikihow.com/Godly-Parent-Quiz)
+
 [![Get Your Dream Job](https://www.wikihow.com/images/thumb/0/02/Get-Your-Dream-Job-Step-13-Version-2.jpg/-crop-126-120-126px-Get-Your-Dream-Job-Step-13-Version-2.jpg)
 
 How to  
 Get Your Dream Job](https://www.wikihow.com/Get-Your-Dream-Job)
-
-[![Study For Exams](https://www.wikihow.com/images/thumb/1/1a/Study-For-Exams-Step-30-Version-2.jpg/-crop-126-120-126px-Study-For-Exams-Step-30-Version-2.jpg)
-
-How to  
-Study For Exams](https://www.wikihow.com/Study-For-Exams)
-
-[![Be Single and Happy in Your 30s](https://www.wikihow.com/images/thumb/e/ec/Be-Single-and-Happy-in-Your-30s-Step-10.jpg/-crop-126-120-126px-Be-Single-and-Happy-in-Your-30s-Step-10.jpg)
-
-How to  
-Be Single and Happy in Your 30s](https://www.wikihow.com/Be-Single-and-Happy-in-Your-30s)
-
-[![Know What You Want in Life](https://www.wikihow.com/images/thumb/6/62/Know-What-You-Want-in-Life-Step-17-Version-3.jpg/-crop-126-120-126px-Know-What-You-Want-in-Life-Step-17-Version-3.jpg.png)
-
-How to  
-Know What You Want in Life](https://www.wikihow.com/Know-What-You-Want-in-Life)
 
   
 
@@ -451,4 +449,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-184
+192
