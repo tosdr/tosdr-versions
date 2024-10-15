@@ -541,6 +541,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![9 of the best travel destinations for 2025](https://media.restless.co.uk/uploads/2024/10/9-of-the-best-travel-destinations-for-2025-768x575.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
+
+### [9 of the best travel destinations for 2025](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
+
+[Read More »](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
+
 [![8 of the best travel destinations for spring 2025](https://media.restless.co.uk/uploads/2024/10/the-best-travel-destinations-for-spring-2025-768x508.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-for-spring/)
 
 ### [8 of the best travel destinations for spring 2025](https://restless.co.uk/travel/the-best-travel-destinations-for-spring/)
@@ -570,12 +576,6 @@ New in travel
 ### [7 gorgeous Indian Ocean holiday destinations](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
 
 [Read More »](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
-
-[![9 awe-inspiring travel destinations best explored by small ships](https://media.restless.co.uk/uploads/2024/09/awe-inspiring-travel-destinations-best-explored-by-small-ships-768x418.jpg)](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
-
-### [9 awe-inspiring travel destinations best explored by small ships](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
-
-[Read More »](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
 
 Popular travel guides
 ---------------------
