@@ -29,15 +29,15 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![ssaabboooorr](plugins/MineCraft/icons/25x25xssaabboooorr_1728938627.png.pagespeed.ic.F7qO3HwBzE.png)
+[![HorusApl](plugins/MineCraft/icons/25x25xHorusApl_1720169128.png.pagespeed.ic.dbPZXbDd8P.png)
 
-Luminara](https://minecraft-server.net/details/ssaabboooorr/ "Luminara")[![Foundation-Craft](plugins/MineCraft/icons/25x25xFoundation-Craft_1694578831.png.pagespeed.ic.3NY6E8gU-J.png)
+ExeosCraft (1.21) | Economy SMP | McMMO | No Resets](https://minecraft-server.net/details/HorusApl/ "ExeosCraft (1.21) | Economy SMP | McMMO | No Resets") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1728829370.png.pagespeed.ce.4K26pX4nDP.png)
 
-Foundation Craft](https://minecraft-server.net/details/Foundation-Craft/ "Foundation Craft")[![CommenceSMP](plugins/MineCraft/icons/25x25xCommenceSMP_1719969626.png.pagespeed.ic.Cyrkrvi0-q.jpg)
+feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
 
-\- CommenceSMP - play.CommenceSMP.com - The Ultimate Free Experience - 4+ in-depth Game-Modes - Community Focused -](https://minecraft-server.net/details/CommenceSMP/ "- CommenceSMP - play.CommenceSMP.com - The Ultimate Free Experience - 4+ in-depth Game-Modes - Community Focused -") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
+KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![TerminaMC](plugins/MineCraft/icons/25x25xTerminaMC_1728959245.png.pagespeed.ic.0Ovp_WT-FD.jpg)
 
-BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexMc")
+Termina - Towny World (Raiding) (SMP) \[Crossplay\]](https://minecraft-server.net/details/TerminaMC/ "Termina - Towny World (Raiding) (SMP) [Crossplay]")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -123,4 +123,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06836 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06224 - Created by [Debaucus](https://debauc.us/)
