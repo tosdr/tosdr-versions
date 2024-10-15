@@ -125,6 +125,15 @@ Whilst we endeavour to ensure that the information on this website is correct, w
 
 ### Latest Posts
 
+* [![How to Install PostgreSQL 17 on Ubuntu 24.04 LTS Noble Numbat](https://r00t4bl3.com/uploads/attachment-pgsql-ubuntu-featured-53901d48ed930880ef59164a35b6a2e6.png)](https://r00t4bl3.com/post/how-to-install-postgresql-17-on-ubuntu-24-04-lts-noble-numbat)
+    
+    [System Administration](https://r00t4bl3.com/category/system-administration)
+    
+    Oct 15, 2024
+    
+    #### [How to Install PostgreSQL 17 on Ubuntu 24.04 LTS Noble Numbat](https://r00t4bl3.com/post/how-to-install-postgresql-17-on-ubuntu-24-04-lts-noble-numbat)
+    
+    [](https://r00t4bl3.com/post/how-to-install-postgresql-17-on-ubuntu-24-04-lts-noble-numbat)
 * [![How to Install XFCE desktop in Fedora 38](https://r00t4bl3.com/uploads/attachment-xfce4-fedora-185d46afab776e718930fb16b86d834b.png)](https://r00t4bl3.com/post/how-to-install-xfce-desktop-in-fedora-38)
     
     [System Administration](https://r00t4bl3.com/category/system-administration)
@@ -161,15 +170,6 @@ Whilst we endeavour to ensure that the information on this website is correct, w
     #### [How to Install Ubuntu Server 22.04 Jammy Jellyfish LTS](https://r00t4bl3.com/post/how-to-install-ubuntu-server-22-04-jammy-jellyfish-lts)
     
     [](https://r00t4bl3.com/post/how-to-install-ubuntu-server-22-04-jammy-jellyfish-lts)
-* [![How to Install XFCE desktop in Ubuntu 22.04 LTS](https://r00t4bl3.com/uploads/attachment-xfce4-ubuntu-featured-da309236812774039beec0b69f5421cb.png)](https://r00t4bl3.com/post/how-to-install-xfce-desktop-in-ubuntu-22-04-lts)
-    
-    [System Administration](https://r00t4bl3.com/category/system-administration)
-    
-    Aug 2, 2022
-    
-    #### [How to Install XFCE desktop in Ubuntu 22.04 LTS](https://r00t4bl3.com/post/how-to-install-xfce-desktop-in-ubuntu-22-04-lts)
-    
-    [](https://r00t4bl3.com/post/how-to-install-xfce-desktop-in-ubuntu-22-04-lts)
 
 * [Terms of Use](https://r00t4bl3.com/terms)
 * [Privacy Policy](https://r00t4bl3.com/privacy)
