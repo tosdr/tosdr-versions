@@ -63,6 +63,7 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     * [Integrations marketplace](https://lucid.co/marketplace/overview)
     * [Professional Services](https://lucid.co/professional-services)
     * [Community](https://community.lucid.co/)
+    * [Support](https://help.lucid.co/hc/)
     
     ### Learn
     
@@ -73,7 +74,7 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     * [Webinars](https://lucid.co/resources/webinars)
     * [Learning campus](https://lucid.co/learning-campus)
     * [Blog](https://lucid.co/blog)
-    * [Support](https://help.lucid.co/hc/)
+    * [All-access Agile](https://lucid.co/all-access-agile)
     
 * Company
     
