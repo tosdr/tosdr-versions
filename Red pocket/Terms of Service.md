@@ -20,97 +20,72 @@ Toggle navigation [![Red Pocket Mobile](https://dnc8pt3q0ulny.cloudfront.net/rp/
 FREE International Calling
 --------------------------
 
-|     |     |     |
-| --- | --- | --- |
-| Argentina - Landline | Colombia - Medellin - Landline | Mexico - Triangle - Landline |
-| Argentina - Buenos Aires - Landline | Colombia - Pereira - Landline | Norway - Landline |
-| Australia - Landline | Colombia - Rural - Landline | Norway - Cellular |
-| Brazil - Landline | Estonia - Landline | Peru - Landline |
-| Brazil - Cellular | Germany - Landline | Peru - Cellular - America Movil |
-| Brazil - Rio de Janeiro - Landline | Greece - Landline | Peru - Cellular - Nextel |
-| Brazil - Sao Paulo - Landline | Greece - Cellular | Peru - Cellular - Other |
-| Canada - Landline | Iceland - Landline | Peru - Cellular - Telefonica |
-| Chile - Landline | Iceland - Cellular | Peru - Lima - Landline |
-| Chile - Cellular | Italy - Landline | Peru - Rural - Landline |
-| Chile - Santiago - Landline | Mexico - Cellular - ATT | Romania - Landline |
-| Colombia - Armenia - Landline | Mexico - Cellular - Iusacell | Romania - Cellular |
-| Colombia - Barranquilla - Landline | Mexico - Cellular - Movistar | Slovakia - Landline |
-| Colombia - Bogota - Landline | Mexico - Cellular - Offnet - Telcel | South Korea - Cellular |
-| Colombia - Bucaramanga - Landline | Mexico - Cellular - Onnet - Telcel | Spain - Landline |
-| Colombia - Cali - Landline | Mexico - Cellular - Telcel | Sweden - Landline |
-| Colombia - Cartagena - Landline | Mexico - Offnet - Landline | United Kingdom - Landline |
-| Colombia - Cellular | Mexico - Onnet - Landline | Venezuela - Landline |
-| Colombia - Cellular - Comcel | Mexico - ROC - Landline | Venezuela - Caracas - Landline |
-| Colombia - Manizales - Landline | Mexico - Satellite - Landline |     |
+ ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Landline only ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Mobile.png) Mobile only ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Country (Landline and Mobile)
+
+|     |     |
+| --- | --- |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Argentina | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Mexico |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Brazil | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Norway |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Canada | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Peru |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Chile | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Romania |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Colombia | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Slovakia |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Estonia | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Mobile.png) South Korea |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Germany | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Spain |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Greece | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Sweden |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Italy | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) United Kingdom |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Iceland | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Venezuela |
 
 ×
 
 FREE International Calling
 --------------------------
 
-|     |     |     |
-| --- | --- | --- |
-| Algeria - Landline | French Guiana - Landline | Pakistan - Landline |
-| American Samoa - Landline | Germany - Landline | Pakistan - Cellular - Other |
-| American Samoa - Cellular | Germany - Cellular | Pakistan - Cellular - Telenor |
-| Andorra - Landline | Gibraltar - Landline | Pakistan - Cellular - Warid |
-| Angola - Landline | Greece - Landline | Panama - Landline |
-| Argentina - Landline | Greece - Cellular | Paraguay - Landline |
-| Argentina - Buenos Aires - Landline | Guadeloupe - Landline | Paraguay - Asuncion - Landline |
-| Argentina - Cellular | Guam - Landline | Paraguay - Cellular |
-| Aruba - Landline | Guam - Cellular | Peru - Landline |
-| Australia - Landline | Hong Kong - Landline | Peru - Cellular - America Movil |
-| Australia - Cellular | Hong Kong - Cellular | Peru - Cellular - Nextel |
-| Bangladesh - Landline | Hungary - Landline | Peru - Cellular - Other |
-| Bangladesh - Cellular | Hungary - Cellular | Peru - Cellular - Telefonica |
-| Belgium - Landline | Iceland - Landline | Peru - Lima - Landline |
-| Bermuda - Landline | Iceland - Cellular | Peru - Rural - Landline |
-| Bermuda - Cellular | India - Landline | Poland - Landline |
-| Bhutan - Landline | India - Cellular | Poland - Cellular |
-| Bhutan - Cellular | Indonesia - Landline | Portugal - Landline |
-| Brazil - Landline | Indonesia - Cellular | Puerto Rico - Landline |
-| Brazil - Cellular | Indonesia - Jakarta - Landline | Puerto Rico - Cellular |
-| Brazil - Rio de Janeiro - Landline | Indonesia - Surabaya - Landline | Romania - Landline |
-| Brazil - Sao Paulo - Landline | Ireland - Landline | Romania - Cellular |
-| Brunei - Cellular | Ireland - Cellular | Russia - Landline |
-| Bulgaria - Landline | Israel - Landline | Russia - St. Petersburg - Landline |
-| Cambodia - Landline | Italy - Landline | San Marino - Landline |
-| Cambodia - Cellular | Italy - Cellular | Singapore - Landline |
-| Canada - Landline | Japan - Landline | Singapore - Cellular |
-| Canada - Northern Territories - Landline | Japan - Cellular | Slovakia - Landline |
-| Cayman Islands - Landline | Kazakhstan - Landline | South Korea - Landline |
-| Chile - Landline | Kuwait - Landline | South Korea - Cellular |
-| Chile - Cellular | Kuwait - Cellular | Spain - Landline |
-| Chile - Rural - Landline | Laos - Landline | Spain - Cellular |
-| Chile - Santiago - Landline | Liechtenstein - Landline | Sweden - Landline |
-| China - Landline | Malaysia - Landline | Sweden - Cellular |
-| China - Cellular | Malaysia - Cellular | Switzerland - Landline |
-| Colombia - Landline | Mariana Islands - Landline | Taiwan - Landline |
-| Colombia - Armenia - Landline | Mariana Islands - Cellular | Thailand - Landline |
-| Colombia - Barranquilla - Landline | Martinique - Landline | Thailand - Bangkok - Landline |
-| Colombia - Bogota - Landline | Mauritius - Landline | Thailand - Cellular |
-| Colombia - Bucaramanga - Landline | Mexico - Cellular - ATT | Toll Free - Landline |
-| Colombia - Cali - Landline | Mexico - Cellular - Iusacell | Trinidad and Tobago - Landline |
-| Colombia - Cartagena - Landline | Mexico - Cellular - Movistar | Turkey - Landline |
-| Colombia - Cellular | Mexico - Cellular - Offnet - Telcel | Turkey - Ankara - Landline |
-| Colombia - Cellular - Comcel | Mexico - Cellular - Onnet - Telcel | Turkey - Bursa - Landline |
-| Colombia - Manizales - Landline | Mexico - Cellular - Telcel | Turkey - Istanbul - Landline |
-| Colombia - Medellin - Landline | Mexico - Offnet - Landline | United Kingdom - Landline |
-| Colombia - Pereira - Landline | Mexico - Onnet - Landline | United Kingdom - Cellular - Hutchison |
-| Colombia - Rural - Landline | Mexico - ROC - Landline | United Kingdom - Cellular - O2 |
-| Costa Rica - Landline | Mexico - Satellite - Landline | United Kingdom - Cellular - Orange |
-| Costa Rica - Cellular | Mexico - Triangle - Landline | United Kingdom - Cellular - T-Mobile |
-| Croatia - Landline | Monaco - Landline | United Kingdom - Cellular - Vodafone |
-| Czech Republic - Landline | Mongolia - Landline | Uruguay - Landline |
-| Czech Republic - Cellular | Mongolia - Cellular | Uruguay - Montevideo - Landline |
-| Denmark - Cellular | Morocco - Landline | US Virgin Islands - Landline |
-| Dominican Republic - Landline | Namibia - Landline | US Virgin Islands - Cellular |
-| Estonia - Landline | Namibia - Cellular | Venezuela - Landline |
-| Faroe Islands - Landline | Netherlands Antilles - Curacao - Landline | Venezuela - Caracas |
-| Faroe Islands - Cellular | New Zealand - Landline | Vietnam - Landline |
-| Finland - Cellular | New Zealand - Cellular | Vietnam - Cellular |
-| France - Landline | Norway - Landline | Vietnam - Ha Noi - Landline |
-| France - Cellular | Norway - Cellular | Vietnam - Ho Chi Minh - Landline |
+ ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Landline only ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Mobile.png) Mobile only ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Country (Landline and Mobile)
+
+|     |     |
+| --- | --- |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Algeria | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Japan |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) American Samoa | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Kazakhstan |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Andorra | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Kuwait |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Angola | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Laos |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Argentina | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Liechtenstein |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Aruba | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Malaysia |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Australia | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Mariana Islands |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Bangladesh | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Martinique |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Belgium | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Mauritius |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Bermuda | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Mexico |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Bhutan | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Monaco |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Brazil | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Mongolia |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Mobile.png)Brunei | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Morocco |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Bulgaria | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Namibia |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Cambodia | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Netherlands Antilles - Curacao |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Canada | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) New Zealand |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Cayman Islands | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Norway |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Chile | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Pakistan |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) China | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Panama |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Colombia | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Paraguay |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Costa Rica | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Peru |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Croatia | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Poland |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Czech Republic | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Portugal |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Mobile.png) Denmark | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Puerto Rico |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Dominican Republic | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Romania |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Estonia | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Russia |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Faroe Islands | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)San Marino |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) France | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Singapore |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) French Guiana | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Slovakia |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Germany | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) South Korea |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Gibraltar | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Spain |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Greece | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Sweden |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Guadeloupe | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Switzerland |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png)Guam | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Taiwan |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Hong Kong | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Trinidad and Tobago |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Hungary | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Turkey |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Iceland | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) United Kingdom |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) India | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png)Uruguay |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Indonesia | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) US Virgin Islands |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Ireland | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Venezuela |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Landline.png) Israel | ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Vietnam |
+| ![](https://dnc8pt3q0ulny.cloudfront.net/rp/media/Icon-Country.png) Italy |     |
 
 Terms and Conditions
 ====================
