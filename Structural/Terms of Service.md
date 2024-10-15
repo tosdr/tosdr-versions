@@ -98,13 +98,13 @@ Let's talk
 
 Let's talk](https://www.structural.com/company/contact-us)
 
-[651.917.9143](tel:+16519179143)[\[email protected\]](https://www.structural.com/cdn-cgi/l/email-protection)
+[651.917.9143](tel:+16519179143)[info@augeomarketing.com](mailto:info@augeomarketing.com?subject=Augeo)
 
 [![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63e152ce0b194662b56c30a2_LinkedIn.svg)](https://www.linkedin.com/company/augeo./mycompany/)[![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63e152ce0b19466c3a6c30a3_Instagram.svg)](https://www.instagram.com/augeomarketing/)
 
 Copyright © 2024 Augeo
 
-[Privacy policy](https://www.structural.com/privacy-policy)
+[Privacy policy](https://www.structural.com/privacy-policy)[Terms of Use](https://www.structural.com/terms-of-use)
 
 [Let's talk
 
@@ -138,11 +138,11 @@ Explore
 
 [Press releases](https://www.structural.com/press-releases)[Case studies](https://www.structural.com/case-studies)[Industry awards](https://www.structural.com/industry-awards)
 
-[![](https://cdn.prod.website-files.com/63a9e1371ec7d6434bdb1c20/66e215c0ca6b62914b3009bd_BlogCard_VisierGTM-op1.png)
+[![](https://cdn.prod.website-files.com/63a9e1371ec7d6434bdb1c20/67098a5344bceb3a300342d7_BlogCard_CL-CustomerVoice-op1.png)
 
-Transform employee engagement: Unleash the power of next-gen insights
+Ignite organizational success with next-gen talent optimization
 
-![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63efd4892c19237811facd69_arrow-up-circle.svg)](https://www.structural.com/blog-posts/transform-employee-engagement-unleash-the-power-of-next-gen-insights)
+![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63efd4892c19237811facd69_arrow-up-circle.svg)](https://www.structural.com/blog-posts/ignite-organizational-success-with-next-gen-talent-optimization)
 
 [![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/64e816543609488b3e82e8ad_Blog_AI_Aug2023.jpg)
 
@@ -218,7 +218,7 @@ Content published on this website (digital downloads, images, texts, graphics, l
 
 ### Communications
 
-Except as otherwise set forth herein, all notices under the User Terms will be by email, although we may instead choose to provide notice to Authorized Users through the Services (e.g., a mobile notification). Notices to Structural, an Augeo company should be sent to [\[email protected\]](https://www.structural.com/cdn-cgi/l/email-protection). A notice will be deemed to have been duly given (a) the day after it is sent, in the case of a notice sent through email; and (b) the same day, in the case of a notice sent through the Services. Notices under the Contract will be delivered solely to Customer in accordance with the terms of that agreement.
+Except as otherwise set forth herein, all notices under the User Terms will be by email, although we may instead choose to provide notice to Authorized Users through the Services (e.g., a mobile notification). Notices to Structural, an Augeo company should be sent to [support@structural.com](mailto:support@structural.com). A notice will be deemed to have been duly given (a) the day after it is sent, in the case of a notice sent through email; and (b) the same day, in the case of a notice sent through the Services. Notices under the Contract will be delivered solely to Customer in accordance with the terms of that agreement.
 
 ### Applicable Law
 
@@ -238,7 +238,7 @@ The User Terms will be enforced to the fullest extent permitted under applicable
 
 ### How To Contact Us
 
-If you have questions or comments about these Terms of Service, please contact us online at [\[email protected\]](https://www.structural.com/cdn-cgi/l/email-protection) or by physical mail at:
+If you have questions or comments about these Terms of Service, please contact us online at [support@structural.com](mailto:support@structural.com) or by physical mail at:
 
 Structural, an Augeo company  
 Attn: Terms of Service Issues  
@@ -269,12 +269,12 @@ Media
 
 [All media](https://www.structural.com/media-all)[Blog posts](https://www.structural.com/blog-posts)[Guides](https://www.structural.com/guides)[Webinars](https://www.structural.com/webinars)[Podcasts](https://www.structural.com/podcasts)[Press releases](https://www.structural.com/press-releases)[Case studies](https://www.structural.com/case-studies)[Industry awards](https://www.structural.com/industry-awards)[eBooks](#)![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/64d15beda45fa1435f3ab5c0_Carrot-down.svg)
 
-[651.917.9143](tel:+16519179143)[\[email protected\]](https://www.structural.com/cdn-cgi/l/email-protection)
+[651.917.9143](tel:+16519179143)[info@augeomarketing.com](mailto:info@augeomarketing.com?subject=I'm%20ready%20to%20elevate%20my%20strategy%20with%20Augeo)
 
 [![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63e152ce0b194662b56c30a2_LinkedIn.svg)](https://www.linkedin.com/company/augeo./mycompany/)[![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63e152ce0b19466c3a6c30a3_Instagram.svg)](https://www.instagram.com/augeomarketing/)
 
 Copyright © DATE Augeo
 
-[Privacy policy](https://www.structural.com/privacy-policy)
+[Privacy policy](https://www.structural.com/privacy-policy)[Terms of Use](https://www.structural.com/terms-of-use)
 
 [ENG](#)
