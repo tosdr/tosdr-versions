@@ -134,7 +134,7 @@ Swarochish Goswami (CEO & Co-Founder, Trufan)
   
 [1 (604) 218–3379](tel:1(604)218%E2%80%933379) (Trufan toll-free)  
   
-[\[email protected\]](https://www.joinsurf.com/cdn-cgi/l/email-protection)  
+[swish@joinsurf.com](mailto:swish@joinsurf.com)  
   
 
 [Earn $5 in Less Than 5 Minutes!](https://app.joinsurf.com/signup/)
@@ -143,4 +143,4 @@ Swarochish Goswami (CEO & Co-Founder, Trufan)
 
 [FAQ](https://www.joinsurf.com/extension/#faq_section)[FAQ](https://www.joinsurf.com/extension#faq_section)[Blog](https://www.joinsurf.com/archived/surf-blog)[For Brands](https://www.joinsurf.com/)
 
-[\[email protected\]](https://www.joinsurf.com/cdn-cgi/l/email-protection)
+[Install Surf, It's Free!](mailto:swish@joinsurf.com)
