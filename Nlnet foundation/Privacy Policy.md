@@ -117,6 +117,8 @@ Converstations with people building the Next Generation Internet](https://podcas
 
 ### News
 
+[Monitoring Plugins wins BlueHats Prize for maintainers](https://nlnet.nl/news/2024/20241015-BlueHatsPrize4.html) 2024-10-15
+
 [NGI0 Commons Fund Supports 32 Projects Building the Public Internet](https://nlnet.nl/news/2024/20241014-announcing-CommonsFund-call.html) 2024-10-14
 
 [49 Free and Open Source Projects Receive NGI0 Core Grants](https://nlnet.nl/news/2024/20241003-announcing-Core-call.html) 2024-10-03
@@ -124,8 +126,6 @@ Converstations with people building the Next Generation Internet](https://podcas
 [Apply for funding before December 1st 2024](https://nlnet.nl/news/2024/20241001-call.html) 2024-10-01
 
 [NGI Assure Programme Successfully Concluded](https://nlnet.nl/news/2024/20240919-NGI-Assure-Concluded.html) 2024-09-19
-
-[Meet the Projects Receiving NGI Taler grants](https://nlnet.nl/news/2024/20240806-Taler-selection.html) 2024-08-06
 
 * [More news](https://nlnet.nl/news)
 
