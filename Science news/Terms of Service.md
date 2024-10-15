@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Your brain can perceive subtle odor changes in a single sniff](https://www.sciencenews.org/article/brain-odor-changes-milliseconds)
             
-            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")6 hours ago
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")13 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
