@@ -519,7 +519,7 @@ LanguageEnglish
 * [DeepL Integrations](https://www.deepl.com/en/integrations)
 
 * Company
-* [Contact Sales](https://www.deepl.com/en/contact-us?cta=pageFooter)
+* [Contact Sales](https://www.deepl.com/en/contact-us)
 * [Press](https://www.deepl.com/en/press)
 * [Careers](https://www.deepl.com/careers?source=DeepLFooter)
 * [Publisher](https://www.deepl.com/en/publisher)
