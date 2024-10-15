@@ -2,8 +2,8 @@ To add your instance below please open an issue on [the documentation repository
 
 | [name](https://invidious.tiekoetter.com/?sort_by=name) | [version](https://invidious.tiekoetter.com/?sort_by=version) | [type](https://invidious.tiekoetter.com/?sort_by=type) | [users](https://invidious.tiekoetter.com/?sort_by=users) | [signup](https://invidious.tiekoetter.com/?sort_by=signup) | [location](https://invidious.tiekoetter.com/?sort_by=location) | [healthUptime / Downtime displayed in percentage](https://invidious.tiekoetter.com/?sort_by=health) | [cors](https://invidious.tiekoetter.com/?sort_by=cors) | [api](https://invidious.tiekoetter.com/?sort_by=api) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [inv.nadeko.net](https://inv.nadeko.net/) | 2024.10.14-8d7ca9a | https | 6127 | ✔   | 🇨🇱 CL | [92.925](https://updown.io/sesu) | ❌   | ✔   |
-| [invidious.jing.rocks](https://invidious.jing.rocks/) | 2024.10.09-3168ea8a | https | 5695 | ✔   | 🇯🇵 JP | [87.709](https://updown.io/cfds) | ✔   | ✔   |
+| [inv.nadeko.net](https://inv.nadeko.net/) | 2024.10.14-8d7ca9a | https | 6153 | ✔   | 🇨🇱 CL | [92.925](https://updown.io/sesu) | ❌   | ✔   |
+| [invidious.jing.rocks](https://invidious.jing.rocks/) | 2024.10.09-3168ea8a | https | 5705 | ✔   | 🇯🇵 JP | [87.709](https://updown.io/cfds) | ✔   | ✔   |
 | [yt.drgnz.club](https://yt.drgnz.club/) | 2024.08.26-4782a67 | https | 2   | ❌   | 🇨🇿 CZ | [85.382](https://updown.io/gqfo) | ✔   | ✔   |
 | [invidious.pr...irect.com](https://invidious.privacyredirect.com/) | 2024.10.14-70e4eb7 | https | 0   | ❌   | 🇫🇮 FI | [95.506](https://updown.io/xo2t) | ✔   | ✔   |
 | [zzlsbhhfvwg3...q.b32.i2p](http://zzlsbhhfvwg3oh36tcvx4r7n6jrw7zibvyvfxqlodcwn3mfrvzuq.b32.i2p/) | \-  | i2p | \-  | \-  | 🇨🇱 CL | [\-](https://updown.io/p/resvf) | \-  | \-  |
