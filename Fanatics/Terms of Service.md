@@ -61,7 +61,7 @@ SIGN UP & SAVE!
 * [](#top-nav15)
     
 
-Due to the impact of Hurricane Milton on our facilities, you may experience longer than normal response times from our contact center or delays in the shipment of your order. We apologize for any inconvenience this may cause and will respond to your inquiry as soon as possible. Our team is working hard to ensure you receive your merchandise and we appreciate your patience as we work through the aftermath of this storm.
+We are experiencing higher than normal call volume and appreciate your patience while we continue servicing our customers. If you would like to avoid the wait, please use the chat feature right here on the help desk and we'll be happy to assist there! Thank you!
 
 How can we help you?
 
@@ -410,9 +410,9 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: d3bfe1dfd3880aa4
+rc: df18f9f408c73895
 
-vid: ee95a170-8afc-11ef-b29d-41a1f03ac68f
+vid: 8f88fa10-8b2e-11ef-87a0-9fd6a7a5a46f
 
 version: 1.1.0-rc-20241009-1.98919
 
@@ -421,13 +421,13 @@ version: 1.1.0-rc-20241009-1.98919
 Qualified Experiments #:* 12635:A:0:1
 * 14971:B:1:1
 * 14999:A:0:1
-Namespaces:* 10:2293:0
-* 3:1206:0
-* 4:576:0
-* 9:16:0
-* 7:840:0
-* 8:2953:0
-* 11:6314:0
-* 2:4955:0
-* 5:2973:0
-* 6:816:0
+Namespaces:* 7:3961:0
+* 8:4022:0
+* 11:1411:0
+* 3:3495:0
+* 5:2066:0
+* 6:1189:0
+* 10:9437:0
+* 2:1794:0
+* 4:4359:0
+* 9:2320:0
