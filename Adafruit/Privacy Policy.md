@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Propel, propel, propel your craft softly down liquid solution. Ecstatically, ecstatically, ecstatically, ecstatically, existence is simply illusion”
+“ We are the music makers, And we are the dreamers of dreams”
 
-[Fred Rogers](http://en.wikipedia.org/wiki/Fred_Rogers)
+[Arthur O'Shaughnessy](http://en.wikipedia.org/wiki/Arthur_O'Shaughnessy)
 
 [](https://www.adafruit.com/about)
 
