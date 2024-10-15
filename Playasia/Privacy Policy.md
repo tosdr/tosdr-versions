@@ -39,7 +39,7 @@ theme beta
 
 We accept
 
-![Payment Reach_hosted](//s.pacn.ws/1/gallery/640/GA.03963.0184.png?1716211371&v=PX-404)  ![Payment Paypal](//s.pacn.ws/1/gallery/640/GA.03963.0193.jpg?1727452839&v=PX-404)  ![Payment Bitcoin](//s.pacn.ws/1/gallery/large/GA.03963.0189.svg?1716182570&v=PX-404)  ![Payment Binancepay](//s.pacn.ws/1/gallery/640/GA.03963.0174.png?1716182582&v=PX-404)  ![Payment Bitpay](//s.pacn.ws/1/gallery/640/GA.03963.0178.png?1716182579&v=PX-404)  ![Payment Worldpay2](//s.pacn.ws/1/gallery/640/GA.03963.0126.png?1716211440&v=PX-404)  ![Payment Manual](//s.pacn.ws/1/gallery/640/GA.03963.0190.jpg?1716226622&v=PX-404) 
+![Payment Reach_hosted](https://s.pacn.ws/1/gallery/640/GA.03963.0184.png?1716211371&v=PX-404)  ![Payment Paypal](https://s.pacn.ws/1/gallery/640/GA.03963.0193.jpg?1727424039&v=PX-404)  ![Payment Bitcoin](https://s.pacn.ws/1/gallery/large/GA.03963.0189.svg?1716182570&v=PX-404)  ![Payment Binancepay](https://s.pacn.ws/1/gallery/640/GA.03963.0174.png?1716182582&v=PX-404)  ![Payment Bitpay](https://s.pacn.ws/1/gallery/640/GA.03963.0178.png?1716182579&v=PX-404)  ![Payment Worldpay2](https://s.pacn.ws/1/gallery/640/GA.03963.0126.png?1716211440&v=PX-404)  ![Payment Manual](https://s.pacn.ws/1/gallery/640/GA.03963.0190.jpg?1716197822&v=PX-404) 
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -64,4 +64,4 @@ Be sure to visit our social media pages !
   
 Playasia and its logo are trademarks of Playasia. Website & content copyright 2002-2024 Playasia.
 
-SN: 114 | 1007 { 58 } | A: | WS: 1 | PT: 0.016 | CDN: | Ro: , Cl: 1 | Q: 17 | T: | Cf: | CO: | bot:
+SN: 114 | 1007 { 58 } | A: | WS: 1 | PT: 0.063 | CDN: | Ro: , Cl: 1 | Q: 16 | T: | Cf: | CO: | bot:
