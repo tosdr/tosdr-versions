@@ -1,7 +1,3 @@
-All branches and headquarters will be closed in observance of Columbus Day/Indigenous Peoples' Day,  **Monday, Oct. 14.**  [Info24](https://www.communityfirstfl.org/connect/contact-us "INFO24"), [Mobile](https://www.communityfirstfl.org/personal-banking/online-banking "Learn more about Mobile Banking") and [Online Banking](https://ebanking.communityfirstfl.org/cfcufonline/Uux.aspx?&_ga=2.251178950.1341183297.1604520138-1814686001.1604520138#/login "Click here to go to the Online Banking login page") will be available.
-
-![Close Notification](/images/icon-close-white.svg)
-
 [![Community First Credit Union Logo](/getmedia/addf5aff-0552-4329-a166-593f8ad2d231/logo-header.png?width=198&height=54&ext=.png)](https://www.communityfirstfl.org/)
 
 [Locations](https://www.communityfirstfl.org/connect/contact-us/branch-locations)
