@@ -82,19 +82,23 @@
     
     Close Enterprise Open Enterprise
     
-    * [MLOps For Enterprise](https://wandb.ai/site/for-enterprise/)
-    * [W&B For Teams](https://wandb.ai/site/for-enterprise/wb-for-teams/)
-    * [Deployment Options](https://wandb.ai/site/for-enterprise/deployment-options/)
-    * [Build vs. Buy](https://wandb.ai/site/for-enterprise/build-vs-buy/)
-    * [MLOps Maturity Assessment](https://wandb.ai/site/mlops-maturity-assessment/)
+    * [MLOps For enterprise](https://wandb.ai/site/for-enterprise/)
+    * [W&B For teams](https://wandb.ai/site/for-enterprise/wb-for-teams/)
+    * [Deployment options](https://wandb.ai/site/for-enterprise/deployment-options/)
+    * [Build vs. buy](https://wandb.ai/site/for-enterprise/build-vs-buy/)
+    * [MLOps maturity assessment](https://wandb.ai/site/mlops-maturity-assessment/)
     * [Security](https://wandb.ai/site/security)
+    * [GenAI Accelerator: Master class](https://wandb.ai/site/genai-accelerator/master-class)
+    * [GenAI Accelerator: Consulting services](https://wandb.ai/site/genai-accelerator/consulting-services)
     
-    * [MLOps For Enterprise](https://wandb.ai/site/for-enterprise/)
-    * [W&B For Teams](https://wandb.ai/site/for-enterprise/wb-for-teams/)
-    * [Deployment Options](https://wandb.ai/site/for-enterprise/deployment-options/)
-    * [Build vs. Buy](https://wandb.ai/site/for-enterprise/build-vs-buy/)
-    * [MLOps Maturity Assessment](https://wandb.ai/site/mlops-maturity-assessment/)
+    * [MLOps For enterprise](https://wandb.ai/site/for-enterprise/)
+    * [W&B For teams](https://wandb.ai/site/for-enterprise/wb-for-teams/)
+    * [Deployment options](https://wandb.ai/site/for-enterprise/deployment-options/)
+    * [Build vs. buy](https://wandb.ai/site/for-enterprise/build-vs-buy/)
+    * [MLOps maturity assessment](https://wandb.ai/site/mlops-maturity-assessment/)
     * [Security](https://wandb.ai/site/security)
+    * [GenAI Accelerator: Master class](https://wandb.ai/site/genai-accelerator/master-class)
+    * [GenAI Accelerator: Consulting services](https://wandb.ai/site/genai-accelerator/consulting-services)
     
 * Resources
     
