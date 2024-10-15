@@ -291,6 +291,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![Cartoon-style image of a person wearing glasses, sitting at a desk with a mortgage document and calculator, holding a pen and looking thoughtful, symbolizing the negotiation process for mortgage rates. In the background, a house and percentage symbols emphasize the concept of mortgage rate negotiation.](https://creditnerds.com/wp-content/uploads/2024/10/Negotiate-Mortgage-30x30.webp)](https://creditnerds.com/can-you-negotiate-mortgage-rates/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+October 15, 2024
+
+#### [Can You Negotiate Mortgage Rates?](https://creditnerds.com/can-you-negotiate-mortgage-rates/)
+
+When you're financing a new home or refinancing an existing mortgage, finding the best mortgage rate is crucial. The good news is that you can negotiate mortgage rates to get a better deal. With careful preparation and smart tactics, you may save thousands over the life of your loan. Here’s how you can navigate the …
+
+[Read More](https://creditnerds.com/can-you-negotiate-mortgage-rates/)
+
 [![Cartoon-style image of a person wearing glasses, holding a checklist titled '7 Tips to Avoid Holiday Scams.' The character looks cautious, standing in front of a holiday-themed background with festive lights, gift boxes, and red warning symbols, representing the importance of staying vigilant against holiday scams.](https://creditnerds.com/wp-content/uploads/2024/10/Avoid-Holiday-Scams-30x30.webp)](https://creditnerds.com/7-tips-to-avoid-holiday-scams/)
 
 [Uncategorized](https://creditnerds.com/category/uncategorized/)
@@ -386,18 +398,6 @@ September 24, 2024
 Whether you’re buying a new or used car, you’ll need auto insurance before hitting the road. Insurance premiums depend on several factors, including your age, location, driving record, and the car itself. One common question is, is insurance cheaper for used vehicles? In many cases, it is, but there are exceptions. Let’s explore why insuring …
 
 [Read More](https://creditnerds.com/is-insurance-cheaper-for-used-vehicles/)
-
-[![Cartoon-style image of a person wearing glasses, inspecting an oversized insurance document labeled 'Insurance Fraud' with a magnifying glass. The background includes subtle symbols of fraud, such as dollar signs, a broken car, and a fake house claim, creating a slightly darker, investigative atmosphere.](https://creditnerds.com/wp-content/uploads/2024/09/What-is-Insurance-Fraud-30x30.webp)](https://creditnerds.com/what-is-insurance-fraud/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-September 23, 2024
-
-#### [What Is Insurance Fraud?](https://creditnerds.com/what-is-insurance-fraud/)
-
-Insurance fraud occurs when individuals or businesses manipulate or falsify information to obtain financial gain from insurance companies. The FBI estimates that insurance fraud (excluding health insurance) costs around $40 billion annually. As a result, the average U.S. family ends up paying between $400 and $700 more each year in premiums. What Is Insurance Fraud? …
-
-[Read More](https://creditnerds.com/what-is-insurance-fraud/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
