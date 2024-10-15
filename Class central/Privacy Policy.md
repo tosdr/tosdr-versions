@@ -399,11 +399,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [\[2024\] 200+ edX Courses That Are Completely Free](https://www.classcentral.com/report/edx-free-online-courses/)
-2. [6 Best Linguistics Courses for 2024](https://www.classcentral.com/report/best-linguistics-courses/)
-3. [7 Best Microsoft PowerPoint Courses for 2024](https://www.classcentral.com/report/best-microsoft-powerpoint-courses/)
-4. [7 Best Microsoft Power BI Courses for 2024](https://www.classcentral.com/report/best-microsoft-power-bi-courses/)
-5. [5 Best Free Human Physiology Courses for 2024](https://www.classcentral.com/report/best-human-physiology-courses/)
+1. [\[2024\] 600+ Free Courses to Learn JavaScript, React, Node](https://www.classcentral.com/report/javascript-online-courses/)
+2. [\[2024\] 200+ edX Courses That Are Completely Free](https://www.classcentral.com/report/edx-free-online-courses/)
+3. [6 Best Linguistics Courses for 2024](https://www.classcentral.com/report/best-linguistics-courses/)
+4. [7 Best Microsoft PowerPoint Courses for 2024](https://www.classcentral.com/report/best-microsoft-powerpoint-courses/)
+5. [7 Best Microsoft Power BI Courses for 2024](https://www.classcentral.com/report/best-microsoft-power-bi-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. English
+1. law
     
-2. javascript
+2. harvard
     
-3. html
+3. trading
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Marketing
     
-    11,961 courses](https://www.classcentral.com/subject/ai)
-2. [Cybersecurity
+    7,793 courses](https://www.classcentral.com/subject/marketing)
+2. [Information Technology
     
-    15,919 courses](https://www.classcentral.com/subject/cybersecurity)
-3. [Digital Marketing
+    4,701 courses](https://www.classcentral.com/subject/information-technology)
+3. [Project Management
     
-    5,926 courses](https://www.classcentral.com/subject/digital-marketing)
+    3,974 courses](https://www.classcentral.com/subject/project-management)
 
 Popular courses
 ---------------
 
-1. [Organic Chemistry 1
+1. [Happier Employees and Return-On-Investment Course
     
-    Jawaharlal Nehru University, New Delhi](https://www.classcentral.com/course/swayam-organic-chemistry-1-14221)
-2. [Vital Signs: Understanding What the Body Is Telling Us
+    The University of Texas at Austin](https://www.classcentral.com/course/workplace-wellness-the-university-of-texas-at-aus-17121)
+2. [Introduction to HTML5
     
-    University of Pennsylvania](https://www.classcentral.com/course/vitalsigns-1887)
-3. [CS50's Introduction to Computer Science
+    University of Michigan](https://www.classcentral.com/course/introhtml-4307)
+3. [Introduction to Frisian
     
-    Harvard University](https://www.classcentral.com/course/computer-science-harvard-university-cs50-s-introd-442)
+    University of Groningen](https://www.classcentral.com/course/frisian-6637)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
