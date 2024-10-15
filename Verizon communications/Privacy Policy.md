@@ -1187,13 +1187,13 @@ Apps and Service Policies
 
 * [Message+](http://www.verizon.com/about/privacy/verizon-messages-app-privacy-policy)
 * [Hum](http://www.verizon.com/about/privacy/hum-privacy-policy)
-* [Smart Family](http://www.verizon.com/about/privacy/smart-family-privacy-policy)
 * [Gizmo](http://www.verizon.com/about/privacy/gizmo-privacy-policy)
 * [Wild and Seek](http://www.verizon.com/about/privacy/wild-and-seek-privacy-policy)
 * [Care Smart](http://www.verizon.com/about/privacy/care-smart-app)
 * [Advanced Messaging](http://www.verizon.com/about/privacy/advanced-messaging-privacy-policy)
 * [Replica App](http://www.verizon.com/about/privacy/replica-app-privacy-policy)
 * [Senion Install](http://www.verizon.com/about/privacy/senion-Install-privacy-policy)
+* [Verizon Family](http://www.verizon.com/about/privacy/verizon-family-privacy-notice)
 
 Notices
 
