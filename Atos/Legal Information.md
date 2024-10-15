@@ -159,9 +159,9 @@ Atos homepage](https://atos.net/en/)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Oct 11, 2024
+        Oct 8, 2024
         
-        ### Generative AI: Technology matters, but adoption matters more
+        ### DORA and NIS2: The impact of new EU cybersecurity regulations
         
     * [Client Stories](https://atos.net/en/client-stories)˅
         
@@ -176,10 +176,10 @@ Atos homepage](https://atos.net/en/)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Partnership in action
-        ---------------------
+        Leveraging the move to cloud
+        ----------------------------
         
-        Strategic partnership evolves Scottish Water digital operations
+        UGAP: Streamlining public procurement for French administration and public services with unparalleled dedication and support.
         
     * [Events](https://atos.net/en/events)˅
         
@@ -206,9 +206,9 @@ Atos homepage](https://atos.net/en/)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Oct 9, 2024
+        Oct 8, 2024
         
-        ### Eviden drives quantum adoption with installation of IQM Spark quantum computer
+        ### Eviden launches PQC HSMaaS, a EU sovereign, Post-Quantum Cryptography Hardware Security Module as a Service
         
 * ˅[About Us](#)
     * <<
