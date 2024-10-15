@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/kijk-de-priktenten-zijn-alweer-opgebouwd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/farmaceutisch-gelobby-in-brussel/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
