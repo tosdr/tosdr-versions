@@ -288,7 +288,7 @@ As Seen On:
 
 [](https://www.vpnranks.com/)
 
-We may earn affiliate commissions if you decide to purchase through our links. For more details read our [Affiliate Disclaimer](https://www.vpnranks.com/affiliate-disclaimer/) and [Ownership Disclosure](https://www.vpnranks.com/ownership-disclosure/)
+We may earn affiliate commissions if you decide to purchase through our links. For more details read our [Affiliate Disclaimer](https://www.vpnranks.com/affiliate-disclaimer/) and [Ownership Disclosure](https://www.vpnranks.com/ownership-disclosure/)  
 
 Company
 
