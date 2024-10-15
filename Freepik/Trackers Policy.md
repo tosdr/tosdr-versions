@@ -6,7 +6,7 @@ Toggle menu
     
     [AI image generatorCreate images from words in real time](https://www.freepikcompany.com/ai/image-generator)
     
-    [DesignerEdit templates from your browser](https://www.freepik.com/designer)
+    [DesignerbetaEdit templates from your browser](https://www.freepik.com/designer)
     
     [Mockup generatorBring designs to life, effortlessly](https://www.freepikcompany.com/mockup-generator)
     
