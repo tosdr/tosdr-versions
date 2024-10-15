@@ -262,14 +262,14 @@ High-speed Network Switches
     * [View All](https://www.qnap.com/en/product/series/qsw-2-5gbe-switches)
 * ###### QSW 10GbE Switches
     
-    * [QSW-M3224-24T NEW](https://www.qnap.com/en/product/qsw-m3224-24t)
+    * [QSW-M3224-24T](https://www.qnap.com/en/product/qsw-m3224-24t)
     * [QSW-3216R-8S8T](https://www.qnap.com/en/product/qsw-3216r-8s8t)
     * [QSW-M3216R-8S8T](https://www.qnap.com/en/product/qsw-m3216r-8s8t)
     * [QSW-M3212R-8S4T](https://www.qnap.com/en/product/qsw-m3212r-8s4t)
     * [View All](https://www.qnap.com/en/product/series/qsw-10gbe-switches)
 * ###### QSW Full 10GbE Switches
     
-    * [QSW-M3224-24T NEW](https://www.qnap.com/en/product/qsw-m3224-24t)
+    * [QSW-M3224-24T](https://www.qnap.com/en/product/qsw-m3224-24t)
     * [QSW-3216R-8S8T](https://www.qnap.com/en/product/qsw-3216r-8s8t)
     * [QSW-M3216R-8S8T](https://www.qnap.com/en/product/qsw-m3216r-8s8t)
     * [QSW-M3212R-8S4T](https://www.qnap.com/en/product/qsw-m3212r-8s4t)
@@ -283,7 +283,7 @@ High-speed Network Switches
     * [View All](https://www.qnap.com/en/product/series/poe-switches)
 * ###### QSW Managed Switches
     
-    * [QSW-M3224-24T NEW](https://www.qnap.com/en/product/qsw-m3224-24t)
+    * [QSW-M3224-24T](https://www.qnap.com/en/product/qsw-m3224-24t)
     * [QSW-M3216R-8S8T](https://www.qnap.com/en/product/qsw-m3216r-8s8t)
     * [QSW-M3212R-8S4T](https://www.qnap.com/en/product/qsw-m3212r-8s4t)
     * [QSW-M2106PR-2S2T](https://www.qnap.com/en/product/qsw-m2106pr-2s2t)
