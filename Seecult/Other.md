@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno/alat-pocetak.jpg?itok=5WCQ31F2)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dus-gerzic-gera/radovi/figura-uljena-platnu-1991.jpg?itok=oK4wSIP9)](http://seecult.org/galerija/galerija-umetnika/dusan-gerzic-gera/radovi)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dimitrije.jpg?itok=Ep8bKDHC)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/rade-markovic2.jpg?itok=GG2Uj3el)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,6 +422,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Naličje društva](http://seecult.org/vest/nalicje-drustva)
 * [Savremena Crvenkapa](http://seecult.org/vest/savremena-crvenkapa-0)
 * [Nepredvidiva prošlost budućnosti. O političkom potencijalu utopije](http://seecult.org/vest/nepredvidiva-proslost-buducnosti-o-politickom-potencijalu-utopije)
 * [Sveti Georgije ubiva aždahu u pripremi u JDP-u](http://seecult.org/vest/sveti-georgije-ubiva-azdahu-u-pripremi-u-jdp-u)
@@ -431,7 +432,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Sunce nikad više premijerno u Talinu](http://seecult.org/vest/sunce-nikad-vise-premijerno-u-talinu)
 * [Mihalkov u Narodnom pozorištu](http://seecult.org/vest/mihalkov-u-narodnom-pozoristu)
 * [Ne idi daleko najbolja predstava 19. Zvezdarišta](http://seecult.org/vest/ne-idi-daleko-najbolja-predstava-19-zvezdarista)
-* [Beogradski aplauz za Grlićev ljubavni triler i kritiku društva](http://seecult.org/vest/beogradski-aplauz-za-grlicev-ljubavni-triler-i-kritiku-drustva)
 
 * [Konkursi](#tab1_1)
 
