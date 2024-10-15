@@ -3342,7 +3342,7 @@ No se han detectado.
 
 #### Ejercicio de derechos
 
-Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad
+Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/) 
 
 * * *
 
