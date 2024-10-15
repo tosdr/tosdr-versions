@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 158 utilisateurs actifs
+##### 769 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Windows 11 24H2 : un cache de 8,63 Go impossible à supprimer ! Microsoft prépare un correctif](https://lecrabeinfo.net/1679551.html)
 * [Est-ce vraiment la fin du Panneau de configuration de Windows ?](https://lecrabeinfo.net/est-ce-vraiment-la-fin-du-panneau-de-configuration-de-windows.html)
 * [Windows 11 : Microsoft bloque les astuces pour contourner le TPM 2.0 pour les PC non compatibles](https://lecrabeinfo.net/windows-11-microsoft-bloque-les-astuces-pour-contourner-le-tpm-2-0-pour-les-pc-non-compatibles.html)
-* [Pourquoi j’ai laissé tomber Chrome et Firefox pour le navigateur Arc ?](https://lecrabeinfo.net/pourquoi-jai-laisse-tomber-chrome-et-firefox-pour-le-navigateur-arc.html)
 
 ### Tendance
 
@@ -153,7 +153,7 @@ Chargement en cours
 ### Statistiques
 
 * 67 740 membres
-* 920 articles
+* 921 articles
 * 26 716 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
