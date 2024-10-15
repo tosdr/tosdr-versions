@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 774 active visitors** | **Monday, October 14, 2024** |
+| **You are 1 of 766 active visitors** | **Monday, October 14, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -42,7 +42,7 @@ State Email Lists:
 |     |
 | --- |
 | Do you oppose Biden's anti-gun executive orders?  <br>Yes  <br>No  <br>Undecided |
-| [Current results](http://keepandbeararms.com/polls/pollmentorres.asp)  <br>[Earlier poll results](http://keepandbeararms.com/polls/pollmentorhist.asp)4771 people voted |
+| [Current results](http://keepandbeararms.com/polls/pollmentorres.asp)  <br>[Earlier poll results](http://keepandbeararms.com/polls/pollmentorhist.asp)4772 people voted |
 
 ![](/images/clear.gif)![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**The right of a citizen to bear arms, in lawful defense of himself or the State, is absolute. He does not derive it from the State government. It is one of the high powers" delegated directly to the citizen, and \`is excepted out of the general powers of government.' A law cannot be passed to infringe upon or impair it, because it is above the law, and independent of the lawmaking power." \[Cockrum v. State, 24 Tex. 394, at 401-402 (1859)\]
+ **QUOTES TO REMEMBER**To suppose arms in the hands of citizens, to be used at individual discretion, except in private self-defense or by partial orders of towns...is a dissolution of the government. � John Adams, A Defense of the Constitutions of Government of the United States of America (1787-1788).
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
