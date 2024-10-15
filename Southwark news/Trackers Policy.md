@@ -19,6 +19,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+    
+    ### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+    
+    [![A computer-generated image of Building OPQ in Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/10/Building-OPQ-Social-Rent-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/housing-provider-chosen-for-338-social-rent-homes-in-bermondsey/)
+    
+    ### [Housing provider chosen for 338 social rent homes in Bermondsey](https://southwarknews.co.uk/area/bermondsey/housing-provider-chosen-for-338-social-rent-homes-in-bermondsey/)
+    
+    [![Vinegar Yard food court by London Bridge Station. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Vinegar-Yard-food-court-by-London-Bridge-Station.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/borough/man-arrested-for-arson-after-fire-by-london-bridge-station/)
+    
+    ### [Man arrested over alleged attempted arson after fire by London Bridge Station](https://southwarknews.co.uk/area/borough/man-arrested-for-arson-after-fire-by-london-bridge-station/)
+    
+    [![The junction of Mervan Road and Effra Road, Brixton. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-junction-of-Mervan-Road-and-Effra-Road-Brixton.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/brixton-cyclist-killed-in-collision/)
+    
+    ### [Brixton: Cyclist killed in collision](https://southwarknews.co.uk/news/brixton-cyclist-killed-in-collision/)
+    
     [![Police responding to an incident in Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-06-at-11.41.35-e1728900286598-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
     
     ### [Burgess Park crime ‘spiralling’ say campaigners in call for action](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
@@ -38,22 +54,6 @@
     [![Left to right: Meysam Ghorbani, Hosein Ghadimi, Hadi Salahi](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Meysam-Ghorbani-Hosein-Ghadimi-Hadi-Salahi-360x180.png)](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
     
     ### [Three jailed for drug dealing after vulnerable man dies in Bermondsey](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
-    
-    [![Cllr Victor Chamberlain, leader of Southwark Lib Dems](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Victor-Chamberlain-leader-of-Southwark-Lib-Dems-360x180.png)](https://southwarknews.co.uk/area/southwark/labours-winter-fuel-payments-cut-is-cruel-and-wrong-but-southwark-council-can-still-do-the-right-thing-urges-the-leader-of-the-opposition/)
-    
-    ### [‘Labour’s Winter Fuel Payments Cut is cruel and wrong, but Southwark Council can still do the right thing’, urges the leader of the opposition](https://southwarknews.co.uk/area/southwark/labours-winter-fuel-payments-cut-is-cruel-and-wrong-but-southwark-council-can-still-do-the-right-thing-urges-the-leader-of-the-opposition/)
-    
-    [![(LCCM)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Copy-of-LCM-MK-Scholarship-20231019-20-1-6000-x-4000-360x180.jpg)](https://southwarknews.co.uk/news/community/london-jazz-festival-will-be-hosted-at-music-college-in-southwark/)
-    
-    ### [London Jazz Festival will be hosted at music college in Southwark](https://southwarknews.co.uk/news/community/london-jazz-festival-will-be-hosted-at-music-college-in-southwark/)
-    
-    [![Following by Kim Se-hwi (credit: London Korean Film Festival)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-16.19-e1728660050624-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/korean-film-festival-is-coming-to-the-south-bank-next-month/)
-    
-    ### [Korean film festival is coming to the South Bank next month](https://southwarknews.co.uk/area/south-bank/korean-film-festival-is-coming-to-the-south-bank-next-month/)
-    
-    [![London mayor Sadiq Khan. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/06/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/we-cant-have-more-austerity-weve-had-14-years-of-austerity-says-londons-mayor/)
-    
-    ### [‘We can’t have more austerity – We’ve had 14 years of austerity,’ says London’s mayor](https://southwarknews.co.uk/area/london/we-cant-have-more-austerity-weve-had-14-years-of-austerity-says-londons-mayor/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+    
+    ### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+    
+    [![A computer-generated image of Building OPQ in Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/10/Building-OPQ-Social-Rent-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/housing-provider-chosen-for-338-social-rent-homes-in-bermondsey/)
+    
+    ### [Housing provider chosen for 338 social rent homes in Bermondsey](https://southwarknews.co.uk/area/bermondsey/housing-provider-chosen-for-338-social-rent-homes-in-bermondsey/)
+    
+    [![Vinegar Yard food court by London Bridge Station. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Vinegar-Yard-food-court-by-London-Bridge-Station.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/borough/man-arrested-for-arson-after-fire-by-london-bridge-station/)
+    
+    ### [Man arrested over alleged attempted arson after fire by London Bridge Station](https://southwarknews.co.uk/area/borough/man-arrested-for-arson-after-fire-by-london-bridge-station/)
+    
+    [![The junction of Mervan Road and Effra Road, Brixton. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-junction-of-Mervan-Road-and-Effra-Road-Brixton.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/brixton-cyclist-killed-in-collision/)
+    
+    ### [Brixton: Cyclist killed in collision](https://southwarknews.co.uk/news/brixton-cyclist-killed-in-collision/)
+    
     [![Police responding to an incident in Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-06-at-11.41.35-e1728900286598-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
     
     ### [Burgess Park crime ‘spiralling’ say campaigners in call for action](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
@@ -118,22 +134,6 @@ View All Result
     [![Left to right: Meysam Ghorbani, Hosein Ghadimi, Hadi Salahi](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Meysam-Ghorbani-Hosein-Ghadimi-Hadi-Salahi-360x180.png)](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
     
     ### [Three jailed for drug dealing after vulnerable man dies in Bermondsey](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
-    
-    [![Cllr Victor Chamberlain, leader of Southwark Lib Dems](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Victor-Chamberlain-leader-of-Southwark-Lib-Dems-360x180.png)](https://southwarknews.co.uk/area/southwark/labours-winter-fuel-payments-cut-is-cruel-and-wrong-but-southwark-council-can-still-do-the-right-thing-urges-the-leader-of-the-opposition/)
-    
-    ### [‘Labour’s Winter Fuel Payments Cut is cruel and wrong, but Southwark Council can still do the right thing’, urges the leader of the opposition](https://southwarknews.co.uk/area/southwark/labours-winter-fuel-payments-cut-is-cruel-and-wrong-but-southwark-council-can-still-do-the-right-thing-urges-the-leader-of-the-opposition/)
-    
-    [![(LCCM)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Copy-of-LCM-MK-Scholarship-20231019-20-1-6000-x-4000-360x180.jpg)](https://southwarknews.co.uk/news/community/london-jazz-festival-will-be-hosted-at-music-college-in-southwark/)
-    
-    ### [London Jazz Festival will be hosted at music college in Southwark](https://southwarknews.co.uk/news/community/london-jazz-festival-will-be-hosted-at-music-college-in-southwark/)
-    
-    [![Following by Kim Se-hwi (credit: London Korean Film Festival)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-16.19-e1728660050624-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/korean-film-festival-is-coming-to-the-south-bank-next-month/)
-    
-    ### [Korean film festival is coming to the South Bank next month](https://southwarknews.co.uk/area/south-bank/korean-film-festival-is-coming-to-the-south-bank-next-month/)
-    
-    [![London mayor Sadiq Khan. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/06/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/we-cant-have-more-austerity-weve-had-14-years-of-austerity-says-londons-mayor/)
-    
-    ### [‘We can’t have more austerity – We’ve had 14 years of austerity,’ says London’s mayor](https://southwarknews.co.uk/area/london/we-cant-have-more-austerity-weve-had-14-years-of-austerity-says-londons-mayor/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -229,6 +229,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
+[![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+
+### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+
+[15th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+
 [![Police responding to an incident in Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-06-at-11.41.35-e1728900286598-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
 
 ### [Burgess Park crime ‘spiralling’ say campaigners in call for action](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
@@ -258,12 +264,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Three jailed for drug dealing after vulnerable man dies in Bermondsey](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
 
 [14th October 2024](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
-
-[![The Blue Market. Credit: The Blue BID](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-11-15-20-12-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
-
-### [‘Greening the Blue’: Eco event series coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
-
-[11th October 2024](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
 
 ### USEFUL PAGES
 
