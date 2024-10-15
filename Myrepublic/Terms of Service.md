@@ -24,7 +24,7 @@ ALERT: Stay vigilant and exercise caution against online scams. Never share conf
 
 SG
 
-![](data:image/svg+xml;nitro-empty-id=NTk0OjEyNQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTIgOCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](data:image/svg+xml;nitro-empty-id=NjA2OjEyNQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTIgOCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 [AU](https://myrepublic.net/au/)
 
@@ -34,7 +34,7 @@ Search
 
 Close this search box.
 
-[![](data:image/svg+xml;nitro-empty-id=NjQ2OjIxMQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTI5IDg1IiB3aWR0aD0iNTI5IiBoZWlnaHQ9Ijg1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg)
+[![](data:image/svg+xml;nitro-empty-id=NjU4OjIxMQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTI5IDg1IiB3aWR0aD0iNTI5IiBoZWlnaHQ9Ijg1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg)
 
 * [Mobile](https://myrepublic.net/sg/mobile/)
     
@@ -66,7 +66,7 @@ Close this search box.
     
     * Promotions
     
-    [![](data:image/svg+xml;nitro-empty-id=ODgxOjM0Nw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDYxNCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI2MTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/mobile-promotions)
+    [![](data:image/svg+xml;nitro-empty-id=ODkzOjM0Nw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDYxNCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI2MTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/mobile-promotions)
     
     ### [Unlimited Mobile Data from $10.90/mth](https://myrepublic.net/sg/mobile-promotions)
     
@@ -96,7 +96,7 @@ Close this search box.
     
     * Limited Time Offer!
     
-    [![](data:image/svg+xml;nitro-empty-id=MTA4NDozMjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTY2NyAxMjgwIiB3aWR0aD0iMTY2NyIgaGVpZ2h0PSIxMjgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/4g/)
+    [![](data:image/svg+xml;nitro-empty-id=MTA5NjozMjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTY2NyAxMjgwIiB3aWR0aD0iMTY2NyIgaGVpZ2h0PSIxMjgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/4g/)
     
     ### [Our Best 4G Plan:  
     $7.99/mth 188GB for first 3 mths](https://myrepublic.net/sg/4g/)
@@ -136,7 +136,7 @@ Close this search box.
     
     * Promotions
     
-    [![](data:image/svg+xml;nitro-empty-id=MTM1MTozNDk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDQ2IDM0MiIgd2lkdGg9IjQ0NiIgaGVpZ2h0PSIzNDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/broadband-promotions)
+    [![](data:image/svg+xml;nitro-empty-id=MTM2MzozNDk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDQ2IDM0MiIgd2lkdGg9IjQ0NiIgaGVpZ2h0PSIzNDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/broadband-promotions)
     
     ### [Ultra-Fast Broadband from $37.99/mth](https://myrepublic.net/sg/broadband-promotions)
     
@@ -173,13 +173,13 @@ Close this search box.
     
     * Promotions
     
-    [![](data:image/svg+xml;nitro-empty-id=MTU1MDozMDQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDQ2IDM0MiIgd2lkdGg9IjQ0NiIgaGVpZ2h0PSIzNDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](#)
+    [![](data:image/svg+xml;nitro-empty-id=MTU2MjozMDQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDQ2IDM0MiIgd2lkdGg9IjQ0NiIgaGVpZ2h0PSIzNDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](#)
     
     ### [Stream, Surf and Game with Ultra-Fast and Low Latency Broadband](#)
     
     [Read More](https://myrepublic.net/sg/broadband-promotions)
     
-    [![](data:image/svg+xml;nitro-empty-id=MTU4MDoyODc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDQ2IDM0MiIgd2lkdGg9IjQ0NiIgaGVpZ2h0PSIzNDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](#)
+    [![](data:image/svg+xml;nitro-empty-id=MTU5MjoyODc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDQ2IDM0MiIgd2lkdGg9IjQ0NiIgaGVpZ2h0PSIzNDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](#)
     
     ### [Get Unlimited Mobile Data from $12.90/mth on SG's #1 MVNO Network](#)
     
@@ -187,7 +187,7 @@ Close this search box.
     
     * Hot Broadband Deals
     
-    [![](data:image/svg+xml;nitro-empty-id=MTYyMjozNDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDYwMCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSI2MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/hyperspeed-10gbps-amazon-eero-max-7/)
+    [![](data:image/svg+xml;nitro-empty-id=MTYzNDozNDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDYwMCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSI2MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/hyperspeed-10gbps-amazon-eero-max-7/)
     
     ### [eero Max 7 + HyperSpeed 10Gbps](https://myrepublic.net/sg/hyperspeed-10gbps-amazon-eero-max-7/)
     
@@ -195,7 +195,7 @@ Close this search box.
     
     * Hot Mobile Deals
     
-    [![](data:image/svg+xml;nitro-empty-id=MTY1MjozMjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTY2NyAxMjgwIiB3aWR0aD0iMTY2NyIgaGVpZ2h0PSIxMjgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/4g/)
+    [![](data:image/svg+xml;nitro-empty-id=MTY2NDozMjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTY2NyAxMjgwIiB3aWR0aD0iMTY2NyIgaGVpZ2h0PSIxMjgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/4g/)
     
     ### [Limited Time Offer!](https://myrepublic.net/sg/4g/)
     
@@ -203,7 +203,7 @@ Close this search box.
     
     * Latest Product Offers
     
-    [![](data:image/svg+xml;nitro-empty-id=MTY4Mjo1MDI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI4MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
+    [![](data:image/svg+xml;nitro-empty-id=MTY5NDo1MDI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI4MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
     
     ### [TP-Link 10Gbps LAN Card...](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
     
@@ -211,7 +211,7 @@ Close this search box.
     
     * New Stores / Upcoming Roadshows
     
-    [![](data:image/svg+xml;nitro-empty-id=MTcxMjo0MDY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzEwIDI2MCIgd2lkdGg9IjMxMCIgaGVpZ2h0PSIyNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/wp-content/uploads/2024/10/JEM-PasirRis-Website-Pop-out-101024.png)
+    [![](data:image/svg+xml;nitro-empty-id=MTcyNDo0MDY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzEwIDI2MCIgd2lkdGg9IjMxMCIgaGVpZ2h0PSIyNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/wp-content/uploads/2024/10/JEM-PasirRis-Website-Pop-out-101024.png)
     
     ### [Now Open at JEM!](https://myrepublic.net/sg/wp-content/uploads/2024/10/JEM-PasirRis-Website-Pop-out-101024.png)
     
@@ -243,13 +243,13 @@ Close this search box.
     * [Cessation of 3G Services](https://intercom.help/myrepublicsg/en/articles/8956047-cessation-of-3g-services)
     * [Contact Us](https://myrepublic.net/sg/contact-us/)
     
-    [![](data:image/svg+xml;nitro-empty-id=MTkxODozMzI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTI3IDkxOCIgd2lkdGg9IjkyNyIgaGVpZ2h0PSI5MTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/network-status/)
+    [![](data:image/svg+xml;nitro-empty-id=MTkzMDozMzI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTI3IDkxOCIgd2lkdGg9IjkyNyIgaGVpZ2h0PSI5MTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/network-status/)
     
     ### [Check Network Status](https://myrepublic.net/sg/network-status/)
     
     [Read More](https://myrepublic.net/sg/network-status/)
     
-    [![](data:image/svg+xml;nitro-empty-id=MTkzOTozNjk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDUwMCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSI1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/scam-advisory/)
+    [![](data:image/svg+xml;nitro-empty-id=MTk1MTozNjk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDUwMCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSI1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/scam-advisory/)
     
     ### [Scam Advisory](https://myrepublic.net/sg/scam-advisory/)
     
@@ -262,7 +262,7 @@ Close this search box.
     
     * [Routers & Accessories](https://sgshop.myrepublic.net/collections/routers-and-accessories)
     
-    [![](data:image/svg+xml;nitro-empty-id=MjAwNzo3ODU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI4MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
+    [![](data:image/svg+xml;nitro-empty-id=MjAxOTo3ODU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI4MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
     
     ### [TP-Link 10Gbps LAN Card...](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
     
@@ -272,7 +272,7 @@ Close this search box.
     
     * [Wearables](https://sgshop.myrepublic.net/collections/wearables/?utm_source=myrepublic&utm_medium=referral&utm_term=wearables)
     
-    [![](data:image/svg+xml;nitro-empty-id=MjA1MDozOTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDI5OCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIyOTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/ticwatch-pro-3-ultra)
+    [![](data:image/svg+xml;nitro-empty-id=MjA2MjozOTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDI5OCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIyOTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/ticwatch-pro-3-ultra)
     
     ### [TicWatch Pro 3 Ultra GPS](https://sgshop.myrepublic.net/products/ticwatch-pro-3-ultra/?utm_source=myrepublic&utm_medium=referral&utm_term=ticwatch)
     
@@ -282,7 +282,7 @@ Close this search box.
     
     * [Home Security](https://sgshop.myrepublic.net/collections/gaming-peripherals/?utm_source=myrepublic&utm_medium=referral&utm_term=security)
     
-    [![](data:image/svg+xml;nitro-empty-id=MjA5Mzo0NjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzAwIDY5NiIgd2lkdGg9IjcwMCIgaGVpZ2h0PSI2OTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/ebo-se/?utm_source=myrepublic&utm_medium=referral&utm_term=enabot)
+    [![](data:image/svg+xml;nitro-empty-id=MjEwNTo0NjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzAwIDY5NiIgd2lkdGg9IjcwMCIgaGVpZ2h0PSI2OTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/ebo-se/?utm_source=myrepublic&utm_medium=referral&utm_term=enabot)
     
     ### [Enabot EBO SE](https://sgshop.myrepublic.net/products/ebo-se/?utm_source=myrepublic&utm_medium=referral&utm_term=enabot)
     
@@ -292,7 +292,7 @@ Close this search box.
     
     * [Audio](https://sgshop.myrepublic.net/collections/audio/?utm_source=myrepublic&utm_medium=referral&utm_term=audio)
     
-    [![](data:image/svg+xml;nitro-empty-id=MjEzNjo3NjM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDMwMCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIzMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/mackie-m-caster-studio-live-streaming-mixer/?utm_source=myrepublic&utm_medium=referral&utm_term=invictor)
+    [![](data:image/svg+xml;nitro-empty-id=MjE0ODo3NjM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDMwMCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIzMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/mackie-m-caster-studio-live-streaming-mixer/?utm_source=myrepublic&utm_medium=referral&utm_term=invictor)
     
     ### [IINVICTOR Gaming Headset...](https://sgshop.myrepublic.net/products/mackie-m-caster-studio-live-streaming-mixer/?utm_source=myrepublic&utm_medium=referral&utm_term=invictor)
     
@@ -320,7 +320,7 @@ Sign Up
 * [Broadband](https://fiber.myrepublic.com.sg/?_ga=2.205784918.416758527.1691561439-953922660.1683700475&_gl=1*183xge4*_ga*OTUzOTIyNjYwLjE2ODM3MDA0NzU.*_ga_NSM0M6DL9S*MTY5MTY2MjYyNS40Mi4xLjE2OTE2Njg5MzUuMTkuMC4w)
 * [Mobile](https://order.mobile.myrepublic.net/)
 
-[![](data:image/svg+xml;nitro-empty-id=MjMwMToyMTE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTI5IDg1IiB3aWR0aD0iNTI5IiBoZWlnaHQ9Ijg1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg)
+[![](data:image/svg+xml;nitro-empty-id=MjMxMzoyMTE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTI5IDg1IiB3aWR0aD0iNTI5IiBoZWlnaHQ9Ijg1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg)
 
 * [Personal](https://myrepublic.net/sg/)
     * Mobile
@@ -361,7 +361,7 @@ Sign Up
 
 SG
 
-![](data:image/svg+xml;nitro-empty-id=MjU2Mjo4OQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgOSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](data:image/svg+xml;nitro-empty-id=MjU3NDo4OQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUgOSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 [NZ](https://myrepublic.net/nz/)
 
@@ -397,7 +397,7 @@ News
 Limited Time Offer!
 -------------------
 
-[![](data:image/svg+xml;nitro-empty-id=MjY2OTozNDg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQwIDEwNyIgd2lkdGg9IjE0MCIgaGVpZ2h0PSIxMDciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/4g/)
+[![](data:image/svg+xml;nitro-empty-id=MjY4MTozNDg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQwIDEwNyIgd2lkdGg9IjE0MCIgaGVpZ2h0PSIxMDciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/4g/)
 
 ### [Our Best 4G Plan: $7.99/mth 188GB for first 3 mths](https://myrepublic.net/sg/4g/)
 
@@ -422,7 +422,7 @@ Broadband
 Promotions
 ----------
 
-[![Carousel-Banner-Broadband](data:image/svg+xml;nitro-empty-id=Mjc1NDozODY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDExNSIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+ "Carousel-Banner-Broadband")](https://myrepublic.net/sg/broadband-promotions)
+[![Carousel-Banner-Broadband](data:image/svg+xml;nitro-empty-id=Mjc2NjozODY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDExNSIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+ "Carousel-Banner-Broadband")](https://myrepublic.net/sg/broadband-promotions)
 
 ### [Stream, Surf and Game with Ultra-Fast Broadband from $37.99/mth](https://myrepublic.net/sg/broadband-promotions)
 
@@ -446,13 +446,13 @@ Other Benefits
 Promotions
 ----------
 
-[![Carousel-Banner-Broadband](data:image/svg+xml;nitro-empty-id=MjgzNTozODY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDExNSIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+ "Carousel-Banner-Broadband")](https://myrepublic.net/sg/broadband-promotions)
+[![Carousel-Banner-Broadband](data:image/svg+xml;nitro-empty-id=Mjg0NzozODY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDExNSIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxMTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+ "Carousel-Banner-Broadband")](https://myrepublic.net/sg/broadband-promotions)
 
 ### [Stream, Surf and Game with Ultra-Fast Broadband from $37.99/mth](https://myrepublic.net/sg/broadband-promotions)
 
 [Read More](https://myrepublic.net/sg/broadband-promotions)
 
-[![](data:image/svg+xml;nitro-empty-id=Mjg1MjozNjQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/mobile-promotions/)
+[![](data:image/svg+xml;nitro-empty-id=Mjg2NDozNjQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/mobile-promotions/)
 
 ### [Get Unlimited Mobile Data from $12.90/mth on SG's #1 MVNO Network](https://myrepublic.net/sg/mobile-promotions/)
 
@@ -482,13 +482,13 @@ Support
 * [Cessation of 3G Services](https://intercom.help/myrepublicsg/en/articles/8956047-cessation-of-3g-services)
 * [Contact Us](https://myrepublic.net/sg/contact-us/)
 
-[![](data:image/svg+xml;nitro-empty-id=Mjk2NzozNTA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/network-status/)
+[![](data:image/svg+xml;nitro-empty-id=Mjk3OTozNTA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/network-status/)
 
 ### [Check Network Status](https://myrepublic.net/sg/network-status/)
 
 [Read More](https://myrepublic.net/sg/network-status/)
 
-[![](data:image/svg+xml;nitro-empty-id=Mjk5Mjo0MzE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/business/blog/cybersecurity-can-you-afford-not-to-have-it/)
+[![](data:image/svg+xml;nitro-empty-id=MzAwNDo0MzE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/business/blog/cybersecurity-can-you-afford-not-to-have-it/)
 
 ### [Scam Advisory](https://myrepublic.net/sg/business/blog/cybersecurity-can-you-afford-not-to-have-it/)
 
@@ -507,7 +507,7 @@ Internet & Networking
 Blog
 ----
 
-[![](data:image/svg+xml;nitro-empty-id=MzA2MTozNjc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTExIDc0IiB3aWR0aD0iMTExIiBoZWlnaHQ9Ijc0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/business/blog/what-you-need-to-know-about-computer-networking/)
+[![](data:image/svg+xml;nitro-empty-id=MzA3MzozNjc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTExIDc0IiB3aWR0aD0iMTExIiBoZWlnaHQ9Ijc0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/business/blog/what-you-need-to-know-about-computer-networking/)
 
 ### [We’re here to help.](https://myrepublic.net/sg/business/blog/what-you-need-to-know-about-computer-networking/)
 
@@ -526,7 +526,7 @@ Voice Solutions
 Blog
 ----
 
-[![](data:image/svg+xml;nitro-empty-id=MzEzMDozNzY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTA2IDcxIiB3aWR0aD0iMTA2IiBoZWlnaHQ9IjcxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/business/blog/what-you-need-to-know-about-computer-networking/)
+[![](data:image/svg+xml;nitro-empty-id=MzE0MjozNzY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTA2IDcxIiB3aWR0aD0iMTA2IiBoZWlnaHQ9IjcxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/business/blog/what-you-need-to-know-about-computer-networking/)
 
 ### [5 Reasons Microsoft Teams Calling Will Replace Traditional Business Phone Systems](https://myrepublic.net/sg/business/blog/what-you-need-to-know-about-computer-networking/)
 
@@ -569,7 +569,7 @@ Office Solutions
 Blog
 ----
 
-[![](data:image/svg+xml;nitro-empty-id=MzIzODozNDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4MCA3MjAiIHdpZHRoPSIxMjgwIiBoZWlnaHQ9IjcyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://myrepublic.net/sg/business/blog/it-security-vs-it-compliance/)
+[![](data:image/svg+xml;nitro-empty-id=MzI1MDozNDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4MCA3MjAiIHdpZHRoPSIxMjgwIiBoZWlnaHQ9IjcyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://myrepublic.net/sg/business/blog/it-security-vs-it-compliance/)
 
 ### [IT Security VS IT Compliance](https://myrepublic.net/sg/business/blog/it-security-vs-it-compliance/)
 
@@ -584,13 +584,13 @@ Support
 * [Contact Us](https://myrepublic.net/sg/business/contact-us/)
 * [Scam Advisory](https://myrepublic.net/sg/scam-advisory/)
 
-[![](data:image/svg+xml;nitro-empty-id=MzMwMjozODI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI3IDcyIiB3aWR0aD0iMTI3IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/business/blog/what-you-need-to-know-about-computer-networking/)
+[![](data:image/svg+xml;nitro-empty-id=MzMxNDozODI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI3IDcyIiB3aWR0aD0iMTI3IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/business/blog/what-you-need-to-know-about-computer-networking/)
 
 ### [What you need to know about Computer Networking](https://myrepublic.net/sg/business/blog/what-you-need-to-know-about-computer-networking/)
 
 [Read More](#)
 
-[![](data:image/svg+xml;nitro-empty-id=MzMyNzozNjg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI3IDcyIiB3aWR0aD0iMTI3IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/business/blog/cybersecurity-can-you-afford-not-to-have-it/)
+[![](data:image/svg+xml;nitro-empty-id=MzMzOTozNjg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI3IDcyIiB3aWR0aD0iMTI3IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/business/blog/cybersecurity-can-you-afford-not-to-have-it/)
 
 ### [Cybersecurity – Can you afford not to have it?](https://myrepublic.net/sg/business/blog/cybersecurity-can-you-afford-not-to-have-it/)
 
@@ -602,7 +602,7 @@ e-Shop
 [Routers & Accessories](https://sgshop.myrepublic.net/collections/routers-and-accessories)
 ------------------------------------------------------------------------------------------
 
-[![](data:image/svg+xml;nitro-empty-id=MzM4MTo3ODU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI4MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
+[![](data:image/svg+xml;nitro-empty-id=MzM5Mzo3ODU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI4MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
 
 ### [TP-Link 10Gbps LAN Card...](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
 
@@ -613,7 +613,7 @@ e-Shop
 [Wearables](https://sgshop.myrepublic.net/collections/wearables/?utm_source=myrepublic&utm_medium=referral&utm_term=wearables)
 ------------------------------------------------------------------------------------------------------------------------------
 
-[![](data:image/svg+xml;nitro-empty-id=MzQxMjozOTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDI5OCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIyOTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/ticwatch-pro-3-ultra/?utm_source=myrepublic&utm_medium=referral&utm_term=ticwatch)
+[![](data:image/svg+xml;nitro-empty-id=MzQyNDozOTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDI5OCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIyOTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/ticwatch-pro-3-ultra/?utm_source=myrepublic&utm_medium=referral&utm_term=ticwatch)
 
 ### [TicWatch Pro 3 Ultra GPS](https://sgshop.myrepublic.net/products/ticwatch-pro-3-ultra/?utm_source=myrepublic&utm_medium=referral&utm_term=ticwatch)
 
@@ -624,7 +624,7 @@ e-Shop
 [Home Security](https://sgshop.myrepublic.net/collections/gaming-peripherals/?utm_source=myrepublic&utm_medium=referral&utm_term=security)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-[![](data:image/svg+xml;nitro-empty-id=MzQ0Mzo0NjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzAwIDY5NiIgd2lkdGg9IjcwMCIgaGVpZ2h0PSI2OTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/ebo-se/?utm_source=myrepublic&utm_medium=referral&utm_term=enabot)
+[![](data:image/svg+xml;nitro-empty-id=MzQ1NTo0NjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzAwIDY5NiIgd2lkdGg9IjcwMCIgaGVpZ2h0PSI2OTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/ebo-se/?utm_source=myrepublic&utm_medium=referral&utm_term=enabot)
 
 ### [Enabot EBO SE](https://sgshop.myrepublic.net/products/ebo-se/?utm_source=myrepublic&utm_medium=referral&utm_term=enabot)
 
@@ -635,7 +635,7 @@ e-Shop
 [Audio](https://sgshop.myrepublic.net/collections/audio/?utm_source=myrepublic&utm_medium=referral&utm_term=audio)
 ------------------------------------------------------------------------------------------------------------------
 
-[![](data:image/svg+xml;nitro-empty-id=MzQ3NDo3NjM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDMwMCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIzMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/mackie-m-caster-studio-live-streaming-mixer/?utm_source=myrepublic&utm_medium=referral&utm_term=invictor)
+[![](data:image/svg+xml;nitro-empty-id=MzQ4Njo3NjM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDMwMCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIzMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/mackie-m-caster-studio-live-streaming-mixer/?utm_source=myrepublic&utm_medium=referral&utm_term=invictor)
 
 ### [IINVICTOR Gaming Headset...](https://sgshop.myrepublic.net/products/mackie-m-caster-studio-live-streaming-mixer/?utm_source=myrepublic&utm_medium=referral&utm_term=invictor)
 
@@ -653,13 +653,13 @@ What’s Happening
 Recent Blog
 -----------
 
-[![](data:image/svg+xml;nitro-empty-id=MzU0NTozODI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI3IDcyIiB3aWR0aD0iMTI3IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/business/blog/what-you-need-to-know-about-computer-networking/)
+[![](data:image/svg+xml;nitro-empty-id=MzU1NzozODI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI3IDcyIiB3aWR0aD0iMTI3IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/business/blog/what-you-need-to-know-about-computer-networking/)
 
 ### [What you need to know about Computer Networking](https://myrepublic.net/sg/business/blog/what-you-need-to-know-about-computer-networking/)
 
 [Read More](#)
 
-[![](data:image/svg+xml;nitro-empty-id=MzU3MDozNjg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI3IDcyIiB3aWR0aD0iMTI3IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/business/blog/cybersecurity-can-you-afford-not-to-have-it/)
+[![](data:image/svg+xml;nitro-empty-id=MzU4MjozNjg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI3IDcyIiB3aWR0aD0iMTI3IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/business/blog/cybersecurity-can-you-afford-not-to-have-it/)
 
 ### [Cybersecurity – Can you afford not to have it?](https://myrepublic.net/sg/business/blog/cybersecurity-can-you-afford-not-to-have-it/)
 
@@ -668,7 +668,7 @@ Recent Blog
 Recent Promotions
 -----------------
 
-[![](data:image/svg+xml;nitro-empty-id=MzU5MTozNDk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA1MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjUwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://myrepublic.net/sg/business/survillence-bundle/)
+[![](data:image/svg+xml;nitro-empty-id=MzYwMzozNDk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCA1MDAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjUwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://myrepublic.net/sg/business/survillence-bundle/)
 
 ### [Keep an eye on your business with MyRepublic Surveillance Bundle](https://myrepublic.net/sg/business/survillence-bundle/)
 
@@ -745,7 +745,7 @@ Dated 31 March 2017
 
 [Acceptable Use Policy](https://myrepublic.net/sg/legal/terms-of-use-policies/acceptable-use-policy/)
 
-![](data:image/svg+xml;nitro-empty-id=NDAyODo4MjQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjA0OCAzMzAiIHdpZHRoPSIyMDQ4IiBoZWlnaHQ9IjMzMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
+![](data:image/svg+xml;nitro-empty-id=NDA0MDo4MjQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjA0OCAzMzAiIHdpZHRoPSIyMDQ4IiBoZWlnaHQ9IjMzMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
 
 * [](https://www.instagram.com/myrepublicsg/)
 * [](https://www.linkedin.com/company/myrepublic/)
