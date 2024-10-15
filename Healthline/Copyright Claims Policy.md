@@ -190,21 +190,18 @@
 
 Subscribe
 
-[#### Parenthood](https://www.healthline.com/parenthood)
+[#### Type 2 Diabetes](https://www.healthline.com/type-2-diabetes)
 
-* Stages
-    
-    * [Becoming a Parent](https://www.healthline.com/parenthood/becoming-a-parent)
-    * [Pregnancy](https://www.healthline.com/parenthood/pregnancy)
-    * [Postpartum](https://www.healthline.com/parenthood/postpartum)
-    * [Baby](https://www.healthline.com/parenthood/baby)
-    * [Toddler](https://www.healthline.com/parenthood/toddler)
-    
-* [Fertility](https://www.healthline.com/parenthood/fertility)
-* [Health & Wellness](https://www.healthline.com/parenthood/health-wellness)
-* [Conditions & Concerns](https://www.healthline.com/parenthood/conditions-concerns)
-* [Relationships](https://www.healthline.com/parenthood/relationships)
-* [Products](https://www.healthline.com/parenthood/products-gear)
+* [What to Eat](https://www.healthline.com/type-2-diabetes/what-to-eat)
+* [Medications](https://www.healthline.com/type-2-diabetes/medications)
+* [Essentials](https://www.healthline.com/type-2-diabetes/essentials)
+* [Perspectives](https://www.healthline.com/type-2-diabetes/perspectives)
+* [Mental Health](https://www.healthline.com/type-2-diabetes/mental-health-and-type-2-diabetes)
+* [Life with T2D](https://www.healthline.com/type-2-diabetes/lifestyle)
+* [Newsletter](https://www.healthline.com/newsletter-signup/type-2-diabetes)
+* [Community](https://www.bezzyt2d.com/)
+* [Lessons](https://www.healthline.com/app/type-2-diabetes?utm_source=t2dnav)
+* [Español](https://www.healthline.com/type-2-diabetes/diabetes-tipo-2)
 
 Ad & Sponsorship Policy
 =======================
