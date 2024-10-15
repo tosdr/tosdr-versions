@@ -1,8 +1,8 @@
 [Direkt zum Inhalt](#main-content)
 
-**Wenn Heizung und Fenster mitdenken, ist Energiesparen einfach.**
+**Automatischer hydraulischer Abgleich – Effizienz für Ihr Heizsystem**
 
-[▶ start smart](https://homematic-ip.com/de/start-smart)
+[▶ mehr erfahren](https://homematic-ip.com/de/hydraulischer-abgleich)
 
  [![Home](/themes/custom/hip/logo.svg) ![Home](/themes/custom/hip/logo_color.svg)](https://homematic-ip.com/de)
 
@@ -314,14 +314,6 @@ Menü
 News
 
 Sicherheits-Champion: Homematic IP zum achten Mal in Folge vom VDE zertifiziert](https://homematic-ip.com/de/news/sicherheits-champion-homematic-ip-zum-achten-mal-folge-vom-vde-zertifiziert)
-
-[Okt.
-
-17
-
-Event
-
-Entdecken Sie Homematic IP auf der TU Boot 2024! Vom 17. Oktober bis 25. November an 20 Standorten in den Niederlanden](https://homematic-ip.com/de/event/tu-boot-2024-deventer-2024-10-17-deventer)
 
 [Okt.
 
