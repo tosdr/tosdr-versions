@@ -18,7 +18,19 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Contador de história leva apresentação para crianças em tratamento oncológico](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/a/csm_entretenimento_criancas_hospital_ascom_7dc2d0e727.jpg)
+   [![Mais de 40 kg de drogas são apreendidos em casa abandonada; suspeitos fugiram](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_40kg-drogas-apreendidos-cha-da-jaqueira_0137ea2b60.jpg)
+
+Em Bebedouro
+
+Mais de 40 kg de drogas são apreendidos em casa abandonada; suspeitos fugiram](https://www.tnh1.com.br/noticia/nid/mais-de-40-kg-de-drogas-sao-apreendidos-em-casa-abandonada-suspeitos-fugiram/ "Mais de 40 kg de drogas são apreendidos em casa abandonada; suspeitos fugiram")   [![PM registra dois casos de idosos que foram espancados pelos filhos nas últimas 24h em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/f/csm_csm_viatura_policia_militar_-_ascom_ssp_b65a315e7e_6d5bc954da.jpg)
+
+Violência
+
+PM registra dois casos de idosos que foram espancados pelos filhos nas últimas 24h em Alagoas](https://www.tnh1.com.br/noticia/nid/pm-registra-dois-casos-de-idosos-que-foram-espancados-pelos-filhos-nas-ultimas-24h-em-alagoas/ "PM registra dois casos de idosos que foram espancados pelos filhos nas últimas 24h em Alagoas")   [![Vídeo: carro é atingido por VLT após invadir linha férrea na Levada; motorista ficou ferido](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/2/csm_acidente_com_vlt_carro_levada_-_foto_15-10-24_305378c354.jpg)
+
+Grande susto!
+
+Vídeo: carro é atingido por VLT após invadir linha férrea na Levada; motorista ficou ferido](https://www.tnh1.com.br/noticia/nid/video-carro-e-atingido-por-vlt-apos-invadir-linha-ferrea-na-levada-motorista-ficou-ferido/ "Vídeo: carro é atingido por VLT após invadir linha férrea na Levada; motorista ficou ferido")   [![Contador de história leva apresentação para crianças em tratamento oncológico](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/a/csm_entretenimento_criancas_hospital_ascom_7dc2d0e727.jpg)
 
 em maceió
 
@@ -30,19 +42,7 @@ Caso Braskem: MPF e MP/AL realizam inspeção nas obras de revitalização dos F
 
 Disputa por tráfico
 
-Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://www.tnh1.com.br/noticia/nid/homem-que-usou-farda-do-bope-para-assaltar-joalheria-e-indiciado-por-assassinato-no-prado/ "Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado")   [![Flagrante: loja divulga imagens de homem furtando produto em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/8/csm_suspeito-havan-reproducao_9f56d732ea.jpg)
-
-Veja vídeo
-
-Flagrante: loja divulga imagens de homem furtando produto em Maceió](https://www.tnh1.com.br/noticia/nid/flagrante-loja-divulga-imagens-de-homem-furtando-produto-em-maceio/ "Flagrante: loja divulga imagens de homem furtando produto em Maceió")   [![Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/7/csm_toalha-tentativa-abuso-centro_eedcbcf62e.jpg)
-
-No Centro
-
-Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado](https://www.tnh1.com.br/noticia/nid/mulher-e-encontrada-com-sinais-de-violencia-apos-sofrer-tentativa-de-abuso-em-terreno-abandonado/ "Mulher é encontrada com sinais de violência após sofrer tentativa de abuso em terreno abandonado")   [![Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/1/csm_flagrante-ameaca-mulher-clima-bom_9ef6e110aa.jpg)
-
-No Clima Bom
-
-Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte](https://www.tnh1.com.br/noticia/nid/video-homem-e-preso-apos-ser-flagrado-agredindo-a-ex-companheira-e-a-ameacando-de-morte/ "Vídeo: Homem é preso após ser flagrado agredindo a ex-companheira e a ameaçando de morte")
+Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://www.tnh1.com.br/noticia/nid/homem-que-usou-farda-do-bope-para-assaltar-joalheria-e-indiciado-por-assassinato-no-prado/ "Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,31 +82,31 @@ Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](http
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/e/csm_Homem-e-assassinado-apos-agredir-a-esposa-no-Villa-00786239-ae2d75513fb8c017bf7e5682e06c8b4a-7_bc9193d329.jpg)
+   [![Motociclista é parado pela PRF e acaba preso suspeito de homicídio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_prisao_PRF_929d98ad57.jpeg)
 
-Polícia
+em rio largo
 
-Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió](https://www.tnh1.com.br/noticia/nid/veja-o-que-se-sabe-sobre-caso-de-homem-que-foi-morto-a-tiros-apos-agredir-mulher-em-maceio/ "Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió")   [![PM desarticula ponto de desmanche de veículos e apreende armas de fogo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/f/csm_csm_viatura_policia_militar_-_ascom_ssp_b65a315e7e_6d5bc954da.jpg)
+Motociclista é parado pela PRF e acaba preso suspeito de homicídio](https://www.tnh1.com.br/noticia/nid/motociclista-e-parado-pela-prf-e-acaba-preso-suspeito-de-homicidio/ "Motociclista é parado pela PRF e acaba preso suspeito de homicídio")   [![Motorista de ônibus é preso após policiais encontrarem 5kg de maconha no veículo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_maconha_interior_e326d7768d.png)
 
-são miguel dos campos
+operação conjunta
 
-PM desarticula ponto de desmanche de veículos e apreende armas de fogo](https://www.tnh1.com.br/noticia/nid/pm-desarticula-ponto-de-desmanche-de-veiculos-e-apreende-armas-de-fogo/ "PM desarticula ponto de desmanche de veículos e apreende armas de fogo ")   [![Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/9/csm_Taciana_Maria_Ramos_morta_pelo_companheiro_arquivo_pessoal_3821eaf220.jpg)
+Motorista de ônibus é preso após policiais encontrarem 5kg de maconha no veículo](https://www.tnh1.com.br/noticia/nid/motorista-de-onibus-e-preso-apos-policiais-encontrarem-5kg-de-maconha-no-veiculo/ "Motorista de ônibus é preso após policiais encontrarem 5kg de maconha no veículo")   [![Homem mata namorada a facadas durante briga por ciúmes, no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/0/csm_IML_Maceio_-_foto_Policia_Cientifica_2_ea1ef0bfc3.jpeg)
 
-12 golpes de faca
+Matriz do Camaragibe
 
-Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://www.tnh1.com.br/noticia/nid/relacionamento-de-casal-de-alagoanos-acaba-em-tragedia-no-interior-de-sao-paulo/ "Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo")   [![Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_colonia_perseguicao__2__c3447a2059.jpeg)
+Homem mata namorada a facadas durante briga por ciúmes, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-mata-namorada-a-facadas-durante-briga-por-ciumes-no-interior-de-alagoas/ "Homem mata namorada a facadas durante briga por ciúmes, no interior de Alagoas")   [![Homem é preso em MG por assassinato de vizinho no Sertão de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/4/csm_viatura_pc-al_-_foto_ascom_1180deb7a8.jpeg)
 
-colônia leopoldina
+20 anos depois
 
-Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://www.tnh1.com.br/noticia/nid/suspeitos-de-assaltos-morrem-viatura-capota-e-policiais-ficam-feridos-em-perseguicao-no-interior-de-al/ "Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL")   [![Homem é preso suspeito de tentar matar o marido a facadas em praça pública ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/4/csm_preso_saomiguel_871bdff6d3.png)
+Homem é preso em MG por assassinato de vizinho no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-em-mg-por-assassinato-de-vizinho-no-sertao-de-alagoas/ "Homem é preso em MG por assassinato de vizinho no Sertão de Alagoas")   [![Homem é morto com seis tiros dentro lanchonete no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/6/csm_morto-tiros-lanchonete-feira-grande_c96b3d95bf.jpg)
 
-São Miguel dos Campos
+feira grande
 
-Homem é preso suspeito de tentar matar o marido a facadas em praça pública](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-tentar-matar-o-marido-a-facadas-em-praca-publica/ "Homem é preso suspeito de tentar matar o marido a facadas em praça pública ")   [![Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/3/csm_csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_b134dc68b3_393dcfe611.jpeg)
+Homem é morto com seis tiros dentro lanchonete no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-morto-com-seis-tiros-dentro-lanchonete-no-interior-de-alagoas/ "Homem é morto com seis tiros dentro lanchonete no interior de Alagoas")   [![Após troca de tiros, polícia prende suspeito de duplo homicídio ocorrido após atentado no Feitosa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/7/csm_atentado_feitosa_4_3d5b5eee76.png)
 
-Disputa por tráfico
+Novo tiroteio
 
-Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://www.tnh1.com.br/noticia/nid/homem-que-usou-farda-do-bope-para-assaltar-joalheria-e-indiciado-por-assassinato-no-prado/ "Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado")
+Após troca de tiros, polícia prende suspeito de duplo homicídio ocorrido após atentado no Feitosa](https://www.tnh1.com.br/noticia/nid/apos-troca-de-tiros-policia-prende-suspeito-de-duplo-homicidio-ocorrido-apos-atentado-no-feitosa/ "Após troca de tiros, polícia prende suspeito de duplo homicídio ocorrido após atentado no Feitosa")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -232,39 +232,39 @@ Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira 
 
 Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-terca-feira-15/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)")
 
-[![Coincidência no calendário pode fazer aguardado julgamento de Diddy ficar às moscas; entenda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/9/csm_sean-diddy-reproducao_redes-sociais_b06904a1fb.jpeg)
+[![Mortes e prejuízos: Aneel se compromete a prestar contas sobre apagão em São Paulo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/1/csm_apagao_sp_e3b9844d2e.png)
 
-Gente Famosa
+Investigações
 
-Gente Famosa
+Investigações
 
-Coincidência no calendário pode fazer aguardado julgamento de Diddy ficar às moscas; entenda
+Mortes e prejuízos: Aneel se compromete a prestar contas sobre apagão em São Paulo
 
-Coincidência no calendário pode fazer aguardado julgamento de Diddy ficar às moscas; entenda](https://www.tnh1.com.br/noticia/nid/coincidencia-no-calendario-pode-fazer-aguardado-julgamento-de-diddy-ficar-as-moscas-entenda/ "Coincidência no calendário pode fazer aguardado julgamento de Diddy ficar às moscas; entenda")[![Eliminatórias: Dorival espera jogo complicado contra seleção peruana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_dorival_jr_foto_rafael_ribeiro-cbf_f229b82b7e.jpg)
+Mortes e prejuízos: Aneel se compromete a prestar contas sobre apagão em São Paulo](https://www.tnh1.com.br/noticia/nid/mortes-e-prejuizos-aneel-se-compromete-a-prestar-contas-sobre-apagao-em-sao-paulo/ "Mortes e prejuízos: Aneel se compromete a prestar contas sobre apagão em São Paulo")[![Veja os riscos de rebaixamento e quem vive drama na Série B](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/5/csm_serieB_reproducao_c37dba0fe4.png)
 
-é amanhã
+Campeonato Brasileiro
 
-é amanhã
+Campeonato Brasileiro
 
-Eliminatórias: Dorival espera jogo complicado contra seleção peruana
+Veja os riscos de rebaixamento e quem vive drama na Série B
 
-Eliminatórias: Dorival espera jogo complicado contra seleção peruana](https://www.tnh1.com.br/noticia/nid/eliminatorias-dorival-espera-jogo-complicado-contra-selecao-peruana/ "Eliminatórias: Dorival espera jogo complicado contra seleção peruana")[![Turbulência em voo da Air Canada faz passageiros voarem e joga comida no teto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/0/csm_turbulencia-voo-reproducao-reddit-hefetzhashud_c676625f21.jpg)
+Veja os riscos de rebaixamento e quem vive drama na Série B](https://www.tnh1.com.br/noticia/nid/veja-os-riscos-de-rebaixamento-e-quem-vive-drama-na-serie-b/ "Veja os riscos de rebaixamento e quem vive drama na Série B")[![Risco de rebaixamento do CRB cresce após derrota para o lanterna Guarani; veja números](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/a/csm_CRB-Guarani-Diogo_Reis_4606c4cc03.jpg)
 
-Susto grande
+Série B
 
-Susto grande
+Série B
 
-Turbulência em voo da Air Canada faz passageiros voarem e joga comida no teto
+Risco de rebaixamento do CRB cresce após derrota para o lanterna Guarani; veja números
 
-Turbulência em voo da Air Canada faz passageiros voarem e joga comida no teto](https://www.tnh1.com.br/noticia/nid/turbulencia-em-voo-da-air-canada-faz-passageiros-voarem-e-joga-comida-no-teto/ "Turbulência em voo da Air Canada faz passageiros voarem e joga comida no teto")[![Kanye West montou 'playground sexual' no escritório e tinha sua esposa como 'coordenadora de orgias', revela ex-assistente](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_kanye-west-reproducao-redes-sociais_b36cd48e42.jpg)
+Risco de rebaixamento do CRB cresce após derrota para o lanterna Guarani; veja números](https://www.tnh1.com.br/noticia/nid/risco-de-rebaixamento-do-crb-cresce-apos-derrota-para-o-lanterna-guarani-veja-numeros/ "Risco de rebaixamento do CRB cresce após derrota para o lanterna Guarani; veja números")[![Motociclista é parado pela PRF e acaba preso suspeito de homicídio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_prisao_PRF_8a873bda50.jpeg)
 
-revelações
+em rio largo
 
-revelações
+em rio largo
 
-Kanye West montou 'playground sexual' no escritório e tinha sua esposa como 'coordenadora de orgias', revela ex-assistente
+Motociclista é parado pela PRF e acaba preso suspeito de homicídio
 
-Kanye West montou 'playground sexual' no escritório e tinha sua esposa como 'coordenadora de orgias', revela ex-assistente](https://www.tnh1.com.br/noticia/nid/kanye-west-montou-playground-sexual-no-escritorio-e-tinha-sua-esposa-como-coordenadora-de-orgias-revela-ex-assistente/ "Kanye West montou 'playground sexual' no escritório e tinha sua esposa como 'coordenadora de orgias', revela ex-assistente")
+Motociclista é parado pela PRF e acaba preso suspeito de homicídio](https://www.tnh1.com.br/noticia/nid/motociclista-e-parado-pela-prf-e-acaba-preso-suspeito-de-homicidio/ "Motociclista é parado pela PRF e acaba preso suspeito de homicídio")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
