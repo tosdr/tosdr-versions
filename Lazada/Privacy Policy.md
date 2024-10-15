@@ -56,7 +56,7 @@ Categories
 
 ### Customer Care
 
-* [Lazada Help Center](https://helpcenter.lazada.sg/s/faq)
+* [Lazada Help Center](https://www.lazada.sg/helpcenter/)
 * [RedMart Help Center](https://helpcenter-redmart.lazada.sg/s/faq)
 * [How to Buy](https://www.lazada.sg/helpcenter/payments/)
 * [Shipping & Delivery](https://www.lazada.sg/helpcenter/shipping_delivery/)
@@ -77,13 +77,17 @@ Categories
 * [Privacy Policy](https://pages.lazada.sg/wow/gcp/route/lazada/sg/upr_1000345_lazada/channel/sg/upr-router/sg?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/sg/legal/privacy_policy)
 * [Intellectual Property Protection](https://pages.lazada.sg/wow/gcp/route/lazada/sg/upr_1000345_lazada/channel/sg/upr-router/sg?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/sg/legal/ipr-policy)
 
+![Download the App](https://img.lazcdn.com/us/media/d33f1c45a4bd2fc773f8614625ed9cee-165-165.png)
+
 Always Better
 
 Download the App
 
-[](https://itunes.apple.com/app/id785385147)[](https://play.google.com/store/apps/details?id=com.lazada.android)[](https://appgallery.huawei.com/#/app/C100164557)
+ [![Apple App Download](https://img.lazcdn.com/us/domino/e8ab6f9c-5f88-402d-b2a1-1dd940e046b4_SG-126-42.png)](https://itunes.apple.com/app/id785385147)[![Android App Download](https://img.lazcdn.com/us/domino/aaec14c4-2bba-445d-aa83-0898020e4b2e_SG-126-42.png)](https://play.google.com/store/apps/details?id=com.lazada.android)[![Huawei App Download](https://img.lazcdn.com/g/tps/imgextra/i1/O1CN01brmkRW21eAmpV4slQ_!!6000000007009-2-tps-126-42.png)](https://appgallery.huawei.com/#/app/C100164557)
 
 ### Payment Methods
+
+ ![visa](https://img.lazcdn.com/us/domino/436a8de5-c39f-4e20-a90f-371962f093a8_SG-53-39.png)![ms](https://img.lazcdn.com/us/domino/d61caa9e-b487-441f-b537-8133824cba7f_SG-53-39.png) ![ae](https://img.lazcdn.com/us/domino/07b6990e-1a6e-4239-a160-9e6a97ea103d_SG-53-39.png)
 
 ### Delivery Services
 
@@ -97,7 +101,7 @@ Download the App
 
 ### Lazada Southeast Asia
 
-[](https://www.lazada.co.id/)[](https://www.lazada.com.my/)[](https://www.lazada.com.ph/)[](https://www.lazada.sg/)[](https://www.lazada.co.th/)[](https://www.lazada.vn/)
+ [![id](https://img.lazcdn.com/us/domino/4df3b77e-f742-40e8-9785-fc646db1ca67_SG-32-32.png)](https://www.lazada.co.id/)[![my](https://img.lazcdn.com/us/domino/7d095410-c513-4190-b851-577bd944de8c_SG-32-32.png)](https://www.lazada.com.my/)[![ph](https://img.lazcdn.com/us/domino/16fea16e-c434-4a7d-81b7-2b72e02d89ae_SG-32-32.png)](https://www.lazada.com.ph/)[![sg](https://img.lazcdn.com/us/domino/3ea2e43e-ad44-4776-9618-6363067fc89d_SG-32-32.png)](https://www.lazada.sg/)[![th](https://img.lazcdn.com/us/domino/4a18c248-e89f-408a-8d23-d2e1ec259755_SG-32-32.png)](https://www.lazada.co.th/)[![vn](https://img.lazcdn.com/us/domino/135fe6af-b17b-45cc-818e-52d9a60c04b4_SG-32-32.png)](https://www.lazada.vn/)
 
 ### Follow Us
 
