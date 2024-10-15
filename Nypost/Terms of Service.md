@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Olivia Nuzzi said RFK Jr. wanted to ‘possess and impregnate’ her during sexting tryst, her ex claims](https://nypost.com/2024/10/15/us-news/olivia-nuzzi-said-rfk-jr-wanted-to-possess-and-impregnate-her-during-sexting-tryst-her-ex-claims/)
+
 Terms Of Use
 ============
 
