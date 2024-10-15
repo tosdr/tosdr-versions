@@ -471,6 +471,7 @@ Tools
 * [What is my IP](https://surfshark.com/what-is-my-ip)
 * [DNS leak test](https://surfshark.com/dns-leak-test)
 * [WebRTC leak test](https://surfshark.com/webrtc-leak-test)
+* [Data Leak Checker](https://surfshark.com/alert/data-leak-checker)
 
 Support
 
