@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Emotional abuse risk at memory care centers](https://www.pintas.com/wp-content/uploads/2021/03/elderly-woman-scared-of-nurse-200x300.jpg "Emotional Abuse Risk at Memory Care Centers")](https://www.pintas.com/faq/are-seniors-at-memory-care-facilities-at-a-higher-risk-of-emotional-abuse/ "Emotional Abuse Risk at Memory Care Centers")
+[![What is the most common lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-what-is-the-most-common-lung-cancer.jpg "What Is the Most Common Lung Cancer?")](https://www.pintas.com/lung-cancer/what-is-the-most-common-lung-cancer/ "What Is the Most Common Lung Cancer?")
 
-[#### Emotional Abuse Risk at Memory Care Centers](https://www.pintas.com/faq/are-seniors-at-memory-care-facilities-at-a-higher-risk-of-emotional-abuse/)
+[#### What Is the Most Common Lung Cancer?](https://www.pintas.com/lung-cancer/what-is-the-most-common-lung-cancer/)
 
-[![How long do you live after being diagnosed with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-how-long-do-you-live-after-being-diagnosed-with-lung-cancer.jpg "How Long Do You Live After Being Diagnosed With Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/survival-rates "How Long Do You Live After Being Diagnosed With Lung Cancer?")
+[![While in or getting out of the shower or bathtub](https://www.pintas.com/wp-content/uploads/2020/12/practice-areas-personal-injury-nursing-home-abuse-lawyer-while-in-getting-out-shower-bathtub.jpg "While in or Getting Out of the Shower or Bathtub")](https://www.pintas.com/faq/while-in-getting-out-shower-bathtub/ "While in or Getting Out of the Shower or Bathtub")
 
-[#### How Long Do You Live After Being Diagnosed With Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/survival-rates)
+[#### While in or Getting Out of the Shower or Bathtub](https://www.pintas.com/faq/while-in-getting-out-shower-bathtub/)
 
-[![Is lung cancer always terminal?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-is-lung-cancer-always-terminal-1.jpg "Is Lung Cancer Always Terminal?")](https://www.pintas.com/lung-cancer/is-lung-cancer-always-terminal/ "Is Lung Cancer Always Terminal?")
+[![What are the standards for disaster preparedness for nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-are-the-standards-for-disaster-preparedness-in-nursing-homes.jpg "What Are the Standards for Disaster Preparedness for Nursing Homes?")](https://www.pintas.com/faq/what-are-the-standards-for-disaster-preparedness-in-nursing-homes/ "What Are the Standards for Disaster Preparedness for Nursing Homes?")
 
-[#### Is Lung Cancer Always Terminal?](https://www.pintas.com/lung-cancer/is-lung-cancer-always-terminal/)
+[#### What Are the Standards for Disaster Preparedness for Nursing Homes?](https://www.pintas.com/faq/what-are-the-standards-for-disaster-preparedness-in-nursing-homes/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
