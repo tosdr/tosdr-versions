@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ As we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours; and this we should do freely and generously.”
+“ Life's most persistent and urgent question is, What are you doing for others?”
 
-[Benjamin Franklin](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm)
+[Martin Luther King, Jr.](http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr.)
 
 [](https://www.adafruit.com/about)
 
