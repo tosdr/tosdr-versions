@@ -206,23 +206,15 @@ Brasil
 
 Nova variante do vírus Sars-CoV-2 é identificada em três estados
 
-Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://www.tnh1.com.br/noticia/nid/nova-variante-do-virus-sars-cov-2-e-identificada-em-tres-estados/ "Nova variante do vírus Sars-CoV-2 é identificada em três estados")[![Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/f/csm_colonia_perseguicao__2__697e279c8d.jpeg)
+Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://www.tnh1.com.br/noticia/nid/nova-variante-do-virus-sars-cov-2-e-identificada-em-tres-estados/ "Nova variante do vírus Sars-CoV-2 é identificada em três estados")[![Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/e/csm_dsc9276-monica-benicio-e-sua-namorada-jessica-cores-rio-jazz-fest-out-2024-cg_cf2b636646.jpg)
 
-colônia leopoldina
+Novo amor
 
-colônia leopoldina
+Novo amor
 
-Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL
+Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'
 
-Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://www.tnh1.com.br/noticia/nid/suspeitos-de-assaltos-morrem-viatura-capota-e-policiais-ficam-feridos-em-perseguicao-no-interior-de-al/ "Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL")[![Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/d/csm_carteira_de_trabalho_foto_secom_maceio_ffbed9bb06.jpg)
-
-Mercado de Trabalho
-
-Mercado de Trabalho
-
-Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior
-
-Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/procurando-emprego-veja-789-novas-vagas-a-partir-desta-segunda-em-maceio-e-no-interior/ "Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no interior")[![Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/9/csm_Taciana_Maria_Ramos_morta_pelo_companheiro_arquivo_pessoal_1d70bab3ad.jpg)
+Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'](https://www.tnh1.com.br/noticia/nid/viuva-de-marielle-franco-assume-namoro-com-atriz-de-verdades-secretas/ "Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'")[![Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/9/csm_Taciana_Maria_Ramos_morta_pelo_companheiro_arquivo_pessoal_1d70bab3ad.jpg)
 
 12 golpes de faca
 
@@ -230,41 +222,49 @@ Procurando emprego? Veja 789 novas vagas a partir desta segunda em Maceió e no 
 
 Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo
 
-Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://www.tnh1.com.br/noticia/nid/relacionamento-de-casal-de-alagoanos-acaba-em-tragedia-no-interior-de-sao-paulo/ "Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo")
+Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://www.tnh1.com.br/noticia/nid/relacionamento-de-casal-de-alagoanos-acaba-em-tragedia-no-interior-de-sao-paulo/ "Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo")[![Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/f/csm_colonia_perseguicao__2__697e279c8d.jpeg)
 
-[![Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/e/csm_Homem-e-assassinado-apos-agredir-a-esposa-no-Villa-00786239-ae2d75513fb8c017bf7e5682e06c8b4a-7_1ac15e76ec.jpg)
+colônia leopoldina
 
-Polícia
+colônia leopoldina
 
-Polícia
+Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL
 
-Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió
+Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://www.tnh1.com.br/noticia/nid/suspeitos-de-assaltos-morrem-viatura-capota-e-policiais-ficam-feridos-em-perseguicao-no-interior-de-al/ "Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL")
 
-Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió](https://www.tnh1.com.br/noticia/nid/veja-o-que-se-sabe-sobre-caso-de-homem-que-foi-morto-a-tiros-apos-agredir-mulher-em-maceio/ "Veja o que se sabe sobre caso de homem que foi morto a tiros após agredir mulher em Maceió")[![Vini Jr. se torna jogador com maior valor de mercado da história do futebol](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_Vini_Jr_-_Instagarm_537c2af7a9.jpg)
+[![Coincidência no calendário pode fazer aguardado julgamento de Diddy ficar às moscas; entenda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/9/csm_sean-diddy-reproducao_redes-sociais_b06904a1fb.jpeg)
 
-Futebol Internacional
+Gente Famosa
 
-Futebol Internacional
+Gente Famosa
 
-Vini Jr. se torna jogador com maior valor de mercado da história do futebol
+Coincidência no calendário pode fazer aguardado julgamento de Diddy ficar às moscas; entenda
 
-Vini Jr. se torna jogador com maior valor de mercado da história do futebol](https://www.tnh1.com.br/noticia/nid/vini-jr-se-torna-jogador-com-maior-valor-de-mercado-da-historia-do-futebol/ "Vini Jr. se torna jogador com maior valor de mercado da história do futebol")[![Vídeo: Xuxa abre vidro de carro para tirar fotos e fã cospe nela após show beneficente](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/c/csm_xuxa_cuspe_video_689f9a4616.jpg)
+Coincidência no calendário pode fazer aguardado julgamento de Diddy ficar às moscas; entenda](https://www.tnh1.com.br/noticia/nid/coincidencia-no-calendario-pode-fazer-aguardado-julgamento-de-diddy-ficar-as-moscas-entenda/ "Coincidência no calendário pode fazer aguardado julgamento de Diddy ficar às moscas; entenda")[![Eliminatórias: Dorival espera jogo complicado contra seleção peruana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_dorival_jr_foto_rafael_ribeiro-cbf_f229b82b7e.jpg)
 
-em são paulo
+é amanhã
 
-em são paulo
+é amanhã
 
-Vídeo: Xuxa abre vidro de carro para tirar fotos e fã cospe nela após show beneficente
+Eliminatórias: Dorival espera jogo complicado contra seleção peruana
 
-Vídeo: Xuxa abre vidro de carro para tirar fotos e fã cospe nela após show beneficente](https://www.tnh1.com.br/noticia/nid/video-xuxa-abre-vidro-de-carro-para-tirar-fotos-e-fa-cospe-nela-apos-show-beneficente/ "Vídeo: Xuxa abre vidro de carro para tirar fotos e fã cospe nela após show beneficente")[![Mais de 100 feridos em acidentes foram atendidos no HGE durante o fim de semana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/6/csm_csm_HGE_altera_fluxo_de_entrada_da_urgencia_a_partir_desta_quinta-feira_Carla_Cleto_ad459e7363_5213f7e670.jpg)
+Eliminatórias: Dorival espera jogo complicado contra seleção peruana](https://www.tnh1.com.br/noticia/nid/eliminatorias-dorival-espera-jogo-complicado-contra-selecao-peruana/ "Eliminatórias: Dorival espera jogo complicado contra seleção peruana")[![Turbulência em voo da Air Canada faz passageiros voarem e joga comida no teto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/0/csm_turbulencia-voo-reproducao-reddit-hefetzhashud_c676625f21.jpg)
 
-em maceió
+Susto grande
 
-em maceió
+Susto grande
 
-Mais de 100 feridos em acidentes foram atendidos no HGE durante o fim de semana
+Turbulência em voo da Air Canada faz passageiros voarem e joga comida no teto
 
-Mais de 100 feridos em acidentes foram atendidos no HGE durante o fim de semana](https://www.tnh1.com.br/noticia/nid/mais-de-100-feridos-em-acidentes-foram-atendidos-no-hge-durante-o-fim-de-semana/ "Mais de 100 feridos em acidentes foram atendidos no HGE durante o fim de semana")
+Turbulência em voo da Air Canada faz passageiros voarem e joga comida no teto](https://www.tnh1.com.br/noticia/nid/turbulencia-em-voo-da-air-canada-faz-passageiros-voarem-e-joga-comida-no-teto/ "Turbulência em voo da Air Canada faz passageiros voarem e joga comida no teto")[![Kanye West montou 'playground sexual' no escritório e tinha sua esposa como 'coordenadora de orgias', revela ex-assistente](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_kanye-west-reproducao-redes-sociais_b36cd48e42.jpg)
+
+revelações
+
+revelações
+
+Kanye West montou 'playground sexual' no escritório e tinha sua esposa como 'coordenadora de orgias', revela ex-assistente
+
+Kanye West montou 'playground sexual' no escritório e tinha sua esposa como 'coordenadora de orgias', revela ex-assistente](https://www.tnh1.com.br/noticia/nid/kanye-west-montou-playground-sexual-no-escritorio-e-tinha-sua-esposa-como-coordenadora-de-orgias-revela-ex-assistente/ "Kanye West montou 'playground sexual' no escritório e tinha sua esposa como 'coordenadora de orgias', revela ex-assistente")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
