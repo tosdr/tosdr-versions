@@ -74,13 +74,13 @@ Trending Posts
 
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
 * ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
-* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
+* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
+* ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
+* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 Close
@@ -138,13 +138,13 @@ Trending Posts
 
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
 * ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
-* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
+* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
+* ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
+* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 [Skip to content](#main)
