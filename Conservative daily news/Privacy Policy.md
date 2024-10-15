@@ -175,6 +175,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Florida Police Chief Still Hiding from Public After Hurricane Gun Ban Gaffe](https://www.thegunpage.com/florida-police-chief-still-hiding-from-public-after-hurricane-gun-ban-gaffe/10611203)
+* [Franklin Armory Releases the G-S193 Binary Kit for the Glock 19](https://www.thegunpage.com/franklin-armory-releases-the-g-s193-binary-kit-for-the-glock-19/10611201)
+* [Rossi Pays Tribute To A Legendary Lawman](https://www.thegunpage.com/rossi-pays-tribute-to-a-legendary-lawman/10611205)
 * [Parker Mountain Machine Releases The PMM G45 Ultra](https://www.thegunpage.com/parker-mountain-machine-releases-the-pmm-g45-ultra/10611200)
 * [Klutzy Walz Struggles Loading His Shotgun On Pheasant Hunt](https://www.thegunpage.com/klutzy-walz-struggles-loading-his-shotgun-on-pheasant-hunt/10611198)
 * [Aguila Copa Mundial Wraps Up In Saltillo, Mexico](https://www.thegunpage.com/aguila-copa-mundial-wraps-up-in-saltillo-mexico/10611195)
@@ -182,9 +185,6 @@ Recent Posts
 * [TFB Weekly Web Deals 109: Deals for October 14th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-109-deals-for-october-14th-2024/10611196)
 * [Collegiate Rifle: First Road Trip Splits Doubleheader For Akron](https://www.thegunpage.com/collegiate-rifle-first-road-trip-splits-doubleheader-for-akron/10611197)
 * [New York Governor Signs New Anti-Gun Bills](https://www.thegunpage.com/new-york-governor-signs-new-anti-gun-bills/10611191)
-* [Okeechobee police chief still in hiding, now flouting multiple state laws](https://www.thegunpage.com/okeechobee-police-chief-still-in-hiding-now-flouting-multiple-state-laws/10611188)
-* [Hillsdale College Hosts 2024 USPSA Collegiate Match](https://www.thegunpage.com/hillsdale-college-hosts-2024-uspsa-collegiate-match/10611192)
-* [Armed Kansas Man Shoots Aggressor In Self-Defense](https://www.thegunpage.com/armed-kansas-man-shoots-aggressor-in-self-defense/10611183)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
