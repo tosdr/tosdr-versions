@@ -30,6 +30,9 @@ The store will not work correctly in the case when cookies are disabled.
     
     * [NEW
         
+        Liberty 2 Iggy Azalea](https://www.womanizer.com/eu/iggy-azalea)
+    * [NEW
+        
         Vibe](https://www.womanizer.com/eu/vibe)
     * [NEW
         
@@ -41,39 +44,41 @@ The store will not work correctly in the case when cookies are disabled.
     * [NEW
         
         Blend](https://www.womanizer.com/eu/blend)
+    * [DUO 2](https://www.womanizer.com/eu/duo2)
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
-    * [PREMIUM eco](https://www.womanizer.com/eu/eco)
-    * [Classic 2 Marilyn Monroe™ Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
     * [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
 * [Sale](https://www.womanizer.com/eu/sale)
     
-    * [Premium](https://www.womanizer.com/eu/premium)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
-    * [DUO](https://www.womanizer.com/eu/duo)
-    * [Pro40](https://www.womanizer.com/eu/pro-40)
-    * [We-Vibe Wand](https://www.womanizer.com/eu/we-vibe-wand)
-    * [InsideOut](https://www.womanizer.com/eu/insideout)
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
-    * [LIBERTY](https://www.womanizer.com/eu/liberty)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [PREMIUM eco](https://www.womanizer.com/eu/eco)
-    * [Classic Pleasure Set](https://www.womanizer.com/eu/classic-pleasure-set)
-    * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
-    * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
+    * [InsideOut](https://www.womanizer.com/eu/insideout)
     * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
+    * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
+    * [DUO](https://www.womanizer.com/eu/duo)
+    * [Pro40](https://www.womanizer.com/eu/pro-40)
     * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
     * [Starlet Snow](https://www.womanizer.com/eu/starlet)
     * [Pro / W500](https://www.womanizer.com/eu/w500)
+    * [The All-About-Us Collection](https://www.womanizer.com/eu/the-all-about-us-collection)
+    * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
+    * [Double Down Collection](https://www.womanizer.com/eu/double-down-collection)
+    * [Classic Pleasure Set](https://www.womanizer.com/eu/classic-pleasure-set)
+    * [Booster Bundle](https://www.womanizer.com/eu/booster-bundle)
+    * [Dream Team Set](https://www.womanizer.com/eu/dream-team-set)
+    * [We-Vibe Wand](https://www.womanizer.com/eu/we-vibe-wand)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
     
 * [Katy Perry’s "Woman’s World" ![](/media/wysiwyg/WMZ_Katy_Perry_burger_menu_50x50.png)](https://www.womanizer.com/eu/katyperry) 
+* [Liberty 2 Iggy Azalea](https://www.womanizer.com/eu/iggy-azalea)
 * [HOW IT WORKS](https://www.womanizer.com/eu/how-it-works)
 * [Find your toy](https://www.womanizer.com/eu/toy-finder-quiz)
 * [About](#)
@@ -81,6 +86,7 @@ The store will not work correctly in the case when cookies are disabled.
     * [Testimonials](https://www.womanizer.com/eu/feeling)
     * [5 year warranty](https://www.womanizer.com/eu/5warranty)
     * [Katy Perry’s "Woman’s World" ![](/media/wysiwyg/WMZ_Katy_Perry_burger_menu_50x50.png)](https://www.womanizer.com/eu/katyperry) 
+    * [Liberty 2 Iggy Azalea](https://www.womanizer.com/eu/iggy-azalea)
     * [100 day Pleasure Guarantee](https://www.womanizer.com/eu/satisfaction-guaranteed)
     * [Lily Allen & Womanizer](https://www.womanizer.com/eu/lilyallen)
     * [Find your toy](https://www.womanizer.com/eu/toy-finder-quiz)
