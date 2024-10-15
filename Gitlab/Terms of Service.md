@@ -1579,7 +1579,7 @@
         * [ ]  [GitLab for Open Source Program Agreement](https://handbook.gitlab.com/handbook/legal/opensource-agreement/)
         * [ ]  [GitLab Inc. Philanthropy Policy](https://handbook.gitlab.com/handbook/legal/philanthropy-policy/)
         * [ ]  [GitLab Legal Team READMEs](https://handbook.gitlab.com/handbook/legal/readmes/)
-            * [ ] [](https://handbook.gitlab.com/handbook/legal/readmes/emilyplotkin/)
+            * [ ]  [Emily Plotkin's README](https://handbook.gitlab.com/handbook/legal/readmes/emilyplotkin/)
             * [ ]  [Joel Fluss' README](https://handbook.gitlab.com/handbook/legal/readmes/joelfluss/)
             * [ ]  [Julie Braughler's README](https://handbook.gitlab.com/handbook/legal/readmes/juliebraughler/)
             * [ ]  [Miguel Silva's README](https://handbook.gitlab.com/handbook/legal/readmes/miguelsilva/)
