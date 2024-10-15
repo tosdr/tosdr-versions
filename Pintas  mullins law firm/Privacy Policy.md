@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can peritoneal mesothelioma spread to the lungs?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-peritoneal-mesothelioma-spread-to-the-lungs-scaled.jpg "Can Peritoneal Mesothelioma Spread to the Lungs?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/can-peritoneal-mesothelioma-spread-to-lungs "Can Peritoneal Mesothelioma Spread to the Lungs?")
+[![Emotional abuse risk at memory care centers](https://www.pintas.com/wp-content/uploads/2021/03/elderly-woman-scared-of-nurse-200x300.jpg "Emotional Abuse Risk at Memory Care Centers")](https://www.pintas.com/faq/are-seniors-at-memory-care-facilities-at-a-higher-risk-of-emotional-abuse/ "Emotional Abuse Risk at Memory Care Centers")
 
-[#### Can Peritoneal Mesothelioma Spread to the Lungs?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/can-peritoneal-mesothelioma-spread-to-lungs)
+[#### Emotional Abuse Risk at Memory Care Centers](https://www.pintas.com/faq/are-seniors-at-memory-care-facilities-at-a-higher-risk-of-emotional-abuse/)
 
-[![Can you sue for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesotheliomacan-you-sue-for-mesothelioma-scaled.jpg "Can You Sue for Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/ "Can You Sue for Mesothelioma?")
+[![How long do you live after being diagnosed with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-how-long-do-you-live-after-being-diagnosed-with-lung-cancer.jpg "How Long Do You Live After Being Diagnosed With Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/survival-rates "How Long Do You Live After Being Diagnosed With Lung Cancer?")
 
-[#### Can You Sue for Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/)
+[#### How Long Do You Live After Being Diagnosed With Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/survival-rates)
 
-[![Can you diagnose lung cancer with a pet scan?](https://www.pintas.com/wp-content/uploads/2020/11/can-you-diagnose-lung-cancer-with-a-PET-scan.jpg "Can You Diagnose Lung Cancer with a PET Scan?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-diagnose-lung-cancer-with-a-pet-scan/ "Can You Diagnose Lung Cancer with a PET Scan?")
+[![Is lung cancer always terminal?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-is-lung-cancer-always-terminal-1.jpg "Is Lung Cancer Always Terminal?")](https://www.pintas.com/lung-cancer/is-lung-cancer-always-terminal/ "Is Lung Cancer Always Terminal?")
 
-[#### Can You Diagnose Lung Cancer with a PET Scan?](https://www.pintas.com/practice-areas/lung-cancer/can-you-diagnose-lung-cancer-with-a-pet-scan/)
+[#### Is Lung Cancer Always Terminal?](https://www.pintas.com/lung-cancer/is-lung-cancer-always-terminal/)
 
 ### Injured?  
 Tell Us What Happened.
