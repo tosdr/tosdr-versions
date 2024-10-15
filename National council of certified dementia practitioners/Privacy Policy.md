@@ -15,7 +15,7 @@
 
 * [Certifications](https://www.nccdp.org/certifications/)
     
-    Featured All Certs FAQ's
+    Featured All Certs MCEN FAQ's
     
     [![](https://www.nccdp.org/wp-content/uploads/2024/04/CDP-Home-Hero-150x150.jpg)](https://www.nccdp.org/cdp/)
     
@@ -46,6 +46,14 @@
     Certification**](https://www.nccdp.org/certifications/#renew)
     
     [Learn More](https://www.nccdp.org/certifications/#renew)
+    
+    [![](https://www.nccdp.org/wp-content/uploads/2023/08/MCEN-Badge-150x150.png)](https://www.nccdp.org/certifications/nccdps-memory-care-excellence-network/)
+    
+    #### Advancing Excellence in Dementia Care
+    
+    ### Memory Care Excellence Network
+    
+    [Learn More](https://www.nccdp.org/certifications/nccdps-memory-care-excellence-network/)
     
     [* What Steps do I take to become a CDP?](https://www.nccdp.org/resources/frequently-asked-questions/#steps)[* How do I create a corporate group?](https://www.nccdp.org/resources/frequently-asked-questions/#corporategroup)
     
@@ -313,6 +321,7 @@ National Council of Certified Dementia Practitioners
     * [CADDCT](https://www.nccdp.org/train/)
     * [All Certifications](https://www.nccdp.org/certifications/)
     * [Renew Certificaitons](https://www.nccdp.org/certifications/#renew)
+    * [Memory Care Excellence Network](https://www.nccdp.org/certifications/nccdps-memory-care-excellence-network/)
     * [CDP FAQs](https://www.nccdp.org/cdp/#cdpfaq)
     * [All Certification FAQs](https://www.nccdp.org/resources/frequently-asked-questions/#certificationfaqs)
 * [Seminars](https://www.nccdp.org/seminars/)
