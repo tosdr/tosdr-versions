@@ -30,6 +30,7 @@ Go To Shopping
     * [Staff](https://yaliberty.org/staff/)
     * [Jobs](https://yaliberty.isolvedhire.com/jobs/)
     * [Planned Giving](https://yaliberty.org/planned-giving/)
+* [About](https://yaliberty.org/about/)
 
 [![](https://yaliberty.org/wp-content/uploads/2024/10/YAL-Logo.png "YAL-Logo")](https://yaliberty.org/)
 
@@ -58,6 +59,7 @@ Go To Shopping
     * [Staff](https://yaliberty.org/staff/)
     * [Jobs](https://yaliberty.isolvedhire.com/jobs/)
     * [Planned Giving](https://yaliberty.org/planned-giving/)
+* [About](https://yaliberty.org/about/)
 
 0
 
