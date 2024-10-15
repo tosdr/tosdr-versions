@@ -206,50 +206,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=73104864)  
-NJR ICT Services (Pty) Ltd
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=50834768)  
+Little Nutty Professors
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=52095191)  
-ARCHITEK PTY LTD
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=170585732)  
+Eruca (PTY)Ltd
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=205248636)  
-Qothiphango Mining
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=140568956)  
+Kaylas Creations
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=3797066)  
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=89509739)  
+Redlum Group (Pty) Ltd
+
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=167632798)  
+Highlands Auto Engineering
+
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=197600938)  
+Myfinance-Online
+
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=82770777)  
+Printo
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=201617488)  
+MONSTER SECURITY SERVICES
+
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=125139785)  
+Calonet
+
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=130643786)  
 Peter Salvage Pty Ltd
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=27051518)  
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=80572525)  
+Beyond Laser CNC Cutting Technology South Africa CC
+
+![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=212330220)  
+Sportspro Group (Pty) Ltd
+
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=139587103)  
+#DiGi3 Marketing & Design
+
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=85371853)  
 Salvage Genie
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=201107870)  
-IEMS (PTY) ltd
-
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=21859224)  
-Enhle Oarabile Kea
-
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=116053612)  
-Testpro Laboratory (Pty) Ltd
-
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=212432789)  
-Lizzy Pop PTY(Ltd)
-
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=92331056)  
-Environment Friendly Toilets (Pty) Ltd
-
-![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=75969114)  
-PHESA TECHNOLOGY(PTY) LTD
-
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=144777521)  
-Goju-Ryu Pretoria East
-
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=178198038)  
-Sonic Electrical Services PTY Ltd
-
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=35051248)  
-SR Travel Services
-
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=cc0783ff988a56c54aef0a1c2d8469d8e5a1157bd545e266befa369569a96629&c=4842605)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=162041044)  
+AMS Ambu Medical Supplies
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
