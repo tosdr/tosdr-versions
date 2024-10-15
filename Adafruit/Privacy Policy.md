@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Life's most persistent and urgent question is, What are you doing for others?”
+“ I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success”
 
-[Martin Luther King, Jr.](http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr.)
+[Nikola Tesla](http://en.wikipedia.org/wiki/Nikola_Tesla)
 
 [](https://www.adafruit.com/about)
 
