@@ -340,7 +340,6 @@ Back
     * [Resources & Tools](#)
     * [Line Card](https://www.symmetryelectronics.com/manufacturer-line-card/)
     * [eBooks](https://www.symmetryelectronics.com/ebooks/)
-    * [Technology Teardowns](https://www.symmetryelectronics.com/technology-teardowns/)
     
 * [Blog](https://www.symmetryelectronics.com/blog/) [Blog](https://www.symmetryelectronics.com/blog/)
 * [About](https://www.symmetryelectronics.com/about/)
