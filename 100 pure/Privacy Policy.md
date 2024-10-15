@@ -1,5 +1,5 @@
 ![](
-https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  100% PURE Privacy Policy                                                                                                    
+https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  100% PURE Privacy Policy                                                                                                  
 
 My Tote
 -------
@@ -230,7 +230,7 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants PM Facial Oil](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-196 reviews (196)
+197 reviews (197)
 
 $58.00
 
