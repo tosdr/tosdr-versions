@@ -1,157 +1,254 @@
-[Boost app engagement and conversions with seamless deep linking. Get started now!](https://www.adjust.com/solutions/deep-linking/) [Boost engagement with seamless deep linking. Start now!](https://www.adjust.com/solutions/deep-linking/)
-
-[![Adjust](https://a.storyblok.com/f/47007/x/187cc6c31c/adjust-logo.svg)
-
-![Adjust](https://a.storyblok.com/f/47007/x/187cc6c31c/adjust-logo.svg)](https://www.adjust.com/)
-
-Products
-
-[Measure
-
-Unlimited measurement on mobile, web, CTV, PC, and console.](https://www.adjust.com/product/measure/)[Analyze
-
-Powerful analytics, reporting, and visualizations in Datascape.](https://www.adjust.com/product/analyze/)[Engage
-
-Guide high-value users to your app with growth-boosting experiences.](https://www.adjust.com/product/engage/)[Recommend
-
-Make smarter decisions with AI-driven, next-generation measurement.](https://www.adjust.com/product/recommend/)[Automate
-
-Streamline operations and amplify your marketing with automation.](https://www.adjust.com/product/automate/)[Protect
-
-Safeguard your data and prevent mobile ad fraud.](https://www.adjust.com/product/protect/)
-
-[View All Products](https://www.adjust.com/product/)
-
-Solutions
-
-[iOS & SKAN
-
-Leverage machine-learning for scalable iOS and SKAdNetwork success.](https://www.adjust.com/solutions/ios-skadnetwork/)[CTV & OTT
-
-Power-up omnichannel success and make connected TV a performance channel.](https://www.adjust.com/solutions/ctv-ott/)[ROI Measurement
-
-Effortlessly increase ROI and ROAS with accurate data and holistic views.](https://www.adjust.com/solutions/roi-measurement/)[Fraud Prevention
-
-Protect your data and budgets with proactive mobile ad fraud prevention.](https://www.adjust.com/solutions/fraud-prevention/)[PC & Console
-
-Expand your horizons and power up PC and console games measurement.](https://www.adjust.com/solutions/pc-console/)[Incrementality
-
-AI-powered, next-gen incrementality analysis for granular campaign insights.](https://www.adjust.com/solutions/incrementality/)[Deep Linking
-
-Scale engagement and conversions with frictionless, multi-platform experiences](https://www.adjust.com/solutions/deep-linking/)
-
-Why Adjust
-
-Discover
-
-[Why Adjust](https://www.adjust.com/why/)[Privacy and security](https://www.adjust.com/security/)[Partner marketplace](https://www.adjust.com/partners/tech/)[Success stories](https://www.adjust.com/resources/case-studies/)
-
-Winning Results
-
-[Random Logic Games: Reduced operational costs by 40%](https://www.adjust.com/resources/case-studies/random-logic-games/)[Duolingo: Boosted LTV and Day 7 retention](https://www.adjust.com/resources/case-studies/duolingo/)[View all](https://www.adjust.com/resources/case-studies/)
-
-[Pricing](https://www.adjust.com/pricing/)
-
-Resources
-
-Learn
-
-[Blog](https://www.adjust.com/blog/)[Webinars](https://www.adjust.com/resources/webinars/)[Ebooks](https://www.adjust.com/resources/ebooks/)[Guides](https://www.adjust.com/resources/guides/)[Success stories](https://www.adjust.com/resources/case-studies/)[Glossary](https://www.adjust.com/glossary/)
-
-Hot Topics
-
- [![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/80x80/filters:quality(95))
-
-![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/80x80/filters:quality(95))
-
-Ebook
-
-Mobile app trends: 2024 edition](https://www.adjust.com/resources/ebooks/mobile-app-trends-2024/)[Media mix modeling (MMM) guide](https://www.adjust.com/resources/guides/incrementality-analysis/)[PC and console growth marketing guide](https://www.adjust.com/resources/guides/deep-linking/)[Gaming app insights report](https://www.adjust.com/resources/ebooks/gaming-app-insights/)
-
-[Resources Overview](https://www.adjust.com/resources/)
-
-[Request a demo](https://www.adjust.com/request-a-demo/see-adjust/) [Log In](https://suite.adjust.com/)
-
-[![Adjust](https://a.storyblok.com/f/47007/x/187cc6c31c/adjust-logo.svg)
-
-![Adjust](https://a.storyblok.com/f/47007/x/187cc6c31c/adjust-logo.svg)](https://www.adjust.com/)
-
-Products
-
-[Measure
-
-Unlimited measurement on mobile, web, CTV, PC, and console.](https://www.adjust.com/product/measure/)[Analyze
-
-Powerful analytics, reporting, and visualizations in Datascape.](https://www.adjust.com/product/analyze/)[Engage
-
-Guide high-value users to your app with growth-boosting experiences.](https://www.adjust.com/product/engage/)[Recommend
-
-Make smarter decisions with AI-driven, next-generation measurement.](https://www.adjust.com/product/recommend/)[Automate
-
-Streamline operations and amplify your marketing with automation.](https://www.adjust.com/product/automate/)[Protect
-
-Safeguard your data and prevent mobile ad fraud.](https://www.adjust.com/product/protect/)
-
-[View All Products](https://www.adjust.com/product/)
-
-Solutions
-
-[iOS & SKAN
-
-Leverage machine-learning for scalable iOS and SKAdNetwork success.](https://www.adjust.com/solutions/ios-skadnetwork/)[CTV & OTT
-
-Power-up omnichannel success and make connected TV a performance channel.](https://www.adjust.com/solutions/ctv-ott/)[ROI Measurement
-
-Effortlessly increase ROI and ROAS with accurate data and holistic views.](https://www.adjust.com/solutions/roi-measurement/)[Fraud Prevention
-
-Protect your data and budgets with proactive mobile ad fraud prevention.](https://www.adjust.com/solutions/fraud-prevention/)[PC & Console
-
-Expand your horizons and power up PC and console games measurement.](https://www.adjust.com/solutions/pc-console/)[Incrementality
-
-AI-powered, next-gen incrementality analysis for granular campaign insights.](https://www.adjust.com/solutions/incrementality/)[Deep Linking
-
-Scale engagement and conversions with frictionless, multi-platform experiences](https://www.adjust.com/solutions/deep-linking/)
-
-Why Adjust
-
-Discover
-
-[Why Adjust](https://www.adjust.com/why/)[Privacy and security](https://www.adjust.com/security/)[Partner marketplace](https://www.adjust.com/partners/tech/)[Success stories](https://www.adjust.com/resources/case-studies/)
-
-Winning Results
-
-[Random Logic Games: Reduced operational costs by 40%](https://www.adjust.com/resources/case-studies/random-logic-games/)[Duolingo: Boosted LTV and Day 7 retention](https://www.adjust.com/resources/case-studies/duolingo/)[View all](https://www.adjust.com/resources/case-studies/)
-
-[Pricing](https://www.adjust.com/pricing/)
-
-Resources
-
-Learn
-
-[Blog](https://www.adjust.com/blog/)[Webinars](https://www.adjust.com/resources/webinars/)[Ebooks](https://www.adjust.com/resources/ebooks/)[Guides](https://www.adjust.com/resources/guides/)[Success stories](https://www.adjust.com/resources/case-studies/)[Glossary](https://www.adjust.com/glossary/)
-
-Hot Topics
-
- [![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/80x80/filters:quality(95))
-
-![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/80x80/filters:quality(95))
-
-Ebook
-
-Mobile app trends: 2024 edition](https://www.adjust.com/resources/ebooks/mobile-app-trends-2024/)[Media mix modeling (MMM) guide](https://www.adjust.com/resources/guides/incrementality-analysis/)[PC and console growth marketing guide](https://www.adjust.com/resources/guides/deep-linking/)[Gaming app insights report](https://www.adjust.com/resources/ebooks/gaming-app-insights/)
-
-[Resources Overview](https://www.adjust.com/resources/)
-
-[](https://www.adjust.com/search/)[Log In](https://suite.adjust.com/) [Request a demo](https://www.adjust.com/request-a-demo/see-adjust/)
+[![Adjust](https://a.storyblok.com/f/47007/x/187cc6c31c/adjust-logo.svg)](https://www.adjust.com/)
 
 [](https://www.adjust.com/search/)
 
+Products
+
+[Measure
+
+Unlimited measurement on mobile, web, CTV, PC, and console.](https://www.adjust.com/product/measure/)
+
+[Analyze
+
+Powerful analytics, reporting, and visualizations in Datascape.](https://www.adjust.com/product/analyze/)
+
+[Engage
+
+Guide high-value users to your app with growth-boosting experiences.](https://www.adjust.com/product/engage/)
+
+[Recommend
+
+Make smarter decisions with AI-driven, next-generation measurement.](https://www.adjust.com/product/recommend/)
+
+[Automate
+
+Streamline operations and amplify your marketing with automation.](https://www.adjust.com/product/automate/)
+
+[Protect
+
+Safeguard your data and prevent mobile ad fraud.](https://www.adjust.com/product/protect/)
+
+[View All Products](https://www.adjust.com/product/)
+
+Solutions
+
+[iOS & SKAN
+
+Leverage machine-learning for scalable iOS and SKAdNetwork success.](https://www.adjust.com/solutions/ios-skadnetwork/)
+
+[CTV & OTT
+
+Power-up omnichannel success and make connected TV a performance channel.](https://www.adjust.com/solutions/ctv-ott/)
+
+[ROI Measurement
+
+Effortlessly increase ROI and ROAS with accurate data and holistic views.](https://www.adjust.com/solutions/roi-measurement/)
+
+[Fraud Prevention
+
+Protect your data and budgets with proactive mobile ad fraud prevention.](https://www.adjust.com/solutions/fraud-prevention/)
+
+[PC & Console
+
+Expand your horizons and power up PC and console games measurement.](https://www.adjust.com/solutions/pc-console/)
+
+[Incrementality
+
+AI-powered, next-gen incrementality analysis for granular campaign insights.](https://www.adjust.com/solutions/incrementality/)
+
+[Deep Linking
+
+Scale engagement and conversions with frictionless, multi-platform experiences](https://www.adjust.com/solutions/deep-linking/)
+
+Why Adjust
+
+Discover
+
+[Why Adjust](https://www.adjust.com/why/)
+
+[Privacy and security](https://www.adjust.com/security/)
+
+[Partner marketplace](https://www.adjust.com/partners/tech/)
+
+[Success stories](https://www.adjust.com/resources/case-studies/)
+
+Winning Results
+
+[Random Logic Games: Reduced operational costs by 40%](https://www.adjust.com/resources/case-studies/random-logic-games/)
+
+[Duolingo: Boosted LTV and Day 7 retention](https://www.adjust.com/resources/case-studies/duolingo/)
+
+[View all](https://www.adjust.com/resources/case-studies/)
+
+[Pricing](https://www.adjust.com/pricing/)
+
+Resources
+
+Learn
+
+[Blog](https://www.adjust.com/blog/)
+
+[Webinars](https://www.adjust.com/resources/webinars/)
+
+[Ebooks](https://www.adjust.com/resources/ebooks/)
+
+[Guides](https://www.adjust.com/resources/guides/)
+
+[Success stories](https://www.adjust.com/resources/case-studies/)
+
+[Glossary](https://www.adjust.com/glossary/)
+
+Hot Topics
+
+[![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/160x160/filters:quality(80))
+
+Ebook
+
+Mobile app trends: 2024 edition](https://www.adjust.com/resources/ebooks/mobile-app-trends-2024/)
+
+[Media mix modeling (MMM) guide](https://www.adjust.com/resources/guides/incrementality-analysis/)
+
+[PC and console growth marketing guide](https://www.adjust.com/resources/guides/deep-linking/)
+
+[Gaming app insights report](https://www.adjust.com/resources/ebooks/gaming-app-insights/)
+
+[Resources Overview](https://www.adjust.com/resources/)
+
+[Request a demo](https://www.adjust.com/request-a-demo/see-adjust/)
+
+[Log In](https://suite.adjust.com/)
+
+[![Adjust](https://a.storyblok.com/f/47007/x/187cc6c31c/adjust-logo.svg)](https://www.adjust.com/)
+
+Products
+
+[Measure
+
+Unlimited measurement on mobile, web, CTV, PC, and console.](https://www.adjust.com/product/measure/)
+
+[Analyze
+
+Powerful analytics, reporting, and visualizations in Datascape.](https://www.adjust.com/product/analyze/)
+
+[Engage
+
+Guide high-value users to your app with growth-boosting experiences.](https://www.adjust.com/product/engage/)
+
+[Recommend
+
+Make smarter decisions with AI-driven, next-generation measurement.](https://www.adjust.com/product/recommend/)
+
+[Automate
+
+Streamline operations and amplify your marketing with automation.](https://www.adjust.com/product/automate/)
+
+[Protect
+
+Safeguard your data and prevent mobile ad fraud.](https://www.adjust.com/product/protect/)
+
+[View All Products](https://www.adjust.com/product/)
+
+Solutions
+
+[iOS & SKAN
+
+Leverage machine-learning for scalable iOS and SKAdNetwork success.](https://www.adjust.com/solutions/ios-skadnetwork/)
+
+[CTV & OTT
+
+Power-up omnichannel success and make connected TV a performance channel.](https://www.adjust.com/solutions/ctv-ott/)
+
+[ROI Measurement
+
+Effortlessly increase ROI and ROAS with accurate data and holistic views.](https://www.adjust.com/solutions/roi-measurement/)
+
+[Fraud Prevention
+
+Protect your data and budgets with proactive mobile ad fraud prevention.](https://www.adjust.com/solutions/fraud-prevention/)
+
+[PC & Console
+
+Expand your horizons and power up PC and console games measurement.](https://www.adjust.com/solutions/pc-console/)
+
+[Incrementality
+
+AI-powered, next-gen incrementality analysis for granular campaign insights.](https://www.adjust.com/solutions/incrementality/)
+
+[Deep Linking
+
+Scale engagement and conversions with frictionless, multi-platform experiences](https://www.adjust.com/solutions/deep-linking/)
+
+Why Adjust
+
+Discover
+
+[Why Adjust](https://www.adjust.com/why/)
+
+[Privacy and security](https://www.adjust.com/security/)
+
+[Partner marketplace](https://www.adjust.com/partners/tech/)
+
+[Success stories](https://www.adjust.com/resources/case-studies/)
+
+Winning Results
+
+[Random Logic Games: Reduced operational costs by 40%](https://www.adjust.com/resources/case-studies/random-logic-games/)
+
+[Duolingo: Boosted LTV and Day 7 retention](https://www.adjust.com/resources/case-studies/duolingo/)
+
+[View all](https://www.adjust.com/resources/case-studies/)
+
+[Pricing](https://www.adjust.com/pricing/)
+
+Resources
+
+Learn
+
+[Blog](https://www.adjust.com/blog/)
+
+[Webinars](https://www.adjust.com/resources/webinars/)
+
+[Ebooks](https://www.adjust.com/resources/ebooks/)
+
+[Guides](https://www.adjust.com/resources/guides/)
+
+[Success stories](https://www.adjust.com/resources/case-studies/)
+
+[Glossary](https://www.adjust.com/glossary/)
+
+Hot Topics
+
+[![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/160x160/filters:quality(80))
+
+Ebook
+
+Mobile app trends: 2024 edition](https://www.adjust.com/resources/ebooks/mobile-app-trends-2024/)
+
+[Media mix modeling (MMM) guide](https://www.adjust.com/resources/guides/incrementality-analysis/)
+
+[PC and console growth marketing guide](https://www.adjust.com/resources/guides/deep-linking/)
+
+[Gaming app insights report](https://www.adjust.com/resources/ebooks/gaming-app-insights/)
+
+[Resources Overview](https://www.adjust.com/resources/)
+
+[](https://www.adjust.com/search/)
+
+[Log In](https://suite.adjust.com/)
+
+[Request a demo](https://www.adjust.com/request-a-demo/see-adjust/)
+
 * English
+    
 * 日本語
+    
 * Deutsch
+    
 
 * Privacy policy
+    
 * CCPA
+    
 
 **Privacy policy**
 ==================
@@ -180,7 +277,7 @@ If one of our subsidiaries is the data controller and the registered office is o
 
 If the data processing is subject to the UK GDPR and a UK Representative is required this is Adjust Software Ltd, 90 High Holborn, Holborn, London, WC1V 6LJ, United Kingdom
 
-In case of any questions relating to data protection, please get in touch with us at privacy@adjust.com.
+In case of any questions relating to data protection, please get in touch with us at [privacy@adjust.com](mailto:privacy@adjust.com).
 
 Our external Data Protection Officer is ePrivacy GmbH, represented by Prof. Dr. Christoph Bauer, Burchardstrasse 14, 20095 Hamburg. If you wish to communicate directly with our Data Protection Officer (because you have a particularly sensitive matter for example), please send your request to them by post. Please state in your request that your concern relates to the company Adjust GmbH.
 
@@ -238,7 +335,7 @@ We may also use your information to contact you about goods and services that ma
 
 **Children Under the Age of 13**
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at Adjust GmbH, Saarbrücker Str. 37a, 10405 Berlin, Germany, via email at privacy@adjust.com.
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at Adjust GmbH, Saarbrücker Str. 37a, 10405 Berlin, Germany, via email at [privacy@adjust.com](mailto:privacy@adjust.com).
 
 This privacy policy and the CARU icon shown on our websites and online services, confirm that Adjust, Inc. is a valid licensee and participating member in the CARU Safe Harbor Program (“CARU Safe Harbor”).  To protect your privacy, we have voluntarily undertaken this privacy initiative.  CARU has reviewed and certified that we meet established online information collection and use practices on all Adjust’s websites and online services where this privacy policy is posted.
 
@@ -410,13 +507,13 @@ If you subscribe to our newsletter, we will process your e-mail address and data
 
 As the data subject, you have the right of access (art 15 GDPR), the right to rectification (art 16 GDPR), the right to erasure of your personal data (art 17 GDPR), the right to restriction of and object to the processing of your personal data (art 18 GDPR and art. 21 GDPR) as well as the right to data portability (art 20 GDPR). Furthermore, you have the option to file a complaint against the processing of your personal data with  a supervisory authority (for example, the data protection authority responsible for us, which is the Berliner Beauftragte für Datenschutz und Informationsfreiheit at [https://www.datenschutz-berlin.de/](https://www.datenschutz-berlin.de/), Art. 77 GDPR).
 
-If you have given your consent to the processing of your data, you can withdraw the given consent at any time (art.7 para.3 GDPR) by sending us an email to privacy@adjust.com.  The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal.
+If you have given your consent to the processing of your data, you can withdraw the given consent at any time (art.7 para.3 GDPR) by sending us an email to [privacy@adjust.com](mailto:privacy@adjust.com).  The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal.
 
 You can object to the processing of your personal data insofar as we base the processing of your personal data on our legitimate interests. This is the case in particular if the processing is not necessary for the fulfilment of a contractual obligation to you, which we in each case present in the description of the functions which follow. In case of such objection, we kindly ask for an explanation of the reasons for the objection against the processing of your personal data. In the case of your justified objection, we will examine the situation and will either discontinue or adapt the data processing or point out to you our compelling legitimate reasons based on which we continue the processing your personal data.
 
 Of course, you can object to the processing of your personal data for direct marketing purposes at any time.
 
-In this case, please send an e-mail to privacy@adjust.com.
+In this case, please send an e-mail to [privacy@adjust.com](mailto:privacy@adjust.com).
 
 **Your California Privacy Rights**
 
@@ -429,7 +526,7 @@ If personal data is being transferred to countries outside the European Economic
 **Data Privacy Framework**  
 Adjust Inc. complies with the EU-U.S. Data Privacy Framework (“DPF”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. We have certified to the U.S. Department of Commerce that it adheres to the DPF Principles. If there is any conflict between the terms in this privacy policy and the DPF Principles, the DPF Principles shall govern. To learn more about the DPF program, and to view the certification of Adjust Inc., please visit  [https://www.dataprivacyframework.gov/s/](https://www.dataprivacyframework.gov/s/)
 
-In compliance with the DPF Principles, we are committed to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our DPF policy should first contact us at: privacy@adjust.com
+In compliance with the DPF Principles, we are committed to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our DPF policy should first contact us at: [privacy@adjust.com](mailto:privacy@adjust.com)
 
 We have further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved DPF complaints concerning data transferred from the EU. We are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). You have the possibility, under certain conditions, to invoke binding arbitration. Please be aware, that we are required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Furthermore, we take liability in cases of onward transfers to third parties.
 
@@ -525,7 +622,7 @@ We use Appzi, a website visitor feedback collection tool on our website. The ser
 
 _Demandbase_
 
-We use Demandbase, an account-based marketing service, on our website. The service is provided by Demandbase, Inc., 222 2nd St., 24th Floor, San Francisco, CA 94105, USA. Demandbase enables us to identify and target B2B prospects who have shown interest in our services. This allows us to optimize and improve our marketing strategy.
+We use Demandbase, an account-based marketing service, on our website. The service is provided by Demandbase, Inc., 222 2nd St., 24th Floor, San Francisco, CA 94105, USA. Demandbase enables us to identify and target B2B prospects who have shown interest in our services. This allows us to optimize and improve our marketing strategy. 
 
 The data shared with Demandbase includes contact details of our clients and prospects (first and last name, company name, title, email. address(es), phone number(s), business address.) and website traffic data collected via Demandbase Tag (IP address, cookie ID, HTTP header, website engagement information). We process this data based on your consent as well as based on our commercial marketing interests. You can find more information about the data processed by Demandbase in their privacy policy at [https://www.demandbase.com/privacy/.](https://www.demandbase.com/privacy/)
 
@@ -608,7 +705,7 @@ Our SDK and APIs (collectively the "Adjust Technology") may process some of the 
 We use the aforementioned data for providing mobile analytics and attribution services to our Customers, and thereby allow our customers to measure their marketing performance, to match You to their campaigns and to understand how You engage with our Customers’ apps. Furthermore, we enable our Customers to measure Your interactions in their apps in real time in order to see how You engage over their full lifetime. The aforementioned data is therefore processed in order to analyze the performance of marketing campaigns and to provide performance reports to our Customers. We do not combine the data with any other data that would enable us to personally identify You. Any information processed via the Adjust Technology is owned and controlled by our Customer who has implemented the Adjust Technology into their mobile app.  
 We do not share or disclose the user data with anyone else except with our server providers and in response to lawful requests by public authorities, including national security or law enforcement requirements. We store the data as long as our Customers are using the Adjust Technology because we need it to provide our services to our Customers, if not requested otherwise by our Customers. In some cases, there is a transfer of data to third countries outside the European Union. This is done on the basis of statutory provisions that are intended to ensure an adequate level of protection for Your personal data. For more information, please contact us.
 
-Customers who have [child-directed apps](https://help.adjust.com/en/article/coppa-compliance?src=search_page) must choose the appropriate product settings and must not share any personal data with Partners or any third parties. Customers must agree to the section in our [Terms and Conditions](https://www.adjust.com/terms/general-terms-and-conditions/) accordingly.
+Customers who have [child-directed apps](https://help.adjust.com/en/article/coppa-compliance?src=search_page/) must choose the appropriate product settings and must not share any personal data with Partners or any third parties. Customers must agree to the section in our [Terms and Conditions](https://www.adjust.com/terms/general-terms-and-conditions/) accordingly.
 
 ### **5\. Changes to Our Privacy Policy**
 
@@ -617,56 +714,103 @@ It is our policy to post any changes we make to our privacy policy on this page.
 Products
 
 * [Measure](https://www.adjust.com/product/measure/)
+    
 * [Analyze](https://www.adjust.com/product/analyze/)
+    
 * [Recommend](https://www.adjust.com/product/recommend/)
+    
 * [Automate](https://www.adjust.com/product/automate/)
+    
 * [Protect](https://www.adjust.com/product/protect/)
+    
 * [Engage](https://www.adjust.com/product/engage/)
+    
 
 Quick links
 
 * [Request a demo](https://www.adjust.com/request-a-demo/see-adjust/)
+    
 * [Contact us](https://www.adjust.com/company/contact-us/)
+    
 * [Pricing](https://www.adjust.com/pricing/)
+    
 
 Solutions
 
 * [iOS & SKAN](https://www.adjust.com/solutions/ios-skadnetwork/)
+    
 * [CTV & OTT](https://www.adjust.com/solutions/ctv-ott/)
+    
 * [ROI Measurement](https://www.adjust.com/solutions/roi-measurement/)
+    
 * [Fraud Prevention](https://www.adjust.com/solutions/fraud-prevention/)
+    
 * [PC & Console](https://www.adjust.com/solutions/pc-console/)
+    
 * [Incrementality](https://www.adjust.com/solutions/incrementality/)
+    
 * [Deep Linking](https://www.adjust.com/solutions/deep-linking/)
+    
 
 Why Adjust
 
 * [Why Adjust](https://www.adjust.com/why/)
+    
 * [Security and privacy](https://www.adjust.com/security/)
+    
 * [Partner marketplace](https://www.adjust.com/partners/tech/)
+    
 * [Success stories](https://www.adjust.com/resources/case-studies/)
+    
 
 Company
 
 * [About us](https://www.adjust.com/company/)
+    
 * [Careers](https://www.adjust.com/company/careers/)
+    
 * [Newsroom](https://www.adjust.com/company/media/)
+    
 
 Resources
 
 * [Blog](https://www.adjust.com/blog/)
+    
 * [Webinars](https://www.adjust.com/resources/webinars/)
+    
 * [Ebooks](https://www.adjust.com/resources/ebooks/)
+    
 * [Guides](https://www.adjust.com/resources/guides/)
+    
 * [Glossary](https://www.adjust.com/glossary/)
+    
 * [Adjust Help Center](https://help.adjust.com/en)
+    
 
-[](https://www.facebook.com/adjustcom)[](https://www.linkedin.com/company/adjustcom/)[](https://twitter.com/adjustcom)[](https://www.instagram.com/adjustcom/)[](https://www.youtube.com/channel/UCLxY21pzKyjTuODjUytJIsA)
+[](https://www.facebook.com/adjustcom)
 
-![An AppLovin company](https://a.storyblok.com/f/47007/160x24/5b81c06c05/applovin_affiliation_badge.svg)
+[](https://www.linkedin.com/company/adjustcom/)
+
+[](https://twitter.com/adjustcom)
+
+[](https://www.instagram.com/adjustcom/)
+
+[](https://www.youtube.com/channel/UCLxY21pzKyjTuODjUytJIsA)
 
 ![An AppLovin company](https://a.storyblok.com/f/47007/160x24/5b81c06c05/applovin_affiliation_badge.svg)
 
 © 2024 Adjust GmbH. All rights reserved
 
-Data Preferences [Legal Notice](https://www.adjust.com/terms/impressum/) [Privacy Policy](https://www.adjust.com/terms/privacy-policy/) [CCPA](https://www.adjust.com/terms/ccpa/) [Terms](https://www.adjust.com/terms/general-terms-and-conditions/) [Forget Device](https://www.adjust.com/forget-device/) [Service Status](http://status.adjust.com/)
+Data Preferences
+
+[Legal Notice](https://www.adjust.com/terms/impressum/)
+
+[Privacy Policy](https://www.adjust.com/terms/privacy-policy/)
+
+[CCPA](https://www.adjust.com/terms/ccpa/)
+
+[Terms](https://www.adjust.com/terms/general-terms-and-conditions/)
+
+[Forget Device](https://www.adjust.com/forget-device/)
+
+[Service Status](http://status.adjust.com/)
