@@ -292,7 +292,7 @@ Company
 
 Set Up and Use
 
-[FAQ](https://meetcircle.com/pages/faq "FAQ") [Download Circle App](https://meetcircle.com/pages/download-circle-app "Download Circle App") [Support](https://support.meetcircle.com/hc/en-us "Support") [CCPA Opt Out](https://meetcircle.com/pages/ccpa-opt-out "CCPA Opt Out")
+[FAQ](https://meetcircle.com/pages/faq "FAQ") [Download Circle App](https://meetcircle.com/pages/download-circle-app "Download Circle App") [Support](https://support.meetcircle.com/hc/en-us "Support") [Your Privacy Choices](https://meetcircle.com/pages/your-privacy-choices "Your Privacy Choices")
 
 [**Blog**](https://meetcircle.com/blogs/stories) [**Tools**](https://meetcircle.com/pages/tools)
 
