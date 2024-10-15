@@ -45,6 +45,8 @@ About Xfire
 
 ![Xfire](https://www.xfire.com/wp-content/uploads/2020/11/xfire-red-logo.png)](https://www.xfire.com/)
 
+[](https://www.xfire.com/signup/)
+
 [](#)
 
  Search
