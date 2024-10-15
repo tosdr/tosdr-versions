@@ -115,7 +115,7 @@ Note that Bots on Discord has no access to or control over these cookies that ar
 
 By using our website, you hereby consent to our Privacy Policy.
 
-**Tip:** Be careful what permissions you give bots. Only give them the permissions they need.
+**Tip:** You can click on tags to see a bot's description for that tag.
 
 onDiscord.xyz is not affiliated with Discord Inc.
 
