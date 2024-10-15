@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Finalizes Changes to Premerger Notification Form](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-finalizes-changes-premerger-notification-form)
+    ### [FTC Extends Comment Period on RFI Related to Franchise Agreements and Business Practices to Oct. 24](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-extends-comment-period-rfi-related-franchise-agreements-business-practices-oct-24)
     
     October 10, 2024
     
