@@ -11,7 +11,7 @@
 * [Join our mailing list](https://secure.everyaction.com/ftd5pgna8kqefE3rr87Gmg2)
 * [Members Area](https://apfed.org/apfed-newsletters/)
 * [Specialist Finder](https://apfed.org/find-support-treatment/specialist-finder/)
-* [Specialist Sign Up](https://apfed.org/apfed-professional-membership/)
+* [Specialist Sign Up](https://secure.everyaction.com/jSzTo2_SfEWBKF1wNJdrVw2)
 
 [![shop](https://apfed.org/wp-content/uploads/2015/03/shop.png "shop")](https://salsa4.salsalabs.com/o/51119/t/17919/shop/shop.jsp?storefront_KEY=91)
 
@@ -363,9 +363,9 @@ Connect with patients and caregivers for support.
 
 [Join Now](https://www.inspire.com/groups/eos-connections/)
 
- Subscribe to Our E-mails
+ Join our mailing list
 
-[Subscribe Now](https://apfed.org/become-apfed-member/)
+[Join](https://secure.everyaction.com/ftd5pgna8kqefE3rr87Gmg2)
 
 #### Related Organization Links
 
