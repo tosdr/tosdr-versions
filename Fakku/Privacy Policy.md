@@ -131,18 +131,22 @@ PO Box 9009
 Portland, OR 97207  
 United States
 
-[Twitter](https://x.com/fakku) [Discord](https://discord.gg/SCjbSWkMHB)
+[](https://x.com/fakku "FAKKU X (formerly known as Twitter)")[](https://discord.gg/SCjbSWkMHB "FAKKU Discord")
 
 © FAKKU, LLC 2024 All rights reserved.
 
 [Contact](https://www.fakku.net/contact) [Support](https://www.fakku.net/support) [Jobs](https://www.fakku.net/jobs) [Terms](https://www.fakku.net/terms) [Privacy](https://www.fakku.net/privacy) [Merch](https://merch.fakku.net/)
 
-Close sidebar [Notifications](https://www.fakku.net/notifications) [Shopping Cart](https://www.fakku.net/cart) Dark mode
+Close sidebar [Notifications 10](https://www.fakku.net/notifications) [Shopping Cart](https://www.fakku.net/cart) Dark mode
 
 [Create Account](https://www.fakku.net/users/create) [Login](https://www.fakku.net/login)
 
-[FAKKU Unlimited](https://www.fakku.net/unlimited)
+[Try FAKKU Unlimited](https://www.fakku.net/unlimited)
 
-[New Releases](https://www.fakku.net/) [Doujin](https://www.fakku.net/doujin) [Games](https://www.fakku.net/games) [Manga](https://www.fakku.net/manga) [Unlimited](https://www.fakku.net/unlimited)
+Browse
 
-[Tags](https://www.fakku.net/tags) [Forums](https://www.fakku.net/forums) [Merch](https://merch.fakku.net/)
+[New Releases](https://www.fakku.net/) [Doujin](https://www.fakku.net/doujin) [Games](https://www.fakku.net/games) [Manga](https://www.fakku.net/manga) [Unlimited](https://www.fakku.net/unlimited) [Tags](https://www.fakku.net/tags)
+
+FAKKU
+
+[Forums](https://www.fakku.net/forums) [Merch](https://merch.fakku.net/) [Support](https://www.fakku.net/support)
