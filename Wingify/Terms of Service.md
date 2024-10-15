@@ -160,7 +160,7 @@
     
     Webinars
     
-    [![](https://via.placeholder.com/300x300?tr=w-60,h-50)
+    [![Michael Stineman](https://static.wingify.com/gcp/uploads/2024/10/mike-stineman-PREFERRED-019_modus_2017-1-1-scaled.jpg?tr=w-60,h-50)
     
     Use CRO Like the Pros: Surprising Ways to Nail Your CX](https://vwo.com/webinars/use-cro-like-pros-surprising-ways-nail-your-cx/)
     
