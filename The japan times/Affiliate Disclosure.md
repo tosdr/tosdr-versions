@@ -30,8 +30,8 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Shigeru Ishiba](https://www.japantimes.co.jp/tag/shigeru-ishiba/ "Shigeru Ishiba")
-* [MLB Playoffs](https://www.japantimes.co.jp/tag/mlb/ "MLB Playoffs")
+* [Lower House Election](https://www.japantimes.co.jp/tag/2024-lower-house-election// "Lower House Election")
+* [MLB Championship Series](https://www.japantimes.co.jp/tag/mlb/ "MLB Championship  Series")
 * [Nobel Prize](https://www.japantimes.co.jp/tag/nobel-prize/ "Nobel Prize")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
@@ -101,6 +101,7 @@ Subscribe
     * [Our Lives](https://www.japantimes.co.jp/community/our-lives/ "Our Lives")
 
 * [My Account](https://www.japantimes.co.jp/my-account/ "My Account")
+* [My Bookmarks](https://www.japantimes.co.jp/bookmark-articles/ "My Bookmarks")
 * [Logout](javascript:void(0) "Logout")
 
 [Subscribe for more access](https://www.japantimes.co.jp/sub/ "Subscribe for more access")
@@ -248,25 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[How Indonesia's outgoing president steered his son to the vice presidency](https://www.japantimes.co.jp/news/2024/10/15/asia-pacific/politics/indonesia-jokowi-son-gibran-vp/ "How Indonesia's outgoing president steered his son to the vice presidency")
+[Election to test Ishiba's ability to build a strong political base](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
 
-4 mins ago
+47 mins ago
 
-[Bakers brace for costly Christmas as butter prices surge](https://www.japantimes.co.jp/business/2024/10/15/markets/bakers-christmas-butter-prices/ "Bakers brace for costly Christmas as butter prices surge")
-
-1 hours ago
-
-[Lebanon rescuers defy danger, lack of resources to keep working](https://www.japantimes.co.jp/news/2024/10/15/world/lebanon-rescuers-danger-resources/ "Lebanon rescuers defy danger, lack of resources to keep working")
+[Stateless speak up as world misses its #Ibelong deadline](https://www.japantimes.co.jp/news/2024/10/15/world/politics/stateless-world-ibelong-deadline/ "Stateless speak up as world misses its #Ibelong deadline")
 
 1 hours ago
 
-[Pakistan 'vigilantes' behind rise in online blasphemy cases](https://www.japantimes.co.jp/news/2024/10/15/world/society/pakistan-vigilantes-online-blasphemy/ "Pakistan 'vigilantes' behind rise in online blasphemy cases")
+[Ishiba openness to nuke ban treaty involvement puts pact in spotlight](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/japan-pm-ishiba-nuclear-ban-treaty/ "Ishiba openness to nuke ban treaty involvement puts pact in spotlight")
 
 1 hours ago
 
-[China-Europe rivalry heats up at Paris car show as EV tariffs loom](https://www.japantimes.co.jp/business/2024/10/15/china-europe-paris-car-show-ev/ "China-Europe rivalry heats up at Paris car show as EV tariffs loom")
+[40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
 
 1 hours ago
+
+[CEATEC begins near Tokyo as humanity enters 'a new era' with AI](https://www.japantimes.co.jp/business/2024/10/15/tech/ceatec-technology-show/ "CEATEC begins near Tokyo as humanity enters 'a new era' with AI")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
