@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/ef0caaec-b594-4bd4-8e8d-640a709355d6/20241015T034235/ef0caaec-b594-4bd4-8e8d-640a709355d6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef0caaec-b594-4bd4-8e8d-640a709355d6/20241015T034235/ef0caaec-b594-4bd4-8e8d-640a709355d6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/durant-ambulance-service-desperate-need-volunteers-ems/526-c7d59810-7b8d-44df-a8e6-c96aa61d4848)
         
-        #### [Durant Ambulance Service in desperate need of volunteers](https://www.wqad.com/article/news/local/public-safety/durant-ambulance-service-desperate-need-volunteers-ems/526-c7d59810-7b8d-44df-a8e6-c96aa61d4848) [![](https://media.tegna-media.com/assets/WQAD/images/ef0caaec-b594-4bd4-8e8d-640a709355d6/20241015T034235/ef0caaec-b594-4bd4-8e8d-640a709355d6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef0caaec-b594-4bd4-8e8d-640a709355d6/20241015T034235/ef0caaec-b594-4bd4-8e8d-640a709355d6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/durant-ambulance-service-desperate-need-volunteers-ems/526-c7d59810-7b8d-44df-a8e6-c96aa61d4848)
-        
         #### [Durant Ambulance Service needs more volunteers to continue its services](https://www.wqad.com/article/news/local/public-safety/durant-ambulance-service-desperate-need-volunteers-ems/526-c7d59810-7b8d-44df-a8e6-c96aa61d4848)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/bab324df-aeb1-47bb-b353-7e58746beee8/bab324df-aeb1-47bb-b353-7e58746beee8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bab324df-aeb1-47bb-b353-7e58746beee8/bab324df-aeb1-47bb-b353-7e58746beee8_360x203.jpg)](https://www.wqad.com/article/news/local/the-diner-closing-davenport/526-dd99b3bf-bd8a-45c6-ba6b-b859ce47f5f4)
         
         #### [Davenport's The Diner announces it's closing](https://www.wqad.com/article/news/local/the-diner-closing-davenport/526-dd99b3bf-bd8a-45c6-ba6b-b859ce47f5f4)
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-41°
+34°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
