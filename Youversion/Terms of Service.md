@@ -154,7 +154,7 @@ Ministry
 
 Useful Links
 
-[Help](https://help.youversion.com/)[Donate](https://www.bible.com/donate)[Bible Versions](https://www.bible.com/versions)[Audio Bibles](https://www.bible.com/audio-bible-app-versions)[Bible Languages](https://www.bible.com/languages)[Verse of the Day](https://www.bible.com/verse-of-the-day)
+[Help](https://help.youversion.com/)[Donate](https://www.bible.com/give)[Bible Versions](https://www.bible.com/versions)[Audio Bibles](https://www.bible.com/audio-bible-app-versions)[Bible Languages](https://www.bible.com/languages)[Verse of the Day](https://www.bible.com/verse-of-the-day)
 
 * * *
 
