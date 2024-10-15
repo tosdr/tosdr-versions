@@ -36,6 +36,9 @@
         
         CISA: Hackers abuse F5 BIG-IP cookies to map internal servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
     
+    * [![$89 gets you 2TB of FileJump cloud storage that lasts for life](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        $89 gets you 2TB of FileJump cloud storage that lasts for life](https://www.bleepingcomputer.com/offer/deals/89-gets-you-2tb-of-filejump-cloud-storage-that-lasts-for-life/)
     * [![Cisco investigates breach after stolen data for sale on hacking forum](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Cisco investigates breach after stolen data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/cisco-investigates-breach-after-stolen-data-for-sale-on-hacking-forum/)
@@ -45,9 +48,6 @@
     * [![Jetpack fixes critical information disclosure flaw existing since 2016](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Jetpack fixes critical information disclosure flaw existing since 2016](https://www.bleepingcomputer.com/news/security/jetpack-fixes-critical-information-disclosure-flaw-existing-since-2016/)
-    * [![TrickMo malware steals Android PINs using fake lock screen](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        TrickMo malware steals Android PINs using fake lock screen](https://www.bleepingcomputer.com/news/security/trickmo-malware-steals-android-pins-using-fake-lock-screen/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -307,12 +307,12 @@ Popular Stories
 * [![AI hacker security Artificial Intelligence](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     OpenAI confirms threat actors use ChatGPT to write malware](https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
+* [![Cisco](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Cisco investigates breach after stolen data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/cisco-investigates-breach-after-stolen-data-for-sale-on-hacking-forum/)
 * [![Iranian hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Iranian hackers now exploit Windows flaw to elevate privileges](https://www.bleepingcomputer.com/news/security/oilrig-hackers-now-exploit-windows-flaw-to-elevate-privileges/)
-* [![Pokemon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Pokemon dev Game Freak confirms breach after stolen data leaks online](https://www.bleepingcomputer.com/news/security/pokemon-dev-game-freak-confirms-breach-after-stolen-data-leaks-online/)
 
 ##### Follow us:
 
