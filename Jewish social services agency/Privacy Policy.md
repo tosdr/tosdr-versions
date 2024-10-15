@@ -1,5 +1,13 @@
 ![](https://www.facebook.com/tr?id=2611858029067765&ev=PageView&noscript=1)        [Skip to content](#site-main)
 
+![](https://www.jssa.org/wp-content/uploads/2021/05/Multigenerational-Family-scaled-1-300x200.jpg)
+
+### Accepting New Mental Health Clients
+
+JSSA has expanded its mental health team and is now accepting new clients for counseling services, psychiatry, and medication management. Booking in-person and virtual appointments no more than two weeks out. Call 240-800-JSSA to make your appointment.
+
+[Mental Health Services Here](https://www.jssa.org/services/mental-health/ "Mental Health Services Here")
+
 [240-800-JSSA (5772)](tel:2408005772)
 
 [240-800-JSSA (5772)](tel:2408005772)
