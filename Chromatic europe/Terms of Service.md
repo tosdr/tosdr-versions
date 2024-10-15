@@ -101,7 +101,7 @@ If you have any questions/comments about these terms and conditions or should yo
 Contact us
 ----------
 
-[\[email protected\]](https://www.chromatic.ee/cdn-cgi/l/email-protection)
+[hello@chromatic.ee](mailto:hello@chromatic.ee)
 
 We operate worldwide, with  
 a **presence in the EU and the UK**
