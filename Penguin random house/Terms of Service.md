@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
-    
-    Join Our Authors for Upcoming Events
-    
-    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
-
-* * *
-
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/09/26151432/PRH_New-Audio_site_1200x626_Oct2024.jpg)
-    
-    New Stories to Listen to
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
-
-* * *
-
 * [![A Guide to Truman Capote Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/31122907/PRH_Site_1200x628_TrumanCapot.jpg)
     
     A Guide to Truman Capote Books
     
     Read More >](https://www.penguinrandomhouse.com/the-read-down/truman-capote-books/)
+
+* * *
+
+* [![The Most Exciting Picture Books Coming Fall 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/29153607/Fall-Preview-2024-600x314-picture.jpg)
+    
+    The Most Exciting Picture Books Coming Fall 2024
+    
+    Learn More >](https://www.readbrightly.com/picture-books-fall-preview/)
+
+* * *
+
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
+    
+    New Releases
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
 
 * <
     
