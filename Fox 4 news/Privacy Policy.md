@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Grand Prairie resident wins $5M from Texas Lottery scratch-off](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/400-million-mega-bucks.png?ve=1&tl=1)
+ [![Diddy lawsuits: More people, including minor, come forward accusing hip-hop mogul of sexual assault](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/diddy.jpg?ve=1&tl=1)
 
- ![Grand Prairie resident wins $5M from Texas Lottery scratch-off](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/400-million-mega-bucks.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-resident-wins-5m-from-texas-lottery-scratch-off)
+ ![Diddy lawsuits: More people, including minor, come forward accusing hip-hop mogul of sexual assault](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/diddy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/diddy-lawsuits-more-come-forward-accusing-hip-hop-mogul-sexual-assault-2024-october)
 
-### [Grand Prairie resident wins $5M from Texas Lottery scratch-off](https://www.fox4news.com/news/grand-prairie-resident-wins-5m-from-texas-lottery-scratch-off)
+### [Diddy lawsuits: More people, including minor, come forward accusing hip-hop mogul of sexual assault](https://www.fox4news.com/news/diddy-lawsuits-more-come-forward-accusing-hip-hop-mogul-sexual-assault-2024-october)
 
- [![North Richland Hills man killed in hit-and-run by alleged drunk driver](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1)
+ [![Dallas County launches its own dedicated opioid overdose prevention hotline](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/dallas-county-opioid-crisis.png?ve=1&tl=1)
 
- ![North Richland Hills man killed in hit-and-run by alleged drunk driver](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-richland-hills-jose-angel-valles-killed-hit-and-run)
+ ![Dallas County launches its own dedicated opioid overdose prevention hotline](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/dallas-county-opioid-crisis.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-overdose-prevention-hotline-number-and-hours)
 
-### [North Richland Hills man killed in hit-and-run by alleged drunk driver](https://www.fox4news.com/news/north-richland-hills-jose-angel-valles-killed-hit-and-run)
+### [Dallas County launches its own dedicated opioid overdose prevention hotline](https://www.fox4news.com/news/dallas-county-overdose-prevention-hotline-number-and-hours)
 
- [![Vem Miller: What we know about the man arrested near Trump's rally](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/untitled-design-1.jpg?ve=1&tl=1)
+ [![North Texas teens make trip to Florida to help with hurricane aftermath](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101424-burleson-granbury-volunteers-milton-cleanup_00.01.21.38.jpg?ve=1&tl=1)
 
- ![Vem Miller: What we know about the man arrested near Trump's rally](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/untitled-design-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/vem-miller-las-vegas-man-arrested-trump-coachella-rally)
+ ![North Texas teens make trip to Florida to help with hurricane aftermath](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101424-burleson-granbury-volunteers-milton-cleanup_00.01.21.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-teens-make-trip-florida-help-hurricane-aftermath)
 
-### [Vem Miller: What we know about the man arrested near Trump's rally](https://www.fox4news.com/news/vem-miller-las-vegas-man-arrested-trump-coachella-rally)
+### [North Texas teens make trip to Florida to help with hurricane aftermath](https://www.fox4news.com/news/north-texas-teens-make-trip-florida-help-hurricane-aftermath)
 
- [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/fox-local.jpg?ve=1&tl=1)
+ [![AMBER Alert canceled for 3 missing children from Austin; suspect at large](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/child.jpg?ve=1&tl=1)
 
- ![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/fox-local.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
+ ![AMBER Alert canceled for 3 missing children from Austin; suspect at large](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/592/333/child.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-issued-3-missing-children-from-austin)
 
-### [How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://www.fox4news.com/news/how-to-download-fox-local)
+### [AMBER Alert canceled for 3 missing children from Austin; suspect at large](https://www.fox4news.com/news/amber-alert-issued-3-missing-children-from-austin)
 
- [![Demi Moore says ex Bruce Willis is in 'stable' health as he battles dementia](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/fnc-getty-bruce-demi3.jpg?ve=1&tl=1)
+ [![Japan offers free domestic flights to tourists, but there's a catch](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2169529866.jpg?ve=1&tl=1)
 
- ![Demi Moore says ex Bruce Willis is in 'stable' health as he battles dementia](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/fnc-getty-bruce-demi3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bruce-willis-dementia-demi-moore-update-latest-hamptons-film-festival)
+ ![Japan offers free domestic flights to tourists, but there's a catch](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2169529866.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/japan-free-flights-tourism-catch)
 
-### [Demi Moore says ex Bruce Willis is in 'stable' health as he battles dementia](https://www.fox4news.com/news/bruce-willis-dementia-demi-moore-update-latest-hamptons-film-festival)
+### [Japan offers free domestic flights to tourists, but there's a catch](https://www.fox4news.com/news/japan-free-flights-tourism-catch)
 
 ###### [News](https://www.fox4news.com/news)
 
