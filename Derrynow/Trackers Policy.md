@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-14 Oct 2024
+15 Oct 2024
 
 * [Home
     
@@ -259,19 +259,19 @@ Advertise with Us
 
 Most Popular
 
-[![PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette")](https://www.derrynow.com/news/pictures---videos/1629973/pictures-candlelight-procession-for-the-visit-of-the-relic-of-st-bernadette.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette](https://www.derrynow.com/news/pictures---videos/1629973/pictures-candlelight-procession-for-the-visit-of-the-relic-of-st-bernadette.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Big turnout for annual Marty's Run in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Big turnout for annual Marty's Run in Derry")](https://www.derrynow.com/story-telling/derry-sport/1629836/in-pictures-big-turnout-for-annual-marty-s-run-in-derry.html)
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
 [IN PICTURES: Big turnout for annual Marty's Run in Derry](https://www.derrynow.com/story-telling/derry-sport/1629836/in-pictures-big-turnout-for-annual-marty-s-run-in-derry.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette")](https://www.derrynow.com/news/pictures---videos/1629973/pictures-candlelight-procession-for-the-visit-of-the-relic-of-st-bernadette.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette](https://www.derrynow.com/news/pictures---videos/1629973/pictures-candlelight-procession-for-the-visit-of-the-relic-of-st-bernadette.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: St Bernadette service - Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Bernadette service - Derry")](https://www.derrynow.com/news/pictures---videos/1629939/pictures-relics-of-st-bernadette-of-lourdes-arrive-in-derry.html)
 
@@ -326,14 +326,12 @@ The suspected drugs seized by Ballyarnett Neighbourhood Policing Team
 [Three arrested after death of child in Co Tyrone](https://www.derrynow.com/news/northern-ireland/1629752/three-arrested-after-death-of-child-in-co-tyrone.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Karl Lacey commits to Kilcoo as Down kingpins land another SFC](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Karl Lacey commits to Kilcoo as Down kingpins land another SFC")](https://www.derrynow.com/news/derry-sport/1629291/karl-lacey-commits-to-kilcoo-as-down-kingpins-land-another-sfc.html)
+[![Man (23) charged with number of drugs offences following weekend seizure in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (23) charged with number of drugs offences following weekend seizure in Derry")](https://www.derrynow.com/news/local-news/1629634/man-23-charged-with-number-of-drugs-offences-following-weekend-seizure-in-derry.html)
 
-Kilcoo boss Karl Lacey has dismissed reports linking him to the Derry job
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Karl Lacey commits to Kilcoo and dismisses reports linking him to the vacant Derry job](https://www.derrynow.com/news/derry-sport/1629291/karl-lacey-commits-to-kilcoo-as-down-kingpins-land-another-sfc.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man (23) charged with number of drugs offences following weekend seizure in Derry](https://www.derrynow.com/news/local-news/1629634/man-23-charged-with-number-of-drugs-offences-following-weekend-seizure-in-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +511,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1630206/derry-city-waste-yet-another-opportunity-to-go-top.html)
+
+An early second half equaliser was not enough for Derry City. Pic by Ramsey Cardy/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry City waste yet another opportunity to go top](https://www.derrynow.com/news/derry-sport/1630206/derry-city-waste-yet-another-opportunity-to-go-top.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![First-time Derry show garden designers sought for Bord Bia Bloom](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "First-time Derry show garden designers sought for Bord Bia Bloom")](https://www.derrynow.com/news/local-news/1629843/first-time-derry-show-garden-designers-sought-for-bord-bia-bloom.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -520,7 +527,7 @@ Advertise with Us
 [First-time Derry show garden designers sought for Bord Bia Bloom](https://www.derrynow.com/news/local-news/1629843/first-time-derry-show-garden-designers-sought-for-bord-bia-bloom.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Number of vehicles during Derry road safety operation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Number of vehicles during Derry road safety operation")](https://www.derrynow.com/news/local-news/1629990/number-of-vehicles-seized-during-derry-road-safety-operation.html)
+[![Number of vehicles during Derry road safety operation](https://www.derrynow.com/resizer/165/93/true/2024_10_14/Road_Safety_op_3-1728920061612.jpg--.jpg?1728920062287 "Number of vehicles during Derry road safety operation")](https://www.derrynow.com/news/local-news/1629990/number-of-vehicles-seized-during-derry-road-safety-operation.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -549,13 +556,6 @@ Team Northern Ireland ready for their WKC World Championships in Portugal
 
 [County Derry woman reflects on volunteering with NSPCC NI Young Witness Service](https://www.derrynow.com/news/local-news/1629964/county-derry-woman-reflects-onvolunteering-with-nspcc-ni-young-witness-service.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Council issues call out to creative art workshop facilitators](https://www.derrynow.com/resizer/165/93/true/GN4_DAT_13665443.jpg--.jpg "Council issues call out to creative art workshop facilitators")](https://www.derrynow.com/news/local-news/1629929/council-issues-call-out-to-creative-art-workshop-facilitators.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Council issues call out to creative art workshop facilitators](https://www.derrynow.com/news/local-news/1629929/council-issues-call-out-to-creative-art-workshop-facilitators.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
