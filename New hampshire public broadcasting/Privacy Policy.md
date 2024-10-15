@@ -184,14 +184,14 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Amsterdam in Winter** | Van der Valk](https://video.nhpbs.org/video/amsterdam-in-winter-7ygz6l?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer Make Peace or Die: Honor the Fallen** | Independent Lens](https://video.nhpbs.org/video/trailer-make-peace-or-die-honor-the-fallen-0cbbaz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 6 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-6-preview-n0vlgx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 6 Preview** | Van der Valk](https://video.nhpbs.org/video/episode-6-preview-sgpjje?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Non-Spanish speaking Latinos reclaim culture after shaming** | PBS News Hour](https://video.nhpbs.org/video/non-spanish-speaking-latinos-reclaim-culture-after-shaming-1728952061?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**October 14, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-14-2024-pbs-news-hour-full-episode-1728878401?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Ted Johnson on Trump's Appeal to Black Men: "Hyper-Masculine and Untouchable"** | Amanpour and Company](https://video.nhpbs.org/video/ted-johnson-on-trumps-appeal-to-black-men-hyper-masculine-and-untouchable-djfosj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 Ford Ranger & 2024 BMW X2** | MotorWeek](https://video.nhpbs.org/video/2024-ford-ranger-2024-bmw-x2-pluiue?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Celestine Tate Harrington: Building a Legacy** | American Masters](https://video.nhpbs.org/video/celestine-tate-harrington-uj5ni1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Reckoning and Repair Preview** | Stories from the Stage](https://video.nhpbs.org/video/stories-from-the-stage-reckoning-and-repair-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Condoleezza Rice** | Firing Line](https://video.nhpbs.org/video/condoleezza-rice-yifiaz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**TTC Extra: FOMO Online** | To The Contrary](https://video.nhpbs.org/video/ttc-extra-fomo-online-utod9y?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**full episode, 10/11/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-101124-k8cxod?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
