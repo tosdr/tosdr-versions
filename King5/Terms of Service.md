@@ -30,16 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a08c8b33-04d0-4ce1-ab2b-57c7716822c7/20241015T142239/a08c8b33-04d0-4ce1-ab2b-57c7716822c7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a08c8b33-04d0-4ce1-ab2b-57c7716822c7/20241015T142239/a08c8b33-04d0-4ce1-ab2b-57c7716822c7_360x203.jpg)](https://www.king5.com/article/news/crime/man-shoots-estranged-wifes-new-boyfriend-kitsap-county/281-0045140c-065a-4b62-999a-b673da3ec8d9)
+    *  [![](https://media.king5.com/assets/KING/images/a3fe3bd8-0b52-450b-9569-e50ce334fc94/20241015T191106/a3fe3bd8-0b52-450b-9569-e50ce334fc94_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3fe3bd8-0b52-450b-9569-e50ce334fc94/20241015T191106/a3fe3bd8-0b52-450b-9569-e50ce334fc94_360x203.jpg)](https://www.king5.com/article/sports/russell-wilson-consideration-start-jets-steelers/281-bd536ac7-b816-4e34-8d8a-e015e6424df8)
         
-        #### [Man shoots estranged wife's new boyfriend after high-speed chase in Kitsap County, deputies say](https://www.king5.com/article/news/crime/man-shoots-estranged-wifes-new-boyfriend-kitsap-county/281-0045140c-065a-4b62-999a-b673da3ec8d9) [![](https://media.king5.com/assets/KING/images/a08c8b33-04d0-4ce1-ab2b-57c7716822c7/20241015T142239/a08c8b33-04d0-4ce1-ab2b-57c7716822c7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a08c8b33-04d0-4ce1-ab2b-57c7716822c7/20241015T142239/a08c8b33-04d0-4ce1-ab2b-57c7716822c7_360x203.jpg)](https://www.king5.com/article/news/crime/man-shoots-estranged-wifes-new-boyfriend-kitsap-county/281-0045140c-065a-4b62-999a-b673da3ec8d9)
+        #### [Russell Wilson 'in consideration' to start against the Jets in return from calf injury](https://www.king5.com/article/sports/russell-wilson-consideration-start-jets-steelers/281-bd536ac7-b816-4e34-8d8a-e015e6424df8)
         
-        #### [Man shot by girlfriend's estranged husband following high-speed chase, per deputies](https://www.king5.com/article/news/crime/man-shoots-estranged-wifes-new-boyfriend-kitsap-county/281-0045140c-065a-4b62-999a-b673da3ec8d9) [![](https://media.king5.com/assets/KING/images/a08c8b33-04d0-4ce1-ab2b-57c7716822c7/20241015T142239/a08c8b33-04d0-4ce1-ab2b-57c7716822c7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a08c8b33-04d0-4ce1-ab2b-57c7716822c7/20241015T142239/a08c8b33-04d0-4ce1-ab2b-57c7716822c7_360x203.jpg)](https://www.king5.com/article/news/crime/man-shoots-estranged-wifes-new-boyfriend-kitsap-county/281-0045140c-065a-4b62-999a-b673da3ec8d9)
+    *  [![](https://media.king5.com/assets/KING/images/3b23c364-a7d3-49d9-893c-6bc4b53dc4f8/3b23c364-a7d3-49d9-893c-6bc4b53dc4f8_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/3b23c364-a7d3-49d9-893c-6bc4b53dc4f8/3b23c364-a7d3-49d9-893c-6bc4b53dc4f8_360x203.jpeg)](https://www.king5.com/article/news/local/tacoma/pierce-county-jury-duty-pay-100-dollars-a-day/281-d8b22276-e84c-4abd-a4c4-7dd38293a3f3)
         
-        #### [Kitsap County deputies arrest man they say shot estranged wife's new boyfriend after high-speed chase](https://www.king5.com/article/news/crime/man-shoots-estranged-wifes-new-boyfriend-kitsap-county/281-0045140c-065a-4b62-999a-b673da3ec8d9)
-    *  [![](https://media.king5.com/assets/KING/images/03458fd2-4c5c-48e8-8aea-5e20fafa67a3/20241015T062213/03458fd2-4c5c-48e8-8aea-5e20fafa67a3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/03458fd2-4c5c-48e8-8aea-5e20fafa67a3/20241015T062213/03458fd2-4c5c-48e8-8aea-5e20fafa67a3_360x203.jpg)](https://www.king5.com/article/news/local/thieves-steal-u-haul-federal-way-hotel-costing-small-business-60k/281-225afdb5-7c6a-484b-9cb5-989b31d2d987)
-        
-        #### [Thieves steal U-Haul outside of Federal Way hotel, costing family-run business $60K](https://www.king5.com/article/news/local/thieves-steal-u-haul-federal-way-hotel-costing-small-business-60k/281-225afdb5-7c6a-484b-9cb5-989b31d2d987)
+        #### [Pierce County jurors will now get paid $100 a day. Here's why](https://www.king5.com/article/news/local/tacoma/pierce-county-jury-duty-pay-100-dollars-a-day/281-d8b22276-e84c-4abd-a4c4-7dd38293a3f3)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -59,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/bac963da-214e-4162-9787-2da629bcbed4/20240823T232603/bac963da-214e-4162-9787-2da629bcbed4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bac963da-214e-4162-9787-2da629bcbed4/20240823T232603/bac963da-214e-4162-9787-2da629bcbed4_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/mountain-snowfall-atmospheric-river-western-washington/281-84d90ef6-a70a-475f-8bf2-2a76d081f656)
+        
+        #### [Mountain snowfall, atmospheric river on the way this week](https://www.king5.com/article/weather/weather-blog/mountain-snowfall-atmospheric-river-western-washington/281-84d90ef6-a70a-475f-8bf2-2a76d081f656)
+        
     *  [![](https://media.king5.com/assets/KING/images/cde6cffe-c9f3-4104-88c8-bccc5460c178/20241015T115736/cde6cffe-c9f3-4104-88c8-bccc5460c178_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cde6cffe-c9f3-4104-88c8-bccc5460c178/20241015T115736/cde6cffe-c9f3-4104-88c8-bccc5460c178_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KREM/images/dc999ffa-a85c-4340-baf4-96b66798d844/20241011T184543/dc999ffa-a85c-4340-baf4-96b66798d844_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/dc999ffa-a85c-4340-baf4-96b66798d844/20241011T184543/dc999ffa-a85c-4340-baf4-96b66798d844_360x203.jpg)](https://www.king5.com/article/tech/science/environment/earthquake-risk-northwest/293-b6cc829c-20a1-4c6c-a66f-705ea955053b)
-        
-        #### [Understanding the earthquake risk in the northwest](https://www.king5.com/article/tech/science/environment/earthquake-risk-northwest/293-b6cc829c-20a1-4c6c-a66f-705ea955053b)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -97,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-55°
+60°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
