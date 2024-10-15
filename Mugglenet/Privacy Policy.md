@@ -244,14 +244,6 @@ MuggleNet Archive Select Month October 2024  (8) September 2024  (30) August 2
 
 ### October 2024
 
-#### Mon, Oct 14
-
-Dumbledore shows Harry his memory of Tom Riddle at the orphanage
-
-Recurs yearly
-
-1996
-
 #### Wed, Oct 16
 
 Lavender's rabbit Binky dies
@@ -318,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-If a wizard is buried with a wand made of yew, the wand sprouts into a tree that guards the dead owner’s grave.
+The Ripley Scroll (England, 1570) teaches readers how to create the philosopher’s stone.
 
 ### Potter History
 
-August 16, 2004 – A passage from Harry Potter and the Half-Blood Prince describing a character we would come to learn was the new Minister of Magic, Rufus Scrimgeour, was revealed.
+January 29, 2006 – Harry Potter and the Goblet of Fire is announced as the eighth-highest grossing film of all time.
 
 ### Potter Quote
 
-“Scars can come in handy. I have one myself above my left knee that is a perfect map of the London Underground.”
+“That brings \[Trelawney’s\] total of real predictions up to two. I should offer her a pay raise. . . .”
 
 [](#)
 
