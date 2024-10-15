@@ -1,6 +1,6 @@
-[Lenovo Canada: Cyber savings event! Save up to 69% on PCs! + 6% Cash Back
+[Viator - A TripAdvisor Company: Up to 30% off your next travel experience with Viator + 12% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/lenovo-canada?store=lenovo-canada&sourceName=sitewide-sticky-header)
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/viator?store=viator&sourceName=sitewide-sticky-header)
 
 [](https://www.rakuten.ca/)
 
@@ -115,7 +115,7 @@ FR
         
         up to 2% Cash Back](https://www.rakuten.ca/staples-canada)[HP Canada
         
-        12% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
+        10% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
         
         up to 3% Cash Back](https://www.rakuten.ca/samsung.com)
         
@@ -301,7 +301,7 @@ FR
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
-        ![](//static.rakuten.ca/img/campaign_entity/299588/en-right-rail_cat_drop_300x250_home-hardware.jpg)
+        ![](//static.rakuten.ca/img/campaign_entity/299586/en-right-rail_cat_drop_300x250_home-hardware2.jpg)
         
         Home Hardware
         
@@ -315,7 +315,7 @@ FR
         
         [Michael Kors
         
-        10% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        4% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
