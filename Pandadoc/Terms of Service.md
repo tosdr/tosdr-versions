@@ -90,15 +90,21 @@ English (United States) Nederlands (Nederland) Français (France) Polski (Polska
     * [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_master-services-agreement_top-menu)
     * [Contact sales](https://www.pandadoc.com/contact-sales/?ss=page_master-services-agreement_top-menu)
     
-    ![Solutions](https://public-site.marketing.pandadoc-static.com/app/uploads/security-copy.png)
+    Customer stories
     
-    Security & Сompliance
+    [![Autodesk now tracks sales metrics across its entire org](https://public-site.marketing.pandadoc-static.com/app/uploads/autodesk-copy-1.png)
     
-    * [Signature certificate](https://support.pandadoc.com/hc/en-us/articles/360007915133--Signature-certificate-of-completed-documents)
-    * [Two-factor authentication](https://support.pandadoc.com/hc/en-us/articles/16804817099927-Two-factor-authentication-2FA-)
-    * [GDPR compliance](https://www.pandadoc.com/gdpr/)
-    * [HIPAA compliance](https://www.pandadoc.com/hipaa/)
-    * [View more](https://www.pandadoc.com/security/)
+    Autodesk now tracks sales metrics across its entire org](https://www.pandadoc.com/customers-case-study/autodesk/)
+    
+    [![Nomad cut customer acquisition costs by 20%](https://public-site.marketing.pandadoc-static.com/app/uploads/nomad-copy-3.png)
+    
+    Nomad cut customer acquisition costs by 20%](https://www.pandadoc.com/customers-case-study/nomad/)
+    
+    [![TheKey saves 3,000 hours per year using PandaDoc](https://public-site.marketing.pandadoc-static.com/app/uploads/the-key-copy-1.png)
+    
+    TheKey saves 3,000 hours per year using PandaDoc](https://www.pandadoc.com/customers-case-study/thekey/)
+    
+    * [All customer stories](https://www.pandadoc.com/customer-stories/)
     
 * Integrations
     
@@ -163,21 +169,15 @@ English (United States) Nederlands (Nederland) Français (France) Polski (Polska
     * [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_master-services-agreement_top-menu)
     * [Contact sales](https://www.pandadoc.com/contact-sales/?ss=page_master-services-agreement_top-menu)
     
-    Customer stories
+    ![Resources](https://public-site.marketing.pandadoc-static.com/app/uploads/security-copy.png)
     
-    [![Autodesk now tracks sales metrics across its entire org](https://public-site.marketing.pandadoc-static.com/app/uploads/autodesk-copy-1.png)
+    Security & Сompliance
     
-    Autodesk now tracks sales metrics across its entire org](https://www.pandadoc.com/customers-case-study/autodesk/)
-    
-    [![Nomad cut customer acquisition costs by 20%](https://public-site.marketing.pandadoc-static.com/app/uploads/nomad-copy-3.png)
-    
-    Nomad cut customer acquisition costs by 20%](https://www.pandadoc.com/customers-case-study/nomad/)
-    
-    [![TheKey saves 3,000 hours per year using PandaDoc](https://public-site.marketing.pandadoc-static.com/app/uploads/the-key-copy-1.png)
-    
-    TheKey saves 3,000 hours per year using PandaDoc](https://www.pandadoc.com/customers-case-study/thekey/)
-    
-    * [All customer stories](https://www.pandadoc.com/customer-stories/)
+    * [Signature certificate](https://support.pandadoc.com/hc/en-us/articles/360007915133--Signature-certificate-of-completed-documents)
+    * [Two-factor authentication](https://support.pandadoc.com/hc/en-us/articles/16804817099927-Two-factor-authentication-2FA-)
+    * [GDPR compliance](https://www.pandadoc.com/gdpr/)
+    * [HIPAA compliance](https://www.pandadoc.com/hipaa/)
+    * [View more](https://www.pandadoc.com/security/)
     
 * [API](https://www.pandadoc.com/api/)
 * [Pricing](https://www.pandadoc.com/pricing/)
