@@ -268,7 +268,7 @@ You have certain rights with respect to your information as further described in
 Storj may transfer some of your personal information outside of the EEA. Storj may transmit some of your personal information to a country where the data protection laws may not provide a level of protection equivalent to the laws in your jurisdiction, including the United States. As required by applicable law, Storj will provide an adequate level of protection for your personal data using various means, including, where appropriate:
 
 * relying on a formal decision by the European Commission that a certain country ensures an adequate level of protection for personal data (a full list of such decisions may be accessed online [here](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm)).
-* entering into appropriate data transfer agreements based on language approved by the European Commission, such as the Standard Contractual Clauses (2010/87/EC and/or 2004/915/EC), which are available upon request at [\[email protected\]](https://www.storj.io/cdn-cgi/l/email-protection) (**please note that this email address does not process requests related to “Data Subject Rights” below**);
+* entering into appropriate data transfer agreements based on language approved by the European Commission, such as the Standard Contractual Clauses (2010/87/EC and/or 2004/915/EC), which are available upon request at [legal@storj.io](mailto:legal@storj.io) (**please note that this email address does not process requests related to “Data Subject Rights” below**);
 * implementing appropriate physical, technical, and organizational security measures to protect personal information against accidental or unlawful destruction, accidental loss or alteration, unauthorized disclosure or access, and against unlawful forms of processing; and,
 * taking other measures to provide an adequate level of data protection in accordance with applicable law.
 
@@ -328,7 +328,7 @@ The California “Shine the Light” law gives residents of California the right
 
 Under Nevada law, certain Nevada residents may opt out of the “sale” of “covered information” (as those terms are defined under Nevada law) where the sale allows the person buying it to license or sell such information to additional persons. “Covered information” includes first and last name, address, email address, phone number, social security number, or an identifier that allows a specific person to be contacted either physically or online.
 
-Storj does not sell consumer information as defined under Nevada law. Notwithstanding, if you are a Nevada resident who has purchased or leased goods or services from us, Nevada law permits you to submit a request to opt out of the sale of your covered information. To do so, you may email your request to [\[email protected\]](https://www.storj.io/cdn-cgi/l/email-protection). Please note we will take reasonable steps to verify your identity and the authenticity of the request.  
+Storj does not sell consumer information as defined under Nevada law. Notwithstanding, if you are a Nevada resident who has purchased or leased goods or services from us, Nevada law permits you to submit a request to opt out of the sale of your covered information. To do so, you may email your request to [nevadarequest@storj.io](mailto:nevadarequest@storj.io). Please note we will take reasonable steps to verify your identity and the authenticity of the request.  
 ‍
 
 #### **11\.  Data Retention**
@@ -352,7 +352,7 @@ The Services may contain links to third-party services, and you may also integra
 
 The Services are not intended for children under 13 years of age and we do not knowingly collect, maintain, or use personal information from children under 13 years of age. We will take reasonable steps to delete personal information (as defined by the United States Children’s Online Privacy Protection Act) as soon as reasonably possible if we learn that we have inadvertently collected it from children under the age of 13 without parental consent.
 
-If you learn that your child has provided us with personal information without your consent, you may alert us at [\[email protected\]](https://www.storj.io/cdn-cgi/l/email-protection). If we learn that we have collected any personal information from children under 13, we will take steps promptly to delete such information and terminate the child’s account.  
+If you learn that your child has provided us with personal information without your consent, you may alert us at [legal@storj.io](mailto:legal@storj.io). If we learn that we have collected any personal information from children under 13, we will take steps promptly to delete such information and terminate the child’s account.  
 ‍
 
 #### **15\.  Changes to our Privacy Policy**
@@ -362,7 +362,7 @@ We reserve the right to amend this Privacy Policy at any time. We will make the 
 
 #### **16\.  Contact Information**
 
-If you wish to contact us or have any questions about, or complaints in relation to, this Privacy Policy, please email us at [\[email protected\]](https://www.storj.io/cdn-cgi/l/email-protection). Please note that your communications with us may not necessarily be secure. Therefore, please do not include credit card information and/or other sensitive information in your communications with us. Please do not use the aforementioned email address for GDPR-related matters. EEA residents wishing to exercise their rights under GDPR are instructed to fill out the [GDPR Data Subject Rights Webform](https://support.storj.io/hc/en-us/requests/new?ticket_form_id=360000793912).
+If you wish to contact us or have any questions about, or complaints in relation to, this Privacy Policy, please email us at [legal@storj.io](mailto:legal@storj.io). Please note that your communications with us may not necessarily be secure. Therefore, please do not include credit card information and/or other sensitive information in your communications with us. Please do not use the aforementioned email address for GDPR-related matters. EEA residents wishing to exercise their rights under GDPR are instructed to fill out the [GDPR Data Subject Rights Webform](https://support.storj.io/hc/en-us/requests/new?ticket_form_id=360000793912).
 
 [![storj logo](https://cdn.prod.website-files.com/65d78d3b8dbb1f54a94020c7/65d78e437f8dd4f750beaef8_storj-logo-color.svg)](https://www.storj.io/)
 
