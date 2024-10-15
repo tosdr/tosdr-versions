@@ -4,8 +4,10 @@
 
 * Products
     * [Limited Offer](https://shop.ledger.com/pages/bitcoin-voucher-campaign "Limited Offer")
+    * [Ledger Flex
+        
+        New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
-    * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
@@ -51,8 +53,10 @@
 
 * Products
     * [Limited Offer](https://shop.ledger.com/pages/bitcoin-voucher-campaign "Limited Offer")
+    * [Ledger Flex
+        
+        New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
-    * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
@@ -99,8 +103,10 @@
 
 * Products
     * [Limited Offer](https://shop.ledger.com/pages/bitcoin-voucher-campaign "Limited Offer")
+    * [Ledger Flex
+        
+        New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
-    * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
@@ -146,8 +152,10 @@
 
 * Products
     * [Limited Offer](https://shop.ledger.com/pages/bitcoin-voucher-campaign "Limited Offer")
+    * [Ledger Flex
+        
+        New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
-    * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
@@ -478,7 +486,7 @@ Payment methods
 
 Products
 
-[Ledger Stax](https://shop.ledger.com/pages/ledger-stax)[Ledger Flex](https://shop.ledger.com/pages/ledger-flex)[Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x)[Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus)[Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison)[Hardware wallet](https://shop.ledger.com/pages/hardware-wallet)[Bundles](https://shop.ledger.com/#category-bundle)[Accessories](https://shop.ledger.com/#category-accessories)[All products](https://shop.ledger.com/)[Downloads](https://www.ledger.com/ledger-live/)
+[Ledger Flex](https://shop.ledger.com/pages/ledger-flex)[Ledger Stax](https://shop.ledger.com/pages/ledger-stax)[Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x)[Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus)[Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison)[Hardware wallet](https://shop.ledger.com/pages/hardware-wallet)[Bundles](https://shop.ledger.com/#category-bundle)[Accessories](https://shop.ledger.com/#category-accessories)[All products](https://shop.ledger.com/)[Downloads](https://www.ledger.com/ledger-live/)
 
 Crypto Assets
 
@@ -522,8 +530,8 @@ Legal
 
 Products
 
-* [Ledger Stax](https://shop.ledger.com/pages/ledger-stax)
 * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex)
+* [Ledger Stax](https://shop.ledger.com/pages/ledger-stax)
 * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x)
 * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus)
 * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison)
