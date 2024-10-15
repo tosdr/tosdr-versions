@@ -2,7 +2,7 @@
 
 [Log in](https://factorio.com/login) | [Sign up](https://factorio.com/signup)
 
-[![](https://cdn.factorio.com/assets/img/web/factorio-logo.png)](https://factorio.com/)
+[![](https://cdn.factorio.com/assets/img/web/factorio-logo2.png)](https://factorio.com/)
 
 [Game](https://factorio.com/game/game-overview)
 
