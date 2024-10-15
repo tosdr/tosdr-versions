@@ -22,7 +22,7 @@ Join our chat room on [Discord](https://www.thefurryforum.com/forums/index.php?t
   
   
 
-[![Your ad here](adverts/tff_ad_blank.jpg "Your ad here")](https://www.thefurryforum.com/forums/index.php?topic=18442.0)
+[![Juliet](adverts/juliet.png "Juliet")](https://www.furaffinity.net/user/julietthewhitewitch)
 
   
 
@@ -146,4 +146,4 @@ Powered by [EzPortal](http://www.ezportal.com/)
 
 * [SMF 2.0.19](https://www.thefurryforum.com/forums/index.php?action=credits "Simple Machines Forum") | [SMF © 2011](http://www.simplemachines.org/about/smf/license.php "License"), [Simple Machines](http://www.simplemachines.org/ "Simple Machines") | [Terms and Policies](https://www.thefurryforum.com/forums/index.php?action=agreement)
 
-[anything](https://www.thefurryforum.com/cookinghightest.php)
+[](https://www.thefurryforum.com/cookinghightest.php)
