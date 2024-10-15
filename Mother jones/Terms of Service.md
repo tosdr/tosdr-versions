@@ -8,10 +8,10 @@
 
 *  
     
-* [Private Equity](https://www.motherjones.com/politics/2024/10/newport-stephen-schwarzman-blackstone-private-equity-miramar-construction-trump/)
-* [Palestine](https://www.motherjones.com/politics/2024/10/rashid-khalidi-interview-october-7-gaza-palestine-israel-biden-harris/)
-* [Repro Rights](https://www.motherjones.com/politics/2024/10/dobbs-abortion-disability-activism-roberts-reproductive-freedom/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/10/harris-medicare-disability-home-health-care/)
+* [RFK Jr.](https://www.motherjones.com/politics/2024/10/jessica-reed-kraus-houseinhabit/)
+* [Disability Rights](https://www.motherjones.com/politics/2024/10/suit-over-gender-dysphoria-could-dismantle-disability-rights/)
+* [Trump](https://www.motherjones.com/politics/2024/10/tens-of-thousands-of-people-gathered-in-dc-to-worship-tr-i-mean-jesus/)
+* [Tim Walz](https://www.motherjones.com/politics/2024/10/a-maga-conspiracist-is-trying-to-launch-a-lurid-lie-about-tim-walz-and-its-working/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Private Equity](https://www.motherjones.com/politics/2024/10/newport-stephen-schwarzman-blackstone-private-equity-miramar-construction-trump/)
-* [Palestine](https://www.motherjones.com/politics/2024/10/rashid-khalidi-interview-october-7-gaza-palestine-israel-biden-harris/)
-* [Repro Rights](https://www.motherjones.com/politics/2024/10/dobbs-abortion-disability-activism-roberts-reproductive-freedom/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/10/harris-medicare-disability-home-health-care/)
+* [RFK Jr.](https://www.motherjones.com/politics/2024/10/jessica-reed-kraus-houseinhabit/)
+* [Disability Rights](https://www.motherjones.com/politics/2024/10/suit-over-gender-dysphoria-could-dismantle-disability-rights/)
+* [Trump](https://www.motherjones.com/politics/2024/10/tens-of-thousands-of-people-gathered-in-dc-to-worship-tr-i-mean-jesus/)
+* [Tim Walz](https://www.motherjones.com/politics/2024/10/a-maga-conspiracist-is-trying-to-launch-a-lurid-lie-about-tim-walz-and-its-working/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
