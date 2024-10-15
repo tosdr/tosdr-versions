@@ -75,31 +75,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 337 1
+0 348 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/rarity-friendship-is-magic-and-etc-created-by-pony-dreaming/)
+[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-kobywick/)
 
-[rarity (friendship is magic and etc) created by pony dreaming](https://yiff-party.com/yiff/rarity-friendship-is-magic-and-etc-created-by-pony-dreaming/)
+[nintendo and etc created by kobywick](https://yiff-party.com/yiff/nintendo-and-etc-created-by-kobywick/)
 
 0 3 0
 
 October 15, 2024
 
-[](https://yiff-party.com/yiff/lana-created-by-avius/)
+[](https://yiff-party.com/yiff-ai-premium/princess-cadance-directed-by-orangekitsune/)
 
-[lana created by avius](https://yiff-party.com/yiff/lana-created-by-avius/)
+[princess cadance directed by orangekitsune](https://yiff-party.com/yiff-ai-premium/princess-cadance-directed-by-orangekitsune/)
 
-0 92 0
+0 53 0
 
 September 15, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/princess-celestia-directed-by-orangekitsune/)
+[](https://yiff-party.com/yiff/fenneko-aggretsuko-and-etc-created-by-haiyan/)
 
-[princess celestia directed by orangekitsune](https://yiff-party.com/yiff-ai-premium/princess-celestia-directed-by-orangekitsune/)
+[fenneko (aggretsuko and etc) created by haiyan](https://yiff-party.com/yiff/fenneko-aggretsuko-and-etc-created-by-haiyan/)
 
-0 67 0
+0 81 0
 
 September 15, 2024
 
