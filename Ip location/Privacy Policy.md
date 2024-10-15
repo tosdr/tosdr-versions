@@ -114,7 +114,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 * [Artificial Intelligence (83)](https://www.iplocation.net/blog/category/artificial-intelligence)
 * [Automotive (20)](https://www.iplocation.net/blog/category/automotive)
-* [Business (182)](https://www.iplocation.net/blog/category/business)
+* [Business (183)](https://www.iplocation.net/blog/category/business)
 * [Ecommerce (70)](https://www.iplocation.net/blog/category/ecommerce)
 * [Intellectual Property (11)](https://www.iplocation.net/blog/category/intellectual-property)
 * [Productivity (16)](https://www.iplocation.net/blog/category/productivity)
@@ -158,10 +158,10 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Technology (51)](https://www.iplocation.net/blog/category/technology)
 * [Information Technology (9)](https://www.iplocation.net/blog/category/information-technology)
 * [Travel (16)](https://www.iplocation.net/blog/category/travel)
-* [World Wide Web (158)](https://www.iplocation.net/blog/category/web)
+* [World Wide Web (159)](https://www.iplocation.net/blog/category/web)
 * [Search Engine Optimization (57)](https://www.iplocation.net/blog/category/seo)
 * [Web Hosting (25)](https://www.iplocation.net/blog/category/web-hosting)
-* [Web Design (13)](https://www.iplocation.net/blog/category/web-design)
+* [Web Design (14)](https://www.iplocation.net/blog/category/web-design)
 
 ### About Us
 
