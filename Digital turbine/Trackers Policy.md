@@ -22,7 +22,7 @@
 
 Login
 
-[AdColony](https://clients.adcolony.com/login)[DT Console](https://console.fyber.com/login)[ACP Offer Wall](https://acp-edge.fyber.com/login)
+[DT Console](https://console.fyber.com/login)[ACP Offer Wall](https://acp-edge.fyber.com/login)
 
 [Contact](#)
 
@@ -57,7 +57,7 @@ Digital Turbine – Cookies and Similar Tracking Technologies Policy
 
 This Cookies and Similar Tracking Technologies Policy (this “**Policy**”) provides you with general information about cookies and similar tracking technologies (collectively, “**Tracking Technologies**”) as well as how and for what purposes Digital Turbine, Inc. (“**Digital Turbine**”, “**we**”, “**us**” or “**our**”) use such Tracking Technologies on the Digital Turbine website (“**Website**”).
 
-Please take the time to read this Policy. If you have questions or comments, you are welcome to contact us at: [\[email protected\]](https://www.digitalturbine.com/cdn-cgi/l/email-protection).
+Please take the time to read this Policy. If you have questions or comments, you are welcome to contact us at: [privacy@digitalturbine.com](mailto:privacy@digitalturbine.com).
 
 * [**What Are ‘Cookies’?**](#what)
 * [**For what purposes are Cookies being Used?**](#purposes)
