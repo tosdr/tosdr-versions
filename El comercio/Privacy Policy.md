@@ -31,6 +31,205 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¿A qué hora juega la Selección de Ecuador con Uruguay?
+======================================================
+
+Tras igualar con Paraguay, la Selección de Ecuador se enfrenta a Uruguay de visitante en la décima fecha de eliminatorias.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Jeremy Sarmiento (der.) defiende un balón con la Selección de Ecuador antes de enfrentar a Uruguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/DEPORTES-2024-10-14T212322.984.jpg)
+
+La **Selección de Ecuador** se mide ante Uruguay durante este martes 15 de octubre del 2024 como visitante en Montevideo. El choque, pactado para las 18:00, cerrará la doble fecha de eliminatorias rumbo al Mundial 2026 y celebrará su décima jornada.
+
+El partido entre **la Tri y la ‘Celeste’** formará parte de una tanda de cinco durante la fecha mencionada y también marcará el inicio para ambos combinados en los duelos de vuelta. Antes, las escuadras ya se enfrentaron en Quito con una victoria de los ecuatorianos.
+
+### Más noticias:
+
+* [Beccacece busca hacer historia con la Selección de Ecuador ante Uruguay](https://www.elcomercio.com/deportes/sebastian-beccacece-seleccion-ecuador-uruguay-historia.html "Beccacece busca hacer historia con la Selección de Ecuador ante Uruguay")
+* [Sebastián Beccacece y su arranque irregular con la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-arranque-irregular-beccacece-uruguay.html "Sebastián Beccacece y su arranque irregular con la Selección de Ecuador")
+* [¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-beccacece-bielsa.html "¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?")
+
+Para disputar el cotejo, la **Selección de Ecuador** viajó durante el lunes 14 de octubre hacia la capital uruguaya. El compromiso lo disputará después de haberse medido ante Paraguay como local en un choque que terminó en empate sin goles.
+
+De cara al compromiso, **Sebastián Beccacece**, entrenador de la Tri, dejó un mensaje a la afición antes de partir. Allí mencionó que al combinado se le ha presentado una nueva oportunidad de hacer historia y volvió a señalar que la concentración de sus dirigidos será fundamental[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+En el caso de Uruguay, este llega con un decrecimiento en su fútbol y resultados después de la Copa América. Asimismo, la ‘Celeste’ se encuentra en un turbulento contexto tras una pugna entre sus jugadores y el **DT Marcelo Bielsa.**
+
+Previo al choque contra la escuadra ecuatoriana, el elenco charrúa enfrenta a **Perú** como visitante. El equipo de Bielsa cayó debido a un gol de último minuto y, aunque el DT señaló que las disputas no influyeron en el resultado, sí reconoció que su **liderazgo** se vio afectado.
+
+Detalles del partido de la Selección de Ecuador vs. Uruguay
+-----------------------------------------------------------
+
+**Fecha**: martes 14 de octubre del 2024.
+
+**Hora**: 18:00.
+
+**Estadio**: Centenario de Montevideo.
+
+**Transmisión**: Streaming o cableoperadoras.
+
+¿Cómo fue el primer duelo entre la Tri y la ‘Celeste?
+-----------------------------------------------------
+
+En su primer partido de eliminatorias rumbo al Mundial 2026 entre sí, la **Selección de Ecuador s**alió victoriosa ante Uruguay en el Estadio Rodrigo Paz Delgado. El combinado de la mitad del mundo venció por un marcador de **2-1.**
+
+Aquel partido lo dirigió el español Félix Sánchez Bas, antecesor de Beccacece, y la Tri se impuso gracias a un doblete del defensa **Félix Torres**. El descuento para los visitantes lo puso Agustín Cannobio.
+
+ONU acusa al Gobierno de Venezuela de crímenes de lesa humanidad en elecciones 2024
+===================================================================================
+
+Las fuerzas de seguridad de Venezuela cometieron violaciones de derechos humanos, como detenciones arbitrarias, uso excesivo de la fuerza
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Integrantes de la Policía Nacional Bolivariana (PNB) y la Guardia Nacional Bolivariana (GNB) enfrentan a manifestantes opositores, durante una protesta contra de los resultados de las elecciones presidenciales, en Caracas (Venezuela).](https://www.elcomercio.com/wp-content/uploads/2024/10/protestas-Venezuela.jpg)
+
+La Misión de la **ONU para Venezuela** afirmó este martes 15 de octubre de 2024 que ve motivos razonables para creer que el **gobierno de Nicolás Maduro** cometió “crímenes de lesa humanidad”.
+
+Esto aplica a antes, durante y después de las **elecciones presidenciales del 28 de julio,** marcadas por la persecución de opositores y la represión de las protestas tras los comicios.
+
+### Más noticias
+
+* [NASA lanza nave Clipper en busca de rastros de vida en luna de Júpiter](https://www.elcomercio.com/actualidad/mundo/nasa-lanza-nave-clipper-en-busca-de-rastros-de-vida-en-luna-de-jupiter.html "NASA lanza nave Clipper en busca de rastros de vida en luna de Júpiter")
+* [El teniente Dan desafió al huracán Milton y esto pasó](https://www.elcomercio.com/actualidad/mundo/teniente-dan-desafio-a-huracan-milton-y-esto-paso.html "El teniente Dan desafió al huracán Milton y esto pasó")
+* [Conferencia Episcopal de Venezuela recordó que Navidad comienza el 1 de diciembre](https://www.elcomercio.com/actualidad/mundo/conferencia-episcopal-venezuela-recordo-navidad-comienza-1-diciembre.html "Conferencia Episcopal de Venezuela recordó que Navidad comienza el 1 de diciembre")
+
+Violaciones de derechos humanos
+-------------------------------
+
+En un informe de 158 páginas que abarca el período comprendido entre el 1 de septiembre de 2023 y el 31 de agosto de 2024, la misión acusa a fuerzas de seguridad y grupos civiles armados progubernamentales de **asesinatos, desapariciones forzadas**, actos de tortura y violencia sexual y de género.
+
+Las fuerzas de seguridad estuvieron **“involucradas masivamente”** en **violaciones de derechos humanos** tales como **detenciones arbitraria**s, uso excesivo de la fuerza para reprimir protestas.
+
+También **tratos crueles y degradantes**, indica el documento, y señala como responsables a los servicios de inteligencia civil y militar, así como a la Guardia Nacional Bolivariana y a la Policía Nacional.
+
+También asegura que “las declaraciones de las máximas autoridades del Estado, sobre todo después del 28 de julio, **incitaron a la represión** y contribuyeron a generar un clima de hostilidad y violencia”.
+
+Otras instituciones señaladas en el informe son el **Consejo Nacional Electoral**, que “incumplió las medidas básicas de transparencia e integridad”. La **Asamblea Nacional,** “instrumental en la aprobación de nuevas **leyes contrarias a los derechos humanos** y restrictivas del espacio cívico y democrático”, o el sistema de justicia, que “siguió operando con falta de independencia”.
+
+Denuncia contra el Gobierno de Venezuela
+----------------------------------------
+
+Aunque anteriores informes de la misión constituida en 2019 ya acusaron al **Estado venezolano** de graves **violaciones de derechos humanos**, el nuevo documento destaca que el perfil de las víctimas de la represión “se amplió de manera significativa” en el periodo electoral abarcando no solo a líderes de la oposición y sociales.
+
+En el contexto electoral, los abusos también fueron sufridos por “**ciudadanos comunes**, simplemente por demostrar su desacuerdo con el Gobierno. También con los resultados de las elecciones presidenciales anunciados por las autoridades”, indicó.
+
+La misión que preside la jurista portuguesa Marta Valiñas destaca en el informe que en los 10 meses anteriores a las **elecciones** al menos 48 personas fueron detenidas en relación con conspiraciones invocadas por el Gobierno, muchas de ellas en la llamada operación Brazalete Blanco, y en la campaña electoral hubo otras **121 detenciones** por colaborar en actividades de la oposición.
+
+Ese tipo de campañas “sirvieron de justificación para la **represión selectiva de militares**, políticos y activistas de la sociedad civil”, señaló el informe del grupo de expertos, que junto a Valiñas está formado por el chileno Francisco Cox y la argentina Patricia Tappatá.
+
+La represión aumentó tras los **resultados electorales,** cuando las autoridades, según el informe, “pusieron en marcha una campaña de detenciones masivas e indiscriminadas sin precedente”, con un número de detenciones, que pudieron contarse por miles, “solo comparable con las [protestas](https://es.wikipedia.org/wiki/Venezuela "https://es.wikipedia.org/wiki/Venezuela") de 2014, 2017 y 2019″.
+
+El lavado de manos es clave para la salud global 
+=================================================
+
+El Día Mundial del Lavado de Manos promueve la prevención de enfermedades a través de este gesto.
+-------------------------------------------------------------------------------------------------
+
+![El Día Mundial del Lavado de Manos resalta la importancia de la higiene para salvar vidas y prevenir enfermedades. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/lavado-de-manos.jpg)
+
+El **Día Mundial del Lavado de Manos**, celebrado cada 15 de octubre, es una iniciativa global que busca **concienciar sobre la importancia de esta práctica** sencilla pero vital para la salud pública. Este día, promovido por la **Organización Mundial de la Salud** (OMS) y otras entidades, subraya cómo **el lavado de manos puede prevenir enfermedades** y salvar vidas. 
+
+### Más noticias
+
+* [Siete pasos se necesitan para lavarse bien las manos](https://www.elcomercio.com/sociedad/pasos-lavado-manos-coronavirus-omicron.html "https://www.elcomercio.com/sociedad/pasos-lavado-manos-coronavirus-omicron.html")
+* [¿Qué limpia mejor, el jabón, los desinfectantes o los sanitizantes?](https://www.elcomercio.com/tendencias/salud/que-limpia-mejor-jabon-desinfectantes-sanitizantes.html "https://www.elcomercio.com/tendencias/salud/que-limpia-mejor-jabon-desinfectantes-sanitizantes.html")
+
+**Importancia del lavado de manos** 
+------------------------------------
+
+El **lavado de manos** es una de las medidas más efectivas para **prevenir la propagación de infecciones**. Según la **OMS**, el simple acto de **lavarse las manos** con agua y jabón puede **reducir significativamente la incidencia de enfermedades diarreicas y respiratorias**, que son responsables de millones de muertes cada año, especialmente en niños menores de 5 años, de acuerdo con [Infobae](https://www.infobae.com/mexico/2024/10/14/dia-mundial-del-lavado-de-manos-por-que-se-celebra-el-15-de-octubre/ "https://www.infobae.com/mexico/2024/10/14/dia-mundial-del-lavado-de-manos-por-que-se-celebra-el-15-de-octubre/"). 
+
+**Historia del Día Mundial del Lavado de Manos** 
+-------------------------------------------------
+
+El **Día Mundial del Lavado de Manos** fue establecido en 2008 por la **Alianza Global para el Lavado de Manos**, una coalición de organizaciones internacionales que promueven la higiene. Desde entonces, se ha convertido en **un evento anual que involucra a millones de personas en más de 100 países**. La campaña de este año se centra en el lema “Salva vidas: Límpiate las manos”, y destaca la conexión entre la higiene de manos y la prevención de enfermedades, según el [Gobierno de Perú](https://www.gob.pe/institucion/heav/campa%C3%B1as/63774-dia-mundial-de-la-higiene-de-manos-2024 "https://www.gob.pe/institucion/heav/campa%C3%B1as/63774-dia-mundial-de-la-higiene-de-manos-2024"). 
+
+**Impacto en la salud pública** 
+--------------------------------
+
+El **impacto del lavado de manos** en la salud pública es innegable. Estudios han demostrado que esta práctica puede reducir la incidencia de enfermedades diarreicas en un 30% y las infecciones respiratorias en un 20%. Además, es una **herramienta crucial en la lucha contra pandemias como la covid-19**, donde la higiene de manos se ha convertido en una de las principales recomendaciones para evitar la transmisión del virus, a decir del [Gobierno de México](https://www.insp.mx/avisos/salva-vidas-limpia-tus-manos "https://www.insp.mx/avisos/salva-vidas-limpia-tus-manos"). 
+
+**Importancia en la prevención de enfermedades** 
+-------------------------------------------------
+
+En el **Día Mundial del Lavado de Manos**, la directora de la Escuela de Enfermería de la UIDE, **María Laura López**, destaca la importancia de esta práctica en la prevención de enfermedades, especialmente en contextos con acceso limitado a la salud. Pioneros como **Ignaz Semmelweis** y **Florence Nightingale** evidenciaron su eficacia para reducir contagios. Un **adecuado lavado de manos** puede disminuir entre un 23% y un 50% las enfermedades respiratorias y diarreicas, y es esencial en hospitales para **prevenir infecciones nosocomiales, siguiendo un protocolo de cinco momentos clave.** 
+
+**Educación y concienciación** 
+-------------------------------
+
+**La educación es fundamental para fomentar el lavado de manos**. Las campañas educativas en escuelas y comunidades han demostrado ser efectivas para **inculcar hábitos de higiene** desde una edad temprana. Estas iniciativas no solo enseñan **la técnica correcta de lavado de manos**, sino que también explican su importancia en la prevención de enfermedades. 
+
+**Retos y oportunidades** 
+--------------------------
+
+A pesar de los avances, **aún existen desafíos significativos**. En muchas regiones del mundo, el acceso al **agua potable** y al jabón es limitado, lo que dificulta la práctica regular del **lavado de manos**. Las organizaciones internacionales trabajan para mejorar estas condiciones, al proporcionar recursos y educación a las comunidades más necesitadas. 
+
+Así funciona el Pico y placa en Quito este martes 15 de octubre
+===============================================================
+
+Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![La medida se implementó para tratar de controlar el flujo vehicular.](https://www.elcomercio.com/wp-content/uploads/2024/10/pico-placa-martes.jpg)
+
+La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
+
+### Más noticias
+
+* [Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia](https://www.elcomercio.com/actualidad/ecuador/cuerpo-de-bomberos-de-guayaquil-fue-asaltado-mientras-atendia-una-emergencia.html "Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia")
+* [Contraflujo de la av. Guayasamín se desvía hacia otra calle de Quito](https://www.elcomercio.com/actualidad/quito/contraflujo-av-guayasamin-quito-se-desvia-hacia-otra-via.html "Contraflujo de la av. Guayasamín se desvía hacia otra calle de Quito")
+* [La av. Mariana de Jesús será intervenida por 15 días; conozca las rutas alternas](https://www.elcomercio.com/actualidad/quito/av-mariana-de-jesus-sera-intervenida-15-dias-conozca-rutas-alternas.html "La av. Mariana de Jesús será intervenida por 15 días; conozca las rutas alternas")
+
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
+
+En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
+
+Según el **último dígito de la placa**, el cronograma es el siguiente:
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+Este martes, los vehículos con placas terminadas en **3 y 4 no podrán circular** dentro de Quito.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es **esencial tener la licencia** y la matrícula vigentes.
+
+Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
+
+* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
+* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
+* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
+* Realizar la evaluación teórica.
+* Esperar la entrega de la nueva licencia.
+
+Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
+
+Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
+En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/7VJfdIKvoX](https://t.co/7VJfdIKvoX)
+> 
+> — AMTQuito (@AMT\_Quito) [October 1, 2024](https://twitter.com/AMT_Quito/status/1841057518430126168?ref_src=twsrc%5Etfw)
+
 Ecuador tiene una deuda con Baltazar Ushca
 ==========================================
 
@@ -467,7 +666,7 @@ El primer mandatario puso como ejemplo, una operación que realizaron las **Fuer
 > 
 > — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 15, 2024](https://twitter.com/Presidencia_Ec/status/1846000184456573164?ref_src=twsrc%5Etfw)
 
-La no tan habitual intervención en cadena nacional de Daniel Noboa duró **un minuto con 38 segundos**; en este espacio **no se refirió a la crisis energética** que enfrenta el país, ni a ningún otro tema.
+La intervención en cadena nacional de Daniel Noboa duró **un minuto con 38 segundos**; en este espacio el mandatario se refirió únicamente a este tema de seguridad.
 
 Cortes de luz en Guayaquil este martes 15 de octubre
 ====================================================
@@ -793,187 +992,3 @@ Foto: Facebook Dragonas Independiente.
 
 No te pierdas – El Confesionario
 --------------------------------
-
-Familiares exigen justicia por insólito error de una funeraria con una ecuatoriana
-==================================================================================
-
-Tras el fallecimiento de Carmen Maldonado, en Nueva York, su familia nunca se imaginó que su repatriación se convertiría en una 'pesadilla'.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![La ecuatoriana Carmen Maldonado falleció en mayo de 2024, en New York, Estados Unidos](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuatoriana-funeraria.jpg)
-
-Una **terrible confusión** de una funeraria agudizó el dolor de una **familia ecuatoriana**, quien además de enfrentar el desconsuelo por la pérdida de su pariente, tuvo que pasar días de incertidumbre al no poderla despedir como querían.
-
-**Carmen Maldonado**, de 96 años, falleció en Nueva York, Estados Unidos, en mayo de 2024.
-
-### Más noticias
-
-* [Policía capturó al octavo más buscado de Pichincha](https://www.elcomercio.com/actualidad/seguridad/policia-capturo-al-octavo-mas-buscado-de-pichincha.html "Policía capturó al octavo más buscado de Pichincha")
-* [Delincuentes que planeaban atacar a policías fueron detenidos en Pedro Moncayo](https://www.elcomercio.com/actualidad/seguridad/delincuentes-pedro-moncayo-policia-malchingui.html "Delincuentes que planeaban atacar a policías fueron detenidos en Pedro Moncayo")
-* [Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia](https://www.elcomercio.com/actualidad/ecuador/cuerpo-de-bomberos-de-guayaquil-fue-asaltado-mientras-atendia-una-emergencia.html "Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia")
-
-Sus hijos confiaron los **ritos mortuorios** en la Funeraria Rivera, una empresa norteamericana dedicada a trasladar fallecidos a sus países de origen en Latinoamérica.
-
-El cadáver de Carmen debía llegar a **Ecuador** a finales de ese mes, sin embargo, el envío se retrasó.
-
-Mientras tanto, la historia tomó un **giro inesperado** en Guatemala.
-
-Dos familias afectadas por la confusión
----------------------------------------
-
-Los familiares de **Elder Emilio García** también pusieron su confianza en la misma empresa. Ellos se reunieron para despedir al fallecido hombre el 26 de mayo.
-
-La **sorpresa** fue mayor cuando al abrir el ataúd se toparon con que el cuerpo no correspondía al de su pariente, sino al de una **mujer** de avanzada edad.
-
-La **noticia se viralizó** en los medios y redes sociales locales, hasta que trascendió a otros países a través de la plataforma de videos **TikTok**.
-
-Los familiares de Maldonado la reconocieron al ver las **fotos** difundidas en Internet y de inmediato pusieron en conocimiento de la funeraria.
-
-De acuerdo con **Carlos Minchala**, hijo de Carmen, la empresa calificó lo sucedido como “un pequeño error” y gestionó el intercambio de los cuerpos.
-
-Cadáver llegó en mal estado
----------------------------
-
-El cadáver de la ecuatoriana permaneció en Guatemala durante **15 días**; finalmente, llegó al país a mediados de junio.
-
-El grave error tuvo consecuencias en la **conservación** del cuerpo Carmen. Al carecer de un adecuado sistema de enfriamiento, la difunta fue entregada a sus familiares envuelta con plástico y en un **estado avanzado de descomposición**.
-
-Verla de esta forma **impactó** **emocionalmente** a su familia.
-
-**Rosa Minchala**, en declaraciones para Univisión, mostró su frustración por el trato que recibió el cuerpo de su madre: “Eso no merecía mi mamá, fue muy duro verla así, pensaba que estaba descansando y no perdida en otro país, **fue una pesadilla**“, comentó.
-
-Familiares demandaron a la funeraria
-------------------------------------
-
-Los hijos de Carmen presentaron una demanda a la funeraria por lo sucedido.
-
-**Carlos Minchala**, hermano de Rosa, habló de la afectación que tuvo la familia con la equivocación: “**Nos destrozaron con lo que pasó**, todavía no nos recuperamos psicológicamente, ellos dijeron que les disculpemos por el error, eso no es un error así no más, fue nuestra madre, un ser querido, **no es justo**“, reclamó.
-
-De acuerdo con lo dicho por el abogado de la familia al canal internacional, este no sería un caso aislado, sino que la funeraria tendría al menos **10 demandas similares**.
-
-El Departamento al Consumidor de Nueva York hizo un llamado para que **otros posibles afectados** por la empresa de servicios exequiales acudan a denunciar sus casos.
-
-Cortes de luz en Cuenca este martes 15 de octubre
-=================================================
-
-Los cortes de luz en Cuenca este martes 15 de octubre son de hasta 10 horas.
-----------------------------------------------------------------------------
-
-![Los cortes de luz en Cuenca para este martes 15 de octubre son de hasta 10 horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-04T175339.108.jpg)
-
-Los **cortes de luz** en **Cuenca** este **martes 15 de octubre** de 2024 llegan hasta las 10 horas.
-
-**Centrosur** estableció un cronograma que varía cada día por franjas y sector para Cuenca y otras ciudades del **Austro**.
-
-### Más noticias:
-
-* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
-* [Asamblea trata proyecto sobre energías renovables ante cortes de luz](https://www.elcomercio.com/actualidad/politica/asamblea-trata-proyecto-sobre-energias-renovables-ante-cortes-de-luz.html "Asamblea trata proyecto sobre energías renovables ante cortes de luz")
-
-La cuarta semana consecutiva de cortes de luz en Ecuador inició con un anuncio de la ministra de Energía encargada, **Inés Manzano**.
-
-Manzano aseguró que los cortes de luz serían hasta diciembre y se espera que en ese mes ya sean mínimos.
-
-Los horarios de los cortes de luz en Cuenca este martes 15 de octubre
----------------------------------------------------------------------
-
-Las **empresas eléctricas** del país señalaron que los cortes de energía pueden reducirse, debido al mejoramiento de las condiciones hidrológicas del país.
-
-El 72% de la **matriz energética** del Ecuador es hídrica y depende del **agua**.
-
-Según las autoridades, se realiza un monitorio constante de las operaciones en las hidroeléctricas para ir ajustando los horarios de los apagones.
-
-Ecuador pasa por una de las peores crisis energéticas, en parte, debido a la grave sequía que afronta el país y la región.
-
-A continuación, los horarios de los cortes de luz en Cuenca y otras ciudades del Austro para este martes:
-
-Sebastián Beccacece y su arranque irregular con la Selección de Ecuador
-=======================================================================
-
-Sebastián Beccacece ha cosechado una derrota, una victoria y un empato con la Selección de Ecuador antes de medir a Uruguay.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece en la Casa de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/4ea8985344cfe42b4aeaf54de04ee98792f05567.jpg)
-
-**Sebastián Beccacece** y la **Selección de Ecuador** se medirá ante Uruguay y ya acumula tres partidos en su haber. De cara a su cuarto partido, el entrenador argentino llega con resultados intermitentes en sus primeros duelos.
-
-Para el choque ante la ‘**Celeste**‘, el entrenador ha cosechado con la Tri tres resultados distintos en tal cantidad de juegos y la balanza no se ha inclinado ni a favor ni en contra. Este y su equipo suman una victoria, un empate y una derrota.
-
-### Más noticias:
-
-* [¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-beccacece-bielsa.html "¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?")
-* [La Selección de Ecuador tuvo a tres uruguayos en sus filas](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-nacionalizados-uruguay.html "La Selección de Ecuador tuvo a tres uruguayos en sus filas")
-* [¿Kendry Páez merece ser titular con la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/kendry-paez-merece-titular-con-seleccion-de-ecuador-ante-uruguay.html "¿Kendry Páez merece ser titular con la Selección de Ecuador ante Uruguay?")
-
-Ante la irregularidad de resultados, el compromiso de la **Selección de Ecuador ante Uruguay** puede inclinar la balanza de su temprana gestión. Asimismo, aquel cerrará la doble fecha de eliminatorias y marcará el inicio de los compromisos de vuelta en estas.
-
-A nivel de producción en **ataque y defensa**, los números del equipo ecuatoriano con el estratega son similares a los de sus resultados. Este solo ha marcado un gol y recibido uno, ambos sucesos en dos duelos distintos, mientras que en el restante no anotó ni tampoco encajó tantos.
-
-Los tres partidos de Sebastián Beccacece
-----------------------------------------
-
-El debut de **Sebastián Beccacece** en la **Selección de Ecuador** se dio ante Brasil en la séptima fecha de las eliminatorias sudamericanas. En este cotejo, el equipo del gaucho no se pudo imponer y cayó por una derrota para 1-0[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-En su segundo compromiso, el resultado que obtuvo la Tri fue inversamente proporcional al del estreno. Allí, este logró una victoria de 1-0 como local ante Perú gracias a un gol de **Enner Valencia**.
-
-La última y tercera prueba de Beccacece fue anterior a la que vivirá frente a **Uruguay**. Allí no se marcó una tendencia con respecto a los resultados e igualó sin goles frente a **Paraguay**, equipo al que dirige Gustavo Alfaro, exentrenador de la Tri.
-
-Sebastián Beccacece y el antes de la Selección de Ecuador
----------------------------------------------------------
-
-**Sebastián Beccacece** se unió a la Selección de Ecuador después de la salida de **Félix Sánchez Bas** del combinado. El entrenador español se marchó después de la eliminación del plantel sudamericano en la **Copa América.**
-
-Con **Sánchez Bas**, la Tri llegó hasta los cuartos de final de la Copa América. En aquella fase, la escuadra se eliminó ante **Argentina** por penales tras igualar por un marcador de 1-1 en los 90 minutos de juego.
-
-Bajo el liderazgo del entrenador español, el equipo ecuatoriano disputó 19 partidos entre amistosos, eliminatorias y Copa América. En total consiguió **10 triunfos, tres empates y seis derrotas**.
-
-La asombrosa historia del hincha que se tatuó a Leonardo Campana
-================================================================
-
-Leonardo Campana, delantero del Inter Miami y de la Selección de Ecuador, tiene a su fanático número uno en Quito.
-------------------------------------------------------------------------------------------------------------------
-
-![Nicolás Beltrán es un fanático de Leonardo Campana que se tatuó su firma en su brazo.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-14T180415.447.jpg)
-
-**Nicolás** **Beltrán**, un quiteño de 20 años, es un joven amante del fútbol como muchos en Ecuador, pero con una pasión que lo diferencia: su devoción por el delantero de la ‘Tri’, **Leonardo** **Campana**.
-
-Tal es su admiración por el jugador que decidió llevar su fanatismo a otro nivel, **tatuándose la firma** de Campana en su brazo izquierdo.
-
-### Más noticias:
-
-* [Fanático inmortalizó a Leonardo Campana en su cuerpo](https://www.elcomercio.com/deportes/futbol/fanatico-inmortalizo-a-leonardo-campana-en-su-cuerpo.html "Fanático inmortalizó a Leonardo Campana en su cuerpo")
-* [¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/como-fue-el-regreso-de-leonardo-campana-a-la-seleccion-de-ecuador.html "¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?")
-* [Leonardo Campana alborotó a los aficionados de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-alboroto-a-los-aficionados-de-la-seleccion-de-ecuador.html "Leonardo Campana alborotó a los aficionados de la Selección de Ecuador")
-
-¿Cómo nació su fanatismo por Leonardo Campana?
-----------------------------------------------
-
-Campana saltó a la fama en 2019, cuando se destacó en el **Sudamericano Sub-20** con la Selección de Ecuador. Su capacidad goleadora no solo llamó la atención de clubes y expertos, sino también de aficionados como Nicolás Beltrán, quien **quedó impresionado por su talento**.
-
-“Mi fanatismo por ‘Leo’ comenzó en el Sudamericano, vi todos los partidos. Me pareció un delantero diferente a lo que había visto antes”, confesó Nicolás en una entrevista con EL COMERCIO.
-
-Uno de los aspectos que más admira de Campana es su humildad y dedicación, cualidades que, según Nicolás, lo diferencian de otros futbolistas.
-
-Su admiración por el delantero no se limitó al Sudamericano, ya que continuó siguiendo de cerca su carrera. Aunque **es hincha de El Nacional, Nicolás confesó que veía todos los partidos de Barcelona SC** cuando Campana empezó a destacar en el club guayaquileño.
-
-Admiración por su dedicación y resiliencia ante las críticas
-------------------------------------------------------------
-
-“Un ídolo es alguien a quien seguir, y desde que vi a ‘Leo’ de joven, **me identifiqué mucho con su deseo de mejorar siempre**“, señaló Nicolás.
-
-Otro motivo de su admiración es como Campana ha sabido manejar las críticas a lo largo de su carrera. A pesar de los comentarios negativos, Nicolás valora la forma en que el delantero los utiliza como motivación para seguir progresando.
-
-“Veo los comentarios de odio que le lanzan a ‘Leo’, pero **él siempre usa eso para seguir mejorando**“, explicó.
-
-El tatuaje de Campana
----------------------
-
-“El tatuaje nació porque siento que es una persona que me representa”, contó Nicolás Beltrán.
-
-Recientemente, el joven tuvo la oportunidad de mostrarle su tatuaje al propio **Campana** durante uno de los entrenamientos de la Selección de Ecuador, cuando el delantero fue convocado para la última fecha FIFA.
-
-“Cuando lo conocí, ‘Leo’ se dio la vuelta muy tranquilo y le comenté que me había hecho el tatuaje. Se tomó su tiempo para hablar conmigo y, cuando se despidió, me dijo: ‘¡**Qué gusto conocerte! Cuídate**‘”, comentó emocionado Nicolás.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBH7nyrohSw/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBH7nyrohSw/?utm_source=ig_embed&utm_campaign=loading)
