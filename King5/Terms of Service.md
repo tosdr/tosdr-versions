@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/74427afc-03ac-4fd9-83a7-0968cea33eb2/20241015T014631/74427afc-03ac-4fd9-83a7-0968cea33eb2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/74427afc-03ac-4fd9-83a7-0968cea33eb2/20241015T014631/74427afc-03ac-4fd9-83a7-0968cea33eb2_360x203.jpg)](https://www.king5.com/article/news/local/kexp-radio-dj-shares-story-barely-escaping-homemade-bomb-blast-burien-road/281-c755d46f-1f32-4c82-a9ce-12e10040fff2)
+    *  [![](https://media.king5.com/assets/KING/images/03458fd2-4c5c-48e8-8aea-5e20fafa67a3/20241015T062213/03458fd2-4c5c-48e8-8aea-5e20fafa67a3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/03458fd2-4c5c-48e8-8aea-5e20fafa67a3/20241015T062213/03458fd2-4c5c-48e8-8aea-5e20fafa67a3_360x203.jpg)](https://www.king5.com/article/news/local/thieves-steal-u-haul-federal-way-hotel-costing-small-business-60k/281-225afdb5-7c6a-484b-9cb5-989b31d2d987)
         
-        #### ['Absolutely in shock': KEXP radio DJ shares story of barely escaping bomb blast on Burien road](https://www.king5.com/article/news/local/kexp-radio-dj-shares-story-barely-escaping-homemade-bomb-blast-burien-road/281-c755d46f-1f32-4c82-a9ce-12e10040fff2)
+        #### [Thieves steal U-Haul outside of Federal Way hotel, costing family-run business $60K](https://www.king5.com/article/news/local/thieves-steal-u-haul-federal-way-hotel-costing-small-business-60k/281-225afdb5-7c6a-484b-9cb5-989b31d2d987)
         
-    *  [![](https://media.king5.com/assets/KING/images/8516a927-e268-47d3-877d-e8b166a7b221/20241013T032331/8516a927-e268-47d3-877d-e8b166a7b221_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8516a927-e268-47d3-877d-e8b166a7b221/20241013T032331/8516a927-e268-47d3-877d-e8b166a7b221_360x203.jpg)](https://www.king5.com/article/news/crime/documents-show-chase-suspect-had-ball-with-explosive-powder/281-e97484f2-0a02-49ea-bf12-6b4ec8500744)
+    *  [![](https://media.king5.com/assets/KING/images/af7c2637-e939-4dfc-86a7-532eb494c549/20241015T060354/af7c2637-e939-4dfc-86a7-532eb494c549_16x9.jpg) ![](https://media.king5.com/assets/KING/images/af7c2637-e939-4dfc-86a7-532eb494c549/20241015T060354/af7c2637-e939-4dfc-86a7-532eb494c549_360x203.jpg)](https://www.king5.com/article/news/local/3-thefts-reported-same-king-county-wedding-venue-in-2-months/281-7669065d-094f-4868-bddf-491dcc86f552)
         
-        #### [Suspect tried to light tennis ball with 50 grams of explosive powder before arrest, court docs say](https://www.king5.com/article/news/crime/documents-show-chase-suspect-had-ball-with-explosive-powder/281-e97484f2-0a02-49ea-bf12-6b4ec8500744)
+        #### [3 thefts reported at same King County wedding venue in 2 months](https://www.king5.com/article/news/local/3-thefts-reported-same-king-county-wedding-venue-in-2-months/281-7669065d-094f-4868-bddf-491dcc86f552)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-62°
+56°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
