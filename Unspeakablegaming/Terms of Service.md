@@ -41,6 +41,15 @@ Header - Shapes Theme
     
 * Merch
     
+    * [![GUUBER DECO CUBE](//www.unspeakable.com/cdn/shop/files/DSC_1069.jpg?v=1729006371&width=700)
+        
+        GUUBER DECO CUBE](https://www.unspeakable.com/products/guuber-deco-cube)
+    * [![10 COLOR PEN](//www.unspeakable.com/cdn/shop/files/DSC_1056.jpg?v=1729004312&width=700)
+        
+        10 COLOR PEN](https://www.unspeakable.com/products/10-color-pen-1)
+    * [![PENCIL SHARPENER/ERASER](//www.unspeakable.com/cdn/shop/files/DSC_1059.jpg?v=1729004618&width=700)
+        
+        PENCIL SHARPENER/ERASER](https://www.unspeakable.com/products/pencil-sharpener-eraser)
     * [![UNSPEAKABLE ICON BLANKET](//www.unspeakable.com/cdn/shop/files/DSC03064_1.jpg?v=1727707389&width=700)
         
         UNSPEAKABLE ICON BLANKET](https://www.unspeakable.com/products/unspeakable-icon-blanket)
@@ -50,15 +59,6 @@ Header - Shapes Theme
     * [![BIRTHDAY CARD](//www.unspeakable.com/cdn/shop/files/unnamed_2.jpg?v=1724348147&width=700)
         
         BIRTHDAY CARD](https://www.unspeakable.com/products/birthday-card)
-    * [![2024 HALLOWEEN T-SHIRT](//www.unspeakable.com/cdn/shop/files/DSC_1044.jpg?v=1725906609&width=700)
-        
-        2024 HALLOWEEN T-SHIRT](https://www.unspeakable.com/products/2024-halloween)
-    * [![REVERSIBLE HALLOWEEN PLUSH](//www.unspeakable.com/cdn/shop/files/ECM00356_1.jpg?v=1726250376&width=700)
-        
-        REVERSIBLE HALLOWEEN PLUSH](https://www.unspeakable.com/products/reversible-halloween-plush)
-    * [![3D ICON BACKPACK](//www.unspeakable.com/cdn/shop/files/unnamed_1_634190cc-ac31-4067-be1f-81975c90e5f8.jpg?v=1721926739&width=700)
-        
-        3D ICON BACKPACK](https://www.unspeakable.com/products/backpack)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
