@@ -152,21 +152,21 @@ _**Der­nière mise à jour : 20 octobre 2022**_
 [Québécois 101 : Les questions avec « tu » en français québécois](https://wanderingfrench.com/qc-004/)
 ------------------------------------------------------------------------------------------------------
 
-8 084 visites
+8 087 visites
 
 [![](https://wanderingfrench.com/wp-content/uploads/2021/04/quebecois-101-le-top-5-des-expre-125x70.jpg)](https://wanderingfrench.com/qc-009/ "Québécois 101 : Le top 5 des expressions québécoises")
 
 [Québécois 101 : Le top 5 des expressions québécoises](https://wanderingfrench.com/qc-009/)
 -------------------------------------------------------------------------------------------
 
-6 603 visites
+6 604 visites
 
 [![](https://wanderingfrench.com/wp-content/uploads/2021/07/quebecois-101-8-expressions-queb-125x70.jpg)](https://wanderingfrench.com/qc012/ "Québécois 101 : 8 expressions québécoises inspirées du hockey")
 
 [Québécois 101 : 8 expressions québécoises inspirées du hockey](https://wanderingfrench.com/qc012/)
 ---------------------------------------------------------------------------------------------------
 
-6 100 visites
+6 101 visites
 
 #### Vidéos les plus commentées
 
@@ -184,12 +184,12 @@ _**Der­nière mise à jour : 20 octobre 2022**_
 
 [4 commentaires](https://wanderingfrench.com/quebecois-debutant-001-je-mappelle-je-suis/#comments)
 
-[![](https://wanderingfrench.com/wp-content/uploads/2021/04/quebecois-101-le-top-5-des-expre-125x70.jpg)](https://wanderingfrench.com/qc-009/ "Québécois 101 : Le top 5 des expressions québécoises")
+[![](https://wanderingfrench.com/wp-content/uploads/2024/09/ateliers-de-quebecois-en-octobre-125x70.jpg)](https://wanderingfrench.com/cours-de-quebecois-en-octobre/ "Ateliers de québécois en octobre")
 
-[Québécois 101 : Le top 5 des expressions québécoises](https://wanderingfrench.com/qc-009/)
--------------------------------------------------------------------------------------------
+[Ateliers de québécois en octobre](https://wanderingfrench.com/cours-de-quebecois-en-octobre/)
+----------------------------------------------------------------------------------------------
 
-[3 commentaires](https://wanderingfrench.com/qc-009/#comments)
+[4 commentaires](https://wanderingfrench.com/cours-de-quebecois-en-octobre/#comments)
 
 [![Licence Creative Commons](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/deed.fr)
 
