@@ -191,11 +191,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Dan Neuhauser](https://cdn.returningveterans.org/images/honor/31_Dan_Neuhauser.png)  
+![Robert Beresford](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Honor of Dan Neuhauser**  
-United States Navy  
-Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of Robert Beresford**  
+Submitted by John Beresford](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +239,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/15/24 - 2:32:10  
+Printed 10/15/24 - 8:41:32  
 © 2024 Returning Veterans Project
