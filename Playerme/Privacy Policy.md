@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/foamstars-may-face-a-similar-ending-to-concord/)
+    [](https://player.me/neva-is-a-beautiful-and-emotional-follow-up-from-gris/)
     
-    ![Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Neva Review: A Beautiful and Emotional Action-Adventure, Following Up From Gris](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/foamstars-may-face-a-similar-ending-to-concord/)
+    [](https://player.me/neva-is-a-beautiful-and-emotional-follow-up-from-gris/)
     
-    ![Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Neva Review: A Beautiful and Emotional Action-Adventure, Following Up From Gris](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Neva Review: A Beautiful and Emotional Action-Adventure, Following Up From Gris](https://player.me/wp-content/uploads/2024/10/Neva-Review——-A-Beautiful-and-Emotional-Action-Adventure-Following-Up-From-Gris.png)
+
+[Neva Review: A Beautiful and Emotional Action-Adventure, Following Up From Gris](https://player.me/neva-is-a-beautiful-and-emotional-follow-up-from-gris/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 15, 2024/
+
+Neva, Nomada Studio’s stunning follow-up to Gris, delivers an emotional journey that transcends its fairy-tale-like setting. Set in a world…
+
+[Read More](https://player.me/neva-is-a-beautiful-and-emotional-follow-up-from-gris/)
+
+![New Death Note Game Leaked for PS4 and PS5](https://player.me/wp-content/uploads/2024/10/New-Death-Note-Game-Leaked-for-PS4-and-PS5.png)
+
+[New Death Note Game Leaked for PS4 and PS5](https://player.me/new-death-note-game-leaked-for-ps4-and-ps5/)
+
+
+---------------------------------------------------------------------------------------------------------------
+
+October 15, 2024/
+
+A new chapter for Death Note may be on the horizon, as recent leaks suggest a Death Note game titled…
+
+[Read More](https://player.me/new-death-note-game-leaked-for-ps4-and-ps5/)
+
 ![Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](https://player.me/wp-content/uploads/2024/10/Foamstars-Continues-to-Flop-with-95-Fewer-Players-and-May-Face-a-Similar-Ending-To-Concord.png)
 
 [Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](https://player.me/foamstars-may-face-a-similar-ending-to-concord/)
@@ -218,32 +244,6 @@ October 9, 2024/
 Rockstar Games has officially announced that the original Red Dead Redemption is finally making its long-awaited debut on PC, 14…
 
 [Read More](https://player.me/red-dead-redemption-is-finally-launching-on-pc/)
-
-![Until Dawn Remake PC and PS5 Launch Saw 28% Fewer Players Than the Shut-Down Concord](https://player.me/wp-content/uploads/2024/10/Until-Dawn-Remake-PC-and-PS5-Launch-Saw-28-Fewer-Players-Than-the-Shut-Down-Concord.png)
-
-[Until Dawn Remake PC and PS5 Launch Saw 28% Fewer Players Than the Shut-Down Concord](https://player.me/until-dawn-remake-weak-pc-and-ps5-launch/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 9, 2024/
-
-Sony’s Until Dawn Remake for PlayStation 5 and PC is off to a rough start, experiencing many technical issues, underwhelming…
-
-[Read More](https://player.me/until-dawn-remake-weak-pc-and-ps5-launch/)
-
-![Silent Hill 2 Remake Difficulty Guide: What Is the Recommended Combat and Puzzle Challenge Difficulty?](https://player.me/wp-content/uploads/2024/10/Silent-Hill-2-Remake-Difficulty-Guide.png)
-
-[Silent Hill 2 Remake Difficulty Guide: What Is the Recommended Combat and Puzzle Challenge Difficulty?](https://player.me/silent-hill-2-remake-difficulty-guide/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 8, 2024/
-
-The highly anticipated Silent Hill 2 Remake by Bloober Team offers an exciting yet terrifying experience for fans of psychological…
-
-[Read More](https://player.me/silent-hill-2-remake-difficulty-guide/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Neva Review: A Beautiful and Emotional Action-Adventure, Following Up From Gris](https://player.me/wp-content/uploads/2024/10/Neva-Review——-A-Beautiful-and-Emotional-Action-Adventure-Following-Up-From-Gris.png)
+
+[Neva Review: A Beautiful and Emotional Action-Adventure, Following Up From Gris](https://player.me/neva-is-a-beautiful-and-emotional-follow-up-from-gris/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 15, 2024/
+
+Neva, Nomada Studio’s stunning follow-up to Gris, delivers an emotional journey that transcends its fairy-tale-like setting. Set in a world…
+
+[Read More](https://player.me/neva-is-a-beautiful-and-emotional-follow-up-from-gris/)
+
+![New Death Note Game Leaked for PS4 and PS5](https://player.me/wp-content/uploads/2024/10/New-Death-Note-Game-Leaked-for-PS4-and-PS5.png)
+
+[New Death Note Game Leaked for PS4 and PS5](https://player.me/new-death-note-game-leaked-for-ps4-and-ps5/)
+
+
+---------------------------------------------------------------------------------------------------------------
+
+October 15, 2024/
+
+A new chapter for Death Note may be on the horizon, as recent leaks suggest a Death Note game titled…
+
+[Read More](https://player.me/new-death-note-game-leaked-for-ps4-and-ps5/)
+
 ![Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](https://player.me/wp-content/uploads/2024/10/Foamstars-Continues-to-Flop-with-95-Fewer-Players-and-May-Face-a-Similar-Ending-To-Concord.png)
 
 [Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](https://player.me/foamstars-may-face-a-similar-ending-to-concord/)
@@ -379,32 +405,6 @@ October 8, 2024/
 The highly anticipated Silent Hill 2 Remake by Bloober Team offers an exciting yet terrifying experience for fans of psychological…
 
 [Read More](https://player.me/silent-hill-2-remake-difficulty-guide/)
-
-![Dredge Mobile Release Date Confirmed on December 18, 2024](https://player.me/wp-content/uploads/2024/10/Dredge-Mobile-Release-Date-Confirmed-on-December-18-2024.png)
-
-[Dredge Mobile Release Date Confirmed on December 18, 2024](https://player.me/dredge-mobile-release-date-on-december-18-2024/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------
-
-October 8, 2024/
-
-Black Salt Games has officially revealed that their critically acclaimed eldritch horror fishing game, Dredge, will make its way to…
-
-[Read More](https://player.me/dredge-mobile-release-date-on-december-18-2024/)
-
-![Mouthwashing Is Currently the New 10/10 Game on Steam: Here’s Why](https://player.me/wp-content/uploads/2024/10/Mouthwashing-Is-Currently-the-New-10-10-Game-on-Steam_Heres-Why.png)
-
-[Mouthwashing Is Currently the New 10/10 Game on Steam: Here’s Why](https://player.me/why-mouthwashing-is-the-new-10-10-game-on-steam/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------
-
-October 7, 2024/
-
-Mouthwashing, the latest psychological horror game from developer Wrong Organ and publisher CRITICAL REFLEX, has made a significant splash in…
-
-[Read More](https://player.me/why-mouthwashing-is-the-new-10-10-game-on-steam/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ Apple enthusiasts, mark your calendars! Apple has officially announced the date 
 
 player.me
 
+[](https://player.me/neva-is-a-beautiful-and-emotional-follow-up-from-gris/ "Neva Review: A Beautiful and Emotional Action-Adventure, Following Up From Gris")
+
+[Neva Review: A Beautiful and Emotional Action-Adventure, Following Up From Gris](https://player.me/neva-is-a-beautiful-and-emotional-follow-up-from-gris/)
+
+October 15, 2024
+
+[](https://player.me/new-death-note-game-leaked-for-ps4-and-ps5/ "New Death Note Game Leaked for PS4 and PS5")
+
+[New Death Note Game Leaked for PS4 and PS5](https://player.me/new-death-note-game-leaked-for-ps4-and-ps5/)
+
+October 15, 2024
+
 [](https://player.me/foamstars-may-face-a-similar-ending-to-concord/ "Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord")
 
 [Foamstars Continues to Flop with 95% Fewer Players and May Face a Similar Ending To Concord](https://player.me/foamstars-may-face-a-similar-ending-to-concord/)
@@ -853,22 +865,10 @@ October 10, 2024
 
 October 9, 2024
 
-[](https://player.me/until-dawn-remake-weak-pc-and-ps5-launch/ "Until Dawn Remake PC and PS5 Launch Saw 28% Fewer Players Than the Shut-Down Concord")
-
-[Until Dawn Remake PC and PS5 Launch Saw 28% Fewer Players Than the Shut-Down Concord](https://player.me/until-dawn-remake-weak-pc-and-ps5-launch/)
-
-October 9, 2024
-
-[](https://player.me/silent-hill-2-remake-difficulty-guide/ "Silent Hill 2 Remake Difficulty Guide: What Is the Recommended Combat and Puzzle Challenge Difficulty?")
-
-[Silent Hill 2 Remake Difficulty Guide: What Is the Recommended Combat and Puzzle Challenge Difficulty?](https://player.me/silent-hill-2-remake-difficulty-guide/)
-
-October 8, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 572,064 times, 21 visit(s) today
+Visited 572,130 times, 87 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
