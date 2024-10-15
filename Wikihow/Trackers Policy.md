@@ -138,23 +138,22 @@ Save settings
 
 ### Featured Articles
 
+[![Deal With an Insecure Person](https://www.wikihow.com/images/thumb/f/f4/Deal-With-an-Insecure-Person-Step-16-Version-2.jpg/-crop-126-120-126px-Deal-With-an-Insecure-Person-Step-16-Version-2.jpg)
+
+16 Strategies for Handling Someone's Insecurity](https://www.wikihow.com/Deal-With-an-Insecure-Person)
+
+[![Have a Glow Up](https://www.wikihow.com/images/thumb/f/fb/Have-a-Glow-Up-Step-13-Version-2.jpg/-crop-126-120-126px-Have-a-Glow-Up-Step-13-Version-2.jpg)
+
+How to  
+Have a Glow Up](https://www.wikihow.com/Have-a-Glow-Up)
+
+[![Love Yourself](https://www.wikihow.com/images/thumb/e/e1/Love-Yourself-Step-25-Version-3.jpg/-crop-126-120-126px-Love-Yourself-Step-25-Version-3.jpg)
+
+Loving Yourself: Simple and Easy Ways to Practice Self-Love Every Day](https://www.wikihow.com/Love-Yourself)
+
 [![Write Shorthand](https://www.wikihow.com/images/thumb/0/02/Write-Shorthand-Step-15-Version-3.jpg/-crop-126-120-126px-Write-Shorthand-Step-15-Version-3.jpg)
 
 Writing Shorthand: The Basics of the Teeline, Pitman, and Gregg Methods](https://www.wikihow.com/Write-Shorthand)
-
-[![Take Care of a Cat](https://www.wikihow.com/images/thumb/6/6e/Take-Care-of-a-Cat-Step-23-Version-3.jpg/-crop-126-120-126px-Take-Care-of-a-Cat-Step-23-Version-3.jpg)
-
-How to  
-Take Care of a Cat](https://www.wikihow.com/Take-Care-of-a-Cat)
-
-[![Godly Parent Quiz](https://www.wikihow.com/images/thumb/f/fe/Godly_parent_quiz.png/-crop-126-120-126px-Godly_parent_quiz.png)
-
-Who Is My Godly Parent Quiz](https://www.wikihow.com/Godly-Parent-Quiz)
-
-[![Get Your Dream Job](https://www.wikihow.com/images/thumb/0/02/Get-Your-Dream-Job-Step-13-Version-2.jpg/-crop-126-120-126px-Get-Your-Dream-Job-Step-13-Version-2.jpg)
-
-How to  
-Get Your Dream Job](https://www.wikihow.com/Get-Your-Dream-Job)
 
   
 
@@ -197,4 +196,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-136
+137
