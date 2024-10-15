@@ -660,6 +660,7 @@
                             * [ ]  [UnReview Overview](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/model-validation/projects/unreview/)
                     * [ ]  [Custom Models Group](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/custom-models/)
                     * [ ]  [Duo Chat Group](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/duo-chat/)
+                    * [ ]  [Duo Workflow Group](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/duo-workflow/)
                 * [ ]  [ModelOps](https://handbook.gitlab.com/handbook/engineering/development/data-science/modelops/)
                     * [ ]  [MLOps](https://handbook.gitlab.com/handbook/engineering/development/data-science/modelops/mlops/)
             * [ ]  [Database Engineering](https://handbook.gitlab.com/handbook/engineering/development/database/)
