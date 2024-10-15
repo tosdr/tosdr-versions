@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [ON DO NOT DEFEND CLAUSES RESURGO (27)](https://forum.nationstates.net/viewtopic.php?t=556942&f=24&view=unread#unread ""ON DO NOT DEFEND CLAUSES RESURGO" (27 posts)")
-* [Ukrainian War VII: Everything has a p… (6,972)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (6,972 posts)")
-* [Flirting vs Harassment in courtship (619)](https://forum.nationstates.net/viewtopic.php?t=556589&f=20&view=unread#unread ""Flirting vs Harassment in courtship" (619 posts)")
-* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (10,176)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (10,176 posts)")
-* [Inquiry regarding when an issue was a… (2)](https://forum.nationstates.net/viewtopic.php?t=556945&f=15&view=unread#unread ""Inquiry regarding when an issue was answered" (2 posts)")
+* [What's Your Pointless Holiday? (5)](https://forum.nationstates.net/viewtopic.php?t=556952&f=20&view=unread#unread ""What's Your Pointless Holiday?" (5 posts)")
+* [Things you’ve teared up and/or cried… (25)](https://forum.nationstates.net/viewtopic.php?t=556861&f=20&view=unread#unread ""Things you’ve teared up and/or cried about that seem weird" (25 posts)")
+* [Rewrite AN's motto based on their...… (680)](https://forum.nationstates.net/viewtopic.php?t=542020&f=25&view=unread#unread ""Rewrite AN's motto based on their... banner?" (680 posts)")
+* [Summarise AN's flag in one word (1,506)](https://forum.nationstates.net/viewtopic.php?t=548700&f=25&view=unread#unread ""Summarise AN's flag in one word" (1,506 posts)")
+* [What is your relationship with AU? II (2,360)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (2,360 posts)")
 
 Advertisement
 
