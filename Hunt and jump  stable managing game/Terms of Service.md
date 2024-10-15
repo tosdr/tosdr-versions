@@ -143,6 +143,62 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+10/15/2024 9:30 AM EST
+
+[SWITCH UP! It's the 15th and Random Gene Sale switch has activated. Until the 1st of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
+**Mushroom**  
+![](https://www.huntandjump.com/images/grsExamples/mush.png)  
+**Axiom Green**  
+![](https://www.huntandjump.com/images/grsExamples/axG.png)  
+**Onyx**  
+![](https://www.huntandjump.com/images/grsExamples/onyx.png)  
+**Phantom Bats**  
+![](https://www.huntandjump.com/images/grsExamples/phbts.png)  
+**Phantom Ghosts**  
+![](https://www.huntandjump.com/images/grsExamples/phgho.png)  
+**Phantom Spiders**  
+![](https://www.huntandjump.com/images/grsExamples/phspi.png)  
+**Phantom Skulls**  
+![](https://www.huntandjump.com/images/grsExamples/phsku.png)  
+**Phantom Pumpkins**  
+![](https://www.huntandjump.com/images/grsExamples/phpmk.png)  
+**Phantom Autumn**  
+![](https://www.huntandjump.com/images/grsExamples/phatmn.png)  
+**Phantom Lace**  
+![](https://www.huntandjump.com/images/grsExamples/phlace.png)  
+**Phantom Diamond Sparkle**  
+![](https://www.huntandjump.com/images/grsExamples/phdmsp.png)  
+**Phantom Jellyfish**  
+![](https://www.huntandjump.com/images/grsExamples/phjlyf.png)  
+**Phantom Apple Picking**  
+![](https://www.huntandjump.com/images/grsExamples/apple.png)  
+**Phantom Cobweb**  
+![](https://www.huntandjump.com/images/grsExamples/phweb.png)  
+**Phantom Heart**  
+![](https://www.huntandjump.com/images/grsExamples/phheart.png)  
+**Phantom Shamrock**  
+![](https://www.huntandjump.com/images/grsExamples/phshm.png)  
+**Phantom Will-O-Wisp**  
+![](https://www.huntandjump.com/images/grsExamples/phnwisp.png)  
+**Phantom Roses**  
+![](https://www.huntandjump.com/images/grsExamples/phrose.png)  
+**Phantom Bouquet**  
+![](https://www.huntandjump.com/images/grsExamples/phflower.png)  
+**Phantom Sun Runes**  
+![](https://www.huntandjump.com/images/grsExamples/phsun.png)  
+**Phantom Star Runes**  
+![](https://www.huntandjump.com/images/grsExamples/phstar.png)  
+**Phantom Critter Tracks**  
+![](https://www.huntandjump.com/images/grsExamples/phpaw.png)  
+**Phantom Bird Tracks**  
+![](https://www.huntandjump.com/images/grsExamples/phbird.png)  
+**Phantom Muddy Puddles**  
+![](https://www.huntandjump.com/images/grsExamples/phsplash.png)  
+**PDR Belton Spotting**  
+![](https://www.huntandjump.com/images/grsExamples/belton.png)  
+**Jewel Box**  
+![](https://www.huntandjump.com/images/grsExamples/tmjb.png)
+
 10/8/2024 3:23 AM EST
 
 Monster GMT lab sale now on
@@ -226,10 +282,6 @@ HuntAndJump now has an official Discord server! We are soft-launching our new di
 ![](https://www.huntandjump.com/images/grsExamples/platinum.png)  
 **Rainbow Riot 2 Void**  
 ![](https://www.huntandjump.com/images/grsExamples/void.png)
-
-9/14/2024 1:12 PM EST
-
-Sorry for the downtime. Turns out the actual server datacenter lost internet for a few hours there. We had to wait for them to get back online.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
