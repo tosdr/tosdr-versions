@@ -191,7 +191,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111041-honor-our-warriors-2024-10-14)
+     [](https://patriotpost.us/memes/111076-coming-soon-2024-10-15)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -203,6 +203,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Cal Thomas Obama to the rescue](https://patriotpost.us/opinion/111061-obama-to-the-rescue-2024-10-15)
 *      [Gary Bauer Left-Wing Hate](https://patriotpost.us/opinion/111050-left-wing-hate-2024-10-14)
 *      [Ken Blackwell Calling Out Executions in Iran Could Solve Many Problems in the Region](https://patriotpost.us/opinion/111049-calling-out-executions-in-iran-could-solve-many-problems-in-the-region-2024-10-14)
 *      [The Babylon Bee 9 Things Trump Could Do To Guarantee Victory In November](https://patriotpost.us/opinion/111051-9-things-trump-could-do-to-guarantee-victory-in-november-2024-10-14)
@@ -210,7 +211,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Matthew Continetti How Harris Bombed Her Media Blitz](https://patriotpost.us/opinion/111017-how-harris-bombed-her-media-blitz-2024-10-12)
 *      [The Washington Stand Afghan National in U.S. Plotted ISIS Terror Attack on Election Day](https://patriotpost.us/opinion/111030-afghan-national-in-us-plotted-isis-terror-attack-on-election-day-2024-10-12)
 *      [Imprimis The Dangers of Price Controls](https://patriotpost.us/opinion/111018-the-dangers-of-price-controls-2024-10-12)
-*      [Michael Reagan Kamala Has Nothing in Mind](https://patriotpost.us/opinion/111016-kamala-has-nothing-in-mind-2024-10-11)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,11 +224,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
