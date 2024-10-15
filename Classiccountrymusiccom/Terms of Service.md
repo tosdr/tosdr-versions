@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Flashback: Tammy Wynette Performs Her First...](https://classiccountrymusic.com/flashback-tammy-wynette-performs-her-first-1-song-i-dont-wanna-play-house/)
 * [Reba Shares The Key To Her...](https://classiccountrymusic.com/reba-shares-the-key-to-her-happy-relationship-with-rex-linn-i-have-his-back-and-he-has-mine/)
 * [A Timeline Of Garth Brooks &...](https://classiccountrymusic.com/a-timeline-of-garth-brooks-trisha-yearwoods-relationship-marriage/)
-* [Reba McEntire Finally Shares The Theme...](https://classiccountrymusic.com/reba-mcentire-finally-shares-the-theme-song-for-her-new-sitcom-happys-place/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -122,9 +122,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [Bronze Statue of Merle Haggard Unveiled...](https://classiccountrymusic.com/bronze-statue-of-merle-haggard-unveiled-in-muskogee-oklahoma/)
 * [Allman Brothers Band Member Johnny Neel...](https://classiccountrymusic.com/allman-brothers-band-member-johnny-neel-dies-at-70/)
 * [Miranda Lambert & Lukas Nelson Sing...](https://classiccountrymusic.com/miranda-lambert-lukas-nelson-sing-silver-wings-in-thoughtful-tribute-to-kris-kristofferson/)
-* [Josh Turner Honors Kris Kristofferson With...](https://classiccountrymusic.com/josh-turner-honors-kris-kristofferson-with-heartfelt-cover-of-a-moment-of-forever/)
 
 Terms of Use
 ============
