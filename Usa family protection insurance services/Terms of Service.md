@@ -86,7 +86,7 @@ This is the entire agreement regarding all the matters that have been discussed 
 
 If you have any questions or comments regarding our Terms and Conditions please contact us by emailing [\[email protected\]](https://usafamilyprotection.com/cdn-cgi/l/email-protection).
 
-© 2024 USA Family Protection Insurance Services (USA FPIS). All rights reserved. USA FPIS operates in Missouri (AR Insurance License #: 2118 and CA Insurance License #: 6126‐7). USA FPIS operates as United Family Guardian Insurance Services in California. USA FPIS Life Policies are issued by Lumico Life Insurance Company.  
+© 2024 USA Family Protection Insurance Services (USA FPIS). All rights reserved. USA FPIS operates in Missouri (AR Insurance License #: 2118 and CA Insurance License #: 6126‐7). USA FPIS operates as United Family Guardian Insurance Services in California.  
 
 [Life Insurance](https://usafamilyprotection.com/lifeinsurance-1) | [Auto & Home Insurance](https://usafamilyprotection.com/autoandhome) | [Privacy Policy](https://usafamilyprotection.com/privacy) | [Terms of Use](https://usafamilyprotection.com/terms) | [Site Map](https://usafamilyprotection.com/sitemap)  
 
