@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Mandic using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-mandic-using-backup4all-kb.html)  
+* [How to create a mirror with zip backup](https://www.backup4all.com/how-to-create-a-mirror-with-zip-backup-kb.html)  
     
-* [How to restore a backup to HiDrive](https://www.backup4all.com/how-to-restore-a-backup-to-hidrive-kb.html)  
+* [How to back up data files from Polycloud usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-polycloud-using-backup4all-kb.html)  
     
-* [USB backup](https://www.backup4all.com/usb-backup-kb.html)  
+* [How to restore a backup to Box](https://www.backup4all.com/how-to-restore-a-backup-to-box-kb.html)  
     
-* [How to shutdown computer after backup](https://www.backup4all.com/how-to-shutdown-computer-after-backup-kb.html)  
+* [Backup videos with Backup4all](https://www.backup4all.com/backup-videos-with-backup4all-kb.html)  
     
-* [Configure Backup4all for remote monitoring](https://www.backup4all.com/configure-backup4all-for-remote-monitoring-kb.html)  
+* [How to back up data files from Seeweb using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-seeweb-using-backup4all-kb.html)  
     
 
 Choose language:
