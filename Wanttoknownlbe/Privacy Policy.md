@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/covid-slangengif/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/kankerbehandeling-homeopathie-verslaat-regulier/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
