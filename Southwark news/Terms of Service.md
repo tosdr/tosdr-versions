@@ -219,17 +219,17 @@ Terms of Use
 
 [9th October 2024](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
 
-[![The Walworth Road looking west towards Elephant and Castle. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Walworth-Road-seen-leading-west-towards-Elephant-and-Castle-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
-
-### [Woman stabbed on Walworth Road](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
-
-[8th October 2024](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
-
 [![The Den. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Den-generic-1-750x375-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
 
 ### [On this day: Millwall splashed the cash on Brighton youngster](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
 
 [11th October 2024](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
+
+[![Romain Esse in action against West Bromwich Albion. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Esse-292902-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-winger-receives-plaudits-for-performance-after-bagging-assist-during-england-under-20s-win-over-italy-under-20s/)
+
+### [Millwall winger receives plaudits for performance after bagging assist during England Under-20s win over Italy Under-20s](https://southwarknews.co.uk/sport/football/millwall/millwall-winger-receives-plaudits-for-performance-after-bagging-assist-during-england-under-20s-win-over-italy-under-20s/)
+
+[11th October 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-winger-receives-plaudits-for-performance-after-bagging-assist-during-england-under-20s-win-over-italy-under-20s/)
 
 ### Featured Articles
 
