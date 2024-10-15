@@ -198,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/a/csm_variante_virus_cbe620b2b8.png)
-
-Brasil
-
-Brasil
-
-Nova variante do vírus Sars-CoV-2 é identificada em três estados
-
-Nova variante do vírus Sars-CoV-2 é identificada em três estados](https://www.tnh1.com.br/noticia/nid/nova-variante-do-virus-sars-cov-2-e-identificada-em-tres-estados/ "Nova variante do vírus Sars-CoV-2 é identificada em três estados")[![Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/e/csm_dsc9276-monica-benicio-e-sua-namorada-jessica-cores-rio-jazz-fest-out-2024-cg_cf2b636646.jpg)
+[![Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/e/csm_dsc9276-monica-benicio-e-sua-namorada-jessica-cores-rio-jazz-fest-out-2024-cg_cf2b636646.jpg)
 
 Novo amor
 
@@ -214,7 +206,7 @@ Novo amor
 
 Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'
 
-Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'](https://www.tnh1.com.br/noticia/nid/viuva-de-marielle-franco-assume-namoro-com-atriz-de-verdades-secretas/ "Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'")[![Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/9/csm_Taciana_Maria_Ramos_morta_pelo_companheiro_arquivo_pessoal_1d70bab3ad.jpg)
+Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'](https://www.tnh1.com.br/noticia/nid/viuva-de-marielle-franco-assume-namoro-com-atriz-de-verdades-secretas/ "Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'")[![Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/9/csm_Taciana_Maria_Ramos_morta_pelo_companheiro_arquivo_pessoal_1d70bab3ad.jpg)
 
 12 golpes de faca
 
@@ -222,7 +214,7 @@ Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'](https:
 
 Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo
 
-Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://www.tnh1.com.br/noticia/nid/relacionamento-de-casal-de-alagoanos-acaba-em-tragedia-no-interior-de-sao-paulo/ "Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo")[![Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/f/csm_colonia_perseguicao__2__697e279c8d.jpeg)
+Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://www.tnh1.com.br/noticia/nid/relacionamento-de-casal-de-alagoanos-acaba-em-tragedia-no-interior-de-sao-paulo/ "Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo")[![Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_colonia_perseguicao__2__697e279c8d.jpeg)
 
 colônia leopoldina
 
@@ -230,7 +222,15 @@ colônia leopoldina
 
 Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL
 
-Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://www.tnh1.com.br/noticia/nid/suspeitos-de-assaltos-morrem-viatura-capota-e-policiais-ficam-feridos-em-perseguicao-no-interior-de-al/ "Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL")
+Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://www.tnh1.com.br/noticia/nid/suspeitos-de-assaltos-morrem-viatura-capota-e-policiais-ficam-feridos-em-perseguicao-no-interior-de-al/ "Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL")[![Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/5/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_94b9829167.png)
+
+Meteorologia
+
+Meteorologia
+
+Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)
+
+Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-terca-feira-15/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)")
 
 [![Coincidência no calendário pode fazer aguardado julgamento de Diddy ficar às moscas; entenda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/9/csm_sean-diddy-reproducao_redes-sociais_b06904a1fb.jpeg)
 
