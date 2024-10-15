@@ -250,7 +250,7 @@ Please note that we may modify or update this Notice from time to time, so pleas
 Contact Us
 ----------
 
-If you have any questions about our practices or this Notice, please contact us at privacy@yello.co or [privacy@wayup.com](mailto:privacy@wayup.com).
+If you have any questions about our practices or this Notice, please contact us at [privacy@yello.co](mailto:privacy@yello.co) or [privacy@wayup.com](mailto:privacy@wayup.com).
 
 * [Solutions](https://yello.co/solutions/)
     * [Sourcing](https://yello.co/wayup-dei-sourcing/)
