@@ -75,31 +75,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 323 1
+0 337 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/emul-shangri-la-frontier-created-by-sadieyule/)
+[](https://yiff-party.com/yiff/rarity-friendship-is-magic-and-etc-created-by-pony-dreaming/)
 
-[emul (shangri-la frontier) created by sadieyule](https://yiff-party.com/yiff/emul-shangri-la-frontier-created-by-sadieyule/)
+[rarity (friendship is magic and etc) created by pony dreaming](https://yiff-party.com/yiff/rarity-friendship-is-magic-and-etc-created-by-pony-dreaming/)
 
-0 2 0
+0 3 0
 
 October 15, 2024
 
-[](https://yiff-party.com/yiff-gif/revali-the-legend-of-zelda-and-etc-created-by-zyfoh/)
+[](https://yiff-party.com/yiff/lana-created-by-avius/)
 
-[revali (the legend of zelda and etc) created by zyfoh](https://yiff-party.com/yiff-gif/revali-the-legend-of-zelda-and-etc-created-by-zyfoh/)
+[lana created by avius](https://yiff-party.com/yiff/lana-created-by-avius/)
 
-0 95 0
+0 92 0
 
 September 15, 2024
 
-[](https://yiff-party.com/yiff/shade-anris-instant-loss-2koma-created-by-hyattlen/)
+[](https://yiff-party.com/yiff-ai-premium/princess-celestia-directed-by-orangekitsune/)
 
-[shade anris (instant loss 2koma) created by hyattlen](https://yiff-party.com/yiff/shade-anris-instant-loss-2koma-created-by-hyattlen/)
+[princess celestia directed by orangekitsune](https://yiff-party.com/yiff-ai-premium/princess-celestia-directed-by-orangekitsune/)
 
-0 207 0
+0 67 0
 
 September 15, 2024
 
