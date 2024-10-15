@@ -4,7 +4,7 @@
 
 [App Developers](https://www.digitalturbine.com/app-developers)
 
-[DT Hub](https://www.digitalturbine.com/dt-hub)[Monetization Solutions](https://www.digitalturbine.com/app-developers#monetizationsolutions)[DT Exchange](https://www.digitalturbine.com/dt-exchange)[DT FairBid](https://www.digitalturbine.com/dt-fairbid)[DT Offer Wall](https://www.digitalturbine.com/dt-offer-wall)[UA Solutions](https://www.digitalturbine.com/ua-solutions)
+[Alternative App Solutions](https://www.digitalturbine.com/allternativefuture)[Monetization Solutions](https://www.digitalturbine.com/app-developers#monetizationsolutions)[DT Exchange](https://www.digitalturbine.com/dt-exchange)[DT FairBid](https://www.digitalturbine.com/dt-fairbid)[DT Offer Wall](https://www.digitalturbine.com/dt-offer-wall)[UA Solutions](https://www.digitalturbine.com/ua-solutions)
 
 [Brands & Agencies](https://www.digitalturbine.com/brands-agencies)
 
@@ -86,7 +86,7 @@ Audiences
 
 [App Developers](https://www.digitalturbine.com/app-developers)
 
-[DT Hub](https://www.digitalturbine.com/dt-hub)[Monetization Solutions](https://www.digitalturbine.com/app-developers/#monetizationsolutions)[DT Exchange](https://www.digitalturbine.com/dt-exchange)[DT FairBid](https://www.digitalturbine.com/dt-fairbid)[DT Offer Wall](https://www.digitalturbine.com/dt-offer-wall)[UA Solutions](https://www.digitalturbine.com/ua-solutions)
+[Alternative App Solutions](https://www.digitalturbine.com/allternativefuture)[Monetization Solutions](https://www.digitalturbine.com/app-developers/#monetizationsolutions)[DT Exchange](https://www.digitalturbine.com/dt-exchange)[DT FairBid](https://www.digitalturbine.com/dt-fairbid)[DT Offer Wall](https://www.digitalturbine.com/dt-offer-wall)[UA Solutions](https://www.digitalturbine.com/ua-solutions)
 
 [Brands & Agencies](https://www.digitalturbine.com/brands-agencies)
 
