@@ -8,7 +8,7 @@
 
 [About us](https://bendingspoons.com/)[Values](https://bendingspoons.com/values)[Products](https://bendingspoons.com/products)[Technologies](https://bendingspoons.com/technologies)[People](https://bendingspoons.com/people)[Events](https://bendingspoons.com/events)[Careers](https://bendingspoons.com/careers)[Jobs](https://jobs.bendingspoons.com/?utm_source=website&utm_medium=nav_link)
 
-**Last Updated: 25 July 2024**
+**Last Updated: 15 October 2024**
 
 This Privacy Policy explains how your personal information is collected, used, disclosed and otherwise processed by Bending Spoons S.p.A. ("**Bending Spoons**", **"we**", "**our**" or "**us**").  
   
@@ -392,11 +392,100 @@ For your convenience and information, we may provide links to websites and other
 
 We do not knowingly collect information from children under the age of 13 (or 16 in the EEA, or older if required in an applicable jurisdiction to comply with applicable laws). If you are not over 13 years of age (or 16 in the EEA, or older if required in an applicable jurisdiction to comply with applicable laws) then **DO NOT DOWNLOAD OR USE THE SERVICES**. If you are a parent or legal guardian and believe that we may have personal information from or about your child under 13, please contact us at [privacy@bendingspoons.com](mailto:privacy@bendingspoons.com). Note that we'll attempt to delete the account of any child under the age of 13 that's reported to us as soon as possible. You are responsible for any and all account activity conducted by a minor on your account.
 
-**16\. Updates to Our Privacy Policy**
+**16\. In-app tracking technologies**
+
+When we refer to “tracking technology” or “tracking technologies” in this policy, we mean any technology that stores or accesses information on the user’s device, including SDKs, tracking pixels, HTML5 local storage, local shared objects, and fingerprinting techniques.
+
+Tracking technologies are usually classified by purpose (technical, analytics, profiling) and by publisher (first-party, third-party). The legal requirements vary based on these classifications.
+
+The tracking technology classifications and some practical examples now follow.
+
+_**By purpose**_
+
+_**Technical tracking technologies**_
+
+These are used to transmit messages over an electronic communication network or to provide a service specifically requested by the user. Therefore, they’re necessary for the app to function correctly, and for providing the service requested by and offered to the user.
+
+For example, technical tracking technologies can be used to monitor sessions, store specific server access information related to the user configuration, facilitate the use of online content, keep track of items in a shopping cart, or keep track of information used to fill in a form.
+
+As technical tracking technologies are necessary, they don’t need your consent.
+
+_**Analytics tracking technologies**_
+
+These are used to assess the effectiveness of an information society service provided by a publisher, evaluate and improve the design of an app, or help measure traffic. In other words, they serve to track the traffic and performance of an app by collecting aggregate data on the number of users and how they interact with the app, which helps to improve its services.
+
+For example, analytics tracking technologies may collect information about how users access an app, including the number of users and potentially grouped by geographical area, time zone, how long they stay on the app, which parts of the app they interact with, and the number of users who used a particular feature.
+
+Normally, analytics tracking technologies are used only with your explicit consent. However, in the following cases they’re treated like technical trackers, so don’t need your consent:
+
+* > When they’re used only to produce aggregated statistics that are performed through the controller’s own resources and that don’t turn into activities that go beyond statistical counting and assisting business-related decision-making
+    
+* > When the third parties don’t match the analytics trackers' data with any other information, and don’t send any data gathered to other third parties
+    
+
+_**Profiling tracking technologies**_
+
+These are used to evaluate some personal aspects of certain users, and to trace specific actions or recurring behavioral patterns in the use of the app in relation to specific, identified or identifiable individuals, so they can be grouped within homogeneous, multi-sized clusters. This enables the company to analyze and predict personal elements, provide users with customized services beyond what’s strictly necessary for the delivery of the service, and sending targeted advertising messages in line with the preferences they express during their in-app activities. These serve to convey behavioral advertising, measure the effectiveness of ads, and customize the services offered in line with the user’s monitored behavior.
+
+For example, profiling tracking technologies can be used for the following activities:
+
+* > To create user profiles and offer content in line with the user’s interests
+    
+* > To send targeted ads or messages
+    
+* > To conduct statistical analysis or other research activities to improve our products and services and measure the effectiveness of our campaigns
+    
+
+Profiling tracking technologies are used only with your explicit consent.
+
+_**By publisher**_
+
+**First-party tracking technologies**
+
+These are installed and managed directly by the owner of the app (in this case, Bending Spoons S.p.A). As the owner, we process the collected data for our own purposes.
+
+**Third-party tracking technologies**
+
+These are installed and managed by different apps or developers, either for our purposes or for those of the third party.
+
+The data collected by the third parties for their own purposes is governed by their specific privacy policies and terms and conditions. For further information about these data processing activities, you can directly refer to the privacy policy of the relevant third parties as indicated in the subsection _Types of tracking technologies used by the app_.
+
+Third-party tracking technologies need your consent, unless they’re anonymized and only used for analytical purposes. You can manage consent at any time from within the app’s privacy settings.
+
+**Types of tracking technologies used in the app**
+
+This app uses the following types of tracking technologies:
+
+| **Name & Purpose** | **Retention period** | **Type of publisher & Description** | **Description** |
+| --- | --- | --- | --- |
+| SwitchUp SDK (technical)<br><br>Technical | 3 years | First-party | Our internal software development kit (SDK). It’s necessary for the app to function correctly. |
+| SwitchUp SDK (statistical analytics)<br><br>Technical | 3 years | First-party | Our internal software development kit (SDK). It allows us to produce aggregated statistics. |
+| Firebase Crashlytics<br><br>Technical | 3 years | Third-party<br><br>[https://policies.google.com/privacy](https://firebase.google.com/support/privacy?hl=it) | A tool provided by Google that’s necessary for the app to correctly interact with the backend and provide you with key features. |
+| Firebase Dynamic Links<br><br>Technical | 3 years | Third-party<br><br>[https://policies.google.com/privacy](https://firebase.google.com/support/privacy?hl=it) | A tool provided by Google that’s necessary for the app to correctly interact with the backend and provide you with key features. |
+| FirebaseAuth<br><br>Technical | 3 years | Third-party<br><br>[https://policies.google.com/privacy](https://firebase.google.com/support/privacy?hl=it) | A tool provided by Google that’s necessary for the app to correctly interact with the backend and provide you with key features. |
+| Google Sign In<br><br>Technical | Determined by the Third Party | Third party<br><br>[https://policies.google.com/privacy](https://policies.google.com/privacy) | Thanks to this SDK developed by Google we can provide you with a secure, fast, and easy way to log in into our app using Google. |
+| Zendesk Chat SDK<br><br>Technical | Determined by the Third Party | Third Party<br><br>[https://www.zendesk.com/company/agreements-and-terms/privacy-notice/](https://www.zendesk.com/company/agreements-and-terms/privacy-notice/) | Thanks to this SDK we can easily integrate customer support features within our app. |
+| Facebook<br><br>Technical | Determined by the Third Party | Third Party [https://www.facebook.com/privacy/policy/?entry\_point=facebook\_page\_footer](https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer) | Thanks to this SDK developed by Meta we can provide you with a secure, fast, and easy way to log in into our app using Facebook. If you like, you’ll also be able to share your workouts on Facebook in an easy way. |
+| Firebase<br><br>Analytics | 3 years | Third-party<br><br>[https://policies.google.com/privacy](https://firebase.google.com/support/privacy?hl=it) | A tool provided by Google that’s necessary for the app to work properly. When analytics features are enabled, it can help us to improve app traffic and performance. |
+| SwitchUp SDK (profiling)<br><br>Profiling | 3 years | First-party | Our internal profiling software development kit (SDK). It allows us to provide customized services. |
+
+**Tracking technologies settings**
+
+You can turn on or turn off—in whole or in part—profiling and third-party analytics tracking technologies at any time through the app’s privacy settings. As for Meta Audience Network SDK, if you’re an Android user, you can manage your choices directly on Meta's website.
+
+When you withdraw consent, your data will no longer be collected through those trackers. However, we’ll continue processing the data collected before the withdrawal.
+
+You can’t turn off first-party analytics tracking technologies—they’re treated like technical trackers, so aren’t contingent on consent. However, you can opt out of the further processing of your data that’s been collected via these trackers. To do so, you can contact us at [privacy@bendingspoons.com](mailto:privacy@bendingspoons.com).
+
+After following this process, you may uninstall the app if you’d prefer to.
+
+With regards to your rights under applicable Data Protection Laws, please refer to the section _Your choices and rights_.
+
+**17\. Updates to Our Privacy Policy**
 
 We reserve the right to update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will update the date of this Privacy Policy. Continued use of the Services after such date constitutes acceptance of such updates. When required by applicable law, we may inform you by additional means, such as through a notification on the website or in our mobile applications if we make material changes to how your personal information is collected, accessed or otherwise used as a result of your use of the Services or if your rights under this Privacy Policy are materially impacted by changes to our privacy practices. We recommend that you check this page from time to time to inform yourself of any changes in this Privacy Policy.
 
-**17\. How to Contact Us**
+**18\. How to Contact Us**
 
 If you want to submit a request by email or if you have any other questions about privacy or data protection at Bending Spoons, you can contact us at [privacy@bendingspoons.com](mailto:privacy@bendingspoons.com).
 
