@@ -255,13 +255,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![Climber Forgets to Attach His Rope, Pays the Price](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/articles/climber-forgets-to-attach-his-rope-pays-the-price/87504587/) [Climber Forgets to Attach His Rope, Pays the Price](https://www.ebaumsworld.com/articles/climber-forgets-to-attach-his-rope-pays-the-price/87504587/)
+    [![David Grusch testifying at the UFO hearing today](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/) [US Air Force Officer Admits Under Oath That the US Government Is In Possession of UFOs and Non-Human Bodies](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/)
     
-    [![arnold schwarzenegger sitting down and standing up before getting drop kicked](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/) [Remember When that Douchebag Drop Kicked Arnold Schwarzenegger At Event in South Africa](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/)
-    
-    [![Millionaire Karen Meets Karma After Fleeing From Police](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/millionaire-karen-meets-karma-after-fleeing-from-police/87424857/) [Millionaire Karen Meets Karma After Fleeing From Police](https://www.ebaumsworld.com/videos/millionaire-karen-meets-karma-after-fleeing-from-police/87424857/)
+    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/24-tasteless-and-terrible-tattoos-inked-with-regret/87510467/) [24 Tasteless and Terrible Tattoos Inked With Regret](https://trending.ebaumsworld.com/pictures/24-tasteless-and-terrible-tattoos-inked-with-regret/87510467/)
     
     [![pool emptying](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-notices-something-unusual-when-emptying-his-pool/85154367/) [Guy Notices Something Unusual When Emptying His Pool : Laminar Flow Phenomenon](https://www.ebaumsworld.com/videos/guy-notices-something-unusual-when-emptying-his-pool/85154367/)
+    
+    [![photo caption - About to come home after spending the last 3yrs in the desert. Please no jokes about my $40k truck or my 3 divorces. sdrawkcaBuoYkcuF points 28 days ago 232 & 45 More Why would I make a joke about your wife or your truck? I've enjoyed ridi](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/26-internet-roasts-that-scorched-people/86452010/) [26 Internet Roasts That Didn't Hold Back](https://www.ebaumsworld.com/pictures/26-internet-roasts-that-scorched-people/86452010/)
     
 
 * Advertisement
