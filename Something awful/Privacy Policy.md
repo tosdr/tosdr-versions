@@ -205,21 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [I jerked off my dad!](https://www.somethingawful.com/awfulvision/juggalo-cat-incest/1/)
-* [Warrior Web, Female First, Phatmass, and Ghost Stories](https://www.somethingawful.com/weekend-web/warrior-web-female/1/)
-* [Cartoon Counterparts!](https://www.somethingawful.com/photoshop-phriday/cartoon-voice-actors/1/)
-* [Budget Blockbusters!](https://www.somethingawful.com/photoshop-phriday/budget-blockbusters/1/)
-* [Flowgo, Veritas Academy, Tickle Media Forum, and That Bird's Nest](https://www.somethingawful.com/weekend-web/flowgo-veritas-academy/1/)
+* [VHS Yard Sale](https://www.somethingawful.com/photoshop-phriday/vhs-yard-sale/1/)
+* [July 9, 2007](https://www.somethingawful.com/forum-fridays/ff07-09-07/1/)
+* [04-09-2007](https://www.somethingawful.com/forum-fridays/ff04-09-2007/1/)
+* [03-26-2007](https://www.somethingawful.com/forum-fridays/ff03-26-07/1/)
+* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/audio.png) [whoopie cushion song](http://forums.somethingawful.com/showthread.php?threadid=4072725 "whoopie cushion song")
+
 ### Random Articles
 
-* [Final Fantasy Hentai](https://www.somethingawful.com/awful-links/awful-link-611/)
-* [Pop's Vietnam Slides](https://www.somethingawful.com/comedy-goldmine/pops-vietnam-slides/1/)
-* [Robo Vampire](https://www.somethingawful.com/movie-reviews/robo-vampire/)
-* [Teen Movies](https://www.somethingawful.com/photoshop-phriday/teen-movies/1/)
-* [Last-Minute Halloween Costume Ideas!](https://www.somethingawful.com/awful-things-sale/adult-halloween-costumes/)
+* [PG Romance Novels in Simple English!](https://www.somethingawful.com/comedy-goldmine/easy-love-books/)
+* [State Og Update: 04.19.03](https://www.somethingawful.com/state-og/state-og-update-20/)
+* [Candid Pet Photos!](https://www.somethingawful.com/comedy-goldmine/candid-pet-photos/1/)
+* [I Hate You Page 256](https://www.somethingawful.com/cliff-yablonski/i-hate-you-256/)
+* [Four Reasons Why The Super Bowl Sucks And I Hate It](https://www.somethingawful.com/pregame-wrapup/four-reasons-why/)
 
 [Random!](https://www.somethingawful.com/random/)
 
