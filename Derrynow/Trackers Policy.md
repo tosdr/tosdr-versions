@@ -266,13 +266,6 @@ Most Popular
 [IN PICTURES: Big turnout for annual Marty's Run in Derry](https://www.derrynow.com/story-telling/derry-sport/1629836/in-pictures-big-turnout-for-annual-marty-s-run-in-derry.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette")](https://www.derrynow.com/news/pictures---videos/1629973/pictures-candlelight-procession-for-the-visit-of-the-relic-of-st-bernadette.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette](https://www.derrynow.com/news/pictures---videos/1629973/pictures-candlelight-procession-for-the-visit-of-the-relic-of-st-bernadette.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: St Bernadette service - Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: St Bernadette service - Derry")](https://www.derrynow.com/news/pictures---videos/1629939/pictures-relics-of-st-bernadette-of-lourdes-arrive-in-derry.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -280,64 +273,83 @@ Most Popular
 [PICTURES: Relics of St Bernadette of Lourdes arrive in Derry](https://www.derrynow.com/news/pictures---videos/1629939/pictures-relics-of-st-bernadette-of-lourdes-arrive-in-derry.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Kyle McDermott: Heartbroken partner tells funeral of cherished memories](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kyle McDermott: Heartbroken partner tells funeral of cherished memories")](https://www.derrynow.com/news/local-news/1629499/kyle-mcdermott-heartbroken-partner-tells-funeral-of-cherished-memories.html)
-
-The funeral of Kyle McDermott (inset) took place at St Aengus' Church, Burt
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Kyle McDermott: Heartbroken partner tells funeral of cherished memories](https://www.derrynow.com/news/local-news/1629499/kyle-mcdermott-heartbroken-partner-tells-funeral-of-cherished-memories.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice")](https://www.derrynow.com/news/local-news/1629487/pictures-foyle-school-of-speech-and-drama-host-charity-feis-for-foyle-hospice.html)
+[![PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette")](https://www.derrynow.com/news/pictures---videos/1629973/pictures-candlelight-procession-for-the-visit-of-the-relic-of-st-bernadette.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice](https://www.derrynow.com/news/local-news/1629487/pictures-foyle-school-of-speech-and-drama-host-charity-feis-for-foyle-hospice.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette](https://www.derrynow.com/news/pictures---videos/1629973/pictures-candlelight-procession-for-the-visit-of-the-relic-of-st-bernadette.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man in custody after £150k drugs seized in Derry search](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man in custody after £150k drugs seized in Derry search")](https://www.derrynow.com/news/local-news/1629781/man-in-custody-after-150k-drugs-seized-in-derry-search.html)
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1629835/derry-death-notices-tuesday-october-15-2024.html)
 
-The suspected drugs seized by Ballyarnett Neighbourhood Policing Team
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Death Notices - Tuesday, October 15 2024](https://www.derrynow.com/news/deaths/1629835/derry-death-notices-tuesday-october-15-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-[Man in custody after £150k drugs seized in Derry search](https://www.derrynow.com/news/local-news/1629781/man-in-custody-after-150k-drugs-seized-in-derry-search.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man (24) charged with racially motivated stabbing in Derry remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (24) charged with racially motivated stabbing in Derry remanded")](https://www.derrynow.com/news/local-news/1629624/man-24-remanded-following-racially-motivated-stabbing-in-derry.html)
+[![Man charged with possessing over £300,000 worth of drugs remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with possessing over £300,000 worth of drugs remanded")](https://www.derrynow.com/news/local-news/1630532/man-charged-with-possessing-over-300-000-worth-of-drugs-remanded.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man (24) remanded following racially motivated stabbing in Derry](https://www.derrynow.com/news/local-news/1629624/man-24-remanded-following-racially-motivated-stabbing-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man charged with possessing over £300,000 worth of drugs remanded](https://www.derrynow.com/news/local-news/1630532/man-charged-with-possessing-over-300-000-worth-of-drugs-remanded.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Three arrested after death of child in Co Tyrone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three arrested after death of child in Co Tyrone")](https://www.derrynow.com/news/northern-ireland/1629752/three-arrested-after-death-of-child-in-co-tyrone.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Three arrested after death of child in Co Tyrone](https://www.derrynow.com/news/northern-ireland/1629752/three-arrested-after-death-of-child-in-co-tyrone.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man (23) charged with number of drugs offences following weekend seizure in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (23) charged with number of drugs offences following weekend seizure in Derry")](https://www.derrynow.com/news/local-news/1629634/man-23-charged-with-number-of-drugs-offences-following-weekend-seizure-in-derry.html)
+[![Man charged with assaulting Derry businessman at Apprentice Boys parade pleads guilty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with assaulting Derry businessman at Apprentice Boys parade pleads guilty")](https://www.derrynow.com/news/local-news/1630640/man-charged-with-assaulting-derry-businessman-at-apprentice-boys-parade-pleads-guilty.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man (23) charged with number of drugs offences following weekend seizure in Derry](https://www.derrynow.com/news/local-news/1629634/man-23-charged-with-number-of-drugs-offences-following-weekend-seizure-in-derry.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man charged with assaulting Derry businessman at Apprentice Boys parade pleads guilty](https://www.derrynow.com/news/local-news/1630640/man-charged-with-assaulting-derry-businessman-at-apprentice-boys-parade-pleads-guilty.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bail granted for Derry man who breached bail conditions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail granted for Derry man who breached bail conditions")](https://www.derrynow.com/news/local-news/1629648/bail-granted-for-derry-man-who-breached-bail-conditions.html)
+[![Number of vehicles during Derry road safety operation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Number of vehicles during Derry road safety operation")](https://www.derrynow.com/news/local-news/1629990/number-of-vehicles-seized-during-derry-road-safety-operation.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Bail granted for Derry man who breached bail conditions](https://www.derrynow.com/news/local-news/1629648/bail-granted-for-derry-man-who-breached-bail-conditions.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Number of vehicles seized during Derry road safety operation](https://www.derrynow.com/news/local-news/1629990/number-of-vehicles-seized-during-derry-road-safety-operation.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![43-year-old man arrested in Derry under Terrorism Act](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "43-year-old man arrested in Derry under Terrorism Act")](https://www.derrynow.com/news/local-news/1630360/43-year-old-man-arrested-in-derry-under-terrorism-act.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[43-year-old man arrested in Derry under Terrorism Act](https://www.derrynow.com/news/local-news/1630360/43-year-old-man-arrested-in-derry-under-terrorism-act.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry youth relish 'Our Guildhall Our Space' social event](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry youth relish 'Our Guildhall Our Space' social event")](https://www.derrynow.com/story-telling/pictures---videos/1629837/in-pictures-derry-youth-relish-our-guildhall-our-space-social-event.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry youth relish 'Our Guildhall Our Space' social event](https://www.derrynow.com/story-telling/pictures---videos/1629837/in-pictures-derry-youth-relish-our-guildhall-our-space-social-event.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man (31) out after his curfew time remanded in custody](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man (31) out after his curfew time remanded in custody")](https://www.derrynow.com/news/local-news/1630481/derry-man-31-out-after-his-curfew-time-remanded-in-custody.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man (31) out after his curfew time remanded in custody](https://www.derrynow.com/news/local-news/1630481/derry-man-31-out-after-his-curfew-time-remanded-in-custody.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Derry City fans at the Brandywell for Sligo Rovers game](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans at the Brandywell for Sligo Rovers game")](https://www.derrynow.com/story-telling/pictures---videos/1630482/in-pictures-derry-city-fans-at-the-brandywell-for-sligo-rovers-game.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry City fans at the Brandywell for Sligo Rovers game](https://www.derrynow.com/story-telling/pictures---videos/1630482/in-pictures-derry-city-fans-at-the-brandywell-for-sligo-rovers-game.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Throwback Tuesday: Out and About @ Richardson's 100th birthday celebrations (2011)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Richardson's 100th birthday celebrations (2011)")](https://www.derrynow.com/story-telling/pictures---videos/1630083/throwback-tuesday-out-and-about-richardson-s-100th-birthday-celebrations-2011.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ Richardson's 100th birthday celebrations (2011)](https://www.derrynow.com/story-telling/pictures---videos/1630083/throwback-tuesday-out-and-about-richardson-s-100th-birthday-celebrations-2011.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Derry youth relish 'Our Guildhall Our Space' social event](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry youth relish 'Our Guildhall Our Space' social event")](https://www.derrynow.com/story-telling/pictures---videos/1629837/in-pictures-derry-youth-relish-our-guildhall-our-space-social-event.html)
 
@@ -396,20 +408,6 @@ Derry City fans at the Brandywell. Pics by Keith Moore, nwpresspics
 
 [IN PICTURES: Mayor hosts reception for Derry journalist Garrett Hargan](https://www.derrynow.com/story-telling/pictures---videos/1627963/in-pictures-mayor-hosts-reception-for-derry-journalist-garrett-hargan.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Alchemy Technology Services achieve King's Award for Enterprise in International Trade](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Alchemy Technology Services achieve King's Award for Enterprise in International Trade")](https://www.derrynow.com/news/pictures---videos/1627027/pictures-alchemy-technology-services-achieve-king-s-award-for-enterprise-in-international-trade.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Alchemy Technology Services achieve King's Award for Enterprise in International Trade](https://www.derrynow.com/news/pictures---videos/1627027/pictures-alchemy-technology-services-achieve-king-s-award-for-enterprise-in-international-trade.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Mayor's Afro Caribbean themed Tea Dance at Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Mayor's Afro Caribbean themed Tea Dance at Guildhall")](https://www.derrynow.com/news/pictures---videos/1626974/pictures-mayor-s-afro-caribbean-themed-tea-dance-at-guildhall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Mayor's Afro Caribbean themed Tea Dance at Guildhall](https://www.derrynow.com/news/pictures---videos/1626974/pictures-mayor-s-afro-caribbean-themed-tea-dance-at-guildhall.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,51 +509,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1629835/derry-death-notices-tuesday-october-15-2024.html)
+[![Vigil for Gaza on Derry's Peace Bridge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Vigil for Gaza on Derry's Peace Bridge")](https://www.derrynow.com/news/derry-news/1630537/derry-peace-bridge-to-host-weekly-bridgil-for-palestine.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Vigil for Gaza on Derry's Peace Bridge
 
-[Derry Death Notices - Tuesday, October 15 2024](https://www.derrynow.com/news/deaths/1629835/derry-death-notices-tuesday-october-15-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1630206/derry-city-waste-yet-another-opportunity-to-go-top.html)
+[Derry Peace Bridge to host weekly 'Bridgil' for Palestine](https://www.derrynow.com/news/derry-news/1630537/derry-peace-bridge-to-host-weekly-bridgil-for-palestine.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-An early second half equaliser was not enough for Derry City. Pic by Ramsey Cardy/ Sportsfile
+[![Stormont aims to fund Derry airport from April 2025](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stormont aims to fund Derry airport from April 2025")](https://www.derrynow.com/news/derry-news/1630619/stormont-aims-to-fund-derry-airport-from-april-2025.html)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Derry City waste yet another opportunity to go top](https://www.derrynow.com/news/derry-sport/1630206/derry-city-waste-yet-another-opportunity-to-go-top.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Stormont aims to fund Derry airport from April 2025](https://www.derrynow.com/news/derry-news/1630619/stormont-aims-to-fund-derry-airport-from-april-2025.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![First-time Derry show garden designers sought for Bord Bia Bloom](https://www.derrynow.com/resizer/165/93/true/2024_10_14/3-1728913230910.jpg--.jpg?1728913234597 "First-time Derry show garden designers sought for Bord Bia Bloom")](https://www.derrynow.com/news/local-news/1629843/first-time-derry-show-garden-designers-sought-for-bord-bia-bloom.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[First-time Derry show garden designers sought for Bord Bia Bloom](https://www.derrynow.com/news/local-news/1629843/first-time-derry-show-garden-designers-sought-for-bord-bia-bloom.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Number of vehicles during Derry road safety operation](https://www.derrynow.com/resizer/165/93/true/2024_10_14/Road_Safety_op_3-1728920061612.jpg--.jpg?1728920062287 "Number of vehicles during Derry road safety operation")](https://www.derrynow.com/news/local-news/1629990/number-of-vehicles-seized-during-derry-road-safety-operation.html)
+[![Man charged with assaulting Derry businessman at Apprentice Boys parade pleads guilty](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man charged with assaulting Derry businessman at Apprentice Boys parade pleads guilty")](https://www.derrynow.com/news/local-news/1630640/man-charged-with-assaulting-derry-businessman-at-apprentice-boys-parade-pleads-guilty.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Number of vehicles seized during Derry road safety operation](https://www.derrynow.com/news/local-news/1629990/number-of-vehicles-seized-during-derry-road-safety-operation.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man charged with assaulting Derry businessman at Apprentice Boys parade pleads guilty](https://www.derrynow.com/news/local-news/1630640/man-charged-with-assaulting-derry-businessman-at-apprentice-boys-parade-pleads-guilty.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Northern Ireland can be a dangerous place for women, minister tells MLAs](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_14/1728923117944_0.jpg--.jpg?1728923117980 "Northern Ireland can be a dangerous place for women, minister tells MLAs")](https://www.derrynow.com/news/local-news/1630058/northern-ireland-can-be-a-dangerous-place-for-women-minister-tells-mlas.html)
+[![WATCH: Kilrea woman's plea for kidney donor](https://www.derrynow.com/resizer/165/93/true/5e6af1ff8ca6d4da9dcbdd9f800aba1c.jpg--.jpg "WATCH: Kilrea woman's plea for kidney donor")](https://www.derrynow.com/video/local-news/1630455/watch-kilrea-woman-s-plea-for-kidney-donor.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Northern Ireland can be a dangerous place for women, minister tells MLAs](https://www.derrynow.com/news/local-news/1630058/northern-ireland-can-be-a-dangerous-place-for-women-minister-tells-mlas.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[WATCH: Kilrea woman's plea for kidney donor](https://www.derrynow.com/video/local-news/1630455/watch-kilrea-woman-s-plea-for-kidney-donor.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Team Northern Ireland ready for their WKC World Championships in Portugal](https://www.derrynow.com/resizer/165/93/true/2024_10_14/1000043019-1728916108994.jpg--.jpg?1728916109207 "Team Northern Ireland ready for their WKC World Championships in Portugal")](https://www.derrynow.com/news/sport/1629893/derry-represented-in-team-northern-ireland-wkc-world-championships-in-portugal.html)
+[![Derry mural on Badger Bar](https://www.derrynow.com/resizer/165/93/true/2024_10_15/20241015_111256-1728988426468.jpg--.jpg?1728988427343 "Derry mural on Badger Bar")](https://www.derrynow.com/news/derry-news/1630528/derry-pub-remove-controversial-awning-that-blocked-derry-girls-mural.html)
 
-Team Northern Ireland ready for their WKC World Championships in Portugal
+Derry mural on Badger Bar
 
-[Sport](https://www.derrynow.com/section/976/sport)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Derry represented in Team Northern Ireland WKC World Championships in Portugal](https://www.derrynow.com/news/sport/1629893/derry-represented-in-team-northern-ireland-wkc-world-championships-in-portugal.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry pub remove controversial awning that blocked Derry Girls mural](https://www.derrynow.com/news/derry-news/1630528/derry-pub-remove-controversial-awning-that-blocked-derry-girls-mural.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with possessing over £300,000 worth of drugs remanded](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Man charged with possessing over £300,000 worth of drugs remanded")](https://www.derrynow.com/news/local-news/1630532/man-charged-with-possessing-over-300-000-worth-of-drugs-remanded.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with possessing over £300,000 worth of drugs remanded](https://www.derrynow.com/news/local-news/1630532/man-charged-with-possessing-over-300-000-worth-of-drugs-remanded.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
