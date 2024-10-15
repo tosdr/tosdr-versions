@@ -354,6 +354,18 @@ Read More
 Community News
 --------------
 
+[![Addison Mackenzie](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Addison Mackenzie](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/AddisonMackenzie.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/captains-corner-addison-mackenzie-uss-artemis-a-2/)
+
+### [Captain’s Corner – Addison MacKenzie, USS Artemis-A](https://www.starbase118.net/2024/captains-corner-addison-mackenzie-uss-artemis-a-2/)
+
+otterhooligan October 15, 2024
+
+Each month, we interview a captain or first officer of the fleet to gain more insight on what it takes to command a ship and
+
+[Read More »](https://www.starbase118.net/2024/captains-corner-addison-mackenzie-uss-artemis-a-2/)
+
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/07/akira-class-768x480.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/crew-of-the-uss-chintoka-comes-home/)
@@ -377,18 +389,6 @@ Alora DeVeau October 14, 2024
 Over the years, Starbase 118 has had numerous members join our ranks.  Some are with us for a season before they have to take a
 
 [Read More »](https://www.starbase118.net/2024/the-golden-box/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-toxin-arlill-uss-octavia-e-butler-voyager-medallion/)
-
-### [Award Winner – Toxin Arlill, USS Octavia E. Butler – Voyager Medallion](https://www.starbase118.net/2024/award-winner-toxin-arlill-uss-octavia-e-butler-voyager-medallion/)
-
-otterhooligan October 13, 2024
-
-Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
-
-[Read More »](https://www.starbase118.net/2024/award-winner-toxin-arlill-uss-octavia-e-butler-voyager-medallion/)
 
 Ready to get started?
 ---------------------
