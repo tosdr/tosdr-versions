@@ -315,9 +315,8 @@ Table of Contents
 
 ![Copyleaks logo](https://copyleaks.com/wp-content/uploads/2023/07/logo_white.svg)
 
-700 Canal St.
-
-Stamford, CT 06902 USA
+115 E 23rd St.  
+New York, NY 10010 
 
 [Contact Us](https://copyleaks.com/contact-us)
 
