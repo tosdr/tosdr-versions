@@ -14,6 +14,8 @@ Don't forget, stop in for Touchdown Tuesday after every home football game!
 
 ×
 
+×
+
 [skip to main content](#main-content)
 
 [![University Bookstore logo](https://www.bhsubookstore.com/images/logo.webp)](https://www.bhsubookstore.com/default.asp?)
@@ -58,8 +60,6 @@ Cancel
 
 * [Sign In](https://www.bhsubookstore.com/account_login.asp?)
 * [Create Account](https://www.bhsubookstore.com/account_create.asp?)
-
-The bookstore is closed 10-14-2024.
 
 Privacy Policy/Terms of Use
 ===========================
@@ -149,15 +149,15 @@ Begin Footer
 
 |     |     |
 | --- | --- |Store hours
-| Monday | CLOSED |
+| Monday | 8:00AM - 5:00PM |
 | Tuesday | 8:00AM - 5:00PM |
 | Wednesday | 8:00AM - 5:00PM |
 | Thursday | 8:00AM - 5:00PM |
 | Friday | 8:00AM - 5:00PM |
-| Saturday | 10:00AM - 1:00PM |
+| Saturday | CLOSED |
 | Sunday | CLOSED |
 
-Tuesday 8:00AM - 5:00PM CLOSED
+Tuesday 8:00AM - 5:00PM OPEN
 
 [View All Store Hours](https://www.bhsubookstore.com/site_contact_us.asp?)
 
