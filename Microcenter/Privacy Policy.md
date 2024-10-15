@@ -40,7 +40,7 @@ Search for product
     
     Dallas
     
-    Opens 10AM Tue
+    Opens at 10AM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
@@ -114,7 +114,7 @@ Search for product
             
             850 3rd Ave Brooklyn, NY 11232
             
-            9.3 mi
+            9.2 mi
             
             [Shop
             
@@ -126,7 +126,7 @@ Search for product
             
             263 McLean Blvd Route 20 Retail Center Paterson, NJ 07504
             
-            9.8 mi
+            10.3 mi
             
             [Shop
             
@@ -138,7 +138,7 @@ Search for product
             
             71-43 Kissena Blvd Queens, NY 11367
             
-            11.9 mi
+            11.1 mi
             
             [Shop
             
@@ -150,7 +150,7 @@ Search for product
             
             750-A Central Park Ave Yonkers, NY 10704
             
-            12.7 mi
+            12.2 mi
             
             [Shop
             
@@ -162,7 +162,7 @@ Search for product
             
             655 Merrick Ave Westbury, NY 11590
             
-            23.2 mi
+            22.4 mi
             
             [Shop
             
@@ -174,7 +174,7 @@ Search for product
             
             550 E Lancaster Ave Ste C St Davids, PA 19087
             
-            87.8 mi
+            88.5 mi
             
             [Shop
             
@@ -186,7 +186,7 @@ Search for product
             
             1957 E Joppa Rd Parkville, MD 21234
             
-            164.6 mi
+            165.2 mi
             
             [Shop
             
@@ -198,7 +198,7 @@ Search for product
             
             730 Memorial Dr Cambridge, MA 02139
             
-            185.4 mi
+            184.8 mi
             
             [Shop
             
