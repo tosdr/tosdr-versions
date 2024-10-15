@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-096a6b00d44a2a31a2ecb51f429a62fa
+b8c1cf95c45a6f20f665ecc040980e7d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Large fancy agate flat oval beads](https://sojourner.biz/images/cache/stone/STN015.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/large-fancy-agate-flat-oval-beads.html "Large fancy agate flat oval beads")
+[![13 mm flat amber rectangle](https://sojourner.biz/images/cache/glass/GL0365.200.jpg)](https://sojourner.biz/beads/glass/13-mm-flat-amber-rectangle.html "13 mm flat amber rectangle")
 
-#### [Large fancy agate flat oval beads](https://sojourner.biz/beads/stone-m-z/other-stones/large-fancy-agate-flat-oval-beads.html "Large fancy agate flat oval beads")
+#### [13 mm flat amber rectangle](https://sojourner.biz/beads/glass/13-mm-flat-amber-rectangle.html "13 mm flat amber rectangle")
 
-$18.00
+$4.00
 
 ### Best Sellers
 
