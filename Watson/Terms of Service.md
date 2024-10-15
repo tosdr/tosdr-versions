@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)10°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)13°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
+* [France](https://www.watson.ch/fr/france/)
+* [Extrême droite](https://www.watson.ch/fr/extreme-droite/)
+* [Gauche](https://www.watson.ch/fr/gauche/)
+* [Environnement](https://www.watson.ch/fr/environnement/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Police](https://www.watson.ch/fr/police/)
 * [Justice](https://www.watson.ch/fr/justice/)
-* [Valais](https://www.watson.ch/fr/valais/)
-* [France](https://www.watson.ch/fr/france/)
 * [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
 * [Russie](https://www.watson.ch/fr/russie/)
 * [Poutine](https://www.watson.ch/fr/poutine/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
+* [Marine Le Pen](https://www.watson.ch/fr/marine-le-pen/)
 * [Nati](https://www.watson.ch/fr/nati/)
-* [Extrême droite](https://www.watson.ch/fr/extreme-droite/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [Argent](https://www.watson.ch/fr/argent/)
-* [Genève](https://www.watson.ch/fr/geneve/)
-* [Politique](https://www.watson.ch/fr/politique/)
-* [Iran](https://www.watson.ch/fr/iran/)
+* [People](https://www.watson.ch/fr/people/)
+* [Santé](https://www.watson.ch/fr/sante/)
+* [Liban](https://www.watson.ch/fr/liban/)
 * [Football](https://www.watson.ch/fr/football/)
 * [Israël](https://www.watson.ch/fr/israel/)
-* [Liban](https://www.watson.ch/fr/liban/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
