@@ -57,7 +57,6 @@
         * [Festnetztelefone](https://www.telekom.de/zuhause/geraete-und-zubehoer/festnetz-telefone "Festnetztelefone")
         * [Smart Home Geräte](https://www.telekom.de/zuhause/magenta-smarthome "Smart Home Geräte")
     *   ![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg) Heimvernetzung ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
-        * [Vernetztes Zuhause](https://www.telekom.de/festnetz/heimvernetzung "Vernetztes Zuhause")
         * [WLAN Pakete](https://www.telekom.de/festnetz/heimvernetzung/wlan-pakete "WLAN Pakete")
         * [WLAN Optimierung](https://www.telekom.de/festnetz/heimvernetzung/wlan-optimierung "WLAN Optimierung")
         * [Mesh-Technologie](https://www.telekom.de/festnetz/heimvernetzung/mesh-technologie "Mesh-Technologie")
@@ -380,8 +379,6 @@
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
             * Heimvernetzung
-                
-            * [Vernetztes Zuhause](https://www.telekom.de/festnetz/heimvernetzung)
                 
             * [WLAN Pakete](https://www.telekom.de/festnetz/heimvernetzung/wlan-pakete)
                 
