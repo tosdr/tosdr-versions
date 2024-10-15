@@ -184,7 +184,7 @@ Version vom 01.08.2021
         
         freenet Logistik GmbH  
         c/o Media Broadcast GmbH  
-        Fehmernstraße 2  
+        Fehmarnstraße 1  
         24782 Büdelsdorf
         
         Der Kunde trägt die unmittelbaren Kosten der Rücksendung der Waren. Wendet er sich jedoch telefonisch an den Kundenservice der MB (Telefonnummer und Erreichbarkeit unter [www.freenet.tv/kontakt](https://www.freenet.tv/kontakt)), erhält der Kunde eine E-Mail mit einem Link, über den er ein für ihn kostenloses DHL Retourenlabel erstellen, ausdrucken und für die Rücksendung verwenden kann; in diesem Fall trägt der Kunde für die Rücksendung keine Portokosten.  
