@@ -178,7 +178,7 @@
     * [Cruise holidays](https://restless.co.uk/travel/cruises/)
     * [Cultural holidays](https://restless.co.uk/travel/cultural-holidays/)
     * [Cycling holidays](https://restless.co.uk/travel/active-holidays/cycling-holidays/)
-    * [Guided tours](https://restless.co.uk/travel/group-guided-tour-holidays/)
+    * [Tours & guided holidays](https://restless.co.uk/travel/group-guided-tour-holidays/)
     * [Luxury holidays](https://restless.co.uk/travel/luxury-holidays/)
     * [Solo holidays](https://restless.co.uk/travel/solo-traveller-holidays/)
     * [Long-haul holidays](https://restless.co.uk/travel/long-haul-holidays/)
@@ -295,11 +295,11 @@ Travel and holidays
     * [Cruise holidays](https://restless.co.uk/travel/cruises/)
     * [Cultural holidays](https://restless.co.uk/leisure-and-lifestyle/travel/cultural-holidays/)
     * [Cycling holidays](https://restless.co.uk/travel/active-holidays/cycling-holidays/)
-    * [Group & guided tours](https://restless.co.uk/travel/group-guided-tour-holidays/)
     * [Lakes & mountains](https://restless.co.uk/travel/lakes-and-mountains-holidays/)
     * [Long-haul holidays](https://restless.co.uk/travel/long-haul-holidays/)
     * [Luxury holidays](https://restless.co.uk/travel/luxury-holidays/)
     * [Solo travel](https://restless.co.uk/travel/solo-traveller-holidays/)
+    * [Tours & guided holidays](https://restless.co.uk/travel/group-guided-tour-holidays/)
 * [Travel guides](https://restless.co.uk/travel/travel-guides/)
 * [Competitions](https://restless.co.uk/travel/travel-competitions/)
 * [Hotel reviews](https://travel.restless.co.uk/collection/hotel-only)
@@ -374,11 +374,11 @@ Menu
     * [Cruise holidays](https://restless.co.uk/travel/cruises/)
     * [Cultural holidays](https://restless.co.uk/leisure-and-lifestyle/travel/cultural-holidays/)
     * [Cycling holidays](https://restless.co.uk/travel/active-holidays/cycling-holidays/)
-    * [Group & guided tours](https://restless.co.uk/travel/group-guided-tour-holidays/)
     * [Lakes & mountains](https://restless.co.uk/travel/lakes-and-mountains-holidays/)
     * [Long-haul holidays](https://restless.co.uk/travel/long-haul-holidays/)
     * [Luxury holidays](https://restless.co.uk/travel/luxury-holidays/)
     * [Solo travel](https://restless.co.uk/travel/solo-traveller-holidays/)
+    * [Tours & guided holidays](https://restless.co.uk/travel/group-guided-tour-holidays/)
 * [Travel guides](https://restless.co.uk/travel/travel-guides/)
 * [Competitions](https://restless.co.uk/travel/travel-competitions/)
 * [Hotel reviews](https://travel.restless.co.uk/collection/hotel-only)
@@ -438,7 +438,7 @@ Explore holidays by type
 
 ![tour leader](https://media.restless.co.uk/uploads/2019/05/tour-leader-in-mountains-400x200.jpg)
 
-[Group & guided](https://restless.co.uk/travel/group-guided-tour-holidays/)
+[Tours](https://restless.co.uk/travel/group-guided-tour-holidays/)
 
 ![](https://media.restless.co.uk/uploads/2020/12/looking_for_a_challenge_try_one_of_these_6_extreme_adventure_holidays-400x200.jpg)
 
