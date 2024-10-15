@@ -142,6 +142,34 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Oct 14, 2024
+
+> great website and Staff
+
+> great website Keith Chideme was extremely helpful and answered all my quickly and professionally
+
+John Quigley
+
+,
+
+IE
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 14, 2024
+
+> Safari
+
+> Keith was most pleasant and helpful. Planning a Safari can be overwhelming, Keith was insightful and patient. We look forward to sharing our experience upon our return from Africa. Thankyou 🐘
+
+customer
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Oct 10, 2024
 
 > Absolutely great service
@@ -237,34 +265,6 @@ Nico Weitsz
 ,
 
 ZA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 4, 2024
-
-> Keith was so helpful
-
-> Keith was so helpful, against many obstacles, he eventually managed to secure me a place on the train from Victoria Falls
-
-Mouse
-
-,
-
-AU
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 3, 2024
-
-> Shaw was very helpful and knowledgeable in hotels and tours.
-
-> Shaw was very helpful and patience. Answered all the questions about the hotels and tours options. She is very knowledgeable in travel industry and highly recommend her as a personal travel agent.
-
-Yaso Nadesakumaran
-
-,
-
-US
 
 VIP service
 
