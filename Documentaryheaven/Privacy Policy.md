@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Inside The Space Shuttle](/wp-content/thumbnails/6458-100x70.png?x53432)
+* [![Mick Foley: Hardcore Legend](/wp-content/thumbnails/8493-100x70.jpg?x53432)
     
-    Inside The Space Shuttle
+    Mick Foley: Hardcore Legend
     
-    This documentary takes the viewer inside NASA’s space shuttle for a close-up look at the most advanced flying machine ever built. Actor Gary Sinise narrates the history of the space shuttle’s developm](https://documentaryheaven.com/inside-the-space-shuttle/ "Inside The Space Shuttle")
-* [![The Science of Acupuncture](/wp-content/thumbnails/8746-100x70.jpg?x53432)
+    A behind the scenes look into the world of Mick Foley, the professional wrestler who was best known for his outrageous hardcore matches where anything goes, from landing in a bed of thumbtacks to gett](https://documentaryheaven.com/mick-foley-hardcore-legend/ "Mick Foley: Hardcore Legend")
+* [![EP 3/6 The Private Life of Plants](/wp-content/thumbnails/2491-100x70.jpg?x53432)
     
-    The Science of Acupuncture
+    EP 3/6 The Private Life of Plants
     
-    BBC Documentary on Traditional Chinese Medicine. For thousands of years, what we now think of as Complementary and Alternative Medicine (CAM) was the only medicine; now, traditional cures are being tr](https://documentaryheaven.com/science-of-acupuncture/ "The Science of Acupuncture")
-* [![Fires of Kuwait](/wp-content/thumbnails/4104-100x70.jpg?x53432)
+    Broadcast 19 January 1995, the next instalment is devoted to the ways in which plants reproduce. Pollen and a stigma are the two components needed for fertilisation. Most plants carry both these withi](https://documentaryheaven.com/the-private-life-of-plants-3/ "EP 3/6 The Private Life of Plants")
+* [![Living in the End Times (According to Slavoj Zizek)](/wp-content/thumbnails/4696-100x70.jpg?x53432)
     
-    Fires of Kuwait
+    Living in the End Times (According to Slavoj Zizek)
     
-    The Kuwaiti oil fires were a result of the scorched earth policy of Iraqi military forces retreating from Kuwait in 1991 after conquering the country; but being driven out by Coalition military forces](https://documentaryheaven.com/fires-of-kuwait/ "Fires of Kuwait")
-* [![Age of Extremes](/wp-content/thumbnails/4875-100x70.jpg?x53432)
+    Slovenian philosopher Slavoj Zizek, akaThe Elvis of cultural theory, is given the floor to show of his polemic style and whirlwind-like performance. The Giant of Ljubljana is bombarded with clips of](https://documentaryheaven.com/living-in-the-end-times-slavoj-zizek/ "Living in the End Times (According to Slavoj Zizek)")
+* [![Who Were the Greeks?](/wp-content/thumbnails/8014-100x70.jpg?x53432)
     
-    Age of Extremes
+    Who Were the Greeks?
     
-    Age of Extremes follows an array of British Muslims from different socio-cultural backgrounds and viewpoints, discussing the War on Terror, its implications for British Muslims and impact on community](https://documentaryheaven.com/age-of-extremes/ "Age of Extremes")
-* [![UFOs Secret: Russian Roswell](/wp-content/thumbnails/1153-100x70.jpg?x53432)
+    A two part documentary published by the BBC, exploring the ancient Greeks and their way of life.Episode 1:Classicist Dr Michael Scott uncovers the strange, alien world of the ancient Greeks, e](https://documentaryheaven.com/who-were-greeks/ "Who Were the Greeks?")
+* [![The U.S. vs. John Lennon](/wp-content/thumbnails/2888-100x70.jpg?x53432)
     
-    UFOs Secret: Russian Roswell
+    The U.S. vs. John Lennon
     
-    A UFO crash site allegedly filmed by the Russian KGB in March of 1969 in the Sverdlovsk region of Russia. The footage was later obtained by documentary filmmakers who then published the movie, "The Se](https://documentaryheaven.com/ufos-secret-russian-roswell/ "UFOs Secret: Russian Roswell")
+    A fascinating account of a relatively unknown piece of political history. Before the Iraq war and the Bush Administration, there was John Lennon, who used his fame and fortune to protest the Vietnam W](https://documentaryheaven.com/the-u-s-vs-john-lennon/ "The U.S. vs. John Lennon")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
