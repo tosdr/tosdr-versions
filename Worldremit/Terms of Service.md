@@ -11,8 +11,6 @@ Terms and Conditions
 
   
 
-[Terms and Conditions | United States (effective before October 11, 2024)](https://www.worldremit.com/en/about-us/terms-and-conditions-us-jan-2024)
-
 [**Download**](https://assets.ctfassets.net/sb7j5o4oxtgv/6CbmpKy9yhve5QN8AxOq2N/58e475380e6efd3aec922979247cccec/WR-English_WorldRemit_Draft_US_User_Terms.pdf)
 
   
