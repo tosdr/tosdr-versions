@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-66fe9959a381b3de49482efb48fff06b
+4bbf8a327f8ecc4895e5f81c711caae7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Tiny pink and green clasp](https://www.sojourner.biz/images/cache/SKU0324front.200.jpg)](https://www.sojourner.biz/clasps/glass/tiny-pink-and-green-clasp.html "Tiny pink and green clasp")
+[![12 mm silver coin pearls](https://www.sojourner.biz/images/cache/pearls/PE0210.200.jpg)](https://www.sojourner.biz/beads/pearls/12-mm-silver-coin-pearls.html "12 mm silver coin pearls")
 
-#### [Tiny pink and green clasp](https://www.sojourner.biz/clasps/glass/tiny-pink-and-green-clasp.html "Tiny pink and green clasp")
+#### [12 mm silver coin pearls](https://www.sojourner.biz/beads/pearls/12-mm-silver-coin-pearls.html "12 mm silver coin pearls")
 
-$14.00
+$18.00
 
 ### Best Sellers
 
