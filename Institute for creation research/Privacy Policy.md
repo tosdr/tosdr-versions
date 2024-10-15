@@ -96,6 +96,70 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/brainsvisualperception_1400x1050.jpg)](https://www.icr.org/article/brains-visual-perception)
+
+[The Brain's Amazing Ability of Visual Perception](https://www.icr.org/article/brains-visual-perception/)
+
+Scientists will never fully understand the brain’s operation.1,2,3 As neurological research continues, it will only reveal more...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/saturns_rings_1400x1050.jpg)](https://www.icr.org/article/reminder-saturns-rings)
+
+[Reminder: Saturn’s Rings Are Ephemeral and Young](https://www.icr.org/article/reminder-saturns-rings/)
+
+Scientists recently demonstrated that infalling particles from Saturn’s rings are the most likely source of a previously unaccounted-for excess...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/NeanderCrab_1400x1050.jpg)](https://www.icr.org/article/neanderthal-crab-bake)
+
+[Neanderthal Crab Bake](https://www.icr.org/article/neanderthal-crab-bake/)
+
+The evolutionary community said it perfectly in their headlines: “Proof that Neanderthals ate crabs is another 'nail in the coffin' for...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/56200791/file.jpg)
+
+Carved in Stone eBook](https://store.icr.org/carved-in-stone-ebook.html)
+
+$19.99
+
+$39.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/11930827/file.jpg)
+
+Pack: Big Plans for Henry](https://store.icr.org/pack-big-plans-for-henry.html)
+
+$15.99
+
+$21.98
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9184100/file.jpg)
+
+Big Plans for Henry - eBook](https://store.icr.org/big-plans-for-henry-ebook.html)
+
+$4.99
+
+$8.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/56265926/file.jpg)
+
+Carved in Stone](https://store.icr.org/carved-in-stone.html)
+
+$39.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/36502300/file.jpg)
+
+Henry Explores the New World](https://store.icr.org/henry-explores-the-new-world.html)
+
+$8.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
