@@ -308,7 +308,6 @@ Advertise
 
 ### [Why Nelson Mandela’s election was a turning point for this CEO](https://www.afr.com/work-and-careers/workplace/why-nelson-mandela-s-election-was-a-turning-point-for-this-ceo-20241014-p5ki0u)
 
-* 53 mins ago
 * Euan Black, Sally Patten and Lap Phan
 
 * ### [Solomon Lew reveals why he is still obsessed with Myer](https://www.afr.com/work-and-careers/workplace/solomon-lew-reveals-why-he-is-still-obsessed-with-myer-20240925-p5kdfp)
@@ -323,7 +322,6 @@ Advertise
 
 ### [This robot will do battle with your lawn, no matter the cost](https://www.afr.com/technology/this-robot-will-do-battle-with-your-lawn-no-matter-the-cost-20241010-p5khbq)
 
-* 53 mins ago
 * John Davidson
 
 * ### [A ‘practice makes perfect’ kind of sport](https://www.afr.com/life-and-luxury/health-and-wellness/a-practice-makes-perfect-kind-of-sport-20240930-p5kekg)
