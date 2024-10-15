@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/EADHERO-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/SDSSHERO-250x141.jpg)
     
-    Take a break for Employee Appreciation Day](https://www.unc.edu/posts/2024/10/14/take-a-break-for-employee-appreciation-day/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/HypeHero-250x141.jpg)
+    University approves new risk management minor](https://www.unc.edu/posts/2024/10/15/university-approves-new-risk-management-minor/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/FallBreak-250x141.jpg)
     
-    Numbers tell Carolina’s story](https://www.unc.edu/posts/2024/10/11/numbers-tell-carolinas-story/)
+    Resources, events open to students over fall break](https://www.unc.edu/posts/2024/10/15/resources-events-open-to-students-over-fall-break/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=8d4991d700&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=238c8d5a36&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
