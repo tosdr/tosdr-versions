@@ -19,7 +19,7 @@
     
     * [![Dash logo](https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/dash-logo-nav.svg?id=0eaff5fa-ffc5-41dd-bba1-4f05c5e32205)
         
-        Dash (beta)Quickly find, organize, and share work content](https://dash.dropbox.com/)
+        DashFind, organize, and protect company content](https://dash.dropbox.com/)
     * [![DocSend logo](https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/DocSend-logo-nav.svg?id=27f665ce-74c5-4746-8b8c-61cd9e34aadd)
         
         DocSendSend documents securely and track activity](https://www.dropbox.com/docsend)
@@ -89,7 +89,7 @@
     
     * [![Dash logo](https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/dash-logo-nav.svg?id=0eaff5fa-ffc5-41dd-bba1-4f05c5e32205)
         
-        Dash (beta)Quickly find, organize, and share work content](https://dash.dropbox.com/)
+        DashFind, organize, and protect company content](https://dash.dropbox.com/)
     * [![DocSend logo](https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/DocSend-logo-nav.svg?id=27f665ce-74c5-4746-8b8c-61cd9e34aadd)
         
         DocSendSend documents securely and track activity](https://www.dropbox.com/docsend)
@@ -352,7 +352,7 @@ If you don’t agree to the updates we make, please cancel your account and stop
 * [Professional](https://www.dropbox.com/pro)
 * [Business](https://www.dropbox.com/business)
 * [Enterprise](https://www.dropbox.com/enterprise)
-* [Dash (beta)](https://dash.dropbox.com/)
+* [Dash](https://dash.dropbox.com/)
 * [Dropbox Sign](https://sign.dropbox.com/)
 * [DocSend](https://www.docsend.com/?utm_medium=Referral&utm_source=Dropbox%20Web%20Referral&utm_campaign=dbx-footer)
 * [Plans](https://www.dropbox.com/plans?trigger=nr)
