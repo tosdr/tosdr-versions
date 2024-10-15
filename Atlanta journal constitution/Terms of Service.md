@@ -1,6 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Fulton judge rules that election certification is mandatory in Georgia](https://www.ajc.com/politics/a-judge-ruled-that-county-election-board-members-in-georgia-must-certify-elections/635RIP3ILBC4ZH5AGMMSQXPYBQ/)
+[Breaking: Super Bowl set to return to Atlanta for the fourth time](https://www.ajc.com/sports/atlanta-falcons/super-bowl-set-to-return-to-atlanta-for-the-fourth-time/DHXL7PJDCFB2NJEZPDX4DHED6U/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1736)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1736)](https://www.ajc.com/)
 
@@ -18,7 +18,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/its-a-random-act-of-kindness/PN33ZEWM4JGWZMHMSREZEPQ54M/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
