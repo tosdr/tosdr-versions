@@ -218,18 +218,18 @@ This site is protected by FingerprintJS and its [privacy policy](https://dev.fin
 
 ### Newest members
 
+* [![faczx](/data/avatars/s/107/107205.jpg?1728948484)](http://hackvshack.net/members/faczx.107205/)
+* [![kingjne1](/data/avatars/s/107/107204.jpg?1728946912)](http://hackvshack.net/members/kingjne1.107204/)
+* [![mattwga](/data/avatars/s/107/107203.jpg?1728943168)](http://hackvshack.net/members/mattwga.107203/)
+* [](http://hackvshack.net/members/adasdsa.107202/)
+* [![CL4VR](/data/avatars/s/107/107201.jpg?1728942290)](http://hackvshack.net/members/cl4vr.107201/)
+* [](http://hackvshack.net/members/covari9224chai.107200/)
+* [](http://hackvshack.net/members/nikitabezenov29.107199/)
+* [![D1rakol](/data/avatars/s/107/107198.jpg?1728938136)](http://hackvshack.net/members/d1rakol.107198/)
+* [![Nathanielbb](/data/avatars/s/107/107197.jpg?1728937476)](http://hackvshack.net/members/nathanielbb.107197/)
+* [![teuhhhhh](/data/avatars/s/107/107196.jpg?1728937451)](http://hackvshack.net/members/teuhhhhh.107196/)
 * [![Feligiusz](/data/avatars/s/107/107195.jpg?1728935374)](http://hackvshack.net/members/feligiusz.107195/)
 * [![codrin](/data/avatars/s/107/107194.jpg?1728934575)](http://hackvshack.net/members/codrin.107194/)
-* [![misp](/data/avatars/s/107/107193.jpg?1728933825)](http://hackvshack.net/members/misp.107193/)
-* [](http://hackvshack.net/members/kvatikote.107192/)
-* [![skibidisop2](/data/avatars/s/107/107191.jpg?1728933328)](http://hackvshack.net/members/skibidisop2.107191/)
-* [![dvr1k](/data/avatars/s/107/107190.jpg?1728933257)](http://hackvshack.net/members/dvr1k.107190/)
-* [![Sketchi](/data/avatars/s/107/107189.jpg?1728933148)](http://hackvshack.net/members/sketchi.107189/)
-* [](http://hackvshack.net/members/hsn.107188/)
-* [![tomtom25](/data/avatars/s/107/107187.jpg?1728931432)](http://hackvshack.net/members/tomtom25.107187/)
-* [![aqumaraze](/data/avatars/s/107/107186.jpg?1728930696)](http://hackvshack.net/members/aqumaraze.107186/)
-* [](http://hackvshack.net/members/anonimousbr.107185/)
-* [](http://hackvshack.net/members/stingerenek-gma.107184/)
 
 ### Partners
 
@@ -245,19 +245,19 @@ HvH League [unmatched.gg](https://unmatched.gg/)
 
 Threads
 
-2,651
+2,652
 
 Messages
 
-22,622
+22,625
 
 Members
 
-107,195
+107,205
 
 Latest member
 
-[Feligiusz](http://hackvshack.net/members/feligiusz.107195/)
+[faczx](http://hackvshack.net/members/faczx.107205/)
 
 Most visitors online was 3958 , on 5 Aug 2024
 
@@ -265,15 +265,15 @@ Most visitors online was 3958 , on 5 Aug 2024
 
 Members online
 
-60
+22
 
 Guests online
 
-151
+140
 
 Total visitors
 
-211
+162
 
 Totals may include hidden visitors.
 
