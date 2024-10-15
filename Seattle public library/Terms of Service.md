@@ -1,8 +1,3 @@
-* **The Seattle Public Library Is Closed On Indigenous Peoples' Day**
-    
-    All locations of The Seattle Public Library and book returns at the Central Library will be closed on Indigenous Peoples' Day, Monday, October 14.  
-    
-
 [Skip to Main Content](https://www.spl.org/about-us/policies/online-privacy-and-terms-of-use#main-content)
 
  [![The Seattle Public Library logo](/Seattle-Public-Library/images/Header-images/logo-white.svg) ![The Seattle Public Library logo graphic](/Seattle-Public-Library/images/Header-images/spl-stickylogo.png)](https://www.spl.org/ "SPL - Home")
