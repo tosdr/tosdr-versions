@@ -14,15 +14,15 @@ Change language
 
 View desktop website
 
-![](https://store.akamai.steamstatic.com/public/shared/images/responsive/logo_valve_footer.png)
+![](https://store.steamstatic.com/public/shared/images/responsive/logo_valve_footer.png)
 
 © Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries. [Privacy Policy](https://store.steampowered.com/privacy_agreement/?snr=1_5_9__global-responsive-menu)  |  [Legal](http://www.valvesoftware.com/legal.htm)  |  [Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/?snr=1_5_9__global-responsive-menu)  |  [Refunds](https://store.steampowered.com/steam_refunds/?snr=1_5_9__global-responsive-menu)
 
-![](https://store.akamai.steamstatic.com/public/shared/images/responsive/header_menu_hamburger.png)
+![](https://store.steamstatic.com/public/shared/images/responsive/header_menu_hamburger.png)
 
-[![STEAM](https://store.akamai.steamstatic.com/public/shared/images/responsive/header_logo.png)](https://store.steampowered.com/?snr=1_5_9__global-responsive-menu)
+[![STEAM](https://store.steamstatic.com/public/shared/images/responsive/header_logo.png)](https://store.steampowered.com/?snr=1_5_9__global-responsive-menu)
 
-[![Link to the Steam Homepage](https://store.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016)](https://store.steampowered.com/?snr=1_5_9__global-header)
+[![Link to the Steam Homepage](https://store.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016)](https://store.steampowered.com/?snr=1_5_9__global-header)
 
 [STORE](https://store.steampowered.com/?snr=1_5_9__global-header)
 
@@ -134,7 +134,7 @@ Player Support
 
 [Points Shop](https://store.steampowered.com/points/?snr=1_5_9__12) [News](https://store.steampowered.com/news/?snr=1_5_9__12) [Labs](https://store.steampowered.com/labs/?snr=1_5_9__12)
 
- [![](https://store.akamai.steamstatic.com/public/images/blank.gif)](#)
+ [![](https://store.steamstatic.com/public/images/blank.gif)](#)
 
  
 
@@ -142,13 +142,13 @@ Player Support
 
 [Community Hub](https://steamcommunity.com/app/962730)
 
-![](https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
+![](https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
 
 Skater XL - The Ultimate Skateboarding Game
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/header.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/header.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/header.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/header.jpg?t=1727199884)
 
 Skater XL - The Ultimate Skateboarding Game
 
@@ -168,7 +168,7 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Very Positive (59) \- 84% of the 59 user reviews in the last 30 days are positive.
+Very Positive (60) \- 85% of the 60 user reviews in the last 30 days are positive.
 
 All Reviews:
 
@@ -202,89 +202,89 @@ Very Positive (86% of 18,125) All Time
 
 Recent Reviews:
 
-Very Positive (84% of 59) Recent
+Very Positive (85% of 60) Recent
 
-![](https://store.akamai.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
+![](https://store.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
-[![](https://store.akamai.steamstatic.com/public/images/blank.gif)](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_fff8ba046548e8f178f86a21595e1fa6ed3b5090.1920x1080.jpg?t=1727199884)
+[![](https://store.steamstatic.com/public/images/blank.gif)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_fff8ba046548e8f178f86a21595e1fa6ed3b5090.1920x1080.jpg?t=1727199884)
 
-[![](https://store.akamai.steamstatic.com/public/images/blank.gif)](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_990ff791ec8eaa16075699a0e40a4c1d51b15e0b.1920x1080.jpg?t=1727199884)
+[![](https://store.steamstatic.com/public/images/blank.gif)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_990ff791ec8eaa16075699a0e40a4c1d51b15e0b.1920x1080.jpg?t=1727199884)
 
-[![](https://store.akamai.steamstatic.com/public/images/blank.gif)](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_5245e0741ad1ea3ba326256b66148b244f114902.1920x1080.jpg?t=1727199884)
+[![](https://store.steamstatic.com/public/images/blank.gif)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_5245e0741ad1ea3ba326256b66148b244f114902.1920x1080.jpg?t=1727199884)
 
-[![](https://store.akamai.steamstatic.com/public/images/blank.gif)](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_231e53f80fc8083158f6cc6a89c3d78517452a14.1920x1080.jpg?t=1727199884)
+[![](https://store.steamstatic.com/public/images/blank.gif)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_231e53f80fc8083158f6cc6a89c3d78517452a14.1920x1080.jpg?t=1727199884)
 
-[![](https://store.akamai.steamstatic.com/public/images/blank.gif)](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_c26d437200169b618a9fe3285617b3bbdf712766.1920x1080.jpg?t=1727199884)
+[![](https://store.steamstatic.com/public/images/blank.gif)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_c26d437200169b618a9fe3285617b3bbdf712766.1920x1080.jpg?t=1727199884)
 
-[![](https://store.akamai.steamstatic.com/public/images/blank.gif)](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_d3f4ed98bdaff9c2d0d294779831376c74355268.1920x1080.jpg?t=1727199884)
+[![](https://store.steamstatic.com/public/images/blank.gif)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_d3f4ed98bdaff9c2d0d294779831376c74355268.1920x1080.jpg?t=1727199884)
 
-[![](https://store.akamai.steamstatic.com/public/images/blank.gif)](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_101bbf9128f6316dc6e04ee31bbaa41d855c5753.1920x1080.jpg?t=1727199884)
+[![](https://store.steamstatic.com/public/images/blank.gif)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_101bbf9128f6316dc6e04ee31bbaa41d855c5753.1920x1080.jpg?t=1727199884)
 
-[![](https://store.akamai.steamstatic.com/public/images/blank.gif)](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_32f2a1bee710de3417567143e27881d70d3731a2.1920x1080.jpg?t=1727199884)
+[![](https://store.steamstatic.com/public/images/blank.gif)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_32f2a1bee710de3417567143e27881d70d3731a2.1920x1080.jpg?t=1727199884)
 
-[![](https://store.akamai.steamstatic.com/public/images/blank.gif)](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_c23a12b695b712760f1e534ea59afe3403897935.1920x1080.jpg?t=1727199884)
+[![](https://store.steamstatic.com/public/images/blank.gif)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_c23a12b695b712760f1e534ea59afe3403897935.1920x1080.jpg?t=1727199884)
 
-[![](https://store.akamai.steamstatic.com/public/images/blank.gif)](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_b62a28d85048ce0b15762aafe7d6431bd6d25130.1920x1080.jpg?t=1727199884)
+[![](https://store.steamstatic.com/public/images/blank.gif)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_b62a28d85048ce0b15762aafe7d6431bd6d25130.1920x1080.jpg?t=1727199884)
 
-[![](https://store.akamai.steamstatic.com/public/images/blank.gif)](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_eeaa995c3f432febc3d44003b93de89af94b58bf.1920x1080.jpg?t=1727199884)
+[![](https://store.steamstatic.com/public/images/blank.gif)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_eeaa995c3f432febc3d44003b93de89af94b58bf.1920x1080.jpg?t=1727199884)
 
-[![](https://store.akamai.steamstatic.com/public/images/blank.gif)](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_10639cf18e5698babed60596ce2e18d8a6ace91c.1920x1080.jpg?t=1727199884)
+[![](https://store.steamstatic.com/public/images/blank.gif)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_10639cf18e5698babed60596ce2e18d8a6ace91c.1920x1080.jpg?t=1727199884)
 
-[![](https://store.akamai.steamstatic.com/public/images/blank.gif)](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_da2580e59ec7a9ace9751582a72454080832661b.1920x1080.jpg?t=1727199884)
+[![](https://store.steamstatic.com/public/images/blank.gif)](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_da2580e59ec7a9ace9751582a72454080832661b.1920x1080.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256933514/movie.184x123.jpg?t=1677776047)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256933514/movie.184x123.jpg?t=1677776047)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256933510/movie.184x123.jpg?t=1727199771)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256933510/movie.184x123.jpg?t=1727199771)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_fff8ba046548e8f178f86a21595e1fa6ed3b5090.116x65.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_fff8ba046548e8f178f86a21595e1fa6ed3b5090.116x65.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_990ff791ec8eaa16075699a0e40a4c1d51b15e0b.116x65.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_990ff791ec8eaa16075699a0e40a4c1d51b15e0b.116x65.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_5245e0741ad1ea3ba326256b66148b244f114902.116x65.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_5245e0741ad1ea3ba326256b66148b244f114902.116x65.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_231e53f80fc8083158f6cc6a89c3d78517452a14.116x65.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_231e53f80fc8083158f6cc6a89c3d78517452a14.116x65.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_c26d437200169b618a9fe3285617b3bbdf712766.116x65.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_c26d437200169b618a9fe3285617b3bbdf712766.116x65.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_d3f4ed98bdaff9c2d0d294779831376c74355268.116x65.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_d3f4ed98bdaff9c2d0d294779831376c74355268.116x65.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_101bbf9128f6316dc6e04ee31bbaa41d855c5753.116x65.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_101bbf9128f6316dc6e04ee31bbaa41d855c5753.116x65.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_32f2a1bee710de3417567143e27881d70d3731a2.116x65.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_32f2a1bee710de3417567143e27881d70d3731a2.116x65.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_c23a12b695b712760f1e534ea59afe3403897935.116x65.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_c23a12b695b712760f1e534ea59afe3403897935.116x65.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_b62a28d85048ce0b15762aafe7d6431bd6d25130.116x65.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_b62a28d85048ce0b15762aafe7d6431bd6d25130.116x65.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_eeaa995c3f432febc3d44003b93de89af94b58bf.116x65.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_eeaa995c3f432febc3d44003b93de89af94b58bf.116x65.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_10639cf18e5698babed60596ce2e18d8a6ace91c.116x65.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_10639cf18e5698babed60596ce2e18d8a6ace91c.116x65.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/ss_da2580e59ec7a9ace9751582a72454080832661b.116x65.jpg?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/ss_da2580e59ec7a9ace9751582a72454080832661b.116x65.jpg?t=1727199884)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256845781/movie.184x123.jpg?t=1646100545)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256845781/movie.184x123.jpg?t=1646100545)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256855108/movie.184x123.jpg?t=1646100549)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256855108/movie.184x123.jpg?t=1646100549)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256849566/movie.184x123.jpg?t=1630358982)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256849566/movie.184x123.jpg?t=1630358982)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256829528/movie.184x123.jpg?t=1617993042)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256829528/movie.184x123.jpg?t=1617993042)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256825535/movie.184x123.jpg?t=1615487931)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256825535/movie.184x123.jpg?t=1615487931)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819297/movie.184x123.jpg?t=1614805106)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256819297/movie.184x123.jpg?t=1614805106)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256794052/movie.184x123.jpg?t=1595948742)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256794052/movie.184x123.jpg?t=1595948742)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256794202/movie.184x123.jpg?t=1595948750)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256794202/movie.184x123.jpg?t=1595948750)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256794074/movie.184x123.jpg?t=1595948758)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256794074/movie.184x123.jpg?t=1595948758)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256794203/movie.184x123.jpg?t=1595948765)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256794203/movie.184x123.jpg?t=1595948765)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256794073/movie.184x123.jpg?t=1595948773)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256794073/movie.184x123.jpg?t=1595948773)
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256794053/movie.184x123.jpg?t=1595948780)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256794053/movie.184x123.jpg?t=1595948780)
 
 [Sign in](https://store.steampowered.com/login/?redir=app%2F962730&snr=1_5_9_) to add this item to your wishlist, follow it, or mark it as ignored
 
@@ -292,11 +292,11 @@ Links & info
 
 Features
 
-[![](https://store.akamai.steamstatic.com/public/images/v6/ico/ico_singlePlayer.png)
+[![](https://store.steamstatic.com/public/images/v6/ico/ico_singlePlayer.png)
 
-Single-player](https://store.steampowered.com/search/?category2=2&snr=1_5_9__423)[![](https://store.akamai.steamstatic.com/public/images/v6/ico/ico_coop.png)
+Single-player](https://store.steampowered.com/search/?category2=2&snr=1_5_9__423)[![](https://store.steamstatic.com/public/images/v6/ico/ico_coop.png)
 
-Online Co-op](https://store.steampowered.com/search/?category2=38&snr=1_5_9__423)[![](https://store.akamai.steamstatic.com/public/images/v6/ico/ico_familysharing.png)
+Online Co-op](https://store.steampowered.com/search/?category2=38&snr=1_5_9__423)[![](https://store.steamstatic.com/public/images/v6/ico/ico_familysharing.png)
 
 Family Sharing](https://store.steampowered.com/search/?category2=62&snr=1_5_9__423)
 
@@ -322,7 +322,7 @@ See all 7 supported languages
 
 Ratings
 
-![](https://store.akamai.steamstatic.com/public/shared/images/game_ratings/ESRB/e.png?v=2)
+![](https://store.steamstatic.com/public/shared/images/game_ratings/ESRB/e.png?v=2)
 
 Age rating for: ESRB
 
@@ -336,25 +336,25 @@ Age rating for: ESRB
 **Release Date:** Jul 28, 2020  
 **Early Access Release Date:** Dec 19, 2018  
 
-[Visit the website ![](https://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.skaterxl.com)  [Instagram ![](https://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.instagram.com%2Fskater.xl%2F)  [YouTube ![](https://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif)](https://www.youtube.com/channel/UCpBQRZl7apZt_LQXKgqKQiQ/)  [Facebook ![](https://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.facebook.com%2FSkater-XL-199597780921060%2F)  [X ![](https://store.akamai.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fx.com%2Fskater_xl)  [View update history](https://store.steampowered.com/newshub/?appids=962730&snr=1_5_9__408) [Read related news](https://store.steampowered.com/newshub/app/962730?snr=1_5_9__408) [View discussions](https://steamcommunity.com/app/962730/discussions/) [Find Community Groups](https://steamcommunity.com/actions/Search?T=ClanAccount&K=Skater%20XL%20-%20The%20Ultimate%20Skateboarding%20Game)
+[Visit the website ![](https://store.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.skaterxl.com)  [Instagram ![](https://store.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.instagram.com%2Fskater.xl%2F)  [YouTube ![](https://store.steamstatic.com/public/images/v5/ico_external_link.gif)](https://www.youtube.com/channel/UCpBQRZl7apZt_LQXKgqKQiQ/)  [Facebook ![](https://store.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.facebook.com%2FSkater-XL-199597780921060%2F)  [X ![](https://store.steamstatic.com/public/images/v5/ico_external_link.gif)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fx.com%2Fskater_xl)  [View update history](https://store.steampowered.com/newshub/?appids=962730&snr=1_5_9__408) [Read related news](https://store.steampowered.com/newshub/app/962730?snr=1_5_9__408) [View discussions](https://steamcommunity.com/app/962730/discussions/) [Find Community Groups](https://steamcommunity.com/actions/Search?T=ClanAccount&K=Skater%20XL%20-%20The%20Ultimate%20Skateboarding%20Game)
 
 [Share](#) [Embed](#)  [](javascript:void(0))
 
-![](https://store.akamai.steamstatic.com/public/shared/images/icon_share_android.svg)
+![](https://store.steamstatic.com/public/shared/images/icon_share_android.svg)
 
-[![](https://store.akamai.steamstatic.com/public/shared/images/icon_report.svg)](javascript:void(0))
+[![](https://store.steamstatic.com/public/shared/images/icon_report.svg)](javascript:void(0))
 
 56
 
 metacritic
 
-[Read Critic Reviews](https://www.metacritic.com/game/pc/skater-xl?ftag=MCD-06-10aaa1f) ![](https://store.akamai.steamstatic.com/public/images/ico/iconExternalLink.gif)
+[Read Critic Reviews](https://www.metacritic.com/game/pc/skater-xl?ftag=MCD-06-10aaa1f) ![](https://store.steamstatic.com/public/images/ico/iconExternalLink.gif)
 
 Awards
 
 Awards
 
-![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/962730/extras/judges_choice.png?t=1727199884)
+![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/962730/extras/judges_choice.png?t=1727199884)
 
     
 
@@ -401,7 +401,7 @@ Customizable Characters - The possibilities are endless to personalize the Skate
   
 Trick Challenges - Hundreds of challenges with progressive difficulties, to help build your bag of tricks as you move further toward the completing them all. Can check off the entire list??  
   
-Dive into a passionate community with more than 100,000 members in Discord (the biggest Discord in the World for reference is Fortnite at 500k, amazing given that Skater XL is still in Early Access!) who create online zines, video parts, fakeskate brands, and hundreds of mods. Players can become part of a bigger ecosystem and join the digital skateboarding subculture where they can share their creativity on the newly launched Skater XL modding hub, [Skaterxl.mod.io.](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fskaterxl.mod.io%2F)  
+Dive into a passionate community with more than 100,000 members in Discord (the biggest Discord in the World for reference is Fortnite at 500k, amazing given that Skater XL is still in Early Access!) who create online zines, video parts, fakeskate brands, and hundreds of mods. Players can become part of a bigger ecosystem and join the digital skateboarding subculture where they can share their creativity on the newly launched Skater XL modding hub, Skaterxl.mod.io.  
   
 Legit Soundtrack - Modest Mouse, Getter, Interpol, Animal Collective, Future Islands and Band Of Horses headline the distinctive music that blends well with the Skater XL’s West Coast vibe and fluid physics-based control mechanics.  
   
@@ -449,7 +449,7 @@ System Requirements
 What Curators Say
 -----------------
 
-102 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
+98 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
 
 Customer reviews for Skater XL - The Ultimate Skateboarding Game
 ----------------------------------------------------------------
@@ -458,11 +458,11 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,125 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,125 reviews) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
-Very Positive (59 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (60 reviews) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Review Type
 
@@ -473,13 +473,13 @@ Review Type
 Purchase Type
 
  All (19,262)  
- Steam Purchasers (18,125) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
- Other (1,137) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
+ Steam Purchasers (18,125) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ Other (1,137) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
  All Languages (19,262)  
- Your Languages (13,309) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ Your Languages (13,308) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
 
@@ -531,7 +531,7 @@ Show graph Hide graph 
 
 Filters
 
-![](https://store.akamai.steamstatic.com/public/images/bigpicture/icon_settings.png)Filters
+![](https://store.steamstatic.com/public/images/bigpicture/icon_settings.png)Filters
 
 Excluding Off-topic Review Activity
 
@@ -539,15 +539,15 @@ Playtime:
 
 Played Mostly on Steam Deck
 
-![](https://store.akamai.steamstatic.com/public/shared/images/throbber.gif) Loading reviews...
+![](https://store.steamstatic.com/public/shared/images/throbber.gif) Loading reviews...
 
-![](https://store.akamai.steamstatic.com/public/shared/images/throbber.gif) Loading reviews...
+![](https://store.steamstatic.com/public/shared/images/throbber.gif) Loading reviews...
 
-![](https://store.akamai.steamstatic.com/public/shared/images/throbber.gif) Loading reviews...
+![](https://store.steamstatic.com/public/shared/images/throbber.gif) Loading reviews...
 
-![](https://store.akamai.steamstatic.com/public/shared/images/throbber.gif) Loading reviews...
+![](https://store.steamstatic.com/public/shared/images/throbber.gif) Loading reviews...
 
-![](https://store.akamai.steamstatic.com/public/shared/images/throbber.gif) Loading reviews...
+![](https://store.steamstatic.com/public/shared/images/throbber.gif) Loading reviews...
 
 There are no more reviews that match the filters set above
 
@@ -557,7 +557,7 @@ Loading reviews...
 
 Review Filters
 
-![](https://store.akamai.steamstatic.com/public/images/v6/close_btn.png)
+![](https://store.steamstatic.com/public/images/v6/close_btn.png)
 
 You can use this widget-maker to generate a bit of HTML that can be embedded in your website to easily allow customers to purchase this game on Steam.
 
@@ -567,7 +567,7 @@ Enter up to 375 characters to add a description to your widget:
 
 Copy and paste the HTML below into your website to make the above widget appear
 
-[![](https://store.akamai.steamstatic.com/public/images/social/facebook_large.png)](https://store.steampowered.com/share/facebook/app/962730 "Share on Facebook")[![](https://store.akamai.steamstatic.com/public/images/social/twitter_large.png)](https://store.steampowered.com/share/twitter/app/962730 "Share on X (Twitter)")[![](https://store.akamai.steamstatic.com/public/images/social/reddit_large.png)](https://store.steampowered.com/share/reddit/app/962730 "Share on Reddit")
+[![](https://store.steamstatic.com/public/images/social/facebook_large.png)](https://store.steampowered.com/share/facebook/app/962730 "Share on Facebook")[![](https://store.steamstatic.com/public/images/social/twitter_large.png)](https://store.steampowered.com/share/twitter/app/962730 "Share on X (Twitter)")[![](https://store.steamstatic.com/public/images/social/reddit_large.png)](https://store.steampowered.com/share/reddit/app/962730 "Share on Reddit")
 
 Link to the game's store pagehttps://store.steampowered.com/app/962730/Skater\_XL\_\_The\_Ultimate\_Skateboarding\_Game/
 
@@ -581,9 +581,9 @@ Sign in to add your own tags to this product.
 
 [Sign In](https://store.steampowered.com/login/?redir=app/962730)
 
-![Valve Software](https://store.akamai.steamstatic.com/public/images/v6/logo_steam_footer.png)
+![Valve Software](https://store.steamstatic.com/public/images/v6/logo_steam_footer.png)
 
-[![Valve Software](https://store.akamai.steamstatic.com/public/images/footerLogo_valve_new.png)](http://www.valvesoftware.com/)
+[![Valve Software](https://store.steamstatic.com/public/images/footerLogo_valve_new.png)](http://www.valvesoftware.com/)
 
 © 2024 Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.
 
@@ -593,4 +593,4 @@ View mobile website
 
   
 
-[About Valve](http://www.valvesoftware.com/about)   |  [Jobs](http://www.valvesoftware.com/)   |  [Steamworks](http://www.steampowered.com/steamworks/)   |  [Steam Distribution](https://partner.steamgames.com/steamdirect)   |  [Support](https://help.steampowered.com/en/?snr=1_44_44_)   |  [Recycling](https://store.steampowered.com/hardware_recycling/?snr=1_44_44_)   |  [Gift Cards](https://store.steampowered.com/digitalgiftcards/?snr=1_44_44_)   |   [![Facebook](https://store.akamai.steamstatic.com/public/images/ico/ico_facebook.png) Steam](https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.facebook.com%2FSteam)   |   [![X](https://store.akamai.steamstatic.com/public/images/ico/ico_twitter.png) @steam](http://twitter.com/steam)
+[About Valve](http://www.valvesoftware.com/about)   |  [Jobs](http://www.valvesoftware.com/)   |  [Steamworks](http://www.steampowered.com/steamworks/)   |  [Steam Distribution](https://partner.steamgames.com/steamdirect)   |  [Support](https://help.steampowered.com/en/?snr=1_44_44_)   |  [Recycling](https://store.steampowered.com/hardware_recycling/?snr=1_44_44_)   |  [Gift Cards](https://store.steampowered.com/digitalgiftcards/?snr=1_44_44_)   |   [![Facebook](https://store.steamstatic.com/public/images/ico/ico_facebook.png) Steam](https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.facebook.com%2FSteam)   |   [![X](https://store.steamstatic.com/public/images/ico/ico_twitter.png) @steam](http://twitter.com/steam)
