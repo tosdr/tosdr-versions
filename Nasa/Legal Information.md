@@ -70,7 +70,7 @@ Suggested Searches
 
 ### Hubble Spots a Grand Spiral of Starbursts
 
-article3 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
+article4 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
 
 5 min read
 
@@ -313,7 +313,7 @@ article 6 days ago](https://www.nasa.gov/hurricane-milton/)
 
 ### Journey to a Water World: NASA’s Europa Clipper Is Ready to Launch
 
-article 23 hours ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
 
 6 min read
 
@@ -335,7 +335,7 @@ article 3 days ago](https://science.nasa.gov/solar-system/skywatching/the-next-f
 
 ### Hubble Spots a Grand Spiral of Starbursts
 
-article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
+article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
 
 5 min read
 
@@ -347,29 +347,29 @@ article 4 days ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet
 
 ### Hubble Observes a Peculiar Galaxy Shape
 
-article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)
+article 2 weeks ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)
 
 ### Highlights
 
-[![A SpaceX Falcon Heavy rocket with the Europa Clipper spacecraft aboard](https://www.nasa.gov/wp-content/uploads/2024/10/1-clipper-on-the-pad-24-10-13-at-10-05-47 am.png?w=1024)
+[![An application interface shows a top-down view of a section of Brazil in pale tans and greens, with one square (at and angle) in bright colors: dark blue, teals, greens, and yellows.](https://www.nasa.gov/wp-content/uploads/2024/10/geesebal-app-openet-brazil.jpg?w=856)
+
+15 min read
+
+### OpenET: Balancing Water Supply and Demand in the West
+
+article 2 hours ago](https://www.nasa.gov/general/openet-balancing-water-supply-and-demand-in-the-west/)[![A SpaceX Falcon Heavy rocket with the Europa Clipper spacecraft aboard](https://www.nasa.gov/wp-content/uploads/2024/10/1-clipper-on-the-pad-24-10-13-at-10-05-47 am.png?w=1024)
 
 5 min read
 
 ### Journey to a Water World: NASA’s Europa Clipper Is Ready to Launch
 
-article 23 hours ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
 
 6 min read
 
 ### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
-article 2 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
-
-2 min read
-
-### Hubble Spots a Grand Spiral of Starbursts
-
-article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)
+article 2 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)
 
 ### Highlights
 
@@ -379,19 +379,19 @@ article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-gran
 
 ### NASA Spotlight: Felipe Valdez, an Inspiring Engineer
 
-article 6 hours ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+article 16 hours ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
 
 2 min read
 
 ### A Serendipitous NASA Family Reunion
 
-article 1 day ago](https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
 
 2 min read
 
 ### Una reunión familiar de la NASA por casualidad
 
-article 1 day ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)
 
 ### Highlights
 
@@ -467,7 +467,7 @@ article 5 days ago](https://www.nasa.gov/technology/space-comms/space-communicat
 
 ### Una gerente de proyectos de la NASA rinde homenaje a la influencia de su madre
 
-article 7 days ago](https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/)[![A close up image of a set of massive solar arrays measuring about 46.5 feet (14.2 meters) long and about 13.5 feet (4.1 meters) high on NASA’s Europa Clipper spacecraft inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/09/europa-clipper.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/)[![A close up image of a set of massive solar arrays measuring about 46.5 feet (14.2 meters) long and about 13.5 feet (4.1 meters) high on NASA’s Europa Clipper spacecraft inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/09/europa-clipper.jpg?w=1024)
 
 5 min read
 
