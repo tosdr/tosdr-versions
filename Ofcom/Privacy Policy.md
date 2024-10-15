@@ -137,7 +137,7 @@
 
 ### New ten-year public service broadcast licence for Channel 4
 
-15 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/new-ten-year-public-service-broadcast-licence-for-channel-4/?language=en)
+15 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/new-ten-year-public-service-broadcast-licence-for-channel-4/)
 
 [![An external shot of Channel 4 headquarters](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/channel-42.jpg?width=1920&height=1085&quality=80)
 
