@@ -23,7 +23,7 @@ NJALLA GENERAL TERMS AND CONDITIONS
 
 * * *
 
-1.1 These General Terms and Conditions are referred to herein as “_Terms_” and apply between 1337 Services LLC (“_1337_”) as the provider of the Services (as defined under section [2.1](#term_2_1) below) and you as as the user of the Services.
+1.1 These General Terms and Conditions are referred to herein as “_Terms_” and apply between Njalla SRL (“_1337_”) as the provider of the Services (as defined under section [2.1](#term_2_1) below) and you as as the user of the Services.
 
 1.2 By accessing and/or using the Services you are agreeing to be bound by these Terms, which establish a contractual relationship between you and 1337.
 
