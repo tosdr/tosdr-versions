@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+    * * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [At-home experiments shed light on cats’ liquid behavior](https://www.sciencenews.org/article/home-experiments-cats-liquid-behavior)
+            
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")3 hours ago
+            
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Your brain can perceive subtle odor changes in a single sniff](https://www.sciencenews.org/article/brain-odor-changes-milliseconds)
             
-            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")18 hours ago
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")October 14, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [DNA from old hair helps confirm the macabre diet of two 19th century lions](https://www.sciencenews.org/article/dna-hair-teeth-diet-lions)
             
             By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")October 11, 2024
-            
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
-            
-            ### [Hair pulling prompts one of the fastest known pain signals](https://www.sciencenews.org/article/hair-pull-pain-signal-nerve)
-            
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")October 10, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -186,6 +186,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
     * * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
+            ### [NASA’s Europa mission is a homecoming for one planetary astronomer](https://www.sciencenews.org/article/buratti-nasa-europa-mission)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")37 mins ago
+            
+        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
+            
             ### [Saturn’s first Trojan asteroid has finally been discovered](https://www.sciencenews.org/article/saturn-first-trojan-asteroid-discovered)
             
             By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")October 11, 2024
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Runaway stars could influence the cosmos far past their home galaxies](https://www.sciencenews.org/article/runaway-stars-cosmos-galaxies)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 9, 2024
-            
-        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
-            
-            ### [Europa Clipper has launched to solve an alien mystery](https://www.sciencenews.org/article/europa-clipper-find-aliens-jupiter-moon)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 8, 2024
             
 
 Terms of Service
