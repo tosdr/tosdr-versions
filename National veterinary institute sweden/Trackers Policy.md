@@ -478,6 +478,8 @@ Gå direkt till :
         * [Karta över trikinfynd hos vildsvin](https://www.sva.se/vilda-djur/vildsvin/karta-over-trikinfynd-hos-vildsvin/)
         * [Övervakning av Salmonella choleraesuis hos vildsvin](https://www.sva.se/vilda-djur/vildsvin/overvakning-av-salmonella-choleraesuis-hos-vildsvin/)
         * [Insamling av vildsvinsblod](https://www.sva.se/vilda-djur/vildsvin/insamling-av-vildsvinsblod/)
+        * [Trikintest i mobilen](https://www.sva.se/vilda-djur/vildsvin/trikintest-i-mobilen/)[](#)
+            * [Installera trikintest-appen på mobiltelefonen](https://www.sva.se/vilda-djur/vildsvin/trikintest-i-mobilen/installera-trikintest-appen-pa-mobiltelefonen/)
     * [Groddjur](https://www.sva.se/vilda-djur/groddjur/)
     * [Hantering av sjuka och skadade vilda djur](https://www.sva.se/vilda-djur/hantering-av-sjuka-och-skadade-vilda-djur/)
     * [Rapportera in fynd av sjuka eller döda vilda djur](https://www.sva.se/vilda-djur/rapportera-in-fynd-av-sjuka-eller-doda-vilda-djur/)
