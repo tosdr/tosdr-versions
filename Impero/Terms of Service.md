@@ -352,3 +352,4 @@ Meet Impero
 * [Data Protection](https://www.imperosoftware.com/policies-terms/)
 * [Privacy](https://www.imperosoftware.com/privacy/)
 * [Terms & Conditions](https://www.imperosoftware.com/policies-terms/)
+* [Privacy Policy](https://www.ativion.com/legal/privacy-policy)
