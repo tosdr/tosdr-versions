@@ -118,63 +118,56 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Kobus Venter
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=91098853)  
-Calonet
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=132817529)  
+Know Informatics
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=109123636)  
-Lindani Protection Services & Projects
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=159626215)  
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=187277668)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=3666790)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=57183686)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=66068805)  
+National Elite Security Services (PTY) LTD
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=107749528)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=185211403)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=96487330)  
-Dombieterfontein (PTY) LTD
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=56629491)  
+M's Frozen Delights
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=213362507)  
-Konsortium Operations ( Roamfree Meats )
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=197999761)  
+ELLIE'S CLEANING CHICKS
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=195474102)  
-Imhoff Equestrian Centre
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=95961930)  
+Vplay Grafix
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=124082319)  
-Fox Alarms & Security
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=138960490)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=54574228)  
-NEW BEGINNINGS DESIGNS
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=89672762)  
+Mountain Lion Properties
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=82727807)  
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=144951127)  
+kidoscabbie
+
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=210649266)  
+Digifax Pty) Ltd t/a Findfish
+
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=191905908)  
 KTEN PARTS
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=51564484)  
-Wiselink Broadband Dundee
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=82504861)  
+Three Moons Emporium
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=147253518)  
-NGB HOLDINGS PTY LTD
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=30686294)  
-OXYAIDER (PTY) LTD
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=918a10f6558383ecddd13104363245eb3f76be555f585044f6c2fe26a406d49a&c=35310363)  
-OrgChart Hosting Pty Ltd
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=2b115282f64a389e454d007d75aaf34c8091361317cbe11d8f40f5425dcae5c1&c=186135489)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
