@@ -299,6 +299,7 @@ Ainsi, vos Données sont collectées afin de :
 * Assurer la sécurité des transactions en ligne, prévenir les fraudes et les incidents de paiement;
 * Gérer et optimiser la relation clientèle;
 * Vous adresser des informations sur nos offres, actualités et évènements(newsletters, alertes, invitations et autres publications), notamment au moyen de campagnes sur les réseaux sociaux ;
+* Vous envoyer nos newsletters adressées dans le cadre de votre inscription et/ou de votre abonnement au Parisien.
 * Sous réserve de votre consentement préalable : permettre à nos sociétés et associations partenaires de vous adresser des informations sur nos offres, actualités et évènements(newsletters, invitations et autres publications) ;
 * Vous tenir au courant des résultats aux examens ;
 * Gérer votre éventuelle participation à un concours, quiz, défis et tests ;
