@@ -214,16 +214,16 @@ Encryption is the technique of translating data from one form to another so that
 
 Privacy tools listed on this page are all open-source unless marked otherwise: [Criteria](https://www.privacytools.io/#criteria).
 
-Buy and Swap Cryptocurrency Anonymously
----------------------------------------
+VPN with a 82% Discount
+-----------------------
 
-![](https://www.privacytools.io/img/apps/stealthex.png)
+![](https://www.privacytools.io/img/apps/surfshark.png)
 
-##### [StealthEX: Supports Privacy Cryptocurrencies](https://www.privacytools.io/go/stealthex.io)
+##### [VPN that Supports Unlimited Devices: Surfshark (82% off)](https://www.privacytools.io/go/surfshark-footer)
 
-No KYC required Bitcoin Monero
+Audited Win Mac Linux Android iOS Bitcoin Firefox Chrome
 
-No registration or account needed. 450+ coins and tokens are available for quick and easy exchanges. Data privacy and security is a top priority for StealthEX, all swaps are non-custodial.
+Based in The Netherlands. Operating since 2018. Obfuscated, RAM-only servers. Audited by a reputable German cybersecurity firm, Cure53. **Currently, 82% off + 2 months FREE.**
 
 * * *
 
