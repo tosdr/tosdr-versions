@@ -13,8 +13,8 @@ Menu
     TOP STORIES
     
     * [Israeli strike in northern Lebanon kills at least 21 people](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-14-2024-70c8cf5a93eec9ea643a5fda5670da93)
-    * [Hezbollah's drones are a fierce and evasive threat to Israel](https://apnews.com/article/hezbollah-drones-iran-israel-war-hamas-iran-houthi-386ae3c8deeb4c8997e64c954c3670e5)
-    * [Canada expels India's top diplomat and alleges wider diplomatic involvement in crimes](https://apnews.com/article/india-canada-ambassador-recalled-sikh-assassination-f099e210d2f9df93fea18a9de04e06f8)
+    * [UN Security Council voices 'strong concern' for UN peacekeepers after Israeli attacks](https://apnews.com/article/un-lebanon-israel-security-council-statement-hezbollah-e391d8ffe57eebcf8bc294310bb922bd)
+    * [How did a killing at a Sikh temple lead to Canada and India expelling each other's diplomats?](https://apnews.com/article/india-canada-diplomats-expelled-sikh-assassination-67c6ee375f883a81b501cdf2c5bc2b8c)
     
     Newsletters
     
@@ -31,8 +31,8 @@ Menu
     TOP STORIES
     
     * [Florida returning to something like normal after Hurricane Milton](https://apnews.com/article/hurricane-milton-helene-florida-tampa-8e2247b63eb024ef9d406f88c53a735b)
-    * [Members of the Kennedy family gather for funeral of Ethel Kennedy](https://apnews.com/article/ethel-kennedy-funeral-robert-f-kennedy-bc4bcbe40ee8564c629acc35cab5c305)
-    * [Florida government finds fault with abortion ballot measure over ads and petitions](https://apnews.com/article/florida-abortion-ad-fraud-0c37fea6f71788e1c6b65c4488570e4d)
+    * [Biden admin to provide $750 million to North Carolina-based Wolfspeed for advanced computer chips](https://apnews.com/article/wolfspeed-chips-computer-ai-north-carolina-485703b158999ef29bfc40067f2b109f)
+    * [Victims of Maine's deadliest shooting start process of suing the Army](https://apnews.com/article/lewiston-maine-shooting-army-lawsuit-d598f9cc473944933ef350629dcf6393)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris announces a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
-    * [Trump's Pennsylvania town hall turns into impromptu concert after medical incidents](https://apnews.com/article/donald-trump-town-hall-concern-dancing-24290775c8e11223fde1d440a7a5cf7c)
-    * [Kamala Harris will sit down with Bret Baier for her first Fox News interview](https://apnews.com/article/kamala-harris-fox-news-interview-41d02466eddf3be38126008470335803)
+    * [US law entitles immigrant children to an education. Some conservatives say that should change](https://apnews.com/article/immigration-students-education-plyler-d16e72263e68fd7fa12991ae5057897d)
+    * [Walz to unveil Harris' plan for rural voters as campaign looks to cut into Trump's edge](https://apnews.com/article/harris-walz-rural-voters-pennsylvania-trump-291214562d083593f29f8972429a9bec)
+    * [Rulings signal US courts may be more open to lawsuits accusing foreign officials of abuses](https://apnews.com/article/saudi-arabia-human-rights-lawsuits-us-courts-a350cb2e8a9a68bb70d86391b16137e9)
     
     Newsletters
     
@@ -116,7 +116,7 @@ Menu
     
     * [Taylor Swift and Travis Kelce attend Game 1 of ALCS at Yankee Stadium](https://apnews.com/article/taylor-swift-travis-kelce-alcs-yankees-guardians-yankee-stadium-73182d99e0f50978b6971b521a320b35)
     * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
-    * [6 people accuse Diddy of sexual assault in new lawsuits, including man who was 16 at the time](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-sex-trafficking-6349f77fa3a5fb1cc4030d7abd65ccba)
+    * [Six people accuse Diddy of sexual assault in new lawsuits, including a man who was 16 at the time](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-sex-trafficking-6349f77fa3a5fb1cc4030d7abd65ccba)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [Nobel economics prize goes to 3 economists who found that freer societies are more likely to prosper](https://apnews.com/article/nobel-economics-prize-db3bfe55ac17dd22cf82f1dd637bfa94)
-    * [Lilly Ledbetter, an icon of the fight for equal pay, has died at 86](https://apnews.com/article/lilly-ledbetter-equal-pay-women-rights-6044c3fa0c843ad1e294fbf49725da99)
-    * [Tech consultant goes on trial in death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
+    * [Trump's economic plans would worsen inflation, experts say](https://apnews.com/article/trump-inflation-tariffs-taxes-immigration-federal-reserve-a18de763fcc01557258c7f33cab375ed)
+    * [Biden admin to provide $750 million to North Carolina-based Wolfspeed for advanced computer chips](https://apnews.com/article/wolfspeed-chips-computer-ai-north-carolina-485703b158999ef29bfc40067f2b109f)
+    * [Stock market today: World shares are mixed after Wall St powers to more records](https://apnews.com/article/stocks-markets-rates-china-earnings-9603ee04b6690dc4e80c22f02f298159)
     
 * [Science](https://apnews.com/science)
     
@@ -157,12 +157,12 @@ Menu
     
     TOP STORIES
     
+    * [After 67 days adrift, a Russian man was rescued but his brother and nephew are dead](https://apnews.com/article/russia-boat-adrift-rescue-sea-okhotsk-kamchatka-71722cac69b3f5bddb2e9d17cb9ff965)
     * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [Mud, beer and cash: Annual wife-carrying championship attracts competitive couples to Maine](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     * [Witnesses can bear-ly believe the surprise visitor at Connecticut governor's estate](https://apnews.com/article/bear-climbs-fence-connecticut-governors-mansion-3b1aaf00afa14dc1c7e12ac0faf9d1b4)
     * [Woman pleads guilty to trying to smuggle 29 turtles across a Vermont lake into Canada by kayak](https://apnews.com/article/eastern-box-turtles-smuggling-vermont-lake-kayak-fdb63d3944a27ef12088fa97a16950a3)
     * [Authorities continue to investigate container suspected of holding dynamite in Tennessee](https://apnews.com/article/explosives-evacuation-knoxville-metal-recycler-3b929a961105649b12b258ec0a01e0f6)
-    * [New Zealand ship didn’t sink because its captain was a woman, the ‘appalled’ defense minister says](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -247,7 +247,7 @@ Menu
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     * [Company recalls nearly 10 million pounds of meat and poultry dishes for listeria contamination](https://apnews.com/article/brucepac-listeria-meat-recall-f4d8db2752137f5bdaa5fbfcc12dd3d6)
-    * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
+    * [Walz to unveil Harris' plan for rural voters as campaign looks to cut into Trump's edge](https://apnews.com/article/harris-walz-rural-voters-pennsylvania-trump-291214562d083593f29f8972429a9bec)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [Biden admin to provide $750 million to North Carolina-based Wolfspeed for advanced computer chips](https://apnews.com/article/wolfspeed-chips-computer-ai-north-carolina-485703b158999ef29bfc40067f2b109f)
     * [Tech consultant goes on trial in death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
     * [Volunteers bring solar power to Hurricane Helene's disaster zone](https://apnews.com/article/hurricane-helene-solar-power-north-carolina-095b6ff5f1290ac7439f12b555f9845d)
-    * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [A pastry brought to Mexico by British miners is still popular after 200 years](https://apnews.com/article/mexico-mineral-mine-pastry-mineral-del-monte-1a166e4927ba23541184a456e8a78e53)
+    * [Leaf-peepers are flocking to see New England's brilliant fall colors](https://apnews.com/article/new-england-leaves-fall-colors-peeping-93e9e67391855cebff5ac2a9c846588d)
     * [Who am I? A South Korean adoptee finds answers about the past — just not the ones she wants](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
-    * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
-    * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     
 * [Religion](https://apnews.com/religion)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
+    * [El Consejo de Seguridad expresa su "fuerte preocupación" por cascos azules tras ataques israelíes](https://apnews.com/world-news/general-news-65f4776e303e4b6510af58567c7b02d7)
+    * [ONU: Más de 400.000 niños han sido desplazados en Líbano en 3 semanas de guerra](https://apnews.com/world-news/general-news-990f738ea60595f0be3696a383b797b4)
     * [Ataque de Israel en norte de Líbano mata a 21 personas en edificio de apartamentos, dice Cruz Roja](https://apnews.com/world-news/general-news-4fc033c237a05cb507c8a74e69b714dd)
-    * [Fuerzas rusas afirman que capturaron aldea del sur de Ucrania](https://apnews.com/world-news/general-news-2f9ad931e60db39a9d1e8d9137055ee7)
-    * [Nobel de Economía premia estudio de cómo unas instituciones débiles afectan al éxito de los países](https://apnews.com/world-news/general-news-33b0981915c5c06dd84ba4eeff6dd72b)
-    * [EEUU: Demócratas esperan que recientes sentencias restrictivas sobre el aborto animen a los votantes](https://apnews.com/politics/general-news-4c28acbc750ba2d0a3d700dde0fd0ac3)
-    * [Canadá expulsa al principal diplomático de India y alega participación diplomática en delitos](https://apnews.com/world-news/general-news-557b8141bca8bd0aaf29fe1e3e22ede3)
-    * [EEUU: Campañas presidenciales hacen más de 200 visitas, pero apelan a fracción mínima de votantes](https://apnews.com/politics/general-news-8a2b64834458307207422b0d7fa8c7a7)
+    * [Las muertes de migrantes en Nuevo México se multiplican por 10](https://apnews.com/world-news/general-news-0b967f03da3f7c1ded62334da45b944d)
+    * [Corea del Norte detona partes de carreteras intercoreanas que ya no están en uso, dice Surcorea](https://apnews.com/world-news/general-news-107a088d4756be9086326fe3b5cc4c0e)
+    * [Una Pakistán castigada por la violencia blinda su capital para una gran cumbre asiática de seguridad](https://apnews.com/world-news/general-news-a600c35b98a75fb589c7a3579a61b8ed)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,8 +460,8 @@ Submit Search
     TOP STORIES
     
     * [Israeli strike in northern Lebanon kills at least 21 people](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-14-2024-70c8cf5a93eec9ea643a5fda5670da93)
-    * [Hezbollah's drones are a fierce and evasive threat to Israel](https://apnews.com/article/hezbollah-drones-iran-israel-war-hamas-iran-houthi-386ae3c8deeb4c8997e64c954c3670e5)
-    * [Canada expels India's top diplomat and alleges wider diplomatic involvement in crimes](https://apnews.com/article/india-canada-ambassador-recalled-sikh-assassination-f099e210d2f9df93fea18a9de04e06f8)
+    * [UN Security Council voices 'strong concern' for UN peacekeepers after Israeli attacks](https://apnews.com/article/un-lebanon-israel-security-council-statement-hezbollah-e391d8ffe57eebcf8bc294310bb922bd)
+    * [How did a killing at a Sikh temple lead to Canada and India expelling each other's diplomats?](https://apnews.com/article/india-canada-diplomats-expelled-sikh-assassination-67c6ee375f883a81b501cdf2c5bc2b8c)
     
     Newsletters
     
@@ -478,8 +478,8 @@ Submit Search
     TOP STORIES
     
     * [Florida returning to something like normal after Hurricane Milton](https://apnews.com/article/hurricane-milton-helene-florida-tampa-8e2247b63eb024ef9d406f88c53a735b)
-    * [Members of the Kennedy family gather for funeral of Ethel Kennedy](https://apnews.com/article/ethel-kennedy-funeral-robert-f-kennedy-bc4bcbe40ee8564c629acc35cab5c305)
-    * [Florida government finds fault with abortion ballot measure over ads and petitions](https://apnews.com/article/florida-abortion-ad-fraud-0c37fea6f71788e1c6b65c4488570e4d)
+    * [Biden admin to provide $750 million to North Carolina-based Wolfspeed for advanced computer chips](https://apnews.com/article/wolfspeed-chips-computer-ai-north-carolina-485703b158999ef29bfc40067f2b109f)
+    * [Victims of Maine's deadliest shooting start process of suing the Army](https://apnews.com/article/lewiston-maine-shooting-army-lawsuit-d598f9cc473944933ef350629dcf6393)
     
     Newsletters
     
@@ -531,9 +531,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris announces a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
-    * [Trump's Pennsylvania town hall turns into impromptu concert after medical incidents](https://apnews.com/article/donald-trump-town-hall-concern-dancing-24290775c8e11223fde1d440a7a5cf7c)
-    * [Kamala Harris will sit down with Bret Baier for her first Fox News interview](https://apnews.com/article/kamala-harris-fox-news-interview-41d02466eddf3be38126008470335803)
+    * [US law entitles immigrant children to an education. Some conservatives say that should change](https://apnews.com/article/immigration-students-education-plyler-d16e72263e68fd7fa12991ae5057897d)
+    * [Walz to unveil Harris' plan for rural voters as campaign looks to cut into Trump's edge](https://apnews.com/article/harris-walz-rural-voters-pennsylvania-trump-291214562d083593f29f8972429a9bec)
+    * [Rulings signal US courts may be more open to lawsuits accusing foreign officials of abuses](https://apnews.com/article/saudi-arabia-human-rights-lawsuits-us-courts-a350cb2e8a9a68bb70d86391b16137e9)
     
     Newsletters
     
@@ -592,7 +592,7 @@ Submit Search
     
     * [Taylor Swift and Travis Kelce attend Game 1 of ALCS at Yankee Stadium](https://apnews.com/article/taylor-swift-travis-kelce-alcs-yankees-guardians-yankee-stadium-73182d99e0f50978b6971b521a320b35)
     * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
-    * [6 people accuse Diddy of sexual assault in new lawsuits, including man who was 16 at the time](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-sex-trafficking-6349f77fa3a5fb1cc4030d7abd65ccba)
+    * [Six people accuse Diddy of sexual assault in new lawsuits, including a man who was 16 at the time](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-sex-trafficking-6349f77fa3a5fb1cc4030d7abd65ccba)
     
 * [Business](https://apnews.com/business)
     
@@ -606,9 +606,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Nobel economics prize goes to 3 economists who found that freer societies are more likely to prosper](https://apnews.com/article/nobel-economics-prize-db3bfe55ac17dd22cf82f1dd637bfa94)
-    * [Lilly Ledbetter, an icon of the fight for equal pay, has died at 86](https://apnews.com/article/lilly-ledbetter-equal-pay-women-rights-6044c3fa0c843ad1e294fbf49725da99)
-    * [Tech consultant goes on trial in death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
+    * [Trump's economic plans would worsen inflation, experts say](https://apnews.com/article/trump-inflation-tariffs-taxes-immigration-federal-reserve-a18de763fcc01557258c7f33cab375ed)
+    * [Biden admin to provide $750 million to North Carolina-based Wolfspeed for advanced computer chips](https://apnews.com/article/wolfspeed-chips-computer-ai-north-carolina-485703b158999ef29bfc40067f2b109f)
+    * [Stock market today: World shares are mixed after Wall St powers to more records](https://apnews.com/article/stocks-markets-rates-china-earnings-9603ee04b6690dc4e80c22f02f298159)
     
 * [Science](https://apnews.com/science)
     
@@ -643,12 +643,12 @@ Submit Search
     
     TOP STORIES
     
+    * [After 67 days adrift, a Russian man was rescued but his brother and nephew are dead](https://apnews.com/article/russia-boat-adrift-rescue-sea-okhotsk-kamchatka-71722cac69b3f5bddb2e9d17cb9ff965)
     * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [Mud, beer and cash: Annual wife-carrying championship attracts competitive couples to Maine](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     * [Witnesses can bear-ly believe the surprise visitor at Connecticut governor's estate](https://apnews.com/article/bear-climbs-fence-connecticut-governors-mansion-3b1aaf00afa14dc1c7e12ac0faf9d1b4)
     * [Woman pleads guilty to trying to smuggle 29 turtles across a Vermont lake into Canada by kayak](https://apnews.com/article/eastern-box-turtles-smuggling-vermont-lake-kayak-fdb63d3944a27ef12088fa97a16950a3)
     * [Authorities continue to investigate container suspected of holding dynamite in Tennessee](https://apnews.com/article/explosives-evacuation-knoxville-metal-recycler-3b929a961105649b12b258ec0a01e0f6)
-    * [New Zealand ship didn’t sink because its captain was a woman, the ‘appalled’ defense minister says](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -742,7 +742,7 @@ Submit Search
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     * [Company recalls nearly 10 million pounds of meat and poultry dishes for listeria contamination](https://apnews.com/article/brucepac-listeria-meat-recall-f4d8db2752137f5bdaa5fbfcc12dd3d6)
-    * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
+    * [Walz to unveil Harris' plan for rural voters as campaign looks to cut into Trump's edge](https://apnews.com/article/harris-walz-rural-voters-pennsylvania-trump-291214562d083593f29f8972429a9bec)
     
 * [Tech](https://apnews.com/technology)
     
@@ -755,9 +755,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Biden admin to provide $750 million to North Carolina-based Wolfspeed for advanced computer chips](https://apnews.com/article/wolfspeed-chips-computer-ai-north-carolina-485703b158999ef29bfc40067f2b109f)
     * [Tech consultant goes on trial in death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
     * [Volunteers bring solar power to Hurricane Helene's disaster zone](https://apnews.com/article/hurricane-helene-solar-power-north-carolina-095b6ff5f1290ac7439f12b555f9845d)
-    * [TikTok was aware of risks kids and teens face on its platform, legal document alleges](https://apnews.com/article/tiktok-kids-teens-use-addiction-03a2d63a21bc5c1c62910628deff0521)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -775,9 +775,9 @@ Submit Search
     
     TOP STORIES
     
+    * [A pastry brought to Mexico by British miners is still popular after 200 years](https://apnews.com/article/mexico-mineral-mine-pastry-mineral-del-monte-1a166e4927ba23541184a456e8a78e53)
+    * [Leaf-peepers are flocking to see New England's brilliant fall colors](https://apnews.com/article/new-england-leaves-fall-colors-peeping-93e9e67391855cebff5ac2a9c846588d)
     * [Who am I? A South Korean adoptee finds answers about the past — just not the ones she wants](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
-    * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
-    * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     
 * [Religion](https://apnews.com/religion)
     
@@ -799,12 +799,12 @@ Submit Search
     
     TOP STORIES
     
+    * [El Consejo de Seguridad expresa su "fuerte preocupación" por cascos azules tras ataques israelíes](https://apnews.com/world-news/general-news-65f4776e303e4b6510af58567c7b02d7)
+    * [ONU: Más de 400.000 niños han sido desplazados en Líbano en 3 semanas de guerra](https://apnews.com/world-news/general-news-990f738ea60595f0be3696a383b797b4)
     * [Ataque de Israel en norte de Líbano mata a 21 personas en edificio de apartamentos, dice Cruz Roja](https://apnews.com/world-news/general-news-4fc033c237a05cb507c8a74e69b714dd)
-    * [Fuerzas rusas afirman que capturaron aldea del sur de Ucrania](https://apnews.com/world-news/general-news-2f9ad931e60db39a9d1e8d9137055ee7)
-    * [Nobel de Economía premia estudio de cómo unas instituciones débiles afectan al éxito de los países](https://apnews.com/world-news/general-news-33b0981915c5c06dd84ba4eeff6dd72b)
-    * [EEUU: Demócratas esperan que recientes sentencias restrictivas sobre el aborto animen a los votantes](https://apnews.com/politics/general-news-4c28acbc750ba2d0a3d700dde0fd0ac3)
-    * [Canadá expulsa al principal diplomático de India y alega participación diplomática en delitos](https://apnews.com/world-news/general-news-557b8141bca8bd0aaf29fe1e3e22ede3)
-    * [EEUU: Campañas presidenciales hacen más de 200 visitas, pero apelan a fracción mínima de votantes](https://apnews.com/politics/general-news-8a2b64834458307207422b0d7fa8c7a7)
+    * [Las muertes de migrantes en Nuevo México se multiplican por 10](https://apnews.com/world-news/general-news-0b967f03da3f7c1ded62334da45b944d)
+    * [Corea del Norte detona partes de carreteras intercoreanas que ya no están en uso, dice Surcorea](https://apnews.com/world-news/general-news-107a088d4756be9086326fe3b5cc4c0e)
+    * [Una Pakistán castigada por la violencia blinda su capital para una gran cumbre asiática de seguridad](https://apnews.com/world-news/general-news-a600c35b98a75fb589c7a3579a61b8ed)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
