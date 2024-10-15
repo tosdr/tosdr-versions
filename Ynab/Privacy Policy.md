@@ -39,7 +39,7 @@ It's pronounced ”why-nab”](https://www.youneedabudget.com/)
     
 * Share YNAB
     
-    [Refer A Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Refer Your Employer](https://www.youneedabudget.com/wellness/share)[Teach Your Community](https://www.youneedabudget.com/teach-ynab)[Affiliate Program](https://www.youneedabudget.com/partners/affiliate-program)
+    [Refer A Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Refer Your Employer](https://www.youneedabudget.com/wellness/share)[Teach Your Community](https://www.youneedabudget.com/teach-ynab)[Affiliate Program](https://www.youneedabudget.com/affiliate-program)
     
 * [Pricing](https://www.youneedabudget.com/pricing)
 * [For Employers](https://www.youneedabudget.com/wellness)
@@ -64,7 +64,7 @@ It's pronounced ”why-nab”](https://www.youneedabudget.com/)
     
 * Share YNAB
     
-    [Refer a Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Refer Your Employer](https://www.youneedabudget.com/wellness/share)[Teach Your Community](https://www.youneedabudget.com/teach-ynab)[Affiliate Program](https://www.youneedabudget.com/partners/affiliate-program)
+    [Refer a Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Refer Your Employer](https://www.youneedabudget.com/wellness/share)[Teach Your Community](https://www.youneedabudget.com/teach-ynab)[Affiliate Program](https://www.youneedabudget.com/affiliate-program)
     
 * [Log In](https://app.ynab.com/users/sign_in)
     
@@ -334,7 +334,7 @@ Learn
 
 Share YNAB
 
-[Refer a Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Teach Your Community](https://www.youneedabudget.com/teach-ynab)[Affiliate Program](https://www.youneedabudget.com/partners/affiliate-program)
+[Refer a Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Teach Your Community](https://www.youneedabudget.com/teach-ynab)[Affiliate Program](https://www.youneedabudget.com/affiliate-program)
 
 [Pricing](https://www.youneedabudget.com/pricing)
 
