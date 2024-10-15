@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Channel 4 logo](/siteassets/resources/images/-news-centre/body-images/2024/new-ten-year-public-service-broadcast-licence-for-channel-4/c4-indent-web.jpg?width=1920&height=1085&quality=80)
+
+### New ten-year public service broadcast licence for Channel 4
+
+15 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/new-ten-year-public-service-broadcast-licence-for-channel-4/?language=en)
+
 [![An external shot of Channel 4 headquarters](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/channel-42.jpg?width=1920&height=1085&quality=80)
 
 ### Response to Channel 4 Corporation’s Statement of Media Content Policy 2023
@@ -150,12 +156,6 @@
 ### New roaming alerts for UK holidaymakers
 
 1 October 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/new-roaming-alerts-for-uk-holidaymakers/)
-
-[![Young woman outdoors listening to a podcast on her smartphone](/siteassets/resources/images/-news-centre/thumbnail-images/radio/young-woman-outdoors-listening-to-a-podcast-on-her-smartphone.jpg?width=1920&height=1085&quality=80)
-
-### Top listening trends for International Podcast Day
-
-30 September 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/top-listening-trends-for-international-podcast-day/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
