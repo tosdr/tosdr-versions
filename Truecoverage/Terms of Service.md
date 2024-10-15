@@ -193,7 +193,7 @@ If you are visually impaired, please visit the Federal Marketplace.
 * [Dental](https://truecoverage.com/best-affordable-dental-insurance/)
 * [Vision](https://truecoverage.com/best-affordable-vision-insurance/)
 * [Short Term Medical](https://truecoverage.com/affordable-short-term-medical-insurance/)
-* [Cancer/Heart and Stroke Insurance](https://truecoverage.com/cancer-heart-and-stroke-insurance)
+* [Cancer/Heart and Stroke Insurance](https://truecoverage.com/cancer-heart-and-stroke-insurance/)
 * [Disability Insurance](https://truecoverage.com/buy-best-disability-insurance/)
 * [Critical Illness Insurance](https://truecoverage.com/best-critical-illness-insurance/)
 * [Hospital Indemnity Insurance](https://truecoverage.com/buy-best-hospital-indemnity-insurance/)
@@ -207,16 +207,16 @@ If you are visually impaired, please visit the Federal Marketplace.
 * [Supplemental Insurance](https://truecoverage.com/best-supplemental-disability-dental-insurance/)
 
 * [Medicare Advantage](https://truecoverage.com/medicare-advantage/)
-* [Medicare Supplements](https://truecoverage.com/medicare-supplements)
-* [Medicare Part D](https://truecoverage.com/medicare-part-d)
-* [Find Health Insurance in your State](https://shop.truecoverage.com/marketplace/consumer/zipcode)
+* [Medicare Supplements](https://truecoverage.com/medicare-supplements/)
+* [Medicare Part D](https://truecoverage.com/medicare-part-d/)
+* [Find Health Insurance in your State](https://shop.truecoverage.com/marketplace/consumer/zipcode/)
 * [Register in ACA](https://truecoverage.com/)
 
 * [Agent Resources](https://truecoverage.com/truecoverage-agent-referral-program/)
 * [Blogs & Articles](https://truecoverage.com/affordable-health-insurance-blog/)
-* [Infographics](https://truecoverage.com/health-insurance-infographics)
-* [Videos](https://truecoverage.com/health-insurance-videos)
-* [Information Library](https://truecoverage.com/information-library)
+* [Infographics](https://truecoverage.com/health-insurance-infographics/)
+* [Videos](https://truecoverage.com/health-insurance-videos/)
+* [Information Library](https://truecoverage.com/information-library/)
 * [Terms and Conditions](https://truecoverage.com/terms/)
 * [Privacy Policy](https://truecoverage.com/privacy-policy/)
 * [Contact Us](https://truecoverage.com/contact-best-insurance-agency/)
@@ -308,7 +308,7 @@ CLOSE
     
 * ![](https://api.trustedform.com/ns.gif)
     
-* Phone
+* Email
     
     This field is for validation purposes and should be left unchanged.
     
