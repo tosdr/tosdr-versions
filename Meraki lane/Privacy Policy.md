@@ -41,17 +41,17 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
-    [![9 Gray Hair Mistakes to Avoid and What To Do Instead | If you're growing out your gray hair with the goal of having beautiful, long, gorgeous locks, this post is for you. Making the decision to transition to gray can be scary, but with the right haircut and a few blending tips and hacks, you can (and will!) feel confident and chic while embracing your new look. From choosing the right shampoo, to investing in a good deep conditioner, to hair protection and more, click for our gray hair hacks!](https://www.merakilane.com/wp-content/uploads/2024/10/3-1.png)](https://www.merakilane.com/9-gray-hair-mistakes-to-avoid-and-what-to-do-instead/)
+    [![14 Low Maintenance Hairstyles for Straight Hair | Straight hair is extremely versatile and looks good short, medium length, and long, both with a without bangs. But super straight, fine hair often looks dull and flat. In this post, we're sharing styling tips and products plus the best hairstyles and haircuts that will add volume and texture to your locks while still being low maintenance and easy to manage. Click for no fuss straight hairstyles for women in their 30s, 40s, 50s, and beyond!](https://www.merakilane.com/wp-content/uploads/2024/10/6-2.png)](https://www.merakilane.com/14-low-maintenance-hairstyles-for-straight-hair/)
     
-    ### [9 Gray Hair Mistakes to Avoid (and What To Do Instead)](https://www.merakilane.com/9-gray-hair-mistakes-to-avoid-and-what-to-do-instead/)
+    ### [14 Low Maintenance Hairstyles for Straight Hair](https://www.merakilane.com/14-low-maintenance-hairstyles-for-straight-hair/)
     
-    [![How to Get the Balletcore Aesthetic Look: 8 Tips & Trends | Embrace the soft, feminine balletcore aesthetic with these beauty and fashion tips. From delicate fabrics like tulle and satin to iconic ballet flats, this trend is all about elegance and grace. Learn how to create romantic, timeless outfits that combine comfort with style. From balletcore nails, skincare, and makeup, to tops, skirts, socks, and shoes, these tips are perfect for anyone who loves dreamy, girly looks and trends.](https://www.merakilane.com/wp-content/uploads/2024/10/6.png)](https://www.merakilane.com/how-to-get-the-balletcore-aesthetic-look-8-tips-trends/)
+    [![How to Get the Pearl Skin Aesthetic Look: 6 Tips & Trends | Pearl skin is one of 2024’s most popular beauty trends, sweeping through TikTok and dominating this year’s runways. This beauty trend takes inspiration from pearls themselves, using luminous makeup to give the skin a pearly sheen. White, cream, champagnes, and rose-toned hues are all colours that work for this look, and we're sharing everything you need to master this makeup trend at home. Click for the details!](https://www.merakilane.com/wp-content/uploads/2024/10/8-1.png)](https://www.merakilane.com/how-to-get-the-pearl-skin-aesthetic-look-6-tips-trends/)
     
-    ### [How to Get the Balletcore Aesthetic Look: 8 Tips & Trends](https://www.merakilane.com/how-to-get-the-balletcore-aesthetic-look-8-tips-trends/)
+    ### [How to Get the Pearl Skin Aesthetic Look: 6 Tips & Trends](https://www.merakilane.com/how-to-get-the-pearl-skin-aesthetic-look-6-tips-trends/)
     
-    [![How to Simplify Your Makeup Routine: 8 Time-Saving Tips | Streamline your everyday beauty routine with these super easy time-saving makeup hacks. Get ready fast with tips for multi-tasking products, minimalist techniques, and easy beauty tricks that still leave you looking polished. Perfect for teens in school, busy moms, and everyone in between, these makeup tips for lazy girls will give you a flawless look in no time and they are perfect for every occasion!](https://www.merakilane.com/wp-content/uploads/2024/10/5.png)](https://www.merakilane.com/how-to-simplify-your-makeup-routine-8-time-saving-tips/)
+    [![9 Fashion and Beauty Trends that Are Making a Comeback | The 1990s are back with iconic trends like grunge outfits, bold hip-hop styles, and minimalist 1990s fashion for both men and women. From plaid skirts and chokers to platform shoes and bike shorts, these throwback looks are everywhere. Embrace 1990s outfits for a fresh take on classic styles, and explore how vintage aesthetics, clunky footwear, and nostalgic accessories are making their mark!](https://www.merakilane.com/wp-content/uploads/2024/10/1-copy-374.png)](https://www.merakilane.com/9-fashion-and-beauty-trends-that-are-making-a-comeback/)
     
-    ### [How to Simplify Your Makeup Routine: 8 Time-Saving Tips](https://www.merakilane.com/how-to-simplify-your-makeup-routine-8-time-saving-tips/)
+    ### [9 Fashion and Beauty Trends That Are Making a Comeback](https://www.merakilane.com/9-fashion-and-beauty-trends-that-are-making-a-comeback/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -117,6 +117,10 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
+    [![6 Best Friendsgiving Theme Ideas for Adults | We often associate Thanksgiving with family dinners and get-togethers, but it can be a time to celebrate your best friends too! Friendsgiving is a way to express gratitude for the friendships in your life with food, drinks, and fun. Some keep it as a traditional Thanksgiving meal, but others like to mix it up by throwing a themed party with outfits (or costumes!), decorations, games, activities, and more. Click for 6 unique and creative ideas!](https://www.merakilane.com/wp-content/uploads/2024/10/7-2.png)](https://www.merakilane.com/10-best-friendsgiving-theme-ideas-for-teens/)
+    
+    ### [10 Best Friendsgiving Theme Ideas for Teens](https://www.merakilane.com/10-best-friendsgiving-theme-ideas-for-teens/)
+    
     [![How to Help Your Teen Through a Breakup | Discover practical advice and motivational tips to help your teen move on after a breakup. Learn how to offer support and guidance that boosts confidence and positivity during this challenging time. Whether it’s sharing uplifting quotes, helping them focus on self-care, or offering advice to navigate emotions, these parenting tips and strategies will help your daughter or son heal and come out stronger on the other side of teen breakups.](https://www.merakilane.com/wp-content/uploads/2024/10/1.png)](https://www.merakilane.com/how-to-help-your-teen-through-a-breakup-9-tips-for-parents/)
     
     ### [How to Help Your Teen Through a Breakup: 9 Tips for Parents](https://www.merakilane.com/how-to-help-your-teen-through-a-breakup-9-tips-for-parents/)
@@ -124,10 +128,6 @@ Main Menu
     [![16 Best Portable Airplane Snacks for Kids | Whether you're traveling with kids on short domestic flights or long flights overseas, having their favorite snacks on hand can make all the difference. From healthy options to mess-free treats, we're sharing the best travel snacks for kids of all ages and stages that also double as great road trip snacks. We've also included TSA-approved snack bags, boxes, and ice packs so you can pack homemade favorites for the whole family.](https://www.merakilane.com/wp-content/uploads/2024/09/5-3.png)](https://www.merakilane.com/16-best-portable-airplane-snacks-for-kids/)
     
     ### [16 Best Portable Airplane Snacks for Kids](https://www.merakilane.com/16-best-portable-airplane-snacks-for-kids/)
-    
-    [![What To Do when Your Teenager Is Lying: 9 Tips for Parents | If you're struggling with a teenager who isn't being truthful, this post is for you. We're sharing 9 effective tips for parents to handle lying behavior in teens. Click to learn how to choose the right consequences for dishonest behavior and how to build trust, set boundaries, and foster open communication to create a more honest relationship with your teen moving forward. Click for our best strategies to deal with teens who lie!](https://www.merakilane.com/wp-content/uploads/2024/09/6-2.png)](https://www.merakilane.com/what-to-do-when-your-teenager-is-lying-9-tips-for-parents/)
-    
-    ### [What to Do When Your Teenager Is Lying: 9 Tips for Parents](https://www.merakilane.com/what-to-do-when-your-teenager-is-lying-9-tips-for-parents/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
