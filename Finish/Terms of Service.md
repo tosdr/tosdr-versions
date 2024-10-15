@@ -95,6 +95,7 @@ Connect with us!
 * [Terms of Sale](https://www.finishdishwashing.com/policies/terms-and-conditions-of-sales/)
 * [Free Sample T&C](https://www.finishdishwashing.com/free-sample/terms-and-conditions/)
 * [Sitemap](https://www.finishdishwashing.com/sitemap/)
+* [Safety](https://www.finishdishwashing.com/safety/)
 * [Our Commitment to Ingredient Transparency](https://reckitt.com/us/sustainability/our-commitment-to-ingredient-transparency/)
 
 © 2024 Reckit Benckiser | All Rights Reserved
