@@ -54,19 +54,7 @@
     
     By Bernadette Roe [Read More](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
     
-* *  [![A woman in a skirt and jacket](https://www.women.com/img/gallery/wrong-jacket-theory-is-the-perfect-way-to-upgrade-your-fall-winter-outfits/intro-1728582522.jpg)](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-        
-        ### [Wrong Jacket Theory Is The Perfect Way To Upgrade Your Fall & Winter Outfits](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
-        
-        Wrong jacket theory, like wrong shoe theory, embraces unexpected combinations. Easily add interest to your fall and winter outfits by mixing up your outerwear.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
-        
-    *  [![Woman reading drinking tea](https://www.women.com/img/gallery/the-best-christmas-rom-com-books-of-the-2020s-so-far/intro-1728423261.jpg)](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
+* *  [![Woman reading drinking tea](https://www.women.com/img/gallery/the-best-christmas-rom-com-books-of-the-2020s-so-far/intro-1728423261.jpg)](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
         
         [Living](https://www.women.com/category/living/)
         
@@ -78,22 +66,22 @@
         
         By Bernadette Roe [Read More](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
         
+    *  [![Ivanka Trump at an event](https://www.women.com/img/gallery/trends-ivanka-trump-has-nailed-with-her-polished-style/intro-1728585306.jpg)](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+        
+        ### [Trends Ivanka Trump Has Nailed With Her Polished Style](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+        
+        Ivanka Trump has embraced some fun, flirty styles since leaving the White House. Her post-politics outfits nail recent trends like monochromatic looks.
+        
+        By Bernadette Roe [Read More](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+        
 
 More Stories
 ------------
 
-*  [![Ivanka Trump at an event](https://www.women.com/img/gallery/trends-ivanka-trump-has-nailed-with-her-polished-style/intro-1728585306.jpg)](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Trends Ivanka Trump Has Nailed With Her Polished Style](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
-    
-    Ivanka Trump has embraced some fun, flirty styles since leaving the White House. Her post-politics outfits nail recent trends like monochromatic looks.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
-    
 *  [![Suri Cruise posing](https://www.women.com/img/gallery/suri-cruises-style-has-totally-transformed-over-the-years/intro-1727979833.jpg)](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -105,6 +93,18 @@ More Stories
     Suri Cruise, one of the most photographed celebrity tots in the world, started life in dresses and bows, but her style has totally transformed since the 2000s.
     
     By Emily Hutchinson [Read More](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
+    
+*  [![A woman in a skirt and jacket](https://www.women.com/img/gallery/wrong-jacket-theory-is-the-perfect-way-to-upgrade-your-fall-winter-outfits/intro-1728582522.jpg)](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Wrong Jacket Theory Is The Perfect Way To Upgrade Your Fall & Winter Outfits](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
+    
+    Wrong jacket theory, like wrong shoe theory, embraces unexpected combinations. Easily add interest to your fall and winter outfits by mixing up your outerwear.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
     
 *  [![Kristen Stewart at an event](https://www.women.com/img/gallery/5-kristen-stewart-looks-that-bella-swan-wouldve-hated/intro-1728592311.jpg)](https://www.women.com/1685585/kristen-stewart-looks-bella-swan-twilight-would-hate/)
     
