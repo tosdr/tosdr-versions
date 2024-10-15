@@ -12,7 +12,7 @@ Help
 
 [FAQ](https://getsession.org/faq)[Support](https://sessionapp.zendesk.com/hc/en-us)
 
-[Donate](https://donorbox.org/optf-donation)[Download](https://getsession.org/download)
+[Download](https://getsession.org/download)
 
 Session Privacy Policy
 
@@ -31,18 +31,18 @@ Session is designed so that it doesn't store any information which could be used
 
 We don’t store any identifying information about your device, such as your IP address or your user agent. You also don't need a phone number, e-mail, or any information tied to your real identity to make a Session account. We did this so that you can remain private and anonymous whenever you’re using Session.
 
-You don't need to jump through hoops or tweak special settings to make Session private — it’s private by default.
+You don't need to jump through hoops or tweak special settings to make Session private —it’s private by default.
 
-The first time you use Session, you need to connect to a seed node run by the [OPTF](https://optf.ngo/) which serves you the list of servers in the network. Your IP address can be seen by the seed node, but your IP is not recorded. You can also shield your real IP by using a VPN. The seed node will never see who you’re talking to or what you’re talking about.
+The first time you use Session, you need to connect to a seed node organised by STF which serves you the list of servers in the network. Your IP address can be seen by the seed node, but your IP is not recorded. You can also shield your real IP by using a virtual private network or similar technology. The seed node will never see who you’re talking to or what you’re talking about.
 
 **App stores**
 --------------
 
 If you use Session on your Android or iOS phone, Google or Apple might store information about how you use the app using the telemetry features which are built into their operating systems. 
 
-They can record when the app is closed, opened, how long you use it for, crash logs, and your device model. This usage information could also be linked with your Google or Apple account. Unfortunately this is a limitation of mobile operating systems, and applies to all apps used on your device. 
+They can record, for example, when the app is closed, opened, how long you use it for, crash logs, and your device model. This usage information could also be linked with your Google or Apple account. Unfortunately this is a limitation of mobile operating systems, and applies to all apps used on your device. 
 
-If you’re planning to use Session on mobile, it’s worth reading Apple or Google’s privacy policies. If you’re using iOS, check out Apple’s [App Store Review Guidelines](https://developer.apple.com/documentation/uikit/protecting_the_user_s_privacy). For Android, read the [User Data](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=637734151469597279-3197411421&rd=1) section of Google’s Developer Policy Center.
+If you’re planning to use Session on mobile, we recommend that you read Apple or Google’s privacy policies (as applicable). If you’re using iOS, check out Apple’s [App Store Review Guidelines](https://developer.apple.com/documentation/uikit/protecting_the_user_s_privacy). For Android, read the [User Data](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=637734151469597279-3197411421&rd=1) section of Google’s Developer Policy Center.
 
 To avoid using the Play Store or App Store, you can download Session from our [F-Droid repository](https://fdroid.getsession.org/) or from [GitHub](https://github.com/oxen-io/session-android/releases).
 
@@ -57,12 +57,12 @@ The Session website stores some limited data to make sure it is easy-to-use and 
 
 We use Cloudflare services in order to serve the Session website. Cloudflare keeps logs about HTTP requests for the Session domains, which can be stored for up to 7 days.
 
-If you choose to subscribe to Session’s e-mail newsletter, your e-mail will be stored. Our e-mail campaigns are managed through optin forms and Campaign Monitor. However, if you unsubscribe from our mailing list, your e-mail will be deleted.
+If you choose to subscribe to Session’s e-mail newsletter, your e-mail will be stored. Our e-mail campaigns are managed through opt-in forms and Campaign Monitor. However, if you unsubscribe from our mailing list, your e-mail will be deleted.
 
 **Get in touch!**
 -----------------
 
-This is the way the Session app and website treat your privacy. If you would like more information, have suggestions about how we can better protect your privacy, or just want to say hello — please send us an email at [\[email protected\]](https://getsession.org/cdn-cgi/l/email-protection).
+This is the way the Session app and website treat your privacy. If you would like more information, have suggestions about how Session can better protect your privacy, or just want to say hello—please send an email to [\[email protected\]](https://getsession.org/cdn-cgi/l/email-protection).
 
 #### Join the movement to keep the internet private!
 
@@ -78,17 +78,17 @@ Sign up
 
 [Whitepaper](https://getsession.org/whitepaper)[Privacy Policy](https://getsession.org/privacy-policy)[Terms of Service](https://getsession.org/terms-of-service)[Blog](https://getsession.org/blog)[FAQ](https://getsession.org/faq)
 
-### Company
-
-[OPTF](https://optf.ngo/)[Oxen](https://oxen.io/)[Lokinet](https://lokinet.org/)[Media Kit](https://getsession.org/assets/downloads/Session-Brandmarks.zip)[Transparency Report](https://optf.ngo/transparency/)
-
 ### Links
+
+[Session Technology Foundation](https://session.foundation/)[Lokinet](https://lokinet.org/)[Media Kit](https://getsession.org/assets/downloads/Session-Brandmarks.zip)[Transparency Report](https://session.foundation/transparency-reports)
+
+### Socials
 
 [](https://twitter.com/session_app)[](https://mastodon.social/@session)[](https://www.instagram.com/getsession)[](https://www.youtube.com/@SessionTV)[](https://github.com/oxen-io)[](https://getsession.org/feed)
 
 ### Support
 
-[Visit our Help Centre](https://sessionapp.zendesk.com/hc/en-us)
+[Session Support](https://sessionapp.zendesk.com/hc/en-us)
 
 ![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjI2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==)
 
