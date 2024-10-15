@@ -55,8 +55,8 @@
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
 * [Breitbart Fight Club](https://web.breitbart.com/fight-club)
+* [Kamala Plagiarism Scandal](https://www.breitbart.com/tag/plagiarism/)
 * [2024 Election](https://www.breitbart.com/tag/2024-presidential-election/)
-* [Hurricane Milton](https://www.breitbart.com/tag/hurricane/)
 * [Israel Vs. Hezbollah](https://www.breitbart.com/tag/israel/)
 * [Illegal Alien Crime](https://www.breitbart.com/tag/illegal-immigration/)
 * [Diddy](https://www.breitbart.com/tag/diddy/)
