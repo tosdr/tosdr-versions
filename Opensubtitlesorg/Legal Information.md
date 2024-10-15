@@ -119,7 +119,7 @@
 
 ![](//static.opensubtitles.org/gfx/logo_64x64.gif)[![Subtitles - download movie and TV Series subtitles](//static.opensubtitles.org/gfx/logo.gif)](https://www.opensubtitles.org/en "Subtitles - download movie and TV Series subtitles")
 
-* search in 9917184 subtitles
+* search in 9918373 subtitles
 * [Search](https://www.opensubtitles.org/en/search "subtitles Search")
 * [Upload](https://www.opensubtitles.org/en/upload "subtitles Upload")
 * [Request](https://www.opensubtitles.org/en/request "subtitles Request")
@@ -270,7 +270,7 @@ OpenSubtitles Copyrights 2006-2016 by OpenSubtitles Group Limited. All Rights Re
 
 \[ [Hockey Arena](http://www.hockeyarena.net/ "Online Manager - Hockey Arena") | [Movie Posters](https://www.cinematerial.com/ "Digital Movie posters") \]
 
-© 2006-2024 opensubtitles.org | web3 backend
+© 2006-2024 opensubtitles.org | web2 backend
 
 [![](//static.opensubtitles.org/gfx/css/close.gif)](javascript:void(0))
 
