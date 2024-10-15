@@ -12,7 +12,7 @@ Menu
         * [Grez sur Loing](https://tane.harre.nz/tags/grez-sur-loing/)
         * [Saint Pierre lès Nemours](https://tane.harre.nz/tags/saint-pierre-les-nemours/)
         * [Thomery](https://tane.harre.nz/tags/thomery/)
-* [Git](https://git.bluefountain.eu/)
+* [Git](https://gitlab.com/taneharre/)
 * Travel
     * [Appenzell](https://tane.harre.nz/tags/appenzell/)
     * [Pyrenees](https://tane.harre.nz/tags/pyreneese/)
@@ -109,17 +109,17 @@ I am a New Zealander, living in France, who is interested in guitar, hiking, ope
 
 ### Related posts
 
-[![](https://tane.harre.nz/media/posts/688/responsive/Parliament_House_Wellington_New_Zealand_50-xs.jpg)](https://tane.harre.nz/make-a-submission-on-the-privacy-bill/)
+[![](https://tane.harre.nz/media/posts/690/responsive/Eu-European-Union-Data-Regulation-Gdpr-3222692-xs.jpg)](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
 
-#### [Make a submission on the Privacy Bill](https://tane.harre.nz/make-a-submission-on-the-privacy-bill/)
+#### [GDPR Privacy Policy Overview for New Zealand](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
 
-16/05/2016
+24/05/2018
 
-[![](https://tane.harre.nz/media/posts/686/responsive/The_Privacy_Shop_banner-1080x496-xs.jpg)](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
+[![](https://tane.harre.nz/media/posts/684/responsive/freedom_of_thought-1-xs.jpg)](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
 
-#### [What is the cost of privacy online?](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
+#### [Data privacy allows for freedom of thought and speech](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
 
-12/05/2018
+07/05/2018
 
 [![](https://tane.harre.nz/media/posts/687/responsive/Fake_News-xs.jpeg)](https://tane.harre.nz/does-trade-me-deserve-the-privacy-trust-mark/)
 
