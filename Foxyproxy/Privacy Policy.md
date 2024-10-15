@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-The service was easy to setup. Netflix worked great. Overall, I think it was a great service.
+Your suggestions worked perfectly! I am now able to surf the web and the i2p tunnels all in one browser.
 
-Andreas Gehring
+Allen Mershon
