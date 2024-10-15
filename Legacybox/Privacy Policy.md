@@ -1,10 +1,10 @@
 ![](https://www.facebook.com/tr?id=1540084302933059&ev=PageView&noscript=1)    
 
-                     
+                  
 
 ![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/566/assets/placeholder-pixel.png?v=50439485113009717681726754073)
 
-IT'S NOW OR NEVER $9 TAPES TRANSFERS (REG. ~$27.50~) Plus, get an extra 10% off with code GETLB10
+IT'S NOW OR NEVER $9 TAPE TRANSFERS (REG. ~$27.50~) Plus, get an extra 10% off with code GETLB10
 
 00 DAY
 
@@ -14,7 +14,7 @@ IT'S NOW OR NEVER $9 TAPES TRANSFERS (REG. ~$27.50~) Plus, get an extra 10% off 
 
 00 SEC
 
-$9 TAPES TRANSFERS (REG. ~$27.50~) THAT'S OVER 60% OFF! Plus, get an extra 10% off with code GETLB10
+$9 TAPE TRANSFERS (REG. ~$27.50~) THAT'S OVER 60% OFF! Plus, get an extra 10% off with code GETLB10
 
 [SHOP NOW >](https://legacybox.com/products/legacybox-digitizing-kit-9-tapes-film)
 
