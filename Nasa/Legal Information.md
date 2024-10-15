@@ -76,7 +76,7 @@ article4 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand
 
 ### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
 
-article4 days ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article5 days ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -247,19 +247,19 @@ Back
 
 ### NASA’s Hubble Watches Jupiter’s Great Red Spot Behave Like a Stress Ball
 
-article 5 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-watches-jupiters-great-red-spot-behave-like-a-stress-ball/)[![Photo of the Orion capsule, a white spacecraft with a solar array deployed, with the moon in the background.](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-i-srag-orion.jpg?w=1024)
+article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-watches-jupiters-great-red-spot-behave-like-a-stress-ball/)[![Photo of the Orion capsule, a white spacecraft with a solar array deployed, with the moon in the background.](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-i-srag-orion.jpg?w=1024)
 
 3 min read
 
 ### Artemis I Radiation Measurements Validate Orion Safety for Astronauts
 
-article 5 days ago](https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/)[![This photo features a tall, charcoal colored structure that looks like a headless AT-AT walker from Star Wars. A rectangular cylinder about twice as tall as a person rests atop a base with tall, skinny "legs." Two people wearing white gowns and blue gloves stand underneath the base, with two other similarly gowned people on either side of the structure. In the background, large walls are covered in light gray panels with seafoam green outlines.](https://www.nasa.gov/wp-content/uploads/2024/10/oba-copy-1.jpg?w=1024)
+article 6 days ago](https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/)[![This photo features a tall, charcoal colored structure that looks like a headless AT-AT walker from Star Wars. A rectangular cylinder about twice as tall as a person rests atop a base with tall, skinny "legs." Two people wearing white gowns and blue gloves stand underneath the base, with two other similarly gowned people on either side of the structure. In the background, large walls are covered in light gray panels with seafoam green outlines.](https://www.nasa.gov/wp-content/uploads/2024/10/oba-copy-1.jpg?w=1024)
 
 4 min read
 
 ### NASA’s Roman Space Telescope’s ‘Exoskeleton’ Whirls Through Major Test
 
-article 6 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)
+article 7 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)
 
 ### Highlights
 
@@ -269,19 +269,19 @@ article 6 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-ro
 
 ### Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
 
-article 3 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Astronaut Kathryn D. Sullivan, 41-G mission specialist, uses binoculars for a magnified viewing of earth through the forward cabin windows.](https://www.nasa.gov/wp-content/uploads/2023/09/41g-11-027.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Astronaut Kathryn D. Sullivan, 41-G mission specialist, uses binoculars for a magnified viewing of earth through the forward cabin windows.](https://www.nasa.gov/wp-content/uploads/2023/09/41g-11-027.jpg?w=1024)
 
 8 min read
 
 ### Kathryn Sullivan: The First American Woman to Walk in Space
 
-article 4 days ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/acd24-0156-048.jpg?w=1024)
+article 5 days ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/acd24-0156-048.jpg?w=1024)
 
 2 min read
 
 ### NASA Astronauts, Leadership Visit Children’s Hospital, Cancer Moonshot Event
 
-article 5 days ago](https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-astronauts-leadership-visit-childrens-hospital-cancer-moonshot-event/)
+article 6 days ago](https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-astronauts-leadership-visit-childrens-hospital-cancer-moonshot-event/)
 
 ### Highlights
 
@@ -291,19 +291,19 @@ article 5 days ago](https://www.nasa.gov/directorates/smd/space-life-physical-sc
 
 ### First Greenhouse Gas Plumes Detected With NASA-Designed Instrument
 
-article 4 days ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)[![Southern California warehouses](https://www.nasa.gov/wp-content/uploads/2024/10/1-warehouses.jpg?w=1024)
+article 5 days ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)[![Southern California warehouses](https://www.nasa.gov/wp-content/uploads/2024/10/1-warehouses.jpg?w=1024)
 
 5 min read
 
 ### NASA-Funded Study Assesses Pollution Near Los Angeles-Area Warehouses
 
-article 5 days ago](https://www.nasa.gov/earth/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/)[![NASA astronaut Matthew Dominick captured this photo of Hurricane Milton from the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/gzyjmonxwaa-3bx.jpeg?w=683)
+article 6 days ago](https://www.nasa.gov/earth/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/)[![NASA astronaut Matthew Dominick captured this photo of Hurricane Milton from the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/gzyjmonxwaa-3bx.jpeg?w=683)
 
 1 min read
 
 ### NASA Efforts on Hurricane Milton
 
-article 6 days ago](https://www.nasa.gov/hurricane-milton/)
+article 7 days ago](https://www.nasa.gov/hurricane-milton/)
 
 ### Highlights
 
@@ -313,7 +313,7 @@ article 6 days ago](https://www.nasa.gov/hurricane-milton/)
 
 ### Journey to a Water World: NASA’s Europa Clipper Is Ready to Launch
 
-article 1 day ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
 
 6 min read
 
@@ -341,7 +341,7 @@ article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-gran
 
 ### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
 
-article 4 days ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![Hubble Observes a Peculiar Galaxy Shape](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc4694-potw2440a.jpg)
+article 5 days ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![Hubble Observes a Peculiar Galaxy Shape](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc4694-potw2440a.jpg)
 
 2 min read
 
@@ -357,13 +357,13 @@ article 2 weeks ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-
 
 ### OpenET: Balancing Water Supply and Demand in the West
 
-article 2 hours ago](https://www.nasa.gov/general/openet-balancing-water-supply-and-demand-in-the-west/)[![A SpaceX Falcon Heavy rocket with the Europa Clipper spacecraft aboard](https://www.nasa.gov/wp-content/uploads/2024/10/1-clipper-on-the-pad-24-10-13-at-10-05-47 am.png?w=1024)
+article 9 hours ago](https://www.nasa.gov/general/openet-balancing-water-supply-and-demand-in-the-west/)[![A SpaceX Falcon Heavy rocket with the Europa Clipper spacecraft aboard](https://www.nasa.gov/wp-content/uploads/2024/10/1-clipper-on-the-pad-24-10-13-at-10-05-47 am.png?w=1024)
 
 5 min read
 
 ### Journey to a Water World: NASA’s Europa Clipper Is Ready to Launch
 
-article 1 day ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
 
 6 min read
 
@@ -379,7 +379,7 @@ article 2 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-
 
 ### NASA Spotlight: Felipe Valdez, an Inspiring Engineer
 
-article 16 hours ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+article 23 hours ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
 
 2 min read
 
@@ -401,19 +401,19 @@ article 2 days ago](https://www.nasa.gov/centers-and-facilities/langley/una-reun
 
 ### Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
 
-article 3 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Illustration of NASA’s Perseverance rover begins its descent through the Martian atmosphere](https://www.nasa.gov/wp-content/uploads/2023/03/pia24318_08_powereddescent_2000.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Illustration of NASA’s Perseverance rover begins its descent through the Martian atmosphere](https://www.nasa.gov/wp-content/uploads/2023/03/pia24318_08_powereddescent_2000.jpg?w=1024)
 
 2 min read
 
 ### Controlled Propulsion for Gentle Landings 
 
-article 3 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
 
 4 min read
 
 ### NASA Terminal Transmits First Laser Communications Uplink to Space 
 
-article 5 days ago](https://www.nasa.gov/technology/space-comms/space-communications/nasa-terminal-transmits-first-laser-communications-uplink-to-space/)
+article 6 days ago](https://www.nasa.gov/technology/space-comms/space-communications/nasa-terminal-transmits-first-laser-communications-uplink-to-space/)
 
 ### Featured
 
@@ -435,7 +435,7 @@ article 4 days ago](https://science.nasa.gov/solar-system/resources/resource-pac
 
 ### Igniting Inspiration: Jennifer Becerra’s STEM Legacy at Johnson 
 
-article 4 days ago](https://www.nasa.gov/centers-and-facilities/igniting-inspiration-jennifer-becerras-stem-legacy-at-johnson/)
+article 5 days ago](https://www.nasa.gov/centers-and-facilities/igniting-inspiration-jennifer-becerras-stem-legacy-at-johnson/)
 
 ### Featured
 
@@ -445,7 +445,7 @@ article 4 days ago](https://www.nasa.gov/centers-and-facilities/igniting-inspira
 
 ### Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
 
-article 3 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Lopez-Alegria, second from left, and the rest of the Ax-3 crew](https://www.nasa.gov/wp-content/uploads/2024/09/hhm-2024-43-la-ax-3-onboard-crew-photo-iss070e075488.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Lopez-Alegria, second from left, and the rest of the Ax-3 crew](https://www.nasa.gov/wp-content/uploads/2024/09/hhm-2024-43-la-ax-3-onboard-crew-photo-iss070e075488.jpg?w=1024)
 
 24 min read
 
@@ -457,7 +457,7 @@ article 3 days ago](https://www.nasa.gov/history/nasa-celebrates-hispanic-herita
 
 ### NASA Terminal Transmits First Laser Communications Uplink to Space 
 
-article 5 days ago](https://www.nasa.gov/technology/space-comms/space-communications/nasa-terminal-transmits-first-laser-communications-uplink-to-space/)
+article 6 days ago](https://www.nasa.gov/technology/space-comms/space-communications/nasa-terminal-transmits-first-laser-communications-uplink-to-space/)
 
 ### Highlights
 
