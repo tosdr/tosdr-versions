@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Sending THAAD to Israel adds to strain on US Army, leaders say](https://www.defensenews.com/air/2024/10/15/sending-thaad-air-defense-system-to-israel-adds-to-strain-on-us-army/)  
+    10/15/24 11:32am  
+    
+    A Terminal High Altitude Area Defense (THAAD) missile defense system is displayed outside the White House in 2019. The U.S. is sending a THAAD, along with roughly 100 troops to operate it, to Israel. (Alex Brandon/AP)
+    
 * [US to send missile defense system and troops to Israel](https://www.defensenews.com/news/your-military/2024/10/14/us-to-send-missile-defense-system-and-troops-to-israel/)  
     10/14/24 11:17am  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     10/09/24 02:36pm  
     
     Lockheed Martin has struggled with software components for the F-35's latest upgrades, and has now put a software engineering specialist in charge of the multi-billion dollar program. (U.S. Air Force)
-    
-* [France kicks off development of wingman drone for Rafale fighter jet](https://www.defensenews.com/global/europe/2024/10/09/france-kicks-off-development-of-wingman-drone-for-rafale-fighter-jet/)  
-    10/09/24 06:34am  
-    
-    A prototype of Dassault's "nEUROn" combat drone flies above the military airport in Istres, in southeastern France, in 2012. (AFP/ Dassault Aviation)
     
 
 Recent parts by keyword  
