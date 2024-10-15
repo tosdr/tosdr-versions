@@ -3,7 +3,7 @@ elsenutrition
 
 [Skip to content](#MainContent)
 
-Free Shipping on Orders over $59
+Free Shipping on orders of $59 and up!
 
    [![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935) ![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935)](https://elsenutrition.com/)
 
