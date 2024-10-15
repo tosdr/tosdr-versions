@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/WFMY/images/c1501dc8-394b-4c30-9f36-2eca1d7aef90/c1501dc8-394b-4c30-9f36-2eca1d7aef90_16x9.jpg) ![](https://media.kagstv.com/assets/WFMY/images/c1501dc8-394b-4c30-9f36-2eca1d7aef90/c1501dc8-394b-4c30-9f36-2eca1d7aef90_360x203.jpg)](https://www.kagstv.com/article/traffic/us-79-and-sh-6-railroad-crossing-closure-in-hearne-oct-18-2024-to-oct-21-2024/500-e7a8d47b-597d-4f58-bfb0-f9a0e77b1d48)
+    *  [![](https://media.kagstv.com/assets/WNEP/images/fda68742-6c8c-4a1f-91dd-7fa2b4fc8fb7/fda68742-6c8c-4a1f-91dd-7fa2b4fc8fb7_16x9.jpg) ![](https://media.kagstv.com/assets/WNEP/images/fda68742-6c8c-4a1f-91dd-7fa2b4fc8fb7/fda68742-6c8c-4a1f-91dd-7fa2b4fc8fb7_360x203.jpg)](https://www.kagstv.com/article/news/local/garbage-truck-fatality-college-station-oct-15-2024/500-ff29c588-5fd6-4d82-bf17-56985a1e1137)
         
-        #### [Railroad crossing in Hearne to close on Friday for planking repairs](https://www.kagstv.com/article/traffic/us-79-and-sh-6-railroad-crossing-closure-in-hearne-oct-18-2024-to-oct-21-2024/500-e7a8d47b-597d-4f58-bfb0-f9a0e77b1d48)
+        #### [Pedestrian dies after being hit by garbage truck in College Station](https://www.kagstv.com/article/news/local/garbage-truck-fatality-college-station-oct-15-2024/500-ff29c588-5fd6-4d82-bf17-56985a1e1137)
         
-    *  [![](https://media.kagstv.com/assets/WXIA/images/6ff2ec79-afdc-4882-887d-847e37e84430/6ff2ec79-afdc-4882-887d-847e37e84430_16x9.jpg) ![](https://media.kagstv.com/assets/WXIA/images/6ff2ec79-afdc-4882-887d-847e37e84430/6ff2ec79-afdc-4882-887d-847e37e84430_360x203.jpg)](https://www.kagstv.com/article/news/local/mother-daughter-awarded-121000-after-wrongfully-evicted-from-new-business/85-b376ac07-d13a-4315-a3b9-6ec9390cca49)
+    *  [![](https://media.kagstv.com/assets/WFMY/images/e8bf2325-8af4-431c-82ee-49abecc88f5a/20241006T233706/e8bf2325-8af4-431c-82ee-49abecc88f5a_16x9.jpg) ![](https://media.kagstv.com/assets/WFMY/images/e8bf2325-8af4-431c-82ee-49abecc88f5a/20241006T233706/e8bf2325-8af4-431c-82ee-49abecc88f5a_360x203.jpg)](https://www.kagstv.com/article/news/crime/college-station-barricaded-suspect-at-motel-6-oct-2024/500-614249ca-c688-4df2-a772-f3c8b8ab418a)
         
-        #### [Mother, daughter awarded $121,000 after they were wrongfully evicted from new business](https://www.kagstv.com/article/news/local/mother-daughter-awarded-121000-after-wrongfully-evicted-from-new-business/85-b376ac07-d13a-4315-a3b9-6ec9390cca49)
+        #### [Bryan man arrested after stabbing victim, barricading himself inside College Station Motel 6 room](https://www.kagstv.com/article/news/crime/college-station-barricaded-suspect-at-motel-6-oct-2024/500-614249ca-c688-4df2-a772-f3c8b8ab418a)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-72°
+98°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
