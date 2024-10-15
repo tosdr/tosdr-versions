@@ -4,64 +4,70 @@
 
 [Contact sales](https://webflow.com/contact-sales)
 
-* Product
+* Platform
     
     * Build
         
-        * [Designer
+        * [Design
             
-            Creative control, flexibility, and extensibility in a visual-first canvas](https://webflow.com/designer)
-        * [Page buildingNew
-            
-            Launch simple landing pages quickly and easily.](https://webflow.com/page-building)
+            Build high-performing sites](https://webflow.com/designer)
         * [Edit mode
             
-            Custom-built environment for content teammates](https://webflow.com/edit-mode)
-        * [Ecommerce
-            
-            Manage stunning online stores](https://webflow.com/ecommerce)
+            Empower your content team](https://webflow.com/edit-mode)
         * [Interactions
             
-            Craft immersive experiences without engineering support](https://webflow.com/interactions-animations)
-        * [Accessibility
+            Craft immersive experiences](https://webflow.com/interactions-animations)
+        * [Page building
             
-            Learn how you can build more accessible sites with Webflow](https://webflow.com/accessibility)
-    * Scale
+            New
+            
+            Launch simple landing pages quickly and easily](https://webflow.com/page-building)
+    * Manage
         
         * [CMS
             
-            Visual, composable content management](https://webflow.com/cms)
+            Manage content at scale](https://webflow.com/cms)
+        * [Hosting
+            
+            Host and scale your site without the hassle](https://webflow.com/hosting)
         * [Localization
             
             Customize your site for a worldwide audience](https://webflow.com/localization)
-        * [Hosting
-            
-            Reliable, scalable, fast, and secure hosting managed for you](https://webflow.com/hosting)
-        * [SEO
-            
-            Best-in-class, fine-tuned controls](https://webflow.com/seo)
         * [Security
             
-            State of the art web application security practices](https://webflow.com/security)
-    * Connect
+            Ensure your site stays safe](https://webflow.com/security)
+    * Optimize
+        
+        * [Analyze
+            
+            New
+            
+            Understand how your site performs](https://webflow.com/analyze)
+        * [Optimize
+            
+            New
+            
+            Maximize conversions with testing and personalization](https://webflow.com/optimize)
+        * [SEO
+            
+            Grow your reach with fine-tuned controls](https://webflow.com/seo)
+    * Extend
         
         * [Apps
             
-            Extend your site’s functionality](https://webflow.com/apps)
+            Connect your site to apps like HubSpot, Adobe Express, and more](https://webflow.com/apps)
         * [Figma to Webflow
             
-            Turn your static designs into clean, production-ready code](https://webflow.com/figma-to-webflow)
-    * [Webflow platform
-        
-        ↗
+            Turn static designs into clean, production-ready code](https://webflow.com/figma-to-webflow)
+    * [Platform overview
         
         Explore the power of the Webflow Platform
         
-        ![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb12234476ba4209b18_nav-ad-new.webp)](https://webflow.com/platform)
+        ↗](https://webflow.com/platform)[AI at Webflow
         
-        [Product updates
+        Elevate your site with the power of AI
         
-        See what we’ve shipped recently](https://webflow.com/updates)
+        ↗](https://webflow.com/ai)
     
 * Solutions
     
@@ -146,10 +152,7 @@
         
         * [Support
             
-            Browse support solutions or get in touch with our team](https://support.webflow.com/)
-        * [Documentation
-            
-            In-depth Webflow documentation](https://university.webflow.com/docs)
+            Jump into our product docs or connect with our Support team](https://help.webflow.com/)
         * [Forum
             
             Ask questions and learn alongside other Webflow users](https://forum.webflow.com/)
@@ -405,7 +408,7 @@ We may, in our sole discretion, modify or update this Policy from time to time. 
 Contact us
 ----------
 
-If you have questions regarding this Policy or about the privacy practices of Webflow, please contact us by email at [\[email protected\]](https://webflow.com/cdn-cgi/l/email-protection), or at:
+If you have questions regarding this Policy or about the privacy practices of Webflow, please contact us by email at [privacy@webflow.com](mailto:privacy@webflow.com), or at:
 
 Webflow, Inc.  
 398 11th Street, 2nd Floor  
@@ -421,21 +424,27 @@ Product
 
 * [Platform](https://webflow.com/platform)
 * [Designer](https://webflow.com/designer)
+* [Edit mode](https://webflow.com/edit-mode)
+* [Interactions](https://webflow.com/interactions-animations)
 * [Page building](https://webflow.com/page-building)
 * [CMS](https://webflow.com/cms)
-* [Ecommerce](https://webflow.com/ecommerce)
-* [Interactions](https://webflow.com/interactions-animations)
-* [SEO](https://webflow.com/seo)
-* [Localization](https://webflow.com/localization)
-* [Edit mode](https://webflow.com/edit-mode)
 * [Hosting](https://webflow.com/hosting)
+* [Localization](https://webflow.com/localization)
+* [Security](https://webflow.com/security)
+* [Ecommerce](https://webflow.com/ecommerce)
+* [Analyze
+    
+    New](https://webflow.com/analyze)
+* [Optimize
+    
+    New](https://webflow.com/optimize)
+* [SEO](https://webflow.com/seo)
 * [DevLink
     
     Labs](http://webflow.com/devlink)
 * [Figma to Webflow
     
     Labs](https://webflow.com/figma-to-webflow)
-* [Security](https://webflow.com/security)
 * [Accessibility](https://webflow.com/accessibility)
 * [AI](https://webflow.com/ai)
 
