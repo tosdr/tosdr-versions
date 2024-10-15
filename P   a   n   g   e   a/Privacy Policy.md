@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,456 members - 452,099,451 ads shown  
+131,456 members - 452,101,642 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
