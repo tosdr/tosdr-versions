@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-kubrick-1200x630.jpg)](https://americanwirenews.com/stanley-kubricks-daughter-defends-trumps-use-of-full-metal-jacket-says-father-would-have-agreed/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-slickwilliega-1200-x-628-1200x630.jpg)](https://americanwirenews.com/bill-clinton-blames-harris-biden-regime-for-letting-laken-rileys-killer-into-the-country/)
 
-[Stanley Kubrick’s daughter defends Trump’s use of ‘Full Metal Jacket,’ says father ‘would have agreed’](https://americanwirenews.com/stanley-kubricks-daughter-defends-trumps-use-of-full-metal-jacket-says-father-would-have-agreed/)
+[Bill Clinton blames Harris-Biden regime for letting Laken Riley’s killer into the country](https://americanwirenews.com/bill-clinton-blames-harris-biden-regime-for-letting-laken-rileys-killer-into-the-country/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-psaki-carville-1200x630.jpg)](https://americanwirenews.com/james-carville-takes-trump-fearmongering-to-next-level-hes-going-to-have-a-roundup/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sgkevin-oleary-1200x630.png)](https://americanwirenews.com/shark-tanks-mr-wonderful-endorses-musk-to-head-govt-efficiency-commission/)
 
-[James Carville takes Trump fearmongering to next level: ‘He’s going to have a roundup’](https://americanwirenews.com/james-carville-takes-trump-fearmongering-to-next-level-hes-going-to-have-a-roundup/)
+[Shark Tank’s ‘Mr. Wonderful’ endorses Musk to head gov’t efficiency commission](https://americanwirenews.com/shark-tanks-mr-wonderful-endorses-musk-to-head-govt-efficiency-commission/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-harris-2-1200x630.jpg)](https://americanwirenews.com/rufo-vp-harris-plagiarized-at-least-a-dozen-sections-of-her-smart-on-crime-book/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-borno-1200x630.jpg)](https://americanwirenews.com/amazon-boycott-gains-speed-after-senior-vp-wears-controversial-necklace/)
 
-[Rufo says Kamala Harris plagiarized at least a dozen sections of her 2009 book: ‘We have the receipts’](https://americanwirenews.com/rufo-vp-harris-plagiarized-at-least-a-dozen-sections-of-her-smart-on-crime-book/)
+[Amazon boycott gains speed after senior VP wears controversial necklace](https://americanwirenews.com/amazon-boycott-gains-speed-after-senior-vp-wears-controversial-necklace/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-sg-nuter-butter-tiktoks-split-1200x630.jpg)](https://americanwirenews.com/you-good-bizarre-ads-for-beloved-nutter-butter-cookies-prompts-concerns/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gang-victim-sg-gang-members-1200x630.jpg)](https://americanwirenews.com/aurora-apartment-management-co-confirms-gang-takeovers-one-staffer-beaten-to-a-pulp/)
 
-[‘You good?’ Bizarre ads for beloved Nutter Butter cookies prompts concerns](https://americanwirenews.com/you-good-bizarre-ads-for-beloved-nutter-butter-cookies-prompts-concerns/)
+[Apartment management co. confirms gang takeovers, one staffer beaten to a pulp](https://americanwirenews.com/aurora-apartment-management-co-confirms-gang-takeovers-one-staffer-beaten-to-a-pulp/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bathbodyworks-candles-1200x630.jpg)](https://americanwirenews.com/bath-body-works-caves-to-snowflakes-over-candle-being-compared-to-kkk-hood/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Alejandro-Mayorkas-1200x630.jpg)](https://americanwirenews.com/house-gop-presses-mayorkas-for-answers-on-fema-funding-for-illegal-immigrants/)
 
-[Bath & Body Works caves to snowflakes over candle being compared to KKK hood](https://americanwirenews.com/bath-body-works-caves-to-snowflakes-over-candle-being-compared-to-kkk-hood/)
+[House GOP presses Mayorkas for answers on FEMA funding for illegal immigrants](https://americanwirenews.com/house-gop-presses-mayorkas-for-answers-on-fema-funding-for-illegal-immigrants/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-goldberg-1200x630.jpg)](https://americanwirenews.com/i-was-filthy-whoopi-clapback-manages-to-confirm-trumps-filthy-dirty-disgusting-assertion/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe-rogan-1200x630.png)](https://americanwirenews.com/trump-announces-hes-doing-joe-rogan-podcast-now-kamala-wants-rogan/)
 
-[‘I was filthy’: Whoopi clapback manages to confirm Trump’s ‘filthy, dirty, disgusting’ assertion](https://americanwirenews.com/i-was-filthy-whoopi-clapback-manages-to-confirm-trumps-filthy-dirty-disgusting-assertion/)
+[Trump announces he’s doing Joe Rogan podcast, now Kamala wants Rogan](https://americanwirenews.com/trump-announces-hes-doing-joe-rogan-podcast-now-kamala-wants-rogan/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-aurora-gang-apartments-1200x630.jpg)](https://americanwirenews.com/mgmt-company-sets-record-straight-says-gangs-have-taken-control-of-several-colorado-properties/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vance-1-1200x630.jpg)](https://americanwirenews.com/vance-visits-precinct-spot-that-walz-allowed-blm-to-burn/)
 
-[Mgmt company sets record straight, says gangs ‘have taken control’ of several Colorado properties](https://americanwirenews.com/mgmt-company-sets-record-straight-says-gangs-have-taken-control-of-several-colorado-properties/)
+[Vance visits precinct spot that Walz allowed BLM to burn](https://americanwirenews.com/vance-visits-precinct-spot-that-walz-allowed-blm-to-burn/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-harris-1200x630.jpg)](https://americanwirenews.com/she-is-slow-and-lethargic-trump-calls-for-kamala-harris-to-take-cognitive-test/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-luna-joefl-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/well-i-did-not-expect-that-rep-anna-paulina-luna-surprised-after-time-with-president-biden/)
 
-[‘She is slow and lethargic’: Trump calls for Kamala Harris to take cognitive test](https://americanwirenews.com/she-is-slow-and-lethargic-trump-calls-for-kamala-harris-to-take-cognitive-test/)
+[‘Well, I did not expect that’: Rep. Anna Paulina Luna surprised after time with President Biden](https://americanwirenews.com/well-i-did-not-expect-that-rep-anna-paulina-luna-surprised-after-time-with-president-biden/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-hurricane-helene-nc-fema-deanne-criswell-split-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-bret-kamala-split-1200-x-628-1200x630.jpg)
 
-### FEMA claims armed militia ‘out hunting’ agents in NC county – issues stand down order](https://americanwirenews.com/fema-claims-armed-militia-out-hunting-agents-in-nc-county-issues-stand-down-order/)
+### Desperate Kamala to sit down with Fox’s Bret Baier, Trump reacts](https://americanwirenews.com/desperate-kamala-to-sit-down-with-foxs-bret-baier-trump-reacts/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +77,44 @@ Search for:
 ### [Bon Jovi sparks backlash when he endorses Kamala, prostrates himself with song about ‘privilege’](https://americanwirenews.com/bon-jovi-sparks-backlash-when-he-endorses-kamala-prostrates-himself-with-song-about-privilege/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/09/RF-Getty-cowboy-farmer-rifle-gun-hunter-weapon-shoot-220x180.jpg)](https://americanwirenews.com/two-giants-team-up-to-change-the-game-for-hunters-with-new-airbnb-like-system/)
+
+[Two giants team up to change the game for hunters with new AirBnB-like system](https://americanwirenews.com/two-giants-team-up-to-change-the-game-for-hunters-with-new-airbnb-like-system/)
+
+Getty Images
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-aurora-resident-220x180.jpg)](https://americanwirenews.com/slap-in-the-face-woman-who-fled-her-apartment-due-to-tren-de-aragua-has-message-for-lying-media/)
+
+[‘Slap in the face’: Woman who fled her apartment due to Tren de Aragua has message for lying media](https://americanwirenews.com/slap-in-the-face-woman-who-fled-her-apartment-due-to-tren-de-aragua-has-message-for-lying-media/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/rf-pexels-courtroom-judge-220x180.jpg)](https://americanwirenews.com/state-supreme-court-races-could-have-major-impact-on-future-policy-questions/)
+
+[State Supreme Court races could have major impact on future policy questions](https://americanwirenews.com/state-supreme-court-races-could-have-major-impact-on-future-policy-questions/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-wilson-liu-bodycam-220x180.jpg)](https://americanwirenews.com/shocking-footage-towering-woman-repeatedly-slashes-cop-doing-welfare-check-shot-dead/)
+
+[Shocking footage: towering woman repeatedly slashes cop doing welfare check, shot dead](https://americanwirenews.com/shocking-footage-towering-woman-repeatedly-slashes-cop-doing-welfare-check-shot-dead/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2022/05/SG-Vance-220x180.jpg)](https://americanwirenews.com/late-trump-fundraiser-features-very-pricey-ultra-maga-experience/)
+
+[Late Trump fundraiser features very pricey ‘Ultra MAGA Experience’](https://americanwirenews.com/late-trump-fundraiser-features-very-pricey-ultra-maga-experience/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-kamalaphilly1-1200-x-628-220x180.jpg)](https://americanwirenews.com/las-vegas-review-journal-nevadas-largest-newspaper-endorses-trump-and-torches-kamala/)
+
+[Las Vegas Review-Journal, Nevada’s largest newspaper, endorses Trump and TORCHES Kamala](https://americanwirenews.com/las-vegas-review-journal-nevadas-largest-newspaper-endorses-trump-and-torches-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-assassination-survivors-220x180.jpg)](https://americanwirenews.com/two-men-shot-at-trumps-butler-rally-speak-out-about-what-happened-and-who-is-to-blame/)
+
+[Two men shot at Trump’s Butler rally speak out about what happened and who is to blame](https://americanwirenews.com/two-men-shot-at-trumps-butler-rally-speak-out-about-what-happened-and-who-is-to-blame/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamalateeth-1200-x-628-220x180.jpg)](https://americanwirenews.com/ny-times-admits-kamala-is-a-plagiarist-but-its-no-big-deal/)
+
+[NY Times admits Kamala is a plagiarist but it’s no big deal](https://americanwirenews.com/ny-times-admits-kamala-is-a-plagiarist-but-its-no-big-deal/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-francis-220x180.jpg)](https://americanwirenews.com/divine-message-catholics-appear-to-be-breaking-for-trump-report/)
+
+[Divine message? Catholics appear to be breaking for Trump – report](https://americanwirenews.com/divine-message-catholics-appear-to-be-breaking-for-trump-report/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-7-220x180.jpg)](https://americanwirenews.com/trump-spox-slams-kamala-as-a-stereotypical-leftist-over-resurfaced-take-on-columbus-day/)
 
@@ -137,46 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-welker-kornacki-poll-220x180.jpg)](https://americanwirenews.com/this-is-a-big-one-nbcs-welker-dismayed-over-poll-showing-trump-erases-5-point-harris-lead/)
 
 [‘This is a big one!’ NBC’s Welker dismayed over poll showing Trump erases 5-point Harris lead](https://americanwirenews.com/this-is-a-big-one-nbcs-welker-dismayed-over-poll-showing-trump-erases-5-point-harris-lead/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-spencer-sg-lonoke-220x180.jpg)](https://americanwirenews.com/arkansas-father-charged-with-murder-after-locating-missing-daughter-14-with-her-alleged-rapist/)
-
-[Arkansas father charged with murder after locating missing daughter, 14, with her alleged rapist](https://americanwirenews.com/arkansas-father-charged-with-murder-after-locating-missing-daughter-14-with-her-alleged-rapist/)
-
-Image via Lonoke County Detention Center
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vance-martha-1200-x-628-220x180.jpg)](https://americanwirenews.com/do-you-hear-yourself-jd-vance-shuts-down-martha-raddatz-over-venezuela-migrant-gangs/)
-
-[‘Do you hear yourself?’ JD Vance shuts down Martha Raddatz over Venezuela migrant gangs](https://americanwirenews.com/do-you-hear-yourself-jd-vance-shuts-down-martha-raddatz-over-venezuela-migrant-gangs/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-5-220x180.jpg)](https://americanwirenews.com/david-sacks-warns-kamalas-in-trouble-has-entered-the-doom-loop/)
-
-[David Sacks warns Kamala’s in trouble, has entered the ‘doom loop’](https://americanwirenews.com/david-sacks-warns-kamalas-in-trouble-has-entered-the-doom-loop/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-trump-milley-220x180.jpg)](https://americanwirenews.com/woke-train-wreck-trump-spox-slams-gen-milley-over-fascist-allegation/)
-
-[‘Woke train-wreck’: Trump spox slams Gen. Milley over ‘fascist’ allegation](https://americanwirenews.com/woke-train-wreck-trump-spox-slams-gen-milley-over-fascist-allegation/)
-
-(Official White House Photo by Shealah Craighead)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gretchplank-1200-x-628-220x180.jpg)](https://americanwirenews.com/gretchen-whitmer-issued-tepid-apology-for-mocking-catholics-in-perverse-doritos-video/)
-
-[Gretchen Whitmer issued tepid apology for mocking Catholics in perverse Doritos video](https://americanwirenews.com/gretchen-whitmer-issued-tepid-apology-for-mocking-catholics-in-perverse-doritos-video/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-harris-biden-220x180.jpg)](https://americanwirenews.com/et-tu-joe-biden-reportedly-sabotaging-kamalas-presidential-bid-after-being-forced-out/)
-
-[‘Et tu, Joe?’ Biden reportedly sabotaging Kamala’s presidential bid after being forced out](https://americanwirenews.com/et-tu-joe-biden-reportedly-sabotaging-kamalas-presidential-bid-after-being-forced-out/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-wesko-220x180.png)](https://americanwirenews.com/country-singers-song-about-storm-ravaged-nc-goes-viral-we-didnt-know-violence-til-we-met-helene/)
-
-[Country singer’s song about storm-ravaged NC goes viral: ‘We didn’t know violence ’til we met Helene’](https://americanwirenews.com/country-singers-song-about-storm-ravaged-nc-goes-viral-we-didnt-know-violence-til-we-met-helene/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-snlkamala-1200-x-628-220x180.jpg)](https://americanwirenews.com/snl-turns-on-kamala-skewers-floundering-democrat-nominee/)
-
-[SNL ‘turns on’ Kamala, skewers floundering Democrat nominee](https://americanwirenews.com/snl-turns-on-kamala-skewers-floundering-democrat-nominee/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-rogan-220x180.jpg)](https://americanwirenews.com/trump-confirms-joe-rogan-interview-heres-what-rogan-is-likely-to-ask/)
-
-[Trump confirms Joe Rogan interview – here’s what Rogan is likely to ask](https://americanwirenews.com/trump-confirms-joe-rogan-interview-heres-what-rogan-is-likely-to-ask/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
