@@ -289,13 +289,6 @@ The funeral of Kyle McDermott (inset) took place at St Aengus' Church, Burt
 [Kyle McDermott: Heartbroken partner tells funeral of cherished memories](https://www.derrynow.com/news/local-news/1629499/kyle-mcdermott-heartbroken-partner-tells-funeral-of-cherished-memories.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1627155/derry-death-notices-monday-october-14-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, October 14 2024](https://www.derrynow.com/news/deaths/1627155/derry-death-notices-monday-october-14-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice")](https://www.derrynow.com/news/local-news/1629487/pictures-foyle-school-of-speech-and-drama-host-charity-feis-for-foyle-hospice.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -332,6 +325,13 @@ The suspected drugs seized by Ballyarnett Neighbourhood Policing Team
 
 [Man (23) charged with number of drugs offences following weekend seizure in Derry](https://www.derrynow.com/news/local-news/1629634/man-23-charged-with-number-of-drugs-offences-following-weekend-seizure-in-derry.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Bail granted for Derry man who breached bail conditions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bail granted for Derry man who breached bail conditions")](https://www.derrynow.com/news/local-news/1629648/bail-granted-for-derry-man-who-breached-bail-conditions.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Bail granted for Derry man who breached bail conditions](https://www.derrynow.com/news/local-news/1629648/bail-granted-for-derry-man-who-breached-bail-conditions.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,6 +511,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1629835/derry-death-notices-tuesday-october-15-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, October 15 2024](https://www.derrynow.com/news/deaths/1629835/derry-death-notices-tuesday-october-15-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1630206/derry-city-waste-yet-another-opportunity-to-go-top.html)
 
 An early second half equaliser was not enough for Derry City. Pic by Ramsey Cardy/ Sportsfile
@@ -520,7 +527,7 @@ An early second half equaliser was not enough for Derry City. Pic by Ramsey Card
 [Derry City waste yet another opportunity to go top](https://www.derrynow.com/news/derry-sport/1630206/derry-city-waste-yet-another-opportunity-to-go-top.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![First-time Derry show garden designers sought for Bord Bia Bloom](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "First-time Derry show garden designers sought for Bord Bia Bloom")](https://www.derrynow.com/news/local-news/1629843/first-time-derry-show-garden-designers-sought-for-bord-bia-bloom.html)
+[![First-time Derry show garden designers sought for Bord Bia Bloom](https://www.derrynow.com/resizer/165/93/true/2024_10_14/3-1728913230910.jpg--.jpg?1728913234597 "First-time Derry show garden designers sought for Bord Bia Bloom")](https://www.derrynow.com/news/local-news/1629843/first-time-derry-show-garden-designers-sought-for-bord-bia-bloom.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -549,13 +556,6 @@ Team Northern Ireland ready for their WKC World Championships in Portugal
 
 [Derry represented in Team Northern Ireland WKC World Championships in Portugal](https://www.derrynow.com/news/sport/1629893/derry-represented-in-team-northern-ireland-wkc-world-championships-in-portugal.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry woman reflects on volunteering with NSPCC NI Young Witness Service](https://www.derrynow.com/resizer/165/93/true/2024_10_14/Decoa_Graham-1728919096008.jpg--.jpg?1728919096058 "County Derry woman reflects on volunteering with NSPCC NI Young Witness Service")](https://www.derrynow.com/news/local-news/1629964/county-derry-woman-reflects-onvolunteering-with-nspcc-ni-young-witness-service.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry woman reflects on volunteering with NSPCC NI Young Witness Service](https://www.derrynow.com/news/local-news/1629964/county-derry-woman-reflects-onvolunteering-with-nspcc-ni-young-witness-service.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
