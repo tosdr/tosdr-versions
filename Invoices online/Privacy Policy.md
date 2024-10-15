@@ -118,57 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Hugo van Sittert
+Johan Botha - Brand Xplosion
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=95448152)  
-VerdanTech Pty Ltd
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=29338168)  
+Gemini-IT Group
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=85415440)  
-Wiselink Broadband Vryheid
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=173381447)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=7553472)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=104232611)  
+Imhoff Equestrian Centre
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=93426864)  
-Mtunzini Group
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=121302703)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=146538334)  
-Salvage Genie
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=92728531)  
+African Roots
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=94992343)  
-Firstweb Hosting & Design
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=72526836)  
+BD Maintenance
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=149027059)  
-Immediate Health (pty)ltd
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=35448151)  
+APTV Telecoms CC
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=22420883)  
-Konsortium Operations ( Roamfree Meats )
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=4665152)  
+Depot Diesel (Pty) Ltd
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=135129106)  
-Skinz Printing & Branding
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=5332225)  
+ELLIE'S CLEANING CHICKS
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=4786958)  
-Prosper Park
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=105696686)  
+Fox Alarms & Security CC
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=133501483)  
-Redlum Group (Pty) Ltd
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=23315532)  
+Sonic Electrical Services PTY Ltd
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=79100146)  
-McKaynine Mobility
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=43378612)  
+CLEVER STUDENTS
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=8328103)  
-SafeTclip
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=59395244)  
+United Paintball Federation
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=157756913)  
-MONSTER SECURITY SERVICES
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=99192714)  
+Oak Tree Immigration
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=9c65d8ce348fde44127ce57883026f5268c7a8191da19e24d177dcc7ce155474&c=175754621)  
-Alliance Energy
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=168808537)  
+Lizzy Pop PTY(Ltd)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
