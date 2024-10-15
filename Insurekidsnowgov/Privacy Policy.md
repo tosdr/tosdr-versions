@@ -373,7 +373,7 @@ Helpful Links
 * [Archive](https://www.insurekidsnow.gov/archive)
 * [Disclaimers](https://www.insurekidsnow.gov/disclaimers)
 * [Privacy Policy](https://www.insurekidsnow.gov/privacy-policy)
-* [Site Feedback](mailto:Medicaid.gov@cms.hhs.gov?subject=Medicaid.gov%20Feedback)
+* [Site Feedback](mailto:Connectingkids@cms.hhs.gov?subject=Medicaid.gov%20Feedback)
 * [Web Policies and Important Links](https://www.cms.gov/about-cms "Web Policies and Important Links")
 * [Privacy Settings](# "Privacy settings")
 
