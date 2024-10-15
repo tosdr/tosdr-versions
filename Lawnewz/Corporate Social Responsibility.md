@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Donald Trump, The Apprentice movie](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Trump-the-Apprentice-432x243.jpg)](https://lawandcrime.com/high-profile/trump-just-posted-that-the-apprentice-movie-is-defamatory-and-may-not-have-the-right-to-use-that-name-but-will-he-actually-sue/)
+1. [![Patrick Byrne, Hunter Biden](https://am21.mediaite.com/lc/cnt/uploads/2023/11/Patrick-Byrne-Hunter-Biden-432x243.jpg)](https://lawandcrime.com/high-profile/hunter-biden-attempt-to-put-ex-overstock-ceo-under-oath-in-defamation-suit-frustrated-by-sudden-move-to-dubai-and-claims-of-venezuelan-bounty/)
     
-    ### [Trump just posted that 'The Apprentice' movie is 'defamatory' and may not 'have the right to use that name,' but will he actually sue?](https://lawandcrime.com/high-profile/trump-just-posted-that-the-apprentice-movie-is-defamatory-and-may-not-have-the-right-to-use-that-name-but-will-he-actually-sue/)
+    ### [Hunter Biden attempt to put ex-Overstock CEO under oath in defamation suit frustrated by sudden move to Dubai and claims of Venezuelan 'bounty'](https://lawandcrime.com/high-profile/hunter-biden-attempt-to-put-ex-overstock-ceo-under-oath-in-defamation-suit-frustrated-by-sudden-move-to-dubai-and-claims-of-venezuelan-bounty/)
     
-2. [![Alyssa Sevilla and Romi Frentescu](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Alyssa-Sevilla-and-Romi-Frentescu-432x243.jpg)](https://lawandcrime.com/crime/wife-of-motorcycle-club-member-arrested-for-helping-husband-flee-scene-after-he-murdered-2-people-and-told-nurse-to-stop-cpr-cops/)
+2. [![Background: Mobile home park in Dallas, Texas, where a fire killed a man and three dogs (WFAA/YouTube). Inset: Mirsa Lopez (Lew Sterrit Justice Center).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Mirsa-Lopez-432x243.jpg)](https://lawandcrime.com/crime/woman-denied-access-to-bathroom-sets-blaze-that-killed-1-man-and-3-dogs-police/)
     
-    ### [Wife of motorcycle club member arrested for helping husband flee scene after he murdered 2 people and told nurse to stop CPR: Cops](https://lawandcrime.com/crime/wife-of-motorcycle-club-member-arrested-for-helping-husband-flee-scene-after-he-murdered-2-people-and-told-nurse-to-stop-cpr-cops/)
+    ### [Woman denied access to bathroom sets blaze that killed 1 man and 3 dogs: Police](https://lawandcrime.com/crime/woman-denied-access-to-bathroom-sets-blaze-that-killed-1-man-and-3-dogs-police/)
     
-3. [![Lee Gilley, Christa Bauer Gilley](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Lee-Gilley-Christa-Gilley-432x243.jpg)](https://lawandcrime.com/crime/software-consultant-strangled-pregnant-wife-and-mom-of-2-tried-to-make-her-death-look-like-drug-overdose-suicide-after-argument-at-home-court-docs/)
+3. [![Brett Kavanugh, Stormy Daniels, Michael Avenatti](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Kavanaugh-Avenatti-432x243.jpg)](https://lawandcrime.com/high-profile/justice-kavanaugh-again-does-nothing-as-scotus-rejects-michael-avenatti-appeal-in-stormy-daniels-case/)
     
-    ### [Software consultant strangled pregnant wife and mom of 2, tried to make her death look like drug overdose suicide after argument at home: Court docs](https://lawandcrime.com/crime/software-consultant-strangled-pregnant-wife-and-mom-of-2-tried-to-make-her-death-look-like-drug-overdose-suicide-after-argument-at-home-court-docs/)
+    ### [Justice Kavanaugh on the sidelines again as Supreme Court ignores Michael Avenatti claim that conviction for stealing Stormy Daniels' identity 'risks sowing mischief'](https://lawandcrime.com/high-profile/justice-kavanaugh-again-does-nothing-as-scotus-rejects-michael-avenatti-appeal-in-stormy-daniels-case/)
     
-4. [![Chad Westover and Tristan Thomas](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Chad-Westover-and-Tristan-Thomas-432x243.jpg)](https://lawandcrime.com/crime/thats-a-lot-of-blood-mail-carrier-murdered-after-dispute-over-motorcycle-parking-allegations-of-following-teen-girl-cops-say/)
+4. [![From left to right/ Leilani Simon and Quinton Simon (District Attorney's Office), and Simon in court (Law&Crime)](https://am24.mediaite.com/lc/cnt/uploads/2024/10/From-left-to-right-Leilani-Simon-and-Quinton-Simon-District-Attorneys-Office-and-Simon-in-court-LawCrime-432x243.png)](https://lawandcrime.com/crime/it-was-spoiled-mom-accused-of-killing-toddler-tossing-body-in-dumpster-told-cops-she-was-just-throwing-away-stinky-shrimp-pasta/)
     
-    ### ['That's a lot of blood!': Mail carrier murdered after dispute over motorcycle parking, allegations of following teen girl, cops say](https://lawandcrime.com/crime/thats-a-lot-of-blood-mail-carrier-murdered-after-dispute-over-motorcycle-parking-allegations-of-following-teen-girl-cops-say/)
+    ### ['It was spoiled': Mom accused of killing toddler, tossing body in dumpster told cops she was just throwing away 'stinky shrimp pasta'](https://lawandcrime.com/crime/it-was-spoiled-mom-accused-of-killing-toddler-tossing-body-in-dumpster-told-cops-she-was-just-throwing-away-stinky-shrimp-pasta/)
     
-5. [![Tiffanie Lucas with sons Jayden and Maurice](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Lucas-432x243.jpg)](https://lawandcrime.com/crime/tiffanie-lucas-intends-to-plead-guilty-after-attempting-to-claim-she-was-legally-insane-when-she-shot-two-sons-in-the-head/)
+5. [![Donald Trump, Philip Esformes](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Trump-Esformes-432x243.jpg)](https://lawandcrime.com/high-profile/medicare-fraudster-devoted-to-prayer-and-given-another-chance-by-trump-arrested-on-eve-of-birthday-allegedly-threatened-wife-in-front-of-family-members/)
     
-    ### [Mom who claimed it was an 'accident' and Facebook made her shoot 2 young sons in the head at home is suddenly reversing course](https://lawandcrime.com/crime/tiffanie-lucas-intends-to-plead-guilty-after-attempting-to-claim-she-was-legally-insane-when-she-shot-two-sons-in-the-head/)
+    ### [Medicare fraudster 'devoted to prayer' and given another chance by Trump arrested on eve of birthday, allegedly threatened wife in front of family members](https://lawandcrime.com/high-profile/medicare-fraudster-devoted-to-prayer-and-given-another-chance-by-trump-arrested-on-eve-of-birthday-allegedly-threatened-wife-in-front-of-family-members/)
     
 
 [](http://eepurl.com/c89Jdb)
