@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Retro SWAT](https://www.somethingawful.com/fashion-swat/retro-swat/1/)
-* [Sharper FX Inc.](https://www.somethingawful.com/awful-links/extreme-church/)
-* [2004: A Look Ahead](https://www.somethingawful.com/news/2004-look-ahead/)
-* [AwfulVision, Literally.](https://www.somethingawful.com/awfulvision/toilet-furry-jesus/1/)
-* [The World's Weirdest Laws](https://www.somethingawful.com/news/weird-laws/)
+* [Old To Young!](https://www.somethingawful.com/photoshop-phriday/anti-aging-perfection/)
+* [The Democrat's Guide to Overthrowing the Government](https://www.somethingawful.com/guides/guide-democrats-guide/1/)
+* [Guide to Mommy and Daddy Wrestling Last Night](https://www.somethingawful.com/guides/guide-wrestling-mommy/1/)
+* [Worst Case Scenario: A Gentleman’s Guide to Pessimism](https://www.somethingawful.com/guides/worst-case-scenario/)
+* [The Amazing World of Counterstrike](https://www.somethingawful.com/guides/guide-amazing-world/1/)
 
 ### Popular Threads
 
@@ -218,11 +218,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [You Didn't Get the Part!](https://www.somethingawful.com/photoshop-phriday/recast-movies/1/)
-* [Hitchhiking: The Greatest Game I've Ever Played](https://www.somethingawful.com/comedy-goldmine/hitchhiking-greatest-game/1/)
-* [ARE YALL READY TO SEE MY SISTER'S LANDING STRIP?](https://www.somethingawful.com/levi-johnston/mercede-playboy-levi/1/)
-* [Further Proof Paypal Sucks](https://www.somethingawful.com/news/further-proof-paypal/)
-* [Reptoids (Thanks, blackishsheep!)](https://www.somethingawful.com/awful-links/reptoids-john-rhodes/)
+* [College: Dreams Come Here to Die](https://www.somethingawful.com/news/college-dreams-die/)
+* [My Social Media "Brand" is Saying That Hitler is Bad](https://www.somethingawful.com/comedy-goldmine/hitler-bad-actually/)
+* [District Bulletin: Missing Person](https://www.somethingawful.com/news/district-bulletin-missing/)
+* [Boy Toy Dolls (Thanks, Haruharuharuko!)](https://www.somethingawful.com/awful-links/boy-toy-dolls/)
+* [Clan Hell: Clan Old School Doomers](https://www.somethingawful.com/clan-hell/clan-hell-clan-17/)
 
 [Random!](https://www.somethingawful.com/random/)
 
