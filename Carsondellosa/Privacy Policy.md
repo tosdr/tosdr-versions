@@ -1,6 +1,4 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-187903508953)                                                   
-
-FLASH SALE—$5 Bulletin Board Letters! | [SHOP](https://www.carsondellosa.com/sale/todays-offers/bulletin-board-letters/)
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-187915748601)                                                   
 
 FREE SHIPPING on Online Orders $40+
 
