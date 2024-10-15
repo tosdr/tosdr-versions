@@ -205,6 +205,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Verlieren wir morgen wieder ein Tech-Unternehmen? Bund streitet um Millionen-Hilfe für Elektroflugzeug-Start-up
+
+Verlieren wir morgen wieder ein Tech-Unternehmen? Bund streitet um Millionen-Hilfe für Elektroflugzeug-Start-up
+
+Verlieren wir morgen wieder ein Tech-Unternehmen? Bund streitet um Millionen-Hilfe für Elektroflugzeug-Start-up
+
+Verlieren wir morgen wieder ein Tech-Unternehmen? Bund streitet um Millionen-Hilfe für Elektroflugzeug-Start-up
+
+Verlieren wir morgen wieder ein Tech-Unternehmen? Bund streitet um Millionen-Hilfe für Elektroflugzeug-Start-up
+
+Verlieren wir morgen wieder ein Tech-Unternehmen? Bund streitet um Millionen-Hilfe für Elektroflugzeug-Start-up
+
+Verlieren wir morgen wieder ein Tech-Unternehmen? Bund streitet um Millionen-Hilfe für Elektroflugzeug-Start-up
+
+Verlieren wir morgen wieder ein Tech-Unternehmen? Bund streitet um Millionen-Hilfe für Elektroflugzeug-Start-up
+
+Verlieren wir morgen wieder ein Tech-Unternehmen? Bund streitet um Millionen-Hilfe für Elektroflugzeug-Start-up
+
+Verlieren wir morgen wieder ein Tech-Unternehmen? Bund streitet um Millionen-Hilfe für Elektroflugzeug-Start-up](https://www.bild.de/geld/wirtschaft/start-up-lilium-entscheidung-ueber-50-millionen-euro-staatshilfe-670d304eb3637d7cb5b6b980)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
