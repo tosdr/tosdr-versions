@@ -210,7 +210,7 @@ So, if you are looking for pampering sensual moments, you are welcome to choose 
 HOT INDEPENDENT ESCORT GIRLS FOR SPECIAL EVENTS
 -----------------------------------------------
 
-I also offer escorts service for special occasions. You are welcome to celebrate New Year's & Valentine's with the girls. Is your birthday around the corner? On that special day, you may desire to spend the evening with a beautiful lady. You can plan to hit the dance floor with her or perhaps enjoy a cozy candle-lit dinner. If you are unable to find a companion, the girls can fill this void.
+Look forward to enjoying personalized and discreet escort services on special occasions. You are welcome to celebrate New Year's & Valentine's with the girls. Is your birthday around the corner? On that special day, you may desire to spend the evening with a beautiful lady. You can plan to hit the dance floor with her or perhaps enjoy a cozy candle-lit dinner. If you are unable to find a companion, the girls can fill this void.
 
 You can forget your concerns and enjoy yourself with the [**Bangalore escorts**](https://www.divyagoal.com/) in your arms. Our girls are caring & compassionate and will offer complete value for your money. You are bound to get ultimate erotic satisfaction with the VIP call girls.
 
