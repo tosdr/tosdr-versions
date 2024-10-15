@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Old To Young!](https://www.somethingawful.com/photoshop-phriday/anti-aging-perfection/)
-* [The Democrat's Guide to Overthrowing the Government](https://www.somethingawful.com/guides/guide-democrats-guide/1/)
-* [Guide to Mommy and Daddy Wrestling Last Night](https://www.somethingawful.com/guides/guide-wrestling-mommy/1/)
-* [Worst Case Scenario: A Gentleman’s Guide to Pessimism](https://www.somethingawful.com/guides/worst-case-scenario/)
-* [The Amazing World of Counterstrike](https://www.somethingawful.com/guides/guide-amazing-world/1/)
+* [Board Games 2 (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/board-games-part-2/1/)
+* [I Hate You Page 68](https://www.somethingawful.com/cliff-yablonski/i-hate-you-68/)
+* [Stay hydrated, Homies!](https://www.somethingawful.com/awfulvision/autism-sonic-brony/1/)
+* [REVIEW: the hottest viral images of the day](https://www.somethingawful.com/comedy-goldmine/viral-images-reviewed/1/)
+* [The Superman Shuffle](https://www.somethingawful.com/photoshop-phriday/the-superman-shuffle/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/sports.png) [Honkbal Hoofdklasse](http://forums.somethingawful.com/showthread.php?threadid=4072637 "Honkbal Hoofdklasse")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [How do you feel about your hair going grey?](http://forums.somethingawful.com/showthread.php?threadid=4072644 "How do you feel about your hair going grey?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/sports.png) [Honkbal Hoofdklasse](http://forums.somethingawful.com/showthread.php?threadid=4072637 "Honkbal Hoofdklasse")
 
 ### Random Articles
 
-* [College: Dreams Come Here to Die](https://www.somethingawful.com/news/college-dreams-die/)
-* [My Social Media "Brand" is Saying That Hitler is Bad](https://www.somethingawful.com/comedy-goldmine/hitler-bad-actually/)
-* [District Bulletin: Missing Person](https://www.somethingawful.com/news/district-bulletin-missing/)
-* [Boy Toy Dolls (Thanks, Haruharuharuko!)](https://www.somethingawful.com/awful-links/boy-toy-dolls/)
-* [Clan Hell: Clan Old School Doomers](https://www.somethingawful.com/clan-hell/clan-hell-clan-17/)
+* [Don Draper Pitches Actual Commercials to Clients](https://www.somethingawful.com/news/don-draper-depend/1/)
+* [Savita Bhabhi (Thanks, The Worst Unicorn!) (NWS!)](https://www.somethingawful.com/awful-links/savita-bhabhi-kirtu/)
+* [Daughters of Amy Winehouse](https://www.somethingawful.com/garbage-day/amy-winehouse-clones/1/)
+* [Backyard Love](https://www.somethingawful.com/feature-articles/backyard-love-5/1/)
+* [Your Bandicoot Sucks II](https://www.somethingawful.com/news/your-bandicoot-sucks2/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
