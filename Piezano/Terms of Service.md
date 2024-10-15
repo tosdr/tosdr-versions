@@ -2,17 +2,11 @@
 
 [](https://buypiezano.com/Home)
 
-The Authentic Countertop Pizza Oven With Real Ceramic Stone!
-============================================================
+Make Gourmet Crispy Delicious
 
-[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=344004158877958935)
+Pizza in Just 6 Minutes!
 
-[](https://buypiezano.com/Home)
-
-The Authentic Countertop Pizza Oven With Real Ceramic Stone!
-============================================================
-
-[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=344004158877958935)
+[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=344006030898924898)
 
 Terms and Conditions
 
@@ -119,17 +113,13 @@ If you need to access this Policy in an alternative format due to having a disab
   
 
 * [Home](https://buypiezano.com/Home)
-* [How to Use](https://buypiezano.com/howto)
-* [Manual](https://buypiezano.com/Manual)
-* [Accessibility Statement](https://buypiezano.com/Accessibility-Statement)
 * [Privacy Policy](https://buypiezano.com/Privacy-Policy)
 * [Contact Us](https://buypiezano.com/Contact-Us)
 * [Return Policy](https://buypiezano.com/Return-Policy)
 * [Terms and Conditions](https://buypiezano.com/Terms-and-Conditions)
 * [Arbitration Agreement](https://buypiezano.com/Arbitration-Agreement)
-* [Shipping Policy](https://buypiezano.com/Shipping-Policy)
 * [California Consumer Privacy Act Disclosures](https://buypiezano.com/California-Consumer-Privacy-Act-Disclosures)
-* [Do Not Sell or Share My Personal Information](https://www.emson.com/optout)
-* [Limit the Use of My Sensitive Personal Information](https://www.emson.com/optout)
+* [How to Use](https://buypiezano.com/howto)
+* [Manual](https://buypiezano.com/Manual)
 
-Copyright © 2024 E. Mishan & Sons, Inc. | Built with [**Buyist**](https://buyist.com/)
+Copyright © 2024 E. Mishan & Sons, Inc.
