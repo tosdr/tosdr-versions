@@ -13,7 +13,7 @@ Welcome to [www.apartmentlist.com](https://www.apartmentlist.com/), as operated 
 
 2. **Consent to Auto-Dialed Text Messages and Phone Calls.**  
 
-You agree that Company and Company’s business customers (e.g., property managers and landlords) may contact you by autodialed, pre-recorded or artificial voice text messages and phone calls with information about the Service, your account, and marketing messages, even if your phone number is on a do-not-call list.  You are not required to provide this consent as a condition of purchasing anything or using the Service. Message rates and data charges may apply. Carriers are not liable for delayed or undelivered messages. If you have any questions about your text or data plan, it is best to contact your carrier. You may cancel receiving text messages from us at any time. To cancel messages received from property managers or landlords, you must contact them directly. To stop receiving text messages from us, just text “STOP” in response to a text message. After you send a text message “STOP” to us, we will send you a text message to confirm that you have been unsubscribed. After this, you will no longer receive text messages from us. If you want to receive text messages from us again, you can email us at [support@apartmentlist.com](mailto:support@apartmentlist.com) or respond to our last text message with a keyword such as “START” or “YES.” If you are experiencing issues with the text messaging program, you can reply with the keyword “HELP” for more assistance, or you can get help directly at support@apartmentlist.com. In the event you change or deactivate your mobile telephone number, you agree to promptly update your account information to ensure that your messages are not sent to the person that acquires your old number. 
+You agree that Company and Company’s business customers (e.g., property managers and landlords) may contact you by autodialed, pre-recorded or artificial voice text messages and phone calls with information about the Service, your account, and marketing messages, even if your phone number is on a do-not-call list.  You are not required to provide this consent as a condition of purchasing anything or using the Service. Message rates and data charges may apply. Carriers are not liable for delayed or undelivered messages. If you have any questions about your text or data plan, it is best to contact your carrier. You may cancel receiving text messages from us at any time. To cancel messages received from property managers or landlords, you must contact them directly. To stop receiving text messages from us, just text “STOP” in response to a text message. After you send a text message “STOP” to us, we will send you a text message to confirm that you have been unsubscribed. After this, you will no longer receive text messages from us. If you want to receive text messages from us again, you can email us at [\[email protected\]](https://www.apartmentlist.com/cdn-cgi/l/email-protection) or respond to our last text message with a keyword such as “START” or “YES.” If you are experiencing issues with the text messaging program, you can reply with the keyword “HELP” for more assistance, or you can get help directly at [\[email protected\]](https://www.apartmentlist.com/cdn-cgi/l/email-protection). In the event you change or deactivate your mobile telephone number, you agree to promptly update your account information to ensure that your messages are not sent to the person that acquires your old number. 
 
 3. **Contacting Us** 
 
@@ -26,7 +26,7 @@ San Francisco, CA 94104-5401
 
 and 
 
-Email: [legal@apartmentlist.com](mailto:legal@apartmentlist.com).   
+Email: [\[email protected\]](https://www.apartmentlist.com/cdn-cgi/l/email-protection).   
 
 All notices of copyright infringement claims should be sent to the copyright agent designated under Section 27 (Copyright Notice; Digital Millennium Copyright Act). 
 
@@ -86,7 +86,7 @@ San Francisco, CA 94104-5401
 
 or
 
-email: [legal@apartmentlist.com](mailto:legal@apartmentlist.com). 
+email: [\[email protected\]](https://www.apartmentlist.com/cdn-cgi/l/email-protection). 
 
 Severability of Arbitration Terms: If part of these arbitration terms are deemed unenforceable or unlawful, (1) the unenforceable or unlawful term is to be severed from these Terms; (2) severance of the unenforceable or unlawful term will not impact the remainder of the arbitration terms; and (3) to the extent that any claims must proceed on a class, collective, consolidated, or representative basis, those claims must be litigated in a civil court of competent jurisdiction and not in arbitration, and the parties agree that litigation of those claims will be stayed pending the outcome of any individual claims in arbitration.
 
@@ -288,7 +288,7 @@ Attn: Copyright Agent
 
 San Francisco, CA 94104-5401  
 415.817.1068  
-[copyright@apartmentlist.com](mailto:copyright@apartmentlist.com) 
+[\[email protected\]](https://www.apartmentlist.com/cdn-cgi/l/email-protection) 
 
 Please note that under the DMCA, any person who knowingly materially misrepresents that material or activity is infringing or was removed or disabled by mistake may be subject to liability.
 
