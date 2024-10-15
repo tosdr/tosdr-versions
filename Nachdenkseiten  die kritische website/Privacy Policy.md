@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Notfalls müssen wir auf dem Abzug US-amerikanischer Truppen aus Deutschland bestehen, …](https://www.nachdenkseiten.de/wp-content/uploads/2023/03/230303-Gespraech-Oskar-Lafontaine-mit-Albrecht-Mueller-NDS-CoverKasten.jpg "Notfalls müssen wir auf dem Abzug US-amerikanischer Truppen aus Deutschland bestehen, …")](https://www.nachdenkseiten.de/?p=94575)
+[![Ein Videogespräch mit der Soziologin Felicitas Englisch](https://www.nachdenkseiten.de/wp-content/uploads/2024/04/240416-Gespraech-Felicitas-Englisch-Albrecht-Mueller-Kasten-v2.jpg "Ein Videogespräch mit der Soziologin Felicitas Englisch")](https://www.nachdenkseiten.de/?p=113927)
 
-* [Notfalls müssen wir auf dem Abzug US-amerikanischer Truppen aus Deutschland bestehen, …](https://www.nachdenkseiten.de/?p=94575)
+* [Ein Videogespräch mit der Soziologin Felicitas Englisch](https://www.nachdenkseiten.de/?p=113927)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
