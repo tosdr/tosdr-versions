@@ -259,7 +259,7 @@ article 6 days ago](https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-ra
 
 ### NASA’s Roman Space Telescope’s ‘Exoskeleton’ Whirls Through Major Test
 
-article 7 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)
+article 1 week ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)
 
 ### Highlights
 
@@ -307,57 +307,13 @@ article 7 days ago](https://www.nasa.gov/hurricane-milton/)
 
 ### Highlights
 
-[![A SpaceX Falcon Heavy rocket with the Europa Clipper spacecraft aboard](https://www.nasa.gov/wp-content/uploads/2024/10/1-clipper-on-the-pad-24-10-13-at-10-05-47 am.png?w=1024)
+[![Eclipse Megamovie Coding Competition](https://science.nasa.gov/wp-content/uploads/2024/10/hy-tran.jpg)
 
-5 min read
+3 min read
 
-### Journey to a Water World: NASA’s Europa Clipper Is Ready to Launch
+### Eclipse Megamovie Coding Competition
 
-article 2 days ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
-
-6 min read
-
-### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
-
-article 3 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![The Next Full Moon is a Supermoon, and the Hunter’s Moon](https://science.nasa.gov/wp-content/uploads/2023/06/49641911586_4d26910aba_supermoon_March_2020-1280-jpg.webp)
-
-29 min read
-
-### The Next Full Moon is a Supermoon, and the Hunter’s Moon
-
-article 4 days ago](https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-and-the-hunters-moon/)
-
-### Featured
-
-[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
-
-2 min read
-
-### Hubble Spots a Grand Spiral of Starbursts
-
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
-
-5 min read
-
-### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
-
-article 5 days ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![Hubble Observes a Peculiar Galaxy Shape](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc4694-potw2440a.jpg)
-
-2 min read
-
-### Hubble Observes a Peculiar Galaxy Shape
-
-article 2 weeks ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)
-
-### Highlights
-
-[![An application interface shows a top-down view of a section of Brazil in pale tans and greens, with one square (at and angle) in bright colors: dark blue, teals, greens, and yellows.](https://www.nasa.gov/wp-content/uploads/2024/10/geesebal-app-openet-brazil.jpg?w=856)
-
-15 min read
-
-### OpenET: Balancing Water Supply and Demand in the West
-
-article 14 hours ago](https://www.nasa.gov/general/openet-balancing-water-supply-and-demand-in-the-west/)[![A SpaceX Falcon Heavy rocket with the Europa Clipper spacecraft aboard](https://www.nasa.gov/wp-content/uploads/2024/10/1-clipper-on-the-pad-24-10-13-at-10-05-47 am.png?w=1024)
+article 3 hours ago](https://science.nasa.gov/get-involved/citizen-science/eclipse-megamovie-coding-competition/)[![A SpaceX Falcon Heavy rocket with the Europa Clipper spacecraft aboard](https://www.nasa.gov/wp-content/uploads/2024/10/1-clipper-on-the-pad-24-10-13-at-10-05-47 am.png?w=1024)
 
 5 min read
 
@@ -370,6 +326,50 @@ article 2 days ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-wa
 ### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
 article 3 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)
+
+### Featured
+
+[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
+
+5 min read
+
+### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
+
+article 28 mins ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
+
+2 min read
+
+### Hubble Spots a Grand Spiral of Starbursts
+
+article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
+
+5 min read
+
+### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
+
+article 5 days ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)
+
+### Highlights
+
+[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
+
+5 min read
+
+### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
+
+article 28 mins ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Eclipse Megamovie Coding Competition](https://science.nasa.gov/wp-content/uploads/2024/10/hy-tran.jpg)
+
+3 min read
+
+### Eclipse Megamovie Coding Competition
+
+article 3 hours ago](https://science.nasa.gov/get-involved/citizen-science/eclipse-megamovie-coding-competition/)[![Revealing the Hidden Universe with Full-shell X-ray Optics at NASA MSFC](https://science.nasa.gov/wp-content/uploads/2024/10/crab4-1.webp)
+
+8 min read
+
+### Revealing the Hidden Universe with Full-shell X-ray Optics at NASA MSFC
+
+article 3 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/revealing-the-hidden-universe-with-full-shell-x-ray-optics-at-nasa-msfc/)
 
 ### Highlights
 
@@ -417,25 +417,13 @@ article 6 days ago](https://www.nasa.gov/technology/space-comms/space-communicat
 
 ### Featured
 
-[![Asteroid and Comet Resources](https://science.nasa.gov/wp-content/uploads/2024/10/bennu-comettempel1.png)
-
-1 min read
-
-### Asteroid and Comet Resources
-
-article 4 days ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
-
-1 min read
-
-### Pluto and Dwarf Planet Resources
-
-article 5 days ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)[![A woman stands and smiles in the Teague lobby at NASA Johnson. She is wearing a red blouse and black pants. Behind her is a mural of astronauts and space exploration, as well as a NASA logo on the wall.](https://www.nasa.gov/wp-content/uploads/2024/10/image-7-e1728592422646.jpg?w=720)
+[![](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-jw-still01-1920x1080-1.png?w=1024)
 
 3 min read
 
-### Igniting Inspiration: Jennifer Becerra’s STEM Legacy at Johnson 
+### Journey Through Stars with NASA in New Minecraft Game
 
-article 5 days ago](https://www.nasa.gov/centers-and-facilities/igniting-inspiration-jennifer-becerras-stem-legacy-at-johnson/)
+article 1 week ago](https://www.nasa.gov/learning-resources/new-minecraft-game/)
 
 ### Featured
 
@@ -461,7 +449,13 @@ article 6 days ago](https://www.nasa.gov/technology/space-comms/space-communicat
 
 ### Highlights
 
-[![A woman in a gray suit stands smiling in front of a NASA building. Behind her to the left, the X-1E experimental aircraft is displayed.](https://www.nasa.gov/wp-content/uploads/2024/10/patricia-ortiz-hhm-10012024.jpg?w=1024)
+[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+
+2 min read
+
+### Una reunión familiar de la NASA por casualidad
+
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)[![A woman in a gray suit stands smiling in front of a NASA building. Behind her to the left, the X-1E experimental aircraft is displayed.](https://www.nasa.gov/wp-content/uploads/2024/10/patricia-ortiz-hhm-10012024.jpg?w=1024)
 
 2 min read
 
@@ -473,13 +467,7 @@ article 1 week ago](https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-
 
 ### La NASA invita a los medios al lanzamiento de Europa Clipper
 
-article 1 month ago](https://www.nasa.gov/es/la-nasa-invita-a-los-medios-al-lanzamiento-de-europa-clipper/)[![A man supporting the installation of the X-59 ejection seat.](https://www.nasa.gov/wp-content/uploads/2024/08/p24-055-26.jpg?w=1024)
-
-3 min read
-
-### El X-59 de la NASA avanza en las pruebas de preparación para volar
-
-article 1 month ago](https://www.nasa.gov/es/el-x-59-de-la-nasa-avanza-en-las-pruebas-de-preparacion-para-volar/)
+article 1 month ago](https://www.nasa.gov/es/la-nasa-invita-a-los-medios-al-lanzamiento-de-europa-clipper/)
 
 [![OCIO Banner](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png?w=1907)](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png)
 
