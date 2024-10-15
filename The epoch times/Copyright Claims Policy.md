@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Property Manager Accuses Venezuelan Gang of Taking Control of Aurora Apartments, Attempting Extortion](https://www.theepochtimes.com/us/property-manager-accuses-venezuelan-gang-of-taking-control-of-aurora-apartments-attempting-extortion-5741333)
+    
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Property Manager Accuses Venezuelan Gang of Taking Control of Aurora Apartments, Attempting Extortion](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Property Manager Accuses Venezuelan Gang of Taking Control of Aurora Apartments, Attempting Extortion](https://img.theepochtimes.com/assets/uploads/2024/09/08/id5720221-20240830_1400180-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/property-manager-accuses-venezuelan-gang-of-taking-control-of-aurora-apartments-attempting-extortion-5741333)
+* [Hardware Wholesaler True Value Files for Bankruptcy, Plans Sale to Rival Chain](https://www.theepochtimes.com/us/hardware-wholesaler-true-value-files-for-bankruptcy-plans-sale-to-rival-chain-5741387)
+    
+    NEW By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
+    
+    [![Hardware Wholesaler True Value Files for Bankruptcy, Plans Sale to Rival Chain](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hardware Wholesaler True Value Files for Bankruptcy, Plans Sale to Rival Chain](https://img.theepochtimes.com/assets/uploads/2015/09/Chasteen_Small-Business-Hardware_013012-205x123.jpg.webp)](https://www.theepochtimes.com/us/hardware-wholesaler-true-value-files-for-bankruptcy-plans-sale-to-rival-chain-5741387)
+* [TikTok Mired in Legal Battles as Deadline Looms Over Ban](https://www.theepochtimes.com/article/tiktok-mired-in-legal-battles-as-deadline-looms-over-ban-5733972)
+    
+    4hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    
+    [![TikTok Mired in Legal Battles as Deadline Looms Over Ban](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![TikTok Mired in Legal Battles as Deadline Looms Over Ban](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741231-Tiktok-threat-6-205x123.jpg.webp)](https://www.theepochtimes.com/article/tiktok-mired-in-legal-battles-as-deadline-looms-over-ban-5733972)
+* [UN, Israel Trade Accusations Over Tank Attack](https://www.theepochtimes.com/world/un-israel-trade-accusations-over-tank-attack-5741259)
+    
+    4hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    
+    [![UN, Israel Trade Accusations Over Tank Attack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![UN, Israel Trade Accusations Over Tank Attack](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741192-GettyImages-2176702516-205x123.jpg.webp)](https://www.theepochtimes.com/world/un-israel-trade-accusations-over-tank-attack-5741259)
+* [National Polls Show Trump Gaining Ground in Final Election Stretch](https://www.theepochtimes.com/us/national-polls-show-trump-gaining-ground-in-final-election-stretch-5741313)
+    
+    4hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    
+    [![National Polls Show Trump Gaining Ground in Final Election Stretch](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![National Polls Show Trump Gaining Ground in Final Election Stretch](https://img.theepochtimes.com/assets/uploads/2024/10/id5740954-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/national-polls-show-trump-gaining-ground-in-final-election-stretch-5741313)
+* [OPEC Cuts Oil Demand Growth Forecast for 3rd Straight Month Amid Economic Uncertainty, Weak Market Sentiment](https://www.theepochtimes.com/business/opec-cuts-oil-demand-growth-forecast-for-3rd-straight-month-amid-economic-uncertainty-weak-market-sentiment-5741237)
+    
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![OPEC Cuts Oil Demand Growth Forecast for 3rd Straight Month Amid Economic Uncertainty, Weak Market Sentiment](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![OPEC Cuts Oil Demand Growth Forecast for 3rd Straight Month Amid Economic Uncertainty, Weak Market Sentiment](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5723568-Oil-Platform_JF_09122024-205x123.jpg.webp)](https://www.theepochtimes.com/business/opec-cuts-oil-demand-growth-forecast-for-3rd-straight-month-amid-economic-uncertainty-weak-market-sentiment-5741237)
+* [Day in Photos: Escalated Dispute, Investment Summit, and Wildlife Release](https://www.theepochtimes.com/article/day-in-photos-escalated-dispute-investment-summit-and-wildlife-release-5740941)
+    
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Escalated Dispute, Investment Summit, and Wildlife Release](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Escalated Dispute, Investment Summit, and Wildlife Release](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741305-AP24288611683025-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-escalated-dispute-investment-summit-and-wildlife-release-5740941)
 * [Judge Rejects Arizona Group’s Bid to Investigate Citizenship of 42,000 Federal-Only Voters](https://www.theepochtimes.com/us/judge-rejects-arizona-groups-bid-to-investigate-citizenship-of-42000-federal-only-voters-5741086)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Judge Rejects Arizona Group’s Bid to Investigate Citizenship of 42,000 Federal-Only Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Judge Rejects Arizona Group’s Bid to Investigate Citizenship of 42,000 Federal-Only Voters](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739768-AZ-Early-Voting-iii_JF_10102024-LS-205x123.webp)](https://www.theepochtimes.com/us/judge-rejects-arizona-groups-bid-to-investigate-citizenship-of-42000-federal-only-voters-5741086)
 * [Man Arrested for Allegedly Threatening FEMA Workers in North Carolina, Officials Say](https://www.theepochtimes.com/us/man-arrested-for-allegedly-threatening-fema-workers-in-north-carolina-officials-say-5741146)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Man Arrested for Allegedly Threatening FEMA Workers in North Carolina, Officials Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Man Arrested for Allegedly Threatening FEMA Workers in North Carolina, Officials Say](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741304-GettyImages-2176738879KO-205x123.jpg)](https://www.theepochtimes.com/us/man-arrested-for-allegedly-threatening-fema-workers-in-north-carolina-officials-say-5741146)
+    ![Man Arrested for Allegedly Threatening FEMA Workers in North Carolina, Officials Say](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741304-GettyImages-2176738879KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/man-arrested-for-allegedly-threatening-fema-workers-in-north-carolina-officials-say-5741146)
 * [Gmail Users Warned About New Account Takeover Scam: Here’s What to Look For](https://www.theepochtimes.com/us/gmail-users-warned-about-new-account-takeover-scam-heres-what-to-look-for-5741074)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Gmail Users Warned About New Account Takeover Scam: Here’s What to Look For](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Gmail Users Warned About New Account Takeover Scam: Here’s What to Look For](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741301-gmail-shutterstock_1303813597-205x123.jpg.webp)](https://www.theepochtimes.com/us/gmail-users-warned-about-new-account-takeover-scam-heres-what-to-look-for-5741074)
-* [Americans in Lebanon Should ‘Depart Now,’ US Embassy Warns](https://www.theepochtimes.com/world/americans-in-lebanon-should-depart-now-us-embassy-warns-5741133)
-    
-    3hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
-    
-    [![Americans in Lebanon Should ‘Depart Now,’ US Embassy Warns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Americans in Lebanon Should ‘Depart Now,’ US Embassy Warns](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741212-GettyImages-2177486302KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/americans-in-lebanon-should-depart-now-us-embassy-warns-5741133)
-* [SpaceX Launches NASA Satellite on Quest for Life Near Jupiter](https://www.theepochtimes.com/science/spacex-launches-nasa-satellite-on-quest-for-life-near-jupiter-5741125)
-    
-    3hr By [Wim De Gent](https://www.theepochtimes.com/author/wim-degent)
-    
-    [![SpaceX Launches NASA Satellite on Quest for Life Near Jupiter](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![SpaceX Launches NASA Satellite on Quest for Life Near Jupiter](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741251-NASA-Europa-Launch-AP24288599789523-LS-205x123.jpg.webp)](https://www.theepochtimes.com/science/spacex-launches-nasa-satellite-on-quest-for-life-near-jupiter-5741125)
-* [Speaker Johnson Says Parts of Kids Online Safety Act ‘Very Problematic’](https://www.theepochtimes.com/us/speaker-johnson-says-parts-of-kids-online-safety-act-very-problematic-5741049)
-    
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Speaker Johnson Says Parts of Kids Online Safety Act ‘Very Problematic’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Speaker Johnson Says Parts of Kids Online Safety Act ‘Very Problematic’](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722508-GettyImages-2170520553-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-says-parts-of-kids-online-safety-act-very-problematic-5741049)
-* [Canada, India Expel Diplomats as RCMP Says Indian Agents Involved in Homicides](https://www.theepochtimes.com/world/india-expels-canadian-diplomats-as-rcmp-says-indian-agents-involved-in-homicides-5741124)
-    
-    4hr By [Noé Chartier](https://www.theepochtimes.com/author/noe-chartier)
-    
-    [![Canada, India Expel Diplomats as RCMP Says Indian Agents Involved in Homicides](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Canada, India Expel Diplomats as RCMP Says Indian Agents Involved in Homicides](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741210-Unknown-15KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/india-expels-canadian-diplomats-as-rcmp-says-indian-agents-involved-in-homicides-5741124)
-* [Harris Unveils Proposals for Black Men Ahead of Pennsylvania Rally](https://www.theepochtimes.com/us/harris-unveils-proposals-for-black-men-ahead-of-erie-pennsylvania-rally-5741054)
-    
-    5hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Harris Unveils Proposals for Black Men Ahead of Pennsylvania Rally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris Unveils Proposals for Black Men Ahead of Pennsylvania Rally](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741253-kamala-harris2-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-unveils-proposals-for-black-men-ahead-of-erie-pennsylvania-rally-5741054)
-* [FEMA Makes ‘Operational Adjustments’ in North Carolina Amid Alleged Threats to Workers](https://www.theepochtimes.com/us/fema-makes-operational-adjustments-in-north-carolina-amid-alleged-threats-to-workers-5741031)
-    
-    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![FEMA Makes ‘Operational Adjustments’ in North Carolina Amid Alleged Threats to Workers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FEMA Makes ‘Operational Adjustments’ in North Carolina Amid Alleged Threats to Workers](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736927-North-Carolina-National-Guard-GettyImages-1033187726KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-makes-operational-adjustments-in-north-carolina-amid-alleged-threats-to-workers-5741031)
-* [Speaker Johnson Says FEMA Still Has Not Used Majority of Disaster Relief Funding](https://www.theepochtimes.com/us/speaker-johnson-says-fema-still-has-not-used-majority-of-disaster-relief-funding-5740952)
-    
-    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Speaker Johnson Says FEMA Still Has Not Used Majority of Disaster Relief Funding](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Speaker Johnson Says FEMA Still Has Not Used Majority of Disaster Relief Funding](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741097-Mike-Johnson-AP24262005068159-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-says-fema-still-has-not-used-majority-of-disaster-relief-funding-5740952)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
