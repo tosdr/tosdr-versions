@@ -311,7 +311,6 @@ Company
 
 * [About us](https://www.studocu.com/en-us/about-us)
 * [Ask AI](https://www.studocu.com/en-us/ask-expert)
-* [Notes AI](https://www.studocu.com/en-us/notes)
 * [Studocu World University Ranking 2023](https://www.studocu.com/en-us/world-university-ranking/2023)
 * [E-Learning Statistics](https://www.studocu.com/blog/en/e-learning-statistics)
 * [Doing Good](https://www.studocu.com/blog/en/our-commitment-to-students-around-the-globe)
