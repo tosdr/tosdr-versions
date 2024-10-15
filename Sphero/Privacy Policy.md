@@ -47,7 +47,7 @@ Back
 * [RVR+](https://sphero.com/collections/rvr)
 * [Blueprint Engineering](https://sphero.com/collections/blueprint)
 * [littleBits](https://sphero.com/collections/littlebits)
-* [Professional Development](https://sphero.com/pages/professional-development)
+* [Professional Development](https://sphero.com/collections/professional-development)
 
 * Shop by Age
 * [Early Learning](https://sphero.com/collections/early-learning)
@@ -161,7 +161,7 @@ Cart/Quote](https://sphero.com/cart)
     * [RVR+](https://sphero.com/collections/rvr)
     * [Blueprint Engineering](https://sphero.com/collections/blueprint)
     * [littleBits](https://sphero.com/collections/littlebits)
-    * [Professional Development](https://sphero.com/pages/professional-development)
+    * [Professional Development](https://sphero.com/collections/professional-development)
     
     * Shop by Age
     * [Early Learning](https://sphero.com/collections/early-learning)
