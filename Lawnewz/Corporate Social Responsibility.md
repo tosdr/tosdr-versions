@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Sandi Ramona Goodman](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Sandi-Ramona-Goodman-432x243.jpg)](https://lawandcrime.com/crime/mommy-whoops-us-when-were-loud-mom-blamed-3-year-olds-significant-burns-on-bug-bites-but-her-google-searches-showed-otherwise-cops-say/)
+1. [![Donald Trump, The Apprentice movie](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Trump-the-Apprentice-432x243.jpg)](https://lawandcrime.com/high-profile/trump-just-posted-that-the-apprentice-movie-is-defamatory-and-may-not-have-the-right-to-use-that-name-but-will-he-actually-sue/)
     
-    ### ['Mommy whoops us when we're loud': Mom blamed 3-year-old's 'significant burns' on bug bites but her Google searches showed otherwise, cops say](https://lawandcrime.com/crime/mommy-whoops-us-when-were-loud-mom-blamed-3-year-olds-significant-burns-on-bug-bites-but-her-google-searches-showed-otherwise-cops-say/)
+    ### [Trump just posted that 'The Apprentice' movie is 'defamatory' and may not 'have the right to use that name,' but will he actually sue?](https://lawandcrime.com/high-profile/trump-just-posted-that-the-apprentice-movie-is-defamatory-and-may-not-have-the-right-to-use-that-name-but-will-he-actually-sue/)
     
-2. [![DTE worker imposters](https://am24.mediaite.com/lc/cnt/uploads/2024/10/DTE-worker-imposters-432x243.jpg)](https://lawandcrime.com/crime/were-checking-for-gas-leaks-men-posing-as-energy-workers-in-upscale-neighborhood-murder-jewelry-store-owner-in-basement-and-tie-up-wife-cops-say/)
+2. [![Alyssa Sevilla and Romi Frentescu](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Alyssa-Sevilla-and-Romi-Frentescu-432x243.jpg)](https://lawandcrime.com/crime/wife-of-motorcycle-club-member-arrested-for-helping-husband-flee-scene-after-he-murdered-2-people-and-told-nurse-to-stop-cpr-cops/)
     
-    ### ['We're checking for gas leaks:' Men posing as energy workers in upscale neighborhood murder jewelry store owner in basement and tie up wife, cops say](https://lawandcrime.com/crime/were-checking-for-gas-leaks-men-posing-as-energy-workers-in-upscale-neighborhood-murder-jewelry-store-owner-in-basement-and-tie-up-wife-cops-say/)
+    ### [Wife of motorcycle club member arrested for helping husband flee scene after he murdered 2 people and told nurse to stop CPR: Cops](https://lawandcrime.com/crime/wife-of-motorcycle-club-member-arrested-for-helping-husband-flee-scene-after-he-murdered-2-people-and-told-nurse-to-stop-cpr-cops/)
     
 3. [![Lee Gilley, Christa Bauer Gilley](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Lee-Gilley-Christa-Gilley-432x243.jpg)](https://lawandcrime.com/crime/software-consultant-strangled-pregnant-wife-and-mom-of-2-tried-to-make-her-death-look-like-drug-overdose-suicide-after-argument-at-home-court-docs/)
     
     ### [Software consultant strangled pregnant wife and mom of 2, tried to make her death look like drug overdose suicide after argument at home: Court docs](https://lawandcrime.com/crime/software-consultant-strangled-pregnant-wife-and-mom-of-2-tried-to-make-her-death-look-like-drug-overdose-suicide-after-argument-at-home-court-docs/)
     
-4. [![Inset: Monica Tutt (Dallas County Jail). Background: Scene of the crash (KXAS).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Monica-Tutt-432x243.png)](https://lawandcrime.com/crime/drunk-mom-complained-her-chance-at-a-nursing-career-was-over-after-she-abandoned-severely-injured-9-year-old-son-in-crash-cops/)
+4. [![Chad Westover and Tristan Thomas](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Chad-Westover-and-Tristan-Thomas-432x243.jpg)](https://lawandcrime.com/crime/thats-a-lot-of-blood-mail-carrier-murdered-after-dispute-over-motorcycle-parking-allegations-of-following-teen-girl-cops-say/)
     
-    ### [Drunk mom complained 'her chance at a nursing career was over' after she abandoned severely injured 9-year-old son in crash: Cops](https://lawandcrime.com/crime/drunk-mom-complained-her-chance-at-a-nursing-career-was-over-after-she-abandoned-severely-injured-9-year-old-son-in-crash-cops/)
+    ### ['That's a lot of blood!': Mail carrier murdered after dispute over motorcycle parking, allegations of following teen girl, cops say](https://lawandcrime.com/crime/thats-a-lot-of-blood-mail-carrier-murdered-after-dispute-over-motorcycle-parking-allegations-of-following-teen-girl-cops-say/)
     
-5. [![Aaron Spencer](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Aaron-Spencer--432x243.jpg)](https://lawandcrime.com/crime/dad-frantically-called-911-to-report-14-year-old-daughter-missing-tracked-down-and-shot-rapist-and-was-arrested-for-murder-wife/)
+5. [![Tiffanie Lucas with sons Jayden and Maurice](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Lucas-432x243.jpg)](https://lawandcrime.com/crime/tiffanie-lucas-intends-to-plead-guilty-after-attempting-to-claim-she-was-legally-insane-when-she-shot-two-sons-in-the-head/)
     
-    ### [Dad frantically called 911 to report 14-year-old daughter missing, tracked down and shot rapist, and faced 'outrageous' arrest for murder: Wife](https://lawandcrime.com/crime/dad-frantically-called-911-to-report-14-year-old-daughter-missing-tracked-down-and-shot-rapist-and-was-arrested-for-murder-wife/)
+    ### [Mom who claimed it was an 'accident' and Facebook made her shoot 2 young sons in the head at home is suddenly reversing course](https://lawandcrime.com/crime/tiffanie-lucas-intends-to-plead-guilty-after-attempting-to-claim-she-was-legally-insane-when-she-shot-two-sons-in-the-head/)
     
 
 [](http://eepurl.com/c89Jdb)
