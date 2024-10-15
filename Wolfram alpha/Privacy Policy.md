@@ -359,9 +359,8 @@ _Effective January 1, 2023_
     
 
 * Accessibility
-* * [Wolfram Mathematica](http://www.wolframalpha.com/legal/accessibility/wolfram-mathematica/)
-    * [Wolfram|Alpha](http://www.wolframalpha.com/legal/accessibility/wolframalpha)
-    * [Wolfram CDF Player (desktop deployment)](http://www.wolframalpha.com/legal/accessibility/wolfram-cdf-player.html)
+* * [Wolfram|Alpha](http://www.wolframalpha.com/legal/accessibility/wolframalpha)
+    * [Wolfram Mathematica and Wolfram Player](http://www.wolframalpha.com/legal/accessibility/wolfram-mathematica/)
     * [Wolfram System Modeler](http://www.wolframalpha.com/legal/accessibility/wolfram-system-modeler/)
     
 
