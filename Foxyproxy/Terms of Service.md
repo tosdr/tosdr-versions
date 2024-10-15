@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-The proxy worked great. Bought another one from you, self-renewing.
+FoxyProxy delivered everything we needed at a great cost.
 
-David Weaver
+Chris Noon
