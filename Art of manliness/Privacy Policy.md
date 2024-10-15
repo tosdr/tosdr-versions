@@ -202,6 +202,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [5 Ways Fathers Hugely Influence Their Daughters](https://www.artofmanliness.com/people/fatherhood/5-ways-fathers-hugely-influence-on-their-daughters/)
 
+[![A black-and-white vintage wedding photo captures a historic moment of marriage as the groom gazes fondly at the bride, who faces the camera with a beaded tiara and veil.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/fascinating-insights-on-the-state-of-sex-and-marriage-100-years-ago/)
+
+[Fascinating Insights on the State of Sex and Marriage 100 Years Ago](https://www.artofmanliness.com/people/relationships/fascinating-insights-on-the-state-of-sex-and-marriage-100-years-ago/)
+
 [![Close-up of the book ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/podcast-865-how-to-win-friends-and-influence-people-in-the-21st-century/)
 
 [Podcast #865: How to Win Friends and Influence People in the 21st Century](https://www.artofmanliness.com/people/relationships/podcast-865-how-to-win-friends-and-influence-people-in-the-21st-century/)
@@ -213,10 +217,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Two bolts of lightning strike a dark, cloudy sky over a body of water near a forested shoreline during nighttime, reminiscent of past summers spent around Sunday Firesides.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/sunday-firesides-the-lightning-of-past-summers/)
 
 [Sunday Firesides: The Lightning of Past Summers](https://www.artofmanliness.com/people/relationships/sunday-firesides-the-lightning-of-past-summers/)
-
-[![A man and a woman stand together by a window, facing outside. The man has his arm around the woman, embodying essential relationship tips for a stronger bond. Both dressed casually, they look out at the greenery visible through the window.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/10-ways-to-be-a-better-husband-today/)
-
-[10 Ways to Be a Better Husband Today](https://www.artofmanliness.com/people/relationships/10-ways-to-be-a-better-husband-today/)
 
 [![An elderly man in a suit writes at his desk, head resting on his hand, reflecting perhaps on the ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/dale-carnegie-s-damned-fool-things-i-have-done/)
 
