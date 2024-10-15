@@ -332,15 +332,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![A bankruptcy proceeding between Richard White and his alleged lover has turned ugly.](https://static.ffx.io/images/$zoom_0.5749%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_37%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/4e8f1ac54dbfe7d91fa971861976292ec3faea92)](https://www.afr.com/technology/richard-white-s-alleged-lover-claims-he-expected-sex-for-investment-20241008-p5kgph)
+[![Jaddan Comerford, the founder of UNIFIED Music, will invest $10m in Australian artists over the next three years.](https://static.ffx.io/images/$zoom_0.2573%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_48%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/0054e561dcbef9ac83b88703fc152fe72008d867)](https://www.afr.com/life-and-luxury/arts-and-culture/young-rich-lister-outspends-major-labels-with-10m-for-local-music-20241014-p5ki7q)
 
-### [Richard White’s alleged lover claims he expected sex for investment](https://www.afr.com/technology/richard-white-s-alleged-lover-claims-he-expected-sex-for-investment-20241008-p5kgph)
+### [Young Rich Lister matches major labels with $10m for local music](https://www.afr.com/life-and-luxury/arts-and-culture/young-rich-lister-outspends-major-labels-with-10m-for-local-music-20241014-p5ki7q)
 
-* Max Mason, Jemima Whyte and Jonathan Shapiro
+* Michael Bailey
 
-* ### [Adrenaline rush, light and sound show planned for Mornington cable car](https://www.afr.com/property/commercial/adrenaline-rush-light-and-sound-show-planned-for-mornington-cable-car-20240926-p5kdoo)
+* ### [Richard White’s alleged lover claims he expected sex for investment](https://www.afr.com/technology/richard-white-s-alleged-lover-claims-he-expected-sex-for-investment-20241008-p5kgph)
     
-* ### [How the wealthy daughters of Westfield co-founder John Saunders invest](https://www.afr.com/wealth/people/how-the-wealthy-daughters-of-westfield-co-founder-john-saunders-invest-20240925-p5kdd4)
+* ### [Adrenaline rush, light and sound show planned for Mornington cable car](https://www.afr.com/property/commercial/adrenaline-rush-light-and-sound-show-planned-for-mornington-cable-car-20240926-p5kdoo)
     
 
 [The Australian Financial Review](https://www.afr.com/)
