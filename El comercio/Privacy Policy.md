@@ -31,1057 +31,1074 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-NASA lanza nave Clipper en busca de rastros de vida en luna de Júpiter
-======================================================================
+Impacto de camión contra una vivienda cerró parte de la vía Alóag – Santo Domingo
+=================================================================================
 
-La agencia explicó que la nave, de 5 metros de altura y 30,5 m de ancho, recorrerá 2 900 millones de km para llegar a Júpiter en cerca de seis años.
-----------------------------------------------------------------------------------------------------------------------------------------------------
+Un carril de la carretera fue cerrada de forma parcial debido a la emergencia.
+------------------------------------------------------------------------------
 
-![La misión SpaceX Europa de la NASA en un cohete SpaceX Falcon Heavy despega del Complejo de Lanzamiento 39A en el Centro Espacial Kennedy de la agencia en Cabo Cañaveral, Florida, EE.UU., el 14 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/NASA.jpg)
+![Parte de la vivienda quedó destruída producto del fuerte impacto](https://www.elcomercio.com/wp-content/uploads/2024/10/choque-aloag.jpg)
 
-**Clipper,** la nave más grande de la NASA, **partió este lunes desde Florida hacia Europa**. Así se conoce a luna de Júpiter **cubierta de hielo** y que esconde en sus profundidades un enorme océano que puede albergar vida.
+Un **camión de carga** se impactó contra una vivienda en la **vía Alóag – Santo Domingo**, la tarde de este lunes 14 de octubre de 2024.
 
-### Más noticias
-
-* [Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html "Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.")
-* [El teniente Dan desafió al huracán Milton y esto pasó](https://www.elcomercio.com/actualidad/mundo/teniente-dan-desafio-a-huracan-milton-y-esto-paso.html "El teniente Dan desafió al huracán Milton y esto pasó")
-* [Estas son las características comunes de las personas inteligentes](https://www.elcomercio.com/tendencias/curiosidades/personas-inteligentes-caracteristicas-ciencia.html "Estas son las características comunes de las personas inteligentes ")
-
-El lanzamiento de Clipper
--------------------------
-
-**Clipper** fue lanzada por un cohete **Falcon Heavy de SpaceX** desde el Centro Espacial Kennedy, en el centro de **Florida**, a las 12:06 EST (16:06 GMT).
-
-La histórica misión para descifrar si **“estamos solos” en el universo** realizará unos 50 sobrevuelos a lo largo de esta misteriosa luna helada. Será a 25 kilómetros (16 millas) de altura, para determinar si Europa presenta condiciones **favorables de vida**.
-
-Durante unos cuatro años, la nave enviará pistas a los científicos sobre el potencial astrobiológico de los mundos habitables **más allá de la Tierra**. Pero la misión se podría extender como ls hizo la Galileo, que exploró la superficie helada de Europa hace más de 20 años.
-
-La agencia espacial estadounidense explicó que la nave, **de 5 metros de altura y 30,5 metros de ancho**, recorrerá **2 900 millones de km** para llegar a Júpiter en cerca de seis años. Después tardará uno más para ajustar su órbita e iniciar sus estudios en 2030.
-
-La misión **Europa Clipper** busca comprender la naturaleza de la capa de hielo, el océano interior y la composición y geología de esta luna, **según la NASA**.
-
-Se cree que Europa, **una de las lunas más conocidas de Júpiter**, posee “agua líquida, la química necesaria y una fuente de energía”, elementos indispensables para la **existencia de vida.**
-
-Con sus enormes paneles solares y antenas de radar, **Europa Clipper es la nave más grande** desarrollada por la NASA para una misión planetaria.
-
-El diseño de los paneles es crucial para e**l abastecimiento energético** porque Europa Clipper opera en el sistema de Júpiter, que está más de cinco veces más lejos del Sol que la Tierra.
-
-Protección de instrumentos de la radiación de Júpiter
------------------------------------------------------
-
-La nave está **equipada con nueve potentes instrumentos científicos.** Y, debido a que la luna Europa está bañada por la radiación atrapada en el campo magnético de Júpiter, los instrumentos de la nave y otros componentes electrónicos estarán encerrados dentro de una bóveda de paredes gruesas.
-
-La idea es **blindarse para ir a Júpiter** con una bóveda protectora de la radiación que fue desarrollada y utilizada con éxito por primera vez por la nave espacial Juno de la NASA.
-
-Las paredes de la bóveda, **hechas de titanio y aluminio**, actúan como un escudo contra la mayoría de las partículas atómicas de alta energía, que desacelera drásticamente la degradación de los componentes electrónicos de la nave.
-
-La carga útil incluye **cámaras y espectrómetros** para producir imágenes de alta resolución. También mapas de la composición de la superficie y la delgada atmósfera de la luna Europa.
-
-También incluye un radar de **penetración de hielo** para buscar agua subterránea y un magnetómetro. Además, mediciones de gravedad para desentrañar las **pistas sobre su océano** y su interior profundo.
-
-La nave también llevará un **instrumento térmico** para identificar las diferentes ubicaciones de hielo más cálido y quizás erupciones recientes de agua. Así como otros para medir la composición de las diminutas partículas en la delgada **atmósfera de la luna** y su entorno espacial.
-
-La luna Europa, según la NASA, **muestra evidencia** contundente de que existe un océano de agua líquida debajo de su corteza helada. Más allá de la Tierra, **Europa es considerada uno de los lugares** más prometedores donde podría haber entornos actualmente habitables en el [Sistema Solar](https://es.wikipedia.org/wiki/NASA "https://es.wikipedia.org/wiki/NASA").
-
-Asamblea trata proyecto sobre energías renovables ante cortes de luz
-====================================================================
-
-Este 14 de octubre, la Comisión de Desarrollo Económico aborda el proyecto de Ley para Impulsar la Iniciativa Privada en la Transición a Energías Renovables.
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Comisión de la Asamblea conoció el proyecto de Ley Orgánica para Impulsar la Iniciativa Privada en la Transición a Energías Renovables, el 8 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/comision.jpg)
-
-El proyecto de **Ley Orgánica para Impulsar la Iniciativa Privada en la Transición a Energías Renovables** se trata en la **Asamblea Nacional**. Este tiene carácter de urgente en materia económica y se da en medio de los cortes de luz en Ecuador[.](https://es.wikipedia.org/wiki/Ecuador)
-
-La propuesta, este lunes, 14 de octubre de 2024, se desarrolla en medio de una **crisis energética** que genera complicaciones diarias a escala nacional.
+Según detalló el ECU 911, el **fuerte choque** se registró a la altura del **kilómetro 47**.
 
 ### Más noticias
 
-* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
-* [Guayaquil tiene nuevos horarios de cortes de luz para este lunes 14 de octubre de 2024](https://www.elcomercio.com/actualidad/ecuador/guayaquil-nuevos-horarios-cortes-de-luz-lunes-14-de-octubre-de-2024.html "Guayaquil tiene nuevos horarios de cortes de luz para este lunes 14 de octubre de 2024")
-* [Cortes de luz para este 14 de octubre de 2024 en Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-horarios-14-de-octubre-de-2024-quito.html "Cortes de luz para este 14 de octubre de 2024 en Quito")
+* [Quito tiene opciones para reducir los siniestros en Quito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-choques-muertes.html "Quito tiene opciones para reducir los siniestros en Quito")
+* [Marco Angulo, de Liga de Quito, sigue hospitalizado tras siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/marco-angulo-de-liga-de-quito-sigue-hospitalizado-tras-siniestro-de-transito.html "Marco Angulo, de Liga de Quito, sigue hospitalizado tras siniestro de tránsito")
+* [Semáforos apagados complican la movilidad en Quito](https://www.elcomercio.com/actualidad/quito/semaforos-cortes-luz-novedades-apagados-quito.html "Semáforos apagados complican la movilidad en Quito")
 
-Proyecto de Ley para Energías Renovables, entre cortes de luz
--------------------------------------------------------------
+En el siniestro también estuvo involucrado un **bus de transporte** de pasajeros de la cooperativa **Mucuchi**, quien golpeó al camión por detrás.
 
-La propuesta se desarrolló en la sesión de la Comisión de Desarrollo Económico, en modalidad virtual. En esta se presentó **Byron Benalcázar**, como delegado de la ministra de Energía (e), Inés Manzano.
+Tras recibir la alerta. a las **16:04**, el ECU 911 coordinó el traslado de unidades del Cuerpo de Bomberos de Mejía, Opevial, Comisión de Tránsito del Ecuador (CTE) y el Gobierno Autónomo Descentralizado (GAD) de Pichincha.
 
-El presidente Daniel Noboa presentó el plan para la transición a **energía renovable**.
+Cinco personas resultaron heridas
+---------------------------------
 
-Benalcázar detalló que hay un incumplimiento del **Plan Maestro de Electricidad**, que se registra desde hace años atrás. Esto, entre las condiciones de estiaje, desembocó en la crisis energética que vive el país.
+Los personeros de estas instituciones acordonaron la zona para atender a los **afectados** y desviar el tránsito vehicular.
 
-Esas omisiones, dijo el Delegado, incluye la falta de desarrollo de planes de generación de energía.
+El ECU 911 confirmó que producto del fuerte siniestro, **cinco personas** resultaron **heridas**: tres mujeres, de 32, 49 y 61 años; y dos hombres, de 38 y 50 años.
 
-La propuesta
-------------
+Tras la valoración inicial, los afectados fueron llevados a hospitales cercanos para su respectivo diagnóstico.
 
-La iniciativa del Ejecutivo, remitida a la **Asamblea Nacional**, se enfoca en promover soluciones económicas, generar energía renovable para enfrentar la crisis energética, optimizar recursos públicos y fomentar la inversión privada en el sector eléctrico nacional.
+Mientras duró la emergencia, el tránsito vehicular en este lugar se mantuvo cerrado en un **carril**, por lo que la movilidad se vio congestionada.
 
-En definitiva, el proyecto establece vías para desarrollar diversas fuentes de energía renovable y garantizar un **servicio energético** estable y accesible.
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-12.png)
 
-El pasado 8 de octubre, la **Comisión de Desarrollo Económico** avocó conocimiento del proyecto, calificado a trámite por el Consejo de Administración Legislativa el pasado 4 de octubre de 2024.
-
-De acuerdo con la **Ley Orgánica de la Función Legislativa**, la comisión contará con un plazo no menor a cinco días y de máximo 10, a partir de empezado el tratamiento, para remitir su informe para primer debate en el **Pleno de la Asamblea**.
-
-El proceso en la Asamblea
--------------------------
-
-**Byron Benalcázar** expuso que cuentan con varios proyectos para generar energía, como los de generación solar. Algunos ya cuentan con estudios de prefactibilidad.
-
-Lo propio con los de generación geotérmica, como el de **Chachimbiro**, en Imbabura, de 50 megavatios. Este ya tiene financiamiento.
-
-Luego de la exposición del Funcionario delegado por **Inés Manzano**, el asambleísta **Blasco Luna** cuestionó que no haya sido ella quien “dé la cara”. Según él, sobre la propuesta hay más dudas que certezas.
-
-El **Legislador**, además, cuestionó que lo que se requieren propuestas a corto plazo.
-
-Por su parte, el asambleísta **Jorge Acaiturri** pidió detalles sobre las acciones que ya se anunciaron, como si la barcaza contratada para generar energía ya está funcionando en toda su capacidad.
-
-Las medidas desde el Gobierno
------------------------------
-
-**Benalcázar** puntualizó que, además, se están recuperando estructuras para generar megavatios. También dijo que la barcaza está en su máxima capacidad de generación para la que fue contratada. Es decir, 100 megavatios.
-
-Sobre la compra de energía a **Colombia**, el Funcionario señaló que es posible que en los próximos días, este país pueda habilitar este proceso. La semana anterior hubo ya una venta. A la par, están en marcha medidas con **Perú**.
-
-¿Kendry Páez merece ser titular con la Selección de Ecuador ante Uruguay?
-=========================================================================
-
-Kendry Páez fue uno de los señalados de la 'Tri' en el último empate de la selección.
--------------------------------------------------------------------------------------
-
-![Kendry Paéz en el calentamiento previo del partido entre Ecuador y Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-14T135257.378.jpg)
-
-La **Selección de Ecuador** enfrenta un reto complicado en su próximo partido ante Uruguay en Montevideo. Aún no se ha definido el once que utilizará Sebastián Beccacece para este encuentro, y la continuidad de **Kendry Páez** como titular es una incógnita.
-
-Desde la llegada del entrenador argentino a la dirección técnica de la ‘Tri’, P**áez ha sido parte del once inicial en los tres partidos disputados**. Sin embargo, su rendimiento ha suscitado debate.
-
-### Más noticias:
-
-* [Sebastián Beccacece volvió a respaldar a Kendry Páez](https://www.elcomercio.com/deportes/futbol/sebatian-beccacece-kendry-paez-seleccion.html "Sebastián Beccacece volvió a respaldar a Kendry Páez")
-* [Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay](https://www.elcomercio.com/deportes/futbol/kendry-paez-bajo-criticas-tras-empate-ecuador-paraguay.html "Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay")
-* [¿Cuándo juega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-uruguay.html "¿Cuándo juega la Selección de Ecuador ante Uruguay?")
-
-¿Kendry Páez merece ser titular con Ecuador?
---------------------------------------------
-
-En el último partido ante Paraguay, el joven mediocampista de 17 años mostró dificultades y lo sustituyeron al medio tiempo. Aunque ha tenido un rol regular con la selección, su rendimiento ha **decaído** desde la **Copa América**, lo que ha llevado a cuestionar su lugar en el equipo.
-
-Durante el encuentro, **Páez** no logró destacar, recibiendo críticas en redes sociales. Muchos aficionados opinaban que, dadas sus actuales circunstancias, no debería ser titular.
-
-En las gradas, el descontento también se hizo sentir, y varios hinchas pidieron su sustitución, sugiriendo que debería ser el primer cambio debido a su bajo nivel de juego.
-
-Por lo tanto, considerando la importancia y la dificultad del enfrentamiento contra Uruguay, sería prudente que **Beccacece** decidiera dejar al volante en la banca, permitiendo así explorar otras opciones y evitar una mayor exposición a su actual declive.
-
-Números de Páez con Ecuador
----------------------------
-
-A sus 17 años, **Kendry Páez acumula 15 partidos** con la Selección de Ecuador, de los cuales 12 fueron como titular y tres como suplente. Con casi 1,100 minutos de juego, ha marcado dos goles y proporcionado tres asistencias.
-
-Uno de sus goles se produjo en las **eliminatorias sudamericanas** frente a Bolivia, mientras que su segunda anotación llegó en la victoria de Ecuador sobre Jamaica (3-1) durante la Copa América 2024, celebrada en Estados Unidos.
-
-Páez comenzó su trayectoria en la selección con el número 16, pero en los últimos 10 partidos se ha consolidado como portador de la camiseta número 10.
-
-¿Cuándo juega Ecuador contra Uruguay?
--------------------------------------
-
-La Selección de **Ecuador se enfrentará a Uruguay** el martes 15 de octubre de 2024. Se disputará desde las 18:30, hora de Ecuador.
-
-Caso Odebrecht, Gabriel Massuh propone inmuebles como garantía
-==============================================================
-
-Gabriel Massuh, sentenciado por el delito de asociación ilícita en el caso Odebrecht, compareció ante la CNJ.
--------------------------------------------------------------------------------------------------------------
-
-![Audiencia de ofrecimiento de pago en el caso Odebrecht.](https://www.elcomercio.com/wp-content/uploads/2024/10/cnj-odebrecht.jpg)
-
-El empresario **Gabriel Massuh**, sentenciado por el **delito de asociación ilícita** en el **caso Odebrecht**, compareció la mañana del lunes 14 de octubre ante la **Corte Nacional de Justicia (CNJ**) para detallar cómo pagará los **860 930 dólares** impuestos como **reparación integral al Estado**.
-
-### Más noticias
-
-* [Rafael Correa y Jorge Glas tienen procesos abiertos y sentencias en firme, en Ecuador](https://www.elcomercio.com/actualidad/seguridad/rafael-correa-jorge-glas-procesos-sentencias-ecuador.html "Rafael Correa y Jorge Glas tienen procesos abiertos y sentencias en firme, en Ecuador")
-* [Carlos Pólit fue sentenciado a 10 años de prisión en Estados Unidos](https://www.elcomercio.com/actualidad/seguridad/carlos-polit-sentenciado-10-anos-prision-estados-unidos.html "Carlos Pólit fue sentenciado a 10 años de prisión en Estados Unidos")
-* [Carlos Pólit tiene nueva fecha para conocer su sentencia en Estados Unidos](https://www.elcomercio.com/actualidad/politica/carlos-polit-nueva-fecha-conocer-sentencia-estados-unidos.html "Carlos Pólit tiene nueva fecha para conocer su sentencia en Estados Unidos")
-
-La audiencia estuvo dirigida por los jueces **Mercedes Caicedo, Felipe Córdova y Julio Arrieta**, quienes conforman el **Tribunal de Ejecución** a cargo del caso.
-
-Massuh propuso una **serie de bienes inmueble**s como garantía para asegurar el cumplimiento del pago, aunque el tribunal ha solicitado más detalles **sobre los valores presentado**s.
-
-Tribunal solicitó completar informe pericial sobre avalúo de bienes
--------------------------------------------------------------------
-
-En una audiencia previa, el 23 de septiembre de 2024, la jueza Mercedes Caicedo había solicitado una hipoteca como garantía de pago.
-
-> 🔵[#SalaPenalCNJ](https://twitter.com/hashtag/SalaPenalCNJ?src=hash&ref_src=twsrc%5Etfw) | Audiencia de ofrecimiento de pago en contra del ciudadano Jorge G. y otros por el presunto delito de asociación ilícita.[#AudienciasCNJ](https://twitter.com/hashtag/AudienciasCNJ?src=hash&ref_src=twsrc%5Etfw)  
-> 💻 Sigue la audiencia aquí [https://t.co/t87x7rPIMP](https://t.co/t87x7rPIMP) [pic.twitter.com/rnff1Xujbv](https://t.co/rnff1Xujbv)
-> 
-> — Corte Nacional de Justicia (@CorteNacional) [October 14, 2024](https://twitter.com/CorteNacional/status/1845819348197277876?ref_src=twsrc%5Etfw)
-
-En respuesta, los abogados de **Massuh** presentaron tres propiedades ubicadas en Quito, Guayaquil y Quevedo, cuyo valor total asciende a más de **600 000 dólares**. La oficina en Quito, valorada en **212 528 dólares**, es uno de los bienes destacados.
-
-Sin embargo, el tribunal observó que el **informe pericial presentado para justificar los valores** de estos bienes estaba incompleto.
-
-Caicedo explicó que el informe actual **no incluye la documentación necesaria**, como los certificados municipales de avalúos y catastros, que respalden los valores comerciales propuestos.
-
-En consecuencia, **se concedió a la defensa de Massuh un plazo de 10 días** para que la perito encargada complete el informe y detalle cómo se establecieron los montos de avalúo para cada uno de los bienes inmuebles ofrecidos. Hasta que se entregue este informe, la diligencia quedó suspendida.
-
-### Propuesta de pago en cuotas
-
-El plan de pago presentado por la **defensa de Massuh** consiste en cancelar la reparación integral de **860 930 dólares en cuatro cuotas**.
-
-Se debe pagar la primera cuota de **200 000 dólare**s el 21 de octubre de 2024, mientras que las siguientes cuotas están programadas para el **1 de agosto de 2025**, el 1 de junio de 2026 y el 1 de septiembre de 2026.
-
-La **Procuraduría General del Estado** aceptó esta fórmula de pago y proporcionó los detalles de las cuentas donde se realizarán los depósitos.
-
-El caso Odebrecht, que implicó a **altos funcionarios y empresarios ecuatorianos**, sigue en proceso de ejecución pese a que las **sentencias fueron dictadas en 2017**. Entre los sentenciados se encuentran el exvicepresidente **Jorge Glas** y otros funcionarios, quienes también deben cumplir con **pagos de reparaciones económicas al Estado**.
-
-Dos binomios aún no están en firme para las elecciones 2025, ¿por qué?
-======================================================================
-
-El CNE dio un nuevo corte de las evaluaciones e impugnaciones a binomios para las elecciones 2025.
---------------------------------------------------------------------------------------------------
-
-![CNE avanza en procesos relacionados a las elecciones 2025.](https://www.elcomercio.com/wp-content/uploads/2024/10/elecciones-inscripciones-en-linea-2.jpg)
-
-Los procesos para las **elecciones 2025** en Ecuador avanzan. Uno de estos es la evaluación de los binomios presidenciales inscritos por parte del Consejo Nacional Electoral (CNE).
-
-Hasta la mañana de este lunes, 14 de octubre de 2024, 14 duplas ya contaban con la denominación de en firma. Es decir, que ya tienen un lugar en la papeleta.
-
-### Más noticias
-
-* [16 binomios presidenciales tienen posturas aún dispersas para elecciones 2025](https://www.elcomercio.com/elecciones/16-binomios-presidenciales-tienen-posturas-dispersas-elecciones-2025.html "16 binomios presidenciales tienen posturas aún dispersas para elecciones 2025")
-* [Seis binomios en firme para las elecciones 2025, ¿cuál es el proceso?](https://www.elcomercio.com/elecciones/seis-binomios-en-firme-para-las-elecciones-2025-cual-es-el-proceso.html "Seis binomios en firme para las elecciones 2025, ¿cuál es el proceso?")
-* [Binomios presidenciales entran a un escrutinio múltiple](https://www.elcomercio.com/opinion/editorial/binomios-presidenciales-entran-a-escrutinio-multiple.html "Binomios presidenciales entran a un escrutinio múltiple")
-
-> 🔴 ATENCIÓN | El CNE cumple sus atribuciones constitucionales y legales 🇪🇨 respecto a la prohibición del uso de la imagen de 👧👦 niños, niñas y adolescentes en la publicidad electoral. 📢  
->   
-> Conoce más detalles en el siguiente comunicado ⤵ [pic.twitter.com/AafbrXXZTG](https://t.co/AafbrXXZTG)
-> 
-> — cnegobec (@cnegobec) [October 13, 2024](https://twitter.com/cnegobec/status/1845574713000780165?ref_src=twsrc%5Etfw)
-
-Binomios rumbos a las elecciones 2025
--------------------------------------
-
-Las inscripciones de las **candidaturas 2025** se cerraron el pasado 2 de octubre. 16 binomios se apuntaron y hubo una sola alianza, entre la **Revolución Ciudadana y Reto**.
-
-Luego de la postulación empezó a correr el plazo para las impugnaciones. En este proceso, 14 binomios ya superaron ese escrutinio y dos aún están a la espera de tener la denominación de en firme.
-
-En el segundo grupo están los equipos de las organizaciones Izquierda Democrática (**Carlos Rabascall y Alejandra Rivas**) y Suma (**Jan Topic y Mishelle Calvache**).
-
-Ambos binomios fueron objetados y el Pleno del CNE no dio paso. Sin embargo, luego el binomio de la **Izquierda Democrática** recibió una impugnación.
-
-En el caso de Topic, se registraron dos apelaciones ante el **Tribunal Contencioso Electoral (TCE)**.
-
-En el calendario electoral consta que el 30 de diciembre se conocerá el listado final de candidatos. Este incluye aspirantes a 151 puestos en la **Asamblea Nacional** y cinco, en el Parlamento Andino.
-
-> ¡Gracias por acompañarnos! 🤝  
->   
-> Se suspende la Sesión Ordinaria No. 86 del [#PlenoCNE](https://twitter.com/hashtag/PlenoCNE?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Infórmate en nuestros canales oficiales:⬇️ [https://t.co/7jydYZpjVD](https://t.co/7jydYZpjVD) 💻 [pic.twitter.com/QzK0jaBccy](https://t.co/QzK0jaBccy)
-> 
-> — cnegobec (@cnegobec) [October 14, 2024](https://twitter.com/cnegobec/status/1845892522108932474?ref_src=twsrc%5Etfw)
-
-Los procesos
-------------
-
-Como parte de los trámites en las elecciones 2025, los partidos y movimientos políticos deben informar al **CNE** sobre los ingresos y egresos a través del **Sistema Contable de Financiamiento a la Política.**
-
-El Pleno del **CNE**, el 5 de abril de 2024, aprobó el presupuesto para el desarrollo de las elecciones generales de 2025. Este corresponde a 91 707 668,72 dólares.
-
-Para el **Fondo de Promoción Electoral** se definió una proyección por un monto de **13 760 259,81 dólares**. Los montos fijos para los partidos políticos y movimientos se definirán cuando se conozcan las candidaturas en firme.
-
-El organismo electoral, además, recordó que está vigente la prohibición del uso de la imagen de niños y adolescentes en la publicidad electoral financiada con recursos del **Fondo de Promoción Electoral**.
-
-El **Código de la Niñez**, además de las normas electorales, incluye esa restricción en programas o eventos de proselitismo político o religioso.
-
-Las juntas cantonales de **Protección de Derechos** deben conocer y disponer las medidas administrativas de protección en caso de vulneración de los derechos individuales de los menores.
-
-El gasto electoral
-------------------
-
-Según la normativa electoral, el cálculo del gasto electoral se realiza según el número de electores. Para las elecciones 2025 son 13 736 314.
-
-* **Binomio presidencial:** 5 494 525,60 dólares, que corresponde a 40 centavos por el número de electores.
-* **Parlamentarios andinos:** 137 363,14 dólares y son 10 centavos.
-* **Asambleístas nacionales:** 4 120 894,20 y son 30 centavos.  
-* **Asambleístas provinciales:** 30 centavos por electores según la jurisdicción.  
-* **Asambleístas del exterior:** 60 centavos según la circunscripción.  
-
-Binomios en la carrera
-----------------------
-
-* Jimmy Jairala y Lucía Vallecilla, Movimiento Centro Democrático (CD), lista 1.
-* Jorge Escala y Pacha Terán, Partido Unidad Popular (UP), lista 2.
-* Andrea González y Galo Moncayo, Partido Sociedad Patriótica (PSE), lista 3.
-* Víctor Araus y Cristina Carrera, Movimiento Pueblo, Igualdad y Democracia (PID), lista 4.
-* Luisa González y Diego Borja, Movimiento de la Revolución Ciudadana (RC), lista 5.
-* Henry Kronfle Kozhaya y Dallyana Passailaigue, Partido Social Cristiano (PSC), lista 6.
-* Daniel Noboa y María José Pinto, Movimiento Acción Democrática Nacional (ADN), lista 7.
-* Luis Felipe Tillería y Karla Rosero, Partido Avanza, lista 8.
-* Carlos Rabascall y Alejandra Rivas, Partido Izquierda Democrática, lista 12.
-* Juan Iván Cueva con Cristina Reyes, Movimiento Amigo, lista 16.
-* Pedro Granja y Verónica Silva, Partido Socialista Ecuatoriano (PSE), lista 17.
-* Leonidas Iza Salazar y Katiuska Molina, Movimiento Pachakutik, lista 18.
-* Iván Saquicela y María Luisa Coello, Movimiento Democracia Sí, lista 20.
-* Francesco Tabacchi y Blanca Saquicela, Movimiento Creando Oportunidades (CREO), lista 21.
-* Jan Topic y Mishelle Calvache, Partido Sociedad Unida Más Acción (SUMA), lista 23.
-* Henry Cucalón y Carla Larrea, Movimiento Construye, lista 25.
-
-Koob Hurtado enfrentará al Deportivo Quito en el Ascenso Nacional
-=================================================================
-
-El defensa central Koob Hurtado es uno de los jugadores más experimentados de Cantera Orense.
----------------------------------------------------------------------------------------------
-
-![Koob Hurtado con la camiseta de Cantera Orense en 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/hurtado_quito_4.jpg)
-
-**Cantera Orense** transita sus primeros kilómetros en el fútbol de la Segunda Categoría de El Oro y rápidamente se ganó un espacio para disputar uno de los dos cupos disponibles para la Liga Pro Serie B de 2025. 
-
-El plantel de jugadores de **Cantera Orense está conformado por jóvenes jugadores** que se forman en las categorías juveniles de Orense, club de la Liga Pro Serie A, del que es  su filial. 
-
-### Más noticias:
-
-* [Independiente Juniors homenajeó al fallecido Roberto Cabezas](https://www.elcomercio.com/deportes/futbol/indepeniente-juniors-roberto-cabezas-homenaje.html "Independiente Juniors homenajeó al fallecido Roberto Cabezas")
-* [Deportivo Quito entrenó con el volcán Cotopaxi de testigo](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-nacional-cotopaxi.html "Deportivo Quito entrenó con el volcán Cotopaxi de testigo")
-* [Uruguay navega aguas agitadas antes de recibir a Ecuador](https://www.elcomercio.com/deportes/futbol/uruguay-ecuador-montevideo-eliminatorias-mundial2026.html "Uruguay navega aguas agitadas antes de recibir a Ecuador")
-
-Juan Lupú, Anthony Moreno, Walter Carabalí, Jonathan Arboleda, Roosevelt Zambrano, Ariel Castillo, Alex Rodríguez, Maykel Pérez, **Marvin Ortiz, Danny Agurto, Cristhian Díaz** y Willian Rivas son los canteranos convocados para lo que fueron los treintaidosavos de final. 
-
-El siguiente reto de los de la **provincia de El Oro será el Deportivo Quito**, uno de los favoritos para llegar a las instancias finales y regresar a la Serie B luego de nueve años de ausencia. 
-
-El juego de ida entre Cantera Orense y el Quito, **válido por los dieciseisavos de final**, está programado para el domingo 20 de octubre de 2024 en el Complejo Deportivo Euclides Palacios, desde las 10:00.
-
-Para el Ascenso Nacional, **Cantera Orense reforzó su plantel con el defensa central Koob Hurtado**, que en el 2022 fue noticia en el país por haber dejado temporalmente el fútbol profesional para trabajar en los Estados Unidos en el área de la construcción. 
-
-![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/hurtado_quito_1-1024x683.jpg)
-
-Foto: Cortesía.
-
-Koob Hurtado y su llamativa historia 
--------------------------------------
-
-Para el segundo semestre de 2024, **Koob David Hurtado Arboleda, nacido el 19 de julio de 1985** en el cantón Eloy Alfaro, provincia de Esmeraldas, se unió a Cantera Orense como uno de sus refuerzos. 
-
-Llegó a firmar por el Cobreloa de Chile y en Ecuador defendió a la Liga de Quito, Deportivo Cuenca, Liga de Portoviejo, entre otros.
-
-En enero de 2022, c**uando se dio a conocer que se encontraba trabajando en Estados Unidos** como repartidor y en labores de construcción, aseguró que aún no se retiraba del fútbol.
-
-Llamado alguna vez el ‘Balotelli ecuatoriano’, el fornido zaguero que también defendió al Aucas, Independiente del Valle y la Liga de Loja se sentía “bendecido” por su trabajo. 
-
-Su rutina empezaba desde muy temprano, **poco después de las 05:00**, para poder tomar el tren que lo lleva de Brooklyn a Manhattan, en Nueva York, donde trabajaba.
-
-“El 18 de este mes cumplo cinco meses acá. No es fácil, pero gracias a Dios me va de maravilla. Tengo personas que me han dado una acogida importante para poderme quedar. Acá se vive en verdad el sueño americano porque no se tiene tiempo para dormir”, aseguraba entre risas.
-
-“Acá la vida es muy acelerada. **Mi rutina es levantarme a las 05:30**, cepillarme la boca, cambiarme y caminar al tren para Manhattan que es donde trabajo. Eso todos los días, Gracias a Dios”, añadía.
-
-Antes de dedicarse a pintar paredes o pulir pisos, entre otras actividades que le ha tocado aprender, a inicios del 2021 también trabajó en Minneapolis, Minnesota, y entregaba colchones, muebles, sillas a domicilio.
-
-Luego regresó a Ecuador y **hasta se unió al Bonita Banana de Pasaje**, en El Oro, en la Segunda Categoría.
-
-A mediados del 2021 incluso tuvo ofertas de clubes de la Serie B, pero lo que le ofrecían económicamente no lo satisfizo y decidió retornar otra vez a Estados Unidos. 
-
-“Acá también juego en los barriales y me pagan 100 y hasta 200 dólares por un partido de índor y así me mantengo. **También voy al gimnasio, trato de mantenerme bien para tener una buena vejez**. Yo no me he retirado del fútbol todavía. Opté por venir porque la economía está dura en el país, pero no me he retirado“, afirmaba.
-
-![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/hurtado_quito_2-1024x683.jpg)
-
-Foto: Cortesía.
-
-Hurtado brilló en Liga de Loja
-------------------------------
-
-Hurtado hizo un recuento de su trayectoria deportiva y aseguró que uno de sus mejores momentos en el fútbol los vivió en la Liga de Loja, en el 2012.
-
-“Se hicieron cosas importantes para el club y la ciudad**. De ahí di el salto para ir a Liga de Quito y otro momento importante** para mí fue en Liga de Portoviejo, en el 2019, que subimos con el club, pero lamentablemente el equipo volvió para abajo por cuestiones dirigenciales. Es un equipo con una hinchada muy grande.”, recordó el defensa de 1,83 metros.
-
-En su niñez y adolescencia se perfilaba más como boxeador que futbolista. En el Guabo, El Oro, lo conocían más por realizar fintas y lanzar golpes que por patear una pelota. 
-
-“Yo nunca había jugado fútbol, nunca, pero gracias a Dios me fui a probar al Deportivo Cuenca, **me quedé en la sub-20 y de una me subieron al primer equipo**. Eso fue una bendición y pude llegar a ser profesional”, aseguró.
-
-El ‘Balotelli ecuatoriano’  siempre admiró a delanteros como Carlos ‘Cuqui’ Juárez, Wálter ‘Mamita’ Calderón, Eduardo ‘Tanque’ Hurtado, entre otros. **“Ya después cuando tuve de compañeros a (Marcelo) Fleitas**, (Segundo) Matamba, (Raúl) ‘Pavo’ Noriega, Wilson Carabalí, Marcelo Velasco, Omar Guerra, jugadores que te motivaban dentro del campo juego. 
-
-Fueron los primeros compañeros de experiencia que tuve y por los que **pude saber lo que era un camerino y un compañero de alto nivel**”, recordó Koob Hurtado, el ecuatoriano que ahora vivió en los Estados Unidos y que anhelaba retornar a un club profesional, algo que en Cantera Orense lo está cumpliendo.
-
-![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/hurtado_quito_3-1024x683.jpg)
-
-Foto: Cortesía.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Supuesto capo de la mafia albanesa en Ecuador irá a juicio acusado de lavado de activos
-=======================================================================================
-
-La Fiscalía detalló que presentó 1 441 elementos de convicción durante la audiencia de evaluación.
---------------------------------------------------------------------------------------------------
-
-![Imagen referencial sobre un juicio.](https://www.elcomercio.com/wp-content/uploads/2024/10/justicia-pexels.jpg)
-
-La **Justicia ecuatoriana** ordenó la apertura de juicio por presunto lavado de activos a **Dritan Gjika**, al que las autoridades identifican como el **capo de la mafia albanesa** en el país andino. Se trata del supuesto cabecilla de una **red de narcotraficantes** que envió **decenas de toneladas de cocaína** a Europa desde puertos ecuatorianos.
-
-### Más noticias
-
-* [Fiscalía investiga red familiar de lavado de activos, liderada por funcionario de la UAFE](https://www.elcomercio.com/actualidad/fiscalia-investiga-red-familiar-lavado-activos-uafe.html "Fiscalía investiga red familiar de lavado de activos, liderada por funcionario de la UAFE")
-* [Caso Pampa: el juez tomó una decisión sobre la validez del proceso](https://www.elcomercio.com/actualidad/seguridad/caso-pampa-decision-validez-del-proceso.html "Caso Pampa: el juez tomó una decisión sobre la validez del proceso")
-* [Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-expone-como-operaba-leandro-norero-caso-metastasis.html "Fiscalía expone cómo operaba Leandro Norero en el caso Metástasis")
-
-La Fiscalía detalló este lunes, 14 de octubre de 2024, en un comunicado que presentó **1 441 elementos** de convicción durante la **audiencia de evaluación** y preparatoria de juicio por **presunto lavado de activos,** en el caso denominado ‘Pampa’, que involucra a **13 personas naturales** y ocho jurídicas.
-
-Elementos levantados durante investigación
-------------------------------------------
-
-Los elementos levantados durante la investigación demostrarían que los **acusados constituyeron** y administraron varias empresas dedicadas a la **exportación de productos agrícolas,** como el **banano, la compraventa de bienes inmuebles y productos cárnicos**, indicó.
-
-En un comunicado, el Ministerio Público añadió que estas actividades “habrían sido usadas para **ocultar** el **origen ilícito de dinero** proveniente del narcotráfico, dándole apariencia de legalidad”.
-
-A través de esos recursos -señaló- se adquirió **terrenos, viviendas, bodegas, aparcamientos, maquinaria pesada y vehículos,** entre otros bienes, entre 2015 y 2023.
-
-En el proceso, un juez resolvió llamar a juicio a: **Dritan Gjika (albanés)**, **Mario S. (argentino**), **Jairo M. (colombiano)** y a los **ecuatorianos Carlos G.,  Teresa P., Julio L., Bryan L., Julio L., Jonnathan L., Fulgencio C., Pablo H., Carina E. y a Yongdeng Z.**
-
-Además, a las personas jurídicas **Holtexsa S.A., Produccón de Cárnicos Carniproduccion S.A., Ingrener S.A., Cresmark S.A.,  Agricomtrade S.A., Negoglobal S.A., Sentilver S.A. y Damascoswett S.A.**
-
-“Todos los procesados enfrentarán el **juicio como autores directos,** a excepción de Gjika y Pablo H., quienes están prófugos y para los cuales se ordenó la **difusión roja de Interpol.** Además, el magistrado ratificó las **medidas cautelares personales** y **reales sobre todos los procesados**“, señala la Fiscalía.
-
-Más de 43,4 millone de dólares
-------------------------------
-
-Los **elementos de convicción** presentados demostrarían que los imputados formaron y administraron empresas con **actividades aparentemente legales**, pero que en realidad ocultaban el **origen ilícito** del dinero procedente del narcotráfico, apunta.
-
-Los bienes inmuebles, localizados en las **provincias de Guayas, Cotopaxi y Santa Elena**, fueron adquiridos a través de estas actividades. Según la Fiscalía, el monto aproximado del lavado de activos asciende a más de 43,4 millones de dólares.
-
-Detalló que Dritan Gjika utilizó empresas como **Cresmark S. A. y Agricomtrade S. A.,** dedicadas a la **exportación de banano**, para disimular el **origen ilícito de activos**. Se le atribuye el liderazgo en las actividades tanto de narcotráfico como de lavado de activos.
-
-Gjika contó con **colaboradores estratégicos**, como **Julio L. M., su esposa Teresa P., y sus hijos Byran L. y Julio L. P., además de Pablo H**., detalla la Fiscalía en un comunicado.
-
-Estas personas, a través de actividades comerciales como la producción agrícola, forestal y la compraventa de oro, incrementaron su patrimonio de manera desproporcionada, adquiriendo terrenos, viviendas, vehículos de alta gama y maquinaria pesada, pagados en efectivo, para ocultar la procedencia ilícita de fondos.
-
-Actuaron a través de las empresas **Producción de Cárnicos Carniproduccion S.A.** y **Agricomtrade S.A.,** precisó la Fiscalía.
-
-Mario S. y su esposa, Carina E., controlaron los **recursos financieros y humanos** de empresas como Holtexsa S. A., Ingrener S. A., Negoglobal S. A., Sentilver S. A. y Damascoswett S. A. Utilizando su rol como grandes **empresarios del sector bananero**, se beneficiaron de **actividades de narcotráfico,** incrementando su patrimonio no solo en Ecuador, sino también en **Argentina, Estados Unidos, España y Emiratos Árabes,** agregó.
-
-Colaboración entre Ecuador y España
------------------------------------
-
-El caso Pampa es producto de una colaboración entre las **autoridades ecuatorianas** y **españolas** que derivó en un operativo conjunto realizado a **inicios de febrero** donde fueron detenidas 30 personas (18 en Ecuador y 12 en España) de **nacionalidades ecuatoriana, española, argentina, colombiana, albanesa y china.**
-
-De acuerdo a la investigación, esta **organización se encargaba de enviar toneladas de cocaína** producidas en el **Valle del Cauca (oeste de Colombia)** camufladas en contenedores con exportaciones de fruta de Ecuador, principalmente banano.
-
-Bajo esa modalidad la organización criminal sería la responsable de al menos **11 envíos de cocaína** desde el puerto de Guayaquil, el más grande de Ecuador, **hasta países de Europa como Bélgica, Países Bajos y España.**
-
-Jugadores que no nacieron en Ecuador, pero están comprometidos con la ‘Tri’
-===========================================================================
-
-No hace falta nacer en un país para sentir esos colores, y estos jugadores lo demuestran cada vez que visten la camiseta de la selección.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Jeremy Sarmiento y John Yeboah, jugadores que nacieron fuera de Ecuador, pero que representan a la selección ecuatoriana con orgullo.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-14T131826.747.jpg)
-
-La **Selección de Ecuador** vive un proceso de globalización dentro de su plantel. Aunque históricamente ha habido jugadores nacionalizados que representan con orgullo los colores, ahora también se suman aquellos con raíces ecuatorianas que, por diversos motivos, nacieron fuera del país.
-
-Un claro ejemplo de esto son **John Yeboah y Jeremy Sarmiento**, quienes, a pesar de haber nacido lejos de la tierra de sus padres, están orgullosos de representar a la selección y han logrado conectar con los fanáticos, que los elogian cuando vienen a jugar en las eliminatorias.
-
-### Más noticias:
-
-* [¿Cuándo juega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-uruguay.html "¿Cuándo juega la Selección de Ecuador ante Uruguay?")
-* [Jeremy Sarmiento se une al Burnley de Inglaterra previo a la Tri](https://www.elcomercio.com/deportes/jeremy-sarmiento-nuevo-fichaje-burnley-seleccion-ecuador.html "Jeremy Sarmiento se une al Burnley de Inglaterra previo a la Tri")
-* [John Yeboah asiste y el Venezia obtiene su primer triunfo](https://www.elcomercio.com/deportes/john-yeboah-asistencia-venezia-genoa.html "John Yeboah asiste y el Venezia obtiene su primer triunfo")
-
-Raíces internacionales, pasión ecuatoriana
-------------------------------------------
-
-El primer caso destacado es el de Jeremy **Sarmiento**. **Nacido en España de padres ecuatorianos**, se mudó a Inglaterra a una edad temprana y representó a esa selección en categorías juveniles.
-
-Sin embargo, todo cambió en octubre de 2021, cuando recibió su primer llamado por Ecuador a los 19 años, gracias a un buen scouting de la selección y a **Gustavo Alfaro**, el entrenador que lo consolidó en el equipo nacional hasta la fecha, siendo un regular en las convocatorias.
-
-![Jeremy Sarmiento celebra un gol con la Selección de Ecuador en la Copa América 2024.](https://www.elcomercio.com/wp-content/uploads/2024/06/alineacion_ecuador_jamaica-1024x683.jpg)
-
-Jeremy Sarmiento celebra un gol con la Selección de Ecuador en la Copa América 2024.
-
-A Sarmiento se le unió posteriormente **John Yeboah**, nacido en Alemania, de madre ecuatoriana y padre guineano-ecuatoriano.
-
-Al igual que su compañero, **comenzó representando a la selección alemana** en etapas juveniles antes de cambiar de nacionalidad. Yeboah recibió su primer llamado en octubre de 2023, con 23 años, bajo las órdenes de Félix Sánchez Bas, y ahora es un regular en las convocatorias, a pesar de los cambios en el cuerpo técnico.
-
-![John Yeboah celebra uno de los goles de la Selección de Ecuador en Copa América](https://www.elcomercio.com/wp-content/uploads/2024/07/g-2024-07-01T193259.257-1024x683.jpg)
-
-John Yeboah celebra uno de los goles de la Selección de Ecuador en Copa América
-
-“Me alegra mucho que tengamos este tipo de jugadores, porque **tienen una preparación diferente; se formaron en Europa y eso ayuda a la selección**“, destacó Luis Fernando Saritama en una entrevista con EL COMERCIO.
-
-Queridos por la afición
------------------------
-
-Pese a su **lejanía con el país** durante su crecimiento, esto no ha impedido que tanto Yeboah como Sarmiento se sientan atraídos por la cultura ecuatoriana.
-
-Esta **conexión voluntaria con sus raíces** ha hecho que los aficionados siempre les muestren su apoyo y coreen sus nombres cuando juegan en Quito. Cada vez que han usado la camiseta de la selección, han hecho su mejor esfuerzo por representarla con dignidad.
-
-“Hay una conexión con la hinchada. Ver a Yeboah compartir con los aficionados cuando corean su nombre demuestra que se siente a gusto, que **se siente ecuatoriano,** y eso es muy importante”, añadió Saritama.
-
-![John Yeboah (izq.) y Jeremy Sarmiento (der.) celebran un gol con la Selección de Ecuador antes de la Copa América.](https://www.elcomercio.com/wp-content/uploads/2024/06/10a1380a744a1eb7bcd23f91b401cf76b094effd-1024x683.jpg)
-
-John Yeboah (izq.) y Jeremy Sarmiento (der.) celebran un gol con la Selección de Ecuador antes de la Copa América.
-
-Números con la selección
+Choque fatal en Tambillo
 ------------------------
 
-Desde 2021, Jeremy Sarmiento ha disputado 23 partidos con la selección, anotando dos goles y brindando dos asistencias. En cuanto a grandes torneos, ha participado en el **Mundial de Catar** 2022 y en la Copa América 2024.
+En otro siniestro de tránsito, un **choque** en la Panamericana sur, a la altura de **Tambillo**, cantón Mejía, al sur de Quito, dejó dos fallecidos, al final del **feriado** por la **independencia de Guayaquil**[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito")
 
-John **Yeboah**, que lleva menos de un año con el combinado nacional, ha sumado 9 partidos, con dos goles y una asistencia. En cuanto a torneos, ha disputado la Copa América 2024.
+El siniestro, ocurrido el domingo 13 de octubre de 2024, involucró a un **autobús y tres automóviles**, generando una fuerte congestión vehicular en el sector.
 
-Conoce la hermosa biblioteca ganadora del ‘Mundial de Bibliotecas’ de este año 
-===============================================================================
+El Cuerpo de **Bomberos** de Quito confirmó que además se reportaron siete personas heridas, quienes recibieron atención prehospitalaria.
 
-Esta biblioteca ganó el Premio a la Biblioteca Pública del Año 2024, destaca por su innovación y diseño.
---------------------------------------------------------------------------------------------------------
+Los ciudadanos que se desplazaban de regreso a la ciudad luego del feriado tuvieron que afrontar largas demoras debido a la **congestión vehicular**.
 
-![La Biblioteca de Beijing, diseñada por Snøhetta, resalta por su modernidad. Foto: news.cgtn.com.](https://www.elcomercio.com/wp-content/uploads/2024/10/mundial-bibliotecas-Beijing.jpg)
+  
+ 
 
-La **Biblioteca de Beijing** ha sido galardonada con el prestigioso **Premio a la Biblioteca Pública del Año 2024**, otorgado por la **Federación Internacional de Asociaciones de Bibliotecarios y Bibliotecas** (IFLA).  
+Beccacece busca hacer historia con la Selección de Ecuador ante Uruguay
+=======================================================================
 
-### Más noticias
+Sebastián Beccacece se refirió al partido de la Selección de Ecuador ante Uruguay antes del viaje para el duelo de eliminatorias.
+---------------------------------------------------------------------------------------------------------------------------------
 
-* [Ministerio de Educación abrió 18 bibliotecas](https://www.elcomercio.com/actualidad/ministerio-educacion-bibliotecas-estudiantes-libros.html "https://www.elcomercio.com/actualidad/ministerio-educacion-bibliotecas-estudiantes-libros.html")
-* [La Biblioteca Ambulante fomenta la lectura en los barrios de Quito](https://www.elcomercio.com/tendencias/cultura/biblioteca-ambulante-lectura-infantil-quito.html "https://www.elcomercio.com/tendencias/cultura/biblioteca-ambulante-lectura-infantil-quito.html")
+![Sebastián Beccacece, DT de la Selección de Ecuador, en una rueda de prensa.](https://www.elcomercio.com/wp-content/uploads/2024/10/7a41929c14aba2290593dba8c56c246ca9d40123.jpg)
 
-Este reconocimiento marca un hito, ya que es **la primera vez que una biblioteca en China recibe este honor**. La ceremonia de premiación se llevó a cabo el 7 de octubre de 2024, en la Conferencia Internacional de Bibliotecas en Barcelona, de acuerdo con la [página oficial de la ciudad de Beijing](https://spanish.beijing.gov.cn/latest/news/202410/t20241010_3915967.html "https://spanish.beijing.gov.cn/latest/news/202410/t20241010_3915967.html"). 
+El argentino **Sebastián Beccacece,** DT de la Selección de Ecuador, anticipó que su equipo buscará el martes la primera victoria como visitante ante Uruguay en unas eliminatorias al Mundial 2026. El entrenador lo calificó como un “lindo reto” “y **una nueva oportunidad para hacer historia**“.
 
-**El diseño vanguardista de la Biblioteca de Beijing** 
--------------------------------------------------------
-
-El diseño de la **Biblioteca de Beijing**, a cargo de la **firma de arquitectura Snøhetta**, se destaca por su **enfoque en la sostenibilidad y la cohesión social**.  
-
-La estructura incorpora **soluciones innovadoras** que no solo reducen el impacto ambiental, sino que también crean un espacio acogedor y funcional para los usuarios. La biblioteca es descrita como **un “cielo de libros” vibrante y acogedor**, con un diseño que promueve la interacción y el aprendizaje, a decir de la web [Bustler](https://bustler.net/news/10098/sn-hetta-s-socially-cohesive-beijing-library-design-wins-public-library-of-the-year-award "https://bustler.net/news/10098/sn-hetta-s-socially-cohesive-beijing-library-design-wins-public-library-of-the-year-award"). 
-
-**Un espacio para la comunidad** 
----------------------------------
-
-Más allá de su **impresionante arquitectura**, la **Biblioteca de Beijing** se centra en el fortalecimiento de la comunidad. Ofrece una amplia gama de servicios y actividades que **fomentan la participación ciudadana y el intercambio cultural**. Este enfoque comunitario es uno de los aspectos que más impresionó al jurado del premio, al destacar la capacidad de la biblioteca para **adaptarse a las necesidades de sus usuarios en la era digital**, según recoge la página de [Snøhetta](https://www.snohetta.com/news/beijing-library-awarded-ifla-public-library-of-the-year-2024 "https://www.snohetta.com/news/beijing-library-awarded-ifla-public-library-of-the-year-2024").  
-
-**Curiosidades y datos relevantes** 
-------------------------------------
-
-La **Biblioteca de Beijing** no solo es un centro de conocimiento, sino también un lugar de encuentro para personas de todas las edades.  
-
-Entre sus características más notables se encuentra **un jardín interior que simula un bosque**. Esto proporciona un **ambiente tranquilo y natural** para la lectura y el estudio. Además, la biblioteca cuenta con **tecnología de punta** que facilita el acceso a recursos digitales, lo que hace de este espacio un modelo a seguir para futuras bibliotecas en todo el mundo, [de acuerdo con la misma fuente](https://www.snohetta.com/projects/beijing-library "https://www.snohetta.com/projects/beijing-library"). 
-
-La **Biblioteca de Beijing** se erige como un ejemplo de cómo las bibliotecas pueden evolucionar para seguir siendo relevantes en el siglo XXI, al combinar tradición y modernidad en un espacio que celebra el conocimiento y la comunidad. 
-
-Aún quedan feriados en este 2024, ¿son recuperables?
-====================================================
-
-Feriados de este 2024 se acortan. Hay algunos elementos que recordar.
----------------------------------------------------------------------
-
-![Iglesias y plazas están entre los destinos para aprovechar los feriados.](https://www.elcomercio.com/wp-content/uploads/2024/10/feriados.jpg)
-
-Luego del **feriado** por la Independencia de Guayaquil, por el que hubo un descanso de tres días, aún hay días de asuetos para lo que resta de **2024** en Ecuador[.](https://es.wikipedia.org/wiki/Ecuador)
-
-Ecuador cuenta con normativa que definen los parámetros de los feriados. Se trata de la Ley Reformatoria a la **Ley Orgánica del Servicio Público y al Código de Trabajo**. 
-
-El documento establece que cuando los días de descanso obligatorio a **escala nacional** o local establecidos en la **Ley** correspondan a los sábados o domingos, el feriado se trasladará, respectivamente, al anterior viernes o al lunes siguiente.
-
-### Más noticias
-
-* [Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-consulte-aqui-los-horarios-con-la-herramienta-de-ia-de-el-comercio.html "Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO")
-* [Más zonas seguras y sostenibles para levantar el turismo de Ecuador](https://www.elcomercio.com/opinion/editorial/mas-zonas-seguras-y-sostenibles-para-levantar-el-turismo-de-ecuador.html "Más zonas seguras y sostenibles para levantar el turismo de Ecuador")
-* [Sector turístico espera reactivación durante el feriado](https://www.elcomercio.com/actualidad/ecuador/viajeros-turismo-guayaquil-feriado-ecuador.html "Sector turístico espera reactivación durante el feriado")
-
-Los feriados en Ecuador
------------------------
-
-Asimismo, cuando los días de **descanso obligatorio** correspondan al martes, el feriado se trasladará al lunes inmediato anterior y si coinciden con miércoles o jueves, se pasará al viernes de la misma semana. 
-
-La norma contempla **10 feriados** por año en **Ecuador**. El último fue por la Independencia de Guayaquil (9 de octubre se traslada al 11 de octubre). Los siguientes son:
-
-* **Día de Difuntos** (2 de noviembre se traslada al 1 de noviembre).
-* **Independencia de Cuenca** (3 de noviembre se traslada al 4 de noviembre)
-* **Navidad** (25 de diciembre)
-
-¿Cuánto me pagan por trabajar en feriado?
------------------------------------------
-
-El **Código del Trabajo** define que, si una persona labora durante un feriado, **deberá ganar el 100% de recargo**. Para el cálculo se debe dividir el salario por 30 días y luego por las horas trabajadas.
-
-El pago por trabajar en días feriado se debe dar la **quincena** o al final del mes. Los feriados que restan en este 2024 no son **recuperables**.
-
-Los días recuperables corresponden a los que se salen del **calendario oficial**. Por ejemplo, cuando el Gobierno determina una jornada libre por alguna eventualidad.
-
-Los operativos
---------------
-
-En los feriados, además de conocer las opciones turísticas, hay dispositivos de seguridad. En el descanso por la **Independencia de Guayaquil**, por ejemplo, la Policía destinó **51 544 servidores**: 42 231 preventivos, 1 781 de Inteligencia y 7 532 para investigación.
-
-De ese grupo, 3 000 estuvieron destinados para tareas de seguridad ciudadana. **8 525 en playas**, ferias y eventos públicos y 730 en zonas de montaña, senderos y parques.
-
-Un jugador marca la diferencia del precio entre Uruguay y Ecuador
-=================================================================
-
-Las selecciones de Uruguay y Ecuador suman un valor de mercado de 742 millones de dólares.
-------------------------------------------------------------------------------------------
-
-![Federico Valverde (i) y Moisés Caicedo en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/valverde_costo_1.jpg)
-
-Las selecciones de **Uruguay y Ecuador** están listas para afrontar el partido de la décima fecha de las eliminatorias al Mundial 2026, la primera que marca el inicio de la rueda de revanchas.
-
-El encuentro entre **Uruguay y Ecuador está programado para el martes 15 de octubre de 2024**, desde las 18:30, en el mítico estadio Centenario de Montevideo, sede, entre otros eventos, de la final de la Copa del Mundo de 1930.
+“**A Ecuador le ha costado mucho ganar fuera y vamos con la ilusión y la expectativa de conseguir eso por primera vez.** Es un lindo reto. Sabemos la dificultad”, dijo Beccacece este lunes en declaraciones proporcionadas por la Federación Ecuatoriana de Fútbol (FEF) antes de viajar a **Montevideo**.
 
 ### Más noticias:
 
-* [La Selección Ecuador con cuatro jugadores con riesgo de suspensión](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-tarjeta-amarilla.html "La Selección Ecuador con cuatro jugadores con riesgo de suspensión")
-* [Sebastián Beccacece volvió a respaldar a Kendry Páez](https://www.elcomercio.com/deportes/futbol/sebatian-beccacece-kendry-paez-seleccion.html "Sebastián Beccacece volvió a respaldar a Kendry Páez")
-* [La Copa Ecuador confirmó horarios de las semifinales](https://www.elcomercio.com/deportes/futbol/copa-ecuador-horarios-semifinales-llaves.html "La Copa Ecuador confirmó horarios de las semifinales")
+* [Sebastián Beccacece y su arranque irregular con la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-arranque-irregular-beccacece-uruguay.html "Sebastián Beccacece y su arranque irregular con la Selección de Ecuador")
+* [La Selección de Ecuador expondrá su férrea defensa contra Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-defensa-uruguay-eliminatorias.html "La Selección de Ecuador expondrá su férrea defensa contra Uruguay")
+* [¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-beccacece-bielsa.html "¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?")
 
-Uruguay afronta el duelo contra la Tri **luego de la derrota sufrida por 1-0 en sus visita al Nacional de Lima**, en medio de una controversia desatada por el exseleccionado Luis Suárez sobre el manejo y trato del equipo por parte del entrenador argentino Marcelo Bielsa.
+“**Somos conscientes también de nuestro crecimiento**, desde la humildad, el trabajo y la convicción, así como del talento individual y de la energía colectiva”, añadió.
 
-Ecuador, en cambio, intentará pasar el mal sabor de boca que le dejó el **empate 0-0 ante Paraguay en el Rodrigo Paz Delgado,** en medio de cuestionamientos por las escasas opciones de gol con la que cuenta el equipo de Sebastián Beccacece.
+El argentino afirmó que la selección de **Uruguay** es “un rival con gran poderío, que es muy fuerte en casa, que tiene una gran idea y un gran entrenador (Marcelo Bielsa)”.
 
-Con ese panorama llegan ambas escuadras que se mantienen en la zona de clasificación directa al Mundial con los ‘charrúas’ en la tercera casilla con 15 puntos, mientras que los tricolores son quintos con 12.
+“**Vuelven todos sus futbolistas de las suspensiones, a excepción de (Rodrigo) Betancourt**“, comentó Beccacece. A su vez, señaló que la selección uruguaya supondrá un gran nivel de exigencia para la Tri.
 
-La ‘Celeste’ es la favorita para ganar este duelo, **no solo porque juega en un estadio donde la Tri** no ha ganado nunca, sino que el valor de mercado de todos sus jugadores es superior y lo supera por un amplio margen.
+Beccacece vuelve a pedir concentración para la Selección de Ecuador
+-------------------------------------------------------------------
 
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/valverde_costo_3-1024x683.jpg)
+El técnico reiteró la importancia de que sus dirigidos se mantengan **muy concentrados**, conectados y preparados para imponer las condiciones de su juego. “**Hemos aprovechado al máximo estos diez días que hemos compartido, desde el trabajo, la comprensión y la colaboración también**“, apuntó.
 
-Uruguay vs. Ecuador en cifras
------------------------------
+Beccacece se declaró “muy feliz y orgulloso de tener **jugadores tan comprometidos** con su selección y tan comprometidos entre sí”[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
 
-Según Transfermarkt, **Uruguay tiene un valor de mercado de 450 millones de dólares**, vs. los 292 de Ecuador, lo que la mantiene como la quinta mejor valorada de las 10 selecciones de la Conmebol.
+“Estamos construyendo una gran familia y paso a paso seguramente **vamos a conseguir el logro deseado**“, dijo en referencia a clasificar para el Mundial de 2026.
 
-La diferencia entre **Uruguay y Ecuador son de 168 millones de dólares**, pero el principal responsable de esta diferencia es Federico Valverde, jugador del Real Madrid que vale 141 millones de dólares, el más elevado de ambas selecciones.
+Uruguay y la Tri tendrán su revancha en eliminatorias
+-----------------------------------------------------
 
-Sin Valverde en la convocatoria uruguaya, la **diferencia se reduciría drásticamente a 27 millones**.
+El encuentro entre **Uruguay y Ecuador** forma parte de la décima fecha de las eliminatorias sudamericanas de clasificación para el Mundial de 2026, y es el primero de la segunda vuelta, ya que en la primera la Tri venció por 2-1 a la Celeste en Quito en la segunda jornada.
 
-La diferencia también es bastante amplia entre sus compañeros. Por ejemplo, Darwin Núñez, goleador del equipo y de las eliminatorias con cinco tantos, **alcanza un valor de 70 millones**, es decir, la mitad.
+A este encuentro los charrúas llegan en la tercera plaza con 15 puntos, mientras que la selección ecuatoriana es quinta con **12 puntos**, tras haber comenzado con -3 unidades por la sanción que le impuso el Tribunal de Arbitraje Deportivo (TAS) por el caso Byron Castillo.
 
-Si seguimos bajando nos encontramos en el podio de este ranking con **Manuel Ugarte, recientemente transferido al Manchester United, con 54 millones**.
+En la última fecha disputada la pasada semana, **Uruguay** perdió por 1-0 ante Perú en su visita a Lima y Ecuador empató 0-0 con **Paraguay** en Quito
 
-Entre los de menor valoración están Marcelo Sarachi (Boca Juniors) con 1,4 millones; **Facundo Bernal (Fluminense) con 1,5 millones**; y Guillermo Varela (Flamengo) con 1,8.
+Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia
+============================================================================
 
-En Ecuador, Moisés Caicedo es el mejor valorado con 81 millones de dólares, por lejos el más alto del plantel convocado con **Beccacece, que tiene la particularidad de tener a 22 jugadores** en el extranjero y solo tres en la Liga Pro.
+El Alcalde de Guayaquil pide a las autoridades reforzar la seguridad de los organismos de emergencia, pues de ellos depende la vida de los demás
+------------------------------------------------------------------------------------------------------------------------------------------------
 
-Está secundado por los defensas **Willian Pacho (PSG) y Piero Hincapié (Bayer Leverkusen)** con 43,6 millones de dólares.
+![El Cuerpo de Bomberos de Guayaquil atiende la mayoría de emergencias en la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/10/Bomberos-Guayaquil.jpg)
 
-Los porteros Gonzalo Valle (Liga de Quito) y Hernán Galíndez, son los únicos cuyo valor de mercado es de 381 000 dólares.
+El **Cuerpo de Bomberos de Guayaqui**l informó este 13 de octubre de 2024 sobre un **asalto** que sufrieron sus miembros en la ciudad.
 
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/valverde_costo_2-1024x683.jpg)
+### Más noticias
 
-Foto: API.
+* [Congestión vehicular se registra en esta vía del norte de Quito este lunes 14 de octubre](https://www.elcomercio.com/actualidad/quito/congestion-vehicular-se-registra-via-norte-quito-lunes-14-de-octubre-legarda.html "Congestión vehicular se registra en esta vía del norte de Quito este lunes 14 de octubre")
+* [Cortes de luz para este 14 de octubre de 2024 en Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-horarios-14-de-octubre-de-2024-quito.html "Cortes de luz para este 14 de octubre de 2024 en Quito")
+* [Así funciona el Pico y placa en Quito este lunes 14 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-14-de-octubre.html "Así funciona el Pico y placa en Quito este lunes 14 de octubre")
+
+Asalto a los bomberos
+---------------------
+
+El Benemérito **Cuerpo de Bomberos de Guayaquil** publicó un comunicado en sus redes sociales en el que condena el hecho violento que se registró contra un **equipo de emergencias**.
+
+El hecho se registró durante la madrugada del domingo, en el sur de la ciudad. El personal se encontraba en una de las ambulancias **tomando procedimiento por una atención solicitada**.
+
+Según se conoce, al menos **15 sujetos en motos** rodearon la ambulancia y un carro bomba y asaltaron a los miembros del **equipo de socorro.**
+
+Ninguna persona resultó herida; sin embargo, **las víctimas de este asalto** fueron despojadas de sus objetos personales.
+
+El **Cuerpo de Bomberos** afirma que este tipo de actos no solo **ponen en peligro a los paramédicos** y bomberos, sino también a las **personas que dependen de estos servicios** en situaciones críticas.
+
+Recalca que las ambulancias que cubren la mayoría de **emergencias prehospitalarias** en Guayaquil enfrentan “riesgos crecientes”. Por ello, el **Cuerpo de Bomberos** hizo un llamado a las autoridades para que se tomen medidas inmediatas que **garanticen la seguridad de las unidades de emergencia**.
+
+El comunicado termina con la **reafirmación del compromiso de seguir sirviendo** a la comunidad con la entrega y profesionalismo que caracteriza al Cuerpo de Bomberos de Guayaquil.
+
+Bomberos rechazaron recientes asaltos y amenazas recibidas
+----------------------------------------------------------
+
+El Cuerpo de Bomberos de Guayaquil mostró su rechazo a los últimos robos que han sufrido.
+
+A través de un comunicado difundido la noche de este lunes, la entidad dio detalles de **otros delitos** que enfrentaron sus uniformados en la ciudad.
+
+Los Bomberos denunciaron un robo en el sector de la **Coviem**, donde desconocidos aprovecharon que una unidad de paramédicos atendía a la ciudadanía para **sustraer** sus pertenencias.
+
+La ‘Casaca Roja’ también reportó un **tercer robo** en el cuartel 15, en **Mucho Lote**.
+
+En este lugar, delincuentes se robaron el cableado eléctrico mientras el barrio se encontraba en medio de un **apagón programado**.
+
+“Además, en el sector de la **Isla Trinitaria**, un grupo de delincuentes se acercaron hasta el cuartel de bomberos del lugar para amenazar al personal”, añadió el oficio.
+
+> 🚨 Comunicado 🚨 [pic.twitter.com/3Lfug7NzUJ](https://t.co/3Lfug7NzUJ)
+> 
+> — Bomberos Guayaquil (@BomberosGYE) [October 14, 2024](https://twitter.com/BomberosGYE/status/1845974100432367710?ref_src=twsrc%5Etfw)
+
+Alcalde de Guayaquil condena el hecho
+-------------------------------------
+
+El **alcalde de Guayaquil,** Aquiles Alvarez, rechazó el **ataque sufrido por los bomberos** de la ciudad en la madrugada del domingo en el sur de la ciudad.
+
+Alvarez se hizo eco de que “**este violento asalto** no solo pone en riesgo a los equipos de respuesta, sino también a las miles de personas que dependen de este servicio”, apuntó.
+
+Terminó su pronunciamiento al exigir **“a las autoridades que refuercen su protección.** Su seguridad repercute en la [seguridad](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil") de todos”.
+
+> Rechazamos el ataque sufrido por los bomberos esta madrugada en el sur de la ciudad, mientras atendían una emergencia.  
+>   
+> Este violento asalto no solo pone en riesgo a los equipos de respuesta, sino también a las miles de personas que dependen de estos servicios.  
+>   
+> Exigimos que… [https://t.co/1jWmWDm7G0](https://t.co/1jWmWDm7G0)
+> 
+> — Aquiles Alvarez Henriques (@aquilesalvarez) [October 13, 2024](https://twitter.com/aquilesalvarez/status/1845540049875845181?ref_src=twsrc%5Etfw)
+
+Nayely Bolaños superó dos graves lesiones antes de triunfar
+===========================================================
+
+Nayely Bolaños marcó un triplete para guiar a Dragonas Independiente a las semifinales de la Libertadores Femenina.
+-------------------------------------------------------------------------------------------------------------------
+
+![Nayely Bolaños con Dragonas Independiente en la Superliga Femenina 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/bolanos_lesion_1.jpg)
+
+**Nayely Bolaños** es la principal figura de Dragonas Independiente en la Copa Libertadores Femenina que se juega en Asunción, Paraguay, hasta el sábado 19 de octubre de 2024.
+
+La noche del domingo 13 de octubre, **Nayely Bolaños marcó los tres goles con los que Dragonas Independiente** golearon a Deportivo Cali y se clasificaron para las semifinales de la Libertadores.
+
+### Más noticias:
+
+* [Dragonas Independiente semifinalistas de la Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-semifinales-libertadores-femenina.html "Dragonas Independiente semifinalistas de la Libertadores Femenina")
+* [Iván Kaviedes y Armando Paredes protagonizarán la pelea del año](https://www.elcomercio.com/deportes/boxeo/ivan-kaviedes-armando-paredes-pelea.html "Iván Kaviedes y Armando Paredes protagonizarán la pelea del año")
+* [La Selección de Ecuador sub-15 perdió, pero se clasificó](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-sub15-venezuela-resultado.html "La Selección de Ecuador sub-15 perdió, pero se clasificó")
+
+Sandra Vera, mamá de Nayely, en conversación telefónica con EL COMERCIO, contó que desde temprana edad su **hija mostró su afición por el fútbol y en todo momento buscaba estar cerca de un balón**, allá en sus primeros años en su natal Ventanas, provincia de Los Ríos.
+
+Con 11 años la llevó a probarse en el equipo **7 de Febrero que pertenece a la Federación de Los Ríos** y empezó su camino en este deporte.
+
+Durante los primeros tres meses la acompañaba a los entrenamientos en un trayecto de una hora, ida y vuelta en bus por trayecto, entre Ventanas y Babahoyo, donde destacó, siempre como delantera.
+
+En el equipo de su provincia se mantuvo hasta los 17 años. En ese momento se **marchó a El Nacional y luego al Deportivo Cuenca**, donde alcanzó los títulos de la Superliga Femenina en el 2020 y 2021 con Wendy Villón como entrenadora.
+
+En el 2022 tuvo una **propuesta de Barcelona de Guayaquil**, club del que era hincha, pero finalmente se decidió por jugar en Dragonas Independiente.
+
+Con las capitalinas alcanzó el título de la **Superliga Femenina en 2024** y está siendo determinante en la Copa Libertadores Femenina. En las semifinales enfrentará a Independiente Santa Fe de Colombia.
+
+![Foto: Facebook Dragonas Independiente.](https://www.elcomercio.com/wp-content/uploads/2024/10/bolanos_lesion_4-1024x683.jpg)
+
+Foto: Facebook Dragonas Independiente.
+
+Las lesiones que marcaron su carrera
+------------------------------------
+
+Antes de llegar a este brillante momento, **Nayely transitó un largo camino** en el que tuvo que superar dos graves lesiones que a punto estuvieron de alejarla definitivamente del fútbol.
+
+Sandra comenta que la primera lesión grave la sufrió en un campamento de entrenamiento con la Selección de Ecuador en la Casa de la Selección en Quito.
+
+“**Con 15 años tuvo rotura de tibia y peroné**” que la llevó a estar alejada de las canchas por cerca de un año, etapa en la que tuvo la contención familiar y de la FEF que en todo momento estuvo pendiente de su recuperación.
+
+La segunda grave lesión fue con 19 años con rotura de **ligamento cruzado anterior, más lesión menisco de externo y distensión de ligamentos colaterales** de una de sus rodillas, ya como jugadora de Dragonas Independiente en septiembre de 2022. Cerca año y medio le llevó recuperarse.
+
+“Tuvo una primera intervención quirúrgica fallida por lo que el **proceso de sanación tomó más tiempo de lo esperado** y tuvo que volver al quirófano”, recuerda Sandra, que explica que la delantera en un momento pensó en retirarse.
+
+“Muchas veces ya no quería saber nada de fútbol, pero siempre le dije que no tenemos que perder la fe” indica, al tiempo de mencionar que el apoyo familiar fue fundamental para que retome la actividad más fuerte que nunca y siga deleitando a los hinchas de Dragonas y de la Tri con sus goles.
+
+![Foto: Facebook Dragonas Independiente.](https://www.elcomercio.com/wp-content/uploads/2024/10/bolanos_lesion_3-1024x683.jpg)
+
+Foto: Facebook Dragonas Independiente.
+
+Nayely destacó desde niña
+-------------------------
+
+Sandra mencionó que **desde temprana edad su hija sobresalió con las jugadoras de su edad**, por lo que los entrenadores la hacían entrenar con jugadores de mayor edad.
+
+La herencia del fútbol es un tema de familia, porque su hijo menor de 13 años también lo practica como arquero de la Federación de Los Ríos.
+
+Indica que en su juventud también jugó **en el equipo de Ventanas con el que participaron** en torneos en otras ciudades, principalmente en Guayaquil.
+
+“Siempre la apoyé a diferencia que cuando yo practicaba no era lo habitual. Yo mismo la llevé a los entrenamientos y quedó por su talento”, recuerda.
+
+Con una sonrisa en su rostro comenta que le encanta todo tipo de comida y cada que puede se traslada a Quito para acompañarla o la espera en Ventanas, hasta donde la ‘Killer’ va cada vez que tiene días libres.
+
+Finalmente, **su clásica celebración con sus dedos tapando sus oídos** se debe a la admiración que siente por el neerlandés Memphis Depay, actual jugador del Corinthians de Brasil.
+
+![Foto: Facebook Dragonas Independiente.](https://www.elcomercio.com/wp-content/uploads/2024/10/bolanos_lesion_2-1024x683.jpg)
+
+Foto: Facebook Dragonas Independiente.
 
 No te pierdas – El Confesionario
 --------------------------------
 
-Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.
-================================================================
+Familiares exigen justicia por insólito error de una funeraria con una ecuatoriana
+==================================================================================
 
-Sheinbaum resaltó la oportunidad que tiene el país ante el fenómeno de la relocalización de empresas.
------------------------------------------------------------------------------------------------------
+Tras el fallecimiento de Carmen Maldonado, en Nueva York, su familia nunca se imaginó que su repatriación se convertiría en una 'pesadilla'.
+--------------------------------------------------------------------------------------------------------------------------------------------
 
-![Claudia Sheinbaum en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/claudia-sheinbaum-octubre-1.jpg)
+![La ecuatoriana Carmen Maldonado falleció en mayo de 2024, en New York, Estados Unidos](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuatoriana-funeraria.jpg)
 
-La presidenta de México, [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html"), adelantó este lunes, 14 de octubre de 2024, que habrá anuncios de **nuevas inversiones** durante el encuentro de **alto nivel de empresarios mexicanos** y estadounidenses que encabezará este martes, el ‘US-Mexico CEO Dialogue’.
+Una **terrible confusión** de una funeraria agudizó el dolor de una **familia ecuatoriana**, quien además de enfrentar el desconsuelo por la pérdida de su pariente, tuvo que pasar días de incertidumbre al no poderla despedir como querían.
+
+**Carmen Maldonado**, de 96 años, falleció en Nueva York, Estados Unidos, en mayo de 2024.
 
 ### Más noticias
 
-* [Sheinbaum analiza impulsar la tipificación del crimen de transfeminicidio](https://www.elcomercio.com/actualidad/mundo/presidenta-mexico-analiza-impulsar-tipificacion-crimen-transfeminicidio.html "Sheinbaum analiza impulsar la tipificación del crimen de transfeminicidio")
-* [Claudia Sheinbaum propone las reglas para la elección popular del Poder Judicial](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-propone-reglaseleccion-popular-poder-judicial.html "Claudia Sheinbaum propone las reglas para la elección popular del Poder Judicial")
-* [Claudia Sheinbaum conversa por primera vez con Joe Biden](https://www.elcomercio.com/actualidad/mundo/sheinbaum-conversa-primera-joe-biden.html "Claudia Sheinbaum conversa por primera vez con Joe Biden ")
+* [Policía capturó al octavo más buscado de Pichincha](https://www.elcomercio.com/actualidad/seguridad/policia-capturo-al-octavo-mas-buscado-de-pichincha.html "Policía capturó al octavo más buscado de Pichincha")
+* [Delincuentes que planeaban atacar a policías fueron detenidos en Pedro Moncayo](https://www.elcomercio.com/actualidad/seguridad/delincuentes-pedro-moncayo-policia-malchingui.html "Delincuentes que planeaban atacar a policías fueron detenidos en Pedro Moncayo")
+* [Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia](https://www.elcomercio.com/actualidad/ecuador/cuerpo-de-bomberos-de-guayaquil-fue-asaltado-mientras-atendia-una-emergencia.html "Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia")
 
-La mandataria aseguró en el **Palacio Nacional** que en la reunión destacará “el interés que hay de inversionistas, particularmente de Estados Unidos en México, y también va a darse una conferencia de prensa después, donde entre otros (temas), se van a anunciar **algunas inversiones** que ya están planteadas”.
+Sus hijos confiaron los **ritos mortuorios** en la Funeraria Rivera, una empresa norteamericana dedicada a trasladar fallecidos a sus países de origen en Latinoamérica.
 
-¿De qué se trata este encuentro?
---------------------------------
+El cadáver de Carmen debía llegar a **Ecuador** a finales de ese mes, sin embargo, el envío se retrasó.
 
-“En su momento, **empresarios nacionales** y, principalmente, de Estados Unidos plantearon la posibilidad de que tuviéramos un diálogo para conocer **cuáles son los beneficios** y los incentivos que se van a generar para la inversión en México”, detalló la gobernante mexicana.
+Mientras tanto, la historia tomó un **giro inesperado** en Guatemala.
 
-Encuentro entre Sheinbaum y directivos de Estados Unidos
---------------------------------------------------------
-
-Este será el primer gran encuentro de Sheinbaum con directivos de Estados Unidos desde que asumió la presidencia el 1 de octubre en medio de la incertidumbre que causaron reformas como la que instaura **elecciones populares del Poder Judicial** y la que elimina reguladores autónomos de energía, economía y telecomunicaciones.
-
-Aún así, la presidenta descartó que haya “cautela” entre inversionistas.
-
-“Tengo conocimiento, a través del secretario de Economía (Marcelo Ebrard) y, de manera directa, de **muchísimas empresas** que quieren seguir invirtiendo en nuestro país, México tuvo récord de exportaciones, es el principal socio comercial de Estados Unidos y esto va a seguir en nuestro país”, aseguró.
-
-Sheinbaum resaltó la oportunidad que tiene el país ante el fenómeno de la **relocalización de empresas** o ‘nearshoring’ y el Tratado entre México, Estados Unidos y Canadá (T-MEC).
-
-Pero pidió que el éxito “no solo se mida” en inversión extranjera directa, con un récord de **31 000 millones de dólares** en el primer semestre del año, sino también con **indicadores de bienestar**. Se refirió a salarios, respeto a los derechos laborales y protección del medioambiente.
-
-Inversión que se acerque a las regiones
+Dos familias afectadas por la confusión
 ---------------------------------------
 
-Por ello, resaltó la creación de **“polos de bienestar”** para buscar que la inversión se acerque a las regiones donde haya disponibilidad de energía y capital humano.
+Los familiares de **Elder Emilio García** también pusieron su confianza en la misma empresa. Ellos se reunieron para despedir al fallecido hombre el 26 de mayo.
 
-“El t**ratado comercial con Estados Unidos** y **Canadá** abre esta posibilidad de lo que se llama hoy la relocalización de las empresas, **muchas empresas estadounidenses** que encuentran en México una oportunidad para invertir”, comentó.
+La **sorpresa** fue mayor cuando al abrir el ataúd se toparon con que el cuerpo no correspondía al de su pariente, sino al de una **mujer** de avanzada edad.
 
-Delincuentes que planeaban atacar a policías fueron detenidos en Pedro Moncayo
-==============================================================================
+La **noticia se viralizó** en los medios y redes sociales locales, hasta que trascendió a otros países a través de la plataforma de videos **TikTok**.
 
-Los sospechosos fueron aprehendidos en la parroquia de Malchinguí, en Pedro Moncayo, con armas, droga y dinero en efectivo.
----------------------------------------------------------------------------------------------------------------------------
+Los familiares de Maldonado la reconocieron al ver las **fotos** difundidas en Internet y de inmediato pusieron en conocimiento de la funeraria.
 
-![Cinco hombres y dos mujeres fueron detenidos durante el operativo](https://www.elcomercio.com/wp-content/uploads/2024/10/detenidos-malchingui.jpg)
+De acuerdo con **Carlos Minchala**, hijo de Carmen, la empresa calificó lo sucedido como “un pequeño error” y gestionó el intercambio de los cuerpos.
 
-La Policía Nacional capturó a **siete sospechosos** de **tentativa de terrorismo** en la parroquia de Malchinguí, en el cantón Pedro Moncayo, en la provincia de Pichincha.
+Cadáver llegó en mal estado
+---------------------------
 
-Los individuos fueron detenidos durante un operativo realizado por el Grupo de Operaciones Especiales (**GOE**), la madrugada de este lunes 14 de octubre de 2024.
+El cadáver de la ecuatoriana permaneció en Guatemala durante **15 días**; finalmente, llegó al país a mediados de junio.
 
-### Más noticias
+El grave error tuvo consecuencias en la **conservación** del cuerpo Carmen. Al carecer de un adecuado sistema de enfriamiento, la difunta fue entregada a sus familiares envuelta con plástico y en un **estado avanzado de descomposición**.
 
-* [Policía decomisó millonario cargamento de droga en alta mar](https://www.elcomercio.com/actualidad/ecuador/policia-cargamento-droga-alta-mar-galapagos.html "Policía decomisó millonario cargamento de droga en alta mar")
-* [55 capturados deja la Operación Cero Impunidad de la Policía](https://www.elcomercio.com/actualidad/seguridad/55-capturados-deja-operacion-cero-impunidad-policia.html "55 capturados deja la Operación Cero Impunidad de la Policía")
-* [Policía detiene a exasambleísta por presunta concusión](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-exasambleista-por-presunta-concusion.html "Policía detiene a exasambleísta por presunta concusión")
+Verla de esta forma **impactó** **emocionalmente** a su familia.
 
-Según detalló la entidad, se presume que los individuos intentaban realizar **actos ilícitos** en contra de servidores policiales.
+**Rosa Minchala**, en declaraciones para Univisión, mostró su frustración por el trato que recibió el cuerpo de su madre: “Eso no merecía mi mamá, fue muy duro verla así, pensaba que estaba descansando y no perdida en otro país, **fue una pesadilla**“, comentó.
 
-Así mismo, planificaban **atacar dependencias** de la Policía ubicadas en la localidad.
-
-Los uniformados detuvieron a **cinco hombres y dos mujeres**, una de ellas registraba antecedentes penales por tráfico ilícito de drogas y por **extorsión**.
-
-Los aprehendidos fueron:
-
-* Jederlyn B. (antecedentes)
-* Camila B.
-* Josué B.
-* Jeremy B.
-* Cristopher Ch.
-* Carlos Ch.
-* Marco M.  
-    
-
-Los detenidos pertenecerían al grupo armado organizado (**GAO**) de Los Lobos, indicó la Policía.
-
-Como indicios del presunto delito se encontró un **arma de fuego**, un cartucho, droga, dinero en efectivo, una balanza (gramera) y 14 celulares.
-
-Los aprehendidos fueron puestos a órdenes de las autoridades competentes, mientras que los indicios fueron ingresados mediante cadena de custodia.
-
-> 7 CAPTURADOS POR ATENTAR INSTITUCIONALES POLICIALES  
->   
-> En Cayambe – Pedro Moncayo, [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw), aprehendimos en flagrancia a 7 presuntos responsables en el delito de acción pública, quienes intentaban realizar actos ilícitos en contra de policías y dependencias policiales. Además,… [pic.twitter.com/xgWph6LP6L](https://t.co/xgWph6LP6L)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 14, 2024](https://twitter.com/PoliciaEcuador/status/1845847637657788799?ref_src=twsrc%5Etfw)
-
-4 845 operativos de seguridad se realizaron en el feriado
----------------------------------------------------------
-
-Desde el jueves 10 hasta la madrugada del lunes 14 de octubre, más de **51 000 policías** se desplegaron para controlar la seguridad en Ecuador.
-
-Según detalló la Institución, los servidores realizaron **4 845 operativos** preventivos y de control.
-
-Las operaciones incluyeron el control de tránsito, verificación de documentos de identidad y antecedentes penales, atención de emergencias y denuncias ciudadanas, y colaboración con otras entidades de seguridad y control.
-
-Además, se realizó operativos especiales contra la delincuencia organizada, el tráfico de drogas, de armas de fuego, entre otros delitos.
-
-Los uniformados detuvieron **475 personas** en estos cuatro días, permitiendo la incautación de **45 armas de fuego**, 167 armas blancas y 3 211 kilogramos de droga.
-
-Tránsito por túnel Guayasamín, a prueba con cierre de la parada de Ecovía
-=========================================================================
-
-Este 14 de octubre fue el primer día laborable durante la intervención en las vías exclusivas de la Ecovía. Se espera que termine la obra antes de lo previsto.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Pese a los temores, el tránsito por la vía Guayasamín hasta la Plaza Argentina no tuvo contratiempos mayores.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-4-1.jpg)
-
-A las **05:00** de este lunes **14 de octubre** comenzó el **operativo de tránsito** llevado a cabo por la **Agencia Metropolitana de Tránsito (AMT),** desde la salida del **túnel Guayasamín** hasta la **Plaza Argentina**. Es el **primer día laborable** que debió enfrentar la autoridad de **tránsito** con la intervención en esta **vía crucial** para **Quito**.
-
-### Más noticias
-
-* [Contraflujo de la av. Guayasamín se desvía hacia otra vía de Quito](https://www.elcomercio.com/actualidad/quito/contraflujo-av-guayasamin-quito-se-desvia-hacia-otra-via.html "Contraflujo de la av. Guayasamín se desvía hacia otra vía de Quito")
-* [Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre](https://www.elcomercio.com/actualidad/quito/conozca-nuevos-horarios-cortes-de-luz-quito-semana-del-14-al-20-octubre.html "Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre")
-* [La infanta Elena se olvida de la polémica del Rey Juan Carlos al ritmo de ‘Paquito el chocolatero’](https://www.elcomercio.com/actualidad/mundo/infanta-elena-olvida-polemica-rey-juan-carlos-ritmo-paquito-chocolatero.html "La infanta Elena se olvida de la polémica del Rey Juan Carlos al ritmo de ‘Paquito el chocolatero’")
-
-El operativo en la Plaza Argentina
-----------------------------------
-
-**Las obras comenzaron el jueves 10 de octubre a las 21:00**, en el inicio del **feriado** por la Independencia de Guayaquil. Pero este 14 de octubre era el momento de la verdad: por el **túnel Guayasamín** cruzan al menos 35 000 automóviles diarios y esa fue la preocupación fundamental **del operativo de la AMT[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")**
-
-Un total de **30 agentes** estarán desplazados por esta zona que es de por sí un punto conflictivo en Quito. Sin embargo, y a pesar de ser hora pico, la movilidad no fue tan complicada como se pensaba. Impresionaba que, durante los 10 minutos que EL COMERCIO dialogó con el director general de la AMT, Washington Martínez, solo hubo un bocinazo en esta zona de la ciudad.
-
-“Pensábamos tener muchos más problemas. No ha habido ningún siniestro ni se ha dañado ningún vehículo. Esto nos ha permitido tener el punto de equilibrio en este punto tan delicado de la ciudad”, dio Martínez.
-
-Problemas en el redondel del ciclista
--------------------------------------
-
-La falta de bocinazos en esta zona en donde los conductores se desgañitan con los pitos en un día cualquiera, el orden con que fluía el tránsito, fueron destacados por la AMT. Los ciudadanos estuvieron informados y actuaron en consecuencia al tomar la Simón Bolívar hasta el redondel del ciclista.
-
-Sin embargo, en el redondel del ciclista se presentaron algunos problemas. A una conductora, que suele ir por el túnel Guayasamín, el GPS la llevó por la ruta de Nayón que desemboca en el UDLA Park, justo en el redondel. No había luz y, según ella, tampoco vio un agente de tránsito.
-
-Mosquera reconoció que hubo una mayor congestión y que la columna de vehículos se prolongaba por casi un kilómetro. La solución, según la AMT, fue disponer que el tránsito siguiera durante dos semáforos en rojo cada 15 minutos.
-
-Se vienen más trabajos en calles de Quito
------------------------------------------
-
-Si bien se tuvo previsto que la intervención en esta parte, que forma parte de la rehabilitación total de la Ecovía, se termine el 20 de octubre, los trabajos han avanzado de tal forma que se espera que se adelante la entrega dos o tres días antes.
-
-Luego de eso vienen los trabajos en otras zonas complicadas como la transversal de la avenida República, Orellana, Colón. Para la intersección de la avenida Patria, se espera comenzarlo durante el feriado de noviembre.
-
-¿Cuándo juega la Selección de Ecuador ante Uruguay?
-===================================================
-
-La Tricolor que lidera Sebastián Beccacece está lista para retar a Uruguay en Montevideo. ¿Cuándo juega la Selección de Ecuador?
---------------------------------------------------------------------------------------------------------------------------------
-
-![Hernán Galíndez, arquero de la Selección de Ecuador que visitará a Uruguay en eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/seleccion-1.jpg)
-
-La **Selección de Ecuador** se prepara para enfrentar a **Uruguay** en un partido crucial por las eliminatorias sudamericanas del **Mundial** de 2026.
-
-Este encuentro se realizará en el histórico estadio **Centenario** de **Montevideo** y representa una oportunidad única para que Ecuador busque su primer triunfo en territorio uruguayo.
-
-Hasta ahora, la **Tri** ha tenido un historial complicado en Uruguay, donde ha cosechado ocho derrotas y tres empates en 11 partidos disputados.
-
-### Más noticias:
-
-* [Alberto Spencer, un ídolo que comparten Ecuador y Uruguay](https://www.elcomercio.com/deportes/futbol/alberto-spencer-seleccion-uruguay-ecuador.html "Alberto Spencer, un ídolo que comparten Ecuador y Uruguay")
-* [La Selección de Ecuador intenta primer triunfo en Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-eliminatorias-mundial2026.html "La Selección de Ecuador intenta primer triunfo en Uruguay")
-* [Uruguay navega aguas agitadas antes de recibir a Ecuador](https://www.elcomercio.com/deportes/futbol/uruguay-ecuador-montevideo-eliminatorias-mundial2026.html "Uruguay navega aguas agitadas antes de recibir a Ecuador")
-
-Selección de Ecuador enfrenta a una ‘Celeste’ en crisis
--------------------------------------------------------
-
-Uruguay, actualmente en el tercer lugar de la tabla con 15 puntos, llega al partido tras una serie de resultados decepcionantes.
-
-La **Selección de Uruguay** ha perdido sus últimos tres partidos, incluyendo una reciente derrota 1-0 ante Perú.
-
-Este panorama tenso ha llevado a cuestionamientos sobre la dirección del equipo bajo el mando de Marcelo Bielsa, especialmente tras las polémicas declaraciones de **Luis Suárez**, quien criticó la gestión del seleccionador.
-
-Con el regreso de jugadores clave como **José María Giménez** y **Mathías Olivera**, la ‘Celeste’ busca recuperar la confianza y revertir su suerte.
-
-Selección de Ecuador: Una defensa sólida
-----------------------------------------
-
-La **Selección de Ecuador** ha mostrado un sólido sistema defensivo, permitiendo solo un gol en sus últimos seis partidos.
-
-Este es un aspecto crucial que el director técnico Sebastián Beccacece espera capitalizar.
-
-A pesar de las críticas hacia su ataque, el equipo cuenta con futbolistas talentosos como Enner Valencia y Gonzalo Plata, quienes serán fundamentales para lograr la victoria. Ecuador ha anotado un total de seis goles en las eliminatorias, pero enfrenta el desafío de mejorar su capacidad ofensiva.
-
-¿Cuándo juegan Ecuador y Uruguay?
----------------------------------
-
-La **Selección de Ecuador** se enfrentará a Uruguay el martes 15 de octubre de 2024. Se disputará desde las 18:30, hora de Ecuador.
-
-Este partido no solo es vital para la clasificación al Mundial, sino que también se convierte en un momento histórico para Ecuador, que busca romper una racha negativa en Montevideo.
-
-Con un buen desempeño defensivo y una búsqueda constante de mejorar su ataque, la Tri espera dar un paso importante en su camino hacia el Mundial.
-
-Contrato de segunda barcaza de energía para Ecuador cambió
-==========================================================
-
-El Gobierno de Ecuador canceló el alquiler de una segunda barcaza de energía flotante, optando por comprar 350 MW de generación móvil.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![La barcaza eléctrica Powership Emre Bey de Karpowership. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/09/barcaza-19-1.jpg)
-
-La **ministra de Energía** encargada, **Inés Manzano**, confirmó la mañana de este lunes 14 de octubre de 2024 que hubo un cambio con la contratación de alquiler de la **segunda barcaza** de generación eléctrica flotante[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-Estos equipos debían llegar al **Ecuador en noviembre** próximo para hacer frente a la crisis energética que afronta el país y así evitar los **cortes de luz**, que actualmente son de hasta 10 horas al día.
-
-### Más noticias
-
-* [Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-incorporar-nueva-barcaza-de-generacion-electrica-para-evitar-cortes-de-luz.html "Ecuador busca incorporar nueva barcaza de generación eléctrica para evitar cortes de luz")
-* [Ecuador va a su propio ritmo en la apuesta de energías renovables](https://www.elcomercio.com/actualidad/negocios/ecuador-propio-ritmo-apuesta-energias-renovables.html "Ecuador va a su propio ritmo en la apuesta de energías renovables")
-* [Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre](https://www.elcomercio.com/actualidad/quito/conozca-nuevos-horarios-cortes-de-luz-quito-semana-del-14-al-20-octubre.html "Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre")
-
-En una entrevista, Manzano explicó que la llegada de la segunda barcaza, anunciada por el exministro de Energía, **Antonio Goncalves**, fue cancelada. El proceso de contratación se suspendió. “Estamos haciendo algo mejor”. El presidente Daniel Noboa decidió comprar **generación móvil** en lugar de solo alquilarla, dijo en Teleamazonas.
-
-“Es importante, porque la compra le va a quedar para toda la vida al parque de energía”, agregó.
-
-En lugar de la barcaza, se comprarán 350 megavatios (MW) de generación en tierra. Estos equipos estarán operativos entre 40 y 60 días. “Estamos esperando que el primer bloque ya entre a mediados de noviembre”, aseguró.
-
-Un segundo **bloque de energía, de 800 MW**, que ya está en proceso de contratación, también estará operativo antes de fin de año.
-
-Proceso de alquiler de la barcaza fue cancelado
------------------------------------------------
-
-El proceso de **alquiler de la barcaza,** de 250 MW, empezó el 19 de septiembre de 2024 con la convocatoria a las empresas interesadas, bajo la modalidad de emergencia. No se conoce cuántas compañías presentaron sus propuestas.
-
-La **primera barcaza alquilada por Ecuador** opera desde el 16 de septiembre pasado en el puerto de Guayaquil.
-
-Esta embarcación de la empresa turca **Karpowership**, denominada Powership Emre Bey, tiene una capacidad de 100 MW, y estará en Ecuador durante 18 meses por un costo de 115 millones de dólares.
-
-Futuro del concurso de jueces y conjueces de la CNJ se conocerá esta semana
-===========================================================================
-
-Esta semana concluye el plazo de 20 días otorgado por el pleno del Consejo de la Judicatura (CJ) a la Dirección Nacional de Talento Humano.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Prueba teórica del concurso público para la selección y designación de jueces y conjueces de la CNJ el pasado 27 de julio.](https://www.elcomercio.com/wp-content/uploads/2024/10/concurso-jueces.jpg)
-
-Esta semana concluye el **plazo de 20 días otorgado por el pleno del Consejo de la Judicatura (CJ)** a la **Dirección Nacional de Talento Humano**. Esto referente a la suspensión del **concurso de jueces y conjueces** de la **Corte Nacional de Justicia (CNJ)**.
-
-### Más noticias
-
-* [Pablo Muentes tuvo una respuesta de la CNJ sobre su habeas corpus](https://www.elcomercio.com/actualidad/seguridad/pablo-muentes-respuesta-cnj-habeas-corpus.html "Pablo Muentes tuvo una respuesta de la CNJ sobre su habeas corpus")
-* [Caso Purga: CNJ deja en suspenso decisión sobre habeas corpus de Pablo Muentes](https://www.elcomercio.com/actualidad/seguridad/caso-purga-cnj-deja-en-suspenso-decision-sobre-habeas-corpus-de-pablo-muentes.html "Caso Purga: CNJ deja en suspenso decisión sobre habeas corpus de Pablo Muentes")
-* [Concurso de Fiscal General tiene nuevos ajustes en su reglamento](https://www.elcomercio.com/actualidad/politica/concurso-fiscal-general-tiene-nuevos-ajustes-reglamento.html "Concurso de Fiscal General tiene nuevos ajustes en su reglamento")
-
-Con el apoyo técnico de organismos internacionales, la institución deberá reforzar y finalizar la metodología para avanzar con las siguientes fases del concurso público. En este proceso se seleccionará a **10 jueces y 15 conjueces de la CNJ**.
-
-> 🔵 [#CJEnTerritorio](https://twitter.com/hashtag/CJEnTerritorio?src=hash&ref_src=twsrc%5Etfw)  
->   
-> El vocal del [@CJudicaturaEc](https://twitter.com/CJudicaturaEc?ref_src=twsrc%5Etfw), [@MerckBenavides](https://twitter.com/MerckBenavides?ref_src=twsrc%5Etfw), junto a la Directora de [@TungurahuaCJ](https://twitter.com/TungurahuaCJ?ref_src=twsrc%5Etfw), María Verónica Albán, se reunieron con Jueces de primer nivel de la provincia 👨‍⚖️👩‍⚖️, a quienes les manifestó la necesidad de recuperar la confianza de la ciudadanía en el… [pic.twitter.com/YrIx7r9auz](https://t.co/YrIx7r9auz)
-> 
-> — Consejo de la Judicatura (@CJudicaturaEc) [October 8, 2024](https://twitter.com/CJudicaturaEc/status/1843737263131504890?ref_src=twsrc%5Etfw)
-
-La nulidad afecta únicamente a la **fase de los exámenes de confianza**, por lo que **106 de los 107 postulantes** que aprobaron las **pruebas psicológicas** deberán repetir esta etapa.
-
-Pleno del Consejo de la Judicatura otorgó un plazo máximo
----------------------------------------------------------
-
-El Consejo de la Judicatura declaró el pasado 26 de agosto la nulidad parcial del concurso para la selección de jueces y conjueces de la CNJ, específicamente, desde la fase del **examen de confianza**. Se otorgó un plazo de **15 días para realizar los cambios administrativos y normativos** necesarios y ajustar el cronograma del concurso.
-
-En busca de mayor transparencia, el Consejo anunció que contará con el respaldo de organismos internacionales, quienes proporcionarán asistencia técnica para optimizar la **metodología del examen de confianza**.
-
-En una sesión extraordinaria el 16 de septiembre, las autoridades del Consejo de la Judicatura, incluyendo a su presidente Mario Godoy, establecieron un nuevo **plazo de 20 días para que la Dirección Nacional de Talento Humano**, con apoyo internacional, refuerce la metodología del concurso y permita la reanudación del proceso.
-
-> 📰 [#BOLETÍN](https://twitter.com/hashtag/BOLET%C3%8DN?src=hash&ref_src=twsrc%5Etfw)  
->   
-> En sesión extraordinaria No. 109-2024, el Pleno del [@CJudicaturaEc](https://twitter.com/CJudicaturaEc?ref_src=twsrc%5Etfw) otorgó un término de 20 días, contados a partir de la presente fecha, para que la Dirección Nacional de Talento Humano de la institución, con la asistencia técnica de organismos internacionales,… [pic.twitter.com/mgMgNym9Sw](https://t.co/mgMgNym9Sw)
-> 
-> — Consejo de la Judicatura (@CJudicaturaEc) [September 16, 2024](https://twitter.com/CJudicaturaEc/status/1835828242390888880?ref_src=twsrc%5Etfw)
-
-Este lunes **14 de octubre de 2024** se cumplirían los **20 días** que le otorgó el CJ a la **Dirección Nacional de Talento Humano**.
-
-Renuncia de juez en medio del proceso de selección
---------------------------------------------------
-
-En medio de la extensión del plazo, el juez nacional **Luis Adrián Rojas** presentó su renuncia a continuar en el proceso de selección.
-
-En una carta enviada al **Consejo de la Judicatura**, Rojas recordó que participó en el concurso para juez de la CNJ en 2020, donde fue elegido conjuez por un **periodo de nueve años**. Actualmente, se desempeñaba como juez nacional encargado y **buscaba ser principalizado** a través del concurso de 2023, que fue anulado en su totalidad.
-
-Rojas expresó su malestar por la vinculación de su nombre a presuntos actos irregulares durante el concurso. Aseguró haber actuado en apego a las **normas establecidas** y solicitó que se realizaran las recalificaciones correspondientes conforme al **reglamento vigente**.
-
-Fiscalía investiga posibles irregularidades en concurso público
----------------------------------------------------------------
-
-La Fiscalía General del Estado mantiene una investigación en curso sobre presuntas irregularidades en el concurso de selección de jueces y conjueces de la CNJ.
-
-El 3 de octubre, **se realizaron allanamientos en Quito** como parte de las indagaciones relacionadas con tráfico de influencias. La investigación busca esclarecer posibles manipulaciones en la f**ase de exámenes de confianza**, en la que una empresa contratada**, Métricas Web S.A.**, fue señalada por falta de experiencia en la materia.
-
-Los **resultados de la auditoría** solicitada a la **Contraloría General del Estado** sobre el proceso contractual con **Métricas Web S.A.** aún están pendientes. Se espera que dicha auditoría arroje luz sobre las posibles fallas y **determine la validez del concurso público**, en el que se seleccionarán a los jueces y conjueces de la Corte Nacional de Justicia.
-
-Kate del Castillo ‘ofrece’ un automóvil de lujo por 50 dólares
-==============================================================
-
-La actriz contó que el vehículo tiene apenas 5 633 kilómetros de recorrido.
----------------------------------------------------------------------------
-
-![La mexicana Kate del Castillo busca recaudar fondos. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-14T120317.855.jpg)
-
-La actriz mexicana **Kate del Castillo** anunció la rifa de su **lujoso automóvil**, valorado en más de 100 000 dólares. Con ese sorteo busca recaudar fondos para una organización benéfica.
-
-### **Más noticias:**
-
-* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
-* [Karol G alista un sencillo con toque iraní](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html")
-* [Mamá de ‘Diddy’ dice que su hijo no es un ‘monstruo’](https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Content+Link")
-
-**Kate del Castillo rifa un automóvil de lujo por una causa benéfica**
-----------------------------------------------------------------------
-
-**Kate del Castillo** anunció la rifa de un Lexus 500 LC convertible. Este sorteo se cerrará el próximo 12 de diciembre de 2024.
-
-> [View this post on Instagram](https://www.instagram.com/reel/DBEjUBiuv54/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Kate del Castillo (@katedelcastillo)](https://www.instagram.com/reel/DBEjUBiuv54/?utm_source=ig_embed&utm_campaign=loading)
-
-El Lexus, que ha permanecido sin uso en su garaje, cuenta con solo 3 500 millas recorridas. En un video compartido en sus redes sociales, del Castillo comentó: “¡Quiero que TÚ tengas este auto súper sexy! ¡Ya no lo quiero!”.
-
-**Kate del Castillo ofrece un lujoso automóvil por 50 dólares**
----------------------------------------------------------------
-
-La actriz destacó que el **automóvil** es muy divertido de conducir y lo ofreció a un costo 50 dólares por boleto. Los interesados en participar pueden adquirir los **boletos** a través de la plataforma Raffle Creator. El sorteo está dirigido a personas mayores de 18 años.
-
-> [View this post on Instagram](https://www.instagram.com/reel/DBEhKfqOpH-/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Kate del Castillo (@katedelcastillo)](https://www.instagram.com/reel/DBEhKfqOpH-/?utm_source=ig_embed&utm_campaign=loading)
-
-El sorteo generó un gran interés entre los seguidores de la actriz, quienes ven en esta oportunidad una forma de ganar un auto de lujo por una fracción de su valor original.
-
-Además del atractivo del premio, Kate del Castillo enfatizó que parte de los fondos recaudados se destinarán a una causa benéfica.
-
-**La reacción de los internautas tras el anuncio del sorteo**
--------------------------------------------------------------
-
-Diversas reacciones tuvieron los internautas tras enterarse del sorteo del automóvil de lujo. “Pronto lo veré en mi garaje”. “¿Cómo lo traería a Chile?”. “Me encanta”.
-
-Hezbolá afirma que sus capacidades militares están intactas
-===========================================================
-
-Israel asegura que la campaña de bombardeos masiva en el Líbano logró destruir buena parte de las capacidades del grupo.
-------------------------------------------------------------------------------------------------------------------------
-
-![Edificios destruidos en la villa Maroun El Ras, en la frontera entre Israel y Líbano.](https://www.elcomercio.com/wp-content/uploads/2024/10/edificio-israel-hezbola.jpg)
-
-El **grupo chií libanés Hezbolá** afirmó este lunes, 14 de octubre de 2024, que sus **capacidades militares** están intactas en un vídeo que muestra un **amplio arsenal de cohetes** y de **drones suicidas** en manos de la formación armada, que **niega que los bombardeos de Israel** destruyeran gran parte de su armamento.
-
-### Más noticias
-
-* [Israel anuncia nuevos ataques contra sedes de Hizbulá en Beirut y el sur del Líbano](https://www.elcomercio.com/actualidad/mundo/israel-anuncia-nuevos-ataques-sedes-hizbula-beirut-sur-libano.html "Israel anuncia nuevos ataques contra sedes de Hizbulá en Beirut y el sur del Líbano")
-* [Israel incrementa su presencia militar en Líbano](https://www.elcomercio.com/actualidad/mundo/israel-incrementa-presencia-militar-libano-hizbula-responde.html "Israel incrementa su presencia militar en Líbano")
-* [Hezbolá dice que disparó un misil balístico contra la sede del Mosad en Tel Aviv](https://www.elcomercio.com/actualidad/mundo/hezbola-dice-disparo-misil-balistico-contra-sede-mosad-tel-aviv.html "Hezbolá dice que disparó un misil balístico contra la sede del Mosad en Tel Aviv")
-
-Drones suicidas
----------------
-
-En un vídeo, de **1,28 minutos de duración y titulado** ‘Nuestras capacidades están mil veces bien’, la agrupación mostró **decenas de cohetes** y d**e drones suicidas** manipulados por combatientes de Hezbolá. Aparecen vestidos con uniformes militares y con el rostro cubierto.
-
-A lo largo de la grabación aparecen **imágenes del máximo comandante de Hezbolá**, Fuad Shukr, asesinado por Israel a finales de julio. También se muestra al **secretario general de la organización,** Hasán Nasrala, que también murió en un **bombardeo masivo israelí** efectuado a finales de septiembre contra los suburbios sur de Beirut.
-
-Combatientes de Hezbolá
------------------------
-
-El vídeo concluye con **varios combatientes** de Hezbolá besando el Corán -el libro sagrado de los musulmanes- y colocando cohetes y drones en lanzaderas para ser disparados contra Israel.
-
-Campaña de bombardeos en Líbano
--------------------------------
-
-Israel asegura que la **campaña de bombardeos masiva en el Líban**o iniciada a finales de septiembre logró destruir buena parte de las **capacidades del grupo**. Esto mientras Hezbolá negó en varias ocasiones estas afirmaciones e incluso llegó a pedir **“paciencia” para revelar su verdadero arsenal.**
-
-“Quiero que sepan que lo que estamos haciendo es lo mínimo, como parte del plan de seguimiento de la batalla, y según nuestras consideraciones, los **planes diseñados** y los requisitos de campo”, dijo el pasado 30 de septiembre el número dos de Hezbolá, Naim Qassem. 
-
-Fanático inmortalizó a Leonardo Campana en su cuerpo
-====================================================
-
-Los hinchas de fútbol a veces hacen grandes locuras por sus ídolos, y Nicolás Beltrán no es la excepción.
----------------------------------------------------------------------------------------------------------
-
-![Leonardo Campana durante el partido de la Selección de Ecuador contra Paraguay en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-14T114919.367.jpg)
-
-El regreso de **Leonardo Campana** a la Selección de Ecuador, después de casi un año de ausencia, fue especial no solo para el delantero, sino también para uno de sus seguidores más fervientes.
-
-Durante uno de los entrenamientos en la **Casa de la Selección**, previo al partido contra Paraguay, Campana vivió un momento inesperado cuando se encontró con un fanático que decidió inmortalizarlo en su piel.
-
-### Más noticias:
-
-* [¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/como-fue-el-regreso-de-leonardo-campana-a-la-seleccion-de-ecuador.html "¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?")
-* [Leonardo Campana alborotó a los aficionados de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-alboroto-a-los-aficionados-de-la-seleccion-de-ecuador.html "Leonardo Campana alborotó a los aficionados de la Selección de Ecuador")
-* [La Selección de Ecuador intenta primer triunfo en Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-eliminatorias-mundial2026.html "La Selección de Ecuador intenta primer triunfo en Uruguay")
-
-Nicolás Beltrán, un joven de 20 años, decidió **tatuarse en su brazo izquierdo** la firma de Campana, a quien admira profundamente. Durante el encuentro, el aficionado le mostró el tatuaje al delantero del Inter Miami, quien se quedó atónito ante semejante gesto.
-
-Un aficionado se tatuó la firma de Leonardo Campana
----------------------------------------------------
-
-Nicolás Beltrán explicó que considera a Campana como uno de sus más grandes ídolos futbolísticos, y eso lo motivó a tatuarse su firma.
-
-“**Ni Lionel Messi ni Cristiano Ronaldo.** Soy fan de Leonardo Campana”, comentó el joven emocionado en una entrevista con _Teleamazonas_.
-
-El tatuaje, sin embargo, no fue fácil de conseguir. **Nicolás contó a Campana** toda la travesía detrás de obtener su firma. Gracias a un amigo pasabolas, logró que el delantero firmara una camiseta en su último partido con la Tri ante Chile, y de esa rúbrica nació su tatuaje.
-
-“He **seguido a Campana desde el Sudamericano Sub-20** de 2019, donde fue goleador. Incluso me hice su peinado con las dos rayitas”, añadió Beltrán.
-
-> 🤩 ¡ADMIRACIÓN POR LEO!  
->   
-> ⚽️ Nicolás Beltrán es un gran fanático de 🇪🇨 Leonardo Campana y el hincha tiene tatuado en su brazo izquierdo la firma del goleador ecuatoriano.  
->   
-> 📸 [@teleamazonasec](https://twitter.com/teleamazonasec?ref_src=twsrc%5Etfw) [pic.twitter.com/WIoIv9lIHK](https://t.co/WIoIv9lIHK)
-> 
-> — ESPN Ecuador (@ESPNEcuador) [October 13, 2024](https://twitter.com/ESPNEcuador/status/1845583356878033202?ref_src=twsrc%5Etfw)
-
-El regreso de Campana a la selección
+Familiares demandaron a la funeraria
 ------------------------------------
 
-**Leonardo** **Campana** volvió a sumar minutos con la Selección de Ecuador en el empate 0-0 contra Paraguay, un partido en el que su regreso generó gran expectativa.
+Los hijos de Carmen presentaron una demanda a la funeraria por lo sucedido.
 
-Su entrada al campo, alrededor del minuto 65, respondió a la necesidad del técnico **Sebastián** **Beccacece** de aumentar la presencia ofensiva del equipo. Paraguay optó por una defensa muy cerrada, complicando las acciones ofensivas.
+**Carlos Minchala**, hermano de Rosa, habló de la afectación que tuvo la familia con la equivocación: “**Nos destrozaron con lo que pasó**, todavía no nos recuperamos psicológicamente, ellos dijeron que les disculpemos por el error, eso no es un error así no más, fue nuestra madre, un ser querido, **no es justo**“, reclamó.
 
-El **delantero del Inter Miami no logró asentarse** del todo debido a la férrea defensa paraguaya, lo que lo llevó a moverse por varios sectores del campo, especialmente por la banda derecha. Aunque intentó situarse como un nueve de referencia, recibió pocos balones y tuvo dificultades para conectarse con sus compañeros.
+De acuerdo con lo dicho por el abogado de la familia al canal internacional, este no sería un caso aislado, sino que la funeraria tendría al menos **10 demandas similares**.
 
-En total, Campana **tocó el balón nueve vece**s, completó cinco de ocho pases y perdió la posesión en tres ocasiones, por lo que su impacto en el juego fue limitado.
+El Departamento al Consumidor de Nueva York hizo un llamado para que **otros posibles afectados** por la empresa de servicios exequiales acudan a denunciar sus casos.
+
+Cortes de luz en Cuenca este martes 15 de octubre
+=================================================
+
+Los cortes de luz en Cuenca este martes 15 de octubre son de hasta 10 horas.
+----------------------------------------------------------------------------
+
+![Los cortes de luz en Cuenca para este martes 15 de octubre son de hasta 10 horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-04T175339.108.jpg)
+
+Los **cortes de luz** en **Cuenca** este **martes 15 de octubre** de 2024 llegan hasta las 10 horas.
+
+**Centrosur** estableció un cronograma que varía cada día por franjas y sector para Cuenca y otras ciudades del **Austro**.
+
+### Más noticias:
+
+* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
+* [Asamblea trata proyecto sobre energías renovables ante cortes de luz](https://www.elcomercio.com/actualidad/politica/asamblea-trata-proyecto-sobre-energias-renovables-ante-cortes-de-luz.html "Asamblea trata proyecto sobre energías renovables ante cortes de luz")
+
+La cuarta semana consecutiva de cortes de luz en Ecuador inició con un anuncio de la ministra de Energía encargada, **Inés Manzano**.
+
+Manzano aseguró que los cortes de luz serían hasta diciembre y se espera que en ese mes ya sean mínimos.
+
+Los horarios de los cortes de luz en Cuenca este martes 15 de octubre
+---------------------------------------------------------------------
+
+Las **empresas eléctricas** del país señalaron que los cortes de energía pueden reducirse, debido al mejoramiento de las condiciones hidrológicas del país.
+
+El 72% de la **matriz energética** del Ecuador es hídrica y depende del **agua**.
+
+Según las autoridades, se realiza un monitorio constante de las operaciones en las hidroeléctricas para ir ajustando los horarios de los apagones.
+
+Ecuador pasa por una de las peores crisis energéticas, en parte, debido a la grave sequía que afronta el país y la región.
+
+A continuación, los horarios de los cortes de luz en Cuenca y otras ciudades del Austro para este martes:
+
+Sebastián Beccacece y su arranque irregular con la Selección de Ecuador
+=======================================================================
+
+Sebastián Beccacece ha cosechado una derrota, una victoria y un empato con la Selección de Ecuador antes de medir a Uruguay.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Sebastián Beccacece en la Casa de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/4ea8985344cfe42b4aeaf54de04ee98792f05567.jpg)
+
+**Sebastián Beccacece** y la **Selección de Ecuador** se medirá ante Uruguay y ya acumula tres partidos en su haber. De cara a su cuarto partido, el entrenador argentino llega con resultados intermitentes en sus primeros duelos.
+
+Para el choque ante la ‘**Celeste**‘, el entrenador ha cosechado con la Tri tres resultados distintos en tal cantidad de juegos y la balanza no se ha inclinado ni a favor ni en contra. Este y su equipo suman una victoria, un empate y una derrota.
+
+### Más noticias:
+
+* [¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-beccacece-bielsa.html "¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?")
+* [La Selección de Ecuador tuvo a tres uruguayos en sus filas](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-nacionalizados-uruguay.html "La Selección de Ecuador tuvo a tres uruguayos en sus filas")
+* [¿Kendry Páez merece ser titular con la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/kendry-paez-merece-titular-con-seleccion-de-ecuador-ante-uruguay.html "¿Kendry Páez merece ser titular con la Selección de Ecuador ante Uruguay?")
+
+Ante la irregularidad de resultados, el compromiso de la **Selección de Ecuador ante Uruguay** puede inclinar la balanza de su temprana gestión. Asimismo, aquel cerrará la doble fecha de eliminatorias y marcará el inicio de los compromisos de vuelta en estas.
+
+A nivel de producción en **ataque y defensa**, los números del equipo ecuatoriano con el estratega son similares a los de sus resultados. Este solo ha marcado un gol y recibido uno, ambos sucesos en dos duelos distintos, mientras que en el restante no anotó ni tampoco encajó tantos.
+
+Los tres partidos de Sebastián Beccacece
+----------------------------------------
+
+El debut de **Sebastián Beccacece** en la **Selección de Ecuador** se dio ante Brasil en la séptima fecha de las eliminatorias sudamericanas. En este cotejo, el equipo del gaucho no se pudo imponer y cayó por una derrota para 1-0[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+En su segundo compromiso, el resultado que obtuvo la Tri fue inversamente proporcional al del estreno. Allí, este logró una victoria de 1-0 como local ante Perú gracias a un gol de **Enner Valencia**.
+
+La última y tercera prueba de Beccacece fue anterior a la que vivirá frente a **Uruguay**. Allí no se marcó una tendencia con respecto a los resultados e igualó sin goles frente a **Paraguay**, equipo al que dirige Gustavo Alfaro, exentrenador de la Tri.
+
+Sebastián Beccacece y el antes de la Selección de Ecuador
+---------------------------------------------------------
+
+**Sebastián Beccacece** se unió a la Selección de Ecuador después de la salida de **Félix Sánchez Bas** del combinado. El entrenador español se marchó después de la eliminación del plantel sudamericano en la **Copa América.**
+
+Con **Sánchez Bas**, la Tri llegó hasta los cuartos de final de la Copa América. En aquella fase, la escuadra se eliminó ante **Argentina** por penales tras igualar por un marcador de 1-1 en los 90 minutos de juego.
+
+Bajo el liderazgo del entrenador español, el equipo ecuatoriano disputó 19 partidos entre amistosos, eliminatorias y Copa América. En total consiguió **10 triunfos, tres empates y seis derrotas**.
+
+La asombrosa historia del hincha que se tatuó a Leonardo Campana
+================================================================
+
+Leonardo Campana, delantero del Inter Miami y de la Selección de Ecuador, tiene a su fanático número uno en Quito.
+------------------------------------------------------------------------------------------------------------------
+
+![Nicolás Beltrán es un fanático de Leonardo Campana que se tatuó su firma en su brazo.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-14T180415.447.jpg)
+
+**Nicolás** **Beltrán**, un quiteño de 20 años, es un joven amante del fútbol como muchos en Ecuador, pero con una pasión que lo diferencia: su devoción por el delantero de la ‘Tri’, **Leonardo** **Campana**.
+
+Tal es su admiración por el jugador que decidió llevar su fanatismo a otro nivel, **tatuándose la firma** de Campana en su brazo izquierdo.
+
+### Más noticias:
+
+* [Fanático inmortalizó a Leonardo Campana en su cuerpo](https://www.elcomercio.com/deportes/futbol/fanatico-inmortalizo-a-leonardo-campana-en-su-cuerpo.html "Fanático inmortalizó a Leonardo Campana en su cuerpo")
+* [¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/como-fue-el-regreso-de-leonardo-campana-a-la-seleccion-de-ecuador.html "¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?")
+* [Leonardo Campana alborotó a los aficionados de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-alboroto-a-los-aficionados-de-la-seleccion-de-ecuador.html "Leonardo Campana alborotó a los aficionados de la Selección de Ecuador")
+
+¿Cómo nació su fanatismo por Leonardo Campana?
+----------------------------------------------
+
+Campana saltó a la fama en 2019, cuando se destacó en el **Sudamericano Sub-20** con la Selección de Ecuador. Su capacidad goleadora no solo llamó la atención de clubes y expertos, sino también de aficionados como Nicolás Beltrán, quien **quedó impresionado por su talento**.
+
+“Mi fanatismo por ‘Leo’ comenzó en el Sudamericano, vi todos los partidos. Me pareció un delantero diferente a lo que había visto antes”, confesó Nicolás en una entrevista con EL COMERCIO.
+
+Uno de los aspectos que más admira de Campana es su humildad y dedicación, cualidades que, según Nicolás, lo diferencian de otros futbolistas.
+
+Su admiración por el delantero no se limitó al Sudamericano, ya que continuó siguiendo de cerca su carrera. Aunque **es hincha de El Nacional, Nicolás confesó que veía todos los partidos de Barcelona SC** cuando Campana empezó a destacar en el club guayaquileño.
+
+Admiración por su dedicación y resiliencia ante las críticas
+------------------------------------------------------------
+
+“Un ídolo es alguien a quien seguir, y desde que vi a ‘Leo’ de joven, **me identifiqué mucho con su deseo de mejorar siempre**“, señaló Nicolás.
+
+Otro motivo de su admiración es como Campana ha sabido manejar las críticas a lo largo de su carrera. A pesar de los comentarios negativos, Nicolás valora la forma en que el delantero los utiliza como motivación para seguir progresando.
+
+“Veo los comentarios de odio que le lanzan a ‘Leo’, pero **él siempre usa eso para seguir mejorando**“, explicó.
+
+El tatuaje de Campana
+---------------------
+
+“El tatuaje nació porque siento que es una persona que me representa”, contó Nicolás Beltrán.
+
+Recientemente, el joven tuvo la oportunidad de mostrarle su tatuaje al propio **Campana** durante uno de los entrenamientos de la Selección de Ecuador, cuando el delantero fue convocado para la última fecha FIFA.
+
+“Cuando lo conocí, ‘Leo’ se dio la vuelta muy tranquilo y le comenté que me había hecho el tatuaje. Se tomó su tiempo para hablar conmigo y, cuando se despidió, me dijo: ‘¡**Qué gusto conocerte! Cuídate**‘”, comentó emocionado Nicolás.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBH7nyrohSw/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBH7nyrohSw/?utm_source=ig_embed&utm_campaign=loading)
+
+7 barreras para acceder a la atención de Infecciones de Transmisión Sexual en Ecuador
+=====================================================================================
+
+Las mujeres son las que más buscan atención médica, por lo que tienen más diagnósticos que los hombres.
+-------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo_20241014_170914_0000-1.jpg)
+
+El acceso a la atención de las Infecciones de Transmisión Sexual (ITS) en Ecuador enfrenta al menos siete barreras en Ecuador. Esto no permite contar con un registro real de los pacientes con este tipo de enfermedades, de origen viral, bacteriano y micótico.
+
+Más noticias
+------------
+
+* [Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?](https://www.elcomercio.com/tendencias/salud/repunte-de-infecciones-de-transmision-sexual-en-ecuador-por-que-hay-mas-casos-en-mujeres.html "Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?")
+* [¿Por qué es tan importante hablar sobre la salud mental en el trabajo](https://www.elcomercio.com/tendencias/salud/dia-internacional-salud-mental-trabajo-efemeride.html "¿Por qué es tan importante hablar sobre la salud mental en el trabajo? ")
+
+Actualmente, el 93% de los diagnósticos con los que cuenta el Ministerio de Salud Pública son de mujeres, debido a que demandan más servicios médicos. En los hombres apenas es del 7%. En muchos casos son asintomáticos o presentan lesiones que son ignoradas o subvaloradas. También tienen vergüenza para recurrir al personal sanitario o recurren a la automedicación. Usan cremas tópicas o medicación empírica que retrasan el diagnóstico y el tratamiento.
+
+El personal de salud conoce de casos en hombres, a través de las parejas que sí acuden por atención y se envía la medicación. Pero no cuentan con los controles de seguimiento ni pruebas.
+
+En el 2023, el MSP registró **21 308** casos, mientras que en el 2019 fueron **14 155**. Esto significa un aumento de **7 153**.
+
+Entre las principales enfermedades que se vigilan en el subsistema de Vigilancia Epidemiológica del MSP están la **sífilis** y la **gonorrea**. Se tratan de ITS frecuentes con una incidencia considerable en la morbilidad y la mortalidad. Actualmente, hay pocas opciones de tratamiento por la resistencia de su agente causal a los medicamentos antimicrobianos.
+
+Adicionalmente, MSP realiza promoción y prevención de las ITS, lo cual incluye diagnóstico y tratamiento. Además de la entrega de preservativos y lubricantes a cada paciente y revisiones médicas posteriores. Pero pese a estos esfuerzos, el sistema de salud se enfrenta a estas siete barreras:
+
+### Estigma y discriminación
+
+El estigma y la discriminación son considerados como las principales barreras para el acceso a servicios de salud para personas con VIH/Sida y poblaciones claves o mayor expuestas al virus. Según **Onusida**, la discriminación exacerba los riesgos y priva a las personas de sus derechos, lo que acaba potenciando la epidemia del VIH. Esto se evidencia en tratos injustos (actos u omisiones) por percepciones reales o equivocadas de su estado serológico.
+
+Las personas con VIH tienen 2,4 veces más probabilidades de retrasar su tratamiento por experiencias de discriminación, según [Anthony Guerrero](https://ecuador.unfpa.org/es/news/lanzamiento-de-la-campa%C3%B1a-yonodiscrimino-combatiendo-el-estigma-y-la-discriminaci%C3%B3n-asociadas "https://ecuador.unfpa.org/es/news/lanzamiento-de-la-campa%C3%B1a-yonodiscrimino-combatiendo-el-estigma-y-la-discriminaci%C3%B3n-asociadas"), representante de la plataforma Mo**VHI**lízate. Incluso, llegan a estar muy enfermos porque han experimentado discriminación en estos servicios.
+
+Desinformación
+--------------
+
+Un reciente estudio de la **Universidad Técnica de Ambato** sobre los factores que aumentan las ITS concluyó que la desinformación sobre métodos preventivos lleva a conductas de riesgo y no a buscar un tratamiento de manera oportuna. También hay mitos y mentiras que no solo desinforman, sino que perpetúan el estigma asociado, principalmente, al VIH-sida.
+
+### Algunos mitos y mentiras sobre el VIH
+
+* **VIH (Virus de Inmunodeficiencia Humana) y sida (Síndrome de Inmunodeficiencia Adquirida) son lo mismo**. La realidad es que el VIH es el virus que causa el sida, pero no todas las personas con VIH desarrollan sida.
+* **La transmisión de VIH de madre a hijo es inevitable**. Aunque existe el riesgo de transmisión, este puede ser prevenido mediante antirretrovirales durante el embarazo y la lactancia.
+* **El VIH solo afecta a la comunidad LGBTIQ+**. Esta creencia es estigmatizante y falsa. El VIH puede afectar a cualquier persona independientemente de su orientación sexual o identidad de género.
+* **Estoy seguro porque estoy en una relación monógama**: Esta creencia es errónea. El virus puede transmitirse en cualquier relación sexual sin protección.
+*  ****El VIH se transmite por contacto casual****. Hay personas que creen el VIH puede transmitirse a través de abrazos, besos, o al compartir utensilios. Falso. El VIH se transmite a través de sangre, semen, fluidos vaginales y leche materna, cuando la carga viral no ha sido suprimida.
+
+Educación sexual insuficiente
+-----------------------------
+
+La falta de educación es perjudicial para jóvenes y adolescentes, quienes, sin la información adecuada, están en mayor riesgo de contraer una ITS. El 20% de los nuevos casos corresponden al grupo etario de entre 18 a 24 años de edad.
+
+El MSP reconoce que en algunos países de la región implementaron programas de educación sexual desde edades tempranas dentro de sus sistemas educativos, enfocándose en la prevención y el conocimiento integral de la salud sexual y reproductiva. Un abordaje explícito de la salud sexual reduce las tasas de ITS, según el análisis de la U. Técnica de Ambato.
+
+Dificultad de acceso a los servicios de salud
+---------------------------------------------
+
+Los problemas de acceso a la atención médica adecuada y oportuna se evidencia más en lugares alejados, como en la Amazonía. Ahí la población debe trasladarse a pie, en embarcaciones fluviales, transporte público para llegar al centro de salud primaria. Un ejemplo de esto es Chontapunta, en la parte norte de Napo. Debido a la falta de infraestructura cercana en áreas rurales, la detección y la atención llega tardíamente.
+
+En el caso de las mujeres embarazadas es necesario garantizar el nacimiento de niños sanos, pero el diagnostico debe ser a tiempo y hay que dar un tratamiento oportuno para prevenir la transmisión vertical.
+
+**Escasos recursos económicos**
+-------------------------------
+
+La situación económica también juega un papel crucial. La pobreza por ingresos a escala nacional, en junio de 2024, se ubica en **25,5%**. La pobreza urbana es de 17,2%, mientras que en el área rural es de 43,2%, según los registros del INEC.
+
+**Confidencialidad y privacidad**
+---------------------------------
+
+El miedo a que su información personal sea divulgada impide que muchas personas busquen atención médica para ITS. La discriminación en entornos sanitarios crea un ambiente donde los pacientes temen ser juzgados o rechazados, lo que les lleva a evitar servicios necesarios. Esto se traduce en una falta de confianza en el sistema sanitario.
+
+**Aspecto cultural**
+--------------------
+
+Las ITS erróneamente no son percibidas como enfermedades que pueden tener efectos sobre la salud o la capacidad reproductiva.
+
+El conflicto de pareja, los celos y la desconfianza pueden ser la principal consecuencia identificada por ambos géneros.
+
+Aun cuando existe la percepción de riesgo (que los varones anclan en la “peligrosidad de los fluidos femeninos” y las mujeres en la “natural infidelidad” de sus parejas) no se adoptan conductas para prevenir las ITS.
+
+La escasa disponibilidad y capacidad para el tener sexo seguro remite a una compleja trama de normas, valores, estereotipos, relaciones de poder, sentimientos (afecto, temor y vergüenza) e ideas arraigadas, como que el preservativo “no es para el matrimonio”.
+
+La creencia cultural de que el varón no debe desaprovechar oportunidades de contacto sexual y/o que correr riesgos es un elemento esencial de la masculinidad conspiran seriamente contra la capacidad para protegerse.
+
+  
+
+  
+
+Las siete mejores películas para hablar de salud mental
+=======================================================
+
+Al visibilizar estos temas, estas películas contribuyen a desestigmatizar y normalizar la búsqueda de ayuda profesional.
+------------------------------------------------------------------------------------------------------------------------
+
+![Jack Nicholson ganó un Oscar por su actuación en la cinta 'Alguien voló sobre el nido del cuco'. Foto: IMDB](https://www.elcomercio.com/wp-content/uploads/2024/10/salud-mental-El-comercio.jpg)
+
+El cine, como un espejo de la sociedad, ha explorado a lo largo de los años las profundidades de la mente humana. A través de personajes complejos y tramas cautivadoras, el séptimo arte nos ha permitido vislumbrar los desafíos y las maravillas de la **salud mental**.
+
+En este reportaje, exploraremos siete películas que, con sensibilidad y realismo, abordan temas como la **esquizofrenia**, la **depresión**, el **trastorno bipolar**, la **pérdida de la memoria** y la **lucha por la identidad**.
+
+### Más noticias
+
+* **[Películas de salud mental que puedes ver en Netflix](https://www.elcomercio.com/afull/peliculas-salud-mental-netflix-streaming.html "https://www.elcomercio.com/afull/peliculas-salud-mental-netflix-streaming.html")**
+* **[Un cortometraje ecuatoriano reflexiona sobre el impacto de la salud mental](https://www.elcomercio.com/tendencias/cine/cortometraje-ecuatoriano-salud-mental-lesiones.html "https://www.elcomercio.com/tendencias/cine/cortometraje-ecuatoriano-salud-mental-lesiones.html")**
+
+Estas producciones no solo entretienen, sino que también nos invitan a empatizar, comprender y desestigmatizar las **enfermedades mentales**.
+
+Cisne Negro (2010)
+------------------
+
+Explora cómo la presión artística y la búsqueda de la perfección pueden desencadenar síntomas psicóticos y distorsiones de la realidad. Analiza la relación entre la mente y el cuerpo, y cómo las enfermedades mentales pueden manifestarse a través de síntomas físicos.
+
+Inocencia interrumpida (1999)
+-----------------------------
+
+Trastorno límite de la personalidad. Aborda la importancia del tratamiento y la terapia en la recuperación de las enfermedades mentales.
+
+Joker (2019)
+------------
+
+Examina cómo la sociedad, la desigualdad y la falta de oportunidades pueden desencadenar trastornos mentales y comportamientos violentos. Reflexiona sobre la importancia de la salud mental y la necesidad de abordar las causas subyacentes de la violencia. Joaquin Phoenix ofrece una interpretación desgarradora de un hombre marginado que se transforma en un símbolo de caos, revelando las consecuencias de la soledad y la injusticia social.
+
+Una mente maravillosa (2001)
+----------------------------
+
+Muestra los desafíos y los logros de una persona con esquizofrenia que busca encontrar un equilibrio entre su vida personal y profesional.
+
+Los juegos del destino (2012)
+-----------------------------
+
+No solo profundiza en los síntomas de la depresión y la ansiedad, sino que también explora cómo el entorno familiar puede influir en la salud mental de las mujeres. La película revela cómo las experiencias traumáticas de generaciones anteriores, como la pérdida y el abandono, pueden dejar una profunda huella en la psique de las protagonistas. Sin embargo, también muestra cómo el apoyo mutuo entre hermanas y la búsqueda de ayuda profesional pueden convertirse en herramientas poderosas para superar estas heridas y construir relaciones más sanas. A través de sus personajes, la película transmite un mensaje esperanzador sobre la capacidad de las personas para sanar y crecer, incluso en las circunstancias más difíciles.
+
+Alguien voló sobre el nido del cuco (1975)
+------------------------------------------
+
+Un clásico del cine que denuncia la deshumanización en los hospitales psiquiátricos, mostrando la lucha por la individualidad y la libertad. Denuncia la medicalización excesiva y la deshumanización de las personas con enfermedades mentales. Critica el sistema psiquiátrico y aboga por un enfoque más humano y personalizado en el tratamiento.
+
+Memento (2000)
+--------------
+
+Christopher Nolan nos sumerge en la mente de un hombre con amnesia anterógrada que intenta reconstruir su pasado, explorando los límites de la memoria y la identidad. Explora cómo la pérdida de la memoria afecta la identidad, las relaciones y la percepción del tiempo. Reflexiona sobre la naturaleza de la realidad y la construcción de la identidad a través de la memoria.
+
+Cortes de luz en Quito este martes 15 de octubre
+================================================
+
+Los cortes de luz en Quito son de hasta 10 horas este martes 15 de octubre.
+---------------------------------------------------------------------------
+
+![Los cortes de luz son de hasta 10 horas en quito este martes 15 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/tulcan.jpg)
+
+Los **cortes de luz** en **Quito** para este **martes 15 de octubre** de 2024 son de hasta 10 horas por sector[.](https://es.wikipedia.org/wiki/Quito)
+
+La Empresa Eléctrica Quito (EEQ) hizo una programación diferente para cada día de esta semana.
+
+### Más noticias:
+
+* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
+* [Asamblea trata proyecto sobre energías renovables ante cortes de luz](https://www.elcomercio.com/actualidad/politica/asamblea-trata-proyecto-sobre-energias-renovables-ante-cortes-de-luz.html "Asamblea trata proyecto sobre energías renovables ante cortes de luz")
+
+En esta semana, los cortes de luz de hasta 10 horas inician con el anuncio de la ministra de Energía encargada, **Inés Manzano**, de que se esperan cortes de luz hasta diciembre.
+
+Considerando que en ese mes los cortes de luz sean mínimos.
+
+Antes, Manzano, señaló que la tercera semana de este mes, del 14 al 20 de octubre de 2024, será crítica por la falta de lluvias.
+
+La crisis hídrica impide el normal funcionamiento de las hidroeléctricas del país y obliga a continuar con los cortes de luz en todo el Ecuador, con un promedio de 10 horas al día.
+
+Cortes de luz en Quito este martes 15 de octubre
+------------------------------------------------
+
+La disminución de las **franjas horarias** depende las condiciones hídricas para el abastecimiento de las hidroeléctricas existentes en el país.
+
+A continuación, los horarios de los cortos de luz de acuerdo a las franjas y los sectores, este martes, en la capital:
+
+Domina el estilo fit con estos outfits 
+=======================================
+
+El estilo fit domina la moda masculina, ajustando la silueta con comodidad y proyectando seguridad y elegancia
+--------------------------------------------------------------------------------------------------------------
+
+![Outfit total black. Foto: Cortesía H&M](https://www.elcomercio.com/wp-content/uploads/2024/10/moda-El-comercio-4.jpg)
+
+El **estilo fit** marca la tendencia en la **moda masculina**. Este tipo de prendas se ajusta al cuerpo y realzan la silueta sin sacrificar la comodidad.  
+
+Los _outfits_ de este tipo permiten proyectar seguridad y estilo, ideales para quienes buscan destacar. Combinar elegancia con versatilidad es clave en el día a día y con [H&M](https://ec.hm.com/hombre) lo puedes conseguir.  
+
+### Más noticias
+
+* **[¿Quién es Ágatha Ruiz de la Prada?](https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-quito-ecuador-moda.html "https://www.elcomercio.com/tendencias/moda/agatha-ruiz-dela-prada-quito-ecuador-moda.html")**
+* **[El ‘clean girl look’ está ligado al autocuidado](https://www.elcomercio.com/tendencias/clean-girl-look-autocuidado.html "https://www.elcomercio.com/tendencias/clean-girl-look-autocuidado.html")**
+
+Además, las prendas fit son perfectas para moverse entre contextos casuales y formales. Con estos _outfits_, lucir bien nunca fue tan cómodo. 
+
+Confort con un toque moderno 
+-----------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/FOTOS-WEB-MODA-MASCULINA-1024x683.jpg)
+
+Foto: Cortesía H&M
+
+Este polo de tejido sudadera es una prenda cómoda y moderna. Tiene un corte clásico pero añade detalles como la media cremallera y los puños ajustados que le dan un toque actual. Aunque es cómodo, ayuda a definir la figura sin quedar apretado. Es perfecto para usar todos los días, ya que combina estilo y funcionalidad, ideal para cualquier actividad diaria. 
+
+Estilo relajado pero pulido 
+----------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/FOTOS-WEB-MODA-MASCULINA-1-1024x683.jpg)
+
+Foto: Cortesía H&M
+
+La cazadora bomber es una prenda clásica que, con su corte estándar y detalles acanalados, proporciona un ajuste cómodo sin sacrificar estilo. El remate en cuello, puños y bajo aporta estructura a una prenda ligera, lo que la convierte en una opción excelente para las capas de climas variables como el de Quito. 
+
+Funcionalidad con ajuste perfecto
+---------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/FOTOS-WEB-MODA-MASCULINA-4-1024x683.jpg)
+
+Foto: Cortesía H&M
+
+Este pantalón cargo ofrece una silueta ajustada que realza el contorno del cuerpo, pero sigue siendo práctico gracias a sus múltiples bolsillos. El elástico en la cintura con cordón de ajuste permite moverse cómodamente. Equilibra estilo y funcionalidad en un _look_ diario. 
+
+Elegancia sin rigidez 
+----------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/FOTOS-WEB-MODA-MASCULINA-3-1024x683.jpg)
+
+Foto: Cortesía H&M
+
+Las camisas ajustadas siguen siendo un básico versátil. Este modelo realza la figura sin sacrificar movilidad, gracias a su diseño de fácil planchado. Es ideal para combinar con otras prendas ajustadas o crear contrastes con piezas más sueltas.  
+
+Sofisticación monocromática 
+----------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/FOTOS-WEB-MODA-MASCULINA-5-1024x683.jpg)
+
+Foto: Cortesía H&M
+
+El _look total black_, compuesto por prendas ajustadas como un suéter y pantalones de cuero, es una opción perfecta para quienes buscan un impacto visual con comodidad. Las texturas flexibles aseguran libertad de movimiento sin perder estilo. 
+
+Los problemas de Marcelo Bielsa si Uruguay no gana a Ecuador
+============================================================
+
+La situación no es fácil para el equipo que dirige Marcelo Bielsa. Uruguay recibirá a Ecuador en las eliminatorias.
+-------------------------------------------------------------------------------------------------------------------
+
+![Marcelo Bielsa es el DT de Uruguay que recibirá a Ecuador en eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/Bielsa.jpg)
+
+**Uruguay** se enfrenta a un momento crítico en su campaña de eliminatorias para el Mundial 2026. Los charrúas recibirán a Ecuador en el histórico estadio **Centenario** de **Montevideo**, el 15 de octubre del 2024.
+
+Si no logran una victoria, Marcelo Bielsa podría enfrentar serios problemas que comprometerían su liderazgo.
+
+### Más noticias:
+
+* [Ecuador sucumbe ante Uruguay en el historial de eliminatorias](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-sucumbe-ante-uruguay-en-el-historial-de-eliminatorias.html "Ecuador sucumbe ante Uruguay en el historial de eliminatorias")
+* [¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-beccacece-bielsa.html "¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?")
+* [La Selección de Ecuador tuvo a tres uruguayos en sus filas](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-nacionalizados-uruguay.html "La Selección de Ecuador tuvo a tres uruguayos en sus filas")
+
+**Pérdida de credibilidad en el vestuario**
+-------------------------------------------
+
+La reciente derrota ante **Perú** y las declaraciones de **Luis Suárez** sobre la falta de respeto en el manejo del equipo han debilitado la confianza en Bielsa.
+
+Si Uruguay no gana, la situación podría escalar y muchos jugadores podrían cuestionar su capacidad para dirigir al equipo.
+
+La falta de respeto señalada por varios futbolistas podría llevar a una ruptura aún más profunda en el vestuario.
+
+**Presión mediática y crítica pública a Marcelo Bielsa**
+--------------------------------------------------------
+
+La prensa uruguaya ha comenzado a presionar sobre la efectividad de Marcelo Bielsa al frente de la selección.
+
+Un nuevo fracaso contra Ecuador no solo acentuaría las críticas, sino que podría llevar a que la Asociación Uruguaya de Fútbol se replantee su continuidad.
+
+La exigencia por resultados es alta, y el entorno mediático podría convertirse en un verdadero calvario si los resultados no llegan.
+
+**Amenazas de renuncia de jugadores clave**
+-------------------------------------------
+
+Luis Suárez advirtió que algunos jugadores podrían considerar renunciar a la selección si las condiciones de trabajo no mejoran.
+
+Si Uruguay no logra un triunfo ante Ecuador, es probable que más futbolistas se sumen a esta idea, debilitando aún más a la ‘Celeste’.
+
+La ausencia de líderes como Suárez podría tener repercusiones a largo plazo, tanto en el rendimiento del equipo como en su moral.
+
+Con el futuro incierto y la presión acumulándose, **Marcelo Bielsa** tiene ante sí un desafío monumental.
+
+La victoria contra Ecuador no solo es crucial para la clasificación, sino también para su propia estabilidad como director técnico.
+
+La afición espera que su equipo se levante en este momento crítico y recupere la confianza en el camino hacia el Mundial.
+
+Ruth Chepngetich y un increíble récord mundial de maratón
+=========================================================
+
+La atleta Ruth Chepngetich hizo historia y rompió el récord mundial de maratón en Chicago tras una serie de sacrificios en su carrera.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Ruth Chepngetich, atreta keniana, con su medalla tras ganar y romper el récord mundial en el maratón de Chicago.](https://www.elcomercio.com/wp-content/uploads/2024/10/463165656_18464195635002476_8533307460688104102_n.jpg)
+
+Antes de convertirse en atleta profesional, la keniana **Ruth Chepngetich** tenía el sueño de ser policía. Ahora, a sus 30 años, escribió una página de historia del deporte al batir el domingo en Chicago el récord del mundo de **maratón**, con una marca oficial de dos horas, nueve minutos y 56 segundos.
+
+Nacida en Kenia el 8 de agosto de 1994, **Chepngetich** se convirtió en la primera mujer capaz de derrumbar la barrera de las dos horas y diez minutos, y lo hizo por todo lo alto, al firmar su tercera corona en el maratón de Chicago.
+
+### Más noticias:
+
+* [La Bimbo Global Race llega a Quito con un fin benéfico y alimentario](https://www.elcomercio.com/deportes/carrera-bimbo-global-race-quito.html "La Bimbo Global Race llega a Quito con un fin benéfico y alimentario")
+* [Marcela Peñafiel promete en el Mundial de Ciclismo con Ecuador](https://www.elcomercio.com/deportes/marcela-penafiel-mundial-ciclismo-ecuador.html "Marcela Peñafiel promete en el Mundial de Ciclismo con Ecuador")
+* [Glenda Morejón, medallista olímpica en París 2024, se casó](https://www.elcomercio.com/deportes/glenda-morejon-medallista-olimpica-en-paris-2024-se-caso.html "Glenda Morejón, medallista olímpica en París 2024, se casó")
+
+Rebajó casi dos minutos el anterior récord mundial, el que la etíope **Tigst Assefa** (2h.11.53) logró en Berlín en 2023 y dedicó esta hazaña al keniano **Kelvin Kiptum**, fallecido trágicamente el pasado febrero tras sellar el récord mundial masculino en Chicago el año pasado.
+
+“**Kiptum era un buen chico, trabajaba muy duro en los entrenamientos y se notó en Valencia, Londres y Chicago,** cuando hizo el récord de mundo. Es muy triste que haya tenido ese accidente, fue muy triste, fue una noticia devastadora en Kenia”, dijo en conversación con EFE poco antes de la disputa del maratón.
+
+Detrás de un carácter muy tranquilo y tono de voz bajo, **Chepngetich** es una atleta de extraordinario carácter y alma competitiva.
+
+El récord mundial ya era un objetivo de Ruth Chepngetich
+--------------------------------------------------------
+
+Antes del maratón no se escondió y reconoció que el objetivo en **Chicago** no solo era triunfar por tercera vez, sino también firmar un **nuevo récord**.
+
+Creció en **Kenia** con el objetivo de ser policía, pero cuando descubrió su pasión y talento por el atletismo decidió enfocarse totalmente en el deporte. Era una adolescente y tuvo que convencer a sus padres para que pudiera **dejar el colegio** para perseguir sus sueños.
+
+“**Estoy agradecida, me siento feliz, mi sueño se ha hecho realidad. Llevo mucho tiempo intentando, lo fallé por 14 segundos (en 2022), y por fin lo he conseguido**“, dijo Chepngetich en la rueda de prensa posterior al maratón.
+
+La keniana logró su primera corona en Chicago en 2021 y en 2022 selló el doblete con una marca de dos horas, catorce minutos y 18 segundos que le hizo rozar la entonces plusmarca mundial de la keniana **Brigid Kosgei**.
+
+Una historia de éxito para Chepngetich
+--------------------------------------
+
+No dejó de intentarlo y ya es la mujer más rápida del mundo en el maratón. Su triple corona en **Chicago** se suma al oro mundial en **Doha 2019** y al triunfo en el medio maratón de Buenos Aires.
+
+Tras la hazaña de **Chepngetich** en la Ciudad del Viento, Kenia luce ahora los récords mundiales de maratón tanto en categoría masculina como femenina.
+
+“**Para mi país significa mucho, estoy orgullosa por mi país. Estoy orgullosa por ser de Kenia**“, afirmó Chepngetich.
+
+La keniana, que tiene un centro entrenamiento en su tierra, manifestó el deseo de convertirse en un **ejemplo de disciplina** para las jóvenes chicas de su país.
+
+“**Quiero inspirar a las jóvenes a tener disciplina y quizás en un futuro habrá chicas que podrán soñar con batir mi récord**“, aseguró tras coronarse reina del maratón en Chicago, una ciudad que considera ya su segunda casa.
+
+Fiscalización deja en suspenso inició el trámite del juicio político contra Andrea Arrobo
+=========================================================================================
+
+Fiscalización reanudará la sesión para conocer el juicio político contra Andrea Arrobo en los próximos días.
+------------------------------------------------------------------------------------------------------------
+
+![Fiscalización conoce juicio politico contra Andrea Arrobo, exministra de Energía, por crisis energética.](https://www.elcomercio.com/wp-content/uploads/2024/04/Andrea-Arrobo.jpg)
+
+La **Comisión de Fiscalización** de la Asamblea Nacional sesionó para iniciar el trámite del **juicio político** contra **Andrea Arrobo**, exministra de Energía y Minas, la tarde de este lunes 14 de octubre de 2024.
+
+**Ana Galarza (Construye)** presentó la solicitud de juicio político contra Andrea Arrobo por **incumplimiento de funciones**, relacionado con la **crisis energética**, en abril.
+
+### Más noticias:
+
+* [Juicio político contra Andrea Arrobo es el siguiente en la lista de Fiscalización](https://www.elcomercio.com/actualidad/politica/juicio-politico-andrea-arrobo-siguiente-fiscalizacion.html "Juicio político contra Andrea Arrobo es el siguiente en la lista de Fiscalización")
+* [Juicio político contra Mónica Palencia depende del Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/juicio-politico-contra-monica-palencia-depende-pleno-asamblea.html "Juicio político contra Mónica Palencia depende del Pleno de la Asamblea")
+
+Bajo la dirección del asambleísta **Luis Alvarado**, se instaló la sesión de la Comisión de Fiscalización de la Asamblea.
+
+Alvarado solicitó constatar el cumplimiento de requisitos de fondo y forma y, una vez confirmado este punto, abrió el debate.
+
+La intención era avocar conocimiento de la solicitud de juicio político, previamente calificada por el **Consejo de Administración Legislativa (CAL).**
+
+Sin embargo, esto no ocurrió.
+
+Sin solicitudes del uso de la palabra y sin presentación de **ninguna moción** para la calificación del juicio político, la sesión fue suspendida.
+
+Causales del juicio político contra Andrea Arrobo
+-------------------------------------------------
+
+La exministra, Andrea Arrobo, estuvo casi cinco meses cumpliendo las funciones de Ministra de Energía, hasta el 16 de abril de 2024.
+
+Debido a la **crisis energética**, el 17 de abril, **Daniel Noboa** pidió su renuncia y la acusó de supuesto sabotaje por haber afectado al sector energético.
+
+Junto a la exministra, otros 20 funcionarios también fueron señalados como posibles cómplices en la crisis energética.
+
+Posteriormente, a través de su cuenta de X, Arrobo señaló que, desde el 16 de abril, enfrentaba una investigación fiscal por el delito de paralización de servicio público.
+
+En su defensa, en una carta difundida por redes sociales, Arrobo señaló que recibió un “sector en crisis”.
+
+Esto, producto de más de seis años de “abandono” y de una falta de inversión, con problemas estructurales y una dependencia de la importación de energía.
+
+Así como, de condiciones climáticas “que no pueden solucionarse en cinco meses”.
+
+Solicitantes y causales del juicio político contra Andrea Arrobo que tramitará Fiscalización  
+El 8 de mayo de 2024, el Consejo de Administración Legislativa (CAL) calificó la solicitud de juicio político en contra de Andrea Arrobo.
+
+La iniciativa surgió de las bancadas de Construye y el Partido Social Cristiano (PSC) que le acusan de incumplimiento de funciones.
+
+El 24 de abril, Ana Galarza y Jaime Moreno de Construye ingresaron oficialmente la solicitud de juicio político contra Arrobo.
+
+Vicente Taiano (PSC) se unió al pedido, que contó con 40 firmas de respaldo.
+
+Según los solicitantes, la prueba “madre” del incumplimiento de funciones de Arrobo fue que los “apagones” seguían y no se hizo nada.
+
+Esto, pese a que hubo alertas desde noviembre del año pasado.  
+
+Recrea el estilo de Mia Wallace, la ‘femme fatale’ de ‘Pulp Fiction’ con estas ideas
+====================================================================================
+
+La cinta festeja hoy 30 años de su estreno. Mia Wallace es uno de los personajes más recordados de la película.
+---------------------------------------------------------------------------------------------------------------
+
+![Uma Thurma encarnó a Mia Wallace en 'Pulp Fiction'. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/pulp-fiction-El-comercio.jpg)
+
+El 14 de octubre de 1994, ‘**Pulp Fiction**‘ **de Quentin Tarantino** llegó a los cines y, con ella, una revolución estilística. A 30 años de su estreno, la película no solo ha dejado una huella imborrable en el cine, sino también en el mundo de la moda.
+
+El personaje de **Mia Wallace**, interpretado por **Uma Thurman**, redefinió el arquetipo de **_femme fatale_** con su icónico estilo. Desde su vestido negro y blanco hasta su emblemático corte de cabello, su _look_ se ha convertido en un referente cultural.
+
+### Más noticias
+
+* **[Lo que ‘dos pedazos de esponja’ pueden causar en la imagen personal](https://www.elcomercio.com/tendencias/hombreras-imagen-personal-moda.html "https://www.elcomercio.com/tendencias/hombreras-imagen-personal-moda.html")**
+* **[El ‘clean girl look’ está ligado al autocuidado](https://www.elcomercio.com/tendencias/clean-girl-look-autocuidado.html "https://www.elcomercio.com/tendencias/clean-girl-look-autocuidado.html")**
+
+Celebridades y diseñadores han homenajeado su sofisticación violenta, inspirándose en la estética de la película. Más allá de la pasarela, el estilo de ‘Pulp Fiction’ sigue influyendo en las tendencias contemporáneas.
+
+La huella de Mia Wallace
+------------------------
+
+Mia Wallace es, sin duda, el rostro más icónico de Pulp Fiction.
+
+Su _look_, que combina una camisa blanca con pantalones negros, fue diseñado por Betsy Heimann, quien ha revelado que las limitaciones presupuestarias llevaron a decisiones creativas, como cortar los pantalones de Uma Thurman para adaptarlos a su altura.
+
+Esta estética ha inspirado a figuras como Lorde, quien ha replicado su traje en múltiples ocasiones, y ha influido en el vestuario de otras producciones, como el personaje de Jane en ‘Breaking Bad’.
+
+![Jane en 'Breaking Bad'. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/pulp-fiction-El-comercio-2-1024x683.jpg)
+
+Jane en ‘Breaking Bad’. Foto: Pinterest
+
+Inspiraciones en la moda
+------------------------
+
+La influencia de ‘Pulp Fiction’ se refleja en varias pasarelas, destacando el desfile de SS 25 de Saint Laurent, donde se rinde homenaje al traje de Mia.
+
+El corte bob de Thurman ha sido adoptado por actrices com[o **Katie Holmes**,](https://www.imdb.com/name/nm0005017/ "https://www.imdb.com/name/nm0005017/") y el _look_ se ha vuelto un clásico en fiestas de disfraces, siendo accesible para quienes buscan un estilo audaz sin complicaciones.
+
+Incluso la marca Urban Decay lanzó una línea de maquillaje inspirada en el icónico labial rojo de Mia.
+
+¿Cómo obtener el _look_ de Mia Wallace?
+---------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/pulp-fiction-El-comercio-1-1024x683.jpg)
+
+**1\. Vestido negro ajustado** **o pantalones negros cortos**  
+Para capturar la esencia de Mia Wallace, busca un vestido negro que se ajuste a tu figura y que caiga justo por encima de las rodillas. Un diseño con cuello en V es ideal para resaltar el escote. Si son pantalones, asegúrate de que sean cortos.
+
+**2\. Camisa blanca**  
+Mia también usa una camisa blanca de manga larga, que puedes llevar por debajo del vestido o de manera independiente. Asegúrate de que sea de un tejido ligero para un look elegante.
+
+**3\. Maquillaje impactante**  
+El maquillaje es clave para lograr su look. Aplica un labial rojo intenso y un delineador de ojos negro. Mantén el resto del maquillaje sencillo para que la atención se centre en los labios.
+
+**4\. Corte de cabello**  
+El icónico corte bob con flequillo recto es esencial. Si no deseas un cambio drástico, considera usar una peluca que imite su estilo.
+
+**5\. Actitud segura**  
+Finalmente, el look de Mia Wallace se completa con una actitud segura y confiada. Mantén una postura erguida y canaliza la presencia de este icónico personaje. Pulp Fiction se puede ver en _streaming_ [aquí](https://www.netflix.com/ec/title/880640).
+
+Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute
+===============================================================
+
+Las lluvias en el norte del país aumentaron el caudal del río Coca. Las condiciones en las centrales del Complejo Paute son diferentes.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Captación de agua de Coca Codo Sinclair. Foto: Diego Pallero / El Comercio](https://www.elcomercio.com/wp-content/uploads/2024/10/Coca-Codo-Sinclair-14102024.jpg)
+
+El **Ministerio de Energía y Minas** señaló que la tercera semana de octubre de 2024 será crítica debido a la situación hídrica del **Ecuador**. Esto obligó a continuar con los **cortes de luz** de hasta 10 horas diarias hasta el domingo 20 de octubre de 2024[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
+* [Asamblea trata proyecto sobre energías renovables ante cortes de luz](https://www.elcomercio.com/actualidad/politica/asamblea-trata-proyecto-sobre-energias-renovables-ante-cortes-de-luz.html "Asamblea trata proyecto sobre energías renovables ante cortes de luz")
+* [Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre](https://www.elcomercio.com/actualidad/quito/conozca-nuevos-horarios-cortes-de-luz-quito-semana-del-14-al-20-octubre.html "Conozca los nuevos horarios de cortes de luz de Quito para la semana del 14 al 20 de octubre")
+
+Caudal de río Coca
+------------------
+
+Sin embargo, el fin de semana del 12 y 13 de octubre de 2024 se registraron lluvias en la parte norte del país y mejoró la operación de la Central Hidroeléctrica **Coca Codo Sinclair**, que aprovecha el potencial del río Coca, en el límite provincial de **Napo y Sucumbíos**.
+
+Según el monitorio diario del río Coca, este 13 de octubre se registró un caudal de 163 metros cúbicos por segundo (m³/s). En las dos primeras semanas de este mes, el promedio fue de 23 m³/s.
+
+La mejora del caudal del **río Coca** permitió disminuir los períodos de cortes de luz programados para el domingo 13 y lunes 14 de octubre. “Hemos tenido un buen flujo de lluvias, buenos caudales, Coca Codo Sinclair estuvo ayer (13 de octubre) extraordinario y pudimos aprovechar 1 100 megavatios (MW). Sin embargo, esa no es la normalidad”, dijo la ministra de Energía encargada, **Inés Manzano**, en una entrevista con Teleamazonas.
+
+Además, agregó que Coca Codo seguirá operando de esta manera, ya que en la zona de esta hidroeléctrica sí hay lluvias.
+
+**Coca Codo Sinclair** es la **hidroeléctrica** más grande del país, con 1 500 MW de potencia instalada. Esta central es de paso, es decir, no tiene un reservorio y debe aprovechar los caudales en el momento que se producen para generar energía.
+
+¿Qué pasa con el Complejo Hidroeléctrico Paute?
+-----------------------------------------------
+
+Pero, en el centro sur del país, en donde se encuentra ubicado el **Complejo Hidroeléctrico Paute** (Azuay), compuesto por tres centrales: **Mazar, Paute-Molino y Sopladora**, con un potencial de 1 700 MW, las **lluvias son escasas**.
+
+Hasta las 16:00 de este lunes las tres centrales permanecían apagadas. La cota del embalse de Mazar, el más grande y que alimenta a las tres hidroeléctricas, llegó a 2 114,8 metros sobre el nivel del mar (m s. n. m.), un metro de agua más que lo registrado el domingo. Sin embargo, aún se encuentra a 20 centímetros para alcanzar una operación mínima, que es **2 115** (m s. n. m.).
+
+Mientras que, para llegar al máximo de 2 153 metros sobre el nivel del mar, le falta más de 38 metros, que es igual que un edificio de más de 10 pisos.
+
+Según la data oficial, el caudal de este reservorio fue de 47,6 m³/s. a las 16:00 de este lunes. Esta cantidad de agua es insuficiente para llenarlo.
+
+Este embalse tiene una extensión de 31 kilómetros, por lo que se requiere 300 millones de m³ de agua para llenarlo, explicó **Ricardo Buitrón**, consultor energético. Es decir, se necesitaría **lluvias intensas**, que produzcan caudales de 120 m³/s por un mes, para completarlo.
+
+Se retoman los cortes programados
+---------------------------------
+
+Pese a la mejora de **Coca Codo Sinclair** y a la subida de la cota de **Mazar**, el Operador Nacional de Electricidad (Cenace), retomó los cortes de luz programados a partir de las 12:00 de este lunes.
+
+Los horarios de cortes de luz de todo el país lo puede revisar en la [página web del Ministerio de Energía y Minas](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/"). Allí se encuentran los cronogramas por cada una de las nueve empresas distribuidoras de electricidad del país.
+
+Iván Kaviedes tiene uno de los apodos más ‘memorables’ de Sudamérica
+====================================================================
+
+Jaime Iván Kaviedes jugó con Ecuador tres eliminatorias, dos mundiales y una Copa América.
+------------------------------------------------------------------------------------------
+
+![Jaime Iván Kaviedes como jugador de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/kaviedes_apodo_1.jpg)
+
+**Iván Kaviedes** marcó una época legendario en la historia moderna de la Selección de Ecuador, con la que llegó a jugar 55 partidos, anotó 15 goles y jugó los mundiales de Corea-Japón 20202 y Alemania 2006.
+
+El nombre de Iván Kaviedes en el **fútbol ecuatoriano es sinónimo de calidad y de gratos recuerdos** entre 1998 y 2011, años en los que debutó y jugó por última vez con la Selección de Ecuador.
+
+### Más noticias:
+
+* [Las 33 selecciones eliminadas rumbo al Mundial 2026](https://www.elcomercio.com/deportes/futbol/eliminatorias-mundial26-selecciones-eliminadas-fifa.html "Las 33 selecciones eliminadas rumbo al Mundial 2026")
+* [Iván Kaviedes y Armando Paredes protagonizarán la pelea del año](https://www.elcomercio.com/deportes/boxeo/ivan-kaviedes-armando-paredes-pelea.html "Iván Kaviedes y Armando Paredes protagonizarán la pelea del año")
+* [La Selección de Ecuador sub-15 perdió, pero se clasificó](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-sub15-venezuela-resultado.html "La Selección de Ecuador sub-15 perdió, pero se clasificó")
+
+El debut de **Kaviedes fue en 1998 con Polo Carrera**, el mejor jugador de Liga de Quito, que le dio la confianza en una estrepitosa goleada de 5-1 contra Brasil jugado en el Robert F. Kennedy Memorial Stadium, ubicado en Washington.
+
+Kaviedes saltó en el equipo titular y fue sustituido a los 57 minutos por Nicolás Asencio, jugador de Barcelona Sporting Club.
+
+La Tri formó con Jacinto Espinoza; **Alberto Montaño, Hólguer Quiñónez, Néicer Reasco y Ulises de la Cruz**; Marlon Ayoví, Héctor Carabalí, Edwin Tenorio y Álex Darío Aguinaga; Kaviedes y Ariel Graziani.
+
+El último compromiso fue el 2 de septiembre de 2011 en la goleada 5-2 ante Jamaica en el estadio Olímpico Atahualpa. Este juego sirvió para que Édison Méndez complete los 100 partidos con la tricolor.
+
+El entrenador era el colombiano Reinaldo Rueda y formó con Adrián Bone; **Juan Carlos Paredes, Frickson Erazo, Giovanni Caicedo, Walter Ayoví**; Segundo Castillo, Luis Fernando Saritama, Edison Méndez, Christian Suárez; Cristian Benítez y Jaime Ayoví.
+
+Entró a los 72 minutos para reemplazar al fallecido ‘Chucho’ Benítez y nunca más fue citado.
+
+En ese lapso se recuerda el **gol marcado el 7 de noviembre de 2001 a Uruguay en la eliminatorias al Mundial** Corea-Japón 2002. A los 27 minutos del segundo tiempo colocó el 1-1 con un certero golpe de cabeza.
+
+En su hoja de vida contra también **haber jugado en la Copa América Paraguay 1999**. Estuvo en los tres partidos de la fase grupos y anotó dos goles, uno contra Argentina y otro frente a Uruguay.
+
+Precisamente las redes sociales de la **Copa América incluyó a Iván Kaviedes** como uno de los jugadores con los “apodos memorables” del fútbol sudamericano.
+
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/kaviedes_apodo_2-1024x683.jpg)
+
+Foto: Archivo histórico EL COMERCIO.
+
+El ‘Nine’ y su apodo
+--------------------
+
+El 24 de octubre de 1997 nació en **Santo Domingo de los Tsáchilas, Jaime Iván Kaviedes Llorentty**, que debutó en el fútbol profesional con Emelec en 1995 y luego tuvo una extensa carrera en equipos de Italia, España, México, Portugal, Inglaterra y Argentina.
+
+En el 2020 jugó en el Aviced en la Segunda Categoría del Azuay, en lo que fue su último club a escala profesional.
+
+La historia cuenta que su apodo se **debe a que en su niñez recibió una camiseta que decía “nine”**, sobrenombre que fue el que lo acompañó desde su natal Santo Domingo y fue parte de su identidad como futbolista a lo largo de toda su carrera.
+
+La publicación de la Copa América también cita a Ángel ‘Fideo’ Di María, el ‘Fenómeno’ Ronaldo, Sebastián ‘Loco’ Abreu, **Carlos ‘Pibe’ Valderrama, Jorge ‘Mago’ Valdivia, Marco ‘Diablo’ Etcheverry**, Juan ‘Huracán’ Arango.
+
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/kaviedes_apodo_3-1024x683.jpg)
+
+Foto: Archivo histórico EL COMERCIO.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Perú refuerza la vigilencia y el monitoreo ambiental en el santuario del Machu Picchu
+=====================================================================================
+
+La nueva sede del Sernanp también se utilizará para la vigilancia y monitoreo del Parque Nacional del Manu.
+-----------------------------------------------------------------------------------------------------------
+
+![Vista general de la ciudadela prehispánica de Machu Picchu (Perú), en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/machu-picchu-efe.jpg)
+
+ Las autoridades peruanas inauguraron este lunes, 14 de octubre de 2024, una nueva sede administrativa del **Servicio Nacional de Áreas Naturales Protegidas** (Sernanp) que permitirá fortalecer las acciones de vigilancia y monitoreo del **Santuario Histórico de Machu Picchu.**
+
+### Más noticias
+
+* [Arqueólogos peruanos retoman investigaciones en Machu Picchu](https://www.elcomercio.com/actualidad/mundo/arqueologos-peruanos-retoman-investigaciones-machu-picchu.html "https://www.elcomercio.com/actualidad/mundo/arqueologos-peruanos-retoman-investigaciones-machu-picchu.html")
+* [Machu Picchu contará con un tramo accesible para personas con discapacidad](https://www.elcomercio.com/actualidad/mundo/machu-picchu-tramo-accesible-personas-discapacidad.html "https://www.elcomercio.com/actualidad/mundo/machu-picchu-tramo-accesible-personas-discapacidad.html")
+* [Turistas europeos fueron expulsados de Machu Picchu por tomarse fotos desnudos](https://www.elcomercio.com/actualidad/mundo/turistas-fotos-desnudos-machu-picchu.html "https://www.elcomercio.com/actualidad/mundo/turistas-fotos-desnudos-machu-picchu.html")
+
+La nueva sede del Sernanp también se utilizará para la **vigilancia y monitoreo del Parque Nacional del Manu,** que, igual que el santuario del Machu Picchu, es una **área natural protegida y** considerada emblemática por su biodiversidad, según detalló un comunicado oficial.
+
+El encargado de inaugurar la sede, ubicada en el distrito cuzqueño de San Jerónimo, fue el ministro del Ambiente, **Juan Carlos Castro Vargas**. Destacó el compromiso del **Gobierno con la protección de estos territorios**, señalando que la nueva sede es resultado del esfuerzo conjunto para asegurar que estas áreas protegidas sean referentes globales en conservación.
+
+Áreas protegidas
+----------------
+
+Asimismo, explicó que esta sede potenciará las **coordinaciones entre ambas áreas protegidas,** que albergan especies y ecosistemas únicos que necesitan ser preservados a largo plazo.
+
+Nueva infraestructura
+---------------------
+
+El jefe del Sernanp, José Carlos Nieto Navarrete, afirmó que esta **nueva infraestructura** es importante para el fortalecimiento de la gestión efectiva de estas áreas nacionales protegidas, ya que facilitará la labor diaria que realiza el personal en el campo.
+
+También fomentará la **colaboración entre las comunidades** y el Sernanp para promover un desarrollo sostenible que beneficie a todos.
+
+Luis Miguel era ‘buen besador’, dijo Lucía Méndez
+=================================================
+
+Durante años, hubo rumores acerca de un romance entre los dos cantantes.
+------------------------------------------------------------------------
+
+![Luis Miguel y Lucía Méndez en una foto compartida por la diva mexicana en su Instagram. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Luis-Miguel-Lucia-Mendez-El-comercio.jpg)
+
+**Lucía Méndez**, la icónica actriz y cantante mexicana de 69 años, abrió su corazón. La diva recordó su romance con **Luis Miguel**, de 54 años.
+
+En una entrevista, dice la revista HOLA!, Méndez confirmó que dejó a “El Sol” porque se enamoró de otro hombre, el **productor de televisión Pedro Torres**, con quien tuvo a su único hijo.
+
+### Más noticias
+
+* **[P. Diddy y su controversial vínculo con Justin Bieber se debate en las redes](https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html "https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html")**
+* **[Shakira se lleva bien con su ex y hace negocios con él](https://www.elcomercio.com/afull/shakira-ex-negocios.html "https://www.elcomercio.com/afull/shakira-ex-negocios.html")**
+
+Durante el **[pódcast ‘Pink Promise](https://open.spotify.com/show/7bncg5AkyumTO0Gamr42zI "https://open.spotify.com/show/7bncg5AkyumTO0Gamr42zI")‘**, la artista relató que su relación con Luis Miguel duró seis meses y que, a pesar de la diferencia de edad—ella tenía 33 y él 18—, la atracción fue mutua.
+
+Una noche inolvidable en Miami
+------------------------------
+
+Méndez compartió detalles sobre una noche memorable en Miami, donde la química entre ambos se intensificó. Según su relato, un joven Luis Miguel “tocó la puerta del hotel, llegó en smoking y con una botella de champaña”. Sin embargo, la velada tomó un giro inesperado.
+
+“Me tomé una copa y me puso borrachísima”, confesó, revelando que despertó junto a Luis Miguel al día siguiente y reflexionó: “Ah, caray”. Aunque tuvo sentimientos de enojo por la situación, la conexión entre ambos fue genuina.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBB2Y7IvtjK/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Lucía Méndez (@luciamendezof)](https://www.instagram.com/p/DBB2Y7IvtjK/?utm_source=ig_embed&utm_campaign=loading)
+
+Un romance complicado y el legado musical
+-----------------------------------------
+
+A pesar de los momentos románticos, Lucía describió a Luis Miguel como buen besador, según la revista VEa, pero nunca permitió que sus sentimientos se profundizaran, acotó. En la charla, también se refirió a la famosa canción **[Fría como el viento](https://youtu.be/D79-FN99dRI?si=xaj0HSUgKA8bLJbD "https://youtu.be/D79-FN99dRI?si=xaj0HSUgKA8bLJbD")**, la cual Luis Miguel le compuso tras su ruptura.
+
+“La verdad quiero mucho a Mickey, lo amo”, aseguró. Al ser preguntada sobre **Paloma Cuevas**, la actual pareja de Luis Miguel, Méndez respondió que es “una gran mujer, guapa”, dejando claro que no hay rencor.
+
+La historia de Lucía y Luis Miguel continúa fascinando a los fanáticos, quienes se preguntan qué hubiera pasado si las circunstancias hubieran sido diferentes. A lo largo de los años, los rumores sobre su relación han generado especulaciones, y ahora, con esta nueva revelación, los seguidores de ambos artistas pueden ver un lado más humano y personal de sus ídolos.
+
+La importancia del amor en su vida
+----------------------------------
+
+![Productor de televisión Pedro Torres, padre del único hijo de Lucía Méndez. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/Luis-Miguel-Lucia-Mendez-El-comercio-1-1024x683.jpg)
+
+Productor de televisión Pedro Torres, padre del único hijo de Lucía Méndez. Foto: Pinterest
+
+Lucía también reflexionó sobre el amor en su vida, afirmando que siempre ha buscado relaciones significativas y sinceras. Aunque su romance con Luis Miguel fue efímero, dejó una huella perdurable en su memoria, y su conexión se suma a una lista de relaciones icónicas en el mundo del espectáculo.
+
+La foto de Lucía Méndez y Luis Miguel juntos
+--------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBFyH4ZprEC/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Lucía Méndez (@luciamendezof)](https://www.instagram.com/p/DBFyH4ZprEC/?utm_source=ig_embed&utm_campaign=loading)
+
+El 13 de octubre de 2024, Lucía Méndez compartió en su Instagram, donde tiene más de 450 mil seguidores, una fotografía de la entrega de Premios TVyNovelas de 1986, hace más de 38 años.
+
+En la imagen, Luis Miguel aparece en un elegante esmoquin, mientras que la actriz, conocida por telenovelas como _**Tú o nadie**_, luce un vestido verde esmeralda y un peinado voluminoso característico de la época.
+
+Junto a la foto, Méndez escribió: “Recuerdito nocturno dominguero con Mickey! @luismiguel, descansen mis #Luwers los amo ♥️”.
