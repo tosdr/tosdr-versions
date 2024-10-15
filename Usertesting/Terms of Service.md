@@ -68,7 +68,7 @@ Main navigation
             
               ![Laptop 3 - User](https://usertesting.widen.net/content/4gt1tysitx/webp/ICON-light-Laptop%203%20-%20User-256x256.png?w=120&itok=gwXmGVkq)
             
-        * Q4 2024 Retail Pulse Report
+        * Retail Pulse Report 2024: Q4
             
             Get your finger on the pulse of consumer trends
             
@@ -143,7 +143,7 @@ Main navigation
     
     * Featured Card
         
-        * Q4 2024 Retail Pulse Report
+        * Retail Pulse Report 2024: Q4
             
             Get your finger on the pulse of consumer trends
             
@@ -320,7 +320,7 @@ Main navigation
     
     * Featured Card
         
-        * Q4 2024 Retail Pulse Report
+        * Retail Pulse Report 2024: Q4
             
             Get your finger on the pulse of consumer trends
             
