@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/spiritualiteit-voor-dummies/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/nasa-en-esa-verzwijgen-zonne-ufos/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
