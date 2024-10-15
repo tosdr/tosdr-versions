@@ -6,7 +6,7 @@ Select a location to view location-specific content and shop online.
 
 Switch to
 
-[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcookies)
+[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcookies%3Ffbclid%3DIwZXh0bgNhZW0CMTEAAR0LycuOefUKkHieG0punJETAuieELHwHS9YcEZkmd5_maawyngZzSzUE7Y_aem_afe-Z5TfINc4P48gxddKhw)
 
 ![](../assets/images/mega-menu/menu-open.png)
 
