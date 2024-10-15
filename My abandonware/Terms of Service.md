@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [After Burner II](https://www.myabandonware.com/game/after-burner-ii-tf)
-* [Alien Sector](https://www.myabandonware.com/game/alien-sector-f8v)
-* [Andro Dunos](https://www.myabandonware.com/game/andro-dunos-jxl)
-* [Alibaba and 40 Thieves](https://www.myabandonware.com/game/alibaba-and-40-thieves-7ba)
-* [10-Yard Fight](https://www.myabandonware.com/game/10-yard-fight-7b2)
+* [Sokoban 1994](https://www.myabandonware.com/game/sokoban-1994-sum)
+* [Soccer](https://www.myabandonware.com/game/soccer-sul)
+* [Slime](https://www.myabandonware.com/game/slime-suk)
+* [Slater Man PC](https://www.myabandonware.com/game/slater-man-pc-suj)
+* [Slan](https://www.myabandonware.com/game/slan-sui)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Backgammon](https://www.myabandonware.com/game/backgammon-oq5)
-* [Road's Edge](https://www.myabandonware.com/game/road-s-edge-snv)
-* [Quarterback Attack](https://www.myabandonware.com/game/quarterback-attack-n79)
+* [Pouvoir](https://www.myabandonware.com/game/pouvoir-hlt)
+* [TNT](https://www.myabandonware.com/game/tnt-k29)
+* [Master Labyrinth](https://www.myabandonware.com/game/master-labyrinth-pkw)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
