@@ -1,32 +1,32 @@
 [Skip to main content](#main-content)
 
-Save 40% Sitewide! DETAILS
+BOGO Free Sitewide! DETAILS
 
-\+ Free Gift With Purchase! DETAILS
-
-BIG FALL SALE
+BUY 1 GET 1 FREE
 
 Close the Modal
 
-#### Save 40% Sitewide!
+#### Sitewide Savings: Mix & Match or Double Up!
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 10/13/2024 8AM ET - 10/15/2024 6AM ET.
+Offer valid 10/15/2024 8AM ET - 10/17/2024 6AM ET.
 
-Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+To receive Buy 1 Get 1 Free discount, must add two (2) full-price products to cart. Discount automatically applied on lowest priced item. Exclusions apply.\* Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+\***Excludes:** Back Support Bra | Women's and all ActiveWick Socks.
 
 FREE GIFT WITH PURCHASE
 
 Close the Modal
 
-#### Free Tommie Copper Baseball Hat on Orders $125+
+#### Free Baseball Hat on Orders $200+
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
 
-Offer valid 10/13/2024 8AM ET - 10/15/2024 6AM ET.
+Offer valid 6/20/2024 8AM ET - 6/21/2024 6AM ET.
 
-Free Baseball Hat automatically applied on orders $125+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Free Baseball Hat automatically applied on orders $200+. Order subtotal must reach $200 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
