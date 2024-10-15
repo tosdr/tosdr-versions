@@ -86,17 +86,13 @@ AllLive NowToday
     
     CSA T20 Challenge
     
-    [Warriors vs North West](https://www.cricbuzz.com/live-cricket-scores/103510/war-vs-nwest-18th-match-csa-t20-challenge "Warriors v North West, 18th Match - WAR Won")
+    [Knights vs Titans](https://www.cricbuzz.com/live-cricket-scores/103521/kng-vs-tit-20th-match-csa-t20-challenge "Knights v Titans, 20th Match - KNG Won")
     
-    18th Match
+    20th Match
     
 * [Western Province vs Dolphins](https://www.cricbuzz.com/live-cricket-scores/103512/wpr-vs-dol-19th-match-csa-t20-challenge "Western Province v Dolphins, 19th Match, - DOL Won")
     
     19th Match,
-    
-* [Knights vs Titans](https://www.cricbuzz.com/live-cricket-scores/103521/kng-vs-tit-20th-match-csa-t20-challenge "Knights v Titans, 20th Match - KNG Won")
-    
-    20th Match
     
 * [Titans vs North West](https://www.cricbuzz.com/live-cricket-scores/103548/tit-vs-nwest-24th-match-csa-t20-challenge "Titans v North West, 24th Match - Upcoming")
     
@@ -143,6 +139,14 @@ AllLive NowToday
     Elite Group A
     
 * [Chhattisgarh vs Delhi](https://www.cricbuzz.com/live-cricket-scores/97279/cg-vs-del-elite-group-d-ranji-trophy "Chhattisgarh v Delhi, Elite Group D - Match drawn")
+    
+    Elite Group D
+    
+* [Himachal Pradesh vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/97216/hp-vs-utk-elite-group-b-ranji-trophy "Himachal Pradesh v Uttarakhand, Elite Group B - HP Won")
+    
+    Elite Group B
+    
+* [Railways vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97270/rlys-vs-cdg-elite-group-d-ranji-trophy "Railways v Chandigarh, Elite Group D - RLYS Won")
     
     Elite Group D
     
@@ -194,14 +198,6 @@ AllLive NowToday
     
     Elite Group B
     
-* [Himachal Pradesh vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/97216/hp-vs-utk-elite-group-b-ranji-trophy "Himachal Pradesh v Uttarakhand, Elite Group B - HP Won")
-    
-    Elite Group B
-    
-* [Railways vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97270/rlys-vs-cdg-elite-group-d-ranji-trophy "Railways v Chandigarh, Elite Group D - RLYS Won")
-    
-    Elite Group D
-    
 * Ranji Trophy Plate
     
     [Sikkim vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/98103/skm-vs-miz-plate-ranji-trophy-plate "Sikkim v Mizoram, Plate - SKM Won")
@@ -224,15 +220,7 @@ AllLive NowToday
     
 * SA Mens Championships 2024
     
-    [Panama vs Chile](https://www.cricbuzz.com/live-cricket-scores/108595/pan-vs-chl-12th-match-group-a-sa-mens-championships-2024 "Panama v Chile, 12th Match, Group A - PAN Won")
-    
-    12th Match, Group A
-    
-* [Uruguay vs Argentina](https://www.cricbuzz.com/live-cricket-scores/108593/urg-vs-arg-11th-match-group-b-sa-mens-championships-2024 "Uruguay v Argentina, 11th Match, Group B - ARG Won")
-    
-    11th Match, Group B
-    
-* [Mexico vs Argentina](https://www.cricbuzz.com/live-cricket-scores/108611/mex-vs-arg-3rd-place-play-off-sa-mens-championships-2024 "Mexico v Argentina, 3rd place play-off - ARG Won")
+    [Mexico vs Argentina](https://www.cricbuzz.com/live-cricket-scores/108611/mex-vs-arg-3rd-place-play-off-sa-mens-championships-2024 "Mexico v Argentina, 3rd place play-off - ARG Won")
     
     3rd place play-off
     
@@ -240,13 +228,13 @@ AllLive NowToday
     
     5th place play-off
     
-* [Colombia vs Uruguay](https://www.cricbuzz.com/live-cricket-scores/108617/clm-vs-urg-7th-place-play-off-sa-mens-championships-2024 "Colombia v Uruguay, 7th Place Play-off - Abandon")
-    
-    7th Place Play-off
-    
 * [Panama vs Brazil](https://www.cricbuzz.com/live-cricket-scores/108619/pan-vs-bra-final-sa-mens-championships-2024 "Panama v Brazil, Final - PAN Won")
     
     Final
+    
+* [Colombia vs Uruguay](https://www.cricbuzz.com/live-cricket-scores/108617/clm-vs-urg-7th-place-play-off-sa-mens-championships-2024 "Colombia v Uruguay, 7th Place Play-off - Abandon")
+    
+    7th Place Play-off
     
 * WOMEN
     
@@ -301,6 +289,10 @@ AllLive NowToday
 * [Sydney Thunder Women vs Perth Scorchers Women](https://www.cricbuzz.com/live-cricket-scores/104050/sytw-vs-prsw-16th-match-t20-spring-challenge "Sydney Thunder Women v Perth Scorchers Women, 16th Match - Upcoming")
     
     16th Match
+    
+* [Sydney Thunder Women vs Sydney Sixers Women](https://www.cricbuzz.com/live-cricket-scores/104059/sytw-vs-sysw-17th-match-t20-spring-challenge "Sydney Thunder Women v Sydney Sixers Women, 17th Match - Upcoming")
+    
+    17th Match
     
 * Bulgaria Women tour of Serbia
     
@@ -629,41 +621,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132023/shakib-joins-chattogram-kings-for-upcoming-edition-of-bpl "Shakib joins Chattogram Kings for upcoming edition of BPL ")
+
+[Shakib joins Chattogram Kings for upcoming edition of BPL](https://www.cricbuzz.com/cricket-news/132023/shakib-joins-chattogram-kings-for-upcoming-edition-of-bpl "Shakib joins Chattogram Kings for upcoming edition of BPL ")
+
+7m ago
+
   [](https://www.cricbuzz.com/cricket-news/132022/new-zealand-seal-semis-berth-after-blowing-away-pakistan-with-the-ball "New Zealand seal semis berth after blowing away Pakistan with the ball")
 
 [New Zealand seal semis berth after blowing away Pakistan with the ball](https://www.cricbuzz.com/cricket-news/132022/new-zealand-seal-semis-berth-after-blowing-away-pakistan-with-the-ball "New Zealand seal semis berth after blowing away Pakistan with the ball")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132021/bcci-does-away-with-impact-player-rule-in-smat "BCCI does away with Impact Player rule in SMAT, two-bouncer rule retained")
 
 [BCCI does away with Impact Player rule in SMAT, two-bouncer rule retained](https://www.cricbuzz.com/cricket-news/132021/bcci-does-away-with-impact-player-rule-in-smat "BCCI does away with Impact Player rule in SMAT, two-bouncer rule retained")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132020/ranji-highlights-baroda-kerala-tamil-nadu-register-big-wins "Ranji Highlights: Baroda, Kerala, Tamil Nadu register big wins")
 
 [Ranji Highlights: Baroda, Kerala, Tamil Nadu register big wins](https://www.cricbuzz.com/cricket-news/132020/ranji-highlights-baroda-kerala-tamil-nadu-register-big-wins "Ranji Highlights: Baroda, Kerala, Tamil Nadu register big wins")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132019/pcb-issues-show-cause-notice-to-fakhar-zaman-over-his-remarks-on-babars-exclusion "PCB issues show cause notice to Fakhar Zaman over his remarks on Babar's exclusion")
 
 [PCB issues show cause notice to Fakhar Zaman over his remarks on Babar's exclusion](https://www.cricbuzz.com/cricket-news/132019/pcb-issues-show-cause-notice-to-fakhar-zaman-over-his-remarks-on-babars-exclusion "PCB issues show cause notice to Fakhar Zaman over his remarks on Babar's exclusion")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132018/its-the-first-time-ill-ever-be-playing-on-a-used-pitch-in-a-test-series-stokes "It's the first time I'll ever be playing on a used pitch in a Test series: Stokes")
 
 [It's the first time I'll ever be playing on a used pitch in a Test series: Stokes](https://www.cricbuzz.com/cricket-news/132018/its-the-first-time-ill-ever-be-playing-on-a-used-pitch-in-a-test-series-stokes "It's the first time I'll ever be playing on a used pitch in a Test series: Stokes")
 
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132017/desperate-pakistan-hope-drastic-measures-have-a-quick-payoff "Desperate Pakistan hope drastic measures have a quick payoff")
-
-[Desperate Pakistan hope drastic measures have a quick payoff](https://www.cricbuzz.com/cricket-news/132017/desperate-pakistan-hope-drastic-measures-have-a-quick-payoff "Desperate Pakistan hope drastic measures have a quick payoff")
-
-8h ago
+12h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
