@@ -1,7 +1,7 @@
 Terms and Conditions of Service
 ===============================
 
-LAST UPDATED: 05/31/2024
+LAST UPDATED: 10/15/2024
 
 This page describes the Terms and Conditions of Service that govern your use of this website and certain products, site-related services (including the content and code related thereto) offered by Dice Inc. (“Dice” or “Company” or “We” or “Us” or “Our”). We provide this website and all site related services including the content and code related there to (collectively “Site”) subject to your compliance with these Terms and Conditions of Service (the “Agreement”). 
 
@@ -250,7 +250,7 @@ West Des Moines, IA 50266
 ATTN: Legal  
 Email: [legal@dhigroupinc.com](mailto:legal@dhigroupinc.com)
 
-For notices related to automatic renewal, please email ContractRequests@dhigroupinc.com.
+For notices related to automatic renewal, please email [contractrequest@dhigroupinc.com](mailto:contractrequest@dhigroupinc.com "mailto:contractrequest@dhigroupinc.com")
 
 16\. Legal Notices 
 
