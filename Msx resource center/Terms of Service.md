@@ -153,9 +153,10 @@ Latest reactions
 
 Latest forum posts
 
-* [F4/FMPAC V2.0 for Omega amp circuit not working](https://www.msx.org/forum/msx-talk/hardware/f4fmpac-for-omega-amp-circuit-not-working "F4/FMPAC V2.0 for Omega amp circuit not working")
 * [Help with Spectravideo SVI-727 80 column cartidge!!!](https://www.msx.org/forum/msx-talk/hardware/help-spectravideo-svi-727-80-column-cartidge?page=2 "Help with Spectravideo SVI-727 80 column cartidge!!!")
+* [F4/FMPAC V2.0 for Omega amp circuit not working](https://www.msx.org/forum/msx-talk/hardware/f4fmpac-for-omega-amp-circuit-not-working "F4/FMPAC V2.0 for Omega amp circuit not working")
 * [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=100 "The Big MegaFlashROM SCC+ SD Topic")
+* [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=29 "A new MSX (3?) for 2022 ?")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=15 "Full English translation of Illusion City for MSX Turbo-R")
 * [Aleste 2 tips?](https://www.msx.org/forum/msx-talk/software/aleste-2-tips "Aleste 2 tips?")
 * [Disable floppy drive](https://www.msx.org/forum/msx-talk/openmsx/disable-floppy-drive "Disable floppy drive ")
@@ -165,7 +166,6 @@ Latest forum posts
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
 * [The Stone of Wisdom Remake](https://www.msx.org/forum/msx-talk/general-discussion/the-stone-of-wisdom-remake "The Stone of Wisdom Remake")
 * [Hello World](https://www.msx.org/forum/msx-talk/off-topic/hello-world "Hello World")
-* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=1 "RIP Fabio Belavenuto")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
