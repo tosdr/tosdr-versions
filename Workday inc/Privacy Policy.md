@@ -423,7 +423,7 @@ Skip to main content
 Workday Privacy Statement
 =========================
 
-Effective: August 19, 2024
+Effective: October 8, 2024
 
 [Previous Version of Our Privacy Statement](https://www.workday.com/en-us/privacy/archive/privacy-policy-archive-20230818.html)  
 
@@ -601,9 +601,7 @@ Certifications.
 
 **Data Privacy Framework.**
 
-Workday adheres to the principles of the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Workday relies on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF as a legal basis for transfers of personal information. To learn more, visit our Data Privacy Framework Notice [here](https://www.workday.com/en-us/privacy/data-privacy-framework-notice.html).
-
-Workday will rely on the Swiss-U.S. DPF as a legal basis to transfer personal information from Switzerland once the applicable local authority approves the Adequacy Decision. In the meantime, Workday continues to rely on the SCCs for the purposes of Swiss data protection law. See more in International Data Transfers above.
+Workday adheres to the principles of the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Workday relies on the EU-U.S. DPF, the UK Extension and the Swiss-U.S. DPF as a legal basis for transfers of personal information. To learn more, visit our Data Privacy Framework Notice [here](https://www.workday.com/en-us/privacy/data-privacy-framework-notice.html).
 
 **APEC Cross-Border Privacy Rules System.**
 
