@@ -572,6 +572,10 @@ MENU MENU
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
+    October 13, 2024
+    
+    [Remarks by Deputy Secretary of the Treasury Wally Adeyemo on Inflation Reduction Act Technical Assistance](https://home.treasury.gov/news/press-releases/jy2647)
+    
     October 11, 2024
     
     [Remarks by Under Secretary for International Affairs Jay Shambaugh on the Essential Role of the International Financial Institutions for the Global and U.S. Economies](https://home.treasury.gov/news/press-releases/jy2643)
@@ -579,10 +583,6 @@ MENU MENU
     October 10, 2024
     
     [Remarks by Deputy Secretary of the Treasury Wally Adeyemo at Press Conference at the Department of Justice](https://home.treasury.gov/news/press-releases/jy2640)
-    
-    October 9, 2024
-    
-    [Remarks by Under Secretary for Domestic Finance Nellie Liang “Modernizing the Regulatory Framework for Domestic Payments” at the Chicago Payments Symposium, hosted by the Federal Reserve Bank of Chicago](https://home.treasury.gov/news/press-releases/jy2639)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
