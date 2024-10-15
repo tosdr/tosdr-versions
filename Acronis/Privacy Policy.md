@@ -131,6 +131,8 @@ Menu Close
     
     [Acronis Cyber Protect](https://www.acronis.com/en-us/products/cyber-protect/)
     
+    New release
+    
     Complete cyber resilience for small business, including backup and DR, anti-malware and remote endpoint monitoring.
     
     * [Try it free](https://www.acronis.com/en-us/products/cyber-protect/trial/)
