@@ -24,7 +24,7 @@ Previous
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
 
-Latest
+New
 
 It’s your hearing. Let’s make the most of it.
 ---------------------------------------------
@@ -150,13 +150,13 @@ Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watc
     With our **Premium Package**, get a 3-year comprehensive virtual care plan with our Audiology Team (aka no office visits).
     
 
-* [Latest
+* [New
     
     ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es500-home-bundle.3f699127.png)
     
     **Enhance Select 500**Our smallest, most advanced hearing aids. Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,795 - $1,995  
     or as low as $58/mo per pair\*](https://www.listenlively.com/product/enhanceselect500)
-* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle-test-variant.23ae3568.png)
+* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle.e9cd8a33.png)
     
     **Enhance Select 300**Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,495 - $1,695  
     or as low as $49/mo per pair\*](https://www.listenlively.com/product/enhanceselect300)
