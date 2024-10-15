@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Georgia Judge Rules County Officials Can’t Delay, Decline to Certify Election Results](https://www.theepochtimes.com/us/georgia-judge-rules-county-officials-cant-delay-decline-to-certify-election-results-5741692)
+    
+    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    
+    [![Georgia Judge Rules County Officials Can’t Delay, Decline to Certify Election Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Georgia Judge Rules County Officials Can’t Delay, Decline to Certify Election Results](https://img.theepochtimes.com/assets/uploads/2022/11/16/mcburney-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-rules-county-officials-cant-delay-decline-to-certify-election-results-5741692)
+* [Supreme Court Overturns Ruling on Pennsylvania Law Allowing People Between 18 and 21 to Carrying Guns](https://www.theepochtimes.com/us/supreme-court-overturns-ruling-on-pennsylvania-law-allowing-people-under-21-to-carrying-guns-5741673)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Supreme Court Overturns Ruling on Pennsylvania Law Allowing People Between 18 and 21 to Carrying Guns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Supreme Court Overturns Ruling on Pennsylvania Law Allowing People Between 18 and 21 to Carrying Guns](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737019-10072024-L1160066-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-overturns-ruling-on-pennsylvania-law-allowing-people-under-21-to-carrying-guns-5741673)
+* [Lake, Gallego Vie to Represent Arizona in Senate](https://www.theepochtimes.com/us/lake-gallego-vie-to-represent-arizona-in-senate-5741533)
+    
+    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    
+    [![Lake, Gallego Vie to Represent Arizona in Senate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Lake, Gallego Vie to Represent Arizona in Senate](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739589-Arizona-debate-AP24284085361794-205x123.jpg.webp)](https://www.theepochtimes.com/us/lake-gallego-vie-to-represent-arizona-in-senate-5741533)
+* [Walgreens Announces It Will Close 1,200 Stores Across US by 2027](https://www.theepochtimes.com/business/walgreens-announces-it-will-close-1200-stores-across-us-by-2027-post-5741614)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Walgreens Announces It Will Close 1,200 Stores Across US by 2027](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Walgreens Announces It Will Close 1,200 Stores Across US by 2027](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741679-2022-04-11T102159Z_2_LYNXNPEI3A0BC_RTROPTP_4_FLORIDA-OPIOIDS-LITIGATION-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/walgreens-announces-it-will-close-1200-stores-across-us-by-2027-post-5741614)
+* [Fed Governor Seeks ‘More Caution’ on Rate Cuts](https://www.theepochtimes.com/business/fed-governor-seeks-more-caution-on-rate-cuts-5741581)
+    
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Fed Governor Seeks ‘More Caution’ on Rate Cuts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Fed Governor Seeks ‘More Caution’ on Rate Cuts](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741680-Christopher-Waller-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/fed-governor-seeks-more-caution-on-rate-cuts-5741581)
+* [Polish Lawmakers Push Back After Prime Minister Suspends Right to Asylum](https://www.theepochtimes.com/world/polish-lawmakers-push-back-after-prime-minister-suspends-right-to-asylum-5741534)
+    
+    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![Polish Lawmakers Push Back After Prime Minister Suspends Right to Asylum](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Polish Lawmakers Push Back After Prime Minister Suspends Right to Asylum](https://img.theepochtimes.com/assets/uploads/2024/04/15/id5629375-2024-04-10T160449Z_1_LYNXNPEK390RB_RTROPTP_4_UKRAINE-CRISIS-GERMANY-FRANCE-POLAND-205x123.jpg.webp)](https://www.theepochtimes.com/world/polish-lawmakers-push-back-after-prime-minister-suspends-right-to-asylum-5741534)
+* [UN Says It Will Not Withdraw Peacekeepers From Southern Lebanon](https://www.theepochtimes.com/world/un-says-it-will-not-withdraw-peacekeepers-from-southern-lebanon-5741539)
+    
+    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![UN Says It Will Not Withdraw Peacekeepers From Southern Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![UN Says It Will Not Withdraw Peacekeepers From Southern Lebanon](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741678-GettyImages-2176702516-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/un-says-it-will-not-withdraw-peacekeepers-from-southern-lebanon-5741539)
 * [G20 Meeting to Look at Introducing Wealth Tax for Billionaires](https://www.theepochtimes.com/world/g20-meeting-to-look-at-introducing-wealth-tax-for-billionaires-5740992)
     
-    1hr By [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor), Special to The Epoch Times
+    7hr By [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor), Special to The Epoch Times
     
     [![G20 Meeting to Look at Introducing Wealth Tax for Billionaires](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![G20 Meeting to Look at Introducing Wealth Tax for Billionaires](https://img.theepochtimes.com/assets/uploads/2024/10/id5739708-1.tagreuters.com2024binary_LYNXMPEK990VL-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/world/g20-meeting-to-look-at-introducing-wealth-tax-for-billionaires-5740992)
+    ![G20 Meeting to Look at Introducing Wealth Tax for Billionaires](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741608-1.tagreuters.com2024binary_LYNXMPEK990VL-FILEDIMAGE-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/g20-meeting-to-look-at-introducing-wealth-tax-for-billionaires-5740992)
 * [Property Manager Accuses Venezuelan Gang of Taking Control of Aurora Apartments, Attempting Extortion](https://www.theepochtimes.com/us/property-manager-accuses-venezuelan-gang-of-taking-control-of-aurora-apartments-attempting-extortion-5741333)
     
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Property Manager Accuses Venezuelan Gang of Taking Control of Aurora Apartments, Attempting Extortion](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Property Manager Accuses Venezuelan Gang of Taking Control of Aurora Apartments, Attempting Extortion](https://img.theepochtimes.com/assets/uploads/2024/09/08/id5720221-20240830_1400180-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/property-manager-accuses-venezuelan-gang-of-taking-control-of-aurora-apartments-attempting-extortion-5741333)
 * [Hardware Wholesaler True Value Files for Bankruptcy, Plans Sale to Rival Chain](https://www.theepochtimes.com/us/hardware-wholesaler-true-value-files-for-bankruptcy-plans-sale-to-rival-chain-5741387)
     
-    7hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
+    13hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
     
     [![Hardware Wholesaler True Value Files for Bankruptcy, Plans Sale to Rival Chain](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Hardware Wholesaler True Value Files for Bankruptcy, Plans Sale to Rival Chain](https://img.theepochtimes.com/assets/uploads/2015/09/Chasteen_Small-Business-Hardware_013012-205x123.jpg.webp)](https://www.theepochtimes.com/us/hardware-wholesaler-true-value-files-for-bankruptcy-plans-sale-to-rival-chain-5741387)
-* [TikTok Mired in Legal Battles as Deadline Looms Over Ban](https://www.theepochtimes.com/article/tiktok-mired-in-legal-battles-as-deadline-looms-over-ban-5733972)
-    
-    9hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![TikTok Mired in Legal Battles as Deadline Looms Over Ban](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![TikTok Mired in Legal Battles as Deadline Looms Over Ban](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741231-Tiktok-threat-6-205x123.jpg.webp)](https://www.theepochtimes.com/article/tiktok-mired-in-legal-battles-as-deadline-looms-over-ban-5733972)
-* [UN, Israel Trade Accusations Over Tank Attack](https://www.theepochtimes.com/world/un-israel-trade-accusations-over-tank-attack-5741259)
-    
-    10hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
-    
-    [![UN, Israel Trade Accusations Over Tank Attack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![UN, Israel Trade Accusations Over Tank Attack](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741192-GettyImages-2176702516-205x123.jpg.webp)](https://www.theepochtimes.com/world/un-israel-trade-accusations-over-tank-attack-5741259)
-* [National Polls Show Trump Gaining Ground in Final Election Stretch](https://www.theepochtimes.com/us/national-polls-show-trump-gaining-ground-in-final-election-stretch-5741313)
-    
-    10hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![National Polls Show Trump Gaining Ground in Final Election Stretch](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![National Polls Show Trump Gaining Ground in Final Election Stretch](https://img.theepochtimes.com/assets/uploads/2024/10/id5740954-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/national-polls-show-trump-gaining-ground-in-final-election-stretch-5741313)
-* [OPEC Cuts Oil Demand Growth Forecast for 3rd Straight Month Amid Economic Uncertainty, Weak Market Sentiment](https://www.theepochtimes.com/business/opec-cuts-oil-demand-growth-forecast-for-3rd-straight-month-amid-economic-uncertainty-weak-market-sentiment-5741237)
-    
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![OPEC Cuts Oil Demand Growth Forecast for 3rd Straight Month Amid Economic Uncertainty, Weak Market Sentiment](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![OPEC Cuts Oil Demand Growth Forecast for 3rd Straight Month Amid Economic Uncertainty, Weak Market Sentiment](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5723568-Oil-Platform_JF_09122024-205x123.jpg.webp)](https://www.theepochtimes.com/business/opec-cuts-oil-demand-growth-forecast-for-3rd-straight-month-amid-economic-uncertainty-weak-market-sentiment-5741237)
-* [Day in Photos: Escalated Dispute, Investment Summit, and Wildlife Release](https://www.theepochtimes.com/article/day-in-photos-escalated-dispute-investment-summit-and-wildlife-release-5740941)
-    
-    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Escalated Dispute, Investment Summit, and Wildlife Release](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Escalated Dispute, Investment Summit, and Wildlife Release](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741305-AP24288611683025-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-escalated-dispute-investment-summit-and-wildlife-release-5740941)
-* [Judge Rejects Arizona Group’s Bid to Investigate Citizenship of 42,000 Federal-Only Voters](https://www.theepochtimes.com/us/judge-rejects-arizona-groups-bid-to-investigate-citizenship-of-42000-federal-only-voters-5741086)
-    
-    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Judge Rejects Arizona Group’s Bid to Investigate Citizenship of 42,000 Federal-Only Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Judge Rejects Arizona Group’s Bid to Investigate Citizenship of 42,000 Federal-Only Voters](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739768-AZ-Early-Voting-iii_JF_10102024-LS-205x123.webp)](https://www.theepochtimes.com/us/judge-rejects-arizona-groups-bid-to-investigate-citizenship-of-42000-federal-only-voters-5741086)
-* [Man Arrested for Allegedly Threatening FEMA Workers in North Carolina, Officials Say](https://www.theepochtimes.com/us/man-arrested-for-allegedly-threatening-fema-workers-in-north-carolina-officials-say-5741146)
-    
-    14hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Man Arrested for Allegedly Threatening FEMA Workers in North Carolina, Officials Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Man Arrested for Allegedly Threatening FEMA Workers in North Carolina, Officials Say](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741304-GettyImages-2176738879KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/man-arrested-for-allegedly-threatening-fema-workers-in-north-carolina-officials-say-5741146)
+    ![Hardware Wholesaler True Value Files for Bankruptcy, Plans Sale to Rival Chain](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741607-Chasteen_Small-Business-Hardware_013012-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/hardware-wholesaler-true-value-files-for-bankruptcy-plans-sale-to-rival-chain-5741387)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
