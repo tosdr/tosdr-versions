@@ -46,7 +46,7 @@ Foster understanding and knowledgeWe conduct research and advance knowledge on t
 How we do it
 ------------
 
-We operate through the Tactical Tech Studio focused on Digital Literacy, and the Tactical Tech Institute for Digital Investigation.
+We operate through the Tactical Tech Studio focused on Digital Literacy, and the Tactical Tech Institute focused on advancing knowledge on the intersection between tech and society.
 
 * ![The Glass Room: Misinformation Edition, Khoj Studios, New Delhi,
     2023. Image courtesy of Khoj International Artists' Association.](https://cdn.ttc.io/i/fit/16/0/sm/0/plain/tacticaltech.org/website2023/Homepage/home_card_studio.jpg)
@@ -60,10 +60,10 @@ We operate through the Tactical Tech Studio focused on Digital Literacy, and the
     
 * ![Person reading the Exposing the Invisible Kit](https://cdn.ttc.io/i/fit/16/0/sm/0/plain/tacticaltech.org/website2023/Homepage/home_card_institute.jpg)
     
-    [Tactical Tech Institute for Digital Investigation: Advancing understanding, skills and capacity of civil society
-    ----------------------------------------------------------------------------------------------------------------](https://tacticaltech.org/projects/)
+    [Tactical Tech Institute: Advancing understanding, skills and capacity of civil society
+    --------------------------------------------------------------------------------------](https://tacticaltech.org/projects/)
     
-    Our Institute for Digital Investigation is a center of excellence dedicated to advancing understanding and skills within civil society through investigation, resource development, and skill-sharing. We build networks and foster critical skills among NGOs, journalists, and researchers, addressing the interplay between technology, power, and crises. Our proven collaborative and participatory approaches enable organizations to produce new research, test investigative methodologies, and build individuals' and communities' capacity.
+    Our Institute is a center of excellence dedicated to advancing understanding and skills within civil society through investigation, resource development, and skill-sharing. We build networks and foster critical skills among NGOs, journalists, and researchers, addressing the interplay between technology, power, and crises. Our proven collaborative and participatory approaches enable organizations to produce new research, test investigative methodologies, and build individuals' and communities' capacity.
     
     [Learn more →](https://tacticaltech.org/projects/)
     
@@ -123,7 +123,7 @@ Our projects
     
 * ![People using the Exposing The Invisible kit](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/2our-projects-eti-card4.jpg)
     
-    * INSTITUTE FOR DIGITAL INVESTIGATION
+    * INSTITUTE
     
     [### Exposing The Invisible: Advancing the investigative community's capacity](https://tacticaltech.org/projects/exposing-the-invisible/)
     
@@ -133,7 +133,7 @@ Our projects
     
 * ![User exploring The Influence Industry Project website](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/our-projects-tiip-card4.jpg)
     
-    * INSTITUTE FOR DIGITAL INVESTIGATION
+    * INSTITUTE
     
     [### The Influence Industry Project: Understanding the industry behind our opinions](https://tacticaltech.org/projects/the-influence-industry/)
     
