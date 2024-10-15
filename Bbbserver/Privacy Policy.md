@@ -259,7 +259,7 @@ Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSG
 
 Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
-### 5.2.5         Registrierung auf dieser Website
+### 5.2.5         Registrierung und Anmeldung auf dieser Website
 
 Zutreffend: auf Schutzebene "Plattform"
 
@@ -270,6 +270,20 @@ Für wichtige Änderungen etwa beim Angebotsumfang oder bei technisch notwendige
 Die Verarbeitung der bei der Registrierung eingegebenen Daten erfolgt zum Zwecke der Durchführung des durch die Registrierung begründeten Nutzungsverhältnisses und ggf. zur Anbahnung weiterer Verträge (Art. 6 Abs. 1 lit. b DSGVO).
 
 Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Sie auf dieser Website registriert sind und werden anschließend gelöscht. Gesetzliche Aufbewahrungsfristen bleiben unberührt.
+
+#### 5.2.5.1      Login mit E-Mail-Adresse und Passwort
+
+Wenn Sie sich auf dieser Webseite registrieren möchten, können Sie zur Authentifizierung ihre E-Mail-Adresse und ein Passwort verwenden. Ggf. werden wir ihre E-Mail-Adresse durch Übersendung eines Verifikationslinks überprüfen.
+
+#### 5.2.5.2      Login mit Microsoft / Login mit Google
+
+Wenn Sie sich auf dieser Webseite registrieren möchten, können Sie zur Authentifizierung die Funktion "Login mit Microsoft" oder "Login mit Google" verwenden. Sie werden dann auf die externe Webseite des jeweiligen Anbieters weitergeleitet, um sich dort mit Ihren dort bereits bestehenden Zugangsdaten anzumelden und eine Zustimmung zum Teilen von Name und E-Mailadresse zu erteilen. Anschließend werden Sie zurück auf unsere Webseite weitergeleitet.
+
+**Welche Daten senden wir an Microsoft oder Google?**  
+Wir leiten Sie lediglich auf die Webseite des jeweiligen Anbieters weiter, wodurch dieser ggf. ihre IP-Adresse sehen kann. Auch die Information, dass Sie sich über uns anmelden möchten, wird übermittelt. Wir leiten ansonsten keinerlei Daten von Ihnen an Microsoft oder Google weiter.
+
+**Welche Daten erhalten wir von Microsoft oder Google?**  
+Wir nutzen lediglich ihre bei den externen Diensten gespeicherte E-Mail-Adresse und ihren Namen, um Ihnen bei uns ein Benutzerkonto zu registrieren. Andere Daten aus ihren beim externen Anbieter hinterlegten Daten nutzen wir nicht.
 
 ### 5.2.6         Analyse-Tools und Werbung
 
