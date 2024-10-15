@@ -180,9 +180,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Unlock the power of first-party data and transform compliance into competitive advantage](https://www.onetrust.com/resources/unlock-the-power-of-first-party-data-and-transform-compliance-into-competitive-advantage-ebook/)
 * [Getting started with GDPR compliance](https://www.onetrust.com/resources/getting-started-with-gdpr-compliance-ebook/)
 * [GDPR compliance checklist](https://www.onetrust.com/resources/gdpr-compliance-checklist/)
-* [OneTrust & Adobe: The power of permission-based personalization](https://www.onetrust.com/resources/onetrust-and-adobe-the-power-of-permission-based-personalization-webinar/)
 
 ### Platform
 
