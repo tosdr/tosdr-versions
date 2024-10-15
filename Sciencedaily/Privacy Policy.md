@@ -228,9 +228,9 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
-
 [Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
+
+[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
 
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
@@ -238,17 +238,17 @@ this week
 
 [Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
-[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
-
 [Neural Interfaces](https://www.sciencedaily.com/news/computers_math/neural_interfaces/)
+
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
+[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
 [Human Evolution](https://www.sciencedaily.com/news/fossils_ruins/human_evolution/)
 
-[Snow and Avalanches](https://www.sciencedaily.com/news/earth_climate/snow_and_avalanches/)
+[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
   
 
