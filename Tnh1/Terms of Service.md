@@ -18,7 +18,19 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Mais de 40 kg de drogas são apreendidos em casa abandonada; suspeitos fugiram](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_40kg-drogas-apreendidos-cha-da-jaqueira_0137ea2b60.jpg)
+   [![Moradores do Bom Parto bloqueiam rua em protesto por falta d'água ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/7/csm_protesto-moradores-bom-parto-reproducao-tv-pajucara_d2f5842083.png)
+
+Na Cambona
+
+Moradores do Bom Parto bloqueiam rua em protesto por falta d'água](https://www.tnh1.com.br/noticia/nid/moradores-do-bom-parto-bloqueiam-rua-em-protesto-por-falta-dagua/ "Moradores do Bom Parto bloqueiam rua em protesto por falta d'água ")   [![Sem doses do imunizante, Maceió suspende vacinação contra Covid 19 para todos os públicos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/a/csm_Cartao_de_vacina_011d986d4f.jpg)
+
+Maceió
+
+Sem doses do imunizante, Maceió suspende vacinação contra Covid 19 para todos os públicos](https://www.tnh1.com.br/noticia/nid/sem-doses-do-imunizante-maceio-suspende-vacinacao-contra-covid-19-para-todos-os-publicos/ "Sem doses do imunizante, Maceió suspende vacinação contra Covid 19 para todos os públicos")   [![Empresa clandestina de segurança é autuada pela PF em rancho no bairro de Ipioca ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_ed79c6d1ab.jpg)
+
+operação em maceió
+
+Empresa clandestina de segurança é autuada pela PF em rancho no bairro de Ipioca](https://www.tnh1.com.br/noticia/nid/empresa-clandestina-de-seguranca-e-autuada-pela-pf-em-rancho-no-bairro-de-ipioca/ "Empresa clandestina de segurança é autuada pela PF em rancho no bairro de Ipioca ")   [![Mais de 40 kg de drogas são apreendidos em casa abandonada; suspeitos fugiram](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_40kg-drogas-apreendidos-cha-da-jaqueira_0137ea2b60.jpg)
 
 Em Bebedouro
 
@@ -30,19 +42,7 @@ PM registra dois casos de idosos que foram espancados pelos filhos nas últimas 
 
 Grande susto!
 
-Vídeo: carro é atingido por VLT após invadir linha férrea na Levada; motorista ficou ferido](https://www.tnh1.com.br/noticia/nid/video-carro-e-atingido-por-vlt-apos-invadir-linha-ferrea-na-levada-motorista-ficou-ferido/ "Vídeo: carro é atingido por VLT após invadir linha férrea na Levada; motorista ficou ferido")   [![Contador de história leva apresentação para crianças em tratamento oncológico](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/a/csm_entretenimento_criancas_hospital_ascom_7dc2d0e727.jpg)
-
-em maceió
-
-Contador de história leva apresentação para crianças em tratamento oncológico](https://www.tnh1.com.br/noticia/nid/contador-de-historia-leva-apresentacao-para-criancas-em-tratamento-oncologico/ "Contador de história leva apresentação para crianças em tratamento oncológico")   [![Caso Braskem: MPF e MP/AL realizam inspeção nas obras de revitalização dos Flexais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/0/csm_inspecao_Flexais_MPF_AL_a374d9bc2b.jpeg)
-
-cronograma ajustado
-
-Caso Braskem: MPF e MP/AL realizam inspeção nas obras de revitalização dos Flexais](https://www.tnh1.com.br/noticia/nid/caso-braskem-mpf-e-mpal-realizam-inspecao-nas-obras-de-revitalizacao-dos-flexais/ "Caso Braskem: MPF e MP/AL realizam inspeção nas obras de revitalização dos Flexais")   [![Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/3/csm_csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_b134dc68b3_393dcfe611.jpeg)
-
-Disputa por tráfico
-
-Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado](https://www.tnh1.com.br/noticia/nid/homem-que-usou-farda-do-bope-para-assaltar-joalheria-e-indiciado-por-assassinato-no-prado/ "Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinato no Prado")
+Vídeo: carro é atingido por VLT após invadir linha férrea na Levada; motorista ficou ferido](https://www.tnh1.com.br/noticia/nid/video-carro-e-atingido-por-vlt-apos-invadir-linha-ferrea-na-levada-motorista-ficou-ferido/ "Vídeo: carro é atingido por VLT após invadir linha férrea na Levada; motorista ficou ferido")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,7 +50,19 @@ Homem que usou farda do Bope para assaltar joalheria é indiciado por assassinat
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/5/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_2a8413dbf9.png)
+   [![MPAL cobra implementação de câmeras corporais nos policiais militares](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/0/csm_reuniao_mp_ascom_9769df3179.jpg)
+
+durante reunião
+
+MPAL cobra implementação de câmeras corporais nos policiais militares](https://www.tnh1.com.br/noticia/nid/mpal-cobra-implementacao-de-cameras-corporais-nos-policiais-militares/ "MPAL cobra implementação de câmeras corporais nos policiais militares")   [![Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (16)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/9/csm_previsao-tempo-alagoas-reproducao-semarh_606ebfacbe.png)
+
+Meteorologia
+
+Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (16)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-quarta-feira-16/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (16)")   [![Manutenção em estação de tratamento suspende abastecimento de água em Traipu nesta quarta](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/b/csm_ETA_Traipu_Reproducao_fdd230b1a3.jpg)
+
+Alagoas
+
+Manutenção em estação de tratamento suspende abastecimento de água em Traipu nesta quarta](https://www.tnh1.com.br/noticia/nid/manutencao-em-estacao-de-tratamento-suspende-abastecimento-de-agua-em-traipu-nesta-quarta/ "Manutenção em estação de tratamento suspende abastecimento de água em Traipu nesta quarta")   [![Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/5/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_2a8413dbf9.png)
 
 Meteorologia
 
@@ -62,19 +74,7 @@ Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas 
 
 sortudos
 
-Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro](https://www.tnh1.com.br/noticia/nid/conheca-os-ganhadores-do-alagoas-da-sorte-deste-domingo-13-de-outubro/ "Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ")   [![Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/0/csm_csm_Praia_de_Maceio_-_foto_Emile_ValoesAscom_Semtel_b5dded546e_6f35563d41.jpeg)
-
-Alagoas
-
-Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/praia-no-domingao-veja-os-trechos-proprios-para-banho-no-litoral-de-alagoas/ "Praia no domingão? Veja os trechos próprios para banho no litoral de Alagoas")   [![Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/2/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_ad9da6f477.png)
-
-Meteorologia
-
-Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-veja-como-deve-ficar-o-tempo-em-alagoas-neste-fim-de-semana/ "Sol ou chuva? Veja como deve ficar o tempo em Alagoas neste fim de semana")   [![Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/5/csm_Onda_calor_-_Freepik_c60e743d3d.jpg)
-
-até domingo
-
-Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://www.tnh1.com.br/noticia/nid/inmet-emite-alerta-de-onda-de-calor-para-38-cidades-de-alagoas-veja-quais/ "Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais")
+Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro](https://www.tnh1.com.br/noticia/nid/conheca-os-ganhadores-do-alagoas-da-sorte-deste-domingo-13-de-outubro/ "Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,7 +82,19 @@ Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](http
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Motociclista é parado pela PRF e acaba preso suspeito de homicídio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_prisao_PRF_929d98ad57.jpeg)
+   [![Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/e/csm_csm_Com_inscricoes_abertas__concurso_da_Policia_Civil_oferece_500_vagas_para_quadro_efetivo_Marcio_Ferreira_7c7fabf143_757f59d462.jpg)
+
+No Agreste
+
+Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas](https://www.tnh1.com.br/noticia/nid/dois-homens-sao-presos-suspeitos-de-estuprar-crianca-de-10-anos-em-craibas/ "Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas")   [![Veja o que se sabe sobre morte de bebê de um mês de vida no interior Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/b/csm_viatura_policiacivil_bd1008e0bc.jpeg)
+
+ibateguara
+
+Veja o que se sabe sobre morte de bebê de um mês de vida no interior Alagoas](https://www.tnh1.com.br/noticia/nid/veja-o-que-se-sabe-sobre-morte-de-bebe-de-um-mes-de-vida-no-interior-alagoas/ "Veja o que se sabe sobre morte de bebê de um mês de vida no interior Alagoas")   [![Empresa clandestina de segurança é autuada pela PF em rancho no bairro de Ipioca ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_ed79c6d1ab.jpg)
+
+operação em maceió
+
+Empresa clandestina de segurança é autuada pela PF em rancho no bairro de Ipioca](https://www.tnh1.com.br/noticia/nid/empresa-clandestina-de-seguranca-e-autuada-pela-pf-em-rancho-no-bairro-de-ipioca/ "Empresa clandestina de segurança é autuada pela PF em rancho no bairro de Ipioca ")   [![Motociclista é parado pela PRF e acaba preso suspeito de homicídio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_prisao_PRF_929d98ad57.jpeg)
 
 em rio largo
 
@@ -94,19 +106,7 @@ Motorista de ônibus é preso após policiais encontrarem 5kg de maconha no veí
 
 Matriz do Camaragibe
 
-Homem mata namorada a facadas durante briga por ciúmes, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-mata-namorada-a-facadas-durante-briga-por-ciumes-no-interior-de-alagoas/ "Homem mata namorada a facadas durante briga por ciúmes, no interior de Alagoas")   [![Homem é preso em MG por assassinato de vizinho no Sertão de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/4/csm_viatura_pc-al_-_foto_ascom_1180deb7a8.jpeg)
-
-20 anos depois
-
-Homem é preso em MG por assassinato de vizinho no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-em-mg-por-assassinato-de-vizinho-no-sertao-de-alagoas/ "Homem é preso em MG por assassinato de vizinho no Sertão de Alagoas")   [![Homem é morto com seis tiros dentro lanchonete no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/6/csm_morto-tiros-lanchonete-feira-grande_c96b3d95bf.jpg)
-
-feira grande
-
-Homem é morto com seis tiros dentro lanchonete no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-morto-com-seis-tiros-dentro-lanchonete-no-interior-de-alagoas/ "Homem é morto com seis tiros dentro lanchonete no interior de Alagoas")   [![Após troca de tiros, polícia prende suspeito de duplo homicídio ocorrido após atentado no Feitosa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/7/csm_atentado_feitosa_4_3d5b5eee76.png)
-
-Novo tiroteio
-
-Após troca de tiros, polícia prende suspeito de duplo homicídio ocorrido após atentado no Feitosa](https://www.tnh1.com.br/noticia/nid/apos-troca-de-tiros-policia-prende-suspeito-de-duplo-homicidio-ocorrido-apos-atentado-no-feitosa/ "Após troca de tiros, polícia prende suspeito de duplo homicídio ocorrido após atentado no Feitosa")
+Homem mata namorada a facadas durante briga por ciúmes, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-mata-namorada-a-facadas-durante-briga-por-ciumes-no-interior-de-alagoas/ "Homem mata namorada a facadas durante briga por ciúmes, no interior de Alagoas")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -232,39 +232,39 @@ Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira 
 
 Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-terca-feira-15/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)")
 
-[![Mortes e prejuízos: Aneel se compromete a prestar contas sobre apagão em São Paulo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/1/csm_apagao_sp_e3b9844d2e.png)
+[![Famílias protestam após mortes de adolescentes em perseguição policial: “não eram bandidos”](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/5/csm_protesto_colonia_cisp_e13a2de873.jpg)
 
-Investigações
+COLÔNIA LEOPOLDINA
 
-Investigações
+COLÔNIA LEOPOLDINA
 
-Mortes e prejuízos: Aneel se compromete a prestar contas sobre apagão em São Paulo
+Famílias protestam após mortes de adolescentes em perseguição policial: “não eram bandidos”
 
-Mortes e prejuízos: Aneel se compromete a prestar contas sobre apagão em São Paulo](https://www.tnh1.com.br/noticia/nid/mortes-e-prejuizos-aneel-se-compromete-a-prestar-contas-sobre-apagao-em-sao-paulo/ "Mortes e prejuízos: Aneel se compromete a prestar contas sobre apagão em São Paulo")[![Veja os riscos de rebaixamento e quem vive drama na Série B](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/5/csm_serieB_reproducao_c37dba0fe4.png)
+Famílias protestam após mortes de adolescentes em perseguição policial: “não eram bandidos”](https://www.tnh1.com.br/noticia/nid/familias-protestam-apos-mortes-de-adolescentes-em-perseguicao-policial-nao-eram-bandidos/ "Famílias protestam após mortes de adolescentes em perseguição policial: “não eram bandidos”")[![Moradores do Bom Parto bloqueiam rua em protesto por falta d'água ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/7/csm_protesto-moradores-bom-parto-reproducao-tv-pajucara_f09d70d649.png)
 
-Campeonato Brasileiro
+Na Cambona
 
-Campeonato Brasileiro
+Na Cambona
 
-Veja os riscos de rebaixamento e quem vive drama na Série B
+Moradores do Bom Parto bloqueiam rua em protesto por falta d'água
 
-Veja os riscos de rebaixamento e quem vive drama na Série B](https://www.tnh1.com.br/noticia/nid/veja-os-riscos-de-rebaixamento-e-quem-vive-drama-na-serie-b/ "Veja os riscos de rebaixamento e quem vive drama na Série B")[![Risco de rebaixamento do CRB cresce após derrota para o lanterna Guarani; veja números](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/a/csm_CRB-Guarani-Diogo_Reis_4606c4cc03.jpg)
+Moradores do Bom Parto bloqueiam rua em protesto por falta d'água](https://www.tnh1.com.br/noticia/nid/moradores-do-bom-parto-bloqueiam-rua-em-protesto-por-falta-dagua/ "Moradores do Bom Parto bloqueiam rua em protesto por falta d'água ")[![Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/e/csm_csm_Com_inscricoes_abertas__concurso_da_Policia_Civil_oferece_500_vagas_para_quadro_efetivo_Marcio_Ferreira_7c7fabf143_89232adf6f.jpg)
 
-Série B
+No Agreste
 
-Série B
+No Agreste
 
-Risco de rebaixamento do CRB cresce após derrota para o lanterna Guarani; veja números
+Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas
 
-Risco de rebaixamento do CRB cresce após derrota para o lanterna Guarani; veja números](https://www.tnh1.com.br/noticia/nid/risco-de-rebaixamento-do-crb-cresce-apos-derrota-para-o-lanterna-guarani-veja-numeros/ "Risco de rebaixamento do CRB cresce após derrota para o lanterna Guarani; veja números")[![Motociclista é parado pela PRF e acaba preso suspeito de homicídio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_prisao_PRF_8a873bda50.jpeg)
+Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas](https://www.tnh1.com.br/noticia/nid/dois-homens-sao-presos-suspeitos-de-estuprar-crianca-de-10-anos-em-craibas/ "Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas")[![Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/0/csm_acidente-transito-interior-alagoas-carro-forte-reproducao_47788fa884.jpeg)
 
-em rio largo
+acidente grave
 
-em rio largo
+acidente grave
 
-Motociclista é parado pela PRF e acaba preso suspeito de homicídio
+Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas
 
-Motociclista é parado pela PRF e acaba preso suspeito de homicídio](https://www.tnh1.com.br/noticia/nid/motociclista-e-parado-pela-prf-e-acaba-preso-suspeito-de-homicidio/ "Motociclista é parado pela PRF e acaba preso suspeito de homicídio")
+Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/tres-pessoas-morrem-e-uma-fica-ferida-apos-colisao-entre-veiculo-de-passeio-e-carro-forte-no-interior-de-alagoas/ "Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
