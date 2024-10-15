@@ -93,11 +93,11 @@ Search for:
 
 ### Recent Posts
 
+* [The Art of Choosing the Right Sedan for Your Needs](https://xworld.org/automotive/choosing-the-right-sedan-for-your-needs/)
 * [Loft Conversion Safety](https://xworld.org/home-improvement/loft-conversion-safety/)
 * [What is customer analytics?](https://xworld.org/business/what-is-customer-analytics/)
 * [Top yarn storage ideas to try](https://xworld.org/reviews/top-yarn-storage-ideas-to-try/)
 * [Why Play Rugby?](https://xworld.org/sports/why-play-rugby/)
-* [What are shin splints and how do they occur?](https://xworld.org/health/what-are-shin-splints-and-how-do-they-occur/)
 
 ### Categories
 
@@ -121,6 +121,7 @@ Search for:
 
 ### Archives
 
+* [October 2024](https://xworld.org/2024/10/)
 * [September 2024](https://xworld.org/2024/09/)
 * [August 2024](https://xworld.org/2024/08/)
 * [July 2024](https://xworld.org/2024/07/)
