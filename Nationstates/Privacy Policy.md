@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Remember, Remember… (438)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (438 posts)")
-* [Border Controls in YN (for people) (40)](https://forum.nationstates.net/viewtopic.php?t=554081&f=23&view=unread#unread ""Border Controls in YN (for people)" (40 posts)")
-* [Based on the Flag, which Hoi4 Kaiserr… (650)](https://forum.nationstates.net/viewtopic.php?t=544426&f=25&view=unread#unread ""Based on the Flag, which Hoi4 Kaiserreich ideology AN is?" (650 posts)")
-* [UK Politics Thread: Conservative Lead… (11,571)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,571 posts)")
-* [Determine if AN is left-wing or right… (88)](https://forum.nationstates.net/viewtopic.php?t=555285&f=25&view=unread#unread ""Determine if AN is left-wing or right-wing" (88 posts)")
+* [NS Cliches II: Re-Rebooted (9,864)](https://forum.nationstates.net/viewtopic.php?t=520417&f=25&view=unread#unread ""NS Cliches II: Re-Rebooted" (9,864 posts)")
+* [Fit ADi into YN's lore! (6)](https://forum.nationstates.net/viewtopic.php?t=556732&f=25&view=unread#unread ""Fit ADi into YN's lore!" (6 posts)")
+* [What Music Are You Listening to? v18 (11,929)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (11,929 posts)")
+* [Against the Practice of Trophy Regions (44)](https://forum.nationstates.net/viewtopic.php?t=556853&f=24&view=unread#unread ""Against the Practice of Trophy Regions" (44 posts)")
+* [Out of the 2 AN’s: Which one has the… (3,444)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (3,444 posts)")
 
 Advertisement
 
