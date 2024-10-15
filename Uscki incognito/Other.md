@@ -15,6 +15,7 @@
     * [Informatie (C)KI](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=wat_is_cki?&menu=Studie)
     * [Symposium](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Symposium&menu=Studie)
 * [Sponsoren](https://www.uscki.nl/?pagina=Sponsors)
+    * [Techniek Bedrijven](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=72)
     * [Joust](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=68)
     * [Drukbedrijf.nl](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=71)
     * [Formorrow](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=69)
@@ -290,6 +291,8 @@ Wijzigingen
 
 [Sponsoren
 ---------](https://www.uscki.nl/?pagina=Sponsors)
+
+[![](?pagina=Media/FileView&id=108303&size=normal)](https://www.techniekbedrijven.nl/)
 
 [![](?pagina=Media/FileView&id=104287&size=normal)](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=67)
 
