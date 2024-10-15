@@ -547,6 +547,6 @@ We use cookies to provide and improve our services. By using our site, you conse
         [More on MalCare Blog](https://www.malcare.com/blog/)
         
 
-[Login](https://app.malcare.com/users/signin?_ga=2.236146950.643564655.1670671798-1767542412.1660037458)
+[Sign Up ->](https://app.malcare.com/users/signup)
 
-[Try Malcare For Free](https://app.malcare.com/users/signup?_ga=2.165530815.1808041814.1671993325-1767542412.1660037458)
+[Login ->](https://app.malcare.com/users/signin)
