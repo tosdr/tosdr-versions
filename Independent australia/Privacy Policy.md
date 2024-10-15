@@ -179,13 +179,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [Keir Starmer's fungal ruination of UK Labour](https://independentaustralia.net/article-display/keir-starmers-fungal-ruination-of-uk-labour,19075 "Permanent Link : Keir Starmer's fungal ruination of UK Labour")
 * [Peter Greste aims to gatekeep journalists with proposed policing body](https://independentaustralia.net/article-display/peter-greste-aims-to-gatekeep-journalists-with-proposed-policing-body,19074 "Permanent Link : Peter Greste aims to gatekeep journalists with proposed policing body")
 * [Coverage of Trump voters shows who media thinks “matters”](https://independentaustralia.net/article-display/coverage-of-trump-voters-shows-who-media-thinks-matters,19073 "Permanent Link : Coverage of Trump voters shows who media thinks “matters”")
 * [Booming partner visa backlog will reduce migration opportunities for students](https://independentaustralia.net/article-display/booming-partner-visa-backlog-will-reduce-migration-opportunities-for-students,19072 "Permanent Link : Booming partner visa backlog will reduce migration opportunities for students")
 * [Labor turns nature summit into blatant act of hypocrisy](https://independentaustralia.net/article-display/labor-turns-nature-summit-into-blatant-act-of-hypocrisy,19071 "Permanent Link : Labor turns nature summit into blatant act of hypocrisy")
 * [The cost of living crisis is over — so why aren’t we all celebrating?](https://independentaustralia.net/article-display/the-cost-of-living-crisis-is-over-so-why-arent-we-all-celebrating,19068 "Permanent Link : The cost of living crisis is over — so why aren’t we all celebrating?")
 * [Parliamentary disability discourse reopening old wounds](https://independentaustralia.net/article-display/parliamentary-disability-discourse-reopening-old-wounds,19069 "Permanent Link : Parliamentary disability discourse reopening old wounds")
-* [POEM: The light in my left eye went away](https://independentaustralia.net/article-display/poem-the-light-in-my-left-eye-went-away,19066 "Permanent Link : POEM: The light in my left eye went away")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
