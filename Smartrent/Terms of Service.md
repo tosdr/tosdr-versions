@@ -153,12 +153,21 @@ Read More
 * #### Contact
     
 
-* [Resident Support](https://smartrent.com/support/)
+* [Support](https://smartrent.com/support/)
 * [Let's Talk](https://smartrent.com/contact-smartrent/demo/)
 * [Integrate with us](https://smartrent.com/contact-smartrent/integration-request/)
 * [Be a Partner](https://smartrent.com/customers/channel-partners-installers/)
 
-[#### Resident Support](https://smartrent.com/support/)[#### Login](https://control.smartrent.com/login)[#### Investors](https://investors.smartrent.com/overview/default.aspx)[Let's Talk](https://smartrent.com/contact-smartrent/demo/)
+[#### Support](https://smartrent.com/support/)
+
+* #### Login
+    
+
+* [SMRT Operations](https://app.sightplan.com/)
+* [SMRT Inspection](https://inspect.sightplan.com/)
+* [SMRT Communities](https://control.smartrent.com/)
+
+[#### Investors](https://investors.smartrent.com/overview/default.aspx)[Let's Talk](https://smartrent.com/contact-smartrent/demo/)
 
 ### Resident & Business
 
