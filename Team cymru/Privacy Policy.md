@@ -2,7 +2,7 @@ top of page
 
 [![TC_logo_horizontal.png](https://static.wixstatic.com/media/6b0b63_01d131921a52439e941893598a7ecfca~mv2.png/v1/fill/w_187,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TC_logo_horizontal.png)](https://www.team-cymru.com/)
 
-* [Products](https://www.team-cymru.com/products)
+* Products
     
     * [Threat Intelligence Solutions](https://www.team-cymru.com/threat-intelligence-solutions)
         
@@ -71,13 +71,13 @@ top of page
     
     * [Company](https://www.team-cymru.com/company)
     * [RISE & UE](https://www.team-cymru.com/events)
-    * [Contact Us](https://www.team-cymru.com/contact-us)
     * [Press Releases](https://www.team-cymru.com/press-releases)
     * [News](https://www.team-cymru.com/news)
     * [Careers](https://www.team-cymru.com/careers)
+    * [Contact Us](https://www.team-cymru.com/contact-us)
     
 
-[CONTACT SALES](https://www.team-cymru.com/contact-sales)
+[REQUEST DEMO](https://www.team-cymru.com/request-a-demo)
 
 [FREE TRIAL - THREAT HUNTING TOOL](https://www.team-cymru.com/ip-address-lookup-scout-insight)
 
@@ -425,7 +425,7 @@ By mail: 901 International Parkway, Suite 350, Lake Mary, FL 32746, USA
 
 ​
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_78,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_68,h_14,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
 ![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_79,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
