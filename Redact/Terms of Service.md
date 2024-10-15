@@ -1,6 +1,6 @@
 ![mobile preview](/images/svgs/exit_banner.svg)[![mobile preview](/images/svgs/clock.svg)
 
-Expires in 33:43:01
+Expires in 28:10:12
 
 Redact for Discord is free for users in Russia and Turkey Click for more info](https://carnelian-society-f72.notion.site/How-to-access-Redact-Premium-in-Russia-T-rkiye-for-deleting-discord-free-11a0acb4639c80aa91fbc7ce251822ed)
 
