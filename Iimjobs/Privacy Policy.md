@@ -179,7 +179,7 @@ Email: privacy@iimjobs.com
 
 [IT Project Management Jobs](https://www.iimjobs.com/k/it-project-management-jobs "IT Project Management Jobs")[IT Consulting Jobs](https://www.iimjobs.com/k/it-consulting-jobs "IT Consulting Jobs")[Presales Jobs](https://www.iimjobs.com/k/presales-jobs "Presales Jobs")[IT Sales Jobs](https://www.iimjobs.com/k/it-sales-jobs "IT Sales Jobs")[IT Product Management Jobs](https://www.iimjobs.com/k/it-product-management-jobs "IT Product Management Jobs")[IT Business Analyst Jobs](https://www.iimjobs.com/k/it-business-analyst-jobs "IT Business Analyst Jobs")
 
-[OPERATIONS JOBS](https://www.iimjobs.com/c/scm-operations-jobs)
+[SCM & OPERATIONS JOBS](https://www.iimjobs.com/c/scm-operations-jobs)
 
 [Supply Chain Jobs](https://www.iimjobs.com/k/supply-chain-jobs "Supply Chain Jobs")[Operations Jobs](https://www.iimjobs.com/k/operations-jobs "Operations Jobs")[Procurement Jobs](https://www.iimjobs.com/k/procurement-jobs "Procurement Jobs")[Inventory Management Jobs](https://www.iimjobs.com/k/inventory-management-jobs "Inventory Management Jobs")[Plant Operations Jobs](https://www.iimjobs.com/k/plant-operations-jobs "Plant Operations Jobs")[Demand Planning Jobs](https://www.iimjobs.com/k/demand-planning-jobs "Demand Planning Jobs")
 
