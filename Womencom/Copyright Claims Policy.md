@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Anne Hathaway at an event](https://www.women.com/img/gallery/anne-hathaway-outfits-that-fell-totally-flat/intro-1728661386.jpg)](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
+*  [![Lady Gaga in red](https://www.women.com/img/gallery/lady-gagas-most-harley-quinn-esque-looks-of-all-time/intro-1728929082.jpg)](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    [Anne Hathaway Outfits That Fell Totally Flat](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
-    ======================================================================================================================
+    [Lady Gaga's Most Harley Quinn-Esque Looks Of All Time](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
+    ====================================================================================================================
     
-    Anne Hathaway has rocked some fabulous red carpet looks over the years, but she's not always as fashionable as her characters. Here are outfits that fell flat.
+    It doesn't surprise us at all that the "Poker Face" hitmaker has mastered the art of harlequin dressing. Here are 5 looks that were straight-up vicious serves.
     
-    By Bernadette Roe [Read More](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
+    By Emily Hutchinson [Read More](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
     
-* *  [![Woman reading drinking tea](https://www.women.com/img/gallery/the-best-christmas-rom-com-books-of-the-2020s-so-far/intro-1728423261.jpg)](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
+* *  [![Couple kissing in bed](https://www.women.com/img/gallery/5-reasons-why-doggy-style-may-not-be-the-best-sex-position-for-you/intro-1728680105.jpg)](https://www.women.com/1686679/reasons-why-doggy-style-may-not-be-best-sex-position-for-you/)
         
-        [Living](https://www.women.com/category/living/)
+        [Exclusives](https://www.women.com/category/exclusives/)
         
-        [Living](https://www.women.com/category/living/) By Bernadette Roe
+        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
         
-        ### [The Best Christmas Rom-Com Books Of The 2020s (So Far)](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
+        ### [5 Reasons Why Doggy Style May Not Be The Best Sex Position For You](https://www.women.com/1686679/reasons-why-doggy-style-may-not-be-best-sex-position-for-you/)
         
-        All types of books can feed the mind, but there's something truly indulgent about escaping into a wintry romance novel that feeds the soul.
+        Of all the sex positions that we can choose from, doggy style remains a favorite among many. But that doesn't mean everyone enjoys it.
         
-        By Bernadette Roe [Read More](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
+        By Amanda Chatel [Read More](https://www.women.com/1686679/reasons-why-doggy-style-may-not-be-best-sex-position-for-you/)
         
-    *  [![Ivanka Trump at an event](https://www.women.com/img/gallery/trends-ivanka-trump-has-nailed-with-her-polished-style/intro-1728585306.jpg)](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+    *  [![Anne Hathaway at an event](https://www.women.com/img/gallery/anne-hathaway-outfits-that-fell-totally-flat/intro-1728661386.jpg)](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
         [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
         
-        ### [Trends Ivanka Trump Has Nailed With Her Polished Style](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+        ### [Anne Hathaway Outfits That Fell Totally Flat](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
         
-        Ivanka Trump has embraced some fun, flirty styles since leaving the White House. Her post-politics outfits nail recent trends like monochromatic looks.
+        Anne Hathaway has rocked some fabulous red carpet looks over the years, but she's not always as fashionable as her characters. Here are outfits that fell flat.
         
-        By Bernadette Roe [Read More](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+        By Bernadette Roe [Read More](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
         
 
 More Stories
 ------------
 
+*  [![Woman reading drinking tea](https://www.women.com/img/gallery/the-best-christmas-rom-com-books-of-the-2020s-so-far/intro-1728423261.jpg)](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    
+    ### [The Best Christmas Rom-Com Books Of The 2020s (So Far)](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
+    
+    All types of books can feed the mind, but there's something truly indulgent about escaping into a wintry romance novel that feeds the soul.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
+    
+*  [![Ivanka Trump at an event](https://www.women.com/img/gallery/trends-ivanka-trump-has-nailed-with-her-polished-style/intro-1728585306.jpg)](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Trends Ivanka Trump Has Nailed With Her Polished Style](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+    
+    Ivanka Trump has embraced some fun, flirty styles since leaving the White House. Her post-politics outfits nail recent trends like monochromatic looks.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
+    
 *  [![Suri Cruise posing](https://www.women.com/img/gallery/suri-cruises-style-has-totally-transformed-over-the-years/intro-1727979833.jpg)](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -381,30 +405,6 @@ More Stories
     Hailey and Justin Bieber's marriage may seem like a real life fairytale, but if you pay close attention, there are some signs of trouble in paradise.
     
     By Bernadette Roe [Read More](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
-    
-*  [![Taylor Swift Travis Kelce](https://www.women.com/img/gallery/5-taylor-swift-game-day-outfits-that-serve-ultimate-wag-glam/intro-1727455446.jpg)](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [5 Taylor Swift Game Day Outfits That Serve Ultimate WAG Glam](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
-    
-    Taylor Swift treats football games like runways, chilling VIP in everything from vintage merch to pricey designer brands. And long may it continue.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1675260/taylor-swift-game-day-outfits-wag-glam/)
-    
-*  [![Kelly Ripa smiling](https://www.women.com/img/gallery/5-kelly-ripa-outfits-that-fell-flat/intro-1727709841.jpg)](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [5 Kelly Ripa Outfits That Totally Fell Flat](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
-    
-    TV presenter and actor Kelly Ripa is generally known for her timeless style, but on occasion, she's worn a few outfits that had us shaking our heads.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1672431/kelly-ripa-outfits-fell-totally-flat/)
     
 
 Back
