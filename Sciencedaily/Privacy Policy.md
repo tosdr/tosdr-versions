@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 14, 2024**
+**October 15, 2024**
 
 * * *
 
@@ -228,19 +228,19 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
+
 [Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
-[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
-
-[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
+[Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
-[Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
-[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
+[Neural Interfaces](https://www.sciencedaily.com/news/computers_math/neural_interfaces/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -248,7 +248,7 @@ this week
 
 [Human Evolution](https://www.sciencedaily.com/news/fossils_ruins/human_evolution/)
 
-[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
+[Snow and Avalanches](https://www.sciencedaily.com/news/earth_climate/snow_and_avalanches/)
 
   
 
