@@ -1455,7 +1455,6 @@ Sociala kanaler Sociala kanaler
 -------------------------------
 
 * [Facebook](https://www.facebook.com/svenskakyrkan)
-* [X](https://twitter.com/svenskakyrkan)
 * [Instagram](https://www.instagram.com/svenskakyrkan)
 * [Vimeo](https://vimeo.com/user14652877)
 * [Bloggportalen](https://blogg.svenskakyrkan.se/)
