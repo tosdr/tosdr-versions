@@ -1,4 +1,4 @@
-**[How to help: Hurricane Helene guidance](https://www.fidelitycharitable.org/guidance/disaster-relief/how-to-help-hurricane-helene.html)**
+**How to help: [Hurricane Helene](https://www.fidelitycharitable.org/guidance/disaster-relief/how-to-help-hurricane-helene.html) and [Hurricane Milton](https://www.fidelitycharitable.org/guidance/disaster-relief/how-to-help-hurricane-milton.html) guidance**
 
 [×](#)
 
