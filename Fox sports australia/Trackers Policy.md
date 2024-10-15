@@ -18,14 +18,24 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 1 Session 2
+    Day 1
     
     |     |     |
     | --- | --- |
-    | PAK | 2 /90 |
+    | PAK | 5 /259 |
     | ENG |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
+* [Men's Test
+    
+    16/10 15:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | IND | –   |
+    | NZL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250301)
 * [Women's T20 WC
     
     16/10 1:00 AEST
@@ -56,6 +66,48 @@ FOX SCORES
     | MELR | 156 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250113)
+* [Women's T20
+    
+    16/10 10:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ACT | –   |
+    | HOB | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250114)
+* [Women's T20
+    
+    16/10 10:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ADE | –   |
+    | BRI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250115)
+* [Women's T20
+    
+    16/10 14:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYDT | –   |
+    | PER | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250116)
+* Football
+    
+* [WCQ
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | JPN | 1   |
+    | AUS | 1   |
+    
+    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250401)
 * Netball
     
 * [Women's Test
@@ -156,38 +208,6 @@ FOX SCORES
     | BUF | 23  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250615)
-* Football
-    
-* [WCQ
-    
-    15/10 21:35 AEST
-    
-    |     |     |
-    | --- | --- |
-    | JPN | –   |
-    | AUS | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250401)
-* [WCQ
-    
-    15/10 23:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | CHN | –   |
-    | IDN | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250402)
-* [WCQ
-    
-    16/10 5:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | KSA | –   |
-    | BHR | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250403)
 * Baseball
     
 * [MLB
@@ -210,6 +230,16 @@ FOX SCORES
     | CLE | 2   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400200204574)
+* [MLB
+    
+    16/10 10:38 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NYY | –   |
+    | CLE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240020026E104)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
