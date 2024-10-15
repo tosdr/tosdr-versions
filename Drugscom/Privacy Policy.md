@@ -413,7 +413,7 @@ Access drug & treatment information, identify pills, check interactions and set 
 
 [Subscribe to our newsletter](https://www.drugs.com/newsletters/) for the latest medication news, new drug approvals and FDA alerts.
 
-**Drugs.com** provides accurate and independent information on more than 24,000 prescription drugs, over-the-counter medicines and natural products. This material is provided for educational purposes only and is not intended for medical advice, diagnosis or treatment. Data sources include Micromedex (updated 6 Oct 2024), Cerner Multum™ (updated 29 Sep 2024), ASHP (updated 10 Oct 2024) and others.
+**Drugs.com** provides accurate and independent information on more than 24,000 prescription drugs, over-the-counter medicines and natural products. This material is provided for educational purposes only and is not intended for medical advice, diagnosis or treatment. Data sources include Micromedex (updated 6 Oct 2024), Cerner Multum™ (updated 14 Oct 2024), ASHP (updated 10 Oct 2024) and others.
 
  [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=d18cba4a-afc4-4863-af81-8262bb120271)](https://privacy.truste.com/privacy-seal/validation?rid=d18cba4a-afc4-4863-af81-8262bb120271)![Verified by TAG](/img/v-20240725/logo/vendor/tag-verified.png) [![This website is certified by AACI. Click to verify.](/img/v-20240725/logo/vendor/trust-mark-logo.png)](https://aacihealthcare.com/certificates/c173-2022-trust-usa/)[![AdChoices](/img/v-20240725/logo/vendor/adchoices-logomark.png)](https://www.drugs.com/support/privacy/advertising.html)
 
