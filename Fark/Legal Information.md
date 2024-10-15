@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more stories with less ads? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+Come on, it's $10 a month, just do it.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [China uses ships and aircraft to draw big ol' heart around Taiwan. Aw, isn't that nice?](https://www.fark.com/goto/13427220) ( [bbc.com](https://www.fark.com/goto/13427220) ) » [(2 comments)](https://www.fark.com/comments/13427220/China-uses-ships-aircraft-to-draw-big-ol-heart-around-Taiwan-Aw-isnt-that-nice) |
-| [Discussion](https://www.fark.com/discussion/) | [The Mets and Dodgers have Game 2 of the NLCS at 4:08 PM ET on FOX/FS1, with the Dodgers hoping to go up 2-0. The ALCS begins with the Guardians and Yankees at 7:38 PM ET on TBS/truTV/Max. Who will Game 1?](https://www.fark.com/goto/13426620) ( [espn.com](https://www.fark.com/goto/13426620) ) » [(3 comments)](https://www.fark.com/comments/13426620/The-Mets-Dodgers-have-Game-2-of-NLCS-at-408-PM-ET-on-FOXFS1-with-Dodgers-hoping-to-go-up-2-0-The-ALCS-begins-with-Guardians-Yankees-at-738-PM-ET-on-TBStruTVMax-Who-will-Game-1) |
-| [Sports](https://www.fark.com/sports/) | [Take heart Chargers fans](https://www.fark.com/goto/13427294) ( [usatoday.com](https://www.fark.com/goto/13427294) ) » [(1 comment)](https://www.fark.com/comments/13427294/Take-heart-Chargers-fans) |
-| [Business](https://www.fark.com/business/) | [Caterpillar getting eaten by bears. It's not pretty](https://www.fark.com/goto/13426846) ( [msn.com](https://www.fark.com/goto/13426846) ) » [(1 comment)](https://www.fark.com/comments/13426846/Caterpillar-getting-eaten-by-bears-Its-not-pretty) |
-| [STEM](https://www.fark.com/stem/) | [Volunteers help identify hundreds of undiscovered prehistoric barrows, wights, banshees, lifelong horrific curses just in time for Spooky Season](https://www.fark.com/goto/13426782) ( [phys.org](https://www.fark.com/goto/13426782) ) » [(1 comment)](https://www.fark.com/comments/13426782/Volunteers-help-identify-hundreds-of-undiscovered-prehistoric-barrows-wights-banshees-lifelong-horrific-curses-just-in-time-for-Spooky-Season) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Brittany Mahomes walks so Devon Mostert can run... straight into a Twitter dumpster fire](https://www.fark.com/goto/13427024) ( [atlantablackstar.com](https://www.fark.com/goto/13427024) ) » [(3 comments)](https://www.fark.com/comments/13427024/Brittany-Mahomes-walks-so-Devon-Mostert-can-run-straight-into-a-Twitter-dumpster-fire) |
-| [Fandom](https://www.fark.com/fandom/) | ["Game of Thrones" famed Iron Throne sells for $1.49 million at auction. Subby prefers his Porcelain Throne at his home](https://www.fark.com/goto/13427092) ( [msn.com](https://www.fark.com/goto/13427092) ) » [(3 comments)](https://www.fark.com/comments/13427092/Game-of-Thrones-famed-Iron-Throne-sells-for-$149-million-at-auction-Subby-prefers-his-Porcelain-Throne-at-his-home) |
-| [D'awww](https://www.fark.com/dawww/) | [Just a baby and her giant dog watching the world go by](https://www.fark.com/goto/13426040) ( [yahoo.com](https://www.fark.com/goto/13426040) ) » [(4 comments)](https://www.fark.com/comments/13426040/Just-a-baby-her-giant-dog-watching-world-go-by) |
-| [Food](https://www.fark.com/food/) | [Today marks the start of National Baking Week, so let's all get baked and loaf around](https://www.fark.com/goto/13427150) ( [nationaltoday.com](https://www.fark.com/goto/13427150) ) » [(1 comment)](https://www.fark.com/comments/13427150/Today-marks-start-of-National-Baking-Week-so-lets-all-get-baked-loaf-around) |
-| [Politics](https://www.fark.com/politics/) | [Biden to Iran: Yes he's a jerk, but he is OUR jerk, and if you kill him, our country and yours are at war](https://www.fark.com/goto/13427268) ( [msn.com](https://www.fark.com/goto/13427268) ) » [(11 comments)](https://www.fark.com/comments/13427268/Biden-to-Iran-Yes-hes-a-jerk-but-he-is-OUR-jerk-if-you-kill-him-our-country-yours-are-at-war) |
+| [Main](https://www.fark.com/) | [Jedi rats. Subby, for one, welcomes our hokey religion rodent overlords](https://www.fark.com/goto/13427016) ( [phys.org](https://www.fark.com/goto/13427016) ) » [(9 comments)](https://www.fark.com/comments/13427016/Jedi-rats-Subby-for-one-welcomes-our-hokey-religion-rodent-overlords) |
+| [Discussion](https://www.fark.com/discussion/) | [We go to Metlife in East Rutherford for Monday Night Football between the Bills and Jets. Will Josh Allen and Buffalo air it out for the win? Or will Aaron Rodgers and New York win on their home turf? Kickoff is at 8:15 PM ET on ESPN/ABC](https://www.fark.com/goto/13426506) ( [espn.com](https://www.fark.com/goto/13426506) ) » [(355 comments)](https://www.fark.com/comments/13426506/We-go-to-Metlife-in-East-Rutherford-for-Monday-Night-Football-between-Bills-Jets-Will-Josh-Allen-Buffalo-air-it-out-for-win-Or-will-Aaron-Rodgers-New-York-win-on-their-home-turf-Kickoff-is-at-815-PM-ET-on-ESPNABC) |
+| [Sports](https://www.fark.com/sports/) | [Blitz approached Juszczyk with a handwritten sign on a paper plate. On one side it read: "I'm having a bad day." On the other was written, "Wanna make me one of those cool jackets?"](https://www.fark.com/goto/13427022) ( [sfgate.com](https://www.fark.com/goto/13427022) ) » [(0 comments)](https://www.fark.com/comments/13427022/Blitz-approached-Juszczyk-with-a-handwritten-sign-on-a-paper-plate-On-one-side-it-read-Im-having-a-bad-day-On-other-was-written-Wanna-make-me-one-of-those-cool-jackets) |
+| [Business](https://www.fark.com/business/) | [While Britain and US cram more prisoners into overcrowded jails, the Netherlands is closing prisons as they empty](https://www.fark.com/goto/13427238) ( [theguardian.com](https://www.fark.com/goto/13427238) ) » [(19 comments)](https://www.fark.com/comments/13427238/While-Britain-US-cram-more-prisoners-into-overcrowded-jails-Netherlands-is-closing-prisons-as-they-empty) |
+| [STEM](https://www.fark.com/stem/) | [Get ready for buzzing drones all over the place](https://www.fark.com/goto/13427302) ( [gizmodo.com](https://www.fark.com/goto/13427302) ) » [(1 comment)](https://www.fark.com/comments/13427302/Get-ready-for-buzzing-drones-all-over-place) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Ted Danson: Woody Harrelson once 'closed set' on Hollywood movie due to his 'horrible vegan farts'](https://www.fark.com/goto/13427334) ( [msn.com](https://www.fark.com/goto/13427334) ) » [(2 comments)](https://www.fark.com/comments/13427334/Ted-Danson-Woody-Harrelson-once-closed-set-on-Hollywood-movie-due-to-his-horrible-vegan-farts) |
+| [Fandom](https://www.fark.com/fandom/) | [All Farkers in the Memphis area: The Memphis Comic Expo is October 26-27. I'll be the one in yellow suspenders and wearing a fez](https://www.fark.com/goto/13427480) ( [memphiscomicexpo.com](https://www.fark.com/goto/13427480) ) » [(2 comments)](https://www.fark.com/comments/13427480/All-Farkers-in-Memphis-area-The-Memphis-Comic-Expo-is-October-26-27-Ill-be-one-in-yellow-suspenders-wearing-a-fez) |
+| [D'awww](https://www.fark.com/dawww/) | [Giant pandas make the best friends](https://www.fark.com/goto/13427432) ( [aol.com](https://www.fark.com/goto/13427432) ) » [(2 comments)](https://www.fark.com/comments/13427432/Giant-pandas-make-best-friends) |
+| [Food](https://www.fark.com/food/) | [Coca-Cola recalls Minute Maid Zero Sugar Lemonade because it's loaded with that one ingredient it's not supposed to contain](https://www.fark.com/goto/13427482) ( [simplyrecipes.com](https://www.fark.com/goto/13427482) ) » [(2 comments)](https://www.fark.com/comments/13427482/Coca-Cola-recalls-Minute-Maid-Zero-Sugar-Lemonade-because-its-loaded-with-that-one-ingredient-its-not-supposed-to-contain) |
+| [Politics](https://www.fark.com/politics/) | [Kamala Harris will murder Brett Baier on TV on Wednesday, October 16](https://www.fark.com/goto/13427350) ( [mediaite.com](https://www.fark.com/goto/13427350) ) » [(14 comments)](https://www.fark.com/comments/13427350/Kamala-Harris-will-murder-Brett-Baier-on-TV-on-Wednesday-October-16) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 14 2024 15:43:23  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 14 2024 21:43:11  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
