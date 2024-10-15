@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Даниил Бессарабов: Законопроект «Единой России» о «дачной амнистии» на хозпостройки и дома на несколько семей позволит защитить права жильцов](https://cdn.er.ru/media/news/October2024/LDyhgrvR5UdKp6gRgpms-small.jpg)](https://er.ru/activity/news/daniil-bessarabov-zakonoproekt-edinoj-rossii-o-dachnoj-amnistii-na-hozpostrojki-i-doma-na-neskolko-semej-pozvolit-zashitit-prava-zhilcov)
+
+[Даниил Бессарабов: Законопроект «Единой России» о «дачной амнистии» на хозпостройки и дома на несколько семей позволит защитить права жильцов](https://er.ru/activity/news/daniil-bessarabov-zakonoproekt-edinoj-rossii-o-dachnoj-amnistii-na-hozpostrojki-i-doma-na-neskolko-semej-pozvolit-zashitit-prava-zhilcov)
+
+[#Бессарабов](https://er.ru/activity/news?tags%5B0%5D=27640) [#дачнаяамнистия](https://er.ru/activity/news?tags%5B0%5D=116118) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#оформление права собственности](https://er.ru/activity/news?tags%5B0%5D=41139) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 11:17
+
+[![Артём Метелев: «Единая Россия» обеспечит комплексное обновление закона «О молодёжной политике»](https://cdn.er.ru/media/news/October2024/dwbVy3erD8UiWNuPftyG-small.jpg)](https://er.ru/activity/news/artyom-metelev-edinaya-rossiya-obespechit-kompleksnoe-obnovlenie-zakona-o-molodyozhnoj-politike)
+
+[Артём Метелев: «Единая Россия» обеспечит комплексное обновление закона «О молодёжной политике»](https://er.ru/activity/news/artyom-metelev-edinaya-rossiya-obespechit-kompleksnoe-obnovlenie-zakona-o-molodyozhnoj-politike)
+
+[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#молодежнаяполитика](https://er.ru/activity/news?tags%5B0%5D=109512)
+
+Сегодня 11:10
+
+[![«Единая Россия» обеспечивает жителей Курской области в ПВР тёплой одеждой](https://cdn.er.ru/media/news/October2024/yYyygDDdhlowLxGnfzNO-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechivaet-zhitelej-kurskoj-oblasti-v-pvr-tyoploj-odezhdoj)
+
+[«Единая Россия» обеспечивает жителей Курской области в ПВР тёплой одеждой](https://er.ru/activity/news/edinaya-rossiya-obespechivaet-zhitelej-kurskoj-oblasti-v-pvr-tyoploj-odezhdoj)
+
+[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#ПВР](https://er.ru/activity/news?tags%5B0%5D=45895) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247)
+
+Сегодня 10:28
+
 [![Антон Горелкин: Инициированный «Единой Россией» закон о майнинге криптовалют – первый шаг на пути развития отрасли](https://cdn.er.ru/media/news/October2024/cT7vyNdud8Zv6kP6jURY-small.jpg)](https://er.ru/activity/news/anton-gorelkin-iniciirovannyj-edinoj-rossiej-zakon-o-majninge-kriptovalyut-pervyj-shag-na-puti-razvitiya-otrasli)
 
 [Антон Горелкин: Инициированный «Единой Россией» закон о майнинге криптовалют – первый шаг на пути развития отрасли](https://er.ru/activity/news/anton-gorelkin-iniciirovannyj-edinoj-rossiej-zakon-o-majninge-kriptovalyut-pervyj-shag-na-puti-razvitiya-otrasli)
@@ -322,30 +346,6 @@
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#высшаяпартийнаяшколаЕР](https://er.ru/activity/news?tags%5B0%5D=128453) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517)
 
 14.10.24
-
-[![Кандидаты от «Единой России» набрали 92% голосов на выборах в прошедшее воскресенье](https://cdn.er.ru/media/news/October2024/CtB2o84qpk2UmxyJp3ug-small.jpg)](https://er.ru/activity/news/kandidaty-ot-edinoj-rossii-nabrali-92-golosov-na-vyborah-v-proshedshee-voskresene)
-
-[Кандидаты от «Единой России» набрали 92% голосов на выборах в прошедшее воскресенье](https://er.ru/activity/news/kandidaty-ot-edinoj-rossii-nabrali-92-golosov-na-vyborah-v-proshedshee-voskresene)
-
-[#выборы](https://er.ru/activity/news?tags%5B0%5D=31) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ОМСУ](https://er.ru/activity/news?tags%5B0%5D=8960) [#мандаты](https://er.ru/activity/news?tags%5B0%5D=1199)
-
-14.10.24
-
-[![«Единая Россия» запустила в регионах мониторинг готовности многоквартирных домов к отопительному сезону](https://cdn.er.ru/media/news/October2024/rAbFneZV4ASr5PkkIW4L-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zapustila-v-regionah-monitoring-gotovnosti-mnogokvartirnyh-domov-k-otopitelnomu-sezonu)
-
-[«Единая Россия» запустила в регионах мониторинг готовности многоквартирных домов к отопительному сезону](https://er.ru/activity/news/edinaya-rossiya-zapustila-v-regionah-monitoring-gotovnosti-mnogokvartirnyh-domov-k-otopitelnomu-sezonu)
-
-[#Школаграмотногопотребителя](https://er.ru/activity/news?tags%5B0%5D=1090072) [#Козлов](https://er.ru/activity/news?tags%5B0%5D=8078) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-14.10.24
-
-[![Владимир Якушев: Ежедневной работой специалисты сельхозотрасли добились для России статуса аграрной сверхдержавы](https://cdn.er.ru/media/news/October2024/GWkgCMSSVNSEsI7nDXzX-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-ezhednevnoj-rabotoj-specialisty-selhozotrasli-dobilis-dlya-rossii-statusa-agrarnoj-sverhderzhavy)
-
-[Владимир Якушев: Ежедневной работой специалисты сельхозотрасли добились для России статуса аграрной сверхдержавы](https://er.ru/activity/news/vladimir-yakushev-ezhednevnoj-rabotoj-specialisty-selhozotrasli-dobilis-dlya-rossii-statusa-agrarnoj-sverhderzhavy)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#Деньработникасельскогохозяйства](https://er.ru/activity/news?tags%5B0%5D=1092253)
-
-13.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
