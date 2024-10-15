@@ -258,23 +258,23 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Sandi Ramona Goodman](https://lawandcrime.com/wp-content/uploads/2024/10/Sandi-Ramona-Goodman-432x243.jpg)](https://lawandcrime.com/crime/mommy-whoops-us-when-were-loud-mom-blamed-3-year-olds-significant-burns-on-bug-bites-but-her-google-searches-showed-otherwise-cops-say/)
+1. [![Sandi Ramona Goodman](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Sandi-Ramona-Goodman-432x243.jpg)](https://lawandcrime.com/crime/mommy-whoops-us-when-were-loud-mom-blamed-3-year-olds-significant-burns-on-bug-bites-but-her-google-searches-showed-otherwise-cops-say/)
     
     ### ['Mommy whoops us when we're loud': Mom blamed 3-year-old's 'significant burns' on bug bites but her Google searches showed otherwise, cops say](https://lawandcrime.com/crime/mommy-whoops-us-when-were-loud-mom-blamed-3-year-olds-significant-burns-on-bug-bites-but-her-google-searches-showed-otherwise-cops-say/)
     
-2. [![DTE worker imposters](https://lawandcrime.com/wp-content/uploads/2024/10/DTE-worker-imposters-432x243.jpg)](https://lawandcrime.com/crime/were-checking-for-gas-leaks-men-posing-as-energy-workers-in-upscale-neighborhood-murder-jewelry-store-owner-in-basement-and-tie-up-wife-cops-say/)
+2. [![DTE worker imposters](https://am24.mediaite.com/lc/cnt/uploads/2024/10/DTE-worker-imposters-432x243.jpg)](https://lawandcrime.com/crime/were-checking-for-gas-leaks-men-posing-as-energy-workers-in-upscale-neighborhood-murder-jewelry-store-owner-in-basement-and-tie-up-wife-cops-say/)
     
     ### ['We're checking for gas leaks:' Men posing as energy workers in upscale neighborhood murder jewelry store owner in basement and tie up wife, cops say](https://lawandcrime.com/crime/were-checking-for-gas-leaks-men-posing-as-energy-workers-in-upscale-neighborhood-murder-jewelry-store-owner-in-basement-and-tie-up-wife-cops-say/)
     
-3. [![Lee Gilley, Christa Bauer Gilley](https://lawandcrime.com/wp-content/uploads/2024/10/Lee-Gilley-Christa-Gilley-432x243.jpg)](https://lawandcrime.com/crime/software-consultant-strangled-pregnant-wife-and-mom-of-2-tried-to-make-her-death-look-like-drug-overdose-suicide-after-argument-at-home-court-docs/)
+3. [![Lee Gilley, Christa Bauer Gilley](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Lee-Gilley-Christa-Gilley-432x243.jpg)](https://lawandcrime.com/crime/software-consultant-strangled-pregnant-wife-and-mom-of-2-tried-to-make-her-death-look-like-drug-overdose-suicide-after-argument-at-home-court-docs/)
     
     ### [Software consultant strangled pregnant wife and mom of 2, tried to make her death look like drug overdose suicide after argument at home: Court docs](https://lawandcrime.com/crime/software-consultant-strangled-pregnant-wife-and-mom-of-2-tried-to-make-her-death-look-like-drug-overdose-suicide-after-argument-at-home-court-docs/)
     
-4. [![Inset: Monica Tutt (Dallas County Jail). Background: Scene of the crash (KXAS).](https://lawandcrime.com/wp-content/uploads/2024/10/Monica-Tutt-432x243.png)](https://lawandcrime.com/crime/drunk-mom-complained-her-chance-at-a-nursing-career-was-over-after-she-abandoned-severely-injured-9-year-old-son-in-crash-cops/)
+4. [![Inset: Monica Tutt (Dallas County Jail). Background: Scene of the crash (KXAS).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Monica-Tutt-432x243.png)](https://lawandcrime.com/crime/drunk-mom-complained-her-chance-at-a-nursing-career-was-over-after-she-abandoned-severely-injured-9-year-old-son-in-crash-cops/)
     
     ### [Drunk mom complained 'her chance at a nursing career was over' after she abandoned severely injured 9-year-old son in crash: Cops](https://lawandcrime.com/crime/drunk-mom-complained-her-chance-at-a-nursing-career-was-over-after-she-abandoned-severely-injured-9-year-old-son-in-crash-cops/)
     
-5. [![Aaron Spencer](https://lawandcrime.com/wp-content/uploads/2024/10/Aaron-Spencer--432x243.jpg)](https://lawandcrime.com/crime/dad-frantically-called-911-to-report-14-year-old-daughter-missing-tracked-down-and-shot-rapist-and-was-arrested-for-murder-wife/)
+5. [![Aaron Spencer](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Aaron-Spencer--432x243.jpg)](https://lawandcrime.com/crime/dad-frantically-called-911-to-report-14-year-old-daughter-missing-tracked-down-and-shot-rapist-and-was-arrested-for-murder-wife/)
     
     ### [Dad frantically called 911 to report 14-year-old daughter missing, tracked down and shot rapist, and faced 'outrageous' arrest for murder: Wife](https://lawandcrime.com/crime/dad-frantically-called-911-to-report-14-year-old-daughter-missing-tracked-down-and-shot-rapist-and-was-arrested-for-murder-wife/)
     
