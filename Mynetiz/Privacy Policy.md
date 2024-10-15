@@ -23,6 +23,7 @@
         * [Ağlar](https://mynetiz.com/yazanlar/aglar)
         * [Android](https://mynetiz.com/yazanlar/android)
         * [Araçlar](https://mynetiz.com/yazanlar/araclar)
+        * [Güvenlik](https://mynetiz.com/yazanlar/guvenlik)
         * [İnceleme](https://mynetiz.com/yazanlar/inceleme)
         * [İnternet](https://mynetiz.com/yazanlar/internet)
         * [İpucu](https://mynetiz.com/yazanlar/ipucu)
@@ -47,7 +48,7 @@ October 15, 2024
 
 Yeni
 
-[Yaşayanlar bilir](https://mynetiz.com/yasayanlar-bilir.html) [Gara Bağtlılar](https://mynetiz.com/gara-bagtlilar.html) [Mastodon : Yeni Özellikler ve İyileştirmeler](https://mynetiz.com/mastodon-yeni-ozellikler-ve-iyilestirmeler.html) [Haberleşme ve Duyumsamanın Gücü](https://mynetiz.com/haberlesme-ve-duyumsamanin-gucu.html) [Winamp son durum](https://mynetiz.com/winamp-son-durum.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi-2.html) [Bilginin Tevazusu, Cehaletin Kibri](https://mynetiz.com/bilginin-tevazusu-cehaletin-kibri.html) [Hızlı Değişim Çağı](https://mynetiz.com/hizli-degisim-cagi.html) [Kadim Topraklar ve Hakça Bölüşüm](https://mynetiz.com/kadim-topraklar-ve-hakca-bolusum.html)
+[FIDO Alliance, Parolasız Geleceğe Doğru Bir Adım Attı](https://mynetiz.com/fido-alliance-parolasiz-gelecege-dogru-bir-adim-atti.html) [Yaşayanlar bilir](https://mynetiz.com/yasayanlar-bilir.html) [Gara Bağtlılar](https://mynetiz.com/gara-bagtlilar.html) [Mastodon : Yeni Özellikler ve İyileştirmeler](https://mynetiz.com/mastodon-yeni-ozellikler-ve-iyilestirmeler.html) [Haberleşme ve Duyumsamanın Gücü](https://mynetiz.com/haberlesme-ve-duyumsamanin-gucu.html) [Winamp son durum](https://mynetiz.com/winamp-son-durum.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi-2.html) [Bilginin Tevazusu, Cehaletin Kibri](https://mynetiz.com/bilginin-tevazusu-cehaletin-kibri.html) [Hızlı Değişim Çağı](https://mynetiz.com/hizli-degisim-cagi.html)
 
 Privacy Policy
 ==============
