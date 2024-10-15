@@ -20,16 +20,16 @@ Tuesday, October 15 2024
 
 Latest
 
-* [The Best Network Monitoring Tools of 2024](https://digitpatrox.com/the-best-network-monitoring-tools-of-2024/)
-* [UK workers still seeking better work-life balance, report says](https://digitpatrox.com/uk-workers-still-seeking-better-work-life-balance-report-says/)
-* [Chinese researchers break RSA encryption with a quantum computer](https://digitpatrox.com/chinese-researchers-break-rsa-encryption-with-a-quantum-computer/)
-* [Is TikTok’s ‘Hydrogen Water’ Trend Nonsense?](https://digitpatrox.com/is-tiktoks-hydrogen-water-trend-nonsense/)
-* [Vendor Spotlight: Twingate](https://digitpatrox.com/vendor-spotlight-twingate/)
-* [Porsche Taycan Recalled Because Battery Short-Circuit Risks Fire](https://digitpatrox.com/porsche-taycan-recalled-because-battery-short-circuit-risks-fire/)
-* [Don’t Miss out on These 5 Underrated Music Streaming Services](https://digitpatrox.com/dont-miss-out-on-these-5-underrated-music-streaming-services/)
-* [The UK has ‘seismic’ AI potential, says AWS startup leader – but startups still need skills support](https://digitpatrox.com/the-uk-has-seismic-ai-potential-says-aws-startup-leader-but-startups-still-need-skills-support/)
-* [NVIDIA Blackwell GPUs Sold Out: Demand Surges, What’s Next?](https://digitpatrox.com/nvidia-blackwell-gpus-sold-out-demand-surges-whats-next/)
-* [Anthropic CEO says AI will help us live longer and cure disease — here’s how](https://digitpatrox.com/anthropic-ceo-says-ai-will-help-us-live-longer-and-cure-disease-heres-how/)
+* [New FASTCash malware Linux variant helps steal money from ATMs](https://digitpatrox.com/new-fastcash-malware-linux-variant-helps-steal-money-from-atms/)
+* [Destiny: Rising is a new mobile RPG shooter set in Bungie’s Destiny universe](https://digitpatrox.com/destiny-rising-is-a-new-mobile-rpg-shooter-set-in-bungies-destiny-universe/)
+* [Knull Will Have a Bigger Role than You Think, Confirms Venom 3 Director](https://digitpatrox.com/knull-will-have-a-bigger-role-than-you-think-confirms-venom-3-director/)
+* [The Best RMM Tools of 2024](https://digitpatrox.com/the-best-rmm-tools-of-2024-2/)
+* [Get started with charts and sparklines – Computerworld](https://digitpatrox.com/get-started-with-charts-and-sparklines-computerworld/)
+* [It’s Finally Easy to Change Your Apple Account Email](https://digitpatrox.com/its-finally-easy-to-change-your-apple-account-email/)
+* [The Best RMM Software of 2024](https://digitpatrox.com/the-best-rmm-software-of-2024/)
+* [Changing Your Apple Account’s Primary Email Just Got a Lot Easier](https://digitpatrox.com/changing-your-apple-accounts-primary-email-just-got-a-lot-easier/)
+* [What is Extreme Programming (XP)?](https://digitpatrox.com/what-is-extreme-programming-xp/)
+* [Watch Pakistan vs England 2nd Test 2024 live stream](https://digitpatrox.com/watch-pakistan-vs-england-2nd-test-2024-live-stream/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/best-network-monitoring-tools.jpg)](https://digitpatrox.com/the-best-network-monitoring-tools-of-2024/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/31/Linux.jpg)](https://digitpatrox.com/new-fastcash-malware-linux-variant-helps-steal-money-from-atms/)
     
-    [The Best Network Monitoring Tools of 2024](https://digitpatrox.com/the-best-network-monitoring-tools-of-2024/)
+    [New FASTCash malware Linux variant helps steal money from ATMs](https://digitpatrox.com/new-fastcash-malware-linux-variant-helps-steal-money-from-atms/)
     
-    21 mins ago
+    5 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/qMhRxPuBwsr43JY2f5Dmni-1200-80.jpg)](https://digitpatrox.com/uk-workers-still-seeking-better-work-life-balance-report-says/)
+* [![](https://cdn.vox-cdn.com/thumbor/9WGtAvB5pCVxrsDwdykO7GSgNkg=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25676572/1_Key_Visual.jpg)](https://digitpatrox.com/destiny-rising-is-a-new-mobile-rpg-shooter-set-in-bungies-destiny-universe/)
     
-    [UK workers still seeking better work-life balance, report says](https://digitpatrox.com/uk-workers-still-seeking-better-work-life-balance-report-says/)
+    [Destiny: Rising is a new mobile RPG shooter set in Bungie’s Destiny universe](https://digitpatrox.com/destiny-rising-is-a-new-mobile-rpg-shooter-set-in-bungies-destiny-universe/)
     
-    43 mins ago
+    22 mins ago
     
-* [![](https://www.csoonline.com/wp-content/uploads/2024/10/3562701-0-92668400-1728921941-shutterstock_1508157266.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/chinese-researchers-break-rsa-encryption-with-a-quantum-computer/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/Knull-Will-Have-a-Bigger-Role-Than-You-Think-Confirms-Venom-3-Director.jpg)](https://digitpatrox.com/knull-will-have-a-bigger-role-than-you-think-confirms-venom-3-director/)
     
-    [Chinese researchers break RSA encryption with a quantum computer](https://digitpatrox.com/chinese-researchers-break-rsa-encryption-with-a-quantum-computer/)
+    [Knull Will Have a Bigger Role than You Think, Confirms Venom 3 Director](https://digitpatrox.com/knull-will-have-a-bigger-role-than-you-think-confirms-venom-3-director/)
     
-    1 hour ago
+    37 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JA645H20C8HPHTSVBZDKKK10/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/is-tiktoks-hydrogen-water-trend-nonsense/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/ppc1_cropped.jpg-1.webp)](https://digitpatrox.com/the-best-rmm-tools-of-2024-2/)
     
-    [Is TikTok’s ‘Hydrogen Water’ Trend Nonsense?](https://digitpatrox.com/is-tiktoks-hydrogen-water-trend-nonsense/)
+    [The Best RMM Tools of 2024](https://digitpatrox.com/the-best-rmm-tools-of-2024-2/)
     
     2 hours ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Twingate-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-twingate/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3557753-0-05986600-1728900196-man-working-on-excel-spreadsheet-with-charts-by-proxima-studio-via-shutterstock.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/get-started-with-charts-and-sparklines-computerworld/)
     
-    [Vendor Spotlight: Twingate](https://digitpatrox.com/vendor-spotlight-twingate/)
+    [Get started with charts and sparklines – Computerworld](https://digitpatrox.com/get-started-with-charts-and-sparklines-computerworld/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [21 mins ago
+* [5 mins ago
     
-    ### The Best Network Monitoring Tools of 2024](https://digitpatrox.com/the-best-network-monitoring-tools-of-2024/)
-* [43 mins ago
+    ### New FASTCash malware Linux variant helps steal money from ATMs](https://digitpatrox.com/new-fastcash-malware-linux-variant-helps-steal-money-from-atms/)
+* [22 mins ago
     
-    ### UK workers still seeking better work-life balance, report says](https://digitpatrox.com/uk-workers-still-seeking-better-work-life-balance-report-says/)
-* [1 hour ago
+    ### Destiny: Rising is a new mobile RPG shooter set in Bungie’s Destiny universe](https://digitpatrox.com/destiny-rising-is-a-new-mobile-rpg-shooter-set-in-bungies-destiny-universe/)
+* [37 mins ago
     
-    ### Chinese researchers break RSA encryption with a quantum computer](https://digitpatrox.com/chinese-researchers-break-rsa-encryption-with-a-quantum-computer/)
+    ### Knull Will Have a Bigger Role than You Think, Confirms Venom 3 Director](https://digitpatrox.com/knull-will-have-a-bigger-role-than-you-think-confirms-venom-3-director/)
 
 Most Popular Topics
 
-* [3 hours ago
+* [6 days ago
     
-    ### The UK has ‘seismic’ AI potential, says AWS startup leader – but startups still need skills support](https://digitpatrox.com/the-uk-has-seismic-ai-potential-says-aws-startup-leader-but-startups-still-need-skills-support/)
-* [August 15, 2024
+    ### The Best Storage Mirror Deals During October Prime Day](https://digitpatrox.com/the-best-storage-mirror-deals-during-october-prime-day/)
+* [3 weeks ago
     
-    ### Microsoft Patched 6 Actively Exploited Zero-Day Flaws](https://digitpatrox.com/microsoft-patched-6-actively-exploited-zero-day-flaws/)
-* [September 2, 2024
+    ### Set Up Call Blocking on Any Phone in 6 Steps or Less](https://digitpatrox.com/set-up-call-blocking-on-any-phone-in-6-steps-or-less/)
+* [4 weeks ago
     
-    ### Best Movies and TV Shows on Prime This Month](https://digitpatrox.com/best-movies-and-tv-shows-on-prime-this-month/)
+    ### OpenAI Confirms ChatGPT Did Message Users First, But It Won’t Anymore](https://digitpatrox.com/openai-confirms-chatgpt-did-message-users-first-but-it-wont-anymore/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### Don’t Miss out on These 5 Underrated Music Streaming Services](https://digitpatrox.com/dont-miss-out-on-these-5-underrated-music-streaming-services/)
 * [3 hours ago
     
-    ### The UK has ‘seismic’ AI potential, says AWS startup leader – but startups still need skills support](https://digitpatrox.com/the-uk-has-seismic-ai-potential-says-aws-startup-leader-but-startups-still-need-skills-support/)
+    ### The Best RMM Software of 2024](https://digitpatrox.com/the-best-rmm-software-of-2024/)
 * [3 hours ago
     
-    ### NVIDIA Blackwell GPUs Sold Out: Demand Surges, What’s Next?](https://digitpatrox.com/nvidia-blackwell-gpus-sold-out-demand-surges-whats-next/)
+    ### Changing Your Apple Account’s Primary Email Just Got a Lot Easier](https://digitpatrox.com/changing-your-apple-accounts-primary-email-just-got-a-lot-easier/)
+* [4 hours ago
+    
+    ### What is Extreme Programming (XP)?](https://digitpatrox.com/what-is-extreme-programming-xp/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 28, 2024
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
