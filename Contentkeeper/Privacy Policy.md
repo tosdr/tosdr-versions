@@ -409,7 +409,7 @@ Number of devices
 
 Message
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -476,8 +476,7 @@ Meet Impero
 
 © 2024 Impero Solutions Ltd.
 
-* [Policies](https://www.imperosoftware.com/policies-terms/)
-* [Data Protection](https://www.imperosoftware.com/policies-terms/)
-* [Privacy](https://www.imperosoftware.com/privacy/)
-* [Terms & Conditions](https://www.imperosoftware.com/policies-terms/)
-* [Privacy Policy](https://www.ativion.com/legal/privacy-policy)
+* [Policies](https://www.ativion.com/legal/)
+* [Data Protection](https://www.ativion.com/legal/)
+* [Privacy](https://www.ativion.com/legal/privacy-policy/)
+* [Terms & Conditions](https://www.ativion.com/legal/)
