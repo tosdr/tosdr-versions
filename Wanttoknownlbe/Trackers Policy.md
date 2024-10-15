@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/6-januari-2021-wat-gebeurde-er-werkelijk/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/economie/geld/texas-ondergraaft-fed-met-goudzilver-wet/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
