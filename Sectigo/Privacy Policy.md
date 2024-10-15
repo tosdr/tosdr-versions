@@ -142,11 +142,11 @@ Resource Library
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
+* [Root Causes 432: Apple Floats New Short-lived Certificate Proposal](https://www.sectigo.com/resource-library/root-causes-432-apple-floats-new-short-lived-certificate-proposal)
 * [Root Causes 431: New Mozilla Proposal to Combat Delayed Revocation](https://www.sectigo.com/resource-library/root-causes-431-new-mozilla-proposal-to-combat-delayed-revocation)
 * [Root Causes 430: How Does a TLS Handshake Work?](https://www.sectigo.com/resource-library/root-causes-430-how-does-a-tls-handshake-work)
 * [Root Causes 429: ServiceNow Outage Due to Expired Root Certificate](https://www.sectigo.com/resource-library/root-causes-429-servicenow-outage-due-to-expired-root-certificate)
 * [Root Causes 428: .MOBI Attack Puts WHOIS-based DCV into Question](https://www.sectigo.com/resource-library/root-causes-428-mobi-attack-puts-whois-based-dcv-into-question)
-* [Root Causes 427: Mapping CLM to NIST CSF 2.0](https://www.sectigo.com/resource-library/root-causes-427-mapping-clm-to-nist-csf-2-0)
 
 The total economic impact™ of Sectigo Certificate Manager
 
@@ -235,11 +235,11 @@ Login
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Q4 2024 Pulse Webinar](https://www.sectigo.com/resource-library/q4-2024-pulse-webinar)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 432: Apple Floats New Short-lived Certificate Proposal](https://www.sectigo.com/resource-library/root-causes-432-apple-floats-new-short-lived-certificate-proposal)
     * [Root Causes 431: New Mozilla Proposal to Combat Delayed Revocation](https://www.sectigo.com/resource-library/root-causes-431-new-mozilla-proposal-to-combat-delayed-revocation)
     * [Root Causes 430: How Does a TLS Handshake Work?](https://www.sectigo.com/resource-library/root-causes-430-how-does-a-tls-handshake-work)
     * [Root Causes 429: ServiceNow Outage Due to Expired Root Certificate](https://www.sectigo.com/resource-library/root-causes-429-servicenow-outage-due-to-expired-root-certificate)
     * [Root Causes 428: .MOBI Attack Puts WHOIS-based DCV into Question](https://www.sectigo.com/resource-library/root-causes-428-mobi-attack-puts-whois-based-dcv-into-question)
-    * [Root Causes 427: Mapping CLM to NIST CSF 2.0](https://www.sectigo.com/resource-library/root-causes-427-mapping-clm-to-nist-csf-2-0)
     
 
 *  #}
@@ -310,7 +310,7 @@ This is important to us, so we hope you take the time to read and review it care
 We’ve defined the following terms, which are used throughout this Privacy Policy, to provide better clarity on what we mean:
 
 * **“Account”** refers to an SCM account, an E-PKI account, an S3 account, or any other account at a Sectigo Website for which you sign up and log in.
-* **“Baseline Requirements”** refers the most recent version of the CA/B Forum’s BASELINE REQUIREMENTS FOR THE ISSUANCE AND MANAGEMENT OF PUBLICLY-TRUSTED CERTIFICATES, accessible here: [https://cabforum.org/baseline-...](https://cabforum.org/baseline-requirements-documents/).
+* **“Baseline Requirements”** refers the most recent version of the CA/B Forum’s BASELINE REQUIREMENTS FOR THE ISSUANCE AND MANAGEMENT OF PUBLICLY-TRUSTED CERTIFICATES, accessible here: [https://cabforum.org/baseline-requirements-documents/](https://cabforum.org/baseline-requirements-documents/).
 * **“CA/B Forum”** means the Certificate Authority and Browser Forum, a consensus-driven forum of Certificate authorities (like us) and browsers that promulgates industry guidelines governing the issuance and management of X.509 v.3 digital certificates, and whose website is [https://cabforum.org/](https://cabforum.org/).
 * **“Certificate”** means a digitally signed electronic data file issued by Sectigo to a person or entity seeking to conduct business over a communications network, which may contain the identity of the person authorized to use the digital signature, a copy of their public key, a serial number, a time period during which the data file may be used, and a digital signature issued by Sectigo.
 * “**Cookies Policy**” refers to the most recent version of our COOKIES POLICY, accessible here: [https://www.sectigo.com/](https://www.sectigo.com/%7Bentry%3A321889@4%3Aurl%7C%7C%7D).
@@ -318,8 +318,8 @@ We’ve defined the following terms, which are used throughout this Privacy Poli
 * **“eIDAS Regulation”** means Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market, as amended.
 * **“ETSI”** means the European Telecommunications and Standards Institute, an independent, not-for-profit, standardization organization for the information and communications technology industry.
 * **“ETSI Standards”** mean those Industry Standards developed by ETSI.
-* **“EV Code-Signing Guidelines”** means the most recent version of the CA/B Forum’s GUIDELINES FOR THE ISSUANCE AND MANAGEMENT OF EXTENDED VALIDATION CODE SIGNING CERTIFICATES, accessible here: [https://cabforum.org/ev-code-s...](https://cabforum.org/ev-code-signing-certificate-guidelines/).
-* **“EV Guidelines”** refers to the most recent version of the CA/B Forum’s GUIDELINES FOR THE ISSUANCE AND MANAGEMENT OF EXTENDED VALIDATION CERTIFICATES, accessible here: [https://cabforum.org/extended-...](https://cabforum.org/extended-validation/).
+* **“EV Code-Signing Guidelines”** means the most recent version of the CA/B Forum’s GUIDELINES FOR THE ISSUANCE AND MANAGEMENT OF EXTENDED VALIDATION CODE SIGNING CERTIFICATES, accessible here: [https://cabforum.org/ev-code-signing-certificate-guidelines/](https://cabforum.org/ev-code-signing-certificate-guidelines/).
+* **“EV Guidelines”** refers to the most recent version of the CA/B Forum’s GUIDELINES FOR THE ISSUANCE AND MANAGEMENT OF EXTENDED VALIDATION CERTIFICATES, accessible here: [https://cabforum.org/extended-validation/](https://cabforum.org/extended-validation/).
 * **“Industry Standards”** mean, individually or collectively, the Baseline Requirements, EV Guidelines, EV Code-Signing Guidelines, the ETSI Standards, and any other standards, rules, guidelines, and requirements applicable to a Certificate.
 * **“Qualified Certificate”** means a publicly-trusted, end-entity Certificate issued according to the requirements of the eIDAS Regulation.
 * **“Website”** means a website owned and operated by Sectigo, including, but not limited to sectigo.com, instantssl.com, positivessl.com, enterprisessl.com, hackerguardian.com, optimumssl.com, comodoca.com, ssl.comodo.com, codeguard.com, iconlabs.com, crt.sh, and the websites where ssl247 is the primary domain at one of the following TLDs: .ae, .be, .cl, .com, .com.br, .com.co, .com.mx, .co.uk, .de, .dk, .es, .fr, .ie, .it, .nl, .pe, .pt, and .se (for example, ssl247.fr).  
@@ -540,7 +540,7 @@ If you are a California resident, California law may provide you with additional
 
 ### EU-U.S. data privacy framework, Swiss-U.S. data privacy framework, UK extension
 
-Sectigo, Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Sectigo, Inc. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Sectigo, Inc. has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit Data privacy framework website at [https://www.dataprivacyframewo...](https://www.dataprivacyframework.gov/).
+Sectigo, Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Sectigo, Inc. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Sectigo, Inc. has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit Data privacy framework website at [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
 Sectigo, Inc. is responsible for the processing of personal data it receives, under each Data Privacy Framework, and subsequent transfers to a third party acting as an agent on its behalf. Sectigo, Inc. complies with the Data Privacy Framework Principles for all onward transfers of personal data from the EU, UK, and Switzerland, including the onward transfer liability provisions.
 
@@ -550,7 +550,7 @@ With respect to personal data received or transferred pursuant to the Data Priva
 
 In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Sectigo, Inc. commits to resolve DPF Principles-related complaints about our collection and use of your personal data. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, should first contact Sectigo, Inc. at [\[email protected\]](https://www.sectigo.com/cdn-cgi/l/email-protection).
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at [https://www.jamsadr.com/DPF-Di...](https://www.jamsadr.com/DPF-Dispute-Resolution.Under) certain conditions, more fully described under the Data Privacy Framework website at [https://www.dataprivacyframewo...](https://www.dataprivacyframework.gov/), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at [https://www.jamsadr.com/DPF-Dispute-Resolution](https://www.jamsadr.com/DPF-Dispute-Resolution). Under certain conditions, more fully described under the Data Privacy Framework website at [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, Sectigo, Inc. commits to cooperate and comply with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) with regard to unresolved complaints concerning our handling of human resources data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF in the context of the employment relationship.
 
