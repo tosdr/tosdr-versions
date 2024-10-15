@@ -34,6 +34,7 @@ Utility navigation
     * [Resources](https://www.eatingrecoverycenter.com/resources?audience=3766)
     * [Events](https://www.eatingrecoverycenter.com/professionals/events)
     * [Connect With Us](https://www.eatingrecoverycenter.com/professionals/connect)
+* [Medical Staff](https://www.eatingrecoverycenter.com/medical-staff)
 * [Careers](https://www.eatingrecoverycenter.com/careers)
 * [Search](https://www.eatingrecoverycenter.com/search)
 
@@ -60,6 +61,7 @@ Main navigation
             * [Aftercare Support](https://www.eatingrecoverycenter.com/alumni-overview)
             * [Nutrition Program](https://www.eatingrecoverycenter.com/resources/nutrition-program)
             * [Alumni Testimonials](https://www.eatingrecoverycenter.com/alumni/success-stories)
+            * [Medical Staff](https://www.eatingrecoverycenter.com/medical-staff)
         * Additional Services
             * [Travel Concierge](https://www.eatingrecoverycenter.com/concierge-service)
     * Get Matched to the Exact Support You Need
@@ -212,6 +214,7 @@ Main navigation
             * [Aftercare Support](https://www.eatingrecoverycenter.com/alumni-overview)
             * [Nutrition Program](https://www.eatingrecoverycenter.com/resources/nutrition-program)
             * [Alumni Testimonials](https://www.eatingrecoverycenter.com/alumni/success-stories)
+            * [Medical Staff](https://www.eatingrecoverycenter.com/medical-staff)
         * Additional Services
             * [Travel Concierge](https://www.eatingrecoverycenter.com/concierge-service)
     * Get Matched to the Exact Support You Need
@@ -327,6 +330,7 @@ Utility navigation
 * [Families](https://www.eatingrecoverycenter.com/families-overview)
 * [Alumni](https://www.eatingrecoverycenter.com/alumni-overview)
 * [Professionals](https://www.eatingrecoverycenter.com/professionals/overview)
+* [Medical Staff](https://www.eatingrecoverycenter.com/medical-staff)
 * [Careers](https://www.eatingrecoverycenter.com/careers)
 * [Search](https://www.eatingrecoverycenter.com/search)
 
@@ -496,9 +500,9 @@ Denver, CO 80230
 
 Eating Recovery Center is accredited through the Joint Commission. This organization seeks to enhance the lives of the persons served in healthcare settings through a consultative accreditation process emphasizing quality, value and optimal outcomes of services.
 
-Organizations that earn the Gold Seal of Approval™ have met or exceeded The Joint Commission’s rigorous performance standards to obtain this distinctive and internationally recognized accreditation. Learn more about this accreditation [here](https://www.eatingrecoverycenter.com/licensing-accreditation "Licensing & Accreditation").
+Organizations that earn the Gold Seal of Approval™ have met or exceeded The Joint Commission’s rigorous performance standards to obtain this distinctive and internationally recognized accreditation. Learn more about this accreditation [here](https://www.eatingrecoverycenter.com/licensing-accreditation).
 
-![Joint Commission Seal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![](https://www.eatingrecoverycenter.com/cdn-cgi/image/width=150,format=webp,quality=100/sites/default/files/image/2024-10/gold-seal.png)
 
 Get Help Now
 
