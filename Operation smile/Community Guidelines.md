@@ -1,5 +1,9 @@
 [Skip to main content](#maincontent)
 
+![exclamation point icon](/wp-content/themes/operationsmile/assets/images/exclamation-icon.svg)
+
+Discover how AI is shaping the future of cleft care. [Watch the Film by BBC StoryWorks](https://www.operationsmile.org/story/using-ai-to-help-create-new-smiles-and-rebuild-lives/)
+
  [![Operation Smile](/wp-content/themes/operationsmile/assets/images/operation-smile-logo-2023.svg)](https://www.operationsmile.org/)[Donate](https://www.operationsmile.org/code-conduct?form=FUNZKBCNZQY)
 
 * Transformational Care
@@ -10,11 +14,11 @@
     * [Surgery and Beyond](https://www.operationsmile.org/transformational-care/surgery-beyond/) Learn how cleft care is more than surgery.
     * [Real-Life Stories](https://www.operationsmile.org/transformational-care/real-life-stories/) Read stories from our patients and volunteers.
     
-    ### Laura's Lifelong Journey
+    ### Using AI to Help Create New Smiles and Rebuild Lives
     
-            ![](/wp-content/uploads/2024/08/COL_2019_Bogota_1861_Laura_After_Photo_014-2057x1371-8bddb7e-aspect-ratio-600-450-1.webp)
+            ![](/wp-content/uploads/2024/10/RWA_2024_Musanze_000_Adolphe_Before_BBC-StoryWorks_033_web-aspect-ratio-600-450-2.webp)
     
-    [Read Laura's Story](https://www.operationsmile.org/story/lauras-lifelong-journey-of-care/)
+    [Watch the Video](https://www.operationsmile.org/story/using-ai-to-help-create-new-smiles-and-rebuild-lives/)
     
 * Global Health Equity
     
@@ -61,6 +65,10 @@
 * [En Español](https://espanol.operationsmile.org/)
 * [Smile Shop](https://operationsmile.brandfuel.org/)
 * [Partner With Us](https://www.operationsmile.org/about-us/corporate-partners/)
+
+![exclamation point icon](/wp-content/themes/operationsmile/assets/images/exclamation-icon.svg)
+
+Discover how AI is shaping the future of cleft care. [Watch the Film by BBC StoryWorks](https://www.operationsmile.org/story/using-ai-to-help-create-new-smiles-and-rebuild-lives/)
 
 [![Operation Smile](/wp-content/themes/operationsmile/assets/images/operation-smile-logo-2023.svg)](https://www.operationsmile.org/)
 
@@ -368,7 +376,7 @@ Virginia Beach, VA 23453
 
 Email\*
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
