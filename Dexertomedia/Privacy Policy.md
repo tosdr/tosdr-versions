@@ -93,6 +93,6 @@ LS2 8AJ
 United Kingdom_  
 ‍
 
-Alternatively, you can use this email address: [\[email protected\]](https://www.dexerto.media/cdn-cgi/l/email-protection)  
+Alternatively, you can use this email address: [privacy@dexerto.com](mailto:privacy@dexerto.com)  
 
 _Revised: 14th October, 2020_
