@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a08c8b33-04d0-4ce1-ab2b-57c7716822c7/20241015T142239/a08c8b33-04d0-4ce1-ab2b-57c7716822c7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a08c8b33-04d0-4ce1-ab2b-57c7716822c7/20241015T142239/a08c8b33-04d0-4ce1-ab2b-57c7716822c7_360x203.jpg)](https://www.king5.com/article/news/crime/man-shoots-estranged-wifes-new-boyfriend-kitsap-county/281-0045140c-065a-4b62-999a-b673da3ec8d9)
+        
+        #### [Man shoots estranged wife's new boyfriend after high-speed chase in Kitsap County, deputies say](https://www.king5.com/article/news/crime/man-shoots-estranged-wifes-new-boyfriend-kitsap-county/281-0045140c-065a-4b62-999a-b673da3ec8d9) [![](https://media.king5.com/assets/KING/images/a08c8b33-04d0-4ce1-ab2b-57c7716822c7/20241015T142239/a08c8b33-04d0-4ce1-ab2b-57c7716822c7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a08c8b33-04d0-4ce1-ab2b-57c7716822c7/20241015T142239/a08c8b33-04d0-4ce1-ab2b-57c7716822c7_360x203.jpg)](https://www.king5.com/article/news/crime/man-shoots-estranged-wifes-new-boyfriend-kitsap-county/281-0045140c-065a-4b62-999a-b673da3ec8d9)
+        
+        #### [Man shot by girlfriend's estranged husband following high-speed chase, per deputies](https://www.king5.com/article/news/crime/man-shoots-estranged-wifes-new-boyfriend-kitsap-county/281-0045140c-065a-4b62-999a-b673da3ec8d9) [![](https://media.king5.com/assets/KING/images/a08c8b33-04d0-4ce1-ab2b-57c7716822c7/20241015T142239/a08c8b33-04d0-4ce1-ab2b-57c7716822c7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a08c8b33-04d0-4ce1-ab2b-57c7716822c7/20241015T142239/a08c8b33-04d0-4ce1-ab2b-57c7716822c7_360x203.jpg)](https://www.king5.com/article/news/crime/man-shoots-estranged-wifes-new-boyfriend-kitsap-county/281-0045140c-065a-4b62-999a-b673da3ec8d9)
+        
+        #### [Kitsap County deputies arrest man they say shot estranged wife's new boyfriend after high-speed chase](https://www.king5.com/article/news/crime/man-shoots-estranged-wifes-new-boyfriend-kitsap-county/281-0045140c-065a-4b62-999a-b673da3ec8d9)
     *  [![](https://media.king5.com/assets/KING/images/03458fd2-4c5c-48e8-8aea-5e20fafa67a3/20241015T062213/03458fd2-4c5c-48e8-8aea-5e20fafa67a3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/03458fd2-4c5c-48e8-8aea-5e20fafa67a3/20241015T062213/03458fd2-4c5c-48e8-8aea-5e20fafa67a3_360x203.jpg)](https://www.king5.com/article/news/local/thieves-steal-u-haul-federal-way-hotel-costing-small-business-60k/281-225afdb5-7c6a-484b-9cb5-989b31d2d987)
         
         #### [Thieves steal U-Haul outside of Federal Way hotel, costing family-run business $60K](https://www.king5.com/article/news/local/thieves-steal-u-haul-federal-way-hotel-costing-small-business-60k/281-225afdb5-7c6a-484b-9cb5-989b31d2d987)
-        
-    *  [![](https://media.king5.com/assets/KING/images/af7c2637-e939-4dfc-86a7-532eb494c549/20241015T060354/af7c2637-e939-4dfc-86a7-532eb494c549_16x9.jpg) ![](https://media.king5.com/assets/KING/images/af7c2637-e939-4dfc-86a7-532eb494c549/20241015T060354/af7c2637-e939-4dfc-86a7-532eb494c549_360x203.jpg)](https://www.king5.com/article/news/local/3-thefts-reported-same-king-county-wedding-venue-in-2-months/281-7669065d-094f-4868-bddf-491dcc86f552)
-        
-        #### [3 thefts reported at same King County wedding venue in 2 months](https://www.king5.com/article/news/local/3-thefts-reported-same-king-county-wedding-venue-in-2-months/281-7669065d-094f-4868-bddf-491dcc86f552)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +59,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/22317379-d94a-4a99-b7f8-7982afd4146e/20241015T013232/22317379-d94a-4a99-b7f8-7982afd4146e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/22317379-d94a-4a99-b7f8-7982afd4146e/20241015T013232/22317379-d94a-4a99-b7f8-7982afd4146e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/cde6cffe-c9f3-4104-88c8-bccc5460c178/20241015T115736/cde6cffe-c9f3-4104-88c8-bccc5460c178_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cde6cffe-c9f3-4104-88c8-bccc5460c178/20241015T115736/cde6cffe-c9f3-4104-88c8-bccc5460c178_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +97,9 @@ Navigation
 
 Seattle, WA »
 
-56°
+55°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
