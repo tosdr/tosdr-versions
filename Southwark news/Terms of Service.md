@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Nursery Row Park, Walworth. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Nursery-Row-Park-Walworth.-Image-Southwark-Council-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
+    
+    ### [Walworth park once denounced as crime hotspot set for exciting revamp](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
+    
     [![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
     
     ### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
@@ -50,10 +54,6 @@
     [![Guys St Thomas' Theatre Nurse strike](https://southwarknews.co.uk/wp-content/uploads/2024/10/Guys-St-Thomas-Theatre-Nurse-Strike_cropped-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
     
     ### [Guy’s and St Thomas’ nurses secure reduction in late-night shifts after strike action](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
-    
-    [![Left to right: Meysam Ghorbani, Hosein Ghadimi, Hadi Salahi](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Meysam-Ghorbani-Hosein-Ghadimi-Hadi-Salahi-360x180.png)](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
-    
-    ### [Three jailed for drug dealing after vulnerable man dies in Bermondsey](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Nursery Row Park, Walworth. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Nursery-Row-Park-Walworth.-Image-Southwark-Council-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
+    
+    ### [Walworth park once denounced as crime hotspot set for exciting revamp](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
+    
     [![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
     
     ### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
@@ -130,10 +134,6 @@ View All Result
     [![Guys St Thomas' Theatre Nurse strike](https://southwarknews.co.uk/wp-content/uploads/2024/10/Guys-St-Thomas-Theatre-Nurse-Strike_cropped-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
     
     ### [Guy’s and St Thomas’ nurses secure reduction in late-night shifts after strike action](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
-    
-    [![Left to right: Meysam Ghorbani, Hosein Ghadimi, Hadi Salahi](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Meysam-Ghorbani-Hosein-Ghadimi-Hadi-Salahi-360x180.png)](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
-    
-    ### [Three jailed for drug dealing after vulnerable man dies in Bermondsey](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
