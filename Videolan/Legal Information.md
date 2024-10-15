@@ -1,3 +1,5 @@
+[Mastodon](https://floss.social/@VLC_Android) [Mastodon](https://floss.social/@videolan)               
+
  [![VideoLAN association](//images.videolan.org/images/logoGreen.png)](https://www.videolan.org/)Toggle navigation
 
 * [VideoLAN](https://www.videolan.org/videolan/)
