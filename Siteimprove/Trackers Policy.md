@@ -289,7 +289,7 @@ Support
 * [Developer Center](https://developer.siteimprove.com/)
 * [System Status](https://status.siteimprove.com/)
 
-*  [![](/globalassets/media/shared/social/linkedin.svg) LinkedIn](https://www.linkedin.com/company/siteimprove)
+*  [![](/globalassets/media/shared/social/linkedin_updated.svg) LinkedIn](https://www.linkedin.com/company/siteimprove)
 *  [![](/globalassets/media/shared/social/twitter.svg) Twitter](https://twitter.com/siteimprove)
 *  [![](/globalassets/media/shared/social/facebook.svg) Facebook](https://www.facebook.com/Siteimprove)
 *  [![](/globalassets/media/shared/social/youtube.svg) Youtube](https://www.youtube.com/channel/UCVost3tZNte0o4V2motH2IA)
