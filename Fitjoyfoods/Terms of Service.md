@@ -10,7 +10,7 @@ Try our NEW Grain-Free Cracker Rounds
 
 [Try our NEW Grain-Free Cracker Rounds](https://fitjoyfoods.com/collections/grain-free-cracker-rounds "Grain-Free Cracker Rounds")
 
-FitJoy Foods [![](//fitjoyfoods.com/cdn/shop/files/IT_S_A_SNACK_7.png?v=1690313671&width=240)![](//fitjoyfoods.com/cdn/shop/files/IT_S_A_SNACK_7.png?v=1690313671&width=280)](https://fitjoyfoods.com/)
+FitJoy Foods [![FitJoy Foods](//fitjoyfoods.com/cdn/shop/files/IT_S_A_SNACK_7.png?v=1690313671&width=240)![FitJoy Foods](//fitjoyfoods.com/cdn/shop/files/IT_S_A_SNACK_7.png?v=1690313671&width=280)](https://fitjoyfoods.com/)
 
 * Shop
     
@@ -32,21 +32,17 @@ FitJoy Foods [![](//fitjoyfoods.com/cdn/shop/files/IT_S_A_SNACK_7.png?v=16903136
     
     $649 $6.49](https://fitjoyfoods.com/products/cheezy-white-cheddar-cracker-rounds)
     
-    "Close (esc)"
-    
 * [Our People](https://fitjoyfoods.com/pages/our-people)
 * [Find FitJoy](https://fitjoyfoods.com/pages/store-locator)
 * [Blog](https://fitjoyfoods.com/blogs/life-of-joy)
 
-[Search](https://fitjoyfoods.com/search) [Account](https://fitjoyfoods.com/account) [0 Cart](https://fitjoyfoods.com/cart) ... Site navigation
+[Search](https://fitjoyfoods.com/search) [Account](https://fitjoyfoods.com/account) [0 Cart](https://fitjoyfoods.com/cart) . . . Site navigation
 
 Close
 
 Search
 
   Search
-
-Cancel
 
 Subtotal
 
@@ -62,25 +58,25 @@ Your cart is currently empty.
 
 * ![Products](//fitjoyfoods.com/cdn/shop/files/14_fee386f6-fe18-4840-8bd3-dba0f7dc6676.png?v=1689002788&width=2160)
     
-    Shop icon-chevron Expand submenu
+    Shop Expand submenu
     * Shop
-    * [View all icon-chevron](https://fitjoyfoods.com/collections/all)
-    * Grain-free Pretzels icon-chevron Expand submenu
+    * [View all](https://fitjoyfoods.com/collections/all)
+    * Grain-free Pretzels Expand submenu
         * Grain-free Pretzels
-        * [View all icon-chevron](https://fitjoyfoods.com/collections/pretzel-packs)
-        * [Cheezy White Cheddar Twists icon-chevron](https://fitjoyfoods.com/products/white-cheddar-pretzel-twists)
-        * [Tangy Dijon Mustard Twists icon-chevron](https://fitjoyfoods.com/products/gluten-free-honey-mustard-pretzels)
-        * [Hatch Chile Lime Twists icon-chevron](https://fitjoyfoods.com/products/hatch-chile-lime-pretzel-twists)
-        * [Sea Salt Twists icon-chevron](https://fitjoyfoods.com/products/gluten-free-pretzels)
-        * [Sea Salt Sticks icon-chevron](https://fitjoyfoods.com/products/gluten-free-pretzel-sticks)
-    * Grain-free Cracker Rounds icon-chevron Expand submenu
+        * [View all](https://fitjoyfoods.com/collections/pretzel-packs)
+        * [Cheezy White Cheddar Twists](https://fitjoyfoods.com/products/white-cheddar-pretzel-twists)
+        * [Tangy Dijon Mustard Twists](https://fitjoyfoods.com/products/gluten-free-honey-mustard-pretzels)
+        * [Hatch Chile Lime Twists](https://fitjoyfoods.com/products/hatch-chile-lime-pretzel-twists)
+        * [Sea Salt Twists](https://fitjoyfoods.com/products/gluten-free-pretzels)
+        * [Sea Salt Sticks](https://fitjoyfoods.com/products/gluten-free-pretzel-sticks)
+    * Grain-free Cracker Rounds Expand submenu
         * Grain-free Cracker Rounds
-        * [Classic Rounds icon-chevron](https://fitjoyfoods.com/products/classic-cracker-rounds)
-        * [Cheezy White Cheddar Rounds icon-chevron](https://fitjoyfoods.com/products/cheezy-white-cheddar-cracker-rounds)
-        * [Pepper Jack Rounds icon-chevron](https://fitjoyfoods.com/products/pepper-jack-grain-free-cracker-rounds)
-* [Our People icon-chevron](https://fitjoyfoods.com/pages/our-people)
-* [Find FitJoy icon-chevron](https://fitjoyfoods.com/pages/store-locator)
-* [Blog icon-chevron](https://fitjoyfoods.com/blogs/life-of-joy)
+        * [Classic Rounds](https://fitjoyfoods.com/products/classic-cracker-rounds)
+        * [Cheezy White Cheddar Rounds](https://fitjoyfoods.com/products/cheezy-white-cheddar-cracker-rounds)
+        * [Pepper Jack Rounds](https://fitjoyfoods.com/products/pepper-jack-grain-free-cracker-rounds)
+* [Our People](https://fitjoyfoods.com/pages/our-people)
+* [Find FitJoy](https://fitjoyfoods.com/pages/store-locator)
+* [Blog](https://fitjoyfoods.com/blogs/life-of-joy)
 
 ![](//fitjoyfoods.com/cdn/shop/files/FCM_x_FItJoy_July_5.jpg?v=1687878575&width=1000)
 
@@ -90,7 +86,7 @@ Sign up for our newsletter to learn about the latest product launches, promotins
 
  Enter your email Subscribe  
 
-Subscribe icon-right-arrow
+Subscribe
 
 [Or, explore out full lineup](https://fitjoyfoods.com/collections/all)
 
@@ -274,13 +270,13 @@ FitJoy Nutrition, LLC
 500 San Marcos St.   
 Suite 200  
 Austin, Tx 78702  
-Customer Support Email: support@fitjoyfoods.com
+Customer Support Email: support@fitjoyfoods.com 
 
 Sign up to receive news you'll want to snack on!
 
  Enter your email Subscribe  
 
-Subscribe icon-right-arrow
+Subscribe
 
 Learn More
 ----------
@@ -309,14 +305,12 @@ Get in touch
 
 Follow us
 
-* [instagram Instagram](https://instagram.com/fitjoy "FitJoy Foods on Instagram")
 * [Facebook](https://www.facebook.com/FitJoy "FitJoy Foods on Facebook")
+* [Instagram](https://instagram.com/fitjoy "FitJoy Foods on Instagram")
 * [LinkedIn](https://www.linkedin.com/company/fitjoyfoods/about/?viewAsMember=true "FitJoy Foods on LinkedIn")
 
-© 2024 FitJoy Foods [Meet The Team](https://fitjoyfoods.com/pages/our-people)[Store Locator](https://fitjoyfoods.com/pages/store-locator)[FitJoy Affiliate Program](https://fitjoy.refersion.com/) Built with Help from [Launch Supply](https://launchsupply.com/)
+© 2024 FitJoy Foods [Meet The Team](https://fitjoyfoods.com/pages/our-people)[Store Locator](https://fitjoyfoods.com/pages/store-locator)[FitJoy Affiliate Program](https://fitjoy.refersion.com/) Built with Help from [Launch Supply](https://launchsupply.com/?utm_campaign=footer&utm_source=fitjoy)
 
 "Close (esc)"
-
-icon-chevron
 
 Terms of Use | FitJoy
