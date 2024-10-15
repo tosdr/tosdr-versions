@@ -64,7 +64,7 @@
         * [Event Calendar](https://4-h.org/events/)
     * ### Professional Events
         
-        * [4-H PYD Academy-ARCHIVED](https://4-h.org/?page_id=132110)
+        * [4-H PYD Academy](https://4-h.org/resources/professionals/4-h-pyd-academy/)
     * [![Discover Upcoming Events](https://www.4-h.org/wp-content/uploads/2023/02/02105842/Events-Menu-600x600-1.jpg)Discover Upcoming Events ![Right Arrow](https://4-h.org/wp-content/themes/4h/assets/images/icons/arrow-right.svg)](https://4-h.org/events/) 
         
 * [Resources](https://4-h.org/resources/)
@@ -415,7 +415,7 @@ Terms and Conditions\*
 
  I have read and agree to National 4-H Council's [terms and conditions](https://4-h.org/terms-and-conditions) and [privacy policy](https://4-h.org/privacy-policy)\*
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
