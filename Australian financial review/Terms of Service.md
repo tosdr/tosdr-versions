@@ -292,13 +292,16 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![This week on The Fin podcast, political editor Phillip Coorey and AFR Magazine editor Matthew Drummond take us behind the scenes of the 2024 Power Issue.](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e5f08982a48b409ee2ec2b4a62b733530b3e9dfe)](https://www.afr.com/politics/federal/who-s-up-and-down-in-this-year-s-power-list-and-who-wanted-to-get-out-20240926-p5kdt8)
+[![Though the French scoff at activewear in everyday life, they don’t mind taking inspiration from it.](https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_463/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6105e3794d55a7da31505803a39f261a4f009667)](https://www.afr.com/life-and-luxury/fashion-and-style/the-australian-fashion-staple-you-won-t-see-on-the-streets-of-paris-20241008-p5kgkw)
 
-### [Who’s up and down in this year’s Power List – and who wanted to get out](https://www.afr.com/politics/federal/who-s-up-and-down-in-this-year-s-power-list-and-who-wanted-to-get-out-20240926-p5kdt8)
+### [The Australian fashion staple you won’t see on the streets of Paris](https://www.afr.com/life-and-luxury/fashion-and-style/the-australian-fashion-staple-you-won-t-see-on-the-streets-of-paris-20241008-p5kgkw)
 
-* ### [How we got Australia’s most powerful to step into David Rowe’s world](https://www.afr.com/politics/federal/how-we-got-australia-s-most-powerful-to-step-into-david-rowe-s-world-20240905-p5k81d)
+* 55 mins ago
+* Lauren Sams
+
+* ### [Who’s up and down in this year’s Power List – and who wanted to get out](https://www.afr.com/politics/federal/who-s-up-and-down-in-this-year-s-power-list-and-who-wanted-to-get-out-20240926-p5kdt8)
     
-* ### [Australia’s 10 most powerful people in 2024](https://www.afr.com/politics/federal/australia-s-10-most-powerful-people-in-2024-20240830-p5k6k9)
+* ### [How we got Australia’s most powerful to step into David Rowe’s world](https://www.afr.com/politics/federal/how-we-got-australia-s-most-powerful-to-step-into-david-rowe-s-world-20240905-p5k81d)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -318,15 +321,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.4448%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_52/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/38a69cf9075199e5c023263d1096d6c5e83cf155)](https://www.afr.com/technology/this-robot-will-do-battle-with-your-lawn-no-matter-the-cost-20241010-p5khbq)
+[![La Fiermontina Ocean resort pool villa ](https://static.ffx.io/images/$zoom_0.3504%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_288/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e8faa47bd91037186e0d9d84cfcd18a408f713af)](https://www.afr.com/life-and-luxury/travel/a-hidden-gem-on-morocco-s-barbary-coast-20240926-p5kduw)
 
-### [This robot will do battle with your lawn, no matter the cost](https://www.afr.com/technology/this-robot-will-do-battle-with-your-lawn-no-matter-the-cost-20241010-p5khbq)
+### [A hidden gem on Morocco’s Barbary Coast](https://www.afr.com/life-and-luxury/travel/a-hidden-gem-on-morocco-s-barbary-coast-20240926-p5kduw)
 
-* John Davidson
+* 55 mins ago
+* John Borthwick
 
-* ### [A ‘practice makes perfect’ kind of sport](https://www.afr.com/life-and-luxury/health-and-wellness/a-practice-makes-perfect-kind-of-sport-20240930-p5kekg)
+* ### [To become a better runner, try taping your mouth shut](https://www.afr.com/life-and-luxury/health-and-wellness/to-become-a-better-runner-try-taping-your-mouth-shut-20240924-p5kd4r)
     
-* ### [The Lotus Emeya is a big, dreamy electric sedan](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/the-lotus-emeya-is-a-big-dreamy-electric-sedan-20240913-p5kac2)
+* ### [How a podiatrist built one of Australia’s most successful shoe brands](https://www.afr.com/life-and-luxury/fashion-and-style/how-a-podiatrist-built-one-of-australia-s-most-successful-shoe-brands-20240828-p5k5ya)
     
 
 [Rich List](https://www.afr.com/rich-list)
