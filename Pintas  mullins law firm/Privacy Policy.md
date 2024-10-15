@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the standards for disaster preparedness for nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-are-the-standards-for-disaster-preparedness-in-nursing-homes.jpg "What Are the Standards for Disaster Preparedness for Nursing Homes?")](https://www.pintas.com/faq/what-are-the-standards-for-disaster-preparedness-in-nursing-homes/ "What Are the Standards for Disaster Preparedness for Nursing Homes?")
+[![Can peritoneal mesothelioma spread to the lungs?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-peritoneal-mesothelioma-spread-to-the-lungs-scaled.jpg "Can Peritoneal Mesothelioma Spread to the Lungs?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/can-peritoneal-mesothelioma-spread-to-lungs "Can Peritoneal Mesothelioma Spread to the Lungs?")
 
-[#### What Are the Standards for Disaster Preparedness for Nursing Homes?](https://www.pintas.com/faq/what-are-the-standards-for-disaster-preparedness-in-nursing-homes/)
+[#### Can Peritoneal Mesothelioma Spread to the Lungs?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/can-peritoneal-mesothelioma-spread-to-lungs)
 
-[![Serious head injuries from falls at assisted living facilities](https://www.pintas.com/wp-content/uploads/2021/03/elderly-lady-sitting-on-floor-after-a-fall-300x200.jpg "Serious Head Injuries From Falls at Assisted Living Facilities")](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/ "Serious Head Injuries From Falls at Assisted Living Facilities")
+[![Can you sue for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesotheliomacan-you-sue-for-mesothelioma-scaled.jpg "Can You Sue for Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/ "Can You Sue for Mesothelioma?")
 
-[#### Serious Head Injuries From Falls at Assisted Living Facilities](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/)
+[#### Can You Sue for Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/)
 
-[![Can chemo cure small cell lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-can-chemo-cure-small-cell-lung-cancer.jpg "Can Chemo Cure Small Cell Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-chemo-cure-small-cell-lung-cancer/ "Can Chemo Cure Small Cell Lung Cancer?")
+[![Can you diagnose lung cancer with a pet scan?](https://www.pintas.com/wp-content/uploads/2020/11/can-you-diagnose-lung-cancer-with-a-PET-scan.jpg "Can You Diagnose Lung Cancer with a PET Scan?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-diagnose-lung-cancer-with-a-pet-scan/ "Can You Diagnose Lung Cancer with a PET Scan?")
 
-[#### Can Chemo Cure Small Cell Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-chemo-cure-small-cell-lung-cancer/)
+[#### Can You Diagnose Lung Cancer with a PET Scan?](https://www.pintas.com/practice-areas/lung-cancer/can-you-diagnose-lung-cancer-with-a-pet-scan/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
