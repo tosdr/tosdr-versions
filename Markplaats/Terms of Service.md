@@ -46,7 +46,7 @@
 
 ### Gebruiksvoorwaarden
 
-[Hier](https://www.marktplaats.nl/i/help/over-marktplaats/voorwaarden-en-privacybeleid/algemene_voorwaarden_marktplaats.pdf?v=3) kunt u onze Gebruiksvoorwaarden inzien en downloaden.
+[Hier](https://www.marktplaats.nl/i/help/over-marktplaats/voorwaarden-en-privacybeleid/algemene_voorwaarden_marktplaats.pdf?v=4) kunt u onze Gebruiksvoorwaarden inzien en downloaden.
 
 I. Algemene Bepalingen
 ======================
