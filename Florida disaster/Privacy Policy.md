@@ -51,6 +51,7 @@ Search
         * [Floodplain Management Program](https://www.floridadisaster.org/dem/mitigation/floodplain/)
             * [Community Rating System (CRS)](https://www.floridadisaster.org/dem/mitigation/floodplain/crs/)
             * [Community Resources](https://www.floridadisaster.org/dem/mitigation/floodplain/community-resources/)
+            * [Substantial Damage Resources](https://www.floridadisaster.org/dem/mitigation/floodplain/substantial-damage-resources/)
         * [Flood Mitigation Assistance Program](https://www.floridadisaster.org/dem/mitigation/flood-mitigation-assistance-program/)
         * [Hazard Mitigation Grant Program](https://www.floridadisaster.org/dem/mitigation/hazard-mitigation-grant-program/)
         * [Hurricane Loss Mitigation Program](https://www.floridadisaster.org/dem/mitigation/hurricane-loss-mitigation-program/)
