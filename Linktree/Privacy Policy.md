@@ -188,7 +188,7 @@ You can see when this Privacy Notice was last updated by checking the “last up
 
 If you have any questions about this Privacy Notice, our privacy practices or if you would like to make a request about any personal information we may hold about you, including correction of personal information, please contact us:
 
-* By email using: support@linktr.ee
+* By email using: [\[email protected\]](https://linktr.ee/cdn-cgi/l/email-protection)
 * By visiting this page on our Platform: [linktr.ee/help](https://linktr.ee/help/)
 * By post at Linktree Pty Ltd, 1-9 Sackville Street, Collingwood VIC 3066, Australia.
 * If you want to request any information about how we process, store or use your data or anything relating to personal information and privacy laws, please use our [Data Request Form](https://linktr.ee/s/gdpr-form/).
@@ -199,7 +199,7 @@ If you are located in the **EU**, we have appointed Instant EU GDPR Representati
 
 Name: Adam Brogden
 
-Email: contact@gdprlocal.com
+Email: [\[email protected\]](https://linktr.ee/cdn-cgi/l/email-protection)
 
 Tel +353 15 549 700
 
@@ -211,7 +211,7 @@ If you are located in the **UK**, we have appointed GDPR Local Ltd. as our data 
 
 Name: Adam Brogden
 
-Email: contact@gdprlocal.com
+Email: [\[email protected\]](https://linktr.ee/cdn-cgi/l/email-protection)
 
 Tel +441 772 217 800
 
@@ -292,7 +292,7 @@ You have the right to request the deletion of your personal information collecte
 
 ###### (c) Right to Opt-Out of Sale of Personal Information
 
-As mentioned above, we do not sell personal information and we do not believe that our sharing of information would qualify as a sale under California law. Nonetheless, if you are a California resident who has purchased products or services from us, you may submit a request to record your preference to opt out by emailing us at support@linktr.ee.
+As mentioned above, we do not sell personal information and we do not believe that our sharing of information would qualify as a sale under California law. Nonetheless, if you are a California resident who has purchased products or services from us, you may submit a request to record your preference to opt out by emailing us at [\[email protected\]](https://linktr.ee/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -304,7 +304,7 @@ You have the right to not be treated in a discriminatory manner for exercising y
 
 To exercise your rights, you can contact us:
 
-* By email at support@linktr.ee
+* By email at [\[email protected\]](https://linktr.ee/cdn-cgi/l/email-protection)
 * By visiting this page on our website: [linktr.ee/help](https://linktr.ee/help/)
 * If you want to request any information about how we process, store or use your data or anything relating to personal information and privacy laws, please use our [Data Request Form](https://linktr.ee/s/gdpr-form/).
 
@@ -322,7 +322,7 @@ California law requires us to let you know how we respond to web browser Do Not 
 
 ##### 6\. California’s Shine the Light law
 
-We do not share personal information with third parties for their direct marketing purposes absent your consent as defined by California Civil Code Section 1798.83 (“Shine the Light law”). To opt-out of future sharing with third parties for their direct marking purposes, contact us at support@linktr.ee. Any such request must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that we are only required to respond to one request per customer each year.
+We do not share personal information with third parties for their direct marketing purposes absent your consent as defined by California Civil Code Section 1798.83 (“Shine the Light law”). To opt-out of future sharing with third parties for their direct marking purposes, contact us at [\[email protected\]](https://linktr.ee/cdn-cgi/l/email-protection). Any such request must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that we are only required to respond to one request per customer each year.
 
 ##### 7\. Changes
 
