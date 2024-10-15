@@ -1,3 +1,5 @@
+Skip to main content
+
 [![F-Secure](https://assets.f-secure.com/i/logos/f-secure-logo.svg)](https://www.f-secure.com/en)
 
 * [Legal](https://www.f-secure.com/en/legal)
