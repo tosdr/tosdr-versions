@@ -218,11 +218,11 @@
     
     [Press Release
     
-    OffSec's Cybersecurity Training Solutions Now Available in AWS Marketplace Through Carahsoft
+    Leeds Equity Partners Acquires OffSec
     
-    Carahsoft's CarahCloud-Marketplace Program Simplifies Procurement Process for OffSec's Offerings
+    Leeds Equity Partners announced that it has acquired OffSec, the leading provider of continuous cybersecurity workforce development training and professional education for cybersecurity practitioners from Spectrum Equity
     
-    ![OffSec's Cybersecurity Training Solutions Now Available in AWS Marketplace Through Carahsoft](https://manage.offsec.com/wp-content/uploads/2023/08/Homepage-default-preview.jpg)](https://www.offsec.com/press-room/)
+    ![Leeds Equity Partners Acquires OffSec](https://manage.offsec.com/wp-content/uploads/2023/08/Homepage-default-preview.jpg)](https://www.prnewswire.com/news-releases/leeds-equity-partners-acquires-offsec-302275836.html?utm_source=offsec)
     
 
 [Buy now](https://www.offensive-security.com/pre-registration/) [Sign In](https://portal.offensive-security.com/sign-in/) [](https://www.offensive-security.com/search/)[Contact](https://www.offensive-security.com/contact-us/)
@@ -447,11 +447,11 @@
     
     [Press Release
     
-    OffSec's Cybersecurity Training Solutions Now Available in AWS Marketplace Through Carahsoft
+    Leeds Equity Partners Acquires OffSec
     
-    Carahsoft's CarahCloud-Marketplace Program Simplifies Procurement Process for OffSec's Offerings
+    Leeds Equity Partners announced that it has acquired OffSec, the leading provider of continuous cybersecurity workforce development training and professional education for cybersecurity practitioners from Spectrum Equity
     
-    ![OffSec's Cybersecurity Training Solutions Now Available in AWS Marketplace Through Carahsoft](https://manage.offsec.com/wp-content/uploads/2023/08/Homepage-default-preview.jpg)](https://www.offsec.com/press-room/)
+    ![Leeds Equity Partners Acquires OffSec](https://manage.offsec.com/wp-content/uploads/2023/08/Homepage-default-preview.jpg)](https://www.prnewswire.com/news-releases/leeds-equity-partners-acquires-offsec-302275836.html?utm_source=offsec)
     
 
 [Buy now](https://www.offensive-security.com/pre-registration/) [Sign in](https://portal.offensive-security.com/sign-in/)
