@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Elliott Investment group calls for special meeting at Southwest Airlines](https://images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/08c13b032c1bee2ae7b8990cd98e0bc612c5fc53a07ad1218d7288259a0408d9/iupl/A7F/63F/32/18/A7F63F615A8D8160C2EADB8717CFEFD9.jpg?ve=1&tl=1)
+ [![Ted Cruz leads Colin Allred by 4 points in US Senate race, poll shows](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/cruz-allred-texas-senate.jpg?ve=1&tl=1)
 
- ![Elliott Investment group calls for special meeting at Southwest Airlines](https://images.foxtv.com/images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/08c13b032c1bee2ae7b8990cd98e0bc612c5fc53a07ad1218d7288259a0408d9/iupl/A7F/63F/32/18/592/333/A7F63F615A8D8160C2EADB8717CFEFD9.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/elliott-investment-group-calls-special-meeting-southwest-airlines)
+ ![Ted Cruz leads Colin Allred by 4 points in US Senate race, poll shows](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/cruz-allred-texas-senate.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ted-cruz-colin-allred-poll-october-texas-senate)
 
-### [Elliott Investment group calls for special meeting at Southwest Airlines](https://www.fox4news.com/news/elliott-investment-group-calls-special-meeting-southwest-airlines)
+### [Ted Cruz leads Colin Allred by 4 points in US Senate race, poll shows](https://www.fox4news.com/news/ted-cruz-colin-allred-poll-october-texas-senate)
 
- [![Irving pediatric assistant who inappropriately touched boys showed 'pattern of behavior,' police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-david-irving-pediatric-indecency-with-child-9p_00.01.07.10.jpg?ve=1&tl=1)
+ [![Tax extension deadline on Oct. 15: What to know about filing late returns](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2147889020.jpg?ve=1&tl=1)
 
- ![Irving pediatric assistant who inappropriately touched boys showed 'pattern of behavior,' police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-david-irving-pediatric-indecency-with-child-9p_00.01.07.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/angel-nunez-second-arrest-affidavit-little-spurs-pediatricians-assistant)
+ ![Tax extension deadline on Oct. 15: What to know about filing late returns](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2147889020.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tax-extension-filing-deadline-oct-15-2024-what-know)
 
-### [Irving pediatric assistant who inappropriately touched boys showed 'pattern of behavior,' police say](https://www.fox4news.com/news/angel-nunez-second-arrest-affidavit-little-spurs-pediatricians-assistant)
+### [Tax extension deadline on Oct. 15: What to know about filing late returns](https://www.fox4news.com/news/tax-extension-filing-deadline-oct-15-2024-what-know)
 
- [![North Richland Hills man killed in front of his home by drunk driver, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/nrh-hit-and-run.png?ve=1&tl=1)
+ [![Walgreens to close 1,200 stores across country](https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2023/10/32/18/GettyImages-1249595331.jpg?ve=1&tl=1)
 
- ![North Richland Hills man killed in front of his home by drunk driver, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/nrh-hit-and-run.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-richland-hills-jose-angel-valles-killed-hit-and-run)
+ ![Walgreens to close 1,200 stores across country](https://images.foxtv.com/images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2023/10/32/18/592/333/GettyImages-1249595331.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/walgreens-close-1200-stores-across-country)
 
-### [North Richland Hills man killed in front of his home by drunk driver, police say](https://www.fox4news.com/news/north-richland-hills-jose-angel-valles-killed-hit-and-run)
+### [Walgreens to close 1,200 stores across country](https://www.fox4news.com/news/walgreens-close-1200-stores-across-country)
 
- [![Can video games improve your sleep? Here's what the research shows](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-870580368.jpg?ve=1&tl=1)
+ [![DFW cold front brings first 40s in six months amid prolonged dry spell](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/176-days.jpg?ve=1&tl=1)
 
- ![Can video games improve your sleep? Here's what the research shows](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-870580368.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/video-games-sleep-study-review)
+ ![DFW cold front brings first 40s in six months amid prolonged dry spell](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/176-days.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dfw-cold-front-brings-first-cool-temps-six-months-dry-spell)
 
-### [Can video games improve your sleep? Here's what the research shows](https://www.fox4news.com/news/video-games-sleep-study-review)
+### [DFW cold front brings first 40s in six months amid prolonged dry spell](https://www.fox4news.com/news/dfw-cold-front-brings-first-cool-temps-six-months-dry-spell)
 
- [![Diddy lawsuits: More people, including minor, come forward accusing hip-hop mogul of sexual assault](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/diddy.jpg?ve=1&tl=1)
+ [![Some Social Security recipients will get two payments in November. Here's why](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-52182315-3.jpg?ve=1&tl=1)
 
- ![Diddy lawsuits: More people, including minor, come forward accusing hip-hop mogul of sexual assault](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/diddy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/diddy-lawsuits-more-come-forward-accusing-hip-hop-mogul-sexual-assault-2024-october)
+ ![Some Social Security recipients will get two payments in November. Here's why](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-52182315-3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/social-security-ssi-november-december-paymenet-schedule-2024)
 
-### [Diddy lawsuits: More people, including minor, come forward accusing hip-hop mogul of sexual assault](https://www.fox4news.com/news/diddy-lawsuits-more-come-forward-accusing-hip-hop-mogul-sexual-assault-2024-october)
+### [Some Social Security recipients will get two payments in November. Here's why](https://www.fox4news.com/news/social-security-ssi-november-december-paymenet-schedule-2024)
 
 ###### [News](https://www.fox4news.com/news)
 
