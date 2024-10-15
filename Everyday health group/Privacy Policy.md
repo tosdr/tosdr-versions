@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/early-heart-health-management-protect-brain-health-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/25-percent-adults-suspect-undiagnosed-adhd-1440x810.jpg)
 
-A Healthier Heart Means a Healthier Brain](https://www.everydayhealth.com/healthy-aging/improved-heart-health-can-also-protect-the-brain/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+1 in 4 Adults Suspect They Have ADHD, Survey Says](https://www.everydayhealth.com/mental-health-conditions/one-in-four-adults-suspect-they-have-adhd/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/florida-officials-flesh-eating-vibrio-bacteria-floodwaters-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/intermittent-fasting-greater-blood-sugar-control-counseling-1440x810.jpg)
 
-Florida Warns of Flesh-Eating Bacteria Risk From Hurricane Milton](https://www.everydayhealth.com/infectious-diseases/florida-warns-of-flesh-eating-bacteria-risk-from-hurricane-milton/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Time-Restricted Eating Could Slash Diabetes and Heart Disease Risk](https://www.everydayhealth.com/diet-nutrition/time-restricted-eating-could-slash-diabetes-and-heart-disease-risk/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/dupixent-approval-treat-copd-pdufa-1440x810.jpg)
 
