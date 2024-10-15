@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to GreenQloud](https://www.backup4all.com/how-to-backup-your-data-to-greenqloud-kb.html)  
+* [How to use the compression](https://www.backup4all.com/how-to-use-the-compression-kb.html)  
     
-* [How to restore your backup from HiDrive](https://www.backup4all.com/how-to-restore-your-backup-from-hidrive-kb.html)  
+* [How to back up data files from HGST using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-hgst-using-backup4all-kb.html)  
     
-* [How to Backup to SFTP?](https://www.backup4all.com/how-to-backup-to-sftp-kb.html)  
+* [How to backup on two external drives using th ...](https://www.backup4all.com/how-to-backup-on-two-external-drives-using-the-daily-rotation-scheme-kb.html)  
     
-* [How to back up data files from OneDrive using ...](https://www.backup4all.com/how-to-back-up-data-files-from-onedrive-using-backup4all-kb.html)  
+* [How to back up data files from SFTP using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-sftp-using-backup4all-kb.html)  
     
-* [How do browsers handle revoked SSL/TLS certif ...](https://www.backup4all.com/how-do-browsers-handle-revoked-ssl-tls-certificates-kb.html)  
+* [How “Smart file scanning mode” works in B ...](https://www.backup4all.com/how-smart-file-scanning-mode-works-in-backup4all-kb.html)  
     
 
 Choose language:
