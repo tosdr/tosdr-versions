@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-b8c1cf95c45a6f20f665ecc040980e7d
+f6f73d1ce45ddc8ad660d6edd986157a
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![13 mm flat amber rectangle](https://sojourner.biz/images/cache/glass/GL0365.200.jpg)](https://sojourner.biz/beads/glass/13-mm-flat-amber-rectangle.html "13 mm flat amber rectangle")
+[![2 mm round moonstone beads](https://sojourner.biz/images/cache/stone/STN050.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/2-mm-round-moonstone-beads.html "2 mm round moonstone beads")
 
-#### [13 mm flat amber rectangle](https://sojourner.biz/beads/glass/13-mm-flat-amber-rectangle.html "13 mm flat amber rectangle")
+#### [2 mm round moonstone beads](https://sojourner.biz/beads/stone-m-z/other-stones/2-mm-round-moonstone-beads.html "2 mm round moonstone beads")
 
-$4.00
+$10.00
 
 ### Best Sellers
 
