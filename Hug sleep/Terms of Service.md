@@ -4,7 +4,7 @@
 
 [Skip to content](#MainContent)
 
-Prime SALE: Buy one Sleep Pod, get another 50% OFF!
+FALL SALE: Buy one Sleep Pod, get another 50% OFF!
 
 [](javascript:void(0);)
 
