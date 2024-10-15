@@ -38,12 +38,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250301)
 * [Women's T20 WC
     
-    16/10 1:00 AEST
+    WI won by 6 wkts
     
     |     |     |
     | --- | --- |
-    | ENG | –   |
-    | WI  | –   |
+    | ENG | 7 /141 |
+    | WI  | 4 /144 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250120)
 * [Women's T20
@@ -196,40 +196,8 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=712)
-* NFL
-    
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NYJ | 20  |
-    | BUF | 23  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250615)
 * Baseball
     
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | LAD | 3   |
-    | NYM | 7   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240020028DBB2)
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | NYY | 5   |
-    | CLE | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400200204574)
 * [MLB
     
     16/10 10:38 AEST
