@@ -84,7 +84,7 @@ Location
         * [Respiratory/ immunology](https://www.gsk.com/en-gb/innovation/therapeutic-areas/respiratoryimmunology/)
         * [Oncology](https://www.gsk.com/en-gb/innovation/therapeutic-areas/oncology/)
         
-    * [Technologies](https://www.gsk.com/en-gb/innovation/technologies/)
+    * [Tech](https://www.gsk.com/en-gb/innovation/technologies/)
     * [Clinical trials at GSK](https://www.gsk.com/en-gb/innovation/trials/)
         
         Innovation [Clinical trials at GSK](https://www.gsk.com/en-gb/innovation/trials/)
