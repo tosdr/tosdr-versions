@@ -111,7 +111,7 @@ PLAYMOBIL is a registered trademark, pronounced playmobeel.
 
       
 
-Subscribe to our PLAYMOBIL newsletter and receive a 15% off Welcome Coupon.
+Join our newsletter and get an exclusive 15% off your first order!
 
  Sign up
 
