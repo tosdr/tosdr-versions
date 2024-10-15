@@ -41,7 +41,7 @@ Gen Mobile Terms and Conditions
 
  
 
-[General](https://www.genmobile.com/pages/terms)  | [Lifeline](https://www.genmobile.com/pages/lifeline)  | [CA LifeLIne](https://www.genmobile.com/pages/lifeline-california)
+[General](https://www.genmobile.com/pages/terms)  | [Lifeline](https://www.genmobile.com/pages/lifeline-terms-and-conditions)  | [CA LifeLIne](https://www.genmobile.com/pages/lifeline-california-terms-and-conditions)
 
 GEN MOBILE TERMS & CONDITIONS
 
