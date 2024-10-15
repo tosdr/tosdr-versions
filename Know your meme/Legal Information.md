@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Game Freak Pokémon GigaLeaks refers to an October 12th, 2024 data leak from Pokémon developer Game Freak, supposedly revealing information about Nintendo's next-gen console, an unannounced 10th generation Pokémon game, as well as Pokémon Legends Z-A. The leaks were reportedly first shared on a private Discord server before Pokémon enthusiasts on X and 4chan's /vp/ board began discussing the information in the leaks in detail. Game Freak subsequently confirmed the news later on October 12th. The leak reportedly indicated the name of the Game Freak employee responsible, with tech enthusiasts speculating that he may have been a victim of a phishing scam. Notable memes that emerged from this leak include jokes about Typhlosion, and memes about Skyla.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/263/gamef.jpg "Pokémon Fans Are Reeling From The Lore Uncovered In The Game Freak Gigaleak ... And It's Not All Pretty")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/269/sabrina-carpenter-10312324-8004bb12e9624446adcfb710c00e89be.jpg "Every Wild Story You Need To Know From The 'Pokémon Game Freak Gigaleak' Explained")
     
-    Pokémon Fans Are Reeling From The Lore Uncovered In The Game Freak Gigaleak ... And It's Not All Pretty](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks)
+    Every Wild Story You Need To Know From The 'Pokémon Game Freak Gigaleak' Explained](https://knowyourmeme.com/editorials/guides/every-wild-story-you-need-to-know-from-the-pokemon-game-freak-gigaleak-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/262/tpsfp.jpg "Where Did All The 'Temu Pig Shirt' Memes Come From? The Origins Of The Viral Twitter Ad-Turned-Meme Explained")
+* [![Asmongold Palestine comment controversy.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/268/1.jpg "Twitch Streamer Asmongold Catches Ban For His 'Inferior Culture' Comment Regarding Palestine")
     
-    Where Did All The 'Temu Pig Shirt' Memes Come From? The Origins Of The Viral Twitter Ad-Turned-Meme Explained](https://knowyourmeme.com/editorials/guides/where-did-all-the-temu-pig-shirt-memes-come-from-the-origins-of-the-viral-twitter-ad-turned-meme-explained)
+    Twitch Streamer Asmongold Catches Ban For His 'Inferior Culture' Comment Regarding Palestine](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy)
     
-* [![Typhlosion Game Freak Leaks refers to memes and jokes about Typhlosion, a fire-type Gen II Pokémon. After the Game Freak Gigaleak of October 2024 revealed an unreleased Pokémon lore story about a Typhlosion kidnapping a young girl and making her give birth to a half-human, half-Pokémon hybrid, internet users began posting memes and jokes about how Typhlosion is Not Like Us, and how the meme trend surrounding him resembles memes about Vaporeon.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/261/typhlosion.jpg "People Are Side-Eying Typhlosion After The Recent Pokémon Gigaleak Uncovered An Unsavory Origin Story ")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/267/cbsn-fusion-attendees-faint-trump-plays-his-favorite-music-at-bizarre-town-hall-in-pennsylvania-thumbnail.jpg "Donald Trump Spends Rally Making Crowd Watch Him Listen To Music For 40 Minutes, Raising Concerns About His Mental Fitness")
     
-    People Are Side-Eying Typhlosion After The Recent Pokémon Gigaleak Uncovered An Unsavory Origin Story](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks)
+    Donald Trump Spends Rally Making Crowd Watch Him Listen To Music For 40 Minutes, Raising Concerns About His Mental Fitness](https://knowyourmeme.com/news/trump-spends-rally-making-crowd-watch-him-listen-to-music-for-40-minutes-raising-concerns-about-his-mental-fitness)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/260/sabrina-carpenter-10312324-8004bb12e9624446adcfb710c00e89be.jpg "'I'm 17 And AFRAID Of Sabrina Carpenter' Kicks Off Doozy Of Discourse In Which Twitter Debates Whether It's Okay That Carpenter 'Dances Sexily'")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/266/cover7.jpg "What's With The 'From the Screen To The Ring' Copypasta? KSI Gets Mocked With The Lyric From His Song")
     
-    'I'm 17 And AFRAID Of Sabrina Carpenter' Kicks Off Doozy Of Discourse In Which Twitter Debates Whether It's Okay That Carpenter 'Dances Sexily'](https://knowyourmeme.com/news/im-17-and-afraid-of-sabrina-carpenter-kicks-off-doozy-of-discourse-in-which-twitter-debates-whether-its-okay-that-sabrina-carpenter-dances-sexily)
+    What's With The 'From the Screen To The Ring' Copypasta? KSI Gets Mocked With The Lyric From His Song](https://knowyourmeme.com/editorials/guides/whats-with-the-from-the-screen-to-the-ring-copypasta-ksi-gets-mocked-with-the-lyric-from-his-song)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/259/17-diapers-explained.jpg "What's The '17 Diapers' TikTok Video? Nurse Hannah, The Original Video And The Viral Debate That Has Mothers Divided, Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/265/mcaa.jpg "What Is 'Minecraft College Football?' Pig State, Ole Moo And Other Minecraft-Themed Universities From TikTok Explained ")
     
-    What's The '17 Diapers' TikTok Video? Nurse Hannah, The Original Video And The Viral Debate That Has Mothers Divided, Explained](https://knowyourmeme.com/editorials/guides/whats-the-17-diapers-tiktok-video-nurse-hannah-the-original-video-and-the-viral-debate-that-has-mothers-divided-explained)
+    What Is 'Minecraft College Football?' Pig State, Ole Moo And Other Minecraft-Themed Universities From TikTok Explained](https://knowyourmeme.com/editorials/guides/what-is-minecraft-college-football-pig-state-ole-moo-and-other-minecraft-themed-universities-from-tiktok-explained)
     
 
 ##### Also Trending:
 
-[Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks") [Jill Stein Trolley Problem Solution](https://knowyourmeme.com/memes/jill-steins-trolley-problem-solution "Jill Stein Trolley Problem Solution")
+[Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy") [Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks") [Game Freak Pokémon GigaLeaks](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks "Game Freak Pokémon GigaLeaks") [Jill Stein Trolley Problem Solution](https://knowyourmeme.com/memes/jill-steins-trolley-problem-solution "Jill Stein Trolley Problem Solution") [I Can't See the Movie I Want](https://knowyourmeme.com/memes/i-cant-see-the-movie-i-want-because-netflix-removed-it "I Can't See the Movie I Want")
 
 Copyright Infringement Notice
 =============================
