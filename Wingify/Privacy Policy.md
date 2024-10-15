@@ -164,9 +164,13 @@
     
     Use CRO Like the Pros: Surprising Ways to Nail Your CX](https://vwo.com/webinars/use-cro-like-pros-surprising-ways-nail-your-cx/)
     
+    [![Evelina Jörhov](https://static.wingify.com/gcp/uploads/2024/10/evelinajorhov-1.jpg?tr=w-60,h-50)
+    
+    Heatmaps: Visualizing User Engagement for Maximum Conversions](https://vwo.com/webinars/heatmaps-visualizing-user-engagement-maximum-conversions/)
+    
     [![Thejas Sridhar](https://static.wingify.com/gcp/uploads/2024/02/image.png?tr=w-60,h-50)
     
-    Fireside Chat: VWO’s Enhanced Stats Engine and More!](https://vwo.com/webinars/whats-next-experiment-reporting-vwos-lead-data-scientist-reveals-all/)
+    Fireside Chat: VWO’s Enhanced Stats Engine and More!](https://vwo.com/webinars/fireside-chat-vwo-enhanced-stats-engine-more/)
     
     [![Arjun Kunnath](https://static.wingify.com/gcp/uploads/2024/01/Screenshot-2024-01-29-at-7.39.27-PM.png?tr=w-60,h-50)
     
@@ -175,10 +179,6 @@
     [![Cameron Calder](https://static.wingify.com/gcp/uploads/2024/07/images.jpeg?tr=w-60,h-50)
     
     The No-Budget Conversion Blueprint: Leveraging What You Already Own](https://vwo.com/webinars/no-budget-conversion-blueprint-leveraging-what-already-own/)
-    
-    [![Ishan Goel](https://static.wingify.com/gcp/uploads/2023/12/speaker-17.png?tr=w-60,h-50)
-    
-    Fireside Chat: Evolution of Statistics and Experimentation with VWO’s Lead Data Scientist](https://vwo.com/webinars/fireside-chat-evolution-statistics-experimentation-vwos-lead-data-scientist/)
     
     [View all webinars](https://vwo.com/webinars)
     
