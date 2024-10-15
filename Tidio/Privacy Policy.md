@@ -1007,7 +1007,6 @@ Product
 * [Tidio+](https://www.tidio.com/tidio-plus/ "Tidio+")
 * [All features](https://www.tidio.com/features/ "All features")
 * [Ecommerce](https://www.tidio.com/industry/ecommerce/ "Ecommerce")
-* [Product Updates](https://tidio.noticeable.news/ "Product Updates")
 
 Integrations
 
@@ -1031,7 +1030,7 @@ Resources
 * [Tidio vs. LiveChat](https://www.tidio.com/vs/live-chat/ "Tidio vs. LiveChat")
 * [Tidio vs. Zendesk](https://www.tidio.com/vs/zendesk/ "Tidio vs. Zendesk")
 
-Help Center
+Support
 
 * [Help Center](https://help.tidio.com/ "Help Center")
 * [Installation](https://help.tidio.com/hc/en-us/sections/5377985735708-Install-Tidio "Installation")
