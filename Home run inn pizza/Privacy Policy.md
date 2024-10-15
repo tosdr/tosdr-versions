@@ -19,6 +19,7 @@
     * [Restaurant Rewards](https://www.homeruninnpizza.com/restaurant-rewards/)
 * About Us
     * [Our Pizza](https://www.homeruninnpizza.com/about-us/our-pizza/)
+    * [Chicago Tavern-Style Pizza](https://www.homeruninnpizza.com/about-us/tavern-style-pizza/)
     * [Our History](https://www.homeruninnpizza.com/about-us/our-history/)
     * [HRI Giving Back](https://www.homeruninnpizza.com/about-us/donation/)
     * [Join Our Team](https://www.homeruninnpizza.com/careers/)
