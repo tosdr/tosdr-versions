@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is the most common lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-what-is-the-most-common-lung-cancer.jpg "What Is the Most Common Lung Cancer?")](https://www.pintas.com/lung-cancer/what-is-the-most-common-lung-cancer/ "What Is the Most Common Lung Cancer?")
+[![What is the first day of living in a nursing home like?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-is-the-first-day-of-living-in-a-nursing-home-like.jpg "What Is the First Day of Living in a Nursing Home Like?")](https://www.pintas.com/faq/what-is-the-first-day-of-living-in-a-nursing-home-like/ "What Is the First Day of Living in a Nursing Home Like?")
 
-[#### What Is the Most Common Lung Cancer?](https://www.pintas.com/lung-cancer/what-is-the-most-common-lung-cancer/)
+[#### What Is the First Day of Living in a Nursing Home Like?](https://www.pintas.com/faq/what-is-the-first-day-of-living-in-a-nursing-home-like/)
 
-[![While in or getting out of the shower or bathtub](https://www.pintas.com/wp-content/uploads/2020/12/practice-areas-personal-injury-nursing-home-abuse-lawyer-while-in-getting-out-shower-bathtub.jpg "While in or Getting Out of the Shower or Bathtub")](https://www.pintas.com/faq/while-in-getting-out-shower-bathtub/ "While in or Getting Out of the Shower or Bathtub")
+[![Can you request a second opinion for an autopsy?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-you-request-a-second-opinion-for-an-autopsy.jpg "Can You Request a Second Opinion For an Autopsy?")](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/ "Can You Request a Second Opinion For an Autopsy?")
 
-[#### While in or Getting Out of the Shower or Bathtub](https://www.pintas.com/faq/while-in-getting-out-shower-bathtub/)
+[#### Can You Request a Second Opinion For an Autopsy?](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/)
 
-[![What are the standards for disaster preparedness for nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-are-the-standards-for-disaster-preparedness-in-nursing-homes.jpg "What Are the Standards for Disaster Preparedness for Nursing Homes?")](https://www.pintas.com/faq/what-are-the-standards-for-disaster-preparedness-in-nursing-homes/ "What Are the Standards for Disaster Preparedness for Nursing Homes?")
+[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/ "Is Clergy Sexual Abuse Common in the Mormon Church?")
 
-[#### What Are the Standards for Disaster Preparedness for Nursing Homes?](https://www.pintas.com/faq/what-are-the-standards-for-disaster-preparedness-in-nursing-homes/)
+[#### Is Clergy Sexual Abuse Common in the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
