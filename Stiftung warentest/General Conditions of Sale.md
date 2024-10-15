@@ -382,7 +382,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v119521900.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v119538539.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
 * [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
-* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
-* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
+* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
+* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
 * [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
-* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
-* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
+* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
+* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
 * [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
-* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
-* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
+* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
+* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
 * [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
-* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
-* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
+* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
+* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
 
 Service Stiftung Warentest
 
