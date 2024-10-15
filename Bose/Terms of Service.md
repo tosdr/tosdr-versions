@@ -4,6 +4,8 @@ Use code SAVE10 to save 10% on select Certified Refurbished. [Shop](https://www.
 
 Sound for the season: Check out our newest fall arrivals. [Shop](https://www.bose.com/c/new-arrivals)
 
+[Cancel](#)
+
 Back
 
 * [Shop](#)
@@ -156,11 +158,13 @@ Certified Refurbished
 
 ### Save an extra 10%](https://www.bose.com/c/refurbished "SHOP")
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwd7003f58/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwc2c3a7a3/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
 [](https://www.bose.com/cart "Cart 0 Items")
+
+[Cancel](#)
 
 Bose SMS Terms of Use
 =====================
