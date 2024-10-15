@@ -126,6 +126,12 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Kamala Harris Tim Walz joy 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/a-lack-of-joy/)
+    
+    [A Lack of Joy](https://www.conservativedailynews.com/2024/10/a-lack-of-joy/)
+    
+    October 15, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Joe-Biden-sleeping-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-15-2024/)
     
     [President Joe Biden’s Schedule for Tuesday, October 15, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-15-2024/)
@@ -166,15 +172,10 @@ Recent Posts
     
     October 14, 2024
     
-* [![Tim Walz electoral college](https://www.conservativedailynews.com/wp-content/uploads/2024/10/02-elccollege-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/its-time-to-close-the-door-for-good-on-ranked-choice-voting/)
-    
-    [It’s Time To Close The Door For Good On Ranked-Choice Voting](https://www.conservativedailynews.com/2024/10/its-time-to-close-the-door-for-good-on-ranked-choice-voting/)
-    
-    October 13, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [.21 Sharp: A Potential For Rimfire Competition?](https://www.thegunpage.com/21-sharp-a-potential-for-rimfire-competition/10611211)
 * [TFB Review: Springfield Armory Model 2020 Boundary 7mm PRC](https://www.thegunpage.com/tfb-review-springfield-armory-model-2020-boundary-7mm-prc/10611207)
 * [POTD: The New M230LF Dual Feed Bushmaster](https://www.thegunpage.com/potd-the-new-m230lf-dual-feed-bushmaster/10611208)
 * [The Rimfire Report: Taurus TX 22 Long-Term Review](https://www.thegunpage.com/the-rimfire-report-taurus-tx-22-long-term-review/10611209)
@@ -183,7 +184,6 @@ Recent Posts
 * [Rossi Pays Tribute To A Legendary Lawman](https://www.thegunpage.com/rossi-pays-tribute-to-a-legendary-lawman/10611205)
 * [Parker Mountain Machine Releases The PMM G45 Ultra](https://www.thegunpage.com/parker-mountain-machine-releases-the-pmm-g45-ultra/10611200)
 * [Klutzy Walz Struggles Loading His Shotgun On Pheasant Hunt](https://www.thegunpage.com/klutzy-walz-struggles-loading-his-shotgun-on-pheasant-hunt/10611198)
-* [Aguila Copa Mundial Wraps Up In Saltillo, Mexico](https://www.thegunpage.com/aguila-copa-mundial-wraps-up-in-saltillo-mexico/10611195)
 * [Things Stupid People Do: Argument Over Chores Leads to Gun Play](https://www.thegunpage.com/things-stupid-people-do-argument-over-chores-leads-to-gun-play/10611193)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
