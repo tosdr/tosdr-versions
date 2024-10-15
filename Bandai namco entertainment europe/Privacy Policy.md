@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [SWORD ART ONLINE Fractured Daydream: Countermeasures for Malicious Behavior and Cheating Tool Users](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-countermeasures-malicious-behavior-and)
 * [Awakening’s Launch Trailer Kicks Off the Final Countdown](https://en.bandainamcoent.eu/unknown-9/news/awakenings-launch-trailer-kicks-the-final-countdown)
-* [Dive into a whirlwind of puzzle-solving fun as OUTRIGHT GAMES today releases “NICK JR. PARTY ADVENTURE”](https://en.bandainamcoent.eu/nickelodeon/news/dive-whirlwind-of-puzzle-solving-fun-outright-games-today-releases-nick-jr-party)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
