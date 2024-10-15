@@ -172,7 +172,7 @@ Translated appointed Mr. Simone Giovanni Perone as its Data Protection Officer (
 
 This privacy policy was updated on May 25, 2018.
 
-We are on a mission to open up language to everyone, using a powerful combination of expert human translators and machine intelligence, and providing curated localization solutions and tools to 354,135 customers worldwide.
+We are on a mission to open up language to everyone, using a powerful combination of expert human translators and machine intelligence, and providing curated localization solutions and tools to 354,488 customers worldwide.
 
 © Translated · VAT IT07173521001
 
