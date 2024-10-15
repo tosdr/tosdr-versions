@@ -30,14 +30,17 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef0caaec-b594-4bd4-8e8d-640a709355d6/20241015T034235/ef0caaec-b594-4bd4-8e8d-640a709355d6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef0caaec-b594-4bd4-8e8d-640a709355d6/20241015T034235/ef0caaec-b594-4bd4-8e8d-640a709355d6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/durant-ambulance-service-desperate-need-volunteers-ems/526-c7d59810-7b8d-44df-a8e6-c96aa61d4848)
+    *  [![](https://media.tegna-media.com/assets/KING/images/ca8780a2-4d0b-47e0-82cd-d44fce16bc90/ca8780a2-4d0b-47e0-82cd-d44fce16bc90_16x9.jpg) ![](https://media.tegna-media.com/assets/KING/images/ca8780a2-4d0b-47e0-82cd-d44fce16bc90/ca8780a2-4d0b-47e0-82cd-d44fce16bc90_360x203.jpg)](https://www.wqad.com/article/weather/frost-freeze-iowa-illinois-first-of-the-season/526-c2316dfc-ef51-434a-b73f-0ba6dd8dd0a3)
         
-        #### [Durant Ambulance Service needs more volunteers to continue its services](https://www.wqad.com/article/news/local/public-safety/durant-ambulance-service-desperate-need-volunteers-ems/526-c7d59810-7b8d-44df-a8e6-c96aa61d4848)
+        #### [First frost and freeze of the season in the forecast](https://www.wqad.com/article/weather/frost-freeze-iowa-illinois-first-of-the-season/526-c2316dfc-ef51-434a-b73f-0ba6dd8dd0a3)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bab324df-aeb1-47bb-b353-7e58746beee8/bab324df-aeb1-47bb-b353-7e58746beee8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bab324df-aeb1-47bb-b353-7e58746beee8/bab324df-aeb1-47bb-b353-7e58746beee8_360x203.jpg)](https://www.wqad.com/article/news/local/the-diner-closing-davenport/526-dd99b3bf-bd8a-45c6-ba6b-b859ce47f5f4)
+    *  [![](https://media.tegna-media.com/assets/WZZM/images/455431225/455431225_16x9.png) ![](https://media.tegna-media.com/assets/WZZM/images/455431225/455431225_360x203.png)](https://www.wqad.com/article/news/local/moline-city-council-approves-new-affordable-housing-project/526-45c65b43-2e4b-4838-91d1-c4fd45869a50)
         
-        #### [Davenport's The Diner announces it's closing](https://www.wqad.com/article/news/local/the-diner-closing-davenport/526-dd99b3bf-bd8a-45c6-ba6b-b859ce47f5f4)
+        #### [Moline City Council approves new affordable housing project](https://www.wqad.com/article/news/local/moline-city-council-approves-new-affordable-housing-project/526-45c65b43-2e4b-4838-91d1-c4fd45869a50) [![](https://media.tegna-media.com/assets/WZZM/images/455431225/455431225_16x9.png) ![](https://media.tegna-media.com/assets/WZZM/images/455431225/455431225_360x203.png)](https://www.wqad.com/article/news/local/moline-city-council-approves-new-affordable-housing-project/526-45c65b43-2e4b-4838-91d1-c4fd45869a50)
         
+        #### [New affordable housing coming to Moline](https://www.wqad.com/article/news/local/moline-city-council-approves-new-affordable-housing-project/526-45c65b43-2e4b-4838-91d1-c4fd45869a50) [![](https://media.tegna-media.com/assets/WZZM/images/455431225/455431225_16x9.png) ![](https://media.tegna-media.com/assets/WZZM/images/455431225/455431225_360x203.png)](https://www.wqad.com/article/news/local/moline-city-council-approves-new-affordable-housing-project/526-45c65b43-2e4b-4838-91d1-c4fd45869a50)
+        
+        #### [Moline is getting more affordable housing](https://www.wqad.com/article/news/local/moline-city-council-approves-new-affordable-housing-project/526-45c65b43-2e4b-4838-91d1-c4fd45869a50)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,13 +59,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/CCT/images/f33e4104-6631-44c3-8a0f-dc005ebf0e2c/20241015T005524/f33e4104-6631-44c3-8a0f-dc005ebf0e2c_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/f33e4104-6631-44c3-8a0f-dc005ebf0e2c/20241015T005524/f33e4104-6631-44c3-8a0f-dc005ebf0e2c_360x203.jpg)](https://www.wqad.com/article/news/nation-world/fema-north-carolina-threats/507-aa2dbed9-7d47-4f3b-8bc4-07839a74f6c6)
+    *  [![](https://media.tegna-media.com/assets/KING/images/ca8780a2-4d0b-47e0-82cd-d44fce16bc90/ca8780a2-4d0b-47e0-82cd-d44fce16bc90_16x9.jpg) ![](https://media.tegna-media.com/assets/KING/images/ca8780a2-4d0b-47e0-82cd-d44fce16bc90/ca8780a2-4d0b-47e0-82cd-d44fce16bc90_360x203.jpg)](https://www.wqad.com/article/weather/frost-freeze-iowa-illinois-first-of-the-season/526-c2316dfc-ef51-434a-b73f-0ba6dd8dd0a3)
         
-        #### [FEMA workers change some hurricane-recovery efforts in North Carolina after receiving threats](https://www.wqad.com/article/news/nation-world/fema-north-carolina-threats/507-aa2dbed9-7d47-4f3b-8bc4-07839a74f6c6)
+        #### [First frost and freeze of the season in the forecast](https://www.wqad.com/article/weather/frost-freeze-iowa-illinois-first-of-the-season/526-c2316dfc-ef51-434a-b73f-0ba6dd8dd0a3)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/913e9e55-e7b9-46b8-8272-408a2e36dfba/20241014T224235/913e9e55-e7b9-46b8-8272-408a2e36dfba_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/913e9e55-e7b9-46b8-8272-408a2e36dfba/20241014T224235/913e9e55-e7b9-46b8-8272-408a2e36dfba_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/433c08db-f3e9-441f-abd3-0a1ed4e339e0/20241015T121604/433c08db-f3e9-441f-abd3-0a1ed4e339e0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/433c08db-f3e9-441f-abd3-0a1ed4e339e0/20241015T121604/433c08db-f3e9-441f-abd3-0a1ed4e339e0_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [First frost and freeze of the season ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [First freeze of the season on track for Wednesday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +89,9 @@ Navigation
 
 Davenport, IA »
 
-34°
+51°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
