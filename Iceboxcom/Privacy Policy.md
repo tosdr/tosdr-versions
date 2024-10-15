@@ -1,19 +1,5 @@
 ![](https://www.facebook.com/tr?id=196064485683782&ev=PageView&noscript=1)   
 
-![pay later with Klarna](/themes/default/frontend/oct-2023/assets/pay-klarna.svg) ![pay later with Affirm](/themes/default/frontend/oct-2023/assets/pay-affirm.svg) ![pay later with Afterpay](/themes/default/frontend/oct-2023/assets/pay-afterpay.svg)
-
-### Buy Now & Pay Later!
-
-Icebox.com is offering service through Klarna, Affirm or Afterpay.
-
-Add items to your cart and get approved during the checkout process!
-
-Approvals are fast and items are paid for instantly after your approval.
-
-### Why To Use Service?
-
-No Credit Score Impact Quick & Easy To Follow Personal Installments Plan
-
 [![Icebox ](/assets/public-2020/img/logos/bfcf00d9a70b7f8b520fb5a2a42187be.png)](https://www.icebox.com/)
 
 [](javascript:void(0);)[Our Locations](https://www.icebox.com/locations)[](javascript:void(0);)
@@ -151,33 +137,25 @@ Explains what information we collect and why, how we use it, and how to review a
 * You may write to us at support@icebox.com for any privacy concerns and requests relating to this Terms of Use and Privacy Policy.  
     
 
-##### Call Now
-
-[VIA PHONE 404-842-0266](tel:404-842-0266) [VIA EMAIL sales@icebox.com](mailto:sales@icebox.com)
-
-##### More Pages
-
-[Contact Us](https://www.icebox.com/contact) [Return & Exchange Policy](https://www.icebox.com/terms-and-conditions#term_20) [Frequently Asked Questions](https://www.icebox.com/faq/all) [Careers](https://www.icebox.com/careers) [Catalog](https://www.icebox.com/catalog) [Financing](https://www.icebox.com/financing) [Locations](https://www.icebox.com/locations) [About Us](https://www.icebox.com/about-us) [My Account](javascript:void(0);)
-
-##### Shop By Products
-
-[Pendants](https://www.icebox.com/results/pendants) [Gold Chains](https://www.icebox.com/results/gold-chains) [Earrings](https://www.icebox.com/results/earrings) [Necklaces](https://www.icebox.com/results/necklaces) [Rings](https://www.icebox.com/results/rings) [Bracelets](https://www.icebox.com/results/bracelets) [Bustdowns](https://www.icebox.com/results/watches) [Custom](https://www.icebox.com/results/custom) [Watches](https://www.icebox.com/results/watch-market) [Travel Cases](https://www.icebox.com/results/travel-cases)
-
-##### Change Currency
-
-![](/themes/default/frontend/oct-2023/assets/flags/usd.svg) $ USD
-
 ![Icebox Logo](/assets/public-2020/img/logos/bfcf00d9a70b7f8b520fb5a2a42187be.png)
 
 3255 Peachtree Rd NE,  
 Suite #2  
 Atlanta, GA 30305, USA
 
-Monday - Friday:  
-11:00 AM - 6:00 PM
+![](/themes/default/frontend/oct-2023/assets/store-picture.webp)
 
-Weekends:  
-Closed
+##### Shop By Products
+
+[Pendants](https://www.icebox.com/results/pendants) [Gold Chains](https://www.icebox.com/results/gold-chains) [Earrings](https://www.icebox.com/results/earrings) [Necklaces](https://www.icebox.com/results/necklaces) [Rings](https://www.icebox.com/results/rings) [Bracelets](https://www.icebox.com/results/bracelets) [Bustdowns](https://www.icebox.com/results/watches) [Custom](https://www.icebox.com/results/custom) [Watches](https://www.icebox.com/results/watch-market) [Travel Cases](https://www.icebox.com/results/travel-cases)
+
+##### More Pages
+
+[Contact Us](https://www.icebox.com/contact) [Return & Exchange Policy](https://www.icebox.com/terms-and-conditions#term_20) [Frequently Asked Questions](https://www.icebox.com/faq/all) [Careers](https://www.icebox.com/careers) [Catalog](https://www.icebox.com/catalog) [Financing](https://www.icebox.com/financing) [Locations](https://www.icebox.com/locations) [About Us](https://www.icebox.com/about-us) [My Account](javascript:void(0);)
+
+##### Call Now
+
+[VIA PHONE 404-842-0266](tel:404-842-0266) [VIA EMAIL sales@icebox.com](mailto:sales@icebox.com)
 
 ##### Follow Us
 
