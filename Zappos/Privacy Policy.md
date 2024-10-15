@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-Get 1,000 VIP Points Today! [Join VIP & Shop](https://www.zappos.com/c/vip-dash)
+VIPs get 2x points on purchases made today! [Join VIP & Shop](https://www.zappos.com/c/vip-dash)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
