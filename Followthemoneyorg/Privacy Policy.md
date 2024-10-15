@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2013 and 2014: Monetary Competitiveness in State Legislative Races](/assets/Uploads/Comp-vs-Incumb.png)](https://www.followthemoney.org/research/institute-reports/2013-and-2014-monetary-competitiveness-in-state-legislative-races/)
+[![CA Health Industry Giving 2002-2012](/assets/Images/teasers/full/CAHealthIndGvg2002-2012.png)](http://www.followthemoney.org/ca-localelections/health-industry-ca-infographic)
+
+CA Health Industry Giving 2002-2012
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
