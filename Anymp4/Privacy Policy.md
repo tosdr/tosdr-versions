@@ -316,7 +316,8 @@ Other
 -----
 
 • Protection of AnyMP4 and third parties: We will disclose accounts and personal data of customers, if we are bound by law to do so or if disclosure is necessary to enforce our General Terms and Conditions or other agreements or to protect our rights or the rights of third parties. This includes data exchange with companies specializing in preventing and minimizing the risk of violation and credit card fraud. We explicitly state that in this context no data will be passed on to those companies for economic use that would contradict this privacy policy.  
-• With your consent: In all other cases we will inform you if personal information is to be handed off to third parties and give you the chance to give your consent.
+• With your consent: In all other cases we will inform you if personal information is to be handed off to third parties and give you the chance to give your consent.  
+• About screen recording data: Our Screen Recorder program need to be authorized to help you record your screen and audio on your computer, but we don't collect or store your personal data.
 
 [![AnyMP4 Logo](/style-response/images/white-logo.png)](https://www.anymp4.com/) [Download Center](https://www.anymp4.com/download.html) [AnyMP4 Store](https://www.anymp4.com/purchase.html)
 
