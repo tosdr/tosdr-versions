@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/supermarktwinsten-over-rug-boeren-en-consument/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/de-lichtenergie-vanuit-het-atlantische-bewustzijn/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -154,7 +154,7 @@ Inschrijven
 
 #### Quote van de week
 
-> Politiek taalgebruik is ontworpen, om leugens geloofwaardig te doen klinken en moord respectabel. En om de schijn hoog te houden dat wind vaste materie is.
+> Journalistiek is het publiceren van informatie, wat iemand anders niet gepubliceerd wil hebben. Al het andere is ‘public relations’.
 > 
 > George Orwell (1903-1950), journalist-auteur
 
