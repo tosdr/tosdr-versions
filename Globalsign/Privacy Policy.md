@@ -458,7 +458,7 @@ APAC
 * [EN / India](https://www.globalsign.com/en)
 * [EN / Singapore](https://www.globalsign.com/en-sg)
 * [EN / Australia & New Zealand](https://www.globalsign.com/en)
-* [EN / Philippines](https://www.globalsign.com/en-ph)
+* [EN / Philippines](https://www.globalsign.com/en)
 * [ภาษาไทย](https://www.globalsign.com/th-th)
 
 Preferred Partners
