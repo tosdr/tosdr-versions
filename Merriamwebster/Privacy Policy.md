@@ -419,11 +419,11 @@ Missing Letter A daily crossword with a twist
 
 Play](https://www.merriam-webster.com/games/missing-letter)
 
-[![petit-fours](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![misspelled quiz cover](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-Name That Dessert! Hope you’ve saved room for some sweet vocabulary.
+Commonly Misspelled Words Quiz Autocorrect can’t save you now.
 
-Take the quiz](https://www.merriam-webster.com/games/name-that-dessert)
+Take the quiz](https://www.merriam-webster.com/games/commonly-misspelled-quiz)
 
 [Merriam Webster](https://www.merriam-webster.com/)
 
