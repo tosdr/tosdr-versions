@@ -432,10 +432,10 @@ Connect with patients and caregivers for support.
     Fundraising: [fundraise@apfed.org](mailto:fundraise@apfed.org)  
     Legislative Issues: [pac@apfed.org](mailto:pac@apfed.org)  
     Corporate Donations / Matching Funds: [fundraise@apfed.org](mailto:fundraise@apfed.org)  
-    For assistance in finding a physician in your area, please visit our [DocFinder](https://www.apfed.org/doctor_finder/)  
+    For assistance in finding a physician in your area, please visit our [Specialist Finder](https://apfed.org/find-support-treatment/specialist-finder/)  
     To Report Errors or Problems with Our Site, please contact our [Webmaster](mailto:webmaster@apfed.org?subject=Report%20to%20APFED%20Webmaster).  
       
-    APFED is a 501(c)3 organization dedicated to patients and their families coping with eosinophilic disorders. APFED strives to expand education, create awareness, and fund research while promoting advocacy among its members.  
+    APFED is a 501(c)3 organization dedicated to patients and their families coping with eosinophilic disorders. APFED educates, creates awareness, funds research and advocates.  
     Tax ID: 76-0700153
 
 #### Partner with APFED
