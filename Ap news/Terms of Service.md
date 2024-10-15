@@ -13,8 +13,8 @@ Menu
     TOP STORIES
     
     * [Israeli strike in northern Lebanon kills at least 21 people](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-14-2024-70c8cf5a93eec9ea643a5fda5670da93)
-    * [Hezbollah's drones are a fierce and evasive threat to Israel](https://apnews.com/article/hezbollah-drones-iran-israel-war-hamas-iran-houthi-386ae3c8deeb4c8997e64c954c3670e5)
-    * [Canada and India expel each other's diplomats in escalating dispute over a 2023 assassination](https://apnews.com/article/india-canada-ambassador-recalled-sikh-assassination-f099e210d2f9df93fea18a9de04e06f8)
+    * [Canada expels India's top diplomat and alleges wider diplomatic involvement in crimes](https://apnews.com/article/india-canada-ambassador-recalled-sikh-assassination-f099e210d2f9df93fea18a9de04e06f8)
+    * [Russia says it captured a southern Ukraine village in a push before winter comes](https://apnews.com/article/russia-ukraine-war-zaporizhzhia-shahed-drones-f21d12a3751b76282365ddcc2c9a9fd0)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
+    * [Florida returning to something like normal after Hurricane Milton](https://apnews.com/article/hurricane-milton-helene-florida-tampa-8e2247b63eb024ef9d406f88c53a735b)
     * [Members of the Kennedy family gather for funeral of Ethel Kennedy](https://apnews.com/article/ethel-kennedy-funeral-robert-f-kennedy-bc4bcbe40ee8564c629acc35cab5c305)
     * [Florida government finds fault with abortion ballot measure over ads and petitions](https://apnews.com/article/florida-abortion-ad-fraud-0c37fea6f71788e1c6b65c4488570e4d)
-    * [FEMA workers change some hurricane-recovery efforts in North Carolina after receiving threats](https://apnews.com/article/fema-threats-disaster-workers-rutherford-county-armed-militia-dbb6b5727eaa12e79f307bf38a4b6256)
     
     Newsletters
     
@@ -48,13 +48,13 @@ Menu
     
     SECTIONS
     
-    [Election results](https://apnews.com/projects/election-results-2024/) [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/) [Google trends](https://apnews.com/projects/election-results-2024/google-trends/) [AP & Elections](https://apnews.com/ap-elections-explained) [Global elections](https://apnews.com/hub/global-elections/)
+    [Explaining Election 2024](https://apnews.com/hub/explaining-election-2024) [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/) [Election results](https://apnews.com/projects/election-results-2024/) [Google trends](https://apnews.com/projects/election-results-2024/google-trends/) [AP & Elections](https://apnews.com/ap-elections-explained) [Global elections](https://apnews.com/hub/global-elections/)
     
     TOP STORIES
     
-    * [Harris and Trump campaigning in battleground Pennsylvania on Monday](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
+    * [Harris and Trump campaign in battleground Pennsylvania](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
     * [This could have been a year of a federal court reckoning for Trump. Judges had other ideas](https://apnews.com/article/trump-federal-court-classified-documents-2020-election-302f87960dbd84d7be5daedaf03328d8)
-    * [Harris is laying out a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
+    * [Harris announces a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Harris announces a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
     * [Kamala Harris will sit down with Bret Baier for her first Fox News interview](https://apnews.com/article/kamala-harris-fox-news-interview-41d02466eddf3be38126008470335803)
-    * [Harris is laying out a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
-    * [Harris and Trump campaigning in battleground Pennsylvania on Monday](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
+    * [Harris and Trump campaign in battleground Pennsylvania](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
+    * [Lindor homers as Mets stop Dodgers' scoreless streak in 7-3 win, head to NY with NLCS tied 1-1](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-38404ba2c1c993036e9e343fb100e843)
+    * [Dodgers pitchers' record-tying streak of 33 straight scoreless innings in playoffs ends in NLCS](https://apnews.com/article/mlb-playoffs-dodgers-mets-0c9eebe06e684e44668177b7a9cdce7f)
     * [Kansas tops AP Top 25 preseason men's basketball poll ahead of Alabama, defending champion UConn](https://apnews.com/article/ap-top-25-mens-college-basketball-poll-f2d170d57b5d623e46fee4eaa5079c7d)
-    * [Lions' Aidan Hutchinson has surgery on fractured tibia, fibula with no timeline for return](https://apnews.com/article/lions-aidan-hutchinson-injury-b5f91b7fef2430278c9dcdda1f014478)
-    * [Analysis: Offenses have their way in Week 6 with highest scoring output of the season](https://apnews.com/article/mayfield-goff-tucker-parsons-jackson-97143497925bcead9bddb4dc268a94ec)
     
     Newsletters
     
@@ -115,8 +115,8 @@ Menu
     TOP STORIES
     
     * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
-    * [New lawsuits accuse Sean 'Diddy' Combs of sexual assault against 6 people, including a minor](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-sex-trafficking-6349f77fa3a5fb1cc4030d7abd65ccba)
-    * [‘Terrifier 3’ slashes ‘Joker’ to take No. 1 at the box office as ‘The Apprentice’ fizzles](https://apnews.com/article/box-office-terrifier-3-joker-apprentice-trump-531515f88d678d99f2a40f2bcd8535ac)
+    * [6 people accuse Diddy of sexual assault in new lawsuits, including man who was 16 at the time](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-sex-trafficking-6349f77fa3a5fb1cc4030d7abd65ccba)
+    * [Donald Trump uses 'Full Metal Jacket' clips to portray his ideal military](https://apnews.com/article/donald-trump-full-metal-jacket-kubrick-3910423bc7d5fbc6269f07462f45409c)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [California Gov. Gavin Newsom signs a law aimed at preventing gas prices from spiking](https://apnews.com/article/california-gas-prices-newsom-e2e3e79cc374ca09afd6867351fe6d35)
     * [Nobel economics prize goes to 3 economists who found that freer societies are more likely to prosper](https://apnews.com/article/nobel-economics-prize-db3bfe55ac17dd22cf82f1dd637bfa94)
     * [Tech consultant goes on trial in death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
-    * [Lilly Ledbetter, an icon of the fight for equal pay, has died at 86](https://apnews.com/article/lilly-ledbetter-equal-pay-women-rights-6044c3fa0c843ad1e294fbf49725da99)
     
 * [Science](https://apnews.com/science)
     
@@ -157,12 +157,12 @@ Menu
     
     TOP STORIES
     
+    * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [Mud, beer and cash: Annual wife-carrying championship attracts competitive couples to Maine](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     * [Witnesses can bear-ly believe the surprise visitor at Connecticut governor's estate](https://apnews.com/article/bear-climbs-fence-connecticut-governors-mansion-3b1aaf00afa14dc1c7e12ac0faf9d1b4)
     * [Woman pleads guilty to trying to smuggle 29 turtles across a Vermont lake into Canada by kayak](https://apnews.com/article/eastern-box-turtles-smuggling-vermont-lake-kayak-fdb63d3944a27ef12088fa97a16950a3)
     * [Authorities continue to investigate container suspected of holding dynamite in Tennessee](https://apnews.com/article/explosives-evacuation-knoxville-metal-recycler-3b929a961105649b12b258ec0a01e0f6)
     * [New Zealand ship didn’t sink because its captain was a woman, the ‘appalled’ defense minister says](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
-    * [Washington state woman calls 911 after being hounded by up to 100 raccoons](https://apnews.com/article/washington-state-raccoon-invasion-cadf885cc7a4f2bd05e7755d448e7d8c)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -234,8 +234,8 @@ Menu
     
     TOP STORIES
     
-    * [Clean energy workers are desperately needed, but many don't know these jobs exist](https://apnews.com/article/renewable-energy-heat-pump-solar-incarcerated-jobs-440fbc3411f6e92219b61efdac8b4fed)
     * [Drought is parching the world's largest man-made lake, stripping Zambia of its electricity](https://apnews.com/article/climate-power-electricity-drought-environment-6e3e746566b0831491e72de380f4079d)
+    * [Clean energy workers are desperately needed, but many don't know these jobs exist](https://apnews.com/article/renewable-energy-heat-pump-solar-incarcerated-jobs-440fbc3411f6e92219b61efdac8b4fed)
     * [Climate change gave significant boost to Milton's destructive rain, winds, scientists say](https://apnews.com/article/hurricane-milton-climate-change-greenhouse-gases-fossil-fuels-aa1c971c228feb9da6f36fb9cc46ee81)
     
 * [Health](https://apnews.com/health)
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
-    * [Historic Jersey Shore amusement park closes after generations of family thrills](https://apnews.com/article/ocean-city-amusement-park-closing-gillians-wonderland-1aa9ef6bbb8afee232497af01ac722f3)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Members of the Kennedy family gather for funeral of Ethel Kennedy](https://apnews.com/article/ethel-kennedy-funeral-robert-f-kennedy-bc4bcbe40ee8564c629acc35cab5c305)
     * [An elephant procession for Dussehra draws a crowd in the former Mysore kingdom](https://apnews.com/article/mysuru-dussehra-india-hindu-festival-photos-e5d7fc21ca640ddfce1f510f8a94cdad)
     * [Hindus in Bangladesh celebrate their largest festival under tight security following attacks](https://apnews.com/article/bangladesh-durga-puja-hindu-festival-violence-3e87b4d3702308687aeee43854da03eb)
-    * [Zelenskyy appeals to allies to keep up aid as Germany pledges new weapons package](https://apnews.com/article/pope-zelenskyy-russia-ukraine-scholz-a8d440a7c78a32a22d449743338dd0c2)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Ataque israelí a edificio de apartamentos en norte del Líbano deja 18 muertos](https://apnews.com/world-news/general-news-4fc033c237a05cb507c8a74e69b714dd)
+    * [Ataque de Israel en norte de Líbano mata a 21 personas en edificio de apartamentos, dice Cruz Roja](https://apnews.com/world-news/general-news-4fc033c237a05cb507c8a74e69b714dd)
     * [Fuerzas rusas afirman que capturaron aldea del sur de Ucrania](https://apnews.com/world-news/general-news-2f9ad931e60db39a9d1e8d9137055ee7)
     * [Nobel de Economía premia estudio de cómo unas instituciones débiles afectan al éxito de los países](https://apnews.com/world-news/general-news-33b0981915c5c06dd84ba4eeff6dd72b)
-    * [Premier de Polonia defiende plan para pausar el derecho de asilo](https://apnews.com/world-news/general-news-78b0866f6a4973d8561226f652058fdf)
-    * [China hace grandes maniobras militares en torno a Taiwán en una advertencia contra la independencia](https://apnews.com/world-news/general-news-71a2dcf418c2554318fac227447b9a53)
-    * [NASA inicia misión para explorar la luna Europa de Júpiter; llegará en 5 años y medio](https://apnews.com/science/nasa-inicia-mision-para-explorar-la-luna-europa-de-jupiter-llegara-en-5-anos-y-medio-e2baa6ddb065aa1393d9fa848f815fd2)
+    * [Canadá expulsa al principal diplomático de India y alega participación diplomática en delitos](https://apnews.com/world-news/general-news-557b8141bca8bd0aaf29fe1e3e22ede3)
+    * [EEUU: Demócratas esperan que recientes sentencias restrictivas sobre el aborto animen a los votantes](https://apnews.com/politics/general-news-4c28acbc750ba2d0a3d700dde0fd0ac3)
+    * [Calabaza de 1.120 kilos gana concurso en California](https://apnews.com/us-news/general-news-1f159897590e7311c9cef350182e0b4d)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -329,8 +329,9 @@ Menu
         
     * [Election 2024](https://apnews.com/hub/election-2024)
         
-        * [Election results](https://apnews.com/projects/election-results-2024/)
+        * [Explaining Election 2024](https://apnews.com/hub/explaining-election-2024)
         * [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/)
+        * [Election results](https://apnews.com/projects/election-results-2024/)
         * [Google trends](https://apnews.com/projects/election-results-2024/google-trends/)
         * [AP & Elections](https://apnews.com/ap-elections-explained)
         * [Global elections](https://apnews.com/hub/global-elections/)
@@ -459,8 +460,8 @@ Submit Search
     TOP STORIES
     
     * [Israeli strike in northern Lebanon kills at least 21 people](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-14-2024-70c8cf5a93eec9ea643a5fda5670da93)
-    * [Hezbollah's drones are a fierce and evasive threat to Israel](https://apnews.com/article/hezbollah-drones-iran-israel-war-hamas-iran-houthi-386ae3c8deeb4c8997e64c954c3670e5)
-    * [Canada and India expel each other's diplomats in escalating dispute over a 2023 assassination](https://apnews.com/article/india-canada-ambassador-recalled-sikh-assassination-f099e210d2f9df93fea18a9de04e06f8)
+    * [Canada expels India's top diplomat and alleges wider diplomatic involvement in crimes](https://apnews.com/article/india-canada-ambassador-recalled-sikh-assassination-f099e210d2f9df93fea18a9de04e06f8)
+    * [Russia says it captured a southern Ukraine village in a push before winter comes](https://apnews.com/article/russia-ukraine-war-zaporizhzhia-shahed-drones-f21d12a3751b76282365ddcc2c9a9fd0)
     
     Newsletters
     
@@ -476,9 +477,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Florida returning to something like normal after Hurricane Milton](https://apnews.com/article/hurricane-milton-helene-florida-tampa-8e2247b63eb024ef9d406f88c53a735b)
     * [Members of the Kennedy family gather for funeral of Ethel Kennedy](https://apnews.com/article/ethel-kennedy-funeral-robert-f-kennedy-bc4bcbe40ee8564c629acc35cab5c305)
     * [Florida government finds fault with abortion ballot measure over ads and petitions](https://apnews.com/article/florida-abortion-ad-fraud-0c37fea6f71788e1c6b65c4488570e4d)
-    * [FEMA workers change some hurricane-recovery efforts in North Carolina after receiving threats](https://apnews.com/article/fema-threats-disaster-workers-rutherford-county-armed-militia-dbb6b5727eaa12e79f307bf38a4b6256)
     
     Newsletters
     
@@ -492,21 +493,22 @@ Submit Search
     
 * [Election 2024](https://apnews.com/hub/election-2024)
     
-    * [Election results](https://apnews.com/projects/election-results-2024/)
+    * [Explaining Election 2024](https://apnews.com/hub/explaining-election-2024)
     * [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/)
+    * [Election results](https://apnews.com/projects/election-results-2024/)
     * [Google trends](https://apnews.com/projects/election-results-2024/google-trends/)
     * [AP & Elections](https://apnews.com/ap-elections-explained)
     * [Global elections](https://apnews.com/hub/global-elections/)
     
     SECTIONS
     
-    [Election results](https://apnews.com/projects/election-results-2024/) [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/) [Google trends](https://apnews.com/projects/election-results-2024/google-trends/) [AP & Elections](https://apnews.com/ap-elections-explained) [Global elections](https://apnews.com/hub/global-elections/)
+    [Explaining Election 2024](https://apnews.com/hub/explaining-election-2024) [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/) [Election results](https://apnews.com/projects/election-results-2024/) [Google trends](https://apnews.com/projects/election-results-2024/google-trends/) [AP & Elections](https://apnews.com/ap-elections-explained) [Global elections](https://apnews.com/hub/global-elections/)
     
     TOP STORIES
     
-    * [Harris and Trump campaigning in battleground Pennsylvania on Monday](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
+    * [Harris and Trump campaign in battleground Pennsylvania](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
     * [This could have been a year of a federal court reckoning for Trump. Judges had other ideas](https://apnews.com/article/trump-federal-court-classified-documents-2020-election-302f87960dbd84d7be5daedaf03328d8)
-    * [Harris is laying out a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
+    * [Harris announces a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
     
     Newsletters
     
@@ -529,9 +531,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Harris announces a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
     * [Kamala Harris will sit down with Bret Baier for her first Fox News interview](https://apnews.com/article/kamala-harris-fox-news-interview-41d02466eddf3be38126008470335803)
-    * [Harris is laying out a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
-    * [Harris and Trump campaigning in battleground Pennsylvania on Monday](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
+    * [Harris and Trump campaign in battleground Pennsylvania](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
     
     Newsletters
     
@@ -559,9 +561,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Lindor homers as Mets stop Dodgers' scoreless streak in 7-3 win, head to NY with NLCS tied 1-1](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-38404ba2c1c993036e9e343fb100e843)
+    * [Dodgers pitchers' record-tying streak of 33 straight scoreless innings in playoffs ends in NLCS](https://apnews.com/article/mlb-playoffs-dodgers-mets-0c9eebe06e684e44668177b7a9cdce7f)
     * [Kansas tops AP Top 25 preseason men's basketball poll ahead of Alabama, defending champion UConn](https://apnews.com/article/ap-top-25-mens-college-basketball-poll-f2d170d57b5d623e46fee4eaa5079c7d)
-    * [Lions' Aidan Hutchinson has surgery on fractured tibia, fibula with no timeline for return](https://apnews.com/article/lions-aidan-hutchinson-injury-b5f91b7fef2430278c9dcdda1f014478)
-    * [Analysis: Offenses have their way in Week 6 with highest scoring output of the season](https://apnews.com/article/mayfield-goff-tucker-parsons-jackson-97143497925bcead9bddb4dc268a94ec)
     
     Newsletters
     
@@ -589,8 +591,8 @@ Submit Search
     TOP STORIES
     
     * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
-    * [New lawsuits accuse Sean 'Diddy' Combs of sexual assault against 6 people, including a minor](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-sex-trafficking-6349f77fa3a5fb1cc4030d7abd65ccba)
-    * [‘Terrifier 3’ slashes ‘Joker’ to take No. 1 at the box office as ‘The Apprentice’ fizzles](https://apnews.com/article/box-office-terrifier-3-joker-apprentice-trump-531515f88d678d99f2a40f2bcd8535ac)
+    * [6 people accuse Diddy of sexual assault in new lawsuits, including man who was 16 at the time](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-sex-trafficking-6349f77fa3a5fb1cc4030d7abd65ccba)
+    * [Donald Trump uses 'Full Metal Jacket' clips to portray his ideal military](https://apnews.com/article/donald-trump-full-metal-jacket-kubrick-3910423bc7d5fbc6269f07462f45409c)
     
 * [Business](https://apnews.com/business)
     
@@ -604,9 +606,9 @@ Submit Search
     
     TOP STORIES
     
+    * [California Gov. Gavin Newsom signs a law aimed at preventing gas prices from spiking](https://apnews.com/article/california-gas-prices-newsom-e2e3e79cc374ca09afd6867351fe6d35)
     * [Nobel economics prize goes to 3 economists who found that freer societies are more likely to prosper](https://apnews.com/article/nobel-economics-prize-db3bfe55ac17dd22cf82f1dd637bfa94)
     * [Tech consultant goes on trial in death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
-    * [Lilly Ledbetter, an icon of the fight for equal pay, has died at 86](https://apnews.com/article/lilly-ledbetter-equal-pay-women-rights-6044c3fa0c843ad1e294fbf49725da99)
     
 * [Science](https://apnews.com/science)
     
@@ -641,12 +643,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [Mud, beer and cash: Annual wife-carrying championship attracts competitive couples to Maine](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     * [Witnesses can bear-ly believe the surprise visitor at Connecticut governor's estate](https://apnews.com/article/bear-climbs-fence-connecticut-governors-mansion-3b1aaf00afa14dc1c7e12ac0faf9d1b4)
     * [Woman pleads guilty to trying to smuggle 29 turtles across a Vermont lake into Canada by kayak](https://apnews.com/article/eastern-box-turtles-smuggling-vermont-lake-kayak-fdb63d3944a27ef12088fa97a16950a3)
     * [Authorities continue to investigate container suspected of holding dynamite in Tennessee](https://apnews.com/article/explosives-evacuation-knoxville-metal-recycler-3b929a961105649b12b258ec0a01e0f6)
     * [New Zealand ship didn’t sink because its captain was a woman, the ‘appalled’ defense minister says](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
-    * [Washington state woman calls 911 after being hounded by up to 100 raccoons](https://apnews.com/article/washington-state-raccoon-invasion-cadf885cc7a4f2bd05e7755d448e7d8c)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -727,8 +729,8 @@ Submit Search
     
     TOP STORIES
     
-    * [Clean energy workers are desperately needed, but many don't know these jobs exist](https://apnews.com/article/renewable-energy-heat-pump-solar-incarcerated-jobs-440fbc3411f6e92219b61efdac8b4fed)
     * [Drought is parching the world's largest man-made lake, stripping Zambia of its electricity](https://apnews.com/article/climate-power-electricity-drought-environment-6e3e746566b0831491e72de380f4079d)
+    * [Clean energy workers are desperately needed, but many don't know these jobs exist](https://apnews.com/article/renewable-energy-heat-pump-solar-incarcerated-jobs-440fbc3411f6e92219b61efdac8b4fed)
     * [Climate change gave significant boost to Milton's destructive rain, winds, scientists say](https://apnews.com/article/hurricane-milton-climate-change-greenhouse-gases-fossil-fuels-aa1c971c228feb9da6f36fb9cc46ee81)
     
 * [Health](https://apnews.com/health)
@@ -773,17 +775,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
-    * [Historic Jersey Shore amusement park closes after generations of family thrills](https://apnews.com/article/ocean-city-amusement-park-closing-gillians-wonderland-1aa9ef6bbb8afee232497af01ac722f3)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Members of the Kennedy family gather for funeral of Ethel Kennedy](https://apnews.com/article/ethel-kennedy-funeral-robert-f-kennedy-bc4bcbe40ee8564c629acc35cab5c305)
     * [An elephant procession for Dussehra draws a crowd in the former Mysore kingdom](https://apnews.com/article/mysuru-dussehra-india-hindu-festival-photos-e5d7fc21ca640ddfce1f510f8a94cdad)
     * [Hindus in Bangladesh celebrate their largest festival under tight security following attacks](https://apnews.com/article/bangladesh-durga-puja-hindu-festival-violence-3e87b4d3702308687aeee43854da03eb)
-    * [Zelenskyy appeals to allies to keep up aid as Germany pledges new weapons package](https://apnews.com/article/pope-zelenskyy-russia-ukraine-scholz-a8d440a7c78a32a22d449743338dd0c2)
     
     Newsletters
     
@@ -797,12 +799,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Ataque israelí a edificio de apartamentos en norte del Líbano deja 18 muertos](https://apnews.com/world-news/general-news-4fc033c237a05cb507c8a74e69b714dd)
+    * [Ataque de Israel en norte de Líbano mata a 21 personas en edificio de apartamentos, dice Cruz Roja](https://apnews.com/world-news/general-news-4fc033c237a05cb507c8a74e69b714dd)
     * [Fuerzas rusas afirman que capturaron aldea del sur de Ucrania](https://apnews.com/world-news/general-news-2f9ad931e60db39a9d1e8d9137055ee7)
     * [Nobel de Economía premia estudio de cómo unas instituciones débiles afectan al éxito de los países](https://apnews.com/world-news/general-news-33b0981915c5c06dd84ba4eeff6dd72b)
-    * [Premier de Polonia defiende plan para pausar el derecho de asilo](https://apnews.com/world-news/general-news-78b0866f6a4973d8561226f652058fdf)
-    * [China hace grandes maniobras militares en torno a Taiwán en una advertencia contra la independencia](https://apnews.com/world-news/general-news-71a2dcf418c2554318fac227447b9a53)
-    * [NASA inicia misión para explorar la luna Europa de Júpiter; llegará en 5 años y medio](https://apnews.com/science/nasa-inicia-mision-para-explorar-la-luna-europa-de-jupiter-llegara-en-5-anos-y-medio-e2baa6ddb065aa1393d9fa848f815fd2)
+    * [Canadá expulsa al principal diplomático de India y alega participación diplomática en delitos](https://apnews.com/world-news/general-news-557b8141bca8bd0aaf29fe1e3e22ede3)
+    * [EEUU: Demócratas esperan que recientes sentencias restrictivas sobre el aborto animen a los votantes](https://apnews.com/politics/general-news-4c28acbc750ba2d0a3d700dde0fd0ac3)
+    * [Calabaza de 1.120 kilos gana concurso en California](https://apnews.com/us-news/general-news-1f159897590e7311c9cef350182e0b4d)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
