@@ -240,7 +240,7 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 #### Post a Comment
 
-[](https://www.blogger.com/comment/frame/4872500577479423617?pa=7582132933299209018&hl=en-GB&saa=73852)
+[](https://www.blogger.com/comment/frame/4872500577479423617?pa=7582132933299209018&hl=en-GB)
 
 [Home](https://otakutl.blogspot.com/)
 
