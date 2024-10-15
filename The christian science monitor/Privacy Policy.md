@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Community
+
+### In Norway, having a joyful, secure childhood is a right enshrined into law](https://www.csmonitor.com/World/Europe/2024/1015/norway-child-care-subsidy-universal-preschool "In Norway, having a joyful, secure childhood is a right enshrined into law")
+
 [Innovation
 
 ### Europa Clipper launch: A NASA scientist on probing if life can exist on Jupiter moon](https://www.csmonitor.com/Science/2024/1014/europa-clipper-launch-nasa-life-jupiter-moon "Europa Clipper launch: A NASA scientist on probing if life can exist on Jupiter moon")
@@ -99,10 +103,6 @@ Recent Stories
 [Innovation
 
 ### Big launch for SpaceX, but promise aloft comes with tension in Texas](https://www.csmonitor.com/Science/2024/1013/spacex-starbase-starship-launch-texas "Big launch for SpaceX, but promise aloft comes with tension in Texas")
-
-[Resilience
-
-### Where Hezbollah stands, and what’s at stake, after battering by Israel](https://www.csmonitor.com/World/Middle-East/2024/1011/israel-hezbollah-resilience-lebanon-war "Where Hezbollah stands, and what’s at stake, after battering by Israel")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### In Norway, having a joyful, secure childhood is a right enshrined into law](https://www.csmonitor.com/World/Europe/2024/1015/norway-child-care-subsidy-universal-preschool "In Norway, having a joyful, secure childhood is a right enshrined into law")
+
 [### Israel steps up attacks in Gaza as UN peacekeepers come under fire in Lebanon](https://www.csmonitor.com/World/Middle-East/2024/1012/israel-airstrike-gaza-lebanon-un-peacekeepers-hunger-warnings "Israel steps up attacks in Gaza as UN peacekeepers come under fire in Lebanon")
 
 [### Where Hezbollah stands, and what’s at stake, after battering by Israel](https://www.csmonitor.com/World/Middle-East/2024/1011/israel-hezbollah-resilience-lebanon-war "Where Hezbollah stands, and what’s at stake, after battering by Israel")
-
-[### ‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders](https://www.csmonitor.com/World/Middle-East/2024/1010/israel-hezbollah-war-lebanon-iran "‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders")
 
 * * *
 
