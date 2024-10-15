@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [After Burner III](https://www.myabandonware.com/game/after-burner-iii-hgu)
+* [Aeroboto](https://www.myabandonware.com/game/aeroboto-7wk)
 * [Arch Rivals](https://www.myabandonware.com/game/arch-rivals-8h4)
 * [Super Tank](https://www.myabandonware.com/game/super-tank-sux)
 * [Space Slalom](https://www.myabandonware.com/game/space-slalom-suw)
-* [Space Mountain](https://www.myabandonware.com/game/space-mountain-suv)
-* [Guzzler](https://www.myabandonware.com/game/guzzler-rz7)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
