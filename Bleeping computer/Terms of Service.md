@@ -36,18 +36,18 @@
         
         CISA: Hackers abuse F5 BIG-IP cookies to map internal servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
     
-    * [![$89 gets you 2TB of FileJump cloud storage that lasts for life](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![EDRSilencer red team tool used in attacks to bypass security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        $89 gets you 2TB of FileJump cloud storage that lasts for life](https://www.bleepingcomputer.com/offer/deals/89-gets-you-2tb-of-filejump-cloud-storage-that-lasts-for-life/)
-    * [![Cisco investigates breach after stolen data for sale on hacking forum](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
+    * [![Turn raw data into something you can show off with Microsoft Visio](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Cisco investigates breach after stolen data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/cisco-investigates-breach-after-stolen-data-for-sale-on-hacking-forum/)
-    * [![New FASTCash malware Linux variant helps steal money from ATMs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Turn raw data into something you can show off with Microsoft Visio](https://www.bleepingcomputer.com/offer/deals/turn-raw-data-into-something-you-can-show-off-with-microsoft-visio/)
+    * [![New FIDO proposal lets you securely move passkeys across platforms](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New FASTCash malware Linux variant helps steal money from ATMs](https://www.bleepingcomputer.com/news/security/new-fastcash-malware-linux-variant-helps-steal-money-from-atms/)
-    * [![Jetpack fixes critical information disclosure flaw existing since 2016](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New FIDO proposal lets you securely move passkeys across platforms](https://www.bleepingcomputer.com/news/security/new-fido-proposal-lets-you-securely-move-passkeys-across-platforms/)
+    * [![Over 200 malicious apps on Google Play downloaded millions of times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Jetpack fixes critical information disclosure flaw existing since 2016](https://www.bleepingcomputer.com/news/security/jetpack-fixes-critical-information-disclosure-flaw-existing-since-2016/)
+        Over 200 malicious apps on Google Play downloaded millions of times](https://www.bleepingcomputer.com/news/security/over-200-malicious-apps-on-google-play-downloaded-millions-of-times/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,12 +352,12 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![AI hacker security Artificial Intelligence](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    OpenAI confirms threat actors use ChatGPT to write malware](https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
 * [![Cisco](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Cisco investigates breach after stolen data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/cisco-investigates-breach-after-stolen-data-for-sale-on-hacking-forum/)
+* [![AI hacker security Artificial Intelligence](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    OpenAI confirms threat actors use ChatGPT to write malware](https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
 * [![Iranian hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Iranian hackers now exploit Windows flaw to elevate privileges](https://www.bleepingcomputer.com/news/security/oilrig-hackers-now-exploit-windows-flaw-to-elevate-privileges/)
