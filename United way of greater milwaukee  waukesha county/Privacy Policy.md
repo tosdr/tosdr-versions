@@ -292,6 +292,8 @@ If you have any questions, concerns, or suggestions regarding this Privacy State
 
 Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to UWGMWC. 
 
+![](/DefaultFilePile/Files/Logos/UnitedWay/Logo_Mobile.png?Small)
+
 [About](https://unitedwaygmwc.org/About)
 
 [Mission & Vision](https://unitedwaygmwc.org/Mission-Vision)
