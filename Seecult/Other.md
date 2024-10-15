@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dus-gerzic-gera/radovi/figura-uljena-platnu-1991.jpg?itok=oK4wSIP9)](http://seecult.org/galerija/galerija-umetnika/dusan-gerzic-gera/radovi)
+[![Zoran Popović, Performance Axioms, SKC, Belgrade 1972](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-performansiperformances/zoran-popovic-aksiomi/axioms/zoran-popovic-aksiomi-kristina-stiles-moma.jpg?itok=AgVa1YYZ)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-performansiperformances/zoran-3)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/rade-markovic2.jpg?itok=GG2Uj3el)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/marky-ramone.jpg?itok=ArdLV-iT)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,6 +422,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Milica Stojadinović Srpkinja pesnikinji Dragani Mladenović](http://seecult.org/vest/milica-stojadinovic-srpkinja-pesnikinji-dragani-mladenovic)
+* [17\. Kondenz poziva na okupljanje](http://seecult.org/vest/17-kondenz-poziva-na-okupljanje)
 * [Naličje društva](http://seecult.org/vest/nalicje-drustva)
 * [Savremena Crvenkapa](http://seecult.org/vest/savremena-crvenkapa-0)
 * [Nepredvidiva prošlost budućnosti. O političkom potencijalu utopije](http://seecult.org/vest/nepredvidiva-proslost-buducnosti-o-politickom-potencijalu-utopije)
@@ -430,8 +432,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Čitanje poruka nevidljivog sveta prirode](http://seecult.org/vest/citanje-poruka-nevidljivog-sveta-prirode)
 * [Gran pri 64. MESS-a predstavi Tragudia Alesandra Sere](http://seecult.org/vest/gran-pri-64-mess-predstavi-tragudia-alesandra-sere)
 * [Sunce nikad više premijerno u Talinu](http://seecult.org/vest/sunce-nikad-vise-premijerno-u-talinu)
-* [Mihalkov u Narodnom pozorištu](http://seecult.org/vest/mihalkov-u-narodnom-pozoristu)
-* [Ne idi daleko najbolja predstava 19. Zvezdarišta](http://seecult.org/vest/ne-idi-daleko-najbolja-predstava-19-zvezdarista)
 
 * [Konkursi](#tab1_1)
 
