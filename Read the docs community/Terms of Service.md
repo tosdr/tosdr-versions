@@ -63,10 +63,12 @@ Maintaining projects
 
 Business features
 
+* [Business hosting](https://docs.readthedocs.io/en/stable/commercial/index.html)
 * [Organizations](https://docs.readthedocs.io/en/stable/commercial/organizations.html)
 * [Single Sign-On (SSO)](https://docs.readthedocs.io/en/stable/commercial/single-sign-on.html)
 * [Sharing private documentation](https://docs.readthedocs.io/en/stable/commercial/sharing.html)
 * [How to manage your subscription](https://docs.readthedocs.io/en/stable/commercial/subscriptions.html)
+* [Privacy Levels](https://docs.readthedocs.io/en/stable/commercial/privacy-level.html)
 
 How-to guides
 
@@ -130,7 +132,7 @@ Reference
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Read the Docs Terms of Service
-* [View page source](https://docs.readthedocs.io/en/stable/_sources/terms-of-service.rst.txt)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/main/docs/user/terms-of-service.rst)
 
 * * *
 
