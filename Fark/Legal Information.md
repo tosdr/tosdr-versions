@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more news before we break it? Try
+Want the rest of the Farking story? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-See what's behind the green door  
-and help keep the tap flowing
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [The new head of the NRA is a cat killer. Better run run run run run run away](https://www.fark.com/goto/13427768) ( [theguardian.com](https://www.fark.com/goto/13427768) ) » [(7 comments)](https://www.fark.com/comments/13427768/The-new-head-of-NRA-is-a-cat-killer-Better-run-run-run-run-run-run-away) |
-| [Discussion](https://www.fark.com/discussion/) | [We go to Metlife in East Rutherford for Monday Night Football between the Bills and Jets. Will Josh Allen and Buffalo air it out for the win? Or will Aaron Rodgers and New York win on their home turf? Kickoff is at 8:15 PM ET on ESPN/ABC](https://www.fark.com/goto/13426506) ( [espn.com](https://www.fark.com/goto/13426506) ) » [(828 comments)](https://www.fark.com/comments/13426506/We-go-to-Metlife-in-East-Rutherford-for-Monday-Night-Football-between-Bills-Jets-Will-Josh-Allen-Buffalo-air-it-out-for-win-Or-will-Aaron-Rodgers-New-York-win-on-their-home-turf-Kickoff-is-at-815-PM-ET-on-ESPNABC) |
-| [Sports](https://www.fark.com/sports/) | [Browns continue to back Deshaun Watson as their best chance to win. Still no word on if the owner has an escape clause to move the team to a warmer location if attendance drops across the season](https://www.fark.com/goto/13427600) ( [espn.com](https://www.fark.com/goto/13427600) ) » [(8 comments)](https://www.fark.com/comments/13427600/Browns-continue-to-back-Deshaun-Watson-as-their-best-chance-to-win-Still-no-word-on-if-owner-has-an-escape-clause-to-move-team-to-a-warmer-location-if-attendance-drops-across-season) |
-| [Business](https://www.fark.com/business/) | [Used EV prices are now below that of used ICE cars. This is bad news for the manufacturers that have leases returning in the next few years](https://www.fark.com/goto/13427708) ( [msn.com](https://www.fark.com/goto/13427708) ) » [(6 comments)](https://www.fark.com/comments/13427708/Used-EV-prices-are-now-below-that-of-used-ICE-cars-This-is-bad-news-for-manufacturers-that-have-leases-returning-in-next-few-years) |
-| [STEM](https://www.fark.com/stem/) | [We can rebuild it, but we don't have the wood. Uh huh huh 'wood'](https://www.fark.com/goto/13427392) ( [dailymail.co.uk](https://www.fark.com/goto/13427392) ) » [(5 comments)](https://www.fark.com/comments/13427392/We-can-rebuild-it-but-we-dont-have-wood-Uh-huh-huh-wood) |
-| [Entertainment](https://www.fark.com/entertainment/) | [The Phantom of the Opera nearly takes Olivia Rodrigo during one of her shows in Australia](https://www.fark.com/goto/13427568) ( [consequence.net](https://www.fark.com/goto/13427568) ) » [(4 comments)](https://www.fark.com/comments/13427568/The-Phantom-of-Opera-nearly-takes-Olivia-Rodrigo-during-one-of-her-shows-in-Australia) |
-| [Fandom](https://www.fark.com/fandom/) | [All Farkers in the Memphis area: The Memphis Comic Expo is October 26-27. I'll be the one in yellow suspenders and wearing a fez](https://www.fark.com/goto/13427480) ( [memphiscomicexpo.com](https://www.fark.com/goto/13427480) ) » [(5 comments)](https://www.fark.com/comments/13427480/All-Farkers-in-Memphis-area-The-Memphis-Comic-Expo-is-October-26-27-Ill-be-one-in-yellow-suspenders-wearing-a-fez) |
+| [Main](https://www.fark.com/) | [Anything can be a dildo if you're brave enough](https://www.fark.com/goto/13428116) ( [dailydot.com](https://www.fark.com/goto/13428116) ) » [(4 comments)](https://www.fark.com/comments/13428116/Anything-can-be-a-dildo-if-youre-brave-enough) |
+| [Discussion](https://www.fark.com/discussion/) | [Dear Deidre, I'm a married lesbian but after wild sex with my first boyfriend I don't know. Now I'm so confused](https://www.fark.com/goto/13428128) ( [thesun.ie](https://www.fark.com/goto/13428128) ) » [(5 comments)](https://www.fark.com/comments/13428128/Dear-Deidre-Im-a-married-lesbian-but-after-wild-sex-with-my-first-boyfriend-I-dont-know-Now-Im-so-confused) |
+| [Sports](https://www.fark.com/sports/) | [Welsh soccer team attacked with baseball bats after game. That's not cricket (possible nsfw content on page)](https://www.fark.com/goto/13427974) ( [express.co.uk](https://www.fark.com/goto/13427974) ) » [(2 comments)](https://www.fark.com/comments/13427974/Welsh-soccer-team-attacked-with-baseball-bats-after-game-Thats-not-cricket-possible-nsfw-content-on-page) |
+| [Business](https://www.fark.com/business/) | [Live Nation hit with class action lawsuit over Ticketmaster data breach, so expect to see a 3% Data Breach Settlement surcharge on future ticket purchases](https://www.fark.com/goto/13428030) ( [hollywoodreporter.com](https://www.fark.com/goto/13428030) ) » [(1 comment)](https://www.fark.com/comments/13428030/Live-Nation-hit-with-class-action-lawsuit-over-Ticketmaster-data-breach-so-expect-to-see-a-3-Data-Breach-Settlement-surcharge-on-future-ticket-purchases) |
+| [STEM](https://www.fark.com/stem/) | [Americans will do anything to avoid using the metric system: Pumpkin edition](https://www.fark.com/goto/13428066) ( [popsci.com](https://www.fark.com/goto/13428066) ) » [(1 comment)](https://www.fark.com/comments/13428066/Americans-will-do-anything-to-avoid-using-metric-system-Pumpkin-edition) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Twenty-five years ago today, a bunch of insecure young men misunderstood the meaning of "Fight Club" for the first time](https://www.fark.com/goto/13427966) ( [collider.com](https://www.fark.com/goto/13427966) ) » [(2 comments)](https://www.fark.com/comments/13427966/Twenty-five-years-ago-today-a-bunch-of-insecure-young-men-misunderstood-meaning-of-Fight-Club-for-first-time) |
+| [Fandom](https://www.fark.com/fandom/) | [Early draft of Star Trek II revealed that Khan had planted a space seed of his own that would meet a tragic fate](https://www.fark.com/goto/13428020) ( [slashfilm.com](https://www.fark.com/goto/13428020) ) » [(3 comments)](https://www.fark.com/comments/13428020/Early-draft-of-Star-Trek-II-revealed-that-Khan-had-planted-a-space-seed-of-his-own-that-would-meet-a-tragic-fate) |
 | [D'awww](https://www.fark.com/dawww/) | [Giant pandas make the best friends](https://www.fark.com/goto/13427432) ( [aol.com](https://www.fark.com/goto/13427432) ) » [(3 comments)](https://www.fark.com/comments/13427432/Giant-pandas-make-best-friends) |
-| [Food](https://www.fark.com/food/) | [Coca-Cola recalls Minute Maid Zero Sugar Lemonade because it's loaded with that one ingredient it's not supposed to contain](https://www.fark.com/goto/13427482) ( [simplyrecipes.com](https://www.fark.com/goto/13427482) ) » [(10 comments)](https://www.fark.com/comments/13427482/Coca-Cola-recalls-Minute-Maid-Zero-Sugar-Lemonade-because-its-loaded-with-that-one-ingredient-its-not-supposed-to-contain) |
-| [Politics](https://www.fark.com/politics/) | [New York mayor resigns. This one's not under indictment yet](https://www.fark.com/goto/13427400) ( [wkbw.com](https://www.fark.com/goto/13427400) ) » [(1 comment)](https://www.fark.com/comments/13427400/New-York-mayor-resigns-This-ones-not-under-indictment-yet) |
+| [Food](https://www.fark.com/food/) | [El que tiene el marketing realmente extraño](https://www.fark.com/goto/13428078) ( [brandeating.com](https://www.fark.com/goto/13428078) ) » [(0 comments)](https://www.fark.com/comments/13428078/El-que-tiene-el-marketing-realmente-extrao) |
+| [Politics](https://www.fark.com/politics/) | [CNN reports Republican candidate for President Donald J. Trump meets the Webster's definition of "Fascist Dictator." The 4 people watching will now vote accordingly](https://www.fark.com/goto/13428148) ( [mediaite.com](https://www.fark.com/goto/13428148) ) » [(10 comments)](https://www.fark.com/comments/13428148/CNN-reports-Republican-candidate-for-President-Donald-J-Trump-meets-Websters-definition-of-Fascist-Dictator-The-4-people-watching-will-now-vote-accordingly) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 15 2024 03:42:46  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 15 2024 09:42:15  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
