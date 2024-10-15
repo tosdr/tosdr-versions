@@ -14,7 +14,7 @@
 
 [Support](https://factorio.com/support/support-overview)
 
-[Help](https://factorio.com/support/help) [FAQ](https://factorio.com/support/faq) [Presskit](https://factorio.com/presskit) [Contact](https://factorio.com/support/contact)
+[Help](https://factorio.com/support/help) [FAQ](https://factorio.com/support/faq) [Presskit](https://factorio.com/presskit) [Space Age Presskit](https://factorio.com/support/press-kit-space-age) [Contact](https://factorio.com/support/contact)
 
 WUBE SOFTWARE LTD  
 DATA PRIVACY POLICY
