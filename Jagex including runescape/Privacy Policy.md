@@ -6,7 +6,7 @@ English
 
 More
 
-SearchCtrl + K
+SearchCtrl + K
 
 * [Legal Portal](https://www.jagex.com/)
     
