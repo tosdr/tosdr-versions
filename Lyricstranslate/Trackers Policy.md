@@ -137,65 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![solarpunk](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1582073-1687200031.jpg)](https://lyricstranslate.com/en/translator/solarpunk "solarpunk")
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
+
+New translation
+
+[ITZY - VAY](https://lyricstranslate.com/en/itzy-vay-ukrainian)
+
+English → Ukrainian
+
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
+
+New translation
+
+[ITZY - VAY](https://lyricstranslate.com/en/itzy-vay-russian)
+
+English → Russian
+
+[![novo_balanco](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611343-1725386152.jpg)](https://lyricstranslate.com/en/translator/novobalanco "novo_balanco")
+
+New translation
+
+[Lyubo Kirov - Последното решение (Poslednoto reshenie)](https://lyricstranslate.com/en/lyubo-kirov-poslednoto-reshenie-english)
+
+Bulgarian → English
+
+[![Serguei Batonov](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1587348-1691003603.jpg)](https://lyricstranslate.com/en/translator/serguei-batonov "Serguei Batonov")
 
 New comment
 
-Changed it, cпасибо вам обоим!  [more](https://lyricstranslate.com/en/comment/1169864#comment-1169864)
+Esta versión del poema no es completa. Faltan las...  [more](https://lyricstranslate.com/en/comment/1170085#comment-1170085)
 
-[![Bloomidoly](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/bloomidoly "Bloomidoly")
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
 
-New song
+New translation
 
-[Yeri Mua - Croketita](https://lyricstranslate.com/en/yeri-mua-croketita-lyrics)
+[Bump of Chicken - 望遠のマーチ (Bouen no March)](https://lyricstranslate.com/en/bump-chicken-bouen-no-march-transliteration)
 
-Spanish
+Japanese → Transliteration
 
-[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
 
-New idiom
+New translation
 
-[es wird aus sei(n) mit mir/dir/uns/...](https://lyricstranslate.com/en/idiom/es-wird-aus-sein-mit-mirdiruns)
+[Bump of Chicken - レム (Rem)](https://lyricstranslate.com/en/bump-chicken-rem-transliteration)
 
-[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
+Japanese → Transliteration
 
-New explanation of idiom
+[![Cemile Üre](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/cemile-%C3%BCre "Cemile Üre")
 
-[es wird mein/dein/unser/euer....Ende sein, ich werde/du wirst/wir werden/ihr werdet sterben...](https://lyricstranslate.com/en/es-wird-meindeinunsereuerende-sein-ich-werdedu-wirstwir-werdenihr-werdet-sterben)
+New request
 
-German (Austrian/Bavarian) → German
+[GISELLE (aespa) - Dopamine](https://lyricstranslate.com/en/request/dopamine-2)
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+English → Turkish
 
-New song
+[![Serguei Batonov](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1587348-1691003603.jpg)](https://lyricstranslate.com/en/translator/serguei-batonov "Serguei Batonov")
 
-[Anna K - Pyramida boha slunce](https://lyricstranslate.com/en/anna-k-pyramida-boha-slunce-lyrics)
+New translation
 
-Czech
+[Osip Mandelstam - Нежнее нежного (Nezhneye nezhnogo)](https://lyricstranslate.com/en/osip-mandelstam-nezhneye-nezhnogo-spanish)
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New song
-
-[Anna K - V malinách](https://lyricstranslate.com/en/anna-k-v-malinach-lyrics)
-
-Czech
-
-[![Bloomidoly](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/bloomidoly "Bloomidoly")
-
-New song
-
-[Christian Nodal - La Corazonada](https://lyricstranslate.com/en/christian-nodal-la-corazonada-lyrics)
-
-Spanish
-
-[![somethingswell](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1509067-1657157546.jpg)](https://lyricstranslate.com/en/translator/somethingswell "somethingswell")
-
-New song
-
-[Hervør Sabina Á Torkilsheyggi - Beiggin](https://lyricstranslate.com/en/hervor-sabina-torkilshe-beiggin-lyrics)
-
-Faroese
+Russian → Spanish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
