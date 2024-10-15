@@ -44,7 +44,7 @@
     * [Business development & licensing](https://www.merck.com/company-overview/business-development-licensing/)
     * [Publications](https://www.merck.com/research/publications/)
     * [Meet our scientists](https://www.merck.com/research/meet-our-scientists/)
-    * [How we invent](https://www.merck.com/research/discovery-development-2/)
+    * [How we invent](https://www.merck.com/research/discovery-development/)
     * [R&D locations](https://www.merck.com/research/rd-locations/)
     * [Clinical trials](https://www.merck.com/research/clinical-trials/)
         * [Clinical trials overview](https://www.merck.com/research/clinical-trials/)
