@@ -105,7 +105,7 @@ PINGDOM\_CANARY\_STRINGSkip to Content
 Lucid Software Inc. Terms of Service
 ====================================
 
-Please note, the document below is maintained using a 3rd-party system and Lucid do not control its accessibility features. If you experience any issues please contact our legal team at [legal@lucid.co](https://mailto:legal@lucid.co/) to provide assistence.
+Please note, the document below is maintained using a third-party system and Lucid does not control its accessibility features. If you experience any issues please contact our legal team at [legal@lucid.co](mailto:legal@lucid.co) to provide assistance.
 
 Stay up to date with us:
 ------------------------
