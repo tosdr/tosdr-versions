@@ -26,32 +26,32 @@ ContactEnglish
 2. English
 3. Contact
     
-4. [Log in](https://www.rate.com/redirect?dest=https://login.rate.com/?&icid=header:login)[Log in](https://www.rate.com/redirect?dest=https://login.rate.com/?&icid=header:login)
+4. [Log in](https://www.rate.com/redirect?dest=https%3A%2F%2Flogin.rate.com%2F%3F&icid=header%3Alogin&emp-id=26003)[Log in](https://www.rate.com/redirect?dest=https://login.rate.com/?&icid=header:login)
 5. Get started
     
     Get started
 
 [**Purchase or refi**
 
-Find the perfect loan for you.](https://www.rate.com/redirect?dest=https://apply.rate.com&icid=header:apply)
+Find the perfect loan for you.](https://www.rate.com/redirect?dest=https%3A%2F%2Fapply.rate.com&icid=header%3Aapply&emp-id=26003)
 
 [**HELOC**
 
-Use your home’s equity.](https://www.rate.com/heloc)
+Use your home’s equity.](https://www.rate.com/heloc?emp-id=26003)
 
 [**Personal loan**
 
-Receive funds within days.](https://www.rate.com/personal-loans)
+Receive funds within days.](https://www.rate.com/personal-loans?emp-id=26003)
 
 [**Reverse mortgage**
 
-Fund your life if you’re near retirement.](https://www.rate.com/hecm-reverse-mortgage)
+Fund your life if you’re near retirement.](https://www.rate.com/hecm-reverse-mortgage?emp-id=26003)
 
 [**Rate Insurance\***
 
 100+ top carriers.
 
-This will direct you to an external website.](https://www.rate.com/insurance)
+This will direct you to an external website.](https://www.rate.com/insurance?emp-id=26003)
 
 ### Mortgage
 
