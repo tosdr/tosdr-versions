@@ -4,7 +4,7 @@ Vidazoo Legal](https://vidazoo.gitbook.io/vidazoo-legal)
 
 More
 
-SearchCtrl + K
+SearchCtrl + K
 
 * [Legal Resources](https://vidazoo.gitbook.io/vidazoo-legal)
     
