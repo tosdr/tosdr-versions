@@ -22,7 +22,6 @@ GETTING STArted
 ---------------
 
 * [Quick Start Guide](https://dev.fingerprintjs.com/docs/quick-start-guide)
-* [Planning your implementation](https://dev.fingerprintjs.com/docs/planning-implementation)
 * [Playground](https://demo.fingerprint.com/playground)
 * [Use cases](https://demo.fingerprint.com/)
 
@@ -30,6 +29,7 @@ Understanding Fingerprint
 -------------------------
 
 * [Introduction](https://dev.fingerprintjs.com/docs/introduction)
+* [Planning your implementation](https://dev.fingerprintjs.com/docs/planning-implementation)
 * [Identification accuracy and confidence](https://dev.fingerprintjs.com/docs/identification-accuracy-and-confidence)
 * [Privacy and compliance](https://dev.fingerprintjs.com/docs/privacy-and-compliance)
 * [Regions and data retention](https://dev.fingerprintjs.com/docs/regions)
