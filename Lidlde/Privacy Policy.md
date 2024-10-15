@@ -1,3 +1,15 @@
+Informationen zur Verarbeitung Ihrer Daten!
+
+Wir haben YouTube-Videos in unser Online-Angebot eingebunden, die auf[https://www.youtube.com](https://www.youtube.com/)gespeichert sind und von unserer Website aus direkt abspielbar sind. Wenn Sie unsere Webseiten aufrufen, werden jedoch noch keine Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen und dieser erhält keine Informationen von Ihnen. Erst wenn Sie Ihre Einwilligung erteilen, werden Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen. Hierdurch erhält YouTube (Google LLC) die Information, dass Sie unsere Seite aufgerufen haben sowie die in diesem Rahmen technisch erforderlichen Nutzungsdaten. Außerdem ist YouTube (Google LLC) dann in der Lage Trackingtechnologien zu implementieren. Wir haben auf die weitere Datenverarbeitung durch den Drittanbieter YouTube (Google LLC) keinen Einfluss. Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung gem. Art. 6 Abs. 1 lit. a) DSGVO. Ihre Einwilligung ist freiwillig und umfasst, dass Inhalte des Drittanbieters nachgeladen werden und die beschriebenen Daten an YouTube (Google LLC) übertragen werden dürfen. Für Übermittlungen in die USA ist ein angemessenes Datenschutzniveau aufgrund der Zertifizierung des Anbieters unter dem Angemessenheitsbeschluss (EU-U.S. Data Privacy Framework) gewährleistet. Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube (Google LLC) erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Adresse und Datenschutzhinweisen von YouTube: Google LLC, 1600 Amphitheatre Parkway. Mountain View, CA 94043, USA;[https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/).
+
+  
+
+Sofern Sie ihre Einwilligung zur sofortigen Abspielmöglichkeit von YouTube Videos erteilen werden oder schon haben, können Sie in unseren Datenschutzbestimmungen unter dem Punkt[16\. Eingebundene Inhalte Dritter](https://www.lidl.de/c/datenschutz/s10007528#10016726), diese jederzeit widerrufen. Weitere Informationen zum Datenschutz, insbesondere zum Verantwortlichen und Ihren Datenschutzrechten, finden Sie ebenfalls in unseren Datenschutzbestimmungen.
+
+AkzeptierenAblehnen
+
+  Datenschutz - Lidl.de                            
+
     
 
 [Entdecke Parkside: Akkus, Werkzeuge, Zubehör und vieles mehr!](https://www.lidl.de/c/parkside/s10028969)
@@ -963,9 +975,15 @@ Sofern wir Daten an Empfänger in einem Drittland (Sitz außerhalb des Europäis
 
 16\. Eingebundene Inhalte Dritter
 
-Wir haben YouTube-Videos in unser Online-Angebot eingebunden, die auf [https://www.youtube.com](https://www.youtube.com/) gespeichert sind und von unserer Website aus direkt abspielbar sind. Diese sind alle im „erweiterten Datenschutz-Modus" eingebunden, d. h. dass keine Daten über Sie als Nutzer an YouTube übertragen werden, wenn Sie die Videos nicht abspielen. Erst wenn Sie die Videos abspielen, werden die Daten übertragen. Auf diese Datenübertragung haben wir keinen Einfluss.
+Wir haben YouTube-Videos in unser Online-Angebot eingebunden, die auf [https://www.youtube.com](https://www.youtube.com/) gespeichert sind und von unserer Website aus direkt abspielbar sind. Wenn Sie unsere Webseiten aufrufen, werden jedoch noch keine Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen und dieser erhält keine Informationen von Ihnen. Erst wenn Sie Ihre Einwilligung erteilen, werden Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen. Hierdurch erhält YouTube (Google LLC) die Information, dass Sie unsere Seite aufgerufen haben sowie die in diesem Rahmen technisch erforderlichen Nutzungsdaten. Außerdem ist YouTube (Google LLC) dann in der Lage Trackingtechnologien zu implementieren. Wir haben auf die weitere Datenverarbeitung durch den Drittanbieter YouTube (Google LLC) keinen Einfluss. Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung gem. Art. 6 Abs. 1 lit. a) DSGVO. Ihre Einwilligung ist freiwillig und umfasst, dass Inhalte des Drittanbieters nachgeladen werden und die beschriebenen Daten an YouTube (Google LLC) übertragen werden dürfen. Für Übermittlungen in die USA ist ein angemessenes Datenschutzniveau aufgrund der Zertifizierung des Anbieters unter dem Angemessenheitsbeschluss (EU-U.S. Data Privacy Framework) gewährleistet. Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube (Google LLC) erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Adresse und Datenschutzhinweisen von YouTube: Google LLC, 1600 Amphitheatre Parkway. Mountain View, CA 94043, USA; [https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/).
 
-Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Adresse und Datenschutzhinweisen von YouTube: Google LLC, 1600 Amphitheatre Parkway. Mountain View, CA 94043, USA; [https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/).
+  
+
+Sofern Sie ihre Einwilligung zur sofortigen Abspielmöglichkeit von YouTube Videos erteilt haben, haben Sie nachfolgend die Möglichkeit, diese jederzeit zu widerrufen. Sobald sie den nachfolgenden Schalter deaktiviert haben, wird bei einem erneuten Aufruf einer unserer Seiten, die ein YouTube Video enthält, Ihre Zustimmung erneut abgefragt.
+
+  
+
+ Zustimmung zum abspielen von YouTube-Videos
 
 17\. Bing Maps
 
