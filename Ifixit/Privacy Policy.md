@@ -577,11 +577,11 @@ If you have any questions about this Privacy Policy, please [contact us](https:/
 
 **View Statistics:**
 
-Past 24 Hours: 44
+Past 24 Hours: 36
 
-Past 7 Days: 244
+Past 7 Days: 209
 
-Past 30 Days: 740
+Past 30 Days: 727
 
 All Time: 82,528
 
