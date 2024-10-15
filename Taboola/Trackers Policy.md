@@ -7,7 +7,7 @@
 * [Terms and Conditions](https://www.taboola.com/policies/terms-and-conditions)
 * [Vulnerability Disclosure Policy](https://www.taboola.com/policies/vulnerability-disclosure-policy)
 
-English Français Español Deutsch Português 한국어 日本語 Italiano Polski Türkçe [Taboola.com](https://www.taboola.com/en/?int_source=policies_center)
+English Français Español Deutsch Português 中文 (简体) 中文 (繁體) 한국어 日本語 Italiano Polski Türkçe עברית [Taboola.com](https://www.taboola.com/en/?int_source=policies_center)
 
 * [Cookies and Other Automated Means of Data Collection](#cookies-and-other-automated-means-of-data-collection)
     
