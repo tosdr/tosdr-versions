@@ -806,21 +806,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
-* [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [Fototipp: So gelingt das Bild vom Sonnen­untergang](https://www.test.de/Fototipp-So-gelingt-das-Bild-vom-Sonnenuntergang-5930926-0/ "Fototipp - So gelingt das Bild vom Sonnenuntergang")
+* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
+* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
+* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
 
 Fußbereich
 
@@ -3840,59 +3840,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
-* [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [Fototipp: So gelingt das Bild vom Sonnen­untergang](https://www.test.de/Fototipp-So-gelingt-das-Bild-vom-Sonnenuntergang-5930926-0/ "Fototipp - So gelingt das Bild vom Sonnenuntergang")
+* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
+* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
+* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
-* [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [Fototipp: So gelingt das Bild vom Sonnen­untergang](https://www.test.de/Fototipp-So-gelingt-das-Bild-vom-Sonnenuntergang-5930926-0/ "Fototipp - So gelingt das Bild vom Sonnenuntergang")
+* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
+* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
+* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
-* [Kaffee­voll­automaten im Test: Brühen, genießen, sparen](https://www.test.de/Kaffeevollautomaten-im-Test-4635644-0/ "Kaffeevollautomaten im Test - Brühen, genießen, sparen")
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [Fototipp: So gelingt das Bild vom Sonnen­untergang](https://www.test.de/Fototipp-So-gelingt-das-Bild-vom-Sonnenuntergang-5930926-0/ "Fototipp - So gelingt das Bild vom Sonnenuntergang")
+* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
+* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
+* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
 
 Service Stiftung Warentest
 
