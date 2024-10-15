@@ -227,31 +227,31 @@ Games you might like
 
 [Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://imgs2.dab3games.com/going-ballz-game.png)
 
+[Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
+
 [Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
 
-[Ragdoll Playground](https://lagged.com/en/g/ragdoll-playground) ![Ragdoll Playground Game](https://imgs2.dab3games.com/ragdollbreak-ft1135.png)
-
-[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
+[Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png)
 
 [Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
 
-[Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
-
-[Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png)
+[Ragdoll Playground](https://lagged.com/en/g/ragdoll-playground) ![Ragdoll Playground Game](https://imgs2.dab3games.com/ragdollbreak-ft1135.png)
 
 [Dino Dash](https://lagged.com/en/g/dino-dash) ![Dino Dash Game](https://imgs2.dab3games.com/dino-dash-game-ft37.png)
 
 [Counter Craft 2 Zombies](https://lagged.com/en/g/counter-craft-2-zombies) ![Counter Craft 2 Zombies Game](https://imgs2.dab3games.com/counter-craft-2-zombies-game.png)
 
-[Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
+[Cube Frenzy](https://lagged.com/en/g/cube-frenzy) ![Cube Frenzy Game](https://imgs2.dab3games.com/cube-frenzy-game-ft.png)
+
+[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
 [Fashion Princess](https://lagged.com/en/g/fashion-princess) ![Fashion Princess Game](https://imgs2.dab3games.com/fashion-queen-ft1864.png)
 
-[Cube Frenzy](https://lagged.com/en/g/cube-frenzy) ![Cube Frenzy Game](https://imgs2.dab3games.com/cube-frenzy-game-ft.png)
-
 [Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
 
-[Tiles Hop](https://lagged.com/en/g/tiles-hop) ![Tiles Hop Game](https://imgs2.dab3games.com/tiles-hop-game-ft.png)
+[Suika Game: Watermelon](https://lagged.com/en/g/suika-game-watermelon) ![Suika Game: Watermelon Game](https://imgs2.dab3games.com/suika-game-watermelon-ft32.png)
+
+[Tall Man Runner](https://lagged.com/en/g/tall-man-runner) ![Tall Man Runner Game](https://imgs2.dab3games.com/tallman-runner-ft.png)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
