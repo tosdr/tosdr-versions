@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Monday, October 14, 2024**
+**Tuesday, October 15, 2024**
 
-**...Mostly Sunny and Dry Conditions Statewide...Isolated Showers and Thunderstorms Possible During Afternoon and Evening Hours Across Florida Keys...Another Cold Front Moving Through North Florida Today and Tonight to Bring Reinforcing Cool and Dry Air...Minor to Moderate Coastal Flooding Remains Possible Along the St. Johns River and Northeast Florida Coast At or Near Times of High Tide...Widespread Modeate to Major Riverine Flooding Continues for West, Central, and Northeast Florida Waterways...Rivers to Remain in Flood Stage for the Next Several Weeks at Some Locations...National Hurricane Center Continues to Monitor Invest 94L Over the Eastern Tropical Atlantic (Medium - 50% Chance of Development Over the Next 7 Days)...**
+**...Cold Front Continues to Move Through Central Florida Bringing Coolest Temperatures of the Season...Mostly Dry Conditions Across the State Throughout the Day...Isolated to Widely Scattered Showers with Embedded Thunderstorms Across Southern Peninsula and Keys...Isolate Brief Shower or Two or Rumble of Thunder Along Northern Peninsula Late Overnight...Breezy Winds Developing Overnight and Early Wednesday Morning Across North Florida...Instances of Minor to Moderate Coastal Flooding Along Tidal Portions of the St. Johns River; Coastal Flood Warning and Advisory Remain in Effect...King Tides Developing to Bring Minor to Locally Moderate Coastal Flooding Along South Florida and Keys...Widespread Riverine Flooding Continues Throughout West-Central and Central Florida and St. Johns River...NHC Continues to Monitor Two Disturbances Within Atlantic Basin...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
