@@ -60,10 +60,6 @@ Menu
 
 [Get to know us](https://www.guinnessworldrecords.com/about-us/our-story/index.html)[Life at GWR](https://www.guinnessworldrecords.com/about-us/life-at-gwr/index.html)[Careers](https://www.guinnessworldrecords.com/about-us/life-at-gwr/careers.html)[Our policies](https://www.guinnessworldrecords.com/about-us/our-policies/index.html)
 
-### [](#)
-
-[](#)[](#)[](#)
-
 * [**Facebook**](http://www.facebook.com/GuinnessWorldRecords)
 * [**Twitter**](https://twitter.com/GWR)
 * [**LinkedIn**](https://www.linkedin.com/company/guinness-world-records)
