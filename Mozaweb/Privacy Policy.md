@@ -57,7 +57,11 @@ Search
     
     [**Create new account**](https://www.mozaweb.com/en/user.php?cmd=register)
     
-* [EUR 0](# "Cart")
+* [EUR
+    
+    EUR
+    
+    0](# "Cart")
     
     Your cart is empty
     
@@ -119,7 +123,11 @@ Search
     
     [**Create new account**](https://www.mozaweb.com/en/user.php?cmd=register)
     
-* [EUR 0](# "Cart")
+* [EUR
+    
+    EUR
+    
+    0](# "Cart")
     
     Your cart is empty
     
