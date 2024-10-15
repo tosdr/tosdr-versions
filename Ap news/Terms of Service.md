@@ -13,8 +13,8 @@ Menu
     TOP STORIES
     
     * [Israeli strike in northern Lebanon kills at least 21 people](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-14-2024-70c8cf5a93eec9ea643a5fda5670da93)
+    * [Hezbollah's drones are a fierce and evasive threat to Israel](https://apnews.com/article/hezbollah-drones-iran-israel-war-hamas-iran-houthi-386ae3c8deeb4c8997e64c954c3670e5)
     * [Canada expels India's top diplomat and alleges wider diplomatic involvement in crimes](https://apnews.com/article/india-canada-ambassador-recalled-sikh-assassination-f099e210d2f9df93fea18a9de04e06f8)
-    * [Russia says it captured a southern Ukraine village in a push before winter comes](https://apnews.com/article/russia-ukraine-war-zaporizhzhia-shahed-drones-f21d12a3751b76282365ddcc2c9a9fd0)
     
     Newsletters
     
@@ -52,7 +52,7 @@ Menu
     
     TOP STORIES
     
-    * [Harris and Trump campaign in battleground Pennsylvania](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
+    * [Harris slams Trump for suggesting military handle 'enemy from within' as they vie for Pennsylvania](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
     * [This could have been a year of a federal court reckoning for Trump. Judges had other ideas](https://apnews.com/article/trump-federal-court-classified-documents-2020-election-302f87960dbd84d7be5daedaf03328d8)
     * [Harris announces a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
     
@@ -73,8 +73,8 @@ Menu
     TOP STORIES
     
     * [Harris announces a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
+    * [Trump's Pennsylvania town hall turns into impromptu concert after medical incidents](https://apnews.com/article/donald-trump-town-hall-concern-dancing-24290775c8e11223fde1d440a7a5cf7c)
     * [Kamala Harris will sit down with Bret Baier for her first Fox News interview](https://apnews.com/article/kamala-harris-fox-news-interview-41d02466eddf3be38126008470335803)
-    * [Harris and Trump campaign in battleground Pennsylvania](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
+    * [Soto, Stanton homers back Rodón as Yankees take advantage of wild Guardians to win ALCS opener 5-2](https://apnews.com/article/mlb-playoffs-guardians-yankees-score-7c516a2475991a2d05ca6fc9fb3576ed)
     * [Lindor homers as Mets stop Dodgers' scoreless streak in 7-3 win, head to NY with NLCS tied 1-1](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-38404ba2c1c993036e9e343fb100e843)
-    * [Dodgers pitchers' record-tying streak of 33 straight scoreless innings in playoffs ends in NLCS](https://apnews.com/article/mlb-playoffs-dodgers-mets-0c9eebe06e684e44668177b7a9cdce7f)
-    * [Kansas tops AP Top 25 preseason men's basketball poll ahead of Alabama, defending champion UConn](https://apnews.com/article/ap-top-25-mens-college-basketball-poll-f2d170d57b5d623e46fee4eaa5079c7d)
+    * [Allen and Bills overcome Rodgers' Hail Mary and beat Jets 23-20 to take control in AFC East](https://apnews.com/article/bills-jets-score-allen-rodgers-6689aadc56ec90447e89533f889f3ae5)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [Taylor Swift and Travis Kelce attend Game 1 of ALCS at Yankee Stadium](https://apnews.com/article/taylor-swift-travis-kelce-alcs-yankees-guardians-yankee-stadium-73182d99e0f50978b6971b521a320b35)
     * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
     * [6 people accuse Diddy of sexual assault in new lawsuits, including man who was 16 at the time](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-sex-trafficking-6349f77fa3a5fb1cc4030d7abd65ccba)
-    * [Donald Trump uses 'Full Metal Jacket' clips to portray his ideal military](https://apnews.com/article/donald-trump-full-metal-jacket-kubrick-3910423bc7d5fbc6269f07462f45409c)
     
 * [Business](https://apnews.com/business)
     
@@ -126,8 +126,8 @@ Menu
     
     TOP STORIES
     
-    * [California Gov. Gavin Newsom signs a law aimed at preventing gas prices from spiking](https://apnews.com/article/california-gas-prices-newsom-e2e3e79cc374ca09afd6867351fe6d35)
     * [Nobel economics prize goes to 3 economists who found that freer societies are more likely to prosper](https://apnews.com/article/nobel-economics-prize-db3bfe55ac17dd22cf82f1dd637bfa94)
+    * [Lilly Ledbetter, an icon of the fight for equal pay, has died at 86](https://apnews.com/article/lilly-ledbetter-equal-pay-women-rights-6044c3fa0c843ad1e294fbf49725da99)
     * [Tech consultant goes on trial in death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
     
 * [Science](https://apnews.com/science)
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [Who am I? A South Korean adoptee finds answers about the past — just not the ones she wants](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
     * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
-    * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
     
 * [Religion](https://apnews.com/religion)
     
@@ -296,9 +296,9 @@ Menu
     * [Ataque de Israel en norte de Líbano mata a 21 personas en edificio de apartamentos, dice Cruz Roja](https://apnews.com/world-news/general-news-4fc033c237a05cb507c8a74e69b714dd)
     * [Fuerzas rusas afirman que capturaron aldea del sur de Ucrania](https://apnews.com/world-news/general-news-2f9ad931e60db39a9d1e8d9137055ee7)
     * [Nobel de Economía premia estudio de cómo unas instituciones débiles afectan al éxito de los países](https://apnews.com/world-news/general-news-33b0981915c5c06dd84ba4eeff6dd72b)
-    * [Canadá expulsa al principal diplomático de India y alega participación diplomática en delitos](https://apnews.com/world-news/general-news-557b8141bca8bd0aaf29fe1e3e22ede3)
     * [EEUU: Demócratas esperan que recientes sentencias restrictivas sobre el aborto animen a los votantes](https://apnews.com/politics/general-news-4c28acbc750ba2d0a3d700dde0fd0ac3)
-    * [Calabaza de 1.120 kilos gana concurso en California](https://apnews.com/us-news/general-news-1f159897590e7311c9cef350182e0b4d)
+    * [Canadá expulsa al principal diplomático de India y alega participación diplomática en delitos](https://apnews.com/world-news/general-news-557b8141bca8bd0aaf29fe1e3e22ede3)
+    * [EEUU: Campañas presidenciales hacen más de 200 visitas, pero apelan a fracción mínima de votantes](https://apnews.com/politics/general-news-8a2b64834458307207422b0d7fa8c7a7)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,8 +460,8 @@ Submit Search
     TOP STORIES
     
     * [Israeli strike in northern Lebanon kills at least 21 people](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-14-2024-70c8cf5a93eec9ea643a5fda5670da93)
+    * [Hezbollah's drones are a fierce and evasive threat to Israel](https://apnews.com/article/hezbollah-drones-iran-israel-war-hamas-iran-houthi-386ae3c8deeb4c8997e64c954c3670e5)
     * [Canada expels India's top diplomat and alleges wider diplomatic involvement in crimes](https://apnews.com/article/india-canada-ambassador-recalled-sikh-assassination-f099e210d2f9df93fea18a9de04e06f8)
-    * [Russia says it captured a southern Ukraine village in a push before winter comes](https://apnews.com/article/russia-ukraine-war-zaporizhzhia-shahed-drones-f21d12a3751b76282365ddcc2c9a9fd0)
     
     Newsletters
     
@@ -506,7 +506,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris and Trump campaign in battleground Pennsylvania](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
+    * [Harris slams Trump for suggesting military handle 'enemy from within' as they vie for Pennsylvania](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
     * [This could have been a year of a federal court reckoning for Trump. Judges had other ideas](https://apnews.com/article/trump-federal-court-classified-documents-2020-election-302f87960dbd84d7be5daedaf03328d8)
     * [Harris announces a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
     
@@ -532,8 +532,8 @@ Submit Search
     TOP STORIES
     
     * [Harris announces a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
+    * [Trump's Pennsylvania town hall turns into impromptu concert after medical incidents](https://apnews.com/article/donald-trump-town-hall-concern-dancing-24290775c8e11223fde1d440a7a5cf7c)
     * [Kamala Harris will sit down with Bret Baier for her first Fox News interview](https://apnews.com/article/kamala-harris-fox-news-interview-41d02466eddf3be38126008470335803)
-    * [Harris and Trump campaign in battleground Pennsylvania](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
     
     Newsletters
     
@@ -561,9 +561,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Soto, Stanton homers back Rodón as Yankees take advantage of wild Guardians to win ALCS opener 5-2](https://apnews.com/article/mlb-playoffs-guardians-yankees-score-7c516a2475991a2d05ca6fc9fb3576ed)
     * [Lindor homers as Mets stop Dodgers' scoreless streak in 7-3 win, head to NY with NLCS tied 1-1](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-38404ba2c1c993036e9e343fb100e843)
-    * [Dodgers pitchers' record-tying streak of 33 straight scoreless innings in playoffs ends in NLCS](https://apnews.com/article/mlb-playoffs-dodgers-mets-0c9eebe06e684e44668177b7a9cdce7f)
-    * [Kansas tops AP Top 25 preseason men's basketball poll ahead of Alabama, defending champion UConn](https://apnews.com/article/ap-top-25-mens-college-basketball-poll-f2d170d57b5d623e46fee4eaa5079c7d)
+    * [Allen and Bills overcome Rodgers' Hail Mary and beat Jets 23-20 to take control in AFC East](https://apnews.com/article/bills-jets-score-allen-rodgers-6689aadc56ec90447e89533f889f3ae5)
     
     Newsletters
     
@@ -590,9 +590,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Taylor Swift and Travis Kelce attend Game 1 of ALCS at Yankee Stadium](https://apnews.com/article/taylor-swift-travis-kelce-alcs-yankees-guardians-yankee-stadium-73182d99e0f50978b6971b521a320b35)
     * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
     * [6 people accuse Diddy of sexual assault in new lawsuits, including man who was 16 at the time](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-sex-trafficking-6349f77fa3a5fb1cc4030d7abd65ccba)
-    * [Donald Trump uses 'Full Metal Jacket' clips to portray his ideal military](https://apnews.com/article/donald-trump-full-metal-jacket-kubrick-3910423bc7d5fbc6269f07462f45409c)
     
 * [Business](https://apnews.com/business)
     
@@ -606,8 +606,8 @@ Submit Search
     
     TOP STORIES
     
-    * [California Gov. Gavin Newsom signs a law aimed at preventing gas prices from spiking](https://apnews.com/article/california-gas-prices-newsom-e2e3e79cc374ca09afd6867351fe6d35)
     * [Nobel economics prize goes to 3 economists who found that freer societies are more likely to prosper](https://apnews.com/article/nobel-economics-prize-db3bfe55ac17dd22cf82f1dd637bfa94)
+    * [Lilly Ledbetter, an icon of the fight for equal pay, has died at 86](https://apnews.com/article/lilly-ledbetter-equal-pay-women-rights-6044c3fa0c843ad1e294fbf49725da99)
     * [Tech consultant goes on trial in death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
     
 * [Science](https://apnews.com/science)
@@ -775,9 +775,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Who am I? A South Korean adoptee finds answers about the past — just not the ones she wants](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
     * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
-    * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
     
 * [Religion](https://apnews.com/religion)
     
@@ -802,9 +802,9 @@ Submit Search
     * [Ataque de Israel en norte de Líbano mata a 21 personas en edificio de apartamentos, dice Cruz Roja](https://apnews.com/world-news/general-news-4fc033c237a05cb507c8a74e69b714dd)
     * [Fuerzas rusas afirman que capturaron aldea del sur de Ucrania](https://apnews.com/world-news/general-news-2f9ad931e60db39a9d1e8d9137055ee7)
     * [Nobel de Economía premia estudio de cómo unas instituciones débiles afectan al éxito de los países](https://apnews.com/world-news/general-news-33b0981915c5c06dd84ba4eeff6dd72b)
-    * [Canadá expulsa al principal diplomático de India y alega participación diplomática en delitos](https://apnews.com/world-news/general-news-557b8141bca8bd0aaf29fe1e3e22ede3)
     * [EEUU: Demócratas esperan que recientes sentencias restrictivas sobre el aborto animen a los votantes](https://apnews.com/politics/general-news-4c28acbc750ba2d0a3d700dde0fd0ac3)
-    * [Calabaza de 1.120 kilos gana concurso en California](https://apnews.com/us-news/general-news-1f159897590e7311c9cef350182e0b4d)
+    * [Canadá expulsa al principal diplomático de India y alega participación diplomática en delitos](https://apnews.com/world-news/general-news-557b8141bca8bd0aaf29fe1e3e22ede3)
+    * [EEUU: Campañas presidenciales hacen más de 200 visitas, pero apelan a fracción mínima de votantes](https://apnews.com/politics/general-news-8a2b64834458307207422b0d7fa8c7a7)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
