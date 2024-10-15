@@ -767,7 +767,7 @@ My Bobbi Brown
 
 [Track My Order](https://www.bobbibrowncosmetics.com/account/order_history/index.tmpl)
 
-[BB Access](https://www.bobbibrowncosmetics.com/loyalty-program/bbaccess)
+[BB Access Rewards](https://www.bobbibrowncosmetics.com/loyalty-program/bbaccess)
 
 [My Account](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
