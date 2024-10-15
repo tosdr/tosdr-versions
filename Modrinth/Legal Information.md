@@ -80,7 +80,7 @@ _Version 2022-11_
 
 Modrinth is [open source](https://github.com/modrinth).
 
-prod@[cc89e0f](https://github.com/modrinth/code/tree/cc89e0f3f18a68d291f9a5ff9eb047afb287d228)
+prod@[42ade0f](https://github.com/modrinth/code/tree/42ade0fbd1503247af08362619e8bc6829727cf8)
 
 © Rinth, Inc.
 
