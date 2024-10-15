@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What's Your Pointless Holiday? (5)](https://forum.nationstates.net/viewtopic.php?t=556952&f=20&view=unread#unread ""What's Your Pointless Holiday?" (5 posts)")
-* [Things you’ve teared up and/or cried… (25)](https://forum.nationstates.net/viewtopic.php?t=556861&f=20&view=unread#unread ""Things you’ve teared up and/or cried about that seem weird" (25 posts)")
-* [Rewrite AN's motto based on their...… (680)](https://forum.nationstates.net/viewtopic.php?t=542020&f=25&view=unread#unread ""Rewrite AN's motto based on their... banner?" (680 posts)")
-* [Summarise AN's flag in one word (1,506)](https://forum.nationstates.net/viewtopic.php?t=548700&f=25&view=unread#unread ""Summarise AN's flag in one word" (1,506 posts)")
-* [What is your relationship with AU? II (2,360)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (2,360 posts)")
+* [American Politics: Remember, Remember… (438)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (438 posts)")
+* [Border Controls in YN (for people) (40)](https://forum.nationstates.net/viewtopic.php?t=554081&f=23&view=unread#unread ""Border Controls in YN (for people)" (40 posts)")
+* [Based on the Flag, which Hoi4 Kaiserr… (650)](https://forum.nationstates.net/viewtopic.php?t=544426&f=25&view=unread#unread ""Based on the Flag, which Hoi4 Kaiserreich ideology AN is?" (650 posts)")
+* [UK Politics Thread: Conservative Lead… (11,571)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,571 posts)")
+* [Determine if AN is left-wing or right… (88)](https://forum.nationstates.net/viewtopic.php?t=555285&f=25&view=unread#unread ""Determine if AN is left-wing or right-wing" (88 posts)")
 
 Advertisement
 
