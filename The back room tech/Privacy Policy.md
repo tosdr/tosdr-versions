@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2027'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2037'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/cent-os-80x27.png)](https://thebackroomtech.com/2019/01/17/configure-centos-to-sync-with-ntp-time-servers/ "Configure CentOS to Sync with NTP Time Servers")[Configure CentOS to Sync with NTP Time Servers](https://thebackroomtech.com/2019/01/17/configure-centos-to-sync-with-ntp-time-servers/ "Configure CentOS to Sync with NTP Time Servers")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2057%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/ntdsutil-files-80x37.png)](https://thebackroomtech.com/2018/08/23/active-directory-dsrm-and-defragmentation/ "Active Directory DSRM and Defragmentation")[Active Directory DSRM and Defragmentation](https://thebackroomtech.com/2018/08/23/active-directory-dsrm-and-defragmentation/ "Active Directory DSRM and Defragmentation")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2047%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/lessmsi-57x52.png)](https://thebackroomtech.com/2009/05/20/the-best-msi-extractor/ "The Best MSI Extractor")[The Best MSI Extractor](https://thebackroomtech.com/2009/05/20/the-best-msi-extractor/ "The Best MSI Extractor")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2039'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/device-manager-47x52.png)](https://thebackroomtech.com/2009/10/01/network-card-configuration-missing-after-p2v-using-vmware-converter/ "Network Card configuration Missing after P2V using VMware Converter")[Network Card configuration Missing after P2V using VMware Converter](https://thebackroomtech.com/2009/10/01/network-card-configuration-missing-after-p2v-using-vmware-converter/ "Network Card configuration Missing after P2V using VMware Converter")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/esxi-installer-80x39.png)](https://thebackroomtech.com/2017/09/25/create-bootable-usb-drive-vmware-esxi-installer/ "Create Bootable USB Drive for VMware ESXi Installer")[Create Bootable USB Drive for VMware ESXi Installer](https://thebackroomtech.com/2017/09/25/create-bootable-usb-drive-vmware-esxi-installer/ "Create Bootable USB Drive for VMware ESXi Installer")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/notepad-found-80x48.png)](https://thebackroomtech.com/2007/09/14/howto-use-clipexe-to-redirect-command-line-output-to-the-windows-clipboard/ "HowTo: Use clip.exe to Redirect Command Line Output to the Windows Clipboard")[HowTo: Use clip.exe to Redirect Command Line Output to the Windows Clipboard](https://thebackroomtech.com/2007/09/14/howto-use-clipexe-to-redirect-command-line-output-to-the-windows-clipboard/ "HowTo: Use clip.exe to Redirect Command Line Output to the Windows Clipboard")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2043'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/dot-net-80x41.png)](https://thebackroomtech.com/2009/04/01/using-caspolexe-to-grant-net-applications-rights-to-a-remote-network-share/ "Using Caspol.exe to Grant .NET Applications Rights to a Remote Network Share")[Using Caspol.exe to Grant .NET Applications Rights to a Remote Network Share](https://thebackroomtech.com/2009/04/01/using-caspolexe-to-grant-net-applications-rights-to-a-remote-network-share/ "Using Caspol.exe to Grant .NET Applications Rights to a Remote Network Share")
+    ![](https://s11921.pcdn.co/wp-content/uploads/local-security-policy-80x43.png)](https://thebackroomtech.com/2007/11/02/howto-disable-windows-simple-file-sharing-via-the-registry-and-local-security-policy/ "Howto: Disable Windows Simple File Sharing via the Registry and Local Security Policy")[Howto: Disable Windows Simple File Sharing via the Registry and Local Security Policy](https://thebackroomtech.com/2007/11/02/howto-disable-windows-simple-file-sharing-via-the-registry-and-local-security-policy/ "Howto: Disable Windows Simple File Sharing via the Registry and Local Security Policy")
 
 #### Our Publishing Family
 
