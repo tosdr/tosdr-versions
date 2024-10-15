@@ -30,8 +30,8 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Shigeru Ishiba](https://www.japantimes.co.jp/tag/shigeru-ishiba/ "Shigeru Ishiba")
-* [MLB Playoffs](https://www.japantimes.co.jp/tag/mlb/ "MLB Playoffs")
+* [Lower House Election](https://www.japantimes.co.jp/tag/2024-lower-house-election// "Lower House Election")
+* [MLB Championship Series](https://www.japantimes.co.jp/tag/mlb/ "MLB Championship  Series")
 * [Nobel Prize](https://www.japantimes.co.jp/tag/nobel-prize/ "Nobel Prize")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
@@ -101,6 +101,7 @@ Subscribe
     * [Our Lives](https://www.japantimes.co.jp/community/our-lives/ "Our Lives")
 
 * [My Account](https://www.japantimes.co.jp/my-account/ "My Account")
+* [My Bookmarks](https://www.japantimes.co.jp/bookmark-articles/ "My Bookmarks")
 * [Logout](javascript:void(0) "Logout")
 
 [Subscribe for more access](https://www.japantimes.co.jp/sub/ "Subscribe for more access")
@@ -483,25 +484,25 @@ Revised June 1, 2022
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-[Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize-nihon-hidankyo/ "Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo")
+[Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
 
-  [![Toshiko Hamanaka (left), the assistant secretary-general of Nihon Hidankyo, and the organization's co-chair, Terumi Tanaka, during a news conference in Tokyo on Saturday, the day after the group was awarded the Nobel Peace Prize. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427419.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiko Hamanaka (left), the assistant secretary-general of Nihon Hidankyo, and the organization's co-chair, Terumi Tanaka, during a news conference in Tokyo on Saturday, the day after the group was awarded the Nobel Peace Prize. ")](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize-nihon-hidankyo/ "Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo")
+  [![Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427338.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
 
-[Bank of Japan vows better messaging to avoid more market turmoil](https://www.japantimes.co.jp/business/2024/10/11/economy/himino-boj-messaging/ "Bank of Japan vows better messaging to avoid more market turmoil")
+[Tokyo’s Indonesians get through life abroad with a couple of laughs](https://www.japantimes.co.jp/community/2024/10/14/our-lives/indonesia-expat-comedy-tokyo/ "Tokyo’s Indonesians get through life abroad with a couple of laughs")
 
-  [![The Bank of Japan's surprise rate increase on July 31 led to Japanese stocks plummeting into bear-market territory, with the benchmark 225-issue Nikkei average falling 12.4% on Aug. 5 alone.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427193.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Bank of Japan's surprise rate increase on July 31 led to Japanese stocks plummeting into bear-market territory, with the benchmark 225-issue Nikkei average falling 12.4% on Aug. 5 alone.")](https://www.japantimes.co.jp/business/2024/10/11/economy/himino-boj-messaging/ "Bank of Japan vows better messaging to avoid more market turmoil")
+  [![Performers at Stand Up Indonesia Tokyo shows crack plenty of jokes, but the main purpose behind the group, organizers say, is to provide a space where Indonesian expats can express themselves about any struggles they may have about living abroad.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427077.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Performers at Stand Up Indonesia Tokyo shows crack plenty of jokes, but the main purpose behind the group, organizers say, is to provide a space where Indonesian expats can express themselves about any struggles they may have about living abroad.")](https://www.japantimes.co.jp/community/2024/10/14/our-lives/indonesia-expat-comedy-tokyo/ "Tokyo’s Indonesians get through life abroad with a couple of laughs")
 
-[Peter Barakan’s Live Magic! takes its final bow](https://www.japantimes.co.jp/culture/2024/10/11/music/peter-barakan-live-magic-finale/ "Peter Barakan’s Live Magic! takes its final bow")
+[As Japan shuns stiff drinks, cider aims for a bigger share of the market](https://www.japantimes.co.jp/life/2024/10/13/food-drink/cider-japan-history-bars/ "As Japan shuns stiff drinks, cider aims for a bigger share of the market")
 
-  [![Annual festival Peter Barakan’s Live Magic! was born a decade ago when Barakan (left) decided to create a platform to share his love of roots music, which he attributes to growing up in 1960s England.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/425944.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Annual festival Peter Barakan’s Live Magic! was born a decade ago when Barakan (left) decided to create a platform to share his love of roots music, which he attributes to growing up in 1960s England.")](https://www.japantimes.co.jp/culture/2024/10/11/music/peter-barakan-live-magic-finale/ "Peter Barakan’s Live Magic! takes its final bow")
+  [![Cider in Japan doesn't have as long a history as other alcoholic beverages, but with consumer preferences shifting, it might be just the easy sip for drinkers sick of stiff tipples.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427073.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Cider in Japan doesn't have as long a history as other alcoholic beverages, but with consumer preferences shifting, it might be just the easy sip for drinkers sick of stiff tipples.")](https://www.japantimes.co.jp/life/2024/10/13/food-drink/cider-japan-history-bars/ "As Japan shuns stiff drinks, cider aims for a bigger share of the market")
 
-[Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
+[While motorsports' inclusivity has improved, there's still work to be done](https://www.japantimes.co.jp/sports/2024/10/15/more-sports/women-auto-racing-wec/ "While motorsports' inclusivity has improved, there's still work to be done")
 
-  [![Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426811.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ")](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
+  [![The Iron Dames car shared by Rahel Frey, Sarah Bovy and Michelle Gatting is pushed into the garage during the World Endurance Championship race in Austin, Texas, earlier this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427423.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Iron Dames car shared by Rahel Frey, Sarah Bovy and Michelle Gatting is pushed into the garage during the World Endurance Championship race in Austin, Texas, earlier this year.")](https://www.japantimes.co.jp/sports/2024/10/15/more-sports/women-auto-racing-wec/ "While motorsports' inclusivity has improved, there's still work to be done")
 
-[Japan pushes fossil fuel tech in Asia carbon neutrality initiative](https://www.japantimes.co.jp/environment/2024/10/09/energy/azec-fossil-fuel-technology/ "Japan pushes fossil fuel tech in Asia carbon neutrality initiative")
+[Kyoto partners with e-gift service company to let tourists Donate & Go](https://www.japantimes.co.jp/news/2024/10/13/japan/society/donate-go-kyoto/ "Kyoto partners with e-gift service company to let tourists Donate & Go")
 
-  [![Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426839.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.")](https://www.japantimes.co.jp/environment/2024/10/09/energy/azec-fossil-fuel-technology/ "Japan pushes fossil fuel tech in Asia carbon neutrality initiative")
+  [![The city of Kyoto boasts historic artifacts and cityscapes that millions are willing to travel thousands of kilometers to see, but such treasures are not cheap to maintain, prompting the city to ask foreign tourists for a helping hand.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/426956.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The city of Kyoto boasts historic artifacts and cityscapes that millions are willing to travel thousands of kilometers to see, but such treasures are not cheap to maintain, prompting the city to ask foreign tourists for a helping hand.")](https://www.japantimes.co.jp/news/2024/10/13/japan/society/donate-go-kyoto/ "Kyoto partners with e-gift service company to let tourists Donate & Go")
 
 Podcast
 -------
@@ -522,9 +523,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[How Indonesia's outgoing president steered his son to the vice presidency](https://www.japantimes.co.jp/news/2024/10/15/asia-pacific/politics/indonesia-jokowi-son-gibran-vp/ "How Indonesia's outgoing president steered his son to the vice presidency")
+[Election to test Ishiba's ability to build a strong political base](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
 
-4 mins ago
+47 mins ago
 
-[Bakers brace for costly Christmas as butter prices surge](https://www.japantimes.co.jp/business/2024/10/15/markets/bakers-christmas-butter-prices/ "Bakers brace for costly Christmas as butter prices surge")
-
-1 hours ago
-
-[Lebanon rescuers defy danger, lack of resources to keep working](https://www.japantimes.co.jp/news/2024/10/15/world/lebanon-rescuers-danger-resources/ "Lebanon rescuers defy danger, lack of resources to keep working")
+[Stateless speak up as world misses its #Ibelong deadline](https://www.japantimes.co.jp/news/2024/10/15/world/politics/stateless-world-ibelong-deadline/ "Stateless speak up as world misses its #Ibelong deadline")
 
 1 hours ago
 
-[Pakistan 'vigilantes' behind rise in online blasphemy cases](https://www.japantimes.co.jp/news/2024/10/15/world/society/pakistan-vigilantes-online-blasphemy/ "Pakistan 'vigilantes' behind rise in online blasphemy cases")
+[Ishiba openness to nuke ban treaty involvement puts pact in spotlight](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/japan-pm-ishiba-nuclear-ban-treaty/ "Ishiba openness to nuke ban treaty involvement puts pact in spotlight")
 
 1 hours ago
 
-[China-Europe rivalry heats up at Paris car show as EV tariffs loom](https://www.japantimes.co.jp/business/2024/10/15/china-europe-paris-car-show-ev/ "China-Europe rivalry heats up at Paris car show as EV tariffs loom")
+[40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
 
 1 hours ago
+
+[CEATEC begins near Tokyo as humanity enters 'a new era' with AI](https://www.japantimes.co.jp/business/2024/10/15/tech/ceatec-technology-show/ "CEATEC begins near Tokyo as humanity enters 'a new era' with AI")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
