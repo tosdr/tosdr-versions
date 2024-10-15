@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c8bd6d5f-997e-44ec-8ba1-db668120467a/c8bd6d5f-997e-44ec-8ba1-db668120467a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c8bd6d5f-997e-44ec-8ba1-db668120467a/c8bd6d5f-997e-44ec-8ba1-db668120467a_360x203.jpg)](https://www.king5.com/article/money/markets/real-estate/washington-state-10-most-expensive-zip-codes/281-e68e4a58-6da5-476f-8f7f-58b41ab02a2e)
+    *  [![](https://media.king5.com/assets/KING/images/74427afc-03ac-4fd9-83a7-0968cea33eb2/20241015T014631/74427afc-03ac-4fd9-83a7-0968cea33eb2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/74427afc-03ac-4fd9-83a7-0968cea33eb2/20241015T014631/74427afc-03ac-4fd9-83a7-0968cea33eb2_360x203.jpg)](https://www.king5.com/article/news/local/kexp-radio-dj-shares-story-barely-escaping-homemade-bomb-blast-burien-road/281-c755d46f-1f32-4c82-a9ce-12e10040fff2)
         
-        #### [These are Washington state's 10 most expensive ZIP codes, new report shows](https://www.king5.com/article/money/markets/real-estate/washington-state-10-most-expensive-zip-codes/281-e68e4a58-6da5-476f-8f7f-58b41ab02a2e)
+        #### ['Absolutely in shock': KEXP radio DJ shares story of barely escaping bomb blast on Burien road](https://www.king5.com/article/news/local/kexp-radio-dj-shares-story-barely-escaping-homemade-bomb-blast-burien-road/281-c755d46f-1f32-4c82-a9ce-12e10040fff2)
         
-    *  [![](https://media.king5.com/assets/KING/images/ae0090bf-23bc-40b2-92f6-681ade53f01d/20241014T042010/ae0090bf-23bc-40b2-92f6-681ade53f01d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ae0090bf-23bc-40b2-92f6-681ade53f01d/20241014T042010/ae0090bf-23bc-40b2-92f6-681ade53f01d_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/63-year-old-woman-facing-vehicular-homicide-charges-2-people-killed-sr-410-crash/281-53b307a2-5c7f-4c22-bb7c-2432f3916948)
+    *  [![](https://media.king5.com/assets/KING/images/8516a927-e268-47d3-877d-e8b166a7b221/20241013T032331/8516a927-e268-47d3-877d-e8b166a7b221_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8516a927-e268-47d3-877d-e8b166a7b221/20241013T032331/8516a927-e268-47d3-877d-e8b166a7b221_360x203.jpg)](https://www.king5.com/article/news/crime/documents-show-chase-suspect-had-ball-with-explosive-powder/281-e97484f2-0a02-49ea-bf12-6b4ec8500744)
         
-        #### [Elderly man, woman killed in SR 410 crash near Enumclaw](https://www.king5.com/article/traffic/traffic-news/63-year-old-woman-facing-vehicular-homicide-charges-2-people-killed-sr-410-crash/281-53b307a2-5c7f-4c22-bb7c-2432f3916948)
+        #### [Suspect tried to light tennis ball with 50 grams of explosive powder before arrest, court docs say](https://www.king5.com/article/news/crime/documents-show-chase-suspect-had-ball-with-explosive-powder/281-e97484f2-0a02-49ea-bf12-6b4ec8500744)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/9f740be0-2535-495c-89bc-1222eb4bd6ee/20241014T120622/9f740be0-2535-495c-89bc-1222eb4bd6ee_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9f740be0-2535-495c-89bc-1222eb4bd6ee/20241014T120622/9f740be0-2535-495c-89bc-1222eb4bd6ee_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/22317379-d94a-4a99-b7f8-7982afd4146e/20241015T013232/22317379-d94a-4a99-b7f8-7982afd4146e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/22317379-d94a-4a99-b7f8-7982afd4146e/20241015T013232/22317379-d94a-4a99-b7f8-7982afd4146e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-66°
+62°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
