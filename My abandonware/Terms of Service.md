@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [After Burner II](https://www.myabandonware.com/game/after-burner-ii-tf)
+* [Alien Sector](https://www.myabandonware.com/game/alien-sector-f8v)
+* [Andro Dunos](https://www.myabandonware.com/game/andro-dunos-jxl)
 * [Alibaba and 40 Thieves](https://www.myabandonware.com/game/alibaba-and-40-thieves-7ba)
 * [10-Yard Fight](https://www.myabandonware.com/game/10-yard-fight-7b2)
-* [Alex Kidd: The Lost Stars](https://www.myabandonware.com/game/alex-kidd-the-lost-stars-aqu)
-* [Pic Trivia](https://www.myabandonware.com/game/pic-trivia-suc)
-* [Patience Abroad](https://www.myabandonware.com/game/patience-abroad-sub)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
