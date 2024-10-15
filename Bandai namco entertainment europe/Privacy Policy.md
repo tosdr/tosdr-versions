@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [SWORD ART ONLINE Fractured Daydream: Countermeasures for Malicious Behavior and Cheating Tool Users](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-countermeasures-malicious-behavior-and)
-* [Awakening’s Launch Trailer Kicks Off the Final Countdown](https://en.bandainamcoent.eu/unknown-9/news/awakenings-launch-trailer-kicks-the-final-countdown)
+* [SWORD ART ONLINE Fractured Daydream - Policy on Cheating and Bullying](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-policy-cheating-and-bullying)
+* [SWORD ART ONLINE Fractured Daydream - FAQ](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-faq)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
