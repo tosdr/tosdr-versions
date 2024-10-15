@@ -30,16 +30,15 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/fd541a10-b64f-4d71-910e-fdc7ac7386e8/20241014T205943/fd541a10-b64f-4d71-910e-fdc7ac7386e8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fd541a10-b64f-4d71-910e-fdc7ac7386e8/20241014T205943/fd541a10-b64f-4d71-910e-fdc7ac7386e8_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/starry-night-gala-fosters-voice-the-gray-matters-collective/526-de0a94df-c039-42e4-bfb8-c7888b80419e)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef0caaec-b594-4bd4-8e8d-640a709355d6/20241015T034235/ef0caaec-b594-4bd4-8e8d-640a709355d6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef0caaec-b594-4bd4-8e8d-640a709355d6/20241015T034235/ef0caaec-b594-4bd4-8e8d-640a709355d6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/durant-ambulance-service-desperate-need-volunteers-ems/526-c7d59810-7b8d-44df-a8e6-c96aa61d4848)
         
-        #### [Starry Night Gala raising money for local mental health services](https://www.wqad.com/article/news/local/the-current/starry-night-gala-fosters-voice-the-gray-matters-collective/526-de0a94df-c039-42e4-bfb8-c7888b80419e) [![](https://media.tegna-media.com/assets/WQAD/images/fd541a10-b64f-4d71-910e-fdc7ac7386e8/20241014T205943/fd541a10-b64f-4d71-910e-fdc7ac7386e8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fd541a10-b64f-4d71-910e-fdc7ac7386e8/20241014T205943/fd541a10-b64f-4d71-910e-fdc7ac7386e8_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/starry-night-gala-fosters-voice-the-gray-matters-collective/526-de0a94df-c039-42e4-bfb8-c7888b80419e)
+        #### [Durant Ambulance Service in desperate need of volunteers](https://www.wqad.com/article/news/local/public-safety/durant-ambulance-service-desperate-need-volunteers-ems/526-c7d59810-7b8d-44df-a8e6-c96aa61d4848) [![](https://media.tegna-media.com/assets/WQAD/images/ef0caaec-b594-4bd4-8e8d-640a709355d6/20241015T034235/ef0caaec-b594-4bd4-8e8d-640a709355d6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef0caaec-b594-4bd4-8e8d-640a709355d6/20241015T034235/ef0caaec-b594-4bd4-8e8d-640a709355d6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/durant-ambulance-service-desperate-need-volunteers-ems/526-c7d59810-7b8d-44df-a8e6-c96aa61d4848)
         
-        #### [Starry Night Gala raising money for Quad City mental health services](https://www.wqad.com/article/news/local/the-current/starry-night-gala-fosters-voice-the-gray-matters-collective/526-de0a94df-c039-42e4-bfb8-c7888b80419e)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c4c5cbc1-275c-4c10-ab82-b3d842788e8f/20241014T215036/c4c5cbc1-275c-4c10-ab82-b3d842788e8f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c4c5cbc1-275c-4c10-ab82-b3d842788e8f/20241014T215036/c4c5cbc1-275c-4c10-ab82-b3d842788e8f_360x203.jpg)](https://www.wqad.com/article/news/local/adcraft-opening-headquarters-clinton/526-9601d0f1-e76a-4171-bc69-f135e4510c24)
+        #### [Durant Ambulance Service needs more volunteers to continue its services](https://www.wqad.com/article/news/local/public-safety/durant-ambulance-service-desperate-need-volunteers-ems/526-c7d59810-7b8d-44df-a8e6-c96aa61d4848)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bab324df-aeb1-47bb-b353-7e58746beee8/bab324df-aeb1-47bb-b353-7e58746beee8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bab324df-aeb1-47bb-b353-7e58746beee8/bab324df-aeb1-47bb-b353-7e58746beee8_360x203.jpg)](https://www.wqad.com/article/news/local/the-diner-closing-davenport/526-dd99b3bf-bd8a-45c6-ba6b-b859ce47f5f4)
         
-        #### [Adcraft opening new headquarters in Clinton](https://www.wqad.com/article/news/local/adcraft-opening-headquarters-clinton/526-9601d0f1-e76a-4171-bc69-f135e4510c24) [![](https://media.tegna-media.com/assets/WQAD/images/c4c5cbc1-275c-4c10-ab82-b3d842788e8f/20241014T215036/c4c5cbc1-275c-4c10-ab82-b3d842788e8f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c4c5cbc1-275c-4c10-ab82-b3d842788e8f/20241014T215036/c4c5cbc1-275c-4c10-ab82-b3d842788e8f_360x203.jpg)](https://www.wqad.com/article/news/local/adcraft-opening-headquarters-clinton/526-9601d0f1-e76a-4171-bc69-f135e4510c24)
+        #### [Davenport's The Diner announces it's closing](https://www.wqad.com/article/news/local/the-diner-closing-davenport/526-dd99b3bf-bd8a-45c6-ba6b-b859ce47f5f4)
         
-        #### [New Adcraft headquarters coming to Clinton](https://www.wqad.com/article/news/local/adcraft-opening-headquarters-clinton/526-9601d0f1-e76a-4171-bc69-f135e4510c24)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -58,11 +57,11 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WCNC/images/c393430f-1d3a-40db-8107-56df9ccf7efa/20241008T155038/c393430f-1d3a-40db-8107-56df9ccf7efa_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/c393430f-1d3a-40db-8107-56df9ccf7efa/20241008T155038/c393430f-1d3a-40db-8107-56df9ccf7efa_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/helene-help-dashboard-western-nc-10-11-2024/275-702391c8-9e44-4dbc-8d83-f5d88fe9bc42)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/f33e4104-6631-44c3-8a0f-dc005ebf0e2c/20241015T005524/f33e4104-6631-44c3-8a0f-dc005ebf0e2c_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/f33e4104-6631-44c3-8a0f-dc005ebf0e2c/20241015T005524/f33e4104-6631-44c3-8a0f-dc005ebf0e2c_360x203.jpg)](https://www.wqad.com/article/news/nation-world/fema-north-carolina-threats/507-aa2dbed9-7d47-4f3b-8bc4-07839a74f6c6)
         
-        #### [Website launched to prioritize what donation centers actually need in western North Carolina](https://www.wqad.com/article/weather/hurricane/helene/helene-help-dashboard-western-nc-10-11-2024/275-702391c8-9e44-4dbc-8d83-f5d88fe9bc42)
+        #### [FEMA workers change some hurricane-recovery efforts in North Carolina after receiving threats](https://www.wqad.com/article/news/nation-world/fema-north-carolina-threats/507-aa2dbed9-7d47-4f3b-8bc4-07839a74f6c6)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/732f1c61-e752-4126-bb5b-836a5ac33088/20241014T121241/732f1c61-e752-4126-bb5b-836a5ac33088_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/732f1c61-e752-4126-bb5b-836a5ac33088/20241014T121241/732f1c61-e752-4126-bb5b-836a5ac33088_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/913e9e55-e7b9-46b8-8272-408a2e36dfba/20241014T224235/913e9e55-e7b9-46b8-8272-408a2e36dfba_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/913e9e55-e7b9-46b8-8272-408a2e36dfba/20241014T224235/913e9e55-e7b9-46b8-8272-408a2e36dfba_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [First frost and freeze of the season ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -88,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-52°
+41°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
