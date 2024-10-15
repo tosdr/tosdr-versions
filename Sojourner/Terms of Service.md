@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f6f73d1ce45ddc8ad660d6edd986157a
+a5be0a49fa3c363671f27b58b18d8866
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![2 mm round moonstone beads](https://sojourner.biz/images/cache/stone/STN050.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/2-mm-round-moonstone-beads.html "2 mm round moonstone beads")
+[![Small rose quartz box clasp](https://sojourner.biz/images/cache/SKU0369front.200.jpg)](https://sojourner.biz/clasps/semi-precious/small-rose-quartz-box-clasp.html "Small rose quartz box clasp")
 
-#### [2 mm round moonstone beads](https://sojourner.biz/beads/stone-m-z/other-stones/2-mm-round-moonstone-beads.html "2 mm round moonstone beads")
+#### [Small rose quartz box clasp](https://sojourner.biz/clasps/semi-precious/small-rose-quartz-box-clasp.html "Small rose quartz box clasp")
 
-$10.00
+$13.00
 
 ### Best Sellers
 
