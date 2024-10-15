@@ -5,7 +5,6 @@
 * [Features](https://www.inoreader.com/features)
 * [Enterprise](https://www.inoreader.com/enterprise)
 * [Pricing](https://www.inoreader.com/pricing)
-* [Discover](https://www.inoreader.com/discover)
 * [Blog](https://www.inoreader.com/blog)
 * [Contact](https://www.inoreader.com/contact)
 *  [![Inoreader iOS App at the Play Store](/images/landing/v2/appstore-badge.svg)](https://apps.apple.com/app/apple-store/id892355414?pt=32204000&ct=inoreader_internal&mt=8)[![Inoreader Android App on Google Play](/images/landing/v2/playstore-badge.svg)](https://play.google.com/store/apps/details?id=com.innologica.inoreader)
@@ -205,12 +204,11 @@ If you have any questions about our Privacy Practices or this Policy, please [\[
 
 With Inoreader, content comes to you the minute it's available. Follow websites, social media feeds, podcasts, blogs, and newsletters. Enjoy what's important to you, all in one place.
 
- [![Inoreader RSS feed](/images/landing/v2/pictograms/social_rss.svg)](https://www.inoreader.com/blog/feed)[![Inoreader Facebook](/images/landing/v2/pictograms/social_fb.svg)](https://www.facebook.com/Inoreader/)[![Twitter Twitter](/images/landing/v2/pictograms/social_tw.svg)](https://x.com/Inoreader)[![Inoreader LinkedIn](/images/landing/v2/pictograms/social_linkedin.svg)](https://www.linkedin.com/company/inoreader)[![Inoreader Mastodon](/images/landing/v2/pictograms/social_mastodon.svg)](https://mastodon.social/@Inoreader)
+ [![Inoreader RSS feed](/images/landing/v2/pictograms/social_rss.svg)](https://www.inoreader.com/blog/feed)[![Inoreader Facebook](/images/landing/v2/pictograms/social_fb.svg)](https://www.facebook.com/Inoreader/)[![Inoreader Twitter](/images/landing/v2/pictograms/social_tw.svg)](https://x.com/Inoreader)[![Inoreader LinkedIn](/images/landing/v2/pictograms/social_linkedin.svg)](https://www.linkedin.com/company/inoreader)[![Inoreader Mastodon](/images/landing/v2/pictograms/social_mastodon.svg)](https://mastodon.social/@Inoreader)[![Inoreader Bluesky](/images/landing/v4/pictograms/soacial_bluesky.svg)](https://bsky.app/profile/inoreader.bsky.social)
 
 * [Features](https://www.inoreader.com/features)
 * [Enterprise](https://www.inoreader.com/enterprise)
 * [Pricing](https://www.inoreader.com/pricing)
-* [Discover](https://www.inoreader.com/discover)
 * [Blog](https://www.inoreader.com/blog)
 
 * [About us](https://www.inoreader.com/about-us)
@@ -224,7 +222,7 @@ With Inoreader, content comes to you the minute it's available. Follow websites,
 
 [Create account](https://www.inoreader.com/signup)
 
- [![Inoreader RSS feed](/images/landing/v2/pictograms/social_rss.svg)](https://www.inoreader.com/blog/feed)[![Inoreader Facebook](/images/landing/v2/pictograms/social_fb.svg)](https://www.facebook.com/Inoreader/)[![Twitter Twitter](/images/landing/v2/pictograms/social_tw.svg)](https://x.com/Inoreader)[![Inoreader LinkedIn](/images/landing/v2/pictograms/social_linkedin.svg)](https://www.linkedin.com/company/inoreader)[![Inoreader Mastodon](/images/landing/v2/pictograms/social_mastodon.svg)](https://mastodon.social/@Inoreader)
+ [![Inoreader RSS feed](/images/landing/v2/pictograms/social_rss.svg)](https://www.inoreader.com/blog/feed)[![Inoreader Facebook](/images/landing/v2/pictograms/social_fb.svg)](https://www.facebook.com/Inoreader/)[![Inoreader Twitter](/images/landing/v2/pictograms/social_tw.svg)](https://x.com/Inoreader)[![Inoreader LinkedIn](/images/landing/v2/pictograms/social_linkedin.svg)](https://www.linkedin.com/company/inoreader)[![Inoreader Mastodon](/images/landing/v2/pictograms/social_mastodon.svg)](https://mastodon.social/@Inoreader)[![Inoreader Bluesky](/images/landing/v4/pictograms/soacial_bluesky.svg)](https://bsky.app/profile/inoreader.bsky.social)
 
 English
 
@@ -360,6 +358,6 @@ You must accept the privacy policy
 
 Send message
 
-Your message has been sent. We'll get in touch as soon as possible. Be sure to follow our Facebook page and Twitter account so you always know what's up with your favorite news reader.
+Thank you for your query. Our team will review the details and get back to you shortly.
 
 [Go to homepage](https://www.inoreader.com/)
