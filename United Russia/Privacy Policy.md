@@ -299,6 +299,38 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» помогла восстановить Успенский Адмиралтейский храм в Воронеже](https://cdn.er.ru/media/news/October2024/wIELBaqJi8bqKbdmN3zO-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-pomogla-vosstanovit-uspenskij-admiraltejskij-hram-v-voronezhe)
+
+[«Единая Россия» помогла восстановить Успенский Адмиралтейский храм в Воронеже](https://er.ru/activity/news/edinaya-rossiya-pomogla-vosstanovit-uspenskij-admiraltejskij-hram-v-voronezhe)
+
+[#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ИсторическаяПамять](https://er.ru/activity/news?tags%5B0%5D=1091033) [#реставрация](https://er.ru/activity/news?tags%5B0%5D=4434) [#храм](https://er.ru/activity/news?tags%5B0%5D=6619) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#общежития](https://er.ru/activity/news?tags%5B0%5D=3688) [#вузы](https://er.ru/activity/news?tags%5B0%5D=635) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#Нетесов](https://er.ru/activity/news?tags%5B0%5D=1993) [#Маслов](https://er.ru/activity/news?tags%5B0%5D=10112) [#Бажанов](https://er.ru/activity/news?tags%5B0%5D=15715) [#Соломаха](https://er.ru/activity/news?tags%5B0%5D=1095803)
+
+Сегодня 18:09
+
+[![Госдума приняла в первом чтении инициированный «Единой России» законопроект о молодёжной политике](https://cdn.er.ru/media/news/October2024/l1YRhgXxhJxTnG83wl7e-small.jfif)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-iniciirovannyj-edinoj-rossii-zakonoproekt-o-molodyozhnoj-politike)
+
+[Госдума приняла в первом чтении инициированный «Единой России» законопроект о молодёжной политике](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-iniciirovannyj-edinoj-rossii-zakonoproekt-o-molodyozhnoj-politike)
+
+[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#молодежнаяполитика](https://er.ru/activity/news?tags%5B0%5D=109512) [#молодежь](https://er.ru/activity/news?tags%5B0%5D=48) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136)
+
+Сегодня 15:05
+
+[![Госдума единогласно приняла поправки в закон «Единой России» о «дачной амнистии»](https://cdn.er.ru/media/news/October2024/v6UfLI66DFZdjBD5caX5-small.jpg)](https://er.ru/activity/news/gosduma-edinoglasno-prinyala-popravki-v-zakon-edinoj-rossii-o-dachnoj-amnistii)
+
+[Госдума единогласно приняла поправки в закон «Единой России» о «дачной амнистии»](https://er.ru/activity/news/gosduma-edinoglasno-prinyala-popravki-v-zakon-edinoj-rossii-o-dachnoj-amnistii)
+
+[#Бессарабов](https://er.ru/activity/news?tags%5B0%5D=27640) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#дачнаяамнистия](https://er.ru/activity/news?tags%5B0%5D=116118) [#недвижимость](https://er.ru/activity/news?tags%5B0%5D=1466) [#легализация](https://er.ru/activity/news?tags%5B0%5D=2662)
+
+Сегодня 13:41
+
+[![«Единая Россия» усовершенствует трудовое законодательство в сегменте работы частных агентств занятости](https://cdn.er.ru/media/news/October2024/WhulQT2apHI0ab8epa1S-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-usovershenstvuet-trudovoe-zakonodatelstvo-v-segmente-raboty-chastnyh-agentstv-zanyatosti)
+
+[«Единая Россия» усовершенствует трудовое законодательство в сегменте работы частных агентств занятости](https://er.ru/activity/news/edinaya-rossiya-usovershenstvuet-trudovoe-zakonodatelstvo-v-segmente-raboty-chastnyh-agentstv-zanyatosti)
+
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#занятость](https://er.ru/activity/news?tags%5B0%5D=1799) [#трудовыеотношения](https://er.ru/activity/news?tags%5B0%5D=111649) [#ЧАЗ](https://er.ru/activity/news?tags%5B0%5D=90916) [#частноеагентствозанятости](https://er.ru/activity/news?tags%5B0%5D=1095802)
+
+Сегодня 13:19
+
 [![Даниил Бессарабов: Законопроект «Единой России» о «дачной амнистии» на хозпостройки и дома на несколько семей позволит защитить права жильцов](https://cdn.er.ru/media/news/October2024/LDyhgrvR5UdKp6gRgpms-small.jpg)](https://er.ru/activity/news/daniil-bessarabov-zakonoproekt-edinoj-rossii-o-dachnoj-amnistii-na-hozpostrojki-i-doma-na-neskolko-semej-pozvolit-zashitit-prava-zhilcov)
 
 [Даниил Бессарабов: Законопроект «Единой России» о «дачной амнистии» на хозпостройки и дома на несколько семей позволит защитить права жильцов](https://er.ru/activity/news/daniil-bessarabov-zakonoproekt-edinoj-rossii-o-dachnoj-amnistii-na-hozpostrojki-i-doma-na-neskolko-semej-pozvolit-zashitit-prava-zhilcov)
@@ -314,38 +346,6 @@
 [#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#молодежнаяполитика](https://er.ru/activity/news?tags%5B0%5D=109512)
 
 Сегодня 11:10
-
-[![«Единая Россия» обеспечивает жителей Курской области в ПВР тёплой одеждой](https://cdn.er.ru/media/news/October2024/yYyygDDdhlowLxGnfzNO-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechivaet-zhitelej-kurskoj-oblasti-v-pvr-tyoploj-odezhdoj)
-
-[«Единая Россия» обеспечивает жителей Курской области в ПВР тёплой одеждой](https://er.ru/activity/news/edinaya-rossiya-obespechivaet-zhitelej-kurskoj-oblasti-v-pvr-tyoploj-odezhdoj)
-
-[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#ПВР](https://er.ru/activity/news?tags%5B0%5D=45895) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247)
-
-Сегодня 10:28
-
-[![Антон Горелкин: Инициированный «Единой Россией» закон о майнинге криптовалют – первый шаг на пути развития отрасли](https://cdn.er.ru/media/news/October2024/cT7vyNdud8Zv6kP6jURY-small.jpg)](https://er.ru/activity/news/anton-gorelkin-iniciirovannyj-edinoj-rossiej-zakon-o-majninge-kriptovalyut-pervyj-shag-na-puti-razvitiya-otrasli)
-
-[Антон Горелкин: Инициированный «Единой Россией» закон о майнинге криптовалют – первый шаг на пути развития отрасли](https://er.ru/activity/news/anton-gorelkin-iniciirovannyj-edinoj-rossiej-zakon-o-majninge-kriptovalyut-pervyj-shag-na-puti-razvitiya-otrasli)
-
-[#Горелкин](https://er.ru/activity/news?tags%5B0%5D=101387) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#криптовалюта](https://er.ru/activity/news?tags%5B0%5D=110645) [#майнинг](https://er.ru/activity/news?tags%5B0%5D=111501) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
-
-14.10.24
-
-[![«Молодая Гвардия Единой России» и «Волонтёрская Рота» проведут в новых регионах мероприятия ко Дню отца](https://cdn.er.ru/media/news/October2024/wBIbkMNvPy9XmpwfoUSA-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volontyorskaya-rota-provedut-v-novyh-regionah-meropriyatiya-ko-dnyu-otca)
-
-[«Молодая Гвардия Единой России» и «Волонтёрская Рота» проведут в новых регионах мероприятия ко Дню отца](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volontyorskaya-rota-provedut-v-novyh-regionah-meropriyatiya-ko-dnyu-otca)
-
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=132412) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#деньотца](https://er.ru/activity/news?tags%5B0%5D=111880)
-
-14.10.24
-
-[![Владимир Якушев: «Единой России» важно слышать больше предложений из регионов и оперативно отвечать на запросы людей](https://cdn.er.ru/media/news/October2024/FPVG8xiHekIhSS1tr7UI-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinoj-rossii-vazhno-slyshat-bolshe-predlozhenij-iz-regionov-i-operativno-otvechat-na-zaprosy-lyudej)
-
-[Владимир Якушев: «Единой России» важно слышать больше предложений из регионов и оперативно отвечать на запросы людей](https://er.ru/activity/news/vladimir-yakushev-edinoj-rossii-vazhno-slyshat-bolshe-predlozhenij-iz-regionov-i-operativno-otvechat-na-zaprosy-lyudej)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#высшаяпартийнаяшколаЕР](https://er.ru/activity/news?tags%5B0%5D=128453) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первички](https://er.ru/activity/news?tags%5B0%5D=7517)
-
-14.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
