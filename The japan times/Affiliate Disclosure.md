@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 15, 2024](https://www.japantimes.co.jp/archive/2024/10/15/ "archive page")
+[October 16, 2024](https://www.japantimes.co.jp/archive/2024/10/16/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,54 +131,42 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Taiwan spots Chinese carrier as video says military 'prepared for battle'](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
+[General election campaigning to kick off Tuesday](https://www.japantimes.co.jp/news/2024/10/14/japan/politics/lower-house-election/ "General election campaigning to kick off Tuesday")
 
-  [![Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427543.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.")](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
+  [![Prime Minister Shigeru Ishiba (center right) makes a speech Sunday in Soka, Saitama Prefecture, along with Komeito leader Keiichi Ishii (center left).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427614.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba (center right) makes a speech Sunday in Soka, Saitama Prefecture, along with Komeito leader Keiichi Ishii (center left).")](https://www.japantimes.co.jp/news/2024/10/14/japan/politics/lower-house-election/ "General election campaigning to kick off Tuesday")
 
 [Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
   [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
-
-[Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
-
-  [![Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427338.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
-
-[Challenges remain six months to go before Osaka Expo](https://www.japantimes.co.jp/news/2024/10/13/japan/osaka-expo-six-months/ "Challenges remain six months to go before Osaka Expo")
-
-  [![The Osaka Expo site under construction. The expo is scheduled to take place on Yumeshima, an artificial island, from April 13 through Oct. 13 of next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427514.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Osaka Expo site under construction. The expo is scheduled to take place on Yumeshima, an artificial island, from April 13 through Oct. 13 of next year.")](https://www.japantimes.co.jp/news/2024/10/13/japan/osaka-expo-six-months/ "Challenges remain six months to go before Osaka Expo")
 
 [Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
+[China’s ‘new great wall’ casts a shadow on Nepal](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new great wall’ casts a shadow on Nepal")
+
+  [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new great wall’ casts a shadow on Nepal")
+
+[Aging A-bomb survivors face challenges in passing on their stories](https://www.japantimes.co.jp/news/2024/10/14/japan/society/hibakusha-aging/ "Aging A-bomb survivors face challenges in passing on their stories")
+
+  [![Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, offers flowers Sunday at the cenotaph for those who died in and after the atomic bombing in the city of Hiroshima.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427590.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, offers flowers Sunday at the cenotaph for those who died in and after the atomic bombing in the city of Hiroshima.")](https://www.japantimes.co.jp/news/2024/10/14/japan/society/hibakusha-aging/ "Aging A-bomb survivors face challenges in passing on their stories")
+
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Taiwan spots Chinese carrier as video says military 'prepared for battle'](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
+[General election campaigning to kick off Tuesday](https://www.japantimes.co.jp/news/2024/10/14/japan/politics/lower-house-election/ "General election campaigning to kick off Tuesday")
 
-  [![Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427543.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.")](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
+By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
+
+  [![Prime Minister Shigeru Ishiba (center right) makes a speech Sunday in Soka, Saitama Prefecture, along with Komeito leader Keiichi Ishii (center left).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427614.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba (center right) makes a speech Sunday in Soka, Saitama Prefecture, along with Komeito leader Keiichi Ishii (center left).")](https://www.japantimes.co.jp/news/2024/10/14/japan/politics/lower-house-election/ "General election campaigning to kick off Tuesday")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
   [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
-
-By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
-
-  [![Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427338.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Challenges remain six months to go before Osaka Expo](https://www.japantimes.co.jp/news/2024/10/13/japan/osaka-expo-six-months/ "Challenges remain six months to go before Osaka Expo")
-
-  [![The Osaka Expo site under construction. The expo is scheduled to take place on Yumeshima, an artificial island, from April 13 through Oct. 13 of next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427514.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Osaka Expo site under construction. The expo is scheduled to take place on Yumeshima, an artificial island, from April 13 through Oct. 13 of next year.")](https://www.japantimes.co.jp/news/2024/10/13/japan/osaka-expo-six-months/ "Challenges remain six months to go before Osaka Expo")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -187,6 +175,20 @@ By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-niniva
 By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+
+[China’s ‘new great wall’ casts a shadow on Nepal](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new great wall’ casts a shadow on Nepal")
+
+By [Hannah Beech](https://www.japantimes.co.jp/author/943/hannah-beech/ "Hannah Beech") and [Bhadra Sharma](https://www.japantimes.co.jp/author/4517/bhadra-sharma/ "Bhadra Sharma")  
+
+  [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new great wall’ casts a shadow on Nepal")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Aging A-bomb survivors face challenges in passing on their stories](https://www.japantimes.co.jp/news/2024/10/14/japan/society/hibakusha-aging/ "Aging A-bomb survivors face challenges in passing on their stories")
+
+  [![Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, offers flowers Sunday at the cenotaph for those who died in and after the atomic bombing in the city of Hiroshima.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427590.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, offers flowers Sunday at the cenotaph for those who died in and after the atomic bombing in the city of Hiroshima.")](https://www.japantimes.co.jp/news/2024/10/14/japan/society/hibakusha-aging/ "Aging A-bomb survivors face challenges in passing on their stories")
 
 Podcast
 -------
@@ -251,23 +253,23 @@ Latest News
 
 [Election to test Ishiba's ability to build a strong political base](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
 
-47 mins ago
+6 hours ago
 
 [Stateless speak up as world misses its #Ibelong deadline](https://www.japantimes.co.jp/news/2024/10/15/world/politics/stateless-world-ibelong-deadline/ "Stateless speak up as world misses its #Ibelong deadline")
 
-1 hours ago
+7 hours ago
 
 [Ishiba openness to nuke ban treaty involvement puts pact in spotlight](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/japan-pm-ishiba-nuclear-ban-treaty/ "Ishiba openness to nuke ban treaty involvement puts pact in spotlight")
 
-1 hours ago
+7 hours ago
 
 [40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
 
-1 hours ago
+7 hours ago
 
 [CEATEC begins near Tokyo as humanity enters 'a new era' with AI](https://www.japantimes.co.jp/business/2024/10/15/tech/ceatec-technology-show/ "CEATEC begins near Tokyo as humanity enters 'a new era' with AI")
 
-2 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
