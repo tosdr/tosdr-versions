@@ -107,69 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
-
-New translation
-
-[Tegomass - マルイチカラ (Maruichikara)](https://lyricstranslate.com/en/tegomass-maruichikara-transliteration)
-
-Japanese → Transliteration
-
-[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1726261869.jpg)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
-
-New translation
-
-[Minako Sawamura - パンプキン・ラブ (Pumpkin Love)](https://lyricstranslate.com/en/minako-sawamura-pumpkin-love-transliteration)
-
-Japanese → Transliteration
-
-[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1726261869.jpg)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
+[![Gracunar](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1437131-1693585106.png)](https://lyricstranslate.com/en/translator/gracunar "Gracunar")
 
 New song
 
-[Yoshimi Iwasaki - BAD BOY](https://lyricstranslate.com/en/yoshimi-iwasaki-bad-boy-lyrics)
+[Sheldon - Q8](https://lyricstranslate.com/en/sheldon-q8-lyrics)
 
-English
+French
 
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+[![Gracunar](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1437131-1693585106.png)](https://lyricstranslate.com/en/translator/gracunar "Gracunar")
 
 New song
 
-[Kevin - Ter Zake](https://lyricstranslate.com/en/kevin-ter-zake-lyrics)
+[Sheldon - Drag & Drop](https://lyricstranslate.com/en/sheldon-drag-drop-lyrics)
 
-Dutch
+French
 
-[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
+[![kaleydoskop](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1629412-1726783285.jpg)](https://lyricstranslate.com/en/translator/kaleydoskop "kaleydoskop")
 
 New translation
 
-[Tegomass - ヒカリ (Hikari)](https://lyricstranslate.com/en/tegomass-hikari-transliteration)
+[Mirkelam - Unutulmaz](https://lyricstranslate.com/en/mirkelam-unutulmaz-transliteration)
 
-Japanese → Transliteration
+Turkish → Transliteration
 
-[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
+[![Gracunar](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1437131-1693585106.png)](https://lyricstranslate.com/en/translator/gracunar "Gracunar")
+
+New song
+
+[Sheldon - Hélicoptère](https://lyricstranslate.com/en/sheldon-helicoptere-lyrics)
+
+French
+
+[![Gracunar](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1437131-1693585106.png)](https://lyricstranslate.com/en/translator/gracunar "Gracunar")
+
+New song
+
+[Sheldon - Arrondissement](https://lyricstranslate.com/en/sheldon-arrondissement-lyrics)
+
+French
+
+[![Serguei Batonov](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1587348-1691003603.jpg)](https://lyricstranslate.com/en/translator/serguei-batonov "Serguei Batonov")
+
+New song
+
+[Ida Vitale - Calendario](https://lyricstranslate.com/en/ida-vitale-calendario-lyrics)
+
+Spanish
+
+[![Gracunar](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1437131-1693585106.png)](https://lyricstranslate.com/en/translator/gracunar "Gracunar")
+
+New song
+
+[Sheldon - Focus](https://lyricstranslate.com/en/sheldon-focus-lyrics)
+
+French
+
+[![Serguei Batonov](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1587348-1691003603.jpg)](https://lyricstranslate.com/en/translator/serguei-batonov "Serguei Batonov")
 
 New translation
 
-[NEWS (Japan) - 星の旅人たち (Hoshi no tabibitotachi)](https://lyricstranslate.com/en/news-japan-hoshi-no-tabibitotachi-transliteration)
+[Ida Vitale - Destinos](https://lyricstranslate.com/en/ida-vitale-destinos-russian)
 
-Japanese → Transliteration
-
-[![Pyno](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600560-1714483876.png)](https://lyricstranslate.com/en/translator/pyno "Pyno")
-
-New song
-
-[Saving Bikini Bottom: The Sandy Cheeks Movie (OST) - Sandy Cheeks Theme](https://lyricstranslate.com/en/saving-bikini-bottom-sandy-cheeks-theme-lyrics)
-
-English
-
-[![Valeriu Raut](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1118259-1658638924.jpg)](https://lyricstranslate.com/en/translator/valeriu-raut "Valeriu Raut")
-
-New song
-
-[Bruno K. Öijer - Ett Regn I Regnet](https://lyricstranslate.com/en/bruno-k-oijer-ett-regn-i-regnet-lyrics)
-
-Swedish
+Spanish → Russian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
