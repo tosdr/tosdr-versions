@@ -319,13 +319,13 @@ article 2 days ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-wa
 
 ### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
-article 2 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![The Next Full Moon is a Supermoon, and the Hunter’s Moon](https://science.nasa.gov/wp-content/uploads/2023/06/49641911586_4d26910aba_supermoon_March_2020-1280-jpg.webp)
+article 3 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![The Next Full Moon is a Supermoon, and the Hunter’s Moon](https://science.nasa.gov/wp-content/uploads/2023/06/49641911586_4d26910aba_supermoon_March_2020-1280-jpg.webp)
 
 29 min read
 
 ### The Next Full Moon is a Supermoon, and the Hunter’s Moon
 
-article 3 days ago](https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-and-the-hunters-moon/)
+article 4 days ago](https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-a-supermoon-and-the-hunters-moon/)
 
 ### Featured
 
@@ -357,7 +357,7 @@ article 2 weeks ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-
 
 ### OpenET: Balancing Water Supply and Demand in the West
 
-article 9 hours ago](https://www.nasa.gov/general/openet-balancing-water-supply-and-demand-in-the-west/)[![A SpaceX Falcon Heavy rocket with the Europa Clipper spacecraft aboard](https://www.nasa.gov/wp-content/uploads/2024/10/1-clipper-on-the-pad-24-10-13-at-10-05-47 am.png?w=1024)
+article 14 hours ago](https://www.nasa.gov/general/openet-balancing-water-supply-and-demand-in-the-west/)[![A SpaceX Falcon Heavy rocket with the Europa Clipper spacecraft aboard](https://www.nasa.gov/wp-content/uploads/2024/10/1-clipper-on-the-pad-24-10-13-at-10-05-47 am.png?w=1024)
 
 5 min read
 
@@ -369,7 +369,7 @@ article 2 days ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-wa
 
 ### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
-article 2 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)
+article 3 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 2 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-
 
 ### NASA Spotlight: Felipe Valdez, an Inspiring Engineer
 
-article 23 hours ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
 
 2 min read
 
@@ -423,13 +423,13 @@ article 6 days ago](https://www.nasa.gov/technology/space-comms/space-communicat
 
 ### Asteroid and Comet Resources
 
-article 3 days ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
+article 4 days ago](https://science.nasa.gov/solar-system/resources/resource-packages/asteroid-and-comet-resources/)[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
 
 1 min read
 
 ### Pluto and Dwarf Planet Resources
 
-article 4 days ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)[![A woman stands and smiles in the Teague lobby at NASA Johnson. She is wearing a red blouse and black pants. Behind her is a mural of astronauts and space exploration, as well as a NASA logo on the wall.](https://www.nasa.gov/wp-content/uploads/2024/10/image-7-e1728592422646.jpg?w=720)
+article 5 days ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)[![A woman stands and smiles in the Teague lobby at NASA Johnson. She is wearing a red blouse and black pants. Behind her is a mural of astronauts and space exploration, as well as a NASA logo on the wall.](https://www.nasa.gov/wp-content/uploads/2024/10/image-7-e1728592422646.jpg?w=720)
 
 3 min read
 
@@ -451,7 +451,7 @@ article 4 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering
 
 ### NASA Celebrates Hispanic Heritage Month 2024
 
-article 3 days ago](https://www.nasa.gov/history/nasa-celebrates-hispanic-heritage-month-2024/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/history/nasa-celebrates-hispanic-heritage-month-2024/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
 
 4 min read
 
