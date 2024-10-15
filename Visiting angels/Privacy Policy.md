@@ -227,8 +227,6 @@ We use cookies to personalize your experience on our site. To find out more, ple
 
 Accept
 
-X
-
 #### Personalized Care Delivered to Your Inbox
 
 Receive tips and advice on caregiving for your loved one.
