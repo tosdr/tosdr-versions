@@ -1,8 +1,8 @@
 [Skip to main content](#main-content)
 
-[![](//blackwolfnation.com/cdn/shop/files/10_384daddb-9c94-4c94-8581-c8a73753a8ff.png?crop=center&height=50&v=1722973225&width=50)
+30 Day Guarantee
 
-New Product: HYDRATING BODY WASH](https://blackwolfnation.com/products/hydrating-body-wash)[20% OFF Hydrating Body Wash Code: HYDRATE20](https://blackwolfnation.com/products/hydrating-body-wash)
+Free Shipping Over $55 - Free Gift over $80
 
 [](https://blackwolfnation.com/account/login)
 
@@ -215,7 +215,7 @@ $71.00$49.99](https://blackwolfnation.com/products/sonic-scrubber-body-wash-face
 
 FSA/HSA ELIGIBLE
 
-[![](//blackwolfnation.com/cdn/shop/files/92.png?v=1724699315&width=1080)
+[![](//blackwolfnation.com/cdn/shop/files/ScreenShot2024-10-15at11.34.01AM.png?v=1729017249&width=946)
 
 ![](//blackwolfnation.com/cdn/shop/files/93.png?v=1724699315&width=1080)
 
