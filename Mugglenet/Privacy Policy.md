@@ -310,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Harry Potter books were the first children’s books included on the New York Times Best Seller list since E.B. White’s Charlotte’s Web in 1952.
+During the Harry Potter and the Chamber of Secrets film, Emma Watson broke her wrist.
 
 ### Potter History
 
-March 8, 2006 – In its first day, the Harry Potter and the Goblet of Fire DVD sells a staggering 5 million copies.
+October 3, 2007 – Harry Potter and the Order of the Phoenix becomes the #6 highest grossing film of all time, pulling in $933.9 million worldwide.
 
 ### Potter Quote
 
-“You’re dead, Potter.”
+“I knew I could do it this time, because I’d already done it. . . . Does that make sense?”
 
 [](#)
 
