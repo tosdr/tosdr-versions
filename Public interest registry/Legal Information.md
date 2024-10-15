@@ -453,5 +453,3 @@ Accessibility Tools
 * [Links UnderlineLinks Underline](#)
 * [Readable FontReadable Font](#)
 * [Reset Reset](#)
-
-We use necessary cookies to provide basic website functionality and security. You may disable necessary cookies via your browser settings. Please be aware that rejecting necessary cookies, or disabling them via your browser settings, could impact your website experience and functionality. In addition, we use optional cookies for third-party (Google) analytics to understand website use and improve performance and service. All analytics are aggregate and anonymous. We will only install cookies if you accept below. For more information on our use of cookies please see our Privacy Notice.[Accept All Cookies](#)[Reject All Cookies](#)[Privacy Notice](https://pir.org/our-impact/privacy/)
