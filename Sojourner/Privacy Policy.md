@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4bbf8a327f8ecc4895e5f81c711caae7
+ee606ddc3f805f317038498cb70d0c2a
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,9 +171,9 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![12 mm silver coin pearls](https://www.sojourner.biz/images/cache/pearls/PE0210.200.jpg)](https://www.sojourner.biz/beads/pearls/12-mm-silver-coin-pearls.html "12 mm silver coin pearls")
+[![2 mm micro-faceted crystal beads](https://www.sojourner.biz/images/cache/glass/GL0389one.200.jpg)](https://www.sojourner.biz/beads/glass/2-mm-micro-faceted-crystal-beads.html "2 mm micro-faceted crystal beads")
 
-#### [12 mm silver coin pearls](https://www.sojourner.biz/beads/pearls/12-mm-silver-coin-pearls.html "12 mm silver coin pearls")
+#### [2 mm micro-faceted crystal beads](https://www.sojourner.biz/beads/glass/2-mm-micro-faceted-crystal-beads.html "2 mm micro-faceted crystal beads")
 
 $18.00
 
