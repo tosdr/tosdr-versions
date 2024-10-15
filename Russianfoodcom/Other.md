@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,9 +148,7 @@
 
 Сейчас читают
 
-* [Куриный суп с брокколи, вермишелью и яичной паутинкой](https://www.russianfood.com/recipes/recipe.php?rid=173226)
 * [Куриные грудки с сыром](https://www.russianfood.com/recipes/recipe.php?rid=30720)
-* [Бульон с сельдереем или эстрагоном](https://www.russianfood.com/recipes/recipe.php?rid=32155)
 
 |     |
 | --- |
@@ -172,6 +170,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Пять рецептов хорошего настроения. Время ТЫКВЫ (41)](https://www.russianfood.com/reading/?post_id=22726) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/715/sm_714735.jpg)](https://www.russianfood.com/reading/?post_id=22726)
+
+Лазанья с индейкой и тыквой. Хинкали с тыквой. Тыквенная каша с рисом и пшеном. Тыквенный суп-пюре с чечевицей. Кускус с куриным фаршем и тыквой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22726)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22726#comments) | 15.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Баклажаны в духовке с сыром и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174555) |     |
+
+[![Фото к рецепту: Баклажаны в духовке с сыром и помидорами](//img1.russianfood.com/dycontent/images_upl/744/sm_743455.jpg "Фото к рецепту: Баклажаны в духовке с сыром и помидорами")](https://www.russianfood.com/recipes/recipe.php?rid=174555)
+
+Запечённые баклажаны с сыром и помидорами получаются сочными, мягкими, с чесночным ароматом. Они вкусные как в горячем, так и в холодном виде. Чудесная закуска. Рекомендую приготовить баклажаны в духовке и попробовать.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174555)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174555#comments) | 15.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -199,7 +225,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173316#comments) | 14.10.24 |     |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173316#comments) | 14.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -325,7 +351,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173345#comments) | 14.10.24 |     |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173345#comments) | 14.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -354,34 +380,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22721#comments) | 13.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Надёжные способы поднять настроение. Лучшие СЛАДОСТИ №24-41](https://www.russianfood.com/reading/?post_id=22720) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/736/sm_735114.jpg)](https://www.russianfood.com/reading/?post_id=22720)
-
-Галета с орехами и смородиной. Банановый зефир. Кофейная панна-котта. Шоколадно-банановый кекс в кружке, без яиц. Конфеты из манной крупы с какао. Пастила из яблок и груш. Торт из пряников с бананами и сметаной.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22720)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22720#comments) | 13.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Вкусный выбор сытных блюд. Лучшие рецепты из МАКАРОН (17)](https://www.russianfood.com/reading/?post_id=22719) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/736/sm_735895.jpg)](https://www.russianfood.com/reading/?post_id=22719)
-
-Макароны с курицей и баклажанами. Фунчоза с цукини и тофу. Макароны с куриной печенью и грибами. Cуп с фрикадельками и вермишелью. Макароны, запечённые с колбасой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22719)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22719#comments) | 13.10.24 |     |
 
 |     |
 | --- |
@@ -454,10 +452,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174487) | [![](//img1.russianfood.com/dycontent/images_upl/719/alt1_718387.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173345) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735690.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173373) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735407.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173316) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740476.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174334) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742615.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174431) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734216.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173999) |
-| [Закуска из зелёного лука и бекона](https://www.russianfood.com/recipes/recipe.php?rid=174487) | [Постный хлеб из полужидкого теста с пряными травами](https://www.russianfood.com/recipes/recipe.php?rid=173345) | [Гречневые палочки с сыром](https://www.russianfood.com/recipes/recipe.php?rid=173373) | [Пирог из лаваша с сыром и беконом](https://www.russianfood.com/recipes/recipe.php?rid=173316) | [Салат с курицей, капустой, помидорами и сухариками](https://www.russianfood.com/recipes/recipe.php?rid=174334) | [Салат с тыквой, авокадо, грушей и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174431) | [Салат с помидорами, авокадо и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=173999) |
-| [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740556.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174333) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734960.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173246) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740503.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174340) |
-| [Салат со свёклой, яблоками, огурцом и горошком](https://www.russianfood.com/recipes/recipe.php?rid=174333) | [Пирог на йогурте и растительном масле](https://www.russianfood.com/recipes/recipe.php?rid=173246) | [Рыбный салат овощами и плавленым сыром](https://www.russianfood.com/recipes/recipe.php?rid=174340) |
+| [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740503.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174340) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740556.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174333) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734960.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173246) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740476.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174334) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742615.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174431) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735690.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173373) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741833.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174484) |
+| [Рыбный салат овощами и плавленым сыром](https://www.russianfood.com/recipes/recipe.php?rid=174340) | [Салат со свёклой, яблоками, огурцом и горошком](https://www.russianfood.com/recipes/recipe.php?rid=174333) | [Пирог на йогурте и растительном масле](https://www.russianfood.com/recipes/recipe.php?rid=173246) | [Салат с курицей, капустой, помидорами и сухариками](https://www.russianfood.com/recipes/recipe.php?rid=174334) | [Салат с тыквой, авокадо, грушей и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174431) | [Гречневые палочки с сыром](https://www.russianfood.com/recipes/recipe.php?rid=173373) | [Крошка-картошка с брынзой и твёрдым сыром](https://www.russianfood.com/recipes/recipe.php?rid=174484) |
+| [![](//img1.russianfood.com/dycontent/images_upl/719/alt1_718387.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173345) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734216.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173999) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743455.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174555) |
+| [Постный хлеб из полужидкого теста с пряными травами](https://www.russianfood.com/recipes/recipe.php?rid=173345) | [Салат с помидорами, авокадо и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=173999) | [Баклажаны в духовке с сыром и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174555) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -474,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(99)
+(102)
