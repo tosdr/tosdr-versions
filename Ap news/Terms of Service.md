@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israeli strike in northern Lebanon kills at least 21 people](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-14-2024-70c8cf5a93eec9ea643a5fda5670da93)
+    * [Israel assures US it won't strike Iranian nuclear or oil sites, US officials say](https://apnews.com/article/israel-iran-oil-nuclear-sites-biden-f5dd702de7d990dd1d00f665e1484dee)
+    * [US warns Israel to boost humanitarian aid into Gaza or risk losing weapons funding](https://apnews.com/article/israel-gaza-humanitarian-aid-blinken-austin-887ae388a022215f71309ab6def12103)
     * [UN Security Council voices 'strong concern' for UN peacekeepers after Israeli attacks](https://apnews.com/article/un-lebanon-israel-security-council-statement-hezbollah-e391d8ffe57eebcf8bc294310bb922bd)
-    * [How did a killing at a Sikh temple lead to Canada and India expelling each other's diplomats?](https://apnews.com/article/india-canada-diplomats-expelled-sikh-assassination-67c6ee375f883a81b501cdf2c5bc2b8c)
     
     Newsletters
     
@@ -32,7 +32,7 @@ Menu
     
     * [Florida returning to something like normal after Hurricane Milton](https://apnews.com/article/hurricane-milton-helene-florida-tampa-8e2247b63eb024ef9d406f88c53a735b)
     * [Biden admin to provide $750 million to North Carolina-based Wolfspeed for advanced computer chips](https://apnews.com/article/wolfspeed-chips-computer-ai-north-carolina-485703b158999ef29bfc40067f2b109f)
-    * [Victims of Maine's deadliest shooting start process of suing the Army](https://apnews.com/article/lewiston-maine-shooting-army-lawsuit-d598f9cc473944933ef350629dcf6393)
+    * [Survivors and relatives in Maine's deadliest shooting start the process of suing the Army](https://apnews.com/article/lewiston-maine-shooting-army-lawsuit-d598f9cc473944933ef350629dcf6393)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [Georgia judge rules county election officials must certify election results](https://apnews.com/article/georgia-election-rules-certification-03f6bc623d9f6aeeb3f9dc47823d03f9)
     * [Harris slams Trump for suggesting military handle 'enemy from within' as they vie for Pennsylvania](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
-    * [This could have been a year of a federal court reckoning for Trump. Judges had other ideas](https://apnews.com/article/trump-federal-court-classified-documents-2020-election-302f87960dbd84d7be5daedaf03328d8)
-    * [Harris announces a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
+    * [Trump's town hall turns into impromptu concert after medical incidents](https://apnews.com/article/donald-trump-town-hall-concern-dancing-24290775c8e11223fde1d440a7a5cf7c)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [US law entitles immigrant children to an education. Some conservatives say that should change](https://apnews.com/article/immigration-students-education-plyler-d16e72263e68fd7fa12991ae5057897d)
-    * [Walz to unveil Harris' plan for rural voters as campaign looks to cut into Trump's edge](https://apnews.com/article/harris-walz-rural-voters-pennsylvania-trump-291214562d083593f29f8972429a9bec)
-    * [Rulings signal US courts may be more open to lawsuits accusing foreign officials of abuses](https://apnews.com/article/saudi-arabia-human-rights-lawsuits-us-courts-a350cb2e8a9a68bb70d86391b16137e9)
+    * [Israel assures US it won't strike Iranian nuclear or oil sites, US officials say](https://apnews.com/article/israel-iran-oil-nuclear-sites-biden-f5dd702de7d990dd1d00f665e1484dee)
+    * [US warns Israel to boost humanitarian aid into Gaza or risk losing weapons funding](https://apnews.com/article/israel-gaza-humanitarian-aid-blinken-austin-887ae388a022215f71309ab6def12103)
+    * [Harris zeroes in on Black men, Trump focuses on women as both seek to fire up key voting blocs](https://apnews.com/article/harris-charlamagne-trump-breakfast-club-women-2eab5daa1095b7ecb38fe92857acdb86)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Soto, Stanton homers back Rodón as Yankees take advantage of wild Guardians to win ALCS opener 5-2](https://apnews.com/article/mlb-playoffs-guardians-yankees-score-7c516a2475991a2d05ca6fc9fb3576ed)
-    * [Lindor homers as Mets stop Dodgers' scoreless streak in 7-3 win, head to NY with NLCS tied 1-1](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-38404ba2c1c993036e9e343fb100e843)
-    * [Allen and Bills overcome Rodgers' Hail Mary and beat Jets 23-20 to take control in AFC East](https://apnews.com/article/bills-jets-score-allen-rodgers-6689aadc56ec90447e89533f889f3ae5)
+    * [Jets acquire wide receiver Davante Adams from Raiders, AP sources say](https://apnews.com/article/jets-raiders-trade-davante-adams-e487be5dbfa82159cae2c5bc55f657c4)
+    * [Mexico is struggling to stamp out a homophobic soccer chant ahead of the World Cup](https://apnews.com/article/mexico-usa-homophobic-chant-soccer-guadalajara-fifa-a811c077084b03beda10515fcd59f8ca)
+    * [The cost of rising number of injuries in European soccer nears $800 million, report finds](https://apnews.com/article/football-injuries-rodri-club-world-cup-ad6d9dc6a5c2e79e5995285381e52ee2)
     
     Newsletters
     
@@ -114,8 +114,8 @@ Menu
     
     TOP STORIES
     
-    * [Taylor Swift and Travis Kelce attend Game 1 of ALCS at Yankee Stadium](https://apnews.com/article/taylor-swift-travis-kelce-alcs-yankees-guardians-yankee-stadium-73182d99e0f50978b6971b521a320b35)
-    * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
+    * [Elton John turns the saga of televangelist Tammy Faye into song for Broadway](https://apnews.com/article/elton-john-tammy-faye-bakker-messner-broadway-21646ba21cc1a6a90f816384267f70c4)
+    * [Tori Amos' first children's book is an ode to inspiration](https://apnews.com/article/tori-amos-childrens-book-muses-70bdf2263fe74df5197a00653a59d4b9)
     * [Six people accuse Diddy of sexual assault in new lawsuits, including a man who was 16 at the time](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-sex-trafficking-6349f77fa3a5fb1cc4030d7abd65ccba)
     
 * [Business](https://apnews.com/business)
@@ -127,8 +127,8 @@ Menu
     TOP STORIES
     
     * [Trump's economic plans would worsen inflation, experts say](https://apnews.com/article/trump-inflation-tariffs-taxes-immigration-federal-reserve-a18de763fcc01557258c7f33cab375ed)
-    * [Biden admin to provide $750 million to North Carolina-based Wolfspeed for advanced computer chips](https://apnews.com/article/wolfspeed-chips-computer-ai-north-carolina-485703b158999ef29bfc40067f2b109f)
-    * [Stock market today: World shares are mixed after Wall St powers to more records](https://apnews.com/article/stocks-markets-rates-china-earnings-9603ee04b6690dc4e80c22f02f298159)
+    * [After hurricanes, the business of rebuilding lives means navigating the insurance claims process](https://apnews.com/article/disaster-loans-insurance-hurricanes-claims-damage-fema-292d09e727f9c7b4ad59d23e1703e876)
+    * [Walgreens to close 1,200 US stores](https://apnews.com/article/walgreens-closing-drugstores-fiscal-fourth-quarter-5df931861e1e4111eaa5ef2372ec173a)
     
 * [Science](https://apnews.com/science)
     
@@ -157,12 +157,12 @@ Menu
     
     TOP STORIES
     
+    * [Conkers controversy: World tournament investigates claims of cheating with steel chestnut](https://apnews.com/article/uk-world-conkers-championships-cheating-b8619745c3ffcd0b00d3e347bfb986eb)
     * [After 67 days adrift, a Russian man was rescued but his brother and nephew are dead](https://apnews.com/article/russia-boat-adrift-rescue-sea-okhotsk-kamchatka-71722cac69b3f5bddb2e9d17cb9ff965)
+    * [Snake slithers through Dodgers dugout during NLCS loss to Mets](https://apnews.com/article/mlb-playoffs-dodgers-snake-mets-cab6a3ad5f89c9c8a1124cd31fff1169)
     * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [Mud, beer and cash: Annual wife-carrying championship attracts competitive couples to Maine](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     * [Witnesses can bear-ly believe the surprise visitor at Connecticut governor's estate](https://apnews.com/article/bear-climbs-fence-connecticut-governors-mansion-3b1aaf00afa14dc1c7e12ac0faf9d1b4)
-    * [Woman pleads guilty to trying to smuggle 29 turtles across a Vermont lake into Canada by kayak](https://apnews.com/article/eastern-box-turtles-smuggling-vermont-lake-kayak-fdb63d3944a27ef12088fa97a16950a3)
-    * [Authorities continue to investigate container suspected of holding dynamite in Tennessee](https://apnews.com/article/explosives-evacuation-knoxville-metal-recycler-3b929a961105649b12b258ec0a01e0f6)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -219,12 +219,12 @@ Menu
     
     TOP STORIES
     
+    * [Who am I? A South Korean adoptee finds answers about the past — just not the ones she wants](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
     * [Trump's small-dollar donor fundraising is beset by confusion and fatigue](https://apnews.com/article/trump-campaign-donations-small-donors-decline-f1a6b238d15edb3f72260e4c86d2c552)
     * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
     * [Trump has long blasted China's trade practices. His 'God Bless the USA' Bibles were printed there](https://apnews.com/article/trump-god-bless-usa-bible-china-32a80611605d4052d8238064bbcace4c)
     * [How Tucson police handled a death like George Floyd’s when leaders thought it would never happen](https://apnews.com/article/lethal-restraint-tucson-police-deaths-transparency-texts-7087a4f1637596d7d66afa92358b811b)
     * [A series of deaths and the 'Big Fight': Uncovering police force in one Midwestern city](https://apnews.com/article/police-use-of-force-deaths-evansville-lethal-restraint-4d4b8e5c590938b22f4b59ee34fac3d9)
-    * [South Korean woman sues government and adoption agency after her kidnapped daughter was sent abroad](https://apnews.com/article/south-korea-adoption-lawsuit-children-holt-593945988001c509943e5c6266885878)
     
 * [Climate](https://apnews.com/climate-and-environment)
     
@@ -242,11 +242,11 @@ Menu
     
     TOP STORIES
     
+    * [USDA launches an internal investigation into the deadly Boar's Head outbreak](https://apnews.com/article/boars-head-listeria-investigation-usda-bdcecaa25363c87d08ba01cf71aefb0b)
     * [Voters with disabilities are feeling ignored by presidential candidates](https://apnews.com/article/disabilities-voters-trump-harris-dc53223ac8b1bd24196ab39284e08ad4)
     * [Expect employers to get more picky about who you see for care](https://apnews.com/article/employer-health-care-costs-wegovy-62384cf7bdd328993e9da0585444e34a)
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
-    * [Company recalls nearly 10 million pounds of meat and poultry dishes for listeria contamination](https://apnews.com/article/brucepac-listeria-meat-recall-f4d8db2752137f5bdaa5fbfcc12dd3d6)
     * [Walz to unveil Harris' plan for rural voters as campaign looks to cut into Trump's edge](https://apnews.com/article/harris-walz-rural-voters-pennsylvania-trump-291214562d083593f29f8972429a9bec)
     
 * [Tech](https://apnews.com/technology)
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [How the tiny Caribbean island of Anguilla has turned the AI boom into a digital gold mine](https://apnews.com/article/anguilla-artificial-intelligence-ai-internet-29d4ca2bb740d0425ffb8355811a6976)
     * [Biden admin to provide $750 million to North Carolina-based Wolfspeed for advanced computer chips](https://apnews.com/article/wolfspeed-chips-computer-ai-north-carolina-485703b158999ef29bfc40067f2b109f)
-    * [Tech consultant goes on trial in death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
-    * [Volunteers bring solar power to Hurricane Helene's disaster zone](https://apnews.com/article/hurricane-helene-solar-power-north-carolina-095b6ff5f1290ac7439f12b555f9845d)
+    * [Cyber criminals are increasingly helping Russia and China target the US and allies, Microsoft says](https://apnews.com/article/microsoft-russia-china-iran-israel-cyberespionage-cyber-d3a22dd2dcea32615ac15ed4fb951541)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
-    * [A pastry brought to Mexico by British miners is still popular after 200 years](https://apnews.com/article/mexico-mineral-mine-pastry-mineral-del-monte-1a166e4927ba23541184a456e8a78e53)
-    * [Leaf-peepers are flocking to see New England's brilliant fall colors](https://apnews.com/article/new-england-leaves-fall-colors-peeping-93e9e67391855cebff5ac2a9c846588d)
-    * [Who am I? A South Korean adoptee finds answers about the past — just not the ones she wants](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
+    * [US retail trade group expects holiday season sales to grow more slowly](https://apnews.com/article/holiday-shopping-season-national-retail-federation-442b3cca5952c68821a06553e9ff4edf)
+    * [Al Roker's Sweet Potato Poon, a delicious dish with a side of mystery](https://apnews.com/article/al-roker-sweet-potato-poon-7a78baca12a59b6ab4e1d9ac4a92b58b)
+    * [Royal arm: Prince William tries his hand at flag football in NFL event with kids in London](https://apnews.com/article/nfl-prince-william-flag-football-london-d073585af8321da4c2dd51087d58d587)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Elton John turns the saga of televangelist Tammy Faye into song for Broadway](https://apnews.com/article/elton-john-tammy-faye-bakker-messner-broadway-21646ba21cc1a6a90f816384267f70c4)
     * [Members of the Kennedy family gather for funeral of Ethel Kennedy](https://apnews.com/article/ethel-kennedy-funeral-robert-f-kennedy-bc4bcbe40ee8564c629acc35cab5c305)
     * [An elephant procession for Dussehra draws a crowd in the former Mysore kingdom](https://apnews.com/article/mysuru-dussehra-india-hindu-festival-photos-e5d7fc21ca640ddfce1f510f8a94cdad)
-    * [Hindus in Bangladesh celebrate their largest festival under tight security following attacks](https://apnews.com/article/bangladesh-durga-puja-hindu-festival-violence-3e87b4d3702308687aeee43854da03eb)
     
     Newsletters
     
@@ -295,10 +295,10 @@ Menu
     
     * [El Consejo de Seguridad expresa su "fuerte preocupación" por cascos azules tras ataques israelíes](https://apnews.com/world-news/general-news-65f4776e303e4b6510af58567c7b02d7)
     * [ONU: Más de 400.000 niños han sido desplazados en Líbano en 3 semanas de guerra](https://apnews.com/world-news/general-news-990f738ea60595f0be3696a383b797b4)
-    * [Ataque de Israel en norte de Líbano mata a 21 personas en edificio de apartamentos, dice Cruz Roja](https://apnews.com/world-news/general-news-4fc033c237a05cb507c8a74e69b714dd)
-    * [Las muertes de migrantes en Nuevo México se multiplican por 10](https://apnews.com/world-news/general-news-0b967f03da3f7c1ded62334da45b944d)
-    * [Corea del Norte detona partes de carreteras intercoreanas que ya no están en uso, dice Surcorea](https://apnews.com/world-news/general-news-107a088d4756be9086326fe3b5cc4c0e)
-    * [Una Pakistán castigada por la violencia blinda su capital para una gran cumbre asiática de seguridad](https://apnews.com/world-news/general-news-a600c35b98a75fb589c7a3579a61b8ed)
+    * [Harris se centra en los hombres negros y Trump en las mujeres intentando movilizar a votantes clave](https://apnews.com/politics/elecciones-en-eeuu-a5fc70875504caa6eb6b6e8f00c1a455)
+    * [En Pensilvania, ¿puedo entregar una papeleta por otro votante?](https://apnews.com/us-news/general-news-a5ac3b9d61ddbfbb08681cf2b93c9322)
+    * [Dos pandas gigantes de China llegan a EEUU; su hogar será el Zoo Nacional](https://apnews.com/us-news/general-news-d76bc7e57933fd216e7904cabee57b9e)
+    * [Un pastel traído a México por mineros ingleses sigue siendo popular 200 años después](https://apnews.com/world-news/general-news-30e67493f468dc3cc8d394ff65df3486)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -459,9 +459,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israeli strike in northern Lebanon kills at least 21 people](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-14-2024-70c8cf5a93eec9ea643a5fda5670da93)
+    * [Israel assures US it won't strike Iranian nuclear or oil sites, US officials say](https://apnews.com/article/israel-iran-oil-nuclear-sites-biden-f5dd702de7d990dd1d00f665e1484dee)
+    * [US warns Israel to boost humanitarian aid into Gaza or risk losing weapons funding](https://apnews.com/article/israel-gaza-humanitarian-aid-blinken-austin-887ae388a022215f71309ab6def12103)
     * [UN Security Council voices 'strong concern' for UN peacekeepers after Israeli attacks](https://apnews.com/article/un-lebanon-israel-security-council-statement-hezbollah-e391d8ffe57eebcf8bc294310bb922bd)
-    * [How did a killing at a Sikh temple lead to Canada and India expelling each other's diplomats?](https://apnews.com/article/india-canada-diplomats-expelled-sikh-assassination-67c6ee375f883a81b501cdf2c5bc2b8c)
     
     Newsletters
     
@@ -479,7 +479,7 @@ Submit Search
     
     * [Florida returning to something like normal after Hurricane Milton](https://apnews.com/article/hurricane-milton-helene-florida-tampa-8e2247b63eb024ef9d406f88c53a735b)
     * [Biden admin to provide $750 million to North Carolina-based Wolfspeed for advanced computer chips](https://apnews.com/article/wolfspeed-chips-computer-ai-north-carolina-485703b158999ef29bfc40067f2b109f)
-    * [Victims of Maine's deadliest shooting start process of suing the Army](https://apnews.com/article/lewiston-maine-shooting-army-lawsuit-d598f9cc473944933ef350629dcf6393)
+    * [Survivors and relatives in Maine's deadliest shooting start the process of suing the Army](https://apnews.com/article/lewiston-maine-shooting-army-lawsuit-d598f9cc473944933ef350629dcf6393)
     
     Newsletters
     
@@ -506,9 +506,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Georgia judge rules county election officials must certify election results](https://apnews.com/article/georgia-election-rules-certification-03f6bc623d9f6aeeb3f9dc47823d03f9)
     * [Harris slams Trump for suggesting military handle 'enemy from within' as they vie for Pennsylvania](https://apnews.com/article/trump-harris-pennsylvania-election-2024-837bf147439eabe552b56334035890bf)
-    * [This could have been a year of a federal court reckoning for Trump. Judges had other ideas](https://apnews.com/article/trump-federal-court-classified-documents-2020-election-302f87960dbd84d7be5daedaf03328d8)
-    * [Harris announces a new plan to empower Black men as she tries to energize them to vote for her](https://apnews.com/article/harris-black-men-empowerment-voter-policy-proposals-67ac83899af785cf4d8788b9fcdeb592)
+    * [Trump's town hall turns into impromptu concert after medical incidents](https://apnews.com/article/donald-trump-town-hall-concern-dancing-24290775c8e11223fde1d440a7a5cf7c)
     
     Newsletters
     
@@ -531,9 +531,9 @@ Submit Search
     
     TOP STORIES
     
-    * [US law entitles immigrant children to an education. Some conservatives say that should change](https://apnews.com/article/immigration-students-education-plyler-d16e72263e68fd7fa12991ae5057897d)
-    * [Walz to unveil Harris' plan for rural voters as campaign looks to cut into Trump's edge](https://apnews.com/article/harris-walz-rural-voters-pennsylvania-trump-291214562d083593f29f8972429a9bec)
-    * [Rulings signal US courts may be more open to lawsuits accusing foreign officials of abuses](https://apnews.com/article/saudi-arabia-human-rights-lawsuits-us-courts-a350cb2e8a9a68bb70d86391b16137e9)
+    * [Israel assures US it won't strike Iranian nuclear or oil sites, US officials say](https://apnews.com/article/israel-iran-oil-nuclear-sites-biden-f5dd702de7d990dd1d00f665e1484dee)
+    * [US warns Israel to boost humanitarian aid into Gaza or risk losing weapons funding](https://apnews.com/article/israel-gaza-humanitarian-aid-blinken-austin-887ae388a022215f71309ab6def12103)
+    * [Harris zeroes in on Black men, Trump focuses on women as both seek to fire up key voting blocs](https://apnews.com/article/harris-charlamagne-trump-breakfast-club-women-2eab5daa1095b7ecb38fe92857acdb86)
     
     Newsletters
     
@@ -561,9 +561,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Soto, Stanton homers back Rodón as Yankees take advantage of wild Guardians to win ALCS opener 5-2](https://apnews.com/article/mlb-playoffs-guardians-yankees-score-7c516a2475991a2d05ca6fc9fb3576ed)
-    * [Lindor homers as Mets stop Dodgers' scoreless streak in 7-3 win, head to NY with NLCS tied 1-1](https://apnews.com/article/mlb-playoffs-mets-dodgers-score-38404ba2c1c993036e9e343fb100e843)
-    * [Allen and Bills overcome Rodgers' Hail Mary and beat Jets 23-20 to take control in AFC East](https://apnews.com/article/bills-jets-score-allen-rodgers-6689aadc56ec90447e89533f889f3ae5)
+    * [Jets acquire wide receiver Davante Adams from Raiders, AP sources say](https://apnews.com/article/jets-raiders-trade-davante-adams-e487be5dbfa82159cae2c5bc55f657c4)
+    * [Mexico is struggling to stamp out a homophobic soccer chant ahead of the World Cup](https://apnews.com/article/mexico-usa-homophobic-chant-soccer-guadalajara-fifa-a811c077084b03beda10515fcd59f8ca)
+    * [The cost of rising number of injuries in European soccer nears $800 million, report finds](https://apnews.com/article/football-injuries-rodri-club-world-cup-ad6d9dc6a5c2e79e5995285381e52ee2)
     
     Newsletters
     
@@ -590,8 +590,8 @@ Submit Search
     
     TOP STORIES
     
-    * [Taylor Swift and Travis Kelce attend Game 1 of ALCS at Yankee Stadium](https://apnews.com/article/taylor-swift-travis-kelce-alcs-yankees-guardians-yankee-stadium-73182d99e0f50978b6971b521a320b35)
-    * [Christopher Reeve's kids wanted to be 'honest, raw and vulnerable' in new documentary 'Super/Man'](https://apnews.com/article/christopher-reeve-documentary-superman-ff82e1762ee8552f5e17f25aea166ab4)
+    * [Elton John turns the saga of televangelist Tammy Faye into song for Broadway](https://apnews.com/article/elton-john-tammy-faye-bakker-messner-broadway-21646ba21cc1a6a90f816384267f70c4)
+    * [Tori Amos' first children's book is an ode to inspiration](https://apnews.com/article/tori-amos-childrens-book-muses-70bdf2263fe74df5197a00653a59d4b9)
     * [Six people accuse Diddy of sexual assault in new lawsuits, including a man who was 16 at the time](https://apnews.com/article/sean-combs-diddy-sexual-assault-lawsuits-sex-trafficking-6349f77fa3a5fb1cc4030d7abd65ccba)
     
 * [Business](https://apnews.com/business)
@@ -607,8 +607,8 @@ Submit Search
     TOP STORIES
     
     * [Trump's economic plans would worsen inflation, experts say](https://apnews.com/article/trump-inflation-tariffs-taxes-immigration-federal-reserve-a18de763fcc01557258c7f33cab375ed)
-    * [Biden admin to provide $750 million to North Carolina-based Wolfspeed for advanced computer chips](https://apnews.com/article/wolfspeed-chips-computer-ai-north-carolina-485703b158999ef29bfc40067f2b109f)
-    * [Stock market today: World shares are mixed after Wall St powers to more records](https://apnews.com/article/stocks-markets-rates-china-earnings-9603ee04b6690dc4e80c22f02f298159)
+    * [After hurricanes, the business of rebuilding lives means navigating the insurance claims process](https://apnews.com/article/disaster-loans-insurance-hurricanes-claims-damage-fema-292d09e727f9c7b4ad59d23e1703e876)
+    * [Walgreens to close 1,200 US stores](https://apnews.com/article/walgreens-closing-drugstores-fiscal-fourth-quarter-5df931861e1e4111eaa5ef2372ec173a)
     
 * [Science](https://apnews.com/science)
     
@@ -643,12 +643,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Conkers controversy: World tournament investigates claims of cheating with steel chestnut](https://apnews.com/article/uk-world-conkers-championships-cheating-b8619745c3ffcd0b00d3e347bfb986eb)
     * [After 67 days adrift, a Russian man was rescued but his brother and nephew are dead](https://apnews.com/article/russia-boat-adrift-rescue-sea-okhotsk-kamchatka-71722cac69b3f5bddb2e9d17cb9ff965)
+    * [Snake slithers through Dodgers dugout during NLCS loss to Mets](https://apnews.com/article/mlb-playoffs-dodgers-snake-mets-cab6a3ad5f89c9c8a1124cd31fff1169)
     * [Pumpkin weighing 2,471 pounds wins California contest](https://apnews.com/article/california-giant-pumpkin-winner-71cc6201bb732f057261d452bdf97ba5)
     * [Mud, beer and cash: Annual wife-carrying championship attracts competitive couples to Maine](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b)
     * [Witnesses can bear-ly believe the surprise visitor at Connecticut governor's estate](https://apnews.com/article/bear-climbs-fence-connecticut-governors-mansion-3b1aaf00afa14dc1c7e12ac0faf9d1b4)
-    * [Woman pleads guilty to trying to smuggle 29 turtles across a Vermont lake into Canada by kayak](https://apnews.com/article/eastern-box-turtles-smuggling-vermont-lake-kayak-fdb63d3944a27ef12088fa97a16950a3)
-    * [Authorities continue to investigate container suspected of holding dynamite in Tennessee](https://apnews.com/article/explosives-evacuation-knoxville-metal-recycler-3b929a961105649b12b258ec0a01e0f6)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -709,12 +709,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Who am I? A South Korean adoptee finds answers about the past — just not the ones she wants](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
     * [Trump's small-dollar donor fundraising is beset by confusion and fatigue](https://apnews.com/article/trump-campaign-donations-small-donors-decline-f1a6b238d15edb3f72260e4c86d2c552)
     * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
     * [Trump has long blasted China's trade practices. His 'God Bless the USA' Bibles were printed there](https://apnews.com/article/trump-god-bless-usa-bible-china-32a80611605d4052d8238064bbcace4c)
     * [How Tucson police handled a death like George Floyd’s when leaders thought it would never happen](https://apnews.com/article/lethal-restraint-tucson-police-deaths-transparency-texts-7087a4f1637596d7d66afa92358b811b)
     * [A series of deaths and the 'Big Fight': Uncovering police force in one Midwestern city](https://apnews.com/article/police-use-of-force-deaths-evansville-lethal-restraint-4d4b8e5c590938b22f4b59ee34fac3d9)
-    * [South Korean woman sues government and adoption agency after her kidnapped daughter was sent abroad](https://apnews.com/article/south-korea-adoption-lawsuit-children-holt-593945988001c509943e5c6266885878)
     
 * [Climate](https://apnews.com/climate-and-environment)
     
@@ -737,11 +737,11 @@ Submit Search
     
     TOP STORIES
     
+    * [USDA launches an internal investigation into the deadly Boar's Head outbreak](https://apnews.com/article/boars-head-listeria-investigation-usda-bdcecaa25363c87d08ba01cf71aefb0b)
     * [Voters with disabilities are feeling ignored by presidential candidates](https://apnews.com/article/disabilities-voters-trump-harris-dc53223ac8b1bd24196ab39284e08ad4)
     * [Expect employers to get more picky about who you see for care](https://apnews.com/article/employer-health-care-costs-wegovy-62384cf7bdd328993e9da0585444e34a)
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
-    * [Company recalls nearly 10 million pounds of meat and poultry dishes for listeria contamination](https://apnews.com/article/brucepac-listeria-meat-recall-f4d8db2752137f5bdaa5fbfcc12dd3d6)
     * [Walz to unveil Harris' plan for rural voters as campaign looks to cut into Trump's edge](https://apnews.com/article/harris-walz-rural-voters-pennsylvania-trump-291214562d083593f29f8972429a9bec)
     
 * [Tech](https://apnews.com/technology)
@@ -755,9 +755,9 @@ Submit Search
     
     TOP STORIES
     
+    * [How the tiny Caribbean island of Anguilla has turned the AI boom into a digital gold mine](https://apnews.com/article/anguilla-artificial-intelligence-ai-internet-29d4ca2bb740d0425ffb8355811a6976)
     * [Biden admin to provide $750 million to North Carolina-based Wolfspeed for advanced computer chips](https://apnews.com/article/wolfspeed-chips-computer-ai-north-carolina-485703b158999ef29bfc40067f2b109f)
-    * [Tech consultant goes on trial in death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-3f255ad5461d99471a7e389e36d861e0)
-    * [Volunteers bring solar power to Hurricane Helene's disaster zone](https://apnews.com/article/hurricane-helene-solar-power-north-carolina-095b6ff5f1290ac7439f12b555f9845d)
+    * [Cyber criminals are increasingly helping Russia and China target the US and allies, Microsoft says](https://apnews.com/article/microsoft-russia-china-iran-israel-cyberespionage-cyber-d3a22dd2dcea32615ac15ed4fb951541)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -775,17 +775,17 @@ Submit Search
     
     TOP STORIES
     
-    * [A pastry brought to Mexico by British miners is still popular after 200 years](https://apnews.com/article/mexico-mineral-mine-pastry-mineral-del-monte-1a166e4927ba23541184a456e8a78e53)
-    * [Leaf-peepers are flocking to see New England's brilliant fall colors](https://apnews.com/article/new-england-leaves-fall-colors-peeping-93e9e67391855cebff5ac2a9c846588d)
-    * [Who am I? A South Korean adoptee finds answers about the past — just not the ones she wants](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
+    * [US retail trade group expects holiday season sales to grow more slowly](https://apnews.com/article/holiday-shopping-season-national-retail-federation-442b3cca5952c68821a06553e9ff4edf)
+    * [Al Roker's Sweet Potato Poon, a delicious dish with a side of mystery](https://apnews.com/article/al-roker-sweet-potato-poon-7a78baca12a59b6ab4e1d9ac4a92b58b)
+    * [Royal arm: Prince William tries his hand at flag football in NFL event with kids in London](https://apnews.com/article/nfl-prince-william-flag-football-london-d073585af8321da4c2dd51087d58d587)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Elton John turns the saga of televangelist Tammy Faye into song for Broadway](https://apnews.com/article/elton-john-tammy-faye-bakker-messner-broadway-21646ba21cc1a6a90f816384267f70c4)
     * [Members of the Kennedy family gather for funeral of Ethel Kennedy](https://apnews.com/article/ethel-kennedy-funeral-robert-f-kennedy-bc4bcbe40ee8564c629acc35cab5c305)
     * [An elephant procession for Dussehra draws a crowd in the former Mysore kingdom](https://apnews.com/article/mysuru-dussehra-india-hindu-festival-photos-e5d7fc21ca640ddfce1f510f8a94cdad)
-    * [Hindus in Bangladesh celebrate their largest festival under tight security following attacks](https://apnews.com/article/bangladesh-durga-puja-hindu-festival-violence-3e87b4d3702308687aeee43854da03eb)
     
     Newsletters
     
@@ -801,10 +801,10 @@ Submit Search
     
     * [El Consejo de Seguridad expresa su "fuerte preocupación" por cascos azules tras ataques israelíes](https://apnews.com/world-news/general-news-65f4776e303e4b6510af58567c7b02d7)
     * [ONU: Más de 400.000 niños han sido desplazados en Líbano en 3 semanas de guerra](https://apnews.com/world-news/general-news-990f738ea60595f0be3696a383b797b4)
-    * [Ataque de Israel en norte de Líbano mata a 21 personas en edificio de apartamentos, dice Cruz Roja](https://apnews.com/world-news/general-news-4fc033c237a05cb507c8a74e69b714dd)
-    * [Las muertes de migrantes en Nuevo México se multiplican por 10](https://apnews.com/world-news/general-news-0b967f03da3f7c1ded62334da45b944d)
-    * [Corea del Norte detona partes de carreteras intercoreanas que ya no están en uso, dice Surcorea](https://apnews.com/world-news/general-news-107a088d4756be9086326fe3b5cc4c0e)
-    * [Una Pakistán castigada por la violencia blinda su capital para una gran cumbre asiática de seguridad](https://apnews.com/world-news/general-news-a600c35b98a75fb589c7a3579a61b8ed)
+    * [Harris se centra en los hombres negros y Trump en las mujeres intentando movilizar a votantes clave](https://apnews.com/politics/elecciones-en-eeuu-a5fc70875504caa6eb6b6e8f00c1a455)
+    * [En Pensilvania, ¿puedo entregar una papeleta por otro votante?](https://apnews.com/us-news/general-news-a5ac3b9d61ddbfbb08681cf2b93c9322)
+    * [Dos pandas gigantes de China llegan a EEUU; su hogar será el Zoo Nacional](https://apnews.com/us-news/general-news-d76bc7e57933fd216e7904cabee57b9e)
+    * [Un pastel traído a México por mineros ingleses sigue siendo popular 200 años después](https://apnews.com/world-news/general-news-30e67493f468dc3cc8d394ff65df3486)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
