@@ -228,11 +228,13 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want the rest of the Farking story? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+Total access  
+Total knowledge  
+Total Fark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Anything can be a dildo if you're brave enough](https://www.fark.com/goto/13428116) ( [dailydot.com](https://www.fark.com/goto/13428116) ) » [(4 comments)](https://www.fark.com/comments/13428116/Anything-can-be-a-dildo-if-youre-brave-enough) |
-| [Discussion](https://www.fark.com/discussion/) | [Dear Deidre, I'm a married lesbian but after wild sex with my first boyfriend I don't know. Now I'm so confused](https://www.fark.com/goto/13428128) ( [thesun.ie](https://www.fark.com/goto/13428128) ) » [(5 comments)](https://www.fark.com/comments/13428128/Dear-Deidre-Im-a-married-lesbian-but-after-wild-sex-with-my-first-boyfriend-I-dont-know-Now-Im-so-confused) |
-| [Sports](https://www.fark.com/sports/) | [Welsh soccer team attacked with baseball bats after game. That's not cricket (possible nsfw content on page)](https://www.fark.com/goto/13427974) ( [express.co.uk](https://www.fark.com/goto/13427974) ) » [(2 comments)](https://www.fark.com/comments/13427974/Welsh-soccer-team-attacked-with-baseball-bats-after-game-Thats-not-cricket-possible-nsfw-content-on-page) |
-| [Business](https://www.fark.com/business/) | [Live Nation hit with class action lawsuit over Ticketmaster data breach, so expect to see a 3% Data Breach Settlement surcharge on future ticket purchases](https://www.fark.com/goto/13428030) ( [hollywoodreporter.com](https://www.fark.com/goto/13428030) ) » [(1 comment)](https://www.fark.com/comments/13428030/Live-Nation-hit-with-class-action-lawsuit-over-Ticketmaster-data-breach-so-expect-to-see-a-3-Data-Breach-Settlement-surcharge-on-future-ticket-purchases) |
-| [STEM](https://www.fark.com/stem/) | [Americans will do anything to avoid using the metric system: Pumpkin edition](https://www.fark.com/goto/13428066) ( [popsci.com](https://www.fark.com/goto/13428066) ) » [(1 comment)](https://www.fark.com/comments/13428066/Americans-will-do-anything-to-avoid-using-metric-system-Pumpkin-edition) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Twenty-five years ago today, a bunch of insecure young men misunderstood the meaning of "Fight Club" for the first time](https://www.fark.com/goto/13427966) ( [collider.com](https://www.fark.com/goto/13427966) ) » [(2 comments)](https://www.fark.com/comments/13427966/Twenty-five-years-ago-today-a-bunch-of-insecure-young-men-misunderstood-meaning-of-Fight-Club-for-first-time) |
-| [Fandom](https://www.fark.com/fandom/) | [Early draft of Star Trek II revealed that Khan had planted a space seed of his own that would meet a tragic fate](https://www.fark.com/goto/13428020) ( [slashfilm.com](https://www.fark.com/goto/13428020) ) » [(3 comments)](https://www.fark.com/comments/13428020/Early-draft-of-Star-Trek-II-revealed-that-Khan-had-planted-a-space-seed-of-his-own-that-would-meet-a-tragic-fate) |
-| [D'awww](https://www.fark.com/dawww/) | [Giant pandas make the best friends](https://www.fark.com/goto/13427432) ( [aol.com](https://www.fark.com/goto/13427432) ) » [(3 comments)](https://www.fark.com/comments/13427432/Giant-pandas-make-best-friends) |
-| [Food](https://www.fark.com/food/) | [El que tiene el marketing realmente extraño](https://www.fark.com/goto/13428078) ( [brandeating.com](https://www.fark.com/goto/13428078) ) » [(0 comments)](https://www.fark.com/comments/13428078/El-que-tiene-el-marketing-realmente-extrao) |
-| [Politics](https://www.fark.com/politics/) | [CNN reports Republican candidate for President Donald J. Trump meets the Webster's definition of "Fascist Dictator." The 4 people watching will now vote accordingly](https://www.fark.com/goto/13428148) ( [mediaite.com](https://www.fark.com/goto/13428148) ) » [(10 comments)](https://www.fark.com/comments/13428148/CNN-reports-Republican-candidate-for-President-Donald-J-Trump-meets-Websters-definition-of-Fascist-Dictator-The-4-people-watching-will-now-vote-accordingly) |
+| [Main](https://www.fark.com/) | [Were you looking forward to a late-night pub crawl in Prague? Too bad](https://www.fark.com/goto/13428002) ( [theguardian.com](https://www.fark.com/goto/13428002) ) » [(28 comments)](https://www.fark.com/comments/13428002/Were-you-looking-forward-to-a-late-night-pub-crawl-in-Prague-Too-bad) |
+| [Discussion](https://www.fark.com/discussion/) | [No quiting as we reach the halfway point of the fantasy football season, even from 9th place. How's your team doing? Next week, inappropriate team names for trolling from last place](https://www.fark.com/goto/13428212) ( [fark.com](https://www.fark.com/goto/13428212) ) » [(8 comments)](https://www.fark.com/comments/13428212/No-quiting-as-we-reach-halfway-point-of-fantasy-football-season-even-from-9th-place-Hows-your-team-doing-Next-week-inappropriate-team-names-for-trolling-from-last-place) |
+| [Sports](https://www.fark.com/sports/) | [Cam Reclining](https://www.fark.com/goto/13428250) ( [cbssports.com](https://www.fark.com/goto/13428250) ) » [(3 comments)](https://www.fark.com/comments/13428250/Cam-Reclining) |
+| [Business](https://www.fark.com/business/) | [Chinese hybrid that can park sideways, make a 360 turn on the spot, and even swim for 30 minutes if you happen to mistake a river for a road](https://www.fark.com/goto/13428632) ( [cnbc.com](https://www.fark.com/goto/13428632) ) » [(1 comment)](https://www.fark.com/comments/13428632/Chinese-hybrid-that-can-park-sideways-make-a-360-turn-on-spot-even-swim-for-30-minutes-if-you-happen-to-mistake-a-river-for-a-road) |
+| [STEM](https://www.fark.com/stem/) | [What does your fantasy lover have in common with dirt?](https://www.fark.com/goto/13428330) ( [newsweek.com](https://www.fark.com/goto/13428330) ) » [(7 comments)](https://www.fark.com/comments/13428330/What-does-your-fantasy-lover-have-in-common-with-dirt) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Replaced by a lizard](https://www.fark.com/goto/13428134) ( [grunge.com](https://www.fark.com/goto/13428134) ) » [(10 comments)](https://www.fark.com/comments/13428134/Replaced-by-a-lizard) |
+| [Fandom](https://www.fark.com/fandom/) | [We're sorry we canceled the video games you were working on, when you come to work tomorrow please report to this "expulsion room" where we will bore you into quitting](https://www.fark.com/goto/13428440) ( [ign.com](https://www.fark.com/goto/13428440) ) » [(37 comments)](https://www.fark.com/comments/13428440/Were-sorry-we-canceled-video-games-you-were-working-on-when-you-come-to-work-tomorrow-please-report-to-this-expulsion-room-where-we-will-bore-you-into-quitting) |
+| [D'awww](https://www.fark.com/dawww/) | [Online auction to support AWARE wildlife rescue in Atlanta. Come help save some lives](https://www.fark.com/goto/13428288) ( [event.auctria.com](https://www.fark.com/goto/13428288) ) » [(0 comments)](https://www.fark.com/comments/13428288/Online-auction-to-support-AWARE-wildlife-rescue-in-Atlanta-Come-help-save-some-lives) |
+| [Food](https://www.fark.com/food/) | [Apparently, societal decline has gotten so bad that people have to be told how to freeze muffins](https://www.fark.com/goto/13428082) ( [thetakeout.com](https://www.fark.com/goto/13428082) ) » [(13 comments)](https://www.fark.com/comments/13428082/Apparently-societal-decline-has-gotten-so-bad-that-people-have-to-be-told-how-to-freeze-muffins) |
+| [Politics](https://www.fark.com/politics/) | [Election deniers denied denial](https://www.fark.com/goto/13428284) ( [rawstory.com](https://www.fark.com/goto/13428284) ) » [(22 comments)](https://www.fark.com/comments/13428284/Election-deniers-denied-denial) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 15 2024 09:42:15  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 15 2024 15:43:44  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
