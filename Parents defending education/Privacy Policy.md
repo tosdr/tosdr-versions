@@ -20,7 +20,7 @@ Menu
 * News
 * Features
 * [Lawsuits](https://defendinged.org/newsroom/?types-filter=lawsuits)
-* Consultants
+* [Investigations](https://defendinged.org/investigations/)
 * [Donate](https://defendinged.org/donate/)
 * Contact
 
@@ -53,15 +53,6 @@ Menu
 * [Surveys in Schools](https://defendinged.org/survey/) 
 * [Private Schools](https://defendinged.org/privateschools/) 
 * [Consultant Report Card](https://defendinged.org/consultantreportcard/) 
-
-* [Panorama Education Inc.](https://defendinged.org/report/panorama-education-inc/)
-* [Pacific Educational Group Inc.](https://defendinged.org/report/pacific-educational-group-inc/)
-* [Collaborative for Academic, Social, and Emotional Learning (CASEL)](https://defendinged.org/report/casel/)
-* [Black Lives Matter at School](https://defendinged.org/report/black-lives-matter/)
-
-* [Find Out Which Consultants Are In Your School District](https://defendinged.org/consultantreportcard/) 
-* [About the Consultant Report Card](https://defendinged.org/case-study/about-the-consulting-report-card/) 
-* [Download the Report](https://defendinged.org/wp-content/uploads/2022/01/PDE-Consultant-Report-Card-2021.pdf) 
 
 * [Something going on in your school we should know about? Report an Incident](https://defendinged.org/join-the-movement/report-an-incident/) 
 * [Already working with an organization or community? Submit an Organization](https://defendinged.org/join-the-movement/submit-an-organization/) 
