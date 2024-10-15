@@ -204,7 +204,7 @@ No items found.
 
 [**_Voir les versions précédentes_**](https://www.ornikar.com/a-propos/conditions-generales-de-vente#versions-precedentes)
 
-**Dernière mise à jour le 23 septembre 2024**
+**Dernière mise à jour le 10 octobre 2024**
 
 Les présentes conditions générales de vente ont pour objet de définir les modalités et conditions applicables à la vente en ligne des biens et services proposés sur le site internet [**www.ornikar.com**](https://www.ornikar.com/) édité par la société MARIANNE FORMATION, société par actions simplifiée au capital de 25.936,35 euros, dont le siège social se situe au 170 Boulevard de la Villette Paris (75019), immatriculée au RCS de Paris sous le n° 799 351 887, disposant d’un établissement sis 12 rue Charles Brunellière à Nantes (44100) immatriculé au RCS de Nantes sous le numéro 799 351 887 00036, exerçant sous l’enseigne ORNIKAR, inscrite en tant qu’organisme de formation sous le numéro de déclaration d’activité 11 75 60689 75 et autorisée à exploiter, sous le numéro E16 044 0009 0, un établissement d’enseignement, à titre onéreux, de la conduite des véhicules à moteur et de la sécurité routière selon arrêté délivré le 31 mars 2016 et renouvelé le 2 février 2021. MARIANNE FORMATION est légalement représentée par Monsieur Benjamin Gaignault, son Président.
 
@@ -1180,7 +1180,7 @@ Le paiement pourra s’effectuer pour le paiement comptant en un seul versement.
 
 ### **6.3.1 Paiement en plusieurs fois avec Alma** 
 
-Paiement en deux ou trois fois sans frais
+**Paiement en deux, trois ou quatre fois sans frais**
 
 Le paiement en plusieurs fois/différé est disponible via notre partenaire Alma. La sécurisation des paiements est assurée par Alma et ses prestataires. Tous les paiements sont protégés par le 3D Secure.
 
@@ -1188,16 +1188,16 @@ Si les Clients souhaitent bénéficier de ces facilités de paiements, ils devro
 
 Montant des achats
 
-Paiement en deux et trois fois : Seuls les achats entre 50 € et 3 000 € sont éligibles au paiement avec Alma.  
+Paiement en deux, trois ou quatre fois : Seuls les achats entre 50 € et 3 000 € sont éligibles au paiement avec Alma.  
   
 
-Frais
+**Frais**
 
 En payant en plusieurs fois avec Alma, le Client ne paye pas de frais.
 
 Alma est gestionnaire de télépaiement et délivre un certificat électronique qui vaudra preuve du montant et de la date de la transaction conformément aux dispositions des articles 1316 et suivants du code civil.
 
-Résiliation
+**Résiliation**
 
 Toute résiliation des présentes Conditions Générales de Vente, liant ORNIKAR et le Client, entraîne la résiliation des Conditions générales d’Utilisation entre Alma et le Client.
 
@@ -1447,7 +1447,7 @@ Annexe 1 – Grille tarifaire
 
 ### Achats hors CPF
 
-Une tarification différente peut vous être appliquée en fonction de la zone géographique (1 à 24) dans laquelle vous souhaitez effectuer vos leçons de conduite. Ces zones sont délimitées comme suit : [**télécharger la grille tarifaire avec les différentes zones**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66f1301b916e112a60798365_CGV%20Ornikar%20-%20Annexe%201%20-%20Grille%20tarifaire%20-%20Hors%20CPF%20-%2023.09.2024.pdf).
+Une tarification différente peut vous être appliquée en fonction de la zone géographique (1 à 24) dans laquelle vous souhaitez effectuer vos leçons de conduite. Ces zones sont délimitées comme suit : [**télécharger la grille tarifaire avec les différentes zones**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/670d1fc6109363c39e52a857_CGV%20-%2010%3A10%3A2024.pdf).
 
 ‍
 
@@ -1485,6 +1485,7 @@ _(\*) Rayez si mention inutile._
 Versions précédentes
 --------------------
 
+* [**Version applicable du 23 septembre 2024 au 09 octobre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/670e695892e6dab5db961cfe_Copie%20de%20Renforce%CC%81%20sans%20code%20%2B%20rectifications%20-%2023%20septembre%202024%20-%20clean%20version.pdf)
 * [**Version applicable du 2 septembre 2024 au 22 septembre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66f131c92f26f5317dfcd356_CGV%20Ornikar%2002%3A09%3A2024.pdf)
 * [**Version applicable du 1er aout 2024 au 1er septembre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66ab855b8c4f060acdbe28c6_CGV%201er%20aou%CC%82t%202024.pdf)
 * [**Version applicable du 17 juin 2024 au 31 juillet 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66ab855b8c4f060acdbe28c6_CGV%201er%20aou%CC%82t%202024.pdf)
