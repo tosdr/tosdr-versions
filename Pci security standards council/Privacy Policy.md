@@ -173,10 +173,9 @@ Search
                 * [FAQs](https://www.pcisecuritystandards.org/faqs/)
                 * [Global Content Library](https://www.pcisecuritystandards.org/global-content-library/)
                 * [Standards](https://www.pcisecuritystandards.org/standards/)
-                * [PCI SSC Mobile App](https://www.pcisecuritystandards.org/mobile-app/)
-                
                 * [Merchant Resources](https://www.pcisecuritystandards.org/merchants/)
                 * [PCI SSC Glossary](https://www.pcisecuritystandards.org/glossary/)
+                
                 * [PCI Perspectives Blog](https://blog.pcisecuritystandards.org/)
                 * [PCI SSC Portal](https://programs.pcissc.org/)
                 * [PCI Security Essentials](https://www.pcisecuritystandards.org/merchants/#resources)
