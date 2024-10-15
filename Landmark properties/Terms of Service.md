@@ -1,5 +1,3 @@
-[Help Support Hurricane Helene Relief Efforts](https://www.redcross.org/donate/dr/hurricane-helene.html)
-
 [![Landmark Properties](https://www.landmarkproperties.com/wp-content/uploads/2021/08/logo.svg)](https://www.landmarkproperties.com/)
 
 * [Who We Are](#)
