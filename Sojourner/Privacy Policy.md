@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-371765bffce18fa1e45f48539ce84f69
+66fe9959a381b3de49482efb48fff06b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Peridot stone chips](https://www.sojourner.biz/images/cache/peridot_strand.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/chips/peridot-stone-chips.html "Peridot stone chips")
+[![Tiny pink and green clasp](https://www.sojourner.biz/images/cache/SKU0324front.200.jpg)](https://www.sojourner.biz/clasps/glass/tiny-pink-and-green-clasp.html "Tiny pink and green clasp")
 
-#### [Peridot stone chips](https://www.sojourner.biz/beads/stone-a-l/chips/peridot-stone-chips.html "Peridot stone chips")
+#### [Tiny pink and green clasp](https://www.sojourner.biz/clasps/glass/tiny-pink-and-green-clasp.html "Tiny pink and green clasp")
 
-$10.00
+$14.00
 
 ### Best Sellers
 
