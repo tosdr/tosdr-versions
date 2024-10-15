@@ -253,23 +253,13 @@ Latest News
 
 [Election to test Ishiba's ability to build a strong political base](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
 
-6 hours ago
-
 [Stateless speak up as world misses its #Ibelong deadline](https://www.japantimes.co.jp/news/2024/10/15/world/politics/stateless-world-ibelong-deadline/ "Stateless speak up as world misses its #Ibelong deadline")
-
-7 hours ago
 
 [Ishiba openness to nuke ban treaty involvement puts pact in spotlight](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/japan-pm-ishiba-nuclear-ban-treaty/ "Ishiba openness to nuke ban treaty involvement puts pact in spotlight")
 
-7 hours ago
-
 [40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
 
-7 hours ago
-
 [CEATEC begins near Tokyo as humanity enters 'a new era' with AI](https://www.japantimes.co.jp/business/2024/10/15/tech/ceatec-technology-show/ "CEATEC begins near Tokyo as humanity enters 'a new era' with AI")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
