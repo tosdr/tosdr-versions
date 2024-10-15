@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Sokoban 1994](https://www.myabandonware.com/game/sokoban-1994-sum)
-* [Soccer](https://www.myabandonware.com/game/soccer-sul)
-* [Slime](https://www.myabandonware.com/game/slime-suk)
-* [Slater Man PC](https://www.myabandonware.com/game/slater-man-pc-suj)
-* [Slan](https://www.myabandonware.com/game/slan-sui)
+* [Arch Rivals](https://www.myabandonware.com/game/arch-rivals-8h4)
+* [Super Tank](https://www.myabandonware.com/game/super-tank-sux)
+* [Space Slalom](https://www.myabandonware.com/game/space-slalom-suw)
+* [Space Mountain](https://www.myabandonware.com/game/space-mountain-suv)
+* [Guzzler](https://www.myabandonware.com/game/guzzler-rz7)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
