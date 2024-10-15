@@ -487,6 +487,7 @@ Ecotricity is recommended by
 * [Green energy for SMEs](https://www.ecotricity.co.uk/for-your-business/green-energy-for-smes)
 * [Green energy for large businesses](https://www.ecotricity.co.uk/for-your-business/green-energy-for-large-businesses)
 * [Generate your own green energy on-site](https://www.ecotricity.co.uk/for-your-business/generate-your-own-green-energy-on-site)
+* [Join Ecolibrium](https://www.ecotricitysmartgrid.co.uk/)
 
 * Support
     
