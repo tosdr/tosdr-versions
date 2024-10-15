@@ -279,10 +279,11 @@ Share This Article
 
 ### Articles on Education
 
+* [How to Prepare for a Career in Journalism](https://www.safesearchkids.com/how-to-prepare-for-a-career-in-journalism/)
+* [The Distinct Types of Learning in the Classroom](https://www.safesearchkids.com/exploring-the-distinct-types-of-learning-with-examples-for-the-classroom/)
 * [5 Fun Creative Ways to Teach Kids to Read](https://www.safesearchkids.com/fun-and-creative-ways-to-teach-your-kids-to-read/)
 * [Exploring Geometry through Games (for Young Students)](https://www.safesearchkids.com/exploring-geometry-through-games-diy-projects-for-young-students/)
 * [Effective Study Techniques for Secondary Students](https://www.safesearchkids.com/effective-study-techniques-for-secondary-school-students/)
-* [The Distinct Types of Learning in the Classroom](https://www.safesearchkids.com/exploring-the-distinct-types-of-learning-with-examples-for-the-classroom/)
 * [Must Reads Before Starting High School Chemistry](https://www.safesearchkids.com/3-key-concepts-your-child-should-read-before-starting-high-school-chemistry/)
 * [How to Cite Sources in Essays and Research Papers](https://www.safesearchkids.com/how-to-cite-sources-in-essays-and-research-papers/)
 * [Differences between Formative Summative Assessment](https://www.safesearchkids.com/the-differences-between-formative-assessment-and-summative-assessment/)
