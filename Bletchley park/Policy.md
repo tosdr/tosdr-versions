@@ -69,7 +69,6 @@ Back
 * [Corporate Engagement](https://bletchleypark.org.uk/support-us/corporate-engagement/)
 
 * [Overview](https://bletchleypark.org.uk/learning/)
-* [Bursary Opportunities](https://bletchleypark.org.uk/?page_id=977)
 * [Book a Learning Visit to Bletchley Park](https://bletchleypark.org.uk/learning/book-a-learning-visit/)
 * [Essential Information](https://bletchleypark.org.uk/learning/essential-info/)
 * [Book an Outreach Visit](https://bletchleypark.org.uk/learning/book-an-outreach-visit/)
@@ -167,8 +166,6 @@ Learning Visitors
 -----------------
 
 Start here to find out more information about Learning opportunities at Bletchley Park
-
-Our very own bursary scheme, funded by kind donations from external organisations, charities and individuals, allows eligible schools to experience Bletchley Park’s Learning programme for free.
 
 How to book
 -----------
