@@ -237,11 +237,11 @@ Submit
 
 v3.1.1.02d5198© 2024 Cassavarose LLC. All rights reserved
 
- [![Supercharge the Creation of Training Modules with Mind Maps and Cassava](https://assets.gocassava.com/assets/blog/brainstorm_v2_400x400.png)](https://gocassava.com/blog/supercharge-creation-training-modules-mind-maps-cassava)Supercharge the Creation of Training Modules with Mind Maps and Cassava
+ [![Maximize the Engagement, Adoption, and Retention of your Business Coaching Programs](https://assets.gocassava.com/assets/blog/business_coaching_400x400.png)](https://gocassava.com/blog/cassava-for-business-coaches)Maximize the Engagement, Adoption, and Retention of your Business Coaching Programs
 
  [![Why Compliance Training Sucks and How You can Fix It](https://assets.gocassava.com/assets/blog/compliance_training_400x400.png)](https://gocassava.com/blog/why-compliance-training-sucks)Why Compliance Training Sucks and How You can Fix It
 
- [![Maximize the Engagement, Adoption, and Retention of your Business Coaching Programs](https://assets.gocassava.com/assets/blog/business_coaching_400x400.png)](https://gocassava.com/blog/cassava-for-business-coaches)Maximize the Engagement, Adoption, and Retention of your Business Coaching Programs
+ [![Supercharge the Creation of Training Modules with Mind Maps and Cassava](https://assets.gocassava.com/assets/blog/brainstorm_v2_400x400.png)](https://gocassava.com/blog/supercharge-creation-training-modules-mind-maps-cassava)Supercharge the Creation of Training Modules with Mind Maps and Cassava
 
 Company
 
