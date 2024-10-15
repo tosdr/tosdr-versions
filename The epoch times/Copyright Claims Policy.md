@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Georgia Judge Rules County Officials Can’t Delay, Decline to Certify Election Results](https://www.theepochtimes.com/us/georgia-judge-rules-county-officials-cant-delay-decline-to-certify-election-results-5741692)
+* [Day in Photos: Defamation Lawsuit, Rain Havoc, and Egyptian Mega-Museum](https://www.theepochtimes.com/article/day-in-photos-defamation-lawsuit-rain-havoc-and-egyptian-mega-museum-5741646)
     
-    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Georgia Judge Rules County Officials Can’t Delay, Decline to Certify Election Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Defamation Lawsuit, Rain Havoc, and Egyptian Mega-Museum](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Georgia Judge Rules County Officials Can’t Delay, Decline to Certify Election Results](https://img.theepochtimes.com/assets/uploads/2022/11/16/mcburney-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-rules-county-officials-cant-delay-decline-to-certify-election-results-5741692)
-* [Supreme Court Overturns Ruling on Pennsylvania Law Allowing People Between 18 and 21 to Carrying Guns](https://www.theepochtimes.com/us/supreme-court-overturns-ruling-on-pennsylvania-law-allowing-people-under-21-to-carrying-guns-5741673)
+    ![Day in Photos: Defamation Lawsuit, Rain Havoc, and Egyptian Mega-Museum](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741982-GettyImages-2177858728-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-defamation-lawsuit-rain-havoc-and-egyptian-mega-museum-5741646)
+* [Russia, China Enlist Cyber Gangs to Target US and Allies: Microsoft](https://www.theepochtimes.com/us/russia-china-enlist-cyber-gangs-to-target-us-and-allies-microsoft-5741801)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
-    [![Supreme Court Overturns Ruling on Pennsylvania Law Allowing People Between 18 and 21 to Carrying Guns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Russia, China Enlist Cyber Gangs to Target US and Allies: Microsoft](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Overturns Ruling on Pennsylvania Law Allowing People Between 18 and 21 to Carrying Guns](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737019-10072024-L1160066-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-overturns-ruling-on-pennsylvania-law-allowing-people-under-21-to-carrying-guns-5741673)
-* [Lake, Gallego Vie to Represent Arizona in Senate](https://www.theepochtimes.com/us/lake-gallego-vie-to-represent-arizona-in-senate-5741533)
+    ![Russia, China Enlist Cyber Gangs to Target US and Allies: Microsoft](https://img.theepochtimes.com/assets/uploads/2020/09/28/Cyberattack-205x123.jpg.webp)](https://www.theepochtimes.com/us/russia-china-enlist-cyber-gangs-to-target-us-and-allies-microsoft-5741801)
+* [California Immigration Services Executives Face Charges for Alleged Asylum Applications Scam](https://www.theepochtimes.com/china/california-immigration-services-executives-face-charges-for-alleged-asylum-applications-scam-5741747)
     
-    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    1hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
-    [![Lake, Gallego Vie to Represent Arizona in Senate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![California Immigration Services Executives Face Charges for Alleged Asylum Applications Scam](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Lake, Gallego Vie to Represent Arizona in Senate](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739589-Arizona-debate-AP24284085361794-205x123.jpg.webp)](https://www.theepochtimes.com/us/lake-gallego-vie-to-represent-arizona-in-senate-5741533)
-* [Walgreens Announces It Will Close 1,200 Stores Across US by 2027](https://www.theepochtimes.com/business/walgreens-announces-it-will-close-1200-stores-across-us-by-2027-post-5741614)
+    ![California Immigration Services Executives Face Charges for Alleged Asylum Applications Scam](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741750-GettyImages-1340939095-205x123.jpg.webp)](https://www.theepochtimes.com/china/california-immigration-services-executives-face-charges-for-alleged-asylum-applications-scam-5741747)
+* [5 Key Exercises to Keep Your 40s From Feeling Like Middle Age](https://www.theepochtimes.com/health/5-key-exercises-to-keep-your-40s-from-feeling-like-middle-age-5696158)
+    
+    1hr By [Kevin Shelley](https://www.theepochtimes.com/expert/kevin-shelley)
+    
+    [![5 Key Exercises to Keep Your 40s From Feeling Like Middle Age](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![5 Key Exercises to Keep Your 40s From Feeling Like Middle Age](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741666-GettyImages-170872791-205x123.jpg.webp)](https://www.theepochtimes.com/health/5-key-exercises-to-keep-your-40s-from-feeling-like-middle-age-5696158)
+* [Appeals Court Allows Texas to Continue Investigations Into Vote Harvesting](https://www.theepochtimes.com/us/appeals-court-allows-texas-to-continue-investigations-into-vote-harvesting-5741790)
+    
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Appeals Court Allows Texas to Continue Investigations Into Vote Harvesting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Appeals Court Allows Texas to Continue Investigations Into Vote Harvesting](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719613-texas-mail-in-ballot-2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-allows-texas-to-continue-investigations-into-vote-harvesting-5741790)
+* [Your Skin Color May Affect How Well Your Medications Work: Researchers](https://www.theepochtimes.com/health/your-skin-color-may-affect-how-well-your-medications-work-researchers-5741319)
+    
+    2hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
+    
+    [![Your Skin Color May Affect How Well Your Medications Work: Researchers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Your Skin Color May Affect How Well Your Medications Work: Researchers](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741915-shutterstock_2284293867-2Converted-205x123.jpg.webp)](https://www.theepochtimes.com/health/your-skin-color-may-affect-how-well-your-medications-work-researchers-5741319)
+* [North Carolina’s Mark Robinson Sues CNN Over Article About Porn Forum Comments](https://www.theepochtimes.com/business/north-carolinas-mark-robinson-sues-cnn-over-article-about-porn-forum-comments-5741853)
     
     2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Walgreens Announces It Will Close 1,200 Stores Across US by 2027](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![North Carolina’s Mark Robinson Sues CNN Over Article About Porn Forum Comments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Walgreens Announces It Will Close 1,200 Stores Across US by 2027](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741679-2022-04-11T102159Z_2_LYNXNPEI3A0BC_RTROPTP_4_FLORIDA-OPIOIDS-LITIGATION-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/walgreens-announces-it-will-close-1200-stores-across-us-by-2027-post-5741614)
-* [Fed Governor Seeks ‘More Caution’ on Rate Cuts](https://www.theepochtimes.com/business/fed-governor-seeks-more-caution-on-rate-cuts-5741581)
+    ![North Carolina’s Mark Robinson Sues CNN Over Article About Porn Forum Comments](https://img.theepochtimes.com/assets/uploads/2024/03/03/id5599472-Mark-Robinson-CPAC-DALLAS5325-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/north-carolinas-mark-robinson-sues-cnn-over-article-about-porn-forum-comments-5741853)
+* [More Than 5 Million Have Voted So Far Across the US: Here’s the Breakdown](https://www.theepochtimes.com/us/more-than-5-million-have-voted-so-far-across-the-us-heres-the-breakdown-5741743)
     
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Fed Governor Seeks ‘More Caution’ on Rate Cuts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![More Than 5 Million Have Voted So Far Across the US: Here’s the Breakdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Fed Governor Seeks ‘More Caution’ on Rate Cuts](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741680-Christopher-Waller-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/fed-governor-seeks-more-caution-on-rate-cuts-5741581)
-* [Polish Lawmakers Push Back After Prime Minister Suspends Right to Asylum](https://www.theepochtimes.com/world/polish-lawmakers-push-back-after-prime-minister-suspends-right-to-asylum-5741534)
+    ![More Than 5 Million Have Voted So Far Across the US: Here’s the Breakdown](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732688-early-voting-GettyImages-2172455611-205x123.jpg.webp)](https://www.theepochtimes.com/us/more-than-5-million-have-voted-so-far-across-the-us-heres-the-breakdown-5741743)
+* [Trump Cuts Pennsylvania Town Hall Short After 2 People Collapse](https://www.theepochtimes.com/us/trump-cuts-pennsylvania-town-hall-short-after-2-people-collapse-5741644)
     
-    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    4hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
-    [![Polish Lawmakers Push Back After Prime Minister Suspends Right to Asylum](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Cuts Pennsylvania Town Hall Short After 2 People Collapse](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Polish Lawmakers Push Back After Prime Minister Suspends Right to Asylum](https://img.theepochtimes.com/assets/uploads/2024/04/15/id5629375-2024-04-10T160449Z_1_LYNXNPEK390RB_RTROPTP_4_UKRAINE-CRISIS-GERMANY-FRANCE-POLAND-205x123.jpg.webp)](https://www.theepochtimes.com/world/polish-lawmakers-push-back-after-prime-minister-suspends-right-to-asylum-5741534)
-* [UN Says It Will Not Withdraw Peacekeepers From Southern Lebanon](https://www.theepochtimes.com/world/un-says-it-will-not-withdraw-peacekeepers-from-southern-lebanon-5741539)
+    ![Trump Cuts Pennsylvania Town Hall Short After 2 People Collapse](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741732-10142024-DSC04467-Kristi-Noem-Donald-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-cuts-pennsylvania-town-hall-short-after-2-people-collapse-5741644)
+* [Georgia Judge Rules County Officials Can’t Delay, Decline to Certify Election Results](https://www.theepochtimes.com/us/georgia-judge-rules-county-officials-cant-delay-decline-to-certify-election-results-5741692)
     
-    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    6hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![UN Says It Will Not Withdraw Peacekeepers From Southern Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Georgia Judge Rules County Officials Can’t Delay, Decline to Certify Election Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![UN Says It Will Not Withdraw Peacekeepers From Southern Lebanon](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741678-GettyImages-2176702516-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/un-says-it-will-not-withdraw-peacekeepers-from-southern-lebanon-5741539)
-* [G20 Meeting to Look at Introducing Wealth Tax for Billionaires](https://www.theepochtimes.com/world/g20-meeting-to-look-at-introducing-wealth-tax-for-billionaires-5740992)
-    
-    7hr By [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor), Special to The Epoch Times
-    
-    [![G20 Meeting to Look at Introducing Wealth Tax for Billionaires](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![G20 Meeting to Look at Introducing Wealth Tax for Billionaires](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741608-1.tagreuters.com2024binary_LYNXMPEK990VL-FILEDIMAGE-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/g20-meeting-to-look-at-introducing-wealth-tax-for-billionaires-5740992)
-* [Property Manager Accuses Venezuelan Gang of Taking Control of Aurora Apartments, Attempting Extortion](https://www.theepochtimes.com/us/property-manager-accuses-venezuelan-gang-of-taking-control-of-aurora-apartments-attempting-extortion-5741333)
-    
-    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Property Manager Accuses Venezuelan Gang of Taking Control of Aurora Apartments, Attempting Extortion](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Property Manager Accuses Venezuelan Gang of Taking Control of Aurora Apartments, Attempting Extortion](https://img.theepochtimes.com/assets/uploads/2024/09/08/id5720221-20240830_1400180-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/property-manager-accuses-venezuelan-gang-of-taking-control-of-aurora-apartments-attempting-extortion-5741333)
-* [Hardware Wholesaler True Value Files for Bankruptcy, Plans Sale to Rival Chain](https://www.theepochtimes.com/us/hardware-wholesaler-true-value-files-for-bankruptcy-plans-sale-to-rival-chain-5741387)
-    
-    13hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
-    
-    [![Hardware Wholesaler True Value Files for Bankruptcy, Plans Sale to Rival Chain](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Hardware Wholesaler True Value Files for Bankruptcy, Plans Sale to Rival Chain](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741607-Chasteen_Small-Business-Hardware_013012-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/hardware-wholesaler-true-value-files-for-bankruptcy-plans-sale-to-rival-chain-5741387)
+    ![Georgia Judge Rules County Officials Can’t Delay, Decline to Certify Election Results](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741788-mcburney-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-rules-county-officials-cant-delay-decline-to-certify-election-results-5741692)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
