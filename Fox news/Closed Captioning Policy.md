@@ -5,6 +5,7 @@
 * [Fox News Audio](https://radio.foxnews.com/)
 * [Fox Weather](https://www.foxweather.com/)
 * [Outkick](https://www.outkick.com/)
+* [Fox Noticias](https://noticias.foxnews.com/)
 * [Books](https://www.foxnews.com/books)
 
 [Fox News](https://www.foxnews.com/)
