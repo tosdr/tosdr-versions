@@ -109,12 +109,6 @@ Please be aware that the Agreement may change from time to time. We will post an
 
 We welcome and encourage you to provide feedback, comments and suggestions for improvements to the Site. If you have any enquiries about these Terms or any questions, complaints or claims with respect to the Applications, please contact us at contact@FreeSteamKeys.com
 
- [![](https://www.freesteamkeys.com/random.jpg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Random Games (Steam level 1+ required)](https://www.freesteamkeys.com/random-games-steam-level-1-required-4/)
-
-### [Random Games (Steam level 1+ required)](https://www.freesteamkeys.com/random-games-steam-level-1-required-4/)
-
  [![](https://steamcdn-a.akamaihd.net/steam/apps/635850/header.jpg)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Sentience: The Android’s Tale](https://www.freesteamkeys.com/sentience-the-androids-tale/)
@@ -127,11 +121,17 @@ We welcome and encourage you to provide feedback, comments and suggestions for i
 
 ### [Professor Watts Memory Match: Puppies](https://www.freesteamkeys.com/professor-watts-memory-match-puppies/)
 
- [![](https://steamcdn-a.akamaihd.net/steam/apps/1018130/header.jpg)
+ [![](https://www.freesteamkeys.com/random.jpg)
 
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Castle Break](https://www.freesteamkeys.com/castle-break/)
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Random Games (Steam level 1+ required)](https://www.freesteamkeys.com/random-games-steam-level-1-required-4/)
 
-### [Castle Break](https://www.freesteamkeys.com/castle-break/)
+### [Random Games (Steam level 1+ required)](https://www.freesteamkeys.com/random-games-steam-level-1-required-4/)
+
+ [![](https://steamcdn-a.akamaihd.net/steam/apps/687490/header.jpg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Trivia Vault: Super Heroes Trivia](https://www.freesteamkeys.com/trivia-vault-super-heroes-trivia/)
+
+### [Trivia Vault: Super Heroes Trivia](https://www.freesteamkeys.com/trivia-vault-super-heroes-trivia/)
 
  [![](https://steamcdn-a.akamaihd.net/steam/apps/3172530/header.jpg)
 
@@ -139,11 +139,11 @@ We welcome and encourage you to provide feedback, comments and suggestions for i
 
 ### [Horror Prison](https://www.freesteamkeys.com/horror-prison/)
 
- [![](https://www.freesteamkeys.com/random.jpg)
+ [![](https://steamcdn-a.akamaihd.net/steam/apps/1104330/header.jpg)
 
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Free Random Steam Key](https://www.freesteamkeys.com/free-random-steam-key-21/)
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Founders’ Fortune](https://www.freesteamkeys.com/founders-fortune/)
 
-### [Free Random Steam Key](https://www.freesteamkeys.com/free-random-steam-key-21/)
+### [Founders’ Fortune](https://www.freesteamkeys.com/founders-fortune/)
 
 How to get free Steam keys? Well... you are in the right place! Free Steam Keys is a popular online gaming community and aggregator powered by Steam fans. Members submit, find and share links for ongoing Steam giveaways. Free Steam Keys lists thousands of legitimate Steam giveaways in one location visited by gamers daily. We will find all the free Steam games, Beta keys and DLC codes we can! Choose a giveaway, follow the instructions and redeem your key!
 
