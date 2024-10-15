@@ -584,7 +584,7 @@ Menü
     * [Merino Outlet](https://www.bergfreunde.de/outlet/material--merinowolle/ "Merino Outlet anzeigen")
     
 
- 
+  
 
 schließen
 
@@ -833,11 +833,11 @@ Stand März 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 43558 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43616 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 43.558 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.616 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
