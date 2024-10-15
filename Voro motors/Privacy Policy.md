@@ -1,6 +1,6 @@
 □
 
-                      
+                   
 
 Privacy Policy - VORO MOTORS                          
 
@@ -45,7 +45,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [Off-Road E-Scooters](https://www.voromotors.com/collections/off-road-electric-scooters)
         * [Hill Climbing E-Scooters](https://www.voromotors.com/collections/electric-scooter-for-climbing-hills)
         * [Refurbished E-Scooters](https://www.voromotors.com/collections/refurbished-electric-scooter)
-* [Electric Bikes](https://www.voromotors.com/collections/electric-bikes)
+* [Electric Bikes](https://www.voromotors.com/collections/electric-dirt-bike-for-adults)
     * [E Ride Pro](https://www.voromotors.com/collections/e-ride-electric-bikes)
         * [E Ride Pro-SS 19"(Price Reduced!)](https://www.voromotors.com/products/e-ride-pro-ss-19)
     * [Altis(New!)](https://www.voromotors.com/collections/altis-ebikes)
@@ -187,7 +187,7 @@ Continue Shopping
 [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1613759451)](https://www.voromotors.com/ "VORO MOTORS")
 
 * [Electric Scooters](https://www.voromotors.com/collections/electric-scooters)
-* [Electric Bikes](https://www.voromotors.com/collections/electric-bikes)
+* [Electric Bikes](https://www.voromotors.com/collections/electric-dirt-bike-for-adults)
 * [Accessories](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
 * [Spare Parts](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/spare-parts)
 * [Resources](https://www.voromotors.com/pages/self-help)
