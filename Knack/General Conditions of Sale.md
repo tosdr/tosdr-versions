@@ -1,5 +1,3 @@
-**NEW BUILDER PROMO**: Sign up for only $19/mo. for your first 3 months. [View pricing >>](https://www.knack.com/pricing/)
-
 Read how you can revolutionize your operation with Knack.
 
 Knack builders are succeeding.
