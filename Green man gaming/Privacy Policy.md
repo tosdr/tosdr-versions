@@ -96,7 +96,6 @@ You can search things like: Games, Franchises, DLC
     * [Shop Genres](https://www.greenmangaming.com/all-games/genres/)
     * [PC Games](https://www.greenmangaming.com/all-games/platforms-os/pc/)
     * [On Sale](https://www.greenmangaming.com/all-games/on-sale/)
-    * [Bestsellers](https://www.greenmangaming.com/all-games/bestsellers/)
     * [All Games](https://www.greenmangaming.com/all-games/)
 * [Hot Deals](https://www.greenmangaming.com/hot-deals/)
 * [Sales](https://www.greenmangaming.com/sales/)
