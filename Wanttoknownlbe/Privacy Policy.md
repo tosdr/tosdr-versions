@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/het-effect-van-elektrosmog-op-jouw-vibratie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/supermarktwinsten-over-rug-boeren-en-consument/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
