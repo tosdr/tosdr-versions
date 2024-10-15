@@ -145,31 +145,6 @@ Back
     [Learn more](https://www.bose.com/trade-up "Learn more")
     
 
-* [OUR 60TH](#)
-    
-    * [Explore 60th Anniversary](https://www.bose.com/60th-anniversary-details)
-    * [Shop Diamond Collection](https://www.bose.com/c/60th-anniversary-diamond-collection)
-    * [Discover SPIN x Bose](https://www.bose.com/stories/bose-celebrates-60th-anniversary-with-spin-collab)
-    * [Uncover Bose's History](https://timeline.bose.com/)
-    
-    Back
-    
-    [![](https://assets.bosecreative.com/m/1af8fe962ee36cda/webimage-SF_Mobile-Nav_Situ_Diamond-Collection.png)
-    
-    EXCLUSIVE
-    
-    ### Diamond Collection](https://www.bose.com/c/60th-anniversary-diamond-collection "SHOP")
-    
-     
-    
-    Shine in Diamond.
-    -----------------
-    
-    The dazzling, new Diamond Collection is here.
-    
-    [SHOP](https://www.bose.com/c/60th-anniversary-diamond-collection "SHOP")
-    
-
 * [Sign In/Join my Bose](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")
 * [Wish list](https://www.bose.com/wishlist)
 * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
