@@ -134,9 +134,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427543.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.")](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
 
-[Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/commentary/2024/10/13/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
+[Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
-  [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/commentary/2024/10/13/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
+  [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
 [Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
 
@@ -159,11 +159,11 @@ Editors' Picks
 
   [![Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427543.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.")](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
 
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/commentary/2024/10/13/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
+[Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
-  [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/commentary/2024/10/13/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
+  [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -248,15 +248,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson](https://www.japantimes.co.jp/news/2024/10/14/world/nobel-prize-economics-2024/ "Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson")
+[How Indonesia's outgoing president steered his son to the vice presidency](https://www.japantimes.co.jp/news/2024/10/15/asia-pacific/politics/indonesia-jokowi-son-gibran-vp/ "How Indonesia's outgoing president steered his son to the vice presidency")
 
-[Hakamata makes first public appearance since acquittal](https://www.japantimes.co.jp/news/2024/10/14/japan/crime-legal/hakamata-first-appearance-after-acquittal/ "Hakamata makes first public appearance since acquittal")
+4 mins ago
 
-[A frustrated Trump lashes out behind closed doors over money](https://www.japantimes.co.jp/news/2024/10/14/world/politics/frustrated-trump-closed-doors-money/ "A frustrated Trump lashes out behind closed doors over money")
+[Bakers brace for costly Christmas as butter prices surge](https://www.japantimes.co.jp/business/2024/10/15/markets/bakers-christmas-butter-prices/ "Bakers brace for costly Christmas as butter prices surge")
 
-[South Korea military says 'fully ready' as drone tensions soar](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/politics/south-korea-military-drone/ "South Korea military says 'fully ready' as drone tensions soar")
+1 hours ago
 
-[A decade of Jokowi: Popular Indonesian leader leaves rocky legacy](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/politics/jokowi-indonesia-legacy-critics/ "A decade of Jokowi: Popular Indonesian leader leaves rocky legacy")
+[Lebanon rescuers defy danger, lack of resources to keep working](https://www.japantimes.co.jp/news/2024/10/15/world/lebanon-rescuers-danger-resources/ "Lebanon rescuers defy danger, lack of resources to keep working")
+
+1 hours ago
+
+[Pakistan 'vigilantes' behind rise in online blasphemy cases](https://www.japantimes.co.jp/news/2024/10/15/world/society/pakistan-vigilantes-online-blasphemy/ "Pakistan 'vigilantes' behind rise in online blasphemy cases")
+
+1 hours ago
+
+[China-Europe rivalry heats up at Paris car show as EV tariffs loom](https://www.japantimes.co.jp/business/2024/10/15/china-europe-paris-car-show-ev/ "China-Europe rivalry heats up at Paris car show as EV tariffs loom")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
