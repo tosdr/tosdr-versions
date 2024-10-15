@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC, DOJ Issue Fiscal Year 2023 Hart-Scott-Rodino Notification Report and Announce Corrected Fiscal Year 2022 Report](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-doj-issue-fiscal-year-2023-hsr-report-and-announce-corrected-2022-report)
+    ### [FTC Finalizes Changes to Premerger Notification Form](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-finalizes-changes-premerger-notification-form)
     
     October 10, 2024
     
