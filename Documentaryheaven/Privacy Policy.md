@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![The Trials of J. Robert Oppenheimer](/wp-content/thumbnails/16705-100x70.jpg?x53432)
+* [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
     
-    The Trials of J. Robert Oppenheimer
+    Canada’s woke nightmare: A warning to the West
     
-    J. Robert Oppenheimer, a man of brilliant intellect, unwavering pride, and undeniable charisma, once stood as a national hero. Guiding the United States through the crucible of World War II, he playe...](https://documentaryheaven.com/the-trials-of-j-robert-oppenheimer/ "The Trials of J. Robert Oppenheimer")
+    Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
 
 ###### Throwback Documentaries
 
-* [![Mick Foley: Hardcore Legend](/wp-content/thumbnails/8493-100x70.jpg?x53432)
+* [![America: Freedom to Fascism](/wp-content/thumbnails/6332-100x70.jpg?x53432)
     
-    Mick Foley: Hardcore Legend
+    America: Freedom to Fascism
     
-    A behind the scenes look into the world of Mick Foley, the professional wrestler who was best known for his outrageous hardcore matches where anything goes, from landing in a bed of thumbtacks to gett](https://documentaryheaven.com/mick-foley-hardcore-legend/ "Mick Foley: Hardcore Legend")
-* [![EP 3/6 The Private Life of Plants](/wp-content/thumbnails/2491-100x70.jpg?x53432)
+    America: Freedom to Fascism is a 2006 film by Aaron Russo, which alleges among a variety of claims that income tax is illegal. The documentary covers many subjects, including: the Internal Revenue Ser](https://documentaryheaven.com/america-freedom-to-fascism/ "America: Freedom to Fascism")
+* [![18 With a Bullet](/wp-content/thumbnails/3779-100x70.jpg?x53432)
     
-    EP 3/6 The Private Life of Plants
+    18 With a Bullet
     
-    Broadcast 19 January 1995, the next instalment is devoted to the ways in which plants reproduce. Pollen and a stigma are the two components needed for fertilisation. Most plants carry both these withi](https://documentaryheaven.com/the-private-life-of-plants-3/ "EP 3/6 The Private Life of Plants")
-* [![Living in the End Times (According to Slavoj Zizek)](/wp-content/thumbnails/4696-100x70.jpg?x53432)
+    In San Salvador , El Salvador 3220 km of Los Angeles ' Eighteen street ' , there is a gang known as "18 "and reign over their territory as an armed militia. In the mid 90's , thousands of Salvadoran w](https://documentaryheaven.com/18-with-a-bullet/ "18 With a Bullet")
+* [![A Day in The Life of a Dictator](/wp-content/thumbnails/9978-100x70.jpg?x53432)
     
-    Living in the End Times (According to Slavoj Zizek)
+    A Day in The Life of a Dictator
     
-    Slovenian philosopher Slavoj Zizek, akaThe Elvis of cultural theory, is given the floor to show of his polemic style and whirlwind-like performance. The Giant of Ljubljana is bombarded with clips of](https://documentaryheaven.com/living-in-the-end-times-slavoj-zizek/ "Living in the End Times (According to Slavoj Zizek)")
-* [![Who Were the Greeks?](/wp-content/thumbnails/8014-100x70.jpg?x53432)
+    Have you ever wondered how a dictator actually goes about his daily business? or what it must be like to have the power of life or death over those you control, a figure which can be in the milli](https://documentaryheaven.com/day-in-life-of-dictator/ "A Day in The Life of a Dictator")
+* [![An Inconvenient Truth](/wp-content/thumbnails/764-100x70.png?x53432)
     
-    Who Were the Greeks?
+    An Inconvenient Truth
     
-    A two part documentary published by the BBC, exploring the ancient Greeks and their way of life.Episode 1:Classicist Dr Michael Scott uncovers the strange, alien world of the ancient Greeks, e](https://documentaryheaven.com/who-were-greeks/ "Who Were the Greeks?")
-* [![The U.S. vs. John Lennon](/wp-content/thumbnails/2888-100x70.jpg?x53432)
+    “Director Davis Guggenheim eloquently weaves the science of global warming with Mr. Gore’s personal history and lifelong commitment to reversing the effects of global climate change. A longtime advoca](https://documentaryheaven.com/an-inconvenient-truth/ "An Inconvenient Truth")
+* [![Dogs That Changed the World](/wp-content/thumbnails/6640-100x70.png?x53432)
     
-    The U.S. vs. John Lennon
+    Dogs That Changed the World
     
-    A fascinating account of a relatively unknown piece of political history. Before the Iraq war and the Bush Administration, there was John Lennon, who used his fame and fortune to protest the Vietnam W](https://documentaryheaven.com/the-u-s-vs-john-lennon/ "The U.S. vs. John Lennon")
+    Broadcast (2007) NATURE’s two-part special DOGS THAT CHANGED THE WORLD tells the epic story of the wolf’s evolution, how “man’s best friend” changed human society and we in turn have radically transfo](https://documentaryheaven.com/dogs-that-changed-the-world/ "Dogs That Changed the World")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
