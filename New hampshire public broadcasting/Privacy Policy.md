@@ -187,7 +187,7 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Trailer Make Peace or Die: Honor the Fallen** | Independent Lens](https://video.nhpbs.org/video/trailer-make-peace-or-die-honor-the-fallen-0cbbaz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 6 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-6-preview-n0vlgx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 6 Preview** | Van der Valk](https://video.nhpbs.org/video/episode-6-preview-sgpjje?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**News Wrap: FEMA adjusts N.C. effort following threats** | PBS News Hour](https://video.nhpbs.org/video/news-wrap-1728939046?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Non-Spanish speaking Latinos reclaim culture after shaming** | PBS News Hour](https://video.nhpbs.org/video/non-spanish-speaking-latinos-reclaim-culture-after-shaming-1728952061?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 Ford Ranger & 2024 BMW X2** | MotorWeek](https://video.nhpbs.org/video/2024-ford-ranger-2024-bmw-x2-pluiue?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Reckoning and Repair Preview** | Stories from the Stage](https://video.nhpbs.org/video/stories-from-the-stage-reckoning-and-repair-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Condoleezza Rice** | Firing Line](https://video.nhpbs.org/video/condoleezza-rice-yifiaz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
