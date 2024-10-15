@@ -142,7 +142,7 @@ _Vous pourrez trouver sur cette page l’ensemble des informations sur la protec
 
 _Pour toute information relative à l’utilisation de vos données personnelles lors de votre visite sur notre site, vous pouvez consulter la_ [_politique de confidentialité dédiée._](https://liveramp.fr/politique-de-cookies/politique-confidentialite-marketing-site-internet/)
 
-_Pour consulter l’information relative aux cookies et pixels LiveRamp, cliquez_ _[**ici.**](#pour)_
+_Pour consulter l’information relative aux cookies et pixels LiveRamp, cliquez_ _[**ici.**](#pour)_
 
 Le groupe LiveRamp met à la disposition de ses clients des outils permettant d’optimiser leurs activités de marketing en ligne. Dans le cadre de ces activités, des données personnelles pouvant identifier directement ou indirectement des personnes physiques sont collectées et traitées. 
 
@@ -154,8 +154,8 @@ La présente politique fournit des informations sur les conditions de traitement
 
 **_Qui sont nos « clients », mentionnés dans cette politique ?_** Nos clients sont des annonceurs opérant dans les secteurs tels que la grande distribution, l’automobile, les télécommunications et l’assurance, et souscrivant à nos offres de produits et services fondés sur la reconnaissance, la pseudonymisation et la synchronisation.
 
-II. Dans quels cas de figure LiveRamp traite vos données personnelles ?
------------------------------------------------------------------------
+**II. Dans quels cas de figure LiveRamp traite vos données personnelles ?**
+---------------------------------------------------------------------------
 
 _Résumé :_
 
@@ -171,7 +171,7 @@ La finalité poursuivie par LiveRamp est de relier entre elles les diverses donn
 
 LiveRamp traite également vos données personnelles dans le but de répondre à vos demandes d’[exercice des droits](https://liveramp.fr/vos-donnees-personnelles-vos-droits/). 
 
-**A.** **En tant que responsable de traitement, LiveRamp traite des données personnelles pour fournir des solutions basées sur la « reconnaissance », la pseudonymisation et la « synchronisation »**
+**A. En tant que responsable de traitement, LiveRamp traite des données personnelles pour fournir des solutions basées sur la « reconnaissance », la pseudonymisation et la « synchronisation »**
 
 **_Quel est le contexte ?_** Notre activité est principalement d’élaborer et de fournir des solutions aux clients annonceurs visant à leur permettre d’améliorer leurs activités marketing. Pour adresser des publicités ciblées à des consommateurs sélectionnés, les annonceurs souhaitent pouvoir retrouver leur propres clients dans des environnements publicitaires différents. Les solutions LiveRamp reposent sur des technologies de “reconnaissance”, de “pseudonymisation” et “synchronisation” permettant de relier entre elles les diverses données (recueillies « online » ou « offline ») ou différents terminaux (par exemple, mobile, ordinateur, tablette) relatifs à un même individu et les cibler dans différents environnements publicitaires.
 
@@ -207,9 +207,11 @@ D’autres clients peuvent commercialiser des analyses de performance des campag
 
 Nous sommes sous-traitants au nom et pour le compte de nos partenaires de Authenticated Traffic Solution (“ATS”): cela signifie qu’ils déterminent comment et pourquoi vos données sont utilisées. Dans ce cas, vous en êtes informés par nos partenaires ATS avec lesquels vous êtes en lien direct au moment où ces traitements sont initiés. Nos partenaires ATS ne partagent avec nous que des données pseudonymes telles que votre adresse e-mail (sous forme hachée) qui ne permet pas de vous identifier directement et que nous supprimons à bref délai aussitôt après avoir créé un identifiant technique et pseudonyme lui correspondant. Ces traitements sont réalisés afin de permettre à nos partenaires ATS de personnaliser le contenu et les publicités qui vous sont proposées en fonction de vos intérêts, tout au long de votre expérience en ligne (web, emails, apps mobiles, objets connectés, etc).
 
-**D.** **En tant que responsable conjoint de traitement, LiveRamp peut traiter des données personnelles pour les besoins de ses services**
+**D. En tant que responsable conjoint de traitement, LiveRamp peut traiter des données personnelles pour les besoins de ses services**
 
 La création de notre référentiel de données online est effectué conjointement avec notre société mère LiveRamp Inc (225 Bush Street – 17th floor – San Francisco – CA 94104 – États-Unis) et conformément aux conditions de traitement de vos données décrites dans la présente politique.
+
+D’autre part, nous sommes responsable conjoint de traitement avec nos partenaires de Authenticated Traffic Solution (“ATS”): cela signifie que nous  déterminons ensemble comment et pourquoi vos données sont utilisées. Dans ce cas, vous en êtes informés par nos partenaires ATS avec lesquels vous êtes en lien direct au moment où ces traitements sont initiés. Nos partenaires ATS ne partagent avec nous que des données pseudonymes telles que votre adresse e-mail (sous forme hachée) qui ne permet pas de vous identifier directement et que nous supprimons à bref délai aussitôt après avoir créé un identifiant technique et pseudonyme lui correspondant. Ces traitements sont réalisés afin de permettre à nos partenaires ATS de personnaliser le contenu et les publicités qui vous sont proposées en fonction de vos intérêts, tout au long de votre expérience en ligne (web, emails, apps mobiles, objets connectés, etc). [Cliquez ici](https://liveramp.com/distribution-of-roles-and-responsibilities-between-liveramp-and-the-publisher/) pour accéder à la répartition des obligations entre LiveRamp et nos partenaires ATS.
 
 III. Lorsque LiveRamp est responsable de traitement, quelles sont les données personnelles traitées, quelles sont les bases juridiques utilisées, et combien de temps les données sont-elles conservées ?
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -242,6 +244,8 @@ Lorsque vous vous connectez sur les sites ou les applications mobiles de nos Mat
 
 Vous pouvez également refuser le dépôt de nos cookies en cliquant [ici](https://optout.liveramp.com/opt_out_cookies).
 
+Votre désinscription est basée sur un cookie. Afin qu’il fonctionne sur votre ordinateur, votre navigateur doit être configuré pour accepter les cookies tiers. Si vous utilisez un nouvel appareil, un nouveau navigateur, ou si vous effacez vos cookies, il vous sera probablement nécessaire de vous désinscrire à nouveau.
+
 **B. Bases légales** 
 
 Les activités pour lesquelles nous sommes responsable de traitement reposent sur les bases suivantes :
@@ -250,7 +254,7 @@ Les activités pour lesquelles nous sommes responsable de traitement reposent su
 
 Les traitements de données personnelles nominatives que nous réalisons sont fondés sur l’intérêt légitime car ils sont essentiels pour opérer nos solutions de reconnaissance et de synchronisation et ainsi honorer les accords conclus avec nos clients et partenaires et permettre à nos clients annonceurs la promotion de leurs produits et services. Nous utilisons cette base légale après réalisation d’une analyse de l’équilibre des intérêts nous permettant d’établir que les intérêts de LiveRamp mentionnés ci-dessus ne prévalent pas sur vos intérêts, droits et libertés fondamentaux. Vous pouvez contacter notre Délégué à la Protection des Données pour obtenir plus de détails.
 
-Ces traitements permettent également aux consommateurs de voir des publicités et des contenus plus adaptés à leurs intérêts lors de leur navigation, et de rationaliser le nombre de sollicitations publicitaires. Enfin, ces traitements participent à l’écosystème du web en général car les revenus additionnels générés par cette personnalisation permettent de maintenir l’accès gratuit au contenu de nombreux sites internet. 
+Ces traitements permettent également aux consommateurs de voir des publicités et des contenus plus adaptés à leurs intérêts lors de leur navigation, et de rationaliser le nombre de sollicitations publicitaires. Enfin, ces traitements participent à l’écosystème du web en général car les revenus additionnels générés par cette personnalisation permettent de maintenir l’accès gratuit au contenu de nombreux sites internet.
 
 * **Consentement**
 
@@ -268,7 +272,7 @@ Les données personnelles que nous traitons en qualité de responsable de traite
 
 En toute hypothèse, nous actualisons automatiquement les données personnelles directement identifiantes nominatives en fonction des données mises à jour fournies par nos Offline Partners. Ce processus implique la suppression des données inutilisables par l’application de la période de conservation du Offline Partner concerné et la prise en compte de toute demande d’opposition ou d’effacement. En tout état de cause, nous supprimons automatiquement les données directement identifiantes nominatives restées inactives pendant 2 ans. À la fin de notre contrat avec le Offline Partner concerné, nous supprimons définitivement les données qu’il nous a fourni.
 
-Par ailleurs, nous conservons nos identifiants cookie dans nos bases pendant 12 mois mais n’utilisons plus nos cookies restés inactifs pendant 90 jours. Nous conservons les identifiants mobiles 240 jours après leur ingestion dans nos bases de données. Nous conservons de manière séparée les données associées à nos cookies et pendant 12 mois maximum. 
+Par ailleurs, nous conservons nos identifiants cookie dans nos bases pendant 12 mois mais n’utilisons plus nos cookies restés inactifs pendant 90 jours. Nous conservons les identifiants mobiles 240 jours après leur ingestion dans nos bases de données. Nous conservons de manière séparée les données associées à nos cookies et pendant 12 mois maximum.
 
 Dans le cadre de l’exercice de vos droits, nous conservons un strict minimum de données nous permettant, le cas échéant, la constatation, l’exercice et la défense de nos droits en justice.
 
@@ -286,7 +290,7 @@ Nous nous réservons le droit de divulguer des données à des tiers si nous tra
 Certains de ces destinataires sont situés dans des pays situés en dehors de l’Espace Économique Européen:
 
 * Certains pays disposent d’un niveau équivalent de protection des données personnelles et font l’objet d’une décision d’adéquation par la Commission Européenne. 
-* D’autres pays ne disposent pas d’une décision d’adéquation et dans ce cas, nous recourrons à des clauses contractuelles types approuvées par la Commission Européenne qui confèrent aux données personnelles le même niveau protection que dans l’Espace Économique Européen. 
+* D’autres pays ne disposent pas d’une décision d’adéquation et dans ce cas, nous recourrons à des clauses contractuelles types approuvées par la Commission Européenne qui confèrent aux données personnelles le même niveau protection que dans l’Espace Économique Européen.
 
 V. Quels sont vos droits ?
 --------------------------
