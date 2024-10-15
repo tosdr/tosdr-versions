@@ -625,7 +625,7 @@ If you register for an online user account with PacificSource, you will be requi
 3. If you are experiencing issues with the messaging program you can reply with the keyword HELP for more assistance, or you can get help directly at [cs@PacificSource.com](mailto:cs@PacificSource.com) or 888-977-9299.
 4. Carriers and PacificSource are not liable for delayed or undelivered messages.
 5. As always, message and data rates may apply for any messages sent to you from us and to us from you. The frequency of the messages you may receive from us will vary depending on the types of communications we determine are appropriate. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
-6. If you have any questions regarding privacy, please read our privacy policy: [Notice of Privacy Practice | PacificSource](https://pacificsource.com/privacy-policy)
+6. If you have any questions regarding privacy, please read our [Privacy Policy](https://pacificsource.com/privacy-policy).
 
 ### **Office closures**
 
