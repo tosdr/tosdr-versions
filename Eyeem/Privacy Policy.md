@@ -38,9 +38,9 @@ The data controller responsible for the processing of your personal data when us
 
 EyeEm Mobile GmbH, c/o Mindspace, Max-Beer-Straße 2-4, 10119 Berlin, Germany  
 ‍[www.eyeem.com](https://www.eyeem.com/)  
-[\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection)  
+[contact@eyeem.com](mailto:contact@eyeem.com)  
   
-Data protection officer: [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection)
+Data protection officer: [privacy@eyeem.com](mailto:privacy@eyeem.com)
 
 **2\. What is personal data?**
 ==============================
@@ -414,17 +414,17 @@ In addition to the ability to exercise control over your personal information an
 **6.1 Information, correction, deletion and/or restriction**
 ------------------------------------------------------------
 
-You have the right at any time to request information about what personal data we process about you and to demand correction, deletion and/or restriction of your personal data stored by us. For your security and if necessary, we will ask you to verify your details in the event of such a request or change. Please send us a message at: [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection).  
+You have the right at any time to request information about what personal data we process about you and to demand correction, deletion and/or restriction of your personal data stored by us. For your security and if necessary, we will ask you to verify your details in the event of such a request or change. Please send us a message at: privacy@eyeeem.com.  
 
 **6.2 Revocation of your consent**
 ----------------------------------
 
-If the data processing by us is based on your consent, you can revoke this consent at any time. To revoke your consent, please send us a message at: [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection).
+If the data processing by us is based on your consent, you can revoke this consent at any time. To revoke your consent, please send us a message at: [privacy@eyeem.com](mailto:privacy@eyeeem.com).
 
 **6.3 Right to object**
 -----------------------
 
-You can object to our data processings based on our corporate legitimate interests. To do so, please send us a message at: [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection).
+You can object to our data processings based on our corporate legitimate interests. To do so, please send us a message at: privacy@eyeem.com.
 
  **6.4 Right to data portability**
 ----------------------------------
@@ -443,7 +443,7 @@ Alt-Moabit 59-61
 10555 Berlin  
 Phone: +49 30 13889-0  
 Fax: +49 30 2155050  
-E-Mail: [\[email protected\]](https://www.eyeem.com/cdn-cgi/l/email-protection)
+E-Mail: mailbox@datenschutz-berlin.de
 
 **7\. What do we do for the security of your data?**
 ====================================================
