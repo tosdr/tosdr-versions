@@ -805,6 +805,6 @@ Tell us about yourself, and we’ll be in touch right away.
 
 Close this module
 
-* [![](/media/sticky-footer-wiw-icon.png)Watch it Work](https://www.privva.com/watch-it-work)
-* [![](/media/sticky-footer-contact-form-icon.png)Contact Us](#contact-us)
-* ![](/media/sticky-footer-chat-Icon.png)Chat
+* [![Watch it Work](/media/sticky-footer-wiw-icon.png)Watch it Work](https://www.privva.com/watch-it-work)
+* [![Contact Us](/media/sticky-footer-contact-form-icon.png)Contact Us](#contact-us)
+* ![Chat](/media/sticky-footer-chat-Icon.png)Chat
