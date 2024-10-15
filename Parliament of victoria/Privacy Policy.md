@@ -91,6 +91,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [Report suggests ways to boost the state education system](https://parliament.vic.gov.au/link/94410d2136804990a01299335b81c20d.aspx)
+        
+        15 October 2024
+        
     * [Supplying our fresh food future](https://parliament.vic.gov.au/link/b950494993a4420da3c3baa25aaf12ff.aspx)
         
         08 October 2024
@@ -98,10 +102,6 @@ Main menu
     * [Laws to combat organised crime debated](https://parliament.vic.gov.au/link/1ac4bb8f32984fa5bc57b17f09cdc283.aspx)
         
         03 October 2024
-        
-    * [Committee finds FOI laws need an overhaul](https://parliament.vic.gov.au/link/eabbb6db64f641679d6cc6bfd47587fc.aspx)
-        
-        24 September 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
