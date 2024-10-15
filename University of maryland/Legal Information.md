@@ -190,12 +190,12 @@ The Terp experience extends beyond classrooms, labs and studios. It encompasses 
 On Campus
 ---------
 
-![Winter Session >](https://umd.edu/sites/umd.edu/files/WS25_UMD-TvandWebsiteSlides_v3_RO_600x350_WebSlide.png)
+![Winter Session >](https://umd.edu/sites/umd.edu/files/WS25_UMD_600x350_WebSlide_0.jpg)
 
 [Winter Session
 --------------](http://winter.umd.edu/)
 
-Keep Learning! Earn up to four credits in just three weeks. Courses offered in person or online. Meet your goals with University of Maryland’s Winter Session, January 2-22, 2025. Registration opens October 15! [**Learn more at winter.umd.edu**](https://winter.umd.edu/).
+Keep Learning! Earn up to four credits in just three weeks. Courses offered in person or online. Meet your goals with University of Maryland’s Winter Session, January 2-22, 2025. [**Register Now!**](https://winter.umd.edu/)
 
 [Read More](http://winter.umd.edu/)
 
