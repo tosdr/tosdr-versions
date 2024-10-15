@@ -205,24 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Board Games 2 (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/board-games-part-2/1/)
-* [I Hate You Page 68](https://www.somethingawful.com/cliff-yablonski/i-hate-you-68/)
-* [Stay hydrated, Homies!](https://www.somethingawful.com/awfulvision/autism-sonic-brony/1/)
-* [REVIEW: the hottest viral images of the day](https://www.somethingawful.com/comedy-goldmine/viral-images-reviewed/1/)
-* [The Superman Shuffle](https://www.somethingawful.com/photoshop-phriday/the-superman-shuffle/1/)
+* [I jerked off my dad!](https://www.somethingawful.com/awfulvision/juggalo-cat-incest/1/)
+* [Warrior Web, Female First, Phatmass, and Ghost Stories](https://www.somethingawful.com/weekend-web/warrior-web-female/1/)
+* [Cartoon Counterparts!](https://www.somethingawful.com/photoshop-phriday/cartoon-voice-actors/1/)
+* [Budget Blockbusters!](https://www.somethingawful.com/photoshop-phriday/budget-blockbusters/1/)
+* [Flowgo, Veritas Academy, Tickle Media Forum, and That Bird's Nest](https://www.somethingawful.com/weekend-web/flowgo-veritas-academy/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [How do you feel about your hair going grey?](http://forums.somethingawful.com/showthread.php?threadid=4072644 "How do you feel about your hair going grey?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/sports.png) [Honkbal Hoofdklasse](http://forums.somethingawful.com/showthread.php?threadid=4072637 "Honkbal Hoofdklasse")
-
 ### Random Articles
 
-* [Don Draper Pitches Actual Commercials to Clients](https://www.somethingawful.com/news/don-draper-depend/1/)
-* [Savita Bhabhi (Thanks, The Worst Unicorn!) (NWS!)](https://www.somethingawful.com/awful-links/savita-bhabhi-kirtu/)
-* [Daughters of Amy Winehouse](https://www.somethingawful.com/garbage-day/amy-winehouse-clones/1/)
-* [Backyard Love](https://www.somethingawful.com/feature-articles/backyard-love-5/1/)
-* [Your Bandicoot Sucks II](https://www.somethingawful.com/news/your-bandicoot-sucks2/1/)
+* [Final Fantasy Hentai](https://www.somethingawful.com/awful-links/awful-link-611/)
+* [Pop's Vietnam Slides](https://www.somethingawful.com/comedy-goldmine/pops-vietnam-slides/1/)
+* [Robo Vampire](https://www.somethingawful.com/movie-reviews/robo-vampire/)
+* [Teen Movies](https://www.somethingawful.com/photoshop-phriday/teen-movies/1/)
+* [Last-Minute Halloween Costume Ideas!](https://www.somethingawful.com/awful-things-sale/adult-halloween-costumes/)
 
 [Random!](https://www.somethingawful.com/random/)
 
