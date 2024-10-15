@@ -1433,7 +1433,7 @@ Phone: (+1)888-505-1815
 * [Find Health Insurance in your State](https://shop.truecoverage.com/marketplace/consumer/zipcode/)
 * [Register in ACA](https://truecoverage.com/)
 
-* [Agent Resources](https://truecoverage.com/truecoverage-agent-referral-program/)
+* [Agent Resources](https://truecoverage.com/)
 * [Blogs & Articles](https://truecoverage.com/affordable-health-insurance-blog/)
 * [Infographics](https://truecoverage.com/health-insurance-infographics/)
 * [Videos](https://truecoverage.com/health-insurance-videos/)
@@ -1529,7 +1529,7 @@ CLOSE
     
 * ![](https://api.trustedform.com/ns.gif)
     
-* Name
+* Email
     
     This field is for validation purposes and should be left unchanged.
     
