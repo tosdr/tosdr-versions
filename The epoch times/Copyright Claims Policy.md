@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [G20 Meeting to Look at Introducing Wealth Tax for Billionaires](https://www.theepochtimes.com/world/g20-meeting-to-look-at-introducing-wealth-tax-for-billionaires-5740992)
+    
+    1hr By [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor), Special to The Epoch Times
+    
+    [![G20 Meeting to Look at Introducing Wealth Tax for Billionaires](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![G20 Meeting to Look at Introducing Wealth Tax for Billionaires](https://img.theepochtimes.com/assets/uploads/2024/10/id5739708-1.tagreuters.com2024binary_LYNXMPEK990VL-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/world/g20-meeting-to-look-at-introducing-wealth-tax-for-billionaires-5740992)
 * [Property Manager Accuses Venezuelan Gang of Taking Control of Aurora Apartments, Attempting Extortion](https://www.theepochtimes.com/us/property-manager-accuses-venezuelan-gang-of-taking-control-of-aurora-apartments-attempting-extortion-5741333)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Property Manager Accuses Venezuelan Gang of Taking Control of Aurora Apartments, Attempting Extortion](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Property Manager Accuses Venezuelan Gang of Taking Control of Aurora Apartments, Attempting Extortion](https://img.theepochtimes.com/assets/uploads/2024/09/08/id5720221-20240830_1400180-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/property-manager-accuses-venezuelan-gang-of-taking-control-of-aurora-apartments-attempting-extortion-5741333)
 * [Hardware Wholesaler True Value Files for Bankruptcy, Plans Sale to Rival Chain](https://www.theepochtimes.com/us/hardware-wholesaler-true-value-files-for-bankruptcy-plans-sale-to-rival-chain-5741387)
     
-    NEW By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
+    7hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
     
     [![Hardware Wholesaler True Value Files for Bankruptcy, Plans Sale to Rival Chain](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Hardware Wholesaler True Value Files for Bankruptcy, Plans Sale to Rival Chain](https://img.theepochtimes.com/assets/uploads/2015/09/Chasteen_Small-Business-Hardware_013012-205x123.jpg.webp)](https://www.theepochtimes.com/us/hardware-wholesaler-true-value-files-for-bankruptcy-plans-sale-to-rival-chain-5741387)
 * [TikTok Mired in Legal Battles as Deadline Looms Over Ban](https://www.theepochtimes.com/article/tiktok-mired-in-legal-battles-as-deadline-looms-over-ban-5733972)
     
-    4hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    9hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
     [![TikTok Mired in Legal Battles as Deadline Looms Over Ban](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![TikTok Mired in Legal Battles as Deadline Looms Over Ban](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741231-Tiktok-threat-6-205x123.jpg.webp)](https://www.theepochtimes.com/article/tiktok-mired-in-legal-battles-as-deadline-looms-over-ban-5733972)
 * [UN, Israel Trade Accusations Over Tank Attack](https://www.theepochtimes.com/world/un-israel-trade-accusations-over-tank-attack-5741259)
     
-    4hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    10hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
     [![UN, Israel Trade Accusations Over Tank Attack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![UN, Israel Trade Accusations Over Tank Attack](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741192-GettyImages-2176702516-205x123.jpg.webp)](https://www.theepochtimes.com/world/un-israel-trade-accusations-over-tank-attack-5741259)
 * [National Polls Show Trump Gaining Ground in Final Election Stretch](https://www.theepochtimes.com/us/national-polls-show-trump-gaining-ground-in-final-election-stretch-5741313)
     
-    4hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    10hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![National Polls Show Trump Gaining Ground in Final Election Stretch](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![National Polls Show Trump Gaining Ground in Final Election Stretch](https://img.theepochtimes.com/assets/uploads/2024/10/id5740954-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/national-polls-show-trump-gaining-ground-in-final-election-stretch-5741313)
 * [OPEC Cuts Oil Demand Growth Forecast for 3rd Straight Month Amid Economic Uncertainty, Weak Market Sentiment](https://www.theepochtimes.com/business/opec-cuts-oil-demand-growth-forecast-for-3rd-straight-month-amid-economic-uncertainty-weak-market-sentiment-5741237)
     
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![OPEC Cuts Oil Demand Growth Forecast for 3rd Straight Month Amid Economic Uncertainty, Weak Market Sentiment](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![OPEC Cuts Oil Demand Growth Forecast for 3rd Straight Month Amid Economic Uncertainty, Weak Market Sentiment](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5723568-Oil-Platform_JF_09122024-205x123.jpg.webp)](https://www.theepochtimes.com/business/opec-cuts-oil-demand-growth-forecast-for-3rd-straight-month-amid-economic-uncertainty-weak-market-sentiment-5741237)
 * [Day in Photos: Escalated Dispute, Investment Summit, and Wildlife Release](https://www.theepochtimes.com/article/day-in-photos-escalated-dispute-investment-summit-and-wildlife-release-5740941)
     
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Escalated Dispute, Investment Summit, and Wildlife Release](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Escalated Dispute, Investment Summit, and Wildlife Release](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741305-AP24288611683025-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-escalated-dispute-investment-summit-and-wildlife-release-5740941)
 * [Judge Rejects Arizona Group’s Bid to Investigate Citizenship of 42,000 Federal-Only Voters](https://www.theepochtimes.com/us/judge-rejects-arizona-groups-bid-to-investigate-citizenship-of-42000-federal-only-voters-5741086)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Judge Rejects Arizona Group’s Bid to Investigate Citizenship of 42,000 Federal-Only Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Judge Rejects Arizona Group’s Bid to Investigate Citizenship of 42,000 Federal-Only Voters](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739768-AZ-Early-Voting-iii_JF_10102024-LS-205x123.webp)](https://www.theepochtimes.com/us/judge-rejects-arizona-groups-bid-to-investigate-citizenship-of-42000-federal-only-voters-5741086)
 * [Man Arrested for Allegedly Threatening FEMA Workers in North Carolina, Officials Say](https://www.theepochtimes.com/us/man-arrested-for-allegedly-threatening-fema-workers-in-north-carolina-officials-say-5741146)
     
-    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    14hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Man Arrested for Allegedly Threatening FEMA Workers in North Carolina, Officials Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Man Arrested for Allegedly Threatening FEMA Workers in North Carolina, Officials Say](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741304-GettyImages-2176738879KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/man-arrested-for-allegedly-threatening-fema-workers-in-north-carolina-officials-say-5741146)
-* [Gmail Users Warned About New Account Takeover Scam: Here’s What to Look For](https://www.theepochtimes.com/us/gmail-users-warned-about-new-account-takeover-scam-heres-what-to-look-for-5741074)
-    
-    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Gmail Users Warned About New Account Takeover Scam: Here’s What to Look For](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Gmail Users Warned About New Account Takeover Scam: Here’s What to Look For](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741301-gmail-shutterstock_1303813597-205x123.jpg.webp)](https://www.theepochtimes.com/us/gmail-users-warned-about-new-account-takeover-scam-heres-what-to-look-for-5741074)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
