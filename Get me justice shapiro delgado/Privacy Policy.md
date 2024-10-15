@@ -291,7 +291,7 @@ Request Free Consultation test
 * 
 * 
 * 
-* Comments
+* Email
     
     This field is for validation purposes and should be left unchanged.
     
@@ -322,7 +322,7 @@ Request Free Consultation
 * 
 * 
 * 
-* Phone
+* Email
     
     This field is for validation purposes and should be left unchanged.
     
