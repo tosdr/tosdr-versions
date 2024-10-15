@@ -378,7 +378,7 @@ By clicking “Accept”, you agree to the storing of cookies on your device to 
 * [Help center](https://help.storypark.com/)
 * [Child safety](https://www.storypark.com/child-safety)
 * [Careers](https://www.storypark.com/careers)
-* [AI Commitments](https://lp.storypark.com/sa/ai-commitments)
+* [Responsible AI](https://lp.storypark.com/sa/ai-commitments)
 
 #### Community
 
