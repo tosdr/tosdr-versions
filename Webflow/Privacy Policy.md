@@ -4,64 +4,70 @@
 
 [Contact sales](https://webflow.com/contact-sales)
 
-* Product
+* Platform
     
     * Build
         
-        * [Designer
+        * [Design
             
-            Creative control, flexibility, and extensibility in a visual-first canvas](https://webflow.com/designer)
-        * [Page buildingNew
-            
-            Launch simple landing pages quickly and easily.](https://webflow.com/page-building)
+            Build high-performing sites](https://webflow.com/designer)
         * [Edit mode
             
-            Custom-built environment for content teammates](https://webflow.com/edit-mode)
-        * [Ecommerce
-            
-            Manage stunning online stores](https://webflow.com/ecommerce)
+            Empower your content team](https://webflow.com/edit-mode)
         * [Interactions
             
-            Craft immersive experiences without engineering support](https://webflow.com/interactions-animations)
-        * [Accessibility
+            Craft immersive experiences](https://webflow.com/interactions-animations)
+        * [Page building
             
-            Learn how you can build more accessible sites with Webflow](https://webflow.com/accessibility)
-    * Scale
+            New
+            
+            Launch simple landing pages quickly and easily](https://webflow.com/page-building)
+    * Manage
         
         * [CMS
             
-            Visual, composable content management](https://webflow.com/cms)
+            Manage content at scale](https://webflow.com/cms)
+        * [Hosting
+            
+            Host and scale your site without the hassle](https://webflow.com/hosting)
         * [Localization
             
             Customize your site for a worldwide audience](https://webflow.com/localization)
-        * [Hosting
-            
-            Reliable, scalable, fast, and secure hosting managed for you](https://webflow.com/hosting)
-        * [SEO
-            
-            Best-in-class, fine-tuned controls](https://webflow.com/seo)
         * [Security
             
-            State of the art web application security practices](https://webflow.com/security)
-    * Connect
+            Ensure your site stays safe](https://webflow.com/security)
+    * Optimize
+        
+        * [Analyze
+            
+            New
+            
+            Understand how your site performs](https://webflow.com/analyze)
+        * [Optimize
+            
+            New
+            
+            Maximize conversions with testing and personalization](https://webflow.com/optimize)
+        * [SEO
+            
+            Grow your reach with fine-tuned controls](https://webflow.com/seo)
+    * Extend
         
         * [Apps
             
-            Extend your site’s functionality](https://webflow.com/apps)
+            Connect your site to apps like HubSpot, Adobe Express, and more](https://webflow.com/apps)
         * [Figma to Webflow
             
-            Turn your static designs into clean, production-ready code](https://webflow.com/figma-to-webflow)
-    * [Webflow platform
-        
-        ↗
+            Turn static designs into clean, production-ready code](https://webflow.com/figma-to-webflow)
+    * [Platform overview
         
         Explore the power of the Webflow Platform
         
-        ![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb12234476ba4209b18_nav-ad-new.webp)](https://webflow.com/platform)
+        ↗](https://webflow.com/platform)[AI at Webflow
         
-        [Product updates
+        Elevate your site with the power of AI
         
-        See what we’ve shipped recently](https://webflow.com/updates)
+        ↗](https://webflow.com/ai)
     
 * Solutions
     
@@ -146,10 +152,7 @@
         
         * [Support
             
-            Browse support solutions or get in touch with our team](https://support.webflow.com/)
-        * [Documentation
-            
-            In-depth Webflow documentation](https://university.webflow.com/docs)
+            Jump into our product docs or connect with our Support team](https://help.webflow.com/)
         * [Forum
             
             Ask questions and learn alongside other Webflow users](https://forum.webflow.com/)
@@ -272,7 +275,7 @@ Webflow may use Personal Information you provided to operate, improve upon, and 
 
 We may also combine your Personal Information with third-party analytics — including session replay technologies — to build a broader profile of our Customers so that we can serve you better and provide custom, personalized content and information. Additionally, we may use Personal Information of our Sites visitors, Customers, and their End Users for fraud prevention, to analyze Site usage and Platform improvement, , for internal market research, troubleshooting problems, to enforce our [Terms of Service](https://webflow.com/legal/terms), and as otherwise set forth in this Policy.
 
-Note that we will never email you to ask for your account information. If you ever receive such an email, please forward it to [\[email protected\]](https://webflow.com/cdn-cgi/l/email-protection). For more information about our procedures in this regard, please review our [Terms of Service](http://about:blank/).
+Note that we will never email you to ask for your account information. If you ever receive such an email, please forward it to [privacy@webflow.com](mailto:privacy@webflow.com). For more information about our procedures in this regard, please review our [Terms of Service](http://about:blank/).
 
 We use financial information solely as authorized by you. While Webflow does not store your credit card information and will use commercially reasonable efforts to ensure the security of all credit card and all other Personal Information, we expressly disclaim any liability for any unauthorized access to or use of our secure servers and/or any and all personal and/or financial information stored therein, and you agree to hold Webflow harmless for any damages that may result therefrom.
 
@@ -354,11 +357,11 @@ We are not responsible for and we do not control any third parties that you auth
 
 Our Platform offers publicly accessible blogs and community forums. If you elect to post something in a public area of our Platform, any Personal Information or content that you voluntarily disclose for posting to the Platform, becomes available to the public, as controlled by any applicable privacy settings. If you remove information that you posted to the Platform, copies may remain viewable in cached and archived pages of the Platform, or if other users have copied or saved that information.
 
-To request removal of your Personal Information from our blog or community forum, contact us at [\[email protected\]](http://about:blank/). In some cases, we may not be able to remove all your Personal Information.
+To request removal of your Personal Information from our blog or community forum, contact us at [contact@webflow.com](http://about:blank/). In some cases, we may not be able to remove all your Personal Information.
 
 > **BASICALLY...**  
 >   
-> Our blogs and community forums are accessible to the public, so any information provided in these areas, including your personal information, may be read, collected, and used by the public. If you need personal info removed, you can emails us at [\[email protected\]](https://webflow.com/cdn-cgi/l/email-protection) and we’ll remove it, if possible.
+> Our blogs and community forums are accessible to the public, so any information provided in these areas, including your personal information, may be read, collected, and used by the public. If you need personal info removed, you can emails us at [contact@webflow.com](mailto:contact@webflow.com) and we’ll remove it, if possible.
 
 5\. Customer testimonials / comments / reviews
 ----------------------------------------------
@@ -407,11 +410,11 @@ The AppChoices app is not limited to opt-outs for CCPA purposes and may be used 
 9\. Correcting and updating your information
 --------------------------------------------
 
-Customers may update, delete, or change your Personal Information you have provided Webflow by [logging in to the Platform](https://webflow.com/dashboard/account/general) and providing such additional information or deleting such information where applicable. If you are not a Customer and would like to gain access to, or request deletion of, information we have collected, please contact us at [\[email protected\]](https://webflow.com/cdn-cgi/l/email-protection). We will provide a response in accordance with applicable. For the avoidance of doubt, Webflow has no direct relationship with your End Users Any such End Users seeking access to, or who would like to correct, amend, or delete data which may be stored on the Platform should direct their request to you, the Customer. If Webflow receives a request from your End User we will inform you in a commercially reasonable amount of time.
+Customers may update, delete, or change your Personal Information you have provided Webflow by [logging in to the Platform](https://webflow.com/dashboard/account/general) and providing such additional information or deleting such information where applicable. If you are not a Customer and would like to gain access to, or request deletion of, information we have collected, please contact us at [contact@webflow.com](mailto:contact@webflow.com). We will provide a response in accordance with applicable. For the avoidance of doubt, Webflow has no direct relationship with your End Users Any such End Users seeking access to, or who would like to correct, amend, or delete data which may be stored on the Platform should direct their request to you, the Customer. If Webflow receives a request from your End User we will inform you in a commercially reasonable amount of time.
 
 > **BASICALLY...  
 > **  
-> You can always access and manage your personal information through your Webflow account, or by emailing us at [\[email protected\]](https://webflow.com/cdn-cgi/l/email-protection).
+> You can always access and manage your personal information through your Webflow account, or by emailing us at [contact@webflow.com](mailto:contact@webflow.com).
 
 10\. Data retention
 -------------------
@@ -474,7 +477,7 @@ The AppChoices app is not limited to opt-outs for CCPA purposes and may be used 
 
 In addition, under California Civil Code Sections 1798.83–1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties.
 
-If you are a California resident and would like a copy of this notice, please submit a written request to: [\[email protected\]](https://webflow.com/cdn-cgi/l/email-protection) or Webflow Inc., 398 11th Street, San Francisco, CA 94103.
+If you are a California resident and would like a copy of this notice, please submit a written request to: [privacy@webflow.com](mailto:privacy@webflow.com) or Webflow Inc., 398 11th Street, San Francisco, CA 94103.
 
 > **BASICALLY...**  
 >   
@@ -499,7 +502,7 @@ Webflow may assign or transfer this Policy, and your user account and related Pe
 16\. Contact us
 ---------------
 
-If you have questions regarding this Policy or about the privacy practices of Webflow, please contact us by email at [\[email protected\]](https://webflow.com/cdn-cgi/l/email-protection), or at:
+If you have questions regarding this Policy or about the privacy practices of Webflow, please contact us by email at [privacy@webflow.com](mailto:privacy@webflow.com), or at:
 
 Webflow, Inc.  
 398 11th Street, 2nd Floor  
@@ -513,21 +516,27 @@ Product
 
 * [Platform](https://webflow.com/platform)
 * [Designer](https://webflow.com/designer)
+* [Edit mode](https://webflow.com/edit-mode)
+* [Interactions](https://webflow.com/interactions-animations)
 * [Page building](https://webflow.com/page-building)
 * [CMS](https://webflow.com/cms)
-* [Ecommerce](https://webflow.com/ecommerce)
-* [Interactions](https://webflow.com/interactions-animations)
-* [SEO](https://webflow.com/seo)
-* [Localization](https://webflow.com/localization)
-* [Edit mode](https://webflow.com/edit-mode)
 * [Hosting](https://webflow.com/hosting)
+* [Localization](https://webflow.com/localization)
+* [Security](https://webflow.com/security)
+* [Ecommerce](https://webflow.com/ecommerce)
+* [Analyze
+    
+    New](https://webflow.com/analyze)
+* [Optimize
+    
+    New](https://webflow.com/optimize)
+* [SEO](https://webflow.com/seo)
 * [DevLink
     
     Labs](http://webflow.com/devlink)
 * [Figma to Webflow
     
     Labs](https://webflow.com/figma-to-webflow)
-* [Security](https://webflow.com/security)
 * [Accessibility](https://webflow.com/accessibility)
 * [AI](https://webflow.com/ai)
 
