@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-10.058 Tb/s
+12.145 Tb/s
 
 Peak
 
@@ -85,7 +85,7 @@ General Terms and Conditions
         
     * [Article 6. Term and Termination](#section-21280)
         
-    * [Article 7. Use and Limitations](#section-19228861)
+    * [Article 7. Use and Limitations](#section-19750309)
         
     * [Article 8. Liability](#section-21282)
         
