@@ -51,7 +51,7 @@ What will you do with my data?
 **If GateHub is your wallet provider, it will remain available to you. If Uphold is your wallet provider, then your payment pointer and all other associated Interledger features will be disabled on March 15, 2023. If you have questions, please reach out to Uphold directly.  
 ‍  
 ‍**How can I contact you?  
-‍**You can contact us by sending an email to [\[email protected\]](https://help.coil.com/cdn-cgi/l/email-protection).  
+‍**You can contact us by sending an email to [support@coil.com](mailto:support@coil.com).  
 ‍
 
 [Home](https://help.coil.com/)[Privacy policy](https://help.coil.com/privacy)[Terms of service](https://help.coil.com/terms)
