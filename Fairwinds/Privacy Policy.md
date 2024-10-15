@@ -121,6 +121,8 @@ Call 407.277.5045
 
 Financial Freedom happens here.®
 
+### Footnotes
+
 ##### Company
 
 * [Careers](https://www.fairwinds.org/careers)
