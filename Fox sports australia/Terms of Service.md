@@ -16,16 +16,16 @@ FOX SCORES
 
 * Cricket
     
-* [Women's T20 WC
+* [Men's Test
     
-    NZL won by 54 runs
+    Day 1 Session 2
     
     |     |     |
     | --- | --- |
-    | PAK | 56  |
-    | NZL | 6 /110 |
+    | PAK | 2 /90 |
+    | ENG |     |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250119)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
 * [Women's T20 WC
     
     16/10 1:00 AEST
@@ -36,34 +36,24 @@ FOX SCORES
     | WI  | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250120)
-* [Men's Test
-    
-    15/10 16:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | PAK | –   |
-    | ENG | –   |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
 * [Women's T20
     
-    15/10 14:00 AEST
+    MELS won by 8 wkts
     
     |     |     |
     | --- | --- |
-    | SYD6 | –   |
-    | MELS | –   |
+    | SYD6 | 5 /130 |
+    | MELS | 2 /134 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250112)
 * [Women's T20
     
-    15/10 15:00 AEST
+    ADE won by 17 runs
     
     |     |     |
     | --- | --- |
-    | ADE | –   |
-    | MELR | –   |
+    | ADE | 5 /173 |
+    | MELR | 156 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250113)
 * Netball
@@ -158,12 +148,12 @@ FOX SCORES
     
 * [NFL
     
-    3rd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | NYJ | 17  |
-    | BUF | 20  |
+    | NYJ | 20  |
+    | BUF | 23  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250615)
 * Football
@@ -188,6 +178,16 @@ FOX SCORES
     | IDN | –   |
     
     Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250402)
+* [WCQ
+    
+    16/10 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | KSA | –   |
+    | BHR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250403)
 * Baseball
     
 * [MLB
@@ -202,12 +202,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240020028DBB2)
 * [MLB
     
-    Bottom 7th Innings
+    Final
     
     |     |     |
     | --- | --- |
-    | NYY | 4   |
-    | CLE | 1   |
+    | NYY | 5   |
+    | CLE | 2   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400200204574)
 
