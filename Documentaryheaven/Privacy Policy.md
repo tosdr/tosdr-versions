@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![America: Freedom to Fascism](/wp-content/thumbnails/6332-100x70.jpg?x53432)
+* [![The Untold History of the United States](/wp-content/thumbnails/12964-100x70.jpg?x53432)
     
-    America: Freedom to Fascism
+    The Untold History of the United States
     
-    America: Freedom to Fascism is a 2006 film by Aaron Russo, which alleges among a variety of claims that income tax is illegal. The documentary covers many subjects, including: the Internal Revenue Ser](https://documentaryheaven.com/america-freedom-to-fascism/ "America: Freedom to Fascism")
-* [![18 With a Bullet](/wp-content/thumbnails/3779-100x70.jpg?x53432)
+    The Untold History of the United States is a 12 part documentary series which was directed, produced and narrated by Academy Award winning writer/director Oliver Stone. The series is an uncompromising](https://documentaryheaven.com/untold-history-of-united-states/ "The Untold History of the United States")
+* [![Tapping The Wire](/wp-content/thumbnails/13034-100x70.jpg?x53432)
     
-    18 With a Bullet
+    Tapping The Wire
     
-    In San Salvador , El Salvador 3220 km of Los Angeles ' Eighteen street ' , there is a gang known as "18 "and reign over their territory as an armed militia. In the mid 90's , thousands of Salvadoran w](https://documentaryheaven.com/18-with-a-bullet/ "18 With a Bullet")
-* [![A Day in The Life of a Dictator](/wp-content/thumbnails/9978-100x70.jpg?x53432)
+    The Wire is an American crime drama tv series which is based in Baltimore, Maryland. Produced by HBO the first episode aired June 2, 2002 and ended in 2008, in its entirety it 60 episodes long all of](https://documentaryheaven.com/tapping-wire/ "Tapping The Wire")
+* [![Wikirebels](/wp-content/thumbnails/4567-100x70.jpg?x53432)
     
-    A Day in The Life of a Dictator
+    Wikirebels
     
-    Have you ever wondered how a dictator actually goes about his daily business? or what it must be like to have the power of life or death over those you control, a figure which can be in the milli](https://documentaryheaven.com/day-in-life-of-dictator/ "A Day in The Life of a Dictator")
-* [![An Inconvenient Truth](/wp-content/thumbnails/764-100x70.png?x53432)
+    Exclusive rough-cut of first in-depth documentary on WikiLeaks and the people behind it.From summer 2010 until now, Swedish Television has been following the secretive media network WikiLeaks and](https://documentaryheaven.com/wikirebels/ "Wikirebels")
+* [![Alexander The Great](/wp-content/thumbnails/14140-100x70.jpg?x53432)
     
-    An Inconvenient Truth
+    Alexander The Great
     
-    “Director Davis Guggenheim eloquently weaves the science of global warming with Mr. Gore’s personal history and lifelong commitment to reversing the effects of global climate change. A longtime advoca](https://documentaryheaven.com/an-inconvenient-truth/ "An Inconvenient Truth")
-* [![Dogs That Changed the World](/wp-content/thumbnails/6640-100x70.png?x53432)
+    Alexander The Great the shining light of Ancient Greece, the prince from remote Macedonia would become the greatest conquer of all time. No one would have thought that someone would have tried to conq](https://documentaryheaven.com/alexander-the-great/ "Alexander The Great")
+* [![Sex in Space](/wp-content/thumbnails/4061-100x70.jpg?x53432)
     
-    Dogs That Changed the World
+    Sex in Space
     
-    Broadcast (2007) NATURE’s two-part special DOGS THAT CHANGED THE WORLD tells the epic story of the wolf’s evolution, how “man’s best friend” changed human society and we in turn have radically transfo](https://documentaryheaven.com/dogs-that-changed-the-world/ "Dogs That Changed the World")
+    As man moves to colonize the cosmos, the realities of sexual relationships and reproduction need to be addressed. Probe the physiological, psychological and cultural challenges of sex in space.From](https://documentaryheaven.com/sex-in-space/ "Sex in Space")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
