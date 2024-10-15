@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/BB7-326x245.jpg)](https://cwbchicago.com/2024/10/firefighters-responding-to-blaze-discover-woman-shot-on-west-side-block-that-used-to-be-served-by-shotspotter.html "Firefighters responding to blaze discover woman shot on West Side block that used to be served by ShotSpotter")
+
+East Garfield Park
+
+### [Firefighters responding to blaze discover woman shot on West Side block that used to be served by ShotSpotter](https://cwbchicago.com/2024/10/firefighters-responding-to-blaze-discover-woman-shot-on-west-side-block-that-used-to-be-served-by-shotspotter.html "Firefighters responding to blaze discover woman shot on West Side block that used to be served by ShotSpotter")
+
+[October 12, 2024 3:51 PM](https://cwbchicago.com/2024/10)
+
+A Chicago Fire Department truck crew, on their way to a major fire in Little Village on Friday evening, ended their response upon finding a woman shot in the 3400 block of West Van Buren.[](https://cwbchicago.com/2024/10/firefighters-responding-to-blaze-discover-woman-shot-on-west-side-block-that-used-to-be-served-by-shotspotter.html "Firefighters responding to blaze discover woman shot on West Side block that used to be served by ShotSpotter")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Jacob-Gies-left-and-Roberto-Nieves--326x245.jpg)](https://cwbchicago.com/2024/10/charges-dropped-against-1-of-2-cops-charged-with-slashing-tires-at-puerto-rican-fest.html "Charges dropped against 1 of 2 cops charged with slashing tires at Puerto Rican Fest")
 
 Citywide
@@ -262,16 +272,6 @@ Rogers Park
 [October 12, 2024 7:41 AM](https://cwbchicago.com/2024/10)
 
 A 16-year-old boy was shot on Friday evening in Rogers Park, according to Chicago police. He is the sixth person shot in the neighborhood since Labor Day.[](https://cwbchicago.com/2024/10/boy-16-shot-in-rogers-park-alley.html "Boy, 16, shot in Rogers Park alley")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Amazon-dog-326x245.jpg)](https://cwbchicago.com/2024/10/man-finds-possible-human-head-in-a-box-while-walking-dog-on-west-side.html "Man walking dog finds human head inside an Amazon box")
-
-East Garfield Park
-
-### [Man walking dog finds human head inside an Amazon box](https://cwbchicago.com/2024/10/man-finds-possible-human-head-in-a-box-while-walking-dog-on-west-side.html "Man walking dog finds human head inside an Amazon box")
-
-[October 11, 2024 8:00 AM](https://cwbchicago.com/2024/10)
-
-Chicago police are conducting a death investigation after a man found an Amazon box containing an object that may be a human head on the West Side yesterday evening.[](https://cwbchicago.com/2024/10/man-finds-possible-human-head-in-a-box-while-walking-dog-on-west-side.html "Man walking dog finds human head inside an Amazon box")
 
 Search
 
