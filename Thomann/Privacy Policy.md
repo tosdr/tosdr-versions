@@ -20,7 +20,7 @@ Get your deals](https://www.thomannmusic.com/social_70th-anniversary.html)
 
 search  
 
-* [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
+* [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
 * [30-Days Money-Back](https://www.thomannmusic.com/helpdesk_moneyback.html)
 
 en · $
