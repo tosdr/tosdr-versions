@@ -231,6 +231,8 @@ If you have any questions or concerns or complaints about our Privacy Policy or 
 
 _This Privacy Policy was last revised: April 22, 2024_.
 
+### _Related_
+
 * [Get The App](#)
     * [iPhone/iPad/Watch](https://apps.apple.com/us/app/day-one-journal-private-diary/id1044867788?ct=web-footer_download_link)
     * [Android](https://play.google.com/store/apps/details?id=com.dayoneapp.dayone&referrer=utm_source%3Dweb%26utm_campaign%3Dfooter_download_link)
@@ -284,3 +286,5 @@ Download the free Day One journal app for free on iPhone, Android, iPad, Mac, an
 [Mac](https://apps.apple.com/app/apple-store/id1055511498?pt=343955&ct=web-top_nav_modal&mt=8)
 
 [Login now](https://dayone.me/)
+
+### _Related_
