@@ -18,9 +18,21 @@
     * [Find a Repair Shop](https://www.endurancewarranty.com/repair/)
     
 
+EN
+
+[English](# "English")
+
+[English](# "English") [Spanish](https://www.endurancewarranty.com/es/onlineterms/ "Spanish")
+
 [(800) 253-8203](tel:8002538203) [Get a FREE Quote](#)
 
 [(800) 253-8203](tel:8002538203)
+
+EN
+
+[English](# "English")
+
+[English](# "English") [Spanish](https://www.endurancewarranty.com/es/onlineterms/ "Spanish")
 
 [Account Sign‑In](https://www.endurancewarranty.com/policy/) [See Your Price](https://buy.endurancewarranty.com/page?slugType=ecommerce_page_v2&slug=page-ecomm-manual-vehicle-entry-v2)
 
@@ -347,3 +359,5 @@ To speak to a vehicle protection plan specialist and **save $300**
 ![8666784172](https://www.endurancewarranty.com/wp-content/uploads/2024/09/QR8666784172.png) ![8005064640](https://www.endurancewarranty.com/wp-content/uploads/2024/09/QR8005064640.png) ![8002538203](https://www.endurancewarranty.com/wp-content/uploads/2024/09/QR8002538203.png)
 
 ![](https://api.trustedform.com/ns.gif)
+
+![](https://tags.w55c.net/rs?id=59c37735bef848dfb845cf6a7bebcc96&t=marketing) ![](https://tags.w55c.net/rs?id=c17013853dd04361a836769b469f5f03&t=completed_view) ![](https://tags.w55c.net/rs?id=5c0506e472014c6899c1713a77b90149&t=homepage)
