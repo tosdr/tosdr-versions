@@ -24,6 +24,8 @@ Community
 
 [Home](https://coomer.party/) [Creators](https://coomer.party/artists) [Posts](https://coomer.party/posts) [Import](https://coomer.party/importer) [Register](https://coomer.party/account/register?location=/dmca) [Login](https://coomer.party/account/login?location=/dmca)
 
+[Join the new SimpleX Chat Group!](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FPtsqghzQKU83kYTlQ1VKg996dW4Cw4x_bvpKmiv8uns%3D%40smp18.simplex.im%2F2PpUYumx8Z_gfU8t-DYfzZ5GG8WAXngS%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEA6uRJ3DJIizPuuClIbLX_c6DZOCI4U2sB1ZEYyEkUoW4%253D%26srv%3Dlyqpnwbs2zqfr45jqkncwpywpbtq7jrhxnib5qddtr6npjyezuwd3nqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%2206v0Tl-2IH8VBGDSh5A7zw%3D%3D%22%7D)
+
 #### DMCA Notice
 
 Please allow up to 3-5 working days for your request to be processed. You may not receive a response unless further information is needed from you.
