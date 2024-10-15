@@ -97,11 +97,11 @@
 * [Partners](https://www.alienvault.com/partners)
     
     * Channel PartnersPowered by our award-winning USM Anywhere platform, our partner programs help you deliver essential security for customers
-        * [All Partner Programs Why become a channel partner](https://www.alienvault.com/partners)
+        * [All Partner Programs Become a LevelBlue Partner](https://www.alienvault.com/partners)
         * [MSSP Program Become a LevelBlue MSSP](https://www.alienvault.com/partners/mssp-program)
-        * [Reseller Program Become a LevelBlue solution provider](https://www.alienvault.com/partners/resellers)
-        * [Professional Services Get expert help with your implementation and optimization](https://www.alienvault.com/partners/certified-implementation-partners)
-        * [Partner Portal Login Get access to our private members area](https://www.alienvault.com/partners/partner-portal/login/)
+        * [Reseller Program Become a LevelBlue Reseller](https://www.alienvault.com/partners/resellers)
+        * [Professional Services Get Expert Help With Your Implementation and Optimization](https://www.alienvault.com/partners/certified-implementation-partners)
+        * [Partner Portal Login Get Access to Our Private Members Area](https://www.alienvault.com/partners/partner-portal/login/)
     * Technology PartnersWorking with the World's leading security providers, we provide best-in-class services that ensure better business outcomes for customers.
         * [OTX Partners Discover our Open Threat Exchange partners](https://www.alienvault.com/partners/otx-partners)
         * [Managed Security Partners Learn about our managed security partners](https://www.alienvault.com/partners/managed-security-partners)
