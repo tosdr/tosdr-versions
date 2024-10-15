@@ -62,7 +62,7 @@ If you have any questions/comments about privacy or should you wish to exercise 
 Contact us
 ----------
 
-[\[email protected\]](https://www.chromatic.ee/cdn-cgi/l/email-protection)
+[hello@chromatic.ee](mailto:hello@chromatic.ee)
 
 We operate worldwide, with  
 a **presence in the EU and the UK**
