@@ -30,17 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/KING/images/ca8780a2-4d0b-47e0-82cd-d44fce16bc90/ca8780a2-4d0b-47e0-82cd-d44fce16bc90_16x9.jpg) ![](https://media.tegna-media.com/assets/KING/images/ca8780a2-4d0b-47e0-82cd-d44fce16bc90/ca8780a2-4d0b-47e0-82cd-d44fce16bc90_360x203.jpg)](https://www.wqad.com/article/weather/frost-freeze-iowa-illinois-first-of-the-season/526-c2316dfc-ef51-434a-b73f-0ba6dd8dd0a3)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc4a5526-a1ba-4be9-adcc-989c93fa6ede/dc4a5526-a1ba-4be9-adcc-989c93fa6ede_16x9.png) ![](https://media.tegna-media.com/assets/WQAD/images/dc4a5526-a1ba-4be9-adcc-989c93fa6ede/dc4a5526-a1ba-4be9-adcc-989c93fa6ede_360x203.png)](https://www.wqad.com/article/news/local/the-current/haunted-hauberg-paranormal-ghost-investigation-tickets-event-spirits-bites/526-1a7d855d-951e-45dd-b9d5-e4557f30fe81)
         
-        #### [First frost and freeze of the season in the forecast](https://www.wqad.com/article/weather/frost-freeze-iowa-illinois-first-of-the-season/526-c2316dfc-ef51-434a-b73f-0ba6dd8dd0a3)
+        #### [Haunted Hauberg: Here's how you can participate in a live paranormal investigation](https://www.wqad.com/article/news/local/the-current/haunted-hauberg-paranormal-ghost-investigation-tickets-event-spirits-bites/526-1a7d855d-951e-45dd-b9d5-e4557f30fe81) [![](https://media.tegna-media.com/assets/WQAD/images/dc4a5526-a1ba-4be9-adcc-989c93fa6ede/dc4a5526-a1ba-4be9-adcc-989c93fa6ede_16x9.png) ![](https://media.tegna-media.com/assets/WQAD/images/dc4a5526-a1ba-4be9-adcc-989c93fa6ede/dc4a5526-a1ba-4be9-adcc-989c93fa6ede_360x203.png)](https://www.wqad.com/article/news/local/the-current/haunted-hauberg-paranormal-ghost-investigation-tickets-event-spirits-bites/526-1a7d855d-951e-45dd-b9d5-e4557f30fe81)
         
-    *  [![](https://media.tegna-media.com/assets/WZZM/images/455431225/455431225_16x9.png) ![](https://media.tegna-media.com/assets/WZZM/images/455431225/455431225_360x203.png)](https://www.wqad.com/article/news/local/moline-city-council-approves-new-affordable-housing-project/526-45c65b43-2e4b-4838-91d1-c4fd45869a50)
+        #### [Here's how you can embark on a live paranormal investigation at the Hauberg Estate](https://www.wqad.com/article/news/local/the-current/haunted-hauberg-paranormal-ghost-investigation-tickets-event-spirits-bites/526-1a7d855d-951e-45dd-b9d5-e4557f30fe81)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/2e6e32f8-f5cd-4edb-92bb-c5d0ce70c394/2e6e32f8-f5cd-4edb-92bb-c5d0ce70c394_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2e6e32f8-f5cd-4edb-92bb-c5d0ce70c394/2e6e32f8-f5cd-4edb-92bb-c5d0ce70c394_360x203.jpg)](https://www.wqad.com/article/news/local/catfish-charlies-closed-moline-illinois/526-268ea878-1b91-4277-bd3c-f041ed26d152)
         
-        #### [Moline City Council approves new affordable housing project](https://www.wqad.com/article/news/local/moline-city-council-approves-new-affordable-housing-project/526-45c65b43-2e4b-4838-91d1-c4fd45869a50) [![](https://media.tegna-media.com/assets/WZZM/images/455431225/455431225_16x9.png) ![](https://media.tegna-media.com/assets/WZZM/images/455431225/455431225_360x203.png)](https://www.wqad.com/article/news/local/moline-city-council-approves-new-affordable-housing-project/526-45c65b43-2e4b-4838-91d1-c4fd45869a50)
+        #### [Catfish Charlie's in Moline closes its doors](https://www.wqad.com/article/news/local/catfish-charlies-closed-moline-illinois/526-268ea878-1b91-4277-bd3c-f041ed26d152) [![](https://media.tegna-media.com/assets/WQAD/images/2e6e32f8-f5cd-4edb-92bb-c5d0ce70c394/2e6e32f8-f5cd-4edb-92bb-c5d0ce70c394_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2e6e32f8-f5cd-4edb-92bb-c5d0ce70c394/2e6e32f8-f5cd-4edb-92bb-c5d0ce70c394_360x203.jpg)](https://www.wqad.com/article/news/local/catfish-charlies-closed-moline-illinois/526-268ea878-1b91-4277-bd3c-f041ed26d152)
         
-        #### [New affordable housing coming to Moline](https://www.wqad.com/article/news/local/moline-city-council-approves-new-affordable-housing-project/526-45c65b43-2e4b-4838-91d1-c4fd45869a50) [![](https://media.tegna-media.com/assets/WZZM/images/455431225/455431225_16x9.png) ![](https://media.tegna-media.com/assets/WZZM/images/455431225/455431225_360x203.png)](https://www.wqad.com/article/news/local/moline-city-council-approves-new-affordable-housing-project/526-45c65b43-2e4b-4838-91d1-c4fd45869a50)
-        
-        #### [Moline is getting more affordable housing](https://www.wqad.com/article/news/local/moline-city-council-approves-new-affordable-housing-project/526-45c65b43-2e4b-4838-91d1-c4fd45869a50)
+        #### [Catfish Charlie's in Moline announces it's closed](https://www.wqad.com/article/news/local/catfish-charlies-closed-moline-illinois/526-268ea878-1b91-4277-bd3c-f041ed26d152)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -59,13 +58,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/433c08db-f3e9-441f-abd3-0a1ed4e339e0/20241015T121604/433c08db-f3e9-441f-abd3-0a1ed4e339e0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/433c08db-f3e9-441f-abd3-0a1ed4e339e0/20241015T121604/433c08db-f3e9-441f-abd3-0a1ed4e339e0_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [First Freeze of the season tomorrow morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/KING/images/ca8780a2-4d0b-47e0-82cd-d44fce16bc90/ca8780a2-4d0b-47e0-82cd-d44fce16bc90_16x9.jpg) ![](https://media.tegna-media.com/assets/KING/images/ca8780a2-4d0b-47e0-82cd-d44fce16bc90/ca8780a2-4d0b-47e0-82cd-d44fce16bc90_360x203.jpg)](https://www.wqad.com/article/weather/frost-freeze-iowa-illinois-first-of-the-season/526-c2316dfc-ef51-434a-b73f-0ba6dd8dd0a3)
         
         #### [First frost and freeze of the season in the forecast](https://www.wqad.com/article/weather/frost-freeze-iowa-illinois-first-of-the-season/526-c2316dfc-ef51-434a-b73f-0ba6dd8dd0a3)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/433c08db-f3e9-441f-abd3-0a1ed4e339e0/20241015T121604/433c08db-f3e9-441f-abd3-0a1ed4e339e0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/433c08db-f3e9-441f-abd3-0a1ed4e339e0/20241015T121604/433c08db-f3e9-441f-abd3-0a1ed4e339e0_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [First freeze of the season on track for Wednesday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -89,7 +88,7 @@ Navigation
 
 Davenport, IA »
 
-51°
+52°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
