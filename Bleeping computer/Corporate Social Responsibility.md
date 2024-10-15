@@ -36,18 +36,18 @@
         
         CISA: Hackers abuse F5 BIG-IP cookies to map internal servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
     
+    * [![New FASTCash malware Linux variant helps steal money from ATMs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New FASTCash malware Linux variant helps steal money from ATMs](https://www.bleepingcomputer.com/news/security/new-fastcash-malware-linux-variant-helps-steal-money-from-atms/)
+    * [![Jetpack fixes critical information disclosure flaw existing since 2016](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Jetpack fixes critical information disclosure flaw existing since 2016](https://www.bleepingcomputer.com/news/security/jetpack-fixes-critical-information-disclosure-flaw-existing-since-2016/)
     * [![TrickMo malware steals Android PINs using fake lock screen](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         TrickMo malware steals Android PINs using fake lock screen](https://www.bleepingcomputer.com/news/security/trickmo-malware-steals-android-pins-using-fake-lock-screen/)
     * [![Pokemon dev Game Freak confirms breach after stolen data leaks online](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Pokemon dev Game Freak confirms breach after stolen data leaks online](https://www.bleepingcomputer.com/news/security/pokemon-dev-game-freak-confirms-breach-after-stolen-data-leaks-online/)
-    * [![This $30 bundle helps you prepare for AWS, CompTIA cloud IT certifications](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        This $30 bundle helps you prepare for AWS, CompTIA cloud IT certifications](https://www.bleepingcomputer.com/offer/deals/this-30-bundle-helps-you-prepare-for-aws-comptia-cloud-it-certifications/)
-    * [![Google warns uBlock Origin and other extensions may be disabled soon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Google warns uBlock Origin and other extensions may be disabled soon](https://www.bleepingcomputer.com/news/google/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
