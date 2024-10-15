@@ -2,15 +2,15 @@ Ad
 
 [Privacy](https://www.canberratimes.com.au/privacy/)
 
-[![The Canberra Times](/static/1728447031/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1728973057/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
 [Privacy](https://www.canberratimes.com.au/privacy/)
 
-[![The Canberra Times](/static/1728447031/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1728973057/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
-[![The Canberra Times](/static/1728447031/sites/canberratimes/images/masthead/masthead-square.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1728973057/sites/canberratimes/images/masthead/masthead-square.svg)](https://www.canberratimes.com.au/)
 
-[![The Canberra Times](/static/1728447031/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1728973057/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
 SectionsMy Region
 
@@ -296,7 +296,7 @@ Tracking and Targeting
 
 [Tracking and Targeting Policy](https://www.canberratimes.com.au/tracking-and-targeting/)
 
-[![The Canberra Times](/static/1728447031/sites/canberratimes/images/masthead/masthead-alt.png)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1728973057/sites/canberratimes/images/masthead/masthead-alt.png)](https://www.canberratimes.com.au/)
 
 [](https://www.facebook.com/CanberraTimes/)[](https://twitter.com/canberratimes)[](https://www.instagram.com/canberratimes)
 
