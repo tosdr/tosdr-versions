@@ -161,7 +161,7 @@ Lichtenbergstr 53/1
 88677 Markdorf  
 Deutschland  
 Telefon: +49 (0)7544 9679080  
-E-Mail: [\[email protected\]](https://mc-host24.de/cdn-cgi/l/email-protection)  
+E-Mail: info@mc-host24.de  
   
   
 Alternative Streitbeilegung:Die Europäische Kommission stellt eine Plattform für die außergerichtliche Online-Streitbeilegung (OS-Plattform) bereit, aufrufbar unter [https://ec.europa.eu/odr](https://ec.europa.eu/odr).  
