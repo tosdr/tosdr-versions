@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I love your service and have helped numerous friends get set up with you.
+I am very happy with my services, and want to keep them, forever!
 
-Sarah Hoffman
+Bob Nussbaum
