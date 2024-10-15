@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/george-van-houts-krijgt-frontier-award/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/de-kunst-van-het-groenwassen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
