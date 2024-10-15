@@ -201,8 +201,8 @@ Atos homepage](https://atos.net/en/)
         --------------
         
         * [Atos Group and AWS launch Global GenAI Innovation Studio to accelerate AI-powered business transformation](https://atos.net/en/2024/press-release_2024_10_15/atos-group-and-aws-launch-global-genai-innovation-studio-to-accelerate-ai-powered-business-transformation)
+        * [Atos appoints Philippe Salle Chairman of the Board of Directors with effect from October 14, 2024 and Chairman and Chief Executive Officer from February 01, 2025](https://atos.net/en/2024/press-release_2024_10_15/atos-appoints-philippe-salle-chairman-of-the-board-of-directors-with-effect-from-october-14-2024-and-chairman-and-chief-executive-officer-from-february-01-2025)
         * [Eviden drives quantum adoption with installation of IQM Spark quantum computer](https://atos.net/en/2024/press-release_2024_10_09/eviden-drives-quantum-adoption-with-installation-of-iqm-spark-quantum-computer)
-        * [Eviden launches PQC HSMaaS, a EU sovereign, Post-Quantum Cryptography Hardware Security Module as a Service](https://atos.net/en/2024/press-release_2024_10_08/eviden-launches-pqc-hsmaas-a-eu-sovereign-post-quantum-cryptography-hardware-security-module-as-a-service)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
