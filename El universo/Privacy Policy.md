@@ -13,7 +13,7 @@ MENÚ
 * [Juegos](https://www.eluniverso.com/juegos/)
 * [Tienda](https://tienda.eluniverso.com/)
 
-14 de octubre de 2024
+15 de octubre de 2024
 
 [](https://www.eluniverso.com/ "Logo del universo")
 
