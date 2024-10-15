@@ -159,7 +159,7 @@ As we do not collect personal information from students, the risk of personal st
 Third party terms and policies
 ------------------------------
 
-1. **Youtube**: By using the Publish to Youtube feature to upload videos to your Youtube channel/s, you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). Powtoon does not store any Youtube data and you can revoke the access authorization granted to Powtoon when connecting your Youtube account in your account via the Google security settings page at [https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions).
+1. **Youtube**: By using the Publish to Youtube feature to upload videos to your Youtube channel/s, you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms) and the [Google privacy policy](https://www.google.com/policies/privacy) applies. Powtoon does not store any Youtube data and you can revoke the access authorization granted to Powtoon when connecting your Youtube account in your account via the Google security settings page at [https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions).
 
 Changes to This Privacy Policy
 ------------------------------
