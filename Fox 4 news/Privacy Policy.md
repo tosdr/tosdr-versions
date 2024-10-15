@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Ted Cruz leads Colin Allred by 4 points in US Senate race, poll shows](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/cruz-allred-texas-senate.jpg?ve=1&tl=1)
+ [![2024 Election: The races that could decide school choice in Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/GettyImages-541761466.jpg?ve=1&tl=1)
 
- ![Ted Cruz leads Colin Allred by 4 points in US Senate race, poll shows](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/cruz-allred-texas-senate.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ted-cruz-colin-allred-poll-october-texas-senate)
+ ![2024 Election: The races that could decide school choice in Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/GettyImages-541761466.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/education-savings-accounts-texas-2024-election)
 
-### [Ted Cruz leads Colin Allred by 4 points in US Senate race, poll shows](https://www.fox4news.com/news/ted-cruz-colin-allred-poll-october-texas-senate)
+### [2024 Election: The races that could decide school choice in Texas](https://www.fox4news.com/news/education-savings-accounts-texas-2024-election)
 
- [![Tax extension deadline on Oct. 15: What to know about filing late returns](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2147889020.jpg?ve=1&tl=1)
+ [![Taste food from the best chefs in Dallas: Tuna tartare](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/food.jpg?ve=1&tl=1)
 
- ![Tax extension deadline on Oct. 15: What to know about filing late returns](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2147889020.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tax-extension-filing-deadline-oct-15-2024-what-know)
+ ![Taste food from the best chefs in Dallas: Tuna tartare](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/food.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/taste-food-from-best-chefs-dallas-tuna-tartare)
 
-### [Tax extension deadline on Oct. 15: What to know about filing late returns](https://www.fox4news.com/news/tax-extension-filing-deadline-oct-15-2024-what-know)
+### [Taste food from the best chefs in Dallas: Tuna tartare](https://www.fox4news.com/news/taste-food-from-best-chefs-dallas-tuna-tartare)
 
- [![Walgreens to close 1,200 stores across country](https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2023/10/32/18/GettyImages-1249595331.jpg?ve=1&tl=1)
+ [![Jerry Jones says he will not fire Mike McCarthy mid-season in contentious radio interview](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2173988776.jpg?ve=1&tl=1)
 
- ![Walgreens to close 1,200 stores across country](https://images.foxtv.com/images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2023/10/32/18/592/333/GettyImages-1249595331.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/walgreens-close-1200-stores-across-country)
+ ![Jerry Jones says he will not fire Mike McCarthy mid-season in contentious radio interview](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2173988776.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jerry-jones-says-he-will-not-fire-mike-mccarthy-mid-season-contentious-radio-interview)
 
-### [Walgreens to close 1,200 stores across country](https://www.fox4news.com/news/walgreens-close-1200-stores-across-country)
+### [Jerry Jones says he will not fire Mike McCarthy mid-season in contentious radio interview](https://www.fox4news.com/sports/jerry-jones-says-he-will-not-fire-mike-mccarthy-mid-season-contentious-radio-interview)
 
- [![DFW cold front brings first 40s in six months amid prolonged dry spell](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/176-days.jpg?ve=1&tl=1)
+ [![Russian man rescued nearly 10 weeks adrift, 2 relatives found dead on boat](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/rescue.jpg?ve=1&tl=1)
 
- ![DFW cold front brings first 40s in six months amid prolonged dry spell](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/176-days.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dfw-cold-front-brings-first-cool-temps-six-months-dry-spell)
+ ![Russian man rescued nearly 10 weeks adrift, 2 relatives found dead on boat](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/rescue.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/russian-man-rescued-sea)
 
-### [DFW cold front brings first 40s in six months amid prolonged dry spell](https://www.fox4news.com/news/dfw-cold-front-brings-first-cool-temps-six-months-dry-spell)
+### [Russian man rescued nearly 10 weeks adrift, 2 relatives found dead on boat](https://www.fox4news.com/news/russian-man-rescued-sea)
 
- [![Some Social Security recipients will get two payments in November. Here's why](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-52182315-3.jpg?ve=1&tl=1)
+ [![Election 2024: Races to watch in North Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1)
 
- ![Some Social Security recipients will get two payments in November. Here's why](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-52182315-3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/social-security-ssi-november-december-paymenet-schedule-2024)
+ ![Election 2024: Races to watch in North Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/election-2024-races-watch-north-texas)
 
-### [Some Social Security recipients will get two payments in November. Here's why](https://www.fox4news.com/news/social-security-ssi-november-december-paymenet-schedule-2024)
+### [Election 2024: Races to watch in North Texas](https://www.fox4news.com/news/election-2024-races-watch-north-texas)
 
 ###### [News](https://www.fox4news.com/news)
 
