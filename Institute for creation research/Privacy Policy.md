@@ -96,6 +96,64 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Days of Praise
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/vine)
+
+[The Vine](https://www.icr.org/article/vine/)
+
+“What could have been done more to my vineyard, that I have not done in it? wherefore, when I looked that it should bring forth grapes, brought...
+
+BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/sanctified-through-word)
+
+[Sanctified Through the Word](https://www.icr.org/article/sanctified-through-word/)
+
+“Sanctify them through thy truth: thy word is truth.” (John 17:17) This powerful Scripture is actually part of Christ’s...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/propitiation)
+
+[Propitiation](https://www.icr.org/article/propitiation/)
+
+“And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.” (1 John 2:2) Most...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474057/file.jpg)
+
+Days to Remember](https://store.icr.org/dr-henry-morris-days-to-remember.html)
+
+$9.99
+
+$12.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
+
+The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475194/file.jpg)
+
+The Genesis Record](https://store.icr.org/dr-henry-morris-the-genesis-record.html)
+
+$47.99
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
+
+Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
+
+$12.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
