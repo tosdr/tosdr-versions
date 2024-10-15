@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Game Freak Pokémon GigaLeaks](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks "Game Freak Pokémon GigaLeaks") [Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks") [Tesla Optimus Robot](https://knowyourmeme.com/memes/subcultures/tesla-optimus-robot "Tesla Optimus Robot") [Skyla (Pokemon)](https://knowyourmeme.com/memes/skyla-pokemon "Skyla (Pokemon)") [Sprunki](https://knowyourmeme.com/memes/subcultures/sprunki "Sprunki")
+[Game Freak Pokémon GigaLeaks](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks "Game Freak Pokémon GigaLeaks") [Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks") [I Can't See the Movie I Want](https://knowyourmeme.com/memes/i-cant-see-the-movie-i-want-because-netflix-removed-it "I Can't See the Movie I Want") [Tesla Optimus Robot](https://knowyourmeme.com/memes/subcultures/tesla-optimus-robot "Tesla Optimus Robot") [Skyla (Pokemon)](https://knowyourmeme.com/memes/skyla-pokemon "Skyla (Pokemon)") [Sprunki](https://knowyourmeme.com/memes/subcultures/sprunki "Sprunki")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hauu! You must login or signup first!
+### Hey! You must login or signup first!
 
 |     |     |
 | --- | --- |
