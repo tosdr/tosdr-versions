@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Kubrick Remembered](/wp-content/thumbnails/12699-100x70.png?x53432)
+* [![Inside The Space Shuttle](/wp-content/thumbnails/6458-100x70.png?x53432)
     
-    Kubrick Remembered
+    Inside The Space Shuttle
     
-    Kubrick Remembered is one of the bonus films which was included in Stanley Kubrick: The Masterpiece Collection, a boxset which contained many of Kubrick's classics. In this documentary we ar](https://documentaryheaven.com/kubrick-remembered/ "Kubrick Remembered")
-* [![The Edge of Being](/wp-content/thumbnails/4028-100x70.jpg?x53432)
+    This documentary takes the viewer inside NASA’s space shuttle for a close-up look at the most advanced flying machine ever built. Actor Gary Sinise narrates the history of the space shuttle’s developm](https://documentaryheaven.com/inside-the-space-shuttle/ "Inside The Space Shuttle")
+* [![The Science of Acupuncture](/wp-content/thumbnails/8746-100x70.jpg?x53432)
     
-    The Edge of Being
+    The Science of Acupuncture
     
-    This short documentary is about the Russian spaceprogram, seen from the perspective of small town Russian farmers and citizen.Point of shooting: Russia, Pleseck. Northern base of Russian aerospac](https://documentaryheaven.com/the-edge-of-being/ "The Edge of Being")
-* [![A Brief History of Time](/wp-content/thumbnails/357-100x70.png?x53432)
+    BBC Documentary on Traditional Chinese Medicine. For thousands of years, what we now think of as Complementary and Alternative Medicine (CAM) was the only medicine; now, traditional cures are being tr](https://documentaryheaven.com/science-of-acupuncture/ "The Science of Acupuncture")
+* [![Fires of Kuwait](/wp-content/thumbnails/4104-100x70.jpg?x53432)
     
-    A Brief History of Time
+    Fires of Kuwait
     
-    The movie about Stephen Hawking’s ideas from his book titled the same and abut his life. A Brief History of Time attempts to explain a range of subjects in cosmology, including the Big Bang, black hol](https://documentaryheaven.com/a-brief-history-of-time/ "A Brief History of Time")
-* [![The Trouble With Evan](/wp-content/thumbnails/8807-100x70.jpg?x53432)
+    The Kuwaiti oil fires were a result of the scorched earth policy of Iraqi military forces retreating from Kuwait in 1991 after conquering the country; but being driven out by Coalition military forces](https://documentaryheaven.com/fires-of-kuwait/ "Fires of Kuwait")
+* [![Age of Extremes](/wp-content/thumbnails/4875-100x70.jpg?x53432)
     
-    The Trouble With Evan
+    Age of Extremes
     
-    This Fifth Estate documentary was filmed in 1994 and is about a troubled 11 year old called Evan and his family. His parents agreed to have video cameras installed in their home for a 3 month period w](https://documentaryheaven.com/trouble-with-evan/ "The Trouble With Evan")
-* [![China’s dirty secrets](/wp-content/thumbnails/7105-100x70.jpg?x53432)
+    Age of Extremes follows an array of British Muslims from different socio-cultural backgrounds and viewpoints, discussing the War on Terror, its implications for British Muslims and impact on community](https://documentaryheaven.com/age-of-extremes/ "Age of Extremes")
+* [![UFOs Secret: Russian Roswell](/wp-content/thumbnails/1153-100x70.jpg?x53432)
     
-    China’s dirty secrets
+    UFOs Secret: Russian Roswell
     
-    China's factories provide low cost products such as computers and cars to the rest of the world. But critics claim such economic progress takes a heavy toll, polluting the country's air, land and rive](https://documentaryheaven.com/chinas-dirty-secrets/ "China’s dirty secrets")
+    A UFO crash site allegedly filmed by the Russian KGB in March of 1969 in the Sverdlovsk region of Russia. The footage was later obtained by documentary filmmakers who then published the movie, "The Se](https://documentaryheaven.com/ufos-secret-russian-roswell/ "UFOs Secret: Russian Roswell")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
