@@ -126,17 +126,11 @@
     * [Contact Us](https://www.onetrust.com/content/onetrust/us/en/forms/contact-us)
         
     
-* Featured Event
-    
-    [![Trustweek logo on a blue-green gradient background](/content/dam/onetrust/brand/content/graphic/thumbnail/nav/OT-nav-trustweek-graphic.svg)
-    
-    Join us live in Madrid October 15-16 for TrustWeek EMEA](https://www.onetrust.com/content/onetrust/us/en/trustweek/2024-emea)
 * Newsroom
     
-    ![Photo of view looking down at people walking in business building courtyard](/content/dam/onetrust/brand/content/graphic/thumbnail/nav/OT-nav-news-people-walking-outside-building-photo.png)
+    [![Photo of view looking down at people walking in business building courtyard](/content/dam/onetrust/brand/content/graphic/thumbnail/nav/OT-nav-news-people-walking-outside-building-photo.png)
     
-    Get the latest news, announcements, views, and more
-    
+    Get the latest news, announcements, views, and more](https://www.onetrust.com/content/onetrust/us/en/news)
 
 [Request demo](https://www.onetrust.com/forms/demo/)
 
@@ -182,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Explore the future of regulatory intelligence: A DataGuidance demo](https://www.onetrust.com/resources/explore-the-future-of-regulatory-intelligence-a-dataguidance-demo-webinar/)
 * [Unlock the power of first-party data and transform compliance into competitive advantage](https://www.onetrust.com/resources/unlock-the-power-of-first-party-data-and-transform-compliance-into-competitive-advantage-ebook/)
 * [Getting started with GDPR compliance](https://www.onetrust.com/resources/getting-started-with-gdpr-compliance-ebook/)
-* [GDPR compliance checklist](https://www.onetrust.com/resources/gdpr-compliance-checklist/)
 
 ### Platform
 
