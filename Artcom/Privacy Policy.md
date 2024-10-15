@@ -1,6 +1,6 @@
-[Friends & Family Sale - Get 15% off orders $99+](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+[Quick Shipping](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
 
-[Friends & Family Sale - Get 15% off orders $99+](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+[Quick Shipping](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)|[Museum Grade Quality](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)|[Handcrafted in the U.S.A.](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
 
 [](https://www.art.com/ "Art.com")
 
