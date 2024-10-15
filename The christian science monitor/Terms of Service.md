@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Integrity
+
+### Beyond politics of identity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1015/Beyond-politics-of-identity "Beyond politics of identity")
+
 [Community
 
 ### In Norway, having a joyful, secure childhood is a right enshrined into law](https://www.csmonitor.com/World/Europe/2024/1015/norway-child-care-subsidy-universal-preschool "In Norway, having a joyful, secure childhood is a right enshrined into law")
 
 [Innovation
 
-### Europa Clipper launch: A NASA scientist on probing if life can exist on Jupiter moon](https://www.csmonitor.com/Science/2024/1014/europa-clipper-launch-nasa-life-jupiter-moon "Europa Clipper launch: A NASA scientist on probing if life can exist on Jupiter moon")
-
-[Innovation
-
-### Big launch for SpaceX, but promise aloft comes with tension in Texas](https://www.csmonitor.com/Science/2024/1013/spacex-starbase-starship-launch-texas "Big launch for SpaceX, but promise aloft comes with tension in Texas")
+### NASA launches its biggest space probe to find if life can exist on Jupiter moon](https://www.csmonitor.com/Science/2024/1014/europa-clipper-launch-nasa-life-jupiter-moon "NASA launches its biggest space probe to find if life can exist on Jupiter moon")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### In Norway, having a joyful, secure childhood is a right enshrined into law](https://www.csmonitor.com/World/Europe/2024/1015/norway-child-care-subsidy-universal-preschool "In Norway, having a joyful, secure childhood is a right enshrined into law")
+[### Real estate once drove China’s economic growth. Now it’s holding it back.](https://www.csmonitor.com/World/Asia-Pacific/2024/1015/china-real-estate-housing-property-market "Real estate once drove China’s economic growth. Now it’s holding it back.")
 
-[### Israel steps up attacks in Gaza as UN peacekeepers come under fire in Lebanon](https://www.csmonitor.com/World/Middle-East/2024/1012/israel-airstrike-gaza-lebanon-un-peacekeepers-hunger-warnings "Israel steps up attacks in Gaza as UN peacekeepers come under fire in Lebanon")
+[### Precious water and gold: New extraction methods for arid air and e-waste](https://www.csmonitor.com/World/Points-of-Progress/2024/1015/water-gold-resource-recovery-school "Precious water and gold: New extraction methods for arid air and e-waste")
 
-[### Where Hezbollah stands, and what’s at stake, after battering by Israel](https://www.csmonitor.com/World/Middle-East/2024/1011/israel-hezbollah-resilience-lebanon-war "Where Hezbollah stands, and what’s at stake, after battering by Israel")
+[### Lilly Ledbetter fought for equal pay at the highest levels and launched a worker movement](https://www.csmonitor.com/USA/2024/1015/Lilly-Ledbetter-equal-pay-act-supreme-court "Lilly Ledbetter fought for equal pay at the highest levels and launched a worker movement")
 
 * * *
 
