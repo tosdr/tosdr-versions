@@ -856,6 +856,7 @@ Newsletters from the future
 
   
 
+* [Gift Cards](https://www.atari.com/products/digital-gift-card)
 * [Hardware](https://www.atari.com/collections/hardware)
 * [Gear](https://www.atari.com/collections/gear)
 * [Games](https://www.atari.com/collections/games)
