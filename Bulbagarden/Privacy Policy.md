@@ -96,9 +96,8 @@ Menu
 
    
 
-Bulbapedia will be locked from editing on Tuesday October 15th from 02:00 UTC while we perform some server maintenance. We'll provide updates via our [Twitter](https://x.com/Bulbapedia) if necessary.  
-Please remember to follow the [unreleased materials policy](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Unreleased_materials_policy "Bulbapedia:Unreleased materials policy"), [manual of style](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Manual_of_style "Bulbapedia:Manual of style") and [code of conduct](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Code_of_conduct "Bulbapedia:Code of conduct") at all times.  
-Check the [Bulbagarden home page](https://bulbagarden.net/) for up-to-date Pokémon news and discuss it on the [forums](https://forums.bulbagarden.net/index.php) or in the [Bulbagarden Discord server](https://discord.gg/bulbagarden).
+**Bulbapedia is currently locked for editing while we perform some server maintenance.**  
+We'll provide updates via our [Twitter](https://x.com/Bulbapedia) if necessary.
 
 Bulbapedia:Privacy policy
 =========================
