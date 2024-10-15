@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Elliott Investment group calls for special meeting at Southwest Airlines](https://images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/08c13b032c1bee2ae7b8990cd98e0bc612c5fc53a07ad1218d7288259a0408d9/iupl/A7F/63F/32/18/A7F63F615A8D8160C2EADB8717CFEFD9.jpg?ve=1&tl=1)
+
+ ![Elliott Investment group calls for special meeting at Southwest Airlines](https://images.foxtv.com/images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/08c13b032c1bee2ae7b8990cd98e0bc612c5fc53a07ad1218d7288259a0408d9/iupl/A7F/63F/32/18/592/333/A7F63F615A8D8160C2EADB8717CFEFD9.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/elliott-investment-group-calls-special-meeting-southwest-airlines)
+
+### [Elliott Investment group calls for special meeting at Southwest Airlines](https://www.fox4news.com/news/elliott-investment-group-calls-special-meeting-southwest-airlines)
+
+ [![Irving pediatric assistant who inappropriately touched boys showed 'pattern of behavior,' police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-david-irving-pediatric-indecency-with-child-9p_00.01.07.10.jpg?ve=1&tl=1)
+
+ ![Irving pediatric assistant who inappropriately touched boys showed 'pattern of behavior,' police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-david-irving-pediatric-indecency-with-child-9p_00.01.07.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/angel-nunez-second-arrest-affidavit-little-spurs-pediatricians-assistant)
+
+### [Irving pediatric assistant who inappropriately touched boys showed 'pattern of behavior,' police say](https://www.fox4news.com/news/angel-nunez-second-arrest-affidavit-little-spurs-pediatricians-assistant)
+
+ [![North Richland Hills man killed in front of his home by drunk driver, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/nrh-hit-and-run.png?ve=1&tl=1)
+
+ ![North Richland Hills man killed in front of his home by drunk driver, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/nrh-hit-and-run.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-richland-hills-jose-angel-valles-killed-hit-and-run)
+
+### [North Richland Hills man killed in front of his home by drunk driver, police say](https://www.fox4news.com/news/north-richland-hills-jose-angel-valles-killed-hit-and-run)
+
+ [![Can video games improve your sleep? Here's what the research shows](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-870580368.jpg?ve=1&tl=1)
+
+ ![Can video games improve your sleep? Here's what the research shows](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-870580368.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/video-games-sleep-study-review)
+
+### [Can video games improve your sleep? Here's what the research shows](https://www.fox4news.com/news/video-games-sleep-study-review)
+
  [![Diddy lawsuits: More people, including minor, come forward accusing hip-hop mogul of sexual assault](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/diddy.jpg?ve=1&tl=1)
 
  ![Diddy lawsuits: More people, including minor, come forward accusing hip-hop mogul of sexual assault](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/diddy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/diddy-lawsuits-more-come-forward-accusing-hip-hop-mogul-sexual-assault-2024-october)
 
 ### [Diddy lawsuits: More people, including minor, come forward accusing hip-hop mogul of sexual assault](https://www.fox4news.com/news/diddy-lawsuits-more-come-forward-accusing-hip-hop-mogul-sexual-assault-2024-october)
-
- [![Dallas County launches its own dedicated opioid overdose prevention hotline](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/dallas-county-opioid-crisis.png?ve=1&tl=1)
-
- ![Dallas County launches its own dedicated opioid overdose prevention hotline](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/dallas-county-opioid-crisis.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-overdose-prevention-hotline-number-and-hours)
-
-### [Dallas County launches its own dedicated opioid overdose prevention hotline](https://www.fox4news.com/news/dallas-county-overdose-prevention-hotline-number-and-hours)
-
- [![North Texas teens make trip to Florida to help with hurricane aftermath](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101424-burleson-granbury-volunteers-milton-cleanup_00.01.21.38.jpg?ve=1&tl=1)
-
- ![North Texas teens make trip to Florida to help with hurricane aftermath](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101424-burleson-granbury-volunteers-milton-cleanup_00.01.21.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-teens-make-trip-florida-help-hurricane-aftermath)
-
-### [North Texas teens make trip to Florida to help with hurricane aftermath](https://www.fox4news.com/news/north-texas-teens-make-trip-florida-help-hurricane-aftermath)
-
- [![AMBER Alert canceled for 3 missing children from Austin; suspect at large](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/child.jpg?ve=1&tl=1)
-
- ![AMBER Alert canceled for 3 missing children from Austin; suspect at large](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/592/333/child.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-issued-3-missing-children-from-austin)
-
-### [AMBER Alert canceled for 3 missing children from Austin; suspect at large](https://www.fox4news.com/news/amber-alert-issued-3-missing-children-from-austin)
-
- [![Japan offers free domestic flights to tourists, but there's a catch](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2169529866.jpg?ve=1&tl=1)
-
- ![Japan offers free domestic flights to tourists, but there's a catch](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2169529866.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/japan-free-flights-tourism-catch)
-
-### [Japan offers free domestic flights to tourists, but there's a catch](https://www.fox4news.com/news/japan-free-flights-tourism-catch)
 
 ###### [News](https://www.fox4news.com/news)
 
