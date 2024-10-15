@@ -1,7 +1,5 @@
 [Skip to content](#content)
 
-**NEW BUILDER PROMO**: Sign up for only $19/mo. for your first 3 months. [View pricing >>](https://www.knack.com/pricing/)
-
 [![Logo | Knack Purple](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![Logo | Knack Purple](https://www.knack.com/wp-content/uploads/2023/06/knack-header-logo.svg)](https://www.knack.com/)
