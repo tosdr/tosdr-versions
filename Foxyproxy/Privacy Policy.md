@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-"First off you guys are awesome..."
+The service was easy to setup. Netflix worked great. Overall, I think it was a great service.
 
-Shawn Garman
+Andreas Gehring
