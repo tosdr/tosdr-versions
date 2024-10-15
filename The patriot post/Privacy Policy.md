@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111060-mid-day-digest-2024-10-14?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111095-mid-day-digest-2024-10-15?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -104,7 +104,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111060-mid-day-digest-2024-10-14?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111095-mid-day-digest-2024-10-15?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -116,20 +116,23 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34366)
+     [](https://patriotpost.us/cartoons/34372)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Cal Thomas Obama to the rescue](https://patriotpost.us/opinion/111061-obama-to-the-rescue-2024-10-15)
-*      [Gary Bauer Left-Wing Hate](https://patriotpost.us/opinion/111050-left-wing-hate-2024-10-14)
-*      [Ken Blackwell Calling Out Executions in Iran Could Solve Many Problems in the Region](https://patriotpost.us/opinion/111049-calling-out-executions-in-iran-could-solve-many-problems-in-the-region-2024-10-14)
-*      [The Babylon Bee 9 Things Trump Could Do To Guarantee Victory In November](https://patriotpost.us/opinion/111051-9-things-trump-could-do-to-guarantee-victory-in-november-2024-10-14)
-*      [Tony Perkins How Should Christians Approach the 2024 Election?](https://patriotpost.us/opinion/111028-how-should-christians-approach-the-2024-election-2024-10-12)
-*      [Matthew Continetti How Harris Bombed Her Media Blitz](https://patriotpost.us/opinion/111017-how-harris-bombed-her-media-blitz-2024-10-12)
-*      [The Washington Stand Afghan National in U.S. Plotted ISIS Terror Attack on Election Day](https://patriotpost.us/opinion/111030-afghan-national-in-us-plotted-isis-terror-attack-on-election-day-2024-10-12)
-*      [Imprimis The Dangers of Price Controls](https://patriotpost.us/opinion/111018-the-dangers-of-price-controls-2024-10-12)
+*      [Christine Flowers Sex, Lies, and Other Distractions](https://patriotpost.us/opinion/111091-sex-lies-and-other-distractions-2024-10-15)
+*      [Dennis Prager Israel Made the West. Israel Is Saving the West.](https://patriotpost.us/opinion/111090-israel-made-the-west-israel-is-saving-the-west-2024-10-15)
+*      [Salena Zito Elon Musk Says ‘Destiny of America’ Is on the Line](https://patriotpost.us/opinion/111089-elon-musk-says-destiny-of-america-is-on-the-line-2024-10-15)
+*      [Daniel McCarthy Why Veterans Are Voting for Trump](https://patriotpost.us/opinion/111088-why-veterans-are-voting-for-trump-2024-10-15)
+*      [Jeff Jacoby One Columnist’s Ballot Guide: Yes on 1. No on 2, 3, 4, and 5.](https://patriotpost.us/opinion/111068-one-columnists-ballot-guide-yes-on-1-no-on-2-3-4-and-5-2024-10-15)
+*      [Victor Joecks Passive-Aggressive Biden Wants Harris to Lose](https://patriotpost.us/opinion/111087-passive-aggressive-biden-wants-harris-to-lose-2024-10-15)
+*      [Gary Bauer China Hacks Again](https://patriotpost.us/opinion/111085-china-hacks-again-2024-10-15)
+*      [Cal Thomas Obama to the Rescue](https://patriotpost.us/opinion/111061-obama-to-the-rescue-2024-10-15)
+*      [Mark Alexander Did You Hear About This Endorsement?](https://patriotpost.us/alexander/111092-did-you-hear-about-this-endorsement-2024-10-15)
+*      [Stephen Moore Kamala Harris Wants America to Have the World’s Highest Death Tax](https://patriotpost.us/opinion/111086-kamala-harris-wants-america-to-have-the-worlds-highest-death-tax-2024-10-15)
+*      [The Babylon Bee Kamala Harris Announces All-New Original Book: ‘The Art Of The Deal’](https://patriotpost.us/opinion/111093-kamala-harris-announces-all-new-original-book-the-art-of-the-deal-2024-10-15)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -143,11 +146,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
-“The boisterous sea of liberty is never without a wave.” —Thomas Jefferson (1820)
+“Labor to keep alive in your breast that little spark of celestial fire called conscience.” —George Washington (1748)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
