@@ -1,7 +1,8 @@
-Monday, October 14 2024
+Tuesday, October 15 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Tuesday, October 15, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-15-2024/)
 * [Medal of Honor Monday: Army Staff Sgt. Clint Romesha](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-clint-romesha/)
 * [President Joe Biden’s Schedule for Monday, October 14, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-14-2024/)
 * [President Joe Biden’s Schedule for Sunday, October 13, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024-2/)
@@ -9,7 +10,6 @@ Breaking News
 * [Black Voters Make Surprising Shift Away From Democrats, Poll Shows](https://www.conservativedailynews.com/2024/10/black-voters-make-surprising-shift-away-from-democrats-poll-shows/)
 * [Biden Delivers Remarks in Response to Hurricane Milton](https://www.conservativedailynews.com/2024/10/biden-delivers-remarks-in-response-to-hurricane-milton/)
 * [President Joe Biden’s Schedule for Sunday, October 13, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-sunday-october-13-2024/)
-* [The Realignment Of Catholic Voters To The GOP](https://www.conservativedailynews.com/2024/10/the-realignment-of-catholic-voters-to-the-gop/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,12 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Joe-Biden-sleeping-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-15-2024/)
+    
+    [President Joe Biden’s Schedule for Tuesday, October 15, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-15-2024/)
+    
+    October 15, 2024
+    
 * [![Tim Walz Kamala Harris 2024 election sheeple](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/for-the-sheeple/)
     
     [For the Sheeple](https://www.conservativedailynews.com/2024/10/for-the-sheeple/)
@@ -166,15 +172,12 @@ Recent Posts
     
     October 13, 2024
     
-* [![Bidenomics jobs black voters](https://www.conservativedailynews.com/wp-content/uploads/2024/02/01-newjobs-ac-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/black-voters-make-surprising-shift-away-from-democrats-poll-shows/)
-    
-    [Black Voters Make Surprising Shift Away From Democrats, Poll Shows](https://www.conservativedailynews.com/2024/10/black-voters-make-surprising-shift-away-from-democrats-poll-shows/)
-    
-    October 13, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: Springfield Armory Model 2020 Boundary 7mm PRC](https://www.thegunpage.com/tfb-review-springfield-armory-model-2020-boundary-7mm-prc/10611207)
+* [POTD: The New M230LF Dual Feed Bushmaster](https://www.thegunpage.com/potd-the-new-m230lf-dual-feed-bushmaster/10611208)
+* [The Rimfire Report: Taurus TX 22 Long-Term Review](https://www.thegunpage.com/the-rimfire-report-taurus-tx-22-long-term-review/10611209)
 * [Florida Police Chief Still Hiding from Public After Hurricane Gun Ban Gaffe](https://www.thegunpage.com/florida-police-chief-still-hiding-from-public-after-hurricane-gun-ban-gaffe/10611203)
 * [Franklin Armory Releases the G-S193 Binary Kit for the Glock 19](https://www.thegunpage.com/franklin-armory-releases-the-g-s193-binary-kit-for-the-glock-19/10611201)
 * [Rossi Pays Tribute To A Legendary Lawman](https://www.thegunpage.com/rossi-pays-tribute-to-a-legendary-lawman/10611205)
@@ -182,9 +185,6 @@ Recent Posts
 * [Klutzy Walz Struggles Loading His Shotgun On Pheasant Hunt](https://www.thegunpage.com/klutzy-walz-struggles-loading-his-shotgun-on-pheasant-hunt/10611198)
 * [Aguila Copa Mundial Wraps Up In Saltillo, Mexico](https://www.thegunpage.com/aguila-copa-mundial-wraps-up-in-saltillo-mexico/10611195)
 * [Things Stupid People Do: Argument Over Chores Leads to Gun Play](https://www.thegunpage.com/things-stupid-people-do-argument-over-chores-leads-to-gun-play/10611193)
-* [TFB Weekly Web Deals 109: Deals for October 14th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-109-deals-for-october-14th-2024/10611196)
-* [Collegiate Rifle: First Road Trip Splits Doubleheader For Akron](https://www.thegunpage.com/collegiate-rifle-first-road-trip-splits-doubleheader-for-akron/10611197)
-* [New York Governor Signs New Anti-Gun Bills](https://www.thegunpage.com/new-york-governor-signs-new-anti-gun-bills/10611191)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
