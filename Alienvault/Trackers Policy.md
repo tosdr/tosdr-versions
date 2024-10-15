@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### Snapping Safely: The Fun and Risks of Snapchat for Teens
+            ##### From Reactive to Proactive: Shifting Your Cybersecurity Strategy
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/snapping-safely-the-fun-and-risks-of-snapchat-for-teens)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/from-reactive-to-proactive-shifting-your-cybersecurity-strategy)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -433,13 +433,13 @@ If you have any queries regarding this Cookie Policy please contact us at [dl-cy
 
 From the Blog
 
-![Adithya Bharath](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Devin Morrissey](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Adithya Bharath
+#### Devin Morrissey
 
-Oct 14, 2024
+Oct 15, 2024
 
-### [Snapping Safely: The Fun and Risks of Snapchat for Teens](https://cybersecurity.att.com/blogs/security-essentials/snapping-safely-the-fun-and-risks-of-snapchat-for-teens)
+### [From Reactive to Proactive: Shifting Your Cybersecurity Strategy](https://cybersecurity.att.com/blogs/security-essentials/from-reactive-to-proactive-shifting-your-cybersecurity-strategy)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
