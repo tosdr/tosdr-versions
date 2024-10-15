@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/oct-13-2024-college-station-tx-shooting-investigation/500-b1d9dcee-64ea-4b8f-9b55-a947ddffcbac)
+    *  [![](https://media.kagstv.com/assets/WFMY/images/c1501dc8-394b-4c30-9f36-2eca1d7aef90/c1501dc8-394b-4c30-9f36-2eca1d7aef90_16x9.jpg) ![](https://media.kagstv.com/assets/WFMY/images/c1501dc8-394b-4c30-9f36-2eca1d7aef90/c1501dc8-394b-4c30-9f36-2eca1d7aef90_360x203.jpg)](https://www.kagstv.com/article/traffic/us-79-and-sh-6-railroad-crossing-closure-in-hearne-oct-18-2024-to-oct-21-2024/500-e7a8d47b-597d-4f58-bfb0-f9a0e77b1d48)
         
-        #### [College Station Police arrest two after shooting investigation](https://www.kagstv.com/article/news/crime/oct-13-2024-college-station-tx-shooting-investigation/500-b1d9dcee-64ea-4b8f-9b55-a947ddffcbac)
+        #### [Railroad crossing in Hearne to close on Friday for planking repairs](https://www.kagstv.com/article/traffic/us-79-and-sh-6-railroad-crossing-closure-in-hearne-oct-18-2024-to-oct-21-2024/500-e7a8d47b-597d-4f58-bfb0-f9a0e77b1d48)
         
-    *  [![](https://media.kagstv.com/assets/WTOL/images/64d71689-b1bb-4afa-87a5-49101e9720cf/64d71689-b1bb-4afa-87a5-49101e9720cf_16x9.jpg) ![](https://media.kagstv.com/assets/WTOL/images/64d71689-b1bb-4afa-87a5-49101e9720cf/64d71689-b1bb-4afa-87a5-49101e9720cf_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-bryan-tx-on-oct-10-2024/500-cd6ec1e3-4049-4020-9a6f-dd1b0836e5de)
+    *  [![](https://media.kagstv.com/assets/WXIA/images/6ff2ec79-afdc-4882-887d-847e37e84430/6ff2ec79-afdc-4882-887d-847e37e84430_16x9.jpg) ![](https://media.kagstv.com/assets/WXIA/images/6ff2ec79-afdc-4882-887d-847e37e84430/6ff2ec79-afdc-4882-887d-847e37e84430_360x203.jpg)](https://www.kagstv.com/article/news/local/mother-daughter-awarded-121000-after-wrongfully-evicted-from-new-business/85-b376ac07-d13a-4315-a3b9-6ec9390cca49)
         
-        #### [Missing teen last seen in Bryan area found safe, authorities say](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-bryan-tx-on-oct-10-2024/500-cd6ec1e3-4049-4020-9a6f-dd1b0836e5de)
+        #### [Mother, daughter awarded $121,000 after they were wrongfully evicted from new business](https://www.kagstv.com/article/news/local/mother-daughter-awarded-121000-after-wrongfully-evicted-from-new-business/85-b376ac07-d13a-4315-a3b9-6ec9390cca49)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-94°
+76°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
