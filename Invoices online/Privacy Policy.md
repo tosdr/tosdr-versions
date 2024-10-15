@@ -118,61 +118,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Johan Botha - Brand Xplosion
+Kobus Venter
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=29338168)  
-Gemini-IT Group
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=161986280)  
+Karino Merinos ( PTY ) LTD
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=173381447)  
-High Point Marketing CC t/a Leads For Africa
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=66123106)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=104232611)  
-Imhoff Equestrian Centre
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=94681596)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=121302703)  
-RADIO TYGERBERG 104FM NPC
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=43678656)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=92728531)  
-African Roots
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=138373813)  
+Wiselink Broadband Vryheid
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=72526836)  
-BD Maintenance
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=117024856)  
+CBR Verwe/Paints
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=35448151)  
-APTV Telecoms CC
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=13379338)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=4665152)  
-Depot Diesel (Pty) Ltd
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=171121670)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=5332225)  
-ELLIE'S CLEANING CHICKS
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=203223880)  
+Skinz Printing & Branding
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=105696686)  
-Fox Alarms & Security CC
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=16982350)  
+Qothiphango Mining
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=23315532)  
-Sonic Electrical Services PTY Ltd
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=144984306)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=43378612)  
-CLEVER STUDENTS
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=3636354)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=59395244)  
-United Paintball Federation
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=127522325)  
+Sarabi
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=99192714)  
-Oak Tree Immigration
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=82016432)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=bad722730f968e80f6ea3a0ff4ca1414766c20fd9f8d56145d2693242de40cf0&c=168808537)  
-Lizzy Pop PTY(Ltd)
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=e8aba1fccf35a453adfe8eac6e6aee0e7309055fb05884ca8c0c9743becc9f15&c=118690698)  
+IEMS (PTY) ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
