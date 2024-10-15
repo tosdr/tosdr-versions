@@ -467,9 +467,9 @@ Revised June 1, 2022
 
   [![Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427543.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Visitors hold their mobile phones in front of exhibits showing the Chinese Navy's first aircraft carrier, the Liaoning, during an exhibition on China's achievements marking the 70th anniversary of the founding of the People's Republic of China at the Beijing Exhibition Center, in September 2019.")](https://www.japantimes.co.jp/news/2024/10/13/asia-pacific/china-aircraft-carrier-taiwan/ "Taiwan spots Chinese carrier as video says military 'prepared for battle'")
 
-[Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/commentary/2024/10/13/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
+[Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
-  [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/commentary/2024/10/13/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
+  [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
 
 [Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
 
@@ -483,25 +483,25 @@ Revised June 1, 2022
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-[Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson](https://www.japantimes.co.jp/news/2024/10/14/world/nobel-prize-economics-2024/ "Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson")
-
-  [![A view shows a screen in the Royal Swedish Academy of Sciences where the Nobel Prize in Economic Sciences is announced in Stockholm on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427659.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "A view shows a screen in the Royal Swedish Academy of Sciences where the Nobel Prize in Economic Sciences is announced in Stockholm on Monday.")](https://www.japantimes.co.jp/news/2024/10/14/world/nobel-prize-economics-2024/ "Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson")
-
-[A frustrated Trump lashes out behind closed doors over money](https://www.japantimes.co.jp/news/2024/10/14/world/politics/frustrated-trump-closed-doors-money/ "A frustrated Trump lashes out behind closed doors over money")
-
-  [![Former President Donald Trump makes calls to voters backstage after a town hall-style presidential campaign appearance at Macomb Community College in Warren, Michigan on Sept. 27.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427645.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Former President Donald Trump makes calls to voters backstage after a town hall-style presidential campaign appearance at Macomb Community College in Warren, Michigan on Sept. 27.")](https://www.japantimes.co.jp/news/2024/10/14/world/politics/frustrated-trump-closed-doors-money/ "A frustrated Trump lashes out behind closed doors over money")
-
-[Poorest nations in worst financial shape since 2006, World Bank says](https://www.japantimes.co.jp/business/2024/10/14/economy/world-bank-26-poorest-nations/ "Poorest nations in worst financial shape since 2006, World Bank says")
-
-  [![Afghan women after an earthquake in Herat, Afghanistan, on Oct. 10, 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427586.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Afghan women after an earthquake in Herat, Afghanistan, on Oct. 10, 2023")](https://www.japantimes.co.jp/business/2024/10/14/economy/world-bank-26-poorest-nations/ "Poorest nations in worst financial shape since 2006, World Bank says")
-
-[SpaceX captures booster rocket in step toward Musk’s Mars dream](https://www.japantimes.co.jp/business/2024/10/14/tech/spacex-booster-rocket-musk-mars/ "SpaceX captures booster rocket in step toward Musk’s Mars dream")
-
-  [![Starship's Super Heavy Booster is grappled at the launch pad in Starbase near Boca Chica, Texas, on Sunday, during the Starship Flight 5 test. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427568.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Starship's Super Heavy Booster is grappled at the launch pad in Starbase near Boca Chica, Texas, on Sunday, during the Starship Flight 5 test. ")](https://www.japantimes.co.jp/business/2024/10/14/tech/spacex-booster-rocket-musk-mars/ "SpaceX captures booster rocket in step toward Musk’s Mars dream")
-
 [Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize-nihon-hidankyo/ "Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo")
 
   [![Toshiko Hamanaka (left), the assistant secretary-general of Nihon Hidankyo, and the organization's co-chair, Terumi Tanaka, during a news conference in Tokyo on Saturday, the day after the group was awarded the Nobel Peace Prize. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/427419.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiko Hamanaka (left), the assistant secretary-general of Nihon Hidankyo, and the organization's co-chair, Terumi Tanaka, during a news conference in Tokyo on Saturday, the day after the group was awarded the Nobel Peace Prize. ")](https://www.japantimes.co.jp/news/2024/10/12/japan/nobel-peace-prize-nihon-hidankyo/ "Nihon Hidankyo members hope surprise Nobel win cements nuclear taboo")
+
+[Bank of Japan vows better messaging to avoid more market turmoil](https://www.japantimes.co.jp/business/2024/10/11/economy/himino-boj-messaging/ "Bank of Japan vows better messaging to avoid more market turmoil")
+
+  [![The Bank of Japan's surprise rate increase on July 31 led to Japanese stocks plummeting into bear-market territory, with the benchmark 225-issue Nikkei average falling 12.4% on Aug. 5 alone.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427193.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Bank of Japan's surprise rate increase on July 31 led to Japanese stocks plummeting into bear-market territory, with the benchmark 225-issue Nikkei average falling 12.4% on Aug. 5 alone.")](https://www.japantimes.co.jp/business/2024/10/11/economy/himino-boj-messaging/ "Bank of Japan vows better messaging to avoid more market turmoil")
+
+[Peter Barakan’s Live Magic! takes its final bow](https://www.japantimes.co.jp/culture/2024/10/11/music/peter-barakan-live-magic-finale/ "Peter Barakan’s Live Magic! takes its final bow")
+
+  [![Annual festival Peter Barakan’s Live Magic! was born a decade ago when Barakan (left) decided to create a platform to share his love of roots music, which he attributes to growing up in 1960s England.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/425944.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Annual festival Peter Barakan’s Live Magic! was born a decade ago when Barakan (left) decided to create a platform to share his love of roots music, which he attributes to growing up in 1960s England.")](https://www.japantimes.co.jp/culture/2024/10/11/music/peter-barakan-live-magic-finale/ "Peter Barakan’s Live Magic! takes its final bow")
+
+[Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
+
+  [![Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426811.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ")](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
+
+[Japan pushes fossil fuel tech in Asia carbon neutrality initiative](https://www.japantimes.co.jp/environment/2024/10/09/energy/azec-fossil-fuel-technology/ "Japan pushes fossil fuel tech in Asia carbon neutrality initiative")
+
+  [![Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426839.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.")](https://www.japantimes.co.jp/environment/2024/10/09/energy/azec-fossil-fuel-technology/ "Japan pushes fossil fuel tech in Asia carbon neutrality initiative")
 
 Podcast
 -------
@@ -564,15 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson](https://www.japantimes.co.jp/news/2024/10/14/world/nobel-prize-economics-2024/ "Nobel Prize in economics awarded to Acemoglu, Johnson and Robinson")
+[How Indonesia's outgoing president steered his son to the vice presidency](https://www.japantimes.co.jp/news/2024/10/15/asia-pacific/politics/indonesia-jokowi-son-gibran-vp/ "How Indonesia's outgoing president steered his son to the vice presidency")
 
-[Hakamata makes first public appearance since acquittal](https://www.japantimes.co.jp/news/2024/10/14/japan/crime-legal/hakamata-first-appearance-after-acquittal/ "Hakamata makes first public appearance since acquittal")
+4 mins ago
 
-[A frustrated Trump lashes out behind closed doors over money](https://www.japantimes.co.jp/news/2024/10/14/world/politics/frustrated-trump-closed-doors-money/ "A frustrated Trump lashes out behind closed doors over money")
+[Bakers brace for costly Christmas as butter prices surge](https://www.japantimes.co.jp/business/2024/10/15/markets/bakers-christmas-butter-prices/ "Bakers brace for costly Christmas as butter prices surge")
 
-[South Korea military says 'fully ready' as drone tensions soar](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/politics/south-korea-military-drone/ "South Korea military says 'fully ready' as drone tensions soar")
+1 hours ago
 
-[A decade of Jokowi: Popular Indonesian leader leaves rocky legacy](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/politics/jokowi-indonesia-legacy-critics/ "A decade of Jokowi: Popular Indonesian leader leaves rocky legacy")
+[Lebanon rescuers defy danger, lack of resources to keep working](https://www.japantimes.co.jp/news/2024/10/15/world/lebanon-rescuers-danger-resources/ "Lebanon rescuers defy danger, lack of resources to keep working")
+
+1 hours ago
+
+[Pakistan 'vigilantes' behind rise in online blasphemy cases](https://www.japantimes.co.jp/news/2024/10/15/world/society/pakistan-vigilantes-online-blasphemy/ "Pakistan 'vigilantes' behind rise in online blasphemy cases")
+
+1 hours ago
+
+[China-Europe rivalry heats up at Paris car show as EV tariffs loom](https://www.japantimes.co.jp/business/2024/10/15/china-europe-paris-car-show-ev/ "China-Europe rivalry heats up at Paris car show as EV tariffs loom")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
