@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Henry Venter
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=125812372)  
-Eruca (PTY)Ltd
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=4055833)  
+Desygn
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=184884756)  
-National Elite Security Services (PTY) LTD
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=93587225)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=106424277)  
-Multi CNC Solutions CC
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=96985486)  
+NEW BEGINNINGS DESIGNS
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=24123192)  
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=117047876)  
+Xpress Designs
+
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=90100224)  
+Lion Software Develepment
+
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=35767786)  
 Chiron Medical Solutions
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=2907513)  
-TRACKFORCE (Pty) Ltd
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=115954418)  
+Meyer Towing & Recovery
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=67773581)  
-Wiselink Broadband Dundee
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=145129487)  
+NWET Pty LTD
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=137739681)  
-#DiGi3 Marketing & Design
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=57341610)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=5098928)  
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=132732663)  
+Blue Bulls Rugby Coaches Association
+
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=9876698)  
+Dr V Naik Consult
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=18007599)  
+Nogana Events and Decor
+
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=46458290)  
+Repairs In Motion
+
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=75046713)  
 GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=96654387)  
-Baby Toddles Infant Care
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=113487376)  
-VIR Electrical (PTY) LTD
-
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=117896174)  
-AquariumSmiths
-
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=100943883)  
-Waterfinatics Swim School
-
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=89534330)  
-High Point Marketing CC t/a Leads For Africa
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=123039471)  
-Sarabi
-
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=66a76008511e3c0001df1acdf0f2ae72e9d7da7ccb8081ac92f2097c7bbf4a22&c=115345923)  
-Safe-Train Consulting (PTY) Ltd
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=972fd61aafdeb5639747699cf5c23bdb42302a4c70dc37e7e64cef1e94b0f8f6&c=70047588)  
+VA AND M DEBT-AID (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
