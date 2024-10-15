@@ -17,6 +17,7 @@ MyData
     * [Sign the Declaration](https://mydata.org/participate/declaration/)
     * [Subscribe to Newsletter](https://mydata.org/subscribe/)
     * [Awards](https://mydata.org/participate/awards/)
+    * [Community Panel](https://mydata.org/community-panel/)
     * [Projects](https://mydata.org/projects/)
     * [Local Hubs](https://mydata.org/participate/hubs/)
     * [Thematic groups](https://mydata.org/participate/groups/)
