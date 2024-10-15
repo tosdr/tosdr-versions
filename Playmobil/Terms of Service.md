@@ -197,7 +197,7 @@ In the case of fraud, attempted deception, or suspected other illegal activities
 
       
 
-Subscribe to our PLAYMOBIL newsletter and receive a 15% off Welcome Coupon.
+Join our newsletter and get an exclusive 15% off your first order!
 
  Sign up
 
