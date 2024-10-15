@@ -20,7 +20,7 @@
 
 ##### [Advertising](https://dict.leo.org/pages/advertise/endeadvertising_en.html "Werbung auf leo.org") - [LEO without ads? LEO Pur](https://dict.leo.org/myleo/subscription?lp=ende&lang=en)
 
-[![Werbebanner](/img/adv/banner_728x90_2024-10-14T08:35:05-ende.gif "Werbebanner")](http://redir.leo.org/adv_dict_ende.kw42_0)
+[![Werbebanner](/img/adv/banner_728x90_2024-10-15T08:35:06-ende.gif "Werbebanner")](http://redir.leo.org/adv_dict_ende.kw42_1)
 
 ![LEO](/img/svg/leo-detailed.svg "LEO")
 
