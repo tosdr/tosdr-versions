@@ -26,6 +26,16 @@ FOX SCORES
     | NZL | 6 /110 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250119)
+* [Women's T20 WC
+    
+    16/10 1:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ENG | –   |
+    | WI  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250120)
 * [Men's Test
     
     15/10 16:00 AEST
@@ -36,16 +46,6 @@ FOX SCORES
     | ENG | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
-* [Women's T20
-    
-    HOB won by 8 wkts
-    
-    |     |     |
-    | --- | --- |
-    | HOB | 2 /139 |
-    | PER | 5 /136 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250111)
 * [Women's T20
     
     15/10 14:00 AEST
@@ -158,12 +158,12 @@ FOX SCORES
     
 * [NFL
     
-    15/10 11:15 AEST
+    3rd Qtr
     
     |     |     |
     | --- | --- |
-    | NYJ | –   |
-    | BUF | –   |
+    | NYJ | 17  |
+    | BUF | 20  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250615)
 * Football
@@ -178,26 +178,36 @@ FOX SCORES
     | AUS | –   |
     
     Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250401)
+* [WCQ
+    
+    15/10 23:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CHN | –   |
+    | IDN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250402)
 * Baseball
     
 * [MLB
     
-    15/10 7:08 AEST
+    Final
     
     |     |     |
     | --- | --- |
-    | LAD | –   |
-    | NYM | –   |
+    | LAD | 3   |
+    | NYM | 7   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240020028DBB2)
 * [MLB
     
-    15/10 10:38 AEST
+    Bottom 7th Innings
     
     |     |     |
     | --- | --- |
-    | NYY | –   |
-    | CLE | –   |
+    | NYY | 4   |
+    | CLE | 1   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400200204574)
 
@@ -837,6 +847,7 @@ FOX SCORES
 [Football](https://www.foxsports.com.au/video/football)
 
 * [EPL](https://www.foxsports.com.au/video/football/epl)
+* [A-League](https://www.foxsports.com.au/video/football/a-league)
 * [Women's World Cup](https://www.foxsports.com.au/video/football/womens-world-cup)
 * [Asian Cup](https://www.foxsports.com.au/video/football/asian-cup)
 * [Matildas](https://www.foxsports.com.au/video/football/matildas)
@@ -951,16 +962,15 @@ FOX SCORES
 * [NRL](https://www.foxsports.com.au/nrl)
 * [AFL](https://www.foxsports.com.au/afl)
 * [Cricket](https://www.foxsports.com.au/cricket)
-* [Bathurst 1000](https://www.foxsports.com.au/motorsport/supercars/bathurst-1000)
 * [Motorsport](https://www.foxsports.com.au/motorsport)
 * [Basketball](https://www.foxsports.com.au/basketball)
 * [Boxing](https://www.foxsports.com.au/boxing)
 * [UFC](https://www.foxsports.com.au/ufc)
 * [Netball](https://www.foxsports.com.au/netball)
 * [NFL](https://www.foxsports.com.au/nfl)
+* [Golf](https://www.foxsports.com.au/golf)
 * More...
 
-* [Golf](https://www.foxsports.com.au/golf)
 * [Football](https://www.foxsports.com.au/football)
 * [Tennis](https://www.foxsports.com.au/tennis)
 * [Horse Racing](https://www.foxsports.com.au/horse-racing)
