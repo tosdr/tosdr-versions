@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Police responding to an incident in Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-06-at-11.41.35-e1728900286598-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
+    
+    ### [Burgess Park crime ‘spiralling’ say campaigners in call for action](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
+    
     [![L: Tyler Wellsted by the mural; R: Jesse Lloyd-Smith.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.54-360x180.jpg)](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
     
     ### [Heartfelt mural unveiled for Jesse Lloyd-Smith three months after he was killed in Peckham](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
@@ -50,10 +54,6 @@
     [![London mayor Sadiq Khan. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/06/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/we-cant-have-more-austerity-weve-had-14-years-of-austerity-says-londons-mayor/)
     
     ### [‘We can’t have more austerity – We’ve had 14 years of austerity,’ says London’s mayor](https://southwarknews.co.uk/area/london/we-cant-have-more-austerity-weve-had-14-years-of-austerity-says-londons-mayor/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/christopher-biggins-darts-360x180.jpg)](https://southwarknews.co.uk/news/community/south-london-celebrates-success-at-over-60s-olympics/)
-    
-    ### [South London celebrates success at ‘over-60’s Olympics’](https://southwarknews.co.uk/news/community/south-london-celebrates-success-at-over-60s-olympics/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Police responding to an incident in Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-06-at-11.41.35-e1728900286598-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
+    
+    ### [Burgess Park crime ‘spiralling’ say campaigners in call for action](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
+    
     [![L: Tyler Wellsted by the mural; R: Jesse Lloyd-Smith.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.54-360x180.jpg)](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
     
     ### [Heartfelt mural unveiled for Jesse Lloyd-Smith three months after he was killed in Peckham](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
@@ -130,10 +134,6 @@ View All Result
     [![London mayor Sadiq Khan. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/06/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/we-cant-have-more-austerity-weve-had-14-years-of-austerity-says-londons-mayor/)
     
     ### [‘We can’t have more austerity – We’ve had 14 years of austerity,’ says London’s mayor](https://southwarknews.co.uk/area/london/we-cant-have-more-austerity-weve-had-14-years-of-austerity-says-londons-mayor/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/christopher-biggins-darts-360x180.jpg)](https://southwarknews.co.uk/news/community/south-london-celebrates-success-at-over-60s-olympics/)
-    
-    ### [South London celebrates success at ‘over-60’s Olympics’](https://southwarknews.co.uk/news/community/south-london-celebrates-success-at-over-60s-olympics/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -373,6 +373,12 @@ Website
 
 ### Featured Articles
 
+[![Police responding to an incident in Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-06-at-11.41.35-e1728900286598-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
+
+### [Burgess Park crime ‘spiralling’ say campaigners in call for action](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
+
+[15th October 2024](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
+
 [![L: Tyler Wellsted by the mural; R: Jesse Lloyd-Smith.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.54-120x86.jpg)](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
 
 ### [Heartfelt mural unveiled for Jesse Lloyd-Smith three months after he was killed in Peckham](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
@@ -402,12 +408,6 @@ Website
 ### [‘Greening the Blue’: Eco event series coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
 
 [11th October 2024](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
-
-[![L: Resident shares her opinion; R: Brixton Village (credit: Isabel Ramírez)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-12.46-120x86.jpg)](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
-
-### [Exclusive: Brixton Market traders say they ‘were not told’ about the market going up for sale](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
-
-[11th October 2024](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
 
 ### USEFUL PAGES
 
