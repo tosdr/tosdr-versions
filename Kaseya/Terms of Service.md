@@ -1,46 +1,21 @@
 [Skip to content](#content)
 
+Kaseya 365 - Everything needed to manage and secure your endpoints.
+
+[Explore Kaseya 365](https://www.kaseya.com/products/kaseya-365/)
+
 [IT Management Software](https://www.kaseya.com/ "IT Management Software")
 
 [Get My Demo](https://www.kaseya.com/request-my-demo/)
 
-* [IT Complete Platform](# "IT Complete Platform")
+* [Solutions](# "Solutions")
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/02/logo-it-complete-white.svg)
+    Role
     
-    IT & Security Management Platform
+    * [MSPsGrow Your Business](https://www.kaseya.com/managed-service-providers/ "MSPs")
+    * [IT DepartmentsManage IT with Ease](https://www.kaseya.com/it-departments/ "IT Departments")
     
-    [Explore IT Complete](https://www.kaseya.com/platform/)
-    
-    Complete
-    
-    A complete and ready entry point and front end for IT Complete, Kaseya one features single sign-on, integrated billing and unified support.
-    
-    [Explore Platform](https://www.kaseya.com/platform/)
-    
-    Automated
-    
-    By owning the core technology, and integrating through a proprietary Automation Universe, you can count on IT Complete workflow efficiencies for the long term.
-    
-    [Explore Automations](https://www.kaseya.com/automations/)
-    
-    Intelligent
-    
-    'Cooper', IT Complete's Utilization AI, identifies usage patterns and alerts you to opportunities to better utilize the features, integrations, and training available to you.
-    
-    [Explore Cooper](https://www.kaseya.com/intelligence/)
-    
-    Priced Right
-    
-    Save hard costs, save labor costs, get more done, and acquire and retain more customers by meeting the critical needs of digitally transformed small business.
-    
-    [Request Pricing](https://www.kaseya.com/request-pricing/)
-    
-* [Suites](# "Suites")
-    
-    ![](https://www.kaseya.com/wp-content/uploads/2024/02/logo-it-complete-white.svg)
-    
-    IT Complete's eight product suites solve the IT & Security problems of IT Pro’s everywhere.
+    Prduct Suites
     
     * [RMM/Endpoint ManagementManage & Secure Anything](https://www.kaseya.com/solutions/rmm-endpoint-management/ "RMM/Endpoint Management")
     * [SecurityMulti-Layered Cyber Defense](https://www.kaseya.com/solutions/security/ "Security")
@@ -51,9 +26,19 @@
     * [IT OperationsReduce Employee Time Waste](https://www.kaseya.com/solutions/it-operations/ "IT Operations")
     * [MSP EnablementTurnkey Sales & Marketing](https://www.kaseya.com/solutions/msp-enablement/ "MSP Enablement")
     
-    [Everything Needed to Manage, Secure, Backup and Automate Your Endpoints
+    IT Complete
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/04/logo-kaseya-365-white.svg)](https://www.kaseya.com/products/kaseya-365/)
+    * [Platform Overview](https://www.kaseya.com/platform/ "Platform Overview")
+    * [Automations](https://www.kaseya.com/automations/ "Automations")
+    * [AI Features](https://www.kaseya.com/intelligence/ "AI Features")
+    * [Request Pricing](https://www.kaseya.com/request-pricing/ "Request Pricing")
+    * [Get a Demo](https://www.kaseya.com/request-my-demo/ "Get a Demo")
+    
+    The Golden Age of IT Management
+    
+    Everything Needed to Manage, Secure, Backup and Automate Your Endpoints
+    
+    [Read more](https://www.kaseya.com/products/kaseya-365/)
     
 * [Products](# "Products")
     
@@ -345,8 +330,6 @@
     
 * [Resources](# "Resources")
     
-    Resources
-    
     * [ResourcesLearn About IT](https://www.kaseya.com/resource/ "Resources")
     * [Case StudiesReal Results, Real Stories](https://www.kaseya.com/case-studies/ "Case Studies")
     * [BlogIndustry Trends & News](https://www.kaseya.com/blog/ "Blog")
@@ -373,17 +356,15 @@
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/09/KAS_Webinar-VSA-Q4-Pro-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/10/K365-Webinar-Fall-into-IT-Productivity-1200x800-px-1-300x200.png)
     
-    VSA Quarterly Product Innovation Update
+    Fall Into IT Productivity: Improve Efficiency & Avoid Burnout With Kaseya 365
     
-    October 22 - 23
+    October 16
     
     [View All Events](https://www.kaseya.com/events/)
     
 * [Company](# "Company")
-    
-    Company
     
     * [CompanyOur Mission – Leadership](https://www.kaseya.com/company/ "Company")
     * [In The NewsMedia Mentions](https://www.kaseya.com/in-the-news/ "In The News")
