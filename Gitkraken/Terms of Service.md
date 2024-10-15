@@ -4,8 +4,7 @@
 
 [Sign Up To Save](https://gitkraken.dev/purchase?planType=PRO&planQuantity=1&promoCode=DEVEXDAYS24)
 
-Our Lowest Price of the Year  
-Sale Ends Oct 21st
+Our Lowest Price of the Year **Sale Ends Oct 21st**
 
 [![](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-logo.svg)](https://www.gitkraken.com/)
 
