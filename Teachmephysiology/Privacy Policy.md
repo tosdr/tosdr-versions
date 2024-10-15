@@ -1,4 +1,6 @@
- [![](https://teachmephysiology.com/wp-content/uploads/2019/08/logo150x150.png)](https://teachmephysiology.com/)
+  [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+ ![](https://teachmephysiology.com/wp-content/uploads/2019/08/logo150x150.png)](https://teachmephysiology.com/)
 
 TeachMe  
 Physiology
