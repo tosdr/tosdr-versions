@@ -29,7 +29,7 @@ Hey, it looks like you're in **Australia**
 
 [0](https://shop.mattel.com/cart)
 
-![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt0d48938d4b5e4ff2/61e8aee96eeb29551c34a1fb/US)
+![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt0d48938d4b5e4ff2/61e8aee96eeb29551c34a1fb/US)
 
 United States
 
@@ -53,7 +53,7 @@ Navigation
 
 [](https://shop.mattel.com/)
 
-*   [![Fisher Price Gift Shop](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt2b42be26b55cb240/66eb29f85fcc6a11c6cd5771/holiday-logo_Mobile@2x.jpg) ![Fisher Price Gift Shop](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt03e253b9410d4765/66eb5003790a3d2a1add6873/holiday-logo@2xdesktop.png) Shop Now](https://shop.mattel.com/pages/fisher-price-gift-shop "Fisher Price Gift Shop")
+*   [![Fisher Price Gift Shop](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt2b42be26b55cb240/66eb29f85fcc6a11c6cd5771/holiday-logo_Mobile@2x.jpg) ![Fisher Price Gift Shop](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt0256bff48d274cda/67045bed547007b42d36b164/holiday-gg-logo.svg) Shop Now](https://shop.mattel.com/pages/fisher-price-gift-shop "Fisher Price Gift Shop")
 * Shop
     
     [Shop All](https://shop.mattel.com/collections/shop-all)
@@ -155,24 +155,24 @@ Navigation
     
 * Brands
     
-    * [![All Brands](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt00b344ffbdadabe3/64cd7932cc97f639ad6e6345/Nav_Logos_All-Brands@2x.jpg)](https://shop.mattel.com/pages/all-brands)
-    * [![](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blta28d8972064872fe/65ea2a70aac51db9df8fa174/Shopper_HP_Nav_Logos_Barbie.jpg)](https://shop.mattel.com/pages/barbie)
-    * [![Hot Wheels](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt5f5617f71081b3e5/64cd793b1072f02a273f1a15/Nav_Logos_Hot-Wheels@2x.jpg)](https://shop.mattel.com/pages/hot-wheels)
-    * [![Fisher-Price](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/bltb2e19d9bfe2f3032/64cd793be6fc9a67fb2cf7a2/Nav_Logos_Fisher-Price@2x.jpg)](https://shop.mattel.com/pages/fisher-price)
-    * [![American Girl](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/bltfcb87bf4804befb8/64cd793b2b05966531c7e7c8/Nav_Logos_American-Girl@2x.jpg)](https://www.americangirl.com/)
-    * [![](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/bltae71c58aae8730b4/66fd6aeeea1164253f66c323/Brand_Bar_Logo_Barney.png)](https://shop.mattel.com/pages/about-barney)
-    * [![Disney Princess](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt045d4e2d370bf1f5/64cd793b238aa5cda2357f88/Nav_Logos_Disney-Princess@2x.jpg)](https://shop.mattel.com/collections/disney-princess)
-    * [![Disney Frozen](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt2e168719e4112e92/64cd793b238aa5698f357f84/Nav_Logos_Disney-Frozen@2x.jpg)](https://shop.mattel.com/collections/disney-frozen)
-    * [![Jurassic World Dominion](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt97493d15ef5c94e0/64cd793bdffc270d737975d5/Nav_Logos_Jurassic-World@2x.jpg)](https://shop.mattel.com/collections/jurassic-world)
-    * [![Little People](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt8f640d5ffdce5ad0/64cd793b1072f039bf3f1a11/Nav_Logos_Little-People@2x.jpg)](https://shop.mattel.com/collections/little-people)
-    * [![MEGA](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt4ca9e483bdd1faa7/64cd793238c04d1157aec9f0/Nav_Logos_Mega@2x.jpg)](https://shop.mattel.com/collections/mega)
-    * [![UNO](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blta753f177a4c5ae9d/64cd7932c5b4be2cbca6ec21/Nav_Logos_UNO@2x.jpg)](https://shop.mattel.com/collections/uno)
-    * [![WWE](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt2911390b5e1d17a9/64cd793288b3c94a0be77147/Nav_Logos_WWE@2x.jpg)](https://shop.mattel.com/collections/wwe)
-    * [![Disney and Pixar Cars](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt581b77ee2795f517/64cd7932cfbe642a189dda12/Nav_Logos_Disney-Car@2x.jpg)](https://shop.mattel.com/collections/disney-pixar-cars)
-    * [![Monster High](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt782b9e656b459452/64cd7932bfb671cebc6bf929/Nav_Logos_Monster-High@2x.jpg)](https://shop.mattel.com/collections/monster-high)
-    * [![Polly Pocket](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blteda22cec0e448c1f/64cd79324e7eeb6d2cf1794a/Nav_Logos_Polly-Pocket@2x.jpg)](https://shop.mattel.com/collections/polly-pocket)
-    * [![Thomas & Friends](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/bltabd1143a7b6d9609/64cd793244ba3fd85e1e0197/Nav_Logos_Thomas-and-Friends@2x.jpg)](https://shop.mattel.com/collections/thomas-friends)
-    * [![Mattel Creations](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/bltb0b3a93a6944dd38/64cd7932e6fc9a3a532cf79e/Nav_Logos_Mattel-Creations@2x.jpg)](https://creations.mattel.com/)
+    * [![All Brands](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt00b344ffbdadabe3/64cd7932cc97f639ad6e6345/Nav_Logos_All-Brands@2x.jpg)](https://shop.mattel.com/pages/all-brands)
+    * [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blta28d8972064872fe/65ea2a70aac51db9df8fa174/Shopper_HP_Nav_Logos_Barbie.jpg)](https://shop.mattel.com/pages/barbie)
+    * [![Hot Wheels](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt5f5617f71081b3e5/64cd793b1072f02a273f1a15/Nav_Logos_Hot-Wheels@2x.jpg)](https://shop.mattel.com/pages/hot-wheels)
+    * [![Fisher-Price](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/bltb2e19d9bfe2f3032/64cd793be6fc9a67fb2cf7a2/Nav_Logos_Fisher-Price@2x.jpg)](https://shop.mattel.com/pages/fisher-price)
+    * [![American Girl](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/bltfcb87bf4804befb8/64cd793b2b05966531c7e7c8/Nav_Logos_American-Girl@2x.jpg)](https://www.americangirl.com/)
+    * [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/bltae71c58aae8730b4/66fd6aeeea1164253f66c323/Brand_Bar_Logo_Barney.png)](https://shop.mattel.com/pages/about-barney)
+    * [![Disney Princess](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt045d4e2d370bf1f5/64cd793b238aa5cda2357f88/Nav_Logos_Disney-Princess@2x.jpg)](https://shop.mattel.com/collections/disney-princess)
+    * [![Disney Frozen](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt2e168719e4112e92/64cd793b238aa5698f357f84/Nav_Logos_Disney-Frozen@2x.jpg)](https://shop.mattel.com/collections/disney-frozen)
+    * [![Jurassic World Dominion](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt97493d15ef5c94e0/64cd793bdffc270d737975d5/Nav_Logos_Jurassic-World@2x.jpg)](https://shop.mattel.com/collections/jurassic-world)
+    * [![Little People](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt8f640d5ffdce5ad0/64cd793b1072f039bf3f1a11/Nav_Logos_Little-People@2x.jpg)](https://shop.mattel.com/collections/little-people)
+    * [![MEGA](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt4ca9e483bdd1faa7/64cd793238c04d1157aec9f0/Nav_Logos_Mega@2x.jpg)](https://shop.mattel.com/collections/mega)
+    * [![UNO](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blta753f177a4c5ae9d/64cd7932c5b4be2cbca6ec21/Nav_Logos_UNO@2x.jpg)](https://shop.mattel.com/collections/uno)
+    * [![WWE](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt2911390b5e1d17a9/64cd793288b3c94a0be77147/Nav_Logos_WWE@2x.jpg)](https://shop.mattel.com/collections/wwe)
+    * [![Disney and Pixar Cars](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt581b77ee2795f517/64cd7932cfbe642a189dda12/Nav_Logos_Disney-Car@2x.jpg)](https://shop.mattel.com/collections/disney-pixar-cars)
+    * [![Monster High](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blt782b9e656b459452/64cd7932bfb671cebc6bf929/Nav_Logos_Monster-High@2x.jpg)](https://shop.mattel.com/collections/monster-high)
+    * [![Polly Pocket](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blteda22cec0e448c1f/64cd79324e7eeb6d2cf1794a/Nav_Logos_Polly-Pocket@2x.jpg)](https://shop.mattel.com/collections/polly-pocket)
+    * [![Thomas & Friends](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/bltabd1143a7b6d9609/64cd793244ba3fd85e1e0197/Nav_Logos_Thomas-and-Friends@2x.jpg)](https://shop.mattel.com/collections/thomas-friends)
+    * [![Mattel Creations](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/bltb0b3a93a6944dd38/64cd7932e6fc9a3a532cf79e/Nav_Logos_Mattel-Creations@2x.jpg)](https://creations.mattel.com/)
     
 * [New](https://shop.mattel.com/collections/new-arrivals)
 * [Sign in](https://platform.mattel/shopify/login?shop_url=https://shop.mattel.com&return_to=https://shop.mattel.com/en-us/account&client_id=cKWsQKwG630yTOXOp6uwprYFulwny766&action=login&ui_locales=en-us) or [Create account](https://platform.mattel/shopify/login?shop_url=https://shop.mattel.com&return_to=https://shop.mattel.com/en-us/account&client_id=cKWsQKwG630yTOXOp6uwprYFulwny766&action=register&ui_locales=en-us)
@@ -181,7 +181,7 @@ Navigation
     * [Recalls](https://service.mattel.com/us/recall.aspx)
     * [For Parents](https://shop.mattel.com/blogs/playroom)
     * [For Collectors](https://creations.mattel.com/)
-    * ![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt0d48938d4b5e4ff2/61e8aee96eeb29551c34a1fb/US)
+    * ![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt0d48938d4b5e4ff2/61e8aee96eeb29551c34a1fb/US)
         
         United States
         
@@ -309,7 +309,7 @@ Some _Mattel Sites_ might place their own cookies on your device to offer you 
 
 © 2022 Mattel. All Rights Reserved.
 
-![](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blte2e554e11ac21e7e/668437d93d793f24027694b8/MattelEmpoweringFlag_635x231.png)
+![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/shop-contentstack/blte2e554e11ac21e7e/668437d93d793f24027694b8/MattelEmpoweringFlag_635x231.png)
 
 Sign up to get the latest from Mattel!
 
@@ -408,55 +408,55 @@ Choose Your Country or Region
 
 Americas
 
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt0d48938d4b5e4ff2/61e8aee96eeb29551c34a1fb/US)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt0d48938d4b5e4ff2/61e8aee96eeb29551c34a1fb/US)
     
     United States (English)](https://shop.mattel.com/services/currency/update?currency=EUR&country=US&return_to=%2F%3Fsource=countrypicker)
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt1ebb9bc924abfa52/61e8aecdf4587156400ea908/Canada)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt1ebb9bc924abfa52/61e8aecdf4587156400ea908/Canada)
     
     Canada (English)](https://shop.mattel.com/services/currency/update?currency=EUR&country=CA&return_to=%2Fen-ca%3Fsource=countrypicker)
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt1ebb9bc924abfa52/61e8aecdf4587156400ea908/Canada)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt1ebb9bc924abfa52/61e8aecdf4587156400ea908/Canada)
     
     Canada (Français)](https://shop.mattel.com/services/currency/update?currency=EUR&country=CA&return_to=%2Ffr-ca%3Fsource=countrypicker)
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt1954c4fbb585cefe/61e8aed82e138154d89cc789/Mexico)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt1954c4fbb585cefe/61e8aed82e138154d89cc789/Mexico)
     
     México (Español)](https://shop.mattel.com/services/currency/update?currency=EUR&country=MX&return_to=%2Fes-mx%3Fsource=countrypicker)
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt633613d8c8ec80ef/61e8aed86556e35523d2de68/Brazil)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt633613d8c8ec80ef/61e8aed86556e35523d2de68/Brazil)
     
     Brasil (Português)](https://shop.mattel.com/services/currency/update?currency=EUR&country=BR&return_to=%2Fpt-br%3Fsource=countrypicker)
 
 Europe
 
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/bltb6b353b8591c63d5/61e8aecd6556e35523d2de64/France)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/bltb6b353b8591c63d5/61e8aecd6556e35523d2de64/France)
     
     France (Français)](https://shopping.mattel.com/fr-fr/services/currency/update?currency=EUR&country=FR&return_to=%2Ffr-fr%3Fsource=countrypicker)
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/bltb601da030629700e/61e8aecd122f9c5306775e84/Greece)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/bltb601da030629700e/61e8aecd122f9c5306775e84/Greece)
     
     Ελλάδα (Ελληνική)](https://shopping.mattel.com/el-gr/services/currency/update?currency=EUR&country=GR&return_to=%2Fel-gr%3Fsource=countrypicker)
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt178554c45af36f35/61e8aecd6eeb29551c34a1f7/Italy)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt178554c45af36f35/61e8aecd6eeb29551c34a1f7/Italy)
     
     Italia (Italiano)](https://shopping.mattel.com/it-it/services/currency/update?currency=EUR&country=IT&return_to=%2Fit-it%3Fsource=countrypicker)
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/bltaafb5db7e6ec8319/61e8aecdedd97356355325cc/Spain)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/bltaafb5db7e6ec8319/61e8aecdedd97356355325cc/Spain)
     
     España (Español)](https://shopping.mattel.com/es-es/services/currency/update?currency=EUR&country=ES&return_to=%2Fes-es%3Fsource=countrypicker)
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt397b6b51cf95c4b5/61e8b3aef4587156400ea914/Germany)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt397b6b51cf95c4b5/61e8b3aef4587156400ea914/Germany)
     
     Deutschland (Deutsch)](https://shopping.mattel.com/de-de/services/currency/update?currency=EUR&country=DE&return_to=%2Fde-de%3Fsource=countrypicker)
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt80a0ea43e5bd28af/61e8aecd5e95b754d6ff3295/Great_Britain)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt80a0ea43e5bd28af/61e8aecd5e95b754d6ff3295/Great_Britain)
     
     Great Britain (English)](https://shopping.mattel.com/en-gb/services/currency/update?currency=GBP&country=GB&return_to=%2Fen-gb%3Fsource=countrypicker)
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt4efffc69b9925301/61e8aecd2e138154d89cc785/Netherlands)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt4efffc69b9925301/61e8aecd2e138154d89cc785/Netherlands)
     
     Nederlands (Dutch)](https://shopping.mattel.com/services/currency/update?currency=EUR&country=NL&return_to=%2F%3Fsource=countrypicker)
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt0bcd48908db7436a/61e8aecdfc8ee551a6df838f/Poland)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt0bcd48908db7436a/61e8aecdfc8ee551a6df838f/Poland)
     
     Polska (Polski)](https://shopping.mattel.com/pl-pl/services/currency/update?currency=EUR&country=PL&return_to=%2Fpl-pl%3Fsource=countrypicker)
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt6b578d97c9ea8d56/61e8aecdf4587156400ea90c/Turkey)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt6b578d97c9ea8d56/61e8aecdf4587156400ea90c/Turkey)
     
     Türkiye (Türkçe)](https://shopping.mattel.com/tr-tr/services/currency/update?currency=EUR&country=TR&return_to=%2Ftr-tr%3Fsource=countrypicker)
 
 Oceania
 
-* [![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt56beee6b0a089df8/64b1d0c43b8ba2021fd19cd0/Australia)
+* [![](https://images.mattel.net/image/upload/w_360,f_auto,c_scale/f_auto/q_auto/shop-contentstack/blt56beee6b0a089df8/64b1d0c43b8ba2021fd19cd0/Australia)
     
     Australia](https://shop.mattel.com.au/services/currency/update?currency=EUR&country=&return_to=%2F%3Fsource=countrypicker)
 
