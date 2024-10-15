@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Monday, October 14 2024
+Tuesday, October 15 2024
 
 Latest
 
-* [UK govt appoints Microsoft CEO to chair industrial strategy council as it looks to attract tech investment](https://digitpatrox.com/uk-govt-appoints-microsoft-ceo-to-chair-industrial-strategy-council-as-it-looks-to-attract-tech-investment/)
-* [Adobe lets customers test Firefly AI video generator – Computerworld](https://digitpatrox.com/adobe-lets-customers-test-firefly-ai-video-generator-computerworld/)
-* [How I Use a Bag in My Closet to Declutter With Less Stress](https://digitpatrox.com/how-i-use-a-bag-in-my-closet-to-declutter-with-less-stress/)
-* [What is a Rambo Attack?](https://digitpatrox.com/what-is-a-rambo-attack/)
-* [Disable Focused Inbox on any version of Outlook](https://digitpatrox.com/disable-focused-inbox-on-any-version-of-outlook/)
-* [Does the Start/Stop Function Really Improve Your Car’s Fuel Economy?](https://digitpatrox.com/does-the-start-stop-function-really-improve-your-cars-fuel-economy/)
-* [My Vision For The Perfect Headset](https://digitpatrox.com/my-vision-for-the-perfect-headset/)
-* [Huawei targets ‘intelligent industrial transformation’ with AI-ready infrastructure](https://digitpatrox.com/huawei-targets-intelligent-industrial-transformation-with-ai-ready-infrastructure/)
-* [Is It Worth The Price?](https://digitpatrox.com/is-it-worth-the-price/)
-* [How to watch ‘Married at First Sight USA’ 2024 online](https://digitpatrox.com/how-to-watch-married-at-first-sight-usa-2024-online/)
+* [The Best Network Monitoring Tools of 2024](https://digitpatrox.com/the-best-network-monitoring-tools-of-2024/)
+* [UK workers still seeking better work-life balance, report says](https://digitpatrox.com/uk-workers-still-seeking-better-work-life-balance-report-says/)
+* [Chinese researchers break RSA encryption with a quantum computer](https://digitpatrox.com/chinese-researchers-break-rsa-encryption-with-a-quantum-computer/)
+* [Is TikTok’s ‘Hydrogen Water’ Trend Nonsense?](https://digitpatrox.com/is-tiktoks-hydrogen-water-trend-nonsense/)
+* [Vendor Spotlight: Twingate](https://digitpatrox.com/vendor-spotlight-twingate/)
+* [Porsche Taycan Recalled Because Battery Short-Circuit Risks Fire](https://digitpatrox.com/porsche-taycan-recalled-because-battery-short-circuit-risks-fire/)
+* [Don’t Miss out on These 5 Underrated Music Streaming Services](https://digitpatrox.com/dont-miss-out-on-these-5-underrated-music-streaming-services/)
+* [The UK has ‘seismic’ AI potential, says AWS startup leader – but startups still need skills support](https://digitpatrox.com/the-uk-has-seismic-ai-potential-says-aws-startup-leader-but-startups-still-need-skills-support/)
+* [NVIDIA Blackwell GPUs Sold Out: Demand Surges, What’s Next?](https://digitpatrox.com/nvidia-blackwell-gpus-sold-out-demand-surges-whats-next/)
+* [Anthropic CEO says AI will help us live longer and cure disease — here’s how](https://digitpatrox.com/anthropic-ceo-says-ai-will-help-us-live-longer-and-cure-disease-heres-how/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/TMh4hq3cfoiNMtJ5tqShGb-1200-80.jpg)](https://digitpatrox.com/uk-govt-appoints-microsoft-ceo-to-chair-industrial-strategy-council-as-it-looks-to-attract-tech-investment/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/best-network-monitoring-tools.jpg)](https://digitpatrox.com/the-best-network-monitoring-tools-of-2024/)
     
-    [UK govt appoints Microsoft CEO to chair industrial strategy council as it looks to attract tech investment](https://digitpatrox.com/uk-govt-appoints-microsoft-ceo-to-chair-industrial-strategy-council-as-it-looks-to-attract-tech-investment/)
+    [The Best Network Monitoring Tools of 2024](https://digitpatrox.com/the-best-network-monitoring-tools-of-2024/)
     
-    50 seconds ago
+    21 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3562828-0-33863900-1728919683-Adobe_Generative_Extend_in_Premiere_Pro_screenshot.png?w=1024)](https://digitpatrox.com/adobe-lets-customers-test-firefly-ai-video-generator-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/qMhRxPuBwsr43JY2f5Dmni-1200-80.jpg)](https://digitpatrox.com/uk-workers-still-seeking-better-work-life-balance-report-says/)
     
-    [Adobe lets customers test Firefly AI video generator – Computerworld](https://digitpatrox.com/adobe-lets-customers-test-firefly-ai-video-generator-computerworld/)
+    [UK workers still seeking better work-life balance, report says](https://digitpatrox.com/uk-workers-still-seeking-better-work-life-balance-report-says/)
     
-    23 mins ago
+    43 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JA5WMA67R12ZFZ61K7H03SHG/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-i-use-a-bag-in-my-closet-to-declutter-with-less-stress/)
+* [![](https://www.csoonline.com/wp-content/uploads/2024/10/3562701-0-92668400-1728921941-shutterstock_1508157266.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/chinese-researchers-break-rsa-encryption-with-a-quantum-computer/)
     
-    [How I Use a Bag in My Closet to Declutter With Less Stress](https://digitpatrox.com/how-i-use-a-bag-in-my-closet-to-declutter-with-less-stress/)
-    
-    50 mins ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/What-is-a-Rambo-Attack_.jpg)](https://digitpatrox.com/what-is-a-rambo-attack/)
-    
-    [What is a Rambo Attack?](https://digitpatrox.com/what-is-a-rambo-attack/)
-    
-    59 mins ago
-    
-* [![](https://pureinfotech.com/wp-content/uploads/2023/04/outlook-disable-focused-inbox-hero-mauro-huculak.webp)](https://digitpatrox.com/disable-focused-inbox-on-any-version-of-outlook/)
-    
-    [Disable Focused Inbox on any version of Outlook](https://digitpatrox.com/disable-focused-inbox-on-any-version-of-outlook/)
+    [Chinese researchers break RSA encryption with a quantum computer](https://digitpatrox.com/chinese-researchers-break-rsa-encryption-with-a-quantum-computer/)
     
     1 hour ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JA645H20C8HPHTSVBZDKKK10/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/is-tiktoks-hydrogen-water-trend-nonsense/)
+    
+    [Is TikTok’s ‘Hydrogen Water’ Trend Nonsense?](https://digitpatrox.com/is-tiktoks-hydrogen-water-trend-nonsense/)
+    
+    2 hours ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Twingate-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-twingate/)
+    
+    [Vendor Spotlight: Twingate](https://digitpatrox.com/vendor-spotlight-twingate/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [50 seconds ago
+* [21 mins ago
     
-    ### UK govt appoints Microsoft CEO to chair industrial strategy council as it looks to attract tech investment](https://digitpatrox.com/uk-govt-appoints-microsoft-ceo-to-chair-industrial-strategy-council-as-it-looks-to-attract-tech-investment/)
-* [23 mins ago
+    ### The Best Network Monitoring Tools of 2024](https://digitpatrox.com/the-best-network-monitoring-tools-of-2024/)
+* [43 mins ago
     
-    ### Adobe lets customers test Firefly AI video generator – Computerworld](https://digitpatrox.com/adobe-lets-customers-test-firefly-ai-video-generator-computerworld/)
-* [50 mins ago
+    ### UK workers still seeking better work-life balance, report says](https://digitpatrox.com/uk-workers-still-seeking-better-work-life-balance-report-says/)
+* [1 hour ago
     
-    ### How I Use a Bag in My Closet to Declutter With Less Stress](https://digitpatrox.com/how-i-use-a-bag-in-my-closet-to-declutter-with-less-stress/)
+    ### Chinese researchers break RSA encryption with a quantum computer](https://digitpatrox.com/chinese-researchers-break-rsa-encryption-with-a-quantum-computer/)
 
 Most Popular Topics
 
-* [August 12, 2024
+* [3 hours ago
     
-    ### 5 Types of IVR Testing Tools and When To Use Each](https://digitpatrox.com/5-types-of-ivr-testing-tools-and-when-to-use-each/)
-* [August 26, 2024
+    ### The UK has ‘seismic’ AI potential, says AWS startup leader – but startups still need skills support](https://digitpatrox.com/the-uk-has-seismic-ai-potential-says-aws-startup-leader-but-startups-still-need-skills-support/)
+* [August 15, 2024
     
-    ### Steam Finally Made It Easier to Find Trending Free Games](https://digitpatrox.com/steam-finally-made-it-easier-to-find-trending-free-games/)
-* [August 30, 2024
+    ### Microsoft Patched 6 Actively Exploited Zero-Day Flaws](https://digitpatrox.com/microsoft-patched-6-actively-exploited-zero-day-flaws/)
+* [September 2, 2024
     
-    ### Microsoft is trying to reduce Windows 11’s desktop spotlight clutter](https://digitpatrox.com/microsoft-is-trying-to-reduce-windows-11s-desktop-spotlight-clutter/)
+    ### Best Movies and TV Shows on Prime This Month](https://digitpatrox.com/best-movies-and-tv-shows-on-prime-this-month/)
 
 Last Modified Topics
 
-* [1 hour ago
-    
-    ### My Vision For The Perfect Headset](https://digitpatrox.com/my-vision-for-the-perfect-headset/)
 * [2 hours ago
     
-    ### Huawei targets ‘intelligent industrial transformation’ with AI-ready infrastructure](https://digitpatrox.com/huawei-targets-intelligent-industrial-transformation-with-ai-ready-infrastructure/)
-* [2 hours ago
+    ### Don’t Miss out on These 5 Underrated Music Streaming Services](https://digitpatrox.com/dont-miss-out-on-these-5-underrated-music-streaming-services/)
+* [3 hours ago
     
-    ### Is It Worth The Price?](https://digitpatrox.com/is-it-worth-the-price/)
+    ### The UK has ‘seismic’ AI potential, says AWS startup leader – but startups still need skills support](https://digitpatrox.com/the-uk-has-seismic-ai-potential-says-aws-startup-leader-but-startups-still-need-skills-support/)
+* [3 hours ago
+    
+    ### NVIDIA Blackwell GPUs Sold Out: Demand Surges, What’s Next?](https://digitpatrox.com/nvidia-blackwell-gpus-sold-out-demand-surges-whats-next/)
 
 Most Viewed Topics
 
