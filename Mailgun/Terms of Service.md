@@ -435,7 +435,7 @@ This app works best with JavaScript enabled.
         Contact Sales](https://www.mailgun.com/contact/sales/)
     * [Calendar icon
         
-        Schedules](https://www.mailgun.com/contact/schedule-a-demo/)
+        Schedule a demo](https://www.mailgun.com/contact/schedule-a-demo/)
     
     Contact
     
@@ -444,7 +444,7 @@ This app works best with JavaScript enabled.
         Contact Sales](https://www.mailgun.com/contact/sales/)
     * [Calendar icon
         
-        Schedules](https://www.mailgun.com/contact/schedule-a-demo/)
+        Schedule a demo](https://www.mailgun.com/contact/schedule-a-demo/)
     
 
 * [Get Started for Free](https://signup.mailgun.com/new/signup)
@@ -838,7 +838,7 @@ Back to main menu
         Contact Sales](https://www.mailgun.com/contact/sales/)
     * [Calendar icon
         
-        Schedules](https://www.mailgun.com/contact/schedule-a-demo/)
+        Schedule a demo](https://www.mailgun.com/contact/schedule-a-demo/)
     
     Contact
     
@@ -847,7 +847,7 @@ Back to main menu
         Contact Sales](https://www.mailgun.com/contact/sales/)
     * [Calendar icon
         
-        Schedules](https://www.mailgun.com/contact/schedule-a-demo/)
+        Schedule a demo](https://www.mailgun.com/contact/schedule-a-demo/)
     
 
 * Sinch Email
@@ -1084,7 +1084,7 @@ Back to main menu
     Contact Sales](https://www.mailgun.com/contact/sales/)
 * [Calendar icon
     
-    Schedules](https://www.mailgun.com/contact/schedule-a-demo/)
+    Schedule a demo](https://www.mailgun.com/contact/schedule-a-demo/)
 
 * [Mailgun](https://www.mailgun.com/)
 * [Mailjet](https://www.mailjet.com/)
