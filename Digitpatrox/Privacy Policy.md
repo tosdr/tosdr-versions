@@ -20,16 +20,16 @@ Tuesday, October 15 2024
 
 Latest
 
-* [Microsoft logs 600 million identity attacks per day as threat actors collaborate more](https://digitpatrox.com/microsoft-logs-600-million-identity-attacks-per-day-as-threat-actors-collaborate-more/)
-* [High Call Center Queuing Times? 5 Causes With Easy Fixes](https://digitpatrox.com/high-call-center-queuing-times-5-causes-with-easy-fixes/)
-* [Is the Nolah Natural 11 mattress worth it? We tried the organic latex bed to find out](https://digitpatrox.com/is-the-nolah-natural-11-mattress-worth-it-we-tried-the-organic-latex-bed-to-find-out/)
-* [TrickMo malware steals Android PINs using fake lock screen](https://digitpatrox.com/trickmo-malware-steals-android-pins-using-fake-lock-screen/)
-* [Arlo is launching its first wired floodlight camera](https://digitpatrox.com/arlo-is-launching-its-first-wired-floodlight-camera/)
-* [YouTube Music Could Finally Get This Simple Playlist Feature Soon](https://digitpatrox.com/youtube-music-could-finally-get-this-simple-playlist-feature-soon/)
-* [£6.3 billion data center investment marks major ‘vote of confidence’ for UK tech industry](https://digitpatrox.com/6-3-billion-data-center-investment-marks-major-vote-of-confidence-for-uk-tech-industry/)
-* [These Sonos Speakers Are Still on Sale at Prime Day Prices](https://digitpatrox.com/these-sonos-speakers-are-still-on-sale-at-prime-day-prices/)
-* [Vendor Spotlight: Tribe29](https://digitpatrox.com/vendor-spotlight-tribe29/)
-* [Today’s NYT Connections Hints and Answer for October 15 (#492)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-october-15-492/)
+* [Windows 10 finally shows GPU specs and adds visual changes to the About page (build 19045.5070)](https://digitpatrox.com/windows-10-finally-shows-gpu-specs-and-adds-visual-changes-to-the-about-page-build-19045-5070/)
+* [Best Portable Chargers and Power Banks for Phones and Laptops](https://digitpatrox.com/best-portable-chargers-and-power-banks-for-phones-and-laptops/)
+* [4 Reasons You Shouldn’t Switch to an MVNO](https://digitpatrox.com/4-reasons-you-shouldnt-switch-to-an-mvno/)
+* [Amplifying intelligence: Huawei’s smart solutions for manufacturing and large enterprises](https://digitpatrox.com/amplifying-intelligence-huaweis-smart-solutions-for-manufacturing-and-large-enterprises/)
+* [Upscale Your Video Content for Just $36](https://digitpatrox.com/upscale-your-video-content-for-just-36/)
+* [Crock-Pots are now 40% off at Amazon — 5 slow cooker deals I’d shop from $29](https://digitpatrox.com/crock-pots-are-now-40-off-at-amazon-5-slow-cooker-deals-id-shop-from-29/)
+* [New FIDO proposal lets you securely move passkeys across platforms](https://digitpatrox.com/new-fido-proposal-lets-you-securely-move-passkeys-across-platforms/)
+* [Invincible season 3 is coming to Amazon in February](https://digitpatrox.com/invincible-season-3-is-coming-to-amazon-in-february/)
+* [Android 15 Officially Released with Private Space and App Pairs](https://digitpatrox.com/android-15-officially-released-with-private-space-and-app-pairs/)
+* [Vendor Spotlight: CoSoSys](https://digitpatrox.com/vendor-spotlight-cososys/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/U8Hpua3rAhSew9VachrgqR-1200-80.jpg)](https://digitpatrox.com/microsoft-logs-600-million-identity-attacks-per-day-as-threat-actors-collaborate-more/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/10/kb5045594-windows-10-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-10-finally-shows-gpu-specs-and-adds-visual-changes-to-the-about-page-build-19045-5070/)
     
-    [Microsoft logs 600 million identity attacks per day as threat actors collaborate more](https://digitpatrox.com/microsoft-logs-600-million-identity-attacks-per-day-as-threat-actors-collaborate-more/)
+    [Windows 10 finally shows GPU specs and adds visual changes to the About page (build 19045.5070)](https://digitpatrox.com/windows-10-finally-shows-gpu-specs-and-adds-visual-changes-to-the-about-page-build-19045-5070/)
     
-    18 mins ago
+    6 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/frustrated-customer-on-a-phone-call-pexels-rdne-6669856.jpeg)](https://digitpatrox.com/high-call-center-queuing-times-5-causes-with-easy-fixes/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1726865175/prod/content/dam/CRO-Images-2024/Electronics/CR-Electronics-InlineHero-Best-Portable-Lithium-Ion-Power-Chargers-0924)](https://digitpatrox.com/best-portable-chargers-and-power-banks-for-phones-and-laptops/)
     
-    [High Call Center Queuing Times? 5 Causes With Easy Fixes](https://digitpatrox.com/high-call-center-queuing-times-5-causes-with-easy-fixes/)
+    [Best Portable Chargers and Power Banks for Phones and Laptops](https://digitpatrox.com/best-portable-chargers-and-power-banks-for-phones-and-laptops/)
     
-    22 mins ago
+    16 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/eCLr4KcsruCEmfZ72sp6bK-1200-80.jpg)](https://digitpatrox.com/is-the-nolah-natural-11-mattress-worth-it-we-tried-the-organic-latex-bed-to-find-out/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-person-holding-a-phone-with-mvno-crossed-out-in-the-background-and-several-x-marks-around.jpg)](https://digitpatrox.com/4-reasons-you-shouldnt-switch-to-an-mvno/)
     
-    [Is the Nolah Natural 11 mattress worth it? We tried the organic latex bed to find out](https://digitpatrox.com/is-the-nolah-natural-11-mattress-worth-it-we-tried-the-organic-latex-bed-to-find-out/)
+    [4 Reasons You Shouldn’t Switch to an MVNO](https://digitpatrox.com/4-reasons-you-shouldnt-switch-to-an-mvno/)
     
-    37 mins ago
+    19 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/03/Android.jpg)](https://digitpatrox.com/trickmo-malware-steals-android-pins-using-fake-lock-screen/)
+* [![](https://cdn.mos.cms.futurecdn.net/3MYdgoHSru8pFz22e58jtQ-1200-80.jpg)](https://digitpatrox.com/amplifying-intelligence-huaweis-smart-solutions-for-manufacturing-and-large-enterprises/)
     
-    [TrickMo malware steals Android PINs using fake lock screen](https://digitpatrox.com/trickmo-malware-steals-android-pins-using-fake-lock-screen/)
+    [Amplifying intelligence: Huawei’s smart solutions for manufacturing and large enterprises](https://digitpatrox.com/amplifying-intelligence-huaweis-smart-solutions-for-manufacturing-and-large-enterprises/)
     
     1 hour ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/VNnw3IpMVO98yJpCc0H49qoJSHc=/0x0:4303x2871/1200x628/filters:focal(2152x1436:2153x1437)/cdn.vox-cdn.com/uploads/chorus_asset/file/25672818/Arlo_Wired_Floodlight_Hero.jpg)](https://digitpatrox.com/arlo-is-launching-its-first-wired-floodlight-camera/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tra_20241015-videoproc-lifetime-family-license.jpg)](https://digitpatrox.com/upscale-your-video-content-for-just-36/)
     
-    [Arlo is launching its first wired floodlight camera](https://digitpatrox.com/arlo-is-launching-its-first-wired-floodlight-camera/)
+    [Upscale Your Video Content for Just $36](https://digitpatrox.com/upscale-your-video-content-for-just-36/)
     
     1 hour ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [18 mins ago
+* [6 mins ago
     
-    ### Microsoft logs 600 million identity attacks per day as threat actors collaborate more](https://digitpatrox.com/microsoft-logs-600-million-identity-attacks-per-day-as-threat-actors-collaborate-more/)
-* [22 mins ago
+    ### Windows 10 finally shows GPU specs and adds visual changes to the About page (build 19045.5070)](https://digitpatrox.com/windows-10-finally-shows-gpu-specs-and-adds-visual-changes-to-the-about-page-build-19045-5070/)
+* [16 mins ago
     
-    ### High Call Center Queuing Times? 5 Causes With Easy Fixes](https://digitpatrox.com/high-call-center-queuing-times-5-causes-with-easy-fixes/)
-* [37 mins ago
+    ### Best Portable Chargers and Power Banks for Phones and Laptops](https://digitpatrox.com/best-portable-chargers-and-power-banks-for-phones-and-laptops/)
+* [19 mins ago
     
-    ### Is the Nolah Natural 11 mattress worth it? We tried the organic latex bed to find out](https://digitpatrox.com/is-the-nolah-natural-11-mattress-worth-it-we-tried-the-organic-latex-bed-to-find-out/)
+    ### 4 Reasons You Shouldn’t Switch to an MVNO](https://digitpatrox.com/4-reasons-you-shouldnt-switch-to-an-mvno/)
 
 Most Popular Topics
 
-* [6 days ago
-    
-    ### The Future of .io Websites Is Uncertain](https://digitpatrox.com/the-future-of-io-websites-is-uncertain/)
-* [2 weeks ago
-    
-    ### Wordle Answer for Today, September 28, 2024](https://digitpatrox.com/wordle-answer-for-today-september-28-2024/)
 * [1 week ago
     
-    ### These Are the Best Early Prime Day Sales on Vitamix Blenders](https://digitpatrox.com/these-are-the-best-early-prime-day-sales-on-vitamix-blenders/)
+    ### Best Space Heaters of 2024](https://digitpatrox.com/best-space-heaters-of-2024/)
+* [2 weeks ago
+    
+    ### Top 7 Cyber Threat Hunting Tools Reviewed by Experts for 2024](https://digitpatrox.com/top-7-cyber-threat-hunting-tools-reviewed-by-experts-for-2024/)
+* [3 days ago
+    
+    ### Best Dish Drying Racks and Mats](https://digitpatrox.com/best-dish-drying-racks-and-mats/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### New FIDO proposal lets you securely move passkeys across platforms](https://digitpatrox.com/new-fido-proposal-lets-you-securely-move-passkeys-across-platforms/)
+* [2 hours ago
+    
+    ### Invincible season 3 is coming to Amazon in February](https://digitpatrox.com/invincible-season-3-is-coming-to-amazon-in-february/)
 * [3 hours ago
     
-    ### £6.3 billion data center investment marks major ‘vote of confidence’ for UK tech industry](https://digitpatrox.com/6-3-billion-data-center-investment-marks-major-vote-of-confidence-for-uk-tech-industry/)
-* [4 hours ago
-    
-    ### These Sonos Speakers Are Still on Sale at Prime Day Prices](https://digitpatrox.com/these-sonos-speakers-are-still-on-sale-at-prime-day-prices/)
-* [4 hours ago
-    
-    ### Vendor Spotlight: Tribe29](https://digitpatrox.com/vendor-spotlight-tribe29/)
+    ### Android 15 Officially Released with Private Space and App Pairs](https://digitpatrox.com/android-15-officially-released-with-private-space-and-app-pairs/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 13, 2024
-    
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
