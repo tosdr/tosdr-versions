@@ -16,68 +16,136 @@
 Terms of service
 ================
 
-### Terms
+Medito Foundation Terms of Service
+==================================
 
-By accessing the website at [http://meditofoundation.org](https://meditofoundation.org/), you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
+_Last Updated: 15/10/24_
 
-### Donation
+Welcome to Medito Foundation. These Terms of Service ("Terms") govern your use of our website (meditofoundation.org) and mobile application (Medito, available on iOS and Android). By accessing or using our services, you agree to be bound by these Terms. If you disagree with any part of the Terms, you may not use our services.
 
-#### Voluntary
+1\. Use of Our Services
+-----------------------
 
-You are free to donate to Medito Foundation. You will never be obligated to donate to Medito Foundation. Donating is done voluntarily.
+1.1. The Medito app is free to download and use.
 
-#### Refunds
+1.2. Some features or content might require a donation to access. This will be clearly indicated within the app.
 
-Medito can offer refunds in two cases:
+1.3. We may update our services periodically to improve functionality, fix bugs, or add new features.
 
-* Within 30 days of your transaction: we will refund that transaction minus the transaction fee.
-* If you have been charged twice ("Duplicate charge"): we will refund the total amount.
+2\. Donations
+-------------
 
-#### Cancel / modify a monthly / recurring donation
+2.1. All donations to Medito Foundation are voluntary.
 
-To cancel your donation, use our [donation portal](https://bit.ly/3Vpgume), available [here](https://bit.ly/3Vpgume).  
-You will need the email address you used to donate.  
-Medito's team will be happy to assist you if you can't log in. Please send us an email at [\[email protected\]](https://meditofoundation.org/cdn-cgi/l/email-protection), providing your full name and a copy of the receipt of your previous donation.
+2.2. Donation Options:
 
-### Use License
+* Through our website: [donate.meditofoundation.org](https://donate.meditofoundation.org/)
+* Via the donation flow in the Medito app
 
-Permission is granted to temporarily download one copy of the materials (information or software) on Medito Foundation's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+2.3. Types of Donations:
 
-* modify or copy the materials;
-* use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
-* attempt to decompile or reverse engineer any software contained on Medito Foundation's website;
-* remove any copyright or other proprietary notations from the materials; or
-* transfer the materials to another person or "mirror" the materials on any other server.  
-    This license shall automatically terminate if you violate any of these restrictions and may be terminated by Medito Foundation at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+* Single Donation: A one-time contribution of your chosen amount.
+* Monthly Donation: A recurring monthly contribution of your chosen amount until cancelled.
 
-### Disclaimer
+2.4. Your choice of donation type and amount is your personal decision. The donation page and in-app flow clearly explain your options and any associated benefits.
 
-The materials on Medito Foundation's website are provided on an 'as is' basis. Medito Foundation makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.  
-Further, Medito Foundation does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
+2.5. By setting up a donation, you authorize Medito Foundation to charge your chosen payment method. For monthly donations, this authorization remains valid until cancelled by you.
 
-### Limitations
+2.6. To view, modify, or cancel your donation:
 
-In no event shall Medito Foundation or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Medito Foundation's website, even if Medito Foundation or a Medito Foundation authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+* First, use our donation management portal: [billing.stripe.com/p/login/4gw5ny82J1S50OA4gg](https://billing.stripe.com/p/login/4gw5ny82J1S50OA4gg)
+* If you encounter issues, email us at [\[email protected\]](https://meditofoundation.org/cdn-cgi/l/email-protection)
 
-### Accuracy of materials
+2.7. Refund Policy:
 
-The materials appearing on Medito Foundation's website could include technical, typographical, or photographic errors. Medito Foundation does not warrant that any of the materials on its website are accurate, complete or current. Medito Foundation may make changes to the materials contained on its website at any time without notice. However Medito Foundation does not make any commitment to update the materials.
+* Within 14 days of donation: Full refund without need for justification.
+* After 14 days: Refunds may be provided at our discretion, particularly in cases of error or dissatisfaction.
+* Duplicate charges: Full refund of the duplicate amount.
 
-### Links
+To request a refund, email [\[email protected\]](https://meditofoundation.org/cdn-cgi/l/email-protection) with your name and donation receipt.
 
-Medito Foundation has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Medito Foundation of the site. Use of any such linked website is at the user's own risk.
+2.8. As a nonprofit organization, we are committed to using donations responsibly and in accordance with our charitable purposes.
 
-### Modifications
+3\. Intellectual Property
+-------------------------
 
-Medito Foundation may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
+3.1. The Medito app's source code is open-source, licensed under the GNU Affero General Public License (AGPL).
 
-### Retreat
+3.2. Content within the app and website is copyrighted by Medito Foundation.
 
-Our retreats have specific terms and conditions, which are sent in advance to all potential participants. These include requirements such as all guests being over 18 or accompanied by an adult, payment in British Pounds, and the necessity for guests to manage their own travel arrangements and insurance. Health responsibilities, including fitness for yoga and other activities, are also the guest's responsibility. Our cancellation policy varies depending on the timing of the cancellation, with different terms for cancellations made more than 21 days in advance versus those made within 21 days of the retreat start. Amendments and cancellations by us, liability details, and privacy policy are also covered. For a detailed review of these terms, please visit [Medito Foundation Retreat Terms & Conditions.](https://meditofoundation.org/blog/medito-retreat-terms-conditions)
+3.3. For detailed licensing information, visit: [meditofoundation.org/license](https://meditofoundation.org/license)
 
-### Governing Law
+4\. User Accounts
+-----------------
 
-These terms and conditions are governed by and construed in accordance with the laws of the Netherlands and you irrevocably submit to the exclusive jurisdiction of the courts in that location.
+4.1. You may need to create an account to access certain features.
+
+4.2. You are responsible for maintaining the confidentiality of your account information.
+
+4.3. You must notify us immediately of any unauthorized use of your account.
+
+5\. Privacy and Data Protection
+-------------------------------
+
+5.1. Our Privacy Policy, available at [meditofoundation.org/privacy](https://meditofoundation.org/privacy), explains how we collect, use, and protect your personal information.
+
+5.2. By using our services, you also agree to our Privacy Policy.
+
+5.3. We are committed to complying with the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), and other applicable data protection laws.
+
+5.4. You have the right to access, correct, or delete your personal data. To exercise these rights, please contact us at [\[email protected\]](https://meditofoundation.org/cdn-cgi/l/email-protection).
+
+6\. Disclaimer of Warranties
+----------------------------
+
+6.1. Our services are provided "as is" and "as available" without any warranties, express or implied.
+
+6.2. We do not guarantee that our services will always be available, uninterrupted, or error-free.
+
+7\. Limitation of Liability
+---------------------------
+
+To the fullest extent permitted by law, Medito Foundation shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use or inability to use our services.
+
+8\. Dispute Resolution
+----------------------
+
+8.1. If you have any concerns or disputes about our services, we encourage you to contact us first at [\[email protected\]](https://meditofoundation.org/cdn-cgi/l/email-protection) to seek a resolution.
+
+8.2. If the dispute cannot be resolved through direct communication, both parties agree to attempt to resolve the dispute through mediation before resorting to binding arbitration or litigation.
+
+8.3. Any arbitration will be conducted in accordance with the rules of the Netherlands Arbitration Institute.
+
+8.4. Nothing in this section prevents you from bringing your dispute to the attention of any federal, state, or local government agencies that can, if the law allows, seek relief from us for you.
+
+9\. Changes to These Terms
+--------------------------
+
+We reserve the right to modify these Terms at any time. We will notify users of significant changes through our website or app. Continued use of our services after changes constitutes acceptance of the updated Terms.
+
+10\. Governing Law and Jurisdiction
+-----------------------------------
+
+10.1. These Terms are governed by the laws of the Netherlands, without regard to its conflict of law provisions.
+
+10.2. Any legal action or proceeding relating to your access to, or use of, our services or these Terms shall be instituted in a court of competent jurisdiction in the Netherlands.
+
+10.3. If you are a consumer in the European Union, United Kingdom, or United States, you may benefit from any mandatory provisions of the law of the country in which you reside. Nothing in these terms and conditions takes away or reduces your rights as a consumer to rely on those applicable local law provisions.
+
+11\. Accessibility
+------------------
+
+We are committed to making our services accessible to all users. If you have any accessibility concerns, please contact us at [\[email protected\]](https://meditofoundation.org/cdn-cgi/l/email-protection).
+
+12\. Contact Information
+------------------------
+
+For questions about these Terms, please contact us at [\[email protected\]](https://meditofoundation.org/cdn-cgi/l/email-protection)
+
+Medito Foundation (Medito Stichting / Stichting Medito)  
+Non-profit organisation registered in the Netherlands  
+KvK-nummer: 75284251  
+RSIN: 860222627
 
 #### Navigate
 
