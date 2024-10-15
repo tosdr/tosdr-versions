@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/art-adam-shub-feature.jpg)
+
+[](https://theinspirationgrid.com/nostalgic-pixel-paintings-by-adam-shub/)
+
+### Nostalgic Pixel Paintings by Adam Shub
+
+![](https://inspgr.id/app/uploads/2024/10/3d-marcus-chaloner-feature.jpg)
+
+[](https://theinspirationgrid.com/striking-visual-experiments-by-marcus-chaloner/)
+
+### Striking Visual Experiments by Marcus Chaloner
+
 ![](https://inspgr.id/app/uploads/2024/10/illustration-duckie-feature.jpg)
 
 [](https://theinspirationgrid.com/cultural-fusions-illustrations-by-duckie/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/dynamic-illustrations-by-leandro-lassmar/)
 
 ### Dynamic Illustrations by Leandro Lassmar
-
-![](https://inspgr.id/app/uploads/2024/10/photography-relander-24-feature.jpg)
-
-[](https://theinspirationgrid.com/human-x-nature-double-exposure-portraits-by-christoffer-relander/)
-
-### Human x Nature: Double-Exposure Portraits by Christoffer Relander
-
-![](https://inspgr.id/app/uploads/2024/10/illustration-pascal-blanche-24-feature.jpg)
-
-[](https://theinspirationgrid.com/sci-fi-worlds-the-art-of-pascal-blanche/)
-
-### Sci-Fi Worlds: The Art of Pascal Blanché
 
 Awesome products for creatives
 ------------------------------
