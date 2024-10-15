@@ -1247,6 +1247,7 @@ Gå direkt till :
     * [Analyser](https://www.sva.se/vi-erbjuder/analyser/c-28/c-76)
     * [Kremering och destruktion](https://www.sva.se/vi-erbjuder/kremering-och-destruktion/c-28/c-80)
     * [MASK-appen](https://mask-appen.sva.se/)
+    * [Trikintest i mobilen](https://trikintest.sva.se/)
     * [Provtagningsmaterial](https://www.sva.se/vi-erbjuder/provtagningsmaterial/c-28/c-78)
     * [Publikationer](https://www.sva.se/vi-erbjuder/publikationer/c-28/c-83)
     * [Remisser](https://www.sva.se/vi-erbjuder/remisser/c-28/c-84)
