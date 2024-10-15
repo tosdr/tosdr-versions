@@ -54,7 +54,7 @@ If any issues arise with your username, we’ll assess the situation fairly and 
 
 5\. Managing Your Plan
 
-You can sign up to Linktree on a free or paid plan and cancel at any time. Your plan will start when you accept these Terms and continue until you cancel it. If you cancel a paid plan it will ordinarily continue until the end of your current billing cycle and then automatically convert to a free plan. To cancel, visit the billing page (https://linktr.ee/admin/billing). To the extent permitted by applicable law, payments are non-refundable. But we know that sometimes your requirements may change. So, if you’ve selected a paid plan, but cancel within 72 hours, we may make an exception (please email us at support@linktr.ee).
+You can sign up to Linktree on a free or paid plan and cancel at any time. Your plan will start when you accept these Terms and continue until you cancel it. If you cancel a paid plan it will ordinarily continue until the end of your current billing cycle and then automatically convert to a free plan. To cancel, visit the billing page (https://linktr.ee/admin/billing). To the extent permitted by applicable law, payments are non-refundable. But we know that sometimes your requirements may change. So, if you’ve selected a paid plan, but cancel within 72 hours, we may make an exception (please email us at [\[email protected\]](https://linktr.ee/cdn-cgi/l/email-protection)).
 
 If you downloaded our app and purchased your plan using your Apple ID or Google Play Store account, you’ll need to cancel by following the instructions provided by [Apple](https://getsupport.apple.com/) or [Google](https://support.google.com/googleplay/answer/7205930). Please note that Linktree is unable to process refunds in these circumstances. You can request a refund from Apple on the [Apple Support](https://getsupport.apple.com/) webpage or Google by following [these instructions](https://support.google.com/googleplay/answer/7205930). If you have canceled your plan and would like to permanently delete your account, you can do so on your ‘[My Account](https://linktr.ee/admin/account/)’ page. Remember, if you delete your account, you won’t be able to reactivate it or retrieve any of the content or info you have added to your profile.
 
@@ -116,7 +116,7 @@ The steps we take will depend on the nature of the non-compliance. In some cases
 
 Please be aware that you won’t receive a refund for any fees paid in advance. We won’t be responsible for any content that is lost as a result of your account being suspended, canceled or downgraded to a free account (including where functionality that you previously had under a paid account is lost).
 
-If you believe your account was mistakenly canceled or if you encounter issues with these Terms or the Platform, please get in touch with us at support@linktr.ee. We’re committed to making good-faith efforts to resolve the matter, and neither party will initiate legal action concerning the issue until we’ve spent at least one month working together to find a resolution.
+If you believe your account was mistakenly canceled or if you encounter issues with these Terms or the Platform, please get in touch with us at [\[email protected\]](https://linktr.ee/cdn-cgi/l/email-protection). We’re committed to making good-faith efforts to resolve the matter, and neither party will initiate legal action concerning the issue until we’ve spent at least one month working together to find a resolution.
 
 10\. Your responsibility for your visitors and customers
 
@@ -218,7 +218,7 @@ Where you download the app from the Apple or Google Play stores (“App Stores�
 
 * These Terms are made between you and Linktree (and not the App Store). However, if any of these Terms is inconsistent with the App Store terms, the applicable App Store term applies;  
     ‍
-* We are solely responsible for the app and its content, any maintenance and support services, product warranties (if we haven’t disclaimed them), product claims and third party claims that the app or your use or possession of it, infringes another’s IP Rights. If you have a complaint about the app, or become aware of any third party claim, please email us at support@linktr.ee (and not the App Store);  
+* We are solely responsible for the app and its content, any maintenance and support services, product warranties (if we haven’t disclaimed them), product claims and third party claims that the app or your use or possession of it, infringes another’s IP Rights. If you have a complaint about the app, or become aware of any third party claim, please email us at [\[email protected\]](https://linktr.ee/cdn-cgi/l/email-protection) (and not the App Store);  
     ‍
 * You’re not on a US government restricted parties’ list and you don’t live in a country which is subject to a US government embargo or designated as “terrorist supporting country”; and  
     ‍
@@ -240,7 +240,7 @@ Before you can start using Linktree, there are a few last important points we’
     ‍
 * When you use Linktree’s Music Link or Video Link features to showcase YouTube videos on your Linktree, you are acknowledging your agreement to adhere to [YouTube’s Terms of Service.](https://www.youtube.com/static?template=terms&gl=AU)
 
-Any questions or comments? Please reach out to support@linktr.ee.
+Any questions or comments? Please reach out to [\[email protected\]](https://linktr.ee/cdn-cgi/l/email-protection).
 
 Jumpstart your corner of the internet today
 -------------------------------------------
