@@ -8,7 +8,7 @@
 
    [Skip to Content](#main-content) [Skip to Navigation](#masthead)
 
-[Buy More Save More - All Products](https://www.poopourri.com/collections/all-products)
+[Save up to 30% - Buy More Save More Sale](https://www.poopourri.com/collections/all-products)
 
 [![~Pourri](//pourri.com/cdn/shop/t/792/assets/pourri--logo-150.gif?v=92675186479064556311728545670)](https://www.poopourri.com/)
 
