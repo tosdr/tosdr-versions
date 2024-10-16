@@ -1,5 +1,3 @@
-Boost Your Wi-Fi Experience! Save up to 35% on Halloween Deals | [Shop Now](#)
-
 [![GL.iNet logo](/logo.svg)](https://www.gl-inet.com/)
 
 * [Home](https://www.gl-inet.com/)
