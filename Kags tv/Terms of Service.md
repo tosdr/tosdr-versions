@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KYTX/images/e549ba9d-88a0-4536-a2e3-fa91478c291f/20240701T172308/e549ba9d-88a0-4536-a2e3-fa91478c291f_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/e549ba9d-88a0-4536-a2e3-fa91478c291f/20240701T172308/e549ba9d-88a0-4536-a2e3-fa91478c291f_360x203.jpg)](https://www.kagstv.com/article/news/local/robert-roberson/501-69f00ae6-d345-4f9b-bcac-9f3d376533cf)
+    *  [![](https://media.kagstv.com/assets/KHOU/images/ece6f968-22e8-4e74-8bc5-3368b03baed0/20241016T191801/ece6f968-22e8-4e74-8bc5-3368b03baed0_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/ece6f968-22e8-4e74-8bc5-3368b03baed0/20241016T191801/ece6f968-22e8-4e74-8bc5-3368b03baed0_360x203.jpg)](https://www.kagstv.com/article/news/local/propane-explosion-fm-529-brookshire-waller-county-texas/285-acf418fc-454b-4af0-b405-a75f0c3e503b)
         
-        #### [Execution date for East Texas inmate convicted in 'shaken baby death' remains set for Thursday](https://www.kagstv.com/article/news/local/robert-roberson/501-69f00ae6-d345-4f9b-bcac-9f3d376533cf)
+        #### [Explosion reported at propane production facility in Brookshire, Waller County Sheriff's Office says](https://www.kagstv.com/article/news/local/propane-explosion-fm-529-brookshire-waller-county-texas/285-acf418fc-454b-4af0-b405-a75f0c3e503b)
         
-    *  [![](https://media.kagstv.com/assets/WTLV/images/536d34ca-3ab5-4ff0-b55f-0c71c6ced018/536d34ca-3ab5-4ff0-b55f-0c71c6ced018_16x9.jpg) ![](https://media.kagstv.com/assets/WTLV/images/536d34ca-3ab5-4ff0-b55f-0c71c6ced018/536d34ca-3ab5-4ff0-b55f-0c71c6ced018_360x203.jpg)](https://www.kagstv.com/article/traffic/franklin-pin-oak-road-culvert-replacement-oct-16-2024/500-f05312e2-4c4a-4d9e-b448-b2807d5376ca)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/bfc93b48-b9d9-4f82-87d6-98d8496851b6/20241016T153929/bfc93b48-b9d9-4f82-87d6-98d8496851b6_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/bfc93b48-b9d9-4f82-87d6-98d8496851b6/20241016T153929/bfc93b48-b9d9-4f82-87d6-98d8496851b6_360x203.jpg)](https://www.kagstv.com/article/news/local/bcso-looking-for-assistance-finding-stolen-wheelchair/500-724734d2-77d9-4d33-89f3-8d3cb4572fcf)
         
-        #### [Pin Oak Road in Franklin to temporarily close for culvert replacement](https://www.kagstv.com/article/traffic/franklin-pin-oak-road-culvert-replacement-oct-16-2024/500-f05312e2-4c4a-4d9e-b448-b2807d5376ca)
+        #### [Brazos County investigators looking to find unique stolen wheelchair](https://www.kagstv.com/article/news/local/bcso-looking-for-assistance-finding-stolen-wheelchair/500-724734d2-77d9-4d33-89f3-8d3cb4572fcf)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-59°
+72°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
