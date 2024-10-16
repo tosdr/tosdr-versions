@@ -3,8 +3,8 @@
 SmartNews Terms of Service
 ==========================
 
-Last Updated: September 1, 2023
--------------------------------
+Last Updated: October 15, 2024
+------------------------------
 
 Welcome to SmartNews! You are now reading the Terms of Service (the **“Terms”**) that serve as an agreement between you and SmartNews, Inc. (**“SmartNews,”** **“we,”** or **“us”**) for your use of our mobile device application (**“App”**), and our news mining and delivery services, accessible via our App. To make these Terms easier to read, our services, the Site and the App are collectively called the **“Services.”**
 
@@ -175,6 +175,16 @@ You may not assign or transfer these Terms, by operation of law or otherwise, wi
 Any notices or other communications provided by SmartNews under these Terms, including those regarding modifications to these Terms, will be given by posting to the Services.
 
 SmartNews’s failure to enforce any right or provision of these Terms will not be considered a waiver of such right or provision. The waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of SmartNews. Except as expressly set forth in these Terms, the exercise by either party of any of its remedies under these Terms will be without prejudice to its other remedies under these Terms or otherwise.
+
+Subscription Services
+---------------------
+
+From time to time, SmartNews may offer subscription-based services that provide enhanced or exclusive access to content, features, and other premium offerings. These subscription services are optional and are designed to deliver additional value beyond the standard user experience.
+
+The terms, pricing, and specific conditions for any subscription service will be presented when the offer is made and before any purchase is completed. You will have the opportunity to review and agree to these terms before subscribing. All subscription services are subject to our general Terms of Service, Privacy Policy, and any additional terms provided in connection with the subscription offer.
+
+  
+[Ads-Free Subscription Plan Terms of Use](https://www.smartnews.com/terms/us/ad-free)
 
 Contact Information
 -------------------
