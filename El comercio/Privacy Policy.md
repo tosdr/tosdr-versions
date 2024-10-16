@@ -31,6 +31,206 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Inamhi advierte sobre incremento de temperaturas en Ecuador
+===========================================================
+
+Esta alerta estará vigente hasta el 19 de octubre e incluye aumento de radiación. El Inmahi monitorea las condiciones atmosféricas.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![El Inamhi advierte sobre altas temperaturas hasta el 19 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/calor.jpg)
+
+El **Instituto Nacional de Meteorología** (Inamhi) dio a conocer las **previsiones sobre el clima** que tendrá Ecuador durante estos días.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este miércoles 16 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-miercoles-16-de-octubre.html "Así funciona el Pico y placa en Quito este miércoles 16 de octubre")
+* [Registro Civil atenderá este sábado 19 de octubre en jornada especial](https://www.elcomercio.com/actualidad/ecuador/registro-civil-atendera-este-sabado-19-de-octubre-en-jornada-especial.html "Registro Civil atenderá este sábado 19 de octubre en jornada especial")
+* [Rafael Correa es convocado por la Fiscalía para el caso Traición a la Patria](https://www.elcomercio.com/actualidad/politica/rafael-correa-es-convocado-por-la-fiscalia-para-el-caso-traicion-a-la-patria.html "Rafael Correa es convocado por la Fiscalía para el caso Traición a la Patria")
+
+Altas temperaturas diurnas
+--------------------------
+
+El Inamhi emitió la **advertencia meteorológica 53,** la cual advierte que se registrarán **altas y muy altas** temperaturas diurnas.
+
+La zona más afectada con este fenómeno será el **centro del Litoral,** donde se pueden presentar temperaturas máximas de hasta 35 grados centígrados. Así mismo, en la Amazonía la temperatura llegará a niveles muy altos y podrá **ser mayor a los 34 grados centígrados.**
+
+En la **región Interandina**, la temperatura subirá para provincias como **Pichincha, Tungurahua,** la parte norte de Chimborazo e Imbabura, Azuay y Loja. En esta región, se podrán alcanza**r temperaturas de hasta 26 grados** centígrados.
+
+Este clima está acompañado de **ráfagas de viento**, por lo que se pide precaución ante las condiciones favorables para el inicio y propagación de incendios favorables.
+
+Esta advertencia **estará vigente hasta el 19 de octubre**. El Inmahi monitorea constantemente las condiciones atmosféricas.
+
+Recomendaciones
+---------------
+
+Ante estas condiciones climáticas, es importante tomar **algunas precauciones**:
+
+* **Modifique sus rutinas diarias** y minimice la actividad intensa al aire libre.
+* Manténgase hidratado y **utilice protección solar**
+* Mantenga las habitaciones de su casa **frescas y ventiladas**
+* Ante el riesgo de **incendios forestales**, no encienda chispas o fuego en áreas rurales y forestales
+* **No arroje colillas** de cigarrillos ni fósforos encendidos
+* Si ve una columna de humo, **llame al 911**
+
+> [#AdvertenciaMeteorológica](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) #53 Del 16 al 19 de octubre: Se prevén Altas y Muy Altas Temperaturas e Índices de Radiación Ultravioleta en el día, con mayor énfasis en la  
+> región Amazónica, zonas puntuales del Callejón Interandino e interior del Litoral ☀️😎🥵  
+> ⚠️Tome precauciones [pic.twitter.com/GF3rIEARyC](https://t.co/GF3rIEARyC)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 16, 2024](https://twitter.com/inamhi_ec/status/1846380789413429687?ref_src=twsrc%5Etfw)
+
+Radiación extremadamente alta
+-----------------------------
+
+El Inamhi advierte **sobre los niveles de radiación altos** que se registrarán este miércoles 16 de octubre, como parte de las condiciones climáticas actuales.
+
+Esto se debe a la poca nubosidad en el cielo, lo que permite **el ingreso directo de los rayos solares** a la superficie de la Tierra, por ello, también la temperatura sube.
+
+Hoy, los niveles de **radiación serán extremadamente altos** para Pichincha, Imbabura, Cotopaxi y Tungurahua, que tendrán radiación en nivel 11.
+
+Bolívar, Chimborazo, Azuay, Loja y ciertas zonas de la Amazonía registrarán radiación en niveles muy altos. En cambio las provincias del Litoral, Cañar, Zamora Chinchipe y el centro de Morona y Pastaza tendrán índices altos.
+
+La **radiación ultravioleta causa graves daños a la piel,** entre ellos **quemaduras y manchas.** Además de daños oculares. Por ello te dejamos **algunos consejos**:
+
+* Evitar la exposición prolongada al sol, al menos hasta las 15:00.
+* Usar siempre protector solar.
+* Llevar un paraguas o sombrilla para protegerse del sol.
+* Usar gafas con protección UV.
+* Vestir ropa con mangas largas que cubran la piel.
+* Las gorras también son artículos prácticos para proteger la cara y cabeza del sol.
+* Consuma agua constantemente, manténgase [hidratado](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> [#RadiacionMaximaUVEc](https://twitter.com/hashtag/RadiacionMaximaUVEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta previsto para el miércoles 16 de octubre de 2024. [pic.twitter.com/3xXwO1BRcX](https://t.co/3xXwO1BRcX)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 15, 2024](https://twitter.com/inamhi_ec/status/1846304341235229027?ref_src=twsrc%5Etfw)
+
+Ecuador celebra el Día Mundial del Pan con sus propios manjares 
+================================================================
+
+El Día del Pan es una ocasión propicia para destacar su importancia cultural y nutricional.
+-------------------------------------------------------------------------------------------
+
+![A lo largo de la historia, el pan ha sido un alimento esencial y parte fundamental de la dieta en diversas culturas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-Mundial-del-Pan.jpg)
+
+El **Día Mundial del Pan** se celebra cada 16 de octubre, una fecha que **rinde homenaje a uno de los alimentos más antiguos** y esenciales en la historia de la humanidad.
+
+### Más noticias
+
+* [Descubre qué pan ecuatoriano está entre los cinco mejores del mundo](https://www.elcomercio.com/afull/pan-yuca-ecuador-ranking-top-mejor-mundo.html "https://www.elcomercio.com/afull/pan-yuca-ecuador-ranking-top-mejor-mundo.html") 
+* [No le tenga miedo al pan; también aporta nutrientes](https://www.elcomercio.com/tendencias/pan-aporta-nutrientes-salud-harina.html "https://www.elcomercio.com/tendencias/pan-aporta-nutrientes-salud-harina.html")
+
+Este día fue establecido en 2006 por la **Unión Internacional de Panaderos y Pasteleros**, y coincide con el **Día Mundial de la Alimentación**, para resaltar la importancia del pan en la dieta humana y su valor nutricional, a decir de [Marketresearchtelecast](https://marketresearchtelecast.com/world-bread-day-why-is-it-celebrated-on-october-16/179725/ "https://marketresearchtelecast.com/world-bread-day-why-is-it-celebrated-on-october-16/179725/"). 
+
+**Historia del pan: un alimento milenario** 
+--------------------------------------------
+
+El pan ha sido **un alimento básico desde tiempos inmemoriales**. Su historia se remonta a más de 10 000 años, cuando **las primeras civilizaciones comenzaron a cultivar cereales** y a experimentar con la fermentación. Este proceso dio lugar al pan que conocemos hoy, un alimento que ha evolucionado con el tiempo y que ha sido **parte integral de la dieta de innumerables culturas**, según la web [Paralelo 32](https://www.paralelo32.com.ar/dia-mundial-del-pan-celebrando-un-alimento-ancestral-que-evoluciona-con-el-tiempo "https://www.paralelo32.com.ar/dia-mundial-del-pan-celebrando-un-alimento-ancestral-que-evoluciona-con-el-tiempo"). 
+
+**El pan en la cultura y la tradición** 
+----------------------------------------
+
+El pan no solo es un alimento, sino también **un símbolo cultural**. En muchas culturas, **el pan es sinónimo de hospitalidad y comunidad**. En países como Francia, el pan es un elemento central en la mesa, mientras que, en otras regiones, como el Medio Oriente, **el pan se utiliza como utensilio para comer**. Esta diversidad cultural refleja la adaptabilidad y la importancia del pan en la vida diaria, de acuerdo con [Salpimienta](https://salpimenta.com.ar/dia-mundial-del-pan-historia-y-receta/ "https://salpimenta.com.ar/dia-mundial-del-pan-historia-y-receta/"). 
+
+**El valor nutricional del pan** 
+---------------------------------
+
+El pan es **una fuente importante de carbohidratos, fibra y proteínas**. Aporta energía y nutrientes esenciales que son fundamentales para **una dieta equilibrada**. Sin embargo, **es importante elegir panes integrales y de grano entero** para maximizar sus beneficios nutricionales. Este día también busca concienciar sobre la **importancia de consumir pan de calidad** y de manera responsable, según [Radio Pauta](https://www.pauta.cl/dato-en-pauta/2023/10/16/dia-mundial-del-pan-por-que-se-celebra-y-de-que-se-trata.html "https://www.pauta.cl/dato-en-pauta/2023/10/16/dia-mundial-del-pan-por-que-se-celebra-y-de-que-se-trata.html"). 
+
+**El pan aporta vitaminas del grupo B**, carbohidratos, una cantidad reducida de proteínas y minerales como fósforo, potasio y magnesio. La **Organización Mundial de la Salud**, citada por [El Mundo](https://www.elmundo.es/yodona/vida-saludable/2023/12/09/656f2cbfe85ece0c658b4576.html "https://www.elmundo.es/yodona/vida-saludable/2023/12/09/656f2cbfe85ece0c658b4576.html"), indica que **se puede consumir hasta 250 gramos de pan al día** como parte de una dieta equilibrada.   
+
+**Los mejores panes ecuatorianos** 
+-----------------------------------
+
+### **El pan de Ambato**  
+
+Conocido por su suavidad y sabor ligeramente dulce, el **pan de Ambato** es uno de los más populares del país. Su secreto está en la **levadura natural** y la calidad de los ingredientes. Su variedad más conocida es el **Tapado**.   
+
+### **El pan de Pinllo**   
+
+Con más de 100 años de tradición, el **pan de Pinllo** es un tesoro culinario. Su masa esponjosa y su corteza crujiente lo convierten en un favorito de los ecuatorianos. ¡Un sabor que evoca nostalgia!  
+
+### **Pan de yuca**  
+
+**Originario de Manabí**, el **pan de yuca** es una deliciosa alternativa al pan tradicional. Está elaborado con harina de yuca. **Taste Atlas** lo ubicó entre los cinco mejores ‘bread rolls’ (panecillos) del mundo.  
+
+### **Las cholas de Guano**  
+
+Las ‘cholitas’ van bien con cualquier bebida caliente. **Elaboradas artesanalmente en hornos de leña**, su sabor único se debe a una receta local y a los ingredientes naturales, como su relleno de panela.   
+
+### **Las allullas de Cotopaxi**  
+
+Las **allullas** son un manjar de la Sierra ecuatoriana. ️ Estos **panes redondos abizcochados**, ideales para el desayuno, son elaborados con harina de trigo, sal, azúcar, leche y manteca de cerdo. Se las acompaña de **queso de hoja**.   
+
+### **Las guaguas de pan**   
+
+Las **guaguas de pan** son un símbolo de la cultura ecuatoriana. Elaboradas con harina de trigo, azúcar y especias, representan a un niño envuelto en pañales y son las preferidas durante el **Día de los Difuntos**.  
+
+Así funciona el Pico y placa en Quito este miércoles 16 de octubre
+==================================================================
+
+Cuatro contraflujos se realizan como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
+-------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan el cuplimiento de la medida.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-y-placa-Q.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
+
+### Más noticias
+
+* [Contraflujo de la av. Guayasamín se desvía hacia otra calle de Quito](https://www.elcomercio.com/actualidad/quito/contraflujo-av-guayasamin-quito-se-desvia-hacia-otra-via.html "Contraflujo de la av. Guayasamín se desvía hacia otra calle de Quito")
+* [Esto pagaron por el trono de hierro de ‘Game of Thrones’](https://www.elcomercio.com/tendencias/entretenimiento/esto-pagaron-por-trono-de-hierro-de-game-of-thrones.html "Esto pagaron por el trono de hierro de ‘Game of Thrones’")
+* [Gobierno entrega licencias ambientales para proyectos de energía renovable](https://www.elcomercio.com/actualidad/negocios/gobierno-entrega-licencias-ambientales-para-proyectos-de-energia-renovable.html "Gobierno entrega licencias ambientales para proyectos de energía renovable")
+
+¿Cómo se aplica el Pico y placa?
+--------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+
+–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+
+Mañana: 06:30 a 07:00 y de 07:30 a 08:00
+
+Tarde: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
+
+Mañana: 06:30 a 07:30 y de 08:00 a 08:30
+
+Tarde: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+Mañana: 06:00 a 08:30
+
+Tarde: 17:00 a 19:00
+
+– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
+
+Mañana: 07:00 a 08:30
+
+Tarde: de 16:00 a 19:30
+
+Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
+>   
+> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
+>   
+> 🤝 Juntos llegamos sin contratiempos.  
+>   
+> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/JbmcoDiLXo](https://t.co/JbmcoDiLXo)
+> 
+> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846127122865086732?ref_src=twsrc%5Etfw)
+
 Que la prevención de los siniestros de tránsito no se detenga en Quito
 ======================================================================
 
@@ -63,6 +263,42 @@ El control al estado de los vehículos y la calidad de las calzadas son contrapa
 
 Esto significa que las autoridades, no solo municipales, tienen múltiples opciones para enfocarse en la reducción de las víctimas, sean fatales o lesionadas, por los siniestros de tránsito. 
 
+Trece descaminados
+==================
+
+Proliferación de candidatos como un reflejo del infantilismo político.
+----------------------------------------------------------------------
+
+![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
+
+De los **16 candidatos** a la presidencia de la República, 3 tendrían posibilidades de ser elegidos: Noboa, González y Topic. Los 13 restantes: Cucalón, Iza, Rabascal, Saquicela, Jairala, Escala, González-Nader, Kronfle, Araus, Tillería, Tabacchi, Granja y Cueva, están por el “**honor**” de ser **candidatos**, porque sus **grupos** o **partidos** les exigen serlo, o porque los dueños de esos **grupos** o partidos -a quienes interesa llegar a la **Asamblea**– encontraron personas dispuestas a enfrentar la **campaña** a cambio de ver sus nombres en los **medios** de **comunicación** y en la **papeleta electoral**.
+
+**16 candidatos** a la **presidencia** son muestra del **infantilismo político** del país y la molestia del **ciudadano** común por concurrir a las urnas porque la **ley** le obliga, pero sin interés en el **destino** de la nación. Le da lo mismo que se elija a uno o a otro, porque, en su criterio, todos los **políticos** son iguales y ninguno le resolverá sus **problemas**.
+
+Por cierto, la **proliferación** de **partidos** y grupos es consecuencia del **interés** del correísmo por facilitar su creación y así lograr que sus **candidatos** obtengan al menos la **primera minoría** en los cuerpos colegiados, especialmente en la **Asamblea Legislativa**. Así podrá extorsionar al gobierno de turno.
+
+Según varias encuestas -sin desconocer su **valor relativo** – el **presidente candidato** ocupa el primer lugar en la intención de **voto**, seguido de la **candidata** del correísmo y, a marcada distancia, el rambo ecuatoriano. Las posibilidades de Noboa son evidentes, pese a los crasos errores del **gobierno**, la **inseguridad** que no puede ser doblegada, la falta de **empleo** y el **estancamiento económico**; todo ello agravado con los **apagones** de 10 horas diarias que están destruyendo la **estabilidad** de la **economía**, el empleo, el desarrollo de los **negocios**, en suma, la vida de los **ciudadanos**.
+
+Sobre la **candidata** correísta pesa una enorme loza del **prófugo** en **Bélgica**, que dedica las 24 horas del día a insultar a quienes opinan sobre su **situación** y la **corrupción** de los 10 años de su gobierno. La **prohibición** de i**ngresar a los Estados Unidos** para el **caudillo** y su segundo por “su participación en **actos de corrupción** significativos durante su **mandato**” torna casi imposible la elección de González.
+
+Y la condición de outsider del rambo en las últimas **elecciones**, en las que fue elegido otro outsider, no se podrá repetir. No hay segunda vez de outsider, como no hay **segunda virginidad**.
+
+No son elegibles
+================
+
+EE.UU. prohibió el ingreso de Rafael Correa y Jorge Glas por corrupción.
+------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+No se trata de los **requisitos** para ser elegibles en un **proceso electoral**.  De las inhabilidades e **incompatibilidades** se refiere la **constitución** y la ley electoral. Se trata de la decisión del Departamento de Estado de los EE.UU. anunciada el 9 de octubre, que determinó la prohibición para Rafael Correa, Jorge Glas y sus familiares en primer grado de consanguinidad, de ingresar a **territorio estadounidense**; «_debido a su implicación con actos significativos de corrupción durante su ejercicio como funcionarios públicos_». Así lo afirmó el secretario de Estado.
+
+Las **autoridades norteamericanas** dicen que los actos provocados por Correa y Glas, «_socavaron los procesos gubernamentales justos y transparentes. Estados Unidos respalda al pueblo ecuatoriano en su reclamo de un gobierno transparente que cumpla con sus ciudadanos_». Es evidente, disponen de **abundante información** comprobada y auténtica de los casos de **cohecho**, **sobornos** y otros delitos de un régimen y su **deriva autoritaria** y **corrupta**.  
+
+El expresidente Correa ha calificado esta **decisión** de «canalla», «infamia», una «_torpe política exterior gringa que radicaliza hasta personas como yo…»_. En correspondencia con su descomunal ego, creyéndose ser el ombligo del universo, en un comunicado: «_A mi patria, a Latinoamérica y al Mundo»_, repite su agonístico **discurso** en el que se **victimiza** y niega la realidad. Pero no hay **espacio** para la duda.  Fue y es el líder de uno de los **regímenes** más podridos que registra la **historia**. Pretende restar **relevancia** a la **decisión norteamericana**, afirmando que huele a una **operación política** y busca perjudicarle en el **proceso** **electoral** del 2025.
+
+A la **condición** de no elegibles para ingresar a los EE.UU., Correa y Glas fueron **procesados y sentenciados** por la **justicia ecuatoriana** en el caso sobornos 2012-2016;  se debe añadir, el **duro castigo refrendado** por el 74% de los **electores**, en la **consulta popular** del 4 de febrero de 2018, convocada por el presidente Lenin Moreno, que legitimó la **enmienda constitucional** que sanciona a los **condenados por corrupción,** con su **inhabilitación**  para participar en la **vida política del país**, incluida la pérdida de sus bienes. Correa está cada vez más arrinconado. Sabe que lo peor para él estaría por venir.
+
 Cartas a Quito / 16 de octubre de 2024
 ======================================
 
@@ -87,42 +323,6 @@ El conocimiento y la tecnología no tienen ideología, las ideologías, cuando d
 Lo que estamos viviendo con los apagones, no es cuestión solamente de la falta de acción del gobierno actual (que también ha cometido muchos errores), sino consecuencia de planificaciones anteriores fallidas, mediocres y de presupuestos consumidos con anticipación, sin prever las consecuencias de la disposición de fondos, de manera anticipada, dejando carentes de ingresos a los gobiernos que les sucedieron, para tener los argumentos de criticarlos por la falta de inversión.
 
 José M. Jalil Haas
-
-No son elegibles
-================
-
-EE.UU. prohibió el ingreso de Rafael Correa y Jorge Glas por corrupción.
-------------------------------------------------------------------------
-
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
-
-No se trata de los **requisitos** para ser elegibles en un **proceso electoral**.  De las inhabilidades e **incompatibilidades** se refiere la **constitución** y la ley electoral. Se trata de la decisión del Departamento de Estado de los EE.UU. anunciada el 9 de octubre, que determinó la prohibición para Rafael Correa, Jorge Glas y sus familiares en primer grado de consanguinidad, de ingresar a **territorio estadounidense**; «_debido a su implicación con actos significativos de corrupción durante su ejercicio como funcionarios públicos_». Así lo afirmó el secretario de Estado.
-
-Las **autoridades norteamericanas** dicen que los actos provocados por Correa y Glas, «_socavaron los procesos gubernamentales justos y transparentes. Estados Unidos respalda al pueblo ecuatoriano en su reclamo de un gobierno transparente que cumpla con sus ciudadanos_». Es evidente, disponen de **abundante información** comprobada y auténtica de los casos de **cohecho**, **sobornos** y otros delitos de un régimen y su **deriva autoritaria** y **corrupta**.  
-
-El expresidente Correa ha calificado esta **decisión** de «canalla», «infamia», una «_torpe política exterior gringa que radicaliza hasta personas como yo…»_. En correspondencia con su descomunal ego, creyéndose ser el ombligo del universo, en un comunicado: «_A mi patria, a Latinoamérica y al Mundo»_, repite su agonístico **discurso** en el que se **victimiza** y niega la realidad. Pero no hay **espacio** para la duda.  Fue y es el líder de uno de los **regímenes** más podridos que registra la **historia**. Pretende restar **relevancia** a la **decisión norteamericana**, afirmando que huele a una **operación política** y busca perjudicarle en el **proceso** **electoral** del 2025.
-
-A la **condición** de no elegibles para ingresar a los EE.UU., Correa y Glas fueron **procesados y sentenciados** por la **justicia ecuatoriana** en el caso sobornos 2012-2016;  se debe añadir, el **duro castigo refrendado** por el 74% de los **electores**, en la **consulta popular** del 4 de febrero de 2018, convocada por el presidente Lenin Moreno, que legitimó la **enmienda constitucional** que sanciona a los **condenados por corrupción,** con su **inhabilitación**  para participar en la **vida política del país**, incluida la pérdida de sus bienes. Correa está cada vez más arrinconado. Sabe que lo peor para él estaría por venir.
-
-Trece descaminados
-==================
-
-Proliferación de candidatos como un reflejo del infantilismo político.
-----------------------------------------------------------------------
-
-![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
-
-De los **16 candidatos** a la presidencia de la República, 3 tendrían posibilidades de ser elegidos: Noboa, González y Topic. Los 13 restantes: Cucalón, Iza, Rabascal, Saquicela, Jairala, Escala, González-Nader, Kronfle, Araus, Tillería, Tabacchi, Granja y Cueva, están por el “**honor**” de ser **candidatos**, porque sus **grupos** o **partidos** les exigen serlo, o porque los dueños de esos **grupos** o partidos -a quienes interesa llegar a la **Asamblea**– encontraron personas dispuestas a enfrentar la **campaña** a cambio de ver sus nombres en los **medios** de **comunicación** y en la **papeleta electoral**.
-
-**16 candidatos** a la **presidencia** son muestra del **infantilismo político** del país y la molestia del **ciudadano** común por concurrir a las urnas porque la **ley** le obliga, pero sin interés en el **destino** de la nación. Le da lo mismo que se elija a uno o a otro, porque, en su criterio, todos los **políticos** son iguales y ninguno le resolverá sus **problemas**.
-
-Por cierto, la **proliferación** de **partidos** y grupos es consecuencia del **interés** del correísmo por facilitar su creación y así lograr que sus **candidatos** obtengan al menos la **primera minoría** en los cuerpos colegiados, especialmente en la **Asamblea Legislativa**. Así podrá extorsionar al gobierno de turno.
-
-Según varias encuestas -sin desconocer su **valor relativo** – el **presidente candidato** ocupa el primer lugar en la intención de **voto**, seguido de la **candidata** del correísmo y, a marcada distancia, el rambo ecuatoriano. Las posibilidades de Noboa son evidentes, pese a los crasos errores del **gobierno**, la **inseguridad** que no puede ser doblegada, la falta de **empleo** y el **estancamiento económico**; todo ello agravado con los **apagones** de 10 horas diarias que están destruyendo la **estabilidad** de la **economía**, el empleo, el desarrollo de los **negocios**, en suma, la vida de los **ciudadanos**.
-
-Sobre la **candidata** correísta pesa una enorme loza del **prófugo** en **Bélgica**, que dedica las 24 horas del día a insultar a quienes opinan sobre su **situación** y la **corrupción** de los 10 años de su gobierno. La **prohibición** de i**ngresar a los Estados Unidos** para el **caudillo** y su segundo por “su participación en **actos de corrupción** significativos durante su **mandato**” torna casi imposible la elección de González.
-
-Y la condición de outsider del rambo en las últimas **elecciones**, en las que fue elegido otro outsider, no se podrá repetir. No hay segunda vez de outsider, como no hay **segunda virginidad**.
 
 ‘Alas de Belleza’, así se vivió el Victoria’s Secret Fashion Show 2024
 ======================================================================
@@ -838,143 +1038,3 @@ Alineaciones de la Selección de Ecuador y Uruguay
 **Selección de Ecuador:** Hernán Galíndez; Félix Torres, Piero Hincapié, Willian Pacho; Angelo Preciado, Pervis Estupiñán, Alan Franco y Moisés Caicedo; Gonzalo Plata, Alan Minda y Enner Valencia.
 
 **Selección de Uruguay:** Sergio Rochet; Mathías Olivera, Santiago Bueno, José María Giménez y Nahitan Nández; Giorgian De Arrascaeta, Manuel Ugarte Ribeiro y Federico Valverde; Maximiliano Araújo, Facundo Pellistri y Darwin Núñez.
-
-Moisés Caicedo jugó su partido 50 y fue suspendido
-==================================================
-
-Moisés Caicedo jugó su primer partido con la Selección de Ecuador en septiembre de 2020 ante Argentina en Buenos Aires.
------------------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo con la Selección de Ecuador en las eliminatorias al Mundial 2026 en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/moi_cincuenta_2.jpg)
-
-**Moisés Caicedo** completó el medio centenar de partidos con la camiseta de la Selección de Ecuador la noche de este martes 15 de octubre de 2024, en el mítico estadio Centenario de Montevideo.
-
-El partido en el que **Moisés Caicedo agrandó más su estadística en la Selección de Ecuador** correspondió a la décima fecha de las eliminatorias al Mundial que en el 2026 lo organizarán de manera compartida Canadá, Estados Unidos y México.
-
-### Más noticias:
-
-* [Colombia y Ecuador jugarán en un nuevo horario por las eliminatorias al Mundial 2026](https://www.elcomercio.com/deportes/futbol/colombia-ecuador-nuevo-horario-eliminatorias-mundial2026.html "Colombia y Ecuador jugarán en un nuevo horario por las eliminatorias al Mundial 2026")
-* [Sebastián Beccacece y su admiración por Bielsa, más allá de lo táctico](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-admiracion-marcelo-bielsa-ecuador.html "Sebastián Beccacece y su admiración por Bielsa, más allá de lo táctico")
-* [Mbappé califica de “fake news” una investigación en Estocolmo](https://www.elcomercio.com/deportes/futbol/kylian-mbappe-violacion-denuncia-suecia.html "Mbappé califica de “fake news” una investigación en Estocolmo")
-
-Caicedo se afianza como el quinto jugador con más partidos en la actual Selección, que tiene a **Enner Valencia con el de más presencias con 93**, muy cerca de ingresar al reducido grupo de ecuatorianos con 100 partidos con el combinado nacional.
-
-En el actual plantel el que le sigue con más partidos es **Angelo Preciado (Sparta Praga) que tiene 46** y está próximo a alcanzar la marca que esta noche implantó el ‘Niño Moi’.
-
-**Alan Franco (Atlético Mineiro) completa el podio con 44** presencias y, por edad, tiene un largo margen para seguir sumando más convocatorias y minutos con la Tri.
-
-Alexander Domínguez (Liga de Quito) con 78, **Carlos Gruezo (San Jose Earthquakes) con 64**, y Ángel Mena (Pachuca) con 61, que no entraron en la última convocatoria de Sebastián Beccacece, son los que más encuentros sumaron en los últimos 15 años.
-
-Caicedo acarrea suspensión
---------------------------
-
-A los **37 minutos del primer tiempo Moisés Caicedo** recibió una tarjeta amarilla por parte del árbitro chileno Cristián Marcelo Garay Reyes, que le indicó que la amonestación fue por una acumulación de infracciones.
-
-Esta tarjeta le impedirá al mediocampista del **Chelsea jugar ante Bolivia en la fecha 11**, que está programado para el jueves 14 de noviembre, desde las 19:00, en el estadio Monumental de Barcelona Sporting Club.
-
-La primera amarilla de **Caicedo fue en el empate 0-0 ante Paraguay** en la jornada nueve en el Rodrigo Paz Delgado.
-
-La tarde del jueves 10, por reclamos, **el exIndependiente del Valle fue amonestado** por el brasileño **Raphael Claus**, a los 32 minutos del primer tiempo.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/moi_cincuenta_1-1024x683.jpg)
-
-Foto: API.
-
-Moisés Caicedo en números
--------------------------
-
-Partidos de eliminatorias: 25
-
-Partidos amistosos: 13
-
-Partidos de Copa América: 9
-
-Partidos en Mundial: 3
-
-Minutos: 4 242
-
-No te pierdas – El Confesionario
---------------------------------
-
-Cortes de luz en Quito este miércoles 16 de octubre
-===================================================
-
-Los cortes de luz en Quito para este miércoles 16 de octubre se distribuyen en franjas hasta completar 10 horas.
-----------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito para este miércoles 16 de octubre son de hasta 10 horas.](https://www.elcomercio.com/wp-content/uploads/2024/05/luz-19-mayo.jpg)
-
-Los **cortes de luz** en **Quito** se mantienen para este **miércoles 16 de octubre** en 10 horas, divididas en franjas, de acuerdo al sector[.](https://es.wikipedia.org/wiki/Quito)
-
-La **Empresa Eléctrica Quito** definió los horarios de cortes de luz en la capital.
-
-### Más noticias:
-
-* [Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules](https://www.elcomercio.com/actualidad/negocios/ines-manzano-transporte-soluciones-moviles-energia-aviones-hercules.html "Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules")
-* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
-
-La cuarta semana de cortes de luz en todo el país transcurre con nuevos anuncios de las autoridades del Gobierno, en busca de superar la crisis energética.
-
-**Inés Manzano**, ministra de Energía encargada, informó sobre dos decisiones del Gobierno al respecto.
-
-La primera es el transporte de **soluciones móviles** de energía en **aviones Hércules**.
-
-La segunda es la suspensión de la **segunda barcaza** por temas técnicos.
-
-Cortes de luz en la capital este miércoles 16 de octubre
---------------------------------------------------------
-
-El Gobierno tiene previsto que la suspensión de energía eléctrica lleguen hasta fines de año y que para diciembre sean mínimos.
-
-Mientras tanto, los cortes de luz se mantienen en todo el país y tienen una duración de hasta diez horas.
-
-Las empresas eléctricas del país mantienen el anuncio de que las horas de los cortes de luz podrían reducirse, dependiendo de la situación hídrica.
-
-A continuación los cortes de luz en Quito, para este miércoles 16 de octubre:
-
-Ministerio de Energía anunció un cambio en la Dirección del Cenace
-==================================================================
-
-El Operador Nacional de Electricidad (Cenace) tiene un nuevo Director Ejecutivo desde este martes 15 de octubre.
-----------------------------------------------------------------------------------------------------------------
-
-![El nuevo Director Ejecutivo tiene más de 10 años de experiencia en el sistema eléctrico de Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/10/cenace-director.jpg)
-
-El Ministerio de Energía y Minas designó a un nuevo **Director Ejecutivo** para el Operador Nacional de Electricidad (**Cenace**).
-
-La decisión fue tomada tras un acuerdo ministerial suscrito por la ministra encargada, **Inés Manzano**, este martes 15 de octubre de 2024.
-
-### Más noticias
-
-* [Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito](https://www.elcomercio.com/actualidad/quito/cortes-energia-suman-2024-fatal-restaurantes-quito.html "Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito")
-* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
-* [Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz](https://www.elcomercio.com/actualidad/gobierno-de-daniel-noboa-abre-procesos-para-centrales-termoelectricas-por-cortes-de-luz.html "Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz")
-
-El Cenace es responsable de la **operación técnica** del Sistema Nacional Interconectado y de la administración comercial de las transacciones de electricidad en Ecuador.
-
-¿Quién es el nuevo Director Ejecutivo de Cenace?
-------------------------------------------------
-
-Quien liderara la Dirección Ejecutiva del Cenace es **Javier Medina Abarca**, un ingeniero con más de **10 años de experiencia** en el sector eléctrico.
-
-De acuerdo con la información dada por la cartera de Estado, Medina se desempeñó como Director de Planificación Eléctrica, Coordinador y Analista de Planificación en la Corporación Nacional de Electricidad (**CNEL**).
-
-En esta institución pública desarrolló proyectos a cargo de la Gerencia de Planificación, siendo responsable de la organización del sistema eléctrico de distribución en el área de servicio en **Manabí**, entre otras funciones.
-
-Javier Medina también trabajó como Director Técnico en la Empresa Eléctrica de **Galápagos**.
-
-### Estudios
-
-Académicamente, el funcionario se formó como **ingeniero en Electricidad** en la Escuela Superior Politécnica del Litoral (**Espol**).
-
-Luego obtuvo una **maestría** en Electricidad con mención en Sistemas Eléctricos en la Universidad Politécnica Salesiana (UPS) y un **diplomado** en Compras y Contrataciones del Estado en la Universidad Católica de Santiago de Guayaquil (UCSG).
-
-Este cambio en las instituciones encargadas del servicio eléctrico en Ecuador se suma al de **Fabián Calero**, exgerente de la Corporación Eléctrica del Ecuador (Celece) que dejó su cargo para ser **Viceministro de Energía** desde el jueves 10 de octubre.
-
-> 📍 \[COMUNICADO OFICIAL\]  
->   
-> 📌 Informamos a la ciudadanía sobre la designación del nuevo Director Ejecutivo del Operador Nacional de Electricidad – CENACE  
->   
-> ↘️Más Detalles: [https://t.co/uxGBWTq4Ih](https://t.co/uxGBWTq4Ih) [pic.twitter.com/C26zXELSHi](https://t.co/C26zXELSHi)
-> 
-> — CENACE (@OperadorCenace) [October 15, 2024](https://twitter.com/OperadorCenace/status/1846296112866775483?ref_src=twsrc%5Etfw)
