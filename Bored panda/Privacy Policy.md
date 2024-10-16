@@ -4,6 +4,22 @@ Bored Panda works better on our iPhone app
 
 [Continue in app](https://itunes.apple.com/app/apple-store/id1001593357?pt=117833574&ct=Website%20Takeover&mt=8) [Continue in browser](javascript:void(0);)
 
+[![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-close-modal.svg)](javascript:void(0))
+
+Get Premium
+
+Dark mode theme is available exclusively for premium users. Learn more about the benefits of subscribing.
+
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Dark Mode
+
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Ad-Free Browsing
+
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Unlimited Content
+
+[Upgrade now](https://www.boredpanda.com/premium/)
+
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-clock-modal.svg) No fees, cancel anytime
+
 [_Modal close_](javascript:void(0))
 
 Are you sure you want to post this?
