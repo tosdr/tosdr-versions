@@ -75,10 +75,10 @@ Use our tool to identify gender-coded terms in your job ads and suggest bias-fre
 
 A destination for data-driven insights to make sense of an evolving world of work.](https://recruitonomics.com/?__hstc=43218810.e453894e772a8c99aa3c908ab843ac5b.1704366722756.1716496368105.1716545377374.109&__hssc=43218810.2.1716545377374&__hsfp=4137284348)
 
-[Upcoming Webinar
-----------------
+[On-Demand Webinar
+-----------------
 
-##### How the US Election Could Shape Your 2025 Recruitment Strategy](https://info.appcast.io/webinar/how-the-us-election-could-shape-your-2025-recruitment-strategy?lead_source__n_=Appcast%20Website&utm_medium=Website&utm_source=Website&utm_campaign=&utm_content=&utm_term=) 
+##### How the US Election Could Shape Your 2025 Recruitment Strategy](https://info.appcast.io/on-demand-webinar/how-the-us-could-shape-your-2025-recruitment-strategy?lead_source__n_=Appcast%20Website&utm_medium=Website&utm_source=Website&utm_campaign=&utm_content=&utm_term=) 
 
 [login](https://premium.appcast.io/user_sessions/new)
 
