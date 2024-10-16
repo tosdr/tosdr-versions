@@ -22,7 +22,7 @@ Buy
 
 [All Deals](https://www.401gold.ca/product-category/deals/)[Gold](https://www.401gold.ca/product-category/deals/deals-gold/)[Silver](https://www.401gold.ca/product-category/deals/deals-silver/)
 
-[All Gold](https://www.401gold.ca/product-category/gold/)[Gold Bars](https://www.401gold.ca/product-category/gold/gold-bars/)[Gold Coins](https://www.401gold.ca/product-category/gold/gold-coins/)[Epic Gold](https://www.401gold.ca/product-category/gold/epic-gold/)[Gold Collectibles](https://www.401gold.ca/product-category/gold/gold-collectibles-gold/)[Vintage Gold](https://www.401gold.ca/product-category/gold/vintage-gold/)
+[All Gold](https://www.401gold.ca/product-category/gold/)[New Gold Bullion](https://www.401gold.ca/product-category/gold/gold-new/)[Gold Bars](https://www.401gold.ca/product-category/gold/gold-bars/)[Gold Coins](https://www.401gold.ca/product-category/gold/gold-coins/)[Epic Gold](https://www.401gold.ca/product-category/gold/epic-gold/)[Gold Collectibles](https://www.401gold.ca/product-category/gold/gold-collectibles-gold/)[Vintage Gold](https://www.401gold.ca/product-category/gold/vintage-gold/)
 
 [Royal Canadian Mint](https://www.401gold.ca/product-category/gold/gold-royal-canadian-mint/)
 
@@ -30,11 +30,11 @@ Buy
 
 [US Mint](https://www.401gold.ca/product-category/gold/gold-us-mint/)[Other Mints](https://www.401gold.ca/product-category/gold/gold-other-mints/)
 
-[All Silver](https://www.401gold.ca/product-category/silver/)[Silver Bars](https://www.401gold.ca/product-category/silver/silver-bars/)[Vintage Silver Bars](https://www.401gold.ca/product-category/silver/vintage-silver-bars)[Silver Rounds](https://www.401gold.ca/product-category/silver/silver-coins-rounds/)[1 kilo SILVER](https://www.401gold.ca/product-category/silver/?filter_weight=1-kilo)[100 oz SILVER](https://www.401gold.ca/product-category/silver/?filter_weight=100-oz)[10 oz SILVER](https://www.401gold.ca/product-category/silver/?filter_weight=10-oz)[5 oz SILVER](https://www.401gold.ca/product-category/silver/?filter_weight=5-oz)
+[All Silver](https://www.401gold.ca/product-category/silver/)[New Silver Bullion](https://www.401gold.ca/product-category/silver/silver-new/)[Silver Bars](https://www.401gold.ca/product-category/silver/silver-bars/)[Vintage Silver Bars](https://www.401gold.ca/product-category/silver/vintage-silver-bars)[Silver Rounds](https://www.401gold.ca/product-category/silver/silver-coins-rounds/)[1 kilo SILVER](https://www.401gold.ca/product-category/silver/?filter_weight=1-kilo)[100 oz SILVER](https://www.401gold.ca/product-category/silver/?filter_weight=100-oz)[10 oz SILVER](https://www.401gold.ca/product-category/silver/?filter_weight=10-oz)[5 oz SILVER](https://www.401gold.ca/product-category/silver/?filter_weight=5-oz)
 
 [Royal Canadian mint](https://www.401gold.ca/product-category/silver/silver-royal-canadian-mint/)[Maple Leaf Coins](https://www.401gold.ca/product-category/silver/silver-royal-canadian-mint/silver-maple-leaf-coins/)[Collectibles](https://www.401gold.ca/product-category/silver/silver-royal-canadian-mint/silver-rcm-collectibles/)[Masters Club](https://www.401gold.ca/product-category/silver/silver-royal-canadian-mint/silver-masters-club/)[Pre 1967 Silver](https://www.401gold.ca/product-category/silver/silver-royal-canadian-mint/silver-rcm-old-currency/)[Specimen / Proof Sets](https://www.401gold.ca/product-category/silver/silver-royal-canadian-mint/silver-rcm-specimen-sets/)[US Mint](https://www.401gold.ca/product-category/silver/silver-us-mint/)[American Silver Eagles](https://www.401gold.ca/product-category/silver/silver-us-mint/silver-us-silver-eagles/)[Morgan Silver Dollars](https://www.401gold.ca/product-category/silver/morgan-silver-dollars/)[Peace Dollars](https://www.401gold.ca/product-category/silver/peace-dollars/)[European Mints](https://www.401gold.ca/product-category/silver/silver-european-mints/)[Australiasian Mints](https://www.401gold.ca/product-category/silver/silver-australasian-mints/)[Other Mints](https://www.401gold.ca/product-category/silver/silver-other-mints/)
 
-[All Platinum](https://www.401gold.ca/product-category/platinum/)[Bars](https://www.401gold.ca/product-category/platinum/platinum-bars/)[Coins](https://www.401gold.ca/product-category/platinum/platinum-coins/)
+[All Platinum](https://www.401gold.ca/product-category/platinum/)[New Platinum Bullion](https://www.401gold.ca/product-category/platinum/platinum-new/)[Bars](https://www.401gold.ca/product-category/platinum/platinum-bars/)[Coins](https://www.401gold.ca/product-category/platinum/platinum-coins/)
 
 [All Rhodium](https://www.401gold.ca/product-category/rhodium/)
 
@@ -213,8 +213,8 @@ Hours of Operation
 |     |     |
 | --- | --- |
 | Mon - Fri | 10am – 6pm |
-| Sat | 11am – 4pm |
-| Sun | Closed |
+| Sat | 10am – 5pm |
+| Sun | 12pm – 4pm |
 
 Toronto
 
