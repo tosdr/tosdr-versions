@@ -56,6 +56,10 @@ Connexion
     ](https://assets.afcdn.com/recipe/20241008/154532_origin.svg)
     
     Les Jours Les Plus Food](https://www.marmiton.org/dossier-les-jours-les-plus-food)
+* [![100% Fromages
+    ](https://assets.afcdn.com/recipe/20241016/154733_origin.png)
+    
+    100% Fromages](https://www.marmiton.org/focus-ingredient/cent-pour-cent-fromage-tp121946.html)
 * [![Petit-déj gourmand
     ](https://assets.afcdn.com/recipe/20241008/154533_origin.svg)
     
@@ -63,7 +67,7 @@ Connexion
 * [![Actus
     ](https://assets.afcdn.com/recipe/20241008/154531_origin.svg)
     
-    Actus](https://www.marmiton.org/cuisine-rapide/actus-food-tp123982.html) 
+    Actus](https://www.marmiton.org/cuisine-rapide/actus-food-tp123982.html)
 
 [Accueil](https://www.marmiton.org/) / [Aide](https://www.marmiton.org/aide-sc27.html) / Conditions générales d'utilisation
 
