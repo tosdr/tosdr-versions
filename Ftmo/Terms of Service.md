@@ -49,12 +49,12 @@
     * [![pt](/wp-content/themes/ftmo-com/public/images/svg/flags/PT_pt.svg)
         
         PT](https://ftmo.com/pt/terms-conditions/)
-* [](https://ftmo.com/en/terms-conditions/?s=)
+* [](https://ftmo.com/?s=)
     
      
     
 
-* [](https://ftmo.com/en/terms-conditions/?s=)
+* [](https://ftmo.com/?s=)
     
      
     
