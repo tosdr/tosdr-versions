@@ -335,6 +335,10 @@ Articles
 
 [](#)[](#)
 
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/10/Clouds-2.7-300x200.jpg)](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
+    
+    #### [In the Ashes of the Apparatus](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
+    
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-30-at-1.48.22 PM-300x200.png)](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
     
     #### [Bug Bites and Bureaucrats](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
@@ -362,10 +366,6 @@ Articles
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/08/Screenshot-2024-08-27-at-12.26.38 PM-300x200.png)](https://www.theadvocates.org/whats-so-great-about-polycentricity/)
     
     #### [What’s So Great About Polycentricity?](https://www.theadvocates.org/whats-so-great-about-polycentricity/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/08/Screenshot-2024-08-19-at-3.04.25 PM-300x200.png)](https://www.theadvocates.org/when-governments-compete-you-win/)
-    
-    #### [When Governments Compete, You Win](https://www.theadvocates.org/when-governments-compete-you-win/)
     
 * [#### All Articles](https://www.theadvocates.org/articles/)
     
