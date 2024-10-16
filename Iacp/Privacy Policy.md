@@ -69,7 +69,7 @@ Close* [About ![](/themes/iacp/images/icons/arrow-circle-right-blue.svg)](#)
     * [All Resources](https://www.theiacp.org/resources)
 * [IACPnet](https://www.theiacp.org/projects/iacp-net)
 * [IACPlearn](http://learn.theiacp.org/oauth/login)
-* [IACP Store](https://iacpshop.com/)
+* [IACP Store](https://iacpstore.com/)
 * [Search](#)
     Close [Back](#)* Keywords 
         
