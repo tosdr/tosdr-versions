@@ -1,4 +1,4 @@
-✨ New course! Enroll in [Introducing Multimodal Llama 3.2](https://bit.ly/3YauZxD)
+✨ New course! Enroll in [Serverless Agentic Workflows with Amazon Bedrock](https://bit.ly/4gYAp6t)
 
 [](https://www.deeplearning.ai/)
 
