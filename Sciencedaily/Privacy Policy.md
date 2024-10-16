@@ -232,7 +232,7 @@ this week
 
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
-[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
+[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -240,15 +240,15 @@ this week
 
 [Sun](https://www.sciencedaily.com/news/space_time/sun/)
 
-[Telecommunications](https://www.sciencedaily.com/news/matter_energy/telecommunications/)
+[Solar Flare](https://www.sciencedaily.com/news/space_time/solar_flare/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Human Evolution](https://www.sciencedaily.com/news/fossils_ruins/human_evolution/)
+[Extinction](https://www.sciencedaily.com/news/plants_animals/extinction/)
 
 [Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
 
-[Air Pollution](https://www.sciencedaily.com/news/earth_climate/air_pollution/)
+[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
 
   
 
