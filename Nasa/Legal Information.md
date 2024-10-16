@@ -70,13 +70,13 @@ Suggested Searches
 
 ### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
-article3 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
+article4 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
 
 5 min read
 
 ### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 
-article15 hours ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article22 hours ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -247,13 +247,13 @@ Back
 
 ### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
-article 3 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
 
 5 min read
 
 ### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 
-article 15 hours ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
+article 22 hours ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
 
 2 min read
 
@@ -269,13 +269,13 @@ article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-gran
 
 ### Station Science Top News: Oct. 11, 2024
 
-article 10 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-11-2024/)[![A long-legged golden spider the size of a person’s palm is visible in the middle of a web with uneven and asymmetrical lines.](https://www.nasa.gov/wp-content/uploads/2024/10/iss027e035652.jpg?w=1024)
+article 17 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-11-2024/)[![A long-legged golden spider the size of a person’s palm is visible in the middle of a web with uneven and asymmetrical lines.](https://www.nasa.gov/wp-content/uploads/2024/10/iss027e035652.jpg?w=1024)
 
 4 min read
 
 ### Spooky on the Space Station
 
-article 12 hours ago](https://www.nasa.gov/missions/station/iss-research/spooky-on-the-space-station/)[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
+article 20 hours ago](https://www.nasa.gov/missions/station/iss-research/spooky-on-the-space-station/)[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
 
 3 min read
 
@@ -291,7 +291,7 @@ article 5 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering
 
 ### Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.
 
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)[![Carbon Mapper Coalition’s Tanager-1 satellite detected this methane plume in Karachi, Pakistan](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26416-ghg-plumes-16.jpg?w=1024)
+article 19 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)[![Carbon Mapper Coalition’s Tanager-1 satellite detected this methane plume in Karachi, Pakistan](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26416-ghg-plumes-16.jpg?w=1024)
 
 4 min read
 
@@ -307,69 +307,69 @@ article 7 days ago](https://www.nasa.gov/earth/nasa-funded-study-assesses-pollut
 
 ### Highlights
 
-[![NASA, NOAA: Sun Reaches Maximum Phase in 11-Year Solar Cycle](https://science.nasa.gov/wp-content/uploads/2024/10/001-sun-comparison-00001-print.jpg)
+[![a person wearing an orange reflective safety vest stands in a dark gray, rocky lava tube tunnel](https://www.nasa.gov/wp-content/uploads/2024/10/maunaloa22-ck-rotated.jpg?w=768)
+
+6 min read
+
+### Christine Knudson Uses Earthly Experience to Study Martian Geology
+
+article 1 hour ago](https://www.nasa.gov/solar-system/christine-knudson-uses-earthly-experience-to-study-martian-geology/)[![NASA, NOAA: Sun Reaches Maximum Phase in 11-Year Solar Cycle](https://science.nasa.gov/wp-content/uploads/2024/10/001-sun-comparison-00001-print.jpg)
 
 6 min read
 
 ### NASA, NOAA: Sun Reaches Maximum Phase in 11-Year Solar Cycle
 
-article 13 hours ago](https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/)[![Eclipse Megamovie Coding Competition](https://science.nasa.gov/wp-content/uploads/2023/03/53641212344-be1e94e20c-o-1.jpg)
+article 20 hours ago](https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/)[![Eclipse Megamovie Coding Competition](https://science.nasa.gov/wp-content/uploads/2023/03/53641212344-be1e94e20c-o-1.jpg)
 
 3 min read
 
 ### Eclipse Megamovie Coding Competition
 
-article 17 hours ago](https://science.nasa.gov/get-involved/citizen-science/eclipse-megamovie-coding-competition/)[![Night Lights: Aurora, Noctilucent Clouds, and the Zodiacal Light](https://science.nasa.gov/wp-content/uploads/2024/08/christy-turner-photography-2016.webp)
-
-3 min read
-
-### Night Lights: Aurora, Noctilucent Clouds, and the Zodiacal Light
-
-article 21 hours ago](https://science.nasa.gov/solar-system/skywatching/night-sky-network/nsn-night-lights/)
+article 1 day ago](https://science.nasa.gov/get-involved/citizen-science/eclipse-megamovie-coding-competition/)
 
 ### Featured
 
-[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
+[![NASA’s Hubble Sees a Stellar Volcano](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-raquarii-stsci-01j80b5p0qfsrzn9a2e48f61cx.jpg)
+
+3 min read
+
+### NASA’s Hubble Sees a Stellar Volcano
+
+article 31 mins ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
 
 3 min read
 
 ### Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science
 
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-60-new-opportunity-d-21-u-s-contributions-to-ariel-preparatory-science/)[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
+article 19 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-60-new-opportunity-d-21-u-s-contributions-to-ariel-preparatory-science/)[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
 
 5 min read
 
 ### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 
-article 15 hours ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
-
-2 min read
-
-### Hubble Spots a Grand Spiral of Starbursts
-
-article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)
+article 22 hours ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)
 
 ### Highlights
 
-[![An underwater image of a juvenile black, white, and yellow-striped Bluehead wrasse fish dart in and out of a reef, composed of yellow fire coral (Millepora complanate, back left), branching finger coral (Porites furcate, front left), and various species of sea rods and sea fans. This coral reef sits in the waters of Playa Melones, Puerto Rico.](https://www.nasa.gov/wp-content/uploads/2024/10/oceanos2024loiacono-4454.jpg?w=1024)
+[![NASA’s Hubble Sees a Stellar Volcano](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-raquarii-stsci-01j80b5p0qfsrzn9a2e48f61cx.jpg)
+
+3 min read
+
+### NASA’s Hubble Sees a Stellar Volcano
+
+article 31 mins ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)[![An underwater image of a juvenile black, white, and yellow-striped Bluehead wrasse fish dart in and out of a reef, composed of yellow fire coral (Millepora complanate, back left), branching finger coral (Porites furcate, front left), and various species of sea rods and sea fans. This coral reef sits in the waters of Playa Melones, Puerto Rico.](https://www.nasa.gov/wp-content/uploads/2024/10/oceanos2024loiacono-4454.jpg?w=1024)
 
 7 min read
 
 ### What is a Coral Reef?
 
-article 7 hours ago](https://www.nasa.gov/general/what-is-a-coral-reef/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
+article 15 hours ago](https://www.nasa.gov/general/what-is-a-coral-reef/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
 
 3 min read
 
 ### Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science
 
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-60-new-opportunity-d-21-u-s-contributions-to-ariel-preparatory-science/)[![Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.](https://science.nasa.gov/wp-content/uploads/2023/12/jason3-20160114climate.jpg)
-
-1 min read
-
-### Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.
-
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)
+article 19 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-60-new-opportunity-d-21-u-s-contributions-to-ariel-preparatory-science/)
 
 ### Highlights
 
@@ -433,7 +433,7 @@ article 1 week ago](https://www.nasa.gov/learning-resources/new-minecraft-game/)
 
 ### NASA Activates Resources to Help Assess Impacts from Hurricane Milton
 
-article 3 days ago](https://www.nasa.gov/general/nasa-activates-resources-to-help-assess-impacts-from-hurricane-milton/)[![Illustration of NASA’s Perseverance rover begins its descent through the Martian atmosphere](https://www.nasa.gov/wp-content/uploads/2023/03/pia24318_08_powereddescent_2000.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/general/nasa-activates-resources-to-help-assess-impacts-from-hurricane-milton/)[![Illustration of NASA’s Perseverance rover begins its descent through the Martian atmosphere](https://www.nasa.gov/wp-content/uploads/2023/03/pia24318_08_powereddescent_2000.jpg?w=1024)
 
 2 min read
 
