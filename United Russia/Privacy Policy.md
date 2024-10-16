@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» и «Отцы России» вручили медали общественного признания «Отец солдата» и премии «Окопная свеча»](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-otcy-rossii-vruchili-medali-obshestvennogo-priznaniya-otec-soldata-i-premii-okopnaya-svecha)
+[![Дмитрий Медведев ответил на вопросы руководителей региональных исполкомов «Единой России» со всей страны](https://cdn.er.ru/media/news/October2024/alzDqY1d7PJXJYn2QMy8-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-otvetil-na-voprosy-rukovoditelej-regionalnyh-ispolkomov-edinoj-rossii-so-vsej-strany)
+
+[Дмитрий Медведев ответил на вопросы руководителей региональных исполкомов «Единой России» со всей страны](https://er.ru/activity/news/dmitrij-medvedev-otvetil-na-voprosy-rukovoditelej-regionalnyh-ispolkomov-edinoj-rossii-so-vsej-strany)
+
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#реготделения](https://er.ru/activity/news?tags%5B0%5D=82524) [#ЦИК](https://er.ru/activity/news?tags%5B0%5D=1527) [#исполкомы](https://er.ru/activity/news?tags%5B0%5D=17190)
+
+Сегодня 18:10
+
+[![Дмитрий Медведев: «Единая Россия» проведёт Съезд 14 декабря](https://cdn.er.ru/media/news/October2024/WFJIk9fMaYb1DuzgI9Hh-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-provedyot-sezd-14-dekabrya)
+
+[Дмитрий Медведев: «Единая Россия» проведёт Съезд 14 декабря](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-provedyot-sezd-14-dekabrya)
+
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#региональныйисполком](https://er.ru/activity/news?tags%5B0%5D=132701) [#съезд](https://er.ru/activity/news?tags%5B0%5D=103) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751)
+
+Сегодня 15:45
+
+[![Дмитрий Медведев поручил региональным отделениям «Единой России» продолжать поддержку фронта](https://cdn.er.ru/media/news/October2024/TtIjlb6g8hdcwGt1UR9y-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-poruchil-regionalnym-otdeleniyam-edinoj-rossii-prodolzhat-podderzhku-fronta)
+
+[Дмитрий Медведев поручил региональным отделениям «Единой России» продолжать поддержку фронта](https://er.ru/activity/news/dmitrij-medvedev-poruchil-regionalnym-otdeleniyam-edinoj-rossii-prodolzhat-podderzhku-fronta)
+
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#помощьвоеннослужащим](https://er.ru/activity/news?tags%5B0%5D=1093164) [#активисты](https://er.ru/activity/news?tags%5B0%5D=121801) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123)
+
+Сегодня 15:42
+
+[![Дмитрий Медведев: «Единая Россия» достойно выступит на выборах 25/26](https://cdn.er.ru/media/news/October2024/owbreu7S9gxGzpvwcen6-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-dostojno-vystupit-na-vyborah-25-26)
+
+[Дмитрий Медведев: «Единая Россия» достойно выступит на выборах 25/26](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-dostojno-vystupit-na-vyborah-25-26)
+
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#региональныйисполком](https://er.ru/activity/news?tags%5B0%5D=132701) [#выборы](https://er.ru/activity/news?tags%5B0%5D=31) [#предварительноеголосование](https://er.ru/activity/news?tags%5B0%5D=100833) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
+
+Сегодня 15:36
+
+[![Госдума одобрила в первом чтении законопроект «Единой России» об отмене НДФЛ на возмещение расходов волонтёров на оплату медуслуг](https://cdn.er.ru/media/news/October2024/GcVGfNxGMYBZpnIijLFC-small.jpg)](https://er.ru/activity/news/gosduma-odobrila-v-pervom-chtenii-zakonoproekt-edinoj-rossii-ob-otmene-ndfl-na-vozmeshenie-rashodov-volontyorov-na-oplatu-meduslug)
+
+[Госдума одобрила в первом чтении законопроект «Единой России» об отмене НДФЛ на возмещение расходов волонтёров на оплату медуслуг](https://er.ru/activity/news/gosduma-odobrila-v-pervom-chtenii-zakonoproekt-edinoj-rossii-ob-otmene-ndfl-na-vozmeshenie-rashodov-volontyorov-na-oplatu-meduslug)
+
+[#Чаплин](https://er.ru/activity/news?tags%5B0%5D=4512) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#НДФЛ](https://er.ru/activity/news?tags%5B0%5D=1219) [#медуслуги](https://er.ru/activity/news?tags%5B0%5D=94272)
+
+Сегодня 14:47
+
+[![«Единая Россия» и «Отцы России» вручили медали общественного признания «Отец солдата» и премии «Окопная свеча»](https://cdn.er.ru/media/news/October2024/ULypJVg61fIMnNZvLUun-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-otcy-rossii-vruchili-medali-obshestvennogo-priznaniya-otec-soldata-i-premii-okopnaya-svecha)
 
 [«Единая Россия» и «Отцы России» вручили медали общественного признания «Отец солдата» и премии «Окопная свеча»](https://er.ru/activity/news/edinaya-rossiya-i-otcy-rossii-vruchili-medali-obshestvennogo-priznaniya-otec-soldata-i-premii-okopnaya-svecha)
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#ГероиРоссии](https://er.ru/activity/news?tags%5B0%5D=114262) [#Коченов](https://er.ru/activity/news?tags%5B0%5D=1095283) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#ДеньОтца](https://er.ru/activity/news?tags%5B0%5D=1092263) [#Цивилева](https://er.ru/activity/news?tags%5B0%5D=1095455) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633)
 
 Сегодня 13:20
-
-[![Дмитрий Вяткин: Важнейшее направление работы «Единой России» – меры поддержки участников СВО и членов их семей](https://cdn.er.ru/media/news/October2024/5CmBjYvh0Sa98SiX6V4K-small.jpg)](https://er.ru/activity/news/dmitrij-vyatkin-vazhnejshee-napravlenie-raboty-edinoj-rossii-mery-podderzhki-uchastnikov-svo-i-chlenov-ih-semej)
-
-[Дмитрий Вяткин: Важнейшее направление работы «Единой России» – меры поддержки участников СВО и членов их семей](https://er.ru/activity/news/dmitrij-vyatkin-vazhnejshee-napravlenie-raboty-edinoj-rossii-mery-podderzhki-uchastnikov-svo-i-chlenov-ih-semej)
-
-[#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581)
-
-Сегодня 12:10
-
-[![Андрей Исаев: «Детский» бюджет в 2025-2027 годах превысит 10 триллионов рублей, включая адресную поддержку](https://cdn.er.ru/media/news/October2024/G1gvBG04KVX0gMwwQg3W-small.jpg)](https://er.ru/activity/news/andrej-isaev-detskij-byudzhet-v-2025-2027-godah-prevysit-10-trillionov-rublej-vklyuchaya-adresnuyu-podderzhku)
-
-[Андрей Исаев: «Детский» бюджет в 2025-2027 годах превысит 10 триллионов рублей, включая адресную поддержку](https://er.ru/activity/news/andrej-isaev-detskij-byudzhet-v-2025-2027-godah-prevysit-10-trillionov-rublej-vklyuchaya-adresnuyu-podderzhku)
-
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562)
-
-Сегодня 09:35
-
-[![Владимир Якушев обсудил с Викторией Абрамченко задачи партпроекта «Единой России» «Зелёная экономика»](https://cdn.er.ru/media/news/October2024/IfKxOJLEakKG97Nn0tyC-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-obsudil-s-viktoriej-abramchenko-zadachi-partproekta-edinoj-rossii-zelyonaya-ekonomika)
-
-[Владимир Якушев обсудил с Викторией Абрамченко задачи партпроекта «Единой России» «Зелёная экономика»](https://er.ru/activity/news/vladimir-yakushev-obsudil-s-viktoriej-abramchenko-zadachi-partproekta-edinoj-rossii-zelyonaya-ekonomika)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Абрамченко](https://er.ru/activity/news?tags%5B0%5D=88828) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#зеленаяэкономика](https://er.ru/activity/news?tags%5B0%5D=146899) [#экология](https://er.ru/activity/news?tags%5B0%5D=170) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ТКО](https://er.ru/activity/news?tags%5B0%5D=87494)
-
-Сегодня 09:00
-
-[![«Единая Россия» проведёт мероприятия ко Дню отца по всей стране](https://cdn.er.ru/media/news/October2024/zLFfpbOrwYLIj3O9wbX5-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provedyot-meropriyatiya-ko-dnyu-otca-po-vsej-strane)
-
-[«Единая Россия» проведёт мероприятия ко Дню отца по всей стране](https://er.ru/activity/news/edinaya-rossiya-provedyot-meropriyatiya-ko-dnyu-otca-po-vsej-strane)
-
-[#Деньотца](https://er.ru/activity/news?tags%5B0%5D=1094835) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#мастер-классы](https://er.ru/activity/news?tags%5B0%5D=34619) [#Камчатский край](https://er.ru/activity/news?tags%5B0%5D=1880) [#Омская область](https://er.ru/activity/news?tags%5B0%5D=791) [#Новосибирская область](https://er.ru/activity/news?tags%5B0%5D=539) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#Тюменская область](https://er.ru/activity/news?tags%5B0%5D=784) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#Тульская область](https://er.ru/activity/news?tags%5B0%5D=2194) [#Псковская область](https://er.ru/activity/news?tags%5B0%5D=1467) [#Пензенская область](https://er.ru/activity/news?tags%5B0%5D=806) [#Ханты-Мансийский автономный округ-Югра](https://er.ru/activity/news?tags%5B0%5D=123387) [#Республика Северная Осетия-Алания](https://er.ru/activity/news?tags%5B0%5D=112076) [#Вологодская область](https://er.ru/activity/news?tags%5B0%5D=4193) [#Орловская область](https://er.ru/activity/news?tags%5B0%5D=5672) [#Ямало-Ненецкий автономный округ](https://er.ru/activity/news?tags%5B0%5D=36079) [#Пермская область](https://er.ru/activity/news?tags%5B0%5D=33264) [#Новгородская область](https://er.ru/activity/news?tags%5B0%5D=773) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646)
-
-Сегодня 00:00
-
-[![Комиссия Бюро Высшего совета «Единой России» проработает меры по совершенствованию системы образования для решения актуальных кадровых проблем](https://cdn.er.ru/media/news/October2024/VdqDH6M9bniUfVPEIbk5-small.jpg)](https://er.ru/activity/news/komissiya-byuro-vysshego-soveta-edinoj-rossii-prorabotaet-mery-po-sovershenstvovaniyu-sistemy-obrazovaniya-dlya-resheniya-aktualnyh-kadrovyh-problem)
-
-[Комиссия Бюро Высшего совета «Единой России» проработает меры по совершенствованию системы образования для решения актуальных кадровых проблем](https://er.ru/activity/news/komissiya-byuro-vysshego-soveta-edinoj-rossii-prorabotaet-mery-po-sovershenstvovaniyu-sistemy-obrazovaniya-dlya-resheniya-aktualnyh-kadrovyh-problem)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кравченко](https://er.ru/activity/news?tags%5B0%5D=5003) [#технологии](https://er.ru/activity/news?tags%5B0%5D=1090612) [#суверенитет](https://er.ru/activity/news?tags%5B0%5D=9840) [#БВС](https://er.ru/activity/news?tags%5B0%5D=103421) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975)
-
-15.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
