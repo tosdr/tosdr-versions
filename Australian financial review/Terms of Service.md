@@ -334,15 +334,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Jaddan Comerford, the founder of UNIFIED Music, will invest $10m in Australian artists over the next three years.](https://static.ffx.io/images/$zoom_0.2573%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_48%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/0054e561dcbef9ac83b88703fc152fe72008d867)](https://www.afr.com/life-and-luxury/arts-and-culture/young-rich-lister-outspends-major-labels-with-10m-for-local-music-20241014-p5ki7q)
+[![Paula Hitchcock and her husband Nassib Thoumi leave court after Wednesday’s decision.](https://static.ffx.io/images/$zoom_0.3235%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_614%2C$y_262/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8395ec8c261e5ea64c7d0f08954d3e98530501f5)](https://www.afr.com/companies/manufacturing/richard-pratt-s-love-child-free-to-sue-family-for-slice-of-the-fortune-20241016-p5kinx)
 
-### [Young Rich Lister matches major labels with $10m for local music](https://www.afr.com/life-and-luxury/arts-and-culture/young-rich-lister-outspends-major-labels-with-10m-for-local-music-20241014-p5ki7q)
+### [Richard Pratt’s love child free to sue family for slice of the fortune](https://www.afr.com/companies/manufacturing/richard-pratt-s-love-child-free-to-sue-family-for-slice-of-the-fortune-20241016-p5kinx)
 
-* Michael Bailey
+* Max Mason
 
-* ### [Richard White’s alleged lover claims he expected sex for investment](https://www.afr.com/technology/richard-white-s-alleged-lover-claims-he-expected-sex-for-investment-20241008-p5kgph)
+* ### [Young Rich Lister matches major labels with $10m for local music](https://www.afr.com/life-and-luxury/arts-and-culture/young-rich-lister-outspends-major-labels-with-10m-for-local-music-20241014-p5ki7q)
     
-* ### [Adrenaline rush, light and sound show planned for Mornington cable car](https://www.afr.com/property/commercial/adrenaline-rush-light-and-sound-show-planned-for-mornington-cable-car-20240926-p5kdoo)
+* ### [Richard White’s alleged lover claims he expected sex for investment](https://www.afr.com/technology/richard-white-s-alleged-lover-claims-he-expected-sex-for-investment-20241008-p5kgph)
     
 
 [The Australian Financial Review](https://www.afr.com/)
