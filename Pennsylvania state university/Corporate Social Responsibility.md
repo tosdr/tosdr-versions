@@ -89,7 +89,6 @@ menu icon
 [Leadership](https://www.psu.edu/about/leadership)* [Board of Trustees](https://trustees.psu.edu/)
 * [President's Office](https://www.psu.edu/president)
 * [University Faculty Senate](https://senate.psu.edu/)
-[Health Care](https://www.psu.edu/healthcare)
 
 [Our Impact](https://www.psu.edu/our-impact)* [Stories of Impact](https://www.psu.edu/impact)
 
@@ -233,7 +232,6 @@ menu icon
         * [President's Office](https://www.psu.edu/president)
         * [University Faculty Senate](https://senate.psu.edu/)
         
-    * [Health Care](https://www.psu.edu/healthcare)
     * Our Impactexpand icon
         
         * [Our Impact](https://www.psu.edu/our-impact)
@@ -286,7 +284,7 @@ Student Support
 Quick Links
 -----------
 
-[Maps](https://www.psu.edu/maps)[Directory](https://www.psu.edu/search/directories)[Libraries](https://libraries.psu.edu/)[Academic Calendar](https://www.registrar.psu.edu/academic-calendars/)[LionPATH](https://lionpathsupport.psu.edu/)
+[Maps](https://www.psu.edu/maps)[Directory](https://www.psu.edu/search/directories)[Libraries](https://libraries.psu.edu/)[Academic Calendar](https://www.registrar.psu.edu/academic-calendars/)[LionPATH](https://lionpathsupport.psu.edu/)[Penn State Health](https://www.pennstatehealth.org/)
 
 Resources
 ---------
