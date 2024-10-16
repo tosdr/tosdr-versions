@@ -739,7 +739,7 @@ false
 
 [](https://mybusiness.digital.hdfcbank.com/login)
 
-[Register](https://mybusiness.digital.hdfcbank.com/register) [Know more](https://www.hdfcbank.com/sme/pay/mybusinessdigitalbanking)
+[Register](https://mybusiness.digital.hdfcbank.com/registration/signup?SourceSys=W1LOG) [Know more](https://www.hdfcbank.com/sme/pay/mybusinessdigitalbanking)
 
 [Prepaid/Forex Card](https://v.hdfcbank.com/assets/popuppages/Prepaid-card.html)
 
