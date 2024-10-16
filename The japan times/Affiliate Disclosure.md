@@ -30,7 +30,7 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Lower House Election](https://www.japantimes.co.jp/tag/2024-lower-house-election// "Lower House Election")
+* [Lower House Election](https://www.japantimes.co.jp/tag/2024-lower-house-election/ "Lower House Election")
 * [MLB Championship Series](https://www.japantimes.co.jp/tag/mlb/ "MLB Championship  Series")
 * [Nobel Prize](https://www.japantimes.co.jp/tag/nobel-prize/ "Nobel Prize")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
@@ -147,9 +147,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
 
-[India creates space strategy to capture market beyond SpaceX](https://www.japantimes.co.jp/business/2024/10/14/tech/india-space-strategy-spacex/ "India creates space strategy to capture market beyond SpaceX")
+[40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
 
-  [![India's Geosynchronous Satellite Launch Vehicle Mk III-M1 blasts off carrying Chandrayaan-2, from the Satish Dhawan Space Center at Sriharikota, India, on July 22, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427626.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "India's Geosynchronous Satellite Launch Vehicle Mk III-M1 blasts off carrying Chandrayaan-2, from the Satish Dhawan Space Center at Sriharikota, India, on July 22, 2019.")](https://www.japantimes.co.jp/business/2024/10/14/tech/india-space-strategy-spacex/ "India creates space strategy to capture market beyond SpaceX")
+  [![Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427856.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.")](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
 
 Editors' Picks
 --------------
@@ -184,13 +184,13 @@ By [Hannah Beech](https://www.japantimes.co.jp/author/943/hannah-beech/ "Hannah 
 
   [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[India creates space strategy to capture market beyond SpaceX](https://www.japantimes.co.jp/business/2024/10/14/tech/india-space-strategy-spacex/ "India creates space strategy to capture market beyond SpaceX")
+[40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
 
-By [Nivedita Bhattacharjee](https://www.japantimes.co.jp/author/3831/nivedita-bhattacharjee/ "Nivedita Bhattacharjee")  
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-  [![India's Geosynchronous Satellite Launch Vehicle Mk III-M1 blasts off carrying Chandrayaan-2, from the Satish Dhawan Space Center at Sriharikota, India, on July 22, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427626.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "India's Geosynchronous Satellite Launch Vehicle Mk III-M1 blasts off carrying Chandrayaan-2, from the Satish Dhawan Space Center at Sriharikota, India, on July 22, 2019.")](https://www.japantimes.co.jp/business/2024/10/14/tech/india-space-strategy-spacex/ "India creates space strategy to capture market beyond SpaceX")
+  [![Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427856.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.")](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
 
 Podcast
 -------
@@ -253,23 +253,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Aramco cancels Saudi chemical project as it focuses on Asia](https://www.japantimes.co.jp/business/2024/10/16/companies/aramco-saudi-chemical-project-asia/ "Aramco cancels Saudi chemical project as it focuses on Asia")
+[Visitors to Japan in January-September top last year's total](https://www.japantimes.co.jp/news/2024/10/16/japan/society/foreign-visitors-september/ "Visitors to Japan in January-September top last year's total")
 
-12 mins ago
+24 mins ago
 
-[Record 314 women file candidacies for Lower House vote, boosting share to 23%](https://www.japantimes.co.jp/news/2024/10/16/japan/politics/record-women-candidates/ "Record 314 women file candidacies for Lower House vote, boosting share to 23%")
+[JICA staffer suspected of leaking info on Philippines railway project](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
 
-29 mins ago
+55 mins ago
 
-[Chinese finance professionals switch careers amid industry crackdown](https://www.japantimes.co.jp/business/2024/10/16/chinese-finance-careers-industry-crackdown/ "Chinese finance professionals switch careers amid industry crackdown")
-
-29 mins ago
-
-[Justice Ministry to consider public recruitment of volunteer probation officers](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/probation-officers/ "Justice Ministry to consider public recruitment of volunteer probation officers")
+[Gamers hunt for monsters in Tokyo as Niantic searches for a hit](https://www.japantimes.co.jp/business/2024/10/16/tech/monster-hunter-shibuya/ "Gamers hunt for monsters in Tokyo as Niantic searches for a hit")
 
 1 hours ago
 
-[Xi’s stronger grip on legislature shows lack of checks on power](https://www.japantimes.co.jp/news/2024/10/16/asia-pacific/politics/xi-legislature-lack-checks-on-power/ "Xi’s stronger grip on legislature shows lack of checks on power")
+[Ishiba's goal of revising U.S. troops pact likely long-term project](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
+
+1 hours ago
+
+[Bank of Japan policymaker calls for 'very moderate' pace of rate hikes](https://www.japantimes.co.jp/business/2024/10/16/economy/bank-of-japan-board-member/ "Bank of Japan policymaker calls for 'very moderate' pace of rate hikes")
 
 2 hours ago
 
