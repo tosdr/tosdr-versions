@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Barefoot Blue Jean NightJake Owen<br><br>11:40pm |
-| Next Thing You KnowJordan Davis<br><br>11:37pm |
-| I Got A GuyPost Malone Ft Luke Combs<br><br>11:34pm |
-| Lies, Lies, LiesMorgan Wallen<br><br>11:31pm |
-| Big Green TractorJason Aldean<br><br>11:28pm |
+| Would If I CouldErnest<br><br>4:58am |
+| You ProofMorgan Wallen<br><br>4:55am |
+| Country HouseSam Hunt<br><br>4:52am |
+| Hung Up On YouBryce Leatherwood<br><br>4:40am |
+| Meant To BeBebe Rexha Ft Florida Georgia Line<br><br>4:37am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Top 40 • Eastern
+Country • Western
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Country • Western
+Top 40 • Pacific NW
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Sports • Midwest
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
