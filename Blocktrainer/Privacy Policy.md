@@ -592,8 +592,6 @@ Kopieren
 
 [](#)
 
-[![Seedor](/fileadmin/_processed_/7/c/csm_Seedor_Banner_390x615__3__c26fe41035.jpg)](https://ref.blocktrainer.de/seedor/ws)
-
 **Privatsphäre-Einstellungen**
 
 Mit diesem Tool können Sie Ihre Zustimmung zur Erfassung und Verarbeitung personenbezogener Daten durch Technologien von Drittanbietern verwalten.
