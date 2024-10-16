@@ -4,7 +4,7 @@ Zurück
 
 FOLGE UNSEREM WHATSAPP-KANAL und verpasse keine Neuigkeiten und Rabattaktionen mehr
 
-END-OF-SUMMER SALE: spare satte 20% auf unsere Poster- und Leinwandbilder
+gruseliger HERBSTSALE: 3für2 - kaufe 3, zahle nur 2 (das günstigste schenken wir dir)
 
 Weiter
 
