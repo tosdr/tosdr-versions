@@ -29,17 +29,15 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![MysticNetworkMC](plugins/MineCraft/icons/25x25xMysticNetworkMC_1729054234.png.pagespeed.ic.AboSi7capL.png)
+[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-Mystic Network Skyblock](https://minecraft-server.net/details/MysticNetworkMC/ "Mystic Network Skyblock")[![Nekonecny_pribeh](plugins/MineCraft/icons/25x25xNekonecny_pribeh_1716904567.png.pagespeed.ic.eqSFnj3yeR.png)
+1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")[![T0talAnarchy](plugins/MineCraft/icons/25x25xT0talAnarchy_1728855199.png.pagespeed.ic.be3ILv19TH.png)
 
-Nekonečný příběh](https://minecraft-server.net/details/Nekonecny_pribeh/ "Nekonečný příběh")[![ChubbyCraft](plugins/MineCraft/icons/25x25xChubbyCraft_1710102846.png.pagespeed.ic.gKSpKrKu8u.png)
+Total Anarchy](https://minecraft-server.net/details/T0talAnarchy/ "Total Anarchy")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-Gods101](https://minecraft-server.net/details/ChubbyCraft/ "Gods101")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexMc") [Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
 
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
-
-1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")
+Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -142,4 +140,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06427 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0586 - Created by [Debaucus](https://debauc.us/)
