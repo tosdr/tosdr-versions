@@ -296,7 +296,6 @@ Advertise
 
 ### [The Australian fashion staple you won’t see on the streets of Paris](https://www.afr.com/life-and-luxury/fashion-and-style/the-australian-fashion-staple-you-won-t-see-on-the-streets-of-paris-20241008-p5kgkw)
 
-* 55 mins ago
 * Lauren Sams
 
 * ### [Who’s up and down in this year’s Power List – and who wanted to get out](https://www.afr.com/politics/federal/who-s-up-and-down-in-this-year-s-power-list-and-who-wanted-to-get-out-20240926-p5kdt8)
@@ -325,7 +324,6 @@ Advertise
 
 ### [A hidden gem on Morocco’s Barbary Coast](https://www.afr.com/life-and-luxury/travel/a-hidden-gem-on-morocco-s-barbary-coast-20240926-p5kduw)
 
-* 55 mins ago
 * John Borthwick
 
 * ### [To become a better runner, try taping your mouth shut](https://www.afr.com/life-and-luxury/health-and-wellness/to-become-a-better-runner-try-taping-your-mouth-shut-20240924-p5kd4r)
