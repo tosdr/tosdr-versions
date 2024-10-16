@@ -53,11 +53,6 @@ Install App
     
 * [Login/Register](https://www.101soundboards.com/login)
 
-× Your AdBlocker was detected as enabled 😔😞😭 Ads fund this site. It costs money to run.  
-Consider disabling or [buying a sticker pack (with free shipping)](https://shop.101soundboards.com/) so we can continue running this awesome service!  
-  
- [![Ko-fi](/img/kofi_cup.png) Support Us on Ko-fi](https://ko-fi.com/B0B8H3JMY) [![CashApp](/img/cashapp-2.svg) CashApp](https://cash.app/$101soundboards) [![PayPal](/img/paypal-2.svg) PayPal](https://www.paypal.com/donate/?hosted_button_id=7FBV3YC5ZMJT8)
-
 Main Content
 
 [Back to the homepage](https://www.101soundboards.com/)
@@ -502,7 +497,7 @@ If you have any questions about this Privacy Policy, please contact us:
   
   
 
-[Search](https://www.101soundboards.com/search) [Favorites](https://www.101soundboards.com/favorites/me) [TTS](https://www.101soundboards.com/tts/me "Text to Speech")[](https://www.101soundboards.com/terminal "AI Sound FX Generator CLI Terminal")
+[Search](https://www.101soundboards.com/search) [Favorites](https://www.101soundboards.com/favorites/me) [TTS](https://www.101soundboards.com/tts/me "Text to Speech") [](https://www.101soundboards.com/terminal "AI Sound FX Generator CLI Terminal")[Donate](https://www.101soundboards.com/pages/donate "Donate")
 
 Dark Mode Light Mode
 
