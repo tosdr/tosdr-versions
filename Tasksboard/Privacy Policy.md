@@ -2,23 +2,23 @@ Published using Google Docs
 
 [Report abuse](https://drive.google.com/abuse?id=AKkXjoyhJdq10eJS_C1LAjY-tPOjTzrCSaEhbzaMLjvqMTVrTcmA2zByGQxCByW0zgXApjvSxJwgbSjzyHniaJE:0&docurl=https://docs.google.com/document/d/e/2PACX-1vSNwp_4o2nWhNKdQHEc7tfp-py6FstV1MTt8msDomdwPOsaEXfoJZkZsUcfdkzrqrbOqNfRs1mnLbZK/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
-TasksBoard Privacy Policy
+📜 TasksBoard Privacy Policy
 
 Updated automatically every 5 minutes
 
-TasksBoard Privacy Policy
+TasksBoard - Privacy Policy
 
 NOTICE
 
-* We do not store your data (tasks, calendar events, or drive files). It stays on Google’s servers. Granting us the access to your data does not allow us to access your data offline. We only use this access to display them on the app [https://tasksboard.app](https://www.google.com/url?q=https://tasksboard.app&sa=D&source=editors&ust=1729098577139624&usg=AOvVaw1Bgs9tHnFlEWWfmgk8Sv4f) and make actions on your behalf such as adding, updating, moving or deleting a task. All the actions performed come from you.
+* We do not store your data (tasks, calendar events, or drive files). It stays on Google’s servers. Granting us access to your data does not allow us to access your data offline. We only use this access to display them on the app [https://tasksboard.com](https://www.google.com/url?q=https://tasksboard.app&sa=D&source=editors&ust=1729119225120523&usg=AOvVaw2go0o1UVphPerzlqxnPr_n) and make actions on your behalf such as adding, updating, moving or deleting a task. All the actions performed come from you.
 * The only information we store from your Google account is your name, last name, profile picture and e-mail.
 * We do not share your data with any third party.
 
 At TasksBoard we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by TasksBoard Inc. or its subsidiaries or affiliated companies. In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the FAQ (tasksboard.app/help).
 
-TasksBoard adheres to the Swiss safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
+TasksBoard adheres to the american safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
 
-If you have any questions about this Policy, please feel free to contact us through our website or write to us at contact@tasksboard.app, or at Privacy Matters, c/o TasksBoard, WebGenesis, Baarermattstr. 8b, 6340 Baar, Switzerland.
+If you have any questions about this Policy, please feel free to contact us through our website or write to us at contact@tasksboard.com, or at Privacy Matters, c/o TasksBoard, EchoWave LLC, ROC Office, RAK, UAE.
 
 Information we collect and how we use it
 
@@ -43,7 +43,7 @@ TasksBoard only processes personal information for the purposes described in th
 
 You can find more information about how we process personal information by referring to the privacy notices for particular services.
 
-TasksBoard processes personal information on GCP servers in the United States of America, in Switzerland, and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services.
+TasksBoard processes personal information on GCP servers in the United States of America (us-central1 region). In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services.
 
 Choices for personal information
 
@@ -83,14 +83,14 @@ When you use TasksBoard services, we make good faith efforts to provide you wit
 
 Enforcement
 
-TasksBoard regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or TasksBoard's treatment of personal information by contacting us through this web site or by writing to us at contact@tasksboard.app, or at Privacy Matters, c/o TasksBoard, WebGenesis, Baarermattstr. 8b, 6340 Baar, Switzerland. When we receive formal written complaints at this address, it is TasksBoard's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between TasksBoard and an individual.
+TasksBoard regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or TasksBoard's treatment of personal information by contacting us through this web site or by writing to us at contact@tasksboard.app, or at Privacy Matters, c/o TasksBoard, EchoWave LLC, ROC Office, RAK, UAE. When we receive formal written complaints at this address, it is TasksBoard's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between TasksBoard and an individual.
 
 Changes to this policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at contact@tasksboard.app, or at Privacy Matters, c/o TasksBoard, WebGenesis, Baarermattstr. 8b, 6340 Baar, Switzerland.
+If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at contact@tasksboard.app, or at Privacy Matters, c/o TasksBoard, EchoWave LLC, ROC Office, RAK, UAE.
 
 \--
 
-October, 2019
+October, 2024
