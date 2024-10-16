@@ -3,7 +3,7 @@
 Platform
 
 * Platform
-* Platform
+* Platform & Products
     
     * * *
     
@@ -19,9 +19,6 @@ Platform
     * [Connected Data
         
         Connect data from apps, workflows, and tools to create a source of truth](https://www.airtable.com/platform/connected-data)
-    * [Governance and Scale
-        
-        Centrally manage security, permissions and data protection at scale](https://www.airtable.com/platform/governance)
     * Platform Features
         
         Learn about Airtable views, interfaces, automations, and more
@@ -43,7 +40,12 @@ Platform
             * [Reporting
                 
                 Measure, analyze, and share insights](https://www.airtable.com/platform/reporting)
-            * [Explore the Platform](https://www.airtable.com/platform)
+            * [Governance and Scale
+                
+                Centrally manage security, permissions and data protection at scale](https://www.airtable.com/platform/governance)
+            * [What's New
+                
+                See Airtable's latest product updates and features](https://www.airtable.com/whatsnew)
             
         
     
@@ -84,9 +86,6 @@ Platform
     * [Download
         
         Get the Airtable app for desktop and mobile](https://www.airtable.com/downloads)
-    * [What’s New
-        
-        See Airtable’s latest product updates and features](https://www.airtable.com/whatsnew)
     
 * The Airtable Platform
     ---------------------
@@ -101,9 +100,11 @@ Platform
 Solutions
 
 * Solutions
-* [Product
+* [ProductCentral
     
-    Build roadmaps and alignment while creating products customers will love](https://www.airtable.com/solutions/product)[Marketing
+    NEW
+    
+    Unify your product development cycle with Airtable's new end-to-end solution](https://www.airtable.com/solutions/product)[Marketing
     
     Create custom workflows to run campaigns and track successes](https://www.airtable.com/solutions/marketing)[Operations
     
