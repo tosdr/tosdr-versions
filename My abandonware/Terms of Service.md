@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Wielki Teleturniej Smoka Wawelskiego](https://www.myabandonware.com/game/wielki-teleturniej-smoka-wawelskiego-sad)
+* [Reksio i UFO](https://www.myabandonware.com/game/reksio-i-ufo-sac)
 * [Reksio i Skarb Piratów](https://www.myabandonware.com/game/reksio-i-skarb-piratow-sab)
 * [Champion Golf](https://www.myabandonware.com/game/champion-golf-sv8)
 * [Pachinko II](https://www.myabandonware.com/game/pachinko-ii-sv7)
-* [Pacar](https://www.myabandonware.com/game/pacar-sv6)
-* [Othello](https://www.myabandonware.com/game/othello-sv5)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
