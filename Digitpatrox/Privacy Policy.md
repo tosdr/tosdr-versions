@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Tuesday, October 15 2024
+Wednesday, October 16 2024
 
 Latest
 
-* [Windows 10 finally shows GPU specs and adds visual changes to the About page (build 19045.5070)](https://digitpatrox.com/windows-10-finally-shows-gpu-specs-and-adds-visual-changes-to-the-about-page-build-19045-5070/)
-* [Best Portable Chargers and Power Banks for Phones and Laptops](https://digitpatrox.com/best-portable-chargers-and-power-banks-for-phones-and-laptops/)
-* [4 Reasons You Shouldn’t Switch to an MVNO](https://digitpatrox.com/4-reasons-you-shouldnt-switch-to-an-mvno/)
-* [Amplifying intelligence: Huawei’s smart solutions for manufacturing and large enterprises](https://digitpatrox.com/amplifying-intelligence-huaweis-smart-solutions-for-manufacturing-and-large-enterprises/)
-* [Upscale Your Video Content for Just $36](https://digitpatrox.com/upscale-your-video-content-for-just-36/)
-* [Crock-Pots are now 40% off at Amazon — 5 slow cooker deals I’d shop from $29](https://digitpatrox.com/crock-pots-are-now-40-off-at-amazon-5-slow-cooker-deals-id-shop-from-29/)
-* [New FIDO proposal lets you securely move passkeys across platforms](https://digitpatrox.com/new-fido-proposal-lets-you-securely-move-passkeys-across-platforms/)
-* [Invincible season 3 is coming to Amazon in February](https://digitpatrox.com/invincible-season-3-is-coming-to-amazon-in-february/)
-* [Android 15 Officially Released with Private Space and App Pairs](https://digitpatrox.com/android-15-officially-released-with-private-space-and-app-pairs/)
-* [Vendor Spotlight: CoSoSys](https://digitpatrox.com/vendor-spotlight-cososys/)
+* [Intel, AMD unite in new x86 alliance to tackle AI, other challenges](https://digitpatrox.com/intel-amd-unite-in-new-x86-alliance-to-tackle-ai-other-challenges/)
+* [YouTube Is Rolling Out a Bunch of New (and Free) Features](https://digitpatrox.com/youtube-is-rolling-out-a-bunch-of-new-and-free-features/)
+* [How to use Ventoy to create bootable USB on Windows 11, 10 (2024)](https://digitpatrox.com/how-to-use-ventoy-to-create-bootable-usb-on-windows-11-10-2024/)
+* [How to View All User Accounts on Windows 11](https://digitpatrox.com/how-to-view-all-user-accounts-on-windows-11/)
+* [With one year to go until Windows 10 end of life, here’s what businesses should do to prepare](https://digitpatrox.com/with-one-year-to-go-until-windows-10-end-of-life-heres-what-businesses-should-do-to-prepare/)
+* [Why Tech Buyers Face AI-Related Project Failures](https://digitpatrox.com/why-tech-buyers-face-ai-related-project-failures/)
+* [NYT Connections today hints and answers — Wednesday, October 16 (#493)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-october-16-493/)
+* [Amazon says 175 million customer now use passkeys to log in](https://digitpatrox.com/amazon-says-175-million-customer-now-use-passkeys-to-log-in/)
+* [Trump’s crypto website crashed after its WLFI token went on sale](https://digitpatrox.com/trumps-crypto-website-crashed-after-its-wlfi-token-went-on-sale/)
+* [Here Are All the New Features in Android 15](https://digitpatrox.com/here-are-all-the-new-features-in-android-15/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://pureinfotech.com/wp-content/uploads/2024/10/kb5045594-windows-10-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-10-finally-shows-gpu-specs-and-adds-visual-changes-to-the-about-page-build-19045-5070/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3564868-0-39067600-1729024644-slack-imgs.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/intel-amd-unite-in-new-x86-alliance-to-tackle-ai-other-challenges/)
     
-    [Windows 10 finally shows GPU specs and adds visual changes to the About page (build 19045.5070)](https://digitpatrox.com/windows-10-finally-shows-gpu-specs-and-adds-visual-changes-to-the-about-page-build-19045-5070/)
+    [Intel, AMD unite in new x86 alliance to tackle AI, other challenges](https://digitpatrox.com/intel-amd-unite-in-new-x86-alliance-to-tackle-ai-other-challenges/)
     
-    6 mins ago
+    17 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1726865175/prod/content/dam/CRO-Images-2024/Electronics/CR-Electronics-InlineHero-Best-Portable-Lithium-Ion-Power-Chargers-0924)](https://digitpatrox.com/best-portable-chargers-and-power-banks-for-phones-and-laptops/)
+* [![](https://lifehacker.com/imagery/articles/01JA8QMVBTV7A8A9K3SFSDC6PQ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/youtube-is-rolling-out-a-bunch-of-new-and-free-features/)
     
-    [Best Portable Chargers and Power Banks for Phones and Laptops](https://digitpatrox.com/best-portable-chargers-and-power-banks-for-phones-and-laptops/)
+    [YouTube Is Rolling Out a Bunch of New (and Free) Features](https://digitpatrox.com/youtube-is-rolling-out-a-bunch-of-new-and-free-features/)
     
-    16 mins ago
+    44 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-person-holding-a-phone-with-mvno-crossed-out-in-the-background-and-several-x-marks-around.jpg)](https://digitpatrox.com/4-reasons-you-shouldnt-switch-to-an-mvno/)
+* [![](https://pureinfotech.com/wp-content/uploads/2023/05/ventoy-usb-windows-11-iso-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-use-ventoy-to-create-bootable-usb-on-windows-11-10-2024/)
     
-    [4 Reasons You Shouldn’t Switch to an MVNO](https://digitpatrox.com/4-reasons-you-shouldnt-switch-to-an-mvno/)
-    
-    19 mins ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/3MYdgoHSru8pFz22e58jtQ-1200-80.jpg)](https://digitpatrox.com/amplifying-intelligence-huaweis-smart-solutions-for-manufacturing-and-large-enterprises/)
-    
-    [Amplifying intelligence: Huawei’s smart solutions for manufacturing and large enterprises](https://digitpatrox.com/amplifying-intelligence-huaweis-smart-solutions-for-manufacturing-and-large-enterprises/)
+    [How to use Ventoy to create bootable USB on Windows 11, 10 (2024)](https://digitpatrox.com/how-to-use-ventoy-to-create-bootable-usb-on-windows-11-10-2024/)
     
     1 hour ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/tra_20241015-videoproc-lifetime-family-license.jpg)](https://digitpatrox.com/upscale-your-video-content-for-just-36/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/windows-11-2.jpg)](https://digitpatrox.com/how-to-view-all-user-accounts-on-windows-11/)
     
-    [Upscale Your Video Content for Just $36](https://digitpatrox.com/upscale-your-video-content-for-just-36/)
+    [How to View All User Accounts on Windows 11](https://digitpatrox.com/how-to-view-all-user-accounts-on-windows-11/)
     
     1 hour ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/cHFzemjmFpSdLuBFvApMzE-1200-80.jpg)](https://digitpatrox.com/with-one-year-to-go-until-windows-10-end-of-life-heres-what-businesses-should-do-to-prepare/)
+    
+    [With one year to go until Windows 10 end of life, here’s what businesses should do to prepare](https://digitpatrox.com/with-one-year-to-go-until-windows-10-end-of-life-heres-what-businesses-should-do-to-prepare/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [6 mins ago
+* [17 mins ago
     
-    ### Windows 10 finally shows GPU specs and adds visual changes to the About page (build 19045.5070)](https://digitpatrox.com/windows-10-finally-shows-gpu-specs-and-adds-visual-changes-to-the-about-page-build-19045-5070/)
-* [16 mins ago
+    ### Intel, AMD unite in new x86 alliance to tackle AI, other challenges](https://digitpatrox.com/intel-amd-unite-in-new-x86-alliance-to-tackle-ai-other-challenges/)
+* [44 mins ago
     
-    ### Best Portable Chargers and Power Banks for Phones and Laptops](https://digitpatrox.com/best-portable-chargers-and-power-banks-for-phones-and-laptops/)
-* [19 mins ago
+    ### YouTube Is Rolling Out a Bunch of New (and Free) Features](https://digitpatrox.com/youtube-is-rolling-out-a-bunch-of-new-and-free-features/)
+* [1 hour ago
     
-    ### 4 Reasons You Shouldn’t Switch to an MVNO](https://digitpatrox.com/4-reasons-you-shouldnt-switch-to-an-mvno/)
+    ### How to use Ventoy to create bootable USB on Windows 11, 10 (2024)](https://digitpatrox.com/how-to-use-ventoy-to-create-bootable-usb-on-windows-11-10-2024/)
 
 Most Popular Topics
 
 * [1 week ago
     
-    ### Best Space Heaters of 2024](https://digitpatrox.com/best-space-heaters-of-2024/)
-* [2 weeks ago
+    ### Ransomware gang Medusa claims cyber attack on Albany College of Pharmacy and Health Sciences – $150K ransom](https://digitpatrox.com/ransomware-gang-medusa-claims-cyber-attack-on-albany-college-of-pharmacy-and-health-sciences-150k-ransom/)
+* [4 weeks ago
     
-    ### Top 7 Cyber Threat Hunting Tools Reviewed by Experts for 2024](https://digitpatrox.com/top-7-cyber-threat-hunting-tools-reviewed-by-experts-for-2024/)
-* [3 days ago
+    ### Red Flags to Look For When Buying a Used Car](https://digitpatrox.com/red-flags-to-look-for-when-buying-a-used-car/)
+* [September 2, 2024
     
-    ### Best Dish Drying Racks and Mats](https://digitpatrox.com/best-dish-drying-racks-and-mats/)
+    ### Best Movies and TV Shows on Hulu](https://digitpatrox.com/best-movies-and-tv-shows-on-hulu/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### New FIDO proposal lets you securely move passkeys across platforms](https://digitpatrox.com/new-fido-proposal-lets-you-securely-move-passkeys-across-platforms/)
-* [2 hours ago
-    
-    ### Invincible season 3 is coming to Amazon in February](https://digitpatrox.com/invincible-season-3-is-coming-to-amazon-in-february/)
 * [3 hours ago
     
-    ### Android 15 Officially Released with Private Space and App Pairs](https://digitpatrox.com/android-15-officially-released-with-private-space-and-app-pairs/)
+    ### NYT Connections today hints and answers — Wednesday, October 16 (#493)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-october-16-493/)
+* [3 hours ago
+    
+    ### Amazon says 175 million customer now use passkeys to log in](https://digitpatrox.com/amazon-says-175-million-customer-now-use-passkeys-to-log-in/)
+* [3 hours ago
+    
+    ### Trump’s crypto website crashed after its WLFI token went on sale](https://digitpatrox.com/trumps-crypto-website-crashed-after-its-wlfi-token-went-on-sale/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 11, 2024
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
