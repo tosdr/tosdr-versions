@@ -44,7 +44,6 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Comforters](https://www.mypillow.com/bedding/blankets/downcomforters)
     * [Duvet Covers](https://www.mypillow.com/bedding/duvets)
 * [Mattresses](https://www.mypillow.com/mattresses)
-    * [The Complete Mattress Sleep System](https://www.mypillow.ca/the-complete-mattress-sleep-system)
     * [Coil Mattress](https://www.mypillow.com/mattresses/coil-mattresses)
     * [Foam Mattress](https://www.mypillow.ca/mypillow-foam-mattress)
     * [Mattress Pad](https://www.mypillow.ca/mypillow-deluxemattress-pad)
@@ -55,7 +54,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Mattress Foundation](https://www.mypillow.ca/mattressfoundation)
     * [Semi Truck Mattress](https://www.mypillow.ca/drivers-dream-truck-mattress)
 * [Mattress Toppers](https://www.mypillow.ca/toppers)
-    * [MyMattress Topper](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
+    * [MyMattress Topper](https://www.mypillow.com/my-mattress-topper)
     * [MyMattress Topper 2.0](https://www.mypillow.ca/mattress-toppers/3-coil-mattress-topper)
     * [3” Mattress Topper](https://www.mypillow.ca/mattress-toppers/3inchtopper-50off)
     * [2” Mattress Topper](https://www.mypillow.ca/mattress-toppers/2-mattress-topper-new)
@@ -94,11 +93,11 @@ Apply
 
 [](https://www.mypillow.com/the-classic-collection)
 
-[](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
+[](https://www.mypillow.ca/my-mattress-topper)
 
 [](https://www.mypillow.ca/mystore-general-redirect)
 
-   [](https://www.mypillow.ca/mymattress-topper-with-free-mypillow-percale-sheets)
+   [](https://www.mypillow.ca/my-mattress-topper)
 
    [](https://www.mypillow.com/the-classic-collection)
 
