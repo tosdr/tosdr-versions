@@ -281,7 +281,7 @@ EN
 
 ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/65b869d44b52a37a272fe18c_globe.svg)
 
-[日本語](https://jp.lookout.com/)[Deutsch](https://de.lookout.com/)[Français](https://fr.lookout.com/)[Italiano](https://it.lookout.com/)
+[Deutsch](https://de.lookout.com/)[Français](https://fr.lookout.com/)[Italiano](https://it.lookout.com/)[日本語](https://jp.lookout.com/)
 
 [Visit Threat Lab](https://security.lookout.com/threat-intelligence)
 
