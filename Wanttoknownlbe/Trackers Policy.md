@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/de-beerput-van-de-farmacy-moet-open/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/israels-controle-over-isis-is-isil/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
