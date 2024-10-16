@@ -1,8 +1,6 @@
 [skip to content](#main)
 
-![](https://www.color.com/wp-content/uploads/2024/10/Pink-Ribbon-BCAM-1.png)
-
-It’s Breast Cancer Awareness Month. Early interventions lead to better outcomes. [Discover key facts and prevention strategies for breast cancer today.](https://color.com/learn/cancer/breast-cancer-facts-and-causes)
+Color has announced an expansion of its Virtual Cancer Clinic, designed to provide direct and proactive care from diagnosis to survivorship. [Read more about our clinic design.](https://www.color.com/blog/colors-virtual-cancer-clinic-building-a-modern-approach-to-managing-cancer)
 
  [![](https://www.color.com/wp-content/uploads/2024/04/Color-Wordmark-Logo-Registered.svg)](https://www.color.com/) Toggle Main Navigation Expanded Collapsed
 
@@ -235,21 +233,21 @@ We have the right to investigate violations of these Terms or conduct that affec
 
 ### Solutions
 
-* [Employers](https://www.color.com/?page_id=148083)
-* [Consultants](https://www.color.com/?page_id=148026)
-* [Health Plans](https://www.color.com/?page_id=151332)
-* [Unions](https://www.color.com/?page_id=147697)
+* [Employers](https://www.color.com/employers)
+* [Consultants](https://www.color.com/consultants)
+* [Health Plans](https://www.color.com/health-plans)
+* [Unions](https://www.color.com/unions)
 * [Individuals](https://www.color.com/individuals-genomics)
 
 ### Products
 
-* [Cancer](https://www.color.com/?page_id=149243)
+* [Cancer](https://www.color.com/cancer)
 * [Genomics](https://www.color.com/genomics)
 * [Cardiometabolic disease](https://www.color.com/cardiometabolic-disease)
 
 ### Company
 
-* [About Us](https://www.color.com/?page_id=152688)
+* [About Us](https://www.color.com/about-us)
 * [Leadership](https://www.color.com/leadership)
 * [Research](https://www.color.com/research-platform)
 * [Careers](https://www.color.com/careers)
