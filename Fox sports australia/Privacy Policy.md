@@ -48,42 +48,18 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250120)
 * [Women's T20
     
-    MELS won by 8 wkts
-    
     |     |     |
     | --- | --- |
-    | SYD6 | 5 /130 |
-    | MELS | 2 /134 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250112)
-* [Women's T20
-    
-    ADE won by 17 runs
-    
-    |     |     |
-    | --- | --- |
-    | ADE | 5 /173 |
-    | MELR | 156 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250113)
-* [Women's T20
-    
-    16/10 10:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | ACT | –   |
-    | HOB | –   |
+    | ACT | 7 /122 |
+    | HOB | 4 /74 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250114)
 * [Women's T20
     
-    16/10 10:30 AEST
-    
     |     |     |
     | --- | --- |
-    | ADE | –   |
-    | BRI | –   |
+    | ADE | 6 /175 |
+    | BRI | 1 /27 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250115)
 * [Women's T20
@@ -200,12 +176,12 @@ FOX SCORES
     
 * [MLB
     
-    16/10 10:38 AEST
+    Bottom 6th Innings
     
     |     |     |
     | --- | --- |
-    | NYY | –   |
-    | CLE | –   |
+    | NYY | 3   |
+    | CLE | 2   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240020026E104)
 
