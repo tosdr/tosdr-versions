@@ -402,6 +402,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Highlights: Ted Cruz, Collin Allred face off in only debate for Texas U.S. Senate seat](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-cruz-allred-debate-10p_00.00.55.50.jpg?ve=1&tl=1)
+
+ ![Highlights: Ted Cruz, Collin Allred face off in only debate for Texas U.S. Senate seat](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-cruz-allred-debate-10p_00.00.55.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/colin-allred-ted-cruz-senate-debate-highlights)
+
+### [Highlights: Ted Cruz, Collin Allred face off in only debate for Texas U.S. Senate seat](https://www.fox4news.com/news/colin-allred-ted-cruz-senate-debate-highlights)
+
+ [![WATCH: Duncanville officer saves unresponsive baby born in parking lot](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-duncanville-officer-life-saving-award-9p_00.00.01.54.jpg?ve=1&tl=1)
+
+ ![WATCH: Duncanville officer saves unresponsive baby born in parking lot](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-duncanville-officer-life-saving-award-9p_00.00.01.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/duncanville-police-officer-anai-figueroa-body-camera-video-newborn-baby)
+
+### [WATCH: Duncanville officer saves unresponsive baby born in parking lot](https://www.fox4news.com/news/duncanville-police-officer-anai-figueroa-body-camera-video-newborn-baby)
+
  [![Judge blocks Grand Prairie ISD from firing its superintendent](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-amelia-gpisd-superintendent-on-leave-9p_00.00.06.20.jpg?ve=1&tl=1)
 
  ![Judge blocks Grand Prairie ISD from firing its superintendent](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-amelia-gpisd-superintendent-on-leave-9p_00.00.06.20.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/superintendent-jorge-arredondo-temporary-restraining-order-granted-gpisd)
@@ -419,18 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Dallas County jury acquits man of OU football player’s murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-duvonta-lampkin-murder-trial-acquital-10p_00.00.01.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/john-williams-not-guilty-acquittal-university-of-oklahoma-duvonta-lampkin-death)
 
 ### [Dallas County jury acquits man of OU football player’s murder](https://www.fox4news.com/news/john-williams-not-guilty-acquittal-university-of-oklahoma-duvonta-lampkin-death)
-
- [![Security company still awaiting payment months after Fair Park event](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101524-mg-lb-pkg_unpaid-k9-services-_-fair-park__k_00.00.07.40.jpg?ve=1&tl=1)
-
- ![Security company still awaiting payment months after Fair Park event](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101524-mg-lb-pkg_unpaid-k9-services-_-fair-park__k_00.00.07.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oak-view-group-payment-issues-fair-park)
-
-### [Security company still awaiting payment months after Fair Park event](https://www.fox4news.com/news/oak-view-group-payment-issues-fair-park)
-
- [![Irving woman charged with murder for man's stabbing death](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/sandra-roman-solorzano.jpg?ve=1&tl=1)
-
- ![Irving woman charged with murder for man's stabbing death](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/sandra-roman-solorzano.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sandra-roman-solorzano-arrest-alvaro-lozano-ortiz-victim-irving-pd)
-
-### [Irving woman charged with murder for man's stabbing death](https://www.fox4news.com/news/sandra-roman-solorzano-arrest-alvaro-lozano-ortiz-victim-irving-pd)
 
 ###### [News](https://www.fox4news.com/news)
 
