@@ -149,9 +149,9 @@ RSNIP-05012025-6068620.1.1
 LRC-1023
 
 * [Privacy, Cookies, Security & Legal](https://www.wellsfargo.com/privacy-security/)
+* [Do Not Sell or Share My Personal Information](https://www.wellsfargo.com/privacy-security/opt-out-notice/)
 * [Notice of Data Collection](https://www.wellsfargo.com/privacy-security/notice-of-data-collection/)
 * [General Terms of Use](https://www.wellsfargo.com/privacy-security/terms/)
-* [Ad Choices](https://www.wellsfargo.com/privacy-security/online/#adchoices)
 * [Report Fraud](https://www.wellsfargo.com/privacy-security/fraud/report/)
 * [Sitemap](https://www.wellsfargo.com/sitemap)
 * [About Wells Fargo](https://www.wellsfargo.com/about/)
@@ -161,4 +161,4 @@ LRC-1023
 
 © 1999 - 2024 Wells Fargo. NMLSR ID 399801
 
-![](/assets/images/global/s.gif?log=1&cb=1729096938183&event=PageLoad&pid=222-19478-64&ptid=91-6232-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fprivacy-security%2Fterms%2F&clist=182-15108-16~223-3748-32|84-5529-16~91-2045-32|84-15318-16~91-1924-32|84-6793-16~91-1924-32|84-221979-16~91-1924-32|84-257671-16~91-1924-32)
+![](/assets/images/global/s.gif?log=1&cb=1729117296828&event=PageLoad&pid=222-19478-64&ptid=91-6232-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fprivacy-security%2Fterms%2F&clist=182-15108-16~223-3748-32|84-5529-16~91-2045-32|84-15318-16~91-1924-32|84-6793-16~91-1924-32|84-221979-16~91-1924-32|84-257671-16~91-1924-32)
