@@ -103,7 +103,7 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[LIVE BLOG | Southwest Florida's updates on power, roads, schools & recovery aid](https://www.fox4now.com/weather/hurricane-center/tracking-milton-approaching-hurricane-sparks-tornadoes-in-southwest-florida)
+[CONFIRMED: Largest tornado outbreak since 1950 in South Florida](https://www.fox4now.com/weather/hurricane-center/confirmed-largest-tornado-outbreak-since-1950-in-south-florida)
 
 Privacy Policy
 ==============
