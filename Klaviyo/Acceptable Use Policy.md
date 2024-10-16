@@ -397,6 +397,7 @@ English - US
 * [English - US](https://www.klaviyo.com/legal/acceptable-use-policy)
 * [English - UK](https://www.klaviyo.com/uk/)
 * [Français](https://www.klaviyo.com/fr/legal/acceptable-use-policy)
+* [English - AU](https://www.klaviyo.com/au/)
 
 [Facebook](https://www.facebook.com/Klaviyo/)[Twitter](https://twitter.com/klaviyo/)[LinkedIn](https://www.linkedin.com/company/klaviyo/)[Instagram](https://www.instagram.com/klaviyo/)
 
