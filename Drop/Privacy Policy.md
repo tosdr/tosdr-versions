@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop Artisan Keycap Call of Duty:
+[Drop + The Lord of the Rings™ Rohan™ Keyboard
 
-Black Ops 6 Edition
+Available in two colorways.
 
 SHOP NOW
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-artisan-keycap-call-of-duty-black-ops-6-edition)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-the-lord-of-the-rings-rohan-keyboard)
 
 Free Standard Shipping in the US on orders over $99
 
