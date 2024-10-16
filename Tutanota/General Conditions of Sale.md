@@ -237,7 +237,7 @@ Tutao grants the customer for the duration of the contract, a simple, non-transf
 
 #### 13\. Privacy
 
-If provided by the customer, Tutao collects, processes and uses personal data of the customer. For more information on data processing and data protection see the [Data Privacy Statement of Tutao](https://tutanota.com/fr/privacy-policy).
+If provided by the customer, Tutao collects, processes and uses personal data of the customer. For more information on data processing and data protection see the [Data Privacy Statement of Tutao](https://tutanota.com/privacy-policy).
 
 #### 14\. Charging, withholding
 
@@ -267,7 +267,7 @@ Développement
 
 Support
 
-[Forum](https://www.reddit.com/r/tutanota/) [Presse](https://tutanota.com/press) [Support](https://tutanota.com/fr/support) [Résilier l'abonnement](https://app.tuta.com/?r=/termination)
+[Forum](https://www.reddit.com/r/tutanota/) [Presse](https://tutanota.com/fr/press) [Support](https://tutanota.com/fr/support) [Résilier l'abonnement](https://app.tuta.com/?r=/termination)
 
 Langue
 
