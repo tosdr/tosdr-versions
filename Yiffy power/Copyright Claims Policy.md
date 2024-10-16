@@ -75,31 +75,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 394 1
+0 410 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/faye-directed-by-sagrael-2/)
+[](https://yiff-party.com/yiff/instant-loss-2koma-created-by-zetsuboucchi/)
 
-[faye directed by sagrael](https://yiff-party.com/yiff-ai-premium/faye-directed-by-sagrael-2/)
+[instant loss 2koma created by zetsuboucchi](https://yiff-party.com/yiff/instant-loss-2koma-created-by-zetsuboucchi/)
 
-0 1 0
+0 2 0
 
 October 16, 2024
 
-[](https://yiff-party.com/yiff/mythology-and-etc-created-by-anglo/)
+[](https://yiff-party.com/yiff-ai-premium/maud-pie-directed-by-orangekitsune/)
 
-[mythology and etc created by anglo](https://yiff-party.com/yiff/mythology-and-etc-created-by-anglo/)
+[maud pie directed by orangekitsune](https://yiff-party.com/yiff-ai-premium/maud-pie-directed-by-orangekitsune/)
 
-0 94 0
+0 66 0
 
 September 16, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/chel-directed-by-contextualcritters/)
+[](https://yiff-party.com/yiff/wolfhimeqin-and-wolflong-mythology-created-by-wolflong/)
 
-[chel directed by contextualcritters](https://yiff-party.com/yiff-ai-premium/chel-directed-by-contextualcritters/)
+[wolfhimeqin and wolflong (mythology) created by wolflong](https://yiff-party.com/yiff/wolfhimeqin-and-wolflong-mythology-created-by-wolflong/)
 
-0 58 0
+0 129 0
 
 September 16, 2024
 
