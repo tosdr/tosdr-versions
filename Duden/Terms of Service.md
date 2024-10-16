@@ -470,7 +470,6 @@ Duden
 
 * [Shop](https://shop.duden.de/?campaignCode=do-footernavigation)
 * [Presse](https://www.duden.de/Presse-Neuigkeiten "Pressemitteilungen")
-* [Handel](https://www.duden.de/handel)
 * [Mediadaten](https://www.duden.de/werbung "Mediadaten duden.de")
 * [Duden Institute](https://www.duden-institute.de/ "Duden Institute für Lerntherapie")
 * [Cornelsen Verlag](https://www.cornelsen.de/)
