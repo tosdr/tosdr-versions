@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Family on computer](/siteassets/resources/images/-news-centre/body-images/2024/why-were-supporting-get-online-week/why-were-supporting-get-online-week-hero-1336--560px.png?width=1920&height=1085&quality=80)
+
+### Why we’re supporting Get Online Week
+
+16 October 2024](https://www.ofcom.org.uk/media-use-and-attitudes/online-habits/why-were-supporting-get-online-week/)
+
 [![Channel 4 logo](/siteassets/resources/images/-news-centre/body-images/2024/new-ten-year-public-service-broadcast-licence-for-channel-4/c4-indent-web.jpg?width=1920&height=1085&quality=80)
 
 ### New ten-year public service broadcast licence for Channel 4
@@ -151,13 +157,7 @@
 
 7 October 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-literacy/Online-services-pledge-to-prioritise-media-literacy/)
 
-[![Holidaymaker looking at mobile phone](/siteassets/resources/images/-news-centre/body-images/2024/new-roaming-alerts-for-uk-holidaymakers/mobile-phone-holiday-hero-1336--560px.jpg?width=1920&height=1085&quality=80)
-
-### New roaming alerts for UK holidaymakers
-
-1 October 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/new-roaming-alerts-for-uk-holidaymakers/)
-
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/ "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
