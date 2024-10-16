@@ -364,7 +364,7 @@ PNC retains personally identifiable information as long as necessary to provide 
 
 Advertising & Tracking
 
-#### Tracking and Online Advertising
+### Tracking and Online Advertising
 
 We use third party advertising and media companies to serve ads on our behalf across the Internet and to help manage and optimize our Internet business and communications. Through the use of cookies and Action Tags (commonly referred to as Web beacons or GIF tags), which are inserted in various places within our Web site, such third party companies may collect anonymous information about your visits to the PNC site and your interaction with our ads and content. For instance, they may keep track of how many of our ads you have seen on other web sites before visiting our Web site. This information is used to understand your browsing behavior and interests so that we can identify your financial needs and provide service and advertising that is tailored to you.
 
@@ -388,7 +388,7 @@ PNC does not access location data stored on your mobile device without your perm
 
 Social Media
 
-#### Social Media
+### Social Media
 
 PNC maintains information on social media sites like Facebook, Twitter, and YouTube. When you post information on PNC social media pages it will be subject to the privacy and security conditions of the social media site. When you log into PNC owned social media properties, we collect information about your activities on those properties. The information we review includes whether you visited or commented on a blog or provided a rating.
 
@@ -426,13 +426,13 @@ true xf false
 
 * * *
 
-#### Location Tracking
+### Location Tracking
 
 Online advertising that relies on location tracking can be prevented by refusing to grant permission to use location data stored on your device. You can also set your device to block access to location data stored on your device. Refer to the user guide for your device.
 
 * * *
 
-#### Controlling Cookies
+### Controlling Cookies
 
 Visit the [Federal Trade Commission](http://www.consumer.ftc.gov/articles/0042-cookies-leaving-trail-web "Federal Trade Commission") to learn more about how to limit tracking and online advertising through controlling cookies and other tracking technology that is attached to your browser.
 
@@ -440,13 +440,13 @@ true xf false
 
 * * *
 
-#### Joint Marketing
+### Joint Marketing
 
 Joint marketing enables financial institutions to legitimately share customer information with another financial institution under a marketing arrangement to sell financial products and services. This practice is described in PNC's privacy notice, [_What Does PNC Do With Your Personal Information_](#PersonalInfo "What Does PNC Do With Your Personal Information"). Customers may call 1-800-762-2118 to opt out of joint marketing. Online Banking customers may opt out by accessing Privacy Preferences in Customer Service after signing on to Online Banking.
 
 * * *
 
-#### Affiliate Sharing and Marketing
+### Affiliate Sharing and Marketing
 
 PNC shares information about you among its family of companies in order to provide you with our full range of financial products and services. Please refer to page one of PNC's privacy notice, [_What Does PNC Do With Your Personal Information_](#PersonalInfo "What Does PNC Do With Your Personal Information") for a full explanation of these practices and see page two for an explanation regarding why all such sharing is not limited. Customers may call 1-800-762-2118 to opt out of affiliate sharing and marketing.
 
