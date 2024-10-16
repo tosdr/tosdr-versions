@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-[China’s ‘new great wall’ casts a shadow on Nepal](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new great wall’ casts a shadow on Nepal")
+[China’s ‘new Great Wall’ casts a shadow on Nepal](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
 
-  [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new great wall’ casts a shadow on Nepal")
+  [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
 
-[Aging A-bomb survivors face challenges in passing on their stories](https://www.japantimes.co.jp/news/2024/10/14/japan/society/hibakusha-aging/ "Aging A-bomb survivors face challenges in passing on their stories")
+[India creates space strategy to capture market beyond SpaceX](https://www.japantimes.co.jp/business/2024/10/14/tech/india-space-strategy-spacex/ "India creates space strategy to capture market beyond SpaceX")
 
-  [![Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, offers flowers Sunday at the cenotaph for those who died in and after the atomic bombing in the city of Hiroshima.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427590.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, offers flowers Sunday at the cenotaph for those who died in and after the atomic bombing in the city of Hiroshima.")](https://www.japantimes.co.jp/news/2024/10/14/japan/society/hibakusha-aging/ "Aging A-bomb survivors face challenges in passing on their stories")
+  [![India's Geosynchronous Satellite Launch Vehicle Mk III-M1 blasts off carrying Chandrayaan-2, from the Satish Dhawan Space Center at Sriharikota, India, on July 22, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427626.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "India's Geosynchronous Satellite Launch Vehicle Mk III-M1 blasts off carrying Chandrayaan-2, from the Satish Dhawan Space Center at Sriharikota, India, on July 22, 2019.")](https://www.japantimes.co.jp/business/2024/10/14/tech/india-space-strategy-spacex/ "India creates space strategy to capture market beyond SpaceX")
 
 Editors' Picks
 --------------
@@ -178,17 +178,19 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[China’s ‘new great wall’ casts a shadow on Nepal](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new great wall’ casts a shadow on Nepal")
+[China’s ‘new Great Wall’ casts a shadow on Nepal](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
 
 By [Hannah Beech](https://www.japantimes.co.jp/author/943/hannah-beech/ "Hannah Beech") and [Bhadra Sharma](https://www.japantimes.co.jp/author/4517/bhadra-sharma/ "Bhadra Sharma")  
 
-  [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new great wall’ casts a shadow on Nepal")
+  [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Aging A-bomb survivors face challenges in passing on their stories](https://www.japantimes.co.jp/news/2024/10/14/japan/society/hibakusha-aging/ "Aging A-bomb survivors face challenges in passing on their stories")
+[India creates space strategy to capture market beyond SpaceX](https://www.japantimes.co.jp/business/2024/10/14/tech/india-space-strategy-spacex/ "India creates space strategy to capture market beyond SpaceX")
 
-  [![Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, offers flowers Sunday at the cenotaph for those who died in and after the atomic bombing in the city of Hiroshima.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427590.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Toshiyuki Mimaki, the co-chair of Nihon Hidankyo, offers flowers Sunday at the cenotaph for those who died in and after the atomic bombing in the city of Hiroshima.")](https://www.japantimes.co.jp/news/2024/10/14/japan/society/hibakusha-aging/ "Aging A-bomb survivors face challenges in passing on their stories")
+By [Nivedita Bhattacharjee](https://www.japantimes.co.jp/author/3831/nivedita-bhattacharjee/ "Nivedita Bhattacharjee")  
+
+  [![India's Geosynchronous Satellite Launch Vehicle Mk III-M1 blasts off carrying Chandrayaan-2, from the Satish Dhawan Space Center at Sriharikota, India, on July 22, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427626.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "India's Geosynchronous Satellite Launch Vehicle Mk III-M1 blasts off carrying Chandrayaan-2, from the Satish Dhawan Space Center at Sriharikota, India, on July 22, 2019.")](https://www.japantimes.co.jp/business/2024/10/14/tech/india-space-strategy-spacex/ "India creates space strategy to capture market beyond SpaceX")
 
 Podcast
 -------
@@ -251,15 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Election to test Ishiba's ability to build a strong political base](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
+[Aramco cancels Saudi chemical project as it focuses on Asia](https://www.japantimes.co.jp/business/2024/10/16/companies/aramco-saudi-chemical-project-asia/ "Aramco cancels Saudi chemical project as it focuses on Asia")
 
-[Stateless speak up as world misses its #Ibelong deadline](https://www.japantimes.co.jp/news/2024/10/15/world/politics/stateless-world-ibelong-deadline/ "Stateless speak up as world misses its #Ibelong deadline")
+12 mins ago
 
-[Ishiba openness to nuke ban treaty involvement puts pact in spotlight](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/japan-pm-ishiba-nuclear-ban-treaty/ "Ishiba openness to nuke ban treaty involvement puts pact in spotlight")
+[Record 314 women file candidacies for Lower House vote, boosting share to 23%](https://www.japantimes.co.jp/news/2024/10/16/japan/politics/record-women-candidates/ "Record 314 women file candidacies for Lower House vote, boosting share to 23%")
 
-[40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
+29 mins ago
 
-[CEATEC begins near Tokyo as humanity enters 'a new era' with AI](https://www.japantimes.co.jp/business/2024/10/15/tech/ceatec-technology-show/ "CEATEC begins near Tokyo as humanity enters 'a new era' with AI")
+[Chinese finance professionals switch careers amid industry crackdown](https://www.japantimes.co.jp/business/2024/10/16/chinese-finance-careers-industry-crackdown/ "Chinese finance professionals switch careers amid industry crackdown")
+
+29 mins ago
+
+[Justice Ministry to consider public recruitment of volunteer probation officers](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/probation-officers/ "Justice Ministry to consider public recruitment of volunteer probation officers")
+
+1 hours ago
+
+[Xi’s stronger grip on legislature shows lack of checks on power](https://www.japantimes.co.jp/news/2024/10/16/asia-pacific/politics/xi-legislature-lack-checks-on-power/ "Xi’s stronger grip on legislature shows lack of checks on power")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
