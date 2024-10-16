@@ -197,57 +197,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Hugo van Sittert
+Shaun Gartshore
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=57874081)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=112321550)  
+Wiselink Broadband Vryheid
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=11105694)  
-NEW BEGINNINGS DESIGNS
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=74449534)  
+Imhoff Equestrian Centre
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=122392562)  
-Know Informatics
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=45201671)  
+Entidee Enterprise PTY (ltd)
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=89472801)  
-AquariumSmiths
-
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=153542887)  
-Echo Recording Studio cc
-
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=187831269)  
-VA AND M BUSINESSES (PTY)LTD
-
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=100853075)  
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=17969309)  
 Wiselink Broadband Pty Ltd
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=8347976)  
-OptaServ
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=60537262)  
+MSPCloud (Pty) Ltd
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=19709855)  
-Iurus Inc
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=126997779)  
+FJW Security Cc
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=196545072)  
-Nogana Events and Decor
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=213042621)  
+M's Frozen Delights
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=52841500)  
-National Elite Security Services (PTY) LTD
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=119975177)  
+Sarabi
 
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=95546865)  
-Quad Biking Cape Town
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=91830790)  
+Van Der Merwe Olieverspreiders
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=17467299)  
-West Coast Horse Trails
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=201577945)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=194486146)  
-Dombieterfontein (PTY) LTD
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=164198056)  
+WIP Digital Solutions
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=43370149)  
-Imhoff Equestrian Centre
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=84546959)  
+Goju-Ryu Pretoria East
+
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=37761644)  
+Druce Digital
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=165501416)  
+Tagline Brands
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=201075914)  
+Stories (Pty) Ltd t/a Storietyd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
