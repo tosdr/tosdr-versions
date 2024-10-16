@@ -96,8 +96,6 @@ Back
 
 [日本語](https://www.avs4you.com/jp/license-agreement.aspx)
 
-[Русский](https://www.avs4you.com/ru/license-agreement.aspx)
-
 [Polski](https://www.avs4you.com/pl/license-agreement.aspx)
 
 [한국어](https://www.avs4you.com/ko/license-agreement.aspx)
@@ -119,8 +117,6 @@ English
 [Italiano](https://www.avs4you.com/it/license-agreement.aspx)
 
 [日本語](https://www.avs4you.com/jp/license-agreement.aspx)
-
-[Русский](https://www.avs4you.com/ru/license-agreement.aspx)
 
 [Polski](https://www.avs4you.com/pl/license-agreement.aspx)
 
@@ -150,8 +146,6 @@ Back
 
 [日本語](https://www.avs4you.com/jp/license-agreement.aspx)
 
-[Русский](https://www.avs4you.com/ru/license-agreement.aspx)
-
 [Polski](https://www.avs4you.com/pl/license-agreement.aspx)
 
 [한국어](https://www.avs4you.com/ko/license-agreement.aspx)
@@ -173,8 +167,6 @@ English
 [Italiano](https://www.avs4you.com/it/license-agreement.aspx)
 
 [日本語](https://www.avs4you.com/jp/license-agreement.aspx)
-
-[Русский](https://www.avs4you.com/ru/license-agreement.aspx)
 
 [Polski](https://www.avs4you.com/pl/license-agreement.aspx)
 
