@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
+* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
+* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
+* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
+* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
 
 Service Stiftung Warentest
 
