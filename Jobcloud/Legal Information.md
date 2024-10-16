@@ -599,6 +599,7 @@ You can also object to the data processing using this [link](https://www.jobs.ch
 ###### Technologies
 
 * [Joveo](https://www.jobcloud.ch/c/en/technologies/joveo/)
+* [Technical solutions](https://www.jobcloud.ch/c/en/technical-solution/)
 
 ###### JobCloud
 
