@@ -45,7 +45,7 @@ account
 
 close
 
-[FLASH SALE! Get an EVEN BETTER VALUE for 15% OFF FOR LIFE. Start your Bible study with a Bible Gateway Plus FREE trial today.](https://www.biblegateway.com/plus/?utm_source=bg&promo=flash15&utm_medium=alert&utm_campaign=bgplus_alert_bgplus_oct2024sale_flashsaleevenbetter15per_20241015)
+[FLASH SALE! Get an EVEN BETTER VALUE for AS LOW AS $3.54/month. Start your Bible study with a Bible Gateway Plus FREE trial today.](https://www.biblegateway.com/plus/?utm_source=bg&promo=flash15&utm_medium=alert&utm_campaign=bgplus_alert_bgplus_oct2024sale_flashsaleevenbetteraslow_20241015)
 
 close
 
