@@ -60,6 +60,8 @@ Featured
 
 [Custom Configurators Gaming PCs](https://www.cyberpowerpc.com/category/gaming-pcs/custom-configurators-gaming-pcs/)
 
+[Hyper Liquid II Series](https://www.cyberpowerpc.com/page/Hyper-Liquid-2/)
+
 [Luxe Series](https://www.cyberpowerpc.com/page/Luxe/)
 
 [NVIDIA RTX AI PCs](https://www.cyberpowerpc.com/page/NVIDIA/Geforce-RTX-AI/)
@@ -293,6 +295,8 @@ Featured
 [Best Selling Gaming PCs](https://www.cyberpowerpc.com/category/gaming-pcs/best-sellers-gaming-pcs/)
 
 [Custom Configurators Gaming PCs](https://www.cyberpowerpc.com/category/gaming-pcs/custom-configurators-gaming-pcs/)
+
+[Hyper Liquid II Series](https://www.cyberpowerpc.com/page/Hyper-Liquid-2/)
 
 [Luxe Series](https://www.cyberpowerpc.com/page/Luxe/)
 
@@ -531,7 +535,7 @@ Products
 
 Series
 
-[Luxe Series](https://www.cyberpowerpc.com/page/Luxe/) [NVIDIA RTX Studio](https://www.cyberpowerpc.com/page/NVIDIA/RTX-Studio/) [EVO Mini](https://www.cyberpowerpc.com/page/EVO-Mini/) [ICUE](https://www.cyberpowerpc.com/page/Corsair-Icue/) [Tracer V Laptops](https://www.cyberpowerpc.com/page/Tracer-V-Laptops/) [Tracer VI Laptops](https://www.cyberpowerpc.com/page/Tracer-VI-Laptops/) [GeForce Esports PCs](https://www.cyberpowerpc.com/page/NVIDIA/Frames-Win-Games/) [Intel Extreme Masters PCs](https://www.cyberpowerpc.com/page/Intel/IEM/) [Intel Esports PCs](https://www.cyberpowerpc.com/page/Intel/Esports/) [AMD Esports PCs](https://www.cyberpowerpc.com/page/AMD/Esports/)
+[Hyper Liquid II](https://www.cyberpowerpc.com/page/Hyper-Liquid-2/) [Luxe Series](https://www.cyberpowerpc.com/page/Luxe/) [NVIDIA RTX Studio](https://www.cyberpowerpc.com/page/NVIDIA/RTX-Studio/) [EVO Mini](https://www.cyberpowerpc.com/page/EVO-Mini/) [ICUE](https://www.cyberpowerpc.com/page/Corsair-Icue/) [Tracer V Laptops](https://www.cyberpowerpc.com/page/Tracer-V-Laptops/) [Tracer VI Laptops](https://www.cyberpowerpc.com/page/Tracer-VI-Laptops/) [GeForce Esports PCs](https://www.cyberpowerpc.com/page/NVIDIA/Frames-Win-Games/) [Intel Extreme Masters PCs](https://www.cyberpowerpc.com/page/Intel/IEM/) [Intel Esports PCs](https://www.cyberpowerpc.com/page/Intel/Esports/) [AMD Esports PCs](https://www.cyberpowerpc.com/page/AMD/Esports/)
 
 Support
 
