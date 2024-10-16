@@ -279,7 +279,7 @@ No thanks, I want to stay on Vodafone.com
 * [Careers](https://careers.vodafone.com/)
     
     * [Go to **Careers**](https://careers.vodafone.com/)
-    * [\_VOIS](https://www.vodafone.com/careers/professional-career-areas/shared-services)
+    * [VOIS](https://www.vodafone.com/careers/professional-career-areas/shared-services)
     
 * [Vodafone Foundation](https://www.vodafone.com/vodafone-foundation)
     
