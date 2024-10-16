@@ -1,91 +1,116 @@
-[![](https://anonyome.com/wp-content/uploads/2022/03/anonyome-logo.png "anonyome-logo")](https://anonyome.com/)
+[Skip to content](#content)
 
-* [Sudo Platform](https://sudoplatform.com/)
-* [MySudo](https://mysudo.com/)
-* [About](https://anonyome.com/about/)
-* [Contact](https://anonyome.com/contact/)
-* [Blog](https://anonyome.com/blog/)
+[![](https://anonyome.com/wp-content/uploads/2024/03/Anonyome-logo-2.svg)](https://anonyome.com/)
+
+* [Why Anonyome](https://anonyome.com/why-anonyome/)
+    
+* For Individuals
+    
+    Close For Individuals Open For Individuals
+    
+    * [For Individuals](https://anonyome.com/individuals/)
+    
+    By Product
+    ==========
+    
+    * [MySudo](https://anonyome.com/individuals/mysudo/)
+    
+    * [Browser extension](https://anonyome.com/individuals/mysudo-browser-extension/)
+    
+    * [Desktop](https://anonyome.com/individuals/mysudo-desktop/)
+    
+    * [Plans & pricing](https://anonyome.com/individuals/mysudo-plans/)
+    
+    * [Support](https://support.mysudo.com/hc/en-us)
+    
+    * [MySudo VPN](https://anonyome.com/individuals/mysudo-vpn/)
+    
+    * [RECLAIM](https://anonyome.com/individuals/reclaim/)
+    
+    * [MySudo Plans & Pricing](https://anonyome.com/products/mysudo-plans/)
+    
+    * [MySudo Support](https://support.mysudo.com/hc/en-us)
+    
+* For Businesses
+    
+    Close For Businesses Open For Businesses
+    
+    * [For Businesses](https://anonyome.com/solutions/)
+    
+    By Solution
+    -----------
+    
+    * [Reusable Credentials](https://anonyome.com/businesses/reusable-credentials/)
+    
+    * [How it works](https://anonyome.com/businesses/how-cv-works/)
+    
+    * [For developers](https://anonyome.com/businesses/decentralized-identity-for-developers/)
+    
+    * [Digital Identity Protection](https://anonyome.com/businesses/digital-identity-protection/)
+    
+    * [Cyber safety](https://anonyome.com/businesses/cyber-safety/)
+    
+    * [Secure communications](https://anonyome.com/businesses/secure-communications/)
+    
+    * [Open communications](https://anonyome.com/businesses/open-communications/)
+    
+    * [Safe browsing](https://anonyome.com/businesses/safe-browsing/)
+    
+    * [For developers](https://anonyome.com/businesses/dip-for-developers/)
+    
+    By Industry
+    -----------
+    
+    * [Financial](https://anonyome.com/businesses/financial-industry/)
+    * [Insurance](https://anonyome.com/businesses/insurance-industry/)
+    * [Education](https://anonyome.com/businesses/education-industry/)
+    * [Technology](https://anonyome.com/businesses/technology-industry/)
+    * [Healthcare](https://anonyome.com/businesses/healthcare-industry/)
+    
+    * [Developer Docs](https://docs.sudoplatform.com/)
+    
+* Resources
+    
+    Close Resources Open Resources
+    
+    * [Knowledge Center](https://anonyome.com/resources/)
+    
+    * [Podcast](http://privacyfiles.com/)
+    * [Blog](https://anonyome.com/resources/blog/)
+    * [Guides](https://anonyome.com/resources/guides/)
+    * [Events](https://anonyome.com/connect/events/)
+    * [Webinars](https://anonyome.com/resources/webinars/)
+    * [Connect](https://anonyome.com/connect/)
+    
+* [About Us](https://anonyome.com/about-us/)
+    
+* Mobile
+    
+    Close Mobile Open Mobile
+    
+    [Contact Us](https://anonyome.com/contact/)
+    
+    [Blog](https://anonyome.com/resources/blog/)
+    
+    [Our Podcast](https://privacyfiles.com/)
+    
+    [Our Podcast](https://privacyfiles.com/)
+    
+
+[Contact Us](https://anonyome.com/contact/)
+
+[Blog](https://anonyome.com/resources/blog/)
+
+[Our Podcast](https://privacyfiles.com/)
 
 Terms of Service
 ================
 
-#### Last updated: June 20, 2024
+Last updated: October 14, 2024
 
 Everything you need to know about our applications and services and how to use them to take control of your personal privacy and cyber safety.
 
-Quick Links
------------
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/about-terms.svg)](#about-these-terms)
-
-#### [About these Terms](#about-these-terms)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/fees.svg)](#fees)
-
-#### [Fees](#fees)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/icon-virtualcards.svg)](#supplemental3)
-
-#### [Supplemental Terms: Virtual Cards](#supplemental3)
-
-[![](https://anonyome.com/wp-content/uploads/2023/05/icon-vpn.svg)](#supplemental-terms-vpn)
-
-#### [Supplemental Terms: VPN](#supplemental-terms-vpn)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/interactions.svg)](#interaction)
-
-#### [Interactions](#interaction)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/disclaimer.svg)](#disclaimer-w)
-
-#### [Disclaimer of Warranties](#disclaimer-w)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/general-terms.svg)](#general)
-
-#### [General Terms](#general)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/additional-terms.svg)](#supplemental)
-
-#### [Supplemental Terms: Applications](#supplemental)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/fair-use.svg)](#supplemental4)
-
-#### [Supplemental Terms: Fair Usage Policy](#supplemental4)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/fair-use.svg)](#supplemental-terms-personal-data-removal)
-
-#### [Supplemental Terms: Personal Data Removal Services](#supplemental-terms-personal-data-removal)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/terms-termination.svg)](#term)
-
-#### [Terms and Termination](#term)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/arbitration.svg)](#waiver)
-
-#### [Arbitration Agreement; Class Waiver; Waiver of Trial by Jury](#waiver)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/use-properties.svg)](#use-of)
-
-#### [Use of the Anonyome Properties](#use-of)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/telephony-services.svg)](#supplemental2)
-
-#### [Supplemental Terms: Sudo Telephony Services](#supplemental2)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/general-provisions.svg)](#general2)
-
-#### [General Provisions](#general2)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/limitation-liability.svg)](#limitation)
-
-#### [Limitations of Liability](#limitation)
-
-[![](https://anonyome.com/wp-content/uploads/2019/02/contact1.svg)](#contact-us)
-
-#### [Contact Us](#contact-us)
-
 About these Terms
------------------
 
 The following Terms of Service (“TOS”) can feel like a legal document, because it is. Here’s the summary:
 
@@ -97,7 +122,7 @@ The following Terms of Service (“TOS”) can feel like a legal document, becau
 * We put words in here to protect us from, or comply with local, regional, or international law.
 * Finally, virtual cards and telephony are each heavily regulated industries. We must tell you things like “do not use virtual cards for fraudulent purposes or money laundering” and “don’t use our Applications for a 911 emergency service” which may be evident to you already.
 
-At Anonyome Labs, Inc. (“Anonyome”, “we”, “us”, or “our”) we refer to our websites, including [https://anonyome.com](https://anonyome.com/), [https://sudoplatform.com](https://sudoplatform.com/), [https://mysudo.com](https://mysudo.com/), [https://reclaim.mysudo.com](https://reclaim.mysudo.com/), [https://support.mysudo.com](https://support.mysudo.com/) and [https://privacyfiles.com](https://privacyfiles.com/) (the “Websites”), our mobile applications (each an “Application”) and online services (“Services”). If you are going to use our Services, you must agree to the provisions of this TOS to protect both you and us. If you use our Services, this TOS applies to that use, but here are some of the points about the Websites, Applications, and Services that you should be particularly aware of:
+At Anonyome Labs, Inc. (“Anonyome”, “we”, “us”, or “our”) we refer to our websites, including [https://anonyome.com](https://anonyome.com/), [https://sudoplatform.com](https://sudoplatform.com/), [https://mysudo.com](https://mysudo.com/), [https://reclaim.mysudo.com](https://reclaim.mysudo.com/), [https://support.mysudo.com](https://support.mysudo.com/) and [https://privacyfiles.com](https://privacyfiles.com/) (the “Websites”), our mobile applications (each an “Application”) and online services (“Services”). If you are going to use our Services, you must agree to the provisions of this TOS to protect both you and us. If you use our Services, this TOS applies to that use, but here are some of the points about the Websites, Applications, and Services that you should be particularly aware of:
 
 * The TOS includes a class action waiver and waiver of jury trials and requires binding arbitration on an individual basis to resolve disputes relating in any way to your use of the Services. By entering into the TOS, you are waiving your right to seek relief in a court of law. See below for additional information.
 * Our Services may allow you to create one or more digital identities, which we call “Sudo identities”. We encrypt all content sent from and received by your Sudo. The ONLY decryption key is stored on your mobile device, meaning we cannot associate your Sudo with your Personally Identifiable Information unless you decide to share that information with us.
@@ -111,7 +136,6 @@ At Anonyome Labs, Inc. (“Anonyome”, “we”, “us”, or “our”) we ref
 In addition, we may link to or present additional terms for certain Services which we refer to as “Supplemental Terms” for such Services (and those Supplemental Terms, together with these TOS, are referred to in this agreement as the “Terms”). Those Supplemental Terms will take precedent if there is any conflict between the Supplemental Terms and these TOS. To use the Services, you must be of legal age to form a binding contract and you must have the authority to enter into these Terms on behalf of yourself (“you”).
 
 General Terms
--------------
 
 We may change, add, or delete portions of these Terms at any time on a going-forward basis. Your use or continued use of the Websites, Applications the Services (including following the posting of any changes to these Terms) constitutes your acceptance of these Terms and any associated changes. We may also require you to provide consent to the updated Terms in a specified manner before further use of the Websites, Applications or Services is permitted.
 
@@ -128,7 +152,6 @@ You understand that the technical processing and transmission of the Services an
 You understand and agree that our Services issue, at your request, an email address and/or a phone number (each, a “Communication Line”) for each Sudo. You agree that you are not the owner of any Communication Line or any other number assigned to you by the Services. All Communication Lines are provided “as is” and Anonyome makes no warranty, representation or guarantee that any telephone number will be usable or “clean” when assigned or anytime thereafter, and you understand and agree that Anonyome may from time to time at its sole discretion change the Communication Lines assigned to you. In very rare circumstances, a Communication Line may become unusable due to upstream carrier conditions. In these cases, Anonyome will allow you to select a replacement Communication Line.
 
 Use of the Anonyome Properties
-------------------------------
 
 **Applications**  
 Subject to your compliance with these Terms, Anonyome grants you a limited non-exclusive, non-transferable, non-sublicensable, revocable license to download, install and use a copy of an Application solely for your own personal use on a mobile device or computer that you control. Furthermore, with respect to any Application accessed through or downloaded from a mobile app store (an “App Store Sourced Application”), you will only use the App Store Sourced Application (i) on a product authorized to run the mobile operating system (e.g. iOS or Android) and (ii) as permitted by the “Usage Rules” set forth in the mobile app store’s Terms of Service (e.g. only use the mobile app store for the country in which you live).
@@ -171,7 +194,6 @@ If Anonyome believes that criminal or other prohibited activity has occurred or 
 Except with respect to content provided by you (“Your Content”), you agree that Anonyome and our suppliers and service providers own all rights, title and interest in the Anonyome Properties. You will not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Anonyome Properties.
 
 Fees
-----
 
 **General**  
 Anonyome reserves the right to offer certain premium Services or features subject to payments now or in the future (the “Paid Services”). Please note that any payment terms presented to you in the process of using or signing up for a Paid Service constitute Supplemental Terms. Any purchase will be applied to your account at the time of purchase. In certain cases, the Paid Services may be provided by or through a third party. As such, you agree to (a) review the terms of use and privacy policies of those third parties before providing your banking or payment information and (b) contact those third parties for all payment related questions, issues, disagreements and/or disputes. You agree that you are not relying on the future availability of any feature or product offered through the Anonyome Properties in agreeing to or making payments hereunder. We reserve the right to remove or amend the available payment methods at our sole discretion.
@@ -181,7 +203,6 @@ Anonyome reserves the right to offer certain premium Services or features subjec
 Where offered, your subscription to Paid Services will continue indefinitely until terminated in accordance with this section. After your initial subscription period, and again after any subsequent subscription period, your subscription will automatically renew on the first day following the end of such period (each, a “Renewal Commencement Date”) and continue for an equivalent period, at Anonyome’s then-current price for such subscription. You agree that your Account will be subject to this automatic renewal feature until you cancel your subscription in the mobile app store. By subscribing, you authorize Anonyome or its agent, e.g., Apple or Google, to charge the payment method on file with the mobile app store (e.g., Mastercard or Visa) directly or indirectly, at the time of purchase and again at the beginning of any subsequent subscription period. If you cancel your subscription, you may use your subscription until the end of your then-current term; your subscription will not be renewed after your then-current term expires.
 
 Supplemental Terms: Applications
---------------------------------
 
 You acknowledge and agree that the availability of the Application and the Services is dependent on the third party from whom you received the Application license, e.g. the mobile app store (“App Store”). You acknowledge that these Terms are between you and Anonyome and not with the mobile app store. Anonyome, not the mobile app store, is solely responsible for the Application and Services, the content thereof, maintenance, support services, and warranty thereof and addressing any claims relating thereto (e.g. product liability, legal compliance, or intellectual property infringement). You also agree to pay all fees (if any) charged by the mobile app store in connection with the Application or Services. You agree to comply with, and your license to use the Application is conditioned upon your compliance with, all applicable third-party terms of service (e.g. the mobile app store’s terms and policies) when using the Application and the Services. You acknowledge that the mobile app store (and its subsidiaries) are third party beneficiaries of these Terms and will have the right to enforce them.
 
@@ -203,7 +224,6 @@ Removal of an account includes its Sudo digital identities and their associated:
 * Virtual Cards and transaction history.
 
 Supplemental Terms: Sudo Telephony Services
--------------------------------------------
 
 The following terms apply to your use of the telephony services in the Applications.
 
@@ -243,7 +263,6 @@ In order to comply with government and service provider regulations to limit the
 You must not share your account with another person. You remain responsible for all activity on your account.
 
 Supplemental Terms: Virtual Cards
----------------------------------
 
 The following terms apply to your use of virtual cards in the Applications.
 
@@ -251,10 +270,10 @@ The following terms apply to your use of virtual cards in the Applications.
 The Virtual Cards capability is not available in all locations in which the Applications are offered. At this time, the Virtual Cards capability is only offered to users who live in the United States and possess a funding source issued by a United States institution. By using this capability, you represent and warrant that you meet these eligibility requirements.
 
 **Users Under the Age of 21**  
-The Virtual Cards capability is not intended for people under 21 years of age. We will not knowingly provide access to the Virtual Cards capability to people under 21 years of age. If we learn that we have collected or received personal data from a person under 21 years of age, we will delete that information. If you believe we might have any information from or about a person under 21 years of age, please contact us at [support@anonyome.com](mailto:support@anonyome.com).
+The Virtual Cards capability is not intended for people under 21 years of age. We will not knowingly provide access to the Virtual Cards capability to people under 21 years of age. If we learn that we have collected or received personal data from a person under 21 years of age, we will delete that information. If you believe we might have any information from or about a person under 21 years of age, please contact us at [support@anonyome.com](mailto:support@anonyome.com).
 
 **Identity Verification**  
-In order to comply with US government regulations to limit the risk of fraud, money laundering and funding of terrorist activities, eligible users will be required to provide their accurate and up-to-date legal identity information. We will verify the information you provide with a third party provider, IDology, before you are able to use the Virtual Cards capability. At a minimum, you will be asked to provide your first name, last name, street address, postal code and date of birth. In some cases, additional information may be required, namely images of a government issued identification document, such as a government issued driver’s license. You may not provide false, inaccurate or misleading information. You may not provide personal information of another person. The personal information you provide will be retained in the Services for your time using the Services, plus an additional five years following your use of the Services to meet regulatory and compliance requirements.
+In order to comply with US government regulations to limit the risk of fraud, money laundering and funding of terrorist activities, eligible users will be required to provide their accurate and up-to-date legal identity information. We will verify the information you provide with a third party provider, GBG IDology, before you are able to use the Virtual Cards capability. At a minimum, you will be asked to provide your first name, last name, street address, postal code and date of birth. In some cases, additional information may be required, namely images of a government issued identification document, such as a government issued driver’s license. You may not provide false, inaccurate or misleading information. You may not provide personal information of another person. The personal information you provide will be retained in the Services for your time using the Services, plus an additional five years following your use of the Services to meet regulatory and compliance requirements.
 
 You must not share your account with another person. If you do, you remain responsible for all transactions, fees and payments that result from activity on your account.
 
@@ -309,9 +328,8 @@ If we observe an excessive number of disputes or chargebacks resulting from your
 Virtual cards are issued by Sutton Bank, Member FDIC, pursuant to license by Mastercard International. Virtual cards are powered by Marqeta. Anonyome Labs is not a bank and does not offer banking services.
 
 Supplemental Terms: VPN
------------------------
 
-In addition to the terms in other sections, the following activities are expressly prohibited when using the VPN product:
+In addition to the terms in other sections, the following activities are expressly prohibited when using the VPN product: 
 
 * “Phishing”, that is, simulating communications from and/or the website or other service of another entity to collect identity information, authentication credentials, or other information from the legitimate users of that entity’s service.
 * “Pharming”, that is, using malware, DNS cache poisoning or other means to redirect a user to a website or other service that simulates a service offered by a legitimate entity to collect identity information, authentication credentials, or other information from the legitimate users of that entity’s service.
@@ -329,7 +347,6 @@ In addition to the terms in other sections, the following activities are express
 * Using another party’s email server to relay email without express permission from such other party.
 
 Supplemental Terms: Personal Data Removal Services
---------------------------------------------------
 
 The following terms apply to your use of personal data removal services in the Applications.
 
@@ -338,11 +355,8 @@ You agree that you will only use this capability to analyze and manage the digit
 Information provided about historical data breaches and personal data processing of third-party services is provided for the sole purpose of helping you make choices about how to manage your digital identity footprint. You are not permitted to extract, store, or share this information with third parties for any other purpose.
 
 Supplemental Terms: Fair Usage Policy
--------------------------------------
 
 You agree that you will not, under any circumstances engage in any of the following activities, and acknowledge that at its sole discretion, we may suspend or terminate your use of the Applications and Services for violating these fair usage conditions:
-
-You agree that you will not, under any circumstances engage in any of the following activities:
 
 * Using the Applications for unsolicited marketing, advertising, affiliate marketing or lead generation services, including those that violate consent, anti-spam or do-not-call laws and regulations in the United States or the location of the recipient of the communication.
 * Using the Applications to send content that is illegal in the United States or the location of the recipient of the communication.
@@ -366,7 +380,6 @@ You agree that you will not, under any circumstances engage in any of the follow
 * Using virtual cards in a manner that Visa, Mastercard, or any other electronic funds transfer network reasonably believes to be an abuse of the card system or its rules.
 
 General Provisions
-------------------
 
 **Electronic Communications**  
 The communications between you and Anonyome use electronic means, whether you visit the Website or send Anonyome emails, or whether Anonyome posts notices on the Website or communicates with you via email, SMS, MMS, or any other electronic means. For contractual purposes, you (1) consent to receive communications from Anonyome in an electronic form; and (2) agree that all communications that Anonyome provides to you electronically satisfy any legal requirement that such communications would satisfy if it were to be in writing. The foregoing does not affect your statutory rights.
@@ -408,7 +421,6 @@ The Anonyome Properties can be accessed from countries around the world and may 
 * Germany Notwithstanding anything to the contrary in the Limitation of Liability section of the Terms, Anonyome is also not liable for acts of simple negligence (unless they cause injuries to or death of any person), except when they are caused by a breach of any substantial contractual obligations (vertragswesentliche Pflichten).
 
 Interactions
-------------
 
 **User Responsibility**  
 You are solely responsible for your interactions with other third parties through the Services. Anonyome makes no representations or warranties as to the conduct of users of the Applications and Services. YOU ACKNOWLEDGE AND AGREE THAT ANONYOME AND ITS PARENTS, SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, BANK, PARTNERS AND SUPPLIERS (COLLECTIVELY, THE “ANONYOME PARTIES”) ARE NOT LIABLE, AND YOU AGREE NOT TO SEEK TO HOLD THE ANONYOME PARTIES LIABLE, FOR THE ACTIONS OF ANY USER.
@@ -419,8 +431,9 @@ You hereby release the Anonyome Parties and their successors from claims, demand
 **Indemnification**  
 You agree to indemnify and hold the Anonyome Parties harmless from any losses, costs, liabilities and expenses (including reasonable attorneys’ fees) relating to or arising out of: (a) your violation of the Terms; (b) your violation of any rights of another party, or (c) your violation of any applicable laws, rules or regulations. Anonyome reserves the right, at its own cost, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will fully cooperate with Anonyome in asserting any available defenses. You agree that the provisions in this section will survive any termination of the Services or these Terms.
 
+BANK,
+
 Term and Termination
---------------------
 
 **Term**  
 These Terms renew on the date when you accept them (as described in the preamble above) and remain in full force and effect while you use the Anonyome Properties, unless terminated earlier in accordance with these Terms.
@@ -436,7 +449,6 @@ If your account is suspended, access to all Services associated with the account
 In the event of termination for any reason, you will immediately cease use of, and delete all Sudo identities that you created using the Anonyome Properties. All provisions of these Terms, which by their nature should survive, shall survive termination, including without limitation, ownership provisions, warranty disclaimers, and limitation of liability.
 
 Limitation of Liability
------------------------
 
 **DISCLAIMER OF CERTAIN DAMAGES**  
 YOU UNDERSTAND AND AGREE THAT IN NO EVENT SHALL ANONYOME PARTIES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE ANONYOME PROPERTIES, UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR CONTENT, THIS TOS, OR ANY DAMAGES RESULTING FROM LOSS OF USE, DATA, OR PROFITS, WHETHER OR NOT ANONYOME HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, OR FOR ANY DAMAGES FOR PERSONAL OR BODILY INJURY OR EMOTIONAL DISTRESS ARISING OUT OF OR IN CONNECTION WITH THESE TERMS, ON ANY THEORY OF LIABILITY. NOTWITHSTANDING THE FOREGOING, ANONYOME DOES NOT IN ANY WAY SEEK TO EXCLUDE OR LIMIT LIABILITY FOR (A) DEATH OR PERSONAL INJURY CAUSED BY ANY ANONYOME PARTY’S NEGLIGENCE; OR FOR (B) ANY INJURY CAUSED BY AN ANONYOME PARTY’S FRAUD OR FRAUDULENT MISREPRESENTATION.
@@ -456,7 +468,6 @@ Disclaimer of Warranties
 YOU EXPRESSLY UNDERSTAND AND AGREE THAT TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOUR USE OF THE ANONYOME PROPERTIES IS AT YOUR SOLE RISK, AND THE ANONYOME PROPERTIES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITH ALL FAULTS. THE ANONYOME PARTIES EXPRESSLY DISCLAIM ALL WARRANTIES, REPRESENTATIONS, AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SECURITY, AND NON- INFRINGEMENT.
 
 Arbitration Agreement; Class Waiver; Waiver of Trial by Jury
-------------------------------------------------------------
 
 Please read this section (“Arbitration Agreement”) carefully. It is part of your contract with Anonyome and affects your rights. It contains procedures for MANDATORY BINDING ARBITRATION AND A CLASS ACTION WAIVER. By agreeing to arbitration, you are waiving your right to seek relief in a court of law.
 
@@ -464,99 +475,35 @@ i. Applicability of Arbitration Agreement. You acknowledge and agree that any di
 
 ii. Waiver of Jury Trial. There is no judge or jury in arbitration, and court review of an arbitration award is limited. However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages) and must follow these Terms as a court would.
 
-iii. Commencement of Arbitration Proceeding. To begin an arbitration proceeding, you must send a certified letter requesting arbitration and describing your claim to Anonyome Labs, Inc., 32 West 200 South #315, Salt Lake City, UT 84101. The arbitration will be conducted by JAMS under its rules. JAMS’ rules are available at [www.jamsadr.com](https://www.jamsadr.com/). Payment of all filing, administration and arbitrator fees will be governed by the JAMS’ rules. We will reimburse those fees for claims totaling less than $10,000 unless the arbitrator determines the claims are frivolous. Likewise, Anonyome will not seek attorneys’ fees and costs in arbitration unless the arbitrator determines the claims are frivolous. You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location.
+iii. Commencement of Arbitration Proceeding. To begin an arbitration proceeding, you must send a certified letter requesting arbitration and describing your claim to Anonyome Labs, Inc., 32 West 200 South #315, Salt Lake City, UT 84101. The arbitration will be conducted by JAMS under its rules. JAMS’ rules are available at [www.jamsadr.com](https://www.jamsadr.com/). Payment of all filing, administration and arbitrator fees will be governed by the JAMS’ rules. We will reimburse those fees for claims totaling less than $10,000 unless the arbitrator determines the claims are frivolous. Likewise, Anonyome will not seek attorneys’ fees and costs in arbitration unless the arbitrator determines the claims are frivolous. You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location.
 
-iv. No Class Actions. We each agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action. If for any reason a claim proceeds in court rather than in arbitration, we each waive any right to a jury trial. We also both agree that you or we may bring suit in court to enjoin infringement or other misuse of intellectual property rights.
+iv. No Class Actions. We each agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action. If for any reason a claim proceeds in court rather than in arbitration, we each waive any right to a jury trial. We also both agree that you or we may bring suit in court to enjoin infringement or other misuse of intellectual property rights. 
 
 Contact Us
-----------
 
-Do you have any comments, complaints, concerns, questions, requests, or suggestions, about our data collection or processing practices, or about these Terms of Service? Email us at [support@anonyome.com.](mailto:support@anonyome.com)
+Do you have any comments, complaints, concerns, questions, requests, or suggestions, about our data collection or processing practices, or about these Terms of Service? Email us at [support@anonyome.com.](mailto:support@anonyome.com)
 
-![](https://anonyome.com/wp-content/uploads/2022/03/anonyome-logo.png "anonyome-logo")
+![](https://anonyome.com/wp-content/uploads/2024/03/Anonyome-logo-2.svg)
 
-At Anonyome Labs, we believe people should be free to choose what data they share, with whom and when. Our purpose is to give people back control over their personal data, both online and offline. Anonyome Labs creates products and tools that empower end-users to protect and control their personal information. Our tools can be integrated into your apps and products.
+* [Careers](https://anonyome.com/careers/)
+    
+* [Report A Vulnerability](https://anonyome.com/report-a-vulnerability/)
+    
+* [Government Requests](https://anonyome.com/government-requests/)
+    
+* [Privacy Policy](https://anonyome.com/privacy-policy/)
+    
+* [Terms Of Service](https://anonyome.com/terms-of-service/)
+    
 
-###### Further Information
-
-[Privacy Promise](https://anonyome.com/privacy-policy/)
-
-[Report a Vulnerability](https://anonyome.com/report-a-vulnerability/)
-
-[Government Requests](https://anonyome.com/government-requests/)
-
-[Terms of Service](https://anonyome.com/terms-of-service/)
-
-###### **Company**
-
-[About Us](https://anonyome.com/about/)
-
-[Careers](https://anonyome.com/careers/)
-
-[Blog](https://anonyome.com/blog/)
-
-[Press Room](https://anonyome.com/in-the-news/)
-
-###### **Contact**
-
-[Press](https://anonyome.com/contact/ "Press")
-
-[Sales](https://anonyome.com/contact/ "Sales")
-
-###### **Connect**
-
-[Anonyome](https://anonyome.com/contact/ "Anonyome")
-
-* [Follow](https://twitter.com/AnonyomeLabs "Follow on X")
-* [Follow](https://www.instagram.com/anonyome_labs?igshid=OGQ5ZDc2ODk2ZA== "Follow on Instagram")
-* [Follow](https://www.linkedin.com/company/anonyome-labs-inc-/ "Follow on LinkedIn")
-
-[MySudo](https://mysudo.com/ "MySudo")
-
-* [Follow](https://twitter.com/MySudoApp "Follow on X")
+At Anonyome Labs, we believe people should be free to choose what data they share, with whom and when. Our purpose is to give people back control over their personal data, both online and offline. Anonyome Labs creates consumer privacy apps and identity protection solutions that empower end-users to protect and control their personal information. Our business solutions can be integrated into your apps and products.
 
 SUDO PLATFORM® and MYSUDO® are registered products of ANONYOME LABS® 2024
 
-![](https://anonyome.com/wp-content/uploads/2022/03/anonyome-logo.png "anonyome-logo")
+MySudo Virtual Cards are issued by Sutton Bank, Member FDIC, pursuant to license by Mastercard International Incorporated. Card powered by Marqeta.
 
-At Anonyome Labs, we believe people should be free to choose what data they share, with whom and when. Our purpose is to give people back control over their personal data, both online and offline. Anonyome Labs creates products and tools that empower end-users to protect and control their personal information. Our tools can be integrated into your apps and products.
-
-Further Information
-
-[Privacy Promise](https://anonyome.com/privacy-policy/)
-
-[Report a Vulnerability](https://anonyome.com/report-a-vulnerability/)
-
-[Government Requests](https://anonyome.com/report-a-vulnerability/)
-
-[Terms of Service](https://anonyome.com/terms-of-service/)
-
-Contact
-
-[Press](https://anonyome.com/contact/)
-
-[Sales](https://anonyome.com/contact/)[](https://anonyome.com/terms-of-service/)
-
-Company
-
-[About Us](https://anonyome.com/about/)
-
-[Careers](https://anonyome.com/careers/)
-
-[Blog](https://anonyome.com/blog/)
-
-[Press Room](https://anonyome.com/in-the-news/)
-
-Connect
-
-[Anonyome](https://anonyome.com/contact/ "Anonyome")
-
-* [Follow](https://twitter.com/AnonyomeLabs "Follow on X")
-* [Follow](https://www.instagram.com/anonyome_labs?igshid=OGQ5ZDc2ODk2ZA== "Follow on Instagram")
-* [Follow](https://www.linkedin.com/company/anonyome-labs-inc-/ "Follow on LinkedIn")
-
-[MySudo](https://mysudo.com/ "mysudo")
-
-* [Follow](https://twitter.com/MySudoApp "Follow on X")
-
-SUDO PLATFORM® and MYSUDO® are registered products of ANONYOME LABS®  2024
+* [](https://x.com/AnonyomeLabs)
+    
+* [](https://www.instagram.com/anonyome_labs/?hl=en)
+    
+* [](https://www.linkedin.com/company/anonyome-labs-inc-/mycompany/verification/)
