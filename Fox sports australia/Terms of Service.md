@@ -38,26 +38,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250301)
 * [Women's T20
     
-    HOB won by 3 wkts
-    
-    |     |     |
-    | --- | --- |
-    | ACT | 7 /122 |
-    | HOB | 7 /126 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250114)
-* [Women's T20
-    
-    BRI won by 6 wkts
-    
-    |     |     |
-    | --- | --- |
-    | ADE | 6 /175 |
-    | BRI | 4 /176 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250115)
-* [Women's T20
-    
     SYDT won by 61 runs
     
     |     |     |
@@ -174,18 +154,20 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=712)
-* Baseball
+* Basketball
     
-* [MLB
+* [NBL
     
-    Final
+    17/10 19:30 AEST
     
     |     |     |
     | --- | --- |
-    | NYY | 6   |
-    | CLE | 3   |
+    | BRI | –   |
+    | NZB | –   |
     
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240020026E104)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25050001)
+* Baseball
+    
 * [MLB
     
     17/10 11:08 AEST
