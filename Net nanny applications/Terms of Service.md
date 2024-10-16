@@ -1,4 +1,4 @@
-[![Net Nanny](/net-nanny-logo.png)](https://www.netnanny.com/ "Return to the Home Page")
+[![Net Nanny](/net-nanny-logo.svg)](https://www.netnanny.com/ "Return to the Home Page")
 
 * [_Contact Us_](https://www.netnanny.com/support/terms-conditions/#)
 * [Buy Now](https://www.netnanny.com/checkout/)
@@ -223,5 +223,7 @@ SUBMIT
 * [](https://twitter.com/netnanny "Twitter")
 * [](https://www.instagram.com/net_nanny/ "Instagram")
 * [](https://www.youtube.com/c/NetNannyVids "YouTube")
+
+![Net Nanny](/net-nanny-logo.svg)
 
 © 2018-2023 SafeToNet Limited. All Rights Reserved.
