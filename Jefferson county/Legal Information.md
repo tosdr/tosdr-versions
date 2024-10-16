@@ -2,7 +2,7 @@
 
         
 
- [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) Fire Restrictions](https://www.jeffco.us/CivicAlerts.aspx?AID=225) [Stage 1 Fire Restrictions in Unincorporated Jefferson County Read On...](https://www.jeffco.us/AlertCenter.aspx?AID=Stage-1-Fire-Restrictions-in-Unincorpora-1562)
+ [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) Notice](https://www.jeffco.us/4520/2024-Ballot-Measure-and-Statement) [2024 Ballot Measure and Statement Read On...](https://www.jeffco.us/AlertCenter.aspx?AID=2024-Ballot-Measure-and-Statement-1619) [Stage 1 Fire Restrictions in Unincorporated Jefferson County Read On...](https://www.jeffco.us/AlertCenter.aspx?AID=Stage-1-Fire-Restrictions-in-Unincorpora-1562)
 
  [![Search](/ImageRepository/Document?documentID=76)](https://www.jeffco.us/Search/Results) Search
 
