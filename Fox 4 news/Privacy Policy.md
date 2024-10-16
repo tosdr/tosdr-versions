@@ -402,6 +402,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Americans are feeling more anxious about their credit card debt, survey finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1237672734.jpg?ve=1&tl=1)
+
+ ![Americans are feeling more anxious about their credit card debt, survey finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1237672734.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/americans-more-anxious-credit-card-debt-survey-2024)
+
+### [Americans are feeling more anxious about their credit card debt, survey finds](https://www.fox4news.com/news/americans-more-anxious-credit-card-debt-survey-2024)
+
+ [![Elderly woman hospitalized after drive-by shooting through South Dallas living room window](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-wilshire-blvd-driveby-shooting-4a_00.00.42.10.jpg?ve=1&tl=1)
+
+ ![Elderly woman hospitalized after drive-by shooting through South Dallas living room window](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-wilshire-blvd-driveby-shooting-4a_00.00.42.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/elderly-woman-hospitalized-drive-by-shooting-south-dallas-living-room-window)
+
+### [Elderly woman hospitalized after drive-by shooting through South Dallas living room window](https://www.fox4news.com/news/elderly-woman-hospitalized-drive-by-shooting-south-dallas-living-room-window)
+
+ [![Big Lots to shutter more than 50 retail locations](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2170058341-1.jpg?ve=1&tl=1)
+
+ ![Big Lots to shutter more than 50 retail locations](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2170058341-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/big-lots-close-over-50-store-locations-us)
+
+### [Big Lots to shutter more than 50 retail locations](https://www.fox4news.com/news/big-lots-close-over-50-store-locations-us)
+
  [![Highlights: Ted Cruz, Collin Allred face off in only debate for Texas U.S. Senate seat](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-cruz-allred-debate-10p_00.00.55.50.jpg?ve=1&tl=1)
 
  ![Highlights: Ted Cruz, Collin Allred face off in only debate for Texas U.S. Senate seat](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-cruz-allred-debate-10p_00.00.55.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/colin-allred-ted-cruz-senate-debate-highlights)
@@ -413,24 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![WATCH: Duncanville officer saves unresponsive baby born in parking lot](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-duncanville-officer-life-saving-award-9p_00.00.01.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/duncanville-police-officer-anai-figueroa-body-camera-video-newborn-baby)
 
 ### [WATCH: Duncanville officer saves unresponsive baby born in parking lot](https://www.fox4news.com/news/duncanville-police-officer-anai-figueroa-body-camera-video-newborn-baby)
-
- [![Judge blocks Grand Prairie ISD from firing its superintendent](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-amelia-gpisd-superintendent-on-leave-9p_00.00.06.20.jpg?ve=1&tl=1)
-
- ![Judge blocks Grand Prairie ISD from firing its superintendent](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-amelia-gpisd-superintendent-on-leave-9p_00.00.06.20.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/superintendent-jorge-arredondo-temporary-restraining-order-granted-gpisd)
-
-### [Judge blocks Grand Prairie ISD from firing its superintendent](https://www.fox4news.com/news/superintendent-jorge-arredondo-temporary-restraining-order-granted-gpisd)
-
- [![Dallas County's 'I voted' stickers get redesign thanks to these high school students](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-ntx-girls-win-election-sticker-contest-9p_00.00.11.36.jpg?ve=1&tl=1)
-
- ![Dallas County's 'I voted' stickers get redesign thanks to these high school students](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-ntx-girls-win-election-sticker-contest-9p_00.00.11.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-elections-i-voted-sticker-design-contest-winners)
-
-### [Dallas County's 'I voted' stickers get redesign thanks to these high school students](https://www.fox4news.com/news/dallas-county-elections-i-voted-sticker-design-contest-winners)
-
- [![Dallas County jury acquits man of OU football player’s murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-duvonta-lampkin-murder-trial-acquital-10p_00.00.01.48.jpg?ve=1&tl=1)
-
- ![Dallas County jury acquits man of OU football player’s murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-duvonta-lampkin-murder-trial-acquital-10p_00.00.01.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/john-williams-not-guilty-acquittal-university-of-oklahoma-duvonta-lampkin-death)
-
-### [Dallas County jury acquits man of OU football player’s murder](https://www.fox4news.com/news/john-williams-not-guilty-acquittal-university-of-oklahoma-duvonta-lampkin-death)
 
 ###### [News](https://www.fox4news.com/news)
 
