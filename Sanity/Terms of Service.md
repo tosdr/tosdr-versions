@@ -159,7 +159,7 @@
         
         Unique digital shopping experience](https://www.sanity.io/customers/aether)
         
-        [View all](https://www.sanity.io/case-studies)
+        [View all](https://www.sanity.io/customers?ref=navbar)
         
         Popular guides
         --------------
@@ -168,8 +168,9 @@
         
         [View all](https://www.sanity.io/resources)
         
+    * [Customers](https://www.sanity.io/customers?ref=navbar)
     * [Enterprise](https://www.sanity.io/enterprise?ref=navbar)
-    * [Pricing](https://www.sanity.io/pricing)
+    * [Pricing](https://www.sanity.io/pricing?ref=navbar)
 * * Search
     * [Log in](https://www.sanity.io/manage)
     * [Contact sales](https://www.sanity.io/contact/sales?ref=navbar)
