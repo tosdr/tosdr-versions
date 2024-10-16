@@ -96,7 +96,6 @@
                 
         * [Hypnosense](https://www.tintolav.com/en/products/hypnosense.html)
             * * [Back](#)
-                * [Tex Line](https://www.tintolav.com/en/products/hypnosense/tex-line.html)
                 * [Soft Line](https://www.tintolav.com/en/products/hypnosense/soft-line.html)
                 * [Deo's Home Line](https://www.tintolav.com/en/products/hypnosense/deos-home-line.html)
                 * [Deo's Pro Line](https://www.tintolav.com/en/products/hypnosense/deos-pro-line.html)
