@@ -587,6 +587,7 @@ The best social media marketing app, influencer marketing management platform & 
     Solutions
     
     * [Later Influencer Program](https://www.mavrck.co/influencer-creator-program/)
+    * [Affiliate Marketing](https://www.mavrck.co/affiliate-marketing/)
     * [Reputation Management](https://www.mavrck.co/reputation-management-software/)
     
     Tools
