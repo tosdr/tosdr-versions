@@ -1,6 +1,9 @@
 [Skip to main content](#main)
 
 [![Nextcloud Hub 9 is here!
+](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Nextcloud Hub 9 is here!
 ](https://nextcloud.com/c/uploads/2024/07/nc-hub9-logo-blue-gradient.svg)](https://nextcloud.com/blog/nextcloud-hub9/ "Nextcloud Hub 9 is here!
 ")
 
@@ -26,7 +29,9 @@
 
 [Register now](https://nextcloud.com/enterprise-day/ "Nextcloud Enterprise Day 2024")
 
-[![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
+[![Nextcloud logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
+
+![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
 
 * [Products](# "Products")
     * [![Nextcloud Hub](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -260,7 +265,13 @@ Further information about our company can be found in the [imprint](https://next
 
 **(2) Data Protection Officer**
 
-The company data protection officer of Nextcloud.com is Mr Tobias Kaminsky. The data protection officer can be contacted at the above address or at [dpo@nextcloud.com](mailto:dpo@nextcloud.com).
+The company data protection officer of Nextcloud.com is:  
+Mr. Semen Kivanc  
+DataCo GmbH  
+Nymphenburger Str. 86,  
+80636 München  
+Email: [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.de)  
+Phone: +4989740045840
 
 **III General information on data protection in the Nextcloud products**
 ------------------------------------------------------------------------
@@ -1104,6 +1115,8 @@ Search:
     ![RSS Feed](https://nextcloud.com/c/uploads/2023/01/RSS-feed-icon-white.svg)](https://nextcloud.com/feed/ "RSS Feed")
 
 © 2022 - 2024 Nextcloud GmbH
+
+![Nextcloud](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2071%2050'%3E%3C/svg%3E "Nextcloud")
 
 ![Nextcloud](https://nextcloud.com/wp-content/uploads/2022/10/nextcloud-logo-blue-transparent.svg "Nextcloud")
 
