@@ -186,11 +186,11 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 * [**Solar System: Volcano Worlds** | NOVA](https://video.nhpbs.org/video/solar-system-volcano-worlds-uysbb5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Harris courts Black voters as Trump faces tariff grilling** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-1729027462?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Amsterdam in Winter** | Van der Valk](https://video.nhpbs.org/video/amsterdam-in-winter-7ygz6l?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**"This Supreme Court Is Its Own Worst Enemy:" Expert Discusses SCOTUS New Term** | Amanpour and Company](https://video.nhpbs.org/video/this-supreme-court-is-its-own-worst-enemy-expert-discusses-scotus-new-term-c0hflh?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**A Year of War: Israelis and Palestinians** | FRONTLINE](https://video.nhpbs.org/video/a-year-of-war-israelis-and-palestinians-ojps9u?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Amsterdam in Winter** | Van der Valk](https://video.nhpbs.org/video/amsterdam-in-winter-7ygz6l?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer Make Peace or Die: Honor the Fallen** | Independent Lens](https://video.nhpbs.org/video/trailer-make-peace-or-die-honor-the-fallen-0cbbaz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 6 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-6-preview-n0vlgx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Ted Johnson on Trump's Appeal to Black Men: "Hyper-Masculine and Untouchable"** | Amanpour and Company](https://video.nhpbs.org/video/ted-johnson-on-trumps-appeal-to-black-men-hyper-masculine-and-untouchable-djfosj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 Ford Ranger & 2024 BMW X2** | MotorWeek](https://video.nhpbs.org/video/2024-ford-ranger-2024-bmw-x2-pluiue?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Celestine Tate Harrington: Building a Legacy** | American Masters](https://video.nhpbs.org/video/celestine-tate-harrington-uj5ni1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
