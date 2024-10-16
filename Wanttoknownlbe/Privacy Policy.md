@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/kankerbehandeling-homeopathie-verslaat-regulier/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/bankoverstap-een-gedoe-nou-welterusten-dan/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
