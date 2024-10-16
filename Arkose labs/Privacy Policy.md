@@ -218,7 +218,7 @@ Privacy Policy
 
 **PRIVACY POLICY**
 
-**Effective date: October 9th, 2023**
+**Effective date: October 15th, 2024**
 
 We take your privacy seriously at Arkose Labs, Inc. and its affiliates (“Arkose Labs”). Please read this Privacy Policy to learn how we treat your personal data. **By using or accessing our Services in any manner, you acknowledge that you accept the practices and policies outlined below, and you hereby consent that we will collect, use and share your information as described in this Privacy Policy.**
 
@@ -596,7 +596,8 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 * * Data Protection Officer: [https://arkoselabs.com/privacy-request](https://arkoselabs.com/privacy-request), or;
     * EU / SWISS Member Representative: DP-Dock GmbH, Attn: Arkose Labs, Ballindamm 39, 20095 Hamburg, Germany, email: [\[email protected\]](https://www.arkoselabs.com/cdn-cgi/l/email-protection), or;
     * UK Member Representative: DP Data Protection Services UK Ltd., Attn: Arkose Labs, 16 Great Queen Street, Covent Garden, London, WC2B 5AH, United Kingdom, email: [\[email protected\]](https://www.arkoselabs.com/cdn-cgi/l/email-protection).
-    * Arkose Labs has further committed to refer unresolved privacy complaints under the DPF Principles to an independent dispute resolution mechanism, Data Privacy Framework Services, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/programs/all-programs/dpf-consumers/ProcessForConsumers](https://bbbprograms.org/programs/all-programs/dpf-consumers/ProcessForConsumers) for more information and to file a complaint. This service is provided free of charge to you.
+    * In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Arkose Labs commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF.  
+        
     * If your DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See [https://www.dataprivacyframework.gov/s/article/G-Arbitration-Procedures-dpf?tabset-35584=2](https://www.dataprivacyframework.gov/s/article/G-Arbitration-Procedures-dpf?tabset-35584=2)
 
 * Products
@@ -687,4 +688,4 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 
                                                  
 
-https://www.arkoselabs.com/
+https://cozatydzien.tvn.pl/
