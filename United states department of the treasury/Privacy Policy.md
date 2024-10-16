@@ -555,6 +555,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    October 16, 2024
+    
+    [Treasury Targets Hizballah Finance Network and Syrian Captagon Trafficking](https://home.treasury.gov/news/press-releases/jy2648)
+    
     October 15, 2024
     
     [United States and Canada Target Key International Fundraiser for Foreign Terrorist Organization PFLP](https://home.treasury.gov/news/press-releases/jy2646)
@@ -562,10 +566,6 @@ MENU MENU
     October 11, 2024
     
     [Treasury Expands Targeted Sanctions on Iranian Petroleum and Petrochemical Sectors in Response to Attack on Israel](https://home.treasury.gov/news/press-releases/jy2644)
-    
-    October 11, 2024
-    
-    [U.S. Department of the Treasury Guarantees $498 Million in Bond Funding for Projects in Low-Income Communities, Marking Largest Bond Issuance in Program History](https://home.treasury.gov/news/press-releases/jy2642)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
