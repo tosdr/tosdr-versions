@@ -165,23 +165,23 @@
     
     9 月 17, 2024 2
     
-* [![用诞生 53 年的 FTP 协议分享文件：2 款 FTP 服务器工具[Windows] 8](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-13T201642.817-115x115.jpg "用诞生 53 年的 FTP 协议分享文件：2 款 FTP 服务器工具[Windows] 8")](https://www.appinn.com/two-ftp-server-tools/ "用诞生 53 年的 FTP 协议分享文件：2 款 FTP 服务器工具[Windows]")
+* [![十月特惠！专业卸载清理工具 Total Uninstall 限时 7 折，仅需 41.3 元起｜它还能备份软件、搬家 8](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-15T130035.396-115x115.jpg "十月特惠！专业卸载清理工具 Total Uninstall 限时 7 折，仅需 41.3 元起｜它还能备份软件、搬家 8")](https://www.appinn.com/total-uninstall-3/ "十月特惠！专业卸载清理工具 Total Uninstall 限时 7 折，仅需 41.3 元起｜它还能备份软件、搬家")
+    
+    [十月特惠！专业卸载清理工具 Total Uninstall 限时 7 折，仅需 41.3 …](https://www.appinn.com/total-uninstall-3/ "十月特惠！专业卸载清理工具 Total Uninstall 限时 7 折，仅需 41.3 元起｜它还能备份软件、搬家")
+    
+    10 月 16, 2024 2
+    
+* [![用诞生 53 年的 FTP 协议分享文件：2 款 FTP 服务器工具[Windows] 9](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-13T201642.817-115x115.jpg "用诞生 53 年的 FTP 协议分享文件：2 款 FTP 服务器工具[Windows] 9")](https://www.appinn.com/two-ftp-server-tools/ "用诞生 53 年的 FTP 协议分享文件：2 款 FTP 服务器工具[Windows]")
     
     [用诞生 53 年的 FTP 协议分享文件：2 款 FTP …](https://www.appinn.com/two-ftp-server-tools/ "用诞生 53 年的 FTP 协议分享文件：2 款 FTP 服务器工具[Windows]")
     
     10 月 13, 2024 1
     
-* [![为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能 9](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-19T161939.974-115x115.jpg "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能 9")](https://www.appinn.com/winrar-7zip-mini-tips/ "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能")
+* [![为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能 10](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-19T161939.974-115x115.jpg "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能 10")](https://www.appinn.com/winrar-7zip-mini-tips/ "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能")
     
     [为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能](https://www.appinn.com/winrar-7zip-mini-tips/ "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能")
     
     9 月 19, 2024 1
-    
-* [![Just (Video) Player - 安卓开源视频播放器 10](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-14T154415.982-115x115.jpg "Just (Video) Player - 安卓开源视频播放器 10")](https://www.appinn.com/just-video-player/ "Just (Video) Player – 安卓开源视频播放器")
-    
-    [Just (Video) Player – 安卓开源视频播放器](https://www.appinn.com/just-video-player/ "Just (Video) Player – 安卓开源视频播放器")
-    
-    10 月 14, 2024 1
     
 
 ### 分类
