@@ -164,8 +164,8 @@ About
 
 Follow us
 
-* _​_ [Instagram](https://www.iscream-shop.com/website/social/instagram)
-* _​_ [Facebook](https://www.iscream-shop.com/website/social/facebook)
+* [Instagram](https://www.iscream-shop.com/website/social/instagram)
+* [Facebook](https://www.iscream-shop.com/website/social/facebook)
 *   
     
 *   
