@@ -12,8 +12,8 @@ Menu
     
     TOP STORIES
     
-    * [Hezbollah vows to expand attacks in Israel after deadly strike in Lebanon's Christian heartland](https://apnews.com/article/israel-lebanon-aito-war-hezbollah-7d497b9c3c5a7429b3ac1fd3560f89be)
-    * [UN says Yemen risks being dragged into Mideast conflict that could spiral out of control](https://apnews.com/article/un-yemen-mideast-escalation-houthis-shipping-israel-379f4d5d63bbaab5880be0b3b44d6819)
+    * [Zelenskyy's 'victory plan' includes a big hurdle for the West: NATO membership for Ukraine](https://apnews.com/article/ukraine-victory-plan-unveiled-zelenskyy-parliament-f3525550f6986f590777193a7385c0c5)
+    * [Israeli strikes hit Lebanon and kill at least 15 in a town with a dark history of civilian deaths](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-16-2024-f18b2e0f5e05eb11a3c2ee29c16ed867)
     * [Canadian doctors who provide euthanasia struggle with the ethics of killing vulnerable patients](https://apnews.com/article/euthanasia-ethics-canada-doctors-nonterminal-nonfatal-cases-dfe59b1786592e31d9eb3b826c5175d1)
     
     Newsletters
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
+    * [Many schools are still closed weeks after Hurricane Helene. Teachers worry about long-term impact](https://apnews.com/article/schools-hurricane-helene-education-0375767ce9ff4754dd95dd29423fc788)
     * [Georgia judge blocks ballot counting rule and says county officials must certify election results](https://apnews.com/article/georgia-election-rules-certification-03f6bc623d9f6aeeb3f9dc47823d03f9)
     * [Republicans challenge more than 63,000 voters in Georgia, but few removed, AP finds](https://apnews.com/article/georgia-voter-challenges-2024-election-f817bc282ea44e008af74f6bf5793bd1)
-    * [Unions face a moment of truth in Michigan in this year's presidential race](https://apnews.com/article/harris-trump-union-michigan-uaw-4faf892e9b91ae7cd1a6ffecaceb8d7d)
     
     Newsletters
     
@@ -74,7 +74,7 @@ Menu
     
     * [Unions face a moment of truth in Michigan in this year's presidential race](https://apnews.com/article/harris-trump-union-michigan-uaw-4faf892e9b91ae7cd1a6ffecaceb8d7d)
     * [Jill Biden is out campaigning again — but not for her husband anymore. She's pumping up Harris](https://apnews.com/article/jill-biden-campaigning-battleground-states-harris-f4b89d5084620759947d9f131f7ab058)
-    * [Harris works to energize Black male voters while Trump continues to attack immigration policy](https://apnews.com/article/harris-charlamagne-trump-breakfast-club-women-2eab5daa1095b7ecb38fe92857acdb86)
+    * [Michelle Obama will headline an Atlanta rally aimed at boosting voter turnout](https://apnews.com/article/michelle-obama-georgia-younger-voters-harris-curry-85c45be7377a84d04362050664ac44c8)
     
     Newsletters
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [What's behind the widening gender wage gap in the US?](https://apnews.com/article/gender-wage-gap-women-pay-latina-work-dce2d7cf2c004dfe5322fffaf5fdbbcf)
     * [Unions face a moment of truth in Michigan in this year's presidential race](https://apnews.com/article/harris-trump-union-michigan-uaw-4faf892e9b91ae7cd1a6ffecaceb8d7d)
     * [Trump uses interview on economics to promote tariffs and riff on his favorite themes](https://apnews.com/article/trump-tariffs-economics-plan-6a4b07be04e342bf657ad12ef7b6bbfa)
-    * [Trump's economic plans would worsen inflation, experts say](https://apnews.com/article/trump-inflation-tariffs-taxes-immigration-federal-reserve-a18de763fcc01557258c7f33cab375ed)
     
 * [Science](https://apnews.com/science)
     
@@ -242,11 +242,11 @@ Menu
     
     TOP STORIES
     
+    * [New UK bill aims to legalize assisted dying for people who are terminally ill](https://apnews.com/article/britain-assisted-dying-bill-parliament-45f544221d4695e8e20445f6bd25dd4c)
     * [Takeaways from AP's report on euthanasia, doctors and ethics in Canada](https://apnews.com/article/euthanasia-ethics-canada-doctors-nonterminal-nonfatal-cases-2e4486b3f69e33d226d0f4a5e036a2f8)
     * [Canadian doctors who provide euthanasia struggle with the ethics of killing vulnerable patients](https://apnews.com/article/euthanasia-ethics-canada-doctors-nonterminal-nonfatal-cases-dfe59b1786592e31d9eb3b826c5175d1)
     * [USDA launches an internal investigation into the deadly Boar's Head outbreak](https://apnews.com/article/boars-head-listeria-investigation-usda-bdcecaa25363c87d08ba01cf71aefb0b)
     * [Voters with disabilities are feeling ignored by presidential candidates](https://apnews.com/article/disabilities-voters-trump-harris-dc53223ac8b1bd24196ab39284e08ad4)
-    * [Expect employers to get more picky about who you see for care](https://apnews.com/article/employer-health-care-costs-wegovy-62384cf7bdd328993e9da0585444e34a)
     * [Years of war in Congo have created a dire mental health crisis. But little support is available](https://apnews.com/article/congo-conflict-mental-health-88642207a472870de36e5f434ead5990)
     
 * [Tech](https://apnews.com/technology)
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
-    * [Many schools are still closed weeks after Hurricane Helene. Teachers worry about long-term impact](https://apnews.com/article/schools-hurricane-helene-education-0375767ce9ff4754dd95dd29423fc788)
-    * [Protesters demand Kellogg remove artificial colors from Froot Loops and other cereals](https://apnews.com/article/kellogg-artificial-colors-dyes-cereal-c167f3c51f03d8f43612fc6afe9b2fdd)
-    * [A grand museum displaying Egypt's ancient treasures is opening for a trial run](https://apnews.com/article/egypt-grand-egyptian-museum-antiquities-giza-pyramids-be3938b7d6ce96b1aa03693c0440a0f1)
+    * [Edmunds: The four tech features you need to get on your next vehicle](https://apnews.com/article/automobile-technology-camera-safety-472cdf411e143582d57240d643e1c745)
+    * [Another study points to correlation between helmet use on motorcycles and odds of survival](https://apnews.com/article/motorcycle-helmet-iihs-safety-9ffe2c95d014281dbab7a1ffcc859696)
+    * [How Jose Iglesias’ ‘OMG’ became the perfect anthem for the underdog Mets](https://apnews.com/article/omg-mets-jose-iglesias-03c39447d25d9d0f7b907da2bf91903d)
     
 * [Religion](https://apnews.com/religion)
     
@@ -293,11 +293,11 @@ Menu
     
     TOP STORIES
     
-    * [Hezbollah promete ampliar sus atentados en Israel tras el mortífero ataque en el norte del Líbano](https://apnews.com/world-news/general-news-71c07ae46024ce5e32152bee8b05c98a)
+    * [Un ataque israelí deja 15 muertos en Qana, una ciudad libanesa con un pasado de muertes civiles](https://apnews.com/world-news/general-news-39713d3f48c4978a8458e42e1604bdeb)
+    * [Zelenskyy dice que su "plan de victoria" pasa por entrar en la OTAN, una gran traba para Occidente](https://apnews.com/world-news/general-news-a46933becff2806220409178b1864232)
+    * [Llega a Albania el primer barco italiano con migrantes para procesar allí sus solicitudes de asilo](https://apnews.com/world-news/general-news-6e0d6e7dda8243b2f0fd6e3f4456146d)
     * [Harris busca el voto de hombres negros mientras Trump continúa con críticas a políticas migratorias](https://apnews.com/politics/elecciones-en-eeuu-a5fc70875504caa6eb6b6e8f00c1a455)
-    * [El Consejo de Seguridad expresa su "fuerte preocupación" por cascos azules tras ataques israelíes](https://apnews.com/world-news/general-news-65f4776e303e4b6510af58567c7b02d7)
-    * [Israel garantiza a EEUU que no atacará sitios nucleares o petrolíferos de Irán, dicen funcionarios](https://apnews.com/us-news/general-news-9a03834a46f6e47a05b9d21cc379723b)
-    * [Trump enfatiza la hipermasculinidad en su batalla con Harris por atraer el voto masculino](https://apnews.com/politics/elecciones-en-eeuu-275f41d687e0288999638660fe8e99bb)
+    * [Inundaciones del monzón cierran escuelas y oficinas en los núcleos tecnológicos en el sur de India](https://apnews.com/world-news/general-news-b399aa93751f78d5569c6e6911654ac1)
     * [Los trabajadores de salud de California reciben aumentos con la nueva ley de salario mínimo](https://apnews.com/us-news/general-news-99513572037875cb5157f96c72cf016c)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
@@ -459,8 +459,8 @@ Submit Search
     
     TOP STORIES
     
-    * [Hezbollah vows to expand attacks in Israel after deadly strike in Lebanon's Christian heartland](https://apnews.com/article/israel-lebanon-aito-war-hezbollah-7d497b9c3c5a7429b3ac1fd3560f89be)
-    * [UN says Yemen risks being dragged into Mideast conflict that could spiral out of control](https://apnews.com/article/un-yemen-mideast-escalation-houthis-shipping-israel-379f4d5d63bbaab5880be0b3b44d6819)
+    * [Zelenskyy's 'victory plan' includes a big hurdle for the West: NATO membership for Ukraine](https://apnews.com/article/ukraine-victory-plan-unveiled-zelenskyy-parliament-f3525550f6986f590777193a7385c0c5)
+    * [Israeli strikes hit Lebanon and kill at least 15 in a town with a dark history of civilian deaths](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-16-2024-f18b2e0f5e05eb11a3c2ee29c16ed867)
     * [Canadian doctors who provide euthanasia struggle with the ethics of killing vulnerable patients](https://apnews.com/article/euthanasia-ethics-canada-doctors-nonterminal-nonfatal-cases-dfe59b1786592e31d9eb3b826c5175d1)
     
     Newsletters
@@ -477,9 +477,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Many schools are still closed weeks after Hurricane Helene. Teachers worry about long-term impact](https://apnews.com/article/schools-hurricane-helene-education-0375767ce9ff4754dd95dd29423fc788)
     * [Georgia judge blocks ballot counting rule and says county officials must certify election results](https://apnews.com/article/georgia-election-rules-certification-03f6bc623d9f6aeeb3f9dc47823d03f9)
     * [Republicans challenge more than 63,000 voters in Georgia, but few removed, AP finds](https://apnews.com/article/georgia-voter-challenges-2024-election-f817bc282ea44e008af74f6bf5793bd1)
-    * [Unions face a moment of truth in Michigan in this year's presidential race](https://apnews.com/article/harris-trump-union-michigan-uaw-4faf892e9b91ae7cd1a6ffecaceb8d7d)
     
     Newsletters
     
@@ -533,7 +533,7 @@ Submit Search
     
     * [Unions face a moment of truth in Michigan in this year's presidential race](https://apnews.com/article/harris-trump-union-michigan-uaw-4faf892e9b91ae7cd1a6ffecaceb8d7d)
     * [Jill Biden is out campaigning again — but not for her husband anymore. She's pumping up Harris](https://apnews.com/article/jill-biden-campaigning-battleground-states-harris-f4b89d5084620759947d9f131f7ab058)
-    * [Harris works to energize Black male voters while Trump continues to attack immigration policy](https://apnews.com/article/harris-charlamagne-trump-breakfast-club-women-2eab5daa1095b7ecb38fe92857acdb86)
+    * [Michelle Obama will headline an Atlanta rally aimed at boosting voter turnout](https://apnews.com/article/michelle-obama-georgia-younger-voters-harris-curry-85c45be7377a84d04362050664ac44c8)
     
     Newsletters
     
@@ -606,9 +606,9 @@ Submit Search
     
     TOP STORIES
     
+    * [What's behind the widening gender wage gap in the US?](https://apnews.com/article/gender-wage-gap-women-pay-latina-work-dce2d7cf2c004dfe5322fffaf5fdbbcf)
     * [Unions face a moment of truth in Michigan in this year's presidential race](https://apnews.com/article/harris-trump-union-michigan-uaw-4faf892e9b91ae7cd1a6ffecaceb8d7d)
     * [Trump uses interview on economics to promote tariffs and riff on his favorite themes](https://apnews.com/article/trump-tariffs-economics-plan-6a4b07be04e342bf657ad12ef7b6bbfa)
-    * [Trump's economic plans would worsen inflation, experts say](https://apnews.com/article/trump-inflation-tariffs-taxes-immigration-federal-reserve-a18de763fcc01557258c7f33cab375ed)
     
 * [Science](https://apnews.com/science)
     
@@ -737,11 +737,11 @@ Submit Search
     
     TOP STORIES
     
+    * [New UK bill aims to legalize assisted dying for people who are terminally ill](https://apnews.com/article/britain-assisted-dying-bill-parliament-45f544221d4695e8e20445f6bd25dd4c)
     * [Takeaways from AP's report on euthanasia, doctors and ethics in Canada](https://apnews.com/article/euthanasia-ethics-canada-doctors-nonterminal-nonfatal-cases-2e4486b3f69e33d226d0f4a5e036a2f8)
     * [Canadian doctors who provide euthanasia struggle with the ethics of killing vulnerable patients](https://apnews.com/article/euthanasia-ethics-canada-doctors-nonterminal-nonfatal-cases-dfe59b1786592e31d9eb3b826c5175d1)
     * [USDA launches an internal investigation into the deadly Boar's Head outbreak](https://apnews.com/article/boars-head-listeria-investigation-usda-bdcecaa25363c87d08ba01cf71aefb0b)
     * [Voters with disabilities are feeling ignored by presidential candidates](https://apnews.com/article/disabilities-voters-trump-harris-dc53223ac8b1bd24196ab39284e08ad4)
-    * [Expect employers to get more picky about who you see for care](https://apnews.com/article/employer-health-care-costs-wegovy-62384cf7bdd328993e9da0585444e34a)
     * [Years of war in Congo have created a dire mental health crisis. But little support is available](https://apnews.com/article/congo-conflict-mental-health-88642207a472870de36e5f434ead5990)
     
 * [Tech](https://apnews.com/technology)
@@ -775,9 +775,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Many schools are still closed weeks after Hurricane Helene. Teachers worry about long-term impact](https://apnews.com/article/schools-hurricane-helene-education-0375767ce9ff4754dd95dd29423fc788)
-    * [Protesters demand Kellogg remove artificial colors from Froot Loops and other cereals](https://apnews.com/article/kellogg-artificial-colors-dyes-cereal-c167f3c51f03d8f43612fc6afe9b2fdd)
-    * [A grand museum displaying Egypt's ancient treasures is opening for a trial run](https://apnews.com/article/egypt-grand-egyptian-museum-antiquities-giza-pyramids-be3938b7d6ce96b1aa03693c0440a0f1)
+    * [Edmunds: The four tech features you need to get on your next vehicle](https://apnews.com/article/automobile-technology-camera-safety-472cdf411e143582d57240d643e1c745)
+    * [Another study points to correlation between helmet use on motorcycles and odds of survival](https://apnews.com/article/motorcycle-helmet-iihs-safety-9ffe2c95d014281dbab7a1ffcc859696)
+    * [How Jose Iglesias’ ‘OMG’ became the perfect anthem for the underdog Mets](https://apnews.com/article/omg-mets-jose-iglesias-03c39447d25d9d0f7b907da2bf91903d)
     
 * [Religion](https://apnews.com/religion)
     
@@ -799,11 +799,11 @@ Submit Search
     
     TOP STORIES
     
-    * [Hezbollah promete ampliar sus atentados en Israel tras el mortífero ataque en el norte del Líbano](https://apnews.com/world-news/general-news-71c07ae46024ce5e32152bee8b05c98a)
+    * [Un ataque israelí deja 15 muertos en Qana, una ciudad libanesa con un pasado de muertes civiles](https://apnews.com/world-news/general-news-39713d3f48c4978a8458e42e1604bdeb)
+    * [Zelenskyy dice que su "plan de victoria" pasa por entrar en la OTAN, una gran traba para Occidente](https://apnews.com/world-news/general-news-a46933becff2806220409178b1864232)
+    * [Llega a Albania el primer barco italiano con migrantes para procesar allí sus solicitudes de asilo](https://apnews.com/world-news/general-news-6e0d6e7dda8243b2f0fd6e3f4456146d)
     * [Harris busca el voto de hombres negros mientras Trump continúa con críticas a políticas migratorias](https://apnews.com/politics/elecciones-en-eeuu-a5fc70875504caa6eb6b6e8f00c1a455)
-    * [El Consejo de Seguridad expresa su "fuerte preocupación" por cascos azules tras ataques israelíes](https://apnews.com/world-news/general-news-65f4776e303e4b6510af58567c7b02d7)
-    * [Israel garantiza a EEUU que no atacará sitios nucleares o petrolíferos de Irán, dicen funcionarios](https://apnews.com/us-news/general-news-9a03834a46f6e47a05b9d21cc379723b)
-    * [Trump enfatiza la hipermasculinidad en su batalla con Harris por atraer el voto masculino](https://apnews.com/politics/elecciones-en-eeuu-275f41d687e0288999638660fe8e99bb)
+    * [Inundaciones del monzón cierran escuelas y oficinas en los núcleos tecnológicos en el sur de India](https://apnews.com/world-news/general-news-b399aa93751f78d5569c6e6911654ac1)
     * [Los trabajadores de salud de California reciben aumentos con la nueva ley de salario mínimo](https://apnews.com/us-news/general-news-99513572037875cb5157f96c72cf016c)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
