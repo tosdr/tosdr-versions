@@ -806,8 +806,8 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
+* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
+* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
+* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Finanzberatung: Dubioser Verein zur Honorarberatung macht weiter](https://www.test.de/Finanzberatung-Dubioser-Verein-zur-Honorarberatung-macht-weiter-6144912-0/ "Finanzberatung - Dubioser Verein zur Honorarberatung macht weiter")
 
 Fußbereich
 
@@ -3840,8 +3840,8 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
@@ -3849,19 +3849,19 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
+* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
+* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
+* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Finanzberatung: Dubioser Verein zur Honorarberatung macht weiter](https://www.test.de/Finanzberatung-Dubioser-Verein-zur-Honorarberatung-macht-weiter-6144912-0/ "Finanzberatung - Dubioser Verein zur Honorarberatung macht weiter")
 
 Weitere spannende Themen
 
 Neueste Tests
 
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
@@ -3869,17 +3869,17 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
+* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
+* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
+* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Finanzberatung: Dubioser Verein zur Honorarberatung macht weiter](https://www.test.de/Finanzberatung-Dubioser-Verein-zur-Honorarberatung-macht-weiter-6144912-0/ "Finanzberatung - Dubioser Verein zur Honorarberatung macht weiter")
 
 Neueste Tests
 
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
+* [Schön­heits­drinks im Test: Sich schön trinken? Teure Ampullen sind nicht die Lösung](https://www.test.de/Hyaluron-und-Kollagen-Drinks-im-Test-5929016-0/ "Schönheitsdrinks im Test - Sich schön trinken? Teure Ampullen sind nicht die Lösung")
+* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
+* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Finanzberatung: Dubioser Verein zur Honorarberatung macht weiter](https://www.test.de/Finanzberatung-Dubioser-Verein-zur-Honorarberatung-macht-weiter-6144912-0/ "Finanzberatung - Dubioser Verein zur Honorarberatung macht weiter")
 
 Service Stiftung Warentest
 
