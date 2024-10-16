@@ -34,7 +34,6 @@
     * [Gas](https://www.energyhelpline.com/gas)
     * [Electricity](https://www.energyhelpline.com/)
     
-* [Resources](https://www.energyhelpline.com/help)
 * [About](https://www.energyhelpline.com/about-us)
 * [Compare Tariffs Online](https://quotes.energyhelpline.com/comparison/?affiliateid=316&thirdpartyid=EHL_NavButton)
 
@@ -358,10 +357,6 @@ You also have some additional rights that you may exercise as set out here. We m
 * [Business Gas](https://www.energyhelpline.com/business-energy/gas)
 
 * [Business Electricity](https://www.energyhelpline.com/business-energy/electricity)
-
-* [Help](https://www.energyhelpline.com/help)
-
-* [Energy Resources](https://www.energyhelpline.com/help)
 
 * [About Us](https://www.energyhelpline.com/about-us)
 
