@@ -122,6 +122,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Mark Alexander The 2024 Election IS Rigged!](https://patriotpost.us/alexander/111103-the-2024-election-is-rigged-2024-10-16)
 *      [Ben Shapiro The Brat Energy Is Gone](https://patriotpost.us/opinion/111130-the-brat-energy-is-gone-2024-10-16)
 *      [Betsy McCaughey Harris’ Approach: Only Blacks Get Government Help](https://patriotpost.us/opinion/111126-harris-approach-only-blacks-get-government-help-2024-10-16)
 *      [Tim Graham The Washington Post Claims Republicans Wage War on Fact-Checkers](https://patriotpost.us/opinion/111125-the-washington-post-claims-republicans-wage-war-on-fact-checkers-2024-10-16)
@@ -129,7 +130,7 @@ Last Updated: November 15, 2011.
 *      [Gary Bauer The Joy Is Gone](https://patriotpost.us/opinion/111122-the-joy-is-gone-2024-10-16)
 *      [Star Parker Why, In Our Free Country, Do We Lack Education Freedom?](https://patriotpost.us/opinion/111120-why-in-our-free-country-do-we-lack-education-freedom-2024-10-16)
 *      [Ian Haworth The Racism Reflex](https://patriotpost.us/opinion/111105-the-racism-reflex-2024-10-16)
-*      [Christine Flowers Sex, Lies, and Other Distractions](https://patriotpost.us/opinion/111091-sex-lies-and-other-distractions-2024-10-15)
+*      [The Babylon Bee ‘Oops, We Meant To Say UP,’ Explains FBI After Months Of Saying Crime Is Down](https://patriotpost.us/opinion/111138-oops-we-meant-to-say-up-explains-fbi-after-months-of-saying-crime-is-down-2024-10-16)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -143,7 +144,9 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
