@@ -7,7 +7,7 @@
 * [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
 * [New](https://www.atari.com/collections)
 
-[Log in](https://atari.com/customer_identity/redirect?locale=en&region_country=US) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
+[Log in](https://atari.com/customer_authentication/redirect?locale=en&region_country=US) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
 
 * [Twitter](https://www.twitter.com/atari)
 * [Facebook](https://www.facebook.com/atari)
@@ -21,7 +21,7 @@
 * [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
 * [New](https://www.atari.com/collections)
 
-Search [Log in](https://atari.com/customer_identity/redirect?locale=en&region_country=US)
+Search [Log in](https://atari.com/customer_authentication/redirect?locale=en&region_country=US)
 
 Bag
 
@@ -262,6 +262,8 @@ Apparel & Collectibles
     
     [Atari Brands](https://www.atari.com/collections/atari-brands-collection)
     
+    [Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
+    
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
     
     [PONG](https://www.atari.com/collections/pong-collection)
@@ -305,6 +307,8 @@ COLLECTIONS
 * [Atari Club](https://www.atari.com/collections/atari-club)
     
     [Atari Brands](https://www.atari.com/collections/atari-brands-collection)
+    
+    [Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
     
