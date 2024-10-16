@@ -24,10 +24,6 @@
     
     Home security](https://www.philips-hue.com/en-us/explore-hue/propositions/smart-home-security)
     
-    [![Sync box](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
-    
-    Sync box](https://www.philips-hue.com/en-us/products/smart-light-accessories?filters=FK_HUE_LIGHTING_ACCESSORY_DEVICES&page=1&sort=relevance)
-    
 * [Products](https://www.philips-hue.com/en-us/products/all-products)
     
     ![Bulbs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
