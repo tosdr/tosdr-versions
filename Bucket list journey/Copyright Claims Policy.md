@@ -246,6 +246,34 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[🚗✨ Here’s my one-day bucket list itinerary ![🚗✨ Here’s my one-day bucket list itinerary for POINT REYES, CALIFORNIA
+(💫 SAVE for planning your trip to Northern #California💫)
+1️⃣ Have coffee & pastries @brickmaidenbreads ☕️ All their pastries look yummy, but I loved the ginger scone. We also grabbed a loaf of seeded levain for the road 😋 
+2️⃣ Make a quick stop at the Inverness shipwreck 🚢  The old S.S. Point Reyes may be weathered, but it’s got character! 
+3️⃣ Stop at the Cypress Tree Tunnel. This spot is Instagram gold! No driving allowed, but it’s totally worth the stop for that perfect photo under the leafy canopy. 
+4️⃣ Hike the stairs to the #pointreyeslighthouse —313 stairs down…and yep, 313 back up! Pro tip: check the weather (fog-free days are a win). If it’s closed, the Chimney Rock hike is a great alternative with epic views! 
+5️⃣ Explore downtown Point Reyes Station. Tiny town, BIG charm! Don’t miss Cowgirl Barn for cheeses and picnic goodies, Toby’s Feed Barn for everything from jewelry to chocolate, plus @westmarinwoolshed @captainokodesign and @Vita Collage for home goods. 
+6️⃣ Do a cheese tasting at @pointreyescheese 🧀 Sit-down tastings go until September, but you can always stop by their shop for samples. If cheese for lunch isn’t calling your name, head to @thefarmersxwife inside the Cowgirl Barn. Get the tuna melt with potato chips ON it—thank me later. 😉 
+7️⃣ Do a Mead Tasting at @heidrunmeadery 🍯 Pick a flight of four meads or just enjoy a glass. If you’re there on a Saturday, tours are available too! 
+8️⃣ Stop @little_wing_farm Veggie & Flower Stand 🌶️ It’s an honor-system farm stand with the prettiest flowers and freshest veggies. Cash only—so come prepared! (The shishitos are 💯.) 
+9️⃣ Eat dinner @cafereyes_94956 🍕 this place has chill vibes and wood-fired pizza with names inspired by the area. We ordered the Miwok pizza and a fresh mozzarella salad—perfect end to a perfect day! 
+Thanks for tagging along to Point Reyes 😊 
+@pointreyesnps ##pointreyeslighthouse #pointreyes #pointreyesstation #northerncalifornia #pacificcoast #marincounty #visitcalifornia  #california #travelbucketlist #bucketlistadventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![🚗✨ Here’s my one-day bucket list itinerary for POINT REYES, CALIFORNIA
+(💫 SAVE for planning your trip to Northern #California💫)
+1️⃣ Have coffee & pastries @brickmaidenbreads ☕️ All their pastries look yummy, but I loved the ginger scone. We also grabbed a loaf of seeded levain for the road 😋 
+2️⃣ Make a quick stop at the Inverness shipwreck 🚢  The old S.S. Point Reyes may be weathered, but it’s got character! 
+3️⃣ Stop at the Cypress Tree Tunnel. This spot is Instagram gold! No driving allowed, but it’s totally worth the stop for that perfect photo under the leafy canopy. 
+4️⃣ Hike the stairs to the #pointreyeslighthouse —313 stairs down…and yep, 313 back up! Pro tip: check the weather (fog-free days are a win). If it’s closed, the Chimney Rock hike is a great alternative with epic views! 
+5️⃣ Explore downtown Point Reyes Station. Tiny town, BIG charm! Don’t miss Cowgirl Barn for cheeses and picnic goodies, Toby’s Feed Barn for everything from jewelry to chocolate, plus @westmarinwoolshed @captainokodesign and @Vita Collage for home goods. 
+6️⃣ Do a cheese tasting at @pointreyescheese 🧀 Sit-down tastings go until September, but you can always stop by their shop for samples. If cheese for lunch isn’t calling your name, head to @thefarmersxwife inside the Cowgirl Barn. Get the tuna melt with potato chips ON it—thank me later. 😉 
+7️⃣ Do a Mead Tasting at @heidrunmeadery 🍯 Pick a flight of four meads or just enjoy a glass. If you’re there on a Saturday, tours are available too! 
+8️⃣ Stop @little_wing_farm Veggie & Flower Stand 🌶️ It’s an honor-system farm stand with the prettiest flowers and freshest veggies. Cash only—so come prepared! (The shishitos are 💯.) 
+9️⃣ Eat dinner @cafereyes_94956 🍕 this place has chill vibes and wood-fired pizza with names inspired by the area. We ordered the Miwok pizza and a fresh mozzarella salad—perfect end to a perfect day! 
+Thanks for tagging along to Point Reyes 😊 
+@pointreyesnps ##pointreyeslighthouse #pointreyes #pointreyesstation #northerncalifornia #pacificcoast #marincounty #visitcalifornia  #california #travelbucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBJgZzqPxVw/) 
+
 [The average traveler has seen 3 of these European ![The average traveler has seen 3 of these European cities. How many have you checked off your bucket list?! 🤔
 Drop your number in the comments! 👇 I’m at 20 cities (and counting)! 
 #bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories #traveltheworld #worldtraveler #travelmore #travellover #europe #europeancities](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
@@ -307,16 +335,6 @@ Here’s my September “bucket list wins” recap 👇
 Made Some Progress on:
 ✧ ��Completed 5 recipes from one cookbook (it’s my goal to complete every recipe. I chose the @halfbakedharvest Everyday cookbook and have done 43 out of 124!) 😋 
 #bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistboss  #bucketlistcheck #bucketlistchecked #bucketlisters #bucketlistgoals #bucketlistideas #bucketlists #dreambig #dreambigger #dreamitdoit](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAtGygLv_wV/) 
-
-[I made a list of my FAVORITE 100 travel experience ![I made a list of my FAVORITE 100 travel experiences around the world (things I’ve actually done!) and these 5 that are at the top of that list 🤩 
-👉 Want the full list of 100? 
-Drop the word ⚡️TRAVEL⚡️ in the comments to get the link.
-#bucketlist #bucketlisttravel #bucketlistadventures #travel #travelbucketlist #borntotravel  #exploretheglobe #wanderlust #travelmore #travellover](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![I made a list of my FAVORITE 100 travel experiences around the world (things I’ve actually done!) and these 5 that are at the top of that list 🤩 
-👉 Want the full list of 100? 
-Drop the word ⚡️TRAVEL⚡️ in the comments to get the link.
-#bucketlist #bucketlisttravel #bucketlistadventures #travel #travelbucketlist #borntotravel  #exploretheglobe #wanderlust #travelmore #travellover](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAlc-pdPKM9/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
