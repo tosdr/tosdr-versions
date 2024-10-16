@@ -75,21 +75,21 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Overhead shot of barrel-jack-to-USB-C-socket right angle adapter, showing 19.5V.](https://cdn-shop.adafruit.com/230x173/6033-05.jpg)[USB Type C PD to 5.5mm/2.1mm Barrel Jack Adapter - 20V
+    
+    $2.25](https://www.adafruit.com/product/6033)
+    
+    ![Angled shot of 2 meter long black woven USB-C cable.](https://cdn-shop.adafruit.com/230x173/6029-02.jpg)[USB C to USB C Cable w/ 100W Watt Display - 2 meter Black Woven
+    
+    $17.95](https://www.adafruit.com/product/6029)
+    
+    ![Angled Shot of the Engineer Professional Silicone-Tip Solder Sucker.](https://cdn-shop.adafruit.com/230x173/1597-03.jpg)[Engineer Professional Silicone-Tip Solder Sucker
+    
+    $19.50](https://www.adafruit.com/product/1597)
+    
     ![Angled shot of half-assembled enclosure with microcontroller.](https://cdn-shop.adafruit.com/230x173/6057-04.jpg)[Snap-on Enclosure for Adafruit Feather RP2040 USB Host
     
     $4.50](https://www.adafruit.com/product/6057)
-    
-    ![Angled shot of black microSD card.](https://cdn-shop.adafruit.com/230x173/6011-00.jpg)[Official Raspberry Pi A2-Class microSD Card - 64GB Blank
-    
-    $11.95](https://www.adafruit.com/product/6011)
-    
-    ![Angled Shot of the Raspberry Pi-branded A2-Class (32GB) SD Card.](https://cdn-shop.adafruit.com/230x173/6010-00.jpg)[Official Raspberry Pi A2-Class microSD Card - 32GB Blank
-    
-    $9.95](https://www.adafruit.com/product/6010)
-    
-    ![Two piece adjustable soldering iron with blobby temperature adjustable body and separate fancy holder](https://cdn-shop.adafruit.com/230x173/1204-03.jpg)[Digital Genuine Hakko FX888DX-010SV (936 upgrade)
-    
-    $129.95](https://www.adafruit.com/product/1204)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I think there's something strangely musical about noise”
+“ In considering any new subject, there is frequently a tendency, first, to overrate what we find to be already interesting or remarkable; and, secondly, by a sort of natural reaction, to undervalue the true state of the case, when we do discover that our notions have surpassed those that were really tenable”
 
-[Trent Reznor](http://en.wikipedia.org/wiki/Trent_Reznor)
+[Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace)
 
 [](https://www.adafruit.com/about)
 
