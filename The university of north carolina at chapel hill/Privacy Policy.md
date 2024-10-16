@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/SDSSHERO-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/4JG6046-250x141.jpg)
     
-    University approves new risk management minor](https://www.unc.edu/posts/2024/10/15/university-approves-new-risk-management-minor/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/FallBreak-250x141.jpg)
+    See highlights from Chancellor Lee H. Roberts’ installation](https://www.unc.edu/posts/2024/10/16/see-highlights-from-chancellor-lee-h-roberts-installation/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/DEAHDayHero-250x141.jpg)
     
-    Resources, events open to students over fall break](https://www.unc.edu/posts/2024/10/15/resources-events-open-to-students-over-fall-break/)
+    DEAH DAY brings dental school community together](https://www.unc.edu/posts/2024/10/16/deah-day-brings-dental-school-community-together/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=238c8d5a36&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=1283dcfa2c&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
