@@ -280,8 +280,6 @@ We collect information (including Personal Information) to provide the Services 
 * Resolution of any queries related to your use of Services.
 * Any other new services developed by us, our affiliates, subsidiaries and /or third party partners
 
-**\[NOTE TO COMMENT: Specify further use cases.\]**
-
 ### _Sharing and Use_
 
 We may share your information with our trusted partners or third parties who provide us with support services, for meeting the obligations agreed to between you and us.
