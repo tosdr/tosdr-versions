@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/synchroniciteit-en-t-geheim-van-de-co-creator/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/wat-is-waar-wie-het-weet-mag-het-zeggen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
