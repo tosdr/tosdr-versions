@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Lady Gaga in red](https://www.women.com/img/gallery/lady-gagas-most-harley-quinn-esque-looks-of-all-time/intro-1728929082.jpg)](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
+*  [![Julia Roberts speaking](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Politics](https://www.women.com/category/politics/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
     
-    [Lady Gaga's Most Harley Quinn-Esque Looks Of All Time](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
-    ====================================================================================================================
+    [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    =======================================================================================================================================================================================
     
-    It doesn't surprise us at all that the "Poker Face" hitmaker has mastered the art of harlequin dressing. Here are 5 looks that were straight-up vicious serves.
+    Although many things are at stake with this upcoming presidential election, reproductive rights is one of the most important.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
+    By Amanda Chatel [Read More](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
     
-* *  [![Couple kissing in bed](https://www.women.com/img/gallery/5-reasons-why-doggy-style-may-not-be-the-best-sex-position-for-you/intro-1728680105.jpg)](https://www.women.com/1686679/reasons-why-doggy-style-may-not-be-best-sex-position-for-you/)
+* *  [![Hands in shadows](https://www.women.com/img/gallery/quirofilia-the-sexual-fetish-explained/intro-1728933241.jpg)](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
         [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
         
-        ### [5 Reasons Why Doggy Style May Not Be The Best Sex Position For You](https://www.women.com/1686679/reasons-why-doggy-style-may-not-be-best-sex-position-for-you/)
+        ### [Quirofilia: The Sexual Fetish, Explained](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
         
-        Of all the sex positions that we can choose from, doggy style remains a favorite among many. But that doesn't mean everyone enjoys it.
+        Sexuality, sexual desire, and sex acts themselves are gorgeously complicated, such that there's genuinely something for everyone. Enter: Quirofilia.
         
-        By Amanda Chatel [Read More](https://www.women.com/1686679/reasons-why-doggy-style-may-not-be-best-sex-position-for-you/)
+        By Amanda Chatel [Read More](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
         
-    *  [![Anne Hathaway at an event](https://www.women.com/img/gallery/anne-hathaway-outfits-that-fell-totally-flat/intro-1728661386.jpg)](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
+    *  [![Lady Gaga in red](https://www.women.com/img/gallery/lady-gagas-most-harley-quinn-esque-looks-of-all-time/intro-1728929082.jpg)](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [Anne Hathaway Outfits That Fell Totally Flat](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
+        ### [Lady Gaga's Most Harley Quinn-Esque Looks Of All Time](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
         
-        Anne Hathaway has rocked some fabulous red carpet looks over the years, but she's not always as fashionable as her characters. Here are outfits that fell flat.
+        It doesn't surprise us at all that the "Poker Face" hitmaker has mastered the art of harlequin dressing. Here are 5 looks that were straight-up vicious serves.
         
-        By Bernadette Roe [Read More](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
+        By Emily Hutchinson [Read More](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
         
 
 More Stories
 ------------
 
+*  [![Couple kissing in bed](https://www.women.com/img/gallery/5-reasons-why-doggy-style-may-not-be-the-best-sex-position-for-you/intro-1728680105.jpg)](https://www.women.com/1686679/reasons-why-doggy-style-may-not-be-best-sex-position-for-you/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    
+    ### [5 Reasons Why Doggy Style May Not Be The Best Sex Position For You](https://www.women.com/1686679/reasons-why-doggy-style-may-not-be-best-sex-position-for-you/)
+    
+    Of all the sex positions that we can choose from, doggy style remains a favorite among many. But that doesn't mean everyone enjoys it.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1686679/reasons-why-doggy-style-may-not-be-best-sex-position-for-you/)
+    
+*  [![Anne Hathaway at an event](https://www.women.com/img/gallery/anne-hathaway-outfits-that-fell-totally-flat/intro-1728661386.jpg)](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Anne Hathaway Outfits That Fell Totally Flat](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
+    
+    Anne Hathaway has rocked some fabulous red carpet looks over the years, but she's not always as fashionable as her characters. Here are outfits that fell flat.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
+    
 *  [![Woman reading drinking tea](https://www.women.com/img/gallery/the-best-christmas-rom-com-books-of-the-2020s-so-far/intro-1728423261.jpg)](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
     
     [Living](https://www.women.com/category/living/)
@@ -381,30 +405,6 @@ More Stories
     People claim to feel more mental clarity, emotional intimacy, and arousal after sexual fasting. But is it actually right for your relationship?
     
     By Bernadette Roe [Read More](https://www.women.com/1676724/sexual-fasting-explained/)
-    
-*  [![Meghan Markle smiling](https://www.women.com/img/gallery/5-spicy-meghan-markle-outfits-she-never-could-have-worn-as-a-royal/intro-1727461832.jpg)](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [5 Spicy Meghan Markle Outfits She Never Could Have Worn As A Royal](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
-    
-    From cutouts to trend dressing, now that she's no longer a working royal, Meghan Markle's spiciest ensembles let her true personality shine.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1675404/spicy-meghan-markle-outfits-never-could-have-worn-as-royal/)
-    
-*  [![Hailey and Justin Bieber at an event](https://www.women.com/img/gallery/red-flags-in-hailey-and-justin-biebers-relationship/intro-1727472003.jpg)](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
-    
-    [Relationships](https://www.women.com/category/relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
-    
-    ### [Red Flags In Hailey And Justin Bieber's Relationship](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
-    
-    Hailey and Justin Bieber's marriage may seem like a real life fairytale, but if you pay close attention, there are some signs of trouble in paradise.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1675765/red-flags-hailey-justin-bieber-relationship/)
     
 
 Back
