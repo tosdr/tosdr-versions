@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,12 +148,11 @@
 
 Сейчас читают
 
+* [Творожные пончики на сметане, с кокосовой стружкой](https://www.russianfood.com/recipes/recipe.php?rid=172817)
 * [Куриные рулетики с фетой и укропом](https://www.russianfood.com/recipes/recipe.php?rid=173271)
-* [Рубленые котлеты из куриной печени с шампиньонами и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=161750)
 * [Куриный студень](https://www.russianfood.com/recipes/recipe.php?rid=34619)
-* [Курица, тушенная с грибами](https://www.russianfood.com/recipes/recipe.php?rid=39394)
-* [Куриный суп с кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=39823)
-* [Куриный студень](https://www.russianfood.com/recipes/recipe.php?rid=40168)
+* [Куриные окорочка с лапшой](https://www.russianfood.com/recipes/recipe.php?rid=40849)
+* [Фаршированые куриные бедрышки и крылышки](https://www.russianfood.com/recipes/recipe.php?rid=40867)
 
 |     |
 | --- |
@@ -175,6 +174,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Новые идеи вкусных ужинов. Лучшие УЖИНЫ №24-42](https://www.russianfood.com/reading/?post_id=22729) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/712/sm_711501.jpg)](https://www.russianfood.com/reading/?post_id=22729)
+
+Гречка с курицей, грибами и сливками. Булгур с курицей и кабачками. Курица с овощами в сметане. Картофельная запеканка с цветной капустой. Макароны с курицей. Курица с баклажанами в соусе. Рыба, запечённая с овощами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22729)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие ужины](https://www.russianfood.com/blogs/?id=325304) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22729#comments) | 16.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -300,7 +313,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174298#comments) | 15.10.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174298#comments) | 15.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -371,20 +384,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты на праздники](https://www.russianfood.com/blogs/?id=394640) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22728#comments) | 15.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Слоёный рулет-кольцо с ветчиной, яйцом, творогом и сыром](https://www.russianfood.com/recipes/recipe.php?rid=173403) |     |
-
-[![Фото к рецепту: Слоёный рулет-кольцо с ветчиной, яйцом, творогом и сыром](//img1.russianfood.com/dycontent/images_upl/737/sm_736001.jpg "Фото к рецепту: Слоёный рулет-кольцо с ветчиной, яйцом, творогом и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=173403)
-
-Этот рулет из готового слоёного теста заполнен аппетитными слоями ветчины, творога с чесноком, отварного яйца и сыра. Завершающим акцентом станет цедра лимона, которая придаст блюду свежесть и яркий аромат.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173403)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173403#comments) | 15.10.24 |     |
 
 |     |
 | --- |
@@ -457,10 +456,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/733/alt1_732192.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173107) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736026.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173400) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736001.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173403) | [![](//img1.russianfood.com/dycontent/images_upl/719/alt1_718387.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173345) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740556.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174333) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741833.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174484) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735690.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173373) |
-| [Бездрожжевые слоёные лепёшки на кипятке (катлама)](https://www.russianfood.com/recipes/recipe.php?rid=173107) | [Пицца с сыром и пряным томатным соусом](https://www.russianfood.com/recipes/recipe.php?rid=173400) | [Слоёный рулет-кольцо с ветчиной, яйцом, творогом и сыром](https://www.russianfood.com/recipes/recipe.php?rid=173403) | [Постный хлеб из полужидкого теста с пряными травами](https://www.russianfood.com/recipes/recipe.php?rid=173345) | [Салат со свёклой, яблоками, огурцом и горошком](https://www.russianfood.com/recipes/recipe.php?rid=174333) | [Крошка-картошка с брынзой и твёрдым сыром](https://www.russianfood.com/recipes/recipe.php?rid=174484) | [Гречневые палочки с сыром](https://www.russianfood.com/recipes/recipe.php?rid=173373) |
-| [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734960.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173246) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736567.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173425) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742402.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174324) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735906.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173937) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743455.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174555) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742296.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174128) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741513.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174207) |
-| [Пирог на йогурте и растительном масле](https://www.russianfood.com/recipes/recipe.php?rid=173246) | [Песочное печенье "Поленья" с корицей и какао](https://www.russianfood.com/recipes/recipe.php?rid=173425) | [Куриные сердечки, тушенные с баклажанами в сметане](https://www.russianfood.com/recipes/recipe.php?rid=174324) | [Салат с куриной печенью, помидорами и карамелизированным луком](https://www.russianfood.com/recipes/recipe.php?rid=173937) | [Баклажаны в духовке с сыром и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174555) | [Котлеты из фарша с гречкой и кабачком](https://www.russianfood.com/recipes/recipe.php?rid=174128) | [Манник с дыней](https://www.russianfood.com/recipes/recipe.php?rid=174207) |
+| [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740556.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174333) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742402.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174324) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734216.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173999) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742296.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174128) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736567.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173425) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736026.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173400) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736592.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173419) |
+| [Салат со свёклой, яблоками, огурцом и горошком](https://www.russianfood.com/recipes/recipe.php?rid=174333) | [Куриные сердечки, тушенные с баклажанами в сметане](https://www.russianfood.com/recipes/recipe.php?rid=174324) | [Салат с помидорами, авокадо и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=173999) | [Котлеты из фарша с гречкой и кабачком](https://www.russianfood.com/recipes/recipe.php?rid=174128) | [Песочное печенье "Поленья" с корицей и какао](https://www.russianfood.com/recipes/recipe.php?rid=173425) | [Пицца с сыром и пряным томатным соусом](https://www.russianfood.com/recipes/recipe.php?rid=173400) | [Салат с крабовыми палочками, кальмарами и яйцом](https://www.russianfood.com/recipes/recipe.php?rid=173419) |
+| [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743549.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174298) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741513.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174207) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742191.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174134) | [![](//img1.russianfood.com/dycontent/images_upl/733/alt1_732192.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173107) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742792.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174276) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743621.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173321) | [![](//img1.russianfood.com/dycontent/images_upl/729/alt1_728295.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173422) |
+| [Котлеты из фарша с кабачком и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174298) | [Манник с дыней](https://www.russianfood.com/recipes/recipe.php?rid=174207) | [Запечённые баклажаны с фаршем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174134) | [Бездрожжевые слоёные лепёшки на кипятке (катлама)](https://www.russianfood.com/recipes/recipe.php?rid=173107) | [Торт из печенья, с бананами и сливочным сыром (без выпечки)](https://www.russianfood.com/recipes/recipe.php?rid=174276) | [Киш из рубленого теста, с курицей, грибами и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=173321) | [Рулетики с сыром, томатным соусом и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=173422) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -477,4 +476,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(114)
+(85)
