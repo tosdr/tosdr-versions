@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 15, 2024**
+**October 16, 2024**
 
 * * *
 
@@ -230,25 +230,25 @@ this week
 
 [Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
 
-[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
-
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
+
+[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
-
-[Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
-
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+
+[Sun](https://www.sciencedaily.com/news/space_time/sun/)
+
+[Telecommunications](https://www.sciencedaily.com/news/matter_energy/telecommunications/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
-
-[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
-
 [Human Evolution](https://www.sciencedaily.com/news/fossils_ruins/human_evolution/)
+
+[Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
+
+[Air Pollution](https://www.sciencedaily.com/news/earth_climate/air_pollution/)
 
   
 
