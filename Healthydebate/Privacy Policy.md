@@ -14,14 +14,14 @@
 
 Most popular today
 
-* [COVID-19](https://healthydebate.ca/topic/covid-19/) (555)
-* [Vaccines](https://healthydebate.ca/topic/vaccines/) (133)
+* [COVID-19](https://healthydebate.ca/topic/covid-19/) (556)
+* [Vaccines](https://healthydebate.ca/topic/vaccines/) (134)
 * [Opioids](https://healthydebate.ca/topic/opioids/) (47)
 * [Cancer](https://healthydebate.ca/topic/cancer/) (145)
 * [Addiction](https://healthydebate.ca/topic/addiction/) (163)
 * [Racism](https://healthydebate.ca/topic/racism/) (37)
 * [Alcohol](https://healthydebate.ca/topic/alcohol/) (23)
-* [Infectious Disease](https://healthydebate.ca/topic/infectious-disease/) (657)
+* [Infectious Disease](https://healthydebate.ca/topic/infectious-disease/) (658)
 * [Marijuana](https://healthydebate.ca/topic/marijuana/) (22)
 * [Tobacco](https://healthydebate.ca/topic/tobacco/) (20)
 * [Aging](https://healthydebate.ca/topic/aging/) (202)
