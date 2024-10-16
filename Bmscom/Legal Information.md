@@ -381,6 +381,8 @@ Related links
 Privacy Notice Center - Bristol Myers Squibb
 ============================================
 
+![banner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Privacy Notice Center")
+
 Privacy Notice Center
 ---------------------
 
