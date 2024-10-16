@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Pennsylvania Senate Debate: Casey, McCormick Spar Over Economy, Border, Fracking](https://www.theepochtimes.com/us/pennsylvania-senate-debate-casey-mccormick-spar-over-economy-border-fracking-5742063)
+    
+    2hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    
+    [![Pennsylvania Senate Debate: Casey, McCormick Spar Over Economy, Border, Fracking](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pennsylvania Senate Debate: Casey, McCormick Spar Over Economy, Border, Fracking](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5740964-FotoJet-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-senate-debate-casey-mccormick-spar-over-economy-border-fracking-5742063)
+* [Zelenskyy Sets Out ‘Victory Plan’ in Ukrainian Parliament](https://www.theepochtimes.com/world/zelenskyy-to-set-out-victory-plan-in-ukrainian-parliament-in-kyiv-5742167)
+    
+    4hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Zelenskyy Sets Out ‘Victory Plan’ in Ukrainian Parliament](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Zelenskyy Sets Out ‘Victory Plan’ in Ukrainian Parliament](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742328-2024-10-16T101936Z_1_LYNXMPEK9F0CH_RTROPTP_4_UKRAINE-CRISIS-ZELENSKIY-PARLIAMENT-205x123.jpg.webp)](https://www.theepochtimes.com/world/zelenskyy-to-set-out-victory-plan-in-ukrainian-parliament-in-kyiv-5742167)
+* [‘Probably Worse Than It Looks’: IMF Sounds Alarm Over Government Spending](https://www.theepochtimes.com/world/probably-worse-than-it-looks-imf-sounds-alarm-over-government-spending-5742000)
+    
+    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![‘Probably Worse Than It Looks’: IMF Sounds Alarm Over Government Spending](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![‘Probably Worse Than It Looks’: IMF Sounds Alarm Over Government Spending](https://img.theepochtimes.com/assets/uploads/2024/08/12/id5704587-315month-day-year-national-debt-clock-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/probably-worse-than-it-looks-imf-sounds-alarm-over-government-spending-5742000)
 * [North Carolina Governor Says 92 People Still Missing After Hurricane Helene](https://www.theepochtimes.com/us/north-carolina-governor-says-92-people-still-missing-after-hurricane-helene-5742094)
     
-    1hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    7hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
     [![North Carolina Governor Says 92 People Still Missing After Hurricane Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![North Carolina Governor Says 92 People Still Missing After Hurricane Helene](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736505-Helene-Body-Recovery-2_JF_10062024-205x123.jpg.webp)](https://www.theepochtimes.com/us/north-carolina-governor-says-92-people-still-missing-after-hurricane-helene-5742094)
+    ![North Carolina Governor Says 92 People Still Missing After Hurricane Helene](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742356-Helene-Body-Recovery-2_JF_10062024-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/north-carolina-governor-says-92-people-still-missing-after-hurricane-helene-5742094)
+* [ANALYSIS: The Chinese Economy in Survival Mode](https://www.theepochtimes.com/china/analysis-chinese-economy-in-survival-mode-5740524)
+    
+    7hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    
+    [![ANALYSIS: The Chinese Economy in Survival Mode](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![ANALYSIS: The Chinese Economy in Survival Mode](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741775-GettyImages-2177272095-205x123.jpg.webp)](https://www.theepochtimes.com/china/analysis-chinese-economy-in-survival-mode-5740524)
 * [Chinese Farmers Hit Hardest by New Retirement Scheme, Experts Say](https://www.theepochtimes.com/china/chinese-farmers-hit-hardest-by-new-retirement-scheme-experts-say-5741071)
     
-    1hr By [Lynn Xu](https://www.theepochtimes.com/author/ling-xiong) and [Pinnacle View Team](https://www.theepochtimes.com/author/pinnacle-view-team)
+    7hr By [Lynn Xu](https://www.theepochtimes.com/author/ling-xiong) and [Pinnacle View Team](https://www.theepochtimes.com/author/pinnacle-view-team)
     
     [![Chinese Farmers Hit Hardest by New Retirement Scheme, Experts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Chinese Farmers Hit Hardest by New Retirement Scheme, Experts Say](https://img.theepochtimes.com/assets/uploads/2024/05/27/id5657824-GettyImages-74592369-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-farmers-hit-hardest-by-new-retirement-scheme-experts-say-5741071)
-* [US Supreme Court to Hear San Francisco’s Challenge to EPA Water Regulation](https://www.theepochtimes.com/us/us-supreme-court-to-hear-san-franciscos-challenge-to-epa-water-regulation-5741818)
+* [Supreme Court to Hear San Francisco’s Challenge to EPA Water Regulation](https://www.theepochtimes.com/us/us-supreme-court-to-hear-san-franciscos-challenge-to-epa-water-regulation-5741818)
     
-    1hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    7hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![US Supreme Court to Hear San Francisco’s Challenge to EPA Water Regulation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Supreme Court to Hear San Francisco’s Challenge to EPA Water Regulation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Supreme Court to Hear San Francisco’s Challenge to EPA Water Regulation](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741753-10072024-L1160066-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-supreme-court-to-hear-san-franciscos-challenge-to-epa-water-regulation-5741818)
+    ![Supreme Court to Hear San Francisco’s Challenge to EPA Water Regulation](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741753-10072024-L1160066-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-supreme-court-to-hear-san-franciscos-challenge-to-epa-water-regulation-5741818)
 * [Georgia Judge Halts Ballot Hand Count Rule for 2024 Election](https://www.theepochtimes.com/us/georgia-judge-halts-ballot-hand-count-rule-for-2024-election-5742089)
     
-    2hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    8hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
     [![Georgia Judge Halts Ballot Hand Count Rule for 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Georgia Judge Halts Ballot Hand Count Rule for 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/07/01/id5678410-GettyImages-2153452790-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-halts-ballot-hand-count-rule-for-2024-election-5742089)
+    ![Georgia Judge Halts Ballot Hand Count Rule for 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742269-GettyImages-2153452790-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-halts-ballot-hand-count-rule-for-2024-election-5742089)
 * [NTD 7th International Piano Competition Kicks Off in New York](https://www.theepochtimes.com/bright/ntd-7th-international-piano-competition-kicks-off-in-new-york-5742125)
     
-    5hr By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
+    11hr By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
     
     [![NTD 7th International Piano Competition Kicks Off in New York](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![NTD 7th International Piano Competition Kicks Off in New York](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742127-NTD-piano-competition-Elie-Casbi-205x123.jpg.webp)](https://www.theepochtimes.com/bright/ntd-7th-international-piano-competition-kicks-off-in-new-york-5742125)
-* [Biden Admin Urges Israel to Improve Gaza’s Humanitarian Situation](https://www.theepochtimes.com/world/biden-admin-letter-urges-israel-to-improve-gaza-humanitarian-situation-5741796)
+    ![NTD 7th International Piano Competition Kicks Off in New York](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742268-NTD-piano-competition-Elie-Casbi-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/bright/ntd-7th-international-piano-competition-kicks-off-in-new-york-5742125)
+* [5 Takeaways From Trump’s Chicago Interview With Bloomberg News](https://www.theepochtimes.com/us/5-takeaways-from-trumps-chicago-interview-with-bloomberg-news-5742024)
     
-    10hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    14hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
     
-    [![Biden Admin Urges Israel to Improve Gaza’s Humanitarian Situation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![5 Takeaways From Trump’s Chicago Interview With Bloomberg News](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Admin Urges Israel to Improve Gaza’s Humanitarian Situation](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729079-GettyImages-2173386720-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-admin-letter-urges-israel-to-improve-gaza-humanitarian-situation-5741796)
-* [Walz Unveils Harris’s Plans for Rural Voters in Battleground Pennsylvania Rally](https://www.theepochtimes.com/us/walz-unveils-harriss-plans-for-rural-voters-in-battleground-pennsylvania-rally-5741929)
-    
-    11hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Walz Unveils Harris’s Plans for Rural Voters in Battleground Pennsylvania Rally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Walz Unveils Harris’s Plans for Rural Voters in Battleground Pennsylvania Rally](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742067-Tim-Walz_2-205x123.jpg.webp)](https://www.theepochtimes.com/us/walz-unveils-harriss-plans-for-rural-voters-in-battleground-pennsylvania-rally-5741929)
-* [Georgians Flock to Polling Locations as Early In-Person Voting Opens](https://www.theepochtimes.com/us/georgians-flock-to-polling-locations-as-early-in-person-voting-opens-5741943)
-    
-    11hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![Georgians Flock to Polling Locations as Early In-Person Voting Opens](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Georgians Flock to Polling Locations as Early In-Person Voting Opens](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5742045-Georgia-early-voting-GettyImages-2177860144-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgians-flock-to-polling-locations-as-early-in-person-voting-opens-5741943)
-* [Day in Photos: Defamation Lawsuit, Rain Havoc, and Egyptian Mega-Museum](https://www.theepochtimes.com/article/day-in-photos-defamation-lawsuit-rain-havoc-and-egyptian-mega-museum-5741646)
-    
-    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Defamation Lawsuit, Rain Havoc, and Egyptian Mega-Museum](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Defamation Lawsuit, Rain Havoc, and Egyptian Mega-Museum](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741982-GettyImages-2177858728-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-defamation-lawsuit-rain-havoc-and-egyptian-mega-museum-5741646)
-* [Russia, China Enlist Cyber Gangs to Target US and Allies: Microsoft](https://www.theepochtimes.com/us/russia-china-enlist-cyber-gangs-to-target-us-and-allies-microsoft-5741801)
-    
-    13hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
-    
-    [![Russia, China Enlist Cyber Gangs to Target US and Allies: Microsoft](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Russia, China Enlist Cyber Gangs to Target US and Allies: Microsoft](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5742021-CyberattackKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/russia-china-enlist-cyber-gangs-to-target-us-and-allies-microsoft-5741801)
+    ![5 Takeaways From Trump’s Chicago Interview With Bloomberg News](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742267-GettyImages-2178579951-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-takeaways-from-trumps-chicago-interview-with-bloomberg-news-5742024)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
