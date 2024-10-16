@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. java
+1. English
     
-2. hacking
+2. c
     
-3. web development
+3. html
     
 
 Popular subjects
 ----------------
 
-1. [Marketing
+1. [Communication Skills
     
-    7,793 courses](https://www.classcentral.com/subject/marketing)
-2. [Information Technology
+    4,055 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Machine Learning
     
-    4,701 courses](https://www.classcentral.com/subject/information-technology)
-3. [Project Management
+    14,590 courses](https://www.classcentral.com/subject/machine-learning)
+3. [Digital Marketing
     
-    3,974 courses](https://www.classcentral.com/subject/project-management)
+    5,926 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [Happier Employees and Return-On-Investment Course
+1. [Introduction to Mathematical Thinking
     
-    The University of Texas at Austin](https://www.classcentral.com/course/workplace-wellness-the-university-of-texas-at-aus-17121)
-2. [Introduction to HTML5
+    Stanford University](https://www.classcentral.com/course/maththink-370)
+2. [Herramientas de la Inteligencia de Negocios
     
-    University of Michigan](https://www.classcentral.com/course/introhtml-4307)
-3. [Introduction to Frisian
+    Galileo University](https://www.classcentral.com/course/business-intelligence-universidad-galileo-herrami-10281)
+3. [Basic Spanish 1: Getting Started
     
-    University of Groningen](https://www.classcentral.com/course/frisian-6637)
+    Universitat Politècnica de València](https://www.classcentral.com/course/language-universitat-politecnica-de-valencia-basi-3698)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
