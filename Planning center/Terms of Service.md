@@ -1,114 +1,116 @@
 [](https://www.planningcenter.com/)Menu
 
-[](https://www.planningcenter.com/)
+[](https://www.planningcenter.com/)![](/images/header/icon-close.svg)
 
-Products
-
-[Calendar
-
-Event & Facility Scheduling](https://www.planningcenter.com/calendar)[Check-Ins
-
-Child & Volunteer Attendance](https://www.planningcenter.com/check-ins)[Giving
-
-Donation Processing & Reporting](https://www.planningcenter.com/giving)[Groups
-
-Community Organization & Communication](https://www.planningcenter.com/groups)[People
-
-Membership Management
-
-Included free with all apps](https://www.planningcenter.com/people)[Publishing
-
-Custom Web & App Content](https://www.planningcenter.com/publishing)[Registrations
-
-Event Signups & Payments](https://www.planningcenter.com/registrations)[Services
-
-Service Planning & Volunteer Scheduling](https://www.planningcenter.com/services)[Music Stand
-
-Mobile Music Reader](https://www.planningcenter.com/music-stand)[Church Center
-
-A Mobile App for Your Congregants](https://www.planningcenter.com/church-center)
-
-Use Cases
-
-[Planning Center as a ChMS
-
-Equip your team, connect your church](https://www.planningcenter.com/use-cases/chms)[Planning Center for Children's Ministry
-
-Care for families, support volunteers](https://www.planningcenter.com/use-cases/childrens-ministry)[Planning Center for Church Planters
-
-Set the culture for a growing church](https://www.planningcenter.com/use-cases/church-planters)
-
-Learn
-
-[Support
-
-Helpful responses in ~1 hour](https://www.planningcenter.com/support)[Getting Started
-
-A roadmap to transition](https://www.planningcenter.com/getting-started)[Integrations
-
-Tools that work with our products](https://www.planningcenter.com/integrations)[About Us
-
-Our story and our values](https://www.planningcenter.com/about)[Training
-
-Become a Planning Center scholar](https://www.planningcenter.com/training)
-
-[Pricing](https://www.planningcenter.com/pricing)[Blog](https://www.planningcenter.com/blog)
+* Products
+* Resources
+* Use cases
+* [What’s new](https://www.planningcenter.com/blog)
+* [Pricing](https://www.planningcenter.com/pricing)
 
 [Sign up](https://www.planningcenter.com/pricing)[Log in](https://login.planningcenteronline.com/)
 
+Back![](/images/header/icon-close.svg)
+
 [](https://www.planningcenter.com/)
 
 Products
 
-[Calendar
+People & Communication
 
-Event & Facility Scheduling](https://www.planningcenter.com/calendar)[Check-Ins
+* [people
+    
+    Free membership database](https://www.planningcenter.com/people)
+* [groups
+    
+    Community engagement & chat](https://www.planningcenter.com/groups)
 
-Child & Volunteer Attendance](https://www.planningcenter.com/check-ins)[Giving
+Events
 
-Donation Processing & Reporting](https://www.planningcenter.com/giving)[Groups
+* [calendar
+    
+    Scheduling, facilities, & resources](https://www.planningcenter.com/calendar)
+* [registrations
+    
+    Signups, tickets, & payments](https://www.planningcenter.com/registrations)
+* [check-ins
+    
+    Attendance & volunteer tools](https://www.planningcenter.com/check-ins)
 
-Community Organization & Communication](https://www.planningcenter.com/groups)[People
+Worship & Teams
 
-Membership Management
+* [services
+    
+    Worship planning & scheduling](https://www.planningcenter.com/services)
+* [music stand
+    
+    Digital sheet music & chord charts](https://www.planningcenter.com/music-stand)
 
-Included free with all apps](https://www.planningcenter.com/people)[Publishing
+Mobile App & Website
 
-Custom Web & App Content](https://www.planningcenter.com/publishing)[Registrations
+* [church center
+    
+    Custom mobile app for your church](https://www.planningcenter.com/church-center)
+* [publishing
+    
+    Custom pages, video, & audio library](https://www.planningcenter.com/publishing)
 
-Event Signups & Payments](https://www.planningcenter.com/registrations)[Services
+Donations
 
-Service Planning & Volunteer Scheduling](https://www.planningcenter.com/services)[Music Stand
+* [giving
+    
+    Tithes, offerings, & reporting](https://www.planningcenter.com/giving)
 
-Mobile Music Reader](https://www.planningcenter.com/music-stand)[Church Center
+more
 
-A Mobile App for Your Congregants](https://www.planningcenter.com/church-center)
+* [Integrations
+    
+    Products that work with ours](https://www.planningcenter.com/integrations)
+* [Get Giving free for 12 months
+    
+    Apply for 12 months free](https://www.planningcenter.com/giving/free)
 
-Learn
+Resources
 
-[Support
+Learn & get help
 
-Helpful responses in ~1 hour](https://www.planningcenter.com/support)[Getting Started
+* [Support
+    
+    Helpful responses in ~1 hour](https://www.planningcenter.com/support)
+* [Training
+    
+    Learn how to use the system](https://www.planningcenter.com/training)
+    * [Planning Center University videos](https://www.planningcenter.com/university)
+    * [How-to articles](https://www.planningcenter.com/blog/tags/tips-and-tricks/1)
+* [Community
+    
+    Connect with customers on Facebook or Slack](https://www.planningcenter.com/community)
 
-A roadmap to transition](https://www.planningcenter.com/getting-started)[Integrations
+Switch to Planning Center
 
-Tools that work with our products](https://www.planningcenter.com/integrations)[About Us
-
-Our story and our values](https://www.planningcenter.com/about)[Training
-
-Become a Planning Center scholar](https://www.planningcenter.com/training)
+* [Compare systems
+    
+    How we can replace your current solution](https://www.planningcenter.com/compare-planning-center-to-other-systems)
+* [Calculate savings
+    
+    See how much you’ll save on giving fees](https://www.planningcenter.com/processing-fee)
+* [Getting started
+    
+    A roadmap to migration](https://www.planningcenter.com/getting-started)
 
 Use Cases
 
-[Planning Center as a ChMS
+* [Church planters
+    
+    Apply for 6 months free](https://www.planningcenter.com/use-cases/church-planters)
+* [Children’s ministry
+    
+    Care for families & volunteers](https://www.planningcenter.com/use-cases/childrens-ministry)
+* [Church management system
+    
+    Equip your team, support your church](https://www.planningcenter.com/use-cases/chms)
 
-Equip your team, connect your church](https://www.planningcenter.com/use-cases/chms)[Planning Center for Children's Ministry
-
-Care for families, support volunteers](https://www.planningcenter.com/use-cases/childrens-ministry)[Planning Center for Church Planters
-
-Set the culture for a growing church](https://www.planningcenter.com/use-cases/church-planters)
-
-[Pricing](https://www.planningcenter.com/pricing)[Blog](https://www.planningcenter.com/blog)
+[What’s new](https://www.planningcenter.com/blog)[Pricing](https://www.planningcenter.com/pricing)
 
 [Sign up](https://www.planningcenter.com/pricing)[Log in](https://login.planningcenteronline.com/)
 
@@ -586,38 +588,43 @@ Get updates delivered to your inbox!
     * [Music Stand](https://www.planningcenter.com/music-stand)
     * [Church Center](https://www.planningcenter.com/church-center)
 
-* Learn
+* Resources
     
-    * [Getting Started](https://www.planningcenter.com/getting-started)
-    * [Integrations](https://www.planningcenter.com/integrations)
-    * [About Us](https://www.planningcenter.com/about)
+    * [Support](https://www.planningcenter.com/support)
     * [Training](https://www.planningcenter.com/training)
     * [Planning Center University](https://www.planningcenter.com/university)
+    * [Getting Started](https://www.planningcenter.com/getting-started)
+    * [Community](https://www.planningcenter.com/community)
 
-* Use Cases
+* Use cases
     
-    * [Planning Center as a ChMS](https://www.planningcenter.com/use-cases/chms)
-    * [Planning Center for Children’s Ministry](https://www.planningcenter.com/use-cases/childrens-ministry)
-    * [Planning Center for Church Planters](https://www.planningcenter.com/use-cases/church-planters)
+    * [Church Plants](https://www.planningcenter.com/use-cases/church-planters)
+    * [Children’s Ministry](https://www.planningcenter.com/use-cases/childrens-ministry)
+    * [Church Management System](https://www.planningcenter.com/use-cases/chms)
 
-* Compare
+* How we compare
     
-    * [Processing Fee Calculator](https://www.planningcenter.com/processing-fee#calculate-fees)
-    * [Planning Center vs. Tithely](https://www.planningcenter.com/compare-planning-center-vs-tithely)
-    * [Planning Center vs. Pushpay](https://www.planningcenter.com/compare-planning-center-vs-pushpay)
-    * [Planning Center vs. Breeze](https://www.planningcenter.com/compare-planning-center-vs-breeze)
-    * [Planning Center vs. ChurchTrac](https://www.planningcenter.com/compare-planning-center-vs-churchtrac)
+    * [See Processing Fee Savings](https://www.planningcenter.com/processing-fee#calculate-fees)
+    * [Compare Pushpay](https://www.planningcenter.com/compare-planning-center-vs-pushpay)
+    * [Compare Tithe.ly](https://www.planningcenter.com/compare-planning-center-vs-tithely)
+    * [Compare Breeze](https://www.planningcenter.com/compare-planning-center-vs-breeze)
+    * [Compare ChurchTrac](https://www.planningcenter.com/compare-planning-center-vs-churchtrac)
 
-* [Changelog](https://www.planningcenter.com/changelog)
+* Company
+    
+    * [About us](https://www.planningcenter.com/about)
+    * [Careers](https://www.planningcenter.com/careers)
+    * [Developers](https://www.planningcenter.com/developers)
+    * [Logos](https://www.planningcenter.com/logos)
+    * [Terms of Service](https://www.planningcenter.com/terms)
+    * [Privacy Policy](https://www.planningcenter.com/privacy)
+
 * [Pricing](https://www.planningcenter.com/pricing)
+* [Changelog](https://www.planningcenter.com/changelog)
 * [Blog](https://www.planningcenter.com/blog)
-* [Developers](https://www.planningcenter.com/developers)
-* [Careers](https://www.planningcenter.com/careers)
-* [Logos](https://www.planningcenter.com/logos)
-* [Support](https://www.planningcenter.com/support)
-* [Community](https://www.planningcenter.com/community)
 * [Security](https://www.planningcenter.com/security)
 * [Status](https://status.planningcenter.com/)
+* [Downloads](https://www.planningcenter.com/check-ins/download)
 * [Apply for a free  
     Giving subscription](https://www.planningcenter.com/giving/free)
 
