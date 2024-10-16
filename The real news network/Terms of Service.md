@@ -103,8 +103,8 @@ Trending Posts
 --------------
 
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
+* ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 * ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
@@ -167,8 +167,8 @@ Trending Posts
 --------------
 
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
+* ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 * ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
@@ -366,8 +366,8 @@ Trending Posts
 --------------
 
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
+* ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 * ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
