@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![34 Facts About King Abdulaziz Camel Festival ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/events/34-facts-about-king-abdulaziz-camel-festival/)
+[![30 Facts About FluorUvite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22128%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-fluor-uvite/)
 
-Events
+Earth Sciences
 
-15 Oct 2024
+16 Oct 2024
 
-[34 Facts About King Abdulaziz Camel Festival](https://facts.net/events/34-facts-about-king-abdulaziz-camel-festival/)
+[30 Facts About FluorUvite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-fluor-uvite/)
 
-[![37 Facts About Nebra Sky Disk ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/37-facts-about-nebra-sky-disk/)
+[![37 Facts About Native American Women ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/37-facts-about-native-american-women/)
 
 History
 
-15 Oct 2024
+16 Oct 2024
 
-[37 Facts About Nebra Sky Disk](https://facts.net/history/37-facts-about-nebra-sky-disk/)
+[37 Facts About Native American Women](https://facts.net/history/37-facts-about-native-american-women/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
