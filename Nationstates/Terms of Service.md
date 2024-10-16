@@ -34,13 +34,15 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [AN Out of Context III (3,180)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (3,180 posts)")
-* [American Politics: Remember, Remember… (728)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (728 posts)")
-* [Summarise AN's flag in one word (1,511)](https://forum.nationstates.net/viewtopic.php?t=548700&f=25&view=unread#unread ""Summarise AN's flag in one word" (1,511 posts)")
-* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (10,401)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (10,401 posts)")
-* [Embassy of The Wellspring: To New Beg… (139)](https://forum.nationstates.net/viewtopic.php?t=535996&f=12&view=unread#unread ""Embassy of The Wellspring: To New Beginnings" (139 posts)")
+* [Panama War (OPEN) (REACT ONLY) (2)](https://forum.nationstates.net/viewtopic.php?t=557021&f=5&view=unread#unread ""Panama War (OPEN) (REACT ONLY)" (2 posts)")
+* [The United Powers Assembly Hall (1,342)](https://forum.nationstates.net/viewtopic.php?t=550052&f=5&view=unread#unread ""The United Powers Assembly Hall" (1,342 posts)")
+* [The country game(a roleplay) (7,913)](https://forum.nationstates.net/viewtopic.php?t=546117&f=31&view=unread#unread ""The country game(a roleplay)" (7,913 posts)")
+* [LIBERATE ROSES WITHOUT THORNS (208)](https://forum.nationstates.net/viewtopic.php?t=556834&f=24&view=unread#unread ""LIBERATE ROSES WITHOUT THORNS" (208 posts)")
+* [Ukrainian War VII: Everything has a p… (7,140)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (7,140 posts)")
 
-Advertisement
+Ad From Max
+
+[![Providence: The new novel by Max Barry, creator of NationStates](/images/ns-inhouse-skyscraper_1.png)](https://maxbarry.com/providence/)
 
 Terms & Conditions of Use
 =========================
