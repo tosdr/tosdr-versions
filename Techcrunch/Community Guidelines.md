@@ -180,11 +180,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [Tesla Robovan](https://techcrunch.com/2024/10/10/robovan-was-the-biggest-surprise-at-tesla-we-robot-event/)
-* [Casio Breach](https://techcrunch.com/2024/10/14/casio-confirms-customer-data-compromised-in-ransomware-attack/)
-* [SpaceX](https://techcrunch.com/2024/10/13/spacex-will-attempt-historic-catch-of-returning-starship-booster-on-sunday/)
-* [Morgan Neville](https://techcrunch.com/2024/10/13/director-morgan-neville-is-steering-clear-of-generative-ai-after-roadrunner-backlash/)
-* [Adobe Firefly](https://techcrunch.com/2024/10/14/adobe-invites-you-to-embrace-the-tech-with-fireflys-new-video-generator/)
+* [Mistral AI](https://techcrunch.com/2024/10/16/mistral-releases-new-ai-models-optimized-for-edge-devices/)
+* [Kindle Color](https://techcrunch.com/2024/10/16/boston-dynamics-teams-with-tri-to-bring-ai-smarts-to-atlas-humanoid-robot/)
+* [Cybertruck](https://techcrunch.com/2024/10/16/are-cybertrucks-too-angular-for-europe/)
+* [Boston Dynamics](https://techcrunch.com/2024/10/16/boston-dynamics-teams-with-tri-to-bring-ai-smarts-to-atlas-humanoid-robot/)
+* [Hurricane Helene](https://techcrunch.com/2024/10/16/how-paladins-drones-helped-asheville-during-hurricane-helene/)
 * [Tech Layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/10/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
