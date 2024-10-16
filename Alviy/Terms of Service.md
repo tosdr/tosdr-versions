@@ -4,12 +4,14 @@
     
      [![](\static\icons\shield.svg) Site protection](https://alviy.com/en/dns-hosting) [![](\static\icons\type-aaaa.svg) DNS Hosting](https://alviy.com/en/dns-hosting) [![](\static\icons\signpost-split.svg) Dynamic DNS](https://alviy.com/en/blog/ddns) [![](\static\icons\inbox.svg) Backup DNS](https://alviy.com/en/secondary)
     
+    [Premium](https://alviy.com/en/premium)
+    
 * [Prices](https://alviy.com/en/price)
-* [Info](#)
+* [Support](#)
     
-    [Help](https://alviy.com/en/help/) [Premium](https://alviy.com/en/premium) [Abuse](https://cloud.alviy.com/abuse)
+    [Router setup](https://alviy.com/en/router-setup/) [Docs](https://alviy.com/en/docs)
     
-    [Docs](https://alviy.com/en/docs)
+    [Abuse](https://cloud.alviy.com/abuse)
     
 
 * [Sign in](https://cloud.alviy.com/user/sign-in)
@@ -130,7 +132,7 @@ If you do not agree with the changes we have made, please unfollow your account 
 * [Prices](https://alviy.com/en/price)
 
 * Support
-* [Help](https://alviy.com/en/help/)
+* [Help](https://alviy.com/en/router-setup/)
 * [Docs](https://alviy.com/en/docs)
 * [Report abuse](https://cloud.alviy.com/abuse)
 
