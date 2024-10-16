@@ -1561,4 +1561,4 @@ English
 
 $ USD
 
-![](https://collector-pxk3bezzfo.perimeterx.net/api/v1/collector/noScript.gif?appId=PXK3bezZfO)
+![](https://collector-pxk3bezzfo.px-cdn.net/api/v1/collector/noScript.gif?appId=PXK3bezZfO)
