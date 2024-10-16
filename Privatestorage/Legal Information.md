@@ -30,7 +30,7 @@ You may use our website for purely informational purposes without disclosing you
 
 The Private.Storage website is currently hosted on AWS servers which are based in the EU.
 
-PrivateStorage uses an open-source web analytics program with a strong privacy focus, called Matomo. It informs us about how visitors use our website. PrivateStorage collects anonymous statistical data about the use of its website to optimize its online presence and for marketing and sales purposes. Only the first 2 ‘bytes’ of your IP address are being stored which makes it harder to link your current visit to this website to future visits, and to determine your exact location.You can opt-out of visitor data collection by Matomo by enabling the Do-Not-Track option in your browser. Visit http://donottrack.us/ to learn how.
+PrivateStorage uses an open-source web analytics program with a strong privacy focus, called Matomo. It informs us about how visitors use our website. PrivateStorage collects anonymous statistical data about the use of its website to optimize its online presence and for marketing and sales purposes. Only the first 2 ‘bytes’ of your IP address are being stored which makes it harder to link your current visit to this website to future visits, and to determine your exact location.You can opt-out of visitor data collection by Matomo by enabling the Do-Not-Track option in your browser. Visit [http://donottrack.us/](http://donottrack.us/) to learn how.
 
 The videos posted on our website run on our servers. Thus, when watching these videos, we do not collect any personal data.
 
@@ -142,7 +142,7 @@ You have the right to lodge a complaint with the competent data protection super
 
 **Phone:** +49 30 13889-0
 
-**Website:** http://www.datenschutz-berlin.de
+**Website:** [http://www.datenschutz-berlin.de](http://www.datenschutz-berlin.de/)
 
 If you have any questions or complaints about this Privacy Notice or our data protection practices generally, we encourage you to contact us or our EU Representative at [privacy@leastauthority.com](mailto:privacy@leastauthority.com).
 
