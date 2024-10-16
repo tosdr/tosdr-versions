@@ -587,6 +587,7 @@ The best social media marketing app, influencer marketing management platform & 
     Solutions
     
     * [Later Influencer Program](https://later.com/influencer-creator-program/)
+    * [Affiliate Marketing](https://later.com/affiliate-marketing/)
     * [Reputation Management](https://later.com/reputation-management-software/)
     
     Tools
