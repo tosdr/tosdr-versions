@@ -255,25 +255,21 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[U.S., S. Korea and Japan unveil team to monitor N. Korea sanctions](https://www.japantimes.co.jp/news/2024/10/16/japan/north-korea-sanctions-monitor/ "U.S., S. Korea and Japan unveil team to monitor N. Korea sanctions")
+[Japan, U.S. and South Korea unveil team to monitor North sanctions](https://www.japantimes.co.jp/news/2024/10/16/japan/north-korea-sanctions-monitor/ "Japan, U.S. and South Korea unveil team to monitor North sanctions")
 
-4 hours ago
+9 hours ago
 
 [Tokyo tax office to sell Ferrari with bids starting at ¥71.3 million](https://www.japantimes.co.jp/news/2024/10/16/japan/tokyo-tax-ferrari/ "Tokyo tax office to sell Ferrari with bids starting at ¥71.3 million")
 
-5 hours ago
+10 hours ago
 
 [Rengo to call for pay hikes of 5% or more in 2025](https://www.japantimes.co.jp/business/2024/10/16/rengo-pay-hike/ "Rengo to call for pay hikes of 5% or more in 2025")
 
-5 hours ago
+11 hours ago
 
 [Visitors to Japan in January-September top last year's total](https://www.japantimes.co.jp/news/2024/10/16/japan/society/foreign-visitors-september/ "Visitors to Japan in January-September top last year's total")
 
-6 hours ago
-
 [JICA staffer suspected of leaking info on Philippines railway project](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
