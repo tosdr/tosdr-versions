@@ -628,6 +628,8 @@ More
 * [Envestnet Analytics](https://www.envestnet.com/our-ecosystem)
 * [Money by Envestnet | Yodlee](https://money.yodlee.com/pfm3/home)
 
+Credit Inquiry
+
 ©2024 Yodlee, Inc.
 
 * [Privacy Notice](https://www.yodlee.com/legal/privacy-notice)
