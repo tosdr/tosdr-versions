@@ -144,7 +144,7 @@ From $149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
 
 Wireless Floodlight
 
-Security Camera and Light
+Security Light and Camera
 
 From $249.99](https://www.arlo.com/en-us/light/arlo-pro-3-floodlight-camera.html)
 
@@ -287,7 +287,7 @@ From $149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
 
 Wireless Floodlight
 
-Security Camera and Light
+Security Light and Camera
 
 From $249.99](https://www.arlo.com/en-us/light/arlo-pro-3-floodlight-camera.html)
 
@@ -459,7 +459,7 @@ Security Plans
             
             Wireless Floodlight
             
-            Security Camera and Light
+            Security Light and Camera
             
             From $249.99](https://www.arlo.com/en-us/light/arlo-pro-3-floodlight-camera.html)
             
