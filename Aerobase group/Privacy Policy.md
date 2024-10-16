@@ -200,6 +200,16 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [No pilots, all cargo: Airbus tests loading of autonomous helicopter](https://www.defensenews.com/air/2024/10/16/no-pilots-all-cargo-airbus-tests-loading-of-autonomous-helicopter/)  
+    10/16/24 01:00pm  
+    
+    The nose of Airbus's autonomous variant of the UH-72 Lakota would open up, allowing Marines to front load weapons or large cargo. (Airbus)
+    
+* [AeroVironment pitches Army drone for quick battlefield changes](https://www.defensenews.com/air/2024/10/16/aerovironment-pitches-army-drone-for-quick-battlefield-changes/)  
+    10/16/24 11:20am  
+    
+    AeroVironment says its P550 drone, designed for the Army's Long Range Reconnaissance program, can be modified in the field in minutes and without tools. (AeroVironment)
+    
 * [Sending THAAD to Israel adds to strain on US Army, leaders say](https://www.defensenews.com/air/2024/10/15/sending-thaad-air-defense-system-to-israel-adds-to-strain-on-us-army/)  
     10/15/24 11:32am  
     
@@ -209,16 +219,6 @@ This document was last updated on January 1, 2014
     10/14/24 11:17am  
     
     Troops prepare to load a Terminal High Altitude Area Defense (THAAD) launching station onto a 4th Airlift Squadron C-17 Globemaster III at Fort Bliss, Texas, Feb. 23, 2019. The U.S. is sending a THAAD battery, along with the troops needed to operate it, to Israel. (Staff Sgt. Cory D. Payne/U.S. Air Force via AP)
-    
-* [MacDill dodges major storm damage as people, planes remain evacuated](https://www.defensenews.com/air/2024/10/10/macdill-dodges-major-storm-damage-as-people-planes-remain-evacuated/)  
-    10/10/24 05:30pm  
-    
-    MacDill Air Force Base avoided the worst of what Hurricane Milton had in store as the once-Category 5 storm weakened. But the base still must contend with flooding, road debris and other limited damage, such as the damaged airplane figure shown here. (MacDill Air Force Base)
-    
-* [Lockheed names software specialist as new head of F-35 jet program](https://www.defensenews.com/air/2024/10/09/lockheed-names-software-specialist-as-new-head-of-f-35-jet-program/)  
-    10/09/24 02:36pm  
-    
-    Lockheed Martin has struggled with software components for the F-35's latest upgrades, and has now put a software engineering specialist in charge of the multi-billion dollar program. (U.S. Air Force)
     
 
 Recent parts by keyword  
