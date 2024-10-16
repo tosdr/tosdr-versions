@@ -965,6 +965,7 @@
             * [ ]  [Craig Miskell README](https://handbook.gitlab.com/handbook/engineering/readmes/craig-miskell/)
             * [ ]  [Daniel Diniz's README](https://handbook.gitlab.com/handbook/engineering/readmes/daniel-diniz/)
             * [ ]  [David Wainaina README](https://handbook.gitlab.com/handbook/engineering/readmes/david-wainaina/)
+            * [ ]  [Eduardo Bonet's README](https://handbook.gitlab.com/handbook/engineering/readmes/eduardo-bonet/)
             * [ ]  [Emily Chang's README](https://handbook.gitlab.com/handbook/engineering/readmes/emily-chang/)
             * [ ]  [James Lopes' README](https://handbook.gitlab.com/handbook/engineering/readmes/james-lopes/)
             * [ ]  [Jane Gianoutsos' README](https://handbook.gitlab.com/handbook/engineering/readmes/jane-gianoutsos/)
