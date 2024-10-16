@@ -50,6 +50,8 @@ SOUTHERN AFRICA
 
 [Garden Route](https://www.safari.com/destinations/garden-route)
 
+[Madikwe & Pilanesberg](https://www.safari.com/destinations/madikwe-pilanesberg)
+
 [Namibia](https://www.safari.com/destinations/namibia)
 
 [Okavango Delta](https://www.safari.com/destinations/okavango-delta)
@@ -142,6 +144,20 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Oct 16, 2024
+
+> Very responsive and accurate
+
+> Very responsive and accurate
+
+Jean
+
+,
+
+fr
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Oct 15, 2024
 
 > Planning Our Family African Safari Experience
@@ -151,6 +167,8 @@ out of 5 based on
 KP
 
 ,
+
+ca
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -249,20 +267,6 @@ Bobbie
 ,
 
 GB
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 4, 2024
-
-> Sara at safari.com
-
-> Sara very prompt, courteous, and knowledgeable about her product. Always a pleasure dealing with her on my numerous emails!
-
-Customer Brenda, Travel Leaders
-
-,
-
-US
 
 VIP service
 
