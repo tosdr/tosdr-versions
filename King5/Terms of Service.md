@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/bac963da-214e-4162-9787-2da629bcbed4/20240823T232603/bac963da-214e-4162-9787-2da629bcbed4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bac963da-214e-4162-9787-2da629bcbed4/20240823T232603/bac963da-214e-4162-9787-2da629bcbed4_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/mountain-snowfall-atmospheric-river-western-washington/281-84d90ef6-a70a-475f-8bf2-2a76d081f656)
+    *  [![](https://media.king5.com/assets/KING/images/dbd15c82-7288-44a1-a7c4-d3a7190ae96e/20241016T051232/dbd15c82-7288-44a1-a7c4-d3a7190ae96e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dbd15c82-7288-44a1-a7c4-d3a7190ae96e/20241016T051232/dbd15c82-7288-44a1-a7c4-d3a7190ae96e_360x203.jpg)](https://www.king5.com/article/news/local/navy-aircraft-crashes-near-mount-rainier/281-e14b3068-e1ae-48db-ad68-0d034ee02cc0)
         
-        #### [Mountain snowfall, atmospheric river on the way this week](https://www.king5.com/article/weather/weather-blog/mountain-snowfall-atmospheric-river-western-washington/281-84d90ef6-a70a-475f-8bf2-2a76d081f656)
+        #### [Condition of two crew members still unclear day after Navy plane crashes near Mount Rainier](https://www.king5.com/article/news/local/navy-aircraft-crashes-near-mount-rainier/281-e14b3068-e1ae-48db-ad68-0d034ee02cc0)
         
-    *  [![](https://media.tegna-media.com/assets/KING/images/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619.jpg)](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
+    *  [![](https://media.king5.com/assets/KING/images/5018369c-ca5e-4eb4-9202-c7b71ee95c80/5018369c-ca5e-4eb4-9202-c7b71ee95c80_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5018369c-ca5e-4eb4-9202-c7b71ee95c80/5018369c-ca5e-4eb4-9202-c7b71ee95c80_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattle-tacoma-sea-airport-facial-recognition-technology-tsa-security-checkpoint/281-daa7ecac-9f83-42aa-9d95-abdd7478dfe1)
         
-        #### [New poll reveals Kamala Harris holds an edge over Donald Trump in Washington state](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
+        #### [Facial recognition technology introduced at SEA Airport TSA checkpoints](https://www.king5.com/article/news/local/seattle/seattle-tacoma-sea-airport-facial-recognition-technology-tsa-security-checkpoint/281-daa7ecac-9f83-42aa-9d95-abdd7478dfe1)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KGW/images/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0/20241016T130614/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0/20241016T130614/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0_360x203.jpg)](https://www.king5.com/article/news/local/funnel-cloud-battle-ground/283-ebb98481-5982-4cbe-b6b2-4e9b1260166a)
+        
+        #### [Funnel cloud spotted in southwest Washington, NWS confirms](https://www.king5.com/article/news/local/funnel-cloud-battle-ground/283-ebb98481-5982-4cbe-b6b2-4e9b1260166a)
+        
     *  [![](https://media.king5.com/assets/KING/images/a0209a33-2dab-4e78-9126-c64a9c611024/20241016T114758/a0209a33-2dab-4e78-9126-c64a9c611024_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a0209a33-2dab-4e78-9126-c64a9c611024/20241016T114758/a0209a33-2dab-4e78-9126-c64a9c611024_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/bac963da-214e-4162-9787-2da629bcbed4/20240823T232603/bac963da-214e-4162-9787-2da629bcbed4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bac963da-214e-4162-9787-2da629bcbed4/20240823T232603/bac963da-214e-4162-9787-2da629bcbed4_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/mountain-snowfall-atmospheric-river-western-washington/281-84d90ef6-a70a-475f-8bf2-2a76d081f656)
-        
-        #### [Mountain snowfall, atmospheric river on the way this week](https://www.king5.com/article/weather/weather-blog/mountain-snowfall-atmospheric-river-western-washington/281-84d90ef6-a70a-475f-8bf2-2a76d081f656)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-54°
+60°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
