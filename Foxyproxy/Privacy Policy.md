@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your suggestions worked perfectly! I am now able to surf the web and the i2p tunnels all in one browser.
+Outstanding, however sometimes slow (rarely).
 
-Allen Mershon
+Mohammad Jabr
