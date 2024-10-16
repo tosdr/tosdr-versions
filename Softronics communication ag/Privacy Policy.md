@@ -31,10 +31,12 @@ Softronics Easy. Flexible. Close](https://www.softronics.ch/en)
 * [Virtual Server](https://www.softronics.ch/en/products/virtual-server)
 * [Domains](https://www.softronics.ch/en/products/domains)
 
+![Online Storage](https://static.softronics.ch/img/products/bg_category_storage.jpg)
+
 Online Storage
 --------------
 
-Secure and fast online storage space for your daily work. Accessible via website, WebDAV, App, or Client.
+Your fast and versatile cloud storage for all tasks. Access from any device – simply and intuitively. Supports integration via WebDAV.
 
 Choose from multiple locations.
 
@@ -44,12 +46,12 @@ Server located in Switzerland.](https://www.softronics.ch/en/products/online-sto
 
 Price advantage location Europe.](https://www.softronics.ch/en/products/online-storage?l=eu)
 
-![](https://static.softronics.ch/img/products/bg_category_storage.jpg)
+![FTP Storage](https://static.softronics.ch/img/products/bg_category_storage.jpg)
 
 FTP Storage
 -----------
 
-Secure and fast FTP cloud storage. Ideal for large files and your daily backup. Accessible via website, FTP, FTPES, and SFTP. Access via personal domain possible.
+This cloud storage is aimed at technically proficient users and enables fast data exchange via the FTP protocol. With transfer speeds of up to 500 Mbit/s, it is particularly efficient. The storage is also available under your own domain.
 
 Choose from multiple locations.
 
@@ -59,12 +61,12 @@ Server located in Switzerland.](https://www.softronics.ch/en/products/ftp-storag
 
 Price advantage location Europe.](https://www.softronics.ch/en/products/ftp-storage?l=eu)
 
-![](https://static.softronics.ch/img/products/bg_category_storage.jpg)
+![Virtual Server](https://static.softronics.ch/img/products/bg_category_vserver.jpg)
 
 Virtual Server
 --------------
 
-Latest virtualization generation with the highest performance, NVMe Storage, security and flexibility.
+Our latest-generation virtual servers offer maximum performance, fast NVMe storage, maximum security and flexible use. Install and use your applications as required.
 
 Choose from multiple locations.
 
@@ -74,21 +76,19 @@ Server located in Switzerland.](https://www.softronics.ch/en/products/virtual-se
 
 Price advantage location Europe.](https://www.softronics.ch/en/products/virtual-server?l=eu)
 
-![](https://static.softronics.ch/img/products/bg_category_vserver.jpg)
+![Domains](https://static.softronics.ch/img/products/bg_category_storage.jpg)
 
 [Domains
 -------
 
-Register or transfer your desired domain easily and quickly. All domains with attractive prices.](https://www.softronics.ch/en/products/domains)
-
-![](https://static.softronics.ch/img/products/bg_category_storage.jpg)
+Register your desired domain quickly and easily. Choose from over 700 domain extensions at attractive conditions.](https://www.softronics.ch/en/products/domains)
 
 * [Online Storage](#)
     
-    Online Storage
-    --------------
+    [Online Storage
+    --------------](https://www.softronics.ch/en/products/online-storage)
     
-    Secure and fast online storage space for your daily work. Accessible via website, WebDAV, App, or Client.
+    Your fast and versatile cloud storage for all tasks. Access from any device – simply and intuitively. Supports integration via WebDAV.
     
     Choose from multiple locations.
     
@@ -100,10 +100,10 @@ Register or transfer your desired domain easily and quickly. All domains with at
     
 * [FTP Storage](#)
     
-    FTP Storage
-    -----------
+    [FTP Storage
+    -----------](https://www.softronics.ch/en/products/ftp-storage)
     
-    Secure and fast FTP cloud storage. Ideal for large files and your daily backup. Accessible via website, FTP, FTPES, and SFTP. Access via personal domain possible.
+    This cloud storage is aimed at technically proficient users and enables fast data exchange via the FTP protocol. With transfer speeds of up to 500 Mbit/s, it is particularly efficient. The storage is also available under your own domain.
     
     Choose from multiple locations.
     
@@ -115,10 +115,10 @@ Register or transfer your desired domain easily and quickly. All domains with at
     
 * [Virtual Server](#)
     
-    Virtual Server
-    --------------
+    [Virtual Server
+    --------------](https://www.softronics.ch/en/products/virtual-server)
     
-    Latest virtualization generation with the highest performance, NVMe Storage, security and flexibility.
+    Our latest-generation virtual servers offer maximum performance, fast NVMe storage, maximum security and flexible use. Install and use your applications as required.
     
     Choose from multiple locations.
     
@@ -131,9 +131,9 @@ Register or transfer your desired domain easily and quickly. All domains with at
 * [Domains](#)
     
     [Domains
-    -------
+    -------](https://www.softronics.ch/en/products/domains)
     
-    Register or transfer your desired domain easily and quickly. All domains with attractive prices.](https://www.softronics.ch/en/products/domains)
+    Register your desired domain quickly and easily. Choose from over 700 domain extensions at attractive conditions.
     
 
 * [EN](#)
