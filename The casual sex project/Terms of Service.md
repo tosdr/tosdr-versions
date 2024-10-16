@@ -90,59 +90,59 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/cognitive-behavioral-therapy-for-criminal-offending.jpg)[](https://admin.mi52siterestore.com/article/cognitive-behavioral-therapy-for-criminal-offending/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/do-black-newborns-fare-better-with-black-doctors-1.jpg)[](https://admin.mi52siterestore.com/article/do-black-newborns-fare-better-with-black-doctors/ "Read More")
 
-Issue Brief Public Safety, Health
+Issue Brief Governance, Culture, Health
 
-Oct 10 2024
+Oct 15 2024
 
-Issue Brief Public Safety, Health
+Issue Brief Governance, Culture, Health
 
-Oct 10 2024
+Oct 15 2024
 
-### [Cognitive Behavioral Therapy for Criminal Offending](https://admin.mi52siterestore.com/article/cognitive-behavioral-therapy-for-criminal-offending/) Examining the Efficacy and Potential Impact
+### [Do Black Newborns Fare Better with Black Doctors?](https://admin.mi52siterestore.com/article/do-black-newborns-fare-better-with-black-doctors/) The Limits of Measuring Racial Concordance
 
-By **[Carolyn D. Gorman](https://admin.mi52siterestore.com/person/carolyn-d-gorman/), [Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/cognitive-behavioral-therapy-for-criminal-offending/)
+By **[George J. Borjas](https://admin.mi52siterestore.com/person/george-j-borjas/), [Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **18 mins** [Read More](https://admin.mi52siterestore.com/article/do-black-newborns-fare-better-with-black-doctors/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/universities-compete-circumvent-racial-admissions-ban.jpg)[](https://admin.mi52siterestore.com/article/no-collusion-universities-compete-to-circumvent-racial-admissions-ban/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/fed-independence-trump-treasury-powell.jpg)[](https://admin.mi52siterestore.com/article/the-fed-isnt-as-independent-as-it-seems/ "Read More")
 
-Commentary Education Higher Ed
+Commentary Economics Federal Reserve
 
-Oct 11 2024
+Oct 15 2024
 
-[No Collusion: Universities Compete to Circumvent Racial Admissions Ban](https://admin.mi52siterestore.com/article/no-collusion-universities-compete-to-circumvent-racial-admissions-ban/)
+[The Fed Isn’t as Independent as It Seems](https://admin.mi52siterestore.com/article/the-fed-isnt-as-independent-as-it-seems/)
 
-By **[James Piereson](https://admin.mi52siterestore.com/person/james-piereson/), [Naomi Schaefer Riley](https://admin.mi52siterestore.com/person/naomi-schaefer-riley/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/no-collusion-universities-compete-to-circumvent-racial-admissions-ban/)
+By **[Stephen Miran](https://admin.mi52siterestore.com/person/stephen-miran/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-fed-isnt-as-independent-as-it-seems/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/a_threat_to_fair_play_.jpg)[](https://admin.mi52siterestore.com/article/a-threat-to-fair-play/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/american-universities-continue-to-underreport-foreign-money.jpg)[](https://admin.mi52siterestore.com/article/american-universities-continue-to-underreport-foreign-money/ "Read More")
 
-Commentary Culture, Governance Culture & Society, Gender Ideology, New York
+Commentary Education, Economics Higher Ed
 
-Oct 08 2024
+Oct 14 2024
 
-[A Threat to Fair Play](https://admin.mi52siterestore.com/article/a-threat-to-fair-play/)
+[American Universities Continue to Underreport Foreign Money](https://admin.mi52siterestore.com/article/american-universities-continue-to-underreport-foreign-money/)
 
-By **[Paul Dreyer](https://admin.mi52siterestore.com/person/paul-dreyer/), [Paula Scanlan](https://admin.mi52siterestore.com/person/paula-scanlan/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/a-threat-to-fair-play/)
+By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/american-universities-continue-to-underreport-foreign-money/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-economics-of-identity-social-science-who-we-think-we-are.jpg)[](https://admin.mi52siterestore.com/article/the-economics-of-identity/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/harris-campaign.jpg)[](https://admin.mi52siterestore.com/article/the-question-hanging-over-harriss-campaign/ "Read More")
 
-Commentary Culture Culture & Society
+Commentary Governance Elections
 
-Oct 07 2024
+Oct 14 2024
 
-[The Economics of Identity](https://admin.mi52siterestore.com/article/the-economics-of-identity/)
+[The Question Hanging over Harris’s Campaign](https://admin.mi52siterestore.com/article/the-question-hanging-over-harriss-campaign/)
 
-By **[Roland G. Fryer, Jr.](https://admin.mi52siterestore.com/person/roland-g-fryer-jr/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-economics-of-identity/)
+By **[Reihan Salam](https://admin.mi52siterestore.com/person/reihan-salam/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-question-hanging-over-harriss-campaign/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/why-im-so-grateful-to-be-an-american.jpg)[](https://admin.mi52siterestore.com/article/why-im-so-grateful-to-be-an-american-on-this-rosh-hashana/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/a-supreme-court-case-in-hawaii-could-raise-gas-costs-for-us-all.jpg)[](https://admin.mi52siterestore.com/article/a-supreme-court-case-in-hawaii-could-raise-gas-costs-for-us-all/ "Read More")
 
-Commentary Culture Culture & Society, Religion
+Commentary Governance, Economics Supreme Court
 
-Oct 04 2024
+Oct 12 2024
 
-[Why I’m So Grateful to Be an American on This Rosh Hashana](https://admin.mi52siterestore.com/article/why-im-so-grateful-to-be-an-american-on-this-rosh-hashana/)
+[A Supreme Court Case in Hawaii Could Raise Gas Costs for Us All](https://admin.mi52siterestore.com/article/a-supreme-court-case-in-hawaii-could-raise-gas-costs-for-us-all/)
 
-By **[Tal Fortgang](https://admin.mi52siterestore.com/person/tal-fortgang/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/why-im-so-grateful-to-be-an-american-on-this-rosh-hashana/)
+By **[Jordan McGillis](https://admin.mi52siterestore.com/person/jordan-mcgillis/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/a-supreme-court-case-in-hawaii-could-raise-gas-costs-for-us-all/)
 
 Our Policy Areas
 ----------------
