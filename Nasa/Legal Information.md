@@ -76,7 +76,7 @@ article4 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-o
 
 ### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 
-article22 hours ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article1 day ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -253,7 +253,7 @@ article 4 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-
 
 ### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 
-article 22 hours ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
+article 1 day ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
 
 2 min read
 
@@ -263,69 +263,69 @@ article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-gran
 
 ### Highlights
 
-[![An astronaut wearing headphones works with multiple laptops inside the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/iss060e033664.jpg?w=1024)
+[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
+
+4 min read
+
+### NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet 
+
+article 4 hours ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)[![An astronaut wearing headphones works with multiple laptops inside the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/iss060e033664.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Oct. 11, 2024
 
-article 17 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-11-2024/)[![A long-legged golden spider the size of a person’s palm is visible in the middle of a web with uneven and asymmetrical lines.](https://www.nasa.gov/wp-content/uploads/2024/10/iss027e035652.jpg?w=1024)
+article 22 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-11-2024/)[![A long-legged golden spider the size of a person’s palm is visible in the middle of a web with uneven and asymmetrical lines.](https://www.nasa.gov/wp-content/uploads/2024/10/iss027e035652.jpg?w=1024)
 
 4 min read
 
 ### Spooky on the Space Station
 
-article 20 hours ago](https://www.nasa.gov/missions/station/iss-research/spooky-on-the-space-station/)[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
-
-3 min read
-
-### Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
-
-article 5 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)
+article 1 day ago](https://www.nasa.gov/missions/station/iss-research/spooky-on-the-space-station/)
 
 ### Highlights
 
-[![Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.](https://science.nasa.gov/wp-content/uploads/2023/12/jason3-20160114climate.jpg)
+[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
+
+2 min read
+
+### Amendment 17: B.5 Living With a Star Science: Several Small Updates
+
+article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)[![Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.](https://science.nasa.gov/wp-content/uploads/2023/12/jason3-20160114climate.jpg)
 
 1 min read
 
 ### Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.
 
-article 19 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)[![Carbon Mapper Coalition’s Tanager-1 satellite detected this methane plume in Karachi, Pakistan](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26416-ghg-plumes-16.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)[![Carbon Mapper Coalition’s Tanager-1 satellite detected this methane plume in Karachi, Pakistan](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26416-ghg-plumes-16.jpg?w=1024)
 
 4 min read
 
 ### First Greenhouse Gas Plumes Detected With NASA-Designed Instrument
 
-article 6 days ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)[![Southern California warehouses](https://www.nasa.gov/wp-content/uploads/2024/10/1-warehouses.jpg?w=1024)
-
-5 min read
-
-### NASA-Funded Study Assesses Pollution Near Los Angeles-Area Warehouses
-
-article 7 days ago](https://www.nasa.gov/earth/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/)
+article 6 days ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
 
 ### Highlights
 
-[![a person wearing an orange reflective safety vest stands in a dark gray, rocky lava tube tunnel](https://www.nasa.gov/wp-content/uploads/2024/10/maunaloa22-ck-rotated.jpg?w=768)
+[![Amendment 61: C.23 Analog Activities to Support Artemis Lunar Operations Deferred to ROSES-25.](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+
+1 min read
+
+### Amendment 61: C.23 Analog Activities to Support Artemis Lunar Operations Deferred to ROSES-25.
+
+article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-61-c-23-analog-activities-to-support-artemis-lunar-operations-deferred-to-roses-25/)[![a person wearing an orange reflective safety vest stands in a dark gray, rocky lava tube tunnel](https://www.nasa.gov/wp-content/uploads/2024/10/maunaloa22-ck-rotated.jpg?w=768)
 
 6 min read
 
 ### Christine Knudson Uses Earthly Experience to Study Martian Geology
 
-article 1 hour ago](https://www.nasa.gov/solar-system/christine-knudson-uses-earthly-experience-to-study-martian-geology/)[![NASA, NOAA: Sun Reaches Maximum Phase in 11-Year Solar Cycle](https://science.nasa.gov/wp-content/uploads/2024/10/001-sun-comparison-00001-print.jpg)
+article 6 hours ago](https://www.nasa.gov/solar-system/christine-knudson-uses-earthly-experience-to-study-martian-geology/)[![NASA, NOAA: Sun Reaches Maximum Phase in 11-Year Solar Cycle](https://science.nasa.gov/wp-content/uploads/2024/10/001-sun-comparison-00001-print.jpg)
 
 6 min read
 
 ### NASA, NOAA: Sun Reaches Maximum Phase in 11-Year Solar Cycle
 
-article 20 hours ago](https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/)[![Eclipse Megamovie Coding Competition](https://science.nasa.gov/wp-content/uploads/2023/03/53641212344-be1e94e20c-o-1.jpg)
-
-3 min read
-
-### Eclipse Megamovie Coding Competition
-
-article 1 day ago](https://science.nasa.gov/get-involved/citizen-science/eclipse-megamovie-coding-competition/)
+article 1 day ago](https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/)
 
 ### Featured
 
@@ -335,41 +335,41 @@ article 1 day ago](https://science.nasa.gov/get-involved/citizen-science/eclipse
 
 ### NASA’s Hubble Sees a Stellar Volcano
 
-article 31 mins ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
+article 6 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
 
 3 min read
 
 ### Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science
 
-article 19 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-60-new-opportunity-d-21-u-s-contributions-to-ariel-preparatory-science/)[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-60-new-opportunity-d-21-u-s-contributions-to-ariel-preparatory-science/)[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
 
 5 min read
 
 ### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 
-article 22 hours ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)
+article 1 day ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)
 
 ### Highlights
 
-[![NASA’s Hubble Sees a Stellar Volcano](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-raquarii-stsci-01j80b5p0qfsrzn9a2e48f61cx.jpg)
+[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
 
-3 min read
+2 min read
 
-### NASA’s Hubble Sees a Stellar Volcano
+### Amendment 17: B.5 Living With a Star Science: Several Small Updates
 
-article 31 mins ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)[![An underwater image of a juvenile black, white, and yellow-striped Bluehead wrasse fish dart in and out of a reef, composed of yellow fire coral (Millepora complanate, back left), branching finger coral (Porites furcate, front left), and various species of sea rods and sea fans. This coral reef sits in the waters of Playa Melones, Puerto Rico.](https://www.nasa.gov/wp-content/uploads/2024/10/oceanos2024loiacono-4454.jpg?w=1024)
+article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)[![Amendment 61: C.23 Analog Activities to Support Artemis Lunar Operations Deferred to ROSES-25.](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
 
-7 min read
+1 min read
 
-### What is a Coral Reef?
+### Amendment 61: C.23 Analog Activities to Support Artemis Lunar Operations Deferred to ROSES-25.
 
-article 15 hours ago](https://www.nasa.gov/general/what-is-a-coral-reef/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
+article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-61-c-23-analog-activities-to-support-artemis-lunar-operations-deferred-to-roses-25/)[![Hazard Detection Lidar](https://science.nasa.gov/wp-content/uploads/2024/10/splice-web-image-4-final.webp)
 
-3 min read
+2 min read
 
-### Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science
+### Hazard Detection Lidar
 
-article 19 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-60-new-opportunity-d-21-u-s-contributions-to-ariel-preparatory-science/)
+article 3 hours ago](https://science.nasa.gov/mission/hazard-detection-lidar/)
 
 ### Highlights
 
@@ -395,7 +395,13 @@ article 3 days ago](https://www.nasa.gov/centers-and-facilities/langley/una-reun
 
 ### Highlights
 
-[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
+[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
+
+4 min read
+
+### NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet 
+
+article 4 hours ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
 
 3 min read
 
@@ -407,13 +413,7 @@ article 5 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering
 
 ### Controlled Propulsion for Gentle Landings 
 
-article 5 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
-
-4 min read
-
-### NASA Terminal Transmits First Laser Communications Uplink to Space 
-
-article 7 days ago](https://www.nasa.gov/technology/space-comms/space-communications/nasa-terminal-transmits-first-laser-communications-uplink-to-space/)
+article 5 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/)
 
 ### Featured
 
