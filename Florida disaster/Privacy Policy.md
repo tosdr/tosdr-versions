@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Tuesday, October 15, 2024**
+**Wednesday, October 16, 2024**
 
-**...Cold Front Continues to Move Through Central Florida Bringing Coolest Temperatures of the Season...Mostly Dry Conditions Across the State Throughout the Day...Isolated to Widely Scattered Showers with Embedded Thunderstorms Across Southern Peninsula and Keys...Isolate Brief Shower or Two or Rumble of Thunder Along Northern Peninsula Late Overnight...Breezy Winds Developing Overnight and Early Wednesday Morning Across North Florida...Instances of Minor to Moderate Coastal Flooding Along Tidal Portions of the St. Johns River; Coastal Flood Warning and Advisory Remain in Effect...King Tides Developing to Bring Minor to Locally Moderate Coastal Flooding Along South Florida and Keys...Widespread Riverine Flooding Continues Throughout West-Central and Central Florida and St. Johns River...NHC Continues to Monitor Two Disturbances Within Atlantic Basin...**
+**...Cold Front Continues to Move Southward Through the Peninsula, Bringing Coolest Temperatures of the Season...Mostly Dry Conditions Across the State Throughout the Day...Isolated to Widely Scattered Showers with Embedded Thunderstorms Along Central Florida Coastlines, South Florida, and The Keys...Breezy Winds Statewide With Gusts Upwards of 15-30 MPH...Relative Humidity Values Near Critical Thresholds Across North Florida Today (25-35%); Red Flag Warnings in Effect Along the Florida Panhandle for Sensitive to Critical Wildfire Conditions...Instances of Minor to Locally Moderate Coastal Flooding Along Tidal Portions of the St. Johns River; Coastal Flood Advisories Remain in Effect...King Tides Developing to Bring Minor to Locally Moderate Coastal Flooding Along the East Coast, South Florida, and Keys...Low to Moderate Risk for Rip Currents Statewide...Widespread Riverine Flooding Continues Throughout West-Central, Central, and Northeast Florida and St. Johns River...NHC Continues to Monitor Two Disturbances Within Atlantic Basin...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
