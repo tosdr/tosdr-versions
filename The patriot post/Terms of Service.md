@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111095-mid-day-digest-2024-10-15?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111137-mid-day-digest-2024-10-16?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,32 +185,32 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111095-mid-day-digest-2024-10-15?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111137-mid-day-digest-2024-10-16?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111076-coming-soon-2024-10-15)
+     [](https://patriotpost.us/memes/111109-youd-know-2024-10-16)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34372)
+     [](https://patriotpost.us/cartoons/34374)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Ben Shapiro The Brat Energy Is Gone](https://patriotpost.us/opinion/111130-the-brat-energy-is-gone-2024-10-16)
+*      [Betsy McCaughey Harris’ Approach: Only Blacks Get Government Help](https://patriotpost.us/opinion/111126-harris-approach-only-blacks-get-government-help-2024-10-16)
+*      [Tim Graham The Washington Post Claims Republicans Wage War on Fact-Checkers](https://patriotpost.us/opinion/111125-the-washington-post-claims-republicans-wage-war-on-fact-checkers-2024-10-16)
+*      [John Stossel Deceitful Promises](https://patriotpost.us/opinion/111124-deceitful-promises-2024-10-16)
+*      [Gary Bauer The Joy Is Gone](https://patriotpost.us/opinion/111122-the-joy-is-gone-2024-10-16)
+*      [Star Parker Why, In Our Free Country, Do We Lack Education Freedom?](https://patriotpost.us/opinion/111120-why-in-our-free-country-do-we-lack-education-freedom-2024-10-16)
+*      [Ian Haworth The Racism Reflex](https://patriotpost.us/opinion/111105-the-racism-reflex-2024-10-16)
 *      [Christine Flowers Sex, Lies, and Other Distractions](https://patriotpost.us/opinion/111091-sex-lies-and-other-distractions-2024-10-15)
-*      [Dennis Prager Israel Made the West. Israel Is Saving the West.](https://patriotpost.us/opinion/111090-israel-made-the-west-israel-is-saving-the-west-2024-10-15)
-*      [Salena Zito Elon Musk Says ‘Destiny of America’ Is on the Line](https://patriotpost.us/opinion/111089-elon-musk-says-destiny-of-america-is-on-the-line-2024-10-15)
-*      [Daniel McCarthy Why Veterans Are Voting for Trump](https://patriotpost.us/opinion/111088-why-veterans-are-voting-for-trump-2024-10-15)
-*      [Jeff Jacoby One Columnist’s Ballot Guide: Yes on 1. No on 2, 3, 4, and 5.](https://patriotpost.us/opinion/111068-one-columnists-ballot-guide-yes-on-1-no-on-2-3-4-and-5-2024-10-15)
-*      [Victor Joecks Passive-Aggressive Biden Wants Harris to Lose](https://patriotpost.us/opinion/111087-passive-aggressive-biden-wants-harris-to-lose-2024-10-15)
-*      [Gary Bauer China Hacks Again](https://patriotpost.us/opinion/111085-china-hacks-again-2024-10-15)
-*      [Cal Thomas Obama to the Rescue](https://patriotpost.us/opinion/111061-obama-to-the-rescue-2024-10-15)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,11 +224,15 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
-“Labor to keep alive in your breast that little spark of celestial fire called conscience.” —George Washington (1748)
+“The name of American, which belongs to you, in your national capacity, must always exalt the just pride of Patriotism, more than any appellation derived from local discriminations.” —George Washington (1796)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
