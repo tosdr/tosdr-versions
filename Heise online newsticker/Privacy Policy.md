@@ -823,13 +823,13 @@ Services
 
 [Newsletter](https://www.heise.de/newsletter/) [heise-Bot heise-Bot](https://www.heise.de/benachrichtigungen/heise-bot/) [Push Nachrichten Push Push-Nachrichten](https://www.heise.de/benachrichtigungen)
 
-* [Datenschutz](https://www.heise.de/Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-4860.html)
-* [Cookies & Tracking](javascript:window._sp_.gdpr.loadPrivacyManagerModal(756676);)
-* [Impressum](https://www.heise.de/impressum.html)
 * [Kontakt](https://www.heise.de/kontakt/)
+* [Impressum](https://www.heise.de/impressum.html)
 * [Barriere melden](https://www.heise.de/kontakt/?frage=3212474)
-* [Mediadaten](https://mediadaten.heise.de/)
 * [Verträge kündigen](https://www.heise.de/account/cancellation)
+* [Cookies & Tracking](javascript:window._sp_.gdpr.loadPrivacyManagerModal(756676);)
+* [Datenschutz](https://www.heise.de/Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-4860.html)
+* [Mediadaten](https://mediadaten.heise.de/)
 
 * [Content Management by **InterRed**](http://www.interred.de/)
 * [Hosted by Plus.line](https://www.plusline.net/)
