@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Pennsylvania Senate Debate: Casey, McCormick Spar Over Economy, Border, Fracking](https://www.theepochtimes.com/us/pennsylvania-senate-debate-casey-mccormick-spar-over-economy-border-fracking-5742063)
+* [Supreme Court Declines to Halt EPA’s New Climate Regulation for Power Plants](https://www.theepochtimes.com/us/supreme-court-declines-to-halt-epas-new-climate-regulation-for-power-plants-5742567)
     
-    2hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
-    [![Pennsylvania Senate Debate: Casey, McCormick Spar Over Economy, Border, Fracking](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Supreme Court Declines to Halt EPA’s New Climate Regulation for Power Plants](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pennsylvania Senate Debate: Casey, McCormick Spar Over Economy, Border, Fracking](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5740964-FotoJet-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-senate-debate-casey-mccormick-spar-over-economy-border-fracking-5742063)
-* [Zelenskyy Sets Out ‘Victory Plan’ in Ukrainian Parliament](https://www.theepochtimes.com/world/zelenskyy-to-set-out-victory-plan-in-ukrainian-parliament-in-kyiv-5742167)
+    ![Supreme Court Declines to Halt EPA’s New Climate Regulation for Power Plants](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737017-10072024-L1160057-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-declines-to-halt-epas-new-climate-regulation-for-power-plants-5742567)
+* [Semifinalists Announced for NTD’s 7th International Piano Competition](https://www.theepochtimes.com/bright/semifinalists-announced-for-ntds-7th-international-piano-competition-5742615)
     
-    4hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    NEW By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
     
-    [![Zelenskyy Sets Out ‘Victory Plan’ in Ukrainian Parliament](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Semifinalists Announced for NTD’s 7th International Piano Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Zelenskyy Sets Out ‘Victory Plan’ in Ukrainian Parliament](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742328-2024-10-16T101936Z_1_LYNXMPEK9F0CH_RTROPTP_4_UKRAINE-CRISIS-ZELENSKIY-PARLIAMENT-205x123.jpg.webp)](https://www.theepochtimes.com/world/zelenskyy-to-set-out-victory-plan-in-ukrainian-parliament-in-kyiv-5742167)
-* [‘Probably Worse Than It Looks’: IMF Sounds Alarm Over Government Spending](https://www.theepochtimes.com/world/probably-worse-than-it-looks-imf-sounds-alarm-over-government-spending-5742000)
+    ![Semifinalists Announced for NTD’s 7th International Piano Competition](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742651-Robert-Neuman-NTD-piano-competition-205x123.jpg.webp)](https://www.theepochtimes.com/bright/semifinalists-announced-for-ntds-7th-international-piano-competition-5742615)
+* [Trump Signals He Will Ban Transgender Athletes in Women’s Sports via Executive Action](https://www.theepochtimes.com/us/trump-signals-he-will-ban-transgender-athletes-in-womens-sports-via-executive-action-5742470)
     
-    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![‘Probably Worse Than It Looks’: IMF Sounds Alarm Over Government Spending](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Signals He Will Ban Transgender Athletes in Women’s Sports via Executive Action](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![‘Probably Worse Than It Looks’: IMF Sounds Alarm Over Government Spending](https://img.theepochtimes.com/assets/uploads/2024/08/12/id5704587-315month-day-year-national-debt-clock-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/probably-worse-than-it-looks-imf-sounds-alarm-over-government-spending-5742000)
-* [North Carolina Governor Says 92 People Still Missing After Hurricane Helene](https://www.theepochtimes.com/us/north-carolina-governor-says-92-people-still-missing-after-hurricane-helene-5742094)
+    ![Trump Signals He Will Ban Transgender Athletes in Women’s Sports via Executive Action](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742484-Trump-GA-12_JF_10152024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-signals-he-will-ban-transgender-athletes-in-womens-sports-via-executive-action-5742470)
+* [New Immunotherapy Boosts Hodgkin Lymphoma Survival Rate to 92 Percent](https://www.theepochtimes.com/health/new-immunotherapy-boosts-hodgkin-lymphoma-survival-rate-to-92-percent-5742323)
     
-    7hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    NEW By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
     
-    [![North Carolina Governor Says 92 People Still Missing After Hurricane Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![New Immunotherapy Boosts Hodgkin Lymphoma Survival Rate to 92 Percent](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![North Carolina Governor Says 92 People Still Missing After Hurricane Helene](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742356-Helene-Body-Recovery-2_JF_10062024-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/north-carolina-governor-says-92-people-still-missing-after-hurricane-helene-5742094)
-* [ANALYSIS: The Chinese Economy in Survival Mode](https://www.theepochtimes.com/china/analysis-chinese-economy-in-survival-mode-5740524)
+    ![New Immunotherapy Boosts Hodgkin Lymphoma Survival Rate to 92 Percent](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742657-shutterstock_2299115831_nivolumab_cancer_immunotherapy-205x123.jpg.webp)](https://www.theepochtimes.com/health/new-immunotherapy-boosts-hodgkin-lymphoma-survival-rate-to-92-percent-5742323)
+* [FTC Tackles Subscription Traps With ‘Click to Cancel’ Rule](https://www.theepochtimes.com/business/ftc-tackles-subscription-traps-with-click-to-cancel-rule-5742454)
     
-    7hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    NEW By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
     
-    [![ANALYSIS: The Chinese Economy in Survival Mode](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![FTC Tackles Subscription Traps With ‘Click to Cancel’ Rule](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![ANALYSIS: The Chinese Economy in Survival Mode](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741775-GettyImages-2177272095-205x123.jpg.webp)](https://www.theepochtimes.com/china/analysis-chinese-economy-in-survival-mode-5740524)
-* [Chinese Farmers Hit Hardest by New Retirement Scheme, Experts Say](https://www.theepochtimes.com/china/chinese-farmers-hit-hardest-by-new-retirement-scheme-experts-say-5741071)
+    ![FTC Tackles Subscription Traps With ‘Click to Cancel’ Rule](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693538-GettyImages-71968930-SB-205x123.jpg.webp)](https://www.theepochtimes.com/business/ftc-tackles-subscription-traps-with-click-to-cancel-rule-5742454)
+* [Figuring Out Fitness After Menopause](https://www.theepochtimes.com/health/figuring-out-fitness-after-menopause-5645689)
     
-    7hr By [Lynn Xu](https://www.theepochtimes.com/author/ling-xiong) and [Pinnacle View Team](https://www.theepochtimes.com/author/pinnacle-view-team)
+    NEW By [Amy Denney](https://www.theepochtimes.com/author/amy-denney)
     
-    [![Chinese Farmers Hit Hardest by New Retirement Scheme, Experts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Figuring Out Fitness After Menopause](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Chinese Farmers Hit Hardest by New Retirement Scheme, Experts Say](https://img.theepochtimes.com/assets/uploads/2024/05/27/id5657824-GettyImages-74592369-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-farmers-hit-hardest-by-new-retirement-scheme-experts-say-5741071)
-* [Supreme Court to Hear San Francisco’s Challenge to EPA Water Regulation](https://www.theepochtimes.com/us/us-supreme-court-to-hear-san-franciscos-challenge-to-epa-water-regulation-5741818)
+    ![Figuring Out Fitness After Menopause](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740470-Menopause-Exercise--205x123.jpeg.webp)](https://www.theepochtimes.com/health/figuring-out-fitness-after-menopause-5645689)
+* [Fossil Fuel Dominance to Persist as Energy Demand Outpaces Infrastructure Growth, IEA Says](https://www.theepochtimes.com/us/fossil-fuel-dominance-to-persist-as-energy-demand-outpaces-infrastructure-growth-iea-says-5742387)
     
-    7hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Supreme Court to Hear San Francisco’s Challenge to EPA Water Regulation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Fossil Fuel Dominance to Persist as Energy Demand Outpaces Infrastructure Growth, IEA Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court to Hear San Francisco’s Challenge to EPA Water Regulation](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741753-10072024-L1160066-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-supreme-court-to-hear-san-franciscos-challenge-to-epa-water-regulation-5741818)
-* [Georgia Judge Halts Ballot Hand Count Rule for 2024 Election](https://www.theepochtimes.com/us/georgia-judge-halts-ballot-hand-count-rule-for-2024-election-5742089)
+    ![Fossil Fuel Dominance to Persist as Energy Demand Outpaces Infrastructure Growth, IEA Says](https://img.theepochtimes.com/assets/uploads/2023/12/23/id5552256-12212023-DSC02198-Oilfield-pump-jacks-205x123.jpg.webp)](https://www.theepochtimes.com/us/fossil-fuel-dominance-to-persist-as-energy-demand-outpaces-infrastructure-growth-iea-says-5742387)
+* [Biden Announces $425 Million Arms Package for Ukraine in Call With Zelenskyy](https://www.theepochtimes.com/world/biden-announces-425-million-arms-package-for-ukraine-in-call-with-zelenskyy-5742407)
     
-    8hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    2hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![Georgia Judge Halts Ballot Hand Count Rule for 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Announces $425 Million Arms Package for Ukraine in Call With Zelenskyy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Georgia Judge Halts Ballot Hand Count Rule for 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742269-GettyImages-2153452790-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-halts-ballot-hand-count-rule-for-2024-election-5742089)
-* [NTD 7th International Piano Competition Kicks Off in New York](https://www.theepochtimes.com/bright/ntd-7th-international-piano-competition-kicks-off-in-new-york-5742125)
+    ![Biden Announces $425 Million Arms Package for Ukraine in Call With Zelenskyy](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730905-Zelenskyy-GettyImages-2174693598-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-announces-425-million-arms-package-for-ukraine-in-call-with-zelenskyy-5742407)
+* [Ohio Supreme Court Rebuffs Challenge to Drop Box Restrictions](https://www.theepochtimes.com/us/ohio-supreme-court-rebuffs-challenge-to-drop-box-restrictions-5742386)
     
-    11hr By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![NTD 7th International Piano Competition Kicks Off in New York](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Ohio Supreme Court Rebuffs Challenge to Drop Box Restrictions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![NTD 7th International Piano Competition Kicks Off in New York](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742268-NTD-piano-competition-Elie-Casbi-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/bright/ntd-7th-international-piano-competition-kicks-off-in-new-york-5742125)
-* [5 Takeaways From Trump’s Chicago Interview With Bloomberg News](https://www.theepochtimes.com/us/5-takeaways-from-trumps-chicago-interview-with-bloomberg-news-5742024)
+    ![Ohio Supreme Court Rebuffs Challenge to Drop Box Restrictions](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725784-03182024-DSC08655-Frank-LaRose.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/ohio-supreme-court-rebuffs-challenge-to-drop-box-restrictions-5742386)
+* [781,000 Absentee Ballots Returned in Michigan in 2024 Election so Far, Data Show](https://www.theepochtimes.com/us/hundreds-of-thousands-of-absentee-ballots-in-michigan-cast-with-3-weeks-to-go-5742412)
     
-    14hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![5 Takeaways From Trump’s Chicago Interview With Bloomberg News](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![781,000 Absentee Ballots Returned in Michigan in 2024 Election so Far, Data Show](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![5 Takeaways From Trump’s Chicago Interview With Bloomberg News](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742267-GettyImages-2178579951-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-takeaways-from-trumps-chicago-interview-with-bloomberg-news-5742024)
+    ![781,000 Absentee Ballots Returned in Michigan in 2024 Election so Far, Data Show](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742565-tcf-center-open-boxes-LSedit-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/hundreds-of-thousands-of-absentee-ballots-in-michigan-cast-with-3-weeks-to-go-5742412)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
