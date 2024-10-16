@@ -31,917 +31,931 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Dos binomios esperan por un puesto en las elecciones 2025, ¿y para asambleístas?
-================================================================================
+Cortes de luz en Guayaquil este miércoles 16 de octubre
+=======================================================
 
-Binomios aún requieren aprobación de dos instancias para asegurar un puesto en las elecciones 2025.
----------------------------------------------------------------------------------------------------
+Los cortes de luz en Guayaquil este miércoles 16 de octubre son definidos por CNEL.
+-----------------------------------------------------------------------------------
 
-![En 2023, Ecuador fue a las urnas para las elecciones anticipadas 2023.](https://www.elcomercio.com/wp-content/uploads/2024/10/binomios-TCE.jpg)
+![Los cortes de luz en Guayaquil para este miércoles 16 de octubre son programados por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/04/luz-loja-zamora-cortes.jpg)
 
-La ruta a las **elecciones 2025** en Ecuador avanza con trámites que incluyen la lucha de organizaciones políticas para ingresar a la papeleta. Los binomios presidenciales son parte del recorrido[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
+Los horarios de los **cortes de luz** en **Guayaquil** este **miércoles 16 de octubre** se mantienen hasta el viernes 18[.](https://es.wikipedia.org/wiki/Guayaquil)
 
-El 9 de febrero, los ecuatorianos elegirán las cabezas de la **Presidencia, Vicepresidencia, Asamblea Nacional** y cinco parlamentarios andinos.
-
-### Más noticias
-
-* [Ecuador tendrá nuevo cantón, ¿qué pasa con las elecciones 2025?](https://www.elcomercio.com/elecciones/ecuador-nuevo-canton-elecciones-2025.html "Ecuador tendrá nuevo cantón, ¿qué pasa con las elecciones 2025?")
-* [Dos binomios aún no están en firme para las elecciones 2025, ¿por qué?](https://www.elcomercio.com/elecciones/dos-binomios-aun-no-estan-en-firme-elecciones-2025.html "Dos binomios aún no están en firme para las elecciones 2025, ¿por qué?")
-* [16 binomios presidenciales tienen posturas aún dispersas para elecciones 2025](https://www.elcomercio.com/elecciones/16-binomios-presidenciales-tienen-posturas-dispersas-elecciones-2025.html "16 binomios presidenciales tienen posturas aún dispersas para elecciones 2025")
-
-> AHORA 📡 | Con la presencia de nuestra presidenta, [@DianaAtamaint](https://twitter.com/DianaAtamaint?ref_src=twsrc%5Etfw), el consejero [@jr\_cabreraz](https://twitter.com/jr_cabreraz?ref_src=twsrc%5Etfw) y la consejera [#EsthelaAcero](https://twitter.com/hashtag/EsthelaAcero?src=hash&ref_src=twsrc%5Etfw), inicia el Taller: “Recomendaciones de las Misiones de Observación Electoral de la [@OEA\_oficial](https://twitter.com/OEA_oficial?ref_src=twsrc%5Etfw) sobre participación política de las 🚺 mujeres”. Este… [pic.twitter.com/cBlveOEGqA](https://t.co/cBlveOEGqA)
-> 
-> — cnegobec (@cnegobec) [October 15, 2024](https://twitter.com/cnegobec/status/1846191158839390473?ref_src=twsrc%5Etfw)
-
-Elecciones 2025 y los binomios
-------------------------------
-
-Hasta este martes, 15 de octubre de 2024, el reporte del **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)** mantiene los 14 binomios que ya están en firme, de los 16 que se inscribieron hasta el 2 del mismo mes.
-
-Las duplas Izquierda Democrática (**Carlos Rabascall y Alejandra Rivas**) y Suma (**Jan Topic y Mishelle Calvache**) aún están a la espera de ingresar a la **papeleta electoral**.
-
-En el primer caso, este 15 de octubre se prevé que se conozca el resultado de la **impugnación** que recibió el binomio. Claro que hay opción de apelación.
-
-El equipo de **Suma**, en cambio, aún no supera dos apelaciones que ingresaron al **Tribunal Contencioso Electoral (TCE)**.
-
-Los cuestionamientos serían por supuestos contratos de **Jan Topic** con el Estado, lo que representa un impedimento según la normativa. No obstante, la organización negó este punto.
-
-De todas formas, el plazo para lograr ingresar a la contienda 2025 se cumple en diciembre de este 2024. El 30 de ese mes se conocerá la **lista definitiva**.
-
-Las listas de asambleístas
---------------------------
-
-El **CNE** detalló que, hasta este martes, únicamente, seis listas están en firme para ser parte de la papeleta para asambleístas nacionales en los comicios 2025:
-
-* Partido Unidad Popular
-* Partido Sociedad Patriótica
-* Revolución Ciudadana-Reto
-* Partido Social Cristiano
-* Movimiento Amigo
-* Partido Socialista Ecuatoriano
-
-Como negados, aparecen las listas del **Movimiento Pachakutik**, Democracia Sí, Construye y Avanza. En subsanación, en cambio, se encuentran **Centro Democrático, Izquierda Democrática y Creo**.
-
-Plazo para las candidaturas en firme
-------------------------------------
-
-El **CNE** tendrá hasta el 20 de octubre de 2024 para emitir su resolución final sobre las impugnaciones. No obstante, también se pueden presentar recursos, como pasó con **Topic**, en el TCE.
-
-El TCE revisará los pedidos y dará su fallo final. La sustanciación de los recursos ante esta instancia está prevista del **23 de octubre al 10 de noviembre**. El fallo es vinculante y deberá ejecutarse antes del 22 de diciembre.
-
-La Selección de Ecuador marcó seis goles en Uruguay
-===================================================
-
-Tres jugadores anotaron los seis goles de Ecuador a Uruguay de visita por eliminatorias mundialistas.
------------------------------------------------------------------------------------------------------
-
-![Ariel Graziani con la Selección de Ecuador en las eliminatorias al Mundial Francia 1998.](https://www.elcomercio.com/wp-content/uploads/2024/10/goles_ecuador_1.jpg)
-
-La **Selección de Ecuador** se enfrentará a la de Uruguay en la décima fecha de las eliminatorias al Mundial 2026, en lo que será el inicio de la rueda de revanchas de este proceso.
-
-El encuentro entre la **Selección de Ecuador y Uruguay** está programado para este martes 15 de octubre de 2024, desde las 18:30, en el estadio Centenario que espera tener a más de 50 000 personas en sus gradas alentando a los locales.
+**CNEL** estableció el cronograma por franjas, de acuerdo a los sectores.
 
 ### Más noticias:
 
-* [¿Kendry Páez merece ser titular con la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/kendry-paez-merece-titular-con-seleccion-de-ecuador-ante-uruguay.html "¿Kendry Páez merece ser titular con la Selección de Ecuador ante Uruguay?")
-* [La Selección de Ecuador tuvo a tres uruguayos en sus filas](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-nacionalizados-uruguay.html "La Selección de Ecuador tuvo a tres uruguayos en sus filas")
-* [¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-beccacece-bielsa.html "¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?")
+* [Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules](https://www.elcomercio.com/actualidad/negocios/ines-manzano-transporte-soluciones-moviles-energia-aviones-hercules.html "Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules")
+* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
 
-Ecuador tiene la necesidad de sumar, **al menos, un punto en Montevideo**, caso contrario corre el riesgo, con la combinación de otros resultados, de abandonar los seis primeros puestos en la tabla de posiciones, que dan un cupo directo al Mundial.
+La cuarta semana de cortes de luz en todo el país transcurre con nuevos anuncios de las autoridades del Gobierno, en busca de superar la crisis energética.
 
-Si en el duelo entre **Paraguay vs. Venezuela hay un ganador, si Bolivia araña un punto en Argentina**, y si Ecuador cae ante Uruguay, descenderá al séptimo puesto y tendrá que cerrar el año con la necesidad imperiosa de sumar ante Bolivia, en casa, y Colombia, de visitante.
+**Inés Manzano**, ministra de Energía encargada, informó sobre dos decisiones del Gobierno al respecto.
 
-En la actual eliminatoria la Tri tiene como su principal fortaleza el bloque defensivo. Solo recibió cuatro goles siendo la segunda mejor de la Conmebol, por detrás de Paraguay que encajó tres.
+La primera es el transporte de soluciones móviles de energía en **aviones Hércules**.
 
-El talón de Aquiles de este equipo es la zona ofensiva. **Seis goles en nueve partidos la mantienen** como la cuarta peor delantera de toda la competencia.
+La segunda es la suspensión de la **segunda barcaza** por temas técnicos.
 
-Precisamente esa ausencia de **goles también han repercutido en sus enfrentamientos con Uruguay** de visitante. En los 11 encuentros anotó seis y recibió 21.
+Cortes de luz en la urbe porteña este miércoles 16 de octubre
+-------------------------------------------------------------
 
-Los seis goles de Ecuador
+El Gobierno tiene previsto que la suspensión de energía eléctrica lleguen hasta fines de año y que para diciembre sean mínimos.
+
+Mientras tanto, los cortes de luz se mantienen en todo el país y tienen una duración de hasta diez horas.
+
+Las empresas eléctricas del país mantienen el anuncio de que las horas de los cortes de luz podrían reducirse, dependiendo de la situación hídrica.
+
+A continuación los cortes de luz en Guayaquil, para este miércoles 16 de octubre:  
+
+La Selección de Ecuador rescató un punto ante Uruguay
+=====================================================
+
+La Selección de Ecuador enfrenta como visitante a Uruguay en eliminatorias sudamericanas rumbo al Mundial 2026.
+---------------------------------------------------------------------------------------------------------------
+
+![Nahitán Nández de Uruguay y Alan Minda de la Selección de Ecuador disputan un balón.](https://www.elcomercio.com/wp-content/uploads/2024/10/10bbca68b164e3e97d54e4910ce709a6bbd724b8.jpg)
+
+La **Selección de Ecuador** se enfrenta a Uruguay durante este 15 de octubre de 2024 en Montevideo y cierra la décima jornada de las eliminatorias para el Mundial 2026. El partido, programado para las 18:30, es el primer duelo de vuelta entre ambos equipos tras la victoria ecuatoriana en Quito.
+
+Antes del choque, **Sebastián Beccacece**, entrenador de la Tri, subrayó la importancia del encuentro y la necesidad de concentración. Ecuador llega tras un empate sin goles contra **Paraguay** y busca sumar puntos cruciales en su visita.
+
+### Más noticias:
+
+* [¿Cómo llega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/seleccion-ecuador-tabla-uruguay-partido.html "¿Cómo llega la Selección de Ecuador ante Uruguay?")
+* [Alineaciones la Selección de Ecuador y Uruguay en eliminatorias](https://www.elcomercio.com/deportes/futbol/alineaciones-uruguay-seleccion-ecuador-eliminatorias.html "Alineaciones la Selección de Ecuador y Uruguay en eliminatorias")
+* [EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp](https://www.elcomercio.com/deportes/futbol/ecuador-uruguay-en-vivo-whatsapp-comercio.html "EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp")
+
+Uruguay, en cambio, atraviesa un momento complicado tras resultados decepcionantes y tensiones internas bajo el mando de **Marcelo Bielsa**. El equipo charrúa intentará recuperar su forma en casa después caer ante Perú en Lima.
+
+En su primer partido de estas eliminatorias, **Ecuador** ganó 2-1 a **Uruguay** en Quito, con un doblete de Félix Torres. Este nuevo enfrentamiento será clave para ambos en su camino hacia la clasificación al Mundial[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+La Selección de Ecuador y Uruguay salieron a buscar el resultado
+----------------------------------------------------------------
+
+Para el compromiso, **Sebastián Beccacece** mantuvo la línea de tres defensores centrales en el fondo. Marcelo Bielsa retornó a su habitual 4-3-3 para el compromiso.
+
+A pesar de que el esquema de la Tri fue defensivo y busco resguardarse ante el poderío en delantera de los uruguayos, optó por una presión alta y un fuerte uso de las bandas. En la primera jugada del partido, a menos de dos minutos del inicio, **Enner Valencia** conectó un centro de Angelo Preciado que quedó en las manos de Sergio Rochet.
+
+Después del primer aviso de la **Selección de Ecuador**, la ‘Celeste’ reaccionó y optó por una mayor salida. Asimismo, la mayor vocación ofensiva de parte de los uruguayos llevó al repliegue del combinado tricolor.
+
+A partir del ataque de los charrúas, el arquero **Hernán Galíndez** empezó a erigirse como una de las figuras. El arquero atajó, un tiro libre que iba hacia las mallas y tres mano a mano y cruciales para mantener el arco en cero.
+
+Recién a la media hora de juego, la Tri logró romper el asedio y pisar el área de los uruguayos. Antes, la de **Enner Valencia y** un remate de **Gonzalo Plata** habían sido las más claras.
+
+El cotejo se equilibró y el juego de ambas selecciones empezó a desarrollarse, principalmente, en el centro del campo. La más clara antes de que finalice la primera mitad la tuvo Uruguay: tras una falla de **Félix Torres** en un pelotazo, **Maximiliano Araujo** le ganó las espaldas y sacó un centro raso al medio del área con la defensa tricolor de regreso. **Darwin Núñez** recibió el balón y esta vez no estuvo Galíndez, pero el palo salvó a la Selección de Ecuador.
+
+En el cierre de la primera mitad, la Tri realizó el primer remate que contó con la intervención de Sergio Rochet. **Alan Minda** se animó a rematar y la pelota se fue al tiro de esquina.
+
+Con Ecuador en sufrimiento y **Uruguay** con la impotencia de los goles que se le negaron, los primeros 45 minutos terminaron.
+
+La Tri se mostró más sólida en el segundo tiempo
+------------------------------------------------
+
+Para la segunda mitad, **Sebastián Beccacece** mantuvo el mismo esquema y salió con los once inicialistas. Uruguay cambió a **Giorgian de Arrascaeta** por Nicolás de Cruz, posición por posición en el mediocampo.
+
+Las constantes llegadas sobre el arco tricolor se redujeron, mientras que el conjunto ecuatoriano optaba por los contragolpes. Asimismo, el centro de la cancha presentaba mayor armonía y los pasillos laterales del equipo de **Beccacece** tenían mayor actividad.
+
+La primera variante de la Tricolor fue la de **Kevin Rodríguez** por **Enner Valencia**. Así, la escuadra consiguió mayor movilidad y rapidez en ofensiva, lo que le permitiría aprovechar los pelotazos desde la propia cancha y las contras.
+
+Ninguno de los equipos tuvo ocasiones manifiestas de gol y Ecuador optó por otro cambio. **Keny Arroyo** debutó a sus 18 años con el plantel tricolor y sustituyó a **Alan Minda**. Debido a la lesión de Manuel Ugarte, Nicolás Fonseca ingresó en la zona de volantes.
+
+En la recta final del compromiso, la Tri se enchufó y vivió sus mejores momentos. Rodríguez se mostró desequilibrante y ganó faltas. **Uruguay**, por primera vez, se mostró encerrado en su propio campo y Bielsa envió un defensor más a la cancha: **Marcelo Saracchi** en reemplazo de Mathías Olivera.
+
+Para los tiempos de descuento, Beccacece refrescó los laterales y **Gonzalo Plata** abandonó la cancha por **John Yeboah** y **Pervis Estupiñán por Johanner Chávez**. A pesar del ímpetu de los minutos finales, Ecuador no pudo imponerse a Uruguay y las escuadras dividieron honores.
+
+Con el empate, **Ecuador** mantuvo su quinta posición y sumó 13 puntos. Uruguay sumó 16 unidades y no soltó el tercer lugar.
+
+Alineaciones de la Selección de Ecuador y Uruguay
+-------------------------------------------------
+
+**Selección de Ecuador:** Hernán Galíndez; Félix Torres, Piero Hincapié, Willian Pacho; Angelo Preciado, Pervis Estupiñán, Alan Franco y Moisés Caicedo; Gonzalo Plata, Alan Minda y Enner Valencia.
+
+**Selección de Uruguay:** Sergio Rochet; Mathías Olivera, Santiago Bueno, José María Giménez y Nahitan Nández; Giorgian De Arrascaeta, Manuel Ugarte Ribeiro y Federico Valverde; Maximiliano Araújo, Facundo Pellistri y Darwin Núñez.
+
+Moisés Caicedo jugó su partido 50 y fue suspendido
+==================================================
+
+Moisés Caicedo jugó su primer partido con la Selección de Ecuador en septiembre de 2020 ante Argentina en Buenos Aires.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo con la Selección de Ecuador en las eliminatorias al Mundial 2026 en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/moi_cincuenta_2.jpg)
+
+**Moisés Caicedo** completó el medio centenar de partidos con la camiseta de la Selección de Ecuador la noche de este martes 15 de octubre de 2024, en el mítico estadio Centenario de Montevideo.
+
+El partido en el que **Moisés Caicedo agrandó más su estadística en la Selección de Ecuador** correspondió a la décima fecha de las eliminatorias al Mundial que en el 2026 lo organizarán de manera compartida Canadá, Estados Unidos y México.
+
+### Más noticias:
+
+* [Colombia y Ecuador jugarán en un nuevo horario por las eliminatorias al Mundial 2026](https://www.elcomercio.com/deportes/futbol/colombia-ecuador-nuevo-horario-eliminatorias-mundial2026.html "Colombia y Ecuador jugarán en un nuevo horario por las eliminatorias al Mundial 2026")
+* [Sebastián Beccacece y su admiración por Bielsa, más allá de lo táctico](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-admiracion-marcelo-bielsa-ecuador.html "Sebastián Beccacece y su admiración por Bielsa, más allá de lo táctico")
+* [Mbappé califica de “fake news” una investigación en Estocolmo](https://www.elcomercio.com/deportes/futbol/kylian-mbappe-violacion-denuncia-suecia.html "Mbappé califica de “fake news” una investigación en Estocolmo")
+
+Caicedo se afianza como el quinto jugador con más partidos en la actual Selección, que tiene a **Enner Valencia con el de más presencias con 93**, muy cerca de ingresar al reducido grupo de ecuatorianos con 100 partidos con el combinado nacional.
+
+En el actual plantel el que le sigue con más partidos es **Angelo Preciado (Sparta Praga) que tiene 46** y está próximo a alcanzar la marca que esta noche implantó el ‘Niño Moi’.
+
+**Alan Franco (Atlético Mineiro) completa el podio con 44** presencias y, por edad, tiene un largo margen para seguir sumando más convocatorias y minutos con la Tri.
+
+Alexander Domínguez (Liga de Quito) con 78, **Carlos Gruezo (San Jose Earthquakes) con 64**, y Ángel Mena (Pachuca) con 61, que no entraron en la última convocatoria de Sebastián Beccacece, son los que más encuentros sumaron en los últimos 15 años.
+
+Caicedo acarrea suspensión
+--------------------------
+
+A los **37 minutos del primer tiempo Moisés Caicedo** recibió una tarjeta amarilla por parte del árbitro chileno Cristián Marcelo Garay Reyes, que le indicó que la amonestación fue por una acumulación de infracciones.
+
+Esta tarjeta le impedirá al mediocampista del **Chelsea jugar ante Bolivia en la fecha 11**, que está programado para el jueves 14 de noviembre, desde las 19:00, en el estadio Monumental de Barcelona Sporting Club.
+
+La primera amarilla de **Caicedo fue en el empate 0-0 ante Paraguay** en la jornada nueve en el Rodrigo Paz Delgado.
+
+La tarde del jueves 10, por reclamos, **el exIndependiente del Valle fue amonestado** por el brasileño **Raphael Claus**, a los 32 minutos del primer tiempo.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/moi_cincuenta_1-1024x683.jpg)
+
+Foto: API.
+
+Moisés Caicedo en números
 -------------------------
 
-El historial marca que la **Tri perdió ocho encuentros y empató tres**. En cuatro logró anotar, al menos, un gol en territorio uruguayo.
+Partidos de eliminatorias: 25
 
-El primer tanto fue el 10 de marzo de 1985 en las eliminatorias al Mundial México 1986.
+Partidos amistosos: 13
 
-Los **‘charrúas’ ganaron 2-1 con tantos de Carlos Aguilera (32′) y Venancio Ramos (90′)**. El 1-1 transitorio lo había marcado Hamilton Cuvi (54′).
+Partidos de Copa América: 9
 
-Pasaron 11 años para que Ecuador vuelva a anotarle a Uruguay. Fue el 16 de noviembre de 1997 en el cierre de las eliminatorias al Mundial Francia 1998.
+Partidos en Mundial: 3
 
-El estadio Municipal de **Maldonado fue testigo del entretenido 5-3** con el que amabas escuadras cerraban este proceso sin un cupo.
-
-Marcelo Saralegui (3′ y 12′), Sebastián Abreu (48′ y 52′) y Carlos Aguilera (63′) fueron los verdugos locales. Por los tricolores los descuentos estuvieron a cargo de Ariel Graziani (2′, 59´y 68′).
-
-Tras 15 años la **Tri volvió a anotar en el empate 1-1 del 11 de septiembre** de 2012 en el proceso a Brasil 2014.
-
-Felipe Caicedo (7′) adelantó a la visita, mientras que Edison Cavani (66′) empató para los dueños  
-de casa.
-
-Este encuentro es recordado porque el **árbitro paraguayo Carlos Amarilla**, dejó pasar un claro penal del portero Fernando Muslera en contra de Christian Benítez en los minutos finales del segundo tiempo.
-
-El 10 de noviembre de 2016 fue el último tanto. **Otra vez Caicedo (44′) anotó en la derrota 2-1** con goles de Sebastián Coates (12′) y Diego Rolan (45′).
+Minutos: 4 242
 
 No te pierdas – El Confesionario
 --------------------------------
 
-Cathy Barriga, exalcaldesa chilena, factura 7 500 dólares en 24 horas con contenido para adultos
-================================================================================================
+Cortes de luz en Quito este miércoles 16 de octubre
+===================================================
 
-La exfuncionaria cumple arresto domiciliario.
----------------------------------------------
+Los cortes de luz en Quito para este miércoles 16 de octubre se distribuyen en franjas hasta completar 10 horas.
+----------------------------------------------------------------------------------------------------------------
 
-![Cathy Barriga, exalcaldesa chilena, cumple prisión domiciliaria. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/alcaldesa-chilena-onfayer-El-comercio.jpg)
+![Los cortes de luz en Quito para este miércoles 16 de octubre son de hasta 10 horas.](https://www.elcomercio.com/wp-content/uploads/2024/05/luz-19-mayo.jpg)
 
-**Cathy Barriga, exalcaldesa de Maipú**, Chile, acusada de malversar 33 millones de dólares del municipio, ha dado un giro inesperado en su vida al lanzar una página de **contenido erótico** en la **plataforma** **Onfayer**.
+Los **cortes de luz** en **Quito** se mantienen para este **miércoles 16 de octubre** en 10 horas, divididas en franjas, de acuerdo al sector[.](https://es.wikipedia.org/wiki/Quito)
 
-La exmodelo y estrella de televisión, que se encuentra bajo **arresto domiciliario,** sorprendió a sus seguidores al anunciar en sus redes sociales esta nueva faceta.
-
-### Más noticias
-
-* **[Luis Miguel era ‘buen besador’, dijo Lucía Méndez](https://www.elcomercio.com/afull/luis-miguel-lucia-mendez-romance-beso.html "https://www.elcomercio.com/afull/luis-miguel-lucia-mendez-romance-beso.html")**
-* **[Shakira se lleva bien con su ex y hace negocios con él](https://www.elcomercio.com/afull/shakira-ex-negocios.html "https://www.elcomercio.com/afull/shakira-ex-negocios.html")**
-
-Barriga, de 51 años, quien alcanzó fama como “Robotina” y participante del programa juvenil “Mekano”, se enfrenta a uno de los mayores casos de corrupción municipal en la historia de Chile, dice Infobae.
-
-Nueva faceta en medio del escándalo
------------------------------------
-
-Actualmente, está siendo investigada por desviar fondos del municipio durante su mandato como alcaldesa de Maipú. En medio de este proceso legal, decidió abrir una **página de contenido erótico** **en Onfayer**.
-
-La exalcaldesa, **esposa del diputado conservador Joaquín Lavín León**, publicó en redes sociales un mensaje donde afirmaba que, pese a las adversidades, ha transformado su energía para seguir adelante.
-
-“Lo adverso me ha hecho más fuerte”, aseguró Barriga, quien ya cuenta con cientos de seguidores en su página de Onfayer. El contenido exclusivo tiene un costo de 25 dólares mensuales, aunque algunas imágenes se ofrecen de manera gratuita.
-
-Cristian Rubio, gerente de Onfayer, reveló en una conversación con Canal 13, recogida por Infobae, que Barriga ha tenido un éxito financiero impresionante desde el lanzamiento. “En solo un día ya lleva más de 7 millones de pesos, solo eso puedo decir”, indicó Rubio, lo que equivale a unos 7.500 dólares.
-
-Polémicas anteriores y la investigación en curso
-------------------------------------------------
-
-La vida pública de Cathy Barriga ha estado marcada por la controversia, no solo por su carrera en la farándula, sino también por su gestión como alcaldesa.
-
-Durante su mandato, fue acusada de utilizar fondos municipales para multas personales, despedir a cientos de funcionarios sin justificación y realizar gastos excesivos en eventos municipales.
-
-En 2021, fue denunciada por el actual alcalde de Maipú, Tomás Vodanovic, por el envío de más de 2 millones de dólares destinados a proyectos municipales.
-
-La fiscalía chilena investiga a Barriga por emitir solicitudes de modificaciones presupuestarias con información adulterada y por la adquisición de bienes, como **collares de** [**Swarovski**,](https://es.wikipedia.org/wiki/Swarovski "https://es.wikipedia.org/wiki/Swarovski") que nunca fueron destinados a su uso público.
-
-Impacto en la opinión pública
------------------------------
-
-El anuncio de Barriga sobre su incursión en el mundo del contenido para adultos ha generado un gran debate en redes sociales y medios de comunicación.
-
-Mientras algunos la critican por aprovechar su notoriedad en medio de un proceso judicial, otros destacan su capacidad de reinventarse a pesar de las dificultades legales. Lo cierto es que la plataforma **Onfayer** le ha dado la bienvenida, previendo un éxito comercial con su página.
-
-Esto pagaron por el trono de hierro de ‘Game of Thrones’
-========================================================
-
-El traje más valioso fue el traje característico del personaje de Jon Snow para la Guardia de la Noche, por el que se dieron prolongadas guerras
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El icónico trono de hierro fue peleado por fans de todo el mundo.](https://www.elcomercio.com/wp-content/uploads/2024/10/trono-de-hierro.jpg)
-
-Los fanáticos de la exitosa saga **‘Game of Thrones’** (Juego de Tronos) salieron de todas partes del mundo para participar de una subasta en línea donde compraron diversos artículos. La joya principal fue una réplica del Trono de Hierro, que después de seis minutos de luchar por él.
-
-### Más noticias
-
-* [Fallece el escritor chileno Antonio Skármeta, conocido por ‘El cartero de Neruda’](https://www.elcomercio.com/tendencias/cultura/antonio-skarmeta-escritor-chile.html "Fallece el escritor chileno Antonio Skármeta, conocido por ‘El cartero de Neruda’ ")
-* [Art, el payaso que venció al Joker y resucita al slasher](https://www.elcomercio.com/tendencias/art-terrifier-slasher.html "Art, el payaso que venció al Joker y resucita al slasher")
-* [¿Por qué fracasó el ‘Joker: Folie à Deux’?](https://www.elcomercio.com/tendencias/fracaso-joker-folie-a-deux.html "¿Por qué fracasó el ‘Joker: Folie à Deux’?")
-
-Así fue la subasta del trono
-----------------------------
-
-En el evento del 10 al 12 de octubre, de la casa ‘Heritage Auctions’ **participaron 4 500 personas** que ofertaron por disfraces, armaduras, armas, joyas y otros accesorios. El balance al final fue de **21 115 718 millones de dólares,** según un comunicado de prensa.
-
-Indica además que el **famoso trono es una réplica hecha de plástico** y moldeada a partir del original usado en la pantalla durante toda la serie. Tiene pintura metálica y adornos con joyas “para asemejarse a las empuñaduras de espadas que alguna vez fueron reales”.
-
-“Según escribió su creador George R. R. Martin: El t**rono de hierro** es el trono del conquistador, hecho con las espadas de los enemigos derrotados, un símbolo de conquista”, agrega. El icónico trono se vendió **por 1,49 millones** de dólares.
-
-El **traje más valioso** fue el conjunto característico del personaje de **Jon Snow** para la Guardia de la Noche, que se vendió por **337 500 dólares** tras innumerables y prolongadas guerras de ofertas de la subasta.
-
-Destaca que esta subasta ocupa el segundo lugar en la **lista de subastas** de temas de entretenimiento de todos los tiempos. Esto después del evento de Debbie Reynolds, **que recaudó de 22,8 millones de dólares** realizado en 2011 por el vicepresidente ejecutivo de Heritage Auctions, Joe Maddalena.
-
-“Desde el momento en que anunciamos la subasta de **Juego de Tronos** en septiembre, quedó claro que esto iba a tener eco en todos. Se trata de **tesoros extraordinarios** realizados por diseñadores de vestuario y de utilería, ganadores de premios Emmy, que trabajaron incansablemente para adaptar las maravillosas novelas de Martin”, destacó Maddalena en el [comunicado](https://es.wikipedia.org/wiki/Game_of_Thrones "https://es.wikipedia.org/wiki/Game_of_Thrones").
-
-James A. Robinson afirma que ‘la desigualdad en América Latina persiste’
-========================================================================
-
-El economista británico enfatizó en declaraciones a la BBC que la pobreza en América Latina está ligada a la herencia colonial.
--------------------------------------------------------------------------------------------------------------------------------
-
-![James A. Robinson fue uno de los tres galardonados con el premio Nobel de Economía 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/james-robinson-cut.jpg)
-
-**James A. Robinson**, galardonado con el premio Nobel de Economía 2024, destacó en una entrevista con la BBC que la **desigualdad en** [América Latina](https://www.elcomercio.com/actualidad/mundo/efectos-crisis-climatica-america-latina.html "https://www.elcomercio.com/actualidad/mundo/efectos-crisis-climatica-america-latina.html") sigue siendo un desafío histórico vinculado al **colonialismo** y la **explotación de los pueblos indígenas**.
-
-La desigualdad en América Latina
---------------------------------
-
-James A. Robinson, **economista británico y ganador del Nobe**l, enfatizó en declaraciones a la BBC que la pobreza en América Latina está profundamente ligada a la **herencia colonial**. Según Robinson, el impacto de la **explotación de los pueblos indígena**s sigue siendo visible en las estructuras sociales y económicas de la región.
-
-Robinson, quien realizó investigaciones en países como Colombia, Bolivia y Chile, argumentó que las instituciones inclusivas son clave para superar los problemas de pobreza y exclusión social. La BBC destaca su análisis sobre la relación entre el poder político y la prosperidad, aspectos que, según Robinson, América Latina aún no ha logrado consolidar.
-
-El papel de las instituciones
------------------------------
-
-Durante su conversación con la BBC, Robinson subrayó que, a pesar de algunos avances en países como Chile, la región sigue enfrentando serios obstáculos. Países como **Venezuela y Argentina** aún luchan con **patrones históricos de desigualdad**, y otros, como Nicaragua, consolidan regímenes autoritarios.
-
-Robinson, también conocido por su obra ‘Por qué fracasan las naciones’, remarcó que el progreso depende de la c**reación de instituciones inclusivas**. Según declaró a la BBC, estas instituciones son esenciales para garantizar que todos los ciudadanos tengan oportunidades políticas y económicas reales.
-
-Kendry Páez entre los mejores talentos generacionales, según prestigiosa revista
-================================================================================
-
-El talento del volante de Independiente del Valle, Kendry Páez, es innegable, tanto que su impacto ha sido reconocido internacionalmente.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Kendry Páez portando la camiseta número 10 de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-15T133744.152.jpg)
-
-**Kendry** **Páez** es un talento generacional, y lo mejor es que es ecuatoriano. A una edad temprana, destacó en las divisiones juveniles de Independiente del Valle, y en 2023, con solo 15 años, tuvo un ascenso meteórico al debutar en la primera división de Ecuador y con la selección nacional.
-
-Desde hace un par de años, el joven volante forma parte de múltiples listas de medios internacionales como uno de los mejores jugadores a seguir tanto en **Sudamérica** como en el mundo.
+La **Empresa Eléctrica Quito** definió los horarios de cortes de luz en la capital.
 
 ### Más noticias:
 
-* [¿Kendry Páez merece ser titular con la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/kendry-paez-merece-titular-con-seleccion-de-ecuador-ante-uruguay.html "¿Kendry Páez merece ser titular con la Selección de Ecuador ante Uruguay?")
-* [Sebastián Beccacece volvió a respaldar a Kendry Páez](https://www.elcomercio.com/deportes/futbol/sebatian-beccacece-kendry-paez-seleccion.html "Sebastián Beccacece volvió a respaldar a Kendry Páez")
-* [Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay](https://www.elcomercio.com/deportes/futbol/kendry-paez-bajo-criticas-tras-empate-ecuador-paraguay.html "Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay")
-
-La prestigiosa revista británica _The Guardian_ no fue la excepción, incluyéndolo en su más reciente entrega de los **mejores jugadores de la nueva generación**.
-
-Kendry Páez, entre los mejores jóvenes del mundo
-------------------------------------------------
-
-_The Guardian_ publicó un listado de los mejores talentos mundiales nacidos en 2007. Como era de esperarse, el ecuatoriano [Kendry Páez](https://www.theguardian.com/football/ng-interactive/2024/oct/15/next-generation-2024-60-of-the-best-young-talents-in-world-football "https://www.theguardian.com/football/ng-interactive/2024/oct/15/next-generation-2024-60-of-the-best-young-talents-in-world-football") fue incluido junto a otras grandes promesas de Sudamérica y Europa.
-
-En la lista de 60 jugadores también figuran **Lamine Yamal y Pau Cubarsí**, titulares con el FC Barcelona y la selección española. También hay otras promesas sudamericanas como el argentino Franco Mastantuono y el brasileño Estevao.
-
-“Páez es uno de los **jóvenes más destacados técnicamente en su posición**, con una calidad estética en la manera en que controla y mueve el balón”, señala _The Guardian_ en su análisis.
-
-**La rápida explosión de Páez**
--------------------------------
-
-En solo dos años, la carrera de **Kendry Páez h**a experimentado un crecimiento asombroso. Desde su debut en 2023 con Independiente del Valle, su trayectoria ha ido en constante ascenso.
-
-Con solo una temporada como profesional, firmó con el Chelsea de Inglaterra por una transferencia de casi **20 millones de dólares,** y tiene previsto unirse al club londinense en 2025.
-
-En cuanto a números, Páez ha disputado **61 partidos** con Independiente del Valle entre campeonato nacional y competiciones internacionales, anotando **12 goles** y dando 6 asistencias.
-
-A nivel de selecciones, **debutó con Ecuador a los 15 años** en 2023, acumulando hasta ahora 16 partidos, 2 goles y 2 asistencias.
-
-El Municipio tiene un plan para el Centro Histórico de Quito
-============================================================
-
-La alcaldía de Pabel Muñoz busca tener un Plan Urbanístico del Centro Histórico. El primer paso tendrá como eje la calle Benalcázar.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Trabajadores del Municipio trabajan en el transplante de árboles en en centro y el centro norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-5-1.jpg)
-
-El **Centro Histórico de Quito** no deja de ser uno de los ejes para la **recuperación urbana**. Cada administración tiene proyectos para enfrentar los conflictos y las disputas en esta zona tan importante para la memoria y el patrimonio de la ciudad. Esta Alcaldía no es la excepción: **el Municipio tiene un plan para el Centro Histórico de Quito**. Se trata de **arborizar** y **ensanchar las aceras**.
-
-### Más noticias
-
-* [Los vecinos de Bolaños en Quito se levantan a tres semanas del incendio forestal](https://www.elcomercio.com/actualidad/quito/vecinos-bolanos-quito-levantan-tres-semanas-incendio.html "Los vecinos de Bolaños en Quito se levantan a tres semanas del incendio forestal")
-* [Semáforos apagados complican la movilidad en Quito](https://www.elcomercio.com/actualidad/quito/semaforos-cortes-luz-novedades-apagados-quito.html "Semáforos apagados complican la movilidad en Quito")
-* [Quito tiene opciones para reducir los siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-choques-muertes.html "Quito tiene opciones para reducir los siniestros de tránsito")
-
-El plan del Municipio de Quito para el Centro Histórico
--------------------------------------------------------
-
-La alcaldía de Pabel Muñoz busca “desarrollar el Plan Urbanístico Centro Histórico”. Es una idea de largo aliento, pero tiene como principio ofrecer calidad de vida, que sea adecuado para habitarlo y que tenga espacios públicos adecuados.
-
-Para ello, uno de los primeros pasos del plan del Municipio de Quito para el Centro Histórico es la arborización y ensanchamiento de aceras. Según la Alcaldía, en una publicación de su sitio oficial Quito Informa, “no implica peatonización”.
-
-El plan del Municipio con el arbolado urbano
---------------------------------------------
-
-El eje de esta intervención del Municipio de Quito será la calle Benalcázar, en el Centro Histórico. Es un proceso que continuará hasta el Parque Italia.
-
-Según Quito Informa, “se plantarán más de 170 árboles”. Estarán colocados en “puntos estratégicos” y en macetas. Además, se trasplantarán 18 más “para que estén en un espacio público idóneo para su desarrollo”.
-
-El plan del Municipio para las aceras
--------------------------------------
-
-Si bien el Municipio de Quito advierte que no se trata de una peatonización, el ensachamiento de las veredas darán al peatón 1 700 m2[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
-
-La intervención en la calle Benalcázar será integral. Reutilizarán la piedra en la misma calzada y bajo la misma disposición que tiene antes de la intervención, pero será más compacta para que no se muevan ni den lugar a baches.
-
-Gobierno entrega licencias ambientales para proyectos de energía renovable
-==========================================================================
-
-Los proyectos están ubicados en Imbabura y Morona Santiago y generarán más de 399,85 megavatios de energía que beneficiarán a 340 000 hogares
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![El presidente Noboa resaltó el esfuerzo de los ecuatorianos en esta crisis energética.](https://www.elcomercio.com/wp-content/uploads/2024/10/Noboa-1.jpg)
-
-Este martes 15 de octubre, el presidente de la República, **Daniel Noboa Azín**, asistió a la presentación de **proyectos de energía renovable**, en la Universidad Técnica del Norte, **en Ibarra**.
-
-### Más noticias
-
-* [Daniel Noboa toma decisión sobre subsidio de electricidad a empresas mineras](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-decision-subsidio-electricidad-empresas-mineras.html "Daniel Noboa toma decisión sobre subsidio de electricidad a empresas mineras")
-* [Rafael Correa es convocado por la Fiscalía para el caso Traición a la Patria](https://www.elcomercio.com/actualidad/politica/rafael-correa-es-convocado-por-la-fiscalia-para-el-caso-traicion-a-la-patria.html "Rafael Correa es convocado por la Fiscalía para el caso Traición a la Patria")
+* [Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules](https://www.elcomercio.com/actualidad/negocios/ines-manzano-transporte-soluciones-moviles-energia-aviones-hercules.html "Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules")
 * [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
 
-Proyectos de Energía Renovable
-------------------------------
+La cuarta semana de cortes de luz en todo el país transcurre con nuevos anuncios de las autoridades del Gobierno, en busca de superar la crisis energética.
 
-Estos proyectos de **energía sostenible i**mpulsan tecnologías energéticas que no solo protegen al medioambiente, sino que tambié**n fortalecen el desarrollo social y económico** de la comunidad.
+**Inés Manzano**, ministra de Energía encargada, informó sobre dos decisiones del Gobierno al respecto.
 
-Con la **energía solar fotovoltaica** se podrán generar aproximadamente 17 megavatios hora al mes limpia para la Universidad técnica del Norte. Con ello se reducirán 29 toneladas de emisiones de CO2 al año.
+La primera es el transporte de **soluciones móviles** de energía en **aviones Hércules**.
 
-Proyectos de energía renovable recibieron regulación ambiental
---------------------------------------------------------------
+La segunda es la suspensión de la **segunda barcaza** por temas técnicos.
 
-Seis proyectos de **energía renovable cumplieron su regulación ambiental.** Estos están ubicados en Imbabura y Morona Santiago.
+Cortes de luz en la capital este miércoles 16 de octubre
+--------------------------------------------------------
 
-* Ambi Solar, en Antonio Ante
-* Imbabura Solar, en San Miguel de Ibarra
-* Intiyana Solar y Urcuquí Solar, en San Miguel de Urcuquí
-* Hidroeléctrica Santa Rosa e Hidroeléctrica Rosario, en Gualaquiza
+El Gobierno tiene previsto que la suspensión de energía eléctrica lleguen hasta fines de año y que para diciembre sean mínimos.
 
-Estos proyectos generarán **más de 399,85 megavatios de energía** que beneficiarán a aproximadamente 340 000 hogares.
+Mientras tanto, los cortes de luz se mantienen en todo el país y tienen una duración de hasta diez horas.
 
-Con el aporte de la empresa privada y **la inversión de 437,7 millones de dólares** para la ejecución de estos proyectos, se crearán **1 920 empleos directos** para fortalecer la economía local.
+Las empresas eléctricas del país mantienen el anuncio de que las horas de los cortes de luz podrían reducirse, dependiendo de la situación hídrica.
 
-Aprobación de proyectos de generación de energía limpia
--------------------------------------------------------
+A continuación los cortes de luz en Quito, para este miércoles 16 de octubre:
 
-La ministra de Energía, **Inés Manzano,** recalcó que el país tiene una alerta roja por el déficit hídrico al afrontar una sequía prolongada.
+Ministerio de Energía anunció un cambio en la Dirección del Cenace
+==================================================================
 
-Señaló que el **cambio climático es real** y que requiere tomar medidas. Señaló que la energía no debe depender solamente del agua cuando existe otro tipo de alternativas, como la energía solar.
+El Operador Nacional de Electricidad (Cenace) tiene un nuevo Director Ejecutivo desde este martes 15 de octubre.
+----------------------------------------------------------------------------------------------------------------
 
-El Gobierno le apuesta a las **energías limpias** y no convencionales, señaló. Estas son: geotermia, biomasa, eólica, fotovoltaica y con ellas se quiere ampliar la matriz energética.
+![El nuevo Director Ejecutivo tiene más de 10 años de experiencia en el sistema eléctrico de Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/10/cenace-director.jpg)
 
-La Ministra señaló que se busca **optimizar los procesos de licenciamiento ambiental** para facilitar el desarrollo de proyectos de energía limpias y así garantizar la entrega del servicio de electricidad.
+El Ministerio de Energía y Minas designó a un nuevo **Director Ejecutivo** para el Operador Nacional de Electricidad (**Cenace**).
 
-Manzano recordó a la ciudadanía que es importante y necesario qu**e desde casa ahorremos** energía al apagar luces y desconectar los artefactos que no estén en uso.
+La decisión fue tomada tras un acuerdo ministerial suscrito por la ministra encargada, **Inés Manzano**, este martes 15 de octubre de 2024.
 
-El presidente **Daniel Noboa** señaló la importancia de implementar estas iniciativas como una respuesta a la [crisis hídrica](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa") actual.
+### Más noticias
 
-Los proyectos seleccionados
----------------------------
+* [Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito](https://www.elcomercio.com/actualidad/quito/cortes-energia-suman-2024-fatal-restaurantes-quito.html "Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito")
+* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
+* [Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz](https://www.elcomercio.com/actualidad/gobierno-de-daniel-noboa-abre-procesos-para-centrales-termoelectricas-por-cortes-de-luz.html "Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz")
 
-En el acto también participó Jean-Michel Chauvet, **director país de NeoEn**, quien destacó el trabajo en equipo para conseguir las **licencias ambientales**. Esto evidencia la incorporación de proyectos fotovoltaicos a gran escala en Ecuador.
+El Cenace es responsable de la **operación técnica** del Sistema Nacional Interconectado y de la administración comercial de las transacciones de electricidad en Ecuador.
 
-Destacó que NeoEn destacó como uno de los adjudicatarios de las ofertas presentadas en licitación con una capacidad total de 180 megas **al precio más competitivo de 5 centavos** de dólar el kilovatio hora.
+¿Quién es el nuevo Director Ejecutivo de Cenace?
+------------------------------------------------
 
-Esto representa una inversión de más de **180 millones de dólares** durante la etapa de construcción en Imbabura. Esto promoverá la mano de obra ecuatoriana para respaldar el trabajo local.
+Quien liderara la Dirección Ejecutiva del Cenace es **Javier Medina Abarca**, un ingeniero con más de **10 años de experiencia** en el sector eléctrico.
 
-NeoEn junto a las demás empresas adjudicatarias del bloque 500 venderán su electricidad a un precio menor al promedio nacional.
+De acuerdo con la información dada por la cartera de Estado, Medina se desempeñó como Director de Planificación Eléctrica, Coordinador y Analista de Planificación en la Corporación Nacional de Electricidad (**CNEL**).
 
-Los proyectos producirán alrededor de **500 gigavatios horas al año**, lo que cubrirá la demanda de unos 300 000 habitantes.
+En esta institución pública desarrolló proyectos a cargo de la Gerencia de Planificación, siendo responsable de la organización del sistema eléctrico de distribución en el área de servicio en **Manabí**, entre otras funciones.
 
-En cuanto a los proyectos de energía hídrica, Santiago Mora, director de Ecoener, resaltó la participación de la empresa privada para superar la crisis energética.
+Javier Medina también trabajó como Director Técnico en la Empresa Eléctrica de **Galápagos**.
 
-Señaló que las **dos centrales hidroeléctrica**s que se construirán no solo aportarán un total de **99 megavatios**, sino que son un compromiso firme con el medioambiente y las comunidades locales.
+### Estudios
 
-Estas centrales **evitarán la emisión de 148 000 toneladas de CO2 a la atmósfera.** Ecoener invertirá 200 millones de dólares en su construcción, lo que conlleva la generación de más de 1 000 puestos de trabajo directos e indirectos en su etapa de construcción.
+Académicamente, el funcionario se formó como **ingeniero en Electricidad** en la Escuela Superior Politécnica del Litoral (**Espol**).
 
-Shakira disfrutó de su fiesta de ‘soltera’ con pizza y un toro mecánico
-=======================================================================
+Luego obtuvo una **maestría** en Electricidad con mención en Sistemas Eléctricos en la Universidad Politécnica Salesiana (UPS) y un **diplomado** en Compras y Contrataciones del Estado en la Universidad Católica de Santiago de Guayaquil (UCSG).
 
-Shakira organizó una fiesta para celebrar el lanzamiento de Soltera.
---------------------------------------------------------------------
+Este cambio en las instituciones encargadas del servicio eléctrico en Ecuador se suma al de **Fabián Calero**, exgerente de la Corporación Eléctrica del Ecuador (Celece) que dejó su cargo para ser **Viceministro de Energía** desde el jueves 10 de octubre.
 
-![Belinda también estuvo en la fiesta de Shakira. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-15T130740.565.jpg)
+> 📍 \[COMUNICADO OFICIAL\]  
+>   
+> 📌 Informamos a la ciudadanía sobre la designación del nuevo Director Ejecutivo del Operador Nacional de Electricidad – CENACE  
+>   
+> ↘️Más Detalles: [https://t.co/uxGBWTq4Ih](https://t.co/uxGBWTq4Ih) [pic.twitter.com/C26zXELSHi](https://t.co/C26zXELSHi)
+> 
+> — CENACE (@OperadorCenace) [October 15, 2024](https://twitter.com/OperadorCenace/status/1846296112866775483?ref_src=twsrc%5Etfw)
 
-**[Shakira](https://www.shakira.com/ "https://www.shakira.com/")** disfrutó de su fiesta de ‘soltera’ con **pizza** y buena compañía. Con las palabras “amistad y coleguismo”, la cantante colombiana resumió la **reunión** que organizó para celebrar el **lanzamiento** de su más reciente sencillo **Soltera**.
+Los líderes y capitanes de Sebastián Beccacece en la Selección de Ecuador
+=========================================================================
+
+El DT de la Selección de Ecuador tiene una idea clara sobre la capitanía en su equipo, optando por un enfoque rotativo.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Piero Hincapié es otro de los capitanes de la Selección de Ecuador de Sebastián Beccacece.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-15T191828.573.jpg)
+
+**Sebastián** **Beccacece** volvió a designar la capitanía a un nuevo jugador, diferente a los tres que la habían ostentado en sus primeros partidos con la **Selección de Ecuador**. El elegido para el partido contra Uruguay fue Piero Hincapié, quien lució por primera vez la cinta de capitán.
+
+Con la elección del zaguero del Bayer Leverkusen, ya son cuatro los jugadores diferentes que han sido capitanes bajo el mando de **Beccacece**. El primero fue Enner Valencia, seguido de **Moisés Caiced**o, y en el penúltimo compromiso, Pervis Estupiñán portó la cinta.
+
+### Más noticias:
+
+* [(EN VIVO) La Selección de Ecuador enfrenta a Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-en-vivo-partido.html "(EN VIVO) La Selección de Ecuador enfrenta a Uruguay")
+* [¿Cómo llega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/seleccion-ecuador-tabla-uruguay-partido.html "¿Cómo llega la Selección de Ecuador ante Uruguay?")
+* [Alineaciones la Selección de Ecuador y Uruguay en eliminatorias](https://www.elcomercio.com/deportes/futbol/alineaciones-uruguay-seleccion-ecuador-eliminatorias.html "Alineaciones la Selección de Ecuador y Uruguay en eliminatorias")
+
+El técnico argentino está aplicando una estrategia similar a la que utilizó Tite en la Selección de Brasil hace algunos años, **donde no se asignaba un capitán fijo**. Esto tiene el objetivo de repartir responsabilidades entre los jugadores más experimentados y fomentar la cohesión dentro del grupo.
+
+De este modo, **Beccacece** sigue promoviendo un liderazgo compartido en la ‘Tri’, permitiendo que diferentes jugadores asuman el rol de capitán en distintos momentos del proceso clasificatorio.
+
+Los líderes y capitanes de Ecuador
+----------------------------------
+
+### **Enner Valencia**
+
+Enner Valencia es el máximo goleador histórico de la Selección de Ecuador y uno de los más experimentados del plantel. Tuvo sus primeras capitanías en 2017 y se consolidó como líder del grupo en 2019, rol que ha mantenido hasta la fecha.
+
+_**Partidos**: 92_  
+_**Goles**: 42_  
+_**Edad**: 34_
+
+![Enner Valencia, capitán de la Selección de Ecuador, fue expulsado a los 20 minutos.](https://www.elcomercio.com/wp-content/uploads/2024/06/ENDRICK-PALMEIRAS-2024-06-16T130206.214-1024x683.jpg)
+
+### Pervis Estupiñán
+
+El lateral, formado en Liga de Quito, es uno de los jugadores con más trayectoria en el equipo nacional, siendo un habitual en las convocatorias desde hace cinco años.
+
+_**Partidos**: 42_  
+_**Goles**: 4_  
+_**Edad**: 26_
+
+![Pervis Estupiñán, jugador de la Selección de Ecuador que visitará a Uruguay en las eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-55-1024x683.jpg)
+
+### Moisés Caicedo
+
+A pesar de tener solo 22 años, Moisés Caicedo ya es uno de los jugadores más experimentados de la Selección de Ecuador, con medio centenar de partidos. Está llamado a liderar la nueva generación de la ‘Tri’.
+
+_**Partidos**: 50_  
+_**Goles**: 3_  
+_**Edad**: 22_
+
+![Moisés Caicedo en el partido de la Selección de Ecuador contra Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-15T123952.177-1024x683.jpg)
+
+### Piero Hincapié
+
+Al igual que Caicedo, Piero Hincapié es joven, pero cuenta con gran experiencia vistiendo los colores de la selección. Es el pilar de la defensa ecuatoriana y un referente en el fútbol internacional.
+
+_**Partidos**: 41_  
+_**Goles**: 3_  
+_**Edad**: 22_
+
+![Piero Hincapié, de la Selección de Ecuador, integró el equipo ideal de la Copa América 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-31T230233.688-1024x683.jpg)
+
+Policía capturó a siete presuntos miembros de Los Tiguerones, en Guayaquil
+==========================================================================
+
+La Policía Nacional llevó a cabo un operativo en la ciudad de Guayaquil que permitió la captura de presuntos integrantes de Los Tiguerones.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Siete personas fueron capturadas por la Policía Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/10/foto-policia.jpg)
+
+El 14 de octubre de 2024, la **Policía Nacional**, a través de la **Fuerza Investigativa contra la Extorsión (FICE)**, llevó a cabo un **operativo en la ciudad de Guayaqui**l. Durante esta intervención, **siete personas, presuntos integrantes del grupo armado organizado ‘Los Tiguerones**‘, fueron aprehendidas en flagrancia.
+
+### Más noticias
+
+* [Policía capturó al octavo más buscado de Pichincha](https://www.elcomercio.com/actualidad/seguridad/policia-capturo-al-octavo-mas-buscado-de-pichincha.html "Policía capturó al octavo más buscado de Pichincha")
+* [Señales de la inseguridad se plasman en espacios de Ecuador](https://www.elcomercio.com/actualidad/seguridad/senales-inseguridad-espacios-publicos-otros-puntos.html "Señales de la inseguridad se plasman en espacios de Ecuador")
+* [55 capturados deja la Operación Cero Impunidad de la Policía](https://www.elcomercio.com/actualidad/seguridad/55-capturados-deja-operacion-cero-impunidad-policia.html "55 capturados deja la Operación Cero Impunidad de la Policía")
+
+Entre los detenidos se encuentra un adolescente, quienes estarían **vinculados al secuestro extorsivo de Jhonny C.**
+
+En el operativo, que se ejecutó en el sector de **Flor de Bastión**, también se logró la liberación de una víctima de secuestro en la **zona de Nueva Prosperina**. Los detenidos enfrentan cargos por secuestro extorsivo.
+
+> [#INFORMAMOS](https://twitter.com/hashtag/INFORMAMOS?src=hash&ref_src=twsrc%5Etfw) [#CAPTURADOS](https://twitter.com/hashtag/CAPTURADOS?src=hash&ref_src=twsrc%5Etfw) 7 SECUESTRADORES, INTEGRANTES DE "LOS TIGUERONES" EN GUAYAQUIL  
+>   
+> Entorno a investigaciones sobre dos secuestros suscitados en [#GYE](https://twitter.com/hashtag/GYE?src=hash&ref_src=twsrc%5Etfw), fueron aprehendidos en flagrancia 7 antisociales entre ellos un adolescente, quienes tendrían participación directa con el… [pic.twitter.com/G0tRc19P95](https://t.co/G0tRc19P95)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 15, 2024](https://twitter.com/PoliciaEcuador/status/1846218052020384042?ref_src=twsrc%5Etfw)
+
+Detalles del secuestro
+----------------------
+
+El 4 de octubre, Jhonny C. fue secuestrado en su **lugar de trabajo, una lubricadora en Guayaquil**. Un extrabajador se presentó en el local y poco después **llegaron cuatro individuos armados** que lo subieron por la fuerza a un vehículo.
+
+Horas más tarde, la familia de la víctima comenzó a recibir **mensajes extorsivos exigiendo 200 000 dólares** a cambio de su liberación.
+
+La **hija de la víctima fue la encargada de contactar a la Unidad Antisecuestros y Extorsión (Unase**. Las autoridades iniciaron un **proceso investigativo** que incluyó técnicas de recolección de información y rastreo tecnológico, lo que llevó a la **localización de los sospechoso**s.
+
+Aprehensión y formulación de cargos
+-----------------------------------
+
+En el **operativo del 14 de octubre**, las autoridades detuvieron a siete individuos, entre ellos **Carlos Antonio E. L**., con **antecedentes por robo, y otros seis sin historial delictivo**. Se incautaron de, además, **vehículos, motocicletas y teléfonos móviles**, que podrían estar relacionados con el secuestro.
+
+Luego de la audiencia de formulación de cargos, se dictó **prisión preventiva para los seis adultos involucrados** y el menor fue aislado. Las investigaciones continúan para identificar a más implicados en este delito. Las autoridades recalcaron la importancia de la **colaboración ciudadana para combatir el secuestro y la extorsión en el país**.
+
+Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules
+====================================================================================
+
+La ministra de Energía encargada explicó esta alternativa para obtener energía a través del transporte de soluciones móviles en aviones Hércules.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Inés Manzano, ministra de Energía encargada, explicó el transporte de soluciones móviles a través de aviones Hércules.](https://www.elcomercio.com/wp-content/uploads/2024/09/ambiente-coe.jpg)
+
+La ministra de Energía encargada, **Inés Manzano**, anunció que se transportará **soluciones móviles de energía** en **aviones Hércules**[.](https://es.wikipedia.org/wiki/In%C3%A9s_Manzano)
+
+Esta es una de las medidas que busca implementar el actual gobierno por la crisis energética que atraviesa el país.
+
+### Más noticias:
+
+* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
+* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
+
+Actualmente, la generación de energía eléctrica en Ecuador depende, mayoritariamente, de las lluvias.
+
+El actual gobierno analiza e implementa varias medidas para reducir los cortes de luz a escala nacional.
+
+Inés Manzano anunció que el Gobierno usará aviones Hércules para transportar generación de energía móvil
+--------------------------------------------------------------------------------------------------------
+
+La ministra de Energía encargada, Inés Manzano, manifestó que Ecuador no puede seguir dependiendo del clima, en una entrevista en Ecuavisa.
+
+“Tenemos que mejorar el aporte extraordinario a la red energética”, agregó.
+
+En ese contexto, Manzano ratificó que se descarta la llegada de la **segunda barcaza** porque, entre otras cosas, no cumplía con los requisitos técnicos.
+
+Entonces, anunció las soluciones móviles que vendrán en aviones hércules.
+
+**“Lo que está haciendo el Presidente, a título personal, junto con la canciller, es trayendo estas soluciones móviles que son de 20 MW, inclusive hay hasta de más y hay de menos también, duales, diesel o a gas, y las están trayendo en aviones hércules de carga, para poderlas tener de inmediato”, dijo.**
+
+Manzano dijo que esto se hace porque existen condiciones, por ejemplo, en Pascuales para conectar 200 megas, inmediatamente.
+
+El Ministerio de Energía no ha dado aún la fecha en la que vendrían estas soluciones móviles.
+
+¿Por qué Coca Codo Sinclair debe entregar de inmediato su energía?
+==================================================================
+
+La hidroeléctrica Coca Codo Sinclair es la más grande de Ecuador, con 1 500 MW de capacidad instalada. Actualmente, produce el 55% de la energía nacional.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Obra de captación de la central Coco Codo Sinclair. Foto: Archivo](https://www.elcomercio.com/wp-content/uploads/2024/10/coca-codo-funcionamiento.jpg)
+
+**Coca Codo Sinclair** es la hidroeléctrica más grande del Ecuador, con una capacidad instalada de **1 500 megavatios** (MW). Actualmente, esta central produce el 55% de la energía que **consume el país**, en medio de la crisis energética, que ha obligado a programar **cortes de luz** de hasta 10 horas al día[.](https://es.wikipedia.org/wiki/Coca_Codo_Sinclair "https://es.wikipedia.org/wiki/Coca_Codo_Sinclair")
+
+### Más noticias
+
+* [Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute](https://www.elcomercio.com/actualidad/negocios/lluvias-coca-codo-sinclair-pero-pasa-paute.html "Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute")
+* [Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?](https://www.elcomercio.com/actualidad/negocios/produccion-central-coca-codo-sinclair-cortes-luz-crisis-energetica.html "Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?")
+* [¿Qué pasó con Mazar con las lluvias registradas en Cuenca?](https://www.elcomercio.com/actualidad/negocios/mazar-lluvias-registradas-cuenca.html "¿Qué pasó con Mazar con las lluvias registradas en Cuenca?")
+
+Según el reporte diario del Operador Nacional de Electricidad (**Cenace**), este lunes 14 de octubre de 2024 produjo 965 MW. Esto representa el 64% de su capacidad, casi al tope de su rendimiento esperado, que es el 65%.
+
+La ministra de Energía (encargada), **Inés Manzano**, señaló que el caudal extraordinario del **río Coca** permitió mejorar la operación de la central Coca Codo Sinclair y reducir los tiempos de **cortes de luz** entre el domingo 13 y lunes 14 de octubre.
+
+Según el monitorio diario del **río Coca**, durante esos dos días se registraron caudales altos con 163 y 77 metros cúbicos por segundo (m³/s), respectivamente. Mientras que en las dos primeras semanas de este mes, el promedio fue de 23 m³/s.
+
+Este caudal debe ser aprovechado para **generar la energía** en el momento. “No lo podemos guardar la energía ni desperdiciarla”, dijo Manzano. Coca Codo es una central de paso y no tiene capacidad para guardar el agua.
+
+¿Cómo funciona Coca Codo Sinclair?
+----------------------------------
+
+![La central hidroeléctrica Coca Codo Sinclair tiene una capacidad instalada de 1500 MW y es la más grande del país. Esta es la casa de máquinas. Foto: Cortesía Coca Codo](https://www.elcomercio.com/wp-content/uploads/2024/06/Coca-Codo-Sinclair-2-1024x683.jpg)
+
+Casa de máquinas de la hidroeléctrica Coca Codo Sinclair. Foto: Cortesía Coca Codo
+
+La hidroeléctrica Coca Codo Sinclair aprovecha el potencial hídrico del río Coca, en el límite provincial de Napo y Sucumbíos.
+
+Esta central está conformado por una **obra de captación**, aquí se toma el agua del río Coca. El líquido pasa por filtros que retienen **sedimentos grandes como palos piedras y basura.**
+
+Luego el líquido se dirige a los **desarenadores** cuya función principal es eliminar los sedimentos arenosos del agua que más adelante se convertirá en energía.
+
+El **agua limpia** que sale del desarenador se mueve hacia el túnel de conducción que tiene más de 8 metros de diámetro y atraviesa la montaña por más de 24 kilómetros, una distancia equivalente a recorrer desde el Centro Histórico de Quito hasta la Mitad del Mundo.
+
+Al otro extremo del túnel se encuentra el **embalse compensador**, que albergar más de 800 000 metros cúbicos de agua equivalentes a unas 350 piscinas olímpicas. Esta cantidad de agua permite generar hasta 1 500 MW durante 4 horas consecutivas.
+
+El agua de este embalse se precipita en caída libre por 620 metros a través de dos tuberías de presión que luego se dividen en ocho ductos que alimentan cada una de las **ocho turbinas generadoras**, que juntas alcanzan la máxima capacidad de **generación de la hidroeléctrica**.
+
+Casa de maquinas de Coca Codo Sinclair
+--------------------------------------
+
+Las tuberías de presión, los ocho ductos u las turbinas son subterráneos. En la denominada **casa de máquinas** hay dos cavernas que albergan las ocho turbinas de generación eléctrica. Esta infraestructura está a 26 kilómetros de distancia de las obras de captación a más de 500 metros dentro de la montaña.
+
+La electricidad generada se distribuye a través de líneas de transmisión de **500 kilovatios** al Sistema Interconectado Nacional (SIN) y luego va a las empresas distribuidoras y posteriormente llega a los hogares.
+
+Esta central no tiene un **gran reservorio de agua** como el de Mazar, en Azuay, cuyo embalse tiene la capacidad para retener 300 millones de metros cúbicos de agua, equivalentes a **132 000 piscinas olímpicas**.
+
+Coca Codo Sinclair inició su construcción en julio de 2010 y fue inaugurada el 18 de noviembre de 2016.
+
+Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito
+=========================================================================
+
+Los restauradores de Quito se adaptan a los apagones, ya sea con la compra de generadores o acomodándose a los horarios de cortes de energía.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![En el restaurante Penny Royal, los clientes comparten a la luz de las velas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-6-1.jpg)
+
+El **2024** ha sido uno de los peores años para el sector gastronómico, incluso más que la pandemia del covid-19. En ese sentido, los **cortes de energía eléctrica se suman** como un elemento más para un **año fatal para los restaurantes**.
+
+### Más noticias
+
+* [Gobierno entrega licencias ambientales para proyectos de energía renovable](https://www.elcomercio.com/actualidad/negocios/gobierno-entrega-licencias-ambientales-para-proyectos-de-energia-renovable.html "Gobierno entrega licencias ambientales para proyectos de energía renovable")
+* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
+* [Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz](https://www.elcomercio.com/actualidad/gobierno-de-daniel-noboa-abre-procesos-para-centrales-termoelectricas-por-cortes-de-luz.html "Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz")
+
+Un 2024 oscuro para los restaurantes de Quito
+---------------------------------------------
+
+Desde que comenzó el año, los **restaurantes en Quito** -y de paso en todo el país- sienten que el **2024** es el de un **apagón interminable**. La fatalidad comenzó en **enero**, cuando Ecuador cayó en un pánico colectivo tras la toma de un grupo de **delincuentes organizados** se tomaron TC Televisión.
+
+La declaratoria de **conflicto armado interno** por parte del gobierno del **presidente Daniel Noboa** fue el primer golpe del año porque dejó una imagen negativa del país en el exterior y una pérdida de confianza entre los mismos ecuatorianos. Sin embargo, **los cortes de energía han envuelto** -literal y figuradamente- **en la oscuridad a muchos restaurantes de Quito**.
+
+“La **industria alimenticia** es una de las más vulnerables. Siempre hay algo que nos afecta: la inseguridad, las vacaciones, el inicio a clases, los cortes de luz. Pero también **somos un grupo con fortalezas** porque seguimos trabajando y, cuando empiezan a haber mejoras, tenemos un proceso de recuperación rápido porque la gente necesita distraerse”, dice **Álvaro Hernández**, chef de **Cats**, en **Cumbayá**.
+
+La desilusión en los restaurantes por los apagones
+--------------------------------------------------
+
+**Carlos Santos** es el chef de **Chulpi Urbano**. Queda en **Las Casas**. Y esta semana tiene los cortes de luz de 10:00 a 15:00 y de 19:00 a 20:00. **Justo a las horas del servicio**. “Abrimos igual a las 13:00. Venimos más temprano para aprovechar y usar los aparatos eléctricos necesarios para la producción”. Pero se le siente **desconsolado**. “Aumentan los gastos, los productos se dañan. Pero no es solo para nosotros el problema. La gente no sale, está golpeada. **Estamos superindignados y desanimados** porque **ni siquiera tenemos un futuro claro”.**
+
+De la comparación en los primeros 15 días de facturación del mes, en octubre no ha hecho ni la tercera parte.
+
+Santos no ha podido comprar un **generador**, por precios, porque han intentado estafarlo vendiendo algo que no era la solución y porque es una molestia. También en **Negrita**, que queda en el **Batán Alto**, se adecuan a la situación, pero ellos no han optado por comprar generadores por la contaminación auditiva.
+
+“La verdad es que resolver no se puede mucho. Estamos trabajando con unas **lamparitas**, **velas** y tratando de mantener todo el congelador cerrado para **no perder la cadena de frío**. A oscuras y tratamos de adaptarnos al horario”, dice **Julia Quiñones,** la chef de Negrita.
+
+Cortes previstos desde antes
+----------------------------
+
+**Diego Vivero**, director de la **Federación de Restaurantes de Ecuador** y de la **Agremiación de Restaurantes de Pichincha**, cuenta que **desde abril ya sabían que se venía una nueva crisis eléctrica**. No imaginaban que iba a ser de esta magnitud. “En nuestras reuniones con la **Empresa Eléctrica Quito** la **solución** fue que **nos proveamos de nuestra propia energía**“.
+
+Los **restaurantes** ya tenían prevista esta situación y ahora son mayores los costos, amortización de plantas eléctricas, costos del combustible. “Lo más grave es que todo esto **nos distrae de lo fundamental para los restaurantes ahora: brindar la mejor experiencia posible”[.](https://es.wikipedia.org/wiki/Corporaci%C3%B3n_El%C3%A9ctrica_del_Ecuador#:~:text=La%20Corporaci%C3%B3n%20El%C3%A9ctrica%20del%20Ecuador,y%20Recursos%20Naturales%20No%20Renovables. "https://es.wikipedia.org/wiki/Corporaci%C3%B3n_El%C3%A9ctrica_del_Ecuador#:~:text=La%20Corporaci%C3%B3n%20El%C3%A9ctrica%20del%20Ecuador,y%20Recursos%20Naturales%20No%20Renovables.")**
+
+**Vivero** debió cerrar uno de sus locales de **Pizza SA** para que el negocio en general pudiera seguir su marcha. “Somos empresarios y debemos buscar siempre la salida para continuar con el negocio”.
+
+Si bien **CATS** se ha sostenido con las reservas y los eventos que tiene en su local de Cumbayá, reconoce que hay una **caída** de aproximadamente el **40% de los clientes** que llegan espontáneamente a su local. “El problema es que si un local está iluminado, pero el resto a oscuras y no se animan a entrar”, dice Hernández.
+
+A la caza de generadores de luz
+-------------------------------
+
+**Rafael Mora** ya tenía desde hace años un **generador eléctrico** en su casa y que le sirvió para su restaurante **D La Calle**. En cambio, tuvo que **comprar** uno para su local **Dumpling Shop**.
+
+“La gente viene menos porque tenía menos y **nos tocaba comprar pocos insumos** porque se dañaban y **la producción también bajaba** porque se dañaba al estar tantas horas los elementos que necesitan del frío. Así que tocó invertir en un generador”, dice Rafael.
+
+Tuvo **suerte** porque se anticipó a la compra en un local en donde vendían generadores. Fue un lunes por la mañana. Por la tarde volvió y ya se habían agotado.
+
+Los afortunados sin cortes
+--------------------------
+
+En estos apagones generales, hay sectores que **no han sufrido los cortes de luz.** Eso ocurre en **Sangolquí**, por ejemplo, en **Iza Restaurante**. “El año anterior nos cortaban, pero esta vez no. Es porque estamos cerca del **Hospital General de Sangolquí**, nos dice su propietario, Andrés Iza.
+
+Lo mismo ocurre con **Gallo Rojo**, la taquería mexicana que queda cerca del **Pablo Arturo Suárez**, en **San Carlos**. “El trabajo se nos multiplicó. Como en los centros comerciales, vienen muchos a pasar aquí el tiempo en que se corta la luz en su casa”, cuenta Lenín Carrillo, su chef.
+
+Las exportaciones de Ecuador ganan espacio en la Unión Europea
+==============================================================
+
+Ecuador aumenta un 35% sus exportaciones no petroleras a la Unión Europea, impulsadas por el cacao en grano y las conservas de atún.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Las exportaciones de enlatados de pescado van en incremento. Foto: Cortesía Nirsa.](https://www.elcomercio.com/wp-content/uploads/2022/09/Exportaciones-Ecuador-sector-acuicola.jpg)
+
+Entre enero y agosto de 2024, la **Unión Europea** se consolidó como el principal destino de las exportaciones no petroleras y no mineras del **Ecuador**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+Más noticias
+
+* [Las exportaciones del Ecuador mejoraron en julio de 2024 ¿Cuál es el producto que más creció?](https://www.elcomercio.com/actualidad/negocios/exportaciones-ecuador-mejoraron-julio-de-2024-producto-crecio.html "Las exportaciones del Ecuador mejoraron en julio de 2024 ¿Cuál es el producto que más creció?")
+* [Exportaciones de oro sufren un fuerte cambio en su desempeño](https://www.elcomercio.com/actualidad/negocios/exportaciones-oro-ecuador-controles-mineria-ilegal.html "Exportaciones de oro sufren un fuerte cambio en su desempeño")
+* [China sufre desaceleración económica, ¿afecta al Ecuador?](https://www.elcomercio.com/actualidad/negocios/china-sufre-desaceleracion-economica-afecta-ecuador.html "China sufre desaceleración económica, ¿afecta al Ecuador?")
+
+Según el reporte de la Federación Ecuatoriana de Exportadores (**Fedexpor**), las ventas a este destino registraron un **aumento del 35%** en comparación con el mismo periodo del año anterior, con 3 543 millones de dólares vendido, un incremento de 911 millones de dólares.
+
+Entre los productos más demandados por el bloque destacan el **camarón, bananos, cacao, conservas de pescado y flores.**
+
+Este aumento en ventas refleja los beneficios del acuerdo comercial con la UE y el esfuerzo del sector exportador por cumplir con los estándares internacionales, particularmente en el sector atunero, señaló **Felipe Ribadeneira**, presidente de Fedexpopr.
+
+Además, agregó que el sector exportador **enfrenta desafíos** por la falta de energía, que afecta su competitividad frente a otros países, agregó.
+
+EE.UU. es el segundo comprador de productos ecuatorianos
+--------------------------------------------------------
+
+**Estados Unidos**, el segundo socio comercial de Ecuador, experimentó un crecimiento del 15% en las exportaciones no petroleras no mineras. Las ventas a este destino llegaron a 2 973 millones de dólares.
+
+Entre estos dos mercados y China, que ocupa el tercer lugar, se concentró el 65% del valor total de las exportaciones ecuatorianas de este tipo.
+
+Productos de exportación
+------------------------
+
+El camarón continúa siendo el principal producto exportado de la oferta no petrolera de Ecuador. En los primeros ocho meses del año disminuyó su valor exportado en 6% en comparación con el mismo período de 2023. Asimismo, las exportaciones de banano y plátano disminuyeron en 1% su valor exportado.
+
+Mientras que las exportaciones de enlatados de pescado, y atún y pescado aumentaron su valor exportado en 25% y 24% cada uno.
+
+Una Barbie para cada gusto, Mattel expande su menú
+==================================================
+
+Mattel expande su menú con el lanzamiento de nuevas muñecas.
+------------------------------------------------------------
+
+![Esta muñeca hindú se sumó al catálogo de Mattel. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-15T181930.236.jpg)
+
+En los últimos meses, **[Mattel](https://about.mattel.com/ "https://about.mattel.com/")** ha lanzado una serie de nuevas muñecas **Barbie** que resaltan por su diversidad e inclusión.
+
+Entre las **novedades** más destacadas se encuentran las muñecas de la línea **Barbie Fashionistas**, que celebran su 65 aniversario con una segunda ola de lanzamientos en 2024.
+
+Esta colección incluye nuevas **muñecas** que presentan una variedad de estilos y características físicas, promoviendo la aceptación y la diversidad entre sus **jóvenes** seguidores.
 
 ### **Más noticias:**
 
-* [Shakira rompe nuevo récord con el video de su sencillo Soltera](https://www.elcomercio.com/afull/shakira-rompe-nuevo-record-con-el-video-de-su-sencillo-soltera.html "https://www.elcomercio.com/afull/shakira-rompe-nuevo-record-con-el-video-de-su-sencillo-soltera.html")
-* [Una canción de Justin Bieber ”revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
+* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
 * [Mamá de ‘Diddy’ dice que su hijo no es un ‘monstruo’](https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Content+Link")
+* [Beyoncé perdió millones de seguidores por su conexión con ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html?source=Internal&ref=Single+Content+Link")
 
-**Shakira disfrutó de su fiesta de ‘soltera’ con pizza y buena compañía**
--------------------------------------------------------------------------
+**Una Barbie para cada gusto, Mattel expande su menú**
+------------------------------------------------------
 
-**Shakira** organizó -14 de octubre- una fiesta en la residencia de **Lele Pons** en **Miami** para conmemorar el lanzamiento de su sencillo **Soltera**.
+La marca también introdujo una serie de **muñecas** que rinden homenaje a **mujeres atletas** que han roto barreras en el deporte.
 
-El evento reunió a varias celebridades de la **música** y las redes sociales, entre ellas **Belinda**, Danna Paola y Kenia Os.
+Estas **muñecas** buscan inspirar a las **niñas** a mantenerse activas en el deporte y reconocer su potencial completo.
 
-Estas artistas se unieron a la **cantante colombiana** para celebrar la ‘soltería’ en una velada repleta de risas, música y momentos inolvidables.
-
-**Una fiesta de solteras llena de camaradería**
------------------------------------------------
-
-Durante la fiesta, **Shakira** mostró su alegría por compartir su nueva canción con sus amigas. Las invitadas disfrutaron de una noche divertida que incluyó pizzas, tequila y muchas risas.
-
-En redes sociales, Shakira bromeó sobre lo mucho que comieron, especialmente junto a **Belinda**.
-
-La reunión también contó con momentos especiales, como la proyección del video oficial de Soltera en una pantalla gigante.
-
-Las actividades al aire libre incluyeron montar un toro mecánico, lo que añadió un toque divertido a la celebración.
-
-Belinda se destacó en las redes sociales al compartir fotos y videos, expresando lo bien que lo pasó y elogiando el éxito de Shakira.
-
-Durante la celebración, Belinda y Danna Paola prometieron organizar una fiesta con mariachis para Shakira en su próxima visita a México.
-
-Municipio de Quito interviene la Chimborazo, calle con piedras patrimoniales
-============================================================================
-
-La intervención en la calle Chimborazo, en pleno Centro Histórico, está a cargo del Instituto Metropolitano de Patrimonio de Quito.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Los trabajos provocaron malestar en los moradores de la calle Chimborazo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Calle-Chimborazo-piedra-patrimonio.jpg)
-
-El Municipio de Quito interviene la calle **Chimborazo**, ubicada en pleno **Centro** **Histórico**. Las **piedras** **patrimoniales** se encuentran sobre las veredas e impiden el paso de los peatones[.](https://es.wikipedia.org/wiki/Patrimonio#:~:text=La%20palabra%20patrimonio%20viene%20del,lo%20recibido%20por%20l%C3%ADnea%20paterna%C2%BB. "https://es.wikipedia.org/wiki/Patrimonio#:~:text=La%20palabra%20patrimonio%20viene%20del,lo%20recibido%20por%20l%C3%ADnea%20paterna%C2%BB.")
-
-Más noticias
-------------
-
-* [Obras viales cerrarán calles de Quito hasta el 15 de diciembre de 2024](https://www.elcomercio.com/actualidad/quito/obras-viales-cerraran-calles-quito-15-diciembre-2024.html "Obras viales cerrarán calles de Quito hasta el 15 de diciembre de 2024")
-* [Quito tiene opciones para reducir los siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-choques-muertes.html "Quito tiene opciones para reducir los siniestros de tránsito")
-* [Tránsito por túnel Guayasamín, a prueba con cierre de la parada de Ecovía](https://www.elcomercio.com/actualidad/quito/operativo-amt-tunel-guayasamin-transito-plaza-argentina.html "Tránsito por túnel Guayasamín, a prueba con  cierre de la parada de Ecovía")
-
-El personal de la Empresa Pública Metropolitana de Movilidad y Obras Públicas  (**Epmmop)** y contratistas levantarán el empedrado en menos de dos días, según informan los vecinos del sector.
-
-Malestar de los vecinos de la calle Chimborazo por los trabajos inconclusos
----------------------------------------------------------------------------
-
-Los moradores de la calle **Chimborazo** están molestos por el levantamiento de la vía. Los vecinos aseguran que entre el 22 y 23 de septiembre los trabajadores retiraron las **piedras** **patrimoniales** y las colocaron sobre la vereda. Hasta este 15 de octubre no se ha avanzado más.
-
-La culminación de la obra está prevista para el 15 de noviembre de 2024, según el Instituto Metropolitano de Patrimonio, entidad encargada de este trabajo.
-
-Una vecina del sector declaró a TVC que se les informó que los trabajos se realizarían desde el 27 de septiembre hasta el 4 de noviembre, pero los trabajadores no han regresado, lo cual ha afectado a varios comercios del lugar.
-
-Los vecinos afirman que la calle, antes de la **intervención**, estaba en **buen** **estado** y no entienden por qué se levantó el empedrado.
-
-Además, mencionan que los recorridos escolares no pueden recoger a los jóvenes del sector, lo que obliga a los padres a llevarlos hasta los colegios debido a la **inseguridad** en **Quito**.
-
-¿Qué pasará con las piedras patrimoniales de la calle Chimborazo?
------------------------------------------------------------------
-
-EL COMERCIO consultó con el Instituto Metropolitano de **Patrimonio** sobre el destino de las **piedras** **patrimoniales** de la calle **Chimborazo**.
-
-La entidad indicó que se realizará un **trabajo** **integral** en esta calle, que tiene un comercio activo, y que las **piedras** volverán a ser colocadas en su **disposición** **original**, pero con mayor **consolidación** para evitar **movimientos** o **baches**.
-
-Patrimonio de Quito dijo que el trabajo sobre la calle **Chimborazo** se trata de un mantenimiento integral de calzadas de piedra, parte de la planificación anual para conservar y preservar áreas patrimoniales en el espacio público.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DA9nrumKUW8/?utm_source=ig_embed&utm_campaign=loading)
+> [View this post on Instagram](https://www.instagram.com/reel/DAMKkvrSqCY/?utm_source=ig_embed&utm_campaign=loading)
 > 
-> [Una publicación compartida por Instituto Metropolitano de Patrimonio (IMP) (@patrimonio.quito)](https://www.instagram.com/p/DA9nrumKUW8/?utm_source=ig_embed&utm_campaign=loading)
+> [A post shared by Barbie (@barbie)](https://www.instagram.com/reel/DAMKkvrSqCY/?utm_source=ig_embed&utm_campaign=loading)
 
-Fuga de combustible provoca evacuación de familias en La Concordia
-==================================================================
+El catálogo de **Barbie** para 2024 también incluye una amplia gama de muñecas y accesorios, desde sets de juego hasta personajes temáticos, que siguen expandiendo el universo de Barbie.
 
-Petroecuador confirmó una fuga de combustible en un poliducto de La Concordia, Santo Domingo de los Tsáchilas.
---------------------------------------------------------------------------------------------------------------
+Este enfoque busca entretener, pero también educar y empoderar a las niñas a través de historias y personajes diversos.
 
-![La ruptura del poliducto se habría producido a las 23:00 de este 14 de octubre. Foto: Captura](https://www.elcomercio.com/wp-content/uploads/2024/10/poliducto.jpg)
+Una de sus últimas muñecas se llevó los aplausos del público; se trata de la Barbie hindú. Mattel la presentó a propósito del festejo que da la bienvenida al Año Nuevo hindú.
 
-La empresa pública **Petroecuador** confirmó que el **Cuerpo de Ingenieros del Ejército** detectó la madrugada de este martes 15 de octubre de 2024 una **fuga de combustibles** por la **ruptura del poliducto** en la ciudad de **La Concordia**, en Santo Domingo de los Tsáchilas[.](https://es.wikipedia.org/wiki/La_Concordia_(Ecuador) "https://es.wikipedia.org/wiki/La_Concordia_(Ecuador)")
+> [View this post on Instagram](https://www.instagram.com/p/DAsJcMjRjGQ/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Barbie® (@barbiestyle)](https://www.instagram.com/p/DAsJcMjRjGQ/?utm_source=ig_embed&utm_campaign=loading)
+
+SNAI confirmó la muerte de dos presos en cárcel de Ecuador
+==========================================================
+
+Los cuerpos sin vida de las PPL fueron hallados durante los controles de seguridad de la mañana.
+------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/carcel-guayaquil.jpg)
+
+El Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad (**SNAI**) confirmó que **dos presos** fueron hallados **muertos** dentro de la Penitenciaria del Litoral, en Guayaquil, provincia del Guayas.
+
+La entidad detalló que los guardias penitenciarios reportaron esta alerta durante los **controles de seguridad** que se realizaron la mañana de este martes 15 de octubre de 2024.
 
 ### Más noticias
 
-* [Daniel Noboa toma decisión sobre subsidio de electricidad a empresas mineras](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-decision-subsidio-electricidad-empresas-mineras.html "Daniel Noboa toma decisión sobre subsidio de electricidad a empresas mineras")
-* [Más pozos de petróleo en el Yasuní se cierran](https://www.elcomercio.com/actualidad/negocios/apagado-pozos-petroleo-yasuni-bloque-itt.html "Más pozos de petróleo en el Yasuní se cierran")
-* [Producción de petróleo no se recupera en Ecuador](https://www.elcomercio.com/actualidad/produccion-petroleo-ecuador-caida-economia-ecuador.html "Producción de petróleo no se recupera en Ecuador")
+* [Policía capturó al octavo más buscado de Pichincha](https://www.elcomercio.com/actualidad/seguridad/policia-capturo-al-octavo-mas-buscado-de-pichincha.html "Policía capturó al octavo más buscado de Pichincha")
+* [Policía detiene a presunto implicado en asesinato de Directora de la Penitenciaría](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-presunto-implicado-en-asesinato-de-directora-de-la-penitenciaria.html "Policía detiene a presunto implicado en asesinato de Directora de la Penitenciaría")
+* [Muere funcionaria del SNAI herida en El Trébol](https://www.elcomercio.com/actualidad/seguridad/muere-funcionaria-snai-herida-el-trebol.html "Muere funcionaria del SNAI herida en El Trébol")
 
-La empresa pública también informó que **equipos especializados y maquinaria** de Petroecuador se movilizaron al sitio para atender la emergencia.
+Luego, de forma inmediata, se realizaron los procedimientos correspondientes para estos casos, en coordinación con la **Policía Nacional**, el ECU 911 y un representante de la Fiscalía, explicó el SNAI.
 
-“Las evaluaciones muestran que no hay afectación a **fuentes hídricas**, y el producto derramado se encuentra en el derecho de vía. ⁠Está controlado el incidente”, señaló.
+Los **cuerpos sin vida** de las personas privadas de libertad (PPL) fueron retirados de la prisión Guayas N.°1 y trasladados hacia el Departamento de Medicina Legal de la ciudad.
 
-Además, agregó que la petrolera estatal tiene un convenio para seguridad de poliductos con el Cuerpo de Ingenieros del Ejército.
+El Servicio no dio detalles sobre la **identidad** de los fallecidos, ni sobre las causas de sus muertes.
 
-Se esperaba a los técnicos de Petroecuador cierren las válvulas de paso para el inicio de la reparación de la tubería afectada.
+El SNAI aseguró que en las próximas horas presentará la denuncia ante la **Fiscalía** Provincial de Guayas, para determinar las responsabilidades de las muertes.
 
-Derrame de combustible
-----------------------
+La cartera de Estado se comprometió a brindar todas las facilidades para esclarecer el hecho, a través de un comunicado.
 
-El **derrame del combustible** en el cantón La Concordia se habría registrado a las 23:00 de este lunes 14 de octubre del 2024. 12 horas después, Petroecuador no se pronunciaba oficialmente sobre el incidente.
+Este hallazgo se realizó después de que el **Bloque de Seguridad**, conformado por militares y policías, realizara un operativo en el interior de la Penitenciaria.
 
-A través de redes sociales se conoció que decenas de familias fueron evacuadas debido al fuerte olor del combustible derramado. Los barrios afectados fueron **La Paz y San Agustín**.
+En la intervención se incautaron **armas de fuego**, municiones, dinero en efectivo, celulares, entre otros objetos prohibidos.
 
-El **derivado que se transporta** por el poliducto es **diésel.** En las imágenes compartidas por los usuarios de redes sociales se observaba un gran chorro expulsado con fuerza desde la tubería metálica. Con el paso de las horas se formó una especie de nube blanquecina que contaminó todo el sector.
+> Conoce los detalles sobre el operativo ejecutado la madrugada de hoy en la [#PenitenciaríaDelLitoral](https://twitter.com/hashtag/Penitenciar%C3%ADaDelLitoral?src=hash&ref_src=twsrc%5Etfw) por la Policía Nacional.[#BloqueDeSeguridad](https://twitter.com/hashtag/BloqueDeSeguridad?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/HC8pDYU5CM](https://t.co/HC8pDYU5CM)
+> 
+> — @PolicíaDMGZona8 (@PoliciaDMGZona8) [October 15, 2024](https://twitter.com/PoliciaDMGZona8/status/1846241185578279395?ref_src=twsrc%5Etfw)
 
-Las autoridades deben analizar las causas de las ruptura de la tubería metálica. En la zona se ha detectado varias perforaciones clandestinas para el robo de combustible.
+Desconocidos asesinaron a Directora de la Penitenciaría
+-------------------------------------------------------
 
-¿Cuándo es el feriado de noviembre?
-===================================
+Desconocidos asesinaron a la Directora de este Centro de Privación de Libertad hace un mes, el jueves 12 de septiembre.
 
-A los ecuatorianos les restan tres feriados nacionales por disfrutar. Te contamos en qué días de noviembre se realizarán los próximos asuetos.
+**Hombres armados** sorprendieron a María Icaza mientras se movilizaba en su vehículo por la vía a Daule; los sospechosos la atacaron con múltiples disparos.
+
+Esa noche, el SNAI confirmó el asesinato de la funcionaria y que otro colaborador de la entidad resultó **herido** en el atentado.
+
+Fiscalización tomó una decisión sobre el juicio político contra Andrea Arrobo
+=============================================================================
+
+Fiscalización es la encargada de tramitar la solicitud de juicio político contra Andrea Arrobo.
+-----------------------------------------------------------------------------------------------
+
+![El juicio político contra Andrea Arrobo, exministra de Energía y Minas, es conocido por la Comisión de Fiscalización.](https://www.elcomercio.com/wp-content/uploads/2024/04/Andrea-Arrobo-2.jpg)
+
+La Comisión de Fiscalización tomó una decisión sobre el juicio político contra Andrea Arrobo, exministra de Energía y Minas, este martes 15 de octubre de 2024.
+
+Ana Galarza y Jaime Moreno de Construye, y Vicente Taiano del Partido Social Cristiano (PSC) presentaron la solicitud de juicio político contra Arrobo, el 24 de abril.
+
+### Más noticias:
+
+* [Fiscalización deja en suspenso inició el trámite del juicio político contra Andrea Arrobo](https://www.elcomercio.com/actualidad/fiscalizacion-suspenso-juicio-politico-andrea-arrobo.html "Fiscalización deja en suspenso inició el trámite del juicio político contra Andrea Arrobo")
+* [Juicio político contra Mónica Palencia depende del Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/juicio-politico-contra-monica-palencia-depende-pleno-asamblea.html "Juicio político contra Mónica Palencia depende del Pleno de la Asamblea")
+
+La exministra, Andrea Arrobo, estuvo casi cinco meses cumpliendo las funciones de Ministra de Energía, hasta el 16 de abril de 2024.
+
+Debido a la crisis energética, el 17 de abril, Daniel Noboa pidió su renuncia y la acusó de supuesto sabotaje por haber afectado al sector energético.
+
+Junto a la exministra, otros 20 funcionarios también fueron señalados como posibles cómplices en la crisis energética.
+
+Posteriormente, a través de su cuenta de X, Arrobo señaló que, desde el 16 de abril, enfrentaba una investigación fiscal por el delito de paralización de servicio público.
+
+En su defensa, en una carta difundida por redes sociales, Arrobo señaló que recibió un “sector en crisis”.
+
+Esto, producto de más de seis años de “abandono” y de una falta de inversión, con problemas estructurales y una dependencia de la importación de energía.
+
+Así como, de condiciones climáticas “que no pueden solucionarse en cinco meses”.
+
+Decisión de la Comisión de Fiscalización sobre el juicio político contra Andrea Arrobo
+--------------------------------------------------------------------------------------
+
+La Comisión de Fiscalización tomó una decisión sobre el juicio político contra Andrea Arrobo, exministra de Energía.
+
+Tras un intento fallido la tarde del lunes 14 de octubre, en el que se dejó en suspenso la decisión; la mesa se instaló nuevamente la tarde de este martes.
+
+Con una moción de la asambleísta Adriana García, se buscó avocar conocimiento y calificar la solicitud de juicio político contra Andrea Arrobo.
+
+Sin embargo, para algunos comisionados, la propuesta contenía ya una sentencia en contra de la exfuncionaria.
+
+Por esta razón, se declaró un receso y, en la reinstalación, se propuso una nueva moción.
+
+En esta, García solamente sugería la calificación de la solicitud del juicio.
+
+Luis Alvarado, Lenin Barreto, Sofía Espín, Adriana García, Ronald González, Lenin Rogel, César Umaninga, Ramiro Vela y Karla Potosí (alterna de Pamela Aguirre) votaron a favor.
+
+La moción de calificación del juicio político contra Andrea Arrobo fue aprobada por unanimidad.
+
+¿Cómo llega la Selección de Ecuador ante Uruguay?
+=================================================
+
+La Selección de Ecuador arrancará su partido ante Paraguay en el quinto puesto de la tabla de posiciones y podrá mejorar su ubicación.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Álex Arce (izq.) disputa un balón con Willin Pacho (der.) de la Selección de Ecuador en eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000145542.jpg)
+
+La **Selección de Ecuador** se enfrentará ante Uruguay en la décima fecha de las eliminatorias sudamericanas y llega en zona de clasificación. Sus rivales se encuentran en un contexto similar, pero por encima en la tabla de posiciones.
+
+Después de su último partido con **Paraguay**, la Tri quedó en el quinto puesto de la tabla rumbo al Mundial de 2026. En aquel compromiso, el equipo de la mitad del mundo consiguió un empate sin goles ante los guaranís.
+
+### Más noticias:
+
+* [Alineaciones la Selección de Ecuador y Uruguay en eliminatorias](https://www.elcomercio.com/deportes/futbol/alineaciones-uruguay-seleccion-ecuador-eliminatorias.html "Alineaciones la Selección de Ecuador y Uruguay en eliminatorias")
+* [EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp](https://www.elcomercio.com/deportes/futbol/ecuador-uruguay-en-vivo-whatsapp-comercio.html "EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp")
+* [Selección de Ecuador aspira a una victoria histórica ante una golpeada Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-aspira-victoria-historica-ante-golpeada-uruguay.html "Selección de Ecuador aspira a una victoria histórica ante una golpeada Uruguay")
+
+La escuadra de **Sebastián Beccacece** cuenta con 12 puntos a raíz de cuatro victorias, tres empates y dos derrotas. Aunque su puntaje debería ser mayor, la realidad no obedece a ello debido a que la Tri sufrió la resta de tres unidades antes de las **eliminatorias** por una sanción.
+
+El cotejo marcará el cuarto duelo de Beccacece al mando del combinado nacional. Este llegó en reemplazo de **Félix Sánchez Bas** y ha conseguido una derrota, ante Brasil; una victoria, ante Perú; y un empate, ante Chile.
+
+Uruguay, en el podio de la tabla ante la Selección de Ecuador
+-------------------------------------------------------------
+
+La **Selección de Uruguay**, a pesar de haber presentado un bajón en su rendimiento tras la Copa América, se mantiene en la parte alta de la tabla de posiciones. La escuadra charrúa ocupa el tercer puesto en las eliminatorias.
+
+El equipo de **Marcelo Bielsa** tiene **15 puntos** y ha cosechado los mismos resultados que el conjunto ecuatoriano desde que empezaron los duelos clasificatorios. Pese a ello, en su último cotejo cayó ante Perú, penúltimo en la tabla, como visitante.
+
+La escuadra charrúa, desde que se reiniciaron las eliminatorias luego del máximo torneo de selecciones del continente, no ha conseguido ganar. Antes de enfrentar a Perú, este igualó con **Paraguay y Venezuela**.
+
+Uruguay llega con el camerino y su DT en conflicto
+--------------------------------------------------
+
+El momento intermitente de la **Selección de Uruguay** coincide con conflictos a la interna del plantel. Antes de la fecha de eliminatorias, un grupo de jugadores cuestionó al entrenador Marcelo Bielsa y se quejó de su trabajo.
+
+A raíz de las declaraciones, un sector de la ‘**Celeste**‘ se mantuvo neutral y otro respaldó al DT argentino. Asimismo, este reconoció que su autoridad se vio afectada con los dichos, pero aquello no ha impactado en su trabajo.
+
+Es importancia la detección temprana del cáncer de mama
+=======================================================
+
+Detectar a tiempo el cáncer de mama aumenta hasta un 90% las probabilidades de recuperación. Aquí te contamos cómo mejorar la calidad de vida.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-![Turistas visitando Cuenca, en la provincia de Azuay](https://www.elcomercio.com/wp-content/uploads/2024/10/cuenca-turismooo.jpg)
+![La detección temprana del cáncer de mama aumenta significativamente las posibilidades de curación.](https://www.elcomercio.com/wp-content/uploads/2024/10/Cancer-de-mama.jpg)
 
-Los ecuatorianos disfrutaron del feriado nacional por la **independencia de Guayaquil** entre el viernes 11 al domingo 13 de octubre.
+El [cáncer de mama](https://www.paho.org/es/temas/cancer-mama) sigue siendo la principal causa de muerte por cáncer entre las mujeres en **América Latina, según datos de la Organización Mundial de la Salud**. A pesar de la alarmante cifra de más de dos millones de casos nuevos cada año a escala mundial, la detección temprana es clave para cambiar este panorama. Detectar el **cáncer de mama** en sus primeras etapas no solo aumenta las probabilidades de curación, sino que también mejora significativamente la calidad de vida de quienes lo enfrentan.
 
-El **reciente asueto** fue aprovechado por la ciudadanía para descansar, viajar y realizar actividades de esparcimiento entre familia y amigos.
+En este artículo, te brindamos nueve sugerencias sobre cómo realizar chequeos preventivos, reconocer los síntomas y apoyar a quienes luchan contra esta enfermedad. La detección a tiempo es una responsabilidad compartida, y todos podemos ser parte de la solución.
 
-### Más noticias
+**Realiza chequeos periódicos:** La mamografía es el principal método para detectar anomalías en los senos. A partir de los 40 años, se recomienda realizar una mamografía anual.
 
-* [Aún quedan feriados en este 2024, ¿son recuperables?](https://www.elcomercio.com/actualidad/ecuador/aun-quedan-feriados-2024-ecuador-son-recuperables.html "Aún quedan feriados en este 2024, ¿son recuperables?")
-* [¿Cuál es el siguiente feriado de Ecuador?](https://www.elcomercio.com/actualidad/ecuador/siguiente-feriado-ecuador-difuntos-difuntos.html "¿Cuál es el siguiente feriado de Ecuador?")
-* [Más zonas seguras y sostenibles para levantar el turismo de Ecuador](https://www.elcomercio.com/opinion/editorial/mas-zonas-seguras-y-sostenibles-para-levantar-el-turismo-de-ecuador.html "Más zonas seguras y sostenibles para levantar el turismo de Ecuador")
+**Autoexploración mensual:** Es fundamental que las mujeres se familiaricen con su cuerpo. La autoexploración permite detectar cualquier cambio inusual, como bultos o inflamaciones.
 
-Anualmente, Ecuador celebra **10 feriados nacionales**, que incluyen festividades por fechas patrióticas, religiosas y laborales.
+**Mantén un estilo de vida saludable:** Una dieta equilibrada, rica en frutas, verduras y baja en grasas saturadas, puede reducir el riesgo de cáncer. Además, el ejercicio regular es esencial para fortalecer el sistema inmunológico.
 
-De estos, según la Ley de Feriados, este año al país le restan **tres puentes vacacionales** de descanso obligatorio.
+**Consulta al médico ante cualquier duda:** No ignores los síntomas. Si notas cambios como enrojecimiento, secreción o dolor inusual en los senos, busca atención médica inmediata.
 
-En noviembre, se celebrarán **dos asuetos juntos**. ¿Cuándo coinciden estas fechas?; te lo contamos.
+**Apoyo emocional y familiar:** El soporte emocional es clave para quienes enfrentan esta enfermedad. Estar rodeado de seres queridos y grupos de apoyo facilita el proceso de recuperación.
 
-¿Qué días de noviembre se descansa?
------------------------------------
+**Evita el consumo de alcohol y tabaco:** Está comprobado que el consumo de estas sustancias aumenta el riesgo de desarrollar cáncer de mama. Reducir su ingesta es un paso importante en la prevención.
 
-En Ecuador, las fechas de descanso que coinciden en **sábado y domingo** se mueven al lunes o viernes más cercano, según lo establece la Ley Reformatoria a la Ley Orgánica del Servicio Público y al Código de Trabajo. 
+**Infórmate y participa en campañas de concienciación:** Durante el mes de octubre, conocido como el mes rosa, se llevan a cabo numerosas campañas de prevención y concienciación. Involúcrate y comparte información.
 
-Por ello, en noviembre, los ecuatorianos gozarán de dos festividades en un mismo **puente vacacional**: Día de **Difuntos** y la independencia de **Cuenca**.
+**Conoce tu historial familiar:** Si tienes antecedentes familiares de cáncer de mama, el riesgo es mayor. Habla con tu médico sobre la posibilidad de llevar a cabo pruebas genéticas.
 
-El feriado por Difuntos se lo celebra en el país cada **2 de noviembre**; mientras que la independencia de Cuenca se la conmemora cada **3 de este mes**.
+**Acceso a la salud mental:** Enfrentar un diagnóstico de cáncer puede ser abrumador. Considera la ayuda de un psicólogo especializado para manejar las emociones y mejorar tu calidad de vida durante el tratamiento.
 
-En 2024, estas fechas condicen con sábado y domingo, respectivamente, por lo que el puente vacacional de descanso será de **cuatro días**, del **viernes 1** de noviembre por Difuntos, al **lunes 4** por la celebración de la liberación de la ciudad austral.
+Escucha nuestro podcast para conocer más del tema
+-------------------------------------------------
 
-De esta forma, luego del feriado nacional, el último asueto que le quedará a los ecuatorianos será el de **Navidad**, a celebrarse el miércoles 25 de diciembre.
+El doctor Santiago Madero Obando habla sobre la importancia de la detección temprana del cáncer de mama y cómo mejorar la calidad de vida de quienes enfrentan esta enfermedad.
 
-Día de Difuntos
----------------
+Este artículo forma parte de ‘[El Cuaderno de la Salud](https://www.elcomercio.com/podcasts/cuaderno-de-la-salud.html)’ de EL COMERCIO. Si tienes consultas o sugerencias, llena el formulario a continuación. Mantente informado y cuida tu salud.
 
-El Día de Difuntos, celebrado el 2 de noviembre en Ecuador, es una fecha en la que se honra a los familiares y cercanos que han **fallecido**.
+Keny Arroyo, la gran sorpresa de Beccacece ante Uruguay
+=======================================================
 
-Esta tradición tiene raíces profundas en la cultura ecuatoriana y se entrelaza con las festividades del Día de Todos los Santos.
+Sebastián Beccacece sorprendió con sus 23 elegidos para el partido de las eliminatorias.
+----------------------------------------------------------------------------------------
 
-Durante esta fecha, las familias visitan los **cementerios** para llevar ofrendas florales y comidas típicas, como las **guaguas de pan y colada morada**.
+![Kenny Arroyo en un partido con las selecciones juveniles de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-15T174108.373.jpg)
 
-La celebración del Día de Difuntos es también un momento para reflexionar sobre la vida y la muerte, donde se combinan elementos indígenas y católicos. Las comunidades organizan rituales y actividades que buscan mantener viva la memoria de aquellos que han partido.
+La **Selección de Ecuador** visitará este martes 15 de octubre a Uruguay en Montevideo, en la décima jornada de las eliminatorias rumbo al Mundial 2026. A través de sus redes sociales, la ‘Tri’ anunció a los 23 jugadores seleccionados para este importante compromiso.
 
-Independencia de Cuenca
------------------------
-
-La independencia de Cuenca se conmemora el **3 de noviembre de 1820**, un evento clave en la lucha por la emancipación de Ecuador del dominio español. La revuelta fue inspirada por el éxito de Guayaquil, que había declarado su independencia el 9 de octubre del mismo año.
-
-Los patriotas cuencanos, liderados por figuras como Tomás Ordóñez y José María Vázquez de Noboa, organizaron un levantamiento que culminó con el enfrentamiento de los criollos contra la fuerza realista superior.
-
-Los patriotas lograron proclamarse independientes y establecer la **República de Cuenca** al día siguiente, el 4 de noviembre. Sin embargo, esta libertad fue **efímera**.
-
-La resistencia patriota se debilitó rápidamente debido a la falta de recursos y armamento, lo que llevó a una derrota en diciembre de 1820 en la **Batalla de Verdeloma**, donde las fuerzas españolas recuperaron el control sobre la ciudad.
-
-La independencia definitiva de Cuenca se consolidó en 1822, cuando el general **Antonio José de Sucre** lideró una campaña exitosa para liberar la región.
-
-Moisés Caicedo, un mentor para Óscar Zambrano
-=============================================
-
-El buen ambiente entre los seleccionados ecuatorianos no solo se mantiene cuando se reúnen para defender los colores de la 'Tri', sino que también se extiende a sus clubes.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo en el partido de la Selección de Ecuador contra Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-15T123952.177.jpg)
-
-**Óscar Zambrano** está viviendo su primera experiencia como futbolista fuera de Ecuador. El volante se unió al Hull City de Inglaterra a mediados de agosto, y **Moisés Caicedo,** con varios años de experiencia en el mismo país, le ofreció su ayuda.
-
-El ‘Niño Moi’ dejó de ser un niño hace tiempo, y ya solo le queda el apodo. A sus 22 años, ha madurado tanto **futbolísticamente** como personalmente, asumiendo **roles de mayor responsabilidad** en su club y en la selección, donde se ha consolidado como uno de los capitanes.
+Entre los nombres destaca uno en particular: **Keny Arroyo**, jugador de Independiente del Valle, quien ha brillado en este semestre del campeonato nacional.
 
 ### Más noticias:
 
-* [‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador](https://www.elcomercio.com/deportes/chito-vera-moises-caicedo-seleccion-ecuador.html "‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador")
-* [Óscar Zambrano, emocionado por volver a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/oscar-zambrano-emocionado-por-volver-a-la-seleccion-de-ecuador.html "Óscar Zambrano, emocionado por volver a la Selección de Ecuador")
-* [Óscar Zambrano y su lindo gesto con un aficionado en Inglaterra](https://www.elcomercio.com/deportes/oscar-zambrano-y-su-lindo-gesto-con-un-aficionado-en-inglaterra.html "Óscar Zambrano y su lindo gesto con un aficionado en Inglaterra")
+* [Alineaciones la Selección de Ecuador y Uruguay en eliminatorias](https://www.elcomercio.com/deportes/futbol/alineaciones-uruguay-seleccion-ecuador-eliminatorias.html "Alineaciones la Selección de Ecuador y Uruguay en eliminatorias")
+* [EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp](https://www.elcomercio.com/deportes/futbol/ecuador-uruguay-en-vivo-whatsapp-comercio.html "EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp")
+* [Independiente del Valle ganó y aspira al título de Liga Pro de forma directa](https://www.elcomercio.com/deportes/futbol/independiente-del-valle-gano-y-aspira-al-titulo-de-liga-pro-de-forma-directa.html "Independiente del Valle ganó y aspira al título de Liga Pro de forma directa")
 
-Esta nueva faceta de Caicedo lo ha convertido en un **mentor para los ecuatorianos que emigran al extranjero**, ayudando a facilitar su transición. Este es el caso de Óscar Zambrano, quien, a sus 20 años, dejó Liga de Quito para unirse a un equipo del Championship inglés.
+Keny Arroyo podría debutar ante Uruguay
+---------------------------------------
 
-Moisés Caicedo ofreció su ayuda a Óscar Zambrano
-------------------------------------------------
+Aunque Arroyo no estará en el once titular para el partido en el Estadio Centenario, el extremo estará en el banco de suplentes, aguardando la oportunidad de hacer su debut con la selección absoluta.
 
-En una entrevista con el _Canal del Fútbol_, Óscar Zambrano habló sobre su nuevo club y esta nueva etapa de su vida. Durante la conversación, destacó la importancia de **Moisés Caicedo**, a quien describió como un líder natural, que se ofreció a apoyarlo en su adaptación.
+Arroyo llevará el dorsal 18, un número con historia en la ‘Tri’, ya que fue utilizado por jugadores icónicos como **Carlos Tenorio y Néicer Reasco** en los mundiales de 2002 y 2006, respectivamente.
 
-“Moisés me escribió apenas llegué a Inglaterra y me dijo que, para cualquier cosa que necesite, lo contacte, **que está cerca y, si quiero ir a su casa, me recibiría con gusto**“, comentó Zambrano.
+El jugador de Independiente del Valle recibió su primera convocatoria a la selección absoluta en esta fecha FIFA, aunque inicialmente no fue parte de la lista principal, sino de un grupo de invitados por **Sebastián** **Beccacece**.
 
-Este gesto es crucial para los nuevos jugadores ecuatorianos que llegan al fútbol europeo. A diferencia de ‘Moi’, que cuando arribó a Inglaterra en febrero de 2021 no contaba con ningún compatriota, tuvo que adaptarse solo. Ahora, tres años después, **puede ofrecer su experiencia y apoyo** a otros jugadores.
-
-Óscar Zambrano en el Hull City
-------------------------------
-
-El Hull City, equipo del Championship, presentó el 16 de agosto de 2024 al mediocampista ecuatoriano **Óscar** **Zambrano**, apodado el ‘Mago de Oz’. El jugador llegó cedido por una temporada con opción de compra al final de la misma.
-
-Desde su arribo, Zambrano ha disputado cuatro partidos, acumulando 266 minutos. Aunque ha sido titular en cuatro de los cinco partidos, aún no ha jugado un encuentro completo. **Tiene un gol y una asistencia.**
-
-¿Cuántas veces puedo salir de Estados Unidos siendo residente?
-==============================================================
-
-Las autoridades establecen claramente qué pueden hacer los inmigrantes con green card.
---------------------------------------------------------------------------------------
-
-![Los residentes legales de EE. UU. viajan solo con su green card.](https://www.elcomercio.com/wp-content/uploads/2024/10/aeropuerto-usa-transformed.jpg)
-
-La **Oficina de Aduanas y Protección Fronteriza** de **Estados Unido**s (CBP, por sus siglas en inglés) detalló en un **documento oficial** de **asistencia** para los usuarios, sobre las **condiciones** de **salida** e **ingreso** del país para **residentes legales**[.](https://es.wikipedia.org/wiki/Green_Card "https://es.wikipedia.org/wiki/Green_Card")
-
-### Más noticias
-
-* [Sospechoso de intentar asesinar a Trump estuvo al acecho durante casi 12 horas en Florida](https://www.elcomercio.com/actualidad/mundo/sospechoso-intentar-asesinar-trump-estuvo-acecho-durante-12-horas-florida.html "Sospechoso de intentar asesinar a Trump estuvo al acecho durante casi 12 horas en Florida")
-* [Inscripción para lotería de visas arranca hoy, estos son los pasos](https://www.elcomercio.com/actualidad/negocios/loteria-de-visas-inscripcion-arranca-estos-son-pasos.html "Inscripción para lotería de visas arranca hoy, estos son los pasos")
-* [Rafael Correa y Jorge Glas, con prohibición de ingreso a Estados Unidos](https://www.elcomercio.com/actualidad/politica/rafael-correa-jorge-glas-con-prohibicion-de-ingreso-eeuu-corrupcion.html "Rafael Correa y Jorge Glas, con prohibición de ingreso a Estados Unidos")
-
-De acuerdo al **documento web**, toda persona que sea **residente permanente legal de Estados Unidos**, es decir, poseedor de una **green card**, puede **salir del país y volver a ingresar cuantas veces quiera,** siempre y cuando no supere el año en el exterior. Siempre y cuando los motivos de viaje impliquen la **permanencia** en el **extranjero** por hasta 12 meses, los migrantes que tengan **residencia legal** pueden viajar libremente sin **preocupaciones**.
-
-Para poder salir e **ingresar a Estados Unidos** de esta forma solo hace falta llevar consigo la **green card o bien la visa de regreso** para residentes, que sirve para que puedan volver al país tras permanecer más de un año fuera del país. La CBP destacó que si bien el **pasaporte no** es **estrictamente obligatorio**, no es una mala ideal llevarlo consigo cuando se emprende un **viaje internacional.**
-
-¿Cómo hacer para reingresar a Estados Unidos tras más de un año en el extranjero siendo extranjero?
----------------------------------------------------------------------------------------------------
-
-Según el documento de CBP, los **residentes permanentes legales de Estados Unidos** que necesiten viajar al **extranjero** y permanecer allí por más de un año, cuentan con la posibilidad de solicitar un **permiso de reingreso** a los Servicios de Inmigración y Ciudadanía de los Estados Unidos (Uscis, por sus siglas en inglés) antes de salir del país.
-
-![Imagen referencial. La oficina de Servicios de Inmigración y Ciudadanía de Estados Unidos notificó que ha recibido suficientes peticiones necesarias para alcanzar el límite. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2022/03/visa-700x391.jpg)
-
-Imagen referencial. Para ingresar a Estados Unidos por más de un año, se solicita un permiso especial a Uscis Foto: Pixabay
-
-Este **permiso** le da la posibilidad a **residentes permanentes** de EE. UU. de solicitar la **admisión** en el país al regresar del **extranjero** luego de permanecer allí más de un año. Estos **permisos** suelen otorgarse por dos años, período en que la persona puede **permanecer** en el **extranjero**; pasado ese tiempo se le podría negar el **reingreso** al país. Para poder solicitar un permiso de **reingreso** es necesario dirigir una solicitud a Uscis para el documento de viaje I-131 y aguardar la respuesta del **organismo**.
-
-Sebastián Beccacece y su admiración por Bielsa, más allá de lo táctico
-======================================================================
-
-Marcelo Bielsa, DT de Uruguay, marcó profundamente la vida del técnico de Ecuador Sebastián Beccacece. Hoy se enfrentarán en la cancha.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece, DT de la Selección de Ecuador en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/Beccaceceseleccionecuador.jpg)
-
-El destino ha querido que **Sebastián Beccacece**, actual director técnico de la **Selección de Ecuador**, se enfrente hoy a uno de sus más grandes referentes en el mundo del fútbol: **Marcelo Bielsa**, entrenador de la selección de **Uruguay.**
-
-Este encuentro, que se realizará en el emblemático Estadio Centenario de Montevideo a las 18:30 de este 15 de octubre de 2024, no solo es crucial para las eliminatorias sudamericanas hacia el Mundial de 2026, sino que representa un momento de gran importancia personal para Beccacece, de 43 años.
-
-### Más noticias:
-
-* [Los problemas de Marcelo Bielsa si Uruguay no gana a Ecuador](https://www.elcomercio.com/deportes/futbol/problemas-marcelo-bielsa-uruguay-ecuador.html "Los problemas de Marcelo Bielsa si Uruguay no gana a Ecuador")
-* [Selección de Ecuador quiere tomar ‘venganza’ contra Marcelo Bielsa](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-quiere-tomar-venganza-contra-marcelo-bielsa.html "Selección de Ecuador quiere tomar ‘venganza’ contra Marcelo Bielsa")
-* [Marcelo Bielsa culpó a Agustín Canobbio por derrota ante Ecuador](https://www.elcomercio.com/deportes/futbol/marcelo-bielsa-agustin-canobbio-ecuador.html "Marcelo Bielsa culpó a Agustín Canobbio por derrota ante Ecuador")
-
-Desde sus días de infancia en Rosario, Argentina, **Sebasitán Beccacece** lleva consigo la influencia de Bielsa, uno de los técnicos más renombrados de la actualidad y a quien considera una figura influyente en su carrera futbolística.
-
-El estratega de Ecuador recuerda con claridad cómo su padre lo llevaba junto con sus hermanos a ver a **Newell’s Old Boys**, el club donde Bielsa dejó una huella imborrable como técnico al consagrarse campeón argentino a inicios de los años 90.
-
-Aunque **Beccacece** no logró convertirse en futbolista, el deseo de ser entrenador nació también de su admiración por el ‘Loco’.
-
-“Partamos de la base que yo era rosarino hincha de Newell’s, en la época de Bielsa, cuando mi viejo nos llevaba siempre a la cancha, al estadio”, recordó Becaccece en una entrevista con Juan Pablo Varsky publicada en el canal Clank de YouTube.
-
-El hecho de que Bielsa era un DT con pocos partidos como jugador profesional fue también una motivación para el joven aspirante a director técnico. “Entonces, encontré ahí mi referente”, expresó Beccacece al recordar esos años.
-
-La admiración por Marcelo Bielsa
---------------------------------
-
-Desde esos días, su admiración ha crecido, convirtiéndose en un pilar fundamental de su filosofía futbolística.
-
-“Siempre fue mi referente. Es muy fuerte escucharlo hablar, ese nivel de convencimiento. Jugaba a adivinar los cambios en los partidos que veía de él. Entonces, como que había una relación que él desconocía, pero que para mí existía”, contó el **DT** de Ecuador al recordar a su par de la ‘Celeste’.
-
-La relación entre ambos se profundizó cuando **Bielsa** convocó a **Beccacece** en 2007, con permiso de Jorge Sampaoli, para unirse a un provisional equipo técnico, previo a asumir la dirección técnica de Chile.
-
-Entonces, en una pequeña oficina en Rosario ‘Becca’ se pasaba observando partidos y analizando situaciones de juego junto con otros expertos encabezados por el **‘Loco’ Bielsa**. “Soy eternamente agradecido con Marcelo”, aseguró Beccacece.
-
-El respeto y la admiración son evidentes, especialmente cuando habla del “poder de la palabra” de Bielsa y cómo ha influido en su forma de dirigir.
-
-A lo largo de su trayectoria, ‘Becca’ trabajó más de una década como asistente de **Jorge Sampaoli**, quien también es un gran admirador de Bielsa, el ‘Loco’ de 69 años que dirigió a las selecciones Argentina y Chile, además de clubes como Marcella (Francia), Leeds (inglaterra), Athletic (España), entre otros.
-
-Hoy, al enfrentarse a Bielsa en las eliminatorias sudamericanas para el Mundial 2026, **Beccacece** busca no solo un resultado positivo para Ecuador, sino también rendir homenaje a una figura que ha marcado su vida y carrera en el fútbol.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/Caho5eGLRIl/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Sebastian Beccacece (@sebabecca)](https://www.instagram.com/p/Caho5eGLRIl/?utm_source=ig_embed&utm_campaign=loading)
-
-La carrera de Sebastián Beccacece
----------------------------------
-
-**Sebastián Beccacece** comenzó su carrera en 2002 como asistente de **Jorge Sampaoli** en Perú, con Sport Boys, Coronel Bolognesi y luego **Sporting Cristal**.
-
-Para el 2010 realizaron una sensacional campaña con **Emelec**, pero perdieron la final por el título ante la Liga de Quito del ‘Patón’ Edgardo Bauza.
-
-Pero la balanza de la fortuna los favoreció cuando en 2011 ganaron varios títulos con la **Universidad de Chile**, incluida la **Copa Sudamericana**.
-
-En 2012, asumieron la dirección de la **Selección de Chile**, ganando la Copa América en 2015.
-
-En 2017, dirigieron a la Selección de Argentina, siendo eliminados en los octavos de final del Mundial 2018.
-
-Como DT principal, **Sebastián Beccacece** se separó de Jorge Sampaoli a finales de 2015 para entrenar a la Universidad de Chile y luego a Defensa y Justicia en 2017.
-
-También dirigió a **Independiente de Avellaneda**, Racing Club y Elche de España.
-
-Como entrenador principal, ganó la Recopa Sudamericana de 2021 con Defensa y Justicia.
-
-[Es DT de Ecuador desde agosto del 2024.](https://www.elcomercio.com/deportes/futbol/quien-es-sebastian-beccacece-nuevo-dt-seleccion-de-ecuador.html)
-
-![Enner Valencia (i) y Sebastián Beccacece en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/09/ecuador_analisis_1-1024x683.jpg)
-
-Enner Valencia (i) y Sebastián Beccacece en las eliminatorias al Mundial 2026.
-
-Un avión de Air India aterriza de emergencia en Canadá por una amenaza de bomba
-===============================================================================
-
-Air India señaló en un comunicado que el avión fue desviado a Iqaluit como precaución.
---------------------------------------------------------------------------------------
-
-![Vista de un avión de Air India, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/avion-india-canada-efe.jpg)
-
- Un [avión de Air](https://www.elcomercio.com/actualidad/mundo/washington-veta-vuelos-iran-riesgo.html "https://www.elcomercio.com/actualidad/mundo/washington-veta-vuelos-iran-riesgo.html") **India** que volaba de **Nueva Delhi** a **Chicago (EE.UU.)** realizó este martes, 15 de octubre de 2024, un **aterrizaje de emergencia** en la localidad canadiense de Iqaluit, en las regiones árticas del país, tras recibir una **amenaza de bomba**.
-
-### Más noticias
-
-* [Washington veta los vuelos comerciales de EE.UU. en el espacio aéreo de Irán](https://www.elcomercio.com/actualidad/mundo/washington-veta-vuelos-iran-riesgo.html "https://www.elcomercio.com/actualidad/mundo/washington-veta-vuelos-iran-riesgo.html")
-* [Momento en el que fuertes vientos impiden el aterrizaje de un avión](https://www.elcomercio.com/videos/momento-fuertes-vientos-aterrizaje-avion.html "https://www.elcomercio.com/videos/momento-fuertes-vientos-aterrizaje-avion.html")
-* [Boeing 737 MAX, última versión del avión comercial más vendido del mundo](https://www.elcomercio.com/actualidad/mundo/boeing-737-avion-accidente-etiopia.html "https://www.elcomercio.com/actualidad/mundo/boeing-737-avion-accidente-etiopia.html")
-
-El avión, un **Boeing 777-300ER**, aterrizó sin incidentes en el aeropuerto de Iqaluit, a unos **2 400 kilómetros** al noreste de Toronto, a las 5:20.
-
-La Policía Montada de Canadá señaló que las **211 personas que viajaban** en el avión desembarcaron en Iqaluit mientras se investigaba la amenaza de bomba.
-
-Air India señaló en un comunicado que el avión fue desviado a Iqaluit como **precaución** y añadió que en los últimos días la compañía ha recibido varias amenazas falsas contra sus vuelos.
-
-Temas diplomáticos
-------------------
-
-El **aterrizaje de emergencia** del avión de Air India se produce horas después de que el **Gobierno de Canadá** expulsara al embajador indio, **Sanjay Kumar Verma**, y a otros **cinco diplomáticos** del país asiático por estar relacionados con una **red criminal** implicada en e**l asesinato de un disidente** indio en territorio canadiense, así como por otros actos delictivos.
-
-En represalia por las seis expulsiones, la India tomó la misma medida contra el embajador canadiense en Nueva Delhi y otros cinco diplomáticos del país norteamericano.
-
-Asamblea posesiona al nuevo Superintendente de Compañías
-========================================================
-
-Nuevo Superintendente de Compañías acudió a la Asamblea, este 15 de octubre. "Daremos guerra a los actos de corrupción".
-------------------------------------------------------------------------------------------------------------------------
-
-![Luis Cabezas-Klaere es el nuevo superintendente de Compañías.](https://www.elcomercio.com/wp-content/uploads/2024/10/Luis-Cabezas.jpg)
-
-Ecuador cuenta con un nuevo superintendente de **Compañías, Valores y Seguros**. Se trata de **Luis Alberto Cabezas-Klaere**[.](https://es.wikipedia.org/wiki/Ecuador)
-
-La posesión del nuevo titular de la institución se dio este martes, 15 de octubre de 2024, en el Pleno de la **[Asamblea Nacional](https://www.asambleanacional.gob.ec/es)**.
-
-### Más noticias
-
-* [Pleno de la Asamblea tiene fecha para decidir juicio político contra Mónica Palencia](https://www.elcomercio.com/actualidad/politica/pleno-asamblea-fecha-juicio-politico-monica-palencia.html "Pleno de la Asamblea tiene fecha para decidir juicio político contra Mónica Palencia")
-* [Asamblea trata proyecto sobre energías renovables ante cortes de luz](https://www.elcomercio.com/actualidad/politica/asamblea-trata-proyecto-sobre-energias-renovables-ante-cortes-de-luz.html "Asamblea trata proyecto sobre energías renovables ante cortes de luz")
-* [Asamblea Nacional rindió homenaje por la Independencia de Guayaquil](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-rindio-homenaje-por-la-independencia-de-guayaquil.html "Asamblea Nacional rindió homenaje por la Independencia de Guayaquil")
-
-> 📌 En este momento en el Palacio Legislativo se desarrolla la continuación de la sesión N° 969. Sigue los detalles a minuto por las redes oficiales de la Asamblea Nacional, [@TvlEcuador](https://twitter.com/TvlEcuador?ref_src=twsrc%5Etfw) y [@LaRadioAsamblea](https://twitter.com/LaRadioAsamblea?ref_src=twsrc%5Etfw).  
->   
-> 1⃣ Himno Nacional de la República del Ecuador.  
-> 2⃣ Posesión de Luis Alberto… [pic.twitter.com/9NDJjlYFsL](https://t.co/9NDJjlYFsL)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [October 15, 2024](https://twitter.com/AsambleaEcuador/status/1846224484451426681?ref_src=twsrc%5Etfw)
-
-Nuevo Superintendente de Compañías
-----------------------------------
-
-**Luis Alberto Cabezas-Klaere** llega el cargo con base en la notificación efectuada por el **Consejo de Participación Ciudadana y Control Social (Cpccs)**.
-
-Esa definición se dio luego del proceso de designación del funcionario, de la terna enviada por el Presidente de la República, Daniel Noboa.
-
-La **Superintendencia de Compañías, Valores y Seguros** es un organismo técnico, con autonomía administrativa y económica.
-
-La entidad vigila y controla la organización, actividades, funcionamiento, disolución y liquidación de las **compañías** y otras entidades.
-
-La entidad controla, vigila y promueve el mercado de valores, el sector societario y de seguros. Esto mediante sistemas de **regulación** y servicios.
-
-La autoridad
-------------
-
-**Luis Cabezas-Klaere** es un abogado con un máster en Derecho Administrativo y Empresas. En su trayectoria consta como especialista en el Buen Gobierno.
-
-El nuevo **Superintendente de Compañías** ha ocupado cargos como secretario de la Junta Bancaria y fue delegado del Ejecutivo en el Consejo Nacional de Valores. También fue Secretario de la Superintendencia de Bancos, en 2011.
-
-El último cargo de **Luis Cabezas**–**Klaere** fue como gerente del **Banco del Instituto Ecuatoriano de Seguridad Social (Biess)**. Él tuvo que renunciar para poder ejercer la nueva titularidad, que contempla cinco años de funciones.
-
-El Funcionario fue posesionado luego de que el Pleno de la Asamblea Nacional rindió un minuto de silencio en memoria del ‘Último Hielero del Chimborazo’, **Baltazar Ushca**.
-
-**Viviana Veloz**, presidenta de la Asamblea, tomó el juramento a Cabezas, con lo que quedó legalmente posesionado.
-
-El plan de trabajo
-------------------
-
-Ante el Pleno de la Asamblea, **Luis Cabezas-Klaere** recordó que el Derecho Societario lo lleva en la sangre, una herencia de su padre, del mismo nombre.
-
-Según él, la meta es mejorar una institución que fue una de las más prestigiosas del país. En su plan de trabajo, dijo, estableció tres líneas estratégicas:
-
-* Control y supervisión
-* Fortalecimiento del modelo de gestión
-* Transformación digital e innovación
-
-Por otro lado, **Cabezas-Klaere** aseguró que actualizarán las normativas, con la ayuda de la academia. Los actores del mercado recibirán información sobre los cambios.
-
-**“Daremos guerra a los actos de corrupción”**. Este fue uno de los compromisos de Cabezas, durante su intervención.
-
-Además, ofreció habilitar un canal directo con la autoridad para quejas y denuncias. **“Los buenos servidores tendrán el respaldo de la institución, los pocos malos mejor que se retiren por su cuenta”**.
-
-El robot humanoide de Tesla era controlado remotamente
-======================================================
-
-Elon Musk quiere que la nueva versión del robot Optimus de Tesla se convierta en un asistente doméstico.
---------------------------------------------------------------------------------------------------------
-
-![Fotografía cedida por Tesla de su robotaxi Cybercab.](https://www.elcomercio.com/wp-content/uploads/2024/10/cybercab-robotaxi-efe.jpg)
-
-Las **interacciones** y **respuestas** del robot humanoide de **Tesla, Optimus,** en la presentación del pasado jueves, 10 de octubre de 2024, del taxi autónomo **Cybercab Robotaxi,** fueron guiadas remotamente por humanos, según asistentes.
-
-Más noticias
-------------
-
-* [Juez de Brasil embargó cuentas de Starlink para cobrar multas a Elon Musk](https://www.elcomercio.com/tecnologia/juez-de-brasil-embargo-cuentas-de-starlink-para-cobrar-multas-a-elon-musk.html "Juez de Brasil embargó cuentas de Starlink para cobrar multas a Elon Musk")
-* [Donald Trump dice que creará una comisión que fue idea de Elon Musk](https://www.elcomercio.com/actualidad/mundo/donald-trump-creara-comision-idea-elon-musk.html "Donald Trump dice que creará una comisión que fue idea de Elon Musk")
-* [Trump, Musk y Swift, las víctimas más populares de ‘deepfakes’ 2024](https://www.elcomercio.com/tendencias/donald-trump-taylor-swift-elon-musk-deepfakes.html "Trump, Musk y Swift, las víctimas más populares de ‘deepfakes’ 2024")
-
-Según indicó Robert Scoble, uno de los asistentes al evento de presentación del Robotaxi de Tesla en Los Ángeles, Optimus **“no es completamente IA. Es asistido remotamente**” y solo cuando caminaba el robot era realmente operado por inteligencia artificial.
-
-Marques Brownlee, uno de los creadores de contenido sobre tecnología se pronunció al respecto. “O estamos ante **la demo más grande jamás vista de robótica** y LLM (modelos de lenguaje similares ChatGPT o Claude). O (los Optimus) **están mayoritariamente operados por humanos.** No hay término medio”.
-
-No es totalmente autónomo
+El ascenso de Keny Arroyo
 -------------------------
 
-En la red social X, **Zhen** compartió un video en el que pregunta a Optimus si está siendo controlado remotamente. La respuesta del humanoide fue “**hoy estoy siendo asistido por un human**o, no soy totalmente autónomo todavía”.
+**Keny** **Arroyo** comenzó a consolidarse en el primer equipo de Independiente del Valle en 2024, tras haber debutado en 2023 bajo la dirección de Martín Anselmi. Sin embargo, fue con Javier Gandolfi que realmente ganó protagonismo.
 
-Un robot como asistente doméstico
----------------------------------
+En el primer semestre de la temporada, Arroyo sumó varios minutos, aunque principalmente como revulsivo. Disputó 18 partidos, de los cuales fue titular en solo cuatro, promediando poco más de 50 minutos por encuentro. A pesar de ello, logró **anotar un gol y dar dos asistencias**.
 
-La nueva versión del **robot Optimus de Tesla,** que Elon Musk quiere que se convierta en un **asistente doméstico** y laboral en el futuro, fue mostrada en el evento de presentación de **automóvil autónomo** del fabricante de **vehículos eléctricos bailando**. Sirvió bebidas, jugó y habló con los asistentes de manera fluida y sin errores.
+Su verdadero estallido llegó en la segunda mitad del año, aprovechando la baja de rendimiento de algunos compañeros, como Kendry Páez, para hacerse con un puesto en el once titular. En esta etapa, Arroyo ha disputado 12 partidos, nueve como titular, registrando tres goles y cuatro asistencias.
 
-La presentación del Cybercab Robotaxi no gustó a los mercados, que este viernes castigaron las acciones del **fabricante de vehículos eléctricos** con una caída del 8,78 % de su valor ante la falta de detalles de los planes de producción y comercialización.
+En total, a lo largo de la temporada 2024, Arroyo **ha jugado 32 partidos, con cuatro goles y seis asistencias**, consolidándose como una de las principales figuras del equipo.
 
-Elon Musk y el Cybercab
------------------------
+México tendrá la primeras elecciones judiciales en junio de 2025
+================================================================
 
-Musk, durante meses alimentó las expectativas al calificar el **Cybercab como un vehículo revolucionario** destinado a transformar para siempre el mundo del transporte y que catapultará la valuación bursátil de Tesla. No convenció con un evento que él mismo calificó de “fiesta”.
+La reforma al Poder Judicial levantó las críticas de diversos organismos internacionales.
+-----------------------------------------------------------------------------------------
 
-**Algunos analistas,** como Colin Langan, de Wells Fargo, criticaron que la **demostración que organizó Tesla** en los estudios Warner Bros. en Los Ángeles con **50 vehículos autónomos,** entre ellos varias unidades del Cybercab, fue poco más que un montaje.
+![La secretaria de Gobernación (SG) de México, Rosa Icela Rodríguez habla este lunes durante una conferencia de prensa en Palacio Nacional de la Ciudad de México (México).](https://www.elcomercio.com/wp-content/uploads/2024/10/secretaria-gobernacion-mexico.jpg)
 
-El jueves, Musk se limitó a señalar que el **Cybercab** tendrá un precio de entre 20 000 y 30 000 dólares, que entrará en producción “antes de 2027” y que cargará sus baterías por inducción en vez de con un enchufe.
+Un total de 850 **cargos judiciales** son los primeros que se elegirán en las **primeras elecciones** del 1 de junio del 2025, tras la **reforma al Poder Judicial** promulgada el pasado 15 de septiembre. Al respecto informó el lunes 14 de octubre de 2024, el Gobierno de México.
 
-Un taxi sin conductor
----------------------
+“Se acordó que serán **850 cargos judiciales** los que se elegirán por voto popular en la elección extraordinaria del 1 de junio de 2025”, señaló la secretaria de Gobernación, Rosa Icela Rodríguez.
 
-Elon Musk presentó en Los Ángeles el Cybercab, **el taxi sin conductor de Tesla,** que el empresario prevé que empezará a ser producido en 2026.
+¿Cómo se definieron las elecciones judiciales en México?
+--------------------------------------------------------
 
-Musk añadió que el Cybercab **revolucionará el transporte de personas** porque su coste por kilómetro será 20 centavos, una quinta parte del de un autobús público.
+Esto se logró luego de que el sábado el Senado se llevara a cabo una **tómbola o insaculación** para seleccionar las vacantes del Poder Judicial que se elegirán en 2025.
 
-“Va a ser increíble”, declaró el empresario que llegó a la **presentación del vehículo** como pasajero de un Cybercab tras navegar sin conductor las calles de los estudios de Warner Bros. en Los Ángeles.
+Al respecto, Rodríguez explicó que avanzó la implementación de la **reforma constitucional** que dicta la elección de jueces por voto popular.
 
-Sin volante ni pedales
-----------------------
+Recordó que el sábado, después de una **sesión de siete horas**, el Senado mexicano designó, a través de la tómbola, que los primeros puestos sometidos a **elección popular son 464 magistraturas** y 386 juzgados federales.
 
-Musk explicó que el vehículo es un **automóvil estilizado plateado de dos puertas** cuyas baterías se recargan por inducción en vez de conectarse con un enchufe. No cuenta ni con volante ni con pedales de aceleración o frenado.
+Cargos del Consejo de la Judicatura
+-----------------------------------
 
-“Salvará vidas, muchas, y evitará lesiones”, afirmó entre los gritos de aprobación de la audiencia que asistió por invitación al evento.
+Explicó que esto se **determinó con un sorteo** tras dividir los cargos que tenía el Consejo de la Judicatura Federal (CJF) en números pares e impares para así proceder a la insaculación.
 
-El empresario aseguró que los vehículos autónomos serán 10 veces más seguros que los automóviles conducidos por humanos.
+Señaló que para estas primeras elecciones se consideraron 711 puestos que surgieron por insaculación, 350 de ellos de tribunales y **361 de juzgados de distrito**.
 
-¿Hacia dónde mirar para ver el Cometa Tsuchinshan-ATLAS en Ecuador?
-===================================================================
+Además, se apuntaron **114 espacios vacantes,** renuncias y/o retiros programados de magistrados, así como de 25 jueces de distritos que se integraron de manera directa.
 
-El 27 de octubre de 2024, los cielos de Ecuador brindarán una vista especial para los entusiastas de la astronomía. El cometa Tsuchinshan-ATLAS, descubierto en enero de 2023 por el Observatorio de la Montaña Púrpura en China, será visible a simple vista. Según el Observatorio Astronómico de Quito, este cometa podrá observarse en dirección este, \[…\]
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+“Hay que aclarar que en **ambos casos magistraturas y juzgados**, las listas que resultaron seleccionadas mediante una urna fueron las de números impares”, señaló.
 
-![Cometa Tsuchinshan-ATLAS visto desde el sector de San José de Morán en Calderón. Foto: Julio Estrella/ EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/10/cometa-tsushinshan-El-comercio.jpg)
+Lo que viene ahora
+------------------
 
-El 27 de octubre de 2024, los cielos de Ecuador brindarán una vista especial para los entusiastas de la astronomía. El **cometa Tsuchinshan-ATLAS**, descubierto en enero de 2023 por el **Observatorio de la Montaña Púrpura en China**, será visible a simple vista.
+Asimismo, Rodríguez aclaró que los puestos a renovarse fueron **“elegidos completamente al azar”**, por lo que se garantizó la imparcialidad y el respeto “en todo momento” de los derechos humanos de los juzgadores.
 
-Según el [Observatorio Astronómico de Quito](https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/647-boletin-de-prensa-el-beso-cosmico-del-cometa-tsuchinshan-atlas "https://oaq.epn.edu.ec/index.php/publicaciones/noticias-y-eventos/noticias-2024/647-boletin-de-prensa-el-beso-cosmico-del-cometa-tsuchinshan-atlas"), este cometa podrá observarse en dirección este, en la constelación del Sextante, con una magnitud de 0.8, un brillo lo suficientemente intenso para disfrutar del fenómeno sin necesidad de equipos avanzados.
+También aclaró que se decidió no incluir ocho **plazas de juzgadoras** con permisos de maternidad.
 
-### Más noticias
+Además, detalló que el próximo 16 de octubre, a más tardar, el **Senado emitirá la convocatoria general** para que se integren los Comités de Evaluación, mientras que el 31 de enero de 2025 se seleccionarán a los finalistas.
 
-* **[Nobel de Física, para Hopfield y Hinton por contribución a la IA](https://www.elcomercio.com/tendencias/ciencia/nobel-de-fisica-para-hopfield-y-hinton-por-contribucion-a-ia.html "https://www.elcomercio.com/tendencias/ciencia/nobel-de-fisica-para-hopfield-y-hinton-por-contribucion-a-ia.html")**
-* **[Investigadores describen nueva especie de rana de la Amazonía](https://www.elcomercio.com/tendencias/ciencia/investigadores-describen-nueva-especie-rana-descubierta-amazonia.html "https://www.elcomercio.com/tendencias/ciencia/investigadores-describen-nueva-especie-rana-descubierta-amazonia.html")**
+Será el 5 de febrero cuando se obtengan **tres candidaturas** propuestas por cada Poder (Ejecutivo, Legislativo y Judicial) por cada cargo de **ministro de la Suprema Corte**, magistrado electoral y magistrado del nuevo Tribunal de Disciplina Judicial, y **dos candidaturas de cargo de juez de distrito** y magistrado de circuito.
 
-Es decir, si te encuentras en el Centro Histórico de Quito debes ver en dirección del Pichincha, por El Tejar o San Juan.
+En tanto, el año próximo, del 30 de marzo al 18 de mayo será el **periodo de campañas,** el 1 de junio será la elección y será el 1 de septiembre cuando asuman los nuevos cargos.
 
-Recomendaciones para una mejor observación
-------------------------------------------
+La **reforma al Poder Judicial** levantó las críticas de **diversos organismos internacionales** que aseguran que pone en riesgo el Estado de derecho en el país.
 
-Aunque el cometa será visible sin telescopios, se recomienda el uso de binoculares o un telescopio pequeño para disfrutar de una observación más detallada de su brillante y característica cola.
+Colombia golea y hunde a Chile en las eliminatorias
+===================================================
 
-Su paso más cercano a la Tierra ocurrió el pasado 12 de octubre, cuando alcanzó los 71 millones de kilómetros de distancia, mostrando un espectáculo astronómico con una cola de tono morado.
+Colombia festeja una goleada que los acerca al Mundial 2026, mientras Chile se hunde en la tabla de clasificación de las eliminatorias.
+---------------------------------------------------------------------------------------------------------------------------------------
 
-El cometa, cuyo nombre en mandarín significa “Montaña Verde de Tierra”, ha captado el interés de la comunidad científica y astronómica por su inusual trayectoria.
+![Santiago Arias (izq.) de Colombia disputa el balón con Gonzalo Tapia de Chile en las eliminatorias sudamericanas para el Mundial de 2026, en el estadio Metropolitano en Barranquilla (Colombia).](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-57.jpg)
 
-El 27 de septiembre alcanzó su perihelio, es decir, el punto más cercano al Sol, lo que permitió que su visibilidad aumentara hasta alcanzar una magnitud de 0,4. Este fenómeno hace que el cometa sea tan brillante como muchas estrellas.
+**Colombia** venció por goleada a **Chile** en **Barranquilla** el martes 15 de octubre de 2024, sumando así tres valiosos puntos en las eliminatorias sudamericanas hacia el **Mundial 2026.**
 
-Tsuchinshan-ATLAS se alejará de la Tierra en noviembre y no volverá a ser visible en 80.000 años, dice un artículo de la BBC. La combinación de eventos como el eclipse solar y el paso del cometa han hecho del 2024 un año destacado en fenómenos astronómicos.
+Con este contundente triunfo de 4-0, el equipo dirigido por **Néstor Lorenzo** alcanzó los 19 puntos en la tabla de posiciones, consolidándose en el segundo lugar, solo por detrás de Argentina.
 
-Javier Milei asegura que universidad pública seguirá sin arancel en medio de protestas
-======================================================================================
+### Más noticias:
 
-Milei vetó recientemente una ley que garantizaba una mayor financiación para las universidades públicas nacionales.
--------------------------------------------------------------------------------------------------------------------
+* [Colombia y Ecuador jugarán en un nuevo horario por las eliminatorias al Mundial 2026](https://www.elcomercio.com/deportes/futbol/colombia-ecuador-nuevo-horario-eliminatorias-mundial2026.html "Colombia y Ecuador jugarán en un nuevo horario por las eliminatorias al Mundial 2026")
+* [Bolivia, con uno menos, se encamina al Mundial 2026 ante Colombia](https://www.elcomercio.com/deportes/bolivia-partido-colombia-eliminatorias-mundial-2026.html "Bolivia, con uno menos, se encamina al Mundial 2026 ante Colombia")
+* [Selección de Ecuador aspira a una victoria histórica ante una golpeada Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-aspira-victoria-historica-ante-golpeada-uruguay.html "Selección de Ecuador aspira a una victoria histórica ante una golpeada Uruguay")
 
-![Estudiantes realizan clases frente a la facultad de Ciencias Sociales de la Universidad de Buenos Aires en rechazo al veto a la ley de financiamiento universitario este martes, en Buenos Aires (Argentina).](https://www.elcomercio.com/wp-content/uploads/2024/10/estudiantes-argentina-efe.jpg)
+El partido se abrió a los 34 minutos gracias a un gol de **Davinson Sánchez**. Luego, Luis Fernando Díaz anotó a los 52′, Jhon Durán a los 82′ y Luis Sinisterra a los 90+3′.
 
-El presidente de Argentina, [Javier Milei](https://www.elcomercio.com/actualidad/mundo/javier-milei-nobel-economia.html "https://www.elcomercio.com/actualidad/mundo/javier-milei-nobel-economia.html"), afirmó este martes, 15 de octubre de 2024, que “no está en discusión” la **universidad pública** y no arancelada, en medio de las **protestas de los estudiantes** que tomaron varias casas de estudio en busca de un mayor presupuesto.
+Un 4-0 contunde que bien pudo ser más amplio.
 
-### Más noticias
+Este tanto fue clave para encaminar la victoria y dar confianza a los **cafeteros**, que durante el encuentro mostraron una sólida actuación defensiva y un juego ofensivo efectivo.
 
-* [Paro de 24 horas de trabajadores de Aerolíneas Argentinas afecta a unos 37 000 pasajeros](https://www.elcomercio.com/actualidad/mundo/paro-24-horas-trabajadores-aerolineas-argentinas-afecta-37-000-pasajeros.html "Paro de 24 horas de trabajadores de Aerolíneas Argentinas afecta a unos 37 000 pasajeros")
-* [El conflicto universitario se agudiza en Argentina](https://www.elcomercio.com/actualidad/mundo/conflicto-universitario-agudiza-en-argentina.html "El conflicto universitario se agudiza en Argentina")
-* [Diputados sostienen el veto de Javier Milei a reforma jubilatoria entre protestas](https://www.elcomercio.com/actualidad/mundo/diputados-sostienen-veto-milei-reforma-jubilatoria-protestas.html "https://www.elcomercio.com/actualidad/mundo/diputados-sostienen-veto-milei-reforma-jubilatoria-protestas.html")
+Con la derrota, Chile se queda **último** en la clasificación con solo 5 puntos.
 
-“No está en discusión la **universidad pública y** tampoco está en discusión que sea no arancelada”, dijo Milei en una entrevista en el canal LN+, donde agregó: “Nosotros lo que queremos discutir es **que sean auditadas**“.
+Colombia firme en las eliminatorias
+-----------------------------------
 
-Estudiantes se toman facultades
--------------------------------
+Colombia ha tenido un buen rendimiento en las eliminatorias, con cinco victorias, cuatro empates y solo una derrota en diez partidos.
 
-Estas declaraciones de Milei se formulan en medio de las **tomas de estudiantes** a varias facultades de la universidad pública, en una semana de **defensa gremial** junto con el **movimiento estudiantil,** mediante un paro, clases públicas, cortes de calle y demás protestas en reclamo de mejoras salariales y presupuestarias.
+Solo [Bolivia superó a los cafeteros](https://www.elcomercio.com/deportes/bolivia-partido-colombia-eliminatorias-mundial-2026.html), precisamente en la fecha 9 de las eliminatorias.
 
-Conflicto entre Gobierno, profesores, alumnos y autoridades
------------------------------------------------------------
+En la próxima jornada, **Colombia** enfrentará a **Uruguay** como visitante el 15 de noviembre y regresará a Barranquilla para medirse contra Ecuador el 19 de noviembre del 2024.
 
-Milei **vetó recientemente una ley** que garantizaba una **mayor financiación** para las universidades públicas nacionales, a las que acuden cerca de **2 millones de estudiantes**, lo que profundizó el conflicto entre el **Gobierno y profesores, alumnos y autoridades** de las casas de altos estudios.
+Sin embargo, este partido ha cambiado de horario. Ahora, el encuentro contra Ecuador se jugará el 19 de noviembre a las 18:00, según lo anunciado por la **[FIFA.](https://es.wikipedia.org/wiki/FIFA)**
 
-El presidente argentino agregó el sábado 12 de octubre de 2024, pasado en un acto que “la **universidad pública nacional** hoy no le sirve a nadie más que a los **hijos de la clase alta** y los ricos y la clase media alta” y que “el mito de la universidad gratuita se convierte en un **subsidio de los pobres hacia los ricos,** cuyos hijos son los únicos que llegan a la universidad”.
+Con su reciente victoria, el ambiente en el campamento cafetero es optimista.
 
-Este martes, Milei asistió al estudio de televisión, donde insistió que “**está fuera de discusión”** la universidad pública y que sea no arancelada, pero aclaró que **“gratuita no es” porque “**alguien la está pagando. La pagan los que no van. El que va es un beneficiario neto. El que no va es pagador neto. Gratis no es”.
+El desafío ante Uruguay y el choque con Ecuador serán cruciales para sus aspiraciones en esta campaña clasificatoria.
 
-Milei cuestionó a quienes se niegan a que las universidades públicas sean auditadas: “Si no quiere ser auditado, es porque es un **chorro (ladrón**)” y afirmó que no quieren ser auditados “porque la política utiliza las universidades para financiarse”.
+Los aficionados esperan que el equipo continúe demostrando su fortaleza en la búsqueda de un lugar en la próxima **Copa del Mundo.**
 
-“Todo este revuelo (por las tomas de las universidades) es tomar una causa noble como es la causa de la **universidad pública no arancelada**” y “ocultar los curros de los delincuentes”, dijo Milei, porque sospecha que el presupuesto universitario sin control se utiliza para financiar a dirigentes políticos que fogonean estas protestas.
+Alineaciones la Selección de Ecuador y Uruguay en eliminatorias
+===============================================================
 
-Respecto del Presupuesto 2025 que se debate en el Congreso, donde el Ejecutivo propone la mitad de los recursos que piden las universidades, Milei afirmó que “**si los diputados deciden darle esa partida a las universidades**“, “tienen que bajar otra partida”, porque “el déficit (fiscal) cero no se negocia”.
+La Selección de Ecuador y Uruguay tienen sus alineaciones definidas para enfrentarse en las eliminatorias rumbo al Mundial 2026.
+--------------------------------------------------------------------------------------------------------------------------------
 
-La **Federación Nacional de Docentes Universitarios** citó para este jueves a un paro de 24 horas, en una convocatoria que reza que **“se profundiza el plan de lucha”** porque “con docentes y no docentes bajo la línea de pobreza, no hay universidad posible”.
+![Jugadores de la Selección de Ecuador en el estadio Rodrigo Paz en el camino al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/alineacion_ecu_uru_1.jpg)
+
+La **Selección de Ecuador y Uruguay** medirán fuerzas en el inicio de los duelos de revancha de las eliminatorias sudamericanas. Los equipos se enfrentarán en el marco de la décima fecha de los duelos rumbo al Mundial 2026.
+
+Para el duelo, ambos equipos llegan en zona de clasificación, sin embargo, sus recientes resultados han sido intermitentes y dependen de una victoria para solidificarse en la mitad alta de la tabla. En su último duelo, **la Tri** empató ante **Paraguay** como local, mientras que la ‘Celeste’ fue derrotada por Perú fuera de casa.
+
+### Más noticias:
+
+* [Beccacece busca hacer historia con la Selección de Ecuador ante Uruguay](https://www.elcomercio.com/deportes/sebastian-beccacece-seleccion-ecuador-uruguay-historia.html "Beccacece busca hacer historia con la Selección de Ecuador ante Uruguay")
+* [Sebastián Beccacece y su arranque irregular con la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-arranque-irregular-beccacece-uruguay.html "Sebastián Beccacece y su arranque irregular con la Selección de Ecuador")
+* [¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-beccacece-bielsa.html "¿Cómo pueden jugar la Selección de Ecuador y Uruguay en eliminatorias?")
+
+Uruguay contará con la localía a su favor en un cotejo que se llevará a cabo en el **Estadio Centenario de Montevideo** a las 18:00 de este martes 15 de octubre del 2024. Asimismo, la escuadra arriba en una posición superior, pues se encuentra en la tercera posición con **15 unidades**; la Tri es quinta y tiene **12 puntos.**
+
+El choque significará un reto para el combinado ecuatoriano dado su historial territorio uruguayo. Como visitante ante la ‘Celeste’, el plantel que dirige _Sebastián Beccacece_ no solo está abajo en cuanto a resultados, sino que nunca ha podido ganar.
+
+Antes del viaje hacia **Montevideo**, Beccacece aseguró que el cotejo es una oportunidad para hacer historia, aunque se necesita la concentración máxima de sus jugadores. A su vez, tal partido luce como un termómetro para su gestión con el equipo tras una derrota, un triunfo y un empate desde su llegada.
+
+Pese a los factores que lo ponen como favorito, **Uruguay** tampoco es ajeno a condicionantes. Previo a su última caída con **Perú** y al cotejo venidero, parte de los futbolistas se quejaron del **DT Marcelo Bielsa** y este reconoció que aquello afectó su autoridad en el plantel.
+
+Beccacece confía en tres defensores y Bielsa vuelve al 4-3-3
+------------------------------------------------------------
+
+En función de los partidos previos de Beccacece con la **Selección de Ecuador**, esta apunta a saltar a la cancha con un esquema de tres zagueros centrales. Los carrileros podrán instalarse a la par de la defensa y el **mediocampo** de forma gradual, por lo que la línea de fondo variará entre tres y cinco defensores.
+
+La zona central de la cancha y su pasillo del medio estarán poblados por dos jugadores que buscarán asociarse en punto con el nueve de área y dos extremos. Los **dos volantes centrales** tendrán apoyo en las bandas tanto de los **carrileros** como de los extremos, quienes pueden avanzar o retroceder en su banda[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+En el caso de **Bielsa**, que recupera jugadores tras una suspensión de la Copa América, este podrá retornar su habitual **4-3-3** a la Selección de Uruguay. De tal manera, en el centro de la cancha habrá un volante de recuperación que se asocie con dos mixtos y de salida, los cuales enlazarán el juego con la delantera.
+
+Posibles alineaciones de la Selección de Ecuador y Uruguay
+----------------------------------------------------------
+
+### Selección de Ecuador
+
+Hernán Galíndez; Félix Torres, Piero Hincapié, Willian Pacho; **Angelo Preciado, Pervis Estupiñán, Alan Franco** y Moisés Caicedo; Gonzalo Plata, Alan Minda y Enner Valencia.
+
+### Selección de Uruguay
+
+Sergio Rochet; Mathías Olivera, Santiago Bueno, José María Giménez y Nahitan Nández; **Giorgian De Arrascaeta, Manuel Ugarte Ribeiro y Federico Valverde**; Maximiliano Araújo, Facundo Pellistri y Darwin Núñez.
+
+No te pierdas – El Confesionario
+--------------------------------
