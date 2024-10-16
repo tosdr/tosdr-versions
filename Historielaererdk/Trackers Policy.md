@@ -2545,7 +2545,7 @@ Populært i denne måned
 * [![Boligblokke i Nuuk, Grønland](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63614-featured-50x50.jpg)](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) [LUKKET FOR TILMELDING, FULDT BOOKET — Grøn­land i histo­rie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) 120 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63520-featured-50x50.jpg)](https://historielaerer.dk/kurser/historiedidaktik-2-0/) [Histo­ri­e­di­dak­tik 2.0](https://historielaerer.dk/kurser/historiedidaktik-2-0/) 106 visninger | af [Emilie Kjersgaard](https://historielaerer.dk/author/emilienielsen/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63755-featured-50x50.jpg)](https://historielaerer.dk/kurser/kursus-om-rusland-og-putins-historiebrug/) [AFLYST — KURSUS om Rusland og Putins historiebrug](https://historielaerer.dk/kurser/kursus-om-rusland-og-putins-historiebrug/) 85 visninger | af [Benny Larsen](https://historielaerer.dk/author/benny/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63654-featured-50x50.png)](https://historielaerer.dk/historiekonkurrencen-24-25/) [Histo­rie­kon­kur­ren­cen 24/25: Bæredygtighed](https://historielaerer.dk/historiekonkurrencen-24-25/) 68 visninger | af [Trine Villumsen & Margen Ott](https://historielaerer.dk/author/trinemunkens/?mab_v3=63654)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63654-featured-50x50.png)](https://historielaerer.dk/historiekonkurrencen-24-25/) [Histo­rie­kon­kur­ren­cen 24/25: Bæredygtighed](https://historielaerer.dk/historiekonkurrencen-24-25/) 69 visninger | af [Trine Villumsen & Margen Ott](https://historielaerer.dk/author/trinemunkens/?mab_v3=63654)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63754-featured-50x50.jpg)](https://historielaerer.dk/noter-242-italien/) [Noter #242 — Italien](https://historielaerer.dk/noter-242-italien/) 63 visninger | af [Kristian B. Arentsen & tina@historielaerer.dk](https://historielaerer.dk/author/kristianb-arentsen/?mab_v3=63754)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/42334-featured-50x50.jpg)](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) [The impa­ct of French Colo­ni­a­lism on Tunisia](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) 57 visninger | af [Feiza Abidi](https://historielaerer.dk/author/feizaabidi/)
 * [![logo](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63788-featured-50x50.png)](https://historielaerer.dk/kurser/hasseris-kursus-ilden-braender-igen-tysklands-paa-vej-fra-askens-stoev-til-den-frie-verdens-haab/) [Has­se­ris-kur­sus: Ilden bræn­der igen — Tys­klands på vej fra askens støv til den frie ver­dens håb](https://historielaerer.dk/kurser/hasseris-kursus-ilden-braender-igen-tysklands-paa-vej-fra-askens-stoev-til-den-frie-verdens-haab/) 52 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
@@ -2634,6 +2634,14 @@ Sparring med fagkonsulent Karen Steller Bjerregaard.
 For ALLE gymnasiale historielærere, det kræver ikke medlemsskab af historielærerforeningen, kun en konto her på hjemmesiden.
 
 [Vis gruppen](https://historielaerer.dk/grupper/fagkonsulenten/)
+
+### Nye foru­mind­læg
+
+* [Valg af ava­tar 2025](https://historielaerer.dk/fora/emne/valg-af-avatar-2025/)
+* [Ide­er til at ind­dra­ge AI i historie](https://historielaerer.dk/fora/emne/ideer-til-at-inddrage-ai-i-historie/)
+* [Kur­su­søn­sker 2024](https://historielaerer.dk/fora/emne/kursusoensker-2024/)
+* [Mad­hi­sto­rie](https://historielaerer.dk/fora/emne/madhistorie/)
+* [Valg af ava­tar 2024](https://historielaerer.dk/fora/emne/valg-af-avatar-2024/)
 
 Trender
 -------
