@@ -556,9 +556,7 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Life is Strange: Double Exposure Ultimate Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/l/i/life_is_strange_double_exposure_ultimate_edition_1_.jpg)   No 1. \-29%
-    
-    Pre-order](https://www.cdkeys.com/pc/life-is-strange-double-exposure-ultimate-edition-pc-steam)
+1.    [![Life is Strange: Double Exposure Ultimate Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/l/i/life_is_strange_double_exposure_ultimate_edition_1_.jpg)   No 1. \-29%](https://www.cdkeys.com/pc/life-is-strange-double-exposure-ultimate-edition-pc-steam)
     
     **[Life is Strange: Double Exposure Ultimate Edition PC](https://www.cdkeys.com/pc/life-is-strange-double-exposure-ultimate-edition-pc-steam "Life is Strange: Double Exposure Ultimate Edition PC")**
     
