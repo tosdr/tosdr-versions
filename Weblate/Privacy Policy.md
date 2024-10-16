@@ -219,7 +219,7 @@ Las presentes Condiciones Generales entrarán en vigor el 15 de mayo de 2023.
 
 Copyright © [Michal Čihař](https://cihar.com/) • [Bajo licencia GNU GPLv3+](https://docs.weblate.org/es/latest/contributing/license.html)
 
-[Terms](https://weblate.org/es/terms/) • [Privacy](https://weblate.org/es/privacy/) • Diseñado por [Vita Valka](https://vitavalka.com/)
+[Términos](https://weblate.org/es/terms/) • [Privacidad](https://weblate.org/es/privacy/) • Diseñado por [Vita Valka](https://vitavalka.com/)
 
 [Weblate](https://weblate.org/es/)
 
