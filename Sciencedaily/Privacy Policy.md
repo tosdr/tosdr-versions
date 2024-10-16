@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Toward Fully 3D-Printed Active Electronics](https://www.sciencedaily.com/releases/2024/10/241015141022.htm)
 * [Liftoff! NASA's Europa Clipper](https://www.sciencedaily.com/releases/2024/10/241014145904.htm)
 * [Mysterious Heating of the Sun's Atmosphere](https://www.sciencedaily.com/releases/2024/10/241011141015.htm)
 * [Evolution in Real Time](https://www.sciencedaily.com/releases/2024/10/241011140950.htm)
@@ -217,7 +218,6 @@ this hour
 * [Electron 'Pinball' in Space After Lightning](https://www.sciencedaily.com/releases/2024/10/241010142536.htm)
 * [Playing Songs to Darwin's Finches: New Species](https://www.sciencedaily.com/releases/2024/10/241010142532.htm)
 * [New Tech Improves Structural Strength](https://www.sciencedaily.com/releases/2024/10/241009215431.htm)
-* [3D Printing Method: Unique Objects Quickly](https://www.sciencedaily.com/releases/2024/10/241011141558.htm)
 
 Trending Topics
 ---------------
@@ -228,9 +228,9 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
-
 [Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
+
+[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
@@ -238,17 +238,17 @@ this week
 
 [Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
-[Neural Interfaces](https://www.sciencedaily.com/news/computers_math/neural_interfaces/)
-
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
+
+[Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Human Evolution](https://www.sciencedaily.com/news/fossils_ruins/human_evolution/)
+[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
 
-[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
+[Human Evolution](https://www.sciencedaily.com/news/fossils_ruins/human_evolution/)
 
   
 
