@@ -97,31 +97,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 382 1
+0 394 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-roguecolonel303-6/)
+[](https://yiff-party.com/yiff-ai-premium/faye-directed-by-sagrael-2/)
 
-[directed by roguecolonel303](https://yiff-party.com/yiff-ai-premium/directed-by-roguecolonel303-6/)
+[faye directed by sagrael](https://yiff-party.com/yiff-ai-premium/faye-directed-by-sagrael-2/)
 
 0 1 0
 
 October 16, 2024
 
-[](https://yiff-party.com/yiff/scp-1471-and-scp-1471-a-microsoft-windows-and-etc-created-by-l3nkart/)
+[](https://yiff-party.com/yiff/mythology-and-etc-created-by-anglo/)
 
-[scp-1471 and scp-1471-a (microsoft windows and etc) created by l3nkart](https://yiff-party.com/yiff/scp-1471-and-scp-1471-a-microsoft-windows-and-etc-created-by-l3nkart/)
+[mythology and etc created by anglo](https://yiff-party.com/yiff/mythology-and-etc-created-by-anglo/)
 
-0 120 0
+0 94 0
 
 September 16, 2024
 
-[](https://yiff-party.com/yiff/judy-hopps-zootopia-and-etc-created-by-joaoppereiraus/)
+[](https://yiff-party.com/yiff-ai-premium/chel-directed-by-contextualcritters/)
 
-[judy hopps (zootopia and etc) created by joaoppereiraus](https://yiff-party.com/yiff/judy-hopps-zootopia-and-etc-created-by-joaoppereiraus/)
+[chel directed by contextualcritters](https://yiff-party.com/yiff-ai-premium/chel-directed-by-contextualcritters/)
 
-0 111 0
+0 58 0
 
 September 16, 2024
 
