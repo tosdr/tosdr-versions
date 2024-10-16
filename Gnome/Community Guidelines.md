@@ -1,4 +1,4 @@
-This site is planned for retirement ‒ see the [migration guide](https://hedgedoc.gnome.org/wiki-migration-guide#)
+This site is planned for retirement on 23 October 2024 ‒ see the [migration guide](https://hedgedoc.gnome.org/wiki-migration-guide#)
 
 [![](https://static.gnome.org/img/gnome-logo.svg)](https://wiki.gnome.org/)
 
