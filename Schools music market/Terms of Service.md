@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/garageband-reference-guide/)
+ [](https://schoolsmusicmarket.com/product/rhythm-syllables-stick-notation-minamilist-boho-series-display-poster/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/notes-on-the-recorder-display-chart/)
+ [](https://schoolsmusicmarket.com/product/emojis-musical-reflection-worksheet/)
 
 ###### Browse By Year/Grade
 
