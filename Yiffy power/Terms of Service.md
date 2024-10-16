@@ -97,33 +97,33 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 422 1
+0 435 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/everest-directed-by-humphreyomega-2/)
+[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-carbyrara/)
 
-[everest directed by humphreyomega](https://yiff-party.com/yiff-ai-premium/everest-directed-by-humphreyomega-2/)
+[nintendo and etc created by carbyrara](https://yiff-party.com/yiff/nintendo-and-etc-created-by-carbyrara/)
 
 0 2 0
 
-October 16, 2024
+October 17, 2024
 
-[](https://yiff-party.com/yiff/adrian-iliovici-and-milo-stefferson-created-by-tokifuji/)
+[](https://yiff-party.com/yiff/directed-by-anubiten-director/)
 
-[adrian iliovici and milo stefferson created by tokifuji](https://yiff-party.com/yiff/adrian-iliovici-and-milo-stefferson-created-by-tokifuji/)
+[directed by anubiten (director)](https://yiff-party.com/yiff/directed-by-anubiten-director/)
 
-0 155 0
+0 106 0
 
-September 16, 2024
+September 17, 2024
 
-[](https://yiff-party.com/yiff/toriel-undertale-series-created-by-redactedinlight/)
+[](https://yiff-party.com/yiff/toriel-undertale-series-created-by-albertomangala/)
 
-[toriel (undertale (series)) created by redactedinlight](https://yiff-party.com/yiff/toriel-undertale-series-created-by-redactedinlight/)
+[toriel (undertale (series)) created by albertomangala](https://yiff-party.com/yiff/toriel-undertale-series-created-by-albertomangala/)
 
-0 123 0
+0 60 0
 
-September 16, 2024
+September 17, 2024
 
 [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
