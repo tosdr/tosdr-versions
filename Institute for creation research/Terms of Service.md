@@ -166,63 +166,31 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Creation Science Update
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/ordinary-matters)
+[![](/i/Main%20Stage%20-%201400x1050/sunflowersees_1400x1050.jpg)](https://www.icr.org/article/sunflowers-see-sun)
 
-[Ordinary Matters](https://www.icr.org/article/ordinary-matters/)
+[How Sunflowers ''See'' the Sun](https://www.icr.org/article/sunflowers-see-sun/)
 
-“Be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.”...
+Sunflowers (Helianthus annuus) are not only big and beautiful, but they also have an amazing biomechanism called heliotropism. ICR’s Dr. Jim...
 
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/him-no-darkness)
+[![](/i/Main%20Stage%20-%201400x1050/BeeConstruct_1400x1050.jpg)](https://www.icr.org/article/honey-bee-nest-constructing)
 
-[In Him Is No Darkness](https://www.icr.org/article/him-no-darkness/)
+[Incredible Honey Bees and Their Nest Constructing Skills](https://www.icr.org/article/honey-bee-nest-constructing/)
 
-“This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.” (1...
+It seems not a month goes by that more remarkable discoveries are made regarding the humble honey bee. They have been found capable of basic math,...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/how-pray)
+[![](/i/Main%20Stage%20-%201400x1050/moon_formedin_hours_1400x1050.jpg)](https://www.icr.org/article/moon-formed-in-just-hours)
 
-[How To Pray](https://www.icr.org/article/how-pray/)
+[The Moon: Formed in Just Hours?](https://www.icr.org/article/moon-formed-in-just-hours/)
 
-“Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full.” (John 16:24) Jesus promised that...
+Despite the moon’s apparently simple shape, uniformitarian scientists have long had great difficulty explaining how it could form by natural processes...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475649/file.jpg)
-
-The Remarkable Record of Job](https://store.icr.org/dr-henry-morris-the-remarkable-record-of-job.html)
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
-
-Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
-
-$14.99
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32689/file.jpg)
-
-The Henry Morris Study Bible - Imitation Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-imita.html)
-
-$59.99
-
-$69.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10473917/file.jpg)
-
-Creation and the Second Coming](https://store.icr.org/dr-henry-morris-creation-and-the-second-coming.html)
-
-$10.99
+BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
