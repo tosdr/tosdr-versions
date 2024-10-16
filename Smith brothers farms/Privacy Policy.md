@@ -254,12 +254,12 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (84)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (83)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (23)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (22)](https://www.smithbrothersfarms.com/fruit)
             
         * [Vegetables (30)](https://www.smithbrothersfarms.com/vegetables)
             
@@ -324,12 +324,12 @@ Hi
         * [Peanut Butter (3)](https://www.smithbrothersfarms.com/peanut-butter-2)
             
         
-    * [Snacks (33)](https://www.smithbrothersfarms.com/snacks)
+    * [Snacks (31)](https://www.smithbrothersfarms.com/snacks)
         
         * BACK
         * [Salsa, Dips & Hummus (12)](https://www.smithbrothersfarms.com/salsa)
             
-        * [Chips, Crackers & Nuts (21)](https://www.smithbrothersfarms.com/chips-and-crackers)
+        * [Chips, Crackers & Nuts (19)](https://www.smithbrothersfarms.com/chips-and-crackers)
             
         
     * [Merchandise (9)](https://www.smithbrothersfarms.com/merchandise)
