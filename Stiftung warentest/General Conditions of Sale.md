@@ -587,8 +587,8 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
-* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
 
 Fußbereich
 
@@ -2724,8 +2724,8 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
-* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2782,8 +2782,8 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
@@ -2791,17 +2791,17 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
-* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
 
 Neueste Tests
 
-* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
-* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
 
 Service Stiftung Warentest
 
