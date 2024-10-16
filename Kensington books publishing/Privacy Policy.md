@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![A Guide to Truman Capote Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/31122907/PRH_Site_1200x628_TrumanCapot.jpg)
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
     
-    A Guide to Truman Capote Books
+    Browse All Our Lists, Essays, and Interviews
     
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/truman-capote-books/)
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
 * * *
 
-* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    Join Our Authors for Upcoming Events
+    Books Bans Are on the Rise in America
     
-    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * * *
 
-* [![The Most Exciting Picture Books Coming Fall 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/29153607/Fall-Preview-2024-600x314-picture.jpg)
+* [![33 Halloween Books for Little Pumpkins](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/09/24124648/halloween-pumpkins-readdown-1200x628-2024.jpg)
     
-    The Most Exciting Picture Books Coming Fall 2024
+    33 Halloween Books for Little Pumpkins
     
-    Learn More >](https://www.readbrightly.com/picture-books-fall-preview/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/not-so-scary-picture-books-for-halloween/)
 
 * <
     
@@ -148,7 +148,7 @@ Audio
 * Our Authors
     
 * [Michelle Obama](https://www.penguinrandomhouse.com/authors/149907/michelle-obama)
-* [Zadie Smith](https://www.penguinrandomhouse.com/authors/28946/zadie-smith/)
+* [Han Kang](https://www.penguinrandomhouse.com/authors/276047/han-kang/)
 * [Emily Henry](https://www.penguinrandomhouse.com/authors/306512/emily-henry/)
 * [Amor Towles](https://www.penguinrandomhouse.com/authors/144127/amor-towles/)
 * [Colson Whitehead](https://www.penguinrandomhouse.com/authors/33050/colson-whitehead/)
@@ -264,9 +264,9 @@ Categories
 
 [Board Books](https://www.penguinrandomhouse.com/books/board-books-childrens/)[Picture Books](https://www.penguinrandomhouse.com/books/picture-books-childrens/)[Guided Reading Levels](https://www.penguinrandomhouse.com/books/leveled-readers/)[Middle Grade](https://www.penguinrandomhouse.com/books/middle-grade-books-childrens/)[Activity Books](https://www.penguinrandomhouse.com/books/activity-books-childrens/)[View All \>](https://www.penguinrandomhouse.com/books/childrens/)
 
-[The Most Exciting Picture Books Coming Fall 2024
+[33 Halloween Books for Little Pumpkins
 
-Learn More >](https://www.readbrightly.com/picture-books-fall-preview/)
+Learn More >](https://www.penguinrandomhouse.com/the-read-down/not-so-scary-picture-books-for-halloween/)
 
 Popular
 
@@ -304,7 +304,7 @@ Our Authors
 
 * * *
 
-[Michelle Obama](https://www.penguinrandomhouse.com/authors/149907/michelle-obama)[Zadie Smith](https://www.penguinrandomhouse.com/authors/28946/zadie-smith/)[Emily Henry](https://www.penguinrandomhouse.com/authors/306512/emily-henry/)[Amor Towles](https://www.penguinrandomhouse.com/authors/144127/amor-towles/)[Colson Whitehead](https://www.penguinrandomhouse.com/authors/33050/colson-whitehead/)[View All \>](https://www.penguinrandomhouse.com/authors/)
+[Michelle Obama](https://www.penguinrandomhouse.com/authors/149907/michelle-obama)[Han Kang](https://www.penguinrandomhouse.com/authors/276047/han-kang/)[Emily Henry](https://www.penguinrandomhouse.com/authors/306512/emily-henry/)[Amor Towles](https://www.penguinrandomhouse.com/authors/144127/amor-towles/)[Colson Whitehead](https://www.penguinrandomhouse.com/authors/33050/colson-whitehead/)[View All \>](https://www.penguinrandomhouse.com/authors/)
 
 [In Their Own Words](https://www.penguinrandomhouse.com/articles/)
 
