@@ -30,9 +30,9 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a3fe3bd8-0b52-450b-9569-e50ce334fc94/20241015T191106/a3fe3bd8-0b52-450b-9569-e50ce334fc94_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3fe3bd8-0b52-450b-9569-e50ce334fc94/20241015T191106/a3fe3bd8-0b52-450b-9569-e50ce334fc94_360x203.jpg)](https://www.king5.com/article/sports/russell-wilson-consideration-start-jets-steelers/281-bd536ac7-b816-4e34-8d8a-e015e6424df8)
+    *  [![](https://media.king5.com/assets/KING/images/b9c666e7-8f33-48b4-935f-d72bc31ad71c/20241016T012257/b9c666e7-8f33-48b4-935f-d72bc31ad71c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b9c666e7-8f33-48b4-935f-d72bc31ad71c/20241016T012257/b9c666e7-8f33-48b4-935f-d72bc31ad71c_360x203.jpg)](https://www.king5.com/article/news/local/everett/everett-voters-decide-two-competing-minimum-wage-initiatives/281-2eeb87ee-671d-441f-ae68-f709b496ff04)
         
-        #### [Russell Wilson 'in consideration' to start against the Jets in return from calf injury](https://www.king5.com/article/sports/russell-wilson-consideration-start-jets-steelers/281-bd536ac7-b816-4e34-8d8a-e015e6424df8)
+        #### [Two minimum wage initiatives on the ballot for Everett voters](https://www.king5.com/article/news/local/everett/everett-voters-decide-two-competing-minimum-wage-initiatives/281-2eeb87ee-671d-441f-ae68-f709b496ff04)
         
     *  [![](https://media.king5.com/assets/KING/images/3b23c364-a7d3-49d9-893c-6bc4b53dc4f8/3b23c364-a7d3-49d9-893c-6bc4b53dc4f8_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/3b23c364-a7d3-49d9-893c-6bc4b53dc4f8/3b23c364-a7d3-49d9-893c-6bc4b53dc4f8_360x203.jpeg)](https://www.king5.com/article/news/local/tacoma/pierce-county-jury-duty-pay-100-dollars-a-day/281-d8b22276-e84c-4abd-a4c4-7dd38293a3f3)
         
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/bac963da-214e-4162-9787-2da629bcbed4/20240823T232603/bac963da-214e-4162-9787-2da629bcbed4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bac963da-214e-4162-9787-2da629bcbed4/20240823T232603/bac963da-214e-4162-9787-2da629bcbed4_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/mountain-snowfall-atmospheric-river-western-washington/281-84d90ef6-a70a-475f-8bf2-2a76d081f656)
-        
-        #### [Mountain snowfall, atmospheric river on the way this week](https://www.king5.com/article/weather/weather-blog/mountain-snowfall-atmospheric-river-western-washington/281-84d90ef6-a70a-475f-8bf2-2a76d081f656)
-        
-    *  [![](https://media.king5.com/assets/KING/images/cde6cffe-c9f3-4104-88c8-bccc5460c178/20241015T115736/cde6cffe-c9f3-4104-88c8-bccc5460c178_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cde6cffe-c9f3-4104-88c8-bccc5460c178/20241015T115736/cde6cffe-c9f3-4104-88c8-bccc5460c178_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/3923e8b3-a2a9-432e-a1c4-ffebf5f04e4a/20241016T003426/3923e8b3-a2a9-432e-a1c4-ffebf5f04e4a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3923e8b3-a2a9-432e-a1c4-ffebf5f04e4a/20241016T003426/3923e8b3-a2a9-432e-a1c4-ffebf5f04e4a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KGW/images/a1029602-423e-404f-81f4-2311039022bf/20240605T142025/a1029602-423e-404f-81f4-2311039022bf_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/a1029602-423e-404f-81f4-2311039022bf/20240605T142025/a1029602-423e-404f-81f4-2311039022bf_360x203.jpg)](https://www.king5.com/article/weather/earthquakes/experts-researchers-prepare-for-pacific-northwest-tsunami/283-b3155c7f-0bf2-4524-9f65-d6dbb2379fd8)
+        
+        #### [Experts, researchers prepare for Pacific Northwest tsunami: ‘You don't know when this is going to happen’](https://www.king5.com/article/weather/earthquakes/experts-researchers-prepare-for-pacific-northwest-tsunami/283-b3155c7f-0bf2-4524-9f65-d6dbb2379fd8)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-60°
+58°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
