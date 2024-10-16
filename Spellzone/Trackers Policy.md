@@ -162,9 +162,11 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"I would like to thank you so much for this great website. I have always been ashamed of my spelling but after a few lessons I am already better. It is filling in all the gaps. Thanks."
+"I ran the trial with a small group of students over three weeks before the summer holidays," she says. "I quickly saw the benefits, and signed up."
 
-**Student, France**
+**King's Leadership Academy, Warrington**
+
+[read more...](https://www.spellzone.com/pages/case-studies/kings-leadership-academy.cfm)
 
 ### Curriculum...
 
