@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/5468.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/8915.jpg)
 
 Nous vous conseillons volontiers.
 
