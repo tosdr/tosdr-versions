@@ -292,43 +292,46 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![Though the French scoff at activewear in everyday life, they don’t mind taking inspiration from it.](https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_463/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6105e3794d55a7da31505803a39f261a4f009667)](https://www.afr.com/life-and-luxury/fashion-and-style/the-australian-fashion-staple-you-won-t-see-on-the-streets-of-paris-20241008-p5kgkw)
+[![ ](https://static.ffx.io/images/$zoom_0.1283%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c3b2f32aad49be0bf45a5c730f7e0058b241deb7)](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-what-happened-at-the-financial-review-s-prestige-watch-weekends-20240829-p5k6ff)
 
-### [The Australian fashion staple you won’t see on the streets of Paris](https://www.afr.com/life-and-luxury/fashion-and-style/the-australian-fashion-staple-you-won-t-see-on-the-streets-of-paris-20241008-p5kgkw)
+### [Here’s what happened at the Financial Review’s prestige watch weekends](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-what-happened-at-the-financial-review-s-prestige-watch-weekends-20240829-p5k6ff)
 
-* Lauren Sams
+* 55 mins ago
+* Bani McSpedden
 
-* ### [Who’s up and down in this year’s Power List – and who wanted to get out](https://www.afr.com/politics/federal/who-s-up-and-down-in-this-year-s-power-list-and-who-wanted-to-get-out-20240926-p5kdt8)
+* ### [Outback-inspired pieces set to go on show at Design Miami fair](https://www.afr.com/life-and-luxury/design/outback-inspired-pieces-set-to-go-on-show-at-design-miami-fair-20240829-p5k6fa)
     
-* ### [How we got Australia’s most powerful to step into David Rowe’s world](https://www.afr.com/politics/federal/how-we-got-australia-s-most-powerful-to-step-into-david-rowe-s-world-20240905-p5k81d)
+* ### [The Australian fashion staple you won’t see on the streets of Paris](https://www.afr.com/life-and-luxury/fashion-and-style/the-australian-fashion-staple-you-won-t-see-on-the-streets-of-paris-20241008-p5kgkw)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![South Africa’s first fully representative democratic elections in 1994 were a pivotal moment in Biopak CEO Gary Smith’s career.](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b0eb6885dc79d9842e134414ece4982147d5a328)](https://www.afr.com/work-and-careers/workplace/why-nelson-mandela-s-election-was-a-turning-point-for-this-ceo-20241014-p5ki0u)
+[![Jaqui Lane, Founder of The Book Adviser.](https://static.ffx.io/images/$zoom_0.6917%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_941%2C$y_387/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b6bd2c768698b09df06387c1148773001ed7bf2b)](https://www.afr.com/work-and-careers/workplace/this-year-s-worst-corporate-jargon-and-the-woman-trying-to-fight-it-20241009-p5kh24)
 
-### [Why Nelson Mandela’s election was a turning point for this CEO](https://www.afr.com/work-and-careers/workplace/why-nelson-mandela-s-election-was-a-turning-point-for-this-ceo-20241014-p5ki0u)
+### [This year’s worst corporate jargon, and the woman trying to fight it](https://www.afr.com/work-and-careers/workplace/this-year-s-worst-corporate-jargon-and-the-woman-trying-to-fight-it-20241009-p5kh24)
 
-* Euan Black, Sally Patten and Lap Phan
+* 55 mins ago
+* Patrick Durkin
 
-* ### [Solomon Lew reveals why he is still obsessed with Myer](https://www.afr.com/work-and-careers/workplace/solomon-lew-reveals-why-he-is-still-obsessed-with-myer-20240925-p5kdfp)
+* ### [Why Nelson Mandela’s election was a turning point for this CEO](https://www.afr.com/work-and-careers/workplace/why-nelson-mandela-s-election-was-a-turning-point-for-this-ceo-20241014-p5ki0u)
     
-* ### [What men really think about the push for gender balance](https://www.afr.com/work-and-careers/workplace/what-men-really-think-about-the-push-for-gender-balance-20240923-p5kcvb)
+* ### [Solomon Lew reveals why he is still obsessed with Myer](https://www.afr.com/work-and-careers/workplace/solomon-lew-reveals-why-he-is-still-obsessed-with-myer-20240925-p5kdfp)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![La Fiermontina Ocean resort pool villa ](https://static.ffx.io/images/$zoom_0.3504%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_288/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e8faa47bd91037186e0d9d84cfcd18a408f713af)](https://www.afr.com/life-and-luxury/travel/a-hidden-gem-on-morocco-s-barbary-coast-20240926-p5kduw)
+[![“great value” 1945 cognac from Old Master spirits](https://static.ffx.io/images/$zoom_0.8278%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_437/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/bd25d932ddded422a65ebb9ed59f8ea3376e9f99)](https://www.afr.com/life-and-luxury/food-and-wine/this-world-war-ii-cognac-could-be-yours-for-a-mere-1299-a-bottle-20241008-p5kgpp)
 
-### [A hidden gem on Morocco’s Barbary Coast](https://www.afr.com/life-and-luxury/travel/a-hidden-gem-on-morocco-s-barbary-coast-20240926-p5kduw)
+### [This World War II cognac could be yours for a ‘mere’ $1299 a bottle](https://www.afr.com/life-and-luxury/food-and-wine/this-world-war-ii-cognac-could-be-yours-for-a-mere-1299-a-bottle-20241008-p5kgpp)
 
-* John Borthwick
+* 55 mins ago
+* Max Allen
 
-* ### [To become a better runner, try taping your mouth shut](https://www.afr.com/life-and-luxury/health-and-wellness/to-become-a-better-runner-try-taping-your-mouth-shut-20240924-p5kd4r)
+* ### [Why you would go skiing in Whistler in spring](https://www.afr.com/life-and-luxury/travel/why-you-would-go-skiing-in-whistler-in-spring-20240505-p5fp1z)
     
-* ### [How a podiatrist built one of Australia’s most successful shoe brands](https://www.afr.com/life-and-luxury/fashion-and-style/how-a-podiatrist-built-one-of-australia-s-most-successful-shoe-brands-20240828-p5k5ya)
+* ### [A hidden gem on Morocco’s Barbary Coast](https://www.afr.com/life-and-luxury/travel/a-hidden-gem-on-morocco-s-barbary-coast-20240926-p5kduw)
     
 
 [Rich List](https://www.afr.com/rich-list)
