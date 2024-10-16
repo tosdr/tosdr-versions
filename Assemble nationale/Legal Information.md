@@ -83,7 +83,7 @@ Découvrir les lieux
 
 [Visiter l'Assemblée](https://www.assemblee-nationale.fr/dyn/visite) [Visite virtuelle du palais Bourbon](https://www.assemblee-nationale.fr/dyn/visite/visite-virtuelle) [Assister à une séance](https://www2.assemblee-nationale.fr/informations-pratiques/assister-a-une-seance-publique) [Accès des chercheurs à l’Assemblée](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/ouverture-de-l-assemblee-aux-chercheurs2)
 
-[Patrimoine](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine) [Bibliothèque et archives](https://www2.assemblee-nationale.fr/informations-pratiques/bibliotheque-et-archives) [Contacts et plan d'accès](https://www.assemblee-nationale.fr/dyn/visite/contact) [Photos libres de droit](https://www.assemblee-nationale.fr/presse/photos.asp)
+[Patrimoine](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine) [Bibliothèque et archives](https://www2.assemblee-nationale.fr/informations-pratiques/bibliotheque-et-archives) [Contacts et plan d'accès](https://www.assemblee-nationale.fr/dyn/visite#contacts_et_acces) [Photos libres de droit](https://www.assemblee-nationale.fr/presse/photos.asp)
 
 Connexion & inscription
 
@@ -293,4 +293,4 @@ Connaître l'Assemblée
 Découvrir les lieux
 
 [Visiter l'Assemblée](https://www.assemblee-nationale.fr/dyn/visite) [Visite virtuelle du palais Bourbon](https://www.assemblee-nationale.fr/dyn/visite/visite-virtuelle) [Assister à une séance](https://www2.assemblee-nationale.fr/informations-pratiques/assister-a-une-seance-publique) [Accès des chercheurs à l’Assemblée](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/ouverture-de-l-assemblee-aux-chercheurs2)  
-[Patrimoine](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine) [Bibliothèque et archives](https://www2.assemblee-nationale.fr/informations-pratiques/bibliotheque-et-archives) [Contacts et plan d'accès](https://www.assemblee-nationale.fr/dyn/visite/contact) [Photos libres de droit](https://www.assemblee-nationale.fr/presse/photos.asp)
+[Patrimoine](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine) [Bibliothèque et archives](https://www2.assemblee-nationale.fr/informations-pratiques/bibliotheque-et-archives) [Contacts et plan d'accès](https://www.assemblee-nationale.fr/dyn/visite#contacts_et_acces) [Photos libres de droit](https://www.assemblee-nationale.fr/presse/photos.asp)
