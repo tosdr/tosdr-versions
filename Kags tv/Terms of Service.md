@@ -33,9 +33,9 @@ Navigation
         
         #### [Pedestrian dies after being hit by garbage truck in College Station](https://www.kagstv.com/article/news/local/garbage-truck-fatality-college-station-oct-15-2024/500-ff29c588-5fd6-4d82-bf17-56985a1e1137)
         
-    *  [![](https://media.kagstv.com/assets/WFMY/images/e8bf2325-8af4-431c-82ee-49abecc88f5a/20241006T233706/e8bf2325-8af4-431c-82ee-49abecc88f5a_16x9.jpg) ![](https://media.kagstv.com/assets/WFMY/images/e8bf2325-8af4-431c-82ee-49abecc88f5a/20241006T233706/e8bf2325-8af4-431c-82ee-49abecc88f5a_360x203.jpg)](https://www.kagstv.com/article/news/crime/college-station-barricaded-suspect-at-motel-6-oct-2024/500-614249ca-c688-4df2-a772-f3c8b8ab418a)
+    *  [![](https://media.kagstv.com/assets/KARE/images/c31f2a2a-2207-42e8-98b7-9c878f5d2f84/20241014T221609/c31f2a2a-2207-42e8-98b7-9c878f5d2f84_16x9.jpg) ![](https://media.kagstv.com/assets/KARE/images/c31f2a2a-2207-42e8-98b7-9c878f5d2f84/20241014T221609/c31f2a2a-2207-42e8-98b7-9c878f5d2f84_360x203.jpg)](https://www.kagstv.com/article/news/local/pumpkin-minnesota-2471-pounds-wins-california-contest/89-5b6409dd-8d29-4e09-a07f-b92499198c1c)
         
-        #### [Bryan man arrested after stabbing victim, barricading himself inside College Station Motel 6 room](https://www.kagstv.com/article/news/crime/college-station-barricaded-suspect-at-motel-6-oct-2024/500-614249ca-c688-4df2-a772-f3c8b8ab418a)
+        #### [Minnesota man wins world championship with pumpkin weighing 2,471 pounds](https://www.kagstv.com/article/news/local/pumpkin-minnesota-2471-pounds-wins-california-contest/89-5b6409dd-8d29-4e09-a07f-b92499198c1c)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-98°
+79°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
