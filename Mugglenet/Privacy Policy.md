@@ -318,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-After Fred Weasley died, George Weasley was no longer able to conjure a Patronus.
+The Ripley Scroll (England, 1570) teaches readers how to create the philosopher’s stone.
 
 ### Potter History
 
-October 2, 2000 – Production begins on the film version of Harry Potter and the Philosopher’s/Sorcerer’s Stone.
+January 29, 2006 – Harry Potter and the Goblet of Fire is announced as the eighth-highest grossing film of all time.
 
 ### Potter Quote
 
-“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”
+“That brings \[Trelawney’s\] total of real predictions up to two. I should offer her a pay raise. . . .”
 
 [](#)
 
