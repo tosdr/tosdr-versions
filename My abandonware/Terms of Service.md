@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [The Quest for Aladdin's Treasure](https://www.myabandonware.com/game/the-quest-for-aladdin-s-treasure-sa5)
+* [The Snow Queen Quest](https://www.myabandonware.com/game/the-snow-queen-quest-sa4)
+* [1943 Kai](https://www.myabandonware.com/game/1943-kai-kr4)
 * [After Burner III](https://www.myabandonware.com/game/after-burner-iii-hgu)
 * [Aeroboto](https://www.myabandonware.com/game/aeroboto-7wk)
-* [Arch Rivals](https://www.myabandonware.com/game/arch-rivals-8h4)
-* [Super Tank](https://www.myabandonware.com/game/super-tank-sux)
-* [Space Slalom](https://www.myabandonware.com/game/space-slalom-suw)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
