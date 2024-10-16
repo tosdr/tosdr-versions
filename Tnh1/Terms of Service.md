@@ -18,7 +18,19 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Mais de 100 kg de mel clandestino são apreendidos feiras e mercados de Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_mel_clandestino_f9f2a8bb0d.jpeg)
+   [![Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/6/csm_outubro_rosa_parque_shopping_bb283e7abf.png)
+
+Maceió
+
+Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://www.tnh1.com.br/noticia/nid/outubro-rosa-parque-shopping-promove-rodas-de-conversa-com-medicos-desfile-e-oficinas-de-autocuidado/ "Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado")   [![Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_3o_Edital_Projetos_que_Transformam_3d3ba9024b.jpeg)
+
+Maceió
+
+Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”](https://www.tnh1.com.br/noticia/nid/mundau-mundo-e-instituto-do-bordado-file-vencem-o-3a-edital-braskem-projetos-que-transformam/ "Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”")   [![Vídeo: pane em contador de energia elétrica assusta moradores no Farol](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_Pane_em_poste_de_energia_no_Farol_-_foto_Reproducao_efa311dc3e.jpg)
+
+assista
+
+Vídeo: pane em contador de energia elétrica assusta moradores no Farol](https://www.tnh1.com.br/noticia/nid/video-pane-em-contador-de-energia-eletrica-assusta-moradores-no-farol/ "Vídeo: pane em contador de energia elétrica assusta moradores no Farol")   [![Mais de 100 kg de mel clandestino são apreendidos feiras e mercados de Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_mel_clandestino_f9f2a8bb0d.jpeg)
 
 Maceió
 
@@ -30,19 +42,7 @@ Reunião discute o progresso do atual plano de investimento da gestão](https://
 
 Vídeo chamada
 
-Usuários do SUS podem ser atendidos por intérprete de Libras em unidades de saúde de Maceió](https://www.tnh1.com.br/noticia/nid/usuarios-do-sus-podem-ser-atendidos-por-interprete-de-libras-em-unidades-de-saude-de-maceio/ "Usuários do SUS podem ser atendidos por intérprete de Libras em unidades de saúde de Maceió")   [![Polícia apreende mais de 30 kg de maconha enterrados no quintal de casa abandonada ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/9/csm_droga-apreendida-enterrada-vila-brejal_441261c750.jpg)
-
-Na Vila Brejal
-
-Polícia apreende mais de 30 kg de maconha enterrados no quintal de casa abandonada](https://www.tnh1.com.br/noticia/nid/policia-apreende-mais-de-30-kg-de-maconha-enterrados-no-quintal-de-casa-abandonada/ "Polícia apreende mais de 30 kg de maconha enterrados no quintal de casa abandonada ")   [![Moradores do Bom Parto bloqueiam rua em protesto por falta d'água ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/7/csm_protesto-moradores-bom-parto-reproducao-tv-pajucara_d2f5842083.png)
-
-Na Cambona
-
-Moradores do Bom Parto bloqueiam rua em protesto por falta d'água](https://www.tnh1.com.br/noticia/nid/moradores-do-bom-parto-bloqueiam-rua-em-protesto-por-falta-dagua/ "Moradores do Bom Parto bloqueiam rua em protesto por falta d'água ")   [![Sem doses do imunizante, Maceió suspende vacinação contra Covid 19 para todos os públicos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/a/csm_Cartao_de_vacina_011d986d4f.jpg)
-
-Maceió
-
-Sem doses do imunizante, Maceió suspende vacinação contra Covid 19 para todos os públicos](https://www.tnh1.com.br/noticia/nid/sem-doses-do-imunizante-maceio-suspende-vacinacao-contra-covid-19-para-todos-os-publicos/ "Sem doses do imunizante, Maceió suspende vacinação contra Covid 19 para todos os públicos")
+Usuários do SUS podem ser atendidos por intérprete de Libras em unidades de saúde de Maceió](https://www.tnh1.com.br/noticia/nid/usuarios-do-sus-podem-ser-atendidos-por-interprete-de-libras-em-unidades-de-saude-de-maceio/ "Usuários do SUS podem ser atendidos por intérprete de Libras em unidades de saúde de Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,31 +82,31 @@ Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas 
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/5/csm_familia_jonatas_morte_colonia_leopoldina_reproducao_video_21189241bc.jpg)
-
-Colônia Leopoldina
-
-Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"](https://www.tnh1.com.br/noticia/nid/mae-de-adolescente-morto-em-abordagem-da-pm-desabafa-eles-deram-5-tiros-foi-pra-matar/ "Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"")   [![Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/e/csm_viatura_pc_c09ea6d827.jpeg)
-
-ato infracional
-
-Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos](https://www.tnh1.com.br/noticia/nid/adolescente-de-14-anos-e-apreendido-por-estupro-em-sao-miguel-dos-campos/ "Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos ")   [![Suspeito de armazenar pornografia infantil é preso em apartamento na Mangabeiras](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/b/csm_prisao_Mangabeiras_5ed5440a5c.jpeg)
+   [![Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/0/csm_csm_IML-viatura_f11c21a970_9e72f1f8f5.jpg)
 
 Polícia
 
-Suspeito de armazenar pornografia infantil é preso em apartamento na Mangabeiras](https://www.tnh1.com.br/noticia/nid/suspeito-de-armazenar-pornografia-infantil-e-preso-em-apartamento-na-mangabeiras/ "Suspeito de armazenar pornografia infantil é preso em apartamento na Mangabeiras")   [![Jovem é preso por dar golpe de facão em mulher durante briga com esposo dela, em Coruripe](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/2/csm_prisao_coruripe_-_foto_reproducao_video_0a5e9267b5.jpg)
+Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió](https://www.tnh1.com.br/noticia/nid/tres-homens-sao-presos-suspeitos-de-fraudar-abastecimento-de-viaturas-do-iml-em-maceio/ "Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió ")   [![Corpo de mulher com marcas de agressões é resgatado em córrego de Palmeira dos Índios](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/6/csm_csm_Bombeiros_assessori_1203788323_5c783fd82d.jpg)
+
+em córrego
+
+Corpo de mulher com marcas de agressões é resgatado em córrego de Palmeira dos Índios](https://www.tnh1.com.br/noticia/nid/corpo-de-mulher-com-marcas-de-agressoes-e-resgatado-em-corrego-de-palmeira-dos-indios/ "Corpo de mulher com marcas de agressões é resgatado em córrego de Palmeira dos Índios")   [![Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/5/csm_familia_jonatas_morte_colonia_leopoldina_reproducao_video_21189241bc.jpg)
+
+Colônia Leopoldina
+
+Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"](https://www.tnh1.com.br/noticia/nid/mae-de-adolescente-morto-em-abordagem-da-pm-desabafa-eles-deram-5-tiros-foi-pra-matar/ "Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"")   [![Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/e/csm_viatura_pc_c09ea6d827.jpeg)
+
+ato infracional
+
+Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos](https://www.tnh1.com.br/noticia/nid/adolescente-de-14-anos-e-apreendido-por-estupro-em-sao-miguel-dos-campos/ "Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos ")   [![Suspeito de armazenar pornografia infantil é preso em apartamento na Mangabeiras](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/b/csm_prisao_Mangabeiras_5ed5440a5c.jpeg)
+
+Polícia
+
+Suspeito de armazenar pornografia infantil é preso em apartamento na Mangabeiras](https://www.tnh1.com.br/noticia/nid/suspeito-de-armazenar-pornografia-infantil-e-preso-em-apartamento-na-mangabeiras/ "Suspeito de armazenar pornografia infantil é preso em apartamento na Mangabeiras")   [![Jovem é preso por dar golpe de facão em mulher durante briga com esposo dela, em Coruripe](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/2/csm_prisao_coruripe_-_foto_reproducao_video_0a5e9267b5.jpg)
 
 Localizado em casa
 
-Jovem é preso por dar golpe de facão em mulher durante briga com esposo dela, em Coruripe](https://www.tnh1.com.br/noticia/nid/jovem-e-preso-por-dar-golpe-de-facao-em-mulher-durante-briga-com-esposo-dela-em-coruripe/ "Jovem é preso por dar golpe de facão em mulher durante briga com esposo dela, em Coruripe")   [![Golpista é presa por compra de móveis com pix falso; prejuízos chegam a R$ 2 milhões](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/3/csm_montagem-imoveis-golpes-pix_55e356a867.jpg)
-
-em Arapiraca
-
-Golpista é presa por compra de móveis com pix falso; prejuízos chegam a R$ 2 milhões](https://www.tnh1.com.br/noticia/nid/golpista-e-presa-por-compra-de-moveis-com-pix-falso-prejuizos-chegam-a-r-2-milhoes/ "Golpista é presa por compra de móveis com pix falso; prejuízos chegam a R$ 2 milhões")   [![Ex-palhaço acusado de estuprar menino é capturado no interior de Alagoas ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/4/csm_prisao_palhaco_f11c67a456.jpeg)
-
-estava foragido
-
-Ex-palhaço acusado de estuprar menino é capturado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/ex-palhaco-acusado-de-estuprar-menino-e-capturado-no-interior-de-alagoas/ "Ex-palhaço acusado de estuprar menino é capturado no interior de Alagoas ") 
+Jovem é preso por dar golpe de facão em mulher durante briga com esposo dela, em Coruripe](https://www.tnh1.com.br/noticia/nid/jovem-e-preso-por-dar-golpe-de-facao-em-mulher-durante-briga-com-esposo-dela-em-coruripe/ "Jovem é preso por dar golpe de facão em mulher durante briga com esposo dela, em Coruripe")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -232,39 +232,39 @@ Menino de 9 anos invade hospital veterinário e mata 23 animais no PR
 
 Menino de 9 anos invade hospital veterinário e mata 23 animais no PR](https://www.tnh1.com.br/noticia/nid/menino-de-9-anos-invade-hospital-veterinario-e-mata-23-animais-no-pr/ "Menino de 9 anos invade hospital veterinário e mata 23 animais no PR")
 
-[![Mulher promete doar enxoval e é presa por suspeita de matar grávida e tentar roubar bebê ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/b/csm_Mulher_e_presa_por_matar_gravida_e_tentar_roubar_bebe_em_Porto_Alegre_-_foto_Divulgacao_PCRS_4b380643b1.jpg)
+[![Liam Payne, do One Direction, morre aos 31 anos, diz site](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/2/csm_liam-payne-01-press-photo-new-2018-billboard-1548_4688a64678.jpg)
 
-42 anos
+caiu de prédio
 
-42 anos
+caiu de prédio
 
-Mulher promete doar enxoval e é presa por suspeita de matar grávida e tentar roubar bebê
+Liam Payne, do One Direction, morre aos 31 anos, diz site
 
-Mulher promete doar enxoval e é presa por suspeita de matar grávida e tentar roubar bebê](https://www.tnh1.com.br/noticia/nid/mulher-promete-doar-enxoval-e-e-presa-por-suspeita-de-matar-gravida-e-tentar-roubar-bebe/ "Mulher promete doar enxoval e é presa por suspeita de matar grávida e tentar roubar bebê ")[![Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/5/csm_familia_jonatas_morte_colonia_leopoldina_reproducao_video_a08bca134e.jpg)
+Liam Payne, do One Direction, morre aos 31 anos, diz site](https://www.tnh1.com.br/noticia/nid/liam-payne-do-one-direction-morre-aos-31-anos-diz-site/ "Liam Payne, do One Direction, morre aos 31 anos, diz site")[![Consórcio Nordeste cria comitê para monitorar emergências climáticas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/3/csm_seca_do_rio_sao_francisco_1012150258-ag-brasil_a86992ae3e.jpg)
 
-Colônia Leopoldina
+em nove estados
 
-Colônia Leopoldina
+em nove estados
 
-Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"
+Consórcio Nordeste cria comitê para monitorar emergências climáticas
 
-Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"](https://www.tnh1.com.br/noticia/nid/mae-de-adolescente-morto-em-abordagem-da-pm-desabafa-eles-deram-5-tiros-foi-pra-matar/ "Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"")[![Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/e/csm_viatura_pc_9300daf3a9.jpeg)
+Consórcio Nordeste cria comitê para monitorar emergências climáticas](https://www.tnh1.com.br/noticia/nid/consorcio-nordeste-cria-comite-para-monitorar-emergencias-climaticas/ "Consórcio Nordeste cria comitê para monitorar emergências climáticas")[![Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/0/csm_ryan-gosling-eva-mendes-filho-reproducao_3a63cbbc81.jpg)
 
-ato infracional
+Gente Famosa
 
-ato infracional
+Gente Famosa
 
-Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos
+Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'
 
-Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos](https://www.tnh1.com.br/noticia/nid/adolescente-de-14-anos-e-apreendido-por-estupro-em-sao-miguel-dos-campos/ "Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos ")[![Entrevista: Galba Netto faz balanço da atual legislatura e fala de projetos para o próximo mandato](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/3/csm_galba_netto_1_foto_ascom_763c96ae7e.jpeg)
+Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'](https://www.tnh1.com.br/noticia/nid/eva-mendes-se-emociona-ao-revelar-maior-dificuldade-de-criar-filhas-com-ator-nao-e-justo/ "Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'")[![Mulher morre após ser mordida por hamster de estimação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/4/csm_european-hamster-flowering-meadow__1__74177c33f0.jpg)
 
-Eleições
+38 anos
 
-Eleições
+38 anos
 
-Entrevista: Galba Netto faz balanço da atual legislatura e fala de projetos para o próximo mandato
+Mulher morre após ser mordida por hamster de estimação
 
-Entrevista: Galba Netto faz balanço da atual legislatura e fala de projetos para o próximo mandato](https://www.tnh1.com.br/noticia/nid/entrevista-galba-netto-faz-balanco-da-atual-legislatura-e-fala-de-projetos-para-o-proximo-mandato/ "Entrevista: Galba Netto faz balanço da atual legislatura e fala de projetos para o próximo mandato")
+Mulher morre após ser mordida por hamster de estimação](https://www.tnh1.com.br/noticia/nid/mulher-morre-apos-ser-mordida-por-hamster-de-estimacao/ "Mulher morre após ser mordida por hamster de estimação")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
