@@ -20,7 +20,7 @@ Sprache
 
 English Deutsch
 
-Newsletter[](https://affengeilebilder24.de/customer_identity/redirect?locale=de&region_country=US)
+Newsletter[](https://affengeilebilder24.de/customer_authentication/redirect?locale=de&region_country=US)
 
 [0](https://affengeilebilder24.de/apps/wishlist)
 
@@ -305,7 +305,7 @@ Newsletter[](https://affengeilebilder24.de/customer_identity/redirect?locale=de&
 * [Personalisiert](https://affengeilebilder24.de/products/dein-unikat)
 * [Für Unternehmen](https://affengeilebilder24.de/pages/business)
 
-[Account](https://affengeilebilder24.de/customer_identity/redirect?locale=de&region_country=US)
+[Account](https://affengeilebilder24.de/customer_authentication/redirect?locale=de&region_country=US)
 
  Sprache Deutsch
 
