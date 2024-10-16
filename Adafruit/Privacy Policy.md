@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Failing to prepare is preparing to fail ”
+“ I think there's something strangely musical about noise”
 
-[Benjamin Franklin](http://en.wikipedia.org/wiki/Benjamin_Franklin)
+[Trent Reznor](http://en.wikipedia.org/wiki/Trent_Reznor)
 
 [](https://www.adafruit.com/about)
 
