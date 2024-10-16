@@ -1,3 +1,30 @@
-[![black Beam formerly Edquity logo](https://cdn.prod.website-files.com/63112ade7dc51d16a327a7be/636e8990f2c48f72146a219c_Beam_formerlyEdquity_Logo_Black.png)](https://www.edquity.co/)
+The platform for economic mobility.
+===================================
 
-[Solutions](https://www.edquity.co/solutions)[Case Studies](https://www.edquity.co/case-studies)[Insights](https://www.edquity.co/insights)[Why Beam?](https://www.edquity.co/why-beam)[Book a Demo](https://www.edquity.co/book-a-demo)
+Beam's out-of-the box platform gives administrators the confidence to deliver on the entire program journey.  
+‍  
+We enable non-profits, state and local governments to seamlessly run:
+
+![Black checkmark](https://cdn.prod.website-files.com/63112ade7dc51d16a327a7be/632234c5241583a63b9da744_icon-check-small-black-2.svg)
+
+Human services programs
+
+![Black checkmark](https://cdn.prod.website-files.com/63112ade7dc51d16a327a7be/632234c5241583a63b9da744_icon-check-small-black-2.svg)
+
+Emergency assistance programs
+
+![Black checkmark](https://cdn.prod.website-files.com/63112ade7dc51d16a327a7be/632234c5241583a63b9da744_icon-check-small-black-2.svg)
+
+Workforce development programs
+
+![Black checkmark](https://cdn.prod.website-files.com/63112ade7dc51d16a327a7be/632234c5241583a63b9da744_icon-check-small-black-2.svg)
+
+Childcare programs
+
+![Black checkmark](https://cdn.prod.website-files.com/63112ade7dc51d16a327a7be/632234c5241583a63b9da744_icon-check-small-black-2.svg)
+
+Housing programs
+
+![Black checkmark](https://cdn.prod.website-files.com/63112ade7dc51d16a327a7be/632234c5241583a63b9da744_icon-check-small-black-2.svg)
+
+Small business programs
