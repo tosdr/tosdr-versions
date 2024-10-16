@@ -84,7 +84,7 @@ Careers
 
 Public service Yle
 
-* [Public service](https://yle.fi/aihe/s/about-yle/public-service)
+* [Public service](https://yle.fi/aihe/a/20-10002690)
 * [Sustainability](https://yle.fi/aihe/about-yle/sustainability)
 * [Accessibility](https://yle.fi/aihe/about-yle/accessibility)
 * [Operating principles](https://yle.fi/aihe/about-yle/operating-principles)
@@ -98,9 +98,9 @@ Contact
 Sales
 
 * [International Programme Acquisitions](https://yle.fi/aihe/a/20-10000554)
-* [Sales](https://yle.fi/aihe/s/yle-sales)
-* [Archive sales](https://yle.fi/aihe/s/yle-archive-sales)
-* [Brand, visual image and logos](https://yle.fi/aihe/s/yle-brand-visual-image-and-logos)
+* [Sales](https://yle.fi/aihe/a/20-10001959)
+* [Archive sales](https://yle.fi/aihe/a/20-10001958)
+* [Brand, visual image and logos](https://yle.fi/aihe/a/20-10001960)
 
 In other languages
 
