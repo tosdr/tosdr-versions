@@ -326,9 +326,9 @@ Contacto UAH
 Ayuda e Información
 -------------------
 
-* [Centro de información](https://uah.es/es/conoce-la-uah/campus-centros-y-departamentos/centros-de-apoyo-a-la-docencia/Centro-de-Informacion/ "Centro de información")
+* [Centro de información](https://uah.es/es/conoce-la-uah/campus-centros-y-departamentos/centros-de-apoyo-a-la-docencia/Information-centre/ "Centro de información")
 * [Secretaría de alumnos](https://uah.es/es/admision-y-ayudas/grados/matricula/secretarias-alumnos/ "Secretaría de alumnos")
-* [Relaciones Internacionales](https://uah.es/es/conoce-la-uah/campus-centros-y-departamentos/centros-de-apoyo-a-la-docencia/Servicio-de-relaciones-internacionales/ "Relaciones Internacionales")
+* [Relaciones Internacionales](https://uah.es/es/conoce-la-uah/campus-centros-y-departamentos/centros-de-apoyo-a-la-docencia/International-relations-service/ "Relaciones Internacionales")
 * [Sala de Prensa](https://portalcomunicacion.uah.es/sala-prensa/ "Sala de Prensa")
 * [Redes Sociales](https://portalcomunicacion.uah.es/social-media/ "Redes Sociales")
 
