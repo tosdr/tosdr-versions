@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-40f42a1df3487f8791f72625045a3871
+426bb52f38c7ea265bb22a8b844e7692
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Mother-of-pearl box clasp](https://sojourner.biz/images/cache/SKU0006a-2.200.webp)](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")
+[![10 mm orange sodalite beads](https://sojourner.biz/images/cache/tiger_eye/TIG006.200.jpg)](https://sojourner.biz/beads/stone-m-z/tiger-eye/10-mm-orange-sodalite-beads.html "10 mm orange sodalite beads")
 
-#### [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")
+#### [10 mm orange sodalite beads](https://sojourner.biz/beads/stone-m-z/tiger-eye/10-mm-orange-sodalite-beads.html "10 mm orange sodalite beads")
 
-$17.00
+$29.00
 
 ### Best Sellers
 
