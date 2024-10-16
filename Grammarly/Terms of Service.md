@@ -375,7 +375,7 @@ Learn More
 * [Grammarly for Teams & Businesses](https://www.grammarly.com/business)
 * [Grammarly Enterprise](https://www.grammarly.com/business/enterprise)
 * [Grammarly for Education](https://www.grammarly.com/edu)
-* [Generative AI](https://www.grammarly.com/ai)
+* [Generative AI](https://www.grammarly.com/ai-writing-assistant)
 * [Blog](https://www.grammarly.com/blog/)
 * [Tech Blog](https://www.grammarly.com/blog/engineering/)
 * [Education Blog](https://www.grammarly.com/blog/institutions/)
