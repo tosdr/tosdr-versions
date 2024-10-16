@@ -101,7 +101,7 @@ Terms of Service
         USA
         
         By fax: +1-650-833-2001  
-        By email: [copyright@opensource.org](mailto:copyright@opensource.org)
+        By email: [\[email protected\]](https://opensource.org/cdn-cgi/l/email-protection)
         
 
 7. 14\. GENERAL INFORMATION  
