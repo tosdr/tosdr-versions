@@ -1,8 +1,28 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-**RC Fall Frenzy Sale!** Save up to $130 [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
+[RC Fall Frenzy Sale
 
-**Spektrum Smart Sale!** Save 20% [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/spektrum-smart-sale/)
+Save up to $130](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
+
+[20% off Spektrum Smart Items
+
+Select Batteries, Chargers & More](https://www.horizonhobby.com/horizon-hobby-rc-sale/spektrum-smart-sale/)
+
+[RC Club Bonus Points
+
+Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
+
+[RC Fall Frenzy Sale
+
+Save up to $130](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
+
+[20% off Spektrum Smart Items
+
+Select Batteries, Chargers & More](https://www.horizonhobby.com/horizon-hobby-rc-sale/spektrum-smart-sale/)
+
+[RC Club Bonus Points
+
+Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
 
  
 
@@ -86,9 +106,29 @@ My store
 
 [](#)
 
-**RC Fall Frenzy Sale!** Save up to $130 [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
+[RC Fall Frenzy Sale
 
-**Spektrum Smart Sale!** Save 20% [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/spektrum-smart-sale/)
+Save up to $130](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
+
+[20% off Spektrum Smart Items
+
+Select Batteries, Chargers & More](https://www.horizonhobby.com/horizon-hobby-rc-sale/spektrum-smart-sale/)
+
+[RC Club Bonus Points
+
+Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
+
+[RC Fall Frenzy Sale
+
+Save up to $130](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
+
+[20% off Spektrum Smart Items
+
+Select Batteries, Chargers & More](https://www.horizonhobby.com/horizon-hobby-rc-sale/spektrum-smart-sale/)
+
+[RC Club Bonus Points
+
+Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
@@ -102,11 +142,9 @@ My store
 
 * * [Cars & Trucks](https://www.horizonhobby.com/cars-and-trucks/ "Shop RC Cars & Trucks")
         
-        [![Vehicle Finder](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwda1e5741/header-images/vehicle-finder-175x175.jpg)](https://www.horizonhobby.com/hh-best-rc-finder.html)
-        
         [![ARRMA RC Cars & Trucks](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw810a5a8d/header-images/ARA21014_Grom_ARRMA-175x175.jpg)](https://www.horizonhobby.com/arrma/)
         
-        [![NASCAR RC Race Car](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw70aec978/header-images/LOS_NASCAR-175x175.jpg)](https://www.horizonhobby.com/nascar/)
+        [![Vehicle Finder](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwda1e5741/header-images/vehicle-finder-175x175.jpg)](https://www.horizonhobby.com/hh-best-rc-finder.html)
         
         * [By Completion Level](https://www.horizonhobby.com/cars-and-trucks/by-completion-level/)
             * [Ready-To-Run](https://www.horizonhobby.com/cars-and-trucks/by-completion-level/ready-to-run/)
@@ -118,11 +156,9 @@ My store
             * [Monster Trucks](https://www.horizonhobby.com/cars-and-trucks/by-type/monster-trucks/)
             * [Rock Crawlers](https://www.horizonhobby.com/cars-and-trucks/by-type/rock-crawlers/)
             * [Rock Racer](https://www.horizonhobby.com/cars-and-trucks/by-type/rock-racers/)
-            * [Truggies](https://www.horizonhobby.com/cars-and-trucks/by-type/truggies/)
-            * [Buggies](https://www.horizonhobby.com/cars-and-trucks/by-type/buggies/)
+            * [Truggies & Buggies](https://www.horizonhobby.com/cars-and-trucks/by-type/buggies-and-truggies/)
             * [Mini/Micros](https://www.horizonhobby.com/cars-and-trucks/by-type/mini-micros/)
-            * [Short Course Trucks](https://www.horizonhobby.com/cars-and-trucks/by-type/short-course-trucks/)
-            * [Stadium Trucks](https://www.horizonhobby.com/cars-and-trucks/by-type/stadium-trucks/)
+            * [Trophy Trucks](https://www.horizonhobby.com/cars-and-trucks/by-type/trophy-trucks/)
             * [On-Road Vehicles](https://www.horizonhobby.com/cars-and-trucks/by-type/on-road-vehicles/)
             * [Motorcycles](https://www.horizonhobby.com/cars-and-trucks/by-type/motorcycles/)
             * [Drag Cars](https://www.horizonhobby.com/cars-and-trucks/by-type/drag-cars/)
@@ -140,7 +176,7 @@ My store
         
         [![ARRMA RC Cars & Trucks](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw810a5a8d/header-images/ARA21014_Grom_ARRMA-175x175.jpg)](https://www.horizonhobby.com/arrma/)
         
-        [![NASCAR RC Race Car](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwf51bf858/header-images/nascar-175x175.jpg)](https://www.horizonhobby.com/nascar/)
+        [![Vehicle Finder](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwda1e5741/header-images/vehicle-finder-175x175.jpg)](https://www.horizonhobby.com/hh-best-rc-finder.html)
         
     * [Motorcycles](https://www.horizonhobby.com/losi-promoto-mx-rc-motorcycle/ "Shop Losi Promoto RC Motorcycles")
     * [Aircraft](https://www.horizonhobby.com/airplanes/ "Shop RC Planes")
