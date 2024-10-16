@@ -214,6 +214,6 @@ This Privacy Policy became effective on: June 1, 2019.
 * [Terms of Service](https://vapor.laravel.com/terms)
 * [Data Processing Agreement](https://vapor.laravel.com/agreement)
 
-![](https://d2n6cmh8j179w8.cloudfront.net/b20a8660-da82-4a1a-aefc-ecd7825eaeaf/build/assets/cubes-wide-1497e4f0.png)
+![](https://d2n6cmh8j179w8.cloudfront.net/002bbe10-1fb3-41f8-bd8a-b03096e7ba68/build/assets/cubes-wide-1497e4f0.png)
 
 Copyright © Laravel Holdings Inc. - 2024
