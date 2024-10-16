@@ -281,7 +281,7 @@ La presente declaración fue preparada el 24 de septiembre de 2021, con conformi
 
 La preparación se ha realizado mediante una autoevaluación de los requisitos de la norma [UNE-EN 301-549:2019](http://administracionelectronica.gob.es/PAe/accesibilidad/une-en-301549-2019.pdf).
 
-Última revisión realizada: 19 de junio de 2024.
+Última revisión realizada: 02 de septiembre de 2024.
 
 Observaciones y datos de contacto
 ---------------------------------
