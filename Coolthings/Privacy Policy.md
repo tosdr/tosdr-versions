@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-portable-party-speakers-to-bring-big-thumping-sound-on-the-go/)
+    
+    [The Best Portable Party Speakers to Bring Big, Thumping Sound On the Go](https://www.coolthings.com/the-best-portable-party-speakers-to-bring-big-thumping-sound-on-the-go/)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/wahoo-kickr-run-smart-treadmill-automatically-adjusts-speed-based-on-your-pace/)
     
     [Wahoo Kickr Run Smart Treadmill Automatically Adjusts Speed to Keep Up with Your Pace](https://www.coolthings.com/wahoo-kickr-run-smart-treadmill-automatically-adjusts-speed-based-on-your-pace/)
@@ -52,11 +57,6 @@
     
     [Nintendo Sound Clock Alarmo Wakes You Up with Sights and Sounds from Your Favorite Nintendo Titles](https://www.coolthings.com/nintendo-sound-clock-alarmo-alarm-mario-zelda-animations-game-sounds/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-car-covers-to-protect-your-car-from-the-hazards-of-outdoor-parking/)
-    
-    [The Best Car Covers to Protect Your Car from the Hazards of Outdoor Parking](https://www.coolthings.com/the-best-car-covers-to-protect-your-car-from-the-hazards-of-outdoor-parking/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
