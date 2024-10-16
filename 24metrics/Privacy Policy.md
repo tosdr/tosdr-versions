@@ -29,16 +29,16 @@ Menu
 * [Contact](https://www.24metrics.com/contact/)
 
 * Login
-    * [AdSecurity Platform](https://app.24metrics.com/)
-    * [Fraudshield](https://fraudshield.24metrics.com/)
+    * [AdSecurity Platform](http://adsecurity.24metrics.com/)
+    * [Fraudshield](http://fraudshield.24metrics.com/)
 * Start a Free Trial
-    * [AdSecurity Platform](https://app.24metrics.com/signup)
+    * [AdSecurity Platform](https://adsecurity.24metrics.com/signup)
 
 * Login
-    * [AdSecurity Platform](https://app.24metrics.com/)
-    * [Fraudshield](https://fraudshield.24metrics.com/)
+    * [AdSecurity Platform](http://adsecurity.24metrics.com/)
+    * [Fraudshield](http://fraudshield.24metrics.com/)
 * Start a Free Trial
-    * [AdSecurity Platform](https://app.24metrics.com/signup)
+    * [AdSecurity Platform](https://adsecurity.24metrics.com/signup)
 
 * Solutions
     * [Click Screening](https://www.24metrics.com/adsecurity/)
@@ -54,16 +54,16 @@ Menu
 * [Contact](https://www.24metrics.com/contact/)
 
 * Login
-    * [AdSecurity Platform](https://app.24metrics.com/)
-    * [Fraudshield](https://fraudshield.24metrics.com/)
+    * [AdSecurity Platform](http://adsecurity.24metrics.com/)
+    * [Fraudshield](http://fraudshield.24metrics.com/)
 * Start a Free Trial
-    * [AdSecurity Platform](https://app.24metrics.com/signup)
+    * [AdSecurity Platform](https://adsecurity.24metrics.com/signup)
 
 * Login
-    * [AdSecurity Platform](https://app.24metrics.com/)
-    * [Fraudshield](https://fraudshield.24metrics.com/)
+    * [AdSecurity Platform](http://adsecurity.24metrics.com/)
+    * [Fraudshield](http://fraudshield.24metrics.com/)
 * Start a Free Trial
-    * [AdSecurity Platform](https://app.24metrics.com/signup)
+    * [AdSecurity Platform](https://adsecurity.24metrics.com/signup)
 
 ![24metrics Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%2084'%3E%3C/svg%3E)
 
@@ -86,12 +86,14 @@ Copyrights® 24metrics. All Rights Reserved.
 
 * [Terms and Conditions](https://www.24metrics.com/terms_and_conditions/)
 * [Privacy Policy](https://www.24metrics.com/privacy-policy/)
+* [Referral Program](http://referrals.24metrics.com/)
 * [Contact](https://www.24metrics.com/contact/)
 * [Help](https://www.24metrics.com/)
 * [Service Operational Status](https://status.24metrics.com/)
 
 * [Terms and Conditions](https://www.24metrics.com/terms_and_conditions/)
 * [Privacy Policy](https://www.24metrics.com/privacy-policy/)
+* [Referral Program](http://referrals.24metrics.com/)
 * [Contact](https://www.24metrics.com/contact/)
 * [Help](https://www.24metrics.com/)
 * [Service Operational Status](https://status.24metrics.com/)
