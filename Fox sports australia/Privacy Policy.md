@@ -18,22 +18,22 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 1
+    Day 2 Session 2
     
     |     |     |
     | --- | --- |
-    | PAK | 5 /259 |
+    | PAK | 9 /360 |
     | ENG |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
 * [Men's Test
     
-    16/10 15:00 AEST
+    Day 1 Session 2
     
     |     |     |
     | --- | --- |
-    | IND | –   |
-    | NZL | –   |
+    | IND |     |
+    | NZL |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250301)
 * [Women's T20 WC
@@ -48,42 +48,34 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250120)
 * [Women's T20
     
+    HOB won by 3 wkts
+    
     |     |     |
     | --- | --- |
     | ACT | 7 /122 |
-    | HOB | 4 /74 |
+    | HOB | 7 /126 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250114)
 * [Women's T20
     
+    BRI won by 6 wkts
+    
     |     |     |
     | --- | --- |
     | ADE | 6 /175 |
-    | BRI | 1 /27 |
+    | BRI | 4 /176 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250115)
 * [Women's T20
     
-    16/10 14:30 AEST
+    SYDT won by 61 runs
     
     |     |     |
     | --- | --- |
-    | SYDT | –   |
-    | PER | –   |
+    | SYDT | 3 /183 |
+    | PER | 9 /122 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250116)
-* Football
-    
-* [WCQ
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | JPN | 1   |
-    | AUS | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250401)
 * Netball
     
 * [Women's Test
@@ -172,16 +164,28 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=712)
+* Football
+    
+* [WCQ
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | KSA | 0   |
+    | BHR | 0   |
+    
+    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250403)
 * Baseball
     
 * [MLB
     
-    Bottom 6th Innings
+    Final
     
     |     |     |
     | --- | --- |
-    | NYY | 3   |
-    | CLE | 2   |
+    | NYY | 6   |
+    | CLE | 3   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240020026E104)
 
