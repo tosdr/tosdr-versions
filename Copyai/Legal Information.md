@@ -58,7 +58,17 @@ Technical Resources
 
 [The Power of "Actions" for GTM Teams: The Building Blocks of Workflows](https://copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://copy.ai/blog/introducing-tables)[How Automated Workflows and SOC 2 Compliance Protect Your Data](https://copy.ai/blog/how-automated-workflows-and-soc-2-compliance-protect-your-data)
 
-[Pricing](https://copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)
+[Pricing](https://copy.ai/prices)
+
+GTM AI
+
+LEarn More
+
+[Why GTM AI](https://copy.ai/gtm-ai)[Goodbye, Copilots](https://copy.ai/goodbye-copilots)[The Problem with AI SDRs](https://copy.ai/injured)
+
+FEATURED RESOURCES
+
+[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[How to Diagnose and Solve GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
 
 [Login](https://app.copy.ai/login)[Contact Sales
 
@@ -120,7 +130,17 @@ Technical Resources
 
 [The Power of "Actions" for GTM Teams: The Building Blocks of Workflows](https://copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://copy.ai/blog/introducing-tables)[How Automated Workflows and SOC 2 Compliance Protect Your Data](https://copy.ai/blog/how-automated-workflows-and-soc-2-compliance-protect-your-data)
 
-[Pricing](https://copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)
+[Pricing](https://copy.ai/prices)
+
+GTM AI
+
+LEarn More
+
+[Why GTM AI](https://copy.ai/gtm-ai)[Goodbye, Copilots](https://copy.ai/goodbye-copilots)[The Problem with AI SDRs](https://copy.ai/injured)
+
+FEATURED RESOURCES
+
+[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[How to Diagnose and Solve GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
 
 [Login](https://app.copy.ai/login)[Contact Sales  
 
@@ -507,7 +527,7 @@ By Team
 
 Learn more
 
-[Blog](https://copy.ai/blog)[Events](https://copy.ai/webinars)[For The Enterprise](#)[Trust Center](https://trust.copy.ai/)
+[Blog](https://copy.ai/blog)[Events](https://copy.ai/webinars)[For The Enterprise](https://copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)
 
 Get help
 
