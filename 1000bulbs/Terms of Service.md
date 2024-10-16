@@ -125,6 +125,19 @@ These Terms and Conditions supersede any other agreement between you and 1000Bul
 * As always, message and data rates may apply for any messages sent to you from us and to us from you. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
 * If you have any questions regarding privacy, please read our privacy policy: [Here](https://www.1000bulbs.com/pages/privacy-policy.html)
 
+### Gift Card Terms
+
+To ensure fair use of our promotional gift card offers, [1000bulbs.com](http://1000bulbs.com/) has implemented the following restrictions:
+
+1. 1. **One Gift Card Per Day**: Customers are eligible to receive only one gift card per day, regardless of the number of orders placed.
+        
+    2. **Order Consolidation**: Splitting large orders into multiple smaller orders to obtain additional gift cards is not permitted. We reserve the right to combine multiple orders from the same customer within a 24-hour period and issue only one gift card.
+        
+    3. **Gift Card Eligibility**: Orders that qualify for gift cards must meet the specified minimum purchase amount. The total amount of orders cannot be split across multiple transactions to claim additional cards.
+        
+    4. **Violation of Terms**: Customers who attempt to exploit the gift card offer by violating these terms may be subject to order cancellations or a restriction on future gift card eligibility. By placing an order and participating in our promotional offers, you agree to these terms.
+        
+
 ### Midstream Capacity Programs
 
 Depending on the geographic region of the sale, 1000Bulbs.com participates in grid-related midstream programs where the customer agrees to transfer the capacity rights to the demand savings created by the installation of the purchased products.
@@ -231,4 +244,4 @@ For any other questions, we staff an expert team of specialists to handle your q
 
 ![](https://dc.ads.linkedin.com/collect/?pid=323770&fmt=gif)
 
-1kb-01 // fafe770fc3783cc6a636d61d29ec756b
+1kb-07 // fafe770fc3783cc6a636d61d29ec756b
