@@ -323,23 +323,23 @@ October 1, 2024
 Related Content
 ---------------
 
+### [Dear Colleague Letter: Executive Order on Supporting HSIs](https://www2.ed.gov/node/7190)
+
+Read Secretary Cardona's Dear Colleague Letter about how Executive Order 14124 reinforces ED's commitment to address inequities faced by HSIs and the students they serve.
+
+October 16, 2024
+
+### [Religious Exemptions Index Archive](https://www2.ed.gov/node/7186)
+
+U.S. Dept. of Education Office for Civil Rights Religious Exemptions Index Archive. Updated as of December 31, 2016
+
+October 16, 2024
+
 ### [IDEA Part B Differentiated Monitoring and Support (DMS) Reports](https://www2.ed.gov/node/7166)
 
 View IDEA Part B Differentiated Monitoring and Support (DMS) Reports by state.
 
 October 10, 2024
-
-### [The Better FAFSA: What Colleges and Universities Need to Know](https://www2.ed.gov/node/7150)
-
-Completing and submitting the FAFSA form is free, and it gives students access to the largest source of financial aid to help pay for higher education.
-
-February 27, 2024
-
-### [The Better FAFSA: What High School Educators and College Access Counselors Need to Know](https://www2.ed.gov/node/7149)
-
-The Better FAFSA: What High School Educators and College Access Counselors Need to Know
-
-October 8, 2024
 
 [Return to top](#)
 
