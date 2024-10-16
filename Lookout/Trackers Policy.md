@@ -101,15 +101,15 @@
             
             AI-powered, multi-layered threat defense solution](https://security.lookout.com/solutions/advanced-threat-protection)
     
-    New Features
+    Recent Report
     
-    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/670ca0cee9e241b80c538629_lookout-smishing-launch-sneak-peak-nav-en-1200x628.avif)
+    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/66df31976d08f420838c2710_Q22024report.avif)
     
     Webflow in 2021
     
-    * ANNOUNCING THIS WEEK
+    * Read Lookout's Q2 2024 Mobile Threat Landscape Report
         
-        Enhancing your protection against the modern kill chain](https://resources.lookout.com/resources/the-modern-kill-chain-how-attacks-have-gone-from-months-to-minutes)
+        Enhancing your protection against the modern kill chain](https://www.lookout.com/threat-intelligence/report/q2-2024-mobile-landscape-threat-report)
     
 * Partners
     
