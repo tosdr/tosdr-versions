@@ -1802,7 +1802,7 @@ Wir haben mit dem Anbieter einen Auftragsverarbeitungsvertrag geschlossen, der d
 
 ### Unsere Nutzung der Utiq-Technologie
 
-Die Utiq-Technologie wird von Utiq SA/NV bereitgestellt, einem europäischen AdTech-Unternehmen, das mit teilnehmenden Telekommunikationsnetzbetreibern (siehe Liste [hier](https://consenthub.utiq.com/pages/privacy-statement "Datenschutzerklärung von Utiq")) zusammenarbeitet, die zum Betrieb der Technologie beitragen. Die Utiq-Technologie ermöglicht es Webseiten wie der unseren, die die Utiq-Technologie nutzen, unsere digitalen Marketingaktivitäten durchzuführen.
+Die Utiq-Technologie wird von Utiq SA/NV bereitgestellt, einem europäischen AdTech-Unternehmen, das mit teilnehmenden Telekommunikationsnetzbetreibern (siehe Liste [hier](https://consenthub.utiq.com/pages/privacy-statement#telecom-operators "Datenschutzerklärung von Utiq")) zusammenarbeitet, die zum Betrieb der Technologie beitragen. Die Utiq-Technologie ermöglicht es Webseiten wie der unseren, die die Utiq-Technologie nutzen, unsere digitalen Marketingaktivitäten durchzuführen.
 
 Wir verwenden die Utiq-Technologie auf unserer Webseite. Wenn Sie der Aktivierung dieser Technologie zustimmen, werden wir sie verwenden, um Sie als denselben Webseiten-Besucher zu erkennen und Erkenntnisse über Ihr Nutzungsverhalten auf unserer Webseite zu sammeln. So können wir Ihnen personalisierte Inhalte und Werbung anbieten oder Analysen durchführen, je nachdem, welche zusätzlichen Einwilligungen Sie uns für diese Zwecke erteilt haben.
 
@@ -1813,8 +1813,7 @@ Für bestimmte Phasen der Datenverarbeitung fungieren wir zusammen mit Utiq als 
 * holen wir Ihre Einwilligung zur Nutzung der Utiq-Technologie ein; dies gilt auch für die von Utiq und Ihrem Telekommunikationsnetzbetreiber durchgeführten Verarbeitungsprozesse;
 * stellen wir Ihnen einen speziellen Link am unteren Rand unserer Webseite bereit, über den Sie Informationen über die Technologie und deren Verwaltung erhalten;
 * stellt Utiq Ihnen ein Datenschutzportal ([consenthub](https://consenthub.utiq.com/ "Consenthub")) zur Verfügung, um Ihnen die Ausübung Ihrer Datenschutzrechte zu erleichtern und Ihnen die einfache Verwaltung Ihrer Einwilligungen bei Utiq zu ermöglichen; zu jeder Zeit, an einem Ort.
-
-Ungeachtet dessen, dass Sie Ihre Rechte in Bezug auf jeden Datenverantwortlichen ausüben können, fungiert Utiq als gemeinsame Kontaktstelle für alle Fragen oder Anliegen, die Sie im Zusammenhang mit der Utiq-Technologie haben.
+* Ungeachtet dessen, dass Sie Ihre Rechte in Bezug auf jeden Datenverantwortlichen ausüben können, fungiert Utiq als gemeinsame Kontaktstelle für alle Fragen oder Anliegen, die Sie im Zusammenhang mit der Utiq-Technologie haben.
 
 Über das Utiq-Datenschutzportal ([consenthub](https://consenthub.utiq.com/ "Consenthub")) können Sie alle von Ihnen erteilten Einwilligungen zur Nutzung der Utiq-Technologie auf allen an Utiq beteiligten Webseiten einsehen und widerrufen.  
 Sie können Ihre nur für diese Webseite geltende Einwilligung auch [hier widerrufen](https://www.zeit.de/utiq-verwalten "Hier widerrufen").
