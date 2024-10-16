@@ -103,8 +103,6 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[CONFIRMED: Largest tornado outbreak since 1950 in South Florida](https://www.fox4now.com/weather/hurricane-center/confirmed-largest-tornado-outbreak-since-1950-in-south-florida)
-
 Terms of Use
 ============
 
