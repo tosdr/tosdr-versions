@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Carnivorous plants eat faster with a fungal friend](https://www.sciencenews.org/article/carnivorous-plant-sundew-fungus-digest)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")2 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")8 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -186,6 +186,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
     * * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
+            ### [The cataclysmic origins of most of Earth’s meteorites have been found](https://www.sciencenews.org/article/origins-earths-meteorites-found)
+            
+            By [Robin George Andrews](https://www.sciencenews.org/author/robin-george-andrews "Posts by Robin George Andrews")6 hours ago
+            
+        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
+            
             ### [NASA’s Europa mission is a homecoming for one planetary astronomer](https://www.sciencenews.org/article/buratti-nasa-europa-mission)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 15, 2024
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Saturn’s first Trojan asteroid has finally been discovered](https://www.sciencenews.org/article/saturn-first-trojan-asteroid-discovered)
             
             By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")October 11, 2024
-            
-        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
-            
-            ### [Runaway stars could influence the cosmos far past their home galaxies](https://www.sciencenews.org/article/runaway-stars-cosmos-galaxies)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 9, 2024
             
 
 Privacy Policy
