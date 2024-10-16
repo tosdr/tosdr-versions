@@ -249,11 +249,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
-
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
 [Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
+
+[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -261,11 +261,11 @@ this week
 
 [Sun](https://www.sciencedaily.com/news/space_time/sun/)
 
-[Consumer Electronics](https://www.sciencedaily.com/news/matter_energy/consumer_electronics/)
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
 [Extinction](https://www.sciencedaily.com/news/plants_animals/extinction/)
 
