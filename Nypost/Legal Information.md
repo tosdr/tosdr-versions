@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Exclusive
-
-[Trump supporter in hiding, fears for his life after being accused of ‘third assassination attempt’ against former prez](https://nypost.com/2024/10/16/us-news/vem-miller-is-in-hiding-and-fears-for-his-life-after-being-branded-would-be-assassin/)
-
 Privacy Notice Highlights
 =========================
 
