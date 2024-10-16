@@ -108,16 +108,16 @@ Advertisement
 
 ###### Highest Rated This Month
 
-* [![WWII From Space](/wp-content/thumbnails/8361-100x70.jpeg?x53432)
-    
-    WWII From Space
-    
-    It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
 * [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
     
     Prisoners of Katrina
     
     n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
+* [![WWII From Space](/wp-content/thumbnails/8361-100x70.jpeg?x53432)
+    
+    WWII From Space
+    
+    It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
 * [![Amy Winehouse: What Really Happened](/wp-content/thumbnails/6033-100x70.jpg?x53432)
     
     Amy Winehouse: What Really Happened
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Defeating the Superbugs](/wp-content/thumbnails/6723-100x70.jpg?x53432)
+* [![Bugging Hitler’s Soldiers](/wp-content/thumbnails/7632-100x70.jpg?x53432)
     
-    Defeating the Superbugs
+    Bugging Hitler’s Soldiers
     
-    Scientists and researchers discuss their efforts to thwart potentially lethal strains of bacteria that have grown resistant to conventional antibiotics. The programme follows projects designed to trac](https://documentaryheaven.com/defeating-the-superbugs/ "Defeating the Superbugs")
-* [![Wasted: Armed With A Voice](/wp-content/thumbnails/6687-100x70.jpg?x53432)
+    Spied upon by MI19 in a bugging operation of unprecedented scale and cunning, 4,000 German POW’s revealed their inner thoughts about the Third Reich and let slip military secrets that helped the Allie](https://documentaryheaven.com/bugging-hitlers-soldiers/ "Bugging Hitler’s Soldiers")
+* [![Time: Earthtime](/wp-content/thumbnails/2285-100x70.jpg?x53432)
     
-    Wasted: Armed With A Voice
+    Time: Earthtime
     
-    15 years of do-it-yourself punk rock and still on the map! Wasted have had their share of ups and downs during the course of countless tours and releases on labels such as Combat Rock Industry, Twiste](https://documentaryheaven.com/wasted-armed-with-a-voice/ "Wasted: Armed With A Voice")
-* [![My Son The Jihadi](/wp-content/thumbnails/12795-100x70.jpg?x53432)
+    In this four-programme series, string theory pioneer Michio Kaku goes on an extraordinary exploration of the world in search of time. He discovers our sense of time passing and the clocks that drive](https://documentaryheaven.com/time-earthtime-3/ "Time: Earthtime")
+* [![Wartorn](/wp-content/thumbnails/9147-100x70.jpg?x53432)
     
-    My Son The Jihadi
+    Wartorn
     
-    Sally Evans, mother of two, is on a journey to discover what it was that drove her eldest son Thomas to join leave home and join the deadly Islamic terror group known as Al Shabaab. Thomas was only 21](https://documentaryheaven.com/my-son-jihadi/ "My Son The Jihadi")
-* [![Lucent](/wp-content/thumbnails/11868-100x70.jpg?x53432)
+    Wartorn is a HBO special which examines how war can effect a soldiers mental well being, inflicting an invisible wound which some find hard to recover from. Suicide among those who currently serve and](https://documentaryheaven.com/wartorn/ "Wartorn")
+* [![Money and Power in North Korea: Hidden Economy](/wp-content/thumbnails/9584-100x70.jpg?x53432)
     
-    Lucent
+    Money and Power in North Korea: Hidden Economy
     
-    Pigs are one of the smartest animals on the planet, their intelligence surpasses that of 3 year old children, dogs and even some primates. Much like humans, pigs have their own individual personality,](https://documentaryheaven.com/lucent/ "Lucent")
-* [![In Pot We Trust](/wp-content/thumbnails/1043-100x70.jpg?x53432)
+    With the ever growing number of sanctions being put on North Korea, the hermit country is becoming increasing cut off from the rest of the world. This film asks the question, how is it Kim Jong Un's r](https://documentaryheaven.com/money-power-north-korea-hidden-economy/ "Money and Power in North Korea: Hidden Economy")
+* [![Attenborough and the Empire of the Ants](/wp-content/thumbnails/14227-100x70.jpg?x53432)
     
-    In Pot We Trust
+    Attenborough and the Empire of the Ants
     
-    The medical use of marijuana is examined from every side of a very complex issue with this documentary that charts the suffering of four chronically ill patients whose reliance on the illegal drug as](https://documentaryheaven.com/in-pot-we-trust/ "In Pot We Trust")
+    David Attenborough takes us to the Jura Mountains, located on the French, Swiss border. At the time of filming the mountains were in the grip of winter, the ground has been frozen solid for month](https://documentaryheaven.com/attenborough-empire-of-ants/ "Attenborough and the Empire of the Ants")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
