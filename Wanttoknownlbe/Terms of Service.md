@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/de-evolutie-van-bewustzijn-law-of-one/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-13e-kristallen-schedel-het-hele-paradigma/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
