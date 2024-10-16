@@ -197,59 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Henry Venter
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=50834768)  
-Little Nutty Professors
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=21613296)  
+webb it services
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=170585732)  
-Eruca (PTY)Ltd
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=149839982)  
+CGHK Enterprises (PTY) LTD
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=140568956)  
-Kaylas Creations
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=158817174)  
+FX ACCOUNTING
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=89509739)  
-Redlum Group (Pty) Ltd
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=70866415)  
+Brilliant Roof Products
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=167632798)  
-Highlands Auto Engineering
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=197600938)  
-Myfinance-Online
-
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=82770777)  
-Printo
-
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=201617488)  
-MONSTER SECURITY SERVICES
-
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=125139785)  
-Calonet
-
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=130643786)  
-Peter Salvage Pty Ltd
-
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=80572525)  
-Beyond Laser CNC Cutting Technology South Africa CC
-
-![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=212330220)  
-Sportspro Group (Pty) Ltd
-
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=139587103)  
-#DiGi3 Marketing & Design
-
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=85371853)  
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=111527907)  
 Salvage Genie
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=a54be24cf7f22cdb505a89f9efb568f8d55bb3cbfd5dcb2ae2daedfdf816fbd7&c=162041044)  
-AMS Ambu Medical Supplies
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=42938440)  
+Creative Characters
+
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=49142447)  
+Kara Medical (Pty) Ltd
+
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=140555593)  
+Multi CNC Solutions CC
+
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=84347457)  
+Cooper Logistics (Pty) Ltd
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=69029730)  
+NEW BEGINNINGS DESIGNS
+
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=171145654)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=41272289)  
+AquariumSmiths
+
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=18159806)  
+Kaylas Creations
+
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=116734942)  
+All Trucking Solutions
+
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=144428009)  
+SLOANE STAR MEAT MARKET
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
