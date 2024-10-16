@@ -140,6 +140,14 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Lachlan Werner](https://cdn.comedy.co.uk/images/library/people/300x200/l/lachlan_werner_bw.jpg "Lachlan Werner")](https://www.comedy.co.uk/live/features/lachlan-werner-spooky-heroes/) Live
+
+[Lachlan Werner's top 10 spooky heroes](https://www.comedy.co.uk/live/features/lachlan-werner-spooky-heroes/)
+
+[![Slinger's Day. Cecil Slinger (Bruce Forsyth). Copyright: Thames Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/s/slingers_day2.jpg "Slinger's Day. Cecil Slinger (Bruce Forsyth). Copyright: Thames Television")](https://www.comedy.co.uk/quiz/328/) Quiz
+
+[British Comedy Quiz #328](https://www.comedy.co.uk/quiz/328/)
+
 [![BAB. Image shows left to right: Amy Spinks, Lauren Soley](https://cdn.comedy.co.uk/images/library/misc/300x200/b/bab_comedy.jpg "BAB. Image shows left to right: Amy Spinks, Lauren Soley")](https://www.comedy.co.uk/live/random8/bab-amy-spinks-lauren-soley/) Live
 
 [Random 8: BAB](https://www.comedy.co.uk/live/random8/bab-amy-spinks-lauren-soley/)
@@ -147,14 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![No - Honestly. Image shows left to right: C.D. (John Alderton), Clara (Pauline Collins). Credit: London Weekend Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/n/no_honestly2.jpg "No - Honestly. Image shows left to right: C.D. (John Alderton), Clara (Pauline Collins). Credit: London Weekend Television")](https://www.comedy.co.uk/features/comedy-rewind/no-honestly/) Features
 
 [Comedy Rewind: No - Honestly; it's charming](https://www.comedy.co.uk/features/comedy-rewind/no-honestly/)
-
-[![Everyone Else Burns. Image shows left to right: Rachel (Amy James-Kelly), Fiona Lewis (Kate O'Flynn), David Lewis (Simon Bird), Aaron (Harry Connor)](https://cdn.comedy.co.uk/images/library/comedies/300x200/e/everyone_else_burns_series2.jpg "Everyone Else Burns. Image shows left to right: Rachel (Amy James-Kelly), Fiona Lewis (Kate O'Flynn), David Lewis (Simon Bird), Aaron (Harry Connor)")](https://www.comedy.co.uk/tv/everyone-else-burns/interviews/series-2-cast-and-writers/) TV
-
-[Everyone Else Burns interview](https://www.comedy.co.uk/tv/everyone-else-burns/interviews/series-2-cast-and-writers/)
-
-[![Anthony Slide](https://cdn.comedy.co.uk/images/library/people/300x200/a/anthony_slide.jpg "Anthony Slide")](https://www.comedy.co.uk/people/anthony-slide/features/anthony-slide-on-writing-about-comedy/) People
-
-[Anthony Slide on writing about the golden era of British comedy](https://www.comedy.co.uk/people/anthony-slide/features/anthony-slide-on-writing-about-comedy/)
 
 #### Subscribe to our newsletters
 
