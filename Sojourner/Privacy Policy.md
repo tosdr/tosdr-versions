@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-dc0bda54d4f99aeda004e6a4109075c8
+dcb93b4f3ac659aaba3f8ee867411296
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![20 mm oval African turquoise beads](https://www.sojourner.biz/images/cache/stone/TU0016.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/turquoise/20-mm-oval-african-turquoise-beads.html "20 mm oval African turquoise beads")
+[![Vintage German turquoise twist beads](https://www.sojourner.biz/images/cache/glass/GL0024.200.jpg)](https://www.sojourner.biz/beads/glass/vintage-german-turquoise-twist-beads.html "Vintage German turquoise twist beads")
 
-#### [20 mm oval African turquoise beads](https://www.sojourner.biz/beads/stone-m-z/turquoise/20-mm-oval-african-turquoise-beads.html "20 mm oval African turquoise beads")
+#### [Vintage German turquoise twist beads](https://www.sojourner.biz/beads/glass/vintage-german-turquoise-twist-beads.html "Vintage German turquoise twist beads")
 
-$25.00
+$15.00
 
 ### Best Sellers
 
