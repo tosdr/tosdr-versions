@@ -211,9 +211,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Victor Joecks Passive-Aggressive Biden Wants Harris to Lose](https://patriotpost.us/opinion/111087-passive-aggressive-biden-wants-harris-to-lose-2024-10-15)
 *      [Gary Bauer China Hacks Again](https://patriotpost.us/opinion/111085-china-hacks-again-2024-10-15)
 *      [Cal Thomas Obama to the Rescue](https://patriotpost.us/opinion/111061-obama-to-the-rescue-2024-10-15)
-*      [Mark Alexander Did You Hear About This Endorsement?](https://patriotpost.us/alexander/111092-did-you-hear-about-this-endorsement-2024-10-15)
-*      [Stephen Moore Kamala Harris Wants America to Have the World’s Highest Death Tax](https://patriotpost.us/opinion/111086-kamala-harris-wants-america-to-have-the-worlds-highest-death-tax-2024-10-15)
-*      [The Babylon Bee Kamala Harris Announces All-New Original Book: ‘The Art Of The Deal’](https://patriotpost.us/opinion/111093-kamala-harris-announces-all-new-original-book-the-art-of-the-deal-2024-10-15)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -227,7 +224,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
