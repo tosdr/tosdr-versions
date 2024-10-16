@@ -18,17 +18,17 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 2 Session 2
+    Day 2
     
     |     |     |
     | --- | --- |
-    | PAK | 9 /360 |
-    | ENG |     |
+    | PAK | 366 |
+    | ENG | 6 /239 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
 * [Men's Test
     
-    Day 1 Session 2
+    Day 1
     
     |     |     |
     | --- | --- |
@@ -36,16 +36,6 @@ FOX SCORES
     | NZL |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250301)
-* [Women's T20 WC
-    
-    WI won by 6 wkts
-    
-    |     |     |
-    | --- | --- |
-    | ENG | 7 /141 |
-    | WI  | 4 /144 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250120)
 * [Women's T20
     
     HOB won by 3 wkts
@@ -76,6 +66,26 @@ FOX SCORES
     | PER | 9 /122 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250116)
+* [Women's T20
+    
+    17/10 10:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYDT | –   |
+    | SYD6 | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250117)
+* [Women's T20
+    
+    17/10 14:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MELR | –   |
+    | MELS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250118)
 * Netball
     
 * [Women's Test
@@ -164,18 +174,6 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=712)
-* Football
-    
-* [WCQ
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | KSA | 0   |
-    | BHR | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250403)
 * Baseball
     
 * [MLB
@@ -188,6 +186,16 @@ FOX SCORES
     | CLE | 3   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240020026E104)
+* [MLB
+    
+    17/10 11:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NYM | –   |
+    | LAD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002434AC)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
