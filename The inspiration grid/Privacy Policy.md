@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/design-sela-feature.jpg)
+
+[](https://theinspirationgrid.com/space-exploration-logo-archive-an-anthology-by-davide-mascioli/)
+
+### Space Exploration Logo Archive: An Anthology by Davide Mascioli
+
+![](https://inspgr.id/app/uploads/2024/10/illustration-leandro-alzate-feature.jpg)
+
+[](https://theinspirationgrid.com/quirky-illustrations-by-leandro-alzate/)
+
+### Quirky Illustrations by Leandro Alzate
+
 ![](https://inspgr.id/app/uploads/2024/10/art-adam-shub-feature.jpg)
 
 [](https://theinspirationgrid.com/nostalgic-pixel-paintings-by-adam-shub/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/bold-large-scale-murals-by-epsilon/)
 
 ### Bold Large-Scale Murals by Epsilon
-
-![](https://inspgr.id/app/uploads/2024/10/branding-wwwind-feature.jpg)
-
-[](https://theinspirationgrid.com/wwwind-studio-branding-by-slowfire-design/)
-
-### Wwwind Studio Branding by Slowfire Design
-
-![](https://inspgr.id/app/uploads/2024/10/illustration-leandro-lassmar-feature.jpg)
-
-[](https://theinspirationgrid.com/dynamic-illustrations-by-leandro-lassmar/)
-
-### Dynamic Illustrations by Leandro Lassmar
 
 Awesome products for creatives
 ------------------------------
