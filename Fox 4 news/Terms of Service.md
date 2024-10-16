@@ -3,9 +3,9 @@
 * [Live](https://www.fox4news.com/live)
 * [News](https://www.fox4news.com/news)
 * [Weather](https://www.fox4news.com/weather)
-* [Sports](https://www.fox4news.com/sports)
+* [2024 Election](https://www.fox4news.com/election)
 * [Good Day](https://www.fox4news.com/shows/good-day)
-* [State Fair](https://www.fox4news.com/shows/state-fair-of-texas)
+* [Sports](https://www.fox4news.com/sports)
 * [Vote](https://www.fox4news.com/vote)
 * [More](#)
 
