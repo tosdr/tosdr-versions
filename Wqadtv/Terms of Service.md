@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/2fbf3583-1d4b-4d16-ad63-cefd40324f63/20240723T031857/2fbf3583-1d4b-4d16-ad63-cefd40324f63_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2fbf3583-1d4b-4d16-ad63-cefd40324f63/20240723T031857/2fbf3583-1d4b-4d16-ad63-cefd40324f63_360x203.jpg)](https://www.wqad.com/article/news/local/arrowhead-ranch-holding-yard-sale/526-40a19cf9-b15b-469a-9706-0d04c4366273)
+        
+        #### [Arrowhead Ranch selling old property in yard sale](https://www.wqad.com/article/news/local/arrowhead-ranch-holding-yard-sale/526-40a19cf9-b15b-469a-9706-0d04c4366273)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/660a271d-ba2f-45cb-8807-f01d4d3dbb74/20240917T214727/660a271d-ba2f-45cb-8807-f01d4d3dbb74_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/660a271d-ba2f-45cb-8807-f01d4d3dbb74/20240917T214727/660a271d-ba2f-45cb-8807-f01d4d3dbb74_360x203.jpg)](https://www.wqad.com/article/news/local/tiktok-addiction-signs-advice/526-341c7fa4-15e4-4b6e-bf2a-b5fb1af8e4fb)
         
         #### [What is TikTok addiction, and how can you spot it?](https://www.wqad.com/article/news/local/tiktok-addiction-signs-advice/526-341c7fa4-15e4-4b6e-bf2a-b5fb1af8e4fb)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/lee-county-ashton-illinois-murder-teenage/526-4f70aafc-b892-4568-b90a-8d3a88cc258c)
-        
-        #### [16-year-old girl killed in Lee County homicide](https://www.wqad.com/article/news/local/public-safety/lee-county-ashton-illinois-murder-teenage/526-4f70aafc-b892-4568-b90a-8d3a88cc258c)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/2aa0f146-9f7e-4782-878d-c292a78630c4/20241015T224016/2aa0f146-9f7e-4782-878d-c292a78630c4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2aa0f146-9f7e-4782-878d-c292a78630c4/20241015T224016/2aa0f146-9f7e-4782-878d-c292a78630c4_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e5b7cead-f713-492b-9454-032e0d6cd0db/20241016T121223/e5b7cead-f713-492b-9454-032e0d6cd0db_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e5b7cead-f713-492b-9454-032e0d6cd0db/20241016T121223/e5b7cead-f713-492b-9454-032e0d6cd0db_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [More warmth on the way for the rest of the week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/KING/images/ca8780a2-4d0b-47e0-82cd-d44fce16bc90/ca8780a2-4d0b-47e0-82cd-d44fce16bc90_16x9.jpg) ![](https://media.tegna-media.com/assets/KING/images/ca8780a2-4d0b-47e0-82cd-d44fce16bc90/ca8780a2-4d0b-47e0-82cd-d44fce16bc90_360x203.jpg)](https://www.wqad.com/article/weather/frost-freeze-iowa-illinois-first-of-the-season/526-c2316dfc-ef51-434a-b73f-0ba6dd8dd0a3)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_360x203.jpg)](https://www.wqad.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
         
-        #### [First frost and freeze of the season in the forecast](https://www.wqad.com/article/weather/frost-freeze-iowa-illinois-first-of-the-season/526-c2316dfc-ef51-434a-b73f-0ba6dd8dd0a3)
+        #### [October's supermoon pairs with a comet for a special nighttime spectacle](https://www.wqad.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-29°
+51°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
