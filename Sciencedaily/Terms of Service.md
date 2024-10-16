@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 15, 2024**
+**October 16, 2024**
 
 * * *
 
@@ -251,25 +251,25 @@ this week
 
 [Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
 
-[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
-
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
+
+[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
-
-[Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
-
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+
+[Sun](https://www.sciencedaily.com/news/space_time/sun/)
+
+[Consumer Electronics](https://www.sciencedaily.com/news/matter_energy/consumer_electronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
+[Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
 
-[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
+[Extinction](https://www.sciencedaily.com/news/plants_animals/extinction/)
 
-[Human Evolution](https://www.sciencedaily.com/news/fossils_ruins/human_evolution/)
+[Endangered Animals](https://www.sciencedaily.com/news/plants_animals/endangered_animals/)
 
   
 
