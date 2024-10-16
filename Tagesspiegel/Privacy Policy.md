@@ -742,4 +742,4 @@ false
 
 öffnet in neuem Tab oder Fenster
 
-console.debug({ userId: "", verifiedBot: "false", botCategory: "" })
+**javascript:console.deb**ug**({ userId: "", verifiedBot: "false", botCategory: "" })**
