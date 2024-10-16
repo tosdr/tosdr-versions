@@ -2,8 +2,6 @@
 
  
 
-[TODAY ONLY: FREE TOTE WITH EVERY ORDER WHILE SUPPLIES LAST](https://www.deathwishcoffee.com/products/black-reusable-bag)
-
      
 
 * Coffee
