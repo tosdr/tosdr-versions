@@ -299,6 +299,38 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» и «Отцы России» вручили медали общественного признания «Отец солдата» и премии «Окопная свеча»](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-otcy-rossii-vruchili-medali-obshestvennogo-priznaniya-otec-soldata-i-premii-okopnaya-svecha)
+
+[«Единая Россия» и «Отцы России» вручили медали общественного признания «Отец солдата» и премии «Окопная свеча»](https://er.ru/activity/news/edinaya-rossiya-i-otcy-rossii-vruchili-medali-obshestvennogo-priznaniya-otec-soldata-i-premii-okopnaya-svecha)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#ГероиРоссии](https://er.ru/activity/news?tags%5B0%5D=114262) [#Коченов](https://er.ru/activity/news?tags%5B0%5D=1095283) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#ДеньОтца](https://er.ru/activity/news?tags%5B0%5D=1092263) [#Цивилева](https://er.ru/activity/news?tags%5B0%5D=1095455) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633)
+
+Сегодня 13:20
+
+[![Дмитрий Вяткин: Важнейшее направление работы «Единой России» – меры поддержки участников СВО и членов их семей](https://cdn.er.ru/media/news/October2024/5CmBjYvh0Sa98SiX6V4K-small.jpg)](https://er.ru/activity/news/dmitrij-vyatkin-vazhnejshee-napravlenie-raboty-edinoj-rossii-mery-podderzhki-uchastnikov-svo-i-chlenov-ih-semej)
+
+[Дмитрий Вяткин: Важнейшее направление работы «Единой России» – меры поддержки участников СВО и членов их семей](https://er.ru/activity/news/dmitrij-vyatkin-vazhnejshee-napravlenie-raboty-edinoj-rossii-mery-podderzhki-uchastnikov-svo-i-chlenov-ih-semej)
+
+[#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581)
+
+Сегодня 12:10
+
+[![Андрей Исаев: «Детский» бюджет в 2025-2027 годах превысит 10 триллионов рублей, включая адресную поддержку](https://cdn.er.ru/media/news/October2024/G1gvBG04KVX0gMwwQg3W-small.jpg)](https://er.ru/activity/news/andrej-isaev-detskij-byudzhet-v-2025-2027-godah-prevysit-10-trillionov-rublej-vklyuchaya-adresnuyu-podderzhku)
+
+[Андрей Исаев: «Детский» бюджет в 2025-2027 годах превысит 10 триллионов рублей, включая адресную поддержку](https://er.ru/activity/news/andrej-isaev-detskij-byudzhet-v-2025-2027-godah-prevysit-10-trillionov-rublej-vklyuchaya-adresnuyu-podderzhku)
+
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562)
+
+Сегодня 09:35
+
+[![Владимир Якушев обсудил с Викторией Абрамченко задачи партпроекта «Единой России» «Зелёная экономика»](https://cdn.er.ru/media/news/October2024/IfKxOJLEakKG97Nn0tyC-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-obsudil-s-viktoriej-abramchenko-zadachi-partproekta-edinoj-rossii-zelyonaya-ekonomika)
+
+[Владимир Якушев обсудил с Викторией Абрамченко задачи партпроекта «Единой России» «Зелёная экономика»](https://er.ru/activity/news/vladimir-yakushev-obsudil-s-viktoriej-abramchenko-zadachi-partproekta-edinoj-rossii-zelyonaya-ekonomika)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Абрамченко](https://er.ru/activity/news?tags%5B0%5D=88828) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#зеленаяэкономика](https://er.ru/activity/news?tags%5B0%5D=146899) [#экология](https://er.ru/activity/news?tags%5B0%5D=170) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ТКО](https://er.ru/activity/news?tags%5B0%5D=87494)
+
+Сегодня 09:00
+
 [![«Единая Россия» проведёт мероприятия ко Дню отца по всей стране](https://cdn.er.ru/media/news/October2024/zLFfpbOrwYLIj3O9wbX5-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provedyot-meropriyatiya-ko-dnyu-otca-po-vsej-strane)
 
 [«Единая Россия» проведёт мероприятия ко Дню отца по всей стране](https://er.ru/activity/news/edinaya-rossiya-provedyot-meropriyatiya-ko-dnyu-otca-po-vsej-strane)
@@ -312,38 +344,6 @@
 [Комиссия Бюро Высшего совета «Единой России» проработает меры по совершенствованию системы образования для решения актуальных кадровых проблем](https://er.ru/activity/news/komissiya-byuro-vysshego-soveta-edinoj-rossii-prorabotaet-mery-po-sovershenstvovaniyu-sistemy-obrazovaniya-dlya-resheniya-aktualnyh-kadrovyh-problem)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кравченко](https://er.ru/activity/news?tags%5B0%5D=5003) [#технологии](https://er.ru/activity/news?tags%5B0%5D=1090612) [#суверенитет](https://er.ru/activity/news?tags%5B0%5D=9840) [#БВС](https://er.ru/activity/news?tags%5B0%5D=103421) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975)
-
-15.10.24
-
-[![«Единая Россия» помогла восстановить Успенский Адмиралтейский храм в Воронеже](https://cdn.er.ru/media/news/October2024/wIELBaqJi8bqKbdmN3zO-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-pomogla-vosstanovit-uspenskij-admiraltejskij-hram-v-voronezhe)
-
-[«Единая Россия» помогла восстановить Успенский Адмиралтейский храм в Воронеже](https://er.ru/activity/news/edinaya-rossiya-pomogla-vosstanovit-uspenskij-admiraltejskij-hram-v-voronezhe)
-
-[#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ИсторическаяПамять](https://er.ru/activity/news?tags%5B0%5D=1091033) [#реставрация](https://er.ru/activity/news?tags%5B0%5D=4434) [#храм](https://er.ru/activity/news?tags%5B0%5D=6619) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#общежития](https://er.ru/activity/news?tags%5B0%5D=3688) [#вузы](https://er.ru/activity/news?tags%5B0%5D=635) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#Нетесов](https://er.ru/activity/news?tags%5B0%5D=1993) [#Маслов](https://er.ru/activity/news?tags%5B0%5D=10112) [#Бажанов](https://er.ru/activity/news?tags%5B0%5D=15715) [#Соломаха](https://er.ru/activity/news?tags%5B0%5D=1095803) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-15.10.24
-
-[![Госдума приняла в первом чтении инициированный «Единой России» законопроект о молодёжной политике](https://cdn.er.ru/media/news/October2024/l1YRhgXxhJxTnG83wl7e-small.jfif)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-iniciirovannyj-edinoj-rossii-zakonoproekt-o-molodyozhnoj-politike)
-
-[Госдума приняла в первом чтении инициированный «Единой России» законопроект о молодёжной политике](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-iniciirovannyj-edinoj-rossii-zakonoproekt-o-molodyozhnoj-politike)
-
-[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#молодежнаяполитика](https://er.ru/activity/news?tags%5B0%5D=109512) [#молодежь](https://er.ru/activity/news?tags%5B0%5D=48) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136)
-
-15.10.24
-
-[![Госдума единогласно приняла поправки в закон «Единой России» о «дачной амнистии»](https://cdn.er.ru/media/news/October2024/v6UfLI66DFZdjBD5caX5-small.jpg)](https://er.ru/activity/news/gosduma-edinoglasno-prinyala-popravki-v-zakon-edinoj-rossii-o-dachnoj-amnistii)
-
-[Госдума единогласно приняла поправки в закон «Единой России» о «дачной амнистии»](https://er.ru/activity/news/gosduma-edinoglasno-prinyala-popravki-v-zakon-edinoj-rossii-o-dachnoj-amnistii)
-
-[#Бессарабов](https://er.ru/activity/news?tags%5B0%5D=27640) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#дачнаяамнистия](https://er.ru/activity/news?tags%5B0%5D=116118) [#недвижимость](https://er.ru/activity/news?tags%5B0%5D=1466) [#легализация](https://er.ru/activity/news?tags%5B0%5D=2662)
-
-15.10.24
-
-[![«Единая Россия» усовершенствует трудовое законодательство в сегменте работы частных агентств занятости](https://cdn.er.ru/media/news/October2024/WhulQT2apHI0ab8epa1S-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-usovershenstvuet-trudovoe-zakonodatelstvo-v-segmente-raboty-chastnyh-agentstv-zanyatosti)
-
-[«Единая Россия» усовершенствует трудовое законодательство в сегменте работы частных агентств занятости](https://er.ru/activity/news/edinaya-rossiya-usovershenstvuet-trudovoe-zakonodatelstvo-v-segmente-raboty-chastnyh-agentstv-zanyatosti)
-
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#занятость](https://er.ru/activity/news?tags%5B0%5D=1799) [#трудовыеотношения](https://er.ru/activity/news?tags%5B0%5D=111649) [#частноеагентствозанятости](https://er.ru/activity/news?tags%5B0%5D=1095802) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 15.10.24
 
