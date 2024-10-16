@@ -6,13 +6,13 @@
 
 Features
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
+![Chevron](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
 
 [Identity Theft Protection](https://www.identityguard.com/identity-theft-protection)[Identity Theft Insurance](https://www.identityguard.com/identity-theft-insurance)[Financial Fraud Protection](https://www.identityguard.com/credit-monitoring)[VPN & Online Privacy](https://www.identityguard.com/vpn)
 
 [Antivirus](https://www.identityguard.com/antivirus)[Password Manager & Vault](https://www.identityguard.com/password-manager)[Spam Call Protection](https://www.identityguard.com/spam-call-message-protection)[Parental Controls & Safe Gaming](https://www.identityguard.com/parental-controls)[Find Your Perfect Plan](https://my.aura.com/enrollment/v95/1?cc=a_pchp1)
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/667d3973ba335e59256c67a9_Mask%20group.png)
+![Aura Mobile APp which protections are mos important to you?](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/667d3973ba335e59256c67a9_Mask%20group.png)
 
 Digital Security 101
 
@@ -24,13 +24,13 @@ Take our simple quiz to discover the best plan for your needs.
 
 Resources
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
+![Chevron](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
 
 [Customer Service](https://www.identityguard.com/customer-service)[FAQ](https://www.identityguard.com/faq)[Help](https://help.aura.com/s/)[Resolution Resources](https://www.identityguard.com/resolution-resources)
 
 [Digital Security 101](https://www.identityguard.com/digital-security-101)[Newsroom](https://www.identityguard.com/press)[Partnerships](https://www.identityguard.com/partnerships)[Aura & AI](https://www.identityguard.com/ai)[Digital Parenthood](https://www.identityguard.com/digital-parenthood)
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/663b6ca7f6a1e13713bfad78_digital-parenthood-img.webp)
+![Child set in the front door watching the mobile](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/663b6ca7f6a1e13713bfad78_digital-parenthood-img.webp)
 
 Digital Parenthood
 
@@ -397,47 +397,47 @@ September 1, 2023: Reflected new capabilities of the Aura services
 
 [![Download on the App Store](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621ed13afc9b66f951f246ef_appstore.svg)](https://apps.apple.com/us/app/aura-protect-your-identity/id1547735089)[![Get it on Google Play](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621ed13af2bd35b1e7edf2ec_googleplay.svg)](https://play.google.com/store/apps/details?id=com.aura.suite)
 
-[Help](https://help.aura.com/s/)[Digital Security 101](https://www.identityguard.com/digital-security-101)[Contact](https://www.identityguard.com/contact)[Corporate Responsibility](https://www.identityguard.com/aura-cares)
+[Help](https://help.aura.com/s/)[Digital Security 101](https://www.identityguard.com/digital-security-101)[Contact](https://www.identityguard.com/contact)
 
 Corporate Responsibility
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
+![Open](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![Minus](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
 
 [Aura Cares
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares#Aura-Cares-Home)[Military Program
+![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares#Aura-Cares-Home)[Military Program
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares?tab=id1#anchor)[Climate Action
+![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares?tab=id1#anchor)[Climate Action
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares?tab=id2#anchor)[Innovation
+![ARrow up link](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares?tab=id2#anchor)[Innovation
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares?tab=id3#anchor)
+![ARrow up link](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares?tab=id3#anchor)
 
 [support@aura.com](mailto:support@aura.com)[833.552.2123](tel:+18335522123)
 
 About
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
+![Open](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![Minus](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
 
 [About Aura
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/about)[Aura Reviews
+![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/about)[Aura Reviews
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/reviews)
+![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/reviews)
 
 [Newsroom](https://www.identityguard.com/press)[Careers](https://www.identityguard.com/careers)
 
 Partner With Us
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
+![Open](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![Minus](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
 
 [Partnerships
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/partnerships)[Affiliate Program
+![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/partnerships)[Affiliate Program
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/affiliate-program)[Influencer Program
+![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/affiliate-program)[Influencer Program
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/influencer-program)
+![ARrow up link](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![Arrow right](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/influencer-program)
 
 [support@aura.com](mailto:support@aura.com)[855.443.7748](tel:+18554437748)
 
@@ -447,7 +447,7 @@ Partner With Us
 
 [Legal](https://www.identityguard.com/legal)[Privacy Policy](https://www.identityguard.com/legal/privacy-policy)[Your Privacy Choices
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/645e57713319559e19d53f11_privacy-choices.svg)](https://www.identityguard.com/legal/your-privacy-choices)
+![Privacy Choices icon](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/645e57713319559e19d53f11_privacy-choices.svg)](https://www.identityguard.com/legal/your-privacy-choices)
 
 [![Logo of LinkedIn](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/621668587edc51bed2521952_Facebook.svg)](https://www.linkedin.com/company/auracompany/)[![Logo of X](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65970cca766c2513dd0a31e5_x-logo.svg)](https://twitter.com/Aura_Protects)[![Logo of Instagram](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/62166858e8e5608c38e472f5_Instagram.svg)](https://www.instagram.com/aura_protects/)[![Logo of Facebook](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/62166855daff62955d20fc1f_Facebook-1.svg)](https://www.facebook.com/AuraProtects)[![Logo of YouTube](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65422e863a42a95d6e9c6782_youtube.svg)](https://www.youtube.com/@AuraProtects)
 
