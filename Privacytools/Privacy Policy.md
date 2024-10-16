@@ -214,16 +214,16 @@ Encryption is the technique of translating data from one form to another so that
 
 Privacy tools listed on this page are all open-source unless marked otherwise: [Criteria](https://www.privacytools.io/#criteria).
 
-VPN with a 82% Discount
------------------------
+Have your Data Deleted Today
+----------------------------
 
-![](https://www.privacytools.io/img/apps/surfshark.png)
+![](https://www.privacytools.io/img/apps/incogni-com.png)
 
-##### [VPN that Supports Unlimited Devices: Surfshark (82% off)](https://www.privacytools.io/go/surfshark-footer)
+##### [Incogni: Get your personal data deleted and off the market](https://www.privacytools.io/go/incogni.com)
 
-Audited Win Mac Linux Android iOS Bitcoin Firefox Chrome
+Easy Set up Fast Web
 
-Based in The Netherlands. Operating since 2018. Obfuscated, RAM-only servers. Audited by a reputable German cybersecurity firm, Cure53. **Currently, 82% off + 2 months FREE.**
+Hundreds of companies are collecting, aggregating and trading your personal data without you knowing anything about it. **Incogni removes them for you.** Available for US, UK, Canada, Switzerland, and EU residents only. 30-day money-back guarantee. Cancel anytime. Read our [Incogni review](https://www.privacytools.io/incogni-review). **50% off for a limited time**: [Sign up now](https://www.privacytools.io/go/incogni.com).
 
 * * *
 
