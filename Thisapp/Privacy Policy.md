@@ -11,10 +11,10 @@ top of page
 * [Selling Domains](https://www.gritbrokerage.com/selling-domains)
     * [Notable Sales](https://www.gritbrokerage.com/domains-sold)
 * [Buying Domains](https://www.gritbrokerage.com/buying-domains)
-* [Newsletter](https://www.gritbrokerage.com/newsletter)
-* [Blog](https://www.gritbrokerage.com/blog)
 * [Media](https://www.gritbrokerage.com/media)
     * [Testimonials](https://www.gritbrokerage.com/testimonials)
+* [Blog](https://www.gritbrokerage.com/blog)
+    * [Newsletter](https://www.gritbrokerage.com/newsletter)
 * [Contact](https://www.gritbrokerage.com/contact)
     * [Inquiry](https://www.gritbrokerage.com/inquiry)
 * More
