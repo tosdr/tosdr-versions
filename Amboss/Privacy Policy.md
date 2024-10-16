@@ -55,7 +55,7 @@ General Privacy Policy
 AMBOSS GmbH  
 Torstrasse 19  
 10119 Berlin, Germany  
-E-mail: [\[email protected\]](https://www.amboss.com/cdn-cgi/l/email-protection)  
+E-mail: [hello@amboss.com](mailto:hallo@amboss.com)  
 Phone: +49 (0) 30 – 5770221- 0  
 ‍
 
@@ -69,7 +69,8 @@ AMBOSS GmbH
 Data Protection Officer  
 Torstrasse 19  
 10119 Berlin, Germany  
-[\[email protected\]](https://www.amboss.com/cdn-cgi/l/email-protection)
+[privacy@amboss.com  
+‍](mailto:privacy@amboss.com)
 
 **Privacy Policy Last Update Date:** May 2024  
 ‍
@@ -756,16 +757,16 @@ These rights may be subject to certain exceptions under applicable law.
   
 9.5.2 Exercising data rights
 
-To exercise any of your data rights, you may email us at [\[email protected\]](https://www.amboss.com/cdn-cgi/l/email-protection). To exercise your right to opt out of the sharing of personal data for purposes of targeted advertising, visit “Privacy Settings” in the footer of our website. We currently do not respond to “Do Not Track” or opt-out preference signals. When making a request to exercise your data rights, please include your name, and your account email address.
+To exercise any of your data rights, you may email us at [privacy@amboss.com](mailto:privacy@amboss.com). To exercise your right to opt out of the sharing of personal data for purposes of targeted advertising, visit “Privacy Settings” in the footer of our website. We currently do not respond to “Do Not Track” or opt-out preference signals. When making a request to exercise your data rights, please include your name, and your account email address.
 
   
-You may also exercise your rights through an authorized agent. To do so, please provide written authorization signed by you and your designated agent and email us at [\[email protected\]](https://www.amboss.com/cdn-cgi/l/email-protection).
+You may also exercise your rights through an authorized agent. To do so, please provide written authorization signed by you and your designated agent and email us at [privacy@amboss.com](mailto:privacy@amboss.com).
 
   
 To protect your identity, we will take steps to reasonably verify your identity before fulfilling your request. This may include asking you to provide sufficient information such as your name and address, which we will match against our business records.
 
   
-If you have questions or concerns about our response to your request, you may appeal a decision by emailing us at [\[email protected\]](https://www.amboss.com/cdn-cgi/l/email-protection). Virginia residents may contact the Attorney General by filing a complaint, [here](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
+If you have questions or concerns about our response to your request, you may appeal a decision by emailing us at [privacy@amboss.com](mailto:privacy@amboss.com). Virginia residents may contact the Attorney General by filing a complaint, [here](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
 ‍
 
