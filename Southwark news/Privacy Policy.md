@@ -19,6 +19,23 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Benedict O'Looney (centre right) and Andy Savage (right) at the plaque unveiling](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2833-360x180.jpeg)](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
+    
+    ### [Victorian winery by London Bridge gets plaque celebrating landmark restoration](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
+    
+    [![Ellie Reeves MP speaking to staff at the East Dulwich and Peckham Delivery Office. Credit: Ellie Reeves (X)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Ellie-Reeves-MP-speaking-to-staff-at-the-East-Dulwich-and-Peckham-Delivery-Office.-Credit-Ellie-Reeves-X-e1728920597509-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
+    
+    ### [Ellie Reeves latest MP to wade into East Dulwich postal fiasco but locals fear she will just be ‘fobbed off’](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
+    
+    [![Southwark Foodbank](https://southwarknews.co.uk/wp-content/uploads/2024/09/People-have-been-amazing-since-the-breakin-pic-from-SouthwarkFoodbank-360x180.jpg)](https://southwarknews.co.uk/area/london/over-300000-low-paid-londoners-have-to-resort-to-foodbanks/)
+    
+    ### [Over 300,000 low paid Londoners have to resort to foodbanks](https://southwarknews.co.uk/area/london/over-300000-low-paid-londoners-have-to-resort-to-foodbanks/)
+    
+    [![A map of the proposed Bakerloo Line extension to Lewisham. 
+    Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-360x180.jpg)](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
+    
+    ### [Plans for the Bakerloo Line extension have taken a crucial step forward](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/) 
+    
     [![Nursery Row Park, Walworth. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Nursery-Row-Park-Walworth.-Image-Southwark-Council-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
     
     ### [Walworth park once denounced as crime hotspot set for exciting revamp](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
@@ -38,22 +55,6 @@
     [![The junction of Mervan Road and Effra Road, Brixton. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-junction-of-Mervan-Road-and-Effra-Road-Brixton.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/brixton-cyclist-killed-in-collision/)
     
     ### [Brixton: Cyclist killed in collision](https://southwarknews.co.uk/news/brixton-cyclist-killed-in-collision/)
-    
-    [![Police responding to an incident in Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-06-at-11.41.35-e1728900286598-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
-    
-    ### [Burgess Park crime ‘spiralling’ say campaigners in call for action](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
-    
-    [![L: Tyler Wellsted by the mural; R: Jesse Lloyd-Smith.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.54-360x180.jpg)](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
-    
-    ### [Heartfelt mural unveiled for Jesse Lloyd-Smith three months after he was killed in Peckham](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
-    
-    [![L: Jeff Thompson, founder.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.42-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
-    
-    ### [Inspiring Bermondsey man opened a gym for prostate cancer patients](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
-    
-    [![Guys St Thomas' Theatre Nurse strike](https://southwarknews.co.uk/wp-content/uploads/2024/10/Guys-St-Thomas-Theatre-Nurse-Strike_cropped-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
-    
-    ### [Guy’s and St Thomas’ nurses secure reduction in late-night shifts after strike action](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +100,23 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Benedict O'Looney (centre right) and Andy Savage (right) at the plaque unveiling](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2833-360x180.jpeg)](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
+    
+    ### [Victorian winery by London Bridge gets plaque celebrating landmark restoration](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
+    
+    [![Ellie Reeves MP speaking to staff at the East Dulwich and Peckham Delivery Office. Credit: Ellie Reeves (X)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Ellie-Reeves-MP-speaking-to-staff-at-the-East-Dulwich-and-Peckham-Delivery-Office.-Credit-Ellie-Reeves-X-e1728920597509-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
+    
+    ### [Ellie Reeves latest MP to wade into East Dulwich postal fiasco but locals fear she will just be ‘fobbed off’](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
+    
+    [![Southwark Foodbank](https://southwarknews.co.uk/wp-content/uploads/2024/09/People-have-been-amazing-since-the-breakin-pic-from-SouthwarkFoodbank-360x180.jpg)](https://southwarknews.co.uk/area/london/over-300000-low-paid-londoners-have-to-resort-to-foodbanks/)
+    
+    ### [Over 300,000 low paid Londoners have to resort to foodbanks](https://southwarknews.co.uk/area/london/over-300000-low-paid-londoners-have-to-resort-to-foodbanks/)
+    
+    [![A map of the proposed Bakerloo Line extension to Lewisham. 
+    Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-360x180.jpg)](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
+    
+    ### [Plans for the Bakerloo Line extension have taken a crucial step forward](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/) 
+    
     [![Nursery Row Park, Walworth. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Nursery-Row-Park-Walworth.-Image-Southwark-Council-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
     
     ### [Walworth park once denounced as crime hotspot set for exciting revamp](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
@@ -118,22 +136,6 @@ View All Result
     [![The junction of Mervan Road and Effra Road, Brixton. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-junction-of-Mervan-Road-and-Effra-Road-Brixton.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/brixton-cyclist-killed-in-collision/)
     
     ### [Brixton: Cyclist killed in collision](https://southwarknews.co.uk/news/brixton-cyclist-killed-in-collision/)
-    
-    [![Police responding to an incident in Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-06-at-11.41.35-e1728900286598-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
-    
-    ### [Burgess Park crime ‘spiralling’ say campaigners in call for action](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
-    
-    [![L: Tyler Wellsted by the mural; R: Jesse Lloyd-Smith.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.54-360x180.jpg)](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
-    
-    ### [Heartfelt mural unveiled for Jesse Lloyd-Smith three months after he was killed in Peckham](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
-    
-    [![L: Jeff Thompson, founder.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.42-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
-    
-    ### [Inspiring Bermondsey man opened a gym for prostate cancer patients](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
-    
-    [![Guys St Thomas' Theatre Nurse strike](https://southwarknews.co.uk/wp-content/uploads/2024/10/Guys-St-Thomas-Theatre-Nurse-Strike_cropped-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
-    
-    ### [Guy’s and St Thomas’ nurses secure reduction in late-night shifts after strike action](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -373,6 +375,25 @@ Website
 
 ### Featured Articles
 
+[![Benedict O'Looney (centre right) and Andy Savage (right) at the plaque unveiling](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2833-120x86.jpeg)](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
+
+### [Victorian winery by London Bridge gets plaque celebrating landmark restoration](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
+
+[16th October 2024](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
+
+[![Ellie Reeves MP speaking to staff at the East Dulwich and Peckham Delivery Office. Credit: Ellie Reeves (X)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Ellie-Reeves-MP-speaking-to-staff-at-the-East-Dulwich-and-Peckham-Delivery-Office.-Credit-Ellie-Reeves-X-e1728920597509-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
+
+### [Ellie Reeves latest MP to wade into East Dulwich postal fiasco but locals fear she will just be ‘fobbed off’](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
+
+[16th October 2024](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
+
+[![A map of the proposed Bakerloo Line extension to Lewisham. 
+Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-120x86.jpg)](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
+
+### [Plans for the Bakerloo Line extension have taken a crucial step forward](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/) 
+
+[16th October 2024](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
+
 [![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
 ### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
@@ -390,24 +411,6 @@ Website
 ### [Heartfelt mural unveiled for Jesse Lloyd-Smith three months after he was killed in Peckham](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
 
 [14th October 2024](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
-
-[![L: Jeff Thompson, founder.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.42-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
-
-### [Inspiring Bermondsey man opened a gym for prostate cancer patients](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
-
-[14th October 2024](https://southwarknews.co.uk/area/bermondsey/inspiring-bermondsey-man-opened-a-gym-for-prostate-cancer-patients/)
-
-[![Guys St Thomas' Theatre Nurse strike](https://southwarknews.co.uk/wp-content/uploads/2024/10/Guys-St-Thomas-Theatre-Nurse-Strike_cropped-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
-
-### [Guy’s and St Thomas’ nurses secure reduction in late-night shifts after strike action](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
-
-[14th October 2024](https://southwarknews.co.uk/area/waterloo/guys-and-st-thomas-nurses-secure-reduction-in-late-night-shifts-after-strike-action/)
-
-[![Left to right: Meysam Ghorbani, Hosein Ghadimi, Hadi Salahi](https://southwarknews.co.uk/wp-content/uploads/2024/10/Left-to-right-Meysam-Ghorbani-Hosein-Ghadimi-Hadi-Salahi-120x86.png)](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
-
-### [Three jailed for drug dealing after vulnerable man dies in Bermondsey](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
-
-[14th October 2024](https://southwarknews.co.uk/area/bermondsey/three-jailed-for-drug-dealing-after-vulnerable-man-dies-in-bermondsey/)
 
 ### USEFUL PAGES
 
