@@ -386,7 +386,6 @@ PO Box 18666, Minneapolis, MN 55418-0666, USA
 
 * [GitHub](https://github.com/letsencrypt)
 * [LinkedIn](https://www.linkedin.com/company/lets-encrypt/)
-* [X](https://x.com/letsencrypt)
 * [Mastodon](https://infosec.exchange/@letsencrypt)
 
 View our [privacy policy](https://letsencrypt.org/privacy/).  
@@ -406,7 +405,6 @@ PO Box 18666, Minneapolis, MN 55418-0666, USA
 
 * [GitHub](https://github.com/letsencrypt)
 * [LinkedIn](https://www.linkedin.com/company/lets-encrypt/)
-* [X](https://x.com/letsencrypt)
 * [Mastodon](https://infosec.exchange/@letsencrypt)
 
 View our [privacy policy](https://letsencrypt.org/privacy/).  
@@ -426,7 +424,6 @@ PO Box 18666, Minneapolis, MN 55418-0666, USA
 
 * [GitHub](https://github.com/letsencrypt)
 * [LinkedIn](https://www.linkedin.com/company/lets-encrypt/)
-* [X](https://x.com/letsencrypt)
 * [Mastodon](https://infosec.exchange/@letsencrypt)
 
 View our [privacy policy](https://letsencrypt.org/privacy/).  
