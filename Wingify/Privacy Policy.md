@@ -186,6 +186,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-Key-usability-testing-statistics-to-revamp-your-design.jpg?tr=w-60,h-50)
+    
+    Usability Testing Statistics and User Experience Insights to Transform Your Design](https://vwo.com/blog/usability-testing-statistics/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-Leveraging-Session-Recordings_-A-Game-Changer-for-Conversion-Rate-Optimization-2-2.jpg?tr=w-60,h-50)
     
     Leveraging Session Recordings: A Game-Changer for Conversion Rate Optimization](https://vwo.com/blog/session-recordings-for-conversion-rate-optimization/)
@@ -201,10 +205,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-25-Customer-Data-Platform-Statistics-You-Need-to-Know-2024.jpg?tr=w-60,h-50)
     
     25 Customer Data Platform Statistics You Need to Know](https://vwo.com/blog/customer-data-platform-statistics/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-Women-in-CRO_-Expert-Insights-from-Abi-Hough-Director-at-UU3-Limited@2x.jpg?tr=w-60,h-50)
-    
-    Women in CRO: Expert Insights from Abi Hough, Director at UU3 Limited](https://vwo.com/blog/women-in-cro-insights-from-abi-hough/)
     
     Featured Blogs
     
