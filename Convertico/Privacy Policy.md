@@ -49,15 +49,6 @@ Select File From URL
 
 #### Recently Converted
 
-* ![The latest Converted Icons](/images/1729019957.7713/_previmg.png)
-* ![The latest Converted Icons](/images/1729019955.35/_previmg.png)
-* ![The latest Converted Icons](/images/1729019933.9721/_previmg.png)
-* ![The latest Converted Icons](/images/1729019909.316/_previmg.png)
-* ![The latest Converted Icons](/images/1729019903.3548/_previmg.png)
-* ![The latest Converted Icons](/images/1729019900.2507/_previmg.png)
-* ![The latest Converted Icons](/images/1729019887.5669/_previmg.png)
-* ![The latest Converted Icons](/images/1729019884.747/_previmg.png)
-
 #### About
 
 ConvertICO was created by the proIcons.com team to help designers around the world have an easier time converting their icons from **png to ico** and viceversa. Stay tuned for updates and new features!
@@ -70,7 +61,7 @@ This website does not gather any personal info, computer specs or IP. However, y
 
 By using this website to convert your icons, you acknowledge that we are in no way responsible for data error, losses or discrepancies in the conversion. You use the software at your own risk.
 
-57,971,955 Icons Converted 373 In The Last Hour
+57,974,095 Icons Converted 240 In The Last Hour
 
 For **feedback**, **suggestions** and **errors**, write to _info at convertico dot com_ or use [![Facebook icon](../imgs/fb_ico.png)](https://www.facebook.com/convertico/)fb.  
 
