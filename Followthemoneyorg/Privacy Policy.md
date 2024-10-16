@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Energy $$ in CO](/assets/Images/teasers/small/Energy-to-CO-2013-14.png)](http://www.followthemoney.org/research/blog/energy-dollars-in-denver/)
-
-Energy Giving in Colorado, 2013-14.
+[![2014 Candidate Elections Overview](/assets/Images/teasers/full/Leg-by-Office-2014.png)](http://www.followthemoney.org/research/institute-reports/2014-candidate-elections-overview/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
