@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Moradores do Bom Parto bloqueiam rua em protesto por falta d'água ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/7/csm_protesto-moradores-bom-parto-reproducao-tv-pajucara_d2f5842083.png)
-
-Na Cambona
-
-Moradores do Bom Parto bloqueiam rua em protesto por falta d'água](https://www.tnh1.com.br/noticia/nid/moradores-do-bom-parto-bloqueiam-rua-em-protesto-por-falta-dagua/ "Moradores do Bom Parto bloqueiam rua em protesto por falta d'água ")   [![Sem doses do imunizante, Maceió suspende vacinação contra Covid 19 para todos os públicos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/a/csm_Cartao_de_vacina_011d986d4f.jpg)
+   [![Mais de 100 kg de mel clandestino são apreendidos feiras e mercados de Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_mel_clandestino_f9f2a8bb0d.jpeg)
 
 Maceió
 
-Sem doses do imunizante, Maceió suspende vacinação contra Covid 19 para todos os públicos](https://www.tnh1.com.br/noticia/nid/sem-doses-do-imunizante-maceio-suspende-vacinacao-contra-covid-19-para-todos-os-publicos/ "Sem doses do imunizante, Maceió suspende vacinação contra Covid 19 para todos os públicos")   [![Empresa clandestina de segurança é autuada pela PF em rancho no bairro de Ipioca ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_ed79c6d1ab.jpg)
+Mais de 100 kg de mel clandestino são apreendidos feiras e mercados de Maceió](https://www.tnh1.com.br/noticia/nid/mais-de-100-kg-de-mel-clandestino-sao-apreendidos-feiras-e-mercados-de-maceio/ "Mais de 100 kg de mel clandestino são apreendidos feiras e mercados de Maceió ")   [![Reunião discute o progresso do atual plano de investimento da gestão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/7/csm_15-10-24-Reuniao-Alinhamento-2025-SEGOV-Auditorio-Prefeitura-Fotos-Beto-Macario-48_e6390309e3.jpg)
 
-operação em maceió
+Prefeitura de Maceió
 
-Empresa clandestina de segurança é autuada pela PF em rancho no bairro de Ipioca](https://www.tnh1.com.br/noticia/nid/empresa-clandestina-de-seguranca-e-autuada-pela-pf-em-rancho-no-bairro-de-ipioca/ "Empresa clandestina de segurança é autuada pela PF em rancho no bairro de Ipioca ")   [![Mais de 40 kg de drogas são apreendidos em casa abandonada; suspeitos fugiram](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_40kg-drogas-apreendidos-cha-da-jaqueira_0137ea2b60.jpg)
+Reunião discute o progresso do atual plano de investimento da gestão](https://www.tnh1.com.br/noticia/nid/reuniao-discute-o-progresso-do-atual-plano-de-investimento-da-gestao/ "Reunião discute o progresso do atual plano de investimento da gestão")   [![Usuários do SUS podem ser atendidos por intérprete de Libras em unidades de saúde de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/3/csm_Gravacao-Libras-atendimento-saude-secom_7b37b5548e.jpg)
 
-Em Bebedouro
+Vídeo chamada
 
-Mais de 40 kg de drogas são apreendidos em casa abandonada; suspeitos fugiram](https://www.tnh1.com.br/noticia/nid/mais-de-40-kg-de-drogas-sao-apreendidos-em-casa-abandonada-suspeitos-fugiram/ "Mais de 40 kg de drogas são apreendidos em casa abandonada; suspeitos fugiram")   [![PM registra dois casos de idosos que foram espancados pelos filhos nas últimas 24h em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/f/csm_csm_viatura_policia_militar_-_ascom_ssp_b65a315e7e_6d5bc954da.jpg)
+Usuários do SUS podem ser atendidos por intérprete de Libras em unidades de saúde de Maceió](https://www.tnh1.com.br/noticia/nid/usuarios-do-sus-podem-ser-atendidos-por-interprete-de-libras-em-unidades-de-saude-de-maceio/ "Usuários do SUS podem ser atendidos por intérprete de Libras em unidades de saúde de Maceió")   [![Polícia apreende mais de 30 kg de maconha enterrados no quintal de casa abandonada ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/9/csm_droga-apreendida-enterrada-vila-brejal_441261c750.jpg)
 
-Violência
+Na Vila Brejal
 
-PM registra dois casos de idosos que foram espancados pelos filhos nas últimas 24h em Alagoas](https://www.tnh1.com.br/noticia/nid/pm-registra-dois-casos-de-idosos-que-foram-espancados-pelos-filhos-nas-ultimas-24h-em-alagoas/ "PM registra dois casos de idosos que foram espancados pelos filhos nas últimas 24h em Alagoas")   [![Vídeo: carro é atingido por VLT após invadir linha férrea na Levada; motorista ficou ferido](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/2/csm_acidente_com_vlt_carro_levada_-_foto_15-10-24_305378c354.jpg)
+Polícia apreende mais de 30 kg de maconha enterrados no quintal de casa abandonada](https://www.tnh1.com.br/noticia/nid/policia-apreende-mais-de-30-kg-de-maconha-enterrados-no-quintal-de-casa-abandonada/ "Polícia apreende mais de 30 kg de maconha enterrados no quintal de casa abandonada ")   [![Moradores do Bom Parto bloqueiam rua em protesto por falta d'água ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/7/csm_protesto-moradores-bom-parto-reproducao-tv-pajucara_d2f5842083.png)
 
-Grande susto!
+Na Cambona
 
-Vídeo: carro é atingido por VLT após invadir linha férrea na Levada; motorista ficou ferido](https://www.tnh1.com.br/noticia/nid/video-carro-e-atingido-por-vlt-apos-invadir-linha-ferrea-na-levada-motorista-ficou-ferido/ "Vídeo: carro é atingido por VLT após invadir linha férrea na Levada; motorista ficou ferido")
+Moradores do Bom Parto bloqueiam rua em protesto por falta d'água](https://www.tnh1.com.br/noticia/nid/moradores-do-bom-parto-bloqueiam-rua-em-protesto-por-falta-dagua/ "Moradores do Bom Parto bloqueiam rua em protesto por falta d'água ")   [![Sem doses do imunizante, Maceió suspende vacinação contra Covid 19 para todos os públicos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/a/csm_Cartao_de_vacina_011d986d4f.jpg)
+
+Maceió
+
+Sem doses do imunizante, Maceió suspende vacinação contra Covid 19 para todos os públicos](https://www.tnh1.com.br/noticia/nid/sem-doses-do-imunizante-maceio-suspende-vacinacao-contra-covid-19-para-todos-os-publicos/ "Sem doses do imunizante, Maceió suspende vacinação contra Covid 19 para todos os públicos")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Vídeo: carro é atingido por VLT após invadir linha férrea na Levada; motoris
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![MPAL cobra implementação de câmeras corporais nos policiais militares](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/0/csm_reuniao_mp_ascom_9769df3179.jpg)
+   [![Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/e/csm_foragido-morto-troca-tiros-marechal_4d04254ec8.jpg)
+
+Marechal Deodoro
+
+Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas](https://www.tnh1.com.br/noticia/nid/foragido-de-pernambuco-morre-apos-trocar-tiros-com-policiais-em-alagoas/ "Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas")   [![MPAL cobra implementação de câmeras corporais nos policiais militares](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/0/csm_reuniao_mp_ascom_9769df3179.jpg)
 
 durante reunião
 
-MPAL cobra implementação de câmeras corporais nos policiais militares](https://www.tnh1.com.br/noticia/nid/mpal-cobra-implementacao-de-cameras-corporais-nos-policiais-militares/ "MPAL cobra implementação de câmeras corporais nos policiais militares")   [![Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (16)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/9/csm_previsao-tempo-alagoas-reproducao-semarh_606ebfacbe.png)
+MPAL cobra implementação de câmeras corporais nos policiais militares](https://www.tnh1.com.br/noticia/nid/mpal-cobra-implementacao-de-cameras-corporais-nos-policiais-militares/ "MPAL cobra implementação de câmeras corporais nos policiais militares")   [![Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (16)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/9/csm_previsao-tempo-alagoas-reproducao-semarh_606ebfacbe.png)
 
 Meteorologia
 
-Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (16)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-quarta-feira-16/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (16)")   [![Manutenção em estação de tratamento suspende abastecimento de água em Traipu nesta quarta](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/b/csm_ETA_Traipu_Reproducao_fdd230b1a3.jpg)
+Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (16)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-quarta-feira-16/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (16)")   [![Manutenção em estação de tratamento suspende abastecimento de água em Traipu nesta quarta](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/b/csm_ETA_Traipu_Reproducao_fdd230b1a3.jpg)
 
 Alagoas
 
-Manutenção em estação de tratamento suspende abastecimento de água em Traipu nesta quarta](https://www.tnh1.com.br/noticia/nid/manutencao-em-estacao-de-tratamento-suspende-abastecimento-de-agua-em-traipu-nesta-quarta/ "Manutenção em estação de tratamento suspende abastecimento de água em Traipu nesta quarta")   [![Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/5/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_2a8413dbf9.png)
+Manutenção em estação de tratamento suspende abastecimento de água em Traipu nesta quarta](https://www.tnh1.com.br/noticia/nid/manutencao-em-estacao-de-tratamento-suspende-abastecimento-de-agua-em-traipu-nesta-quarta/ "Manutenção em estação de tratamento suspende abastecimento de água em Traipu nesta quarta")   [![Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/5/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_2a8413dbf9.png)
 
 Meteorologia
 
-Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-terca-feira-15/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)")   [![Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_droga_sertao_2f82aebbc8.png)
+Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-terca-feira-15/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)")   [![Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/b/csm_droga_sertao_2f82aebbc8.png)
 
 Maceió e interior
 
-Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo](https://www.tnh1.com.br/noticia/nid/em-uma-semana-policia-militar-apreende-mais-de-20-quilos-de-drogas-e-11-armas-de-fogo/ "Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo ")   [![Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
-
-sortudos
-
-Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro](https://www.tnh1.com.br/noticia/nid/conheca-os-ganhadores-do-alagoas-da-sorte-deste-domingo-13-de-outubro/ "Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro ")
+Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo](https://www.tnh1.com.br/noticia/nid/em-uma-semana-policia-militar-apreende-mais-de-20-quilos-de-drogas-e-11-armas-de-fogo/ "Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo ")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Conheça os ganhadores do Alagoas dá Sorte deste domingo, 13 de outubro](https:
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/e/csm_csm_Com_inscricoes_abertas__concurso_da_Policia_Civil_oferece_500_vagas_para_quadro_efetivo_Marcio_Ferreira_7c7fabf143_757f59d462.jpg)
+   [![Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/5/csm_familia_jonatas_morte_colonia_leopoldina_reproducao_video_21189241bc.jpg)
 
-No Agreste
+Colônia Leopoldina
 
-Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas](https://www.tnh1.com.br/noticia/nid/dois-homens-sao-presos-suspeitos-de-estuprar-crianca-de-10-anos-em-craibas/ "Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas")   [![Veja o que se sabe sobre morte de bebê de um mês de vida no interior Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/b/csm_viatura_policiacivil_bd1008e0bc.jpeg)
+Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"](https://www.tnh1.com.br/noticia/nid/mae-de-adolescente-morto-em-abordagem-da-pm-desabafa-eles-deram-5-tiros-foi-pra-matar/ "Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"")   [![Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/e/csm_viatura_pc_c09ea6d827.jpeg)
 
-ibateguara
+ato infracional
 
-Veja o que se sabe sobre morte de bebê de um mês de vida no interior Alagoas](https://www.tnh1.com.br/noticia/nid/veja-o-que-se-sabe-sobre-morte-de-bebe-de-um-mes-de-vida-no-interior-alagoas/ "Veja o que se sabe sobre morte de bebê de um mês de vida no interior Alagoas")   [![Empresa clandestina de segurança é autuada pela PF em rancho no bairro de Ipioca ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_ed79c6d1ab.jpg)
+Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos](https://www.tnh1.com.br/noticia/nid/adolescente-de-14-anos-e-apreendido-por-estupro-em-sao-miguel-dos-campos/ "Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos ")   [![Suspeito de armazenar pornografia infantil é preso em apartamento na Mangabeiras](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/b/csm_prisao_Mangabeiras_5ed5440a5c.jpeg)
 
-operação em maceió
+Polícia
 
-Empresa clandestina de segurança é autuada pela PF em rancho no bairro de Ipioca](https://www.tnh1.com.br/noticia/nid/empresa-clandestina-de-seguranca-e-autuada-pela-pf-em-rancho-no-bairro-de-ipioca/ "Empresa clandestina de segurança é autuada pela PF em rancho no bairro de Ipioca ")   [![Motociclista é parado pela PRF e acaba preso suspeito de homicídio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_prisao_PRF_929d98ad57.jpeg)
+Suspeito de armazenar pornografia infantil é preso em apartamento na Mangabeiras](https://www.tnh1.com.br/noticia/nid/suspeito-de-armazenar-pornografia-infantil-e-preso-em-apartamento-na-mangabeiras/ "Suspeito de armazenar pornografia infantil é preso em apartamento na Mangabeiras")   [![Jovem é preso por dar golpe de facão em mulher durante briga com esposo dela, em Coruripe](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/2/csm_prisao_coruripe_-_foto_reproducao_video_0a5e9267b5.jpg)
 
-em rio largo
+Localizado em casa
 
-Motociclista é parado pela PRF e acaba preso suspeito de homicídio](https://www.tnh1.com.br/noticia/nid/motociclista-e-parado-pela-prf-e-acaba-preso-suspeito-de-homicidio/ "Motociclista é parado pela PRF e acaba preso suspeito de homicídio")   [![Motorista de ônibus é preso após policiais encontrarem 5kg de maconha no veículo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_maconha_interior_e326d7768d.png)
+Jovem é preso por dar golpe de facão em mulher durante briga com esposo dela, em Coruripe](https://www.tnh1.com.br/noticia/nid/jovem-e-preso-por-dar-golpe-de-facao-em-mulher-durante-briga-com-esposo-dela-em-coruripe/ "Jovem é preso por dar golpe de facão em mulher durante briga com esposo dela, em Coruripe")   [![Golpista é presa por compra de móveis com pix falso; prejuízos chegam a R$ 2 milhões](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/3/csm_montagem-imoveis-golpes-pix_55e356a867.jpg)
 
-operação conjunta
+em Arapiraca
 
-Motorista de ônibus é preso após policiais encontrarem 5kg de maconha no veículo](https://www.tnh1.com.br/noticia/nid/motorista-de-onibus-e-preso-apos-policiais-encontrarem-5kg-de-maconha-no-veiculo/ "Motorista de ônibus é preso após policiais encontrarem 5kg de maconha no veículo")   [![Homem mata namorada a facadas durante briga por ciúmes, no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/0/csm_IML_Maceio_-_foto_Policia_Cientifica_2_ea1ef0bfc3.jpeg)
+Golpista é presa por compra de móveis com pix falso; prejuízos chegam a R$ 2 milhões](https://www.tnh1.com.br/noticia/nid/golpista-e-presa-por-compra-de-moveis-com-pix-falso-prejuizos-chegam-a-r-2-milhoes/ "Golpista é presa por compra de móveis com pix falso; prejuízos chegam a R$ 2 milhões")   [![Ex-palhaço acusado de estuprar menino é capturado no interior de Alagoas ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/4/csm_prisao_palhaco_f11c67a456.jpeg)
 
-Matriz do Camaragibe
+estava foragido
 
-Homem mata namorada a facadas durante briga por ciúmes, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-mata-namorada-a-facadas-durante-briga-por-ciumes-no-interior-de-alagoas/ "Homem mata namorada a facadas durante briga por ciúmes, no interior de Alagoas")
+Ex-palhaço acusado de estuprar menino é capturado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/ex-palhaco-acusado-de-estuprar-menino-e-capturado-no-interior-de-alagoas/ "Ex-palhaço acusado de estuprar menino é capturado no interior de Alagoas ") 
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -206,57 +206,7 @@ acidente grave
 
 Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas
 
-Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/tres-pessoas-morrem-e-uma-fica-ferida-apos-colisao-entre-veiculo-de-passeio-e-carro-forte-no-interior-de-alagoas/ "Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas")[![Questões de concurso público são anuladas por conteúdo machista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/e/csm_questao_machista_reproducao_redes_sociais_6e357ecf05.jpg)
-
-em macaé
-
-em macaé
-
-Questões de concurso público são anuladas por conteúdo machista
-
-Questões de concurso público são anuladas por conteúdo machista](https://www.tnh1.com.br/noticia/nid/questoes-de-concurso-publico-sao-anuladas-por-conteudo-machista/ "Questões de concurso público são anuladas por conteúdo machista")[![Menino de 9 anos invade hospital veterinário e mata 23 animais no PR](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_crianca-invade-hospital-veterinario_d24bd698b9.jpg)
-
-15 coelhos
-
-15 coelhos
-
-Menino de 9 anos invade hospital veterinário e mata 23 animais no PR
-
-Menino de 9 anos invade hospital veterinário e mata 23 animais no PR](https://www.tnh1.com.br/noticia/nid/menino-de-9-anos-invade-hospital-veterinario-e-mata-23-animais-no-pr/ "Menino de 9 anos invade hospital veterinário e mata 23 animais no PR")[![Nota Fiscal Cidadã: veja resultado do sorteio de R$ 2 milhões do Dia dos Professores](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/a/csm_nota-fiscal-cidada-reproducao-ascom-sefaz-al_ce082703dd.jpg)
-
-Economia
-
-Economia
-
-Nota Fiscal Cidadã: veja resultado do sorteio de R$ 2 milhões do Dia dos Professores
-
-Nota Fiscal Cidadã: veja resultado do sorteio de R$ 2 milhões do Dia dos Professores](https://www.tnh1.com.br/noticia/nid/nota-fiscal-cidada-veja-resultado-do-sorteio-de-r-2-milhoes-do-dia-dos-professores/ "Nota Fiscal Cidadã: veja resultado do sorteio de R$ 2 milhões do Dia dos Professores")
-
-[![Vacina contra hanseníase será testada em 54 voluntários no Brasil](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/0/csm_fiocruz_Fernando_Frazao-Agencia_Brasil_88341d3c24.jpg)
-
-em desenvolvimento
-
-em desenvolvimento
-
-Vacina contra hanseníase será testada em 54 voluntários no Brasil
-
-Vacina contra hanseníase será testada em 54 voluntários no Brasil](https://www.tnh1.com.br/noticia/nid/vacina-contra-hanseniase-sera-testada-em-54-voluntarios-no-brasil/ "Vacina contra hanseníase será testada em 54 voluntários no Brasil")[![‘Namorada de IA’ aplica golpe de R$ 260 milhões na Ásia; entenda](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/2/csm_deepfake_freepik_396c3296cf.jpg)
-
-chamadas de vídeo
-
-chamadas de vídeo
-
-‘Namorada de IA’ aplica golpe de R$ 260 milhões na Ásia; entenda
-
-‘Namorada de IA’ aplica golpe de R$ 260 milhões na Ásia; entenda](https://www.tnh1.com.br/noticia/nid/namorada-de-ia-aplica-golpe-de-r-260-milhoes-na-asia-entenda/ "‘Namorada de IA’ aplica golpe de R$ 260 milhões na Ásia; entenda")[![Russo é resgatado após quase 10 semanas à deriva na costa da Sibéria](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/c/csm_russo_resgatado_Reproducao-RIA_Novosti_5f6202d36d.jpg)
-
-67 dias
-
-67 dias
-
-Russo é resgatado após quase 10 semanas à deriva na costa da Sibéria
-
-Russo é resgatado após quase 10 semanas à deriva na costa da Sibéria](https://www.tnh1.com.br/noticia/nid/russo-e-resgatado-apos-quase-10-semanas-a-deriva-na-costa-da-siberia/ "Russo é resgatado após quase 10 semanas à deriva na costa da Sibéria")[![Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_principe-harry-meghan-foto-FramePhotoFolhapress_5f0deb4a98.jpeg)
+Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/tres-pessoas-morrem-e-uma-fica-ferida-apos-colisao-entre-veiculo-de-passeio-e-carro-forte-no-interior-de-alagoas/ "Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas")[![Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_principe-harry-meghan-foto-FramePhotoFolhapress_5f0deb4a98.jpeg)
 
 'Não é seguro'
 
@@ -264,7 +214,57 @@ Russo é resgatado após quase 10 semanas à deriva na costa da Sibéria](https:
 
 Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos
 
-Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos](https://www.tnh1.com.br/noticia/nid/principe-harry-e-meghan-markle-nao-vao-passar-natal-com-a-familia-real-por-causa-dos-filhos/ "Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos")
+Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos](https://www.tnh1.com.br/noticia/nid/principe-harry-e-meghan-markle-nao-vao-passar-natal-com-a-familia-real-por-causa-dos-filhos/ "Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos")[![Questões de concurso público são anuladas por conteúdo machista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/e/csm_questao_machista_reproducao_redes_sociais_6e357ecf05.jpg)
+
+em macaé
+
+em macaé
+
+Questões de concurso público são anuladas por conteúdo machista
+
+Questões de concurso público são anuladas por conteúdo machista](https://www.tnh1.com.br/noticia/nid/questoes-de-concurso-publico-sao-anuladas-por-conteudo-machista/ "Questões de concurso público são anuladas por conteúdo machista")[![Menino de 9 anos invade hospital veterinário e mata 23 animais no PR](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_crianca-invade-hospital-veterinario_d24bd698b9.jpg)
+
+15 coelhos
+
+15 coelhos
+
+Menino de 9 anos invade hospital veterinário e mata 23 animais no PR
+
+Menino de 9 anos invade hospital veterinário e mata 23 animais no PR](https://www.tnh1.com.br/noticia/nid/menino-de-9-anos-invade-hospital-veterinario-e-mata-23-animais-no-pr/ "Menino de 9 anos invade hospital veterinário e mata 23 animais no PR")
+
+[![Mulher promete doar enxoval e é presa por suspeita de matar grávida e tentar roubar bebê ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/b/csm_Mulher_e_presa_por_matar_gravida_e_tentar_roubar_bebe_em_Porto_Alegre_-_foto_Divulgacao_PCRS_4b380643b1.jpg)
+
+42 anos
+
+42 anos
+
+Mulher promete doar enxoval e é presa por suspeita de matar grávida e tentar roubar bebê
+
+Mulher promete doar enxoval e é presa por suspeita de matar grávida e tentar roubar bebê](https://www.tnh1.com.br/noticia/nid/mulher-promete-doar-enxoval-e-e-presa-por-suspeita-de-matar-gravida-e-tentar-roubar-bebe/ "Mulher promete doar enxoval e é presa por suspeita de matar grávida e tentar roubar bebê ")[![Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/5/csm_familia_jonatas_morte_colonia_leopoldina_reproducao_video_a08bca134e.jpg)
+
+Colônia Leopoldina
+
+Colônia Leopoldina
+
+Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"
+
+Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"](https://www.tnh1.com.br/noticia/nid/mae-de-adolescente-morto-em-abordagem-da-pm-desabafa-eles-deram-5-tiros-foi-pra-matar/ "Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros, foi pra matar"")[![Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/e/csm_viatura_pc_9300daf3a9.jpeg)
+
+ato infracional
+
+ato infracional
+
+Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos
+
+Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos](https://www.tnh1.com.br/noticia/nid/adolescente-de-14-anos-e-apreendido-por-estupro-em-sao-miguel-dos-campos/ "Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos ")[![Entrevista: Galba Netto faz balanço da atual legislatura e fala de projetos para o próximo mandato](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/3/csm_galba_netto_1_foto_ascom_763c96ae7e.jpeg)
+
+Eleições
+
+Eleições
+
+Entrevista: Galba Netto faz balanço da atual legislatura e fala de projetos para o próximo mandato
+
+Entrevista: Galba Netto faz balanço da atual legislatura e fala de projetos para o próximo mandato](https://www.tnh1.com.br/noticia/nid/entrevista-galba-netto-faz-balanco-da-atual-legislatura-e-fala-de-projetos-para-o-proximo-mandato/ "Entrevista: Galba Netto faz balanço da atual legislatura e fala de projetos para o próximo mandato")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
