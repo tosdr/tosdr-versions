@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Cold Beer Calling My NameJameson Rodgers Ft Luke Combs<br><br>5:39pm |
-| Where It EndsBailey Zimmerman<br><br>5:36pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:33pm |
-| She Had Me At Heads CarolinaCole Swindell<br><br>5:23pm |
-| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>5:20pm |
+| Barefoot Blue Jean NightJake Owen<br><br>11:40pm |
+| Next Thing You KnowJordan Davis<br><br>11:37pm |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>11:34pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>11:31pm |
+| Big Green TractorJason Aldean<br><br>11:28pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,19 +495,19 @@ State
 Featured Brands
 ---------------
 
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
