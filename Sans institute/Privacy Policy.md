@@ -909,7 +909,7 @@ Taiwan
 
 Tajikistan
 
-Tanzania
+Tanzania, United Republic Of
 
 Thailand
 
@@ -945,7 +945,7 @@ Uzbekistan
 
 Vanuatu
 
-Vatican City
+Vatican City State
 
 Venezuela
 
