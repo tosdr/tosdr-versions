@@ -214,49 +214,7 @@ Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'](https:
 
 Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo
 
-Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://www.tnh1.com.br/noticia/nid/relacionamento-de-casal-de-alagoanos-acaba-em-tragedia-no-interior-de-sao-paulo/ "Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo")[![Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_colonia_perseguicao__2__697e279c8d.jpeg)
-
-colônia leopoldina
-
-colônia leopoldina
-
-Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL
-
-Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL](https://www.tnh1.com.br/noticia/nid/suspeitos-de-assaltos-morrem-viatura-capota-e-policiais-ficam-feridos-em-perseguicao-no-interior-de-al/ "Suspeitos de assaltos morrem, viatura capota e policiais ficam feridos em perseguição no interior de AL")[![Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/5/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_94b9829167.png)
-
-Meteorologia
-
-Meteorologia
-
-Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)
-
-Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-terca-feira-15/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)")
-
-[![Famílias protestam após mortes de adolescentes em perseguição policial: “não eram bandidos”](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/5/csm_protesto_colonia_cisp_e13a2de873.jpg)
-
-COLÔNIA LEOPOLDINA
-
-COLÔNIA LEOPOLDINA
-
-Famílias protestam após mortes de adolescentes em perseguição policial: “não eram bandidos”
-
-Famílias protestam após mortes de adolescentes em perseguição policial: “não eram bandidos”](https://www.tnh1.com.br/noticia/nid/familias-protestam-apos-mortes-de-adolescentes-em-perseguicao-policial-nao-eram-bandidos/ "Famílias protestam após mortes de adolescentes em perseguição policial: “não eram bandidos”")[![Moradores do Bom Parto bloqueiam rua em protesto por falta d'água ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/7/csm_protesto-moradores-bom-parto-reproducao-tv-pajucara_f09d70d649.png)
-
-Na Cambona
-
-Na Cambona
-
-Moradores do Bom Parto bloqueiam rua em protesto por falta d'água
-
-Moradores do Bom Parto bloqueiam rua em protesto por falta d'água](https://www.tnh1.com.br/noticia/nid/moradores-do-bom-parto-bloqueiam-rua-em-protesto-por-falta-dagua/ "Moradores do Bom Parto bloqueiam rua em protesto por falta d'água ")[![Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/e/csm_csm_Com_inscricoes_abertas__concurso_da_Policia_Civil_oferece_500_vagas_para_quadro_efetivo_Marcio_Ferreira_7c7fabf143_89232adf6f.jpg)
-
-No Agreste
-
-No Agreste
-
-Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas
-
-Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas](https://www.tnh1.com.br/noticia/nid/dois-homens-sao-presos-suspeitos-de-estuprar-crianca-de-10-anos-em-craibas/ "Dois homens são presos suspeitos de estuprar criança de 10 anos em Craíbas")[![Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/0/csm_acidente-transito-interior-alagoas-carro-forte-reproducao_47788fa884.jpeg)
+Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://www.tnh1.com.br/noticia/nid/relacionamento-de-casal-de-alagoanos-acaba-em-tragedia-no-interior-de-sao-paulo/ "Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo")[![Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/0/csm_acidente-transito-interior-alagoas-carro-forte-reproducao_47788fa884.jpeg)
 
 acidente grave
 
@@ -264,7 +222,49 @@ acidente grave
 
 Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas
 
-Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/tres-pessoas-morrem-e-uma-fica-ferida-apos-colisao-entre-veiculo-de-passeio-e-carro-forte-no-interior-de-alagoas/ "Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas")
+Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/tres-pessoas-morrem-e-uma-fica-ferida-apos-colisao-entre-veiculo-de-passeio-e-carro-forte-no-interior-de-alagoas/ "Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas")[![Questões de concurso público são anuladas por conteúdo machista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/e/csm_questao_machista_reproducao_redes_sociais_6e357ecf05.jpg)
+
+em macaé
+
+em macaé
+
+Questões de concurso público são anuladas por conteúdo machista
+
+Questões de concurso público são anuladas por conteúdo machista](https://www.tnh1.com.br/noticia/nid/questoes-de-concurso-publico-sao-anuladas-por-conteudo-machista/ "Questões de concurso público são anuladas por conteúdo machista")
+
+[![Vacina contra hanseníase será testada em 54 voluntários no Brasil](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/0/csm_fiocruz_Fernando_Frazao-Agencia_Brasil_88341d3c24.jpg)
+
+em desenvolvimento
+
+em desenvolvimento
+
+Vacina contra hanseníase será testada em 54 voluntários no Brasil
+
+Vacina contra hanseníase será testada em 54 voluntários no Brasil](https://www.tnh1.com.br/noticia/nid/vacina-contra-hanseniase-sera-testada-em-54-voluntarios-no-brasil/ "Vacina contra hanseníase será testada em 54 voluntários no Brasil")[![‘Namorada de IA’ aplica golpe de R$ 260 milhões na Ásia; entenda](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/2/csm_deepfake_freepik_396c3296cf.jpg)
+
+chamadas de vídeo
+
+chamadas de vídeo
+
+‘Namorada de IA’ aplica golpe de R$ 260 milhões na Ásia; entenda
+
+‘Namorada de IA’ aplica golpe de R$ 260 milhões na Ásia; entenda](https://www.tnh1.com.br/noticia/nid/namorada-de-ia-aplica-golpe-de-r-260-milhoes-na-asia-entenda/ "‘Namorada de IA’ aplica golpe de R$ 260 milhões na Ásia; entenda")[![Russo é resgatado após quase 10 semanas à deriva na costa da Sibéria](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/c/csm_russo_resgatado_Reproducao-RIA_Novosti_5f6202d36d.jpg)
+
+67 dias
+
+67 dias
+
+Russo é resgatado após quase 10 semanas à deriva na costa da Sibéria
+
+Russo é resgatado após quase 10 semanas à deriva na costa da Sibéria](https://www.tnh1.com.br/noticia/nid/russo-e-resgatado-apos-quase-10-semanas-a-deriva-na-costa-da-siberia/ "Russo é resgatado após quase 10 semanas à deriva na costa da Sibéria")[![Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_principe-harry-meghan-foto-FramePhotoFolhapress_5f0deb4a98.jpeg)
+
+'Não é seguro'
+
+'Não é seguro'
+
+Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos
+
+Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos](https://www.tnh1.com.br/noticia/nid/principe-harry-e-meghan-markle-nao-vao-passar-natal-com-a-familia-real-por-causa-dos-filhos/ "Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
