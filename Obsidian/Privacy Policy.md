@@ -204,6 +204,7 @@ Version history
 * [Publish](https://obsidian.md/publish)
 * [Canvas](https://obsidian.md/canvas)
 * [Mobile](https://obsidian.md/mobile)
+* [Web Clipper](https://obsidian.md/clipper)
 * [Plugins](https://obsidian.md/plugins)
 
 * Learn
@@ -214,7 +215,8 @@ Version history
 * [Roadmap](https://obsidian.md/roadmap)
 * [Blog](https://obsidian.md/blog)
 
-* Legal
+* Resources
+* [System status](https://status.obsidian.md/)
 * [License overview](https://obsidian.md/license)
 * [Terms of service](https://obsidian.md/terms)
 * [Privacy](https://obsidian.md/privacy) / [Security](https://obsidian.md/security)
@@ -225,12 +227,11 @@ Version history
 * [Forum](https://forum.obsidian.md/) / [中文论坛](https://forum-zh.obsidian.md/)
 * [Merch store](https://obsidian.md/softwear)
 * [Brand guidelines](https://obsidian.md/brand)
-* [System status](https://status.obsidian.md/)
 
 [](https://obsidian.md/)
 
 Follow us
 
-[Twitter](https://twitter.com/obsdmd) [Mastodon](https://mas.to/@obsidian) [YouTube](https://www.youtube.com/@obsdmd) [GitHub](https://github.com/obsidianmd)
+[Twitter](https://x.com/obsdmd) [Mastodon](https://mas.to/@obsidian) [YouTube](https://www.youtube.com/@obsdmd) [GitHub](https://github.com/obsidianmd)
 
 © 2024 Obsidian
