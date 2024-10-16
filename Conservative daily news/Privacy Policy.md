@@ -2,14 +2,14 @@ Wednesday, October 16 2024
 
 Breaking News
 
+* [Tariffs Are Like A Golf Handicap](https://www.conservativedailynews.com/2024/10/tariffs-are-like-a-golf-handicap/)
+* [Take the Federal Budget Quiz](https://www.conservativedailynews.com/2024/10/take-the-federal-budget-quiz/)
 * [President Joe Biden’s Schedule for Wednesday, October 16, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-16-2024/)
 * [Tim Walz Let Slip What We Knew About The Left All Along](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/)
 * [Rachel Maddow Proves An Education Can Be Wasted](https://www.conservativedailynews.com/2024/10/rachel-maddow-proves-an-education-can-be-wasted/)
 * [America In The Age Of Stupidity: Two Things America Desperately Needs But Democrats Are Against](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-two-things-america-desperately-needs-but-democrats-are-against/)
 * [Do You Hear What You Are Saying?](https://www.conservativedailynews.com/2024/10/do-you-hear-what-you-are-saying/)
 * [President Joe Biden’s Schedule for Tuesday, October 15, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-15-2024/)
-* [Medal of Honor Monday: Army Staff Sgt. Clint Romesha](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-clint-romesha/)
-* [President Joe Biden’s Schedule for Monday, October 14, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-14-2024/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,57 +126,57 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
-* [![Presidential Motorcade](https://www.conservativedailynews.com/wp-content/uploads/2017/02/Presidential-Motorcade.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-16-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5651-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/tariffs-are-like-a-golf-handicap/)
     
-    [President Joe Biden’s Schedule for Wednesday, October 16, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-16-2024/)
+    [Tariffs Are Like A Golf Handicap](https://www.conservativedailynews.com/2024/10/tariffs-are-like-a-golf-handicap/)
     
     October 16, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/08/Tim-Walz-220x150.jpg)](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/05-prop-kam-ci-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/10/team-kamala/)
     
-    [Tim Walz Let Slip What We Knew About The Left All Along](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/)
+    [Team Kamala](https://www.conservativedailynews.com/2024/10/team-kamala/)
     
-    October 15, 2024
+    October 16, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5650-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/rachel-maddow-proves-an-education-can-be-wasted/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/10/the-brat-energy-is-gone/)
     
-    [Rachel Maddow Proves An Education Can Be Wasted](https://www.conservativedailynews.com/2024/10/rachel-maddow-proves-an-education-can-be-wasted/)
+    [The Brat Energy Is Gone](https://www.conservativedailynews.com/2024/10/the-brat-energy-is-gone/)
     
-    October 15, 2024
+    October 16, 2024
     
-* [![Kamalanomics Kamala Harris bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2024/08/gv080624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/health-care-costs-set-to-surge-next-year-despite-biden-harris-admin-promises-study-finds/)
+* [![It's the economy stupid Kamala Harris Donald Trump election 2024](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101624dAPC-220x150.jpg)](https://www.conservativedailynews.com/2024/10/its-the-economy-stupid-2/)
     
-    [Health Care Costs Set To Surge Next Year Despite Biden-Harris Admin Promises, Study Finds](https://www.conservativedailynews.com/2024/10/health-care-costs-set-to-surge-next-year-despite-biden-harris-admin-promises-study-finds/)
+    [It’s the Economy, Stupid](https://www.conservativedailynews.com/2024/10/its-the-economy-stupid-2/)
     
-    October 15, 2024
+    October 16, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Against-1-220x74.jpg)](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-two-things-america-desperately-needs-but-democrats-are-against/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Chlidren-in-classroom-220x150.png)](https://www.conservativedailynews.com/2024/10/teacher-gifts-thoughtful-presents-that-make-a-lasting-impact/)
     
-    [America In The Age Of Stupidity: Two Things America Desperately Needs But Democrats Are Against](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-two-things-america-desperately-needs-but-democrats-are-against/)
+    [Teacher Gifts: Thoughtful Presents That Make a Lasting Impact](https://www.conservativedailynews.com/2024/10/teacher-gifts-thoughtful-presents-that-make-a-lasting-impact/)
     
-    October 15, 2024
+    October 16, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/03-o-shame-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/uncle-barack/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/10/x-twitter-censorship-of-conservatives-continues-unabated-this-election-year/)
     
-    [Uncle Barack](https://www.conservativedailynews.com/2024/10/uncle-barack/)
+    [X (Twitter) Censorship of Conservatives Continues Unabated This Election Year](https://www.conservativedailynews.com/2024/10/x-twitter-censorship-of-conservatives-continues-unabated-this-election-year/)  
     
-    October 15, 2024
+    October 16, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5649-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/do-you-hear-what-you-are-saying/)
+* [Airline Slapped With $4 Million Fine For Stopping Hundreds Of Jews From Boarding Flight](https://www.conservativedailynews.com/2024/10/airline-slapped-with-4-million-fine-for-stopping-hundreds-of-jews-from-boarding-flight/)
     
-    [Do You Hear What You Are Saying?](https://www.conservativedailynews.com/2024/10/do-you-hear-what-you-are-saying/)
+    October 16, 2024
     
-    October 15, 2024
+* [![National Debt Government Spending](https://www.conservativedailynews.com/wp-content/uploads/2024/04/gv042924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/take-the-federal-budget-quiz/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv101524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/do-your-homework/)
+    [Take the Federal Budget Quiz](https://www.conservativedailynews.com/2024/10/take-the-federal-budget-quiz/)
     
-    [Do Your Homework](https://www.conservativedailynews.com/2024/10/do-your-homework/)
-    
-    October 15, 2024
+    October 16, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Michigan And Hawaii Launch Tip Lines To Encourage Anonymous Snitching On Gun Owners](https://www.thegunpage.com/michigan-and-hawaii-launch-tip-lines-to-encourage-anonymous-snitching-on-gun-owners/10611237)
+* [2024 Scholastic Clay Target Program National Championships](https://www.thegunpage.com/2024-scholastic-clay-target-program-national-championships/10611236)
 * [TFB Review: The HK USC Carbine](https://www.thegunpage.com/tfb-review-the-hk-usc-carbine/10611232)
 * [POTD: The TTS Xceed R – Integrated Silencing System](https://www.thegunpage.com/potd-the-tts-xceed-r-integrated-silencing-system/10611233)
 * [HOT GAT or FUDD CRAP? Mean Machine or Mellow and Yellow?](https://www.thegunpage.com/hot-gat-or-fudd-crap-mean-machine-or-mellow-and-yellow/10611234)
@@ -185,8 +185,6 @@ Recent Posts
 * [CRPA Offers a Press Guide to Kamala Harris’ History on Gun Control](https://www.thegunpage.com/crpa-offers-a-press-guide-to-kamala-harris-history-on-gun-control/10611228)
 * [Utah Hunters Helping Condors Program Offers Lead-free Ammo](https://www.thegunpage.com/utah-hunters-helping-condors-program-offers-lead-free-ammo/10611227)
 * [Watchtower Unveils Demolitia Ported Double Stack 1911 Core And Elite Packages](https://www.thegunpage.com/watchtower-unveils-demolitia-ported-double-stack-1911-core-and-elite-packages/10611224)
-* [PSA Releases the Soviet Arms AKS-74U “Krinkov” In 300BLK](https://www.thegunpage.com/psa-releases-the-soviet-arms-aks-74u-krinkov-in-300blk/10611222)
-* [Why You Should Call the Police: SD Family’s Vengeance Fail Ends in Their Own Demise](https://www.thegunpage.com/why-you-should-call-the-police-sd-familys-vengeance-fail-ends-in-their-own-demise/10611220)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +226,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Uncle Barack](https://www.conservativedailynews.com/2024/10/uncle-barack/#comment-782706)
 * William Wallace on [Tim Walz Let Slip What We Knew About The Left All Along](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/#comment-782701)
 * TMann on [President Joe Biden’s Schedule for Monday, October 14, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-14-2024/#comment-782685)
 * charles wilkins on [The Story Teller](https://www.conservativedailynews.com/2024/10/the-story-teller/#comment-782684)
@@ -236,7 +235,6 @@ Recent Comments
 * charles wilkins on [Prominent Election Expert Suggests Pollsters ‘Have No Idea’ If They’re Accurately Measuring Trump Support](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/#comment-782655)
 * Catboss on [Trump Campaign Requests Military Aircraft, Bulletproof Glass Amid Security Threats](https://www.conservativedailynews.com/2024/10/trump-campaign-requests-military-aircraft-bulletproof-glass-amid-security-threats/#comment-782654)
 * Will Delito on [Trump Campaign Requests Military Aircraft, Bulletproof Glass Amid Security Threats](https://www.conservativedailynews.com/2024/10/trump-campaign-requests-military-aircraft-bulletproof-glass-amid-security-threats/#comment-782653)
-* KayCee on [Chutzpah](https://www.conservativedailynews.com/2024/10/chutzpah/#comment-782647)
 
 [Close](#)
 
