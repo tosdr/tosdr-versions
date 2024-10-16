@@ -132,17 +132,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Salesforce
+[Own Discover
 
-Why Historical Data is Your Secret Weapon for Better Salesforce Reporting](https://www.ownbackup.com/blog/why-historical-data-is-your-secret-weapon-for-better-salesforce-reporting)
+Agentforce and the Rising Importance of Quality Historical Data](https://www.ownbackup.com/blog/agentforce-and-the-rising-importance-of-quality-historical-data)
+
+[Government
+
+How States Can Secure Voter Data with FedRAMP Authorized SaaS Solutions](https://www.ownbackup.com/blog/how-states-can-secure-voter-data-with-fedramp-authorized-saas-solutions)
 
 [Backup and Recovery
 
-How Can Businesses Design and Test Disaster Recovery?](https://www.ownbackup.com/blog/how-can-businesses-design-and-test-disaster-recovery)
-
-[Data Security
-
-The Access Balancing Act: Minimizing Risk Without Impeding Growth](https://www.ownbackup.com/blog/the-access-balancing-act-minimizing-risk-without-impeding-growth)
+Introducing Continuous Data Protection For Salesforce: Achieve Near-Zero Data Loss for Rapidly-Changing Mission-Critical Data](https://www.ownbackup.com/blog/introducing-continuous-data-protection-for-salesforce)
 
 Company
 
@@ -360,17 +360,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Salesforce
+[Own Discover
 
-Why Historical Data is Your Secret Weapon for Better Salesforce Reporting](https://www.ownbackup.com/blog/why-historical-data-is-your-secret-weapon-for-better-salesforce-reporting)
+Agentforce and the Rising Importance of Quality Historical Data](https://www.ownbackup.com/blog/agentforce-and-the-rising-importance-of-quality-historical-data)
+
+[Government
+
+How States Can Secure Voter Data with FedRAMP Authorized SaaS Solutions](https://www.ownbackup.com/blog/how-states-can-secure-voter-data-with-fedramp-authorized-saas-solutions)
 
 [Backup and Recovery
 
-How Can Businesses Design and Test Disaster Recovery?](https://www.ownbackup.com/blog/how-can-businesses-design-and-test-disaster-recovery)
-
-[Data Security
-
-The Access Balancing Act: Minimizing Risk Without Impeding Growth](https://www.ownbackup.com/blog/the-access-balancing-act-minimizing-risk-without-impeding-growth)
+Introducing Continuous Data Protection For Salesforce: Achieve Near-Zero Data Loss for Rapidly-Changing Mission-Critical Data](https://www.ownbackup.com/blog/introducing-continuous-data-protection-for-salesforce)
 
 Company
 
