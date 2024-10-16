@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-8.474 Tb/s
+12.579 Tb/s
 
 Peak
 
@@ -100,7 +100,7 @@ We furthermore use the information we obtain from cookies for the following purp
 Third party cookies
 -------------------
 
-AMS-IX uses Google Analytics for [www.ams-ix.net](https://www.ams-ix.net/). This tool helps us keep track of the use of the website: which pages are visited and how long do visitors stay there. This data helps us improve our website to offer visitors a better browsing experience. The cookies set by Google because of this do not contain or collect personal identifiable information.
+AMS-IX uses Google Analytics for [www.ams-ix.net](https://www.ams-ix.net/ams). This tool helps us keep track of the use of the website: which pages are visited and how long do visitors stay there. This data helps us improve our website to offer visitors a better browsing experience. The cookies set by Google because of this do not contain or collect personal identifiable information.
 
 How do you block cookies?
 -------------------------
