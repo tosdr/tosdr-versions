@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/aliens-tegen-amerikaans-raketschild/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/de-beerput-van-de-farmacy-moet-open/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
