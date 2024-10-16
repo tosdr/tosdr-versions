@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [History's Unsent Telegrams](https://www.somethingawful.com/photoshop-phriday/historys-unsent-telegrams/1/)
-* [Normal Books for Sci-Fi Audiences](https://www.somethingawful.com/photoshop-phriday/normal-books-for/1/)
-* [Coffee Table Books of the Damned](https://www.somethingawful.com/photoshop-phriday/coffee-table-books/1/)
-* [September 8, 2008](https://www.somethingawful.com/forum-fridays/ff09-08-08/1/)
-* [September 17, 2007](https://www.somethingawful.com/forum-fridays/ff09-27-07/1/)
+* [FOUR SCORE AND SEVEN YEARS AGO BLAH BLAH BLAH BLAH](https://www.somethingawful.com/daily-dirt/four-score-seven/)
+* [Call of Cthulhu "1990's Handbook" - Saved by the Yith (part 2)](https://www.somethingawful.com/dungeons-and-dragons/cobain-morton-downey/1/)
+* [Another Awful Energy Drink Review Roundup (Part II)](https://www.somethingawful.com/news/energy-drink-review3/1/)
+* [Every Review Of Ghostbusters You Will Read This Week](https://www.somethingawful.com/news/every-ghostbusters-review/)
+* [The Art of Wikigroaning](https://www.somethingawful.com/news/wikigroaning/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Twilight of the Idols: PART TWO!](https://www.somethingawful.com/news/twilight-idols-part-2/)
-* [Slogans That Shouldn't Be](https://www.somethingawful.com/comedy-goldmine/slogans-shouldnt-be/1/)
-* [Your Eyes Say =^\_^= But Your Videos Say ( . )( . )](https://www.somethingawful.com/webcam-ward/japanese-lessons-boobs/)
-* [GG ELECTION COVERAGE '08 day one](https://www.somethingawful.com/daily-dirt/gaming-election-1/)
-* [Look at this asshole](https://www.somethingawful.com/news/look-at-asshole/)
+* [Live From Apple WWDC 2007](https://www.somethingawful.com/news/apple-iphone-wwdc/)
+* [Fanfiction Review: Volume 1](https://www.somethingawful.com/your-band-sucks/fanfiction-review-volume/)
+* [Glitches in the Matrix](https://www.somethingawful.com/comedy-goldmine/glitches-matrix/1/)
+* [Cutbacks](https://www.somethingawful.com/news/cutbacks-office/)
+* [April 6, 2009](https://www.somethingawful.com/forum-fridays/ff04-06-09/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
