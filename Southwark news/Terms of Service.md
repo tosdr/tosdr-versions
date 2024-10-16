@@ -207,12 +207,6 @@ Terms of Use
 
 [10th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
 
-[![Tanganga joined Millwall permanently in July. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tanganga-6272828-1-350x250-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
-
-### [‘It’s one of the most beautiful atmospheres in England’ – Millwall defender on why he joined the Lions](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
-
-[9th October 2024](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
-
 [![An illustration of the development. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/gg-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
 
 ### [Seventeen-storey apartment block approved on Rotherhithe roundabout](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
@@ -230,6 +224,12 @@ Terms of Use
 ### [Millwall winger receives plaudits for performance after bagging assist during England Under-20s win over Italy Under-20s](https://southwarknews.co.uk/sport/football/millwall/millwall-winger-receives-plaudits-for-performance-after-bagging-assist-during-england-under-20s-win-over-italy-under-20s/)
 
 [11th October 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-winger-receives-plaudits-for-performance-after-bagging-assist-during-england-under-20s-win-over-italy-under-20s/)
+
+[![L: Resident shares her opinion; R: Brixton Village (credit: Isabel Ramírez)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-12.46-120x86.jpg)](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+
+### [Exclusive: Brixton Market traders say they ‘were not told’ about the market going up for sale](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+
+[11th October 2024](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
 
 ### Featured Articles
 
