@@ -79,12 +79,7 @@ Asia
     * [Show all](https://www.fjallraven.com/us/en-us/men/)
     * [New Arrivals](https://www.fjallraven.com/us/en-us/men/new-arrivals/)
     * [Best Sellers](https://www.fjallraven.com/us/en-us/men/best-sellers/)
-    * Featured Collections
-        
-        * [Show all](https://www.fjallraven.com/us/en-us/men/featured-collections/)
-        * [Limited Edition](https://www.fjallraven.com/us/en-us/men/featured-collections/limited-edition/)
-        * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/men/fjallraven-specialized/)
-        
+    * [Limited Edition](https://www.fjallraven.com/us/en-us/men/limited-edition/)
     * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/men/fjallraven-specialized/)
     * Jackets
         
@@ -285,7 +280,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=fc2c6318-2b4c-4204-8a63-117f190c6d48)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=08be200c-685b-4eb3-b667-5ec8c5b96936)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -297,12 +292,7 @@ Asia
         * [Show all](https://www.fjallraven.com/us/en-us/men/)
         * [New Arrivals](https://www.fjallraven.com/us/en-us/men/new-arrivals/)
         * [Best Sellers](https://www.fjallraven.com/us/en-us/men/best-sellers/)
-        * Featured Collections
-            
-            * [Show all Featured Collections](https://www.fjallraven.com/us/en-us/men/featured-collections/)
-            * [Limited Edition](https://www.fjallraven.com/us/en-us/men/featured-collections/limited-edition/)
-            * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/men/fjallraven-specialized/)
-            
+        * [Limited Edition](https://www.fjallraven.com/us/en-us/men/limited-edition/)
         * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/men/fjallraven-specialized/)
         * Jackets
             
@@ -449,7 +439,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=fc2c6318-2b4c-4204-8a63-117f190c6d48)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=08be200c-685b-4eb3-b667-5ec8c5b96936)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -817,7 +807,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=fc2c6318-2b4c-4204-8a63-117f190c6d48)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=08be200c-685b-4eb3-b667-5ec8c5b96936)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
