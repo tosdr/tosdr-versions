@@ -30,7 +30,7 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Lower House Election](https://www.japantimes.co.jp/tag/2024-lower-house-election// "Lower House Election")
+* [Lower House Election](https://www.japantimes.co.jp/tag/2024-lower-house-election/ "Lower House Election")
 * [MLB Championship Series](https://www.japantimes.co.jp/tag/mlb/ "MLB Championship  Series")
 * [Nobel Prize](https://www.japantimes.co.jp/tag/nobel-prize/ "Nobel Prize")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
@@ -480,9 +480,13 @@ Revised June 1, 2022
 
   [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
 
-[India creates space strategy to capture market beyond SpaceX](https://www.japantimes.co.jp/business/2024/10/14/tech/india-space-strategy-spacex/ "India creates space strategy to capture market beyond SpaceX")
+[40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
 
-  [![India's Geosynchronous Satellite Launch Vehicle Mk III-M1 blasts off carrying Chandrayaan-2, from the Satish Dhawan Space Center at Sriharikota, India, on July 22, 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427626.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "India's Geosynchronous Satellite Launch Vehicle Mk III-M1 blasts off carrying Chandrayaan-2, from the Satish Dhawan Space Center at Sriharikota, India, on July 22, 2019.")](https://www.japantimes.co.jp/business/2024/10/14/tech/india-space-strategy-spacex/ "India creates space strategy to capture market beyond SpaceX")
+  [![Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427856.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.")](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
+
+[While motorsports' inclusivity has improved, there's still work to be done](https://www.japantimes.co.jp/sports/2024/10/15/more-sports/women-auto-racing-wec/ "While motorsports' inclusivity has improved, there's still work to be done")
+
+  [![The Iron Dames car shared by Rahel Frey, Sarah Bovy and Michelle Gatting is pushed into the garage during the World Endurance Championship race in Austin, Texas, earlier this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427423.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Iron Dames car shared by Rahel Frey, Sarah Bovy and Michelle Gatting is pushed into the garage during the World Endurance Championship race in Austin, Texas, earlier this year.")](https://www.japantimes.co.jp/sports/2024/10/15/more-sports/women-auto-racing-wec/ "While motorsports' inclusivity has improved, there's still work to be done")
 
 [Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
 
@@ -499,10 +503,6 @@ Revised June 1, 2022
 [As Japan shuns stiff drinks, cider aims for a bigger share of the market](https://www.japantimes.co.jp/life/2024/10/13/food-drink/cider-japan-history-bars/ "As Japan shuns stiff drinks, cider aims for a bigger share of the market")
 
   [![Cider in Japan doesn't have as long a history as other alcoholic beverages, but with consumer preferences shifting, it might be just the easy sip for drinkers sick of stiff tipples.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427073.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Cider in Japan doesn't have as long a history as other alcoholic beverages, but with consumer preferences shifting, it might be just the easy sip for drinkers sick of stiff tipples.")](https://www.japantimes.co.jp/life/2024/10/13/food-drink/cider-japan-history-bars/ "As Japan shuns stiff drinks, cider aims for a bigger share of the market")
-
-[Kyoto partners with e-gift service company to let tourists Donate & Go](https://www.japantimes.co.jp/news/2024/10/13/japan/society/donate-go-kyoto/ "Kyoto partners with e-gift service company to let tourists Donate & Go")
-
-  [![The city of Kyoto boasts historic artifacts and cityscapes that millions are willing to travel thousands of kilometers to see, but such treasures are not cheap to maintain, prompting the city to ask foreign tourists for a helping hand.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/426956.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The city of Kyoto boasts historic artifacts and cityscapes that millions are willing to travel thousands of kilometers to see, but such treasures are not cheap to maintain, prompting the city to ask foreign tourists for a helping hand.")](https://www.japantimes.co.jp/news/2024/10/13/japan/society/donate-go-kyoto/ "Kyoto partners with e-gift service company to let tourists Donate & Go")
 
 Podcast
 -------
@@ -523,9 +523,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,23 +565,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Aramco cancels Saudi chemical project as it focuses on Asia](https://www.japantimes.co.jp/business/2024/10/16/companies/aramco-saudi-chemical-project-asia/ "Aramco cancels Saudi chemical project as it focuses on Asia")
+[Visitors to Japan in January-September top last year's total](https://www.japantimes.co.jp/news/2024/10/16/japan/society/foreign-visitors-september/ "Visitors to Japan in January-September top last year's total")
 
-12 mins ago
+24 mins ago
 
-[Record 314 women file candidacies for Lower House vote, boosting share to 23%](https://www.japantimes.co.jp/news/2024/10/16/japan/politics/record-women-candidates/ "Record 314 women file candidacies for Lower House vote, boosting share to 23%")
+[JICA staffer suspected of leaking info on Philippines railway project](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
 
-29 mins ago
+55 mins ago
 
-[Chinese finance professionals switch careers amid industry crackdown](https://www.japantimes.co.jp/business/2024/10/16/chinese-finance-careers-industry-crackdown/ "Chinese finance professionals switch careers amid industry crackdown")
-
-29 mins ago
-
-[Justice Ministry to consider public recruitment of volunteer probation officers](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/probation-officers/ "Justice Ministry to consider public recruitment of volunteer probation officers")
+[Gamers hunt for monsters in Tokyo as Niantic searches for a hit](https://www.japantimes.co.jp/business/2024/10/16/tech/monster-hunter-shibuya/ "Gamers hunt for monsters in Tokyo as Niantic searches for a hit")
 
 1 hours ago
 
-[Xi’s stronger grip on legislature shows lack of checks on power](https://www.japantimes.co.jp/news/2024/10/16/asia-pacific/politics/xi-legislature-lack-checks-on-power/ "Xi’s stronger grip on legislature shows lack of checks on power")
+[Ishiba's goal of revising U.S. troops pact likely long-term project](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
+
+1 hours ago
+
+[Bank of Japan policymaker calls for 'very moderate' pace of rate hikes](https://www.japantimes.co.jp/business/2024/10/16/economy/bank-of-japan-board-member/ "Bank of Japan policymaker calls for 'very moderate' pace of rate hikes")
 
 2 hours ago
 
