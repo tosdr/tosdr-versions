@@ -142,11 +142,11 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
+* [Stella Blue Coffee Winter Flavors](https://stellabluecoffee.com/)
 * [Baseball Collection](https://store.barstoolsports.com/collections/baseball)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 * [Football Collection](https://store.barstoolsports.com/collections/football)
-* [Stella Blue Coffee](https://stellabluecoffee.com/)
-* [Sundae Conversation](https://www.barstoolsports.com/video/3528083/sundae-conversation-with-fireboy-dml)
+* [Pardon My Cheesesteak](https://pardonmycheesesteak.com/)
 
 Privacy Policy
 ==============
