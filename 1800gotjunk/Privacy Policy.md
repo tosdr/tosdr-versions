@@ -134,8 +134,6 @@ Sub Menu
 
 search
 
-Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
-
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
 ![Spring Cleaning 2022 Giveaway](/sites/default/files/mobile_tom_0.jpg)
@@ -596,17 +594,17 @@ Anne Garnett Calgary 11/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Very polite. Very efficient.
+Alex and Malcolm were great. They were able to load everything and even made space for some extra items. Efficient and friendly!
 
-Art Rae Calgary 11/10/2024
+Tiffany Wyatt Calgary 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Alex and Malcolm were great. They were able to load everything and even made space for some extra items. Efficient and friendly!
+Very polite. Very efficient.
 
-Tiffany Wyatt Calgary 11/10/2024
+Art Rae Calgary 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -868,6 +866,38 @@ Bruno Souza Monteregie Metro 16/03/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Fast, professional, and kind Will use again
+
+Barb Hill Baltimore 12/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Timothy and Roosevelt were excellent! So informative quick and easy! Great service and great workers. We really appreciate it!
+
+LAURIE BARR Baltimore 12/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+bobby and chaz were absolutely amazing!
+
+Lonny Trelz Naples 12/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Justin and Jabray were OUTSTANDING! They handled my junk as if it were my valuables.
+
+Remant Baltimore 12/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Pablo and David did a great job!
 
 Zifan Yang Seattle 12/10/2024
@@ -908,33 +938,25 @@ Adriane Guy Baltimore 12/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Fast, professional, and kind Will use again
+Excellent service!!
 
-Barb Hill Baltimore 12/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Timothy and Roosevelt were excellent! So informative quick and easy! Great service and great workers. We really appreciate it!
-
-LAURIE BARR Baltimore 12/10/2024
+Mike Vabic Cincinnati 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-bobby and chaz were absolutely amazing!
+Connor and syl were great today
 
-Lonny Trelz Naples 12/10/2024
+Luis Rodezno LA Metro 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Justin and Jabray were OUTSTANDING! They handled my junk as if it were my valuables.
+Great experience with the team! They were efficient and cost effective. Thank you!!!!
 
-Remant Baltimore 12/10/2024
+Mandar Chati Cincinnati 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -983,30 +1005,6 @@ Erv Bluemner Wisconsin 11/10/2024
 Great job, Dray and Alex maxed out the truck capacity and were very timely. Would highly recommend!
 
 George Rolfs Wisconsin 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Super fast. Great service. Would recommend. Caleb and August were amazing and very friendly!!!
-
-Jake Arneson Madison 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Excellent service!!
-
-Mike Vabic Cincinnati 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Connor and syl were great today
-
-Luis Rodezno LA Metro 11/10/2024
 
 ### 
 
