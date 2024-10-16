@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [The Quest for Aladdin's Treasure](https://www.myabandonware.com/game/the-quest-for-aladdin-s-treasure-sa5)
-* [The Snow Queen Quest](https://www.myabandonware.com/game/the-snow-queen-quest-sa4)
-* [1943 Kai](https://www.myabandonware.com/game/1943-kai-kr4)
-* [After Burner III](https://www.myabandonware.com/game/after-burner-iii-hgu)
-* [Aeroboto](https://www.myabandonware.com/game/aeroboto-7wk)
+* [Challenge Derby](https://www.myabandonware.com/game/challenge-derby-sv1)
+* [Monaco GP](https://www.myabandonware.com/game/monaco-gp-sp4)
+* [Champion Baseball](https://www.myabandonware.com/game/champion-baseball-siq)
+* [Sindbad Mystery](https://www.myabandonware.com/game/sindbad-mystery-sdp)
+* [C-So!](https://www.myabandonware.com/game/c-so-qsj)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Pouvoir](https://www.myabandonware.com/game/pouvoir-hlt)
-* [TNT](https://www.myabandonware.com/game/tnt-k29)
-* [Master Labyrinth](https://www.myabandonware.com/game/master-labyrinth-pkw)
+* [Larkspur Waldorf: The Journey Home](https://www.myabandonware.com/game/larkspur-waldorf-the-journey-home-omn)
+* [Vapor TRX](https://www.myabandonware.com/game/vapor-trx-sba)
+* [Heads Up Action Soccer](https://www.myabandonware.com/game/heads-up-action-soccer-qul)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
