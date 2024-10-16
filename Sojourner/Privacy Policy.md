@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-dcb93b4f3ac659aaba3f8ee867411296
+3642d337e5b94bcd22ce93ca59044f2f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Vintage German turquoise twist beads](https://www.sojourner.biz/images/cache/glass/GL0024.200.jpg)](https://www.sojourner.biz/beads/glass/vintage-german-turquoise-twist-beads.html "Vintage German turquoise twist beads")
+[![Forest green Christmas tree earrings](https://www.sojourner.biz/images/cache/E0003front.200.jpg)](https://www.sojourner.biz/jewelry/earrings/forest-green-christmas-tree-earrings.html "Forest green Christmas tree earrings")
 
-#### [Vintage German turquoise twist beads](https://www.sojourner.biz/beads/glass/vintage-german-turquoise-twist-beads.html "Vintage German turquoise twist beads")
+#### [Forest green Christmas tree earrings](https://www.sojourner.biz/jewelry/earrings/forest-green-christmas-tree-earrings.html "Forest green Christmas tree earrings")
 
-$15.00
+$20.00
 
 ### Best Sellers
 
