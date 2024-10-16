@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [California's approach to AI: Unpacking new legislation](https://www.onetrust.com/resources/californias-approach-to-ai-unpacking-new-legislation-webinar/)
 * [Explore the future of regulatory intelligence: A DataGuidance demo](https://www.onetrust.com/resources/explore-the-future-of-regulatory-intelligence-a-dataguidance-demo-webinar/)
-* [Unlock the power of first-party data and transform compliance into competitive advantage](https://www.onetrust.com/resources/unlock-the-power-of-first-party-data-and-transform-compliance-into-competitive-advantage-ebook/)
-* [Getting started with GDPR compliance](https://www.onetrust.com/resources/getting-started-with-gdpr-compliance-ebook/)
+* [Getting Ready for the EU AI Act, Phase 1: Discover & Catalog, The Gartner® Report​](https://www.onetrust.com/resources/getting-ready-for-the-eu-ai-act-phase-1-discover-and-catalog-the-gartner-report/)
 
 ### Platform
 
