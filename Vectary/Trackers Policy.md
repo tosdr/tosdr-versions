@@ -14,7 +14,7 @@ The purpose of using Cookies is to be able to adapt to your needs, to distinguis
   
 You do not need to allow cookies to visit most of the Site. However, enabling cookies may allow for a more tailored browsing experience and is required for certain parts of the Site to work. In the majority of cases, a cookie does not provide us with any of your personal information.  
   
-For further information about this cookie policy, please contact us at [\[email protected\]](https://www.vectary.com/cdn-cgi/l/email-protection).
+For further information about this cookie policy, please contact us at [contact@vectary.com](mailto:contact@vectary.com).
 
 2\. Information on the cookies we use
 -------------------------------------
@@ -98,7 +98,7 @@ We may need to update our cookie policy from time to time if we decide to use co
   
 For more information about how we process personal data collected from cookies please refer to our website [Privacy Policy](https://www.vectary.com/privacy-policy).  
   
-If you have any questions or would like more information about the ways we use cookies please contact us at [\[email protected\]](https://www.vectary.com/cdn-cgi/l/email-protection).  
+If you have any questions or would like more information about the ways we use cookies please contact us at [contact@vectary.com](mailto:contact@vectary.com).  
   
   
 ‍  
