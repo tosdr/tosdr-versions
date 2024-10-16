@@ -319,7 +319,7 @@ video about why you should buy from 4imprint](https://www.4imprint.com/info/whyb
 
 * [4imprint Creative Department](https://www.4imprint.com/info/artdept)
 * [Artwork Tips](https://www.4imprint.com/info/arttips)
-* [one by one Charitable Program](https://onebyone.4imprint.com/)
+* [one by one® Charitable Program](https://onebyone.4imprint.com/)
 
 ### Worldwide
 
@@ -346,6 +346,6 @@ Shopping at 4imprint is secure and 100% guaranteed
 © 1994 - 2024 4imprint Inc. All rights reserved. [Legal information](https://www.4imprint.com/info/legalstatement).  
 Glide is protected by U.S. Pat. No. 7,979,318  
 Here's some stuff you don't need to know, but we do!  
-aw0mdwk0004EF
+aw0mdwk0004J5
 
 [To Top of page](#)
