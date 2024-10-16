@@ -203,6 +203,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Mark Alexander The 2024 Election IS Rigged!](https://patriotpost.us/alexander/111103-the-2024-election-is-rigged-2024-10-16)
 *      [Ben Shapiro The Brat Energy Is Gone](https://patriotpost.us/opinion/111130-the-brat-energy-is-gone-2024-10-16)
 *      [Betsy McCaughey Harris’ Approach: Only Blacks Get Government Help](https://patriotpost.us/opinion/111126-harris-approach-only-blacks-get-government-help-2024-10-16)
 *      [Tim Graham The Washington Post Claims Republicans Wage War on Fact-Checkers](https://patriotpost.us/opinion/111125-the-washington-post-claims-republicans-wage-war-on-fact-checkers-2024-10-16)
@@ -210,7 +211,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Gary Bauer The Joy Is Gone](https://patriotpost.us/opinion/111122-the-joy-is-gone-2024-10-16)
 *      [Star Parker Why, In Our Free Country, Do We Lack Education Freedom?](https://patriotpost.us/opinion/111120-why-in-our-free-country-do-we-lack-education-freedom-2024-10-16)
 *      [Ian Haworth The Racism Reflex](https://patriotpost.us/opinion/111105-the-racism-reflex-2024-10-16)
-*      [Christine Flowers Sex, Lies, and Other Distractions](https://patriotpost.us/opinion/111091-sex-lies-and-other-distractions-2024-10-15)
+*      [The Babylon Bee ‘Oops, We Meant To Say UP,’ Explains FBI After Months Of Saying Crime Is Down](https://patriotpost.us/opinion/111138-oops-we-meant-to-say-up-explains-fbi-after-months-of-saying-crime-is-down-2024-10-16)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,11 +225,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
