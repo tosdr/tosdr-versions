@@ -4,6 +4,8 @@ Search  Submit your search query
 
 [Forum](https://forum.freecodecamp.org/) [Donate](https://www.freecodecamp.org/donate/)
 
+ADVERTISEMENT
+
 May 25, 2018 / [#freeCodeCamp.org](https://terms-of-service.freecodecamp.org/news/tag/freecodecamp/)
 
 freeCodeCamp's Terms of Service
