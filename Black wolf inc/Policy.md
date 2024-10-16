@@ -195,7 +195,7 @@ FSA/HSA ELIGIBLE
 
 [![](//blackwolfnation.com/cdn/shop/files/ScreenShot2024-10-15at11.34.01AM.png?v=1729017249&width=946)
 
-![](//blackwolfnation.com/cdn/shop/files/93.png?v=1724699315&width=1080)
+![](//blackwolfnation.com/cdn/shop/files/wush_99c7cb2c-c530-45fb-848d-2a9ee44afd39.png?v=1729027068&width=1080)
 
 WUSH™ PRO Ear Cleaner
 
