@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 11, 2024
+October 15, 2024
 
-A talk with Ghada and Taylor
+Raising up the children
 
-On Tuesday, I talked with Ghada Abdulfattah, the Monitor’s correspondent in Gaza, and Jordan-based correspondent, Taylor Luck, for our “Why We Wrote This” podcast. The show, which recently surpassed its 100th episode, takes you behind the scenes of the finished stories that you see.This week on the show, which you’ll find below, Ghada gives us the gift of her time and heart, even as daily challenges of profound insecurity, the destruction of her family’s home, and shortages of every kind swirl around her in Gaza. The power of hearing her voice is immeasurable; I hope you’ll take the time to listen. She brings us face-to-face with the humanity at the core of the larger story.
+People have plenty of views on how best to raise children. Norway, the subject of our in-depth story today, has a 63-page law, too, designed to help its very youngest residents find a solid footing in a democratic society.Mention of the power of play pops up a lot – as does respect and charity, equality and solidarity. You’ll learn, too, about “friluftsliv.” The story will likely make you think about what you’ve done or experienced. Most of all, it brings to the fore one of the most important indicators of a society’s values, especially as it evolves and diversifies: How it cares for all its children.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
