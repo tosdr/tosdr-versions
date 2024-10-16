@@ -54,6 +54,10 @@ Country shops All locations & languages
 
 [Polska](https://www.skatedeluxe.com/pl/i/polityka-prywatnosci?cic=PL)
 
+[Norway](https://www.skatedeluxe.com/en/i/privacy?cic=NO)
+
+[Romania](https://www.skatedeluxe.com/en/i/privacy?cic=RO)
+
 Delivery country
 
  - Delivery country
