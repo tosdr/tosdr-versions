@@ -144,8 +144,8 @@ Oct 16
 #### Popular Posts
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
-* [New Miri X510 Bonding Network Router Powered by Speedify](https://speedify.com/blog/news/miri-x510-bonding-network-router-powered-by-speedify/)
 * [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
+* [New Miri X510 Bonding Network Router Powered by Speedify](https://speedify.com/blog/news/miri-x510-bonding-network-router-powered-by-speedify/)
 
 ### Bonding Apps
 
