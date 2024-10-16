@@ -368,18 +368,29 @@ On this page
 * [13.1. Binding arbitration agreement and class action waiver](#131-binding-arbitration-agreement-and-class-action-waiver)
 * [14\. Miscellaneous](#14-miscellaneous)
 
-![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo-p_kftwpv.svg)
+![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-purple_lf83vr.svg)
 
-Proton - Privacy by default
+Privacy by default
 
-* [![Twitter](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065299/static/social/x-widestroke-purple_f4zjnu.svg)(new window)](https://twitter.com/intent/user?screen_name=ProtonPrivacy)
-* [![Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/reddit-purple_gznsmi.svg)(new window)](https://www.reddit.com/r/ProtonMail/)
-* [![Instagram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/instagram-purple_qrninv.svg)(new window)](https://www.instagram.com/protonprivacy/)
-* [![Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/facebook-purple_gcxvti.svg)(new window)](https://www.facebook.com/Proton)
-* [![Linkedin](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/linkedin-purple_zrlizy.svg)(new window)](https://www.linkedin.com/company/protonprivacy/)
-* [![Mastodon](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/mastodon-purple_oepmfa.svg)(new window)](https://mastodon.social/@protonprivacy)
-* [![Rss](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/rss-purple.svg)](https://protonvpn.com/blog/feed)
-* [![Youtube](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/youtube-purple_nuezps.svg)(new window)](https://www.youtube.com/@ProtonAG?sub_confirmation=1)
+* [![X](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/x.svg)(new window)](https://x.com/intent/user?screen_name=ProtonPrivacy)
+* [![Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/reddit.svg)(new window)](https://www.reddit.com/r/ProtonMail/)
+* [![Instagram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/instagram.svg)(new window)](https://www.instagram.com/protonprivacy/)
+* [![Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/facebook.svg)(new window)](https://www.facebook.com/Proton)
+* [![LinkedIn](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/linkedin.svg)(new window)](https://www.linkedin.com/company/protonprivacy/)
+* [![Mastodon](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/mastodon.svg)(new window)](https://mastodon.social/@protonprivacy)
+* [![RSS](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/rss.svg)](https://protonvpn.com/blog/feed)
+* [![Threads](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/threads.svg)(new window)](https://www.threads.net/@protonprivacy)
+* [![WhatsApp](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/whatsapp.svg)(new window)](https://www.whatsapp.com/channel/0029VaErt8I4tRrjiU8eMd1U)
+* [![Telegram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/telegram.svg)(new window)](https://t.me/proton_privacy)
+* [![UserVoice](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/uservoice.svg)(new window)](https://protonmail.uservoice.com/)
+* [![YouTube](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/youtube.svg)(new window)](https://www.youtube.com/@ProtonAG?sub_confirmation=1)
+* [![TikTok](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/tiktok.svg)(new window)](https://www.tiktok.com/@privacytok)
+
+Proton AG
+
+Route de la Galaise 32  
+1228 Plan-les-Ouates  
+Geneva, Switzerland
 
 * ### Products
     
@@ -400,6 +411,7 @@ Proton - Privacy by default
     * [Community](https://protonvpn.com/community)
     * [Open source](https://protonvpn.com/community/open-source)
     * [Pricing](https://protonvpn.com/pricing)
+    * [Student discount](https://protonvpn.com/student)
 * ### Company
     
 * Company
@@ -422,35 +434,6 @@ Proton - Privacy by default
 
 * * *
 
-Proton AG
-
-Route de la Galaise 32  
-1228 Plan-les-Ouates  
-Geneva, Switzerland
-
-Built with support from
-
-![Swiss Confederation Flag](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693295499/static/footer/swiss-confederation_pgkwwd.svg)
-
-Schweizerische Eidgenossenschaft
-
-Confédération Suisse
-
-Confederazione Svizzera
-
-Confederaziun Svizra
-
-Swiss Confederation
-
-Innosuisse - Swiss Innovation Agency
-
-![European Flag](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693295499/static/footer/Flag_of_Europe_arpkfs.svg)
-
-This project is supported  
-by the European Union’s  
-Horizon 2020 program  
-(Grant No 848554)
-
 English
 
 * [System status(new window)](https://status.proton.me/)
@@ -458,6 +441,8 @@ English
 * [Report a problem](https://protonvpn.com/support/report-bug)
 * [Report a security issue](https://protonvpn.com/security/response-center)
 * [Request a feature(new window)](https://protonmail.uservoice.com/)
+
+English
 
 * [Privacy policy](https://protonvpn.com/legal/privacy)
 * [Terms & conditions](https://protonvpn.com/legal/terms)
