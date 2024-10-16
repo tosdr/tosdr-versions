@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/israels-controle-over-isis-is-isil/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/dwalingen-en-dwaalsporen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
