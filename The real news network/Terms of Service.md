@@ -105,13 +105,13 @@ Trending Posts
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
+* [Republicans’ cynical and selective concern for social welfare](https://therealnews.com/republicans-cynical-and-selective-concern-for-social-welfare) 
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [Jewish Americans hold nationwide Oct. 7 vigils for Palestinian, Lebanese, and Israeli lives](https://therealnews.com/jewish-americans-hold-nationwide-oct-7-vigils-for-palestinian-lebanese-and-israeli-lives)
 
 Close
 
@@ -169,13 +169,13 @@ Trending Posts
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
+* [Republicans’ cynical and selective concern for social welfare](https://therealnews.com/republicans-cynical-and-selective-concern-for-social-welfare) 
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [Jewish Americans hold nationwide Oct. 7 vigils for Palestinian, Lebanese, and Israeli lives](https://therealnews.com/jewish-americans-hold-nationwide-oct-7-vigils-for-palestinian-lebanese-and-israeli-lives)
 
 [Skip to content](#main)
 
@@ -368,13 +368,13 @@ Trending Posts
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
 * [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
 * ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
+* [Republicans’ cynical and selective concern for social welfare](https://therealnews.com/republicans-cynical-and-selective-concern-for-social-welfare) 
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [Jewish Americans hold nationwide Oct. 7 vigils for Palestinian, Lebanese, and Israeli lives](https://therealnews.com/jewish-americans-hold-nationwide-oct-7-vigils-for-palestinian-lebanese-and-israeli-lives)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
