@@ -19,7 +19,7 @@ Language
 
 * [What we do](https://www.oxfam.org/en)
     
-    * [Ending poverty](https://www.oxfam.org/en/what-we-do/issues)
+    * [Fighting inequality](https://www.oxfam.org/en/what-we-do/issues)
         * [Water and sanitation](https://www.oxfam.org/en/what-we-do/issues/water-and-sanitation)
         * [Food, climate, and natural resources](https://www.oxfam.org/en/what-we-do/issues/food-climate-and-natural-resources)
         * [Conflicts and disasters](https://www.oxfam.org/en/what-we-do/issues/conflicts-and-disasters)
