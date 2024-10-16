@@ -331,7 +331,7 @@ October 10, 2024
 
 ### [The Better FAFSA: What Colleges and Universities Need to Know](https://www2.ed.gov/node/7150)
 
-r FAFSA: What Colleges and Universities Need to Know
+Completing and submitting the FAFSA form is free, and it gives students access to the largest source of financial aid to help pay for higher education.
 
 February 27, 2024
 
