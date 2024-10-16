@@ -22,12 +22,12 @@
 * [Product](#) Menu Toggle
     
     * [![mm-ast-icon](https://www.ipvanish.com/wp-content/uploads/2024/02/ipv-icon-menu.svg)IPVanish](javascript:void(0)) Menu Toggle
-        * [Why VPN](https://www.ipvanish.com/why-vpn/)
         * [What is a VPN?](https://www.ipvanish.com/what-is-a-vpn/)
+        * [Secure BrowserNew!](https://www.ipvanish.com/secure-browser/)
+        * [Cloud StorageNew!](https://www.ipvanish.com/cloud-storage/)
         * [VPN Servers](https://www.ipvanish.com/servers/)
         * [Money-back Guarantee](https://www.ipvanish.com/money-back-guarantee/)
         * [No-traffic-log Policy](https://www.ipvanish.com/no-log-vpn-policy/)
-        * [Press](https://www.ipvanish.com/press/)
         * [Reviews](https://www.ipvanish.com/reviews/)
     * [![mm-ast-icon](https://www.ipvanish.com/wp-content/uploads/2024/05/features-icon-menu-1.svg)Features](https://www.ipvanish.com/vpn-features/) Menu Toggle
         * [Kill Switch](https://www.ipvanish.com/vpn-features/vpn-kill-switch/)
@@ -113,7 +113,7 @@
 * [Pricing](https://www.ipvanish.com/pricing/)
 * [My Account](https://my.ipvanish.com/)
 
-[Get Started](https://checkout.ipvanish.com/checkout/address-payment-method?flow=all-options)[Get Started](https://checkout.ipvanish.com/checkout/address-payment-method?flow=all-options)
+[Get Started](https://www.ipvanish.com/pricing/)[Get Started](https://www.ipvanish.com/pricing/)
 
 * Product Menu Toggle
     * [IPVanish Links](javascript:void(0))
@@ -122,17 +122,17 @@
         
         IPVanish
         
-        [Why VPN](https://www.ipvanish.com/why-vpn/)
-        
         [What is a VPN?](https://www.ipvanish.com/what-is-a-vpn/)
+        
+        [Secure Browser](https://www.ipvanish.com/secure-browser/) New!
+        
+        [Cloud Storage](https://www.ipvanish.com/cloud-storage/) New!
         
         [VPN Servers](https://www.ipvanish.com/servers/)
         
         [Money-back Guarantee](https://www.ipvanish.com/money-back-guarantee/)
         
         [No-traffic-log Policy](https://www.ipvanish.com/no-log-vpn-policy/)
-        
-        [Press](https://www.ipvanish.com/press/)
         
         [Reviews](https://www.ipvanish.com/reviews/)
         
@@ -305,7 +305,7 @@ Main Menu
 
 [![IPVanish logo](https://www.ipvanish.com/wp-content/uploads/2021/10/ipvanish-text-logo-148x23.png)](https://www.ipvanish.com/)
 
-[Get Started](https://checkout.ipvanish.com/checkout/address-payment-method?flow=all-options)[Get Started](https://checkout.ipvanish.com/checkout/address-payment-method?flow=all-options)
+[Get Started](https://www.ipvanish.com/pricing/)[Get Started](https://www.ipvanish.com/pricing/)
 
 * Product Menu Toggle
     * [IPVanish Links](javascript:void(0))
@@ -314,17 +314,17 @@ Main Menu
         
         IPVanish
         
-        [Why VPN](https://www.ipvanish.com/why-vpn/)
-        
         [What is a VPN?](https://www.ipvanish.com/what-is-a-vpn/)
+        
+        [Secure Browser](https://www.ipvanish.com/secure-browser/) New!
+        
+        [Cloud Storage](https://www.ipvanish.com/cloud-storage/) New!
         
         [VPN Servers](https://www.ipvanish.com/servers/)
         
         [Money-back Guarantee](https://www.ipvanish.com/money-back-guarantee/)
         
         [No-traffic-log Policy](https://www.ipvanish.com/no-log-vpn-policy/)
-        
-        [Press](https://www.ipvanish.com/press/)
         
         [Reviews](https://www.ipvanish.com/reviews/)
         
@@ -493,7 +493,7 @@ Main Menu
         [Get in touch](https://support.ipvanish.com/hc/en-us/requests/new)
         
 
-[Get Started](https://checkout.ipvanish.com/checkout/address-payment-method?flow=all-options)[Get Started](https://checkout.ipvanish.com/checkout/address-payment-method?flow=all-options)
+[Get Started](https://www.ipvanish.com/pricing/)[Get Started](https://www.ipvanish.com/pricing/)
 
 DMCA Policy
 ===========
