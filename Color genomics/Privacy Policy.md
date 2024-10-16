@@ -406,21 +406,21 @@ Email: [support@color.com](mailto:support@color.com)
 
 ### Solutions
 
-* [Employers](https://www.color.com/employers)
-* [Consultants](https://www.color.com/consultants)
-* [Health Plans](https://www.color.com/health-plans)
-* [Unions](https://www.color.com/unions)
+* [Employers](https://www.color.com/?page_id=148083)
+* [Consultants](https://www.color.com/?page_id=148026)
+* [Health Plans](https://www.color.com/?page_id=151332)
+* [Unions](https://www.color.com/?page_id=147697)
 * [Individuals](https://www.color.com/individuals-genomics)
 
 ### Products
 
-* [Cancer](https://www.color.com/cancer)
+* [Cancer](https://www.color.com/?page_id=149243)
 * [Genomics](https://www.color.com/genomics)
 * [Cardiometabolic disease](https://www.color.com/cardiometabolic-disease)
 
 ### Company
 
-* [About Us](https://www.color.com/about-us)
+* [About Us](https://www.color.com/?page_id=152688)
 * [Leadership](https://www.color.com/leadership)
 * [Research](https://www.color.com/research-platform)
 * [Careers](https://www.color.com/careers)
