@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zw7F-woAAVAAAABboyU)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zw8aUAoAAVEAAABc2sc)
 
 Es noticia
 
@@ -13,18 +13,18 @@ Es noticia
 * [España Serbia](https://www.elmundo.es/deportes/futbol/uefa-nations-league/espana-serbia/2024/10/15/01_0195_20241015_118_364-directo.html)
 * [Tatiana Blatnik](https://www.elmundo.es/loc/celebrities/2024/10/15/670e8d2be9cf4a40448b45ab.html)
 * [Bendodo](https://www.elmundo.es/espana/2024/10/15/670e6a67e9cf4a52328b458d.html)
-* [Alex Salmond](https://www.elmundo.es/internacional/2024/10/15/670e4bc9e4d4d8d84c8b4581.html)
+* [Nestea](https://www.elmundo.es/economia/empresas/2024/10/15/670e64f2e4d4d8fc768b4580.html)
+* [Reina Letizia](https://www.elmundo.es/yodona/moda/reina-letizia/2024/10/15/670ebfcffdddff2f138b458f.html)
 * [Agostina Rubini](https://www.elmundo.es/baleares/2024/10/15/670e2267fdddff4f2f8b4572.html)
 * [Guerra Rusia Ucrania](https://www.elmundo.es/internacional/2024/10/15/670df93e120162fa604b31c5-directo.html)
 * [Herederos testamento](https://www.elmundo.es/economia/2024/10/15/670e27b6fdddff18318b4584.html)
 * [Entretiempo Zara](https://www.elmundo.es/yodona/moda/2024/10/15/670e3975fdddff4d2f8b4579.html)
+* [Lara Álvarez](https://www.elmundo.es/loc/famosos/2024/10/15/670e5f2fe85ece92598b45b2.html)
 * [Alcaraz](https://www.elmundo.es/como/2024/10/15/670e2de3fdddff8a458b4578.html)
 * [Prostituta Madrid](https://www.elmundo.es/madrid/2024/10/15/670e8b33e85ece764d8b456e.html)
 * [Pulsera 7 nudos](https://www.elmundo.es/como/2024/10/15/670e41b221efa0774e8b45b1.html)
 * [Parque Madrid](https://www.elmundo.es/madrid/2024/10/15/670e17fde4d4d82d098b4572.htmlhttps://www.elmundo.es/madrid/2024/10/15/670e17fde4d4d82d098b4572.html)
 * [Herederos sin testamento](https://www.elmundo.es/economia/2024/10/15/670e27b6fdddff18318b4584.html)
-* [C1 Valenciano](https://www.elmundo.es/comunidad-valenciana/2024/10/15/670d2bebe9cf4adb148b456e.html)
-* [Restaurante Barcelona](https://www.elmundo.es/cataluna/2024/10/15/670e3358e85ecea2088b45b5.html)
 * [Luna llena](https://www.elmundo.es/como/2024/10/15/670e6857fdddffd3748b4573.html)
 * [Precio luz](https://www.elmundo.es/como/2024/10/15/670e6ec421efa0af758b4571.html)
 * [Festivos Madrid 2024](https://www.elmundo.es/como/2024/03/25/66014a62e9cf4aea7a8b4576.html)
@@ -36,6 +36,9 @@ Es noticia
 * [Traductor](https://www.elmundo.es/traductor/)
 * [Programación TV](https://www.elmundo.es/television/programacion-tv/)
 * [Últimas noticias](https://www.elmundo.es/ultimas-noticias.html)
+* [Euromillones](https://www.elmundo.es/loterias/2024/10/15/670ec06cfdddffa06d8b45a7.html)
+* [Bonoloto](https://www.elmundo.es/loterias/2024/10/15/670ec51de4d4d8b71b8b458a.html)
+* [Lotería ONCE](https://www.elmundo.es/loterias/2024/10/15/670e9b0efdddff7f888b458e.html)
 
 [Portada](https://www.elmundo.es/) [Portada](https://www.elmundo.es/?intcmp=MENUMIGA01&s_kw=portada) [Portada](https://www.elmundo.es/)
 
