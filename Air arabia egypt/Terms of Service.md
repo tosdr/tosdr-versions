@@ -49,7 +49,7 @@ Main menu
     
     * [Modify/Cancel](#)
     * [MODIFY FLIGHT](https://www.airarabia.com/modify-flight)
-    * [CANCEL FLIGHT](https://www.airarabia.com/flug-stornieren)
+    * [CANCEL FLIGHT](https://www.airarabia.com/cancel-flight)
     * [ADD AIR REWARDS ID](https://www.airarabia.com/add-air-rewards-id)
     
     * [Add Extras](#)
