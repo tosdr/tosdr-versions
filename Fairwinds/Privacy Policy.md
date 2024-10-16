@@ -1,13 +1,3 @@
-Mobile App Service Interruption |You can log in to online banking on our website to access your accounts. We are working to restore access to the app as quickly as possible.
-
-Mobile App Service Interruption |You can log in to online banking on our website to access your accounts. We are working to restore access to the app as quickly as possible.
-
-Mobile App Service Interruption |You can log in to online banking on our website to access your accounts. We are working to restore access to the app as quickly as possible.
-
-Mobile App Service Interruption |You can log in to online banking on our website to access your accounts. We are working to restore access to the app as quickly as possible.
-
-Mobile App Service Interruption |You can log in to online banking on our website to access your accounts. We are working to restore access to the app as quickly as possible.
-
 [![FAIRWINDS Credit Union logo](/images/logoFAIRWINDS.svg)](https://www.fairwinds.org/)[![FAIRWINDS Credit Union logo](/images/logoFAIRWINDS_sailboat.svg)](https://www.fairwinds.org/)
 
 [Personal](https://www.fairwinds.org/personal)[Business](https://www.fairwinds.org/business)[Investing](https://www.fairwinds.org/investment)[Insurance](https://www.fairwinds.org/insurance)[Learn](https://www.fairwinds.org/learn)[Member Support](https://www.fairwinds.org/support)
