@@ -173,7 +173,7 @@ Number of items in basket: 0
 
 [View All](https://alanthomsonsim.com/category/product-updates/)
 
-12th October 2024 [3](https://alanthomsonsim.com/tpe-merge-updated-to-v1-0-2/#comments "Comment on TPE Merge Updated to V1.0.2")
+12th October 2024 [5](https://alanthomsonsim.com/tpe-merge-updated-to-v1-0-2/#comments "Comment on TPE Merge Updated to V1.0.2")
 
 [TPE Merge Updated to V1.0.2](https://alanthomsonsim.com/tpe-merge-updated-to-v1-0-2/)
 --------------------------------------------------------------------------------------
@@ -214,9 +214,9 @@ Latest Update: 2024/01/24 The below log shows all updates for...
 
 ### Random Download
 
-*  [![](https://alanthomsonsim.com/wp-content/uploads/2023/02/LocoInfoPicture-100x100.jpg "Super Class 47")
+*  [![](https://alanthomsonsim.com/wp-content/uploads/edd/2024/08/Merge-ECML-100x100.png "The East Coast Mainline Merge")
     
-    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "Super Class 47")](https://alanthomsonsim.com/downloads/super-class-47/ "Super Class 47")[Super Class 47](https://alanthomsonsim.com/downloads/super-class-47/ "Super Class 47")
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "The East Coast Mainline Merge")](https://alanthomsonsim.com/downloads/the-east-coast-mainline-merge/ "The East Coast Mainline Merge")[The East Coast Mainline Merge](https://alanthomsonsim.com/downloads/the-east-coast-mainline-merge/ "The East Coast Mainline Merge")
 
 ### Most Recent Additions
 
