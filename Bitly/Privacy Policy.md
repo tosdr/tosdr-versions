@@ -1,10 +1,10 @@
 [Skip Navigation](#content)
 
-[![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)
+[![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)
 
 Menu
 
- [![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)Menu
+ [![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)Menu
 
 Menu
 
@@ -12,33 +12,33 @@ Menu
     
     ### Products
     
-    * ![Url Shortener Icon](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/link-icon.svg)[URL Shortener  
+    * ![Url Shortener Icon](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/link-icon.svg)[URL Shortener  
         **Customize, share and track links**](https://bitly.com/pages/products/url-shortener)
-    * ![Qr Code Icon](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/qr-icon.svg)[QR Code Generator  
+    * ![Qr Code Icon](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/qr-icon.svg)[QR Code Generator  
         **Dynamic solutions to fit every business need**](https://bitly.com/pages/products/qr-codes)
-    * ![Barcode Icon](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/barcode-icon.svg)[2D Barcodes  
-        **Add a Global Trade Number (GTIN) to QR Codes designed for packaging**](https://bitly.com/pages/products/2d-barcodes)
-    * ![Analytics Icon](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/analytics-icon.svg)[Analytics  
+    * ![Barcode Icon](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/barcode-icon.svg)[2D Barcodes  
+        **Add a Global Trade Number (GTIN) to QR Codes designed for packaging**](https://bitly.com/pages/products/2d-barcodes)
+    * ![Analytics Icon](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/analytics-icon.svg)[Analytics  
         **A central place to track and analyze performance of all short links and QR Codes**](https://bitly.com/pages/products/analytics)
-    * ![Link in BIO icon](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/link-in-bio-icon.svg)[Pages  
+    * ![Link in BIO icon](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/link-in-bio-icon.svg)[Pages  
         **Mobile-friendly, no-code landing pages**](https://bitly.com/pages/products/pages)
     
     ### Features
     
-    * ![Link in BIO icon](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/link-in-bio-1.svg)[Link-in-bio  
+    * ![Link in BIO icon](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/link-in-bio-1.svg)[Link-in-bio  
         **Curate and track links and content for social media profiles**](https://bitly.com/pages/features/link-in-bio)
-    * ![Branded link icon](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/branded-links.svg)[Branded Links  
+    * ![Branded link icon](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/branded-links.svg)[Branded Links  
         **Customize links with your brand’s URL**](https://bitly.com/pages/features/branded-links)
-    * ![Mobile link icon](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/mobile-links.svg)[Mobile Links  
+    * ![Mobile link icon](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/mobile-links.svg)[Mobile Links  
         **Short links for SMS messages**](https://bitly.com/pages/features/mobile-links)
-    * ![UTM icon](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/utm-campaigns.svg)[UTM Campaigns  
+    * ![UTM icon](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/utm-campaigns.svg)[UTM Campaigns  
         **Track links with UTM parameters**](https://bitly.com/pages/features/utm-links)
     
     ### Integrations
     
-    [![Logo for Hubspot integration](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2022/12/Hubspot-Logo-150x150.png)
+    [![Logo for Hubspot integration](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2022/12/Hubspot-Logo-150x150.png)
     
-    Bitly Hubspot Connector](https://bitly.com/pages/marketplace/hubspot-2)[![Logo for Canva integration](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2023/08/canva-logo-app-connectors-150x150.png)
+    Bitly Hubspot Connector](https://bitly.com/pages/marketplace/hubspot-2)[![Logo for Canva integration](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2023/08/canva-logo-app-connectors-150x150.png)
     
     Bitly + Canva Integration](https://bitly.com/pages/marketplace/canva)
     
@@ -78,12 +78,12 @@ Menu
     
     ### Use Cases
     
-    * [![](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/check-circle.svg)Order Confirmation](https://bitly.com/pages/use-case/order-confirmation-and-fulfillment)
-    * [![](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/user-survey.svg)Surveys and Feedback](https://bitly.com/pages/use-case/surveys-and-feedback)
-    * [![](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/product-packaging.svg)Product Packaging](https://bitly.com/pages/use-case/product-packaging)
-    * [![](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/print-ad.svg)Print Advertising](https://bitly.com/pages/use-case/print-advertising)
-    * [![](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/digital-advertisement.svg)Digital Advertising](https://bitly.com/pages/use-case/digital-advertising)
-    * [![](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2024/05/content-share.svg)Content Sharing](https://bitly.com/pages/use-case/content-sharing)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/check-circle.svg)Order Confirmation](https://bitly.com/pages/use-case/order-confirmation-and-fulfillment)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/user-survey.svg)Surveys and Feedback](https://bitly.com/pages/use-case/surveys-and-feedback)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/product-packaging.svg)Product Packaging](https://bitly.com/pages/use-case/product-packaging)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/print-ad.svg)Print Advertising](https://bitly.com/pages/use-case/print-advertising)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/digital-advertisement.svg)Digital Advertising](https://bitly.com/pages/use-case/digital-advertising)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2024/05/content-share.svg)Content Sharing](https://bitly.com/pages/use-case/content-sharing)
     
 * [Pricing](https://bitly.com/pages/pricing)
 * [Resources](#)
@@ -108,7 +108,7 @@ Menu
     
     ### What's new
     
-    [![Creativity with QR Codes Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2023/09/Site_resource_explosion-qr.png)
+    [![Creativity with QR Codes Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2023/09/Site_resource_explosion-qr.png)
     
     webinar
     
@@ -243,8 +243,8 @@ This data is stored in the log files of our system. This data is not stored toge
 If you subscribe to our newsletter, request materials available from the website, send us a contact request, interact with our chat bot or otherwise contact us, we will likely add you to our list of commercial contacts. Please see the section “Newsletter, Events and Marketing” of this Privacy Policy to learn more about personal data processing in that regard. Please note that our services and resources are designed for business customers only (and should not even be interesting to consumers), and thus we presume that everyone contacting us and interested in our services represent a business, not a private individual. Personal data derived from our websites and contact requests are deleted upon request of the contact, if the data is identified as out of date, or if the contact is no longer deemed a suitable candidate for our services.
 
 If you connect with us using various social media platforms and/or professional networks, please note that Btly does not control or have influence over how those platforms process your personal data. We recommend that you contact those third party platforms directly for information on their processing. Here are some links for your convenience:  
-Twitter: [https://twitter.com/de/privacy](https://twitter.com/de/privacy)  
-YouTube: [https://policies.google.com/privacy?gl=DE&hl=en](https://policies.google.com/privacy?gl=DE&hl=en)  
+Twitter: [https://twitter.com/de/privacy](https://twitter.com/de/privacy)  
+YouTube: [https://policies.google.com/privacy?gl=DE&hl=en](https://policies.google.com/privacy?gl=DE&hl=en)  
 LinkedIn: [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
 
 Bitly may use third-party APIs and software development kits (“SDKs”) to provide certain functions in our Services. We use cookies and similar technologies for the following purposes: Technically necessary; Comfort; Statistics; Marketing. When we use cookies and/ or similar techniques for processing personal data, the types of personal data processed may vary, depending on the categories of cookies or similar techniques. Non-essential cookies are used only with your consent. You have the option of preventing cookies from being
@@ -409,7 +409,7 @@ For more information on how Facebook processes data, click here:
 
 We use Facebook Connect in order to enable Facebook social network users to log in to other online presences with their Facebook profile without having to create separate accounts there. In order to use Facebook Connect, the user needs a Facebook account. This is always protected by a user name and an individual password. If the user discovers the Facebook Connect logo on an online presence, he can start the login process by clicking on the button. In a pop-up or a new window he can now enter the Facebook login data. After successful authentication, a connection is established between the Facebook profile and the respective online presence via which data can be transferred. The user can now make use of the services of the online presence without having to deposit a separate profile with the personal data there. The user has no way of preventing the transmission of this information when using Facebook Connect. The Facebook Connect login dialog basically shows which data is transmitted. Further information on the collection and storage of data by Facebook can be found here: [https://en-gb.facebook.com/policy.php](https://en-gb.facebook.com/policy.php)
 
-Your personal data will be stored for as long as is necessary to fulfill the purposes of the use cases described in this Privacy Policy or as required by law, e.g. for tax and accounting purposes. Legal basis for the processing of personal data within products of Facebook. The legal basis for the processing of personal data within Facebook products is your consent. If you contact us via Facebook, we process the data you insert in your message for the purpose of responding to you.
+Your personal data will be stored for as long as is necessary to fulfill the purposes of the use cases described in this Privacy Policy or as required by law, e.g. for tax and accounting purposes. Legal basis for the processing of personal data within products of Facebook. The legal basis for the processing of personal data within Facebook products is your consent. If you contact us via Facebook, we process the data you insert in your message for the purpose of responding to you.
 
 _Possibility of revocation of consent and removal from Facebook._ You have the right to revoke your declaration of consent under data protection law at any time. The revocation of the consent does not affect the lawfulness of the processing carried out on the basis of the consent up to the revocation. The user can store settings in their Facebook which data may not be transferred. If the user already uses Facebook Connect, they can delete their user account. There is always the alternative possibility of registering directly with us in order to avoid such data transmission. You can prevent Facebook from collecting and processing your personal data by preventing the storage of third-party cookies on your computer, by using the “Do Not Track” feature of a supporting browser, by disabling the execution of script code in your browser or by installing a script blocker such as NoScript ([https://noscript.net/](https://noscript.net/)) or Ghostery ([https://www.ghostery.com](https://www.ghostery.com/)) in your browser.
 
@@ -449,7 +449,7 @@ The following personal data is processed by Google:
 * Date and time of the server request
 * IP address
 
-However, since we do not control or materially influence the processing of your personal data by Google, we cannot provide any binding information on the purpose and scope of the processing of your data. Further information on the processing of data by Google can be found here: [https://policies.google.com/privacy](https://policies.google.com/privacy) 
+However, since we do not control or materially influence the processing of your personal data by Google, we cannot provide any binding information on the purpose and scope of the processing of your data. Further information on the processing of data by Google can be found here: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 **Use of Google Enhanced Conversions**
 
@@ -504,7 +504,7 @@ You have the right to revoke your declaration of consent under data protection l
 With the following link you can deactivate the use of your personal data by Google: [https://adssettings.google.de](https://adssettings.google.de/)  
 Further information on objection and removal options against Google can be found at: [https://policies.google.com/privacy?gl=EN&hl=en](https://policies.google.com/privacy?gl=EN&hl=en)
 
-For more information on terms of use and data protection in connection with Google Analytics, please visit [www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html) or [www.google.com/intl/de/analytics/privacyoverview.html](https://www.google.com/intl/de/analytics/privacyoverview.html). In addition, you can object to processing on the basis of legitimate interest by sending an email to [privacy@bit.ly](mailto:privacy@bit.ly).
+For more information on terms of use and data protection in connection with Google Analytics, please visit [www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html) or [www.google.com/intl/de/analytics/privacyoverview.html](https://www.google.com/intl/de/analytics/privacyoverview.html). In addition, you can object to processing on the basis of legitimate interest by sending an email to [privacy@bit.ly](mailto:privacy@bit.ly).
 
 ##### Rights under the GDPR
 
@@ -525,7 +525,7 @@ Postfach 20 04 44
 40102 Düsseldorf  
 Tel.: 0211/38424-0  
 Fax: 0211/38424-10  
-E-Mail: [poststelle@ldi.nrw.de](mailto:poststelle@ldi.nrw.de)
+E-Mail: [poststelle@ldi.nrw.de](mailto:poststelle@ldi.nrw.de)
 
 Contact details of authorities in other EU Member States can be found from [the directory](https://edpb.europa.eu/about-edpb/about-edpb/members_en#member-lt) maintained by the European Data Protection Board.
 
@@ -625,7 +625,7 @@ We will make every effort to respond to your request within 45 days from when yo
 
 _California “Shine the Light”_
 
-In addition to the above rights, under California Civil Code Section 1798.83 (“Shine the Light”), California residents may have the right to request in writing from businesses with whom they have an established business relationship: (a) a list of the categories of personal information, as defined under Shine the Light, such as name, email address, and mailing address, and the type of services provided to the customer that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes; and (b) the names and addresses of all such third parties. To request the above information, please contact us by email at [privacy@bit.ly](mailto:privacy@bit.ly). If you do not want your personal information shared with any third party who may use such information for direct marketing purposes, then you may opt out of such disclosures by sending an email to us at [privacy@bit.ly](mailto:privacy@bit.ly).
+In addition to the above rights, under California Civil Code Section 1798.83 (“Shine the Light”), California residents may have the right to request in writing from businesses with whom they have an established business relationship: (a) a list of the categories of personal information, as defined under Shine the Light, such as name, email address, and mailing address, and the type of services provided to the customer that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes; and (b) the names and addresses of all such third parties. To request the above information, please contact us by email at [privacy@bit.ly](mailto:privacy@bit.ly). If you do not want your personal information shared with any third party who may use such information for direct marketing purposes, then you may opt out of such disclosures by sending an email to us at [privacy@bit.ly](mailto:privacy@bit.ly).
 
 _Contacting Us_
 
@@ -641,15 +641,15 @@ _Rights to Your Information_
 
 In addition to the rights set forth in our Privacy Policy, the State Privacy Laws provide you with the following rights:
 
-* **Right to know.** You have the right to know whether we process your personal data and to access such personal data.
+* **Right to know.** You have the right to know whether we process your personal data and to access such personal data.
 * **Right to data portability.** You have the right to obtain a copy of your personal data that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another business without hindrance, where the processing is carried out by automated means. You may request such personal data up to twice annually, subject to certain exceptions.
-* **Right to delete.** You have the right to delete personal data that you have provided by or that we have obtained about you. Please note that we may deny such a request if the requested deletion falls under an exception as set forth in the State Privacy Laws. Additionally, if you request deletion of your personal data and we have obtained such information from a third-party source, we may retain such data by keeping a record of the deletion request and the minimum data necessary to ensure that your personal data remains deleted from our records and that such retained data is not used for any other purpose, or we may opt you out of the processing of such personal data for any purpose except for those allowed under the State Privacy Laws.
-* **Right to opt out.** You have the right to opt out of the processing of the personal data for purposes of: (i) targeted advertising; (ii) the sale of personal data; or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. As of the latest date of the Privacy Policy:
+* **Right to delete.** You have the right to delete personal data that you have provided by or that we have obtained about you. Please note that we may deny such a request if the requested deletion falls under an exception as set forth in the State Privacy Laws. Additionally, if you request deletion of your personal data and we have obtained such information from a third-party source, we may retain such data by keeping a record of the deletion request and the minimum data necessary to ensure that your personal data remains deleted from our records and that such retained data is not used for any other purpose, or we may opt you out of the processing of such personal data for any purpose except for those allowed under the State Privacy Laws.
+* **Right to opt out.** You have the right to opt out of the processing of the personal data for purposes of: (i) targeted advertising; (ii) the sale of personal data; or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. As of the latest date of the Privacy Policy:
     * We do not process personal data for the purposes of targeted advertising;
     * We do not sell your personal data; and
     * We do not engage in profiling decisions based on your personal data that produce legal or similarly significant effects concerning you.
 * **Right to correct.** You have the right to correct inaccuracies in your personal data, taking into account the nature of the personal data and the purposes for which we process it.
-* **Right to nondiscrimination.** You have the right not to receive discriminatory treatment by us for the exercise of your privacy rights. Unless permitted by the State Privacy Laws, we will not:
+* **Right to nondiscrimination.** You have the right not to receive discriminatory treatment by us for the exercise of your privacy rights. Unless permitted by the State Privacy Laws, we will not:
     * Deny you goods or services;
     * Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties;
     * Provide you a different level or quality of goods or services; or
@@ -683,7 +683,7 @@ We do not knowingly collect personal data from children. If we learn that we hav
 
 Bitly complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Bitly has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Bitly has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Bitly commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS Data Privacy Framework Dispute Resolution, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/DPF-Dispute-Resolution](https://www.jamsadr.com/DPF-Dispute-Resolution) for more information or to file a complaint. The services of JAMS Data Privacy Framework Dispute Resolution are provided at no cost to you.
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Bitly commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS Data Privacy Framework Dispute Resolution, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/DPF-Dispute-Resolution](https://www.jamsadr.com/DPF-Dispute-Resolution) for more information or to file a complaint. The services of JAMS Data Privacy Framework Dispute Resolution are provided at no cost to you.
 
 Bitly is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Under certain conditions, individuals have the right to invoke binding arbitration related to their personal data. In some cases, we hold liability in cases of onward transfers of data to third parties.
 
@@ -835,7 +835,7 @@ We reserve the right to make changes to this Privacy Policy at any time. If we m
     * [Italiano (Italian)](https://bitly.com/pages/it/privacy)
     * [Español (Spanish)](https://bitly.com/pages/es/privacy)
 
-![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1728575900/pages/wp-content/uploads/2021/08/bitly_logo.svg)
+![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1729017144/pages/wp-content/uploads/2021/08/bitly_logo.svg)
 
 © 2024 Bitly | Handmade in New York City, Denver, Berlin, Bielefeld, and all over the world.
 
