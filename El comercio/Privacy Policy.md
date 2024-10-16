@@ -31,46 +31,677 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Inamhi advierte sobre incremento de temperaturas en Ecuador
-===========================================================
+¿Cuándo vuelve a jugar la Selección de Ecuador eliminatorias?
+=============================================================
 
-Esta alerta estará vigente hasta el 19 de octubre e incluye aumento de radiación. El Inmahi monitorea las condiciones atmosféricas.
------------------------------------------------------------------------------------------------------------------------------------
+La Selección de Ecuador tendrá la última doble fecha de eliminatorias al Mundial 2026 en noviembre.
+---------------------------------------------------------------------------------------------------
 
-![El Inamhi advierte sobre altas temperaturas hasta el 19 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/calor.jpg)
+![Jugadores de la Selección de Ecuador en el estadio Centenario de Montevideo en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_noviembre_1.jpg)
 
-El **Instituto Nacional de Meteorología** (Inamhi) dio a conocer las **previsiones sobre el clima** que tendrá Ecuador durante estos días.
+La **Selección de Ecuador** cerró la doble fecha de eliminatorias al Mundial 2022 con dos empates, uno de local en Quito ante Paraguay, y otro de visitante en Montevideo ante Uruguay.
+
+Estos dos empates mantienen a la **Selección de Ecuador en el quinto puesto en la tabla de posiciones con 13 puntos** y aun dentro de los combinados que están logrando uno de los seis cupos directos a la siguiente Copa del Mundo.
+
+### Más noticias:
+
+* [La Selección de Ecuador rescató un punto ante Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-en-vivo-partido.html "La Selección de Ecuador rescató un punto ante Uruguay")
+* [Beccacece destacó el compromiso de la Selección de Ecuador ante Uruguay](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-compromiso-uruguay.html "Beccacece destacó el compromiso de la Selección de Ecuador ante Uruguay")
+* [Hernán Galíndez, la figura de la Selección de Ecuador ante Uruguay](https://www.elcomercio.com/deportes/seleccion-ecuador-hernan-galindez-uruguay.html "Hernán Galíndez, la figura de la Selección de Ecuador ante Uruguay")
+
+La tabla sigue comandada por Argentina con 22 puntos y verdugo de la sorprendente Bolivia a la que goleó por 6-0 en Buenos Aires con un triplete de Lionel Messi; **Colombia se encaramó a la segunda posición con 19**; Uruguay es tercera con 16; al igual que Brasil.
+
+El sexto puesto es para Paraguay con 13 unidades, **mientras que Bolivia descendió al séptimo con 12** y Venezuela se estancó en la octava posición con 11.
+
+Perú con 6, y Chile con 5, **son las dos selecciones con los peores resultados en estas 10 primeras** fechas, con tan solo una victoria cada una y prácticamente descartadas de la pelea por ir al Mundial.
+
+La siguiente doble fecha de eliminatorias será clave para empezar a definir las **posiciones de los equipos que se perfilan para ir al Mundial**, cuáles pelearán para el repechaje, y ver definitivamente quienes se quedarán al margen y lo verán por televisión.
+
+Ecuador cambia de localía
+-------------------------
+
+En la fecha 11 y 12 la Tri abandona la altura de Quito y tendrá que jugador sus dos partidos en el calor de la la Costa ecuatoriana y colombiana.
+
+El jueves 14 de noviembre recibirá a **Bolivia en el estadio Monumental de Barcelona Sporting Club**, desde las 19:00, en lo que será el retorno del combinado nacional a Guayaquil luego del empate 1-1 con Argentina en el camino a Catar 2022.
+
+La noche de ese 29 de marzo anotaron **Enner Valencia y Julián Álvarez ante más de 59 000 personas** que coparon por completo el Monumental, en medio de los festejos por haber logrado la clasificación a la cuarta Copa del Mundo.
+
+El martes **19 viajará a Barranquilla para visitar a Colombia en el Metropolitano**. Originalmente, el duelo estaba pactado para las 15:30, pero finalmente se jugará a las 18:00 en la calurosa ‘arenosa’.
+
+La última visita tricolor se **saldó con un empate 0-0**, un punto valioso para la clasificación a Catar 2022.
+
+![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_noviembre_2-1024x683.jpg)
+
+Foto: Diego Pallero / EL COMERCIO.
+
+Eliminatorias sudamericanas
+---------------------------
+
+### Fecha 11: 14/11
+
+19:00 Ecuador vs. Bolivia
+
+Estadio: Monumental de Guayaquil
+
+### Fecha 12: 19/11
+
+18:00 Colombia vs. Ecuador
+
+Estadio: Metropolitano de Barranquilla
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Hinchas ecuatorianos, ¿desencantados con la Selección de Ecuador?
+=================================================================
+
+¿Hay un quiebre entre la afición y la Selección de Ecuador? ¿Por qué los partidos en casa ya no se viven con la misma intensidad que antes?
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Jugadores de la Selección de Ecuador, con la hinchada de fondo, en el partido contra Paraguay en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T140522.356.jpg)
+
+Atrás quedaron los **míticos escenarios del Estadio Olímpico Atahualpa**, repletos de aficionados vestidos de amarillo ondeando banderas para alentar a la Selección de Ecuador. Aunque la gente sigue acudiendo al nuevo estadio, parece que la esencia de antaño se ha perdido.
+
+### Más noticias:
+
+* [Piero Hincapié cumplió un sueño de niño con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/piero-hincapie-capitan-seleccion-ecuador.html "Piero Hincapié cumplió un sueño de niño con la Selección de Ecuador")
+* [Leonardo Campana jugó media hora en su vuelta a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-jugo-media-hora-en-su-vuelta-seleccion-de-ecuador.html "Leonardo Campana jugó media hora en su vuelta a la Selección de Ecuador")
+* [La Selección de Ecuador sigue siendo fuerte en Quito](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-localia-quito-puntos.html "La Selección de Ecuador sigue siendo fuerte en Quito")
+
+¿La hinchada ya no alienta como antes?
+--------------------------------------
+
+En el último duelo de la Selección de Ecuador como local, ante Paraguay en el Estadio Rodrigo Paz Delgado, el r**ecinto estuvo casi lleno**, con alrededor de 30,000 personas apoyando al equipo. Sin embargo, los asientos vacíos visibles durante la transmisión se debieron a una sanción que limitó el aforo al 15% menos de lo permitido, además de algunos boletos que no se vendieron.
+
+Las secciones generales, tanto sur como norte, estaban a punto de estallar.
+
+![Aficionados de Ecuador en la previa del partido ante Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-10T153031.802-1024x683.jpg)
+
+Aficionados de Ecuador en la previa del partido ante Paraguay. Foto: Diego Pallero / EL COMERCIO
+
+A pesar de la buena asistencia, **la atmósfera fue diferente**. Los gritos de apoyo fueron opacos; apenas se corearon algunas canciones, y las pocas veces que el estadio estalló fue cuando algunos jugadores fueron reemplazados.
+
+Esto contrasta con los inicios del siglo XXI, cuando en el ‘Coloso del Batán’ resonaban cánticos como **“¡Sí se puede!”, o “¡Que se pare Ecuador!”,** con frecuencia.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T140120.106-1024x683.jpg)
+
+Aficionados ecuatorianos en un partido de las eliminatorias del Mundial 2006. Foto: Archivo / EL COMERCIO
+
+Aunque se juega en casa, **la energía ya no es la misma**, a diferencia de otras selecciones que pintan sus estadios, como Argentina y Colombia, o Ecuador en años pasados.
+
+Las razones de este desencanto pueden incluir a las nuevas generaciones de aficionados, los precios altos de las entradas, la ubicación del nuevo estadio, que está más alejado de la capital y no tan céntrico, o simplemente que la **‘Tri’ ya no genera la misma empatía** que en el pasado.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T140129.739-1024x683.jpg)
+
+Bandera gigante de Ecuador en un partido de las eliminatorias al Mundial 2018. Foto: Archivo / EL COMERCIO
+
+Inclusive, Gonzalo Plata comentó tras el partido contra Uruguay que en **Guayaquil se alienta más a la selección que en Quito**, haciendo referencia a la reciente experiencia en el partido contra Paraguay.
+
+En números, la afición sí responde
+----------------------------------
+
+Según datos de Transfermarkt, el promedio de asistencia de la Selección de Ecuador en los tres partidos de local en 2023 por eliminatorias al Mundial 2026 en el Rodrigo Paz Delgado fue de **37,062 espectadores.**
+
+El encuentro ante Colombia (0-0) del 17 de noviembre fue el de mayor asistencia, con 38,702 espectadores; seguido por el partido contra Chile (1-0) con 36,873; y el encuentro contra Uruguay (2-1) que reunió a **35,613 hinchas.**
+
+No existen datos oficiales de la cantidad de personas que asistieron a los encuentros de 2024 contra Perú (1-0) y Paraguay (0-0), aunque sí fue evidente que hubo espacios vacíos en la mayoría de las localidades.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T135719.563-1024x683.jpg)
+
+En las eliminatorias hacia Catar 2022, la ‘Tri’ jugó dos partidos en el Estadio Monumental de Barcelona SC. Ante Bolivia (3-0), se acercaron 16,000 espectadores, mientras que contra Argentina (1-1) se vendió todo el boletaje, con una asistencia de **59,000 hinchas.**
+
+El promedio de estas dos asistencias fue de 37,500, lo que muestra que la cantidad de hinchas en Quito y Guayaquil es prácticamente la misma. Esto demuestra que **la gente va al estadio e, incluso en ocasiones, lo llena, pero dentro del partido, el sentimiento es diferente**.
+
+Piero Hincapié cumplió un sueño de niño con la Selección de Ecuador
+===================================================================
+
+Piero Hincapié debutó con la Selección de Ecuador en la Copa América Brasil 2021. Gustavo Alfaro era el DT.
+-----------------------------------------------------------------------------------------------------------
+
+![Piero Hincapié con la cinta de capitán de la Selección de Ecuador en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/hincapie_capitan_1.jpg)
+
+**Piero Hincapié** rozó la perfección en el partido que la Selección de Ecuador jugó ante la de Uruguay en la décima fecha de las eliminatorias al Mundial 2026, la noche del martes 15 de octubre de 2024 en Montevideo.
+
+Con **Piero Hincapié como capitán**, la Selección de Ecuador logró un luchado y sufrido empate 0-0 ante Uruguay, con lo que se mantiene en la zona de clasificación directa al Mundial 2026 a ocho fechas de completar el calendario.
+
+### Más noticias:
+
+* [Keny Arroyo, la gran sorpresa de Beccacece ante Uruguay](https://www.elcomercio.com/deportes/futbol/keny-arroyo-la-gran-sorpresa-de-beccacece-ante-uruguay.html "Keny Arroyo, la gran sorpresa de Beccacece ante Uruguay")
+* [Los líderes y capitanes de Sebastián Beccacece en la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/lideres-capitanes-sebastian-beccacece-seleccion-de-ecuador.html "Los líderes y capitanes de Sebastián Beccacece en la Selección de Ecuador")
+* [Moisés Caicedo jugó su partido 50 y fue suspendido](https://www.elcomercio.com/deportes/futbol/moises-caicedo-seleccion-ecuador-partidos.html "Moisés Caicedo jugó su partido 50 y fue suspendido")
+
+En la tabla de posiciones **Ecuador mantiene el quinto puesto con 13 putos** y un gol diferencia positivo de +2. La campaña del equipo nacional se resumen en cuatro victorias, cuatro empates y tan solo dos derrotas contra Argentina y Brasil de visitante.
+
+Para Hincapié, **jugador del Bayer Leverkusen con pasado en Talleres de Argentina** e Independiente del Valle, ante los ‘charrúas’ jugó el partido 41 con la camiseta tricolor. Esta cifra la consiguió con apenas 22 años.
+
+Con el mítico Centenario como escenario, el nacido en Esmeraldas, lu**ció por primera vez la citan de capitán de la Selección de Ecuador**. Lo hizo durante los 90 minutos y no defraudo a la hora de defender los ataques de la ‘celeste’.
+
+Antes la portaron Pervis Estupiñán, Moisés Caicedo y Enner Valencia, en un sistema de rotación impuesta por el entrenador Sebastián Beccacece.
+
+![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/hincapie_capitan_3-1024x683.jpg)
+
+Foto: Instagram del futbolista.
+
+Hincapié se emocionó por la capitanía
+-------------------------------------
+
+Concretado el empate, **Piero Hincapié utilizó su cuenta oficial de Instagram** para expresar la emoción y el compromiso que le produjo haber tenido la responsabilidad de ser el capitán, un encargo que le entregaron sus compañeros y Beccacece.
+
+Fiel a su creencia religiosa, el defensa central hizo un agradecimiento a Dios, luego destacó lo complicado que fue sumar en Montevideo ante una selección que se caracteriza por ser arrolladora en casa.
+
+“(…) **recalcar la entrega y el compromiso del grupo**, un resultado positivo para nuestro camino”, agregó el deportista que en el curso 2023/24 se proclamó campeón de la Bundesliga y la Copa de Alemania con el Leverkusen.
+
+“(…) un orgullo llevar la cinta de capitán, es un sueño hecho realidad, **es lo que todo niño anhela cuando se inicia** en este mundo hermoso que es el fútbol. Me comprometo a sudarla y hacerla respetar”, sentenció el joven defensa.
+
+Gustavo Alfaro fue el encargado de hacer debutar a Hincapié en la selección absoluta. Lo **citó para la Copa América Brasil 2021** y saltó a la cancha con 19 años, cinco meses y cinco días en la derrota 1-0 contra Colombia.
+
+En sus **41 presencias con la tricolor tiene el récord de haber completado los 90 minutos** en 40. Solo en un amistosos ante Bolivia en el 2023, entró al cambio y disputó 32 minutos.
+
+En la Copa América del debut fue expulsado a los 90 minutos ante Argentina, pero también se puede anotar que estuvo en cancha durante todo el tiempo reglamentario.
+
+![Foto: Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/10/hincapie_capitan_2-1024x683.jpg)
+
+Foto: Instagram del futbolista.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+BID aprueba un préstamo a Ecuador para combatir el crimen
+=========================================================
+
+El BID aprobó un préstamo histórico de 150 millones de dólares para Ecuador, con el objetivo de fortalecer medidas preventivas contra el crimen organizado.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El nuevo préstamo del BID será de 150 millones de dólares. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/dinero-1.jpg)
+
+El Banco Interamericano de Desarrollo (BID) aprobó un nuevo préstamo para apoyar a Ecuador. El nuevo crédito busca fortalecer las **medidas preventivas** contra el **crimen organizado** y la reducción de su impunidad[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
 ### Más noticias
 
-* [Así funciona el Pico y placa en Quito este miércoles 16 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-miercoles-16-de-octubre.html "Así funciona el Pico y placa en Quito este miércoles 16 de octubre")
-* [Registro Civil atenderá este sábado 19 de octubre en jornada especial](https://www.elcomercio.com/actualidad/ecuador/registro-civil-atendera-este-sabado-19-de-octubre-en-jornada-especial.html "Registro Civil atenderá este sábado 19 de octubre en jornada especial")
-* [Rafael Correa es convocado por la Fiscalía para el caso Traición a la Patria](https://www.elcomercio.com/actualidad/politica/rafael-correa-es-convocado-por-la-fiscalia-para-el-caso-traicion-a-la-patria.html "Rafael Correa es convocado por la Fiscalía para el caso Traición a la Patria")
+* [FMI reducirá el costo de sus créditos para los países más endeudados](https://www.elcomercio.com/actualidad/negocios/fmi-reducira-costo-creditos-paises-endeudados.html "FMI reducirá el costo de sus créditos para los países más endeudados")
+* [El BID aprueba nuevo préstamo para Ecuador](https://www.elcomercio.com/actualidad/negocios/bid-aprueba-nuevo-prestamo-ecuador-creditos.html "El BID aprueba nuevo préstamo para Ecuador")
+* [Ecuador y Japón acuerdan préstamo para proyecto geotérmico en Chachimbiro](https://www.elcomercio.com/actualidad/negocios/ecuador-y-japon-acuerdan-prestamo-para-proyecto-geotermico-en-chachimbiro.html "Ecuador y Japón acuerdan préstamo para proyecto geotérmico en Chachimbiro")
 
-Altas temperaturas diurnas
+El **BID** informó este 16 de octubre de 2024 que se aprobó un préstamo sin precedentes para Ecuador. El monto es de 150 millones de dólares y una donación de 5 millones. El objetivo es apoyar al país en la **implementación de medidas preventivas** y de **seguridad** frente al crimen organizado.
+
+Esta es la primera vez que un programa del BID se enfoca específicamente en los desafíos que presenta la **delincuencia organizada**. Además, tiene un enfoque integral que incluye **prevención, fortalecimiento institucional** y mejora en la capacidad de **investigación**.
+
+Reducción de la violencia y la impunidad
+----------------------------------------
+
+El Programa de Prevención y Respuesta a la Violencia y la Criminalidad en Ecuador (Previc) tiene como objetivo principal reducir la **violencia y la impunidad**. Así como mejorar la atención a las poblaciones más vulnerables.
+
+**Ilan Goldfajn**, presidente del BID, señaló que “el nivel actual de sofisticación del crimen organizado requiere un enfoque regional innovador. Este programa en Ecuador es un ejemplo de cómo se puede abordar la seguridad de manera multisectorial, combinando prevención social, investigación criminal y fortalecimiento de la gobernanza de seguridad”.
+
+El programa está estructurado en tres componentes clave. El primero se enfoca en la prevención del crimen en territorios de alta incidencia. Esto con especial atención en **adolescentes y jóvenes** en riesgo de ser reclutados por grupos delictivos.
+
+El segundo componente busca **fortalecer las capacidades** de la Policía del Ecuador y otras entidades para investigar delitos como lavado de activos, homicidios y extorsiones. Esto con el apoyo de tecnologías avanzadas y centros especializados.
+
+El tercer componente se centra en mejorar la coordinación entre el **Ministerio del Interior y los Gobiernos Autónomos Descentralizados**. Con el objeto de implementar estrategias de seguridad ciudadana participativas, basadas en datos.
+
+Este esfuerzo conjunto entre el **BID y Ecuador** representa un paso significativo en la lucha contra la creciente violencia y se alinea con los objetivos de la Alianza para la Seguridad, la Justicia y el Desarrollo, presentada en agosto de este año.
+
+El préstamo de 150 millones de dólares del BID tiene un plazo de amortización de 25 años. Además, tiene un período de gracia de cinco años y medio, una tasa de interés basada en SOFR. El Programa se complementa con 5 millones de dóalres no reembolsables del Fondo Especial de Donaciones del BID.
+
+Cortes de luz tendrán nuevos horarios las próximas tres semanas
+===============================================================
+
+El anuncio lo hizo el presidente Daniel Noboa en una visita a la obra vial Manta-Rocafuerte, que ya tiene el 87% de avance
+--------------------------------------------------------------------------------------------------------------------------
+
+![El presidente acudió a constatar el avance de la obra en la vía Manta-Rocafuerte.](https://www.elcomercio.com/wp-content/uploads/2024/10/Daniel-Noboa-Manabi.jpg)
+
+El presidente **Daniel Noboa** asistió este miércoles 16 de octubre a constatar el avance de la obra de rehabilitación de la vía Manta-Rocafuerte. Además, habló sobre los **cortes de luz.**
+
+### Más noticias
+
+* [Rafael Correa es convocado por la Fiscalía para el caso Traición a la Patria](https://www.elcomercio.com/actualidad/politica/rafael-correa-es-convocado-por-la-fiscalia-para-el-caso-traicion-a-la-patria.html "Rafael Correa es convocado por la Fiscalía para el caso Traición a la Patria")
+* [Gobierno entrega licencias ambientales para proyectos de energía renovable](https://www.elcomercio.com/actualidad/negocios/gobierno-entrega-licencias-ambientales-para-proyectos-de-energia-renovable.html "Gobierno entrega licencias ambientales para proyectos de energía renovable")
+* [Corte Constitucional aprueba propuesta de Daniel Noboa sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/corte-constitucional-aprueba-propuesta-de-daniel-noboa-sobre-bases-militares-extranjeras.html "Corte Constitucional aprueba propuesta de Daniel Noboa sobre bases militares extranjeras")
+
+La vía Manta-Rocafuerte
+-----------------------
+
+El **Ministerio de Transporte y Obras Públicas** reactivó la rehabilitación de la vía Manta-Rocafuerte, de 21,9 kilómetros, con un monto superior a 2,6 millones de dólares.
+
+Esta obra se trabaja de la mano de la Prefectura. Se busca **impulsar el comercio, el turismo** y la movilidad de la zona. La rehabilitación de esta vía **beneficia a más de 309 000 habitantes** de Jaramijó, Rocafuerte y Portoviejo.
+
+Según el ministro de Obras Públicas, Roberto Luque, la rehabilitación de esta vía **tiene un avance del 87% y ha generado 42 plazas** directas de empleo.
+
+El **presidente Noboa**, en su intervención**,** señaló que se impulsa el desarrollo desde los Ministerios, por ello se están reactivando obras [inconclusas](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa") o que estaban en abandono.
+
+Por ello, se trabaja en esta obra vial que brindará mayor seguridad vial y beneficiará a los negocios y terrenos agrícolas en Jaramijó, Montecristi, Rocafuerte y Portoviejo. Además, facilita el acceso de visitantes a los centros turísticos.
+
+Destacó que la rehabilitación de la vía **garantiza una infraestructura moderna** y segura, lo que es esencial para el crecimiento económico y la conectividad de las comunidades.
+
+Horarios de cortes de luz se anunciarán
+---------------------------------------
+
+El Presidente añadió que **Ecuador atraviesa varias crisis**, como la climática y los ataques de grupos narcoterroristas, pero que las crisis se afrontan y se superan.
+
+Noboa anunció que en la noche **del jueves 17 de octubre** se darán a conocer los horarios de los racionamientos de luz eléctrica de las próximas tres semanas. También se comunicarán las medidas que el Gobierno está implementando para que los apagones terminen.
+
+> ¡Mejoramos la conectividad vial de Manabí! 🇪🇨👏  
+>   
+> El presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) visitó la rehabilitación de la vía Manta – Rocafuerte, proyecto crucial que beneficia a más de 300 mil ciudadanos.  
+>   
+> Esta obra de 21.9 kilómetros impulsará el comercio, transporte y turismo de esta… [pic.twitter.com/xyuUR0qv37](https://t.co/xyuUR0qv37)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 16, 2024](https://twitter.com/Presidencia_Ec/status/1846603912717259219?ref_src=twsrc%5Etfw)
+
+Donación de órganos se aborda en feria en Quito, ¿cómo es el proceso en Ecuador?
+================================================================================
+
+En Ecuador hay operativos relacionados con la donación y trasplante de órganos.
+-------------------------------------------------------------------------------
+
+![Trasplantes de órganos se realizan en el sistema público.](https://www.elcomercio.com/wp-content/uploads/2024/10/organos.jpg)
+
+**Quito** será el punto de encuentro para la Gran Feria de la Salud. La **donación de órganos** es el eje central de este evento. En Ecuador hay varios servicios[.](https://es.wikipedia.org/wiki/Ecuador)
+
+El [Ministerio de Salud Pública](https://www.salud.gob.ec/ "https://www.salud.gob.ec/") desarrolla la propuesta para recordar el **Día Nacional de la Donación y Trasplante**. Esta es una fecha instaurada por la **Asamblea Nacional**.
+
+### Más noticias
+
+* [Superalimentos ecuatorianos ideales para una vida saludable](https://www.elcomercio.com/tendencias/salud/superalimentos-ecuador-dia-mundial-alimentacion.html "Superalimentos ecuatorianos ideales para una vida saludable ")
+* [¿Cómo funciona un centro de salud inclusivo para Infecciones de Transmisión Sexual en Quito?](https://www.elcomercio.com/tendencias/salud/como-funciona-un-centro-de-salud-inclusivo-para-infecciones-de-transmision-sexual-en-quito.html "¿Cómo funciona un centro de salud inclusivo para  Infecciones de Transmisión Sexual en Quito?")
+* [El lavado de manos es clave para la salud global](https://www.elcomercio.com/tendencias/salud/dia-mundial-lavado-manos-efemerides.html "El lavado de manos es clave para la salud global ")
+
+Donación de órganos en Ecuador
+------------------------------
+
+La feria se desarrollará el sábado, 19 de octubre de 2024, en la av. Naciones Unidas y Japón. El evento empezará a las 08:30. En el encuentro de **salud** habrá varios servicios: salud móvil, huertos medicinales  y medicina ancestral.
+
+A su vez, habrá actividades de salud ambiental, servicios del personal de la Secretaría Técnica Ecuador Crece sin desnutrición, así como del **Registro Civil**.
+
+Se sumará la atención para discapacidades y salud sexual y reproductiva para adolescentes. También habrá **inmunizaciones**.
+
+El **Día Nacional de la Donación y el Trasplante** se conmemora cada 14 de octubre. La **Asamblea Nacional** instituyó la fecha en 2016, con la meta de sensibilizar a la población sobre la vital importancia de mantener la condición de donante para salvar vidas.
+
+El panorama en Ecuador
+----------------------
+
+Entre noviembre de 2023 hasta este octubre de 2024, el Ministerio de Salud registró **651 trasplantes en el Sistema Nacional de Salud**.
+
+Según la institución, el Estado garantiza la cobertura de todos los procesos. En esa línea, **70 pacientes** han sido derivados a prestadores internacionales para trasplante pulmonar adulto y pediátrico.
+
+A la par constan procesos **hepático pediátrico**, intestinal de adulto y pediátrico y de células progenitoras, entre otros.
+
+De ese grupo, 38 intervenciones se dieron en el **Instituto Ecuatoriano de Seguridad Social (IESS)**, 31 en el Ministerio de Salud Pública y uno, en el Instituto de Seguridad Social de las Fuerzas Armadas (Issfa).
+
+Los trasplantes en el país
 --------------------------
 
-El Inamhi emitió la **advertencia meteorológica 53,** la cual advierte que se registrarán **altas y muy altas** temperaturas diurnas.
+Según el Registro Oficial de la Actividad de **Donación y Trasplante** en América Latina y el Caribe, Ecuador ocupa el cuarto lugar en la región en trasplantes por millón de habitantes.
 
-La zona más afectada con este fenómeno será el **centro del Litoral,** donde se pueden presentar temperaturas máximas de hasta 35 grados centígrados. Así mismo, en la Amazonía la temperatura llegará a niveles muy altos y podrá **ser mayor a los 34 grados centígrados.**
+Eso quiere decir un **55,14 %**. En trasplantes de córneas, está en el tercer puesto, con un **35,08 %**, luego de Brasil y Uruguay.
 
-En la **región Interandina**, la temperatura subirá para provincias como **Pichincha, Tungurahua,** la parte norte de Chimborazo e Imbabura, Azuay y Loja. En esta región, se podrán alcanza**r temperaturas de hasta 26 grados** centígrados.
+**Seis de cada 10 ecuatorianos** son donantes al momento de la cedulación. Hay que recordar que todos son candidatos a menos que, de forma expresa, lo plasmen a la hora de obtener el documento de identidad.
 
-Este clima está acompañado de **ráfagas de viento**, por lo que se pide precaución ante las condiciones favorables para el inicio y propagación de incendios favorables.
+Los procesos en Ecuador
+-----------------------
 
-Esta advertencia **estará vigente hasta el 19 de octubre**. El Inmahi monitorea constantemente las condiciones atmosféricas.
+En Ecuador, el **Instituto Nacional de Donación y Trasplante de Órganos, Tejidos y Células** [(Indot)](http://www.donaciontrasplante.gob.ec/indot/) articula operativos con la red pública y privada complementaria. (RPC). También participan la Policía Nacional, Fuerzas Armadas, ECU 911, Registro Civil, ente otras instancias.
 
-Recomendaciones
----------------
+El país cuenta con **84 establecimientos** de salud y servicios de apoyo acreditados para el proceso de donación y trasplante.
 
-Ante estas condiciones climáticas, es importante tomar **algunas precauciones**:
+Paso a paso de un operativo de donación y trasplante:
 
-* **Modifique sus rutinas diarias** y minimice la actividad intensa al aire libre.
-* Manténgase hidratado y **utilice protección solar**
-* Mantenga las habitaciones de su casa **frescas y ventiladas**
-* Ante el riesgo de **incendios forestales**, no encienda chispas o fuego en áreas rurales y forestales
-* **No arroje colillas** de cigarrillos ni fósforos encendidos
-* Si ve una columna de humo, **llame al 911**
+1.  **Identificación** **de potenciales donantes:** los hospitales tienen protocolos para identificar a pacientes, especialmente, aquellos que se encuentran en estado crítico o que han sido declarados con muerte cerebral, así como los fallecidos por para cardíaca que cumplan con los criterios para ser donantes.
+2. **Evaluación médica:** una vez identificado un donante potencial, se lleva a cabo una evaluación médica exhaustiva para determinar la viabilidad de los órganos y tejidos para el trasplante.
+3. **Cirugías:** la extracción la realizan los equipos médicos especializados y acreditados.
+4. Asignación: los órganos y tejidos son asignados a pacientes en la Lista de Espera Única Nacional mediante un sistema que prioriza la urgencia médica y la compatibilidad con escalas técnicas específicas.
+5.  **Trasplante:** los procedimientos de trasplante se llevan a cabo en hospitales acreditados por el Indot.
+6. **Seguimiento:** la revisión postoperatoria es fundamental para asegurar la salud del receptor.
+
+Bloque de Seguridad informó avances en las operaciones en varias provincias
+===========================================================================
+
+El Bloque de Seguridad entregó datos sobre los operativos que realizan en varias partes del país.
+-------------------------------------------------------------------------------------------------
+
+![Bloque de Seguridad en una rueda de prensa en Manta el 16 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/policia-2.jpg)
+
+Este miércoles 16 de octubre de 2024, la **ministra del Interior, Mónica Palencia**, informó sobre las acciones del **Bloque de Seguridad**.
+
+### Más noticias
+
+* [Ministros no informaron sobre avances del Bloque de Seguridad ante la Asamblea](https://www.elcomercio.com/actualidad/politica/ministros-no-informaron-avances-bloque-seguridad-asamblea.html "Ministros no informaron sobre avances del Bloque de Seguridad ante la Asamblea")
+* [Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/ataque-manta-genera-ajustes-estrategias-bloque-seguridad.html "Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad")
+* [Aumento de cultivos de coca en Ecuador, un problema de seguridad y estabilidad](https://www.elcomercio.com/actualidad/seguridad/el-aumento-cultivos-coca-ecuador-problema-seguridad.html "Aumento de cultivos de coca en Ecuador, un problema de seguridad y estabilidad")
+
+Según las autoridades, la finalidad de las operaciones en varias provincias del país es enfrentar el desplazamiento de g**rupos de delincuencia organizada y actividades terroristas**.
+
+Datos de las acciones realizadas por el Bloque de Seguridad y sus operaciones
+-----------------------------------------------------------------------------
+
+Palencia destacó que entre el **1 de enero y el 13 de octubre de 2024**, los homicidios intencionales han disminuido un **17,5% a nivel nacional** en comparación con el **mismo periodo de 202**3.
+
+Las cifras oficiales indican que hubo **6 231 homicidios en 2023 y 5 143 en 2024**. Estos datos fueron proporcionados por la **Policía Nacional**, el departamento de análisis estadístico del Ministerio del Interior y otras organizaciones.
+
+Además, el **decomiso de droga ha aumentado un 30%**. Entre enero y octubre de 2024, se incautaron de **227,63 toneladas**, comparado con **175,59 toneladas** en el mismo periodo de 2023.
+
+En Manta, los homicidios intencionales se redujeron un **37%** desde la administración de este Gobierno, según Palencia. Pasaron de **101 homicidios en 2023 a 64 en 2024**.
+
+> 🔴📽️ [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) ||  
+>   
+> En [#RuedaDePrensa](https://twitter.com/hashtag/RuedaDePrensa?src=hash&ref_src=twsrc%5Etfw) informamos sobre los despliegues operativos ejecutados por el [#BloqueDeSeguridad](https://twitter.com/hashtag/BloqueDeSeguridad?src=hash&ref_src=twsrc%5Etfw), en el país.  
+>   
+> Participan: Ministra del Interior, [@Palencia3Monica](https://twitter.com/Palencia3Monica?ref_src=twsrc%5Etfw), [@CmdtPoliciaEc](https://twitter.com/CmdtPoliciaEc?ref_src=twsrc%5Etfw)  
+> [#GraDVíctorZárate](https://twitter.com/hashtag/GraDV%C3%ADctorZ%C3%A1rate?src=hash&ref_src=twsrc%5Etfw) y Jefe del Comando Conjunto [#FFAA](https://twitter.com/hashtag/FFAA?src=hash&ref_src=twsrc%5Etfw) (A), [#AlmMiguelCórdova](https://twitter.com/hashtag/AlmMiguelC%C3%B3rdova?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 📡▶️… [pic.twitter.com/Q2AnKv2Qbo](https://t.co/Q2AnKv2Qbo)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 16, 2024](https://twitter.com/PoliciaEcuador/status/1846599709391048958?ref_src=twsrc%5Etfw)
+
+También se registró un aumento del **14% en las detenciones**, con **451 personas aprehendidas** entre el 6 de junio y el 13 de octubre de 2024, en comparación con las **397 del mismo periodo de 2023**.
+
+Finalmente, en Durán, la intervención del bloque de seguridad logró reducir los **homicidios intencionales en un 7%**. En 2024 se registraron **174 homicidios, mientras que en 2023 hubo 188**.
+
+Operaciones realizadas por las Fuerzas Armadas y el Bloque de Seguridad
+-----------------------------------------------------------------------
+
+El almirante **Miguel Córdova**, jefe del Comando Conjunto de las Fuerzas Armadas del Ecuador, informó sobre las recientes **operaciones militares** ejecutadas por las Fuerzas Armadas en distintos puntos del país.
+
+Desde el 8 de enero hasta el 15 de octubre de 2024, las [Fuerzas Armadas](https://es.wikipedia.org/wiki/Fuerzas_Armadas_del_Ecuador "https://es.wikipedia.org/wiki/Fuerzas_Armadas_del_Ecuador") han realizado un total de **257 534 operaciones militares en el territorio nacional**. Estas acciones incluyen la vigilancia de espacios terrestres, **marítimos y aéreos**, así como el apoyo a otras entidades del Estado durante los estados de excepción.
+
+Se han logrado importantes avances en la afectación a la estructura económica de **grupos terroristas**, mediante el decomiso de sustancias sujetas a **fiscalización, armas, municiones, explosivos y combustible**.
+
+Operaciones por provincias
+--------------------------
+
+El almirante Córdova detalló el número de operaciones realizadas en varias provincias. En El Oro, se llevaron a cabo **15 761 operaciones; en Guayas, 22 854; y en Durán, 1 689, entre otros sectores**. Manabí, con la conformación de la **Fuerza de Tarea Conjunta**, se realizaron **12 615 operaciones**, con la participación de 1.500 efectivos militares, drones, embarcaciones, vehículos tácticos y helicópteros.
+
+En provincias amazónicas, como Orellana, se realizaron 26 561 operaciones, y en Los Ríos, entre el 1 y el 15 de octubre, se llevaron a cabo 368 operaciones militares.
+
+> [#ElOro](https://twitter.com/hashtag/ElOro?src=hash&ref_src=twsrc%5Etfw) |  
+>   
+> FF.AA durante operaciones de control y vigilancia en el Límite Político Internacional en [#Huaquillas](https://twitter.com/hashtag/Huaquillas?src=hash&ref_src=twsrc%5Etfw), encuentran 16 canecas de combustible con aproximadamente 190 galones de diésel, que estarían siendo comercializadas en actividades de contrabando.[#BloqueDeSeguridad](https://twitter.com/hashtag/BloqueDeSeguridad?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/OU2l1aC8C1](https://t.co/OU2l1aC8C1)
+> 
+> — Fuerzas Armadas del Ecuador (@FFAAECUADOR) [October 16, 2024](https://twitter.com/FFAAECUADOR/status/1846559012516495578?ref_src=twsrc%5Etfw)
+
+Afectación a los grupos armados organizados
+-------------------------------------------
+
+Uno de los puntos destacados por Córdova fue la afectación a los grupos armados organizados en el ámbito de la ciberdefensa. Las Fuerzas Armadas lograron deshabilitar **2 145 redes de wifi cercanas a centros de privación de libertad**.
+
+También inhibieron **20 señales de internet y realizaron 6 089 operaciones** de desactivación de teléfonos celulares dentro de estos centros.
+
+Además, se decomisaron más de **100 toneladas de sustancias sujetas a fiscalización**, y se realizaron 2.581 operaciones de decomiso de armas, afectando la logística de estos grupos.
+
+Incautación de armas y destrucción de campamentos
+-------------------------------------------------
+
+En las operaciones militares se incautar**on de 1 800 armas y 224 422 municiones**, así como grandes cantidades de explosivos y combustible. Asimismo, se destruyeron **18 campamentos de minería ilegal y otros vinculados a actividades ilícitas**.
+
+En operativos recientes, las Fuerzas Armadas incautaron **4.5 toneladas de droga**, lo que representó una afectación económica de más de 135 millones de dólares para los grupos organizados.
+
+Llegada de cruceros a Manta dinamiza la economía de la región
+=============================================================
+
+Para la temporada 2024-2025, se prevé la llegada de al menos 25 000 cruceristas a la ciudad.
+--------------------------------------------------------------------------------------------
+
+![El MS World Explorer en su llegada a Manta el domingo 13 de octubre](https://www.elcomercio.com/wp-content/uploads/2024/10/manta-crucero.jpg)
+
+La nueva temporada de **cruceros** comenzó en la ciudad de **Manta**, en la provincia de Manabí, este domingo 13 de octubre de 2024.
+
+La primera embarcación en llegar fue el lujoso **MS World Explorer**, un cómodo y espacioso barco que tiene seis niveles de alojamiento y 126 metros de longitud.
+
+### Más noticias
+
+* [Más zonas seguras y sostenibles para levantar el turismo de Ecuador](https://www.elcomercio.com/opinion/editorial/mas-zonas-seguras-y-sostenibles-para-levantar-el-turismo-de-ecuador.html "Más zonas seguras y sostenibles para levantar el turismo de Ecuador")
+* [Turismo encantador](https://www.elcomercio.com/opinion/turismo-encantador-guido-calderon-columnista.html "Turismo encantador")
+* [¿Cuándo es el feriado de noviembre?](https://www.elcomercio.com/actualidad/ecuador/cuando-es-el-feriado-de-noviembre.html "¿Cuándo es el feriado de noviembre?")
+
+El **crucero portugués** vino desde Panamá y permaneció gran parte del domingo en Manta; luego, hizo una parada en el puerto de **Guayaquil**, para finalmente trasladarse hacia las costas de Valparaíso, en **Chile**.
+
+En su estadía temporal en la ciudad manabita, los **117 pasajeros**, de 21 nacionalidades, y los 113 tripulantes pudieron disfrutar de los paisajes de Manta, su **gastronomía** y su cultura.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBKGhhCv0UX/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Ministerio de Turismo 🇪🇨 (@ministerioturismoec)](https://www.instagram.com/p/DBKGhhCv0UX/?utm_source=ig_embed&utm_campaign=loading)
+
+24 cruceros visitarán Manta
+---------------------------
+
+Para la temporada **2024-2025**, de acuerdo con la **Autoridad Portuaria de Mant**a, a la ciudad llegarán **24 cruceros** en los que se transportaran al menos 25 000 turistas.
+
+Hasta diciembre, se prevé la llegada de **siete grandes cruceros**, donde vendrán turistas de todo el mundo, especialmente, de Alemania, Francia, Australia, Norteamérica, Europa y Asia.
+
+El segundo crucero en llegar a Manta será el **MS Viking Polaris**; la embarcación arribará al puerto el miércoles 30 de octubre.
+
+> Manta,está en el mapa del mundo como un importante destino turístico, que recibe a miles de pasajeros a bordo de grandes cruceros.  
+>   
+> El MS World Explorer dio inicio a la temporada 2024- 2025, arribando al área internacional de nuestro puerto, administrada por [@TPM\_EC](https://twitter.com/TPM_EC?ref_src=twsrc%5Etfw) [pic.twitter.com/mJ7unAHIHg](https://t.co/mJ7unAHIHg)
+> 
+> — Puerto de Manta 🇪🇨 (@APortuariaManta) [October 15, 2024](https://twitter.com/APortuariaManta/status/1846326922185187459?ref_src=twsrc%5Etfw)
+
+Incentivo al turismo
+--------------------
+
+La llegada de los cruceros a Manta dinamiza la **economía** de la ciudad y la región.
+
+Según el sector turístico, en promedio cada pasajero gasta **200 dólares** en su visita temporal, entre comida, transporte y otros productos y servicios.
+
+Los viajeros no solo acostumbran a recorrer los puntos turísticos más importantes de la ciudad, sino que prefieren movilizarse hacia otros sectores como **Montecristi**.
+
+A su llegada, los turistas tienen la oportunidad de adquirir productos típicos, como el famoso sombrero de paja toquilla y otras artesanías.
+
+Al recibir a los cruceristas, se organizan **ferias** donde los visitantes pueden disfrutar de la gastronomía y las artesanías locales.
+
+Seguridad para los turistas
+---------------------------
+
+La alcaldesa de Manta, **Marciana Valdivieso**, aseguró que “la ciudad está preparada con todos los protocoles de seguridad para brindar a los visitantes una gran experiencia”.
+
+Así mismo, **Ingrid Rodríguez**, gerente de Terminal Portuario de Manta (TPM), manifestó que los cortes de luz programados no afectarán la visita de los turistas.
+
+“Contamos con generadores eléctricos para que nuestros servicios no se vean interrumpidos”, comentó.
+
+Manta en 2023 recibió también **24 cruceros**; ese año llegaron a la ciudad **20 905 turistas** y 11 804 tripulantes.
+
+Leonardo Campana jugó media hora en su vuelta a la Selección de Ecuador
+=======================================================================
+
+Tras casi un año de ausencia, Leonardo Campana volvió a vestir los colores de la selección ecuatoriana.
+-------------------------------------------------------------------------------------------------------
+
+![Leonardo Campana solo sumó minutos con la Selección de Ecuador en el partido contra Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T123851.748.jpg)
+
+El regreso de **Leonardo Campana** a la Selección de Ecuador era uno de los más esperados por la afición, que, durante su ausencia, pedía a gritos su convocatoria.
+
+Casi un año después de su último partido con Ecuador, en noviembre de 2023, por las eliminatorias, ‘Leo’ Campana volvió. Sin embargo, **aunque sumó minutos, no fueron suficientes** para mostrar el buen momento que atraviesa en el Inter Miami.
+
+### Más noticias:
+
+* [La asombrosa historia del hincha que se tatuó a Leonardo Campana](https://www.elcomercio.com/deportes/futbol/asombrosa-historia-del-hincha-que-se-tatuo-leonardo-campana.html "La asombrosa historia del hincha que se tatuó a Leonardo Campana")
+* [Fanático inmortalizó a Leonardo Campana en su cuerpo](https://www.elcomercio.com/deportes/futbol/fanatico-inmortalizo-a-leonardo-campana-en-su-cuerpo.html "Fanático inmortalizó a Leonardo Campana en su cuerpo")
+* [Leonardo Campana alborotó a los aficionados de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-alboroto-a-los-aficionados-de-la-seleccion-de-ecuador.html "Leonardo Campana alborotó a los aficionados de la Selección de Ecuador")
+
+Leonardo Campana solo sumó media hora
+-------------------------------------
+
+En los dos partidos que la ‘Tri’ disputó en la última fecha FIFA, ante Paraguay y Uruguay, por las eliminatorias sudamericanas, **Campana solo jugó uno de los encuentros**, acumulando un total de 32 minutos en cancha.
+
+Su regreso a la Selección de Ecuador ocurrió el jueves 10 de octubre, en el empate sin goles contra Paraguay en el Estadio Rodrigo Paz Delgado.
+
+Corría el minuto 65 cuando **Sebastián Beccacece** encendió las gradas. El técnico argentino llamó al delantero, quien realizaba ejercicios de calentamiento, y le dio las últimas instrucciones antes de su ingreso.
+
+Leonardo **Campana entró al campo con la misión de darle mayor presencia ofensiva al equipo,** en un partido en el que Paraguay se cerró defensivamente, con múltiples jugadores protegiendo su área.
+
+A pesar de su esfuerzo, Campana **no logró asentarse en el partido** debido a la férrea defensa guaraní. Se movió por varios sectores del campo, especialmente por la banda derecha, buscando espacios, pero recibió pocos balones y tuvo dificultades para conectarse con sus compañeros.
+
+En total, **tocó el balón solo nueve veces**, completó cinco de ocho pases y perdió la posesión en tres ocasiones, lo que limitó su impacto en el partido.
+
+Por otro lado, en el partido contra Uruguay, a pesar de estar en el banco de suplentes, Beccacece no lo utilizó, optando por Enner Valencia como titular y **Kevin Rodríguez** como variante en el ataque.
+
+Sus números con Ecuador
+-----------------------
+
+Campana, de 24 años y delantero centro, tiene una relación intermitente con la Selección y su presencia ha sido esporádica. En 1**6 partidos no pudo anotar goles**.
+
+El debut fue con **Hernán Darío Gómez** con 18 años, 7 meses y 26 días en una derrota 1-0 con Estados Unidos con 45 minutos. En esa misma gira sumó otros 45 minutos contra Honduras con un empate 0-0.
+
+El primer partido oficial en eliminatorias fue el 12 de octubre de 2020 en la victoria 4-2 ante Uruguay en el Rodrigo Paz Delgado. Gustavo Alfaro lo mandó a la cancha para jugar los cinco minutos finales.
+
+En la **Copa América Brasil 2021** debutó en el empate 2-2 contra Venezuela. Fue titular y completó los 90 minutos.
+
+El café sin filtrar, el aliado para acelerar el metabolismo
+===========================================================
+
+Un estudio reciente revela que el café sin filtrar potencia la pérdida de peso y acelera el metabolismo, según un análisis publicado en Infobae.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El café es apreciado tanto por sus beneficios para la salud como por su exquisito sabor.](https://www.elcomercio.com/wp-content/uploads/2024/09/dia-del-cafe.jpg)
+
+El **café** es una de las **bebidas** más **consumidas** a **nivel mundial**, conocido por su **efecto energizante** y sus **múltiples beneficios** para la **salud**. Recientemente, un **estudio** danés publicado en la revista Nutrients ha revelado que el **café sin filtrar** es el tipo de preparación que más potencia la **aceleración** del **metabolismo** y la pérdida de peso. Esta **investigación** ha captado la atención de la **comunidad científica** y de los **amantes del café**.
+
+### Más noticias
+
+* [Estudio indica que consumir café después de los 60 puede llevar al ‘deterioro cognitivo’](https://www.elcomercio.com/tendencias/salud/cafe-deterioro-cognitivo-salud-investigacion.html "Estudio indica que consumir café después de los 60 puede llevar al ‘deterioro cognitivo’ ")
+* [‘Es importante identificar características únicas de cada paciente para tratar la obesidad’: Andrés Acosta](https://www.elcomercio.com/tendencias/salud/es-importante-identificar-caracteristicas-unicas-de-cada-paciente-para-tratar-la-obesidad-andres-acosta.html "‘Es importante identificar características únicas de cada paciente para tratar la obesidad’: Andrés Acosta")
+* [Superalimentos ecuatorianos ideales para una vida saludable](https://www.elcomercio.com/tendencias/salud/superalimentos-ecuador-dia-mundial-alimentacion.html "Superalimentos ecuatorianos ideales para una vida saludable ")
+
+Efectos positivos del café sin filtrar en la salud metabólica
+-------------------------------------------------------------
+
+El **café sin filtrar** se prepara sin utilizar **filtros** de **papel** o metal, lo que permite que los **aceites naturales** y **sedimentos** del **grano** permanezcan en la bebida. Esto incluye variedades como el café turco y el preparado con **prensa francesa**. Los **investigadores** encontraron que este tipo de café no solo mejora la textura y el sabor, sino que también tiene un **impacto positivo** en la **salud metabólica**. Según Infobae, los participantes del **estudio** que consumieron **café** sin **filtrar** lograron una **notable reducción** de peso en comparación con aquellos que solo tomaron **café filtrado**.
+
+Beneficios y precauciones para la salud
+---------------------------------------
+
+Sin embargo, es importante señalar que el **consumo excesivo de café sin filtrar** puede estar asociado con un aumento en los **niveles de colesterol y riesgos cardiovasculares.** Por ello, se recomienda moderar su ingesta. A pesar de las advertencias, los resultados sugieren que una ingesta controlada podría ser beneficiosa para quienes buscan perder peso.
+
+Además de sus **propiedades** para acelerar el **metabolismo**, el café también es rico en **antioxidantes** y puede ayudar a reducir el **riesgo de enfermedades como diabetes tipo 2** y enfermedades **neurodegenerativas**. En este sentido, combinar diferentes **métodos** de preparación podría maximizar sus beneficios.
+
+El café sin filtrar como aliado para el metabolismo y la pérdida de peso
+------------------------------------------------------------------------
+
+En **conclusión**, el **estudio publicado** en Infobae destaca cómo el **café sin filtrar** puede ser un aliado efectivo para quienes buscan mejorar su **metabolismo** y perder peso, siempre bajo un **consumo moderado** y consciente.
+
+Los dientes de los perros también se cepillan
+=============================================
+
+Las caries y otros problemas dentales atacan a los perros.
+----------------------------------------------------------
+
+![Cuidar de la salud bucal de los animalitos es prioridad. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-16T123027.884.jpg)
+
+Para que los **perritos** mantengan una buena **salud bucal,** libre de **abscesos dentales** y caries, es importante cepillar cada una de sus **piezas** desde que son pequeños.
+
+Recuerda que para lograr una limpieza exitosa se requiere de un poco de **paciencia**; no te tomará más de cinco minutos.   
+
+### **Más noticias:**
+
+* [Los animales también viven el horror de la guerra](https://www.elcomercio.com/narices-frias/animales-horror-guerra-libano-gaza-rusia-ucrania.html "https://www.elcomercio.com/narices-frias/animales-horror-guerra-libano-gaza-rusia-ucrania.html")
+* [Empresa japonesa ‘contrató’ a nueve gatos para una misión superimportante](https://www.elcomercio.com/narices-frias/gatos-empresa-japones-ambiente-laboral.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/gatos-empresa-japones-ambiente-laboral.html?source=Internal&ref=Single+Content+Link")
+* [El enjaulamiento de animales de compañía se sanciona en Quito](https://www.elcomercio.com/narices-frias/enjaulamiento-animales-compania-quito-multa-infractor.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/enjaulamiento-animales-compania-quito-multa-infractor.html?source=Internal&ref=Single+Content+Link")
+
+**Los dientes de los perros también se cepillan**
+-------------------------------------------------
+
+Dato interesante: más del 80% de los **[perros](https://www.elcomercio.com/narices-frias/animales-horror-guerra-libano-gaza-rusia-ucrania.html "https://www.elcomercio.com/narices-frias/animales-horror-guerra-libano-gaza-rusia-ucrania.html")** y el 70% de los gatos tienen evidencia de **periodontitis** a la edad de 3 años.
+
+Además, el 10% de los perros tienen algún diente fracturado con dolorosa exposición pulpar directa. Es parte de la información que publicó la **Asociación Mundial de Veterinarios de Pequeños Animales** (WSAVA).  
+
+**Implementos para cuidar la salud bucal**  
+--------------------------------------------
+
+Antes de iniciar con la **limpieza** asegúrate de contar con un cepillo con cerdas suaves y pasta o gel dental apto para animalitos.
+
+Los expertos sugieren evitar los **productos** con flúor para reducir el riesgo de molestias estomacales; ese mineral es muy fuerte para los **animalitos**.  
+
+También es importante seleccionar un espacio apropiado para la comodidad del can. Luego de la **limpieza**, puede premiarlo con alguna golosina apta para perros.   
+
+**El paso a paso de la limpieza bucal**   
+------------------------------------------
+
+Humedezca las cerdas del **cepillo** y luego coloque el gel o la pasta dental. Luego, limpie cada uno de los dientes de su mimado.
+
+Al inicio tendrá que cepillar 28 piezas. Después, serán 42. Los expertos sugieren cumplir con el procedimiento dos o tres veces a la semana.
+
+Se sugiere también hacer hincapié en los **premolares** y molares, que es en donde se acumula el sarro y, posteriormente, las caries.   
+
+**¿Cómo afecta el sarro en la salud bucal animal?**  
+-----------------------------------------------------
+
+El cálculo (o sarro) es una placa que se ha mineralizado secundariamente por los minerales en la saliva. El cálculo proporciona principalmente un efecto irritante, según la **Asociación Mundial de Veterinarios** de Pequeños Animales (WSAVA). 
+
+La **WSAVA** añade que las **bacterias** en la placa subgingival excretan toxinas y productos metabólicos que crean la inflamación de los tejidos **gingivales** y **periodontales**.  
+
+“Esta inflamación causa daño a los tejidos gingivales e inicialmente resulta en gingivitis. Eventualmente, la inflamación puede llevar a periodontitis, es decir, a la destrucción de la unión entre los **tejidos** periodontales y los dientes”.  
+
+**Profilaxis canina**  
+-----------------------
+
+Recuerde que con esa limpieza también evitará someter a su perro a una profilaxis. Ese tratamiento resulta incómodo y bastante costoso.  
+
+¿La razón? Para para atender al paciente se requiere de anestesia general. Los especialistas realizan exámenes de sangre para valorar el estado de su **hígado** y **riñones**.   
+
+Bloqueos en defensa de Evo Morales obstruyen el paso de 300 camiones 
+=====================================================================
+
+Los bloqueos de los partidarios del exmandatario se concentran en el departamento de Cochabamba (centro).
+---------------------------------------------------------------------------------------------------------
+
+![Personas caminan con sus equipajes durante la segunda jornada de bloqueos por seguidores del expresidente Evo Morales.](https://www.elcomercio.com/wp-content/uploads/2024/10/bolivia-tercer-dia-efe.jpg)
+
+La estatal **Yacimientos Petrolíferos Fiscales Bolivianos** (YPFB) indicó el martes 16 de octubre de 2024, que **300 camiones de combustible** están atascados en los **puntos de bloqueo** que mantienen los seguidores del expresidente Evo Morales (2006-2029) y alertó sobre el riesgo de que esto genere accidentes y **desabastecimiento**.
+
+### Más noticias
+
+* [Lionel Messi, inspirado, golea a Bolivia con Argentina](https://www.elcomercio.com/deportes/futbol/seleccion-argentina-bolivia-partido-eliminatorias-lionel-messi.html "Lionel Messi, inspirado, golea a Bolivia con Argentina")
+* [Bloqueos de carreteras en defensa de Evo Morales se concentran en el centro de Bolivia](https://www.elcomercio.com/actualidad/mundo/bloqueos-carreteras-edefensa-evo-morales-concentran-centro-bolivia.html "Bloqueos de carreteras en defensa de Evo Morales se concentran en el centro de Bolivia")
+* [Fiscalía de Bolivia pide que se considere activar alerta migratoria contra Evo Morales](https://www.elcomercio.com/actualidad/mundo/fiscalia-bolivia-pide-considere-activar-alerta-migratoria-contra-evo-morales.html "Fiscalía de Bolivia pide que se considere activar alerta migratoria contra Evo Morales")
+
+Riesgo de accidentes
+--------------------
+
+El presidente de YPFB, Armin Dorgathen, dijo en una rueda de prensa que “**existe un riesgo de accidentes”** al tener los camiones cisterna expuestos a **“altas temperaturas”** en las carreteras, a lo que se suman los problemas de abastecimiento de carburantes en las distintas regiones bolivianas.
+
+Dorgathen pidió a los manifestantes **“que puedan levantar los bloqueos”** o que “dejen pasar las cisternas”. Consideró que esto es un **peligro para las mismas personas** que mantienen esa medida de reclamo.
+
+Los **bloqueos de los partidarios** del exmandatario se concentran en el **departamento** de Cochabamba (centro), su principal bastión político, y que es el eje que comunica las **carreteras del oriente** y el **occidente del país**.
+
+“Si las cisternas no pueden ir pasando los **puntos de bloqueo**, seguramente vamos a tener algunos retrasos en los despachos, pero no quiere decir **que no tengamos el producto**“, recalcó el presidente de YPFB.
+
+Dorgathen indicó que el contenido de los **300 camiones alcanzan unos 1,2 millones de litros** de combustible, los cuales deben proveer a las **plantas y estaciones bolivianas.**
+
+Desde la víspera, en ciudades como **Santa Cruz, El Alto, La Paz y Cochabamba**, que forman parte del eje central de Bolivia, comenzaron a reportar **filas en las estaciones de combustible** en las que comenzó a faltar las provisiones de gasolina y diésel.
+
+Bloqueos empezaron el lunes
+---------------------------
+
+Los grupos ‘evistas’ o afines al también líder del gubernamental Movimiento al Socialismo (MAS) iniciaron el lunes bloqueos de **carreteras en el centro del país** en defensa del exmandatario ante la citación para que declare ante la Fiscalía por un caso de trata de personas y estupro.
+
+Problemas como falta de dólares
+-------------------------------
+
+También piden al Gobierno de Luis Arce que resuelva **problemas como la falta de dólares**, combustibles y el encarecimiento de algunos alimentos. Además, para exigir que **se reconozca el congreso partidario** en que el exmandatario fue nombrado “candidato único” para las elecciones generales de 2025.
+
+Arce y Morales están distanciados desde finales de 2021 por diferencias en la administración del Estado que se profundizaron ante la necesidad de renovar la **dirección nacional del MAS** y elegir al candidato para los próximos comicios. 
+
+Tres días de sol en Quito cuando más se necesita de lluvia
+==========================================================
+
+Hay preocupación por los tres días de calor y sequedad en el clima, en una época en que el país clama por lluvias. El Inamhi advierte sobre la radiación ultravioleta.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Hay poca nubosidad en Quito y la temperatura máxima oscilará entre los 25 y 27°C.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-7-1.jpg)
+
+El 25 de septiembre del 2024, hubo un alivio en **Quito**: la **lluvias** ayudaron a apagar las llamas que horrorizaron a la **ciudad**. Desde entonces no ha dejado de llover, pero este **16 de octubre del 2024** y los dos días previas, han sido de **sol intenso** **cuando más se necesita de lluvias.**
+
+### Más noticias
+
+* [Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute](https://www.elcomercio.com/actualidad/negocios/lluvias-coca-codo-sinclair-pero-pasa-paute.html "Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute")
+* [Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito](https://www.elcomercio.com/actualidad/quito/cortes-energia-suman-2024-fatal-restaurantes-quito.html "Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito")
+* [Afectados por los incendios forestales tendrán un beneficio en la planilla del agua](https://www.elcomercio.com/actualidad/quito/afectados-incendios-forestales-planilla-agua.html "Afectados por los incendios forestales tendrán un beneficio en la planilla del agua")
+
+Días de sol en Quito y a la espera de la lluvia
+-----------------------------------------------
+
+**Quito** está pasando por una semana de **calor** y hasta hay **alertas** de parte del Instituto Nacional de Meteorología e Hidrología (Inamhi) por las **altas temperaturas** y por los índices de **Radiación Ultravioleta**. Este fenómento podría durar toda la semana, pues la alerta del Inamhi son del 16 al 19 de octubre del 2024. **La región más afectada será, sin embargo, la amazónica**.
 
 > [#AdvertenciaMeteorológica](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) #53 Del 16 al 19 de octubre: Se prevén Altas y Muy Altas Temperaturas e Índices de Radiación Ultravioleta en el día, con mayor énfasis en la  
 > región Amazónica, zonas puntuales del Callejón Interandino e interior del Litoral ☀️😎🥵  
@@ -78,963 +709,396 @@ Ante estas condiciones climáticas, es importante tomar **algunas precauciones**
 > 
 > — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 16, 2024](https://twitter.com/inamhi_ec/status/1846380789413429687?ref_src=twsrc%5Etfw)
 
-Radiación extremadamente alta
------------------------------
+En **Quito**, los **soles radiantes** se mantendrán hasta el día **viernes**. Se espera que para el sábado vuelvan las lluvias. Según Cristina Valdiviezo, de pronósticos del Inamhi, Quito está viviendo “momentos de ingreso”un momento de transición, cuando los sistemas atmosféricos se acoplan”. Por eso es que vivimos momentos de lluvias y otros de sol.
 
-El Inamhi advierte **sobre los niveles de radiación altos** que se registrarán este miércoles 16 de octubre, como parte de las condiciones climáticas actuales.
+Y las lluvias, ¿para cuándo?
+----------------------------
 
-Esto se debe a la poca nubosidad en el cielo, lo que permite **el ingreso directo de los rayos solares** a la superficie de la Tierra, por ello, también la temperatura sube.
+En estos días y hasta el viernes 18 de octubre del 2024, como se puede ver en el tuit del Inamhi, las **temperaturas serán elevadas** y con **niveles de radiación UV muy altos**. Es por la presencia de una masa de aire seco.
 
-Hoy, los niveles de **radiación serán extremadamente altos** para Pichincha, Imbabura, Cotopaxi y Tungurahua, que tendrán radiación en nivel 11.
+Sin embargo, **para el fin de semana todo cambiará**. Ingresará una masa de aire húmedo proveniente de la Amazonía y las anheladas lluvias volverán. Sin embargo, no serán tan fuertes ni extendidas en el tiempo. “Más bien serán lloviznas o chubascos”, dice Valdiviezo.
 
-Bolívar, Chimborazo, Azuay, Loja y ciertas zonas de la Amazonía registrarán radiación en niveles muy altos. En cambio las provincias del Litoral, Cañar, Zamora Chinchipe y el centro de Morona y Pastaza tendrán índices altos.
+Si eso ocurrirá en **Quito**, el pronóstico no parece muy alentador en el **Austro** ecuatoriano. Si bien el 15 de octubre llovió en la zona del **Paute** y **Mazar**, no fueron de consideración y, para colmo, los próximos días serán de tiempo seco.
 
-La **radiación ultravioleta causa graves daños a la piel,** entre ellos **quemaduras y manchas.** Además de daños oculares. Por ello te dejamos **algunos consejos**:
+Este es el pronóstico del clima para el país de hoy y mañana, según el Inamhi[:](https://en.wikipedia.org/wiki/Instituto_Nacional_de_Meteorolog%C3%ADa_e_Hidrolog%C3%ADa_(Ecuador) "https://en.wikipedia.org/wiki/Instituto_Nacional_de_Meteorolog%C3%ADa_e_Hidrolog%C3%ADa_(Ecuador)")
 
-* Evitar la exposición prolongada al sol, al menos hasta las 15:00.
-* Usar siempre protector solar.
-* Llevar un paraguas o sombrilla para protegerse del sol.
-* Usar gafas con protección UV.
-* Vestir ropa con mangas largas que cubran la piel.
-* Las gorras también son artículos prácticos para proteger la cara y cabeza del sol.
-* Consuma agua constantemente, manténgase [hidratado](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-> [#RadiacionMaximaUVEc](https://twitter.com/hashtag/RadiacionMaximaUVEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta previsto para el miércoles 16 de octubre de 2024. [pic.twitter.com/3xXwO1BRcX](https://t.co/3xXwO1BRcX)
+> [#PronosticoNacionalEc](https://twitter.com/hashtag/PronosticoNacionalEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del tiempo en varias localidades del país, para el miércoles, 16 de octubre de 2024, temperaturas e índices de radiación altos 🥵☀️😎  
+> ⚠️Advertencia No. 53 Activa [pic.twitter.com/surRaae3gm](https://t.co/surRaae3gm)
 > 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 15, 2024](https://twitter.com/inamhi_ec/status/1846304341235229027?ref_src=twsrc%5Etfw)
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 16, 2024](https://twitter.com/inamhi_ec/status/1846389804193210448?ref_src=twsrc%5Etfw)
 
-Ecuador celebra el Día Mundial del Pan con sus propios manjares 
-================================================================
-
-El Día del Pan es una ocasión propicia para destacar su importancia cultural y nutricional.
--------------------------------------------------------------------------------------------
-
-![A lo largo de la historia, el pan ha sido un alimento esencial y parte fundamental de la dieta en diversas culturas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-Mundial-del-Pan.jpg)
-
-El **Día Mundial del Pan** se celebra cada 16 de octubre, una fecha que **rinde homenaje a uno de los alimentos más antiguos** y esenciales en la historia de la humanidad.
-
-### Más noticias
-
-* [Descubre qué pan ecuatoriano está entre los cinco mejores del mundo](https://www.elcomercio.com/afull/pan-yuca-ecuador-ranking-top-mejor-mundo.html "https://www.elcomercio.com/afull/pan-yuca-ecuador-ranking-top-mejor-mundo.html") 
-* [No le tenga miedo al pan; también aporta nutrientes](https://www.elcomercio.com/tendencias/pan-aporta-nutrientes-salud-harina.html "https://www.elcomercio.com/tendencias/pan-aporta-nutrientes-salud-harina.html")
-
-Este día fue establecido en 2006 por la **Unión Internacional de Panaderos y Pasteleros**, y coincide con el **Día Mundial de la Alimentación**, para resaltar la importancia del pan en la dieta humana y su valor nutricional, a decir de [Marketresearchtelecast](https://marketresearchtelecast.com/world-bread-day-why-is-it-celebrated-on-october-16/179725/ "https://marketresearchtelecast.com/world-bread-day-why-is-it-celebrated-on-october-16/179725/"). 
-
-**Historia del pan: un alimento milenario** 
---------------------------------------------
-
-El pan ha sido **un alimento básico desde tiempos inmemoriales**. Su historia se remonta a más de 10 000 años, cuando **las primeras civilizaciones comenzaron a cultivar cereales** y a experimentar con la fermentación. Este proceso dio lugar al pan que conocemos hoy, un alimento que ha evolucionado con el tiempo y que ha sido **parte integral de la dieta de innumerables culturas**, según la web [Paralelo 32](https://www.paralelo32.com.ar/dia-mundial-del-pan-celebrando-un-alimento-ancestral-que-evoluciona-con-el-tiempo "https://www.paralelo32.com.ar/dia-mundial-del-pan-celebrando-un-alimento-ancestral-que-evoluciona-con-el-tiempo"). 
-
-**El pan en la cultura y la tradición** 
-----------------------------------------
-
-El pan no solo es un alimento, sino también **un símbolo cultural**. En muchas culturas, **el pan es sinónimo de hospitalidad y comunidad**. En países como Francia, el pan es un elemento central en la mesa, mientras que, en otras regiones, como el Medio Oriente, **el pan se utiliza como utensilio para comer**. Esta diversidad cultural refleja la adaptabilidad y la importancia del pan en la vida diaria, de acuerdo con [Salpimienta](https://salpimenta.com.ar/dia-mundial-del-pan-historia-y-receta/ "https://salpimenta.com.ar/dia-mundial-del-pan-historia-y-receta/"). 
-
-**El valor nutricional del pan** 
----------------------------------
-
-El pan es **una fuente importante de carbohidratos, fibra y proteínas**. Aporta energía y nutrientes esenciales que son fundamentales para **una dieta equilibrada**. Sin embargo, **es importante elegir panes integrales y de grano entero** para maximizar sus beneficios nutricionales. Este día también busca concienciar sobre la **importancia de consumir pan de calidad** y de manera responsable, según [Radio Pauta](https://www.pauta.cl/dato-en-pauta/2023/10/16/dia-mundial-del-pan-por-que-se-celebra-y-de-que-se-trata.html "https://www.pauta.cl/dato-en-pauta/2023/10/16/dia-mundial-del-pan-por-que-se-celebra-y-de-que-se-trata.html"). 
-
-**El pan aporta vitaminas del grupo B**, carbohidratos, una cantidad reducida de proteínas y minerales como fósforo, potasio y magnesio. La **Organización Mundial de la Salud**, citada por [El Mundo](https://www.elmundo.es/yodona/vida-saludable/2023/12/09/656f2cbfe85ece0c658b4576.html "https://www.elmundo.es/yodona/vida-saludable/2023/12/09/656f2cbfe85ece0c658b4576.html"), indica que **se puede consumir hasta 250 gramos de pan al día** como parte de una dieta equilibrada.   
-
-**Los mejores panes ecuatorianos** 
------------------------------------
-
-### **El pan de Ambato**  
-
-Conocido por su suavidad y sabor ligeramente dulce, el **pan de Ambato** es uno de los más populares del país. Su secreto está en la **levadura natural** y la calidad de los ingredientes. Su variedad más conocida es el **Tapado**.   
-
-### **El pan de Pinllo**   
-
-Con más de 100 años de tradición, el **pan de Pinllo** es un tesoro culinario. Su masa esponjosa y su corteza crujiente lo convierten en un favorito de los ecuatorianos. ¡Un sabor que evoca nostalgia!  
-
-### **Pan de yuca**  
-
-**Originario de Manabí**, el **pan de yuca** es una deliciosa alternativa al pan tradicional. Está elaborado con harina de yuca. **Taste Atlas** lo ubicó entre los cinco mejores ‘bread rolls’ (panecillos) del mundo.  
-
-### **Las cholas de Guano**  
-
-Las ‘cholitas’ van bien con cualquier bebida caliente. **Elaboradas artesanalmente en hornos de leña**, su sabor único se debe a una receta local y a los ingredientes naturales, como su relleno de panela.   
-
-### **Las allullas de Cotopaxi**  
-
-Las **allullas** son un manjar de la Sierra ecuatoriana. ️ Estos **panes redondos abizcochados**, ideales para el desayuno, son elaborados con harina de trigo, sal, azúcar, leche y manteca de cerdo. Se las acompaña de **queso de hoja**.   
-
-### **Las guaguas de pan**   
-
-Las **guaguas de pan** son un símbolo de la cultura ecuatoriana. Elaboradas con harina de trigo, azúcar y especias, representan a un niño envuelto en pañales y son las preferidas durante el **Día de los Difuntos**.  
-
-Así funciona el Pico y placa en Quito este miércoles 16 de octubre
-==================================================================
-
-Cuatro contraflujos se realizan como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
--------------------------------------------------------------------------------------------------------------------
-
-![Los agentes metropolitanos vigilan el cuplimiento de la medida.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-y-placa-Q.jpg)
-
-El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
-
-### Más noticias
-
-* [Contraflujo de la av. Guayasamín se desvía hacia otra calle de Quito](https://www.elcomercio.com/actualidad/quito/contraflujo-av-guayasamin-quito-se-desvia-hacia-otra-via.html "Contraflujo de la av. Guayasamín se desvía hacia otra calle de Quito")
-* [Esto pagaron por el trono de hierro de ‘Game of Thrones’](https://www.elcomercio.com/tendencias/entretenimiento/esto-pagaron-por-trono-de-hierro-de-game-of-thrones.html "Esto pagaron por el trono de hierro de ‘Game of Thrones’")
-* [Gobierno entrega licencias ambientales para proyectos de energía renovable](https://www.elcomercio.com/actualidad/negocios/gobierno-entrega-licencias-ambientales-para-proyectos-de-energia-renovable.html "Gobierno entrega licencias ambientales para proyectos de energía renovable")
-
-¿Cómo se aplica el Pico y placa?
---------------------------------
-
-La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
-
-La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
-
-Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
-
-Contraflujos y Pico y placa en Quito
-------------------------------------
-
-Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
-
-–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
-
-Mañana: 06:30 a 07:00 y de 07:30 a 08:00
-
-Tarde: 16:30 a 17:00 y 17:30 a 18:00
-
-–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
-
-Mañana: 06:30 a 07:30 y de 08:00 a 08:30
-
-Tarde: 16:30 a 19:30
-
-–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
-
-Mañana: 06:00 a 08:30
-
-Tarde: 17:00 a 19:00
-
-– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
-
-Mañana: 07:00 a 08:30
-
-Tarde: de 16:00 a 19:30
-
-Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
-> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
->   
-> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
->   
-> 🤝 Juntos llegamos sin contratiempos.  
->   
-> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/JbmcoDiLXo](https://t.co/JbmcoDiLXo)
-> 
-> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846127122865086732?ref_src=twsrc%5Etfw)
-
-Que la prevención de los siniestros de tránsito no se detenga en Quito
-======================================================================
-
-El Municipio de Quito tiene una campaña de control del exceso de velocidad, pero se paró. Los agentes atienden las zonas sin luz.
----------------------------------------------------------------------------------------------------------------------------------
-
-![El 7 de octubre de 2024 ocurrió uno de los accidentes de tránsito más tráficos en la autopista General Rumiñahui.](https://www.elcomercio.com/wp-content/uploads/2024/10/siniestros-prevencion.jpg)
-
-Las víctimas por los **siniestros de tránsito** aumentan en Quito. La semana pasada (7 de octubre de 2024), dos jóvenes fallecieron en un trágico accidente que ocurrió en la **Autopista General Rumiñahui.** Hay uno en estado crítico y dos más están heridos.
-
-La pérdida de vidas humanas es una importante razón para desarrollar una campaña o plan de largo plazo para la prevención de los siniestros de tránsito en la capital.
-
-> La educación vial es un proceso clave que necesita la sociedad, para reducir los siniestros de tránsito en Quito y en el país.
-
-Las dos víctimas de la autopista hacen parte de una grave situación social de la capital y de **Quito**.
-
-La estadística de **Quito Data Vial** muestra que en los primeros nueve meses de 2024 murieron 191 personas. Hay más muertos que en 2023, cuando hubo 181 víctimas. El incremento es del 5,5%.
-
-Solo en septiembre de 2024, **Quito perdió 28 habitantes, número mayor a los 20 de 2023.**  Por cantidad de siniestros de tránsito también se registra un incremento entre enero y septiembre: 2 705 en 2024, frente a 2 597 en 2023.
-
-Estas cifras debieran provocar empatía, solidaridad y tristeza de las autoridades, pero -a la vez- iniciativas para reducir este problema social.
-
-Los controles **al exceso de velocidad de los vehículos** son una buena apuesta para prevenir y tienen respaldo de la Ley de Tránsito. Es necesario que esta actividad continúe, independientemente de los factores externos, como los cortes de luz. 
-
-Esa campaña del Municipio puede ser reforzada con otras acciones, que están al alcance del ayuntamiento.  Por ejemplo, mejorar la infraestructura vial para mejorar el acceso de los peatones, quienes mueren atropellados.
-
-Hacer educación vial, mejorar la señalética y otorgar licencias de conducción de la manera más técnica.
-
-El control al estado de los vehículos y la calidad de las calzadas son contraparte de la prevención de los siniestros, recomiendan los expertos en educación vial[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito")
-
-Esto significa que las autoridades, no solo municipales, tienen múltiples opciones para enfocarse en la reducción de las víctimas, sean fatales o lesionadas, por los siniestros de tránsito. 
-
-Trece descaminados
-==================
-
-Proliferación de candidatos como un reflejo del infantilismo político.
-----------------------------------------------------------------------
-
-![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
-
-De los **16 candidatos** a la presidencia de la República, 3 tendrían posibilidades de ser elegidos: Noboa, González y Topic. Los 13 restantes: Cucalón, Iza, Rabascal, Saquicela, Jairala, Escala, González-Nader, Kronfle, Araus, Tillería, Tabacchi, Granja y Cueva, están por el “**honor**” de ser **candidatos**, porque sus **grupos** o **partidos** les exigen serlo, o porque los dueños de esos **grupos** o partidos -a quienes interesa llegar a la **Asamblea**– encontraron personas dispuestas a enfrentar la **campaña** a cambio de ver sus nombres en los **medios** de **comunicación** y en la **papeleta electoral**.
-
-**16 candidatos** a la **presidencia** son muestra del **infantilismo político** del país y la molestia del **ciudadano** común por concurrir a las urnas porque la **ley** le obliga, pero sin interés en el **destino** de la nación. Le da lo mismo que se elija a uno o a otro, porque, en su criterio, todos los **políticos** son iguales y ninguno le resolverá sus **problemas**.
-
-Por cierto, la **proliferación** de **partidos** y grupos es consecuencia del **interés** del correísmo por facilitar su creación y así lograr que sus **candidatos** obtengan al menos la **primera minoría** en los cuerpos colegiados, especialmente en la **Asamblea Legislativa**. Así podrá extorsionar al gobierno de turno.
-
-Según varias encuestas -sin desconocer su **valor relativo** – el **presidente candidato** ocupa el primer lugar en la intención de **voto**, seguido de la **candidata** del correísmo y, a marcada distancia, el rambo ecuatoriano. Las posibilidades de Noboa son evidentes, pese a los crasos errores del **gobierno**, la **inseguridad** que no puede ser doblegada, la falta de **empleo** y el **estancamiento económico**; todo ello agravado con los **apagones** de 10 horas diarias que están destruyendo la **estabilidad** de la **economía**, el empleo, el desarrollo de los **negocios**, en suma, la vida de los **ciudadanos**.
-
-Sobre la **candidata** correísta pesa una enorme loza del **prófugo** en **Bélgica**, que dedica las 24 horas del día a insultar a quienes opinan sobre su **situación** y la **corrupción** de los 10 años de su gobierno. La **prohibición** de i**ngresar a los Estados Unidos** para el **caudillo** y su segundo por “su participación en **actos de corrupción** significativos durante su **mandato**” torna casi imposible la elección de González.
-
-Y la condición de outsider del rambo en las últimas **elecciones**, en las que fue elegido otro outsider, no se podrá repetir. No hay segunda vez de outsider, como no hay **segunda virginidad**.
-
-No son elegibles
-================
-
-EE.UU. prohibió el ingreso de Rafael Correa y Jorge Glas por corrupción.
-------------------------------------------------------------------------
-
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
-
-No se trata de los **requisitos** para ser elegibles en un **proceso electoral**.  De las inhabilidades e **incompatibilidades** se refiere la **constitución** y la ley electoral. Se trata de la decisión del Departamento de Estado de los EE.UU. anunciada el 9 de octubre, que determinó la prohibición para Rafael Correa, Jorge Glas y sus familiares en primer grado de consanguinidad, de ingresar a **territorio estadounidense**; «_debido a su implicación con actos significativos de corrupción durante su ejercicio como funcionarios públicos_». Así lo afirmó el secretario de Estado.
-
-Las **autoridades norteamericanas** dicen que los actos provocados por Correa y Glas, «_socavaron los procesos gubernamentales justos y transparentes. Estados Unidos respalda al pueblo ecuatoriano en su reclamo de un gobierno transparente que cumpla con sus ciudadanos_». Es evidente, disponen de **abundante información** comprobada y auténtica de los casos de **cohecho**, **sobornos** y otros delitos de un régimen y su **deriva autoritaria** y **corrupta**.  
-
-El expresidente Correa ha calificado esta **decisión** de «canalla», «infamia», una «_torpe política exterior gringa que radicaliza hasta personas como yo…»_. En correspondencia con su descomunal ego, creyéndose ser el ombligo del universo, en un comunicado: «_A mi patria, a Latinoamérica y al Mundo»_, repite su agonístico **discurso** en el que se **victimiza** y niega la realidad. Pero no hay **espacio** para la duda.  Fue y es el líder de uno de los **regímenes** más podridos que registra la **historia**. Pretende restar **relevancia** a la **decisión norteamericana**, afirmando que huele a una **operación política** y busca perjudicarle en el **proceso** **electoral** del 2025.
-
-A la **condición** de no elegibles para ingresar a los EE.UU., Correa y Glas fueron **procesados y sentenciados** por la **justicia ecuatoriana** en el caso sobornos 2012-2016;  se debe añadir, el **duro castigo refrendado** por el 74% de los **electores**, en la **consulta popular** del 4 de febrero de 2018, convocada por el presidente Lenin Moreno, que legitimó la **enmienda constitucional** que sanciona a los **condenados por corrupción,** con su **inhabilitación**  para participar en la **vida política del país**, incluida la pérdida de sus bienes. Correa está cada vez más arrinconado. Sabe que lo peor para él estaría por venir.
-
-Cartas a Quito / 16 de octubre de 2024
-======================================
-
-Estas son las cartas a Quito de este miércoles 16 de octubre de 2024
---------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Apagones e ideologías
----------------------
-
-Si miramos lo que ocurre en Cuba y en Venezuela, donde se producen apagones de manera constante, y, desde hace mucho tiempo, a pesar de los esfuerzos de los gobiernos de esos países por ocultarlos, nos preguntamos con toda sinceridad: acá en Ecuador se ha publicitado de manera permanente, a propósito de los apagones, unos ataques furibundos a los gobiernos que sucedieron al gobierno de la revolución ciudadana, sobre el nulo accionar respecto a la construcción de nuevas plantas de generación eléctrica, al mantenimiento de las plantas térmicas de generación.
-
-Me parece que lo que falla es la planificación, desde el principio, el empeño en construir obras faraónicas, con precios exorbitantes, en la misma vertiente donde se compartirá las épocas de estiaje, sin una visión práctica de diversificar las posibilidades de generación en fuentes distintas.
-
-Hago esta reflexión, pues, mientras en Cuba y en Venezuela se ha tornado casi una constante los apagones, y siendo que la revolución ciudadana como movimiento político, nos quería conducir al modelo que estos países practican, la pregunta que surge es: ¿Comparten, además de la ideología, visiones limitadas de lo que significa planificación adecuada y sentido común respecto de los factores adversos que puedan afectar las producciones de energía?
-
-Alcanzo a ver que, como en todo centralismo, la obsesión es deslumbrar con obras faraónicas, sin prestar atención a la calidad de la construcción, ni tampoco, a las posibilidades de fallo y tampoco a los precios que se les cobra. ¿Es eso planificación? O se trata de mera coincidencia que países de similares ideologías enfrenten problemas similares, al menos en el caso de la generación eléctrica.
-
-El conocimiento y la tecnología no tienen ideología, las ideologías, cuando dogmatizan, son las que distorsionan la actividad profesional, obnubilan, enceguecen, y llevan a cometer los errores que viven Cuba, Venezuela y Ecuador.
-
-Lo que estamos viviendo con los apagones, no es cuestión solamente de la falta de acción del gobierno actual (que también ha cometido muchos errores), sino consecuencia de planificaciones anteriores fallidas, mediocres y de presupuestos consumidos con anticipación, sin prever las consecuencias de la disposición de fondos, de manera anticipada, dejando carentes de ingresos a los gobiernos que les sucedieron, para tener los argumentos de criticarlos por la falta de inversión.
-
-José M. Jalil Haas
-
-‘Alas de Belleza’, así se vivió el Victoria’s Secret Fashion Show 2024
-======================================================================
-
-La icónica pasarela de lencería deslumbró al espectáculo con legendarias y nuevas supermodelos.
------------------------------------------------------------------------------------------------
-
-![La supermodelo Tyra Banks durante el cierre del espectáculo](https://www.elcomercio.com/wp-content/uploads/2024/10/banks.jpg)
-
-El **Victoria’s Secret Fashion Show** **2024** marcó el regreso de este icónico evento después de años de ausencia, desde **2019**.
-
-Este año, la pasarela de **lencería y alas** trajo consigo una visión centrada en la **diversidad** y el empoderamiento femenino.
-
-### Más noticias
-
-* [Recrea el estilo de Mia Wallace, la ‘femme fatale’ de ‘Pulp Fiction’ con estas ideas](https://www.elcomercio.com/tendencias/mia-wallace-pulp-fiction-aniversario.html "Recrea el estilo de Mia Wallace, la ‘femme fatale’ de ‘Pulp Fiction’ con estas ideas")
-* [Antonela Roccuzzo sorprende como portada de una icónica revista de moda](https://www.elcomercio.com/deportes/antonela-roccuzzo-sorprende-como-portada-iconica-revista-moda.html "Antonela Roccuzzo sorprende como portada de una icónica revista de moda")
-* [(Video) Belinda sufre un accidente en la pasarela de la Semana de la Moda de París](https://www.elcomercio.com/afull/belinda-artista-accidente-semana-moda-paris.html "(Video) Belinda sufre un accidente en la pasarela de la Semana de la Moda de París ")
-
-El espectáculo se realizó este martes 15 de octubre de 2024, en la ciudad de **Nueva York**, en Estados Unidos.
-
-El show contó con la participación de **modelos emblemáticas** como **Tyra Banks**, **Gigi Hadid**, **Jasmine Tookes** y **Candice Swanepoel**, así como nuevas caras del modelaje que reflejaron los cambios en la industria de la moda.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBKzJQPuD9X/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DBKzJQPuD9X/?utm_source=ig_embed&utm_campaign=loading)
-
-Un comienzo con mucha energía
------------------------------
-
-La cantante surcoreana **Lisa**, integrante del grupo Blackpink fue la primera en salir a escena, deslumbrando al público con un casco y montando una moto, una imagen que evocó la esencia de una auténtica ‘**Rockstar**‘.
-
-> wow lisa [pic.twitter.com/jP2HMmTTxP](https://t.co/jP2HMmTTxP)
-> 
-> — 2000s (@PopCulture2000s) [October 15, 2024](https://twitter.com/PopCulture2000s/status/1846333033609056746?ref_src=twsrc%5Etfw)
-
-Tras su presentación musical, el espectáculo comenzó con la aparición de **Gigi Hadid**, quien emergió de una plataforma con unas impresionantes alas rosas, mientras sonaba “Never Tear Us Apart” de Paloma Faith.
-
-A continuación, varias modelos salieron para formar parte del primer segmento del show, incluyendo a Imaan Hammam y Grace Elizabeth, seguidas por otras grandes figuras como Taylor Hill y **Adriana Lima**.
-
-> gigi hadid & adriana lima 🔥 [pic.twitter.com/yKypttgGUf](https://t.co/yKypttgGUf)
-> 
-> — 2000s (@PopCulture2000s) [October 15, 2024](https://twitter.com/PopCulture2000s/status/1846336992436429059?ref_src=twsrc%5Etfw)
-
-El segundo y tercer bloque contó con la presentación de **Tyla**; la cantante brilló con alas voluminosas de tul interpretando su éxito “Water”, mientras que la icónica **Candice Swanepoel** abrió la pasarela a modelos como Barbara Palvin y Josephine Skriver.
-
-El debut de **Vittoria Ceretti** fue otro de los momentos destacados de este segmento.
-
-Kate Moss, Behati Prinsloo, **Irina Shayk** y Joan Smalls cerraron con fuerza el bloque.
-
-Un cierre que no decepcionó
----------------------------
-
-Lisa regresó para interpretar “Moonlit Floor”, donde la famosa modelo **Ashley Graham** hizo su aparición en el centro de la pasarela. Este segmento también incluyó a figuras reconocidas como **Alessandra Ambrosio** y cerró con las nostálgicas, Eva Herzigová y Carla Bruni.
-
-Para cerrar con broche de oro el Victoria’s Secret Fashion Show 2024 apareció la inconfundible supermodelo **Tyra Banks**.
-
-> Tyra Banks made her return to the Victoria's Secret Runway to close the show, after 19 years.  
->   
-> At age 50, Banks graced the Victoria's Secret Runway, and ATE DOWN. [pic.twitter.com/YsbSuiFMEn](https://t.co/YsbSuiFMEn)
-> 
-> — Complex Style (@ComplexStyle) [October 16, 2024](https://twitter.com/ComplexStyle/status/1846347783395045412?ref_src=twsrc%5Etfw)
-
-**Banks** desfiló por primera vez en esta pasarela con las icónicas alas en **1998**.
-
-Detrás de ella, todas las modelos que formaron parte del desfile de lencería se unieron para marcar un final memorable y lleno de glamour.
-
-El evento fue un **espectáculo visual** para los presentes y los miles de espectadores que siguieron la transmisión a nivel mundial.
-
-Dato sobre plantaciones de coca en Ecuador viene de estudio de Estados Unidos, según EFE
-========================================================================================
-
-El estudio privado, facilitado por Estados Unidos, sobre las plantaciones de coca en Ecuador, no contiene conclusiones definitivas.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Las plantaciones de hoja de coca en Ecuador son parte de un estudio privado facilitado por Estados Unidos, según fuentes de EFE.](https://www.elcomercio.com/wp-content/uploads/2024/08/hoja-de-coca.jpg)
-
-Fuentes de la Embajada de **Estados Unidos** revelaron el origen del dato sobre las **plantaciones de coca** en **Ecuador**, este martes 15 de octubre de 2024, según la **Agencia EFE[.](https://es.wikipedia.org/wiki/Estados_Unidos)**
-
-El presidente **Daniel Noboa**, señaló que existen más de 2 000 hectáreas de cultivos ilícitos de hoja de coca en Ecuador.
-
-### Más noticias:
-
-* [Aumento de cultivos de coca en Ecuador, un problema de seguridad y estabilidad](https://www.elcomercio.com/actualidad/seguridad/el-aumento-cultivos-coca-ecuador-problema-seguridad.html "Aumento de cultivos de coca en Ecuador, un problema de seguridad y estabilidad")
-* [Daniel Noboa hizo una advertencia a grupos narcoterroristas en cadena nacional](https://www.elcomercio.com/actualidad/politica/daniel-noboa-cadena-nacional-grupos-narcoterrorismo.html "Daniel Noboa hizo una advertencia a grupos narcoterroristas en cadena nacional")
-
-La Agencia EFE señala que este dato procede de un **“estudio privado facilitado por Estados Unidos que no contiene conclusiones definitivas”.**
-
-Se trata de un análisis exploratorio, cuya finalidad es informativa y no contiene conclusiones definitivas ni recomendaciones específicas, según señalaron este martes a EFE fuentes de la Embajada de Estados Unidos en Ecuador.
-
-Estudio de Estados Unidos sobre sembríos de coca en Ecuador
------------------------------------------------------------
-
-El estudio localiza las 2 000 hectáreas en las provincias del norte de Ecuador, fronterizas con Colombia.
-
-Esos sembríos producirían unas 61 toneladas métricas de cocaína al año.
-
-El lunes, Noboa sorprendió al dar un mensaje por cadena nacional.
-
-En el mismo, señalaba que existen 2 000 hectáreas de plantaciones de coca, materia prima para elaborar la cocaína.
-
-Esto, según informes satelitales obtenidos con asistencia internacional.
-
-El mandatario aseguró que esas plantaciones habrían sido sembradas desde hace aproximadamente tres años.
-
-Ecuador, hasta ahora, no era considerado un país productor de coca, aunque en los últimos años se ha convertido en un puente para el envío al exterior (especialmente a Estados Unidos y Europa) de la droga que se procesaba en Colombia y Perú, los dos mayores productores en el mundo de cocaína.
-
-El anuncio presidencial llamó la atención, aunque la superficie de 2 000 en Ecuador es muy pequeña comparada con las 230 000 hectáreas en Colombia y las 92.000 en Perú en 2023.
-
-A inicios de año, el presidente Noboa elevó la lucha contra el crimen organizado a la categoría de “conflicto armado interno”.
-
-La Embajada de Estados Unidos no se ha pronunciado sobre esta información hasta el cierre de esta publicación.
-
-Caso Metástasis, así operaba la red de Leandro Norero, según la Fiscalía
-========================================================================
-
-El caso Metástasis ha revelado una extensa red de corrupción y crimen organizado dirigida por Leandro Norero.
--------------------------------------------------------------------------------------------------------------
-
-![30 procesados fueron llamados a juicio por el caso Metástasis.](https://www.elcomercio.com/wp-content/uploads/2024/10/metastasis.jpg)
-
-El **caso Metástasis** ha revelado una extensa red de corrupción y crimen organizado dirigida por **Leandro Norero**, también conocido como **‘El Patrón’**.
-
-### Más noticias
-
-* [Fiscalía formuló cargos contra exasambleísta por presunta concusión](https://www.elcomercio.com/actualidad/seguridad/fiscalia-formulo-cargos-contra-exasambleista-presunta-concusion.html "Fiscalía formuló cargos contra exasambleísta por presunta concusión")
-* [Caso Metástasis, 30 vinculados podrían enfrentar estas sentencias](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-30-vinculados-podrian-enfrentar-sentencias.html "Caso Metástasis, 30 vinculados podrían enfrentar estas sentencias")
-* [Fiscalía hizo un pedido sobre las amenazas de Colón Pico a Diana Salazar](https://www.elcomercio.com/actualidad/seguridad/fiscalia-hizo-pedido-sobre-amenazas-de-colon-pico-diana-salazar.html "Fiscalía hizo un pedido sobre las amenazas de Colón Pico a Diana Salazar")
-
-De acuerdo con la Fiscalía General del Estado, esta estructura criminal operaba en diversas áreas, involucrando a **funcionarios públicos, policías y civiles en actividades ilícitas** relacionadas con el **lavado de activos, tráfico de drogas y sobornos a miembros del poder judicial**.
-
-Leandro Norero fue la cabeza del caso Metástasis
-------------------------------------------------
-
-Leandro Norero es señalado como el **líder de la red criminal**. Según la Fiscalía, dirigía las operaciones de lavado de dinero**, tráfico de drogas y armas**, y mantenía una extensa red de colaboradores para garantizar la impunidad de sus actividades.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): 30 procesados son llamados a juicio. [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) los procesa por su presunta participación en el delito de [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Detalles ⬇️[https://t.co/K9hBVKTZSM](https://t.co/K9hBVKTZSM) [pic.twitter.com/Tt7U2orq4j](https://t.co/Tt7U2orq4j)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 8, 2024](https://twitter.com/FiscaliaEcuador/status/1843451035467296949?ref_src=twsrc%5Etfw)
-
-Norero habría utilizado su influencia y sus conexiones para sobornar a **funcionarios públicos y judiciales**, garantizando así el éxito de sus **operaciones ilícitas**. Según las comunicaciones recuperadas, también ejercía control sobre otras **actividades financieras de la organización**.
-
-Red de influencias judiciales
------------------------------
-
-**Xavier N.**, abogado de confianza de Norero, fue un actor clave en la organización.
-
-Según la Fiscalía, Xavier N. actuaba como **coordinador de una red de influencias** dentro del poder judicial, especialmente en la **provincia del Guayas**.
-
-Facilitaba el pago de sobornos para asegurar beneficios judiciales para Norero y su familia, además de gestionar contactos dentro de la **Fiscalía y el sistema judicial** para manipular procesos judiciales en curso.
-
-Las pruebas incluyen conversaciones en las que se **negocian sobornos y arreglos judiciales** a favor de la red.
-
-Según la Fiscalía, Wilman T., habría solicitado **2 millones de dólares a través de Alex P**. a cambio de facilitar la liberación de Israel N., hermano de Leandro Norero.
-
-> [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw)[#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw)[#LlamadosAJuicio](https://twitter.com/hashtag/LlamadosAJuicio?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/rKTGZVucb5](https://t.co/rKTGZVucb5)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 7, 2024](https://twitter.com/FiscaliaEcuador/status/1843433873369145509?ref_src=twsrc%5Etfw)
-
-Debido a la alta cantidad solicitada, Leandro Norero optó por pagar **10 000 dólares en efectivo** para demorar el trámite del **hábeas corpus**, mientras se negociaba con el juez de la causa principal de lavado de activos. El dinero fue entregado a Alex P., quien a su vez lo habría destinado a Wilman T.
-
-Wilman T. habría actuado como **juez de la Corte Nacional de Justicia** y facilitado la compra de decisiones judiciales en el hábeas corpus.
-
-Alex P., subcoordinador de su despacho, y Helive A. también habrían intervenido, como evidencian fotos y mensajes entre ellos. **Alex P. y Helive A.** reconocieron los hechos y se acogieron a procedimientos abreviados.
-
-Operador Financiero y colaboradores del caso Metástasis
--------------------------------------------------------
-
-**Marcel L**., conocido como **‘El Joyero’**, fungía como el operador financiero de la organización. Su rol era gestionar grandes sumas de dinero y propiedades, muchas de ellas pertenecientes a **Leandro Norero**, de acuerdo con las investigaciones.
-
-También facilitaba la adquisición de **réplicas de joyas y relojes de alta gama**. Además, las autoridades aseguran que Marcel L. manejaba **fondos destinados al financiamiento de otras actividades delictivas** relacionadas con la red de Norero.
-
-Ronny A. según la Fiscalía los actos de colaboración encargados estaban orientados a hacer una contención política sobre las denuncias realizadas por **Fernando Villavicencio**. En esa época, Villavicencio había denunciado los vínculos de **Xavier J. y Leandro Norero**.
-
-Otros roles en la red de Leandro Norero
----------------------------------------
-
-**Ronald G.**, juez de garantías penales en Guayas, habría jugado un **rol fundamental en la organización**. La Fiscalía sostiene que Ronald G. facilitaba decisiones judiciales a favor de Norero a **cambio de pagos significativos**.
-
-En varias conversaciones obtenidas por la Fiscalía, se menciona su implicación **directa en negociaciones para evitar medidas cautelares** y sobreseimientos de casos judiciales importantes para la red de Norero.
-
-Carlos Z., quien actuaba como presidente de la [Corte Provincial de Manabí](https://es.wikipedia.org/wiki/Corte_Suprema_de_Justicia_(Ecuador) "https://es.wikipedia.org/wiki/Corte_Suprema_de_Justicia_(Ecuador)"), es señalado como parte del entramado judicial que favorecía a Norero.
-
-Según los chats y documentos obtenidos por la Fiscalía**, Carlos Z. habría coordinado con Helive A. y otros miembros de la organización** para bloquear el avance de **procesos judiciales en Manabí**.
-
-Además, se afirma que intervino en la gestión de **hábeas corpus** a cambio de sumas que rondaban los 150 000 dólares.
-
-Depósitos bancarios y traslados
--------------------------------
-
-Pablo R., general de la Policía Nacional en servicio pasivo, desempeñaba un rol crucial al facilitar favores administrativos dentro del Servicio Nacional de Atención Integral a Personas Privadas de Libertad (SNAI).
-
-De acuerdo con las conversaciones recuperadas por la Fiscalía, Pablo R. habría intervenido directamente en el t**raslado y manejo de detenidos para beneficiar a Norero y su familia**.
-
-Doris O., oficial de la **Dirección de Investigación de Lavado de Activos (Dilat)**, es acusada de manipular información financiera a favor de la **red de Norero**.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): con la presencia –vía telemática– de la fiscal general del Estado, Diana Salazar, se reinstala la audiencia preparatoria de juicio. El juez Manuel Cabrera informará si llama o no a juicio a los 37 procesados por presunta [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/87xHBhwVan](https://t.co/87xHBhwVan)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 7, 2024](https://twitter.com/FiscaliaEcuador/status/1843374211655709024?ref_src=twsrc%5Etfw)
-
-Según la Fiscalía, Doris O. habría filtrado **datos confidenciales** a los líderes de la organización, facilitando que se eliminaran **rastros de actividades financieras** vinculadas a los procesos de lavado de activos.
-
-Brazo Policial clave en la investigación
-----------------------------------------
-
-**Fernando G. y Edinn I**., servidores policiales, habrían colaborado con la organización al **brindar auxilio policial** para proteger las **propiedades de Norero**.
-
-Se menciona su participación en la custodia de bienes incautados durante los operativos en Samborondón. Ambos habrían sido reclutados por **Fabián C., alias ‘Yankee’**, otro miembro clave de la organización que gestionaba las relaciones entre la **policía y la red criminal**.
-
-Lionel Messi, inspirado, golea a Bolivia con Argentina
-======================================================
-
-La Selección de Argentina vapuleó a Bolivia en eliminatorias con un 6-0 en el cual Lionel Messi marcó un 'hat-trick'.
----------------------------------------------------------------------------------------------------------------------
-
-![Lionel Messi, capitán de la Selección de Argentina, ante Bolivia en eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/0c5b0a13d210e19d004272121fe0e9387b111e87.jpg)
-
-La S**elección de Argentina** volvió al triunfo con una aplastante goleada por 6-0 ante Bolivia y ratificó su condición de único líder con **22 puntos** en las eliminatorias sudamericanas para el Mundial de 2026, mientras que **Bolivia** cayó a la zona de repesca con 12 unidades.
-
-Con un triplete de **Lionel Messi** (m.19, m.84 y m.86) y los restantes de **Lautaro Martínez** (m.43), **Julián Álvarez** (m.45+3) y **Thiago Almada** (m.69), la Albiceleste sumó su séptima victoria en diez presentaciones y mantuvo la ventaja de tres puntos sobre su escolta Colombia.
-
-### Más noticias:
-
-* [Beccacece destacó el compromiso de la Selección de Ecuador ante Uruguay](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-compromiso-uruguay.html "Beccacece destacó el compromiso de la Selección de Ecuador ante Uruguay")
-* [Paraguay remonta y le da su primera victoria a Gustavo Alfaro](https://www.elcomercio.com/deportes/futbol/partido-paraguay-venezuela-alfaro-eliminatorias.html "Paraguay remonta y le da su primera victoria a Gustavo Alfaro")
-* [Colombia golea y hunde a Chile en las eliminatorias](https://www.elcomercio.com/deportes/futbol/colombia-chile-eliminatorias-partido-resultado.html "Colombia golea y hunde a Chile en las eliminatorias")
-
-Bolivia, en tanto, sufrió su primer traspié luego de tres victorias consecutivas desde la llegada de **Óscar Villegas** como entrenador en su visita a Buenos Aires.
-
-Con un tridente ofensivo por primera vez desde el comienzo para Argentina con Lionel Messi, Julián Álvarez y Lautaro Martinez, el técnico **Lionel Scaloni** apostó a una formación ofensiva.
-
-**Bolivia**, en tanto, armó un equipo replegado para salir de **contragolpe** con Miguel Terceros y Carmelo Algarañaz, pero tuvo pocas opciones para llevarle peligro a la valla defendida por Gerónimo Rulli.
-
-Argentina y Lionel Messi dominaron desde el inicio
---------------------------------------------------
-
-El partido tuvo un dominio territorial y de la pelota del local que en el minuto 19 abrió el marcador con una presión de **Lautaro Martínez** que derivó en una pelota en profundidad para una definición exquisita de **Lionel Messi** que batió a Guillermo Viscarra.
-
-Argentina no cesó en su presión y sólo tuvo un golpe de cabeza de **Robson Matheus** que controló Gerónimo Rulli como única aproximación con peligro de la visita.
-
-Dos tiros libres ejecutados por **Lionel Messi**, primero un disparo por encima del travesaño y luego una salvada espectacular de Viscarra, marcaron la antesala de una recta final de los tantos finales para Argentina.
-
-En el minuto 43 una conexión de **Julián Álvarez** en profundidad para Lionel Messi, dejó al capitán cediendo un pase gol para **Lautaro Martínez** que conectó a la red[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina")
-
-Y cinco minutos después una habilitación perfecta de **Lionel Messi** derivó en una llegada de Julián Álvarez de frente a la portería para tocar ante la salida de Viscarra y marcar el tercero del local.
-
-Tres goles albicelestes más para el segundo tiempo
---------------------------------------------------
-
-En el segundo tiempo, la Albiceleste siguió presionando y en el comienzo tuvo la opción del cuarto gol con un golpe de cabeza certero de **Nicolás Otamendi** en una acción que fue invalidada por una posición adelantada de **Nicolás Tagliafico**.
-
-Luego en una jugada colectiva, un remate de **Alexis Mac Allister** terminó con otra intervención de Guillermo Viscarra, luego le quedó una pelota a Lionel Messi en el área que sacó un disparo que desvió con lo justo **Luis Haquín** y desde el córner un golpe de cabeza de **Julián Álvarez** se fue apenas desviado.
-
-Y luego de dos opciones más, el cuarto llegó en el minuto 69 con un pase largo de Leandro Paredes para **Nahuel Molina** y un centro atrás para la llegada del ingresado **Thiago Almada** para convertir.
-
-Luego hubo rotación de banquillos para ambos equipos y **Lionel Scaloni** se dio el gusto de hacer debutar a **Nicolás Paz** con la casaca albiceleste.
-
-Pero todavía faltaba redondear el acto estelar de **Lionel Messi**: primero en el minuto 84 recibió un pase de Nahuel Molina y definió con calidad y dos minutos más tarde hizo un eslalon antes de sacar su remate furibundo para sellar la goleada.
-
-Luego de este triunfo, **Argentina** afrontará la última doble fecha FIFA de noviembre ante **Paraguay** en Asunción y **Perú** en Buenos Aires, mientras que Bolivia buscará la rehabilitación frente a **Ecuador** en Quito y **Paraguay** en El Alto.
-
-Alineaciones de Argentina y Bolivia
------------------------------------
-
-**Argentina**: Gerónimo Rulli; Nahuel Molina Lucero, Cristian Romero, Nicolás Otamendi (m.72, Lisandro Martínez) y Nicolás Tagliafico; Rodrigo De Paul (m.64, Exequiel Palacios), Enzo Fernández y Alexis Mac Allister (m.64, Leandro Paredes); Lionel Messi, Lautaro Martinez (m.72, Nicolás Paz) y Julián Álvarez (m.64, Thiago Almada).
-
-**DT**: Lionel Scaloni.
-
-**Bolivia**: Guillermo Viscarra; Diego Medina, Luis Haquín, Marcelo Suárez, José Sagredo y Roberto Fernández (m.66, Luis Fernando Paz); Gabriel Villamil, Robson Matheus (m.78, Adalid Terrazas) y Ramiro Vaca; Miguel Terceros (m.66, Lucas Chávez) y Carmelo Algarañaz (m.78, Enzo Monteiro).
-
-**DT**: Óscar Villegas
-
-Beccacece destacó el compromiso de la Selección de Ecuador ante Uruguay
-=======================================================================
-
-Sebastián Beccacece dio a conocer su satisfacción con la actitud de la Selección de Ecuado ante Uruguay en eliminatorias.
--------------------------------------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece, DT de la Selección de Ecuador, en su partido frente a Uruguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/95d78bd4f3cfffa1e94b100430d7f42473995d06.jpg)
-
- El seleccionador de Ecuador, **Sebastián Beccacece**, destacó este martes el compromiso de su equipo en el encuentro que igualó 0-0 con Uruguay en el estadio Centenario de Montevideo.
-
-“**Creo que las intenciones de los dos equipos estuvieron clarísimas, intentaron ganar el partido cada uno con sus formas**“, dijo el argentino sobre un juego que definió como intenso y disputado.
-
-Si bien el técnico argentino apuntó que las situaciones de gol de los uruguayos fueron “**más claras**” que las de Ecuador, remarcó que en el segundo tiempo la Tri estuvo muy bien en el campo.
-
-### Más noticias:
-
-* [Hernán Galíndez, la figura de la Selección de Ecuador ante Uruguay](https://www.elcomercio.com/deportes/seleccion-ecuador-hernan-galindez-uruguay.html "Hernán Galíndez, la figura de la Selección de Ecuador ante Uruguay")
-* [La Selección de Ecuador rescató un punto ante Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-en-vivo-partido.html "La Selección de Ecuador rescató un punto ante Uruguay")
-* [Los líderes y capitanes de Sebastián Beccacece en la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/lideres-capitanes-sebastian-beccacece-seleccion-de-ecuador.html "Los líderes y capitanes de Sebastián Beccacece en la Selección de Ecuador")
-
-Por otra parte, el seleccionador destacó la **labor defensiva** de su equipo, que en los últimos siete juegos de eliminatorias apenas ha encajado un gol.
-
-Además, destacó el debut de **Keny Arroyo** en un escenario “histórico” y dijo que los jugadores que están disputando sus primeros encuentros deben ser el futuro de Ecuador, pero que “hay que llevarlos de a poco”.
-
-Con el 0-0, la Celeste llegó a 16 puntos en la **clasificación** y Ecuador es quinto con 13 unidades.
-
-Marcelo Bielsa consideró que mereció más ante la Selección de Ecuador
----------------------------------------------------------------------
-
-El entrenador argentino **Marcelo Bielsa**, afirmó que la selección de Uruguay mereció “establecer diferencias” en el partido que igualó 0-0 con Ecuador en la décima jornada de las eliminatorias sudamericanas del Mundial de 2026[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
-
-“En el primer tiempo se vieron muchas de las cosas que perseguimos, si bien no con el brillo y la contundencia anterior. Y en el segundo **defendimos bien, pero no creamos peligro y el partido se cerró**“, dijo el entrenador argentino en conferencia de prensa.
-
-Dijo que en el primer tiempo la Celeste creó **siete situaciones de go**l, lo que es “bastante” y más en el fútbol actual.
-
-“En el segundo tiempo no pudimos prolongar esa **sensación de peligro**“, apuntó el director técnico, quien recordó que en la anterior jornada, en la que Uruguay cayó frente a Perú, su equipo mostró una versión opaca.
-
-Más allá de esto, dijo que este martes Uruguay no fue superado, salvo en los últimos 15 minutos del juego disputado en el estadio Centenario, aunque subrayó que **no logró crear peligro**.
-
-“**Tampoco nos crearon peligro y en períodos como el que estamos recorriendo a veces tiene valor no recibir goles**“, enfatizó.
-
-Cortes de luz complican al sector industrial; 3 647 trabajadores fueron despedidos en un mes
-============================================================================================
-
-El Ministerio de Trabajo detalló cuáles fueron las áreas con más despidos intempestivos dentro de la industria, en septiembre.
-------------------------------------------------------------------------------------------------------------------------------
-
-![El sector industrial se mantiene en conversaciones con el Gobierno para encontrar acuerdos, en medio de la crisis energética](https://www.elcomercio.com/wp-content/uploads/2024/10/manufactura-a.jpg)
-
-La **crisis energética** en Ecuador afectó a **miles de personas** que perdieron sus trabajos como consecuencia de los problemas que enfrenta el sector industrial.
-
-Los **apagones programados** que se aplican desde el Gobierno no solo complican las **actividades diarias** de los ciudadanos que comercializan productos y servicios de forma directa.
-
-### Más noticias
-
-* [Ministerio de Energía anunció un cambio en la Dirección del Cenace](https://www.elcomercio.com/actualidad/ecuador/ministerio-energia-cambio-direccion-cenace.html "Ministerio de Energía anunció un cambio en la Dirección del Cenace")
-* [Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito](https://www.elcomercio.com/actualidad/quito/cortes-energia-suman-2024-fatal-restaurantes-quito.html "Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito")
-* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
-
-Si no que también, de acuerdo a cifras del **Ministerio del Trabajo**, han afectado a trabajadores privados y dependientes.
-
-Luego del anuncio que hizo la Corporación Nacional de Electricidad (**CNEL**), el 5 de octubre, sobre los cortes de luz prolongados de **10 horas** que tendría el sector industrial, por dos semanas consecutivas; el Comité Empresarial Ecuatoriano rechazó la medida y buscó el **acercamiento** con el Gobierno.
-
-De acuerdo con la ministra encargada de Energía, **Inés Manzano**, estas mesas de trabajo provinciales se mantienen activas para planificar el racionamiento energético.
-
-3 647 empleados fueron despedidos
----------------------------------
-
-Lo que sí es una realidad es que las industrias se han visto afectadas gravemente por los **cortes de luz** a nivel nacional, causando el despido de al menos **3 647 ciudadanos**.
-
-Según el Ministerio de Trabajo, este número de personas perdieron sus empleos por despido intempestivo.
-
-Según recoge el medio Ecuavisa, los sectores más afectados fueron la **manufactura textil**, el comercio y la agricultura.
-
-En estas áreas fueron despedidas **719**, **663** y **373** personas respectivamente.
-
-Así mismo, el sector financiero, profesional y educativo tuvo un recorte de **652 ciudadanos**; y la construcción, un despido de **127 trabajadores**.
-
-Todavía no se conocen de forma puntual, los acuerdos entre el Gobierno y el sector para superar esta crisis energética, que de a poco, se convierte en una **problemática económica y social** en crecimiento.
-
-Tres instituciones firman convenio sobre las telecomunicaciones en cárceles
-===========================================================================
-
-El convenio sobre las telecomunicaciones en las cárceles fue firmado por tres autoridades estatales.
-----------------------------------------------------------------------------------------------------
-
-![Las telecomunicaciones en cárceles entran a regulación a través de un convenio.](https://www.elcomercio.com/wp-content/uploads/2021/08/carcelesquevedo.jpg)
-
-Tres instituciones estatales firmaron un **convenio** sobre las **telecomunicaciones** en las **cárceles**, este martes 15 de octubre de 2024.
-
-La finalidad es reforzar la **seguridad** en los centros de privación de la libertad.
-
-### Más noticias:
-
-* [Cuatro funcionarios de cárceles asesinados en menos de 15 días](https://www.elcomercio.com/actualidad/seguridad/cuatro-funcionarios-de-carceles-asesinados-en-menos-de-15-dias.html "Cuatro funcionarios de cárceles asesinados en menos de 15 días")
-* [Nueva cárcel El Encuentro tiene un avance del 30 %](https://www.elcomercio.com/actualidad/seguridad/nueva-prision-el-encuentro-avance.html "Nueva cárcel El Encuentro tiene un avance del 30 %")
-
-El documento fue firmado por los titulares del **Ministerio del Interior**, el **Ministerio de Telecomunicaciones y de la Sociedad de la Información (Mintel)** y la **Agencia de Regulación y Control de las Telecomunicaciones  (Arcotel).**
-
-La intención es promover la seguridad, el control interno y el orden público en los Centros de Privación de Libertad (CPL).
-
-En los últimos años, la **crisis carcelaria** en Ecuador se agudizó con masacres, botines y sobrepoblación, entre otros problemas.
-
-Aunque los últimos meses ya no se han reportado masacres, existen ejemplos de cómo los líderes de las organizaciones delictivas usaban las telecomunicaciones para ordenar desde la cárcel.
-
-Este fue el caso de **Leandro Norero (+)**, artífice de la red de delincuencia organizada en el caso denominado **Metástasis**.
-
-Él, desde la cárcel de Cotopaxi, con sus dispositivos móviles, controlaba y ordenaba a jueces, abogados y demás funcionarios.
-
-Todo con el fin de obtener beneficios penitenciarios y judiciales para él y sus familiares.
-
-La Fiscalía los investigaba por lavado de activos.
-
-El convenio tripartito sobre las telecomunicaciones en las cárceles
--------------------------------------------------------------------
-
-La ministra del Interior, **Mónica Palencia**, explicó que el documento busca promover la seguridad y control interno en estos lugares.
-
- Palencia dijo que la coordinación interinstitucional permitirá promover una seguridad integral alrededor de las cárceles.
-
-Esto, para evitar que estos lugares se conviertan en “centros de mando operacional del crimen organizado (…) y que las telecomunicaciones sean utilizadas para el narcotráfico”.
-
-**César Martín**, ministro de Telecomunicaciones y Sociedad de la Información, dijo que es una responsabilidad del Gobierno el combatir en varias instancias el crimen organizado.
-
-“Desde el sector de las Telecomunicaciones estamos comprometidos en desplegar las acciones requeridas para poder gestionar un ecosistema tecnológico seguro, promoviendo la seguridad ciudadana”, agregó.
-
-El **Ministerio del Interior recibirá información actualizada y en tiempo real sobre el estado de los servicios de telecomunicaciones en las cárceles**.
-
-Esto permitirá ejecutar el control, monitoreo continuo y sistemático de estos servicios.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-13-1024x766.png)
-
-Foto: Ministerio del Interior
-
-El Ministerio del Interior y el **Servicio Nacional de Atención Integral a Personas Privadas de la Libertad y Adolescentes Infractores (SNAI)** coordinarán con el Mintel la información necesaria.
-
-Hernán Galíndez, la figura de la Selección de Ecuador ante Uruguay
-==================================================================
-
-Hernán Galíndez salvó a la Selección de Ecuador de una derrota como visitante frente a Uruguay en las eliminatorias al Mundial 2026.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Hernán Galíndez previo a realizar una ataja que evitó la derrota de la Selección de Ecuador ante Uruguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000145671.jpg)
-
-La **Selección de Ecuador** rescató un punto a **Uruguay y Hernán Galíndez** fue uno de los principales responsables para que aquello suceda. El arquero del combinado nacional tuvo atajadas determinantes que impidieron la derrota de la Tri.
-
-Para el choque de la **décima fecha** de las eliminatorias, celebrado este martes 15 de octubre del 2024, los charrúas recibieron a los ecuatorianos en **Montevideo**. La escuadra visitante consiguió mantener el arco imbatido y firmó un 0-0 en un duelo en el que ambas escuadras definieron el dominio.
-
-### Más noticias:
-
-* [La Selección de Ecuador rescató un punto ante Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-en-vivo-partido.html "La Selección de Ecuador rescató un punto ante Uruguay")
-* [Los líderes y capitanes de Sebastián Beccacece en la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/lideres-capitanes-sebastian-beccacece-seleccion-de-ecuador.html "Los líderes y capitanes de Sebastián Beccacece en la Selección de Ecuador")
-* [¿Cómo llega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/seleccion-ecuador-tabla-uruguay-partido.html "¿Cómo llega la Selección de Ecuador ante Uruguay?")
-
-Desde los primeros minutos del compromiso, Galíndez se mostró como la figura del equipo dirigido por **Sebastián Beccacece**. Aunque la Selección de Ecuador fue la primera que acosó el área rival, aquello fue la antesala de la supremacía y llegadas uruguayas en los 45 minutos iniciales.
-
-Un tiro libre con destino de gol y tres remates al arco marcaron la actuación de Galíndez. En la única ocasión en la que no consiguió llegar al balón, y que constituyó peligro para su elenco, fue en un remate de **Darwin Núñez** que se estrelló en el poste.
-
-Las atajadas de Hernán Galíndez y su desempeño con la Selección de Ecuador
---------------------------------------------------------------------------
-
-La primera gran salvada de **Hernán Galíndez** fue en un el lanzamiento libre de Federico Valverde. El remate sobrepasó la barrera de la Selección de Ecuador y estaba para ingresar a un costado del palo en las mallas laterales, sin embargo, se interpuso la mano del guardameta.
-
-En las tres oportunidades, **Uruguay** ensayó remates que lo obligaron a lanzarse y evitar los tantos con rebotes o rechaces al córner. Asimismo, la mayoría de **atajadas** del argentino nacionalizado ecuatoriano se produjeron en el área chica, tres de las cuatro que realizó se dieron en aquella zona[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
-
-Con respecto a las salidas mano a mano contra sus rivales, la única que realizó fue efectiva. De igual forma, **Galíndez** tuvo 40 toques de balón.
-
-¿Cómo queda la Selección de Ecuador tras su empate?
----------------------------------------------------
-
-El empate en Montevideo deja a la **Selección de Ecuador** en el quinto puesto de las eliminatorias y aún la mantiene en zona de clasificación hacia el **Mundial de 2026.** En total, el conjunto tricolor suma 13 puntos.
-
-Para **Uruguay**, el resultado tampoco lo desplaza en la tabla. La ‘Celeste’ se mantiene en el tercer puesto con **16 unidades**.
-
-‘Chito’ Vera visitó al Barcelona SC y se entrenó con la olímpica Luisa Valverde
-===============================================================================
-
-Marlon 'Chito' Vera aprovechó su paso por Ecuador para visitar a su amigo Joao Rojas y a otros jugadores del Barcelona SC.
---------------------------------------------------------------------------------------------------------------------------
-
-![Segundo Alejandro Castillo y Marlon 'Chito' Vera en una práctica de Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-58.jpg)
-
-**Marlon ‘Chito’ Vera**, destacado luchador ecuatoriano de la **UFC,** continúa disfrutando de su tiempo en Ecuador y decidió conectar con otros atletas.
-
-Recientemente, se le vio en un gimnasio de lucha, practicando junto a la olímpica Luisa Valverde, quien se destacó en los **Juegos Olímpicos de París 2024**. Además, el manabita visitó al **Barcelona SC.**
-
-### Más noticias:
-
-* [‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador](https://www.elcomercio.com/deportes/chito-vera-moises-caicedo-seleccion-ecuador.html "‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador")
-* [Marlon ‘Chito’ Vera sorprende en Guayaquil jugando fútbol con niños](https://www.elcomercio.com/deportes/futbol/marlon-chito-vera-futbol-ninos-guayaquil.html "Marlon ‘Chito’ Vera sorprende en Guayaquil jugando fútbol con niños")
-* [Sean O’Malley, exrival de ‘Chito’ Vera, perdió el título de la UFC](https://www.elcomercio.com/deportes/artes-marciales/ufc-chito-vera-sean-omalley-dvalishvili.html "Sean O’Malley, exrival de ‘Chito’ Vera, perdió el título de la UFC")
-
-En videos compartidos en redes sociales, Vera, experto en artes marciales mixtas, mostró su versatilidad al entrenar con Valverde, quien es especialista en lucha.
-
-Además, el manabita visitó a los jugadores del Barcelona SC en Guayaquil, donde recibió un cálido recibimiento.
-
-El director técnico, Segundo Alejandro Castillo, compartió en Instagram imágenes de la visita, agradeciendo a Vera por su tiempo.
-
-“Que gusto conocerlo en persona”, respondió ‘Chito’, reflejando la camaradería del encuentro.
-
-Joao Rojas, jugador del Barcelona SC, también mostró su emoción al compartir fotos con el luchador y el excampeón de la UFC, Luke Rockhold, quien lo acompaña en sus vacaciones.
-
-> Luisa Valverde diploma olímpico de lucha en Paris vs Chito Vera peleador UFC… ufff!!! [pic.twitter.com/wekgqLjbON](https://t.co/wekgqLjbON)
-> 
-> — Daniel Novillo (@mmafanecuador) [October 15, 2024](https://twitter.com/mmafanecuador/status/1846223463125832105?ref_src=twsrc%5Etfw)
-
-Marlon ‘Chito’ Vera
--------------------
-
-La relación entre Vera y Rojas se remonta a varios años, y se ha documentado a ‘Chito’ vistiendo la camiseta del futbolista cuando este jugaba en Emelec.
-
-La conexión con sus raíces es evidente, ya que en días anteriores, Vera sorprendió a un grupo de niños jugando fútbol en una calle de Guayaquil.
-
-A pesar de un 2024 complicado, donde ha enfrentado dos derrotas en la UFC, Vera sigue siendo un referente en el deporte ecuatoriano.
-
-Con una posición en el top 10 de su división, su espíritu competitivo permanece intacto mientras espera relanzar su carrera en la UFC.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBJ2ul7Sshq/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Joao Rojas (@joaorojas1997)](https://www.instagram.com/p/DBJ2ul7Sshq/?utm_source=ig_embed&utm_campaign=loading)
-
-Paraguay remonta y le da su primera victoria a Gustavo Alfaro
-=============================================================
-
-La Selección de Paraguay encontró su primer triunfo al mando de Gustavo Alfaro tras dar la vuelta el partido contra Venezuela.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Julio Enciso y Diego Gómez celebran el triunfo de la Selección de Paraguay, que dirige Gustavo Alfaro, ante Venezuela.](https://www.elcomercio.com/wp-content/uploads/2024/10/ac7ce8971bdc13e1f595da92e17470b7f2016929.jpg)
-
-Un doblete del delantero **Antonio Sanabria**, del Torino italiano, dio este martes una victoria crucial por 2-1 a Paraguay sobre Venezuela que la ubicó en el sexto puesto, en un partido por la décima fecha de la eliminatoria sudamericana al **Mundial de 2026** disputado en Asunción.
-
-Paraguay remontó gracias a **Sanabria** que igualó a los 59, después de que la ‘Vinotinto’ abriera las acciones a los 25 minutos con Jon Aramburu, del Real Sociedad español, y repitió la dosis en el minuto 74, sentenciando así el segundo triunfo guaraní en la era de **Gustavo Alfaro** que catapultó a la Albirroja a los puestos de clasificación directa al Mundial 2026.
-
-### Más noticias:
-
-* [La Selección de Ecuador rescató un punto ante Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-en-vivo-partido.html "La Selección de Ecuador rescató un punto ante Uruguay")
-* [Los líderes y capitanes de Sebastián Beccacece en la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/lideres-capitanes-sebastian-beccacece-seleccion-de-ecuador.html "Los líderes y capitanes de Sebastián Beccacece en la Selección de Ecuador")
-* [¿Cómo llega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/seleccion-ecuador-tabla-uruguay-partido.html "¿Cómo llega la Selección de Ecuador ante Uruguay?")
-
-Mientras que **Venezuela** ha perdido el rumbo. No gana desde hace seis fechas, es octava con 11 puntos y salió de las casillas de privilegio.
-
-Paraguay sacó nuevamente la garra este martes y se anotó el triunfo en casa, después de que venció a **Brasil** por 1-0 en la octava fecha.
-
-Los pupilos de **Alfaro** abrieron fuegos desde los primeros compases del reloj, lo que presagió la intensidad del compromiso.
-
-Venezuela se puso primera en el marcador ante Paraguay
-------------------------------------------------------
-
-Con un primer tiempo marcado por faltas y varias amarillas que el réferi chileno **Piero Maza** debió exhibir en busca de calmar los bríos, los guaraníes intentaban marcar la pauta del compromiso ante una selección venezolana que no abandonaba sus líneas.
-
-**Julio Enciso y Miguel Almirón**, las dos estrellas paraguayas en la liga inglesa, comandaban las acciones hacia el área Vinotinto, que hasta entonces contenía en bloque la arremetida Albirroja.
-
-Fue así como, al minuto 14, **Enciso** avanzó veloz por un costado de la cancha y ensayó un disparo que Rafael Romo pudo controlar. Minutos después llegó el turno para **Almirón**, quien conectó de cabeza una pelota y la envió por encima del arco rival.
-
-Y cuando **Paraguay** parecía tener el control, un contragolpe venezolano sorprendió a los locales, que se vieron superados por una jugada orquestada hábilmente en el centro del campo por **Yeferson Soteldo**, quien atravesó de derecha a izquierda con el balón dominado hasta que lo puso en los pies de Aramburu.
-
-El defensa de la **Real Sociedad** supo capitalizar la oportunidad con un tiro desde media distancia que puso en ventaja a Venezuela y al que no logró llegar el experimentado **Roberto Fernández**.
-
-Lejos de perder ímpetu, el equipo guaraní buscó recomponerse e insistió hasta conseguir un penalti tras una falta contra **Gustavo Gómez**.
-
-Antonio Sanabria catapultó al Paraguay de Gustavo Alfaro
---------------------------------------------------------
-
-Sin embargo, **Enciso** desperdició la opción de igualar el marcador al minuto 41, con un cobro con escasa proyección que terminó en las manos del guardameta venezolano[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-El regreso del descanso trajo dos cambios providenciales: **Ángel Romero y Antonio Sanabria**, cuya presencia imprimió un nuevo aire al planteo de Alfaro.
-
-Fue así como **Sanabria** apareció al minuto 59 a un costado del área para recoger un pase servido por Junior Alonso, quien tomó un taco que adornó la noche de **Almirón**.
-
-Y a los 74 nuevamente el delantero del club italiano estuvo frente al arco para complementar de cabeza un toque intentado sin éxito por **Enciso** y poner el 2-1 definitivo.
-
-El Defensores del Chaco estalló de alegría y celebró, después de 15 años, dos victorias consecutivas en una eliminatoria y, de paso, quebró la estadística en contra ante **Venezuela**, que se había impuesto en sus visitas a la ‘**Albirroja**‘ en 2012 y 2017.
-
-El resultado impulsó a **Paraguay** al sexto puesto de la clasificación, con 13 unidades, mientras Venezuela quedó octavo, por fuera de la posición de repesca, con 11 enteros.
-
-Alineaciones de Paraguay y Venezuela
-------------------------------------
-
-**Paraguay**: Roberto Fernández; Juan Cáceres, Gustavo Gómez, Omar Alderete, Junior Alonso, Andrés Cubas, Diego Gómez (Damián Bobadilla, m.80), Miguel Almirón (Fabián Balbuena, m.80), Julio Enciso (Mathías Villasanti, m.88), Ramón Sosa (Ángel Romero, m.46) e Isidro Pitta (Antonio Sanabria, m.46).
-
-**DT**: Gustavo Alfaro.
-
-**Venezuela**: Rafael Romo; Nahuel Ferraresi (Jesús Ramírez, m.88), Jon Aramburu, Yangel Herrera, Jefferson Savarino (Jhonder Cádiz, m.66), Yeferson Soteldo, Darwin Machís (Eduard Bello, m.79), Eric Ramírez, Miguel Navarro, Cristian Cásseres (Telasco Segovia, m.80) y Salomón Rondón.
-
-**DT**: Fernando Batista.
-
-Cortes de luz en Cuenca para este miércoles 16 de octubre
-=========================================================
-
-Centrosur detalló los horarios y sectores con cortes energéticos en la ciudad austral.
---------------------------------------------------------------------------------------
-
-![El servicio eléctrico en Cuenca está a cargo de la Empresa Eléctrica Centrosur](https://www.elcomercio.com/wp-content/uploads/2024/10/cortess.jpg)
-
-La Empresa de Energía Eléctrica **Centrosur**, que brinda el servicio para **Cuenca** y la provincia de Azuay, publicó los horarios de cortes de luz planificados para este miércoles 16 de octubre de 2024.
-
-Los **apagones programados** forman parte de la medida implementada por el Gobierno a nivel nacional para enfrentar la crisis hídrica, causada en gran parte por la **falta de lluvias**.
-
-### Más noticias
-
-* [Ministerio de Energía anunció un cambio en la Dirección del Cenace](https://www.elcomercio.com/actualidad/ecuador/ministerio-energia-cambio-direccion-cenace.html "Ministerio de Energía anunció un cambio en la Dirección del Cenace")
-* [Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre](https://www.elcomercio.com/actualidad/negocios/ministra-energia-plan-terminar-cortesde-luz-diciembre.html "Ministra de Energía tiene un plan para terminar con los cortes de luz hasta diciembre")
-* [Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules](https://www.elcomercio.com/actualidad/negocios/ines-manzano-transporte-soluciones-moviles-energia-aviones-hercules.html "Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules")
-
-Cronograma de suspensión
-------------------------
-
-El tiempo de los apagones en Cuenca **varía de acuerdo al sector**; los cortes tienen una duración entre cuatro y **10 horas**.
-
-En algunos barrios la suspensión eléctrica se extiende de corrido, mientras que en otros, los cortes se realizan en **dos franjas horarias**.
-
-Los horarios del cronograma en la ciudad austral se implementan en **12 jornadas**:
-
-* 00:00 a 07:00
-* 16:00 a 20:00
-* 10:00 a 14:00
-* 11:00 a 17:00
-* 00:00 a 05:00 y de 10:00 a 15:00
-* 05:00 a 10:00 y de 14:00 a 19:00
-* 06:00 a 10:00 y de 14:00 a 20:00
-* 06:00 a 10:00 y de 15:00 a 21:00
-* 06:00 a 12:00 y de 16:00 a 20:00
-* 09:00 a 14:00 y de 18:00 a 23:00
-* 10:00 a 15:00 y de 19:00 a 00:00
-* 10:00 a 16:00 y de 20:00 a 00:00
-
-La operadora Centrosur también distribuye energía para las provincias de **Cañar y Morona Santiago**. Puedes consultar el horario completo de cortes para esta semana a través de su [página web](https://www.centrosur.gob.ec/interrupciones-programadas/ "https://www.centrosur.gob.ec/interrupciones-programadas/").
-
-Aviones hércules llegarán a Ecuador como soluciones móviles
------------------------------------------------------------
-
-La ministra de Energía encargada, **Inés Manzano**, manifestó que Ecuador no puede seguir dependiendo del clima, por ello, se analizaron soluciones móviles para solventar la crisis.
-
-Manzano ratificó que se descarta la llegada de la segunda barcaza porque, entre otras cosas, no cumplía con los requisitos técnicos.
-
-Entonces, anunció las soluciones móviles que vendrán en **aviones hércules**.
-
-“Lo que está haciendo el Presidente, a título personal, junto con la canciller, es trayendo estas soluciones móviles que son de 20 MW, inclusive hay hasta de más y hay de menos también, duales, diesel o a gas, y las están trayendo en aviones hércules de carga, para poderlas tener de inmediato”, dijo.
-
-El Ministerio de Energía **no ha dado aún la fecha** en la que vendrían estas soluciones móviles.
-
-Cortes de luz en Guayaquil este miércoles 16 de octubre
-=======================================================
-
-Los cortes de luz en Guayaquil este miércoles 16 de octubre son definidos por CNEL.
------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil para este miércoles 16 de octubre son programados por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/04/luz-loja-zamora-cortes.jpg)
-
-Los horarios de los **cortes de luz** en **Guayaquil** este **miércoles 16 de octubre** se mantienen hasta el viernes 18[.](https://es.wikipedia.org/wiki/Guayaquil)
-
-**CNEL** estableció el cronograma por franjas, de acuerdo a los sectores.
-
-### Más noticias:
-
-* [Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules](https://www.elcomercio.com/actualidad/negocios/ines-manzano-transporte-soluciones-moviles-energia-aviones-hercules.html "Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules")
-* [Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-hoja-ruta-crisis-energia.html "Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía")
-
-La cuarta semana de cortes de luz en todo el país transcurre con nuevos anuncios de las autoridades del Gobierno, en busca de superar la crisis energética.
-
-**Inés Manzano**, ministra de Energía encargada, informó sobre dos decisiones del Gobierno al respecto.
-
-La primera es el transporte de soluciones móviles de energía en **aviones Hércules**.
-
-La segunda es la suspensión de la **segunda barcaza** por temas técnicos.
-
-Cortes de luz en la urbe porteña este miércoles 16 de octubre
--------------------------------------------------------------
-
-El Gobierno tiene previsto que la suspensión de energía eléctrica lleguen hasta fines de año y que para diciembre sean mínimos.
-
-Mientras tanto, los cortes de luz se mantienen en todo el país y tienen una duración de hasta diez horas.
-
-Las empresas eléctricas del país mantienen el anuncio de que las horas de los cortes de luz podrían reducirse, dependiendo de la situación hídrica.
-
-A continuación los cortes de luz en Guayaquil, para este miércoles 16 de octubre:  
-
-La Selección de Ecuador rescató un punto ante Uruguay
+PSG celebra, a lo grande, cumpleaños de Willian Pacho
 =====================================================
 
-La Selección de Ecuador enfrenta como visitante a Uruguay en eliminatorias sudamericanas rumbo al Mundial 2026.
----------------------------------------------------------------------------------------------------------------
+Willian Pacho vive su primera temporada en el Paris Saint-Germain de Francia, el club más importante de ese país.
+-----------------------------------------------------------------------------------------------------------------
 
-![Nahitán Nández de Uruguay y Alan Minda de la Selección de Ecuador disputan un balón.](https://www.elcomercio.com/wp-content/uploads/2024/10/10bbca68b164e3e97d54e4910ce709a6bbd724b8.jpg)
+![Willian Pacho con sus nuevos compañeros del PSG de Francia.](https://www.elcomercio.com/wp-content/uploads/2024/10/pacho_cumle_1.jpg)
 
-La **Selección de Ecuador** se enfrentó a Uruguay durante este 15 de octubre de 2024 en Montevideo y cierra la décima jornada de las eliminatorias para el Mundial 2026. El partido, programado para las 18:30, es el primer duelo de vuelta entre ambos equipos tras la victoria ecuatoriana en Quito.
+**Willian Pacho (PSG)** está de cumple años este miércoles 16 de octubre de 2024. Llega a los 23 como uno de los jugadores más talentosos que tiene Ecuador, Sudamérica y el mundo en la década del 2020.
 
-Antes del choque, **Sebastián Beccacece**, entrenador de la Tri, subrayó la importancia del encuentro y la necesidad de concentración. Ecuador llegó tras un empate sin goles contra **Paraguay** y buscaba sumar puntos cruciales en su visita.
+Quinindé, **cantón de la provincia de Esmeraldas** que cuenta con una población de algo más de 31 000 habitantes, según el censo poblacional de 2022, vio nacer a Willian Pacho en el 2001.
 
 ### Más noticias:
 
-* [¿Cómo llega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/seleccion-ecuador-tabla-uruguay-partido.html "¿Cómo llega la Selección de Ecuador ante Uruguay?")
-* [Alineaciones la Selección de Ecuador y Uruguay en eliminatorias](https://www.elcomercio.com/deportes/futbol/alineaciones-uruguay-seleccion-ecuador-eliminatorias.html "Alineaciones la Selección de Ecuador y Uruguay en eliminatorias")
-* [EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp](https://www.elcomercio.com/deportes/futbol/ecuador-uruguay-en-vivo-whatsapp-comercio.html "EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp")
+* [La historia de Cantera Orense, rival del Deportivo Quito](https://www.elcomercio.com/deportes/futbol/cantera-orense-historia-deportivo-quito.html "La historia de Cantera Orense, rival del Deportivo Quito")
+* [Thomas Tuchel es el nuevo director técnico de Inglaterra](https://www.elcomercio.com/deportes/futbol/thomas-tuchel-es-el-nuevo-director-tecnico-de-inglaterra.html "Thomas Tuchel es el nuevo director técnico de Inglaterra")
+* [¿Cuándo juegan Dragonas las semifinales de la Libertadores?](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-semifinales-libertadores-femenina-2.html "¿Cuándo juegan Dragonas las semifinales de la Libertadores?")
 
-Uruguay, en cambio, atravesaba un momento complicado tras resultados decepcionantes y tensiones internas bajo el mando de **Marcelo Bielsa**. El equipo charrúa intentó recuperar su forma en casa después caer ante Perú en Lima.
+Se formó en **Independiente del Valle desde 2017** y su ascenso fue fulminante. En el 2018 fue subcampeón de la Copa Libertadores sub-20, pero se tomó la revancha en el 2020 y se proclamó como campeón.
 
-En su primer partido de estas eliminatorias, **Ecuador** ganó 2-1 a **Uruguay** en Quito, con un doblete de Félix Torres. Este nuevo enfrentamiento fue clave para ambos en su camino hacia la clasificación al Mundial[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+En ese intermedio debutó en el primer plantel en el 2019 y vivió de cerca el título de la Copa Sudamericana, el primero de los del Valle en su corta, pero brillante historia.
 
-La Selección de Ecuador y Uruguay salieron a buscar el resultado
-----------------------------------------------------------------
+En agosto de **2021 se anunció su transferencia al Borussia Mönchengladbach** de Alemania, sin embargo, temas administrativos de su nuevo club impidieron que la transferencia se haga efectiva.
 
-Para el compromiso, **Sebastián Beccacece** mantuvo la línea de tres defensores centrales en el fondo. Marcelo Bielsa retornó a su habitual 4-3-3 para el compromiso.
+No tuvo que esperar mucho tiempo para el **Royal Antwerp de Bélgica lo sume a su plantel** en enero de 2022. Ganó los títulos de la Liga y la Copa de Bélgica.
 
-A pesar de que el esquema de la Tri fue defensivo y busco resguardarse ante el poderío en delantera de los uruguayos, optó por una presión alta y un fuerte uso de las bandas. En la primera jugada del partido, a menos de dos minutos del inicio, **Enner Valencia** conectó un centro de Angelo Preciado que quedó en las manos de Sergio Rochet.
+Tras 18 meses a alto vuelo fue transferido al **Eintracht Fráncfort** para el curso 2023/24.
 
-Después del primer aviso de la **Selección de Ecuador**, la ‘Celeste’ reaccionó y optó por una mayor salida. Asimismo, la mayor vocación ofensiva de parte de los uruguayos llevó al repliegue del combinado tricolor.
+El salto de calidad en su carrera lo **dio al año siguiente con su traspaso el PSG de Francia**.
 
-A partir del ataque de los charrúas, el arquero **Hernán Galíndez** empezó a erigirse como una de las figuras. El arquero atajó, un tiro libre que iba hacia las mallas y tres mano a mano y cruciales para mantener el arco en cero.
+Cona la Selección de Ecuador lleva jugados 20 partidos y es titular fijo en el sistema defensivo de tres defensas del argentino Sebastián Beccacece, junto a Félix Torres y Piero Hincapié.
 
-Recién a la media hora de juego, la Tri logró romper el asedio y pisar el área de los uruguayos. Antes, la de **Enner Valencia y** un remate de **Gonzalo Plata** habían sido las más claras.
+![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/pacho_cumle_2-1024x683.jpg)
 
-El cotejo se equilibró y el juego de ambas selecciones empezó a desarrollarse, principalmente, en el centro del campo. La más clara antes de que finalice la primera mitad la tuvo Uruguay: tras una falla de **Félix Torres** en un pelotazo, **Maximiliano Araujo** le ganó las espaldas y sacó un centro raso al medio del área con la defensa tricolor de regreso. **Darwin Núñez** recibió el balón y esta vez no estuvo Galíndez, pero el palo salvó a la Selección de Ecuador.
+Foto: Instagram del club.
 
-En el cierre de la primera mitad, la Tri realizó el primer remate que contó con la intervención de Sergio Rochet. **Alan Minda** se animó a rematar y la pelota se fue al tiro de esquina.
+PSG celebró al ecuatoriano
+--------------------------
 
-Con Ecuador en sufrimiento y **Uruguay** con la impotencia de los goles que se le negaron, los primeros 45 minutos terminaron.
+El PSG utilizó todas sus redes sociales oficiales para celebrar al ecuatoriano en su fecha de cumpleaños.
 
-La Tri se mostró más sólida en el segundo tiempo
-------------------------------------------------
+Fotografías de su llegada al club, otras con sus compañeros en **entrenamientos y partidos, más un video,** fueron parte de los mensajes con los que los parisinos le contaron al mundo que su jugador estaba de festejos.
 
-Para la segunda mitad, **Sebastián Beccacece** mantuvo el mismo esquema y salió con los once inicialistas. Uruguay cambió a **Giorgian de Arrascaeta** por Nicolás de Cruz, posición por posición en el mediocampo.
+El camino de Pacho con el **PSG en sus primeros meses es perfecto**. Jugó los nueve encuentros oficiales como titular: siete de la Ligue 1 y dos de la Champions League.
 
-Las constantes llegadas sobre el arco tricolor se redujeron, mientras que el conjunto ecuatoriano optaba por los contragolpes. Asimismo, el centro de la cancha presentaba mayor armonía y los pasillos laterales del equipo de **Beccacece** tenían mayor actividad.
+Salvo en la cuarta fecha del torneo local, **que jugó solo 27 minutos ante el Stade Brestois en el Parque de los Príncipes**, en el resto de compromisos completó todos los minutos posibles bajo el mando del español Luis Enrique.
 
-La primera variante de la Tricolor fue la de **Kevin Rodríguez** por **Enner Valencia**. Así, la escuadra consiguió mayor movilidad y rapidez en ofensiva, lo que le permitiría aprovechar los pelotazos desde la propia cancha y las contras.
+Su técnica y habilidad para **cumplir con su rol de defensa central**, se nota en que no está propenso a ser amonestado por las faltas que pueda cometer.
 
-Ninguno de los equipos tuvo ocasiones manifiestas de gol y Ecuador optó por otro cambio. **Keny Arroyo** debutó a sus 18 años con el plantel tricolor y sustituyó a **Alan Minda**. Debido a la lesión de Manuel Ugarte, Nicolás Fonseca ingresó en la zona de volantes.
+Una sola tarjeta amarilla tiene en su hoja de vida en los 747 minutos disputados, según datos de Transfermarkt.
 
-En la recta final del compromiso, la Tri se enchufó y vivió sus mejores momentos. Rodríguez se mostró desequilibrante y ganó faltas. **Uruguay**, por primera vez, se mostró encerrado en su propio campo y Bielsa envió un defensor más a la cancha: **Marcelo Saracchi** en reemplazo de Mathías Olivera.
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBLXv8ToSi1/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Paris Saint-Germain (@psg)](https://www.instagram.com/p/DBLXv8ToSi1/?utm_source=ig_embed&utm_campaign=loading)
 
-Para los tiempos de descuento, Beccacece refrescó los laterales y **Gonzalo Plata** abandonó la cancha por **John Yeboah** y **Pervis Estupiñán por Johanner Chávez**. A pesar del ímpetu de los minutos finales, Ecuador no pudo imponerse a Uruguay y las escuadras dividieron honores.
+No te pierdas – El Confesionario
+--------------------------------
 
-Con el empate, **Ecuador** mantuvo su quinta posición y sumó 13 puntos. Uruguay sumó 16 unidades y no soltó el tercer lugar.
+Más de 1 600 especies fueron introducidas en Galápagos
+======================================================
 
-Alineaciones de la Selección de Ecuador y Uruguay
--------------------------------------------------
+La mora invasora es una de las plantas invasoras más destructivas en Galápagos, contribuyendo a la disminución de los bosques endémico.
+---------------------------------------------------------------------------------------------------------------------------------------
 
-**Selección de Ecuador:** Hernán Galíndez; Félix Torres, Piero Hincapié, Willian Pacho; Angelo Preciado, Pervis Estupiñán, Alan Franco y Moisés Caicedo; Gonzalo Plata, Alan Minda y Enner Valencia.
+![El primer registro de especies introducidas data de 1600, con la introducción de la rata negra y el ratón doméstico.](https://www.elcomercio.com/wp-content/uploads/2024/10/Galapagos-2.jpg)
 
-**Selección de Uruguay:** Sergio Rochet; Mathías Olivera, Santiago Bueno, José María Giménez y Nahitan Nández; Giorgian De Arrascaeta, Manuel Ugarte Ribeiro y Federico Valverde; Maximiliano Araújo, Facundo Pellistri y Darwin Núñez.
+La **Fundación Charles Darwin** (FCD) presentó este miércoles 16 de octubre de 2024 el **tablero interactivo en línea**. Este proporciona datos en tiempo real sobre cuántas especies han sido introducidas tanto de forma intencional como accidental, en los frágiles ecosistemas del archipiélago.
+
+Este es el **primer repositorio digital de acceso abierto** con información sobre las especies introducidas en el declarado primer Patrimonio Natural de la Humanidad.
+
+### Más noticias
+
+* [Rescatan a un náufrago ruso en altamar en una balsa inflable](https://www.elcomercio.com/actualidad/mundo/rescatan-a-un-naufrago-ruso-en-altamar-en-una-balsa-inflable.html "Rescatan a un náufrago ruso en altamar en una balsa inflable")
+* [El Metro de Quito superó los 43 millones de viajes](https://www.elcomercio.com/actualidad/metro-de-quito-supero-43-millones-de-viajes-operacion.html "El Metro de Quito superó los 43 millones de viajes")
+* [Inamhi advierte sobre incremento de temperaturas en Ecuador](https://www.elcomercio.com/actualidad/ecuador/inamhi-advierte-sobre-incremento-de-temperaturas-en-ecuador.html "Inamhi advierte sobre incremento de  temperaturas en Ecuador")
+
+Las especies introducidas
+-------------------------
+
+La **Fundación Charles Darwin** presentó este miércoles 16 de octubre de 2024 El **tablero interactivo en línea**. Este proporciona datos en tiempo real sobre cuántas especies han sido introducidas tanto de forma intencional como accidental, en los frágiles ecosistemas del archipiélago.
+
+También revel**a cómo llegaron** y si están causando daño o tienen el potencial de hacerlo.
+
+Este recurso ofrece información crucial para **identificar y gestionar las vías de introducción** de especies no nativas. También permite priorizar **acciones de conservación** y manejo para aquellas que ya han establecido poblaciones en las islas.
+
+“Desde el descubrimiento de las **islas Galápagos en 1535**, se calcula que **al menos 1 639 especies han sido introducidas en las islas**“, señala la FCD en un comunicado.
+
+El primer registro data de 1600, con la introducción de l**a rata negra y el ratón doméstico**.
+
+El **52% de las especies introducidas en Galápagos son planta**s, seguido por un 42% de invertebrados, la mayoría insectos. El 6 % restante incluye vertebrados, hongos, bacterias y virus, detalló.
+
+Amenaza creciente y urgente
+---------------------------
+
+Algunas especies introducidas se **vuelven invasoras y proliferan sin control,** especialmente cuando carecen de **enemigos naturales** o competidores fuertes en su nuevo entorno.
+
+Las especies invasoras están entre los principales impulsores de extinciones en **ecosistemas insulares** y una de las mayores amenazas para el delicado equilibrio de la **vida en Galápagos**.
+
+Según el tablero, el 4% de las especies introducidas en Galápagos son **“invasoras**“, incluyendo 36 especies de plantas, 11 vertebrados y **12 invertebrados** (principalmente insectos).
+
+La mora invasora (Rubus niveus) es una de las plantas invasoras más destructivas en **Galápagos**, contribuyendo a la disminución de los **bosques endémicos** de scalesia en las tierras altas del archipiélago.
+
+Asimismo, el árbol introducido Cedrela odorata **altera las rutas migratorias** de las tortugas gigantes en la isla Santa Cruz.
+
+La **mosca vampiro aviar** (Philornis downsi) ataca al menos 21 especies de **aves terrestres de Galápagos**, incluidas 12 especies de los pinzones de Darwin, y está provocando un declive poblacional significativo en al menos 8 especies.
+
+Esto incluye al críticamente amenazado pinzón de manglar
+--------------------------------------------------------
+
+Un 5% de las especies introducidas se clasifican como **“potencialmente invasoras”**, es decir, son invasoras en otras partes del mundo y podrían convertirse en una **“amenaza seria” para Galápagos**.
+
+El tablero también revela que el 51% de las especies introducidas tienen datos insuficientes sobre su nivel de invasión, por lo que **urgen más estudios** y recursos para abordar estos riesgos.
+
+Amenazas marinas dentro y fuera de Galápagos
+--------------------------------------------
+
+Aunque la mayoría de las especies introducidas en **Galápagos** son terrestres, se han registrado 59 especies en su Reserva Marina, llegadas, principalmente, **en cascos de barcos, plásticos flotantes** y agua de lastre.
+
+Proteger estos **ecosistemas** requerirá medidas de bioseguridad mejoradas para prevenir la introducción de especies adicionales, un desafío que se extiende **más allá de Galápagos**.
+
+Herramienta esencial
+--------------------
+
+Para Charlotte Causton, investigadora principal de la **Fundación Charles Darwin,** el proporcionar acceso fácil a datos en tiempo real permite a las autoridades, investigadores y conservacionistas “tomar decisiones informadas y oportunas para priorizar los **esfuerzos de manejo**, fortalecer las medidas de bioseguridad y prevenir más daños a estos delicados ecosistemas”.
+
+Para el director del **Parque Nacional Galápagos**, Arturo Izurieta la iniciativa “será esencial para la protección de la biodiversidad de Galápagos en los [próximos años](https://es.wikipedia.org/wiki/Islas_Gal%C3%A1pagos "https://es.wikipedia.org/wiki/Islas_Gal%C3%A1pagos")“.
+
+Gobierno modificará las tarifas eléctricas del sector minero
+============================================================
+
+El Gobierno Nacional analiza el tarifario eléctrico, con la intención de modificar solo la tarifa del sector minero.
+--------------------------------------------------------------------------------------------------------------------
+
+![Ministra de Energía (e), Inés Manzano, se refirió a las tarifas eléctricas este 16 de octubre de 2024. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/Ines-Manzano.jpg)
+
+El Gobierno Nacional confirmó este miércoles 16 de octubre de 2024 que actualmente se **analiza el tarifario** **eléctrico del Ecuador**, a propósito de los cortes de luz. Sin embargo, la ministra de Energía encargada, **Inés Manzano**, aclaró que no se cambiarán todas las tarifas eléctricas[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Daniel Noboa toma decisión sobre subsidio de electricidad a empresas mineras](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-decision-subsidio-electricidad-empresas-mineras.html "Daniel Noboa toma decisión sobre subsidio de electricidad a empresas mineras")
+* [Ministerio de Energía anunció un cambio en la Dirección del Cenace](https://www.elcomercio.com/actualidad/ecuador/ministerio-energia-cambio-direccion-cenace.html "Ministerio de Energía anunció un cambio en la Dirección del Cenace")
+* [Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules](https://www.elcomercio.com/actualidad/negocios/ines-manzano-transporte-soluciones-moviles-energia-aviones-hercules.html "Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules")
+
+En un comunicado, la Agencia de Regulación y Control de la Electricidad (Arconel) informó que actualmente se **analiza el tarifario** **eléctrico del Ecuador**. Este documento se revisa y actualiza hasta el mes de noviembre de cada año, según manda la normativa.
+
+Asimismo, **aclaró que las tarifas eléctricas** actuales se mantienen sin variación para los **sectores residencial**, **comercial e industrial.**
+
+Mientras que para los **grandes consumidores**, que incluyen a las **empresas mineras a gran escala**, la tarifa denominada **Alto Voltaje 2 (AV2)**, que se encuentra vigente desde 2016, será **revisada**, conforme a lo dispuesto por el presidente de la República, Daniel Noboa.
+
+> 📍COMUNICADO OFICIAL| Informamos a la ciudadanía sobre las tarifas eléctricas en el país.  
+>   
+> Más detalles ⬇️ [pic.twitter.com/i2jIaqIJ2o](https://t.co/i2jIaqIJ2o)
+> 
+> — Agencia de Regulación y Control de Electricidad (@ARCONEL\_Ec) [October 16, 2024](https://twitter.com/ARCONEL_Ec/status/1846568901171192258?ref_src=twsrc%5Etfw)
+
+Asimismo, horas antes, la ministra Manzano aseguró que las tarifas no se cambiarán, excepto las que se cobran al sector minero. “Las tarifas no se han cambiado, no se piensa tocar. No sé de donde sale ese mal mensaje. Lo único que hemos dicho, en el caso de las mineras, se va a cambiar la tarifa”.
+
+Esto, porque las mineras tenían una tarifa preferencial y lo que queremos es que los subsidios se relocalicen mejor, agregó.
+
+El presidente Noboa anunció el martes 15 de octubre que tomó una decisión para reformar los **subsidios eléctricos para el sector minero**. El mandatario señaló que la decisión busca corregir un **sistema de subsidios** **injusto** que beneficia a los que más recursos tienen.
+
+“Las mineras en Ecuador consumen más energía de la que necesita un hospital para operar. Y aun así, su tarifa de energía ha sido subsidiada por el Estado. Ese subsidio incongruente e injusto que han tenido las mineras, no va más”, señaló.
+
+Hasta las 10:00 de este miércoles, no se conoce si la eliminación de dicho subsidio iba a ser bajo Decreto Ejecutivo o Acuerdo Ministerial, ni cuando quedaría en firme.
+
+Respuesta de las empresas mineras
+---------------------------------
+
+Por su parte, las empresas mineras señalaron que la **tarifa eléctrica** aplicada a la industria minera corresponde al segmento AV2, incluida en el **pliego tarifario** aprobado por el **Gobierno Nacional**. Esta se aplica a otros sectores industriales no mineros de alto consumo.
+
+Actualmente, las dos empresas mineras en explotación pagan una tarifa de 04,09 centavos de dólar el kilovatio hora, mientras que la tarifa residencial tiene un promedio de 10 centavos. Esta diferencia se debe a que las mineras no ocupan las fases de **subtransmisión y distribución**, ya que su conexión es directa.
+
+Las tarifas que pagan las mineras “incluyen en su cálculo de costos la **generación y transmisión de energía eléctrica**, pero no el costo de **almacenamiento y distribución** facturado por las **empresas eléctricas**. Por esta razón, no es comparable con la tarifa residencial”, señaló la Cámara de Minería del Ecuador (CME).
+
+Además, aclaró que las mineras no se oponen a la revisión de las tarifas eléctricas; sin embargo, es “importante que este proceso se lleve a cabo de manera técnica”, indicó la Cámara.
+
+Ecuador desaprovechó el talento de John Yeboah en las eliminatorias
+===================================================================
+
+Una de las decisiones más cuestionadas de Sebastián Beccacece fue cómo manejó al extremo John Yeboah.
+-----------------------------------------------------------------------------------------------------
+
+![John Yeboah en un partido con Ecuador en las eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T114349.275.jpg)
+
+En el empate 0-0 de la Selección de Ecuador ante Uruguay en Montevideo, el martes 15 de octubre, **John** **Yeboah**, uno de los extremos más explosivos del equipo, apenas jugó tres minutos.
+
+La decisión de Sebastián **Beccacece** de ingresar al jugador del Venezia de Italia en los últimos instantes del partido generó críticas en redes sociales, donde los aficionados afirmaron que se desaprovechó el talento de Yeboah.
+
+### Más noticias:
+
+* [John Yeboah asiste y el Venezia obtiene su primer triunfo](https://www.elcomercio.com/deportes/john-yeboah-asistencia-venezia-genoa.html "John Yeboah asiste y el Venezia obtiene su primer triunfo")
+* [Jugadores que no nacieron en Ecuador, pero están comprometidos con la ‘Tri’](https://www.elcomercio.com/deportes/futbol/jugadores-que-no-nacieron-ecuador-pero-estan-comprometidos-con-tri.html "Jugadores que no nacieron en Ecuador, pero están comprometidos con la ‘Tri’")
+* [La Selección de Ecuador sigue siendo fuerte en Quito](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-localia-quito-puntos.html "La Selección de Ecuador sigue siendo fuerte en Quito")
+
+¿Ecuador desaprovechó el talento de Yeboah?
+-------------------------------------------
+
+A pesar de haber jugado pocos minutos con su club en Italia y de recuperarse de algunas molestias físicas, Beccacece decidió convocar a John Yeboah para la fecha de eliminatorias sudamericanas, reconociendo el talento del jugador y su capacidad de aportar al equipo. Yeboah es **habitual en las convocatorias desde marzo de 2024**.
+
+En el partido anterior, en el empate contra Paraguay en Quito, **Yeboah solo jugó 13 minutos**, pero en ese breve tiempo logró generar peligro y encarar a una defensa muy cerrada. Aun así, la decisión de darle tan pocos minutos recibió cuestionamientos en redes sociales y en la prensa.
+
+Tras ese encuentro, Beccacece explicó que su manejo del tiempo de juego del jugador se debía a que **tiene poco ritmo** debido a su reciente recuperación, y aunque es un jugador diferencial, el técnico cree que hay que llevarlo con calma.
+
+“Ha **jugado pocos minutos y ha tenido molestias**. Vino porque tiene condiciones naturales que en 15 minutos pueden marcar la diferencia, pero no está en su mejor momento”, comentó Beccacece tras el empate contra Paraguay.
+
+Con estas declaraciones y viendo el contexto del partido entre Ecuador y Uruguay, donde la ‘Tri’ dominaba y presionaba al rival, parecía natural que Yeboah entrara en los últimos 10-15 minutos para generar más peligro. Sin embargo, Beccacece sorprendió al **ingresarlo al final, solo para quemar tiempo**, dejándolo con apenas dos minutos de juego.
+
+John Yeboah en la selección
+---------------------------
+
+Yeboah recibió su primera convocatoria a la selección en octubre de 2023, a los 23 años, bajo la dirección de **Félix Sánchez Bas**, y desde entonces ha sido parte regular del equipo, incluso tras los cambios en el cuerpo técnico.
+
+El extremo ha disputado 10 partidos con la ‘Tri’, anotando **dos goles y sumando una asistencia**. Además, formó parte del equipo que participó en la Copa América 2024.
+
+La Selección de Ecuador sigue siendo fuerte en Quito
+====================================================
+
+La Selección de Ecuador marcha en la quinta posición en la tabla de pociones de las eliminatorias al Mundial 2026.
+------------------------------------------------------------------------------------------------------------------
+
+![Kevin Rodríguez enfrentando a Perú en las eliminatotias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_local_quito_1.jpg)
+
+La **Selección de Ecuador** sigue teniendo en Quito un fortín que pocas selecciones logran doblegar, pese a que con el pasar de los años más futbolistas ecuatorianos juegan fuera de su país.
+
+Desde que la Conmebol **implantó el sistema de todos contra todos para el Mundial Francia 1998**, los resultados de la Selección de Ecuador han sido exitosos con la consecución de cuatro clasificación a mundiales.
+
+### Más noticias:
+
+* [La historia de Cantera Orense, rival del Deportivo Quito](https://www.elcomercio.com/deportes/futbol/cantera-orense-historia-deportivo-quito.html "La historia de Cantera Orense, rival del Deportivo Quito")
+* [¿Cuándo juegan Dragonas las semifinales de la Libertadores?](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-semifinales-libertadores-femenina-2.html "¿Cuándo juegan Dragonas las semifinales de la Libertadores?")
+* [Colombia golea y hunde a Chile en las eliminatorias](https://www.elcomercio.com/deportes/futbol/colombia-chile-eliminatorias-partido-resultado.html "Colombia golea y hunde a Chile en las eliminatorias")
+
+Los números son claros y muestran que en cuatro de las siete eliminatorias que se jugaron desde 1998 hasta 2022, **Ecuador alcanzó sus cuatro clasificaciones cosechando la mayor cantidad** de puntos disputados en Quito.
+
+Históricamente, el estadio **Olímpico Atahualpa**, administrado por la Concentración Deportiva de Pichincha, fue la ‘casa de la selección’, pero desde el proceso a Catar 2022, se lo dejó a un lado y se adoptó al Rodrigo Paz Delgado, propiedad de Liga de Quito, como el nuevo feudo tricolor.
+
+En ambos estadios la localía de la **Tri ha sido un dolor de cabeza para sus rivales**, que saben que su visita a la capital ecuatoriana es de las más complicadas que tienen en las 18 fechas de las eliminatorias.
+
+La Selección de Ecuador es efectiva en Quito
+--------------------------------------------
+
+Desde el proceso a **Francia 1998 hasta el de Canadá, Estados Unidos y México 2026**, la Selección de Ecuador jugó en Quito durante las 10 primeras jornadas, 39 encuentros.
+
+De los 117 puntos en disputa alcanzó 91, es decir, tiene una efectividad del 77,7% de puntos en Quito.
+
+En el proceso al Mundial Brasil 2014, la Tri estuvo implacable en los c**inco primeros partidos al ganar** los 15 puntos en disputa: 1-0 vs. Colombia y Bolivia; 2-0 vs. Venezuela y Perú; y 3-1 ante Chile.
+
+Bajo el mando de Reinado Rueda ese combinado clasificó a la Copa del Mundo con jugadores como Frickson Erazo, **Carlos Gruezo, Felipe Caicedo, Antonio Noboa, Juan Carlos Paredes**, Enner Valencia, Luis Fernando Saritama, entre otros.
+
+Para Corea-Japón 2002 y Alemania 2006 alcanzó 13 de 15 puntos. Colombia (0-0) y Perú (0-0) fueron las únicas escuadras que arañaron puntos en la capital.
+
+Esas eliminatorias fueron exitosas con Hernán Darío Gómez y Luis Fernando Suárez, respectivamente, al lograr dos clasificaciones consecutivas.
+
+Las de menor producción fueron para Francia 1998 con 9 de 12 puntos (Francisco Maturana); **Sudáfrica 2010 con 10 de 15 (Luis Fernando Suárez y Sixto Vizuete)**; y Rusia 2018 (Gustavo Quinteros), también con 10 de 15. En todos estos tres procesos la tricolor no clasificó.
+
+La excepción de esa línea la marco Gustavo Alfaro para Catar 2022. **También alcanzó 10 puntos de 15 posibles**, pero al final de las eliminatorias plantó la bandera de Ecuador en una nueva Copa del Mundo.
+
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_local_quito_3-1024x683.jpg)
+
+Foto: Archivo histórico EL COMERCIO.
+
+Para el 2026 se mantiene la tendencia
+-------------------------------------
+
+Para el Mundial 2026, Ecuador alcanzó **11 de 15 puntos en disputa en Quito**, bajo la dirección técnica del español Félix Sánchez y el argentino Sebastián Beccacece.
+
+Este es el cuarto mejor promedio desde 1998, tomando en consideración que inició estas eliminatorias con una sanción de -3 puntos por parte del **Tribunal de Arbitraje Deportivo (TAS)** por el denominado caso Byron Castillo.
+
+Colombia y Paraguay, con dos empate 0-0, son las que sumaron en ‘Casa Blanca’. Uruguay (2-1), Chile (1-0) y Perú (1-0) cayeron derrotadas.
+
+![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_local_quito_2-1024x683.jpg)
+
+Foto: Diego Pallero / EL COMERCIO.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+El Metro de Quito superó los 43 millones de viajes
+==================================================
+
+Los usuarios califican el servicio con 9,3 sobre 10. La seguridad es uno de los aspectos mejor evaluados por los viajeros del Metro de Quito
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Metro opera de lunes a viernes hasta las 23:00.](https://www.elcomercio.com/wp-content/uploads/2024/10/Metro-Quito.jpg)
+
+El **Metro de Quito** dio a conocer su reporte mensual tras los **10 meses de operación**, desde que arrancó en diciembre de 2023.
+
+### Más noticias
+
+* [Inamhi advierte sobre incremento de temperaturas en Ecuador](https://www.elcomercio.com/actualidad/ecuador/inamhi-advierte-sobre-incremento-de-temperaturas-en-ecuador.html "Inamhi advierte sobre incremento de  temperaturas en Ecuador")
+* [Rescatan a un náufrago ruso en altamar en una balsa inflable](https://www.elcomercio.com/actualidad/mundo/rescatan-a-un-naufrago-ruso-en-altamar-en-una-balsa-inflable.html "Rescatan a un náufrago ruso en altamar en una balsa inflable")
+* [Dos nuevos ataques armados se registraron en Manabí](https://www.elcomercio.com/actualidad/seguridad/dos-nuevos-ataques-armados-se-registraron-en-manabi.html "Dos nuevos ataques armados se registraron en Manabí")
+
+Diez meses de operación
+-----------------------
+
+El Metro de Quito alcanzó **43 294 272 viajes** al cierre del mes de septiembre de 2024, con un promedio diario de 142 073 viajes.
+
+Además, los usuarios calificaron el servicio con 9,3 sobre 10. **La seguridad es la nota** con mayor calificación, en septiembre llegó al 9,5.
+
+Al menos el 47,5% de las personas que usan **Metro** aseguran realizar al menos dos viajes diarios. El Metro de Quito es el sistema de transporte elegido por ellos para transportarse de ida y vuelta.
+
+El viernes 13 de septiembre, se contabilizaron **176 958 validaciones**, este fue el día que se registraron más viajes en el mes.
+
+La mayor afluencia de viajeros se mantiene en cinco estaciones, estas son:
+
+* Quitumbe, con 19 000 viajes diarios
+* Labrador, con 16 000 viajes diarios
+* Iñaquito, con 13 000
+* San Francisco, con 12 000
+* Recreo, con 11 000 viajes diarios
+
+Cuentas Ciudad aumentan
+-----------------------
+
+El Metro de Quito registró un incremento en la creación de las **Cuentas Ciudad**. En septiembre, se contabilizaron 22 209 cuentas, casi el doble que el mes anterior.
+
+Además, **13 000 personas dejaron de usar el tiquete físico** y optaron por un medio de acceso digital para viajar en el Metro de Quito.
+
+La obtención de estos canales digitales **agilizan el ingreso de los usuarios** a las plataformas y trenes, pues no deben hacer filas en las ventanillas para comprar su pasaje.
+
+Puedes conseguir un QR digital a través de las ‘app’ del Metro o DeUna.
+
+Los horarios del servicio son de **lunes a viernes de 05:30 a 23:00.** Los sábados de 07:00 a 23:00 y los domingos y feriados de 07:00 a 22:00.
+
+> 🚇 [#ElMetroDeQuitoRenace](https://twitter.com/hashtag/ElMetroDeQuitoRenace?src=hash&ref_src=twsrc%5Etfw) | 05h30 ¡Nos contagias tu buen ánimo!  
+>   
+> Gracias a tu actitud positiva, cada viaje se convierte en una experiencia única.  
+>   
+> Arrancamos la jornada con la mejor energía para llevarte a tu destino de una forma cómoda y eficiente.[#CulturaMetro](https://twitter.com/hashtag/CulturaMetro?src=hash&ref_src=twsrc%5Etfw)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/iOi4iMQ0KI](https://t.co/iOi4iMQ0KI)
+> 
+> — Metro de Quito (@MetrodeQuito) [October 16, 2024](https://twitter.com/MetrodeQuito/status/1846498825558462725?ref_src=twsrc%5Etfw)
+
+  
+
+Kamala Harris aventaja a Trump entre votantes latinos 
+======================================================
+
+La mayoría de latinos consideran como su principal problema el coste de vida y la inflación, el empleo y acceso a la vivienda.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Combo de fotografías de los candidatos a la presidencia de Estados Unidos, Kamala Harris y Donald Trump.](https://www.elcomercio.com/wp-content/uploads/2024/10/kamala-harris-donald-trump-efe-septiembre.jpg)
+
+La candidata demócrata a la Casa Blanca, [Kamala Harris](https://www.elcomercio.com/actualidad/mundo/kamala-harris-uso-armas-plan-economico.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-uso-armas-plan-economico.html"), aventaja al republicano **Donald Trump** entre los **votantes latinos** de los siete estados clave, de los que conseguiría el 56 % de los votos, frente al 31 % que lograría el expresidente, según una encuesta publicada este martes 15 de octubre de 2024.
+
+### Más noticias
+
+* [Kamala Harris se refiere al uso de armas y a su plan económico](https://www.elcomercio.com/actualidad/mundo/kamala-harris-uso-armas-plan-economico.html "Kamala Harris se refiere al uso de armas y a su plan económico")
+* [Fiscal asegura que Donald Trump ‘recurrió a delitos’ para no perder el poder](https://www.elcomercio.com/actualidad/mundo/fiscal-donald-trump-informe-completo-delitos.html "Fiscal asegura que Donald Trump ‘recurrió a delitos’ para no perder el poder")
+* [Kamala Harris lanza un anuncio con una pareja que necesita la fecundación ‘in vitro’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-lanza-un-anuncio-con-una-pareja-que-necesita-la-fecundacion-in-vitro.html "Kamala Harris lanza un anuncio con una pareja que necesita la fecundación ‘in vitro’")
+
+El sondeo de la **Federación Hispana** y Latino Victory Foundation divulga hoy que la candidatura de la demócrata provocó **entusiasmo entre los hispanos** de los estados clave, un sector poblacional en el que mantiene una ventaja de más de 25 puntos con respecto a su oponente.
+
+De este modo, la encuesta, publicada a tres semanas de las elecciones, revela que **Harris está al frente** en cada uno de los **siete estados bisagra,** con un porcentaje de favorabilidad en cada estado de entre el 58 % y el 54 %.
+
+En **Pensilvania**, uno de los estados clave, **Harris se haría con un 57 % del voto latino,** frente al 27 % de Trump.
+
+Los resultados también muestran que el **71 % de los electores latinos** planea ir a votar, especialmente los que viven en estados clave como Michigan y Pensilvania.
+
+Además, un 74 % asegura que está siguiendo de cerca las noticias sobre las elecciones del 5 de noviembre.
+
+Poder de los votantes latinos
+-----------------------------
+
+“Nuestra esperanza es que con esta encuesta podamos replantear la manera en que se percibe el **poder de los votantes latinos**, tanto a nivel nacional como estatal. No obstante, lo más importante es que ayudemos a nuestra propia comunidad a llegar a las urnas”, expresó hoy el presidente de la federación, Frankie Miranda, en una conferencia de prensa celebrada en Pensilvania.
+
+Miranda destacó que los resultados “confirman que los **latinos están escuchando y** se preocupan por las próximas elecciones”.
+
+La encuesta, que se elaboró entre el 2 y el 10 de octubre con una muestra de 1 900 latinos, muestra que un **60 % de los entrevistados** está más interesado en votar en los **comicios tras la llegada de Harris.**
+
+“Hay un **apoyo más fuerte al partido demócrata** a través de la inmigración, las asuntos de la clase trabajadora y otras cosas”, indicó el profesor Matt Barreto, director de la firma demócrata BSP Research.
+
+Barreto también mencionó la **inversión récord de la campaña de Harris** en la comunidad latina y en eventos en estados como **Pensilvania, Arizona o Nevada** para cotejar el voto latino, frente a la reducción de personal y de comités de campaña latinos llevado a cabo por Trump.
+
+Por otra parte, la mayoría de los latinos consideran como su principal problema el **coste de vida y la inflación (un 59 %), el empleo (38 %) y el coste y acceso a la vivienda (32 %)**. También mencionan otros temas como los d**erechos reproductivos, el cambio climático, la situación en la frontera con México** y el acceso a cuidados médicos.
