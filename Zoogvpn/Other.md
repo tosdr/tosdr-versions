@@ -102,7 +102,7 @@ Warrant Canary
 
 We, ZoogVPN, are committed to transparency and complete control of our VPN service. No confidential information of any of our users has never been disclosed or seized upon any request, nor have we ever been compromised or suffered a data breach.
 
-**As of March 2022 ZoogVPN has received:**
+**As of October 2024 ZoogVPN has received:**
 
 **0** – National Security letters  
 **0** – Gag orders  
