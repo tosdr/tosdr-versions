@@ -291,6 +291,12 @@ Past Week
 
 _By_ [Rebecca Boyle](https://www.quantamagazine.org/authors/rebecca-boyle)
 
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/10/LargestPrimeFactor-cr.SamuelVelasco-Thumbnail.webp)](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
+
+[#### Big Advance on Simple-Sounding Math Problem Was a Century in the Making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
+
+_By_ [Erica Klarreich](https://www.quantamagazine.org/authors/erica-klarreich)
+
 [![A woman sitting on a rocky shore looks up at the cosmos and sees a handful of solid shapes floating in the sky.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Geometry-crSenor-Salme-AppleTileThumbnail.webp)](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
 
 [#### Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
@@ -302,12 +308,6 @@ _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 [#### Even a Single Bacterial Cell Can Sense the Seasons Changing](https://www.quantamagazine.org/even-a-single-bacterial-cell-can-sense-the-seasons-changing-20241011/)
 
 _By_ [Elizabeth Landau](https://www.quantamagazine.org/authors/landau_liz)
-
-[![An astronaut floats in front of a black hole, which is sucking various shapes and objects into it.](https://www.quantamagazine.org/wp-content/uploads/2024/09/MainSpaceTime-crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/)
-
-[#### The Unraveling of Space-Time](https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/)
-
-_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood) [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett) [Amanda Gefter](https://www.quantamagazine.org/authors/amanda-gefter) [Emily Buder](https://www.quantamagazine.org/authors/ebuder) [Mark Belan](https://www.quantamagazine.org/authors/markbelan) [Natalie Wolchover](https://www.quantamagazine.org/authors/natalie)
 
 The Quanta Newsletter
 
