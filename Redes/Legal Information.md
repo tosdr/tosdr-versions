@@ -11,7 +11,7 @@ Idioma
 * [EN](http://red.es/en/node/115)
 * [VA](http://red.es/va/node/115)
 
-[Sede electrónica](https://sede.red.gob.es/)
+[Sede electrónica](https://sede.red.gob.es/ "Sede electrónica")
 
 Portales de Red.es
 
@@ -26,15 +26,15 @@ Portales de Red.es
 
 ##### Navegación principal
 
-* [Iniciativas](http://red.es/es/iniciativas)
-* [Actualidad](http://red.es/es/actualidad)
-* [Financiación Europea](http://red.es/es/sobre-nosotros/financiacion-europea)
+* [Iniciativas](http://red.es/es/iniciativas "Iniciativas")
+* [Actualidad](http://red.es/es/actualidad "Actualidad")
+* [Financiación Europea](http://red.es/es/sobre-nosotros/financiacion-europea "Financiación Europea")
 * Sobre nosotros
-    * [Qué hacemos](http://red.es/es/sobre-nosotros/que-hacemos)
-    * [Quiénes somos](http://red.es/es/sobre-nosotros/quienes-somos)
-    * [Sistemas de Gestión Corporativos](http://red.es/es/sobre-nosotros/sistemas-de-gestion-corporativos)
-    * [Trabaja con nosotros](http://red.es/es/sobre-nosotros/trabaja-con-nosotros)
-* [Transparencia](http://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
+    * [Qué hacemos](http://red.es/es/sobre-nosotros/que-hacemos "Qué hacemos")
+    * [Quiénes somos](http://red.es/es/sobre-nosotros/quienes-somos "Quiénes somos")
+    * [Sistemas de Gestión Corporativos](http://red.es/es/sobre-nosotros/sistemas-de-gestion-corporativos "Sistemas de Gestión Corporativos")
+    * [Trabaja con nosotros](http://red.es/es/sobre-nosotros/trabaja-con-nosotros "Trabaja con nosotros")
+* [Transparencia](http://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno "Transparencia")
 
 Buscar
 
@@ -50,26 +50,26 @@ You must have JavaScript enabled to use this form.
 
 ##### Navegación principal
 
-* [Iniciativas](http://red.es/es/iniciativas)
-* [Actualidad](http://red.es/es/actualidad)
-* [Financiación Europea](http://red.es/es/sobre-nosotros/financiacion-europea)
+* [Iniciativas](http://red.es/es/iniciativas "Iniciativas")
+* [Actualidad](http://red.es/es/actualidad "Actualidad")
+* [Financiación Europea](http://red.es/es/sobre-nosotros/financiacion-europea "Financiación Europea")
 * Sobre nosotros
-    * [Qué hacemos](http://red.es/es/sobre-nosotros/que-hacemos)
-    * [Quiénes somos](http://red.es/es/sobre-nosotros/quienes-somos)
-    * [Sistemas de Gestión Corporativos](http://red.es/es/sobre-nosotros/sistemas-de-gestion-corporativos)
-    * [Trabaja con nosotros](http://red.es/es/sobre-nosotros/trabaja-con-nosotros)
-* [Transparencia](http://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
+    * [Qué hacemos](http://red.es/es/sobre-nosotros/que-hacemos "Qué hacemos")
+    * [Quiénes somos](http://red.es/es/sobre-nosotros/quienes-somos "Quiénes somos")
+    * [Sistemas de Gestión Corporativos](http://red.es/es/sobre-nosotros/sistemas-de-gestion-corporativos "Sistemas de Gestión Corporativos")
+    * [Trabaja con nosotros](http://red.es/es/sobre-nosotros/trabaja-con-nosotros "Trabaja con nosotros")
+* [Transparencia](http://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno "Transparencia")
 
 Nuestros portales
 
-* [Dominios.es](https://www.dominios.es/dominios/)
-* [ONTSI](https://www.ontsi.red.es/)
-* [RedIRIS](https://www.rediris.es/)
-* [Datos.gob.es](https://datos.gob.es/)
+* [Dominios.es](https://www.dominios.es/dominios/ "Dominios.es")
+* [ONTSI](https://www.ontsi.red.es/ "ONTSI")
+* [RedIRIS](https://www.rediris.es/ "RedIRIS")
+* [Datos.gob.es](https://datos.gob.es/ "Datos.gob.es")
 * [SEDIA](https://portal.mineco.gob.es/es-es/digitalizacionIA/Paginas/sedia.aspx)
-* [España Digital](https://espanadigital.gob.es/)
+* [España Digital](https://espanadigital.gob.es/ "España Digital")
 
-[Sede electrónica](https://sede.red.gob.es/)
+[Sede electrónica](https://sede.red.gob.es/ "Sede electrónica")
 
 Idioma
 
@@ -118,19 +118,19 @@ Hasta el próximo 12 de noviembre las startups interesadas pueden inscribirse y 
 
 Noticia
 
-Transformación Digital PYMES
-
-Red.es aumenta un 400% su ejecución económica en los últimos tres años
-
-[Red.es aumenta un 400% su ejecución económica en los últimos tres años](http://red.es/es/actualidad/noticias/redes-aumenta-un-400-su-ejecucion-economica- "Ir al contenido de: Red.es aumenta un 400% su ejecución económica en los últimos tres años ")
-
-Noticia
-
 Internacionalización
 
 Siete startups lideradas por mujeres participarán en la segunda edición de Desafía San Francisco enfocada a emprendedoras
 
 [Siete startups lideradas por mujeres participarán en la segunda edición de Desafía San Francisco enfocada a emprendedoras](http://red.es/es/actualidad/noticias/siete-startups-mujeres-segunda-edicion-desafia-san-francisco "Ir al contenido de: Siete startups lideradas por mujeres participarán en la segunda edición de Desafía San Francisco enfocada a emprendedoras")
+
+Noticia
+
+Internacionalización
+
+Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas
+
+[Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas](http://red.es/es/actualidad/noticias/abierto-hasta-el-2-de-diciembre-el-plazo-de-inscripciones-para-ser-parte-del "Ir al contenido de: Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
@@ -183,12 +183,12 @@ Red.es lleva a cabo las convocatorias para fomentar el desarrollo de proyectos y
 
 Nuestros Portales
 
-* [Dominios.es](https://www.dominios.es/dominios/)
-* [ONTSI](https://www.ontsi.red.es/)
-* [RedIRIS](https://www.rediris.es/)
-* [Datos.gob.es](https://datos.gob.es/)
+* [Dominios.es](https://www.dominios.es/dominios/ "Dominios.es")
+* [ONTSI](https://www.ontsi.red.es/ "ONTSI")
+* [RedIRIS](https://www.rediris.es/ "RedIRIS")
+* [Datos.gob.es](https://datos.gob.es/ "Datos.gob.es")
 * [SEDIA](https://portal.mineco.gob.es/es-es/digitalizacionIA/Paginas/sedia.aspx)
-* [España Digital](https://espanadigital.gob.es/)
+* [España Digital](https://espanadigital.gob.es/ "España Digital")
 
 ##### Enlaces para el ciudadano
 
