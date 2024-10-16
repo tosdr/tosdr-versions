@@ -413,7 +413,7 @@ You have the option to withdraw your consent to the processing of personal data 
 
 You can also object to the processing of your personal data at any time if and insofar as this processing is carried out on the basis of Art. 6 para. 1 sentence 1 lit. f) GDPR \[see XXI. (1) Right to object below\].
 
-You can send both the cancellation and the objection, e.g. by email to [dpo@nextcloud.com](mailto:dpo@nextcloud.com). Note that this means conversations that are ongoing, instant trials you have started, newsletter subscriptions and other services that require us to have your data, will stop.
+You can send both the cancellation and the objection, e.g. by email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.de). Note that this means conversations that are ongoing, instant trials you have started, newsletter subscriptions and other services that require us to have your data, will stop.
 
 **VII. Newsletter**
 -------------------
@@ -519,7 +519,7 @@ You have the option to withdraw your consent to the processing of personal data 
 
 You can also object to the processing of your personal data at any time if and insofar as this processing is carried out on the basis of Art. 6 para. 1 sentence 1 lit. f) GDPR \[see XXI. (1) Right to object below\].
 
-You can send both the cancellation and the objection, e.g. by email to [dpo@nextcloud.com](mailto:dpo@nextcloud.com).
+You can send both the cancellation and the objection, e.g. by email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.de).
 
 The user can prevent or cancel the installation of a cookie and its storage, and thus his cookie consent, at any time by changing the settings of his browser. However, the functionality of this website is then not guaranteed.
 
@@ -571,7 +571,7 @@ You have the option to revoke your consent to the processing of personal data at
 
 You can also object to the processing of your personal data at any time if and insofar as this processing is carried out on the basis of Art. 6 para. 1 sentence 1 lit. f) GDPR \[see below XIX. (1) Right to object\].
 
-You can send both the cancellation and the objection, e.g. by email to [dpo@nextcloud.com](mailto:dpo@nextcloud.com). In such a case, however, the conversation cannot be continued.
+You can send both the cancellation and the objection, e.g. by email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.de). In such a case, however, the conversation cannot be continued.
 
 For security reasons, we must also remove the apps you have uploaded when deleting your personal data.
 
@@ -616,7 +616,7 @@ You have the option to withdraw your consent to the processing of personal data 
 
 You can also object to the processing of your personal data at any time if and insofar as this processing is carried out on the basis of Art. 6 para. 1 sentence 1 lit. f) GDPR \[see XXI.(1) Right to object below\].
 
-You can send both the withdrawal and the objection, e.g. by email to [dpo@nextcloud.com](mailto:dpo@nextcloud.com). In such a case, however, the conversation cannot be continued.
+You can send both the withdrawal and the objection, e.g. by email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.de). In such a case, however, the conversation cannot be continued.
 
 **XI. Third Party Tools**
 -------------------------
@@ -806,7 +806,7 @@ After an objection or cancellation declared by you \[see below under (6)\], your
 
 As a company, you can change your contact persons at any time after logging in.
 
-You can also contact us, e.g. by email to [dpo@nextcloud.com](mailto:dpo@nextcloud.com), if you are not (or no longer) available as a contact person. However, since you were appointed by your company, we request that you seek clarification within the company.
+You can also contact us, e.g. by email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.de), if you are not (or no longer) available as a contact person. However, since you were appointed by your company, we request that you seek clarification within the company.
 
 If you do contact us, please understand that we will need to confirm with the company how to proceed, especially if you are the only contact person.
 
@@ -938,7 +938,7 @@ If we process your personal data, you are a data subject within the meaning of t
 
 **(b) You may also object to other processing that we derive from a legitimate interest within the meaning of Art. 6 para. 1 sentence 1 lit. f) GDPR by stating reasons related to your particular situation. This also applies in principle to profiling based on this provision However, we do not currently engage in such profiling. We will stop processing your personal data unless we can demonstrate compelling reasons for the processing that outweigh your interests, rights and freedoms, or if the processing serves to assert, exercise or defend legal claims.**
 
-**(c) Any objection can be made informally. For example, sending an email to [dpo@nextcloud.com](mailto:dpo@nextcloud.comm) is sufficient.**
+**(c) Any objection can be made informally. For example, sending an email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.dem) is sufficient.**
 
 **(2) Right to information**
 
@@ -1013,7 +1013,7 @@ In exercising this right, you also have the right to request that the personal d
 
 **(8) Right to revoke the declaration of consent under data protection law**
 
-You have the right to revoke your declaration of consent under data protection law at any time. The withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal. If you wish to exercise your right to withdraw consent, simply send an email to [dpo@nextcloud.com](mailto:dpo@nextcloud.com).
+You have the right to revoke your declaration of consent under data protection law at any time. The withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal. If you wish to exercise your right to withdraw consent, simply send an email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.de).
 
 **(9) Right to lodge a complaint with a supervisory authority**
 
