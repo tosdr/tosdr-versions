@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/bankoverstap-een-gedoe-nou-welterusten-dan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/synchroniciteit-en-t-geheim-van-de-co-creator/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
