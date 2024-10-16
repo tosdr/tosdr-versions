@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/career-wealth/wealth/podcast-1031-money-can-buy-happiness-if-you-use-it-in-these-ways/)
+
+[Podcast #1,031
+
+###### Money CAN Buy Happiness (If You Use It In These Ways)](https://www.artofmanliness.com/career-wealth/wealth/podcast-1031-money-can-buy-happiness-if-you-use-it-in-these-ways/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/career-wealth/leadership/podcast-1030-the-problems-with-the-cult-of-leadership/)
 
 [Podcast #1,030
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,028
 
 ###### The 5 Marks of a Man](https://www.artofmanliness.com/character/advice/podcast-1028-the-5-marks-of-a-man/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1027-the-imagination-muscle-where-good-ideas-come-from-and-how-to-have-more-of-them/)
-
-[Podcast #1,027
-
-###### The Imagination Muscle — Where Good Ideas Come From (And How to Have More of Them)](https://www.artofmanliness.com/character/behavior/podcast-1027-the-imagination-muscle-where-good-ideas-come-from-and-how-to-have-more-of-them/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
