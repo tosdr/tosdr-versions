@@ -2,15 +2,15 @@ Published using Google Docs
 
 [Report abuse](https://drive.google.com/abuse?id=AKkXjoxAtlRz-dxAR3yPpshkZHfPRoNEFnmwowS37UZH4WVM4SjmRlz9KD6K80lm59a_0jlPt7TpjByA9moqRHM:0&docurl=https://docs.google.com/document/d/e/2PACX-1vRmU4OVlapXiYqsM3O9zy9v0JaVYEuYtbK3aq70c6ey5ere8xv5rNQzp-iHc3LNdjJeKR1JnzTQS8AB/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
-TasksBoard Terms of Service
+📜 TasksBoard Terms of Service
 
 Updated automatically every 5 minutes
 
-TasksBoard Terms of Service
+TasksBoard - Terms of Service
 
 1\. Your relationship with TasksBoard
 
-1.1 Your use of TasksBoard’s products, software, services and web sites (referred to collectively as the “Services” in this document and excluding any services provided to you by TasksBoard under a separate written agreement) is subject to the terms of a legal agreement between you and TasksBoard. “TasksBoard” means TasksBoard by WebGenesis LLC. This document explains how the agreement is made up, and sets out some of the terms of that agreement.
+1.1 Your use of TasksBoard’s products, software, services and web sites (referred to collectively as the “Services” in this document and excluding any services provided to you by TasksBoard under a separate written agreement) is subject to the terms of a legal agreement between you and TasksBoard. “TasksBoard” means TasksBoard by EchoWave LLC, ROC Office, Jazeera, RAK, UAE. This document explains how the agreement is made up, and sets out some of the terms of that agreement.
 
 1.2 Unless otherwise agreed in writing with TasksBoard, your agreement with TasksBoard will always include, at a minimum, the terms and conditions set out in this document. These are referred to below as the “Universal Terms”.
 
@@ -30,7 +30,7 @@ TasksBoard Terms of Service
 
 (B) by actually using the Services. In this case, you understand and agree that TasksBoard will treat your use of the Services as acceptance of the Terms from that point onwards.
 
-2.3 You may not use the Services and may not accept the Terms if (a) you are not of legal age to form a binding contract with TasksBoard, or (b) you are a person barred from receiving the Services under the laws of the United States, Switzerland, or other countries including the country in which you are resident or from which you use the Services.
+2.3 You may not use the Services and may not accept the Terms if (a) you are not of legal age to form a binding contract with TasksBoard, or (b) you are a person barred from receiving the Services under the laws of the USA, UAE, or other countries including the country in which you are resident or from which you use the Services.
 
 2.4 Before you continue, you should print off or save a local copy of the Universal Terms for your records.
 
@@ -56,7 +56,7 @@ TasksBoard Terms of Service
 
 5.1 In order to access certain Services, you may be required to provide information about yourself (such as identification or contact details) as part of the registration process for the Service, or as part of your continued use of the Services. You agree that any registration information you give to TasksBoard will always be accurate, correct and up to date.
 
-5.2 You agree to use the Services only for purposes that are permitted by (a) the Terms and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from the United States, Switzerland, or other relevant countries).
+5.2 You agree to use the Services only for purposes that are permitted by (a) the Terms and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from the USA, UAE, or other relevant countries).
 
 5.3 You agree not to access (or attempt to access) any of the Services by any means other than through the interface that is provided by TasksBoard, unless you have been specifically allowed to do so in a separate agreement with TasksBoard.
 
@@ -68,7 +68,7 @@ TasksBoard Terms of Service
 
 6. Billing Terms
 
-6.1 You agree to pay all applicable fees related to your use of this Website which are described fully on our [pricing page](https://www.google.com/url?q=https://tasksboard.com/pricing/&sa=D&source=editors&ust=1729098576060967&usg=AOvVaw0GvdGqIk_ayrEsmGcSZOsZ). By providing a payment method, you expressly authorize us to charge the applicable fees on said payment method as well as taxes and other charges incurred thereto at regular intervals, all of which depend on your particular subscription and utilized services.
+6.1 You agree to pay all applicable fees related to your use of this Website which are described fully on our [pricing page](https://www.google.com/url?q=https://tasksboard.com/pricing/&sa=D&source=editors&ust=1729119223971119&usg=AOvVaw2vMAfoX2SWNd3cGQTyN43v). By providing a payment method, you expressly authorize us to charge the applicable fees on said payment method as well as taxes and other charges incurred thereto at regular intervals, all of which depend on your particular subscription and utilized services.
 
 The subscription period for Paid Accounts can be month-to-month or yearly.
 
@@ -76,7 +76,7 @@ Paid Accounts are subject to fees based upon the account type you've selected. F
 
 6.2 You can cancel your subscription immediately, with no fee. If you cancel your plan before the next renewal cycle, you will retain access to paid features until the end of your subscription period. When your subscription expires, you will lose access to paid features and all data associated with those features.
 
-To receive a refund from a paid subscription you must request the refund within 30 days of subscribing at this email address: [contact@tasksboard.app](mailto:contact@tasksboard.app).
+To receive a refund from a paid subscription you must request the refund within 30 days of subscribing at this email address: [contact@tasksboard.com](mailto:contact@tasksboard.app).
 
 7\. Your passwords and account security
 
@@ -84,7 +84,7 @@ To receive a refund from a paid subscription you must request the refund within 
 
 7.2 Accordingly, you agree that you will be solely responsible to TasksBoard for all activities that occur under your account.
 
-7.3 If you become aware of any unauthorised use of your password or of your account, you agree to notify TasksBoard immediately at [contact@tasksboard.app](mailto:contact@tasksboard.app).
+7.3 If you become aware of any unauthorised use of your password or of your account, you agree to notify TasksBoard immediately at [contact@tasksboard.com](mailto:contact@tasksboard.app).
 
 8\. Privacy and your personal information
 
@@ -208,11 +208,11 @@ To receive a refund from a paid subscription you must request the refund within 
 
 18\. Other content
 
-18.1 The Services may include hyperlinks to other web sites or content or resources. TasksBoard may have no control over any web sites or resources which are provided by companies or persons other than TasksBoard.
+18.1 The Services may include hyperlinks to other web sites or content or resources. TasksBoard may have no control over any websites or resources which are provided by companies or persons other than TasksBoard.
 
 18.2 You acknowledge and agree that TasksBoard is not responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such web sites or resources.
 
-18.3 You acknowledge and agree that TasksBoard is not liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such web sites or resources.
+18.3 You acknowledge and agree that TasksBoard is not liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such websites or resources.
 
 19\. Changes to the Terms
 
@@ -234,8 +234,8 @@ To receive a refund from a paid subscription you must request the refund within 
 
 20.6 You acknowledge and agree that each member of the group of companies of which TasksBoard is the parent shall be third party beneficiaries to the Terms and that such other companies shall be entitled to directly enforce, and rely upon, any provision of the Terms which confers a benefit on (or rights in favor of) them. Other than this, no other person or company shall be third party beneficiaries to the Terms.
 
-20.7 The Terms, and your relationship with TasksBoard under the Terms, shall be governed by Swiss law. You and TasksBoard agree to submit to the exclusive jurisdiction of the courts of Switzerland to resolve any legal matter arising from the Terms. Notwithstanding this, you agree that TasksBoard shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+20.7 The Terms, and your relationship with TasksBoard under the Terms, shall be governed by UAE law. You and TasksBoard agree to submit to the exclusive jurisdiction of the courts of UAE to resolve any legal matter arising from the Terms. Notwithstanding this, you agree that TasksBoard shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
 
 \--
 
-May, 2023
+May, 2024
