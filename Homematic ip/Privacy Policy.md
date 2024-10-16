@@ -553,7 +553,7 @@ Footer
 * [Impressum](https://homematic-ip.com/de/impressum)
 * [Kontakt](https://homematic-ip.com/de/kontakt)
 * [Newsletter](https://homematic-ip.com/de/newsletter)
-* [Presse](https://www.eq-3.de/presse.html)
+* [Presse](https://mediahub.homematic-ip.com/)
 * [Karriere](https://karriere.eq-3.de/karriere.html)
 * [Datenschutz](https://homematic-ip.com/de/datenschutz)
 * [Datenschutz (App)](https://homematic-ip.com/de/datenschutz-app)
