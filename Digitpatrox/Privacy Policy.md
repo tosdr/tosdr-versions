@@ -20,16 +20,16 @@ Wednesday, October 16 2024
 
 Latest
 
-* [Amazon says 175 million customers now use passkeys to log in](https://digitpatrox.com/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
-* [Amazon’s new Kindle and Kindle Paperwhite are faster and brighter](https://digitpatrox.com/amazons-new-kindle-and-kindle-paperwhite-are-faster-and-brighter/)
-* [Honkai Star Rail Rappa Materials and Pre-Farming Guide](https://digitpatrox.com/honkai-star-rail-rappa-materials-and-pre-farming-guide/)
-* [Test – Best VPNs for Linux](https://digitpatrox.com/test-best-vpns-for-linux/)
-* [Databricks expands AWS partnership to drive generative AI capabilities](https://digitpatrox.com/databricks-expands-aws-partnership-to-drive-generative-ai-capabilities/)
-* [5 ways to stop Windows Update from rebooting your PC – Computerworld](https://digitpatrox.com/5-ways-to-stop-windows-update-from-rebooting-your-pc-computerworld/)
-* [The Best Ways to Carve Your Halloween Pumpkin](https://digitpatrox.com/the-best-ways-to-carve-your-halloween-pumpkin/)
-* [Ransomware gang BianLian claims cyber attack on Boston Children’s Health Physicians](https://digitpatrox.com/ransomware-gang-bianlian-claims-cyber-attack-on-boston-childrens-health-physicians/)
-* [Skullcandy Push ANC Active Review: Great Sound, but Glitchy](https://digitpatrox.com/skullcandy-push-anc-active-review-great-sound-but-glitchy/)
-* [Storage architectures must change to meet the needs of AI – and Huawei thinks it has a head start on competitors](https://digitpatrox.com/storage-architectures-must-change-to-meet-the-needs-of-ai-and-huawei-thinks-it-has-a-head-start-on-competitors/)
+* [New Loader Masquerades as Antivirus to Deliver SSLoad](https://digitpatrox.com/new-loader-masquerades-as-antivirus-to-deliver-ssload/)
+* [10 Best Small Business Checking Accounts in 2024](https://digitpatrox.com/10-best-small-business-checking-accounts-in-2024/)
+* [AI image generator shoot-out: I tested ChatGPT vs Gemini vs Meta AI to crown a winner](https://digitpatrox.com/ai-image-generator-shoot-out-i-tested-chatgpt-vs-gemini-vs-meta-ai-to-crown-a-winner/)
+* [US disrupts Anonymous Sudan DDoS operation, indicts 2 Sudanese brothers](https://digitpatrox.com/us-disrupts-anonymous-sudan-ddos-operation-indicts-2-sudanese-brothers/)
+* [A day at the F1 Arcade: here’s what it’s like to drive](https://digitpatrox.com/a-day-at-the-f1-arcade-heres-what-its-like-to-drive/)
+* [Salesforce CEO Calls Copilot the New Microsoft Clippy – Doesn’t Work or Deliver Value](https://digitpatrox.com/salesforce-ceo-calls-copilot-the-new-microsoft-clippy-doesnt-work-or-deliver-value/)
+* [How to Spot and Avoid Fake Amazon Driver Text Messages](https://digitpatrox.com/how-to-spot-and-avoid-fake-amazon-driver-text-messages/)
+* [Business execs just said the quiet part out loud on RTO mandates: A quarter admit forcing staff back into the office was meant to make them quit — but this ‘quiet firing’ practice could easily backfire](https://digitpatrox.com/business-execs-just-said-the-quiet-part-out-loud-on-rto-mandates-a-quarter-admit-forcing-staff-back-into-the-office-was-meant-to-make-them-quit-but-this-quiet-firing-pract/)
+* [AI isn’t really that smart yet, Apple researchers warn – Computerworld](https://digitpatrox.com/ai-isnt-really-that-smart-yet-apple-researchers-warn-computerworld/)
+* [You Should Start Canning (It’s Easier Than You Think)](https://digitpatrox.com/you-should-start-canning-its-easier-than-you-think/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/15/amazon-logo.jpg)](https://digitpatrox.com/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
+* [![](https://cdn.mos.cms.futurecdn.net/4fzAJ927NMxsZ73HJqaLQ8-1200-80.jpg)](https://digitpatrox.com/new-loader-masquerades-as-antivirus-to-deliver-ssload/)
     
-    [Amazon says 175 million customers now use passkeys to log in](https://digitpatrox.com/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
+    [New Loader Masquerades as Antivirus to Deliver SSLoad](https://digitpatrox.com/new-loader-masquerades-as-antivirus-to-deliver-ssload/)
     
-    48 seconds ago
+    9 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/j-WIqh2ScOg8VteniWpRk95Q-L0=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25679990/247326_Amazon_Kindle_2024_AKrales_0007.jpg)](https://digitpatrox.com/amazons-new-kindle-and-kindle-paperwhite-are-faster-and-brighter/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/AdobeStock_278414365.jpg)](https://digitpatrox.com/10-best-small-business-checking-accounts-in-2024/)
     
-    [Amazon’s new Kindle and Kindle Paperwhite are faster and brighter](https://digitpatrox.com/amazons-new-kindle-and-kindle-paperwhite-are-faster-and-brighter/)
+    [10 Best Small Business Checking Accounts in 2024](https://digitpatrox.com/10-best-small-business-checking-accounts-in-2024/)
     
-    18 mins ago
+    13 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/Rappa-Traces-and-Ascension-abilities.jpg)](https://digitpatrox.com/honkai-star-rail-rappa-materials-and-pre-farming-guide/)
+* [![](https://cdn.mos.cms.futurecdn.net/BdEkqHr9LQsZWy6PT6xsr7-1200-80.jpg)](https://digitpatrox.com/ai-image-generator-shoot-out-i-tested-chatgpt-vs-gemini-vs-meta-ai-to-crown-a-winner/)
     
-    [Honkai Star Rail Rappa Materials and Pre-Farming Guide](https://digitpatrox.com/honkai-star-rail-rappa-materials-and-pre-farming-guide/)
+    [AI image generator shoot-out: I tested ChatGPT vs Gemini vs Meta AI to crown a winner](https://digitpatrox.com/ai-image-generator-shoot-out-i-tested-chatgpt-vs-gemini-vs-meta-ai-to-crown-a-winner/)
     
-    33 mins ago
+    28 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/The-best-VPNs-for-Linux-in-2020-and-the-worst.jpg)](https://digitpatrox.com/test-best-vpns-for-linux/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/16/ddos-department-of-justice.jpg)](https://digitpatrox.com/us-disrupts-anonymous-sudan-ddos-operation-indicts-2-sudanese-brothers/)
     
-    [Test – Best VPNs for Linux](https://digitpatrox.com/test-best-vpns-for-linux/)
+    [US disrupts Anonymous Sudan DDoS operation, indicts 2 Sudanese brothers](https://digitpatrox.com/us-disrupts-anonymous-sudan-ddos-operation-indicts-2-sudanese-brothers/)
     
-    2 hours ago
+    56 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/mpMqMS59ehgX7VhtsZ4QTM-1200-80.jpg)](https://digitpatrox.com/databricks-expands-aws-partnership-to-drive-generative-ai-capabilities/)
+* [![](https://cdn.vox-cdn.com/thumbor/OtKBP7b2JJBtXJJqG_RUbsx0S14=/0x0:5562x4172/1200x628/filters:focal(2781x2086:2782x2087)/cdn.vox-cdn.com/uploads/chorus_asset/file/25681368/F1_Arcade_Wheel.jpg)](https://digitpatrox.com/a-day-at-the-f1-arcade-heres-what-its-like-to-drive/)
     
-    [Databricks expands AWS partnership to drive generative AI capabilities](https://digitpatrox.com/databricks-expands-aws-partnership-to-drive-generative-ai-capabilities/)
+    [A day at the F1 Arcade: here’s what it’s like to drive](https://digitpatrox.com/a-day-at-the-f1-arcade-heres-what-its-like-to-drive/)
     
-    2 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [48 seconds ago
+* [9 mins ago
     
-    ### Amazon says 175 million customers now use passkeys to log in](https://digitpatrox.com/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
-* [18 mins ago
+    ### New Loader Masquerades as Antivirus to Deliver SSLoad](https://digitpatrox.com/new-loader-masquerades-as-antivirus-to-deliver-ssload/)
+* [13 mins ago
     
-    ### Amazon’s new Kindle and Kindle Paperwhite are faster and brighter](https://digitpatrox.com/amazons-new-kindle-and-kindle-paperwhite-are-faster-and-brighter/)
-* [33 mins ago
+    ### 10 Best Small Business Checking Accounts in 2024](https://digitpatrox.com/10-best-small-business-checking-accounts-in-2024/)
+* [28 mins ago
     
-    ### Honkai Star Rail Rappa Materials and Pre-Farming Guide](https://digitpatrox.com/honkai-star-rail-rappa-materials-and-pre-farming-guide/)
+    ### AI image generator shoot-out: I tested ChatGPT vs Gemini vs Meta AI to crown a winner](https://digitpatrox.com/ai-image-generator-shoot-out-i-tested-chatgpt-vs-gemini-vs-meta-ai-to-crown-a-winner/)
 
 Most Popular Topics
 
-* [August 25, 2024
-    
-    ### Canoo is down to one co-founder as its CTO reportedly leaves](https://digitpatrox.com/canoo-is-down-to-one-co-founder-as-its-cto-reportedly-leaves/)
 * [1 week ago
     
-    ### The Google Pixel Watch 2 just hit its lowest ever price on Amazon with this Prime Day deal](https://digitpatrox.com/the-google-pixel-watch-2-just-hit-its-lowest-ever-price-on-amazon-with-this-prime-day-deal/)
-* [1 week ago
+    ### Instacart’s smart cart helps you navigate to the sauce that’s on sale](https://digitpatrox.com/instacarts-smart-cart-helps-you-navigate-to-the-sauce-thats-on-sale/)
+* [4 weeks ago
     
-    ### Lost Souls Codes (October 2024)](https://digitpatrox.com/lost-souls-codes-october-2024/)
+    ### Wordle Answer for Today, September 22, 2024](https://digitpatrox.com/wordle-answer-for-today-september-22-2024/)
+* [September 6, 2024
+    
+    ### Everything You Need to Know](https://digitpatrox.com/everything-you-need-to-know/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### The Best Ways to Carve Your Halloween Pumpkin](https://digitpatrox.com/the-best-ways-to-carve-your-halloween-pumpkin/)
+    ### How to Spot and Avoid Fake Amazon Driver Text Messages](https://digitpatrox.com/how-to-spot-and-avoid-fake-amazon-driver-text-messages/)
 * [3 hours ago
     
-    ### Ransomware gang BianLian claims cyber attack on Boston Children’s Health Physicians](https://digitpatrox.com/ransomware-gang-bianlian-claims-cyber-attack-on-boston-childrens-health-physicians/)
+    ### Business execs just said the quiet part out loud on RTO mandates: A quarter admit forcing staff back into the office was meant to make them quit — but this ‘quiet firing’ practice could easily backfire](https://digitpatrox.com/business-execs-just-said-the-quiet-part-out-loud-on-rto-mandates-a-quarter-admit-forcing-staff-back-into-the-office-was-meant-to-make-them-quit-but-this-quiet-firing-pract/)
 * [3 hours ago
     
-    ### Skullcandy Push ANC Active Review: Great Sound, but Glitchy](https://digitpatrox.com/skullcandy-push-anc-active-review-great-sound-but-glitchy/)
+    ### AI isn’t really that smart yet, Apple researchers warn – Computerworld](https://digitpatrox.com/ai-isnt-really-that-smart-yet-apple-researchers-warn-computerworld/)
 
 Most Viewed Topics
 
@@ -249,7 +249,7 @@ Most Viewed Topics
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
