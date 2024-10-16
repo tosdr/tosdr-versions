@@ -36,18 +36,18 @@
         
         EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
     
-    * [![Amazon says 175 million customer now use passkeys to log in](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Still time to save $449 on the Babbel language learning app](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Amazon says 175 million customer now use passkeys to log in](https://www.bleepingcomputer.com/news/security/amazon-says-175-million-customer-now-use-passkeys-to-log-in/)
+        Still time to save $449 on the Babbel language learning app](https://www.bleepingcomputer.com/offer/deals/still-time-to-save-449-on-the-babbel-language-learning-app/)
+    * [![Amazon says 175 million customers now use passkeys to log in](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Amazon says 175 million customers now use passkeys to log in](https://www.bleepingcomputer.com/news/security/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
     * [![Finland seizes servers of 'Sipultie' dark web drugs market](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Finland seizes servers of 'Sipultie' dark web drugs market](https://www.bleepingcomputer.com/news/legal/finland-seizes-servers-of-sipultie-dark-web-drugs-market/)
     * [![EDRSilencer red team tool used in attacks to bypass security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
-    * [![Turn raw data into something you can show off with Microsoft Visio](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Turn raw data into something you can show off with Microsoft Visio](https://www.bleepingcomputer.com/offer/deals/turn-raw-data-into-something-you-can-show-off-with-microsoft-visio/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
