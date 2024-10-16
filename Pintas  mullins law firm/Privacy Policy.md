@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is the cancer causing ingredient in johnson & johnson?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-the-cancer-causing-ingredient-in-johnson-and-johnson-scaled.jpg "What Is the Cancer Causing Ingredient in Johnson & Johnson?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder "What Is the Cancer Causing Ingredient in Johnson & Johnson?")
+[![Who can file an assisted living abuse lawsuit?](https://www.pintas.com/wp-content/uploads/2021/01/practice-areas-personal-injury-assisted-living-accident-lawyer-who-can-file-an-assisted-living-abuse-lawsuit-300x200.jpg "Who Can File an Assisted Living Abuse Lawsuit?")](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-can-file-an-assisted-living-abuse-lawsuit/ "Who Can File an Assisted Living Abuse Lawsuit?")
 
-[#### What Is the Cancer Causing Ingredient in Johnson & Johnson?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder)
+[#### Who Can File an Assisted Living Abuse Lawsuit?](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-can-file-an-assisted-living-abuse-lawsuit/)
 
-[![What percentage of workers get lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-percentage-of-workers-get-lung-cancer.jpg "What Percentage of Workers Get Lung Cancer?")](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/ "What Percentage of Workers Get Lung Cancer?")
+[![How many people die from lung cancer every year?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-how-many-people-die-from-lung-cancer-every-year.jpg "How Many People Die From Lung Cancer Every Year?")](https://www.pintas.com/practice-areas/lung-cancer/average-deaths-from-lung-cancer-each-year "How Many People Die From Lung Cancer Every Year?")
 
-[#### What Percentage of Workers Get Lung Cancer?](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/)
+[#### How Many People Die From Lung Cancer Every Year?](https://www.pintas.com/practice-areas/lung-cancer/average-deaths-from-lung-cancer-each-year)
 
-[![How do you know if lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-how-do-you-know-if-lung-cancer-is-caused-by-asbestos.jpg "How Do You Know If Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-lung-cancer-is-caused-by-asbestos/ "How Do You Know If Lung Cancer Is Caused By Asbestos?")
+[![Who do i file a complaint with about a home health aide?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-do-i-file-a-complaint-with-about-a-home-health-aide-scaled.jpg "Who Do I File a Complaint With About a Home Health Aide?")](https://www.pintas.com/faq/who-do-i-file-a-complaint-with-about-a-home-health-aide/ "Who Do I File a Complaint With About a Home Health Aide?")
 
-[#### How Do You Know If Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-lung-cancer-is-caused-by-asbestos/)
+[#### Who Do I File a Complaint With About a Home Health Aide?](https://www.pintas.com/faq/who-do-i-file-a-complaint-with-about-a-home-health-aide/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
