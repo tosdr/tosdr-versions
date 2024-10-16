@@ -11,7 +11,7 @@ EN
 Logos Terms of Service
 ======================
 
-**Last amended on: 09/30/2024**
+**Last amended on: 10/15/2024**
 
 **1\. General.**
 ----------------
@@ -211,17 +211,17 @@ BY USING THE SERVICES, YOU AGREE TO INDEMNIFY AND HOLD HARMLESS US AND OUR EMPLO
 **18\. Subscriptions.**
 -----------------------
 
-**Payment for Subscriptions.** Logos offers a variety of paid and non-paid Subscriptions for Services. Please see specific product pricing pages for pricing information.
+**Payment for Subscriptions.** Logos offers a variety of Subscriptions for Services. Please see specific product pricing pages for pricing information.
 
-All Subscriptions begin when we confirm your initial payment and renew thereafter on an automatic basis as described in your Order (e.g. monthly, semi-annually, annually, biennially or on some other basis). By subscribing, you agree to allow us to automatically renew your Subscription at the end of each Subscription period. Your Subscription will automatically renew on the renewal date shown in the “Subscriptions” section of your account page unless the Subscription is no longer offered. On the renewal date, the payment method associated with your account will be charged the then current rate for the Subscription (or the monthly portion due if you have an annual Subscription that is billed monthly).
+All Subscriptions begin when we confirm your initial payment or free trial and renew thereafter on an automatic basis as described in your Order (e.g., monthly or annually). By subscribing, you agree to allow us to automatically renew your Subscription at the end of each Subscription period. Your Subscription will automatically renew on the renewal date shown in the “Subscriptions” section of your account page. On the renewal date, the payment method associated with your account will be charged the then-current rate for the Subscription.
 
-We will do our best to provide notice of any changes to service terms or price at the time of the change. If a renewal payment fails, you will be notified via email. You will have 13 days to update your payment information before your Subscription will be suspended. **All notices regarding your Subscription will be sent to the email address associated with your account. It is up to you to keep that email address current.**
+Logos reserves the right to modify the contents of the Subscription. Logos reserves the right to change the price of the Subscription. We will inform you via email of any changes to price at least 30 days in advance. If a renewal payment fails, you will be notified via email. You will have 13 days to update your payment information. On the 14th day, if your payment information has not been updated, your Subscription will be suspended. **All notices regarding your Subscription will be sent to the email address associated with your Logos account. It is up to you to keep that email address current and ensure emails from Logos are allowed by any spam filter associated with your email account.**
 
-**Free trials.** Your Subscription may start with a free trial for a limited period of time. When combining free trials with other offers, restrictions may apply. Free trials are for new and certain former subscribers only. We reserve the right to determine your free-trial eligibility. Some free trials will not allow auto-renewal. To continue service on free trials without automatic renewal, you will need to subscribe and have an active payment method on file on your account. Some free trials will be subject to auto-renewal, and require a payment method to be on file at the time the trial starts. In these instances we will begin billing you for your Subscription at the end of the free-trial period unless you cancel automatic renewal (see Cancellation/Termination) prior to the end of the free-trial period. Please keep a record of when your free-trial period ends. You are responsible for canceling the automatic renewal of your Subscription in a timely manner.
+**Free trials.**Your Subscription may start with a free trial for a limited period of time. When combining free trials with other offers, restrictions may apply. We reserve the right to determine your free-trial eligibility. Trials that automatically renew require a payment method on file at the beginning of the trial. In these instances we will begin billing you for your Subscription at the end of the free-trial period unless you cancel automatic renewal (see Cancellation/Termination) prior to the end of the free-trial period. Please keep a record of when your free-trial period ends. To avoid unwanted charges, you are responsible for canceling the automatic renewal of your Subscription in a timely manner.
 
-**How to manage your Subscription.** You can view billing cycle information, manage your Subscription by visiting “Subscriptions” on your account page ([Logos.com/account/Subscriptions](https://www.logos.com/account/subscriptions)). Contact numbers for the Company can be found at [www.Logos.com](https://logos.com/contact).
+**How to manage your Subscription.** You can view billing cycle information and manage your Subscription by visiting “Subscriptions” on your account page ([Logos.com/account/Subscriptions](https://www.logos.com/account/subscriptions)). Contact numbers for the Company can be found at [Logos.com/contact](https://logos.com/contact).
 
-**Cancellation/Termination.** To cancel your Subscription you must click “Cancel Subscription” from the "Subscriptions" section of your account page and follow the instructions given. Once you’ve done this, your Subscription will not automatically renew at the next renewal date. If you cancel an annual subscription that is being billed monthly, your payment method will be charged for the remaining payments due on the established billing cycle. You will have full access to the Services subject to the Subscription until the end of your existing subscription term.
+**Cancellation/Termination.**To cancel your Subscription you must click “Cancel Subscription” or "Turn off auto renew" from the “Subscriptions” section of your account page and follow the instructions given. Once you’ve done this, your Subscription will not automatically renew at the next renewal date. You will have full access to the Services subject to the Subscription until the end of your existing subscription term.
 
 **19\. LBS Term and Termination.**
 ----------------------------------
