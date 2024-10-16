@@ -628,7 +628,7 @@ Notwithstanding the product prices shown on the website, we cannot confirm the p
 
 ### Promotion Exclusions
 
-\*Promotion applies to order total before shipping, taxes, and duties. Promotions that involve a price reduction may take a variety of forms, including strikethrough prices or a discount code (e.g., percent-off or dollar-off discount code) that is applied by the customer at checkout (collectively "Product Discounts"). Promotional offers may be used one time only per household. Only one discount or promotional offer may be used per item. "Bonus Discounts" that are automatically applied to your order total may not be combined with one-time use discount codes or gift codes. Discounts will not be applied to (a) previous or existing orders, (b) gift certificates, (c) Limited Editions, (d) Special Editions, (e) prices ending in.x5 and (g) prices marked as "Clearance" or ending in .x8.
+\*Promotion applies to order total before shipping, taxes, and duties. Promotions that involve a price reduction may take a variety of forms, including strikethrough prices or a discount code (e.g., percent-off or dollar-off discount code) that is applied by the customer at checkout (collectively "Product Discounts"). Promotional offers may be used one time only per household. Only one discount or promotional offer may be used per item. "Bonus Discounts" that are automatically applied to your order total may not be combined with one-time use discount codes or gift codes. Discounts will not be applied to (a) previous or existing orders, (b) gift cards, (c) Limited Editions, (d) Special Editions, (e) prices ending in.x5 and (g) prices marked as "Clearance" or ending in .x8.
 
   
 
