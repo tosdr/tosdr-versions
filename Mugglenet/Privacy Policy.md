@@ -318,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Hogwarts Express locomotive in this film is portrayed by the 1937 GWR 4900 Class 5972 Olton Hall. It has been on display at Warner Bros. Studio Tour London – The Making of Harry Potter since 2015.
+After Fred Weasley died, George Weasley was no longer able to conjure a Patronus.
 
 ### Potter History
 
-April 25, 2008 – ComingSoon.net reports that the release date for Harry Potter and the Deathly Hallows – Part 1 is set for November 19, 2010.
+October 2, 2000 – Production begins on the film version of Harry Potter and the Philosopher’s/Sorcerer’s Stone.
 
 ### Potter Quote
 
-“You actually are joking, Perce. . . . I don’t think I’ve heard you joke since you were —”
+“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”
 
 [](#)
 
