@@ -198,9 +198,9 @@ We can continue to use your Data following a request for restriction, where:
 ‍_If you consider that your rights relating to the processing of your Data have been infringed you have the right to lodge a complaint with your local supervisory authority.
 
 **‍**  
-**8.2  Withdraw consent.** Where we are relying on your consent for the processing of your Data, you have the right to withdraw your consent at any time by contacting [\[email protected\]](https://www.vectary.com/cdn-cgi/l/email-protection).  
+**8.2  Withdraw consent.** Where we are relying on your consent for the processing of your Data, you have the right to withdraw your consent at any time by contacting [contact@vectary.com](mailto:contact@vectary.com).  
   
-**8.3**  You may submit these requests by email to [\[email protected\]](https://www.vectary.com/cdn-cgi/l/email-protection). We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your Data or our response to your requests regarding your Data, you may contact us or submit a complaint to the data protection regulator in your jurisdiction.  
+**8.3**  You may submit these requests by email to [contact@vectary.com](mailto:contact@vectary.com). We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your Data or our response to your requests regarding your Data, you may contact us or submit a complaint to the data protection regulator in your jurisdiction.  
 
 9\. Do we use automated individual decision-making? And how does it work?
 -------------------------------------------------------------------------
@@ -210,7 +210,7 @@ We can continue to use your Data following a request for restriction, where:
 10\. Children´s privacy
 -----------------------
 
-**10.1**  Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or solicit Data from anyone under the age of 16. If you are under 16, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 16 is allowed to provide any Data to or on the Site. In the event that we learn that we have collected Data from a child under age 16 without verification of parental consent, we will delete that information as soon as reasonably practicable. If you believe that we might have any information from or about a child under 16, please contact us at [\[email protected\]](https://www.vectary.com/cdn-cgi/l/email-protection).  
+**10.1**  Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or solicit Data from anyone under the age of 16. If you are under 16, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 16 is allowed to provide any Data to or on the Site. In the event that we learn that we have collected Data from a child under age 16 without verification of parental consent, we will delete that information as soon as reasonably practicable. If you believe that we might have any information from or about a child under 16, please contact us at [contact@vectary.com](mailto:contact@vectary.com).  
 
 11\. How do we update our privacy policy?
 -----------------------------------------
@@ -227,7 +227,7 @@ We can continue to use your Data following a request for restriction, where:
 13\. How to contact us
 ----------------------
 
-**13.1**  Please direct any questions or comments about this Policy or privacy practices to [\[email protected\]](https://www.vectary.com/cdn-cgi/l/email-protection).  
+**13.1**  Please direct any questions or comments about this Policy or privacy practices to [contact@vectary.com](mailto:contact@vectary.com).  
 
 14\. EU data protection supervisory authority
 ---------------------------------------------
