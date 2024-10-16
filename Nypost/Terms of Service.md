@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Georgia judge blocks ballot counting rule and says county officials must certify election results](https://nypost.com/2024/10/15/us-news/georgia-judge-blocks-ballot-counting-rule-and-says-county-officials-must-certify-election-results/)
+
 Terms Of Use
 ============
 
