@@ -18,8 +18,10 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
@@ -221,9 +223,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC, DOJ Issue Fiscal Year 2023 Hart-Scott-Rodino Notification Report and Announce Corrected Fiscal Year 2022 Report](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-doj-issue-fiscal-year-2023-hsr-report-and-announce-corrected-2022-report)
+    ### [Federal Trade Commission Announces Final “Click-to-Cancel” Rule Making It Easier for Consumers to End Recurring Subscriptions and Memberships](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
     
-    October 10, 2024
+    October 16, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
@@ -323,8 +325,10 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
