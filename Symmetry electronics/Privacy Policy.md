@@ -20,6 +20,7 @@ Back
         * [Circuit Protection](https://www.symmetryelectronics.com/products/circuit-protection/)
         * [Circuit Protection Kits](https://www.symmetryelectronics.com/products/circuit-protection/circuit-protection-kits/)
         * [ESD Suppressors / TVS Diodes](https://www.symmetryelectronics.com/products/circuit-protection/esd-suppressors-tvs-diodes/)
+        * [Surge Protective Devices - SPD](https://www.symmetryelectronics.com/products/circuit-protection/surge-protective-devices-spd/)
         * [Thermistors](https://www.symmetryelectronics.com/products/circuit-protection/thermistors/)
         * [View all Circuit Protection](https://www.symmetryelectronics.com/products/circuit-protection/)
         
@@ -33,6 +34,7 @@ Back
         * [Card Edge Connectors](https://www.symmetryelectronics.com/products/connectors/card-edge-connectors/)
         * [D-Sub Connectors](https://www.symmetryelectronics.com/products/connectors/d-sub-connectors/)
         * [Headers & Wire Housings](https://www.symmetryelectronics.com/products/connectors/headers-wire-housings/)
+        * [Memory Connectors](https://www.symmetryelectronics.com/products/connectors/memory-connectors/)
         * [Modular Connectors / Ethernet Connectors](https://www.symmetryelectronics.com/products/connectors/modular-connectors-ethernet-connectors/)
         * [RF Interconnects](https://www.symmetryelectronics.com/products/connectors/rf-interconnects/)
         * [Terminal Blocks](https://www.symmetryelectronics.com/products/connectors/terminal-blocks/)
