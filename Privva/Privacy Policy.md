@@ -729,9 +729,9 @@ One Canada Square, Level 39 - London, E14 5AB
 
 ##### FOLLOW US
 
-* [](https://www.facebook.com/SmarshInc/)
-* [](https://x.com/SmarshInc)
-* [](https://www.linkedin.com/company/smarsh/)
+* [](https://www.facebook.com/SmarshInc/ "Smarsh Facebook")
+* [](https://x.com/SmarshInc "Smarsh X")
+* [](https://www.linkedin.com/company/smarsh/ "Smarsh Linkedin")
 
 ##### SOLUTIONS BY ISSUE
 
@@ -805,6 +805,6 @@ Tell us about yourself, and we’ll be in touch right away.
 
 Close this module
 
-* [![Watch it Work](/media/sticky-footer-wiw-icon.png)Watch it Work](https://www.privva.com/watch-it-work)
-* [![Contact Us](/media/sticky-footer-contact-form-icon.png)Contact Us](#contact-us)
-* ![Chat](/media/sticky-footer-chat-Icon.png)Chat
+* [![](/media/sticky-footer-wiw-icon.png)Watch it Work](https://www.privva.com/watch-it-work)
+* [![](/media/sticky-footer-contact-form-icon.png)Contact Us](#contact-us)
+* ![](/media/sticky-footer-chat-Icon.png)Chat
