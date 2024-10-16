@@ -181,6 +181,10 @@ The TEMPUR-ActiveBreeze® Smart Bed sleep system is also included in the 90-Nigh
 
 Beyond the first 90 nights, you can sleep soundly knowing you’re protected from product defects by our 10-Year Limited Warranty.
 
+### **Closeout Mattresses**
+
+Closeout mattresses cannot be returned or exchanged and do not qualify for the 90-Night Sleep Trial. However, you can still sleep soundly knowing that all Closeout mattresses are backed by a [10-Year Limited Warranty.](https://www.tempurpedic.com/customer-service/warranties/10-year-tempur-pedic-mattress-and-flat-foundation-limited-warranty/)
+
 ### **Foundations,** **TEMPUR-Ease and TEMPUR-Ergo Power Bases, and TEMPUR-Ergo Smart Bases**
 
 While we do not accept returns on Foundations, TEMPUR-Ease® and TEMPUR-Ergo® Power Bases, and TEMPUR-Ergo® Smart Bases, we stand by their quality with compelling warranties. TEMPUR-Ease® and TEMPUR-Ergo® Power Bases, and TEMPUR-Ergo® Smart Bases have a 3-year full parts and labor warranty with a 25-year limited warranty on the frame. If you experience problems with your power base, call us [800-821-6621](tel:800-821-6621) to talk to the Tempur-Pedic specialists at the manufacturer. They can help, whether it’s a simple question or a warranty-related issue.
