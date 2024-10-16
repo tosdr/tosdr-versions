@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_123516591_menu)
+ [Compartilhar](#elShareItem_1163500515_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_702725644_menu)
+ [Compartilhar](#elShareItem_799498753_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Ariel159](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1242978.thumb.jpeg.267320f3caf5484d6ba219eb5177efd2.jpeg)](https://www.clubedohardware.com.br/profile/1242978-ariel159/ "Ir ao perfil de Ariel159")
+    * [![Cntrmartinluti](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254578.thumb.png.725a37899c4f65ea8f63a1ee9bd4050c.png)](https://www.clubedohardware.com.br/profile/1254578-cntrmartinluti/ "Ir ao perfil de Cntrmartinluti")
         
         0
         
-        [Configuração de PC Gamer: O que vocês acham? Alguma sugestão para melhorar?](https://www.clubedohardware.com.br/forums/topic/1699805-configura%C3%A7%C3%A3o-de-pc-gamer-o-que-voc%C3%AAs-acham-alguma-sugest%C3%A3o-para-melhorar/?do=getNewComment "Configuração de PC Gamer: O que vocês acham? Alguma sugestão para melhorar?")
+        [Ryzen 9 5900x ou Ryzen 7 5700x3d para jogos?](https://www.clubedohardware.com.br/forums/topic/1699818-ryzen-9-5900x-ou-ryzen-7-5700x3d-para-jogos/?do=getNewComment "Ryzen 9 5900x ou Ryzen 7 5700x3d para jogos?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Cntrmartinluti](https://www.clubedohardware.com.br/profile/1254578-cntrmartinluti/ "Ir ao perfil de Cntrmartinluti")  
+        57 minutos atrás
+        
+    * [![matheuscamillo](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c494%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1057101-matheuscamillo/ "Ir ao perfil de matheuscamillo")
+        
+        1
+        
+        [Configuração de PC Gamer, alguma mudança?](https://www.clubedohardware.com.br/forums/topic/1699817-configura%C3%A7%C3%A3o-de-pc-gamer-alguma-mudan%C3%A7a/?do=getNewComment "Configuração de PC Gamer, alguma mudança?")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Ariel159](https://www.clubedohardware.com.br/profile/1242978-ariel159/ "Ir ao perfil de Ariel159")  
-        33 minutos atrás
+        Por [matheuscamillo](https://www.clubedohardware.com.br/profile/1057101-matheuscamillo/ "Ir ao perfil de matheuscamillo")  
+        58 minutos atrás
         
-    * [![BourneShell](https://www.clubedohardware.com.br/uploads/members/profile/photo-thumb-509043.jpg)](https://www.clubedohardware.com.br/profile/509043-bourneshell/ "Ir ao perfil de BourneShell")
+    * [![Antonio Craveiro Jr.](https://www.clubedohardware.com.br/uploads/members/monthly_2018_09/imported-photo-765014.thumb.jpeg.e52f927863aed8f2071deb4fb3d6d46f.jpeg)](https://www.clubedohardware.com.br/profile/765014-antonio-craveiro-jr/ "Ir ao perfil de Antonio Craveiro Jr.")
+        
+        1
+        
+        [Acessar gpon diretamente da rede](https://www.clubedohardware.com.br/forums/topic/1699816-acessar-gpon-diretamente-da-rede/?do=getNewComment "Acessar gpon diretamente da rede")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Antonio Craveiro Jr.](https://www.clubedohardware.com.br/profile/765014-antonio-craveiro-jr/ "Ir ao perfil de Antonio Craveiro Jr.")  
+        1 hora atrás
+        
+    * [![skull10001](https://www.clubedohardware.com.br/uploads/members/profile/photo-397682.gif)](https://www.clubedohardware.com.br/profile/397682-skull10001/ "Ir ao perfil de skull10001")
+        
+        1
+        
+        [configuração com Ryzen 5 7600 próximo a R$8.000,00](https://www.clubedohardware.com.br/forums/topic/1699815-configura%C3%A7%C3%A3o-com-ryzen-5-7600-pr%C3%B3ximo-a-r800000/?do=getNewComment "configuração com Ryzen 5 7600 próximo a R$8.000,00")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [skull10001](https://www.clubedohardware.com.br/profile/397682-skull10001/ "Ir ao perfil de skull10001")  
+        1 hora atrás
+        
+    * [![SOMBRAGAMEPAD](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254576.thumb.png.abf0ff7eafeacc2a62de46b3fd8e03e1.png)](https://www.clubedohardware.com.br/profile/1254576-sombragamepad/ "Ir ao perfil de SOMBRAGAMEPAD")
         
         0
         
-        [Fonte ATX 3.1 agora ou ATX 2.4 mesmo?](https://www.clubedohardware.com.br/forums/topic/1699804-fonte-atx-31-agora-ou-atx-24-mesmo/?do=getNewComment "Fonte ATX 3.1 agora ou ATX 2.4 mesmo?")
+        [REMOVER OXIDAÇÃO DE PLACA DE Vídeo](https://www.clubedohardware.com.br/forums/topic/1699812-remover-oxida%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo/?do=getNewComment "REMOVER OXIDAÇÃO DE PLACA DE Vídeo")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [BourneShell](https://www.clubedohardware.com.br/profile/509043-bourneshell/ "Ir ao perfil de BourneShell")  
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [SOMBRAGAMEPAD](https://www.clubedohardware.com.br/profile/1254576-sombragamepad/ "Ir ao perfil de SOMBRAGAMEPAD")  
         2 horas atrás
         
-    * [![O tal do Boechat](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1234753.thumb.jpeg.2d70c13f594c4049dc05132c165fe630.jpeg)](https://www.clubedohardware.com.br/profile/1234753-o-tal-do-boechat/ "Ir ao perfil de O tal do Boechat")
-        
-        1
-        
-        [Acho que meu HD morreu](https://www.clubedohardware.com.br/forums/topic/1699803-acho-que-meu-hd-morreu/?do=getNewComment "Acho que meu HD morreu")
-        
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [O tal do Boechat](https://www.clubedohardware.com.br/profile/1234753-o-tal-do-boechat/ "Ir ao perfil de O tal do Boechat")  
-        3 horas atrás
-        
-    * [![Tonizpt](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254568.thumb.jpeg.00b394786be168cc1f136754af4d0a61.jpeg)](https://www.clubedohardware.com.br/profile/1254568-tonizpt/ "Ir ao perfil de Tonizpt")
-        
-        1
-        
-        [Fonte Corsair 450w Bronze suporta RTX 4060 ?](https://www.clubedohardware.com.br/forums/topic/1699802-fonte-corsair-450w-bronze-suporta-rtx-4060/?do=getNewComment "Fonte Corsair 450w Bronze suporta RTX 4060 ?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Tonizpt](https://www.clubedohardware.com.br/profile/1254568-tonizpt/ "Ir ao perfil de Tonizpt")  
-        3 horas atrás
-        
-    * [![Lukznn](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249957.thumb.png.505025b2a739c42a8db04ace14e8cb07.png)](https://www.clubedohardware.com.br/profile/1249957-lukznn/ "Ir ao perfil de Lukznn")
+    * [![SrFaisal1](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2364c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254575-srfaisal1/ "Ir ao perfil de SrFaisal1")
         
         0
         
-        [Home theater com zktb21](https://www.clubedohardware.com.br/forums/topic/1699801-home-theater-com-zktb21/?do=getNewComment "Home theater com zktb21")
+        [Defeito estranho no computador](https://www.clubedohardware.com.br/forums/topic/1699811-defeito-estranho-no-computador/?do=getNewComment "Defeito estranho no computador")
         
-        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
-        Por [Lukznn](https://www.clubedohardware.com.br/profile/1249957-lukznn/ "Ir ao perfil de Lukznn")  
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [SrFaisal1](https://www.clubedohardware.com.br/profile/1254575-srfaisal1/ "Ir ao perfil de SrFaisal1")  
+        2 horas atrás
+        
+    * [![Vitowjqi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254574.thumb.png.fb96bd47759b46e17f8814eac7f082c0.png)](https://www.clubedohardware.com.br/profile/1254574-vitowjqi/ "Ir ao perfil de Vitowjqi")
+        
+        0
+        
+        [Free fire não roda com tanto fps](https://www.clubedohardware.com.br/forums/topic/1699810-free-fire-n%C3%A3o-roda-com-tanto-fps/?do=getNewComment "Free fire não roda com tanto fps")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [Vitowjqi](https://www.clubedohardware.com.br/profile/1254574-vitowjqi/ "Ir ao perfil de Vitowjqi")  
         3 horas atrás
         
-    * [![Teeng](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254564.thumb.jpeg.5be29741c7ec214d9338843c68e7889c.jpeg)](https://www.clubedohardware.com.br/profile/1254564-teeng/ "Ir ao perfil de Teeng")
+    * [![rodrigo caio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254561.thumb.jpeg.0897f5cbe6a7855c45e8ef7f4d0e50f0.jpeg)](https://www.clubedohardware.com.br/profile/1254561-rodrigo-caio/ "Ir ao perfil de rodrigo caio")
         
         2
         
-        [Placa de Vídeo Rx 6600 XT é bom para esse PC com Ryzen 5 4600g?](https://www.clubedohardware.com.br/forums/topic/1699800-placa-de-v%C3%ADdeo-rx-6600-xt-%C3%A9-bom-para-esse-pc-com-ryzen-5-4600g/?do=getNewComment "Placa de Vídeo Rx 6600 XT é bom para esse PC com Ryzen 5 4600g?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Teeng](https://www.clubedohardware.com.br/profile/1254564-teeng/ "Ir ao perfil de Teeng")  
-        5 horas atrás
-        
-    * [![Gabriel Henrique9858](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251449.thumb.png.a173d8dd84fce4abaed32e8639b26391.png)](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")
-        
-        1
-        
-        [Melhoro placa de Vídeo ou processador?](https://www.clubedohardware.com.br/forums/topic/1699799-melhoro-placa-de-v%C3%ADdeo-ou-processador/?do=getNewComment "Melhoro placa de Vídeo ou processador?")
+        [configuração pc gamer , alguma mudanca ?](https://www.clubedohardware.com.br/forums/topic/1699809-configura%C3%A7%C3%A3o-pc-gamer-alguma-mudanca/?do=getNewComment "configuração pc gamer , alguma mudanca ?")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Gabriel Henrique9858](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")  
-        5 horas atrás
+        Por [rodrigo caio](https://www.clubedohardware.com.br/profile/1254561-rodrigo-caio/ "Ir ao perfil de rodrigo caio")  
+        3 horas atrás
         
-    * [![Heitor Lucena](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254565.thumb.jpeg.d744bf8adf195cc347913c777b448399.jpeg)](https://www.clubedohardware.com.br/profile/1254565-heitor-lucena/ "Ir ao perfil de Heitor Lucena")
-        
-        2
-        
-        [Ryzen 9 5900x é bom com 4060 ti?](https://www.clubedohardware.com.br/forums/topic/1699798-ryzen-9-5900x-%C3%A9-bom-com-4060-ti/?do=getNewComment "Ryzen 9 5900x é bom com 4060 ti?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Heitor Lucena](https://www.clubedohardware.com.br/profile/1254565-heitor-lucena/ "Ir ao perfil de Heitor Lucena")  
-        5 horas atrás
-        
-    * [![gkp04](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1200763.thumb.jpeg.67c41d54014a6ff7ebb8a3b2710063f9.jpeg)](https://www.clubedohardware.com.br/profile/1200763-gkp04/ "Ir ao perfil de gkp04")
+    * [![art0vski](https://www.clubedohardware.com.br/uploads/members/monthly_2018_03/minimalist_mushroom_by_do0dleno0dle-d2xetsy.thumb.png.3af03079b7564c363be8a78965d24b53.png)](https://www.clubedohardware.com.br/profile/960759-art0vski/ "Ir ao perfil de art0vski")
         
         1
         
-        [Air cooler para Ryzen 5 5600x/ 7 5700x3d](https://www.clubedohardware.com.br/forums/topic/1699797-air-cooler-para-ryzen-5-5600x-7-5700x3d/?do=getNewComment "Air cooler para Ryzen 5 5600x/ 7 5700x3d")
+        [Configuração repetidor de sinal](https://www.clubedohardware.com.br/forums/topic/1699808-configura%C3%A7%C3%A3o-repetidor-de-sinal/?do=getNewComment "Configuração repetidor de sinal")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [gkp04](https://www.clubedohardware.com.br/profile/1200763-gkp04/ "Ir ao perfil de gkp04")  
-        6 horas atrás
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [art0vski](https://www.clubedohardware.com.br/profile/960759-art0vski/ "Ir ao perfil de art0vski")  
+        3 horas atrás
         
-    * [![MbR2XgD](https://www.clubedohardware.com.br/uploads/members/monthly_2020_12/me_profile_mbr2xgd_default_v31_512x512.thumb.jpg.559e8df64fe0211d1254e394369aa08a.jpg)](https://www.clubedohardware.com.br/profile/887672-mbr2xgd/ "Ir ao perfil de MbR2XgD")
+    * [![Alan99aguilarr](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1135142.thumb.jpeg.36784628c418febd7b2d10913908f142.jpeg)](https://www.clubedohardware.com.br/profile/1135142-alan99aguilarr/ "Ir ao perfil de Alan99aguilarr")
         
         0
         
-        [MB H61M-A com processador i7 3770K vs i7 3770S](https://www.clubedohardware.com.br/forums/topic/1699796-mb-h61m-a-com-processador-i7-3770k-vs-i7-3770s/?do=getNewComment "MB H61M-A com processador i7 3770K vs i7 3770S")
+        [memória RAM Asgard ou Rise Mode](https://www.clubedohardware.com.br/forums/topic/1699807-mem%C3%B3ria-ram-asgard-ou-rise-mode/?do=getNewComment "memória RAM Asgard ou Rise Mode")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [MbR2XgD](https://www.clubedohardware.com.br/profile/887672-mbr2xgd/ "Ir ao perfil de MbR2XgD")  
-        6 horas atrás
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Alan99aguilarr](https://www.clubedohardware.com.br/profile/1135142-alan99aguilarr/ "Ir ao perfil de Alan99aguilarr")  
+        3 horas atrás
         
     
 
