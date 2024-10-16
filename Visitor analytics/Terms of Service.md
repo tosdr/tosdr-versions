@@ -54,10 +54,10 @@
     * [Agencies & Consultancies](https://www.visitor-analytics.io/en/white-label/agencies-consultancies "Agencies & Consultancies")
 * [Blog](https://www.visitor-analytics.io/en/blog "Blog")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     * [Privacy in fintech](https://www.visitor-analytics.io/en/blog/interview-dr-sindhu-bhaskar-data-privacy-future-financial-services "Privacy in fintech")
+    * [Demographic Segmentation for Marketers: The Only Guide You Need](https://www.visitor-analytics.io/en/blog/demographic-segmentation-in-marketing "Demographic Segmentation for Marketers: The Only Guide You Need")
     * [Interview: Yoast Principal SEO Carolyn Shelby](https://www.visitor-analytics.io/en/blog/interview-yoast-principal-seo-carolyn-shelby "Interview: Yoast Principal SEO Carolyn Shelby")
     * [The Privacy Paradox: Torn Between Love and Fear](https://www.visitor-analytics.io/en/blog/the-privacy-paradox "The Privacy Paradox: Torn Between Love and Fear")
     * [Website Intelligence News Roundup September 2024](https://www.visitor-analytics.io/en/blog/website-intelligence-news-roundup-september-2024 "Website Intelligence News Roundup September 2024")
-    * [Interview: Andy Crestodina Content Marketing trends SEO Strategizing](https://www.visitor-analytics.io/en/blog/interview-andy-cretodina-content-marketing-trends-seo-strategizing "Interview: Andy Crestodina Content Marketing trends SEO Strategizing")
     
 * [Resources](https://www.visitor-analytics.io/en/support)![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     
