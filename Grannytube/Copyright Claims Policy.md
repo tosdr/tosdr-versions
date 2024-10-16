@@ -34,6 +34,9 @@
     * [Swedish](http://www.grannytube.net/se/dmca/)
     
 
+* [live cams](https://go.bbrdbr.com/?campaignId=videos&userId=5ee8cbf1f3533d9bcb51e292e0d02f5dc71df85d02842e5e92313215c4879235)
+* [dating](http://a.labadena.com/api/direct/482186?s1=%subid1%&kw=)
+
 Digital Millennium Copyright Act Policy
 =======================================
 
