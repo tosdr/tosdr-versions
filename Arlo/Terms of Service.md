@@ -1,4 +1,4 @@
-Shop [Top Deals](https://www.arlo.com/en-us/top-deals "Top Deals") and save up to 50% on best-sellers!
+Shop [Top Deals](https://www.arlo.com/en-us/top-deals "Top Deals") & save up to 50% on best-sellers!
 
 [](# "Menu")
 
