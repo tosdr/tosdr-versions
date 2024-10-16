@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Integrity
+[Peace
 
-### Beyond politics of identity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1015/Beyond-politics-of-identity "Beyond politics of identity")
-
-[Community
-
-### In Norway, having a joyful, secure childhood is a right enshrined into law](https://www.csmonitor.com/World/Europe/2024/1015/norway-child-care-subsidy-universal-preschool "In Norway, having a joyful, secure childhood is a right enshrined into law")
+### Calm amid climate change](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1016/Calm-amid-climate-change "Calm amid climate change")
 
 [Innovation
 
-### NASA launches its biggest space probe to find if life can exist on Jupiter moon](https://www.csmonitor.com/Science/2024/1014/europa-clipper-launch-nasa-life-jupiter-moon "NASA launches its biggest space probe to find if life can exist on Jupiter moon")
+### Slow and small, drones find cracks in Israel’s high-tech air defenses](https://www.csmonitor.com/World/Middle-East/2024/1016/israel-hezbollah-drones-missile-defense "Slow and small, drones find cracks in Israel’s high-tech air defenses")
+
+[Forgiveness
+
+### This artist turned a forgiveness journey into a film – with the help of Steven Spielberg](https://www.csmonitor.com/The-Culture/Movies/2024/1016/exhibiting-forgiveness-titus-kaphar-steven-spielberg "This artist turned a forgiveness journey into a film – with the help of Steven Spielberg")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 15, 2024
+October 16, 2024
 
-Raising up the children
+Amid upheaval, the possibility of restoration
 
-People have plenty of views on how best to raise children. Norway, the subject of our in-depth story today, has a 63-page law, too, designed to help its very youngest residents find a solid footing in a democratic society.Mention of the power of play pops up a lot – as does respect and charity, equality and solidarity. You’ll learn, too, about “friluftsliv.” The story will likely make you think about what you’ve done or experienced. Most of all, it brings to the fore one of the most important indicators of a society’s values, especially as it evolves and diversifies: How it cares for all its children.
+Amid the everyday awfulness of the Middle East and a contentious election in the United States, how do we care for our soul? Troubled by anger and uncertainty, we can feel bruised in ways beyond what others can see, existentially disturbed.But Stephen Humphries’ article today points to the possibility of restoration. The journey of a brilliant young director struggling with trauma is more than a story about a film, but a study of one path to healing. For that reason, I believe it is as important as anything you will read today.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Real estate once drove China’s economic growth. Now it’s holding it back.](https://www.csmonitor.com/World/Asia-Pacific/2024/1015/china-real-estate-housing-property-market "Real estate once drove China’s economic growth. Now it’s holding it back.")
+[### Slow and small, drones find cracks in Israel’s high-tech air defenses](https://www.csmonitor.com/World/Middle-East/2024/1016/israel-hezbollah-drones-missile-defense "Slow and small, drones find cracks in Israel’s high-tech air defenses")
 
-[### Precious water and gold: New extraction methods for arid air and e-waste](https://www.csmonitor.com/World/Points-of-Progress/2024/1015/water-gold-resource-recovery-school "Precious water and gold: New extraction methods for arid air and e-waste")
+[### How the pandemic slowed the march toward equal pay](https://www.csmonitor.com/USA/2024/1016/gender-wage-gap-increasing-women-equal-pay "How the pandemic slowed the march toward equal pay")
 
-[### Lilly Ledbetter fought for equal pay at the highest levels and launched a worker movement](https://www.csmonitor.com/USA/2024/1015/Lilly-Ledbetter-equal-pay-act-supreme-court "Lilly Ledbetter fought for equal pay at the highest levels and launched a worker movement")
+[### The hurricanes drained FEMA funds. Now small business grants are running out, too.](https://www.csmonitor.com/USA/2024/1016/Hurricane-damage-small-business-loan-program "The hurricanes drained FEMA funds. Now small business grants are running out, too.")
 
 * * *
 
