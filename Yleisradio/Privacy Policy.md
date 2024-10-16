@@ -97,7 +97,7 @@ Contact
 
 Sales
 
-* [International Programme Acquisitions](https://yle.fi/aihe/s/international-programme-acquisitions)
+* [International Programme Acquisitions](https://yle.fi/aihe/a/20-10000554)
 * [Sales](https://yle.fi/aihe/s/yle-sales)
 * [Archive sales](https://yle.fi/aihe/s/yle-archive-sales)
 * [Brand, visual image and logos](https://yle.fi/aihe/s/yle-brand-visual-image-and-logos)
