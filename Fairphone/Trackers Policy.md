@@ -3,10 +3,8 @@
 
 * [Search](#)
 * [en](https://shop.fairphone.com/languagegateway/?previous_id=1&previous_type=wordpress?previous_id=1&previous_type=wordpress&previous_url=fairphone-privacy-policy)
-* [User](https://shop.fairphone.com/en/customer/account/)
+* [User](https://shop.fairphone.com/en/my/)
 * [Basket 0](https://shop.fairphone.com/shop/cart/)
-
-[Login](https://shop.fairphone.com/web/login) [New customer? register here](https://shop.fairphone.com/web/login)
 
 * [Shop](https://shop.fairphone.com/en/)
     * [Smartphones](https://shop.fairphone.com/smartphones)
