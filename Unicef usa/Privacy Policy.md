@@ -17,7 +17,6 @@ Sort by RelevanceNewestOldest
         * [Child-Friendly Schools](https://www.unicefusa.org/what-unicef-does/childrens-education/child-friendly-schools)
         * [Equity](https://www.unicefusa.org/what-unicef-does/childrens-education/equity)
         * [Girls' Education](https://www.unicefusa.org/what-unicef-does/childrens-education/girls-education)
-        * [Kids In Need of Desks (K.I.N.D.)](https://www.unicefusa.org/what-unicef-does/childrens-education/kids-need-desks-kind)
         * [Learning Passport](https://www.unicefusa.org/what-unicef-does/childrens-education/learning-passport)
     *  Children's Health 
         * [Children's Health](https://www.unicefusa.org/what-unicef-does/childrens-health)
