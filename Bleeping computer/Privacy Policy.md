@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Google warns uBlock Origin and other extensions may be disabled soon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Cisco investigates breach after stolen data for sale on hacking forum](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Google warns uBlock Origin and other extensions may be disabled soon](https://www.bleepingcomputer.com/news/google/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/)
-    * [![Casio confirms customer data stolen in a ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Cisco investigates breach after stolen data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/cisco-investigates-breach-after-stolen-data-for-sale-on-hacking-forum/)
+    * [![OpenAI confirms threat actors use ChatGPT to write malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Casio confirms customer data stolen in a ransomware attack](https://www.bleepingcomputer.com/news/security/casio-confirms-customer-data-stolen-in-a-ransomware-attack/)
-    * [![Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        OpenAI confirms threat actors use ChatGPT to write malware](https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
+    * [![Over 200 malicious apps on Google Play downloaded millions of times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-pptp-and-l2tp-vpn-protocols-in-windows-server/)
-    * [![CISA: Hackers abuse F5 BIG-IP cookies to map internal servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Over 200 malicious apps on Google Play downloaded millions of times](https://www.bleepingcomputer.com/news/security/over-200-malicious-apps-on-google-play-downloaded-millions-of-times/)
+    * [![EDRSilencer red team tool used in attacks to bypass security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CISA: Hackers abuse F5 BIG-IP cookies to map internal servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
+        EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
     
+    * [![Amazon says 175 million customer now use passkeys to log in](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Amazon says 175 million customer now use passkeys to log in](https://www.bleepingcomputer.com/news/security/amazon-says-175-million-customer-now-use-passkeys-to-log-in/)
+    * [![Finland seizes servers of 'Sipultie' dark web drugs market](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Finland seizes servers of 'Sipultie' dark web drugs market](https://www.bleepingcomputer.com/news/legal/finland-seizes-servers-of-sipultie-dark-web-drugs-market/)
     * [![EDRSilencer red team tool used in attacks to bypass security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
     * [![Turn raw data into something you can show off with Microsoft Visio](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Turn raw data into something you can show off with Microsoft Visio](https://www.bleepingcomputer.com/offer/deals/turn-raw-data-into-something-you-can-show-off-with-microsoft-visio/)
-    * [![New FIDO proposal lets you securely move passkeys across platforms](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New FIDO proposal lets you securely move passkeys across platforms](https://www.bleepingcomputer.com/news/security/new-fido-proposal-lets-you-securely-move-passkeys-across-platforms/)
-    * [![Over 200 malicious apps on Google Play downloaded millions of times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Over 200 malicious apps on Google Play downloaded millions of times](https://www.bleepingcomputer.com/news/security/over-200-malicious-apps-on-google-play-downloaded-millions-of-times/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -439,12 +439,12 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![Cisco](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Chrome flare](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Cisco investigates breach after stolen data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/cisco-investigates-breach-after-stolen-data-for-sale-on-hacking-forum/)
-* [![AI hacker security Artificial Intelligence](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Google warns uBlock Origin and other extensions may be disabled soon](https://www.bleepingcomputer.com/news/google/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/)
+* [![Windows Server](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    OpenAI confirms threat actors use ChatGPT to write malware](https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
+    Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-pptp-and-l2tp-vpn-protocols-in-windows-server/)
 * [![Iranian hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Iranian hackers now exploit Windows flaw to elevate privileges](https://www.bleepingcomputer.com/news/security/oilrig-hackers-now-exploit-windows-flaw-to-elevate-privileges/)
