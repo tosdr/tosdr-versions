@@ -310,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-During the Harry Potter and the Chamber of Secrets film, Emma Watson broke her wrist.
+The Unlocking Charm (Alohomora) is known as “thief’s friend.”
 
 ### Potter History
 
-October 3, 2007 – Harry Potter and the Order of the Phoenix becomes the #6 highest grossing film of all time, pulling in $933.9 million worldwide.
+December 17, 2008 – Scholastic announces that The Tales of Beedle the Bard sold 2.6 million copies worldwide in the first week on sale.
 
 ### Potter Quote
 
-“I knew I could do it this time, because I’d already done it. . . . Does that make sense?”
+“She tasted disgusting, worse than Gurdyroots!”
 
 [](#)
 
