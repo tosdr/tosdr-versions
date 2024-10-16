@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/08/Generic-stand-edited-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-5x-took-uber-to-hospital-may-have-been-shot-during-botched-robbery-of-off-duty-officer.html "Man shot 5x took Uber to hospital, may have been shot during botched robbery of off-duty officer")
+[![](https://cwbchicago.com/wp-content/uploads/2023/01/Canada-Goose-800-north-michigan-326x245.jpg)](https://cwbchicago.com/2024/10/smash-and-grab-crew-hits-canada-goose-on-the-mag-mile.html "Smash-and-grab crew hits Canada Goose on the Mag Mile")
 
-West Loop
+Magnificent Mile
 
-### [Man shot 5x took Uber to hospital, may have been shot during botched robbery of off-duty officer](https://cwbchicago.com/2024/10/man-shot-5x-took-uber-to-hospital-may-have-been-shot-during-botched-robbery-of-off-duty-officer.html "Man shot 5x took Uber to hospital, may have been shot during botched robbery of off-duty officer")
+### [Smash-and-grab crew hits Canada Goose on the Mag Mile](https://cwbchicago.com/2024/10/smash-and-grab-crew-hits-canada-goose-on-the-mag-mile.html "Smash-and-grab crew hits Canada Goose on the Mag Mile")
 
-[October 13, 2024 7:03 PM](https://cwbchicago.com/2024/10)
+[October 14, 2024 7:36 AM](https://cwbchicago.com/2024/10)
 
-There’s a plot twist to report in the overnight attempted robbery of an off-duty Cook County correctional officer in the West Loop.[](https://cwbchicago.com/2024/10/man-shot-5x-took-uber-to-hospital-may-have-been-shot-during-botched-robbery-of-off-duty-officer.html "Man shot 5x took Uber to hospital, may have been shot during botched robbery of off-duty officer")
+In a definite sign that winter is on the way, a crash-and-grab burglary crew broke into the Canada Goose store on the Magnificent Mile overnight.[](https://cwbchicago.com/2024/10/smash-and-grab-crew-hits-canada-goose-on-the-mag-mile.html "Smash-and-grab crew hits Canada Goose on the Mag Mile")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/bb8-326x245.jpg)](https://cwbchicago.com/2024/10/gunshot-victim-lies-in-alley-for-20-minutes-waiting-for-help-on-a-block-previously-served-by-shotspotter.html "Gunshot victim lies in alley for 20 minutes, waiting for help, on a block previously served by ShotSpotter")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/north-lasalle-citizen-326x245.jpg)](https://cwbchicago.com/2024/10/1-in-custody-after-cop-shoots-at-fleeing-suspects-vehicle-in-old-town.html "1 in custody after cop shoots at fleeing suspect’s vehicle in Old Town")
 
-Auburn Gresham
+Old Town
 
-### [Gunshot victim lies in alley for 20 minutes, waiting for help, on a block previously served by ShotSpotter](https://cwbchicago.com/2024/10/gunshot-victim-lies-in-alley-for-20-minutes-waiting-for-help-on-a-block-previously-served-by-shotspotter.html "Gunshot victim lies in alley for 20 minutes, waiting for help, on a block previously served by ShotSpotter")
+### [1 in custody after cop shoots at fleeing suspect’s vehicle in Old Town](https://cwbchicago.com/2024/10/1-in-custody-after-cop-shoots-at-fleeing-suspects-vehicle-in-old-town.html "1 in custody after cop shoots at fleeing suspect’s vehicle in Old Town")
 
-[October 13, 2024 9:40 AM](https://cwbchicago.com/2024/10)
+[October 14, 2024 7:21 AM](https://cwbchicago.com/2024/10)
 
-A woman shot and critically injured lay on the ground in pain for more than 20 minutes before first responders located her early Sunday morning. Nobody called 911 to report gunshots in the area, which used to be served by the city’s ShotSpotter gunfire detection network.[](https://cwbchicago.com/2024/10/gunshot-victim-lies-in-alley-for-20-minutes-waiting-for-help-on-a-block-previously-served-by-shotspotter.html "Gunshot victim lies in alley for 20 minutes, waiting for help, on a block previously served by ShotSpotter")
+Officers investigating a woman’s 911 call, claiming she was unsafe in a vehicle with people who had four guns, fired shots at a suspect’s car and later arrested a person in Old Town on Sunday evening. No injuries from gunfire were reported.[](https://cwbchicago.com/2024/10/1-in-custody-after-cop-shoots-at-fleeing-suspects-vehicle-in-old-town.html "1 in custody after cop shoots at fleeing suspect’s vehicle in Old Town")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/226-N-Morgan-326x245.jpg)](https://cwbchicago.com/2024/10/off-duty-sheriff-opens-fire-on-armed-robbers-in-the-west-loop.html "Off-duty sheriff opens fire on armed robbers in the West Loop")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/4900-block-north-sheridan-map-326x245.jpg)](https://cwbchicago.com/2024/10/3-gunmen-open-fire-near-uptown-park-injuring-2.html "3 gunmen open fire near Uptown park, injuring 2")
 
-West Loop
+Uptown
 
-### [Off-duty sheriff opens fire on armed robbers in the West Loop](https://cwbchicago.com/2024/10/off-duty-sheriff-opens-fire-on-armed-robbers-in-the-west-loop.html "Off-duty sheriff opens fire on armed robbers in the West Loop")
+### [3 gunmen open fire near Uptown park, injuring 2](https://cwbchicago.com/2024/10/3-gunmen-open-fire-near-uptown-park-injuring-2.html "3 gunmen open fire near Uptown park, injuring 2")
 
-[October 13, 2024 8:02 AM](https://cwbchicago.com/2024/10)
+[October 14, 2024 6:46 AM](https://cwbchicago.com/2024/10)
 
-Two would-be armed robbers got more than they bargained for when they tried to rob an off-duty sheriff’s deputy in the West Loop overnight. Their victim pulled a gun and shot at them.[](https://cwbchicago.com/2024/10/off-duty-sheriff-opens-fire-on-armed-robbers-in-the-west-loop.html "Off-duty sheriff opens fire on armed robbers in the West Loop")
+Three gunmen fired more than 20 rounds near an Uptown park on Sunday evening, leaving two men injured.[](https://cwbchicago.com/2024/10/3-gunmen-open-fire-near-uptown-park-injuring-2.html "3 gunmen open fire near Uptown park, injuring 2")
 
 Search
 
