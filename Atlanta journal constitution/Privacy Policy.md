@@ -1,6 +1,4 @@
-[Breaking: Super Bowl set to return to Atlanta for the fourth time](https://www.ajc.com/sports/atlanta-falcons/super-bowl-set-to-return-to-atlanta-for-the-fourth-time/DHXL7PJDCFB2NJEZPDX4DHED6U/)
-
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1736)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1736)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1745)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1745)](https://www.ajc.com/)
 
 Log In
 
@@ -22,7 +20,7 @@ Log In
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1736)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1745)
 
 * Quick Links
     
@@ -146,7 +144,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1736)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1745)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
