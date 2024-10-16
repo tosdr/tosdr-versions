@@ -110,23 +110,23 @@ All the issues and problems will be resolved pursuant to our Japanese Terms of U
 
 * No article
 
-[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280b.jpg)](https://accesstra.de/0050f1000ymk)
+[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280a.jpg)](https://accesstra.de/0050f1000ymk)
 
 * [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
     
     8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/02/redbull-purple-edition-standard-products-00-150x150.jpg)
+* [![【Sad News】 NEOGEO mini discontinued...](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/neogeo-mini-eol-00-150x150.jpg "【Sad News】 NEOGEO mini discontinued...")
     
-    "Red Bull Purple Edition" is now a standard product! Now available outside of vending machines!](https://saiganak.com/product/redbull-purple-edition-standard-products/)
-* [![Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/05/ff35th-anniversary-ut-additional-production-00-150x150.jpg "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
+    【Sad News】 NEOGEO mini discontinued...](https://saiganak.com/product/neogeo-mini-eol/ "【Sad News】 NEOGEO mini discontinued...")
+* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
     
-    Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://saiganak.com/product/ff35th-anniversary-ut-additional-production/ "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
-* [![【Showdown Edition】Review ](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/03/neogeo-arcade-stick-pro-use-impression-00-1-150x150.jpg "【Showdown Edition】Review ")
+    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
+* [![Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/09/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel-00a-150x150.jpg "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
     
-    【Showdown Edition】Review "NEOGEO Arcade Stick PRO"!](https://saiganak.com/review/neogeo-arcade-stick-pro-use-impression/ "【Showdown Edition】Review ")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/05/neogeo-mini-samuraispirits-limited-edition-preorder00-150x150.jpg)
+    Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://saiganak.com/product/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel/ "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
+* [![Red Bull's new flavor,  lychee flavored ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/07/redbull-blue-edition-00-150x150.jpg "Red Bull's new flavor,  lychee flavored ")
     
-    "NEOGEO mini Samurai Spirits Limited Set" is here!](https://saiganak.com/product/neogeo-mini-samuraispirits-limited-edition-preorder/)
+    Red Bull's new flavor, lychee flavored "Red Bull Blue Edition"!](https://saiganak.com/review/redbull-blue-edition/ "Red Bull's new flavor,  lychee flavored ")
 
 [](#top)
 
