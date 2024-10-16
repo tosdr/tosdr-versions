@@ -1,6 +1,6 @@
 5.38.21
 
-1729068198997
+1729090354868
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.1
 
-1729067581558
+1729089586613
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1729067845269
+1729090906483
 
 You need to enable JavaScript to run this app.
 
@@ -550,29 +550,9 @@ Please note the redemption of the 10% welcome offer to credit applies only to Ne
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
 
-### 15% off on Selected Clinique Promotion
-
-Up to 15% off on selected Clinique products.
-
-Discounted price visible on product listing page and product already includes saving.
-
-Item will be added to basket at discounted price.
-
-Offer available while stocks last.
-
-### 40% Off Selected Bath and Body Works Soaps Promotion
-
-Selected Bath and Body Works soaps with 40% discount.
-
-Discounted price visible on product listing page and product already includes saving.
-
-Item will be added to basket at discounted price.
-
-Offer available while stocks last.
-
 ### Estée Lauder Promotion
 
-Receive the Blockbuster 11-Piece Gift Set for £85 when you purchase 2 products from Estée Lauder. The Estée Lauder gift contains:
+Receive the Blockbuster 11-Piece Gift Set for £85 when you purchase 2 selected products from Estée Lauder. The Estée Lauder gift contains:
 
 * 1 Advanced Night Repair Serum Synchronized Multi-Recovery Complex, full-size (1oz./30ml)
 * 1 Advanced Night Cleansing Gelée with 15 Amino Acids, deluxe travel size (2.5oz./75ml)
@@ -2589,7 +2569,7 @@ You need to enable JavaScript to run this app.
 
 3.15.1
 
-1729068438784
+1729090945936
 
 ### Our Social Networks
 
