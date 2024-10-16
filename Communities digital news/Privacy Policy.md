@@ -26,41 +26,45 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-slickwilliega-1200-x-628-1200x630.jpg)](https://americanwirenews.com/bill-clinton-blames-harris-biden-regime-for-letting-laken-rileys-killer-into-the-country/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-drones-1200x630.jpg)](https://americanwirenews.com/swarms-of-ufos-spotted-above-over-military-bases-motherships-also-reported-ex-pentagon-official-says/)
 
-[Bill Clinton blames Harris-Biden regime for letting Laken Riley’s killer into the country](https://americanwirenews.com/bill-clinton-blames-harris-biden-regime-for-letting-laken-rileys-killer-into-the-country/)
+[Swarms of UFOs spotted over military bases, ‘motherships’ also reported, ex-Pentagon official says](https://americanwirenews.com/swarms-of-ufos-spotted-above-over-military-bases-motherships-also-reported-ex-pentagon-official-says/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sgkevin-oleary-1200x630.png)](https://americanwirenews.com/shark-tanks-mr-wonderful-endorses-musk-to-head-govt-efficiency-commission/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-1200x630.png)](https://americanwirenews.com/kamala-slammed-for-latest-pandering-promise-this-is-racism-desperation-and-illegal/)
 
-[Shark Tank’s ‘Mr. Wonderful’ endorses Musk to head gov’t efficiency commission](https://americanwirenews.com/shark-tanks-mr-wonderful-endorses-musk-to-head-govt-efficiency-commission/)
+[Kamala slammed for latest pandering promise: ‘This is racism, desperation, and illegal’](https://americanwirenews.com/kamala-slammed-for-latest-pandering-promise-this-is-racism-desperation-and-illegal/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-borno-1200x630.jpg)](https://americanwirenews.com/amazon-boycott-gains-speed-after-senior-vp-wears-controversial-necklace/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-losers-get-wet-1200x630.jpg)](https://americanwirenews.com/real-maga-dont-play-games-losers-posing-as-trump-supporters-with-nazi-flags-get-their-comeuppance/)
 
-[Amazon boycott gains speed after senior VP wears controversial necklace](https://americanwirenews.com/amazon-boycott-gains-speed-after-senior-vp-wears-controversial-necklace/)
+[‘Real MAGA don’t play games’: Losers posing as Trump supporters with Nazi flags get their comeuppance](https://americanwirenews.com/real-maga-dont-play-games-losers-posing-as-trump-supporters-with-nazi-flags-get-their-comeuppance/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gang-victim-sg-gang-members-1200x630.jpg)](https://americanwirenews.com/aurora-apartment-management-co-confirms-gang-takeovers-one-staffer-beaten-to-a-pulp/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vance-plagiarism-1200x630.jpg)](https://americanwirenews.com/jd-is-so-good-at-this-vance-slams-harris-with-a-plagiarism-zinger/)
 
-[Apartment management co. confirms gang takeovers, one staffer beaten to a pulp](https://americanwirenews.com/aurora-apartment-management-co-confirms-gang-takeovers-one-staffer-beaten-to-a-pulp/)
+[‘JD is so good at this’: Vance slams Harris with a plagiarism zinger](https://americanwirenews.com/jd-is-so-good-at-this-vance-slams-harris-with-a-plagiarism-zinger/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Alejandro-Mayorkas-1200x630.jpg)](https://americanwirenews.com/house-gop-presses-mayorkas-for-answers-on-fema-funding-for-illegal-immigrants/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-oaks-1200x630.jpg)](https://americanwirenews.com/abc-destroys-dem-narrative-that-trump-had-a-senior-moment-during-pa-rally-seemed-almost-intimate/)
 
-[House GOP presses Mayorkas for answers on FEMA funding for illegal immigrants](https://americanwirenews.com/house-gop-presses-mayorkas-for-answers-on-fema-funding-for-illegal-immigrants/)
+[ABC destroys Dem narrative that Trump had a senior moment during PA rally: ‘Seemed almost intimate’](https://americanwirenews.com/abc-destroys-dem-narrative-that-trump-had-a-senior-moment-during-pa-rally-seemed-almost-intimate/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe-rogan-1200x630.png)](https://americanwirenews.com/trump-announces-hes-doing-joe-rogan-podcast-now-kamala-wants-rogan/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/ulises-martinez-mugshot-1200x630.jpg)](https://americanwirenews.com/beloved-nashville-eatery-shutting-down-after-owner-killed-by-illegal-its-really-hard/)
 
-[Trump announces he’s doing Joe Rogan podcast, now Kamala wants Rogan](https://americanwirenews.com/trump-announces-hes-doing-joe-rogan-podcast-now-kamala-wants-rogan/)
+(Mugshot: MNPD)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vance-1-1200x630.jpg)](https://americanwirenews.com/vance-visits-precinct-spot-that-walz-allowed-blm-to-burn/)
+[Beloved Nashville eatery shutting down after owner killed by illegal: ‘It’s really hard’](https://americanwirenews.com/beloved-nashville-eatery-shutting-down-after-owner-killed-by-illegal-its-really-hard/)
 
-[Vance visits precinct spot that Walz allowed BLM to burn](https://americanwirenews.com/vance-visits-precinct-spot-that-walz-allowed-blm-to-burn/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/03/RF-Getty-social-security-pension-savings-poor-elderly-sad-broke-e1678203023970-1200x630.jpg)](https://americanwirenews.com/seniors-worry-over-measly-social-security-raise-as-inflation-reigns-hanging-on-by-a-thread/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-luna-joefl-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/well-i-did-not-expect-that-rep-anna-paulina-luna-surprised-after-time-with-president-biden/)
+Getty Image
 
-[‘Well, I did not expect that’: Rep. Anna Paulina Luna surprised after time with President Biden](https://americanwirenews.com/well-i-did-not-expect-that-rep-anna-paulina-luna-surprised-after-time-with-president-biden/)
+[Seniors worry over measly Social Security raise as inflation reigns: ‘Hanging on by a thread’](https://americanwirenews.com/seniors-worry-over-measly-social-security-raise-as-inflation-reigns-hanging-on-by-a-thread/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-bret-kamala-split-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-david-plouffe-1200x630.jpg)](https://americanwirenews.com/top-harris-adviser-dismisses-horsest-polls-claims-theres-no-gop-army-of-incels-showing-in-early-voting/)
 
-### Desperate Kamala to sit down with Fox’s Bret Baier, Trump reacts](https://americanwirenews.com/desperate-kamala-to-sit-down-with-foxs-bret-baier-trump-reacts/)
+[Top Harris adviser dismisses ‘horses\*\*t’ polls, claims there’s no GOP ‘army’ of ‘incels’ showing in early voting](https://americanwirenews.com/top-harris-adviser-dismisses-horsest-polls-claims-theres-no-gop-army-of-incels-showing-in-early-voting/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-johnson-brennan-show-1200x630.jpg)
+
+### Speaker Mike Johnson brings the DAMNING receipts after CBS cuts critical info from interview](https://americanwirenews.com/speaker-mike-johnson-brings-the-damning-receipts-after-cbs-cuts-critical-info-from-interview/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,14 +82,6 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-david-plouffe-220x180.jpg)](https://americanwirenews.com/top-harris-adviser-dismisses-horsest-polls-claims-theres-no-gop-army-of-incels-showing-in-early-voting/)
-
-[Top Harris adviser dismisses ‘horses\*\*t’ polls, claims there’s no GOP ‘army’ of ‘incels’ showing in early voting](https://americanwirenews.com/top-harris-adviser-dismisses-horsest-polls-claims-theres-no-gop-army-of-incels-showing-in-early-voting/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vance-plagiarism-220x180.jpg)](https://americanwirenews.com/jd-is-so-good-at-this-vance-slams-harris-with-a-plagiarism-zinger/)
-
-[‘JD is so good at this’: Vance slams Harris with a plagiarism zinger](https://americanwirenews.com/jd-is-so-good-at-this-vance-slams-harris-with-a-plagiarism-zinger/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-sewell-220x180.jpg)](https://americanwirenews.com/mich-pastor-goes-off-on-kamala-for-disingenuous-pandering-black-men-are-not-political-infants/)
 
 [Mich. pastor goes off on Kamala for disingenuous pandering: ‘Black men are not political infants’](https://americanwirenews.com/mich-pastor-goes-off-on-kamala-for-disingenuous-pandering-black-men-are-not-political-infants/)
@@ -94,49 +90,17 @@ Search for:
 
 [‘Pure scaremongering’: Joy Reid whips up wild conspiracy and frets over ‘fascist groundswell’ spreading](https://americanwirenews.com/pure-scaremongering-joy-reid-whips-up-wild-conspiracy-and-frets-over-fascist-groundswell-spreading/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-220x180.png)](https://americanwirenews.com/kamala-slammed-for-latest-pandering-promise-this-is-racism-desperation-and-illegal/)
-
-[Kamala slammed for latest pandering promise: ‘This is racism, desperation, and illegal’](https://americanwirenews.com/kamala-slammed-for-latest-pandering-promise-this-is-racism-desperation-and-illegal/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-tapper-news-220x180.jpg)](https://americanwirenews.com/cnn-fights-to-keep-its-internal-journalistic-standards-sealed-amid-defamation-case/)
 
 [CNN fights to keep its internal journalistic standards sealed amid defamation case](https://americanwirenews.com/cnn-fights-to-keep-its-internal-journalistic-standards-sealed-amid-defamation-case/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/03/RF-Getty-social-security-pension-savings-poor-elderly-sad-broke-e1678203023970-220x180.jpg)](https://americanwirenews.com/seniors-worry-over-measly-social-security-raise-as-inflation-reigns-hanging-on-by-a-thread/)
-
-[Seniors worry over measly Social Security raise as inflation reigns: ‘Hanging on by a thread’](https://americanwirenews.com/seniors-worry-over-measly-social-security-raise-as-inflation-reigns-hanging-on-by-a-thread/)
-
-Getty Image
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-voting-4-220x180.jpg)](https://americanwirenews.com/the-hill-screams-voter-restriction-by-gop-as-red-states-face-resistance-cleaning-up-voter-rolls/)
 
 [The Hill screams voter restriction by GOP, as red states face resistance cleaning up voter rolls](https://americanwirenews.com/the-hill-screams-voter-restriction-by-gop-as-red-states-face-resistance-cleaning-up-voter-rolls/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-drones-220x180.jpg)](https://americanwirenews.com/swarms-of-ufos-spotted-above-over-military-bases-motherships-also-reported-ex-pentagon-official-says/)
-
-[Swarms of UFOs spotted over military bases, ‘motherships’ also reported, ex-Pentagon official says](https://americanwirenews.com/swarms-of-ufos-spotted-above-over-military-bases-motherships-also-reported-ex-pentagon-official-says/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-oaks-220x180.jpg)](https://americanwirenews.com/abc-destroys-dem-narrative-that-trump-had-a-senior-moment-during-pa-rally-seemed-almost-intimate/)
-
-[ABC destroys Dem narrative that Trump had a senior moment during PA rally: ‘Seemed almost intimate’](https://americanwirenews.com/abc-destroys-dem-narrative-that-trump-had-a-senior-moment-during-pa-rally-seemed-almost-intimate/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-2-220x180.jpg)](https://americanwirenews.com/columnist-warns-dems-of-possible-trump-win-with-9-ways-to-prepare-for-racial-blowback/)
 
 [Columnist warns Dems of possible Trump win with ‘9 ways to prepare for racial blowback’](https://americanwirenews.com/columnist-warns-dems-of-possible-trump-win-with-9-ways-to-prepare-for-racial-blowback/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-losers-get-wet-220x180.jpg)](https://americanwirenews.com/real-maga-dont-play-games-losers-posing-as-trump-supporters-with-nazi-flags-get-their-comeuppance/)
-
-[‘Real MAGA don’t play games’: Losers posing as Trump supporters with Nazi flags get their comeuppance](https://americanwirenews.com/real-maga-dont-play-games-losers-posing-as-trump-supporters-with-nazi-flags-get-their-comeuppance/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/ulises-martinez-mugshot-220x180.jpg)](https://americanwirenews.com/beloved-nashville-eatery-shutting-down-after-owner-killed-by-illegal-its-really-hard/)
-
-[Beloved Nashville eatery shutting down after owner killed by illegal: ‘It’s really hard’](https://americanwirenews.com/beloved-nashville-eatery-shutting-down-after-owner-killed-by-illegal-its-really-hard/)
-
-(Mugshot: MNPD)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-johnson-brennan-show-220x180.jpg)](https://americanwirenews.com/speaker-mike-johnson-brings-the-damning-receipts-after-cbs-cuts-critical-info-from-interview/)
-
-[Speaker Mike Johnson brings the DAMNING receipts after CBS cuts critical info from interview](https://americanwirenews.com/speaker-mike-johnson-brings-the-damning-receipts-after-cbs-cuts-critical-info-from-interview/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-harris-220x180.jpg)](https://americanwirenews.com/these-are-deeply-serious-conditions-trump-goes-on-offense-after-kamala-tries-to-hit-him-over-health-reports/)
 
@@ -179,6 +143,42 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-francis-220x180.jpg)](https://americanwirenews.com/divine-message-catholics-appear-to-be-breaking-for-trump-report/)
 
 [Divine message? Catholics appear to be breaking for Trump – report](https://americanwirenews.com/divine-message-catholics-appear-to-be-breaking-for-trump-report/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-luna-joefl-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/well-i-did-not-expect-that-rep-anna-paulina-luna-surprised-after-time-with-president-biden/)
+
+[‘Well, I did not expect that’: Rep. Anna Paulina Luna surprised after time with President Biden](https://americanwirenews.com/well-i-did-not-expect-that-rep-anna-paulina-luna-surprised-after-time-with-president-biden/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vance-1-220x180.jpg)](https://americanwirenews.com/vance-visits-precinct-spot-that-walz-allowed-blm-to-burn/)
+
+[Vance visits precinct spot that Walz allowed BLM to burn](https://americanwirenews.com/vance-visits-precinct-spot-that-walz-allowed-blm-to-burn/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe-rogan-220x180.png)](https://americanwirenews.com/trump-announces-hes-doing-joe-rogan-podcast-now-kamala-wants-rogan/)
+
+[Trump announces he’s doing Joe Rogan podcast, now Kamala wants Rogan](https://americanwirenews.com/trump-announces-hes-doing-joe-rogan-podcast-now-kamala-wants-rogan/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Alejandro-Mayorkas-220x180.jpg)](https://americanwirenews.com/house-gop-presses-mayorkas-for-answers-on-fema-funding-for-illegal-immigrants/)
+
+[House GOP presses Mayorkas for answers on FEMA funding for illegal immigrants](https://americanwirenews.com/house-gop-presses-mayorkas-for-answers-on-fema-funding-for-illegal-immigrants/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gang-victim-sg-gang-members-220x180.jpg)](https://americanwirenews.com/aurora-apartment-management-co-confirms-gang-takeovers-one-staffer-beaten-to-a-pulp/)
+
+[Apartment management co. confirms gang takeovers, one staffer beaten to a pulp](https://americanwirenews.com/aurora-apartment-management-co-confirms-gang-takeovers-one-staffer-beaten-to-a-pulp/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-borno-220x180.jpg)](https://americanwirenews.com/amazon-boycott-gains-speed-after-senior-vp-wears-controversial-necklace/)
+
+[Amazon boycott gains speed after senior VP wears controversial necklace](https://americanwirenews.com/amazon-boycott-gains-speed-after-senior-vp-wears-controversial-necklace/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sgkevin-oleary-220x180.png)](https://americanwirenews.com/shark-tanks-mr-wonderful-endorses-musk-to-head-govt-efficiency-commission/)
+
+[Shark Tank’s ‘Mr. Wonderful’ endorses Musk to head gov’t efficiency commission](https://americanwirenews.com/shark-tanks-mr-wonderful-endorses-musk-to-head-govt-efficiency-commission/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-slickwilliega-1200-x-628-220x180.jpg)](https://americanwirenews.com/bill-clinton-blames-harris-biden-regime-for-letting-laken-rileys-killer-into-the-country/)
+
+[Bill Clinton blames Harris-Biden regime for letting Laken Riley’s killer into the country](https://americanwirenews.com/bill-clinton-blames-harris-biden-regime-for-letting-laken-rileys-killer-into-the-country/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-bret-kamala-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/desperate-kamala-to-sit-down-with-foxs-bret-baier-trump-reacts/)
+
+[Desperate Kamala to sit down with Fox’s Bret Baier, Trump reacts](https://americanwirenews.com/desperate-kamala-to-sit-down-with-foxs-bret-baier-trump-reacts/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
