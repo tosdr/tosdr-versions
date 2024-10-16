@@ -17,11 +17,11 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get 2 tickets to Venom: The Last Dance & more!
-*  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Wicked Exclusive Collector's Pin Pack** Purchase a ticket to see Wicked in IMAX and get
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Scream Worthy Savings** See classic horror movies and get deals near you
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Wicked** Chance to win a trip to the Premiere of the film
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **It's Apple Pay Wednesday!** Use Apple Pay to get $5 off your order
+*  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Wicked Exclusive Collector's Pin Pack** Purchase a ticket to see Wicked in IMAX and get
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Wicked** Chance to win a trip to the Premiere of the film
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get 2 tickets to Venom: The Last Dance & more!
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Scream Worthy Savings** See classic horror movies and get deals near you
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 25% off on all Andrea Bocelli products** When you buy a ticket to Andrea Bocelli 30: The
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Flowers + Movies = Perfect Halloween** Get $40 off spooky flowers with ticket purchase.
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 50% off on Terrifier 2!** When you buy a ticket to Terrifier 3
@@ -87,13 +87,13 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer)
     
-* [Flowers + Movies = Perfect Halloween image link ![Flowers + Movies = Perfect Halloween](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ef14aa80-7f8d-11ef-8321-2b978811c524--fan-globalofferunit-homepage-bouqshalloween-292x118-v2b.png)](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer) 
+* [Halloween Deals Near You! image link ![Halloween Deals Near You!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/d34c20c0-7f8e-11ef-a07e-5b03d6159fe4--fan-globalofferunit-halloweenoffers-week1-292x118.png)](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer) 
     
-    ### Flowers + Movies = Perfect Halloween
+    ### Halloween Deals Near You!
     
-    Get $40 off Spooky Flowers\* with your ticket purchase from 10/1 - 10/31. Don't miss out on this limited time offer!
+    Your favorite Halloween classics at spooky good prices are just a click away.
     
-    [LEARN MORE](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer)
+    [GET TICKETS](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer)
     
 
 New & Coming soon
@@ -192,15 +192,15 @@ New & Coming soon
 
 © 2024 Fandango
 
-### SPECIAL OFFER
+### Apple Pay Wednesday
 
 Close
 
-![Seize the We Are Venom Bundle](https://images.fandango.com/cms/assets/f95099d0-7d41-11ef-8321-2b978811c524--fan-globalnavbar-venom-343x362.jpg)
+![It's Apple Pay Wednesday!](https://images.fandango.com/cms/assets/f4fa7280-882b-11ef-a588-3b078e6b3d8a--fan-globalnavbar-applepay-week15-tickets-343x362.png)
 
-#### Get two tickets to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more for $99.80!
+#### Today only! Save $5 off your order with Apple Pay.
 
-We Are Venom bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a bundle. You must have, and be logged into, a Fandango at Home account to buy your bundle and receive Venom: The Last Dance (pre-order so that you can view it when the studio makes it available), Venom, and Venom: Let There Be Carnage on Fandango at Home. The collectible cup and exclusive poster will begin shipping in the month of November. Please use a physical address where the collectible cup and exclusive poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See Offer Terms (https://www.watchfandangoathome.com/wearevenombundle/) for full terms and conditions for each item included in the We Are Venom bundle. [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_GlobalNav)
+Limited time offer, and limited quantities available. To redeem the offer, purchase one or more movie tickets on Wednesday 10/16/2024, to see any film through Fandango.com or the Fandango iOS mobile app and use Apple Pay®️ as the payment method, and enter the Fandango Promotional Code APPLEPAYWED (“Code”) in order to get the $5 off the entire purchase. There is a limited quantity of Code redemptions allowed in this promotion and therefore the offer is only available first come first served while supplies last. Code expires, and can no longer be used, upon earlier of Wednesday 10/16/2024, or after the limit of Code redemptions have been reached. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango iOS app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. One-time use only per email address, for a maximum of one transaction, receiving a maximum of one $5 discount on the purchase total regardless of how many tickets were purchased in that one transaction. Not for resale; void if sold or exchanged. Limit 1 Code per email address. Fandango reserves the right to modify or cancel this offer at any time and without notice. The redemption of the Code is subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. Apple Pay is a registered mark of Apple Inc. [Buy Tickets](http://www.fandango.com/redirect.aspx?source=mlp&promo=applepaywed&cmp=TARS~FANDANGO~Fandango_globalnav~applepaywednesday~TLP)
 
 ### Special Offer
 
@@ -212,16 +212,6 @@ Close
 
 Limited time offer. While supplies last. Log into your account on Fandango.com or the Fandango app and purchase at least one (1) IMAX movie ticket to ‘Wicked’ between 9:00am PT on 10/09/24 and 11:59pm PT on 12/31/24. Purchaser will receive a post purchase email containing one (1) Promotional Code (“Code”) that is good for the redemption of the Wicked Collector’s Pin Pack. Pin Pack will ship in November. There is a limited quantity of Codes available in this promotion. Codes will stop being distributed on the earlier of (i) the Code distribution limit being reached, (ii) Wicked no longer being in IMAX theaters, or (iii) 11:59pm PT on 12/31/24. There is a limited quantity of Code redemptions available in this promotion. Code expires, and can no longer be used, when the limit of Code redemptions has been reached, or at 11:59pm PT on 1/31/25, whichever comes first. Limit one Code per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Fandango reserves the right to modify or cancel this offer at any time and without notice. This offer is subject to Fandango Terms and Policies and Privacy Policy at Terms and Policies at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_promomodule)
 
-### Halloween Deals Near You!
-
-Close
-
-![Get Scream Worthy Savings](https://images.fandango.com/cms/assets/bcc09fb0-8a4d-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-applepay-week4-tickets-343x362.png)
-
-#### Your favorite Halloween classics at spooky good prices are just a click away.
-
-Offers are subject to change or cancellation by each theater, please contact your local theater with any questions. [Learn More](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_GlobalNav)
-
 ### Special Offer
 
 Close
@@ -232,15 +222,25 @@ Close
 
 "Full official rules here: https://nbcuni.sharepoint.com/:w:/s/MarketingHub/EduwQ9931CtOtL55pN916mEBDNo8AyGNxhToRXwsx7m92Q?e=xwbr8S Abbreviated: NO PURCHASE OR APP NECESSARY. Open to legal residents of the 50 United States and D.C., 18 years of age and older. Void where prohibited. Ends October 23, 2024. For Official Rules/Odds/Free Entry visit https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes. Sponsor: Fandango Media, LLC, 12180 Millennium Dr., Ste. 200, Playa Vista, CA, 90094 " [Learn More](https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes?cmp=TARS~FANDANGO~WickedPremiereSweeps_promomodule)
 
-### Apple Pay Wednesday
+### SPECIAL OFFER
 
 Close
 
-![It's Apple Pay Wednesday!](https://images.fandango.com/cms/assets/812ef4b0-82be-11ef-a07e-5b03d6159fe4--fan-globalnavbar-applepay-week14-tickets-343x362.png)
+![Seize the We Are Venom Bundle](https://images.fandango.com/cms/assets/f95099d0-7d41-11ef-8321-2b978811c524--fan-globalnavbar-venom-343x362.jpg)
 
-#### Today only! Save $5 off your order with Apple Pay.
+#### Get two tickets to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more for $99.80!
 
-Limited time offer, and limited quantities available. To redeem the offer, purchase one or more movie tickets on Wednesday 10/9/2024, to see any film through Fandango.com or the Fandango iOS mobile app and use Apple Pay®️ as the payment method, and enter the Fandango Promotional Code APPLEPAYWED (“Code”) in order to get the $5 off the entire purchase. There is a limited quantity of Code redemptions allowed in this promotion and therefore the offer is only available first come first served while supplies last. Code expires, and can no longer be used, upon earlier of Wednesday 10/9/2024, or after the limit of Code redemptions have been reached. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango iOS app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. One-time use only per email address, for a maximum of one transaction, receiving a maximum of one $5 discount on the purchase total regardless of how many tickets were purchased in that one transaction. Not for resale; void if sold or exchanged. Limit 1 Code per email address. Fandango reserves the right to modify or cancel this offer at any time and without notice. The redemption of the Code is subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. Apple Pay is a registered mark of Apple Inc. [Buy Tickets](https://www.fandango.com/redirect.aspx?source=mlp&promo=applepaywed&cmp=TARS~FANDANGO~Fandango_globalnav~applepaywednesday~TLP)
+We Are Venom bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a bundle. You must have, and be logged into, a Fandango at Home account to buy your bundle and receive Venom: The Last Dance (pre-order so that you can view it when the studio makes it available), Venom, and Venom: Let There Be Carnage on Fandango at Home. The collectible cup and exclusive poster will begin shipping in the month of November. Please use a physical address where the collectible cup and exclusive poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See Offer Terms (https://www.watchfandangoathome.com/wearevenombundle/) for full terms and conditions for each item included in the We Are Venom bundle. [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_GlobalNav)
+
+### Halloween Deals Near You!
+
+Close
+
+![Get Scream Worthy Savings](https://images.fandango.com/cms/assets/bcc09fb0-8a4d-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-applepay-week4-tickets-343x362.png)
+
+#### Your favorite Halloween classics at spooky good prices are just a click away.
+
+Offers are subject to change or cancellation by each theater, please contact your local theater with any questions. [Learn More](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_GlobalNav)
 
 ### Special Offer
 
