@@ -98,13 +98,13 @@ Apply
 
 [](https://www.mypillow.ca/mystore-general-redirect)
 
-   [](https://www.mypillow.com/giza-dreams-sheets)
+   [](https://www.mypillow.ca/mymattress-topper-with-free-mypillow-percale-sheets)
 
    [](https://www.mypillow.com/the-classic-collection)
 
    [](https://www.mypillow.com/bedding)
 
-   [](https://www.mypillow.ca/mymattress-topper-with-free-mypillow-percale-sheets)
+   [](https://www.mypillow.com/mattresses)
 
    [](https://www.mypillow.com/slipper-specials)
 
@@ -120,7 +120,7 @@ Apply
 
    [](https://www.mypillow.ca/mikes-products/what-are-the-odds-br-from-crack-addict-to-ceo)
 
-   [](https://www.mypillow.com/mattresses)
+   [](https://www.mypillow.ca/mypillow-2-0)
 
 [SAVE up to 80% with promo code
 
@@ -150,7 +150,7 @@ SHOP NOW](https://www.mypillow.com/hannity-new)
 
    [](https://www.mypillow.ca/mystore-general-redirect)
 
-   [](https://www.mypillow.ca/mypillow-2-0)
+   [](https://www.mypillow.com/gift-cards)
 
    [](https://www.mypillow.com/couch-and-recliner-pillows)
 
