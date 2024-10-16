@@ -20,16 +20,16 @@ Wednesday, October 16 2024
 
 Latest
 
-* [How Microsoft became a Big Tech choirboy – Computerworld](https://digitpatrox.com/how-microsoft-became-a-big-tech-choirboy-computerworld/)
-* [How to Prepare for Your First 5K Race](https://digitpatrox.com/how-to-prepare-for-your-first-5k-race/)
-* [Razer’s Kishi Ultra Controller Just Got Better](https://digitpatrox.com/razers-kishi-ultra-controller-just-got-better/)
-* [American utilities firms need to invest now to feed AI energy demands](https://digitpatrox.com/american-utilities-firms-need-to-invest-now-to-feed-ai-energy-demands/)
-* [Generative AI in Security: Risks and Mitigation Strategies](https://digitpatrox.com/generative-ai-in-security-risks-and-mitigation-strategies/)
-* [NYT Strands today — hints, spangram and answers for game #227 (Wednesday, October 16 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-227-wednesday-october-16-2024/)
-* [Finland seizes servers of ‘Sipultie’ dark web drugs market](https://digitpatrox.com/finland-seizes-servers-of-sipultie-dark-web-drugs-market/)
-* [Here’s a bunch of bananas shit Trump said today about breaking up Google](https://digitpatrox.com/heres-a-bunch-of-bananas-shit-trump-said-today-about-breaking-up-google/)
-* [What Is App Archiving on Android 15 and How to Use It](https://digitpatrox.com/what-is-app-archiving-on-android-15-and-how-to-use-it/)
-* [Google is going nuclear | ITPro](https://digitpatrox.com/google-is-going-nuclear-itpro/)
+* [Amazon says 175 million customers now use passkeys to log in](https://digitpatrox.com/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
+* [Amazon’s new Kindle and Kindle Paperwhite are faster and brighter](https://digitpatrox.com/amazons-new-kindle-and-kindle-paperwhite-are-faster-and-brighter/)
+* [Honkai Star Rail Rappa Materials and Pre-Farming Guide](https://digitpatrox.com/honkai-star-rail-rappa-materials-and-pre-farming-guide/)
+* [Test – Best VPNs for Linux](https://digitpatrox.com/test-best-vpns-for-linux/)
+* [Databricks expands AWS partnership to drive generative AI capabilities](https://digitpatrox.com/databricks-expands-aws-partnership-to-drive-generative-ai-capabilities/)
+* [5 ways to stop Windows Update from rebooting your PC – Computerworld](https://digitpatrox.com/5-ways-to-stop-windows-update-from-rebooting-your-pc-computerworld/)
+* [The Best Ways to Carve Your Halloween Pumpkin](https://digitpatrox.com/the-best-ways-to-carve-your-halloween-pumpkin/)
+* [Ransomware gang BianLian claims cyber attack on Boston Children’s Health Physicians](https://digitpatrox.com/ransomware-gang-bianlian-claims-cyber-attack-on-boston-childrens-health-physicians/)
+* [Skullcandy Push ANC Active Review: Great Sound, but Glitchy](https://digitpatrox.com/skullcandy-push-anc-active-review-great-sound-but-glitchy/)
+* [Storage architectures must change to meet the needs of AI – and Huawei thinks it has a head start on competitors](https://digitpatrox.com/storage-architectures-must-change-to-meet-the-needs-of-ai-and-huawei-thinks-it-has-a-head-start-on-competitors/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3564731-0-05700300-1729058572-sasun-bughdaryan-b0pNcKAPDSg-unsplash.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/how-microsoft-became-a-big-tech-choirboy-computerworld/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/15/amazon-logo.jpg)](https://digitpatrox.com/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
     
-    [How Microsoft became a Big Tech choirboy – Computerworld](https://digitpatrox.com/how-microsoft-became-a-big-tech-choirboy-computerworld/)
+    [Amazon says 175 million customers now use passkeys to log in](https://digitpatrox.com/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
     
-    39 mins ago
+    48 seconds ago
     
-* [![](https://lifehacker.com/imagery/articles/01JA8V4Z9VX6Y3TXFQ9BCPDSMS/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-prepare-for-your-first-5k-race/)
+* [![](https://cdn.vox-cdn.com/thumbor/j-WIqh2ScOg8VteniWpRk95Q-L0=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25679990/247326_Amazon_Kindle_2024_AKrales_0007.jpg)](https://digitpatrox.com/amazons-new-kindle-and-kindle-paperwhite-are-faster-and-brighter/)
     
-    [How to Prepare for Your First 5K Race](https://digitpatrox.com/how-to-prepare-for-your-first-5k-race/)
+    [Amazon’s new Kindle and Kindle Paperwhite are faster and brighter](https://digitpatrox.com/amazons-new-kindle-and-kindle-paperwhite-are-faster-and-brighter/)
     
-    1 hour ago
+    18 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/razer-kishi-ultra-sensa-hd-rapid-trigger-ipad-mini-1.jpg)](https://digitpatrox.com/razers-kishi-ultra-controller-just-got-better/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/Rappa-Traces-and-Ascension-abilities.jpg)](https://digitpatrox.com/honkai-star-rail-rappa-materials-and-pre-farming-guide/)
     
-    [Razer’s Kishi Ultra Controller Just Got Better](https://digitpatrox.com/razers-kishi-ultra-controller-just-got-better/)
+    [Honkai Star Rail Rappa Materials and Pre-Farming Guide](https://digitpatrox.com/honkai-star-rail-rappa-materials-and-pre-farming-guide/)
+    
+    33 mins ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/The-best-VPNs-for-Linux-in-2020-and-the-worst.jpg)](https://digitpatrox.com/test-best-vpns-for-linux/)
+    
+    [Test – Best VPNs for Linux](https://digitpatrox.com/test-best-vpns-for-linux/)
     
     2 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/z7BQU6iiq9qjmfteHKw4mE-1200-80.jpg)](https://digitpatrox.com/american-utilities-firms-need-to-invest-now-to-feed-ai-energy-demands/)
+* [![](https://cdn.mos.cms.futurecdn.net/mpMqMS59ehgX7VhtsZ4QTM-1200-80.jpg)](https://digitpatrox.com/databricks-expands-aws-partnership-to-drive-generative-ai-capabilities/)
     
-    [American utilities firms need to invest now to feed AI energy demands](https://digitpatrox.com/american-utilities-firms-need-to-invest-now-to-feed-ai-energy-demands/)
+    [Databricks expands AWS partnership to drive generative AI capabilities](https://digitpatrox.com/databricks-expands-aws-partnership-to-drive-generative-ai-capabilities/)
     
-    3 hours ago
-    
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241015-microsoft-generative-ai-security-risk-reduction-isc2.jpg)](https://digitpatrox.com/generative-ai-in-security-risks-and-mitigation-strategies/)
-    
-    [Generative AI in Security: Risks and Mitigation Strategies](https://digitpatrox.com/generative-ai-in-security-risks-and-mitigation-strategies/)
-    
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [39 mins ago
+* [48 seconds ago
     
-    ### How Microsoft became a Big Tech choirboy – Computerworld](https://digitpatrox.com/how-microsoft-became-a-big-tech-choirboy-computerworld/)
-* [1 hour ago
+    ### Amazon says 175 million customers now use passkeys to log in](https://digitpatrox.com/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
+* [18 mins ago
     
-    ### How to Prepare for Your First 5K Race](https://digitpatrox.com/how-to-prepare-for-your-first-5k-race/)
-* [2 hours ago
+    ### Amazon’s new Kindle and Kindle Paperwhite are faster and brighter](https://digitpatrox.com/amazons-new-kindle-and-kindle-paperwhite-are-faster-and-brighter/)
+* [33 mins ago
     
-    ### Razer’s Kishi Ultra Controller Just Got Better](https://digitpatrox.com/razers-kishi-ultra-controller-just-got-better/)
+    ### Honkai Star Rail Rappa Materials and Pre-Farming Guide](https://digitpatrox.com/honkai-star-rail-rappa-materials-and-pre-farming-guide/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [August 25, 2024
     
-    ### NYT Strands Today: Hints, Answers & Spangram for September 28](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-28/)
-* [August 13, 2024
+    ### Canoo is down to one co-founder as its CTO reportedly leaves](https://digitpatrox.com/canoo-is-down-to-one-co-founder-as-its-cto-reportedly-leaves/)
+* [1 week ago
     
-    ### The Pixel Watch 3 Can Detect When Your Heart Stops](https://digitpatrox.com/the-pixel-watch-3-can-detect-when-your-heart-stops/)
-* [3 weeks ago
+    ### The Google Pixel Watch 2 just hit its lowest ever price on Amazon with this Prime Day deal](https://digitpatrox.com/the-google-pixel-watch-2-just-hit-its-lowest-ever-price-on-amazon-with-this-prime-day-deal/)
+* [1 week ago
     
-    ### Intel and the US set to seal $8.5B CHIPS Act funding – Computerworld](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
+    ### Lost Souls Codes (October 2024)](https://digitpatrox.com/lost-souls-codes-october-2024/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Finland seizes servers of ‘Sipultie’ dark web drugs market](https://digitpatrox.com/finland-seizes-servers-of-sipultie-dark-web-drugs-market/)
-* [4 hours ago
+    ### The Best Ways to Carve Your Halloween Pumpkin](https://digitpatrox.com/the-best-ways-to-carve-your-halloween-pumpkin/)
+* [3 hours ago
     
-    ### Here’s a bunch of bananas shit Trump said today about breaking up Google](https://digitpatrox.com/heres-a-bunch-of-bananas-shit-trump-said-today-about-breaking-up-google/)
-* [4 hours ago
+    ### Ransomware gang BianLian claims cyber attack on Boston Children’s Health Physicians](https://digitpatrox.com/ransomware-gang-bianlian-claims-cyber-attack-on-boston-childrens-health-physicians/)
+* [3 hours ago
     
-    ### What Is App Archiving on Android 15 and How to Use It](https://digitpatrox.com/what-is-app-archiving-on-android-15-and-how-to-use-it/)
+    ### Skullcandy Push ANC Active Review: Great Sound, but Glitchy](https://digitpatrox.com/skullcandy-push-anc-active-review-great-sound-but-glitchy/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
