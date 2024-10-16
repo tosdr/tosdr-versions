@@ -79,7 +79,7 @@ Asia
     * [Show all](https://www.fjallraven.com/us/en-us/men/)
     * [New Arrivals](https://www.fjallraven.com/us/en-us/men/new-arrivals/)
     * [Best Sellers](https://www.fjallraven.com/us/en-us/men/best-sellers/)
-    * [Limited Edition](https://www.fjallraven.com/us/en-us/men/featured-collections/limited-edition/)
+    * [Limited Edition](https://www.fjallraven.com/us/en-us/men/limited-edition/)
     * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/men/fjallraven-specialized/)
     * Jackets
         
@@ -280,7 +280,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=41e22655-21fa-49a9-854f-e11755af4e80)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=782f3314-d01a-49b0-b2f1-39b5d761e9c2)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -292,7 +292,7 @@ Asia
         * [Show all](https://www.fjallraven.com/us/en-us/men/)
         * [New Arrivals](https://www.fjallraven.com/us/en-us/men/new-arrivals/)
         * [Best Sellers](https://www.fjallraven.com/us/en-us/men/best-sellers/)
-        * [Limited Edition](https://www.fjallraven.com/us/en-us/men/featured-collections/limited-edition/)
+        * [Limited Edition](https://www.fjallraven.com/us/en-us/men/limited-edition/)
         * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/men/fjallraven-specialized/)
         * Jackets
             
@@ -439,7 +439,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=41e22655-21fa-49a9-854f-e11755af4e80)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=782f3314-d01a-49b0-b2f1-39b5d761e9c2)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -696,7 +696,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=41e22655-21fa-49a9-854f-e11755af4e80)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=782f3314-d01a-49b0-b2f1-39b5d761e9c2)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
