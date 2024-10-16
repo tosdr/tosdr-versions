@@ -204,6 +204,10 @@ We are committed to conducting our business in accordance with principles that e
 
 #### Recent Jokes
 
+[![Top Halloween Costumes for Kids this Year](https://funkidsjokes.com/wp-content/uploads/2024/10/kids-1966202_640-100x70.jpg "Most Popular Halloween Costumes for Kids – Plus Funny Jokes to Go with Them")](https://funkidsjokes.com/most-popular-halloween-costumes-for-kids/ "Most Popular Halloween Costumes for Kids – Plus Funny Jokes to Go with Them")
+
+### [Most Popular Halloween Costumes for Kids – Plus Funny Jokes to...](https://funkidsjokes.com/most-popular-halloween-costumes-for-kids/ "Most Popular Halloween Costumes for Kids – Plus Funny Jokes to Go with Them")
+
 [![Funny Armadillo jokes](https://funkidsjokes.com/wp-content/uploads/2024/10/armadillo-jokes-100x70.png "Armadillo Jokes")](https://funkidsjokes.com/armadillo-jokes/ "Armadillo Jokes")
 
 ### [Armadillo Jokes](https://funkidsjokes.com/armadillo-jokes/ "Armadillo Jokes")
@@ -211,10 +215,6 @@ We are committed to conducting our business in accordance with principles that e
 [![Zebra Jokes - Silly Jokes About Zebra](https://funkidsjokes.com/wp-content/uploads/2024/10/zebra-jokes-100x70.png "Zebra Jokes")](https://funkidsjokes.com/zebra-jokes/ "Zebra Jokes")
 
 ### [Zebra Jokes](https://funkidsjokes.com/zebra-jokes/ "Zebra Jokes")
-
-[![Koala Jokes - Koala Bear Jokes](https://funkidsjokes.com/wp-content/uploads/2024/10/koala-jokes-100x70.png "Koala Jokes")](https://funkidsjokes.com/koala-jokes/ "Koala Jokes")
-
-### [Koala Jokes](https://funkidsjokes.com/koala-jokes/ "Koala Jokes")
 
   
   
