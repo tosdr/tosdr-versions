@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 154 utilisateurs actifs
+##### 725 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Télécharger les wallpapers du 10ᵉ anniversaire de Windows Insider](https://lecrabeinfo.net/telecharger-les-wallpapers-du-10%e1%b5%89-anniversaire-de-windows-insider.html)
+* [Windows 11 : Microsoft brise la limite de 32 Go pour le FAT32 (qui passe à 2 To)](https://lecrabeinfo.net/windows-11-microsoft-brise-la-limite-de-32-go-pour-le-fat32-qui-passe-a-2-to.html)
 * [Windows 11 24H2 : un cache de 8,63 Go impossible à supprimer ! Microsoft prépare un correctif](https://lecrabeinfo.net/1679551.html)
-* [Est-ce vraiment la fin du Panneau de configuration de Windows ?](https://lecrabeinfo.net/est-ce-vraiment-la-fin-du-panneau-de-configuration-de-windows.html)
-* [Windows 11 : Microsoft bloque les astuces pour contourner le TPM 2.0 pour les PC non compatibles](https://lecrabeinfo.net/windows-11-microsoft-bloque-les-astuces-pour-contourner-le-tpm-2-0-pour-les-pc-non-compatibles.html)
 
 ### Tendance
 
@@ -152,9 +152,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 746 membres
-* 921 articles
-* 26 720 commentaires
+* 67 749 membres
+* 923 articles
+* 26 721 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
