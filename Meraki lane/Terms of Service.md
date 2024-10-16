@@ -117,6 +117,10 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
+    [![11 DIY Poinsettia Centerpieces to Make with Your Kids | These bright red flowers are a classic symbol of Christmas, and they're perfect for making table decorations that will impress your guests. They make great DIY gifts kids can make for friends and family too! Poinsettias are surprisingly versatile, allowing you to incorporate them into different styles, from rustic to modern. Click to learn how to choose the best poinsettias, how to keep them fresh, plus 10 easy poinsettia crafts for kids!](https://www.merakilane.com/wp-content/uploads/2024/10/5-2.png)](https://www.merakilane.com/11-diy-poinsettia-centerpieces-to-make-with-your-kids/)
+    
+    ### [11 DIY Poinsettia Centerpieces to Make with Your Kids](https://www.merakilane.com/11-diy-poinsettia-centerpieces-to-make-with-your-kids/)
+    
     [![6 Best Friendsgiving Theme Ideas for Adults | We often associate Thanksgiving with family dinners and get-togethers, but it can be a time to celebrate your best friends too! Friendsgiving is a way to express gratitude for the friendships in your life with food, drinks, and fun. Some keep it as a traditional Thanksgiving meal, but others like to mix it up by throwing a themed party with outfits (or costumes!), decorations, games, activities, and more. Click for 6 unique and creative ideas!](https://www.merakilane.com/wp-content/uploads/2024/10/7-2.png)](https://www.merakilane.com/10-best-friendsgiving-theme-ideas-for-teens/)
     
     ### [10 Best Friendsgiving Theme Ideas for Teens](https://www.merakilane.com/10-best-friendsgiving-theme-ideas-for-teens/)
@@ -124,10 +128,6 @@ Main Menu
     [![How to Help Your Teen Through a Breakup | Discover practical advice and motivational tips to help your teen move on after a breakup. Learn how to offer support and guidance that boosts confidence and positivity during this challenging time. Whether it’s sharing uplifting quotes, helping them focus on self-care, or offering advice to navigate emotions, these parenting tips and strategies will help your daughter or son heal and come out stronger on the other side of teen breakups.](https://www.merakilane.com/wp-content/uploads/2024/10/1.png)](https://www.merakilane.com/how-to-help-your-teen-through-a-breakup-9-tips-for-parents/)
     
     ### [How to Help Your Teen Through a Breakup: 9 Tips for Parents](https://www.merakilane.com/how-to-help-your-teen-through-a-breakup-9-tips-for-parents/)
-    
-    [![16 Best Portable Airplane Snacks for Kids | Whether you're traveling with kids on short domestic flights or long flights overseas, having their favorite snacks on hand can make all the difference. From healthy options to mess-free treats, we're sharing the best travel snacks for kids of all ages and stages that also double as great road trip snacks. We've also included TSA-approved snack bags, boxes, and ice packs so you can pack homemade favorites for the whole family.](https://www.merakilane.com/wp-content/uploads/2024/09/5-3.png)](https://www.merakilane.com/16-best-portable-airplane-snacks-for-kids/)
-    
-    ### [16 Best Portable Airplane Snacks for Kids](https://www.merakilane.com/16-best-portable-airplane-snacks-for-kids/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
