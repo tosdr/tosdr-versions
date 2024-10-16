@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for your excellent customer service.
+Your service and support has been first class and I would recommend it.
 
-Paul Epsom
+Ray Mitchell
