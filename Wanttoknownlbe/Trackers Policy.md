@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/economie/geld/texas-ondergraaft-fed-met-goudzilver-wet/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/aliens-tegen-amerikaans-raketschild/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
