@@ -1,7 +1,3 @@
-[Viator - A TripAdvisor Company: Up to 30% off your next travel experience with Viator + 12% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/viator?store=viator&sourceName=sitewide-sticky-header)
-
 [](https://www.rakuten.ca/)
 
 EN
