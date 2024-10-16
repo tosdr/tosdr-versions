@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [VHS Yard Sale](https://www.somethingawful.com/photoshop-phriday/vhs-yard-sale/1/)
-* [July 9, 2007](https://www.somethingawful.com/forum-fridays/ff07-09-07/1/)
-* [04-09-2007](https://www.somethingawful.com/forum-fridays/ff04-09-2007/1/)
-* [03-26-2007](https://www.somethingawful.com/forum-fridays/ff03-26-07/1/)
-* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
+* [History's Unsent Telegrams](https://www.somethingawful.com/photoshop-phriday/historys-unsent-telegrams/1/)
+* [Normal Books for Sci-Fi Audiences](https://www.somethingawful.com/photoshop-phriday/normal-books-for/1/)
+* [Coffee Table Books of the Damned](https://www.somethingawful.com/photoshop-phriday/coffee-table-books/1/)
+* [September 8, 2008](https://www.somethingawful.com/forum-fridays/ff09-08-08/1/)
+* [September 17, 2007](https://www.somethingawful.com/forum-fridays/ff09-27-07/1/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [PG Romance Novels in Simple English!](https://www.somethingawful.com/comedy-goldmine/easy-love-books/)
-* [State Og Update: 04.19.03](https://www.somethingawful.com/state-og/state-og-update-20/)
-* [Candid Pet Photos!](https://www.somethingawful.com/comedy-goldmine/candid-pet-photos/1/)
-* [I Hate You Page 256](https://www.somethingawful.com/cliff-yablonski/i-hate-you-256/)
-* [Four Reasons Why The Super Bowl Sucks And I Hate It](https://www.somethingawful.com/pregame-wrapup/four-reasons-why/)
+* [Twilight of the Idols: PART TWO!](https://www.somethingawful.com/news/twilight-idols-part-2/)
+* [Slogans That Shouldn't Be](https://www.somethingawful.com/comedy-goldmine/slogans-shouldnt-be/1/)
+* [Your Eyes Say =^\_^= But Your Videos Say ( . )( . )](https://www.somethingawful.com/webcam-ward/japanese-lessons-boobs/)
+* [GG ELECTION COVERAGE '08 day one](https://www.somethingawful.com/daily-dirt/gaming-election-1/)
+* [Look at this asshole](https://www.somethingawful.com/news/look-at-asshole/)
 
 [Random!](https://www.somethingawful.com/random/)
 
