@@ -55,7 +55,7 @@ This app works best with JavaScript enabled.
 * [Blog](https://blog.sentry.io/)
 * Sandbox
 * [Sign Inlogin](https://sentry.io/auth/login/)
-* [Start for Freesign up](https://sentry.io/signup/)
+* [Get Startedsign up](https://sentry.io/signup/)
 
 [Back to all legal docs](https://sentry.io/legal/)
 
