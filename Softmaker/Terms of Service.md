@@ -5,7 +5,7 @@
 * [Products](https://www.softmaker.com/en/products)
     * [SoftMaker Office for Windows, Mac and Linux](https://www.softmaker.com/en/products/softmaker-office)
     * [SoftMaker Office for iOS and Android](https://www.softmaker.com/en/products/softmaker-office-ios-android)
-    * [FlexiPDF](https://www.softmaker.com/en/products/flexipdf)
+    * [NEW: FlexiPDF NX and 2025](https://www.softmaker.com/en/products/flexipdf)
     * [Fonts](https://www.softmaker.com/en/products/fonts)
 * [Download](https://www.softmaker.com/en/download/applications)
     * [Applications](https://www.softmaker.com/en/download/applications)
@@ -193,16 +193,16 @@ Change privacy settings
     
     Close
 
+Follow us on
+
+[](https://www.facebook.com/softmaker)[](https://twitter.com/softmaker_com)
+
 * SoftMaker
 * [About us](https://www.softmaker.com/en/about-us)
 * [Product timeline](https://www.softmaker.com/en/timeline)
 * [Press center](https://www.softmaker.com/en/press-center)
 * [Job openings](https://www.softmaker.com/en/jobs)
 * [Becoming a reseller](https://www.softmaker.com/en/becoming-a-reseller)
-
-Follow us on
-
-[](https://www.facebook.com/softmaker)[](https://twitter.com/softmaker_com)
 
 * Legal
 * [Privacy policy](https://www.softmaker.com/en/privacy-policy)
