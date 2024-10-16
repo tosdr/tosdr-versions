@@ -185,7 +185,7 @@
 
 [◁ Handel](#listview-ber-uns)
 
-[Bestellabwicklung und Auslieferung](https://www.duden.de/auslieferungen)
+[Bestellabwicklung und Auslieferung](https://www.duden.de/handel/auslieferungen)
 
 [Kataloge und Vorschauen](https://www.duden.de/handel/kataloge)
 
