@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/2fbf3583-1d4b-4d16-ad63-cefd40324f63/20240723T031857/2fbf3583-1d4b-4d16-ad63-cefd40324f63_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2fbf3583-1d4b-4d16-ad63-cefd40324f63/20240723T031857/2fbf3583-1d4b-4d16-ad63-cefd40324f63_360x203.jpg)](https://www.wqad.com/article/news/local/arrowhead-ranch-holding-yard-sale/526-40a19cf9-b15b-469a-9706-0d04c4366273)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/740e2974-2945-419e-83dc-f961f05d0c8a/20240523T220434/740e2974-2945-419e-83dc-f961f05d0c8a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/740e2974-2945-419e-83dc-f961f05d0c8a/20240523T220434/740e2974-2945-419e-83dc-f961f05d0c8a_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/unitypoint-health-certified-virtual-nursing-program-remote-new/526-06e6089a-6487-4a86-bbc5-f188d827bc76)
         
-        #### [Arrowhead Ranch selling old property in yard sale](https://www.wqad.com/article/news/local/arrowhead-ranch-holding-yard-sale/526-40a19cf9-b15b-469a-9706-0d04c4366273)
+        #### [UnityPoint Health is helping to pioneer virtual nurse certifications](https://www.wqad.com/article/news/local/the-current/unitypoint-health-certified-virtual-nursing-program-remote-new/526-06e6089a-6487-4a86-bbc5-f188d827bc76)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/660a271d-ba2f-45cb-8807-f01d4d3dbb74/20240917T214727/660a271d-ba2f-45cb-8807-f01d4d3dbb74_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/660a271d-ba2f-45cb-8807-f01d4d3dbb74/20240917T214727/660a271d-ba2f-45cb-8807-f01d4d3dbb74_360x203.jpg)](https://www.wqad.com/article/news/local/tiktok-addiction-signs-advice/526-341c7fa4-15e4-4b6e-bf2a-b5fb1af8e4fb)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ae559308-f19e-4cb5-a17c-97b1af4579d5/20241016T215546/ae559308-f19e-4cb5-a17c-97b1af4579d5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ae559308-f19e-4cb5-a17c-97b1af4579d5/20241016T215546/ae559308-f19e-4cb5-a17c-97b1af4579d5_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/lee-county-ashton-illinois-murder-teenage/526-4f70aafc-b892-4568-b90a-8d3a88cc258c)
         
-        #### [What is TikTok addiction, and how can you spot it?](https://www.wqad.com/article/news/local/tiktok-addiction-signs-advice/526-341c7fa4-15e4-4b6e-bf2a-b5fb1af8e4fb)
+        #### [16-year-old girl killed in Lee County, 17-year-old boyfriend charged with murder](https://www.wqad.com/article/news/local/public-safety/lee-county-ashton-illinois-murder-teenage/526-4f70aafc-b892-4568-b90a-8d3a88cc258c)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e5b7cead-f713-492b-9454-032e0d6cd0db/20241016T121223/e5b7cead-f713-492b-9454-032e0d6cd0db_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e5b7cead-f713-492b-9454-032e0d6cd0db/20241016T121223/e5b7cead-f713-492b-9454-032e0d6cd0db_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [More warmth on the way for the rest of the week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
     *  [![](https://media.tegna-media.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_360x203.jpg)](https://www.wqad.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
         
         #### [October's supermoon pairs with a comet for a special nighttime spectacle](https://www.wqad.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
+        
+    *  [![](https://media.tegna-media.com/assets/WTSP/images/c2f988d9-b964-4ec3-a996-b1cb9c58d51e/20241011T023631/c2f988d9-b964-4ec3-a996-b1cb9c58d51e_16x9.jpg) ![](https://media.tegna-media.com/assets/WTSP/images/c2f988d9-b964-4ec3-a996-b1cb9c58d51e/20241011T023631/c2f988d9-b964-4ec3-a996-b1cb9c58d51e_360x203.jpg)](https://www.wqad.com/article/news/crime/dog-tied-fence-i-75-hurricane-milton-animal-cruelty-owner-charged/67-f0270b3f-d988-4568-b40f-8d548b3c05e0)
+        
+        #### [Owner of dog left tied to fence on I-75 ahead of Milton charged with animal cruelty](https://www.wqad.com/article/news/crime/dog-tied-fence-i-75-hurricane-milton-animal-cruelty-owner-charged/67-f0270b3f-d988-4568-b40f-8d548b3c05e0)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-51°
+58°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
