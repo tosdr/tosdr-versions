@@ -436,7 +436,7 @@ Software
 
 Company
 
-[About Us](https://bambulab.com/en/about-us)[Contact Us](https://bambulab.com/en/contact-us)[Join Us](https://bambulab.com/en/join-us)
+[About Us](https://bambulab.com/en/about-us)[Blog](https://blog.bambulab.com/)[Contact Us](https://bambulab.com/en/contact-us)[Join Us](https://bambulab.com/en/join-us)
 
 Partners
 
