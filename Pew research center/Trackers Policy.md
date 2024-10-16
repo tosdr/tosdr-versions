@@ -10,7 +10,7 @@ Read our research on:
 
 * [Economy & Work](https://www.pewresearch.org/topic/economy-work/)
 * [Hispanics](https://www.pewresearch.org/topic/race-ethnicity/racial-ethnic-groups/hispanics-latinos/)
-* [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
+* [News Habits](https://www.pewresearch.org/topic/news-habits-media/)
 
 [](https://www.pewresearch.org/)[](https://www.pewresearch.org/)[](https://www.pewresearch.org/decoded)
 
@@ -100,7 +100,7 @@ Search
     
     * [Economy & Work](https://www.pewresearch.org/topic/economy-work/)
     * [Hispanics](https://www.pewresearch.org/topic/race-ethnicity/racial-ethnic-groups/hispanics-latinos/)
-    * [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
+    * [News Habits](https://www.pewresearch.org/topic/news-habits-media/)
     
 
 [Home](https://www.pewresearch.org/) [About Pew Research Center](https://www.pewresearch.org/about/) [Cookie Policy](https://www.pewresearch.org/about/cookie-policy/)
