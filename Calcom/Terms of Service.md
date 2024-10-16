@@ -284,7 +284,7 @@ By email: [\[email protected\]](https://cal.com/cdn-cgi/l/email-protection).
 Let people book when it works for both of you
 ---------------------------------------------
 
-[Get Started](https://www.cal.com/signup)
+[Get Started](https://cal.com/signup)
 
 ![Product of the Day](/product-of-the-day.svg)![Product of the Week](/product-of-the-week.svg)![Product of the Month](/product-of-the-month.svg)![Cal.com on Product Hunt](/producthunt.svg)![Cal.com on Google](/google-reviews.svg)![Cal.com on G2](/g2.svg)
 
