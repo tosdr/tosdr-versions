@@ -477,8 +477,6 @@ Themenwelten
 
 [Rasur und Haarentfernung](https://de.iherb.com/c/shaving-hair-removal)
 
-[Hormonelle Unterstützung für Frauen](https://de.iherb.com/c/womens-hormone-support)
-
 [Sonnenschutz](https://de.iherb.com/c/sunscreen)
 
 [Alle Bad- und Pflegeprodukte](https://de.iherb.com/c/bath-personal-care)
@@ -1005,8 +1003,6 @@ Wohlbefinden & Pflege
 
 [BioGaia](https://de.iherb.com/c/biogaia)
 
-SALE
-
 [Bluebonnet Nutrition](https://de.iherb.com/c/bluebonnet-nutrition)
 
 [Bob's Red Mill](https://de.iherb.com/c/bobs-red-mill)
@@ -1024,6 +1020,8 @@ SALE
 [Doctor's Best](https://de.iherb.com/c/doctors-best)
 
 [Enzymedica](https://de.iherb.com/c/enzymedica)
+
+SALE
 
 [Eucerin](https://de.iherb.com/c/eucerin)
 
@@ -1051,7 +1049,11 @@ SALE
 
 [Life Extension](https://de.iherb.com/c/life-extension)
 
+SALE
+
 [Life-flo](https://de.iherb.com/c/life-flo)
+
+SALE
 
 [Mary Ruth Organics](https://de.iherb.com/c/maryruths)
 
@@ -1067,9 +1069,9 @@ SALE
 
 [Natural Factors](https://de.iherb.com/c/natural-factors)
 
-SALE
-
 [Nature's Bounty](https://de.iherb.com/c/nature-s-bounty)
+
+SALE
 
 [Nature's Way](https://de.iherb.com/c/nature-s-way)
 
@@ -1105,6 +1107,8 @@ SALE
 
 [Swanson](https://de.iherb.com/c/swanson)
 
+SALE
+
 [Sympli Beautiful](https://de.iherb.com/c/sympli-beautiful)
 
 [Thorne](https://de.iherb.com/c/thorne)
@@ -1119,15 +1123,15 @@ SALE
 
 Marken der Woche
 
-[![](https://s3.images-iherb.com/brand/logo/NFS/1652391209.png)](https://de.iherb.com/c/natural-factors)
+[![](https://s3.images-iherb.com/brand/logo/LEX/1647036401.png)](https://de.iherb.com/c/life-extension)
 
-[![](https://s3.images-iherb.com/brand/logo/BGA/1689792871.png)](https://de.iherb.com/c/biogaia)
+[![](https://s3.images-iherb.com/brand/logo/ENZ/1654297517.png)](https://de.iherb.com/c/enzymedica)
 
-[![](https://s3.images-iherb.com/brand/logo/SBL/1652407833.png)](https://de.iherb.com/c/sambucol)
+[![](https://s3.images-iherb.com/brand/logo/NRT/1657137456.png)](https://de.iherb.com/c/nature-s-bounty)
 
-[![](https://s3.images-iherb.com/brand/logo/PEN/1658267422.png)](https://de.iherb.com/c/pet-naturals)
+[![](https://s3.images-iherb.com/brand/logo/YUV/1654295106.png)](https://de.iherb.com/c/yumvs)
 
-[![](https://s3.images-iherb.com/brand/logo/SPS/1658257496.png)](https://de.iherb.com/c/superior-source)
+[![](https://s3.images-iherb.com/brand/logo/NTA/1652232357.png)](https://de.iherb.com/c/nature-s-answer)
 
 [Alle anzeigen](https://de.iherb.com/c/brands-of-the-week)
 
@@ -1137,9 +1141,9 @@ Marken der Woche
 
 ‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=GOLD80)
 
-[\-20% auf Gehirn-Booster
+[\-20% für Baby & Kind
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/brain-cognitive)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/baby-kids)
 
       
 
