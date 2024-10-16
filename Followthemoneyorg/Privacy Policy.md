@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![CA Health Industry Giving 2002-2012](/assets/Images/teasers/full/CAHealthIndGvg2002-2012.png)](http://www.followthemoney.org/ca-localelections/health-industry-ca-infographic)
-
-CA Health Industry Giving 2002-2012
+[![Private Prison Industry  State-Level Contributions, 2016-2017](/assets/Images/teasers/small/Private-prison.JPG)](https://www.followthemoney.org/research/institute-reports/private-prisons-principally-profit-oriented-and-politically-pliable)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
