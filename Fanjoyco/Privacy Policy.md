@@ -28,7 +28,7 @@
     
 * [Create Your Own](https://fanjoy.co/pages/partner)
 
-[Log in](https://fanjoy.co/customer_identity/redirect?locale=en&region_country=US)
+[Log in](https://fanjoy.co/customer_authentication/redirect?locale=en&region_country=US)
 
 Country/region
 --------------
@@ -151,7 +151,7 @@ United States | USD $
 * [United States USD $](#)
 * [Vatican City EUR €](#)
 
- Search [Log in](https://fanjoy.co/customer_identity/redirect?locale=en&region_country=US) [Cart](https://fanjoy.co/cart)
+ Search [Log in](https://fanjoy.co/customer_authentication/redirect?locale=en&region_country=US) [Cart](https://fanjoy.co/cart)
 
 Item added to your cart
 -----------------------
