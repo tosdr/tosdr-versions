@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Life is Impossible](/wp-content/thumbnails/7092-100x70.jpg?x53432)
+* [![Defeating the Superbugs](/wp-content/thumbnails/6723-100x70.jpg?x53432)
     
-    Life is Impossible
+    Defeating the Superbugs
     
-    A look at how life began on Earth, exploring whether it evolved on the ground, in the sea or in space and considering the theory that it may have begun in the molten world below the ocean floor.](https://documentaryheaven.com/life-is-impossible/ "Life is Impossible")
-* [![Uganda’s Silent War](/wp-content/thumbnails/3808-100x70.jpg?x53432)
+    Scientists and researchers discuss their efforts to thwart potentially lethal strains of bacteria that have grown resistant to conventional antibiotics. The programme follows projects designed to trac](https://documentaryheaven.com/defeating-the-superbugs/ "Defeating the Superbugs")
+* [![Wasted: Armed With A Voice](/wp-content/thumbnails/6687-100x70.jpg?x53432)
     
-    Uganda’s Silent War
+    Wasted: Armed With A Voice
     
-    Shocking documentary about child soldiers in Uganda, Africa. Winner of the Robert F Kennedy Journalism Award, in HD.Child abuse. Rape. Torture. Abduction. Death. They are the very stuff of nightma](https://documentaryheaven.com/uganda%e2%80%99s-silent-war/ "Uganda’s Silent War")
-* [![The Story of the Weeping Camel](/wp-content/thumbnails/3404-100x70.jpg?x53432)
+    15 years of do-it-yourself punk rock and still on the map! Wasted have had their share of ups and downs during the course of countless tours and releases on labels such as Combat Rock Industry, Twiste](https://documentaryheaven.com/wasted-armed-with-a-voice/ "Wasted: Armed With A Voice")
+* [![My Son The Jihadi](/wp-content/thumbnails/12795-100x70.jpg?x53432)
     
-    The Story of the Weeping Camel
+    My Son The Jihadi
     
-    During Spring, a family of nomadic shepherds assists the births of their camel herd. The last camel to calve this season has a protracted labor that persists for two days. With the assistance and inte](https://documentaryheaven.com/the-story-of-the-weeping-camel/ "The Story of the Weeping Camel")
-* [![Drug Kings Of New York](/wp-content/thumbnails/7299-100x70.png?x53432)
+    Sally Evans, mother of two, is on a journey to discover what it was that drove her eldest son Thomas to join leave home and join the deadly Islamic terror group known as Al Shabaab. Thomas was only 21](https://documentaryheaven.com/my-son-jihadi/ "My Son The Jihadi")
+* [![Lucent](/wp-content/thumbnails/11868-100x70.jpg?x53432)
     
-    Drug Kings Of New York
+    Lucent
     
-    In New York City heroin use is on the rise, as a new generation of suburbanite dealers hooked on prescription pills switch to heroin, and venture down the Long Island Express-way dubbed the Heroin Hig](https://documentaryheaven.com/drug-kings-of-new-york/ "Drug Kings Of New York")
-* [![Something in the Air](/wp-content/thumbnails/258-100x70.png?x53432)
+    Pigs are one of the smartest animals on the planet, their intelligence surpasses that of 3 year old children, dogs and even some primates. Much like humans, pigs have their own individual personality,](https://documentaryheaven.com/lucent/ "Lucent")
+* [![In Pot We Trust](/wp-content/thumbnails/1043-100x70.jpg?x53432)
     
-    Something in the Air
+    In Pot We Trust
     
-    Can polluted air on board planes damage your health? This episode of Panorama talks to pilots who have almost passed out at the controls and passengers who say they've been made ill by toxic fumes. Th](https://documentaryheaven.com/something-in-the-air/ "Something in the Air")
+    The medical use of marijuana is examined from every side of a very complex issue with this documentary that charts the suffering of four chronically ill patients whose reliance on the illegal drug as](https://documentaryheaven.com/in-pot-we-trust/ "In Pot We Trust")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
