@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Find the exact match domain for your corporation with .INC! Use code INC25REG for $193.49 on 1st year registrations 💼](https://www.dynadot.com/domain/inc?utm_source=Promobar&utm_campaign=INC%20Promobar%20Oct%202024&utm_medium=inc&drefid=4611)[Establish global credibility with a .CO domain 🌐 1st-year registrations on sale for only $2.99!](https://www.dynadot.com/domain/co?utm_source=Promobar&utm_campaign=CO%20Promobar%20Oct%202024&utm_medium=co&drefid=4613)
+[Find the exact match domain for your corporation with .INC! Use code INC25REG for $193.49 on 1st year registrations 💼](https://www.dynadot.com/domain/inc?utm_source=Promobar&utm_campaign=INC%20Promobar%20Oct%202024&utm_medium=inc&drefid=4611)[Establish global credibility with a .CO domain 🌐 1st-year registrations on sale for only $2.99!](https://www.dynadot.com/domain/co?utm_source=Promobar&utm_campaign=CO%20Promobar%20Oct%202024&utm_medium=co&drefid=4613)[Unlock the .CASE to your digital future! 💼 Register .CASE for $2499!](https://www.dynadot.com/domain/case?utm_source=Promobar&utm_campaign=CASE%20Promobar%20Oct%202024&utm_medium=Case&drefid=4619)
 
 [](https://www.dynadot.com/)
 
