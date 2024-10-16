@@ -198,23 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/e/csm_dsc9276-monica-benicio-e-sua-namorada-jessica-cores-rio-jazz-fest-out-2024-cg_cf2b636646.jpg)
-
-Novo amor
-
-Novo amor
-
-Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'
-
-Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'](https://www.tnh1.com.br/noticia/nid/viuva-de-marielle-franco-assume-namoro-com-atriz-de-verdades-secretas/ "Viúva de Marielle Franco assume namoro com atriz de 'Verdades secretas'")[![Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/9/csm_Taciana_Maria_Ramos_morta_pelo_companheiro_arquivo_pessoal_1d70bab3ad.jpg)
-
-12 golpes de faca
-
-12 golpes de faca
-
-Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo
-
-Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo](https://www.tnh1.com.br/noticia/nid/relacionamento-de-casal-de-alagoanos-acaba-em-tragedia-no-interior-de-sao-paulo/ "Relacionamento de casal de alagoanos acaba em tragédia no interior de São Paulo")[![Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/0/csm_acidente-transito-interior-alagoas-carro-forte-reproducao_47788fa884.jpeg)
+[![Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/0/csm_acidente-transito-interior-alagoas-carro-forte-reproducao_47788fa884.jpeg)
 
 acidente grave
 
@@ -222,7 +206,7 @@ acidente grave
 
 Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas
 
-Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/tres-pessoas-morrem-e-uma-fica-ferida-apos-colisao-entre-veiculo-de-passeio-e-carro-forte-no-interior-de-alagoas/ "Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas")[![Questões de concurso público são anuladas por conteúdo machista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/e/csm_questao_machista_reproducao_redes_sociais_6e357ecf05.jpg)
+Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/tres-pessoas-morrem-e-uma-fica-ferida-apos-colisao-entre-veiculo-de-passeio-e-carro-forte-no-interior-de-alagoas/ "Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas")[![Questões de concurso público são anuladas por conteúdo machista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/e/csm_questao_machista_reproducao_redes_sociais_6e357ecf05.jpg)
 
 em macaé
 
@@ -230,7 +214,23 @@ em macaé
 
 Questões de concurso público são anuladas por conteúdo machista
 
-Questões de concurso público são anuladas por conteúdo machista](https://www.tnh1.com.br/noticia/nid/questoes-de-concurso-publico-sao-anuladas-por-conteudo-machista/ "Questões de concurso público são anuladas por conteúdo machista")
+Questões de concurso público são anuladas por conteúdo machista](https://www.tnh1.com.br/noticia/nid/questoes-de-concurso-publico-sao-anuladas-por-conteudo-machista/ "Questões de concurso público são anuladas por conteúdo machista")[![Menino de 9 anos invade hospital veterinário e mata 23 animais no PR](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_crianca-invade-hospital-veterinario_d24bd698b9.jpg)
+
+15 coelhos
+
+15 coelhos
+
+Menino de 9 anos invade hospital veterinário e mata 23 animais no PR
+
+Menino de 9 anos invade hospital veterinário e mata 23 animais no PR](https://www.tnh1.com.br/noticia/nid/menino-de-9-anos-invade-hospital-veterinario-e-mata-23-animais-no-pr/ "Menino de 9 anos invade hospital veterinário e mata 23 animais no PR")[![Nota Fiscal Cidadã: veja resultado do sorteio de R$ 2 milhões do Dia dos Professores](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/a/csm_nota-fiscal-cidada-reproducao-ascom-sefaz-al_ce082703dd.jpg)
+
+Economia
+
+Economia
+
+Nota Fiscal Cidadã: veja resultado do sorteio de R$ 2 milhões do Dia dos Professores
+
+Nota Fiscal Cidadã: veja resultado do sorteio de R$ 2 milhões do Dia dos Professores](https://www.tnh1.com.br/noticia/nid/nota-fiscal-cidada-veja-resultado-do-sorteio-de-r-2-milhoes-do-dia-dos-professores/ "Nota Fiscal Cidadã: veja resultado do sorteio de R$ 2 milhões do Dia dos Professores")
 
 [![Vacina contra hanseníase será testada em 54 voluntários no Brasil](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/0/csm_fiocruz_Fernando_Frazao-Agencia_Brasil_88341d3c24.jpg)
 
