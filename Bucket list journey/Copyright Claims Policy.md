@@ -366,7 +366,7 @@ Made Some Progress on:
 
 ### DESTINATIONS
 
-[World Travel](https://bucketlistjourney.net/category/destinations/)  
+[World Travel](https://bucketlistjourney.net/travel-bucket-list-destinations/)  
 [USA Travel](https://bucketlistjourney.net/category/destinations/united-states/)  
 [California](https://bucketlistjourney.net/category/california-travel/)
 
