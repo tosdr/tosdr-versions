@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 16, 2024](https://www.japantimes.co.jp/archive/2024/10/16/ "archive page")
+[October 17, 2024](https://www.japantimes.co.jp/archive/2024/10/17/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,50 +131,44 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[General election campaigning to kick off Tuesday](https://www.japantimes.co.jp/news/2024/10/14/japan/politics/lower-house-election/ "General election campaigning to kick off Tuesday")
+[Election to test Ishiba's ability to build a strong political base](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
 
-  [![Prime Minister Shigeru Ishiba (center right) makes a speech Sunday in Soka, Saitama Prefecture, along with Komeito leader Keiichi Ishii (center left).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427614.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba (center right) makes a speech Sunday in Soka, Saitama Prefecture, along with Komeito leader Keiichi Ishii (center left).")](https://www.japantimes.co.jp/news/2024/10/14/japan/politics/lower-house-election/ "General election campaigning to kick off Tuesday")
+  [![A board for election posters in Tokyo's Chuo Ward on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A board for election posters in Tokyo's Chuo Ward on Monday")](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
 
-[Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
+[40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
 
-  [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
-
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+  [![Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427856.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.")](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
 
 [China’s ‘new Great Wall’ casts a shadow on Nepal](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
 
   [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
 
-[40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
+[Japan’s sales tax likely to remain 10% as big parties avoid third rail](https://www.japantimes.co.jp/business/2024/10/15/ishiba-sales-tax/ "Japan’s sales tax likely to remain 10% as big parties avoid third rail")
 
-  [![Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427856.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.")](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
+  [![Prime Minister Shigeru Ishiba during a debate session with other political party leaders at the Japan National Press Club in Tokyo on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427615.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba during a debate session with other political party leaders at the Japan National Press Club in Tokyo on Saturday")](https://www.japantimes.co.jp/business/2024/10/15/ishiba-sales-tax/ "Japan’s sales tax likely to remain 10% as big parties avoid third rail")
+
+[Ishiba openness to nuke ban treaty involvement puts pact in spotlight](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/japan-pm-ishiba-nuclear-ban-treaty/ "Ishiba openness to nuke ban treaty involvement puts pact in spotlight")
+
+  [![Prime Minister Shigeru Ishiba attends the East Asian Summit in Vientiane, Laos, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427896.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba attends the East Asian Summit in Vientiane, Laos, on Friday.")](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/japan-pm-ishiba-nuclear-ban-treaty/ "Ishiba openness to nuke ban treaty involvement puts pact in spotlight")
 
 Editors' Picks
 --------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[General election campaigning to kick off Tuesday](https://www.japantimes.co.jp/news/2024/10/14/japan/politics/lower-house-election/ "General election campaigning to kick off Tuesday")
+[Election to test Ishiba's ability to build a strong political base](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
 
-By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-  [![Prime Minister Shigeru Ishiba (center right) makes a speech Sunday in Soka, Saitama Prefecture, along with Komeito leader Keiichi Ishii (center left).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427614.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba (center right) makes a speech Sunday in Soka, Saitama Prefecture, along with Komeito leader Keiichi Ishii (center left).")](https://www.japantimes.co.jp/news/2024/10/14/japan/politics/lower-house-election/ "General election campaigning to kick off Tuesday")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
-
-  [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
+  [![A board for election posters in Tokyo's Chuo Ward on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A board for election posters in Tokyo's Chuo Ward on Monday")](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+[40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
 
-By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+  [![Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427856.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.")](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
 
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
@@ -184,13 +178,21 @@ By [Hannah Beech](https://www.japantimes.co.jp/author/943/hannah-beech/ "Hannah 
 
   [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
 
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Japan’s sales tax likely to remain 10% as big parties avoid third rail](https://www.japantimes.co.jp/business/2024/10/15/ishiba-sales-tax/ "Japan’s sales tax likely to remain 10% as big parties avoid third rail")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![Prime Minister Shigeru Ishiba during a debate session with other political party leaders at the Japan National Press Club in Tokyo on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427615.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba during a debate session with other political party leaders at the Japan National Press Club in Tokyo on Saturday")](https://www.japantimes.co.jp/business/2024/10/15/ishiba-sales-tax/ "Japan’s sales tax likely to remain 10% as big parties avoid third rail")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
+[Ishiba openness to nuke ban treaty involvement puts pact in spotlight](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/japan-pm-ishiba-nuclear-ban-treaty/ "Ishiba openness to nuke ban treaty involvement puts pact in spotlight")
 
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang") and [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
 
-  [![Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427856.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.")](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
+  [![Prime Minister Shigeru Ishiba attends the East Asian Summit in Vientiane, Laos, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427896.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba attends the East Asian Summit in Vientiane, Laos, on Friday.")](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/japan-pm-ishiba-nuclear-ban-treaty/ "Ishiba openness to nuke ban treaty involvement puts pact in spotlight")
 
 Podcast
 -------
@@ -211,9 +213,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[U.S., S. Korea and Japan unveil team to monitor N. Korea sanctions](https://www.japantimes.co.jp/news/2024/10/16/japan/north-korea-sanctions-monitor/ "U.S., S. Korea and Japan unveil team to monitor N. Korea sanctions")
+
+4 hours ago
+
+[Tokyo tax office to sell Ferrari with bids starting at ¥71.3 million](https://www.japantimes.co.jp/news/2024/10/16/japan/tokyo-tax-ferrari/ "Tokyo tax office to sell Ferrari with bids starting at ¥71.3 million")
+
+5 hours ago
+
+[Rengo to call for pay hikes of 5% or more in 2025](https://www.japantimes.co.jp/business/2024/10/16/rengo-pay-hike/ "Rengo to call for pay hikes of 5% or more in 2025")
+
+5 hours ago
+
 [Visitors to Japan in January-September top last year's total](https://www.japantimes.co.jp/news/2024/10/16/japan/society/foreign-visitors-september/ "Visitors to Japan in January-September top last year's total")
 
-24 mins ago
+6 hours ago
 
 [JICA staffer suspected of leaking info on Philippines railway project](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
 
-55 mins ago
-
-[Gamers hunt for monsters in Tokyo as Niantic searches for a hit](https://www.japantimes.co.jp/business/2024/10/16/tech/monster-hunter-shibuya/ "Gamers hunt for monsters in Tokyo as Niantic searches for a hit")
-
-1 hours ago
-
-[Ishiba's goal of revising U.S. troops pact likely long-term project](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
-
-1 hours ago
-
-[Bank of Japan policymaker calls for 'very moderate' pace of rate hikes](https://www.japantimes.co.jp/business/2024/10/16/economy/bank-of-japan-board-member/ "Bank of Japan policymaker calls for 'very moderate' pace of rate hikes")
-
-2 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
