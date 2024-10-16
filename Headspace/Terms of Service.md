@@ -474,7 +474,7 @@ Headspace is located at 2417 Michigan Avenue, Santa Monica, CA 90404.
 
 ![](https://images.ctfassets.net/v3n26e09qg2r/3eJ46JoVs0ZjGp2063sfgo/e1d6d20d6946693a64f7276e9ff3e55f/Frame_231.svg?fm=&w=256&q=75)
 
-#### Stay in the loop
+Stay in the loop
 
 Be the first to get updates on our latest content, special offers, and new features.
 
