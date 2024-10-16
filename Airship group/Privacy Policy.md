@@ -2,7 +2,7 @@
 
 * Platform
     
-    [Get Pricing](https://www.airship.com/platform/app-experience-platform/pricing/)
+    [Get Pricing](https://www.airship.com/pricing/)
     
     Customer Experience Platform
     
@@ -12,9 +12,9 @@
         
         [Journeys](https://www.airship.com/product/journeys-ai/)
         
-        [Channel Coordination](https://www.airship.com/platform/app-experience-platform/unified-channel-coordination/)
+        [Channel Coordination](https://www.airship.com/product/unified-channel-coordination/)
         
-        [Audience Segmentation](https://www.airship.com/platform/app-experience-platform/segmentation/)
+        [Audience Segmentation](https://www.airship.com/product/segmentation/)
         
     * [Fine-Tune with Experimentation](https://www.airship.com/product/experimentation/)
         
@@ -30,13 +30,13 @@
         
         Capture, sync and augment customer data to create relevant customer experiences
         
-        [RTDS](https://www.airship.com/platform/app-experience-platform/real-time-data-streaming/)
+        [RTDS](https://www.airship.com/product/real-time-data-streaming/)
         
-        [Integrations](https://www.airship.com/solutions/partners/)
+        [Integrations](https://www.airship.com/partners/)
         
         [Performance Analytics](https://www.airship.com/product/ai-and-analytics/performance-analytics/)
         
-    * [Accelerate Results with AI](https://www.airship.com/accelerate-results-with-ai/)
+    * [Accelerate Results with AI](https://www.airship.com/product/accelerate-results-with-ai/)
         
         Drive more engagement with Airship's Generative and Predictive AI
         
@@ -45,7 +45,7 @@
         [](#)
         
     
-    * [Build No-Code Experiences](https://www.airship.com/product/app-experience-editor/)
+    * [Build No-Code Experiences](https://www.airship.com/product/experience-editor/)
         
         Create native customer experiences once and deploy to the app, web and everywhere in between - No developers required
         
@@ -70,7 +70,7 @@
         
     * [Web
         
-        NEW](https://www.airship.com/web-experiences/)
+        NEW](https://www.airship.com/product/channels/web-experiences/)
         
     * [Mobile Wallet](https://www.airship.com/product/channels/mobile-wallet/)
         
@@ -100,9 +100,9 @@
     * [Telecom](https://www.airship.com/solutions/industries/telecom/)
     
     * [Customer Stories](https://www.airship.com/customers/)
-    * [Partners](https://www.airship.com/app-experience-platform/partners/)
+    * [Partners](https://www.airship.com/partners/)
     
-* [Pricing](https://www.airship.com/platform/app-experience-platform/pricing/)
+* [Pricing](https://www.airship.com/pricing/)
 * Resources
     
     * [Mobile App Experience Maturity Assessment](https://maturityassessment.airship.com/)
