@@ -380,13 +380,19 @@ Volver Arriba
 * [Últimas noticias](https://www.elconfidencial.com/ultima-hora-en-vivo/ "Últimas noticias")
 * [ACYV](https://www.elconfidencial.com/alma-corazon-vida/ "ACYV")
 * [Viajes](https://www.elconfidencial.com/viajes/ "Viajes")
-* [Tecnología - Teknautas](https://www.elconfidencial.com/tecnologia/ "Tecnología - Teknautas")
+* [Tecnología](https://www.elconfidencial.com/tecnologia/ "Tecnología")
 * [Televisión](https://www.elconfidencial.com/television/ "Televisión")
 * [Deportes](https://www.elconfidencial.com/deportes/ "Deportes")
 * [España](https://www.elconfidencial.com/espana/ "España")
 * [Internacional](https://www.elconfidencial.com/mundo/ "Internacional")
 * [Cultura](https://www.elconfidencial.com/cultura/ "Cultura")
 * [Motor](https://www.elconfidencial.com/motor/ "Motor")
+* [Cotizalia](https://www.elconfidencial.com/mercados/ "Cotizalia")
+* [Economía](https://www.elconfidencial.com/economia/ "Economía")
+* [Empresas](https://www.elconfidencial.com/empresas/ "Empresas")
+* [Finanzas personales](https://www.elconfidencial.com/finanzas-personales/ "Finanzas personales")
+* [Vivienda](https://www.elconfidencial.com/vivienda/ "Vivienda")
+* [Inmobiliario](https://www.elconfidencial.com/inmobiliario/ "Inmobiliario")
 
 [Vanitatis](https://www.vanitatis.elconfidencial.com/ "Vanitatis")
 
@@ -404,13 +410,13 @@ Volver Arriba
 * [Consumo](https://www.alimente.elconfidencial.com/consumo/ "Consumo")
 * [Recetas](https://www.alimente.elconfidencial.com/recetas/ "Recetas")
 
-[Cotizalia](https://www.elconfidencial.com/mercados/ "Cotizalia")
+Servicios
 
-* [Economía](https://www.elconfidencial.com/economia/ "Economía")
-* [Empresas](https://www.elconfidencial.com/empresas/ "Empresas")
-* [Finanzas personales](https://www.elconfidencial.com/finanzas-personales/ "Finanzas personales")
-* [Vivienda](https://www.elconfidencial.com/vivienda/ "Vivienda")
-* [Inmobiliario](https://www.elconfidencial.com/inmobiliario/ "Inmobiliario")
+* [El tiempo en España](https://www.elconfidencial.com/el-tiempo/ "El tiempo en España")
+* [Compras y Regalos](https://www.elconfidencial.com/decompras/ "Compras y Regalos")
+* [Horóscopo](https://www.vanitatis.elconfidencial.com/horoscopo/ "Horóscopo")
+* [Tags](https://www.elconfidencial.com/tags/ "Tags")
+* [Cotizaciones bolsa](https://www.elconfidencial.com/mercados/indice/ "Cotizaciones bolsa")
 
 [Lotería](https://www.elconfidencial.com/sorteos-y-loterias/ "Lotería")
 
@@ -420,13 +426,5 @@ Volver Arriba
 * [Lotería del Niño 2025](https://www.elconfidencial.com/loteria-nino/ "Lotería del Niño 2025")
 * [Comprobar Lotería del Niño 2025](https://www.elconfidencial.com/loteria-nino/comprobar/ "Comprobar Lotería del Niño 2025")
 * [Buscador Lotería del Niño 2025](https://www.elconfidencial.com/loteria-nino/buscador/ "Buscador Lotería del Niño 2025")
-
-Servicios
-
-* [El tiempo en España](https://www.elconfidencial.com/el-tiempo/ "El tiempo en España")
-* [Compras y Regalos](https://www.elconfidencial.com/decompras/ "Compras y Regalos")
-* [Horóscopo](https://www.vanitatis.elconfidencial.com/horoscopo/ "Horóscopo")
-* [Tags](https://www.elconfidencial.com/tags/ "Tags")
-* [Cotizaciones bolsa](https://www.elconfidencial.com/mercados/indice/ "Cotizaciones bolsa")
 
 © TITANIA COMPAÑÍA EDITORIAL, S.L. 2024. España. Todos los derechos reservados[Condiciones](https://www.elconfidencial.com/politicas-de-privacidad/condiciones/)[Política de Privacidad](https://www.elconfidencial.com/politicas-de-privacidad/privacidad/)[Política de Cookies](https://www.elconfidencial.com/politicas-de-privacidad/cookies/)[Configuración de cookies](javascript:Didomi.preferences.show();)Auditado por GFK[Canal Interno de Información](https://elconfidencial.bizneohr.com/whistleblowing-channel/)[Datos de mercado proporcionados por TradingView](https://es.tradingview.com/)
