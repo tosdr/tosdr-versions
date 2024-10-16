@@ -54,7 +54,7 @@ Hardware
     
     [Atari VCS](https://atari.com/pages/atari-vcs)
 
-[View all Hardware](https://www.atari.com/collections/hardware)
+[All Hardware](https://www.atari.com/collections/hardware)
 
 #### Hardware
 
@@ -65,8 +65,6 @@ Hardware
     [Handhelds](https://www.atari.com/collections/handhelds)
     
     [Physical Cartridges](https://www.atari.com/collections/physical-cartridges)
-    
-    [Speakerhats](https://www.atari.com/collections/speakerhats)
 
 #### COLLECTIONS
 
@@ -100,7 +98,7 @@ Featured
     
     [Atari VCS](https://atari.com/pages/atari-vcs)
 
-[View all Hardware](https://www.atari.com/collections/hardware)
+[All Hardware](https://www.atari.com/collections/hardware)
 
 Hardware
 
@@ -111,8 +109,6 @@ Hardware
     [Handhelds](https://www.atari.com/collections/handhelds)
     
     [Physical Cartridges](https://www.atari.com/collections/physical-cartridges)
-    
-    [Speakerhats](https://www.atari.com/collections/speakerhats)
 
 COLLECTIONS
 
@@ -152,7 +148,7 @@ Games
     
     [Atari Classics](https://www.atari.com/collections/games-atari-classics)
 
-[View all Games](https://www.atari.com/collections/games)
+[All Games](https://www.atari.com/collections/games)
 
 #### Games
 
@@ -200,7 +196,7 @@ Featured
     
     [Atari Classics](https://www.atari.com/collections/games-atari-classics)
 
-[View all Games](https://www.atari.com/collections/games)
+[All Games](https://www.atari.com/collections/games)
 
 Games
 
@@ -242,7 +238,7 @@ Apparel & Collectibles
     
     [Jackets](https://www.atari.com/collections/jackets)
 
-[Shop Apparel](https://www.atari.com/collections/apparel-accessories)
+[All Apparel](https://www.atari.com/collections/all-apparel)
 
 #### ACCESSORIES
 
@@ -254,7 +250,7 @@ Apparel & Collectibles
     
     [Artwork](https://www.atari.com/collections/artwork)
 
-[Shop Accessories](https://www.atari.com/collections/apparel-accessories)
+[All Accessories](https://www.atari.com/collections/all-accessories)
 
 #### COLLECTIONS
 
@@ -288,7 +284,7 @@ APPAREL
     
     [Jackets](https://www.atari.com/collections/jackets)
 
-[Shop Apparel](https://www.atari.com/collections/apparel-accessories)
+[All Apparel](https://www.atari.com/collections/all-apparel)
 
 ACCESSORIES
 
@@ -300,7 +296,7 @@ ACCESSORIES
     
     [Artwork](https://www.atari.com/collections/artwork)
 
-[Shop Accessories](https://www.atari.com/collections/apparel-accessories)
+[All Accessories](https://www.atari.com/collections/all-accessories)
 
 COLLECTIONS
 
