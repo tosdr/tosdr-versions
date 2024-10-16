@@ -337,7 +337,7 @@ Open your account in just 5 minutes, directly from your phone.
 
 [![bunq logo](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
-[![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://twitter.com/bunq)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://linkedin.com/company/bunq)[![](https://framerusercontent.com/images/MSDKKaHUUy1SaoYRvx9SNuQ.svg)](https://www.instagram.com/bunq)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/bunq/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCNZo2GsB_ToorMDDSHoo70g)
+[![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://x.com/bunq)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://linkedin.com/company/bunq)[![](https://framerusercontent.com/images/MSDKKaHUUy1SaoYRvx9SNuQ.svg)](https://www.instagram.com/bunq)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/bunq/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCNZo2GsB_ToorMDDSHoo70g)
 
 ![](https://framerusercontent.com/images/MxgGMeuCmjdXQL4r7isuiewXg.svg)
 
@@ -415,7 +415,7 @@ Cookie Settings
 
 [![bunq logo](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
-[![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://twitter.com/bunq)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://linkedin.com/company/bunq)[![](https://framerusercontent.com/images/MSDKKaHUUy1SaoYRvx9SNuQ.svg)](https://www.instagram.com/bunq)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/bunq/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCNZo2GsB_ToorMDDSHoo70g)
+[![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://x.com/bunq)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://linkedin.com/company/bunq)[![](https://framerusercontent.com/images/MSDKKaHUUy1SaoYRvx9SNuQ.svg)](https://www.instagram.com/bunq)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/bunq/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCNZo2GsB_ToorMDDSHoo70g)
 
 ![](https://framerusercontent.com/images/MxgGMeuCmjdXQL4r7isuiewXg.svg)
 
@@ -493,7 +493,7 @@ Cookie Settings
 
 [![bunq logo](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
-[![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://twitter.com/bunq)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://linkedin.com/company/bunq)[![](https://framerusercontent.com/images/MSDKKaHUUy1SaoYRvx9SNuQ.svg)](https://www.instagram.com/bunq)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/bunq/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCNZo2GsB_ToorMDDSHoo70g)
+[![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://x.com/bunq)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://linkedin.com/company/bunq)[![](https://framerusercontent.com/images/MSDKKaHUUy1SaoYRvx9SNuQ.svg)](https://www.instagram.com/bunq)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/bunq/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCNZo2GsB_ToorMDDSHoo70g)
 
 ![](https://framerusercontent.com/images/MxgGMeuCmjdXQL4r7isuiewXg.svg)
 
