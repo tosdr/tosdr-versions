@@ -1,6 +1,8 @@
 [Skip to content](#content)
 
-[![Complete Licensing logo](https://completelicensing.uk/wp-content/uploads/2020/05/complete-licensing-logo-1.svg)](https://completelicensing.uk/)
+[![Complete Licensing logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
+
+![Complete Licensing logo](https://completelicensing.uk/wp-content/uploads/2020/05/complete-licensing-logo-1.svg)](https://completelicensing.uk/)
 
 * [About](https://completelicensing.uk/about/)
 * [Services](https://completelicensing.uk/services/)
@@ -257,6 +259,7 @@ We want you to know that we’re here to help. We have the resources, the knowle
 * [Privacy Policy](https://completelicensing.uk/privacy-policy/)
 * [Cookie Policy](https://completelicensing.uk/cookie-policy/)
 * [Complaints Handling Policy](https://completelicensing.uk/complaints-handling-policy/)
+* [Vulnerability Disclosure Policy](https://completelicensing.uk/complete-licensing-vulnerability-disclosure-policy/)
 * [Modern Slavery Policy](https://completelicensing.uk/modern-slavery-policy/)
 * [Money Laundering Regulations Policy](https://completelicensing.uk/money-laundering-regulations-policy/)
 * [Anti-bribery Policy](https://completelicensing.uk/anti-bribery-policy/)
@@ -265,9 +268,13 @@ We want you to know that we’re here to help. We have the resources, the knowle
 
 [Facebook](https://www.facebook.com/completelicensing) [Instagram](https://www.instagram.com/completelicensing/) [Linkedin](https://www.linkedin.com/company/complete-licensing-limited) [](https://uk.trustpilot.com/review/completelicensing.uk)[Yelp](https://www.yelp.co.uk/biz/complete-licensing-woodford-green)
 
-* 2023 Complete Licensing
+* 2024 Complete Licensing
 
 Complete Licensing Limited is a company registered in England and Wales.
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%20256'%3E%3C/svg%3E)
+
+![](https://complete-licensing.fra1.digitaloceanspaces.com/wp-content/uploads/2024/09/06151607/image_2022-01-12_142103.1897190000_256x256_q85_padding_upscale-1.png)](https://registry.blockmarktech.com/certificates/15c19be6-e562-4231-8484-0206e33fa373/)
 
 * [\[email protected\]](https://completelicensing.uk/cdn-cgi/l/email-protection)
 * [0330 808 2122](tel:+443308082122)
