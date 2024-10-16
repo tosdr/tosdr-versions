@@ -34,7 +34,7 @@ Help
 
 [Contact sales](https://flippingbook.com/book-a-demo)
 
-[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=9dp8RVZyBj3uOxhXlBKatILFB6wlxhluNBwWNG*mLT2v9htxjy1PEjUQT9GNIccF) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=O*E23SjoPQx3TQ51PQiJXr8jpHFkDB7dyBPCWACqCxyVr5lEYN4D9JHAfDTUXZrS)
+[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=GN53QSr*EbU%2fIJB9KNWUX69L%2fcKeQaTC2rT7Y5fbvLuAlyZybh1OKhZ5TweCWp1z) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=ly5hrUcaBH%2fVfBaF6TG5slYNiX7qZ3W28RHSES5saOs2hWuQZXQh3vcY*gLWMVC8)
 
 [My account](https://flippingbook.com/account)
 
@@ -42,7 +42,7 @@ Help
 
 [![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10105/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
 
-[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=6IngdmUiem7THVrvPzW2Je8B5UWPz1%2f2723kuV2F4vZ36tzckKI60R%2f8sCoIQIUV) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=AjDD3kmh%2f3fDACYxO3hWxNnyfPk9dm7jjzykz9P7liTlz1c5qckqSLzSkserOs*j)
+[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=yyp6pvAbWe5G7%2feyo2A4CtlvqLmAutBeYy08Y6Wd4dnFYP31GAUdmGS8a1rNfDvf) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=hKl2BEoajhimC9aPHHlHqlLrmXPStfVazKbS0e6r1uhiL9AHehrKG5ZTQmFjLKDy)
 
 [My account](https://flippingbook.com/account/autonav) [Log out](https://flippingbook.com/account/logout)
 
