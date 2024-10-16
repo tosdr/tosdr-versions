@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The 25 Most Awful Places According to Hollywood (Part 1)](https://www.somethingawful.com/most-awful/hollywood-terrible-places/1/)
-* [The 14 Most Awful Moguls](https://www.somethingawful.com/most-awful/most-awful-moguls/1/)
+* [Slacker Music FAQ](https://www.somethingawful.com/garbage-day/slacker-music-faq/1/)
 * [Bad-Ass Presidential Moments!](https://www.somethingawful.com/photoshop-phriday/badass-presidential-moments/1/)
-* [The 22 Most Awful Moments in Science Fiction](https://www.somethingawful.com/most-awful/most-awful-scifi/1/)
-* [The 10 Most Awful Museums to Visit This Summer](https://www.somethingawful.com/most-awful/vacations-museums-weird/1/)
+* [The Big Ten List of Little People](https://www.somethingawful.com/news/top-ten-midgets/1/)
+* [Bareback Exchange](https://www.somethingawful.com/weekend-web/bareback-exchange/1/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/audio.png) [whoopie cushion song](http://forums.somethingawful.com/showthread.php?threadid=4072725 "whoopie cushion song")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) ["World's/international <thing no one cares about> day" ideas](http://forums.somethingawful.com/showthread.php?threadid=4072795 ""World's/international <thing no one cares about> day" ideas")
-* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [scientists discover man with THREE distinct penis shafts NSFW](http://forums.somethingawful.com/showthread.php?threadid=4072784 "scientists discover man with THREE distinct penis shafts NSFW")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/movies.png) [In Alien Romulus](http://forums.somethingawful.com/showthread.php?threadid=4072809 "In Alien Romulus")
+* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Thinking about replacing all the dishes in my house with custard cups](http://forums.somethingawful.com/showthread.php?threadid=4072806 "Thinking about replacing all the dishes in my house with custard cups")
 
 ### Random Articles
 
-* [Classic Literature as Brand Stories](https://www.somethingawful.com/news/literature-brand-stories/)
-* [Joy Angeles' Erotic Female Relieving Observance website](https://www.somethingawful.com/awful-links/awful-link-3397/)
-* [Want a Hit?](https://www.somethingawful.com/email-pranks/email-spam-want/)
-* [Legends of Belariath](https://www.somethingawful.com/awful-links/awful-link-1450/)
-* [Updates to the State of Tennessee Human Sexuality Curriculum](https://www.somethingawful.com/news/dont-say-gay/)
+* [Flashback Retro Gaming: Drug Exterminators (1990)](https://www.somethingawful.com/news/nes-drug-war/)
+* [How to be a Writer: Step 1](https://www.somethingawful.com/news/writer-tips/1/)
+* [The Most Bachelor Thing You've Done!](https://www.somethingawful.com/comedy-goldmine/bachelor-gross-beer/1/)
+* [President Trump Compliments Video Game Villains](https://www.somethingawful.com/video-game-article/trump-villain-compliments/)
+* [Jefferson Lives](https://www.somethingawful.com/news/jefferson-lives/)
 
 [Random!](https://www.somethingawful.com/random/)
 
