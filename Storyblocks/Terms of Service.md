@@ -46,13 +46,11 @@ Collections
 
 [![https://d2h53m62qt2m27.cloudfront.net/collection_pages/VB/future_thumb.jpg](https://d2h53m62qt2m27.cloudfront.net/collection_pages/VB/future_thumb.jpg)
 
-The Future of Creativity
-------------------------](https://www.storyblocks.com/video/collections/future-of-creativity)
+The Future of Creativity](https://www.storyblocks.com/video/collections/future-of-creativity)
 
 [![https://d1ow200m9i3wyh.cloudfront.net/collections//tmp/a0eeba482fb99933f3c5070bc7a7aa479e9307734bfa0652aba1223c24bd7ee1_dir.jpg](https://d1ow200m9i3wyh.cloudfront.net/collections//tmp/a0eeba482fb99933f3c5070bc7a7aa479e9307734bfa0652aba1223c24bd7ee1_dir.jpg)
 
-Blockbuster After Effects Templates
------------------------------------](https://www.storyblocks.com/video/collections/blockbuster-ae-templates)
+Blockbuster After Effects Templates](https://www.storyblocks.com/video/collections/blockbuster-ae-templates)
 
 Creative Tools
 
