@@ -541,6 +541,18 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![From Arctic to Equator - 11 amazing adventures for every season](https://media.restless.co.uk/uploads/2024/10/from-arctic-to-equator-11-amazing-adventures-for-every-season-768x287.jpg)](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)
+
+### [From Arctic to Equator – 11 amazing adventures for every season](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)  
+
+[Read More »](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)
+
+[![12 of the best last-minute holiday destinations](https://media.restless.co.uk/uploads/2022/08/the-best-last-minute-holiday-destinations-768x451.jpg)](https://restless.co.uk/travel/the-best-last-minute-holiday-destinations/)
+
+### [12 of the best last-minute holiday destinations](https://restless.co.uk/travel/the-best-last-minute-holiday-destinations/)
+
+[Read More »](https://restless.co.uk/travel/the-best-last-minute-holiday-destinations/)
+
 [![9 of the best travel destinations for 2025](https://media.restless.co.uk/uploads/2024/10/9-of-the-best-travel-destinations-for-2025-768x575.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
 
 ### [9 of the best travel destinations for 2025](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
@@ -564,18 +576,6 @@ New in travel
 ### [11 travel destinations where you can avoid crowds](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
 
 [Read More »](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
-
-[![8 cultural cruise destinations in Europe](https://media.restless.co.uk/uploads/2024/10/cultural-cruise-destinations-in-europe-e1728478795624-768x370.jpg)](https://restless.co.uk/travel/cultural-cruise-destinations-in-europe/)
-
-### [8 cultural cruise destinations in Europe](https://restless.co.uk/travel/cultural-cruise-destinations-in-europe/)
-
-[Read More »](https://restless.co.uk/travel/cultural-cruise-destinations-in-europe/)
-
-[![7 gorgeous Indian Ocean holiday destinations](https://media.restless.co.uk/uploads/2023/07/gorgeous-indian-ocean-holiday-destinations-768x498.jpg)](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
-
-### [7 gorgeous Indian Ocean holiday destinations](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
-
-[Read More »](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
 
 Popular travel guides
 ---------------------
