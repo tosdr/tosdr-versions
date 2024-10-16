@@ -91,7 +91,7 @@ Download the App
 
 ### Delivery Services
 
-![lazada logistics](https://img.lazcdn.com/g/tps/imgextra/i2/O1CN0119qSnn1DrFQgdG1kH_!!6000000000269-0-tps-96-70.jpg) ![singpost](https://img.lazcdn.com/g/tps/imgextra/i2/O1CN01ARkHUF1oSBXXkBBZS_!!6000000005223-2-tps-96-70.png) ![QXP](https://img.lazcdn.com/g/tps/imgextra/i3/O1CN01myOrhg24Z5MOM2aAF_!!6000000007404-0-tps-96-70.jpg) ![NJV](https://img.lazcdn.com/g/tps/imgextra/i4/O1CN01vPq4n41PWtDFXGs0x_!!6000000001849-0-tps-96-70.jpg) ![CJX](https://img.lazcdn.com/g/tps/imgextra/i4/O1CN01npMjOy1g1bd0qvrdD_!!6000000004082-0-tps-96-70.jpg) ![J & T](https://img.lazcdn.com/g/tps/imgextra/i2/O1CN01QJfJF11pmcpaotRCe_!!6000000005403-2-tps-96-70.png)
+![lazada logistics](https://img.lazcdn.com/g/tps/imgextra/i2/O1CN0119qSnn1DrFQgdG1kH_!!6000000000269-0-tps-96-70.jpg) ![singpost](https://img.lazcdn.com/g/tps/imgextra/i2/O1CN01ARkHUF1oSBXXkBBZS_!!6000000005223-2-tps-96-70.png) ![QXP](https://img.lazcdn.com/g/tps/imgextra/i3/O1CN01myOrhg24Z5MOM2aAF_!!6000000007404-0-tps-96-70.jpg) ![NJV](https://img.lazcdn.com/g/tps/imgextra/i4/O1CN01vPq4n41PWtDFXGs0x_!!6000000001849-0-tps-96-70.jpg) ![CJX](https://img.lazcdn.com/g/tps/imgextra/i4/O1CN01npMjOy1g1bd0qvrdD_!!6000000004082-0-tps-96-70.jpg) ![J & T](https://img.lazcdn.com/g/tps/imgextra/i2/O1CN01QJfJF11pmcpaotRCe_!!6000000005403-2-tps-96-70.png) ![Laku6](https://img.lazcdn.com/us/domino/481d1f81-fbd2-4986-a085-9a36c35cdf81_SG-96-70.png) ![uParcel](https://img.lazcdn.com/us/domino/dd2b11c7-a86c-4ef5-90fd-636180fb397a_SG-96-70.png)
 
 ### Verified by
 
