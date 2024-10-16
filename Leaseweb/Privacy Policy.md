@@ -70,6 +70,8 @@ Skip to Header Skip to Main Content Skip to Footer
     
     [Cloud Storage](https://www.leaseweb.com/en/products-services/cloud/cloud-storage "Cloud Storage")
     
+    [File and Block Storage](https://www.leaseweb.com/en/products-services/file-block-storage "File and Block Storage")
+    
     [Object Storage](https://www.leaseweb.com/en/products-services/object-storage "Object Storage")
     
     [Hybrid Cloud](https://www.leaseweb.com/en/products-services/cloud/hybrid-cloud "Hybrid Cloud")
@@ -327,6 +329,8 @@ Language
     [VMware HCI](https://www.leaseweb.com/en/products-services/cloud/vmware/vmware-hci "VMware HCI")
     
     [Cloud Storage](https://www.leaseweb.com/en/products-services/cloud/cloud-storage "Cloud Storage")
+    
+    [File and Block Storage](https://www.leaseweb.com/en/products-services/file-block-storage "File and Block Storage")
     
     [Object Storage](https://www.leaseweb.com/en/products-services/object-storage "Object Storage")
     
