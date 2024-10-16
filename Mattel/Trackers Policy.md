@@ -139,7 +139,7 @@ Navigation
     * [Birth to 6 Months](https://shop.mattel.com/collections/age-birth-6-months)
     * [6-12 Months](https://shop.mattel.com/collections/age-6-12-months)
     * [12-24 Months](https://shop.mattel.com/collections/age-12-24-months)
-    * [2-4 Years](https://shop.mattel.com/collections/age-2-4-years)
+    * [3-4 Years](https://shop.mattel.com/collections/age-3-4-years)
     * [5+ Years](https://shop.mattel.com/collections/age-5-years)
     
      ![Shop By Price](
