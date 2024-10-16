@@ -144,12 +144,11 @@ Choose Topic
 
 Spotlight -
 
-* [ASRS](https://www.managedhealthcareexecutive.com/conferences/asrs)
+* [ID Week 2024](https://www.managedhealthcareexecutive.com/conferences/id-week)
+* [AMCP Nexus 2024](https://www.managedhealthcareexecutive.com/conferences/amcp)
+* [AHIP](https://www.managedhealthcareexecutive.com/conferences/ahip)
 * [AIDS Conference](https://www.managedhealthcareexecutive.com/conferences/aids-conference)
 * [ATS](https://www.managedhealthcareexecutive.com/conferences/ats)
-* [AHIP](https://www.managedhealthcareexecutive.com/conferences/ahip)
-* [AMCP Nexus](https://www.managedhealthcareexecutive.com/conferences/amcp)
-* [Asembia’s Specialty Pharmacy Summit](https://www.managedhealthcareexecutive.com/conferences/asembia-pharm-summit)
 * [Population Health Perspectives](https://www.managedhealthcareexecutive.com/population-health-perspectives?page=1)
 
 ![Formulary Watch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
