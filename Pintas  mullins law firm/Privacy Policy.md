@@ -261,7 +261,7 @@ Select State(Required)
 
 Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNewJerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingAmerican SamoaGuamThe Northern Mariana IslandsPuerto RicoU.S. Virgin Islands
 
-Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
+Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
 Phone
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Does mesothelioma show up on a ct scan?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-does-mesothelioma-show-up-on-a-ct-scan-scaled.jpg "Does Mesothelioma Show Up on a CT Scan?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-mesothelioma-show-up-on-a-ct-scan/ "Does Mesothelioma Show Up on a CT Scan?")
+[![What are the signs of assisted living neglect?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-what-are-the-signs-of-assisted-living-neglect-300x200.jpg "What Are the Signs of Assisted Living Neglect?")](https://www.pintas.com/faq/what-are-the-signs-of-assisted-living-neglect/ "What Are the Signs of Assisted Living Neglect?")
 
-[#### Does Mesothelioma Show Up on a CT Scan?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-mesothelioma-show-up-on-a-ct-scan/)
+[#### What Are the Signs of Assisted Living Neglect?](https://www.pintas.com/faq/what-are-the-signs-of-assisted-living-neglect/)
 
-[![What is white lung?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-white-lung.jpg "What Is White Lung?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-white-lung/ "What Is White Lung?")
+[![What are the effects of elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-effects-of-elder-abuse-scaled.jpg "What Are the Effects of Elder Abuse?")](https://www.pintas.com/faq/what-are-the-effects-of-elder-abuse/ "What Are the Effects of Elder Abuse?")
 
-[#### What Is White Lung?](https://www.pintas.com/practice-areas/lung-cancer/what-is-white-lung/)
+[#### What Are the Effects of Elder Abuse?](https://www.pintas.com/faq/what-are-the-effects-of-elder-abuse/)
 
-[![What are the four stages of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-what-are-the-four-stages-of-lung-cancer.jpg "What Are the Four Stages of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/stages "What Are the Four Stages of Lung Cancer?")
+[![Can mesothelioma spread to other organs?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-can-mesothelioma-spread-to-other-organs.jpg "Can Mesothelioma Spread to Other Organs?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-spread-to-other-organs/ "Can Mesothelioma Spread to Other Organs?")
 
-[#### What Are the Four Stages of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/stages)
+[#### Can Mesothelioma Spread to Other Organs?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-spread-to-other-organs/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -304,9 +304,9 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 message
 
-Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
+Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
