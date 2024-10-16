@@ -1,22 +1,12 @@
-Recovery Solutions |Learn more about recovery solutions available after Hurricane Milton.
+Mobile App Service Interruption |You can log in to online banking on our website to access your accounts. We are working to restore access to the app as quickly as possible.
 
-[](https://www.fairwinds.org/storm)
+Mobile App Service Interruption |You can log in to online banking on our website to access your accounts. We are working to restore access to the app as quickly as possible.
 
-Recovery Solutions |Learn more about recovery solutions available after Hurricane Milton.
+Mobile App Service Interruption |You can log in to online banking on our website to access your accounts. We are working to restore access to the app as quickly as possible.
 
-[](https://www.fairwinds.org/storm)
+Mobile App Service Interruption |You can log in to online banking on our website to access your accounts. We are working to restore access to the app as quickly as possible.
 
-Recovery Solutions |Learn more about recovery solutions available after Hurricane Milton.
-
-[](https://www.fairwinds.org/storm)
-
-Recovery Solutions |Learn more about recovery solutions available after Hurricane Milton.
-
-[](https://www.fairwinds.org/storm)
-
-Recovery Solutions |Learn more about recovery solutions available after Hurricane Milton.
-
-[](https://www.fairwinds.org/storm)
+Mobile App Service Interruption |You can log in to online banking on our website to access your accounts. We are working to restore access to the app as quickly as possible.
 
 [![FAIRWINDS Credit Union logo](/images/logoFAIRWINDS.svg)](https://www.fairwinds.org/)[![FAIRWINDS Credit Union logo](/images/logoFAIRWINDS_sailboat.svg)](https://www.fairwinds.org/)
 
@@ -39,7 +29,7 @@ _FAIRWINDS_ Credit Union and its affiliates are committed to making available f
 
 SVG Wave
 
-![Checklist 3D illustration.](https://images.ctfassets.net/dmzde5ytz0gs/2NdVV6Hzm11BTnWQbDQUB3/f1a36b10d5049f1630f5a93c3890a6d4/3DIcon_Checklist.png?q=90&w=1024)
+![Checklist Icon](https://images.ctfassets.net/dmzde5ytz0gs/4WaeMjeo7FXJvQJqFiXoFf/eb83b98e7b21921f20c7a239a43a9164/Group_1.png?q=90&w=1024)
 
 ### Your Personal Information
 
