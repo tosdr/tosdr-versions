@@ -551,8 +551,9 @@ Submit Search Close Search
 
 ![](/globalassets/new-website/icons/info-tosca-48dp.svg)
 
-We’re sorry, our phone lines are down right now.  
-We’re working hard to fix this. In the meantime, please [log in to your online account](https://customer.axa.co.uk/login/my-axa-account/) to make a change to your policy, or find more ways to get in touch on our [contact page](https://www.axa.co.uk/contact-us/).
+We’re working hard to help everyone, but we’re experiencing extremely high **Home Insurance** call volumes right now.
+
+Instead of joining the queue, why not [log in to your online account](https://customer.axa.co.uk/login/my-axa-account/) to [make a change to your policy](https://help.axa.co.uk/s/article/Making-Changes-or-quotes-for-changes-AXA-Home), [make a claim](https://www.axa.co.uk/home-insurance/make-a-claim/), or send us a message? 
 
 Terms and Conditions
 ====================
