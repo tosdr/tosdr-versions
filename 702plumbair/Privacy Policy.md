@@ -39,7 +39,7 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
     * [Heating Replacement & Installation](https://www.702plumbair.com/hvac-services/heating-replacement-installation/)
     * [Ductless Mini Split Systems](https://www.702plumbair.com/hvac-services/ductless-mini-split-systems/)
     * [Heat Pumps](https://www.702plumbair.com/hvac-services/heat-pumps/)
-    * [Indoor Air Quality](https://www.702plumbair.com/hvac-services/indoor-air-quality/)
+    * [Indoor Air Quality](https://www.702plumbair.com/indoor-air-quality/)
     
 * [702 PlumbAIR Club](https://www.702plumbair.com/702-plumbair-club/)
 * [Areas We Serve](https://www.702plumbair.com/areas-we-serve/)
@@ -91,7 +91,7 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
     * [Heating Replacement & Installation](https://www.702plumbair.com/hvac-services/heating-replacement-installation/)
     * [Ductless Mini Split Systems](https://www.702plumbair.com/hvac-services/ductless-mini-split-systems/)
     * [Heat Pumps](https://www.702plumbair.com/hvac-services/heat-pumps/)
-    * [Indoor Air Quality](https://www.702plumbair.com/hvac-services/indoor-air-quality/)
+    * [Indoor Air Quality](https://www.702plumbair.com/indoor-air-quality/)
     
 * [702 PlumbAIR Club](https://www.702plumbair.com/702-plumbair-club/)
 * [Areas We Serve](https://www.702plumbair.com/areas-we-serve/)
@@ -120,7 +120,7 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
 **Follow Us**
 
 * [](https://www.google.com/maps/place/702+PlumbAIR/@36.0356663,-115.0244028,17z/data=!3m1!4b1!4m6!3m5!1s0x80c8d1631054b437:0xc855bc6ea43343be!8m2!3d36.0356663!4d-115.0244028!16s%2Fg%2F11j2z6cl3z "Google Business Profile")
-* [](https://www.yelp.com/biz/702-plumber-henderson-2 "Yelp")
+* [](https://www.yelp.com/biz/702-plumbair-henderson "Yelp")
 * [](https://www.facebook.com/702PlumbAIR/ "Facebook")
 * [](https://www.instagram.com/702plumbair/ "Instagram")
 * [](https://www.bbb.org/us/nv/henderson/profile/plumber/702-plumber-llc-1086-90065495 "BBB.org")
@@ -222,7 +222,7 @@ Henderson, NV 89014
 **Follow Us**
 
 * [](https://www.google.com/maps/place/702+PlumbAIR/@36.0356663,-115.0244028,17z/data=!3m1!4b1!4m6!3m5!1s0x80c8d1631054b437:0xc855bc6ea43343be!8m2!3d36.0356663!4d-115.0244028!16s%2Fg%2F11j2z6cl3z "Google Business Profile")
-* [](https://www.yelp.com/biz/702-plumber-henderson-2 "Yelp")
+* [](https://www.yelp.com/biz/702-plumbair-henderson "Yelp")
 * [](https://www.facebook.com/702PlumbAIR/ "Facebook")
 * [](https://www.instagram.com/702plumbair/ "Instagram")
 * [](https://www.bbb.org/us/nv/henderson/profile/plumber/702-plumber-llc-1086-90065495 "BBB.org")
