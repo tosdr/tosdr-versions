@@ -1,26 +1,21 @@
-[](#page)
+[](https://arkeero.com/privacy-2/ "Arkeero")
 
-[![](https://arkeero.com/wp-content/uploads/thegem-logos/logo_042141e3236dc2c6129c09ab4381d600_1x.png)![](https://arkeero.com/wp-content/uploads/thegem-logos/logo_443a8ca46875df4e18e529dbe7361543_1x.png)](https://arkeero.com/)
+For brands
 
-Primary Menu
+For publishers
 
-* [ABOUT US](https://arkeero.com/about-us/)
-* [SOLUTIONS](https://arkeero.com/direct-response/)
-    * [EMAIL MARKETING](https://arkeero.com/hermes/)
-    * [DISPLAY MARKETING](https://arkeero.com/perseo/)
-    * [RETARGETING](https://arkeero.com/retargeting/)
-* [PUBLISHERS](https://arkeero.com/publishers/)
-* [CONTACT](https://arkeero.com/contact/)
-* [LOGIN](http://www.perseo-project.net/account/Login?ReturnUrl=%2f)
-* [![English](https://arkeero.com/wp-content/plugins/qtranslate-x/flags/gb.png)](# "English")
-    * [![English](https://arkeero.com/wp-content/plugins/qtranslate-x/flags/gb.png)](https://arkeero.com/en/privacy-2/ "English")
-* [](#)
-    
+[Contact](https://arkeero.com/contact "Contact Arkeero")
+
+EN
+
+EN
+
+[ES](https://arkeero.com/politica-de-privacidad "Español")
+
+[Home](https://arkeero.com/privacy-2/)[For advertisers](https://arkeero.com/brands)[For publishers](https://arkeero.com/publishers)[About us](https://arkeero.com/about-us)[Work with us](https://arkeero.com/work-with-us)[Contact](https://arkeero.com/contact)[Login](https://arkeero.com/privacy-2/ "Arkeero Login")
 
 PRIVACY POLICY
-==============
-
-[Home](https://arkeero.com/) PRIVACY POLICY
+--------------
 
 This policy (hereinafter “Privacy Policy”or “Policy”) is effective from December 05, 2023 (“Effective Date”).
 
@@ -57,7 +52,7 @@ The contents of this Privacy Policy are the following:
 
 The Company is the data controller of the personal data (e.g. information that identifies a specific person, such as full name or e-mail address) we collect from and about you through our services. The personal data is processed in compliance with this Privacy Policy.
 
-This Privacy Policy and our [Cookies Policy](https://arkeero.com/cookies/) apply to all users, including those who use the Company services without being registered or subscribed to a Company service and those who have registered or subscribed to a Company service.
+This Privacy Policy and our [Cookies Policy](https://arkeero.com/cookies-policy) apply to all users, including those who use the Company services without being registered or subscribed to a Company service and those who have registered or subscribed to a Company service.
 
 For the avoidance of doubt, this Privacy Policy is not applicable to data collected by third parties though their websites, even if any of said websites contains links to the Company’s Website.
 
@@ -67,7 +62,7 @@ The Company is not responsible for any content within the privacy policy of thir
 
 The Website offers you the possibility to manage your user area, configure alerts, receive newsletters, information and advertising about the Company’s and/or third parties’ products and services. The newsletters, information and advertising previously mentioned shall be based on the areas of interest that you may have indicated to us according to criteria of the Website, as well as on your profile. If you wish, you may also join and participate in different promotions, contests and/or raffles.
 
-To use the Company services, you shall register on the Website through the enabled registration form and give your freely and express consent to the processing of your data, as well as to this Privacy Policy and our [Cookies Policy](https://arkeero.com/cookies/).
+To use the Company services, you shall register on the Website through the enabled registration form and give your freely and express consent to the processing of your data, as well as to this Privacy Policy and our [Cookies Policy](https://arkeero.com/cookies-policy).
 
 In this regard, you may select through certain check boxes at least three (3) fields of interest among the options provided by the Website. Furthermore, you may choose whether you accept the transfer of your anonymized data – to be anonymized through encryption and an electronic pseudonym – so that we can match it with other information and enrich the data. This procedure shall be carried out though technical means in a totally anonymous and not identifiable manner.
 
@@ -91,7 +86,7 @@ When you access the Company services through social media services or when you c
 
 **c.** Information submitted to the Company through a contact form. There is a contact form on the Website for inquiries, suggestions and/or professional matters. If you contact us through this online form, we will use your e-mail address to reply you and send you the information requested by you, as the case may be.
 
-**d.** Activity data. When you access and interact with the Company services, we may collect certain information about those visits. For example, in order to permit your connection to the Company services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. Cookies and other tracking technologies (such as browser cookies, pixels, beacons) may also be collected. These technologies may also be used to collect and store information about your usage of the Company services, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen. For more information, please visit our [Cookies Policy](https://arkeero.com/cookies/).
+**d.** Activity data. When you access and interact with the Company services, we may collect certain information about those visits. For example, in order to permit your connection to the Company services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. Cookies and other tracking technologies (such as browser cookies, pixels, beacons) may also be collected. These technologies may also be used to collect and store information about your usage of the Company services, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen. For more information, please visit our [Cookies Policy](https://arkeero.com/cookies-policy).
 
 **e.** Information from other Sources. We may supplement the information we collect with information from other sources, such as publicly available information from social media services and commercially available sources.
 
@@ -121,7 +116,7 @@ We use the personal data we collect from and about you to:
 
 **i)** Allow you to you log in the Company services through a social media network; and
 
-**j)** Upon your prior consent, send you –via e-mail, SMS, telephone, multimedia messaging service, phone calls, chat and social media or any other means of communication– offers, promotions and other marketing communications regarding the Company’s (and subsidiary companies’) and/or third party’s services and products operating in the sectors that you may have indicated (if applicable), as well as other sectors of activity in which you may be interested (according to the criteria of the Website and/or the user profile and depending on your configuration of cookies in your browser).You can read our Cookie Policy [here](https://arkeero.com/cookies/).
+**j)** Upon your prior consent, send you –via e-mail, SMS, telephone, multimedia messaging service, phone calls, chat and social media or any other means of communication– offers, promotions and other marketing communications regarding the Company’s (and subsidiary companies’) and/or third party’s services and products operating in the sectors that you may have indicated (if applicable), as well as other sectors of activity in which you may be interested (according to the criteria of the Website and/or the user profile and depending on your configuration of cookies in your browser).You can read our Cookie Policy [here](https://arkeero.com/cookies-policy).
 
 The sectors mentioned in the above paragraph are the following:
 
@@ -180,7 +175,7 @@ Your data is collected and processed by the Company for the following purposes:
 
 Should you wish to withdraw your consent, please contact us at the e-mail address or by post mail as per Section 14 or, in the case of letter i) of Section 4, please select the unsubscribe link contained in any marketing communication.
 
-Please note that, by selecting the corresponding non-preselected checkbox, you are freely and expressly consenting to receiving advertising, the transfer of your data to third parties, as well as our [Terms and Conditions](http://panel.arkepanel.es/terms), Privacy Policy and [Cookies Policy](https://arkeero.com/cookies/).
+Please note that, by selecting the corresponding non-preselected checkbox, you are freely and expressly consenting to receiving advertising, the transfer of your data to third parties, as well as our [Terms and Conditions](https://arkeero.com/terms-and-conditions), Privacy Policy and [Cookies Policy](https://arkeero.com/cookies-policy).
 
 The Company, for the purpose of developing direct marketing actions, will enter into agreements with third parties. These third parties are suitable service providers, which develop activities in the sectors listed in Section 4 of this Privacy Policy.
 
@@ -270,16 +265,159 @@ To contact us for any questions regarding this Privacy Policy, you may write us 
 
 • Post: Rock Internet, S.L., with domicile at Calle Barquillo, 8 planta 2ª izq., 28004 Madrid, Spain.
 
-[](https://www.linkedin.com/company/arkeero/ "linkedin")
+The best team in the world, everywhere.
 
-![](https://arkeero.com/wp-content/uploads/2019/11/IAB-TCF-Logo-.whitepng-300x92.png)
+ES
 
-![](https://arkeero.com/wp-content/uploads/2019/11/logo-cpa-122018.png)
+Madrid
 
-* [TERMS AND CONDITIONS](https://arkeero.com/terms-and-conditions-2/)
-* [PRIVACY POLICY](https://arkeero.com/privacy-2/)
-* [COOKIE POLICY](https://arkeero.com/cookies/)
++
 
-2023 © Arkeero
+Barquillo 8, 2º Izq,  
+28002,  
+Madrid, España  
+  
+  
+Contacto:  
+[+34 910 841 730](tel:+34910841730)  
+[info-es@arkeero.com](mailto:info-es@arkeero.com)
 
-We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on our website.[OK](#)[COOKIE POLICY](https://arkeero.com/cookies/)
+9:50PM
+
+[](mailto:info-es@arkeero.com)
+
+MX
+
+México DF
+
++
+
+Calle Alejandro Dumas 145,  
+28002,  
+Polanco, México  
+  
+  
+Contacto:  
+[+52 55 5929 8285](tel:+525559298285)  
+[sales.mexico@arkeero.com](mailto:sales.mexico@arkeero.com)
+
+9:50PM
+
+[](mailto:sales.mexico@arkeero.com)
+
+CO
+
+Colombia
+
++
+
+Calle 79B,  
+#5-81,  
+Bogotá, Colombia  
+  
+  
+Contacto:  
+[sales.colombia@arkeero.com](mailto:sales.colombia@arkeero.com)
+
+9:50PM
+
+[](mailto:sales.colombia@arkeero.com)
+
+US
+
+Estados Unidos
+
++
+
+101 NE 105st,  
+Miami Shores, Florida  
+  
+  
+Contacto:  
+[+1 (786) 717-1086](tel:+17867171086)  
+[sales.usa@arkeero.com](mailto:sales.usa@arkeero.com)
+
+9:50PM
+
+[](mailto:sales.usa@arkeero.com)
+
+AR
+
+Argentina
+
++
+
+Calle Francisco Romero 3200, #224,  
+1667 Del Viso,  
+Buenos Aires, Argentina  
+  
+  
+Contacto:  
+[sales.argentina@arkeero.com](mailto:sales.argentina@arkeero.com)
+
+9:50PM
+
+[](mailto:sales.argentina@arkeero.com)
+
+CH
+
+Chile
+
++
+
+Av. Vitacura 2771,  
+405B 7550134,  
+Santiado de Chile, Chile  
+  
+  
+Contacto:  
+[sales.chile@arkeero.com](mailto:sales.chile@arkeero.com)
+
+9:50PM
+
+[](mailto:sales.chile@arkeero.com)
+
+PE
+
+Perú
+
++
+
+Av. Camino Real 456,  
+piso 12,  
+San Isidro, Lima, Perú  
+  
+  
+Contacto:  
+[sales.peru@arkeero.com](mailto:sales.peru@arkeero.com)
+
+9:50PM
+
+[](mailto:sales.peru@arkeero.com)
+
+BR
+
+Brasil
+
++
+
+Rua Paes Leme nº 215,  
+2914, Pinheiros,  
+São Paulo, Brasil  
+  
+  
+Contacto:  
+[sales.brasil@arkeero.com](mailto:sales.brasil@arkeero.com)
+
+9:50PM
+
+[](mailto:sales.brasil@arkeero.com)
+
+©2013 - 2024 Arkeero
+
+[Terms and Conditions](https://arkeero.com/terms-and-conditions) [Privacy Policy](https://arkeero.com/privacy-policy) [Cookie Policy](https://arkeero.com/cookies-policy)
+
+[](https://www.linkedin.com/company/arkeero/ "Linkedin Arkeero")
+
+No third-party cookies here. Only a few first-party ones for personalized content, and to enhance your browsing experience.  
+Accept
