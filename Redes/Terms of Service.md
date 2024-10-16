@@ -11,7 +11,7 @@ Idioma
 * [EN](https://red.es/en/data-protection)
 * [VA](https://red.es/va/proteccio-de-dades)
 
-[Sede electrónica](https://sede.red.gob.es/)
+[Sede electrónica](https://sede.red.gob.es/ "Sede electrónica")
 
 Portales de Red.es
 
@@ -26,15 +26,15 @@ Portales de Red.es
 
 ##### Navegación principal
 
-* [Iniciativas](https://red.es/es/iniciativas)
-* [Actualidad](https://red.es/es/actualidad)
-* [Financiación Europea](https://red.es/es/sobre-nosotros/financiacion-europea)
+* [Iniciativas](https://red.es/es/iniciativas "Iniciativas")
+* [Actualidad](https://red.es/es/actualidad "Actualidad")
+* [Financiación Europea](https://red.es/es/sobre-nosotros/financiacion-europea "Financiación Europea")
 * Sobre nosotros
-    * [Qué hacemos](https://red.es/es/sobre-nosotros/que-hacemos)
-    * [Quiénes somos](https://red.es/es/sobre-nosotros/quienes-somos)
-    * [Sistemas de Gestión Corporativos](https://red.es/es/sobre-nosotros/sistemas-de-gestion-corporativos)
-    * [Trabaja con nosotros](https://red.es/es/sobre-nosotros/trabaja-con-nosotros)
-* [Transparencia](https://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
+    * [Qué hacemos](https://red.es/es/sobre-nosotros/que-hacemos "Qué hacemos")
+    * [Quiénes somos](https://red.es/es/sobre-nosotros/quienes-somos "Quiénes somos")
+    * [Sistemas de Gestión Corporativos](https://red.es/es/sobre-nosotros/sistemas-de-gestion-corporativos "Sistemas de Gestión Corporativos")
+    * [Trabaja con nosotros](https://red.es/es/sobre-nosotros/trabaja-con-nosotros "Trabaja con nosotros")
+* [Transparencia](https://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno "Transparencia")
 
 Buscar
 
@@ -50,26 +50,26 @@ You must have JavaScript enabled to use this form.
 
 ##### Navegación principal
 
-* [Iniciativas](https://red.es/es/iniciativas)
-* [Actualidad](https://red.es/es/actualidad)
-* [Financiación Europea](https://red.es/es/sobre-nosotros/financiacion-europea)
+* [Iniciativas](https://red.es/es/iniciativas "Iniciativas")
+* [Actualidad](https://red.es/es/actualidad "Actualidad")
+* [Financiación Europea](https://red.es/es/sobre-nosotros/financiacion-europea "Financiación Europea")
 * Sobre nosotros
-    * [Qué hacemos](https://red.es/es/sobre-nosotros/que-hacemos)
-    * [Quiénes somos](https://red.es/es/sobre-nosotros/quienes-somos)
-    * [Sistemas de Gestión Corporativos](https://red.es/es/sobre-nosotros/sistemas-de-gestion-corporativos)
-    * [Trabaja con nosotros](https://red.es/es/sobre-nosotros/trabaja-con-nosotros)
-* [Transparencia](https://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
+    * [Qué hacemos](https://red.es/es/sobre-nosotros/que-hacemos "Qué hacemos")
+    * [Quiénes somos](https://red.es/es/sobre-nosotros/quienes-somos "Quiénes somos")
+    * [Sistemas de Gestión Corporativos](https://red.es/es/sobre-nosotros/sistemas-de-gestion-corporativos "Sistemas de Gestión Corporativos")
+    * [Trabaja con nosotros](https://red.es/es/sobre-nosotros/trabaja-con-nosotros "Trabaja con nosotros")
+* [Transparencia](https://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno "Transparencia")
 
 Nuestros portales
 
-* [Dominios.es](https://www.dominios.es/dominios/)
-* [ONTSI](https://www.ontsi.red.es/)
-* [RedIRIS](https://www.rediris.es/)
-* [Datos.gob.es](https://datos.gob.es/)
+* [Dominios.es](https://www.dominios.es/dominios/ "Dominios.es")
+* [ONTSI](https://www.ontsi.red.es/ "ONTSI")
+* [RedIRIS](https://www.rediris.es/ "RedIRIS")
+* [Datos.gob.es](https://datos.gob.es/ "Datos.gob.es")
 * [SEDIA](https://portal.mineco.gob.es/es-es/digitalizacionIA/Paginas/sedia.aspx)
-* [España Digital](https://espanadigital.gob.es/)
+* [España Digital](https://espanadigital.gob.es/ "España Digital")
 
-[Sede electrónica](https://sede.red.gob.es/)
+[Sede electrónica](https://sede.red.gob.es/ "Sede electrónica")
 
 Idioma
 
@@ -3359,12 +3359,12 @@ Automatizado
 
 Nuestros Portales
 
-* [Dominios.es](https://www.dominios.es/dominios/)
-* [ONTSI](https://www.ontsi.red.es/)
-* [RedIRIS](https://www.rediris.es/)
-* [Datos.gob.es](https://datos.gob.es/)
+* [Dominios.es](https://www.dominios.es/dominios/ "Dominios.es")
+* [ONTSI](https://www.ontsi.red.es/ "ONTSI")
+* [RedIRIS](https://www.rediris.es/ "RedIRIS")
+* [Datos.gob.es](https://datos.gob.es/ "Datos.gob.es")
 * [SEDIA](https://portal.mineco.gob.es/es-es/digitalizacionIA/Paginas/sedia.aspx)
-* [España Digital](https://espanadigital.gob.es/)
+* [España Digital](https://espanadigital.gob.es/ "España Digital")
 
 ##### Enlaces para el ciudadano
 
