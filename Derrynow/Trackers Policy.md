@@ -280,13 +280,6 @@ Most Popular
 [Man charged with assaulting Derry businessman at Apprentice Boys parade pleads guilty](https://www.derrynow.com/news/local-news/1630640/man-charged-with-assaulting-derry-businessman-at-apprentice-boys-parade-pleads-guilty.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1629835/derry-death-notices-tuesday-october-15-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, October 15 2024](https://www.derrynow.com/news/deaths/1629835/derry-death-notices-tuesday-october-15-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Throwback Tuesday: Out and About @ Richardson's 100th birthday celebrations (2011)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Richardson's 100th birthday celebrations (2011)")](https://www.derrynow.com/story-telling/pictures---videos/1630083/throwback-tuesday-out-and-about-richardson-s-100th-birthday-celebrations-2011.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -319,12 +312,14 @@ PSNI
 [43-year-old man arrested in Derry under Terrorism Act](https://www.derrynow.com/news/local-news/1630360/43-year-old-man-arrested-in-derry-under-terrorism-act.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Stunning Irish coastal home with sensational sea views going for just €275k](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Stunning Irish coastal home with sensational sea views going for just €275k")](https://www.derrynow.com/news/property/1630763/pictures-stunning-irish-coastal-home-with-sensational-sea-views-going-for-just-275k.html)
+[![Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI")](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
 
-[Property](https://www.derrynow.com/section/997/cookie-policy)
+Issac's family pictured with representatives from Burnfoot Community Centre handing over the cheque to Air Ambulance NI.
 
-[PICTURES: Stunning Irish coastal home with sensational sea views going for just €275k](https://www.derrynow.com/news/property/1630763/pictures-stunning-irish-coastal-home-with-sensational-sea-views-going-for-just-275k.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
+
+[Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [!['Comet of the Century' spotted over skies of Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Comet of the Century' spotted over skies of Derry")](https://www.derrynow.com/news/local-news/1630465/comet-of-the-century-spotted-over-skies-of-derry.html)
 
@@ -334,6 +329,13 @@ Comet C/2023 A3 pictured over Groarty Road, Derry on Monday night. (Photo: Vinny
 
 ['Comet of the Century' spotted over skies of Derry](https://www.derrynow.com/news/local-news/1630465/comet-of-the-century-spotted-over-skies-of-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, October 16 2024](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,7 +515,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI")](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
+[![Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies")](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
+
+The mural in the Bogside labelling General Mike Jackson a war criminal
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, October 16 2024](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](https://www.derrynow.com/resizer/165/93/true/2024_10_15/Burnfoot_CP_Photo_TOTAL_FINAL-1729023149683.jpg--.jpg?1729023150391 "Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI")](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
 
 Issac's family pictured with representatives from Burnfoot Community Centre handing over the cheque to Air Ambulance NI.
 
@@ -522,7 +540,7 @@ Issac's family pictured with representatives from Burnfoot Community Centre hand
 [Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry hurling championship preview: Slaughtneil chase their 12th consecutive title](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry hurling championship preview: Slaughtneil chase their 12th consecutive title")](https://www.derrynow.com/news/gaa/1629609/derry-hurling-championship-preview-slaughtneil-chase-their-12th-consecutive-title.html)
+[![Derry hurling championship preview: Slaughtneil chase their 12th consecutive title](https://www.derrynow.com/resizer/165/93/true/2024_09_30/Slaughtneil_v_Kevin_Lynch_1-1727692172574.jpg--.jpg?1727692173079 "Derry hurling championship preview: Slaughtneil chase their 12th consecutive title")](https://www.derrynow.com/news/gaa/1629609/derry-hurling-championship-preview-slaughtneil-chase-their-12th-consecutive-title.html)
 
 [GAA](https://www.derrynow.com/section/1060/gaa)
 
@@ -542,24 +560,6 @@ Issac's family pictured with representatives from Burnfoot Community Centre hand
 
 [Durkan: Biodiversity loss report underlines need for urgent response](https://www.derrynow.com/news/derry-news/1631023/durkan-biodiversity-loss-report-underlines-need-for-urgent-response.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Fóram na nÓg, and Education Minister Paul Givan](https://www.derrynow.com/resizer/165/93/true/2024_10_15/Stormont_Foram_na_nOg_Paul_Givan-1729001111510.jpeg--.jpeg?1729001112166 "Fóram na nÓg, and Education Minister Paul Givan")](https://www.derrynow.com/news/county-derry-post/1630778/irish-language-group-meets-dup-education-minister-paul-givan.html)
-
-Fóram na nÓg, and Education Minister Paul Givan
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Irish Language group meets DUP Education Minister Paul Givan](https://www.derrynow.com/news/county-derry-post/1630778/irish-language-group-meets-dup-education-minister-paul-givan.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Craigbane GAC and Derry Strabane PCSP](https://www.derrynow.com/resizer/165/93/true/2024_10_15/20241012_100645_resized-1729000015129.jpg--.jpg?1729000015649 "Craigbane GAC and Derry Strabane PCSP")](https://www.derrynow.com/news/county-derry-post/1630764/the-trailer-marking-initiative-between-craigbane-gac-and-derry-strabane-pcsp-response-to-reports-of-ongoing-criminal-activity.html)
-
-Craigbane GAC and Derry Strabane PCSP
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[The Trailer Marking initiative between Craigbane GAC and Derry Strabane PCSP response to reports of ongoing criminal activity](https://www.derrynow.com/news/county-derry-post/1630764/the-trailer-marking-initiative-between-craigbane-gac-and-derry-strabane-pcsp-response-to-reports-of-ongoing-criminal-activity.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
