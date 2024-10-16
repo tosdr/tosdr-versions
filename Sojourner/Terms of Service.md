@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a1abb3ac0ac496394526375b35bb35b4
+7333b9d067c5829d7f96c48f8b188367
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![18 mm black flat oval beads](https://sojourner.biz/images/cache/glass/GL0372.200.jpg)](https://sojourner.biz/beads/glass/18-mm-black-flat-oval-beads.html "18 mm black flat oval beads")
+[![10 mm by 6 mm top-drilled green vintage glass leaves](https://sojourner.biz/images/cache/glass/GL0200.200.jpg)](https://sojourner.biz/beads/glass/10-mm-by-6-mm-top-drilled-green-vintage-glass-leaves.html "10 mm by 6 mm top-drilled green vintage glass leaves")
 
-#### [18 mm black flat oval beads](https://sojourner.biz/beads/glass/18-mm-black-flat-oval-beads.html "18 mm black flat oval beads")
+#### [10 mm by 6 mm top-drilled green vintage glass leaves](https://sojourner.biz/beads/glass/10-mm-by-6-mm-top-drilled-green-vintage-glass-leaves.html "10 mm by 6 mm top-drilled green vintage glass leaves")
 
-$6.00
+$4.00
 
 ### Best Sellers
 
@@ -162,14 +162,14 @@ $6.00
     $28.00
 6. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-7. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
-8. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+7. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
+8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Black and white playful cat sauce dish](https://sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
-    $7.00
+10. [Gray pearl toggle clasp](https://sojourner.biz/clasps/toggles/gray-pearl-toggle-clasp.html "Gray pearl toggle clasp")  
+    $28.00
 
 [Top](#)
 
