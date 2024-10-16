@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-13e-kristallen-schedel-het-hele-paradigma/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/kalfjes-doen-niet-aan-zelf-suggestie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
