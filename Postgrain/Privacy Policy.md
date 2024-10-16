@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-Redes-que-mais-cresceram-em-2024-580x290.jpg)](https://postgrain.com/?post_type=post&p=12654)
+[![](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-Sua-empresa-tem-uma-equipe-de-Customer-Success-580x290.jpg)](https://postgrain.com/?post_type=post&p=12665)
 
-[Redes que mais cresceram em 2024: Veja aqui!](https://postgrain.com/?post_type=post&p=12654)
+[Sua empresa tem uma equipe de Customer Success? Descubra a importância para o sucesso do seu negócio!](https://postgrain.com/?post_type=post&p=12665)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12654)
+[Leia mais](https://postgrain.com/?post_type=post&p=12665)
 
 Ilustração de um dos personagens do Postgrain
 
