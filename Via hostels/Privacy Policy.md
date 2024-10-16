@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_670f96080edb4)
+* [fun from day one!](#tab_670feae282466)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_670f96080edb4)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_670feae282466)
     
-* [fomo no more!](#tab_670f96080edcd)
+* [fomo no more!](#tab_670feae28247e)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_670f96080edcd)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_670feae28247e)
     
-* [we’ve got you covered, dude](#tab_670f96080ede0)
+* [we’ve got you covered, dude](#tab_670feae282492)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_670f96080ede0)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_670feae282492)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,6 +117,9 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
+[![Don't know how to spend your time in Amsterdam?🚲 Our lovely staff are more than happy to help you plan the perfect stay!!🙏🤩🥰
+#amsterdambikes #amsterdamcity #viaamsterdam #hostellife #explorer](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBLXMaENBlY/)
+
 [Still don’t have your plans for the biggest danc ![Still don’t have your plans for the biggest dance weekend of the year?🪩 No need to stress! Follow this guide, and you’re guaranteed a blast🎉🤩
 Psst, if your favorite event is sold out, check out TicketSwap—a safe app for buying and selling tickets!🎫
 #ade #adeamsterdam #amsterdamdanceevent #viaamsterdam #dancelife #partytime](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBGP653Ngud/) 
@@ -149,8 +152,6 @@ What's your go to song?🥰👯‍♀](https://www.viahostels.com/wp-content/plu
 
 [Thank you @level52dmg for sharing your Amsterdam e ![Thank you @level52dmg for sharing your Amsterdam experience, we love that you spent it with us!!🤩 
 Via is the perfect base for whatever brings you to the city—whether it's a conference, meeting up with friends, or solo exploring! Book your stay through the link in our bio🙌🙏](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAYFC38P5ez/) 
-
-[We need your help🍹🔥 Our cocktail of the mont ![We need your help🍹🔥 Our cocktail of the month is a spicy margarita, but it’s missing a perfect name. Drop your creative ideas in the comments–the best suggestion can claim one of these for free in the dude bar!🌶️😉](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAV5nEWNiaT/) 
 
 current & upcoming events
 -------------------------
