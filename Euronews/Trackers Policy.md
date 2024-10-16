@@ -17,62 +17,54 @@
     
     * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
     * [Donald Trump](https://www.euronews.com/tag/donald-trump)
-    * [Russia](https://www.euronews.com/tag/russia)
     * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Music](https://www.euronews.com/tag/music)
+    * [Russia](https://www.euronews.com/tag/russia)
+    * [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
     
     * * *
     
     Latest stories
     
-    [![From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs")
+    [![Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday")
     
-    ![From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs](https://static.euronews.com/articles/stories/08/75/81/48/368x207_cmsv2_82080e50-aff8-57b5-8d9c-39852ce3b487-8758148.jpg "From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs")
-    
-    ![Photo Gallery](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2021%2021'%3E%3C/svg%3E)
-    
-    ![Photo Gallery](https://static.euronews.com/website/images/vector/camera.svg)](https://www.euronews.com/business/2024/10/16/from-japan-to-european-tables-how-sake-wagyu-and-seaweed-seduced-michelin-starred-chefs)
+    ![Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday](https://static.euronews.com/articles/stories/08/79/36/28/368x207_cmsv2_104967b1-b13b-5800-940d-4493df55c0a5-8793628.jpg "Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday")](https://www.euronews.com/green/2024/10/16/has-the-demand-for-fossil-fuels-already-peaked-a-new-report-suggests-that-may-be-the-case)
     
     Now playing Next
     
-    [Business Series](https://www.euronews.com/business/business-series)
+    [Green News](https://www.euronews.com/green/green-news)
     
-    ### [How Sake, Wagyu and Seaweed won over Michelin-starred chefs](https://www.euronews.com/business/2024/10/16/from-japan-to-european-tables-how-sake-wagyu-and-seaweed-seduced-michelin-starred-chefs)
+    ### [Could the shift to EVs spell the end of fossil fuels?](https://www.euronews.com/green/2024/10/16/has-the-demand-for-fossil-fuels-already-peaked-a-new-report-suggests-that-may-be-the-case)
     
-    In partnership with **JFOODO**
+    [![Watch the penguins parade on Phillip Island near Melbourne, Australia.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Watch the penguins parade on Phillip Island near Melbourne, Australia.")
     
-    [![A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015")
-    
-    ![A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015](https://static.euronews.com/articles/stories/08/79/43/10/368x207_cmsv2_a12944d2-a98e-51af-9195-f57a073c1667-8794310.jpg "A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015")](https://www.euronews.com/business/2024/10/16/where-to-look-for-top-performing-european-stocks-as-interest-rates-drop)
+    ![Watch the penguins parade on Phillip Island near Melbourne, Australia.](https://static.euronews.com/articles/stories/08/79/48/68/368x207_cmsv2_29fa72d6-aeac-5d54-ac29-79234598552c-8794868.jpg "Watch the penguins parade on Phillip Island near Melbourne, Australia.")](https://www.euronews.com/travel/2024/10/16/northern-lights-penguin-parades-and-glowing-oceans-where-to-chase-natural-wonders-in-2025)
     
     Now playing Next
     
-    [Markets](https://www.euronews.com/business/markets)
+    [Experiences](https://www.euronews.com/travel/experiences)
     
-    ### [Where to look for top-performing European stocks as interest rates dip](https://www.euronews.com/business/2024/10/16/where-to-look-for-top-performing-european-stocks-as-interest-rates-drop)
+    ### [Northern Lights and penguin parades: Where to embrace nature in 2025](https://www.euronews.com/travel/2024/10/16/northern-lights-penguin-parades-and-glowing-oceans-where-to-chase-natural-wonders-in-2025)
     
-    [![Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ")
+    [![An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida")
     
-    ![Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ](https://static.euronews.com/articles/stories/08/79/41/02/368x207_cmsv2_213fe7f6-3dd1-53fc-9b9b-c56ffe7f5519-8794102.jpg "Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ")](https://www.euronews.com/business/2024/10/16/tesla-gets-go-ahead-to-expand-controversial-factory-in-germany)
-    
-    Now playing Next
-    
-    [Business](https://www.euronews.com/business/business)
-    
-    ### [Tesla gets go-ahead for controversial factory expansion in Germany](https://www.euronews.com/business/2024/10/16/tesla-gets-go-ahead-to-expand-controversial-factory-in-germany)
-    
-    [![Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures")
-    
-    ![Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures](https://static.euronews.com/articles/stories/08/75/56/92/368x207_cmsv2_a24d9ad5-9636-5c74-a134-1fab317812ce-8755692.jpg "Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures")](https://www.euronews.com/travel/2024/10/16/exploring-marrakech-golfing-at-assoufid-and-al-maaden-culinary-delights-and-nightlife-adve)
+    ![An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida](https://static.euronews.com/articles/stories/08/79/47/04/368x207_cmsv2_f2f04b9a-0ee3-5d69-9fa2-9a658175ee8e-8794704.jpg "An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida")](https://www.euronews.com/2024/10/16/how-the-uss-strong-decentralised-election-system-makes-voter-fraud-rare)
     
     Now playing Next
     
-    [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
+    [USA](https://www.euronews.com/news/america/usa)
     
-    ### [Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures](https://www.euronews.com/travel/2024/10/16/exploring-marrakech-golfing-at-assoufid-and-al-maaden-culinary-delights-and-nightlife-adve)
+    ### [Strong safeguards make voter fraud rare in US elections](https://www.euronews.com/2024/10/16/how-the-uss-strong-decentralised-election-system-makes-voter-fraud-rare)
     
-    In partnership with **Visit Morocco**
+    [![Europe in Motion](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Europe in Motion")
+    
+    ![Europe in Motion](https://static.euronews.com/articles/stories/08/78/27/56/368x207_cmsv2_fb991f1f-7ca1-548b-8942-cdf0ea0e42b7-8782756.jpg "Europe in Motion")](https://www.euronews.com/my-europe/2024/10/16/which-european-country-produces-the-most-food-waste)
+    
+    Now playing Next
+    
+    [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
+    
+    ### [Which European country produces the most food waste?](https://www.euronews.com/my-europe/2024/10/16/which-european-country-produces-the-most-food-waste)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -365,68 +357,60 @@ Trending
 
 * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
 * [Donald Trump](https://www.euronews.com/tag/donald-trump)
-* [Russia](https://www.euronews.com/tag/russia)
 * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Music](https://www.euronews.com/tag/music)
+* [Russia](https://www.euronews.com/tag/russia)
+* [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
 
 * * *
 
 Latest stories
 
-[![From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs")
+[![Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday")
 
-![From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs](https://static.euronews.com/articles/stories/08/75/81/48/368x207_cmsv2_82080e50-aff8-57b5-8d9c-39852ce3b487-8758148.jpg "From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs")
-
-![Photo Gallery](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2021%2021'%3E%3C/svg%3E)
-
-![Photo Gallery](https://static.euronews.com/website/images/vector/camera.svg)](https://www.euronews.com/business/2024/10/16/from-japan-to-european-tables-how-sake-wagyu-and-seaweed-seduced-michelin-starred-chefs)
+![Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday](https://static.euronews.com/articles/stories/08/79/36/28/368x207_cmsv2_104967b1-b13b-5800-940d-4493df55c0a5-8793628.jpg "Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday")](https://www.euronews.com/green/2024/10/16/has-the-demand-for-fossil-fuels-already-peaked-a-new-report-suggests-that-may-be-the-case)
 
 Now playing Next
 
-[Business Series](https://www.euronews.com/business/business-series)
+[Green News](https://www.euronews.com/green/green-news)
 
-### [How Sake, Wagyu and Seaweed won over Michelin-starred chefs](https://www.euronews.com/business/2024/10/16/from-japan-to-european-tables-how-sake-wagyu-and-seaweed-seduced-michelin-starred-chefs)
-
-In partnership with **JFOODO**
+### [Could the shift to EVs spell the end of fossil fuels?](https://www.euronews.com/green/2024/10/16/has-the-demand-for-fossil-fuels-already-peaked-a-new-report-suggests-that-may-be-the-case)
 
 * * *
 
-[![A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015")
+[![Watch the penguins parade on Phillip Island near Melbourne, Australia.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Watch the penguins parade on Phillip Island near Melbourne, Australia.")
 
-![A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015](https://static.euronews.com/articles/stories/08/79/43/10/368x207_cmsv2_a12944d2-a98e-51af-9195-f57a073c1667-8794310.jpg "A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015")](https://www.euronews.com/business/2024/10/16/where-to-look-for-top-performing-european-stocks-as-interest-rates-drop)
+![Watch the penguins parade on Phillip Island near Melbourne, Australia.](https://static.euronews.com/articles/stories/08/79/48/68/368x207_cmsv2_29fa72d6-aeac-5d54-ac29-79234598552c-8794868.jpg "Watch the penguins parade on Phillip Island near Melbourne, Australia.")](https://www.euronews.com/travel/2024/10/16/northern-lights-penguin-parades-and-glowing-oceans-where-to-chase-natural-wonders-in-2025)
 
 Now playing Next
 
-[Markets](https://www.euronews.com/business/markets)
+[Experiences](https://www.euronews.com/travel/experiences)
 
-### [Where to look for top-performing European stocks as interest rates dip](https://www.euronews.com/business/2024/10/16/where-to-look-for-top-performing-european-stocks-as-interest-rates-drop)
+### [Northern Lights and penguin parades: Where to embrace nature in 2025](https://www.euronews.com/travel/2024/10/16/northern-lights-penguin-parades-and-glowing-oceans-where-to-chase-natural-wonders-in-2025)
 
 * * *
 
-[![Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ")
+[![An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida")
 
-![Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ](https://static.euronews.com/articles/stories/08/79/41/02/368x207_cmsv2_213fe7f6-3dd1-53fc-9b9b-c56ffe7f5519-8794102.jpg "Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ")](https://www.euronews.com/business/2024/10/16/tesla-gets-go-ahead-to-expand-controversial-factory-in-germany)
+![An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida](https://static.euronews.com/articles/stories/08/79/47/04/368x207_cmsv2_f2f04b9a-0ee3-5d69-9fa2-9a658175ee8e-8794704.jpg "An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida")](https://www.euronews.com/2024/10/16/how-the-uss-strong-decentralised-election-system-makes-voter-fraud-rare)
 
 Now playing Next
 
-[Business](https://www.euronews.com/business/business)
+[USA](https://www.euronews.com/news/america/usa)
 
-### [Tesla gets go-ahead for controversial factory expansion in Germany](https://www.euronews.com/business/2024/10/16/tesla-gets-go-ahead-to-expand-controversial-factory-in-germany)
+### [Strong safeguards make voter fraud rare in US elections](https://www.euronews.com/2024/10/16/how-the-uss-strong-decentralised-election-system-makes-voter-fraud-rare)
 
 * * *
 
-[![Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures")
+[![Europe in Motion](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Europe in Motion")
 
-![Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures](https://static.euronews.com/articles/stories/08/75/56/92/368x207_cmsv2_a24d9ad5-9636-5c74-a134-1fab317812ce-8755692.jpg "Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures")](https://www.euronews.com/travel/2024/10/16/exploring-marrakech-golfing-at-assoufid-and-al-maaden-culinary-delights-and-nightlife-adve)
+![Europe in Motion](https://static.euronews.com/articles/stories/08/78/27/56/368x207_cmsv2_fb991f1f-7ca1-548b-8942-cdf0ea0e42b7-8782756.jpg "Europe in Motion")](https://www.euronews.com/my-europe/2024/10/16/which-european-country-produces-the-most-food-waste)
 
 Now playing Next
 
-[Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
+[Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
 
-### [Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures](https://www.euronews.com/travel/2024/10/16/exploring-marrakech-golfing-at-assoufid-and-al-maaden-culinary-delights-and-nightlife-adve)
-
-In partnership with **Visit Morocco**
+### [Which European country produces the most food waste?](https://www.euronews.com/my-europe/2024/10/16/which-european-country-produces-the-most-food-waste)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -828,74 +812,93 @@ The following list of cookies is currently used on the euronews.com website:
 
 _These cookies are dropped to ensure and improve the proper functioning of the website or to provide anonymous data (measure the performance of our content, detect navigation problems…)_
 
-| Partner | Cookies | Usage | Persistence |
-| --- | --- | --- | --- |
-| Didomi | didomi\_token | This cookie contains consent information for custom purposes and vendors, as well as Didomi-specific information (user ID, for instance) | 12 months |
-|     | euconsent-v2 | This cookie contains the IAB TCF consent string and consent information for all the standard IAB vendors and purposes | 12 months |
-| Adobe Analytics | s\_cc | Determine if cookies are enabled | end of session |
-|     | s\_vi | This cookie is used to identify a unique visitor | 13 months |
-|     | s\_sq | It contains information about the previous link that was selected on by the user | end of session |
-|     | AMCV\_237E3E1059F2E95E0A4  <br>95E5D%40AdobeOrg | Indicates the start of a session for Adobe Experience Cloud | end of session |
-| Chartbeat | \_cb | This cookie stores a visitor’s unique identifier (relative to your specific site) for Chartbeat tracking on your site. | 13 months |
-|     | \_chartbeat2 | This cookie stores timing information about when this visitor has visited your site before. This enables us to distinguish between new, returning, and loyal visitors. | 13 months |
-|     | \_cb\_svref | This cookie stores the original referrer for this site visitor — for example, this will store the fact that a visitor arrived to your site via Twitter, past the first page view, so that when a visitor recirculates to a different article page, we still know that they originally arrived on your site via Twitter. | 30 minutes |
-| Gigya |     | Gigya is the login solution | 1 year |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Partner | Cookies | Usage | Persistence | Opt-out link |
+| Didomi | didomi\_token | This cookie contains consent information for custom purposes and vendors, as well as Didomi-specific information (user ID, for instance) | 12 months |     |
+| euconsent-v2 | This cookie contains the IAB TCF consent string and consent information for all the standard IAB vendors and purposes | 12 months |     |
+| Adobe Analytics | s\_cc | Determine if cookies are enabled | end of session |     |
+| s\_vi | This cookie is used to identify a unique visitor | 13 months |     |
+| s\_sq | It contains information about the previous link that was selected on by the user | end of session |     |
+| AMCV\_237E3E1059F2E95E0A495E5D%40AdobeOrg | Indicates the start of a session for Adobe Experience Cloud | end of session |     |
+| Chartbeat | \_cb | This cookie stores a visitor’s unique identifier (relative to our specific site) for Chartbeat tracking on your site. | 13 months |     |
+| \_chartbeat2 | This cookie stores timing information about when this visitor has visited your site before. This enables us to distinguish between new, returning, and loyal visitors. | 13 months |     |
+| \_cb\_svref | This cookie stores the original referrer for this site visitor — for example, this will store the fact that a visitor arrived to your site via Twitter, past the first page view, so that when a visitor recirculates to a different article page, we still know that they originally arrived on your site via Twitter. | 30 minutes |     |
+| Gigya |     | Gigya is the login solution | 1 year |     |
+| Nonli | nli | This cookie stores a visitor’s unique identifier (relative to our specific site) | 13 months | [https://l.euronews.com/cookie/consent](https://l.euronews.com/cookie/consent) |
+|     | nli\_consent | when this cookie is present, the user’s tracking is completely deactivated | 13 months |
 
 #### Social networks
 
 _Social networks cookies allow the user to interact from our website on social networks, notably through sharing buttons._
 
-| Partner | Cookies | Usage | Persistence |
+|     |     |     |     |
 | --- | --- | --- | --- |
-| Facebook | datr | These cookies, provided by Facebook, are set when a visitor is logged in to or otherwise using their service. This allows a user to easily comment or share an article with their peers through the social network. | 90 days |
-|     | locale |     | 3 days |
-|     | reg\_ext\_ref  <br>reg\_fb\_gate  <br>highContrastMode  <br>wd | These cookies, provided by Facebook, are set when a visitor is logged in to or otherwise using their service. This allows a user to easily comment or share an article with their peers through the social network. | end of session |
+| Partner | Cookies | Usage | Persistence |
+| Facebook | \_fbp | These cookies, provided by Facebook, are set when a visitor is logged in to or otherwise using their service. This allows a user to easily comment or share an article with their peers through the social network. | 90 days |
+| locale | 3 days |
+| reg\_ext\_ref | end of session |
+| reg\_fb\_gate | end of session |
+| highContrastMode | end of session |
+| wd  | end of session |
 | Twitter | twitter\_sess | Used in conjunction with the Twitter social plugins in order to allow following our Twitter accounts easily, share content via Twitter… Twitter makes use of cookies to improve its own service as well. | end of session |
-|     | guest\_id  <br>personalization\_id |     | 13 months |
+| guest\_id | 13 months |
+| personalization\_id | 13 months |
 
 #### Services
 
 _These cookies are dropped in order to improve your experience by enabling you to comment articles or by offering to subscribe to our newsletters._
 
-| Partner | Cookies | Usage | Persistence |
+|     |     |     |     |
 | --- | --- | --- | --- |
+| Partner | Cookies | Usage | Persistence |
 | Vuukle |     | Vuukle provides commenting solutions that is placed at the bottom of the article to build community engagement where users are allowed to express their opinion relating to the article by maintaining decent conversations |     |
 | Dailymotion | v1st | Used to store a unique user ID | 13 months |
-|     | ts  | Functional cookie |     |
-|     | usprivacy | Used to store privacy preferences. |     |
-|     | damd | Used to store performed actions on the website. |     |
-| YouTube | LAST\_RESULT\_ENTRY\_KEY | Video player | end of session |
+| ts  | Functional cookie (video player) |
+| usprivacy | Used to store privacy preferences. |
+| damd | Used to store performed actions on the website. |
+| YouTube | LAST\_RESULT\_ENTRY\_KEY  <br>TESTCOOKIESENABLED | Video player | end of session |
 | Connatix |     | Video player (recommended videos) | 1 year |
+| Minute.ly | minDaily | Is user belongs to control group, Was unique analytic sent | Daily |
+| \_minEE0 / \_minEE1 / \_minEE2 | Message buffer (aggregating analytics before send) | 24H |
+| minSession | sessionID, Unique APV impressions and clicks, Was Analytics sent | 24H / 30 min |
+| minVersion | Current version for a/b testing | 1 year |
+| minBuffer | Buffer buckets | 1 year |
+| minUniq | User ID | 1 year |
+| Local storage | minViewedHlts | Which highlights were given for Internal A/B testing |
 
 #### Advertising cookies
 
 _These cookies are placed by advertisers. If you give your consent, personalised ads can be shown to you based on your profile (country, browsing history…), in order to get more relevant ads and offer a personalised experience. The performance and effectiveness of ads that you see or interact with can be measured._
 
-| Partner | Cookies | Usage | Persistence |
+|     |     |     |     |
 | --- | --- | --- | --- |
+| Partner | Cookies | Usage | Persistence |
 | Audience Manager | aam\_uuid | Set for ID sync for Adobe Audience Manager | 1 month |
-|     | demdex.net | The demdex cookie helps Audience Manager perform basic functions, such as visitor identification, ID synchronization, segmentation, modeling, reporting, and so on. | 6 months |
-| Adara | fbh0  <br>gcma  <br>rmxc  <br>cktst  <br>ckid  <br>dph  <br>ph | Provides advertising or advertising-related services such as data collection, behavioral analysis or retargeting. | 1 year |
+| demdex.net | The demdex cookie helps Audience Manager perform basic functions, such as visitor identification, ID synchronization, segmentation, modeling, reporting, and so on. | 6 months |
+| Adara | fbh0  <br>gcma  <br>rmcx  <br>cktst  <br>ckid  <br>dph  <br>ph | Provides advertising or advertising-related services such as data collection, behavioral analysis or retargeting. | 1 year |
 | Bombora |     | Second party data. Data Enhancement : convert unknown audience using B2B demographics and behavioral interests. | 1 year |
 | Bidswitch | c / tuuid\_lu / tuuid | This cookie has a unique user ID (randomly generated), on the basis of which Bidswitch can remember which banners you have seen and whether you have visited an advertiser’s website. Bidswitch uses this information only for this particular advertiser to determine when and how often you see a particular banner. | 1 year |
 | Dailymotion | dmvk | Used to store information for remarketing purposes. | end of session |
 | DoubleClick (Google Ad Manager) | \_\_gads | DoubleClick is Google’s ad network that lets advertisers display ads for income to monetize a website. The DoubleClick network is incorporated into Google’s Adsense network | 13 months |
-|     | \_\_gpi |     | 13 months |
-|     | test\_cookie |     | end of session |
-|     | IDE |     | 13 months |
+| \_\_gpi | 13 months |
+| test\_cookie | end of session |
+| IDE | 13 months |
 | Grapeshot |     | Contextual targeting technology that allows us to place more relevant advertising based on the user reading habits and interests. | end of session |
-| Insider |     | Insider’s cookies are used for the following service providers : – Marketing and advertising agencies  <br>– E-mail and newsletter provider – CRM system service provider  <br>– Service provider for online surveys  <br>– Provider of web analysis tools | 13 months |
+| Insider |     | Insider’s cookies are used for the following service providers :  <br>– Marketing and advertising agencies  <br>– E-mail and newsletter provider  <br>– CRM system service provider  <br>– Service provider for online surveys  <br>– Provider of web analysis tools | 13 months |
 | Liveramp | rlas3 | LiveRamp uses browser cookies to help companies and content providers present online content that is more likely to match your interests. | 1 year |
-|     | pxrc |     | 2 months |
+| pxrc | 2 months |
 | Magnite |     | Magnite provides digital advertising technology platforms and related services that connect buyers of advertising inventory (advertisers) with sellers of advertising inventory (publishers) | 1 year |
-| Moat | pixel.moatads.com\_/pixel.gif px.moatads.com\_/pixel.gif | Measure user’s engagement on the website | end of session |
-| Nativo | visitor  <br>status  <br>gdpr\_consent  <br>ver  <br>opt\_out | Nativo is an advertising technology provider. Nativo uses cookies to help store basic information about a user of website-based Properties. | 1 year |
-| OpenX | i   | Targeting cookies | 13 months |
-| Outbrain |     | Native advertising content, using targeted advertising to recommend articles, slideshows, blog posts, photos or videos to a reader. | 1 year |
-| poool | \_poool | Dynamic paywall | 1 year |
-| Sitescout | ssi  <br>\_ssuma | Registers a unique ID that identifies a returning user’s device. The ID is used for targeted ads. | 1 month |
+| Moat | pixel.moatads.com\_/pixel.gif  <br>px.moatads.com\_/pixel.gif | Measure user’s engagement on the website | end of session |
+| Nativo | visitor / status / gdpr\_consent / ver / opt\_out | Nativo is an advertising technology provider. Nativo uses cookies to help store basic information about a user of website-based Properties. | 1 year |
+| OpenX | i   | Targeting cookies | 1 year |
+| Outbrain |     | Native advertising content, using targeted advertising to recommend articles, slideshows, blog posts, photos or videos to a reader. | 13 months |
+| Poool | \_poool | Dynamic paywall | 1 year |
+| Sitescout | ssi | Registers a unique ID that identifies a returning user’s device. The ID is used for targeted ads. | 1 year |
+| \_ssuma | 1 month |
 | Tapad | TapAd\_TS  <br>TapAd\_DID  <br>TapAd\_3WAY\_SYNCS | Tapad cookies are used for Cross Device matching capabilities. They can be used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user. | 2 months |
-| Teads | \_tfpvi  <br>tt\_viewer | Targeting solution | 1 year |
+| Teads | \_tfpvi | Targeting solution | 1 year |
+| tt\_viewer |
 
 ### Because all views matter, Euronews is All Views
 
