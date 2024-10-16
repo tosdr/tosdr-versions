@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/08/Generic-stand-edited-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-5x-took-uber-to-hospital-may-have-been-shot-during-botched-robbery-of-off-duty-officer.html "Man shot 5x took Uber to hospital, may have been shot during botched robbery of off-duty officer")
+
+West Loop
+
+### [Man shot 5x took Uber to hospital, may have been shot during botched robbery of off-duty officer](https://cwbchicago.com/2024/10/man-shot-5x-took-uber-to-hospital-may-have-been-shot-during-botched-robbery-of-off-duty-officer.html "Man shot 5x took Uber to hospital, may have been shot during botched robbery of off-duty officer")
+
+[October 13, 2024 7:03 PM](https://cwbchicago.com/2024/10)
+
+There’s a plot twist to report in the overnight attempted robbery of an off-duty Cook County correctional officer in the West Loop.[](https://cwbchicago.com/2024/10/man-shot-5x-took-uber-to-hospital-may-have-been-shot-during-botched-robbery-of-off-duty-officer.html "Man shot 5x took Uber to hospital, may have been shot during botched robbery of off-duty officer")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/bb8-326x245.jpg)](https://cwbchicago.com/2024/10/gunshot-victim-lies-in-alley-for-20-minutes-waiting-for-help-on-a-block-previously-served-by-shotspotter.html "Gunshot victim lies in alley for 20 minutes, waiting for help, on a block previously served by ShotSpotter")
+
+Auburn Gresham
+
+### [Gunshot victim lies in alley for 20 minutes, waiting for help, on a block previously served by ShotSpotter](https://cwbchicago.com/2024/10/gunshot-victim-lies-in-alley-for-20-minutes-waiting-for-help-on-a-block-previously-served-by-shotspotter.html "Gunshot victim lies in alley for 20 minutes, waiting for help, on a block previously served by ShotSpotter")
+
+[October 13, 2024 9:40 AM](https://cwbchicago.com/2024/10)
+
+A woman shot and critically injured lay on the ground in pain for more than 20 minutes before first responders located her early Sunday morning. Nobody called 911 to report gunshots in the area, which used to be served by the city’s ShotSpotter gunfire detection network.[](https://cwbchicago.com/2024/10/gunshot-victim-lies-in-alley-for-20-minutes-waiting-for-help-on-a-block-previously-served-by-shotspotter.html "Gunshot victim lies in alley for 20 minutes, waiting for help, on a block previously served by ShotSpotter")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/226-N-Morgan-326x245.jpg)](https://cwbchicago.com/2024/10/off-duty-sheriff-opens-fire-on-armed-robbers-in-the-west-loop.html "Off-duty sheriff opens fire on armed robbers in the West Loop")
 
 West Loop
@@ -252,26 +272,6 @@ West Loop
 [October 13, 2024 8:02 AM](https://cwbchicago.com/2024/10)
 
 Two would-be armed robbers got more than they bargained for when they tried to rob an off-duty sheriff’s deputy in the West Loop overnight. Their victim pulled a gun and shot at them.[](https://cwbchicago.com/2024/10/off-duty-sheriff-opens-fire-on-armed-robbers-in-the-west-loop.html "Off-duty sheriff opens fire on armed robbers in the West Loop")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/7434-n-western-map-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-during-fight-in-west-rogers-park.html "Man shot whle fighting 3 opponents in West Rogers Park")
-
-West Rogers Park
-
-### [Man shot whle fighting 3 opponents in West Rogers Park](https://cwbchicago.com/2024/10/man-shot-during-fight-in-west-rogers-park.html "Man shot whle fighting 3 opponents in West Rogers Park")
-
-[October 13, 2024 7:06 AM](https://cwbchicago.com/2024/10)
-
-A 27-year-old man is recovering after getting shot during a fight in West Rogers Park overnight.[](https://cwbchicago.com/2024/10/man-shot-during-fight-in-west-rogers-park.html "Man shot whle fighting 3 opponents in West Rogers Park")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Elliott-Nott-and-suspect-326x245.jpg)](https://cwbchicago.com/2024/10/former-cps-teacher-exposed-himself-to-girls-in-west-rogers-park-prosecutors-say.html "Former CPS teacher exposed himself to girls in West Rogers Park, prosecutors say")
-
-West Rogers Park
-
-### [Former CPS teacher exposed himself to girls in West Rogers Park, prosecutors say](https://cwbchicago.com/2024/10/former-cps-teacher-exposed-himself-to-girls-in-west-rogers-park-prosecutors-say.html "Former CPS teacher exposed himself to girls in West Rogers Park, prosecutors say")
-
-[October 13, 2024 6:08 AM](https://cwbchicago.com/2024/10)
-
-A former Chicago Public Schools teacher with a history of sex-related misconduct is now charged with exposing himself to three young girls on the Far Noth Side last month.[](https://cwbchicago.com/2024/10/former-cps-teacher-exposed-himself-to-girls-in-west-rogers-park-prosecutors-say.html "Former CPS teacher exposed himself to girls in West Rogers Park, prosecutors say")
 
 Search
 
