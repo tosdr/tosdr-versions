@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Animals](https://www.sciencenews.org/topic/animals)
+    * * [Plants](https://www.sciencenews.org/topic/plants)
+            
+            ### [Carnivorous plants eat faster with a fungal friend](https://www.sciencenews.org/article/carnivorous-plant-sundew-fungus-digest)
+            
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")2 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [At-home experiments shed light on cats’ liquid behavior](https://www.sciencenews.org/article/home-experiments-cats-liquid-behavior)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")21 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 15, 2024
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Your brain can perceive subtle odor changes in a single sniff](https://www.sciencenews.org/article/brain-odor-changes-milliseconds)
             
             By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")October 14, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [DNA from old hair helps confirm the macabre diet of two 19th century lions](https://www.sciencenews.org/article/dna-hair-teeth-diet-lions)
-            
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")October 11, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [NASA’s Europa mission is a homecoming for one planetary astronomer](https://www.sciencenews.org/article/buratti-nasa-europa-mission)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")19 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 15, 2024
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
