@@ -191,9 +191,9 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Rodney L. Berry](https://cdn.returningveterans.org/images/honor/Rodney_Berry.jpg)  
+![Jim Dawson](https://cdn.returningveterans.org/images/honor/12_Dawson.jpg)  
 
-**In Honor of Rodney L. Berry**  
+**In Honor of Jim Dawson**  
 United States Navy  
 Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
@@ -240,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/16/24 - 8:39:42  
+Printed 10/16/24 - 2:24:18  
 © 2024 Returning Veterans Project
