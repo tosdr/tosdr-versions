@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/wat-is-waar-wie-het-weet-mag-het-zeggen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/geen-bewijs-dus-waarom-nog-steeds-n-griepprik/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
