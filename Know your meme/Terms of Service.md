@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/269/sabrina-carpenter-10312324-8004bb12e9624446adcfb710c00e89be.jpg "Every Wild Story You Need To Know From The 'Pokémon Game Freak Gigaleak' Explained")
+* [![This Guy Is Pondering His Orb, And Memers Join In Pondering Their Orb](https://i.kym-cdn.com/featured_items/icons/wide/000/026/288/Screen_Shot_2021-11-03_at_12.03.40_PM.png "Happy Orb Pondering Anniversary")
     
-    Every Wild Story You Need To Know From The 'Pokémon Game Freak Gigaleak' Explained](https://knowyourmeme.com/editorials/guides/every-wild-story-you-need-to-know-from-the-pokemon-game-freak-gigaleak-explained)
+    Happy Orb Pondering Anniversary](https://knowyourmeme.com/memes/pondering-my-orb)
     
-* [![Asmongold Palestine comment controversy.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/268/1.jpg "Twitch Streamer Asmongold Catches Ban For His 'Inferior Culture' Comment Regarding Palestine")
+* [![GeorgeNotFound Crying refers to a piece of fanart depicting Dream SMP member GeorgeNotFound crying in his car while holding an invite for fellow Minecraft YouTubers Dream and Fundy's wedding. Dream and Fundy held a joke wedding in Minecraft in December 2020, with George jokingly objecting to the wedding in a YouTube video. The fanart came to be used as an ironic reaction meme to depict great sadness in 2024.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/287/george_not.jpg "GeorgeNotFound May Have Been Cancelled Months Ago, But People Are Still Using This Niche Piece Of Fanart")
     
-    Twitch Streamer Asmongold Catches Ban For His 'Inferior Culture' Comment Regarding Palestine](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy)
+    GeorgeNotFound May Have Been Cancelled Months Ago, But People Are Still Using This Niche Piece Of Fanart](https://knowyourmeme.com/memes/georgenotfound-crying)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/267/cbsn-fusion-attendees-faint-trump-plays-his-favorite-music-at-bizarre-town-hall-in-pennsylvania-thumbnail.jpg "Donald Trump Spends Rally Making Crowd Watch Him Listen To Music For 40 Minutes, Raising Concerns About His Mental Fitness")
+* [![In Da Clerb, We All Fam is a memorable quote from a March 2016 episode of the Comedy Central Broad City. The catchphrase originates from a scene where Ilana Wexler waves to two women she doesn't know after crashing a party, saying "In da clerb, we all fam," to her confused friend Abbi. After Abbi fails to compute the statement, Ilana says, "In the club, we are all family. Are you racist?" The catchphrase became a viral TikTok meme in October 2024.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/286/in_the_clerb.jpg "'In Da Clerb, We All Fam' Is The Next TikTok-Enabled Catchphrase You Will be Seeing All Over Your Timelines")
     
-    Donald Trump Spends Rally Making Crowd Watch Him Listen To Music For 40 Minutes, Raising Concerns About His Mental Fitness](https://knowyourmeme.com/news/trump-spends-rally-making-crowd-watch-him-listen-to-music-for-40-minutes-raising-concerns-about-his-mental-fitness)
+    'In Da Clerb, We All Fam' Is The Next TikTok-Enabled Catchphrase You Will be Seeing All Over Your Timelines](https://knowyourmeme.com/memes/in-da-clerb-we-all-fam)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/266/cover7.jpg "What's With The 'From the Screen To The Ring' Copypasta? KSI Gets Mocked With The Lyric From His Song")
+* [![Screenshot from the film I, Robot of the character Sonny saying "no"](https://i.kym-cdn.com/featured_items/icons/wide/000/026/285/irobot.jpg "I, Robot 'No' Scene Resurfaces As Viral Exploitable Meme On TikTok Alongside Alicia Keys' 'No One' Song")
     
-    What's With The 'From the Screen To The Ring' Copypasta? KSI Gets Mocked With The Lyric From His Song](https://knowyourmeme.com/editorials/guides/whats-with-the-from-the-screen-to-the-ring-copypasta-ksi-gets-mocked-with-the-lyric-from-his-song)
+    I, Robot 'No' Scene Resurfaces As Viral Exploitable Meme On TikTok Alongside Alicia Keys' 'No One' Song](https://knowyourmeme.com/memes/i-robot-no)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/265/mcaa.jpg "What Is 'Minecraft College Football?' Pig State, Ole Moo And Other Minecraft-Themed Universities From TikTok Explained ")
+* [![LeBron Hennessy, also known as LeHenny or LeBrenny, refers to a 2024 limited edition cognac bottle made by Hennessy in collaboration with NBA player LeBron James. LeBron Hennessy was released in late September 2024 but generated significant viral discourse and memes in October 2024. Notable influencers like Twitch streamer Kai Cenat reviewed LeBron Hennessy and joked about it after its release.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/284/lebron_hennessy.jpg "LeBron's Got His Own Hennessy Bottle, So Now, If The Function Got Hennessy, It Might Be 'LeHenny'")
     
-    What Is 'Minecraft College Football?' Pig State, Ole Moo And Other Minecraft-Themed Universities From TikTok Explained](https://knowyourmeme.com/editorials/guides/what-is-minecraft-college-football-pig-state-ole-moo-and-other-minecraft-themed-universities-from-tiktok-explained)
+    LeBron's Got His Own Hennessy Bottle, So Now, If The Function Got Hennessy, It Might Be 'LeHenny'](https://knowyourmeme.com/memes/subcultures/lebron-hennessy)
     
 
 ##### Also Trending:
 
-[Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy") [Minecraft Sheep Fricker Machine](https://knowyourmeme.com/memes/minecraft-sheep-fricker-machine "Minecraft Sheep Fricker Machine")
+[Donald Trump's Oaks, Pennsylvania Rally](https://knowyourmeme.com/memes/events/donald-trumps-oaks-pennsylvania-rally "Donald Trump's Oaks, Pennsylvania Rally") [Woman Tearing Down Greek Flags Video](https://knowyourmeme.com/memes/ambamelia-tears-down-greek-flags-thinking-theyre-israeli-flags "Woman Tearing Down Greek Flags Video") [Muscular Lara Croft Controversy](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy "Muscular Lara Croft Controversy")
 
 Terms of Service and Use
 ========================
