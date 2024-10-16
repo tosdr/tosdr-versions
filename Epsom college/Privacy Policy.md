@@ -2,9 +2,11 @@
 
 Applications Closing: Don't Miss Out
 
-If you want to [join our Sixth Form in September 2025](https://www.epsomcollege.org.uk/applying-to-sixth-form/), we must receive your registration by **midnight, 15 October**
+The deadline for applications is midday, 31 October.
 
-To join [Year 7 in September 2025, or Year 9 in 2027](https://www.epsomcollege.org.uk/applying-to-epsom/), the deadline is **midday, 31 October**
+[Click here to apply for Year 7 in September 2025](https://www.epsomcollege.org.uk/applying-to-epsom/)
+
+[Or click here to apply for Year 9 in 2027](https://www.epsomcollege.org.uk/applying-to-epsom/)
 
 [Close Notification](#)
 
@@ -126,6 +128,7 @@ To join [Year 7 in September 2025, or Year 9 in 2027](https://www.epsomcollege.o
 
 * [Back](#)
     
+    * [Obituaries](https://www.epsomcollege.org.uk/the-oe-club/obituaries/)
     * [About the OE Club](https://www.epsomcollege.org.uk/the-oe-club/history-whos-who/)
     * [Forthcoming events](https://www.epsomcollege.org.uk/the-oe-club/oe-forthcoming-events/)
     * [Past Events & OE News](https://www.epsomcollege.org.uk/the-oe-club/oe-news/)
@@ -149,7 +152,7 @@ Our website address is: https://www.epsomcollege.org.uk.
 
 This policy explains how Epsom College collects and uses information via its website. Please click on the following links for more information on how the College uses information about pupils and parents.
 
-[Privacy Notice for Parents](https://www.epsomcollege.org.uk/download/1871/?tmstv=1729064694) [Privacy Notice for Pupils](https://www.epsomcollege.org.uk/download/1874/?tmstv=1729064694) [Privacy Notice for Customers & Suppliers](https://www.epsomcollege.org.uk/download/1868/?tmstv=1729064694) [Privacy Notice for Alumni](https://www.epsomcollege.org.uk/download/1865/?tmstv=1729064694)
+[Privacy Notice for Parents](https://www.epsomcollege.org.uk/download/1871/?tmstv=1729086646) [Privacy Notice for Pupils](https://www.epsomcollege.org.uk/download/1874/?tmstv=1729086646) [Privacy Notice for Customers & Suppliers](https://www.epsomcollege.org.uk/download/1868/?tmstv=1729086646) [Privacy Notice for Alumni](https://www.epsomcollege.org.uk/download/1865/?tmstv=1729086646)
 
 For further information, to receive support or make a complaint relating to the College’s use of your personal data please contact our Bursar, Mr Paul Ratcliffe at [bursar@epsomcollege.org.uk](mailto:bursar@epsomcollege.org.uk)
 
@@ -239,7 +242,6 @@ Visitor comments may be checked through an automated spam detection service.
 * [Information for Parents](https://www.epsomcollege.org.uk/information-for-parents/)
 * [Friends of Epsom College](https://www.epsomcollege.org.uk/friends-of-epsom-college/)
 * [Term Dates](https://www.epsomcollege.org.uk/about-us/term-dates/)
-* [Visit Us](https://www.epsomcollege.org.uk/visit-us/)
 * [Contact Us](https://www.epsomcollege.org.uk/contact-us/)
 * [Our Staff](https://www.epsomcollege.org.uk/about-us/our-staff/)
 
