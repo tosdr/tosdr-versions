@@ -103,7 +103,7 @@ Preserve your past with this all-inclusive kit.
 
 ### How It Works
 
-Simply send your Legacybox kit, filled with old home movies and pictures. We’ll do the rest, digitizing your moments onto thumb drive, the Digital Download, or DVD. It's like magic.
+Simply send your Legacybox kit, filled with old home movies and pictures. We’ll do the rest, digitizing your moments onto the Cloud. It's like magic.
 
 [Learn More](https://legacybox.com/pages/how-it-works)
 
@@ -163,23 +163,23 @@ Pack your Legacybox kit with tapes, film, photos, and audio recordings. Mix and 
 
 ### What You Get Back
 
-Professionally digitized, future-proof, & ready to relive.™ Choose what you’ll get back. Popcorn optional.
+Professionally digitized, future-proof, & ready to relive.™ Each Legacybox includes 90 day FREE Cloud access.
 
 [Learn More](https://legacybox.com/pages/how-it-works)
 
-Professionally digitized, future-proof, & ready to relive.™ Choose what you’ll get back. Popcorn optional.
+Professionally digitized, future-proof, & ready to relive.™ Each Legacybox includes 90 day FREE Cloud access.
 
 #### Thumb drive
 
-#### Digital Download
+#### Legacybox Cloud
 
-#### DVD Set
+#### Disc Set
 
 [Thumb drive](https://legacybox.com/products/legacybox-digitizing-kit)
 
-[Digital Download](https://legacybox.com/products/legacybox-digitizing-kit)
+[Legacybox Cloud](https://legacybox.com/products/legacybox-digitizing-kit)
 
-[DVD Set](https://legacybox.com/products/legacybox-digitizing-kit)
+[Disc Set](https://legacybox.com/products/legacybox-digitizing-kit)
 
 [Learn More](https://help.legacybox.com/hc/en-us)
 
@@ -260,7 +260,7 @@ Preserve your past with this all-inclusive kit.
 
 ### How It Works
 
-Simply send your Legacybox kit, filled with old home movies and pictures. We’ll do the rest, digitizing your moments onto thumb drive, the Digital Download, or DVD. It's like magic.
+Simply send your Legacybox kit, filled with old home movies and pictures. We’ll do the rest, digitizing your moments onto the Cloud. It's like magic.
 
 [Learn More](https://legacybox.com/pages/how-it-works)
 
@@ -320,23 +320,23 @@ Pack your Legacybox kit with tapes, film, photos, and audio recordings. Mix and 
 
 ### What You Get Back
 
-Professionally digitized, future-proof, & ready to relive.™ Choose what you’ll get back. Popcorn optional.
+Professionally digitized, future-proof, & ready to relive.™ Each Legacybox includes 90 day FREE Cloud access.
 
 [Learn More](https://legacybox.com/pages/how-it-works)
 
-Professionally digitized, future-proof, & ready to relive.™ Choose what you’ll get back. Popcorn optional.
+Professionally digitized, future-proof, & ready to relive.™ Each Legacybox includes 90 day FREE Cloud access.
 
 #### Thumb drive
 
-#### Digital Download
+#### Legacybox Cloud
 
-#### DVD Set
+#### Disc Set
 
 [Thumb drive](https://legacybox.com/products/legacybox-digitizing-kit)
 
-[Digital Download](https://legacybox.com/products/legacybox-digitizing-kit)
+[Legacybox Cloud](https://legacybox.com/products/legacybox-digitizing-kit)
 
-[DVD Set](https://legacybox.com/products/legacybox-digitizing-kit)
+[Disc Set](https://legacybox.com/products/legacybox-digitizing-kit)
 
 [Learn More](https://help.legacybox.com/hc/en-us)
 
