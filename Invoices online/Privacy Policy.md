@@ -118,57 +118,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Henry Venter
+Kobus Venter
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=195894970)  
-SLOANE STAR MEAT MARKET
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=73968498)  
+NEW BEGINNINGS DESIGNS
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=15567911)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=30879392)  
+Norton Medical & Consult - Namibia
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=59247114)  
-McKaynine Mobility
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=178154419)  
+Wiselink Broadband Dundee
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=155889059)  
-LEONARD
-
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=118821879)  
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=123868837)  
 Lizzy Pop PTY(Ltd)
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=69803187)  
-Redlum Group (Pty) Ltd
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=58815118)  
+West Coast Horse Trails
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=172197853)  
-Kaylas Creations
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=85376791)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=103882025)  
-Firstweb Hosting & Design
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=125196407)  
+Fox Alarms & Security CC
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=210747275)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=25516537)  
+Tagline Brands
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=167872035)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=147440797)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=196368802)  
-Mtunzini Group
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=116419761)  
+NWET Pty LTD
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=11779110)  
-SAUL ATHOL ACRES RENTAL
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=200086838)  
+VA AND M DEBT-AID (PTY) LTD
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=147102222)  
-webb it services
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=67622534)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=202190045)  
-Digifax Pty) Ltd t/a Findfish
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=60427990)  
+Well Hung Art
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=72132cfe1a47fcd2dd62574ae3266ee989bf5815f2a99707ee8699422c0f61a2&c=176741610)  
-Entidee Enterprise PTY (ltd)
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=168785247)  
+TRACKFORCE (Pty) Ltd
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=204502890)  
+LEO DEVELOPMENT GROUP
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
