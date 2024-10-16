@@ -56,7 +56,7 @@
     
     ###### By industry
     
-    [###### Manufacturing](https://boomi.com/solutions/industries/manufacturing/)[###### Healthcare and Life Sciences](https://boomi.com/solutions/industries/healthcare-life-sciences/)[###### Retail](https://boomi.com/solutions/industries/retail/)[###### Financial services](https://boomi.com/solutions/industries/financial-services/)[###### Higher Education](https://boomi.com/solutions/industries/higher-education/)[###### Public Sector](https://boomi.com/solutions/industries/public-sector/)[###### Software providers](https://boomi.com/partners/embedded-software-providers/)
+    [###### Manufacturing](https://boomi.com/solutions/industries/manufacturing/)[###### Healthcare and Life Sciences](https://boomi.com/solutions/industries/healthcare-life-sciences/)[###### Retail](https://boomi.com/solutions/industries/retail/)[###### Financial services](https://boomi.com/solutions/industries/financial-services/)[###### Higher Education](https://boomi.com/solutions/industries/higher-education/)[###### Public Sector](https://boomi.com/solutions/industries/public-sector/)[###### Embedded & Software providers](https://boomi.com/partners/embedded-software-providers/)
     
     ###### By initiative
     
@@ -64,7 +64,7 @@
     
     ###### By function
     
-    [###### IT](https://boomi.com/solutions/function/information-technology/)[###### Finance](https://boomi.com/solutions/function/finance/)[###### Human Resources](https://boomi.com/solutions/function/hr/)[###### Marketing](https://boomi.com/solutions/function/marketing/)[###### Sales](https://boomi.com/solutions/function/sales/)[###### Analytics](https://boomi.com/solutions/function/analytics/)[###### Support](https://boomi.com/solutions/function/support/)
+    [###### IT](https://boomi.com/solutions/function/information-technology/)[###### Finance](https://boomi.com/solutions/function/finance/)[###### Human Resources](https://boomi.com/solutions/function/hr/)[###### Marketing](https://boomi.com/solutions/function/marketing/)[###### Sales](https://boomi.com/solutions/function/sales/)[###### Analytics](https://boomi.com/solutions/function/analytics/)[###### Support](https://boomi.com/solutions/function/support/)[###### Product (Embed)](https://boomi.com/partners/embedded-software-providers/)
     
     ###### Integrate your apps
     
@@ -210,7 +210,7 @@
     * [###### Financial services](https://boomi.com/solutions/industries/financial-services/)
     * [###### Higher Education](https://boomi.com/solutions/industries/higher-education/)
     * [###### Public Sector](https://boomi.com/solutions/industries/public-sector/)
-    * [###### Software providers](https://boomi.com/partners/embedded-software-providers/)
+    * [###### Embedded & Software providers](https://boomi.com/partners/embedded-software-providers/)
     
     [By initiative](javascript:void(0))
     
@@ -231,6 +231,7 @@
     * [###### Sales](https://boomi.com/solutions/function/sales/)
     * [###### Analytics](https://boomi.com/solutions/function/analytics/)
     * [###### Support](https://boomi.com/solutions/function/support/)
+    * [###### Product (Embed)](https://boomi.com/partners/embedded-software-providers/)
     
     ###### Integrate your apps
     
