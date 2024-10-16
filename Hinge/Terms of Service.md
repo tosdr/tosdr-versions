@@ -15,7 +15,7 @@ Terms
 
 **TERMS OF USE AGREEMENT**
 
-_Effective on May 14, 2024; [**click here to download a PDF**](https://files.hinge.co/5cbde1d582e88aef40e1dc87066b78a55d0623a9.pdf)_
+_Effective on May 14, 2024; [**click here to download a PDF**](https://files.hinge.co/6ab66edbf2219f9514867874270bb487a51e8ad3.pdf)_
 
 California subscribers: You may cancel your subscription, without penalty or obligation, at any time prior to midnight of the third business day following the date you subscribed. If you subscribed using an External Service (e.g., Apple ID, Google Play), you must cancel through your External Service, as set forth in more detail in Section 8a. If you subscribed through your Apple ID, refunds are handled by Apple, not Hinge. You can request a refund from Apple through your Apple ID account on your phone or at [https://getsupport.apple.com](https://getsupport.apple.com/). All other users may request a refund by contacting Hinge Customer Service at hello@hinge.co, or by mailing or delivering a signed and dated notice that states that you, the buyer, are canceling this agreement, or words of similar effect. Please also include your name and the email address, phone number, or other unique identifier you used to sign up for your account.
 
