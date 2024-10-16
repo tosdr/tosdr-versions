@@ -65,6 +65,7 @@ The World's Favorite Source Since 1997
         
         * [Garmin GPS](https://www.thegpsstore.com/Brands/Garmin-GPS-Marine-Electronics)
         * [Icom Marine](https://www.thegpsstore.com/Brands/Icom-Marine-Radios)
+        * [JL Audio](https://www.thegpsstore.com/JL-Audio)
         * [KVH](https://www.thegpsstore.com/Brands/KVH)
         * [Lowrance Electronics](https://www.thegpsstore.com/Brands/Lowrance-Electronics)
         * [Lumishore](https://www.thegpsstore.com/Brands/Lumishore-LED-Lights)
@@ -323,6 +324,7 @@ GPS Units - Accessories
 [Fusion Stereos](https://www.thegpsstore.com/Brands/Fusion-Marine-Stereos)  
 [Garmin GPS](https://www.thegpsstore.com/Brands/Garmin-GPS-Marine-Electronics)  
 [Icom Marine Radios](https://www.thegpsstore.com/Brands/Icom-Marine-Radios)  
+[JL Audio](https://www.thegpsstore.com/JL-Audio)  
 [KVH Satellite TV](https://www.thegpsstore.com/Brands/KVH)  
 [Lowrance Electronics](https://www.thegpsstore.com/Brands/Lowrance-Electronics)  
 [Lumishore LED Lights](https://www.thegpsstore.com/Brands/Lumishore-LED-Lights)  
