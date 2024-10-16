@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nuio-flow-keyboard-wireless-split-ergonomic-typing-premium-build/)
+    
+    [Nuio Flow Keyboard Delivers Ergonomic Typing Function in a Premium Package](https://www.coolthings.com/nuio-flow-keyboard-wireless-split-ergonomic-typing-premium-build/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/rolling-square-incharge-xs-keychain-charger-240w-fast-charging/)
     
     [Rolling Square inCharge XS Updates the Keychain Charger to Support 240W Fast Charging](https://www.coolthings.com/rolling-square-incharge-xs-keychain-charger-240w-fast-charging/)
@@ -24,11 +29,6 @@
     
     [The Best UPS Battery Backups to Protect Your Essential Devices](https://www.coolthings.com/the-best-ups-battery-backups-to-protect-your-essential-devices/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/jmgo-picoflix-portable-projector-never-tips-over-gimbal-image-correction/)
-    
-    [JMGO Picoflix Projector Combines Portable Size with Design that Never Tips Over](https://www.coolthings.com/jmgo-picoflix-portable-projector-never-tips-over-gimbal-image-correction/)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/jlab-go-pop-anc-active-noise-cancellation-affordable-true-wireless-earbuds/)
+    
+    [JLab Go Pop ANC Puts Noise Cancellation in a $30 Pair of True Wireless Earbuds](https://www.coolthings.com/jlab-go-pop-anc-active-noise-cancellation-affordable-true-wireless-earbuds/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-portable-party-speakers-to-bring-big-thumping-sound-on-the-go/)
     
     [The Best Portable Party Speakers to Bring Big, Thumping Sound On the Go](https://www.coolthings.com/the-best-portable-party-speakers-to-bring-big-thumping-sound-on-the-go/)
@@ -52,11 +57,6 @@
     
     [Wahoo Kickr Run Smart Treadmill Automatically Adjusts Speed to Keep Up with Your Pace](https://www.coolthings.com/wahoo-kickr-run-smart-treadmill-automatically-adjusts-speed-based-on-your-pace/)
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nintendo-sound-clock-alarmo-alarm-mario-zelda-animations-game-sounds/)
-    
-    [Nintendo Sound Clock Alarmo Wakes You Up with Sights and Sounds from Your Favorite Nintendo Titles](https://www.coolthings.com/nintendo-sound-clock-alarmo-alarm-mario-zelda-animations-game-sounds/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
