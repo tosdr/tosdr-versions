@@ -299,13 +299,21 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Подготовка к выборам, привлечение активистов и молодежи, работа с избирателями и первичками: Дмитрий Медведев поставил задачи региональным отделениям «Единой России»](https://cdn.er.ru/media/news/October2024/Ts1ybY83k6Rmib8BUaPe-small.jpg)](https://er.ru/activity/news/podgotovka-k-vyboram-privlechenie-aktivistov-i-molodezhi-rabota-s-izbiratelyami-i-pervichkami-dmitrij-medvedev-postavil-zadachi-regionalnym-otdeleniyam-edinoj-rossii)
+
+[Подготовка к выборам, привлечение активистов и молодежи, работа с избирателями и первичками: Дмитрий Медведев поставил задачи региональным отделениям «Единой России»](https://er.ru/activity/news/podgotovka-k-vyboram-privlechenie-aktivistov-i-molodezhi-rabota-s-izbiratelyami-i-pervichkami-dmitrij-medvedev-postavil-zadachi-regionalnym-otdeleniyam-edinoj-rossii)
+
+[#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#региональныеотделения](https://er.ru/activity/news?tags%5B0%5D=140130) [#РИК](https://er.ru/activity/news?tags%5B0%5D=123) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+16.10.24
+
 [![Дмитрий Медведев ответил на вопросы руководителей региональных исполкомов «Единой России» со всей страны](https://cdn.er.ru/media/news/October2024/alzDqY1d7PJXJYn2QMy8-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-otvetil-na-voprosy-rukovoditelej-regionalnyh-ispolkomov-edinoj-rossii-so-vsej-strany)
 
 [Дмитрий Медведев ответил на вопросы руководителей региональных исполкомов «Единой России» со всей страны](https://er.ru/activity/news/dmitrij-medvedev-otvetil-na-voprosy-rukovoditelej-regionalnyh-ispolkomov-edinoj-rossii-so-vsej-strany)
 
 [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#реготделения](https://er.ru/activity/news?tags%5B0%5D=82524) [#ЦИК](https://er.ru/activity/news?tags%5B0%5D=1527) [#исполкомы](https://er.ru/activity/news?tags%5B0%5D=17190)
 
-Сегодня 18:10
+16.10.24
 
 [![Дмитрий Медведев: «Единая Россия» проведёт Съезд 14 декабря](https://cdn.er.ru/media/news/October2024/WFJIk9fMaYb1DuzgI9Hh-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-provedyot-sezd-14-dekabrya)
 
@@ -313,7 +321,7 @@
 
 [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#региональныйисполком](https://er.ru/activity/news?tags%5B0%5D=132701) [#съезд](https://er.ru/activity/news?tags%5B0%5D=103) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751)
 
-Сегодня 15:45
+16.10.24
 
 [![Дмитрий Медведев поручил региональным отделениям «Единой России» продолжать поддержку фронта](https://cdn.er.ru/media/news/October2024/TtIjlb6g8hdcwGt1UR9y-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-poruchil-regionalnym-otdeleniyam-edinoj-rossii-prodolzhat-podderzhku-fronta)
 
@@ -321,7 +329,7 @@
 
 [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#помощьвоеннослужащим](https://er.ru/activity/news?tags%5B0%5D=1093164) [#активисты](https://er.ru/activity/news?tags%5B0%5D=121801) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123)
 
-Сегодня 15:42
+16.10.24
 
 [![Дмитрий Медведев: «Единая Россия» достойно выступит на выборах 25/26](https://cdn.er.ru/media/news/October2024/owbreu7S9gxGzpvwcen6-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-dostojno-vystupit-na-vyborah-25-26)
 
@@ -329,7 +337,7 @@
 
 [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#региональныйисполком](https://er.ru/activity/news?tags%5B0%5D=132701) [#выборы](https://er.ru/activity/news?tags%5B0%5D=31) [#предварительноеголосование](https://er.ru/activity/news?tags%5B0%5D=100833) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
-Сегодня 15:36
+16.10.24
 
 [![Госдума одобрила в первом чтении законопроект «Единой России» об отмене НДФЛ на возмещение расходов волонтёров на оплату медуслуг](https://cdn.er.ru/media/news/October2024/GcVGfNxGMYBZpnIijLFC-small.jpg)](https://er.ru/activity/news/gosduma-odobrila-v-pervom-chtenii-zakonoproekt-edinoj-rossii-ob-otmene-ndfl-na-vozmeshenie-rashodov-volontyorov-na-oplatu-meduslug)
 
@@ -337,15 +345,7 @@
 
 [#Чаплин](https://er.ru/activity/news?tags%5B0%5D=4512) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#НДФЛ](https://er.ru/activity/news?tags%5B0%5D=1219) [#медуслуги](https://er.ru/activity/news?tags%5B0%5D=94272)
 
-Сегодня 14:47
-
-[![«Единая Россия» и «Отцы России» вручили медали общественного признания «Отец солдата» и премии «Окопная свеча»](https://cdn.er.ru/media/news/October2024/ULypJVg61fIMnNZvLUun-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-otcy-rossii-vruchili-medali-obshestvennogo-priznaniya-otec-soldata-i-premii-okopnaya-svecha)
-
-[«Единая Россия» и «Отцы России» вручили медали общественного признания «Отец солдата» и премии «Окопная свеча»](https://er.ru/activity/news/edinaya-rossiya-i-otcy-rossii-vruchili-medali-obshestvennogo-priznaniya-otec-soldata-i-premii-okopnaya-svecha)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#ГероиРоссии](https://er.ru/activity/news?tags%5B0%5D=114262) [#Коченов](https://er.ru/activity/news?tags%5B0%5D=1095283) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#ДеньОтца](https://er.ru/activity/news?tags%5B0%5D=1092263) [#Цивилева](https://er.ru/activity/news?tags%5B0%5D=1095455) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633)
-
-Сегодня 13:20
+16.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
