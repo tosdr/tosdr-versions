@@ -259,29 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, October 16 2024](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI")](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
-
-Issac's family pictured with representatives from Burnfoot Community Centre handing over the cheque to Air Ambulance NI.
-
-[Home](https://www.derrynow.com/)
-
-[Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Stunning Irish coastal home with sensational sea views going for just €275k](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Stunning Irish coastal home with sensational sea views going for just €275k")](https://www.derrynow.com/news/property/1630763/pictures-stunning-irish-coastal-home-with-sensational-sea-views-going-for-just-275k.html)
-
-[Property](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: Stunning Irish coastal home with sensational sea views going for just €275k](https://www.derrynow.com/news/property/1630763/pictures-stunning-irish-coastal-home-with-sensational-sea-views-going-for-just-275k.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Filming taking place next to Derry Walls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Filming taking place next to Derry Walls")](https://www.derrynow.com/news/derry-news/1631755/netflix-series-being-filmed-in-derry.html)
 
 Filming taking place next to Derry Walls
@@ -291,14 +268,19 @@ Filming taking place next to Derry Walls
 [Netflix series being filmed in Derry](https://www.derrynow.com/news/derry-news/1631755/netflix-series-being-filmed-in-derry.html)
 ----------------------------------------------------------------------------------------------------------------------------------
 
-[![Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies")](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
 
-The mural in the Bogside labelling General Mike Jackson a war criminal
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, October 16 2024](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Number of road closues in Derry as emergency services attend gas leak](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Number of road closues in Derry as emergency services attend gas leak")](https://www.derrynow.com/news/local-news/1631786/number-of-road-closues-in-derry-as-emergency-services-attend-gas-leak.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Number of road closures in Derry as emergency services attend gas leak](https://www.derrynow.com/news/local-news/1631786/number-of-road-closues-in-derry-as-emergency-services-attend-gas-leak.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Donegal man pleads guilty to attempted sexual communication with a child](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man pleads guilty to attempted sexual communication with a child")](https://www.derrynow.com/news/local-news/1631479/donegal-man-pleads-guilty-to-attempted-sexual-communication-with-a-child.html)
 
@@ -307,30 +289,12 @@ The mural in the Bogside labelling General Mike Jackson a war criminal
 [Donegal man pleads guilty to attempted sexual communication with a child](https://www.derrynow.com/news/local-news/1631479/donegal-man-pleads-guilty-to-attempted-sexual-communication-with-a-child.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry hurling championship preview: Slaughtneil chase their 12th consecutive title](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry hurling championship preview: Slaughtneil chase their 12th consecutive title")](https://www.derrynow.com/news/gaa/1629609/derry-hurling-championship-preview-slaughtneil-chase-their-12th-consecutive-title.html)
+[![Oasis support acts for UK and Ireland reunion tour reportedly ‘confirmed’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Oasis support acts for UK and Ireland reunion tour reportedly ‘confirmed’")](https://www.derrynow.com/news/arts---entertainment/1631581/a-wasted-opportunity-mixed-reactions-as-oasis-support-acts-for-reunion-tour-revealed.html)
 
-[GAA](https://www.derrynow.com/section/1060/gaa)
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
 
-[Derry hurling championship preview: Slaughtneil chase their 12th consecutive title](https://www.derrynow.com/news/gaa/1629609/derry-hurling-championship-preview-slaughtneil-chase-their-12th-consecutive-title.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Gareth Cairns celebrating](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Gareth Cairns celebrating")](https://www.derrynow.com/news/county-derry-post/1630558/county-derry-man-completes-one-million-steps-challenge-for-national-charity-debra.html)
-
-Gareth Cairns celebrating
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[County Derry man completes one million steps challenge for national charity DEBRA](https://www.derrynow.com/news/county-derry-post/1630558/county-derry-man-completes-one-million-steps-challenge-for-national-charity-debra.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with posting menacing messages to the Mayor of Derry pleads not guilty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with posting menacing messages to the Mayor of Derry pleads not guilty")](https://www.derrynow.com/news/local-news/1631434/man-charged-with-posting-menacing-messages-to-the-mayor-of-derry-pleads-not-guilty.html)
-
-Mayor of Derry City and Strabane, Cllr Lillian Seenoi-Barr
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with posting menacing messages to the Mayor of Derry pleads not guilty](https://www.derrynow.com/news/local-news/1631434/man-charged-with-posting-menacing-messages-to-the-mayor-of-derry-pleads-not-guilty.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+['A wasted opportunity' - Mixed reactions as Oasis support acts for reunion tour ‘revealed’](https://www.derrynow.com/news/arts---entertainment/1631581/a-wasted-opportunity-mixed-reactions-as-oasis-support-acts-for-reunion-tour-revealed.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'")](https://www.derrynow.com/news/home/1631751/victim-of-garvagh-shooting-sustains-serious-and-potentially-life-changing-injuries.html)
 
@@ -341,11 +305,52 @@ The PSNI are appealing for information.
 [Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'](https://www.derrynow.com/news/home/1631751/victim-of-garvagh-shooting-sustains-serious-and-potentially-life-changing-injuries.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies")](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
+
+The mural in the Bogside labelling General Mike Jackson a war criminal
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI")](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
+
+Issac's family pictured with representatives from Burnfoot Community Centre handing over the cheque to Air Ambulance NI.
+
+[Home](https://www.derrynow.com/)
+
+[Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'")](https://www.derrynow.com/story-telling/pictures---videos/1476050/in-pictures-foyle-hospice-hosts-coffee-morning-for-hospice-care-week.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'](https://www.derrynow.com/story-telling/pictures---videos/1476050/in-pictures-foyle-hospice-hosts-coffee-morning-for-hospice-care-week.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with posting menacing messages to the Mayor of Derry pleads not guilty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with posting menacing messages to the Mayor of Derry pleads not guilty")](https://www.derrynow.com/news/local-news/1631434/man-charged-with-posting-menacing-messages-to-the-mayor-of-derry-pleads-not-guilty.html)
+
+Mayor of Derry City and Strabane, Cllr Lillian Seenoi-Barr
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with posting menacing messages to the Mayor of Derry pleads not guilty](https://www.derrynow.com/news/local-news/1631434/man-charged-with-posting-menacing-messages-to-the-mayor-of-derry-pleads-not-guilty.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![PICTURES: Hope Walk to Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Hope Walk to Guildhall")](https://www.derrynow.com/news/pictures---videos/1631339/pictures-hope-walk-to-guildhall-to-raise-awareness-around-suicide.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Hope Walk to Guildhall](https://www.derrynow.com/news/pictures---videos/1631339/pictures-hope-walk-to-guildhall-to-raise-awareness-around-suicide.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School")](https://www.derrynow.com/story-telling/pictures---videos/1631583/in-pictures-inaugural-match-marks-manchester-united-foundation-btec-diploma-course-at-st-josephs-boys-school.html)
 
@@ -409,15 +414,6 @@ Multimedia
 
 [PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
-
-Derry City fans at the Brandywell. Pics by Keith Moore, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[IN PICTURES: Derry City fans at the Brandywell](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,53 +515,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Number of road closues in Derry as emergency services attend gas leak](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Number of road closues in Derry as emergency services attend gas leak")](https://www.derrynow.com/news/local-news/1631786/number-of-road-closues-in-derry-as-emergency-services-attend-gas-leak.html)
+[![Plan your Walled City Trail experience in Derry this Halloween](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Plan your Walled City Trail experience in Derry this Halloween")](https://www.derrynow.com/news/local-news/1631847/plan-your-walled-city-trail-experience-in-derry-this-halloween.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Number of road closures in Derry as emergency services attend gas leak](https://www.derrynow.com/news/local-news/1631786/number-of-road-closues-in-derry-as-emergency-services-attend-gas-leak.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Plan your Walled City Trail experience in Derry this Halloween](https://www.derrynow.com/news/local-news/1631847/plan-your-walled-city-trail-experience-in-derry-this-halloween.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Filming taking place next to Derry Walls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Filming taking place next to Derry Walls")](https://www.derrynow.com/news/derry-news/1631755/netflix-series-being-filmed-in-derry.html)
+[![Increase in dog fouling at playing fields in Limavady leads council to remind dog owners to act responsibly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Increase in dog fouling at playing fields in Limavady leads council to remind dog owners to act responsibly")](https://www.derrynow.com/news/home/1631963/increase-in-dog-fouling-at-playing-fields-in-limavady-leads-council-to-remind-dog-owners-to-act-responsibly.html)
 
-Filming taking place next to Derry Walls
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Netflix series being filmed in Derry](https://www.derrynow.com/news/derry-news/1631755/netflix-series-being-filmed-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------
-
-[!['We do not consent' - Thousands take to the streets to protest new Public Health Bill](https://www.derrynow.com/resizer/165/93/true/2024_10_16/stethoscope-840125_1280-1729079100939.jpg--.jpg?1729079100965 "'We do not consent' - Thousands take to the streets to protest new Public Health Bill")](https://www.derrynow.com/news/home/1631652/we-do-not-consent-thousands-take-to-the-streets-to-protest-new-public-health-bill.html)
+Cleansing operatives have noted an increase in dog fouling at Roe Mill Playing Fields in Limavady.
 
 [Home](https://www.derrynow.com/)
 
-['We do not consent' - Thousands take to the streets to protest new Public Health Bill](https://www.derrynow.com/news/home/1631652/we-do-not-consent-thousands-take-to-the-streets-to-protest-new-public-health-bill.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Increase in dog fouling at playing fields in Limavady leads council to remind dog owners to act responsibly](https://www.derrynow.com/news/home/1631963/increase-in-dog-fouling-at-playing-fields-in-limavady-leads-council-to-remind-dog-owners-to-act-responsibly.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'")](https://www.derrynow.com/news/home/1631751/victim-of-garvagh-shooting-sustains-serious-and-potentially-life-changing-injuries.html)
+[![MSW Region Marks Missed Deal Heads of Terms Signing with a Message for UK Government: Lift the Pause on Our Growth](https://www.derrynow.com/resizer/165/93/true/2024_10_16/161024PM1_-_0014-1729094743045.JPG--.JPG?1729094744057 "MSW Region Marks Missed Deal Heads of Terms Signing with a Message for UK Government: Lift the Pause on Our Growth")](https://www.derrynow.com/news/home/1632067/msw-region-marks-missed-deal-heads-of-terms-signing-with-a-message-for-uk-government-lift-the-pause-on-our-growth.html)
 
-The PSNI are appealing for information.
-
-[Home](https://www.derrynow.com/)
-
-[Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'](https://www.derrynow.com/news/home/1631751/victim-of-garvagh-shooting-sustains-serious-and-potentially-life-changing-injuries.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Nationwide to host free face-to-face clinics for families affected by dementia in Coleraine](https://www.derrynow.com/resizer/165/93/true/2024_10_16/RS4085_2023_03_14_Dementia_UK_0665_lpr-1729074344501.jpg--.jpg?1729074344917 "Nationwide to host free face-to-face clinics for families affected by dementia in Coleraine")](https://www.derrynow.com/news/home/1631504/nationwide-to-host-free-face-to-face-clinics-for-families-affected-by-dementia-in-coleraine.html)
-
-Specialist dementia nurses, known as Admiral Nurses, will support families living with dementia in Coleraine.
+First Minister Michelle O’Neill, deputy First Minister Emma Little-Pengelly, Finance Minister Dr Caoimhe Archibald with Mid South West Region Growth Deal delivery partners.
 
 [Home](https://www.derrynow.com/)
 
-[Nationwide to host free face-to-face clinics for families affected by dementia in Coleraine](https://www.derrynow.com/news/home/1631504/nationwide-to-host-free-face-to-face-clinics-for-families-affected-by-dementia-in-coleraine.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[MSW Region Marks Missed Deal Heads of Terms Signing with a Message for UK Government: Lift the Pause on Our Growth](https://www.derrynow.com/news/home/1632067/msw-region-marks-missed-deal-heads-of-terms-signing-with-a-message-for-uk-government-lift-the-pause-on-our-growth.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Donegal man pleads guilty to attempted sexual communication with a child](https://www.derrynow.com/resizer/165/93/true/2024_10_16/IMG-20241016-WA0001-1729075490601.jpg--.jpg?1729075490629 "Donegal man pleads guilty to attempted sexual communication with a child")](https://www.derrynow.com/news/local-news/1631479/donegal-man-pleads-guilty-to-attempted-sexual-communication-with-a-child.html)
+[![County Derry man suffered panic attack after taking cocaine and handed himself into police](https://www.derrynow.com/resizer/165/93/true/2024_10_16/image_123650291_%2859%29-1729091608612_1729091680.JPG--.JPG?1729091680904 "County Derry man suffered panic attack after taking cocaine and handed himself into police")](https://www.derrynow.com/news/home/1631987/county-derry-man-suffered-panic-attack-after-taking-cocaine-and-handed-himself-into-police.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+The defendant attended Magherafelt PSNI station seeking assistance.
 
-[Donegal man pleads guilty to attempted sexual communication with a child](https://www.derrynow.com/news/local-news/1631479/donegal-man-pleads-guilty-to-attempted-sexual-communication-with-a-child.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
+
+[County Derry man suffered panic attack after taking cocaine and handed himself into police](https://www.derrynow.com/news/home/1631987/county-derry-man-suffered-panic-attack-after-taking-cocaine-and-handed-himself-into-police.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry artist SOAK features in lineup for Other Voices: Home at The Guinness Storehouse](https://www.derrynow.com/resizer/165/93/true/2024_10_16/MixCollage-16-Oct-2024-03-00-PM-328-1729087379285.jpg--.jpg?1729087379340 "Derry artist SOAK features in lineup for Other Voices: Home at The Guinness Storehouse")](https://www.derrynow.com/news/what-s-on/1631891/derry-artist-soak-features-in-lineup-for-other-voices-home-at-the-guinness-storehouse.html)
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[Derry artist SOAK features in lineup for Other Voices: Home at The Guinness Storehouse](https://www.derrynow.com/news/what-s-on/1631891/derry-artist-soak-features-in-lineup-for-other-voices-home-at-the-guinness-storehouse.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Calling all singers: Vocal health workshop to be held in Draperstown](https://www.derrynow.com/resizer/165/93/true/2024_10_16/CDP_-_15-10-24_-_Page_4_offlead_1_pic-1729094142396.jpg--.jpg?1729094142512 "Calling all singers: Vocal health workshop to be held in Draperstown")](https://www.derrynow.com/news/home/1632057/calling-all-singers-vocal-health-workshop-to-be-held-in-draperstown.html)
+
+The event will be led by the electrifying duo from Vokxen.
+
+[Home](https://www.derrynow.com/)
+
+[Calling all singers: Vocal health workshop to be held in Draperstown](https://www.derrynow.com/news/home/1632057/calling-all-singers-vocal-health-workshop-to-be-held-in-draperstown.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
