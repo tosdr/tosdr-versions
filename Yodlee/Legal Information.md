@@ -649,6 +649,7 @@ More
 * [Business Continuity](https://www.envestnet.com/business-continuity)
 * [Security](https://www.yodlee.com/legal/yodlee-security)
 * [Website Terms of Use](https://www.yodlee.com/legal/terms-of-use)
+* [Credit Inquiry](https://credit.support.yodlee.com/#/credit-inquiry-form)
 
 [North America](#)
 
