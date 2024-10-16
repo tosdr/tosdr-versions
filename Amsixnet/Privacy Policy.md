@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-8.474 Tb/s
+12.579 Tb/s
 
 Peak
 
@@ -71,15 +71,15 @@ Powered by AMS-IX
 Privacy Policy
 --------------
 
-* [AMS-IX Privacy Statement](#section-18106016)
+* [AMS-IX Privacy Statement](#section-19769770)
     
 * [A brief summary of our privacy and cookie statement](#section-18106017)
     
-* [For which purpose do we process your personal data?](#section-18106018)
+* [For which purpose do we process your personal data?](#section-19769771)
     
-* [When can we share your personal data with third parties?](#section-18106019)
+* [When can we share your personal data with third parties?](#section-19769772)
     
-* [Is your personal data secured?](#section-18106020)
+* [Is your personal data secured?](#section-19769773)
     
 * [Cookies](#section-18106021)
     
@@ -97,7 +97,7 @@ AMS-IX Privacy Statement
 
 This privacy statement was last updated on 16th May 2024 (version: 1.0)
 
-When you visit our [Website](https://www.ams-ix.net/), your privacy and the protection of your personal data is of great importance to Amsterdam Internet Exchange B.V. (hereinafter: “AMS-IX”). We therefore adhere to the General Data Protection Regulation (GDPR).
+When you visit our [Website](https://www.ams-ix.net/ams), your privacy and the protection of your personal data is of great importance to Amsterdam Internet Exchange B.V. (hereinafter: “AMS-IX”). We therefore adhere to the General Data Protection Regulation (GDPR).
 
 A brief summary of our privacy and cookie statement
 ---------------------------------------------------
@@ -122,11 +122,11 @@ When you contact us by email or through our contact form, or contact us in any o
 * Phone number
 * Any information that you enter as the title and content of a message
 
-We store your data for as long as necessary for this contact request or for a maximum of 2 year after we last had contact with you, so that we can better handle your future contact requests.**  
-  
-Newsletter**  
-  
-If you want to stay informed about new services, you can subscribe to the AMS-IX newsletter, which we will mail monthly at most. In the newsletter you can read news, tips, and information about our products and services. We only register your e-mail address and only send the newsletter with your permission. We will keep your e-mail address until you unsubscribe from the AMS-IX [Website](https://www.ams-ix.net/) newsletter. In every newsletter you receive, it is possible to unsubscribe via a link in the mail.
+We store your data for as long as necessary for this contact request or for a maximum of 2 year after we last had contact with you, so that we can better handle your future contact requests.
+
+**Newsletter**
+
+If you want to stay informed about new services, you can subscribe to the AMS-IX newsletter, which we will mail monthly at most. In the newsletter you can read news, tips, and information about our products and services. We only register your e-mail address and only send the newsletter with your permission. We will keep your e-mail address until you unsubscribe from the AMS-IX Website newsletter. In every newsletter you receive, it is possible to unsubscribe via a link in the mail.
 
 **AMS-IX LinkedIn Lead Generation Campaigns**
 
@@ -141,7 +141,7 @@ You can withdraw your consent at any time, by pressing the unsubscribe button in
 When can we share your personal data with third parties?
 --------------------------------------------------------
 
-The AMS-IX [Website](https://www.ams-ix.net/) will only share your information with third parties if this is permitted on the basis of current legislation. Specifically for the purpose of the sale of the products via the AMS-IX [Website](https://www.ams-ix.net/), we will share your information with our Partner. We may provide your personal data to third parties, including but not limited to our partner, because:
+The AMS-IX [Website](https://www.ams-ix.net/ams) will only share your information with third parties if this is permitted on the basis of current legislation. Specifically for the purpose of the sale of the products via the AMS-IX [Website](https://www.ams-ix.net/ams), we will share your information with our Partner. We may provide your personal data to third parties, including but not limited to our partner, because:
 
 * We have engaged them to process certain data;
 * That is necessary to execute the agreement with you;
@@ -157,12 +157,12 @@ The parties that process personal data on our or your behalf are:
 * Transport providers
 * Marketing companies
 
-The AMS-IX [Website](https://www.ams-ix.net/) can transfer your personal data to countries outside the European Economic Area (EEA). This transfer takes place when handling your booking or taking care of your trip or because our group companies, partners or service providers provide their services from those countries. The AMS-IX [Website](https://www.ams-ix.net/) provides for appropriate safeguards to protect your privacy if necessary. This means, for example, that the AMS-IX [Website](https://www.ams-ix.net/) uses model contract provisions approved by the European Commission to make agreements about how to handle your personal data.
+The AMS-IX [Website](https://www.ams-ix.net/ams) can transfer your personal data to countries outside the European Economic Area (EEA). This transfer takes place when handling your booking or taking care of your trip or because our group companies, partners or service providers provide their services from those countries. The AMS-IX [Website](https://www.ams-ix.net/ams) provides for appropriate safeguards to protect your privacy if necessary. This means, for example, that the AMS-IX [Website](https://www.ams-ix.net/ams) uses model contract provisions approved by the European Commission to make agreements about how to handle your personal data.
 
 Is your personal data secured?
 ------------------------------
 
-AMS-IX [Website](https://www.ams-ix.net/) takes appropriate technical and organizational measures with regard to the processing of personal data, against loss or against any form of unlawful processing (such as unauthorized access, encroachment, alteration or provision of personal data).
+AMS-IX [Website](https://www.ams-ix.net/ams) takes appropriate technical and organizational measures with regard to the processing of personal data, against loss or against any form of unlawful processing (such as unauthorized access, encroachment, alteration or provision of personal data).
 
 Cookies
 -------
