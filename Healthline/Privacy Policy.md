@@ -214,6 +214,9 @@ Subscribe
 Privacy Policy
 ==============
 
+**Resource not available**  
+We're unable to show some of our resources at this time. We're sorry for any inconvenience.
+
 * [About Us](https://www.healthline.com/about)
 * [Contact Us](https://www.healthline.com/about/contact-us)
 * [Terms of Use](https://www.healthline.com/terms-of-use)
