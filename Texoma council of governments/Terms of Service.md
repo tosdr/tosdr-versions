@@ -150,6 +150,18 @@ Oct 17
 
 Sherman
 
+Oct 29
+
+1:00 pm - 2:30 pm
+
+### [Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs](https://tcog.com/event/webinar-training-on-new-annual-reporting-requirements-for-generators-and-lrputs/ "Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs")
+
+Nov 12
+
+12:30 pm - 2:00 pm
+
+### [Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs](https://tcog.com/event/webinar-training-on-new-annual-reporting-requirements-for-generators-and-lrputs-2/ "Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs")
+
 Nov 14
 
 4:00 pm - 5:30 pm [Event Series](https://tcog.com/series/audit-and-finance-committee/ "Event Series")
