@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Biden Admin Urges Israel to Improve Gaza’s Humanitarian Situation](https://www.theepochtimes.com/world/biden-admin-letter-urges-israel-to-improve-gaza-humanitarian-situation-5741796)
+    
+    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Biden Admin Urges Israel to Improve Gaza’s Humanitarian Situation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Admin Urges Israel to Improve Gaza’s Humanitarian Situation](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729079-GettyImages-2173386720-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-admin-letter-urges-israel-to-improve-gaza-humanitarian-situation-5741796)
+* [Walz Unveils Harris’s Plans for Rural Voters in Battleground Pennsylvania Rally](https://www.theepochtimes.com/us/walz-unveils-harriss-plans-for-rural-voters-in-battleground-pennsylvania-rally-5741929)
+    
+    5hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Walz Unveils Harris’s Plans for Rural Voters in Battleground Pennsylvania Rally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Walz Unveils Harris’s Plans for Rural Voters in Battleground Pennsylvania Rally](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742067-Tim-Walz_2-205x123.jpg.webp)](https://www.theepochtimes.com/us/walz-unveils-harriss-plans-for-rural-voters-in-battleground-pennsylvania-rally-5741929)
+* [Georgians Flock to Polling Locations as Early In-Person Voting Opens](https://www.theepochtimes.com/us/georgians-flock-to-polling-locations-as-early-in-person-voting-opens-5741943)
+    
+    5hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    
+    [![Georgians Flock to Polling Locations as Early In-Person Voting Opens](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Georgians Flock to Polling Locations as Early In-Person Voting Opens](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5742045-Georgia-early-voting-GettyImages-2177860144-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgians-flock-to-polling-locations-as-early-in-person-voting-opens-5741943)
 * [Day in Photos: Defamation Lawsuit, Rain Havoc, and Egyptian Mega-Museum](https://www.theepochtimes.com/article/day-in-photos-defamation-lawsuit-rain-havoc-and-egyptian-mega-museum-5741646)
     
-    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Defamation Lawsuit, Rain Havoc, and Egyptian Mega-Museum](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Defamation Lawsuit, Rain Havoc, and Egyptian Mega-Museum](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741982-GettyImages-2177858728-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-defamation-lawsuit-rain-havoc-and-egyptian-mega-museum-5741646)
 * [Russia, China Enlist Cyber Gangs to Target US and Allies: Microsoft](https://www.theepochtimes.com/us/russia-china-enlist-cyber-gangs-to-target-us-and-allies-microsoft-5741801)
     
-    NEW By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    7hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
     [![Russia, China Enlist Cyber Gangs to Target US and Allies: Microsoft](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Russia, China Enlist Cyber Gangs to Target US and Allies: Microsoft](https://img.theepochtimes.com/assets/uploads/2020/09/28/Cyberattack-205x123.jpg.webp)](https://www.theepochtimes.com/us/russia-china-enlist-cyber-gangs-to-target-us-and-allies-microsoft-5741801)
+    ![Russia, China Enlist Cyber Gangs to Target US and Allies: Microsoft](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5742021-CyberattackKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/russia-china-enlist-cyber-gangs-to-target-us-and-allies-microsoft-5741801)
 * [California Immigration Services Executives Face Charges for Alleged Asylum Applications Scam](https://www.theepochtimes.com/china/california-immigration-services-executives-face-charges-for-alleged-asylum-applications-scam-5741747)
     
-    1hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    7hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
     [![California Immigration Services Executives Face Charges for Alleged Asylum Applications Scam](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![California Immigration Services Executives Face Charges for Alleged Asylum Applications Scam](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741750-GettyImages-1340939095-205x123.jpg.webp)](https://www.theepochtimes.com/china/california-immigration-services-executives-face-charges-for-alleged-asylum-applications-scam-5741747)
 * [5 Key Exercises to Keep Your 40s From Feeling Like Middle Age](https://www.theepochtimes.com/health/5-key-exercises-to-keep-your-40s-from-feeling-like-middle-age-5696158)
     
-    1hr By [Kevin Shelley](https://www.theepochtimes.com/expert/kevin-shelley)
+    7hr By [Kevin Shelley](https://www.theepochtimes.com/expert/kevin-shelley)
     
     [![5 Key Exercises to Keep Your 40s From Feeling Like Middle Age](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![5 Key Exercises to Keep Your 40s From Feeling Like Middle Age](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741666-GettyImages-170872791-205x123.jpg.webp)](https://www.theepochtimes.com/health/5-key-exercises-to-keep-your-40s-from-feeling-like-middle-age-5696158)
 * [Appeals Court Allows Texas to Continue Investigations Into Vote Harvesting](https://www.theepochtimes.com/us/appeals-court-allows-texas-to-continue-investigations-into-vote-harvesting-5741790)
     
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Appeals Court Allows Texas to Continue Investigations Into Vote Harvesting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Appeals Court Allows Texas to Continue Investigations Into Vote Harvesting](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719613-texas-mail-in-ballot-2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-allows-texas-to-continue-investigations-into-vote-harvesting-5741790)
-* [Your Skin Color May Affect How Well Your Medications Work: Researchers](https://www.theepochtimes.com/health/your-skin-color-may-affect-how-well-your-medications-work-researchers-5741319)
-    
-    2hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
-    
-    [![Your Skin Color May Affect How Well Your Medications Work: Researchers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Your Skin Color May Affect How Well Your Medications Work: Researchers](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741915-shutterstock_2284293867-2Converted-205x123.jpg.webp)](https://www.theepochtimes.com/health/your-skin-color-may-affect-how-well-your-medications-work-researchers-5741319)
 * [North Carolina’s Mark Robinson Sues CNN Over Article About Porn Forum Comments](https://www.theepochtimes.com/business/north-carolinas-mark-robinson-sues-cnn-over-article-about-porn-forum-comments-5741853)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![North Carolina’s Mark Robinson Sues CNN Over Article About Porn Forum Comments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![North Carolina’s Mark Robinson Sues CNN Over Article About Porn Forum Comments](https://img.theepochtimes.com/assets/uploads/2024/03/03/id5599472-Mark-Robinson-CPAC-DALLAS5325-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/north-carolinas-mark-robinson-sues-cnn-over-article-about-porn-forum-comments-5741853)
 * [More Than 5 Million Have Voted So Far Across the US: Here’s the Breakdown](https://www.theepochtimes.com/us/more-than-5-million-have-voted-so-far-across-the-us-heres-the-breakdown-5741743)
     
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    9hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![More Than 5 Million Have Voted So Far Across the US: Here’s the Breakdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![More Than 5 Million Have Voted So Far Across the US: Here’s the Breakdown](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732688-early-voting-GettyImages-2172455611-205x123.jpg.webp)](https://www.theepochtimes.com/us/more-than-5-million-have-voted-so-far-across-the-us-heres-the-breakdown-5741743)
-* [Trump Cuts Pennsylvania Town Hall Short After 2 People Collapse](https://www.theepochtimes.com/us/trump-cuts-pennsylvania-town-hall-short-after-2-people-collapse-5741644)
-    
-    4hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
-    
-    [![Trump Cuts Pennsylvania Town Hall Short After 2 People Collapse](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Cuts Pennsylvania Town Hall Short After 2 People Collapse](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741732-10142024-DSC04467-Kristi-Noem-Donald-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-cuts-pennsylvania-town-hall-short-after-2-people-collapse-5741644)
-* [Georgia Judge Rules County Officials Can’t Delay, Decline to Certify Election Results](https://www.theepochtimes.com/us/georgia-judge-rules-county-officials-cant-delay-decline-to-certify-election-results-5741692)
-    
-    6hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![Georgia Judge Rules County Officials Can’t Delay, Decline to Certify Election Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Georgia Judge Rules County Officials Can’t Delay, Decline to Certify Election Results](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741788-mcburney-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-rules-county-officials-cant-delay-decline-to-certify-election-results-5741692)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
