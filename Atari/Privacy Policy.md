@@ -252,9 +252,7 @@ Apparel & Collectibles
     
     [Home & Office](https://www.atari.com/collections/home-goods)
     
-    [Artwork](https://www.atari.com/collections/artovision-dimensional-artworks)
-    
-    [Lifestyle](https://www.atari.com/collections/lifestyle)
+    [Artwork](https://www.atari.com/collections/artwork)
 
 [Shop Accessories](https://www.atari.com/collections/apparel-accessories)
 
@@ -298,9 +296,7 @@ ACCESSORIES
     
     [Home & Office](https://www.atari.com/collections/home-goods)
     
-    [Artwork](https://www.atari.com/collections/artovision-dimensional-artworks)
-    
-    [Lifestyle](https://www.atari.com/collections/lifestyle)
+    [Artwork](https://www.atari.com/collections/artwork)
 
 [Shop Accessories](https://www.atari.com/collections/apparel-accessories)
 
