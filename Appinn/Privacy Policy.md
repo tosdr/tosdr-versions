@@ -165,23 +165,23 @@
     
     9 月 17, 2024 2
     
-* [![为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能 8](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-19T161939.974-115x115.jpg "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能 8")](https://www.appinn.com/winrar-7zip-mini-tips/ "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能")
+* [![用诞生 53 年的 FTP 协议分享文件：2 款 FTP 服务器工具[Windows] 8](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-13T201642.817-115x115.jpg "用诞生 53 年的 FTP 协议分享文件：2 款 FTP 服务器工具[Windows] 8")](https://www.appinn.com/two-ftp-server-tools/ "用诞生 53 年的 FTP 协议分享文件：2 款 FTP 服务器工具[Windows]")
+    
+    [用诞生 53 年的 FTP 协议分享文件：2 款 FTP …](https://www.appinn.com/two-ftp-server-tools/ "用诞生 53 年的 FTP 协议分享文件：2 款 FTP 服务器工具[Windows]")
+    
+    10 月 13, 2024 1
+    
+* [![为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能 9](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-19T161939.974-115x115.jpg "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能 9")](https://www.appinn.com/winrar-7zip-mini-tips/ "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能")
     
     [为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能](https://www.appinn.com/winrar-7zip-mini-tips/ "为 WinRAR 和 7-Zip 添加智能解压，及自动记忆压缩密码功能")
     
     9 月 19, 2024 1
     
-* [![SkylineWebcams - 来自 60 多个国家、热门旅游地点的高清实况摄像头 9](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-15T164624.038-115x115.jpg "SkylineWebcams - 来自 60 多个国家、热门旅游地点的高清实况摄像头 9")](https://www.appinn.com/skylinewebcams/ "SkylineWebcams – 来自 60 多个国家、热门旅游地点的高清实况摄像头")
+* [![Just (Video) Player - 安卓开源视频播放器 10](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-14T154415.982-115x115.jpg "Just (Video) Player - 安卓开源视频播放器 10")](https://www.appinn.com/just-video-player/ "Just (Video) Player – 安卓开源视频播放器")
     
-    [SkylineWebcams – 来自 60 多个国家、热门旅游地点的高清实况摄像头](https://www.appinn.com/skylinewebcams/ "SkylineWebcams – 来自 60 多个国家、热门旅游地点的高清实况摄像头")
+    [Just (Video) Player – 安卓开源视频播放器](https://www.appinn.com/just-video-player/ "Just (Video) Player – 安卓开源视频播放器")
     
-    9 月 15, 2024 0
-    
-* [![Look Scanned 发布专业版，可批量将 PDF 转换成扫描样式｜看起来很旧、像纸那种 10](https://www.appinn.com/wp-content/uploads/2022/05/look-scanned.jpgo_-115x115.jpg "Look Scanned 发布专业版，可批量将 PDF 转换成扫描样式｜看起来很旧、像纸那种 10")](https://www.appinn.com/look-scanned-pro/ "Look Scanned 发布专业版，可批量将 PDF 转换成扫描样式｜看起来很旧、像纸那种")
-    
-    [Look Scanned 发布专业版，可批量将 PDF 转换成扫描样式｜看起来很旧、像纸那种](https://www.appinn.com/look-scanned-pro/ "Look Scanned 发布专业版，可批量将 PDF 转换成扫描样式｜看起来很旧、像纸那种")
-    
-    10 月 12, 2024 0
+    10 月 14, 2024 1
     
 
 ### 分类
