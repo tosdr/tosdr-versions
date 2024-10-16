@@ -29,7 +29,7 @@
     * [Information Security](https://www.filamentsecurity.org/)
 * [Resources](#)
     * [Free Resource Hub](https://www.filamentservices.org/free-resource-hub/)
-    * [Nonprofit Health Audit](https://www.filamentservices.org/nonprofit-health-audit/)
+    * [Nonprofit Health Check](https://www.filamentservices.org/nonprofit-health-check/)
     * [Blog](https://www.filamentservices.org/blog/)
 * [About](https://www.filamentservices.org/about/)
     * [News](https://www.filamentservices.org/news/)
@@ -116,7 +116,7 @@ Lincoln, NE 68508
 #### Resources
 
 * [Free Resource Hub](https://www.filamentservices.org/free-resource-hub/)
-* [Nonprofit Health Audit](https://www.filamentservices.org/nonprofit-health-audit/)
+* [Nonprofit Health Check](https://www.filamentservices.org/nonprofit-health-check/)
 * [Blog](https://www.filamentservices.org/blog/)
 
 * [Facebook](https://www.facebook.com/filamentsvcs)
