@@ -1,4 +1,10 @@
-                [![Pingperfect Logo](https://pingperfect.com/img/Logo.webp)](https://pingperfect.com/)
+      Cookie Consent by [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/)
+
+⬆️
+
+[🍪](#)           
+
+[![Pingperfect Logo](https://pingperfect.com/img/Logo.webp)](https://pingperfect.com/)
 
 * [HOME](https://pingperfect.com/)
 * [BLOG](https://blog.pingperfect.com/)
