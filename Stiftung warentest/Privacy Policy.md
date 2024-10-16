@@ -806,21 +806,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
+* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
+* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
 
 Fußbereich
 
@@ -3840,59 +3840,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
+* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
+* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
+* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
+* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
 
 Neueste Tests
 
+* [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
+* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
+* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
 
 Service Stiftung Warentest
 
