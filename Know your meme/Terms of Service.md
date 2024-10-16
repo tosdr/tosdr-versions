@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy") [I Can't See the Movie I Want](https://knowyourmeme.com/memes/i-cant-see-the-movie-i-want-because-netflix-removed-it "I Can't See the Movie I Want") [Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks") [Skyla (Pokemon)](https://knowyourmeme.com/memes/skyla-pokemon "Skyla (Pokemon)")
+[Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy") [Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks") [Skyla (Pokemon)](https://knowyourmeme.com/memes/skyla-pokemon "Skyla (Pokemon)")
 
 Terms of Service and Use
 ========================
