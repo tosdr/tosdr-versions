@@ -12,7 +12,7 @@ TERMS OF SERVICE
 
 #### 1\. Parties and Binding Online Terms and Conditions
 
-Please read these PrivateStorage Online Platform Terms and Conditions (“Terms,”) carefully before using our website https://private.storage/ and/or any of our applications contained therein (and/or any of our online services, whether accessed through our website or otherwise, any of the foregoing services, the “Service”) operated by PrivateStorage.io Inc. (“PS”, “us”, “we”, or “our”). These Terms by and between PS and you, the person or entity accessing and/or using our Service, or otherwise downloading our application (“you,” “your”).
+Please read these PrivateStorage Online Platform Terms and Conditions (“Terms,”) carefully before using our website [https://private.storage/](https://private.storage/) and/or any of our applications contained therein (and/or any of our online services, whether accessed through our website or otherwise, any of the foregoing services, the “Service”) operated by PrivateStorage.io Inc. (“PS”, “us”, “we”, or “our”). These Terms by and between PS and you, the person or entity accessing and/or using our Service, or otherwise downloading our application (“you,” “your”).
 
 Your access to and use of the Service is conditioned upon your acceptance of and compliance with these Terms. The Service, and the information contained on or through the Service, may be accessed only by, as applicable persons who have been authorized by PS to use the Service pursuant to these Terms (an “Authorized User”). By using the Services or selecting agree button when you purchase storage-time, you represent that you are an Authorized User and that you accept these Terms and agree to be bound by them.
 
