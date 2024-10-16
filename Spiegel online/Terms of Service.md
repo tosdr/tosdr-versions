@@ -365,11 +365,10 @@ SPIEGEL Gruppe
 * [SPIEGEL TV](https://tv.spiegel.de/ "SPIEGEL TV")
 * [RSS-Feed](https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-so-funktioniert-rss-a-1040321.html "RSS-Feed")
 
-* [SPIEGEL Media](https://www.spiegelgruppe.de/spiegel-media "SPIEGEL Media") Menü SPIEGEL Media aufklappen
+* [SPIEGEL Media](https://gruppe.spiegel.de/spiegel-media "SPIEGEL Media") Menü SPIEGEL Media aufklappen
     * [MANUFAKTUR](https://manufaktur.spiegel.de/ "MANUFAKTUR")
-    * [Partner-Management](https://gruppe.spiegel.de/spiegel-media/spiegel-media-bereiche/partner-management "Partner-Management")
-    * [Sales Solutions](https://gruppe.spiegel.de/spiegel-media/spiegel-media-bereiche "Sales Solutions")
-    * [Programmatic Advertising](https://gruppe.spiegel.de/spiegel-media/spiegel-media-bereiche/programmatic "Programmatic Advertising")
+    * [Affiliate & Integrations](https://gruppe.spiegel.de/spiegel-media/bereiche/affiliate-und-integrations "Affiliate & Integrations")
+    * [Media Products](https://gruppe.spiegel.de/spiegel-media/bereiche/media-products "Media Products")
 
 * [SPIEGEL Ed](https://ed.spiegel.de/ "SPIEGEL Ed")
 * [SPIEGEL Akademie](https://akademie.spiegel.de/ "SPIEGEL Akademie")
