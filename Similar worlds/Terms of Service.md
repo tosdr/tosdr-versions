@@ -136,7 +136,7 @@ Termination
 
 Anonymous or Fictional Profiles
 
-A profile is considered Anonymous or Fictional if its name, profile photo and personal information do not belong to the owner of the account. The profile must not impersonate another person. If the fictional profile contains photos belonging to another person, any descriptions in the photos and in the profile must be explicit that the person in the photos is not the owner of the account. The owner of the account must not post another person's photos unless they have the consent and authorization of the person in those photos.
+A profile is considered Anonymous or Fictional if its name, profile picture and personal information do not belong to the owner of the account. The profile must not impersonate another person. If the fictional profile contains photos belonging to another person, any descriptions in the photos and in the profile must be explicit that the person in the photos is not the owner of the account. The owner of the account must not post another person's photos unless they have the consent and authorization of the person in those photos.
 
 Content Rating Levels
 
