@@ -15,56 +15,64 @@
     
     Trending
     
-    * [European Union](https://www.euronews.com/tag/european-union)
-    * [France](https://www.euronews.com/tag/france)
-    * [Hurricanes](https://www.euronews.com/tag/hurricanes)
-    * [Exhibition](https://www.euronews.com/tag/exhibition)
+    * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
+    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
+    * [Russia](https://www.euronews.com/tag/russia)
+    * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
+    * [Music](https://www.euronews.com/tag/music)
     
     * * *
     
     Latest stories
     
-    [![Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.")
+    [![From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs")
     
-    ![Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.](https://static.euronews.com/articles/stories/08/77/95/06/368x207_cmsv2_82d18232-a42c-5e8c-997f-a286a53d2040-8779506.jpg "Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.")](https://www.euronews.com/my-europe/2024/10/09/viktor-orban-and-ursula-von-der-leyen-clash-in-fiery-debate-at-european-parliament)
+    ![From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs](https://static.euronews.com/articles/stories/08/75/81/48/368x207_cmsv2_82080e50-aff8-57b5-8d9c-39852ce3b487-8758148.jpg "From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs")
     
-    Now playing Next
+    ![Photo Gallery](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2021%2021'%3E%3C/svg%3E)
     
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [Orbán and von der Leyen clash in fiery parliamentary debate](https://www.euronews.com/my-europe/2024/10/09/viktor-orban-and-ursula-von-der-leyen-clash-in-fiery-debate-at-european-parliament)
-    
-    [![Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris")
-    
-    ![Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris](https://static.euronews.com/articles/stories/08/77/96/78/368x207_cmsv2_c5c9572c-1db7-5cb4-bbfd-4e0c90829e04-8779678.jpg "Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris")](https://www.euronews.com/my-europe/2024/10/09/emmanuel-macron-to-meet-ukrainian-troops-training-at-french-military-camp)
+    ![Photo Gallery](https://static.euronews.com/website/images/vector/camera.svg)](https://www.euronews.com/business/2024/10/16/from-japan-to-european-tables-how-sake-wagyu-and-seaweed-seduced-michelin-starred-chefs)
     
     Now playing Next
     
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    [Business Series](https://www.euronews.com/business/business-series)
     
-    ### [Emmanuel Macron to meet Ukrainian troops training at French camp](https://www.euronews.com/my-europe/2024/10/09/emmanuel-macron-to-meet-ukrainian-troops-training-at-french-military-camp)
+    ### [How Sake, Wagyu and Seaweed won over Michelin-starred chefs](https://www.euronews.com/business/2024/10/16/from-japan-to-european-tables-how-sake-wagyu-and-seaweed-seduced-michelin-starred-chefs)
     
-    [![The FTSE Russell is part of the LSEG group](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The FTSE Russell is part of the LSEG group")
+    In partnership with **JFOODO**
     
-    ![The FTSE Russell is part of the LSEG group](https://static.euronews.com/articles/stories/08/77/97/56/368x207_cmsv2_20f41b0f-e71d-5c3c-af75-290b75168648-8779756.jpg "The FTSE Russell is part of the LSEG group")](https://www.euronews.com/business/2024/10/09/ftse-russell-to-include-south-korean-and-indian-government-bonds)
+    [![A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015")
+    
+    ![A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015](https://static.euronews.com/articles/stories/08/79/43/10/368x207_cmsv2_a12944d2-a98e-51af-9195-f57a073c1667-8794310.jpg "A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015")](https://www.euronews.com/business/2024/10/16/where-to-look-for-top-performing-european-stocks-as-interest-rates-drop)
     
     Now playing Next
     
     [Markets](https://www.euronews.com/business/markets)
     
-    ### [FTSE Russell to include South Korean and Indian government bonds](https://www.euronews.com/business/2024/10/09/ftse-russell-to-include-south-korean-and-indian-government-bonds)
+    ### [Where to look for top-performing European stocks as interest rates dip](https://www.euronews.com/business/2024/10/16/where-to-look-for-top-performing-european-stocks-as-interest-rates-drop)
     
-    [![The aquarium evacuates its animals in the face of Hurricane Milton](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The aquarium evacuates its animals in the face of Hurricane Milton")
+    [![Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ")
     
-    ![The aquarium evacuates its animals in the face of Hurricane Milton](https://static.euronews.com/articles/stories/08/77/95/22/368x207_cmsv2_80ad94ea-6405-51f7-9405-3abb345fcfaa-8779522.jpg "The aquarium evacuates its animals in the face of Hurricane Milton")](https://www.euronews.com/video/2024/10/09/aquarium-animals-relocated-as-florida-prepares-for-hurricane-milton)
+    ![Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ](https://static.euronews.com/articles/stories/08/79/41/02/368x207_cmsv2_213fe7f6-3dd1-53fc-9b9b-c56ffe7f5519-8794102.jpg "Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ")](https://www.euronews.com/business/2024/10/16/tesla-gets-go-ahead-to-expand-controversial-factory-in-germany)
     
     Now playing Next
     
-    [No Comment](https://www.euronews.com/nocomment)
+    [Business](https://www.euronews.com/business/business)
     
-    ### [Aquarium animals relocated as Florida prepares for Hurricane Milton](https://www.euronews.com/video/2024/10/09/aquarium-animals-relocated-as-florida-prepares-for-hurricane-milton)
+    ### [Tesla gets go-ahead for controversial factory expansion in Germany](https://www.euronews.com/business/2024/10/16/tesla-gets-go-ahead-to-expand-controversial-factory-in-germany)
+    
+    [![Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures")
+    
+    ![Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures](https://static.euronews.com/articles/stories/08/75/56/92/368x207_cmsv2_a24d9ad5-9636-5c74-a134-1fab317812ce-8755692.jpg "Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures")](https://www.euronews.com/travel/2024/10/16/exploring-marrakech-golfing-at-assoufid-and-al-maaden-culinary-delights-and-nightlife-adve)
+    
+    Now playing Next
+    
+    [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
+    
+    ### [Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures](https://www.euronews.com/travel/2024/10/16/exploring-marrakech-golfing-at-assoufid-and-al-maaden-culinary-delights-and-nightlife-adve)
+    
+    In partnership with **Visit Morocco**
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -77,9 +85,7 @@
     
     Programmes
     
-    * [Unreported Europe](https://www.euronews.com/my-europe/my-europe-series/unreported-europe)
     * [Brussels, My Love?](https://www.euronews.com/my-europe/europe-decoded/brussels-my-love)
-    * [Uncovering Europe](https://www.euronews.com/my-europe/my-europe-series/uncovering-europe)
     * [State Of The Union](https://www.euronews.com/my-europe/my-europe-series/state-of-the-union)
     * [Smart Regions](https://www.euronews.com/my-europe/my-europe-series/smart-regions)
     
@@ -167,7 +173,7 @@
         
         The Big Question
         
-        From entrepreneurs to world leaders and academics, we discuss what makes them tick and see the bigger picture of what’s going on in the world of business.](https://www.euronews.com/business/business-series/the-big-question)
+        Deep dive conversations with business leaders](https://www.euronews.com/business/business-series/the-big-question)
     
 * [Euroviews](https://www.euronews.com/tag/euroviews)
 * [Next](https://www.euronews.com/next)
@@ -357,62 +363,70 @@ Close menu sidebar
 
 Trending
 
-* [European Union](https://www.euronews.com/tag/european-union)
-* [France](https://www.euronews.com/tag/france)
-* [Hurricanes](https://www.euronews.com/tag/hurricanes)
-* [Exhibition](https://www.euronews.com/tag/exhibition)
+* [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
+* [Donald Trump](https://www.euronews.com/tag/donald-trump)
+* [Russia](https://www.euronews.com/tag/russia)
+* [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
+* [Music](https://www.euronews.com/tag/music)
 
 * * *
 
 Latest stories
 
-[![Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.")
+[![From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs")
 
-![Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.](https://static.euronews.com/articles/stories/08/77/95/06/368x207_cmsv2_82d18232-a42c-5e8c-997f-a286a53d2040-8779506.jpg "Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.")](https://www.euronews.com/my-europe/2024/10/09/viktor-orban-and-ursula-von-der-leyen-clash-in-fiery-debate-at-european-parliament)
+![From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs](https://static.euronews.com/articles/stories/08/75/81/48/368x207_cmsv2_82080e50-aff8-57b5-8d9c-39852ce3b487-8758148.jpg "From Japan to European tables: How Sake, Wagyu and Seaweed seduced Michelin-starred chefs")
 
-Now playing Next
+![Photo Gallery](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2021%2021'%3E%3C/svg%3E)
 
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-
-### [Orbán and von der Leyen clash in fiery parliamentary debate](https://www.euronews.com/my-europe/2024/10/09/viktor-orban-and-ursula-von-der-leyen-clash-in-fiery-debate-at-european-parliament)
-
-* * *
-
-[![Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris")
-
-![Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris](https://static.euronews.com/articles/stories/08/77/96/78/368x207_cmsv2_c5c9572c-1db7-5cb4-bbfd-4e0c90829e04-8779678.jpg "Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris")](https://www.euronews.com/my-europe/2024/10/09/emmanuel-macron-to-meet-ukrainian-troops-training-at-french-military-camp)
+![Photo Gallery](https://static.euronews.com/website/images/vector/camera.svg)](https://www.euronews.com/business/2024/10/16/from-japan-to-european-tables-how-sake-wagyu-and-seaweed-seduced-michelin-starred-chefs)
 
 Now playing Next
 
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+[Business Series](https://www.euronews.com/business/business-series)
 
-### [Emmanuel Macron to meet Ukrainian troops training at French camp](https://www.euronews.com/my-europe/2024/10/09/emmanuel-macron-to-meet-ukrainian-troops-training-at-french-military-camp)
+### [How Sake, Wagyu and Seaweed won over Michelin-starred chefs](https://www.euronews.com/business/2024/10/16/from-japan-to-european-tables-how-sake-wagyu-and-seaweed-seduced-michelin-starred-chefs)
+
+In partnership with **JFOODO**
 
 * * *
 
-[![The FTSE Russell is part of the LSEG group](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The FTSE Russell is part of the LSEG group")
+[![A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015")
 
-![The FTSE Russell is part of the LSEG group](https://static.euronews.com/articles/stories/08/77/97/56/368x207_cmsv2_20f41b0f-e71d-5c3c-af75-290b75168648-8779756.jpg "The FTSE Russell is part of the LSEG group")](https://www.euronews.com/business/2024/10/09/ftse-russell-to-include-south-korean-and-indian-government-bonds)
+![A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015](https://static.euronews.com/articles/stories/08/79/43/10/368x207_cmsv2_a12944d2-a98e-51af-9195-f57a073c1667-8794310.jpg "A trader watches his screens at the stock market in Frankfurt, Germany, Monday, July 13, 2015")](https://www.euronews.com/business/2024/10/16/where-to-look-for-top-performing-european-stocks-as-interest-rates-drop)
 
 Now playing Next
 
 [Markets](https://www.euronews.com/business/markets)
 
-### [FTSE Russell to include South Korean and Indian government bonds](https://www.euronews.com/business/2024/10/09/ftse-russell-to-include-south-korean-and-indian-government-bonds)
+### [Where to look for top-performing European stocks as interest rates dip](https://www.euronews.com/business/2024/10/16/where-to-look-for-top-performing-european-stocks-as-interest-rates-drop)
 
 * * *
 
-[![The aquarium evacuates its animals in the face of Hurricane Milton](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The aquarium evacuates its animals in the face of Hurricane Milton")
+[![Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ")
 
-![The aquarium evacuates its animals in the face of Hurricane Milton](https://static.euronews.com/articles/stories/08/77/95/22/368x207_cmsv2_80ad94ea-6405-51f7-9405-3abb345fcfaa-8779522.jpg "The aquarium evacuates its animals in the face of Hurricane Milton")](https://www.euronews.com/video/2024/10/09/aquarium-animals-relocated-as-florida-prepares-for-hurricane-milton)
+![Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ](https://static.euronews.com/articles/stories/08/79/41/02/368x207_cmsv2_213fe7f6-3dd1-53fc-9b9b-c56ffe7f5519-8794102.jpg "Demonstrators walk past the Tesla factory in Grunheide, Germany on Saturday, May 11, 2024, at the end of their protest. ")](https://www.euronews.com/business/2024/10/16/tesla-gets-go-ahead-to-expand-controversial-factory-in-germany)
 
 Now playing Next
 
-[No Comment](https://www.euronews.com/nocomment)
+[Business](https://www.euronews.com/business/business)
 
-### [Aquarium animals relocated as Florida prepares for Hurricane Milton](https://www.euronews.com/video/2024/10/09/aquarium-animals-relocated-as-florida-prepares-for-hurricane-milton)
+### [Tesla gets go-ahead for controversial factory expansion in Germany](https://www.euronews.com/business/2024/10/16/tesla-gets-go-ahead-to-expand-controversial-factory-in-germany)
+
+* * *
+
+[![Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures")
+
+![Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures](https://static.euronews.com/articles/stories/08/75/56/92/368x207_cmsv2_a24d9ad5-9636-5c74-a134-1fab317812ce-8755692.jpg "Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures")](https://www.euronews.com/travel/2024/10/16/exploring-marrakech-golfing-at-assoufid-and-al-maaden-culinary-delights-and-nightlife-adve)
+
+Now playing Next
+
+[Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
+
+### [Exploring Marrakech: Golfing at Assoufid and Al Maaden, culinary delights and nightlife adventures](https://www.euronews.com/travel/2024/10/16/exploring-marrakech-golfing-at-assoufid-and-al-maaden-culinary-delights-and-nightlife-adve)
+
+In partnership with **Visit Morocco**
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -425,9 +439,7 @@ Categories
 
 Programmes
 
-* [Unreported Europe](https://www.euronews.com/my-europe/my-europe-series/unreported-europe)
 * [Brussels, My Love?](https://www.euronews.com/my-europe/europe-decoded/brussels-my-love)
-* [Uncovering Europe](https://www.euronews.com/my-europe/my-europe-series/uncovering-europe)
 * [State Of The Union](https://www.euronews.com/my-europe/my-europe-series/state-of-the-union)
 * [Smart Regions](https://www.euronews.com/my-europe/my-europe-series/smart-regions)
 
@@ -516,7 +528,7 @@ Featured
     
     The Big Question
     
-    From entrepreneurs to world leaders and academics, we discuss what makes them tick and see the bigger picture of what’s going on in the world of business.](https://www.euronews.com/business/business-series/the-big-question)
+    Deep dive conversations with business leaders](https://www.euronews.com/business/business-series/the-big-question)
 
 [Euroviews](https://www.euronews.com/tag/euroviews)
 
