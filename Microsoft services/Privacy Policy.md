@@ -1,4 +1,4 @@
-This is the Trace Id: 6100c6113029c84ca0a1233fae48024b
+This is the Trace Id: d03254bdea8fc0d639c254713ff6f442
 
    
 
@@ -82,7 +82,7 @@ Privacy
         * [Gift cards](https://www.microsoft.com/en-us/store/b/gift-cards)
         * [Licensing](https://www.microsoft.com/licensing/)
         * [Unlocked stories](https://unlocked.microsoft.com/)
-    * [View Sitemap](https://www.microsoft.com/en-us/sitemap.aspx)
+    * [View Sitemap](https://www.microsoft.com/en-us/sitemap)
     
 
 Microsoft Privacy Statement
