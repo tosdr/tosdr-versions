@@ -289,6 +289,14 @@ Autism news
 
 All the latest that matters to our community
 
+![WHO Mental Health Forum panel](/sites/default/files/styles/content_list/public/WHO-Mental-Health-Forum-panel.jpg.webp?itok=EDHBNtM_)
+
+10.16.24
+
+[### Broadening our approach to neurodiversity](https://guide.autismspeaks.org/science-news/broadening-our-approach-neurodiversity)
+
+This year’s WHO Mental Health Forum marked a historic moment, as it was the first time the organization directly engaged in a conversation about
+
 ![adults sitting in an auditorium](/sites/default/files/styles/content_list/public/adults-sitting-in-an-auditorium.jpg.webp?itok=Q9PYy4Ja)
 
 10.8.24
@@ -328,14 +336,6 @@ Scripps News interviews Christa Stevens, Director State Government Affairs, Auti
 [### Coffee With America highlights support for Hispanic autism community](https://guide.autismspeaks.org/news/coffee-america-highlights-support-hispanic-autism-community)
 
 Tony Hernandez talks with Coffee With America to share his journey with autism, diagnosis disparities among diverse groups and resources available to
-
-![Exceptional Parent Magazine logo](/sites/default/files/styles/content_list/public/Exceptional%20Parent%20Magazine%20logo.jpg.webp?itok=E8GlzjYj)
-
-9.24.24
-
-[### Autism Speaks’ Jeff Rickel talks autism and aging with Exceptional Parent Magazine](https://guide.autismspeaks.org/news/jeff-rickel-autism-and-aging-exceptional-parent-magazine)
-
-Jeff Rickel, database manager at Autism Speaks, shared his experiences navigating aging as an autistic caregiver to his son Jonathan with Exceptional
 
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
