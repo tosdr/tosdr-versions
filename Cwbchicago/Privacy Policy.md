@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/BB7-326x245.jpg)](https://cwbchicago.com/2024/10/firefighters-responding-to-blaze-discover-woman-shot-on-west-side-block-that-used-to-be-served-by-shotspotter.html "Firefighters responding to blaze discover woman shot on West Side block that used to be served by ShotSpotter")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/226-N-Morgan-326x245.jpg)](https://cwbchicago.com/2024/10/off-duty-sheriff-opens-fire-on-armed-robbers-in-the-west-loop.html "Off-duty sheriff opens fire on armed robbers in the West Loop")
 
-East Garfield Park
+West Loop
 
-### [Firefighters responding to blaze discover woman shot on West Side block that used to be served by ShotSpotter](https://cwbchicago.com/2024/10/firefighters-responding-to-blaze-discover-woman-shot-on-west-side-block-that-used-to-be-served-by-shotspotter.html "Firefighters responding to blaze discover woman shot on West Side block that used to be served by ShotSpotter")
+### [Off-duty sheriff opens fire on armed robbers in the West Loop](https://cwbchicago.com/2024/10/off-duty-sheriff-opens-fire-on-armed-robbers-in-the-west-loop.html "Off-duty sheriff opens fire on armed robbers in the West Loop")
 
-[October 12, 2024 3:51 PM](https://cwbchicago.com/2024/10)
+[October 13, 2024 8:02 AM](https://cwbchicago.com/2024/10)
 
-A Chicago Fire Department truck crew, on their way to a major fire in Little Village on Friday evening, ended their response upon finding a woman shot in the 3400 block of West Van Buren.[](https://cwbchicago.com/2024/10/firefighters-responding-to-blaze-discover-woman-shot-on-west-side-block-that-used-to-be-served-by-shotspotter.html "Firefighters responding to blaze discover woman shot on West Side block that used to be served by ShotSpotter")
+Two would-be armed robbers got more than they bargained for when they tried to rob an off-duty sheriff’s deputy in the West Loop overnight. Their victim pulled a gun and shot at them.[](https://cwbchicago.com/2024/10/off-duty-sheriff-opens-fire-on-armed-robbers-in-the-west-loop.html "Off-duty sheriff opens fire on armed robbers in the West Loop")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Jacob-Gies-left-and-Roberto-Nieves--326x245.jpg)](https://cwbchicago.com/2024/10/charges-dropped-against-1-of-2-cops-charged-with-slashing-tires-at-puerto-rican-fest.html "Charges dropped against 1 of 2 cops charged with slashing tires at Puerto Rican Fest")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/7434-n-western-map-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-during-fight-in-west-rogers-park.html "Man shot whle fighting 3 opponents in West Rogers Park")
 
-Citywide
+West Rogers Park
 
-### [Charges dropped against 1 of 2 cops charged with slashing tires at Puerto Rican Fest](https://cwbchicago.com/2024/10/charges-dropped-against-1-of-2-cops-charged-with-slashing-tires-at-puerto-rican-fest.html "Charges dropped against 1 of 2 cops charged with slashing tires at Puerto Rican Fest")
+### [Man shot whle fighting 3 opponents in West Rogers Park](https://cwbchicago.com/2024/10/man-shot-during-fight-in-west-rogers-park.html "Man shot whle fighting 3 opponents in West Rogers Park")
 
-[October 12, 2024 8:35 AM](https://cwbchicago.com/2024/10)
+[October 13, 2024 7:06 AM](https://cwbchicago.com/2024/10)
 
-Barely a month after two Chicago cops, including a high-ranking deputy chief, were charged with slashing the tires of a vehicle while on duty at Puerto Rican Fest, charges have been dropped against one of them.[](https://cwbchicago.com/2024/10/charges-dropped-against-1-of-2-cops-charged-with-slashing-tires-at-puerto-rican-fest.html "Charges dropped against 1 of 2 cops charged with slashing tires at Puerto Rican Fest")
+A 27-year-old man is recovering after getting shot during a fight in West Rogers Park overnight.[](https://cwbchicago.com/2024/10/man-shot-during-fight-in-west-rogers-park.html "Man shot whle fighting 3 opponents in West Rogers Park")
 
-[![](https://cwbchicago.com/wp-content/uploads/2023/01/1600-w-juneway--326x245.jpg)](https://cwbchicago.com/2024/10/boy-16-shot-in-rogers-park-alley.html "Boy, 16, shot in Rogers Park alley")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Elliott-Nott-and-suspect-326x245.jpg)](https://cwbchicago.com/2024/10/former-cps-teacher-exposed-himself-to-girls-in-west-rogers-park-prosecutors-say.html "Former CPS teacher exposed himself to girls in West Rogers Park, prosecutors say")
 
-Rogers Park
+West Rogers Park
 
-### [Boy, 16, shot in Rogers Park alley](https://cwbchicago.com/2024/10/boy-16-shot-in-rogers-park-alley.html "Boy, 16, shot in Rogers Park alley")
+### [Former CPS teacher exposed himself to girls in West Rogers Park, prosecutors say](https://cwbchicago.com/2024/10/former-cps-teacher-exposed-himself-to-girls-in-west-rogers-park-prosecutors-say.html "Former CPS teacher exposed himself to girls in West Rogers Park, prosecutors say")
 
-[October 12, 2024 7:41 AM](https://cwbchicago.com/2024/10)
+[October 13, 2024 6:08 AM](https://cwbchicago.com/2024/10)
 
-A 16-year-old boy was shot on Friday evening in Rogers Park, according to Chicago police. He is the sixth person shot in the neighborhood since Labor Day.[](https://cwbchicago.com/2024/10/boy-16-shot-in-rogers-park-alley.html "Boy, 16, shot in Rogers Park alley")
+A former Chicago Public Schools teacher with a history of sex-related misconduct is now charged with exposing himself to three young girls on the Far Noth Side last month.[](https://cwbchicago.com/2024/10/former-cps-teacher-exposed-himself-to-girls-in-west-rogers-park-prosecutors-say.html "Former CPS teacher exposed himself to girls in West Rogers Park, prosecutors say")
 
 Search
 
