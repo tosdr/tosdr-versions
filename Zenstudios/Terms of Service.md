@@ -8,7 +8,7 @@
 * [Community](http://forum.zenstudios.com/)
     * [Pinball Table Guides](https://zenstudios.com/pinball-table-guides/)
     * [Community Forum](http://forum.zenstudios.com/)
-    * [Pinball Cabinet Support Request](https://zenstudios.com/?page_id=2608)
+    * [Pinball Cabinet Support Request](https://zenstudios.com/home/pinball-cabinet-support-request/)
 * [Press](https://zenstudios.com/press)
 
 * [YouTube](http://www.youtube.com/user/zenstudiosgames)
