@@ -36,18 +36,18 @@
         
         EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
     
-    * [![Still time to save $449 on the Babbel language learning app](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![US disrupts Anonymous Sudan DDoS operation, indicts 2 Sudanese brothers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Still time to save $449 on the Babbel language learning app](https://www.bleepingcomputer.com/offer/deals/still-time-to-save-449-on-the-babbel-language-learning-app/)
-    * [![Amazon says 175 million customers now use passkeys to log in](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        US disrupts Anonymous Sudan DDoS operation, indicts 2 Sudanese brothers](https://www.bleepingcomputer.com/news/security/us-disrupts-anonymous-sudan-ddos-operation-indicts-2-sudanese-brothers/)
+    * [![Get started in cybersecurity with this NIST fundamentals course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Amazon says 175 million customers now use passkeys to log in](https://www.bleepingcomputer.com/news/security/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
-    * [![Finland seizes servers of 'Sipultie' dark web drugs market](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Get started in cybersecurity with this NIST fundamentals course deal](https://www.bleepingcomputer.com/offer/deals/get-started-in-cybersecurity-with-this-nist-fundamentals-course-deal/)
+    * [![Critical Kubernetes Image Builder flaw gives SSH root access to VMs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Finland seizes servers of 'Sipultie' dark web drugs market](https://www.bleepingcomputer.com/news/legal/finland-seizes-servers-of-sipultie-dark-web-drugs-market/)
-    * [![EDRSilencer red team tool used in attacks to bypass security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Critical Kubernetes Image Builder flaw gives SSH root access to VMs](https://www.bleepingcomputer.com/news/security/critical-kubernetes-image-builder-flaw-gives-ssh-root-access-to-vms/)
+    * [![Understand these seven password attacks and how to stop them](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
+        Understand these seven password attacks and how to stop them](https://www.bleepingcomputer.com/news/security/understand-these-seven-password-attacks-and-how-to-stop-them/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
