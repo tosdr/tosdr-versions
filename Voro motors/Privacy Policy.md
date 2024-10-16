@@ -1,8 +1,8 @@
 □
 
-                  
+              Privacy Policy - VORO MOTORS                          
 
-Privacy Policy - VORO MOTORS                              
+        
 
 [Skip to main content](#skip-main)
 
@@ -20,7 +20,6 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
     * [EMOVE Electric Scooters](https://www.voromotors.com/collections/emove-electric-scooters)
         * [Cruiser V2(New!)](https://www.voromotors.com/products/emove-cruiser-v2)
         * [Cruiser S](https://www.voromotors.com/products/emove-cruiser)
-        * [Touring](https://www.voromotors.com/products/emove-touring)
         * [Roadster(New!)](https://www.voromotors.com/products/roadster)
         * [RoadRunner SE(New!)](https://www.voromotors.com/products/emove-roadrunner-se-light-weight-entry-level-seated-electric-scooter)
         * [RoadRunner V2](https://www.voromotors.com/products/emove-roadrunner)
@@ -203,7 +202,6 @@ Continue Shopping
 
 * [Cruiser V2(New!)](https://www.voromotors.com/products/emove-cruiser-v2)
 * [Cruiser S](https://www.voromotors.com/products/emove-cruiser)
-* [Touring](https://www.voromotors.com/products/emove-touring)
 * [Roadster(New!)](https://www.voromotors.com/products/roadster)
 * [RoadRunner SE(New!)](https://www.voromotors.com/products/emove-roadrunner-se-light-weight-entry-level-seated-electric-scooter)
 * [RoadRunner V2](https://www.voromotors.com/products/emove-roadrunner)
