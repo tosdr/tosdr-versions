@@ -137,8 +137,8 @@ MSX Music player
 
 Latest reactions
 
-* [Ankje Kalkwiek passed away at 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at 77")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
+* [Ankje Kalkwiek passed away at 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at 77")
 * [XPLA V3.0 & ADXP V5.0 by Mstz80ax](https://www.msx.org/news/software/en/xpla-v30-adxp-v50-by-mstz80ax "XPLA V3.0 & ADXP V5.0 by Mstz80ax")
 * [Godzilla Balls by Paxanga Soft](https://www.msx.org/news/en/godzilla-balls "Godzilla Balls by Paxanga Soft")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
@@ -150,19 +150,19 @@ Latest reactions
 
 Latest forum posts
 
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=122 "Please help testing upcoming openMSX release!")
+* [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=101 "The Big MegaFlashROM SCC+ SD Topic")
+* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=15 "Full English translation of Illusion City for MSX Turbo-R")
 * [Aleste 2 tips?](https://www.msx.org/forum/msx-talk/software/aleste-2-tips "Aleste 2 tips?")
+* [MSX0 Discussion](https://www.msx.org/forum/msx-talk/hardware/msx0-discussion "MSX0 Discussion")
 * [Arkanoid pad](https://www.msx.org/forum/semi-msx-talk/emulation/arkanoid-pad?page=4 "Arkanoid pad")
 * [Arkos Tracker 3!](https://www.msx.org/forum/msx-talk/software/arkos-tracker-3 "Arkos Tracker 3!")
 * [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
 * [Philips VG8235 dead and wonder tang that resurrects it](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-dead-and-wonder-tang-that-resurrects-it?page=1 "Philips VG8235 dead and wonder tang that resurrects it")
 * [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=29 "A new MSX (3?) for 2022 ?")
 * [Help with Spectravideo SVI-727 80 column cartidge!!!](https://www.msx.org/forum/msx-talk/hardware/help-spectravideo-svi-727-80-column-cartidge?page=2 "Help with Spectravideo SVI-727 80 column cartidge!!!")
-* [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=101 "The Big MegaFlashROM SCC+ SD Topic")
 * [carnivore 2 problem](https://www.msx.org/forum/msx-talk/hardware/carnivore-2-problem "carnivore 2 problem")
 * [F4/FMPAC V2.0 for Omega amp circuit not working](https://www.msx.org/forum/msx-talk/hardware/f4fmpac-for-omega-amp-circuit-not-working "F4/FMPAC V2.0 for Omega amp circuit not working")
-* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=15 "Full English translation of Illusion City for MSX Turbo-R")
-* [Disable floppy drive](https://www.msx.org/forum/msx-talk/openmsx/disable-floppy-drive "Disable floppy drive ")
-* [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card?page=2 "MFRSCC+SD FAT12 & FAT16 partition on one card.")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
