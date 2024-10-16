@@ -3,9 +3,9 @@
 * [Live](https://www.fox4news.com/live)
 * [News](https://www.fox4news.com/news)
 * [Weather](https://www.fox4news.com/weather)
-* [Sports](https://www.fox4news.com/sports)
+* [2024 Election](https://www.fox4news.com/election)
 * [Good Day](https://www.fox4news.com/shows/good-day)
-* [State Fair](https://www.fox4news.com/shows/state-fair-of-texas)
+* [Sports](https://www.fox4news.com/sports)
 * [Vote](https://www.fox4news.com/vote)
 * [More](#)
 
@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![2024 Election: The races that could decide school choice in Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/GettyImages-541761466.jpg?ve=1&tl=1)
+ [![Judge blocks Grand Prairie ISD from firing its superintendent](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-amelia-gpisd-superintendent-on-leave-9p_00.00.06.20.jpg?ve=1&tl=1)
 
- ![2024 Election: The races that could decide school choice in Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/GettyImages-541761466.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/education-savings-accounts-texas-2024-election)
+ ![Judge blocks Grand Prairie ISD from firing its superintendent](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-amelia-gpisd-superintendent-on-leave-9p_00.00.06.20.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/superintendent-jorge-arredondo-temporary-restraining-order-granted-gpisd)
 
-### [2024 Election: The races that could decide school choice in Texas](https://www.fox4news.com/news/education-savings-accounts-texas-2024-election)
+### [Judge blocks Grand Prairie ISD from firing its superintendent](https://www.fox4news.com/news/superintendent-jorge-arredondo-temporary-restraining-order-granted-gpisd)
 
- [![Taste food from the best chefs in Dallas: Tuna tartare](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/food.jpg?ve=1&tl=1)
+ [![Dallas County's 'I voted' stickers get redesign thanks to these high school students](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-ntx-girls-win-election-sticker-contest-9p_00.00.11.36.jpg?ve=1&tl=1)
 
- ![Taste food from the best chefs in Dallas: Tuna tartare](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/food.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/taste-food-from-best-chefs-dallas-tuna-tartare)
+ ![Dallas County's 'I voted' stickers get redesign thanks to these high school students](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-ntx-girls-win-election-sticker-contest-9p_00.00.11.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-elections-i-voted-sticker-design-contest-winners)
 
-### [Taste food from the best chefs in Dallas: Tuna tartare](https://www.fox4news.com/news/taste-food-from-best-chefs-dallas-tuna-tartare)
+### [Dallas County's 'I voted' stickers get redesign thanks to these high school students](https://www.fox4news.com/news/dallas-county-elections-i-voted-sticker-design-contest-winners)
 
- [![Jerry Jones says he will not fire Mike McCarthy mid-season in contentious radio interview](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2173988776.jpg?ve=1&tl=1)
+ [![Dallas County jury acquits man of OU football player’s murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-duvonta-lampkin-murder-trial-acquital-10p_00.00.01.48.jpg?ve=1&tl=1)
 
- ![Jerry Jones says he will not fire Mike McCarthy mid-season in contentious radio interview](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2173988776.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jerry-jones-says-he-will-not-fire-mike-mccarthy-mid-season-contentious-radio-interview)
+ ![Dallas County jury acquits man of OU football player’s murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-duvonta-lampkin-murder-trial-acquital-10p_00.00.01.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/john-williams-not-guilty-acquittal-university-of-oklahoma-duvonta-lampkin-death)
 
-### [Jerry Jones says he will not fire Mike McCarthy mid-season in contentious radio interview](https://www.fox4news.com/sports/jerry-jones-says-he-will-not-fire-mike-mccarthy-mid-season-contentious-radio-interview)
+### [Dallas County jury acquits man of OU football player’s murder](https://www.fox4news.com/news/john-williams-not-guilty-acquittal-university-of-oklahoma-duvonta-lampkin-death)
 
- [![Russian man rescued nearly 10 weeks adrift, 2 relatives found dead on boat](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/rescue.jpg?ve=1&tl=1)
+ [![Security company still awaiting payment months after Fair Park event](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101524-mg-lb-pkg_unpaid-k9-services-_-fair-park__k_00.00.07.40.jpg?ve=1&tl=1)
 
- ![Russian man rescued nearly 10 weeks adrift, 2 relatives found dead on boat](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/rescue.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/russian-man-rescued-sea)
+ ![Security company still awaiting payment months after Fair Park event](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101524-mg-lb-pkg_unpaid-k9-services-_-fair-park__k_00.00.07.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oak-view-group-payment-issues-fair-park)
 
-### [Russian man rescued nearly 10 weeks adrift, 2 relatives found dead on boat](https://www.fox4news.com/news/russian-man-rescued-sea)
+### [Security company still awaiting payment months after Fair Park event](https://www.fox4news.com/news/oak-view-group-payment-issues-fair-park)
 
- [![Election 2024: Races to watch in North Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1)
+ [![Irving woman charged with murder for man's stabbing death](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/sandra-roman-solorzano.jpg?ve=1&tl=1)
 
- ![Election 2024: Races to watch in North Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/election-2024-races-watch-north-texas)
+ ![Irving woman charged with murder for man's stabbing death](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/sandra-roman-solorzano.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sandra-roman-solorzano-arrest-alvaro-lozano-ortiz-victim-irving-pd)
 
-### [Election 2024: Races to watch in North Texas](https://www.fox4news.com/news/election-2024-races-watch-north-texas)
+### [Irving woman charged with murder for man's stabbing death](https://www.fox4news.com/news/sandra-roman-solorzano-arrest-alvaro-lozano-ortiz-victim-irving-pd)
 
 ###### [News](https://www.fox4news.com/news)
 
