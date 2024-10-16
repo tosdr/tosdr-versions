@@ -1,9 +1,6 @@
-[Last chance to get up to $50 of Bitcoin rewards while supplies last](https://shop.ledger.com/pages/bitcoin-voucher-campaign)[See Offers](https://shop.ledger.com/pages/bitcoin-voucher-campaign)
-
 [![Ledger](/ledger-logo-short-black.svg)![Ledger](/ledger-logo-long-black.svg)](https://www.ledger.com/)
 
 * Products
-    * [Limited Offer](https://shop.ledger.com/pages/bitcoin-voucher-campaign "Limited Offer")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
@@ -52,7 +49,6 @@
     * العربية
 
 * Products
-    * [Limited Offer](https://shop.ledger.com/pages/bitcoin-voucher-campaign "Limited Offer")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
@@ -102,7 +98,6 @@
 [![Ledger](/ledger-logo-short-black.svg)![Ledger](/ledger-logo-long-black.svg)](https://www.ledger.com/)
 
 * Products
-    * [Limited Offer](https://shop.ledger.com/pages/bitcoin-voucher-campaign "Limited Offer")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
@@ -151,7 +146,6 @@
     * العربية
 
 * Products
-    * [Limited Offer](https://shop.ledger.com/pages/bitcoin-voucher-campaign "Limited Offer")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
