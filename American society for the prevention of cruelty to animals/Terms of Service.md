@@ -329,8 +329,3 @@ The ASPCA is a 501(c)(3) non-for-profit organization. [Privacy Policy](https://w
 * [ASPCA Pet Health Insurance](https://www.aspca.org/about-us/strategic-cause-partnerships/aspca-pet-health-insurance)
     
     Underwritten by Independence American Insurance Company
-    
-
-**_BREAKING NEWS:_** ASPCA assists with urgent disaster relief following Hurricane Helene. [DONATE NOW](https://secure.aspca.org/donate/2024-web-helene-bre1-NL-P1?ms=wb_con_butter-bre1-hele-20241002&initialms=wb_con_butter-bre1-hele-20241002&pcode=WEBMEMBER)
-
-**_[Hurricane Response:](https://secure.aspca.org/donate/2024-web-helene-bre1-NL-P1?ms=wb_con_butter-bre1-hele-20241002&initialms=wb_con_butter-bre1-hele-20241002&pcode=WEBMEMBER)_** Disaster Relief Efforts Continue in Southeast [DONATE NOW](https://secure.aspca.org/donate/2024-web-helene-bre1-NL-P1?ms=wb_con_butter-bre1-hele-20241002&initialms=wb_con_butter-bre1-hele-20241002&pcode=WEBMEMBER)
