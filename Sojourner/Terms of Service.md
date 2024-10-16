@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-426bb52f38c7ea265bb22a8b844e7692
+2e8a710d42a3f28a596a77a2ac359006
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![10 mm orange sodalite beads](https://sojourner.biz/images/cache/tiger_eye/TIG006.200.jpg)](https://sojourner.biz/beads/stone-m-z/tiger-eye/10-mm-orange-sodalite-beads.html "10 mm orange sodalite beads")
+[![8 mm orange sodalite beads](https://sojourner.biz/images/cache/tiger_eye/TIG007.200.jpg)](https://sojourner.biz/beads/stone-m-z/tiger-eye/8-mm-orange-sodalite-beads.html "8 mm orange sodalite beads")
 
-#### [10 mm orange sodalite beads](https://sojourner.biz/beads/stone-m-z/tiger-eye/10-mm-orange-sodalite-beads.html "10 mm orange sodalite beads")
+#### [8 mm orange sodalite beads](https://sojourner.biz/beads/stone-m-z/tiger-eye/8-mm-orange-sodalite-beads.html "8 mm orange sodalite beads")
 
-$29.00
+$19.00
 
 ### Best Sellers
 
