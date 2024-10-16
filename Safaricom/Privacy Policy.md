@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [713 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [717 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -138,7 +138,19 @@ Customer Testimonials
 
 out of 5 based on
 
-[713 reviews](https://www.trustpilot.com/review/www.safari.com)
+[717 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 15, 2024
+
+> Planning Our Family African Safari Experience
+
+> Planning our first trip to Africa was a really big deal for us. After careful review of numerous safari planners, we selected safari.com and worked with Nicole Van der Merwe. There's a lot of parts in putting together such a vacation including ground transfers, hotels, activities, and flights. At each step we had numerous questions and Nicole patiently worked through these with professionalism and care to her customers. I would recommend Nicole and safari.com for anyone planning a trip to South Africa.
+
+KP
+
+,
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -251,20 +263,6 @@ Customer Brenda, Travel Leaders
 ,
 
 US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 4, 2024
-
-> Excellent service from Tanya!
-
-> Excellent service from Tanya!! She was very patient and remained friendly through all my problems/changes. I will definitely come back to her for my next bookings.
-
-Nico Weitsz
-
-,
-
-ZA
 
 VIP service
 
