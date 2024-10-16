@@ -151,6 +151,7 @@ Log in
 Support
 =======
 
+* [Community Support](https://community.cloudflare.com/)
 * [Help Center](https://support.cloudflare.com/)
 * [Contact Cloudflare](https://dash.cloudflare.com/?to=/:account/support)
 * [Lost account access?](https://developers.cloudflare.com/support/account-management-billing/common-account-questions/login-and-account-issues/)
