@@ -292,7 +292,7 @@ The following definitions applies to this Privacy Policy:
 
 “EU” means the European Union.
 
-“Kahoot!” means Kahoot! AS, organization number 997 770 234, located at Fridtjof Nansens plass 7, 0160 Oslo, Norway.
+“Kahoot!” means Kahoot! AS, organization number 997 770 234, located at Kronprinsesse Märthas plass 1 0160 Oslo, Norway.
 
 “Personal Information” means any information that identifies or can be used to identify an individual directly or indirectly. Examples of Personal Information include, but are not limited to, first and last name, date of birth, email address, gender, occupation, or other demographic information.
 
