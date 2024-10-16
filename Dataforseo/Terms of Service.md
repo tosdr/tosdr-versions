@@ -200,8 +200,7 @@
 
 [![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
 
-* #### Products
-    
+* [Products](#)
     * [APIs](https://dataforseo.com/apis)
         * [SERP API](https://dataforseo.com/apis/serp-api)
         * [Keyword Data API](https://dataforseo.com/apis/keyword-data-api)
@@ -250,19 +249,16 @@
         * [Domains’ Whois & HTML Databases](https://dataforseo.com/databases/whois-database)
         * [Domains’ Backlink Stats Database](https://dataforseo.com/databases/backlink-database)
 * [Solutions](https://dataforseo.com/solutions)
-    * #### By industry
-        
+    * [By industry](#)
         * [Media](https://dataforseo.com/solutions/media)
         * [Ecommerce](https://dataforseo.com/solutions/ecommerce-apis)
         * [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
         * [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
         * [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
-    * #### By company type
-        
+    * [By company type](#)
         * [SEO Agency](https://dataforseo.com/solutions/seo-agency)
         * [SEO Software](https://dataforseo.com/solutions/seo-software)
-    * #### By application
-        
+    * [By application](#)
         * [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
         * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
         * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
@@ -271,8 +267,7 @@
 * [Pricing](https://dataforseo.com/pricing)
 * [Docs](https://docs.dataforseo.com/v3)
 * [Knowledge base](https://dataforseo.com/knowledgebase)
-* #### Resources
-    
+* [Resources](#)
     * [About us](https://dataforseo.com/about-us)
     * [FAQ](https://dataforseo.com/faq)
     * [Ukrainian Bravery](https://dataforseo.com/bravery)
