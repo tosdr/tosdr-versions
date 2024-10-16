@@ -365,6 +365,7 @@ SHOP
 * [Shop Phones](https://www.genmobile.com/pages/phones)
 * [Phones for Kids](https://www.genmobile.com/pages/kid-phones)
 * [SIM Cards](https://www.genmobile.com/collections/all-phones/products/bring-your-own-phone-t-mobile-network)
+* [Phone Gift Card](https://www.genmobile.com/products/phone-gift-card?variant=40736003489840)
 
 SERVICE FEATURES
 
