@@ -552,6 +552,7 @@ Zurich, February 2024
 ###### Technologies
 
 * [Joveo](https://www.jobcloud.ch/c/en/technologies/joveo/)
+* [Technical solutions](https://www.jobcloud.ch/c/en/technical-solution/)
 
 ###### JobCloud
 
