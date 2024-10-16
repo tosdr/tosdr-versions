@@ -1,18 +1,17 @@
  
 
 * Es noticia:
-* [Mbappé](https://www.marca.com/futbol/real-madrid/2024/10/15/abogado-mbappe-dara-explicaciones-tf1-sobre-viaje-estocolmo.html)
-* [España - Serbia](https://www.marca.com/futbol/uefa-nations-league/espana-serbia/2024/10/15/01_0195_20241015_118_364-directo.html)
 * [España Nations League](https://www.marca.com/futbol/seleccion/2024/10/15/670ed1a7ca4741b03f8b45ae.html)
+* [España - Serbia](https://www.marca.com/futbol/uefa-nations-league/espana-serbia/2024/10/15/01_0195_20241015_118_364-directo.html)
 * [Baskonia - Real Madrid](https://www.marca.com/baloncesto/euroliga/baskonia-real-madrid/2024/10/15/02_0203_20241015_6205_6210-directo.html)
-* [Escocia - Portugal](https://www.marca.com/futbol/uefa-nations-league/escocia-portugal/2024/10/15/01_0195_20241015_115_359-directo.html)
+* [Rivales España](https://www.marca.com/futbol/nations-league/2024/10/15/670ed68422601d024a8b45ca.html)
 * [Samu Omorodion](https://www.marca.com/futbol/seleccion/2024/10/15/670e9e3246163fbc5c8b4577.html)
-* [Laporte](https://www.marca.com/futbol/seleccion/2024/10/15/670ebf72e2704e029d8b457c.html)
+* [Topuria](https://www.marca.com/combates-ufc/2024/10/15/topuria-veo-predicciones-luchadores-ufc-jodan-todos.html)
 * [Cuándo juega Alcaraz](https://www.marca.com/tenis/2024/10/14/670d3f5622601dd62c8b45cf.html)
 * [Colapinto](https://www.marca.com/motor/formula1/gp-eeuu/2024/10/15/670e6be5268e3efe658b45c5.html)
 * [Partidos eliminatorias sudamericanas hoy](https://www.marca.com/futbol/futbol-internacional/2024/10/15/670e215346163f01208b4587.html)
 * [Colombia - Chile](https://www.marca.com/futbol/clasificacion-al-mundial-conmebol/colombia-chile/2024/10/15/01_0190_20241015_832_831-directo.html)
-* [Risto Mejide](https://www.marca.com/tiramillas/television/2024/10/15/670e7dc6e2704e838b8b459e.html)
+* [Jorge Rey](https://www.marca.com/tiramillas/actualidad/tiempo/2024/10/15/670e335622601dfd608b457f.html)
 * [Almeida](https://www.marca.com/tiramillas/television/2024/10/15/670e5811268e3e901a8b456d.html)
 * [Lara Álvarez](https://www.marca.com/tiramillas/television/2024/10/15/670ebfa622601d41488b45c3.html)
 * [Precio luz hoy](https://www.marca.com/tiramillas/actualidad/economia/2024/10/14/670d13f322601d7e1e8b45b8.html)
