@@ -190,6 +190,8 @@ Target double opt-in users with our high converting Email Clicks ad format.
 * [Privacy Policy](https://www.exoclick.com/privacy-policy)
 * [Cookies Policy](https://www.exoclick.com/cookies-policy)
 * Cookies Settings
+* [GDPR Overview & Guidance](https://www.exoclick.com/gdpr-overview-and-guidance)
+* [EU User Consent Policy](https://www.exoclick.com/eu-user-consent-policy)
 
 ##### Legal
 
