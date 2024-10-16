@@ -298,6 +298,6 @@ The Class Action Waiver is material and essential to the arbitration of any disp
 * [Your Ad Choices](https://www.siriusxm.com/youradchoices)
 * [FCC Public File](https://publicfiles.fcc.gov/sdars-profile/sirius/)
 * [FCC Info](https://www.siriusxm.com/fccinfo)
-* [Manage Cookies](https://www.siriusxm.com/campaigns/streamedia?programcode=USTESSRTP3MO99#)
+* Manage Cookies
 
 ©2024 Sirius XM Radio LLC
