@@ -190,21 +190,26 @@
 
 Subscribe
 
-[#### Black Health](https://www.healthline.com/black-health)
+[#### Nutrition](https://www.healthline.com/nutrition)
 
-* Conditions
+* Meal Kits
     
-    * [Cancer](https://www.healthline.com/black-health/cancer)
-    * [Diabetes](https://www.healthline.com/black-health/diabetes-resources)
-    * [Sickle Cell](https://www.healthline.com/black-health/sickle-cell)
-    * [Other Conditions](https://www.healthline.com/black-health/chronic-conditions)
+    * [Overview](https://www.healthline.com/nutrition/meal-kits)
+    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
+    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
+    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
+    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
+    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
     
-* [Heart Health](https://www.healthline.com/black-health/black-heart-health)
-* [Mental Health](https://www.healthline.com/black-health/black-mental-health)
-* [Maternal Health](https://www.healthline.com/black-health/black-maternal-health)
-* [Black Skin](https://www.healthline.com/black-health/black-skin)
-* [Nutrition & Fitness](https://www.healthline.com/black-health/nutrition-fitness)
-* [Advocacy & Equity](https://www.healthline.com/black-health/advocacy)
+* [Special Diets](https://www.healthline.com/nutrition/diets)
+* [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
+* [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
+* [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
+* [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
+* [Products](https://www.healthline.com/reviews/nutrition-products)
+* [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
+* [Sustainability](https://www.healthline.com/program/the-sustainable-table)
+* [Weight Management](https://www.healthline.com/nutrition/weight-management)
 
 Privacy Policy
 ==============
