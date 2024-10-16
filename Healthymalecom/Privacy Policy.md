@@ -202,7 +202,9 @@ The complaint form may be found at www.hhs.gov/ocr/privacy/hipaa/complaints/hipc
 Dedicated to Quality, Privacy and Security
 ==========================================
 
- [![Healthymale A+ BBB Business Review](/content/image/logos/carousel-bbb.jpg) bbb](https://www.healthymale.com/credentials)
+ [![prescribing seal](/content/image/logos/prescribing-seal.jpg) prescribing seal](https://www.healthymale.com/credentials)
+
+ [![compounding seal](/content/image/logos/compounding-seal.jpg) compounding seal](https://www.healthymale.com/credentials)
 
  [![Hipaa Privacy and Confidential records are secure and protected using the most advanced data encryption available](/content/image/logos/carousel-hipaa.jpg) hipaa](https://www.healthymale.com/credentials)
 
