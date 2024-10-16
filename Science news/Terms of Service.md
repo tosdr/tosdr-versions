@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Animals](https://www.sciencenews.org/topic/animals)
+    * * [Plants](https://www.sciencenews.org/topic/plants)
+            
+            ### [Carnivorous plants eat faster with a fungal friend](https://www.sciencenews.org/article/carnivorous-plant-sundew-fungus-digest)
+            
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")3 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [At-home experiments shed light on cats’ liquid behavior](https://www.sciencenews.org/article/home-experiments-cats-liquid-behavior)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")20 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 15, 2024
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Your brain can perceive subtle odor changes in a single sniff](https://www.sciencenews.org/article/brain-odor-changes-milliseconds)
             
             By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")October 14, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [DNA from old hair helps confirm the macabre diet of two 19th century lions](https://www.sciencenews.org/article/dna-hair-teeth-diet-lions)
-            
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")October 11, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -186,21 +186,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
     * * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
+            ### [The cataclysmic origins of most of Earth’s meteorites have been found](https://www.sciencenews.org/article/origins-earths-meteorites-found)
+            
+            By [Robin George Andrews](https://www.sciencenews.org/author/robin-george-andrews "Posts by Robin George Andrews")33 mins ago
+            
+        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
+            
             ### [NASA’s Europa mission is a homecoming for one planetary astronomer](https://www.sciencenews.org/article/buratti-nasa-europa-mission)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")18 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 15, 2024
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
             ### [Saturn’s first Trojan asteroid has finally been discovered](https://www.sciencenews.org/article/saturn-first-trojan-asteroid-discovered)
             
             By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")October 11, 2024
-            
-        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
-            
-            ### [Runaway stars could influence the cosmos far past their home galaxies](https://www.sciencenews.org/article/runaway-stars-cosmos-galaxies)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 9, 2024
             
 
 Terms of Service
