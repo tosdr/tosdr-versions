@@ -425,6 +425,6 @@ For all other countries
 
 * [Global Website](https://www.kaspersky.com/?ignoreredirects=true "Kaspersky Cybersecurity Solutions for Home and Business")
 
-We use cookies to make your experience of our websites better. By using and further navigating this website you accept this. Detailed information about the use of cookies on this website is available by clicking on [more information](https://www.kaspersky.com/web-privacy-policy).
+We use cookies to make your experience of our websites better. By using and further navigating this website you accept this. Detailed information about the use of cookies on this website is available by clicking on [more information](https://www.kaspersky.com/third-party-tracking).
 
 Accept and Close
