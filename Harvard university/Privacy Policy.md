@@ -221,9 +221,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**Drug-free nasal spray blocks, neutralizes viruses, bacteria** In preclinical studies, spray offered nearly 100% protection from respiratory infections by COVID-19, influenza, viruses, and pneumonia-causing bacteria](https://news.harvard.edu/gazette/story/2024/09/drug-free-nasal-spray-blocks-neutralizes-viruses-bacteria/)
-        2. [**Falls put older adults at increased risk of Alzheimer’s** Researchers found dementia more frequently diagnosed within one year of a fall, compared to other types of injuries](https://news.harvard.edu/gazette/story/2024/10/falls-put-older-adults-at-increased-risk-of-alzheimers/)
-        3. [**A blueprint for better conversations** After months of listening and learning, open inquiry co-chairs detail working group’s recommendations](https://news.harvard.edu/gazette/story/2024/10/a-blueprint-for-better-conversations/)
+        1. [**Unearthed papyrus contains lost scenes from Euripides’ plays** Alums help identify, decipher ‘one of the most significant new finds in Greek literature in this century’](https://news.harvard.edu/gazette/story/2024/10/unearthed-papyrus-contains-lost-scenes-from-euripides-plays/)
+        2. [**What’s next after a Nobel? It’s a surprise.** Harvard scientist Gary Ruvkun awarded medicine prize for microRNA insights. ‘My ignorance is bliss,’ he says.](https://news.harvard.edu/gazette/story/2024/10/harvard-scientist-awarded-nobel/)
+        3. [**Getting to the bottom of long COVID** A reservoir of virus in the body may explain why some people experience long COVID symptoms](https://news.harvard.edu/gazette/story/2024/10/getting-to-the-bottom-of-long-covid/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
