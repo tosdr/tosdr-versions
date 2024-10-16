@@ -58,7 +58,7 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/2aa0f146-9f7e-4782-878d-c292a78630c4/20241015T224016/2aa0f146-9f7e-4782-878d-c292a78630c4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2aa0f146-9f7e-4782-878d-c292a78630c4/20241015T224016/2aa0f146-9f7e-4782-878d-c292a78630c4_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [First freeze of the season tomorrow morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [More warmth on the way for the rest of the week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KING/images/ca8780a2-4d0b-47e0-82cd-d44fce16bc90/ca8780a2-4d0b-47e0-82cd-d44fce16bc90_16x9.jpg) ![](https://media.tegna-media.com/assets/KING/images/ca8780a2-4d0b-47e0-82cd-d44fce16bc90/ca8780a2-4d0b-47e0-82cd-d44fce16bc90_360x203.jpg)](https://www.wqad.com/article/weather/frost-freeze-iowa-illinois-first-of-the-season/526-c2316dfc-ef51-434a-b73f-0ba6dd8dd0a3)
         
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-35°
+29°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
