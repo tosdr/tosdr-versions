@@ -138,22 +138,23 @@ Save settings
 
 ### Featured Articles
 
+[![Get a Six Pack Without Any Equipment](https://www.wikihow.com/images/thumb/e/e0/Get-a-Six-Pack-Without-Any-Equipment-Step-14-Version-7.jpg/-crop-126-120-126px-Get-a-Six-Pack-Without-Any-Equipment-Step-14-Version-7.jpg)
+
+How to  
+Get a Six Pack Without Any Equipment](https://www.wikihow.com/Get-a-Six-Pack-Without-Any-Equipment)
+
+[![Improve Yourself](https://www.wikihow.com/images/thumb/8/88/Improve-Yourself-Step-13-Version-2.jpg/-crop-126-120-126px-Improve-Yourself-Step-13-Version-2.jpg)
+
+How to  
+Improve Yourself](https://www.wikihow.com/Improve-Yourself)
+
+[![Draw a Person](https://www.wikihow.com/images/thumb/7/74/Draw-a-Person-Step-14.jpg/-crop-126-120-126px-Draw-a-Person-Step-14.jpg)
+
+2 Easy-to-Follow Methods for Drawing a Person](https://www.wikihow.com/Draw-a-Person)
+
 [![Deal With an Insecure Person](https://www.wikihow.com/images/thumb/f/f4/Deal-With-an-Insecure-Person-Step-16-Version-2.jpg/-crop-126-120-126px-Deal-With-an-Insecure-Person-Step-16-Version-2.jpg)
 
 16 Strategies for Handling Someone's Insecurity](https://www.wikihow.com/Deal-With-an-Insecure-Person)
-
-[![Have a Glow Up](https://www.wikihow.com/images/thumb/f/fb/Have-a-Glow-Up-Step-13-Version-2.jpg/-crop-126-120-126px-Have-a-Glow-Up-Step-13-Version-2.jpg)
-
-How to  
-Have a Glow Up](https://www.wikihow.com/Have-a-Glow-Up)
-
-[![Love Yourself](https://www.wikihow.com/images/thumb/e/e1/Love-Yourself-Step-25-Version-3.jpg/-crop-126-120-126px-Love-Yourself-Step-25-Version-3.jpg)
-
-Loving Yourself: Simple and Easy Ways to Practice Self-Love Every Day](https://www.wikihow.com/Love-Yourself)
-
-[![Write Shorthand](https://www.wikihow.com/images/thumb/0/02/Write-Shorthand-Step-15-Version-3.jpg/-crop-126-120-126px-Write-Shorthand-Step-15-Version-3.jpg)
-
-Writing Shorthand: The Basics of the Teeline, Pitman, and Gregg Methods](https://www.wikihow.com/Write-Shorthand)
 
   
 
@@ -196,4 +197,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-137
+133
