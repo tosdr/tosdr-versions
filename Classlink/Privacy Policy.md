@@ -197,9 +197,7 @@ MPACT Program](https://www.classlink.com/company/mpact)[![](https://cdn.prod.web
 Cybersecurity  
 Rubric
 
-Cybersecurity Rubric](https://www.cybersecurityrubric.org/)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/6436ec1f41241d29fd9e4c63_nav-deal-icon.svg)
-
-Deal Registration](https://www.classlink.com/deal-registration)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/64d3ae81829349e93d1b313e_nav-pledge-icon.svg)
+Cybersecurity Rubric](https://www.cybersecurityrubric.org/)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/64d3ae81829349e93d1b313e_nav-pledge-icon.svg)
 
 Secure by Design](https://www.classlink.com/company/secure-by-design)[![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62fc073027953a33ad01b63a_nav-contact-icon_v2.svg)
 
