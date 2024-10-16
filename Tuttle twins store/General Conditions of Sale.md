@@ -550,7 +550,10 @@ Please note, to qualify for a return the items must meet these conditions:
 
 **\*You will be responsible for covering the cost of the return shipping.**
 
-**This Policy does not include Digital Purchased. All Digital Purchases (Tickets, Pay It Forward, etc.) are Non-Refundable.** 
+_\*This Policy does not include Digital Purchased. All Digital Purchases (Pay It Forward, etc.) are Non-Refundable._
+
+**Ticket Pre-Sale Refunds & Expirations  
+**You can request a full refund within 120 days of purchase or receive store credit after that, up until six weeks after the movie release date. For packages that include perks, refunds are available until any perk is used. Similarly, for tickets or packages that include sweepstakes entries, refunds are possible until winners are selected or other specified conditions are met. Please refer to the official rules for the sweepstakes for exact dates and details.
 
 **Can I Return or Exchange an International Purchase?**  
 International purchases are only eligible for a refund, no exchanges. You must cover the cost of return shipping.
