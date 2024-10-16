@@ -151,7 +151,7 @@ Esta iniciativa desarrollada por Red.es, entidad dependiente de la [Secretaría 
 
 Para la ciudadanía
 
-       ![](/sites/redes/files/styles/ratio_1_1/public/media/images/talento%20digital.png?h=55542b95&itok=nY4ztmBV)
+       ![talento digital](/sites/redes/files/styles/ratio_1_1/public/media/images/talento%20digital.png?h=55542b95&itok=nY4ztmBV)
 
 Talento Digital
 
