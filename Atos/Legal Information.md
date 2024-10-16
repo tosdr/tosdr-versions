@@ -200,15 +200,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Atos launches its Experience Operations Center in partnership with Nexthink to empower digital workplace performance](https://atos.net/en/2024/uncategorized_2024_10_16/atos-launches-its-experience-operations-center-in-partnership-with-nexthink-to-empower-digital-workplace-performance)
         * [Atos Group and AWS launch Global GenAI Innovation Studio to accelerate AI-powered business transformation](https://atos.net/en/2024/press-release_2024_10_15/atos-group-and-aws-launch-global-genai-innovation-studio-to-accelerate-ai-powered-business-transformation)
         * [Atos appoints Philippe Salle Chairman of the Board of Directors with effect from October 14, 2024 and Chairman and Chief Executive Officer from February 01, 2025](https://atos.net/en/2024/press-release_2024_10_15/atos-appoints-philippe-salle-chairman-of-the-board-of-directors-with-effect-from-october-14-2024-and-chairman-and-chief-executive-officer-from-february-01-2025)
-        * [Eviden drives quantum adoption with installation of IQM Spark quantum computer](https://atos.net/en/2024/press-release_2024_10_09/eviden-drives-quantum-adoption-with-installation-of-iqm-spark-quantum-computer)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Oct 15, 2024
+        Oct 16, 2024
         
-        ### Atos Group and AWS launch Global GenAI Innovation Studio to accelerate AI-powered business transformation
+        ### Atos launches its Experience Operations Center in partnership with Nexthink to empower digital workplace performance
         
 * ˅[About Us](#)
     * <<
