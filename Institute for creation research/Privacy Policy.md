@@ -96,31 +96,83 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Creation Science Update
+More Fossils Show Stasis and No Transitional Forms
 
-[![](/i/Main%20Stage%20-%201400x1050/sunflowersees_1400x1050.jpg)](https://www.icr.org/article/sunflowers-see-sun)
+[![](/i/Main%20Stage%20-%201400x1050/flying_bat_1400x1050)](https://www.icr.org/article/bat-echolocation-defies-evolution)
 
-[How Sunflowers ''See'' the Sun](https://www.icr.org/article/sunflowers-see-sun/)
+[Bat Echolocation Defies Evolutionary Explanations](https://www.icr.org/article/bat-echolocation-defies-evolution/)
 
-Sunflowers (Helianthus annuus) are not only big and beautiful, but they also have an amazing biomechanism called heliotropism. ICR’s Dr. Jim...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/BeeConstruct_1400x1050.jpg)](https://www.icr.org/article/honey-bee-nest-constructing)
-
-[Incredible Honey Bees and Their Nest Constructing Skills](https://www.icr.org/article/honey-bee-nest-constructing/)
-
-It seems not a month goes by that more remarkable discoveries are made regarding the humble honey bee. They have been found capable of basic math,...
+Bats are the only flying mammals. What was their origin? According to evolutionists, The 50-million-year-old bat specimens are already recognizable...
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/Main%20Stage%20-%201400x1050/moon_formedin_hours_1400x1050.jpg)](https://www.icr.org/article/moon-formed-in-just-hours)
+[![](/i/Main%20Stage%20-%201400x1050/wulong-1400x1050-MainPage.jpg)](https://www.icr.org/article/latest-feathered-dinosaur-categories)
 
-[The Moon: Formed in Just Hours?](https://www.icr.org/article/moon-formed-in-just-hours/)
+[The Latest Feathered Dinosaur Confuses Categories](https://www.icr.org/article/latest-feathered-dinosaur-categories/)
 
-Despite the moon’s apparently simple shape, uniformitarian scientists have long had great difficulty explaining how it could form by natural processes...
+Evolutionary biologists promote strange-looking Chinese fossils that resemble the in-between creatures the researchers have long sought. One strand...
 
-BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/articles/news/bobbit_worm_wide_new.jpg)](https://www.icr.org/article/extremely-ugly-seaworm-shows-extreme)
+
+[Extremely Ugly Seaworm Shows Extreme Non-Evolution](https://www.icr.org/article/extremely-ugly-seaworm-shows-extreme/)
+
+A Bobbit worm is an omnivorous predatory sea worm that, while only a few fingers thick, can grow 10 feet long. It submerges its many segments beneath...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+More The Natural Direction of Life Is Degeneration, Not Evolution
+
+[![](/i/Main%20Stage%20-%201400x1050/Life_More_Than_Biomolecules_1400x1050.jpg)](https://www.icr.org/article/life-is-more-than-biomolecules)
+
+[Life Is More Than Biomolecules](https://www.icr.org/article/life-is-more-than-biomolecules/)
+
+In order to have evolution, you must first have life. Both sides of the evolution-creation debate agree that the chance of all the correct biomolecules...
+
+BY: [EDWARD SIEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=247)
+
+[![](/i/wide/blindfolded_man_wide.jpg)](https://www.icr.org/article/study-finds-molecules-evolving-wrong)
+
+[Study Finds Molecules Evolving in Wrong Direction](https://www.icr.org/article/study-finds-molecules-evolving-wrong/)
+
+Which is more complex—a typical man walking across a street, or a blind man carrying a legless man across the street? The blind and legless...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/Main%20Stage%20-%201400x1050/Mutation_Design_Randomness_1400x1050.jpg)](https://www.icr.org/article/mutation-design-and-randomness)
+
+[Mutation, Design & Randomness](https://www.icr.org/article/mutation-design-and-randomness/)
+
+Article highlights: • A genetic mutation is a change—most are bad and some are good. • Evolutionists claim that good mutations come...
+
+BY: [MICHAEL STAMP](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=220)
+
+More Impact
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/geneticrecombination_1400x1050.jpg)](https://www.icr.org/article/genetic-recombination-regulated-designed)
+
+[Genetic Recombination: A Regulated and Designed Chromos.,.](https://www.icr.org/article/genetic-recombination-regulated-designed/)
+
+According to the evolutionary paradigm, complex genetic information in the form of genes and regulatory DNA can randomly evolve through mutations and...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/5_global_ev_ye.jpg)](https://www.icr.org/article/five-global-evidences-for-a-young-earth)
+
+[Five Global Evidences for a Young Earth](https://www.icr.org/article/five-global-evidences-for-a-young-earth/)
+
+The evolutionary story requires millions and billions of years, and most people assume that scientific dating has conclusively proved such ages. However,...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/deep_space_objects_young.jpg)](https://www.icr.org/article/deep-space-objects-are-young)
+
+[Deep-Space Objects Are Young](https://www.icr.org/article/deep-space-objects-are-young/)
+
+Secular astronomers claim our universe is unimaginably ancient—almost 14 billion years old. Yet the Bible clearly teaches that God created the...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
