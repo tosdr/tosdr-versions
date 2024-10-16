@@ -1,5 +1,3 @@
-[Breaking: Coldest night of fall ahead, with frost advisory in Atlanta, freeze warning in mountains](https://www.ajc.com/news/atlanta-news/coldest-night-of-fall-is-coming-with-frost-advisory-freeze-warning-in-effect/XP2BIWKASZECRCBKSE3LFLRKNU/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1745)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1745)](https://www.ajc.com/)
 
 Log In
@@ -16,7 +14,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/early-voting-for-the-win/LBVWC5LBTJEU3MLBAO2KC3ON4Y/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
@@ -49,6 +46,7 @@ Log In
     * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
     * [Election 2024](https://www.ajc.com/politics/election/)
     * [Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
+    * [Know Your Stuff](https://www.ajc.com/politics/know-your-stuff/)
     * [Georgia by the Numbers](https://www.ajc.com/politics/georgia-by-the-numbers/fulton/)
     * [Legislature](https://www.ajc.com/politics/georgia-state-legislature/)
     * [The Trump Investigations](https://www.ajc.com/news/trump-grand-jury-georgia/)
