@@ -258,23 +258,23 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Berline Burkholder appears in a booking photo.](https://lawandcrime.com/wp-content/uploads/2024/10/Berline-Burkholder-432x243.jpg)](https://lawandcrime.com/crime/i-did-something-i-wasnt-supposed-to-do-mom-sentenced-for-pouring-scalding-hot-liquid-on-her-9-month-old-daughter/)
+1. [![Berline Burkholder appears in a booking photo.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Berline-Burkholder-432x243.jpg)](https://lawandcrime.com/crime/i-did-something-i-wasnt-supposed-to-do-mom-sentenced-for-pouring-scalding-hot-liquid-on-her-9-month-old-daughter/)
     
     ### ['I did something I wasn’t supposed to do': Mom sentenced for pouring scalding hot liquid on her 9-month-old daughter](https://lawandcrime.com/crime/i-did-something-i-wasnt-supposed-to-do-mom-sentenced-for-pouring-scalding-hot-liquid-on-her-9-month-old-daughter/)
     
-2. [![Brett Kavanugh, Stormy Daniels, Michael Avenatti](https://lawandcrime.com/wp-content/uploads/2024/10/Kavanaugh-Avenatti-432x243.jpg)](https://lawandcrime.com/high-profile/justice-kavanaugh-again-does-nothing-as-scotus-rejects-michael-avenatti-appeal-in-stormy-daniels-case/)
+2. [![Brett Kavanugh, Stormy Daniels, Michael Avenatti](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Kavanaugh-Avenatti-432x243.jpg)](https://lawandcrime.com/high-profile/justice-kavanaugh-again-does-nothing-as-scotus-rejects-michael-avenatti-appeal-in-stormy-daniels-case/)
     
     ### [Justice Kavanaugh on the sidelines again as Supreme Court ignores Michael Avenatti claim that conviction for stealing Stormy Daniels' identity 'risks sowing mischief'](https://lawandcrime.com/high-profile/justice-kavanaugh-again-does-nothing-as-scotus-rejects-michael-avenatti-appeal-in-stormy-daniels-case/)
     
-3. [![Inset: Ashley Bush (Benton County Sheriff's Office). Background: Amber Waterman (McDonald County Detention Center).](https://lawandcrime.com/wp-content/uploads/2024/07/Inset-Ashley-Bush-Benton-County-Sheriffs-Office.-Background-Amber-Waterman-McDonald-County-Detention-Center-432x243.jpg)](https://lawandcrime.com/crime/woman-who-killed-pregnant-victim-she-met-on-facebook-cut-fetus-from-her-womb-and-claimed-child-as-her-own-is-sentenced/)
+3. [![Inset: Ashley Bush (Benton County Sheriff's Office). Background: Amber Waterman (McDonald County Detention Center).](https://am24.mediaite.com/lc/cnt/uploads/2024/07/Inset-Ashley-Bush-Benton-County-Sheriffs-Office.-Background-Amber-Waterman-McDonald-County-Detention-Center-432x243.jpg)](https://lawandcrime.com/crime/woman-who-killed-pregnant-victim-she-met-on-facebook-cut-fetus-from-her-womb-and-claimed-child-as-her-own-is-sentenced/)
     
     ### [Woman who killed pregnant victim she met on Facebook, cut fetus from her womb and 'claimed' child as her own is sentenced](https://lawandcrime.com/crime/woman-who-killed-pregnant-victim-she-met-on-facebook-cut-fetus-from-her-womb-and-claimed-child-as-her-own-is-sentenced/)
     
-4. [![Kristin Burnett](https://lawandcrime.com/wp-content/uploads/2024/10/Kristin-Burnett-432x243.jpg)](https://lawandcrime.com/crime/woman-pissed-about-line-cutting-on-festival-ride-chokes-12-year-old-trying-to-play-peacekeeper-cops/)
+4. [![Kristin Burnett](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Kristin-Burnett-432x243.jpg)](https://lawandcrime.com/crime/woman-pissed-about-line-cutting-on-festival-ride-chokes-12-year-old-trying-to-play-peacekeeper-cops/)
     
     ### [Woman pissed about line-cutting on festival ride chokes 12-year-old girl trying to play peacekeeper: Cops](https://lawandcrime.com/crime/woman-pissed-about-line-cutting-on-festival-ride-chokes-12-year-old-trying-to-play-peacekeeper-cops/)
     
-5. [![Inset, top to bottom: Jason Ross (Macomb County Sheriff) and Kathleen Hales (GoFundMe). Background: Police at the scene where Ross killed Hales (WJBK).](https://lawandcrime.com/wp-content/uploads/2024/10/Inset-top-to-bottom-Jason-Ross-Macomb-County-Sheriff-and-Kathleen-Hales-GoFundMe.-Background-Police-at-the-scene-where-Ross-killed-Hales-WJBK-432x243.jpg)](https://lawandcrime.com/crime/man-told-police-he-and-girlfriend-fought-like-men-after-he-killed-her-with-hammer-and-knives/)
+5. [![Inset, top to bottom: Jason Ross (Macomb County Sheriff) and Kathleen Hales (GoFundMe). Background: Police at the scene where Ross killed Hales (WJBK).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Inset-top-to-bottom-Jason-Ross-Macomb-County-Sheriff-and-Kathleen-Hales-GoFundMe.-Background-Police-at-the-scene-where-Ross-killed-Hales-WJBK-432x243.jpg)](https://lawandcrime.com/crime/man-told-police-he-and-girlfriend-fought-like-men-after-he-killed-her-with-hammer-and-knives/)
     
     ### [Man told police he and girlfriend 'fought like men' after he killed her with hammer and knives](https://lawandcrime.com/crime/man-told-police-he-and-girlfriend-fought-like-men-after-he-killed-her-with-hammer-and-knives/)
     
