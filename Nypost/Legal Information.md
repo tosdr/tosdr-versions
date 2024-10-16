@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Breaking News
+#### Exclusive
 
-[Georgia judge blocks ballot counting rule and says county officials must certify election results](https://nypost.com/2024/10/15/us-news/georgia-judge-blocks-ballot-counting-rule-and-says-county-officials-must-certify-election-results/)
+[Trump supporter in hiding, fears for his life after being accused of ‘third assassination attempt’ against former prez](https://nypost.com/2024/10/16/us-news/vem-miller-is-in-hiding-and-fears-for-his-life-after-being-branded-would-be-assassin/)
 
 Privacy Notice Highlights
 =========================
