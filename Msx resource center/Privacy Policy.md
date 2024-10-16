@@ -137,6 +137,8 @@ MSX Music player
 
 Latest reactions
 
+* [Ankje Kalkwiek passed away at 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at 77")
+* [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 * [XPLA V3.0 & ADXP V5.0 by Mstz80ax](https://www.msx.org/news/software/en/xpla-v30-adxp-v50-by-mstz80ax "XPLA V3.0 & ADXP V5.0 by Mstz80ax")
 * [Godzilla Balls by Paxanga Soft](https://www.msx.org/news/en/godzilla-balls "Godzilla Balls by Paxanga Soft")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
@@ -145,29 +147,28 @@ Latest reactions
 * [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [Tiny Magic update, new batch and soundtrack CD](https://www.msx.org/news/software/en/tiny-magic-update "Tiny Magic update, new batch and soundtrack CD")
-* [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
-* [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 
 Latest forum posts
 
+* [Aleste 2 tips?](https://www.msx.org/forum/msx-talk/software/aleste-2-tips "Aleste 2 tips?")
+* [Arkanoid pad](https://www.msx.org/forum/semi-msx-talk/emulation/arkanoid-pad?page=4 "Arkanoid pad")
+* [Arkos Tracker 3!](https://www.msx.org/forum/msx-talk/software/arkos-tracker-3 "Arkos Tracker 3!")
+* [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
+* [Philips VG8235 dead and wonder tang that resurrects it](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-dead-and-wonder-tang-that-resurrects-it?page=1 "Philips VG8235 dead and wonder tang that resurrects it")
 * [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=29 "A new MSX (3?) for 2022 ?")
 * [Help with Spectravideo SVI-727 80 column cartidge!!!](https://www.msx.org/forum/msx-talk/hardware/help-spectravideo-svi-727-80-column-cartidge?page=2 "Help with Spectravideo SVI-727 80 column cartidge!!!")
-* [Philips VG8235 dead and wonder tang that resurrects it](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-dead-and-wonder-tang-that-resurrects-it?page=1 "Philips VG8235 dead and wonder tang that resurrects it")
 * [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=101 "The Big MegaFlashROM SCC+ SD Topic")
 * [carnivore 2 problem](https://www.msx.org/forum/msx-talk/hardware/carnivore-2-problem "carnivore 2 problem")
 * [F4/FMPAC V2.0 for Omega amp circuit not working](https://www.msx.org/forum/msx-talk/hardware/f4fmpac-for-omega-amp-circuit-not-working "F4/FMPAC V2.0 for Omega amp circuit not working")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=15 "Full English translation of Illusion City for MSX Turbo-R")
-* [Aleste 2 tips?](https://www.msx.org/forum/msx-talk/software/aleste-2-tips "Aleste 2 tips?")
 * [Disable floppy drive](https://www.msx.org/forum/msx-talk/openmsx/disable-floppy-drive "Disable floppy drive ")
 * [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card?page=2 "MFRSCC+SD FAT12 & FAT16 partition on one card.")
-* [VATT - VRAM Access Timing Tester](https://www.msx.org/forum/msx-talk/development/vatt-vram-access-timing-tester?page=18 "VATT - VRAM Access Timing Tester")
-* [Aleste 2 manual automated translation](https://www.msx.org/forum/msx-talk/general-discussion/aleste-2-manual-automated-translation?page=2 "Aleste 2 manual automated translation")
-* [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [Ankje Kalkwiek passed away at 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at 77")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 * [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
@@ -180,7 +181,6 @@ News headlines
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
-* [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
