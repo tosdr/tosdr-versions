@@ -38,8 +38,9 @@ Pick a Show Select Category 1000-Lb. Best Friends 1000-Lb. Sisters 7 Little John
 
 * [About Us](https://tvshowsace.com/about-us/)
 * [Join the Team!](https://tvshowsace.com/jobs/)
-* [Privacy Policy](https://tvshowsace.com/privacy-policy/)
 * [Terms and Conditions](https://tvshowsace.com/terms-and-conditions/)
+* [Privacy Policy](https://tvshowsace.com/privacy-policy/)
+* [Cookie Consent Policy](https://tvshowsace.com/cookie-consent-policy/)
 * [Disclaimer](https://tvshowsace.com/disclaimer/)
 * [Contact Us](https://tvshowsace.com/contact-us/)
 
