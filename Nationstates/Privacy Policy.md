@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (10,321)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (10,321 posts)")
-* [Who would YN support in a war Between… (183)](https://forum.nationstates.net/viewtopic.php?t=555012&f=25&view=unread#unread ""Who would YN support in a war Between AN and AAN" (183 posts)")
-* [What’s your Opinion about AN’s region¿ (32)](https://forum.nationstates.net/viewtopic.php?t=556566&f=25&view=unread#unread ""What’s your Opinion about AN’s region¿" (32 posts)")
-* [Illion League (IC/Assembly) (6,736)](https://forum.nationstates.net/viewtopic.php?t=550142&f=5&view=unread#unread ""Illion League (IC/Assembly)" (6,736 posts)")
-* [The Collective Security League Assemb… (322)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (322 posts)")
+* [The Phoenix’s Spark (closed) (18)](https://forum.nationstates.net/viewtopic.php?t=556764&f=5&view=unread#unread ""The Phoenix’s Spark (closed)" (18 posts)")
+* [NS Cliches II: Re-Rebooted (9,875)](https://forum.nationstates.net/viewtopic.php?t=520417&f=25&view=unread#unread ""NS Cliches II: Re-Rebooted" (9,875 posts)")
+* [Ice Cold Backstab(IC|CLOSED|TG TO JOI… (2)](https://forum.nationstates.net/viewtopic.php?t=556993&f=5&view=unread#unread ""Ice Cold Backstab(IC|CLOSED|TG TO JOIN|MT-PMT)" (2 posts)")
+* [False "Ex-Nation" (1)](https://forum.nationstates.net/viewtopic.php?t=556996&f=15&view=unread#unread ""False "Ex-Nation"" (1 post)")
+* [Commend or Condemn AN II (1,312)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (1,312 posts)")
 
 Advertisement
 
