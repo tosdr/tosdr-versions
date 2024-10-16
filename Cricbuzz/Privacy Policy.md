@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[ENGW vs WIW - WIW Won](https://www.cricbuzz.com/live-cricket-scores/94678/engw-vs-wiw-20th-match-group-b-icc-womens-t20-world-cup-2024 "England Women v West Indies Women, 20th Match, Group B - WIW Won")[SL vs WI - SL Won](https://www.cricbuzz.com/live-cricket-scores/108257/sl-vs-wi-2nd-t20i-west-indies-tour-of-sri-lanka-2024 "Sri Lanka v West Indies, 2nd T20I - SL Won")[IND vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/100265/ind-vs-nz-1st-test-new-zealand-tour-of-india-2024 "India v New Zealand, 1st Test - Preview")[PAK vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/101043/pak-vs-eng-2nd-test-england-tour-of-pakistan-2024 "Pakistan v England, 2nd Test - Stumps")[ACT METEORS vs HBHW - Preview](https://www.cricbuzz.com/live-cricket-scores/104034/act-meteors-vs-hbhw-14th-match-t20-spring-challenge-2024 "Australian Capital Territory Women v Hobart Hurricanes Women, 14th Match - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[IND vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/100265/ind-vs-nz-1st-test-new-zealand-tour-of-india-2024 "India v New Zealand, 1st Test - Preview")[ENGW vs WIW - WIW Won](https://www.cricbuzz.com/live-cricket-scores/94678/engw-vs-wiw-20th-match-group-b-icc-womens-t20-world-cup-2024 "England Women v West Indies Women, 20th Match, Group B - WIW Won")[SL vs WI - SL Won](https://www.cricbuzz.com/live-cricket-scores/108257/sl-vs-wi-2nd-t20i-west-indies-tour-of-sri-lanka-2024 "Sri Lanka v West Indies, 2nd T20I - SL Won")[ADSW vs BRHW - Live](https://www.cricbuzz.com/live-cricket-scores/104041/adsw-vs-brhw-15th-match-t20-spring-challenge-2024 "Adelaide Strikers Women v Brisbane Heat Women, 15th Match - Live")[PAK vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/101043/pak-vs-eng-2nd-test-england-tour-of-pakistan-2024 "Pakistan v England, 2nd Test - Stumps")
 
 AllLive NowToday
 
@@ -84,10 +84,6 @@ AllLive NowToday
     
     24th Match
     
-* [Boland vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103528/bol-vs-war-21st-match-csa-t20-challenge "Boland v Warriors, 21st Match - Upcoming")
-    
-    21st Match
-    
 * [Lions vs Western Province](https://www.cricbuzz.com/live-cricket-scores/103539/lions-vs-wpr-23rd-match-csa-t20-challenge "Lions v Western Province, 23rd Match - Upcoming")
     
     23rd Match
@@ -95,6 +91,10 @@ AllLive NowToday
 * [Knights vs Dolphins](https://www.cricbuzz.com/live-cricket-scores/103530/kng-vs-dol-22nd-match-csa-t20-challenge "Knights v Dolphins, 22nd Match - Upcoming")
     
     22nd Match
+    
+* [Boland vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103528/bol-vs-war-21st-match-csa-t20-challenge "Boland v Warriors, 21st Match - Upcoming")
+    
+    21st Match
     
 * CSA T20 Knock Out Competition
     
@@ -125,18 +125,6 @@ AllLive NowToday
     Elite Group A
     
 * [Chhattisgarh vs Delhi](https://www.cricbuzz.com/live-cricket-scores/97279/cg-vs-del-elite-group-d-ranji-trophy "Chhattisgarh v Delhi, Elite Group D - Match drawn")
-    
-    Elite Group D
-    
-* [Puducherry vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97221/pdc-vs-raj-elite-group-b-ranji-trophy "Puducherry v Rajasthan, Elite Group B - Match drawn")
-    
-    Elite Group B
-    
-* [Himachal Pradesh vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/97216/hp-vs-utk-elite-group-b-ranji-trophy "Himachal Pradesh v Uttarakhand, Elite Group B - HP Won")
-    
-    Elite Group B
-    
-* [Railways vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97270/rlys-vs-cdg-elite-group-d-ranji-trophy "Railways v Chandigarh, Elite Group D - RLYS Won")
     
     Elite Group D
     
@@ -176,13 +164,25 @@ AllLive NowToday
     
     Elite Group C
     
+* [Saurashtra vs Tamil Nadu](https://www.cricbuzz.com/live-cricket-scores/97284/saur-vs-tn-elite-group-d-ranji-trophy "Saurashtra v Tamil Nadu, Elite Group D - TN Won")
+    
+    Elite Group D
+    
 * [Vidarbha vs Andhra](https://www.cricbuzz.com/live-cricket-scores/97230/vid-vs-ap-elite-group-b-ranji-trophy "Vidarbha v Andhra, Elite Group B - VID Won")
     
     Elite Group B
     
-* [Saurashtra vs Tamil Nadu](https://www.cricbuzz.com/live-cricket-scores/97284/saur-vs-tn-elite-group-d-ranji-trophy "Saurashtra v Tamil Nadu, Elite Group D - TN Won")
+* [Puducherry vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97221/pdc-vs-raj-elite-group-b-ranji-trophy "Puducherry v Rajasthan, Elite Group B - Match drawn")
+    
+    Elite Group B
+    
+* [Railways vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97270/rlys-vs-cdg-elite-group-d-ranji-trophy "Railways v Chandigarh, Elite Group D - RLYS Won")
     
     Elite Group D
+    
+* [Himachal Pradesh vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/97216/hp-vs-utk-elite-group-b-ranji-trophy "Himachal Pradesh v Uttarakhand, Elite Group B - HP Won")
+    
+    Elite Group B
     
 * Ranji Trophy Plate
     
@@ -197,16 +197,6 @@ AllLive NowToday
 * [Goa vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98098/goa-vs-mnp-plate-ranji-trophy-plate "Goa v Manipur, Plate - GOA Won")
     
     Plate
-    
-* SA Mens Championships 2024
-    
-    [Panama vs Brazil](https://www.cricbuzz.com/live-cricket-scores/108619/pan-vs-bra-final-sa-mens-championships-2024 "Panama v Brazil, Final - PAN Won")
-    
-    Final
-    
-* [Colombia vs Uruguay](https://www.cricbuzz.com/live-cricket-scores/108617/clm-vs-urg-7th-place-play-off-sa-mens-championships-2024 "Colombia v Uruguay, 7th Place Play-off - Abandon")
-    
-    7th Place Play-off
     
 * WOMEN
     
@@ -242,11 +232,11 @@ AllLive NowToday
     
     13th Match
     
-* [Australian Capital Territory Women vs Hobart Hurricanes Women](https://www.cricbuzz.com/live-cricket-scores/104034/act-meteors-vs-hbhw-14th-match-t20-spring-challenge "Australian Capital Territory Women v Hobart Hurricanes Women, 14th Match - Preview")
+* [Australian Capital Territory Women vs Hobart Hurricanes Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/104034/act-meteors-vs-hbhw-14th-match-t20-spring-challenge "Australian Capital Territory Women v Hobart Hurricanes Women, 14th Match - Live")
     
     14th Match
     
-* [Adelaide Strikers Women vs Brisbane Heat Women](https://www.cricbuzz.com/live-cricket-scores/104041/adsw-vs-brhw-15th-match-t20-spring-challenge "Adelaide Strikers Women v Brisbane Heat Women, 15th Match - Preview")
+* [Adelaide Strikers Women vs Brisbane Heat Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/104041/adsw-vs-brhw-15th-match-t20-spring-challenge "Adelaide Strikers Women v Brisbane Heat Women, 15th Match - Live")
     
     15th Match
     
@@ -575,41 +565,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132041/englands-world-cup-hopes-collapse-under-barrage-of-dropped-catches "England's World Cup hopes collapse under barrage of dropped catches")
+
+[England's World Cup hopes collapse under barrage of dropped catches](https://www.cricbuzz.com/cricket-news/132041/englands-world-cup-hopes-collapse-under-barrage-of-dropped-catches "England's World Cup hopes collapse under barrage of dropped catches")
+
+1m ago
+
   [](https://www.cricbuzz.com/cricket-news/132040/qiana-joseph-hayley-matthews-power-west-indies-to-the-semis "Qiana Joseph, Hayley Matthews power West Indies to the semis")
 
 [Qiana Joseph, Hayley Matthews power West Indies to the semis](https://www.cricbuzz.com/cricket-news/132040/qiana-joseph-hayley-matthews-power-west-indies-to-the-semis "Qiana Joseph, Hayley Matthews power West Indies to the semis")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132039/pathum-nissanka-dunith-wellalage-star-in-sri-lankas-series-levelling-win "Nissanka, Wellalage star in Sri Lanka's series-levelling win")
 
 [Nissanka, Wellalage star in Sri Lanka's series-levelling win](https://www.cricbuzz.com/cricket-news/132039/pathum-nissanka-dunith-wellalage-star-in-sri-lankas-series-levelling-win "Nissanka, Wellalage star in Sri Lanka's series-levelling win")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132038/wpl-retention-deadline-extended-to-november-7 "WPL retention deadline extended to November 7")
 
 [WPL retention deadline extended to November 7](https://www.cricbuzz.com/cricket-news/132038/wpl-retention-deadline-extended-to-november-7 "WPL retention deadline extended to November 7")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132037/indias-confused-campaign-of-befuddling-combinations-and-slow-starting-ways "India's confused campaign: Of befuddling combinations and slow-starting ways")
 
 [India's confused campaign: Of befuddling combinations and slow-starting ways](https://www.cricbuzz.com/cricket-news/132037/indias-confused-campaign-of-befuddling-combinations-and-slow-starting-ways "India's confused campaign: Of befuddling combinations and slow-starting ways")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132036/south-africa-look-to-get-on-with-it-in-bangladesh "South Africa look to 'get on with it' in Bangladesh")
 
 [South Africa look to 'get on with it' in Bangladesh](https://www.cricbuzz.com/cricket-news/132036/south-africa-look-to-get-on-with-it-in-bangladesh "South Africa look to 'get on with it' in Bangladesh")
 
-4h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132035/gaby-lewis-named-permanent-captain-of-ireland " Gaby Lewis named permanent captain of Ireland")
-
-[Gaby Lewis named permanent captain of Ireland](https://www.cricbuzz.com/cricket-news/132035/gaby-lewis-named-permanent-captain-of-ireland " Gaby Lewis named permanent captain of Ireland")
-
-4h ago
+10h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
