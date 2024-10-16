@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20/its-z1-ritopek.jpg?itok=ZTIn2hY4)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/arse-balkan/e8curato.gif?itok=TWouwNsr)](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/arse-balkan)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/bdw-uspeh2.jpg?itok=wXs_k79P)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/osmeh-godine.jpg?itok=zEti_ohR)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,6 +422,9 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [43\. Skopski džez festival](http://seecult.org/vest/43-skopski-dzez-festival)
+* [40\. Beogradski džez festival u slavu nasleđa](http://seecult.org/vest/40-beogradski-dzez-festival-u-slavu-nasleda)
+* [67\. Sajam knjiga u slavu slobode reči](http://seecult.org/vest/67-sajam-knjiga-u-slavu-slobode-reci)
 * [Završen Centar za interpretaciju kulturnog nasleđa Feliks Romulijane](http://seecult.org/vest/zavrsen-centar-za-interpretaciju-kulturnog-nasleda-feliks-romulijane)
 * [Milica Stojadinović Srpkinja pesnikinji Dragani Mladenović](http://seecult.org/vest/milica-stojadinovic-srpkinja-pesnikinji-dragani-mladenovic)
 * [17\. Kondenz poziva na okupljanje](http://seecult.org/vest/17-kondenz-poziva-na-okupljanje)
@@ -429,9 +432,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Savremena Crvenkapa](http://seecult.org/vest/savremena-crvenkapa-0)
 * [Nepredvidiva prošlost budućnosti. O političkom potencijalu utopije](http://seecult.org/vest/nepredvidiva-proslost-buducnosti-o-politickom-potencijalu-utopije)
 * [Sveti Georgije ubiva aždahu u pripremi u JDP-u](http://seecult.org/vest/sveti-georgije-ubiva-azdahu-u-pripremi-u-jdp-u)
-* [Podizanje jarčeve trtice](http://seecult.org/vest/podizanje-jarceve-trtice)
-* [Čitanje poruka nevidljivog sveta prirode](http://seecult.org/vest/citanje-poruka-nevidljivog-sveta-prirode)
-* [Gran pri 64. MESS-a predstavi Tragudia Alesandra Sere](http://seecult.org/vest/gran-pri-64-mess-predstavi-tragudia-alesandra-sere)
 
 * [Konkursi](#tab1_1)
 
