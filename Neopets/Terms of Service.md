@@ -8,7 +8,7 @@
 
 [* #### Merch Shop](https://neopetsshop.com/)[* #### Merch Partners](https://www.neopets.com/shopping/index.phtml)
 
-[### Support](https://support.neopets.com/)[Login](https://www.neopets.com/login/) [Sign-Up](https://www.neopets.com/signup/index.phtml)
+[### Support](https://support.neopets.com/)[Sign-Up](https://www.neopets.com/signup/index.phtml)
 
 [Sign-up](https://www.neopets.com/signup/index.phtml) [Login](https://www.neopets.com/login/)
 
