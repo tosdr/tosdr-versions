@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Private Prison Industry  State-Level Contributions, 2016-2017](/assets/Images/teasers/small/Private-prison.JPG)](https://www.followthemoney.org/research/institute-reports/private-prisons-principally-profit-oriented-and-politically-pliable)
+[![Energy $$ in CO](/assets/Images/teasers/small/Energy-to-CO-2013-14.png)](http://www.followthemoney.org/research/blog/energy-dollars-in-denver/)
+
+Energy Giving in Colorado, 2013-14.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
