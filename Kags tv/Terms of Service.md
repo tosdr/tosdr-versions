@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/WNEP/images/fda68742-6c8c-4a1f-91dd-7fa2b4fc8fb7/fda68742-6c8c-4a1f-91dd-7fa2b4fc8fb7_16x9.jpg) ![](https://media.kagstv.com/assets/WNEP/images/fda68742-6c8c-4a1f-91dd-7fa2b4fc8fb7/fda68742-6c8c-4a1f-91dd-7fa2b4fc8fb7_360x203.jpg)](https://www.kagstv.com/article/news/local/garbage-truck-fatality-college-station-oct-15-2024/500-ff29c588-5fd6-4d82-bf17-56985a1e1137)
+    *  [![](https://media.kagstv.com/assets/KYTX/images/e549ba9d-88a0-4536-a2e3-fa91478c291f/20240701T172308/e549ba9d-88a0-4536-a2e3-fa91478c291f_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/e549ba9d-88a0-4536-a2e3-fa91478c291f/20240701T172308/e549ba9d-88a0-4536-a2e3-fa91478c291f_360x203.jpg)](https://www.kagstv.com/article/news/local/robert-roberson/501-69f00ae6-d345-4f9b-bcac-9f3d376533cf)
         
-        #### [Pedestrian dies after being hit by garbage truck in College Station](https://www.kagstv.com/article/news/local/garbage-truck-fatality-college-station-oct-15-2024/500-ff29c588-5fd6-4d82-bf17-56985a1e1137)
+        #### [Execution date for East Texas inmate convicted in 'shaken baby death' remains set for Thursday](https://www.kagstv.com/article/news/local/robert-roberson/501-69f00ae6-d345-4f9b-bcac-9f3d376533cf)
         
-    *  [![](https://media.kagstv.com/assets/KARE/images/c31f2a2a-2207-42e8-98b7-9c878f5d2f84/20241014T221609/c31f2a2a-2207-42e8-98b7-9c878f5d2f84_16x9.jpg) ![](https://media.kagstv.com/assets/KARE/images/c31f2a2a-2207-42e8-98b7-9c878f5d2f84/20241014T221609/c31f2a2a-2207-42e8-98b7-9c878f5d2f84_360x203.jpg)](https://www.kagstv.com/article/news/local/pumpkin-minnesota-2471-pounds-wins-california-contest/89-5b6409dd-8d29-4e09-a07f-b92499198c1c)
+    *  [![](https://media.kagstv.com/assets/WTLV/images/536d34ca-3ab5-4ff0-b55f-0c71c6ced018/536d34ca-3ab5-4ff0-b55f-0c71c6ced018_16x9.jpg) ![](https://media.kagstv.com/assets/WTLV/images/536d34ca-3ab5-4ff0-b55f-0c71c6ced018/536d34ca-3ab5-4ff0-b55f-0c71c6ced018_360x203.jpg)](https://www.kagstv.com/article/traffic/franklin-pin-oak-road-culvert-replacement-oct-16-2024/500-f05312e2-4c4a-4d9e-b448-b2807d5376ca)
         
-        #### [Minnesota man wins world championship with pumpkin weighing 2,471 pounds](https://www.kagstv.com/article/news/local/pumpkin-minnesota-2471-pounds-wins-california-contest/89-5b6409dd-8d29-4e09-a07f-b92499198c1c)
+        #### [Pin Oak Road in Franklin to temporarily close for culvert replacement](https://www.kagstv.com/article/traffic/franklin-pin-oak-road-culvert-replacement-oct-16-2024/500-f05312e2-4c4a-4d9e-b448-b2807d5376ca)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
+        
+        #### [October's supermoon pairs with a comet for a special nighttime spectacle](https://www.kagstv.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
+        
     *  [![](https://media.kagstv.com/assets/WTSP/images/aedc088b-1e2d-40c2-a659-b06424810651/20241010T034805/aedc088b-1e2d-40c2-a659-b06424810651_16x9.jpg) ![](https://media.kagstv.com/assets/WTSP/images/aedc088b-1e2d-40c2-a659-b06424810651/20241010T034805/aedc088b-1e2d-40c2-a659-b06424810651_360x203.jpg)](https://www.kagstv.com/article/weather/hurricane/hurricane-milton/video-tropicana-field-roof-torn-off/67-d5100a87-0aaf-4dbd-a0fe-075abb3a9745)
         
         #### [WATCH: Tropicana Field's roof torn off by winds from Hurricane Milton](https://www.kagstv.com/article/weather/hurricane/hurricane-milton/video-tropicana-field-roof-torn-off/67-d5100a87-0aaf-4dbd-a0fe-075abb3a9745)
-        
-    *  [![](https://media.kagstv.com/assets/CCT/images/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32/20241010T152654/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32/20241010T152654/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/anderson-cooper-hit-by-object-during-hurricane-milton-live-cnn-coverage/507-6ce49ad1-252c-480c-9edc-39816f6d957f)
-        
-        #### [CNN's Anderson Cooper hit by flying object during live hurricane coverage](https://www.kagstv.com/article/news/nation-world/anderson-cooper-hit-by-object-during-hurricane-milton-live-cnn-coverage/507-6ce49ad1-252c-480c-9edc-39816f6d957f)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-71°
+59°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
