@@ -195,10 +195,6 @@ false
         
     * [Tool Consolidation](https://www.splunk.com/en_us/solutions/tool-consolidation.html)
         
-    * [Cloud Transformation](https://www.splunk.com/en_us/solutions/cloud-transformation.html)
-        
-    * [Digital Customer Experience](https://www.splunk.com/en_us/solutions/digital-customer-experience.html)
-        
     
     Better Together
     
@@ -558,10 +554,6 @@ Business Initiatives
 [Data Management](https://www.splunk.com/en_us/solutions/data-management.html)
 
 [Tool Consolidation](https://www.splunk.com/en_us/solutions/tool-consolidation.html)
-
-[Cloud Transformation](https://www.splunk.com/en_us/solutions/cloud-transformation.html)
-
-[Digital Customer Experience](https://www.splunk.com/en_us/solutions/digital-customer-experience.html)
 
 Better Together
 
