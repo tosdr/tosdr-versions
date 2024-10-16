@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Prison Contraband](/wp-content/thumbnails/8467-100x70.jpeg?x53432)
+* [![Life is Impossible](/wp-content/thumbnails/7092-100x70.jpg?x53432)
     
-    Prison Contraband
+    Life is Impossible
     
-    From mobile phones to weapons and narcotics, inside a prison these are all items that can get you into some serious trouble but demand is higher than ever, pushing up the price on the inside and creat](https://documentaryheaven.com/prison-contraband/ "Prison Contraband")
-* [![Cheney’s Law](/wp-content/thumbnails/6357-100x70.png?x53432)
+    A look at how life began on Earth, exploring whether it evolved on the ground, in the sea or in space and considering the theory that it may have begun in the molten world below the ocean floor.](https://documentaryheaven.com/life-is-impossible/ "Life is Impossible")
+* [![Uganda’s Silent War](/wp-content/thumbnails/3808-100x70.jpg?x53432)
     
-    Cheney’s Law
+    Uganda’s Silent War
     
-    For three decades Vice President Dick Cheney conducted a secretive, behind-closed-doors campaign to give the president virtually unlimited wartime power. Finally, in the aftermath of 9/11, the Justice](https://documentaryheaven.com/cheneys-law/ "Cheney’s Law")
-* [![Valveman](/wp-content/thumbnails/2630-100x70.jpg?x53432)
+    Shocking documentary about child soldiers in Uganda, Africa. Winner of the Robert F Kennedy Journalism Award, in HD.Child abuse. Rape. Torture. Abduction. Death. They are the very stuff of nightma](https://documentaryheaven.com/uganda%e2%80%99s-silent-war/ "Uganda’s Silent War")
+* [![The Story of the Weeping Camel](/wp-content/thumbnails/3404-100x70.jpg?x53432)
     
-    Valveman
+    The Story of the Weeping Camel
     
-    Valveman is the story of one mans lifetime obsession vintage radio,told with warmth,humour and innovation. Gerald Wells is Valveman.his lifes work has been to amass one of the worlds largest collecti](https://documentaryheaven.com/valveman/ "Valveman")
-* [![Studio 54: Behind The Scenes](/wp-content/thumbnails/14343-100x70.jpg?x53432)
+    During Spring, a family of nomadic shepherds assists the births of their camel herd. The last camel to calve this season has a protracted labor that persists for two days. With the assistance and inte](https://documentaryheaven.com/the-story-of-the-weeping-camel/ "The Story of the Weeping Camel")
+* [![Drug Kings Of New York](/wp-content/thumbnails/7299-100x70.png?x53432)
     
-    Studio 54: Behind The Scenes
+    Drug Kings Of New York
     
-    Studio 54 was Sodom and Gomorrah with a disco theme, a place where celebrities and civilians alike reveled in unrestrained debauchery. Nothing was off limits when the club was in full swing, drugs, se](https://documentaryheaven.com/studio-54-behind-scenes/ "Studio 54: Behind The Scenes")
-* [![Inside North Korea](/wp-content/thumbnails/166-100x70.png?x53432)
+    In New York City heroin use is on the rise, as a new generation of suburbanite dealers hooked on prescription pills switch to heroin, and venture down the Long Island Express-way dubbed the Heroin Hig](https://documentaryheaven.com/drug-kings-of-new-york/ "Drug Kings Of New York")
+* [![Something in the Air](/wp-content/thumbnails/258-100x70.png?x53432)
     
-    Inside North Korea
+    Something in the Air
     
-    Are you ready to cross into one of the world's most secretive nations, for a rare glimpse of the country and its absolute dictator Kim Jong Il. In this documentary, Lisa Ling takes us on a rare look i](https://documentaryheaven.com/inside-north-korea/ "Inside North Korea")
+    Can polluted air on board planes damage your health? This episode of Panorama talks to pilots who have almost passed out at the controls and passengers who say they've been made ill by toxic fumes. Th](https://documentaryheaven.com/something-in-the-air/ "Something in the Air")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
