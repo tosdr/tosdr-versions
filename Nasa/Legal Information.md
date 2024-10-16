@@ -64,19 +64,19 @@ Suggested Searches
 
 ### Featured
 
-[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
+[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
 
-2 min read
+6 min read
 
-### Hubble Spots a Grand Spiral of Starbursts
+### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
-article4 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
+article3 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
 
 5 min read
 
-### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
+### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 
-article5 days ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article8 hours ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -241,51 +241,57 @@ Back
 
 ### Featured
 
-[![NASA’s Hubble Watches Jupiter’s Great Red Spot Behave Like a Stress Ball](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-jupiter-grs-8panel-2024oct09-stsci-01j9452hkd789drcanamg1jhkv.png)
+[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
 
-4 min read
+6 min read
 
-### NASA’s Hubble Watches Jupiter’s Great Red Spot Behave Like a Stress Ball
+### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
 
-article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-watches-jupiters-great-red-spot-behave-like-a-stress-ball/)[![Photo of the Orion capsule, a white spacecraft with a solar array deployed, with the moon in the background.](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-i-srag-orion.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
 
-3 min read
+5 min read
 
-### Artemis I Radiation Measurements Validate Orion Safety for Astronauts
+### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 
-article 6 days ago](https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/)[![This photo features a tall, charcoal colored structure that looks like a headless AT-AT walker from Star Wars. A rectangular cylinder about twice as tall as a person rests atop a base with tall, skinny "legs." Two people wearing white gowns and blue gloves stand underneath the base, with two other similarly gowned people on either side of the structure. In the background, large walls are covered in light gray panels with seafoam green outlines.](https://www.nasa.gov/wp-content/uploads/2024/10/oba-copy-1.jpg?w=1024)
+article 8 hours ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
 
-4 min read
+2 min read
 
-### NASA’s Roman Space Telescope’s ‘Exoskeleton’ Whirls Through Major Test
+### Hubble Spots a Grand Spiral of Starbursts
 
-article 1 week ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)
+article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)
 
 ### Highlights
 
-[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
+[![An astronaut wearing headphones works with multiple laptops inside the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/iss060e033664.jpg?w=1024)
+
+2 min read
+
+### Station Science Top News: Oct. 11, 2024
+
+article 3 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-11-2024/)[![A long-legged golden spider the size of a person’s palm is visible in the middle of a web with uneven and asymmetrical lines.](https://www.nasa.gov/wp-content/uploads/2024/10/iss027e035652.jpg?w=1024)
+
+4 min read
+
+### Spooky on the Space Station
+
+article 5 hours ago](https://www.nasa.gov/missions/station/iss-research/spooky-on-the-space-station/)[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
 
 3 min read
 
 ### Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
 
-article 4 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Astronaut Kathryn D. Sullivan, 41-G mission specialist, uses binoculars for a magnified viewing of earth through the forward cabin windows.](https://www.nasa.gov/wp-content/uploads/2023/09/41g-11-027.jpg?w=1024)
-
-8 min read
-
-### Kathryn Sullivan: The First American Woman to Walk in Space
-
-article 5 days ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/acd24-0156-048.jpg?w=1024)
-
-2 min read
-
-### NASA Astronauts, Leadership Visit Children’s Hospital, Cancer Moonshot Event
-
-article 6 days ago](https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-astronauts-leadership-visit-childrens-hospital-cancer-moonshot-event/)
+article 4 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)
 
 ### Highlights
 
-[![Carbon Mapper Coalition’s Tanager-1 satellite detected this methane plume in Karachi, Pakistan](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26416-ghg-plumes-16.jpg?w=1024)
+[![Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.](https://science.nasa.gov/wp-content/uploads/2023/12/jason3-20160114climate.jpg)
+
+1 min read
+
+### Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.
+
+article 5 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)[![Carbon Mapper Coalition’s Tanager-1 satellite detected this methane plume in Karachi, Pakistan](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26416-ghg-plumes-16.jpg?w=1024)
 
 4 min read
 
@@ -297,79 +303,73 @@ article 5 days ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detec
 
 ### NASA-Funded Study Assesses Pollution Near Los Angeles-Area Warehouses
 
-article 6 days ago](https://www.nasa.gov/earth/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/)[![NASA astronaut Matthew Dominick captured this photo of Hurricane Milton from the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/gzyjmonxwaa-3bx.jpeg?w=683)
-
-1 min read
-
-### NASA Efforts on Hurricane Milton
-
-article 7 days ago](https://www.nasa.gov/hurricane-milton/)
+article 6 days ago](https://www.nasa.gov/earth/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/)
 
 ### Highlights
 
-[![Eclipse Megamovie Coding Competition](https://science.nasa.gov/wp-content/uploads/2024/10/hy-tran.jpg)
+[![NASA, NOAA: Sun Reaches Maximum Phase in 11-Year Solar Cycle](https://science.nasa.gov/wp-content/uploads/2024/10/001-sun-comparison-00001-print.jpg)
+
+6 min read
+
+### NASA, NOAA: Sun Reaches Maximum Phase in 11-Year Solar Cycle
+
+article 6 hours ago](https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/)[![Eclipse Megamovie Coding Competition](https://science.nasa.gov/wp-content/uploads/2023/03/53641212344-be1e94e20c-o-1.jpg)
 
 3 min read
 
 ### Eclipse Megamovie Coding Competition
 
-article 3 hours ago](https://science.nasa.gov/get-involved/citizen-science/eclipse-megamovie-coding-competition/)[![A SpaceX Falcon Heavy rocket with the Europa Clipper spacecraft aboard](https://www.nasa.gov/wp-content/uploads/2024/10/1-clipper-on-the-pad-24-10-13-at-10-05-47 am.png?w=1024)
+article 10 hours ago](https://science.nasa.gov/get-involved/citizen-science/eclipse-megamovie-coding-competition/)[![Night Lights: Aurora, Noctilucent Clouds, and the Zodiacal Light](https://science.nasa.gov/wp-content/uploads/2024/08/christy-turner-photography-2016.webp)
 
-5 min read
+3 min read
 
-### Journey to a Water World: NASA’s Europa Clipper Is Ready to Launch
+### Night Lights: Aurora, Noctilucent Clouds, and the Zodiacal Light
 
-article 2 days ago](https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/)[![Europa looms large in this reprocessed color view](https://www.nasa.gov/wp-content/uploads/2015/02/pia19048_0.jpg?w=1024)
-
-6 min read
-
-### Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
-
-article 3 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/)
+article 14 hours ago](https://science.nasa.gov/solar-system/skywatching/night-sky-network/nsn-night-lights/)
 
 ### Featured
 
-[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
+[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
+
+3 min read
+
+### Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science
+
+article 5 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-60-new-opportunity-d-21-u-s-contributions-to-ariel-preparatory-science/)[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
 
 5 min read
 
 ### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 
-article 28 mins ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
+article 8 hours ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
 
 2 min read
 
 ### Hubble Spots a Grand Spiral of Starbursts
 
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
-
-5 min read
-
-### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
-
-article 5 days ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)
+article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)
 
 ### Highlights
 
-[![This mosaic from ESA’s Euclid space telescope contains 260 observations in visible and infrared light.](https://www.nasa.gov/wp-content/uploads/2024/10/1-euclid-mosaicr1.jpg?w=1024)
+[![An underwater image of a juvenile black, white, and yellow-striped Bluehead wrasse fish dart in and out of a reef, composed of yellow fire coral (Millepora complanate, back left), branching finger coral (Porites furcate, front left), and various species of sea rods and sea fans. This coral reef sits in the waters of Playa Melones, Puerto Rico.](https://www.nasa.gov/wp-content/uploads/2024/10/oceanos2024loiacono-4454.jpg?w=1024)
 
-5 min read
+7 min read
 
-### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
+### What is a Coral Reef?
 
-article 28 mins ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Eclipse Megamovie Coding Competition](https://science.nasa.gov/wp-content/uploads/2024/10/hy-tran.jpg)
+article 16 mins ago](https://www.nasa.gov/general/what-is-a-coral-reef/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
 
 3 min read
 
-### Eclipse Megamovie Coding Competition
+### Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science
 
-article 3 hours ago](https://science.nasa.gov/get-involved/citizen-science/eclipse-megamovie-coding-competition/)[![Revealing the Hidden Universe with Full-shell X-ray Optics at NASA MSFC](https://science.nasa.gov/wp-content/uploads/2024/10/crab4-1.webp)
+article 5 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-60-new-opportunity-d-21-u-s-contributions-to-ariel-preparatory-science/)[![Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.](https://science.nasa.gov/wp-content/uploads/2023/12/jason3-20160114climate.jpg)
 
-8 min read
+1 min read
 
-### Revealing the Hidden Universe with Full-shell X-ray Optics at NASA MSFC
+### Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.
 
-article 3 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/revealing-the-hidden-universe-with-full-shell-x-ray-optics-at-nasa-msfc/)
+article 5 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)
 
 ### Highlights
 
@@ -379,19 +379,19 @@ article 3 hours ago](https://science.nasa.gov/science-research/science-enabling-
 
 ### NASA Spotlight: Felipe Valdez, an Inspiring Engineer
 
-article 1 day ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
 
 2 min read
 
 ### A Serendipitous NASA Family Reunion
 
-article 2 days ago](https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
 
 2 min read
 
 ### Una reunión familiar de la NASA por casualidad
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)
+article 3 days ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)
 
 ### Highlights
 
@@ -427,25 +427,25 @@ article 1 week ago](https://www.nasa.gov/learning-resources/new-minecraft-game/)
 
 ### Featured
 
-[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
+[![Hurricane Milton as seen from NASA team.](https://www.nasa.gov/wp-content/uploads/2024/10/hurricanemiltonuavsar.jpg?w=1024)
 
 3 min read
 
-### Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
+### NASA Activates Resources to Help Assess Impacts from Hurricane Milton
 
-article 4 days ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Lopez-Alegria, second from left, and the rest of the Ax-3 crew](https://www.nasa.gov/wp-content/uploads/2024/09/hhm-2024-43-la-ax-3-onboard-crew-photo-iss070e075488.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/general/nasa-activates-resources-to-help-assess-impacts-from-hurricane-milton/)[![Illustration of NASA’s Perseverance rover begins its descent through the Martian atmosphere](https://www.nasa.gov/wp-content/uploads/2023/03/pia24318_08_powereddescent_2000.jpg?w=1024)
 
-24 min read
+2 min read
 
-### NASA Celebrates Hispanic Heritage Month 2024
+### Controlled Propulsion for Gentle Landings 
 
-article 4 days ago](https://www.nasa.gov/history/nasa-celebrates-hispanic-heritage-month-2024/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/)[![Astronaut Kathryn D. Sullivan, 41-G mission specialist, uses binoculars for a magnified viewing of earth through the forward cabin windows.](https://www.nasa.gov/wp-content/uploads/2023/09/41g-11-027.jpg?w=1024)
 
-4 min read
+8 min read
 
-### NASA Terminal Transmits First Laser Communications Uplink to Space 
+### Kathryn Sullivan: The First American Woman to Walk in Space
 
-article 6 days ago](https://www.nasa.gov/technology/space-comms/space-communications/nasa-terminal-transmits-first-laser-communications-uplink-to-space/)
+article 5 days ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)
 
 ### Highlights
 
@@ -455,7 +455,7 @@ article 6 days ago](https://www.nasa.gov/technology/space-comms/space-communicat
 
 ### Una reunión familiar de la NASA por casualidad
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)[![A woman in a gray suit stands smiling in front of a NASA building. Behind her to the left, the X-1E experimental aircraft is displayed.](https://www.nasa.gov/wp-content/uploads/2024/10/patricia-ortiz-hhm-10012024.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/)[![A woman in a gray suit stands smiling in front of a NASA building. Behind her to the left, the X-1E experimental aircraft is displayed.](https://www.nasa.gov/wp-content/uploads/2024/10/patricia-ortiz-hhm-10012024.jpg?w=1024)
 
 2 min read
 
