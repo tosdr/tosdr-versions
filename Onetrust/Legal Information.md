@@ -195,9 +195,9 @@ On-demand webinar coming soon...
 
 ### Latest News
 
+* [OneTrust unveils the next generation of DataGuidance Regulatory Research](https://www.onetrust.com/news/onetrust-unveils-the-next-generation-of-dataguidance-regulatory-research/)
 * [OneTrust Automates DORA ICT Risk Management and Compliance](https://www.onetrust.com/news/onetrust-automates-dora-ict-risk-management-and-compliance/)
 * [OneTrust Customers Saw 227% ROI, New Study Reveals](https://www.onetrust.com/news/independent-study-shows-companies-using-onetrust-increased-revenue-and-decreased-costs/)
-* [The Future of Compliance: OneTrust Introduces Compliance Automation on the OneTrust Platform](https://www.onetrust.com/news/onetrust-introduces-compliance-automation-on-the-onetrust-platform/)
 
 ### Contact Us
 
