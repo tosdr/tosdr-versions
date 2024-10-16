@@ -88,7 +88,7 @@
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
@@ -307,6 +307,7 @@ Your session expired. Please login again to continue to purchase.
     * [Upgrade my system](https://enphase.com/homeowners/home-solar-upgrade-program)
     * [Enphase App login](https://enlighten.enphaseenergy.com/)
     * [Blog](https://enphase.com/blog)
+    * [Connected appliances](https://enphase.com/homeowners/connected-appliances)
     * [Critical updates](https://enphase.com/homeowners/updates)
     * [Design my system](https://estimator.enphase.com/)
     
@@ -336,7 +337,7 @@ Your session expired. Please login again to continue to purchase.
     * [NEM 3.0](https://enphase.com/installers/nem3)
     * [Commercial](https://enphase.com/installers/commercial)
     * [Critical updates](https://enphase.com/installers/updates)
-    * [Storage](https://enphase.com/installers/storage)
+    * [Storage](https://enphase.com/installers/storage/gen2)
     
 * Support
     
