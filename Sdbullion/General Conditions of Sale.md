@@ -2977,7 +2977,7 @@ RESOURCES
 
   ![Top 500 Retailers Image](https://sdbullion.com/media/wysiwyg/footer/top-500-online-retailers.png)
 
-  [![inc image](https://sdbullion.com/media/wysiwyg/footer/inc-500-logo-min.png)](https://www.inc.com/profile/sd-bullion)
+ [![inc image](https://sdbullion.com/media/wysiwyg/footer/inc-5000-logo.png)](https://www.inc.com/profile/sd-bullion)
 
      [![bbb desktop image](https://sdbullion.com/media/wysiwyg/footer/bbb.png)   ![bbb mobile image](https://sdbullion.com/media/wysiwyg/footer/bbb-mobile.png)](https://www.bbb.org/toledo/business-reviews/gold-silver-and-platinum-dealers/sd-bullion-in-ottawa-lake-mi-90114703#bbbseal)
 
