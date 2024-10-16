@@ -69,12 +69,13 @@ Menu
     
     * [Birthday](https://www.moonpig.com/uk/personalised-cards/birthday/)
     * [Anniversary](https://www.moonpig.com/uk/personalised-cards/anniversary/)
+    * [Halloween](https://www.moonpig.com/uk/personalised-cards/halloween/)
+    * [Diwali](https://www.moonpig.com/uk/personalised-cards/diwali/)
     * [Engagement](https://www.moonpig.com/uk/personalised-cards/engagement/)
     * [Wedding](https://www.moonpig.com/uk/personalised-cards/weddings/)
     * [New Job](https://www.moonpig.com/uk/personalised-cards/new-job/)
     * [New Home](https://www.moonpig.com/uk/personalised-cards/new-home/)
     * [New Baby](https://www.moonpig.com/uk/personalised-cards/new-baby/)
-    * [Halloween](https://www.moonpig.com/uk/personalised-cards/halloween/)
     
     ### Sentiment
     
@@ -214,6 +215,7 @@ Menu
     * [Congratulations](https://www.moonpig.com/uk/gifts/congratulations/)
     * [Anniversary](https://www.moonpig.com/uk/gifts/anniversary/all/)
     * [Wedding](https://www.moonpig.com/uk/gifts/weddings/all/)
+    * [Diwali](https://www.moonpig.com/uk/gifts/diwali/)
     * [Good Luck](https://www.moonpig.com/uk/gifts/good-luck/)
     * [New Baby](https://www.moonpig.com/uk/gifts/new-baby/all/)
     * [New Home](https://www.moonpig.com/uk/gifts/new-home/)
