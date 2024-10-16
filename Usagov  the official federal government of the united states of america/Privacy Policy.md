@@ -38,14 +38,11 @@ Visit [vote.gov](https://www.vote.gov/) to learn how to register to vote or to u
 [](#paragraph--id--2532)
 
 Welcome to USA.gov
-
-
-======================
+==================
 
 Benefits.gov has been discontinued. USA.gov is the new centralized place for finding government benefits for health care, housing, food, unemployment, and more.
 
 * Continue to USA.gov
-    
 
 _[![USAGov Logo](/themes/custom/usagov/images/USAGov_logo_51px.png)](https://www.usa.gov/ "USAGov Logo")_
 
@@ -160,17 +157,17 @@ Ask USA.gov a question at
 
 #### Find us on social media
 
- [![Facebook USAGov](/themes/custom/usagov/images/social-media-icons/Facebook_Icon.svg) Facebook](https://www.facebook.com/USAgov)
+ [![Instagram_Icon.svg](/themes/custom/usagov/images/social-media-icons/Instagram_Icon.svg) Facebook](https://www.facebook.com/USAgov)
 
- [![X Twitter USAGov](/themes/custom/usagov/images/social-media-icons/X_Twitter_Icon.svg) Twitter](https://twitter.com/USAgov)
+ [![X_Twitter_Icon.svg](/themes/custom/usagov/images/social-media-icons/X_Twitter_Icon.svg) Twitter](https://twitter.com/USAgov)
 
- [![Youtube USAGov](/themes/custom/usagov/images/social-media-icons/YouTube_Icon.svg) YouTube](https://www.youtube.com/usagov1)
+ [![YouTube_Icon.svg](/themes/custom/usagov/images/social-media-icons/YouTube_Icon.svg) YouTube](https://www.youtube.com/usagov1)
 
- [![Instagram USAGov](/themes/custom/usagov/images/social-media-icons/Instagram_Icon.svg) Instagram](https://www.instagram.com/usagov/)
+ [![Instagram_Icon.svg](/themes/custom/usagov/images/social-media-icons/Instagram_Icon.svg) Instagram](https://www.instagram.com/usagov)
 
 USAGov is the official guide to government information and services
 
-An official website of the [U.S. General Services Administration](https://www.gsa.gov/)
+An official website of the [U.S. Gerneral Services Administration](https://www.gsa.gov/)
 
 * [GSA accessibility support](https://www.gsa.gov/website-information/accessibility-statement?footer=)
 * [GSA privacy policy](https://www.gsa.gov/website-information/website-policies#privacy)
