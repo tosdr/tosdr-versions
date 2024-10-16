@@ -39,7 +39,7 @@
     
     Watch what you want, when you want, from wherever you want with Proton VPN](https://protonvpn.com/streaming)
     
-* [Business VPN](https://protonvpn.com/business)
+* [Business VPN](https://protonvpn.com/business?ref=pvpnb2cheader)
 
 * [Sign in](https://account.protonvpn.com/login)
 * [Create account](https://protonvpn.com/pricing)
@@ -111,7 +111,7 @@ Get started
 * [Who owns Proton VPN?](https://protonvpn.com/support/who-owns-protonvpn)
 * [How to torrent safely with a VPN](https://protonvpn.com/support/bittorrent-vpn)
 * [Proton VPN plans explained: Proton Free, Proton VPN Plus, and Proton Unlimited](https://protonvpn.com/support/proton-vpn-plans)
-* [SCIM provisioning API](https://protonvpn.com/support/scim-provisioning-api)
+* [How to use Proton VPN Live Chat](https://protonvpn.com/support/live-chat-support)
 
 Didn’t find what you were looking for?
 --------------------------------------
@@ -128,15 +128,25 @@ Partnerships contact[partners@proton.me](mailto:partners@proton.me)
 
 ![Proton VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233227/static/logos/proton-vpn-trademark_xiobqc.svg)
 
-Proton - Privacy by default
+* [![X](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/x.svg)(new window)](https://x.com/intent/user?screen_name=ProtonVPN)
+* [![Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/reddit.svg)(new window)](https://www.reddit.com/r/ProtonVPN/)
+* [![Instagram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/instagram.svg)(new window)](https://www.instagram.com/protonprivacy/)
+* [![Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/facebook.svg)(new window)](https://www.facebook.com/Proton)
+* [![LinkedIn](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/linkedin.svg)(new window)](https://www.linkedin.com/company/protonprivacy/)
+* [![Mastodon](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/mastodon.svg)(new window)](https://mastodon.social/@protonprivacy)
+* [![RSS](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/rss.svg)](https://protonvpn.com/blog/feed)
+* [![Threads](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/threads.svg)(new window)](https://www.threads.net/@protonprivacy)
+* [![WhatsApp](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/whatsapp.svg)(new window)](https://www.whatsapp.com/channel/0029VaErt8I4tRrjiU8eMd1U)
+* [![Telegram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/telegram.svg)(new window)](https://t.me/proton_privacy)
+* [![UserVoice](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/uservoice.svg)(new window)](https://protonmail.uservoice.com/)
+* [![YouTube](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/youtube.svg)(new window)](https://www.youtube.com/@ProtonAG?sub_confirmation=1)
+* [![TikTok](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/tiktok.svg)(new window)](https://www.tiktok.com/@privacytok)
 
-* [![Twitter](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065299/static/social/x-widestroke-purple_f4zjnu.svg)(new window)](https://twitter.com/intent/user?screen_name=ProtonVPN)
-* [![Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/reddit-purple_gznsmi.svg)(new window)](https://www.reddit.com/r/ProtonVPN/)
-* [![Instagram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/instagram-purple_qrninv.svg)(new window)](https://www.instagram.com/protonprivacy/)
-* [![Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/facebook-purple_gcxvti.svg)(new window)](https://www.facebook.com/Proton)
-* [![Linkedin](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/linkedin-purple_zrlizy.svg)(new window)](https://www.linkedin.com/company/protonprivacy/)
-* [![Mastodon](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/mastodon-purple_oepmfa.svg)(new window)](https://mastodon.social/@protonprivacy)
-* [![Youtube](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/youtube-purple_nuezps.svg)(new window)](https://www.youtube.com/@ProtonAG?sub_confirmation=1)
+Proton AG
+
+Route de la Galaise 32  
+1228 Plan-les-Ouates  
+Geneva, Switzerland
 
 * ### Features
     
@@ -146,7 +156,7 @@ Proton - Privacy by default
     * [VPN for streaming](https://protonvpn.com/streaming)
     * [Netflix VPN](https://protonvpn.com/streaming/netflix)
     * [Secure Core VPN](https://protonvpn.com/support/secure-core-vpn/)
-    * [VPN for Business](https://protonvpn.com/business)
+    * [VPN for Business](https://protonvpn.com/business?ref=pvpnb2cfooter)
     * [Getting started](https://protonvpn.com/support/protonvpn-setup-guide/)
 * ### Platforms
     
@@ -176,44 +186,16 @@ Proton - Privacy by default
     
 * Connect
     * [Help and support](https://protonvpn.com/support/)
-    * [Business sales](https://protonvpn.com/business/contact)
+    * [Business sales](https://protonvpn.com/business/contact?ref=ftrlnk)
     * [Partners and affiliates(new window)](https://proton.me/partners?ref=pvpncom)
     * [Press and media(new window)](https://proton.me/media?ref=pvpncom)
     * [Contact us](https://protonvpn.com/support-form)
     * [Live chat
         
         For customers](https://account.protonvpn.com/dashboard?chat=true)
+    * [Student discount(new window)](https://proton.me/student)
 
 * * *
-
-Proton AG
-
-Route de la Galaise 32  
-1228 Plan-les-Ouates  
-Geneva, Switzerland
-
-Built with support from
-
-![Swiss Confederation Flag](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693295499/static/footer/swiss-confederation_pgkwwd.svg)
-
-Schweizerische Eidgenossenschaft
-
-Confédération Suisse
-
-Confederazione Svizzera
-
-Confederaziun Svizra
-
-Swiss Confederation
-
-Innosuisse - Swiss Innovation Agency
-
-![European Flag](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693295499/static/footer/Flag_of_Europe_arpkfs.svg)
-
-This project is supported  
-by the European Union’s  
-Horizon 2020 program  
-(Grant No 848554)
 
 * [System status(new window)](https://status.proton.me/)
 * [Report abuse](mailto:abuse@protonvpn.com)
