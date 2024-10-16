@@ -839,6 +839,7 @@
                         * [ ]  [Security Policies - How we prioritize our current work?](https://handbook.gitlab.com/handbook/engineering/development/sec/govern/security-policies/workflow/)
                         * [ ]  [Security Policies - Working on features](https://handbook.gitlab.com/handbook/engineering/development/sec/govern/security-policies/feature_process/)
                     * [ ]  [Govern, Threat Insights](https://handbook.gitlab.com/handbook/engineering/development/sec/govern/threat-insights/)
+                        * [ ]  [Threat Insights - Vulnerability Explanation and Vulnerability Resolution troubleshooting](https://handbook.gitlab.com/handbook/engineering/development/sec/govern/threat-insights/ve_vr_troubleshooting/)
                     * [ ]  [Govern:Pipeline Security Group](https://handbook.gitlab.com/handbook/engineering/development/sec/govern/pipeline-security/)
                         * [ ]  [Pipeline Security Group - JTBD](https://handbook.gitlab.com/handbook/engineering/development/sec/govern/pipeline-security/jtbd/)
                     * [ ]  [Security Policies and Threat Insights planning](https://handbook.gitlab.com/handbook/engineering/development/sec/govern/sp-ti-planning/)
