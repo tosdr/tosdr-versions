@@ -86,13 +86,6 @@ Main Menu
     
     [Explore jobs](https://www.terra.do/climate-jobs/job-board/)
     
-    Blog: It Takes a Planet
-    -----------------------
-    
-    Climate articles from real world changemakers: a global resource of climate information.
-    
-    [Read blog](https://www.terra.do/blog/)
-    
     The Climate Switch
     ------------------
     
@@ -100,12 +93,20 @@ Main Menu
     
     [Subscribe](https://www.terra.do/#newsletter)
     
-    Climate Events
-    --------------
+    Blog: It Takes a Planet
+    -----------------------
     
-    Join live climate events every week, and watch past events on demand.
+    Climate articles from real world changemakers: a global resource of climate information.
     
-    [Browse events](https://app.terra.do/app/events/upcoming)
+    [Read blog](https://www.terra.do/blog/)
+    
+    New
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20600'%3E%3C/svg%3E)
+    
+    ![](https://web.terra.do/wp-content/uploads/2024/03/600x600bb.webp)](https://www.terra.do/#resources)
+    
+    ###### [Climate Swings – A Biweekly Podcast on Climate Action from Terra.do Fellow | **Listen Now**](https://www.terra.do/#resources)
     
 * [About](https://www.terra.do/about/)
     
