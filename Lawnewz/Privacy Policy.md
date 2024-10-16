@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Patrick Byrne, Hunter Biden](https://am21.mediaite.com/lc/cnt/uploads/2023/11/Patrick-Byrne-Hunter-Biden-432x243.jpg)](https://lawandcrime.com/high-profile/hunter-biden-attempt-to-put-ex-overstock-ceo-under-oath-in-defamation-suit-frustrated-by-sudden-move-to-dubai-and-claims-of-venezuelan-bounty/)
+1. [![Berline Burkholder appears in a booking photo.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Berline-Burkholder-432x243.jpg)](https://lawandcrime.com/crime/i-did-something-i-wasnt-supposed-to-do-mom-sentenced-for-pouring-scalding-hot-liquid-on-her-9-month-old-daughter/)
     
-    ### [Hunter Biden attempt to put ex-Overstock CEO under oath in defamation suit frustrated by sudden move to Dubai and claims of Venezuelan 'bounty'](https://lawandcrime.com/high-profile/hunter-biden-attempt-to-put-ex-overstock-ceo-under-oath-in-defamation-suit-frustrated-by-sudden-move-to-dubai-and-claims-of-venezuelan-bounty/)
+    ### ['I did something I wasn’t supposed to do': Mom sentenced for pouring scalding hot liquid on her 9-month-old daughter](https://lawandcrime.com/crime/i-did-something-i-wasnt-supposed-to-do-mom-sentenced-for-pouring-scalding-hot-liquid-on-her-9-month-old-daughter/)
     
-2. [![Background: Mobile home park in Dallas, Texas, where a fire killed a man and three dogs (WFAA/YouTube). Inset: Mirsa Lopez (Lew Sterrit Justice Center).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Mirsa-Lopez-432x243.jpg)](https://lawandcrime.com/crime/woman-denied-access-to-bathroom-sets-blaze-that-killed-1-man-and-3-dogs-police/)
-    
-    ### [Woman denied access to bathroom sets blaze that killed 1 man and 3 dogs: Police](https://lawandcrime.com/crime/woman-denied-access-to-bathroom-sets-blaze-that-killed-1-man-and-3-dogs-police/)
-    
-3. [![Brett Kavanugh, Stormy Daniels, Michael Avenatti](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Kavanaugh-Avenatti-432x243.jpg)](https://lawandcrime.com/high-profile/justice-kavanaugh-again-does-nothing-as-scotus-rejects-michael-avenatti-appeal-in-stormy-daniels-case/)
+2. [![Brett Kavanugh, Stormy Daniels, Michael Avenatti](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Kavanaugh-Avenatti-432x243.jpg)](https://lawandcrime.com/high-profile/justice-kavanaugh-again-does-nothing-as-scotus-rejects-michael-avenatti-appeal-in-stormy-daniels-case/)
     
     ### [Justice Kavanaugh on the sidelines again as Supreme Court ignores Michael Avenatti claim that conviction for stealing Stormy Daniels' identity 'risks sowing mischief'](https://lawandcrime.com/high-profile/justice-kavanaugh-again-does-nothing-as-scotus-rejects-michael-avenatti-appeal-in-stormy-daniels-case/)
     
-4. [![From left to right/ Leilani Simon and Quinton Simon (District Attorney's Office), and Simon in court (Law&Crime)](https://am24.mediaite.com/lc/cnt/uploads/2024/10/From-left-to-right-Leilani-Simon-and-Quinton-Simon-District-Attorneys-Office-and-Simon-in-court-LawCrime-432x243.png)](https://lawandcrime.com/crime/it-was-spoiled-mom-accused-of-killing-toddler-tossing-body-in-dumpster-told-cops-she-was-just-throwing-away-stinky-shrimp-pasta/)
+3. [![Inset: Ashley Bush (Benton County Sheriff's Office). Background: Amber Waterman (McDonald County Detention Center).](https://am24.mediaite.com/lc/cnt/uploads/2024/07/Inset-Ashley-Bush-Benton-County-Sheriffs-Office.-Background-Amber-Waterman-McDonald-County-Detention-Center-432x243.jpg)](https://lawandcrime.com/crime/woman-who-killed-pregnant-victim-she-met-on-facebook-cut-fetus-from-her-womb-and-claimed-child-as-her-own-is-sentenced/)
     
-    ### ['It was spoiled': Mom accused of killing toddler, tossing body in dumpster told cops she was just throwing away 'stinky shrimp pasta'](https://lawandcrime.com/crime/it-was-spoiled-mom-accused-of-killing-toddler-tossing-body-in-dumpster-told-cops-she-was-just-throwing-away-stinky-shrimp-pasta/)
+    ### [Woman who killed pregnant victim she met on Facebook, cut fetus from her womb and 'claimed' child as her own is sentenced](https://lawandcrime.com/crime/woman-who-killed-pregnant-victim-she-met-on-facebook-cut-fetus-from-her-womb-and-claimed-child-as-her-own-is-sentenced/)
     
-5. [![Donald Trump, Philip Esformes](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Trump-Esformes-432x243.jpg)](https://lawandcrime.com/high-profile/medicare-fraudster-devoted-to-prayer-and-given-another-chance-by-trump-arrested-on-eve-of-birthday-allegedly-threatened-wife-in-front-of-family-members/)
+4. [![Kristin Burnett](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Kristin-Burnett-432x243.jpg)](https://lawandcrime.com/crime/woman-pissed-about-line-cutting-on-festival-ride-chokes-12-year-old-trying-to-play-peacekeeper-cops/)
     
-    ### [Medicare fraudster 'devoted to prayer' and given another chance by Trump arrested on eve of birthday, allegedly threatened wife in front of family members](https://lawandcrime.com/high-profile/medicare-fraudster-devoted-to-prayer-and-given-another-chance-by-trump-arrested-on-eve-of-birthday-allegedly-threatened-wife-in-front-of-family-members/)
+    ### [Woman pissed about line-cutting on festival ride chokes 12-year-old girl trying to play peacekeeper: Cops](https://lawandcrime.com/crime/woman-pissed-about-line-cutting-on-festival-ride-chokes-12-year-old-trying-to-play-peacekeeper-cops/)
+    
+5. [![Inset, top to bottom: Jason Ross (Macomb County Sheriff) and Kathleen Hales (GoFundMe). Background: Police at the scene where Ross killed Hales (WJBK).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Inset-top-to-bottom-Jason-Ross-Macomb-County-Sheriff-and-Kathleen-Hales-GoFundMe.-Background-Police-at-the-scene-where-Ross-killed-Hales-WJBK-432x243.jpg)](https://lawandcrime.com/crime/man-told-police-he-and-girlfriend-fought-like-men-after-he-killed-her-with-hammer-and-knives/)
+    
+    ### [Man told police he and girlfriend 'fought like men' after he killed her with hammer and knives](https://lawandcrime.com/crime/man-told-police-he-and-girlfriend-fought-like-men-after-he-killed-her-with-hammer-and-knives/)
     
 
 [](http://eepurl.com/c89Jdb)
