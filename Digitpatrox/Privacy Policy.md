@@ -20,16 +20,16 @@ Wednesday, October 16 2024
 
 Latest
 
-* [Intel, AMD unite in new x86 alliance to tackle AI, other challenges](https://digitpatrox.com/intel-amd-unite-in-new-x86-alliance-to-tackle-ai-other-challenges/)
-* [YouTube Is Rolling Out a Bunch of New (and Free) Features](https://digitpatrox.com/youtube-is-rolling-out-a-bunch-of-new-and-free-features/)
-* [How to use Ventoy to create bootable USB on Windows 11, 10 (2024)](https://digitpatrox.com/how-to-use-ventoy-to-create-bootable-usb-on-windows-11-10-2024/)
-* [How to View All User Accounts on Windows 11](https://digitpatrox.com/how-to-view-all-user-accounts-on-windows-11/)
-* [With one year to go until Windows 10 end of life, here’s what businesses should do to prepare](https://digitpatrox.com/with-one-year-to-go-until-windows-10-end-of-life-heres-what-businesses-should-do-to-prepare/)
-* [Why Tech Buyers Face AI-Related Project Failures](https://digitpatrox.com/why-tech-buyers-face-ai-related-project-failures/)
-* [NYT Connections today hints and answers — Wednesday, October 16 (#493)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-october-16-493/)
-* [Amazon says 175 million customer now use passkeys to log in](https://digitpatrox.com/amazon-says-175-million-customer-now-use-passkeys-to-log-in/)
-* [Trump’s crypto website crashed after its WLFI token went on sale](https://digitpatrox.com/trumps-crypto-website-crashed-after-its-wlfi-token-went-on-sale/)
-* [Here Are All the New Features in Android 15](https://digitpatrox.com/here-are-all-the-new-features-in-android-15/)
+* [How Microsoft became a Big Tech choirboy – Computerworld](https://digitpatrox.com/how-microsoft-became-a-big-tech-choirboy-computerworld/)
+* [How to Prepare for Your First 5K Race](https://digitpatrox.com/how-to-prepare-for-your-first-5k-race/)
+* [Razer’s Kishi Ultra Controller Just Got Better](https://digitpatrox.com/razers-kishi-ultra-controller-just-got-better/)
+* [American utilities firms need to invest now to feed AI energy demands](https://digitpatrox.com/american-utilities-firms-need-to-invest-now-to-feed-ai-energy-demands/)
+* [Generative AI in Security: Risks and Mitigation Strategies](https://digitpatrox.com/generative-ai-in-security-risks-and-mitigation-strategies/)
+* [NYT Strands today — hints, spangram and answers for game #227 (Wednesday, October 16 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-227-wednesday-october-16-2024/)
+* [Finland seizes servers of ‘Sipultie’ dark web drugs market](https://digitpatrox.com/finland-seizes-servers-of-sipultie-dark-web-drugs-market/)
+* [Here’s a bunch of bananas shit Trump said today about breaking up Google](https://digitpatrox.com/heres-a-bunch-of-bananas-shit-trump-said-today-about-breaking-up-google/)
+* [What Is App Archiving on Android 15 and How to Use It](https://digitpatrox.com/what-is-app-archiving-on-android-15-and-how-to-use-it/)
+* [Google is going nuclear | ITPro](https://digitpatrox.com/google-is-going-nuclear-itpro/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3564868-0-39067600-1729024644-slack-imgs.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/intel-amd-unite-in-new-x86-alliance-to-tackle-ai-other-challenges/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3564731-0-05700300-1729058572-sasun-bughdaryan-b0pNcKAPDSg-unsplash.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/how-microsoft-became-a-big-tech-choirboy-computerworld/)
     
-    [Intel, AMD unite in new x86 alliance to tackle AI, other challenges](https://digitpatrox.com/intel-amd-unite-in-new-x86-alliance-to-tackle-ai-other-challenges/)
+    [How Microsoft became a Big Tech choirboy – Computerworld](https://digitpatrox.com/how-microsoft-became-a-big-tech-choirboy-computerworld/)
     
-    17 mins ago
+    39 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JA8QMVBTV7A8A9K3SFSDC6PQ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/youtube-is-rolling-out-a-bunch-of-new-and-free-features/)
+* [![](https://lifehacker.com/imagery/articles/01JA8V4Z9VX6Y3TXFQ9BCPDSMS/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-prepare-for-your-first-5k-race/)
     
-    [YouTube Is Rolling Out a Bunch of New (and Free) Features](https://digitpatrox.com/youtube-is-rolling-out-a-bunch-of-new-and-free-features/)
-    
-    44 mins ago
-    
-* [![](https://pureinfotech.com/wp-content/uploads/2023/05/ventoy-usb-windows-11-iso-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-use-ventoy-to-create-bootable-usb-on-windows-11-10-2024/)
-    
-    [How to use Ventoy to create bootable USB on Windows 11, 10 (2024)](https://digitpatrox.com/how-to-use-ventoy-to-create-bootable-usb-on-windows-11-10-2024/)
+    [How to Prepare for Your First 5K Race](https://digitpatrox.com/how-to-prepare-for-your-first-5k-race/)
     
     1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/windows-11-2.jpg)](https://digitpatrox.com/how-to-view-all-user-accounts-on-windows-11/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/razer-kishi-ultra-sensa-hd-rapid-trigger-ipad-mini-1.jpg)](https://digitpatrox.com/razers-kishi-ultra-controller-just-got-better/)
     
-    [How to View All User Accounts on Windows 11](https://digitpatrox.com/how-to-view-all-user-accounts-on-windows-11/)
-    
-    1 hour ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/cHFzemjmFpSdLuBFvApMzE-1200-80.jpg)](https://digitpatrox.com/with-one-year-to-go-until-windows-10-end-of-life-heres-what-businesses-should-do-to-prepare/)
-    
-    [With one year to go until Windows 10 end of life, here’s what businesses should do to prepare](https://digitpatrox.com/with-one-year-to-go-until-windows-10-end-of-life-heres-what-businesses-should-do-to-prepare/)
+    [Razer’s Kishi Ultra Controller Just Got Better](https://digitpatrox.com/razers-kishi-ultra-controller-just-got-better/)
     
     2 hours ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/z7BQU6iiq9qjmfteHKw4mE-1200-80.jpg)](https://digitpatrox.com/american-utilities-firms-need-to-invest-now-to-feed-ai-energy-demands/)
+    
+    [American utilities firms need to invest now to feed AI energy demands](https://digitpatrox.com/american-utilities-firms-need-to-invest-now-to-feed-ai-energy-demands/)
+    
+    3 hours ago
+    
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241015-microsoft-generative-ai-security-risk-reduction-isc2.jpg)](https://digitpatrox.com/generative-ai-in-security-risks-and-mitigation-strategies/)
+    
+    [Generative AI in Security: Risks and Mitigation Strategies](https://digitpatrox.com/generative-ai-in-security-risks-and-mitigation-strategies/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [17 mins ago
+* [39 mins ago
     
-    ### Intel, AMD unite in new x86 alliance to tackle AI, other challenges](https://digitpatrox.com/intel-amd-unite-in-new-x86-alliance-to-tackle-ai-other-challenges/)
-* [44 mins ago
-    
-    ### YouTube Is Rolling Out a Bunch of New (and Free) Features](https://digitpatrox.com/youtube-is-rolling-out-a-bunch-of-new-and-free-features/)
+    ### How Microsoft became a Big Tech choirboy – Computerworld](https://digitpatrox.com/how-microsoft-became-a-big-tech-choirboy-computerworld/)
 * [1 hour ago
     
-    ### How to use Ventoy to create bootable USB on Windows 11, 10 (2024)](https://digitpatrox.com/how-to-use-ventoy-to-create-bootable-usb-on-windows-11-10-2024/)
+    ### How to Prepare for Your First 5K Race](https://digitpatrox.com/how-to-prepare-for-your-first-5k-race/)
+* [2 hours ago
+    
+    ### Razer’s Kishi Ultra Controller Just Got Better](https://digitpatrox.com/razers-kishi-ultra-controller-just-got-better/)
 
 Most Popular Topics
 
-* [1 week ago
+* [3 weeks ago
     
-    ### Ransomware gang Medusa claims cyber attack on Albany College of Pharmacy and Health Sciences – $150K ransom](https://digitpatrox.com/ransomware-gang-medusa-claims-cyber-attack-on-albany-college-of-pharmacy-and-health-sciences-150k-ransom/)
-* [4 weeks ago
+    ### NYT Strands Today: Hints, Answers & Spangram for September 28](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-28/)
+* [August 13, 2024
     
-    ### Red Flags to Look For When Buying a Used Car](https://digitpatrox.com/red-flags-to-look-for-when-buying-a-used-car/)
-* [September 2, 2024
+    ### The Pixel Watch 3 Can Detect When Your Heart Stops](https://digitpatrox.com/the-pixel-watch-3-can-detect-when-your-heart-stops/)
+* [3 weeks ago
     
-    ### Best Movies and TV Shows on Hulu](https://digitpatrox.com/best-movies-and-tv-shows-on-hulu/)
+    ### Intel and the US set to seal $8.5B CHIPS Act funding – Computerworld](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### NYT Connections today hints and answers — Wednesday, October 16 (#493)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-october-16-493/)
-* [3 hours ago
+    ### Finland seizes servers of ‘Sipultie’ dark web drugs market](https://digitpatrox.com/finland-seizes-servers-of-sipultie-dark-web-drugs-market/)
+* [4 hours ago
     
-    ### Amazon says 175 million customer now use passkeys to log in](https://digitpatrox.com/amazon-says-175-million-customer-now-use-passkeys-to-log-in/)
-* [3 hours ago
+    ### Here’s a bunch of bananas shit Trump said today about breaking up Google](https://digitpatrox.com/heres-a-bunch-of-bananas-shit-trump-said-today-about-breaking-up-google/)
+* [4 hours ago
     
-    ### Trump’s crypto website crashed after its WLFI token went on sale](https://digitpatrox.com/trumps-crypto-website-crashed-after-its-wlfi-token-went-on-sale/)
+    ### What Is App Archiving on Android 15 and How to Use It](https://digitpatrox.com/what-is-app-archiving-on-android-15-and-how-to-use-it/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
-    
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
