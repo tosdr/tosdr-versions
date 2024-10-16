@@ -259,58 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: Derry City fans at the Brandywell for Sligo Rovers game](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans at the Brandywell for Sligo Rovers game")](https://www.derrynow.com/story-telling/pictures---videos/1630482/in-pictures-derry-city-fans-at-the-brandywell-for-sligo-rovers-game.html)
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[IN PICTURES: Derry City fans at the Brandywell for Sligo Rovers game](https://www.derrynow.com/story-telling/pictures---videos/1630482/in-pictures-derry-city-fans-at-the-brandywell-for-sligo-rovers-game.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with possessing over £300,000 worth of drugs remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with possessing over £300,000 worth of drugs remanded")](https://www.derrynow.com/news/local-news/1630532/man-charged-with-possessing-over-300-000-worth-of-drugs-remanded.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with possessing over £300,000 worth of drugs remanded](https://www.derrynow.com/news/local-news/1630532/man-charged-with-possessing-over-300-000-worth-of-drugs-remanded.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with assaulting Derry businessman at Apprentice Boys parade pleads guilty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with assaulting Derry businessman at Apprentice Boys parade pleads guilty")](https://www.derrynow.com/news/local-news/1630640/man-charged-with-assaulting-derry-businessman-at-apprentice-boys-parade-pleads-guilty.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with assaulting Derry businessman at Apprentice Boys parade pleads guilty](https://www.derrynow.com/news/local-news/1630640/man-charged-with-assaulting-derry-businessman-at-apprentice-boys-parade-pleads-guilty.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About @ Richardson's 100th birthday celebrations (2011)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Richardson's 100th birthday celebrations (2011)")](https://www.derrynow.com/story-telling/pictures---videos/1630083/throwback-tuesday-out-and-about-richardson-s-100th-birthday-celebrations-2011.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ Richardson's 100th birthday celebrations (2011)](https://www.derrynow.com/story-telling/pictures---videos/1630083/throwback-tuesday-out-and-about-richardson-s-100th-birthday-celebrations-2011.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry mural on Badger Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry mural on Badger Bar")](https://www.derrynow.com/news/derry-news/1630528/derry-pub-remove-controversial-awning-that-blocked-derry-girls-mural.html)
-
-Derry mural on Badger Bar
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry pub remove controversial awning that blocked Derry Girls mural](https://www.derrynow.com/news/derry-news/1630528/derry-pub-remove-controversial-awning-that-blocked-derry-girls-mural.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man (31) out after his curfew time remanded in custody](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man (31) out after his curfew time remanded in custody")](https://www.derrynow.com/news/local-news/1630481/derry-man-31-out-after-his-curfew-time-remanded-in-custody.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man (31) out after his curfew time remanded in custody](https://www.derrynow.com/news/local-news/1630481/derry-man-31-out-after-his-curfew-time-remanded-in-custody.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![43-year-old man arrested in Derry under Terrorism Act](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "43-year-old man arrested in Derry under Terrorism Act")](https://www.derrynow.com/news/local-news/1630360/43-year-old-man-arrested-in-derry-under-terrorism-act.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[43-year-old man arrested in Derry under Terrorism Act](https://www.derrynow.com/news/local-news/1630360/43-year-old-man-arrested-in-derry-under-terrorism-act.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Wednesday, October 16 2024](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI")](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
 
@@ -321,27 +275,91 @@ Issac's family pictured with representatives from Burnfoot Community Centre hand
 [Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['Comet of the Century' spotted over skies of Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Comet of the Century' spotted over skies of Derry")](https://www.derrynow.com/news/local-news/1630465/comet-of-the-century-spotted-over-skies-of-derry.html)
+[![PICTURES: Stunning Irish coastal home with sensational sea views going for just €275k](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Stunning Irish coastal home with sensational sea views going for just €275k")](https://www.derrynow.com/news/property/1630763/pictures-stunning-irish-coastal-home-with-sensational-sea-views-going-for-just-275k.html)
 
-Comet C/2023 A3 pictured over Groarty Road, Derry on Monday night. (Photo: Vinny Doherty)
+[Property](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: Stunning Irish coastal home with sensational sea views going for just €275k](https://www.derrynow.com/news/property/1630763/pictures-stunning-irish-coastal-home-with-sensational-sea-views-going-for-just-275k.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Filming taking place next to Derry Walls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Filming taking place next to Derry Walls")](https://www.derrynow.com/news/derry-news/1631755/netflix-series-being-filmed-in-derry.html)
+
+Filming taking place next to Derry Walls
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Netflix series being filmed in Derry](https://www.derrynow.com/news/derry-news/1631755/netflix-series-being-filmed-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------
+
+[![Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies")](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
+
+The mural in the Bogside labelling General Mike Jackson a war criminal
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-['Comet of the Century' spotted over skies of Derry](https://www.derrynow.com/news/local-news/1630465/comet-of-the-century-spotted-over-skies-of-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
+[![Donegal man pleads guilty to attempted sexual communication with a child](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man pleads guilty to attempted sexual communication with a child")](https://www.derrynow.com/news/local-news/1631479/donegal-man-pleads-guilty-to-attempted-sexual-communication-with-a-child.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Death Notices - Wednesday, October 16 2024](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
+[Donegal man pleads guilty to attempted sexual communication with a child](https://www.derrynow.com/news/local-news/1631479/donegal-man-pleads-guilty-to-attempted-sexual-communication-with-a-child.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry hurling championship preview: Slaughtneil chase their 12th consecutive title](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry hurling championship preview: Slaughtneil chase their 12th consecutive title")](https://www.derrynow.com/news/gaa/1629609/derry-hurling-championship-preview-slaughtneil-chase-their-12th-consecutive-title.html)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Derry hurling championship preview: Slaughtneil chase their 12th consecutive title](https://www.derrynow.com/news/gaa/1629609/derry-hurling-championship-preview-slaughtneil-chase-their-12th-consecutive-title.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Gareth Cairns celebrating](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Gareth Cairns celebrating")](https://www.derrynow.com/news/county-derry-post/1630558/county-derry-man-completes-one-million-steps-challenge-for-national-charity-debra.html)
+
+Gareth Cairns celebrating
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[County Derry man completes one million steps challenge for national charity DEBRA](https://www.derrynow.com/news/county-derry-post/1630558/county-derry-man-completes-one-million-steps-challenge-for-national-charity-debra.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with posting menacing messages to the Mayor of Derry pleads not guilty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with posting menacing messages to the Mayor of Derry pleads not guilty")](https://www.derrynow.com/news/local-news/1631434/man-charged-with-posting-menacing-messages-to-the-mayor-of-derry-pleads-not-guilty.html)
+
+Mayor of Derry City and Strabane, Cllr Lillian Seenoi-Barr
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with posting menacing messages to the Mayor of Derry pleads not guilty](https://www.derrynow.com/news/local-news/1631434/man-charged-with-posting-menacing-messages-to-the-mayor-of-derry-pleads-not-guilty.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'")](https://www.derrynow.com/news/home/1631751/victim-of-garvagh-shooting-sustains-serious-and-potentially-life-changing-injuries.html)
+
+The PSNI are appealing for information.
+
+[Home](https://www.derrynow.com/)
+
+[Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'](https://www.derrynow.com/news/home/1631751/victim-of-garvagh-shooting-sustains-serious-and-potentially-life-changing-injuries.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School")](https://www.derrynow.com/story-telling/pictures---videos/1631583/in-pictures-inaugural-match-marks-manchester-united-foundation-btec-diploma-course-at-st-josephs-boys-school.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School](https://www.derrynow.com/story-telling/pictures---videos/1631583/in-pictures-inaugural-match-marks-manchester-united-foundation-btec-diploma-course-at-st-josephs-boys-school.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'")](https://www.derrynow.com/story-telling/pictures---videos/1476050/in-pictures-foyle-hospice-hosts-coffee-morning-for-hospice-care-week.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'](https://www.derrynow.com/story-telling/pictures---videos/1476050/in-pictures-foyle-hospice-hosts-coffee-morning-for-hospice-care-week.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Derry City fans at the Brandywell for Sligo Rovers game](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans at the Brandywell for Sligo Rovers game")](https://www.derrynow.com/story-telling/pictures---videos/1630482/in-pictures-derry-city-fans-at-the-brandywell-for-sligo-rovers-game.html)
 
@@ -400,20 +418,6 @@ Derry City fans at the Brandywell. Pics by Keith Moore, nwpresspics
 
 [IN PICTURES: Derry City fans at the Brandywell](https://www.derrynow.com/news/derry-sport/1628929/in-pictures-derry-city-fans-at-the-brandywell.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: New community ‘Read and Feed’ Hub opens at Synge Court, Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: New community ‘Read and Feed’ Hub opens at Synge Court, Derry")](https://www.derrynow.com/story-telling/pictures---videos/1628093/in-pictures-new-community-read-and-feed-hub-opens-at-synge-court-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: New community ‘Read and Feed’ Hub opens at Synge Court, Derry](https://www.derrynow.com/story-telling/pictures---videos/1628093/in-pictures-new-community-read-and-feed-hub-opens-at-synge-court-derry.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Mayor hosts reception for Derry journalist Garrett Hargan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor hosts reception for Derry journalist Garrett Hargan")](https://www.derrynow.com/story-telling/pictures---videos/1627963/in-pictures-mayor-hosts-reception-for-derry-journalist-garrett-hargan.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Mayor hosts reception for Derry journalist Garrett Hargan](https://www.derrynow.com/story-telling/pictures---videos/1627963/in-pictures-mayor-hosts-reception-for-derry-journalist-garrett-hargan.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,51 +519,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies")](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
-
-The mural in the Bogside labelling General Mike Jackson a war criminal
+[![Number of road closues in Derry as emergency services attend gas leak](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Number of road closues in Derry as emergency services attend gas leak")](https://www.derrynow.com/news/local-news/1631786/number-of-road-closues-in-derry-as-emergency-services-attend-gas-leak.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Number of road closures in Derry as emergency services attend gas leak](https://www.derrynow.com/news/local-news/1631786/number-of-road-closues-in-derry-as-emergency-services-attend-gas-leak.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
+[![Filming taking place next to Derry Walls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Filming taking place next to Derry Walls")](https://www.derrynow.com/news/derry-news/1631755/netflix-series-being-filmed-in-derry.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Filming taking place next to Derry Walls
 
-[Derry Death Notices - Wednesday, October 16 2024](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[![Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](https://www.derrynow.com/resizer/165/93/true/2024_10_15/Burnfoot_CP_Photo_TOTAL_FINAL-1729023149683.jpg--.jpg?1729023150391 "Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI")](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
+[Netflix series being filmed in Derry](https://www.derrynow.com/news/derry-news/1631755/netflix-series-being-filmed-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------
 
-Issac's family pictured with representatives from Burnfoot Community Centre handing over the cheque to Air Ambulance NI.
+[!['We do not consent' - Thousands take to the streets to protest new Public Health Bill](https://www.derrynow.com/resizer/165/93/true/2024_10_16/stethoscope-840125_1280-1729079100939.jpg--.jpg?1729079100965 "'We do not consent' - Thousands take to the streets to protest new Public Health Bill")](https://www.derrynow.com/news/home/1631652/we-do-not-consent-thousands-take-to-the-streets-to-protest-new-public-health-bill.html)
 
 [Home](https://www.derrynow.com/)
 
-[Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+['We do not consent' - Thousands take to the streets to protest new Public Health Bill](https://www.derrynow.com/news/home/1631652/we-do-not-consent-thousands-take-to-the-streets-to-protest-new-public-health-bill.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry hurling championship preview: Slaughtneil chase their 12th consecutive title](https://www.derrynow.com/resizer/165/93/true/2024_09_30/Slaughtneil_v_Kevin_Lynch_1-1727692172574.jpg--.jpg?1727692173079 "Derry hurling championship preview: Slaughtneil chase their 12th consecutive title")](https://www.derrynow.com/news/gaa/1629609/derry-hurling-championship-preview-slaughtneil-chase-their-12th-consecutive-title.html)
+[![Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'")](https://www.derrynow.com/news/home/1631751/victim-of-garvagh-shooting-sustains-serious-and-potentially-life-changing-injuries.html)
 
-[GAA](https://www.derrynow.com/section/1060/gaa)
+The PSNI are appealing for information.
 
-[Derry hurling championship preview: Slaughtneil chase their 12th consecutive title](https://www.derrynow.com/news/gaa/1629609/derry-hurling-championship-preview-slaughtneil-chase-their-12th-consecutive-title.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
 
-[![‘Hugely positive news’ funds released to support Derry airport - Duffy](https://www.derrynow.com/resizer/165/93/true/1634216177518.jpg--.jpg?1634216177000 "‘Hugely positive news’ funds released to support Derry airport - Duffy")](https://www.derrynow.com/news/derry-news/1631020/hugely-positive-news-funds-released-to-support-derry-airport-duffy.html)
+[Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'](https://www.derrynow.com/news/home/1631751/victim-of-garvagh-shooting-sustains-serious-and-potentially-life-changing-injuries.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[![Nationwide to host free face-to-face clinics for families affected by dementia in Coleraine](https://www.derrynow.com/resizer/165/93/true/2024_10_16/RS4085_2023_03_14_Dementia_UK_0665_lpr-1729074344501.jpg--.jpg?1729074344917 "Nationwide to host free face-to-face clinics for families affected by dementia in Coleraine")](https://www.derrynow.com/news/home/1631504/nationwide-to-host-free-face-to-face-clinics-for-families-affected-by-dementia-in-coleraine.html)
 
-[‘Hugely positive news’ funds released to support Derry airport - Duffy](https://www.derrynow.com/news/derry-news/1631020/hugely-positive-news-funds-released-to-support-derry-airport-duffy.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Specialist dementia nurses, known as Admiral Nurses, will support families living with dementia in Coleraine.
 
-[![Durkan: Biodiversity loss report underlines need for urgent response](https://www.derrynow.com/resizer/165/93/true/1571843547230.jpg--.jpg?1571843547237 "Durkan: Biodiversity loss report underlines need for urgent response")](https://www.derrynow.com/news/derry-news/1631023/durkan-biodiversity-loss-report-underlines-need-for-urgent-response.html)
+[Home](https://www.derrynow.com/)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[Nationwide to host free face-to-face clinics for families affected by dementia in Coleraine](https://www.derrynow.com/news/home/1631504/nationwide-to-host-free-face-to-face-clinics-for-families-affected-by-dementia-in-coleraine.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Durkan: Biodiversity loss report underlines need for urgent response](https://www.derrynow.com/news/derry-news/1631023/durkan-biodiversity-loss-report-underlines-need-for-urgent-response.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Donegal man pleads guilty to attempted sexual communication with a child](https://www.derrynow.com/resizer/165/93/true/2024_10_16/IMG-20241016-WA0001-1729075490601.jpg--.jpg?1729075490629 "Donegal man pleads guilty to attempted sexual communication with a child")](https://www.derrynow.com/news/local-news/1631479/donegal-man-pleads-guilty-to-attempted-sexual-communication-with-a-child.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Donegal man pleads guilty to attempted sexual communication with a child](https://www.derrynow.com/news/local-news/1631479/donegal-man-pleads-guilty-to-attempted-sexual-communication-with-a-child.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
