@@ -354,6 +354,18 @@ Read More
 Community News
 --------------
 
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/05/OEB_Exterior_Shot_8-768x531.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/busy-oe-bees/)
+
+### [Busy OE-Bees](https://www.starbase118.net/2024/busy-oe-bees/)
+
+Federation News Service October 16, 2024
+
+VARIOUS PORTS, GAMMA QUADRANT – Crew seeks rest and recovery, finds trouble, opportunities
+
+[Read More »](https://www.starbase118.net/2024/busy-oe-bees/)
+
 [![Addison Mackenzie](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![Addison Mackenzie](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/AddisonMackenzie.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/captains-corner-addison-mackenzie-uss-artemis-a-2/)
@@ -377,18 +389,6 @@ Federation News Service October 14, 2024
 Sol System — Fitting Reward?
 
 [Read More »](https://www.starbase118.net/2024/crew-of-the-uss-chintoka-comes-home/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/200px-Quinn_Reynolds.jpg-150x150.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/the-golden-box/)
-
-### [The Golden Box](https://www.starbase118.net/2024/the-golden-box/)
-
-Alora DeVeau October 14, 2024
-
-Over the years, Starbase 118 has had numerous members join our ranks.  Some are with us for a season before they have to take a
-
-[Read More »](https://www.starbase118.net/2024/the-golden-box/)
 
 Ready to get started?
 ---------------------
