@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-3642d337e5b94bcd22ce93ca59044f2f
+4273d5a8e7920a2d10ae94f2b78c2a7b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Forest green Christmas tree earrings](https://www.sojourner.biz/images/cache/E0003front.200.jpg)](https://www.sojourner.biz/jewelry/earrings/forest-green-christmas-tree-earrings.html "Forest green Christmas tree earrings")
+[![Round green clasp](https://www.sojourner.biz/images/cache/SKU0028front.200.jpg)](https://www.sojourner.biz/clasps/glass/round-green-clasp.html "Round green clasp")
 
-#### [Forest green Christmas tree earrings](https://www.sojourner.biz/jewelry/earrings/forest-green-christmas-tree-earrings.html "Forest green Christmas tree earrings")
+#### [Round green clasp](https://www.sojourner.biz/clasps/glass/round-green-clasp.html "Round green clasp")
 
-$20.00
+$18.00
 
 ### Best Sellers
 
@@ -189,16 +189,16 @@ $20.00
     $15.00
 5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
-7. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
-8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+6. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
+7. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
+8. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [2 mm amethyst round beads](https://www.sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
-    $10.00
+10. [Black and white playful cat sauce dish](https://www.sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
+    $7.00
 
 [Top](#)
 
