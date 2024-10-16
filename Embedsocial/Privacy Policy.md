@@ -449,13 +449,15 @@ By email: [privacy@embedsocial.com.](mailto:privacy@embedsocial.com)
     
 * [EmbedForms](https://embedsocial.com/forms/)
     
-* [Social Media Publishing](https://embedsocial.com/social-media-publishing/)
+* [UGC Software](https://embedsocial.com/ugc/)
     
 * [GBP Software](https://embedsocial.com/gbp/)
     
 * [GBP API](https://embedsocial.com/gbp/api/)
     
 * [Google Posts Scheduler](https://embedsocial.com/google-posts-scheduler/)
+    
+* [Social Media Publishing](https://embedsocial.com/social-media-publishing/)
     
 * [Feedlink](https://feed.link/)
     
@@ -472,8 +474,6 @@ By email: [privacy@embedsocial.com.](mailto:privacy@embedsocial.com)
 * [Changelog](https://news.intercom.com/embedsocial)
     
 * [Social Media Glossary](https://embedsocial.com/social-media-glossary/)
-    
-* [We’re hiring](https://embedsocial.com/jobs/)
     
 
 ### Tutorials
