@@ -94,7 +94,7 @@ Wilmington, DE, United States
 
 [![logo](/wp-content/themes/betheme/images/footer_logo.png)](https://www.hideipvpn.com/)
 
-©2023 HideIPVPN. All rights reserved
+©2024 HideIPVPN. All rights reserved
 
 * [Free VPN](https://www.hideipvpn.com/free-vpn/)
 * [Pricing](https://www.hideipvpn.com/pricing/)
