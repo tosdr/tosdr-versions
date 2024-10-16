@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![37 Facts About Roman Villa Albania ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/37-facts-about-roman-villa-albania/)
+[![40 Facts About Visual Looming Syndrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/psychology/40-facts-about-visual-looming-syndrome/)
 
-History
+Psychology
 
-15 Oct 2024
+16 Oct 2024
 
-[37 Facts About Roman Villa Albania](https://facts.net/history/37-facts-about-roman-villa-albania/)
+[40 Facts About Visual Looming Syndrome](https://facts.net/fitness-and-wellbeing/psychology/40-facts-about-visual-looming-syndrome/)
 
-[![34 Facts About King Abdulaziz Camel Festival ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/events/34-facts-about-king-abdulaziz-camel-festival/)
+[![30 Facts About Facial Femoral ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2283%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-facial-femoral/)
 
-Events
+Health Science
 
-15 Oct 2024
+16 Oct 2024
 
-[34 Facts About King Abdulaziz Camel Festival](https://facts.net/events/34-facts-about-king-abdulaziz-camel-festival/)
+[30 Facts About Facial Femoral](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-facial-femoral/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
