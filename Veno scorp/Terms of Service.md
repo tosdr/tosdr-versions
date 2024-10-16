@@ -35,7 +35,7 @@
 * [Help Support](https://veno-scorp.co.uk/pages/contact)
 * [Deals](https://veno-scorp.co.uk/collections/black-friday)
 
- [![Veno-Scorp](//veno-scorp.co.uk/cdn/shop/files/logo_ddd1e58a-00ee-46a2-84be-1f28ade67f87.png?v=1697450224&width=600) ![Veno-Scorp](//veno-scorp.co.uk/cdn/shop/files/Logo-1_5665478b-f7e1-4168-a789-f65d0ee81c62.svg?v=1697450224&width=600)](https://veno-scorp.co.uk/)
+ [![Veno-Scorp](//veno-scorp.co.uk/cdn/shop/files/Halloween_Logo_For_Website_5.png?v=1729093091&width=600) ![Veno-Scorp](//veno-scorp.co.uk/cdn/shop/files/Halloween_Logo_For_Website_5.png?v=1729093091&width=600)](https://veno-scorp.co.uk/)
 
  
 
