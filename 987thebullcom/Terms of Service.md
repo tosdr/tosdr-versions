@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>11:38am |
-| Good DirectionsBilly Currington<br><br>11:34am |
-| Dirt CheapCody Johnson<br><br>11:30am |
-| Beautiful As YouThomas Rhett<br><br>11:28am |
-| Wagon WheelDarius Rucker<br><br>11:24am |
+| Cold Beer Calling My NameJameson Rodgers Ft Luke Combs<br><br>5:39pm |
+| Where It EndsBailey Zimmerman<br><br>5:36pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:33pm |
+| She Had Me At Heads CarolinaCole Swindell<br><br>5:23pm |
+| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>5:20pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,10 +358,6 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
@@ -369,6 +365,10 @@ News Talk • Eastern
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
