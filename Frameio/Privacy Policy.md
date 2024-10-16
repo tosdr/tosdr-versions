@@ -708,7 +708,7 @@ Resources
 * [What's New](https://frame.io/whats-new)
 * [Support](https://help.frame.io/en/)
 * [Resource Hub](https://frame.io/resources)
-* [Developers](https://developer.frame.io/)
+* [Developers](https://developer.adobe.com/frameio/)
 * [Status](https://status.frame.io/)
 
 Enterprise
