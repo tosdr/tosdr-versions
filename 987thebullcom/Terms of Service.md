@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Would If I CouldErnest<br><br>4:58am |
-| You ProofMorgan Wallen<br><br>4:55am |
-| Country HouseSam Hunt<br><br>4:52am |
-| Hung Up On YouBryce Leatherwood<br><br>4:40am |
-| Meant To BeBebe Rexha Ft Florida Georgia Line<br><br>4:37am |
+| Need A FavorJelly Roll<br><br>11:40am |
+| This Is My DirtJustin Moore<br><br>11:36am |
+| Lies, Lies, LiesMorgan Wallen<br><br>11:33am |
+| Are You Gonna Kiss Me Or NotThompson Square<br><br>11:30am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>11:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,13 +358,13 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
