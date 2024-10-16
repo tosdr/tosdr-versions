@@ -18,12 +18,12 @@ Back
     
     * [Portable PA](https://www.bose.com/c/portable-pa)
     * [Aviation Headsets](https://www.bose.com/c/aviation-headsets)
+    * [Refurbished](https://www.bose.com/c/refurbished)
+    * [Sets](https://www.bose.com/c/sets)
+    
+    * [Gift Cards](https://www.bose.com/gift-cards)
     * [Accessories](https://www.bose.com/c/accessories)
     * [All Products](https://www.bose.com/c/all-products)
-    
-    * [Sets](https://www.bose.com/c/sets)
-    * [Refurbished](https://www.bose.com/c/refurbished)
-    * [Gift Cards](https://www.bose.com/gift-cards)
     
     Back
     
