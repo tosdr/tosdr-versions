@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/ornament-originals-beginner-composing-sheet-set/)
+ [](https://schoolsmusicmarket.com/product/cast-a-spell-halloween-rhythm-worksheet/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/higher-or-lower-musical-powerpoint-game/)
+ [](https://schoolsmusicmarket.com/product/paint-by-numbers-musical-edition-christmas-colouring-activity/)
 
 ###### Browse By Year/Grade
 
