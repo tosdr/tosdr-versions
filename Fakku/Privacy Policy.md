@@ -6,7 +6,7 @@
 
 [Tags](https://www.fakku.net/tags "Hentai Tags") [Forums](https://www.fakku.net/forums "Hentai Forums") [Merch](https://merch.fakku.net/ "Hentai Merch")
 
-Search [Notifications](https://www.fakku.net/notifications) [Cart](https://www.fakku.net/cart)
+Search [Cart](https://www.fakku.net/cart)
 
 [Login](https://www.fakku.net/login) [Register](https://www.fakku.net/users/create)
 
@@ -137,7 +137,7 @@ United States
 
 [Contact](https://www.fakku.net/contact) [Support](https://www.fakku.net/support) [Jobs](https://www.fakku.net/jobs) [Terms](https://www.fakku.net/terms) [Privacy](https://www.fakku.net/privacy) [Merch](https://merch.fakku.net/)
 
-Close sidebar [Notifications 10](https://www.fakku.net/notifications) [Shopping Cart](https://www.fakku.net/cart) Dark mode
+Close sidebar [Notifications](https://www.fakku.net/notifications) [Shopping Cart](https://www.fakku.net/cart) Dark mode
 
 [Create Account](https://www.fakku.net/users/create) [Login](https://www.fakku.net/login)
 
