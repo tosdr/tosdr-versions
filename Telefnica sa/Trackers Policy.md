@@ -315,7 +315,7 @@ Hacer nuestro mundo más humano, conectando la vida de las personas.
 * [Accesibilidad](https://www.telefonica.com/es/telefonica-accesible/)
 * [Política de privacidad](https://www.telefonica.com/es/politica-de-privacidad/)
 
-  
+ 
 
 ![Logo Centenario Telefónica](https://www.telefonica.com/es/wp-content/uploads/sites/4/2024/03/logo-centenario-infobar.png) Celebra con nosotros el Centenario de Telefónica
 
