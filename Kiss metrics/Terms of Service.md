@@ -105,8 +105,7 @@ You authorize us to obtain or determine updated or replacement expiration dates 
 
 You may cancel your 14-day trial at any time during the trial period by sending an email to support@kissmetrics.io 
 
-Active customers may cancel plans upon a 30-day notice sent via email to billing@kissmetrics.io    
-  
+Active customers may cancel plans upon a 30-day notice sent via email to billing@kissmetrics.io  
 
 If your plan renews within 30 days of cancelation request, you are responsible for full payment of following pay period.  Payment for the final pay period is made at time of cancelation request.
 
@@ -296,9 +295,13 @@ If any provision of this Agreement is held to be unenforceable for any reason, s
 
 If any provision of this Agreement is held to be unenforceable for any reason, such provision shall be reformed to the extent necessary to make it enforceable to the maximum extent permissible so as to reflect the intent of the parties, and the remainder of this Agreement shall continue in full force and effect.
 
-#### 13.3 ENTIRE AGREEMENT
+#### 13.3 BINDING CUSTOMER AGREEMENTS WITH PARENT COMPANY
 
-This Agreement (including any amendment thereto), together with the Privacy Policy, represents the complete agreement between us concerning its subject matter, and supersedes all prior agreements and representations between the parties.
+By agreeing to these Terms of Service, you acknowledge and agree that all customer agreements previously entered into with Metrics Enterprises Inc. are now fully transferred to and recognized by its parent company, Sandstorm Analytics Inc. All customer agreements remain valid and enforceable under Sandstorm Analytics Inc., which assumes all rights to administer and manage these agreements.
+
+#### ENTIRE AGREEMENT
+
+This Agreement (including any amendment thereto), together with the Privacy Policy, represents the complete agreement between us concerning its subject matter, and supersedes all prior agreements and representations between the parties. 
 
 #### 13.4 AGREEMENT TO ARBITRATE
 
