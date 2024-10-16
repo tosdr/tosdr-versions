@@ -16,18 +16,18 @@
     * [Sweeps  
         Optimize your hyperparameters](https://wandb.ai/site/sweeps/)
     * [Registry  
-        Publish and share your ML models and datasets](https://wandb.ai/site/registry)
+        Publish and share your ML models and datasets](https://wandb.ai/site/registry/)
     * [Automations  
-        Trigger workflows automatically](https://wandb.ai/site/automations)
+        Trigger workflows automatically](https://wandb.ai/site/automations/)
     * [Launch  
         Package and run your ML workflow jobs](https://wandb.ai/site/launch/)
     
     [Weave: LLMOps solution](https://wandb.ai/site/weave)
     
     * [Traces  
-        Explore and debug LLM applications](https://wandb.ai/site/traces)
+        Explore and debug LLM applications](https://wandb.ai/site/traces/)
     * [Evaluations  
-        Rigorous evaluations of GenAI applications](https://wandb.ai/site/evaluations)
+        Rigorous evaluations of GenAI applications](https://wandb.ai/site/evaluations/)
     
     Core platform
     
@@ -38,7 +38,7 @@
     * [Reports  
         Document and share your ML insights](https://wandb.ai/site/reports/)
     * [SDK  
-        Log ML experiments and artifacts at scale](https://wandb.ai/site/sdk)
+        Log ML experiments and artifacts at scale](https://wandb.ai/site/sdk/)
     
 * Solutions
     
