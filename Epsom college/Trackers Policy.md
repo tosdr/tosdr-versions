@@ -118,6 +118,7 @@
 
 * [Back](#)
     
+    * [Obituaries](https://www.epsomcollege.org.uk/the-oe-club/obituaries/)
     * [About the OE Club](https://www.epsomcollege.org.uk/the-oe-club/history-whos-who/)
     * [Forthcoming events](https://www.epsomcollege.org.uk/the-oe-club/oe-forthcoming-events/)
     * [Past Events & OE News](https://www.epsomcollege.org.uk/the-oe-club/oe-news/)
@@ -166,7 +167,6 @@ Marketing
 * [Information for Parents](https://www.epsomcollege.org.uk/information-for-parents/)
 * [Friends of Epsom College](https://www.epsomcollege.org.uk/friends-of-epsom-college/)
 * [Term Dates](https://www.epsomcollege.org.uk/about-us/term-dates/)
-* [Visit Us](https://www.epsomcollege.org.uk/visit-us/)
 * [Contact Us](https://www.epsomcollege.org.uk/contact-us/)
 * [Our Staff](https://www.epsomcollege.org.uk/about-us/our-staff/)
 
