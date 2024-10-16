@@ -676,7 +676,7 @@ Contact us with any questions or comments
 
 Find helpful advice and answers to parents' most common questions
 
-**[![Call Us](https://d28v1qz47twks.cloudfront.net/media/cache/b/a/5/4/6/7/ba54674dbe2638d2c7ada76616421de4f843d362.webp)Call us (1-800-BABY123)](tel:1-800-BABY123)**
+**[![Call Us](https://d28v1qz47twks.cloudfront.net/media/cache/b/a/5/4/6/7/ba54674dbe2638d2c7ada76616421de4f843d362.webp)Call us (1-800-BABY123)](tel:18002229123)**
 
 ![](https://d28v1qz47twks.cloudfront.net/media/cache/4/1/d/1/2/d/41d12d38d6e215257c03e8a255a96169706cdbb9.webp)
 
@@ -720,7 +720,7 @@ Contact us with any questions or comments
 
 Find helpful advice and answers to parents' most common questions
 
-**[![Call Us](https://d28v1qz47twks.cloudfront.net/media/cache/b/a/5/4/6/7/ba54674dbe2638d2c7ada76616421de4f843d362.webp)Call us (1-800-BABY123)](tel:1-800-BABY123)**
+**[![Call Us](https://d28v1qz47twks.cloudfront.net/media/cache/b/a/5/4/6/7/ba54674dbe2638d2c7ada76616421de4f843d362.webp)Call us (1-800-BABY123)](tel:18002229123)**
 
 Download our app
 
