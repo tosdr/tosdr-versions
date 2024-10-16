@@ -388,6 +388,8 @@ Either party may change its address by providing the other party with written no
 * [Privacy Policy](https://www.exoclick.com/privacy-policy)
 * [Cookies Policy](https://www.exoclick.com/cookies-policy)
 * Cookies Settings
+* [GDPR Overview & Guidance](https://www.exoclick.com/gdpr-overview-and-guidance)
+* [EU User Consent Policy](https://www.exoclick.com/eu-user-consent-policy)
 
 ##### Legal
 
