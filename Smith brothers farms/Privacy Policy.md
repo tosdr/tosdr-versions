@@ -190,11 +190,11 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (70)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (81)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (56)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Fall Flavors (43)](https://www.smithbrothersfarms.com/fall-favorites)
+    * [Fall Flavors (44)](https://www.smithbrothersfarms.com/fall-favorites)
         
     * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
         
@@ -268,23 +268,23 @@ Hi
         * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (76)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (78)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
-        * [Bread & Buns (28)](https://www.smithbrothersfarms.com/bread)
+        * [Bread & Buns (29)](https://www.smithbrothersfarms.com/bread)
             
-        * [Tortillas & Pizza Crust (3)](https://www.smithbrothersfarms.com/tortillas-and-pizza)
+        * [Tortillas & Pizza Crust (5)](https://www.smithbrothersfarms.com/tortillas-and-pizza)
             
         * [Bagels (16)](https://www.smithbrothersfarms.com/bagels)
             
-        * [Breakfast Treats (18)](https://www.smithbrothersfarms.com/breakfast-treats)
+        * [Breakfast Treats (17)](https://www.smithbrothersfarms.com/breakfast-treats)
             
         * [Muffins & Scones (7)](https://www.smithbrothersfarms.com/muffins)
             
         * [Treats (6)](https://www.smithbrothersfarms.com/desserts)
             
         
-    * [Meat (44)](https://www.smithbrothersfarms.com/meat-poultry)
+    * [Meat (48)](https://www.smithbrothersfarms.com/meat-poultry)
         
         * BACK
         * [Beef, Pork, & Poultry (15)](https://www.smithbrothersfarms.com/poultry)
@@ -293,7 +293,7 @@ Hi
             
         * [Sausage, Dogs & Brats (4)](https://www.smithbrothersfarms.com/bacon-and-sausage)
             
-        * [Deli & Charcuterie (12)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
+        * [Deli & Charcuterie (16)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
     * [Meals & Sides (73)](https://www.smithbrothersfarms.com/prepared-foods)
@@ -310,10 +310,10 @@ Hi
         * [Sauces (6)](https://www.smithbrothersfarms.com/sauces-and-soups)
             
         
-    * [Coffee, Juice & Tea (46)](https://www.smithbrothersfarms.com/coffee-juice-tea)
+    * [Coffee, Juice & Tea (50)](https://www.smithbrothersfarms.com/coffee-juice-tea)
         
         * BACK
-        * [Juice & Tea (20)](https://www.smithbrothersfarms.com/juice-3)
+        * [Juice & Tea (24)](https://www.smithbrothersfarms.com/juice-3)
             
         * [Coffee (26)](https://www.smithbrothersfarms.com/coffee-2)
             
