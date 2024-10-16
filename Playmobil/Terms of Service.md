@@ -1,6 +1,6 @@
-[Build, Play, Win! 🏒 Bring home Playmobil NHL action this season.](https://www.playmobil.com/en-us/web-shop/nhl/)
+[🚗 Vroom-Boom! 30% Off Limited Playmobil Cars – Speed Into Fun! ⚡](https://www.playmobil.com/en-us/web-shop/cars/)
 
-[Build, Play, Win! 🏒 Bring home Playmobil NHL action this season.](https://www.playmobil.com/en-us/web-shop/nhl/)
+[🚗 Vroom-Boom! 30% Off Limited Playmobil Cars – Speed Into Fun! ⚡](https://www.playmobil.com/en-us/web-shop/cars/)
 
 [](https://www.playmobil.us/en-us/)
 
