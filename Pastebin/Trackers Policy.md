@@ -44,37 +44,37 @@ If you are interested in turning on your browser’s privacy and Do Not Track se
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐ 𝐹𝑅𝐸𝐸 500 𝒢𝐼𝐹𝒯-𝒞𝒜𝑅𝒟 𝒢𝒰𝐼𝒟𝐸](https://pastebin.com/uN1LxJJg)
+* [Binance Accounts Leaked](https://pastebin.com/6Pa1djML)
     
-    JavaScript | 2 sec ago | 0.08 KB
+    JavaScript | 2 sec ago | 0.09 KB
     
-* [Untitled Paste RU23](https://pastebin.com/rNLGAUBN)
+* [Binance Account hack HFR2](https://pastebin.com/pqtQJBP9)
     
     JavaScript | 2 sec ago | 0.11 KB
     
-* [⭐ vouchers for free](https://pastebin.com/57HqnAYR)
-    
-    JavaScript | 2 sec ago | 0.08 KB
-    
-* [⭐ vouchers for free](https://pastebin.com/ZRnJ07g8)
-    
-    JavaScript | 2 sec ago | 0.08 KB
-    
-* [⭐(𝟓𝟎𝟎 𝐄𝐔𝐑𝐎) 𝐌𝐀𝐊𝐄 𝐈𝐍 𝟏𝟎 𝐌𝐈𝐍𝐔𝐓𝐄𝐒⭐ G27B](https://pastebin.com/CZUJYuA9)
+* [𝐹𝑅𝐸𝐸 500 𝒢𝐼𝐹𝒯-𝒞𝒜𝑅𝒟 𝒢𝒰𝐼𝒟𝐸𝒮 S3N2](https://pastebin.com/6Qvnc2L5)
     
     JavaScript | 3 sec ago | 0.11 KB
     
-* [⭐ 𝐹𝑅𝐸𝐸 500 𝒢𝐼𝐹𝒯-𝒞𝒜𝑅𝒟 𝒢𝒰𝐼𝒟𝐸 1NH6](https://pastebin.com/StrypqZb)
+* [Chaturbate Accounts with Tokens 3UV5](https://pastebin.com/4YQQ204E)
     
     JavaScript | 5 sec ago | 0.11 KB
     
-* [𝐹𝑅𝐸𝐸 500 𝒢𝐼𝐹𝒯-𝒞𝒜𝑅𝒟 𝒢𝒰𝐼𝒟𝐸𝒮 195Q](https://pastebin.com/hETRGgtX)
+* [Leaked by Zak](https://pastebin.com/MKtBQQES)
     
-    JavaScript | 5 sec ago | 0.11 KB
+    JavaScript | 5 sec ago | 0.09 KB
     
-* [⭐ get any VOUCHER for FREEE](https://pastebin.com/7MErjLii)
+* [NETFLIX UHD ACCOUNTS](https://pastebin.com/0fZ953nK)
     
-    JavaScript | 6 sec ago | 0.08 KB
+    JavaScript | 5 sec ago | 0.09 KB
+    
+* [Any GÎFT-CODES FREEEE SQ25](https://pastebin.com/HfrV7mnT)
+    
+    JavaScript | 6 sec ago | 0.11 KB
+    
+* [𝐹𝑅𝐸𝐸 500 𝒢𝐼𝐹𝒯-𝒞𝒜𝑅𝒟 𝒢𝒰𝐼𝒟𝐸𝒮 5W0C](https://pastebin.com/zxw9WJ4w)
+    
+    JavaScript | 6 sec ago | 0.11 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
