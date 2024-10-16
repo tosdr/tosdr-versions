@@ -258,11 +258,11 @@ Rev. 5.22
 
 ![NCUA Logo](/getmedia/c00ca3ea-0ab7-454a-bc13-ed5c8f707c06/NCUA-logo.png?width=1316&height=630&ext=.png)
 
-* [](https://www.facebook.com/communityfirstcreditunion)
-* [](https://www.instagram.com/commfirstcu/)
-* [](https://twitter.com/CommFirstCU)
-* [](https://www.youtube.com/channel/UCYCUBwHG7LvstREGizTFuig)
-* [](https://www.linkedin.com/company/community-first-credit-union)
+* [](https://www.facebook.com/communityfirstcreditunion "Visit the Community First Credit Union Facebook page")
+* [](https://www.instagram.com/commfirstcu/ "Visit the Community First Credit Union Instagram page")
+* [](https://twitter.com/CommFirstCU "Visit the Community First Credit Union X page")
+* [](https://www.youtube.com/channel/UCYCUBwHG7LvstREGizTFuig "Visit the Community First Credit Union YouTube page")
+* [](https://www.linkedin.com/company/community-first-credit-union "Visit the Community First Credit Union LinkedIn page")
 
 Corp. NMLS#: 379502
 
