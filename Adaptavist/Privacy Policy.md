@@ -784,9 +784,9 @@ Who we are
 * [About us](https://www.adaptavist.com/about-us)
 * [Contact us](https://www.adaptavist.com/contact)
 
-Legal Information
+Legal information
 
-* [Legal Notice](https://www.adaptavist.com/impressum)
+* [Legal notice](https://www.adaptavist.com/impressum)
 * [Trust](https://www.adaptavist.com/trust)
 * [Privacy policy](https://www.adaptavist.com/privacy-policy)
 * [Website terms](https://www.adaptavist.com/terms-and-conditions)
