@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We are the music makers, And we are the dreamers of dreams”
+“ Achieving a goal provides immediate satisfaction; the process of achieving a goal is a lasting pleasure”
 
-[Arthur O'Shaughnessy](http://en.wikipedia.org/wiki/Arthur_O'Shaughnessy)
+[Evelyn Berezin](https://computerhistory.org/profile/evelyn-berezin/)
 
 [](https://www.adafruit.com/about)
 
