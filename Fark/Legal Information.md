@@ -228,11 +228,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more news before we break it? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-$10 a month since 19 aught diddly.
+See what's behind the green door  
+and help keep the tap flowing
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +333,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [New Piccadilly Line trains trains vandalized with graffiti before getting to the depot. Is Bart Simpson in England today?](https://www.fark.com/goto/13429020) ( [mylondon.news](https://www.fark.com/goto/13429020) ) » [(17 comments)](https://www.fark.com/comments/13429020/New-Piccadilly-Line-trains-trains-vandalized-with-graffiti-before-getting-to-depot-Is-Bart-Simpson-in-England-today) |
-| [Discussion](https://www.fark.com/discussion/) | ["I'm a married lesbian and quite happy. I just had sex with a man, though, and now I'm all confused. Who do?" (possible nsfw content on page)](https://www.fark.com/goto/13428482) ( [thesun.co.uk](https://www.fark.com/goto/13428482) ) » [(7 comments)](https://www.fark.com/comments/13428482/Im-a-married-lesbian-quite-happy-I-just-had-sex-with-a-man-though-now-Im-all-confused-Who-do-possible-nsfw-content-on-page) |
-| [Sports](https://www.fark.com/sports/) | [Tua Tagovailoa expected to get concussed again this season](https://www.fark.com/goto/13428658) ( [apnews.com](https://www.fark.com/goto/13428658) ) » [(6 comments)](https://www.fark.com/comments/13428658/Tua-Tagovailoa-expected-to-get-concussed-again-this-season) |
-| [Business](https://www.fark.com/business/) | [Oakland following Poshmark business model by selling off assets to keep girls night out party budget going](https://www.fark.com/goto/13428562) ( [ktvu.com](https://www.fark.com/goto/13428562) ) » [(1 comment)](https://www.fark.com/comments/13428562/Oakland-following-Poshmark-business-model-by-selling-off-assets-to-keep-girls-night-out-party-budget-going) |
-| [STEM](https://www.fark.com/stem/) | [The FCC would like to speak with all of us sharp-ish](https://www.fark.com/goto/13429052) ( [theverge.com](https://www.fark.com/goto/13429052) ) » [(2 comments)](https://www.fark.com/comments/13429052/The-FCC-would-like-to-speak-with-all-of-us-sharp-ish) |
-| [Entertainment](https://www.fark.com/entertainment/) | [First zombie walk 1919 J'accuse. But zombies didn't lust after brains until 1985's Return of the Living Dead, Meaghan](https://www.fark.com/goto/13429060) ( [cbr.com](https://www.fark.com/goto/13429060) ) » [(2 comments)](https://www.fark.com/comments/13429060/First-zombie-walk-1919-Jaccuse-But-zombies-didnt-lust-after-brains-until-1985s-Return-of-Living-Dead-Meaghan) |
-| [Fandom](https://www.fark.com/fandom/) | [First zombie walk 1919 J'accuse. But zombies didn't lust after brains until 1985's Return of the Living Dead, Meaghan](https://www.fark.com/goto/13429060) ( [cbr.com](https://www.fark.com/goto/13429060) ) » [(2 comments)](https://www.fark.com/comments/13429060/First-zombie-walk-1919-Jaccuse-But-zombies-didnt-lust-after-brains-until-1985s-Return-of-Living-Dead-Meaghan) |
+| [Main](https://www.fark.com/) | [Lying dormant almost all year, hayride tractors await their few weeks of hunting](https://www.fark.com/goto/13429244) ( [theguardian.com](https://www.fark.com/goto/13429244) ) » [(1 comment)](https://www.fark.com/comments/13429244/Lying-dormant-almost-all-year-hayride-tractors-await-their-few-weeks-of-hunting) |
+| [Discussion](https://www.fark.com/discussion/) | ["I'm not a restless sort of guy. But there comes a point when you get past the intercom when you've ordered your food and you're waiting for 40 minutes"](https://www.fark.com/goto/13428322) ( [nypost.com](https://www.fark.com/goto/13428322) ) » [(8 comments)](https://www.fark.com/comments/13428322/Im-not-a-restless-sort-of-guy-But-there-comes-a-point-when-you-get-past-intercom-when-youve-ordered-your-food-youre-waiting-for-40-minutes) |
+| [Sports](https://www.fark.com/sports/) | [Late player causes hockey team to start game with just 4 skaters. That's going to be a helluva fine for that guy](https://www.fark.com/goto/13429208) ( [yardbarker.com](https://www.fark.com/goto/13429208) ) » [(2 comments)](https://www.fark.com/comments/13429208/Late-player-causes-hockey-team-to-start-game-with-just-4-skaters-Thats-going-to-be-a-helluva-fine-for-that-guy) |
+| [Business](https://www.fark.com/business/) | [Cash-starved Boeing in free fall, turning to banks, Wall Street for billions in loans. Will it pull up at last second or crash & burn?](https://www.fark.com/goto/13429154) ( [cnn.com](https://www.fark.com/goto/13429154) ) » [(9 comments)](https://www.fark.com/comments/13429154/Cash-starved-Boeing-in-free-fall-turning-to-banks-Wall-Street-for-billions-in-loans-Will-it-pull-up-at-last-second-crash-burn) |
+| [STEM](https://www.fark.com/stem/) | [SpaceX reaches 100 launches for 2024](https://www.fark.com/goto/13428248) ( [spaceflightnow.com](https://www.fark.com/goto/13428248) ) » [(0 comments)](https://www.fark.com/comments/13428248/SpaceX-reaches-100-launches-for-2024) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Bernie Mac spent his final years on oxygen and still delivered more breath-taking laughs than most comics](https://www.fark.com/goto/13428244) ( [atlantablackstar.com](https://www.fark.com/goto/13428244) ) » [(1 comment)](https://www.fark.com/comments/13428244/Bernie-Mac-spent-his-final-years-on-oxygen-still-delivered-more-breath-taking-laughs-than-most-comics) |
+| [Fandom](https://www.fark.com/fandom/) | [G(odzilla)KIDS](https://www.fark.com/goto/13428942) ( [variety.com](https://www.fark.com/goto/13428942) ) » [(1 comment)](https://www.fark.com/comments/13428942/GodzillaKIDS) |
 | [D'awww](https://www.fark.com/dawww/) | [Winnie the golden retriever and service dog has better rhythm than most farkers as a member of the Northern Iowa Panther Marching Band](https://www.fark.com/goto/13428464) ( [goodmorningamerica.com](https://www.fark.com/goto/13428464) ) » [(1 comment)](https://www.fark.com/comments/13428464/Winnie-golden-retriever-service-dog-has-better-rhythm-than-most-farkers-as-a-member-of-Northern-Iowa-Panther-Marching-Band) |
-| [Food](https://www.fark.com/food/) | [KFC's newest dessert is called Cherry Pie Poppers. No comment from Warrant](https://www.fark.com/goto/13428960) ( [yahoo.com](https://www.fark.com/goto/13428960) ) » [(4 comments)](https://www.fark.com/comments/13428960/KFCs-newest-dessert-is-called-Cherry-Pie-Poppers-No-comment-from-Warrant) |
-| [Politics](https://www.fark.com/politics/) | ["What does The Wall Street Journal know? They've been wrong about everything," said the man the WSJ editorial board is dying to get elected](https://www.fark.com/goto/13429026) ( [rollingstone.com](https://www.fark.com/goto/13429026) ) » [(17 comments)](https://www.fark.com/comments/13429026/What-does-The-Wall-Street-Journal-know-Theyve-been-wrong-about-everything-said-man-WSJ-editorial-board-is-dying-to-get-elected) |
+| [Food](https://www.fark.com/food/) | [Maybe it's not 'authentic', but if you put pastry and ice cream together and it smells good from the street, I'm in](https://www.fark.com/goto/13428520) ( [bbc.com](https://www.fark.com/goto/13428520) ) » [(0 comments)](https://www.fark.com/comments/13428520/Maybe-its-not-authentic-but-if-you-put-pastry-ice-cream-together-it-smells-good-from-street-Im-in) |
+| [Politics](https://www.fark.com/politics/) | [Meet Jessica Reed Kraus, the nutjob conspiracy-peddling gossip blogger who's cast herself as a Trump-RFK player](https://www.fark.com/goto/13428206) ( [motherjones.com](https://www.fark.com/goto/13428206) ) » [(6 comments)](https://www.fark.com/comments/13428206/Meet-Jessica-Reed-Kraus-nutjob-conspiracy-peddling-gossip-blogger-whos-cast-herself-as-a-Trump-RFK-player) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +352,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 15 2024 21:43:26  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 16 2024 03:43:21  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
