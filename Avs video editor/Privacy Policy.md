@@ -96,8 +96,6 @@ Back
 
 [日本語](https://www.avs4you.com/jp/privacy.aspx)
 
-[Русский](https://www.avs4you.com/ru/privacy.aspx)
-
 [Polski](https://www.avs4you.com/pl/privacy.aspx)
 
 [한국어](https://www.avs4you.com/ko/privacy.aspx)
@@ -119,8 +117,6 @@ English
 [Italiano](https://www.avs4you.com/it/privacy.aspx)
 
 [日本語](https://www.avs4you.com/jp/privacy.aspx)
-
-[Русский](https://www.avs4you.com/ru/privacy.aspx)
 
 [Polski](https://www.avs4you.com/pl/privacy.aspx)
 
@@ -150,8 +146,6 @@ Back
 
 [日本語](https://www.avs4you.com/jp/privacy.aspx)
 
-[Русский](https://www.avs4you.com/ru/privacy.aspx)
-
 [Polski](https://www.avs4you.com/pl/privacy.aspx)
 
 [한국어](https://www.avs4you.com/ko/privacy.aspx)
@@ -173,8 +167,6 @@ English
 [Italiano](https://www.avs4you.com/it/privacy.aspx)
 
 [日本語](https://www.avs4you.com/jp/privacy.aspx)
-
-[Русский](https://www.avs4you.com/ru/privacy.aspx)
 
 [Polski](https://www.avs4you.com/pl/privacy.aspx)
 
