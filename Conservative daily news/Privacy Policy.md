@@ -2,14 +2,14 @@ Wednesday, October 16 2024
 
 Breaking News
 
+* [White House Press Briefing with Karine Jean-Pierre – 10/16/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-16-24/)
+* [Border Crossings Might Be Declining — But That’s Not The Whole Story](https://www.conservativedailynews.com/2024/10/border-crossings-might-be-declining-but-thats-not-the-whole-story/)
 * [Tariffs Are Like A Golf Handicap](https://www.conservativedailynews.com/2024/10/tariffs-are-like-a-golf-handicap/)
 * [Take the Federal Budget Quiz](https://www.conservativedailynews.com/2024/10/take-the-federal-budget-quiz/)
 * [President Joe Biden’s Schedule for Wednesday, October 16, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-16-2024/)
 * [Tim Walz Let Slip What We Knew About The Left All Along](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/)
 * [Rachel Maddow Proves An Education Can Be Wasted](https://www.conservativedailynews.com/2024/10/rachel-maddow-proves-an-education-can-be-wasted/)
 * [America In The Age Of Stupidity: Two Things America Desperately Needs But Democrats Are Against](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-two-things-america-desperately-needs-but-democrats-are-against/)
-* [Do You Hear What You Are Saying?](https://www.conservativedailynews.com/2024/10/do-you-hear-what-you-are-saying/)
-* [President Joe Biden’s Schedule for Tuesday, October 15, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-15-2024/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,18 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/1662070130_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-16-24/)
+    
+    [White House Press Briefing with Karine Jean-Pierre – 10/16/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-16-24/)
+    
+    October 16, 2024
+    
+* [![Joe Biden Kamala Harris border crisis policy](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/border-crossings-might-be-declining-but-thats-not-the-whole-story/)
+    
+    [Border Crossings Might Be Declining — But That’s Not The Whole Story](https://www.conservativedailynews.com/2024/10/border-crossings-might-be-declining-but-thats-not-the-whole-story/)
+    
+    October 16, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5651-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/tariffs-are-like-a-golf-handicap/)
     
     [Tariffs Are Like A Golf Handicap](https://www.conservativedailynews.com/2024/10/tariffs-are-like-a-golf-handicap/)
@@ -162,29 +174,19 @@ Recent Posts
     
     October 16, 2024
     
-* [Airline Slapped With $4 Million Fine For Stopping Hundreds Of Jews From Boarding Flight](https://www.conservativedailynews.com/2024/10/airline-slapped-with-4-million-fine-for-stopping-hundreds-of-jews-from-boarding-flight/)
-    
-    October 16, 2024
-    
-* [![National Debt Government Spending](https://www.conservativedailynews.com/wp-content/uploads/2024/04/gv042924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/take-the-federal-budget-quiz/)
-    
-    [Take the Federal Budget Quiz](https://www.conservativedailynews.com/2024/10/take-the-federal-budget-quiz/)
-    
-    October 16, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [SIG SAUER Opens Jacksonville Arkansas Ammunition Center](https://www.thegunpage.com/sig-sauer-opens-jacksonville-arkansas-ammunition-center/10611247)
+* [H&K USA Unveils Its Inaugural Gun: The CC9](https://www.thegunpage.com/hk-usa-unveils-its-inaugural-gun-the-cc9/10611248)
+* [Gun-Ban Groups Spend Big and Sell Lies To Defeat Pro-Gun Candidates](https://www.thegunpage.com/gun-ban-groups-spend-big-and-sell-lies-to-defeat-pro-gun-candidates/10611245)
+* [ECC Debuts New FR Gloves](https://www.thegunpage.com/ecc-debuts-new-fr-gloves/10611242)
+* [SCOTUS Sends Pennsylvania Young Adult Carry Back To 3rd Circuit](https://www.thegunpage.com/scotus-sends-pennsylvania-young-adult-carry-back-to-3rd-circuit/10611241)
+* [NEW H&K CC9 Review: Was the Wait Worth It?](https://www.thegunpage.com/new-hk-cc9-review-was-the-wait-worth-it/10611243)
 * [Michigan And Hawaii Launch Tip Lines To Encourage Anonymous Snitching On Gun Owners](https://www.thegunpage.com/michigan-and-hawaii-launch-tip-lines-to-encourage-anonymous-snitching-on-gun-owners/10611237)
 * [2024 Scholastic Clay Target Program National Championships](https://www.thegunpage.com/2024-scholastic-clay-target-program-national-championships/10611236)
 * [TFB Review: The HK USC Carbine](https://www.thegunpage.com/tfb-review-the-hk-usc-carbine/10611232)
 * [POTD: The TTS Xceed R – Integrated Silencing System](https://www.thegunpage.com/potd-the-tts-xceed-r-integrated-silencing-system/10611233)
-* [HOT GAT or FUDD CRAP? Mean Machine or Mellow and Yellow?](https://www.thegunpage.com/hot-gat-or-fudd-crap-mean-machine-or-mellow-and-yellow/10611234)
-* [Beyond 5.56: Top Chamberings for MSRs](https://www.thegunpage.com/beyond-5-56-top-chamberings-for-msrs/10611230)
-* [New Spartanat Book Explores Drone Warfare](https://www.thegunpage.com/new-spartanat-book-explores-drone-warfare/10611226)
-* [CRPA Offers a Press Guide to Kamala Harris’ History on Gun Control](https://www.thegunpage.com/crpa-offers-a-press-guide-to-kamala-harris-history-on-gun-control/10611228)
-* [Utah Hunters Helping Condors Program Offers Lead-free Ammo](https://www.thegunpage.com/utah-hunters-helping-condors-program-offers-lead-free-ammo/10611227)
-* [Watchtower Unveils Demolitia Ported Double Stack 1911 Core And Elite Packages](https://www.thegunpage.com/watchtower-unveils-demolitia-ported-double-stack-1911-core-and-elite-packages/10611224)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -226,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* Stan on [The Brat Energy Is Gone](https://www.conservativedailynews.com/2024/10/the-brat-energy-is-gone/#comment-782707)
 * charles wilkins on [Uncle Barack](https://www.conservativedailynews.com/2024/10/uncle-barack/#comment-782706)
 * William Wallace on [Tim Walz Let Slip What We Knew About The Left All Along](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/#comment-782701)
 * TMann on [President Joe Biden’s Schedule for Monday, October 14, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-14-2024/#comment-782685)
@@ -234,7 +237,6 @@ Recent Comments
 * Stanley Warner on [Democrat Policies are Killing Small Businesses](https://www.conservativedailynews.com/2024/10/democrat-policies-are-killing-small-businesses/#comment-782658)
 * charles wilkins on [Prominent Election Expert Suggests Pollsters ‘Have No Idea’ If They’re Accurately Measuring Trump Support](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/#comment-782655)
 * Catboss on [Trump Campaign Requests Military Aircraft, Bulletproof Glass Amid Security Threats](https://www.conservativedailynews.com/2024/10/trump-campaign-requests-military-aircraft-bulletproof-glass-amid-security-threats/#comment-782654)
-* Will Delito on [Trump Campaign Requests Military Aircraft, Bulletproof Glass Amid Security Threats](https://www.conservativedailynews.com/2024/10/trump-campaign-requests-military-aircraft-bulletproof-glass-amid-security-threats/#comment-782653)
 
 [Close](#)
 
