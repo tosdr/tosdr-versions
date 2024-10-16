@@ -300,6 +300,14 @@ Recurs yearly
 
 2017
 
+#### Tue, Oct 22
+
+Carmen Ejogo's birthday
+
+Recurs yearly
+
+Seraphina Picquery
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -310,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Unlocking Charm (Alohomora) is known as “thief’s friend.”
+The Hogwarts Express locomotive in this film is portrayed by the 1937 GWR 4900 Class 5972 Olton Hall. It has been on display at Warner Bros. Studio Tour London – The Making of Harry Potter since 2015.
 
 ### Potter History
 
-December 17, 2008 – Scholastic announces that The Tales of Beedle the Bard sold 2.6 million copies worldwide in the first week on sale.
+April 25, 2008 – ComingSoon.net reports that the release date for Harry Potter and the Deathly Hallows – Part 1 is set for November 19, 2010.
 
 ### Potter Quote
 
-“She tasted disgusting, worse than Gurdyroots!”
+“You actually are joking, Perce. . . . I don’t think I’ve heard you joke since you were —”
 
 [](#)
 
