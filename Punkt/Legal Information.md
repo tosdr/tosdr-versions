@@ -137,7 +137,7 @@ Num. Reg. CH-501.3.011.937-5
 
 Social
 
-[](https://twitter.com/punkt "twitter")[](https://instagram.com/punktdesign "instagram")[](https://vimeo.com/punkt "vimeo")[](https://it.linkedin.com/company/punkt. "linkedin")[](https://www.youtube.com/@Punktgroup?sub_confirmation=1 "youtube")[](https://www.pinterest.it/punkttronics/_created/ "pinterest")[](https://punktdesign.medium.com/ "medium")
+[](https://x.com/punkt "twitter")[](https://www.instagram.com/punktdesign "instagram")[](https://vimeo.com/punkt "vimeo")[](https://www.linkedin.com/company/punkt.?originalSubdomain=it "linkedin")[](https://www.youtube.com/@Punktgroup?sub_confirmation=1 "youtube")[](https://www.pinterest.it/punkttronics/_created/ "pinterest")[](https://punktdesign.medium.com/ "medium")
 
 **Punkt Tronics AG**  
 Via Losanna 4  
@@ -150,7 +150,7 @@ Num. Reg. CH-501.3.011.937-5
 
 Invalid basket
 
-[View basket](https://www.punkt.ch/en/cart-c/view-cart/)
+[View basket](https://www.punkt.ch/en/cart-a/view-cart/)
 
 ×
 
