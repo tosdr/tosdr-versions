@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [North Carolina Governor Says 92 People Still Missing After Hurricane Helene](https://www.theepochtimes.com/us/north-carolina-governor-says-92-people-still-missing-after-hurricane-helene-5742094)
+    
+    1hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![North Carolina Governor Says 92 People Still Missing After Hurricane Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![North Carolina Governor Says 92 People Still Missing After Hurricane Helene](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736505-Helene-Body-Recovery-2_JF_10062024-205x123.jpg.webp)](https://www.theepochtimes.com/us/north-carolina-governor-says-92-people-still-missing-after-hurricane-helene-5742094)
+* [Chinese Farmers Hit Hardest by New Retirement Scheme, Experts Say](https://www.theepochtimes.com/china/chinese-farmers-hit-hardest-by-new-retirement-scheme-experts-say-5741071)
+    
+    1hr By [Lynn Xu](https://www.theepochtimes.com/author/ling-xiong) and [Pinnacle View Team](https://www.theepochtimes.com/author/pinnacle-view-team)
+    
+    [![Chinese Farmers Hit Hardest by New Retirement Scheme, Experts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Chinese Farmers Hit Hardest by New Retirement Scheme, Experts Say](https://img.theepochtimes.com/assets/uploads/2024/05/27/id5657824-GettyImages-74592369-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-farmers-hit-hardest-by-new-retirement-scheme-experts-say-5741071)
+* [US Supreme Court to Hear San Francisco’s Challenge to EPA Water Regulation](https://www.theepochtimes.com/us/us-supreme-court-to-hear-san-franciscos-challenge-to-epa-water-regulation-5741818)
+    
+    1hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![US Supreme Court to Hear San Francisco’s Challenge to EPA Water Regulation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Supreme Court to Hear San Francisco’s Challenge to EPA Water Regulation](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741753-10072024-L1160066-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-supreme-court-to-hear-san-franciscos-challenge-to-epa-water-regulation-5741818)
+* [Georgia Judge Halts Ballot Hand Count Rule for 2024 Election](https://www.theepochtimes.com/us/georgia-judge-halts-ballot-hand-count-rule-for-2024-election-5742089)
+    
+    2hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![Georgia Judge Halts Ballot Hand Count Rule for 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Georgia Judge Halts Ballot Hand Count Rule for 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/07/01/id5678410-GettyImages-2153452790-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-halts-ballot-hand-count-rule-for-2024-election-5742089)
+* [NTD 7th International Piano Competition Kicks Off in New York](https://www.theepochtimes.com/bright/ntd-7th-international-piano-competition-kicks-off-in-new-york-5742125)
+    
+    5hr By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
+    
+    [![NTD 7th International Piano Competition Kicks Off in New York](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![NTD 7th International Piano Competition Kicks Off in New York](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742127-NTD-piano-competition-Elie-Casbi-205x123.jpg.webp)](https://www.theepochtimes.com/bright/ntd-7th-international-piano-competition-kicks-off-in-new-york-5742125)
 * [Biden Admin Urges Israel to Improve Gaza’s Humanitarian Situation](https://www.theepochtimes.com/world/biden-admin-letter-urges-israel-to-improve-gaza-humanitarian-situation-5741796)
     
-    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    10hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Biden Admin Urges Israel to Improve Gaza’s Humanitarian Situation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden Admin Urges Israel to Improve Gaza’s Humanitarian Situation](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729079-GettyImages-2173386720-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-admin-letter-urges-israel-to-improve-gaza-humanitarian-situation-5741796)
 * [Walz Unveils Harris’s Plans for Rural Voters in Battleground Pennsylvania Rally](https://www.theepochtimes.com/us/walz-unveils-harriss-plans-for-rural-voters-in-battleground-pennsylvania-rally-5741929)
     
-    5hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    11hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Walz Unveils Harris’s Plans for Rural Voters in Battleground Pennsylvania Rally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Walz Unveils Harris’s Plans for Rural Voters in Battleground Pennsylvania Rally](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742067-Tim-Walz_2-205x123.jpg.webp)](https://www.theepochtimes.com/us/walz-unveils-harriss-plans-for-rural-voters-in-battleground-pennsylvania-rally-5741929)
 * [Georgians Flock to Polling Locations as Early In-Person Voting Opens](https://www.theepochtimes.com/us/georgians-flock-to-polling-locations-as-early-in-person-voting-opens-5741943)
     
-    5hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    11hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Georgians Flock to Polling Locations as Early In-Person Voting Opens](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Georgians Flock to Polling Locations as Early In-Person Voting Opens](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5742045-Georgia-early-voting-GettyImages-2177860144-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgians-flock-to-polling-locations-as-early-in-person-voting-opens-5741943)
 * [Day in Photos: Defamation Lawsuit, Rain Havoc, and Egyptian Mega-Museum](https://www.theepochtimes.com/article/day-in-photos-defamation-lawsuit-rain-havoc-and-egyptian-mega-museum-5741646)
     
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Defamation Lawsuit, Rain Havoc, and Egyptian Mega-Museum](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Defamation Lawsuit, Rain Havoc, and Egyptian Mega-Museum](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741982-GettyImages-2177858728-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-defamation-lawsuit-rain-havoc-and-egyptian-mega-museum-5741646)
 * [Russia, China Enlist Cyber Gangs to Target US and Allies: Microsoft](https://www.theepochtimes.com/us/russia-china-enlist-cyber-gangs-to-target-us-and-allies-microsoft-5741801)
     
-    7hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    13hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
     [![Russia, China Enlist Cyber Gangs to Target US and Allies: Microsoft](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Russia, China Enlist Cyber Gangs to Target US and Allies: Microsoft](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5742021-CyberattackKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/russia-china-enlist-cyber-gangs-to-target-us-and-allies-microsoft-5741801)
-* [California Immigration Services Executives Face Charges for Alleged Asylum Applications Scam](https://www.theepochtimes.com/china/california-immigration-services-executives-face-charges-for-alleged-asylum-applications-scam-5741747)
-    
-    7hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
-    
-    [![California Immigration Services Executives Face Charges for Alleged Asylum Applications Scam](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![California Immigration Services Executives Face Charges for Alleged Asylum Applications Scam](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741750-GettyImages-1340939095-205x123.jpg.webp)](https://www.theepochtimes.com/china/california-immigration-services-executives-face-charges-for-alleged-asylum-applications-scam-5741747)
-* [5 Key Exercises to Keep Your 40s From Feeling Like Middle Age](https://www.theepochtimes.com/health/5-key-exercises-to-keep-your-40s-from-feeling-like-middle-age-5696158)
-    
-    7hr By [Kevin Shelley](https://www.theepochtimes.com/expert/kevin-shelley)
-    
-    [![5 Key Exercises to Keep Your 40s From Feeling Like Middle Age](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![5 Key Exercises to Keep Your 40s From Feeling Like Middle Age](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741666-GettyImages-170872791-205x123.jpg.webp)](https://www.theepochtimes.com/health/5-key-exercises-to-keep-your-40s-from-feeling-like-middle-age-5696158)
-* [Appeals Court Allows Texas to Continue Investigations Into Vote Harvesting](https://www.theepochtimes.com/us/appeals-court-allows-texas-to-continue-investigations-into-vote-harvesting-5741790)
-    
-    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Appeals Court Allows Texas to Continue Investigations Into Vote Harvesting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Appeals Court Allows Texas to Continue Investigations Into Vote Harvesting](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719613-texas-mail-in-ballot-2.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-allows-texas-to-continue-investigations-into-vote-harvesting-5741790)
-* [North Carolina’s Mark Robinson Sues CNN Over Article About Porn Forum Comments](https://www.theepochtimes.com/business/north-carolinas-mark-robinson-sues-cnn-over-article-about-porn-forum-comments-5741853)
-    
-    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![North Carolina’s Mark Robinson Sues CNN Over Article About Porn Forum Comments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![North Carolina’s Mark Robinson Sues CNN Over Article About Porn Forum Comments](https://img.theepochtimes.com/assets/uploads/2024/03/03/id5599472-Mark-Robinson-CPAC-DALLAS5325-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/north-carolinas-mark-robinson-sues-cnn-over-article-about-porn-forum-comments-5741853)
-* [More Than 5 Million Have Voted So Far Across the US: Here’s the Breakdown](https://www.theepochtimes.com/us/more-than-5-million-have-voted-so-far-across-the-us-heres-the-breakdown-5741743)
-    
-    9hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![More Than 5 Million Have Voted So Far Across the US: Here’s the Breakdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![More Than 5 Million Have Voted So Far Across the US: Here’s the Breakdown](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732688-early-voting-GettyImages-2172455611-205x123.jpg.webp)](https://www.theepochtimes.com/us/more-than-5-million-have-voted-so-far-across-the-us-heres-the-breakdown-5741743)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
