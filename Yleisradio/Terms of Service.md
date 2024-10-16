@@ -70,9 +70,9 @@ Sulje valikko
 Menu
 
 * [Yle ID](https://yle.fi/aihe/yle-tunnus/yle-id)
-* [Terms of service](https://yle.fi/aihe/s/yle-id/terms-of-service)
-* [User instructions](https://yle.fi/aihe/s/yle-id/user-instructions)
-* [Service description](https://yle.fi/aihe/s/yle-id/service-description)
+* [Terms of service](https://yle.fi/aihe/a/20-10001427)
+* [User instructions](https://yle.fi/aihe/a/20-10001426)
+* [Service description](https://yle.fi/aihe/a/20-10005897)
 * [Suomeksi](https://yle.fi/aihe/yle-tunnus)
 * [På svenska](https://svenska.yle.fi/yle-konto)
 
