@@ -206,6 +206,6 @@ If you need to contact us, please use the website [https://maxaccess.io/contact
 Web Accessibility with Max Access  
 Copyright ©2024 Ability, Inc.
 
-                                   
+                                 
 
 ![](https://px.ads.linkedin.com/collect/?pid=2074953&fmt=gif)
