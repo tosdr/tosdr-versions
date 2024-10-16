@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-### Updated December 5, 2023
+### Updated October 14, 2024
 
 Thank you for visiting www.polleverywhere.com (the “Site”), which is owned by Poll Everywhere, Inc. (“Poll Everywhere”) and hosted in the United States. We strive to make our Privacy Policy (the “Privacy Policy”) easy to understand. While we encourage you to fully review our Privacy Policy, we provide a summary below that describes in general terms what we do and what we don’t do with your personal information. The complete Privacy Policy is set forth below the summary in the form of FAQs. We also encourage you to review the Site Terms of Service (the “Terms of Service”), which is the agreement between you and Poll Everywhere that governs your use of the Site, as well as provides the terms and conditions under which Poll Everywhere provides, and you may use, the Poll Everywhere Service (the “Service”).
 
@@ -87,6 +87,8 @@ Poll Everywhere only collects technical information, such as device and browser 
 To register to use some parts of the Service, you must provide a full name and email address. To purchase service, we also require your payment information. Poll Everywhere only collects this personal information if a Visitor chooses to register with the Service to become a User. We may collect information related to how you logged in (e.g., through a mobile app or a browser) so we can alert you to new features about the Service.
 
 Poll Everywhere may use your registration information to contact you to: deliver the Service and improve our Site, Service, features and content, and provide customer service; administer and enable your use, enjoyment and navigation of our Site, Service, and mobile Site; better understand your needs and interests; fulfill requests you make; and personalize your experience.
+
+We may collect and store Custom User Identification data, which refers to unique identifiers selected and provided by users, or their organization, within integrated systems like SAML (Security Assertion Markup Language) and LMS (Learning Management Systems). This identifier is used to manage and sync user accounts across these systems to ensure consistency in user identification and access management. We do not control the content or structure of the Custom User ID but facilitate its use within our systems.
 
 ### How does Poll Everywhere collect information from Visitors or Users?
 
