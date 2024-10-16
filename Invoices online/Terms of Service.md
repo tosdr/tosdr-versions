@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Henry Venter
+Hugo van Sittert
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=21613296)  
-webb it services
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=57874081)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=149839982)  
-CGHK Enterprises (PTY) LTD
-
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=158817174)  
-FX ACCOUNTING
-
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=70866415)  
-Brilliant Roof Products
-
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=111527907)  
-Salvage Genie
-
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=42938440)  
-Creative Characters
-
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=49142447)  
-Kara Medical (Pty) Ltd
-
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=140555593)  
-Multi CNC Solutions CC
-
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=84347457)  
-Cooper Logistics (Pty) Ltd
-
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=69029730)  
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=11105694)  
 NEW BEGINNINGS DESIGNS
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=171145654)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=122392562)  
+Know Informatics
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=41272289)  
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=89472801)  
 AquariumSmiths
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=18159806)  
-Kaylas Creations
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=153542887)  
+Echo Recording Studio cc
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=116734942)  
-All Trucking Solutions
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=187831269)  
+VA AND M BUSINESSES (PTY)LTD
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=e3a4acd99886a4e1934ecdb2eb5c4ad39d926977df94f6e74bcaa8f411f4af23&c=144428009)  
-SLOANE STAR MEAT MARKET
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=100853075)  
+Wiselink Broadband Pty Ltd
+
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=8347976)  
+OptaServ
+
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=19709855)  
+Iurus Inc
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=196545072)  
+Nogana Events and Decor
+
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=52841500)  
+National Elite Security Services (PTY) LTD
+
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=95546865)  
+Quad Biking Cape Town
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=17467299)  
+West Coast Horse Trails
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=194486146)  
+Dombieterfontein (PTY) LTD
+
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=f5ab6b5fdbf104393f156f1ffa82d9027623ba4bed34fd0c84bd7f8fdf230c33&c=43370149)  
+Imhoff Equestrian Centre
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
