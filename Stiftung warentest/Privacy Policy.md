@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Test CR2032-Batterien: Diese Knopf­zellen leben lange](https://www.test.de/Test-CR2032-Batterien-Diese-Knopfzellen-leben-lange-6156398-0/ "Test CR2032-Batterien - Diese Knopfzellen leben lange")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
-* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
-* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
+* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Test CR2032-Batterien: Diese Knopf­zellen leben lange](https://www.test.de/Test-CR2032-Batterien-Diese-Knopfzellen-leben-lange-6156398-0/ "Test CR2032-Batterien - Diese Knopfzellen leben lange")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
-* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
-* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
+* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Test CR2032-Batterien: Diese Knopf­zellen leben lange](https://www.test.de/Test-CR2032-Batterien-Diese-Knopfzellen-leben-lange-6156398-0/ "Test CR2032-Batterien - Diese Knopfzellen leben lange")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
-* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
-* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
+* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Test CR2032-Batterien: Diese Knopf­zellen leben lange](https://www.test.de/Test-CR2032-Batterien-Diese-Knopfzellen-leben-lange-6156398-0/ "Test CR2032-Batterien - Diese Knopfzellen leben lange")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
-* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
-* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
+* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
 
 Service Stiftung Warentest
 
