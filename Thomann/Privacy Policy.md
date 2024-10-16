@@ -752,7 +752,7 @@ Payment can be made safely and securely with PayPal, Amazon Pay, Credit Card or 
 
 * [Terms & Conditions](https://www.thomann.de/intl/compinfo_terms.html) / [Imprint](https://www.thomann.de/intl/compinfo_imprint.html)
 * [Privacy Policy](https://www.thomann.de/intl/compinfo_privacy.html)
-* [Cookie Settings](#cookie-privacy-settings)
+* Cookie Settings
 * [Right of Withdrawal](https://www.thomann.de/intl/compinfo_cancellation.html)
 * [Online Ordering Process](https://www.thomann.de/intl/compinfo_orders.html)
 * [Statutory Warranty Rights](https://www.thomann.de/intl/compinfo_liability.html)
