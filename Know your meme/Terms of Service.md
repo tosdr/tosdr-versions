@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy") [Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks") [Skyla (Pokemon)](https://knowyourmeme.com/memes/skyla-pokemon "Skyla (Pokemon)")
+[Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy") [Minecraft Sheep Fricker Machine](https://knowyourmeme.com/memes/minecraft-sheep-fricker-machine "Minecraft Sheep Fricker Machine")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hauu! You must login or signup first!
+### Hey! You must login or signup first!
 
 |     |     |
 | --- | --- |
