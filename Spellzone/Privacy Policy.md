@@ -303,11 +303,11 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
 [Children and Young Peoples’ Privacy Policy](https://www.spellzone.com/pages/policies/child-friendly-privacy-policy.cfm)
 
-"Spellzone is incredibly easy to access and caters for a wide range of abilities, which means you can use it throughout the school at a range of levels, making it fantastic value for money as a learning resource."
+One of the students has put in a huge amount of effort in completing Spellzone at least 3 times a week since his arrival with us in January. Looking at his scores after the latest GL testing, his standardised score has risen from 99 to 131. This is a truly phenomenal result. I just wanted to share the best result I have ever seen.
 
-**Anne Shisler, SENCO, City of London School for Girls**
+**Terrie Penrose-Toms, Casterton College**
 
-[read more...](https://www.spellzone.com/pages/case-studies/city-of-london-school.cfm)
+[read more...](https://www.spellzone.com/pages/case-studies/casterton-college.cfm)
 
 ### Curriculum...
 
