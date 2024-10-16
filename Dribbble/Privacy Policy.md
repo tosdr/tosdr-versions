@@ -95,6 +95,27 @@ Our commitment to protecting your privacy
 
 Learn more about how Dribbble collects and uses data and your rights as a Dribbble user.
 
+Privacy policy
+
+Our commitment to protecting your privacy
+=========================================
+
+Learn more about how Dribbble collects and uses data and your rights as a Dribbble user.
+
+Privacy policy
+
+Our commitment to protecting your privacy
+=========================================
+
+Learn more about how Dribbble collects and uses data and your rights as a Dribbble user.
+
+Privacy policy
+
+Our commitment to protecting your privacy
+=========================================
+
+Learn more about how Dribbble collects and uses data and your rights as a Dribbble user.
+
 Updated March 12, 2024
 
 ### **INTRODUCTION**
