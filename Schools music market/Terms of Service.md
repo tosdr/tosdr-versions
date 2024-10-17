@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/music-math-scavenger-hunt/)
+ [](https://schoolsmusicmarket.com/product/songwriting-lesson-part-4-how-to-improve-lyrics/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/auditioning-for-music-soft-skills-for-auditions-presentation-learning-activity-resources-and-lesson-plan/)
+ [](https://schoolsmusicmarket.com/product/which-instrument-is-playing-a-powerpoint-challenge/)
 
 ###### Browse By Year/Grade
 
