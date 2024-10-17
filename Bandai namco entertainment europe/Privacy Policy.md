@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [SWORD ART ONLINE Fractured Daydream - Policy on Cheating and Bullying](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-policy-cheating-and-bullying)
-* [SWORD ART ONLINE Fractured Daydream - FAQ](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-faq)
+* [SWORD ART ONLINE Fractured Daydream gets its first DLC, out now!](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-gets-its-first-dlc-out-now)
+* [Elden Ring – Patch Notes Version 1.16](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-patch-notes-version-116)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
@@ -76,25 +76,25 @@ Privacy Policy
 
 **1.Why do we have a Privacy Policy?**
 
-When you access, view, browse and use Bandai Namco Europe’s websites and the services they offer, you may be required to provide Bandai Namco Europe with personal data about you.  
-Bandai Namco Europe processes your personal data in accordance with the applicable data protection laws, including the General Data Protection Regulation (GDPR).  
-The purpose of this policy is to provide you with information on how Bandai Namco Europe processes the personal data about you that are collected from its sites.  
+When you access, view, browse and use Bandai Namco Entertainment Europe’s websites and the services they offer, you may be required to provide Bandai Namco Entertainment Europe with personal data about you.  
+Bandai Namco Entertainment Europe processes your personal data in accordance with the applicable data protection laws, including the General Data Protection Regulation (GDPR).  
+The purpose of this policy is to provide you with information on how Bandai Namco Entertainment Europe processes the personal data about you that are collected from its sites.  
 Please read it carefully to understand our privacy policy and how we handle your personal data. This policy should be read in conjunction with any document or information referring to the policy.
 
 **2\. Who processes your data?**
 
-The controller processing your data is Bandai Namco Europe. As a controller, Bandai Namco Europe determines the purposes of the processing operations carried out from the sites and the way in which your data are processed.  
+The controller processing your data is Bandai Namco Entertainment Europe. As a controller, Bandai Namco Entertainment Europe determines the purposes of the processing operations carried out from the sites and the way in which your data are processed.  
 For any questions, contact us directly by email to [dpo@bandainamcoent.eu](mailto:dpo@bandainamcoent.eu "DPO") or by post to the following address:
 
   
-Bandai Namco Europe SAS  
+Bandai Namco Entertainment Europe SAS  
 15 rue Félix Mangini  
 69258 Lyon cedex 09  
 France
 
 **3\. What personal data do we process?**
 
-Bandai Namco Europe collects and processes the following categories of personal data:
+Bandai Namco Entertainment Europe collects and processes the following categories of personal data:
 
 |     |     |
 | --- | --- |
@@ -102,7 +102,7 @@ Bandai Namco Europe collects and processes the following categories of personal 
 | **Identification data**: any information we can use to personally identify you | Title, last name, first name, date of birth |
 | **Login data**: any information that we may use to accurately identify you or your account before authorising you to access account information or certain online activities | Username (which may sometimes be personal or linked to other personal information), password, secret answers to certain security questions |
 | **Contact information:** any information we can use to contact you online or by any other means | Email address, telephone number, postal address |
-| **Data related to your Bandai Namco Europe gaming activity** that you agree to share by linking your Bandai Namco Europe account and your Steam account | Steam ID, owned games, purchased DLCs and season pass, downloaded demo, unlocked wins/trophies |
+| **Data related to your Bandai Namco Entertainment Europe gaming activity** that you agree to share by linking your Bandai Namco Entertainment Europe account and your Steam account | Steam ID, owned games, purchased DLCs and season pass, downloaded demo, unlocked wins/trophies |
 
 Other categories of data may be collected passively or automatically:
 
@@ -110,7 +110,7 @@ Other categories of data may be collected passively or automatically:
 | --- | --- |
 | **Categories of data** | **Examples of data** |
 | **Login, browsing and location data** which may include certain information or details about your personal computer, console, mobile device or other peripherals | Type of operating system, web browser, IP (Internet Protocol) address, name and version of programs installed on your computer, location information. |
-| **Usage data** which may collectively contain non-technical data.  <br>Certain usage data may be associated, linked or able to be cross-referenced with other information in your account, including personal data | Data about:<br><br>(i) how you use, browse or view content on our websites (“website usage” or “browsing history”);<br><br>(ii) the products you buy or download online (“order history”);<br><br>(iii) your results or progress in certain Bandai Namco Europe games (“game data”) |
+| **Usage data** which may collectively contain non-technical data.  <br>Certain usage data may be associated, linked or able to be cross-referenced with other information in your account, including personal data | Data about:<br><br>(i) how you use, browse or view content on our websites (“website usage” or “browsing history”);<br><br>(ii) the products you buy or download online (“order history”);<br><br>(iii) your results or progress in certain Bandai Namco Entertainment Europe games (“game data”) |
 
 **4\. Can personal data about children be collected?**
 
@@ -119,25 +119,25 @@ The privacy of children is a priority for us and we encourage parents to take an
 
 **5\. Why is your data collected?**
 
-Bandai Namco Europe may collect data from site users to meet the following objectives:
+Bandai Namco Entertainment Europe may collect data from site users to meet the following objectives:
 
 |     |     |     |
 | --- | --- | --- |
 | **Purposes** | **Examples of why we use your personal data** | **Legal basis** |
-| **Accessing websites and recognizing users** | \- to make the sites and associated services available;  <br>\- to recognise you as a user of the sites. | Bandai Namco Europe’s **legitimate interest** |
+| **Accessing websites and recognizing users** | \- to make the sites and associated services available;  <br>\- to recognise you as a user of the sites. | Bandai Namco Entertainment Europe’s **legitimate interest** |
 | **Managing cookies on internal websites** | \- to set cookies on the sites;  <br>\- to read cookies on the sites. | **Legitimate interest** for cookies that do not require consent  <br>**Your consent** |
 | **Creating and managing your Bandai Namco account** | \- to create your account;  <br>\- to enable you to update your account. | **Performance of the contract** (terms of use) |
 | **Managing orders and billing** | \- to process your order and deliver it to you;  <br>\- to manage invoices and payments;  <br>\- to ensure the follow-up of the customer relationship | **Performance of the terms and conditions of sale** |
-| **Managing the loyalty program** | \- to allow you to benefit from the loyalty program and avoid any fraud on this occasion;  <br>\- to manage and monitor the loyalty program and related benefits;  <br>\- to enable you to register a game;  <br>\- to enable you to link a Steam account to a Bandai Namco Europe account;  <br>\- to allow you to redeem loyalty points for rewards. | **Performance of the contract** (loyalty program terms and conditions) |
-| **Organising promotional operations (e.g., contests, gifts, events)** | \- to organise a contest, promotion, or survey;  <br>\- to manage and monitor participation in playtests and beta tester feedback for product improvement purposes. | Depending on the nature of the promotional operation concerned:  <br>\- **Performance of the contract** (the terms and conditions of the contest concerned);  <br>\- Bandai Namco Europe’s **legitimate interest** in building customer loyalty (e.g., gifts, events) |
-| **Improving our products and services** | \- to carry out satisfaction surveys (e.g., requests for opinions, surveys);  <br>\- to carry out statistical studies. | Bandai Namco Europe’s **legitimate interest** |
+| **Managing the loyalty program** | \- to allow you to benefit from the loyalty program and avoid any fraud on this occasion;  <br>\- to manage and monitor the loyalty program and related benefits;  <br>\- to enable you to register a game;  <br>\- to enable you to link a Steam account to a Bandai Namco Entertainment Europe account;  <br>\- to allow you to redeem loyalty points for rewards. | **Performance of the contract** (loyalty program terms and conditions) |
+| **Organising promotional operations (e.g., contests, gifts, events)** | \- to organise a contest, promotion, or survey;  <br>\- to manage and monitor participation in playtests and beta tester feedback for product improvement purposes. | Depending on the nature of the promotional operation concerned:  <br>\- **Performance of the contract** (the terms and conditions of the contest concerned);  <br>\- Bandai Namco Entertainment Europe’s **legitimate interest** in building customer loyalty (e.g., gifts, events) |
+| **Improving our products and services** | \- to carry out satisfaction surveys (e.g., requests for opinions, surveys);  <br>\- to carry out statistical studies. | Bandai Namco Entertainment Europe’s **legitimate interest** |
 | **Direct marketing** | \- to contact you about our products and services;  <br>\- to offer products and services, and any solutions required;  <br>\- to send you our newsletter;  <br>\- to send you advertising or other promotional material. | **Your consent** |
 | **Recruiting (“Recruitment” section on our website)** | \- to process your application and select candidates;  <br>\- to organise interviews;  <br>\- to assess candidates. | **Taking steps prior to entering into a contract** |
-| **Creating a CV-library (“Recruitment” section)** | \- to contact you again, where necessary, in the event of new offers likely to correspond to your profile. | Bandai Namco Europe’s **legitimate interest** in facilitating its search for candidates for the future |
+| **Creating a CV-library (“Recruitment” section)** | \- to contact you again, where necessary, in the event of new offers likely to correspond to your profile. | Bandai Namco Entertainment Europe’s **legitimate interest** in facilitating its search for candidates for the future |
 | **Personalizing your user experience on our websites** | \- to personalize your content and your browsing experience on our websites;  <br>\- to offer the type of content and offers that might interest you;  <br>\- to tailor our special offers and promotions - to your preferences, habits and requirements. | **Your consent** |
 | **Improving our websites and your visitor/player experience** | \- to evaluate and improve our websites (facilitate your browsing on the websites);  <br>\- to guarantee the security of our websites. | Namco Europe’s **legitimate interest** in improving its websites and your visitor/player experience |
 | **Managing pre-litigation or litigation** | \- to sanction any breach of the websites’ terms of use or any other identified breach;  <br>\- to manage any dispute or litigation. | Namco Europe’s **legitimate interest** in defending its rights and interests |
-| **Complying with legal and regulatory obligations** | \- to share information about you within the limits provided by law and according to the terms fully stated below;  <br>\- to respond to your requests to exercise your rights. | **Legal and regulatory obligations** to which Bandai Namco Europe is subject |
+| **Complying with legal and regulatory obligations** | \- to share information about you within the limits provided by law and according to the terms fully stated below;  <br>\- to respond to your requests to exercise your rights. | **Legal and regulatory obligations** to which Bandai Namco Entertainment Europe is subject |
 
 **6\. How long do we keep your personal information?**
 
@@ -156,8 +156,8 @@ Our data retention policy is organized as follows:
 | **Organising promotional operations (e.g., contests, gifts, events)** | Until the **deletion of your account on the websites** or, if your account has been inactive, for **three (3) years** after your last connection. | After the deletion of your account, or the expiry of the **three (3) year** inactivity period, only the data necessary for pre-litigation or litigation purposes will be archived until the statutory limitation period has expired — it being specified that the ordinary law limitation period in civil and commercial matters is **five (5) years.** |
 | **Improving our products and services** | Until the **deletion of your account on the websites** or, if your account has been inactive, for **three (3) years** after your last connection. | After the deletion of your account, or the expiry of the **three (3) year** inactivity period, only the data necessary for pre-litigation or litigation purposes will be archived until the statutory limitation period has expired — it being specified that the ordinary law limitation period in civil and commercial matters is **five (5) years.** |
 | **Direct marketing** | Until you withdraw your consent. |     |
-| **Recruiting (“Recruitment” section on our website)** | Up to **two (2) years** after your last contact with Bandai Namco Europe, unless you request that your application file be destroyed. | After expiry of the **two (2) year** period, only the data necessary for pre-litigation or litigation purposes will be archived until the statutory limitation period has expired — it being specified that the ordinary law limitation period in civil and commercial matters is **five (5) years.** |
-| **Creating a CV-library (“Recruitment” section)** | Up to **two (2) years** after your last contact with Bandai Namco Europe, unless you request that your application file be destroyed. | After expiry of the **two (2) year** period, only the data necessary for pre-litigation or litigation purposes will be archived until the statutory limitation period has expired — it being specified that the ordinary law limitation period in civil and commercial matters is **five (5) years.** |
+| **Recruiting (“Recruitment” section on our website)** | Up to **two (2) years** after your last contact with Bandai Namco Entertainment Europe, unless you request that your application file be destroyed. | After expiry of the **two (2) year** period, only the data necessary for pre-litigation or litigation purposes will be archived until the statutory limitation period has expired — it being specified that the ordinary law limitation period in civil and commercial matters is **five (5) years.** |
+| **Creating a CV-library (“Recruitment” section)** | Up to **two (2) years** after your last contact with Bandai Namco Entertainment Europe, unless you request that your application file be destroyed. | After expiry of the **two (2) year** period, only the data necessary for pre-litigation or litigation purposes will be archived until the statutory limitation period has expired — it being specified that the ordinary law limitation period in civil and commercial matters is **five (5) years.** |
 | **Personalizing your user experience on our websites** | Up to **thirteen (13) months.** |     |
 | **Improving our websites and your visitor/player experience** | Up to **three (3) years** from the end of the commercial relationship with the customer or **three (3) years** from the last contact from the prospect. |     |
 | **Managing pre-litigation or litigation** | For the duration of the **pre-litigation or litigation.** | \- At the end of a pre-litigation, the data will be archived until **the dispute is settled out of court** or, failing that, **as soon as the corresponding legal action is time-barred.**  <br>\- At the end of a litigation, the data will be archived until the ordinary and extraordinary remedies are no longer available against the decision issued. |
@@ -165,19 +165,19 @@ Our data retention policy is organized as follows:
 
 **7\. Whom do we share your personal information with?**
 
-We share your personal data with persons strictly authorised by their functions to have access to these data within Bandai Namco Europe.  
-Your data are also shared with third parties to Bandai Namco Europe, listed in the table:
+We share your personal data with persons strictly authorised by their functions to have access to these data within Bandai Namco Entertainment Europe.  
+Your data are also shared with third parties to Bandai Namco Entertainment Europe, listed in the table:
 
 |     |     |
 | --- | --- |
 | **Categories of recipients** | **Purposes** |
-| Bandai Namco Europe companies, including its subsidiaries, parent company or international entities | This helps us:  <br>\- to better understand who our global customers are;  <br>\- to improve our products around global trends, needs and interests;  <br>\- to promote our products by using local resources tailored to each geographic region. |
+| Bandai Namco Entertainment Europe companies, including its subsidiaries, parent company or international entities | This helps us:  <br>\- to better understand who our global customers are;  <br>\- to improve our products around global trends, needs and interests;  <br>\- to promote our products by using local resources tailored to each geographic region. |
 | Payment service providers  <br>(Digital River) | Only for the purpose of making the payment and storing the credit card/PayPal account, solely if you have consented to this. |
 | Technical service providers  <br>(Dimotrans Group) | For the proper performance of the services offered on the websites (e.g., delivery of products, order processing). |
 | Subcontractors  <br>(BigCommerce, Like Digital & Partners) | Only for technical or logistical purposes. |
 | Administrative and judicial authorities | Only in the event of an express and reasoned request from them in the event of a proven breach of statutory or regulatory provisions. |
 | External advisors | Only in the context of the management of possible disputes or for any other legal matter where necessary |
-| Other third parties | As a result of or in connection with the restructuring, reconstitution, acquisition, debt financing, merger, sale of assets of Bandai Namco Europe or any similar transaction, as well as in the event of insolvency, bankruptcy or receivership where personal data are transferred to one or more third parties as assets of Bandai Namco Europe. |
+| Other third parties | As a result of or in connection with the restructuring, reconstitution, acquisition, debt financing, merger, sale of assets of Bandai Namco Entertainment Europe or any similar transaction, as well as in the event of insolvency, bankruptcy or receivership where personal data are transferred to one or more third parties as assets of Bandai Namco Entertainment Europe. |
 
 Where we use a service provider, we will only disclose your personal data to them after we have obtained an undertaking and guarantees from them that they will be able to meet these security and confidentiality requirements.  
 We conclude contracts with our subcontractors, in compliance with the data protection laws, which precisely define the terms and conditions for processing personal data.
@@ -185,28 +185,28 @@ We conclude contracts with our subcontractors, in compliance with the data prote
 **8\. Can third parties collect data about our products and services?**
 
 Under no circumstances may third parties collect data through the sites.  
-However, it is important to note that Bandai Namco Europe’s websites may contain hyperlinks to websites operated by third parties, including advertisers and other content providers. These websites may collect data or request personal data.  
-Bandai Namco Europe has no control over these third-party websites, nor is it responsible for their content and respective privacy policies, nor any collection, use or disclosure of any information by these websites.  
+However, it is important to note that Bandai Namco Entertainment Europe’s websites may contain hyperlinks to websites operated by third parties, including advertisers and other content providers. These websites may collect data or request personal data.  
+Bandai Namco Entertainment Europe has no control over these third-party websites, nor is it responsible for their content and respective privacy policies, nor any collection, use or disclosure of any information by these websites.  
 You are recommended to read the personal data protection policy of each of the websites concerned.  
-In any event, the responsibility of Bandai Namco Europe shall not be held liable in the event that the content of one of these websites infringes the laws and regulations in force.
+In any event, the responsibility of Bandai Namco Entertainment Europe shall not be held liable in the event that the content of one of these websites infringes the laws and regulations in force.
 
 **9\. Will your data be transferred outside the European Union?**
 
 We may transfer your personal data outside the European Union as part of the IT tools we use for our business.  
-If the recipient country does not ensure a level of personal data protection equivalent to that of the European Union, Bandai Namco Europe, in the absence of an adequacy decision and after having carrying out an assessment of the level of protection of your rights on the territory of the third country where the recipient of your personal data is established, undertakes to take all necessary measures to ensure the protection of your personal data by providing appropriate safeguards (such as standard contractual clauses defined by the European Commission); such appropriate safeguards can be obtained directly from Bandai Namco Europe by writing at [dpo@bandainamcoent.eu](https://en.bandainamcoent.eu/dpo@bandainamcoent.eu)
+If the recipient country does not ensure a level of personal data protection equivalent to that of the European Union, Bandai Namco Entertainment Europe, in the absence of an adequacy decision and after having carrying out an assessment of the level of protection of your rights on the territory of the third country where the recipient of your personal data is established, undertakes to take all necessary measures to ensure the protection of your personal data by providing appropriate safeguards (such as standard contractual clauses defined by the European Commission); such appropriate safeguards can be obtained directly from Bandai Namco Entertainment Europe by writing at [dpo@bandainamcoent.eu](https://en.bandainamcoent.eu/dpo@bandainamcoent.eu)
 
 **10\. How do we protect your data?**
 
 We are particularly attentive to the security of personal data.  
-Bandai Namco Europe implements technical and organisational measures adapted to the sensitivity level of the personal data collected, in order to ensure the integrity and confidentiality of the data and protect them from any malicious intrusion, loss, alteration or disclosure to unauthorised third parties.
+Bandai Namco Entertainment Europe implements technical and organisational measures adapted to the sensitivity level of the personal data collected, in order to ensure the integrity and confidentiality of the data and protect them from any malicious intrusion, loss, alteration or disclosure to unauthorised third parties.
 
 **11\. What about cookies?**
 
-Bandai Namco Europe uses cookies on its bandainamcoent.eu websites. To find out more on cookies, please read our Cookie Policy at [https://en.bandainamcoent.eu/cookies-policy](https://en.bandainamcoent.eu/cookies-policy).
+Bandai Namco Entertainment Europe uses cookies on its bandainamcoent.eu websites. To find out more on cookies, please read our Cookie Policy at [https://en.bandainamcoent.eu/cookies-policy](https://en.bandainamcoent.eu/cookies-policy).
 
 **12\. What are your rights?**
 
-As a controller, Bandai Namco Europe is particularly concerned about respecting the rights granted to you in connection with the data processing it carries out, to ensure fair and transparent processing with regard to the particular circumstances and context in which your personal data are processed.
+As a controller, Bandai Namco Entertainment Europe is particularly concerned about respecting the rights granted to you in connection with the data processing it carries out, to ensure fair and transparent processing with regard to the particular circumstances and context in which your personal data are processed.
 
 **Your right of access:**
 
@@ -252,7 +252,7 @@ You may exercise the rights listed above by sending a request, together with a d
 * by email to: [dpo@bandainamcoent.eu](mailto:dpo@bandainamcoent.eu) ; or
 * by post to:
 
-Bandai Namco Europe SAS  
+Bandai Namco Entertainment Europe SAS  
 15 rue Félix Mangini  
 69258 Lyon cedex 09  
 France
@@ -262,10 +262,10 @@ Where necessary, you have the right to lodge a complaint with the CNIL on [its w
 
 **14\. Who should I contact to ask questions or send comments about this Privacy Policy?**
 
-Any questions about this Privacy Policy can be asked on the Bandai Namco Europe website at the following address: [https://service-en.bandainamcoent.eu/](https://service-en.bandainamcoent.eu/).  
-You can also contact Bandai Namco Europe at the following postal address:
+Any questions about this Privacy Policy can be asked on the Bandai Namco Entertainment Europe website at the following address: [https://service-en.bandainamcoent.eu/](https://service-en.bandainamcoent.eu/).  
+You can also contact Bandai Namco Entertainment Europe at the following postal address:
 
-Bandai Namco Europe SAS  
+Bandai Namco Entertainment Europe SAS  
 15 rue Félix Mangini  
 69258 Lyon cedex 09  
 France
@@ -275,6 +275,8 @@ France
 This Privacy Policy may be modified or changed at any time.  
 If we make any material changes in how we collect, use or share your personal information, we will publish a clearly visible notice on the websites advising visitors/players of the changes made.  
 Any material changes to this Privacy Policy will come into force 30 days after publication of the change notice for this Privacy Policy.
+
+ _Last update : 17th October 2024_
 
 [Logo Bandai Namco](https://en.bandainamcoent.eu/)
 
