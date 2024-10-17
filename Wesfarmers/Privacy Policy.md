@@ -43,7 +43,7 @@ Enter a search term  __
     * [Wesfarmers OneDigital](https://www.wesfarmers.com.au/our-businesses/wesfarmers-onedigital)
     * [Other businesses](https://www.wesfarmers.com.au/our-businesses/other-businesses)
     
-    Our diverse business operations cover: home improvement, outdoor living products and supply of building materials; general merchandise and apparel; office and technology products; health, beauty and wellbeing products and services; management of a retail subscription program and shared data asset; wholesale distribution of pharmaceutical goods; manufacturing and distribution of chemicals and fertilisers; development of an integrated lithium project, including mine, concentrator and refinery; industrial and safety product distribution; gas processing and distribution.
+    Wesfarmers has grown into one of Australia’s largest listed companies. Headquartered in Perth, Wesfarmers’ diverse businesses today span: home improvement, outdoor living products and supply of building materials; general merchandise and apparel; office and technology products; retailing and provision of health, beauty and wellness products and services; management of a retail subscription program and shared data asset and online marketplace; wholesale distribution of pharmaceutical goods; manufacturing and distribution of chemicals and fertilisers; participation in an integrated lithium joint venture, including operation of a mine and concentrator, and development of a refinery; industrial and safety product distribution; gas processing and distribution; and management of the Group’s investments.
     
 * [Investors](https://www.wesfarmers.com.au/investor-centre)
     
@@ -267,9 +267,9 @@ Wesfarmers Limited ABN 28 008 984 049
 
 ![](https://px.ads.linkedin.com/collect/?pid=4027457&fmt=gif)
 
-[$70.06
+[$71.07
 
-ASX: 0.00%](https://www.wesfarmers.com.au/investor-centre/your-shareholding/share-price "Investor Centre")
+ASX: +1.44%](https://www.wesfarmers.com.au/investor-centre/your-shareholding/share-price "Investor Centre")
 
 * [Investor Centre](https://www.wesfarmers.com.au/investor-centre)
 * [Annual Report](https://www.wesfarmers.com.au/docs/default-source/reports/2024-wesfarmers-annual-report---interactive.pdf?sfvrsn=1bc5e4bb_3)
