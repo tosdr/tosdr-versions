@@ -27,7 +27,7 @@
         [The Latest from HQ](https://www.aapd.org/link/40d8c9bbe1d84ae893138470f9496fb1.aspx)
     * ###### Get Involved
         
-        [AAPD Foundation](https://aapdfoundation.org/?dt=638646833085775840)
+        [AAPD Foundation](https://aapdfoundation.org/?dt=638647048855758733)
     
 * [Resources](https://www.aapd.org/resources/resources/) [Toggle expand sub-navigation items](#)
     
