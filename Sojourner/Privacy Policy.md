@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-41b23edba922fd81a5c45ecf21b830f0
+fe97bc598b79fa795c25ce07417fb215
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Square jet Swarovski clasp](https://www.sojourner.biz/images/cache/SKU0347-1front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/square-jet-swarovski-clasp.html "Square jet Swarovski clasp")
+[![6 mm round rose quartz beads](https://www.sojourner.biz/images/cache/rose_quartz/RQ0009.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/6-mm-round-rose-quartz-beads.html "6 mm round rose quartz beads")
 
-#### [Square jet Swarovski clasp](https://www.sojourner.biz/clasps/swarovski/square-jet-swarovski-clasp.html "Square jet Swarovski clasp")
+#### [6 mm round rose quartz beads](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/6-mm-round-rose-quartz-beads.html "6 mm round rose quartz beads")
 
-$30.00
+$11.00
 
 ### Best Sellers
 
