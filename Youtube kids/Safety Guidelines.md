@@ -29,7 +29,7 @@ Next
 
 [YouTube For Families Help](https://www.support.google.com/youtubekids)
 
-![](https://www.gstatic.com/images/branding/product/1x/youtube_kids_64dp.png "YouTube For Families Help logo")
+![](https://services.google.com/fh/files/helpcenter/kids_icon_64px_full_black.png "YouTube For Families Help logo")
 
 How can we help you?
 
@@ -122,7 +122,7 @@ Google apps
 
 Main menu
 
-3024868094231289348
+10056313342416674953
 
 true
 
