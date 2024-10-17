@@ -268,13 +268,6 @@ Filming taking place next to Derry Walls
 [Netflix series being filmed in Derry](https://www.derrynow.com/news/derry-news/1631755/netflix-series-being-filmed-in-derry.html)
 ----------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, October 16 2024](https://www.derrynow.com/news/deaths/1630920/derry-death-notices-wednesday-october-16-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Number of road closues in Derry as emergency services attend gas leak](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Number of road closues in Derry as emergency services attend gas leak")](https://www.derrynow.com/news/local-news/1631786/number-of-road-closues-in-derry-as-emergency-services-attend-gas-leak.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -319,15 +312,6 @@ The PSNI are appealing for information.
 [PICTURES: Hope Walk to Guildhall](https://www.derrynow.com/news/pictures---videos/1631339/pictures-hope-walk-to-guildhall-to-raise-awareness-around-suicide.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies")](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
-
-The mural in the Bogside labelling General Mike Jackson a war criminal
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![County Derry man suffered panic attack after taking cocaine and handed himself into police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man suffered panic attack after taking cocaine and handed himself into police")](https://www.derrynow.com/news/home/1631987/county-derry-man-suffered-panic-attack-after-taking-cocaine-and-handed-himself-into-police.html)
 
 The defendant attended Magherafelt PSNI station seeking assistance.
@@ -336,6 +320,22 @@ The defendant attended Magherafelt PSNI station seeking assistance.
 
 [County Derry man suffered panic attack after taking cocaine and handed himself into police](https://www.derrynow.com/news/home/1631987/county-derry-man-suffered-panic-attack-after-taking-cocaine-and-handed-himself-into-police.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with posting menacing messages to the Mayor of Derry pleads not guilty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with posting menacing messages to the Mayor of Derry pleads not guilty")](https://www.derrynow.com/news/local-news/1631434/man-charged-with-posting-menacing-messages-to-the-mayor-of-derry-pleads-not-guilty.html)
+
+Mayor of Derry City and Strabane, Cllr Lillian Seenoi-Barr
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with posting menacing messages to the Mayor of Derry pleads not guilty](https://www.derrynow.com/news/local-news/1631434/man-charged-with-posting-menacing-messages-to-the-mayor-of-derry-pleads-not-guilty.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School")](https://www.derrynow.com/story-telling/pictures---videos/1631583/in-pictures-inaugural-match-marks-manchester-united-foundation-btec-diploma-course-at-st-josephs-boys-school.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School](https://www.derrynow.com/story-telling/pictures---videos/1631583/in-pictures-inaugural-match-marks-manchester-united-foundation-btec-diploma-course-at-st-josephs-boys-school.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, October 17 2024](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Plan your Walled City Trail experience in Derry this Halloween](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Plan your Walled City Trail experience in Derry this Halloween")](https://www.derrynow.com/news/local-news/1631847/plan-your-walled-city-trail-experience-in-derry-this-halloween.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -520,7 +527,7 @@ Advertise with Us
 [Plan your Walled City Trail experience in Derry this Halloween](https://www.derrynow.com/news/local-news/1631847/plan-your-walled-city-trail-experience-in-derry-this-halloween.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Increase in dog fouling at playing fields in Limavady leads council to remind dog owners to act responsibly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Increase in dog fouling at playing fields in Limavady leads council to remind dog owners to act responsibly")](https://www.derrynow.com/news/home/1631963/increase-in-dog-fouling-at-playing-fields-in-limavady-leads-council-to-remind-dog-owners-to-act-responsibly.html)
+[![Increase in dog fouling at playing fields in Limavady leads council to remind dog owners to act responsibly](https://www.derrynow.com/resizer/165/93/true/2024_10_16/Dog_Fouling_-_Roe_Mill_Playing_Fields-1729090514309_1729090657.png--.png?1729090657400 "Increase in dog fouling at playing fields in Limavady leads council to remind dog owners to act responsibly")](https://www.derrynow.com/news/home/1631963/increase-in-dog-fouling-at-playing-fields-in-limavady-leads-council-to-remind-dog-owners-to-act-responsibly.html)
 
 Cleansing operatives have noted an increase in dog fouling at Roe Mill Playing Fields in Limavady.
 
@@ -553,15 +560,6 @@ The defendant attended Magherafelt PSNI station seeking assistance.
 
 [Derry artist SOAK features in lineup for Other Voices: Home at The Guinness Storehouse](https://www.derrynow.com/news/what-s-on/1631891/derry-artist-soak-features-in-lineup-for-other-voices-home-at-the-guinness-storehouse.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Calling all singers: Vocal health workshop to be held in Draperstown](https://www.derrynow.com/resizer/165/93/true/2024_10_16/CDP_-_15-10-24_-_Page_4_offlead_1_pic-1729094142396.jpg--.jpg?1729094142512 "Calling all singers: Vocal health workshop to be held in Draperstown")](https://www.derrynow.com/news/home/1632057/calling-all-singers-vocal-health-workshop-to-be-held-in-draperstown.html)
-
-The event will be led by the electrifying duo from Vokxen.
-
-[Home](https://www.derrynow.com/)
-
-[Calling all singers: Vocal health workshop to be held in Draperstown](https://www.derrynow.com/news/home/1632057/calling-all-singers-vocal-health-workshop-to-be-held-in-draperstown.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
