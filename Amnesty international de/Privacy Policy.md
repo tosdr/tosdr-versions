@@ -40,6 +40,8 @@ Hauptnavigation
     [Schwerpunkte Übersicht](https://www.amnesty.de/schwerpunkte)
     -------------------------------------------------------------
     
+    * [Briefmarathon 2024: Schreib für Freiheit](https://www.amnesty.de/amnesty-briefmarathon)
+    * [Briefmarathon an Schulen](https://www.amnesty.de/amnesty-briefmarathon-schule "Briefmarathon an Schulen")
     * [Umwelt schützen ohne Lebensgefahr](https://www.amnesty.de/amnesty-menschenrechtspreis-2024-kolumbien-fedepesan-umweltschutz)
     * [Protect the Protest](https://www.amnesty.de/protest-demonstrationen-schuetzen-protect-the-protest "Protect the Protest: Verteidigen wir unser Recht auf Protest!")
     * [Unsere Arbeit zu Israel/Palästina](https://www.amnesty.de/israel-palaestina-gaza-nahostkonflikt)
