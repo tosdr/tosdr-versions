@@ -259,51 +259,28 @@ Advertise with Us
 
 Most Popular
 
-[![Filming taking place next to Derry Walls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Filming taking place next to Derry Walls")](https://www.derrynow.com/news/derry-news/1631755/netflix-series-being-filmed-in-derry.html)
-
-Filming taking place next to Derry Walls
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Netflix series being filmed in Derry](https://www.derrynow.com/news/derry-news/1631755/netflix-series-being-filmed-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------
-
-[![Number of road closues in Derry as emergency services attend gas leak](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Number of road closues in Derry as emergency services attend gas leak")](https://www.derrynow.com/news/local-news/1631786/number-of-road-closues-in-derry-as-emergency-services-attend-gas-leak.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Number of road closures in Derry as emergency services attend gas leak](https://www.derrynow.com/news/local-news/1631786/number-of-road-closues-in-derry-as-emergency-services-attend-gas-leak.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'")](https://www.derrynow.com/story-telling/pictures---videos/1476050/in-pictures-foyle-hospice-hosts-coffee-morning-for-hospice-care-week.html)
+[![Throwback Thursday: Partytime out and about Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1631961/throwback-thursday-partytime-out-and-about-derry-2009.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'](https://www.derrynow.com/story-telling/pictures---videos/1476050/in-pictures-foyle-hospice-hosts-coffee-morning-for-hospice-care-week.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Throwback Thursday: Partytime out and about Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1631961/throwback-thursday-partytime-out-and-about-derry-2009.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Donegal man pleads guilty to attempted sexual communication with a child](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man pleads guilty to attempted sexual communication with a child")](https://www.derrynow.com/news/local-news/1631479/donegal-man-pleads-guilty-to-attempted-sexual-communication-with-a-child.html)
+[![Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall")](https://www.derrynow.com/news/arts---entertainment/1632346/tributes-in-ireland-as-one-direction-star-liam-payne-dies-in-argentina-balcony-fall.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Donegal man pleads guilty to attempted sexual communication with a child](https://www.derrynow.com/news/local-news/1631479/donegal-man-pleads-guilty-to-attempted-sexual-communication-with-a-child.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Oasis support acts for UK and Ireland reunion tour reportedly ‘confirmed’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Oasis support acts for UK and Ireland reunion tour reportedly ‘confirmed’")](https://www.derrynow.com/news/arts---entertainment/1631581/a-wasted-opportunity-mixed-reactions-as-oasis-support-acts-for-reunion-tour-revealed.html)
+Liam Payne has died at the age of 31
 
 [Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
 
-['A wasted opportunity' - Mixed reactions as Oasis support acts for reunion tour ‘revealed’](https://www.derrynow.com/news/arts---entertainment/1631581/a-wasted-opportunity-mixed-reactions-as-oasis-support-acts-for-reunion-tour-revealed.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall](https://www.derrynow.com/news/arts---entertainment/1632346/tributes-in-ireland-as-one-direction-star-liam-payne-dies-in-argentina-balcony-fall.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'")](https://www.derrynow.com/news/home/1631751/victim-of-garvagh-shooting-sustains-serious-and-potentially-life-changing-injuries.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
 
-The PSNI are appealing for information.
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Home](https://www.derrynow.com/)
-
-[Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'](https://www.derrynow.com/news/home/1631751/victim-of-garvagh-shooting-sustains-serious-and-potentially-life-changing-injuries.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Thursday, October 17 2024](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: Hope Walk to Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Hope Walk to Guildhall")](https://www.derrynow.com/news/pictures---videos/1631339/pictures-hope-walk-to-guildhall-to-raise-awareness-around-suicide.html)
 
@@ -321,27 +298,57 @@ The defendant attended Magherafelt PSNI station seeking assistance.
 [County Derry man suffered panic attack after taking cocaine and handed himself into police](https://www.derrynow.com/news/home/1631987/county-derry-man-suffered-panic-attack-after-taking-cocaine-and-handed-himself-into-police.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man charged with posting menacing messages to the Mayor of Derry pleads not guilty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with posting menacing messages to the Mayor of Derry pleads not guilty")](https://www.derrynow.com/news/local-news/1631434/man-charged-with-posting-menacing-messages-to-the-mayor-of-derry-pleads-not-guilty.html)
+[![Derry: 100 days on from Mickey Harte](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry: 100 days on from Mickey Harte")](https://www.derrynow.com/news/gaa/1631878/derry-100-days-on-from-mickey-harte.html)
 
-Mayor of Derry City and Strabane, Cllr Lillian Seenoi-Barr
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Derry: 100 days on from Mickey Harte](https://www.derrynow.com/news/gaa/1631878/derry-100-days-on-from-mickey-harte.html)
+--------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for Dungiven man charged with series of waste management offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Dungiven man charged with series of waste management offences")](https://www.derrynow.com/news/local-news/1632646/suspended-sentence-for-dungiven-man-charged-with-series-of-waste-management-offences.html)
+
+Derry Crown Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man charged with posting menacing messages to the Mayor of Derry pleads not guilty](https://www.derrynow.com/news/local-news/1631434/man-charged-with-posting-menacing-messages-to-the-mayor-of-derry-pleads-not-guilty.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Suspended sentence for Dungiven man charged with series of waste management offences](https://www.derrynow.com/news/local-news/1632646/suspended-sentence-for-dungiven-man-charged-with-series-of-waste-management-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School")](https://www.derrynow.com/story-telling/pictures---videos/1631583/in-pictures-inaugural-match-marks-manchester-united-foundation-btec-diploma-course-at-st-josephs-boys-school.html)
+[![Belfast man charged with number of violent offences in Derry denied bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Belfast man charged with number of violent offences in Derry denied bail")](https://www.derrynow.com/news/local-news/1632648/belfast-man-charged-with-number-of-violent-offences-in-derry-denied-bail.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[IN PICTURES: Inaugural match marks Manchester United Foundation BTEC Diploma Course at St. Joseph’s Boys School](https://www.derrynow.com/story-telling/pictures---videos/1631583/in-pictures-inaugural-match-marks-manchester-united-foundation-btec-diploma-course-at-st-josephs-boys-school.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Belfast man charged with number of violent offences in Derry denied bail](https://www.derrynow.com/news/local-news/1632648/belfast-man-charged-with-number-of-violent-offences-in-derry-denied-bail.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Three charged following death of child in Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three charged following death of child in Northern Ireland")](https://www.derrynow.com/news/northern-ireland/1632339/three-charged-following-death-of-child-in-northern-ireland.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Three charged following death of child in Northern Ireland](https://www.derrynow.com/news/northern-ireland/1632339/three-charged-following-death-of-child-in-northern-ireland.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Dramatic increase in Ballykelly bug bites causing concern for locals ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dramatic increase in Ballykelly bug bites causing concern for locals ")](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
+
+Dramatic increase in Ballykelly bug bites causing concern for locals
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Dramatic increase in Ballykelly bug bites causing concern for locals](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Throwback Thursday: Partytime out and about Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1631961/throwback-thursday-partytime-out-and-about-derry-2009.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Thursday: Partytime out and about Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1631961/throwback-thursday-partytime-out-and-about-derry-2009.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: Hope Walk to Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Hope Walk to Guildhall")](https://www.derrynow.com/news/pictures---videos/1631339/pictures-hope-walk-to-guildhall-to-raise-awareness-around-suicide.html)
 
@@ -405,13 +412,6 @@ Multimedia
 
 [PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice](https://www.derrynow.com/news/local-news/1629487/pictures-foyle-school-of-speech-and-drama-host-charity-feis-for-foyle-hospice.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place")](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
-
-[GAA](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: GAA Glitz and glam at Croke Park as Champions 15 awards ceremony takes place](https://www.derrynow.com/news/gaa/1628969/pictures-gaa-glitz-and-glam-at-croke-park-as-champions-15-awards-ceremony-takes-place.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,53 +513,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
+[![Peggy Mae Sweeney ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Peggy Mae Sweeney ")](https://www.derrynow.com/news/derry-news/1632804/fundraiser-for-derry-baby-peggy-ahead-of-major-surgery-in-london.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Peggy Mae Sweeney
 
-[Derry Death Notices - Thursday, October 17 2024](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[![Plan your Walled City Trail experience in Derry this Halloween](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Plan your Walled City Trail experience in Derry this Halloween")](https://www.derrynow.com/news/local-news/1631847/plan-your-walled-city-trail-experience-in-derry-this-halloween.html)
+[Fundraiser for Derry baby Peggy ahead of major surgery in London](https://www.derrynow.com/news/derry-news/1632804/fundraiser-for-derry-baby-peggy-ahead-of-major-surgery-in-london.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry entrepreneurs get ready to make the Ultimate Pitch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry entrepreneurs get ready to make the Ultimate Pitch")](https://www.derrynow.com/news/local-news/1632707/derry-entrepreneurs-get-ready-to-make-the-ultimate-pitch.html)
+
+Launch of the Ultimate Pitch. PHOTO: Kelvin Boyes / Press Eye.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Plan your Walled City Trail experience in Derry this Halloween](https://www.derrynow.com/news/local-news/1631847/plan-your-walled-city-trail-experience-in-derry-this-halloween.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry entrepreneurs get ready to make the Ultimate Pitch](https://www.derrynow.com/news/local-news/1632707/derry-entrepreneurs-get-ready-to-make-the-ultimate-pitch.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Increase in dog fouling at playing fields in Limavady leads council to remind dog owners to act responsibly](https://www.derrynow.com/resizer/165/93/true/2024_10_16/Dog_Fouling_-_Roe_Mill_Playing_Fields-1729090514309_1729090657.png--.png?1729090657400 "Increase in dog fouling at playing fields in Limavady leads council to remind dog owners to act responsibly")](https://www.derrynow.com/news/home/1631963/increase-in-dog-fouling-at-playing-fields-in-limavady-leads-council-to-remind-dog-owners-to-act-responsibly.html)
+[![Dramatic increase in Ballykelly bug bites causing concern for locals ](https://www.derrynow.com/resizer/165/93/true/2024_10_17/MixCollage-17-Oct-2024-12-08-PM-9263-1729163412633.jpg--.jpg?1729163412690 "Dramatic increase in Ballykelly bug bites causing concern for locals ")](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
 
-Cleansing operatives have noted an increase in dog fouling at Roe Mill Playing Fields in Limavady.
+Dramatic increase in Ballykelly bug bites causing concern for locals
 
-[Home](https://www.derrynow.com/)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Increase in dog fouling at playing fields in Limavady leads council to remind dog owners to act responsibly](https://www.derrynow.com/news/home/1631963/increase-in-dog-fouling-at-playing-fields-in-limavady-leads-council-to-remind-dog-owners-to-act-responsibly.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Dramatic increase in Ballykelly bug bites causing concern for locals](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![MSW Region Marks Missed Deal Heads of Terms Signing with a Message for UK Government: Lift the Pause on Our Growth](https://www.derrynow.com/resizer/165/93/true/2024_10_16/161024PM1_-_0014-1729094743045.JPG--.JPG?1729094744057 "MSW Region Marks Missed Deal Heads of Terms Signing with a Message for UK Government: Lift the Pause on Our Growth")](https://www.derrynow.com/news/home/1632067/msw-region-marks-missed-deal-heads-of-terms-signing-with-a-message-for-uk-government-lift-the-pause-on-our-growth.html)
+[![Derry representatives in Ulster squad ahead of Allianz GAA Football Inter-Provincial Series](https://www.derrynow.com/resizer/165/93/true/1520600660447.png--.png?1520600660000 "Derry representatives in Ulster squad ahead of Allianz GAA Football Inter-Provincial Series")](https://www.derrynow.com/news/gaa/1632653/derry-representatives-in-ulster-squad-ahead-of-allianz-gaa-football-inter-provincial-series.html)
 
-First Minister Michelle O’Neill, deputy First Minister Emma Little-Pengelly, Finance Minister Dr Caoimhe Archibald with Mid South West Region Growth Deal delivery partners.
+Ulster GAA
 
-[Home](https://www.derrynow.com/)
+[GAA](https://www.derrynow.com/section/1060/gaa)
 
-[MSW Region Marks Missed Deal Heads of Terms Signing with a Message for UK Government: Lift the Pause on Our Growth](https://www.derrynow.com/news/home/1632067/msw-region-marks-missed-deal-heads-of-terms-signing-with-a-message-for-uk-government-lift-the-pause-on-our-growth.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry representatives in Ulster squad ahead of Allianz GAA Football Inter-Provincial Series](https://www.derrynow.com/news/gaa/1632653/derry-representatives-in-ulster-squad-ahead-of-allianz-gaa-football-inter-provincial-series.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry man suffered panic attack after taking cocaine and handed himself into police](https://www.derrynow.com/resizer/165/93/true/2024_10_16/image_123650291_%2859%29-1729091608612_1729091680.JPG--.JPG?1729091680904 "County Derry man suffered panic attack after taking cocaine and handed himself into police")](https://www.derrynow.com/news/home/1631987/county-derry-man-suffered-panic-attack-after-taking-cocaine-and-handed-himself-into-police.html)
+[![Belfast man charged with number of violent offences in Derry denied bail](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Belfast man charged with number of violent offences in Derry denied bail")](https://www.derrynow.com/news/local-news/1632648/belfast-man-charged-with-number-of-violent-offences-in-derry-denied-bail.html)
 
-The defendant attended Magherafelt PSNI station seeking assistance.
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Home](https://www.derrynow.com/)
+[Belfast man charged with number of violent offences in Derry denied bail](https://www.derrynow.com/news/local-news/1632648/belfast-man-charged-with-number-of-violent-offences-in-derry-denied-bail.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[County Derry man suffered panic attack after taking cocaine and handed himself into police](https://www.derrynow.com/news/home/1631987/county-derry-man-suffered-panic-attack-after-taking-cocaine-and-handed-himself-into-police.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Suspended sentence for Dungiven man charged with series of waste management offences](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Suspended sentence for Dungiven man charged with series of waste management offences")](https://www.derrynow.com/news/local-news/1632646/suspended-sentence-for-dungiven-man-charged-with-series-of-waste-management-offences.html)
 
-[![Derry artist SOAK features in lineup for Other Voices: Home at The Guinness Storehouse](https://www.derrynow.com/resizer/165/93/true/2024_10_16/MixCollage-16-Oct-2024-03-00-PM-328-1729087379285.jpg--.jpg?1729087379340 "Derry artist SOAK features in lineup for Other Voices: Home at The Guinness Storehouse")](https://www.derrynow.com/news/what-s-on/1631891/derry-artist-soak-features-in-lineup-for-other-voices-home-at-the-guinness-storehouse.html)
+Derry Crown Court
 
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry artist SOAK features in lineup for Other Voices: Home at The Guinness Storehouse](https://www.derrynow.com/news/what-s-on/1631891/derry-artist-soak-features-in-lineup-for-other-voices-home-at-the-guinness-storehouse.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Suspended sentence for Dungiven man charged with series of waste management offences](https://www.derrynow.com/news/local-news/1632646/suspended-sentence-for-dungiven-man-charged-with-series-of-waste-management-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
