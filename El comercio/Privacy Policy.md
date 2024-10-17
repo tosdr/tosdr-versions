@@ -31,905 +31,1020 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Policía realiza operativos por presunta concusión de agentes de tránsito
-========================================================================
+Segundo Alejandro Castillo y sus números en Barcelona Sporting Club
+===================================================================
 
-En coordinación con Fiscalía, 223 uniformados participaron en allanamientos a inmuebles de Quito, la madrugada de este jueves 17 de octubre
--------------------------------------------------------------------------------------------------------------------------------------------
+Segundo Alejandro Castillo tendrá una nueva oportunidad como entrenador de Barcelona SC.
+----------------------------------------------------------------------------------------
 
-![Los uniformados tomaron varias pruebas como uniformes de uso policial, celulares y más.](https://www.elcomercio.com/wp-content/uploads/2024/10/Policia-Quito.jpg)
+![Segundo Alejandro Castillo como DT de Barcelona SC en el 2023.](https://www.elcomercio.com/wp-content/uploads/2024/10/castillo_numeros_1.jpg)
 
-La **Policía Nacional** realizó, en coordinación con la **Fiscalía Nacional del Estado**, un operativo durante la madrugada de este jueves 17 de octubre de 2024.
+El ecuatoriano **Segundo Alejandro Castillo** asumió por tercera vez como entrenador interino de Barcelona Sporting Club para lo que resta de la Liga Pro, en medio de una crisis de resultados.
 
-### Más noticias
+Ante la salida de **Ariel Holan, Segundo Alejandro Castillo**, parte del equipo de trabajo del argentino, la directiva decidió darle el cargo al exmundialista con Ecuador en Brasil 2014, el cargo para intentar encaminar un equipo que va a la deriva.
 
-* [Así funciona el Pico y placa en Quito este jueves 17 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-17-de-octubre.html "Así funciona el Pico y placa en Quito este jueves 17 de octubre")
-* [Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre](https://www.elcomercio.com/actualidad/seguridad/ataque-armado-farmacia-quito-saldo-mortal.html "Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre")
-* [Cortes de luz en Cuenca para este jueves 17 de octubre](https://www.elcomercio.com/actualidad/cuenca/cortes-de-luz-en-cuenca-para-este-jueves-17-de-octubre.html "Cortes de luz en Cuenca para este jueves 17 de octubre")
+### Más noticias:
 
-Allanamientos en Quito
-----------------------
+* [La Selección de Ecuador estrenará camiseta en el Mundial Sub-17 femenina](https://www.elcomercio.com/deportes/camiseta-seleccion-ecuador-mundial-sub-17.html "La Selección de Ecuador estrenará camiseta en el Mundial Sub-17 femenina")
+* [La Liga Pro se reanudará con cambio de horarios](https://www.elcomercio.com/deportes/liga-pro-fecha10-horarios-modificados.html "La Liga Pro se reanudará con cambio de horarios")
+* [Marcelo Bielsa catalogó a la Selección de Ecuador como un rival difícil](https://www.elcomercio.com/deportes/futbol/marcelo-bielsa-catalogo-seleccion-de-ecuador-como-un-rivla-dificil.html "Marcelo Bielsa catalogó a la Selección de Ecuador como un rival difícil")
 
-Los uniformados ejecutaron varios **allanamientos en inmuebles en la ciudad de Quito**, en el marco de una investigación por **presunta concusión**.
+Para Castillo será la tercera vez que tome el cargo. La primera fue en **febrero de 2022 cuando Fabián Bustos** se marchó al Santo de Brasil, luego de haber obtenido el título de la Liga Pro, al ganarle en la final a Liga de Quito en el Rodrigo Paz Delgado.
 
-En el cometimiento de este **presunto delito** estarían involucrados agentes metropolitanos de tránsito.
+La segunda entre junio y agosto de 2023, cuando Bustos volvió a dejar el cargo y en su **lugar llegó el uruguayo Diego López**, que siempre fue criticado por los hinchas por el funcionamiento de sus equipos.
 
-**223 servidores policiales**, más personal de la Fiscalía participaron en la puesta en marcha de este operativo en Quito.
+El ‘Mortero’, como también es conocido el deportista que **debutó en el fútbol ecuatoriano con Espoli**, club que actualmente transita en la Segunda Categoría de Pichincha, tendrá su nuevo estreno como DT de los amarillos en el Clásico del Astillero.
 
-Los policías pudieron recoge**r algunas evidencias** como:
+La Liga Pro anunció que el horario de este encuentro será a las 17:00 del domingo 20 de octubre, en el estadio Monumental, dentro de la programación de la décima fecha de la segunda etapa.
 
-* Dinero en efectivo
-* Celulares
-* Computadoras
-* Matrículas y licencias de conducir
-* Uniformes de uso policial, entre otras
-
-Estos indicios pasarán a **cadena de custodia** y posteriormente serán presentados como pruebas en los procesos legales que se establezcan.
-
-> 🔴 [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) ||  
->   
-> OPERATIVO CONTRA EL DELITO DE CONCUSIÓN  
->   
-> Esta madrugada en coordinación con [@FiscaliaEcuador](https://twitter.com/FiscaliaEcuador?ref_src=twsrc%5Etfw), ejecutamos varios allanamientos en [#UIO](https://twitter.com/hashtag/UIO?src=hash&ref_src=twsrc%5Etfw), en el marco de una investigación por presunta [#concusión](https://twitter.com/hashtag/concusi%C3%B3n?src=hash&ref_src=twsrc%5Etfw), que involucra a varios agentes metropolitanos de tránsito.  
->   
-> Operativo… [pic.twitter.com/L8M7tgugBO](https://t.co/L8M7tgugBO)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 17, 2024](https://twitter.com/PoliciaEcuador/status/1846855876713369929?ref_src=twsrc%5Etfw)
-
-¿Qué es el delito de concusión?
--------------------------------
-
-La concusión es un término legal que se refiere a cuando un funcionario público en uso de su cargo, exige o hace pagar a una persona una contribución, o también al cobrar más de lo que le corresponde por las funciones que realiza.
-
-Este delito puede presentar agravantes si se emplea intimidación o si se invoca que son órdenes de un funcionario de mayor jerarquía, y esta exacción es en provecho **[propio](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")**.
-
-​Este delito está tipificado en el Código Integral Penal: Art. 281.- Concusión.- Las o los servidores públicos y las personas que actúen en virtud de una potestad estatal en alguna de las instituciones del Estado, determinadas en la Constitución de la República, sus agentes o dependientes oficiales que abusando de su cargo o funciones, por sí o por medio de terceros, ordenen o exijan la entrega de derechos, cuotas, contribuciones, rentas, intereses, sueldos o gratificaciones no debidas, serán sancionados con pena privativa de libertad de tres a cinco años. Si la conducta prevista en el inciso anterior se realiza mediante violencias o amenazas, la o el servidor público, será sancionado con pena privativa de libertad de cinco a siete años. Tomado del COIP (2014).  
-
-Liam Payne luchó contra uno de los peores enemigos
-==================================================
-
-Liam Payne murió el 16 de octubre de 2024. Su vida estuvo marcada por el éxito y los excesos.
----------------------------------------------------------------------------------------------
-
-![Liam Payne murió a los 31 años. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo180.jpg)
-
-**Liam Payne**, el exintegrante de la icónica banda británica **One Direction**, falleció trágicamente el pasado miércoles en Buenos Aires, Argentina, tras caer de la tercera planta de un hotel.
-
-Los fans siguen conmocionados. En redes sociales envían muestras de cariño al joven músico.
-
-### **Más noticias:**
-
-* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
-* [Mamá de ‘Diddy’ dice que su hijo no es un ‘monstruo’](https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Content+Link")
-* [Beyoncé perdió millones de seguidores por su conexión con ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html?source=Internal&ref=Single+Content+Link")
-
-**Liam Payne: una vida marcada por el éxito y la tragedia**
------------------------------------------------------------
-
-Su llegada al mundo de la **música** ocurrió a través del programa **‘The X Factor’,** donde su carrera se vio afectada por múltiples desafíos personales.
-
-Liam **Payne** se presentó por primera vez al concurso en 2008, a los 14 años, pero fue descartado por su juventud.
-
-> [View this post on Instagram](https://www.instagram.com/p/C30X1H9Mlmh/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Liam Payne (@liampayne)](https://www.instagram.com/p/C30X1H9Mlmh/?utm_source=ig_embed&utm_campaign=loading)
-
-En 2010, regresó y se unió a Harry Styles, Zayn Malik, Niall Horan y Louis Tomlinson, formando **One Direction**, que rápidamente se convirtió en una de las boybands más exitosas de su época.
-
-Durante su carrera, la banda vendió más de 70 millones de discos y estableció récords en la lista Billboard, siendo la primera en debutar con sus primeros cuatro álbumes en el número uno.
-
-**Liam Payne y el lado oscuro de la fama**
-------------------------------------------
-
-A pesar del éxito, **Payne** enfrentó el lado oscuro de la fama. En varias entrevistas, comentó sobre las dificultades de lidiar con el reconocimiento público y los excesos que acompañaron a la vida en el escenario.
-
-“El minibar siempre está ahí”, reflexionó sobre su lucha con el alcohol durante su tiempo en la banda. Tras la disolución de **One Direction** en 2016, **Payne** intentó relanzar su carrera como solista, logrando cierto reconocimiento con temas como Strip That Down y For You.
-
-Sin embargo, su vida personal también estuvo marcada por altibajos, incluyendo su relación con Cheryl Cole, con quien tuvo un hijo y luego se separó.
-
-En los últimos años, **Payne** enfrentó problemas de salud que lo llevaron a ser hospitalizado en dos ocasiones en 2023.
-
-Así funciona el Pico y placa en Quito este jueves 17 de octubre
-===============================================================
-
-Recuerda que en octubre deben matricular autos con placas terminadas en 9. Revisa los horarios del Pico y placa y evita multas
-------------------------------------------------------------------------------------------------------------------------------
-
-![Los agentes de tránsito vigilan el cumplimiento de la medida.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-placa-horarios.jpg)
-
-El **pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
-
-### Más noticias
-
-* [Cortes de luz tendrán nuevos horarios las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-tendran-nuevos-horarios-proximas-tres-semanas.html "Cortes de luz tendrán nuevos horarios las próximas tres semanas")
-* [Más de 1 600 especies fueron introducidas en Galápagos](https://www.elcomercio.com/actualidad/ecuador/mas-de-1-600-especies-fueron-introducidas-en-galapagos.html "Más de 1 600 especies fueron introducidas en Galápagos")
-* [El Metro de Quito superó los 43 millones de viajes](https://www.elcomercio.com/actualidad/metro-de-quito-supero-43-millones-de-viajes-operacion.html "El Metro de Quito superó los 43 millones de viajes")
-
-El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales,
-
-El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
-
-El esquema de aplicación:
--------------------------
-
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes:** los que finalizan en 3 y 4.
-* **Miércoles:** los de dígitos 5 y 6.
-* **Jueves:** los que tengan 7 y 8.
-* **Viernes:** las placas 9 y 0.
-
-Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
-
-Multas por infringir Pico y placa
----------------------------------
-
-La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
-
-Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
-
-Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
-
-Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
-
-Matriculación vehicular
------------------------
-
-Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de octubre los automotores con placa terminada en 9 deben cumplir con el proceso de matriculación.
-
-También pueden adelantar el trámite los que tienen placa terminada en 0. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Recuerda!  
-> Si la placa de tu vehículo termina en el dígito 9️⃣ octubre es tu mes.  
->   
-> ✅ Realiza la Revisión Técnica Vehicular y matricula tu automotor. ¡Evita multas!  
->   
-> 💡 El proceso culmina con el permiso de circulación.  
->   
-> 💪 Con responsabilidad [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Er6f3k56iD](https://t.co/Er6f3k56iD)
-> 
-> — AMTQuito (@AMT\_Quito) [October 1, 2024](https://twitter.com/AMT_Quito/status/1841206736901795987?ref_src=twsrc%5Etfw)
-
-Hablemos de las Infecciones de Transmisión Sexual en Ecuador
-============================================================
-
-El aumento de ITS en Ecuador es preocupante, especialmente en zonas rurales. Es crucial mejorar la educación sexual.
---------------------------------------------------------------------------------------------------------------------
-
-![Los adolescentes y jóvenes están entre lo de más riesgo de contraer ITS. Foto: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/10/Imagen-Editorial-oki.jpg)
-
-Las **Infecciones de Transmisión Sexual (ITS)** siguen siendo un tema del que se habla en voz baja. Este silencio favorece la desinformación, perpetúa mitos y genera un desconocimiento que coloca a la población ecuatoriana en riesgo.
-
-Lo más alarmante es que muchas ITS son asintomáticas, y la falta de conciencia sobre los factores de riesgo aumenta la vulnerabilidad. Al exponerse a situaciones riesgosas, como relaciones sexuales vaginales, anales u orales sin protección, las probabilidades de contraer una infección se disparan. Estas infecciones, de origen viral, bacteriana o micótica, se transmiten a través del contacto con fluidos corporales y sangre. Frente a esto se requiere mayor conciencia sobre los métodos de prevención.
-
-> El aumento de las ITS es un fenómeno global y Ecuador no es la excepción. Si bien en los últimos años se registra un aumento en la detección de casos, sigue existiendo un subregistro considerable.
-
-Según el [Ministerio de Salud Pública (MSP)](https://www.salud.gob.ec/documentos-normativos-prevencion-atencion-y-seguimiento-en-vih-sida-its-y-hepatitis-virales-b-y-c/ "https://www.salud.gob.ec/documentos-normativos-prevencion-atencion-y-seguimiento-en-vih-sida-its-y-hepatitis-virales-b-y-c/"), el 93% de los diagnósticos corresponde a mujeres. Esto se debe en gran parte a que ellas buscan más atención médica que los hombres. Apenas el 7% restante de los casos involucra a hombres. Ellos demandan menos servicios médicos, pero también hay una cultura de [miedo, vergüenza y estigma](https://www.elcomercio.com/tendencias/salud/7-barreras-para-acceder-a-la-atencion-de-infecciones-de-transmision-sexual-en-ecuador.html) que limita el acceso al diagnóstico oportuno.
-
-Este fenómeno es particularmente preocupante entre adolescentes y jóvenes, quienes inician su vida sexual a edades cada vez más tempranas. A pesar del acceso a información a través de Internet, muchos no buscan ayuda médica. Esta situación se agrava en las zonas rurales, urbano marginales y entre personas en situación de pobreza y extrema pobreza. En estas áreas, la distancia a los dispensarios y la falta de recursos impiden que hombres y mujeres accedan a diagnósticos y tratamientos a tiempo.
-
-Un ejemplo preocupante es Napo, en la [Amazonía ecuatoriana](https://www.elcomercio.com/tendencias/salud/repunte-de-infecciones-de-transmision-sexual-en-ecuador-por-que-hay-mas-casos-en-mujeres.html "https://www.elcomercio.com/tendencias/salud/repunte-de-infecciones-de-transmision-sexual-en-ecuador-por-que-hay-mas-casos-en-mujeres.html"). Esta provincia registra la tasa más alta de ITS en el país: 40,2 casos por 10 000 habitantes, frente a un promedio nacional de 11,7. La situación en las comunidades indígenas es aún más crítica. Ahí se requieren intervenciones integrales que incluyan mayor personal médico, infraestructura adecuada, tamizajes regulares e insumos suficientes. Esta responsabilidad recae en el Estado, las organizaciones no gubernamentales y la sociedad civil.
-
-No hay que olvidar que muchas de las ITS pueden ser tratadas, incluso, en los casos de VIH, los antirretrovirales permiten mantener la carga viral en niveles indetectables, lo que reduce el riesgo de transmisión. Sin embargo, todavía hay personas que mueren porque no reciben tratamiento durante los primeros siete a diez años en que el VIH permanece inactivo. Esto evidencia un fallo en la atención temprana. Además, la transmisión vertical del virus de madre a hijo sigue ocurriendo en Ecuador por la falta de intervenciones médicas oportunas.
-
-Por lo tanto, es urgente que tanto los mayores de 50 años como los jóvenes enfrenten estos temas sin tabúes y se eduquen sobre las ITS. Esto debe ir acompañado de un sistema educativo que refuerce la educación sexual con una visión clara, científica y abierta. Los cambios en los comportamientos sexuales actuales demandan una respuesta a la altura de los tiempos.
-
-¿La vida es una jungla?
-=======================
-
-Sea jungla o paraíso, las personas estamos aquí, en este mundo extraño y maravilloso, para vivir y dejar vivir.
----------------------------------------------------------------------------------------------------------------
-
-![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
-
-**El título de este ensayo es una alegoría.** La jungla -también conocida como selva- ha sido calificada en forma peyorativa por literatos y científicos. Y por extensión, **algunos cientistas sociales usan este vocablo para ubicar a la jungla como escenario o burbuja donde se incuban el desorden**, el caos, la miseria y todas las violencias juntas. Esta acepción es una falacia porque muchas veces repetimos sin reparar su significado.
-
-**La selva, en estricto sentido, es la depositaria del oxígeno que respiran las plantas, los animales y los humanos**, y que, por obra y desgracia del calentamiento global, produce desequilibrios planetarios: inundaciones, deshielos, sequías, aluviones, apagones y serios trastornos en los bio sistemas.
-
-**Los sociólogos interpretan a la ciudad como analogía de la belleza y la armonía, y de lo brutal y salvaje**; es decir, hablan de equilibrios y también de “fisuras” en las relaciones entre las personas, que delatan tipos de sociopatías que deambulan por las calles, plazas y avenidas atestadas de gente y de vehículos que contaminan el ambiente, con humo y ruido, y configuran una **fauna urbana** donde reina la **“ley de la selva”,** literalmente.
-
-**Para los psicólogos, en cambio, ciertos comportamientos podrían ser considerados como salidas de junglas, a veces impenetrables,** y llenas de dolores -signadas por el sufrimiento, la enfermedad y la muerte-, fuentes de neurosis y psicosis irredentas, o bien expresadas por episodios dulcificantes, como la amistad, el eros y el ágape.
-
-**Esta dialéctica sigue intacta y retrata la existencia de personas, urbes y espacios con sus encantos y prodigios, y también con sus zonas erróneas, desiertas y oscuras**. Los poetas y narradores nutren su imaginación con héroes y heroínas, santos y villanos, a través de personajes salidos de esta jungla misteriosa, que pervive en el interior de cada uno y configura los paisajes literarios en esta trama de ganadores y perdedores, de vencedores y vencidos, de valientes y sufridores.
-
-**Sea jungla o paraíso, las personas estamos aquí, en este mundo extraño y maravilloso, para vivir y dejar vivir, y no ser obstáculos para las personas que deseen ser felices a su manera…¡en su madreselva!**
-
-Cartas a Quito / 17 de octubre de 2024
-======================================
-
-Estas son las cartas a Quito de este jueves 17 de octubre de 2024
------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Entre el apagón y la pandemia
------------------------------
-
-Muchos de ustedes se preguntarán  ¿Qué es peor la pandemia o los apagones que actualmente estamos viviendo?… Una pregunta sumamente difícil de responder. Si bien la pandemia nos dejó un sabor amargo, pues nos mantuvo encerrados durante largos y tortuosos meses, deprimidos y temerosos de contagiarnos de esta enfermedad que, en muchos casos, se volvió mortal; pero al menos no carecíamos de este elemento vital y tan importante como es la energía eléctrica que, actualmente, nos mantiene sumidos en las tinieblas y con otro tipo de temores (delincuencia); con pérdidas millonarias para un país ya empobrecido por la corrupción y los malos manejos de nuestros gobernantes y, lo más evidente, es aún, la falta de previsión de todos los estamentos responsables de esta catástrofe a nivel nacional.
-
-Ahora las tinieblas nos asechan y la depresión va en aumento. En casas, calles, parques y avenidas, reina la más completa oscuridad y tenemos que paralizar por interminables horas las actividades cotidianas, escolares, profesionales, etc. etc. pues lamentablemente debemos regirnos a los horarios impuestos por la empresa eléctrica que, de paso, no gozan de credibilidad pues, al parecer, no lo toman en serio.  El colapso es generalizado, las pérdidas económicas son incalculables y las soluciones tardías. El temor y la desesperanza cunden; así nunca sabremos, a ciencia cierta…  ¿Qué fue peor si la pandemia o los apagones?
-
-Fabiola Carrera Alemán
-
-Cortes de luz en Cuenca para este jueves 17 de octubre
-======================================================
-
-La capital de Azuay tendrá apagones programados de hasta 10 horas.
-------------------------------------------------------------------
-
-![La empresa eléctrica a cargo del servicio en Azuay es Centrosur](https://www.elcomercio.com/wp-content/uploads/2024/10/foco.jpg)
-
-La Empresa de Energía Eléctrica **Centrosur** detalló los horarios de cortes de luz programados para este jueves 17 de octubre de 2024.
-
-La entidad brinda el servicio para tres provincias del sur del país: **Azuay**, Cañar y Morona Santiago.
-
-### Más noticias
-
-* [Cortes de luz ponen en riesgo el aprendizaje de los estudiantes](https://www.elcomercio.com/actualidad/cortes-luz-tienen-efectos-procesos-estudiantes.html "Cortes de luz ponen en riesgo el aprendizaje de los estudiantes")
-* [Cortes de luz en Guayaquil este jueves 17 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-jueves-17-octubre.html "Cortes de luz en Guayaquil este jueves 17 de octubre")
-* [Cortes de luz en Quito este jueves 17 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-jueves-17-octubre.html "Cortes de luz en Quito este jueves 17 de octubre")
-
-Los **apagones programados** forman parte de la medida implementada por el Gobierno a nivel nacional para enfrentar la crisis hídrica, causada en gran parte por la **falta de lluvias**.
-
-Cronograma de suspensión para Cuenca
-------------------------------------
-
-El tiempo de los apagones en Cuenca **varía de acuerdo al sector**; los cortes tienen una duración entre cuatro y **10 horas**.
-
-En algunos barrios la suspensión eléctrica se extiende de corrido, mientras que en otros, los cortes se realizan en **dos franjas horarias**.
-
-Los horarios del cronograma en la ciudad austral se implementan en **12 jornadas**:
-
-* 00:00 a 06:00
-* 16:00 a 20:00
-* 10:00 a 14:00
-* 11:00 a 17:00
-* 00:00 a 05:00 y de 10:00 a 15:00
-* 05:00 a 19:00 y de 14:00 a 20:00
-* 05:00 a 10:00 y de 14:00 a 19:00
-* 06:00 a 10:00 y de 15:00 a 21:00
-* 06:00 a 12:00 y de 16:00 a 20:00
-* 09:00 a 14:00 y de 18:00 a 23:00
-* 10:00 a 15:00 y de 19:00 a 00:00
-* 10:00 a 16:00 y de 20:00 a 00:00
-
-La operadora Centrosur también distribuye energía para las provincias de **Cañar y Morona Santiago**. Puedes consultar el horario completo de cortes para esta semana a través de su [página web](https://www.centrosur.gob.ec/interrupciones-programadas/ "https://www.centrosur.gob.ec/interrupciones-programadas/").
-
-Embalse de Mazar se recupera
+Las estadísticas de Castillo
 ----------------------------
 
-La ministra de Energía y Minas (e), Inés Manzano, se pronunció este miércoles sobre el estado del **embalse de Mazar**.
+Segundo Alejandro Castillo tiene en su hoja de vida **haber dirigido siete veces a Barcelona SC** en sus tres etapas como interino.
 
-La funcionaria se refirió a un reporte de la Corporación Eléctrica del Ecuador (**Celec**).
+Sus números son parejos al haber **ganados tres, empatados dos y perdidos dos**. Sus equipos marcaron 10 goles y recibieron 11 para un gol diferencia negativo de -1.
 
-En el documento se señala que, este miércoles 16 de octubre, a las 08:00, la cota se ubicó en **2 116,68 metros** sobre el nivel del mar y, a las 15:00, subió a **2 116,88**.
+En cuanto a porcentajes alcanzo el 52% de puntos disputados, es decir, ganó más de la mitad de los puntos que le tocó disputar.
 
-“Vamos aumentando de centímetro cúbico en centímetro cúbico, pero contentísimo (…) Estamos a **37 metros** de llegar a la **cota máxima**”, dijo.  
+El debut fue el 2 de marzo de **2022 en la segunda fase de eliminación de la Copa Libertadores**. En el Nacional de Lima los canarios derrotaron 0-1 con un tanto del argentino Emmanuel Martínez a los 66 minutos.
 
-Sistema educativo enfrenta retos en medio de cortes de luz
-==========================================================
+El de San Lorenzo, Esmeraldas, se robó las miradas por su llamativa vestimenta que consistió en un terno gris, combinado con una camisa concho de vino y corbata rosada, más unos zapatos de color negro.
 
-Los efectos de los cortes de luz se sienten en las jornadas de estudiantes.
----------------------------------------------------------------------------
+En el 2023 fue cuando **más actividad tuvo con cinco partido en la zona técnica** de los guayaquileños con dos partidos de la Liga Pro, dos de la Copa Libertadores, y uno de la ronda de play-off de los octavos de final de la Copa Sudamericana.
 
-![En el régimen Sierra-Amazonía empezaron las clases, oficialmente, el 2 de septiembre de 2024. Foto: Julio Estrella/El Comercio](https://www.elcomercio.com/wp-content/uploads/2024/10/Corte-luz-estudiantes.jpg)
+Su última aventura fue el **28 de abril de 2024 en la décima fecha de la Liga Pro**, con un empate 1-1 en el Clásico del Astillero disputado en el George Capwell.
 
-La crisis energética y los **cortes de luz** tienen repercusiones en las jornadas de los **estudiantes** en Ecuador. La reducción de las horas de clases no es el único mal.
+![Foto: Instagram del DT.](https://www.elcomercio.com/wp-content/uploads/2024/10/castillo_numeros_2-1024x683.jpg)
 
-El **[Ministerio de Educación](https://educacion.gob.ec/)** realizó modificaciones para las jornadas vespertina y nocturna. No obstante, no son los únicos que enfrentan los efectos.
+Foto: Instagram del DT.
 
-### Más noticias
+Castillo como entrenador
+------------------------
 
-* [Cortes de luz tendrán nuevos horarios las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-tendran-nuevos-horarios-proximas-tres-semanas.html "Cortes de luz tendrán nuevos horarios las próximas tres semanas")
-* [Cortes de luz complican al sector industrial; 3 647 trabajadores fueron despedidos en un mes](https://www.elcomercio.com/actualidad/negocios/cortes-luz-industria-despidos-intempestivos.html "Cortes de luz complican al sector industrial; 3 647 trabajadores fueron despedidos en un mes")
-* [¿Qué pasa con las clases y el aumento de cortes de luz?](https://www.elcomercio.com/actualidad/ecuador/que-pasa-con-las-clases-y-el-aumento-de-los-cortes-de-luz.html "¿Qué pasa con las clases y el aumento de cortes de luz?")
+### Copa Libertadores
 
-> \[COMUNICADO\] Emitimos las disposiciones del lunes 14 al viernes 18 de octubre en la jornada: matutina, vespertina y nocturna, con el fin de garantizar la continuidad educativa. [pic.twitter.com/NY5Vn4ReZW](https://t.co/NY5Vn4ReZW)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [October 12, 2024](https://twitter.com/Educacion_Ec/status/1845248890653557076?ref_src=twsrc%5Etfw)
+**2/03/2022**
 
-Cortes de luz y las clases
---------------------------
+Universitario 0-1 Barcelona SC
 
-Con los apagones, el horario de salida de la **jornada vespertina** se trasladó a las 17:00 y la nocturna pasó a la no presencialidad.
+**7/06/2023**
 
-**Mariana Rivera**, experta en **educación**, detalla que acortar el tiempo para el desarrollo de aprendizajes puede acarrear afectaciones a corto y mediano plazo.
+Palmeiras 4-2 Barcelona SC
 
-El contacto con los docentes para profundizar en el currículo, el desarrollo de las destrezas y propuestas para un período específico son esenciales.
+**29/06/2023**
 
-Rivera agrega que, ante el panorama actual, se requiere la **flexibilidad curricular**, el uso de guías de aprendizaje y actividades autónomas encaminadas por los docentes.
+Barcelona SC 2-2 Cerro Porteño
 
-![table visualization](https://public.flourish.studio/visualisation/19841235/thumbnail)
+### Copa Sudamericana
 
-Las respuestas de la autoridad
-------------------------------
+**11/07/2023**
 
-Desde el **Ministerio de Educación** han dicho que se garantiza la continuidad educativa.
+Barcelona 2-1 Estudiante de La Plata
 
-En el caso de la jornada nocturna, la respuesta: no son actividades exclusivamente virtuales, también guiadas para los estudiantes, por ejemplo, **fichas pedagógicas, proyectos que deban desarrollar los estudiantes de manera autónoma, acompañamiento vía telefónica**.
+### Liga Pro
 
-Sin embargo, al consultar sobre las **acciones** específicas y si se han evaluado las posibles afectaciones, aún no han dado una respuesta.
+**11/06/2023**
 
-En el caso del régimen Sierra-Amazonía, en el año lectivo 2024-2025, volvieron a las aulas alrededor de **1,7 millones de estudiantes** y 99 592 docentes, en 6 733 instituciones educativas.
+Guayaquil City 1-2 Barcelona SC
 
-Condiciones, el ánimo y el aprendizaje
---------------------------------------
+**18/06/2023**
 
-La experta suma que puede existir un impacto psicológico, como generación de **estrés, ansiedad y desmotivación**, tanto en estudiantes cuanto en docentes.
+Barcelona SC 1-2 Universidad Católica
 
-La **frustración y desmotivación** por continuar con el aprendizaje son reacciones esperadas, dado que los estudiantes pueden sentir que no están avanzando al ritmo que se habían propuesto.
+**28/04/2024**
 
-Es decir, que se interrumpe su **aprendizaje**, sobre todo, aquellos que tienen dificultades académicas y necesitan refuerzos.
+Emelec 1-1 Barcelona SC
 
-Hay planteles que optaron por reducir las horas de clase a **25 minutos**, para tratar que los estudiantes, al menos, cuente con la guía para desarrollar los contenidos. No obstante, esto difícilmente suple los contenidos.
+No te pierdas – El Confesionario
+--------------------------------
 
-Las vivencias
--------------
+La nueva plataforma en Estados Unidos donde puede buscar trabajo en dólares
+===========================================================================
 
-Una madre, en el norte de **Quito**, apela a acciones y remarca que, si en 45 minutos de clase no se alcanzaba a dar los contenidos, menos aún en 25.
-
-La mujer, quien prefirió no ser identificada, también es licenciada en **Ciencias de la Educación**, manifiesta que “realmente habrá unos vacíos terribles de contenidos en estos meses de apagones”.
-
-Modificar los **planes curriculares** institucionales para poder de alguna manera aplacar estos vacíos. Esta es una de las sugerencias de la madre.
-
-Las complicaciones
-------------------
-
-Además de la limitación de contenidos por la disminución de los horarios en el aula, está el uso de **equipos tecnológicos** para el desarrollo de plataformas educativas o para la realización de tareas.
-
-Los cortes de **luz** restringen, incluso, el desarrollo de tareas sencillas, al tener que realizarlas con uso de velas u otras alternativas.
-
-La **docente**, a la par, señala que los cortes de energía pueden afectar de manera diferente a los estudiantes, dependiendo de su situación socioeconómica. Aquellos que no tienen acceso a generadores o alternativas pueden quedar en desventaja frente a sus pares.
-
-Efectos en el bienestar
------------------------
-
-**Mariana Rivera** agrega que es sabido que las condiciones ambientales para el aprendizaje juegan un papel muy importante.
-
-Así, un espacio bien iluminado y ventilado contribuye a una mejor comprensión. La **experta** dice que es posible que a mediano plazo se generen problemas de visión por la **fatiga** en los ojos.
-
-Rivera plantea una posible vía: el uso de **metodologías** centradas en el estudiante y no en los contenidos, en el desarrollo de destrezas.
-
-A la par, en este momento, de contención emocional para comprender y adaptarse a las situaciones variables que se producen por los **cortes de energía**.
-
-También, la flexibilidad en la evaluación, en las formas de evaluar y hasta en el tiempo de entrega de tareas y trabajos tanto a nivel **primario**, secundario como universitario, para bajar los niveles de ansiedad.
-
-Inamhi alerta radiación solar extrema en 12 provincias este jueves 17 de octubre
-================================================================================
-
-En algunos sectores, los rayos violeta alcanzarán niveles 'extremadamente altos' de 12 y 13.
---------------------------------------------------------------------------------------------
-
-![Te contamos algunas recomendaciones para que cuides tu salud durante la radiación intensa de este jueves](https://www.elcomercio.com/wp-content/uploads/2024/10/radiacion-inamhi.jpg)
-
-El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) informó que **12 provincias** del Ecuador registrarán niveles ‘**extremadamente altos**‘ de radiación solar este jueves 17 de octubre de 2024.
-
-Las previsiones tienen relación con la escasa y nula **presencia de nubes** que tendrán algunos sectores del país, al menos en horas de la mañana.
-
-### Más noticias
-
-* [Inés Manzano se pronunció sobre el estado del embalse de Mazar](https://www.elcomercio.com/actualidad/negocios/ines-manzano-mejoria-mazar.html "Inés Manzano se pronunció sobre el estado del embalse de Mazar")
-* [Tres días de sol en Quito cuando más se necesita de lluvia](https://www.elcomercio.com/actualidad/quito/quito-clima-sol-lluvias-pronosticos.html "Tres días de sol en Quito cuando más se necesita de lluvia")
-* [Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute](https://www.elcomercio.com/actualidad/negocios/lluvias-coca-codo-sinclair-pero-pasa-paute.html "Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute")
-
-De acuerdo con la entidad, la **radiación ultravioleta** (UV) será mayor en la **Sierra** y en la **Amazonía**.
-
-Mientras que en el **Litoral** y sus costas, los niveles serán menores, con índices entre **6 y 7**, considerados como ‘altos’.
-
-Provincias con niveles extremos de radiación
---------------------------------------------
-
-Las provincias que tendrán niveles ‘extremadamente altos’ son:
-
-* Carchi
-* Imbabura
-* Pichincha
-* Cotopaxi
-* Tungurahua
-* Chimborazo
-* Loja
-* Sucumbíos
-* Orellana
-* Napo
-* Pastaza
-* Morona Santiago
-
-En **Cañar, Azuay** y **Zamora Chinchipe**, si bien estos índices serán un poco menores, también se deben tomar precauciones por los niveles de 10, ‘**muy altos**‘, que habrá.
-
-> [#RadiacionMaximaUVEc](https://twitter.com/hashtag/RadiacionMaximaUVEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta previsto para el jueves 17 de octubre de 2024. [pic.twitter.com/HQqSQZdVFt](https://t.co/HQqSQZdVFt)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 16, 2024](https://twitter.com/inamhi_ec/status/1846688879375491436?ref_src=twsrc%5Etfw)
-
-Recomendaciones para cuidar tu salud
-------------------------------------
-
-Para protegerte de la **radiación solar fuerte** es importante que te cuides con **protectores solares** de amplio espectro, es decir, de al menos 30 de factor de protección solar (FPS).
-
-Además, es recomendable que evites la exposición directa al sol entre las **10:00 y las 15:00**, porque en este horario la radiación UV es más intensa; busca sombra o utiliza sombrillas para protegerte.
-
-De ser posible para ti, evita realizar **ejercicio al aire libre** durante este tiempo.
-
-Vestir con **ropa de manga larga** y pantalones largos también es una buena estrategia. No olvides usar gafas de sol que bloqueen los rayos UVA y UVB para cuidar tus ojos.
-
-Por último, recuerda mantenerte **bien hidratado** durante todo el día; bebe suficiente agua antes, durante y después de la exposición solar.
-
-Circulación vehicular alrededor de la Plaza Argentina se normaliza desde este jueves
-====================================================================================
-
-La circulación vehicular en la Plaza Argentina estaba restringida por trabajos en el carril de la Ecovía.
----------------------------------------------------------------------------------------------------------
-
-![La circulación vehicular alrededor de la Plaza Argentina se normaliza.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-3-3.jpg)
-
-La circulación vehicular alrededor de la Plaza Argentina se normaliza desde este jueves[.](https://es.wikipedia.org/wiki/Quito)
-
-El Municipio de Quito informó sobre los avances de las obras en el carril exclusivo de la Ecovía en ese sector.
-
-### Más noticias:
-
-* [Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre](https://www.elcomercio.com/actualidad/seguridad/ataque-armado-farmacia-quito-saldo-mortal.html "Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre")
-* [Alcalde quiere extender el Metro de Quito y acude al Banco Mundial](https://www.elcomercio.com/actualidad/quito/alcalde-extender-metro-quito-banco-mundial-financiamiento.html "Alcalde quiere extender el Metro de Quito y acude al Banco Mundial")
-
-Circulación vehicular alrededor de la Plaza Argentina se normaliza desde este jueves
-------------------------------------------------------------------------------------
-
-El Municipio informó que los trabajos de rehabilitación en el carril exclusivo de la Ecovía, alrededor de la Plaza Argentina, concluyeron con éxito.
-
-La obra terminó tres días antes de lo planificado.
-
-Por este motivo, desde este jueves, 17 de octubre, a las 06h00, se reabrirá completamente la circulación vehicular en la zona intervenida.
-
-“Con esta reapertura anticipada, se restablece el flujo normal del tránsito en este sector estratégico, minimizando el impacto para los usuarios del transporte público y privado”, señaló el Municipio.
-
-La Empresa de Pasajeros de Quito habilitará la parada San Martín de la Ecovía.
-
-Esto asegurará la normalización del servicio de transporte público en este tramo y facilitará la movilidad de los usuarios.
-
-El alcalde Pabel Muñoz informó sobre ejecución presupuestaria y las obras en la ciudad.
-
-“Hemos invertido 730 millones de dólares en obras para la capital, con más de 100 frentes de trabajo”, dijo.
-
-Carlos Castro, un DT que honra a su padre con Deportivo Quito
-=============================================================
-
-Carlos Castro decidió dirigir a Deportivo Quito en memoria de su padre y transita con el equipo en camino a la Serie B.
------------------------------------------------------------------------------------------------------------------------
-
-![Carlos Castro, DT del Deportivo Quito, durante un partido en la Segunda Categoría.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-16T223621.305.jpg)
-
-**Deportivo Quito** se encuentra en plena disputa del ascenso nacional hacia la Serie B en Segunda Categoría y debe disputar los dieciseisavos de final. **Carlos Castro**, DT de la escuadra, sueña con el ascenso y ve en la ‘AKD’ una manera de honrar a su padre.
-
-Aunque no fue quien empezó el año con el **conjunto capitalino**, Castro es el responsable de que el equipo azulgrana haya superado la primera ronda de la fase nacional y se ilusione. El entrenador llegó para dirigir las llaves eliminatorias y después de una sorpresiva clasificación de la escuadra de la Plaza del Teatro.
-
-### Más noticias:
-
-* [La historia de Cantera Orense, rival del Deportivo Quito](https://www.elcomercio.com/deportes/futbol/cantera-orense-historia-deportivo-quito.html "La historia de Cantera Orense, rival del Deportivo Quito")
-* [Koob Hurtado enfrentará al Deportivo Quito en el Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/koob-hurtado-cantera-orense-ascenso.html "Koob Hurtado enfrentará al Deportivo Quito en el Ascenso Nacional")
-* [Deportivo Quito entrenó con el volcán Cotopaxi de testigo](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-nacional-cotopaxi.html "Deportivo Quito entrenó con el volcán Cotopaxi de testigo")
-
-Aunque Deportivo Quito se había eliminado en la fase de grupos del **campeonato de Pichincha** y ni siquiera ingresó al hexagonal final de este, la descalificación de otros clubes le permitió llegar a medirse junto a los mejores de las demás provincias. La inhabilitación **Patrón Mejía e Independiente JFA** otorgó a los chullas uno de los cupos que correspondía a todos los participantes de aquel sextangular.
-
-Cuando el ‘primer grande de la capital’ supo que tendría una **nueva oportunidad de ascender a la Serie B**, este se puso manos a la obra de inmediato y una de sus primeras acciones fue contratar a Carlos Castro. Una vez que se cristalizó la incorporación del estratega ecuatoriano, este y el equipo rearmaron el plantel y anunciaron nuevos fichajes.
-
-La llegada de Carlos Castro a Deportivo Quito
----------------------------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DA2Llsqshx9/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Bendito Fútbol (@benditofutbol)](https://www.instagram.com/reel/DA2Llsqshx9/?utm_source=ig_embed&utm_campaign=loading)
-
-Antes de llegar a Deportivo Quito**, Carlos Castro** estuvo al mando de Independiente JFA, club que fue inhabilitado. Pese a ello, el exfutbolista y bicampeón con **El Nacional** como jugador ya cuenta con una nutrida experiencia en el fútbol de ascenso.
-
-En diálogo con EL COMERCIO, el estratega relata que llegó al conjunto de la capital tras mantener una charla con el **José Pardo**, presidente de la institución. Aunque le motiva el reto de devolver a los chullas a la Serie B, aquello también ha conllevado sacrificio, pero lo que cuesta… vale, y hoy está listo para los dieciseisavos.
-
-“**Ha sido un arduo trabajo y gracias a Dios, en contrarreloj, se ha logrado hacer un trabajo mancomunado junto con los jugadores, cuerpo técnico, dirigencia e hinchada para llegar lo mejor posible, en óptimas condiciones, al partido que tuvimos con Santa Elena**“, sostiene Castro.
-
-Aquellos enfrentamientos ante **Santa Elena** marcaron el debut y la continuidad del entrenador en la escuadra. Pese al tiempo limitado de trabajo debido a las rocambolescas situaciones que le dieron el cupo a la ‘AKD’, Castro conformó un equipo que se impuso tanto en la ida como en la vuelta a sus rivales.
-
-Un vínculo que familiar ata a Carlos Castro y al Deportivo Quito
+Más de un millón de empresas están registradas en la plataforma.
 ----------------------------------------------------------------
 
-Entre las razones por las cuales **Carlos Castro** decidió ponerse al frente de Deportivo Quito se encuentra la relación con su padre y con su hermano. El primero ya falleció, mientras que el segundo es uno de sus dirigidos.
+![La red social tiene una amplia gama de servicios de buscar trabajo en dólares.](https://www.elcomercio.com/wp-content/uploads/2022/09/canada-ec-1.jpg)
 
-Tanto cuando fue futbolista como ahora DT, una de sus metas ha sido **honrar el nombre de su padre.** Ahora que está en el **Quito**, una institución arraigada en su familia, este considera que es otra oportunidad para hacerlo y una de las cosas que incidió para que se decida por llegar a la escuadra.
+A partir de una **nueva actualización** reciente, el reconocido empresario **Elon Musk** habilitó la posibilidad de buscar trabajo en dólares en la **red social** conocida como X, en donde más de 1 000 000 de compañías se encuentran registradas en la sección X Hiring[.](https://es.wikipedia.org/wiki/Trabajo_(econom%C3%ADa) "https://es.wikipedia.org/wiki/Trabajo_(econom%C3%ADa)")
 
-“**A mí me hubiera gustado que mi padre estuviera todavía con vida y me hubiese podido ver como jugador profesional y en esta etapa de director técnico. Me decidió por venir acá en memoria de mi padre y dejar en alto no solamente su nombre, el de mi hermano o el mío, sino de esta gran institución**“, señala con emoción y mientras se le dibuja una sonrisa nostálgica al tocar el tema.
+### Más noticias
 
-Con aquella bandera, sobre todo, y en el papel de padre, hermano o amigo que le ha tocado representar para sus futbolistas, Castro sueña con el ascenso. No se desespera, pues sabe que es parte de hacer camino. El ‘**gracias**‘ de sus futbolistas y ver que aprenden lo que les enseña y transmite le basta, pero soñar está permitido y más cuando no solo el fútbol es el motor.
+* [Donald Trump dice que creará una comisión que fue idea de Elon Musk](https://www.elcomercio.com/actualidad/mundo/donald-trump-creara-comision-idea-elon-musk.html "Donald Trump dice que creará una comisión que fue idea de Elon Musk")
+* [Juez de Brasil embargó cuentas de Starlink para cobrar multas a Elon Musk](https://www.elcomercio.com/tecnologia/juez-de-brasil-embargo-cuentas-de-starlink-para-cobrar-multas-a-elon-musk.html "Juez de Brasil embargó cuentas de Starlink para cobrar multas a Elon Musk")
+* [El Kremlin tacha de ‘inaceptable’ prohibición de medios en plataformas de Meta](https://www.elcomercio.com/actualidad/mundo/kremlin-tacha-inaceptable-prohibicion-medios-plataformas-meta.html "El Kremlin tacha de ‘inaceptable’ prohibición de medios en plataformas de Meta")
 
-Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre
-==================================================================================
+Continuando con la **ampliación** de la **red social**, que ya posee **funciones adicionales** desde que compró la empresa en 2022 por un valor de 44 mil millones, Musk agregó la posibilidad de buscar puestos de empleo a través del nuevo apartado. Uno de los **principales atractivos** es que los usuarios pueden conseguir trabajos que pagan en dólares debido a que muchas de las **ofertas** corresponden a **empleos remotos**.
 
-El ataque armado causó conmoción entre los moradores del sector de Quito
-------------------------------------------------------------------------
+X Hiring, la nueva funcionalidad de búsqueda de empleo en la plataforma de Musk
+-------------------------------------------------------------------------------
 
-![El barrio de La Roldós en Quito vuelve a ser escenario de un ataque armado y deja un saldo mortal, la noche de este miércoles 16 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2-4.jpg)
+La **nueva modificación** impuesta por **Musk** corresponde a una serie de cambios efectuados en el último tiempo con la intención de crear una “**super aplicación**“, en la que no solo tenga la **posibilidad** de escribir sus **opiniones** o **pensamientos**.
 
-Un **ataque armado** en farmacia de **Quito** deja saldo mortal, este miércoles 16 de octubre de 2024[.](https://es.wikipedia.org/wiki/Quito)
+Al respecto, la **cuenta de X Business** escribió recientemente: “¡Hay más de 1 millón de ofertas de trabajo publicadas en X en este momento! **Empresas** de inteligencia artificial, **servicios financieros,** SaaS y más encuentran **candidatos** calificados utilizando **X Hiring** todos los días”.
 
-Los hechos ocurrieron en el sector de **La Roldós**, al norte de la capital.
+El **diseño** de la sección es similar al de **otras plataformas** de búsqueda de **trabajo**, con la **posibilidad** de seleccionar una palabra clave y una **ubicación específica**, junto a un recuadro en el que figuran las ofertas disponibles. Al clickear sobre una de ellas, se despliega a su costado la **oferta detallada** con la información descrita por la **compañía**.
+
+¿Cómo utilizar la nueva plataforma en Estados Unidos para buscar trabajo?
+-------------------------------------------------------------------------
+
+Para utilizar la **plataforma**, el primer paso es crear una cuenta en X, y luego debe dirigirse a x.com/jobs. Para conocer las ofertas. Una vez allí, deberá **escribir una palabra clave,** como la **posición** que busca, la categoría del **empleo o el rubro, y especificar la ubicación**.
+
+![La plataforma permite buscar trabajo por posición o categoría.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-1-10-1024x683.jpg)
+
+La plataforma permite buscar trabajo por posición o categoría.
+
+A partir de la **nueva actualización**, miles de empresas decidieron probar el servicio **colocando ofertas** de trabajo que los **usuarios** pueden **encontrar fácilmente**, por lo que ya no es necesario dirigirse a otra **plataforma** para **conseguir empleo**, sino que con unos **simples** pasos puede **encontrar el trabajo** que desea.
+
+Liam Payne compartió con Cristiano Ronaldo en el Real Madrid
+============================================================
+
+Además de la música, Liam Payne compartía su pasión por el fútbol, y gracias a su carrera, conoció a uno de los mejores jugadores de la historia.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Liam Payne (+), Louis Tomlinson y Nial Hora, durante su etapa en One Direction, en un entrenamiento del Real Madrid en 2013.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-17T130123.421.jpg)
+
+**Liam Payne** tenía una gran pasión por el fútbol, no solo por el de su país, sino también por el de Sudamérica y Europa. Durante una de sus giras, cuando aún pertenecía a **One Direction**, pudo conocer a **Cristiano Ronaldo** y visitar las instalaciones del Real Madrid.
+
+Junto con otros dos miembros de la banda, **Louis Tomlinson y Niall Hora**n, acudieron a las instalaciones del conjunto de la ‘Casa Blanca’ en Valdebebas en mayo de 2013, mientras estaban de gira por Madrid.
 
 ### Más noticias:
-
-* [Responsables del asesinato de comediante ‘La Polilla’ fueron sentenciados](https://www.elcomercio.com/actualidad/seguridad/responsables-asesinato-polilla-esmeraldas-comediante.html "Responsables del asesinato de comediante ‘La Polilla’ fueron sentenciados")
-* [Una masacre se registró en una peluquería de Quito](https://www.elcomercio.com/actualidad/seguridad/masacre-peluqueria-quito-inseguridad-policia-nacional.html "Una masacre se registró en una peluquería de Quito")
-
-El ataque armado en farmacia de Quito este miércoles 16 de octubre
-------------------------------------------------------------------
-
-Los hechos ocurrieron al interior de una farmacia, ubicada en la calle principal del barrio quiteño.
-
-En redes sociales, se difundieron videos del suceso.
-
-Las imágenes muestran el cuerpo de una mujer en el suelo del local con su cabeza rodeada de sangre.
-
-El ECU 911 informó que se reportó una alerta por una detonación en el sector de La Roldós a las 19:18.
-
-“De manera inmediata, se coordinaron recursos de la Policía Nacional para que asistieran al lugar del incidente”, agregó.
-
-A las 22:17, la Policía confirmó el hecho.
-
-La Policía señaló que, de acuerdo a las primeras investigaciones, se pudo conocer que tres sujetos que se movilizaban en dos motocicletas realizaron detonaciones con arma de fuego en las inmediaciones de una farmacia, producto de ello existe una persona de sexo femenino, fallecida.
-
-Al momento se realiza un operativo de búsqueda con el fin de localizar a los causantes.
-
-Unidades investigativas realizan el levantamiento de evidencias y demás pericias a fin de determinar las motivaciones de este hecho.
-
-Hace menos de un mes, La Roldós también fue escenario de un ataque armado al interior de una peluquería.
-
-Este suceso dejó cinco personas muertas.
-
-En julio, también bajo estilo sicariato, murieron otras tres personas, en La Roldós.
-
-Policía encontró droga oculta en insólito lugar
-===============================================
-
-La droga incautada con ayuda de canes adiestrados tenía como destino España e India.
-------------------------------------------------------------------------------------
-
-![La incautación de la droga fue posible gracias a la ayuda de un perro policía](https://www.elcomercio.com/wp-content/uploads/2024/10/can-policia.jpg)
-
-La Policía Nacional realizaba un **control antidrogas** este miércoles 16 de octubre de 2024, en Quito, cuando detectó un **comportamiento inusual** por parte de los canes adiestrados cuando se acercaban a unas cajas que iban por encomienda.
-
-Al abrir los cartones, los efectivos se encontraron con varios **balones de fútbol**, en lo que parecía no tener nada extraño.
-
-### Más noticias
-
-* [Policía capturó a siete presuntos miembros de Los Tiguerones, en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-capturo-siete-presuntos-miembros-los-tiguerones.html "Policía capturó a siete presuntos miembros de Los Tiguerones, en Guayaquil")
-* [Nueve detenidos en operativo contra robo de vehículos](https://www.elcomercio.com/actualidad/seguridad/nueve-detenidos-en-operativo-contra-robo-de-vehiculos.html "Nueve detenidos en operativo contra robo de vehículos")
-* [Policía capturó al octavo más buscado de Pichincha](https://www.elcomercio.com/actualidad/seguridad/policia-capturo-al-octavo-mas-buscado-de-pichincha.html "Policía capturó al octavo más buscado de Pichincha")
-
-Sin embargo, el olfateo constante de los animales alertó a los uniformados sobre la posible presencia de algún **material oculto**.
-
-Al abrir las pelotas de color rojo y negro se halló una **sustancia blanquecina** que cubría el interior de los balones.
-
-Tras analizarla, el polvo dio positivo para **cocaína**.
-
-La droga camuflada en los balones tuvo un peso total de **17 kilos**, unas **170 000 dosis**.
-
-La cocaína tenía como destino **España**, en Europa y la **India**, en el sur de Asia.
-
-Esta droga, de llegar a estos países, se hubiese comercializado en unos **680 000 dólares**.
-
-> INCAUTAMOS MÁS DE 170 MIL DOSIS DE COCAÍNA EN [#UIO](https://twitter.com/hashtag/UIO?src=hash&ref_src=twsrc%5Etfw)  
->   
-> Tras inspecciones antinarcóticos y la ayuda de canes policiales, decomisamos 17.002 gramos de cocaína en encomiendas.  
->   
-> 👉El estupefaciente tenía como destino [#España](https://twitter.com/hashtag/Espa%C3%B1a?src=hash&ref_src=twsrc%5Etfw) y la [#India](https://twitter.com/hashtag/India?src=hash&ref_src=twsrc%5Etfw), causando una afectación económica de 680.080… [pic.twitter.com/rpR03C0bTI](https://t.co/rpR03C0bTI)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 16, 2024](https://twitter.com/PoliciaEcuador/status/1846405211189137811?ref_src=twsrc%5Etfw)
-
-Extorsionadores fueron detenidos en Guayaquil
----------------------------------------------
-
-En otro operativo realizado por la Policía, **tres presuntos extorsionadores** que amedrentaban a los moradores del sector de la Nueva Prosperina, en Guayaquil, fueron detenidos.
-
-Los uniformados encontraron en flagrancia a **dos mujeres y un hombre** realizando cobros extorsivos a locales comerciales de la cooperativa Sergio Toral, la tarde del martes 15 de octubre,
-
-Los sospechosos camuflaban su delito a través de **talonarios** de supuestas rifas navideñas.
-
-Al percatarse de la presencia policial, los presuntos extorsionadores **intentaron huir** en una motocicleta. Luego de una breve persecución, el vehículo fue interceptado y los ocupantes capturados.
-
-Los individuos fueron identificados como **Ylexi B. Q., Johana Q. R.** y **Wilmer I. V**..
-
-Los sospechosos fueron puestos a órdenes de la Fiscalía, mientras que los indicios ingresaron a custodia en las bodegas de la Policía Judicial.
-
-Policía dio nueva información de la muerte de Liam Payne, ex One Direction
-==========================================================================
-
-El exintegrante de One Direction cayó del tercer piso de un hotel en Buenos Aires, la tarde este miércoles 16 de octubre.
--------------------------------------------------------------------------------------------------------------------------
-
-![Fanáticos del cantante y One Direction llegaron a los exteriores del hotel donde murió Payne](https://www.elcomercio.com/wp-content/uploads/2024/10/hotel-argentina.jpg)
-
-Liam Payne, exintegrante de la reconocida banda británica **One Direction**, murió la tarde de este miércoles 16 de octubre de 2024 en **Buenos Aires**, Argentina.
-
-Horas después de su fallecimiento, el Sistema de Atención Médica de Emergencias (**SAME**) y el Ministerio de Seguridad de la ciudad brindaron más información del **lamentable hecho**.
-
-### Más noticias
 
 * [Liam Payne, exintegrante de One Direction, jugó para Inglaterra](https://www.elcomercio.com/deportes/futbol/liam-payne-exintegrante-de-one-direction-jugo-para-inglaterra.html "Liam Payne, exintegrante de One Direction, jugó para Inglaterra")
-* [Exintegrante de One Direction murió al caer desde un tercer piso](https://www.elcomercio.com/tendencias/entretenimiento/one-direction-deceso-tercer-piso.html "Exintegrante de One Direction murió al caer desde un tercer piso")
+* [Sorpresa en la Champions, el Real Madrid de Kylian Mbappé perdió](https://www.elcomercio.com/deportes/sorpresa-champions-el-real-madrid-de-kylian-mbappe-perdio.html "Sorpresa en la Champions, el Real Madrid de Kylian Mbappé perdió")
+* [Cristiano Ronaldo dedicó su gol 904 a su padre fallecido](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-dedicatoria-gol-papa.html "Cristiano Ronaldo dedicó su gol 904 a su padre fallecido")
 
-De acuerdo con las autoridades locales, el cantante **cayó desde el tercer piso** del hotel en el que se estaba hospedando.
-
-Según aseguró EFE, fuentes oficiales señalaron que el artista “**se habría arrojado** del balcón de su habitación”.
-
-**Alberto Crescenti**, titular del SAME detalló para La Nación, qué pasadas las 17:00 (15:00 de Ecuador) se recibió la alerta, por lo que efectivos fueron desplazados al hotel Casa Sur, en el barrio de **Palermo**.
-
-Artista se mostró ‘agresivo’ antes de su caída
+Liam Payne, Cristiano Ronaldo y el Real Madrid
 ----------------------------------------------
 
-La emergencia requería ayuda por el comportamiento de un “hombre agresivo” que estaba destruyendo la habitación bajo posibles efectos de drogas o alcohol.
+En un video de Real Madrid TV se muestra a los tres integrantes de One Direction llegando a los entrenamientos del **Real Madrid,** donde compartieron con varios jugadores de la plantilla.
 
-Ante la llegada de los policías al hotel, el encargado del lugar “afirmó que sintió un fuerte ruido en el **patio trasero**; cuando los oficiales fueron a inspeccionar constataron “el fallecimiento de un hombre que se había arrojado del balcón de su habitación”, indicó el Ministerio de Seguridad.
+Al llegar a Valdebebas, **Payne** y sus compañeros fueron recibidos por **José Mourinho**, quien era el entrenador del conjunto español en ese momento. Mourinho les entregó tres camisetas personalizadas del Real Madrid con sus nombres.
 
-De igual forma, detalló que de inmediato se asignó a una fiscal al caso y se ordenó la presencia de la Unidad Criminalística y el traslado del cuerpo a la **morgue**.
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-17T130311.413-1024x683.jpg)
 
-Crescenti confirmó que el **artista de 31 años** falleció en el lugar por “lesiones gravísimas que le provocaron inmediatamente la muerte”.
+Mourinho junto con Louis Tomlinson y de fondo Liam Payne (+). Foto: Real Madrid
 
-“Al arribar los servicios de emergencia, constataron que lamentablemente presentaba lesiones incompatibles con la vida producto de su caída, por lo que **no hubo posibilidad de reanimación**“, explicó a los medios locales.
+Las cámaras captaron la emoción de Liam Payne, Louis Tomlinson y Niall Horan cuando conocieron a Cristiano Ronaldo, de quien eran seguidores. Durante el encuentro, conversaron sobre fútbol y música.
 
-“Tenemos que esperar la autopsia, pero de acuerdo a lo que vio el equipo, tenía **fractura de base de cráneo**“, puntualizó.
+Como si no fuera suficiente, los integrantes de One Direction saludaron a casi toda la plantilla del Real Madrid, que en ese entonces contaba con jugadores como Marcelo, Kaká, Ángel Di María, entre otros. El momento culminó con una foto grupal.
 
-En el patio que cayó Payne, desde unos **14 metros de altura**, funciona una cafetería. Cuando ocurrió el hecho, este local estaba vacíó, por lo que nadie más resultó herido.
+Tiros libres con Cristiano
+--------------------------
 
-¿Cómo quedó la habitación de Payne?
------------------------------------
+Al final de su visita, y ya vestidos con la indumentaria del Real Madrid, Liam Payne y los otros miembros de la banda practicaron tiros libres con Cristiano Ronaldo. El astro portugués les mostró sus mejores disparos y los invitó a que intentaran imitarlo.
 
-El periodista argentino de espectáculos **Ángel de Brito** dio detalles de cómo fue encontrada la **habitación** que ocupaba Payne tras su deceso.
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-17T130210.473-1024x683.jpg)
 
-A través de la red social X, de Brito dijo que el lugar “se encontraba completamente **desordenado** y con restos de lo que había usado durante el día”.
+Los exintegrantes de One Direction junto con Cristiano Ronaldo. Foto: Real Madrid.
 
-Esta información fue confirmada horas más tarde, tras filtrarse varias **imágenes** de la habitación.
+Los tres integrantes de la banda británica aprovecharon la oportunidad y trataron de sorprender a Ronaldo con sus remates, aunque sin mucho éxito. Por su parte, Cristiano les dejó boquiabiertos con uno de sus potentes disparos.
 
-En las fotografías difundidas por La Nación se observa el **televisor** led destruido, por lo que podría ser un golpe, además de botellas y copas con **bebidas alcohólicas**.
+Tras la experiencia, Niall Horan declaró en un video del Real Madrid que había sido “uno de los mejores días de su vida”, mientras que Payne y Tomlinson no dejaban de sonreír y asentir con la cabeza, emocionados por la vivencia.
 
-En otros puntos del departamento se encontraron velas, encendedores y sustancias blanquecinas.
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-17T130225.945-1024x683.jpg)
 
-¿Por qué Payne estaba en Argentina?
------------------------------------
-
-El cantante se encontraba de visita en Buenos Aires, para acompañar a **Niall Horan**, su amigo y excompañero en One Direction.
-
-Noran dio un concierto en la ciudad el 2 de octubre, donde presentó su nuevo álbum como solista.
-
-Liam Payne perteneció a la exitosa banda entre **2010 y 2015**. Tras su separación continuó su carrera como solista.
-
-Firmó un contrato con Capitol Records y lanzó su primer sencillo “Strip That Down” en 2017, que tuvo una buena acogida en las listas de éxitos.
-
-Su música abarcó géneros como pop y dance pop, y colaboró con artistas como Quavo y **J Balvin**. 
-
-Este miércoles, el mundo de la música ha expresado su **conmoción** ante esta repentina muerte.
-
-Carlos Alcaraz y Rafael Nadal se medirán en un final de alto nivel
-==================================================================
-
-La experiencia del tenista Rafael Nadal, multicampeón y próximo al retiro, se enfrentará a la juventud de Carlos Alcaraz.
--------------------------------------------------------------------------------------------------------------------------
-
-![Carlos Alcaraz y Rafael Nadal en el equipo olímpico de España en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/908cc6bcb68340f33148f71bef5f0b058e66f7cb.jpg)
-
-La lujosa exhibición de Riad, bautizada como ‘Six Kings Slam’ disfrutará del último cara a cara entre las dos principales raquetas españolas, **Carlos Alcaraz**, que ganó sin sobresaltos al danés Holger Rune, y a **Rafael Nadal**, vencedor de veintidós Grand Slam, presente en un evento por última vez antes de certificar su despedida como jugador el mes que viene, en las Finales de la Copa Davis.
-
-**Nadal**, el mejor deportista español de todos los tiempos y una de las grandes leyendas de la historia del tenis, se topa con Alcaraz, la nueva realidad. El presente y el futuro del circuito actual.
-
-### Más noticias:
-
-* [La decisión de Rafael Nadal que impacta a sus seguidores](https://www.elcomercio.com/deportes/futbol/rafael-nadal-retiro-tenis-leyenda.html "La decisión de Rafael Nadal que impacta a sus seguidores")
-* [Djokovic buscará su trofeo número 100 en la final de Shanghái](https://www.elcomercio.com/deportes/tenis/djokovic-final-masters-shanghai-sinner.html "Djokovic buscará su trofeo número 100 en la final de Shanghái")
-* [La decisión de Rafael Nadal que impacta a sus seguidores](https://www.elcomercio.com/deportes/futbol/rafael-nadal-retiro-tenis-leyenda.html "La decisión de Rafael Nadal que impacta a sus seguidores")
-
-**Alcaraz**, el segundo jugador del mundo, arrolló a **Rune** por 6-4 y 6-2 en una hora y diez minutos para plasmar la distancia existente entre el murciano, que cumple día a día las expectativas creadas a su alrededor, y el danés que se ha quedado, de momento, a medio camino y no ha sido capaz de seguir el ritmo, la estela, de **Alcaraz y Sinner**, herederos del ‘Big Three’.
-
-No obstante, **Rune**, sin título alguno este año, anclado en el decimocuarto puesto de la clasificación mundial, se marchará de Arabia Saudí con un millón y medio en el bolsillo, el fijo por participar en esta exhibición que disfruta de su primera edición.
-
-La experiencia de Nadal y la juventud de Alcaraz se citan
----------------------------------------------------------
-
-Sin la tensión de un partido oficial, de un gran trofeo en juego, **Alcaraz** se mostró mejor. Y reafirmó las diferencias entre ambos jugadores para progresar en el evento, situarse en semifinales y citarse con **Rafael Nadal**.
-
-Diecisiete años separan al murciano del balear. Compañeros de dobles en los **Juegos Olímpicos de París** vuelven a verse cara a cara en una pista, aunque no sea un choque del circuito, sin un duelo amistoso como el que meses atrás tuvieron en el Slam de Netflix, el pasado mes de marzo.
-
-Con algo en juego se han medido en tres ocasiones. Dos de ellas ganó **Nadal**, en el **Masters 1000** de Madrid del 2021 y en Indian Wells en el 2022. Pero en la Caja Mágica, meses después, el triunfo fue ya para el número dos del mundo[.](https://es.wikipedia.org/wiki/Rafael_Nadal "https://es.wikipedia.org/wiki/Rafael_Nadal")
-
-Alcaraz en su mejor nivel, Nadal de bajada
-------------------------------------------
-
-Alcaraz disfruta de su explosión. Ganador de **Wimbledon y Roland Garros**, dieciséis títulos, cuatro este año, además de la plata olímpica.
-
-**Nadal** no compite desde los Juegos Olímpicos. Ahora vuelve a una pista tres meses después, con todo hecho en su carrera. Afronta esta cita de exhibición y después, en noviembre, su adiós como profesional, en la Copa Davis, con Alcaraz como compañero. 
-
-Inés Manzano se pronunció sobre el estado del embalse de Mazar
-==============================================================
-
-Inés Manzano dijo que el embalse de Mazar aumenta de metro cúbico en metro cúbico.
-----------------------------------------------------------------------------------
-
-![Inés Manzano habló sobre el estado del embalse de Mazar.](https://www.elcomercio.com/wp-content/uploads/2024/10/Mazar.jpg)
-
-Inés Manzano, ministra de Energía encargada, se pronunció sobre el estado del embalse de **Mazar**, este miércoles 16 de octubre de 2024.
-
-Manzano evalúa de forma permanente el estado de Mazar, fundamental para la generación eléctrica del país.
-
-### Más noticias:
-
-* [Los embalses de Mazar y Paute tienen una mejoría](https://www.elcomercio.com/actualidad/negocios/embalses-mazar-paute-tienen-leve-mejoria.html "Los embalses de Mazar y Paute tienen una mejoría")
-* [¿Qué pasó con Mazar con las lluvias registradas en Cuenca?](https://www.elcomercio.com/actualidad/negocios/mazar-lluvias-registradas-cuenca.html "¿Qué pasó con Mazar con las lluvias registradas en Cuenca?")
-
-El embalse de Mazar se tornó en la principal preocupación de las autoridades del sector eléctrico.
-
-El 10 de octubre llegó a su nivel más bajo y se ubicó en los 2 112,6 metros sobre el nivel. Es decir, tres metros menos que la cota de riesgo considerada por los técnicos.
-
-Desde entonces existe una lenta recuperación por el aumento leve en los caudales y porque la reducción en la generación hasta la paralización ordenada por el **Cenace**.
-
-A las 10:00 de este lunes 14 de octubre se ubica en los 2 114,62 metros sobre el nivel del mar. Eso significa que subió un metro si se compara con la víspera y 1,50 con respecto al viernes 11.
-
-El caudal de ingreso al embalse de Mazar pasó de 3,2 metros cúbicos por segundo en promedio, el martes 8 de octubre, a 37,2 en promedio, este lunes 14.
-
-Pronunciamiento de Inés Manzano sobre Mazar
--------------------------------------------
-
-La ministra de Energía y Minas (e), **Inés Manzano**, se pronunció sobre el estado del embalse de Mazar.
-
-La funcionaria se refirió a un reporte de la Corporación Eléctrica del Ecuador (Celec), en radio Democracia.
-
-En el documento se señala que, este miércoles 16 de octubre, a las 08:00, la cota se ubicó en 2 116,68 metros sobre el nivel del mar y, a las 15:00, subió a 2 116,88.
-
-“**Vamos aumentando de centímetro cúbico en centímetro cúbico, pero contentísimos… Estamos a 37 metros de llegar a la cota máxima**”, dijo.
-
-El peor escenario para las autoridades es que baje a 2 110 metros sobre el nivel del mar.
-
-  
-
-La Selección de Ecuador arranca con triunfo en el Mundial Femenino Sub-17
-=========================================================================
-
-La Selección de Ecuador obtuvo una victoria histórica ante República Dominicana en su debut en el Mundial Femenino Sub-17.
---------------------------------------------------------------------------------------------------------------------------
-
-![Jasmym Valverde, delantera de la Selección de Ecuador, festeja uno de sus goles ante República Dominicana.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-16T195018.942.jpg)
-
-La **Selección de Ecuador** debutó en el Mundial Femenino Sub-17 con un histórico triunfo de 2-0 ante República Dominicana. El combinado nacional, que disputa por primera vez el torneo internacional, venció gracias a un doblete de **Jasmym Valverde**.
-
-Este miércoles 16 de octubre del 2024 a las 18:00, las jugadoras saltaron a la cancha en el primer partido del certamen ante las anfitrionas. En el **Sudamericano** de su categoría, la **Tri femenina** había alcanzado la clasificación tras finalizar en el tercer puesto.
-
-### Más noticias:
-
-* [Félix Sánchez inició mejor que Beccacece con la Selección de Ecuador](https://www.elcomercio.com/deportes/sebastian-beccacece-felix-sanchez-seleccion-ecuador.html "Félix Sánchez inició mejor que Beccacece con la Selección de Ecuador")
-* [Marcelo Bielsa catalogó a la Selección de Ecuador como un rival difícil](https://www.elcomercio.com/deportes/futbol/marcelo-bielsa-catalogo-seleccion-de-ecuador-como-un-rivla-dificil.html "Marcelo Bielsa catalogó a la Selección de Ecuador como un rival difícil")
-* [La Selección de Ecuador estrenará camiseta en el Mundial Sub-17 femenina](https://www.elcomercio.com/deportes/camiseta-seleccion-ecuador-mundial-sub-17.html "La Selección de Ecuador estrenará camiseta en el Mundial Sub-17 femenina")
-
-Para la **Copa del Mundo**, el equipo nacional se ubicó en el grupo A y, además del choque que tuvo contra las dominicanas, también debe disputar dos más. Sus futuras rivales son **Nigeria y Nueva Zelanda**, quienes también buscan uno de los dos cupos hacia la siguiente ronda.
-
-De cara al cotejo frente al conjunto de Centroamérica, el DT **Eduardo Moscoso** optó por un 4-3-3 y Valverde fue la referente en punta. La delantera tuvo un destacado compromiso y fue fundamental para que la Tri Sub-17 consiga el triunfo.
-
-Jasmyn Valverde, la pieza clave de la Selección de Ecuador Femenina Sub-17
---------------------------------------------------------------------------
-
-Desde los primeros minutos de juego, la **Selección de Ecuador Femenina Sub-17** piso el acelerador y supo llegar al campo rival. **Jasmym Valverde**, en la zona ofensiva, estuvo encargada de aguantar marcas, buscar balones al espacio y ser la primera en presionar la salida rival[.](https://en.wikipedia.org/wiki/Ecuador_women%27s_national_under-17_football_team "https://en.wikipedia.org/wiki/Ecuador_women%27s_national_under-17_football_team")
-
-Con el medio campo controlado y con **Fiorella Pico** como la jugadora a seguir en dicha zona, **Valverde** pudo encontrar el primer tanto. A los 14 minutos de juego, tras una llegada ecuatoriana al área y un rebote de la arquera rival, la **artillera** soltó un remate que reventó las redes rivales.
-
-El primer golpe del combinado ecuatoriano dejó mal parada a **República Dominicana** y no encontró su reacción. A los 29′, Valverde recibió pase aéreo en diagonal desde el mediocampo e impactó el balón de primera para poner el 2-0.
-
-Con los dos tantos de ventaja, la **Selección de Ecuador** se dedicó a controlar el partido y mantener el resultado hasta la finalización. El resultado pone al combinado nacional en el segundo puesto por debajo de **Nigeria**.
-
-¿Cuándo juega la Selección de Ecuador en el Mundial Femenino Sub-17?
---------------------------------------------------------------------
-
-La **Selección de Ecuador** tendrá su siguiente partido en el Mundial Femenino Sub-17 durante el sábado 19 de octubre del 2024. A las 15:00, el plantel se enfrentará con **Nigeria** en busca del liderato del grupo y de asegurar la clasificación.
-
-Liam Payne, exintegrante de One Direction, jugó para Inglaterra
-===============================================================
-
-El cantante británico Liam Payne falleció este miércoles 16 de octubre en Argentina a los 31 años.
---------------------------------------------------------------------------------------------------
-
-![Liam Payne (+) en el evento benéfico de Soccer Aid en Inglaterra.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T190912.285.jpg)
-
-Además de su carrera musical, **Liam Payne** tenía una gran pasión por el fútbol. En dos ocasiones, tuvo la oportunidad de representar a su país en eventos benéficos, vistiendo la camiseta de la Selección de Inglaterra.
-
-El exintegrante de la famosa banda **One Direction** participó en el **Soccer Aid**, un evento británico organizado en colaboración con UNICEF, que se realiza desde 2006. Originalmente bianual, pero el evento ha sido anual desde 2018.
-
-### Más noticias:
-
-* [Exintegrante de One Direction murió al caer desde un tercer piso](https://www.elcomercio.com/tendencias/entretenimiento/one-direction-deceso-tercer-piso.html "Exintegrante de One Direction murió al caer desde un tercer piso")
-* [Thomas Tuchel es el nuevo director técnico de Inglaterra](https://www.elcomercio.com/deportes/futbol/thomas-tuchel-es-el-nuevo-director-tecnico-de-inglaterra.html "Thomas Tuchel es el nuevo director técnico de Inglaterra")
-* [Piero Hincapié interesa a grandes de Inglaterra](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-interes-inglaterra.html "Piero Hincapié interesa a grandes de Inglaterra")
-
-Payne jugó en las ediciones de 2022 y 2023, defendiendo a la **Selección de Inglaterra**, que reúne a celebridades y jugadores históricos. En el equipo rival, se combinan también estrellas y futbolistas, pero del resto del mundo.
-
-Liam Payne fue capitán y jugó por Inglaterra
---------------------------------------------
-
-En su primer Soccer Aid en 2022, **Liam Payne fue capitán de la selección inglesa**, compartiendo equipo con celebridades como el atleta Mo Farah y futbolistas legendarios como **Gary** **Neville**, Jamie Carragher y Joe Cole.
-
-Payne **disputó 28 minutos como volante por derecha** antes de ser sustituido. Finalmente, su equipo perdió en la tanda de penales tras un empate 2-2 en el tiempo reglamentario.
-
-En su última participación en el **Soccer Aid**, en 2023, **Payne no fue capitán**, pero jugó junto a figuras como Tom Hiddleston y Asa Butterfield. Entre los futbolistas que lo acompañaron estuvieron Paul Scholes y **Jack Wilshere**, entre otros.
-
-En esa ocasión, jugó 30 minutos como extremo derecho. **Inglaterra** perdió nuevamente, esta vez 2-4.
-
-![Liam Payne (+) en el evento benéfico de Soccer Aid en Inglaterra.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T193052.229-1024x683.jpg)
-
-Liam Payne (+) en el evento benéfico de Soccer Aid en Inglaterra.
+Liam Payne (+) divirtiéndose en el Real Madrid.
 
 Liam Payne falleció en Argentina
 --------------------------------
 
-El exintegrante de la banda británica One Direction, f**alleció el miércoles 16 de octubre de 2024 en Buenos Aires, Argentina.**
+El exintegrante de la banda británica One Direction, **Liam Payne, falleció** el miércoles 16 de octubre de 2024 en Buenos Aires, Argentina.
 
-El cantante de 31 años **murió tras caer desde el tercer piso** de un hotel, según informaron fuentes oficiales.
+El cantante de 31 años murió tras caer desde el tercer piso de un hotel, según informaron fuentes oficiales.
 
-El director de los servicios de emergencias médicas de Buenos Aires, Alberto Crescenti, confirmó el fallecimiento, explicando que la caída le provocó “lesiones gravísimas que ocasionaron su muerte de manera inmediata”.
+El director de los servicios de emergencias médicas de **Buenos Aires**, Alberto Crescenti, confirmó el fallecimiento, explicando que la caída le provocó “lesiones gravísimas que ocasionaron su muerte de manera inmediata”.
 
-Félix Sánchez inició mejor que Beccacece con la Selección de Ecuador
-====================================================================
+Gobierno apunta a la eficiencia energética de los electrodomésticos
+===================================================================
 
-Félix Sánchez tuvo un mejor rendimiento que Sebastián Beccacece en sus cuatro primeros partidos a nivel general y en eliminatorias.
------------------------------------------------------------------------------------------------------------------------------------
+Se plantea una reforma a la normativa para mejorar la eficiencia energética. Los aires acondicionados consumen 500 megavatios diarios.
+--------------------------------------------------------------------------------------------------------------------------------------
 
-![Sebastián Beccacece, actual técnico de la Selección de Ecuador, y Félix Sánchez, antiguo DT.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000146202-scaled.jpg)
+![Según cálculos del Gobierno, se consumen 500 MW diarios en aire acondicionado. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/10/aire.jpg)
 
-**Sebastián Beccacece** finalizó la novena y décima jornada de eliminatorias con dos empates cosechados con la Selección de Ecuador. Tras cuatro partidos al mando del equipo, este no consiguió superar el arranque de su antecesor **Félix Sánchez Bas**.
+El **Gobierno de Daniel Noboa** impulsa la implementación de normas técnicas para mejorar la eficiencia energética de los electrodomésticos, con un enfoque especial en los **aires acondicionados.** El objetivo es que se reduzca el **consumo de electricidad** en el país[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
-En la última doble fecha de las eliminatorias rumbo la **Mundial 2026**, el argentino y la Tri igualaron sin goles en los dos cotejos que disputaron. El plantel empató como local ante Paraguay y con Uruguay en Montevideo[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+El Ecuador tiene un déficit energético de **1 080 megavatios** (MW), esto, junto a la sequía por la que atraviesa la región, ha llevado a una crisis energética, que ha obligado a programar **cortes de luz** a nivel nacional.
 
-### Más noticias:
+### Más noticias
 
-* [¿Qué tanto favorecen los empates de la Selección de Ecuador?](https://www.elcomercio.com/deportes/seleccion-ecuador-empates-eliminatorias-beccacece.html "¿Qué tanto favorecen los empates de la Selección de Ecuador?")
-* [Ecuador desaprovechó el talento de John Yeboah en las eliminatorias](https://www.elcomercio.com/deportes/futbol/ecuador-desaprovecho-talento-john-yeboah-eliminatorias.html "Ecuador desaprovechó el talento de John Yeboah en las eliminatorias")
-* [La Selección de Ecuador estrenará camiseta en el Mundial Sub-17 femenina](https://www.elcomercio.com/deportes/camiseta-seleccion-ecuador-mundial-sub-17.html "La Selección de Ecuador estrenará camiseta en el Mundial Sub-17 femenina")
-
-Para los compromisos ante la ‘Albirroja’ y la ‘Celeste’, **Beccacece** sumó dos meses en el cargo y contó con mayor tiempo de trabajo con relación a su llegada inicial. Antes, el estratega cayó en su debut ante Brasil y consiguió una victoria ante Perú, también en eliminatorias.
-
-Con los últimos resultados, el argentino acumula dos empates, una victoria y una derrota a partir de su arribo. Aquellos resultados, frente a los de **Félix Sánchez,** son inferiores con respecto a los del entrenador español, tanto en sus cuatro primeros duelos en general como en eliminatorias.
-
-El arranque de Félix Sánchez con la Selección de Ecuador y en eliminatorias
----------------------------------------------------------------------------
-
-**Félix Sánchez Bas** arribó a la Selección de Ecuador para sustituir a Gustavo Alfaro en el cargo después del Mundial de Catar 2022. Este inició su trajín con partidos amistosos de preparación y luego debutó en eliminatorias.
-
-En sus cuatro primeros choques, que fueron de exhibición, Sánchez Bas consiguió tres victorias y una derrota. Los triunfos fueron ante **Australia, Costa Rica y Bolivia** y la derrota, también con **Australia**.
-
-A nivel de eliminatorias, los cuatro cotejos iniciales para el estratega español se dieron frente a **Argentina, Uruguay, Bolivia y Colombia**. Estos dejaron un saldo de siete puntos, dos más que los que lleva Beccacece, a raíz de una derrota, dos victorias y un empate.
-
-La salida de Félix Sánchez y la llegada de Sebastián Beccacece a la Selección de Ecuador
-----------------------------------------------------------------------------------------
-
-Félix Sánchez Bas dejó la Selección de Ecuador tras su participación en la Copa América 2024 en julio del 2024, después de ser eliminado con la escuadra nacional en los cuartos de final del certamen. Allí, la Tri cayó en penales ante Argentina.
-
-Una vez que el español se desvinculó, la Federación Ecuatoriana de Fútbol y el plantel arrancaron su búsqueda de un nuevo entrenador. Sebastián Beccacece fue el elegido y fue anunciado el 1 de agosto del 2024.
-
-Cortes de luz en Guayaquil este jueves 17 de octubre
-====================================================
-
-Los cortes de luz en Guayaquil para este jueves 17 de octubre son programados por CNEL.
----------------------------------------------------------------------------------------
-
-![Los horarios de cortes de luz en Guayaquil para este jueves 17 de octubre son de hasta 10 horas.](https://www.elcomercio.com/wp-content/uploads/2024/04/luz1.jpg)
-
-Los **cortes de luz** en **Guayaquil** este **jueves 17 de octubre** de 2024 se mantienen con una duración de hasta 10 horas.
-
-**CNEL** fijó los mismos horarios de los cortes en Guayaquil para toda la semana.
-
-### Más noticias:
-
-* [Parque Samanes de Guayaquil cambia su horario por cortes de luz](https://www.elcomercio.com/actualidad/guayaquil/parque-samanes-guayaquil-cambio-horario.html "Parque Samanes de Guayaquil cambia su horario por cortes de luz")
 * [Cortes de luz tendrán nuevos horarios las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-tendran-nuevos-horarios-proximas-tres-semanas.html "Cortes de luz tendrán nuevos horarios las próximas tres semanas")
-* [Cortes de luz complican al sector industrial; 3 647 trabajadores fueron despedidos en un mes](https://www.elcomercio.com/actualidad/negocios/cortes-luz-industria-despidos-intempestivos.html "Cortes de luz complican al sector industrial; 3 647 trabajadores fueron despedidos en un mes")
+* [Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito](https://www.elcomercio.com/actualidad/quito/cortes-energia-suman-2024-fatal-restaurantes-quito.html "Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito")
+* [Asamblea trata proyecto sobre energías renovables ante cortes de luz](https://www.elcomercio.com/actualidad/politica/asamblea-trata-proyecto-sobre-energias-renovables-ante-cortes-de-luz.html "Asamblea trata proyecto sobre energías renovables ante cortes de luz")
 
-Los horarios de los cortes de luz para el jueves 17 de octubre en el país se mantienen; mientras se realiza un nuevo anuncio del Gobierno sobre el tema.
+Hasta ahora, la reducción del consumo se ha logrado con la **autogeneración** de energía de las empresas, desconexión de empresas mineras y **cortes de luz** de programados de hasta 10 horas diarias.
 
-El presidente **Daniel Noboa** se refirió a la crisis eléctrica y señaló que, el jueves por la noche, se anunciarán los nuevos horarios de cortes de luz para las próximas tres semanas.
+Uno de los cambios que se plantea es a la normativa de **eficiencia energética**. Según la ministra de Energía encargada, **Inés Manzano**, solo en aire acondicionado se consume más de **500 megavatios** (MW) al día en Ecuador. Esto se debe en parte a que los equipos son antiguos y no optimizan energía.
 
-Este miércoles, en una visita a Manabí, Noboa dijo que también se anunciarán las “**acciones urgentes**” para que los apagones se acaben lo antes posible.
+Por esta razón, se plantea una reforma a norma de eficiencia energética del **Servicio Ecuatoriano de Normalización** (INEN), lo señaló la ministra de Producción, **Sonsoles García.** “Lo que se busca es que los equipos cumplan con la **normativa europea** de eficiencia energética”.
 
-Cortes de luz en Guayaquil este jueves 17 de octubre
-----------------------------------------------------
+Además, señaló que desde el 15 de octubre de 2024 ya tienen los informes técnicos para que se apruebe esta nueva normativa.
 
-El Gobierno busca el transporte de soluciones móviles de energía en aviones Hércules o la generación de proyectos de energía alternativa, entre otras soluciones.
+Normalmente, los cambios normativos duran varios meses, pero, debido a la emergencia energética, se puede expedir norma técnica en menos tiempo, agregó.
 
-Mientras, los cortes de luz en Quito y todo el país se mantienen en diez horas, con el anuncio de las empresas eléctricas de que las horas se podrían reducir, dependiendo de las condiciones meteorológicas e hídricas.
+Nueva normativa para electrodomésticos
+--------------------------------------
 
-A continuación, los cortes de luz en Guayaquil para este jueves:
+La nueva norma técnica no será para aires acondicionados, sino para 15 tipos de electrodomésticos como hornos, microondas, licuadoras, etc. Lo que se busca eficiencia energética dentro de cada uno de los hogares.
+
+En las ciudades de la Costa del Ecuador el uso del aire acondicionado es necesario debido a las altas temperaturas. Por ejemplo, el Instituto Nacional de Meteorología e Hidrología (Inamhi) emitió la advertencia meteorológica 53, que alerta sobre el aumento de temperaturas diurnas en el país, este 17 de octubre de 2024.
+
+En el Litoral, el cielo estará mayormente nublado, sin embargo, los niveles de radiación permanecen en niveles altos. En Guayaquil, se esperan temperaturas máximas de hasta 31 grados centígrados y cielos nublados y parcialmente nublados en la tarde. No se prevé que haya presencia de lluvias. Este clima obliga a usar aire acondicionado.
+
+Aún no se conoce cuando se expedirá la nueva normativa.
+
+Donald Trump gana apoyo entre afros y latinos en Estados Unidos
+===============================================================
+
+Un 40% de los votantes afro e hispanos consideran que su situación empeoró bajo la administración actual.
+---------------------------------------------------------------------------------------------------------
+
+![Donald Trump durante uno de sus discursos en Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/10/donald-trump-discurso-efe.jpg)
+
+A tres semanas de las elecciones, el expresidente [Donald Trump](https://www.elcomercio.com/actualidad/mundo/donald-trump-se-salva-de-un-segundo-atentado-en-su-contra.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-se-salva-de-un-segundo-atentado-en-su-contra.html") aumenta su respaldo entre votantes afros y latinos, generando preocupación en el **partido demócrata.**
+
+### Más noticias
+
+* [Fiscal asegura que Donald Trump ‘recurrió a delitos’ para no perder el poder](https://www.elcomercio.com/actualidad/mundo/fiscal-donald-trump-informe-completo-delitos.html "Fiscal asegura que Donald Trump ‘recurrió a delitos’ para no perder el poder")
+* [Defensa de Donald Trump pide anular condena de 450 millones de dólares por fraude](https://www.elcomercio.com/actualidad/mundo/defensa-trump-pide-anular-condena-450-millones-dolares-fraude-nueva-york.html "Defensa de Donald Trump pide anular condena de 450 millones de dólares por fraude")
+* [Donald Trump promete un ‘renacimiento’ manufacturero en EE.UU.](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-renacimiento-manufacturero-ee-uu.html "Donald Trump promete un ‘renacimiento’ manufacturero en EE.UU. ")
+
+En un contexto electoral cada vez más apretado, Donald Trump comenzó a captar la atención de dos **grupos demográficos** clave: los **votantes afroamericanos y latinos**. Según un reciente análisis publicado por El Tiempo de Colombia, a tres semanas de las elecciones del 5 de noviembre de 2024, el expresidente republicano aumentó su apoyo en estos sectores, lo que podría **redefinir el mapa electoral**.
+
+### La erosión del apoyo demócrata
+
+El respaldo de los **votantes latinos** cayó drásticamente en comparación con **elecciones anteriores.** Mientras Hillary Clinton recibió el 68% del apoyo en 2016 y Joe Biden el 62% en 2020, Kamala Harris solo está acumulando un **56% de respaldo actualmente**. La caída es aún más pronunciada entre los votantes afroamericanos, donde el apoyo a Harris disminuyó del 90% que obtuvo Biden en 2020 al 78% actual, según los datos de encuestas.
+
+La percepción de que Trump podría ofrecer **mejoras económicas** resonó entre estos grupos. Un 40% de los **votantes afro e hispanos** consideran que su situación empeoró bajo la administración actual. Esto llevó a muchos a **reevaluar sus opcione**s, a pesar de las controvertidas declaraciones del expresidente sobre **inmigrantes y minorías**, de acuerdo con El Tiempo de Colombia.
+
+### Expertos opinan
+
+Los expertos sugieren que el desencanto con el **Partido Demócrata**, junto a un contexto económico desfavorable, están detrás de este cambio. El **machismo y la falta de representación** también juegan un papel, especialmente entre los hombres. Muchos se sienten más identificados con el estilo directo de Trump, lo que contribuye a su creciente apoyo.
+
+A medida que se acercan las elecciones, el **temor en el partido demócrata es palpable**. La estrategia de contrarrestar esta tendencia incluye una **campaña mediática** con figuras emblemáticas como Barack Obama, en un intento por **recuperar el apoyo perdido**.
+
+La situación sigue evolucionando, y los próximos días serán cruciales para determinar si estos cambios se traducirán en un **impacto real en las urnas**, señala El Tiempo de Colombia.
+
+Daniel Noboa envió a la Asamblea proyecto de bases militares extranjeras
+========================================================================
+
+Daniel Noboa Azin envió este jueves 17 de octubre a la Asamblea Nacional un proyecto de reforma parcial a la Constitución
+-------------------------------------------------------------------------------------------------------------------------
+
+![Daniel Noboa junto a las Fuerzas Armadas en una rueda de prensa en Durán.](https://www.elcomercio.com/wp-content/uploads/2024/10/daniel-noboa-1.jpg)
+
+El presidente **Daniel Noboa** envió este jueves 17 de octubre a la **Asamblea Nacional** un proyecto de reforma parcial a la **Constitución**. El objetivo sería permitir el establecimiento de **bases militares extranjeras** en territorio ecuatoriano.
+
+### Más noticias
+
+* [Daniel Noboa entrega camionetas y condona deudas de Juntas de Agua](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-entrega-camionetas-y-condona-deudas-de-juntas-de-agua.html "Daniel Noboa entrega camionetas y condona deudas de Juntas de Agua")
+* [Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-proyecto-reformar-constitucion-bases-militares-extranjeras.html "Daniel Noboa presentará proyecto para reformar la Constitución sobre bases militares extranjeras")
+* [Corte Constitucional aprueba propuesta de Daniel Noboa sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/corte-constitucional-aprueba-propuesta-de-daniel-noboa-sobre-bases-militares-extranjeras.html "Corte Constitucional aprueba propuesta de Daniel Noboa sobre bases militares extranjeras")
+
+La propuesta busca modificar el **artículo 5 de la Constitución de la República del Ecuador (CRE)**, que actualmente prohíbe la presencia de **bases militares extranjeras**.
+
+Corte Constitucional se pronunció sobre la modificación del artículo
+--------------------------------------------------------------------
+
+La decisión del Mandatario se da tras la conclusión de la **Corte Constitucional (CC)**, que determinó que “la modificación **del artículo 5 de la Constitución** sí puede tramitarse mediante el mecanismo de reforma parcial contemplado en el **artículo 442 de la Constitución**“.
+
+Este dictamen de la CC también **subraya que la propuesta** no restringe derechos ni garantías constitucionales, y que se refiere únicamente a **cuestiones de seguridad en el país**.
+
+> A la ciudadanía: [pic.twitter.com/3rj7EANbMj](https://t.co/3rj7EANbMj)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 17, 2024](https://twitter.com/Presidencia_Ec/status/1846963131198644274?ref_src=twsrc%5Etfw)
+
+El proyecto ahora queda en manos de la Asamblea, que deberá **debatir y decidir sobre apoyar o no la iniciativa**.
+
+De aprobarse esta reforma, se abriría la puerta a la **instalación de bases militares extranjeras** por primera vez desde que la **Constitución de 2008** prohibió expresamente la presencia de fuerzas militares extranjeras en suelo ecuatoriano. Los legisladores tendrán que decidir qué camino tomar respecto a esta medida.
+
+Daniel Noboa y el cambio al artículo 5 de la Constitución
+---------------------------------------------------------
+
+La intención de Daniel Noboa es modificar el artículo 5, el cual prohíbe el establecimiento de bases militares extranjeras y de instalaciones con fines militares en Ecuador.
+
+La Constitución de Ecuador **prohíbe expresamente la instalación de bases militares extranjeras** en su territorio.
+
+A lo largo de los años, Ecuador ha buscado evitar cualquier intervención que comprometa su autonomía política. Así como la prohibición de **bases militares extranjeras** es una manifestación clara de esta política.
+
+> A Ecuador no le hacían falta oportunidades, sino honestidad y voluntad política.  
+>   
+> Por eso, hoy presentaremos un Proyecto de Reforma Parcial a la Constitución en la Asamblea Nacional que modifique el artículo 5, el cual prohíbe el establecimiento de bases militares extranjeras y… [pic.twitter.com/myn2IBjHa9](https://t.co/myn2IBjHa9)
+> 
+> — Daniel Noboa Azin (@DanielNoboaOk) [September 16, 2024](https://twitter.com/DanielNoboaOk/status/1835737547231969400?ref_src=twsrc%5Etfw)
+
+La medida, reforzada durante la administración de **Rafael Correa**, culminó con la salida de la base estadounidense de **Manta en 2009**.
+
+Este hecho marcó un hito en la postura ecuatoriana **frente a la influencia militar extranjera**, alineándose con una tendencia de mayor independencia en la región.
+
+La prohibición ha sido vista como un rechazo al **control o influencia de potencias extranjeras** en asuntos de defensa, buscando evitar situaciones de dependencia o subordinación.  
+
+Dura caída y despedida de Jhonatan Narváez del Ineos Grenadiers
+===============================================================
+
+El Ineos Grenadiers agradeció a Jhonatan Narváez por seis temporadas llenas de esfuerzo. El 'Lagarto' cambiará de equipo en 2025.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Jhonatan Narváez con la camiseta del Ineos, equipo con el que tiene contrato hasta este 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/JhonatanNarvaez.jpg)
+
+El ciclista ecuatoriano **Jhonatan Narváez,** conocido como el **‘Lagarto’**, enfrentó un duro revés el 17 de octubre de 2024 durante su participación en el **Tour de Guangxi**, en China.
+
+Tras sufrir una caída, se golpeó la rodilla y no pudo continuar en la competencia, lo que marcó un triste desenlace en su última carrera con el **Ineos Grenadiers.**
+
+### Más noticias:
+
+* [Campeón del mundo de ciclismo es asesinado en Colombia](https://www.elcomercio.com/deportes/campeon-mundo-colombia-ciclismo-asesinato.html "Campeón del mundo de ciclismo es asesinado en Colombia")
+* [Jhonatan Narváez es baja con Ecuador para el Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/jhonatan-narvaez-baja-mundial-ciclismo.html "Jhonatan Narváez es baja con Ecuador para el Mundial de Ciclismo")
+* [Richard Carapaz prepara la temporada 2025](https://www.elcomercio.com/deportes/ciclismo/richard-carapaz-temporada2024-resultados-ecuador.html "Richard Carapaz prepara la temporada 2025")
+
+El equipo británico compartió la noticia a través de sus redes sociales, expresando su pesar por el accidente y agradeciendo a Narváez por sus contribuciones a lo largo de seis temporadas.
+
+“Lamentablemente, tras un segundo accidente en días consecutivos, **Jhonatan Narváez** se ha visto obligado a abandonar #TOG2024. Nuestro equipo médico lo examinará tras sufrir un golpe en la rodilla”, publicaron.
+
+“Una manera dura de terminar su última carrera con el equipo, pero las últimas seis temporadas han sido un verdadero placer. ¡Gracias Jhony!”, añadió el Ineos.
+
+> Sadly following a second crash in consecutive days, [@NarvaezJho](https://twitter.com/NarvaezJho?ref_src=twsrc%5Etfw) has been forced to abandon [#TOG2024](https://twitter.com/hashtag/TOG2024?src=hash&ref_src=twsrc%5Etfw). He will be checked over by our medical team following a knock on his knee.  
+>   
+> A tough way to end his final race for the team, but the last six seasons have been a real pleasure.… [pic.twitter.com/MJGLhLPavq](https://t.co/MJGLhLPavq)
+> 
+> — INEOS Grenadiers (@INEOSGrenadiers) [October 17, 2024](https://twitter.com/INEOSGrenadiers/status/1846786008542589110?ref_src=twsrc%5Etfw)
+
+Jhonatan Narváez cambia de equipo
+---------------------------------
+
+Con 27 años, **Narváez** concluye su etapa en el **Ineos Grenadiers**, equipo que defendió desde 2019 y con el que cosechó importantes victorias como el triunfo en dos etapas del Giro de Italia (2020 y 2024), entre otras.
+
+A partir de 2025, se unirá al **UAE Team Emirates**, donde será compañero del ‘destacado’invencible’ ciclista **Tadej Pogacar.**
+
+**Narváez** tiene un contrato de dos años y se espera que potencie aún más su carrera en otro equipo de élite.
+
+Además, el ‘Lagarto’ representó a Ecuador en la prueba de ruta de los **Juegos Olímpicos de París 2024**. En ese evento [batalló solo.](https://www.elcomercio.com/deportes/juegos-olimpicos/jhonatan-narvaez-solo-juegos-olimpicos.html)
+
+El incidente en el **Tour de Guangxi** es un recordatorio de los riesgos que enfrentan los ciclistas, pero Narváez ha demostrado ser un competidor tenaz, y su futuro en el **UAE Team Emirates** promete grandes logros en la ruta.
+
+Resultados de ADN confirman muerte de Yahya Sinwar
+==================================================
+
+El primer ministro isralí, Benjamín Netanyahu, aseguró que este jueves "es el comienzo del día después de Hamas"
+----------------------------------------------------------------------------------------------------------------
+
+![Se confirma la muerte del líder de Hamas Yahya Sinwar.](https://www.elcomercio.com/wp-content/uploads/2024/10/Hamas.jpg)
+
+El **Ejército de Israel** confirmó este jueves, minutos después de que lo hiciera el ministro de Exteriores, Israel Katz, la muerte del líder de Hamás, **Yahya Sinwar**. Esto se dio en un encuentro entre tropas en el sur de la Franja.
+
+### Más noticias
+
+* [Israel mata a Yahya Sinwar, líder de Hamas](https://www.elcomercio.com/actualidad/mundo/israel-mata-a-yahya-sinwar-lider-de-hamas.html "Israel mata a Yahya Sinwar, líder de Hamas")
+* [Israel se ensaña con el sur del Líbano y vuelve a atacar a la ONU](https://www.elcomercio.com/actualidad/mundo/israel-ensana-sur-libano-vuelve-atacar-onu.html "Israel se ensaña con el sur del Líbano y vuelve a atacar a la ONU")
+* [Israel ataca centro de mando de Hamás](https://www.elcomercio.com/actualidad/israel-ataca-centro-de-mando-de-hamas.html "Israel ataca centro de mando de Hamás")
+
+La muerte del líder
+-------------------
+
+“**Yahya Sinwar** fue eliminado después de esconderse durante el año pasado detrás de la población civil de Gaza. Esto tanto sobre la **superficie como bajo tierra** en los túneles de Hamás en la Franja de Gaza”, detalló un comunicado castrense.
+
+“**Sinwar planeó y ejecutó la Masacre del 7 de octubre**, promovió su ideología asesina tanto antes como durante la guerra. Fue responsable del **asesinato y secuestro** de muchos israelíes”, añadió el texto sobre el autor intelectual del ataque múltiple de Hamás, en el que murieron 1 200 israelíes.
+
+El Ejército aseguró también que -en las últimas semanas- habían restringido, mediante decenas operaciones militares, la capacidad de movimiento de Sinwar en el sur de la Franja. Anunció que el **cadáver encontrado** -junto a otros dos milicianos- **ha sido finalmente identificado**; confirmando así su muerte.
+
+Poco antes, la Policía israelí y el Ejército ya **habían anunciado estar trabajando en la identificación** “definitiva” del cadáver. Se realizaba el **análisis forense** de imágenes dentales y pruebas de ADN que resultaron positivas.
+
+El encuentro entre tropas
+-------------------------
+
+**Sinwa**r fue abatido en un **encuentro fortuito** ayer entre tropas israelíes de infantería y milicianos en un edificio en Rafah, sur de la **Franja de Gaza,** según detalles revelados sobre su muerte.
+
+Durante meses, fuentes israelíes habían insinuado que e**l líder de Hamas** permanecía escondido en **túneles de la Franj**a, rodeado de rehenes a modo de protección. Sin embargo, fuentes difundidas en redes sociales muestran **el supuesto cadáver de Hamas** vestido en uniforme y cargando munición.
+
+Desde que saltó la noticia, se han difundido en las redes sociales videos de israelíes en las playas de Tel Aviv y otros lugares, celebrando **la muerte de Sinwar**, el hombre más buscado por Israel desde el 7 de octubre.
+
+Presidente israelí pide regreso de rehenes
+------------------------------------------
+
+El presidente israelí, **Isaac Herzog**, felicitó este jueves a las fuerzas de seguridad de Israel por haber matado al “maestro asesino” **Yahya Sinwar,** máximo líder de Hamas. También pidió actuar “más enérgicamente” para lograr el retorno de todos los rehenes.
+
+“El **multiasesino Sinwar,** que dirigió el ataque infernal de octubre, es responsable durante años de ataques criminales contra los ciudadanos de Israel y de otros países, del asesinato de miles de inocentes. Estaba dedicado al terrorismo, al **derramamiento de sangre** y a la desestabilización en Oriente Medio”, afirmó el presidente israelí en un mensaje en X.
+
+“Pero también es un mensaje muy claro para los **residentes de Gaza.** El hombre que trajo un desastre a la Franja de Gaza, cuyas acciones asesinas sufrís: **el fin de este hombre ha llegado.** Este es el momento de salir, liberar a los rehenes, levantar las manos, rendirse”, añadió.
+
+El primer ministro isralí, **Benjamín Netanyahu,** aseguró que este jueves “es el comienzo del día después de Hamas”, momentos después de la confirmación de la **muerte del líder del grupo islamista** y cerebro de los ataques del 7 de octubre, Yahya Sinwar.
+
+“Me gustaría decirlo de nuevo, de la manera más clara**: Hamas ya no gobernará Gaza.** Este es el comienzo del día después de Hamas y esta es una oportunidad para que vosotros, los residentes de Gaza, finalmente se liberen de su tiranía”, sentenció el líder israelí.
+
+Abuelo ahorró 70 años en un botellón y dejó un impresionante tesoro  
+=====================================================================
+
+Esta historia se ha vuelto viral y ha llamado mucho la atención de los internautas.
+-----------------------------------------------------------------------------------
+
+![Usuario comentó la herencia que le regaló su abuelo. Foto: Reddit @Crimsonkitsune333.](https://www.elcomercio.com/wp-content/uploads/2024/10/abuelo-tesoro.jpg)
+
+A diario los usuarios de las **redes sociales** suelen compartir sus historias y vivencias, captando así el interés de sus seguidores. Hace poco pasó una que dejó a muchos asombrados y que no podían creer, cuyo protagonista es **un abuelo y un tesoro**.  
+
+### Más noticias
+
+* [Nueva tecnología revela pistas sobre el tesoro inca de Atahualpa](https://www.elcomercio.com/tendencias/cultura/tesoro-atahualpa-ruminahui-incas.html "https://www.elcomercio.com/tendencias/cultura/tesoro-atahualpa-ruminahui-incas.html") 
+* [Países Bajos expone el mapa de un tesoro nazi](https://www.elcomercio.com/actualidad/mundo/paises-bajos-mapa-tesoro-nazi.html "https://www.elcomercio.com/actualidad/mundo/paises-bajos-mapa-tesoro-nazi.html")
+
+Un usuario identificado como **@crismsonkitsune333** de la red social **Reddit**, compartió una fotografía de una **enorme alcancía llena de monedas** que le había ahorrado su abuelo durante 70 años. 
+
+**El tesoro del abuelo** 
+-------------------------
+
+“Mi abuelo guardó su cambio en esta **jarra de vidrio** durante 70 años y finalmente me está dejando contarlo”, explicó el joven. 
+
+Este **botellón**, que llevaba años en el poder de su abuelo, contenía **monedas de plata, oro y cobre**, por lo que hoy en día **su valor es mayor al que tenía hace algunos años**. Al saber esto, no dudó en comenzar a contarlas. 
+
+**El peso de la herencia** 
+---------------------------
+
+Los internautas estaban pendientes de lo que pasaba con esta historia, ya que **@crismsonkitsune333** se dedicó a relatar el paso a paso. Para sorpresa de muchos, esta botella de plástico llena de monedas y billetes, al momento de sacarla y colocarla en una caja, **pesaba 70 kilos**. 
+
+**Un intento de robo** 
+-----------------------
+
+Él contó que **los ladrones intentaron robar la herencia** que le dejó su abuelo, pero que, gracias a la **rápida actuación de la policía**, que llegó a tiempo, y como era demasiado pesado, no pudieron huir con él. 
+
+“Unos ladrones entraron para intentar robarlo. Recuerda que estaba cubierto de polvo de huellas dactilares cuando vinieron los policías, ya que **era demasiado pesado para huir** con él”, agregó. 
+
+**El gran conteo** 
+-------------------
+
+Pasaron algunos días para que los internautas conocieran en qué quedó la historia. **Él demoró una semana contando todo el dinero**, y su resultado fue sorprendente. 
+
+“La jarra de monedas de 70 años ha sido ordenada y contada: ¡la cuenta final es de **2 052,76 dólares**!”, dijo. 
+
+**Monedas históricas** 
+-----------------------
+
+![Foto: Reddit @Crimsonkitsune333.](https://www.elcomercio.com/wp-content/uploads/2024/10/abuelo-tesoro-1-1024x683.jpg)
+
+Foto2: Reddit @Crimsonkitsune333.
+
+En esta red social, **él mostró una fotografía** en la que se podían ver todas las monedas y algunos billetes. 
+
+“La moneda más antigua es 1 **centavo de trigo** de 1928, la más nueva es una moneda de 10 centavos de 2023, así que **casi 100 años de monedas**. También encontramos **77 centavos de trigo** de 1928-1958, y sigue una moneda de 25 centavos de plata de 1951, dos monedas de 10 centavos de plata de 1963 y 1964. Había, incluso, una moneda de 10 centavos de mercurio del año 1942, y por supuesto, monedas de 1 dólar, también de plata y oro”, concluyó. 
+
+Wendys Pitre Ariza 
+
+Redacción Alcance Digital 
+
+Una perra viajó en transporte público para encontrar a su tutor
+===============================================================
+
+Esta perrita se robó el corazón de la gente al viajar en varios buses en busca de un tutor.
+-------------------------------------------------------------------------------------------
+
+![Esta perrita viajó varios días en transporte púbico. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo183.jpg)
+
+Una **perra callejera** de raza terrier alemán capturó los corazones de los tiflisenses en **Georgia** gracias a sus viajes en el transporte público.
+
+Conocida como **Mogzaura**, que significa ‘**Viajer**a’, esta **perra** recorrió durante dos semanas la capital **georgiana** en autobuses para encontrar a su tutora. Te contamos su historia.
+
+### **Más noticias:**
+
+* [Los gatos más famosos de Instagram](https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html "https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html")
+* [Empresa japonesa ‘contrató’ a nueve gatos para una misión superimportante](https://www.elcomercio.com/narices-frias/gatos-empresa-japones-ambiente-laboral.html "https://www.elcomercio.com/narices-frias/gatos-empresa-japones-ambiente-laboral.html")
+* [Los gatos de diseño sin pelo y su lenta agonía](https://www.elcomercio.com/narices-frias/gatos-sin-pelo-agonia-deformidades-bienestar-animal.html "https://www.elcomercio.com/narices-frias/gatos-sin-pelo-agonia-deformidades-bienestar-animal.html")
+
+**Una perra viajó en transporte público para encontrar a su tutor**
+-------------------------------------------------------------------
+
+A principios de octubre, las imágenes de Mogzaura comenzaron a circular en redes sociales. En las fotos y videos, la perra aparecía sentada en un asiento del autobús, mirando por la ventana.
+
+Los internautas compartieron sus encuentros con ella, mencionando lugares como la Avenida David Agmashenebeli y el jardín infantil de la Avenida Pekín, donde **Mogzaura** subió a distintos autobuses.
+
+Los habitantes de Tiflis se mostraron solidarios. Muchos alimentaron a la **perra** y la acariciaron, pero pocos se atrevieron a adoptarla.
+
+**Perra viajera perdió el rastro de su anterior tutor**
+-------------------------------------------------------
+
+Fue el programa ‘Tatebis Imedi’ (‘Patas de la esperanza’), de la mayor cadena de televisión de Georgia, quien decidió intervenir.
+
+La presentadora Sofía Beroshvili, amante de los animales y dueña de cinco mascotas, se comprometió a ayudar en la búsqueda de un hogar para la **perra**.
+
+Mientras tanto, se intentó rastrear a su anterior dueño. Beroshvili explicó que es probable que Mogzaura haya sido abandonada y que su antiguo dueño se haya ido del país, un fenómeno común en la región.
+
+Tras una semana de cuidados en casa de una estudiante universitaria, la perra finalmente encontró su hogar permanente en las afueras de Tiflis, gracias a Gueorgui, un miembro de un grupo de voluntarios que se dedica a rescatar perros callejeros.
+
+Lamine Yamal, favorito para proclamarse Golden Boy
+==================================================
+
+Lamine Yamal es el principal candidato para ganar el premio Golden Boy y sustituir al inglés Jude Bellingham.
+-------------------------------------------------------------------------------------------------------------
+
+![Lamine Yamal con el Barcelona en agosto de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/yamal_1.jpg)
+
+El español **Lamine Yamal, extremo del Barcelona**, parte como el máximo favorito para ganar el premio Golden Boy 2024 que acredita al mejor jugador menor de 21 años de las ligas europeas.
+
+Lamine Yamal **lidera la lista de 25 nominados que optan al galardón**, desvelada este jueves 17 de octubre de 2024 en Roma y en la que su compañero de equipo Pau Cubarsí figura el quinto.
+
+### Más noticias:
+
+* [(Video) Conmovedor llanto de la mamá de Keny Arroyo tras su debut con Ecuador](https://www.elcomercio.com/deportes/futbol/conmovedor-llanto-de-la-mama-de-keny-arroyo-tras-su-debut-con-ecuador.html "(Video) Conmovedor llanto de la mamá de Keny Arroyo tras su debut con Ecuador")
+* [Dragonas disputarán el tercer lugar de la Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-final-copa-libertadores.html "Dragonas disputarán el tercer lugar de la Libertadores Femenina")
+* [La Liga Pro se reanudará con cambio de horarios](https://www.elcomercio.com/deportes/liga-pro-fecha10-horarios-modificados.html "La Liga Pro se reanudará con cambio de horarios")
+
+El impacto de Yamal en el Barcelona y en la selección española, **con la que este verano conquistó la Eurocopa**, no ha pasado desapercibido para el algoritmo que este año, por segunda vez en la historia del premio organizado por el diario ‘Tuttosport’, interviene en la conformación de la lista junto a un jurado internacional.
+
+Yamal ya entró en la lista de 25 finalistas de la pasada edición que **ganó el inglés Jude Bellingham**, jugador del Real Madrid, aunque entró como seleccionado especial del periódico junto a otros como el turco Arda Guller, que ocupa el puesto 16 de la lista de 25 favoritos.
+
+Este año, los elegidos especiales por la redacción del periódico italiano **fueron Endrick (Real Madrid), Wilson Odobert (Tottenham)**, Eliesse Ben Seghir (Monaco), Samuel Mbangula (Juventus), Andreas Schjelderup (Benfica).
+
+Siguiendo la estela de Yamal están el luso Joao Neves, del PSG; el francés Warren Zayre-Emery (PSG), y el argentino Alejandro Garnacho, del Manchester United.
+
+Además, destacan nombres del fútbol español como **Pau Cubarsí (Barcelona) en quinta posición**; Cristhian Mosquera (Valencia) en la décimo quinta plaza; y Samuel Omorodion (Oporto) cerrando los primeros 20.
+
+Rico lewis (Manchester City), Pierre Zayre-Emery (PSG), Aleksandar Pavlovic (Bayern Múnich), Leny Yoro y Kobie Mainoo (Manchester United) ponen el color internacional en la lista.
+
+¡Cómo se eligió a los finalistas del Golden Boy?
+------------------------------------------------
+
+La edición número 22 de este premio, que **inauguró el neerlandés Rafael Van der Vaart en 2003,** cuenta con el llamado ‘Golden Boy Index’, un algoritmo que ha tenido en cuenta para elaborar la clasificación los minutos de juego, el rendimiento, el equipo, los posibles partidos con sus respectivas selecciones y las competiciones europeas.
+
+Este algoritmo es una **herramienta tecnológica creada en colaboración** con ‘Football Benchmark’, el socio de datos y análisis del premio, y su objetivo es convertirse en una especie de ránking de fútbol que mezcle el funcionamiento del ránking de la ATP y un índice bursátil.
+
+El ganador de este año heredará el premio -el próximo 16 de diciembre, en Turín (norte)- que la pasada edición **ganó el inglés Jude Bellingham**, que a su vez lo recogió después de que lo hicieran en las dos ediciones anteriores otros dos jugadores del Barcelona: en 2022 ‘Gavi’ y en 2021 ‘Pedri’.
+
+Lamine Yamal, por tanto, sería el cuarto jugador de LaLiga que recibe el premio más prestigioso de los futbolistas sub-21.
+
+En la gala que desveló los 25 futbolistas estuvo presente como invitado especial el luso **Sergio Conceicao, exentrenador del Oporto** y exjugador del Lazio e Inter Milán, entre otros; así como Andrea Soncin, seleccionador italiano femenino; el italiano Massimo Mauro, exfutbolista; y el brasileño Thiago Scuro, director deportivo del Mónaco.
+
+![Foto: Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/10/yamal_2-1024x683.jpg)
+
+Foto: Instagram del futbolista.
+
+LISTA FINAL CON LOS 25 NOMINADOS
+--------------------------------
+
+1\. LAMINE YAMAL – Barcelona
+
+**2\. JOAO NEVES – PSG**
+
+3\. WARREN ZAIRE-EMERY – PSG
+
+**4\. ALEJANDRO GARNACHO – Manchester United**
+
+5\. PAU CUBARSÍ – Manchester United
+
+**6\. SAVIO – Manchester City**
+
+7\. RICO LEWIS – Manchester City
+
+**8\. ALEKSANDAR PAVLOVIC – Bayern Múnich**
+
+9\. KOBBIE MAINOO – Manchester United
+
+**10\. JORREL HATO – Ajax**
+
+11\. JAMIE BYNOE-GITTENS – BOrussia Dortmund
+
+**12\. LENY YORO – Manchester United**
+
+13\. KENAN YILDIZ – Juventus
+
+**14\. ADAM WHARTON – Crystal Palace**
+
+15\. CRISTHIAN MOSQUERA – Valencia
+
+**16\. ARDA GüLLER – Real Madrid**
+
+17\. MATHYS TEL – Bayern Múnich
+
+**18\. DESIRE DOue – PSG**
+
+19\. OSCAR GLOUKH – Salzburgo
+
+**20\. SAMUEL OMORODION – Oporto**
+
+21\. ENDRICK – Real Madrid
+
+**22\. ELIESSE BEN SEGHIR – Mónaco**
+
+23\. SAMUEL MBANGULA – Juventus
+
+**24\. ANDREAS SCHJELDERUP- Benfica**
+
+25\. WILSON ODOBERT – Tottenham
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Cortes de agua en Quito la tarde de este jueves 17 de octubre
+=============================================================
+
+La restitución del servicio de agua potable se reanudará de forma paulatina a partir del horario señalado en los cortes de agua
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de agua son parte de las consecuencias por la crisis hídrica.](https://www.elcomercio.com/wp-content/uploads/2024/10/agua.jpg)
+
+La suspensión del **servicio de energía eléctrica** que realiza el Gobierno afecta el suministro de agua potable en Quito, por lo que se dispuso cortes de agua algunos barrios.
+
+### Más noticias
+
+* [Policía realiza operativos por presunta concusión de agentes de tránsito](https://www.elcomercio.com/actualidad/policia-operativos-presunta-concusion-agentes-de-transito-quito.html "Policía realiza operativos por presunta concusión de agentes de tránsito")
+* [Lluvias se prevén para la tarde de este jueves 17 de octubre en Quito](https://www.elcomercio.com/actualidad/quito/lluvias-se-preven-quito-tarde-jueves-17-de-octubre-en-quito.html "Lluvias se prevén para la tarde de este jueves 17 de octubre en Quito")
+* [Daniel Noboa entrega camionetas y condona deudas de Juntas de Agua](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-entrega-camionetas-y-condona-deudas-de-juntas-de-agua.html "Daniel Noboa entrega camionetas y condona deudas de Juntas de Agua")
+
+¿A qué se deben los cortes de agua?
+-----------------------------------
+
+La **Empresa Metropolitana de Agua Potable** (Epmaps) señaló este jueves 17 de octubre que los cortes de luz impactan directamente la provisión de agua en los barrios de las **partes altas de Quito.** Esto debido a que a estas zonas el líquido llega mediante bombeo eléctrico.
+
+La Epmaps recomendó a quienes habiten en estos sectores que se **abastezcan del líquido** necesario para cubrir sus necesidades básicas de higiene, alimentación y salud.
+
+Agregó que personal **técnico y operativo monitorea l**os sistemas de bombeo a fin de ponerlos en funcionamiento cuando el fluido eléctrico se normalice.
+
+Barrios afectados en Quito de 13:00 a 02:00
+-------------------------------------------
+
+* **Parroquia Chillogallo:** Nueva Esperanza Del Sur, Buenaventura, Zona de Protección Chillogallo, San Antonio de La Libertad, Colinas del Sur, La Estancia
+* **Parroquia La Ecuatoriana:** Santa Clara, Zona de Protección La Ecuatoriana, Nuevo Horizonte de Huarcay, San Francisco De Huarcay, La Cristalina De Huarcay, Luz Y Vida de Huarcay
+
+Zonas afectadas en Quito de 11:00 a 22:00
+-----------------------------------------
+
+* **Parroquia Chillogallo:** Nueva Esperanza Del Sur, Buenaventura, Zona de Protección Chillogallo, San Antonio de La Libertad
+* **Parroquia Guayllabamba:** El Balcón de Guayllabamba, San Luis de Bellavista, San José de Doña Ana, Sebauco, San Lorenzo, San Juan, Huertos Familiares, Nueva Esperanza, La Sofía, Pueblo Viejo, San Pedro, Altamira, San Ignacio, La Colina, Pichincha, Cooperativa Agrícola Doña Ana.
+
+Barrios con cortes de agua de 19:00 a 23:59 y de 11:00 a 17:00
+--------------------------------------------------------------
+
+* **Parroquia Rumipamba:** Zona De Protección Rumipamba, Ninguilla
+* **Parroquia Belisario Quevedo:** Pambachupa, La Gasca, Zona de Protección Belisario, Santa Clara de San Millán (Comuna), La Granja, Las Casas, San Vicente, La Primavera
+
+Zonas afectadas en Quito de 14:00 a 21:00
+-----------------------------------------
+
+* **Parroquia Conocoto:** Valle Hermoso, Montserrat
+* **Parroquia La Ferroviaria:** Mirador de Puengasí, San Patricio de Puengasí, Forestal Alta
+* **Parroquia Puengasí:** Obrero Independiente 2, Bosque IESS, Valle de Puengasí, San ISidro
+
+De 15:00 a 22:00
+----------------
+
+* **Parroquia Chilibulo:** Yaguachi, Chilibulo, La Dolorosa, Comuna Marcopamba – Chilibulo – La Raya, Zona De Protección Chilibulo
+* **Parroquia Conocoto:** Valle Hermoso, Monserrat, San Cristóbal, San José de Conocoto Alto, El Rosario
+* **Parroquia La Argelia:** Aída León, San Carlos, Zona de Protección de La Argelia, Miravalle 2, San Bartolo Alto, Oriente Quiteño, Cumbres de Santa María
+* **Parroquia La Ferroviaria:** Mirador de Puengasí, San Luis de Miravalle, Ferroviaria Alta, San Patricio de Puengasí, Forestal Alta
+* **Parroquia La Libertad:** La Colmena, Libertad Baja, Los Ángeles, Santa Lucía Baja, Cima de La Libertad, San Diego Alto, San José de La Libertad, Josefina Enríquez, Santa Lucía Alta
+* **Parroquia Puengasí:** Valle de Puengasí, Bosque IESS, Zona de Protección Puengasí, Obrero Independiente 2, Jardín Del Valle, Auqui De Monjas, El Guabo, San Isidro, Alma Lojana
+* **Parroquia Quitumbe:** San Blas II, Tambo El Inca, San Martín de Porres, El Mirador de Guajaló Alto, Zona de Protección Quitumbe, Valles del Sur, Ciudad Futura, Nuevos Horizontes del Sur.
+
+Barrios afectados en Quito de 17:00 a 23:59
+-------------------------------------------
+
+* **Parroquia Centro Histórico:** El Panecillo, San Diego.
+* **Parroquia Chimbacalle:** Chiriyacu Central, Pío XII, Luluncoto
+* **Parroquia Conocoto:** Montserrat, Valle Hermoso, Eucaliptos, San Cristóbal
+* **Parroquia Itchimbía:** La Vicentina, San Pedro y San Pablo, El Sena, Nueva Tola, Sona de protección Itchimbía
+* **Parroquia La Ferroviaria:** Mirador de Puengasí, San Luis de Miravalle, Ferroviaria Alta, El Recreo, Luluncoto, Clemencia, Chaguarquingo
+* **Parroquia La Libertad:** San Diego Alto, San José de la Libertad, Santa Lucía Alta y Baja, La Colmena
+* **Parroquia Puengasí:** Sauces del Valle, Obrero Independiente 2, Balcón del Valle, Monjas Alto, Eloy Alfaro, Cuscungo, Miravalle, Futuro Libre
+* **Parroquia San Juan:** Álvaro Pérez, La Ballica, Zona de Protección San Juan, Ciudadela Amazonas, El Tejar, Ciudadela Espejo, Toctiuco, San Salvador, Balcón Colonial, Miraflores Alto, La Chilena, El Rosal, Miraflores, Placer Bajo, Placer Alto, San Juan, Salvador Allende, América.
+
+La **restitución del servicio de agua** potable se reanudará de forma paulatina a partir del horario señalado. Para conocer si tu barrio se verá afectado puedes enviar un mensaje de WhatsApp al 096 207 2222 opción 4.
+
+Puedes consultar la programación completa de cortes de agua en Quito [aquí.](https://www.aguaquito.gob.ec/cortes-electricos-octubre/ "https://www.aguaquito.gob.ec/cortes-electricos-octubre/")
+
+Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas
+================================================================================
+
+Las emergencias fueron atendidas por los Bomberos en distintos puntos de la ciudad.
+-----------------------------------------------------------------------------------
+
+![Los incendios pusieron en riesgo a moradores que habitan casas aledañas](https://www.elcomercio.com/wp-content/uploads/2024/10/esmeraldas.jpg)
+
+**Cuatro incendios** se produjeron en la provincia de **Esmeraldas**, entre el miércoles 16 y jueves 17 de octubre de 2024.
+
+Las llamas consumieron más de **12 hectáreas de vegetación**; el Cuerpo de Bomberos de la ciudad atendió estas emergencias de forma oportuna.
+
+### Más noticias
+
+* [Taxista escuchará formulación de cargos por incendios forestales en Quito](https://www.elcomercio.com/actualidad/quito/taxista-formulacion-cargos-incendios-forestales-quito.html "Taxista escuchará formulación de cargos por incendios forestales en Quito")
+* [Los vecinos de Bolaños en Quito se levantan a tres semanas del incendio forestal](https://www.elcomercio.com/actualidad/quito/vecinos-bolanos-quito-levantan-tres-semanas-incendio.html "Los vecinos de Bolaños en Quito se levantan a tres semanas del incendio forestal")
+* [Afectados por los incendios forestales tendrán un beneficio en la planilla del agua](https://www.elcomercio.com/actualidad/quito/afectados-incendios-forestales-planilla-agua.html "Afectados por los incendios forestales tendrán un beneficio en la planilla del agua")
+
+Según detalló el **ECU 911**, las alertas reportadas en la provincia costera del norte del país estuvieron relacionadas con quemas de **maleza e incendios forestales**.
+
+El **primer incendio** fue registrado la madrugada del miércoles, en la parroquia **Tachina**, en el interior del Aeropuerto Internacional Carlos Concha Torres, en el norte de Esmeraldas.
+
+Los bomberos controlaron el fuego en este punto y realizaron trabajos de enfriamiento.
+
+Este incendio forestal consumió **tres hectáreas** de vegetación; no se registraron afectaciones humanas ni daños materiales.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-15.png)
+
+Quema de maleza se descontroló
+------------------------------
+
+Un siniestro similar se registró en el sector de **Winchele**, en la parroquia **San Mateo**, en la ciudad de Esmeraldas.
+
+Esta emergencia fue la que más daño provocó a la vegetación, al consumir **ocho hectáreas**.
+
+El incendio se produjo por una **quema de maleza descontrolada**. Al sitio acudieron los bomberos del cantón para ejecutar trabajos de sofocación.
+
+Otras dos emergencias provocaron la quema de **más de una hectárea** de vegetación. Una fue reportada por la ciudadanía en la **vía a Tábule**, ruta E-15, en la ciudad de Esmeraldas.
+
+La propagación de las llamas y el humo de la combustión pusieron en riesgo a **casas aledañas** y a los vehículos que se movilizaban por esta vía.
+
+Los Bomberos de Esmeraldas atendieron la emergencia rápidamente, evitando daños humanos y materiales.
+
+Finalmente, la última alerta en la ciudad se registró en la **Isla Luis Vargas Torres**.
+
+Los efectivos controlaron las llamas con ayuda de motobombas. En este punto resultaron afectados **300 metros** de maleza.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-14.png)
+
+Liga de Quito aspira al título en medio de festejos por su aniversario
+======================================================================
+
+Pese a unas semanas difíciles, Liga de Quito recuperó la punta de la segunda etapa de la Liga Pro.
+--------------------------------------------------------------------------------------------------
+
+![Bryan Ramírez festejando un gol con Liga de Quito en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-17T123217.097.jpg)
+
+**Liga de Quito** atravesó un complicado mes de septiembre, en el cual no consiguió ganar ningún partido. Sin embargo, en la última jornada, derrotó a un rival de peso y se reinsertó en la lucha por el título de la Liga Pro, mientras anticipa los festejos por su 106º aniversario.
+
+En la siguiente fecha de la Liga Pro, la ‘**U’ visitará a Técnico Universitario** el sábado 19 de octubre, a las 15:30, en el Estadio Bellavista de Ambato, por la décima jornada del torneo ecuatoriano.
+
+### Más noticias:
+
+* [Pablo Sánchez vs. Josep Alcácer: ¿quién tiene mejores números en Liga de Quito?](https://www.elcomercio.com/deportes/futbol/pablo-sanchez-josep-alcacer-quien-tiene-mejores-numeros-liga-de-quito.html "Pablo Sánchez vs. Josep Alcácer: ¿quién tiene mejores números en Liga de Quito?")
+* [Liga de Quito se reencontró con la victoria ante Orense](https://www.elcomercio.com/deportes/futbol/liga-de-quito-se-reencontro-victoria-ante-orense.html "Liga de Quito se reencontró con la victoria ante Orense")
+* [Gonzalo Valle, del banco de Liga de Quito a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/gonzao-valle-seleccion-ecuador-convocado.html "Gonzalo Valle, del banco de Liga de Quito a la Selección de Ecuador")
+
+Mientras el equipo albo viaje a Ambato, en Quito, el **Estadio Rodrigo Paz Delgado** albergará actividades conmemorativas por el 106º aniversario de Liga de Quito como club universitario.
+
+Liga de Quito en la lucha por el título
+---------------------------------------
+
+Liga de Quito **busca retener el títul**o que conquistó en la temporada 2023, el primero bajo el formato de la Liga Pro, que consiguió al vencer en penales a Independiente del Valle en la final.
+
+En caso de alcanzar la final de este año, el rival a vencer podría ser nuevamente **Independiente del Valle**, que ya está clasificado tras ganar la primera etapa del torneo.
+
+Actualmente, **Liga de Quito lidera la segunda etapa con 19 puntos** en nueve partidos, producto de seis victorias, un empate y dos derrotas. Además, es el equipo más goleador con 18 tantos, y el que menos goles ha recibido, con nueve en contra.
+
+Detrás del conjunto albo está **Independiente del Valle con 17 puntos**, mientras que Universidad Católica, Mushuc Runa y Orense comparten el tercer lugar con 16 puntos.
+
+¿Cuándo es el aniversario de Liga de Quito?
+-------------------------------------------
+
+Liga de Quito **celebrará su 106º aniversario** con actividades especiales en el Estadio Rodrigo Paz Delgado.
+
+Es importante mencionar que los 106 años corresponden a su **fundación como Club Universitario**, cuando el equipo era semiprofesional, el 26 de octubre de 1918.
+
+Por otro lado, su aniversario como equipo profesional, bajo el nombre de **Liga Deportiva Universitaria,** se conmemora el 11 de enero de 1930.
+
+Para celebrar estos 106 años, el sábado 19 de octubre se realizarán varias actividades en ‘Casa Blanca’, entre ellas la **exhibición de camisetas históricas** y trofeos obtenidos por el club. También habrá homenajes a leyendas de Liga, un pasillo fotográfico con jugadores históricos, y se presentarán los diferentes escudos que ha lucido la institución a lo largo de su historia.
+
+Eminem cumple años: Un repaso a la carrera del rapero más polémico
+==================================================================
+
+Eminem marcó un hito en la industria musical con su estilo único, letras crudas y una voz inconfundible
+-------------------------------------------------------------------------------------------------------
+
+![El rapero estadounidense Eminem está de cumpleaños. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo182.jpg)
+
+Este 17 de octubre se celebra el cumpleaños de **Marshall Mathers III**, más conocido como **Eminem**. El rapero estadounidense, nacido en 1972, marcó un hito en la **industria musical** con su estilo único, letras crudas y una voz inconfundible.
+
+### **Más noticias:**
+
+* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
+* [Liam Payne dejó un gran ‘desorden’ en la habitación del hotel antes de morir](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-desorden-habitacion-hotel-alcohol.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-desorden-habitacion-hotel-alcohol.html")
+* [Liam Payne, exintegrante de One Direction, jugó para Inglaterra](https://www.elcomercio.com/deportes/futbol/liam-payne-exintegrante-de-one-direction-jugo-para-inglaterra.html "https://www.elcomercio.com/deportes/futbol/liam-payne-exintegrante-de-one-direction-jugo-para-inglaterra.html")
+
+**Eminem cumple años: Un repaso a la carrera del rapero más polémico**
+----------------------------------------------------------------------
+
+**[Eminem](https://www.eminem.com/ "https://www.eminem.com/")** irrumpió en la escena musical a finales de los años 90 con su álbum debut, ‘The Slim Shady LP’. Sus letras, cargadas de sátira, violencia y referencias a su complicada infancia, lo convirtieron rápidamente en una figura controvertida pero admirada por millones de jóvenes.
+
+Álbumes posteriores como ‘The Marshall Mathers LP’ y ‘The Eminem Show’ consolidaron su estatus como uno de los raperos más exitosos de todos los tiempos.
+
+**Eminem es un artista versatil**
+---------------------------------
+
+Más allá de la música, **Eminem, ahora con 52 años,** demostró su versatilidad como actor. Su interpretación en la película ‘8 Mile’, basada en parte en su propia vida, le valió un Oscar a Mejor Canción Original por Lose Yourself.
+
+> [View this post on Instagram](https://www.instagram.com/reel/C_smYZ9Rpmx/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Video Music Awards (@vmas)](https://www.instagram.com/reel/C_smYZ9Rpmx/?utm_source=ig_embed&utm_campaign=loading)
+
+Este premio lo posicionó como uno de los pocos artistas en ganar un Grammy, un Oscar y un MTV Video Music Award en el mismo año.
+
+**Enimen y su huella indiscutible en el mundo de la música**
+------------------------------------------------------------
+
+A lo largo de su carrera, **Eminem** ha sido objeto de críticas por sus letras explícitas y su imagen rebelde. Sin embargo, su música sirvió como una plataforma para abordar temas sociales importantes, como la pobreza, la adicción y la discriminación.
+
+Hoy, **Eminem** sigue siendo una figura relevante en la industria musical. Su influencia se ha extendido más allá del hip-hop, inspirando a generaciones de artistas y dejando una huella imborrable en la cultura popular.
+
+Claudia Sheinbaum promete ‘buena relación’ con China 
+=====================================================
+
+La gobernante mexicana reconoció que la relación comercial con China está constreñida al Tratado entre México, EE.UU. y Canadá
+------------------------------------------------------------------------------------------------------------------------------
+
+![La presidenta de México Claudia Sheinbaum, participa este jueves en una rueda de prensa en Palacio Nacional, en la Ciudad de México (México).](https://www.elcomercio.com/wp-content/uploads/2024/10/claudia-sheinbaum-efe-octubre.jpg)
+
+La presidenta de México, [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/empresarios-ee-uu-anuncian-inversiones-claudia-sheinbaum.html "https://www.elcomercio.com/actualidad/mundo/empresarios-ee-uu-anuncian-inversiones-claudia-sheinbaum.html"), prometió este jueves, 17 de octubre de 2024, una **“buena relación”** con el **Gobierno de China** pese a no tener un **tratado comercial**. Agradeció por el apoyo con el envío de **enseres domésticos** tras el paso del huracán Otis en Acapulco, en octubre del año pasado.
+
+### Más noticias
+
+* [Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html "Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.")
+* [Claudia Sheinbaum propone las reglas para la elección popular del Poder Judicial](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-propone-reglaseleccion-popular-poder-judicial.html "Claudia Sheinbaum propone las reglas para la elección popular del Poder Judicial")
+* [Claudia Sheinbaum conversa por primera vez con Joe Biden](https://www.elcomercio.com/actualidad/mundo/sheinbaum-conversa-primera-joe-biden.html "Claudia Sheinbaum conversa por primera vez con Joe Biden ")
+
+“Hay muy buena relación con China. Digamos que lo que **no hay es un tratado de libre comercio,** entonces hay una relación comercial, pero hay muy buena relación con China”, afirmó la mandataria durante su conferencia de prensa diaria.
+
+La gobernante mexicana reconoció que la **relación comercial** con el país asiático está constreñida al Tratado entre **México, Estados Unidos y Canadá** (T-MEC), que “tiene una serie de limitantes”.
+
+No obstante, reiteró que existe una **“buena relación cultural, comercial y de todo tipo**” con el Gobierno de China.
+
+Agradecimiento a China
+----------------------
+
+Asimismo, reiteró el **agradecimiento hacia aquella** nación por la facilidad que dio a México para adquirir enseres para los afectados del huracán Otis, que devastó el puerto turístico de Acapulco, en el sur de México, donde dejó al menos 56 muertos y miles de damnificados.
+
+México se convirtió en 2023 en el **mayor socio comercial de Estados Unidos,** al superar a China, lo que explica la importancia del T-MEC para ambos países.
+
+Sin embargo, en los últimos días, el candidato presidencial republicano de Estados Unidos, el expresidente Donald Trump (2017-2021), amagó con **imponer aranceles a vehículos chinos** que se produzcan en México.
+
+No obstante, el secretario de Economía de México, Marcelo Ebrard, señaló que en el país no hay ninguna planta china que esté produciendo vehículos.
+
+Las declaraciones de Trump afectaron a las inversiones en México, donde una de las empresas que ha tomado **precauciones es Tesla**, cuyo presidente, Elon Musk, paralizó la construcción de su **megafábrica** en Nuevo León, estado de la frontera norte, hasta después de las **elecciones en Estados Unidos.** 
+
+Taxista escuchará formulación de cargos por incendios forestales en Quito
+=========================================================================
+
+El taxista que provocó un incendio en La Gasca, el 7 de septiembre del 2024, conocerá la formulación de cargos en su contra.
+----------------------------------------------------------------------------------------------------------------------------
+
+![El taxista que inició el incendio admitió su culpa y se justificó en su embriaguez.](https://www.elcomercio.com/wp-content/uploads/2024/10/piromano.jpg)
+
+El taxista a quien se lo vio encender un bosque de Quito, escuchará este 17 de octubre del 2024 **la formulación de cargos** en contra del **taxista**. Quedó registrado en los **videos de la cámara de seguridad** encender **fuego** en uno de los **bosques** de **Quito**.
+
+### Más noticias
+
+* [Alcalde quiere extender el Metro de Quito y acude al Banco Mundial](https://www.elcomercio.com/actualidad/quito/alcalde-extender-metro-quito-banco-mundial-financiamiento.html "Alcalde quiere extender el Metro de Quito y acude al Banco Mundial")
+* [Industrias de dos ciudades paralizadas por cortes de luz](https://www.elcomercio.com/actualidad/negocios/industrias-de-dos-ciudades-paralizadas-por-cortes-de-luz.html "Industrias de dos ciudades paralizadas por cortes de luz")
+* [Reforma del presupuesto del Municipio de Quito reorienta gasto social y otros rubros sensibles](https://www.elcomercio.com/actualidad/quito/reforma-presupuestaria-quito-implicaciones-presupuesto.html "Reforma del presupuesto del Municipio de Quito reorienta gasto social y otros rubros sensibles")
+
+Taxista escuchará los cargos en su contra
+-----------------------------------------
+
+Esta tarde, **el taxista Juan B**. escuchará **la formulación de los cargos en su contra**. En las cámaras de seguridad, se lo vio bajar del vehículo, mirar a un lado y a otro, encender un papel y lanzarlo contra la vegetación, que estaba seca por el estiaje. Inmediatamente, subió a su automóvil y se fue.
+
+El video se grabó el 7 de septiembre pasado. El **taxista acusado** admitió haber **provocado el fuego** y explicó que era algo que nunca había hecho antes. Sin embargo, se justificó en el alcohol como generadora de su acción. Estaba con “unos tragos en la cabeza” y “chumado”. Luego ofreció disculpas y dijo que él es, en realidad, “una persona buena”.
+
+La pena posible contra el taxista por incendios forestales
+----------------------------------------------------------
+
+Según el Código Orgánico Integral Penal, de ser considerado culpable, podría recibir una pena de entre uno y tres años de prisión por atentar contra la vegetación, ya sea nativa o plantada.
+
+Por el momento hay cuatro personas procesadas por los incendios forestales, a los que las autoridades calificaron como “provocados”. Según los cálculos preliminares, el 99% de los flagelos fueron provocados por seres humanos.
+
+El Municipio de Quito presentó al menos 20 denuncias por los flagelos de septiembre que horrorizaron a los quiteños y que se pudieron apagar con el esfuerzo de los bomberos, la solidaridad vecinal y, finalmente, la lluvia[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+
+Otros dos de los supuestos pirómanos guardan prisión preventiva y esperan que se fije la hora y fecha para la formulación de cargos en su contra.
+
+Cómo la inteligencia artificial redefine la interacción humana
+==============================================================
+
+La IA avanza de ser una herramienta a agentes autónomos, pero también genera desafíos en la conexión humana y la salud mental. ¿Cómo equilibrarlo?
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Juan Pablo del Alcázar Ponce lídera Mentinno Consultores, una firma que está enfocada en adopción de IA en organizaciones, analítica y planificación de negocios, entre otros ámbitos.](https://www.elcomercio.com/wp-content/uploads/2024/10/PHOTO-2024-10-17-11-43-27.jpg)
+
+En un entorno donde la **inteligencia artificial (IA)** progresa rápidamente, las empresas deben adaptarse a nuevas formas de trabajo y colaboración.
+
+Desde asistentes personales que optimizan tareas hasta agentes automatizados capaces de tomar decisiones, la IA está transformando nuestras interacciones laborales y cotidianas.
+
+Sin embargo, esta digitalización acelerada también trae consigo **riesgos para la salud mental**, el **aislamiento social** y la pérdida de la **conexión humana**. Es crucial encontrar el equilibrio entre la eficiencia tecnológica y el bienestar emocional.
+
+**Juan Pablo del Alcázar Ponce, gerente de la consultora Mentinno,** nos explica todas las implicaciones de la Inteligencia Artificial y sus avances.
+
+Escucha el tercero capítulo de la **segunda temporada de Garabo**t. Puede hacerlo en las plataformas Spotify, Apple Podcast, Amazon Music, Samsung Podcast, Podcast Index, Listen Notes, RSS.com Community, Pandora, Tune In, iHeartRadio y Deezer.
+
+¿Cómo adaptar la inteligencia artificial a un mundo más humano?
+---------------------------------------------------------------
+
+**Aprender a usar la IA de forma efectiva:** La IA ya no es solo una herramienta de uso opcional; se está convirtiendo en una parte esencial de nuestras vidas. Las empresas deben capacitar a sus equipos para comprender cómo interactuar con modelos de IA como ChatGPT o asistentes virtuales, asegurando que maximicen su potencial y no solo los vean como una simple herramienta.
+
+**Co-creación con IA:** Adoptar el enfoque “Centauro”, donde el ser humano y la inteligencia artificial trabajan juntos, es fundamental. Utilizar la IA para tareas repetitivas mientras reservamos las decisiones estratégicas para los humanos permite mejorar la productividad sin perder el control.
+
+**Automatización con razonamiento:** La IA no debe limitarse a automatizar tareas básicas. Los nuevos agentes de IA son capaces de razonar, evaluar caminos y aprender mientras resuelven problemas, lo que permitirá a las empresas optimizar procesos a gran escala, con una toma de decisiones más ágil y precisa.
+
+**Fomentar la humanización en los negocios:** La verdadera ventaja competitiva en la era digital será la capacidad de humanizar los servicios. Las empresas deben usar la IA para automatizar tareas, pero dejar las interacciones genuinas y empáticas en manos humanas. La personalización sigue siendo una fortaleza humana insustituible por algoritmos.
+
+**Equilibrar la automatización con la interacción humana:** En la búsqueda de eficiencia, no debemos olvidar que los seres humanos somos animales sociales. Las interacciones cara a cara siguen siendo vitales para la salud mental y el bienestar. Las empresas deben fomentar ambientes de trabajo híbridos que permitan tanto la eficiencia digital como la conexión humana.
+
+**Conciencia sobre los riesgos emocionales:** El ritmo acelerado de la evolución tecnológica puede generar ansiedad y aislamiento. Es importante que las organizaciones no solo se concentren en la productividad, sino también en el bienestar emocional de sus equipos, creando espacios para la reflexión y el contacto personal.
+
+La educación, la salud y la interacción
+---------------------------------------
+
+**Promover la educación sobre salud digital:** Los rápidos avances tecnológicos también exigen que las personas comprendan los riesgos asociados, como la dependencia de las pantallas y la sobreexposición digital. Invertir en programas de formación sobre el uso saludable de la tecnología es esencial para mitigar sus efectos negativos.
+
+**Reforzar la importancia de la interacción social:** Las empresas deben fomentar actividades que promuevan la interacción entre los empleados, especialmente en el contexto del teletrabajo. Los eventos sociales, reuniones informales y actividades de equipo pueden ayudar a reducir el aislamiento y fortalecer los lazos interpersonales.
+
+**Desarrollar una ética tecnológica inclusiva:** Las decisiones tecnológicas deben ser tomadas de forma inclusiva y reflexiva. La IA debe ser diseñada y utilizada con principios éticos que respeten la privacidad, la equidad y la dignidad humana, para evitar que se convierta en una herramienta que agrave las desigualdades sociales o afecte negativamente la salud mental.
+
+El futuro está marcado por una coexistencia cada vez más estrecha entre humanos e inteligencia artificial. Para navegar este cambio de forma efectiva, es crucial que las empresas y los individuos aprendan a integrar estas herramientas tecnológicas de manera que no solo optimicen los procesos, sino que también respeten las necesidades emocionales y sociales inherentes a nuestra naturaleza humana.
+
+Barcelona lucirá el logotipo de Coldplay en el Clásico
+======================================================
+
+El FC Barcelona es el líder de la liga española en las nueve primera jornadas. El Real Madrid es segundo.
+---------------------------------------------------------------------------------------------------------
+
+![Los miembros de la banda Coldplay posan con las camisetas que el equipo masculino del Barcelona lucirá con el logotipo del grupo británico en el partido del próximo 26 de octubre en el Bernabéu ante el Real Madrid.](https://www.elcomercio.com/wp-content/uploads/2024/10/barca_1.jpg)
+
+El e**quipo masculino del Barcelona** lucirá el logotipo del grupo británico Coldplay en el partido del próximo sábado 26 de octubre en el Bernabéu ante el Real Madrid, en la fecha 11 de la liga española.
+
+Por su parte, el equipo femenino del **Barcelona lo hará el 2 de noviembre ante el Eibar**, en la jornada 8, dentro del acuerdo que la entidad azulgrana mantiene con Spotify, uno de sus principales patrocinadores.
+
+### Más noticias:
+
+* [Calendario de la Selección de Ecuador Femenina sub-17 en el Mundial](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-femenina-sub17-calendario.html "Calendario de la Selección de Ecuador Femenina sub-17 en el Mundial")
+* [La Selección de Ecuador arranca con triunfo en el Mundial Femenino Sub-17](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-republica-dominicana-mundial-femenino-sub-17.html "La Selección de Ecuador arranca con triunfo en el Mundial Femenino Sub-17")
+* [Hinchas ecuatorianos, ¿desencantados con la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/hinchas-ecuatorianos-desencantados-con-seleccion-de-ecuador.html "Hinchas ecuatorianos, ¿desencantados con la Selección de Ecuador?")
+
+Según ha informado el club azulgrana en un comunicado**, por primera vez los beneficios de la venta de las camisetas** de partido de edición limitada se destinarán íntegramente a un proyecto de UNHCR/ACNUR y la Fundación FC Barcelona.
+
+El emblema del grupo británico que aparecerá en la camiseta está **inspirado en el décimo álbum de la banda**, titulado ‘Moon Music’, y que fue publicado el pasado 4 de octubre.
+
+Coldplay es la banda británica más reproducida de todos los tiempos en Spotify y cuenta con 11 temas en el Spotify Billions Club, el grupo de canciones que acumulan más de mil millones de reproducciones en la plataforma, según ha informado la compañía sueca de ‘streaming’ musical.
+
+Una de las canciones míticas del grupo, ‘Viva la Vida’, se asocia con los **éxitos del Barcelona entrenado por Pep Guardiola en 2009** y se considera que era la banda sonora de aquel equipo mítico que lo ganó todo en el fútbol.
+
+Dos formatos de camisetas
+-------------------------
+
+Las camisetas, **que se pondrán a la venta a partir de este viernes 18 de octubre** y están desde este jueves en preventa, tendrán dos formatos: una de las ediciones limitadas constará de 1.899 unidades con el logo de Coldplay, y otra, más exclusiva, tendrá solo 22 unidades, con efecto fluorescente en el logotipo y la firma de los jugadores y jugadoras titulares de los dos partidos, del Clásico y del encuentro de la Liga F.
+
+**Spotify, Coldplay y el FC Barcelona** donarán la recaudación de estas dos colecciones de camisetas de partido a un proyecto conjunto de la Agencia de la ONU para los Refugiados (UNHCR/ACNUR) y la Fundación FC Barcelona.
+
+La aparición del logo de Coldplay es la **quinta activación de la alianza entre Spotify y el FC Barcelona**. Anteriormente, los protagonistas fueron Karol G, Rolling Stones, Rosalía y Drake.
+
+En unas declaraciones difundidas por el club catalán, los **miembros de la banda británica califican como “un honor”** que Spotify haya elegido el diseño de Moon Music en la camiseta del FC Barcelona.
+
+“Hace muchos años que tenemos una relación especial con la ciudad y el Club. También **estamos orgullosos de apoyar a UNHCR/ACNUR en su labor**, que salva vidas al proteger a los refugiados y personas desplazadas en todo el mundo”, han asegurado.
+
+![l futbolista Lamine Yamal posa con la camiseta que el equipo masculino del Barcelona lucirá con el logotipo del grupo británico Coldplay en el partido del próximo 26 de octubre en el Bernabéu ante el Real Madrid.](https://www.elcomercio.com/wp-content/uploads/2024/10/barca_2-1024x683.jpg)
+
+l futbolista Lamine Yamal posa con la camiseta que el equipo masculino del Barcelona lucirá con el logotipo del grupo británico Coldplay en el partido del próximo 26 de octubre en el Bernabéu ante el Real Madrid.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Daniel Noboa condona deudas de Juntas de Agua
+=============================================
+
+Las deudas quedarán en cero como una medida de apoyo a los pequeños y medianos agricultores y ganaderos del Ecuador, señaló Noboa
+---------------------------------------------------------------------------------------------------------------------------------
+
+![El presidente se refirió a los acuerdos que busca el Gobierno para apoyar a los productores.](https://www.elcomercio.com/wp-content/uploads/2024/10/Noboa-agro.jpg)
+
+El presidente **Daniel Noboa** asistió este jueves 17 de octubre a un acto con los **agricultores de Mejía,** en donde realizó un anuncio.
+
+### Más noticias
+
+* [Gobierno suspende temporalmente el cobro de planillas eléctricas de septiembre de 2024](https://www.elcomercio.com/actualidad/negocios/gobierno-suspende-temporalmente-cobro-planillas-luz-septiembre-de-2024.html "Gobierno suspende temporalmente el cobro de planillas eléctricas de septiembre de 2024")
+* [Gobierno entrega licencias ambientales para proyectos de energía renovable](https://www.elcomercio.com/actualidad/negocios/gobierno-entrega-licencias-ambientales-para-proyectos-de-energia-renovable.html "Gobierno entrega licencias ambientales para proyectos de energía renovable")
+* [Cortes de luz tendrán nuevos horarios las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-tendran-nuevos-horarios-proximas-tres-semanas.html "Cortes de luz tendrán nuevos horarios las próximas tres semanas")
+
+Reunión con los agricultores
+----------------------------
+
+El **ministro de Agricultura y Ganadería**, Danilo Palacios, expresó en este encuentro que a pesar de los conflictos que enfrenta Ecuador, el Gobierno toma medidas.
+
+Se refirió a los **cambios climáticos** y cuestionó si será un llamado para cuidar mejor el **medioambiente**. Recalcó que todo lo que se presente se lo enfrenta juntos como país.
+
+El **sector agrícola** tiene clara la ruta y por ello se brinda 355 000 asistencias técnicas a los agricultores. También han recibido 41 000 capacitaciones y **18 000 paquetes tecnológicos.**
+
+Palacios informó que se gestionan **30 millones de dólares** con el Fondo Internacional de Desarrollo Agrícola, de los cuales 22 millones serán destinados a riego, 8 millones a maquinaria agrícola. 25 tractores serán distribuidos en las asociaciones agrícolas con este presupuesto.
+
+El Ministro dijo que trabajan **en un acuerdo con China** para lograr el acceso de productos lácteos. Sin embargo, también trabajan con otras [alternativa](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")s como el chocho. En **Cotopaxi** se ha emprendido en **200 hectáreas con chocho.**
+
+Ministerio entregó 38 camionetas
+--------------------------------
+
+El Ministerio de Agricultura realizó la entrega de 38 camionetas a los agricultores y ganaderos como una retribución a su importante labor.
+
+Daniel Noboa recalcó la importancia del sector agrícola al llevar alimentos de calidad a los hogares ecuatorianos, por ello, son una prioridad. Por ello se retribuye con regularización de tierras, apoyo económico, capacitación, educación y la entrega de kits agrícolas para mejorar su producción.
+
+Uno de los desafíos que atraviesa el sector es el traslado de sus productos a los mercados. Por ello, el Ministerio gestionó camionetas subvencionadas apunta a reducir los gastos de agricultores y ganaderos.
+
+Los vehículos serán entregadas a pequeños, medianos productores de Pichincha, Cotopaxi, Tungurahua, Imbabura, Carchi y Chimborazo.
+
+Se espera entregar un total de 497 vehículos que han sido gestionados por el Gobierno. En la primera mitad del próximo año se entregará el restante hasta completar los 1 000 automotores entregados al agro.
+
+El productor pequeño y mediano es el corazón del sector productivo del Ecuador, señaló. Se necesitan acuerdos como el que se busca con China.
+
+El **Presidente** señaló que se necesita tener **conciencia social** para entender las necesidades de los productores, por ello se **perdonarán las deudas de las Juntas de Agua** a nivel nacional.
+
+Señaló que esta iniciativa ayudará y aliviará las preocupaciones de los pequeños productores y de las pequeñas comunidades que viven con las **Juntas de Agua**.
+
+Aprovechó la oportunidad para referirse a la **lucha contra la corrupción** y al combate de los grupos armados organizados.
