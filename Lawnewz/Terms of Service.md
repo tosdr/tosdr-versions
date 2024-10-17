@@ -293,21 +293,21 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Left to right: Jack Smith, Tanya Chutkan, Donald Trump](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Smith-Chutkan-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/jan-6-judge-says-trump-could-share-responsibility-for-criminal-actions-of-capitol-rioters-even-without-his-express-encouragement/)
+1. [![Donald Trump, on the left; Fani Willis, on the right](https://am21.mediaite.com/lc/cnt/uploads/2024/06/DT-FW-432x243.jpg)](https://lawandcrime.com/high-profile/clearly-alleged-the-underlying-facts-da-fani-willis-insists-trump-rico-trial-judge-erred-urges-appeals-court-to-act/)
     
-    ### [Jan. 6 judge says Trump 'could share responsibility' for 'criminal actions' of Capitol rioters even without his 'express' encouragement](https://lawandcrime.com/high-profile/jan-6-judge-says-trump-could-share-responsibility-for-criminal-actions-of-capitol-rioters-even-without-his-express-encouragement/)
+    ### ['Clearly alleged the underlying facts': DA Fani Willis insists Trump RICO trial judge 'erred,' urges appeals court to act](https://lawandcrime.com/high-profile/clearly-alleged-the-underlying-facts-da-fani-willis-insists-trump-rico-trial-judge-erred-urges-appeals-court-to-act/)
     
-2. [![Left: A picture of what is described as a ](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Matthew-Kacsmaryk-pill-packing-party-432x243.jpg)](https://lawandcrime.com/high-profile/new-complaint-challenging-mail-order-abortion-drug-economy-lands-before-texas-judge-whose-mifepristone-ban-was-reversed-by-scotus/)
+2. [![Top inset: Sheila Wallace (Dignity Memorial). Bottom inset: DaJuan Evans (Cuyahoga County Sheriff's Department). Background: The park in Ohio where Wallace was killed (WKYC).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/ohiomurder-432x243.jpg)](https://lawandcrime.com/crime/man-who-murdered-an-innocent-grandmother-while-she-walked-her-dog-in-a-park-learns-his-fate/)
     
-    ### [New complaint challenging 'mail order abortion drug economy' lands before Texas judge whose mifepristone ban was reversed by SCOTUS](https://lawandcrime.com/high-profile/new-complaint-challenging-mail-order-abortion-drug-economy-lands-before-texas-judge-whose-mifepristone-ban-was-reversed-by-scotus/)
+    ### [Man who murdered an innocent grandmother while she walked her dog in a park learns his fate](https://lawandcrime.com/crime/man-who-murdered-an-innocent-grandmother-while-she-walked-her-dog-in-a-park-learns-his-fate/)
     
-3. [![Justin Stephens and Central High School](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Justin-Stephens-and-Central-High-School-432x243.jpg)](https://lawandcrime.com/crime/man-posed-as-15-year-old-girls-father-so-he-could-pick-her-up-from-school-take-her-to-abandoned-house-cops/)
+3. [![Inset: Vem Miller (News Nation). Background: Donald Trump speaking at his campaign rally in Coachella, California (Forbes).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/asdfasdf-2-432x243.jpg)](https://lawandcrime.com/high-profile/sheriff-fabricated-allegations-of-third-assassination-attempt-on-trump-so-he-could-seem-heroic-in-arresting-staunch-trump-supporter-lawsuit/)
     
-    ### [Man posed as 15-year-old girl's father so he could pick her up from school, take her to abandoned house: Cops](https://lawandcrime.com/crime/man-posed-as-15-year-old-girls-father-so-he-could-pick-her-up-from-school-take-her-to-abandoned-house-cops/)
+    ### [Sheriff 'fabricated allegations' of third assassination attempt on Trump so he could seem 'heroic' in arresting 'staunch' Trump supporter: Lawsuit](https://lawandcrime.com/high-profile/sheriff-fabricated-allegations-of-third-assassination-attempt-on-trump-so-he-could-seem-heroic-in-arresting-staunch-trump-supporter-lawsuit/)
     
-4. [![Matthew Johnson, Jennifer Gledhill](https://am22.mediaite.com/lc/cnt/uploads/2024/10/missing-432x243.jpg)](https://lawandcrime.com/crime/slid-him-down-the-stairs-lover-rats-out-national-guardsmans-estranged-wife-who-murdered-him-as-he-slept-da-says/)
+4. [![Sole Bros 513 burglary](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Sole-Bros-513-burglary-432x243.jpg)](https://lawandcrime.com/crime/someone-knows-the-drunk-dude-thieves-steal-100-right-footed-shoes-from-store-causing-50k-in-damage-cops-say/)
     
-    ### ['Slid him down the stairs': Lover rats out National Guardsman's estranged wife who murdered him as he slept, DA says](https://lawandcrime.com/crime/slid-him-down-the-stairs-lover-rats-out-national-guardsmans-estranged-wife-who-murdered-him-as-he-slept-da-says/)
+    ### ['Someone knows the drunk dude': Thieves steal 100 right-footed shoes from store, causing $50K in damage, cops say](https://lawandcrime.com/crime/someone-knows-the-drunk-dude-thieves-steal-100-right-footed-shoes-from-store-causing-50k-in-damage-cops-say/)
     
 5. [![Giovanni Aldama Garcia mugshot and Trooper](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Giovanni-Aldama-Garcia-mugshot-and-Trooper-432x243.jpg)](https://lawandcrime.com/crime/owner-tied-trembling-dog-to-fence-in-rising-waters-of-hurricane-milton-because-he-couldnt-find-anyone-to-pick-the-dog-up-cops/)
     
