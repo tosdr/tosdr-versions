@@ -720,6 +720,15 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![mature student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/GettyImages-1479512006-150x150.jpg.optimal.jpg)](https://www.futurelearn.com/info/blog/diphe-guide)
+    
+    [The complete guide to a diploma of higher education (DipHE)](https://www.futurelearn.com/info/blog/diphe-guide)
+    ----------------------------------------------------------------------------------------------------------------
+    
+    Discover how a diploma of higher education could propel your career forward, and get tips …
+    
+    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
+    
 * [![woman on ipad](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/GettyImages-1552881556-150x150.jpg.optimal.jpg)](https://www.futurelearn.com/info/blog/impact-of-ai-on-job-roles)
     
     [How does the future of AI integration impact those looking for their next role or degree?](https://www.futurelearn.com/info/blog/impact-of-ai-on-job-roles)
@@ -746,15 +755,6 @@ Powered By
     Discover everything you need to know about public health master's degrees and the career opportunities …
     
     Category: [Degrees](https://www.futurelearn.com/info/faq/degrees), [Healthcare & Medicine](https://www.futurelearn.com/info/healthcare-medicine)
-    
-* [![university student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-93-150x150.png)](https://www.futurelearn.com/info/blog/highest-paying-postgraduate-certificates)
-    
-    [10 highest paying postgraduate certificates](https://www.futurelearn.com/info/blog/highest-paying-postgraduate-certificates)
-    -----------------------------------------------------------------------------------------------------------------------------
-    
-    Wondering which postgraduate certificates will lead to the highest paid careers? Keep reading to discover …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
