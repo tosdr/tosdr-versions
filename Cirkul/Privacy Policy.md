@@ -616,4 +616,4 @@ By signing up, you agree to receive Cirkul news and offers via email.
 
 Exclusive flavors, limited supply. Get ‘em before they're gone.
 
-[Take Me There](https://drinkcirkul.com/pages/flvr-lab) [Take Me There](https://drinkcirkul.com/pages/flvr-lab)
+[Buy Now](https://drinkcirkul.com/pages/flvr-lab) [Shop Now](https://drinkcirkul.com/pages/flvr-lab)
