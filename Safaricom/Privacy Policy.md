@@ -146,6 +146,18 @@ out of 5 based on
 
 > Oct 17, 2024
 
+> Anja has been extremely helpful and…
+
+> Anja has been extremely helpful and communicative through the process of booking our trip. Everything has been communicated clearly and quickly with lots of flexibility. I would definitely recommend. Thank you for your help!
+
+AG
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 17, 2024
+
 > Mel is friendly and patient
 
 > I would usually book my trips myself. Lucky for me I sent off an enquiry to Safari.com and received Mel's wonderful help. Mel responded quickly and made me feel comfortable with Safari.com. organising my trip. Later on, when I realised my dates didn't work with the rest of my trip, Mel gave me my options and costings and rebooked for me. Mel was very patient and friendly. I wouldn't hesitate to use Mel again.
@@ -253,20 +265,6 @@ Henry
 ,
 
 AU
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 9, 2024
-
-> Mel was a wonderful way to book my trip…
-
-> Mel was a wonderful way to book my trip on safari.com.
-
-Diana Gray
-
-,
-
-US
 
 VIP service
 
