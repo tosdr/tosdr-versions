@@ -44,15 +44,13 @@ If you think someone is abusing our work and our trust, please, **[do let us kn
 With thanks,  
 The DAREBEE team
 
-[![](/images/promo/alerts/help.gif)](https://darebee.com/support.html)
-
 [![How Does DAREBEE Work](/images/promo/verylow.gif "How Does DAREBEE Work")](https://darebee.com/support.html "How Does DAREBEE Work")
 
 * * *
 
 Funding Level
 
-23%
+24%
 
 [What Does This Mean?](https://darebee.com/funding.html)
 
