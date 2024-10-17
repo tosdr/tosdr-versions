@@ -20,7 +20,7 @@
 * [About](https://www.interpublic.com/about/ "About")
     * [Leadership](https://www.interpublic.com/about/leadership/ "Leadership")
     * [Board of Directors](https://www.interpublic.com/about/leadership#board-of-directors "Board of Directors")
-    * [Open Architecture](https://www.interpublic.com/about/open-architecture/ "Open Architecture")
+    * [Interact](https://www.interpublic.com/about/interact/ "Interact")
     * [Collective Intelligence](https://www.interpublic.com/about/collective-intelligence/ "Collective Intelligence")
     * [Corporate Governance](https://www.interpublic.com/about/corporate-governance/ "Corporate Governance")
     * [Supplier Management](https://www.interpublic.com/about/supplier-management/ "Supplier Management")
