@@ -140,8 +140,9 @@ MSX Music player
 
 Latest reactions
 
-* [Ankje Kalkwiek passed away at 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at 77")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
+* [Ankje Kalkwiek passed away at 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at 77")
+* [HCC MSX, the next generation](https://www.msx.org/photoshoots/bussum-2007/hcc-msx-next-generation "HCC MSX, the next generation")
 * [XPLA V3.0 & ADXP V5.0 by Mstz80ax](https://www.msx.org/news/software/en/xpla-v30-adxp-v50-by-mstz80ax "XPLA V3.0 & ADXP V5.0 by Mstz80ax")
 * [Godzilla Balls by Paxanga Soft](https://www.msx.org/news/en/godzilla-balls "Godzilla Balls by Paxanga Soft")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
@@ -149,23 +150,22 @@ Latest reactions
 * [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
-* [Tiny Magic update, new batch and soundtrack CD](https://www.msx.org/news/software/en/tiny-magic-update "Tiny Magic update, new batch and soundtrack CD")
 
 Latest forum posts
 
-* [carnivore 2 problem](https://www.msx.org/forum/msx-talk/hardware/carnivore-2-problem?page=1 "carnivore 2 problem")
-* [Omega MSX No Video Signal](https://www.msx.org/forum/msx-talk/hardware/omega-msx-no-video-signal "Omega MSX No Video Signal")
-* [Question about INT pin for the TMS9918](https://www.msx.org/forum/msx-talk/hardware/question-about-int-pin-for-the-tms9918 "Question about INT pin for the TMS9918")
-* [Arkos Tracker 3!](https://www.msx.org/forum/msx-talk/software/arkos-tracker-3 "Arkos Tracker 3!")
-* [MI - Mapper Info ver.1.2](https://www.msx.org/forum/msx-talk/software/mi-mapper-info-ver12 "MI - Mapper Info ver.1.2")
-* [Recommendation for RGB acquisition card](https://www.msx.org/forum/msx-talk/general-discussion/recommendation-for-rgb-acquisition-card "Recommendation for RGB acquisition card")
 * [Arkanoid pad](https://www.msx.org/forum/semi-msx-talk/emulation/arkanoid-pad?page=5 "Arkanoid pad")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=61 "List of undumped MSX software (PLEASE HELP!)")
-* [F4/FMPAC V2.0 for Omega amp circuit not working](https://www.msx.org/forum/msx-talk/hardware/f4fmpac-for-omega-amp-circuit-not-working "F4/FMPAC V2.0 for Omega amp circuit not working")
-* [Aleste 2 tips?](https://www.msx.org/forum/msx-talk/software/aleste-2-tips "Aleste 2 tips?")
+* [Arkos Tracker 3!](https://www.msx.org/forum/msx-talk/software/arkos-tracker-3?page=1 "Arkos Tracker 3!")
+* [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=30 "A new MSX (3?) for 2022 ?")
+* [Aleste 2 tips?](https://www.msx.org/forum/msx-talk/software/aleste-2-tips?page=1 "Aleste 2 tips?")
+* [carnivore 2 problem](https://www.msx.org/forum/msx-talk/hardware/carnivore-2-problem?page=1 "carnivore 2 problem")
+* [MI - Mapper Info ver.1.2](https://www.msx.org/forum/msx-talk/software/mi-mapper-info-ver12 "MI - Mapper Info ver.1.2")
+* [Recommendation for RGB acquisition card](https://www.msx.org/forum/msx-talk/general-discussion/recommendation-for-rgb-acquisition-card "Recommendation for RGB acquisition card")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=122 "Please help testing upcoming openMSX release!")
-* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=15 "Full English translation of Illusion City for MSX Turbo-R")
-* [MSX0 Discussion](https://www.msx.org/forum/msx-talk/hardware/msx0-discussion "MSX0 Discussion")
+* [Robot Wars](https://www.msx.org/forum/msx-talk/general-discussion/robot-wars "Robot Wars")
+* [Question about INT pin for the TMS9918](https://www.msx.org/forum/msx-talk/hardware/question-about-int-pin-for-the-tms9918 "Question about INT pin for the TMS9918")
+* [Omega MSX No Video Signal](https://www.msx.org/forum/msx-talk/hardware/omega-msx-no-video-signal "Omega MSX No Video Signal")
+* [F4/FMPAC V2.0 for Omega amp circuit not working](https://www.msx.org/forum/msx-talk/hardware/f4fmpac-for-omega-amp-circuit-not-working "F4/FMPAC V2.0 for Omega amp circuit not working")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
