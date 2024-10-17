@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 176 utilisateurs actifs
+##### 728 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Souris par abonnement : Logitech renonce à son idée de "souris éternelle" (pour le moment)](https://lecrabeinfo.net/souris-par-abonnement-logitech-renonce-a-son-idee-de-souris-eternelle-pour-le-moment.html)
 * [Windows 11 24H2 provoque des écrans bleus (BSOD) avec les SSD Western Digital](https://lecrabeinfo.net/windows-11-24h2-provoque-des-ecrans-bleus-bsod-avec-les-ssd-western-digital.html)
 * [Téléchargez les wallpapers du 10ᵉ anniversaire de Windows Insider !](https://lecrabeinfo.net/telecharger-les-wallpapers-du-10%e1%b5%89-anniversaire-de-windows-insider.html)
-* [Windows 11 : Microsoft brise la limite de 32 Go pour le FAT32 (qui passe à 2 To)](https://lecrabeinfo.net/windows-11-microsoft-brise-la-limite-de-32-go-pour-le-fat32-qui-passe-a-2-to.html)
 
 ### Tendance
 
@@ -152,9 +152,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 752 membres
-* 924 articles
-* 26 727 commentaires
+* 67 753 membres
+* 925 articles
+* 26 731 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
