@@ -174,9 +174,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Mastering GDPR consent: A marketer's guide to simplifying compliance](https://www.onetrust.com/resources/mastering-gdpr-consent-a-marketers-guide-to-simplifying-compliance-ebook/)
+* [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
 * [California's approach to AI: Unpacking new legislation](https://www.onetrust.com/resources/californias-approach-to-ai-unpacking-new-legislation-webinar/)
-* [Explore the future of regulatory intelligence: A DataGuidance demo](https://www.onetrust.com/resources/explore-the-future-of-regulatory-intelligence-a-dataguidance-demo-webinar/)
-* [Getting Ready for the EU AI Act, Phase 1: Discover & Catalog, The Gartner® Report​](https://www.onetrust.com/resources/getting-ready-for-the-eu-ai-act-phase-1-discover-and-catalog-the-gartner-report/)
 
 ### Platform
 
