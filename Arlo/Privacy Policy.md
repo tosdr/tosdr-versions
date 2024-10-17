@@ -779,7 +779,7 @@ Shop
 Company
 
 * [About](https://www.arlo.com/en-us/about-us.html "About")
-* [Careers](https://phg.tbe.taleo.net/phg01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=NETGINC "Careers")
+* [Careers](https://arlo.wd12.myworkdayjobs.com/External_Careers "Careers")
 * [Press](https://www.arlo.com/en-us/press "Press")
 * [Investors](https://investor.arlo.com/ir-home/default.aspx?_ga=2.204980243.224639671.1597249064-409905777.1581429739 "Investors")
 * [Caught on Arlo](https://www.arlo.com/en-us/video/submit.aspx "Caught on Arlo")
@@ -817,7 +817,7 @@ Shop
 Company
 
 * [About](https://www.arlo.com/en-us/about-us.html "About")
-* [Careers](https://phg.tbe.taleo.net/phg01/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=37&org=NETGINC "Careers")
+* [Careers](https://arlo.wd12.myworkdayjobs.com/External_Careers "Careers")
 * [Press](https://www.arlo.com/en-us/press "Press")
 * [Investors](https://investor.arlo.com/ir-home/default.aspx?_ga=2.204980243.224639671.1597249064-409905777.1581429739 "Investors")
 * [Caught on Arlo](https://www.arlo.com/en-us/video/submit.aspx "Caught on Arlo")
