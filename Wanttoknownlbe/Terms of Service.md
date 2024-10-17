@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/kalfjes-doen-niet-aan-zelf-suggestie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinatie-industrie-gevrijwaard-van-schadeclaims/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
