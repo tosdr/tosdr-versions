@@ -31,1074 +31,924 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-¿Cuándo vuelve a jugar la Selección de Ecuador eliminatorias?
-=============================================================
+Inés Manzano se pronunció sobre una mejoría en el embalse de Mazar
+==================================================================
 
-La Selección de Ecuador tendrá la última doble fecha de eliminatorias al Mundial 2026 en noviembre.
----------------------------------------------------------------------------------------------------
+Inés Manzano dijo que el embalse de Mazar aumenta de metro cúbico en metro cúbico.
+----------------------------------------------------------------------------------
 
-![Jugadores de la Selección de Ecuador en el estadio Centenario de Montevideo en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_noviembre_1.jpg)
+![Inés Manzano habló sobre el estado del embalse de Mazar.](https://www.elcomercio.com/wp-content/uploads/2024/10/Mazar.jpg)
 
-La **Selección de Ecuador** cerró la doble fecha de eliminatorias al Mundial 2022 con dos empates, uno de local en Quito ante Paraguay, y otro de visitante en Montevideo ante Uruguay.
+Inés Manzano, ministra de Energía encargada, se pronunció sobre una **mejoría** en embalse de **Mazar**, este miércoles 16 de octubre de 2024.
 
-Estos dos empates mantienen a la **Selección de Ecuador en el quinto puesto en la tabla de posiciones con 13 puntos** y aun dentro de los combinados que están logrando uno de los seis cupos directos a la siguiente Copa del Mundo.
-
-### Más noticias:
-
-* [La Selección de Ecuador rescató un punto ante Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-en-vivo-partido.html "La Selección de Ecuador rescató un punto ante Uruguay")
-* [Beccacece destacó el compromiso de la Selección de Ecuador ante Uruguay](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-compromiso-uruguay.html "Beccacece destacó el compromiso de la Selección de Ecuador ante Uruguay")
-* [Hernán Galíndez, la figura de la Selección de Ecuador ante Uruguay](https://www.elcomercio.com/deportes/seleccion-ecuador-hernan-galindez-uruguay.html "Hernán Galíndez, la figura de la Selección de Ecuador ante Uruguay")
-
-La tabla sigue comandada por Argentina con 22 puntos y verdugo de la sorprendente Bolivia a la que goleó por 6-0 en Buenos Aires con un triplete de Lionel Messi; **Colombia se encaramó a la segunda posición con 19**; Uruguay es tercera con 16; al igual que Brasil.
-
-El sexto puesto es para Paraguay con 13 unidades, **mientras que Bolivia descendió al séptimo con 12** y Venezuela se estancó en la octava posición con 11.
-
-Perú con 6, y Chile con 5, **son las dos selecciones con los peores resultados en estas 10 primeras** fechas, con tan solo una victoria cada una y prácticamente descartadas de la pelea por ir al Mundial.
-
-La siguiente doble fecha de eliminatorias será clave para empezar a definir las **posiciones de los equipos que se perfilan para ir al Mundial**, cuáles pelearán para el repechaje, y ver definitivamente quienes se quedarán al margen y lo verán por televisión.
-
-Ecuador cambia de localía
--------------------------
-
-En la fecha 11 y 12 la Tri abandona la altura de Quito y tendrá que jugador sus dos partidos en el calor de la la Costa ecuatoriana y colombiana.
-
-El jueves 14 de noviembre recibirá a **Bolivia en el estadio Monumental de Barcelona Sporting Club**, desde las 19:00, en lo que será el retorno del combinado nacional a Guayaquil luego del empate 1-1 con Argentina en el camino a Catar 2022.
-
-La noche de ese 29 de marzo anotaron **Enner Valencia y Julián Álvarez ante más de 59 000 personas** que coparon por completo el Monumental, en medio de los festejos por haber logrado la clasificación a la cuarta Copa del Mundo.
-
-El martes **19 viajará a Barranquilla para visitar a Colombia en el Metropolitano**. Originalmente, el duelo estaba pactado para las 15:30, pero finalmente se jugará a las 18:00 en la calurosa ‘arenosa’.
-
-La última visita tricolor se **saldó con un empate 0-0**, un punto valioso para la clasificación a Catar 2022.
-
-![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_noviembre_2-1024x683.jpg)
-
-Foto: Diego Pallero / EL COMERCIO.
-
-Eliminatorias sudamericanas
----------------------------
-
-### Fecha 11: 14/11
-
-19:00 Ecuador vs. Bolivia
-
-Estadio: Monumental de Guayaquil
-
-### Fecha 12: 19/11
-
-18:00 Colombia vs. Ecuador
-
-Estadio: Metropolitano de Barranquilla
-
-No te pierdas – El Confesionario
---------------------------------
-
-Hinchas ecuatorianos, ¿desencantados con la Selección de Ecuador?
-=================================================================
-
-¿Hay un quiebre entre la afición y la Selección de Ecuador? ¿Por qué los partidos en casa ya no se viven con la misma intensidad que antes?
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de la Selección de Ecuador, con la hinchada de fondo, en el partido contra Paraguay en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T140522.356.jpg)
-
-Atrás quedaron los **míticos escenarios del Estadio Olímpico Atahualpa**, repletos de aficionados vestidos de amarillo ondeando banderas para alentar a la Selección de Ecuador. Aunque la gente sigue acudiendo al nuevo estadio, parece que la esencia de antaño se ha perdido.
+Manzano evalúa de forma permanente el estado de Mazar, fundamental para la generación eléctrica del país.
 
 ### Más noticias:
 
-* [Piero Hincapié cumplió un sueño de niño con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/piero-hincapie-capitan-seleccion-ecuador.html "Piero Hincapié cumplió un sueño de niño con la Selección de Ecuador")
-* [Leonardo Campana jugó media hora en su vuelta a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-jugo-media-hora-en-su-vuelta-seleccion-de-ecuador.html "Leonardo Campana jugó media hora en su vuelta a la Selección de Ecuador")
-* [La Selección de Ecuador sigue siendo fuerte en Quito](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-localia-quito-puntos.html "La Selección de Ecuador sigue siendo fuerte en Quito")
+* [Los embalses de Mazar y Paute tienen una mejoría](https://www.elcomercio.com/actualidad/negocios/embalses-mazar-paute-tienen-leve-mejoria.html "Los embalses de Mazar y Paute tienen una mejoría")
+* [¿Qué pasó con Mazar con las lluvias registradas en Cuenca?](https://www.elcomercio.com/actualidad/negocios/mazar-lluvias-registradas-cuenca.html "¿Qué pasó con Mazar con las lluvias registradas en Cuenca?")
 
-¿La hinchada ya no alienta como antes?
---------------------------------------
+El embalse de Mazar se tornó en la principal preocupación de las autoridades del sector eléctrico.
 
-En el último duelo de la Selección de Ecuador como local, ante Paraguay en el Estadio Rodrigo Paz Delgado, el r**ecinto estuvo casi lleno**, con alrededor de 30,000 personas apoyando al equipo. Sin embargo, los asientos vacíos visibles durante la transmisión se debieron a una sanción que limitó el aforo al 15% menos de lo permitido, además de algunos boletos que no se vendieron.
+El 10 de octubre llegó a su nivel más bajo y se ubicó en los 2 112,6 metros sobre el nivel. Es decir, tres metros menos que la cota de riesgo considerada por los técnicos.
 
-Las secciones generales, tanto sur como norte, estaban a punto de estallar.
+Desde entonces existe una lenta recuperación por el aumento leve en los caudales y porque la reducción en la generación hasta la paralización ordenada por el **Cenace**.
 
-![Aficionados de Ecuador en la previa del partido ante Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-10T153031.802-1024x683.jpg)
+A las 10:00 de este lunes 14 de octubre se ubica en los 2 114,62 metros sobre el nivel del mar. Eso significa que subió un metro si se compara con la víspera y 1,50 con respecto al viernes 11.
 
-Aficionados de Ecuador en la previa del partido ante Paraguay. Foto: Diego Pallero / EL COMERCIO
+El caudal de ingreso al embalse de Mazar pasó de 3,2 metros cúbicos por segundo en promedio, el martes 8 de octubre, a 37,2 en promedio, este lunes 14.
 
-A pesar de la buena asistencia, **la atmósfera fue diferente**. Los gritos de apoyo fueron opacos; apenas se corearon algunas canciones, y las pocas veces que el estadio estalló fue cuando algunos jugadores fueron reemplazados.
+Pronunciamiento de Inés Manzano sobre mejoría en Mazar
+------------------------------------------------------
 
-Esto contrasta con los inicios del siglo XXI, cuando en el ‘Coloso del Batán’ resonaban cánticos como **“¡Sí se puede!”, o “¡Que se pare Ecuador!”,** con frecuencia.
+La ministra de Energía y Minas (e), **Inés Manzano**, se pronunció sobre el estado del embalse de Mazar.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T140120.106-1024x683.jpg)
+La funcionaria se refirió a un reporte de la Corporación Eléctrica del Ecuador (Celec), en radio Democracia.
 
-Aficionados ecuatorianos en un partido de las eliminatorias del Mundial 2006. Foto: Archivo / EL COMERCIO
+En el documento se señala que, este miércoles 16 de octubre, a las 08:00, la cota se ubicó en 2 116,68 metros sobre el nivel del mar y, a las 15:00, subió a 2 116,88.
 
-Aunque se juega en casa, **la energía ya no es la misma**, a diferencia de otras selecciones que pintan sus estadios, como Argentina y Colombia, o Ecuador en años pasados.
+“**Vamos aumentando de centímetro cúbico en centímetro cúbico, pero contentísimos… Estamos a 37 metros de llegar a la cota máxima**”, dijo.
 
-Las razones de este desencanto pueden incluir a las nuevas generaciones de aficionados, los precios altos de las entradas, la ubicación del nuevo estadio, que está más alejado de la capital y no tan céntrico, o simplemente que la **‘Tri’ ya no genera la misma empatía** que en el pasado.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T140129.739-1024x683.jpg)
-
-Bandera gigante de Ecuador en un partido de las eliminatorias al Mundial 2018. Foto: Archivo / EL COMERCIO
-
-Inclusive, Gonzalo Plata comentó tras el partido contra Uruguay que en **Guayaquil se alienta más a la selección que en Quito**, haciendo referencia a la reciente experiencia en el partido contra Paraguay.
-
-En números, la afición sí responde
-----------------------------------
-
-Según datos de Transfermarkt, el promedio de asistencia de la Selección de Ecuador en los tres partidos de local en 2023 por eliminatorias al Mundial 2026 en el Rodrigo Paz Delgado fue de **37,062 espectadores.**
-
-El encuentro ante Colombia (0-0) del 17 de noviembre fue el de mayor asistencia, con 38,702 espectadores; seguido por el partido contra Chile (1-0) con 36,873; y el encuentro contra Uruguay (2-1) que reunió a **35,613 hinchas.**
-
-No existen datos oficiales de la cantidad de personas que asistieron a los encuentros de 2024 contra Perú (1-0) y Paraguay (0-0), aunque sí fue evidente que hubo espacios vacíos en la mayoría de las localidades.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T135719.563-1024x683.jpg)
-
-En las eliminatorias hacia Catar 2022, la ‘Tri’ jugó dos partidos en el Estadio Monumental de Barcelona SC. Ante Bolivia (3-0), se acercaron 16,000 espectadores, mientras que contra Argentina (1-1) se vendió todo el boletaje, con una asistencia de **59,000 hinchas.**
-
-El promedio de estas dos asistencias fue de 37,500, lo que muestra que la cantidad de hinchas en Quito y Guayaquil es prácticamente la misma. Esto demuestra que **la gente va al estadio e, incluso en ocasiones, lo llena, pero dentro del partido, el sentimiento es diferente**.
-
-Piero Hincapié cumplió un sueño de niño con la Selección de Ecuador
-===================================================================
-
-Piero Hincapié debutó con la Selección de Ecuador en la Copa América Brasil 2021. Gustavo Alfaro era el DT.
------------------------------------------------------------------------------------------------------------
-
-![Piero Hincapié con la cinta de capitán de la Selección de Ecuador en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/hincapie_capitan_1.jpg)
-
-**Piero Hincapié** rozó la perfección en el partido que la Selección de Ecuador jugó ante la de Uruguay en la décima fecha de las eliminatorias al Mundial 2026, la noche del martes 15 de octubre de 2024 en Montevideo.
-
-Con **Piero Hincapié como capitán**, la Selección de Ecuador logró un luchado y sufrido empate 0-0 ante Uruguay, con lo que se mantiene en la zona de clasificación directa al Mundial 2026 a ocho fechas de completar el calendario.
-
-### Más noticias:
-
-* [Keny Arroyo, la gran sorpresa de Beccacece ante Uruguay](https://www.elcomercio.com/deportes/futbol/keny-arroyo-la-gran-sorpresa-de-beccacece-ante-uruguay.html "Keny Arroyo, la gran sorpresa de Beccacece ante Uruguay")
-* [Los líderes y capitanes de Sebastián Beccacece en la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/lideres-capitanes-sebastian-beccacece-seleccion-de-ecuador.html "Los líderes y capitanes de Sebastián Beccacece en la Selección de Ecuador")
-* [Moisés Caicedo jugó su partido 50 y fue suspendido](https://www.elcomercio.com/deportes/futbol/moises-caicedo-seleccion-ecuador-partidos.html "Moisés Caicedo jugó su partido 50 y fue suspendido")
-
-En la tabla de posiciones **Ecuador mantiene el quinto puesto con 13 putos** y un gol diferencia positivo de +2. La campaña del equipo nacional se resumen en cuatro victorias, cuatro empates y tan solo dos derrotas contra Argentina y Brasil de visitante.
-
-Para Hincapié, **jugador del Bayer Leverkusen con pasado en Talleres de Argentina** e Independiente del Valle, ante los ‘charrúas’ jugó el partido 41 con la camiseta tricolor. Esta cifra la consiguió con apenas 22 años.
-
-Con el mítico Centenario como escenario, el nacido en Esmeraldas, lu**ció por primera vez la citan de capitán de la Selección de Ecuador**. Lo hizo durante los 90 minutos y no defraudo a la hora de defender los ataques de la ‘celeste’.
-
-Antes la portaron Pervis Estupiñán, Moisés Caicedo y Enner Valencia, en un sistema de rotación impuesta por el entrenador Sebastián Beccacece.
-
-![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/hincapie_capitan_3-1024x683.jpg)
-
-Foto: Instagram del futbolista.
-
-Hincapié se emocionó por la capitanía
--------------------------------------
-
-Concretado el empate, **Piero Hincapié utilizó su cuenta oficial de Instagram** para expresar la emoción y el compromiso que le produjo haber tenido la responsabilidad de ser el capitán, un encargo que le entregaron sus compañeros y Beccacece.
-
-Fiel a su creencia religiosa, el defensa central hizo un agradecimiento a Dios, luego destacó lo complicado que fue sumar en Montevideo ante una selección que se caracteriza por ser arrolladora en casa.
-
-“(…) **recalcar la entrega y el compromiso del grupo**, un resultado positivo para nuestro camino”, agregó el deportista que en el curso 2023/24 se proclamó campeón de la Bundesliga y la Copa de Alemania con el Leverkusen.
-
-“(…) un orgullo llevar la cinta de capitán, es un sueño hecho realidad, **es lo que todo niño anhela cuando se inicia** en este mundo hermoso que es el fútbol. Me comprometo a sudarla y hacerla respetar”, sentenció el joven defensa.
-
-Gustavo Alfaro fue el encargado de hacer debutar a Hincapié en la selección absoluta. Lo **citó para la Copa América Brasil 2021** y saltó a la cancha con 19 años, cinco meses y cinco días en la derrota 1-0 contra Colombia.
-
-En sus **41 presencias con la tricolor tiene el récord de haber completado los 90 minutos** en 40. Solo en un amistosos ante Bolivia en el 2023, entró al cambio y disputó 32 minutos.
-
-En la Copa América del debut fue expulsado a los 90 minutos ante Argentina, pero también se puede anotar que estuvo en cancha durante todo el tiempo reglamentario.
-
-![Foto: Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/10/hincapie_capitan_2-1024x683.jpg)
-
-Foto: Instagram del futbolista.
-
-No te pierdas – El Confesionario
---------------------------------
-
-BID aprueba un préstamo a Ecuador para combatir el crimen
-=========================================================
-
-El BID aprobó un préstamo histórico de 150 millones de dólares para Ecuador, con el objetivo de fortalecer medidas preventivas contra el crimen organizado.
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El nuevo préstamo del BID será de 150 millones de dólares. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/dinero-1.jpg)
-
-El Banco Interamericano de Desarrollo (BID) aprobó un nuevo préstamo para apoyar a Ecuador. El nuevo crédito busca fortalecer las **medidas preventivas** contra el **crimen organizado** y la reducción de su impunidad[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [FMI reducirá el costo de sus créditos para los países más endeudados](https://www.elcomercio.com/actualidad/negocios/fmi-reducira-costo-creditos-paises-endeudados.html "FMI reducirá el costo de sus créditos para los países más endeudados")
-* [El BID aprueba nuevo préstamo para Ecuador](https://www.elcomercio.com/actualidad/negocios/bid-aprueba-nuevo-prestamo-ecuador-creditos.html "El BID aprueba nuevo préstamo para Ecuador")
-* [Ecuador y Japón acuerdan préstamo para proyecto geotérmico en Chachimbiro](https://www.elcomercio.com/actualidad/negocios/ecuador-y-japon-acuerdan-prestamo-para-proyecto-geotermico-en-chachimbiro.html "Ecuador y Japón acuerdan préstamo para proyecto geotérmico en Chachimbiro")
-
-El **BID** informó este 16 de octubre de 2024 que se aprobó un préstamo sin precedentes para Ecuador. El monto es de 150 millones de dólares y una donación de 5 millones. El objetivo es apoyar al país en la **implementación de medidas preventivas** y de **seguridad** frente al crimen organizado.
-
-Esta es la primera vez que un programa del BID se enfoca específicamente en los desafíos que presenta la **delincuencia organizada**. Además, tiene un enfoque integral que incluye **prevención, fortalecimiento institucional** y mejora en la capacidad de **investigación**.
-
-Reducción de la violencia y la impunidad
-----------------------------------------
-
-El Programa de Prevención y Respuesta a la Violencia y la Criminalidad en Ecuador (Previc) tiene como objetivo principal reducir la **violencia y la impunidad**. Así como mejorar la atención a las poblaciones más vulnerables.
-
-**Ilan Goldfajn**, presidente del BID, señaló que “el nivel actual de sofisticación del crimen organizado requiere un enfoque regional innovador. Este programa en Ecuador es un ejemplo de cómo se puede abordar la seguridad de manera multisectorial, combinando prevención social, investigación criminal y fortalecimiento de la gobernanza de seguridad”.
-
-El programa está estructurado en tres componentes clave. El primero se enfoca en la prevención del crimen en territorios de alta incidencia. Esto con especial atención en **adolescentes y jóvenes** en riesgo de ser reclutados por grupos delictivos.
-
-El segundo componente busca **fortalecer las capacidades** de la Policía del Ecuador y otras entidades para investigar delitos como lavado de activos, homicidios y extorsiones. Esto con el apoyo de tecnologías avanzadas y centros especializados.
-
-El tercer componente se centra en mejorar la coordinación entre el **Ministerio del Interior y los Gobiernos Autónomos Descentralizados**. Con el objeto de implementar estrategias de seguridad ciudadana participativas, basadas en datos.
-
-Este esfuerzo conjunto entre el **BID y Ecuador** representa un paso significativo en la lucha contra la creciente violencia y se alinea con los objetivos de la Alianza para la Seguridad, la Justicia y el Desarrollo, presentada en agosto de este año.
-
-El préstamo de 150 millones de dólares del BID tiene un plazo de amortización de 25 años. Además, tiene un período de gracia de cinco años y medio, una tasa de interés basada en SOFR. El Programa se complementa con 5 millones de dóalres no reembolsables del Fondo Especial de Donaciones del BID.
-
-Cortes de luz tendrán nuevos horarios las próximas tres semanas
-===============================================================
-
-El anuncio lo hizo el presidente Daniel Noboa en una visita a la obra vial Manta-Rocafuerte, que ya tiene el 87% de avance
---------------------------------------------------------------------------------------------------------------------------
-
-![El presidente acudió a constatar el avance de la obra en la vía Manta-Rocafuerte.](https://www.elcomercio.com/wp-content/uploads/2024/10/Daniel-Noboa-Manabi.jpg)
-
-El presidente **Daniel Noboa** asistió este miércoles 16 de octubre a constatar el avance de la obra de rehabilitación de la vía Manta-Rocafuerte. Además, habló sobre los **cortes de luz.**
-
-### Más noticias
-
-* [Rafael Correa es convocado por la Fiscalía para el caso Traición a la Patria](https://www.elcomercio.com/actualidad/politica/rafael-correa-es-convocado-por-la-fiscalia-para-el-caso-traicion-a-la-patria.html "Rafael Correa es convocado por la Fiscalía para el caso Traición a la Patria")
-* [Gobierno entrega licencias ambientales para proyectos de energía renovable](https://www.elcomercio.com/actualidad/negocios/gobierno-entrega-licencias-ambientales-para-proyectos-de-energia-renovable.html "Gobierno entrega licencias ambientales para proyectos de energía renovable")
-* [Corte Constitucional aprueba propuesta de Daniel Noboa sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/corte-constitucional-aprueba-propuesta-de-daniel-noboa-sobre-bases-militares-extranjeras.html "Corte Constitucional aprueba propuesta de Daniel Noboa sobre bases militares extranjeras")
-
-La vía Manta-Rocafuerte
------------------------
-
-El **Ministerio de Transporte y Obras Públicas** reactivó la rehabilitación de la vía Manta-Rocafuerte, de 21,9 kilómetros, con un monto superior a 2,6 millones de dólares.
-
-Esta obra se trabaja de la mano de la Prefectura. Se busca **impulsar el comercio, el turismo** y la movilidad de la zona. La rehabilitación de esta vía **beneficia a más de 309 000 habitantes** de Jaramijó, Rocafuerte y Portoviejo.
-
-Según el ministro de Obras Públicas, Roberto Luque, la rehabilitación de esta vía **tiene un avance del 87% y ha generado 42 plazas** directas de empleo.
-
-El **presidente Noboa**, en su intervención**,** señaló que se impulsa el desarrollo desde los Ministerios, por ello se están reactivando obras [inconclusas](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa") o que estaban en abandono.
-
-Por ello, se trabaja en esta obra vial que brindará mayor seguridad vial y beneficiará a los negocios y terrenos agrícolas en Jaramijó, Montecristi, Rocafuerte y Portoviejo. Además, facilita el acceso de visitantes a los centros turísticos.
-
-Destacó que la rehabilitación de la vía **garantiza una infraestructura moderna** y segura, lo que es esencial para el crecimiento económico y la conectividad de las comunidades.
-
-Horarios de cortes de luz se anunciarán
----------------------------------------
-
-El Presidente añadió que **Ecuador atraviesa varias crisis**, como la climática y los ataques de grupos narcoterroristas, pero que las crisis se afrontan y se superan.
-
-Noboa anunció que en la noche **del jueves 17 de octubre** se darán a conocer los horarios de los racionamientos de luz eléctrica de las próximas tres semanas. También se comunicarán las medidas que el Gobierno está implementando para que los apagones terminen.
-
-> ¡Mejoramos la conectividad vial de Manabí! 🇪🇨👏  
->   
-> El presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) visitó la rehabilitación de la vía Manta – Rocafuerte, proyecto crucial que beneficia a más de 300 mil ciudadanos.  
->   
-> Esta obra de 21.9 kilómetros impulsará el comercio, transporte y turismo de esta… [pic.twitter.com/xyuUR0qv37](https://t.co/xyuUR0qv37)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 16, 2024](https://twitter.com/Presidencia_Ec/status/1846603912717259219?ref_src=twsrc%5Etfw)
-
-Donación de órganos se aborda en feria en Quito, ¿cómo es el proceso en Ecuador?
-================================================================================
-
-En Ecuador hay operativos relacionados con la donación y trasplante de órganos.
--------------------------------------------------------------------------------
-
-![Trasplantes de órganos se realizan en el sistema público.](https://www.elcomercio.com/wp-content/uploads/2024/10/organos.jpg)
-
-**Quito** será el punto de encuentro para la Gran Feria de la Salud. La **donación de órganos** es el eje central de este evento. En Ecuador hay varios servicios[.](https://es.wikipedia.org/wiki/Ecuador)
-
-El [Ministerio de Salud Pública](https://www.salud.gob.ec/ "https://www.salud.gob.ec/") desarrolla la propuesta para recordar el **Día Nacional de la Donación y Trasplante**. Esta es una fecha instaurada por la **Asamblea Nacional**.
-
-### Más noticias
-
-* [Superalimentos ecuatorianos ideales para una vida saludable](https://www.elcomercio.com/tendencias/salud/superalimentos-ecuador-dia-mundial-alimentacion.html "Superalimentos ecuatorianos ideales para una vida saludable ")
-* [¿Cómo funciona un centro de salud inclusivo para Infecciones de Transmisión Sexual en Quito?](https://www.elcomercio.com/tendencias/salud/como-funciona-un-centro-de-salud-inclusivo-para-infecciones-de-transmision-sexual-en-quito.html "¿Cómo funciona un centro de salud inclusivo para  Infecciones de Transmisión Sexual en Quito?")
-* [El lavado de manos es clave para la salud global](https://www.elcomercio.com/tendencias/salud/dia-mundial-lavado-manos-efemerides.html "El lavado de manos es clave para la salud global ")
-
-Donación de órganos en Ecuador
-------------------------------
-
-La feria se desarrollará el sábado, 19 de octubre de 2024, en la av. Naciones Unidas y Japón. El evento empezará a las 08:30. En el encuentro de **salud** habrá varios servicios: salud móvil, huertos medicinales  y medicina ancestral.
-
-A su vez, habrá actividades de salud ambiental, servicios del personal de la Secretaría Técnica Ecuador Crece sin desnutrición, así como del **Registro Civil**.
-
-Se sumará la atención para discapacidades y salud sexual y reproductiva para adolescentes. También habrá **inmunizaciones**.
-
-El **Día Nacional de la Donación y el Trasplante** se conmemora cada 14 de octubre. La **Asamblea Nacional** instituyó la fecha en 2016, con la meta de sensibilizar a la población sobre la vital importancia de mantener la condición de donante para salvar vidas.
-
-El panorama en Ecuador
-----------------------
-
-Entre noviembre de 2023 hasta este octubre de 2024, el Ministerio de Salud registró **651 trasplantes en el Sistema Nacional de Salud**.
-
-Según la institución, el Estado garantiza la cobertura de todos los procesos. En esa línea, **70 pacientes** han sido derivados a prestadores internacionales para trasplante pulmonar adulto y pediátrico.
-
-A la par constan procesos **hepático pediátrico**, intestinal de adulto y pediátrico y de células progenitoras, entre otros.
-
-De ese grupo, 38 intervenciones se dieron en el **Instituto Ecuatoriano de Seguridad Social (IESS)**, 31 en el Ministerio de Salud Pública y uno, en el Instituto de Seguridad Social de las Fuerzas Armadas (Issfa).
-
-Los trasplantes en el país
---------------------------
-
-Según el Registro Oficial de la Actividad de **Donación y Trasplante** en América Latina y el Caribe, Ecuador ocupa el cuarto lugar en la región en trasplantes por millón de habitantes.
-
-Eso quiere decir un **55,14 %**. En trasplantes de córneas, está en el tercer puesto, con un **35,08 %**, luego de Brasil y Uruguay.
-
-**Seis de cada 10 ecuatorianos** son donantes al momento de la cedulación. Hay que recordar que todos son candidatos a menos que, de forma expresa, lo plasmen a la hora de obtener el documento de identidad.
-
-Los procesos en Ecuador
------------------------
-
-En Ecuador, el **Instituto Nacional de Donación y Trasplante de Órganos, Tejidos y Células** [(Indot)](http://www.donaciontrasplante.gob.ec/indot/) articula operativos con la red pública y privada complementaria. (RPC). También participan la Policía Nacional, Fuerzas Armadas, ECU 911, Registro Civil, ente otras instancias.
-
-El país cuenta con **84 establecimientos** de salud y servicios de apoyo acreditados para el proceso de donación y trasplante.
-
-Paso a paso de un operativo de donación y trasplante:
-
-1.  **Identificación** **de potenciales donantes:** los hospitales tienen protocolos para identificar a pacientes, especialmente, aquellos que se encuentran en estado crítico o que han sido declarados con muerte cerebral, así como los fallecidos por para cardíaca que cumplan con los criterios para ser donantes.
-2. **Evaluación médica:** una vez identificado un donante potencial, se lleva a cabo una evaluación médica exhaustiva para determinar la viabilidad de los órganos y tejidos para el trasplante.
-3. **Cirugías:** la extracción la realizan los equipos médicos especializados y acreditados.
-4. Asignación: los órganos y tejidos son asignados a pacientes en la Lista de Espera Única Nacional mediante un sistema que prioriza la urgencia médica y la compatibilidad con escalas técnicas específicas.
-5.  **Trasplante:** los procedimientos de trasplante se llevan a cabo en hospitales acreditados por el Indot.
-6. **Seguimiento:** la revisión postoperatoria es fundamental para asegurar la salud del receptor.
-
-Bloque de Seguridad informó avances en las operaciones en varias provincias
-===========================================================================
-
-El Bloque de Seguridad entregó datos sobre los operativos que realizan en varias partes del país.
--------------------------------------------------------------------------------------------------
-
-![Bloque de Seguridad en una rueda de prensa en Manta el 16 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/policia-2.jpg)
-
-Este miércoles 16 de octubre de 2024, la **ministra del Interior, Mónica Palencia**, informó sobre las acciones del **Bloque de Seguridad**.
-
-### Más noticias
-
-* [Ministros no informaron sobre avances del Bloque de Seguridad ante la Asamblea](https://www.elcomercio.com/actualidad/politica/ministros-no-informaron-avances-bloque-seguridad-asamblea.html "Ministros no informaron sobre avances del Bloque de Seguridad ante la Asamblea")
-* [Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/ataque-manta-genera-ajustes-estrategias-bloque-seguridad.html "Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad")
-* [Aumento de cultivos de coca en Ecuador, un problema de seguridad y estabilidad](https://www.elcomercio.com/actualidad/seguridad/el-aumento-cultivos-coca-ecuador-problema-seguridad.html "Aumento de cultivos de coca en Ecuador, un problema de seguridad y estabilidad")
-
-Según las autoridades, la finalidad de las operaciones en varias provincias del país es enfrentar el desplazamiento de g**rupos de delincuencia organizada y actividades terroristas**.
-
-Datos de las acciones realizadas por el Bloque de Seguridad y sus operaciones
------------------------------------------------------------------------------
-
-Palencia destacó que entre el **1 de enero y el 13 de octubre de 2024**, los homicidios intencionales han disminuido un **17,5% a nivel nacional** en comparación con el **mismo periodo de 202**3.
-
-Las cifras oficiales indican que hubo **6 231 homicidios en 2023 y 5 143 en 2024**. Estos datos fueron proporcionados por la **Policía Nacional**, el departamento de análisis estadístico del Ministerio del Interior y otras organizaciones.
-
-Además, el **decomiso de droga ha aumentado un 30%**. Entre enero y octubre de 2024, se incautaron de **227,63 toneladas**, comparado con **175,59 toneladas** en el mismo periodo de 2023.
-
-En Manta, los homicidios intencionales se redujeron un **37%** desde la administración de este Gobierno, según Palencia. Pasaron de **101 homicidios en 2023 a 64 en 2024**.
-
-> 🔴📽️ [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) ||  
->   
-> En [#RuedaDePrensa](https://twitter.com/hashtag/RuedaDePrensa?src=hash&ref_src=twsrc%5Etfw) informamos sobre los despliegues operativos ejecutados por el [#BloqueDeSeguridad](https://twitter.com/hashtag/BloqueDeSeguridad?src=hash&ref_src=twsrc%5Etfw), en el país.  
->   
-> Participan: Ministra del Interior, [@Palencia3Monica](https://twitter.com/Palencia3Monica?ref_src=twsrc%5Etfw), [@CmdtPoliciaEc](https://twitter.com/CmdtPoliciaEc?ref_src=twsrc%5Etfw)  
-> [#GraDVíctorZárate](https://twitter.com/hashtag/GraDV%C3%ADctorZ%C3%A1rate?src=hash&ref_src=twsrc%5Etfw) y Jefe del Comando Conjunto [#FFAA](https://twitter.com/hashtag/FFAA?src=hash&ref_src=twsrc%5Etfw) (A), [#AlmMiguelCórdova](https://twitter.com/hashtag/AlmMiguelC%C3%B3rdova?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 📡▶️… [pic.twitter.com/Q2AnKv2Qbo](https://t.co/Q2AnKv2Qbo)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 16, 2024](https://twitter.com/PoliciaEcuador/status/1846599709391048958?ref_src=twsrc%5Etfw)
-
-También se registró un aumento del **14% en las detenciones**, con **451 personas aprehendidas** entre el 6 de junio y el 13 de octubre de 2024, en comparación con las **397 del mismo periodo de 2023**.
-
-Finalmente, en Durán, la intervención del bloque de seguridad logró reducir los **homicidios intencionales en un 7%**. En 2024 se registraron **174 homicidios, mientras que en 2023 hubo 188**.
-
-Operaciones realizadas por las Fuerzas Armadas y el Bloque de Seguridad
------------------------------------------------------------------------
-
-El almirante **Miguel Córdova**, jefe del Comando Conjunto de las Fuerzas Armadas del Ecuador, informó sobre las recientes **operaciones militares** ejecutadas por las Fuerzas Armadas en distintos puntos del país.
-
-Desde el 8 de enero hasta el 15 de octubre de 2024, las [Fuerzas Armadas](https://es.wikipedia.org/wiki/Fuerzas_Armadas_del_Ecuador "https://es.wikipedia.org/wiki/Fuerzas_Armadas_del_Ecuador") han realizado un total de **257 534 operaciones militares en el territorio nacional**. Estas acciones incluyen la vigilancia de espacios terrestres, **marítimos y aéreos**, así como el apoyo a otras entidades del Estado durante los estados de excepción.
-
-Se han logrado importantes avances en la afectación a la estructura económica de **grupos terroristas**, mediante el decomiso de sustancias sujetas a **fiscalización, armas, municiones, explosivos y combustible**.
-
-Operaciones por provincias
---------------------------
-
-El almirante Córdova detalló el número de operaciones realizadas en varias provincias. En El Oro, se llevaron a cabo **15 761 operaciones; en Guayas, 22 854; y en Durán, 1 689, entre otros sectores**. Manabí, con la conformación de la **Fuerza de Tarea Conjunta**, se realizaron **12 615 operaciones**, con la participación de 1.500 efectivos militares, drones, embarcaciones, vehículos tácticos y helicópteros.
-
-En provincias amazónicas, como Orellana, se realizaron 26 561 operaciones, y en Los Ríos, entre el 1 y el 15 de octubre, se llevaron a cabo 368 operaciones militares.
-
-> [#ElOro](https://twitter.com/hashtag/ElOro?src=hash&ref_src=twsrc%5Etfw) |  
->   
-> FF.AA durante operaciones de control y vigilancia en el Límite Político Internacional en [#Huaquillas](https://twitter.com/hashtag/Huaquillas?src=hash&ref_src=twsrc%5Etfw), encuentran 16 canecas de combustible con aproximadamente 190 galones de diésel, que estarían siendo comercializadas en actividades de contrabando.[#BloqueDeSeguridad](https://twitter.com/hashtag/BloqueDeSeguridad?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/OU2l1aC8C1](https://t.co/OU2l1aC8C1)
-> 
-> — Fuerzas Armadas del Ecuador (@FFAAECUADOR) [October 16, 2024](https://twitter.com/FFAAECUADOR/status/1846559012516495578?ref_src=twsrc%5Etfw)
-
-Afectación a los grupos armados organizados
--------------------------------------------
-
-Uno de los puntos destacados por Córdova fue la afectación a los grupos armados organizados en el ámbito de la ciberdefensa. Las Fuerzas Armadas lograron deshabilitar **2 145 redes de wifi cercanas a centros de privación de libertad**.
-
-También inhibieron **20 señales de internet y realizaron 6 089 operaciones** de desactivación de teléfonos celulares dentro de estos centros.
-
-Además, se decomisaron más de **100 toneladas de sustancias sujetas a fiscalización**, y se realizaron 2.581 operaciones de decomiso de armas, afectando la logística de estos grupos.
-
-Incautación de armas y destrucción de campamentos
--------------------------------------------------
-
-En las operaciones militares se incautar**on de 1 800 armas y 224 422 municiones**, así como grandes cantidades de explosivos y combustible. Asimismo, se destruyeron **18 campamentos de minería ilegal y otros vinculados a actividades ilícitas**.
-
-En operativos recientes, las Fuerzas Armadas incautaron **4.5 toneladas de droga**, lo que representó una afectación económica de más de 135 millones de dólares para los grupos organizados.
-
-Llegada de cruceros a Manta dinamiza la economía de la región
-=============================================================
-
-Para la temporada 2024-2025, se prevé la llegada de al menos 25 000 cruceristas a la ciudad.
---------------------------------------------------------------------------------------------
-
-![El MS World Explorer en su llegada a Manta el domingo 13 de octubre](https://www.elcomercio.com/wp-content/uploads/2024/10/manta-crucero.jpg)
-
-La nueva temporada de **cruceros** comenzó en la ciudad de **Manta**, en la provincia de Manabí, este domingo 13 de octubre de 2024.
-
-La primera embarcación en llegar fue el lujoso **MS World Explorer**, un cómodo y espacioso barco que tiene seis niveles de alojamiento y 126 metros de longitud.
-
-### Más noticias
-
-* [Más zonas seguras y sostenibles para levantar el turismo de Ecuador](https://www.elcomercio.com/opinion/editorial/mas-zonas-seguras-y-sostenibles-para-levantar-el-turismo-de-ecuador.html "Más zonas seguras y sostenibles para levantar el turismo de Ecuador")
-* [Turismo encantador](https://www.elcomercio.com/opinion/turismo-encantador-guido-calderon-columnista.html "Turismo encantador")
-* [¿Cuándo es el feriado de noviembre?](https://www.elcomercio.com/actualidad/ecuador/cuando-es-el-feriado-de-noviembre.html "¿Cuándo es el feriado de noviembre?")
-
-El **crucero portugués** vino desde Panamá y permaneció gran parte del domingo en Manta; luego, hizo una parada en el puerto de **Guayaquil**, para finalmente trasladarse hacia las costas de Valparaíso, en **Chile**.
-
-En su estadía temporal en la ciudad manabita, los **117 pasajeros**, de 21 nacionalidades, y los 113 tripulantes pudieron disfrutar de los paisajes de Manta, su **gastronomía** y su cultura.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBKGhhCv0UX/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Ministerio de Turismo 🇪🇨 (@ministerioturismoec)](https://www.instagram.com/p/DBKGhhCv0UX/?utm_source=ig_embed&utm_campaign=loading)
-
-24 cruceros visitarán Manta
----------------------------
-
-Para la temporada **2024-2025**, de acuerdo con la **Autoridad Portuaria de Mant**a, a la ciudad llegarán **24 cruceros** en los que se transportaran al menos 25 000 turistas.
-
-Hasta diciembre, se prevé la llegada de **siete grandes cruceros**, donde vendrán turistas de todo el mundo, especialmente, de Alemania, Francia, Australia, Norteamérica, Europa y Asia.
-
-El segundo crucero en llegar a Manta será el **MS Viking Polaris**; la embarcación arribará al puerto el miércoles 30 de octubre.
-
-> Manta,está en el mapa del mundo como un importante destino turístico, que recibe a miles de pasajeros a bordo de grandes cruceros.  
->   
-> El MS World Explorer dio inicio a la temporada 2024- 2025, arribando al área internacional de nuestro puerto, administrada por [@TPM\_EC](https://twitter.com/TPM_EC?ref_src=twsrc%5Etfw) [pic.twitter.com/mJ7unAHIHg](https://t.co/mJ7unAHIHg)
-> 
-> — Puerto de Manta 🇪🇨 (@APortuariaManta) [October 15, 2024](https://twitter.com/APortuariaManta/status/1846326922185187459?ref_src=twsrc%5Etfw)
-
-Incentivo al turismo
---------------------
-
-La llegada de los cruceros a Manta dinamiza la **economía** de la ciudad y la región.
-
-Según el sector turístico, en promedio cada pasajero gasta **200 dólares** en su visita temporal, entre comida, transporte y otros productos y servicios.
-
-Los viajeros no solo acostumbran a recorrer los puntos turísticos más importantes de la ciudad, sino que prefieren movilizarse hacia otros sectores como **Montecristi**.
-
-A su llegada, los turistas tienen la oportunidad de adquirir productos típicos, como el famoso sombrero de paja toquilla y otras artesanías.
-
-Al recibir a los cruceristas, se organizan **ferias** donde los visitantes pueden disfrutar de la gastronomía y las artesanías locales.
-
-Seguridad para los turistas
----------------------------
-
-La alcaldesa de Manta, **Marciana Valdivieso**, aseguró que “la ciudad está preparada con todos los protocoles de seguridad para brindar a los visitantes una gran experiencia”.
-
-Así mismo, **Ingrid Rodríguez**, gerente de Terminal Portuario de Manta (TPM), manifestó que los cortes de luz programados no afectarán la visita de los turistas.
-
-“Contamos con generadores eléctricos para que nuestros servicios no se vean interrumpidos”, comentó.
-
-Manta en 2023 recibió también **24 cruceros**; ese año llegaron a la ciudad **20 905 turistas** y 11 804 tripulantes.
-
-Leonardo Campana jugó media hora en su vuelta a la Selección de Ecuador
-=======================================================================
-
-Tras casi un año de ausencia, Leonardo Campana volvió a vestir los colores de la selección ecuatoriana.
--------------------------------------------------------------------------------------------------------
-
-![Leonardo Campana solo sumó minutos con la Selección de Ecuador en el partido contra Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T123851.748.jpg)
-
-El regreso de **Leonardo Campana** a la Selección de Ecuador era uno de los más esperados por la afición, que, durante su ausencia, pedía a gritos su convocatoria.
-
-Casi un año después de su último partido con Ecuador, en noviembre de 2023, por las eliminatorias, ‘Leo’ Campana volvió. Sin embargo, **aunque sumó minutos, no fueron suficientes** para mostrar el buen momento que atraviesa en el Inter Miami.
-
-### Más noticias:
-
-* [La asombrosa historia del hincha que se tatuó a Leonardo Campana](https://www.elcomercio.com/deportes/futbol/asombrosa-historia-del-hincha-que-se-tatuo-leonardo-campana.html "La asombrosa historia del hincha que se tatuó a Leonardo Campana")
-* [Fanático inmortalizó a Leonardo Campana en su cuerpo](https://www.elcomercio.com/deportes/futbol/fanatico-inmortalizo-a-leonardo-campana-en-su-cuerpo.html "Fanático inmortalizó a Leonardo Campana en su cuerpo")
-* [Leonardo Campana alborotó a los aficionados de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-alboroto-a-los-aficionados-de-la-seleccion-de-ecuador.html "Leonardo Campana alborotó a los aficionados de la Selección de Ecuador")
-
-Leonardo Campana solo sumó media hora
--------------------------------------
-
-En los dos partidos que la ‘Tri’ disputó en la última fecha FIFA, ante Paraguay y Uruguay, por las eliminatorias sudamericanas, **Campana solo jugó uno de los encuentros**, acumulando un total de 32 minutos en cancha.
-
-Su regreso a la Selección de Ecuador ocurrió el jueves 10 de octubre, en el empate sin goles contra Paraguay en el Estadio Rodrigo Paz Delgado.
-
-Corría el minuto 65 cuando **Sebastián Beccacece** encendió las gradas. El técnico argentino llamó al delantero, quien realizaba ejercicios de calentamiento, y le dio las últimas instrucciones antes de su ingreso.
-
-Leonardo **Campana entró al campo con la misión de darle mayor presencia ofensiva al equipo,** en un partido en el que Paraguay se cerró defensivamente, con múltiples jugadores protegiendo su área.
-
-A pesar de su esfuerzo, Campana **no logró asentarse en el partido** debido a la férrea defensa guaraní. Se movió por varios sectores del campo, especialmente por la banda derecha, buscando espacios, pero recibió pocos balones y tuvo dificultades para conectarse con sus compañeros.
-
-En total, **tocó el balón solo nueve veces**, completó cinco de ocho pases y perdió la posesión en tres ocasiones, lo que limitó su impacto en el partido.
-
-Por otro lado, en el partido contra Uruguay, a pesar de estar en el banco de suplentes, Beccacece no lo utilizó, optando por Enner Valencia como titular y **Kevin Rodríguez** como variante en el ataque.
-
-Sus números con Ecuador
------------------------
-
-Campana, de 24 años y delantero centro, tiene una relación intermitente con la Selección y su presencia ha sido esporádica. En 1**6 partidos no pudo anotar goles**.
-
-El debut fue con **Hernán Darío Gómez** con 18 años, 7 meses y 26 días en una derrota 1-0 con Estados Unidos con 45 minutos. En esa misma gira sumó otros 45 minutos contra Honduras con un empate 0-0.
-
-El primer partido oficial en eliminatorias fue el 12 de octubre de 2020 en la victoria 4-2 ante Uruguay en el Rodrigo Paz Delgado. Gustavo Alfaro lo mandó a la cancha para jugar los cinco minutos finales.
-
-En la **Copa América Brasil 2021** debutó en el empate 2-2 contra Venezuela. Fue titular y completó los 90 minutos.
-
-El café sin filtrar, el aliado para acelerar el metabolismo
-===========================================================
-
-Un estudio reciente revela que el café sin filtrar potencia la pérdida de peso y acelera el metabolismo, según un análisis publicado en Infobae.
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El café es apreciado tanto por sus beneficios para la salud como por su exquisito sabor.](https://www.elcomercio.com/wp-content/uploads/2024/09/dia-del-cafe.jpg)
-
-El **café** es una de las **bebidas** más **consumidas** a **nivel mundial**, conocido por su **efecto energizante** y sus **múltiples beneficios** para la **salud**. Recientemente, un **estudio** danés publicado en la revista Nutrients ha revelado que el **café sin filtrar** es el tipo de preparación que más potencia la **aceleración** del **metabolismo** y la pérdida de peso. Esta **investigación** ha captado la atención de la **comunidad científica** y de los **amantes del café**.
-
-### Más noticias
-
-* [Estudio indica que consumir café después de los 60 puede llevar al ‘deterioro cognitivo’](https://www.elcomercio.com/tendencias/salud/cafe-deterioro-cognitivo-salud-investigacion.html "Estudio indica que consumir café después de los 60 puede llevar al ‘deterioro cognitivo’ ")
-* [‘Es importante identificar características únicas de cada paciente para tratar la obesidad’: Andrés Acosta](https://www.elcomercio.com/tendencias/salud/es-importante-identificar-caracteristicas-unicas-de-cada-paciente-para-tratar-la-obesidad-andres-acosta.html "‘Es importante identificar características únicas de cada paciente para tratar la obesidad’: Andrés Acosta")
-* [Superalimentos ecuatorianos ideales para una vida saludable](https://www.elcomercio.com/tendencias/salud/superalimentos-ecuador-dia-mundial-alimentacion.html "Superalimentos ecuatorianos ideales para una vida saludable ")
-
-Efectos positivos del café sin filtrar en la salud metabólica
--------------------------------------------------------------
-
-El **café sin filtrar** se prepara sin utilizar **filtros** de **papel** o metal, lo que permite que los **aceites naturales** y **sedimentos** del **grano** permanezcan en la bebida. Esto incluye variedades como el café turco y el preparado con **prensa francesa**. Los **investigadores** encontraron que este tipo de café no solo mejora la textura y el sabor, sino que también tiene un **impacto positivo** en la **salud metabólica**. Según Infobae, los participantes del **estudio** que consumieron **café** sin **filtrar** lograron una **notable reducción** de peso en comparación con aquellos que solo tomaron **café filtrado**.
-
-Beneficios y precauciones para la salud
----------------------------------------
-
-Sin embargo, es importante señalar que el **consumo excesivo de café sin filtrar** puede estar asociado con un aumento en los **niveles de colesterol y riesgos cardiovasculares.** Por ello, se recomienda moderar su ingesta. A pesar de las advertencias, los resultados sugieren que una ingesta controlada podría ser beneficiosa para quienes buscan perder peso.
-
-Además de sus **propiedades** para acelerar el **metabolismo**, el café también es rico en **antioxidantes** y puede ayudar a reducir el **riesgo de enfermedades como diabetes tipo 2** y enfermedades **neurodegenerativas**. En este sentido, combinar diferentes **métodos** de preparación podría maximizar sus beneficios.
-
-El café sin filtrar como aliado para el metabolismo y la pérdida de peso
-------------------------------------------------------------------------
-
-En **conclusión**, el **estudio publicado** en Infobae destaca cómo el **café sin filtrar** puede ser un aliado efectivo para quienes buscan mejorar su **metabolismo** y perder peso, siempre bajo un **consumo moderado** y consciente.
-
-Los dientes de los perros también se cepillan
-=============================================
-
-Las caries y otros problemas dentales atacan a los perros.
-----------------------------------------------------------
-
-![Cuidar de la salud bucal de los animalitos es prioridad. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-16T123027.884.jpg)
-
-Para que los **perritos** mantengan una buena **salud bucal,** libre de **abscesos dentales** y caries, es importante cepillar cada una de sus **piezas** desde que son pequeños.
-
-Recuerda que para lograr una limpieza exitosa se requiere de un poco de **paciencia**; no te tomará más de cinco minutos.   
-
-### **Más noticias:**
-
-* [Los animales también viven el horror de la guerra](https://www.elcomercio.com/narices-frias/animales-horror-guerra-libano-gaza-rusia-ucrania.html "https://www.elcomercio.com/narices-frias/animales-horror-guerra-libano-gaza-rusia-ucrania.html")
-* [Empresa japonesa ‘contrató’ a nueve gatos para una misión superimportante](https://www.elcomercio.com/narices-frias/gatos-empresa-japones-ambiente-laboral.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/gatos-empresa-japones-ambiente-laboral.html?source=Internal&ref=Single+Content+Link")
-* [El enjaulamiento de animales de compañía se sanciona en Quito](https://www.elcomercio.com/narices-frias/enjaulamiento-animales-compania-quito-multa-infractor.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/enjaulamiento-animales-compania-quito-multa-infractor.html?source=Internal&ref=Single+Content+Link")
-
-**Los dientes de los perros también se cepillan**
--------------------------------------------------
-
-Dato interesante: más del 80% de los **[perros](https://www.elcomercio.com/narices-frias/animales-horror-guerra-libano-gaza-rusia-ucrania.html "https://www.elcomercio.com/narices-frias/animales-horror-guerra-libano-gaza-rusia-ucrania.html")** y el 70% de los gatos tienen evidencia de **periodontitis** a la edad de 3 años.
-
-Además, el 10% de los perros tienen algún diente fracturado con dolorosa exposición pulpar directa. Es parte de la información que publicó la **Asociación Mundial de Veterinarios de Pequeños Animales** (WSAVA).  
-
-**Implementos para cuidar la salud bucal**  
---------------------------------------------
-
-Antes de iniciar con la **limpieza** asegúrate de contar con un cepillo con cerdas suaves y pasta o gel dental apto para animalitos.
-
-Los expertos sugieren evitar los **productos** con flúor para reducir el riesgo de molestias estomacales; ese mineral es muy fuerte para los **animalitos**.  
-
-También es importante seleccionar un espacio apropiado para la comodidad del can. Luego de la **limpieza**, puede premiarlo con alguna golosina apta para perros.   
-
-**El paso a paso de la limpieza bucal**   
-------------------------------------------
-
-Humedezca las cerdas del **cepillo** y luego coloque el gel o la pasta dental. Luego, limpie cada uno de los dientes de su mimado.
-
-Al inicio tendrá que cepillar 28 piezas. Después, serán 42. Los expertos sugieren cumplir con el procedimiento dos o tres veces a la semana.
-
-Se sugiere también hacer hincapié en los **premolares** y molares, que es en donde se acumula el sarro y, posteriormente, las caries.   
-
-**¿Cómo afecta el sarro en la salud bucal animal?**  
------------------------------------------------------
-
-El cálculo (o sarro) es una placa que se ha mineralizado secundariamente por los minerales en la saliva. El cálculo proporciona principalmente un efecto irritante, según la **Asociación Mundial de Veterinarios** de Pequeños Animales (WSAVA). 
-
-La **WSAVA** añade que las **bacterias** en la placa subgingival excretan toxinas y productos metabólicos que crean la inflamación de los tejidos **gingivales** y **periodontales**.  
-
-“Esta inflamación causa daño a los tejidos gingivales e inicialmente resulta en gingivitis. Eventualmente, la inflamación puede llevar a periodontitis, es decir, a la destrucción de la unión entre los **tejidos** periodontales y los dientes”.  
-
-**Profilaxis canina**  
------------------------
-
-Recuerde que con esa limpieza también evitará someter a su perro a una profilaxis. Ese tratamiento resulta incómodo y bastante costoso.  
-
-¿La razón? Para para atender al paciente se requiere de anestesia general. Los especialistas realizan exámenes de sangre para valorar el estado de su **hígado** y **riñones**.   
-
-Bloqueos en defensa de Evo Morales obstruyen el paso de 300 camiones 
-=====================================================================
-
-Los bloqueos de los partidarios del exmandatario se concentran en el departamento de Cochabamba (centro).
----------------------------------------------------------------------------------------------------------
-
-![Personas caminan con sus equipajes durante la segunda jornada de bloqueos por seguidores del expresidente Evo Morales.](https://www.elcomercio.com/wp-content/uploads/2024/10/bolivia-tercer-dia-efe.jpg)
-
-La estatal **Yacimientos Petrolíferos Fiscales Bolivianos** (YPFB) indicó el martes 16 de octubre de 2024, que **300 camiones de combustible** están atascados en los **puntos de bloqueo** que mantienen los seguidores del expresidente Evo Morales (2006-2029) y alertó sobre el riesgo de que esto genere accidentes y **desabastecimiento**.
-
-### Más noticias
-
-* [Lionel Messi, inspirado, golea a Bolivia con Argentina](https://www.elcomercio.com/deportes/futbol/seleccion-argentina-bolivia-partido-eliminatorias-lionel-messi.html "Lionel Messi, inspirado, golea a Bolivia con Argentina")
-* [Bloqueos de carreteras en defensa de Evo Morales se concentran en el centro de Bolivia](https://www.elcomercio.com/actualidad/mundo/bloqueos-carreteras-edefensa-evo-morales-concentran-centro-bolivia.html "Bloqueos de carreteras en defensa de Evo Morales se concentran en el centro de Bolivia")
-* [Fiscalía de Bolivia pide que se considere activar alerta migratoria contra Evo Morales](https://www.elcomercio.com/actualidad/mundo/fiscalia-bolivia-pide-considere-activar-alerta-migratoria-contra-evo-morales.html "Fiscalía de Bolivia pide que se considere activar alerta migratoria contra Evo Morales")
-
-Riesgo de accidentes
---------------------
-
-El presidente de YPFB, Armin Dorgathen, dijo en una rueda de prensa que “**existe un riesgo de accidentes”** al tener los camiones cisterna expuestos a **“altas temperaturas”** en las carreteras, a lo que se suman los problemas de abastecimiento de carburantes en las distintas regiones bolivianas.
-
-Dorgathen pidió a los manifestantes **“que puedan levantar los bloqueos”** o que “dejen pasar las cisternas”. Consideró que esto es un **peligro para las mismas personas** que mantienen esa medida de reclamo.
-
-Los **bloqueos de los partidarios** del exmandatario se concentran en el **departamento** de Cochabamba (centro), su principal bastión político, y que es el eje que comunica las **carreteras del oriente** y el **occidente del país**.
-
-“Si las cisternas no pueden ir pasando los **puntos de bloqueo**, seguramente vamos a tener algunos retrasos en los despachos, pero no quiere decir **que no tengamos el producto**“, recalcó el presidente de YPFB.
-
-Dorgathen indicó que el contenido de los **300 camiones alcanzan unos 1,2 millones de litros** de combustible, los cuales deben proveer a las **plantas y estaciones bolivianas.**
-
-Desde la víspera, en ciudades como **Santa Cruz, El Alto, La Paz y Cochabamba**, que forman parte del eje central de Bolivia, comenzaron a reportar **filas en las estaciones de combustible** en las que comenzó a faltar las provisiones de gasolina y diésel.
-
-Bloqueos empezaron el lunes
----------------------------
-
-Los grupos ‘evistas’ o afines al también líder del gubernamental Movimiento al Socialismo (MAS) iniciaron el lunes bloqueos de **carreteras en el centro del país** en defensa del exmandatario ante la citación para que declare ante la Fiscalía por un caso de trata de personas y estupro.
-
-Problemas como falta de dólares
--------------------------------
-
-También piden al Gobierno de Luis Arce que resuelva **problemas como la falta de dólares**, combustibles y el encarecimiento de algunos alimentos. Además, para exigir que **se reconozca el congreso partidario** en que el exmandatario fue nombrado “candidato único” para las elecciones generales de 2025.
-
-Arce y Morales están distanciados desde finales de 2021 por diferencias en la administración del Estado que se profundizaron ante la necesidad de renovar la **dirección nacional del MAS** y elegir al candidato para los próximos comicios. 
-
-Tres días de sol en Quito cuando más se necesita de lluvia
-==========================================================
-
-Hay preocupación por los tres días de calor y sequedad en el clima, en una época en que el país clama por lluvias. El Inamhi advierte sobre la radiación ultravioleta.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Hay poca nubosidad en Quito y la temperatura máxima oscilará entre los 25 y 27°C.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-7-1.jpg)
-
-El 25 de septiembre del 2024, hubo un alivio en **Quito**: la **lluvias** ayudaron a apagar las llamas que horrorizaron a la **ciudad**. Desde entonces no ha dejado de llover, pero este **16 de octubre del 2024** y los dos días previas, han sido de **sol intenso** **cuando más se necesita de lluvias.**
-
-### Más noticias
-
-* [Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute](https://www.elcomercio.com/actualidad/negocios/lluvias-coca-codo-sinclair-pero-pasa-paute.html "Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute")
-* [Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito](https://www.elcomercio.com/actualidad/quito/cortes-energia-suman-2024-fatal-restaurantes-quito.html "Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito")
-* [Afectados por los incendios forestales tendrán un beneficio en la planilla del agua](https://www.elcomercio.com/actualidad/quito/afectados-incendios-forestales-planilla-agua.html "Afectados por los incendios forestales tendrán un beneficio en la planilla del agua")
-
-Días de sol en Quito y a la espera de la lluvia
------------------------------------------------
-
-**Quito** está pasando por una semana de **calor** y hasta hay **alertas** de parte del Instituto Nacional de Meteorología e Hidrología (Inamhi) por las **altas temperaturas** y por los índices de **Radiación Ultravioleta**. Este fenómento podría durar toda la semana, pues la alerta del Inamhi son del 16 al 19 de octubre del 2024. **La región más afectada será, sin embargo, la amazónica**.
-
-> [#AdvertenciaMeteorológica](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) #53 Del 16 al 19 de octubre: Se prevén Altas y Muy Altas Temperaturas e Índices de Radiación Ultravioleta en el día, con mayor énfasis en la  
-> región Amazónica, zonas puntuales del Callejón Interandino e interior del Litoral ☀️😎🥵  
-> ⚠️Tome precauciones [pic.twitter.com/GF3rIEARyC](https://t.co/GF3rIEARyC)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 16, 2024](https://twitter.com/inamhi_ec/status/1846380789413429687?ref_src=twsrc%5Etfw)
-
-En **Quito**, los **soles radiantes** se mantendrán hasta el día **viernes**. Se espera que para el sábado vuelvan las lluvias. Según Cristina Valdiviezo, de pronósticos del Inamhi, Quito está viviendo “momentos de ingreso”un momento de transición, cuando los sistemas atmosféricos se acoplan”. Por eso es que vivimos momentos de lluvias y otros de sol.
-
-Y las lluvias, ¿para cuándo?
-----------------------------
-
-En estos días y hasta el viernes 18 de octubre del 2024, como se puede ver en el tuit del Inamhi, las **temperaturas serán elevadas** y con **niveles de radiación UV muy altos**. Es por la presencia de una masa de aire seco.
-
-Sin embargo, **para el fin de semana todo cambiará**. Ingresará una masa de aire húmedo proveniente de la Amazonía y las anheladas lluvias volverán. Sin embargo, no serán tan fuertes ni extendidas en el tiempo. “Más bien serán lloviznas o chubascos”, dice Valdiviezo.
-
-Si eso ocurrirá en **Quito**, el pronóstico no parece muy alentador en el **Austro** ecuatoriano. Si bien el 15 de octubre llovió en la zona del **Paute** y **Mazar**, no fueron de consideración y, para colmo, los próximos días serán de tiempo seco.
-
-Este es el pronóstico del clima para el país de hoy y mañana, según el Inamhi[:](https://en.wikipedia.org/wiki/Instituto_Nacional_de_Meteorolog%C3%ADa_e_Hidrolog%C3%ADa_(Ecuador) "https://en.wikipedia.org/wiki/Instituto_Nacional_de_Meteorolog%C3%ADa_e_Hidrolog%C3%ADa_(Ecuador)")
-
-> [#PronosticoNacionalEc](https://twitter.com/hashtag/PronosticoNacionalEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del tiempo en varias localidades del país, para el miércoles, 16 de octubre de 2024, temperaturas e índices de radiación altos 🥵☀️😎  
-> ⚠️Advertencia No. 53 Activa [pic.twitter.com/surRaae3gm](https://t.co/surRaae3gm)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 16, 2024](https://twitter.com/inamhi_ec/status/1846389804193210448?ref_src=twsrc%5Etfw)
-
-PSG celebra, a lo grande, cumpleaños de Willian Pacho
-=====================================================
-
-Willian Pacho vive su primera temporada en el Paris Saint-Germain de Francia, el club más importante de ese país.
------------------------------------------------------------------------------------------------------------------
-
-![Willian Pacho con sus nuevos compañeros del PSG de Francia.](https://www.elcomercio.com/wp-content/uploads/2024/10/pacho_cumle_1.jpg)
-
-**Willian Pacho (PSG)** está de cumple años este miércoles 16 de octubre de 2024. Llega a los 23 como uno de los jugadores más talentosos que tiene Ecuador, Sudamérica y el mundo en la década del 2020.
-
-Quinindé, **cantón de la provincia de Esmeraldas** que cuenta con una población de algo más de 31 000 habitantes, según el censo poblacional de 2022, vio nacer a Willian Pacho en el 2001.
-
-### Más noticias:
-
-* [La historia de Cantera Orense, rival del Deportivo Quito](https://www.elcomercio.com/deportes/futbol/cantera-orense-historia-deportivo-quito.html "La historia de Cantera Orense, rival del Deportivo Quito")
-* [Thomas Tuchel es el nuevo director técnico de Inglaterra](https://www.elcomercio.com/deportes/futbol/thomas-tuchel-es-el-nuevo-director-tecnico-de-inglaterra.html "Thomas Tuchel es el nuevo director técnico de Inglaterra")
-* [¿Cuándo juegan Dragonas las semifinales de la Libertadores?](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-semifinales-libertadores-femenina-2.html "¿Cuándo juegan Dragonas las semifinales de la Libertadores?")
-
-Se formó en **Independiente del Valle desde 2017** y su ascenso fue fulminante. En el 2018 fue subcampeón de la Copa Libertadores sub-20, pero se tomó la revancha en el 2020 y se proclamó como campeón.
-
-En ese intermedio debutó en el primer plantel en el 2019 y vivió de cerca el título de la Copa Sudamericana, el primero de los del Valle en su corta, pero brillante historia.
-
-En agosto de **2021 se anunció su transferencia al Borussia Mönchengladbach** de Alemania, sin embargo, temas administrativos de su nuevo club impidieron que la transferencia se haga efectiva.
-
-No tuvo que esperar mucho tiempo para el **Royal Antwerp de Bélgica lo sume a su plantel** en enero de 2022. Ganó los títulos de la Liga y la Copa de Bélgica.
-
-Tras 18 meses a alto vuelo fue transferido al **Eintracht Fráncfort** para el curso 2023/24.
-
-El salto de calidad en su carrera lo **dio al año siguiente con su traspaso el PSG de Francia**.
-
-Cona la Selección de Ecuador lleva jugados 20 partidos y es titular fijo en el sistema defensivo de tres defensas del argentino Sebastián Beccacece, junto a Félix Torres y Piero Hincapié.
-
-![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/pacho_cumle_2-1024x683.jpg)
-
-Foto: Instagram del club.
-
-PSG celebró al ecuatoriano
---------------------------
-
-El PSG utilizó todas sus redes sociales oficiales para celebrar al ecuatoriano en su fecha de cumpleaños.
-
-Fotografías de su llegada al club, otras con sus compañeros en **entrenamientos y partidos, más un video,** fueron parte de los mensajes con los que los parisinos le contaron al mundo que su jugador estaba de festejos.
-
-El camino de Pacho con el **PSG en sus primeros meses es perfecto**. Jugó los nueve encuentros oficiales como titular: siete de la Ligue 1 y dos de la Champions League.
-
-Salvo en la cuarta fecha del torneo local, **que jugó solo 27 minutos ante el Stade Brestois en el Parque de los Príncipes**, en el resto de compromisos completó todos los minutos posibles bajo el mando del español Luis Enrique.
-
-Su técnica y habilidad para **cumplir con su rol de defensa central**, se nota en que no está propenso a ser amonestado por las faltas que pueda cometer.
-
-Una sola tarjeta amarilla tiene en su hoja de vida en los 747 minutos disputados, según datos de Transfermarkt.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBLXv8ToSi1/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Paris Saint-Germain (@psg)](https://www.instagram.com/p/DBLXv8ToSi1/?utm_source=ig_embed&utm_campaign=loading)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Más de 1 600 especies fueron introducidas en Galápagos
-======================================================
-
-La mora invasora es una de las plantas invasoras más destructivas en Galápagos, contribuyendo a la disminución de los bosques endémico.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![El primer registro de especies introducidas data de 1600, con la introducción de la rata negra y el ratón doméstico.](https://www.elcomercio.com/wp-content/uploads/2024/10/Galapagos-2.jpg)
-
-La **Fundación Charles Darwin** (FCD) presentó este miércoles 16 de octubre de 2024 el **tablero interactivo en línea**. Este proporciona datos en tiempo real sobre cuántas especies han sido introducidas tanto de forma intencional como accidental, en los frágiles ecosistemas del archipiélago.
-
-Este es el **primer repositorio digital de acceso abierto** con información sobre las especies introducidas en el declarado primer Patrimonio Natural de la Humanidad.
-
-### Más noticias
-
-* [Rescatan a un náufrago ruso en altamar en una balsa inflable](https://www.elcomercio.com/actualidad/mundo/rescatan-a-un-naufrago-ruso-en-altamar-en-una-balsa-inflable.html "Rescatan a un náufrago ruso en altamar en una balsa inflable")
-* [El Metro de Quito superó los 43 millones de viajes](https://www.elcomercio.com/actualidad/metro-de-quito-supero-43-millones-de-viajes-operacion.html "El Metro de Quito superó los 43 millones de viajes")
-* [Inamhi advierte sobre incremento de temperaturas en Ecuador](https://www.elcomercio.com/actualidad/ecuador/inamhi-advierte-sobre-incremento-de-temperaturas-en-ecuador.html "Inamhi advierte sobre incremento de  temperaturas en Ecuador")
-
-Las especies introducidas
--------------------------
-
-La **Fundación Charles Darwin** presentó este miércoles 16 de octubre de 2024 El **tablero interactivo en línea**. Este proporciona datos en tiempo real sobre cuántas especies han sido introducidas tanto de forma intencional como accidental, en los frágiles ecosistemas del archipiélago.
-
-También revel**a cómo llegaron** y si están causando daño o tienen el potencial de hacerlo.
-
-Este recurso ofrece información crucial para **identificar y gestionar las vías de introducción** de especies no nativas. También permite priorizar **acciones de conservación** y manejo para aquellas que ya han establecido poblaciones en las islas.
-
-“Desde el descubrimiento de las **islas Galápagos en 1535**, se calcula que **al menos 1 639 especies han sido introducidas en las islas**“, señala la FCD en un comunicado.
-
-El primer registro data de 1600, con la introducción de l**a rata negra y el ratón doméstico**.
-
-El **52% de las especies introducidas en Galápagos son planta**s, seguido por un 42% de invertebrados, la mayoría insectos. El 6 % restante incluye vertebrados, hongos, bacterias y virus, detalló.
-
-Amenaza creciente y urgente
----------------------------
-
-Algunas especies introducidas se **vuelven invasoras y proliferan sin control,** especialmente cuando carecen de **enemigos naturales** o competidores fuertes en su nuevo entorno.
-
-Las especies invasoras están entre los principales impulsores de extinciones en **ecosistemas insulares** y una de las mayores amenazas para el delicado equilibrio de la **vida en Galápagos**.
-
-Según el tablero, el 4% de las especies introducidas en Galápagos son **“invasoras**“, incluyendo 36 especies de plantas, 11 vertebrados y **12 invertebrados** (principalmente insectos).
-
-La mora invasora (Rubus niveus) es una de las plantas invasoras más destructivas en **Galápagos**, contribuyendo a la disminución de los **bosques endémicos** de scalesia en las tierras altas del archipiélago.
-
-Asimismo, el árbol introducido Cedrela odorata **altera las rutas migratorias** de las tortugas gigantes en la isla Santa Cruz.
-
-La **mosca vampiro aviar** (Philornis downsi) ataca al menos 21 especies de **aves terrestres de Galápagos**, incluidas 12 especies de los pinzones de Darwin, y está provocando un declive poblacional significativo en al menos 8 especies.
-
-Esto incluye al críticamente amenazado pinzón de manglar
---------------------------------------------------------
-
-Un 5% de las especies introducidas se clasifican como **“potencialmente invasoras”**, es decir, son invasoras en otras partes del mundo y podrían convertirse en una **“amenaza seria” para Galápagos**.
-
-El tablero también revela que el 51% de las especies introducidas tienen datos insuficientes sobre su nivel de invasión, por lo que **urgen más estudios** y recursos para abordar estos riesgos.
-
-Amenazas marinas dentro y fuera de Galápagos
---------------------------------------------
-
-Aunque la mayoría de las especies introducidas en **Galápagos** son terrestres, se han registrado 59 especies en su Reserva Marina, llegadas, principalmente, **en cascos de barcos, plásticos flotantes** y agua de lastre.
-
-Proteger estos **ecosistemas** requerirá medidas de bioseguridad mejoradas para prevenir la introducción de especies adicionales, un desafío que se extiende **más allá de Galápagos**.
-
-Herramienta esencial
---------------------
-
-Para Charlotte Causton, investigadora principal de la **Fundación Charles Darwin,** el proporcionar acceso fácil a datos en tiempo real permite a las autoridades, investigadores y conservacionistas “tomar decisiones informadas y oportunas para priorizar los **esfuerzos de manejo**, fortalecer las medidas de bioseguridad y prevenir más daños a estos delicados ecosistemas”.
-
-Para el director del **Parque Nacional Galápagos**, Arturo Izurieta la iniciativa “será esencial para la protección de la biodiversidad de Galápagos en los [próximos años](https://es.wikipedia.org/wiki/Islas_Gal%C3%A1pagos "https://es.wikipedia.org/wiki/Islas_Gal%C3%A1pagos")“.
-
-Gobierno modificará las tarifas eléctricas del sector minero
-============================================================
-
-El Gobierno Nacional analiza el tarifario eléctrico, con la intención de modificar solo la tarifa del sector minero.
---------------------------------------------------------------------------------------------------------------------
-
-![Ministra de Energía (e), Inés Manzano, se refirió a las tarifas eléctricas este 16 de octubre de 2024. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/Ines-Manzano.jpg)
-
-El Gobierno Nacional confirmó este miércoles 16 de octubre de 2024 que actualmente se **analiza el tarifario** **eléctrico del Ecuador**, a propósito de los cortes de luz. Sin embargo, la ministra de Energía encargada, **Inés Manzano**, aclaró que no se cambiarán todas las tarifas eléctricas[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Daniel Noboa toma decisión sobre subsidio de electricidad a empresas mineras](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-decision-subsidio-electricidad-empresas-mineras.html "Daniel Noboa toma decisión sobre subsidio de electricidad a empresas mineras")
-* [Ministerio de Energía anunció un cambio en la Dirección del Cenace](https://www.elcomercio.com/actualidad/ecuador/ministerio-energia-cambio-direccion-cenace.html "Ministerio de Energía anunció un cambio en la Dirección del Cenace")
-* [Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules](https://www.elcomercio.com/actualidad/negocios/ines-manzano-transporte-soluciones-moviles-energia-aviones-hercules.html "Inés Manzano anunció transporte de soluciones móviles de energía en aviones Hércules")
-
-En un comunicado, la Agencia de Regulación y Control de la Electricidad (Arconel) informó que actualmente se **analiza el tarifario** **eléctrico del Ecuador**. Este documento se revisa y actualiza hasta el mes de noviembre de cada año, según manda la normativa.
-
-Asimismo, **aclaró que las tarifas eléctricas** actuales se mantienen sin variación para los **sectores residencial**, **comercial e industrial.**
-
-Mientras que para los **grandes consumidores**, que incluyen a las **empresas mineras a gran escala**, la tarifa denominada **Alto Voltaje 2 (AV2)**, que se encuentra vigente desde 2016, será **revisada**, conforme a lo dispuesto por el presidente de la República, Daniel Noboa.
-
-> 📍COMUNICADO OFICIAL| Informamos a la ciudadanía sobre las tarifas eléctricas en el país.  
->   
-> Más detalles ⬇️ [pic.twitter.com/i2jIaqIJ2o](https://t.co/i2jIaqIJ2o)
-> 
-> — Agencia de Regulación y Control de Electricidad (@ARCONEL\_Ec) [October 16, 2024](https://twitter.com/ARCONEL_Ec/status/1846568901171192258?ref_src=twsrc%5Etfw)
-
-Asimismo, horas antes, la ministra Manzano aseguró que las tarifas no se cambiarán, excepto las que se cobran al sector minero. “Las tarifas no se han cambiado, no se piensa tocar. No sé de donde sale ese mal mensaje. Lo único que hemos dicho, en el caso de las mineras, se va a cambiar la tarifa”.
-
-Esto, porque las mineras tenían una tarifa preferencial y lo que queremos es que los subsidios se relocalicen mejor, agregó.
-
-El presidente Noboa anunció el martes 15 de octubre que tomó una decisión para reformar los **subsidios eléctricos para el sector minero**. El mandatario señaló que la decisión busca corregir un **sistema de subsidios** **injusto** que beneficia a los que más recursos tienen.
-
-“Las mineras en Ecuador consumen más energía de la que necesita un hospital para operar. Y aun así, su tarifa de energía ha sido subsidiada por el Estado. Ese subsidio incongruente e injusto que han tenido las mineras, no va más”, señaló.
-
-Hasta las 10:00 de este miércoles, no se conoce si la eliminación de dicho subsidio iba a ser bajo Decreto Ejecutivo o Acuerdo Ministerial, ni cuando quedaría en firme.
-
-Respuesta de las empresas mineras
----------------------------------
-
-Por su parte, las empresas mineras señalaron que la **tarifa eléctrica** aplicada a la industria minera corresponde al segmento AV2, incluida en el **pliego tarifario** aprobado por el **Gobierno Nacional**. Esta se aplica a otros sectores industriales no mineros de alto consumo.
-
-Actualmente, las dos empresas mineras en explotación pagan una tarifa de 04,09 centavos de dólar el kilovatio hora, mientras que la tarifa residencial tiene un promedio de 10 centavos. Esta diferencia se debe a que las mineras no ocupan las fases de **subtransmisión y distribución**, ya que su conexión es directa.
-
-Las tarifas que pagan las mineras “incluyen en su cálculo de costos la **generación y transmisión de energía eléctrica**, pero no el costo de **almacenamiento y distribución** facturado por las **empresas eléctricas**. Por esta razón, no es comparable con la tarifa residencial”, señaló la Cámara de Minería del Ecuador (CME).
-
-Además, aclaró que las mineras no se oponen a la revisión de las tarifas eléctricas; sin embargo, es “importante que este proceso se lleve a cabo de manera técnica”, indicó la Cámara.
-
-Ecuador desaprovechó el talento de John Yeboah en las eliminatorias
-===================================================================
-
-Una de las decisiones más cuestionadas de Sebastián Beccacece fue cómo manejó al extremo John Yeboah.
------------------------------------------------------------------------------------------------------
-
-![John Yeboah en un partido con Ecuador en las eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T114349.275.jpg)
-
-En el empate 0-0 de la Selección de Ecuador ante Uruguay en Montevideo, el martes 15 de octubre, **John** **Yeboah**, uno de los extremos más explosivos del equipo, apenas jugó tres minutos.
-
-La decisión de Sebastián **Beccacece** de ingresar al jugador del Venezia de Italia en los últimos instantes del partido generó críticas en redes sociales, donde los aficionados afirmaron que se desaprovechó el talento de Yeboah.
-
-### Más noticias:
-
-* [John Yeboah asiste y el Venezia obtiene su primer triunfo](https://www.elcomercio.com/deportes/john-yeboah-asistencia-venezia-genoa.html "John Yeboah asiste y el Venezia obtiene su primer triunfo")
-* [Jugadores que no nacieron en Ecuador, pero están comprometidos con la ‘Tri’](https://www.elcomercio.com/deportes/futbol/jugadores-que-no-nacieron-ecuador-pero-estan-comprometidos-con-tri.html "Jugadores que no nacieron en Ecuador, pero están comprometidos con la ‘Tri’")
-* [La Selección de Ecuador sigue siendo fuerte en Quito](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-localia-quito-puntos.html "La Selección de Ecuador sigue siendo fuerte en Quito")
-
-¿Ecuador desaprovechó el talento de Yeboah?
--------------------------------------------
-
-A pesar de haber jugado pocos minutos con su club en Italia y de recuperarse de algunas molestias físicas, Beccacece decidió convocar a John Yeboah para la fecha de eliminatorias sudamericanas, reconociendo el talento del jugador y su capacidad de aportar al equipo. Yeboah es **habitual en las convocatorias desde marzo de 2024**.
-
-En el partido anterior, en el empate contra Paraguay en Quito, **Yeboah solo jugó 13 minutos**, pero en ese breve tiempo logró generar peligro y encarar a una defensa muy cerrada. Aun así, la decisión de darle tan pocos minutos recibió cuestionamientos en redes sociales y en la prensa.
-
-Tras ese encuentro, Beccacece explicó que su manejo del tiempo de juego del jugador se debía a que **tiene poco ritmo** debido a su reciente recuperación, y aunque es un jugador diferencial, el técnico cree que hay que llevarlo con calma.
-
-“Ha **jugado pocos minutos y ha tenido molestias**. Vino porque tiene condiciones naturales que en 15 minutos pueden marcar la diferencia, pero no está en su mejor momento”, comentó Beccacece tras el empate contra Paraguay.
-
-Con estas declaraciones y viendo el contexto del partido entre Ecuador y Uruguay, donde la ‘Tri’ dominaba y presionaba al rival, parecía natural que Yeboah entrara en los últimos 10-15 minutos para generar más peligro. Sin embargo, Beccacece sorprendió al **ingresarlo al final, solo para quemar tiempo**, dejándolo con apenas dos minutos de juego.
-
-John Yeboah en la selección
----------------------------
-
-Yeboah recibió su primera convocatoria a la selección en octubre de 2023, a los 23 años, bajo la dirección de **Félix Sánchez Bas**, y desde entonces ha sido parte regular del equipo, incluso tras los cambios en el cuerpo técnico.
-
-El extremo ha disputado 10 partidos con la ‘Tri’, anotando **dos goles y sumando una asistencia**. Además, formó parte del equipo que participó en la Copa América 2024.
-
-La Selección de Ecuador sigue siendo fuerte en Quito
-====================================================
-
-La Selección de Ecuador marcha en la quinta posición en la tabla de pociones de las eliminatorias al Mundial 2026.
-------------------------------------------------------------------------------------------------------------------
-
-![Kevin Rodríguez enfrentando a Perú en las eliminatotias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_local_quito_1.jpg)
-
-La **Selección de Ecuador** sigue teniendo en Quito un fortín que pocas selecciones logran doblegar, pese a que con el pasar de los años más futbolistas ecuatorianos juegan fuera de su país.
-
-Desde que la Conmebol **implantó el sistema de todos contra todos para el Mundial Francia 1998**, los resultados de la Selección de Ecuador han sido exitosos con la consecución de cuatro clasificación a mundiales.
-
-### Más noticias:
-
-* [La historia de Cantera Orense, rival del Deportivo Quito](https://www.elcomercio.com/deportes/futbol/cantera-orense-historia-deportivo-quito.html "La historia de Cantera Orense, rival del Deportivo Quito")
-* [¿Cuándo juegan Dragonas las semifinales de la Libertadores?](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-semifinales-libertadores-femenina-2.html "¿Cuándo juegan Dragonas las semifinales de la Libertadores?")
-* [Colombia golea y hunde a Chile en las eliminatorias](https://www.elcomercio.com/deportes/futbol/colombia-chile-eliminatorias-partido-resultado.html "Colombia golea y hunde a Chile en las eliminatorias")
-
-Los números son claros y muestran que en cuatro de las siete eliminatorias que se jugaron desde 1998 hasta 2022, **Ecuador alcanzó sus cuatro clasificaciones cosechando la mayor cantidad** de puntos disputados en Quito.
-
-Históricamente, el estadio **Olímpico Atahualpa**, administrado por la Concentración Deportiva de Pichincha, fue la ‘casa de la selección’, pero desde el proceso a Catar 2022, se lo dejó a un lado y se adoptó al Rodrigo Paz Delgado, propiedad de Liga de Quito, como el nuevo feudo tricolor.
-
-En ambos estadios la localía de la **Tri ha sido un dolor de cabeza para sus rivales**, que saben que su visita a la capital ecuatoriana es de las más complicadas que tienen en las 18 fechas de las eliminatorias.
-
-La Selección de Ecuador es efectiva en Quito
---------------------------------------------
-
-Desde el proceso a **Francia 1998 hasta el de Canadá, Estados Unidos y México 2026**, la Selección de Ecuador jugó en Quito durante las 10 primeras jornadas, 39 encuentros.
-
-De los 117 puntos en disputa alcanzó 91, es decir, tiene una efectividad del 77,7% de puntos en Quito.
-
-En el proceso al Mundial Brasil 2014, la Tri estuvo implacable en los c**inco primeros partidos al ganar** los 15 puntos en disputa: 1-0 vs. Colombia y Bolivia; 2-0 vs. Venezuela y Perú; y 3-1 ante Chile.
-
-Bajo el mando de Reinado Rueda ese combinado clasificó a la Copa del Mundo con jugadores como Frickson Erazo, **Carlos Gruezo, Felipe Caicedo, Antonio Noboa, Juan Carlos Paredes**, Enner Valencia, Luis Fernando Saritama, entre otros.
-
-Para Corea-Japón 2002 y Alemania 2006 alcanzó 13 de 15 puntos. Colombia (0-0) y Perú (0-0) fueron las únicas escuadras que arañaron puntos en la capital.
-
-Esas eliminatorias fueron exitosas con Hernán Darío Gómez y Luis Fernando Suárez, respectivamente, al lograr dos clasificaciones consecutivas.
-
-Las de menor producción fueron para Francia 1998 con 9 de 12 puntos (Francisco Maturana); **Sudáfrica 2010 con 10 de 15 (Luis Fernando Suárez y Sixto Vizuete)**; y Rusia 2018 (Gustavo Quinteros), también con 10 de 15. En todos estos tres procesos la tricolor no clasificó.
-
-La excepción de esa línea la marco Gustavo Alfaro para Catar 2022. **También alcanzó 10 puntos de 15 posibles**, pero al final de las eliminatorias plantó la bandera de Ecuador en una nueva Copa del Mundo.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_local_quito_3-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-Para el 2026 se mantiene la tendencia
--------------------------------------
-
-Para el Mundial 2026, Ecuador alcanzó **11 de 15 puntos en disputa en Quito**, bajo la dirección técnica del español Félix Sánchez y el argentino Sebastián Beccacece.
-
-Este es el cuarto mejor promedio desde 1998, tomando en consideración que inició estas eliminatorias con una sanción de -3 puntos por parte del **Tribunal de Arbitraje Deportivo (TAS)** por el denominado caso Byron Castillo.
-
-Colombia y Paraguay, con dos empate 0-0, son las que sumaron en ‘Casa Blanca’. Uruguay (2-1), Chile (1-0) y Perú (1-0) cayeron derrotadas.
-
-![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_local_quito_2-1024x683.jpg)
-
-Foto: Diego Pallero / EL COMERCIO.
-
-No te pierdas – El Confesionario
---------------------------------
-
-El Metro de Quito superó los 43 millones de viajes
-==================================================
-
-Los usuarios califican el servicio con 9,3 sobre 10. La seguridad es uno de los aspectos mejor evaluados por los viajeros del Metro de Quito
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![El Metro opera de lunes a viernes hasta las 23:00.](https://www.elcomercio.com/wp-content/uploads/2024/10/Metro-Quito.jpg)
-
-El **Metro de Quito** dio a conocer su reporte mensual tras los **10 meses de operación**, desde que arrancó en diciembre de 2023.
-
-### Más noticias
-
-* [Inamhi advierte sobre incremento de temperaturas en Ecuador](https://www.elcomercio.com/actualidad/ecuador/inamhi-advierte-sobre-incremento-de-temperaturas-en-ecuador.html "Inamhi advierte sobre incremento de  temperaturas en Ecuador")
-* [Rescatan a un náufrago ruso en altamar en una balsa inflable](https://www.elcomercio.com/actualidad/mundo/rescatan-a-un-naufrago-ruso-en-altamar-en-una-balsa-inflable.html "Rescatan a un náufrago ruso en altamar en una balsa inflable")
-* [Dos nuevos ataques armados se registraron en Manabí](https://www.elcomercio.com/actualidad/seguridad/dos-nuevos-ataques-armados-se-registraron-en-manabi.html "Dos nuevos ataques armados se registraron en Manabí")
-
-Diez meses de operación
------------------------
-
-El Metro de Quito alcanzó **43 294 272 viajes** al cierre del mes de septiembre de 2024, con un promedio diario de 142 073 viajes.
-
-Además, los usuarios calificaron el servicio con 9,3 sobre 10. **La seguridad es la nota** con mayor calificación, en septiembre llegó al 9,5.
-
-Al menos el 47,5% de las personas que usan **Metro** aseguran realizar al menos dos viajes diarios. El Metro de Quito es el sistema de transporte elegido por ellos para transportarse de ida y vuelta.
-
-El viernes 13 de septiembre, se contabilizaron **176 958 validaciones**, este fue el día que se registraron más viajes en el mes.
-
-La mayor afluencia de viajeros se mantiene en cinco estaciones, estas son:
-
-* Quitumbe, con 19 000 viajes diarios
-* Labrador, con 16 000 viajes diarios
-* Iñaquito, con 13 000
-* San Francisco, con 12 000
-* Recreo, con 11 000 viajes diarios
-
-Cuentas Ciudad aumentan
------------------------
-
-El Metro de Quito registró un incremento en la creación de las **Cuentas Ciudad**. En septiembre, se contabilizaron 22 209 cuentas, casi el doble que el mes anterior.
-
-Además, **13 000 personas dejaron de usar el tiquete físico** y optaron por un medio de acceso digital para viajar en el Metro de Quito.
-
-La obtención de estos canales digitales **agilizan el ingreso de los usuarios** a las plataformas y trenes, pues no deben hacer filas en las ventanillas para comprar su pasaje.
-
-Puedes conseguir un QR digital a través de las ‘app’ del Metro o DeUna.
-
-Los horarios del servicio son de **lunes a viernes de 05:30 a 23:00.** Los sábados de 07:00 a 23:00 y los domingos y feriados de 07:00 a 22:00.
-
-> 🚇 [#ElMetroDeQuitoRenace](https://twitter.com/hashtag/ElMetroDeQuitoRenace?src=hash&ref_src=twsrc%5Etfw) | 05h30 ¡Nos contagias tu buen ánimo!  
->   
-> Gracias a tu actitud positiva, cada viaje se convierte en una experiencia única.  
->   
-> Arrancamos la jornada con la mejor energía para llevarte a tu destino de una forma cómoda y eficiente.[#CulturaMetro](https://twitter.com/hashtag/CulturaMetro?src=hash&ref_src=twsrc%5Etfw)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/iOi4iMQ0KI](https://t.co/iOi4iMQ0KI)
-> 
-> — Metro de Quito (@MetrodeQuito) [October 16, 2024](https://twitter.com/MetrodeQuito/status/1846498825558462725?ref_src=twsrc%5Etfw)
+Las autoridades tratan de evitar que llegue a 2 110 metros sobre el nivel del mar.
 
   
 
-Kamala Harris aventaja a Trump entre votantes latinos 
-======================================================
+La Selección de Ecuador arranca con triunfo en el Mundial Femenino Sub-17
+=========================================================================
 
-La mayoría de latinos consideran como su principal problema el coste de vida y la inflación, el empleo y acceso a la vivienda.
-------------------------------------------------------------------------------------------------------------------------------
+La Selección de Ecuador obtuvo una victoria histórica ante República Dominicana en su debut en el Mundial Femenino Sub-17.
+--------------------------------------------------------------------------------------------------------------------------
 
-![Combo de fotografías de los candidatos a la presidencia de Estados Unidos, Kamala Harris y Donald Trump.](https://www.elcomercio.com/wp-content/uploads/2024/10/kamala-harris-donald-trump-efe-septiembre.jpg)
+![Jasmym Valverde, delantera de la Selección de Ecuador, festeja uno de sus goles ante República Dominicana.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-16T195018.942.jpg)
 
-La candidata demócrata a la Casa Blanca, [Kamala Harris](https://www.elcomercio.com/actualidad/mundo/kamala-harris-uso-armas-plan-economico.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-uso-armas-plan-economico.html"), aventaja al republicano **Donald Trump** entre los **votantes latinos** de los siete estados clave, de los que conseguiría el 56 % de los votos, frente al 31 % que lograría el expresidente, según una encuesta publicada este martes 15 de octubre de 2024.
+La **Selección de Ecuador** debutó en el Mundial Femenino Sub-17 con un histórico triunfo de 2-0 ante República Dominicana. El combinado nacional, que disputa por primera vez el torneo internacional, venció gracias a un doblete de **Jasmym Valverde**.
+
+Este miércoles 16 de octubre del 2024 a las 18:00, las jugadoras saltaron a la cancha en el primer partido del certamen ante las anfitrionas. En el **Sudamericano** de su categoría, la **Tri femenina** había alcanzado la clasificación tras finalizar en el tercer puesto.
+
+### Más noticias:
+
+* [Félix Sánchez inició mejor que Beccacece con la Selección de Ecuador](https://www.elcomercio.com/deportes/sebastian-beccacece-felix-sanchez-seleccion-ecuador.html "Félix Sánchez inició mejor que Beccacece con la Selección de Ecuador")
+* [Marcelo Bielsa catalogó a la Selección de Ecuador como un rival difícil](https://www.elcomercio.com/deportes/futbol/marcelo-bielsa-catalogo-seleccion-de-ecuador-como-un-rivla-dificil.html "Marcelo Bielsa catalogó a la Selección de Ecuador como un rival difícil")
+* [La Selección de Ecuador estrenará camiseta en el Mundial Sub-17 femenina](https://www.elcomercio.com/deportes/camiseta-seleccion-ecuador-mundial-sub-17.html "La Selección de Ecuador estrenará camiseta en el Mundial Sub-17 femenina")
+
+Para la **Copa del Mundo**, el equipo nacional se ubicó en el grupo A y, además del choque que tuvo contra las dominicanas, también debe disputar dos más. Sus futuras rivales son **Nigeria y Nueva Zelanda**, quienes también buscan uno de los dos cupos hacia la siguiente ronda.
+
+De cara al cotejo frente al conjunto de Centroamérica, el DT **Eduardo Moscoso** optó por un 4-3-3 y Valverde fue la referente en punta. La delantera tuvo un destacado compromiso y fue fundamental para que la Tri Sub-17 consiga el triunfo.
+
+Jasmyn Valverde, la pieza clave de la Selección de Ecuador Femenina Sub-17
+--------------------------------------------------------------------------
+
+Desde los primeros minutos de juego, la **Selección de Ecuador Femenina Sub-17** piso el acelerador y supo llegar al campo rival. **Jasmym Valverde**, en la zona ofensiva, estuvo encargada de aguantar marcas, buscar balones al espacio y ser la primera en presionar la salida rival[.](https://en.wikipedia.org/wiki/Ecuador_women%27s_national_under-17_football_team "https://en.wikipedia.org/wiki/Ecuador_women%27s_national_under-17_football_team")
+
+Con el medio campo controlado y con **Fiorella Pico** como la jugadora a seguir en dicha zona, **Valverde** pudo encontrar el primer tanto. A los 14 minutos de juego, tras una llegada ecuatoriana al área y un rebote de la arquera rival, la **artillera** soltó un remate que reventó las redes rivales.
+
+El primer golpe del combinado ecuatoriano dejó mal parada a **República Dominicana** y no encontró su reacción. A los 29′, Valverde recibió pase aéreo en diagonal desde el mediocampo e impactó el balón de primera para poner el 2-0.
+
+Con los dos tantos de ventaja, la **Selección de Ecuador** se dedicó a controlar el partido y mantener el resultado hasta la finalización. El resultado pone al combinado nacional en el segundo puesto por debajo de **Nigeria**.
+
+¿Cuándo juega la Selección de Ecuador en el Mundial Femenino Sub-17?
+--------------------------------------------------------------------
+
+La **Selección de Ecuador** tendrá su siguiente partido en el Mundial Femenino Sub-17 durante el sábado 19 de octubre del 2024. A las 15:00, el plantel se enfrentará con **Nigeria** en busca del liderato del grupo y de asegurar la clasificación.
+
+Liam Payne, exintegrante de One Direction, jugó para Inglaterra
+===============================================================
+
+El cantante británico Liam Payne falleció este miércoles 16 de octubre en Argentina a los 31 años.
+--------------------------------------------------------------------------------------------------
+
+![Liam Payne (+) en el evento benéfico de Soccer Aid en Inglaterra.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T190912.285.jpg)
+
+Además de su carrera musical, **Liam Payne** tenía una gran pasión por el fútbol. En dos ocasiones, tuvo la oportunidad de representar a su país en eventos benéficos, vistiendo la camiseta de la Selección de Inglaterra.
+
+El exintegrante de la famosa banda **One Direction** participó en el **Soccer Aid**, un evento británico organizado en colaboración con UNICEF, que se realiza desde 2006. Originalmente bianual, pero el evento ha sido anual desde 2018.
+
+### Más noticias:
+
+* [Exintegrante de One Direction murió al caer desde un tercer piso](https://www.elcomercio.com/tendencias/entretenimiento/one-direction-deceso-tercer-piso.html "Exintegrante de One Direction murió al caer desde un tercer piso")
+* [Thomas Tuchel es el nuevo director técnico de Inglaterra](https://www.elcomercio.com/deportes/futbol/thomas-tuchel-es-el-nuevo-director-tecnico-de-inglaterra.html "Thomas Tuchel es el nuevo director técnico de Inglaterra")
+* [Piero Hincapié interesa a grandes de Inglaterra](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-interes-inglaterra.html "Piero Hincapié interesa a grandes de Inglaterra")
+
+Payne jugó en las ediciones de 2022 y 2023, defendiendo a la **Selección de Inglaterra**, que reúne a celebridades y jugadores históricos. En el equipo rival, se combinan también estrellas y futbolistas, pero del resto del mundo.
+
+Liam Payne fue capitán y jugó por Inglaterra
+--------------------------------------------
+
+En su primer Soccer Aid en 2022, **Liam Payne fue capitán de la selección inglesa**, compartiendo equipo con celebridades como el atleta Mo Farah y futbolistas legendarios como **Gary** **Neville**, Jamie Carragher y Joe Cole.
+
+Payne **disputó 28 minutos como volante por derecha** antes de ser sustituido. Finalmente, su equipo perdió en la tanda de penales tras un empate 2-2 en el tiempo reglamentario.
+
+En su última participación en el **Soccer Aid**, en 2023, **Payne no fue capitán**, pero jugó junto a figuras como Tom Hiddleston y Asa Butterfield. Entre los futbolistas que lo acompañaron estuvieron Paul Scholes y **Jack Wilshere**, entre otros.
+
+En esa ocasión, jugó 30 minutos como extremo derecho. **Inglaterra** perdió nuevamente, esta vez 2-4.
+
+![Liam Payne (+) en el evento benéfico de Soccer Aid en Inglaterra.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T193052.229-1024x683.jpg)
+
+Liam Payne (+) en el evento benéfico de Soccer Aid en Inglaterra.
+
+Liam Payne falleció en Argentina
+--------------------------------
+
+El exintegrante de la banda británica One Direction, f**alleció el miércoles 16 de octubre de 2024 en Buenos Aires, Argentina.**
+
+El cantante de 31 años **murió tras caer desde el tercer piso** de un hotel, según informaron fuentes oficiales.
+
+El director de los servicios de emergencias médicas de Buenos Aires, Alberto Crescenti, confirmó el fallecimiento, explicando que la caída le provocó “lesiones gravísimas que ocasionaron su muerte de manera inmediata”.
+
+Félix Sánchez inició mejor que Beccacece con la Selección de Ecuador
+====================================================================
+
+Félix Sánchez tuvo un mejor rendimiento que Sebastián Beccacece en sus cuatro primeros partidos a nivel general y en eliminatorias.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Sebastián Beccacece, actual técnico de la Selección de Ecuador, y Félix Sánchez, antiguo DT.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000146202-scaled.jpg)
+
+**Sebastián Beccacece** finalizó la novena y décima jornada de eliminatorias con dos empates cosechados con la Selección de Ecuador. Tras cuatro partidos al mando del equipo, este no consiguió superar el arranque de su antecesor **Félix Sánchez Bas**.
+
+En la última doble fecha de las eliminatorias rumbo la **Mundial 2026**, el argentino y la Tri igualaron sin goles en los dos cotejos que disputaron. El plantel empató como local ante Paraguay y con Uruguay en Montevideo[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+### Más noticias:
+
+* [¿Qué tanto favorecen los empates de la Selección de Ecuador?](https://www.elcomercio.com/deportes/seleccion-ecuador-empates-eliminatorias-beccacece.html "¿Qué tanto favorecen los empates de la Selección de Ecuador?")
+* [Ecuador desaprovechó el talento de John Yeboah en las eliminatorias](https://www.elcomercio.com/deportes/futbol/ecuador-desaprovecho-talento-john-yeboah-eliminatorias.html "Ecuador desaprovechó el talento de John Yeboah en las eliminatorias")
+* [La Selección de Ecuador estrenará camiseta en el Mundial Sub-17 femenina](https://www.elcomercio.com/deportes/camiseta-seleccion-ecuador-mundial-sub-17.html "La Selección de Ecuador estrenará camiseta en el Mundial Sub-17 femenina")
+
+Para los compromisos ante la ‘Albirroja’ y la ‘Celeste’, **Beccacece** sumó dos meses en el cargo y contó con mayor tiempo de trabajo con relación a su llegada inicial. Antes, el estratega cayó en su debut ante Brasil y consiguió una victoria ante Perú, también en eliminatorias.
+
+Con los últimos resultados, el argentino acumula dos empates, una victoria y una derrota a partir de su arribo. Aquellos resultados, frente a los de **Félix Sánchez,** son inferiores con respecto a los del entrenador español, tanto en sus cuatro primeros duelos en general como en eliminatorias.
+
+El arranque de Félix Sánchez con la Selección de Ecuador y en eliminatorias
+---------------------------------------------------------------------------
+
+**Félix Sánchez Bas** arribó a la Selección de Ecuador para sustituir a Gustavo Alfaro en el cargo después del Mundial de Catar 2022. Este inició su trajín con partidos amistosos de preparación y luego debutó en eliminatorias.
+
+En sus cuatro primeros choques, que fueron de exhibición, Sánchez Bas consiguió tres victorias y una derrota. Los triunfos fueron ante **Australia, Costa Rica y Bolivia** y la derrota, también con **Australia**.
+
+A nivel de eliminatorias, los cuatro cotejos iniciales para el estratega español se dieron frente a **Argentina, Uruguay, Bolivia y Colombia**. Estos dejaron un saldo de siete puntos, dos más que los que lleva Beccacece, a raíz de una derrota, dos victorias y un empate.
+
+La salida de Félix Sánchez y la llegada de Sebastián Beccacece a la Selección de Ecuador
+----------------------------------------------------------------------------------------
+
+Félix Sánchez Bas dejó la Selección de Ecuador tras su participación en la Copa América 2024 en julio del 2024, después de ser eliminado con la escuadra nacional en los cuartos de final del certamen. Allí, la Tri cayó en penales ante Argentina.
+
+Una vez que el español se desvinculó, la Federación Ecuatoriana de Fútbol y el plantel arrancaron su búsqueda de un nuevo entrenador. Sebastián Beccacece fue el elegido y fue anunciado el 1 de agosto del 2024.
+
+Cortes de luz en Guayaquil este jueves 17 de octubre
+====================================================
+
+Los cortes de luz en Guayaquil para este jueves 17 de octubre son programados por CNEL.
+---------------------------------------------------------------------------------------
+
+![Los horarios de cortes de luz en Guayaquil para este jueves 17 de octubre son de hasta 10 horas.](https://www.elcomercio.com/wp-content/uploads/2024/04/luz1.jpg)
+
+Los **cortes de luz** en **Guayaquil** este **jueves 17 de octubre** de 2024 se mantienen con una duración de hasta 10 horas.
+
+**CNEL** fijó los mismos horarios de los cortes en Guayaquil para toda la semana.
+
+### Más noticias:
+
+* [Parque Samanes de Guayaquil cambia su horario por cortes de luz](https://www.elcomercio.com/actualidad/guayaquil/parque-samanes-guayaquil-cambio-horario.html "Parque Samanes de Guayaquil cambia su horario por cortes de luz")
+* [Cortes de luz tendrán nuevos horarios las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-tendran-nuevos-horarios-proximas-tres-semanas.html "Cortes de luz tendrán nuevos horarios las próximas tres semanas")
+* [Cortes de luz complican al sector industrial; 3 647 trabajadores fueron despedidos en un mes](https://www.elcomercio.com/actualidad/negocios/cortes-luz-industria-despidos-intempestivos.html "Cortes de luz complican al sector industrial; 3 647 trabajadores fueron despedidos en un mes")
+
+Los horarios de los cortes de luz para el jueves 17 de octubre en el país se mantienen; mientras se realiza un nuevo anuncio del Gobierno sobre el tema.
+
+El presidente **Daniel Noboa** se refirió a la crisis eléctrica y señaló que, el jueves por la noche, se anunciarán los nuevos horarios de cortes de luz para las próximas tres semanas.
+
+Este miércoles, en una visita a Manabí, Noboa dijo que también se anunciarán las “**acciones urgentes**” para que los apagones se acaben lo antes posible.
+
+Cortes de luz en Guayaquil este jueves 17 de octubre
+----------------------------------------------------
+
+El Gobierno busca el transporte de soluciones móviles de energía en aviones Hércules o la generación de proyectos de energía alternativa, entre otras soluciones.
+
+Mientras, los cortes de luz en Quito y todo el país se mantienen en diez horas, con el anuncio de las empresas eléctricas de que las horas se podrían reducir, dependiendo de las condiciones meteorológicas e hídricas.
+
+A continuación, los cortes de luz en Guayaquil para este jueves:
+
+Ecuador experimenta cambios en los destinos de sus exportaciones
+================================================================
+
+Entre enero y agosto de 2024, las exportaciones no petroleras ni mineras de Ecuador alcanzaron 13 834 millones de dólares, con un crecimiento interanual del 11%.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Las ventas totales de camarón llegaron a 4 684 millones de dólares en los primeros ocho meses del 2024. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/camarones-16.jpg)
+
+Entre enero y agosto de 2024, **Ecuador** vendió **13 834 millones de dólares** en producto no petrolero, no mineros. Estas exportaciones experimentaron un incremento interanual del 11% en los primeros ocho meses del año. En el mismo período del 2023 se vendieron 12 482 millones de dólares[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
 ### Más noticias
 
-* [Kamala Harris se refiere al uso de armas y a su plan económico](https://www.elcomercio.com/actualidad/mundo/kamala-harris-uso-armas-plan-economico.html "Kamala Harris se refiere al uso de armas y a su plan económico")
-* [Fiscal asegura que Donald Trump ‘recurrió a delitos’ para no perder el poder](https://www.elcomercio.com/actualidad/mundo/fiscal-donald-trump-informe-completo-delitos.html "Fiscal asegura que Donald Trump ‘recurrió a delitos’ para no perder el poder")
-* [Kamala Harris lanza un anuncio con una pareja que necesita la fecundación ‘in vitro’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-lanza-un-anuncio-con-una-pareja-que-necesita-la-fecundacion-in-vitro.html "Kamala Harris lanza un anuncio con una pareja que necesita la fecundación ‘in vitro’")
+* [Las exportaciones de Ecuador ganan espacio en la Unión Europea](https://www.elcomercio.com/actualidad/negocios/las-exportaciones-de-ecuador-ganan-espacio-en-la-union-europea.html "Las exportaciones de Ecuador ganan espacio en la Unión Europea")
+* [Las exportaciones del Ecuador mejoraron en julio de 2024 ¿Cuál es e](https://www.elcomercio.com/actualidad/negocios/exportaciones-ecuador-mejoraron-julio-de-2024-producto-crecio.html "Las exportaciones del Ecuador mejoraron en julio de 2024 ¿Cuál es el producto que más creció?")[l](https://www.elcomercio.com/actualidad/negocios/exportaciones-ecuador-mejoraron-julio-de-2024-producto-crecio.html "Las exportaciones del Ecuador mejoraron en julio de 2024 ¿Cuál es el producto que más creció?") [producto que más creció?](https://www.elcomercio.com/actualidad/negocios/exportaciones-ecuador-mejoraron-julio-de-2024-producto-crecio.html "Las exportaciones del Ecuador mejoraron en julio de 2024 ¿Cuál es el producto que más creció?")
+* [China sufre desaceleración económica, ¿afecta al Ecuador?](https://www.elcomercio.com/actualidad/negocios/china-sufre-desaceleracion-economica-afecta-ecuador.html "China sufre desaceleración económica, ¿afecta al Ecuador?")
 
-El sondeo de la **Federación Hispana** y Latino Victory Foundation divulga hoy que la candidatura de la demócrata provocó **entusiasmo entre los hispanos** de los estados clave, un sector poblacional en el que mantiene una ventaja de más de 25 puntos con respecto a su oponente.
+Principales destinos de los productos ecuatorianos
+--------------------------------------------------
 
-De este modo, la encuesta, publicada a tres semanas de las elecciones, revela que **Harris está al frente** en cada uno de los **siete estados bisagra,** con un porcentaje de favorabilidad en cada estado de entre el 58 % y el 54 %.
+Hasta agosto, la Unión Europea fue el primer destino para la oferta no petrolera no minera del Ecuador. Durante este periodo, las exportaciones no petroleras no mineras al mercado europeo alcanzaron 3 543 millones de dólares. El monto representa un incremento del 35% en comparación con el mismo período del 2023.
 
-En **Pensilvania**, uno de los estados clave, **Harris se haría con un 57 % del voto latino,** frente al 27 % de Trump.
+**Estados Unidos** es el segundo destino comercial de los productos ecuatorianos, con 2 973 millones de dólares vendidos. Las exportaciones a este destino registraron un incremento del 15%, frente a los mismo meses del 2023.
 
-Los resultados también muestran que el **71 % de los electores latinos** planea ir a votar, especialmente los que viven en estados clave como Michigan y Pensilvania.
+Mientras que en los primeros ocho meses del año, Ecuador exportó 2 444 millones de dólares a China. El monto significa **21% menos** de lo vendido en el mismo período del 2023. Los principales productos fueron: camarón, banano, alimentos para animales, madera y cacao en grano.
 
-Además, un 74 % asegura que está siguiendo de cerca las noticias sobre las elecciones del 5 de noviembre.
+Desde inicios de 2024 los **destinos** para los productos ecuatorianos han sufrido una variación.
 
-Poder de los votantes latinos
------------------------------
+Hasta diciembre del 2023, **China** terminó como el principal destino de las exportaciones ecuatorianas. Aunque, según el análisis de la Federación Ecuatoriana de Exportadores (Fedexpor), las ventas al país asiático se estancaron ese año, principalmente por la caída de precios del principal producto de exportación hacia este mercado: **el camarón.**
 
-“Nuestra esperanza es que con esta encuesta podamos replantear la manera en que se percibe el **poder de los votantes latinos**, tanto a nivel nacional como estatal. No obstante, lo más importante es que ayudemos a nuestra propia comunidad a llegar a las urnas”, expresó hoy el presidente de la federación, Frankie Miranda, en una conferencia de prensa celebrada en Pensilvania.
+Exportaciones de camarón
+------------------------
 
-Miranda destacó que los resultados “confirman que los **latinos están escuchando y** se preocupan por las próximas elecciones”.
+Las exportaciones de camarón hacia China se redujeron. Entre enero y agosto de 2024, Ecuador exportó 4 684 millones de dólares al **país asiático en el crustáceo**. El monto significa una reducción del 6% en comparación con el mismo período del 2023. Mientras que en volumen el aumento fue del 2%.
 
-La encuesta, que se elaboró entre el 2 y el 10 de octubre con una muestra de 1 900 latinos, muestra que un **60 % de los entrevistados** está más interesado en votar en los **comicios tras la llegada de Harris.**
+Es decir, la reducción del precio de camarón es significativa. Según datos de la **Cámara Nacional de Acuacultura** (CNA), el precio promedio por libra fue de 2,22 dólares en los primeros ocho meses de 2024. Mientras que en el mismo período de 2023, el promedio fue de 2,40 dólares por libra.
 
-“Hay un **apoyo más fuerte al partido demócrata** a través de la inmigración, las asuntos de la clase trabajadora y otras cosas”, indicó el profesor Matt Barreto, director de la firma demócrata BSP Research.
+Según datos publicados por la Aduana de China, las importaciones primarias de productos del mar de China sufrieron una disminución del 11,7% en el primer semestre de 2024, en comparación con el mismo período del 2023.
 
-Barreto también mencionó la **inversión récord de la campaña de Harris** en la comunidad latina y en eventos en estados como **Pensilvania, Arizona o Nevada** para cotejar el voto latino, frente a la reducción de personal y de comités de campaña latinos llevado a cabo por Trump.
+Así **Unión Europea** se consolida como el principal socio comercial del Ecuador, aunque hay que tomar en cuenta que este bloque agrupa a 27 países.
 
-Por otra parte, la mayoría de los latinos consideran como su principal problema el **coste de vida y la inflación (un 59 %), el empleo (38 %) y el coste y acceso a la vivienda (32 %)**. También mencionan otros temas como los d**erechos reproductivos, el cambio climático, la situación en la frontera con México** y el acceso a cuidados médicos.
+Y aunque China pasó al tercer lugar como destino de los productos ecuatorianos no petroleros, no mineros sigue siendo muy importante por sus 1 400 millones de potenciales compradores.
+
+Ecuador eliminó a Chile y clasificó a la final del sudamericano sub-15
+======================================================================
+
+Con sufrimiento, Ecuador avanzó a la final del Sudamericano Sub-15
+------------------------------------------------------------------
+
+![Jugadores de la Selección de Ecuador Sub-15 celebrando un gol ante Chile.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T181730.831.jpg)
+
+La **Selección de Ecuador sub-15** empató 3-3 ante Chile en las semifinales del **Sudamericano** sub-15, disputadas en Santa Cruz, Bolivia, el 16 de octubre. Sin embargo, en la tanda de penales, gracias a una destacada actuación del guardameta Miguel Peralta, la **‘Tri’ juvenil logró avanzar a la final.**
+
+Este histórico resultado marca la mejor participación de Ecuador en esta categoría, superando el tercer lugar obtenido en el Sudamericano Sub-15 de 2009, también celebrado en Bolivia. Aquella vez, en el equipo destacaron nombres como el de **Junior Sornoza.**
+
+### Más noticias:
+
+* [La Selección de Ecuador sub-15 perdió, pero se clasificó](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-sub15-venezuela-resultado.html "La Selección de Ecuador sub-15 perdió, pero se clasificó")
+* [La Selección de Ecuador sub-15 presentó sus convocados](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-sub15-convocados-sudamericano.html "La Selección de Ecuador sub-15 presentó sus convocados")
+* [Marcelo Bielsa catalogó a la Selección de Ecuador como un rivla difícil](https://www.elcomercio.com/deportes/futbol/marcelo-bielsa-catalogo-seleccion-de-ecuador-como-un-rivla-dificil.html "Marcelo Bielsa catalogó a la Selección de Ecuador como un rivla difícil")
+
+Ecuador disputará su primera final en este torneo y enfrentará al ganador del duelo entre Argentina y Paraguay, que se juega la misma noche del 16 de octubre. La **final está programada para el sábado 19 de octubre** a las 19:30, en el Estadio Ramón Aguilera Costas.
+
+**Ecuador eliminó a Chile y avanzó a la final**
+-----------------------------------------------
+
+Ecuador comenzó ganando el encuentro con un gol de **Edwin Quintero** a los 13 minutos. Sin embargo, Chile reaccionó y consiguió darle vuelta al marcador antes de finalizar el primer tiempo. La ‘Roja’ empató a los 32 minutos y se adelantó a los 37.
+
+La alegría y euforia de la Selección de Chile fue breve, ya que dos minutos después, **Justin Lerma, el número 10 y figura de la Sub-15 de Ecuador,** empató el encuentro antes del descanso.
+
+Al inicio del segundo tiempo, Ecuador nuevamente salió con fuerza e hizo una anotación de vestidor. A los 46 minutos, el goleador del torneo para la ‘Tri’, **Juan Riquelme Angulo**, puso el 3-2.
+
+El s**ufrimiento llegó en los minutos finales** cuando Chile igualó el marcador, llevando el partido a la definición por penales.
+
+Desde los once pasos, **Miguel Peralta se convirtió en el héroe de la noche**, atajando dos remates que aseguraron la clasificación de Ecuador a la final del Sudamericano Sub-15.
+
+> ¡El primer finalista! 🔝  
+>   
+> Ya [@LaTri](https://twitter.com/LaTri?ref_src=twsrc%5Etfw) consiguió su boleto para definir el título en la CONMEBOL [#Sub15](https://twitter.com/hashtag/Sub15?src=hash&ref_src=twsrc%5Etfw) 🇪🇨🏆[#CreeEnGrande](https://twitter.com/hashtag/CreeEnGrande?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gTPkYMOrXd](https://t.co/gTPkYMOrXd)
+> 
+> — CONMEBOL.com (@CONMEBOL) [October 16, 2024](https://twitter.com/CONMEBOL/status/1846690727083876739?ref_src=twsrc%5Etfw)
+
+Parque Samanes de Guayaquil cambia su horario por cortes de luz
+===============================================================
+
+La Alcaldía de Guayaquil explicó que la medida se aplica para precautelar la seguridad de los visitantes.
+---------------------------------------------------------------------------------------------------------
+
+![Este extenso espacio verde es uno de los principales puntos elegidos por los guayaquileños para practicar ejercicio al aire libre](https://www.elcomercio.com/wp-content/uploads/2024/10/samanes.jpg)
+
+La Alcaldía de **Guayaquil** informó que el **Parque Samanes**, ubicado en el norte de la ciudad, cambiará sus horarios de acceso al público debido a los **cortes de luz** programados.
+
+La entidad, a través de la Empresa Pública de Parques, Áreas Verdes y Espacios Públicos (**Parques EP**), informó que las puertas del extenso lugar cerrarán a partir de las **18:00**, de este miércoles 16 de octubre de 2024.
+
+### Más noticias
+
+* [Cortes de luz en Guayaquil este miércoles 16 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-miercoles-16-octubre.html "Cortes de luz en Guayaquil este miércoles 16 de octubre")
+* [Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia](https://www.elcomercio.com/actualidad/ecuador/cuerpo-de-bomberos-de-guayaquil-fue-asaltado-mientras-atendia-una-emergencia.html "Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia")
+* [Josué Sánchez, el creador del chop suey de cangrejo y camarón, en Guayaquil](https://www.elcomercio.com/videos/sabores-video/chop-suey-pata-gorda-guayaquil.html "Josué Sánchez, el creador del chop suey de cangrejo y camarón, en Guayaquil")
+
+La medida, que según señaló la empresa “tiene como objetivo precautelar la seguridad de los visitantes” al parque”, se mantendrá **todas las noches** de lunes a domingo, “hasta nuevo aviso”.
+
+En el día, las actividades planificadas en el parque se desarrollan con normalidad, afirmó la entidad.
+
+De igual manera, los eventos programados para este **fin de semana** se mantienen sin cambios de 06:00 a 18:00,
+
+Parque Samanes
+--------------
+
+El Área Protegida del Parque Samanes cuenta con **851 hectáreas**, sin embargo, 224 de estas están destinadas para su uso recreacional.
+
+Esta área verde, fundada en **2010**, es uno de los principales puntos de distracción al aire libre para los guayaquileños.
+
+En su interior, tienes **áreas** para ciclovías, senderos para caminata, canchas de futbol, básquet y tenis, áreas de juegos infantiles, zonas de pícnic, y amplios espacios verdes.
+
+Los Samanes está ubicado en el **norte de la ciudad**. Para acceder se pueden tomar varias rutas: la autopista Guayaquil – Daule, la Av. Francisco de Orellana, la Av. Isidro Ayora, o el carretero vía a Daule.
+
+Cortes de luz en Guayaquil
+--------------------------
+
+Los apagones programados en Guayaquil se extienden hasta por **10 horas**, al igual que en las otras ciudades del país.
+
+El Gobierno tiene previsto que la suspensión de energía eléctrica llegue hasta **finales de año**, y que para diciembre sean mínimos.
+
+La empresa eléctrica que distribuye el servicio en la capital de Guayas, es la Corporación Nacional de Electricidad (**Cnel**).  
+
+Alcalde quiere extender el Metro de Quito y acude al Banco Mundial
+==================================================================
+
+Para el alcalde de Quito, Pabel Muñoz, extender el Metro hacia La Ofelia y luego a Calderón, ayudará a mejorar la movilidad en la capital.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![El alcalde de Quito, Pabel Muñoz, se reunió con Bianca Bianchi, gerente de la Práctica de Transporte del Banco Mundial (a su derecha), para tratar la prolongación del Metro de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-8-1.jpg)
+
+El **alcalde de Quito**, Pabel Muñoz, se reunió, el martes 15 de octubre del 2024, con **Bianca Bianchi**, gerente de la Práctica de Transporte del **Banco Mundial** (BM) para América Latina y Caribe. El objetivo de esta cita fue para lograr un **financiamiento** que permita extender el **Metro de Quito** hacia Calderón.
+
+### Más noticias
+
+* [Cortes de luz no afectan la operación del Metro de Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-no-afectan-operacion-metro-de-quito.html "Cortes de luz no afectan la operación del Metro de Quito")
+* [Reforma del presupuesto del Municipio de Quito trae implicaciones](https://www.elcomercio.com/actualidad/quito/reforma-presupuestaria-quito-implicaciones-presupuesto.html "Reforma del presupuesto del Municipio de Quito trae implicaciones")
+* [Donación de órganos se aborda en feria en Quito, ¿cómo es el proceso en Ecuador?](https://www.elcomercio.com/actualidad/ecuador/donacion-organos-feria-quito-proceso-ecuador.html "Donación de órganos se aborda en feria en Quito, ¿cómo es el proceso en Ecuador?")
+
+La extensión del Metro de Quito y el Banco Mundial
+--------------------------------------------------
+
+Durante la reunión, el Alcalde de Quito defendió la importancia de este medio de transporte para la ciudad porque mejora la **movilidad**. “Con esta extensión, el **Metro de Quito** llegaría a una de las parroquias más grande de América Latina, que es Calderón”, dijo el Alcalde. Aunque el primer tramo será hasta La Ofelia, en el norte de la ciudad.
+
+Por su parte, **Bianchi** y otros representantes del **Banco Mundial**, “se mostraron abiertos a participar en una posible extensión del **Metro de Quito**“, Además, dijo que existe una demanda potencial muy grande y destacó “la importancia de trabajar en temas de **inserción urbana**“.
+
+¿Es viable una extensión del Metro de Quito?
+--------------------------------------------
+
+Desde la administración de **Augusto Barrera** (2009-2014) y luego de la **Mauricio Rodas** (2014-2019), **Jorge Yunda** (2019-2021), **Santiago Guarderas** (2021-2023) y la actual, **Quito** se ha convertido en ‘**Metrocéntrica**‘. En eso coinciden **Andrés Dávalos**, director del **Observatorio del Metro de Quito**, y **Andrés Castillo**, decano de la **Facultad de Ciencias Técnicas de la Universidad Internacional**[.](https://es.wikipedia.org/wiki/Metro_de_Quito#Financiamiento "https://es.wikipedia.org/wiki/Metro_de_Quito#Financiamiento")
+
+El **problema**, añaden ambos, es que por el momento **no es viable**. **Castillo**, por ejemplo, sostiene que no se ha logrado conseguir el **punto de equilibrio** de usuarios que permitan que el **Metro**, tal como lo conocemos ahora, pueda ser sustentable.
+
+Recientemente, la empresa **Metro de Quito** ha contabilizado, desde el **inicio de su operación** el 1 de diciembre del 2023, **43 294 272 de viajes**. Y el viernes 13 de septiembre pasado, se registró la mayor afluencia de pasajeros: 176 958.
+
+“**El punto de equilibrio del Metro** desde un inicio fue de **400 000 pasajeros diarios** y no hemos llegado ni a la mitad de eso”, dice **Castillo**.
+
+Habrá que buscar “**una salida a este déficit mortal**; el **Municipio tendrá que duplicar el subsidio** porque el pasaje de esos **400 000 usuarios era de un dólar**, ahora, con menos pasajeros, se cobra 45 centavos de dólar.  
+
+Presupuesto y niveles del suelo para el Metro de Quito
+------------------------------------------------------
+
+El **problema fundamental** para extender el **Metro de Quito** y que lo haría aún más inviable, es la **diferencia de niveles de suelo**, que incrementará notoriamente el presupuesto inicial, dice **Dávalos**. Un presupuesto que, como con el **Metro** **actual**, comienza en un valor y termina incrementándose, sostiene **Castillo**.
+
+El **Metro de Quito**, desde **Quitumbe** hasta **El Labrador**, tuvo un **prespuesto** inicial de **1.499,9 millones de dólares**.  Luego, aumentó a **2009 millones de dólares**.
+
+La **extensión** que propone la **Alcaldía** tendría un costo de más de **500 millones de dólares**, pero los dos expertos no descartan su aumento con el tiempo.
+
+**El desnivel de los suelos** tendrá un costo enorme, sostiene los dos expertos en movilidad en **Quito**. Sin embargo, entienden que se puede pensar en que sea **superficial y no subterráneo**. Es decir, sería un modelo híbrido, como en el **Subway** de **Nueva York.**
+
+Además, añaden, **ya hay estudios de factibilidad y de suelos** del Metro de Quito, que tiene su mayor cantidad de usuarios en las estaciones de Quitumbe (19 000), Labrador (16 000), Iñaquito (13 000), San Francisco (12 000) y El Recreo (11 000).
+
+**EL COMERCIO** intentó comunicarse con la **Alcaldía** sin conseguir respuesta.
+
+Esmeraldas registró un sismo frente a sus costas la tarde de este miércoles 16 de octubre
+=========================================================================================
+
+El IG-EPN dio los detalles técnicos del sismo en Esmeraldas, este miércoles 16 de octubre.
+------------------------------------------------------------------------------------------
+
+![El IG registró un sismo en las costas de Esmeraldas la tarde de este miércoles 16 de octubre.](https://www.elcomercio.com/wp-content/uploads/2023/04/sismo-ec.jpg)
+
+Esmeraldas registró un sismo frente a sus costas la tarde de este miércoles 16 de octubre de 2024.
+
+El Instituto Geofísico de la Escuela Politécnica Nacional (IG-EPN) reportó los datos técnicos de los dos eventos.
+
+### Más noticias:
+
+* [Sismo de magnitud 5 se sintió en el sur de Perú](https://www.elcomercio.com/actualidad/mundo/sismo-magnitud-5-siente-sur-peru.html "Sismo de magnitud 5 se sintió en el sur de Perú ")
+* [Helene, Milton o cómo Trump y los suyos usan los huracanes para campaña](https://www.elcomercio.com/actualidad/mundo/helene-milton-trump-suyos-instrumentalizan-huracanes-campana.html "Helene, Milton o cómo Trump y los suyos usan los huracanes para campaña")
+
+Sismo frente a las costas de Esmeraldas este miércoles 16 de octubre
+--------------------------------------------------------------------
+
+Un **sismo** de magnitud **4.1** se registró frente a las costas de la provincia de **Esmeraldas** a las 17:04 de este miércoles 16 de octubre de 2024.
+
+El comunicado indicó que el **evento** se registró a **30 kilómetros de profundidad**.
+
+A una distancia de 107.28 km de Esmeraldas, con una latitud de 1.93 y una longitud:-79.81.
+
+El IG-EPN detalló el temblor en su cuenta de X.
+
+> [#SISMO](https://twitter.com/hashtag/SISMO?src=hash&ref_src=twsrc%5Etfw) ID:igepn2024ujsc Revisado 2024-10-16 17:04:52 TL Magnitud: 4.1 Profundidad: 30 km, a 107.28 km de Esmeraldas, Esmeraldas, Latitud: 1.93 Longitud:-79.81 Ecuador. Sintió este sismo (débil, fuerte, muy fuerte)? Cuéntenos en dónde? [pic.twitter.com/8g7Drqieqn](https://t.co/8g7Drqieqn)
+> 
+> — Instituto Geofísico (@IGecuador) [October 16, 2024](https://twitter.com/IGecuador/status/1846677464451350813?ref_src=twsrc%5Etfw)
+
+Al momento no han existido reportes de posibles daños por este evento.
+
+**_Noticia en desarrollo…_**
+
+Marcelo Bielsa catalogó a la Selección de Ecuador como un rival difícil
+=======================================================================
+
+Hace varios años, la Selección de Ecuador dejó de ser un rival accesible y se ha consolidado como uno de los más fuertes.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Marcelo Bielsa, DT de Uruguay, y Sebastián Beccacece, DT de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T174137.808.jpg)
+
+Aunque Uruguay jugó en casa, sufrió para conseguir el empate ante **Ecuador** en la décima fecha de las eliminatorias sudamericanas, disputada el martes 15 de octubre. Por este motivo, **Marcelo Bielsa**, DT de los charrúas, destacó el nivel de la ‘Tri’ y subrayó que ahora debe ser calificada como un rival difícil.
+
+Este resultado es positivo para **Sebastián** **Beccacece**, ya que es la quinta vez que Ecuador suma puntos como visitante en el Estadio Centenario. Aunque hubo oportunidades para ganar el partido, pequeños detalles impidieron que la ‘Tri’ se llevara los tres puntos.
+
+### Más noticias:
+
+* [¿Qué tanto favorecen los empates de la Selección de Ecuador?](https://www.elcomercio.com/deportes/seleccion-ecuador-empates-eliminatorias-beccacece.html "¿Qué tanto favorecen los empates de la Selección de Ecuador?")
+* [Sebastián Beccacece tiene tatuado a Marcelo Bielsa](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-tiene-tatuado-a-marcelo-bielsa.html "Sebastián Beccacece tiene tatuado a Marcelo Bielsa")
+* [Selección de Ecuador quiere tomar ‘venganza’ contra Marcelo Bielsa](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-quiere-tomar-venganza-contra-marcelo-bielsa.html "Selección de Ecuador quiere tomar ‘venganza’ contra Marcelo Bielsa")
+
+Con este empate, la **Selección de Ecuador** se mantiene en el quinto puesto de la tabla, en zona de clasificación directa al **Mundial 2026**. La ‘Tri’ cuenta con 13 puntos, mientras que Uruguay ocupa la tercera posición con 16.
+
+Bielsa elogió el nivel de Ecuador
+---------------------------------
+
+Tras finalizar el partido, Marcelo Bielsa compareció ante la prensa y **elogió el nivel de Ecuador**, un equipo que ya no considera de menor categoría, sino uno de los más sólidos en Sudamérica.
+
+“Es un rival que tiene a **Piero** **Hincapié**, al central del PSG (Willian Pacho), al contención del Chelsea (**Moisés** **Caicedo**), al lateral de la Premier (Pervis Estupiñán), y casi todos sus jugadores están en Europa. No es un rival menor”, mencionó el ‘Loco’ en la rueda de prensa.
+
+A pesar de que **Bielsa** tiene un historial positivo contra Ecuador por su pasado como entrenador de Argentina y Chile, no ha podido vencer a la ‘Tri’ dirigiendo a Uruguay.
+
+En el primer enfrentamiento en **Quito**, disputado en el Estadio Rodrigo Paz Delgado en septiembre de 2023, su equipo perdió 2-1 ante Ecuador, con un doblete de **Félix Torres.** Agustín Canobbio fue el autor del gol para Uruguay.
+
+La Selección de Ecuador estrenará camiseta en el Mundial Sub-17 femenina
+========================================================================
+
+La Selección de Ecuador utilizará un nuevo uniforme en el Mundial Sub-17 Femenino y lo extenderá a las demás categorías.
+------------------------------------------------------------------------------------------------------------------------
+
+![Jugadoras de la Selección de Ecuador Sub-17 y absoluta con la camiseta del equipo femenino.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-16T155024.843.jpg)
+
+La **Selección de Ecuador** femenina sub-17 jugará por primera vez en su historia un Mundial de tal categoría y tendrá una sorpresa en el cotejo de estreno. El combinado nacional estrenará una camiseta diseñada, exclusivamente, para la rama femenina de la escuadra.
+
+De cara a la cita internacional, el plantel tricolor y su auspiciante mostraron la nueva indumentaria que utilizarán. La renovación no solo aplicará para el **uniforme principal**, sino que también estará presente los alternos.
+
+### Más noticias:
+
+* [¿Qué tanto favorecen los empates de la Selección de Ecuador?](https://www.elcomercio.com/deportes/seleccion-ecuador-empates-eliminatorias-beccacece.html "¿Qué tanto favorecen los empates de la Selección de Ecuador?")
+* [Hinchas ecuatorianos, ¿desencantados con la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/hinchas-ecuatorianos-desencantados-con-seleccion-de-ecuador.html "Hinchas ecuatorianos, ¿desencantados con la Selección de Ecuador?")
+* [Leonardo Campana jugó media hora en su vuelta a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-jugo-media-hora-en-su-vuelta-seleccion-de-ecuador.html "Leonardo Campana jugó media hora en su vuelta a la Selección de Ecuador")
+
+Antes de que se lleve a cabo el viaje y debut de las tricolores en el certamen, la marca auspiciante y la **Selección de Ecuador** presentaron los modelos que se utilizarán. Las jugadoras que estarán presentes en el **Mundial Sub-17**, así como otras de la escuadra absoluta, fueron las encargadas de exhibir las blusas.
+
+El estreno de los uniformes se llevarán a cabo durante este miércoles 16 de octubre del 2024. A las 18:00, las futbolistas saltarán a la cancha para medirse a **República Dominicana**, país anfitrión del certamen.
+
+¿Cómo es la camiseta titular de la Selección de Ecuador para el Mundial Femenino Sub-17?
+----------------------------------------------------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAKBuZmuZBR/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de marathon\_Ecuador (@marathon\_ecuador)](https://www.instagram.com/p/DAKBuZmuZBR/?utm_source=ig_embed&utm_campaign=loading)
+
+Las variantes del uniforme de la **Selección de Ecuador** masculina y femenina no residirán en los colores, pero sí en los diseños. Asimismo, la Tri varonil también cuenta con un uniforme alterno más que es rojo, junto con el segundo azul y el amarillo titular.
+
+En el caso del uniforme principal de las seleccionadas, la camiseta es de **color amarillo** y cuenta con serigrafiados de hojas en una tonalidad más intensa. A ello se le suman detalles de **azul** que pasan hacia el rojo de manera difuminada a los costados.
+
+Al nivel de los hombros, aquello también se aplica, pero los dos colores, presentados en figuras irregulares, se funden al amarillo. Bajo el escudo en el pecho, la palabra “**Ecuador**” fue agregada.
+
+Los pantalones cortos y las medias se mantienen de color azul. En el caso de las **arqueras**, estas lucirán dos uniformes de colores llanos, uno púrpura y otro negro.
+
+El uniforme alterno de la Tri se mantiene azul
+----------------------------------------------
+
+Para los choques en los cuales la **Tri femenina** deba utilizar el uniforme alterno, esta lo hará con una camiseta azul claro. La prenda cuenta con detalles azules a en las zonas laterales del torso y un fino anaranjado aparece al borde las mangas y del cuello.
+
+La **pantaloneta** y las **medias** de la indumentaria también serán similares entre sí. Estas son de color blanco y con matices anaranjados específicos.
+
+La Liga Pro se reanudará con cambio de horarios
+===============================================
+
+La Liga Pro entra en su recta final para definir al segundo finalista de la temporada 2024.
+-------------------------------------------------------------------------------------------
+
+![Janpol Morales (i) y Adolfo Muñoz con Macará en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/liga_pro_horarios_1.jpg)
+
+La **Liga Pro Serie A** en su segunda etapa retoma su actividad una vez que la doble fecha de eliminatorias al Mundial 2026 se cumplió la noche del martes 15 de octubre de 2024.
+
+La décima fecha de la Liga Pro se jugará del viernes 18 al domingo 20, c**on la novedad que los horarios se modificaron por los cortes de luz que afectan** al país, y con la eliminación del habitual encuentro de los lunes con el que se cerraba cada jornada.
+
+### Más noticias:
+
+* [Moisés Caicedo jugó su partido 50 y fue suspendido](https://www.elcomercio.com/deportes/futbol/moises-caicedo-seleccion-ecuador-partidos.html "Moisés Caicedo jugó su partido 50 y fue suspendido")
+* [La Selección de Ecuador rescató un punto ante Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-en-vivo-partido.html "La Selección de Ecuador rescató un punto ante Uruguay")
+* [Beccacece destacó el compromiso de la Selección de Ecuador ante Uruguay](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-compromiso-uruguay.html "Beccacece destacó el compromiso de la Selección de Ecuador ante Uruguay")
+
+Otra de las novedades es que el viernes, en la apertura de la parrilla de partidos, están programados dos juegos, **algo inusual para un torneo que se acostumbró a tener** un partido el viernes y el lunes, y tres el sábado y domingo.
+
+Aucas volverá a las antiguas programaciones de antes del mediodía en Quito, tal como se acostumbraba cuando el campeonato nacional estaba organizado por la Federación Ecuatoriana de Fútbol (FEF).
+
+El cambio más significativo es el horario de una **nueva edición del Clásico del Astillero** que se llevará a cabo en el Monumental. En un principio se planificó para las 19:00, luego pasó a las 18:00 y, finalmente será a las 17:00.
+
+Tabla de posiciones
+-------------------
+
+La tabla de posiciones tiene a **Liga de Quito como líder y como el principal candidato** a ganar la segunda etapa. En caso de concretarlo retará a Independiente del Valle, el primer finalista, para disputar el título de la temporada.
+
+**Independiente es su escolta con 17 unidades** y un diferencia positivo de +7. El tercer casillero le pertenece a Universidad Católica que tiene 16; el cuarto es Mushuc Runa, también con 16; y el quinto Orense que sigue la línea de los 16.
+
+Todos estos equipos son los más opciones para pelearle a Liga el primer lugar en la tabla de posiciones.
+
+Luego siguen Delfín (14), **El Nacional (14), Macará (13), Barcelona SC (13)**, Técnico Universitario (12), Libertad (12), Imbabura (10), Deportivo Cuenca (8), Emelec (7), Aucas (5) y Cumbayá (4).
+
+Fecha 10 – segunda etapa
+------------------------
+
+### Viernes 18/10
+
+**14:30 Cumbayá vs. Universidad Católica**
+
+Estadio: 9 de Mayo
+
+**18:00 Orense vs. Libertad**
+
+Estadio: 9 de Mayo
+
+### Sábado 19/10
+
+**13:00 Mushuc Runa vs. Deportivo Cuenca**
+
+Estadio: La Cocha
+
+**15:30 Técnico Universitario vs. Liga de Quito**
+
+Estadio: Bellavista
+
+**18:00 Independiente del Valle vs. Imbabura**
+
+Estadio: Complejo IDV
+
+### Domingo 20/10
+
+**11:00 Aucas vs. Macará**
+
+Estadio: Gonzalo Pozo Ripalda
+
+**13:30 Delfín vs. El Nacional**
+
+Estadio: Jocay
+
+**17:00 Barcelona SC vs. Emelec**
+
+Estadio: Monumental
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Perú lanza alerta epidemiológica ante el riesgo de casos importados de sarampión
+================================================================================
+
+Las autoridades sanitarias de Perú emitieron este miércoles, 16 de octubre de 2024, una alerta epidemiológica para advertir el riesgo de introducción de casos importados de sarampión. Ocurre también en países cercanos, como Argentina y Bolivia, tienen casos confirmados de esa enfermedad, informó un comunicado oficial. Más noticias El Ministerio de Salud (Minsa) señaló que \[…\]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![En Perú se registran casos de Perú.](https://www.elcomercio.com/wp-content/uploads/2024/10/sarampion-efe-1.jpg)
+
+Las autoridades sanitarias de [Perú](https://www.elcomercio.com/actualidad/mundo/peru-refuerza-vigilencia-monitoreo-ambiental-santuario-machu-picchu.html "https://www.elcomercio.com/actualidad/mundo/peru-refuerza-vigilencia-monitoreo-ambiental-santuario-machu-picchu.html") emitieron este miércoles, 16 de octubre de 2024, una **alerta epidemiológica** para advertir el **riesgo de introducción** de casos importados de **sarampión**. Ocurre también en países cercanos, como **Argentina y Bolivia**, tienen casos confirmados de esa enfermedad, informó un comunicado oficial.
+
+### Más noticias
+
+* [Perú refuerza la vigilencia y el monitoreo ambiental en el santuario del Machu Picchu](https://www.elcomercio.com/actualidad/mundo/peru-refuerza-vigilencia-monitoreo-ambiental-santuario-machu-picchu.html "Perú refuerza la vigilencia y el monitoreo ambiental en el santuario del Machu Picchu")
+* [Perú venció a Uruguay de manera agónica en eliminatorias](https://www.elcomercio.com/deportes/futbol/peru-vencio-uruguay-de-manera-agonica-en-eliminatorias.html "Perú venció a Uruguay de manera agónica en eliminatorias")
+* [Perú atendió este 2024 más de 1,3 millones de casos por trastornos de salud mental](https://www.elcomercio.com/actualidad/mundo/peru-atendio-2024-13-millones-de-casos-trastornos-salud-mental.html "Perú atendió este 2024 más de 1,3 millones de casos por trastornos de salud mental")
+
+El Ministerio de Salud (Minsa) señaló que la alerta se lanzó a través del **Centro Nacional de Epidemiología, Prevención y Control de Enfermedades (CDC Perú)**. Invocó a los padres de familia de niños de 1 a 6 años a vacunar a sus hijos con una dosis adicional contra esta enfermedad.
+
+Añadió que esta vacuna se está aplicando en un **“barrido nacional de vacunación”** que se inició contra el sarampión el 15 pasado de septiembre y continuará hasta el 27 de octubre.
+
+Mediante la alerta epidemiológica, el CDC Perú exhortó a los **establecimientos de salud públicos** y privados de todo el país a estar atentos al riesgo de introducción de **casos importados de sarampión**, para que intensifiquen las **actividades de vacunación** y de vigilancia epidemiológica.
+
+El Minsa señaló que el último caso autóctono de sarampión en Perú se presentó en el año 2000, en el distrito de Ventanilla, de la región Callao, vecina de Lima.
+
+Casos importados
+----------------
+
+A inicios de este año, se confirmaron **dos casos importados de sarampión** en el país, agregó.
+
+La información oficial indicó que en lo que va de 2024, se notificaron 365 casos confirmados de sarampión en ocho países de América, **264 de ellos en Estados Unidos, 82 en Canadá, 7 en México, 3 en Argentina, 3 Bolivia, 2 en Perú, 2 en Islas Turcas y Caicos, y otros 2 en Brasil.**
+
+Añadió que, con el actual “barrido nacional de vacunación” contra el sarampión, la meta del país es proteger a más de **2,8 millones de niños de 1 a 6 años** y logra una cobertura de vacunación superior al 95 %, un porcentaje considerado “ideal y óptimo” para evitar nuevos brotes de la enfermedad en el país. 
+
+Exintegrante de One Direction murió al caer desde un tercer piso
+================================================================
+
+Desde joven, Liam Payne mostró interés por la música.
+-----------------------------------------------------
+
+![El cantante inglés Liam Payne murió este 16 de octubre de 2024. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-16T171116.070.jpg)
+
+**Liam Payne**, exintegrante de la banda inglesa **One Direction**, murió este miércoles 16 de octubre de 2024 en Buenos Aires (Argentina).
+
+Sucedió al caer desde el **tercer piso** de un hotel, según confirmaron fuentes oficiales.
+
+### **Más noticias:**
+
+* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
+* [¿Karol G o Shakira? Favoritos para triunfar en los Premios Billboard de la Música Latina](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-shakira-premios-billboard-musica-latina.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-shakira-premios-billboard-musica-latina.html")
+* [Canciones con contenido que pocas personas escuchan](https://www.elcomercio.com/uncategorized/canciones-contenido-spotify-musica-ecuador.html "https://www.elcomercio.com/uncategorized/canciones-contenido-spotify-musica-ecuador.html")
+
+El fallecimiento del artista de **31 años** fue confirmado por el director de los servicios de emergencias médicas de la ciudad de Buenos Aires, Alberto Crescenti.
+
+Crescenti dijo a medios locales que la caída le ocasionó “lesiones gravísimas que le provocaron inmediatamente la muerte”. 
+
+Audio previo a la muerte de Payne fue revelado
+----------------------------------------------
+
+Medios locales revelaron una **conversación** que tuvo el encargado del hotel desde el que cayó Payne con la Policía.
+
+En la breve **llamada** se escucha al hombre, con mucha calma, solicitar ayuda por los malos comportamientos del músico.
+
+“Tenemos un huésped que está sobrepasado de droga y **está rompiendo toda la habitación**”, dijo el administrador del establecimiento a las autoridades.
+
+Luego de unos segundos, el hombre cortó la comunicación telefónica.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBM--N0MEtZ/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por RTS Ecuador / Canal de TV (@rtsecuador)](https://www.instagram.com/reel/DBM--N0MEtZ/?utm_source=ig_embed&utm_campaign=loading)
+
+Así despuntó Liam Payne en el mundo de la música
+------------------------------------------------
+
+Liam Payne, nacido el 29 de agosto de 1993 en Wolverhampton, Inglaterra, fue un cantante y compositor conocido por ser uno de los miembros de la exitosa boy band **One Direction**.
+
+Desde joven, Liam mostró interés por la música y participó en varios concursos antes de audicionar para ‘**The X Factor**‘ en 2010.
+
+Aunque no logró avanzar como solista, fue seleccionado para formar parte de One Direction, que rápidamente alcanzó la fama mundial, lanzando múltiples álbumes y realizando giras a **nivel internacional**.
+
+Tras la disolución del grupo en 2016, **Liam** inició una carrera como solista, lanzando sencillos que han tenido buena recepción, como Strip That Down.
+
+Además de su música, ha estado involucrado en diversas causas benéficas y ha compartido su experiencia personal sobre **salud mental**, convirtiéndose en un referente para muchos de sus fans.
+
+Dragonas disputarán el tercer lugar de la Libertadores Femenina
+===============================================================
+
+Dragonas Independiente son el primer equipo ecuatoriano que jugarán la final de la Copa Libertadores Femenina.
+--------------------------------------------------------------------------------------------------------------
+
+![Jugadoras de Independiente celebran un gol de Claudia Elena Roldán este miércoles, en un partido de la Copa Libertadores Femenina ante Santa Fe.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_final_1.jpg)
+
+**Dragonas Independiente** se quedaron en las puertas de jugar la final de la Copa Libertadores Femenina 2024, que se juega en Asunción, Paraguay y que tiene a las ecuatorianas entre las mejores.
+
+Este miércoles 16 de octubre, **Dragonas perdieron ante Independiente Santa Fe de Colombia** por 4-2 en la tanda de penales, luego de empatar 1-1 en los 90 minutos reglamentarios disputados en la Cancha de fútbol de la CONMEBOL.
+
+### Más noticias:
+
+* [Los líderes y capitanes de Sebastián Beccacece en la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/lideres-capitanes-sebastian-beccacece-seleccion-de-ecuador.html "Los líderes y capitanes de Sebastián Beccacece en la Selección de Ecuador")
+* [Moisés Caicedo jugó su partido 50 y fue suspendido](https://www.elcomercio.com/deportes/futbol/moises-caicedo-seleccion-ecuador-partidos.html "Moisés Caicedo jugó su partido 50 y fue suspendido")
+* [La Selección de Ecuador rescató un punto ante Uruguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-en-vivo-partido.html "La Selección de Ecuador rescató un punto ante Uruguay")
+
+A los 2 minutos de iniciado el juego las Dragonas tomaron la ventaja en el marcador por intermedio de **Claudia Elena Roldán, mediocampista argentina de 29 años** con pasado en cuadros como Deportivo Cuenca, Ñañas, entre otras.
+
+Las colombianas llegaron al 1-1 a los 29 minutos de ese mismo primer tiempo con la firma de María **Camilla Reyes, mediocampista de 22 años que jugó el Mundial sub-20** con su país en el 2022 en Costa Rica y antes estuvo en los sudamericanos sub-20 de Chile y sub-17 de Argentina.
+
+La portera ecuatoriana **Andrea Vera tuvo que ser sustituida a los 90 minutos por una lesión** que le impidió terminar el compromiso. En su lugar ingresó la también ecuatoriana Kathya Mendoza Sánchez.
+
+En los lanzamientos penales Independiente Santa Fe fue más efectivo y marcó sus cuatro disparos, mientras que las ecuatorianas fallaron con la **colombiana Karen Páez y la paraguaya Verónica Riveros**.
+
+La final está programada, contra Corinthians, para el sábado 19 de octubre, en la Cancha de fútbol de la CONMEBOL.
+
+Dragonas se verán las caras contra Boca Juniors el mismo sábado, pero en el Estadio Defensores del Chaco. El horario de ambos encuentros aún debe ser confirmado por la Conmebol.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBM2TMYOE7I/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por CONMEBOL Libertadores Femenina (@libertadoresfem)](https://www.instagram.com/reel/DBM2TMYOE7I/?utm_source=ig_embed&utm_campaign=loading)
+
+El camino de las Dragonas en la Libertadores
+--------------------------------------------
+
+Dragonas Independiente consiguieron su boleto a la Libertadores al coronarse como campeona de la Superliga Femenina. En la **final derrotaron a Barcelona Sporting Club** por un marcador global de 4-1.
+
+En la Libertadores quedaron emparejadas en el Grupo C. El ganador fue el propio Santa Fe con 5 puntos y un gol diferencia positivo de +1.
+
+Las ecuatorianas se quedaron con el **segundo puesto con 4 puntos y un gol diferencia de positivo** de +1.
+
+Empataron con Ferroviária 1-1 (Analiz Zambrano); perdieron contra Santa Fe por 1-0; y le ganaron a Peñarol 0-2 (Karen Litardo y Nayely Bolaños).
+
+Su mejor producción fue en los **cuartos de final. Golearon 3-0 a Deportivo Cali** con un triplete de Bolaños, que es una de las goleadoras del torneo con cuatro tantos.
+
+![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_final_2-1024x683.jpg)
+
+Foto: EFE.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+La recaudación tributaria sigue en aumento, el SRI informó las cifras hasta septiembre de 2024
+==============================================================================================
+
+El aumento de recaudación tributaria del SRI hasta septiembre se refleja en el comparativo entre 2023 y 2024.
+-------------------------------------------------------------------------------------------------------------
+
+![SRI informa sobre incremento de la recaudación tributaria hasta septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2022/09/Recaudacion-impuestos.jpg)
+
+La **recaudación tributaria** en **Ecuador** sigue en **aumento**, el **Servicio de Rentas Internas (SRI)** informó las cifras hasta **septiembre de 2024**[.](https://es.wikipedia.org/wiki/Servicio_de_Rentas_Internas)
+
+El SRI realiza un comparativo de recaudación entre **2023 y 2024**.
+
+### Más noticias:
+
+* [Así puede actualizar su formulario de gastos personales para el SRI](https://www.elcomercio.com/actualidad/negocios/asi-puede-actualizar-su-formulario-de-gastos-personales-para-el-sri.html "Así puede actualizar su formulario de gastos personales para el SRI")
+* [Estos son los impuestos que más ingresos le dan al Ecuador](https://www.elcomercio.com/actualidad/negocios/recaudacion-impuestos-sri-ingresos-ecuador-iva-renta.html "Estos son los impuestos que más ingresos le dan al Ecuador")
+
+Durante septiembre de 2024, la recaudación tributaria del Servicio de Rentas Internas (SRI) llegó a 1 572 millones de dólares.
+
+Estos resultados se deben principalmente a la recaudación del **Impuesto a la Renta (IR)** y el **Impuesto al Valor Agregado (IVA).**
+
+Recaudación tributaria en aumento, SRI informó las cifras a septiembre de 2024
+------------------------------------------------------------------------------
+
+En el IR, hasta septiembre de 2024, la recaudación alcanzó 5 302 millones de dólares.
+
+Solo en septiembre, se reportó una recaudación de 459 millones de dólares.
+
+En cuanto al IVA, en el período de enero a septiembre de 2024, la recaudación llegó a 7 144 millones de dólares.
+
+En septiembre, la recaudación por este impuesto fue de 845 millones de dólares.
+
+Al mes de agosto de 2024, el monto de ventas alcanzó 151 895 millones de dólares.
+
+Haciendo el comparativo de enero a septiembre, de 2023 y 2024, el SRI refleja un **incremento del 14,7%** en la recaudación tributaria.
+
+En 2023, el SRI recaudó 13 502 millones de dólares y, en 2024, 15 485 millones de dólares.
+
+Reforma del presupuesto del Municipio de Quito reorienta gasto social y otros rubros sensibles
+==============================================================================================
+
+La reforma presupuestaria fue aprobada el martes 8 de octubre de 2024. Varios sectores de Quito se vieron afectados.
+--------------------------------------------------------------------------------------------------------------------
+
+![El Concejo Metropolitano aprobó la reforma presupuestaria.](https://www.elcomercio.com/wp-content/uploads/2024/10/Concejo-Metropolitano-de-Quito.png)
+
+El **Concejo** **Metropolitano** aprobó la Ordenanza Reformatoria al presupuesto general del Gobierno Autónomo Descentralizado del Distrito Metropolitano de Quito para el ejercicio económico 2024[.](https://es.wikipedia.org/wiki/Presupuesto_p%C3%BAblico "https://es.wikipedia.org/wiki/Presupuesto_p%C3%BAblico")
+
+Más noticias
+------------
+
+* [Municipio de Quito interviene la Chimborazo, calle con piedras patrimoniales](https://www.elcomercio.com/actualidad/quito/calle-chimborazo-piedra-partimonial-municipio-quito.html "Municipio de Quito interviene la Chimborazo, calle con piedras patrimoniales")
+* [Municipio de Quito lanza un visualizador de siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/visualizador-siniestros-transito-municipio-quito.html "Municipio de Quito lanza un visualizador de siniestros de tránsito")
+* [Gobierno y Municipio ejecutan medidas para enfrentar emergencia por incendios en Quito](https://www.elcomercio.com/actualidad/quito/quito-soporta-mas-un-dia-incendios-emergencia.html "Gobierno y Municipio ejecutan medidas para enfrentar emergencia por incendios en Quito")
+
+La resolución de reforma del presupuesto de Quito se tomó el martes 8 de octubre de 2024 con el objetivo de redistribuir los ingresos para cubrir el déficit de liquidez. Se lo hizo por la deuda que el **Gobierno** **Nacional** mantiene con la capital, explicó el Administrador General, Cristian Cruz.
+
+¿Por qué se reforma el presupuesto de Quito?
+--------------------------------------------
+
+Cruz informó que el **Gobierno** **Nacional** abonó 95 millones de dólares al **Municipio** de **Quito**, de los cuales 70 millones se pagaron con bonos que podrán cobrarse hasta 2025.
+
+Ante esta situación, se incrementó el presupuesto de la **Administración** **General** para 2024 mediante una redistribución de los recursos.
+
+“Se ha realizado una **revisión** **minuciosa** de cada proyecto; no hay proyectos detenidos ni obras que se dejen de hacer. Se ha reorganizado para contar con **mayor** **liquidez**. Los proyectos plurianuales se ejecutarán en 2025, y los egresos se realizarán cuando dichos proyectos estén ejecutados”, aseguró Cruz.
+
+¿Cuál es el techo del presupuesto de Quito?
+-------------------------------------------
+
+La secretaria de Planificación, Grace Rivera, destacó que esta redistribución no afecta a los procesos establecidos, sino que optimiza el presupuesto asignado.
+
+El techo presupuestario es de USD 1 026 233 017,92 para cerrar el año fiscal de 2024, con una variación de USD 16,3 millones.
+
+El alcalde Pabel Muñoz explicó que los recursos que no se utilizarán en 2024 se redistribuirán para otras dependencias tras un análisis de los procesos de **Compras** **Públicas**.
+
+Además, indicó que las empresas metropolitanas terminarán el año con un nivel de ejecución presupuestaria entre el 79 % y el 80 %.
+
+En esto se centra la reforma del presupuesto, según el Municipio
+----------------------------------------------------------------
+
+La reforma se centra en la **reorganización** de los **ingresos** **municipales**, con un incremento en impuestos y tasas, así como ajustes en **transferencias** y **donaciones** de **capital**.
+
+Se proyecta un aumento en los ingresos provenientes de **impuestos**, patentes comerciales e inversiones, lo cual permitirá compensar disminuciones en rubros como la venta de bienes y servicios. En total, se estima un incremento del 2 % en los ingresos para el año en curso.
+
+La **administración** **municipal** priorizó la **reducción** de **transferencias** y **donaciones** **corrientes**, así como la optimización del gasto en personal y bienes de consumo.
+
+También se implementó una **centralización** de **procesos** **administrativos** que permitirá reducir costos y mejorar la eficiencia de la gestión.
+
+Se prevé un aumento significativo en las **inversiones** **financieras**, fortaleciendo la **infraestructura** **pública** y avanzando en proyectos clave, como la primera línea del **Metro de Quito.**
+
+El proyecto del **Metro** de **Quito** también se benefició de la reforma, con un incremento en los recursos asignados para su **culminación** y **optimización** de la operación. Esto podría mejorar la movilidad en la ciudad y reducir los tiempos de traslado de los quiteños.
+
+Reducciones del presupuesto en sectores de Quito
+------------------------------------------------
+
+La reforma presupuestaria incluyó reducciones significativas en varios sectores:
+
+Otras implicaciones de la reforma del presupuesto
+-------------------------------------------------
+
+El concejal **Wilson** **Merino** criticó la reforma presupuestaria. Señaló que aproximadamente 83 millones de dólares se ajustaron a expensas de sectores como el **ambiente**, **seguridad**, **movilidad** y **trabajo** **social**.
+
+También cuestionó la reducción de 3,6 millones al **ambiente** en medio de la crisis de **incendios** **forestales** y **deforestación**, así como la disminución de 1,6 millones al sector de **seguridad** durante una crisis de **inseguridad**.
+
+Además, criticó la reducción de 56 millones al sector de **movilidad** cuando el sistema de transporte es insuficiente y carece de carriles exclusivos para buses.
+
+**Merino** afirmó que los 83 millones de dólares se destinarán al pago de la **deuda** **municipal** y posiblemente a estudios para la **expansión** del **Metro** de **Quito**.
+
+El concejal Andrés Campaña consideró que la reducción presupuestaria se debe a la **baja** **ejecución** del **presupuesto**, lo cual permitirá mejorar las cifras al final del año.
+
+**Analía** **Ledesma**, también concejal, subrayó que el ajuste no debe ser solo para ejecutar la mayor cantidad posible del presupuesto, sino para beneficiar a la ciudad de manera integral.
+
+Ledesma indicó que el incremento de 82 millones de dólares para la **Administración** **General** podría ser un espacio para recibir **bonos** del **Estado**, sin especificar las condiciones para hacerlos efectivos.
+
+Al igual que **Merino** y **Campaña**, consideró que **Quito** necesita mejorar la **movilidad**, el transporte en los barrios, la integración física y tarifaria del sistema de recaudación, y criticó la disminución de 36 millones en el presupuesto para movilidad.
+
+Además, señaló que, en educación, la disminución de 6 millones afecta a muchos vecinos que buscan cupo en **instituciones** **municipales**.
+
+Los tres concejales coincidieron en que, a finales de septiembre, solo se había devengado el 37 % del **presupuesto** de **inversión**, lo que dificultará alcanzar el 100 % de ejecución en los últimos tres meses del año.
+
+Canciones con contenido que pocas personas escuchan
+===================================================
+
+El 'playlist' de los ecuatorianos está gobernado por música urbana, según Spotify, pero hay opciones que vale la pena escuchar.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Elena Rose interpreta un tema que habla de empoderamiento. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-16T170158.974.jpg)
+
+El [‘**playlist**‘](https://www.elcomercio.com/tendencias/entretenimiento/ecuador-playlist-musica-urbana-spotify.html "https://www.elcomercio.com/tendencias/entretenimiento/ecuador-playlist-musica-urbana-spotify.html") de los ecuatorianos está gobernado por **música urbana**. Eso, según la plataforma **Spotify** y su **TOP 50 Ecuador.** 
+
+### **Más noticias:**
+
+* [El ‘playlist’ del ecuatoriano es solo música urbana, según Spotify](https://www.elcomercio.com/tendencias/entretenimiento/ecuador-playlist-musica-urbana-spotify.html "https://www.elcomercio.com/tendencias/entretenimiento/ecuador-playlist-musica-urbana-spotify.html")
+* [¿Karol G o Shakira? Favoritos para triunfar en los Premios Billboard de la Música Latina](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-shakira-premios-billboard-musica-latina.html?source=Internal&ref=Single+Same+Category "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-shakira-premios-billboard-musica-latina.html?source=Internal&ref=Single+Same+Category")
+* [Un ‘guapo’ actor ecuatoriano presentará los Premios Billboard 2024](https://www.elcomercio.com/tendencias/entretenimiento/actor-ecuatoriano-guapo-premios-billboard.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/actor-ecuatoriano-guapo-premios-billboard.html?source=Internal&ref=Single+Content+Link")
+
+Ese **TOP 50** estaba liderado, hasta el pasado 15 de octubre de 2024, por los colombianos **Feid y Karol G.** El artista se impuso en el TOP 10 con tres temas. 
+
+**Canciones con contenido que pocas personas escuchan**
+-------------------------------------------------------
+
+Tras conocerse la preferencia musical de los ecuatorianos, usuarios de redes sociales manifestaron su inconformidad.
+
+Una usuaria de **Instagram** escribió: “Por eso estamos tan mal. La música que se escucha es el reflejo de la persona y en este caso de nuestra sociedad”.  Otra persona anotó: “Ni una sola canción ecuatoriana habiendo de todos los estilos”.
+
+Esas creaciones se destacan por contener letras que hablan abiertamente de **sexo** y sensualidad, utilizando un lenguaje explícito. 
+
+En el TOP 10 de ese escalafón de **Spotify** se destaca solo un tema en inglés; se llama Die with a smile. Mientras que canciones como Me lo merezco, de Elena Rose, no están en el radar de los ecuatorianos. Eso, a pesar de que la letra se centra en el empoderamiento personal y la autovaloración. 
+
+La cantante española presenta un mensaje de resiliencia y afirmación. A través de versos introspectivos y directos.
+
+A propósito de esa **canción**, te presentamos un listado de canciones con contenido que pocas personas escuchan:
+
+**Chenoa: Todo irá bien**
+-------------------------
+
+**Bebe: Ella**
+--------------
+
+**Jarabe de Palo: Eso que tú me das**
+-------------------------------------
+
+**Santiago Cruz: Que tengas un bonito día**
+-------------------------------------------
+
+**Mirella Cesa: Algoritmo**
+---------------------------
+
+**Julieta Venegas: Mujeres**
+----------------------------
+
+**Ricardo Williams: Gracias mujer** 
+------------------------------------
+
+Israel se ensaña con el sur del Líbano y vuelve a atacar a la ONU
+=================================================================
+
+Los bombardeos convirtieron a 190 698 personas en desplazadas internas.
+-----------------------------------------------------------------------
+
+![Vista de los daños causados por un bombardeo de Israel en Beirut, capital de Líbano, el 7 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/israel-beirut-efe.jpg)
+
+El [Ejército de Israel](https://www.elcomercio.com/actualidad/mundo/ataques-israel-libano-dejan-2-300-fallecidos-ultimo-ano.html "https://www.elcomercio.com/actualidad/mundo/ataques-israel-libano-dejan-2-300-fallecidos-ultimo-ano.html") llevó a cabo este miércoles, 16 de octubre de 2024, una intensa campaña de **bombardeos** contra varias localizaciones en el sur del Líbano, donde murieron casi 20 personas. Más de un **centenar resultaron heridas**, y volvió a cargar contra la misión de la ONU (FINUL) en el país.
+
+### Más noticias
+
+* [Nuevos choques entre Hezbolá y soldados israelíes](https://www.elcomercio.com/actualidad/mundo/nuevos-choques-hezbola-soldados-israelies.html "Nuevos choques entre Hezbolá y soldados israelíes")
+* [Los ataques de Israel en el Líbano dejan ya más de 2 300 fallecidos en el último año](https://www.elcomercio.com/actualidad/mundo/ataques-israel-libano-dejan-2-300-fallecidos-ultimo-ano.html "Los ataques de Israel en el Líbano dejan ya más de 2 300 fallecidos en el último año")
+* [Hezbolá afirma que atacar ‘cualquier punto’ de Israel es parte de su derecho a defenderse](https://www.elcomercio.com/actualidad/mundo/hezbola-israel-defenderse-derecho.html "Hezbolá afirma que atacar ‘cualquier punto’ de Israel es parte de su derecho a defenderse")
+
+Aviones de combate israelíes lanzaron más de una **decena de ataques consecutivos** contra la localidad de Nabatieh, en el sur del Líbano, que acabaron con la vida de 16 personas y **dejaron 52 heridos**, informó el Ministerio de Salud Pública libanés en una escueta nota en su cuenta oficial de X.
+
+Entre los fallecidos se encuentra el **alcalde de la ciudad**, así como un miembro del ayuntamiento y otros pertenecientes al **comité de crisis de la localidad**, una de las más castigadas por los bombardeos israelíes, según dijo una fuente de la Islamic Risala Scout Association sobre el terreno.
+
+La **Agencia Nacional de Noticias libanesa** (ANN) detalló que los **ataques impactaron** contra varias sedes municipales, **edificios residenciales y una biblioteca**, que quedó completamente destruida, mientras que enormes columnas de humo se elevaron en una quincena de puntos de la ciudad.
+
+La aviación israelí lanzó también una **cantidad de bombardeos** sin precedentes contra el municipio de Qana, más al sur de Nabatieh, y que acabaron con la vida de otras tres personas e hirieron a 54 en esta simbólica localidad, donde más de 100 personas fueron asesinadas en 1996 durante la ‘Operación Uvas de la Ira’ que lanzó Israel contra el Líbano.
+
+El Líbano pide auxilio
+----------------------
+
+Por ello, el primer ministro libanés, Najib Mikati, advirtió que su Gobierno “**no puede proporcionar** por sí solo las necesidades básicas” de la población, e insistió en que la asistencia humanitaria de países, organizaciones internacionales y agencias de Naciones Unidas es “de suma importancia”.
+
+El jefe del Ejecutivo libanés recordó que el **país “está sometido a una agresión continua**, en una clara violación del derecho internacional humanitario” y que, hasta la fecha, al menos 2 367 personas han muerto y otras 11.088 han resultado heridas.
+
+El Consejo de Ministros libanés, en su reporte diario, detalló que solo en las últimas 24 horas Israel había lanzado contra el Líbano 138 ataques, cifra que situó en **10 150 ataques israelíes** contra el país desde el inicio del conflicto contra el **grupo chií libanés Hizbulá** el 8 de octubre de 2023.
+
+Ante esta situación, el Gobierno libanés presentó en esta jornada una nueva denuncia ante el Consejo de Seguridad de la ONU “para **documentar la agresión israelí”** contra el Líbano y con el objetivo de “presionar a la comunidad internacional y al Consejo de Seguridad para que tome medidas para detenerla”.
+
+Los bombardeos convirtieron a 190 698 personas en **desplazadas internas**, que en este año se trasladaron hasta alguno de los **1 076 refugios en diferentes** puntos del país, especialmente en las provincias de Monte Líbano y Beirut.
+
+A todo ello se suma la aparición del primer caso de cólera que el Ministerio de Salud Pública del Líbano confirmó hoy tras analizar las **muestras clínicas** de una ciudadana libanesa de una aldea de la región de Akkar, en el norte del país, que ingresó el 14 de octubre en un hospital “debido a una diarrea acuosa aguda y deshidratación”.
+
+La ONU, otra vez en el objetivo
+-------------------------------
+
+La misión de la ONU en el sur del Líbano (FINUL) volvió a ser blanco del **Ejército israelí,** al que acusó de **“abrir fuego directo** y aparentemente deliberado” contra una de sus posiciones cerca de Kafer Kela, donde un tanque Merkava israelí disparó contra su **torre de vigilancia** y destruyó dos cámaras de vigilancia.
+
+En un breve comunicado, la FINUL explicó que las **fuerzas de mantenimiento de la paz** observaron esta mañana, en una **posición próxima a Kafer Kela,** “un tanque Merkava de las FDI (Fuerzas de Defensa Israelí) disparando contra su torre de vigilancia”, en un ataque en el que “dos cámaras fueron destruidas y la torre resultó dañada”.
+
+El pasado domingo, la FINUL denunció que **dos tanques de Israel** entraron en su posición y el día anterior, sábado, que uno de sus **soldados resultó herido “por disparos”** en su cuartel general en Naqoura (sur), con lo que ascendió a cinco el número de cascos azules heridos en incidentes en tres días, atribuidos a Israel.
+
+Por otro lado, la coordinadora especial de la ONU para el Líbano, Jeanine Hennis-Plasschaert, consideró hoy que ya “llegó el momento de que todos los actores implicados cesen inmediatamente el fuego y abran la puerta a soluciones diplomáticas”.
