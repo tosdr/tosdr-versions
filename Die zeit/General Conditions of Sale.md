@@ -81,7 +81,7 @@ Anzeigen
 * [Coaching: Urbanes Leben mit Hund](https://www.zeit.de/angebote/hundeexpertin/index)
 * [Eine Reise nach Costa Rica](https://www.zeit.de/angebote/reisen-nach-costa-rica/index)
 * [Ausbildung und duales Studium mit Sinn](https://www.zeit.de/campus/angebote/lvr-ausbildung-und-duales-studium-mit-sinn/index)
-* [Podcast: Future Fusion](https://www.zeit.de/angebote/zeit-magazin/fh-erfurt/podcast-futurefusion-innovation-tradition)
+* [Podcast: Future Fusion](https://www.zeit.de/angebote/zeit-magazin/fh-erfurt/podcast-futurefusion-arbeitszeitmodelle-teilzeit-professur)
 * [Reisepodcast: Überm Berg](https://www.zeit.de/angebote/zeit-magazin/ueberm-berg-reisepodcast/kulturszene/index)
 * [Beliebteste Arbeitgeber 2024](https://www.zeit.de/angebote/most-wanted-employer-2024/index)
 * [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
