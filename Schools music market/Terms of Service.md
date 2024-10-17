@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/songwriting-lesson-part-4-how-to-improve-lyrics/)
+ [](https://schoolsmusicmarket.com/product/writing-music-notation-worksheet/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/which-instrument-is-playing-a-powerpoint-challenge/)
+ [](https://schoolsmusicmarket.com/product/an-introduction-to-body-percussion-pptx/)
 
 ###### Browse By Year/Grade
 
