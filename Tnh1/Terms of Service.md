@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/6/csm_outubro_rosa_parque_shopping_bb283e7abf.png)
+   [![Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_operacao-firewall-prisao-suspeitos_35360c8e33.jpg)
+
+Operação Firewall
+
+Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-suspeita-de-furtar-equipamentos-em-torres-de-telefonia-em-maceio/ "Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió")   [![Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_fraude-grupo-IML_35c3b93d98.jpg)
+
+Veja vídeo
+
+Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://www.tnh1.com.br/noticia/nid/imagens-mostram-suspeitos-de-fraude-em-abastecimento-de-viatura-do-iml/ "Imagens mostram suspeitos de fraude em abastecimento de viatura do IML")   [![Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_outubro_rosa_parque_shopping_bb283e7abf.png)
 
 Maceió
 
-Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://www.tnh1.com.br/noticia/nid/outubro-rosa-parque-shopping-promove-rodas-de-conversa-com-medicos-desfile-e-oficinas-de-autocuidado/ "Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado")   [![Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_3o_Edital_Projetos_que_Transformam_3d3ba9024b.jpeg)
+Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://www.tnh1.com.br/noticia/nid/outubro-rosa-parque-shopping-promove-rodas-de-conversa-com-medicos-desfile-e-oficinas-de-autocuidado/ "Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado")   [![Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/d/csm_3o_Edital_Projetos_que_Transformam_3d3ba9024b.jpeg)
 
 Maceió
 
-Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”](https://www.tnh1.com.br/noticia/nid/mundau-mundo-e-instituto-do-bordado-file-vencem-o-3a-edital-braskem-projetos-que-transformam/ "Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”")   [![Vídeo: pane em contador de energia elétrica assusta moradores no Farol](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_Pane_em_poste_de_energia_no_Farol_-_foto_Reproducao_efa311dc3e.jpg)
+Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”](https://www.tnh1.com.br/noticia/nid/mundau-mundo-e-instituto-do-bordado-file-vencem-o-3a-edital-braskem-projetos-que-transformam/ "Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”")   [![Vídeo: pane em contador de energia elétrica assusta moradores no Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/b/csm_Pane_em_poste_de_energia_no_Farol_-_foto_Reproducao_efa311dc3e.jpg)
 
 assista
 
-Vídeo: pane em contador de energia elétrica assusta moradores no Farol](https://www.tnh1.com.br/noticia/nid/video-pane-em-contador-de-energia-eletrica-assusta-moradores-no-farol/ "Vídeo: pane em contador de energia elétrica assusta moradores no Farol")   [![Mais de 100 kg de mel clandestino são apreendidos feiras e mercados de Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/2/csm_mel_clandestino_f9f2a8bb0d.jpeg)
+Vídeo: pane em contador de energia elétrica assusta moradores no Farol](https://www.tnh1.com.br/noticia/nid/video-pane-em-contador-de-energia-eletrica-assusta-moradores-no-farol/ "Vídeo: pane em contador de energia elétrica assusta moradores no Farol")   [![Mais de 100 kg de mel clandestino são apreendidos feiras e mercados de Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/2/csm_mel_clandestino_f9f2a8bb0d.jpeg)
 
 Maceió
 
-Mais de 100 kg de mel clandestino são apreendidos feiras e mercados de Maceió](https://www.tnh1.com.br/noticia/nid/mais-de-100-kg-de-mel-clandestino-sao-apreendidos-feiras-e-mercados-de-maceio/ "Mais de 100 kg de mel clandestino são apreendidos feiras e mercados de Maceió ")   [![Reunião discute o progresso do atual plano de investimento da gestão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/7/csm_15-10-24-Reuniao-Alinhamento-2025-SEGOV-Auditorio-Prefeitura-Fotos-Beto-Macario-48_e6390309e3.jpg)
-
-Prefeitura de Maceió
-
-Reunião discute o progresso do atual plano de investimento da gestão](https://www.tnh1.com.br/noticia/nid/reuniao-discute-o-progresso-do-atual-plano-de-investimento-da-gestao/ "Reunião discute o progresso do atual plano de investimento da gestão")   [![Usuários do SUS podem ser atendidos por intérprete de Libras em unidades de saúde de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/3/csm_Gravacao-Libras-atendimento-saude-secom_7b37b5548e.jpg)
-
-Vídeo chamada
-
-Usuários do SUS podem ser atendidos por intérprete de Libras em unidades de saúde de Maceió](https://www.tnh1.com.br/noticia/nid/usuarios-do-sus-podem-ser-atendidos-por-interprete-de-libras-em-unidades-de-saude-de-maceio/ "Usuários do SUS podem ser atendidos por intérprete de Libras em unidades de saúde de Maceió")
+Mais de 100 kg de mel clandestino são apreendidos feiras e mercados de Maceió](https://www.tnh1.com.br/noticia/nid/mais-de-100-kg-de-mel-clandestino-sao-apreendidos-feiras-e-mercados-de-maceio/ "Mais de 100 kg de mel clandestino são apreendidos feiras e mercados de Maceió ")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,7 +50,19 @@ Usuários do SUS podem ser atendidos por intérprete de Libras em unidades de sa
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/e/csm_foragido-morto-troca-tiros-marechal_4d04254ec8.jpg)
+   [![Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_artesa-4_0bfcff0625.jpeg)
+
+Alagoas
+
+Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://www.tnh1.com.br/noticia/nid/desenvolve-lanca-linha-de-credito-voltada-a-sustentabilidade-no-setor-turistico/ "Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico")   [!["É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/3/csm_casal_josimar_e_taciana_feminicidio_sp_37c2ccc375.jpg)
+
+Taciana Maria
+
+"É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima](https://www.tnh1.com.br/noticia/nid/e-um-monstro-irma-de-alagoana-morta-por-companheiro-em-sp-revela-ultimo-contato-com-vitima/ ""É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima")   [![Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Policia_Federal_-_foto_Divulgacao_PF_a33221fd73.jpg)
+
+Operação Landinos
+
+Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://www.tnh1.com.br/noticia/nid/homicidios-roubos-de-cargas-e-trafico-pf-cumpre-mandados-em-al-contra-organizacao-criminosa/ "Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa")   [![Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/e/csm_foragido-morto-troca-tiros-marechal_4d04254ec8.jpg)
 
 Marechal Deodoro
 
@@ -62,19 +74,7 @@ MPAL cobra implementação de câmeras corporais nos policiais militares](https:
 
 Meteorologia
 
-Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (16)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-quarta-feira-16/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (16)")   [![Manutenção em estação de tratamento suspende abastecimento de água em Traipu nesta quarta](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/b/csm_ETA_Traipu_Reproducao_fdd230b1a3.jpg)
-
-Alagoas
-
-Manutenção em estação de tratamento suspende abastecimento de água em Traipu nesta quarta](https://www.tnh1.com.br/noticia/nid/manutencao-em-estacao-de-tratamento-suspende-abastecimento-de-agua-em-traipu-nesta-quarta/ "Manutenção em estação de tratamento suspende abastecimento de água em Traipu nesta quarta")   [![Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/5/csm_PREVISAO-TEMPO-ALAGOAS-SEMARH_2a8413dbf9.png)
-
-Meteorologia
-
-Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-terca-feira-15/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta terça-feira (15)")   [![Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/b/csm_droga_sertao_2f82aebbc8.png)
-
-Maceió e interior
-
-Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo](https://www.tnh1.com.br/noticia/nid/em-uma-semana-policia-militar-apreende-mais-de-20-quilos-de-drogas-e-11-armas-de-fogo/ "Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas de fogo ")
+Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (16)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-todas-as-regioes-de-alagoas-nesta-quarta-feira-16/ "Veja como deve ficar o tempo em todas as regiões de Alagoas nesta quarta-feira (16)")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Em uma semana, Polícia Militar apreende mais de 20 quilos de drogas e 11 armas 
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/0/csm_csm_IML-viatura_f11c21a970_9e72f1f8f5.jpg)
+   [![Vídeo: homem é suspeito de furtar hidrômetros durante madrugada na Ponta Grossa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/0/csm_suspeito_furto_ponta_grossa_reproducao_video_60bba2c3d4.png)
 
-Polícia
+Em Maceió
 
-Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió](https://www.tnh1.com.br/noticia/nid/tres-homens-sao-presos-suspeitos-de-fraudar-abastecimento-de-viaturas-do-iml-em-maceio/ "Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió ")   [![Corpo de mulher com marcas de agressões é resgatado em córrego de Palmeira dos Índios](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/6/csm_csm_Bombeiros_assessori_1203788323_5c783fd82d.jpg)
+Vídeo: homem é suspeito de furtar hidrômetros durante madrugada na Ponta Grossa](https://www.tnh1.com.br/noticia/nid/video-homem-e-suspeito-de-furtar-hidrometros-durante-madrugada-na-ponta-grossa/ "Vídeo: homem é suspeito de furtar hidrômetros durante madrugada na Ponta Grossa")   [![Homem é preso por agredir ex com facada, mordidas e puxões de cabelo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/5/csm_csm_viatura_Policia_Civil_AL_6cb24d60b2__2__af9c15c3bf.jpeg)
 
-em córrego
+No Tabuleiro
 
-Corpo de mulher com marcas de agressões é resgatado em córrego de Palmeira dos Índios](https://www.tnh1.com.br/noticia/nid/corpo-de-mulher-com-marcas-de-agressoes-e-resgatado-em-corrego-de-palmeira-dos-indios/ "Corpo de mulher com marcas de agressões é resgatado em córrego de Palmeira dos Índios")   [![Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/5/csm_familia_jonatas_morte_colonia_leopoldina_reproducao_video_21189241bc.jpg)
+Homem é preso por agredir ex com facada, mordidas e puxões de cabelo](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-agredir-ex-com-facada-mordidas-e-puxoes-de-cabelo/ "Homem é preso por agredir ex com facada, mordidas e puxões de cabelo")   [![Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_operacao-firewall-prisao-suspeitos_35360c8e33.jpg)
 
-Colônia Leopoldina
+Operação Firewall
 
-Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"](https://www.tnh1.com.br/noticia/nid/mae-de-adolescente-morto-em-abordagem-da-pm-desabafa-eles-deram-5-tiros-foi-pra-matar/ "Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"")   [![Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/e/csm_viatura_pc_c09ea6d827.jpeg)
+Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-suspeita-de-furtar-equipamentos-em-torres-de-telefonia-em-maceio/ "Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió")   [![Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/3/csm_prisao_rio_largo_6de5761313.png)
 
-ato infracional
+em Rio Largo
 
-Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos](https://www.tnh1.com.br/noticia/nid/adolescente-de-14-anos-e-apreendido-por-estupro-em-sao-miguel-dos-campos/ "Adolescente de 14 anos é apreendido por estupro em São Miguel dos Campos ")   [![Suspeito de armazenar pornografia infantil é preso em apartamento na Mangabeiras](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/b/csm_prisao_Mangabeiras_5ed5440a5c.jpeg)
+Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-assassinar-e-carbonizar-corpo-do-amante-para-esconder-relacionamento/ "Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento")   [![Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/e/csm_Policia_Federal_-_foto_Divulgacao_PF_a33221fd73.jpg)
 
-Polícia
+Operação Landinos
 
-Suspeito de armazenar pornografia infantil é preso em apartamento na Mangabeiras](https://www.tnh1.com.br/noticia/nid/suspeito-de-armazenar-pornografia-infantil-e-preso-em-apartamento-na-mangabeiras/ "Suspeito de armazenar pornografia infantil é preso em apartamento na Mangabeiras")   [![Jovem é preso por dar golpe de facão em mulher durante briga com esposo dela, em Coruripe](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/2/csm_prisao_coruripe_-_foto_reproducao_video_0a5e9267b5.jpg)
+Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://www.tnh1.com.br/noticia/nid/homicidios-roubos-de-cargas-e-trafico-pf-cumpre-mandados-em-al-contra-organizacao-criminosa/ "Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa")   [![Vítima é assassinada a tiros enquanto jogava bola no Benedito Bentes](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/2/csm_IML_Maceio_-_foto_Policia_Cientifica_2_539ce66547.jpeg)
 
-Localizado em casa
+Atentado
 
-Jovem é preso por dar golpe de facão em mulher durante briga com esposo dela, em Coruripe](https://www.tnh1.com.br/noticia/nid/jovem-e-preso-por-dar-golpe-de-facao-em-mulher-durante-briga-com-esposo-dela-em-coruripe/ "Jovem é preso por dar golpe de facão em mulher durante briga com esposo dela, em Coruripe")
+Vítima é assassinada a tiros enquanto jogava bola no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/vitima-e-assassinada-a-tiros-enquanto-jogava-bola-no-benedito-bentes/ "Vítima é assassinada a tiros enquanto jogava bola no Benedito Bentes")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -198,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_principe-harry-meghan-foto-FramePhotoFolhapress_5f0deb4a98.jpeg)
-
-'Não é seguro'
-
-'Não é seguro'
-
-Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos
-
-Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos](https://www.tnh1.com.br/noticia/nid/principe-harry-e-meghan-markle-nao-vao-passar-natal-com-a-familia-real-por-causa-dos-filhos/ "Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos")[![Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025 ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/1/csm_record_brasileirao_R7_75e8296243.jpg)
+[![Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025 ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/1/csm_record_brasileirao_R7_75e8296243.jpg)
 
 Futebol Nacional
 
@@ -214,7 +206,7 @@ Futebol Nacional
 
 Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025
 
-Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025](https://www.tnh1.com.br/noticia/nid/record-ja-garantiu-5-marcas-patrocinadoras-para-transmissao-do-brasileirao-2025/ "Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025 ")[![Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/5/csm_familia_jonatas_morte_colonia_leopoldina_reproducao_video_a08bca134e.jpg)
+Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025](https://www.tnh1.com.br/noticia/nid/record-ja-garantiu-5-marcas-patrocinadoras-para-transmissao-do-brasileirao-2025/ "Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025 ")[![Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/5/csm_familia_jonatas_morte_colonia_leopoldina_reproducao_video_a08bca134e.jpg)
 
 Colônia Leopoldina
 
@@ -222,7 +214,7 @@ Colônia Leopoldina
 
 Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"
 
-Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"](https://www.tnh1.com.br/noticia/nid/mae-de-adolescente-morto-em-abordagem-da-pm-desabafa-eles-deram-5-tiros-foi-pra-matar/ "Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"")[![Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/7/csm_carro-derrubou-motos-arapiraca_bf1dbeb721.jpg)
+Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"](https://www.tnh1.com.br/noticia/nid/mae-de-adolescente-morto-em-abordagem-da-pm-desabafa-eles-deram-5-tiros-foi-pra-matar/ "Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"")[![Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/7/csm_carro-derrubou-motos-arapiraca_bf1dbeb721.jpg)
 
 interior de Alagoas
 
@@ -230,41 +222,49 @@ interior de Alagoas
 
 Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados
 
-Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados](https://www.tnh1.com.br/noticia/nid/video-motorista-perde-o-controle-e-bate-em-13-veiculos-que-estavam-estacionados/ "Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados")
+Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados](https://www.tnh1.com.br/noticia/nid/video-motorista-perde-o-controle-e-bate-em-13-veiculos-que-estavam-estacionados/ "Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados")[![Saiba quem eram as vítimas do acidente com carro-forte em São Luís do Quitunde](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/4/csm_vitimas-acidente-sao-luis-quitunde_97dd1d12b9.jpg)
 
-[![Passageira pula de carro após ser assediada por motorista de app](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/4/csm_Passageira_pula_de_carro_apos_ser_assediada_por_motorista_de_app_em_SP_-_foto_Reproducao_TV_Globo_8a26a6fa79.jpg)
+Três mortos
 
-28 anos
+Três mortos
 
-28 anos
+Saiba quem eram as vítimas do acidente com carro-forte em São Luís do Quitunde
 
-Passageira pula de carro após ser assediada por motorista de app
+Saiba quem eram as vítimas do acidente com carro-forte em São Luís do Quitunde](https://www.tnh1.com.br/noticia/nid/saiba-quem-eram-as-vitimas-do-acidente-com-carro-forte-em-sao-luis-do-quitunde/ "Saiba quem eram as vítimas do acidente com carro-forte em São Luís do Quitunde")
 
-Passageira pula de carro após ser assediada por motorista de app](https://www.tnh1.com.br/noticia/nid/passageira-pula-de-carro-apos-ser-assediada-por-motorista-de-app/ "Passageira pula de carro após ser assediada por motorista de app")[![Porchat revela que já 'ignorou' Fernanda Montenegro: 'Achei que era golpe'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/a/csm_Porchat_revela_que_ja__ignorou__Fernanda_Montenegro_-_foto_Reproducao_e9e25afe53.jpg)
+[![CNU: resposta sobre revisão de nota da prova discursiva é divulgada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/6/csm_Concurso_publico_-_foto_Agencia_Brasil_f4483f3752.jpg)
 
-já pensou?
+Concursos
 
-já pensou?
+Concursos
 
-Porchat revela que já 'ignorou' Fernanda Montenegro: 'Achei que era golpe'
+CNU: resposta sobre revisão de nota da prova discursiva é divulgada
 
-Porchat revela que já 'ignorou' Fernanda Montenegro: 'Achei que era golpe'](https://www.tnh1.com.br/noticia/nid/porchat-revela-que-ja-ignorou-fernanda-montenegro-achei-que-era-golpe/ "Porchat revela que já 'ignorou' Fernanda Montenegro: 'Achei que era golpe'")[![Fiocruz oficializa pedido para produzir vacina contra dengue no Brasil](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/9/csm_Fiocruz_oficializa_pedido_para_produzir_vacina_contra_dengue_no_Brasil_-_foto_Tony_Oliveira_-_Ag_Brasilia_060d9e0125.jpg)
+CNU: resposta sobre revisão de nota da prova discursiva é divulgada](https://www.tnh1.com.br/noticia/nid/cnu-resposta-sobre-revisao-de-nota-da-prova-discursiva-e-divulgada/ "CNU: resposta sobre revisão de nota da prova discursiva é divulgada")[![Banco Central alerta sobre golpistas que prometem resgate de recursos esquecidos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/6/csm_real_agencia_88233177b2.png)
 
-Qdenga
+Economia
 
-Qdenga
+Economia
 
-Fiocruz oficializa pedido para produzir vacina contra dengue no Brasil
+Banco Central alerta sobre golpistas que prometem resgate de recursos esquecidos
 
-Fiocruz oficializa pedido para produzir vacina contra dengue no Brasil](https://www.tnh1.com.br/noticia/nid/fiocruz-oficializa-pedido-para-produzir-vacina-contra-dengue-no-brasil/ "Fiocruz oficializa pedido para produzir vacina contra dengue no Brasil")[![Refugiada e médica, atleta do Milan costura própria perna após lesão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/3/csm_Atleta_do_Milan__Nadia_Nadim_-_Reproducao_-_Instagram_%40nadi9nadim_9e0fc0db38.jpg)
+Banco Central alerta sobre golpistas que prometem resgate de recursos esquecidos](https://www.tnh1.com.br/noticia/nid/banco-central-alerta-sobre-golpistas-que-prometem-resgate-de-recursos-esquecidos/ "Banco Central alerta sobre golpistas que prometem resgate de recursos esquecidos")[![Pré-Enem Educar é Massa: aulões gratuitos já contam com mais de 500 estudantes inscritos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/4/csm_Preenem_9a9d8f159e.jpg)
 
-Nadia Nadim
+Educação
 
-Nadia Nadim
+Educação
 
-Refugiada e médica, atleta do Milan costura própria perna após lesão
+Pré-Enem Educar é Massa: aulões gratuitos já contam com mais de 500 estudantes inscritos
 
-Refugiada e médica, atleta do Milan costura própria perna após lesão](https://www.tnh1.com.br/noticia/nid/refugiada-e-medica-atleta-do-milan-costura-propria-perna-apos-lesao/ "Refugiada e médica, atleta do Milan costura própria perna após lesão")
+Pré-Enem Educar é Massa: aulões gratuitos já contam com mais de 500 estudantes inscritos](https://www.tnh1.com.br/noticia/nid/pre-enem-educar-e-massa-auloes-gratuitos-ja-contam-com-mais-de-500-estudantes-inscritos/ "Pré-Enem Educar é Massa: aulões gratuitos já contam com mais de 500 estudantes inscritos")[![Se regulação não der conta, eu acabo, diz presidente Lula sobre bets](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/c/csm_bets_agenciabrasil_1923c4ca69.png)
+
+Brasil
+
+Brasil
+
+Se regulação não der conta, eu acabo, diz presidente Lula sobre bets
+
+Se regulação não der conta, eu acabo, diz presidente Lula sobre bets](https://www.tnh1.com.br/noticia/nid/se-regulacao-nao-der-conta-eu-acabo-diz-presidente-lula-sobre-bets/ "Se regulação não der conta, eu acabo, diz presidente Lula sobre bets")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
