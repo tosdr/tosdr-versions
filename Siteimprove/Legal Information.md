@@ -182,9 +182,9 @@ Close menu
     
     Connect
     
-    * [![Calendar](/globalassets/media/redesign2024/icons/outlined_icon_nav_calendar2.png)
+    * [![Events](/globalassets/media/redesign2024/icons/outlined_icon_nav_calendar2.png)
         
-        Calendar](https://siteimprove.com/calendar/)
+        Events](https://siteimprove.com/events/)
     * [![Press](/globalassets/media/redesign2024/icons/outlined_icon_nav_press2.png)
         
         Press](https://siteimprove.com/press/)
