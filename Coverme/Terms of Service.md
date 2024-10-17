@@ -168,6 +168,11 @@ WE RESERVE THE RIGHT TO CHANGE THIS USER AGREEMENT FROM TIME TO TIME WITHOUT NOT
 * [Support](https://www.coverme.ws/en/faq.html)
 * |
 * [Blog](http://blog.coverme.ws/en/)
+* |
+* CoverMe Credit
+    
+    ![visa](/images_pay/icon-visa@2x.png)Credit Card
+    
 
 * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoBAMAAAB+0KVeAAAAHlBMVEUAAAD///////////////////////////////////8kfJuVAAAACXRSTlMABixSXWaqtem2FRMAAAAAPUlEQVQoz2NgwA8kZs6cOQ1NjHUmFkFLbIIzsQiyYxPkpFxwErrTQYIO2AQZBkYQ4nI0xw9CwYENpSEqCABmuXDDDk1c4AAAAABJRU5ErkJggg==)](http://www.facebook.com/covermemobile)
 * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAAzFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////86kuEIAAAAQ3RSTlMAAQIDBAUJCgsSEx0eJSs0Nj5CQ0lKVVlfY2Vpd3mDho2OlZmanJ2go6qrsLGztby+wMHCzNbX2Nrb3uXt9PX5+vz+qkpB5AAAAOFJREFUGBntwddWwkAARdEjsRfEhl3svXdRwXj//59MQ2Ymk8laPrs3//5mQ5llMjOkpigZ1UAPaH69keiogSOS4VMSKUkj2L5la5FSYgLTmmzN1iMJpdoYVNInocwzQ3L1Samww4Ac72S2NXAekZGDggyXi4AcFFZVg9wkZwojJ92/KIic6sTk7lRjn1xDNWYpnCqMX12FvDJ0rIBpTEeqhEEB8xiuVCnGokrjWMZU4QBXVz4flEV7PZXgtSsXPnNyxXhsqeQJy8L1xUMsjyVcJ/I4xGddjk0qrdyocNvG4wcBmdA2qVC85gAAAABJRU5ErkJggg==)](http://www.twitter.com/covermeapp)
@@ -176,7 +181,7 @@ WE RESERVE THE RIGHT TO CHANGE THIS USER AGREEMENT FROM TIME TO TIME WITHOUT NOT
 * |
 * [Terms of Service](https://www.coverme.ws/en/terms.html)
 
-© 2022 Airbit Communication Limited
+© 2024 Airbit Communication Limited
 
 Follow Us
 
@@ -188,6 +193,10 @@ About Us
 * [Contact Us](mailto:support@coverme.ws)
 * [Blog](http://blog.coverme.ws/en/)
 * [FAQ](https://www.coverme.ws/men/faq.html)
+* CoverMe Credit
+    
+    ![visa](/images_pay/icon-visa@2x.png)Credit Card
+    
 
 [Privacy Policy](http://www.coverme.ws/men/privacy_policy.html)[Terms of Service](http://www.coverme.ws/men/terms.html)
 
