@@ -1,27 +1,126 @@
-Privacy | Know Your Meme                                                           
+[](https://knowyourmeme.com/ "Know Your Meme")
 
-|     |     |
-| --- | --- |
-| [![Know Your Meme](/assets/kym-logo.png)](https://knowyourmeme.com/) | [Meme Encyclopedia](https://knowyourmeme.com/memes)<br><br>* [All](https://knowyourmeme.com/memes)<br>* [Cultures](https://knowyourmeme.com/categories/culture)<br>* [Events](https://knowyourmeme.com/categories/event)<br>* [People](https://knowyourmeme.com/categories/person)<br>* [Sites](https://knowyourmeme.com/categories/site)<br>* [Subcultures](https://knowyourmeme.com/categories/subculture)<br>* [Videos](https://knowyourmeme.com/videos)<br>* [Submit →](https://knowyourmeme.com/memes/new?guidelines=1)<br><br>[Images](https://knowyourmeme.com/photos)<br><br>* [Trending](https://knowyourmeme.com/photos/trending)<br>* [Most Commented](https://knowyourmeme.com/photos/sort/comments)<br>* [Most Favorited](https://knowyourmeme.com/photos/sort/favorites)<br>* [High Score](https://knowyourmeme.com/photos/sort/score)<br>* [Low Score](https://knowyourmeme.com/photos/sort/low-score)<br>* [Most Viewed](https://knowyourmeme.com/photos/sort/views)<br>* [All](https://knowyourmeme.com/photos)<br>* * * *<br>    <br>* [Templates](https://knowyourmeme.com/photos/templates)<br>* * * *<br>    <br>* [Upload an Image](https://knowyourmeme.com/photos/new)<br><br>Articles<br><br>* [News](https://knowyourmeme.com/news)<br>* [Explainers](https://knowyourmeme.com/newsfeed/explainers)<br>* [Collections](https://knowyourmeme.com/editorials/collections)<br>* [Interviews](https://knowyourmeme.com/editorials/interviews)<br>* [Meme Insider Magazine](https://memeinsider.com/)<br><br>More<br><br>* [Discord](https://discord.com/invite/hxZaGpg)<br>* [Newsletter](https://knowyourmeme.com/newsletter)<br>* [Episodes](https://knowyourmeme.com/episodes)<br>* [Forums](https://knowyourmeme.com/forums)<br>* [Meme Store](https://thememestore.com/)<br>* [Login](https://knowyourmeme.com/login)<br><br>[Abstract user icon](https://knowyourmeme.com/login) |
-|     |     |
+[Advanced Search Protips](https://knowyourmeme.com/editorials/kym-database-search-operators)
 
+* [About](https://knowyourmeme.com/about)
+* [**Rules**](https://knowyourmeme.com/editorials/rules-and-guidelines/)
+* [Chat](https://knowyourmeme.com/chat)
+* [Random](https://knowyourmeme.com/random)
+* [Activity](https://knowyourmeme.com/activity)
+
+Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmeme.com/signup) now!
+
+* [Home](https://knowyourmeme.com/)
 * [Memes](https://knowyourmeme.com/memes)
-* [Categories](https://knowyourmeme.com/categories)
+    * [Confirmed](https://knowyourmeme.com/memes)
+    * [Submissions](https://knowyourmeme.com/memes/submissions)
+    * [Researching](https://knowyourmeme.com/memes/researching)
+    * [Newsworthy](https://knowyourmeme.com/memes/newsworthy)
+    * [Popular](https://knowyourmeme.com/memes/popular)
+    * [Deadpool](https://knowyourmeme.com/memes/deadpool)
+    * [All](https://knowyourmeme.com/memes/all)
+    * * * *
+        
+    * [Submit an Entry](https://knowyourmeme.com/memes/new?guidelines=1)
+* [Meme Store](https://thememestore.com/)
 * [Trending](https://trending.knowyourmeme.com/trending)
 * [News](https://knowyourmeme.com/news)
 * [Images](https://knowyourmeme.com/photos)
-* [Trending Images](https://knowyourmeme.com/photos/trending)
+    * [Trending](https://knowyourmeme.com/photos/trending)
+    * [Most Commented](https://knowyourmeme.com/photos/most-commented)
+    * [Most Favorited](https://knowyourmeme.com/photos/most-favorited)
+    * [Most Liked](https://knowyourmeme.com/photos/most-liked)
+    * [Least Liked](https://knowyourmeme.com/photos/least-liked)
+    * [Most Viewed](https://knowyourmeme.com/photos/most-viewed)
+    * [All](https://knowyourmeme.com/photos)
+    * * * *
+        
+    * [Templates](https://knowyourmeme.com/photos/templates)
+    * * * *
+        
+    * [Upload an Image](https://knowyourmeme.com/photos/new)
 * [Videos](https://knowyourmeme.com/videos)
-* [Trending Videos](https://knowyourmeme.com/videos/trending)
+    * [Trending](https://knowyourmeme.com/videos/trending)
+    * [Most Commented](https://knowyourmeme.com/videos/most-commented)
+    * [Most Favorited](https://knowyourmeme.com/videos/most-favorited)
+    * [Most Liked](https://knowyourmeme.com/videos/most-liked)
+    * [Most Viewed](https://knowyourmeme.com/videos/most-viewed)
+    * [All](https://knowyourmeme.com/videos)
+    * * * *
+        
+    * [Upload a Video](https://knowyourmeme.com/videos/new)
+* [Forums](https://knowyourmeme.com/forums)
+    * [Discussion](https://knowyourmeme.com/forums/section/discussion)
+    *    [General](https://knowyourmeme.com/forums/general)
+    *    [Meme Research](https://knowyourmeme.com/forums/meme-research)
+    *    [Serious Debate](https://knowyourmeme.com/forums/serious-debate)
+    *    [Q & A](https://knowyourmeme.com/forums/q-a)
+    * * * *
+        
+    * [Media](https://knowyourmeme.com/forums/section/media)
+    *    [Video Games](https://knowyourmeme.com/forums/video-games)
+    *    [Moving Images](https://knowyourmeme.com/forums/moving-images)
+    *    [Books & Comics](https://knowyourmeme.com/forums/books-comics)
+    *    [Music](https://knowyourmeme.com/forums/music)
+    *    [Websites](https://knowyourmeme.com/forums/websites)
+    * * * *
+        
+    * [Fun!](https://knowyourmeme.com/forums/section/fun)
+    *    [Creative](https://knowyourmeme.com/forums/creative)
+    *    [Forum Games](https://knowyourmeme.com/forums/forum-games)
+    *    [Just For Fun](https://knowyourmeme.com/forums/just-for-fun)
+    *    [Riff-Raff](https://knowyourmeme.com/forums/riff-raff)
+    *    [Memeory Lane](https://knowyourmeme.com/forums/memeory-lane)
+    * * * *
+        
+    * [Maintenance](https://knowyourmeme.com/forums/section/maintenance)
+    *    [Report Problems](https://knowyourmeme.com/forums/report-problems)
+    *    [Announcements](https://knowyourmeme.com/forums/announcements)
+    *    [Suggest Ideas](https://knowyourmeme.com/forums/suggest-ideas)
+    * * * *
+        
+    * [All](https://knowyourmeme.com/forums/all)
 * [Editorials](https://knowyourmeme.com/editorials)
-* [Meme Insider Magazine](https://memeinsider.com/)
+    * [Interviews](https://knowyourmeme.com/editorials/interviews)
+    * [In the Media](https://knowyourmeme.com/editorials/in-the-media)
+    * [White Papers](https://knowyourmeme.com/editorials/white-papers)
+    * [Episode Notes](https://knowyourmeme.com/editorials/episode-notes)
+    * [Behind the Scenes](https://knowyourmeme.com/editorials/behind-the-scenes)
+    * [Meme Review](https://knowyourmeme.com/editorials/meme-review)
+    * [Collections](https://knowyourmeme.com/editorials/collections)
+    * [Poll](https://knowyourmeme.com/editorials/poll)
+    * [Guides](https://knowyourmeme.com/editorials/guides)
+    * [Meme Insider](https://knowyourmeme.com/editorials/meme-insider)
+    * [Insights](https://knowyourmeme.com/editorials/insights)
+    * [All](https://knowyourmeme.com/editorials)
+* [Episodes](https://knowyourmeme.com/episodes)
+* [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
-* [Policies and Guidelines](https://knowyourmeme.com/guidelines)
-* [Meme Store](https://thememestore.com/)
-* [Old site](https://knowyourmeme.com/old_site)
-* [Login](https://knowyourmeme.com/login)
 
-Know Your Meme is the property of Literally Media ©2024 Literally Media. All Rights Reserved.
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/293/brpfp.jpg "What Is The 'Bull Rider Pose' On TikTok? The Controversial Slang Term Explained")
+    
+    What Is The 'Bull Rider Pose' On TikTok? The Controversial Slang Term Explained](https://knowyourmeme.com/editorials/guides/what-is-the-bull-rider-pose-on-tiktok-the-controversial-slang-term-explained)
+    
+* [![Muscular Lara Croft design and red circles. ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/292/lara_croft_design_cover.jpg "Muscular Lara Croft Design In New Netflix Adaptation Sparks Controversy And Memes On The Internet")
+    
+    Muscular Lara Croft Design In New Netflix Adaptation Sparks Controversy And Memes On The Internet](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/291/Planet-Fitness-91st_F4515A07-AF5E-9B78-4BB5CA00C43D7381-f451585ecb478d1_f4516458-a146-0ba1-aaa99e96501441b2.jpg "FTC Announces 'Click To Cancel' Rule Making It Easier For Consumers To Cancel Subscriptions, And All Memers' Eyes Turn To Planet Fitness")
+    
+    FTC Announces 'Click To Cancel' Rule Making It Easier For Consumers To Cancel Subscriptions, And All Memers' Eyes Turn To Planet Fitness](https://knowyourmeme.com/news/ftc-announces-click-to-cancel-rule-making-it-easier-for-consumers-to-cancel-subscriptions-and-all-memers-eyes-turned-to-planet-fitness)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/290/locktober_meaning.jpg "What Does 'Locktober' Mean? The Viral TikTok Term's Two Meanings And Confusing History Explained")
+    
+    What Does 'Locktober' Mean? The Viral TikTok Term's Two Meanings And Confusing History Explained](https://knowyourmeme.com/editorials/guides/what-does-locktober-mean-the-viral-tiktok-terms-two-meanings-and-confusing-history-explained)
+    
+* [![TikToker Tears Down Greek Flags At A Restaurant, Mistaking Them For Israeli Flags](https://i.kym-cdn.com/featured_items/icons/wide/000/026/289/cover5.jpg "TikToker Tears Down Greek Flags At A Restaurant, Mistaking Them For Israeli Flags In Viral Video")
+    
+    TikToker Tears Down Greek Flags At A Restaurant, Mistaking Them For Israeli Flags In Viral Video](https://knowyourmeme.com/memes/ambamelia-tears-down-greek-flags-thinking-theyre-israeli-flags)
+    
+
+##### Also Trending:
+
+[Muscular Lara Croft Controversy](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy "Muscular Lara Croft Controversy") ["Fuck Israel" Paid For By MrBeast LLC Billboards](https://knowyourmeme.com/memes/events/fuck-israel-paid-for-by-mrbeast-llc-billboards ""Fuck Israel" Paid For By MrBeast LLC Billboards") [Donald Trump Dancing At Rally](https://knowyourmeme.com/memes/events/donald-trumps-oaks-pennsylvania-rally "Donald Trump Dancing At Rally") [Woman Tearing Down Greek Flags Video](https://knowyourmeme.com/memes/ambamelia-tears-down-greek-flags-thinking-theyre-israeli-flags "Woman Tearing Down Greek Flags Video") [Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy")
 
 Privacy Policy
 ==============
@@ -210,27 +309,15 @@ If you have any requests regarding the data collected under this Privacy Policy,
 
 Please be sure to include your information in any correspondence to us so that we can respond to your inquiry in a timely manner.
 
-##### About
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| ##### About KYM<br><br>* [Our Story](https://knowyourmeme.com/about)<br>* [Site Rules](https://knowyourmeme.com/editorials/rules-and-guidelines/)<br>* [Policies and Guidelines](https://knowyourmeme.com/guidelines)<br>* [Credits](https://knowyourmeme.com/credits)<br>* [Contact](https://knowyourmeme.com/contact) | ##### Meme DB<br><br>* [Memes](https://knowyourmeme.com/memes)<br>* [Episodes](https://knowyourmeme.com/episodes)<br>* [Editorials](https://knowyourmeme.com/editorials)<br>* [Images](https://knowyourmeme.com/photos)<br>* [Videos](https://knowyourmeme.com/videos) | ##### KYM News<br><br>* [Newsfeed](https://knowyourmeme.com/news)<br>* [Staff](https://knowyourmeme.com/news/staff)<br>* [Contact](https://knowyourmeme.com/news/contact) | ##### Extras!<br><br>* [Chat](https://knowyourmeme.com/chat)<br>* [Forums](https://knowyourmeme.com/forums)<br>* [Style Guide](https://knowyourmeme.com/editorials/the-style-guide)<br>* [RSS Feeds](https://knowyourmeme.com/subscribe) | ##### KYM Social<br><br>* [Facebook](https://www.facebook.com/knowyourmeme)<br>* [Pinterest](https://www.pinterest.com/knowyourmeme/)<br>* [Twitter](https://twitter.com/knowyourmeme)<br>* [YouTube](https://www.youtube.com/user/KnowYourMeme) |
 
-* [Our Story](https://knowyourmeme.com/about)
-* [Site Rules](https://knowyourmeme.com/editorials/rules-and-guidelines/)
-* [Policies and Guidelines](https://knowyourmeme.com/guidelines)
-* [Credits](https://knowyourmeme.com/credits)
-* [Contact](https://knowyourmeme.com/contact)
+**Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
+© 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-##### Meme DB
+### Hello! You must login or signup first!
 
-* [Memes](https://knowyourmeme.com/memes)
-* [Episodes](https://knowyourmeme.com/episodes)
-
-##### News
-
-* [Staff](https://knowyourmeme.com/news/staff)
-* [Contact](https://knowyourmeme.com/news/contact)
-
-##### Extras!
-
-* [Style Guide](https://knowyourmeme.com/editorials/the-style-guide)
-* [RSS Feeds](https://knowyourmeme.com/subscribe)
-
- [![TikTok](/assets/redesign/tiktok.png)](https://tiktok.com/@knowyourmeme)[![YouTube](/assets/redesign/youtube.png)](https://www.youtube.com/channel/UCbrPqq29C9Q_TQP7OFFRzcw)[![Facebook](/assets/redesign/facebook.png)](https://facebook.com/knowyourmeme)[![Twitter](/assets/redesign/twitterx.png)](https://twitter.com/knowyourmeme)[![Discord](/assets/redesign/discord.png)](https://discord.com/invite/hxZaGpg)[![Snapchat](/assets/redesign/snapchat.png)](https://www.snapchat.com/p/41102048-8d2d-4288-b54e-c9e89b1afa44/1534121873233920)[![Instagram](/assets/redesign/instagram.png)](https://instagram.com/knowyourmeme)
+|     |     |
+| --- | --- |
+| ###### Already a memeber?<br><br>[Login Now!](https://knowyourmeme.com/login) | ###### Don't have an account?<br><br>[Sign up Now!](https://knowyourmeme.com/signup) |
