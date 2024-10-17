@@ -148,6 +148,29 @@ For further information regarding the applicable laws, regulations, and policies
 
 [![ISO 9001:2015 + AS9120B Certified Supplier](https://aerobasegroup.com/public/images/AS9120_ISO_9001.png "ISO 9001:2015 + AS9120B")](https://aerobasegroup.com/quality)
 
+#### Defense News
+
+* [No pilots, all cargo: Airbus tests loading of autonomous helicopter](https://www.defensenews.com/air/2024/10/16/no-pilots-all-cargo-airbus-tests-loading-of-autonomous-helicopter/)  
+    10/16/24 01:00pm  
+    
+    The nose of Airbus's autonomous variant of the UH-72 Lakota would open up, allowing Marines to front load weapons or large cargo. (Airbus)
+    
+* [AeroVironment pitches Army drone for quick battlefield changes](https://www.defensenews.com/air/2024/10/16/aerovironment-pitches-army-drone-for-quick-battlefield-changes/)  
+    10/16/24 11:20am  
+    
+    AeroVironment says its P550 drone, designed for the Army's Long Range Reconnaissance program, can be modified in the field in minutes and without tools. (AeroVironment)
+    
+* [Sending THAAD to Israel adds to strain on US Army, leaders say](https://www.defensenews.com/air/2024/10/15/sending-thaad-air-defense-system-to-israel-adds-to-strain-on-us-army/)  
+    10/15/24 11:32am  
+    
+    A Terminal High Altitude Area Defense (THAAD) missile defense system is displayed outside the White House in 2019. The U.S. is sending a THAAD, along with roughly 100 troops to operate it, to Israel. (Alex Brandon/AP)
+    
+* [US to send missile defense system and troops to Israel](https://www.defensenews.com/news/your-military/2024/10/14/us-to-send-missile-defense-system-and-troops-to-israel/)  
+    10/14/24 11:17am  
+    
+    Troops prepare to load a Terminal High Altitude Area Defense (THAAD) launching station onto a 4th Airlift Squadron C-17 Globemaster III at Fort Bliss, Texas, Feb. 23, 2019. The U.S. is sending a THAAD battery, along with the troops needed to operate it, to Israel. (Staff Sgt. Cory D. Payne/U.S. Air Force via AP)
+    
+
 Recent parts by keyword  
 
 The AeroBase Group Family ..
