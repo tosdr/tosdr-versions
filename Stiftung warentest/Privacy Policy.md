@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schnelle Maßnahmen zum Dämmen: Folien spannen, Nischen abdichten](https://www.test.de/Schnelle-Massnahmen-zum-Daemmen-Folien-spannen-Nischen-abdichten-5930937-0/ "Schnelle Maßnahmen zum Dämmen - Folien spannen, Nischen abdichten")
-* [Tipps zur Rabatt­schlacht: Black Friday Angebote – Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday Angebote – Ruhe bewahren und clever shoppen")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
+* [Testier­fähig­keit: Testament verfassen trotz Demenz – wann ist das wirk­sam?](https://www.test.de/Testament-Trotz-Demenz-testierfaehig-6160175-0/ "Testierfähigkeit - Testament verfassen trotz Demenz – wann ist das wirksam?")
+* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
+* [Eis­tee: In welchen Marken viel Zucker lauert](https://www.test.de/Eistee-In-welchen-Marken-viel-Zucker-lauert-5992349-0/ "Eistee - In welchen Marken viel Zucker lauert")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schnelle Maßnahmen zum Dämmen: Folien spannen, Nischen abdichten](https://www.test.de/Schnelle-Massnahmen-zum-Daemmen-Folien-spannen-Nischen-abdichten-5930937-0/ "Schnelle Maßnahmen zum Dämmen - Folien spannen, Nischen abdichten")
-* [Tipps zur Rabatt­schlacht: Black Friday Angebote – Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday Angebote – Ruhe bewahren und clever shoppen")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
+* [Testier­fähig­keit: Testament verfassen trotz Demenz – wann ist das wirk­sam?](https://www.test.de/Testament-Trotz-Demenz-testierfaehig-6160175-0/ "Testierfähigkeit - Testament verfassen trotz Demenz – wann ist das wirksam?")
+* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
+* [Eis­tee: In welchen Marken viel Zucker lauert](https://www.test.de/Eistee-In-welchen-Marken-viel-Zucker-lauert-5992349-0/ "Eistee - In welchen Marken viel Zucker lauert")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schnelle Maßnahmen zum Dämmen: Folien spannen, Nischen abdichten](https://www.test.de/Schnelle-Massnahmen-zum-Daemmen-Folien-spannen-Nischen-abdichten-5930937-0/ "Schnelle Maßnahmen zum Dämmen - Folien spannen, Nischen abdichten")
-* [Tipps zur Rabatt­schlacht: Black Friday Angebote – Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday Angebote – Ruhe bewahren und clever shoppen")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
+* [Testier­fähig­keit: Testament verfassen trotz Demenz – wann ist das wirk­sam?](https://www.test.de/Testament-Trotz-Demenz-testierfaehig-6160175-0/ "Testierfähigkeit - Testament verfassen trotz Demenz – wann ist das wirksam?")
+* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
+* [Eis­tee: In welchen Marken viel Zucker lauert](https://www.test.de/Eistee-In-welchen-Marken-viel-Zucker-lauert-5992349-0/ "Eistee - In welchen Marken viel Zucker lauert")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schnelle Maßnahmen zum Dämmen: Folien spannen, Nischen abdichten](https://www.test.de/Schnelle-Massnahmen-zum-Daemmen-Folien-spannen-Nischen-abdichten-5930937-0/ "Schnelle Maßnahmen zum Dämmen - Folien spannen, Nischen abdichten")
-* [Tipps zur Rabatt­schlacht: Black Friday Angebote – Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday Angebote – Ruhe bewahren und clever shoppen")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
+* [Testier­fähig­keit: Testament verfassen trotz Demenz – wann ist das wirk­sam?](https://www.test.de/Testament-Trotz-Demenz-testierfaehig-6160175-0/ "Testierfähigkeit - Testament verfassen trotz Demenz – wann ist das wirksam?")
+* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
+* [Eis­tee: In welchen Marken viel Zucker lauert](https://www.test.de/Eistee-In-welchen-Marken-viel-Zucker-lauert-5992349-0/ "Eistee - In welchen Marken viel Zucker lauert")
 
 Service Stiftung Warentest
 
