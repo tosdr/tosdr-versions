@@ -1,6 +1,6 @@
 5.38.21
 
-1729153497513
+1729175761822
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.1
 
-1729153477126
+1729175534881
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1729153747782
+1729175531734
 
 You need to enable JavaScript to run this app.
 
@@ -549,6 +549,44 @@ The use of a Nextpay card (formally known as Directory Card) or the Nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Olaplex Promotion
+
+The Olaplex Gift will be automatically added to bag when you buy any 2 selected Olaplex products. The Olaplex Gift contains:
+
+* No.9 20ml
+* No.6 20ml
+* No.3 20ml
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The Olaplex Gift will be automatically added once 2 qualifying Olaplex products have been added to the bag on either the Product or Shopping Bag Pages.
+
+The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks last.
+
+### Selected £10 Fragrance Mists Bath and Body Works Promotion
+
+Selected Bath and Body Works Fragrance Mists for £10.
+
+Discounted price visible on product listing page and product already includes saving.
+
+Item will be added to basket at discounted price.
+
+Offer available while stocks last.
+
+### 3 Wick Candles for £20 Selected Bath and Body Works Promotion
+
+Selected Bath and Body Works 3 wick candles for £20.
+
+Discounted price visible on product listing page and product already includes saving.
+
+Item will be added to basket at discounted price.
+
+Offer available while stocks last.
 
 ### Estée Lauder Promotion
 
@@ -2569,7 +2607,7 @@ You need to enable JavaScript to run this app.
 
 3.15.1
 
-1729153818726
+1729176286585
 
 ### Our Social Networks
 
