@@ -180,6 +180,14 @@ Oct 17
 
 Sherman
 
+Oct 24
+
+1:30 pm - 4:00 pm
+
+### [Homeland Security Advisory Committee (HSAC)](https://tcog.com/event/homeland-security-advisory-committee-hsac-3/ "Homeland Security Advisory Committee (HSAC)")
+
+Sherman
+
 Oct 29
 
 1:00 pm - 2:30 pm
@@ -197,14 +205,6 @@ Nov 14
 4:00 pm - 5:30 pm [Event Series](https://tcog.com/series/audit-and-finance-committee/ "Event Series")
 
 ### [Audit and Finance Committee](https://tcog.com/event/audit-and-finance-committee-2/2024-11-14/ "Audit and Finance Committee")
-
-Sherman
-
-Nov 14
-
-5:30 pm - 6:00 pm [Event Series](https://tcog.com/series/executive-officers-committee/ "Event Series")
-
-### [Executive Officers Committee](https://tcog.com/event/executive-officers-committee-2-2/2024-11-14/ "Executive Officers Committee")
 
 Sherman
 
