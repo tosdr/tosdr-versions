@@ -52,7 +52,7 @@ This website is not directed to visitors from outside of the United States. If y
 
 We use the term “**you**” to refer to (i) Clients; (ii) Service Providers; (iii) Scholarship Applicants; and (iv) Site Visitors (as the context permits).
 
-      **1.2 Client Engagements**. If you are a Client and we agree to represent you, we will enter into an engagement letter with you. In the course of the engagement, you may provide us with a range of information, including certain sensitive information, such as your medical information. Our engagement letter and our attorney-client, ethical, and other obligations will control our treatment of that information. 
+      **1.2 Client Engagements**. If you are a Client and we agree to represent you, we will enter into an engagement letter with you. In the course of the engagement, you may provide us with a range of information, including certain sensitive information, such as your medical information. Our engagement letter and our attorney-client, ethical, and other obligations will control our treatment of that information. 
 
       **1.3 Other Exclusions from this Privacy Policy**. This Privacy Policy does not apply to our current or prospective employees providing us information with respect to their actual or potential employment with P&M. Moreover, if we provide you with links to other websites, then they are solely for your convenience and reference and we are not responsible for the privacy practices or content on, or accessed through, such links or websites.
 
@@ -93,7 +93,9 @@ We use the term “**you**” to refer to (i) Clients; (ii) Service Providers; (
 
       **3.4 Treatment of Combined Information**. To enable us to better understand the characteristics of our users and/or to conduct the Business, we may link your Personal Information with Online Activity Information associated with you or other Anonymous Information. If we combine or associate Online Activity Information or other Anonymous Information with your Personal Information, then we will treat the resulting combination as Personal Information.
 
-**3.5 Description of Collection.** We recognize the twelve (12) broad categories of personal information referenced in the CCPA that a business may collect about a consumer. In particular, we have collected the following categories of personal information from consumers within the last twelve (12) months:
+**3.5 Sensitive Information. We may collect certain sensitive information in connection with providing our services. What constitutes “sensitive personal information” may vary by law, and generally includes personal information regarding a person’s race, ethnicity, political beliefs, trade union membership, religious or similar beliefs, physical or mental health, disabilities, biometrics, precise geolocation, sexual orientation or criminal record. We ask that you not disclose any sensitive personal information unless you consent to the use of that information for our business purposes. To limit the use of any sensitive information we may have collected, please visit our [Limit the Use of Sensitive Personal Information page.](https://www.pintas.com/limit-the-use-of-sensitive-personal-information/)**
+
+**3.6 Description of Collection.** We recognize the twelve (12) broad categories of personal information referenced in the CCPA that a business may collect about a consumer. In particular, we have collected the following categories of personal information from consumers within the last twelve (12) months:
 
 |     |     |     |
 | --- | --- | --- |
@@ -216,7 +218,7 @@ Specifically, we provide the following rights with respect to your Personal Info
 
             **13.3.3 Do-Not-Sell Requests**. You may request that we do not share or sell your Personal Information with third parties to be used for purposes not described in this Privacy Policy. The California Consumer Privacy Act refers to this as a “Do Not Sell” request. P&M only seeks to share Personal Information with service providers and others described above for purposes identified in this Privacy Policy. Please note, however, that Online Activity Information or Anonymous Information collected by service providers providing pixels or other third party technologies on our Website could potentially be used by those service providers for their own purposes, some of whom may be able to associate such information with you based on other information they have collected independently (not from P&M). We will endeavor to block such sharing upon request.
 
-            **13.3.4 Submission of Requests**. You can submit any of these requests by contacting us at 1-312-488-2000, e-mailing us at questions@pintas.com or by visiting our office. You may authorize another person (your “**Agent**“) to submit a request on your behalf the same way. Shortly after you (or your Agent) submit a request, we will contact you (usually via email) with instructions on how to verify the submitted request before we fulfill it or advise you of an exemption. Please be advised that these requests are unrelated to your ability to opt-out of marketing communications, which can be done as provided in Section 13.1 (Unsubscribing to Marketing Communications) above.
+            **13.3.4 Submission of Requests**. You can submit any of these requests by visiting our [Data Request Page](https://www.pintas.com/data-request/), contacting us at 1-312-488-2000, e-mailing us at questions@pintas.com or by visiting our office. You may authorize another person (your “**Agent**“) to submit a request on your behalf the same way. Shortly after you (or your Agent) submit a request, we will contact you (usually via email) with instructions on how to verify the submitted request before we fulfill it or advise you of an exemption. Please be advised that these requests are unrelated to your ability to opt-out of marketing communications, which can be done as provided in Section 13.1 (Unsubscribing to Marketing Communications) above.
 
             **13.3.5 Response to Requests**. Please be advised that P&M will fulfill these requests in its reasonable discretion and in a manner consistent with any applicable law. Likewise, we will aim to complete such requests as soon as reasonably practicable and in a manner consistent with any applicable law. If you otherwise have concerns or objections with our processing of your Personal Information, please contact us as provided in Section 19 (Contact Us).
 
@@ -273,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can you sue an insurance company without a lawyer?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-an-insurance-company-without-a-lawyer-scaled.jpg "Can You Sue an Insurance Company Without a Lawyer?")](https://www.pintas.com/faq/can-you-sue-an-insurance-company-without-a-lawyer/ "Can You Sue an Insurance Company Without a Lawyer?")
+[![Handling medical bills in injury settlements](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-do-you-have-to-pay-your-medical-bills-from-a-personal-injury-settlement.jpg "Handling Medical Bills in Injury Settlements")](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement "Handling Medical Bills in Injury Settlements")
 
-[#### Can You Sue an Insurance Company Without a Lawyer?](https://www.pintas.com/faq/can-you-sue-an-insurance-company-without-a-lawyer/)
+[#### Handling Medical Bills in Injury Settlements](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement)
 
-[![Average lung cancer settlement from asbestos](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-what-is-the-average-settlement-for-lung-cancer-caused-by-asbestos-exposure.jpg "Average Lung Cancer Settlement from Asbestos")](https://www.pintas.com/practice-areas/lung-cancer/average-lung-cancer-settlement "Average Lung Cancer Settlement from Asbestos")
+[![What is the treatment for bedsores?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-the-treatment-for-bedsores-scaled.jpg "What Is the Treatment for Bedsores?")](https://www.pintas.com/faq/what-is-the-treatment-for-bedsores/ "What Is the Treatment for Bedsores?")
 
-[#### Average Lung Cancer Settlement from Asbestos](https://www.pintas.com/practice-areas/lung-cancer/average-lung-cancer-settlement)
+[#### What Is the Treatment for Bedsores?](https://www.pintas.com/faq/what-is-the-treatment-for-bedsores/)
 
-[![How will mesothelioma change my life?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-how-will-mesothelioma-change-my-life.jpg "How Will Mesothelioma Change My Life?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/ "How Will Mesothelioma Change My Life?")
+[![What is the first day of living in a nursing home like?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-is-the-first-day-of-living-in-a-nursing-home-like.jpg "What Is the First Day of Living in a Nursing Home Like?")](https://www.pintas.com/faq/what-is-the-first-day-of-living-in-a-nursing-home-like/ "What Is the First Day of Living in a Nursing Home Like?")
 
-[#### How Will Mesothelioma Change My Life?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/)
+[#### What Is the First Day of Living in a Nursing Home Like?](https://www.pintas.com/faq/what-is-the-first-day-of-living-in-a-nursing-home-like/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
