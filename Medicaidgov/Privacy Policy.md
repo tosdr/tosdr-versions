@@ -948,20 +948,21 @@ Related Sites
 
 * Helpful Links
 
-Helpful Links
--------------
+[Web Policies and Important Links](https://www.cms.gov/about-cms/web-policies-important-links/about-website)
 
-[Show — Helpful Links](#show-block-helpfullinks) [Hide — Helpful Links](#hide-block-helpfullinks)
+[Plain Language](https://www.plainlanguage.gov/)
 
-* [Web Policies and Important Links](https://www.cms.gov/about-cms/web-policies-important-links/about-website)
-* [Plain Language](https://www.plainlanguage.gov/)
-* [Nondiscrimination & Accessibility](https://www.cms.gov/about-cms/agency-information/aboutwebsite/cmsnondiscriminationnotice.html)
-* [Help with File Formats & Plug-ins](https://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Help.html)
-* [No Fear Act](https://www.cms.gov/about-cms/agency-information/aboutwebsite/nofearact.html)
-* [Archive](https://www.medicaid.gov/archive/index.html)
-* [Site Feedback](mailto:Medicaid.gov@cms.hhs.gov?subject=Medicaid.gov%20Feedback)
-* [Privacy Policy](https://www.medicaid.gov/privacy-policy/index.html)
-* [Privacy Settings](# "Privacy settings")
+[Nondiscrimination & Accessibility](https://www.cms.gov/about-cms/agency-information/aboutwebsite/cmsnondiscriminationnotice.html)
+
+[Help with File Formats & Plug-ins](https://www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Help.html)
+
+[No Fear Act](https://www.cms.gov/about-cms/agency-information/aboutwebsite/nofearact.html)
+
+[Archive](https://www.medicaid.gov/archive/index.html)
+
+[Site Feedback](mailto:Medicaid.gov@cms.hhs.gov?subject=Medicaid.gov%20Feedback)
+
+[Privacy Policy](https://www.medicaid.gov/privacy-policy/index.html)
 
 Sign up
 
