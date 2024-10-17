@@ -402,11 +402,17 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Keller ISD, nonprofit launch fundraiser to pay student lunch debt to avoid 'alternative meals'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/15145f8d-GettyImages-875207542.jpg?ve=1&tl=1)
+ [![Texas board votes against clemency for a man facing execution in shaken baby syndrome case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1)
 
- ![Keller ISD, nonprofit launch fundraiser to pay student lunch debt to avoid 'alternative meals'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/592/333/15145f8d-GettyImages-875207542.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/keller-isd-alternative-lunches-community-storehouse-partnership-online-fundraiser-school-lunches)
+ ![Texas board votes against clemency for a man facing execution in shaken baby syndrome case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-board-votes-against-clemency-man-facing-execution-shaken-baby-syndrome-case)
 
-### [Keller ISD, nonprofit launch fundraiser to pay student lunch debt to avoid 'alternative meals'](https://www.fox4news.com/news/keller-isd-alternative-lunches-community-storehouse-partnership-online-fundraiser-school-lunches)
+### [Texas board votes against clemency for a man facing execution in shaken baby syndrome case](https://www.fox4news.com/news/texas-board-votes-against-clemency-man-facing-execution-shaken-baby-syndrome-case)
+
+ [![Deaf man with cerebral palsy hit and tased by Phoenix Police officers; investigations underway](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-16-15h25m36s381.png?ve=1&tl=1)
+
+ ![Deaf man with cerebral palsy hit and tased by Phoenix Police officers; investigations underway](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-16-15h25m36s381.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/deaf-man-cerebral-palsy-hit-tased-phoenix-police-officers-investigations-underway)
+
+### [Deaf man with cerebral palsy hit and tased by Phoenix Police officers; investigations underway](https://www.fox4news.com/news/deaf-man-cerebral-palsy-hit-tased-phoenix-police-officers-investigations-underway)
 
  [![Former One Direction star Liam Payne dies after fall from hotel floor](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/liam-payne-one-direction.jpg?ve=1&tl=1)
 
@@ -414,31 +420,17 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Former One Direction star Liam Payne dies after fall from hotel floor](https://www.fox4news.com/news/one-direction-liam-payne-dies)
 
- [![Management group disputes claim that $5.7M donated to Fair Park was misspent](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101624-mg-lb-raw-fair-park-first_pkg___kdfwb83a_18_00.00.52.30.jpg?ve=1&tl=1)
+ [![Keller ISD, nonprofit launch fundraiser to pay student lunch debt to avoid 'alternative meals'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/15145f8d-GettyImages-875207542.jpg?ve=1&tl=1)
 
- ![Management group disputes claim that $5.7M donated to Fair Park was misspent](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101624-mg-lb-raw-fair-park-first_pkg___kdfwb83a_18_00.00.52.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oak-view-group-fair-park-misspent-funds)
+ ![Keller ISD, nonprofit launch fundraiser to pay student lunch debt to avoid 'alternative meals'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/592/333/15145f8d-GettyImages-875207542.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/keller-isd-alternative-lunches-community-storehouse-partnership-online-fundraiser-school-lunches)
 
-### [Management group disputes claim that $5.7M donated to Fair Park was misspent](https://www.fox4news.com/news/oak-view-group-fair-park-misspent-funds)
+### [Keller ISD, nonprofit launch fundraiser to pay student lunch debt to avoid 'alternative meals'](https://www.fox4news.com/news/keller-isd-alternative-lunches-community-storehouse-partnership-online-fundraiser-school-lunches)
 
- [![North Texas officials ready transportation plan for 2026 FIFA World Cup](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dial-world-cup-transportation-5p_00.00.08.34.jpg?ve=1&tl=1)
+ [![Arizona's famous 'Thanksgiving Grandma,' Wanda Dench diagnosed with cancer](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/screenshot-2024-10-16-180006.png?ve=1&tl=1)
 
- ![North Texas officials ready transportation plan for 2026 FIFA World Cup](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dial-world-cup-transportation-5p_00.00.08.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fifa-world-cup-north-texas-transportation-plan-2026)
+ ![Arizona's famous 'Thanksgiving Grandma,' Wanda Dench diagnosed with cancer](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/screenshot-2024-10-16-180006.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arizonas-famous-thanksgiving-grandma-wanda-dench-diagnosed-cancer)
 
-### [North Texas officials ready transportation plan for 2026 FIFA World Cup](https://www.fox4news.com/news/fifa-world-cup-north-texas-transportation-plan-2026)
-
- [![Tarrant County election security measures could slow election night results](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dionne-judge-ohare-election-security-5p_00.00.35.48.jpg?ve=1&tl=1)
-
- ![Tarrant County election security measures could slow election night results](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dionne-judge-ohare-election-security-5p_00.00.35.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tarrant-county-election-security-tim-ohare)
-
-### [Tarrant County election security measures could slow election night results](https://www.fox4news.com/news/tarrant-county-election-security-tim-ohare)
-
-[![Former One Direction star Liam Payne dies after fall from hotel floor](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/liam-payne-one-direction.jpg?ve=1&tl=1)](https://www.fox4news.com/news/one-direction-liam-payne-dies)
-
-BREAKING NEWS
-
-[Former One Direction star Liam Payne dies after fall from hotel: Reports](https://www.fox4news.com/news/one-direction-liam-payne-dies)
-
-[Former One Direction singer Liam Payne has reportedly died after falling from the third floor of a hotel in Buenos Aires, Argentina.](https://www.fox4news.com/news/one-direction-liam-payne-dies)
+### [Arizona's famous 'Thanksgiving Grandma,' Wanda Dench diagnosed with cancer](https://www.fox4news.com/news/arizonas-famous-thanksgiving-grandma-wanda-dench-diagnosed-cancer)
 
 ###### [News](https://www.fox4news.com/news)
 
