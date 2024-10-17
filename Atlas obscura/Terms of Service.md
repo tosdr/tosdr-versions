@@ -166,7 +166,6 @@ Get the app
  Trips
 
 * [All Trips](https://www.atlasobscura.com/adventures/trips)
-* [Trips Blog](https://blog.atlasobscura.com/)
 * [Art & Culture Trips](https://www.atlasobscura.com/adventures/trips?int=art+%26+culture)
 * [Food Trips](https://www.atlasobscura.com/adventures/trips?int=food+%26+drink)
 * [Hidden City Trips](https://www.atlasobscura.com/adventures/trips?int=hidden+cities)
