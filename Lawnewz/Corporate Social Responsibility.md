@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Inset: Vem Miller (News Nation). Background: Donald Trump speaking at his campaign rally in Coachella, California (Forbes).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/asdfasdf-2-432x243.jpg)](https://lawandcrime.com/high-profile/sheriff-fabricated-allegations-of-third-assassination-attempt-on-trump-so-he-could-seem-heroic-in-arresting-staunch-trump-supporter-lawsuit/)
-    
-    ### [Sheriff 'fabricated allegations' of third assassination attempt on Trump so he could seem 'heroic' in arresting 'staunch' Trump supporter: Lawsuit](https://lawandcrime.com/high-profile/sheriff-fabricated-allegations-of-third-assassination-attempt-on-trump-so-he-could-seem-heroic-in-arresting-staunch-trump-supporter-lawsuit/)
-    
-2. [![Berline Burkholder appears in a booking photo.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Berline-Burkholder-432x243.jpg)](https://lawandcrime.com/crime/i-did-something-i-wasnt-supposed-to-do-mom-sentenced-for-pouring-scalding-hot-liquid-on-her-9-month-old-daughter/)
-    
-    ### ['I did something I wasn’t supposed to do': Mom sentenced for pouring scalding hot liquid on her 9-month-old daughter](https://lawandcrime.com/crime/i-did-something-i-wasnt-supposed-to-do-mom-sentenced-for-pouring-scalding-hot-liquid-on-her-9-month-old-daughter/)
-    
-3. [![Left to right: Jack Smith, Tanya Chutkan, Donald Trump](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Smith-Chutkan-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/jan-6-judge-says-trump-could-share-responsibility-for-criminal-actions-of-capitol-rioters-even-without-his-express-encouragement/)
+1. [![Left to right: Jack Smith, Tanya Chutkan, Donald Trump](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Smith-Chutkan-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/jan-6-judge-says-trump-could-share-responsibility-for-criminal-actions-of-capitol-rioters-even-without-his-express-encouragement/)
     
     ### [Jan. 6 judge says Trump 'could share responsibility' for 'criminal actions' of Capitol rioters even without his 'express' encouragement](https://lawandcrime.com/high-profile/jan-6-judge-says-trump-could-share-responsibility-for-criminal-actions-of-capitol-rioters-even-without-his-express-encouragement/)
     
-4. [![Giovanni Aldama Garcia mugshot and Trooper](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Giovanni-Aldama-Garcia-mugshot-and-Trooper-432x243.jpg)](https://lawandcrime.com/crime/owner-tied-trembling-dog-to-fence-in-rising-waters-of-hurricane-milton-because-he-couldnt-find-anyone-to-pick-the-dog-up-cops/)
+2. [![Left: A picture of what is described as a ](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Matthew-Kacsmaryk-pill-packing-party-432x243.jpg)](https://lawandcrime.com/high-profile/new-complaint-challenging-mail-order-abortion-drug-economy-lands-before-texas-judge-whose-mifepristone-ban-was-reversed-by-scotus/)
+    
+    ### [New complaint challenging 'mail order abortion drug economy' lands before Texas judge whose mifepristone ban was reversed by SCOTUS](https://lawandcrime.com/high-profile/new-complaint-challenging-mail-order-abortion-drug-economy-lands-before-texas-judge-whose-mifepristone-ban-was-reversed-by-scotus/)
+    
+3. [![Justin Stephens and Central High School](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Justin-Stephens-and-Central-High-School-432x243.jpg)](https://lawandcrime.com/crime/man-posed-as-15-year-old-girls-father-so-he-could-pick-her-up-from-school-take-her-to-abandoned-house-cops/)
+    
+    ### [Man posed as 15-year-old girl's father so he could pick her up from school, take her to abandoned house: Cops](https://lawandcrime.com/crime/man-posed-as-15-year-old-girls-father-so-he-could-pick-her-up-from-school-take-her-to-abandoned-house-cops/)
+    
+4. [![Matthew Johnson, Jennifer Gledhill](https://am22.mediaite.com/lc/cnt/uploads/2024/10/missing-432x243.jpg)](https://lawandcrime.com/crime/slid-him-down-the-stairs-lover-rats-out-national-guardsmans-estranged-wife-who-murdered-him-as-he-slept-da-says/)
+    
+    ### ['Slid him down the stairs': Lover rats out National Guardsman's estranged wife who murdered him as he slept, DA says](https://lawandcrime.com/crime/slid-him-down-the-stairs-lover-rats-out-national-guardsmans-estranged-wife-who-murdered-him-as-he-slept-da-says/)
+    
+5. [![Giovanni Aldama Garcia mugshot and Trooper](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Giovanni-Aldama-Garcia-mugshot-and-Trooper-432x243.jpg)](https://lawandcrime.com/crime/owner-tied-trembling-dog-to-fence-in-rising-waters-of-hurricane-milton-because-he-couldnt-find-anyone-to-pick-the-dog-up-cops/)
     
     ### [Owner tied 'trembling' dog to fence in rising waters of Hurricane Milton because he 'couldn’t find anyone to pick the dog up': Cops](https://lawandcrime.com/crime/owner-tied-trembling-dog-to-fence-in-rising-waters-of-hurricane-milton-because-he-couldnt-find-anyone-to-pick-the-dog-up-cops/)
-    
-5. [![Inset: Janet Williams (Fulton County Sheriff's Office). Background: The elderly living facility where she is worked as a security guard and allegedly killed a 90-year-old resident (WXIA).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/adfadf-432x243.jpg)](https://lawandcrime.com/crime/elderly-facility-security-guard-killed-90-year-old-resident-tried-to-insert-herself-into-investigation-by-inquiring-about-evidence-police/)
-    
-    ### [Elderly facility security guard killed 90-year-old resident, tried to insert herself into investigation by 'inquiring about evidence': Police](https://lawandcrime.com/crime/elderly-facility-security-guard-killed-90-year-old-resident-tried-to-insert-herself-into-investigation-by-inquiring-about-evidence-police/)
     
 
 [](http://eepurl.com/c89Jdb)
