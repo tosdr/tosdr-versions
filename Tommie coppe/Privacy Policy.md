@@ -1,32 +1,32 @@
 [Skip to main content](#main-content)
 
-BOGO Free Sitewide! DETAILS
+Save 50% Sitewide! DETAILS
 
-BUY 1 GET 1 FREE
+\+ Free Gift With Purchase! DETAILS
+
+ONE DAY ONLY!
 
 Close the Modal
 
-#### Sitewide Savings: Mix & Match or Double Up!
+#### Save 50% Sitewide!
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 10/15/2024 8AM ET - 10/17/2024 6AM ET.
+Offer valid 10/17/2024 8AM ET - 10/18/2024 6AM ET.
 
-To receive Buy 1 Get 1 Free discount, must add two (2) full-price products to cart. Discount automatically applied on lowest priced item. Exclusions apply.\* Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-\***Excludes:** Back Support Bra | Women's and all ActiveWick Socks.
+Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 FREE GIFT WITH PURCHASE
 
 Close the Modal
 
-#### Free Baseball Hat on Orders $200+
+#### Free Tommie Copper Winter Beanie on Orders $125+
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
 
-Offer valid 6/20/2024 8AM ET - 6/21/2024 6AM ET.
+Offer valid 10/17/2024 8AM ET - 10/18/2024 6AM ET.
 
-Free Baseball Hat automatically applied on orders $200+. Order subtotal must reach $200 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Free Winter Beanie automatically applied on orders $125+. Order subtotal must reach $125 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
@@ -264,7 +264,6 @@ OK Cancel
 
 * [Instagram](https://www.instagram.com/tommiecopper/ "Instagram")
 * [Facebook](https://www.facebook.com/tommiecopper "Facebook")
-* [Twitter](https://twitter.com/tommiecopper "Twitter")
 
 ##### Company
 
