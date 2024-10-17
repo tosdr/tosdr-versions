@@ -45,23 +45,28 @@ Toggle navigation
     
 * Solutions
     
-    By size
+    By company size
     
-    * [Enterprise](https://github.com/enterprise)
-    * [Teams](https://github.com/team)
+    * [Enterprises](https://github.com/enterprise)
+    * [Small and medium teams](https://github.com/team)
     * [Startups](https://github.com/enterprise/startups)
-    
-    By industry
-    
-    * [Healthcare](https://github.com/solutions/industries/healthcare)
-    * [Financial services](https://github.com/solutions/industries/financial-services)
-    * [Manufacturing](https://github.com/solutions/industries/manufacturing)
     
     By use case
     
-    * [CI/CD & Automation](https://github.com/solutions/ci-cd)
-    * [DevOps](https://github.com/solutions/devops)
-    * [DevSecOps](https://github.com/solutions/devsecops)
+    * [DevSecOps](https://github.com/solutions/use-case/devsecops)
+    * [DevOps](https://github.com/solutions/use-case/devops)
+    * [CI/CD](https://github.com/solutions/use-case/ci-cd)
+    * [View all use cases](https://github.com/solutions/use-case)
+    
+    By industry
+    
+    * [Healthcare](https://github.com/solutions/industry/healthcare)
+    * [Financial services](https://github.com/solutions/industry/financial-services)
+    * [Manufacturing](https://github.com/solutions/industry/manufacturing)
+    * [Government](https://github.com/solutions/industry/government)
+    * [View all industries](https://github.com/solutions/industry)
+    
+    [View all solutions](https://github.com/solutions)
     
 * Resources
     
