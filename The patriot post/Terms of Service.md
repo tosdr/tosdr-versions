@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111137-mid-day-digest-2024-10-16?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111170-mid-day-digest-2024-10-17?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,7 +185,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111137-mid-day-digest-2024-10-16?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111170-mid-day-digest-2024-10-17?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -197,20 +197,20 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34374)
+     [](https://patriotpost.us/cartoons/34380)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Hans von Spakovsky How States Can Protect the Right to Vote in Hurricane-Ravaged Areas](https://patriotpost.us/opinion/111150-how-states-can-protect-the-right-to-vote-in-hurricane-ravaged-areas-2024-10-17)
+*      [Larry Elder Obama Again Whips Out His Race Card — Tells ‘The Brothers’ How To Vote](https://patriotpost.us/opinion/111148-obama-again-whips-out-his-race-card-tells-the-brothers-how-to-vote-2024-10-17)
+*      [Gary Bauer JDFI Defends Religious Liberty](https://patriotpost.us/opinion/111147-jdfi-defends-religious-liberty-2024-10-17)
+*      [Armstrong Williams Race: The Currency of Power](https://patriotpost.us/opinion/111146-race-the-currency-of-power-2024-10-17)
+*      [Cal Thomas Regime Change in Iran Is the Only Option](https://patriotpost.us/opinion/111144-regime-change-in-iran-is-the-only-option-2024-10-17)
 *      [Mark Alexander JD Vance v. New York Times](https://patriotpost.us/alexander/111104-jd-vance-v-new-york-times-2024-10-17)
-*      [Jeff Jacoby Oklahoma urges private groups to launch charter schools — as long as they’re not religious](https://patriotpost.us/opinion/111145-oklahoma-urges-private-groups-to-launch-charter-schools-as-long-as-theyre-not-religious-2024-10-16)
-*      [Mark Alexander The 2024 Election IS Rigged!](https://patriotpost.us/alexander/111103-the-2024-election-is-rigged-2024-10-16)
-*      [Ben Shapiro The Brat Energy Is Gone](https://patriotpost.us/opinion/111130-the-brat-energy-is-gone-2024-10-16)
-*      [Betsy McCaughey Harris’ Approach: Only Blacks Get Government Help](https://patriotpost.us/opinion/111126-harris-approach-only-blacks-get-government-help-2024-10-16)
-*      [Tim Graham The Washington Post Claims Republicans Wage War on Fact-Checkers](https://patriotpost.us/opinion/111125-the-washington-post-claims-republicans-wage-war-on-fact-checkers-2024-10-16)
-*      [John Stossel Deceitful Promises](https://patriotpost.us/opinion/111124-deceitful-promises-2024-10-16)
-*      [Gary Bauer The Joy Is Gone](https://patriotpost.us/opinion/111122-the-joy-is-gone-2024-10-16)
+*      [The Babylon Bee Democrats Wondering If It’s Too Late to Go Back to Joe Biden](https://patriotpost.us/opinion/111168-democrats-wondering-if-its-too-late-to-go-back-to-joe-biden-2024-10-17)
+*      [Jeff Jacoby Oklahoma Urges Private Groups to Launch Charter Schools — as Long as They’re Not Religious](https://patriotpost.us/opinion/111145-oklahoma-urges-private-groups-to-launch-charter-schools-as-long-as-theyre-not-religious-2024-10-16)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,15 +224,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
-“The name of American, which belongs to you, in your national capacity, must always exalt the just pride of Patriotism, more than any appellation derived from local discriminations.” —George Washington (1796)
+“Amplification is the vice of modern oratory.” —Thomas Jefferson (1824)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
