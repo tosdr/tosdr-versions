@@ -306,23 +306,21 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGG1pdWlxclhaRTBUazJjU3BFcVZ1U0E9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljINOkc)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGEFqUXZRZU1zQ2xQYW14aGMvYU9Ld0E9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLtC6g)
 
-[![Thumbnail image](https://play-lh.googleusercontent.com/uU38cxbeMKLKDXQYopB9r1ybCFO-2vdfTKtV-mXp-zZ7Mcv_AW6MzSSCWkR_ybvgRA=s64)
+[![Thumbnail image](https://play-lh.googleusercontent.com/mg7fg0oHkqa-8djwpLrxt-qn978IW9qYLo6miSZfLD-lJYYgxv0rpG-gRifXDmgh_z0Z=s64)
 
-Hushed: US Second Phone Number
+MailTime: Secure Email Inbox
 
-AffinityClick Inc.
+MailTime
 
-3.8_star_](https://play.google.com/store/apps/details?id=com.hushed.release)
+4.2_star_](https://play.google.com/store/apps/details?id=com.mailtime.android)
 
-[![Thumbnail image](https://play-lh.googleusercontent.com/Z2ypCEz60SmQu-qBLS-vsV4lnCTKkU93YQHP5n73smITdU4AhoIZRrOS3ZtMHYHs-D4=s64)
+[![Thumbnail image](https://play-lh.googleusercontent.com/V7_c9p-dmAUSXRhPllgX6wxSukjqMO0y_fCMV9rE-BwQUUPfEROSTLVqAD_oHGLKiA=s64)
 
-Wize SMS: Message & Messenger
+Bambook - OCR scanner
 
-Browser by Fulldive Co.
-
-4.2_star_](https://play.google.com/store/apps/details?id=com.fulldive.extension.divesms)
+Bambook](https://play.google.com/store/apps/details?id=org.bambook.scanner)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/H-gvp6FzVPkEjwqnh2z6ks6PiKoC2AjsPMnZeHlOdDTB58jJn7kxDbh7VLsHdndfB2s=s64)
 
@@ -332,13 +330,13 @@ Handcent
 
 4.5_star_](https://play.google.com/store/apps/details?id=com.handcent.app.nextsms)
 
-[![Thumbnail image](https://play-lh.googleusercontent.com/DSMBLC-yGuWCdMYzqpNio-brFDS4Th6ERZcmilckYtU9tXqEqMEetwC9JCQoJSLVGF4=s64)
+[![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
-FairEmail, privacy aware email
+Textra SMS
 
-Marcel Bokhorst, FairCode BV
+Delicious
 
-4.7_star_](https://play.google.com/store/apps/details?id=eu.faircode.email)
+4.3_star_](https://play.google.com/store/apps/details?id=com.textra)
 
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
