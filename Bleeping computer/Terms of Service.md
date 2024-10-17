@@ -352,15 +352,15 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Chrome flare](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Google warns uBlock Origin and other extensions may be disabled soon](https://www.bleepingcomputer.com/news/google/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/)
-* [![Iranian hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Iranian hackers now exploit Windows flaw to elevate privileges](https://www.bleepingcomputer.com/news/security/oilrig-hackers-now-exploit-windows-flaw-to-elevate-privileges/)
 * [![Android](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     TrickMo malware steals Android PINs using fake lock screen](https://www.bleepingcomputer.com/news/security/trickmo-malware-steals-android-pins-using-fake-lock-screen/)
+* [![Pokemon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Pokemon dev Game Freak confirms breach after stolen data leaks online](https://www.bleepingcomputer.com/news/security/pokemon-dev-game-freak-confirms-breach-after-stolen-data-leaks-online/)
+* [![Amazon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Amazon says 175 million customers now use passkeys to log in](https://www.bleepingcomputer.com/news/security/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
 
 ##### Follow us:
 
