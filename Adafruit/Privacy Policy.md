@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled shot of rectangular breakout board with three 2-pin terminal blocks.](https://cdn-shop.adafruit.com/230x173/6062-00.jpg)[Adafruit INA3221 - Triple 0-26 VDC, ±3.2 Amp Power Monitor
+    
+    $10.95](https://www.adafruit.com/product/6062)
+    
     ![Overhead shot of barrel-jack-to-USB-C-socket right angle adapter, showing 19.5V.](https://cdn-shop.adafruit.com/230x173/6033-05.jpg)[USB Type C PD to 5.5mm/2.1mm Barrel Jack Adapter - 20V
     
     $2.25](https://www.adafruit.com/product/6033)
@@ -86,10 +90,6 @@ Search
     ![Angled Shot of the Engineer Professional Silicone-Tip Solder Sucker.](https://cdn-shop.adafruit.com/230x173/1597-03.jpg)[Engineer Professional Silicone-Tip Solder Sucker
     
     $19.50](https://www.adafruit.com/product/1597)
-    
-    ![Angled shot of half-assembled enclosure with microcontroller.](https://cdn-shop.adafruit.com/230x173/6057-04.jpg)[Snap-on Enclosure for Adafruit Feather RP2040 USB Host
-    
-    $4.50](https://www.adafruit.com/product/6057)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ They always say time changes things, but you actually have to change them yourself”
+“ There are a few people out there who really enjoy hacking things...”
 
-[Andy Warhol](https://en.wikipedia.org/wiki/Andy_Warhol)
+[Helen Greiner](http://www.nytimes.com/2006/03/08/technology/08iht-ptbot09.html?_r=0)
 
 [](https://www.adafruit.com/about)
 
