@@ -79,7 +79,6 @@ Košík je prázdný
     * [Prestashop VPS Server](https://www.mydreams.cz/cz/saas-servery/prestashop-vps.html)
     
     * [VPN hosting WireGuard](https://www.mydreams.cz/cz/saas-servery/vpn-server.html)
-    * [VPN Hosting OpenVPN](https://www.mydreams.cz/cz/saas-servery/vpn-hosting.html)
     * [poMMo Mailer](https://www.mydreams.cz/cz/saas-servery/pommo-mailer.html)
     * [poMMo Mailer Turbo](https://www.mydreams.cz/cz/saas-servery/pommo-mailer-turbo.html)
     * [SEO Proxies](https://www.mydreams.cz/cz/saas-servery/seo-proxies.html)
