@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I just made a new subscription. Thanks again for helping me. Your support is really great!
+Thank you!! Fastest response ever.
 
-Carsten Thienemann
+Amy Xu
