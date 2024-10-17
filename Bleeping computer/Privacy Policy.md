@@ -36,18 +36,18 @@
         
         EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
     
-    * [![US disrupts Anonymous Sudan DDoS operation, indicts 2 Sudanese brothers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Iranian hackers act as brokers selling critical infrastructure access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        US disrupts Anonymous Sudan DDoS operation, indicts 2 Sudanese brothers](https://www.bleepingcomputer.com/news/security/us-disrupts-anonymous-sudan-ddos-operation-indicts-2-sudanese-brothers/)
-    * [![Get started in cybersecurity with this NIST fundamentals course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Iranian hackers act as brokers selling critical infrastructure access](https://www.bleepingcomputer.com/news/security/iranian-hackers-act-as-brokers-selling-critical-infrastructure-access/)
+    * [![Google: 70% of exploited flaws disclosed in 2023 were zero-days](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Get started in cybersecurity with this NIST fundamentals course deal](https://www.bleepingcomputer.com/offer/deals/get-started-in-cybersecurity-with-this-nist-fundamentals-course-deal/)
-    * [![Critical Kubernetes Image Builder flaw gives SSH root access to VMs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Google: 70% of exploited flaws disclosed in 2023 were zero-days](https://www.bleepingcomputer.com/news/security/google-70-percent-of-exploited-flaws-disclosed-in-2023-were-zero-days/)
+    * [![USDoD hacker behind National Public Data breach arrested in Brazil](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Critical Kubernetes Image Builder flaw gives SSH root access to VMs](https://www.bleepingcomputer.com/news/security/critical-kubernetes-image-builder-flaw-gives-ssh-root-access-to-vms/)
-    * [![Understand these seven password attacks and how to stop them](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        USDoD hacker behind National Public Data breach arrested in Brazil](https://www.bleepingcomputer.com/news/security/usdod-hacker-behind-national-public-data-breach-arrested-in-brazil/)
+    * [![SolarWinds Web Help Desk flaw is now exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Understand these seven password attacks and how to stop them](https://www.bleepingcomputer.com/news/security/understand-these-seven-password-attacks-and-how-to-stop-them/)
+        SolarWinds Web Help Desk flaw is now exploited in attacks](https://www.bleepingcomputer.com/news/security/solarwinds-web-help-desk-flaw-is-now-exploited-in-attacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
