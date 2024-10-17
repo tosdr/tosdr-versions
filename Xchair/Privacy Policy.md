@@ -381,7 +381,7 @@ While we use encryption to protect sensitive information transmitted online, we 
 * [About Us](https://www.xchair.com/pages/about-us)
 * [Contact Us](https://www.xchair.com/pages/contact)
 * [Call Us: 844-492-4247](https://www.xchair.com/pages/contact)
-* [Careers](https://careers.exemplis.com/Exemplis/search/.html)
+* [Careers](https://www.exemplis.com/careers.html)
 * [Corporate Sales](https://www.xchair.com/pages/bulksales)
 
 Copyright © 2024 X-Chair. All Rights Reserved.
