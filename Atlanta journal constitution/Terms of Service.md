@@ -1,8 +1,8 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Early voting in Georgia 2024: See how many ballots have been cast so far](https://www.ajc.com/politics/election/early-voting-totals-in-georgia-2024-see-how-many-have-already-voted-in-person-or-by-mail/GT5ULCXA6NF5RNMR3UERT76IM4/)
+[Breaking: Georgia school shooting suspect, father indicted by Barrow County grand jury](https://www.ajc.com/news/crime/georgia-school-shooting-suspect-father-indicted-by-barrow-county-grand-jury/KIPBFKDPHBD2POTTRYRLOJFUTQ/)
 
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1745)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1745)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
 Log In
 
@@ -18,14 +18,14 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/soupgood-listeriabad/ZM7WNHX6SJDMTGUEHPXUK3R5WY/)
+* [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-oct-18-20/FXI4LNKK2BHDNOB7MCUVCV5CDA/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1745)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1752)
 
 * Quick Links
     
@@ -150,7 +150,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1745)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1752)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
