@@ -170,9 +170,9 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eev/forschung/lidx/1/ "To
 
 * [RDM Network](https://www.rwth-aachen.de/cms/root/forschung/Forschungsdatenmanagement/~revpm/FDM-Netzwerk/lidx/1/ "Research > Research Data Management > RDM Network")
 * [News](https://www.rwth-aachen.de/cms/root/forschung/Forschungsdatenmanagement/~vfgd/Blog/lidx/1/ "Research > Research Data Management > News")
-* [Events](https://www.rwth-aachen.de/cms/root/forschung/Forschungsdatenmanagement/~zlfjb/Veranstaltungen/lidx/1/ "Research > Research Data Management > Events")
-* [NRW Research Data Day 2023](https://www.rwth-aachen.de/cms/root/forschung/Forschungsdatenmanagement/~bdrhpj/Tag-der-Forschungsdaten-in-NRW/lidx/1/ "Research > Research Data Management > NRW Research Data Day 2023")
+* [Research Data Management Events](https://www.rwth-aachen.de/cms/root/forschung/Forschungsdatenmanagement/~bkdvby/FDM-Veranstaltungen/lidx/1/ "Research > Research Data Management > Research Data Management Events")
 * [RWTH Aachen Research Data Management Guidelines](https://www.rwth-aachen.de/cms/root/forschung/Forschungsdatenmanagement/~ncfw/Leitlinie-zum-Forschungsdatenmanagement/lidx/1/ "Research > Research Data Management > RWTH Aachen Research Data Management Guidelines")
+* [National Research Data Infrastructure – NFDI](https://www.rwth-aachen.de/cms/root/forschung/Forschungsdatenmanagement/~hdlbr/Nationale-Forschungsdaten-shy-infrastruk/lidx/1/ "Research > Research Data Management > National Research Data Infrastructure – NFDI")
 * [More ...](https://www.rwth-aachen.de/cms/root/forschung/~lnaw/Forschungsdatenmanagement/lidx/1/ "Research > Research Data Management > More ...")
 
 [Close](#)
