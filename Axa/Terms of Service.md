@@ -549,12 +549,6 @@ Submit Search Close Search
 1. [Home page](https://www.axa.co.uk/)
 2. [Terms and Conditions](https://www.axa.co.uk/terms-and-conditions/)
 
-![](/globalassets/new-website/icons/info-tosca-48dp.svg)
-
-We’re working hard to help everyone, but we’re experiencing extremely high **Home Insurance** call volumes right now.
-
-Instead of joining the queue, why not [log in to your online account](https://customer.axa.co.uk/login/my-axa-account/) to [make a change to your policy](https://help.axa.co.uk/s/article/Making-Changes-or-quotes-for-changes-AXA-Home), [make a claim](https://www.axa.co.uk/home-insurance/make-a-claim/), or send us a message? 
-
 Terms and Conditions
 ====================
 
