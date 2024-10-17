@@ -58,7 +58,7 @@
         
     
 * [Member Login](https://app.omadahealth.com/login)
-* [Am I eligible?](https://go.omadahealth.com/?check-coverage=)
+* [Am I eligible?](https://go.omadahealth.com/?mt_gcc=b2b_www&check-coverage)
 * Search
 
 [![Omada Health logo](https://www.omadahealth.com/hs-fs/hubfs/omada_logo_horizontal.png?width=113&height=27&name=omada_logo_horizontal.png "Omada Health logo")](https://www.omadahealth.com/)
@@ -70,7 +70,7 @@
   
 Health programs built just for you. Check your eligibility today!
 
-[Am I eligible? ![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_white-arrow.svg)](https://go.omadahealth.com/?check-coverage=)   
+[Am I eligible? ![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_white-arrow.svg)](https://go.omadahealth.com/?mt_gcc=b2b_www&check-coverage)   
 
  [![](https://www.omadahealth.com/hubfs/2024%20Assets/Member%20Login%20Icon-green.svg) Member Login](https://app.omadahealth.com/login)
 
@@ -134,7 +134,7 @@ Quality virtual care that is personal, connected, & sustainable.](#)[Contact Sal
         
     
 * [Member Login](https://app.omadahealth.com/login)
-* [Am I eligible?](https://go.omadahealth.com/?check-coverage=)
+* [Am I eligible?](https://go.omadahealth.com/?mt_gcc=b2b_www&check-coverage)
 * Search
 
  [![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_back-arrow.svg) Main Menu](#)
