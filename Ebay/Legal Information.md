@@ -1,4 +1,4 @@
-841643727091d0c11fa9-fc87-42a1-8417-2c7d44acb3c8:1929ab6856719997
+841685931178abe8f04d-82ce-4d60-99c1-e9a0533f8625:1929bff02bf19997
 
 [Skip to main content](#mainContent)
 
@@ -30,8 +30,8 @@
     * [Purchase History](https://www.ebay.com/mye/myebay/purchase)
     * [Buy Again](https://www.ebay.com/mye/buyagain)
     * [Selling](https://www.ebay.com/mys/home?CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX&source=GBH)
-    * [Saved Searches](https://www.ebay.com/myb/SavedSearches)
-    * [Saved Sellers](https://www.ebay.com/myb/SavedSellers)
+    * [Saved Searches](https://www.ebay.com/mye/myebay/savedsearches)
+    * [Saved Sellers](https://www.ebay.com/mye/myebay/savedsellers)
     * [My Garage](https://www.ebay.com/g/mygarage)
     * [Sizes](https://www.ebay.com/mysize/hub)
     * [My Collection](https://www.ebay.com/collection/hub)
