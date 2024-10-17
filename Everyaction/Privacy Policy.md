@@ -490,6 +490,22 @@ Powering CorporationsEducational institutionsEnergyFinancial institutionsFoundat
 
 who power Animal welfareArts & cultureDisaster reliefDiversity, equity, inclusion & belonging (DEIB)EducationEnvironmental changeFaith-basedHealthcareHuman servicesSocial justiceVolunteerismWorkplace developmentsocial impact
 
+![3 puffins on a rock](/sites/default/files/styles/carousel_square_450x450_/public/2024-10/audubon-lead-image.png.webp?itok=CJSHpopt)
+
+**National Audubon Society**
+
+See how the National Audubon Society increased their number of monthly donors by 800% with support from Bonterra Development.
+
+[Read their story onNational Audubon Society](https://www.everyaction.com/case-studies/national-audubon-society)
+
+Impact Powered by:
+
+* Donor Engagement
+* Animal welfare
+* Nonprofits
+* Digital communications & marketing
+* Fundraising ideas
+
 ![Workers at Habitat for Humanity worksite](/sites/default/files/styles/carousel_square_450x450_/public/2024-10/habitat-for-humanity-of-omaha_background-photo.png.webp?itok=rxhpsdOA)
 
 **Habitat for Humanity of Omaha**
@@ -549,22 +565,6 @@ Learn how Wilmington Alliance utilized technology to address inequity within its
 Impact Powered by:
 
 * Case Management
-
-![Catholic Social Services workers stand together with arms over each other's shoulders](/sites/default/files/styles/carousel_square_450x450_/public/2024-08/catholic-social-services-of-ak_header-photo_0.png.webp?itok=9goOnu_F)
-
-**Powering stronger outcomes for vulnerable populations**
-
-Catholic Social Services of Anchorage, Alaska, knows robust data and powers stronger outcomes for vulnerable populations.
-
-[Read their story onPowering stronger outcomes for vulnerable populations](https://www.everyaction.com/case-studies/catholic-social-services-ak)
-
-Impact Powered by:
-
-* Case Management
-* Human services
-* Nonprofits
-* Public agencies
-* Coordinating social services
 
 Previous Next
 
