@@ -1,8 +1,8 @@
 □
 
-              Privacy Policy - VORO MOTORS                      
+                  
 
-         
+Privacy Policy - VORO MOTORS                              
 
 [Skip to main content](#skip-main)
 
@@ -20,6 +20,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
     * [EMOVE Electric Scooters](https://www.voromotors.com/collections/emove-electric-scooters)
         * [Cruiser V2(New!)](https://www.voromotors.com/products/emove-cruiser-v2)
         * [Cruiser S](https://www.voromotors.com/products/emove-cruiser)
+        * [Touring](https://www.voromotors.com/products/emove-touring)
         * [Roadster(New!)](https://www.voromotors.com/products/roadster)
         * [RoadRunner SE(New!)](https://www.voromotors.com/products/emove-roadrunner-se-light-weight-entry-level-seated-electric-scooter)
         * [RoadRunner V2](https://www.voromotors.com/products/emove-roadrunner)
@@ -47,6 +48,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
 * [Electric Bikes](https://www.voromotors.com/collections/electric-dirt-bike-for-adults)
     * [E Ride Pro](https://www.voromotors.com/collections/e-ride-electric-bikes)
         * [E Ride Pro-SS 19"(Price Reduced!)](https://www.voromotors.com/products/e-ride-pro-ss-19)
+        * [E Ride Pro-SR(New!)](https://www.voromotors.com/products/e-ride-pro-sr-25kw-power-e-dirt-bike)
     * [Altis(New!)](https://www.voromotors.com/collections/altis-ebikes)
         * [Altis Sigma(New!)](https://www.voromotors.com/products/altis-sigma-best-electric-dirt-bike-98v-35ah-e-dirt-bike)
 * [Accessories](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
@@ -202,6 +204,7 @@ Continue Shopping
 
 * [Cruiser V2(New!)](https://www.voromotors.com/products/emove-cruiser-v2)
 * [Cruiser S](https://www.voromotors.com/products/emove-cruiser)
+* [Touring](https://www.voromotors.com/products/emove-touring)
 * [Roadster(New!)](https://www.voromotors.com/products/roadster)
 * [RoadRunner SE(New!)](https://www.voromotors.com/products/emove-roadrunner-se-light-weight-entry-level-seated-electric-scooter)
 * [RoadRunner V2](https://www.voromotors.com/products/emove-roadrunner)
@@ -238,6 +241,7 @@ Continue Shopping
 * [E Ride Pro](https://www.voromotors.com/collections/e-ride-electric-bikes)
 
 * [E Ride Pro-SS 19"(Price Reduced!)](https://www.voromotors.com/products/e-ride-pro-ss-19)
+* [E Ride Pro-SR(New!)](https://www.voromotors.com/products/e-ride-pro-sr-25kw-power-e-dirt-bike)
 
 * [Altis(New!)](https://www.voromotors.com/collections/altis-ebikes)
 
