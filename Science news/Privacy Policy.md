@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Plants](https://www.sciencenews.org/topic/plants)
+    * * [Life](https://www.sciencenews.org/topic/life)
+            
+            ### [Here are some stellar picks from Nikon’s top microscopy images of 2024](https://www.sciencenews.org/article/2024-nikon-small-world-photography)
+            
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")1 hour ago
+            
+        * [Plants](https://www.sciencenews.org/topic/plants)
             
             ### [Carnivorous plants eat faster with a fungal friend](https://www.sciencenews.org/article/carnivorous-plant-sundew-fungus-digest)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")20 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")October 16, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [At-home experiments shed light on cats’ liquid behavior](https://www.sciencenews.org/article/home-experiments-cats-liquid-behavior)
             
             By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 15, 2024
-            
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
-            
-            ### [Your brain can perceive subtle odor changes in a single sniff](https://www.sciencenews.org/article/brain-odor-changes-milliseconds)
-            
-            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")October 14, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The cataclysmic origins of most of Earth’s meteorites have been found](https://www.sciencenews.org/article/origins-earths-meteorites-found)
             
-            By [Robin George Andrews](https://www.sciencenews.org/author/robin-george-andrews "Posts by Robin George Andrews")18 hours ago
+            By [Robin George Andrews](https://www.sciencenews.org/author/robin-george-andrews "Posts by Robin George Andrews")October 16, 2024
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
