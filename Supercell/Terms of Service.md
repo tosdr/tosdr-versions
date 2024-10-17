@@ -249,6 +249,8 @@ You and Supercell agree that we can only bring claims against each other on an i
 * The arbitrator’s decision or award in your case will not apply to anyone else and cannot be used to decide other people’s disputes.
     
 
+To increase the efficiency of administration and resolution of arbitrations, you and Supercell agree that in the event that there are twenty five (25) or more individual demands for arbitration of a substantially similar nature filed against Supercell by or with the assistance of the same law firm, group of law firms, or organizations or representation is consistent or coordinated across the cases, all such demands for arbitration are processed in accordance with AAA´s Mass Arbitration Supplementary Rules for consumer mass arbitration. The cases will be heard on the documents, rather than by in-person, telephone, or video conference hearings. Multiple cases can be assigned to one arbitrator. The arbitration will be based on the submission of documents and there shall be no in-person or oral hearing. This mass arbitration provision shall in no way be interpreted as authorizing a class or collective action of any kind, except as expressly set forth in this provision.
+
 If this section (Section 8.5 “No Class Actions”) is found to be unenforceable or invalid, then the entirety of Section 8, including Sections 8.1 to 8.6, shall be void.
 
 #### 8.6 Opt-Out of Arbitration Agreement and No Class Actions Provisions
