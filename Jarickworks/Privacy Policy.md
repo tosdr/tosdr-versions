@@ -217,10 +217,10 @@ Ethereum
 
 [](https://jarick.works/eidolon/)
 
-[![](https://jarick.works/wp-content/uploads/beagle/svg/multimedia/music-1.svg)](https://jarick.works/beagle/multimedia/music/)
+[![](https://jarick.works/wp-content/uploads/beagle/svg/communication/messages-1.svg)](https://jarick.works/beagle/communication/messages/)
+
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/009.svg)](https://jarick.works/anaarkei/free-association/)
+
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/022.svg)](https://jarick.works/anaarkei/stay-positive/)
 
 [![](https://jarick.works/wp-content/uploads/anaarkei/svg/021.svg)](https://jarick.works/anaarkei/ricky-gervais-on-offence/)
-
-[![](https://jarick.works/wp-content/uploads/beagle/svg/productivity/notes-1.svg)](https://jarick.works/beagle/productivity/notes/)
-
-[![](https://jarick.works/wp-content/uploads/beagle/svg/productivity/voice-memos-1.svg)](https://jarick.works/beagle/productivity/voice-memos/)
