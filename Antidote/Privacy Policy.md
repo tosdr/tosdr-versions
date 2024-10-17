@@ -1,9 +1,10 @@
-[Antidote](https://www.antidote.info/en)
+[Antidote ![](/user/themes/antidote/images/logo-antidote-bleu.png)](https://www.antidote.info/en) 
 
 * Applications
     
 * [Antidote**+**](https://www.antidote.info/en/antidote-plus)
 * [Organizations](https://www.antidote.info/en/organizations)
+* [Integrations](https://www.antidote.info/en/integrations)
 
 * [Store](https://www.antidote.info/en/store)
 * [Blog](https://www.antidote.info/en/blog)
@@ -17,7 +18,7 @@
 Privacy Policy for Antidote’s Sites and Applications
 ====================================================
 
-* [Antidote **11**](https://www.antidote.info/en/antidote-11)
+* [Antidote **12**](https://www.antidote.info/en/antidote-12)
 * [Antidote **Web**](https://www.antidote.info/en/antidote-web)
 * [Antidote **Mobile**](https://www.antidote.info/en/antidote-mobile)
 
@@ -27,15 +28,15 @@ Privacy Policy for Antidote’s Sites and Applications
 * [Antidote Web](https://www.antidote.info/r/services.druide.com/connexion/externe?app=aw&langueDefaut=en)
 * [Client Portal](https://www.antidote.info/r/services.druide.com?contexte=code_antidote&langueDefaut=en)
 
-##### Last update: January 8, 2024
+##### Last update: October 16, 2024
 
 1\. Introduction
 ----------------
 
 This privacy policy is meant for those who use one of the Antidote Applications or one of the Websites, as these expressions are defined below:
 
-* Antidote 11 and prior editions for installation on a computer, Antidote Web for access through a browser on antidote.app, as well as Antidote Mobile for iPhone and iPad (the “**Applications**”);
-* the websites [www.antidote.info](https://www.antidote.info/en) and [www.druide.com](https://www.druide.com/en) as well as the services which they allow you to access, such as your Client Portal from [services.druide.com](https://www.antidote.info/en/r/services.druide.com?langue=en) and the Help Center from [assistance.druide.com](https://assistance.druide.com/?langue=en) (the “**Websites**”).
+* Antidote 12 and prior editions for installation on a computer, Antidote Web for access through a browser on antidote.app, as well as Antidote Mobile for iPhone and iPad (the “**Applications**”);
+* the websites [www.antidote.info](https://www.antidote.info/en/en) and [www.druide.com](https://www.druide.com/en) as well as the services which they allow you to access, such as your Client Portal from [services.druide.com](https://www.antidote.info/en/r/services.druide.com?langue=en) and the Help Center from [assistance.druide.com](https://assistance.druide.com/?langue=en) (the “**Websites**”).
 
 This document uses clear and simple terms to describe the practices and procedures adopted by our company, Druide informatique inc. (“**Druide**”), to protect your personal information.
 
@@ -66,9 +67,9 @@ This document uses clear and simple terms to describe the practices and procedur
 
 **_Username and password_** — The primary user also chooses a username and password when creating the account. Users under 16 years of age cannot change their username or password; only the primary user can make these changes.
 
-#### 2.1.4 Personal Dictionaries, Word Lists and Favourites Lists
+#### 2.1.4 Customizations
 
-When using one of the Applications, it is possible to add a word that is not recognized by Antidote to a personal dictionary, to create personalized word lists or to create lists of favourites for quick access to dictionary entries or guide articles. The interface of the Applications allows you to edit or remove entries added to one of these lists. You can export this content in a structured, commonly used, machine-readable and interoperable format. If your subscription grants you the right to use the Applications on more than one device, a service allows you to synchronize this data across all your devices.
+When using one of the Applications, it is possible to add a word that is not recognized by Antidote to a personal dictionary, to add a custom rule for a word or a string, to create your own settings or to create lists of favourites for quick access to dictionary entries or guide articles. The Applications’ interfaces allow you to edit or remove customizations. You can export this content in a structured, commonly used, machine-readable and interoperable format. If your subscription grants you the right to use the Applications on more than one device, a service allows you to synchronize this data across all your devices.
 
 #### 2.1.5. Communication
 
@@ -86,9 +87,17 @@ As a provider of web-based services, Druide automatically collects certain infor
 
 #### 2.2.2 Anonymized Data
 
-For the sole purpose of improving the performance of its analyzers, we store an anonymized version of texts submitted to Antidote Web’s corrector. In the anonymized texts, the following elements are replaced with completely different words: the names of any natural or legal persons, place names, demonyms, dates and times, numbers, addresses, postal codes, telephone numbers, email addresses, URLs, brand names, acronyms, etc. The original text submitted to Antidote Web will be destroyed in the 24 hours following its correction and no link will be saved between an anonymized text and the person who submitted it.
+For the sole purpose of improving the performance of Antidote’s analyzers, we might store an anonymized version of texts submitted to its corrector. In the anonymized texts, the following elements are replaced with completely different words: the names of any natural or legal persons, place names, demonyms, dates and times, numbers, addresses, postal codes, telephone numbers, email addresses, URLs, brand names, acronyms, etc. Following the anonymization, the original text will be destroyed and no link will be saved between an anonymized text and the person who submitted it. Consequently, the anonymized data no longer allows for the direct or indirect identification of a particular person. This process cannot be reversed.
 
-Following this process, and after the destruction of the original text, the anonymized data no longer allows for the direct or indirect identification of a particular person. This process cannot be reversed.
+As the processing of texts submitted to the corrector varies depending on the application used and the agreement governing its use, we present below a summary of the different scenarios.
+
+**_Antidote 12 and its previous editions under perpetual license (single-user or multi-user)_** — Texts submitted to the corrector are only processed locally. They are never transmitted to our servers.
+
+**_Antidote 12 with an Antidote+ subscription_** — Texts submitted to the corrector also remain on the computer where the application is installed, unless you use the Reformulation mode. To be reformulated, texts are transmitted via the Internet to our servers. Reformulated texts are neither stored nor used to train artificial intelligence models.
+
+**_Antidote Web with an Antidote+ subscription_** — Texts submitted to the corrector are kept in their original form for 8 hours to provide the user access to recent texts. After this period, the submitted texts are destroyed unless the user consents to their anonymization and subsequent retention for training artificial intelligence models.
+
+**_Antidote Web with an organizational subscription_** — Texts submitted to the corrector are destroyed as soon as the correction is completed. Therefore, they cannot be used to train artificial intelligence models.
 
 #### 2.2.3. Single Sign-On
 
@@ -199,7 +208,7 @@ We may disclose personal information in good faith in the following circumstance
 
 ### 5.3. In Case of Failure
 
-We strive to protect our users against unauthorized use, disclosure, or access to their personal information. Although we adhere to the best industry standards, we cannot claim that our security system is 100% immune to failure. In the event that we discover a security breach affecting our users’ accounts, we will send an email within 24 hours to all users (over 16 years of age).
+We strive to protect our users against unauthorized use, disclosure, or access to their personal information. Although we adhere to the best industry standards, we cannot claim that our security system is 100% immune to failure. If we identify a privacy incident affecting user accounts and determine that there is a risk of serious harm, we will contact the affected users by email within 24 hours. As we do not have the email addresses of invited users under 16 years of age, the parent or legal guardian who subscribed to the family plan will be contacted instead.
 
 6\. About This Privacy Policy
 -----------------------------
@@ -228,10 +237,12 @@ If you are not satisfied with the way in which we use your personal information,
 
 ### Table of contents
 
+**An error has occurred.** Please try again later.
+
 ##### Antidote
 
 * [Antidote**+**](https://www.antidote.info/en/antidote-plus)
-* [Antidote **11**](https://www.antidote.info/en/antidote-11)
+* [Antidote **12**](https://www.antidote.info/en/antidote-12)
 * [Antidote **Web**](https://www.antidote.info/en/antidote-web)
 * [Antidote **Mobile**](https://www.antidote.info/en/antidote-mobile)
 * [Organizations](https://www.antidote.info/en/organizations)
@@ -239,8 +250,8 @@ If you are not satisfied with the way in which we use your personal information,
 
 ##### Support
 
-* [Documentation](https://www.antidote.info/en/help-centre/documentation)
-* [FAQ](https://www.antidote.info/en/help-centre/faq)
+* [Help Desk](https://www.antidote.info/en/help-centre)
+* [Troubleshooting](https://www.antidote.info/en/help-centre/troubleshooting)
 * [Updates](https://www.antidote.info/en/help-centre/updates)
 * [Request](https://www.antidote.info/en/help-centre/requete)
 * [Contact](https://www.antidote.info/en/contact)
