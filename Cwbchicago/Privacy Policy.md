@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Left-to-right-Terrell-Gordon-material-allegedly-seized-from-Stanley-Rounds-and-Rounds-326x245.jpg)](https://cwbchicago.com/2024/10/2-more-charged-with-sneaking-drugs-into-cook-county-jail-as-in-custody-deaths-plunge.html "2 more charged with sneaking drugs into Cook County jail as in-custody deaths plunge")
+
+Citywide
+
+### [2 more charged with sneaking drugs into Cook County jail as in-custody deaths plunge](https://cwbchicago.com/2024/10/2-more-charged-with-sneaking-drugs-into-cook-county-jail-as-in-custody-deaths-plunge.html "2 more charged with sneaking drugs into Cook County jail as in-custody deaths plunge")
+
+[October 15, 2024 7:34 AM](https://cwbchicago.com/2024/10)
+
+The Cook County Sheriff’s Office has announced charges against two more inmates who allegedly arranged to bring drugs into the county jail. At least 44 people, both inmates and visitors, have been charged with having drugs or bringing drugs into the facility this year.[](https://cwbchicago.com/2024/10/2-more-charged-with-sneaking-drugs-into-cook-county-jail-as-in-custody-deaths-plunge.html "2 more charged with sneaking drugs into Cook County jail as in-custody deaths plunge")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/4148-w-26th-326x245.jpg)](https://cwbchicago.com/2024/10/man-dead-woman-injured-in-little-village-restaurant-shooting.html "Man dead, woman injured in Little Village restaurant shooting")
 
 Little Village
@@ -262,16 +272,6 @@ O'Hare
 [October 14, 2024 9:55 AM](https://cwbchicago.com/2024/10)
 
 A British woman allegedly caught carrying more than 90 pounds of cocaine in her luggage at O’Hare International Airport is “stupid,” but she’s not a drug smuggler, according to her father.[](https://cwbchicago.com/2024/10/british-woman-busted-with-90-pounds-of-cocaine-at-ohare-is-stupid-but-not-a-drug-smuggler-father-says.html "British woman busted with 90 pounds of cocaine at O’Hare is ‘stupid’ but not a drug smuggler, father says")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/01/Canada-Goose-800-north-michigan-326x245.jpg)](https://cwbchicago.com/2024/10/smash-and-grab-crew-hits-canada-goose-on-the-mag-mile.html "Smash-and-grab crew hits Canada Goose on the Mag Mile")
-
-Magnificent Mile
-
-### [Smash-and-grab crew hits Canada Goose on the Mag Mile](https://cwbchicago.com/2024/10/smash-and-grab-crew-hits-canada-goose-on-the-mag-mile.html "Smash-and-grab crew hits Canada Goose on the Mag Mile")
-
-[October 14, 2024 7:36 AM](https://cwbchicago.com/2024/10)
-
-In a definite sign that winter is on the way, a crash-and-grab burglary crew broke into the Canada Goose store on the Magnificent Mile overnight.[](https://cwbchicago.com/2024/10/smash-and-grab-crew-hits-canada-goose-on-the-mag-mile.html "Smash-and-grab crew hits Canada Goose on the Mag Mile")
 
 Search
 
