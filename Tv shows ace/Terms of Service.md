@@ -16,7 +16,9 @@ Your Latest in TV Show News
 
 Search
 
-[![TV Shows Ace](https://tvshowsace.com/wp-content/uploads/2021/06/tvsa-logo-web.png)](https://tvshowsace.com/)
+[![TV Shows Ace](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![TV Shows Ace](https://tvshowsace.com/wp-content/uploads/2021/06/tvsa-logo-web.png)](https://tvshowsace.com/)
 
 Toggle Menu
 
@@ -44,7 +46,7 @@ Pick a Show Select Category 1000-Lb. Best Friends 1000-Lb. Sisters 7 Little John
 * [Disclaimer](https://tvshowsace.com/disclaimer/)
 * [Contact Us](https://tvshowsace.com/contact-us/)
 
-[![Cartoon of a little red television with playing cards in it - all aces](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+[![Cartoon of a little red television with playing cards in it - all aces](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![Cartoon of a little red television with playing cards in it - all aces](https://tvshowsace.com/wp-content/uploads/2023/05/tvsmol-150x150.png)](https://tvshowsace.com/)
 
