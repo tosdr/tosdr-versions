@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch GT 4 health features](https://www.huaweicentral.com/wp-content/uploads/2024/10/Health-Features-400x240.jpg)
+        
+        Huawei Watch GT 4 is receiving advanced health features](https://www.huaweicentral.com/huawei-watch-gt-4-is-receiving-advanced-health-features/)
     * [![Luxshare Huawei smartwatch production](https://www.huaweicentral.com/wp-content/uploads/2024/10/Wearable-400x240.jpg)
         
         Luxshare to reportedly increase Huawei smartwatch production](https://www.huaweicentral.com/luxshare-to-reportedly-increase-huawei-smartwatch-production/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch GT 5 Pro sale](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-Gt-5-Pro-1-400x240.jpg)
         
         Huawei Watch GT 5 Pro wearable begins first sale](https://www.huaweicentral.com/huawei-watch-gt-5-pro-wearable-begins-first-sale/)
-    * [![Huawei Watch GT 5 faces](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-2-400x240.jpg)
-        
-        Huawei Watch GT 5 series brings innovative customizable watch faces](https://www.huaweicentral.com/huawei-watch-gt-5-series-brings-innovative-customizable-watch-faces/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
