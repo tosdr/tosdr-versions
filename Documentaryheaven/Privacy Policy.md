@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![ROG – The Ronan O’Gara Documentary](/wp-content/thumbnails/12902-100x70.jpg?x53432)
+* [![My Brilliant Brain: Make Me A Genius](/wp-content/thumbnails/229-100x70.png?x53432)
     
-    ROG – The Ronan O’Gara Documentary
+    My Brilliant Brain: Make Me A Genius
     
-    Ronan O'Gara is a former Irish rugby union player, who played fly-half for both Ireland and Munster. Throughout his career he managed to collect 128 caps, making him Irelands second most-capped player](https://documentaryheaven.com/rog-ronan-ogara-documentary/ "ROG – The Ronan O’Gara Documentary")
-* [![North Korean Super Spy](/wp-content/thumbnails/7059-100x70.jpg?x53432)
+    Susan Polgar is the world's first female chess grandmaster. But she wasn't born with her brilliant brain - it was created by the unique experiment that dominated her childhood. From the age of four he](https://documentaryheaven.com/my-brilliant-brain-make-me-a-genius/ "My Brilliant Brain: Make Me A Genius")
+* [![Rebounds](/wp-content/thumbnails/6793-100x70.jpg?x53432)
     
-    North Korean Super Spy
+    Rebounds
     
-    As the Korean peninsula teeters on the brink of war, North Korea’s former top female spy reveals details behind the rogue state’s most deadly terrorist attack.Kim Hyon Hui is the femme fatale behi](https://documentaryheaven.com/north-korean-super-spy/ "North Korean Super Spy")
-* [![Hard Time: Worst of the Worst](/wp-content/thumbnails/6550-100x70.jpg?x53432)
+    Thousands of American basketball players that don't make it into the NBA, go around the world looking for a chance to play. Some of them go to Europe, Asia or any place in the world where basketball i](https://documentaryheaven.com/rebounds/ "Rebounds")
+* [![Burke and Hare: Serial Killing for Science](/wp-content/thumbnails/12718-100x70.jpg?x53432)
     
-    Hard Time: Worst of the Worst
+    Burke and Hare: Serial Killing for Science
     
-    Welcome to the worst of the worst. Do a crime and get caught: you go to jail. Behave poorly in jail and you go to solitary confinement. But what if you don’t clean up your act? There’s another step –](https://documentaryheaven.com/hard-time-worst-of-the-worst/ "Hard Time: Worst of the Worst")
-* [![Children of Beslan](/wp-content/thumbnails/4917-100x70.jpg?x53432)
+    Back in 1828 in Edinburgh, Scotland, there were a number of murders committed over a period of about ten months. 16 people were killed in total and this spree would later become known as the Burke and](https://documentaryheaven.com/burke-hare-serial-killing-for-science/ "Burke and Hare: Serial Killing for Science")
+* [![Dr. Dre: Another Beat](/wp-content/thumbnails/14300-100x70.jpg?x53432)
     
-    Children of Beslan
+    Dr. Dre: Another Beat
     
-    In Russia, Sept. 1 is the Day of Knowledge, a joyous annual event marking the start of the new school year. But Knowledge Day 2004 was different at School No. 1 in Beslan: A group of heavily armed reb](https://documentaryheaven.com/children-of-beslan/ "Children of Beslan")
-* [![The Prime Minister and the Press](/wp-content/thumbnails/1846-100x70.jpg?x53432)
+    No other artist in the world of hip hop has constructed a successful and solid reputation as Dr. Dre, renowned for being one of the founding fathers of gangster rap he has been revered for bringing in](https://documentaryheaven.com/dr-dre-another-beat/ "Dr. Dre: Another Beat")
+* [![Modern Marvels – Water](/wp-content/thumbnails/3767)
     
-    The Prime Minister and the Press
+    Modern Marvels – Water
     
-    Media watchdog Reporters Without Borders recently ranked Italy at the bottom of the list for countries in the European Union on its press freedom index. Prime Minister Silvio Berlusconi is not only I](https://documentaryheaven.com/the-prime-minister-and-the-press/ "The Prime Minister and the Press")
+    Turn the tap on a surprisingly rich hour exploring the many mysteries of H2O.\* For over a decade, MODERN MARVELS has brought grand stories to life. \* The ultimate celebration and investigation of en](https://documentaryheaven.com/modern-marvels-water/ "Modern Marvels – Water")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
