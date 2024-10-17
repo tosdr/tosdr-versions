@@ -36,18 +36,18 @@
         
         Iranian hackers act as brokers selling critical infrastructure access](https://www.bleepingcomputer.com/news/security/iranian-hackers-act-as-brokers-selling-critical-infrastructure-access/)
     
-    * [![Get this lifetime ad blocker deal for safer browsing on nine devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![FBI arrest Alabama man suspected of hacking SEC's X account](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Get this lifetime ad blocker deal for safer browsing on nine devices](https://www.bleepingcomputer.com/offer/deals/get-this-lifetime-ad-blocker-deal-for-safer-browsing-on-nine-devices/)
-    * [![Iranian hackers act as brokers selling critical infrastructure access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        FBI arrest Alabama man suspected of hacking SEC's X account](https://www.bleepingcomputer.com/news/security/fbi-arrest-alabama-man-suspected-of-hacking-secs-x-account/)
+    * [![Ditch subscriptions and get a Office 2021 standalone license in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Iranian hackers act as brokers selling critical infrastructure access](https://www.bleepingcomputer.com/news/security/iranian-hackers-act-as-brokers-selling-critical-infrastructure-access/)
-    * [![Google: 70% of exploited flaws disclosed in 2023 were zero-days](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Ditch subscriptions and get a Office 2021 standalone license in this deal](https://www.bleepingcomputer.com/offer/deals/ditch-subscriptions-and-get-a-office-2021-standalone-license-in-this-deal/)
+    * [![Undercover North Korean IT workers now steal data, extort employers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Google: 70% of exploited flaws disclosed in 2023 were zero-days](https://www.bleepingcomputer.com/news/security/google-70-percent-of-exploited-flaws-disclosed-in-2023-were-zero-days/)
-    * [![USDoD hacker behind National Public Data breach arrested in Brazil](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Undercover North Korean IT workers now steal data, extort employers](https://www.bleepingcomputer.com/news/security/undercover-north-korean-it-workers-now-steal-data-extort-employers/)
+    * [![BianLian ransomware claims attack on Boston Children's Health Physicians](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        USDoD hacker behind National Public Data breach arrested in Brazil](https://www.bleepingcomputer.com/news/security/usdod-hacker-behind-national-public-data-breach-arrested-in-brazil/)
+        BianLian ransomware claims attack on Boston Children's Health Physicians](https://www.bleepingcomputer.com/news/security/bianlian-ransomware-claims-attack-on-boston-childrens-health-physicians/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
