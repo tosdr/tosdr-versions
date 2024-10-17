@@ -97,6 +97,7 @@ Back
     * [Fitness](https://www.bose.com/explore/music-while-active)
     * [TV & Movies](https://www.bose.com/explore/tv-film)
     
+    * [Our 60th](https://www.bose.com/60th-anniversary-details)
     * [Collabs](https://www.bose.com/stories/collabs)
     * [Turn The Dial](https://www.bose.com/stories/turn-the-dial-initiative)
     * [Bose Stories](https://www.bose.com/stories)
