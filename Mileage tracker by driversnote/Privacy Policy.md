@@ -42,6 +42,8 @@ Help & Resources
 
 [Contact us](javascript:void(0);)
 
+[Gig Driver's Guide](https://www.driversnote.com/gig-driving-guide-us)
+
 [Small Business US Tax Guide](https://www.driversnote.com/small-business-tax-guide-us)
 
 [IRS Mileage Guide](https://www.driversnote.com/irs-mileage-guide)
