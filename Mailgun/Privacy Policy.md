@@ -15,7 +15,6 @@ This app works best with JavaScript enabled.
     * [Company](https://www.mailgun.com/about/company/)
     * [Partners](https://www.mailgun.com/about/partners/)
     * [Careers](https://www.mailgun.com/about/jobs/)
-    * [Events](https://www.sinch.com/insights/events/)
     
 * [Blog
     
@@ -865,7 +864,6 @@ Back to main menu
     * [Company](https://www.mailgun.com/about/company/)
     * [Partners](https://www.mailgun.com/about/partners/)
     * [Careers](https://www.mailgun.com/about/jobs/)
-    * [Events](https://www.sinch.com/insights/events/)
     
 * [Blog
     
@@ -1093,7 +1091,6 @@ Back to main menu
 * [Company](https://www.mailgun.com/about/company/)
 * [Partners](https://www.mailgun.com/about/partners/)
 * [Careers](https://www.mailgun.com/about/jobs/)
-* [Events](https://www.sinch.com/insights/events/)
 
 * [Contact Support](https://www.mailgun.com/contact/support/)
 * [Help Center](https://help.mailgun.com/hc/en-us)
