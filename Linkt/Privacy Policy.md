@@ -101,7 +101,9 @@ Travelling on toll roads](https://www.linkt.com.au/help/travelling-toll-roads/br
 
 Accounts and billing](https://www.linkt.com.au/help/accounts-billing/brisbane.html)[![Scams and fraud icon](/content/dam/mylo/images/header-footer/nav-icons/help-security.svg)
 
-Scams and fraud](https://www.linkt.com.au/help/security/brisbane.html)
+Scams and fraud](https://www.linkt.com.au/help/security/brisbane.html)[![Support services icon](/content/dam/mylo/images/header-footer/nav-icons/helping-hands.svg)
+
+Support services](https://www.linkt.com.au/help/support-services/brisbane.html)
 
  ![Go to help icon](/content/dam/mylo/images/header-footer/nav-icons/help-home.svg)[Go to help](https://www.linkt.com.au/help/brisbane.html)
 
