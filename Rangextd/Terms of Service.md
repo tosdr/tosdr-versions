@@ -216,7 +216,7 @@ Discover the hottest items flying off the shelves.
     
     ### [Laundry Masher Pineapple Scent Magic & Effortless Laundry](https://www.rangextd.com/products/laundry-masher-pineapple)
     
-    Out of stock
+    Next day delivery
     
     $110.99 $55.99
     
