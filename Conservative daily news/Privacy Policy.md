@@ -177,6 +177,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [NSSF Launches Resource Page For Vets About VA Health Care and Guns](https://www.thegunpage.com/nssf-launches-resource-page-for-vets-about-va-health-care-and-guns/10611254)
+* [Barrett Unveils Squad Support Rifle System (SSRS) at AUSA](https://www.thegunpage.com/barrett-unveils-squad-support-rifle-system-ssrs-at-ausa/10611253)
+* [Massachusetts Petition Drive Gaining Momentum](https://www.thegunpage.com/massachusetts-petition-drive-gaining-momentum/10611251)
 * [SIG SAUER Opens Jacksonville Arkansas Ammunition Center](https://www.thegunpage.com/sig-sauer-opens-jacksonville-arkansas-ammunition-center/10611247)
 * [H&K USA Unveils Its Inaugural Gun: The CC9](https://www.thegunpage.com/hk-usa-unveils-its-inaugural-gun-the-cc9/10611248)
 * [Gun-Ban Groups Spend Big and Sell Lies To Defeat Pro-Gun Candidates](https://www.thegunpage.com/gun-ban-groups-spend-big-and-sell-lies-to-defeat-pro-gun-candidates/10611245)
@@ -184,9 +187,6 @@ Recent Posts
 * [SCOTUS Sends Pennsylvania Young Adult Carry Back To 3rd Circuit](https://www.thegunpage.com/scotus-sends-pennsylvania-young-adult-carry-back-to-3rd-circuit/10611241)
 * [NEW H&K CC9 Review: Was the Wait Worth It?](https://www.thegunpage.com/new-hk-cc9-review-was-the-wait-worth-it/10611243)
 * [Michigan And Hawaii Launch Tip Lines To Encourage Anonymous Snitching On Gun Owners](https://www.thegunpage.com/michigan-and-hawaii-launch-tip-lines-to-encourage-anonymous-snitching-on-gun-owners/10611237)
-* [2024 Scholastic Clay Target Program National Championships](https://www.thegunpage.com/2024-scholastic-clay-target-program-national-championships/10611236)
-* [TFB Review: The HK USC Carbine](https://www.thegunpage.com/tfb-review-the-hk-usc-carbine/10611232)
-* [POTD: The TTS Xceed R – Integrated Silencing System](https://www.thegunpage.com/potd-the-tts-xceed-r-integrated-silencing-system/10611233)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [It’s the Economy, Stupid](https://www.conservativedailynews.com/2024/10/its-the-economy-stupid-2/#comment-782712)
 * Stan on [The Brat Energy Is Gone](https://www.conservativedailynews.com/2024/10/the-brat-energy-is-gone/#comment-782707)
 * charles wilkins on [Uncle Barack](https://www.conservativedailynews.com/2024/10/uncle-barack/#comment-782706)
 * William Wallace on [Tim Walz Let Slip What We Knew About The Left All Along](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/#comment-782701)
@@ -236,7 +237,6 @@ Recent Comments
 * charles wilkins on [Here’s How Much More Everyday Items Cost Than When You Voted Four Years Ago](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/#comment-782668)
 * Stanley Warner on [Democrat Policies are Killing Small Businesses](https://www.conservativedailynews.com/2024/10/democrat-policies-are-killing-small-businesses/#comment-782658)
 * charles wilkins on [Prominent Election Expert Suggests Pollsters ‘Have No Idea’ If They’re Accurately Measuring Trump Support](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/#comment-782655)
-* Catboss on [Trump Campaign Requests Military Aircraft, Bulletproof Glass Amid Security Threats](https://www.conservativedailynews.com/2024/10/trump-campaign-requests-military-aircraft-bulletproof-glass-amid-security-threats/#comment-782654)
 
 [Close](#)
 
