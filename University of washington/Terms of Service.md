@@ -1,12 +1,12 @@
 [Skip to content](#primary)
 
-Enter search text 
-
-All the UW Current site 
+All the UW Current site
 
 Search scope
 
 All the UW Current site
+
+Enter search text 
 
 * [MyUW](https://my.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=myuw)
 * [Calendar](https://uw.edu/calendar/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=calendar)
@@ -146,7 +146,7 @@ University of Washington Website Terms and Conditions of Use
 
 **April 26, 2011**
 
-[University of Washington](https://www.washington.edu/)[Be boundless](https://www.washington.edu/boundless/)
+[University of Washington](https://www.washington.edu/) [Be boundless](https://www.washington.edu/boundless/)
 
 Connect with us:
 
