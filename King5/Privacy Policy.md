@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/9366e8ae-5bcf-4706-a6a3-72dda3159229/20241017T020059/9366e8ae-5bcf-4706-a6a3-72dda3159229_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9366e8ae-5bcf-4706-a6a3-72dda3159229/20241017T020059/9366e8ae-5bcf-4706-a6a3-72dda3159229_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/city-of-tacoma-stopped-glass-recycling-at-least-for-now/281-10a4b6a0-f698-45f2-b1c6-d231ae46c987)
+    *  [![](https://media.king5.com/assets/KING/images/dbd15c82-7288-44a1-a7c4-d3a7190ae96e/20241016T051232/dbd15c82-7288-44a1-a7c4-d3a7190ae96e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dbd15c82-7288-44a1-a7c4-d3a7190ae96e/20241016T051232/dbd15c82-7288-44a1-a7c4-d3a7190ae96e_360x203.jpg)](https://www.king5.com/article/news/local/navy-aircraft-crashes-near-mount-rainier/281-e14b3068-e1ae-48db-ad68-0d034ee02cc0)
         
-        #### ['It's kind of disappointing': City of Tacoma has stopped its glass recycling, at least for now](https://www.king5.com/article/news/local/tacoma/city-of-tacoma-stopped-glass-recycling-at-least-for-now/281-10a4b6a0-f698-45f2-b1c6-d231ae46c987) [![](https://media.king5.com/assets/KING/images/9366e8ae-5bcf-4706-a6a3-72dda3159229/20241017T020059/9366e8ae-5bcf-4706-a6a3-72dda3159229_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9366e8ae-5bcf-4706-a6a3-72dda3159229/20241017T020059/9366e8ae-5bcf-4706-a6a3-72dda3159229_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/city-of-tacoma-stopped-glass-recycling-at-least-for-now/281-10a4b6a0-f698-45f2-b1c6-d231ae46c987)
+        #### [Navy aircraft crash site located east of Mount Rainier, condition of crew still unknown](https://www.king5.com/article/news/local/navy-aircraft-crashes-near-mount-rainier/281-e14b3068-e1ae-48db-ad68-0d034ee02cc0)
         
-        #### [City of Tacoma stops glass recycling because of low demand](https://www.king5.com/article/news/local/tacoma/city-of-tacoma-stopped-glass-recycling-at-least-for-now/281-10a4b6a0-f698-45f2-b1c6-d231ae46c987)
-    *  [![](https://media.king5.com/assets/KING/images/4831e2ca-73a8-4781-a072-abcf5e15bc69/20241017T013234/4831e2ca-73a8-4781-a072-abcf5e15bc69_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4831e2ca-73a8-4781-a072-abcf5e15bc69/20241017T013234/4831e2ca-73a8-4781-a072-abcf5e15bc69_360x203.jpg)](https://www.king5.com/article/news/crime/16-year-old-faces-judge-robberies-throughout-seattle-king-county/281-dee433f0-6103-4343-ab76-42e5014a22da)
+    *  [![](https://media.king5.com/assets/KING/images/deccc6a2-1a17-4610-9a1b-3b092c0ad91d/20241017T063754/deccc6a2-1a17-4610-9a1b-3b092c0ad91d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/deccc6a2-1a17-4610-9a1b-3b092c0ad91d/20241017T063754/deccc6a2-1a17-4610-9a1b-3b092c0ad91d_360x203.jpg)](https://www.king5.com/article/tech/self-driving-wheelchairs-alaska-air-tests-for-customers/281-9a5b25ff-61fa-4efb-a41c-610df6123588)
         
-        #### [16-year-old accused of dozens of violent robberies throughout King County faces judge](https://www.king5.com/article/news/crime/16-year-old-faces-judge-robberies-throughout-seattle-king-county/281-dee433f0-6103-4343-ab76-42e5014a22da)
+        #### [Customers share thoughts on self-driving wheelchairs provided by Alaska Air](https://www.king5.com/article/tech/self-driving-wheelchairs-alaska-air-tests-for-customers/281-9a5b25ff-61fa-4efb-a41c-610df6123588)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/fe87ea11-68d8-4ad7-8e4d-1e084c4f03c4/20241017T003431/fe87ea11-68d8-4ad7-8e4d-1e084c4f03c4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe87ea11-68d8-4ad7-8e4d-1e084c4f03c4/20241017T003431/fe87ea11-68d8-4ad7-8e4d-1e084c4f03c4_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/2e7f9eff-4006-476b-8dc1-0db9de7fcedb/20241017T052428/2e7f9eff-4006-476b-8dc1-0db9de7fcedb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2e7f9eff-4006-476b-8dc1-0db9de7fcedb/20241017T052428/2e7f9eff-4006-476b-8dc1-0db9de7fcedb_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-54°
+50°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
