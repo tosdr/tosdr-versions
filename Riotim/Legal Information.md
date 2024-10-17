@@ -402,7 +402,7 @@ This CCPA and CPRA Addendum is being entered into pursuant to the California Con
 
 [Open Element Web](https://app.element.io/) [Download](https://riot.im/download) [Contact Sales](https://riot.im/contact-sales) [Admin Dashboard](https://ems.element.io/user/hosting#/hosts)
 
-![Cyber Essentials Plus](images/cyber-essentials-plus.webp) [![ISO/IEC 27001:2022 certification](images/ISOMark_27001-2022.png)](https://www.iafcertsearch.org/certification/kwsMQetMdFeLCrQIIW3K0aSu)
+[![Cyber Essentials Plus](images/cyber-essentials-plus.webp)](https://registry.blockmarktech.com/certificates/7a5fe9ed-6f47-4550-94d4-8e2ae59941e9/) [![ISO/IEC 27001:2022 certification](images/ISOMark_27001-2022.png)](https://www.iafcertsearch.org/certified-entity/0QRs7nEYtvfutjbm95kB47RO)
 
 Copyright © 2016–2024 Element • [Legal](https://riot.im/legal) • [Privacy](https://riot.im/privacy)
 
