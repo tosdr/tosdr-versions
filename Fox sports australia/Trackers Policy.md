@@ -18,22 +18,22 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 3 Session 2
+    Day 3
     
     |     |     |
     | --- | --- |
-    | PAK | 366 & 3 /50 |
-    | ENG | 291 |
+    | PAK | 366 & 221 |
+    | ENG | 291 & 2 /36 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
 * [Men's Test
     
-    Day 2 Session 2
+    Day 2
     
     |     |     |
     | --- | --- |
     | IND | 46  |
-    | NZL |     |
+    | NZL | 3 /180 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250301)
 * [Women's T20 WC
@@ -46,6 +46,16 @@ FOX SCORES
     | RSA | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250201)
+* [Women's ODI
+    
+    ZIM won by 5 wkts
+    
+    |     |     |
+    | --- | --- |
+    | ZIM | 5 /154 |
+    | USA | 152 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250101)
 * [Women's T20
     
     SYDT won by 8 wkts
@@ -124,12 +134,12 @@ FOX SCORES
     
 * [AFL Women's
     
-    17/10 19:15 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | CAR | –   |
-    | WBD | –   |
+    | CAR | 4.4.28 |
+    | WBD | 9.7.61 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240801)
 * Motorsport
@@ -158,14 +168,14 @@ FOX SCORES
     
 * [NBL
     
-    17/10 19:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BRI | –   |
-    | NZB | –   |
+    | BRI | 84  |
+    | NZB | 73  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25050001)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25050001/play-by-play)
 * Baseball
     
 * [MLB
@@ -188,6 +198,16 @@ FOX SCORES
     | NYY | –   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002B5C98)
+* [MLB
+    
+    18/10 11:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NYM | –   |
+    | LAD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002A0FB0)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
