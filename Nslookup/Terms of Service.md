@@ -79,7 +79,6 @@ _Last updated: 2021-03-25_
 
 * [DNS record types](https://www.nslookup.io/learning/dns-record-types/)
 * [Browser extension](https://www.nslookup.io/install/)
-* [Blog](https://www.nslookup.io/blog/)
 
 ##### [About](https://www.nslookup.io/about/)
 
