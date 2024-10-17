@@ -244,14 +244,6 @@ MuggleNet Archive Select Month October 2024  (9) September 2024  (30) August 2
 
 ### October 2024
 
-#### Wed, Oct 16
-
-Lavender's rabbit Binky dies
-
-Recurs yearly
-
-1993
-
 #### Thu, Oct 17
 
 Filius Flitwick's birthday
@@ -318,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Quidditch started in the 11th century at a place called Queerditch Marsh, which is not marked on Muggle maps because wizards have made the place unplottable. Originally, it was quite a crude game played on broomsticks with just the Quaffle.
+Minerva McGonagall’s mother kept her own magical heritage a secret from her Muggle husband for years, which made her life very sad and difficult.
 
 ### Potter History
 
-December 13, 2007 – The Tales of Beedle the Bard goes up for auction at Sotheby’s and sells for nearly £2 million, far surpassing all expectations.
+December 15, 2004 – Producer David Heyman says Harry Potter and the Goblet of Fire filming is 75% complete.
 
 ### Potter Quote
 
-“Hello, Harry Potter. My name is Tom Riddle. How did you come by my diary?”
+“You’ve gone middle head!”
 
 [](#)
 
