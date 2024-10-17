@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [Federal Trade Commission Announces Final “Click-to-Cancel” Rule Making It Easier for Consumers to End Recurring Subscriptions and Memberships](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
+    ### [FTC Takes Action Against Qargo Coffee for Franchise Rule Violations](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-takes-action-against-qargo-coffee-franchise-rule-violations)
     
     October 16, 2024
     
