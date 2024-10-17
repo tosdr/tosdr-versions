@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-rol-van-de-vs-in-de-wereld/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/de-kankerwerende-eigenschappen-van-hennep/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
