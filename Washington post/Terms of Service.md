@@ -175,7 +175,162 @@ Sign up
 
 Sign up
 
+[](https://www.washingtonpost.com/)
+
+Company
+
+* [About The Post](https://www.washingtonpost.com/about-the-post/)
+* [Newsroom Policies & Standards](https://www.washingtonpost.com/policies-and-standards/)
+* [Diversity & Inclusion](https://washingtonpost.com/about-the-post/workforce-demographics/)
+* [Careers](https://careers.washingtonpost.com/)
+* [Media & Community Relations](https://www.washingtonpost.com/public-relations/)
+* [WP Creative Group](https://www.washingtonpost.com/creativegroup/archive/)
+* [Accessibility Statement](https://www.washingtonpost.com/accessibility/)
+
+Sections
+
+* [Trending](https://www.washingtonpost.com/trending/)
+* [Politics](https://www.washingtonpost.com/politics/)
+* [Elections](https://www.washingtonpost.com/elections/)
+* [Opinions](https://www.washingtonpost.com/opinions/)
+* [National](https://www.washingtonpost.com/national/)
+* [World](https://www.washingtonpost.com/world/)
+* [Style](https://www.washingtonpost.com/style/)
+* [Sports](https://www.washingtonpost.com/sports/)
+* [Business](https://www.washingtonpost.com/business/)
+* [Climate](https://www.washingtonpost.com/climate/)
+* [Well+Being](https://www.washingtonpost.com/wellbeing/)
+* [D.C., Md., & Va.](https://www.washingtonpost.com/local/)
+* [Obituaries](https://www.washingtonpost.com/national/obituaries/)
+* [Weather](https://www.washingtonpost.com/weather/)
+* [Arts & Entertainment](https://www.washingtonpost.com/arts-entertainment/)
+* [Recipes](https://www.washingtonpost.com/recipes/)
+
+Get The Post
+
+* [Become a Subscriber](https://subscribe.washingtonpost.com/acquisition/?p=s_v&s_l=ONSITE_FOOTER_DIGITAL)
+* [Gift Subscriptions](https://subscribe.washingtonpost.com/acquisition/?p=g_v&s_l=ONSITE_FOOTER_GIFT)
+* [Mobile & Apps](https://subscription.washingtonpost.com/mobile/)
+* [Newsletters & Alerts](https://washingtonpost.com/newsletters/)
+* [Washington Post Live](https://www.washingtonpost.com/washington-post-live/)
+* [Reprints & Permissions](https://www.washingtonpost.com/reprints-permissions/)
+* [Post Store](https://store.washingtonpost.com/)
+* [Books & E-Books](https://www.washingtonpost.com/photos-books/)
+* [Print Special Editions Store](https://printshop.twpprintsolutions.com/twpstore/catalog.cgi)
+
+* [Today’s Paper](https://www.washingtonpost.com/todays_paper/updates/)
+* [Public Notices](https://www.washingtonpost.com/classifieds/)
+
+Contact Us
+
+* [Contact the Newsroom](https://helpcenter.washingtonpost.com/hc/en-us/articles/360002940991-Leadership-of-The-Washington-Post-newsroom)
+* [Contact Customer Care](https://helpcenter.washingtonpost.com/hc/en-us/)
+* [Contact the Opinions Team](https://helpcenter.washingtonpost.com/hc/en-us/articles/360004745292-Leadership-of-The-Washington-Post-Opinions-section)
+* [Advertise](https://www.washingtonpost.com/solutions/)
+* [Licensing & Syndication](https://www.washingtonpost.com/licensing-syndication)
+* [Request a Correction](https://helpcenter.washingtonpost.com/hc/en-us/articles/115003675928-Submit-a-correction)
+* [Send a News Tip](https://www.washingtonpost.com/anonymous-news-tips/)
+* [Report a Vulnerability](https://www.washingtonpost.com/discussions/2021/05/13/vulnerability-disclosure-policy/)
+
+Terms of Use
+
+* [Digital Products Terms of Sale](https://www.washingtonpost.com/information/2022/06/17/terms-sale-digital-products/)
+* [Print Products Terms of Sale](https://www.washingtonpost.com/information/2020/11/20/terms-sale-print-products/)
+* [Terms of Service](https://www.washingtonpost.com/terms-of-service/)
+* [Privacy Policy](https://www.washingtonpost.com/privacy-policy/)
+* [Cookie Settings](https://www.washingtonpost.com/cookie-policy/)
+* [Submissions & Discussion Policy](https://www.washingtonpost.com/discussions/2021/11/23/discussion-submission-guidelines/)
+* [RSS Terms of Service](https://www.washingtonpost.com/discussions/2021/01/01/rss-terms-service/)
+* [Sitemap](https://www.washingtonpost.com/sitemap/)
+* [Ad Choices](https://www.washingtonpost.com/information/2022/01/01/ad-choices/)
+* [Your Privacy Choices ![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://subscribe.washingtonpost.com/static/dns-icons/privacyoptions.svg)](https://www.washingtonpost.com/my-post/privacy-settings) 
+
 [washingtonpost.com](https://www.washingtonpost.com/) © 1996-2024 The Washington Post
+
+[](https://www.washingtonpost.com/)
+
+### 
+
+Company
+
+Chevron Icon
+
+* [Diversity & Inclusion](https://washingtonpost.com/about-the-post/workforce-demographics/)
+* [Careers](https://careers.washingtonpost.com/)
+* [Media & Community Relations](https://www.washingtonpost.com/public-relations/)
+* [WP Creative Group](https://www.washingtonpost.com/creativegroup/archive/)
+* [Accessibility Statement](https://www.washingtonpost.com/accessibility/)
+
+### 
+
+Sections
+
+Chevron Icon
+
+* [Trending](https://www.washingtonpost.com/trending/)
+* [Politics](https://www.washingtonpost.com/politics/)
+* [Elections](https://www.washingtonpost.com/elections/)
+* [Opinions](https://www.washingtonpost.com/opinions/)
+* [National](https://www.washingtonpost.com/national/)
+* [World](https://www.washingtonpost.com/world/)
+* [Style](https://www.washingtonpost.com/style/)
+* [Sports](https://www.washingtonpost.com/sports/)
+* [Business](https://www.washingtonpost.com/business/)
+* [Climate](https://www.washingtonpost.com/climate/)
+* [Well+Being](https://www.washingtonpost.com/wellbeing/)
+* [D.C., Md., & Va.](https://www.washingtonpost.com/local/)
+* [Obituaries](https://www.washingtonpost.com/national/obituaries/)
+* [Weather](https://www.washingtonpost.com/weather/)
+* [Arts & Entertainment](https://www.washingtonpost.com/arts-entertainment/)
+* [Recipes](https://www.washingtonpost.com/recipes/)
+
+### 
+
+Get The Post
+
+Chevron Icon
+
+* [Become a Subscriber](https://subscribe.washingtonpost.com/acquisition/?p=s_v&s_l=ONSITE_FOOTER_DIGITAL)
+* [Gift Subscriptions](https://subscribe.washingtonpost.com/acquisition/?p=g_v&s_l=ONSITE_FOOTER_GIFT)
+* [Mobile & Apps](https://subscription.washingtonpost.com/mobile/)
+* [Newsletters & Alerts](https://washingtonpost.com/newsletters/)
+* [Washington Post Live](https://www.washingtonpost.com/washington-post-live/)
+* [Reprints & Permissions](https://www.washingtonpost.com/reprints-permissions/)
+* [Post Store](https://store.washingtonpost.com/)
+* [Books & E-Books](https://www.washingtonpost.com/photos-books/)
+* [Print Special Editions Store](https://printshop.twpprintsolutions.com/twpstore/catalog.cgi)
+
+* [Today’s Paper](https://www.washingtonpost.com/todays_paper/updates/)
+* [Public Notices](https://www.washingtonpost.com/classifieds/)
+
+### 
+
+Contact Us
+
+Chevron Icon
+
+* [Contact the Newsroom](https://helpcenter.washingtonpost.com/hc/en-us/articles/360002940991-Leadership-of-The-Washington-Post-newsroom)
+* [Contact Customer Care](https://helpcenter.washingtonpost.com/hc/en-us/)
+* [Contact the Opinions Team](https://helpcenter.washingtonpost.com/hc/en-us/articles/360004745292-Leadership-of-The-Washington-Post-Opinions-section)
+* [Advertise](https://www.washingtonpost.com/solutions/)
+* [Licensing & Syndication](https://www.washingtonpost.com/licensing-syndication)
+* [Request a Correction](https://helpcenter.washingtonpost.com/hc/en-us/articles/115003675928-Submit-a-correction)
+* [Send a News Tip](https://www.washingtonpost.com/anonymous-news-tips/)
+* [Report a Vulnerability](https://www.washingtonpost.com/discussions/2021/05/13/vulnerability-disclosure-policy/)
+* [Download the Washington Post App](https://subscription.washingtonpost.com/mobile/?shortlink=8081805d&pid=Mobile%20web%20footer&source_caller=ui)
+
+* [About The Post](https://www.washingtonpost.com/about-the-post/)
+* [Policies & Standards](https://www.washingtonpost.com/policies-and-standards/)
+* [Digital Products Terms of Sale](https://www.washingtonpost.com/information/2022/06/17/terms-sale-digital-products/)
+* [Print Products Terms of Sale](https://www.washingtonpost.com/information/2020/11/20/terms-sale-print-products/)
+* [Terms of Service](https://www.washingtonpost.com/terms-of-service/)
+* [Privacy Policy](https://www.washingtonpost.com/privacy-policy/)
+* [Cookie Settings](https://www.washingtonpost.com/cookie-policy/)
+* [Submissions & Discussion Policy](https://www.washingtonpost.com/discussions/2021/11/23/discussion-submission-guidelines/)
+* [RSS Terms of Service](https://www.washingtonpost.com/discussions/2021/01/01/rss-terms-service/)
+* [Sitemap](https://www.washingtonpost.com/sitemap/)
+* [Ad Choices](https://www.washingtonpost.com/information/2022/01/01/ad-choices/)
+* [Your Privacy Choices ![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://subscribe.washingtonpost.com/static/dns-icons/privacyoptions.svg)](https://www.washingtonpost.com/my-post/privacy-settings) 
 
 * [washingtonpost.com](https://www.washingtonpost.com/)
 * © 1996-2024 The Washington Post
