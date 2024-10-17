@@ -25,7 +25,6 @@
                 
                 Build your brand and manage your marketing with less effort.​
                 
-            * [Social Media Management](https://www.thryv.com/features/social-media/)
             * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
             * [Reputation Management](https://www.thryv.com/features/reputation-management/)
             * [Website Builder](https://www.thryv.com/features/professional-website/)
