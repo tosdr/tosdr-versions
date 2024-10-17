@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About FluorUvite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22128%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-fluor-uvite/)
+[![38 Facts About Hallgrimskirkja ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/landmarks/38-facts-about-hallgrimskirkja/)
 
-Earth Sciences
+Landmarks
 
-16 Oct 2024
+17 Oct 2024
 
-[30 Facts About FluorUvite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-fluor-uvite/)
+[38 Facts About Hallgrimskirkja](https://facts.net/world/landmarks/38-facts-about-hallgrimskirkja/)
 
-[![37 Facts About Native American Women ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/37-facts-about-native-american-women/)
+[![25 Facts About Pakistani Cities ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2297%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/cities/25-facts-about-pakistani-cities/)
 
-History
+Cities
 
-16 Oct 2024
+17 Oct 2024
 
-[37 Facts About Native American Women](https://facts.net/history/37-facts-about-native-american-women/)
+[25 Facts About Pakistani Cities](https://facts.net/world/cities/25-facts-about-pakistani-cities/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
