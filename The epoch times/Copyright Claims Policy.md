@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Harris Fields Tough Questions in Fox News Interview](https://www.theepochtimes.com/us/harris-fields-tough-questions-in-fox-news-interview-5742725)
+    
+    1hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Harris Fields Tough Questions in Fox News Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Fields Tough Questions in Fox News Interview](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742800-Harris-Fox-News-205x123.png.webp)](https://www.theepochtimes.com/us/harris-fields-tough-questions-in-fox-news-interview-5742725)
+* [Supreme Court Grapples With San Francisco’s Challenge to EPA Wastewater Permit Rules](https://www.theepochtimes.com/us/supreme-court-grapples-with-san-franciscos-challenge-to-epa-wastewater-permit-rules-5742363)
+    
+    3hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![Supreme Court Grapples With San Francisco’s Challenge to EPA Wastewater Permit Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Supreme Court Grapples With San Francisco’s Challenge to EPA Wastewater Permit Rules](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737036-10072024-DSC03070-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-grapples-with-san-franciscos-challenge-to-epa-wastewater-permit-rules-5742363)
+* [Man Arrested Outside Trump Rally Sues California Sheriff Over Assassination Claims](https://www.theepochtimes.com/us/man-arrested-outside-trump-rally-sues-california-sheriff-over-assassination-claims-5742487)
+    
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Man Arrested Outside Trump Rally Sues California Sheriff Over Assassination Claims](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Man Arrested Outside Trump Rally Sues California Sheriff Over Assassination Claims](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742662-GettyImages-2178151545-205x123.jpg.webp)](https://www.theepochtimes.com/us/man-arrested-outside-trump-rally-sues-california-sheriff-over-assassination-claims-5742487)
+* [Georgia Judge Blocks 7 Election Rules as 2024 Voting Begins](https://www.theepochtimes.com/us/georgia-judge-blocks-7-election-rules-as-2024-voting-begins-5742705)
+    
+    4hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![Georgia Judge Blocks 7 Election Rules as 2024 Voting Begins](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Georgia Judge Blocks 7 Election Rules as 2024 Voting Begins](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741949-Georgia-Vote-2_JF_10142024-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-blocks-7-election-rules-as-2024-voting-begins-5742705)
+* [Liam Payne, Former One Direction Singer, Dies at 31 After Fall From Hotel in Argentina](https://www.theepochtimes.com/entertainment/liam-payne-former-one-direction-singer-dies-at-31-after-fall-from-hotel-in-argentina-5742683)
+    
+    4hr By [Elma Aksalic](https://www.theepochtimes.com/author/elma-aksalic)
+    
+    [![Liam Payne, Former One Direction Singer, Dies at 31 After Fall From Hotel in Argentina](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Liam Payne, Former One Direction Singer, Dies at 31 After Fall From Hotel in Argentina](https://img.theepochtimes.com/assets/uploads/2024/10/id5742704-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/liam-payne-former-one-direction-singer-dies-at-31-after-fall-from-hotel-in-argentina-5742683)
+* [US Says Gaza Humanitarian Conditions Improving After Warning Letter to Israel](https://www.theepochtimes.com/world/us-says-gaza-humanitarian-conditions-improving-after-warning-letter-to-israel-5742497)
+    
+    5hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![US Says Gaza Humanitarian Conditions Improving After Warning Letter to Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Says Gaza Humanitarian Conditions Improving After Warning Letter to Israel](https://img.theepochtimes.com/assets/uploads/2024/07/11/id5684793-gaza-food1-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-says-gaza-humanitarian-conditions-improving-after-warning-letter-to-israel-5742497)
+* [Day in Photos: Nigeria Explosion, Trilateral Meeting, In Memory of Ethel Kennedy](https://www.theepochtimes.com/article/day-in-photos-nigeria-explosion-trilateral-meeting-in-memory-of-ethel-kennedy-5742249)
+    
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Nigeria Explosion, Trilateral Meeting, In Memory of Ethel Kennedy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Nigeria Explosion, Trilateral Meeting, In Memory of Ethel Kennedy](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742598-AP24290494265414-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-nigeria-explosion-trilateral-meeting-in-memory-of-ethel-kennedy-5742249)
 * [Supreme Court Declines to Halt EPA’s New Climate Regulation for Power Plants](https://www.theepochtimes.com/us/supreme-court-declines-to-halt-epas-new-climate-regulation-for-power-plants-5742567)
     
-    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    6hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![Supreme Court Declines to Halt EPA’s New Climate Regulation for Power Plants](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Declines to Halt EPA’s New Climate Regulation for Power Plants](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737017-10072024-L1160057-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-declines-to-halt-epas-new-climate-regulation-for-power-plants-5742567)
+    ![Supreme Court Declines to Halt EPA’s New Climate Regulation for Power Plants](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742746-10072024-L1160057-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-declines-to-halt-epas-new-climate-regulation-for-power-plants-5742567)
 * [Semifinalists Announced for NTD’s 7th International Piano Competition](https://www.theepochtimes.com/bright/semifinalists-announced-for-ntds-7th-international-piano-competition-5742615)
     
-    NEW By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
+    6hr By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
     
     [![Semifinalists Announced for NTD’s 7th International Piano Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Semifinalists Announced for NTD’s 7th International Piano Competition](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742651-Robert-Neuman-NTD-piano-competition-205x123.jpg.webp)](https://www.theepochtimes.com/bright/semifinalists-announced-for-ntds-7th-international-piano-competition-5742615)
 * [Trump Signals He Will Ban Transgender Athletes in Women’s Sports via Executive Action](https://www.theepochtimes.com/us/trump-signals-he-will-ban-transgender-athletes-in-womens-sports-via-executive-action-5742470)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Trump Signals He Will Ban Transgender Athletes in Women’s Sports via Executive Action](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Signals He Will Ban Transgender Athletes in Women’s Sports via Executive Action](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742484-Trump-GA-12_JF_10152024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-signals-he-will-ban-transgender-athletes-in-womens-sports-via-executive-action-5742470)
-* [New Immunotherapy Boosts Hodgkin Lymphoma Survival Rate to 92 Percent](https://www.theepochtimes.com/health/new-immunotherapy-boosts-hodgkin-lymphoma-survival-rate-to-92-percent-5742323)
-    
-    NEW By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
-    
-    [![New Immunotherapy Boosts Hodgkin Lymphoma Survival Rate to 92 Percent](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New Immunotherapy Boosts Hodgkin Lymphoma Survival Rate to 92 Percent](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742657-shutterstock_2299115831_nivolumab_cancer_immunotherapy-205x123.jpg.webp)](https://www.theepochtimes.com/health/new-immunotherapy-boosts-hodgkin-lymphoma-survival-rate-to-92-percent-5742323)
-* [FTC Tackles Subscription Traps With ‘Click to Cancel’ Rule](https://www.theepochtimes.com/business/ftc-tackles-subscription-traps-with-click-to-cancel-rule-5742454)
-    
-    NEW By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
-    
-    [![FTC Tackles Subscription Traps With ‘Click to Cancel’ Rule](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FTC Tackles Subscription Traps With ‘Click to Cancel’ Rule](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693538-GettyImages-71968930-SB-205x123.jpg.webp)](https://www.theepochtimes.com/business/ftc-tackles-subscription-traps-with-click-to-cancel-rule-5742454)
-* [Figuring Out Fitness After Menopause](https://www.theepochtimes.com/health/figuring-out-fitness-after-menopause-5645689)
-    
-    NEW By [Amy Denney](https://www.theepochtimes.com/author/amy-denney)
-    
-    [![Figuring Out Fitness After Menopause](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Figuring Out Fitness After Menopause](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740470-Menopause-Exercise--205x123.jpeg.webp)](https://www.theepochtimes.com/health/figuring-out-fitness-after-menopause-5645689)
-* [Fossil Fuel Dominance to Persist as Energy Demand Outpaces Infrastructure Growth, IEA Says](https://www.theepochtimes.com/us/fossil-fuel-dominance-to-persist-as-energy-demand-outpaces-infrastructure-growth-iea-says-5742387)
-    
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Fossil Fuel Dominance to Persist as Energy Demand Outpaces Infrastructure Growth, IEA Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Fossil Fuel Dominance to Persist as Energy Demand Outpaces Infrastructure Growth, IEA Says](https://img.theepochtimes.com/assets/uploads/2023/12/23/id5552256-12212023-DSC02198-Oilfield-pump-jacks-205x123.jpg.webp)](https://www.theepochtimes.com/us/fossil-fuel-dominance-to-persist-as-energy-demand-outpaces-infrastructure-growth-iea-says-5742387)
-* [Biden Announces $425 Million Arms Package for Ukraine in Call With Zelenskyy](https://www.theepochtimes.com/world/biden-announces-425-million-arms-package-for-ukraine-in-call-with-zelenskyy-5742407)
-    
-    2hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Biden Announces $425 Million Arms Package for Ukraine in Call With Zelenskyy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Announces $425 Million Arms Package for Ukraine in Call With Zelenskyy](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730905-Zelenskyy-GettyImages-2174693598-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-announces-425-million-arms-package-for-ukraine-in-call-with-zelenskyy-5742407)
-* [Ohio Supreme Court Rebuffs Challenge to Drop Box Restrictions](https://www.theepochtimes.com/us/ohio-supreme-court-rebuffs-challenge-to-drop-box-restrictions-5742386)
-    
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Ohio Supreme Court Rebuffs Challenge to Drop Box Restrictions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Ohio Supreme Court Rebuffs Challenge to Drop Box Restrictions](https://img.theepochtimes.com/assets/uploads/2024/09/17/id5725784-03182024-DSC08655-Frank-LaRose.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/ohio-supreme-court-rebuffs-challenge-to-drop-box-restrictions-5742386)
-* [781,000 Absentee Ballots Returned in Michigan in 2024 Election so Far, Data Show](https://www.theepochtimes.com/us/hundreds-of-thousands-of-absentee-ballots-in-michigan-cast-with-3-weeks-to-go-5742412)
-    
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![781,000 Absentee Ballots Returned in Michigan in 2024 Election so Far, Data Show](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![781,000 Absentee Ballots Returned in Michigan in 2024 Election so Far, Data Show](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742565-tcf-center-open-boxes-LSedit-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/hundreds-of-thousands-of-absentee-ballots-in-michigan-cast-with-3-weeks-to-go-5742412)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
