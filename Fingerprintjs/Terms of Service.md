@@ -6,11 +6,11 @@
 
 * * *
 
-[Log In](https://dev.fingerprintjs.com/login?redirect_uri=/docs/terms-of-service)[Sign Up](https://dev.fingerprintjs.com/page/undefined)[![Fingerprint](https://files.readme.io/e421089-small-FP-Horizontal-OrangeBlue2x.png)](https://dev.fingerprintjs.com/)
+[Log In](https://dev.fingerprintjs.com/login?redirect_uri=/docs/terms-of-service)[Sign Up](https://dashboard.fingerprintjs.com/signup)[![Fingerprint](https://files.readme.io/e421089-small-FP-Horizontal-OrangeBlue2x.png)](https://dev.fingerprintjs.com/)
 
 Guides
 
-[Log In](https://dev.fingerprintjs.com/login?redirect_uri=/docs/terms-of-service)[Sign Up](https://dev.fingerprintjs.com/page/null)
+[Log In](https://dev.fingerprintjs.com/login?redirect_uri=/docs/terms-of-service)[Sign Up](https://dashboard.fingerprintjs.com/signup)
 
 [Home](https://dev.fingerprintjs.com/)[Guides](https://dev.fingerprintjs.com/docs)[API Reference](https://dev.fingerprintjs.com/reference)[Changelog (JS Agent)](https://dev.fingerprintjs.com/changelog)[Discussions](https://dev.fingerprintjs.com/discuss)
 
