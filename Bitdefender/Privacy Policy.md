@@ -500,8 +500,8 @@ Quick Links
 Choose Your Country
 
 * [Australia - English](https://www.bitdefender.com/en-au/)
-* [België - Nederlands](https://www.bitdefender.com/fr-be/)
 * [België - Nederlands](https://www.bitdefender.com/nl-be/)
+* [Belgique - Français](https://www.bitdefender.com/fr-be/)
 * [Belice - Español](https://www.bitdefender.com/es-bz/)
 * [Belize - English](https://www.bitdefender.com/en-bz/)
 * [Brasil - Português](https://www.bitdefender.com/pt-br/)
