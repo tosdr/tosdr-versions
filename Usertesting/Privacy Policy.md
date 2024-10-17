@@ -668,8 +668,7 @@ Footer
     * Legal & other
         * [Privacy center](https://www.usertesting.com/privacy-center)
         * [Customer terms](https://www.usertesting.com/privacy-center/terms-of-use-enterprise-client)
-        * [Export overview](https://www.usertesting.com/privacy-center/export-overview)
-        * [Bug bounty](https://info.usertesting.com/usertesting-hackerone-bug-bounty-lp.html)
+        * [Export overview](https://www.usertesting.com/usertesting-export-overview)
 * Resources
     * Digital Resources
         * [All resources](https://www.usertesting.com/resources)
@@ -677,8 +676,8 @@ Footer
         * [Product Design](https://www.usertesting.com/resources/guides/product-design)
         * [Blog](https://www.usertesting.com/blog)
         * [Customer stories](https://www.usertesting.com/resources/customers)
-        * [Guides](https://www.usertesting.com/resources/library/guides)
-        * [Industry Reports](https://www.usertesting.com/resources/library/industry-reports)
+        * [Guides](https://www.usertesting.com/resources/guides)
+        * [Industry Reports](https://www.usertesting.com/resources/reports)
         * [Podcasts](https://www.usertesting.com/resources/library/podcast)
         * [Template Gallery](https://www.usertesting.com/resources/templates)
     * Additional information
