@@ -20,7 +20,7 @@ Above Header
 
 [+1-786-522-3667](tel:+1-786-522-3667) [+44 20 33719356](tel:+44 20 33719356)
 
-[![TGW Travel Group](https://toursgonewild.com/wp-content/uploads/2020/06/tgw-travel.png)](https://toursgonewild.com/)
+[![tgw-travel](https://toursgonewild.com/wp-content/uploads/2020/06/tgw-travel.png)](https://toursgonewild.com/)
 
 Main Menu
 
@@ -108,7 +108,7 @@ Above Header
 
 [+1-786-522-3667](tel:+1-786-522-3667) [+44 20 33719356](tel:+44 20 33719356)
 
-[![TGW Travel Group](https://toursgonewild.com/wp-content/uploads/2020/06/tgw-travel.png)](https://toursgonewild.com/)
+[![tgw-travel](https://toursgonewild.com/wp-content/uploads/2020/06/tgw-travel.png)](https://toursgonewild.com/)
 
 Main Menu
 
@@ -490,7 +490,7 @@ Get a Price Quote
 * More Details: (customization, desired experience, etc)
     
 * 
-* Comments
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
@@ -569,3 +569,7 @@ FLORIDA SELLER OF TRAVEL NUMBER: ST35764
 Search... 
 
 Scroll to Top
+
+                         
+
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)
