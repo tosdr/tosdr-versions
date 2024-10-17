@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
+* [\[ October 17, 2024 \] Issue 41 & 42 News You May Have Missed Subscriber Only](https://americanfreepress.net/issue-41-42-news-you-may-have-missed-2/ "Issue 41 & 42 News You May Have Missed")
+* [\[ October 17, 2024 \] Criticism of Regime Is Misinformation and/or Disinformation Subscriber Only](https://americanfreepress.net/criticism-of-regime-is-misinformation-and-or-disinformation/ "Criticism of Regime Is Misinformation and/or Disinformation")
+* [\[ October 17, 2024 \] Washington Prioritizes Money for Wars Over Hurricane Victims National News](https://americanfreepress.net/washington-prioritizes-money-for-wars-over-hurricane-victims/ "Washington Prioritizes Money for Wars Over Hurricane Victims")
 * [\[ October 3, 2024 \] Conservative Filmmaker Wonders, ‘Am I Racist?’ Subscriber Only](https://americanfreepress.net/conservative-filmmaker-wonders-am-i-racist/ "Conservative Filmmaker Wonders, ‘Am I Racist?’")
 * [\[ September 7, 2024 \] Kamala’s VP Pick Has ‘Proud History’ Pushing Lockdowns Subscriber Only](https://americanfreepress.net/kamalas-vp-pick-has-proud-history-pushing-lockdowns/ "Kamala’s VP Pick Has ‘Proud History’ Pushing Lockdowns")
-* [\[ September 7, 2024 \] Kamala Harris’s Price-Control Proposal Will Not Solve Rising Food Prices Subscriber Only](https://americanfreepress.net/kamala-harriss-price-control-proposal-will-not-solve-rising-food-prices/ "Kamala Harris’s Price-Control Proposal Will Not Solve Rising Food Prices")
-* [\[ September 6, 2024 \] Trump’s Support for Brutal Israeli Policies a ‘Yuuge’ Negative Subscriber Only](https://americanfreepress.net/trumps-support-for-brutal-israeli-policies-a-yuuge-negative/ "Trump’s Support for Brutal Israeli Policies a ‘Yuuge’ Negative")
-* [\[ September 5, 2024 \] Please Enjoy That Trillion-Dollar Glass of Water, if You Can Subscriber Only](https://americanfreepress.net/please-enjoy-that-trillion-dollar-glass-of-water-if-you-can/ "Please Enjoy That Trillion-Dollar Glass of Water, if You Can")
 
 [Home](https://americanfreepress.net/)TERMS and CONDITIONS
 
@@ -128,18 +128,18 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
+* [Issue 41 & 42 News You May Have Missed](https://americanfreepress.net/issue-41-42-news-you-may-have-missed-2/)
+* [Criticism of Regime Is Misinformation and/or Disinformation](https://americanfreepress.net/criticism-of-regime-is-misinformation-and-or-disinformation/)
+* [Washington Prioritizes Money for Wars Over Hurricane Victims](https://americanfreepress.net/washington-prioritizes-money-for-wars-over-hurricane-victims/)
 * [Does Anyone Believe $200 billion We Spent on Ukraine Went to Ukraine?](https://americanfreepress.net/does-anyone-believe-200-billion-we-spent-on-ukraine-went-to-ukraine/)
 * [Conservative Filmmaker Wonders, ‘Am I Racist?’](https://americanfreepress.net/conservative-filmmaker-wonders-am-i-racist/)
-* [United States Must End Weapons Shipments to Israel Now](https://americanfreepress.net/united-states-must-end-weapons-shipments-to-israel-now/)
-* [Kamala’s VP Pick Has ‘Proud History’ Pushing Lockdowns](https://americanfreepress.net/kamalas-vp-pick-has-proud-history-pushing-lockdowns/)
-* [A Third of Global Debt Belongs to America](https://americanfreepress.net/a-third-of-global-debt-belongs-to-america/)
 
 ###### Recent Comments
 
+* Eric on [United States Must End Weapons Shipments to Israel Now](https://americanfreepress.net/united-states-must-end-weapons-shipments-to-israel-now/#comment-55012)
+* Deanna McClane on [Kamala Presidency Would Be Disaster for America](https://americanfreepress.net/kamala-presidency-would-be-disaster-for-america/#comment-54988)
 * Stephen Aradjan on [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/#comment-54642)
 * Sad News on [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/#comment-54295)
-* john on [Grand Ole Populists](https://americanfreepress.net/grand-ole-populists/#comment-54251)
-* [L.C.](https://www.youtube.com/watch?v=Om4NmC0ldPM) on [Israel Targets U.S. Congressmen With Fake Media Accounts, Propaganda](https://americanfreepress.net/israel-targets-u-s-congressmen-with-fake-media-accounts-propaganda/#comment-54226)
 
 * [Home](https://americanfreepress.net/)
 * [ABOUT](https://americanfreepress.net/about-afp/)
@@ -178,4 +178,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=885350885)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=613147844)
