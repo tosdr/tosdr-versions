@@ -688,4 +688,4 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 
                                                  
 
-https://cozatydzien.tvn.pl/
+https://www.arkoselabs.com/contact/
