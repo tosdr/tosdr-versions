@@ -1,6 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)         Privacy Policy – Omax Health - Omax Health                          
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)   
 
-               
+Privacy Policy – Omax Health - Omax Health                     
+
+                
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -303,7 +305,7 @@ Go to product page
 
 ### Let customers speak for us
 
-[3398 reviews](https://omaxhealth.com/pages/reviews)
+[3400 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
@@ -327,7 +329,25 @@ Go to product page
 
 (53)
 
-2195
+2197
+
+J
+
+[Omax® CircuMax Sport Socks 3 Pack](https://omaxhealth.com/products/omax-circumax-sport-socks-3-pack#judgeme_product_reviews)
+
+J.S.
+
+**BEST SOCKS EVER!!**
+
+I work construction and these are the most comfortable and longest lasting socks I have ever tried. So glad I discovered them.
+
+R
+
+[Omax3® Omega 3 Fish Oil | 750 mg](https://omaxhealth.com/products/omax3-ultra-pure#judgeme_product_reviews)
+
+Robert C.
+
+Best fish oil. Been using it over 10 years.
 
 J
 
@@ -338,23 +358,5 @@ Joan M.
 **Excellent for Pain**
 
 I suffer from severe arthritis in my knees and am scheduled for knee replacement surgery. I apply this product in the morning and at bed and it honestly will change your life. It allows me to bake all day, play golf and walk daily. I have recommended it to many friends and it has helped them as well. Buy it. You will be so happy you did.
-
-M
-
-[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-Monica H.
-
-**Use it daily!**
-
-Son plays hockey and mom and dad have past sports related injuries. We use this daily for instant relief.
-
-R
-
-[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-Rob L.
-
-works good !
 
 Load More
