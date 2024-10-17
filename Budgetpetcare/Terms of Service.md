@@ -1,10 +1,10 @@
-COLUMBUS DAY SAVINGS!
+HALLOWEEN SUPER SALE!
 
-22% Off + 10% **Cashback**
+20% Off + 10% **Cashback**
 
 on all orders -
 
-Use Code : DISCOVER
+Use Code : SPOOKY
 
 * [![Free Shipping](/images/truck.png)FREE SHIPPING\* | Guaranteed Delivery](https://www.budgetpetcare.com/ship_returns.aspx)
     
