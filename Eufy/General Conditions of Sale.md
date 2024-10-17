@@ -759,19 +759,6 @@ eufy provides a straightforward warranty that is processed in the most hassle-fr
 
 This limited warranty provided by the manufacturer in no way affects a potential statutory warranty provided by law.
 
-|     |     |     |
-| --- | --- | --- |
-| **Item** | **Warranty Period** | **Software support security update period** |
-| StickVac with Mop | 24 Months | 24 Months |
-| RoboVac | 12 Months | 12 Months |
-| HomeVac | 24 Months | NA  |
-| Smart Home | 18 months | NA  |
-| Smart Scales | 24 Months | 24 Months |
-| Accessories | 30 Days | NA  |
-| Security | 12 Months | 12 Months |
-
-  
-
 **Holiday Returns Policy**
 
 eufy has extended the Holiday Returns Policy for 2023. Orders purchased between November 1st, 2023 and December 31st, 2023 are eligible for return until January 31st, 2024.
@@ -1150,7 +1137,7 @@ Authorized Resellers and Distributors
 
   
 
-Note: For eufy Security products, the hardware warranty period extends for 12 months from the purchase date, while we provide software upgrade service extends for two years from the purchase date.
+Note: For eufy products, the hardware warranty period extends for 12 months from the purchase date, while we provide software upgrade service extends for two years from the purchase date.
 
 If the price drops within 30 days of the order you placed, you can contact [support@eufy.com](mailto:support@eufy.com?ref=footer) for a price match to refund the differences.
 
