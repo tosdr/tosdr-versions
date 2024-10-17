@@ -107,69 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Gracunar](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1437131-1693585106.png)](https://lyricstranslate.com/en/translator/gracunar "Gracunar")
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
 
-New song
+New request
 
-[Sheldon - Q8](https://lyricstranslate.com/en/sheldon-q8-lyrics)
+[Johnny Hallyday - Je ne danserai plus jamais](https://lyricstranslate.com/en/request/je-ne-danserai-plus-jamais)
 
-French
+French → English
 
-[![Gracunar](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1437131-1693585106.png)](https://lyricstranslate.com/en/translator/gracunar "Gracunar")
-
-New song
-
-[Sheldon - Drag & Drop](https://lyricstranslate.com/en/sheldon-drag-drop-lyrics)
-
-French
-
-[![kaleydoskop](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1629412-1726783285.jpg)](https://lyricstranslate.com/en/translator/kaleydoskop "kaleydoskop")
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
 
 New translation
 
-[Mirkelam - Unutulmaz](https://lyricstranslate.com/en/mirkelam-unutulmaz-transliteration)
+[Chatmonchy - ツマサキ (Tsumasaki)](https://lyricstranslate.com/en/chatmonchy-tsumasaki-transliteration)
 
-Turkish → Transliteration
+Japanese → Transliteration
 
-[![Gracunar](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1437131-1693585106.png)](https://lyricstranslate.com/en/translator/gracunar "Gracunar")
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
 
 New song
 
-[Sheldon - Hélicoptère](https://lyricstranslate.com/en/sheldon-helicoptere-lyrics)
+[Johnny Hallyday - Je ne danserai plus jamais](https://lyricstranslate.com/en/johnny-hallyday-je-ne-danserai-plus-jamai-lyrics)
 
 French
 
-[![Gracunar](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1437131-1693585106.png)](https://lyricstranslate.com/en/translator/gracunar "Gracunar")
+[![Joshua Woods 3](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1583491-1688246744.png)](https://lyricstranslate.com/en/translator/joshua-woods-3 "Joshua Woods 3")
 
 New song
 
-[Sheldon - Arrondissement](https://lyricstranslate.com/en/sheldon-arrondissement-lyrics)
+[SATOMI' - Beautiful Life](https://lyricstranslate.com/en/satomi-beautiful-life-lyrics)
 
-French
+Japanese
 
-[![Serguei Batonov](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1587348-1691003603.jpg)](https://lyricstranslate.com/en/translator/serguei-batonov "Serguei Batonov")
+[![D_000](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1330100-1653491284.jpg)](https://lyricstranslate.com/en/translator/d000 "D_000")
+
+New request
+
+[Zaz - Éblouie par la nuit](https://lyricstranslate.com/en/request/%C3%A9blouie-par-la-nuit-8)
+
+French → IPA
+
+[![Влада Лебедева](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633340-1729165612.jpg)](https://lyricstranslate.com/en/translator/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B0-%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%D0%B0 "Влада Лебедева")
 
 New song
 
-[Ida Vitale - Calendario](https://lyricstranslate.com/en/ida-vitale-calendario-lyrics)
+[Kate Earl - All that glitters](https://lyricstranslate.com/en/kate-earl-all-glitters-lyrics)
 
-Spanish
+English
 
-[![Gracunar](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1437131-1693585106.png)](https://lyricstranslate.com/en/translator/gracunar "Gracunar")
+[![Влада Лебедева](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633340-1729165612.jpg)](https://lyricstranslate.com/en/translator/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B0-%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%D0%B0 "Влада Лебедева")
 
-New song
+New request
 
-[Sheldon - Focus](https://lyricstranslate.com/en/sheldon-focus-lyrics)
+[Kate Earl - All that glitters](https://lyricstranslate.com/en/request/all-glitters-1)
 
-French
+English → Russian
 
-[![Serguei Batonov](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1587348-1691003603.jpg)](https://lyricstranslate.com/en/translator/serguei-batonov "Serguei Batonov")
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
 
 New translation
 
-[Ida Vitale - Destinos](https://lyricstranslate.com/en/ida-vitale-destinos-russian)
+[Chatmonchy - プラズマ (Plasma)](https://lyricstranslate.com/en/chatmonchy-plasma-transliteration)
 
-Spanish → Russian
+Japanese → Transliteration
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
