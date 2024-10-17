@@ -197,6 +197,15 @@ Diet Restrictions Dairy-free Egg-free Gluten-free Low Carb Low Sodium Nightshade
 
 RESET [Search](https://www.furtherfood.com/search?type=article)
 
+[![Peanut Butter Cup Ghosties](//www.furtherfood.com/cdn/shop/articles/20241017125129-9ec0d382-d7bc-473e-a894-99401a88bd95-202_1200x871.jpg?v=1729172215)
+
+![Peanut Butter Cup Ghosties](//www.furtherfood.com/cdn/shop/articles/20241017125129-9ec0d382-d7bc-473e-a894-99401a88bd95-202_1200x871.jpg?v=1729172215)](https://www.furtherfood.com/blogs/recipes/peanut-butter-cup-ghosties)
+
+[Peanut Butter Cup Ghosties](https://www.furtherfood.com/blogs/recipes/peanut-butter-cup-ghosties)
+--------------------------------------------------------------------------------------------------
+
+Looking for a fun, festive treat that's both delicious and nutritious? These Peanut But...
+
 [![Pumpkin Spice Latte](//www.furtherfood.com/cdn/shop/articles/20240923133139-img_0446-20-1_1200x900.jpg?v=1727105651)
 
 ![Pumpkin Spice Latte](//www.furtherfood.com/cdn/shop/articles/20240923133139-img_0446-20-1_1200x900.jpg?v=1727105651)](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-latte)
@@ -241,15 +250,6 @@ Start your morning right with these delicious Pumpkin Overnight Oats—a simple,
 ------------------------------------------------------------------------------------------------------------------------------
 
 These Chocolate Hazelnut Pancakes are made with Further Food's Hazelnut Collagen, and...
-
-[![Image of Pumpkin Banana Split](//www.furtherfood.com/cdn/shop/articles/20240904134758-img_9963-20-1_1200x674.jpg?v=1725471974)
-
-![Image of Pumpkin Banana Split](//www.furtherfood.com/cdn/shop/articles/20240904134758-img_9963-20-1_1200x674.jpg?v=1725471974)](https://www.furtherfood.com/blogs/recipes/pumpkin-banana-split)
-
-[Pumpkin Banana Split](https://www.furtherfood.com/blogs/recipes/pumpkin-banana-split)
---------------------------------------------------------------------------------------
-
-Looking for a healthy yet indulgent treat that feels like dessert but is packed with n...
 
 * 1
 * [2](https://www.furtherfood.com/blogs/recipes?page=2)
