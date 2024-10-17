@@ -108,7 +108,7 @@ You may choose to accept or decline cookies. Most Web browsers automatically def
 
 Visitors to our website are able to register to use our services, attend events, make a purchase, join a community or upload/download information. When you register, you will provide personal information such as name, address, email, telephone number and other relevant information. If you are making a purchase, we will request financial information. Any financial information we collect is used only to bill you for your purchase. This information may be forwarded to your financial provider. We will not disclose Personally Identifiable Information (PII) we collect from you to third parties without your permission except to the extent necessary to fulfil your requests, to protect ourselves from liability, to comply with the terms and conditions of our internet host provider.
 
-![](https://sustainablefuturesglobal.org/wp-content/uploads/2021/08/sfg_logo_white-uai-258x97.png)
+![](https://sustainablefuturesglobal.org/wp-content/uploads/2021/08/sfg_logo_white.png)
 
 ##### Navigate
 
