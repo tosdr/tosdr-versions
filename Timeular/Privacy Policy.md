@@ -170,7 +170,9 @@ PRIVACY POLICY
 9. **Google Data**
     1. Timeular’s use and transfer of information received from Google APls to any other app will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
     2. Timeular does not share any Google user data with third-party tools, including AI models.
-10. **Amendments to this Privacy Policy**
+10. **Android App location data**
+    1. The Timeular app requests access to your device’s background location solely to maintain a continuous Bluetooth connection with the Timeular Tracker, even when the app is running in the background. This permission is required for the app to function correctly with the Tracker, but we do not collect, monitor, or store any location data. This functionality is optional and used only for enhancing the app’s Bluetooth capabilities when connecting with the Tracker.
+11. **Amendments to this Privacy Policy**
     1. Timeular reserves the right to fully or partially modify this Privacy Policy at any time and – subject to legal requirements – in its sole discretion. Please inform yourself periodically about any modifications of this Privacy Policy. The current version of the Privacy Policy will always be available on our website https://timeular.com/ (the “Website”). Registered Customers will be informed about any such modifications via e-mail.
 
 English
