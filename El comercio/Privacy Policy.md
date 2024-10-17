@@ -31,25 +31,163 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-¿La vida es una jungla?
-=======================
+Policía realiza operativos por presunta concusión de agentes de tránsito
+========================================================================
 
-Sea jungla o paraíso, las personas estamos aquí, en este mundo extraño y maravilloso, para vivir y dejar vivir.
----------------------------------------------------------------------------------------------------------------
+En coordinación con Fiscalía, 223 uniformados participaron en allanamientos a inmuebles de Quito, la madrugada de este jueves 17 de octubre
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+![Los uniformados tomaron varias pruebas como uniformes de uso policial, celulares y más.](https://www.elcomercio.com/wp-content/uploads/2024/10/Policia-Quito.jpg)
 
-**El título de este ensayo es una alegoría.** La jungla -también conocida como selva- ha sido calificada en forma peyorativa por literatos y científicos. Y por extensión, **algunos cientistas sociales usan este vocablo para ubicar a la jungla como escenario o burbuja donde se incuban el desorden**, el caos, la miseria y todas las violencias juntas. Esta acepción es una falacia porque muchas veces repetimos sin reparar su significado.
+La **Policía Nacional** realizó, en coordinación con la **Fiscalía Nacional del Estado**, un operativo durante la madrugada de este jueves 17 de octubre de 2024.
 
-**La selva, en estricto sentido, es la depositaria del oxígeno que respiran las plantas, los animales y los humanos**, y que, por obra y desgracia del calentamiento global, produce desequilibrios planetarios: inundaciones, deshielos, sequías, aluviones, apagones y serios trastornos en los bio sistemas.
+### Más noticias
 
-**Los sociólogos interpretan a la ciudad como analogía de la belleza y la armonía, y de lo brutal y salvaje**; es decir, hablan de equilibrios y también de “fisuras” en las relaciones entre las personas, que delatan tipos de sociopatías que deambulan por las calles, plazas y avenidas atestadas de gente y de vehículos que contaminan el ambiente, con humo y ruido, y configuran una **fauna urbana** donde reina la **“ley de la selva”,** literalmente.
+* [Así funciona el Pico y placa en Quito este jueves 17 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-17-de-octubre.html "Así funciona el Pico y placa en Quito este jueves 17 de octubre")
+* [Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre](https://www.elcomercio.com/actualidad/seguridad/ataque-armado-farmacia-quito-saldo-mortal.html "Ataque armado en farmacia de Quito deja saldo mortal, este miércoles 16 de octubre")
+* [Cortes de luz en Cuenca para este jueves 17 de octubre](https://www.elcomercio.com/actualidad/cuenca/cortes-de-luz-en-cuenca-para-este-jueves-17-de-octubre.html "Cortes de luz en Cuenca para este jueves 17 de octubre")
 
-**Para los psicólogos, en cambio, ciertos comportamientos podrían ser considerados como salidas de junglas, a veces impenetrables,** y llenas de dolores -signadas por el sufrimiento, la enfermedad y la muerte-, fuentes de neurosis y psicosis irredentas, o bien expresadas por episodios dulcificantes, como la amistad, el eros y el ágape.
+Allanamientos en Quito
+----------------------
 
-**Esta dialéctica sigue intacta y retrata la existencia de personas, urbes y espacios con sus encantos y prodigios, y también con sus zonas erróneas, desiertas y oscuras**. Los poetas y narradores nutren su imaginación con héroes y heroínas, santos y villanos, a través de personajes salidos de esta jungla misteriosa, que pervive en el interior de cada uno y configura los paisajes literarios en esta trama de ganadores y perdedores, de vencedores y vencidos, de valientes y sufridores.
+Los uniformados ejecutaron varios **allanamientos en inmuebles en la ciudad de Quito**, en el marco de una investigación por **presunta concusión**.
 
-**Sea jungla o paraíso, las personas estamos aquí, en este mundo extraño y maravilloso, para vivir y dejar vivir, y no ser obstáculos para las personas que deseen ser felices a su manera…¡en su madreselva!**
+En el cometimiento de este **presunto delito** estarían involucrados agentes metropolitanos de tránsito.
+
+**223 servidores policiales**, más personal de la Fiscalía participaron en la puesta en marcha de este operativo en Quito.
+
+Los policías pudieron recoge**r algunas evidencias** como:
+
+* Dinero en efectivo
+* Celulares
+* Computadoras
+* Matrículas y licencias de conducir
+* Uniformes de uso policial, entre otras
+
+Estos indicios pasarán a **cadena de custodia** y posteriormente serán presentados como pruebas en los procesos legales que se establezcan.
+
+> 🔴 [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) ||  
+>   
+> OPERATIVO CONTRA EL DELITO DE CONCUSIÓN  
+>   
+> Esta madrugada en coordinación con [@FiscaliaEcuador](https://twitter.com/FiscaliaEcuador?ref_src=twsrc%5Etfw), ejecutamos varios allanamientos en [#UIO](https://twitter.com/hashtag/UIO?src=hash&ref_src=twsrc%5Etfw), en el marco de una investigación por presunta [#concusión](https://twitter.com/hashtag/concusi%C3%B3n?src=hash&ref_src=twsrc%5Etfw), que involucra a varios agentes metropolitanos de tránsito.  
+>   
+> Operativo… [pic.twitter.com/L8M7tgugBO](https://t.co/L8M7tgugBO)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 17, 2024](https://twitter.com/PoliciaEcuador/status/1846855876713369929?ref_src=twsrc%5Etfw)
+
+¿Qué es el delito de concusión?
+-------------------------------
+
+La concusión es un término legal que se refiere a cuando un funcionario público en uso de su cargo, exige o hace pagar a una persona una contribución, o también al cobrar más de lo que le corresponde por las funciones que realiza.
+
+Este delito puede presentar agravantes si se emplea intimidación o si se invoca que son órdenes de un funcionario de mayor jerarquía, y esta exacción es en provecho **[propio](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")**.
+
+​Este delito está tipificado en el Código Integral Penal: Art. 281.- Concusión.- Las o los servidores públicos y las personas que actúen en virtud de una potestad estatal en alguna de las instituciones del Estado, determinadas en la Constitución de la República, sus agentes o dependientes oficiales que abusando de su cargo o funciones, por sí o por medio de terceros, ordenen o exijan la entrega de derechos, cuotas, contribuciones, rentas, intereses, sueldos o gratificaciones no debidas, serán sancionados con pena privativa de libertad de tres a cinco años. Si la conducta prevista en el inciso anterior se realiza mediante violencias o amenazas, la o el servidor público, será sancionado con pena privativa de libertad de cinco a siete años. Tomado del COIP (2014).  
+
+Liam Payne luchó contra uno de los peores enemigos
+==================================================
+
+Liam Payne murió el 16 de octubre de 2024. Su vida estuvo marcada por el éxito y los excesos.
+---------------------------------------------------------------------------------------------
+
+![Liam Payne murió a los 31 años. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo180.jpg)
+
+**Liam Payne**, el exintegrante de la icónica banda británica **One Direction**, falleció trágicamente el pasado miércoles en Buenos Aires, Argentina, tras caer de la tercera planta de un hotel.
+
+Los fans siguen conmocionados. En redes sociales envían muestras de cariño al joven músico.
+
+### **Más noticias:**
+
+* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
+* [Mamá de ‘Diddy’ dice que su hijo no es un ‘monstruo’](https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Content+Link")
+* [Beyoncé perdió millones de seguidores por su conexión con ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html?source=Internal&ref=Single+Content+Link")
+
+**Liam Payne: una vida marcada por el éxito y la tragedia**
+-----------------------------------------------------------
+
+Su llegada al mundo de la **música** ocurrió a través del programa **‘The X Factor’,** donde su carrera se vio afectada por múltiples desafíos personales.
+
+Liam **Payne** se presentó por primera vez al concurso en 2008, a los 14 años, pero fue descartado por su juventud.
+
+> [View this post on Instagram](https://www.instagram.com/p/C30X1H9Mlmh/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Liam Payne (@liampayne)](https://www.instagram.com/p/C30X1H9Mlmh/?utm_source=ig_embed&utm_campaign=loading)
+
+En 2010, regresó y se unió a Harry Styles, Zayn Malik, Niall Horan y Louis Tomlinson, formando **One Direction**, que rápidamente se convirtió en una de las boybands más exitosas de su época.
+
+Durante su carrera, la banda vendió más de 70 millones de discos y estableció récords en la lista Billboard, siendo la primera en debutar con sus primeros cuatro álbumes en el número uno.
+
+**Liam Payne y el lado oscuro de la fama**
+------------------------------------------
+
+A pesar del éxito, **Payne** enfrentó el lado oscuro de la fama. En varias entrevistas, comentó sobre las dificultades de lidiar con el reconocimiento público y los excesos que acompañaron a la vida en el escenario.
+
+“El minibar siempre está ahí”, reflexionó sobre su lucha con el alcohol durante su tiempo en la banda. Tras la disolución de **One Direction** en 2016, **Payne** intentó relanzar su carrera como solista, logrando cierto reconocimiento con temas como Strip That Down y For You.
+
+Sin embargo, su vida personal también estuvo marcada por altibajos, incluyendo su relación con Cheryl Cole, con quien tuvo un hijo y luego se separó.
+
+En los últimos años, **Payne** enfrentó problemas de salud que lo llevaron a ser hospitalizado en dos ocasiones en 2023.
+
+Así funciona el Pico y placa en Quito este jueves 17 de octubre
+===============================================================
+
+Recuerda que en octubre deben matricular autos con placas terminadas en 9. Revisa los horarios del Pico y placa y evita multas
+------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes de tránsito vigilan el cumplimiento de la medida.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-placa-horarios.jpg)
+
+El **pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+### Más noticias
+
+* [Cortes de luz tendrán nuevos horarios las próximas tres semanas](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-tendran-nuevos-horarios-proximas-tres-semanas.html "Cortes de luz tendrán nuevos horarios las próximas tres semanas")
+* [Más de 1 600 especies fueron introducidas en Galápagos](https://www.elcomercio.com/actualidad/ecuador/mas-de-1-600-especies-fueron-introducidas-en-galapagos.html "Más de 1 600 especies fueron introducidas en Galápagos")
+* [El Metro de Quito superó los 43 millones de viajes](https://www.elcomercio.com/actualidad/metro-de-quito-supero-43-millones-de-viajes-operacion.html "El Metro de Quito superó los 43 millones de viajes")
+
+El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales,
+
+El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+
+El esquema de aplicación:
+-------------------------
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** los que finalizan en 3 y 4.
+* **Miércoles:** los de dígitos 5 y 6.
+* **Jueves:** los que tengan 7 y 8.
+* **Viernes:** las placas 9 y 0.
+
+Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
+
+Multas por infringir Pico y placa
+---------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+
+Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+
+Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+
+Matriculación vehicular
+-----------------------
+
+Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de octubre los automotores con placa terminada en 9 deben cumplir con el proceso de matriculación.
+
+También pueden adelantar el trámite los que tienen placa terminada en 0. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Recuerda!  
+> Si la placa de tu vehículo termina en el dígito 9️⃣ octubre es tu mes.  
+>   
+> ✅ Realiza la Revisión Técnica Vehicular y matricula tu automotor. ¡Evita multas!  
+>   
+> 💡 El proceso culmina con el permiso de circulación.  
+>   
+> 💪 Con responsabilidad [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Er6f3k56iD](https://t.co/Er6f3k56iD)
+> 
+> — AMTQuito (@AMT\_Quito) [October 1, 2024](https://twitter.com/AMT_Quito/status/1841206736901795987?ref_src=twsrc%5Etfw)
 
 Hablemos de las Infecciones de Transmisión Sexual en Ecuador
 ============================================================
@@ -74,6 +212,26 @@ Un ejemplo preocupante es Napo, en la [Amazonía ecuatoriana](https://www.elcome
 No hay que olvidar que muchas de las ITS pueden ser tratadas, incluso, en los casos de VIH, los antirretrovirales permiten mantener la carga viral en niveles indetectables, lo que reduce el riesgo de transmisión. Sin embargo, todavía hay personas que mueren porque no reciben tratamiento durante los primeros siete a diez años en que el VIH permanece inactivo. Esto evidencia un fallo en la atención temprana. Además, la transmisión vertical del virus de madre a hijo sigue ocurriendo en Ecuador por la falta de intervenciones médicas oportunas.
 
 Por lo tanto, es urgente que tanto los mayores de 50 años como los jóvenes enfrenten estos temas sin tabúes y se eduquen sobre las ITS. Esto debe ir acompañado de un sistema educativo que refuerce la educación sexual con una visión clara, científica y abierta. Los cambios en los comportamientos sexuales actuales demandan una respuesta a la altura de los tiempos.
+
+¿La vida es una jungla?
+=======================
+
+Sea jungla o paraíso, las personas estamos aquí, en este mundo extraño y maravilloso, para vivir y dejar vivir.
+---------------------------------------------------------------------------------------------------------------
+
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+
+**El título de este ensayo es una alegoría.** La jungla -también conocida como selva- ha sido calificada en forma peyorativa por literatos y científicos. Y por extensión, **algunos cientistas sociales usan este vocablo para ubicar a la jungla como escenario o burbuja donde se incuban el desorden**, el caos, la miseria y todas las violencias juntas. Esta acepción es una falacia porque muchas veces repetimos sin reparar su significado.
+
+**La selva, en estricto sentido, es la depositaria del oxígeno que respiran las plantas, los animales y los humanos**, y que, por obra y desgracia del calentamiento global, produce desequilibrios planetarios: inundaciones, deshielos, sequías, aluviones, apagones y serios trastornos en los bio sistemas.
+
+**Los sociólogos interpretan a la ciudad como analogía de la belleza y la armonía, y de lo brutal y salvaje**; es decir, hablan de equilibrios y también de “fisuras” en las relaciones entre las personas, que delatan tipos de sociopatías que deambulan por las calles, plazas y avenidas atestadas de gente y de vehículos que contaminan el ambiente, con humo y ruido, y configuran una **fauna urbana** donde reina la **“ley de la selva”,** literalmente.
+
+**Para los psicólogos, en cambio, ciertos comportamientos podrían ser considerados como salidas de junglas, a veces impenetrables,** y llenas de dolores -signadas por el sufrimiento, la enfermedad y la muerte-, fuentes de neurosis y psicosis irredentas, o bien expresadas por episodios dulcificantes, como la amistad, el eros y el ágape.
+
+**Esta dialéctica sigue intacta y retrata la existencia de personas, urbes y espacios con sus encantos y prodigios, y también con sus zonas erróneas, desiertas y oscuras**. Los poetas y narradores nutren su imaginación con héroes y heroínas, santos y villanos, a través de personajes salidos de esta jungla misteriosa, que pervive en el interior de cada uno y configura los paisajes literarios en esta trama de ganadores y perdedores, de vencedores y vencidos, de valientes y sufridores.
+
+**Sea jungla o paraíso, las personas estamos aquí, en este mundo extraño y maravilloso, para vivir y dejar vivir, y no ser obstáculos para las personas que deseen ser felices a su manera…¡en su madreselva!**
 
 Cartas a Quito / 17 de octubre de 2024
 ======================================
@@ -147,8 +305,8 @@ En el documento se señala que, este miércoles 16 de octubre, a las 08:00, la c
 
 “Vamos aumentando de centímetro cúbico en centímetro cúbico, pero contentísimo (…) Estamos a **37 metros** de llegar a la **cota máxima**”, dijo.  
 
-Cortes de luz ponen en riesgo el aprendizaje de los estudiantes
-===============================================================
+Sistema educativo enfrenta retos en medio de cortes de luz
+==========================================================
 
 Los efectos de los cortes de luz se sienten en las jornadas de estudiantes.
 ---------------------------------------------------------------------------
@@ -775,128 +933,3 @@ El Gobierno busca el transporte de soluciones móviles de energía en aviones H�
 Mientras, los cortes de luz en Quito y todo el país se mantienen en diez horas, con el anuncio de las empresas eléctricas de que las horas se podrían reducir, dependiendo de las condiciones meteorológicas e hídricas.
 
 A continuación, los cortes de luz en Guayaquil para este jueves:
-
-Ecuador experimenta cambios en los destinos de sus exportaciones
-================================================================
-
-Entre enero y agosto de 2024, las exportaciones no petroleras ni mineras de Ecuador alcanzaron 13 834 millones de dólares, con un crecimiento interanual del 11%.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Las ventas totales de camarón llegaron a 4 684 millones de dólares en los primeros ocho meses del 2024. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/camarones-16.jpg)
-
-Entre enero y agosto de 2024, **Ecuador** vendió **13 834 millones de dólares** en producto no petrolero, no mineros. Estas exportaciones experimentaron un incremento interanual del 11% en los primeros ocho meses del año. En el mismo período del 2023 se vendieron 12 482 millones de dólares[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Las exportaciones de Ecuador ganan espacio en la Unión Europea](https://www.elcomercio.com/actualidad/negocios/las-exportaciones-de-ecuador-ganan-espacio-en-la-union-europea.html "Las exportaciones de Ecuador ganan espacio en la Unión Europea")
-* [Las exportaciones del Ecuador mejoraron en julio de 2024 ¿Cuál es e](https://www.elcomercio.com/actualidad/negocios/exportaciones-ecuador-mejoraron-julio-de-2024-producto-crecio.html "Las exportaciones del Ecuador mejoraron en julio de 2024 ¿Cuál es el producto que más creció?")[l](https://www.elcomercio.com/actualidad/negocios/exportaciones-ecuador-mejoraron-julio-de-2024-producto-crecio.html "Las exportaciones del Ecuador mejoraron en julio de 2024 ¿Cuál es el producto que más creció?") [producto que más creció?](https://www.elcomercio.com/actualidad/negocios/exportaciones-ecuador-mejoraron-julio-de-2024-producto-crecio.html "Las exportaciones del Ecuador mejoraron en julio de 2024 ¿Cuál es el producto que más creció?")
-* [China sufre desaceleración económica, ¿afecta al Ecuador?](https://www.elcomercio.com/actualidad/negocios/china-sufre-desaceleracion-economica-afecta-ecuador.html "China sufre desaceleración económica, ¿afecta al Ecuador?")
-
-Principales destinos de los productos ecuatorianos
---------------------------------------------------
-
-Hasta agosto, la Unión Europea fue el primer destino para la oferta no petrolera no minera del Ecuador. Durante este periodo, las exportaciones no petroleras no mineras al mercado europeo alcanzaron 3 543 millones de dólares. El monto representa un incremento del 35% en comparación con el mismo período del 2023.
-
-**Estados Unidos** es el segundo destino comercial de los productos ecuatorianos, con 2 973 millones de dólares vendidos. Las exportaciones a este destino registraron un incremento del 15%, frente a los mismo meses del 2023.
-
-Mientras que en los primeros ocho meses del año, Ecuador exportó 2 444 millones de dólares a China. El monto significa **21% menos** de lo vendido en el mismo período del 2023. Los principales productos fueron: camarón, banano, alimentos para animales, madera y cacao en grano.
-
-Desde inicios de 2024 los **destinos** para los productos ecuatorianos han sufrido una variación.
-
-Hasta diciembre del 2023, **China** terminó como el principal destino de las exportaciones ecuatorianas. Aunque, según el análisis de la Federación Ecuatoriana de Exportadores (Fedexpor), las ventas al país asiático se estancaron ese año, principalmente por la caída de precios del principal producto de exportación hacia este mercado: **el camarón.**
-
-Exportaciones de camarón
-------------------------
-
-Las exportaciones de camarón hacia China se redujeron. Entre enero y agosto de 2024, Ecuador exportó 4 684 millones de dólares al **país asiático en el crustáceo**. El monto significa una reducción del 6% en comparación con el mismo período del 2023. Mientras que en volumen el aumento fue del 2%.
-
-Es decir, la reducción del precio de camarón es significativa. Según datos de la **Cámara Nacional de Acuacultura** (CNA), el precio promedio por libra fue de 2,22 dólares en los primeros ocho meses de 2024. Mientras que en el mismo período de 2023, el promedio fue de 2,40 dólares por libra.
-
-Según datos publicados por la Aduana de China, las importaciones primarias de productos del mar de China sufrieron una disminución del 11,7% en el primer semestre de 2024, en comparación con el mismo período del 2023.
-
-Así **Unión Europea** se consolida como el principal socio comercial del Ecuador, aunque hay que tomar en cuenta que este bloque agrupa a 27 países.
-
-Y aunque China pasó al tercer lugar como destino de los productos ecuatorianos no petroleros, no mineros sigue siendo muy importante por sus 1 400 millones de potenciales compradores.
-
-Ecuador eliminó a Chile y clasificó a la final del sudamericano sub-15
-======================================================================
-
-Con sufrimiento, Ecuador avanzó a la final del Sudamericano Sub-15
-------------------------------------------------------------------
-
-![Jugadores de la Selección de Ecuador Sub-15 celebrando un gol ante Chile.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-16T181730.831.jpg)
-
-La **Selección de Ecuador sub-15** empató 3-3 ante Chile en las semifinales del **Sudamericano** sub-15, disputadas en Santa Cruz, Bolivia, el 16 de octubre. Sin embargo, en la tanda de penales, gracias a una destacada actuación del guardameta Miguel Peralta, la **‘Tri’ juvenil logró avanzar a la final.**
-
-Este histórico resultado marca la mejor participación de Ecuador en esta categoría, superando el tercer lugar obtenido en el Sudamericano Sub-15 de 2009, también celebrado en Bolivia. Aquella vez, en el equipo destacaron nombres como el de **Junior Sornoza.**
-
-### Más noticias:
-
-* [La Selección de Ecuador sub-15 perdió, pero se clasificó](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-sub15-venezuela-resultado.html "La Selección de Ecuador sub-15 perdió, pero se clasificó")
-* [La Selección de Ecuador sub-15 presentó sus convocados](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-sub15-convocados-sudamericano.html "La Selección de Ecuador sub-15 presentó sus convocados")
-* [Marcelo Bielsa catalogó a la Selección de Ecuador como un rivla difícil](https://www.elcomercio.com/deportes/futbol/marcelo-bielsa-catalogo-seleccion-de-ecuador-como-un-rivla-dificil.html "Marcelo Bielsa catalogó a la Selección de Ecuador como un rivla difícil")
-
-Ecuador disputará su primera final en este torneo y enfrentará al ganador del duelo entre Argentina y Paraguay, que se juega la misma noche del 16 de octubre. La **final está programada para el sábado 19 de octubre** a las 19:30, en el Estadio Ramón Aguilera Costas.
-
-**Ecuador eliminó a Chile y avanzó a la final**
------------------------------------------------
-
-Ecuador comenzó ganando el encuentro con un gol de **Edwin Quintero** a los 13 minutos. Sin embargo, Chile reaccionó y consiguió darle vuelta al marcador antes de finalizar el primer tiempo. La ‘Roja’ empató a los 32 minutos y se adelantó a los 37.
-
-La alegría y euforia de la Selección de Chile fue breve, ya que dos minutos después, **Justin Lerma, el número 10 y figura de la Sub-15 de Ecuador,** empató el encuentro antes del descanso.
-
-Al inicio del segundo tiempo, Ecuador nuevamente salió con fuerza e hizo una anotación de vestidor. A los 46 minutos, el goleador del torneo para la ‘Tri’, **Juan Riquelme Angulo**, puso el 3-2.
-
-El s**ufrimiento llegó en los minutos finales** cuando Chile igualó el marcador, llevando el partido a la definición por penales.
-
-Desde los once pasos, **Miguel Peralta se convirtió en el héroe de la noche**, atajando dos remates que aseguraron la clasificación de Ecuador a la final del Sudamericano Sub-15.
-
-> ¡El primer finalista! 🔝  
->   
-> Ya [@LaTri](https://twitter.com/LaTri?ref_src=twsrc%5Etfw) consiguió su boleto para definir el título en la CONMEBOL [#Sub15](https://twitter.com/hashtag/Sub15?src=hash&ref_src=twsrc%5Etfw) 🇪🇨🏆[#CreeEnGrande](https://twitter.com/hashtag/CreeEnGrande?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gTPkYMOrXd](https://t.co/gTPkYMOrXd)
-> 
-> — CONMEBOL.com (@CONMEBOL) [October 16, 2024](https://twitter.com/CONMEBOL/status/1846690727083876739?ref_src=twsrc%5Etfw)
-
-Parque Samanes de Guayaquil cambia su horario por cortes de luz
-===============================================================
-
-La Alcaldía de Guayaquil explicó que la medida se aplica para precautelar la seguridad de los visitantes.
----------------------------------------------------------------------------------------------------------
-
-![Este extenso espacio verde es uno de los principales puntos elegidos por los guayaquileños para practicar ejercicio al aire libre](https://www.elcomercio.com/wp-content/uploads/2024/10/samanes.jpg)
-
-La Alcaldía de **Guayaquil** informó que el **Parque Samanes**, ubicado en el norte de la ciudad, cambiará sus horarios de acceso al público debido a los **cortes de luz** programados.
-
-La entidad, a través de la Empresa Pública de Parques, Áreas Verdes y Espacios Públicos (**Parques EP**), informó que las puertas del extenso lugar cerrarán a partir de las **18:00**, de este miércoles 16 de octubre de 2024.
-
-### Más noticias
-
-* [Cortes de luz en Guayaquil este miércoles 16 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-miercoles-16-octubre.html "Cortes de luz en Guayaquil este miércoles 16 de octubre")
-* [Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia](https://www.elcomercio.com/actualidad/ecuador/cuerpo-de-bomberos-de-guayaquil-fue-asaltado-mientras-atendia-una-emergencia.html "Cuerpo de Bomberos de Guayaquil fue asaltado mientras atendía una emergencia")
-* [Josué Sánchez, el creador del chop suey de cangrejo y camarón, en Guayaquil](https://www.elcomercio.com/videos/sabores-video/chop-suey-pata-gorda-guayaquil.html "Josué Sánchez, el creador del chop suey de cangrejo y camarón, en Guayaquil")
-
-La medida, que según señaló la empresa “tiene como objetivo precautelar la seguridad de los visitantes” al parque”, se mantendrá **todas las noches** de lunes a domingo, “hasta nuevo aviso”.
-
-En el día, las actividades planificadas en el parque se desarrollan con normalidad, afirmó la entidad.
-
-De igual manera, los eventos programados para este **fin de semana** se mantienen sin cambios de 06:00 a 18:00,
-
-Parque Samanes
---------------
-
-El Área Protegida del Parque Samanes cuenta con **851 hectáreas**, sin embargo, 224 de estas están destinadas para su uso recreacional.
-
-Esta área verde, fundada en **2010**, es uno de los principales puntos de distracción al aire libre para los guayaquileños.
-
-En su interior, tienes **áreas** para ciclovías, senderos para caminata, canchas de futbol, básquet y tenis, áreas de juegos infantiles, zonas de pícnic, y amplios espacios verdes.
-
-Los Samanes está ubicado en el **norte de la ciudad**. Para acceder se pueden tomar varias rutas: la autopista Guayaquil – Daule, la Av. Francisco de Orellana, la Av. Isidro Ayora, o el carretero vía a Daule.
-
-Cortes de luz en Guayaquil
---------------------------
-
-Los apagones programados en Guayaquil se extienden hasta por **10 horas**, al igual que en las otras ciudades del país.
-
-El Gobierno tiene previsto que la suspensión de energía eléctrica llegue hasta **finales de año**, y que para diciembre sean mínimos.
-
-La empresa eléctrica que distribuye el servicio en la capital de Guayas, es la Corporación Nacional de Electricidad (**Cnel**).
