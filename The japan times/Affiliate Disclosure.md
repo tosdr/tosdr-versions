@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
 
+[ASML shares plunge as bookings miss signals chipmaker woes](https://www.japantimes.co.jp/business/2024/10/16/companies/asml-shares-bookings-chipmaker/ "ASML shares plunge as bookings miss signals chipmaker woes")
+
+  [![ASML shares slumped 16% on Tuesday after third-quarter figures were mistakenly released earlier than scheduled.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/427958.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "ASML shares slumped 16% on Tuesday after third-quarter figures were mistakenly released earlier than scheduled.")](https://www.japantimes.co.jp/business/2024/10/16/companies/asml-shares-bookings-chipmaker/ "ASML shares plunge as bookings miss signals chipmaker woes")
+
 [Japan’s sales tax likely to remain 10% as big parties avoid third rail](https://www.japantimes.co.jp/business/2024/10/15/ishiba-sales-tax/ "Japan’s sales tax likely to remain 10% as big parties avoid third rail")
 
   [![Prime Minister Shigeru Ishiba during a debate session with other political party leaders at the Japan National Press Club in Tokyo on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427615.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba during a debate session with other political party leaders at the Japan National Press Club in Tokyo on Saturday")](https://www.japantimes.co.jp/business/2024/10/15/ishiba-sales-tax/ "Japan’s sales tax likely to remain 10% as big parties avoid third rail")
-
-[Ishiba openness to nuke ban treaty involvement puts pact in spotlight](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/japan-pm-ishiba-nuclear-ban-treaty/ "Ishiba openness to nuke ban treaty involvement puts pact in spotlight")
-
-  [![Prime Minister Shigeru Ishiba attends the East Asian Summit in Vientiane, Laos, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427896.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba attends the East Asian Summit in Vientiane, Laos, on Friday.")](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/japan-pm-ishiba-nuclear-ban-treaty/ "Ishiba openness to nuke ban treaty involvement puts pact in spotlight")
 
 Editors' Picks
 --------------
@@ -180,19 +180,19 @@ By [Hannah Beech](https://www.japantimes.co.jp/author/943/hannah-beech/ "Hannah 
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
+[ASML shares plunge as bookings miss signals chipmaker woes](https://www.japantimes.co.jp/business/2024/10/16/companies/asml-shares-bookings-chipmaker/ "ASML shares plunge as bookings miss signals chipmaker woes")
+
+By [Cagan Koc](https://www.japantimes.co.jp/author/4056/cagan-koc/ "Cagan Koc")  
+
+  [![ASML shares slumped 16% on Tuesday after third-quarter figures were mistakenly released earlier than scheduled.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/427958.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "ASML shares slumped 16% on Tuesday after third-quarter figures were mistakenly released earlier than scheduled.")](https://www.japantimes.co.jp/business/2024/10/16/companies/asml-shares-bookings-chipmaker/ "ASML shares plunge as bookings miss signals chipmaker woes")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
 [Japan’s sales tax likely to remain 10% as big parties avoid third rail](https://www.japantimes.co.jp/business/2024/10/15/ishiba-sales-tax/ "Japan’s sales tax likely to remain 10% as big parties avoid third rail")
 
 By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
 
   [![Prime Minister Shigeru Ishiba during a debate session with other political party leaders at the Japan National Press Club in Tokyo on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427615.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba during a debate session with other political party leaders at the Japan National Press Club in Tokyo on Saturday")](https://www.japantimes.co.jp/business/2024/10/15/ishiba-sales-tax/ "Japan’s sales tax likely to remain 10% as big parties avoid third rail")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Ishiba openness to nuke ban treaty involvement puts pact in spotlight](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/japan-pm-ishiba-nuclear-ban-treaty/ "Ishiba openness to nuke ban treaty involvement puts pact in spotlight")
-
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang") and [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![Prime Minister Shigeru Ishiba attends the East Asian Summit in Vientiane, Laos, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427896.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba attends the East Asian Summit in Vientiane, Laos, on Friday.")](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/japan-pm-ishiba-nuclear-ban-treaty/ "Ishiba openness to nuke ban treaty involvement puts pact in spotlight")
 
 Podcast
 -------
@@ -255,21 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan, U.S. and South Korea unveil team to monitor North sanctions](https://www.japantimes.co.jp/news/2024/10/16/japan/north-korea-sanctions-monitor/ "Japan, U.S. and South Korea unveil team to monitor North sanctions")
+[Key lawmakers push to cut off Huawei suppliers from U.S. chip gear](https://www.japantimes.co.jp/business/2024/10/17/tech/huawei-suppliers-us-chip-gear/ "Key lawmakers push to cut off Huawei suppliers from U.S. chip gear")
 
-9 hours ago
+16 mins ago
 
-[Tokyo tax office to sell Ferrari with bids starting at ¥71.3 million](https://www.japantimes.co.jp/news/2024/10/16/japan/tokyo-tax-ferrari/ "Tokyo tax office to sell Ferrari with bids starting at ¥71.3 million")
+[TSMC bulls expect strong results to support record-high shares](https://www.japantimes.co.jp/business/2024/10/17/tech/tsmc-record-high-shares/ "TSMC bulls expect strong results to support record-high shares")
 
-10 hours ago
+28 mins ago
 
-[Rengo to call for pay hikes of 5% or more in 2025](https://www.japantimes.co.jp/business/2024/10/16/rengo-pay-hike/ "Rengo to call for pay hikes of 5% or more in 2025")
+[Georgia judge overturns changes to election rules by pro-Trump Republicans](https://www.japantimes.co.jp/news/2024/10/17/world/politics/georgia-judge-trump-republicans/ "Georgia judge overturns changes to election rules by pro-Trump Republicans")
 
-11 hours ago
+52 mins ago
 
-[Visitors to Japan in January-September top last year's total](https://www.japantimes.co.jp/news/2024/10/16/japan/society/foreign-visitors-september/ "Visitors to Japan in January-September top last year's total")
+[Ishiba sends offering to war-linked Yasukuni Shrine](https://www.japantimes.co.jp/news/2024/10/17/japan/japan-ishiba-yasukuni-shrine/ "Ishiba sends offering to war-linked Yasukuni Shrine")
 
-[JICA staffer suspected of leaking info on Philippines railway project](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
+1 hours ago
+
+[LVMH sales drop as Chinese demand for costly handbags cools](https://www.japantimes.co.jp/business/2024/10/17/companies/lvmh-sales-chinese-demand/ "LVMH sales drop as Chinese demand for costly handbags cools")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
