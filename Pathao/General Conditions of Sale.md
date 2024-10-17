@@ -6,15 +6,15 @@
 
 Days
 
-21
+14
 
 Hours
 
-00
+47
 
 Minutes
 
-57
+52
 
 Seconds
 
@@ -85,6 +85,7 @@ Please read these terms carefully
     * [Pay Later](https://pathao.com/terms-of-service-pay-later/)
     * [Courier C2C](https://pathao.com/terms-of-service-courier-customer-to-customer/)
     * [Pathao Advance](https://pathao.com/terms-of-service-pathao-advance/)
+    * [Pathao Maps](https://pathao.com/terms-and-conditions-pathao-maps/)
 * [Return and Refund Policy](https://pathao.com/shop-return-and-refund-policy/)
 * [Privacy Policy](https://pathao.com/privacy/)
 
