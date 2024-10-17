@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![2 killed, 5 injured in head-on crash in Wise County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/b3c1ded6-f7eb340e-f60b8a48-4dbf119a-8677dd54-d338eb2c-police-lights-1.jpg?ve=1&tl=1)
+ [![With Robert Roberson’s execution hours away, supporters hope desperate measures will spare him](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1)
 
- ![2 killed, 5 injured in head-on crash in Wise County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/b3c1ded6-f7eb340e-f60b8a48-4dbf119a-8677dd54-d338eb2c-police-lights-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-killed-5-injured-head-on-crash-wise-county)
+ ![With Robert Roberson’s execution hours away, supporters hope desperate measures will spare him](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/robert-robersons-execution-hours-away-supporters-hope-desperate-measures-will-spare-him)
 
-### [2 killed, 5 injured in head-on crash in Wise County](https://www.fox4news.com/news/2-killed-5-injured-head-on-crash-wise-county)
+### [With Robert Roberson’s execution hours away, supporters hope desperate measures will spare him](https://www.fox4news.com/news/robert-robersons-execution-hours-away-supporters-hope-desperate-measures-will-spare-him)
 
- [!["Way too drunk": Hotel staff reportedly made 911 call before Liam Payne's death](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-626297592-scaled.jpg?ve=1&tl=1)
+ [![Election 2024: What are the Dallas HERO amendments?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/GettyImages-1227728245.jpg?ve=1&tl=1)
 
- !["Way too drunk": Hotel staff reportedly made 911 call before Liam Payne's death](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-626297592-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/liam-payne-911-call)
+ ![Election 2024: What are the Dallas HERO amendments?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/592/333/GettyImages-1227728245.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/election-2024-dallas-hero-amendments)
 
-### ["Way too drunk": Hotel staff reportedly made 911 call before Liam Payne's death](https://www.fox4news.com/news/liam-payne-911-call)
+### [Election 2024: What are the Dallas HERO amendments?](https://www.fox4news.com/news/election-2024-dallas-hero-amendments)
 
- [![North Carolina starts early in-person voting while recovering from Helene](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/early-voting-north-carolina.jpg?ve=1&tl=1)
+ [![Woman shot, killed inside Lewisville office building](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101724-sky-4-thu-kdfweme002_12_28_02_mpg_00.22.30.30.jpg?ve=1&tl=1)
 
- ![North Carolina starts early in-person voting while recovering from Helene](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/early-voting-north-carolina.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-carolina-early-in-person-voting-helene)
+ ![Woman shot, killed inside Lewisville office building](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101724-sky-4-thu-kdfweme002_12_28_02_mpg_00.22.30.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/woman-shot-killed-inside-lewisville-office-building)
 
-### [North Carolina starts early in-person voting while recovering from Helene](https://www.fox4news.com/news/north-carolina-early-in-person-voting-helene)
+### [Woman shot, killed inside Lewisville office building](https://www.fox4news.com/news/woman-shot-killed-inside-lewisville-office-building)
 
- [![Fire destroys apartments in Las Colinas, residents saved by mother and son](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/kdfwu20_3552_mxf_00.53.30.04.jpg?ve=1&tl=1)
+ [![Hurricane season is nearing the endgame, but what can we expect in its final weeks?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/hurricane1.jpg?ve=1&tl=1)
 
- ![Fire destroys apartments in Las Colinas, residents saved by mother and son](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/kdfwu20_3552_mxf_00.53.30.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fire-destroys-apartments-las-colinas-residents-saved-mother-son)
+ ![Hurricane season is nearing the endgame, but what can we expect in its final weeks?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/hurricane1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/hurricane-season-is-nearing-endgame-what-can-we-expect-its-final-weeks)
 
-### [Fire destroys apartments in Las Colinas, residents saved by mother and son](https://www.fox4news.com/news/fire-destroys-apartments-las-colinas-residents-saved-mother-son)
+### [Hurricane season is nearing the endgame, but what can we expect in its final weeks?](https://www.fox4news.com/weather/hurricane-season-is-nearing-endgame-what-can-we-expect-its-final-weeks)
 
- [![Texas board votes against clemency for a man facing execution in shaken baby syndrome case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1)
+ [![Will Netflix raise prices again? Analysts think so](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/netflix-tv-remote.jpg?ve=1&tl=1)
 
- ![Texas board votes against clemency for a man facing execution in shaken baby syndrome case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-board-votes-against-clemency-man-facing-execution-shaken-baby-syndrome-case)
+ ![Will Netflix raise prices again? Analysts think so](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/netflix-tv-remote.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/will-netflix-raise-prices-again)
 
-### [Texas board votes against clemency for a man facing execution in shaken baby syndrome case](https://www.fox4news.com/news/texas-board-votes-against-clemency-man-facing-execution-shaken-baby-syndrome-case)
+### [Will Netflix raise prices again? Analysts think so](https://www.fox4news.com/news/will-netflix-raise-prices-again)
 
 ###### [News](https://www.fox4news.com/news)
 
