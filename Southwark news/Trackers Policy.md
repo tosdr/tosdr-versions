@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The food bank provides emergency food and hygiene parcels to hundreds of families a week (Pecan)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-e1729095219356-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
+    
+    ### [Peckham food bank upgrades security system following shocking burglary](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
+    
+    [![Southwark Council's cabinet meeting on Tuesday, October 15. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Southwark-Councils-cabinet-meeting-on-Tuesday-October-15.-Image-Southwark-Council-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
+    
+    ### [Southwark to use ‘Uber-style’ bidding system to repair council homes more quickly](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
+    
     [![Benedict O'Looney (centre right) and Andy Savage (right) at the plaque unveiling](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2833-360x180.jpeg)](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
     
     ### [Victorian winery by London Bridge gets plaque celebrating landmark restoration](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
@@ -47,14 +55,6 @@
     [![A computer-generated image of Building OPQ in Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/10/Building-OPQ-Social-Rent-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/housing-provider-chosen-for-338-social-rent-homes-in-bermondsey/)
     
     ### [Housing provider chosen for 338 social rent homes in Bermondsey](https://southwarknews.co.uk/area/bermondsey/housing-provider-chosen-for-338-social-rent-homes-in-bermondsey/)
-    
-    [![Vinegar Yard food court by London Bridge Station. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Vinegar-Yard-food-court-by-London-Bridge-Station.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/borough/man-arrested-for-arson-after-fire-by-london-bridge-station/)
-    
-    ### [Man arrested over alleged attempted arson after fire by London Bridge Station](https://southwarknews.co.uk/area/borough/man-arrested-for-arson-after-fire-by-london-bridge-station/)
-    
-    [![The junction of Mervan Road and Effra Road, Brixton. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-junction-of-Mervan-Road-and-Effra-Road-Brixton.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/brixton-cyclist-killed-in-collision/)
-    
-    ### [Brixton: Cyclist killed in collision](https://southwarknews.co.uk/news/brixton-cyclist-killed-in-collision/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The food bank provides emergency food and hygiene parcels to hundreds of families a week (Pecan)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-e1729095219356-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
+    
+    ### [Peckham food bank upgrades security system following shocking burglary](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
+    
+    [![Southwark Council's cabinet meeting on Tuesday, October 15. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Southwark-Councils-cabinet-meeting-on-Tuesday-October-15.-Image-Southwark-Council-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
+    
+    ### [Southwark to use ‘Uber-style’ bidding system to repair council homes more quickly](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
+    
     [![Benedict O'Looney (centre right) and Andy Savage (right) at the plaque unveiling](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2833-360x180.jpeg)](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
     
     ### [Victorian winery by London Bridge gets plaque celebrating landmark restoration](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
@@ -128,14 +136,6 @@ View All Result
     [![A computer-generated image of Building OPQ in Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/10/Building-OPQ-Social-Rent-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/housing-provider-chosen-for-338-social-rent-homes-in-bermondsey/)
     
     ### [Housing provider chosen for 338 social rent homes in Bermondsey](https://southwarknews.co.uk/area/bermondsey/housing-provider-chosen-for-338-social-rent-homes-in-bermondsey/)
-    
-    [![Vinegar Yard food court by London Bridge Station. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Vinegar-Yard-food-court-by-London-Bridge-Station.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/borough/man-arrested-for-arson-after-fire-by-london-bridge-station/)
-    
-    ### [Man arrested over alleged attempted arson after fire by London Bridge Station](https://southwarknews.co.uk/area/borough/man-arrested-for-arson-after-fire-by-london-bridge-station/)
-    
-    [![The junction of Mervan Road and Effra Road, Brixton. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-junction-of-Mervan-Road-and-Effra-Road-Brixton.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/brixton-cyclist-killed-in-collision/)
-    
-    ### [Brixton: Cyclist killed in collision](https://southwarknews.co.uk/news/brixton-cyclist-killed-in-collision/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -205,12 +205,6 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [10th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
 
-[![An illustration of the development. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/gg-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
-
-### [Seventeen-storey apartment block approved on Rotherhithe roundabout](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
-
-[9th October 2024](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
-
 [![The Den. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Den-generic-1-750x375-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
 
 ### [On this day: Millwall splashed the cash on Brighton youngster](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
@@ -229,7 +223,25 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [11th October 2024](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
 
+[![Tanganga heads the ball away against West Bromwich Albion. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tanganga-72828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
+
+### [‘It has a nice little ring to it’ – Millwall defender pleased with chant](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
+
+[15th October 2024](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
+
 ### Featured Articles
+
+[![The food bank provides emergency food and hygiene parcels to hundreds of families a week (Pecan)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-e1729095219356-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
+
+### [Peckham food bank upgrades security system following shocking burglary](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
+
+[16th October 2024](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
+
+[![Southwark Council's cabinet meeting on Tuesday, October 15. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Southwark-Councils-cabinet-meeting-on-Tuesday-October-15.-Image-Southwark-Council-120x86.png)](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
+
+### [Southwark to use ‘Uber-style’ bidding system to repair council homes more quickly](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
+
+[16th October 2024](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
 
 [![Benedict O'Looney (centre right) and Andy Savage (right) at the plaque unveiling](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2833-120x86.jpeg)](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
 
@@ -255,18 +267,6 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 ### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
 [15th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
-
-[![Police responding to an incident in Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-06-at-11.41.35-e1728900286598-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
-
-### [Burgess Park crime ‘spiralling’ say campaigners in call for action](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
-
-[15th October 2024](https://southwarknews.co.uk/area/camberwell/burgess-park-crime-spiralling-say-campaigners-in-call-for-action/)
-
-[![L: Tyler Wellsted by the mural; R: Jesse Lloyd-Smith.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-14-10-2024-at-13.54-120x86.jpg)](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
-
-### [Heartfelt mural unveiled for Jesse Lloyd-Smith three months after he was killed in Peckham](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
-
-[14th October 2024](https://southwarknews.co.uk/area/peckham/heartfelt-mural-unveiled-for-jesse-lloyd-smith-three-months-after-he-was-killed-in-peckham/)
 
 ### USEFUL PAGES
 
