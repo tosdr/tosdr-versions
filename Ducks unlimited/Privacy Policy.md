@@ -227,7 +227,7 @@ Privacy Policy
 
 [**Click here for our Donor Privacy policy.**](https://www.ducks.org/about-ducks-unlimited/privacy-policy/donor-privacy-policy "Donor Privacy Policy")
 
-_Updated June 1, 2021_
+_Updated October 17, 2024_
 
 It is important for you to know the Privacy Policy (the "Policy") of Ducks Unlimited, Inc. ("DU") before interacting with DU, including using any feature of [www.ducks.org](https://www.ducks.org/) or any of its affiliated sites, apps and platforms including social media (collectively, the "Web Site"). DU takes your privacy seriously and wants you to know what information is being collected and how it may be used, stored and shared by DU. By using the Web Site or otherwise providing Personal Information (defined below), you indicate your consent to the collection and use of information as outlined in the Policy. Please take a few minutes to read this Policy.
 
@@ -278,6 +278,8 @@ Additionally, DU may collect other information that does not qualify as Personal
 **4\. Sharing information**
 
 DU reserves the right to use, distribute, sell, rent and share all of the information it gathers through the Web Site, including Personal Information, for any and all purposes. Without limiting the foregoing, DU routinely uses the information for its own marketing, promotional and membership activities; DU also shares the information with its corporate partners and with interested third parties, who may use the information for their own sales, marketing and promotional activities, and who may have privacy policies that differ from DU's. However, DU does not share member e-mail addresses or Mobile Opt.
+
+DU will not share your opt-in to an SMS campaign with any third party for purposes unrelated to providing you with the services of that campaign. We may share your Personal Data, including your SMS opt-in or consent status, with third parties that help us provide our messaging services, including but not limited to platform providers, phone companies, and any other vendors who assist us in the delivery of text messages.
 
 DU will provide Personal Information about you in response to a subpoena, a statute, a court order or a valid legal process. In addition, DU may reveal Personal Information about you to a third person in order to protect the personal safety of DU's members, employees or the public.
 
