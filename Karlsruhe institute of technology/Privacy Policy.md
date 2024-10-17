@@ -148,6 +148,7 @@
         * [Thanusha Santhakumar](https://secuso.aifb.kit.edu/english/Staff_2723.php)
         * [Leonie Schmidt-Enke](https://secuso.aifb.kit.edu/english/Staff_2161.php)
         * [Patrick Schneider](https://secuso.aifb.kit.edu/english/Staff_2214.php)
+        * [Silja Schneider](https://secuso.aifb.kit.edu/english/Staff_2784.php)
         
     
 * [Research](https://secuso.aifb.kit.edu/english/Research.php)
