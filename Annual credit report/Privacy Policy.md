@@ -285,13 +285,6 @@ Last Updated: 8/17/2016
 
 [Back to top](#top)
 
-  
-  
-  
-
-* [Previous](https://www.annualcreditreport.com/security.action)
-* [Next](https://www.annualcreditreport.com/termsOfUse.action)
-
 * [About this site](https://www.annualcreditreport.com/aboutThisSite.action)
 * [Accessibility](https://www.annualcreditreport.com/accessibility.action)
 * [Privacy](https://www.annualcreditreport.com/privacy.action)
