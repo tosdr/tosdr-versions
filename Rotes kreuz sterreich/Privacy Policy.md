@@ -1,4 +1,4 @@
-* [Zum Inhalt Zugriffstaste \[1\]](https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung?fbclid=IwZXh0bgNhZW0CMTEAAR2FGL1b3yAPLmECDI00av_y9fMEjqiao8TWhwCadonmEdmoWlAdTpAT1RQ_aem_UZAew7oN21sFvmyCP9kyYQ#content)
+* [Zum Inhalt Zugriffstaste \[1\]](https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung#content)
 
 Notruf 144
 
@@ -459,6 +459,6 @@ Bei der Anmeldung trat ein Fehler auf, bitte wenden sie sich an service@roteskre
 
 [Zum Seitenanfang](# "Ganz nach oben scrollen")
 
-[](https://www.facebook.com/sharer/sharer.php?u=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung?fbclid=IwZXh0bgNhZW0CMTEAAR2FGL1b3yAPLmECDI00av_y9fMEjqiao8TWhwCadonmEdmoWlAdTpAT1RQ_aem_UZAew7oN21sFvmyCP9kyYQ "Aktuelle Seite auf Facebook teilen")[](fb-messenger://share/?link=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung?fbclid=IwZXh0bgNhZW0CMTEAAR2FGL1b3yAPLmECDI00av_y9fMEjqiao8TWhwCadonmEdmoWlAdTpAT1RQ_aem_UZAew7oN21sFvmyCP9kyYQ "Aktuelle Seite per Messenger teilen")[](https://twitter.com/share?url=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung?fbclid=IwZXh0bgNhZW0CMTEAAR2FGL1b3yAPLmECDI00av_y9fMEjqiao8TWhwCadonmEdmoWlAdTpAT1RQ_aem_UZAew7oN21sFvmyCP9kyYQ "Aktuelle Seite twittern")[](https://telegram.me/share/url?url=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung?fbclid=IwZXh0bgNhZW0CMTEAAR2FGL1b3yAPLmECDI00av_y9fMEjqiao8TWhwCadonmEdmoWlAdTpAT1RQ_aem_UZAew7oN21sFvmyCP9kyYQ "Aktuelle Seite per Telegram teilen")[](whatsapp://send?text=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung?fbclid=IwZXh0bgNhZW0CMTEAAR2FGL1b3yAPLmECDI00av_y9fMEjqiao8TWhwCadonmEdmoWlAdTpAT1RQ_aem_UZAew7oN21sFvmyCP9kyYQ "Aktuelle Seite per WhatsApp teilen")
+[](https://www.facebook.com/sharer/sharer.php?u=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung "Aktuelle Seite auf Facebook teilen")[](fb-messenger://share/?link=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung "Aktuelle Seite per Messenger teilen")[](https://twitter.com/share?url=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung "Aktuelle Seite twittern")[](https://telegram.me/share/url?url=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung "Aktuelle Seite per Telegram teilen")[](whatsapp://send?text=https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung "Aktuelle Seite per WhatsApp teilen")
 
  [Link kopieren](#)
