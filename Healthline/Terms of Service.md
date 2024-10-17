@@ -190,21 +190,19 @@
 
 Subscribe
 
-[#### Black Health](https://www.healthline.com/black-health)
+[#### Skin Care](https://www.healthline.com/skincare)
 
-* Conditions
-    
-    * [Cancer](https://www.healthline.com/black-health/cancer)
-    * [Diabetes](https://www.healthline.com/black-health/diabetes-resources)
-    * [Sickle Cell](https://www.healthline.com/black-health/sickle-cell)
-    * [Other Conditions](https://www.healthline.com/black-health/chronic-conditions)
-    
-* [Heart Health](https://www.healthline.com/black-health/black-heart-health)
-* [Mental Health](https://www.healthline.com/black-health/black-mental-health)
-* [Maternal Health](https://www.healthline.com/black-health/black-maternal-health)
-* [Black Skin](https://www.healthline.com/black-health/black-skin)
-* [Nutrition & Fitness](https://www.healthline.com/black-health/nutrition-fitness)
-* [Advocacy & Equity](https://www.healthline.com/black-health/advocacy)
+* [Your Skin](https://www.healthline.com/skincare/skin-youre-in)
+* [Science](https://www.healthline.com/skincare/skin-science)
+* [Ingredients](https://www.healthline.com/skincare/ingredients)
+* [Routine](https://www.healthline.com/skincare/build-your-routine)
+* [Acne](https://www.healthline.com/skincare/acne)
+* [Conditions](https://www.healthline.com/skincare/conditions-and-concerns)
+* [Procedures](https://www.healthline.com/skincare/procedures)
+* [Products](https://www.healthline.com/skincare/products)
+* [Sun Protection](https://www.healthline.com/skincare/sun-protection)
+* [Natural](https://www.healthline.com/skincare/natural-and-diy)
+* [Hair & Nails](https://www.healthline.com/skincare/hair-and-nails)
 
 Terms of Use
 ============
