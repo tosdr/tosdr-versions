@@ -205,26 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Children's Books](https://www.somethingawful.com/photoshop-phriday/childrens-books/1/)
-* [Magazine Mayhem 3 (Part One)](https://www.somethingawful.com/photoshop-phriday/magazine-mayhem3/1/)
-* [Techwank: Only the Most Infuriating Upcoming Tech Headlines](https://www.somethingawful.com/news/annoying-tech-headlines/)
-* [We're Bringing Sexy Back](https://www.somethingawful.com/great-goon-database/great-goon-sexy/1/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [Awful Food and Drink](https://www.somethingawful.com/comedy-goldmine/awful-food-drink/1/)
+* [Battlespace](https://www.somethingawful.com/movie-reviews/battlespace/1/)
+* [Old Games On New TVs: PS2, OSSC, and Retro Gaming Cables](https://www.somethingawful.com/video-game-article/ps2-ossc-cable/)
+* [The Hobbit: The Desolation of Smaug; Saving Mr. Banks; Blue is the Warmest Color](https://www.somethingawful.com/current-movie-reviews/hobbit-desolation-smaug/1/)
+* [No one spergs like Gaston!](https://www.somethingawful.com/awfulvision/icp-gaston-paint/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Thinking about replacing all the dishes in my house with custard cups](http://forums.somethingawful.com/showthread.php?threadid=4072806 "Thinking about replacing all the dishes in my house with custard cups")
-* ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [Singer Liam Payne fell One Direction (down) off a hotel balcony and died](http://forums.somethingawful.com/showthread.php?threadid=4072830 "Singer Liam Payne fell One Direction (down) off a hotel balcony and died")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/movies.png) [In Alien Romulus](http://forums.somethingawful.com/showthread.php?threadid=4072809 "In Alien Romulus")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) ["World's/international <thing no one cares about> day" ideas](http://forums.somethingawful.com/showthread.php?threadid=4072795 ""World's/international <thing no one cares about> day" ideas")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/movies.png) [In Alien Romulus](http://forums.somethingawful.com/showthread.php?threadid=4072809 "In Alien Romulus")
+* ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [Singer Liam Payne fell One Direction (down) off a hotel balcony and died](http://forums.somethingawful.com/showthread.php?threadid=4072830 "Singer Liam Payne fell One Direction (down) off a hotel balcony and died")
+* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Thinking about replacing all the dishes in my house with custard cups](http://forums.somethingawful.com/showthread.php?threadid=4072806 "Thinking about replacing all the dishes in my house with custard cups")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [iTT WE'RE MF ROACHES](http://forums.somethingawful.com/showthread.php?threadid=4072858 "iTT WE'RE MF ROACHES")
 
 ### Random Articles
 
-* [Fashion Forum, MovieCodec, and TeenHavon](https://www.somethingawful.com/weekend-web/fashion-forum-moviecodec/1/)
-* [Outdated GPS Devices: Where Are They Now?](https://www.somethingawful.com/news/gps-where-now/)
-* [Guff Hamham](https://www.somethingawful.com/flash-tub/guff-hamham-cartoon/)
-* [The Least Essential Wikipedia Pages](https://www.somethingawful.com/comedy-goldmine/worthless-wikipedia-pages/1/)
-* [Facebook's Latest Censorship Guidelines Revealed](https://www.somethingawful.com/feature-articles/facebook-zuckerberg-abuse/)
+* [Embarrassing Injuries](https://www.somethingawful.com/comedy-goldmine/embarrassing-injuries-goons/1/)
+* [My Home in the Land Called Internet](https://www.somethingawful.com/news/my-home-land/)
+* [VOICE Hotline Transcript #121445](https://www.somethingawful.com/news/immigration-phone-complaint/)
+* [Google Future - Obama Supreme](https://www.somethingawful.com/news/president-barack-obama/1/)
+* [Let's Play CARTOONS #1](https://www.somethingawful.com/flash-tub/lets-play-cartoons/)
 
 [Random!](https://www.somethingawful.com/random/)
 
