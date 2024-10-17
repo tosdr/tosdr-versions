@@ -190,14 +190,14 @@
 
 Subscribe
 
-[#### Sexual Health](https://www.healthline.com/sexual-health)
+[#### Fitness](https://www.healthline.com/fitness)
 
-* [Birth control](https://www.healthline.com/sexual-health/birth-control)
-* [STIs](https://www.healthline.com/sexual-health/sexually-transmitted-infections)
-* [HIV](https://www.healthline.com/sexual-health/hiv-aids)
-* [HSV](https://www.healthline.com/sexual-health/oral-genital-herpes)
-* [Activity](https://www.healthline.com/sexual-health/sexual-activity)
-* [Relationships](https://www.healthline.com/sexual-health/relationships-intimacy)
+* [Exercise](https://www.healthline.com/fitness/exercise)
+* [Cardio](https://www.healthline.com/fitness/cardio)
+* [Products](https://www.healthline.com/fitness/products)
+* [Strength Training](https://www.healthline.com/fitness/strength-training)
+* [Yoga](https://www.healthline.com/fitness/yoga)
+* [Holistic Fitness](https://www.healthline.com/fitness/holistic-fitness)
 
 Terms of Use
 ============
