@@ -23,6 +23,7 @@
         * [Design and Printing](https://www.filamentservices.org/design-printing/)
         * [Video Production](https://www.filamentservices.org/video-production/)
         * [Website CMS](https://www.filamentservices.org/websites/)
+    * [Marketing Strategy](https://www.filamentservices.org/marketing-strategy/)
     * [Strategic Planning](https://www.filamentservices.org/strategic-planning/)
     * [Payroll+Bookkeeping](https://www.filamentservices.org/payrollbookkeeping/)
     * [Managed IT Services](https://www.filamentservices.org/managed-it-services/)
@@ -98,6 +99,7 @@ Lincoln, NE 68508
 
 * [Payroll and Bookkeeping](https://www.filamentservices.org/payrollbookkeeping/)
 * [Strategic Planning](https://www.filamentservices.org/strategic-planning/)
+* [Marketing Strategy](https://www.filamentservices.org/marketing-strategy/)
 * [Branding Services](https://www.filamentservices.org/branding-services/)
 * [Design and Printing](https://www.filamentservices.org/design-printing/)
 * [Website CMS](https://www.filamentservices.org/websites/)
