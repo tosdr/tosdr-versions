@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/4148-w-26th-326x245.jpg)](https://cwbchicago.com/2024/10/man-dead-woman-injured-in-little-village-restaurant-shooting.html "Man dead, woman injured in Little Village restaurant shooting")
+
+Little Village
+
+### [Man dead, woman injured in Little Village restaurant shooting](https://cwbchicago.com/2024/10/man-dead-woman-injured-in-little-village-restaurant-shooting.html "Man dead, woman injured in Little Village restaurant shooting")
+
+[October 15, 2024 6:29 AM](https://cwbchicago.com/2024/10)
+
+A man is dead and a woman injured after two gunmen opened fire on a late-night restaurant in Little Village, Chicago police said.[](https://cwbchicago.com/2024/10/man-dead-woman-injured-in-little-village-restaurant-shooting.html "Man dead, woman injured in Little Village restaurant shooting")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Kimberly-Hall-326x245.jpg)](https://cwbchicago.com/2024/10/british-woman-busted-with-90-pounds-of-cocaine-at-ohare-is-stupid-but-not-a-drug-smuggler-father-says.html "British woman busted with 90 pounds of cocaine at O’Hare is ‘stupid’ but not a drug smuggler, father says")
+
+O'Hare
+
+### [British woman busted with 90 pounds of cocaine at O’Hare is ‘stupid’ but not a drug smuggler, father says](https://cwbchicago.com/2024/10/british-woman-busted-with-90-pounds-of-cocaine-at-ohare-is-stupid-but-not-a-drug-smuggler-father-says.html "British woman busted with 90 pounds of cocaine at O’Hare is ‘stupid’ but not a drug smuggler, father says")
+
+[October 14, 2024 9:55 AM](https://cwbchicago.com/2024/10)
+
+A British woman allegedly caught carrying more than 90 pounds of cocaine in her luggage at O’Hare International Airport is “stupid,” but she’s not a drug smuggler, according to her father.[](https://cwbchicago.com/2024/10/british-woman-busted-with-90-pounds-of-cocaine-at-ohare-is-stupid-but-not-a-drug-smuggler-father-says.html "British woman busted with 90 pounds of cocaine at O’Hare is ‘stupid’ but not a drug smuggler, father says")
+
 [![](https://cwbchicago.com/wp-content/uploads/2023/01/Canada-Goose-800-north-michigan-326x245.jpg)](https://cwbchicago.com/2024/10/smash-and-grab-crew-hits-canada-goose-on-the-mag-mile.html "Smash-and-grab crew hits Canada Goose on the Mag Mile")
 
 Magnificent Mile
@@ -252,26 +272,6 @@ Magnificent Mile
 [October 14, 2024 7:36 AM](https://cwbchicago.com/2024/10)
 
 In a definite sign that winter is on the way, a crash-and-grab burglary crew broke into the Canada Goose store on the Magnificent Mile overnight.[](https://cwbchicago.com/2024/10/smash-and-grab-crew-hits-canada-goose-on-the-mag-mile.html "Smash-and-grab crew hits Canada Goose on the Mag Mile")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/north-lasalle-citizen-326x245.jpg)](https://cwbchicago.com/2024/10/1-in-custody-after-cop-shoots-at-fleeing-suspects-vehicle-in-old-town.html "1 in custody after cop shoots at fleeing suspect’s vehicle in Old Town")
-
-Old Town
-
-### [1 in custody after cop shoots at fleeing suspect’s vehicle in Old Town](https://cwbchicago.com/2024/10/1-in-custody-after-cop-shoots-at-fleeing-suspects-vehicle-in-old-town.html "1 in custody after cop shoots at fleeing suspect’s vehicle in Old Town")
-
-[October 14, 2024 7:21 AM](https://cwbchicago.com/2024/10)
-
-Officers investigating a woman’s 911 call, claiming she was unsafe in a vehicle with people who had four guns, fired shots at a suspect’s car and later arrested a person in Old Town on Sunday evening. No injuries from gunfire were reported.[](https://cwbchicago.com/2024/10/1-in-custody-after-cop-shoots-at-fleeing-suspects-vehicle-in-old-town.html "1 in custody after cop shoots at fleeing suspect’s vehicle in Old Town")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/4900-block-north-sheridan-map-326x245.jpg)](https://cwbchicago.com/2024/10/3-gunmen-open-fire-near-uptown-park-injuring-2.html "3 gunmen open fire near Uptown park, injuring 2")
-
-Uptown
-
-### [3 gunmen open fire near Uptown park, injuring 2](https://cwbchicago.com/2024/10/3-gunmen-open-fire-near-uptown-park-injuring-2.html "3 gunmen open fire near Uptown park, injuring 2")
-
-[October 14, 2024 6:46 AM](https://cwbchicago.com/2024/10)
-
-Three gunmen fired more than 20 rounds near an Uptown park on Sunday evening, leaving two men injured.[](https://cwbchicago.com/2024/10/3-gunmen-open-fire-near-uptown-park-injuring-2.html "3 gunmen open fire near Uptown park, injuring 2")
 
 Search
 
