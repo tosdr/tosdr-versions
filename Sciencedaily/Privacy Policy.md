@@ -208,6 +208,8 @@ this hour
 
 * * *
 
+* [Planets Sending Radio Signals to Each Other?](https://www.sciencedaily.com/releases/2024/10/241016115910.htm)
+* [Sun: Maximum Phase in 11-Year Solar Cycle](https://www.sciencedaily.com/releases/2024/10/241015183526.htm)
 * [Toward Fully 3D-Printed Active Electronics](https://www.sciencedaily.com/releases/2024/10/241015141022.htm)
 * [Liftoff! NASA's Europa Clipper](https://www.sciencedaily.com/releases/2024/10/241014145904.htm)
 * [Mysterious Heating of the Sun's Atmosphere](https://www.sciencedaily.com/releases/2024/10/241011141015.htm)
@@ -216,8 +218,6 @@ this hour
 * [High-Speed Printable Circuits: Next-Gen Displays](https://www.sciencedaily.com/releases/2024/10/241010142542.htm)
 * [Single-Atom Editing Tech Developed](https://www.sciencedaily.com/releases/2024/10/241011141546.htm)
 * [Electron 'Pinball' in Space After Lightning](https://www.sciencedaily.com/releases/2024/10/241010142536.htm)
-* [Playing Songs to Darwin's Finches: New Species](https://www.sciencedaily.com/releases/2024/10/241010142532.htm)
-* [New Tech Improves Structural Strength](https://www.sciencedaily.com/releases/2024/10/241009215431.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
-
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
-[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
+[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
+
+[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Sun](https://www.sciencedaily.com/news/space_time/sun/)
+[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
-[Solar Flare](https://www.sciencedaily.com/news/space_time/solar_flare/)
+[Sun](https://www.sciencedaily.com/news/space_time/sun/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Extinction](https://www.sciencedaily.com/news/plants_animals/extinction/)
+[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
 
-[Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
-[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
+[Air Pollution](https://www.sciencedaily.com/news/earth_climate/air_pollution/)
 
   
 
