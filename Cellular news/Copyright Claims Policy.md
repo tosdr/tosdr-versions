@@ -225,8 +225,8 @@ Search for:
 
 Latest Articles
 
+* [Tips for Business Blogging Boost Traffic 038 Lead Gen](https://cellularnews.com/guides/tips-for-business-blogging-boost-traffic-lead-gen/)
 * [Logical Operators Explained for R Programmers](https://cellularnews.com/guides/logical-operators-explained-for-r-programmers/)
-* [Billing Systems for Telecommunications](https://cellularnews.com/connectivity-and-networking/telecommunications/billing-systems-for-telecommunications/)
 
 ### DIGITAL MILLENNIUM COPYRIGHT ACT
 
