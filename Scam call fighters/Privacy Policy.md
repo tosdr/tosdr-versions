@@ -314,7 +314,7 @@ Xem thêm: [Những trận đấu đỉnh cao sẽ ghi dấu trong lịch sử 
 
 [![Saoke](/themes/colatv/assets/image/Logo_white_cola.png?r=1)](http://www.scamcallfighters.com/ "Saoke")
 
-Giới thiệu trang phunucodon.me - Saoke(\*\*\*.0.57). Saoke TV - Trang web xem bóng đá trực tiếp Saoke tốc độ cao mang đến cảm giác thoải mái cho anh em. Tại sao ke tv cung cấp link trực tiếp bóng đá chất lượng cao. An tâm tận hưởng thể thao hoàn toàn miễn phí saoke tv.
+Giới thiệu trang phunucodon.me - Saoke. Saoke TV - Trang web xem bóng đá trực tiếp Saoke tốc độ cao mang đến cảm giác thoải mái cho anh em. Tại sao ke tv cung cấp link trực tiếp bóng đá chất lượng cao. An tâm tận hưởng thể thao hoàn toàn miễn phí saoke tv.
 
 .
 
