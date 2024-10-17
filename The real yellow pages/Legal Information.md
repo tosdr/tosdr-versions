@@ -1,4 +1,4 @@
-![](https://c.ypcdn.com/2/p/webyp?ptid=www.yellowpages.com&rid=webyp-4117c703-1f6f-4d50-8964-847566d4bec7&vrid=b267555a-3c71-4d40-9754-cafcfcd4430a)
+![](https://c.ypcdn.com/2/p/webyp?ptid=www.yellowpages.com&rid=webyp-d840b4ff-b58d-42d7-991a-cac22af3ece2&vrid=fbb5bf52-23d6-44a9-9575-f2aef4fb3321)
 
 [![The Real Yellow Pages logo](//i3.ypcdn.com/ypu/images/svgs/mobile_yp_logo.svg?338d183)![The Real Yellow Pages logo](//i4.ypcdn.com/ypu/images/svgs/yp.svg?338d183)](https://www.yellowpages.com/)
 
