@@ -4,15 +4,15 @@ Looks like you have Javascript turned off! Please enable it to improve your brow
 
 [Skip to main content](#main-content)
 
-The best of Oktane in 45 minutes
+Get the Key Takeaways from dev\_day(24) + Oktane
 
-The best of Oktane in 45 minutes
+Get the Key Takeaways from dev\_day(24) + Oktane
 
-[Register now](https://pages.okta.com/2024-11-WBN-Best-of-Oktane_LP.html)
+[Register now](https://pages.okta.com/2024-11-WBN-Best-of-Dev-Day_LP/)
 
-[Register now](https://pages.okta.com/2024-11-WBN-Best-of-Oktane_LP.html)
+[Register now](https://pages.okta.com/2024-11-WBN-Best-of-Dev-Day_LP/)
 
-[The best of Oktane in 45 minutes](https://pages.okta.com/2024-11-WBN-Best-of-Oktane_LP.html)
+[Get the Key Takeaways from dev\_day(24) + Oktane](https://pages.okta.com/2024-11-WBN-Best-of-Dev-Day_LP/)
 
 [+1 (800) 425-1267](tel:+1-800-425-1267)
 
