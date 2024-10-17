@@ -515,6 +515,8 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Werbung
@@ -815,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
+* [Schnelle Maßnahmen zum Dämmen: Folien spannen, Nischen abdichten](https://www.test.de/Schnelle-Massnahmen-zum-Daemmen-Folien-spannen-Nischen-abdichten-5930937-0/ "Schnelle Maßnahmen zum Dämmen - Folien spannen, Nischen abdichten")
+* [Tipps zur Rabatt­schlacht: Black Friday Angebote – Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday Angebote – Ruhe bewahren und clever shoppen")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
 * [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
 
 Fußbereich
 
@@ -2435,6 +2437,8 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Werbung
@@ -2845,6 +2849,8 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Werbung
@@ -3290,6 +3296,8 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Über unsere Internetseite können Sie einen kostenfreien Newsletter abonnieren.
@@ -3303,6 +3311,8 @@ Rechts­grund­lage für die Verarbeitung der im Zusammen­hang mit der Bestellu
 Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
+
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -3849,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
+* [Schnelle Maßnahmen zum Dämmen: Folien spannen, Nischen abdichten](https://www.test.de/Schnelle-Massnahmen-zum-Daemmen-Folien-spannen-Nischen-abdichten-5930937-0/ "Schnelle Maßnahmen zum Dämmen - Folien spannen, Nischen abdichten")
+* [Tipps zur Rabatt­schlacht: Black Friday Angebote – Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday Angebote – Ruhe bewahren und clever shoppen")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
 * [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
 
 Weitere spannende Themen
 
@@ -3869,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
+* [Schnelle Maßnahmen zum Dämmen: Folien spannen, Nischen abdichten](https://www.test.de/Schnelle-Massnahmen-zum-Daemmen-Folien-spannen-Nischen-abdichten-5930937-0/ "Schnelle Maßnahmen zum Dämmen - Folien spannen, Nischen abdichten")
+* [Tipps zur Rabatt­schlacht: Black Friday Angebote – Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday Angebote – Ruhe bewahren und clever shoppen")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
 * [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
 
 Neueste Tests
 
@@ -3887,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
+* [Schnelle Maßnahmen zum Dämmen: Folien spannen, Nischen abdichten](https://www.test.de/Schnelle-Massnahmen-zum-Daemmen-Folien-spannen-Nischen-abdichten-5930937-0/ "Schnelle Maßnahmen zum Dämmen - Folien spannen, Nischen abdichten")
+* [Tipps zur Rabatt­schlacht: Black Friday Angebote – Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday Angebote – Ruhe bewahren und clever shoppen")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
 * [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
 
 Service Stiftung Warentest
 
