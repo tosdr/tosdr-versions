@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
-* [Alabama’s Randy Owen To Be Recognized...](https://classiccountrymusic.com/alabamas-randy-owen-to-be-recognized-with-bmi-icon-award/)
-* [Flashback: Tammy Wynette Performs Her First...](https://classiccountrymusic.com/flashback-tammy-wynette-performs-her-first-1-song-i-dont-wanna-play-house/)
-* [Reba Shares The Key To Her...](https://classiccountrymusic.com/reba-shares-the-key-to-her-happy-relationship-with-rex-linn-i-have-his-back-and-he-has-mine/)
+* [Randy Travis Surprises Crowd With Tear-Jerking...](https://classiccountrymusic.com/randy-travis-surprises-crowd-with-tear-jerking-amazing-grace-performance/)
+* [1972: Loretta Lynn Became The First...](https://classiccountrymusic.com/1972-loretta-lynn-became-the-first-woman-to-win-cma-entertainer-of-the-year/)
+* [Reba Surprises Her “Happy’s Place” Co-Stars...](https://classiccountrymusic.com/reba-surprises-her-happys-place-co-stars-with-the-shows-theme-song/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
