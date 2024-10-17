@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/lets-learn-about-country-music/)
+ [](https://schoolsmusicmarket.com/product/music-math-scavenger-hunt/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/classroom-decor-music-labels-pack/)
+ [](https://schoolsmusicmarket.com/product/auditioning-for-music-soft-skills-for-auditions-presentation-learning-activity-resources-and-lesson-plan/)
 
 ###### Browse By Year/Grade
 
