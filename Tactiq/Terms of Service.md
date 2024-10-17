@@ -209,7 +209,7 @@ The use of the Services is done at your own discretion and risk and with the agr
 
 ###### Discover  
 
-[AI Tools](https://tactiq.io/ai-tools)[Translate](https://tactiq.io/translate)[Transcribe](https://tactiq.io/transcribe)[Audio To Text](https://tactiq.io/audio-to-text)[Video To Text](https://tactiq.io/video-to-text)[Speech To Text](https://tactiq.io/speech-to-text)
+[AI Tools](https://tactiq.io/ai-tools)[Translate](https://tactiq.io/translate)[Transcribe](https://tactiq.io/transcribe)[Audio To Text](https://tactiq.io/audio-to-text)[Video To Text](https://tactiq.io/video-to-text)[Speech To Text](https://tactiq.io/speech-to-text)[Comparisons](https://tactiq.io/comparisons)
 
 ###### Useful  
 
