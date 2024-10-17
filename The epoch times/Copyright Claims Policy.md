@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Harris Fields Tough Questions in Fox News Interview](https://www.theepochtimes.com/us/harris-fields-tough-questions-in-fox-news-interview-5742725)
+* [Biden to Focus on Ukraine War and Other International Challenges in Germany Visit](https://www.theepochtimes.com/world/biden-to-focus-on-ukraine-war-and-other-international-challenges-in-germany-visit-5742701)
     
-    1hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![Harris Fields Tough Questions in Fox News Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden to Focus on Ukraine War and Other International Challenges in Germany Visit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Fields Tough Questions in Fox News Interview](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742800-Harris-Fox-News-205x123.png.webp)](https://www.theepochtimes.com/us/harris-fields-tough-questions-in-fox-news-interview-5742725)
+    ![Biden to Focus on Ukraine War and Other International Challenges in Germany Visit](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742885-Olaf-Scholz-Biden-205x123.jpg)](https://www.theepochtimes.com/world/biden-to-focus-on-ukraine-war-and-other-international-challenges-in-germany-visit-5742701)
+* [Raytheon to Pay Over $950 Million in Settlement Over Fraud, Bribery, and Export Violations](https://www.theepochtimes.com/us/raytheon-to-pay-over-950-million-in-settlement-over-fraud-bribery-and-export-violations-5742560)
+    
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Raytheon to Pay Over $950 Million in Settlement Over Fraud, Bribery, and Export Violations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Raytheon to Pay Over $950 Million in Settlement Over Fraud, Bribery, and Export Violations](https://img.theepochtimes.com/assets/uploads/2021/11/20/2021-11-19T220230Z_1_LYNXMPEHAI17V_RTROPTP_4_RAYTHEON-RESULTS-205x123.jpeg.webp)](https://www.theepochtimes.com/us/raytheon-to-pay-over-950-million-in-settlement-over-fraud-bribery-and-export-violations-5742560)
+* [Biden Races to Cement US Influence in Africa](https://www.theepochtimes.com/us/biden-races-to-cement-us-influence-in-africa-5742675)
+    
+    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor)
+    
+    [![Biden Races to Cement US Influence in Africa](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Races to Cement US Influence in Africa](https://img.theepochtimes.com/assets/uploads/2022/12/15/Biden-Africa-Summit-GettyImages-1245632553-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-races-to-cement-us-influence-in-africa-5742675)
+* [New York’s US House Races That May Decide Control of the Chamber](https://www.theepochtimes.com/us/new-york-house-races-that-may-decide-control-of-the-chamber-5740108)
+    
+    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    
+    [![New York’s US House Races That May Decide Control of the Chamber](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New York’s US House Races That May Decide Control of the Chamber](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737080-10072024-DSC03104-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-house-races-that-may-decide-control-of-the-chamber-5740108)
+* [Early In-Person Voting Begins in Helene-Battered North Carolina](https://www.theepochtimes.com/us/early-in-person-voting-begins-in-helene-battered-north-carolina-5742282)
+    
+    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    
+    [![Early In-Person Voting Begins in Helene-Battered North Carolina](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Early In-Person Voting Begins in Helene-Battered North Carolina](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737556-GettyImages-2177177639-205x123.jpg.webp)](https://www.theepochtimes.com/us/early-in-person-voting-begins-in-helene-battered-north-carolina-5742282)
+* [5 Takeaways From the Only Texas Senate Race Debate](https://www.theepochtimes.com/us/5-takeaways-from-the-only-texas-senate-race-debate-5742443)
+    
+    1hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    
+    [![5 Takeaways From the Only Texas Senate Race Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![5 Takeaways From the Only Texas Senate Race Debate](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742837-Election_2024_Texas_Senate_24290038543069-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-takeaways-from-the-only-texas-senate-race-debate-5742443)
+* [3 Takeaways From Harris’s Fox News Interview](https://www.theepochtimes.com/us/harris-fields-tough-questions-in-fox-news-interview-5742725)
+    
+    7hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![3 Takeaways From Harris’s Fox News Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![3 Takeaways From Harris’s Fox News Interview](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742800-Harris-Fox-News-205x123.png.webp)](https://www.theepochtimes.com/us/harris-fields-tough-questions-in-fox-news-interview-5742725)
 * [Supreme Court Grapples With San Francisco’s Challenge to EPA Wastewater Permit Rules](https://www.theepochtimes.com/us/supreme-court-grapples-with-san-franciscos-challenge-to-epa-wastewater-permit-rules-5742363)
     
-    3hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    8hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![Supreme Court Grapples With San Francisco’s Challenge to EPA Wastewater Permit Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Supreme Court Grapples With San Francisco’s Challenge to EPA Wastewater Permit Rules](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737036-10072024-DSC03070-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-grapples-with-san-franciscos-challenge-to-epa-wastewater-permit-rules-5742363)
 * [Man Arrested Outside Trump Rally Sues California Sheriff Over Assassination Claims](https://www.theepochtimes.com/us/man-arrested-outside-trump-rally-sues-california-sheriff-over-assassination-claims-5742487)
     
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    9hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
     [![Man Arrested Outside Trump Rally Sues California Sheriff Over Assassination Claims](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Man Arrested Outside Trump Rally Sues California Sheriff Over Assassination Claims](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742662-GettyImages-2178151545-205x123.jpg.webp)](https://www.theepochtimes.com/us/man-arrested-outside-trump-rally-sues-california-sheriff-over-assassination-claims-5742487)
 * [Georgia Judge Blocks 7 Election Rules as 2024 Voting Begins](https://www.theepochtimes.com/us/georgia-judge-blocks-7-election-rules-as-2024-voting-begins-5742705)
     
-    4hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    10hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
     [![Georgia Judge Blocks 7 Election Rules as 2024 Voting Begins](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Georgia Judge Blocks 7 Election Rules as 2024 Voting Begins](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741949-Georgia-Vote-2_JF_10142024-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-blocks-7-election-rules-as-2024-voting-begins-5742705)
-* [Liam Payne, Former One Direction Singer, Dies at 31 After Fall From Hotel in Argentina](https://www.theepochtimes.com/entertainment/liam-payne-former-one-direction-singer-dies-at-31-after-fall-from-hotel-in-argentina-5742683)
-    
-    4hr By [Elma Aksalic](https://www.theepochtimes.com/author/elma-aksalic)
-    
-    [![Liam Payne, Former One Direction Singer, Dies at 31 After Fall From Hotel in Argentina](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Liam Payne, Former One Direction Singer, Dies at 31 After Fall From Hotel in Argentina](https://img.theepochtimes.com/assets/uploads/2024/10/id5742704-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/liam-payne-former-one-direction-singer-dies-at-31-after-fall-from-hotel-in-argentina-5742683)
-* [US Says Gaza Humanitarian Conditions Improving After Warning Letter to Israel](https://www.theepochtimes.com/world/us-says-gaza-humanitarian-conditions-improving-after-warning-letter-to-israel-5742497)
-    
-    5hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![US Says Gaza Humanitarian Conditions Improving After Warning Letter to Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Says Gaza Humanitarian Conditions Improving After Warning Letter to Israel](https://img.theepochtimes.com/assets/uploads/2024/07/11/id5684793-gaza-food1-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-says-gaza-humanitarian-conditions-improving-after-warning-letter-to-israel-5742497)
-* [Day in Photos: Nigeria Explosion, Trilateral Meeting, In Memory of Ethel Kennedy](https://www.theepochtimes.com/article/day-in-photos-nigeria-explosion-trilateral-meeting-in-memory-of-ethel-kennedy-5742249)
-    
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Nigeria Explosion, Trilateral Meeting, In Memory of Ethel Kennedy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Nigeria Explosion, Trilateral Meeting, In Memory of Ethel Kennedy](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742598-AP24290494265414-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-nigeria-explosion-trilateral-meeting-in-memory-of-ethel-kennedy-5742249)
-* [Supreme Court Declines to Halt EPA’s New Climate Regulation for Power Plants](https://www.theepochtimes.com/us/supreme-court-declines-to-halt-epas-new-climate-regulation-for-power-plants-5742567)
-    
-    6hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Supreme Court Declines to Halt EPA’s New Climate Regulation for Power Plants](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court Declines to Halt EPA’s New Climate Regulation for Power Plants](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742746-10072024-L1160057-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-declines-to-halt-epas-new-climate-regulation-for-power-plants-5742567)
-* [Semifinalists Announced for NTD’s 7th International Piano Competition](https://www.theepochtimes.com/bright/semifinalists-announced-for-ntds-7th-international-piano-competition-5742615)
-    
-    6hr By [NTD Newsroom](https://www.theepochtimes.com/author/ntd-newsroom)
-    
-    [![Semifinalists Announced for NTD’s 7th International Piano Competition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Semifinalists Announced for NTD’s 7th International Piano Competition](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742651-Robert-Neuman-NTD-piano-competition-205x123.jpg.webp)](https://www.theepochtimes.com/bright/semifinalists-announced-for-ntds-7th-international-piano-competition-5742615)
-* [Trump Signals He Will Ban Transgender Athletes in Women’s Sports via Executive Action](https://www.theepochtimes.com/us/trump-signals-he-will-ban-transgender-athletes-in-womens-sports-via-executive-action-5742470)
-    
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Trump Signals He Will Ban Transgender Athletes in Women’s Sports via Executive Action](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Signals He Will Ban Transgender Athletes in Women’s Sports via Executive Action](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742484-Trump-GA-12_JF_10152024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-signals-he-will-ban-transgender-athletes-in-womens-sports-via-executive-action-5742470)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
