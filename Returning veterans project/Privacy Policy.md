@@ -191,10 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![9/11 Military Heroes](https://cdn.returningveterans.org/images/honor/9_11.jpg)  
+![USMA Class of 1975, Company A-4](https://cdn.returningveterans.org/images/honor/1975_A_4.jpg)  
 
-**In Honor of 9/11 Military Heroes**  
-Submitted by Laura Schwerin](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**USMA Class of 1975, Company A-4**  
+United States Army  
+Submitted by John Cimral](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -239,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/16/24 - 8:20:45  
+Printed 10/17/24 - 2:13:45  
 © 2024 Returning Veterans Project
