@@ -94,15 +94,15 @@ Recent Stories
 
 [Peace
 
+### Fearless renewal in Kashmir](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1017/Fearless-renewal-in-Kashmir "Fearless renewal in Kashmir")
+
+[Peace
+
 ### Calm amid climate change](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1016/Calm-amid-climate-change "Calm amid climate change")
 
 [Innovation
 
 ### Slow and small, drones find cracks in Israel’s high-tech air defenses](https://www.csmonitor.com/World/Middle-East/2024/1016/israel-hezbollah-drones-missile-defense "Slow and small, drones find cracks in Israel’s high-tech air defenses")
-
-[Forgiveness
-
-### This artist turned a forgiveness journey into a film – with the help of Steven Spielberg](https://www.csmonitor.com/The-Culture/Movies/2024/1016/exhibiting-forgiveness-titus-kaphar-steven-spielberg "This artist turned a forgiveness journey into a film – with the help of Steven Spielberg")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Slow and small, drones find cracks in Israel’s high-tech air defenses](https://www.csmonitor.com/World/Middle-East/2024/1016/israel-hezbollah-drones-missile-defense "Slow and small, drones find cracks in Israel’s high-tech air defenses")
+[### As birth rates fall, who will keep the economy running? Immigrants.](https://www.csmonitor.com/World/2024/1017/population-immigration-politics-solution-economic "As birth rates fall, who will keep the economy running? Immigrants.")
 
-[### How the pandemic slowed the march toward equal pay](https://www.csmonitor.com/USA/2024/1016/gender-wage-gap-increasing-women-equal-pay "How the pandemic slowed the march toward equal pay")
+[### Amid fresh wave of antisemitism, some French Jews resort to fake names](https://www.csmonitor.com/World/Europe/2024/1017/mideast-conflict-antisemitism-france "Amid fresh wave of antisemitism, some French Jews resort to fake names")
 
-[### The hurricanes drained FEMA funds. Now small business grants are running out, too.](https://www.csmonitor.com/USA/2024/1016/Hurricane-damage-small-business-loan-program "The hurricanes drained FEMA funds. Now small business grants are running out, too.")
+[### Three weeks from the election, a Georgia judge reverses new voting rules](https://www.csmonitor.com/USA/2024/1017/Georgia-state-election-ballot-count-measure "Three weeks from the election, a Georgia judge reverses new voting rules")
 
 * * *
 
