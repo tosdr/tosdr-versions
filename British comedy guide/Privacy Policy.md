@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Alan Resnick](https://cdn.comedy.co.uk/images/library/people/300x200/a/alan_resnick.jpg "Alan Resnick")](https://www.comedy.co.uk/live/features/bobby-carroll-diary-alan-resnick-neil-hamburger/) Live
+
+[Alan Resnick / Major Entertainer / Neil Hamburger - Bobby Carroll's Live Comedy Diary](https://www.comedy.co.uk/live/features/bobby-carroll-diary-alan-resnick-neil-hamburger/)
+
 [![Lachlan Werner](https://cdn.comedy.co.uk/images/library/people/300x200/l/lachlan_werner_bw.jpg "Lachlan Werner")](https://www.comedy.co.uk/live/features/lachlan-werner-spooky-heroes/) Live
 
 [Lachlan Werner's top 10 spooky heroes](https://www.comedy.co.uk/live/features/lachlan-werner-spooky-heroes/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![BAB. Image shows left to right: Amy Spinks, Lauren Soley](https://cdn.comedy.co.uk/images/library/misc/300x200/b/bab_comedy.jpg "BAB. Image shows left to right: Amy Spinks, Lauren Soley")](https://www.comedy.co.uk/live/random8/bab-amy-spinks-lauren-soley/) Live
 
 [Random 8: BAB](https://www.comedy.co.uk/live/random8/bab-amy-spinks-lauren-soley/)
-
-[![No - Honestly. Image shows left to right: C.D. (John Alderton), Clara (Pauline Collins). Credit: London Weekend Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/n/no_honestly2.jpg "No - Honestly. Image shows left to right: C.D. (John Alderton), Clara (Pauline Collins). Credit: London Weekend Television")](https://www.comedy.co.uk/features/comedy-rewind/no-honestly/) Features
-
-[Comedy Rewind: No - Honestly; it's charming](https://www.comedy.co.uk/features/comedy-rewind/no-honestly/)
 
 #### Subscribe to our newsletters
 
