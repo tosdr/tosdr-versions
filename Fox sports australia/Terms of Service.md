@@ -38,12 +38,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250301)
 * [Women's T20 WC
     
-    18/10 1:00 AEST
+    RSA won by 8 wkts
     
     |     |     |
     | --- | --- |
-    | AUS | –   |
-    | RSA | –   |
+    | AUS | 5 /134 |
+    | RSA | 2 /135 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250201)
 * [Women's ODI
@@ -56,16 +56,6 @@ FOX SCORES
     | USA | 152 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250101)
-* [Women's T20
-    
-    SYDT won by 8 wkts
-    
-    |     |     |
-    | --- | --- |
-    | SYDT | 2 /116 |
-    | SYD6 | 9 /114 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250117)
 * [Women's T20
     
     MELS won by 1 wkt
@@ -164,6 +154,18 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=712)
+* NFL
+    
+* [NFL
+    
+    18/10 11:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NO  | –   |
+    | DEN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250717)
 * Basketball
     
 * [NBL
@@ -176,18 +178,30 @@ FOX SCORES
     | NZB | 73  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25050001/play-by-play)
-* Baseball
+* [NBL
     
-* [MLB
-    
-    Final
+    18/10 19:30 AEST
     
     |     |     |
     | --- | --- |
-    | NYM | 0   |
-    | LAD | 8   |
+    | TAS | –   |
+    | SYD | –   |
     
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002434AC)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25050002)
+* Football
+    
+* [A-League M
+    
+    18/10 19:35 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CCM | –   |
+    | MVC | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250101)
+* Baseball
+    
 * [MLB
     
     18/10 8:08 AEST
