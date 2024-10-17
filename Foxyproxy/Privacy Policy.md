@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Foxy Proxy Team, we do not need to renew our subscription until November, when we will be in touch. We do enjoy this service.
+WOW!! YOU GUYS ARE GOOD!!!! You can use this as a testimonial if you want, with my middle name, Natalie if you want. And my location is Vancouver, BC. The main reason I've had foxyproxy for years is so I can watch American Netflix and buy movies on Amazon US. Here in Canada, our selection is a lot more limited, and usually several seasons behind what's available in the US. Again, thanks!! That information you gave me goes above and beyond just proxy services.
 
-Christina Spink
+Lana Natalie Asprey
