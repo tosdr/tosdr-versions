@@ -8,7 +8,7 @@
     * [Product Tutorials](http://sonoff.tech/category/product-review/tutorial/)
     * [News & Events](http://sonoff.tech/category/news-and-events/)
     * [User Manuals](http://sonoff.tech/usermanuals/)
-    * [Product Brochure](https://sonoff.tech/wp-content/uploads/2023/07/SONOFF-Product-Brochure-2023-Latest-Version-.pdf "SONOFF Product Brochure")
+    * [Product Brochure](https://sonoff.tech/wp-content/uploads/2024/10/SONOFF-Product-Brochure-2024.pdf "SONOFF Product Brochure")
 * [APP](http://sonoff.tech/ewelink/)
 * [Support](http://sonoff.tech/support/)
 * [Store](http://sonoff.tech/where-to-buy/)
