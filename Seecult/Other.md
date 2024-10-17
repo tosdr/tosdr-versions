@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/arse-balkan/e8curato.gif?itok=TWouwNsr)](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/arse-balkan)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukova-jazbina/f19.jpg?itok=uGn0xbBN)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukova-jazbina)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/osmeh-godine.jpg?itok=zEti_ohR)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/belopeta.jpg?itok=_GZj8Gur)](http://seecult.org/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
