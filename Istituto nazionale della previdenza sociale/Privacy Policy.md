@@ -810,8 +810,8 @@ it
             * [Esplora Procedure](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure.html)
             * [Procedura Cedolino della pensione](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-cedolino-della-pensione.html)
             * [Procedura Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-fascicolo-previdenziale-del-cittadino.html)
-            * [Procedura Estratto Conto Contributivo](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-estratto-conto-contributivo.html)
             * [Dipendenti pubblici e privati: domanda prestazioni previdenziali](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/dipendenti-pubblici-e-privati-domanda-prestazioni-previdenziali.html)
+            * [Consultazione Estratto Conto Contributivo](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/consultazione-estratto-conto-contributivo.html)
             * [Congedi di maternità e paternità](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/congedi-di-maternit-e-paternit.html)
             * [Procedura Cassetto previdenziale aziende](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-cassetto-previdenziale-aziende.html)
             * [Procedura Iscrizione e Variazione azienda](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-iscrizione-e-variazione-azienda.html)
@@ -952,54 +952,30 @@ it
         
         Rendiconto e Bilancio sociale
         
-        * [Esplora Rendiconto e Bilancio sociale](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale.html)
+        * [Esplora Rendiconto e Bilancio sociale](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali.html)
         * [Rendiconto sociale 2023](#)
             
             Rendiconto sociale 2023
             
-            * [Esplora Rendiconto sociale 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2023.html)
-            * [Rendiconti regionali 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2023/rendiconti-regionali-2023.html)
-            * [Rendiconti provinciali 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2023/rendiconti-provinciali-2023.html)
+            * [Esplora Rendiconto sociale 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2023.html)
+            * [Rendiconti regionali 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2023/rendiconti-regionali-2023.html)
+            * [Rendiconti provinciali 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2023/rendiconti-provinciali-2023.html)
             
-        * [Rendiconto sociale 2022](#)
-            
-            Rendiconto sociale 2022
-            
-            * [Esplora Rendiconto sociale 2022](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2022.html)
-            * [Rendiconti regionali 2022](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2022/rendiconti-regionali-2022.html)
-            * [Rendiconti provinciali 2022](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2022/rendiconti-provinciali-2022.html)
-            
-        * [Rendiconto Sociale 2017-2021 e Relazione fine mandato](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2017-2021-e-relazione-fine-mandato.html)
-        * [Pre Rendiconto sociale 2020](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/pre-rendiconto-sociale-2020.html)
-        * [Rendiconto sociale 2019](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2019.html)
-        * [Rendiconto sociale 2018](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2018.html)
-        * [Rendiconto sociale 2017](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2017.html)
-        * [Bilancio sociale 2016](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2016.html)
-        * [Bilancio sociale 2015](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2015.html)
-        * [Bilancio sociale 2014](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2014.html)
-        * [Bilancio sociale 2013](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2013.html)
-        * [Bilancio sociale 2012](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2012.html)
-        * [Bilancio sociale 2011](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2011.html)
-        * [Bilancio sociale 2010](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2010.html)
-        * [Bilancio sociale 2009](#)
-            
-            Bilancio sociale 2009
-            
-            * [Esplora Bilancio sociale 2009](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2009.html)
-            * [L'INPS nel territorio](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2009/l-inps-nel-territorio.html)
-            
-        * [Bilancio sociale 2007](#)
-            
-            Bilancio sociale 2007
-            
-            * [Esplora Bilancio sociale 2007](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2007.html)
-            * [Bilancio di genere: avvio di un percorso](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2007/bilancio-di-genere--avvio-di-un-percorso.html)
-            * [Indice](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2007/indice.html)
-            * [L'azienda sociale INPS](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2007/l-azienda-sociale-inps.html)
-            * [L'INPS nel territorio](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2007/l-inps-nel-territorio.html)
-            * [L'INPS verso i portatori di interesse esterni](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2007/l-inps-verso-i-portatori-di-interesse-esterni.html)
-            * [L'INPS verso i portatori di interesse interni](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2007/l-inps-verso-i-portatori-di-interesse-interni.html)
-            
+        * [Rendiconto sociale 2022](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2022.html)
+        * [Rendiconto Sociale 2017-2021 e Relazione fine mandato](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2017-2021-e-relazione-fine-mandato.html)
+        * [Pre Rendiconto sociale 2020](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/pre-rendiconto-sociale-2020.html)
+        * [Rendiconto sociale 2019](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2019.html)
+        * [Rendiconto sociale 2018](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2018.html)
+        * [Rendiconto sociale 2017](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/rendiconto-sociale-2017.html)
+        * [Bilancio sociale 2016](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2016.html)
+        * [Bilancio sociale 2015](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2015.html)
+        * [Bilancio sociale 2014](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2014.html)
+        * [Bilancio sociale 2013](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2013.html)
+        * [Bilancio sociale 2012](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2012.html)
+        * [Bilancio sociale 2011](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2011.html)
+        * [Bilancio sociale 2010](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2010.html)
+        * [Bilancio sociale 2009](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2009.html)
+        * [Bilancio sociale 2007](https://www.inps.it/it/it/dati-e-bilanci/rendiconti-e-bilanci-sociali/bilancio-sociale-2007.html)
         
     * [SIUSS (ex Casellario dell’assistenza)](#)
         
