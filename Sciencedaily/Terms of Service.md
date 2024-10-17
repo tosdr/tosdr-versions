@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Sun: Maximum Phase in 11-Year Solar Cycle](https://www.sciencedaily.com/releases/2024/10/241015183526.htm)
 * [Toward Fully 3D-Printed Active Electronics](https://www.sciencedaily.com/releases/2024/10/241015141022.htm)
 * [Liftoff! NASA's Europa Clipper](https://www.sciencedaily.com/releases/2024/10/241014145904.htm)
 * [Mysterious Heating of the Sun's Atmosphere](https://www.sciencedaily.com/releases/2024/10/241011141015.htm)
@@ -238,7 +239,6 @@ this hour
 * [Single-Atom Editing Tech Developed](https://www.sciencedaily.com/releases/2024/10/241011141546.htm)
 * [Electron 'Pinball' in Space After Lightning](https://www.sciencedaily.com/releases/2024/10/241010142536.htm)
 * [Playing Songs to Darwin's Finches: New Species](https://www.sciencedaily.com/releases/2024/10/241010142532.htm)
-* [New Tech Improves Structural Strength](https://www.sciencedaily.com/releases/2024/10/241009215431.htm)
 
 Trending Topics
 ---------------
@@ -253,7 +253,7 @@ this week
 
 [Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
-[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
+[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -261,7 +261,7 @@ this week
 
 [Sun](https://www.sciencedaily.com/news/space_time/sun/)
 
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
