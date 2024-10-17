@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Sega Flipper](https://www.myabandonware.com/game/sega-flipper-svd)
-* [Sannin Mahjong](https://www.myabandonware.com/game/sannin-mahjong-svc)
-* [Safari Race](https://www.myabandonware.com/game/safari-race-svb)
-* [Champion Tennis](https://www.myabandonware.com/game/champion-tennis-sva)
-* [Champion Soccer](https://www.myabandonware.com/game/champion-soccer-qsb)
+* [4-Get-It](https://www.myabandonware.com/game/4-get-it-6oj)
+* [P.T. Barnum's Acrobats!](https://www.myabandonware.com/game/p-t-barnum-s-acrobats-svj)
+* [Power Lords](https://www.myabandonware.com/game/power-lords-svi)
+* [Serizawa Hachidan no Tsumeshogi](https://www.myabandonware.com/game/serizawa-hachidan-no-tsumeshogi-svh)
+* [Borderline](https://www.myabandonware.com/game/borderline-sj7)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
