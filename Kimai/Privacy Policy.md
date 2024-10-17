@@ -207,6 +207,7 @@ English
 * [Home](https://www.kimai.org/)
 * [Site notice](https://www.kimai.org/en/site-notice.html)
 * [Privacy policy](https://www.kimai.org/en/privacy-policy.html)
+* [Terms](https://www.kimai.org/en/terms-cloud.html)
 * [Status](https://uptime.kimai.cloud/)
 
 [](https://github.com/kimai/kimai)[](https://www.youtube.com/@kimai_org)[](https://www.linkedin.com/company/kimai-timetracker/)[](https://www.instagram.com/kimai_org)[](https://twitter.com/kimai_org)[](https://www.facebook.com/people/Kimai/61557684102167/)[](https://phpc.social/@kimai)
