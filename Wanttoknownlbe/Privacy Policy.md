@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/big-pharma/hoe-ook-artsen-worden-misleid-door-big-pharma/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/help-wanttoknow-stuur-eens-een-artikel-door/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
