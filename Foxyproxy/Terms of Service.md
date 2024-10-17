@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you as always for the amazing service! You can rest assured of my business with you for life.
+It was easy to use and worked flawlessly!
 
-Ethan
+Mike Schement
