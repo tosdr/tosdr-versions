@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [Labor fights the trend as election day looms in Queensland](https://independentaustralia.net/article-display/labor-fights-the-trend-as-election-day-looms-in-queensland,19080 "Permanent Link : Labor fights the trend as election day looms in Queensland")
+* [Coalition and Murdoch press hypocritical on Labor's asylum management](https://independentaustralia.net/article-display/coalition-and-murdoch-press-hypocritical-on-labors-asylum-management,19079 "Permanent Link : Coalition and Murdoch press hypocritical on Labor's asylum management")
 * [Queensland conservatives divide state with law and order campaigns](https://independentaustralia.net/article-display/queensland-conservatives-divide-state-with-law-and-order-campaigns,19078 "Permanent Link : Queensland conservatives divide state with law and order campaigns")
 * [Consumers key to tackling climate crisis](https://independentaustralia.net/article-display/consumers-key-to-tackling-climate-crisis,19077 "Permanent Link : Consumers key to tackling climate crisis")
 * [Vocus-TPG deal reshaping Australia’s digital infrastructure](https://independentaustralia.net/article-display/vocus-tpg-deal-reshaping-australias-digital-infrastructure,19076 "Permanent Link : Vocus-TPG deal reshaping Australia’s digital infrastructure")
 * [Keir Starmer's fungal ruination of UK Labour](https://independentaustralia.net/article-display/keir-starmers-fungal-ruination-of-uk-labour,19075 "Permanent Link : Keir Starmer's fungal ruination of UK Labour")
 * [Peter Greste aims to gatekeep journalists with proposed policing body](https://independentaustralia.net/article-display/peter-greste-aims-to-gatekeep-journalists-with-proposed-policing-body,19074 "Permanent Link : Peter Greste aims to gatekeep journalists with proposed policing body")
-* [Coverage of Trump voters shows who media thinks “matters”](https://independentaustralia.net/article-display/coverage-of-trump-voters-shows-who-media-thinks-matters,19073 "Permanent Link : Coverage of Trump voters shows who media thinks “matters”")
-* [Booming partner visa backlog will reduce migration opportunities for students](https://independentaustralia.net/article-display/booming-partner-visa-backlog-will-reduce-migration-opportunities-for-students,19072 "Permanent Link : Booming partner visa backlog will reduce migration opportunities for students")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
