@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### From Reactive to Proactive: Shifting Your Cybersecurity Strategy
+            ##### Pitfalls of Cloud Sprawl and How to Avoid Them
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/from-reactive-to-proactive-shifting-your-cybersecurity-strategy)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/pitfalls-of-cloud-sprawl-and-how-to-avoid-them)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -401,13 +401,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![Devin Morrissey](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![David Balaban](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Devin Morrissey
+#### David Balaban
 
-Oct 15, 2024
+Oct 17, 2024
 
-### [From Reactive to Proactive: Shifting Your Cybersecurity Strategy](https://cybersecurity.att.com/blogs/security-essentials/from-reactive-to-proactive-shifting-your-cybersecurity-strategy)
+### [Pitfalls of Cloud Sprawl and How to Avoid Them](https://cybersecurity.att.com/blogs/security-essentials/pitfalls-of-cloud-sprawl-and-how-to-avoid-them)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
