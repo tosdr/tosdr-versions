@@ -1,33 +1,33 @@
-[Enter using password →](#LoginModal)
+[Skip to content](#MainContent)
 
-Half-Asleep Chris
-=================
+![Half-Asleep Chris](//halfasleepchris.com/cdn/shop/files/logo_plain.png?v=1728340837&width=500)
 
-Coming Soon
+Enter using password
 
-The Half-Asleep Merch Store is CLOSED until further notice. The Ralph and Bella Plushies are No Longer Available. Thanks for your support.
+Enter store using password:
+---------------------------
+
+ Your password
+
+Enter
+
+Are you the store owner? [Log in here](https://www.halfasleepchris.com/admin)
+
+* * *
+
+   
+
+Sign Up For Updates
+-------------------
 
 Be the first to know when we launch.
 
-Promotions, new products and sales. Directly to your inbox.
+ 
 
-  Email
+ Email
 
- Notify me
+* * *
 
-Spread the word
+This shop will be powered by [](https://www.shopify.com/) Are you the store owner? [Log in here](https://www.halfasleepchris.com/admin)
 
-* [Share Share on Facebook](https://www.facebook.com/sharer.php?u=https://halfasleepchris.com)
-* [Tweet Tweet on Twitter](https://twitter.com/share?text=&url=https://halfasleepchris.com)
-* [Pin it Pin on Pinterest](https://pinterest.com/pin/create/button/?url=https://halfasleepchris.com&media=//halfasleepchris.com/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif&description=)
-
-[Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
-
-"Close"
-
-Enter store using password
---------------------------
-
-Password  Enter
-
-Are you the store owner? [Log in here](https://www.halfasleepchris.com/admin)
+* Opens in a new window.
