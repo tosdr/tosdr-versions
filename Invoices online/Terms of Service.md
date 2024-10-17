@@ -197,57 +197,56 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Hugo van Sittert
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=38615322)  
-Tiny Cuddles Photography
-
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=163375491)  
-SAUL ATHOL ACRES RENTAL
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=82909758)  
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=89704802)  
 ARCHITEK PTY LTD
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=107233925)  
-All Trucking Solutions
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=117695958)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=109504476)  
-AFS Electrical
-
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=141120598)  
-Network Grey (Pty) Ltd
-
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=198683734)  
+![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=1459130)  
 Glass and Allied Industries
 
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=111124922)  
-VA AND M DEBT-AID (PTY) LTD
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=90403431)  
+Printo
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=192180839)  
-Cooper Power South Africa (Pty) LTD
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=26569837)  
+Moving Made Easy (PTY) Ltd
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=47622807)  
-Mtunzini Group
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=41064337)  
+BD Maintenance
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=190352551)  
-West Coast Horse Trails
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=79953187)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=110674270)  
-Sarabi
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=206238582)  
+Peter Salvage Pty Ltd
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=194718353)  
-NGB HOLDINGS PTY LTD
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=114708736)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=173603422)  
-Camp 4 Africa (Pty) Ltd
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=99003709)  
+SR Travel Services
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=06f6bee164e8d2490983f58ca29423d0ec9d43a03b4d46202dd2f093bde67a04&c=51147048)  
-SLOANE STAR MEAT MARKET
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=165590491)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=105018783)  
+Bloem Rugby Academy PTY (Ltd)
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=94694366)  
+MSPCloud (Pty) Ltd
+
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=168479313)  
+
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=73796974)  
+Skinz Printing & Branding
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
