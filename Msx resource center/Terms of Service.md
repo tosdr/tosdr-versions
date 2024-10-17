@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
-* [Aleste 2 tips?](https://www.msx.org/forum/msx-talk/software/aleste-2-tips "Aleste 2 tips?")
-* [Arkanoid pad](https://www.msx.org/forum/semi-msx-talk/emulation/arkanoid-pad?page=5 "Arkanoid pad")
-* [Arkos Tracker 3!](https://www.msx.org/forum/msx-talk/software/arkos-tracker-3 "Arkos Tracker 3!")
+* [carnivore 2 problem](https://www.msx.org/forum/msx-talk/hardware/carnivore-2-problem?page=1 "carnivore 2 problem")
 * [Recommendation for RGB acquisition card](https://www.msx.org/forum/msx-talk/general-discussion/recommendation-for-rgb-acquisition-card "Recommendation for RGB acquisition card")
-* [carnivore 2 problem](https://www.msx.org/forum/msx-talk/hardware/carnivore-2-problem "carnivore 2 problem")
+* [Arkanoid pad](https://www.msx.org/forum/semi-msx-talk/emulation/arkanoid-pad?page=5 "Arkanoid pad")
+* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=61 "List of undumped MSX software (PLEASE HELP!)")
+* [F4/FMPAC V2.0 for Omega amp circuit not working](https://www.msx.org/forum/msx-talk/hardware/f4fmpac-for-omega-amp-circuit-not-working "F4/FMPAC V2.0 for Omega amp circuit not working")
+* [Aleste 2 tips?](https://www.msx.org/forum/msx-talk/software/aleste-2-tips "Aleste 2 tips?")
+* [Arkos Tracker 3!](https://www.msx.org/forum/msx-talk/software/arkos-tracker-3 "Arkos Tracker 3!")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=122 "Please help testing upcoming openMSX release!")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=15 "Full English translation of Illusion City for MSX Turbo-R")
 * [MSX0 Discussion](https://www.msx.org/forum/msx-talk/hardware/msx0-discussion "MSX0 Discussion")
 * [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=101 "The Big MegaFlashROM SCC+ SD Topic")
-* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=61 "List of undumped MSX software (PLEASE HELP!)")
 * [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=30 "A new MSX (3?) for 2022 ?")
 * [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
-* [Philips VG8235 dead and wonder tang that resurrects it](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-dead-and-wonder-tang-that-resurrects-it?page=1 "Philips VG8235 dead and wonder tang that resurrects it")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
