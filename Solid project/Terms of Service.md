@@ -1,3 +1,5 @@
+🎉 Exciting news! The [Open Data Institute (ODI)](https://theodi.org/) is now a steward for Solid - learn more [here](https://forum.solidproject.org/t/a-new-organisational-home-for-solid/8004) 🎉
+
  [![Solid logo](/image/logo.svg) Solid](https://solidproject.org/)
 
 * [About Solid](https://solidproject.org/about)
