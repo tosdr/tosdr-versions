@@ -565,7 +565,9 @@ Nächste Seite
 
 [Mein Konto](https://www.test.de/Hilfe-5836822-5225600/)
 
-     ![](https://cdn.test.de/file/image/f7/62/f729a330-047c-4d89-a43e-72d179d33160-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
+
+     ![](https://cdn.test.de/file/image/c2/21/26597259-9f5e-4153-8975-ec30fa557d0b-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -594,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
-* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
-* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
 
 Fußbereich
 
@@ -2700,7 +2702,9 @@ Nächste Seite
 
 Nächste Seite
 
-     ![](https://cdn.test.de/file/image/f7/62/f729a330-047c-4d89-a43e-72d179d33160-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
+
+     ![](https://cdn.test.de/file/image/c2/21/26597259-9f5e-4153-8975-ec30fa557d0b-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2729,14 +2733,16 @@ Neueste Tests
 
 test.de entdecken
 
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
-* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
-* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
 
-     ![](https://cdn.test.de/file/image/f7/62/f729a330-047c-4d89-a43e-72d179d33160-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
+
+     ![](https://cdn.test.de/file/image/c2/21/26597259-9f5e-4153-8975-ec30fa557d0b-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2752,7 +2758,7 @@ Mobilrufnummer 2  Eltern-Geburtstag  Untertitel 2
 
 Ja, ich möchte diesen und weitere Newsletter der Stiftung Warentest abonnieren und bin mit der Auswertung meiner Newsletternutzung einverstanden. [Informationen zu den Newslettern und zum Datenschutz.](https://www.test.de/datenschutz/#id5105473)
 
-     ![](https://cdn.test.de/file/image/f7/62/f729a330-047c-4d89-a43e-72d179d33160-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/c2/21/26597259-9f5e-4153-8975-ec30fa557d0b-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2785,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
-* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
-* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
 
 Neueste Tests
 
@@ -2803,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
-* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
-* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Temperaturen am Arbeits­platz: Wie kalt es sein darf – oder muss](https://www.test.de/Temperaturen-am-Arbeitsplatz-5933135-0/ "Temperaturen am Arbeitsplatz - Wie kalt es sein darf – oder muss")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Resilienz in Krisen­zeiten: Wie Sie lernen, gelassen zu bleiben](https://www.test.de/Resilienz-in-Krisenzeiten-Wie-Sie-lernen-gelassen-zu-bleiben-5936282-0/ "Resilienz in Krisenzeiten - Wie Sie lernen, gelassen zu bleiben")
 
 Service Stiftung Warentest
 
