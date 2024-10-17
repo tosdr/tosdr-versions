@@ -468,11 +468,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-3.    [![Sea of Thieves Xbox One / PC](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/hero_8_.jpg)   No 3. \-84%](https://www.cdkeys.com/xbox-live/sea-of-thieves-xbox-one)
+3.    [![Sea of Thieves Xbox One / PC](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/hero_8_.jpg)   No 3. \-86%](https://www.cdkeys.com/xbox-live/sea-of-thieves-xbox-one)
     
     **[Sea of Thieves: 2024 Edition Xbox One / Xbox Series X|S / PC](https://www.cdkeys.com/xbox-live/sea-of-thieves-xbox-one "Sea of Thieves: 2024 Edition Xbox One / Xbox Series X|S / PC")**
     
-    Special Price $10.59 RRP $66.49
+    Special Price $9.29 RRP $66.49
     
     [Add to Wish List](# "Add to Wish List")
     
