@@ -345,7 +345,7 @@ English (EU)
 
 ![](https://framerusercontent.com/images/sWRF4ObO08rPbIgYFc52ViJ2To.svg)
 
-Select LanguageEnglish (EU)English (Netherlands)English (Germany)English (France)English (Spain)English (Ireland)NederlandsDeutschFrançaisEspañolItaliano
+Select LanguageEnglish (EU)NederlandsDeutschFrançaisEspañolItalianoEnglish (Netherlands)English (Germany)English (France)English (Spain)English (Ireland)
 
 English (EU)
 
@@ -423,7 +423,7 @@ English (EU)
 
 ![](https://framerusercontent.com/images/sWRF4ObO08rPbIgYFc52ViJ2To.svg)
 
-Select LanguageEnglish (EU)English (Netherlands)English (Germany)English (France)English (Spain)English (Ireland)NederlandsDeutschFrançaisEspañolItaliano
+Select LanguageEnglish (EU)NederlandsDeutschFrançaisEspañolItalianoEnglish (Netherlands)English (Germany)English (France)English (Spain)English (Ireland)
 
 English (EU)
 
@@ -501,7 +501,7 @@ English (EU)
 
 ![](https://framerusercontent.com/images/sWRF4ObO08rPbIgYFc52ViJ2To.svg)
 
-Select LanguageEnglish (EU)English (Netherlands)English (Germany)English (France)English (Spain)English (Ireland)NederlandsDeutschFrançaisEspañolItaliano
+Select LanguageEnglish (EU)NederlandsDeutschFrançaisEspañolItalianoEnglish (Netherlands)English (Germany)English (France)English (Spain)English (Ireland)
 
 English (EU)
 
