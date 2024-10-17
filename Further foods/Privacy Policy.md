@@ -8,7 +8,7 @@
     
 * **10,000+ 5 STAR REVIEWS ⭐️⭐️⭐️⭐️⭐️**
     
-* [**OUR FALL FAVORITES SALE IS ON! SAVOR THE SEASON & SAVE UP TO 25%**](https://www.furtherfood.com/collections/fall-favorites-sale)
+* [**OUR FALL FAVORITES SALE IS ON! SAVOR THE SEASON & SAVE UP TO 25%**](https://www.furtherfood.com/collections/fall-favorites-sale/)
 * **TRY WITH OUR 30-DAY MONEY BACK GUARANTEE**
     
 
