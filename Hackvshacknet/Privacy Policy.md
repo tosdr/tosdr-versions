@@ -218,18 +218,18 @@ This site is protected by FingerprintJS and its [privacy policy](https://dev.fin
 
 ### Newest members
 
-* [![ggez1337](/data/avatars/s/107/107380.jpg?1729150779)](http://hackvshack.net/members/ggez1337.107380/)
-* [![USPeK](/data/avatars/s/107/107379.jpg?1729148891)](http://hackvshack.net/members/uspek.107379/)
-* [![Friman125](/data/avatars/s/107/107378.jpg?1729148872)](http://hackvshack.net/members/friman125.107378/)
-* [](http://hackvshack.net/members/xodiezz.107377/)
-* [![shtraub](/data/avatars/s/107/107376.jpg?1729146340)](http://hackvshack.net/members/shtraub.107376/)
-* [](http://hackvshack.net/members/buh.107375/)
-* [](http://hackvshack.net/members/luminest.107374/)
-* [![larden123](/data/avatars/s/107/107373.jpg?1729138972)](http://hackvshack.net/members/larden123.107373/)
-* [![miloszek262](/data/avatars/s/107/107372.jpg?1729133804)](http://hackvshack.net/members/miloszek262.107372/)
-* [](http://hackvshack.net/members/magic_eu.107371/)
-* [](http://hackvshack.net/members/semiye.107370/)
-* [](http://hackvshack.net/members/agente.107369/)
+* [](http://hackvshack.net/members/paulpufu.107402/)
+* [](http://hackvshack.net/members/lox123lox123.107401/)
+* [](http://hackvshack.net/members/aweszcvb.107400/)
+* [](http://hackvshack.net/members/enes64985.107399/)
+* [](http://hackvshack.net/members/kentic69.107398/)
+* [![Michii](/data/avatars/s/107/107397.jpg?1729170638)](http://hackvshack.net/members/michii.107397/)
+* [![xenlol42](/data/avatars/s/107/107396.jpg?1729170369)](http://hackvshack.net/members/xenlol42.107396/)
+* [![ponnn228](/data/avatars/s/107/107395.jpg?1729169951)](http://hackvshack.net/members/ponnn228.107395/)
+* [![a331636694](/data/avatars/s/107/107394.jpg?1729167947)](http://hackvshack.net/members/a331636694.107394/)
+* [](http://hackvshack.net/members/mgkflae.107393/)
+* [](http://hackvshack.net/members/mrkva22.107392/)
+* [![TrimFon](/data/avatars/s/107/107391.jpg?1729163710)](http://hackvshack.net/members/trimfon.107391/)
 
 ### Partners
 
@@ -245,19 +245,19 @@ HvH League [unmatched.gg](https://unmatched.gg/)
 
 Threads
 
-2,655
+2,654
 
 Messages
 
-22,648
+22,647
 
 Members
 
-107,380
+107,401
 
 Latest member
 
-[ggez1337](http://hackvshack.net/members/ggez1337.107380/)
+[lox123lox123](http://hackvshack.net/members/lox123lox123.107401/)
 
 Most visitors online was 3958 , on 5 Aug 2024
 
@@ -265,15 +265,15 @@ Most visitors online was 3958 , on 5 Aug 2024
 
 Members online
 
-17
+55
 
 Guests online
 
-182
+206
 
 Total visitors
 
-199
+261
 
 Totals may include hidden visitors.
 
