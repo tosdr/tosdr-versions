@@ -1,15 +1,15 @@
-Wednesday, October 16 2024
+Thursday, October 17 2024
 
 Breaking News
 
+* [Biden-Harris Admin Recalls Hundreds Of Electric Buses Amid Fire Concerns](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/)
+* [MSNBC Interviews Early Voters In Key Battleground State, Struggles To Find Anyone Who Voted For Harris](https://www.conservativedailynews.com/2024/10/msnbc-interviews-early-voters-in-key-battleground-state-struggles-to-find-anyone-who-voted-for-harris/)
+* [Massive Teachers Union Used Dues For Pricey Meeting At Legendary Casino](https://www.conservativedailynews.com/2024/10/massive-teachers-union-used-dues-for-pricey-meeting-at-legendary-casino/)
 * [White House Press Briefing with Karine Jean-Pierre – 10/16/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-16-24/)
 * [Border Crossings Might Be Declining — But That’s Not The Whole Story](https://www.conservativedailynews.com/2024/10/border-crossings-might-be-declining-but-thats-not-the-whole-story/)
 * [Tariffs Are Like A Golf Handicap](https://www.conservativedailynews.com/2024/10/tariffs-are-like-a-golf-handicap/)
 * [Take the Federal Budget Quiz](https://www.conservativedailynews.com/2024/10/take-the-federal-budget-quiz/)
 * [President Joe Biden’s Schedule for Wednesday, October 16, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-16-2024/)
-* [Tim Walz Let Slip What We Knew About The Left All Along](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/)
-* [Rachel Maddow Proves An Education Can Be Wasted](https://www.conservativedailynews.com/2024/10/rachel-maddow-proves-an-education-can-be-wasted/)
-* [America In The Age Of Stupidity: Two Things America Desperately Needs But Democrats Are Against](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-two-things-america-desperately-needs-but-democrats-are-against/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,21 +111,45 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.74%
 
+* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/10/msnbc-interviews-early-voters-in-key-battleground-state-struggles-to-find-anyone-who-voted-for-harris/)
+    
+    [MSNBC Interviews Early Voters In Key Battleground State, Struggles To Find Anyone Who Voted For Harris](https://www.conservativedailynews.com/2024/10/msnbc-interviews-early-voters-in-key-battleground-state-struggles-to-find-anyone-who-voted-for-harris/)
+    
+    October 16, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/08/Tim-Walz-220x150.jpg)](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/)
     
     [Tim Walz Let Slip What We Knew About The Left All Along](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/)
     
     October 15, 2024
     
-* [![Kamala Harris 2024 election Kamalanomics](https://www.conservativedailynews.com/wp-content/uploads/2024/09/01-joyjoy-kam-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/)
-    
-    [Here’s How Much More Everyday Items Cost Than When You Voted Four Years Ago](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/)
-    
-    October 13, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/07/Connecticut-electric-bus-battery-fire-220x150.jpg)](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/)
+    
+    [Biden-Harris Admin Recalls Hundreds Of Electric Buses Amid Fire Concerns](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/)
+    
+    October 16, 2024
+    
+* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/10/msnbc-interviews-early-voters-in-key-battleground-state-struggles-to-find-anyone-who-voted-for-harris/)
+    
+    [MSNBC Interviews Early Voters In Key Battleground State, Struggles To Find Anyone Who Voted For Harris](https://www.conservativedailynews.com/2024/10/msnbc-interviews-early-voters-in-key-battleground-state-struggles-to-find-anyone-who-voted-for-harris/)
+    
+    October 16, 2024
+    
+* [![Tim Walz shooting blanks](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv101624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/shooting-blanks/)
+    
+    [Shooting Blanks](https://www.conservativedailynews.com/2024/10/shooting-blanks/)
+    
+    October 16, 2024
+    
+* [![school choice randi weingarten](https://www.conservativedailynews.com/wp-content/uploads/2023/03/stg031323dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/massive-teachers-union-used-dues-for-pricey-meeting-at-legendary-casino/)
+    
+    [Massive Teachers Union Used Dues For Pricey Meeting At Legendary Casino](https://www.conservativedailynews.com/2024/10/massive-teachers-union-used-dues-for-pricey-meeting-at-legendary-casino/)
+    
+    October 16, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/1662070130_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-16-24/)
     
     [White House Press Briefing with Karine Jean-Pierre – 10/16/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-16-24/)
@@ -150,33 +174,12 @@ Recent Posts
     
     October 16, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/10/the-brat-energy-is-gone/)
-    
-    [The Brat Energy Is Gone](https://www.conservativedailynews.com/2024/10/the-brat-energy-is-gone/)
-    
-    October 16, 2024
-    
-* [![It's the economy stupid Kamala Harris Donald Trump election 2024](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101624dAPC-220x150.jpg)](https://www.conservativedailynews.com/2024/10/its-the-economy-stupid-2/)
-    
-    [It’s the Economy, Stupid](https://www.conservativedailynews.com/2024/10/its-the-economy-stupid-2/)
-    
-    October 16, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Chlidren-in-classroom-220x150.png)](https://www.conservativedailynews.com/2024/10/teacher-gifts-thoughtful-presents-that-make-a-lasting-impact/)
-    
-    [Teacher Gifts: Thoughtful Presents That Make a Lasting Impact](https://www.conservativedailynews.com/2024/10/teacher-gifts-thoughtful-presents-that-make-a-lasting-impact/)
-    
-    October 16, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/10/x-twitter-censorship-of-conservatives-continues-unabated-this-election-year/)
-    
-    [X (Twitter) Censorship of Conservatives Continues Unabated This Election Year](https://www.conservativedailynews.com/2024/10/x-twitter-censorship-of-conservatives-continues-unabated-this-election-year/)  
-    
-    October 16, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The History of PKM, the Most Common Machine Gun In the World. Part 5](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-5/10611256)
+* [POTD: Winkler Knives Push Dagger EDC](https://www.thegunpage.com/potd-winkler-knives-push-dagger-edc/10611257)
+* [Wheelgun Wednesday: NEW Charter Arms Double Dog Revolver Series](https://www.thegunpage.com/wheelgun-wednesday-new-charter-arms-double-dog-revolver-series/10611258)
 * [NSSF Launches Resource Page For Vets About VA Health Care and Guns](https://www.thegunpage.com/nssf-launches-resource-page-for-vets-about-va-health-care-and-guns/10611254)
 * [Barrett Unveils Squad Support Rifle System (SSRS) at AUSA](https://www.thegunpage.com/barrett-unveils-squad-support-rifle-system-ssrs-at-ausa/10611253)
 * [Massachusetts Petition Drive Gaining Momentum](https://www.thegunpage.com/massachusetts-petition-drive-gaining-momentum/10611251)
@@ -184,9 +187,6 @@ Recent Posts
 * [H&K USA Unveils Its Inaugural Gun: The CC9](https://www.thegunpage.com/hk-usa-unveils-its-inaugural-gun-the-cc9/10611248)
 * [Gun-Ban Groups Spend Big and Sell Lies To Defeat Pro-Gun Candidates](https://www.thegunpage.com/gun-ban-groups-spend-big-and-sell-lies-to-defeat-pro-gun-candidates/10611245)
 * [ECC Debuts New FR Gloves](https://www.thegunpage.com/ecc-debuts-new-fr-gloves/10611242)
-* [SCOTUS Sends Pennsylvania Young Adult Carry Back To 3rd Circuit](https://www.thegunpage.com/scotus-sends-pennsylvania-young-adult-carry-back-to-3rd-circuit/10611241)
-* [NEW H&K CC9 Review: Was the Wait Worth It?](https://www.thegunpage.com/new-hk-cc9-review-was-the-wait-worth-it/10611243)
-* [Michigan And Hawaii Launch Tip Lines To Encourage Anonymous Snitching On Gun Owners](https://www.thegunpage.com/michigan-and-hawaii-launch-tip-lines-to-encourage-anonymous-snitching-on-gun-owners/10611237)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
