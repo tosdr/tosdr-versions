@@ -111,7 +111,7 @@ Please note that you have the right to make a complaint at any time to the ICO, 
 
 We keep our privacy notice under regular review to ensure that it properly reflects our use of your personal data.  We may make periodic changes to our privacy notice in the future, please check this page for any updates on your next visit to our website. 
 
-This privacy notice was last reviewed and updated on **21 June 2024.**
+This privacy notice was last reviewed and updated on **15 October 2024.**
 
 It is important that the personal information we hold about you is accurate and current. Please let us know if any personal information which we hold about you needs to be corrected or updated at any time.
 
@@ -232,7 +232,7 @@ We rely on our legitimate interests as a lawful basis for processing your person
 
 * Subscribing to our marketing
 
-If you are a customer, or have made an enquiry relating to our price comparison services (or services offered by one of our other trading names), you have an opportunity through the link in our Privacy Notice to object or opt-out of receiving marketing communications at the time of collecting your personal data.  If you have not opted out of receiving the marketing communication, we will contact you by email, SMS or telephone in our legitimate interests to promote our products and services that are relevant to your purchase or enquiry. We will also provide you with the option to unsubscribe or object to continuing receiving marketing with each communication. **You have the right to object to receiving these communications at any time by contacting us on the details above.**
+If you are a customer, or have made an enquiry relating to our price comparison services (or services offered by one of our other trading names), you have an opportunity through the link in our Privacy Notice to object or opt-out of receiving marketing communications at the time of collecting your personal data.  If you have not opted out of receiving the marketing communication, we will contact you by email, SMS, telephone or via targeted social media adverts in our legitimate interests to promote our products and services that are relevant to your purchase or enquiry. We will also provide you with the option to unsubscribe or object to continuing receiving marketing with each communication. **You have the right to object to receiving these communications at any time by contacting us on the details above.**
 
 If you are not a customer but are interested in our products and services or you are an existing customer but interested in other products and services we offer (excluding our energy products and services you have an opportunity through the link in our Privacy Notice to object or opt-out of receiving  marketing promotional material, updates, reminders and communications. If you have not opted out, we will collect your contact details (name, postal address and email address) to provide you with such communications.
 
