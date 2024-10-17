@@ -98,7 +98,7 @@ GET IT ON
     
     [Top Deals](https://shop.simon.com/collections/curated-deals?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Deals)
     
-* [CONTACT](https://www.simon.com/contact "Contact the Simon Team")
+* [CONTACT US](https://www.simon.com/contact "Contact the Simon Team")
 * 
 
 [Brands You Love. On Sale. 24/7. Shop Online >](https://shop.simon.com/?utm_source=SIMON&utm_medium=Banner&utm_campaign=Simon_Banner_SHOPSIMON)
@@ -204,8 +204,8 @@ Use your location to find centers near you
     
     [Top Deals](https://shop.simon.com/collections/curated-deals?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Deals)
     
-* [Mall Insider](https://www.simon.com/mall-insider "Become a Mall Insider Today")
-* [Contact](https://www.simon.com/contact "Contact Us")
+* [Become A Mall Insider](https://www.simon.com/mall-insider "Become a Mall Insider Today")
+* [Contact Us](https://www.simon.com/contact "Contact Us")
 
  
 
