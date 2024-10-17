@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![40 Facts About Visual Looming Syndrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/psychology/40-facts-about-visual-looming-syndrome/)
-
-Psychology
-
-16 Oct 2024
-
-[40 Facts About Visual Looming Syndrome](https://facts.net/fitness-and-wellbeing/psychology/40-facts-about-visual-looming-syndrome/)
-
-[![30 Facts About Facial Femoral ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2283%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-facial-femoral/)
+[![30 Facts About Torch Syndrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-torch-syndrome/)
 
 Health Science
 
-16 Oct 2024
+17 Oct 2024
 
-[30 Facts About Facial Femoral](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-facial-femoral/)
+[30 Facts About Torch Syndrome](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-torch-syndrome/)
+
+[![15 Facts About Hendrik Verwoerd ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/15-facts-about-hendrik-verwoerd/)
+
+People
+
+17 Oct 2024
+
+[15 Facts About Hendrik Verwoerd](https://facts.net/history/people/15-facts-about-hendrik-verwoerd/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
