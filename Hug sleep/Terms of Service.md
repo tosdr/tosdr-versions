@@ -94,7 +94,7 @@ BACK
   
   
 
-* [Hug Accessories Sleep’s best sidekicks](#)
+* [Pillows Comfortable body pillows for sleep support](#)
 
 BACK
 
@@ -110,6 +110,16 @@ BACK
 * [![](//hugsleep.com/cdn/shop/files/Pillowimages.019_533x533.jpg?v=1702501737)
     
     Pod Pillowcases](https://hugsleep.com/products/pillow-case)
+  
+  
+  
+  
+  
+
+* [Hug Accessories Sleep’s best sidekicks](#)
+
+BACK
+
 * [![](//hugsleep.com/cdn/shop/files/Untitled7.013_533x533.jpg?v=1696008393)
     
     Hug Sleep Mask](https://hugsleep.com/products/hug-sleep-mask)
@@ -220,12 +230,15 @@ BACK
     * [Kids Hug Wrap™](https://hugsleep.com/products/kids-hug-wrap%E2%84%A2)
     * [Kids - Hooded Sleep Pod Move](https://hugsleep.com/products/kids-hooded-sleep-pod-move)
     
-* [Hug Accessories](https://hugsleep.com/collections/hug-accessories)
+* [Pillows](https://hugsleep.com/collections/pillows)
     
     * [Hug Body Pillow™](https://hugsleep.com/products/hug-body-pillow)
     * [Pod Pillow™](https://hugsleep.com/products/pod-pillow)
-    * [Hug Body Pillowcase](https://hugsleep.com/products/body-pillow-cases)
     * [Pod Pillowcases](https://hugsleep.com/products/pillow-case)
+    * [Hug Body Pillowcase](https://hugsleep.com/products/body-pillow-cases)
+    
+* [Hug Accessories](https://hugsleep.com/collections/hug-accessories)
+    
     * [Hug Sleep Mask™](https://hugsleep.com/products/hug-sleep-mask)
     * [HugStretch™ Cozy Carry Bag](https://hugsleep.com/products/hugstretch%E2%84%A2-cozy-carry-bag)
     
