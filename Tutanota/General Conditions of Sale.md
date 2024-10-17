@@ -14,8 +14,8 @@ Products
 
 [Se connecter](https://app.tuta.com/ "Mail. Done. Right. Login to Tuta") [S'inscrire](https://app.tuta.com/?r=/signup#subscription)
 
-Conditions Générales
-====================
+foobarhogefuga
+==============
 
 Paragraphes, paragraphes, paragraphes...
 
