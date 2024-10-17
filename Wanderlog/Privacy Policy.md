@@ -144,13 +144,21 @@ Wanderlog
 
 [Hotels](https://wanderlog.com/hotels)
 
+[Road trip planner](https://wanderlog.com/road-trip-planner)
+
+[Trip planner AI](https://wanderlog.com/trip-planner-ai)
+
+[Plan a trip](https://wanderlog.com/plan-a-trip)
+
+[Trip planner mobile app](https://wanderlog.com/trip-planner-mobile-app)
+
+[Travel maps](https://wanderlog.com/travel-maps)
+
 [Blog](https://wanderlog.com/blog/)
 
 [Report security issue](https://wanderlog.com/security)
 
 [Terms](https://wanderlog.com/terms), [Privacy policy](https://wanderlog.com/privacy) & [Copyright](https://wanderlog.com/dmca)
-
-[Mobile app](https://wanderlog.com/trip-planner-mobile-app)
 
 [Browser extension](https://wanderlog.com/extension)
 
@@ -194,13 +202,21 @@ Get the app
 
 [Hotels](https://wanderlog.com/hotels)
 
+[Road trip planner](https://wanderlog.com/road-trip-planner)
+
+[Trip planner AI](https://wanderlog.com/trip-planner-ai)
+
+[Plan a trip](https://wanderlog.com/plan-a-trip)
+
+[Trip planner mobile app](https://wanderlog.com/trip-planner-mobile-app)
+
+[Travel maps](https://wanderlog.com/travel-maps)
+
 [Blog](https://wanderlog.com/blog/)
 
 [Report security issue](https://wanderlog.com/security)
 
 [Terms](https://wanderlog.com/terms), [Privacy policy](https://wanderlog.com/privacy) & [Copyright](https://wanderlog.com/dmca)
-
-[Mobile app](https://wanderlog.com/trip-planner-mobile-app)
 
 [Browser extension](https://wanderlog.com/extension)
 
