@@ -244,6 +244,7 @@ If you have questions regarding this Cookie Policy or our handling of your perso
 Company
 
 * [About](https://zenfolio.com/company/about/)
+* [Zenfolio vs Competitors](https://zenfolio.com/compare/)
 * [Careers](https://zenfolio.com/company/jobs/)
 * [Reviews](https://zenfolio.com/company/reviews/)
 * [Press Room](https://zenfolio.com/press/)
