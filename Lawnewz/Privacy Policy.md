@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Berline Burkholder appears in a booking photo.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Berline-Burkholder-432x243.jpg)](https://lawandcrime.com/crime/i-did-something-i-wasnt-supposed-to-do-mom-sentenced-for-pouring-scalding-hot-liquid-on-her-9-month-old-daughter/)
+1. [![Inset: Vem Miller (News Nation). Background: Donald Trump speaking at his campaign rally in Coachella, California (Forbes).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/asdfasdf-2-432x243.jpg)](https://lawandcrime.com/high-profile/sheriff-fabricated-allegations-of-third-assassination-attempt-on-trump-so-he-could-seem-heroic-in-arresting-staunch-trump-supporter-lawsuit/)
+    
+    ### [Sheriff 'fabricated allegations' of third assassination attempt on Trump so he could seem 'heroic' in arresting 'staunch' Trump supporter: Lawsuit](https://lawandcrime.com/high-profile/sheriff-fabricated-allegations-of-third-assassination-attempt-on-trump-so-he-could-seem-heroic-in-arresting-staunch-trump-supporter-lawsuit/)
+    
+2. [![Berline Burkholder appears in a booking photo.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Berline-Burkholder-432x243.jpg)](https://lawandcrime.com/crime/i-did-something-i-wasnt-supposed-to-do-mom-sentenced-for-pouring-scalding-hot-liquid-on-her-9-month-old-daughter/)
     
     ### ['I did something I wasn’t supposed to do': Mom sentenced for pouring scalding hot liquid on her 9-month-old daughter](https://lawandcrime.com/crime/i-did-something-i-wasnt-supposed-to-do-mom-sentenced-for-pouring-scalding-hot-liquid-on-her-9-month-old-daughter/)
     
-2. [![Brett Kavanugh, Stormy Daniels, Michael Avenatti](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Kavanaugh-Avenatti-432x243.jpg)](https://lawandcrime.com/high-profile/justice-kavanaugh-again-does-nothing-as-scotus-rejects-michael-avenatti-appeal-in-stormy-daniels-case/)
+3. [![Left to right: Jack Smith, Tanya Chutkan, Donald Trump](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Smith-Chutkan-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/jan-6-judge-says-trump-could-share-responsibility-for-criminal-actions-of-capitol-rioters-even-without-his-express-encouragement/)
     
-    ### [Justice Kavanaugh on the sidelines again as Supreme Court ignores Michael Avenatti claim that conviction for stealing Stormy Daniels' identity 'risks sowing mischief'](https://lawandcrime.com/high-profile/justice-kavanaugh-again-does-nothing-as-scotus-rejects-michael-avenatti-appeal-in-stormy-daniels-case/)
+    ### [Jan. 6 judge says Trump 'could share responsibility' for 'criminal actions' of Capitol rioters even without his 'express' encouragement](https://lawandcrime.com/high-profile/jan-6-judge-says-trump-could-share-responsibility-for-criminal-actions-of-capitol-rioters-even-without-his-express-encouragement/)
     
-3. [![Inset: Ashley Bush (Benton County Sheriff's Office). Background: Amber Waterman (McDonald County Detention Center).](https://am24.mediaite.com/lc/cnt/uploads/2024/07/Inset-Ashley-Bush-Benton-County-Sheriffs-Office.-Background-Amber-Waterman-McDonald-County-Detention-Center-432x243.jpg)](https://lawandcrime.com/crime/woman-who-killed-pregnant-victim-she-met-on-facebook-cut-fetus-from-her-womb-and-claimed-child-as-her-own-is-sentenced/)
+4. [![Giovanni Aldama Garcia mugshot and Trooper](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Giovanni-Aldama-Garcia-mugshot-and-Trooper-432x243.jpg)](https://lawandcrime.com/crime/owner-tied-trembling-dog-to-fence-in-rising-waters-of-hurricane-milton-because-he-couldnt-find-anyone-to-pick-the-dog-up-cops/)
     
-    ### [Woman who killed pregnant victim she met on Facebook, cut fetus from her womb and 'claimed' child as her own is sentenced](https://lawandcrime.com/crime/woman-who-killed-pregnant-victim-she-met-on-facebook-cut-fetus-from-her-womb-and-claimed-child-as-her-own-is-sentenced/)
+    ### [Owner tied 'trembling' dog to fence in rising waters of Hurricane Milton because he 'couldn’t find anyone to pick the dog up': Cops](https://lawandcrime.com/crime/owner-tied-trembling-dog-to-fence-in-rising-waters-of-hurricane-milton-because-he-couldnt-find-anyone-to-pick-the-dog-up-cops/)
     
-4. [![Kristin Burnett](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Kristin-Burnett-432x243.jpg)](https://lawandcrime.com/crime/woman-pissed-about-line-cutting-on-festival-ride-chokes-12-year-old-trying-to-play-peacekeeper-cops/)
+5. [![Inset: Janet Williams (Fulton County Sheriff's Office). Background: The elderly living facility where she is worked as a security guard and allegedly killed a 90-year-old resident (WXIA).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/adfadf-432x243.jpg)](https://lawandcrime.com/crime/elderly-facility-security-guard-killed-90-year-old-resident-tried-to-insert-herself-into-investigation-by-inquiring-about-evidence-police/)
     
-    ### [Woman pissed about line-cutting on festival ride chokes 12-year-old girl trying to play peacekeeper: Cops](https://lawandcrime.com/crime/woman-pissed-about-line-cutting-on-festival-ride-chokes-12-year-old-trying-to-play-peacekeeper-cops/)
-    
-5. [![Inset, top to bottom: Jason Ross (Macomb County Sheriff) and Kathleen Hales (GoFundMe). Background: Police at the scene where Ross killed Hales (WJBK).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Inset-top-to-bottom-Jason-Ross-Macomb-County-Sheriff-and-Kathleen-Hales-GoFundMe.-Background-Police-at-the-scene-where-Ross-killed-Hales-WJBK-432x243.jpg)](https://lawandcrime.com/crime/man-told-police-he-and-girlfriend-fought-like-men-after-he-killed-her-with-hammer-and-knives/)
-    
-    ### [Man told police he and girlfriend 'fought like men' after he killed her with hammer and knives](https://lawandcrime.com/crime/man-told-police-he-and-girlfriend-fought-like-men-after-he-killed-her-with-hammer-and-knives/)
+    ### [Elderly facility security guard killed 90-year-old resident, tried to insert herself into investigation by 'inquiring about evidence': Police](https://lawandcrime.com/crime/elderly-facility-security-guard-killed-90-year-old-resident-tried-to-insert-herself-into-investigation-by-inquiring-about-evidence-police/)
     
 
 [](http://eepurl.com/c89Jdb)
