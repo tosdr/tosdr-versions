@@ -20,16 +20,16 @@ Thursday, October 17 2024
 
 Latest
 
-* [How Well Do Tesla Superchargers Work for Non-Tesla EVs?](https://digitpatrox.com/how-well-do-tesla-superchargers-work-for-non-tesla-evs/)
-* [Why Linux Is the Best Place to Learn Coding](https://digitpatrox.com/why-linux-is-the-best-place-to-learn-coding/)
-* [Iomart bolsters cloud expertise with £57 million Atech Cloud acquisition](https://digitpatrox.com/iomart-bolsters-cloud-expertise-with-57-million-atech-cloud-acquisition/)
-* [6 Best Nonprofit Credit Card Processing Tools Evaluated for 2024](https://digitpatrox.com/6-best-nonprofit-credit-card-processing-tools-evaluated-for-2024/)
-* [Cancelling those annoying subscription services is about to get a whole lot easier — here’s how](https://digitpatrox.com/cancelling-those-annoying-subscription-services-is-about-to-get-a-whole-lot-easier-heres-how/)
-* [Iranian hackers act as brokers selling critical infrastructure access](https://digitpatrox.com/iranian-hackers-act-as-brokers-selling-critical-infrastructure-access/)
-* [Meta is laying off employees at WhatsApp, Instagram, and more](https://digitpatrox.com/meta-is-laying-off-employees-at-whatsapp-instagram-and-more/)
-* [Is Tom Holland’s Spider-Man in Venom 3? Here’s What Tom Hardy Has to Say](https://digitpatrox.com/is-tom-hollands-spider-man-in-venom-3-heres-what-tom-hardy-has-to-say/)
-* [Illinois school district notifies 1,500 people of data breach that compromised SSNs](https://digitpatrox.com/illinois-school-district-notifies-1500-people-of-data-breach-that-compromised-ssns/)
-* [Cisco confirms investigation amid data breach claims](https://digitpatrox.com/cisco-confirms-investigation-amid-data-breach-claims/)
+* [New Fido standard for passkeys will make it easier to change services](https://digitpatrox.com/new-fido-standard-for-passkeys-will-make-it-easier-to-change-services/)
+* [The Most Cliched Halloween Costumes to Avoid in 2024](https://digitpatrox.com/the-most-cliched-halloween-costumes-to-avoid-in-2024/)
+* [Baby Bottles With No Detected BPA, Lead, or Phthalates](https://digitpatrox.com/baby-bottles-with-no-detected-bpa-lead-or-phthalates/)
+* [Firefox Is Now ”More Than 75X Faster” Running WebAssembly](https://digitpatrox.com/firefox-is-now-more-than-75x-faster-running-webassembly/)
+* [State-sponsored cyber crime is officially out of control](https://digitpatrox.com/state-sponsored-cyber-crime-is-officially-out-of-control/)
+* [Mobile, IoT, and OT Cyber Threats Surge in 2024](https://digitpatrox.com/mobile-iot-and-ot-cyber-threats-surge-in-2024/)
+* [You only need 2 dumbbells and 6 moves to build full-body muscle and boost your metabolism](https://digitpatrox.com/you-only-need-2-dumbbells-and-6-moves-to-build-full-body-muscle-and-boost-your-metabolism/)
+* [70% of exploited flaws disclosed in 2023 were zero-days](https://digitpatrox.com/70-of-exploited-flaws-disclosed-in-2023-were-zero-days/)
+* [Google asks 9th Circuit for emergency stay, says Epic ruling ‘is dangerous’](https://digitpatrox.com/google-asks-9th-circuit-for-emergency-stay-says-epic-ruling-is-dangerous/)
+* [What Is Private Space on Android 15 and How to Use It](https://digitpatrox.com/what-is-private-space-on-android-15-and-how-to-use-it/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1678891331/prod/content/dam/CRO-Images-2023/03March/Cars/CR-Cars-InlineHero-Supercharger-EV6-Charging-Tout-3-23)](https://digitpatrox.com/how-well-do-tesla-superchargers-work-for-non-tesla-evs/)
+* [![](https://www.csoonline.com/wp-content/uploads/2024/10/3566575-0-46450500-1729098656-shutterstock_1117015901.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/new-fido-standard-for-passkeys-will-make-it-easier-to-change-services/)
     
-    [How Well Do Tesla Superchargers Work for Non-Tesla EVs?](https://digitpatrox.com/how-well-do-tesla-superchargers-work-for-non-tesla-evs/)
+    [New Fido standard for passkeys will make it easier to change services](https://digitpatrox.com/new-fido-standard-for-passkeys-will-make-it-easier-to-change-services/)
     
-    7 mins ago
+    9 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/laptop-kubuntu.jpg)](https://digitpatrox.com/why-linux-is-the-best-place-to-learn-coding/)
+* [![](https://lifehacker.com/imagery/articles/01HF2HHM54C052X9TSKKRBK2K1/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-most-cliched-halloween-costumes-to-avoid-in-2024/)
     
-    [Why Linux Is the Best Place to Learn Coding](https://digitpatrox.com/why-linux-is-the-best-place-to-learn-coding/)
+    [The Most Cliched Halloween Costumes to Avoid in 2024](https://digitpatrox.com/the-most-cliched-halloween-costumes-to-avoid-in-2024/)
     
-    10 mins ago
+    36 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/6zvLhxX6fpdjzFD8FCfGAN-1200-80.jpg)](https://digitpatrox.com/iomart-bolsters-cloud-expertise-with-57-million-atech-cloud-acquisition/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1691541828/prod/content/dam/CRO-Images-2023/08August/Babies/CR-Babies-InlineHero-Best-Baby-Bottles-0823)](https://digitpatrox.com/baby-bottles-with-no-detected-bpa-lead-or-phthalates/)
     
-    [Iomart bolsters cloud expertise with £57 million Atech Cloud acquisition](https://digitpatrox.com/iomart-bolsters-cloud-expertise-with-57-million-atech-cloud-acquisition/)
-    
-    1 hour ago
-    
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241016-best-nonprofit-credit-card-processing-tools.jpg)](https://digitpatrox.com/6-best-nonprofit-credit-card-processing-tools-evaluated-for-2024/)
-    
-    [6 Best Nonprofit Credit Card Processing Tools Evaluated for 2024](https://digitpatrox.com/6-best-nonprofit-credit-card-processing-tools-evaluated-for-2024/)
+    [Baby Bottles With No Detected BPA, Lead, or Phthalates](https://digitpatrox.com/baby-bottles-with-no-detected-bpa-lead-or-phthalates/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/vwgLh8ijdTV4bhoEHnWb4S-1200-80.jpg)](https://digitpatrox.com/cancelling-those-annoying-subscription-services-is-about-to-get-a-whole-lot-easier-heres-how/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/firefox2.jpg)](https://digitpatrox.com/firefox-is-now-more-than-75x-faster-running-webassembly/)
     
-    [Cancelling those annoying subscription services is about to get a whole lot easier — here’s how](https://digitpatrox.com/cancelling-those-annoying-subscription-services-is-about-to-get-a-whole-lot-easier-heres-how/)
+    [Firefox Is Now ”More Than 75X Faster” Running WebAssembly](https://digitpatrox.com/firefox-is-now-more-than-75x-faster-running-webassembly/)
     
     1 hour ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/x36eFsVMn7zTT8Pg9QZZhm-1200-80.jpg)](https://digitpatrox.com/state-sponsored-cyber-crime-is-officially-out-of-control/)
+    
+    [State-sponsored cyber crime is officially out of control](https://digitpatrox.com/state-sponsored-cyber-crime-is-officially-out-of-control/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [7 mins ago
+* [9 mins ago
     
-    ### How Well Do Tesla Superchargers Work for Non-Tesla EVs?](https://digitpatrox.com/how-well-do-tesla-superchargers-work-for-non-tesla-evs/)
-* [10 mins ago
+    ### New Fido standard for passkeys will make it easier to change services](https://digitpatrox.com/new-fido-standard-for-passkeys-will-make-it-easier-to-change-services/)
+* [36 mins ago
     
-    ### Why Linux Is the Best Place to Learn Coding](https://digitpatrox.com/why-linux-is-the-best-place-to-learn-coding/)
+    ### The Most Cliched Halloween Costumes to Avoid in 2024](https://digitpatrox.com/the-most-cliched-halloween-costumes-to-avoid-in-2024/)
 * [1 hour ago
     
-    ### Iomart bolsters cloud expertise with £57 million Atech Cloud acquisition](https://digitpatrox.com/iomart-bolsters-cloud-expertise-with-57-million-atech-cloud-acquisition/)
+    ### Baby Bottles With No Detected BPA, Lead, or Phthalates](https://digitpatrox.com/baby-bottles-with-no-detected-bpa-lead-or-phthalates/)
 
 Most Popular Topics
 
-* [4 weeks ago
+* [September 6, 2024
     
-    ### Eight Strategies You Should Use in Almost Any Debate](https://digitpatrox.com/eight-strategies-you-should-use-in-almost-any-debate/)
-* [September 12, 2024
+    ### Elastic returns to open source, but can it regain the community’s trust? Some industry players aren’t holding their breath](https://digitpatrox.com/elastic-returns-to-open-source-but-can-it-regain-the-communitys-trust-some-industry-players-arent-holding-their-breath/)
+* [5 days ago
     
-    ### Google Cloud Strengthens Backup Service With Vaults](https://digitpatrox.com/google-cloud-strengthens-backup-service-with-vaults/)
-* [August 24, 2024
+    ### Discover How Yaber Is Partnering With Pantone Color Institute With This New Exclusive Projector K3](https://digitpatrox.com/discover-how-yaber-is-partnering-with-pantone-color-institute-with-this-new-exclusive-projector-k3/)
+* [September 3, 2024
     
-    ### To upgrade or not to upgrade? – Computerworld](https://digitpatrox.com/to-upgrade-or-not-to-upgrade-computerworld/)
+    ### Linux version of new Cicada ransomware targets VMware ESXi servers](https://digitpatrox.com/linux-version-of-new-cicada-ransomware-targets-vmware-esxi-servers/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Meta is laying off employees at WhatsApp, Instagram, and more](https://digitpatrox.com/meta-is-laying-off-employees-at-whatsapp-instagram-and-more/)
-* [2 hours ago
-    
-    ### Is Tom Holland’s Spider-Man in Venom 3? Here’s What Tom Hardy Has to Say](https://digitpatrox.com/is-tom-hollands-spider-man-in-venom-3-heres-what-tom-hardy-has-to-say/)
+    ### You only need 2 dumbbells and 6 moves to build full-body muscle and boost your metabolism](https://digitpatrox.com/you-only-need-2-dumbbells-and-6-moves-to-build-full-body-muscle-and-boost-your-metabolism/)
 * [3 hours ago
     
-    ### Illinois school district notifies 1,500 people of data breach that compromised SSNs](https://digitpatrox.com/illinois-school-district-notifies-1500-people-of-data-breach-that-compromised-ssns/)
+    ### 70% of exploited flaws disclosed in 2023 were zero-days](https://digitpatrox.com/70-of-exploited-flaws-disclosed-in-2023-were-zero-days/)
+* [3 hours ago
+    
+    ### Google asks 9th Circuit for emergency stay, says Epic ruling ‘is dangerous’](https://digitpatrox.com/google-asks-9th-circuit-for-emergency-stay-says-epic-ruling-is-dangerous/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 11, 2024
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
