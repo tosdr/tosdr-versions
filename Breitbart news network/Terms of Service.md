@@ -55,7 +55,7 @@
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
 * [Breitbart Fight Club](https://web.breitbart.com/fight-club)
-* [Kamala Plagiarism Scandal](https://www.breitbart.com/tag/plagiarism/)
+* [Kamala Interview Disaster](https://www.breitbart.com/tag/plagiarism/)
 * [2024 Election](https://www.breitbart.com/tag/2024-presidential-election/)
 * [Israel Vs. Hezbollah](https://www.breitbart.com/tag/israel/)
 * [Illegal Alien Crime](https://www.breitbart.com/tag/illegal-immigration/)
