@@ -260,7 +260,7 @@ Legal and Compliance
 Privacy policy
 ==============
 
-![](/uploads/block_backgrounds/_1024x768_fit_center-center_none/large-glass-office-building.png)
+![](/uploads/block_backgrounds/_1920x1080_fit_center-center_none/large-glass-office-building.png)
 
 ### Privacy policy in other languages
 
