@@ -97,31 +97,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 435 1
+0 445 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-carbyrara/)
+[](https://yiff-party.com/yiff/artsu-mythology-created-by-punkypanda/)
 
-[nintendo and etc created by carbyrara](https://yiff-party.com/yiff/nintendo-and-etc-created-by-carbyrara/)
+[artsu (mythology) created by punkypanda](https://yiff-party.com/yiff/artsu-mythology-created-by-punkypanda/)
 
-0 2 0
+0 3 0
 
 October 17, 2024
 
-[](https://yiff-party.com/yiff/directed-by-anubiten-director/)
+[](https://yiff-party.com/yiff/sibuxiang-the-deer-and-tuye-fabulous-beasts-and-etc-created-by-falni/)
 
-[directed by anubiten (director)](https://yiff-party.com/yiff/directed-by-anubiten-director/)
+[sibuxiang the deer and tuye (fabulous beasts and etc) created by falni](https://yiff-party.com/yiff/sibuxiang-the-deer-and-tuye-fabulous-beasts-and-etc-created-by-falni/)
 
-0 106 0
+0 182 0
 
 September 17, 2024
 
-[](https://yiff-party.com/yiff/toriel-undertale-series-created-by-albertomangala/)
+[](https://yiff-party.com/yiff/aphrodite-the-absol-and-artemis-the-absol-nintendo-and-etc-created-by-xilrayne/)
 
-[toriel (undertale (series)) created by albertomangala](https://yiff-party.com/yiff/toriel-undertale-series-created-by-albertomangala/)
+[aphrodite the absol and artemis the absol (nintendo and etc) created by xilrayne](https://yiff-party.com/yiff/aphrodite-the-absol-and-artemis-the-absol-nintendo-and-etc-created-by-xilrayne/)
 
-0 60 0
+0 123 0
 
 September 17, 2024
 
