@@ -2,9 +2,9 @@
 
 ### Neu?
 
-![Bergfreund Max](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-max.png)
+![Bergfreund Hannes](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannes.png)
 
-Bergfreund Max
+Bergfreund Hannes
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -118,17 +118,17 @@ Menü
     
     Highlights
     
-    * [Wanderhosen](https://www.bergfreunde.de/trekkinghosen/ "Wanderhosen anzeigen")
-    * [Windbreaker](https://www.bergfreunde.de/windjacken/ "Windbreaker anzeigen")
-    * [Merinobekleidung](https://www.bergfreunde.de/outdoor-bekleidung/material--merinowolle/ "Merinobekleidung anzeigen")
+    * [Wintermäntel](https://www.bergfreunde.de/maentel/ "Wintermäntel anzeigen")
+    * [Norwegerpullover](https://www.bergfreunde.de/norwegerpullover/ "Norwegerpullover  anzeigen")
+    * [Fleecewesten](https://www.bergfreunde.de/fleecewesten/ "Fleecewesten anzeigen")
     * [Regenbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/eigenschaften--wasserdicht/ "Regenbekleidung anzeigen")
-    * [Wanderleggings](https://www.bergfreunde.de/tights-leggings/einsatzbereich--wandern/ "Wanderleggings anzeigen")
-    * [Softshelljacken](https://www.bergfreunde.de/softshelljacken/ "Softshelljacken anzeigen")
-    * [Merinoshirts](https://www.bergfreunde.de/merinoshirts/ "Merinoshirts anzeigen")
+    * [3 in 1 Jacken](https://www.bergfreunde.de/doppeljacken/ "3 in 1 Jacken anzeigen")
+    * [Merinopullover](https://www.bergfreunde.de/woll-merinopullover/ "Merinopullover  anzeigen")
+    * [Fleecejacken](https://www.bergfreunde.de/fleecejacken/ "Fleecejacken  anzeigen")
     * [Regenjacken](https://www.bergfreunde.de/regenjacken/ "Regenjacken anzeigen")
-    * [Boulderhosen](https://www.bergfreunde.de/boulderhosen/ "Boulderhosen anzeigen")
-    * [Fleecejacken](https://www.bergfreunde.de/fleecejacken/ "Fleecejacken anzeigen")
-    * [Funktionsshirts](https://www.bergfreunde.de/funktionsshirts/ "Funktionsshirts anzeigen")
+    * [Winterparka](https://www.bergfreunde.de/parkas/ "Winterparka anzeigen")
+    * [Merinoshirts](https://www.bergfreunde.de/merinoshirts/ "Merinoshirts anzeigen")
+    * [Fleecepullover](https://www.bergfreunde.de/fleecepullover/ "Fleecepullover  anzeigen")
     * [Regenhosen](https://www.bergfreunde.de/regenhosen/ "Regenhosen anzeigen")
     
 * [Schuhe](https://www.bergfreunde.de/outdoor-schuhe/)
@@ -174,18 +174,18 @@ Menü
     
     Highlights
     
-    * [Boulderschuhe](https://www.bergfreunde.de/kletterschuhe/einsatzbereich--bouldern/ "Boulderschuhe anzeigen")
-    * [Merinosocken](https://www.bergfreunde.de/merinosocken/ "Merinosocken anzeigen")
-    * [Freizeitschuhe](https://www.bergfreunde.de/freizeitschuhe/ "Freizeitschuhe anzeigen")
+    * [Barfußschuhe](https://www.bergfreunde.de/barfussschuhe/ "Barfußschuhe anzeigen")
     * [Gore-Tex Schuhe](https://www.bergfreunde.de/outdoor-schuhe/eigenschaften--gore-tex/ "Gore-Tex Schuhe anzeigen")
-    * [Wandersandalen](https://www.bergfreunde.de/sandalen/einsatzbereich--wandern/ "Wandersandalen anzeigen")
-    * [Wandersocken](https://www.bergfreunde.de/wandersocken/ "Wandersocken anzeigen")
-    * [Wasserschuhe](https://www.bergfreunde.de/wassersportschuhe/ "Wasserschuhe anzeigen")
-    * [Gummistiefel](https://www.bergfreunde.de/gummistiefel/ "Gummistiefel anzeigen")
-    * [Leichtwanderschuhe](https://www.bergfreunde.de/p/leichtwanderschuhe/ "Leichtwanderschuhe anzeigen")
-    * [Kompressionssocken](https://www.bergfreunde.de/kompressionssocken/ "Kompressionssocken anzeigen")
-    * [Trekkingsandalen](https://www.bergfreunde.de/sandalen/typ--trekkingsandalen/ "Trekkingsandalen anzeigen")
+    * [Thermosocken](https://www.bergfreunde.de/p/thermosocken/ "Thermosocken anzeigen")
+    * [Bergschuhe](https://www.bergfreunde.de/bergschuhe/ "Bergschuhe anzeigen")
+    * [Freizeitstiefel](https://www.bergfreunde.de/freizeitstiefel/ "Freizeitstiefel anzeigen")
     * [Wasserdichte Schuhe](https://www.bergfreunde.de/outdoor-schuhe/eigenschaften--wasserdicht/ "Wasserdichte Schuhe anzeigen")
+    * [Wintersocken](https://www.bergfreunde.de/wintersocken/ "Wintersocken anzeigen")
+    * [Boulderschuhe](https://www.bergfreunde.de/kletterschuhe/einsatzbereich--bouldern/ "Boulderschuhe anzeigen")
+    * [Leichtwanderschuhe](https://www.bergfreunde.de/p/leichtwanderschuhe/ "Leichtwanderschuhe anzeigen")
+    * [Gummistiefel](https://www.bergfreunde.de/gummistiefel/ "Gummistiefel anzeigen")
+    * [Kompressionssocken](https://www.bergfreunde.de/kompressionssocken/ "Kompressionssocken anzeigen")
+    * [Hüttenschuhe](https://www.bergfreunde.de/huettenschuhe/ "Hüttenschuhe anzeigen")
     
 * [Ausrüstung](https://www.bergfreunde.de/outdoor-ausruestung/)
     
@@ -574,14 +574,14 @@ Menü
     
     Highlights
     
-    * [Jacken Outlet](https://www.bergfreunde.de/outlet/outdoor-jacken/ "Jacken Outlet anzeigen")
+    * [Ski Outlet](https://www.bergfreunde.de/outlet/einsatzbereich--ski/ "Ski Outlet anzeigen")
+    * [Skitouren Outlet](https://www.bergfreunde.de/outlet/einsatzbereich--skitour/ "Skitouren Outlet anzeigen")
     * [Wandern Outlet](https://www.bergfreunde.de/outlet/einsatzbereich--wandern/ "Wandern Outlet anzeigen")
-    * [Bergsport Outlet](https://www.bergfreunde.de/outlet/einsatzbereich--hochtouren/ "Bergsport Outlet anzeigen")
-    * [Wanderschuhe Outlet](https://www.bergfreunde.de/outlet/wanderschuhe/ "Wanderschuhe Outlet anzeigen")
-    * [Hosen Outlet](https://www.bergfreunde.de/outlet/outdoor-hosen/ "Hosen Outlet anzeigen")
-    * [Trekking Outlet](https://www.bergfreunde.de/outlet/einsatzbereich--trekking/ "Trekking Outlet anzeigen")
-    * [Camping Outlet](https://www.bergfreunde.de/outlet/einsatzbereich--camping/ "Camping Outlet anzeigen")
+    * [MTB Outlet](https://www.bergfreunde.de/outlet/einsatzbereich--mountainbike/ "MTB Outlet anzeigen")
+    * [Snowboard Outlet](https://www.bergfreunde.de/outlet/einsatzbereich--snowboard/ "Snowboard Outlet anzeigen")
+    * [Jacken Outlet](https://www.bergfreunde.de/outlet/outdoor-jacken/ "Jacken Outlet anzeigen")
     * [Merino Outlet](https://www.bergfreunde.de/outlet/material--merinowolle/ "Merino Outlet anzeigen")
+    * [Rennrad Outlet](https://www.bergfreunde.de/outlet/einsatzbereich--rennrad/ "Rennrad Outlet anzeigen")
     
 
  
@@ -823,9 +823,9 @@ Weiterführende Informationen:
 
 Stand März 2024
 
-![Bergfreundin Johanna - Nachhaltigkeitsmanagement](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johanna.png) Bergfreundin Johanna - Nachhaltigkeitsmanagement
+![Bergfreund Johannes - Einkäufer](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johannes.png) Bergfreund Johannes - Einkäufer
 
-"Ich suche nach kleinen und großen Ideen, wie die Bergfreunde nachhaltiger werden können."
+"Ich finde die besten & neuesten Outdoor-Produkte für Dich!"
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Finde mehr Info zu den Versandkosten hier!")
 
@@ -833,11 +833,11 @@ Stand März 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 43502 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43563 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 43.502 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.563 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
@@ -916,7 +916,6 @@ Highlights
 * [Kaufberatung](https://www.bergfreunde.de/blog/category/beratung/kaufberatung/)
 * [Packlisten](https://www.bergfreunde.de/blog/category/beratung/packlisten/)
 * [Pflege & Reparatur](https://www.bergfreunde.de/blog/category/know-how/pflege-reparatur/)
-* [Testberichte](https://www.bergfreunde.de/blog/category/beratung/testberichte/)
 * [Black Friday](https://www.bergfreunde.de/black-weekend/)
 
 * [Merinobekleidung](https://www.bergfreunde.de/outdoor-bekleidung/material--merinowolle/)
@@ -924,24 +923,21 @@ Highlights
 * [Regenponchos](https://www.bergfreunde.de/ponchos/eigenschaften--wasserdicht/)
 * [Wanderleggings](https://www.bergfreunde.de/tights-leggings/einsatzbereich--wandern/)
 * [Ultraleichte Jacken](https://www.bergfreunde.de/outdoor-jacken/eigenschaften--ultraleicht/)
-* [Wandershorts](https://www.bergfreunde.de/shorts-3-4-hosen/einsatzbereich--wandern/)
-* [Fleecepullover](https://www.bergfreunde.de/fleecepullover/)
+* [Wanderhosen](https://www.bergfreunde.de/trekkinghosen/)
 
 * [Hüttenschlafsäcke](https://www.bergfreunde.de/huettenschlafsaecke-inlays/)
 * [Reiserucksäcke](https://www.bergfreunde.de/reiserucksaecke/)
 * [Ultraleichte Schlafsäcke](https://www.bergfreunde.de/schlafsaecke/eigenschaften--ultraleicht/)
-* [3-in-1 Jacken](https://www.bergfreunde.de/doppeljacken/)
+* [Kinderrucksäcke](https://www.bergfreunde.de/kinderrucksaecke/)
 * [Biwaksäcke](https://www.bergfreunde.de/biwaksaecke/)
 * [Selbsttönende Fahrradbrillen](https://www.bergfreunde.de/fahrradbrillen/eigenschaften--selbsttoenend/)
-* [Kinderrucksäcke](https://www.bergfreunde.de/kinderrucksaecke/)
 
 * [Teva](https://www.bergfreunde.de/marken/teva/)
 * [Duckfeet](https://www.bergfreunde.de/marken/duckfeet/)
 * [Maloja](https://www.bergfreunde.de/marken/maloja/)
-* [Dolomite](https://www.bergfreunde.de/marken/dolomite/)
+* [Hanwag](https://www.bergfreunde.de/marken/hanwag/)
 * [Fjällräven](https://www.bergfreunde.de/marken/fjaellraeven/)
 * [Trollkids](https://www.bergfreunde.de/marken/trollkids/)
-* [Hanwag](https://www.bergfreunde.de/marken/hanwag/)
 
 Alle Inhalte im Überblick gibt es in der [Sitemap](https://www.bergfreunde.de/sitemap/ "Sitemap Bergfreunde.de").
 
