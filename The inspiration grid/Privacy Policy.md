@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/10/editorial-analogue-3d-feature.jpg)
+
+[Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
+
+[](https://theinspirationgrid.com/editorial/analogues-sleek-recreation-of-the-n64-fully-revealed-launching-early-2025/)
+
+### Analogue’s sleek recreation of the N64 fully revealed, launching early 2025
+
 ![](https://inspgr.id/app/uploads/2024/10/ada-winners-packaging-feature.jpg)
 
 [Branding](https://theinspirationgrid.com/category/identity/)[Graphic Design](https://theinspirationgrid.com/category/design/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/the-best-halloween-graphics-for-your-spooky-projects/)
 
 ### The Best Halloween Graphics for Your Spooky Projects
-
-![](https://inspgr.id/app/uploads/2024/09/retro-fonts-roundup-feature.jpg)
-
-[Branding](https://theinspirationgrid.com/category/identity/)[Graphic Design](https://theinspirationgrid.com/category/design/)
-
-[](https://theinspirationgrid.com/editorial/retro-revival-the-best-fonts-for-your-vintage-inspired-designs/)
-
-### Retro Revival: The Best Fonts for your Vintage-Inspired Designs
 
 #want
 -----
@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/art-anand-rk-feature.jpg)
+
+[](https://theinspirationgrid.com/stunning-comic-book-art-by-anand-rk/)
+
+### Stunning Comic Book Art by Anand RK
+
+![](https://inspgr.id/app/uploads/2024/10/art-ma-yansong-feature.jpg)
+
+[](https://theinspirationgrid.com/ephemeral-bubble-art-installation-by-mad-architects/)
+
+### Ephemeral Bubble: Art Installation by Mad Architects
+
 ![](https://inspgr.id/app/uploads/2024/10/design-sela-feature.jpg)
 
 [](https://theinspirationgrid.com/space-exploration-logo-archive-an-anthology-by-davide-mascioli/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/kaleidoscopic-portraits-by-kevin-m-fletcher/)
 
 ### Kaleidoscopic Portraits by Kevin M. Fletcher
-
-![](https://inspgr.id/app/uploads/2024/10/lettering-halfstudio-feature.jpg)
-
-[](https://theinspirationgrid.com/amazing-lettering-creations-by-halfstudio/)
-
-### Amazing Lettering Creations by Halfstudio
-
-![](https://inspgr.id/app/uploads/2024/10/street-art-epsilon-feature.jpg)
-
-[](https://theinspirationgrid.com/bold-large-scale-murals-by-epsilon/)
-
-### Bold Large-Scale Murals by Epsilon
 
 Awesome products for creatives
 ------------------------------
