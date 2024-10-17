@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Трудоустройство участников СВО, профориентация подростков, переподготовка кадров: партпроект «Моя карьера с Единой Россией» представил итоги работы с начала года](https://cdn.er.ru/media/news/October2024/0fudalmTeilGZxFYrTus-small.JPG)](https://er.ru/activity/news/trudoustrojstvo-uchastnikov-svo-proforientaciya-podrostkov-perepodgotovka-kadrov-partproekt-moya-karera-s-edinoj-rossiej-predstavil-itogi-raboty-s-nachala-goda)
+
+[Трудоустройство участников СВО, профориентация подростков, переподготовка кадров: партпроект «Моя карьера с Единой Россией» представил итоги работы с начала года](https://er.ru/activity/news/trudoustrojstvo-uchastnikov-svo-proforientaciya-podrostkov-perepodgotovka-kadrov-partproekt-moya-karera-s-edinoj-rossiej-predstavil-itogi-raboty-s-nachala-goda)
+
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#Иванков](https://er.ru/activity/news?tags%5B0%5D=92573) [#Роструд](https://er.ru/activity/news?tags%5B0%5D=30255) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#МояКарьерасЕдинойРоссией](https://er.ru/activity/news?tags%5B0%5D=1093129) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#профориентация](https://er.ru/activity/news?tags%5B0%5D=6397) [центрызанятости](https://er.ru/activity/news?tags%5B0%5D=153605) [#рыноктруда](https://er.ru/activity/news?tags%5B0%5D=112742) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642)
+
+Сегодня 12:30
+
 [![Подготовка к выборам, привлечение активистов и молодежи, работа с избирателями и первичками: Дмитрий Медведев поставил задачи региональным отделениям «Единой России»](https://cdn.er.ru/media/news/October2024/Ts1ybY83k6Rmib8BUaPe-small.jpg)](https://er.ru/activity/news/podgotovka-k-vyboram-privlechenie-aktivistov-i-molodezhi-rabota-s-izbiratelyami-i-pervichkami-dmitrij-medvedev-postavil-zadachi-regionalnym-otdeleniyam-edinoj-rossii)
 
 [Подготовка к выборам, привлечение активистов и молодежи, работа с избирателями и первичками: Дмитрий Медведев поставил задачи региональным отделениям «Единой России»](https://er.ru/activity/news/podgotovka-k-vyboram-privlechenie-aktivistov-i-molodezhi-rabota-s-izbiratelyami-i-pervichkami-dmitrij-medvedev-postavil-zadachi-regionalnym-otdeleniyam-edinoj-rossii)
@@ -336,14 +344,6 @@
 [Дмитрий Медведев: «Единая Россия» достойно выступит на выборах 25/26](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-dostojno-vystupit-na-vyborah-25-26)
 
 [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#региональныйисполком](https://er.ru/activity/news?tags%5B0%5D=132701) [#выборы](https://er.ru/activity/news?tags%5B0%5D=31) [#предварительноеголосование](https://er.ru/activity/news?tags%5B0%5D=100833) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
-
-16.10.24
-
-[![Госдума одобрила в первом чтении законопроект «Единой России» об отмене НДФЛ на возмещение расходов волонтёров на оплату медуслуг](https://cdn.er.ru/media/news/October2024/GcVGfNxGMYBZpnIijLFC-small.jpg)](https://er.ru/activity/news/gosduma-odobrila-v-pervom-chtenii-zakonoproekt-edinoj-rossii-ob-otmene-ndfl-na-vozmeshenie-rashodov-volontyorov-na-oplatu-meduslug)
-
-[Госдума одобрила в первом чтении законопроект «Единой России» об отмене НДФЛ на возмещение расходов волонтёров на оплату медуслуг](https://er.ru/activity/news/gosduma-odobrila-v-pervom-chtenii-zakonoproekt-edinoj-rossii-ob-otmene-ndfl-na-vozmeshenie-rashodov-volontyorov-na-oplatu-meduslug)
-
-[#Чаплин](https://er.ru/activity/news?tags%5B0%5D=4512) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#НДФЛ](https://er.ru/activity/news?tags%5B0%5D=1219) [#медуслуги](https://er.ru/activity/news?tags%5B0%5D=94272)
 
 16.10.24
 
