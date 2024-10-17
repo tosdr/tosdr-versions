@@ -2,9 +2,13 @@
 
 [Skip to content](#content)
 
-[![](https://nwh.com/wp-content/uploads/2022/07/TheAlderAuthorityTopBar-300x23.png)](https://www.nwh.com/alder-authority)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2023'%3E%3C/svg%3E)
 
-[![](https://nwh.com/wp-content/uploads/2022/07/logo-1.svg)](https://nwh.com/)
+![](https://nwh.com/wp-content/uploads/2022/07/TheAlderAuthorityTopBar-300x23.png)](https://www.nwh.com/alder-authority)
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20152%2061'%3E%3C/svg%3E)
+
+![](https://nwh.com/wp-content/uploads/2022/07/logo-1.svg)](https://nwh.com/)
 
 Menu
 
@@ -13,6 +17,7 @@ Menu
     * [North American Hardwoods](https://nwh.com/products-services/hardwood/)
         * [Western](https://nwh.com/products/western/)
             * [Alder](https://nwh.com/products/western/alder/)
+            * [Oregon White Oak](https://nwh.com/products/western/oregon-white-oak/)
             * [Pacific Coast Maple](https://nwh.com/products/western/pacific-coast-maple/)
         * [Glacial](https://nwh.com/products/glacial/)
             * [Ash](https://nwh.com/products/glacial/ash/)
@@ -85,7 +90,11 @@ Menu
     * [Procurement](https://nwh.com/purchasing/)
 * [Careers](https://nwh.com/company/careers/)
 * [Search](https://nwh.com/search/)
-* [![](https://nwh.com/wp-content/uploads/flags/nwhUSA-white.svg)English](https://nwh.com/terms-and-conditions/ "English")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://nwh.com/wp-content/uploads/flags/nwhUSA-white.svg)
+    
+    English](https://nwh.com/terms-and-conditions/ "English")
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![](https://nwh.com/wp-content/uploads/flags/nwhES-white1.svg)
@@ -98,7 +107,11 @@ Menu
     * [Procurement](https://nwh.com/purchasing/)
 * [Careers](https://nwh.com/company/careers/)
 * [Search](https://nwh.com/search/)
-* [![](https://nwh.com/wp-content/uploads/flags/nwhUSA-white.svg)English](https://nwh.com/terms-and-conditions/ "English")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://nwh.com/wp-content/uploads/flags/nwhUSA-white.svg)
+    
+    English](https://nwh.com/terms-and-conditions/ "English")
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![](https://nwh.com/wp-content/uploads/flags/nwhES-white1.svg)
@@ -178,7 +191,9 @@ Governing Law & Jurisdiction
 
 These Terms will be governed by and interpreted in accordance with the laws of the State of us, and you submit to the non-exclusive jurisdiction of the state and federal courts located in us for the resolution of any disputes.
 
-[![](https://nwh.com/wp-content/uploads/2022/07/logo-1.svg)](https://nwh.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20152%2061'%3E%3C/svg%3E)
+
+![](https://nwh.com/wp-content/uploads/2022/07/logo-1.svg)](https://nwh.com/)
 
 * [History](https://nwh.com/company/history/)
 * [Company](https://nwh.com/company/)
@@ -228,7 +243,11 @@ Frisco, TX 75034
 
 ![](https://px.ads.linkedin.com/collect/?pid=5480682&fmt=gif)
 
-* [![](https://nwh.com/wp-content/uploads/flags/nwhUSA-white.svg)English](https://nwh.com/terms-and-conditions/)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![](https://nwh.com/wp-content/uploads/flags/nwhUSA-white.svg)
+    
+    English](https://nwh.com/terms-and-conditions/)
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
     ![](https://nwh.com/wp-content/uploads/flags/nwhES-white1.svg)
