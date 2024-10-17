@@ -31,9 +31,10 @@
     Our mission: Be the world’s most trusted driver
     
     * [Our History](https://waymo.com/about/#story)
-    * [Waymo Leadership](https://waymo.com/about/#bios)
+    * [Sustainability](https://waymo.com/sustainability)
     * [Latest Updates](https://waymo.com/about/#blog)
     * [Press Resources](https://waymo.com/about/#resources)
+    * [Waymo Leadership](https://waymo.com/about/#bios)
     
       ![](https://lh3.googleusercontent.com/zRpqLUgCQvULzBn-XIpFeWWLjHvOC09QFT0zUDh8vclC5AnybvRiqePEcbLOyLEa8v9HKmake_gnKfTZVQXMq4o-Co-QmDxIjwakwA=s0-e365)
     
@@ -241,6 +242,7 @@ The failure of Waymo to exercise or enforce any right or provision of these Term
 * [Waymo Community](https://ltad.com/)
 * [Contact Us](https://waymo.com/contact/)
 * [Notice to CA Residents](https://support.google.com/waymo/answer/9681942)
+* [Sustainability](https://waymo.com/sustainability/)
 
 Sign up for updates to get the latest on Waymo.
 
