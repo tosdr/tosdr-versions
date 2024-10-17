@@ -158,7 +158,7 @@ ADD TO TOTE
 
 ### [Creamy Long Last Liner](https://www.100percentpure.com/products/creamy-long-last-liner)
 
-2022 reviews (2022)
+2023 reviews (2023)
 
 $27.00 $27.00
 
