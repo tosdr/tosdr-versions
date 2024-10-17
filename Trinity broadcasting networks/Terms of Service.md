@@ -283,7 +283,7 @@ Donations to Trinity Broadcasting Network are Tax Deductible to the extent permi
 
 EIN: 74-1945661
 
-[![](/sites/default/files/2024-01/tbnlogo-white.png)](https://www.tbn.org/index.php/)
+[![](/sites/default/files/2024-01/tbnlogo-white.png)](https://www.tbn.org/)
 
 ×
 
