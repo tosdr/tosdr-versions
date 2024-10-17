@@ -118,57 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Hugo van Sittert
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=9515909)  
-BD Maintenance
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=134531238)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=55823986)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=163094606)  
+Import Maaw
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=159759663)  
-AFS Electrical
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=49748891)  
+Nilbet T/A Waterman
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=86667431)  
-Forgotten Goods (Pty) Ltd
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=62747433)  
+MSPCloud (Pty) Ltd
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=189301412)  
-J.M. HUMAN RESOURCES
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=183415546)  
+Printo
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=16811037)  
-Lion Software Develepment
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=173458197)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=32840553)  
-Camp 4 Africa (Pty) Ltd
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=44887181)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=200189614)  
-Imvubu General Trading
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=155517744)  
+FX ACCOUNTING
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=194802767)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=85563869)  
+Lily Fern & Co
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=44417448)  
-Little Nutty Professors
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=50442872)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=9188586)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=158342498)  
+APTV Telecoms CC
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=56890934)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=44451616)  
+VA AND M DEBT-AID (PTY) LTD
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=83519365)  
-High Point Marketing CC t/a Leads For Africa
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=44613347)  
+VIR Electrical (PTY) LTD
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=142660922)  
-Roamfree Boerdery (PTY) LTD
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=76899583)  
+Westside Car Audio CC
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=209961943)  
-SR Travel Services
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=7ffbd7ed5fd41de277f4ea028ea6746822290062010cd36908f75f122fc89373&c=18281186)  
+Turnkey Innovations
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
