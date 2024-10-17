@@ -1,9 +1,6 @@
 [Skip to main content](#main)
 
 [![Nextcloud Hub 9 is here!
-](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Nextcloud Hub 9 is here!
 ](https://nextcloud.com/c/uploads/2024/07/nc-hub9-logo-blue-gradient.svg)](https://nextcloud.com/blog/nextcloud-hub9/ "Nextcloud Hub 9 is here!
 ")
 
@@ -29,9 +26,7 @@
 
 [Register now](https://nextcloud.com/enterprise-day/ "Nextcloud Enterprise Day 2024")
 
-[![Nextcloud logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
-
-![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
+[![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
 
 * [Products](# "Products")
     * [![Nextcloud Hub](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
