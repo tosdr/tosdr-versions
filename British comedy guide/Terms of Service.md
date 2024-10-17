@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Lachlan Werner](https://cdn.comedy.co.uk/images/library/people/300x200/l/lachlan_werner_bw.jpg "Lachlan Werner")](https://www.comedy.co.uk/live/features/lachlan-werner-spooky-heroes/) Live
+
+[Lachlan Werner's top 10 spooky heroes](https://www.comedy.co.uk/live/features/lachlan-werner-spooky-heroes/)
+
 [![Slinger's Day. Cecil Slinger (Bruce Forsyth). Copyright: Thames Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/s/slingers_day2.jpg "Slinger's Day. Cecil Slinger (Bruce Forsyth). Copyright: Thames Television")](https://www.comedy.co.uk/quiz/328/) Quiz
 
 [British Comedy Quiz #328](https://www.comedy.co.uk/quiz/328/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![No - Honestly. Image shows left to right: C.D. (John Alderton), Clara (Pauline Collins). Credit: London Weekend Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/n/no_honestly2.jpg "No - Honestly. Image shows left to right: C.D. (John Alderton), Clara (Pauline Collins). Credit: London Weekend Television")](https://www.comedy.co.uk/features/comedy-rewind/no-honestly/) Features
 
 [Comedy Rewind: No - Honestly; it's charming](https://www.comedy.co.uk/features/comedy-rewind/no-honestly/)
-
-[![Everyone Else Burns. Image shows left to right: Rachel (Amy James-Kelly), Fiona Lewis (Kate O'Flynn), David Lewis (Simon Bird), Aaron (Harry Connor)](https://cdn.comedy.co.uk/images/library/comedies/300x200/e/everyone_else_burns_series2.jpg "Everyone Else Burns. Image shows left to right: Rachel (Amy James-Kelly), Fiona Lewis (Kate O'Flynn), David Lewis (Simon Bird), Aaron (Harry Connor)")](https://www.comedy.co.uk/tv/everyone-else-burns/interviews/series-2-cast-and-writers/) TV
-
-[Everyone Else Burns interview](https://www.comedy.co.uk/tv/everyone-else-burns/interviews/series-2-cast-and-writers/)
 
 #### Subscribe to our newsletters
 
