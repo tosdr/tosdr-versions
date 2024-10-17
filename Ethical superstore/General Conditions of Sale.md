@@ -168,8 +168,8 @@ Customer Services Helpline
         
         * [Mens](https://www.ethicalsuperstore.com/category/fashion/mens/)
             * [Tops & T-Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/t_shirts/)
-            * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
             * [Graphic Tees](https://www.ethicalsuperstore.com/category/fashion/mens/graphic-tees/)
+            * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
             * [Trousers & Shorts](https://www.ethicalsuperstore.com/category/fashion/mens/trousers-and-shorts/)
             * [Jackets & Jumpers](https://www.ethicalsuperstore.com/category/fashion/mens/jackets-and-jumpers/)
             * [Pyjamas & Underwear](https://www.ethicalsuperstore.com/category/fashion/mens/underwear/)
@@ -206,8 +206,8 @@ Customer Services Helpline
         * [Garden & Outdoor](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/)
             * [Garden Accessories](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/garden-accessories/)
             * [Plants & Seeds](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/trees-plants-and-seeds/)
-            * [Wildlife](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/wildlife/)
             * [Solar Lighting](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/solar-garden-products/)
+            * [Wildlife](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/wildlife/)
             * [Picnic & Outdoor Living](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/outdoor-furniture/)
         
         * [Kitchen & Dining](https://www.ethicalsuperstore.com/category/home-and-garden/kitchen-and-dining/)
@@ -322,8 +322,7 @@ Customer Services Helpline
             * [Wooden Toys](https://www.ethicalsuperstore.com/category/baby-child-and-toys/toys/wooden-toys/)
         
 * [Gifts](https://www.ethicalsuperstore.com/ethical-gifts/)
-    * * [The Holiday Shop](https://www.ethicalsuperstore.com/ethical-gifts/the-holiday-shop/)
-        * [Gifts Below £10](https://www.ethicalsuperstore.com/ethical-gifts/gifts-below-10/)
+    * * [Gifts Below £10](https://www.ethicalsuperstore.com/ethical-gifts/gifts-below-10/)
         * [Gifts Below £20](https://www.ethicalsuperstore.com/ethical-gifts/gifts-below-20/)
         * [Gifts Below £30](https://www.ethicalsuperstore.com/ethical-gifts/gifts-below-30/)
         
@@ -338,6 +337,7 @@ Customer Services Helpline
         * [Plastic Free Gifts](https://www.ethicalsuperstore.com/ethical-gifts/plastic-free-gifts/)
         * [Calendars, Cards & Wrap](https://www.ethicalsuperstore.com/ethical-gifts/cards-and-wrap/)
         
+        * [Advent Calendars](https://www.ethicalsuperstore.com/ethical-gifts/advent-calendars/)
         * [For Green Gardeners](https://www.ethicalsuperstore.com/ethical-gifts/garden-gift-ideas/)
         * [Vegan Gifts](https://www.ethicalsuperstore.com/ethical-gifts/vegan-gifts/)
         * [For Foodies](https://www.ethicalsuperstore.com/ethical-gifts/gifts-for-foodies/)
