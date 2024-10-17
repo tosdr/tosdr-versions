@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Hitler’s Children: Sacrifice](/wp-content/thumbnails/2845-100x70.jpg?x53432)
+* [![ROG – The Ronan O’Gara Documentary](/wp-content/thumbnails/12902-100x70.jpg?x53432)
     
-    Hitler’s Children: Sacrifice
+    ROG – The Ronan O’Gara Documentary
     
-    Never has a generation been so completely taken over by a totalitarian state as was the case in Hitler’s Third Reich: at the age of 10 children joined the “Jungvolk” movement, at 14 they joined the Hi](https://documentaryheaven.com/hitlers-children-sacrifice/ "Hitler’s Children: Sacrifice")
-* [![Dead Famous: Melbourne’s Underworld War](/wp-content/thumbnails/7631-100x70.jpg?x53432)
+    Ronan O'Gara is a former Irish rugby union player, who played fly-half for both Ireland and Munster. Throughout his career he managed to collect 128 caps, making him Irelands second most-capped player](https://documentaryheaven.com/rog-ronan-ogara-documentary/ "ROG – The Ronan O’Gara Documentary")
+* [![North Korean Super Spy](/wp-content/thumbnails/7059-100x70.jpg?x53432)
     
-    Dead Famous: Melbourne’s Underworld War
+    North Korean Super Spy
     
-    Dead Famous lifts the lid on the slaughter that resulted when two underworld tribes went to war over drug profits during Melbourne’s infamous gangland killings.This documentary takes viewers behind](https://documentaryheaven.com/dead-famous-melbournes-underworld-war/ "Dead Famous: Melbourne’s Underworld War")
-* [![Russian Revolution in Color](/wp-content/thumbnails/9177-100x70.jpg?x53432)
+    As the Korean peninsula teeters on the brink of war, North Korea’s former top female spy reveals details behind the rogue state’s most deadly terrorist attack.Kim Hyon Hui is the femme fatale behi](https://documentaryheaven.com/north-korean-super-spy/ "North Korean Super Spy")
+* [![Hard Time: Worst of the Worst](/wp-content/thumbnails/6550-100x70.jpg?x53432)
     
-    Russian Revolution in Color
+    Hard Time: Worst of the Worst
     
-    The Russian Revolution changed the world forever, almost overnight an entire society was destroyed and replaced with on of the most radical social experiments ever seen. Poverty, crime, privilege and](https://documentaryheaven.com/russian-revolution-color/ "Russian Revolution in Color")
-* [![Oliver The Chimp](/wp-content/thumbnails/3034-100x70.png?x53432)
+    Welcome to the worst of the worst. Do a crime and get caught: you go to jail. Behave poorly in jail and you go to solitary confinement. But what if you don’t clean up your act? There’s another step –](https://documentaryheaven.com/hard-time-worst-of-the-worst/ "Hard Time: Worst of the Worst")
+* [![Children of Beslan](/wp-content/thumbnails/4917-100x70.jpg?x53432)
     
-    Oliver The Chimp
+    Children of Beslan
     
-    In January 1976 news broke of a phenomenon. Pictures showed an upright bald ape called Oliver, who appeared to be a cross between a human and a chimpanzee; What scientists refer to as a humanzee.O](https://documentaryheaven.com/oliver-the-chimp/ "Oliver The Chimp")
-* [![The Alternativity](/wp-content/thumbnails/13745-100x70.jpg?x53432)
+    In Russia, Sept. 1 is the Day of Knowledge, a joyous annual event marking the start of the new school year. But Knowledge Day 2004 was different at School No. 1 in Beslan: A group of heavily armed reb](https://documentaryheaven.com/children-of-beslan/ "Children of Beslan")
+* [![The Prime Minister and the Press](/wp-content/thumbnails/1846-100x70.jpg?x53432)
     
-    The Alternativity
+    The Prime Minister and the Press
     
-    The Alternativity is a story which takes us to the city of Bethlehem, world capital of the international Jesus Christ birthday business and this year Bethlehem became home to a very unique h](https://documentaryheaven.com/alternativity/ "The Alternativity")
+    Media watchdog Reporters Without Borders recently ranked Italy at the bottom of the list for countries in the European Union on its press freedom index. Prime Minister Silvio Berlusconi is not only I](https://documentaryheaven.com/the-prime-minister-and-the-press/ "The Prime Minister and the Press")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
