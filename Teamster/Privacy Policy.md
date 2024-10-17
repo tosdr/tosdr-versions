@@ -104,6 +104,7 @@ Washington D.C., 20001
     * [Leadership](https://teamster.org/about/leadership/)
     * [Teamster Departments](https://teamster.org/about/teamster-departments/)
     * [IBT Constitution](https://teamster.org/wp-content/uploads/2022/03/2021IBTCONSTITUTIONBooklet.pdf)
+    * [Guide to LU Officer Elections](https://teamster.org/wp-content/uploads/2024/10/1016242022TeamstersGuidelinesforConductingLUOfficerElections.pdf)
 * [Member Resources](https://teamster.org/member-resources/)
     * [Why Join the Teamsters?](https://teamster.org/why-join-the-teamsters/)
     * [Training and Grants](https://teamster.org/training-and-grants/)
