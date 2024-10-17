@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your service and support has been first class and I would recommend it.
+Foxy Proxy Team, we do not need to renew our subscription until November, when we will be in touch. We do enjoy this service.
 
-Ray Mitchell
+Christina Spink
