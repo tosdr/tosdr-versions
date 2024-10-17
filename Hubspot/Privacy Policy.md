@@ -592,7 +592,7 @@ Popular Features
 
 * [All Products and Features](https://www.hubspot.com/products)
 * [Free Meeting Scheduler App](https://www.hubspot.com/products/sales/schedule-meeting)
-* [HubSpot AI Tools](https://www.hubspot.com/products/artificial-intelligence)
+* [Breeze AI Tools](https://www.hubspot.com/products/artificial-intelligence)
 * [Email Tracking Software](https://www.hubspot.com/products/sales/email-tracking)
 * [AI Content Writer](https://www.hubspot.com/products/cms/ai-content-writer)
 * [AI Website Generator](https://www.hubspot.com/products/cms/ai-website-generator)
@@ -612,19 +612,20 @@ Free Tools
 ----------
 
 * [See All Free Business Tools](https://www.hubspot.com/free-business-tools)
+* [AI Search Grader](https://www.hubspot.com/ai-search-grader)
 * [Clip Creator](https://www.hubspot.com/clip-creator)
-* [Website Grader](https://website.grader.com/?__hstc=20629287.e4e046660731447bf82affe18aa75831.1482962870986.1487962165415.1487964870240.141&__hssc=20629287.1.1487964870240&__hsfp=3218882972)
+* [Website Grader](https://website.grader.com/)
 * [Make My Persona](https://www.hubspot.com/make-my-persona)
 * [Email Signature Generator](https://www.hubspot.com/email-signature-generator)
 * [Brand Kit Generator](https://www.hubspot.com/brand-kit-generator)
 * [Blog Ideas Generator](https://www.hubspot.com/blog-topic-generator)
-* [Invoice Template Generator](https://www.hubspot.com/invoice-template-generator)
-* [Marketing Plan Generator](https://www.hubspot.com/marketing-plan-template-generator)
+* [Invoice Generator](https://www.hubspot.com/invoice-template-generator)
 * [Free Business Templates](https://www.hubspot.com/business-templates)
 * [Guide Creator](https://www.hubspot.com/guide-creator)
 * [Software Comparisons Library](https://www.hubspot.com/comparisons)
 * [Template Marketplace](https://ecosystem.hubspot.com/marketplace/website)
 * [Campaign Assistant](https://www.hubspot.com/campaign-assistant)
+* [Landing Page Creator](https://www.hubspot.com/free-business-tools/landing-page-gpt)
 
 Company
 -------
