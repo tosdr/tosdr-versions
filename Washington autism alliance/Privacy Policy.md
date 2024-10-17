@@ -142,6 +142,16 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     November 2024
     
+    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
+    
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-1-150x56.png)](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-11-11)
+    
+    Nov 11 2024
+    
+    #### [Support Group - Topic TBD](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-11-11)
+    
+    Zoom https://zoom.us (please download the app and check your internet connectivity)
+    
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABDAQAAAABWicHTAAAAAnRSTlMAAHaTzTgAAAAUSURBVDjLY2AYBaNgFIyCUUAqAAAFPAABh2z/ogAAAABJRU5ErkJggg==)
     
     ![](https://washingtonautismalliance.org/wp-content/uploads/2024/08/Understanding-Applied-Behavior-AnalysisABA-Medium-Banner-US-Landscape-1-150x67.jpeg)](https://washingtonautismalliance.org/events/understanding-applied-behavior-analysis-aba/?occurrence=2024-11-14)
@@ -149,16 +159,6 @@ If you believe that any information we are holding on you is incorrect or incomp
     Nov 14 2024
     
     #### [Understanding Applied Behavior Analysis (ABA)](https://washingtonautismalliance.org/events/understanding-applied-behavior-analysis-aba/?occurrence=2024-11-14)
-    
-    Zoom https://zoom.us (please download the app and check your internet connectivity)
-    
-    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
-    
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-1-150x56.png)](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-11-14)
-    
-    Nov 14 2024
-    
-    #### [Gamification to Support High-Masking Autistic Students at School and Home](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-11-14)
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
