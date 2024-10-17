@@ -418,7 +418,9 @@ Product
 * [Designer](https://webflow.com/designer)
 * [Edit mode](https://webflow.com/edit-mode)
 * [Interactions](https://webflow.com/interactions-animations)
-* [Page building](https://webflow.com/page-building)
+* [Page building
+    
+    New](https://webflow.com/page-building)
 * [CMS](https://webflow.com/cms)
 * [Hosting](https://webflow.com/hosting)
 * [Localization](https://webflow.com/localization)
