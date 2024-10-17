@@ -205,6 +205,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+
+Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+
+Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+
+Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+
+Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+
+Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+
+Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+
+Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+
+Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+
+Israel-Hasser besetzen Präsidium der Freien Universität in Berlin](https://www.bild.de/regional/berlin/berlin-pro-palaestinensische-aktivisten-besetzen-freie-universitaet-6710ff5fe9471210bb6a7d86)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
