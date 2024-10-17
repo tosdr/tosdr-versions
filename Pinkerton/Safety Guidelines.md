@@ -64,6 +64,7 @@
     * [Data Centers](https://pinkerton.com/industries/data-centers)
     * [Retail](https://pinkerton.com/industries/retail)
     * [Manufacturing](https://pinkerton.com/industries/manufacturing)
+    * [Supply Chain Risk Management](https://pinkerton.com/industries/supply-chain-risk-management)
     
 * About Us
     
@@ -232,6 +233,7 @@ We welcome reports of suspected infringement of any of these rights. Please dire
     * [Data Centers](https://pinkerton.com/industries/data-centers)
     * [Retail](https://pinkerton.com/industries/retail)
     * [Manufacturing](https://pinkerton.com/industries/manufacturing)
+    * [Supply Chain Risk Management](https://pinkerton.com/industries/supply-chain-risk-management)
     
 * About Us
     
