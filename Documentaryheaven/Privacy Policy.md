@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![My Brilliant Brain: Make Me A Genius](/wp-content/thumbnails/229-100x70.png?x53432)
+* [![David Lynch: Consciousness, Creativity and the Brain](/wp-content/thumbnails/3714-100x70.jpg?x53432)
     
-    My Brilliant Brain: Make Me A Genius
+    David Lynch: Consciousness, Creativity and the Brain
     
-    Susan Polgar is the world's first female chess grandmaster. But she wasn't born with her brilliant brain - it was created by the unique experiment that dominated her childhood. From the age of four he](https://documentaryheaven.com/my-brilliant-brain-make-me-a-genius/ "My Brilliant Brain: Make Me A Genius")
-* [![Rebounds](/wp-content/thumbnails/6793-100x70.jpg?x53432)
+    The inside story on transcending the brain, with David Lynch, Award-winning film director of Blue Velvet, Twin Peaks, Mullholland Drive, Inland Empire; John Hagelin, Ph.D., Quantum physicist featured](https://documentaryheaven.com/david-lynch-consciousness-creativity-and-the-brain/ "David Lynch: Consciousness, Creativity and the Brain")
+* [![Space Tourists](/wp-content/thumbnails/110-100x70.png?x53432)
     
-    Rebounds
+    Space Tourists
     
-    Thousands of American basketball players that don't make it into the NBA, go around the world looking for a chance to play. Some of them go to Europe, Asia or any place in the world where basketball i](https://documentaryheaven.com/rebounds/ "Rebounds")
-* [![Burke and Hare: Serial Killing for Science](/wp-content/thumbnails/12718-100x70.jpg?x53432)
+    This documentary deals with an issue that many still find hard to believe is possible.Over 40 years ago man first went into space. Ever since ordinary people have dreamt of getting there themselves. B](https://documentaryheaven.com/space-tourists/ "Space Tourists")
+* [![Childhood 2.0](/wp-content/thumbnails/16365-100x70.jpg?x53432)
     
-    Burke and Hare: Serial Killing for Science
+    Childhood 2.0
     
-    Back in 1828 in Edinburgh, Scotland, there were a number of murders committed over a period of about ten months. 16 people were killed in total and this spree would later become known as the Burke and](https://documentaryheaven.com/burke-hare-serial-killing-for-science/ "Burke and Hare: Serial Killing for Science")
-* [![Dr. Dre: Another Beat](/wp-content/thumbnails/14300-100x70.jpg?x53432)
+    Childhood 2.0 isn't a typical tech documentary warning you of all the dangers that lurk behind social media these days (shots fired at Netflix :P). It's more of a deep dive into the online world for](https://documentaryheaven.com/childhood-2-0/ "Childhood 2.0")
+* [![15 Years of Terror](/wp-content/thumbnails/12557-100x70.jpg?x53432)
     
-    Dr. Dre: Another Beat
+    15 Years of Terror
     
-    No other artist in the world of hip hop has constructed a successful and solid reputation as Dr. Dre, renowned for being one of the founding fathers of gangster rap he has been revered for bringing in](https://documentaryheaven.com/dr-dre-another-beat/ "Dr. Dre: Another Beat")
-* [![Modern Marvels – Water](/wp-content/thumbnails/3767)
+    15 years ago today on September 11, 2001, the world became witness to an unimaginable horror, the sight of New Yorks skyline ablaze fundamentally changed how we as a society view terrorism. Today we a](https://documentaryheaven.com/15-years-terror/ "15 Years of Terror")
+* [![Infamy](/wp-content/thumbnails/3626-100x70.jpg?x53432)
     
-    Modern Marvels – Water
+    Infamy
     
-    Turn the tap on a surprisingly rich hour exploring the many mysteries of H2O.\* For over a decade, MODERN MARVELS has brought grand stories to life. \* The ultimate celebration and investigation of en](https://documentaryheaven.com/modern-marvels-water/ "Modern Marvels – Water")
+    Infamy is an intense journey into the dangerous lives and obsessed minds of six of America’s most prolific graffiti artists. Directed by acclaimed filmmaker Doug Pray (Hype and Scratch) who teamed up](https://documentaryheaven.com/infamy/ "Infamy")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
