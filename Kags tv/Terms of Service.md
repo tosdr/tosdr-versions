@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/cce4691b-3780-4f18-bb4f-e37f336892b6/20241016T204948/cce4691b-3780-4f18-bb4f-e37f336892b6_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/cce4691b-3780-4f18-bb4f-e37f336892b6/20241016T204948/cce4691b-3780-4f18-bb4f-e37f336892b6_360x203.jpg)](https://www.kagstv.com/article/news/crime/plantersville-pellet-gun-shooting-arrest-oct-2024/500-f65d1df0-82aa-4930-b84d-0d67a5dc2705)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/ce2a152a-3da3-450d-806d-ef3a485fd524/20241017T171213/ce2a152a-3da3-450d-806d-ef3a485fd524_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/ce2a152a-3da3-450d-806d-ef3a485fd524/20241017T171213/ce2a152a-3da3-450d-806d-ef3a485fd524_360x203.jpg)](https://www.kagstv.com/article/news/crime/darrell-edwin-hemann-shandi-imhoff-pursuit-arrests-oct-16-2024/500-413dc257-f069-4d63-8a32-ecc10bb21a43)
         
-        #### [Man arrested after shooting victim in the back with pellet gun in Plantersville](https://www.kagstv.com/article/news/crime/plantersville-pellet-gun-shooting-arrest-oct-2024/500-f65d1df0-82aa-4930-b84d-0d67a5dc2705)
+        #### [Two arrested after leading police on chase through Grimes, Waller counties](https://www.kagstv.com/article/news/crime/darrell-edwin-hemann-shandi-imhoff-pursuit-arrests-oct-16-2024/500-413dc257-f069-4d63-8a32-ecc10bb21a43)
         
-    *  [![](https://media.kagstv.com/assets/KHOU/images/da431ec1-9857-4e15-a1ff-9b83ba28e9a3/20241016T203846/da431ec1-9857-4e15-a1ff-9b83ba28e9a3_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/da431ec1-9857-4e15-a1ff-9b83ba28e9a3/20241016T203846/da431ec1-9857-4e15-a1ff-9b83ba28e9a3_360x203.jpg)](https://www.kagstv.com/article/news/local/propane-explosion-fm-529-brookshire-waller-county-texas/285-acf418fc-454b-4af0-b405-a75f0c3e503b)
+    *  [![](https://media.kagstv.com/assets/WXIA/images/c1e70d48-02ff-44a7-82c3-8c4148ff771c/20241015T111000/c1e70d48-02ff-44a7-82c3-8c4148ff771c_16x9.jpg) ![](https://media.kagstv.com/assets/WXIA/images/c1e70d48-02ff-44a7-82c3-8c4148ff771c/20241015T111000/c1e70d48-02ff-44a7-82c3-8c4148ff771c_360x203.jpg)](https://www.kagstv.com/article/news/local/atlanta-delta-air-lines-new-cabin-design-entire-fleet-photos/85-df0d290f-0847-45b3-a8c9-a212c661777f)
         
-        #### [1 injured in explosion at propane facility in Brookshire area, officials say](https://www.kagstv.com/article/news/local/propane-explosion-fm-529-brookshire-waller-county-texas/285-acf418fc-454b-4af0-b405-a75f0c3e503b)
+        #### [Delta Air Lines unveils new cabin design for entire fleet](https://www.kagstv.com/article/news/local/atlanta-delta-air-lines-new-cabin-design-entire-fleet-photos/85-df0d290f-0847-45b3-a8c9-a212c661777f)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/CCT/images/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb/20241017T133346/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb/20241017T133346/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/la-nia-could-soon-what-that-means-for-winter-weather-outlook-2024-2025/507-e78f5997-5997-4dfc-9120-fbaee14c5924)
+        
+        #### [La Niña could soon arrive. Here's what that means for winter weather](https://www.kagstv.com/article/news/nation-world/la-nia-could-soon-what-that-means-for-winter-weather-outlook-2024-2025/507-e78f5997-5997-4dfc-9120-fbaee14c5924)
+        
     *  [![](https://media.kagstv.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
         
         #### [October's supermoon pairs with a comet for a special nighttime spectacle](https://www.kagstv.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
-        
-    *  [![](https://media.kagstv.com/assets/WTSP/images/aedc088b-1e2d-40c2-a659-b06424810651/20241010T034805/aedc088b-1e2d-40c2-a659-b06424810651_16x9.jpg) ![](https://media.kagstv.com/assets/WTSP/images/aedc088b-1e2d-40c2-a659-b06424810651/20241010T034805/aedc088b-1e2d-40c2-a659-b06424810651_360x203.jpg)](https://www.kagstv.com/article/weather/hurricane/hurricane-milton/video-tropicana-field-roof-torn-off/67-d5100a87-0aaf-4dbd-a0fe-075abb3a9745)
-        
-        #### [WATCH: Tropicana Field's roof torn off by winds from Hurricane Milton](https://www.kagstv.com/article/weather/hurricane/hurricane-milton/video-tropicana-field-roof-torn-off/67-d5100a87-0aaf-4dbd-a0fe-075abb3a9745)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-54°
+77°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
