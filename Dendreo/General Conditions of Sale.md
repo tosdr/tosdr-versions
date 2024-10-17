@@ -44,7 +44,7 @@ Ressources
 
 [🪄 IA](https://www.dendreo.com/assistant-ia)[Prix](https://www.dendreo.com/prix)[Clients](https://www.dendreo.com/cas-clients)[Contact](https://www.dendreo.com/contact)
 
-[Se connecter](https://pro.dendreo.com/login)[Voir une démo](https://www.dendreo.com/decouvrez-dendreo-demonstration-en-webinar)[Créez mon compte](https://cta-redirect.hubspot.com/cta/redirect/8934096/a929254c-8051-40fa-8ed0-f490c75c5700)
+[Se connecter](https://pro.dendreo.com/login)[Voir une démo](https://www.dendreo.com/decouvrez-dendreo-demonstration-en-webinar)[Essai gratuit](https://cta-redirect.hubspot.com/cta/redirect/8934096/a929254c-8051-40fa-8ed0-f490c75c5700)
 
 [![Dendreo](https://cdn.prod.website-files.com/5e723ebc919755a129931937/65f80e5bb7a417c4e6c913cf_logo-dendreo.svg)](https://www.dendreo.com/)
 
