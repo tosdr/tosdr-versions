@@ -19,6 +19,19 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![CGI of new Nine Elms primary school.
+    Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
+    
+    ### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2019/02/Winter-of-discontnet-main-web.jpg)](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
+    
+    ### [‘127,000 pensioners in the capital are at risk of losing their winter fuel allowance despite being theoretically eligible to keep it’](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
+    
+    [![Walworth Post Office (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/08/Image-14-08-2024-at-15.14-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
+    
+    ### [New permanent location found for Walworth Post Office](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
+    
     [![The food bank provides emergency food and hygiene parcels to hundreds of families a week (Pecan)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-e1729095219356-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
     
     ### [Peckham food bank upgrades security system following shocking burglary](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
@@ -43,18 +56,6 @@
     Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-360x180.jpg)](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
     
     ### [Plans for the Bakerloo Line extension have taken a crucial step forward](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/) 
-    
-    [![Nursery Row Park, Walworth. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Nursery-Row-Park-Walworth.-Image-Southwark-Council-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
-    
-    ### [Walworth park once denounced as crime hotspot set for exciting revamp](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
-    
-    [![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
-    
-    ### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
-    
-    [![A computer-generated image of Building OPQ in Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/10/Building-OPQ-Social-Rent-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/housing-provider-chosen-for-338-social-rent-homes-in-bermondsey/)
-    
-    ### [Housing provider chosen for 338 social rent homes in Bermondsey](https://southwarknews.co.uk/area/bermondsey/housing-provider-chosen-for-338-social-rent-homes-in-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +101,19 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![CGI of new Nine Elms primary school.
+    Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
+    
+    ### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2019/02/Winter-of-discontnet-main-web.jpg)](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
+    
+    ### [‘127,000 pensioners in the capital are at risk of losing their winter fuel allowance despite being theoretically eligible to keep it’](https://southwarknews.co.uk/area/london/127000-pensioners-in-the-capital-are-at-risk-of-losing-their-winter-fuel-allowance-despite-being-theoretically-eligible-to-keep-it/)
+    
+    [![Walworth Post Office (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/08/Image-14-08-2024-at-15.14-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
+    
+    ### [New permanent location found for Walworth Post Office](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
+    
     [![The food bank provides emergency food and hygiene parcels to hundreds of families a week (Pecan)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-e1729095219356-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
     
     ### [Peckham food bank upgrades security system following shocking burglary](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
@@ -124,18 +138,6 @@ View All Result
     Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-360x180.jpg)](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
     
     ### [Plans for the Bakerloo Line extension have taken a crucial step forward](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/) 
-    
-    [![Nursery Row Park, Walworth. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Nursery-Row-Park-Walworth.-Image-Southwark-Council-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
-    
-    ### [Walworth park once denounced as crime hotspot set for exciting revamp](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
-    
-    [![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
-    
-    ### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
-    
-    [![A computer-generated image of Building OPQ in Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/10/Building-OPQ-Social-Rent-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/housing-provider-chosen-for-338-social-rent-homes-in-bermondsey/)
-    
-    ### [Housing provider chosen for 338 social rent homes in Bermondsey](https://southwarknews.co.uk/area/bermondsey/housing-provider-chosen-for-338-social-rent-homes-in-bermondsey/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -227,13 +229,19 @@ Terms of Use
 
 [15th October 2024](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
 
-[![Romain Esse in action against West Bromwich Albion. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Esse-292902-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-winger-receives-plaudits-for-performance-after-bagging-assist-during-england-under-20s-win-over-italy-under-20s/)
+[![Tanganga heads the ball away against West Bromwich Albion. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tanganga-72828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
 
-### [Millwall winger receives plaudits for performance after bagging assist during England Under-20s win over Italy Under-20s](https://southwarknews.co.uk/sport/football/millwall/millwall-winger-receives-plaudits-for-performance-after-bagging-assist-during-england-under-20s-win-over-italy-under-20s/)
+### [‘It has a nice little ring to it’ – Millwall defender pleased with chant](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
 
-[11th October 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-winger-receives-plaudits-for-performance-after-bagging-assist-during-england-under-20s-win-over-italy-under-20s/)
+[15th October 2024](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
 
 ### Featured Articles
+
+[![Walworth Post Office (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/08/Image-14-08-2024-at-15.14-120x86.jpg)](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
+
+### [New permanent location found for Walworth Post Office](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
+
+[17th October 2024](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
 
 [![The food bank provides emergency food and hygiene parcels to hundreds of families a week (Pecan)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-1-e1729095219356-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-upgrades-security-system-following-shocking-burglary/)
 
@@ -265,12 +273,6 @@ Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/202
 ### [Plans for the Bakerloo Line extension have taken a crucial step forward](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/) 
 
 [16th October 2024](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
-
-[![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
-
-### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
-
-[15th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
 ### USEFUL PAGES
 
