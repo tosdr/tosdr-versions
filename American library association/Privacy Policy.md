@@ -24,7 +24,7 @@ Utility
     * [Job Board](https://joblist.ala.org/ "Job Board")
 * [Join | Renew](https://my.ala.org/store/dues.aspx "Join | Renew")
 * [Donate](https://www.ala.org/donate "Donate")
-* [Login](https://www.ala.org/saml_login?destination=/privacypolicy "Login")
+* [Login](https://www.ala.org/saml_login?destination=/news/wp-login.php "Login")
 
 Main navigation
 ---------------
