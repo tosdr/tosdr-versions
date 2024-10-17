@@ -4,15 +4,15 @@ Looks like you have Javascript turned off! Please enable it to improve your brow
 
 [Skip to main content](#main-content)
 
-Can’t make it to Vegas for Oktane? Join us online Oct 16!
+The best of Oktane in 45 minutes
 
-Can’t make it to Vegas for Oktane? Join us online Oct 16!
+The best of Oktane in 45 minutes
 
-[Register now](https://www.oktane.com/)
+[Register now](https://pages.okta.com/2024-11-WBN-Best-of-Oktane_LP.html)
 
-[Register now](https://www.oktane.com/)
+[Register now](https://pages.okta.com/2024-11-WBN-Best-of-Oktane_LP.html)
 
-[Can’t make it to Vegas for Oktane? Join us online Oct 16!](https://www.oktane.com/)
+[The best of Oktane in 45 minutes](https://pages.okta.com/2024-11-WBN-Best-of-Oktane_LP.html)
 
 [+1 (800) 425-1267](tel:+1-800-425-1267)
 
