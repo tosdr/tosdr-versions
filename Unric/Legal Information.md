@@ -65,7 +65,7 @@ Search
     * [Suomi](https://unric.org/fi)
     * [Svenska](https://unric.org/sv)
 
-  [![UNRIC.ORG](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)UNRIC - Regional Information CentreUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
+  [![UNRIC.ORG](https://unric.org/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)UNRIC - Regional Information CentreUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
 
 SearchSearch
 
@@ -85,7 +85,7 @@ SearchSearch
     * [Suomi](https://unric.org/fi)
     * [Svenska](https://unric.org/sv)
 
-  [![UNRIC.ORG](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)Regional Information Centre for Western EuropeUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
+  [![UNRIC.ORG](https://unric.org/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)Regional Information Centre for Western EuropeUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
 
 [Live now](# "Live now")
 
@@ -143,7 +143,7 @@ A-Z Site Index
 Privacy Notice
 ==============
 
-[![privacy](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
+[![privacy](https://unric.org/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://unric.org/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
 
 ### UNITED NATIONS’ PRIVACY NOTICE
 
@@ -159,33 +159,31 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Latest News
 
-  [![COST connect Brussels meeting group photo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+ [![The Sonian Forest wetlands](https://unric.org/en/wp-content/uploads/sites/15/2024/10/The-Sonian-Forest-100x70.jpg)](https://unric.org/en/the-magnificent-world-of-forests-the-belgian-sonian-forest/ "The magnificent world of forests: the Belgian Sonian Forest")
 
- ![COST connect Brussels meeting group photo](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/10/COST-Connect-brussles-2024-group-photo-100x70.jpg)](https://unric.org/en/sdgs-scientific-research-a-boost-for-sustainable-development/ "SDGs: scientific research, a boost for sustainable development")
+### [The magnificent world of forests: the Belgian Sonian Forest](https://unric.org/en/the-magnificent-world-of-forests-the-belgian-sonian-forest/ "The magnificent world of forests: the Belgian Sonian Forest")
 
-### [SDGs: scientific research, a boost for sustainable development](https://unric.org/en/sdgs-scientific-research-a-boost-for-sustainable-development/ "SDGs: scientific research, a boost for sustainable development")
+17/10/2024
 
-16/10/2024
-
- [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
+ [![Latest UNRIC Library Newsletter](https://unric.org/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
 
 ### [UNRIC Info Point & Library Newsletter: October 2024](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
 
 10/10/2024
 
- [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
+ [![Latest UNRIC Library Newsletter](https://unric.org/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
 
 ### [UNRIC Info Point & Library Newsletter – September 2024](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
 
 10/09/2024
 
- [![UNRIC Library Backgrounder: Sea Level Rise](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/sea-level-rise-backgrounder-100x70.png)](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
+ [![UNRIC Library Backgrounder: Sea Level Rise](https://unric.org/en/wp-content/uploads/sites/15/2024/08/sea-level-rise-backgrounder-100x70.png)](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
 
 ### [UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
 
 29/08/2024
 
- [![UNRIC Library Backgrounder: Mpox](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/backgrounder-MPOX-100x70.png)](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
+ [![UNRIC Library Backgrounder: Mpox](https://unric.org/en/wp-content/uploads/sites/15/2024/08/backgrounder-MPOX-100x70.png)](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
 
 ### [UNRIC Library Backgrounder: Mpox](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
 
@@ -195,7 +193,7 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Publications
 
-* [October 2024](https://unric.org/en/2024/10/) (20)
+* [October 2024](https://unric.org/en/2024/10/) (24)
 * [September 2024](https://unric.org/en/2024/09/) (34)
 * [August 2024](https://unric.org/en/2024/08/) (12)
 * [July 2024](https://unric.org/en/2024/07/) (24)
