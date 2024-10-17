@@ -1,6 +1,6 @@
 Skip Navigation
 
-[![National](/etc/designs/nweb/assets/20240927085138/img/national_logo.svg)](https://www.nationalcar.com/en/home.html)
+[![National](/etc/designs/nweb/assets/20241016184943/img/national_logo.svg)](https://www.nationalcar.com/en/home.html)
 
 [Emerald Club Sign In / Enroll](https://www.nationalcar.com/en/sign-in.html)
 
@@ -247,8 +247,8 @@ About Us
 
 Get the National App
 
-* [![Download on the Apple App Store](/content/dam/National/functional/app-store-badges/Download_on_the_App_Store_Badge_US-UK.png.timestamped.png/1684866606841.png)](https://itunes.apple.com/app/apple-store/id675304115?pt=2088707&ct=ncr-us-footer&mt=8)
-* [![Get it on Google Play](/content/dam/National/functional/app-store-badges/google-play-badge-US-UK.png.timestamped.png/1684866610954.png)](https://play.google.com/store/apps/details?id=com.ehi.national.mobile)
+* [![Download on the Apple App Store](/content/dam/National/functional/app-store-badges/Download_on_the_App_Store_Badge_US-UK.png.timestamped.png/1684769925863.png)](https://itunes.apple.com/app/apple-store/id675304115?pt=2088707&ct=ncr-us-footer&mt=8)
+* [![Get it on Google Play](/content/dam/National/functional/app-store-badges/google-play-badge-US-UK.png.timestamped.png/1684770769491.png)](https://play.google.com/store/apps/details?id=com.ehi.national.mobile)
 
 ### Share Like a Pro
 
@@ -262,7 +262,7 @@ Share Like a Pro
 * [Privacy Policy](https://privacy.ehi.com/en-us/home.html)
 * [Cookie Policy](https://privacy.ehi.com/en-us/home.html)
 * [Consumer Health Data Privacy Statement](https://privacy.ehi.com/health)
-* [Privacy Choices ![](/content/dam/National/functional/icons/privacy-choices.png.timestamped.png/1686770285508.png)](#one_trust) 
-* [AdChoices ![](/content/dam/National/functional/icons/AdChoices Logo.png.timestamped.png/1638365131571.png)](https://optout.aboutads.info/) 
+* [Privacy Choices ![](/content/dam/National/functional/icons/privacy-choices.png.timestamped.png/1686770284698.png)](#one_trust) 
+* [AdChoices ![](/content/dam/National/functional/icons/AdChoices Logo.png.timestamped.png/1638365131105.png)](https://optout.aboutads.info/) 
 
 © 2024 Enterprise Holdings, Inc. All Rights Reserved
