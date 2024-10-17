@@ -118,13 +118,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [How tiny phytoplankton trek long distances upward in the ocean](https://www.sciencenews.org/article/phytoplankton-trek-upward-ocean)
             
-            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")37 mins ago
+            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")6 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [Here are some stellar picks from Nikon’s top microscopy images of 2024](https://www.sciencenews.org/article/2024-nikon-small-world-photography)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")2 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")7 hours ago
             
         * [Plants](https://www.sciencenews.org/topic/plants)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [How tiny phytoplankton trek long distances upward in the ocean](https://www.sciencenews.org/article/phytoplankton-trek-upward-ocean)
             
-            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")37 mins ago
+            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")6 hours ago
             
         * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
