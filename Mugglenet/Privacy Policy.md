@@ -318,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Ripley Scroll (England, 1570) teaches readers how to create the philosopher’s stone.
+Quidditch started in the 11th century at a place called Queerditch Marsh, which is not marked on Muggle maps because wizards have made the place unplottable. Originally, it was quite a crude game played on broomsticks with just the Quaffle.
 
 ### Potter History
 
-January 29, 2006 – Harry Potter and the Goblet of Fire is announced as the eighth-highest grossing film of all time.
+December 13, 2007 – The Tales of Beedle the Bard goes up for auction at Sotheby’s and sells for nearly £2 million, far surpassing all expectations.
 
 ### Potter Quote
 
-“That brings \[Trelawney’s\] total of real predictions up to two. I should offer her a pay raise. . . .”
+“Hello, Harry Potter. My name is Tom Riddle. How did you come by my diary?”
 
 [](#)
 
