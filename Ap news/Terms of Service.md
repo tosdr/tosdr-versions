@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israeli strikes kill 25 in Lebanon, including in a town with a dark history of civilian deaths](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-16-2024-f18b2e0f5e05eb11a3c2ee29c16ed867)
-    * [Biden to travel to Germany this week, Angola in December for visits delayed by Hurricane Milton](https://apnews.com/article/biden-germany-scholz-ukraine-angola-hurricane-milton-122b839208dce251e530b4e3d5156396)
-    * [Zelenskyy outlines his 'victory plan' to Ukraine's lawmakers, including a call to join NATO](https://apnews.com/article/ukraine-victory-plan-unveiled-zelenskyy-parliament-f3525550f6986f590777193a7385c0c5)
+    * [US long-range B-2 stealth bombers target underground bunkers of Yemen's Houthi rebels](https://apnews.com/article/us-airstrikes-yemen-houthi-rebels-israel-hamas-war-99721f7f952d66d6da27e24dc3c189c3)
+    * [Ukrainian president Zelenskyy heads to EU and NATO to seek backing for his 'victory plan'](https://apnews.com/article/ukraine-zelenskyy-europe-victory-plan-summit-863bd5c70816449e3c92b7c1f767a2ff)
+    * [How a broke Argentine province is countering Milei's deep austerity cuts](https://apnews.com/article/argentina-fake-money-economic-crisis-milei-peronism-bankrupt-province-30d478ec8292ccce27cb450ea1bb1c1a)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Many schools are still closed weeks after Hurricane Helene. Teachers worry about long-term impact](https://apnews.com/article/schools-hurricane-helene-education-0375767ce9ff4754dd95dd29423fc788)
-    * [Republicans challenge more than 63,000 voters in Georgia, but few removed, AP finds](https://apnews.com/article/georgia-voter-challenges-2024-election-f817bc282ea44e008af74f6bf5793bd1)
-    * [People with felony records can now vote in Nebraska — and that could help tip the balance in November](https://apnews.com/article/felony-voting-rights-nebraska-lawsuit-dfe043a32fb667b4461bf2f2ac4217fe)
+    * [The Biden administration has now canceled loans for more than 1 million public workers](https://apnews.com/article/student-loan-cancellation-forgiveness-debt-774b0ee69f911f68f646a066031ee604)
+    * [McConnell called Trump 'stupid" and 'despicable' in private after the 2020 election, a new book says](https://apnews.com/article/mcconnell-trump-biography-election-0a861001d95287e689336504abc2281f)
+    * [A historically Black community grapples with lasting impacts after Baltimore bridge collapse](https://apnews.com/article/baltimore-bridge-collapse-turner-station-impacts-c5d4aa73cbc5b6ed4dbd251bf2140521)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris works to energize Black male voters while Trump continues to attack immigration policy](https://apnews.com/article/harris-charlamagne-trump-breakfast-club-women-2eab5daa1095b7ecb38fe92857acdb86)
-    * [Harris and Trump court the male vote with different definitions of masculinity](https://apnews.com/article/men-trump-harris-vote-election-hypermasculinity-97aab19f115ece7057c6ab049bcfed97)
-    * [Georgia judge blocks a hand count rule, saying county officials must certify the election results](https://apnews.com/article/georgia-election-rules-certification-03f6bc623d9f6aeeb3f9dc47823d03f9)
+    * [Harris and Trump say America tanks if they lose. So why the exuberance at their rallies?](https://apnews.com/article/trump-harris-rallies-pennsylvania-georgia-92d8be2d5e5a45a6bec105efed6364cd)
+    * [With time running out, Harris keeps focus on 'blue wall' states](https://apnews.com/article/kamala-harris-michigan-wisconsin-pennsylvania-election-479ad508d075b27f141312e21b4fc081)
+    * [Vance says 'no' when asked whether Trump lost 2020 election](https://apnews.com/article/vance-trump-2020-election-3659368bc50e3224e5cc59f76015e096)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris returns to battleground Pennsylvania, with Republicans, as Trump pursues Latinos' votes](https://apnews.com/article/harris-trump-presidential-campaign-8975f37859dc16de3a7e8a99c5d07760)
-    * [The Latest: Harris and Trump campaigns pivot to turnout as early voting begins](https://apnews.com/article/trump-harris-election-2024-walz-vance-0cd88792d5e3a69c824131d9ca74789b)
-    * [Trump would be the oldest person to become president. He's not sharing health details](https://apnews.com/article/trump-harris-presidential-election-age-health-medical-records-7bb8212c1024748371e43b85e137bae5)
+    * [McConnell called Trump 'stupid" and 'despicable' in private after the 2020 election, a new book says](https://apnews.com/article/mcconnell-trump-biography-election-0a861001d95287e689336504abc2281f)
+    * [The Biden administration has now canceled loans for more than 1 million public workers](https://apnews.com/article/student-loan-cancellation-forgiveness-debt-774b0ee69f911f68f646a066031ee604)
+    * [His country trained him to fight. Then he turned against it. More like him are doing the same](https://apnews.com/article/military-extremism-pentagon-veterans-terrorism-capitol-riot-jan-6-0c1fdd7b6b761e9c9e8556a9b9e45dc9)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Serena Williams says she had a benign cyst removed from her neck and 'all is OK'](https://apnews.com/article/serena-williams-cyst-419b8937ef787bd79f67d2ee41b91759)
-    * [Thomas Tuchel hired as England head coach ahead of 2026 World Cup and targets 'second star'](https://apnews.com/article/thomas-tuchel-england-coach-f0326700fd0a1e8cda3d98e58ed24d5a)
-    * [Ravens' dynamic duo of Henry and Jackson help lead a rushing renaissance in the NFL](https://apnews.com/article/nfl-rushing-ravens-jackson-henry-bcfd0d307b5ba6d9287c2c471720e788)
+    * [Shohei Ohtani homers as the Dodgers rout the Mets 8-0 for a 2-1 lead in the NLCS](https://apnews.com/article/mlb-playoffs-dodgers-mets-55dde9459b95509d6fdffe6359964018)
+    * [After Severino misplays a pair of comebackers, Mets in need of NLCS comeback against Dodgers](https://apnews.com/article/mlb-playoffs-mets-severino-lindor-70ec43c16970949248da477474848539)
+    * [Ionescu's 3-pointer with 1 second left gives Liberty 80-77 win over Lynx and 2-1 lead in WNBA Finals](https://apnews.com/article/wnba-finals-lynx-liberty-score-8efdf448485626ac2bbcad2105d286d4)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [How Jose Iglesias’ ‘OMG’ became the perfect anthem for the underdog Mets](https://apnews.com/article/omg-mets-jose-iglesias-03c39447d25d9d0f7b907da2bf91903d)
-    * [Movie Review: 'Smile 2' nicely targets pop star fame with the terrific Naomi Scott](https://apnews.com/article/smile-2-movie-review-f9a4a6bac6de9450819b78eca31dd851)
-    * [Cate Blanchett wants you to laugh at politics in ‘Rumours’](https://apnews.com/article/cate-blanchett-rumours-movie-politics-satire-guy-b87817592defdf14a839ef0a4e9c7f81)
+    * [Death of ex-One Direction member Liam Payne at 31 sends shockwaves around the world](https://apnews.com/article/liam-payne-one-direction-death-487239e4f0b938a6f350a7d2f14737e4)
+    * [McConnell called Trump 'stupid" and 'despicable' in private after the 2020 election, a new book says](https://apnews.com/article/mcconnell-trump-biography-election-0a861001d95287e689336504abc2281f)
+    * [Movie Review: Is the killer bachelor No. 1 or No. 2? Anna Kendrick's chilling 'Woman of the Hour'](https://apnews.com/article/woman-of-hour-review-anna-kendrick-b3ae1a4f682c79744564812141c44574)
     
 * [Business](https://apnews.com/business)
     
@@ -127,8 +127,8 @@ Menu
     TOP STORIES
     
     * [Amazon and Google are dueling with nuclear for data center power](https://apnews.com/article/climate-data-centers-amazon-google-nuclear-energy-e404d52241f965e056a7c53e88abc91a)
-    * [What's behind the widening gender wage gap in the US?](https://apnews.com/article/gender-wage-gap-women-pay-latina-work-dce2d7cf2c004dfe5322fffaf5fdbbcf)
-    * [Unions face a moment of truth in Michigan in this year's presidential race](https://apnews.com/article/harris-trump-union-michigan-uaw-4faf892e9b91ae7cd1a6ffecaceb8d7d)
+    * [Supreme Court allows rule limiting pollution from coal-fired power plants to remain in effect](https://apnews.com/article/supreme-court-coal-power-plants-climate-change-cf88d69768b25bda32ee7113b182135a)
+    * [Helene and Milton are both likely to be $50 billion disasters, joining ranks of most costly storms](https://apnews.com/article/helene-milton-hurricanes-climate-development-damage-costly-82c1d5df81c76fa08e035bf7c6db3a37)
     
 * [Science](https://apnews.com/science)
     
@@ -168,11 +168,11 @@ Menu
     
     TOP STORIES
     
+    * [Throwing a dinner party is a way to connect. Rookies, don't be intimidated](https://apnews.com/article/how-to-host-a-dinner-party-menu-7119397411d5ef5fcdaeffc1662da85a)
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
     * [Feeling stressed about the election? Here's what some are doing and what they say you can do too](https://apnews.com/article/2024-election-stress-meditation-mindfulness-anxiety-91550c0aa2c80da60f9f7d8220bcd702)
-    * [Don't expect human life expectancy to grow much more, researcher says](https://apnews.com/article/life-expectancy-edd52c723e478c08ec194bfbd18bf6b9)
     * [Don't fall for fake dentists offering veneers and other dental work on social media](https://apnews.com/article/veneers-dentist-teeth-whitening-scam-unlicensed-d0d9d57613a10f18bc9735dc5eca4b41)
     
 * [Newsletters](https://apnews.com/newsletters)
@@ -234,20 +234,20 @@ Menu
     
     TOP STORIES
     
+    * [La Nina could soon arrive. Here's what that means for winter weather](https://apnews.com/article/la-nina-el-nino-snow-rain-winter-climate-1f45c017fb57d50a576eed6b4a1c9cc0)
+    * [Helene and Milton are both likely to be $50 billion disasters, joining ranks of most costly storms](https://apnews.com/article/helene-milton-hurricanes-climate-development-damage-costly-82c1d5df81c76fa08e035bf7c6db3a37)
     * [Pressure grows for countries to deliver on promised biodiversity targets at UN conference](https://apnews.com/article/biodiversity-conference-united-nations-climate-cop16-colombia-31f5daa588d04881faef639d99cc2f62)
-    * [The world will be fueled by electricity but even more clean energy is needed, report says](https://apnews.com/article/global-clean-energy-transition-df50c39865f3d24cf78ac9d58f0ad07c)
-    * [Amazon and Google are dueling with nuclear for data center power](https://apnews.com/article/climate-data-centers-amazon-google-nuclear-energy-e404d52241f965e056a7c53e88abc91a)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Kidney transplants are safe between people with HIV, new US study shows](https://apnews.com/article/kidney-transplant-hiv-research-ebfeb22cf6df39bac3d11613102fdecb)
     * [Listeria recall grows to 12 million pounds of meat and poultry, some of it sent to US schools](https://apnews.com/article/brucepac-meat-listeria-recall-98d34858d2b909b69525dc089654cc9d)
     * [Trump would be the oldest person to become president. He's not sharing health details](https://apnews.com/article/trump-harris-presidential-election-age-health-medical-records-7bb8212c1024748371e43b85e137bae5)
     * [New UK bill aims to legalize assisted dying for people who are terminally ill](https://apnews.com/article/britain-assisted-dying-bill-parliament-45f544221d4695e8e20445f6bd25dd4c)
     * [Takeaways from AP's report on euthanasia, doctors and ethics in Canada](https://apnews.com/article/euthanasia-ethics-canada-doctors-nonterminal-nonfatal-cases-2e4486b3f69e33d226d0f4a5e036a2f8)
-    * [Private forums show Canadian doctors struggle with euthanizing vulnerable patients](https://apnews.com/article/euthanasia-ethics-canada-doctors-nonterminal-nonfatal-cases-dfe59b1786592e31d9eb3b826c5175d1)
-    * [Serena Williams says she had a benign cyst removed from her neck and 'all is OK'](https://apnews.com/article/serena-williams-cyst-419b8937ef787bd79f67d2ee41b91759)
+    * [What to know about shaken baby syndrome as a Texas man could be first in US executed over it](https://apnews.com/article/shaken-baby-syndrome-texas-execution-548ce35645c215c22261a3974f6e1c37)
     
 * [Tech](https://apnews.com/technology)
     
@@ -277,9 +277,9 @@ Menu
     
     TOP STORIES
     
+    * [Archdiocese of Los Angeles agrees to pay $880 million to victims of clergy sexual abuse](https://apnews.com/article/los-angeles-archdiocese-clergy-sexual-abuse-bf23e8967410017c036f765bb83910f6)
     * [A full-scale replica of Anne Frank's hidden annex is heading to New York for an exhibition](https://apnews.com/article/anne-frank-new-york-annex-diary-holocaust-8d093b71a48dcb84983a4ecf9d497747)
     * [US fines Lufthansa $4 million for treatment of Orthodox Jewish passengers on a 2022 flight](https://apnews.com/article/lufthansa-discrimination-jewish-passengers-transportation-department-6d13284b135dcc4a98555717e2dfd6ea)
-    * [Elton John turns the saga of televangelist Tammy Faye into song for Broadway](https://apnews.com/article/elton-john-tammy-faye-bakker-messner-broadway-21646ba21cc1a6a90f816384267f70c4)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Ataque israelí deja 25 muertos en Líbano, incluida una ciudad con un pasado de muertes civiles](https://apnews.com/world-news/general-news-39713d3f48c4978a8458e42e1604bdeb)
+    * [Ataque israelí deja 27 muertos en Líbano, incluida una ciudad con un pasado de muertes civiles](https://apnews.com/world-news/general-news-39713d3f48c4978a8458e42e1604bdeb)
     * [En el corazón del cártel de Sinaloa, las viejas costumbres han cambiado y la violencia se desata](https://apnews.com/world-news/general-news-05a3e9cdaec6633ea3b74f0220a633f8)
+    * [La UE creía que tenía un plan migratorio. Pero al inicio de su cumbre, algunos piden ir más allá](https://apnews.com/world-news/general-news-7c12056c644a51a06417e6909849da70)
     * [Zelenskyy dice que su "plan de victoria" pasa por entrar en la OTAN, una gran traba para Occidente](https://apnews.com/world-news/general-news-a46933becff2806220409178b1864232)
-    * [Exsecretario de seguridad pública de México será sentenciado en EEUU en caso de narcotráfico](https://apnews.com/us-news/general-news-4210fc0e0ca97a331bf03bbf9fa65d3b)
-    * [Harris exhibe apoyo de republicanos en Pensilvania, mientras Trump trata de atraer el voto hispano](https://apnews.com/politics/elecciones-en-eeuu-19e22fe0b70a4011d0c070e74332627c)
-    * [Policía Federal de Brasil pide extradición de partidarios de Bolsonaro en Argentina](https://apnews.com/world-news/general-news-7b42227979a0f71b9440a61b9600f1a3)
+    * [Arquidiócesis de Los Ángeles acuerda pagar 880 millones de dólares a víctimas de abusos de clérigos](https://apnews.com/religion/general-news-159fc771393037c4044c60af98404930)
+    * [Gobierno de Biden ha cancelado los préstamos de estudios de más de 1 millón de trabajadores públicos](https://apnews.com/us-news/general-news-22b6ca09cadcdf194657588bb1a44d86)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -459,9 +459,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israeli strikes kill 25 in Lebanon, including in a town with a dark history of civilian deaths](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-16-2024-f18b2e0f5e05eb11a3c2ee29c16ed867)
-    * [Biden to travel to Germany this week, Angola in December for visits delayed by Hurricane Milton](https://apnews.com/article/biden-germany-scholz-ukraine-angola-hurricane-milton-122b839208dce251e530b4e3d5156396)
-    * [Zelenskyy outlines his 'victory plan' to Ukraine's lawmakers, including a call to join NATO](https://apnews.com/article/ukraine-victory-plan-unveiled-zelenskyy-parliament-f3525550f6986f590777193a7385c0c5)
+    * [US long-range B-2 stealth bombers target underground bunkers of Yemen's Houthi rebels](https://apnews.com/article/us-airstrikes-yemen-houthi-rebels-israel-hamas-war-99721f7f952d66d6da27e24dc3c189c3)
+    * [Ukrainian president Zelenskyy heads to EU and NATO to seek backing for his 'victory plan'](https://apnews.com/article/ukraine-zelenskyy-europe-victory-plan-summit-863bd5c70816449e3c92b7c1f767a2ff)
+    * [How a broke Argentine province is countering Milei's deep austerity cuts](https://apnews.com/article/argentina-fake-money-economic-crisis-milei-peronism-bankrupt-province-30d478ec8292ccce27cb450ea1bb1c1a)
     
     Newsletters
     
@@ -477,9 +477,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Many schools are still closed weeks after Hurricane Helene. Teachers worry about long-term impact](https://apnews.com/article/schools-hurricane-helene-education-0375767ce9ff4754dd95dd29423fc788)
-    * [Republicans challenge more than 63,000 voters in Georgia, but few removed, AP finds](https://apnews.com/article/georgia-voter-challenges-2024-election-f817bc282ea44e008af74f6bf5793bd1)
-    * [People with felony records can now vote in Nebraska — and that could help tip the balance in November](https://apnews.com/article/felony-voting-rights-nebraska-lawsuit-dfe043a32fb667b4461bf2f2ac4217fe)
+    * [The Biden administration has now canceled loans for more than 1 million public workers](https://apnews.com/article/student-loan-cancellation-forgiveness-debt-774b0ee69f911f68f646a066031ee604)
+    * [McConnell called Trump 'stupid" and 'despicable' in private after the 2020 election, a new book says](https://apnews.com/article/mcconnell-trump-biography-election-0a861001d95287e689336504abc2281f)
+    * [A historically Black community grapples with lasting impacts after Baltimore bridge collapse](https://apnews.com/article/baltimore-bridge-collapse-turner-station-impacts-c5d4aa73cbc5b6ed4dbd251bf2140521)
     
     Newsletters
     
@@ -506,9 +506,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris works to energize Black male voters while Trump continues to attack immigration policy](https://apnews.com/article/harris-charlamagne-trump-breakfast-club-women-2eab5daa1095b7ecb38fe92857acdb86)
-    * [Harris and Trump court the male vote with different definitions of masculinity](https://apnews.com/article/men-trump-harris-vote-election-hypermasculinity-97aab19f115ece7057c6ab049bcfed97)
-    * [Georgia judge blocks a hand count rule, saying county officials must certify the election results](https://apnews.com/article/georgia-election-rules-certification-03f6bc623d9f6aeeb3f9dc47823d03f9)
+    * [Harris and Trump say America tanks if they lose. So why the exuberance at their rallies?](https://apnews.com/article/trump-harris-rallies-pennsylvania-georgia-92d8be2d5e5a45a6bec105efed6364cd)
+    * [With time running out, Harris keeps focus on 'blue wall' states](https://apnews.com/article/kamala-harris-michigan-wisconsin-pennsylvania-election-479ad508d075b27f141312e21b4fc081)
+    * [Vance says 'no' when asked whether Trump lost 2020 election](https://apnews.com/article/vance-trump-2020-election-3659368bc50e3224e5cc59f76015e096)
     
     Newsletters
     
@@ -531,9 +531,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris returns to battleground Pennsylvania, with Republicans, as Trump pursues Latinos' votes](https://apnews.com/article/harris-trump-presidential-campaign-8975f37859dc16de3a7e8a99c5d07760)
-    * [The Latest: Harris and Trump campaigns pivot to turnout as early voting begins](https://apnews.com/article/trump-harris-election-2024-walz-vance-0cd88792d5e3a69c824131d9ca74789b)
-    * [Trump would be the oldest person to become president. He's not sharing health details](https://apnews.com/article/trump-harris-presidential-election-age-health-medical-records-7bb8212c1024748371e43b85e137bae5)
+    * [McConnell called Trump 'stupid" and 'despicable' in private after the 2020 election, a new book says](https://apnews.com/article/mcconnell-trump-biography-election-0a861001d95287e689336504abc2281f)
+    * [The Biden administration has now canceled loans for more than 1 million public workers](https://apnews.com/article/student-loan-cancellation-forgiveness-debt-774b0ee69f911f68f646a066031ee604)
+    * [His country trained him to fight. Then he turned against it. More like him are doing the same](https://apnews.com/article/military-extremism-pentagon-veterans-terrorism-capitol-riot-jan-6-0c1fdd7b6b761e9c9e8556a9b9e45dc9)
     
     Newsletters
     
@@ -561,9 +561,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Serena Williams says she had a benign cyst removed from her neck and 'all is OK'](https://apnews.com/article/serena-williams-cyst-419b8937ef787bd79f67d2ee41b91759)
-    * [Thomas Tuchel hired as England head coach ahead of 2026 World Cup and targets 'second star'](https://apnews.com/article/thomas-tuchel-england-coach-f0326700fd0a1e8cda3d98e58ed24d5a)
-    * [Ravens' dynamic duo of Henry and Jackson help lead a rushing renaissance in the NFL](https://apnews.com/article/nfl-rushing-ravens-jackson-henry-bcfd0d307b5ba6d9287c2c471720e788)
+    * [Shohei Ohtani homers as the Dodgers rout the Mets 8-0 for a 2-1 lead in the NLCS](https://apnews.com/article/mlb-playoffs-dodgers-mets-55dde9459b95509d6fdffe6359964018)
+    * [After Severino misplays a pair of comebackers, Mets in need of NLCS comeback against Dodgers](https://apnews.com/article/mlb-playoffs-mets-severino-lindor-70ec43c16970949248da477474848539)
+    * [Ionescu's 3-pointer with 1 second left gives Liberty 80-77 win over Lynx and 2-1 lead in WNBA Finals](https://apnews.com/article/wnba-finals-lynx-liberty-score-8efdf448485626ac2bbcad2105d286d4)
     
     Newsletters
     
@@ -590,9 +590,9 @@ Submit Search
     
     TOP STORIES
     
-    * [How Jose Iglesias’ ‘OMG’ became the perfect anthem for the underdog Mets](https://apnews.com/article/omg-mets-jose-iglesias-03c39447d25d9d0f7b907da2bf91903d)
-    * [Movie Review: 'Smile 2' nicely targets pop star fame with the terrific Naomi Scott](https://apnews.com/article/smile-2-movie-review-f9a4a6bac6de9450819b78eca31dd851)
-    * [Cate Blanchett wants you to laugh at politics in ‘Rumours’](https://apnews.com/article/cate-blanchett-rumours-movie-politics-satire-guy-b87817592defdf14a839ef0a4e9c7f81)
+    * [Death of ex-One Direction member Liam Payne at 31 sends shockwaves around the world](https://apnews.com/article/liam-payne-one-direction-death-487239e4f0b938a6f350a7d2f14737e4)
+    * [McConnell called Trump 'stupid" and 'despicable' in private after the 2020 election, a new book says](https://apnews.com/article/mcconnell-trump-biography-election-0a861001d95287e689336504abc2281f)
+    * [Movie Review: Is the killer bachelor No. 1 or No. 2? Anna Kendrick's chilling 'Woman of the Hour'](https://apnews.com/article/woman-of-hour-review-anna-kendrick-b3ae1a4f682c79744564812141c44574)
     
 * [Business](https://apnews.com/business)
     
@@ -607,8 +607,8 @@ Submit Search
     TOP STORIES
     
     * [Amazon and Google are dueling with nuclear for data center power](https://apnews.com/article/climate-data-centers-amazon-google-nuclear-energy-e404d52241f965e056a7c53e88abc91a)
-    * [What's behind the widening gender wage gap in the US?](https://apnews.com/article/gender-wage-gap-women-pay-latina-work-dce2d7cf2c004dfe5322fffaf5fdbbcf)
-    * [Unions face a moment of truth in Michigan in this year's presidential race](https://apnews.com/article/harris-trump-union-michigan-uaw-4faf892e9b91ae7cd1a6ffecaceb8d7d)
+    * [Supreme Court allows rule limiting pollution from coal-fired power plants to remain in effect](https://apnews.com/article/supreme-court-coal-power-plants-climate-change-cf88d69768b25bda32ee7113b182135a)
+    * [Helene and Milton are both likely to be $50 billion disasters, joining ranks of most costly storms](https://apnews.com/article/helene-milton-hurricanes-climate-development-damage-costly-82c1d5df81c76fa08e035bf7c6db3a37)
     
 * [Science](https://apnews.com/science)
     
@@ -654,11 +654,11 @@ Submit Search
     
     TOP STORIES
     
+    * [Throwing a dinner party is a way to connect. Rookies, don't be intimidated](https://apnews.com/article/how-to-host-a-dinner-party-menu-7119397411d5ef5fcdaeffc1662da85a)
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
     * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
     * [Feeling stressed about the election? Here's what some are doing and what they say you can do too](https://apnews.com/article/2024-election-stress-meditation-mindfulness-anxiety-91550c0aa2c80da60f9f7d8220bcd702)
-    * [Don't expect human life expectancy to grow much more, researcher says](https://apnews.com/article/life-expectancy-edd52c723e478c08ec194bfbd18bf6b9)
     * [Don't fall for fake dentists offering veneers and other dental work on social media](https://apnews.com/article/veneers-dentist-teeth-whitening-scam-unlicensed-d0d9d57613a10f18bc9735dc5eca4b41)
     
 * [Newsletters](https://apnews.com/newsletters)
@@ -729,20 +729,20 @@ Submit Search
     
     TOP STORIES
     
+    * [La Nina could soon arrive. Here's what that means for winter weather](https://apnews.com/article/la-nina-el-nino-snow-rain-winter-climate-1f45c017fb57d50a576eed6b4a1c9cc0)
+    * [Helene and Milton are both likely to be $50 billion disasters, joining ranks of most costly storms](https://apnews.com/article/helene-milton-hurricanes-climate-development-damage-costly-82c1d5df81c76fa08e035bf7c6db3a37)
     * [Pressure grows for countries to deliver on promised biodiversity targets at UN conference](https://apnews.com/article/biodiversity-conference-united-nations-climate-cop16-colombia-31f5daa588d04881faef639d99cc2f62)
-    * [The world will be fueled by electricity but even more clean energy is needed, report says](https://apnews.com/article/global-clean-energy-transition-df50c39865f3d24cf78ac9d58f0ad07c)
-    * [Amazon and Google are dueling with nuclear for data center power](https://apnews.com/article/climate-data-centers-amazon-google-nuclear-energy-e404d52241f965e056a7c53e88abc91a)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Kidney transplants are safe between people with HIV, new US study shows](https://apnews.com/article/kidney-transplant-hiv-research-ebfeb22cf6df39bac3d11613102fdecb)
     * [Listeria recall grows to 12 million pounds of meat and poultry, some of it sent to US schools](https://apnews.com/article/brucepac-meat-listeria-recall-98d34858d2b909b69525dc089654cc9d)
     * [Trump would be the oldest person to become president. He's not sharing health details](https://apnews.com/article/trump-harris-presidential-election-age-health-medical-records-7bb8212c1024748371e43b85e137bae5)
     * [New UK bill aims to legalize assisted dying for people who are terminally ill](https://apnews.com/article/britain-assisted-dying-bill-parliament-45f544221d4695e8e20445f6bd25dd4c)
     * [Takeaways from AP's report on euthanasia, doctors and ethics in Canada](https://apnews.com/article/euthanasia-ethics-canada-doctors-nonterminal-nonfatal-cases-2e4486b3f69e33d226d0f4a5e036a2f8)
-    * [Private forums show Canadian doctors struggle with euthanizing vulnerable patients](https://apnews.com/article/euthanasia-ethics-canada-doctors-nonterminal-nonfatal-cases-dfe59b1786592e31d9eb3b826c5175d1)
-    * [Serena Williams says she had a benign cyst removed from her neck and 'all is OK'](https://apnews.com/article/serena-williams-cyst-419b8937ef787bd79f67d2ee41b91759)
+    * [What to know about shaken baby syndrome as a Texas man could be first in US executed over it](https://apnews.com/article/shaken-baby-syndrome-texas-execution-548ce35645c215c22261a3974f6e1c37)
     
 * [Tech](https://apnews.com/technology)
     
@@ -783,9 +783,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Archdiocese of Los Angeles agrees to pay $880 million to victims of clergy sexual abuse](https://apnews.com/article/los-angeles-archdiocese-clergy-sexual-abuse-bf23e8967410017c036f765bb83910f6)
     * [A full-scale replica of Anne Frank's hidden annex is heading to New York for an exhibition](https://apnews.com/article/anne-frank-new-york-annex-diary-holocaust-8d093b71a48dcb84983a4ecf9d497747)
     * [US fines Lufthansa $4 million for treatment of Orthodox Jewish passengers on a 2022 flight](https://apnews.com/article/lufthansa-discrimination-jewish-passengers-transportation-department-6d13284b135dcc4a98555717e2dfd6ea)
-    * [Elton John turns the saga of televangelist Tammy Faye into song for Broadway](https://apnews.com/article/elton-john-tammy-faye-bakker-messner-broadway-21646ba21cc1a6a90f816384267f70c4)
     
     Newsletters
     
@@ -799,12 +799,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Ataque israelí deja 25 muertos en Líbano, incluida una ciudad con un pasado de muertes civiles](https://apnews.com/world-news/general-news-39713d3f48c4978a8458e42e1604bdeb)
+    * [Ataque israelí deja 27 muertos en Líbano, incluida una ciudad con un pasado de muertes civiles](https://apnews.com/world-news/general-news-39713d3f48c4978a8458e42e1604bdeb)
     * [En el corazón del cártel de Sinaloa, las viejas costumbres han cambiado y la violencia se desata](https://apnews.com/world-news/general-news-05a3e9cdaec6633ea3b74f0220a633f8)
+    * [La UE creía que tenía un plan migratorio. Pero al inicio de su cumbre, algunos piden ir más allá](https://apnews.com/world-news/general-news-7c12056c644a51a06417e6909849da70)
     * [Zelenskyy dice que su "plan de victoria" pasa por entrar en la OTAN, una gran traba para Occidente](https://apnews.com/world-news/general-news-a46933becff2806220409178b1864232)
-    * [Exsecretario de seguridad pública de México será sentenciado en EEUU en caso de narcotráfico](https://apnews.com/us-news/general-news-4210fc0e0ca97a331bf03bbf9fa65d3b)
-    * [Harris exhibe apoyo de republicanos en Pensilvania, mientras Trump trata de atraer el voto hispano](https://apnews.com/politics/elecciones-en-eeuu-19e22fe0b70a4011d0c070e74332627c)
-    * [Policía Federal de Brasil pide extradición de partidarios de Bolsonaro en Argentina](https://apnews.com/world-news/general-news-7b42227979a0f71b9440a61b9600f1a3)
+    * [Arquidiócesis de Los Ángeles acuerda pagar 880 millones de dólares a víctimas de abusos de clérigos](https://apnews.com/religion/general-news-159fc771393037c4044c60af98404930)
+    * [Gobierno de Biden ha cancelado los préstamos de estudios de más de 1 millón de trabajadores públicos](https://apnews.com/us-news/general-news-22b6ca09cadcdf194657588bb1a44d86)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
