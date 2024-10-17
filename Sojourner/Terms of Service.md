@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7333b9d067c5829d7f96c48f8b188367
+c688501923aace5ffe6718fceaf0f41c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![10 mm by 6 mm top-drilled green vintage glass leaves](https://sojourner.biz/images/cache/glass/GL0200.200.jpg)](https://sojourner.biz/beads/glass/10-mm-by-6-mm-top-drilled-green-vintage-glass-leaves.html "10 mm by 6 mm top-drilled green vintage glass leaves")
+[![10 mm by 5 mm red coral dog bone beads](https://sojourner.biz/images/cache/coral/CRL006.200.jpg)](https://sojourner.biz/beads/coral/10-mm-by-5-mm-red-coral-dog-bone-beads.html "10 mm by 5 mm red coral dog bone beads")
 
-#### [10 mm by 6 mm top-drilled green vintage glass leaves](https://sojourner.biz/beads/glass/10-mm-by-6-mm-top-drilled-green-vintage-glass-leaves.html "10 mm by 6 mm top-drilled green vintage glass leaves")
+#### [10 mm by 5 mm red coral dog bone beads](https://sojourner.biz/beads/coral/10-mm-by-5-mm-red-coral-dog-bone-beads.html "10 mm by 5 mm red coral dog bone beads")
 
-$4.00
+$27.00
 
 ### Best Sellers
 
