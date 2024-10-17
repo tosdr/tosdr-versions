@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Carnivorous plants eat faster with a fungal friend](https://www.sciencenews.org/article/carnivorous-plant-sundew-fungus-digest)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")14 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")18 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The cataclysmic origins of most of Earth’s meteorites have been found](https://www.sciencenews.org/article/origins-earths-meteorites-found)
             
-            By [Robin George Andrews](https://www.sciencenews.org/author/robin-george-andrews "Posts by Robin George Andrews")12 hours ago
+            By [Robin George Andrews](https://www.sciencenews.org/author/robin-george-andrews "Posts by Robin George Andrews")16 hours ago
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
