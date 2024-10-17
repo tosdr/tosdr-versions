@@ -1,6 +1,6 @@
  [![](/assets/src/img/logo-minimal.svg) YCH.commishes](https://ych.commishes.com/)
 
-[FAQ](https://ych.commishes.com/faq/) [What is a YCH?](https://ych.commishes.com/about/) [Blog](https://commishes.tumblr.com/) [Login](https://ych.commishes.com/account/login/?returnto=%2Fhome%2Fprivacy) [Register](https://ych.commishes.com/account/register/)
+[FAQ](https://ych.commishes.com/home/faq/) [What is a YCH?](https://ych.commishes.com/home/about/) [Blog](https://commishes.tumblr.com/) [Login](https://ych.commishes.com/account/login/?returnto=%2Fhome%2Fprivacy) [Register](https://ych.commishes.com/account/register/)
 
 Privacy policy
 
@@ -189,4 +189,4 @@ and such processing is carried out by automated means, you have the right to rec
 (b) by email, using the email address published on our website.
 
 This site uses cookies to offer it's services. By using the site you agree to the use of cookies.  
-© 2024 \- All rights reserved · [Help](https://ych.commishes.com/help/) · [Wiki](https://wiki.commishes.com/) · [Donate](https://ko-fi.com/commishes) · [Imprint](https://ych.commishes.com/imprint/) · [Privacy policy](https://ych.commishes.com/privacy/)
+© 2024 \- All rights reserved · [Help](https://ych.commishes.com/home/help/) · [Wiki](https://wiki.commishes.com/) · [Donate](https://ko-fi.com/commishes) · [Imprint](https://ych.commishes.com/home/imprint/) · [Privacy policy](https://ych.commishes.com/home/privacy/)
