@@ -41,11 +41,11 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[SAVE 15% FOR LIFE. Start BibleGateway+ FREE.](https://www.biblegateway.com/plus/?utm_source=bg&promo=flash15&utm_medium=alert_mobile&utm_campaign=bgplus_alert_bgplus_oct2024sale_15%4life20241015)
+[Sign up for Lee Strobel's straight answers to questions about faith.](https://www.biblegateway.com/landing/investigating_faith_with_lee_strobel/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_strobel20241017)
 
 close
 
-[Save 15% for life! Gain access to $3,100 worth of premium resources to enhance your study of Scripture. Start your free trial today!](https://www.biblegateway.com/plus/?utm_source=bg&promo=flash15&utm_medium=alert&utm_campaign=bgplus_alert_bgplus_oct2024sale_3100_20241015_enhance)
+[For less than $5/mo. gain access to $3,100 worth of premium resources to enhance your study of Scripture. Start your free trial today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_3100for5_053024)
 
 close
 
