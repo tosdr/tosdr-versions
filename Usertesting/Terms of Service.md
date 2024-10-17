@@ -68,11 +68,11 @@ Main navigation
             
               ![Laptop 3 - User](https://usertesting.widen.net/content/4gt1tysitx/webp/ICON-light-Laptop%203%20-%20User-256x256.png?w=120&itok=gwXmGVkq)
             
-        * Retail Pulse Report 2024: Q4
+        * Pulse Report: Retail, Q4 2024
             
             Get your finger on the pulse of consumer trends
             
-            [Get the report](https://www.usertesting.com/retail-pulse-2024-q4-form)
+            [Get the report](https://www.usertesting.com/resources/pulse-reports)
             
               ![Images for Pulse Reports for use in the mega menu tiles only](https://usertesting.widen.net/content/ypq8xbcxus/webp/IMAGE-mega-menu-pulse-retail-120x120.png?w=120&itok=GzOi8Jxu)
             
@@ -143,11 +143,11 @@ Main navigation
     
     * Featured Card
         
-        * Retail Pulse Report 2024: Q4
+        * Pulse Report: Retail, Q4 2024
             
             Get your finger on the pulse of consumer trends
             
-            [Get the report](https://www.usertesting.com/retail-pulse-2024-q4-form)
+            [Get the report](https://www.usertesting.com/resources/pulse-reports)
             
               ![Images for Pulse Reports for use in the mega menu tiles only](https://usertesting.widen.net/content/ypq8xbcxus/webp/IMAGE-mega-menu-pulse-retail-120x120.png?w=120&itok=GzOi8Jxu)
             
@@ -320,11 +320,11 @@ Main navigation
     
     * Featured Card
         
-        * Retail Pulse Report 2024: Q4
+        * Pulse Report: Retail, Q4 2024
             
             Get your finger on the pulse of consumer trends
             
-            [Get the report](https://www.usertesting.com/retail-pulse-2024-q4-form)
+            [Get the report](https://www.usertesting.com/resources/pulse-reports)
             
               ![Images for Pulse Reports for use in the mega menu tiles only](https://usertesting.widen.net/content/ypq8xbcxus/webp/IMAGE-mega-menu-pulse-retail-120x120.png?w=120&itok=GzOi8Jxu)
             
@@ -755,7 +755,7 @@ Footer
         * [Bug bounty](https://info.usertesting.com/usertesting-hackerone-bug-bounty-lp.html)
 * Resources
     * Digital Resources
-        * [All resources](https://www.usertesting.com/resource-library)
+        * [All resources](https://www.usertesting.com/resources)
         * [Usability Testing](https://www.usertesting.com/resources/guides/usability-testing)
         * [Product Design](https://www.usertesting.com/resources/guides/product-design)
         * [Blog](https://www.usertesting.com/blog)
