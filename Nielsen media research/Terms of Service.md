@@ -224,7 +224,7 @@ Notice: JavaScript is required for this content.
 
 [SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001492633)
 
-[facebook](https://www.facebook.com/Nielsen/) [instagram](https://www.instagram.com/nielsenmedia/) [linkedin](https://www.linkedin.com/company/nielsen/) [twitter](https://twitter.com/nielsen)[youtube](https://www.youtube.com/user/TheNielsenCompany)
+[facebook](https://www.facebook.com/Nielsen/) [instagram](https://www.instagram.com/nielsenmedia/) [linkedin](https://www.linkedin.com/company/nielsen/) [tiktok](https://www.tiktok.com/@nielsenglobal) [twitter](https://twitter.com/nielsen)[youtube](https://www.youtube.com/user/TheNielsenCompany)
 
 Copyright © 2024 The Nielsen Company (US), LLC. All Rights Reserved.
 
