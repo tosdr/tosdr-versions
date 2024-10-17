@@ -15,7 +15,7 @@
 
 Speak with a real person weekdays 9 - 3 EST [(347) 979-1735![new-icon](https://sanesolution.com/wp-content/themes/enfold-child/includes/small-phone-icon.png)](tel:3479791735)
 
-[CLICK TO START NOW](https://sanesolution.com/lp/program/) | [STORE](https://store.sanesolution.com/) | [GET HELP](https://sanesolution.com/customersupport/) | [LOGIN](https://program.sanesolution.com/)
+[STORE](https://store.sanesolution.com/) | [GET HELP](https://sanesolution.com/customersupport/) | [LOGIN](https://program.sanesolution.com/)
 
 * [Home](https://sanesolution.com/)
 * [ABOUT](https://sanesolution.com/about/)
