@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-VIPs get 10x points on purchases made today! [Join VIP & Shop](https://www.zappos.com/c/vip-dash)
+VIPs spend $200 today and earn 2,000 points. [Join VIP & Shop](https://www.zappos.com/c/vip-dash)
 
 Top Boots & Sneakers for Fall 2024. [Shop Our Favorites](https://www.zappos.com/c/fall-footwear-picks-for-2024)
 
