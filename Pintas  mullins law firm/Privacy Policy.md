@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What happens if a hip fracture goes untreated?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-happens-if-a-hip-fracture-goes-untreated-scaled.jpg "What Happens If a Hip Fracture Goes Untreated?")](https://www.pintas.com/faq/what-happens-if-a-hip-fracture-goes-untreated/ "What Happens If a Hip Fracture Goes Untreated?")
+[![Can you sue an insurance company without a lawyer?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-an-insurance-company-without-a-lawyer-scaled.jpg "Can You Sue an Insurance Company Without a Lawyer?")](https://www.pintas.com/faq/can-you-sue-an-insurance-company-without-a-lawyer/ "Can You Sue an Insurance Company Without a Lawyer?")
 
-[#### What Happens If a Hip Fracture Goes Untreated?](https://www.pintas.com/faq/what-happens-if-a-hip-fracture-goes-untreated/)
+[#### Can You Sue an Insurance Company Without a Lawyer?](https://www.pintas.com/faq/can-you-sue-an-insurance-company-without-a-lawyer/)
 
-[![Can a ct scan tell if a lung nodule is cancerous?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous.jpg "Can a CT Scan Tell If a Lung Nodule Is Cancerous?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous/ "Can a CT Scan Tell If a Lung Nodule Is Cancerous?")
+[![Average lung cancer settlement from asbestos](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-what-is-the-average-settlement-for-lung-cancer-caused-by-asbestos-exposure.jpg "Average Lung Cancer Settlement from Asbestos")](https://www.pintas.com/practice-areas/lung-cancer/average-lung-cancer-settlement "Average Lung Cancer Settlement from Asbestos")
 
-[#### Can a CT Scan Tell If a Lung Nodule Is Cancerous?](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous/)
+[#### Average Lung Cancer Settlement from Asbestos](https://www.pintas.com/practice-areas/lung-cancer/average-lung-cancer-settlement)
 
-[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/ "Is Clergy Sexual Abuse Common in the Mormon Church?")
+[![How will mesothelioma change my life?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-how-will-mesothelioma-change-my-life.jpg "How Will Mesothelioma Change My Life?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/ "How Will Mesothelioma Change My Life?")
 
-[#### Is Clergy Sexual Abuse Common in the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/)
+[#### How Will Mesothelioma Change My Life?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
