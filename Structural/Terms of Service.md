@@ -30,11 +30,11 @@ Accept](#)
 
 ![what's new](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/66b2781d1ac40a87d18484fd_Header.svg)
 
-Augeo and Visier announce strategic partnership that establishes next-gen engagement insights powered by AI and cross-dimensional analytics.
+’Tis the season! Augeo’s Experiential team offers exciting corporate gifting solutions to inspire your clients and employees.
 
-[##### Learn more
+[##### See what’s possible
 
-![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/66b2336922c957e7663d5b0e_arrow-up-circle.svg)](https://www.augeomarketing.com/press-releases/august-27-2024)
+![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/66b2336922c957e7663d5b0e_arrow-up-circle.svg)](https://www.structural.com/preview/enterprise-gifting)
 
 [![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/6414e19f3e180f537855420a_Augeo_Logo_Midnight.svg)![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/64cab0f6c43c9fcf5b7c998b_6414e19f3e180f537855420a_Augeo_Logo_Midnight.svg)](https://www.structural.com/)
 
