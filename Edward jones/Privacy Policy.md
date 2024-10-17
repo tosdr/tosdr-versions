@@ -51,11 +51,13 @@ Learn more: [Read the full Edward Jones Privacy Notice](https://www.edwardjones.
 
 ### California Consumer Privacy Act (CCPA)
 
-The California Consumer Privacy Act (CCPA) provides California residents with specific rights regarding how their personal information is collected and maintained, [which is more fully explained in our California Privacy Notice](https://www.edwardjones.com/us-en/privacy/california-privacy-notice "California Privacy Notice"). 
+The California Consumer Privacy Act (CCPA) provides California residents with specific rights regarding how their personal information is collected and maintained. 
 
 ### Oregon Consumer Privacy Act
 
 The Oregon Consumer Privacy Act provides Oregon residents with specific rights regarding how their personal information is collected and maintained.
+
+[Data Privacy Rights are more fully explained in our US States Privacy Notice.](https://www.edwardjones.com/us-en/privacy/california-privacy-notice)
 
 ### Consumer Data Rights Request
 
