@@ -205,28 +205,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Nach Balkon-Sturz! „One Direction“-Sänger (31) Liam Payne tot
-
-Nach Balkon-Sturz! „One Direction“-Sänger (31) Liam Payne tot
-
-Nach Balkon-Sturz! „One Direction“-Sänger (31) Liam Payne tot
-
-Nach Balkon-Sturz! „One Direction“-Sänger (31) Liam Payne tot
-
-Nach Balkon-Sturz! „One Direction“-Sänger (31) Liam Payne tot
-
-Nach Balkon-Sturz! „One Direction“-Sänger (31) Liam Payne tot
-
-Nach Balkon-Sturz! „One Direction“-Sänger (31) Liam Payne tot
-
-Nach Balkon-Sturz! „One Direction“-Sänger (31) Liam Payne tot
-
-Nach Balkon-Sturz! „One Direction“-Sänger (31) Liam Payne tot
-
-Nach Balkon-Sturz! „One Direction“-Sänger (31) Liam Payne tot](https://www.bild.de/unterhaltung/liam-payne-nach-balkon-sturz-one-direction-saenger-31-tot-64a3da62c73a414f9b91291d)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
