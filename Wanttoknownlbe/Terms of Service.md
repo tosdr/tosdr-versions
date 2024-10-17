@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinatie-industrie-gevrijwaard-van-schadeclaims/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-vrije-mens-vs-de-belastingdienst/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
