@@ -67,8 +67,6 @@ and events in your area.
 
 [Donate](https://supporters.eff.org/donate/site-m--m)
 
-[![](https://www.eff.org/files/effectingchange-desktop_10-17.png)EFFecting Change Livestream Series: How to Protest with Privacy in Mind](https://www.eff.org/livestream-protest "EFFecting Change Livestream Series: How to Protest with Privacy in Mind") [![](https://www.eff.org/files/effectingchange-mobile_10-17.png)](https://www.eff.org/livestream-protest "EFFecting Change Livestream Series: How to Protest with Privacy in Mind")[](https://www.eff.org/ "Close")
-
 [Electronic Frontier Foundation](https://www.eff.org/)
 
 * [About](https://www.eff.org/about)
