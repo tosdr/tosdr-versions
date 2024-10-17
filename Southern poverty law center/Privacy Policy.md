@@ -255,11 +255,13 @@ This Privacy Policy and Terms and Conditions is strictly limited to these Progra
 
 ![Hate Crimes Awareness Month](https://www.splcenter.org/sites/default/files/hcam-overlay-2024.jpg)
 
+October is Hate Crimes Awareness Month
+
 Close donation prompt
 
-### October is Hate Crimes Awareness Month
+Hate is on the rise. So is our movement to end it.
 
-[Add your name to join the SPLC in leading the charge against hate crimes](https://secure.splcenter.org/page/73747/subscribe/1)
+[Donate Today.](https://secure.splcenter.org/page/74474/donate/1)
 
 ![](https://d21y75miwcfqoq.cloudfront.net/718da443)
 
