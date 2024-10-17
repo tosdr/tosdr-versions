@@ -136,7 +136,6 @@ If you have any questions about this Privacy Policy, please contact us via [\[e
 
 * [Contact Information](https://www.ricksteves.com/about-us/contact-us)
 * [What We Do](https://www.ricksteves.com/about-us/what-we-do)
-* [Class Calendar](https://www.ricksteves.com/about-us/events-calendar)
 * [Meet the Staff](https://www.ricksteves.com/about-us/meet-the-staff)
 * [Social Responsibility](https://www.ricksteves.com/about-us/social-responsibility)
 * [Climate Smart](https://www.ricksteves.com/about-us/climate-smart)
@@ -145,8 +144,9 @@ If you have any questions about this Privacy Policy, please contact us via [\[e
 ### Travel Help
 
 * [FAQ](https://www.ricksteves.com/travel-help/frequently-asked-questions)
-* [Tour & Covid FAQ](https://www.ricksteves.com/travel-help/tours-faq)
+* [Tours FAQ](https://www.ricksteves.com/travel-help/tours-faq)
 * [Ask Us](https://www.ricksteves.com/travel-help)
+* [Travel Classes](https://www.ricksteves.com/travel-tips/travel-classes)
 * [Visit the Travel Center](https://www.ricksteves.com/travel-help/visit-our-travel-center)
 * [Guidebook Updates](https://www.ricksteves.com/europe/guidebook-updates)
 * [Submit Book Feedback](https://www.ricksteves.com/forms/guidebook-feedback-form)
@@ -155,7 +155,6 @@ If you have any questions about this Privacy Policy, please contact us via [\[e
 
 * [Travel News Email](https://www.ricksteves.com/publications/travel-news-email)
 * [Tour News Email](https://www.ricksteves.com/publications/tour-news-email)
-* [Tour Catalog](https://www.ricksteves.com/publications/tour-catalog-dvd-form)
 * [Subscription Center](https://www.ricksteves.com/publications/manage-email-subscriptions)
 
 ### Media Partners
@@ -174,9 +173,10 @@ If you have any questions about this Privacy Policy, please contact us via [\[e
 ### Follow Us
 
 * [Facebook](https://www.facebook.com/ricksteves)
-* [YouTube](https://www.youtube.com/ricksteves)
-* [Twitter](https://twitter.com/RickStevesEur)
-* [Pinterest](https://www.pinterest.com/ricksteveseurope/)
 * [Instagram](https://instagram.com/ricksteveseurope/)
+* [YouTube](https://www.youtube.com/ricksteves)
+* [TikTok](https://www.tiktok.com/@ricksteveseurope)
+* [Pinterest](https://www.pinterest.com/ricksteveseurope/)
+* [Twitter](https://twitter.com/RickStevesEur)
 
 ©2024 Rick Steves' Europe, Inc. | CST# 2086743 | [Terms of Service](https://www.ricksteves.com/about-us/terms-of-service) | [Privacy](https://www.ricksteves.com/about-us/privacy-policy)
