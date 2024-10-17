@@ -551,6 +551,7 @@ Fettle is a not-for-profit, affordable sexual health service delivered by SH:24.
 * [About](https://fettle.health/about)
 * [Press](https://fettle.health/press)
 * [Reviews](https://fettle.health/reviews)
+* [For employers](https://fettle.health/employer-benefits-sexual-health)
 * [Careers at SH:24external link](https://apply.workable.com/sh24/)
 
 * [Terms](https://fettle.health/terms-of-service)
