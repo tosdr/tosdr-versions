@@ -1,7 +1,7 @@
 [Skip to content](#MainContent)
 
-15% OFF OFFICE CHAIRS >> SIGN UP NOW!
--------------------------------------
+15% OFF OFFICE CHAIRS >> [SIGN UP NOW!](https://www.xchair.com/pages/vip-october-flash-sale "VIP October Flash Sale")
+---------------------------------------------------------------------------------------------------------------------
 
 [](https://www.xchair.com/)
 
@@ -89,7 +89,7 @@ Menu
         
         Learn About The Dynamic Variable Lumbar (DVL)® Support.](https://www.xchair.com/pages/ergonomics)
     
-* [Sale](https://www.xchair.com/collections/refurbished)
+* [Sale](https://www.xchair.com/pages/vip-october-flash-sale)
 
 * [BAG](https://www.xchair.com/cart)
 * [SIGN IN](https://www.xchair.com/account/login)
