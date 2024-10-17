@@ -70,6 +70,7 @@ Menu
     * [Resources](#)
         * [Blog](https://www.realvnc.com/en/blog/)
         * [Case Studies](https://www.realvnc.com/en/connect/customers/)
+        * [eBooks](https://www.realvnc.com/en/connect/ebooks/)
         * [Webinars](https://www.realvnc.com/en/connect/webinars/)
     * [On-Demand Webinar:What's New in RealVNC Connect 7? ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
         
@@ -156,6 +157,7 @@ Menu
     * [Resources](#)
         * [Blog](https://www.realvnc.com/en/blog/)
         * [Case Studies](https://www.realvnc.com/en/connect/customers/)
+        * [eBooks](https://www.realvnc.com/en/connect/ebooks/)
         * [Webinars](https://www.realvnc.com/en/connect/webinars/)
     * [On-Demand Webinar:What’s New in RealVNC Connect 7? ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
         
@@ -216,6 +218,7 @@ Menu
     * [Resources](#)
         * [Blog](https://www.realvnc.com/en/blog/)
         * [Case Studies](https://www.realvnc.com/en/connect/customers/)
+        * [eBooks](https://www.realvnc.com/en/connect/ebooks/)
         * [Webinars](https://www.realvnc.com/en/connect/webinars/)
     * [On-Demand Webinar:What’s New in RealVNC Connect 7? ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
         
