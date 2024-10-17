@@ -1,189 +1,6 @@
-[](https://zapier.com/)
+[Skip to content](#main)[](https://zapier.com/)
 
-[Skip to content](#mainContent)
-
-* Product
-    
-    Zapier Automation Platform
-    --------------------------
-    
-    No-code automation across 7,000+ apps
-    
-    PRODUCTS
-    --------
-    
-    * [ZapsDo-it-yourself automation for workflows](https://zapier.com/workflows)
-    * [TablesDatabases designed for workflows](https://zapier.com/tables)
-    * [InterfacesCustom pages to power your workflows](https://zapier.com/interfaces)
-    
-    CAPABILITIES
-    ------------
-    
-    * [App integrationsExplore 7,000+ app integrations](https://zapier.com/apps)
-    * [AI automationCutting-edge AI to upgrade your workflows](https://zapier.com/ai)
-    * [SecurityEnterprise-grade security](https://zapier.com/security-compliance)
-    
-    What's new
-    
-    * * *
-    
-    * [CanvasBeta
-        
-        Plan and map your workflows with AI](https://zapier.com/canvas)
-    * [AI ChatbotBeta
-        
-        Answer customer questions with AI chatbots](https://zapier.com/ai/chatbot)
-    * [CentralBeta
-        
-        Create your own AI bots for any task](https://zapier.com/central)
-    
-    * [Explore templates](https://zapier.com/templates)
-    * [Explore use cases](https://zapier.com/use-cases)
-    * [Join Zapier Early Access](https://zapier.com/early-access)
-    
-* Solutions
-    
-    Solutions
-    ---------
-    
-    How Zapier can help you automate your work across teams
-    
-    By team
-    -------
-    
-    * [RevOpsDrive revenue through automation](https://zapier.com/solutions/revops)
-    * [MarketingMultiply campaign effectiveness and ROI](https://zapier.com/solutions/marketing)
-    * [ITBetter manage systems with automation](https://zapier.com/solutions/it)
-    * [SalesClose more deals](https://zapier.com/solutions/sales)
-    * [Customer SupportElevate customer satisfaction](https://zapier.com/solutions/customer-support)
-    * [LeadersStreamline decision-making processes](https://zapier.com/solutions/leaders)
-    
-    By app
-    ------
-    
-    * [![salesforce logo](https://zapier-images.imgix.net/storage/services/1a4435539b4764e6ded3d368cabab387.png?auto=format&ixlib=react-9.8.1&fit=crop&q=50&w=19&h=19&dpr=2)
-        
-        Salesforce](https://zapier.com/apps/salesforce/integrations)
-    * [![hubspot logo](https://zapier-images.imgix.net/storage/developer/cde9764aa8d19fdd6d591455dbe5a78d.png?auto=format&ixlib=react-9.8.1&fit=crop&q=50&w=19&h=19&dpr=2)
-        
-        HubSpot](https://zapier.com/apps/hubspot/integrations)
-    * [![slack logo](https://zapier-images.imgix.net/storage/services/6cf3f5a461feadfba7abc93c4c395b33_2.png?auto=format&ixlib=react-9.8.1&fit=crop&q=50&w=19&h=19&dpr=2)
-        
-        Slack](https://zapier.com/apps/slack/integrations)
-    * [![openai logo](https://zapier-images.imgix.net/storage/developer_cli/a86f51fcd659c4b311c82ba31a176e4a.png?auto=format&ixlib=react-9.8.1&fit=crop&q=50&w=19&h=19&dpr=2)
-        
-        OpenAI](https://zapier.com/apps/openai/integrations)
-    * [![microsoft dynamics crm logo](https://zapier-images.imgix.net/storage/developer_cli/47648cb213e43a4c2f57e9e0bdf9699f.png?auto=format&ixlib=react-9.8.1&fit=crop&q=50&w=19&h=19&dpr=2)
-        
-        Microsoft Dynamics CRM](https://zapier.com/apps/microsoft-dynamics-crm/integrations)
-    * [![microsoft teams logo](https://zapier-images.imgix.net/storage/services/22d6681f64c79dd71a34066afe1c54e2.png?auto=format&ixlib=react-9.8.1&fit=crop&q=50&w=19&h=19&dpr=2)
-        
-        Microsoft Teams](https://zapier.com/apps/microsoft-teams/integrations)
-    * [![zendesk logo](https://zapier-images.imgix.net/storage/services/45e89018e756b043d806701f17dc2632.png?auto=format&ixlib=react-9.8.1&fit=crop&q=50&w=19&h=19&dpr=2)
-        
-        Zendesk](https://zapier.com/apps/zendesk/integrations)
-    * [![jira software cloud logo](https://zapier-images.imgix.net/storage/developer_cli/ea4a5ee38c7a088e243745dd0b851784.png?auto=format&ixlib=react-9.8.1&fit=crop&q=50&w=19&h=19&dpr=2)
-        
-        Jira Software Cloud](https://zapier.com/apps/jira-software-cloud/integrations)
-    * [![marketo logo](https://res.cloudinary.com/zapier-media/image/upload/f_auto/q_auto/v1716489224/universal-layout/out-of-app-nav/solutions/app-icons/marketo_cvo9d6.png)
-        
-        Marketo](https://zapier.com/apps/marketo/integrations)
-    * [View all apps](https://zapier.com/apps)
-    
-    By use case
-    -----------
-    
-    * [Lead managementAutomate your way to more conversions](https://zapier.com/lead-management)
-    * [Sales pipelineAutomate handoffs and streamline sales](https://zapier.com/sales-pipeline-management)
-    * [Marketing campaignsBoost your marketing campaign's impact](https://zapier.com/marketing-campaigns)
-    * [Customer supportQuickly route tickets and responses](https://zapier.com/customer-support-management)
-    * [Data managementConnect app data for more insights](https://zapier.com/data-management)
-    * [Project managementDeliver projects seamlessly](https://zapier.com/project-management)
-    * [Tickets and incidentsResolve issues and incidents faster](https://zapier.com/ticket-incident-management)
-    
-    [Automation for RevOps](https://zapier.com/solutions/revops)
-    
-    ![Graphic that shows automation icons connected to a central hub](https://res.cloudinary.com/zapier-media/image/upload/v1716501734/Global_Nav_April_2024_aeaycw.png)
-    
-    See how Zapier can take your RevOps and GTM engine to the next level
-    
-    * * *
-    
-    Zapier for
-    ----------
-    
-    * [Startups](https://zapier.com/startups)
-    * [Small and medium businesses](https://zapier.com/smb)
-    * [Enterprise](https://zapier.com/enterprise)
-    
-    * * *
-    
-    * [Explore templates](https://zapier.com/templates)
-    * [Explore use cases](https://zapier.com/use-cases)
-    * [Join Zapier Early Access](https://zapier.com/early-access)
-    
-* Resources
-    
-    * By team
-        
-        
-        -----------
-        
-        * [Marketing](https://zapier.com/resources/marketing)
-        * [Leaders](https://zapier.com/resources/leaders)
-        * [IT](https://zapier.com/resources/it)
-        * [Sales operations](https://zapier.com/resources/sales)
-        
-    * Learn more
-        
-        
-        --------------
-        
-        * [Blog](https://zapier.com/blog/)
-        * [Zapier Learn](https://learn.zapier.com/)
-        * [Events and webinars](https://zapier.com/resources/events)
-        * [Customer stories](https://zapier.com/customer-stories)
-        * [Zapier guides](https://zapier.com/resources/guides)
-        
-    * Get help
-        
-        
-        ------------
-        
-        * [Help Center](https://help.zapier.com/hc/en-us)
-        * [Community](https://community.zapier.com/)
-        * [Hire an Expert](https://zapier.com/experts)
-        * [Support Services](https://zapier.com/l/support-services)
-        * [More about Zapier Support](https://zapier.com/l/support)
-        
-    
-    [Zapier quick-start guide](https://zapier.com/learn/zapier-quick-start-guide)
-    
-    ![A simplified user interface design representing a portion of Zapier's platform. There's a vertical menu of platform options. At the top is a dominant orange button with text inside that reads "Create Zap." Beneath the button is a stack of menu icons to represent Zapier's dashboard and zaps.](https://cdn.zapier.com/storage/photos/8d754b5e8481fdd190dd7b1cf7738a8d.png)
-    
-    Create your first Zap with ease
-    
-    * * *
-    
-    Developer resources
-    -------------------
-    
-    * [Developer Platform](https://zapier.com/developer-platform)
-    * [Build an integration](https://zapier.com/developer-platform/integrations)
-    * [Embed an integration](https://zapier.com/developer-platform/embed-tools)
-    * [Integration Partner Program](https://zapier.com/developer-platform/partner-program)
-    * [Documentation](https://platform.zapier.com/)
-    
-    * * *
-    
-    * [Explore templates](https://zapier.com/templates)
-    * [Explore use cases](https://zapier.com/use-cases)
-    * [Join Zapier Early Access](https://zapier.com/early-access)
-    
-* [Enterprise](https://zapier.com/enterprise)
-* [Pricing](https://zapier.com/pricing)
-
-Loading
+[Log in](https://zapier.com/app/login)[Sign up](https://zapier.com/sign-up)
 
 Zapier Privacy Statement
 ------------------------
@@ -393,6 +210,14 @@ Description of Change: Updates made to the Privacy Statement to:
 
 ![](https://cdn.builder.io/api/v1/pixel?apiKey=f2fa4ab5cb7948579e57adce2fde495f)
 
+Follow us
+
+* [![Facebook](https://res.cloudinary.com/zapier-media/image/upload/f_auto/q_auto/v1723818399/site-layout/footer/facebook_lfjb6y.svg)](http://www.facebook.com/ZapierApp?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier)
+* [![LinkedIn](https://res.cloudinary.com/zapier-media/image/upload/f_auto/q_auto/v1725567953/site-layout/footer/linkedin_fykehk.svg)](https://www.linkedin.com/company/zapier/?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier)
+* [![X](https://res.cloudinary.com/zapier-media/image/upload/f_auto/q_auto/v1726153486/site-layout/footer/x_kvry9x.svg)](https://x.com/?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier#!/zapier)
+* [![YouTube](https://res.cloudinary.com/zapier-media/image/upload/f_auto/q_auto/v1726151782/site-layout/footer/youtube_qnscmu.svg)](https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier)
+* [![RSS](https://res.cloudinary.com/zapier-media/image/upload/f_auto/q_auto/v1726153088/site-layout/footer/rss_wsr19v.svg)](https://zapier.com/blog/feeds/latest/)
+
 * [Pricing](https://zapier.com/pricing)
 * [Help](https://help.zapier.com/hc/en-us)
 * [Developer Platform](https://zapier.com/platform)
@@ -401,18 +226,11 @@ Description of Change: Updates made to the Privacy Statement to:
 * [Enterprise](https://zapier.com/enterprise)
 * [Templates](https://zapier.com/templates)
 
-### Follow us
-
-* [](http://www.facebook.com/ZapierApp?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier "Follow us on Facebook")
-* [](https://www.linkedin.com/company/zapier/?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier "Follow us on LinkedIn")
-* [](https://twitter.com/?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier#!/zapier "Follow @zapier on Twitter")
-* [](https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier "See helpful Zapier videos on Youtube")
-* [](https://zapier.com/blog/feeds/latest/ "Subscribe to our blog")
-
 [](https://zapier.com/)
 
 © 2024 Zapier Inc.
 
-* Manage cookies
+Manage cookies
+
 * [Legal](https://zapier.com/legal)
 * [Privacy](https://zapier.com/privacy)
