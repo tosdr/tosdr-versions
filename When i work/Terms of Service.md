@@ -201,7 +201,9 @@ Unless otherwise explicitly stated, all materials found in the Service are direc
 * In addition to these Workplace ToS, the creation of a Workplace Payroll Account and the access and use of the Payroll Services offered through WIW are subject to the [**Payroll Terms of Service- Workplaces**](#h-payroll-terms-of-service-workplaces-payroll-tos) (“**Payroll ToS**”), attached as Schedule A and incorporated herein by reference; and   
 * Each of your Users who create a Payroll User Account for use with your Workplace(s) must separately agree to be bound by the [**Payroll User Terms of Service**](#h-payroll-user-terms-of-service-payroll-user-tos) (“**Payroll User ToS**”), attached here to as Schedule B.  
       
-    **Payroll Services are currently available only to Workplaces in the United States and only to Users who are Workplace employees and receive a W-2, federal wage and tax statement from you**.
+    **Payroll Services are currently available only to Workplaces in the United States and to Users who are either (a) Workplace employees   who receive from you  a W-2, federal wage and tax statement from you; or (b) independent contractors at your Workplace who receive from you a 1099-NEC or a 1099-MISC for reporting nonemployee compensation.).**  
+      
+    
 
 * On-Demand Pay. On-Demand Pay (“**ODP**”) is a Third-Party Service available to certain U.S.-based Workplaces and certain Users through our Third-Party Service Provider, Clair. ODP allows your eligible Users on-demand access to a portion of the wages they have earned ahead of payday. This feature is available at no cost to US-based Workplaces that license the Time & Attendance feature of the Service and that opt-in to ODP.  
       
@@ -611,7 +613,7 @@ No waiver of any right or provision of this Agreement shall be deemed a further 
 
 Please contact us at [support@wheniwork.com](mailto:support@wheniwork.com) with any questions regarding these Workplace ToS. The provider of the Service is When I Work, Inc., 420 North 5th St. Suite 500, Minneapolis, MN 55401 USA. We can be reached at +1-651-330-4482. If you are a California resident, in accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at 1625 North Market Blvd., Suite N 112 Sacramento, CA 95834, or by telephone at (800) 952-5210 or (916) 445-1254.
 
-**These Workplace ToS were last modified on April 16, 2024**
+**These Workplace ToS were last modified on April 16, 2024,** _with a minor revision on October 17, 2024 to add WIW’s ability to provide Payroll Services to independent contractors in addition to employees._
 
 * * *
 
@@ -654,7 +656,9 @@ In the event you are not approved to be a Payroll Services subscriber, we will r
 
 * Inviting your employees and other shift workers to onboard with Payroll Services, having each review and agree to the User Payroll Terms of Service, and having each create Payroll User Accounts to receive the benefit of WIW’s Payroll Services.  
       
-    **NOTE:** **Payroll processing and management is currently available only to Workplaces in the United States and to Users who are employees of Customer and receive a W-2, federal wage and tax statement**.  
+    **NOTE: Payroll Services  are currently available only to Workplaces in the United States and to Users who are either (a)employees of Customer who receive from you a W-2, federal wage and tax statement; or (b) independent contractors at your Workplace who receive from you a 1099-NEC or a 1099-MISC for reporting nonemployee compensation**.  
+      
+      
     
 * Making available sufficient funds to cover all disbursements, fees, payroll taxes, or any other amounts due under this Agreement; and
 * Reviewing and verifying the completeness and accuracy of Payroll Information (as defined below) before it is submitted to the WIW Service. The integrity and accuracy of the Payroll Services is limited by the nature of information you provide. WIW and its Third-Party Service Providers rely on you providing complete and accurate data, content, and other materials, including Payroll Information, into the Payroll Service. Your submission of Payroll Information is your authorization for WIW and its Third-Party Service Providers to create and transmit the entries necessary to process your payroll and payroll tax transactions using that information.  
@@ -718,11 +722,13 @@ To the extent allowed by applicable law, you agree that if one of your Payroll A
 
 (k) Fees.
 
-* Base Payroll Services Fees. Payroll Services are licensed on a subscription basis with fees charged based on (A) the total number of Customer’s employees per month enrolled in Payroll Services for any portion of a month (“**Base Fee**”); plus (B) each employee for which Customer uses the Payroll Services for any portion of a month (“**Per User Fee**”). The Payroll Services subscription may be purchased by you [online](https://wheniwork.com/pricing) or by executing a WIW-issued quote or other type of WIW-approved order form. Unless WIW has agreed to provide you with a no-charge subscription to Payroll Services, Customer will pay to WIW the applicable Payroll Services fees per the terms of the Workplace ToS or per the payment terms as set forth in the Customer’s executed WIW-issued quote or other type of WIW-approved order form.  
+* Base Payroll Services Fees. Payroll Services are licensed on a subscription basis with fees charged based on (A) the total number of Customer’s Users per month enrolled in Payroll Services for any portion of a month (“**Base Fee**”); plus (B) each User for which Customer uses the Payroll Services for any portion of a month (“**Per User Fee**”). The Payroll Services subscription may be purchased by you [online](https://wheniwork.com/pricing) or by executing a WIW-issued quote or other type of WIW-approved order form. Unless WIW has agreed to provide you with a no-charge subscription to Payroll Services, Customer will pay to WIW the applicable Payroll Services fees per the terms of the Workplace ToS or per the payment terms as set forth in the Customer’s executed WIW-issued quote or other type of WIW-approved order form.  
       
     Unlike WIW’s scheduling and time and attendance subscriptions, which are payable monthly or annually in advance at the start of each month-to-month or annual Subscription Term, as applicable, Payroll Services Base Fee and Per User Fee are paid monthly in arrears.  
       
     Payroll Services fees are not prorated for partial month’s use and Customer will be charged a full month of fees for any portion of a month Customer uses the Payroll Services.  
+      
+      
     
 * Pass-Through Fees. Customer hereby agrees and acknowledges that WIW may charge certain fees and expenses (“**Pass-Through Fees**”) from time to time for certain “**Payroll Service Events**”, such as untimely tax filing where the delay is due to no fault of WIW or its Third-Party Service Providers. A schedule of Payroll Service Events and the Pass-Through Fees for each is posted in our Help Center’s [Payroll Billing Reference Guide](https://help.wheniwork.com/articles/payroll-billing-reference-guide/). Pass-Through Fees will be invoiced in arrears at least quarterly, and the amount of the Pass-Through Fees invoiced will be based on the type and number of Payroll Service Events that transpired.  
       
@@ -795,7 +801,7 @@ The provisions of these Payroll ToS that should, by their nature survive termina
 
 **Workers’ Comp is currently available only to certain eligible Workplaces in the United States and only to Users who are Workplace employees and receive a W-2, federal wage and tax statement from you**.
 
-**These** **Payroll ToS-Workplaces** **were last modified on April 16, 2024**
+**These Payroll ToS-Workplaces were last modified on April 16, 2024,** _with a minor revision on October 17, 2024 to add WIW’s ability to provide Payroll Services to independent contractors in addition to employees._
 
 * * *
 
@@ -844,7 +850,7 @@ NEXT, and not WIW or Check, acts as the agent that represents insurance companie
 
 For Customers that choose to use the business insurance services, you are consenting to Check providing, through its API, relevant Payroll Services Data already in its possession as required by the business insurance platform.   You represent that you have provided notices to and obtained consents from your applicable Users allowing Check to provide such information to NEXT related to those Users for use in underwriting decisions.
 
-#### 5\. **SUPPPORT** 
+#### 5\. **SUPPORT** 
 
 WIW’s support services for the business insurance service is limited to answering technical questions related to use of the business insurance platform. All questions related to a Workers’ Comp Quote or a plan of Workers’ Comp should be directed to NEXT Insurance, including those questions related to eligibility, underwriting, management, billing, or claims processing.  
 
@@ -872,6 +878,14 @@ The provisions of this Workers’ Comp Insurance Schedule that should, by their 
 
 #### **User Terms of Service**  
 **FOR INDIVIDUAL SHIFT WORKERS OF A WORKPLACE** 
+
+#### **IF YOU ARE AN INDIVIDUAL WHO HAS BEEN ASKED OR INVITED TO ACCESS AND USE THE SERVICE BY A WORKPLACE AS A SHIFT WORKER\*, ADMIN, MANAGER, SUPERVISOR, EMPLOYEE, VOLUNTEER, AGENT, OR CONTRACTOR OF A WORKPLACE, THESE USER TERMS OF SERVICE APPLY TO YOU.**
+
+####  **As described further** [**here**](#terms-top)**, separate terms apply to workplaces such as employers, companies, businesses, organizations, and other entities (each, a “Workplace”) that purchase a subscription to the Service, are provided a subscription to the Service free of charge  or under a free trial. THE WORKPLACE TERMS OF SERVICE DO NOT APPLY TO YOU AS AN INDIVIDUAL USER.**
+
+#### **NOTE REGARDING SHIFT WORKER CLASSIFICATION IN THE SERVICE**
+
+#### **\*****_Shift workers, including employees, independent contractors, and volunteers of a Workplace (“Users”) are often referred to within the Service as “Employees”. Within the Service, certain Employees may be designated as Managers or Supervisors by the Workplace. Naming conventions within the Service are for_** **_convenience only_** **_and are_** **_not_** **_intended to be a determination of any individual’s worker status or worker classification for any purpose, including for purposes of federal employment taxes, unemployment taxes, etc. Likewise, When I Work does not assist in the determination of whether a shift worker is exempt or nonexempt under the Fair Labor Standards Act._** **_Workplaces assume all liability for the proper classification of their shift workers based on applicable legal guidelines and for complying with all other employment laws, such as wage and hour laws_****.**
 
 ####   
 **INTRODUCTION**
@@ -946,7 +960,7 @@ Unless otherwise explicitly stated, all materials found in the Service are direc
   
 In addition to these User ToS, your creation of a Payroll User Account and the access and use of the Payroll Services are subject to the [**Payroll User Terms of Service**](#h-payroll-user-terms-of-service-payroll-user-tos) (“**Payroll User ToS**”), attached as Schedule B and incorporated herein by reference.  
   
-**Payroll Services are currently available only to Workplaces in the United States and only to Users who are Workplace employees and receive a W-2, federal wage and tax statement from you**.  
+**Payroll Services are currently available only to Workplaces in the United States and to Users who are either (a)  Workplace employees   who receive a W-2, federal wage and tax statement from you or (b) independent contractors at your Workplace who receive a 1099-NEC or a 1099-MISC for reporting nonemployee compensation.**  
 
 (b) On-Demand Pay. On-Demand Pay (“**ODP**”) is a feature available to certain U.S.-based Workplaces and to certain Users through our Third-Party Service Provider, Clair. If your U.S.-based Workplace chooses to offer its Users the option to use ODP, eligible Users may access a portion of the wages they have earned in advance of payday. This feature is available at no cost to U.S.-based Workplaces that license the Time & Attendance feature of the Service and that opt-in to ODP  
   
@@ -1172,7 +1186,7 @@ If the Service or any Third-Party Service provides professional information (for
 
 Please contact us at [support@wheniwork.com](mailto:support@wheniwork.com) with any questions regarding these User ToS. The provider of the Service is When I Work, Inc., 420 North 5th St. Suite 500, Minneapolis, MN 55401. We can be reached at +1-651-330-4482. If you are a California resident, in accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at 1625 North Market Blvd., Suite N 112 Sacramento, CA 95834, or by telephone at (800) 952-5210 or (916) 445-1254.
 
-**These User ToS were last modified on April 16, 2024**
+**These User ToS were last modified on April 16, 2024,** _with a minor revision on October 17, 2024 to add WIW’s ability to provide Payroll Services to independent contractors in addition to employees._
 
 * * *
 
