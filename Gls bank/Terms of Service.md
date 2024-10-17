@@ -359,7 +359,7 @@ Fragen & Antworten
 
 Die neuen Preise gelten für alle Privat- & Geschäftskund\*innen, die ein Girokonto bei der GLS Bank führen.
 
-Die Änderungen sind in [diesem Dokument](https://www.gls.de/media/PDF/AGB_Konditionen_PLV/134200_Preis-_und_Leistungsverzeichnis_03.23_Stand_01.01.2024.pdf) grau hinterlegt
+Die Änderungen sind in [diesem Dokument](https://www.gls.de/media/PDF/AGB_Konditionen_PLV/134200_Preis-_und_Leistungsverzeichnis_03.24_Stand_11.10.2024.pdf) grau hinterlegt
 
 [Wann werden die neuen Preise berechnet?](#q440292532)
 
@@ -472,8 +472,8 @@ Zum Herunterladen
 | Thema | Titel | Wofür brauchen Sie das? | Formulare und Infos |
 | --- | --- | --- | --- |
 | **AGB** | Allgemeine Geschäftsbedingungen | Die AGB regeln die Geschäftsbeziehungen zwischen Kund\*in und GLS Bank. | [Download (pdf \| 274 KB)](https://www.gls.de/agb/?eID=download&file=6970&cHash=e2992e7c8517c26a15ed607c96523bc9 "Allgemeine Geschäftsbedingungen - 26.04.2024") (Letzte Aktualisierung - 26.04.2024) |
-| **Preisleistungsverzeichnis** | Preis- und Leistungsverzeichnis für Bestandskund\*innen | Im Preis- und Leistungsverzeichnis sind die Preise für Dienstleistung im standardisierten Geschäftsverkehr zusammengefasst. Für alle, die bis 31.12.2023 Kund\*in der GLS Bank geworden sind. | [Download (pdf \| 411 KB)](https://www.gls.de/agb/?eID=download&file=7243&cHash=8a045d3d7e63fc339fe32e79abc88f48 "Preis- und Leistungsverzeichnis für Bestandskund*innen - 17.09.2024") (Letzte Aktualisierung - 17.09.2024) |
-| **Preisleistungsverzeichnis** | Preis- und Leistungsverzeichnis für neue Kund\*innen ab 1. Januar 2024 | Im Preis- und Leistungsverzeichnis sind die Preise für Dienstleistung im standardisierten Geschäftsverkehr zusammengefasst. | [Download (pdf \| 426 KB)](https://www.gls.de/agb/?eID=download&file=21976&cHash=5a1b103afaa7071ddafdb8ba86dfd8d3 "Preis- und Leistungsverzeichnis für neue Kund*innen ab 1. Januar 2024 - 02.01.2024") (Letzte Aktualisierung - 02.01.2024) |
+| **Preisleistungsverzeichnis** | Preis- und Leistungsverzeichnis für Bestandskund\*innen | Im Preis- und Leistungsverzeichnis sind die Preise für Dienstleistung im standardisierten Geschäftsverkehr zusammengefasst. Für alle, die bis 31.12.2023 Kund\*in der GLS Bank geworden sind. | [Download (pdf \| 418 KB)](https://www.gls.de/agb/?eID=download&file=7243&cHash=8a045d3d7e63fc339fe32e79abc88f48 "Preis- und Leistungsverzeichnis für Bestandskund*innen - 17.10.2024") (Letzte Aktualisierung - 17.10.2024) |
+| **Preisleistungsverzeichnis** | Preis- und Leistungsverzeichnis für neue Kund\*innen ab 1. Januar 2024 | Im Preis- und Leistungsverzeichnis sind die Preise für Dienstleistung im standardisierten Geschäftsverkehr zusammengefasst. | [Download (pdf \| 432 KB)](https://www.gls.de/agb/?eID=download&file=21976&cHash=5a1b103afaa7071ddafdb8ba86dfd8d3 "Preis- und Leistungsverzeichnis für neue Kund*innen ab 1. Januar 2024 - 17.10.2024") (Letzte Aktualisierung - 17.10.2024) |
 | **Änderungsaufträge** | Kontoauflösung | Mit diesem Auftrag veranlassen Sie eine Kontoauflösung. | [Download (pdf \| 55 KB)](https://www.gls.de/agb/?eID=download&file=15328&cHash=4d6bfeb1c1ac45fa24a8fb6614a805e3 "Kontoauflösung - 21.03.2024") (Letzte Aktualisierung - 21.03.2024) |
 
 Kontaktformular
