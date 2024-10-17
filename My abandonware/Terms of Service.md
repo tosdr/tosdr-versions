@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Mouse Trap](https://www.myabandonware.com/game/mouse-trap-5a2)
-* [More After Dark: Volume 1](https://www.myabandonware.com/game/more-after-dark-volume-1-saf)
-* [Szkoła Koziołka Matołka](https://www.myabandonware.com/game/szkola-koziolka-matolka-sae)
-* [Wielki Teleturniej Smoka Wawelskiego](https://www.myabandonware.com/game/wielki-teleturniej-smoka-wawelskiego-sad)
-* [Reksio i UFO](https://www.myabandonware.com/game/reksio-i-ufo-sac)
+* [Sega Flipper](https://www.myabandonware.com/game/sega-flipper-svd)
+* [Sannin Mahjong](https://www.myabandonware.com/game/sannin-mahjong-svc)
+* [Safari Race](https://www.myabandonware.com/game/safari-race-svb)
+* [Champion Tennis](https://www.myabandonware.com/game/champion-tennis-sva)
+* [Champion Soccer](https://www.myabandonware.com/game/champion-soccer-qsb)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Larkspur Waldorf: The Journey Home](https://www.myabandonware.com/game/larkspur-waldorf-the-journey-home-omn)
-* [Vapor TRX](https://www.myabandonware.com/game/vapor-trx-sba)
-* [Heads Up Action Soccer](https://www.myabandonware.com/game/heads-up-action-soccer-qul)
+* [Rapid River](https://www.myabandonware.com/game/rapid-river-so7)
+* [Skateboard Kidz](https://www.myabandonware.com/game/skateboard-kidz-6wq)
+* [Battle Arena Toshinden 2](https://www.myabandonware.com/game/battle-arena-toshinden-2-sjw)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
