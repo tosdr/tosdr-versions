@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Land of Gold Preview** | Great Performances](https://video.nhpbs.org/video/land-of-gold-preview-rf77pv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Disclaimer** | Flicks](https://video.nhpbs.org/video/disclaimer-nl3mpb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**October 16, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-16-2024-pbs-news-hour-full-episode-1729051201?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Solar System: Volcano Worlds** | NOVA](https://video.nhpbs.org/video/solar-system-volcano-worlds-uysbb5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Harris courts Black voters as Trump faces tariff grilling** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-1729027462?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**"This Supreme Court Is Its Own Worst Enemy:" Expert Discusses SCOTUS New Term** | Amanpour and Company](https://video.nhpbs.org/video/this-supreme-court-is-its-own-worst-enemy-expert-discusses-scotus-new-term-c0hflh?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Over the Wall** | REEL SOUTH](https://video.nhpbs.org/video/over-the-wall-odmscg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**A Year of War: Israelis and Palestinians** | FRONTLINE](https://video.nhpbs.org/video/a-year-of-war-israelis-and-palestinians-ojps9u?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**"This Supreme Court Is Its Own Worst Enemy:" Expert Discusses SCOTUS New Term** | Amanpour and Company](https://video.nhpbs.org/video/this-supreme-court-is-its-own-worst-enemy-expert-discusses-scotus-new-term-c0hflh?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Amsterdam in Winter** | Van der Valk](https://video.nhpbs.org/video/amsterdam-in-winter-7ygz6l?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer Make Peace or Die: Honor the Fallen** | Independent Lens](https://video.nhpbs.org/video/trailer-make-peace-or-die-honor-the-fallen-0cbbaz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 6 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-6-preview-n0vlgx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**2024 Ford Ranger & 2024 BMW X2** | MotorWeek](https://video.nhpbs.org/video/2024-ford-ranger-2024-bmw-x2-pluiue?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Celestine Tate Harrington: Building a Legacy** | American Masters](https://video.nhpbs.org/video/celestine-tate-harrington-uj5ni1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
