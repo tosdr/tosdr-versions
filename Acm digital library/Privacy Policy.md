@@ -372,15 +372,15 @@ Search
         
         [\[Learn More about ACM's Commitment to Diversity, Equity, and Inclusion...\]](https://www.acm.org/diversity-inclusion/about)
         
-    * [![dei-cacm-articles.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/diversity-inclusion/dei-cacm/dei-cacm-articles.jpg)](https://www.acm.org/diversity-inclusion/dei-cacm-articles)
+    * [![Image with the text, ](/binaries/ctaimagelarge/content/gallery/acm/ctas/diversity-inclusion/dei-cacm/dei-cacm-articles.jpg)](https://www.acm.org/diversity-inclusion/dei-cacm-articles)
         
         [DEI Articles in CACM](https://www.acm.org/diversity-inclusion/dei-cacm-articles)
         
-        [![dei-ce-webinars.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/diversity-inclusion/dei-ce-webinars.jpg)](https://www.acm.org/diversity-inclusion/dei-ce-webinars)
+        [![Image with the text, ](/binaries/ctaimagelarge/content/gallery/acm/ctas/diversity-inclusion/dei-ce-webinars.jpg)](https://www.acm.org/diversity-inclusion/dei-ce-webinars)
         
         [DEI CE Webinars](https://www.acm.org/diversity-inclusion/dei-ce-webinars)
         
-        [![di-teams.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/diversity-inclusion/di-teams.jpg)](https://www.acm.org/diversity-inclusion/diverse-teams)
+        [![Image of different skin tone hands in a high-five circle](/binaries/ctaimagelarge/content/gallery/acm/ctas/diversity-inclusion/di-teams.jpg)](https://www.acm.org/diversity-inclusion/diverse-teams)
         
         [How Diverse Is Your Team?](https://www.acm.org/diversity-inclusion/diverse-teams)
         
