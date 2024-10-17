@@ -196,7 +196,7 @@ Cookies
 | doNotShowSVGImportWarningDialogAgain | Lucid Software Inc | ESSENTIAL | Supresses SVG import warning dialog. This prevents users from seeing the same message twice. | 365 days and 6 hours |
 | eduSignup | Lucid Software Inc | ESSENTIAL | Indicates if the user is an EDU signup. | 1 day |
 | emailOnlyFinalizeNow | Lucid Software Inc | ESSENTIAL | Used during email only registration. | 5 minutes |
-| ^embed-access-.\* | Lucid Software Inc | ESSENTIAL | Proves that a user accessed a document via an embedded experience, allowing them access to the document via anonymous invitation | 4 hours |
+| ^embed-access-.\* | Lucid Software Inc | ESSENTIAL | Proves that a user accessed a document via an embedded experience, allowing them access to the document via anonymous invitation | 1 week |
 | embed\_credentials | Lucid Software Inc | ESSENTIAL | Credentials for viewing embedded documents. | Session |
 | EMBEDDED | Gainsight Inc | ESSENTIAL | embedded Iframe set cookies on own domain. Shows the embedded video player of youtube. | Session |
 | ^embed\_token\_\* | Lucid Software Inc | ESSENTIAL | Credentials for viewing embedded documents. | Session |
