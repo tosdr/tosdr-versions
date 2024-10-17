@@ -1,18 +1,18 @@
-[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F9db0094a1e0f&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---two_column_layout_nav----------------------------------)
+[Open in app](https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F9db0094a1e0f&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---top_nav_layout_nav----------------------------------)
 
 Sign up
 
-[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&source=post_page---two_column_layout_nav-----------------------global_nav-----------)
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
 
-[](https://medium.com/?source=---two_column_layout_nav----------------------------------)
+[](https://medium.com/?source=---top_nav_layout_nav----------------------------------)
 
-[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---two_column_layout_nav-----------------------new_post_topnav-----------)
+[Write](https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav-----------)
 
-[](https://medium.com/search?source=---two_column_layout_nav----------------------------------)
+[](https://medium.com/search?source=---top_nav_layout_nav----------------------------------)
 
 Sign up
 
-[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&source=post_page---two_column_layout_nav-----------------------global_nav-----------)
+[Sign in](https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&source=post_page---top_nav_layout_nav-----------------------global_nav-----------)
 
 ![](https://miro.medium.com/v2/resize:fill:64:64/1*dmbNkD5D-u45r44go_cf0g.png)
 
