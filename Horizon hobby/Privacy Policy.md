@@ -1,3 +1,5 @@
+ 
+
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
 [RC Fall Frenzy Sale
@@ -26,7 +28,7 @@ Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-po
 
  
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw6553f9f8/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw30c02245/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 Search Name or Part Number
 
@@ -60,11 +62,11 @@ My Account
 * [Order Status](https://www.horizonhobby.com/orderstatus)
 * [View My Points](https://www.horizonhobby.com/rcclub?rurl=6)
 
-  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw2153b4a9/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw95254a6f/images/new-cart-icon-hover.svg) 0
+  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwfff95ddb/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw106c31e1/images/new-cart-icon-hover.svg) 0
 
 Cart
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw2153b4a9/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw95254a6f/images/new-cart-icon-hover.svg) 0
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwfff95ddb/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw106c31e1/images/new-cart-icon-hover.svg) 0
 
 Cart](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
@@ -90,7 +92,7 @@ water
 
 [Shop Boats](https://www.horizonhobby.com/boats/)
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw2153b4a9/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw95254a6f/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwfff95ddb/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw106c31e1/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
 [My store
 
@@ -98,11 +100,11 @@ Select A Store](javascript:void(0))
 
 My store
 
-![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw6553f9f8/images/horizon-hobby-logo-blue.svg)
+![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw30c02245/images/horizon-hobby-logo-blue.svg)
 
 [icon-arrow-white Back](#)
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw6553f9f8/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw30c02245/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 [](#)
 
@@ -146,13 +148,18 @@ My store
         
         [![Vehicle Finder](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwda1e5741/header-images/vehicle-finder-175x175.jpg)](https://www.horizonhobby.com/hh-best-rc-finder.html)
         
-        * [By Completion Level](https://www.horizonhobby.com/cars-and-trucks/by-completion-level/)
+        * [Shop By Completion Level](https://www.horizonhobby.com/cars-and-trucks/by-completion-level/)
             * [Ready-To-Run](https://www.horizonhobby.com/cars-and-trucks/by-completion-level/ready-to-run/)
             * [Bind-N-Drive](https://www.horizonhobby.com/cars-and-trucks/by-completion-level/bind-n-drive/)
             * [Kits](https://www.horizonhobby.com/cars-and-trucks/by-completion-level/kits/)
             * [Rollers](https://www.horizonhobby.com/cars-and-trucks/by-completion-level/rollers/)
             * [View All](https://www.horizonhobby.com/cars-and-trucks/by-completion-level/)
-        * [RC Vehicle Types](https://www.horizonhobby.com/cars-and-trucks/by-type/)
+        * [Shop By Power Plant](https://www.horizonhobby.com/cars-and-trucks/by-power-plant/)
+            * [Electric](https://www.horizonhobby.com/cars-and-trucks/by-power-plant/electric/)
+            * [Nitro](https://www.horizonhobby.com/cars-and-trucks/by-power-plant/nitro/)
+            * [Gas](https://www.horizonhobby.com/cars-and-trucks/by-power-plant/gas/)
+            * [View All](https://www.horizonhobby.com/cars-and-trucks/by-power-plant/)
+        * [Shop by RC Vehicle Types](https://www.horizonhobby.com/cars-and-trucks/by-type/)
             * [Monster Trucks](https://www.horizonhobby.com/cars-and-trucks/by-type/monster-trucks/)
             * [Rock Crawlers](https://www.horizonhobby.com/cars-and-trucks/by-type/rock-crawlers/)
             * [Rock Racer](https://www.horizonhobby.com/cars-and-trucks/by-type/rock-racers/)
@@ -163,7 +170,7 @@ My store
             * [Motorcycles](https://www.horizonhobby.com/cars-and-trucks/by-type/motorcycles/)
             * [Drag Cars](https://www.horizonhobby.com/cars-and-trucks/by-type/drag-cars/)
             * [View All](https://www.horizonhobby.com/cars-and-trucks/by-type/)
-        * [Featured Brands](https://www.horizonhobby.com/brands/)
+        * [Shop Our Brands](https://www.horizonhobby.com/brands/)
             * [ARRMA®](https://www.horizonhobby.com/arrma/)
             * [Axial®](https://www.horizonhobby.com/axial/)
             * [Losi®](https://www.horizonhobby.com/losi/)
@@ -399,10 +406,6 @@ My store
         [![HH Signature Events](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw0d5d2c09/header-images/signature-events-175x175.jpg)
         
         HH Signature Events](https://www.horizonhobby.com/hh-signature-events.html)
-        
-        [![Racer Payout Program](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw17c54675/header-images/RPP-Logo-175x175.jpg)
-        
-        Racer Rewards Program](https://www.horizonhobby.com/racer-payout-program.html)
         
         [![Events Calendar](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw59f47e0a/header-images/calendar-175x175.jpg)
         
@@ -1011,7 +1014,6 @@ Company Info
 * [Careers](https://recruiting.ultipro.com/HOR1005/JobBoard/1e0e1ed9-90e0-3f93-f7ee-8b0a223db196/?q=&o=postedDateDesc "Go to Careers")
 * [Purchasing & Dealer Inquiries](https://www.horizonhobby.com/become-a-dealer.html?cp_source=footer&cp_medium=aboutus "Go to Purchasing & Dealer Inquiries")
 * [Hobbies for Good](https://www.horizonhobby.com/hobbiesforgood-landing.html?cp_source=footer&cp_medium=aboutus "Go to Hobbies for Good")
-* [Racer Payout Program](https://www.horizonhobby.com/racer-payout-program.html?cp_source=footer&cp_medium=aboutus "Go to Racer Payout Program")
 * [Affiliate Program](https://www.horizonhobby.com/affiliate.html?cp_source=footer&cp_medium=aboutus "Go to Affiliate Program")
 
 Legal
