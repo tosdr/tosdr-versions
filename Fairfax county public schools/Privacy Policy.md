@@ -296,13 +296,13 @@ Expectations for student behavior and adult responses to enhance school safety a
 
 ### Memorandum of Understanding Between FCPS and the Fairfax County Police Department
 
-View the signed MOU](https://www.fcps.edu/about-fcps/safety-security/school-resource-officers/memorandum-understanding)  [![a kid with a computer](/sites/default/files/styles/card_1x/public/media/hero/042108-1383-heroweb_1.jpg?h=2cbbdb21&itok=aROVXdau)
+View the signed MOU](https://www.fcps.edu/about-fcps/safety-security/school-resource-officers/memorandum-understanding)  [![American Flag](/sites/default/files/styles/card_1x/public/media/hero/021611-1110_32.jpg?h=371fb43d&itok=LKGR3bXV)
+
+### Passed Bill Report](https://www.fcps.edu/node/33480)  [![a kid with a computer](/sites/default/files/styles/card_1x/public/media/hero/042108-1383-heroweb_1.jpg?h=2cbbdb21&itok=aROVXdau)
 
 ### Digital Privacy in FCPS
 
-Fairfax County Public Schools is committed to providing access to digital resources in a manner that respects and protects student privacy while maximizing learning opportunities for our students.](https://www.fcps.edu/family-resources/technology/digital-citizenship-internet-safety/digital-privacy-fcps)  [![American Flag](/sites/default/files/styles/card_1x/public/media/hero/021611-1110_32.jpg?h=371fb43d&itok=LKGR3bXV)
-
-### Passed Bill Report](https://www.fcps.edu/node/33480)  [![Student working on a computer](/sites/default/files/styles/card_1x/public/media/hero/071203-1077.jpg?h=69879900&itok=eRLpKtbe)
+Fairfax County Public Schools is committed to providing access to digital resources in a manner that respects and protects student privacy while maximizing learning opportunities for our students.](https://www.fcps.edu/family-resources/technology/digital-citizenship-internet-safety/digital-privacy-fcps)  [![Student working on a computer](/sites/default/files/styles/card_1x/public/media/hero/071203-1077.jpg?h=69879900&itok=eRLpKtbe)
 
 ### Internet Content Filtering
 
