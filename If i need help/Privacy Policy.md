@@ -10,7 +10,7 @@ MENU [SHOP](https://www.ifineedhelp.org/shop/featured) [ABOUT v](https://www.ifi
 * [EVENT CALENDAR](https://www.ifineedhelp.org/events/page)
 * [FAQ](https://www.ifineedhelp.org/faq/page)
 
-[DONATE](https://www.ifineedhelp.org/donation) [GIFT CARD](https://www.ifineedhelp.org/gift-card) [BLOG](https://blog.ifineedhelp.org/) [FREE SIGNUP](https://www.ifineedhelp.org/user/register?crumb=register) [LOGIN](https://www.ifineedhelp.org/user/login)![cart](https://www.ifineedhelp.org/qrcodeid/img/cart-icon-trans.png)  
+[DONATE](https://www.ifineedhelp.org/donation) [GIFT CARD](https://www.ifineedhelp.org/gift-card) [BLOG](https://blog.ifineedhelp.org/) [FREE SIGNUP](https://www.ifineedhelp.org/user/register?crumb=register) [LOGIN](https://www.ifineedhelp.org/user/login)![cart](https://www.ifineedhelp.org/qrcodeid/img/cart-icon-trans.png) 0
 
 Website Policies and Terms of Service
 =====================================
