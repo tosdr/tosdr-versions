@@ -228,7 +228,25 @@ Fragrance
 
 Trending
 
- [HOLIDAY GIFT GUIDE](https://www.bobbibrowncosmetics.com/holiday-gift-guide)
+ [HOLIDAY GIFT GUIDE](https://www.bobbibrowncosmetics.com/holiday-gift-guide) HOLIDAY GIFT GUIDE 
+
+HOLIDAY GIFT GUIDE
+
+[Holiday Collection](https://www.bobbibrowncosmetics.com/holiday-collection "Holiday Collection")
+
+[Palettes & Sets](https://www.bobbibrowncosmetics.com/products/13996/palettes-and-sets "Palettes & Sets ")
+
+[Bestsellers](https://www.bobbibrowncosmetics.com/products/14358/best-sellers "Bestsellers ")
+
+[Gifts Under $30](https://www.bobbibrowncosmetics.com/mini-bar "Gifts Under $30")
+
+[Gifts Under $50](https://www.bobbibrowncosmetics.com/products/36150/holiday/30to50 "Gifts Under $50")
+
+[Gifts for Skincare Lovers](https://www.bobbibrowncosmetics.com/products/14006/skincare "Gifts for Skincare Lovers ")
+
+[Gifts for Statement Makers](https://www.bobbibrowncosmetics.com/products/2321/makeup "Gifts for Statement Makers ")
+
+[Gifts for Minimalists](https://www.bobbibrowncosmetics.com/products/38471/evergreengifting/minimalist-gift-guide "Gifts for Minimalists")
 
  [NEW WEIGHTLESS FOUNDATION](https://www.bobbibrowncosmetics.com/product/14017/129115/makeup/face/foundation/weightless-skin-foundation-spf-15#/family/all)
 
