@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [MALINOVKA ALLIANCE (18)](https://forum.nationstates.net/viewtopic.php?t=557013&f=6&view=unread#unread ""MALINOVKA ALLIANCE" (18 posts)")
-* [The Western Isles News (8,444)](https://forum.nationstates.net/viewtopic.php?t=337003&f=4&view=unread#unread ""The Western Isles News" (8,444 posts)")
-* [What Music Are You Listening to? v18 (11,993)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (11,993 posts)")
-* [A contradiction with German National… (21)](https://forum.nationstates.net/viewtopic.php?t=557032&f=20&view=unread#unread ""A contradiction with German National Socialism?" (21 posts)")
-* [Guess AU's favorite irl country (421)](https://forum.nationstates.net/viewtopic.php?t=554724&f=25&view=unread#unread ""Guess AU's favorite irl country" (421 posts)")
+* [Ukrainian War VII: Everything has a p… (7,185)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (7,185 posts)")
+* [Come up with a funny rip off name for… (271)](https://forum.nationstates.net/viewtopic.php?t=555981&f=25&view=unread#unread ""Come up with a funny rip off name for the company AN chooses" (271 posts)")
+* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (10,525)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (10,525 posts)")
+* [What Music Are You Listening to? v18 (12,033)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (12,033 posts)")
 
 Advertisement
 
