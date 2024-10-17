@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/9-11/met-een-911-stripverhaal-de-waarheid-onder-ogen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-rol-van-de-vs-in-de-wereld/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
