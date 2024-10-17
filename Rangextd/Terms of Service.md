@@ -444,15 +444,7 @@ Subscribe 
 
 © 2024 Savvy Smart and Deals Ltd, [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
-* American Express
-* Apple Pay
-* Diners Club
-* Discover
-* Google Pay
-* Mastercard
 * PayPal
-* Shop Pay
-* Visa
 
 Login
 -----
