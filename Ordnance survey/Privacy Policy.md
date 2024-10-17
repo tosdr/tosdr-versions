@@ -6,7 +6,7 @@
     
     Data products
     
-    [Our data products](https://www.ordnancesurvey.co.uk/products)[OS National Geographic Database (OS NGD)](https://www.ordnancesurvey.co.uk/products/os-ngd)[Product updates](https://www.ordnancesurvey.co.uk/products/os-products-refresh-dates)[AddressBase epoch dates](https://www.ordnancesurvey.co.uk/products/addressbase-epoch-dates)[Licence requirements](https://www.ordnancesurvey.co.uk/licensing)[Product support](https://www.ordnancesurvey.co.uk/products/product-support)[OS Net](https://www.ordnancesurvey.co.uk/business-government/tools-support/os-net-tools)
+    [Our data products](https://www.ordnancesurvey.co.uk/products)[OS National Geographic Database (OS NGD)](https://www.ordnancesurvey.co.uk/products/os-ngd)[Product updates](https://www.ordnancesurvey.co.uk/products/os-products-refresh-dates)[AddressBase epoch dates](https://www.ordnancesurvey.co.uk/products/addressbase-epoch-dates)[Licence requirements](https://www.ordnancesurvey.co.uk/licensing)[Product support](https://www.ordnancesurvey.co.uk/products/product-support)[OS Net positioning data](https://www.ordnancesurvey.co.uk/business-government/tools-support/os-net-tools)
     
     Go to
     
@@ -40,7 +40,7 @@
     
     Go to
     
-    [Find company headquarters](https://www.ordnancesurvey.co.uk/contact-us/find-us-page)[OS annual report](https://www.ordnancesurvey.co.uk/about/annual-reports)
+    [Find company headquarters](https://www.ordnancesurvey.co.uk/about/find-us)[OS annual report](https://www.ordnancesurvey.co.uk/about/annual-reports)
     
 
 * News & Insights
@@ -733,10 +733,10 @@ Contact
 -------
 
 * [Contact us](https://www.ordnancesurvey.co.uk/contact-us)
-* [Find us](https://www.ordnancesurvey.co.uk/contact-us/find-us-page)
+* [Find us](https://www.ordnancesurvey.co.uk/about/find-us)
 * [Complaints](https://www.ordnancesurvey.co.uk/contact-us/complaints)
 * [Media](https://www.ordnancesurvey.co.uk/media)
-* [Meeting room hire](https://www.ordnancesurvey.co.uk/business-government/meeting-room-hire)
+* [Meeting room hire](https://www.ordnancesurvey.co.uk/about/meeting-room-hire)
 * [Emergency mapping](https://www.ordnancesurvey.co.uk/contact-us/mapping-for-emergencies)
 * [Report a mapping error](https://www.ordnancesurvey.co.uk/contact-us#Error-with-OS-mapping)
 
