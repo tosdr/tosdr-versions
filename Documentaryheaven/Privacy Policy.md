@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Bugging Hitler’s Soldiers](/wp-content/thumbnails/7632-100x70.jpg?x53432)
+* [![Hitler’s Children: Sacrifice](/wp-content/thumbnails/2845-100x70.jpg?x53432)
     
-    Bugging Hitler’s Soldiers
+    Hitler’s Children: Sacrifice
     
-    Spied upon by MI19 in a bugging operation of unprecedented scale and cunning, 4,000 German POW’s revealed their inner thoughts about the Third Reich and let slip military secrets that helped the Allie](https://documentaryheaven.com/bugging-hitlers-soldiers/ "Bugging Hitler’s Soldiers")
-* [![Time: Earthtime](/wp-content/thumbnails/2285-100x70.jpg?x53432)
+    Never has a generation been so completely taken over by a totalitarian state as was the case in Hitler’s Third Reich: at the age of 10 children joined the “Jungvolk” movement, at 14 they joined the Hi](https://documentaryheaven.com/hitlers-children-sacrifice/ "Hitler’s Children: Sacrifice")
+* [![Dead Famous: Melbourne’s Underworld War](/wp-content/thumbnails/7631-100x70.jpg?x53432)
     
-    Time: Earthtime
+    Dead Famous: Melbourne’s Underworld War
     
-    In this four-programme series, string theory pioneer Michio Kaku goes on an extraordinary exploration of the world in search of time. He discovers our sense of time passing and the clocks that drive](https://documentaryheaven.com/time-earthtime-3/ "Time: Earthtime")
-* [![Wartorn](/wp-content/thumbnails/9147-100x70.jpg?x53432)
+    Dead Famous lifts the lid on the slaughter that resulted when two underworld tribes went to war over drug profits during Melbourne’s infamous gangland killings.This documentary takes viewers behind](https://documentaryheaven.com/dead-famous-melbournes-underworld-war/ "Dead Famous: Melbourne’s Underworld War")
+* [![Russian Revolution in Color](/wp-content/thumbnails/9177-100x70.jpg?x53432)
     
-    Wartorn
+    Russian Revolution in Color
     
-    Wartorn is a HBO special which examines how war can effect a soldiers mental well being, inflicting an invisible wound which some find hard to recover from. Suicide among those who currently serve and](https://documentaryheaven.com/wartorn/ "Wartorn")
-* [![Money and Power in North Korea: Hidden Economy](/wp-content/thumbnails/9584-100x70.jpg?x53432)
+    The Russian Revolution changed the world forever, almost overnight an entire society was destroyed and replaced with on of the most radical social experiments ever seen. Poverty, crime, privilege and](https://documentaryheaven.com/russian-revolution-color/ "Russian Revolution in Color")
+* [![Oliver The Chimp](/wp-content/thumbnails/3034-100x70.png?x53432)
     
-    Money and Power in North Korea: Hidden Economy
+    Oliver The Chimp
     
-    With the ever growing number of sanctions being put on North Korea, the hermit country is becoming increasing cut off from the rest of the world. This film asks the question, how is it Kim Jong Un's r](https://documentaryheaven.com/money-power-north-korea-hidden-economy/ "Money and Power in North Korea: Hidden Economy")
-* [![Attenborough and the Empire of the Ants](/wp-content/thumbnails/14227-100x70.jpg?x53432)
+    In January 1976 news broke of a phenomenon. Pictures showed an upright bald ape called Oliver, who appeared to be a cross between a human and a chimpanzee; What scientists refer to as a humanzee.O](https://documentaryheaven.com/oliver-the-chimp/ "Oliver The Chimp")
+* [![The Alternativity](/wp-content/thumbnails/13745-100x70.jpg?x53432)
     
-    Attenborough and the Empire of the Ants
+    The Alternativity
     
-    David Attenborough takes us to the Jura Mountains, located on the French, Swiss border. At the time of filming the mountains were in the grip of winter, the ground has been frozen solid for month](https://documentaryheaven.com/attenborough-empire-of-ants/ "Attenborough and the Empire of the Ants")
+    The Alternativity is a story which takes us to the city of Bethlehem, world capital of the international Jesus Christ birthday business and this year Bethlehem became home to a very unique h](https://documentaryheaven.com/alternativity/ "The Alternativity")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
