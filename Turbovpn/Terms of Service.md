@@ -214,6 +214,7 @@ Download VPN
 Popular Uses
 
 * [VPN for Streaming](https://turbovpn.com/popular-uses/vpn-for-streaming)
+* [VPN for Sports](https://turbovpn.com/popular-uses/vpn-for-sports)
 
 111 Countries
 
