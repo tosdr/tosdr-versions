@@ -30,16 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/68690903-3a2e-4647-ab5a-9d44fdd6d1c6/20240719T210845/68690903-3a2e-4647-ab5a-9d44fdd6d1c6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/68690903-3a2e-4647-ab5a-9d44fdd6d1c6/20240719T210845/68690903-3a2e-4647-ab5a-9d44fdd6d1c6_360x203.jpg)](https://www.wqad.com/article/news/crime/steven-coleman-sentencing-fatal-sterling-apartment-fire-2020/526-f35a45f6-ffac-4de6-8094-7425687c1476)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/da458223-10db-4a3d-902b-ec17fa50e618/20241017T200931/da458223-10db-4a3d-902b-ec17fa50e618_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/da458223-10db-4a3d-902b-ec17fa50e618/20241017T200931/da458223-10db-4a3d-902b-ec17fa50e618_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/pumpkin-smash-event-illinois-extension-macomb-dixon-methane/526-dce691dd-54da-40ac-ae60-8f0e7c371577)
         
-        #### [Steven Coleman receives 3 lifetime sentences in Sterling apartment fire that killed 3 people](https://www.wqad.com/article/news/crime/steven-coleman-sentencing-fatal-sterling-apartment-fire-2020/526-f35a45f6-ffac-4de6-8094-7425687c1476) [![](https://media.tegna-media.com/assets/WQAD/images/68690903-3a2e-4647-ab5a-9d44fdd6d1c6/20240719T210845/68690903-3a2e-4647-ab5a-9d44fdd6d1c6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/68690903-3a2e-4647-ab5a-9d44fdd6d1c6/20240719T210845/68690903-3a2e-4647-ab5a-9d44fdd6d1c6_360x203.jpg)](https://www.wqad.com/article/news/crime/steven-coleman-sentencing-fatal-sterling-apartment-fire-2020/526-f35a45f6-ffac-4de6-8094-7425687c1476)
+        #### ['Don't trash it, smash it!' | Here's how you can recycle your Halloween pumpkins](https://www.wqad.com/article/news/local/the-current/pumpkin-smash-event-illinois-extension-macomb-dixon-methane/526-dce691dd-54da-40ac-ae60-8f0e7c371577)
         
-        #### [Man found guilty in Sterling apartment fire that killed 3 people sentenced to life in prison](https://www.wqad.com/article/news/crime/steven-coleman-sentencing-fatal-sterling-apartment-fire-2020/526-f35a45f6-ffac-4de6-8094-7425687c1476) [![](https://media.tegna-media.com/assets/WQAD/images/68690903-3a2e-4647-ab5a-9d44fdd6d1c6/20240719T210845/68690903-3a2e-4647-ab5a-9d44fdd6d1c6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/68690903-3a2e-4647-ab5a-9d44fdd6d1c6/20240719T210845/68690903-3a2e-4647-ab5a-9d44fdd6d1c6_360x203.jpg)](https://www.wqad.com/article/news/crime/steven-coleman-sentencing-fatal-sterling-apartment-fire-2020/526-f35a45f6-ffac-4de6-8094-7425687c1476)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bb3c7a7c-7a0e-4aab-ab19-fc186735ffba/20241017T195330/bb3c7a7c-7a0e-4aab-ab19-fc186735ffba_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bb3c7a7c-7a0e-4aab-ab19-fc186735ffba/20241017T195330/bb3c7a7c-7a0e-4aab-ab19-fc186735ffba_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/the-kewanee-voice-press-forward-100000-grant-nonprofit-newsroom-henry-county/526-e78f431a-4aff-46a9-8bbe-d42e3a43d9a8)
         
-        #### [Judge in Morrison issues 3 life sentences in fatal 2020 Sterling apartment fire](https://www.wqad.com/article/news/crime/steven-coleman-sentencing-fatal-sterling-apartment-fire-2020/526-f35a45f6-ffac-4de6-8094-7425687c1476)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
-        
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [The Kewanee Voice chosen for $100,000 Press Forward grant](https://www.wqad.com/article/news/local/the-current/the-kewanee-voice-press-forward-100000-grant-nonprofit-newsroom-henry-county/526-e78f431a-4aff-46a9-8bbe-d42e3a43d9a8)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -59,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f/20241017T121237/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f/20241017T121237/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Slowly warming up each day](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/CCT/images/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb/20241017T133346/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb/20241017T133346/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb_360x203.jpg)](https://www.wqad.com/article/news/nation-world/la-nia-could-soon-what-that-means-for-winter-weather-outlook-2024-2025/507-e78f5997-5997-4dfc-9120-fbaee14c5924)
         
         #### [La Niña could soon arrive. Here's what that means for winter weather](https://www.wqad.com/article/news/nation-world/la-nia-could-soon-what-that-means-for-winter-weather-outlook-2024-2025/507-e78f5997-5997-4dfc-9120-fbaee14c5924)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f/20241017T121237/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f/20241017T121237/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Above normal temperatures return](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -89,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-61°
+65°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
