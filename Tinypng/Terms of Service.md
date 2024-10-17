@@ -89,7 +89,9 @@ _Campaign Monitor Pty Ltd, Sydney, Australia_ - Campaign Monitor is used in the 
 
 _WideAngle Analytics_, Berlin, Germany - Wideangle is a privacy friendly analytics platform that collects anonymized usage of the website, like page views and user interactions, to enhance the service.
 
-_Voormedia B.V., Amsterdam, The Netherlands_ - Voormedia provides support, maintenance and development activities for the Service. Voormedia representatives may process personal data in order to assist with support requests or troubleshoot technical issues.
+_Google Analytics, California, USA_ - Google Analytics is used to collect anonymized usage data, such as page views and interactions, to analyze and improve the service. This data is processed in compliance with Google's privacy policies.
+
+_Usercentrics (Cookiebot), Munich, Germany_ - Cookiebot by Usercentrics is used for managing and controlling cookies on the website. This tool ensures that users can consent to cookies in compliance with privacy regulations such as GDPR and CCPA.
 
 ### Disclaimer of warranties
 
