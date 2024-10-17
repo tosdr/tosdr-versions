@@ -1,126 +1,27 @@
-[](https://knowyourmeme.com/ "Know Your Meme")
+Privacy | Know Your Meme                                                           
 
-[Advanced Search Protips](https://knowyourmeme.com/editorials/kym-database-search-operators)
+|     |     |
+| --- | --- |
+| [![Know Your Meme](/assets/kym-logo.png)](https://knowyourmeme.com/) | [Meme Encyclopedia](https://knowyourmeme.com/memes)<br><br>* [All](https://knowyourmeme.com/memes)<br>* [Cultures](https://knowyourmeme.com/categories/culture)<br>* [Events](https://knowyourmeme.com/categories/event)<br>* [People](https://knowyourmeme.com/categories/person)<br>* [Sites](https://knowyourmeme.com/categories/site)<br>* [Subcultures](https://knowyourmeme.com/categories/subculture)<br>* [Videos](https://knowyourmeme.com/videos)<br>* [Submit →](https://knowyourmeme.com/memes/new?guidelines=1)<br><br>[Images](https://knowyourmeme.com/photos)<br><br>* [Trending](https://knowyourmeme.com/photos/trending)<br>* [Most Commented](https://knowyourmeme.com/photos/sort/comments)<br>* [Most Favorited](https://knowyourmeme.com/photos/sort/favorites)<br>* [High Score](https://knowyourmeme.com/photos/sort/score)<br>* [Low Score](https://knowyourmeme.com/photos/sort/low-score)<br>* [Most Viewed](https://knowyourmeme.com/photos/sort/views)<br>* [All](https://knowyourmeme.com/photos)<br>* * * *<br>    <br>* [Templates](https://knowyourmeme.com/photos/templates)<br>* * * *<br>    <br>* [Upload an Image](https://knowyourmeme.com/photos/new)<br><br>Articles<br><br>* [News](https://knowyourmeme.com/news)<br>* [Explainers](https://knowyourmeme.com/newsfeed/explainers)<br>* [Collections](https://knowyourmeme.com/editorials/collections)<br>* [Interviews](https://knowyourmeme.com/editorials/interviews)<br>* [Meme Insider Magazine](https://memeinsider.com/)<br><br>More<br><br>* [Discord](https://discord.com/invite/hxZaGpg)<br>* [Newsletter](https://knowyourmeme.com/newsletter)<br>* [Episodes](https://knowyourmeme.com/episodes)<br>* [Forums](https://knowyourmeme.com/forums)<br>* [Meme Store](https://thememestore.com/)<br>* [Login](https://knowyourmeme.com/login)<br><br>[Abstract user icon](https://knowyourmeme.com/login) |
+|     |     |
 
-* [About](https://knowyourmeme.com/about)
-* [**Rules**](https://knowyourmeme.com/editorials/rules-and-guidelines/)
-* [Chat](https://knowyourmeme.com/chat)
-* [Random](https://knowyourmeme.com/random)
-* [Activity](https://knowyourmeme.com/activity)
-
-Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmeme.com/signup) now!
-
-* [Home](https://knowyourmeme.com/)
 * [Memes](https://knowyourmeme.com/memes)
-    * [Confirmed](https://knowyourmeme.com/memes)
-    * [Submissions](https://knowyourmeme.com/memes/submissions)
-    * [Researching](https://knowyourmeme.com/memes/researching)
-    * [Newsworthy](https://knowyourmeme.com/memes/newsworthy)
-    * [Popular](https://knowyourmeme.com/memes/popular)
-    * [Deadpool](https://knowyourmeme.com/memes/deadpool)
-    * [All](https://knowyourmeme.com/memes/all)
-    * * * *
-        
-    * [Submit an Entry](https://knowyourmeme.com/memes/new?guidelines=1)
-* [Meme Store](https://thememestore.com/)
+* [Categories](https://knowyourmeme.com/categories)
 * [Trending](https://trending.knowyourmeme.com/trending)
 * [News](https://knowyourmeme.com/news)
 * [Images](https://knowyourmeme.com/photos)
-    * [Trending](https://knowyourmeme.com/photos/trending)
-    * [Most Commented](https://knowyourmeme.com/photos/most-commented)
-    * [Most Favorited](https://knowyourmeme.com/photos/most-favorited)
-    * [Most Liked](https://knowyourmeme.com/photos/most-liked)
-    * [Least Liked](https://knowyourmeme.com/photos/least-liked)
-    * [Most Viewed](https://knowyourmeme.com/photos/most-viewed)
-    * [All](https://knowyourmeme.com/photos)
-    * * * *
-        
-    * [Templates](https://knowyourmeme.com/photos/templates)
-    * * * *
-        
-    * [Upload an Image](https://knowyourmeme.com/photos/new)
+* [Trending Images](https://knowyourmeme.com/photos/trending)
 * [Videos](https://knowyourmeme.com/videos)
-    * [Trending](https://knowyourmeme.com/videos/trending)
-    * [Most Commented](https://knowyourmeme.com/videos/most-commented)
-    * [Most Favorited](https://knowyourmeme.com/videos/most-favorited)
-    * [Most Liked](https://knowyourmeme.com/videos/most-liked)
-    * [Most Viewed](https://knowyourmeme.com/videos/most-viewed)
-    * [All](https://knowyourmeme.com/videos)
-    * * * *
-        
-    * [Upload a Video](https://knowyourmeme.com/videos/new)
-* [Forums](https://knowyourmeme.com/forums)
-    * [Discussion](https://knowyourmeme.com/forums/section/discussion)
-    *    [General](https://knowyourmeme.com/forums/general)
-    *    [Meme Research](https://knowyourmeme.com/forums/meme-research)
-    *    [Serious Debate](https://knowyourmeme.com/forums/serious-debate)
-    *    [Q & A](https://knowyourmeme.com/forums/q-a)
-    * * * *
-        
-    * [Media](https://knowyourmeme.com/forums/section/media)
-    *    [Video Games](https://knowyourmeme.com/forums/video-games)
-    *    [Moving Images](https://knowyourmeme.com/forums/moving-images)
-    *    [Books & Comics](https://knowyourmeme.com/forums/books-comics)
-    *    [Music](https://knowyourmeme.com/forums/music)
-    *    [Websites](https://knowyourmeme.com/forums/websites)
-    * * * *
-        
-    * [Fun!](https://knowyourmeme.com/forums/section/fun)
-    *    [Creative](https://knowyourmeme.com/forums/creative)
-    *    [Forum Games](https://knowyourmeme.com/forums/forum-games)
-    *    [Just For Fun](https://knowyourmeme.com/forums/just-for-fun)
-    *    [Riff-Raff](https://knowyourmeme.com/forums/riff-raff)
-    *    [Memeory Lane](https://knowyourmeme.com/forums/memeory-lane)
-    * * * *
-        
-    * [Maintenance](https://knowyourmeme.com/forums/section/maintenance)
-    *    [Report Problems](https://knowyourmeme.com/forums/report-problems)
-    *    [Announcements](https://knowyourmeme.com/forums/announcements)
-    *    [Suggest Ideas](https://knowyourmeme.com/forums/suggest-ideas)
-    * * * *
-        
-    * [All](https://knowyourmeme.com/forums/all)
+* [Trending Videos](https://knowyourmeme.com/videos/trending)
 * [Editorials](https://knowyourmeme.com/editorials)
-    * [Interviews](https://knowyourmeme.com/editorials/interviews)
-    * [In the Media](https://knowyourmeme.com/editorials/in-the-media)
-    * [White Papers](https://knowyourmeme.com/editorials/white-papers)
-    * [Episode Notes](https://knowyourmeme.com/editorials/episode-notes)
-    * [Behind the Scenes](https://knowyourmeme.com/editorials/behind-the-scenes)
-    * [Meme Review](https://knowyourmeme.com/editorials/meme-review)
-    * [Collections](https://knowyourmeme.com/editorials/collections)
-    * [Poll](https://knowyourmeme.com/editorials/poll)
-    * [Guides](https://knowyourmeme.com/editorials/guides)
-    * [Meme Insider](https://knowyourmeme.com/editorials/meme-insider)
-    * [Insights](https://knowyourmeme.com/editorials/insights)
-    * [All](https://knowyourmeme.com/editorials)
-* [Episodes](https://knowyourmeme.com/episodes)
-* [Meme Insider](https://memeinsider.com/)
+* [Meme Insider Magazine](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
+* [Policies and Guidelines](https://knowyourmeme.com/guidelines)
+* [Meme Store](https://thememestore.com/)
+* [Old site](https://knowyourmeme.com/old_site)
+* [Login](https://knowyourmeme.com/login)
 
-* [![This Guy Is Pondering His Orb, And Memers Join In Pondering Their Orb](https://i.kym-cdn.com/featured_items/icons/wide/000/026/288/Screen_Shot_2021-11-03_at_12.03.40_PM.png "Happy Orb Pondering Anniversary")
-    
-    Happy Orb Pondering Anniversary](https://knowyourmeme.com/memes/pondering-my-orb)
-    
-* [![GeorgeNotFound Crying refers to a piece of fanart depicting Dream SMP member GeorgeNotFound crying in his car while holding an invite for fellow Minecraft YouTubers Dream and Fundy's wedding. Dream and Fundy held a joke wedding in Minecraft in December 2020, with George jokingly objecting to the wedding in a YouTube video. The fanart came to be used as an ironic reaction meme to depict great sadness in 2024.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/287/george_not.jpg "GeorgeNotFound May Have Been Cancelled Months Ago, But People Are Still Using This Niche Piece Of Fanart")
-    
-    GeorgeNotFound May Have Been Cancelled Months Ago, But People Are Still Using This Niche Piece Of Fanart](https://knowyourmeme.com/memes/georgenotfound-crying)
-    
-* [![In Da Clerb, We All Fam is a memorable quote from a March 2016 episode of the Comedy Central Broad City. The catchphrase originates from a scene where Ilana Wexler waves to two women she doesn't know after crashing a party, saying "In da clerb, we all fam," to her confused friend Abbi. After Abbi fails to compute the statement, Ilana says, "In the club, we are all family. Are you racist?" The catchphrase became a viral TikTok meme in October 2024.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/286/in_the_clerb.jpg "'In Da Clerb, We All Fam' Is The Next TikTok-Enabled Catchphrase You Will be Seeing All Over Your Timelines")
-    
-    'In Da Clerb, We All Fam' Is The Next TikTok-Enabled Catchphrase You Will be Seeing All Over Your Timelines](https://knowyourmeme.com/memes/in-da-clerb-we-all-fam)
-    
-* [![Screenshot from the film I, Robot of the character Sonny saying "no"](https://i.kym-cdn.com/featured_items/icons/wide/000/026/285/irobot.jpg "I, Robot 'No' Scene Resurfaces As Viral Exploitable Meme On TikTok Alongside Alicia Keys' 'No One' Song")
-    
-    I, Robot 'No' Scene Resurfaces As Viral Exploitable Meme On TikTok Alongside Alicia Keys' 'No One' Song](https://knowyourmeme.com/memes/i-robot-no)
-    
-* [![LeBron Hennessy, also known as LeHenny or LeBrenny, refers to a 2024 limited edition cognac bottle made by Hennessy in collaboration with NBA player LeBron James. LeBron Hennessy was released in late September 2024 but generated significant viral discourse and memes in October 2024. Notable influencers like Twitch streamer Kai Cenat reviewed LeBron Hennessy and joked about it after its release.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/284/lebron_hennessy.jpg "LeBron's Got His Own Hennessy Bottle, So Now, If The Function Got Hennessy, It Might Be 'LeHenny'")
-    
-    LeBron's Got His Own Hennessy Bottle, So Now, If The Function Got Hennessy, It Might Be 'LeHenny'](https://knowyourmeme.com/memes/subcultures/lebron-hennessy)
-    
-
-##### Also Trending:
-
-[Donald Trump's Oaks, Pennsylvania Rally](https://knowyourmeme.com/memes/events/donald-trumps-oaks-pennsylvania-rally "Donald Trump's Oaks, Pennsylvania Rally") [Woman Tearing Down Greek Flags Video](https://knowyourmeme.com/memes/ambamelia-tears-down-greek-flags-thinking-theyre-israeli-flags "Woman Tearing Down Greek Flags Video") [Muscular Lara Croft Controversy](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy "Muscular Lara Croft Controversy")
+Know Your Meme is the property of Literally Media ©2024 Literally Media. All Rights Reserved.
 
 Privacy Policy
 ==============
@@ -309,15 +210,27 @@ If you have any requests regarding the data collected under this Privacy Policy,
 
 Please be sure to include your information in any correspondence to us so that we can respond to your inquiry in a timely manner.
 
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-| ##### About KYM<br><br>* [Our Story](https://knowyourmeme.com/about)<br>* [Site Rules](https://knowyourmeme.com/editorials/rules-and-guidelines/)<br>* [Policies and Guidelines](https://knowyourmeme.com/guidelines)<br>* [Credits](https://knowyourmeme.com/credits)<br>* [Contact](https://knowyourmeme.com/contact) | ##### Meme DB<br><br>* [Memes](https://knowyourmeme.com/memes)<br>* [Episodes](https://knowyourmeme.com/episodes)<br>* [Editorials](https://knowyourmeme.com/editorials)<br>* [Images](https://knowyourmeme.com/photos)<br>* [Videos](https://knowyourmeme.com/videos) | ##### KYM News<br><br>* [Newsfeed](https://knowyourmeme.com/news)<br>* [Staff](https://knowyourmeme.com/news/staff)<br>* [Contact](https://knowyourmeme.com/news/contact) | ##### Extras!<br><br>* [Chat](https://knowyourmeme.com/chat)<br>* [Forums](https://knowyourmeme.com/forums)<br>* [Style Guide](https://knowyourmeme.com/editorials/the-style-guide)<br>* [RSS Feeds](https://knowyourmeme.com/subscribe) | ##### KYM Social<br><br>* [Facebook](https://www.facebook.com/knowyourmeme)<br>* [Pinterest](https://www.pinterest.com/knowyourmeme/)<br>* [Twitter](https://twitter.com/knowyourmeme)<br>* [YouTube](https://www.youtube.com/user/KnowYourMeme) |
+##### About
 
-**Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
-© 2007-2024 [Literally Media Ltd.](https://literally.media/)
+* [Our Story](https://knowyourmeme.com/about)
+* [Site Rules](https://knowyourmeme.com/editorials/rules-and-guidelines/)
+* [Policies and Guidelines](https://knowyourmeme.com/guidelines)
+* [Credits](https://knowyourmeme.com/credits)
+* [Contact](https://knowyourmeme.com/contact)
 
-### O HAI! You must login or signup first!
+##### Meme DB
 
-|     |     |
-| --- | --- |
-| ###### Already a memeber?<br><br>[Login Now!](https://knowyourmeme.com/login) | ###### Don't have an account?<br><br>[Sign up Now!](https://knowyourmeme.com/signup) |
+* [Memes](https://knowyourmeme.com/memes)
+* [Episodes](https://knowyourmeme.com/episodes)
+
+##### News
+
+* [Staff](https://knowyourmeme.com/news/staff)
+* [Contact](https://knowyourmeme.com/news/contact)
+
+##### Extras!
+
+* [Style Guide](https://knowyourmeme.com/editorials/the-style-guide)
+* [RSS Feeds](https://knowyourmeme.com/subscribe)
+
+ [![TikTok](/assets/redesign/tiktok.png)](https://tiktok.com/@knowyourmeme)[![YouTube](/assets/redesign/youtube.png)](https://www.youtube.com/channel/UCbrPqq29C9Q_TQP7OFFRzcw)[![Facebook](/assets/redesign/facebook.png)](https://facebook.com/knowyourmeme)[![Twitter](/assets/redesign/twitterx.png)](https://twitter.com/knowyourmeme)[![Discord](/assets/redesign/discord.png)](https://discord.com/invite/hxZaGpg)[![Snapchat](/assets/redesign/snapchat.png)](https://www.snapchat.com/p/41102048-8d2d-4288-b54e-c9e89b1afa44/1534121873233920)[![Instagram](/assets/redesign/instagram.png)](https://instagram.com/knowyourmeme)
