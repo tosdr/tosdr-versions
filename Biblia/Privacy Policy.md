@@ -258,7 +258,6 @@ Company Info
 * [Careers](https://faithlife.com/careers?__hstc=18058406.2a20f68ab3f8956d873c1d07c38fe479.1591730259670.1598991510797.1598998518844.101&__hssc=18058406.1.1598998518844&__hsfp=3825083997)
 * [Terms of Service](https://faithlife.com/terms?__hstc=18058406.2a20f68ab3f8956d873c1d07c38fe479.1591730259670.1598991510797.1598998518844.101&__hssc=18058406.1.1598998518844&__hsfp=3825083997)
 * [Press](https://www.logos.com/press)
-* [Referral Program](https://www.logos.com/referral-program)
 
 Manage
 
