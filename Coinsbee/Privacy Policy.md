@@ -129,12 +129,13 @@ The page you are looking for does not exist.
 
 Categories
 
-Help
+Tools
 
-* [Support](https://help.coinsbee.com/en/support/home)
+* [Support & Help](https://help.coinsbee.com/en/support/home)
 * [Supported Crypto](https://coinsbee.com/en/cryptocurrencies/)
 * [How it Works](https://coinsbee.com/en/howitworks/)
 * [Newsletter](https://coinsbee.com/en/newsletter/)
+* [Events](https://coinsbee.com/en/events/)
 
 About Us
 
