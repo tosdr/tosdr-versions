@@ -667,6 +667,7 @@ About MLS
 * [Stores Locations](https://mls.om/pages/mls-gourmet)
 * [Customer Reviews](https://mls.om/pages/customer-reviews)
 * [FAQs](https://mls.om/pages/faqs)
+* [MLS Blogs](https://mls.om/pages/all-blogs)
 
 Customer Care
 -------------
