@@ -397,6 +397,49 @@ Please note that, in some instances, we may decline to honor your request where,
 
 **(6) Right to be Free from Discrimination.**  You have the right to be free from unlawful discrimination for exercising your rights under the laws of Virginia, Colorado, Connecticut and other states with similar privacy laws.
 
+[Latest News](https://www.fox4news.com/news)
+--------------------------------------------
+
+[View More](https://www.fox4news.com/news)
+
+ [![Keller ISD, nonprofit launch fundraiser to pay student lunch debt to avoid 'alternative meals'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/15145f8d-GettyImages-875207542.jpg?ve=1&tl=1)
+
+ ![Keller ISD, nonprofit launch fundraiser to pay student lunch debt to avoid 'alternative meals'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/592/333/15145f8d-GettyImages-875207542.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/keller-isd-alternative-lunches-community-storehouse-partnership-online-fundraiser-school-lunches)
+
+### [Keller ISD, nonprofit launch fundraiser to pay student lunch debt to avoid 'alternative meals'](https://www.fox4news.com/news/keller-isd-alternative-lunches-community-storehouse-partnership-online-fundraiser-school-lunches)
+
+ [![Former One Direction star Liam Payne dies after fall from hotel floor](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/liam-payne-one-direction.jpg?ve=1&tl=1)
+
+ ![Former One Direction star Liam Payne dies after fall from hotel floor](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/liam-payne-one-direction.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/one-direction-liam-payne-dies)
+
+### [Former One Direction star Liam Payne dies after fall from hotel floor](https://www.fox4news.com/news/one-direction-liam-payne-dies)
+
+ [![Management group disputes claim that $5.7M donated to Fair Park was misspent](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101624-mg-lb-raw-fair-park-first_pkg___kdfwb83a_18_00.00.52.30.jpg?ve=1&tl=1)
+
+ ![Management group disputes claim that $5.7M donated to Fair Park was misspent](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101624-mg-lb-raw-fair-park-first_pkg___kdfwb83a_18_00.00.52.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oak-view-group-fair-park-misspent-funds)
+
+### [Management group disputes claim that $5.7M donated to Fair Park was misspent](https://www.fox4news.com/news/oak-view-group-fair-park-misspent-funds)
+
+ [![North Texas officials ready transportation plan for 2026 FIFA World Cup](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dial-world-cup-transportation-5p_00.00.08.34.jpg?ve=1&tl=1)
+
+ ![North Texas officials ready transportation plan for 2026 FIFA World Cup](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dial-world-cup-transportation-5p_00.00.08.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fifa-world-cup-north-texas-transportation-plan-2026)
+
+### [North Texas officials ready transportation plan for 2026 FIFA World Cup](https://www.fox4news.com/news/fifa-world-cup-north-texas-transportation-plan-2026)
+
+ [![Tarrant County election security measures could slow election night results](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dionne-judge-ohare-election-security-5p_00.00.35.48.jpg?ve=1&tl=1)
+
+ ![Tarrant County election security measures could slow election night results](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dionne-judge-ohare-election-security-5p_00.00.35.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tarrant-county-election-security-tim-ohare)
+
+### [Tarrant County election security measures could slow election night results](https://www.fox4news.com/news/tarrant-county-election-security-tim-ohare)
+
+[![Former One Direction star Liam Payne dies after fall from hotel floor](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/liam-payne-one-direction.jpg?ve=1&tl=1)](https://www.fox4news.com/news/one-direction-liam-payne-dies)
+
+BREAKING NEWS
+
+[Former One Direction star Liam Payne dies after fall from hotel: Reports](https://www.fox4news.com/news/one-direction-liam-payne-dies)
+
+[Former One Direction singer Liam Payne has reportedly died after falling from the third floor of a hotel in Buenos Aires, Argentina.](https://www.fox4news.com/news/one-direction-liam-payne-dies)
+
 ###### [News](https://www.fox4news.com/news)
 
 * [Local News](https://www.fox4news.com/local-news)
