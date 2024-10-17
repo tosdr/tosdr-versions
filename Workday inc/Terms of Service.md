@@ -250,9 +250,9 @@ Skip to main content
         
         * ### About Workday
             
-            * #### [Our Story & Leadership](https://www.workday.com/en-us/company/about-workday/our-story-leadership.html "Our Story & Leadership")
-                
             * #### [Our Values](https://www.workday.com/en-us/company/about-workday/core-values.html "Our Values")
+                
+            * #### [Leadership](https://www.workday.com/en-us/company/about-workday/leadership.html "Leadership")
                 
             * #### [Belonging & Diversity](https://www.workday.com/en-us/company/about-workday/belonging-and-diversity.html "Belonging & Diversity")
                 
