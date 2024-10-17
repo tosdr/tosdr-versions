@@ -16,55 +16,55 @@
     Trending
     
     * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
-    * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+    * [European Union](https://www.euronews.com/tag/european-union)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Russia](https://www.euronews.com/tag/russia)
-    * [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
+    * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+    * [Italy](https://www.euronews.com/tag/italy)
+    * [Migration Policy](https://www.euronews.com/tag/migration-policy)
     
     * * *
     
     Latest stories
     
-    [![Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday")
+    [![1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.")
     
-    ![Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday](https://static.euronews.com/articles/stories/08/79/36/28/368x207_cmsv2_104967b1-b13b-5800-940d-4493df55c0a5-8793628.jpg "Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday")](https://www.euronews.com/green/2024/10/16/has-the-demand-for-fossil-fuels-already-peaked-a-new-report-suggests-that-may-be-the-case)
-    
-    Now playing Next
-    
-    [Green News](https://www.euronews.com/green/green-news)
-    
-    ### [Could the shift to EVs spell the end of fossil fuels?](https://www.euronews.com/green/2024/10/16/has-the-demand-for-fossil-fuels-already-peaked-a-new-report-suggests-that-may-be-the-case)
-    
-    [![Watch the penguins parade on Phillip Island near Melbourne, Australia.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Watch the penguins parade on Phillip Island near Melbourne, Australia.")
-    
-    ![Watch the penguins parade on Phillip Island near Melbourne, Australia.](https://static.euronews.com/articles/stories/08/79/48/68/368x207_cmsv2_29fa72d6-aeac-5d54-ac29-79234598552c-8794868.jpg "Watch the penguins parade on Phillip Island near Melbourne, Australia.")](https://www.euronews.com/travel/2024/10/16/northern-lights-penguin-parades-and-glowing-oceans-where-to-chase-natural-wonders-in-2025)
+    ![1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.](https://static.euronews.com/articles/stories/08/79/59/38/368x207_cmsv2_f4bb5eb9-d4bc-57dc-94b1-92fc320f3850-8795938.jpg "1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.")](https://www.euronews.com/video/2024/10/17/no-comment-fans-hold-vigil-for-liam-payne-in-buenos-aires)
     
     Now playing Next
     
-    [Experiences](https://www.euronews.com/travel/experiences)
+    [No Comment](https://www.euronews.com/nocomment)
     
-    ### [Northern Lights and penguin parades: Where to embrace nature in 2025](https://www.euronews.com/travel/2024/10/16/northern-lights-penguin-parades-and-glowing-oceans-where-to-chase-natural-wonders-in-2025)
+    ### [No Comment: Fans hold vigil for Liam Payne in Buenos Aires](https://www.euronews.com/video/2024/10/17/no-comment-fans-hold-vigil-for-liam-payne-in-buenos-aires)
     
-    [![An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida")
+    [![London's financial district](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "London's financial district")
     
-    ![An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida](https://static.euronews.com/articles/stories/08/79/47/04/368x207_cmsv2_f2f04b9a-0ee3-5d69-9fa2-9a658175ee8e-8794704.jpg "An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida")](https://www.euronews.com/2024/10/16/how-the-uss-strong-decentralised-election-system-makes-voter-fraud-rare)
-    
-    Now playing Next
-    
-    [USA](https://www.euronews.com/news/america/usa)
-    
-    ### [Strong safeguards make voter fraud rare in US elections](https://www.euronews.com/2024/10/16/how-the-uss-strong-decentralised-election-system-makes-voter-fraud-rare)
-    
-    [![Europe in Motion](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Europe in Motion")
-    
-    ![Europe in Motion](https://static.euronews.com/articles/stories/08/78/27/56/368x207_cmsv2_fb991f1f-7ca1-548b-8942-cdf0ea0e42b7-8782756.jpg "Europe in Motion")](https://www.euronews.com/my-europe/2024/10/16/which-european-country-produces-the-most-food-waste)
+    ![London's financial district](https://static.euronews.com/articles/stories/08/79/65/28/368x207_cmsv2_720455cf-252a-5725-bada-7dac063c2ff2-8796528.jpg "London's financial district")](https://www.euronews.com/business/2024/10/17/brexit-cost-thousands-of-finance-jobs-in-london-says-lord-mayor)
     
     Now playing Next
     
-    [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
+    [Business](https://www.euronews.com/business/business)
     
-    ### [Which European country produces the most food waste?](https://www.euronews.com/my-europe/2024/10/16/which-european-country-produces-the-most-food-waste)
+    ### [Brexit cost thousands of finance jobs in London says Lord Mayor](https://www.euronews.com/business/2024/10/17/brexit-cost-thousands-of-finance-jobs-in-london-says-lord-mayor)
+    
+    [![Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.")
+    
+    ![Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.](https://static.euronews.com/articles/stories/08/79/62/98/368x207_cmsv2_3fb1b4d3-164c-52d0-a96c-6380de36b6fe-8796298.jpg "Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.")](https://www.euronews.com/2024/10/17/anti-whaling-activist-paul-watson-seeks-political-asylum-in-france-to-avoid-extradition-to)
+    
+    Now playing Next
+    
+    [France](https://www.euronews.com/news/europe/france)
+    
+    ### [Anti-whaling activist Paul Watson seeks political asylum in France](https://www.euronews.com/2024/10/17/anti-whaling-activist-paul-watson-seeks-political-asylum-in-france-to-avoid-extradition-to)
+    
+    [![Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister")
+    
+    ![Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister](https://static.euronews.com/articles/stories/08/79/64/70/368x207_cmsv2_a2a04435-100c-5f84-8bd8-a9b574e9863c-8796470.jpg "Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister")](https://www.euronews.com/my-europe/2024/10/17/zelenskyys-victory-plan-whats-the-deal-with-ukraine-and-nato)
+    
+    Now playing Next
+    
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    
+    ### [Zelenskyy's 'victory plan': What’s the deal with Ukraine and NATO?](https://www.euronews.com/my-europe/2024/10/17/zelenskyys-victory-plan-whats-the-deal-with-ukraine-and-nato)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -356,61 +356,61 @@ Close menu sidebar
 Trending
 
 * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-* [Donald Trump](https://www.euronews.com/tag/donald-trump)
-* [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+* [European Union](https://www.euronews.com/tag/european-union)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Russia](https://www.euronews.com/tag/russia)
-* [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
+* [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+* [Italy](https://www.euronews.com/tag/italy)
+* [Migration Policy](https://www.euronews.com/tag/migration-policy)
 
 * * *
 
 Latest stories
 
-[![Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday")
+[![1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.")
 
-![Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday](https://static.euronews.com/articles/stories/08/79/36/28/368x207_cmsv2_104967b1-b13b-5800-940d-4493df55c0a5-8793628.jpg "Wind turbines operate at the Klettwitz Nord solar energy park near Klettwitz, Germany on Tuesday")](https://www.euronews.com/green/2024/10/16/has-the-demand-for-fossil-fuels-already-peaked-a-new-report-suggests-that-may-be-the-case)
+![1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.](https://static.euronews.com/articles/stories/08/79/59/38/368x207_cmsv2_f4bb5eb9-d4bc-57dc-94b1-92fc320f3850-8795938.jpg "1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.")](https://www.euronews.com/video/2024/10/17/no-comment-fans-hold-vigil-for-liam-payne-in-buenos-aires)
 
 Now playing Next
 
-[Green News](https://www.euronews.com/green/green-news)
+[No Comment](https://www.euronews.com/nocomment)
 
-### [Could the shift to EVs spell the end of fossil fuels?](https://www.euronews.com/green/2024/10/16/has-the-demand-for-fossil-fuels-already-peaked-a-new-report-suggests-that-may-be-the-case)
+### [No Comment: Fans hold vigil for Liam Payne in Buenos Aires](https://www.euronews.com/video/2024/10/17/no-comment-fans-hold-vigil-for-liam-payne-in-buenos-aires)
 
 * * *
 
-[![Watch the penguins parade on Phillip Island near Melbourne, Australia.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Watch the penguins parade on Phillip Island near Melbourne, Australia.")
+[![London's financial district](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "London's financial district")
 
-![Watch the penguins parade on Phillip Island near Melbourne, Australia.](https://static.euronews.com/articles/stories/08/79/48/68/368x207_cmsv2_29fa72d6-aeac-5d54-ac29-79234598552c-8794868.jpg "Watch the penguins parade on Phillip Island near Melbourne, Australia.")](https://www.euronews.com/travel/2024/10/16/northern-lights-penguin-parades-and-glowing-oceans-where-to-chase-natural-wonders-in-2025)
+![London's financial district](https://static.euronews.com/articles/stories/08/79/65/28/368x207_cmsv2_720455cf-252a-5725-bada-7dac063c2ff2-8796528.jpg "London's financial district")](https://www.euronews.com/business/2024/10/17/brexit-cost-thousands-of-finance-jobs-in-london-says-lord-mayor)
 
 Now playing Next
 
-[Experiences](https://www.euronews.com/travel/experiences)
+[Business](https://www.euronews.com/business/business)
 
-### [Northern Lights and penguin parades: Where to embrace nature in 2025](https://www.euronews.com/travel/2024/10/16/northern-lights-penguin-parades-and-glowing-oceans-where-to-chase-natural-wonders-in-2025)
+### [Brexit cost thousands of finance jobs in London says Lord Mayor](https://www.euronews.com/business/2024/10/17/brexit-cost-thousands-of-finance-jobs-in-london-says-lord-mayor)
 
 * * *
 
-[![An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida")
+[![Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.")
 
-![An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida](https://static.euronews.com/articles/stories/08/79/47/04/368x207_cmsv2_f2f04b9a-0ee3-5d69-9fa2-9a658175ee8e-8794704.jpg "An election worker sorts vote-by-mail ballots at the Miami-Dade County Board of Elections, Monday, 26 October 2020 in Doral, Florida")](https://www.euronews.com/2024/10/16/how-the-uss-strong-decentralised-election-system-makes-voter-fraud-rare)
+![Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.](https://static.euronews.com/articles/stories/08/79/62/98/368x207_cmsv2_3fb1b4d3-164c-52d0-a96c-6380de36b6fe-8796298.jpg "Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.")](https://www.euronews.com/2024/10/17/anti-whaling-activist-paul-watson-seeks-political-asylum-in-france-to-avoid-extradition-to)
 
 Now playing Next
 
-[USA](https://www.euronews.com/news/america/usa)
+[France](https://www.euronews.com/news/europe/france)
 
-### [Strong safeguards make voter fraud rare in US elections](https://www.euronews.com/2024/10/16/how-the-uss-strong-decentralised-election-system-makes-voter-fraud-rare)
+### [Anti-whaling activist Paul Watson seeks political asylum in France](https://www.euronews.com/2024/10/17/anti-whaling-activist-paul-watson-seeks-political-asylum-in-france-to-avoid-extradition-to)
 
 * * *
 
-[![Europe in Motion](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Europe in Motion")
+[![Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister")
 
-![Europe in Motion](https://static.euronews.com/articles/stories/08/78/27/56/368x207_cmsv2_fb991f1f-7ca1-548b-8942-cdf0ea0e42b7-8782756.jpg "Europe in Motion")](https://www.euronews.com/my-europe/2024/10/16/which-european-country-produces-the-most-food-waste)
+![Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister](https://static.euronews.com/articles/stories/08/79/64/70/368x207_cmsv2_a2a04435-100c-5f84-8bd8-a9b574e9863c-8796470.jpg "Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister")](https://www.euronews.com/my-europe/2024/10/17/zelenskyys-victory-plan-whats-the-deal-with-ukraine-and-nato)
 
 Now playing Next
 
-[Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Which European country produces the most food waste?](https://www.euronews.com/my-europe/2024/10/16/which-european-country-produces-the-most-food-waste)
+### [Zelenskyy's 'victory plan': What’s the deal with Ukraine and NATO?](https://www.euronews.com/my-europe/2024/10/17/zelenskyys-victory-plan-whats-the-deal-with-ukraine-and-nato)
 
 [Europe](https://www.euronews.com/my-europe)
 
