@@ -1,6 +1,8 @@
  
 
 * Es noticia:
+* [Lista Montse Tomé](https://www.marca.com/futbol/futbol-femenino/seleccion/2024/10/17/6710bb8a22e04897a20cf0e9-directo.html)
+* [Ferrari F80](https://www.marca.com/coches-y-motos/coches/ferrari/2024/10/17/6710b294268e3ea94f8b457a.html)
 * [Cucurella mano Alemania](https://www.marca.com/tiramillas/television/2024/10/17/67109844ca4741e6448b4573.html)
 * [Nadal - Alcaraz dónde ver](https://www.marca.com/tenis/2024/10/16/67101def268e3ead258b45ef.html)
 * [Liam Payne muerte](https://www.marca.com/tiramillas/musica/2024/10/16/67103699ca4741b7398b45fc.html)
