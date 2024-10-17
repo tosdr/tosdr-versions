@@ -495,7 +495,8 @@ Advertising policy
 
 This Privacy Notice applies to personal information processed by Moloco Inc. (“Moloco,” “we,” “us,” and “our”) through our demand-side platform services that we offer to advertiser clients (“Advertising Services”).
 
-### About Moloco
+About Moloco
+------------
 
 Moloco provides a demand-side platform that allows buyers of digital advertising inventory (i.e., advertisements displayed in mobile applications) to achieve their mobile marketing goals through user acquisition and retargeting.
 
