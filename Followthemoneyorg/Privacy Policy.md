@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![leg incumbents](/assets/logos/LegIncumbentSuccess2012.png)](http://www.followthemoney.org/assets/ANNUAL-REPORTS/NIMSP-Annual-Report-2013.pdf)
+[![Corrections Officers Benevolent Association](/assets/Images/teasers/small/COBAbyPartybyOffice.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-police-officers-benevolent-association/)
 
-In 2012, most legislative incumbents won.
+Corrections Officers' Benevolent Association giving, by party.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
