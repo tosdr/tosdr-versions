@@ -231,7 +231,7 @@ Main
             * [All Products](https://info.badgr.com/products)
         
     * Column
-        *   ![Supporting One of the World’s Largest Sports Organizations with Canvas LMS](/sites/default/files/styles/small_hq/public/image/2024-02/matthew-mcbrayer-pga-unsplash.jpg?itok=eMhiNdkG)
+        *   ![Supporting One of the World’s Largest Sports Organizations with Canvas LMS](/sites/default/files/styles/small_hq/public/image/2024-10/matthew-mcbrayer-pga-unsplash.png?itok=9EWiK67M)
             
             Case Study
             
