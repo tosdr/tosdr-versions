@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-17ab5f17c9aa7aeeead76a66d76db28a
+50ce265b9658fffb1320076a11f9878a
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![6 mm round faceted black onyx beads](https://sojourner.biz/images/cache/stone/ON0009.200.jpg)](https://sojourner.biz/beads/stone-m-z/onyx/6-mm-round-faceted-black-onyx-beads.html "6 mm round faceted black onyx beads")
+[![Faux lapis scarab clasp](https://sojourner.biz/images/cache/SKU0565front.200.jpg)](https://sojourner.biz/clasps/faux-stone/faux-lapis-scarab-clasp.html "Faux lapis scarab clasp")
 
-#### [6 mm round faceted black onyx beads](https://sojourner.biz/beads/stone-m-z/onyx/6-mm-round-faceted-black-onyx-beads.html "6 mm round faceted black onyx beads")
+#### [Faux lapis scarab clasp](https://sojourner.biz/clasps/faux-stone/faux-lapis-scarab-clasp.html "Faux lapis scarab clasp")
 
-$23.00
+$24.00
 
 ### Best Sellers
 
