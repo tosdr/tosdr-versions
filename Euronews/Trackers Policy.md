@@ -16,55 +16,55 @@
     Trending
     
     * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
+    * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
     * [European Union](https://www.euronews.com/tag/european-union)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+    * [Volodymyr Zelenskyy](https://www.euronews.com/tag/volodymyr-zelensky)
     * [Italy](https://www.euronews.com/tag/italy)
-    * [Migration Policy](https://www.euronews.com/tag/migration-policy)
     
     * * *
     
     Latest stories
     
-    [![1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.")
+    [![Piazza Loggia is just one of the delights Brescia in Italy has to offer ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Piazza Loggia is just one of the delights Brescia in Italy has to offer ")
     
-    ![1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.](https://static.euronews.com/articles/stories/08/79/59/38/368x207_cmsv2_f4bb5eb9-d4bc-57dc-94b1-92fc320f3850-8795938.jpg "1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.")](https://www.euronews.com/video/2024/10/17/no-comment-fans-hold-vigil-for-liam-payne-in-buenos-aires)
+    ![Piazza Loggia is just one of the delights Brescia in Italy has to offer ](https://static.euronews.com/articles/stories/08/79/72/90/368x207_cmsv2_5a161dd2-362e-5c68-a003-9010bd889658-8797290.jpg "Piazza Loggia is just one of the delights Brescia in Italy has to offer ")](https://www.euronews.com/travel/2024/10/17/reims-girona-brescia-top-detour-destinations-where-you-wont-be-adding-to-overtourism)
     
     Now playing Next
     
-    [No Comment](https://www.euronews.com/nocomment)
+    [Destinations](https://www.euronews.com/travel/destinations)
     
-    ### [No Comment: Fans hold vigil for Liam Payne in Buenos Aires](https://www.euronews.com/video/2024/10/17/no-comment-fans-hold-vigil-for-liam-payne-in-buenos-aires)
+    ### [Reims, Brescia, Girona: Top destinations to beat the crowds](https://www.euronews.com/travel/2024/10/17/reims-girona-brescia-top-detour-destinations-where-you-wont-be-adding-to-overtourism)
     
-    [![London's financial district](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "London's financial district")
+    [![The levy would apply to flights departing from EEA countries and the UK.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The levy would apply to flights departing from EEA countries and the UK.")
     
-    ![London's financial district](https://static.euronews.com/articles/stories/08/79/65/28/368x207_cmsv2_720455cf-252a-5725-bada-7dac063c2ff2-8796528.jpg "London's financial district")](https://www.euronews.com/business/2024/10/17/brexit-cost-thousands-of-finance-jobs-in-london-says-lord-mayor)
+    ![The levy would apply to flights departing from EEA countries and the UK.](https://static.euronews.com/articles/stories/08/79/70/38/368x207_cmsv2_f1768605-90d4-51be-912c-6060ce6f1f6d-8797038.jpg "The levy would apply to flights departing from EEA countries and the UK.")](https://www.euronews.com/green/2024/10/17/taking-more-than-2-flights-a-year-50-frequent-flyer-tax-could-raise-much-needed-64bn-for-c)
+    
+    Now playing Next
+    
+    [Living](https://www.euronews.com/green/green-living)
+    
+    ### [Frequent flyer tax would punish the rich to tune of €64bn per year](https://www.euronews.com/green/2024/10/17/taking-more-than-2-flights-a-year-50-frequent-flyer-tax-could-raise-much-needed-64bn-for-c)
+    
+    [![Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021")
+    
+    ![Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021](https://static.euronews.com/articles/stories/08/79/70/74/368x207_cmsv2_9e7ea09f-92e4-558c-9940-d7998fd63a53-8797074.jpg "Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021")](https://www.euronews.com/2024/10/17/hamas-leader-yahya-sinwar-highly-likely-killed-in-gaza-israeli-army-claims)
+    
+    Now playing Next
+    
+    [Gaza](https://www.euronews.com/news/asia/gaza)
+    
+    ### [Breaking news. Hamas leader Sinwar 'highly likely' killed in Gaza, Israeli army says](https://www.euronews.com/2024/10/17/hamas-leader-yahya-sinwar-highly-likely-killed-in-gaza-israeli-army-claims)
+    
+    [![ CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E " CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.")
+    
+    ![ CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.](https://static.euronews.com/articles/stories/05/53/56/74/368x207_cmsv2_29cc6e14-9865-58f3-b5dc-240bf1c1e89e-5535674.jpg " CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.")](https://www.euronews.com/business/2024/10/17/frances-richest-family-plan-to-buy-into-football-with-club-purchase)
     
     Now playing Next
     
     [Business](https://www.euronews.com/business/business)
     
-    ### [Brexit cost thousands of finance jobs in London says Lord Mayor](https://www.euronews.com/business/2024/10/17/brexit-cost-thousands-of-finance-jobs-in-london-says-lord-mayor)
-    
-    [![Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.")
-    
-    ![Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.](https://static.euronews.com/articles/stories/08/79/62/98/368x207_cmsv2_3fb1b4d3-164c-52d0-a96c-6380de36b6fe-8796298.jpg "Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.")](https://www.euronews.com/2024/10/17/anti-whaling-activist-paul-watson-seeks-political-asylum-in-france-to-avoid-extradition-to)
-    
-    Now playing Next
-    
-    [France](https://www.euronews.com/news/europe/france)
-    
-    ### [Anti-whaling activist Paul Watson seeks political asylum in France](https://www.euronews.com/2024/10/17/anti-whaling-activist-paul-watson-seeks-political-asylum-in-france-to-avoid-extradition-to)
-    
-    [![Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister")
-    
-    ![Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister](https://static.euronews.com/articles/stories/08/79/64/70/368x207_cmsv2_a2a04435-100c-5f84-8bd8-a9b574e9863c-8796470.jpg "Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister")](https://www.euronews.com/my-europe/2024/10/17/zelenskyys-victory-plan-whats-the-deal-with-ukraine-and-nato)
-    
-    Now playing Next
-    
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [Zelenskyy's 'victory plan': What’s the deal with Ukraine and NATO?](https://www.euronews.com/my-europe/2024/10/17/zelenskyys-victory-plan-whats-the-deal-with-ukraine-and-nato)
+    ### [France’s richest family plan to buy into football with club purchase](https://www.euronews.com/business/2024/10/17/frances-richest-family-plan-to-buy-into-football-with-club-purchase)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -356,61 +356,61 @@ Close menu sidebar
 Trending
 
 * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
+* [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
 * [European Union](https://www.euronews.com/tag/european-union)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+* [Volodymyr Zelenskyy](https://www.euronews.com/tag/volodymyr-zelensky)
 * [Italy](https://www.euronews.com/tag/italy)
-* [Migration Policy](https://www.euronews.com/tag/migration-policy)
 
 * * *
 
 Latest stories
 
-[![1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.")
+[![Piazza Loggia is just one of the delights Brescia in Italy has to offer ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Piazza Loggia is just one of the delights Brescia in Italy has to offer ")
 
-![1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.](https://static.euronews.com/articles/stories/08/79/59/38/368x207_cmsv2_f4bb5eb9-d4bc-57dc-94b1-92fc320f3850-8795938.jpg "1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.")](https://www.euronews.com/video/2024/10/17/no-comment-fans-hold-vigil-for-liam-payne-in-buenos-aires)
+![Piazza Loggia is just one of the delights Brescia in Italy has to offer ](https://static.euronews.com/articles/stories/08/79/72/90/368x207_cmsv2_5a161dd2-362e-5c68-a003-9010bd889658-8797290.jpg "Piazza Loggia is just one of the delights Brescia in Italy has to offer ")](https://www.euronews.com/travel/2024/10/17/reims-girona-brescia-top-detour-destinations-where-you-wont-be-adding-to-overtourism)
 
 Now playing Next
 
-[No Comment](https://www.euronews.com/nocomment)
+[Destinations](https://www.euronews.com/travel/destinations)
 
-### [No Comment: Fans hold vigil for Liam Payne in Buenos Aires](https://www.euronews.com/video/2024/10/17/no-comment-fans-hold-vigil-for-liam-payne-in-buenos-aires)
+### [Reims, Brescia, Girona: Top destinations to beat the crowds](https://www.euronews.com/travel/2024/10/17/reims-girona-brescia-top-detour-destinations-where-you-wont-be-adding-to-overtourism)
 
 * * *
 
-[![London's financial district](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "London's financial district")
+[![The levy would apply to flights departing from EEA countries and the UK.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The levy would apply to flights departing from EEA countries and the UK.")
 
-![London's financial district](https://static.euronews.com/articles/stories/08/79/65/28/368x207_cmsv2_720455cf-252a-5725-bada-7dac063c2ff2-8796528.jpg "London's financial district")](https://www.euronews.com/business/2024/10/17/brexit-cost-thousands-of-finance-jobs-in-london-says-lord-mayor)
+![The levy would apply to flights departing from EEA countries and the UK.](https://static.euronews.com/articles/stories/08/79/70/38/368x207_cmsv2_f1768605-90d4-51be-912c-6060ce6f1f6d-8797038.jpg "The levy would apply to flights departing from EEA countries and the UK.")](https://www.euronews.com/green/2024/10/17/taking-more-than-2-flights-a-year-50-frequent-flyer-tax-could-raise-much-needed-64bn-for-c)
+
+Now playing Next
+
+[Living](https://www.euronews.com/green/green-living)
+
+### [Frequent flyer tax would punish the rich to tune of €64bn per year](https://www.euronews.com/green/2024/10/17/taking-more-than-2-flights-a-year-50-frequent-flyer-tax-could-raise-much-needed-64bn-for-c)
+
+* * *
+
+[![Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021")
+
+![Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021](https://static.euronews.com/articles/stories/08/79/70/74/368x207_cmsv2_9e7ea09f-92e4-558c-9940-d7998fd63a53-8797074.jpg "Yahya Sinwar, Palestinian leader of Hamas in the Gaza Strip, 24 May 2021")](https://www.euronews.com/2024/10/17/hamas-leader-yahya-sinwar-highly-likely-killed-in-gaza-israeli-army-claims)
+
+Now playing Next
+
+[Gaza](https://www.euronews.com/news/asia/gaza)
+
+### [Breaking news. Hamas leader Sinwar 'highly likely' killed in Gaza, Israeli army says](https://www.euronews.com/2024/10/17/hamas-leader-yahya-sinwar-highly-likely-killed-in-gaza-israeli-army-claims)
+
+* * *
+
+[![ CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E " CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.")
+
+![ CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.](https://static.euronews.com/articles/stories/05/53/56/74/368x207_cmsv2_29cc6e14-9865-58f3-b5dc-240bf1c1e89e-5535674.jpg " CEO of LVMH Bernard Arnault presents the group's 2019 results during a press conference, in Paris.")](https://www.euronews.com/business/2024/10/17/frances-richest-family-plan-to-buy-into-football-with-club-purchase)
 
 Now playing Next
 
 [Business](https://www.euronews.com/business/business)
 
-### [Brexit cost thousands of finance jobs in London says Lord Mayor](https://www.euronews.com/business/2024/10/17/brexit-cost-thousands-of-finance-jobs-in-london-says-lord-mayor)
-
-* * *
-
-[![Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.")
-
-![Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.](https://static.euronews.com/articles/stories/08/79/62/98/368x207_cmsv2_3fb1b4d3-164c-52d0-a96c-6380de36b6fe-8796298.jpg "Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.")](https://www.euronews.com/2024/10/17/anti-whaling-activist-paul-watson-seeks-political-asylum-in-france-to-avoid-extradition-to)
-
-Now playing Next
-
-[France](https://www.euronews.com/news/europe/france)
-
-### [Anti-whaling activist Paul Watson seeks political asylum in France](https://www.euronews.com/2024/10/17/anti-whaling-activist-paul-watson-seeks-political-asylum-in-france-to-avoid-extradition-to)
-
-* * *
-
-[![Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister")
-
-![Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister](https://static.euronews.com/articles/stories/08/79/64/70/368x207_cmsv2_a2a04435-100c-5f84-8bd8-a9b574e9863c-8796470.jpg "Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister")](https://www.euronews.com/my-europe/2024/10/17/zelenskyys-victory-plan-whats-the-deal-with-ukraine-and-nato)
-
-Now playing Next
-
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-
-### [Zelenskyy's 'victory plan': What’s the deal with Ukraine and NATO?](https://www.euronews.com/my-europe/2024/10/17/zelenskyys-victory-plan-whats-the-deal-with-ukraine-and-nato)
+### [France’s richest family plan to buy into football with club purchase](https://www.euronews.com/business/2024/10/17/frances-richest-family-plan-to-buy-into-football-with-club-purchase)
 
 [Europe](https://www.euronews.com/my-europe)
 
