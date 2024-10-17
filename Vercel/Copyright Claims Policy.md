@@ -88,6 +88,9 @@
         * [Changelog
             
             See what shipped](https://vercel.com/changelog)
+        * [Press
+            
+            Read the latest news](https://vercel.com/press)
     
 * [Enterprise](https://vercel.com/enterprise)
 * [Docs](https://vercel.com/docs)
