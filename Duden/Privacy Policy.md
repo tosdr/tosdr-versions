@@ -35,7 +35,7 @@
 * [Dudenredaktion](https://www.duden.de/dudenredaktion)
 * [Verlagsgeschichte](https://www.duden.de/ueber_duden/verlagsgeschichte)
 * [Verlagsprogramm](https://www.duden.de/programm)
-* [Handel](https://www.duden.de/ueberuns/handel)
+* [Handel](https://www.duden.de/handel)
 
 [Shop](https://shop.duden.de/?campaignCode=do-hauptnavigation)
 
@@ -167,7 +167,7 @@
 
 [Verlagsprogramm](https://www.duden.de/programm)
 
-[Handel ▻](#listview-handel)
+[Handel](https://www.duden.de/handel)
 
 [◁ Dudenredaktion](#listview-ber-uns)
 
@@ -182,18 +182,6 @@
 [Wie kommt ein Wort in den Duden?](https://www.duden.de/ueber_duden/wie-kommt-ein-wort-in-den-duden)
 
 [Über die Duden-Sprachberatung](https://www.duden.de/ueber_duden/sprachberatung)
-
-[◁ Handel](#listview-ber-uns)
-
-[Bestellabwicklung und Auslieferung](https://www.duden.de/handel/auslieferungen)
-
-[Kataloge und Vorschauen](https://www.duden.de/handel/kataloge)
-
-[Kontakt](https://www.duden.de/ueberuns/handel/kontakt)
-
-[Social Media](https://www.duden.de/handel/socialmedia)
-
-[Werbemittel und Downloads](https://www.duden.de/handel/werbemittel)
 
 [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024)
 
@@ -464,6 +452,7 @@ Duden
 
 * [Shop](https://shop.duden.de/?campaignCode=do-footernavigation)
 * [Presse](https://www.duden.de/Presse-Neuigkeiten "Pressemitteilungen")
+* [Handel](https://www.duden.de/handel)
 * [Mediadaten](https://www.duden.de/werbung "Mediadaten duden.de")
 * [Duden Institute](https://www.duden-institute.de/ "Duden Institute für Lerntherapie")
 * [Cornelsen Verlag](https://www.cornelsen.de/)
