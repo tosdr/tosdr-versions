@@ -19,8 +19,6 @@ What's this about?
 
 The OTW is a fan-run nonprofit dedicated to the preservation of fanworks. We're sustained entirely by donations from our users! Please consider **[donating](https://donate.transformativeworks.org/otwgive)**.
 
-Volunteering opportunity: The OTW is Recruiting for AO3 Docs Editors, Fanlore Graphics Designers, Elections Communication Specialists, and Elections Voting Process Architects. All who are interested are welcome to **[apply](https://www.transformativeworks.org/volunteer)**!
-
 Recent news
 
 [2024 Budget Update](https://www.transformativeworks.org/2024-budget-update/) [OTW Signal, October 2024](https://www.transformativeworks.org/otw-signal-october-2024/) [The OTW is Recruiting for AO3 Docs Editors, Fanlore Graphics Designers, Elections Communication Specialists, and Elections Voting Process Architects](https://www.transformativeworks.org/the-otw-is-recruiting-for-ao3-docs-editors-fanlore-graphics-designers-elections-communication-specialists-and-elections-voting-process-architects/) [Explore all news...](https://www.transformativeworks.org/news-feed)
