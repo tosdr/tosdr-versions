@@ -118,63 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Kobus Venter
+Hugo van Sittert
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=73968498)  
-NEW BEGINNINGS DESIGNS
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=9515909)  
+BD Maintenance
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=30879392)  
-Norton Medical & Consult - Namibia
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=55823986)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=178154419)  
-Wiselink Broadband Dundee
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=159759663)  
+AFS Electrical
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=123868837)  
-Lizzy Pop PTY(Ltd)
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=86667431)  
+Forgotten Goods (Pty) Ltd
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=58815118)  
-West Coast Horse Trails
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=189301412)  
+J.M. HUMAN RESOURCES
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=85376791)  
-INVOICES/JOBCARDS ONLINE
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=16811037)  
+Lion Software Develepment
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=125196407)  
-Fox Alarms & Security CC
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=32840553)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=25516537)  
-Tagline Brands
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=200189614)  
+Imvubu General Trading
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=147440797)  
-Abandoned Vehicle and Truck Solutions
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=194802767)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=116419761)  
-NWET Pty LTD
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=44417448)  
+Little Nutty Professors
 
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=200086838)  
-VA AND M DEBT-AID (PTY) LTD
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=9188586)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=67622534)  
-Cpower Projects t/a Pro Pure Water
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=56890934)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=60427990)  
-Well Hung Art
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=83519365)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=168785247)  
-TRACKFORCE (Pty) Ltd
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=142660922)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=cc95a8ba4152f7a1fd15300c9cfe9de23a6b04783b4b254850fadb590dd6ae60&c=204502890)  
-LEO DEVELOPMENT GROUP
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=7e4435e5af2ab5b37ad66c99e4d4b1453378f309c8d813de3b50b7c4b313cf89&c=209961943)  
+SR Travel Services
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
