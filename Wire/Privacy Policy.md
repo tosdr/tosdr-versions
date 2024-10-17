@@ -15,7 +15,7 @@
     
 * Resources
     
-    * [Download](https://wire.com/app-download)
+    * [Download](https://wire.com/en/app-download)
     * [Blog](https://wire.com/en/blog)
     * [Support](https://support.wire.com/)
     * [GitHub](https://github.com/wireapp/)
@@ -96,7 +96,7 @@ Legislation & Compliance 
 
 ### Resources
 
-* [Download](https://wire.com/app-download)
+* [Download](https://wire.com/en/app-download)
 * [Support](https://support.wire.com/)
 * [Blog](https://wire.com/blog)
 * [GitHub](https://github.com/wireapp/)
@@ -104,9 +104,9 @@ Legislation & Compliance 
 
 ### Company
 
-* [About Us](https://wire.com/about-us)
+* [About Us](https://wire.com/en/about-us)
 * [Career](https://wire-1.jobs.personio.de/?language=en)
-* [Brand Portal](https://wire.com/brand)
+* [Brand Portal](https://wire.com/en/brand)
 * [Transparency](https://wire.com/en/transparency-report)
 * [Wire Cloud Status](https://status.wire.com/)
 * [Privacy Policy](https://wire.com/en/privacy-policy)
