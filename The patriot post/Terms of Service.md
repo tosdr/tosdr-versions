@@ -203,6 +203,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Jeff Jacoby Oklahoma urges private groups to launch charter schools — as long as they’re not religious](https://patriotpost.us/opinion/111145-oklahoma-urges-private-groups-to-launch-charter-schools-as-long-as-theyre-not-religious-2024-10-16)
 *      [Mark Alexander The 2024 Election IS Rigged!](https://patriotpost.us/alexander/111103-the-2024-election-is-rigged-2024-10-16)
 *      [Ben Shapiro The Brat Energy Is Gone](https://patriotpost.us/opinion/111130-the-brat-energy-is-gone-2024-10-16)
 *      [Betsy McCaughey Harris’ Approach: Only Blacks Get Government Help](https://patriotpost.us/opinion/111126-harris-approach-only-blacks-get-government-help-2024-10-16)
@@ -225,7 +226,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
