@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-It was easy to use and worked flawlessly!
+Great service. Thanks for letting me watch the World Cup at work!
 
-Mike Schement
+Scott Sikora
