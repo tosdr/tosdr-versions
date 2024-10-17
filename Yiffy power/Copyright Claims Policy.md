@@ -75,31 +75,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 435 1
+0 443 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-carbyrara/)
+[](https://yiff-party.com/yiff/artsu-mythology-created-by-punkypanda/)
 
-[nintendo and etc created by carbyrara](https://yiff-party.com/yiff/nintendo-and-etc-created-by-carbyrara/)
+[artsu (mythology) created by punkypanda](https://yiff-party.com/yiff/artsu-mythology-created-by-punkypanda/)
 
 0 2 0
 
 October 17, 2024
 
-[](https://yiff-party.com/yiff/directed-by-anubiten-director/)
+[](https://yiff-party.com/yiff-ai-premium/fleur-de-lis-directed-by-foxlover7796/)
 
-[directed by anubiten (director)](https://yiff-party.com/yiff/directed-by-anubiten-director/)
+[fleur-de-lis directed by foxlover7796](https://yiff-party.com/yiff-ai-premium/fleur-de-lis-directed-by-foxlover7796/)
 
-0 106 0
+0 79 0
 
 September 17, 2024
 
-[](https://yiff-party.com/yiff/toriel-undertale-series-created-by-albertomangala/)
+[](https://yiff-party.com/yiff/sibuxiang-the-deer-and-tuye-fabulous-beasts-and-etc-created-by-falni/)
 
-[toriel (undertale (series)) created by albertomangala](https://yiff-party.com/yiff/toriel-undertale-series-created-by-albertomangala/)
+[sibuxiang the deer and tuye (fabulous beasts and etc) created by falni](https://yiff-party.com/yiff/sibuxiang-the-deer-and-tuye-fabulous-beasts-and-etc-created-by-falni/)
 
-0 60 0
+0 181 0
 
 September 17, 2024
 
