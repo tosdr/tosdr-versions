@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Путин: В планах – ежегодно строить за счёт федеральной поддержки не менее 350 спортивных объектов](https://cdn.er.ru/media/news/October2024/s9DgE5CPTw1tAHTYlmTC-small.jpg)](https://er.ru/activity/news/vladimir-putin-v-planah-ezhegodno-stroit-za-schyot-federalnoj-podderzhki-ne-menee-350-sportivnyh-obektov)
+
+[Владимир Путин: В планах – ежегодно строить за счёт федеральной поддержки не менее 350 спортивных объектов](https://er.ru/activity/news/vladimir-putin-v-planah-ezhegodno-stroit-za-schyot-federalnoj-podderzhki-ne-menee-350-sportivnyh-obektov)
+
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#спортплощадки](https://er.ru/activity/news?tags%5B0%5D=5617) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#спортобъекты](https://er.ru/activity/news?tags%5B0%5D=2005) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637)
+
+Сегодня 18:35
+
+[![Госдума приняла в первом чтении законопроект о запрете пропаганды идеологии чайлдфри](https://cdn.er.ru/media/news/October2024/s1iyWjzzaR6YAchOECTQ-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-o-zaprete-propagandy-ideologii-chajldfri)
+
+[Госдума приняла в первом чтении законопроект о запрете пропаганды идеологии чайлдфри](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-o-zaprete-propagandy-ideologii-chajldfri)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#семейныеценности](https://er.ru/activity/news?tags%5B0%5D=135171)
+
+Сегодня 14:56
+
+[![«Единая Россия» подключится к разработке госстандарта для проведения квестов](https://cdn.er.ru/media/news/October2024/T3hTpp0vDc2vDffLvOJ4-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-podklyuchitsya-k-razrabotke-gosstandarta-dlya-provedeniya-kvestov)
+
+[«Единая Россия» подключится к разработке госстандарта для проведения квестов](https://er.ru/activity/news/edinaya-rossiya-podklyuchitsya-k-razrabotke-gosstandarta-dlya-provedeniya-kvestov)
+
+[#Шапошников](https://er.ru/activity/news?tags%5B0%5D=3789) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#квесты](https://er.ru/activity/news?tags%5B0%5D=101108) [#квест-игры](https://er.ru/activity/news?tags%5B0%5D=97183) [#развлечения](https://er.ru/activity/news?tags%5B0%5D=47330)
+
+Сегодня 13:30
+
 [![Трудоустройство участников СВО, профориентация подростков, переподготовка кадров: партпроект «Моя карьера с Единой Россией» представил итоги работы с начала года](https://cdn.er.ru/media/news/October2024/0fudalmTeilGZxFYrTus-small.JPG)](https://er.ru/activity/news/trudoustrojstvo-uchastnikov-svo-proforientaciya-podrostkov-perepodgotovka-kadrov-partproekt-moya-karera-s-edinoj-rossiej-predstavil-itogi-raboty-s-nachala-goda)
 
 [Трудоустройство участников СВО, профориентация подростков, переподготовка кадров: партпроект «Моя карьера с Единой Россией» представил итоги работы с начала года](https://er.ru/activity/news/trudoustrojstvo-uchastnikov-svo-proforientaciya-podrostkov-perepodgotovka-kadrov-partproekt-moya-karera-s-edinoj-rossiej-predstavil-itogi-raboty-s-nachala-goda)
@@ -320,30 +344,6 @@
 [Дмитрий Медведев ответил на вопросы руководителей региональных исполкомов «Единой России» со всей страны](https://er.ru/activity/news/dmitrij-medvedev-otvetil-na-voprosy-rukovoditelej-regionalnyh-ispolkomov-edinoj-rossii-so-vsej-strany)
 
 [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#реготделения](https://er.ru/activity/news?tags%5B0%5D=82524) [#ЦИК](https://er.ru/activity/news?tags%5B0%5D=1527) [#исполкомы](https://er.ru/activity/news?tags%5B0%5D=17190)
-
-16.10.24
-
-[![Дмитрий Медведев: «Единая Россия» проведёт Съезд 14 декабря](https://cdn.er.ru/media/news/October2024/WFJIk9fMaYb1DuzgI9Hh-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-provedyot-sezd-14-dekabrya)
-
-[Дмитрий Медведев: «Единая Россия» проведёт Съезд 14 декабря](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-provedyot-sezd-14-dekabrya)
-
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#региональныйисполком](https://er.ru/activity/news?tags%5B0%5D=132701) [#съезд](https://er.ru/activity/news?tags%5B0%5D=103) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751)
-
-16.10.24
-
-[![Дмитрий Медведев поручил региональным отделениям «Единой России» продолжать поддержку фронта](https://cdn.er.ru/media/news/October2024/TtIjlb6g8hdcwGt1UR9y-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-poruchil-regionalnym-otdeleniyam-edinoj-rossii-prodolzhat-podderzhku-fronta)
-
-[Дмитрий Медведев поручил региональным отделениям «Единой России» продолжать поддержку фронта](https://er.ru/activity/news/dmitrij-medvedev-poruchil-regionalnym-otdeleniyam-edinoj-rossii-prodolzhat-podderzhku-fronta)
-
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#помощьвоеннослужащим](https://er.ru/activity/news?tags%5B0%5D=1093164) [#активисты](https://er.ru/activity/news?tags%5B0%5D=121801) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123)
-
-16.10.24
-
-[![Дмитрий Медведев: «Единая Россия» достойно выступит на выборах 25/26](https://cdn.er.ru/media/news/October2024/owbreu7S9gxGzpvwcen6-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-dostojno-vystupit-na-vyborah-25-26)
-
-[Дмитрий Медведев: «Единая Россия» достойно выступит на выборах 25/26](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-dostojno-vystupit-na-vyborah-25-26)
-
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#региональныйисполком](https://er.ru/activity/news?tags%5B0%5D=132701) [#выборы](https://er.ru/activity/news?tags%5B0%5D=31) [#предварительноеголосование](https://er.ru/activity/news?tags%5B0%5D=100833) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
 16.10.24
 
