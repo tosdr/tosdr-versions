@@ -23,19 +23,22 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Cisco investigates breach after stolen data for sale on hacking forum](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Malicious ads exploited Internet Explorer zero day to drop malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Cisco investigates breach after stolen data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/cisco-investigates-breach-after-stolen-data-for-sale-on-hacking-forum/)
-    * [![OpenAI confirms threat actors use ChatGPT to write malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Malicious ads exploited Internet Explorer zero day to drop malware](https://www.bleepingcomputer.com/news/security/malicious-ads-exploited-internet-explorer-zero-day-to-drop-malware/)
+    * [![Google: 70% of exploited flaws disclosed in 2023 were zero-days](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        OpenAI confirms threat actors use ChatGPT to write malware](https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
-    * [![Over 200 malicious apps on Google Play downloaded millions of times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Google: 70% of exploited flaws disclosed in 2023 were zero-days](https://www.bleepingcomputer.com/news/security/google-70-percent-of-exploited-flaws-disclosed-in-2023-were-zero-days/)
+    * [![Critical Kubernetes Image Builder flaw gives SSH root access to VMs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Over 200 malicious apps on Google Play downloaded millions of times](https://www.bleepingcomputer.com/news/security/over-200-malicious-apps-on-google-play-downloaded-millions-of-times/)
-    * [![EDRSilencer red team tool used in attacks to bypass security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Critical Kubernetes Image Builder flaw gives SSH root access to VMs](https://www.bleepingcomputer.com/news/security/critical-kubernetes-image-builder-flaw-gives-ssh-root-access-to-vms/)
+    * [![Iranian hackers act as brokers selling critical infrastructure access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
+        Iranian hackers act as brokers selling critical infrastructure access](https://www.bleepingcomputer.com/news/security/iranian-hackers-act-as-brokers-selling-critical-infrastructure-access/)
     
+    * [![Get this lifetime ad blocker deal for safer browsing on nine devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get this lifetime ad blocker deal for safer browsing on nine devices](https://www.bleepingcomputer.com/offer/deals/get-this-lifetime-ad-blocker-deal-for-safer-browsing-on-nine-devices/)
     * [![Iranian hackers act as brokers selling critical infrastructure access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Iranian hackers act as brokers selling critical infrastructure access](https://www.bleepingcomputer.com/news/security/iranian-hackers-act-as-brokers-selling-critical-infrastructure-access/)
@@ -45,9 +48,6 @@
     * [![USDoD hacker behind National Public Data breach arrested in Brazil](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         USDoD hacker behind National Public Data breach arrested in Brazil](https://www.bleepingcomputer.com/news/security/usdod-hacker-behind-national-public-data-breach-arrested-in-brazil/)
-    * [![SolarWinds Web Help Desk flaw is now exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        SolarWinds Web Help Desk flaw is now exploited in attacks](https://www.bleepingcomputer.com/news/security/solarwinds-web-help-desk-flaw-is-now-exploited-in-attacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -304,15 +304,15 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
+* [![Cisco](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Cisco investigates breach after stolen data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/cisco-investigates-breach-after-stolen-data-for-sale-on-hacking-forum/)
+* [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
 * [![Android](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     TrickMo malware steals Android PINs using fake lock screen](https://www.bleepingcomputer.com/news/security/trickmo-malware-steals-android-pins-using-fake-lock-screen/)
-* [![Pokemon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Pokemon dev Game Freak confirms breach after stolen data leaks online](https://www.bleepingcomputer.com/news/security/pokemon-dev-game-freak-confirms-breach-after-stolen-data-leaks-online/)
-* [![Amazon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Amazon says 175 million customers now use passkeys to log in](https://www.bleepingcomputer.com/news/security/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
 
 ##### Follow us:
 
