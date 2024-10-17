@@ -61,7 +61,7 @@ Toggle Navigation
     
     [Jamf School Device management for K-12](https://www.wandera.com/products/jamf-school/)
     
-    [Jamf Protect](https://www.wandera.com/products/jamf-protect/)
+    [Jamf Protect Endpoint security & protection](https://www.wandera.com/products/jamf-protect/)
     
     [Jamf Connect Identity & access management](https://www.wandera.com/products/jamf-connect/)
     
