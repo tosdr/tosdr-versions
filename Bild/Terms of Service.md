@@ -207,25 +207,25 @@ Menü
 
 [BreakingNews
 
-Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
 
-Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
 
-Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
 
-Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
 
-Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
 
-Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
 
-Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
 
-Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
 
-Israel-Hasser besetzen Präsidium der Freien Universität in Berlin
+Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel
 
-Israel-Hasser besetzen Präsidium der Freien Universität in Berlin](https://www.bild.de/regional/berlin/berlin-pro-palaestinensische-aktivisten-besetzen-freie-universitaet-6710ff5fe9471210bb6a7d86)
+Israels Außenminister bestätigt: Hamas-Chef Sinwar ist tot! Er plante das Massaker in Israel](https://www.bild.de/politik/ausland-und-internationales/militaer-teilt-mit-israel-prueft-moeglichen-tod-vom-hamas-chef-sinwar-671109311f720348549aa2a6)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
