@@ -36,8 +36,10 @@ Taal Nederlands dansk Deutsch English español français italiano norsk svenska
     * [Business partnerlijst](https://www.thuiswinkel.org/kennis/business-partnerlijst/)
 * [Innovatie](https://www.thuiswinkel.org/innovatie/) Open het subnavigatiemenu
     
+    * [Magazine](https://www.thuiswinkel.org/innovatie/magazine/)
     * [ShoppingTomorrow](https://www.thuiswinkel.org/innovatie/shoppingtomorrow/)
     * [Voorzitters en hosts](https://www.thuiswinkel.org/innovatie/voorzitters-en-hosts/)
+    * [Bluepapers](https://www.thuiswinkel.org/innovatie/bluepapers/)
 * [Invloed](https://www.thuiswinkel.org/invloed/) Open het subnavigatiemenu
     
     * [Strategie en standpunten](https://www.thuiswinkel.org/invloed/strategie-en-standpunten/)
