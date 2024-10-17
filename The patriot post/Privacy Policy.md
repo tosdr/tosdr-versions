@@ -110,7 +110,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111109-youd-know-2024-10-16)
+     [](https://patriotpost.us/memes/111151-the-cover-of-vague-2024-10-17)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -122,6 +122,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Mark Alexander JD Vance v. New York Times](https://patriotpost.us/alexander/111104-jd-vance-v-new-york-times-2024-10-17)
 *      [Jeff Jacoby Oklahoma urges private groups to launch charter schools — as long as they’re not religious](https://patriotpost.us/opinion/111145-oklahoma-urges-private-groups-to-launch-charter-schools-as-long-as-theyre-not-religious-2024-10-16)
 *      [Mark Alexander The 2024 Election IS Rigged!](https://patriotpost.us/alexander/111103-the-2024-election-is-rigged-2024-10-16)
 *      [Ben Shapiro The Brat Energy Is Gone](https://patriotpost.us/opinion/111130-the-brat-energy-is-gone-2024-10-16)
@@ -129,9 +130,6 @@ Last Updated: November 15, 2011.
 *      [Tim Graham The Washington Post Claims Republicans Wage War on Fact-Checkers](https://patriotpost.us/opinion/111125-the-washington-post-claims-republicans-wage-war-on-fact-checkers-2024-10-16)
 *      [John Stossel Deceitful Promises](https://patriotpost.us/opinion/111124-deceitful-promises-2024-10-16)
 *      [Gary Bauer The Joy Is Gone](https://patriotpost.us/opinion/111122-the-joy-is-gone-2024-10-16)
-*      [Star Parker Why, In Our Free Country, Do We Lack Education Freedom?](https://patriotpost.us/opinion/111120-why-in-our-free-country-do-we-lack-education-freedom-2024-10-16)
-*      [Ian Haworth The Racism Reflex](https://patriotpost.us/opinion/111105-the-racism-reflex-2024-10-16)
-*      [The Babylon Bee ‘Oops, We Meant To Say UP,’ Explains FBI After Months Of Saying Crime Is Down](https://patriotpost.us/opinion/111138-oops-we-meant-to-say-up-explains-fbi-after-months-of-saying-crime-is-down-2024-10-16)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
