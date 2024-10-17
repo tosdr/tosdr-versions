@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Exclusive
+#### 2024 election looms
 
-[Liam Payne was 'cycling through periods of ruinous behavior' prior to his tragic death at 31, source says](https://pagesix.com/2024/10/16/celebrity-news/liam-payne-had-periods-of-ruinous-behavior-before-death-at-31/)
+[Here’s the moment Kamala Harris’ aides shut down Fox News interview with Bret Baier](https://nypost.com/2024/10/17/us-news/heres-when-kamala-harris-aides-ended-fox-news-interview/)
 
 Terms Of Use
 ============
