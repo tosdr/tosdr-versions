@@ -493,7 +493,8 @@ Back
 Moloco's privacy policy
 =======================
 
-### **Moloco Inc Privacy Notice**
+**Moloco Inc Privacy Notice**
+-----------------------------
 
 This Privacy Notice applies to personal information processed by Moloco Inc. (“Moloco,” “we,” “us,” and “our”) through our website [https://www.moloco.com/](https://www.moloco.com/) and related Moloco offerings. To make this Privacy Notice easier to read, our website and related offerings are collectively called the “Services.”
 
