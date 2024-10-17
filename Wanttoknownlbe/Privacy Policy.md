@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/chemtrails-het-bewijs/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/big-pharma/hoe-ook-artsen-worden-misleid-door-big-pharma/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
