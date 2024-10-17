@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/dbd15c82-7288-44a1-a7c4-d3a7190ae96e/20241016T051232/dbd15c82-7288-44a1-a7c4-d3a7190ae96e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dbd15c82-7288-44a1-a7c4-d3a7190ae96e/20241016T051232/dbd15c82-7288-44a1-a7c4-d3a7190ae96e_360x203.jpg)](https://www.king5.com/article/news/local/navy-aircraft-crashes-near-mount-rainier/281-e14b3068-e1ae-48db-ad68-0d034ee02cc0)
+    *  [![](https://media.king5.com/assets/KING/images/9366e8ae-5bcf-4706-a6a3-72dda3159229/20241017T020059/9366e8ae-5bcf-4706-a6a3-72dda3159229_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9366e8ae-5bcf-4706-a6a3-72dda3159229/20241017T020059/9366e8ae-5bcf-4706-a6a3-72dda3159229_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/city-of-tacoma-stopped-glass-recycling-at-least-for-now/281-10a4b6a0-f698-45f2-b1c6-d231ae46c987)
         
-        #### [Condition of two crew members still unclear day after Navy plane crashes near Mount Rainier](https://www.king5.com/article/news/local/navy-aircraft-crashes-near-mount-rainier/281-e14b3068-e1ae-48db-ad68-0d034ee02cc0)
+        #### ['It's kind of disappointing': City of Tacoma has stopped its glass recycling, at least for now](https://www.king5.com/article/news/local/tacoma/city-of-tacoma-stopped-glass-recycling-at-least-for-now/281-10a4b6a0-f698-45f2-b1c6-d231ae46c987) [![](https://media.king5.com/assets/KING/images/9366e8ae-5bcf-4706-a6a3-72dda3159229/20241017T020059/9366e8ae-5bcf-4706-a6a3-72dda3159229_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9366e8ae-5bcf-4706-a6a3-72dda3159229/20241017T020059/9366e8ae-5bcf-4706-a6a3-72dda3159229_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/city-of-tacoma-stopped-glass-recycling-at-least-for-now/281-10a4b6a0-f698-45f2-b1c6-d231ae46c987)
         
-    *  [![](https://media.king5.com/assets/KING/images/5018369c-ca5e-4eb4-9202-c7b71ee95c80/5018369c-ca5e-4eb4-9202-c7b71ee95c80_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5018369c-ca5e-4eb4-9202-c7b71ee95c80/5018369c-ca5e-4eb4-9202-c7b71ee95c80_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattle-tacoma-sea-airport-facial-recognition-technology-tsa-security-checkpoint/281-daa7ecac-9f83-42aa-9d95-abdd7478dfe1)
+        #### [City of Tacoma stops glass recycling because of low demand](https://www.king5.com/article/news/local/tacoma/city-of-tacoma-stopped-glass-recycling-at-least-for-now/281-10a4b6a0-f698-45f2-b1c6-d231ae46c987)
+    *  [![](https://media.king5.com/assets/KING/images/4831e2ca-73a8-4781-a072-abcf5e15bc69/20241017T013234/4831e2ca-73a8-4781-a072-abcf5e15bc69_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4831e2ca-73a8-4781-a072-abcf5e15bc69/20241017T013234/4831e2ca-73a8-4781-a072-abcf5e15bc69_360x203.jpg)](https://www.king5.com/article/news/crime/16-year-old-faces-judge-robberies-throughout-seattle-king-county/281-dee433f0-6103-4343-ab76-42e5014a22da)
         
-        #### [Facial recognition technology introduced at SEA Airport TSA checkpoints](https://www.king5.com/article/news/local/seattle/seattle-tacoma-sea-airport-facial-recognition-technology-tsa-security-checkpoint/281-daa7ecac-9f83-42aa-9d95-abdd7478dfe1)
+        #### [16-year-old accused of dozens of violent robberies throughout King County faces judge](https://www.king5.com/article/news/crime/16-year-old-faces-judge-robberies-throughout-seattle-king-county/281-dee433f0-6103-4343-ab76-42e5014a22da)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KGW/images/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0/20241016T130614/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0/20241016T130614/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0_360x203.jpg)](https://www.king5.com/article/news/local/funnel-cloud-battle-ground/283-ebb98481-5982-4cbe-b6b2-4e9b1260166a)
-        
-        #### [Funnel cloud spotted in southwest Washington, NWS confirms](https://www.king5.com/article/news/local/funnel-cloud-battle-ground/283-ebb98481-5982-4cbe-b6b2-4e9b1260166a)
-        
-    *  [![](https://media.king5.com/assets/KING/images/a0209a33-2dab-4e78-9126-c64a9c611024/20241016T114758/a0209a33-2dab-4e78-9126-c64a9c611024_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a0209a33-2dab-4e78-9126-c64a9c611024/20241016T114758/a0209a33-2dab-4e78-9126-c64a9c611024_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/fe87ea11-68d8-4ad7-8e4d-1e084c4f03c4/20241017T003431/fe87ea11-68d8-4ad7-8e4d-1e084c4f03c4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe87ea11-68d8-4ad7-8e4d-1e084c4f03c4/20241017T003431/fe87ea11-68d8-4ad7-8e4d-1e084c4f03c4_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KGW/images/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0/20241016T232022/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0/20241016T232022/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0_360x203.jpg)](https://www.king5.com/article/news/local/funnel-cloud-battle-ground/283-ebb98481-5982-4cbe-b6b2-4e9b1260166a)
+        
+        #### [Funnel cloud spotted in southwest Washington, NWS confirms](https://www.king5.com/article/news/local/funnel-cloud-battle-ground/283-ebb98481-5982-4cbe-b6b2-4e9b1260166a)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-60°
+54°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
