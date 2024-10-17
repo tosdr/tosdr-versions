@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-Last Updated: April 22, 2024
+Last Updated: September 26, 2024
 
 Privacy Policy for Citizen Services
 ===================================
@@ -425,7 +425,7 @@ This cookie is set to track and improve the performance of advertising campaigns
   
   
 
-We do recognize “Do Not Track” requests and have technology enabled to respond to the Global Privacy Control signals.  
+We do recognize “Do Not Track” requests but do not currently have technology enabled to respond to the Global Privacy Control signals.  
 
 ### 8\. Privacy Rights and Choices
 
@@ -576,10 +576,54 @@ As a California resident, you may have privacy rights in addition to those descr
 
 #### **How to Exercise Your Privacy Rights**
 
-To exercise your rights to please submit your request to support@citizen.com or by using this webform. As mandated by CA Privacy Laws, we will acknowledge receipt of your request within 10 days and will respond within 45 days of receipt of your request, but if we require more time (up to an additional 45 days) we will let you know. In some cases, you may designate an authorized agent to submit requests to exercise certain privacy rights on your behalf. We will require verification that you provided the authorized agent permission to make a request on your behalf. You must provide us with a copy of the signed permission you have given to the authorized agent to submit the request on your behalf and verify your own identity directly with us. If you are an authorized agent submitting a request on behalf of an individual, you must attach a copy of: (a) A completed written notice indicating that you have authorization to act on the consumer’s behalf signed by you and the consumer; and (b) if you are a business, proof that you are registered with the appropriate Secretary of State to conduct business in California. If we do not receive both pieces of information, the request will be denied.
+To exercise your rights to please submit your request to support@citizen.com or by using this [webform](https://support.citizen.com/). As mandated by CA Privacy Laws, we will acknowledge receipt of your request within 10 days and will respond within 45 days of receipt of your request, but if we require more time (up to an additional 45 days) we will let you know. In some cases, you may designate an authorized agent to submit requests to exercise certain privacy rights on your behalf. We will require verification that you provided the authorized agent permission to make a request on your behalf. You must provide us with a copy of the signed permission you have given to the authorized agent to submit the request on your behalf and verify your own identity directly with us. If you are an authorized agent submitting a request on behalf of an individual, you must attach a copy of: (a) A completed written notice indicating that you have authorization to act on the consumer’s behalf signed by you and the consumer; and (b) if you are a business, proof that you are registered with the appropriate Secretary of State to conduct business in California. If we do not receive both pieces of information, the request will be denied.
 
-**Exercising your right to opt-out of the “sale” or “sharing” of your Personal Information**. Like many companies, we use services that help deliver targeted ads to you as described above. California Privacy Laws may classify our use of some of these services as “selling” or “sharing” your personal information with the advertising partners that provide the services. You can submit requests to opt-out of certain processing of personal information for targeted advertising purposes or other sales of Personal Information here, or via email to support@citizen.com.
+**Exercising your right to opt-out of the “sale” or “sharing” of your Personal Information**. Like many companies, we use services that help deliver targeted ads to you as described above. California Privacy Laws may classify our use of some of these services as “selling” or “sharing” your personal information with the advertising partners that provide the services. You can submit requests to opt-out of certain processing of personal information for targeted advertising purposes or other sales of Personal Information \[ here \], or via email to support@citizen.com.
 
 **Verification of identity; authorized agents**. We will need to verify your identity in order to process your information/know, access, correction, or deletion requests and reserve the right to confirm your residency. To verify your identity, we may require government identification, a declaration under penalty of perjury, or other information, where permitted by law.
 
 Your authorized agent may make a request on your behalf upon our verification of the agent’s identity and our receipt of a copy of a valid power of attorney given to your authorized agent pursuant to California Probate Code Sections 4000-4465. If you have not provided your agent with such a power of attorney, you must provide your agent with written and signed permission to exercise your CA Privacy Laws rights on your behalf, provide the information we request to verify your identity, and provide us with confirmation that you have given the authorized agent permission to submit the request.
+
+### 13\. Non-U.S. Jurisdictions 
+
+**Canada Privacy Notice**
+
+This Canada Privacy Notice (the "Canada Notice") supplements the information contained in our Privacy Policy and applies solely to individuals who are residents of Canada ("consumers" or "you"). The purpose of this Canada Notice is to provide users with a comprehensive description of Citizen's online and offline practices regarding the collection, use, disclosure, and protection of personal information and to inform Canadian residents of their rights under applicable Canadian privacy laws, including the Personal Information Protection and Electronic Documents Act ("PIPEDA").
+
+If there is a conflict between the Privacy Policy and this Canada Notice, the Canada Notice controls with respect to Canadian users of our services. Unless otherwise expressly stated, all terms in this Canada Notice have the same meaning as defined in our Privacy Policy or as otherwise defined in PIPEDA and other relevant Canadian privacy legislation.  
+
+**Collection and Use of Personal Information**
+
+We collect personal information from and about consumers for various purposes, and wherever necessary, with your express consent. In some instances this consent may be implied, as described in the Privacy Policy. We will only use or disclose your personal information for the purpose for which it was collected unless you have otherwise consented, or when required or permitted by law. For detailed information about the categories of personal information we collect, how we collect it and why, please refer to **[Section 1: Personal Information We Collect and Purpose of Collection](https://citizen.com/privacy/policy#1_personal_info)** in the Privacy Policy.
+
+**Privacy Officer**
+
+We have appointed a Privacy Officer responsible for overseeing our privacy practices and ensuring compliance with Canadian privacy laws. If you have questions or concerns about our privacy practices, you may contact the Privacy Officer by email at privacy@citizen.com or by mail at the following address:
+
+**Privacy Officer**  
+sp0n, Inc.  
+197 Grand St, Ste 3W, New York, NY 10013, USA
+
+**Rights and Choices for Canadian Residents**
+
+As a resident of Canada, you have certain rights regarding your personal information. These rights include the following:
+
+* **Right to Access**: You can request a copy of the personal information that we have collected about you.
+* **Right to Correction**: You can ask us to correct inaccurate personal information that we have collected about you.
+* **Right to Withdrawal of Consent**: You can withdraw your consent to the collection, use, or disclosure of your personal information at any time, subject to legal or contractual restrictions.  This includes the right to opt-out of cross context behavioral advertising or targeted advertising as described further below in this Canada Notice.
+* **Right to Deletion / Erasure**: You can ask us to delete your personal information, which we will do subject to specific legal or contractual obligations.
+* **Right to File a Complaint**: If you believe that your personal information has been handled in a manner inconsistent privacy laws, you have the right to file a complaint with us and with the Office of the Privacy Commissioner of Canada.
+
+To exercise these rights or contact the Privacy Officer, please use the contact information provided above. We may need to verify your identity before processing your request. We will be as prompt as possible in responding to requests. For summary access or deletion of personal information this can sometimes take 30 days or longer depending on the request. For more detailed requests requiring archival or other retrieval methods, we may take longer to respond and there may be fees associated with such retrieval, but only where permitted by law.
+
+**Law Enforcement Requests**
+
+We will disclose personal information without your knowledge or consent if we receive an order, subpoena, warrant, or other legal requirement issued by a court, tribunal, regulator, or other person with jurisdiction to compel disclosure of your personal information.
+
+**International Data Transfers and Storage Outside of Canada**
+
+Your personal information may be transferred to jurisdictions outside of Canada, including the United States, where our servers are located. We ensure that your personal information, when transferred, is subject to adequate safeguards in accordance with Canadian law. These jurisdictions may have data protection laws that differ from those in Canada. Note that when your personal information is used or stored outside of Canada, it is subject to the laws of the country in which it is used or stored, and may be subject to disclosure pursuant to a lawful access request by U.S. courts or government authorities. For more information on how we handle international data transfers, please refer to **[Section 9: International Data Transfers](https://citizen.com/privacy/policy#9_international_data_transfers)** in the Privacy Policy.
+
+**Targeted Advertising**
+
+We do not “sell” personal information as most people would typically understand that term. We will not provide your information to third parties for marketing purposes without your prior consent. With your consent, we allow certain third-party partners and providers to collect information about consumers directly through our Services for purposes of providing, analyzing and optimizing our Services and advertisements (ads), providing content and ads that are more relevant, measuring statistics and the success of ad campaigns, and detecting and reporting fraud. Please see our Cookie Policy for more information including how to exercise your rights to opt-out of cookies, analytics and personalized advertising.
