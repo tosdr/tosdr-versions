@@ -39,7 +39,7 @@ Main Menu
 
 * Post-Hurricane Helene Update: Oct. 11-15, 2024
     
-    Classes at Appalachian State University will resume on Wednesday Oct. 16. On Friday Oct. 11 at 5 p.m., [Condition 1 (Reduced Operations)](https://hr.appstate.edu/hr-services/policies-and-forms/adverse-weather) will go into effect until further notice. [Read full message](https://appstatealert.com/)
+    Classes at Appalachian State University will resume on Wednesday Oct. 16. On Friday Oct. 11 at 5 p.m., [Condition 1 (Reduced Operations)](https://hr.appstate.edu/hr-services/policies-and-forms/adverse-weather) will go into effect through 4 p.m. Oct. 25.
     
 
 Appalachian Privacy Statement
