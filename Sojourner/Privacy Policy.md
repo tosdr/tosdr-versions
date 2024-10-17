@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d390ec004def860077f8b3a9cce6fee8
+8c3166ff682a5dfafa4be03b2ea74080
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Sterling silver twisted knot bracelet](https://www.sojourner.biz/images/cache/jewelry/BR0025.200.jpg)](https://www.sojourner.biz/jewelry/bracelets/sterling-silver-twisted-knot-bracelet.html "Sterling silver twisted knot bracelet")
+[![10 mm green-gold potato pearls](https://www.sojourner.biz/images/cache/pearls/PE0082.200.jpg)](https://www.sojourner.biz/beads/pearls/10-mm-green-gold-potato-pearls.html "10 mm green-gold potato pearls")
 
-#### [Sterling silver twisted knot bracelet](https://www.sojourner.biz/jewelry/bracelets/sterling-silver-twisted-knot-bracelet.html "Sterling silver twisted knot bracelet")
+#### [10 mm green-gold potato pearls](https://www.sojourner.biz/beads/pearls/10-mm-green-gold-potato-pearls.html "10 mm green-gold potato pearls")
 
-$75.00
+$16.00
 
 ### Best Sellers
 
