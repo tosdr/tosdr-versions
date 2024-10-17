@@ -100,6 +100,7 @@ For any complaints originating from the EU, we accept a notice that conforms wit
 Company
 
 * [About](https://zenfolio.com/company/about/)
+* [Zenfolio vs Competitors](https://zenfolio.com/compare/)
 * [Careers](https://zenfolio.com/company/jobs/)
 * [Reviews](https://zenfolio.com/company/reviews/)
 * [Press Room](https://zenfolio.com/press/)
