@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Wednesday, October 16 2024
+Thursday, October 17 2024
 
 Latest
 
-* [New Loader Masquerades as Antivirus to Deliver SSLoad](https://digitpatrox.com/new-loader-masquerades-as-antivirus-to-deliver-ssload/)
-* [10 Best Small Business Checking Accounts in 2024](https://digitpatrox.com/10-best-small-business-checking-accounts-in-2024/)
-* [AI image generator shoot-out: I tested ChatGPT vs Gemini vs Meta AI to crown a winner](https://digitpatrox.com/ai-image-generator-shoot-out-i-tested-chatgpt-vs-gemini-vs-meta-ai-to-crown-a-winner/)
-* [US disrupts Anonymous Sudan DDoS operation, indicts 2 Sudanese brothers](https://digitpatrox.com/us-disrupts-anonymous-sudan-ddos-operation-indicts-2-sudanese-brothers/)
-* [A day at the F1 Arcade: here’s what it’s like to drive](https://digitpatrox.com/a-day-at-the-f1-arcade-heres-what-its-like-to-drive/)
-* [Salesforce CEO Calls Copilot the New Microsoft Clippy – Doesn’t Work or Deliver Value](https://digitpatrox.com/salesforce-ceo-calls-copilot-the-new-microsoft-clippy-doesnt-work-or-deliver-value/)
-* [How to Spot and Avoid Fake Amazon Driver Text Messages](https://digitpatrox.com/how-to-spot-and-avoid-fake-amazon-driver-text-messages/)
-* [Business execs just said the quiet part out loud on RTO mandates: A quarter admit forcing staff back into the office was meant to make them quit — but this ‘quiet firing’ practice could easily backfire](https://digitpatrox.com/business-execs-just-said-the-quiet-part-out-loud-on-rto-mandates-a-quarter-admit-forcing-staff-back-into-the-office-was-meant-to-make-them-quit-but-this-quiet-firing-pract/)
-* [AI isn’t really that smart yet, Apple researchers warn – Computerworld](https://digitpatrox.com/ai-isnt-really-that-smart-yet-apple-researchers-warn-computerworld/)
-* [You Should Start Canning (It’s Easier Than You Think)](https://digitpatrox.com/you-should-start-canning-its-easier-than-you-think/)
+* [How Well Do Tesla Superchargers Work for Non-Tesla EVs?](https://digitpatrox.com/how-well-do-tesla-superchargers-work-for-non-tesla-evs/)
+* [Why Linux Is the Best Place to Learn Coding](https://digitpatrox.com/why-linux-is-the-best-place-to-learn-coding/)
+* [Iomart bolsters cloud expertise with £57 million Atech Cloud acquisition](https://digitpatrox.com/iomart-bolsters-cloud-expertise-with-57-million-atech-cloud-acquisition/)
+* [6 Best Nonprofit Credit Card Processing Tools Evaluated for 2024](https://digitpatrox.com/6-best-nonprofit-credit-card-processing-tools-evaluated-for-2024/)
+* [Cancelling those annoying subscription services is about to get a whole lot easier — here’s how](https://digitpatrox.com/cancelling-those-annoying-subscription-services-is-about-to-get-a-whole-lot-easier-heres-how/)
+* [Iranian hackers act as brokers selling critical infrastructure access](https://digitpatrox.com/iranian-hackers-act-as-brokers-selling-critical-infrastructure-access/)
+* [Meta is laying off employees at WhatsApp, Instagram, and more](https://digitpatrox.com/meta-is-laying-off-employees-at-whatsapp-instagram-and-more/)
+* [Is Tom Holland’s Spider-Man in Venom 3? Here’s What Tom Hardy Has to Say](https://digitpatrox.com/is-tom-hollands-spider-man-in-venom-3-heres-what-tom-hardy-has-to-say/)
+* [Illinois school district notifies 1,500 people of data breach that compromised SSNs](https://digitpatrox.com/illinois-school-district-notifies-1500-people-of-data-breach-that-compromised-ssns/)
+* [Cisco confirms investigation amid data breach claims](https://digitpatrox.com/cisco-confirms-investigation-amid-data-breach-claims/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/4fzAJ927NMxsZ73HJqaLQ8-1200-80.jpg)](https://digitpatrox.com/new-loader-masquerades-as-antivirus-to-deliver-ssload/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1678891331/prod/content/dam/CRO-Images-2023/03March/Cars/CR-Cars-InlineHero-Supercharger-EV6-Charging-Tout-3-23)](https://digitpatrox.com/how-well-do-tesla-superchargers-work-for-non-tesla-evs/)
     
-    [New Loader Masquerades as Antivirus to Deliver SSLoad](https://digitpatrox.com/new-loader-masquerades-as-antivirus-to-deliver-ssload/)
+    [How Well Do Tesla Superchargers Work for Non-Tesla EVs?](https://digitpatrox.com/how-well-do-tesla-superchargers-work-for-non-tesla-evs/)
     
-    9 mins ago
+    7 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/AdobeStock_278414365.jpg)](https://digitpatrox.com/10-best-small-business-checking-accounts-in-2024/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/laptop-kubuntu.jpg)](https://digitpatrox.com/why-linux-is-the-best-place-to-learn-coding/)
     
-    [10 Best Small Business Checking Accounts in 2024](https://digitpatrox.com/10-best-small-business-checking-accounts-in-2024/)
+    [Why Linux Is the Best Place to Learn Coding](https://digitpatrox.com/why-linux-is-the-best-place-to-learn-coding/)
     
-    13 mins ago
+    10 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/BdEkqHr9LQsZWy6PT6xsr7-1200-80.jpg)](https://digitpatrox.com/ai-image-generator-shoot-out-i-tested-chatgpt-vs-gemini-vs-meta-ai-to-crown-a-winner/)
+* [![](https://cdn.mos.cms.futurecdn.net/6zvLhxX6fpdjzFD8FCfGAN-1200-80.jpg)](https://digitpatrox.com/iomart-bolsters-cloud-expertise-with-57-million-atech-cloud-acquisition/)
     
-    [AI image generator shoot-out: I tested ChatGPT vs Gemini vs Meta AI to crown a winner](https://digitpatrox.com/ai-image-generator-shoot-out-i-tested-chatgpt-vs-gemini-vs-meta-ai-to-crown-a-winner/)
+    [Iomart bolsters cloud expertise with £57 million Atech Cloud acquisition](https://digitpatrox.com/iomart-bolsters-cloud-expertise-with-57-million-atech-cloud-acquisition/)
     
-    28 mins ago
+    1 hour ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/16/ddos-department-of-justice.jpg)](https://digitpatrox.com/us-disrupts-anonymous-sudan-ddos-operation-indicts-2-sudanese-brothers/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241016-best-nonprofit-credit-card-processing-tools.jpg)](https://digitpatrox.com/6-best-nonprofit-credit-card-processing-tools-evaluated-for-2024/)
     
-    [US disrupts Anonymous Sudan DDoS operation, indicts 2 Sudanese brothers](https://digitpatrox.com/us-disrupts-anonymous-sudan-ddos-operation-indicts-2-sudanese-brothers/)
+    [6 Best Nonprofit Credit Card Processing Tools Evaluated for 2024](https://digitpatrox.com/6-best-nonprofit-credit-card-processing-tools-evaluated-for-2024/)
     
-    56 mins ago
+    1 hour ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/OtKBP7b2JJBtXJJqG_RUbsx0S14=/0x0:5562x4172/1200x628/filters:focal(2781x2086:2782x2087)/cdn.vox-cdn.com/uploads/chorus_asset/file/25681368/F1_Arcade_Wheel.jpg)](https://digitpatrox.com/a-day-at-the-f1-arcade-heres-what-its-like-to-drive/)
+* [![](https://cdn.mos.cms.futurecdn.net/vwgLh8ijdTV4bhoEHnWb4S-1200-80.jpg)](https://digitpatrox.com/cancelling-those-annoying-subscription-services-is-about-to-get-a-whole-lot-easier-heres-how/)
     
-    [A day at the F1 Arcade: here’s what it’s like to drive](https://digitpatrox.com/a-day-at-the-f1-arcade-heres-what-its-like-to-drive/)
+    [Cancelling those annoying subscription services is about to get a whole lot easier — here’s how](https://digitpatrox.com/cancelling-those-annoying-subscription-services-is-about-to-get-a-whole-lot-easier-heres-how/)
     
     1 hour ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [9 mins ago
+* [7 mins ago
     
-    ### New Loader Masquerades as Antivirus to Deliver SSLoad](https://digitpatrox.com/new-loader-masquerades-as-antivirus-to-deliver-ssload/)
-* [13 mins ago
+    ### How Well Do Tesla Superchargers Work for Non-Tesla EVs?](https://digitpatrox.com/how-well-do-tesla-superchargers-work-for-non-tesla-evs/)
+* [10 mins ago
     
-    ### 10 Best Small Business Checking Accounts in 2024](https://digitpatrox.com/10-best-small-business-checking-accounts-in-2024/)
-* [28 mins ago
+    ### Why Linux Is the Best Place to Learn Coding](https://digitpatrox.com/why-linux-is-the-best-place-to-learn-coding/)
+* [1 hour ago
     
-    ### AI image generator shoot-out: I tested ChatGPT vs Gemini vs Meta AI to crown a winner](https://digitpatrox.com/ai-image-generator-shoot-out-i-tested-chatgpt-vs-gemini-vs-meta-ai-to-crown-a-winner/)
+    ### Iomart bolsters cloud expertise with £57 million Atech Cloud acquisition](https://digitpatrox.com/iomart-bolsters-cloud-expertise-with-57-million-atech-cloud-acquisition/)
 
 Most Popular Topics
 
-* [1 week ago
-    
-    ### Instacart’s smart cart helps you navigate to the sauce that’s on sale](https://digitpatrox.com/instacarts-smart-cart-helps-you-navigate-to-the-sauce-thats-on-sale/)
 * [4 weeks ago
     
-    ### Wordle Answer for Today, September 22, 2024](https://digitpatrox.com/wordle-answer-for-today-september-22-2024/)
-* [September 6, 2024
+    ### Eight Strategies You Should Use in Almost Any Debate](https://digitpatrox.com/eight-strategies-you-should-use-in-almost-any-debate/)
+* [September 12, 2024
     
-    ### Everything You Need to Know](https://digitpatrox.com/everything-you-need-to-know/)
+    ### Google Cloud Strengthens Backup Service With Vaults](https://digitpatrox.com/google-cloud-strengthens-backup-service-with-vaults/)
+* [August 24, 2024
+    
+    ### To upgrade or not to upgrade? – Computerworld](https://digitpatrox.com/to-upgrade-or-not-to-upgrade-computerworld/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### Meta is laying off employees at WhatsApp, Instagram, and more](https://digitpatrox.com/meta-is-laying-off-employees-at-whatsapp-instagram-and-more/)
+* [2 hours ago
+    
+    ### Is Tom Holland’s Spider-Man in Venom 3? Here’s What Tom Hardy Has to Say](https://digitpatrox.com/is-tom-hollands-spider-man-in-venom-3-heres-what-tom-hardy-has-to-say/)
 * [3 hours ago
     
-    ### How to Spot and Avoid Fake Amazon Driver Text Messages](https://digitpatrox.com/how-to-spot-and-avoid-fake-amazon-driver-text-messages/)
-* [3 hours ago
-    
-    ### Business execs just said the quiet part out loud on RTO mandates: A quarter admit forcing staff back into the office was meant to make them quit — but this ‘quiet firing’ practice could easily backfire](https://digitpatrox.com/business-execs-just-said-the-quiet-part-out-loud-on-rto-mandates-a-quarter-admit-forcing-staff-back-into-the-office-was-meant-to-make-them-quit-but-this-quiet-firing-pract/)
-* [3 hours ago
-    
-    ### AI isn’t really that smart yet, Apple researchers warn – Computerworld](https://digitpatrox.com/ai-isnt-really-that-smart-yet-apple-researchers-warn-computerworld/)
+    ### Illinois school district notifies 1,500 people of data breach that compromised SSNs](https://digitpatrox.com/illinois-school-district-notifies-1500-people-of-data-breach-that-compromised-ssns/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
