@@ -266,6 +266,15 @@ Most Popular
 [Throwback Thursday: Partytime out and about Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1631961/throwback-thursday-partytime-out-and-about-derry-2009.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Dramatic increase in Ballykelly bug bites causing concern for locals ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dramatic increase in Ballykelly bug bites causing concern for locals ")](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
+
+Dramatic increase in Ballykelly bug bites causing concern for locals
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Dramatic increase in Ballykelly bug bites causing concern for locals](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall")](https://www.derrynow.com/news/arts---entertainment/1632346/tributes-in-ireland-as-one-direction-star-liam-payne-dies-in-argentina-balcony-fall.html)
 
 Liam Payne has died at the age of 31
@@ -275,6 +284,15 @@ Liam Payne has died at the age of 31
 [Tributes in Ireland as One Direction star Liam Payne dies in Argentina balcony fall](https://www.derrynow.com/news/arts---entertainment/1632346/tributes-in-ireland-as-one-direction-star-liam-payne-dies-in-argentina-balcony-fall.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry Girls mural on Badgers Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Girls mural on Badgers Bar")](https://www.derrynow.com/news/derry-news/1632866/derry-pub-reinstalls-controversial-awning-three-days-after-removal.html)
+
+Derry Girls mural on Badgers Bar
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry pub reinstalls controversial awning three days after removal](https://www.derrynow.com/news/derry-news/1632866/derry-pub-reinstalls-controversial-awning-three-days-after-removal.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -282,28 +300,21 @@ Liam Payne has died at the age of 31
 [Derry Death Notices - Thursday, October 17 2024](https://www.derrynow.com/news/deaths/1631960/derry-death-notices-thursday-october-17-2024.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Hope Walk to Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Hope Walk to Guildhall")](https://www.derrynow.com/news/pictures---videos/1631339/pictures-hope-walk-to-guildhall-to-raise-awareness-around-suicide.html)
+[![Yellow weather warning for Derry from the MET Office](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Yellow weather warning for Derry from the MET Office")](https://www.derrynow.com/news/derry-news/1632950/yellow-weather-warning-for-derry-from-the-met-office.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[PICTURES: Hope Walk to Guildhall](https://www.derrynow.com/news/pictures---videos/1631339/pictures-hope-walk-to-guildhall-to-raise-awareness-around-suicide.html)
+[Yellow weather warning for Derry from the MET Office](https://www.derrynow.com/news/derry-news/1632950/yellow-weather-warning-for-derry-from-the-met-office.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry man suffered panic attack after taking cocaine and handed himself into police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man suffered panic attack after taking cocaine and handed himself into police")](https://www.derrynow.com/news/home/1631987/county-derry-man-suffered-panic-attack-after-taking-cocaine-and-handed-himself-into-police.html)
+[![Police search for owner of 'significant sum' of money found in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police search for owner of 'significant sum' of money found in Derry")](https://www.derrynow.com/news/local-news/1632953/police-search-for-owner-of-significant-sum-of-money-found-in-derry.html)
 
-The defendant attended Magherafelt PSNI station seeking assistance.
+Police search for owner of 'significant sum' of money found in Derry
 
-[Home](https://www.derrynow.com/)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[County Derry man suffered panic attack after taking cocaine and handed himself into police](https://www.derrynow.com/news/home/1631987/county-derry-man-suffered-panic-attack-after-taking-cocaine-and-handed-himself-into-police.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry: 100 days on from Mickey Harte](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry: 100 days on from Mickey Harte")](https://www.derrynow.com/news/gaa/1631878/derry-100-days-on-from-mickey-harte.html)
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Derry: 100 days on from Mickey Harte](https://www.derrynow.com/news/gaa/1631878/derry-100-days-on-from-mickey-harte.html)
---------------------------------------------------------------------------------------------------------------------------
+[Police search for owner of 'significant sum' of money found in Derry](https://www.derrynow.com/news/local-news/1632953/police-search-for-owner-of-significant-sum-of-money-found-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Suspended sentence for Dungiven man charged with series of waste management offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Dungiven man charged with series of waste management offences")](https://www.derrynow.com/news/local-news/1632646/suspended-sentence-for-dungiven-man-charged-with-series-of-waste-management-offences.html)
 
@@ -321,27 +332,27 @@ Derry Crown Court
 [Belfast man charged with number of violent offences in Derry denied bail](https://www.derrynow.com/news/local-news/1632648/belfast-man-charged-with-number-of-violent-offences-in-derry-denied-bail.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Three charged following death of child in Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three charged following death of child in Northern Ireland")](https://www.derrynow.com/news/northern-ireland/1632339/three-charged-following-death-of-child-in-northern-ireland.html)
+[![Peggy Mae Sweeney ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Peggy Mae Sweeney ")](https://www.derrynow.com/news/derry-news/1632804/fundraiser-for-derry-baby-peggy-ahead-of-major-surgery-in-london.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+Peggy Mae Sweeney
 
-[Three charged following death of child in Northern Ireland](https://www.derrynow.com/news/northern-ireland/1632339/three-charged-following-death-of-child-in-northern-ireland.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[![Dramatic increase in Ballykelly bug bites causing concern for locals ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dramatic increase in Ballykelly bug bites causing concern for locals ")](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
-
-Dramatic increase in Ballykelly bug bites causing concern for locals
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Dramatic increase in Ballykelly bug bites causing concern for locals](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Fundraiser for Derry baby Peggy ahead of major surgery in London](https://www.derrynow.com/news/derry-news/1632804/fundraiser-for-derry-baby-peggy-ahead-of-major-surgery-in-london.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Derry 'Chat Tea Train' celebrates one year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry 'Chat Tea Train' celebrates one year")](https://www.derrynow.com/story-telling/pictures---videos/1632976/in-pictures-derry-chat-tea-train-celebrates-one-year.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry 'Chat Tea Train' celebrates one year](https://www.derrynow.com/story-telling/pictures---videos/1632976/in-pictures-derry-chat-tea-train-celebrates-one-year.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Throwback Thursday: Partytime out and about Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1631961/throwback-thursday-partytime-out-and-about-derry-2009.html)
 
@@ -405,13 +416,6 @@ Multimedia
 
 [PICTURES: Candlelight Procession for the Visit of the Relic of St. Bernadette](https://www.derrynow.com/news/pictures---videos/1629973/pictures-candlelight-procession-for-the-visit-of-the-relic-of-st-bernadette.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice")](https://www.derrynow.com/news/local-news/1629487/pictures-foyle-school-of-speech-and-drama-host-charity-feis-for-foyle-hospice.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Foyle School of Speech and Drama host charity Feis for Foyle Hospice](https://www.derrynow.com/news/local-news/1629487/pictures-foyle-school-of-speech-and-drama-host-charity-feis-for-foyle-hospice.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,57 +517,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Peggy Mae Sweeney ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Peggy Mae Sweeney ")](https://www.derrynow.com/news/derry-news/1632804/fundraiser-for-derry-baby-peggy-ahead-of-major-surgery-in-london.html)
+[![Man arrested after multiple reports of a vehicle being driven dangerously in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested after multiple reports of a vehicle being driven dangerously in Derry")](https://www.derrynow.com/news/local-news/1633143/man-arrested-after-multiple-reports-of-a-vehicle-being-driven-dangerously-in-derry.html)
 
-Peggy Mae Sweeney
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Fundraiser for Derry baby Peggy ahead of major surgery in London](https://www.derrynow.com/news/derry-news/1632804/fundraiser-for-derry-baby-peggy-ahead-of-major-surgery-in-london.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry entrepreneurs get ready to make the Ultimate Pitch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry entrepreneurs get ready to make the Ultimate Pitch")](https://www.derrynow.com/news/local-news/1632707/derry-entrepreneurs-get-ready-to-make-the-ultimate-pitch.html)
-
-Launch of the Ultimate Pitch. PHOTO: Kelvin Boyes / Press Eye.
+PSNI
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry entrepreneurs get ready to make the Ultimate Pitch](https://www.derrynow.com/news/local-news/1632707/derry-entrepreneurs-get-ready-to-make-the-ultimate-pitch.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man arrested after multiple reports of a vehicle being driven dangerously in Derry](https://www.derrynow.com/news/local-news/1633143/man-arrested-after-multiple-reports-of-a-vehicle-being-driven-dangerously-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Dramatic increase in Ballykelly bug bites causing concern for locals ](https://www.derrynow.com/resizer/165/93/true/2024_10_17/MixCollage-17-Oct-2024-12-08-PM-9263-1729163412633.jpg--.jpg?1729163412690 "Dramatic increase in Ballykelly bug bites causing concern for locals ")](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
-
-Dramatic increase in Ballykelly bug bites causing concern for locals
+[!['Halloween Hay Trail' is fantastic opportunity to get into the Halloween spirit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Halloween Hay Trail' is fantastic opportunity to get into the Halloween spirit")](https://www.derrynow.com/news/local-news/1632879/halloween-hay-trail-is-fantastic-opportunity-to-get-into-the-halloween-spirit.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Dramatic increase in Ballykelly bug bites causing concern for locals](https://www.derrynow.com/news/local-news/1632662/dramatic-increase-in-ballykelly-bug-bites-causing-concern-for-locals.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+['Halloween Hay Trail' is fantastic opportunity to get into the Halloween spirit](https://www.derrynow.com/news/local-news/1632879/halloween-hay-trail-is-fantastic-opportunity-to-get-into-the-halloween-spirit.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry representatives in Ulster squad ahead of Allianz GAA Football Inter-Provincial Series](https://www.derrynow.com/resizer/165/93/true/1520600660447.png--.png?1520600660000 "Derry representatives in Ulster squad ahead of Allianz GAA Football Inter-Provincial Series")](https://www.derrynow.com/news/gaa/1632653/derry-representatives-in-ulster-squad-ahead-of-allianz-gaa-football-inter-provincial-series.html)
+[![Derry small businesses encouraged to apply for development grant funding](https://www.derrynow.com/resizer/165/93/true/1484216066110.jpg--.jpg?1484216067000 "Derry small businesses encouraged to apply for development grant funding")](https://www.derrynow.com/news/local-news/1633016/derry-small-businessesencouraged-to-apply-for-development-grant-funding.html)
 
-Ulster GAA
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry small businesses encouraged to apply for development grant funding](https://www.derrynow.com/news/local-news/1633016/derry-small-businessesencouraged-to-apply-for-development-grant-funding.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![St. Patrick's Maghera All-Ireland 7's winning team (Instagram: St. Patrick's Maghera)](https://www.derrynow.com/resizer/165/93/true/2024_10_17/camogie_champions-1729176802973.PNG--.PNG?1729176803025 "St. Patrick's Maghera All-Ireland 7's winning team (Instagram: St. Patrick's Maghera)")](https://www.derrynow.com/news/gaa/1632968/county-derry-school-crowned-all-ireland-7-s-camogie-champions.html)
+
+St. Patrick's Maghera All-Ireland 7's winning team (Instagram: St. Patrick's Maghera)
 
 [GAA](https://www.derrynow.com/section/1060/gaa)
 
-[Derry representatives in Ulster squad ahead of Allianz GAA Football Inter-Provincial Series](https://www.derrynow.com/news/gaa/1632653/derry-representatives-in-ulster-squad-ahead-of-allianz-gaa-football-inter-provincial-series.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry school crowned All-Ireland 7's camogie champions](https://www.derrynow.com/news/gaa/1632968/county-derry-school-crowned-all-ireland-7-s-camogie-champions.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Belfast man charged with number of violent offences in Derry denied bail](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Belfast man charged with number of violent offences in Derry denied bail")](https://www.derrynow.com/news/local-news/1632648/belfast-man-charged-with-number-of-violent-offences-in-derry-denied-bail.html)
+[![Police search for owner of 'significant sum' of money found in Derry](https://www.derrynow.com/resizer/165/93/true/2015/04/17112652/strandroadpolicestation.jpg--.jpg "Police search for owner of 'significant sum' of money found in Derry")](https://www.derrynow.com/news/local-news/1632953/police-search-for-owner-of-significant-sum-of-money-found-in-derry.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Belfast man charged with number of violent offences in Derry denied bail](https://www.derrynow.com/news/local-news/1632648/belfast-man-charged-with-number-of-violent-offences-in-derry-denied-bail.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for Dungiven man charged with series of waste management offences](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Suspended sentence for Dungiven man charged with series of waste management offences")](https://www.derrynow.com/news/local-news/1632646/suspended-sentence-for-dungiven-man-charged-with-series-of-waste-management-offences.html)
-
-Derry Crown Court
+Police search for owner of 'significant sum' of money found in Derry
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Suspended sentence for Dungiven man charged with series of waste management offences](https://www.derrynow.com/news/local-news/1632646/suspended-sentence-for-dungiven-man-charged-with-series-of-waste-management-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police search for owner of 'significant sum' of money found in Derry](https://www.derrynow.com/news/local-news/1632953/police-search-for-owner-of-significant-sum-of-money-found-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Yellow weather warning for Derry from the MET Office](https://www.derrynow.com/resizer/165/93/true/e680029b8801704723d9cd227ef70cbb.jpg--.jpg?1482417739000 "Yellow weather warning for Derry from the MET Office")](https://www.derrynow.com/news/derry-news/1632950/yellow-weather-warning-for-derry-from-the-met-office.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Yellow weather warning for Derry from the MET Office](https://www.derrynow.com/news/derry-news/1632950/yellow-weather-warning-for-derry-from-the-met-office.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
