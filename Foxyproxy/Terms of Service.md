@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-It has been great having FoxyProxy for the past 3-4 years while I was out of the UK and I've recommended it to a bunch of people over that time.
+Thank you as always for the amazing service! You can rest assured of my business with you for life.
 
-Claudia Coory
+Ethan
