@@ -15,56 +15,56 @@
     
     Trending
     
+    * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
     * [European Union](https://www.euronews.com/tag/european-union)
-    * [France](https://www.euronews.com/tag/france)
-    * [Hurricanes](https://www.euronews.com/tag/hurricanes)
-    * [Exhibition](https://www.euronews.com/tag/exhibition)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
+    * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+    * [Italy](https://www.euronews.com/tag/italy)
+    * [Migration Policy](https://www.euronews.com/tag/migration-policy)
     
     * * *
     
     Latest stories
     
-    [![Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.")
+    [![1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.")
     
-    ![Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.](https://static.euronews.com/articles/stories/08/77/95/06/368x207_cmsv2_82d18232-a42c-5e8c-997f-a286a53d2040-8779506.jpg "Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.")](https://www.euronews.com/my-europe/2024/10/09/viktor-orban-and-ursula-von-der-leyen-clash-in-fiery-debate-at-european-parliament)
-    
-    Now playing Next
-    
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [Orbán and von der Leyen clash in fiery parliamentary debate](https://www.euronews.com/my-europe/2024/10/09/viktor-orban-and-ursula-von-der-leyen-clash-in-fiery-debate-at-european-parliament)
-    
-    [![Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris")
-    
-    ![Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris](https://static.euronews.com/articles/stories/08/77/96/78/368x207_cmsv2_c5c9572c-1db7-5cb4-bbfd-4e0c90829e04-8779678.jpg "Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris")](https://www.euronews.com/my-europe/2024/10/09/emmanuel-macron-to-meet-ukrainian-troops-training-at-french-military-camp)
-    
-    Now playing Next
-    
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [Emmanuel Macron to meet Ukrainian troops training at French camp](https://www.euronews.com/my-europe/2024/10/09/emmanuel-macron-to-meet-ukrainian-troops-training-at-french-military-camp)
-    
-    [![The FTSE Russell is part of the LSEG group](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The FTSE Russell is part of the LSEG group")
-    
-    ![The FTSE Russell is part of the LSEG group](https://static.euronews.com/articles/stories/08/77/97/56/368x207_cmsv2_20f41b0f-e71d-5c3c-af75-290b75168648-8779756.jpg "The FTSE Russell is part of the LSEG group")](https://www.euronews.com/business/2024/10/09/ftse-russell-to-include-south-korean-and-indian-government-bonds)
-    
-    Now playing Next
-    
-    [Markets](https://www.euronews.com/business/markets)
-    
-    ### [FTSE Russell to include South Korean and Indian government bonds](https://www.euronews.com/business/2024/10/09/ftse-russell-to-include-south-korean-and-indian-government-bonds)
-    
-    [![The aquarium evacuates its animals in the face of Hurricane Milton](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The aquarium evacuates its animals in the face of Hurricane Milton")
-    
-    ![The aquarium evacuates its animals in the face of Hurricane Milton](https://static.euronews.com/articles/stories/08/77/95/22/368x207_cmsv2_80ad94ea-6405-51f7-9405-3abb345fcfaa-8779522.jpg "The aquarium evacuates its animals in the face of Hurricane Milton")](https://www.euronews.com/video/2024/10/09/aquarium-animals-relocated-as-florida-prepares-for-hurricane-milton)
+    ![1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.](https://static.euronews.com/articles/stories/08/79/59/38/368x207_cmsv2_f4bb5eb9-d4bc-57dc-94b1-92fc320f3850-8795938.jpg "1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.")](https://www.euronews.com/video/2024/10/17/no-comment-fans-hold-vigil-for-liam-payne-in-buenos-aires)
     
     Now playing Next
     
     [No Comment](https://www.euronews.com/nocomment)
     
-    ### [Aquarium animals relocated as Florida prepares for Hurricane Milton](https://www.euronews.com/video/2024/10/09/aquarium-animals-relocated-as-florida-prepares-for-hurricane-milton)
+    ### [No Comment: Fans hold vigil for Liam Payne in Buenos Aires](https://www.euronews.com/video/2024/10/17/no-comment-fans-hold-vigil-for-liam-payne-in-buenos-aires)
+    
+    [![London's financial district](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "London's financial district")
+    
+    ![London's financial district](https://static.euronews.com/articles/stories/08/79/65/28/368x207_cmsv2_720455cf-252a-5725-bada-7dac063c2ff2-8796528.jpg "London's financial district")](https://www.euronews.com/business/2024/10/17/brexit-cost-thousands-of-finance-jobs-in-london-says-lord-mayor)
+    
+    Now playing Next
+    
+    [Business](https://www.euronews.com/business/business)
+    
+    ### [Brexit cost thousands of finance jobs in London says Lord Mayor](https://www.euronews.com/business/2024/10/17/brexit-cost-thousands-of-finance-jobs-in-london-says-lord-mayor)
+    
+    [![Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.")
+    
+    ![Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.](https://static.euronews.com/articles/stories/08/79/62/98/368x207_cmsv2_3fb1b4d3-164c-52d0-a96c-6380de36b6fe-8796298.jpg "Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.")](https://www.euronews.com/2024/10/17/anti-whaling-activist-paul-watson-seeks-political-asylum-in-france-to-avoid-extradition-to)
+    
+    Now playing Next
+    
+    [France](https://www.euronews.com/news/europe/france)
+    
+    ### [Anti-whaling activist Paul Watson seeks political asylum in France](https://www.euronews.com/2024/10/17/anti-whaling-activist-paul-watson-seeks-political-asylum-in-france-to-avoid-extradition-to)
+    
+    [![Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister")
+    
+    ![Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister](https://static.euronews.com/articles/stories/08/79/64/70/368x207_cmsv2_a2a04435-100c-5f84-8bd8-a9b574e9863c-8796470.jpg "Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister")](https://www.euronews.com/my-europe/2024/10/17/zelenskyys-victory-plan-whats-the-deal-with-ukraine-and-nato)
+    
+    Now playing Next
+    
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    
+    ### [Zelenskyy's 'victory plan': What’s the deal with Ukraine and NATO?](https://www.euronews.com/my-europe/2024/10/17/zelenskyys-victory-plan-whats-the-deal-with-ukraine-and-nato)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -77,9 +77,7 @@
     
     Programmes
     
-    * [Unreported Europe](https://www.euronews.com/my-europe/my-europe-series/unreported-europe)
     * [Brussels, My Love?](https://www.euronews.com/my-europe/europe-decoded/brussels-my-love)
-    * [Uncovering Europe](https://www.euronews.com/my-europe/my-europe-series/uncovering-europe)
     * [State Of The Union](https://www.euronews.com/my-europe/my-europe-series/state-of-the-union)
     * [Smart Regions](https://www.euronews.com/my-europe/my-europe-series/smart-regions)
     
@@ -167,7 +165,7 @@
         
         The Big Question
         
-        From entrepreneurs to world leaders and academics, we discuss what makes them tick and see the bigger picture of what’s going on in the world of business.](https://www.euronews.com/business/business-series/the-big-question)
+        Deep dive conversations with business leaders](https://www.euronews.com/business/business-series/the-big-question)
     
 * [Euroviews](https://www.euronews.com/tag/euroviews)
 * [Next](https://www.euronews.com/next)
@@ -357,62 +355,62 @@ Close menu sidebar
 
 Trending
 
+* [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
 * [European Union](https://www.euronews.com/tag/european-union)
-* [France](https://www.euronews.com/tag/france)
-* [Hurricanes](https://www.euronews.com/tag/hurricanes)
-* [Exhibition](https://www.euronews.com/tag/exhibition)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
+* [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+* [Italy](https://www.euronews.com/tag/italy)
+* [Migration Policy](https://www.euronews.com/tag/migration-policy)
 
 * * *
 
 Latest stories
 
-[![Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.")
+[![1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.")
 
-![Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.](https://static.euronews.com/articles/stories/08/77/95/06/368x207_cmsv2_82d18232-a42c-5e8c-997f-a286a53d2040-8779506.jpg "Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.")](https://www.euronews.com/my-europe/2024/10/09/viktor-orban-and-ursula-von-der-leyen-clash-in-fiery-debate-at-european-parliament)
-
-Now playing Next
-
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-
-### [Orbán and von der Leyen clash in fiery parliamentary debate](https://www.euronews.com/my-europe/2024/10/09/viktor-orban-and-ursula-von-der-leyen-clash-in-fiery-debate-at-european-parliament)
-
-* * *
-
-[![Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris")
-
-![Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris](https://static.euronews.com/articles/stories/08/77/96/78/368x207_cmsv2_c5c9572c-1db7-5cb4-bbfd-4e0c90829e04-8779678.jpg "Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris")](https://www.euronews.com/my-europe/2024/10/09/emmanuel-macron-to-meet-ukrainian-troops-training-at-french-military-camp)
-
-Now playing Next
-
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-
-### [Emmanuel Macron to meet Ukrainian troops training at French camp](https://www.euronews.com/my-europe/2024/10/09/emmanuel-macron-to-meet-ukrainian-troops-training-at-french-military-camp)
-
-* * *
-
-[![The FTSE Russell is part of the LSEG group](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The FTSE Russell is part of the LSEG group")
-
-![The FTSE Russell is part of the LSEG group](https://static.euronews.com/articles/stories/08/77/97/56/368x207_cmsv2_20f41b0f-e71d-5c3c-af75-290b75168648-8779756.jpg "The FTSE Russell is part of the LSEG group")](https://www.euronews.com/business/2024/10/09/ftse-russell-to-include-south-korean-and-indian-government-bonds)
-
-Now playing Next
-
-[Markets](https://www.euronews.com/business/markets)
-
-### [FTSE Russell to include South Korean and Indian government bonds](https://www.euronews.com/business/2024/10/09/ftse-russell-to-include-south-korean-and-indian-government-bonds)
-
-* * *
-
-[![The aquarium evacuates its animals in the face of Hurricane Milton](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The aquarium evacuates its animals in the face of Hurricane Milton")
-
-![The aquarium evacuates its animals in the face of Hurricane Milton](https://static.euronews.com/articles/stories/08/77/95/22/368x207_cmsv2_80ad94ea-6405-51f7-9405-3abb345fcfaa-8779522.jpg "The aquarium evacuates its animals in the face of Hurricane Milton")](https://www.euronews.com/video/2024/10/09/aquarium-animals-relocated-as-florida-prepares-for-hurricane-milton)
+![1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.](https://static.euronews.com/articles/stories/08/79/59/38/368x207_cmsv2_f4bb5eb9-d4bc-57dc-94b1-92fc320f3850-8795938.jpg "1D fans outside the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital.")](https://www.euronews.com/video/2024/10/17/no-comment-fans-hold-vigil-for-liam-payne-in-buenos-aires)
 
 Now playing Next
 
 [No Comment](https://www.euronews.com/nocomment)
 
-### [Aquarium animals relocated as Florida prepares for Hurricane Milton](https://www.euronews.com/video/2024/10/09/aquarium-animals-relocated-as-florida-prepares-for-hurricane-milton)
+### [No Comment: Fans hold vigil for Liam Payne in Buenos Aires](https://www.euronews.com/video/2024/10/17/no-comment-fans-hold-vigil-for-liam-payne-in-buenos-aires)
+
+* * *
+
+[![London's financial district](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "London's financial district")
+
+![London's financial district](https://static.euronews.com/articles/stories/08/79/65/28/368x207_cmsv2_720455cf-252a-5725-bada-7dac063c2ff2-8796528.jpg "London's financial district")](https://www.euronews.com/business/2024/10/17/brexit-cost-thousands-of-finance-jobs-in-london-says-lord-mayor)
+
+Now playing Next
+
+[Business](https://www.euronews.com/business/business)
+
+### [Brexit cost thousands of finance jobs in London says Lord Mayor](https://www.euronews.com/business/2024/10/17/brexit-cost-thousands-of-finance-jobs-in-london-says-lord-mayor)
+
+* * *
+
+[![Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.")
+
+![Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.](https://static.euronews.com/articles/stories/08/79/62/98/368x207_cmsv2_3fb1b4d3-164c-52d0-a96c-6380de36b6fe-8796298.jpg "Paul Watson, the founder and president of Sea Shepherd, attends a demonstration against the Costa Rican government in 2012.")](https://www.euronews.com/2024/10/17/anti-whaling-activist-paul-watson-seeks-political-asylum-in-france-to-avoid-extradition-to)
+
+Now playing Next
+
+[France](https://www.euronews.com/news/europe/france)
+
+### [Anti-whaling activist Paul Watson seeks political asylum in France](https://www.euronews.com/2024/10/17/anti-whaling-activist-paul-watson-seeks-political-asylum-in-france-to-avoid-extradition-to)
+
+* * *
+
+[![Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister")
+
+![Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister](https://static.euronews.com/articles/stories/08/79/64/70/368x207_cmsv2_a2a04435-100c-5f84-8bd8-a9b574e9863c-8796470.jpg "Former NATO Secretary General Jens Stoltenberg, center left, speaks with Ukraine's President Volodymyr Zelenskyy, right, on arrival prior to a meeting of NATO defense minister")](https://www.euronews.com/my-europe/2024/10/17/zelenskyys-victory-plan-whats-the-deal-with-ukraine-and-nato)
+
+Now playing Next
+
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+
+### [Zelenskyy's 'victory plan': What’s the deal with Ukraine and NATO?](https://www.euronews.com/my-europe/2024/10/17/zelenskyys-victory-plan-whats-the-deal-with-ukraine-and-nato)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -425,9 +423,7 @@ Categories
 
 Programmes
 
-* [Unreported Europe](https://www.euronews.com/my-europe/my-europe-series/unreported-europe)
 * [Brussels, My Love?](https://www.euronews.com/my-europe/europe-decoded/brussels-my-love)
-* [Uncovering Europe](https://www.euronews.com/my-europe/my-europe-series/uncovering-europe)
 * [State Of The Union](https://www.euronews.com/my-europe/my-europe-series/state-of-the-union)
 * [Smart Regions](https://www.euronews.com/my-europe/my-europe-series/smart-regions)
 
@@ -516,7 +512,7 @@ Featured
     
     The Big Question
     
-    From entrepreneurs to world leaders and academics, we discuss what makes them tick and see the bigger picture of what’s going on in the world of business.](https://www.euronews.com/business/business-series/the-big-question)
+    Deep dive conversations with business leaders](https://www.euronews.com/business/business-series/the-big-question)
 
 [Euroviews](https://www.euronews.com/tag/euroviews)
 
