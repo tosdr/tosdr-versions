@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)12°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)11°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,17 +54,9 @@
 
 Thèmes du moment
 
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Police](https://www.watson.ch/fr/police/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
-* [Russie](https://www.watson.ch/fr/russie/)
-* [People](https://www.watson.ch/fr/people/)
-* [Justice](https://www.watson.ch/fr/justice/)
-* [Parlement](https://www.watson.ch/fr/parlement/)
-* [Santé](https://www.watson.ch/fr/sante/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Conseil fédéral](https://www.watson.ch/fr/conseil-federal/)
 * [Football](https://www.watson.ch/fr/football/)
+* [France](https://www.watson.ch/fr/france/)
 * [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
 * [Crime](https://www.watson.ch/fr/crime/)
 * [guerre](https://www.watson.ch/fr/guerre/)
@@ -72,8 +64,16 @@ Thèmes du moment
 * [ukraine](https://www.watson.ch/fr/ukraine/)
 * [Kim Jong-un](https://www.watson.ch/fr/kim-jong-un/)
 * [Volodymyr Zelensky](https://www.watson.ch/fr/volodymyr-zelensky/)
+* [People](https://www.watson.ch/fr/people/)
+* [Santé](https://www.watson.ch/fr/sante/)
+* [Justice](https://www.watson.ch/fr/justice/)
 * [Corée du Nord](https://www.watson.ch/fr/coree-du-nord/)
-* [France](https://www.watson.ch/fr/france/)
+* [Parlement](https://www.watson.ch/fr/parlement/)
+* [Russie](https://www.watson.ch/fr/russie/)
+* [Police](https://www.watson.ch/fr/police/)
+* [Poutine](https://www.watson.ch/fr/poutine/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
