@@ -222,49 +222,49 @@ em macaé
 
 Questões de concurso público são anuladas por conteúdo machista
 
-Questões de concurso público são anuladas por conteúdo machista](https://www.tnh1.com.br/noticia/nid/questoes-de-concurso-publico-sao-anuladas-por-conteudo-machista/ "Questões de concurso público são anuladas por conteúdo machista")[![Menino de 9 anos invade hospital veterinário e mata 23 animais no PR](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_crianca-invade-hospital-veterinario_d24bd698b9.jpg)
+Questões de concurso público são anuladas por conteúdo machista](https://www.tnh1.com.br/noticia/nid/questoes-de-concurso-publico-sao-anuladas-por-conteudo-machista/ "Questões de concurso público são anuladas por conteúdo machista")[![Fisiculturista brasileira é internada com desidratação severa após pódio no Mr. Olympia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/f/csm_fisiculturista-internada-reproducao-redes-sociais_1d6a3779e1.jpg)
 
-15 coelhos
+25 anos
 
-15 coelhos
+25 anos
 
-Menino de 9 anos invade hospital veterinário e mata 23 animais no PR
+Fisiculturista brasileira é internada com desidratação severa após pódio no Mr. Olympia
 
-Menino de 9 anos invade hospital veterinário e mata 23 animais no PR](https://www.tnh1.com.br/noticia/nid/menino-de-9-anos-invade-hospital-veterinario-e-mata-23-animais-no-pr/ "Menino de 9 anos invade hospital veterinário e mata 23 animais no PR")
+Fisiculturista brasileira é internada com desidratação severa após pódio no Mr. Olympia](https://www.tnh1.com.br/noticia/nid/fisiculturista-brasileira-e-internada-com-desidratacao-severa-apos-podio-no-mr-olympia/ "Fisiculturista brasileira é internada com desidratação severa após pódio no Mr. Olympia")
 
-[![Liam Payne, do One Direction, morre aos 31 anos, diz site](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/2/csm_liam-payne-01-press-photo-new-2018-billboard-1548_4688a64678.jpg)
+[![Passageira pula de carro após ser assediada por motorista de app](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/4/csm_Passageira_pula_de_carro_apos_ser_assediada_por_motorista_de_app_em_SP_-_foto_Reproducao_TV_Globo_8a26a6fa79.jpg)
 
-caiu de prédio
+28 anos
 
-caiu de prédio
+28 anos
 
-Liam Payne, do One Direction, morre aos 31 anos, diz site
+Passageira pula de carro após ser assediada por motorista de app
 
-Liam Payne, do One Direction, morre aos 31 anos, diz site](https://www.tnh1.com.br/noticia/nid/liam-payne-do-one-direction-morre-aos-31-anos-diz-site/ "Liam Payne, do One Direction, morre aos 31 anos, diz site")[![Consórcio Nordeste cria comitê para monitorar emergências climáticas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/3/csm_seca_do_rio_sao_francisco_1012150258-ag-brasil_a86992ae3e.jpg)
+Passageira pula de carro após ser assediada por motorista de app](https://www.tnh1.com.br/noticia/nid/passageira-pula-de-carro-apos-ser-assediada-por-motorista-de-app/ "Passageira pula de carro após ser assediada por motorista de app")[![Porchat revela que já 'ignorou' Fernanda Montenegro: 'Achei que era golpe'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/a/csm_Porchat_revela_que_ja__ignorou__Fernanda_Montenegro_-_foto_Reproducao_e9e25afe53.jpg)
 
-em nove estados
+já pensou?
 
-em nove estados
+já pensou?
 
-Consórcio Nordeste cria comitê para monitorar emergências climáticas
+Porchat revela que já 'ignorou' Fernanda Montenegro: 'Achei que era golpe'
 
-Consórcio Nordeste cria comitê para monitorar emergências climáticas](https://www.tnh1.com.br/noticia/nid/consorcio-nordeste-cria-comite-para-monitorar-emergencias-climaticas/ "Consórcio Nordeste cria comitê para monitorar emergências climáticas")[![Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/0/csm_ryan-gosling-eva-mendes-filho-reproducao_3a63cbbc81.jpg)
+Porchat revela que já 'ignorou' Fernanda Montenegro: 'Achei que era golpe'](https://www.tnh1.com.br/noticia/nid/porchat-revela-que-ja-ignorou-fernanda-montenegro-achei-que-era-golpe/ "Porchat revela que já 'ignorou' Fernanda Montenegro: 'Achei que era golpe'")[![Fiocruz oficializa pedido para produzir vacina contra dengue no Brasil](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/9/csm_Fiocruz_oficializa_pedido_para_produzir_vacina_contra_dengue_no_Brasil_-_foto_Tony_Oliveira_-_Ag_Brasilia_060d9e0125.jpg)
 
-Gente Famosa
+Qdenga
 
-Gente Famosa
+Qdenga
 
-Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'
+Fiocruz oficializa pedido para produzir vacina contra dengue no Brasil
 
-Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'](https://www.tnh1.com.br/noticia/nid/eva-mendes-se-emociona-ao-revelar-maior-dificuldade-de-criar-filhas-com-ator-nao-e-justo/ "Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'")[![Mulher morre após ser mordida por hamster de estimação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/4/csm_european-hamster-flowering-meadow__1__74177c33f0.jpg)
+Fiocruz oficializa pedido para produzir vacina contra dengue no Brasil](https://www.tnh1.com.br/noticia/nid/fiocruz-oficializa-pedido-para-produzir-vacina-contra-dengue-no-brasil/ "Fiocruz oficializa pedido para produzir vacina contra dengue no Brasil")[![Refugiada e médica, atleta do Milan costura própria perna após lesão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/3/csm_Atleta_do_Milan__Nadia_Nadim_-_Reproducao_-_Instagram_%40nadi9nadim_9e0fc0db38.jpg)
 
-38 anos
+Nadia Nadim
 
-38 anos
+Nadia Nadim
 
-Mulher morre após ser mordida por hamster de estimação
+Refugiada e médica, atleta do Milan costura própria perna após lesão
 
-Mulher morre após ser mordida por hamster de estimação](https://www.tnh1.com.br/noticia/nid/mulher-morre-apos-ser-mordida-por-hamster-de-estimacao/ "Mulher morre após ser mordida por hamster de estimação")
+Refugiada e médica, atleta do Milan costura própria perna após lesão](https://www.tnh1.com.br/noticia/nid/refugiada-e-medica-atleta-do-milan-costura-propria-perna-apos-lesao/ "Refugiada e médica, atleta do Milan costura própria perna após lesão")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
