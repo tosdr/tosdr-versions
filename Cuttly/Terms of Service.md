@@ -307,7 +307,7 @@ Link Management
 Cuttly Tools
 ------------
 
-* [Cuttly Platform](https://cutt.ly/resources/tools)
+* [Cuttly Platform](https://cutt.ly/resources/tools/)
 * [URL shortener tool](https://cutt.ly/resources/tools/url-shortener)
 * [Link analytics tool](https://cutt.ly/resources/tools/link-analytics)
 * [Cuttly Surveys](https://cutt.ly/resources/tools/cuttly-surveys)
@@ -320,8 +320,8 @@ Cuttly Tools
 Cuttly Resources
 ----------------
 
-* [Blog](https://cutt.ly/resources/blog)
-* [Support](https://cutt.ly/resources/support)
+* [Blog](https://cutt.ly/resources/blog/)
+* [Support](https://cutt.ly/resources/support/)
 * [Integrations](https://cutt.ly/resources/integrations)
 * [Status](https://status.cutt.ly/)
 
@@ -335,4 +335,4 @@ Legal & Policies
 * [Abuse report](https://cutt.ly/report)
 * [Contact](https://cutt.ly/contact)
 
-© 2024 cutt.ly | Made by [![Web Room Studio](img/wrs.svg)](http://webroomstudio.pl/ "Cutt.ly by Web Room Studio")
+© 2024 cutt.ly | Made by [![Web Room Studio](img/wrs.svg)](https://webroomstudio.pl/ "Cutt.ly by Web Room Studio")
