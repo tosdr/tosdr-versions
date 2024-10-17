@@ -296,7 +296,6 @@ Advertise
 
 ### [Here’s what happened at the Financial Review’s prestige watch weekends](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-what-happened-at-the-financial-review-s-prestige-watch-weekends-20240829-p5k6ff)
 
-* 55 mins ago
 * Bani McSpedden
 
 * ### [Outback-inspired pieces set to go on show at Design Miami fair](https://www.afr.com/life-and-luxury/design/outback-inspired-pieces-set-to-go-on-show-at-design-miami-fair-20240829-p5k6fa)
@@ -311,7 +310,6 @@ Advertise
 
 ### [This year’s worst corporate jargon, and the woman trying to fight it](https://www.afr.com/work-and-careers/workplace/this-year-s-worst-corporate-jargon-and-the-woman-trying-to-fight-it-20241009-p5kh24)
 
-* 55 mins ago
 * Patrick Durkin
 
 * ### [Why Nelson Mandela’s election was a turning point for this CEO](https://www.afr.com/work-and-careers/workplace/why-nelson-mandela-s-election-was-a-turning-point-for-this-ceo-20241014-p5ki0u)
@@ -326,7 +324,6 @@ Advertise
 
 ### [This World War II cognac could be yours for a ‘mere’ $1299 a bottle](https://www.afr.com/life-and-luxury/food-and-wine/this-world-war-ii-cognac-could-be-yours-for-a-mere-1299-a-bottle-20241008-p5kgpp)
 
-* 55 mins ago
 * Max Allen
 
 * ### [Why you would go skiing in Whistler in spring](https://www.afr.com/life-and-luxury/travel/why-you-would-go-skiing-in-whistler-in-spring-20240505-p5fp1z)
