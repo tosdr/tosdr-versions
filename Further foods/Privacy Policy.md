@@ -8,8 +8,7 @@
     
 * **10,000+ 5 STAR REVIEWS ⭐️⭐️⭐️⭐️⭐️**
     
-* **PUMPKIN SPICE COLLAGEN IS HERE!** [**SHOP NOW >>**](https://www.furtherfood.com/products/pumpkin-spice-collagen-powder "Pumpkin Spice Collagen Powder")
-    
+* [**OUR FALL FAVORITES SALE IS ON! SAVOR THE SEASON & SAVE UP TO 25%**](https://www.furtherfood.com/collections/fall-favorites-sale)
 * **TRY WITH OUR 30-DAY MONEY BACK GUARANTEE**
     
 
