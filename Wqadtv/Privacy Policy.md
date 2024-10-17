@@ -32,14 +32,12 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_360x203.jpg)](https://www.wqad.com/article/money/business/john-deere/congressional-candidates-react-latest-john-deere-layoffs/526-8ab271b2-d0ed-4120-b8ee-d8a9af8c9e31)
         
-        #### [Congressional candidates react to latest John Deere layoffs](https://www.wqad.com/article/money/business/john-deere/congressional-candidates-react-latest-john-deere-layoffs/526-8ab271b2-d0ed-4120-b8ee-d8a9af8c9e31) [![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_360x203.jpg)](https://www.wqad.com/article/money/business/john-deere/congressional-candidates-react-latest-john-deere-layoffs/526-8ab271b2-d0ed-4120-b8ee-d8a9af8c9e31)
+        #### [Congressional candidates react to latest John Deere layoffs](https://www.wqad.com/article/money/business/john-deere/congressional-candidates-react-latest-john-deere-layoffs/526-8ab271b2-d0ed-4120-b8ee-d8a9af8c9e31)
         
-        #### [Politicians, candidates react to latest John Deere layoffs in the Quad Cities](https://www.wqad.com/article/money/business/john-deere/congressional-candidates-react-latest-john-deere-layoffs/526-8ab271b2-d0ed-4120-b8ee-d8a9af8c9e31)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/e8818ec1-7873-49f2-81e3-aa1f432d1e8d/20241017T021051/e8818ec1-7873-49f2-81e3-aa1f432d1e8d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e8818ec1-7873-49f2-81e3-aa1f432d1e8d/20241017T021051/e8818ec1-7873-49f2-81e3-aa1f432d1e8d_360x203.jpg)](https://www.wqad.com/article/news/education/mercer-county-football-coach-suspended-following-incident/526-e2049449-c969-41b6-81d1-ec2b582f56ea)
         
-        #### [Mercer County football coach suspended indefinitely](https://www.wqad.com/article/news/education/mercer-county-football-coach-suspended-following-incident/526-e2049449-c969-41b6-81d1-ec2b582f56ea) [![](https://media.tegna-media.com/assets/WQAD/images/e8818ec1-7873-49f2-81e3-aa1f432d1e8d/20241017T021051/e8818ec1-7873-49f2-81e3-aa1f432d1e8d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e8818ec1-7873-49f2-81e3-aa1f432d1e8d/20241017T021051/e8818ec1-7873-49f2-81e3-aa1f432d1e8d_360x203.jpg)](https://www.wqad.com/article/news/education/mercer-county-football-coach-suspended-following-incident/526-e2049449-c969-41b6-81d1-ec2b582f56ea)
+        #### [Mercer County football coach suspended indefinitely](https://www.wqad.com/article/news/education/mercer-county-football-coach-suspended-following-incident/526-e2049449-c969-41b6-81d1-ec2b582f56ea)
         
-        #### [Community Reacts as Mercer County Football Coach Faces Suspension](https://www.wqad.com/article/news/education/mercer-county-football-coach-suspended-following-incident/526-e2049449-c969-41b6-81d1-ec2b582f56ea)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -88,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-40°
+37°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
