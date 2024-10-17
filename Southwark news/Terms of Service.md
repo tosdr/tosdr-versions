@@ -215,23 +215,23 @@ Terms of Use
 
 [11th October 2024](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
 
+[![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+
+### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+
+[15th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+
+[![Nursery Row Park, Walworth. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Nursery-Row-Park-Walworth.-Image-Southwark-Council-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
+
+### [Walworth park once denounced as crime hotspot set for exciting revamp](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
+
+[15th October 2024](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
+
 [![Romain Esse in action against West Bromwich Albion. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Esse-292902-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-winger-receives-plaudits-for-performance-after-bagging-assist-during-england-under-20s-win-over-italy-under-20s/)
 
 ### [Millwall winger receives plaudits for performance after bagging assist during England Under-20s win over Italy Under-20s](https://southwarknews.co.uk/sport/football/millwall/millwall-winger-receives-plaudits-for-performance-after-bagging-assist-during-england-under-20s-win-over-italy-under-20s/)
 
 [11th October 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-winger-receives-plaudits-for-performance-after-bagging-assist-during-england-under-20s-win-over-italy-under-20s/)
-
-[![L: Resident shares her opinion; R: Brixton Village (credit: Isabel Ramírez)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-12.46-120x86.jpg)](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
-
-### [Exclusive: Brixton Market traders say they ‘were not told’ about the market going up for sale](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
-
-[11th October 2024](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
-
-[![Tanganga heads the ball away against West Bromwich Albion. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tanganga-72828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
-
-### [‘It has a nice little ring to it’ – Millwall defender pleased with chant](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
-
-[15th October 2024](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
 
 ### Featured Articles
 
