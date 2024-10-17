@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-vrije-mens-vs-de-belastingdienst/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/maarten-van-rossem-is-het-angstzaaien-zat/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
