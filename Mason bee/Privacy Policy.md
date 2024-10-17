@@ -19,7 +19,7 @@ Menu
     * [Robert Louis Stevenson Trail](https://tane.harre.nz/tags/robert-louis-stevenson-trail/)
     * [Te Araroa](https://tane.harre.nz/tags/te-araroa/)
 
-Last Updated: 15/10/2024
+Last Updated: 17/10/2024
 
 Privacy Policy
 ==============
@@ -121,11 +121,11 @@ I am a New Zealander, living in France, who is interested in guitar, hiking, ope
 
 07/05/2018
 
-[![](https://tane.harre.nz/media/posts/687/responsive/Fake_News-xs.jpeg)](https://tane.harre.nz/does-trade-me-deserve-the-privacy-trust-mark/)
+[![](https://tane.harre.nz/media/posts/686/responsive/The_Privacy_Shop_banner-1080x496-xs.jpg)](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
 
-#### [Does Trade Me deserve the Privacy Trust Mark?](https://tane.harre.nz/does-trade-me-deserve-the-privacy-trust-mark/)
+#### [What is the cost of privacy online?](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
 
-13/05/2018
+12/05/2018
 
 Comments
 --------
@@ -155,7 +155,8 @@ Comments
 * [Appenzell](https://tane.harre.nz/tags/appenzell/) (6)
 * [Avon](https://tane.harre.nz/tags/avon/) (1)
 * [Barbizon](https://tane.harre.nz/tags/barbizon/) (3)
-* [Bourron Marlotte](https://tane.harre.nz/tags/bourron-marlotte/) (4)
+* [Bois le Roi](https://tane.harre.nz/tags/bois-le-roi/) (1)
+* [Bourron Marlotte](https://tane.harre.nz/tags/bourron-marlotte/) (5)
 * [Coromandel](https://tane.harre.nz/tags/coromandel/) (6)
 * [COVID-19](https://tane.harre.nz/tags/covid-19/) (10)
 * [Dammarie-les-Lys](https://tane.harre.nz/tags/dammarie-les-lys/) (1)
@@ -164,22 +165,24 @@ Comments
 * [Email](https://tane.harre.nz/tags/email/) (2)
 * [Facebook](https://tane.harre.nz/tags/facebook/) (1)
 * [File Sharing](https://tane.harre.nz/tags/file-sharing/) (3)
-* [Fontainebleau](https://tane.harre.nz/tags/fontainebleau/) (12)
-* [Fontainebleau Info](https://tane.harre.nz/tags/fontainebleau-info/) (35)
+* [Fontainebleau](https://tane.harre.nz/tags/fontainebleau/) (17)
+* [Fontainebleau Info](https://tane.harre.nz/tags/fontainebleau-info/) (49)
 * [Food](https://tane.harre.nz/tags/food/) (3)
 * [France](https://tane.harre.nz/tags/france/) (40)
 * [Great Barrier Island](https://tane.harre.nz/tags/great-barrier-island/) (12)
-* [Grez Sur Loing](https://tane.harre.nz/tags/grez-sur-loing/) (3)
+* [Grez Sur Loing](https://tane.harre.nz/tags/grez-sur-loing/) (4)
 * [Internet Party](https://tane.harre.nz/tags/internet-party/) (39)
 * [KDE](https://tane.harre.nz/tags/kde/) (1)
+* [Larchant](https://tane.harre.nz/tags/larchant/) (2)
 * [Linux](https://tane.harre.nz/tags/linux/) (16)
 * [Linux Mint](https://tane.harre.nz/tags/linux-mint/) (4)
 * [LMDE6](https://tane.harre.nz/tags/lmde6/) (1)
+* [Nemours](https://tane.harre.nz/tags/nemours/) (1)
 * [New Zealand](https://tane.harre.nz/tags/new-zealand/) (34)
 * [Nextcloud](https://tane.harre.nz/tags/nextcloud/) (1)
 * [Noisy-sur-École](https://tane.harre.nz/tags/noisy-sur-ecole/) (1)
 * [OMV6](https://tane.harre.nz/tags/omv6/) (1)
-* [Playgrounds](https://tane.harre.nz/tags/playgrounds/) (9)
+* [Playgrounds](https://tane.harre.nz/tags/playgrounds/) (14)
 * [Politics](https://tane.harre.nz/tags/politics/) (46)
 * [Printers](https://tane.harre.nz/tags/printers/) (1)
 * [Privacy](https://tane.harre.nz/tags/privacy/) (19)
@@ -187,6 +190,7 @@ Comments
 * [Recloses](https://tane.harre.nz/tags/recloses/) (1)
 * [Review](https://tane.harre.nz/tags/review/) (8)
 * [Robert Louis Stevenson Trail](https://tane.harre.nz/tags/robert-louis-stevenson-trail/) (13)
+* [Saint Mammes](https://tane.harre.nz/tags/saint-mammes/) (1)
 * [Saint Pierre lès Nemours](https://tane.harre.nz/tags/saint-pierre-les-nemours/) (1)
 * [Switzerland](https://tane.harre.nz/tags/switzerland/) (6)
 * [Te Araroa](https://tane.harre.nz/tags/te-araroa/) (108)
@@ -194,9 +198,9 @@ Comments
 * [Thomery](https://tane.harre.nz/tags/thomery/) (1)
 * [Thoughts](https://tane.harre.nz/tags/thoughts/) (30)
 * [Travel](https://tane.harre.nz/tags/travel/) (2)
+* [Ury](https://tane.harre.nz/tags/ury/) (1)
 * [Villiers en Biere](https://tane.harre.nz/tags/villiers-en-biere/) (1)
-* [Wallpapers](https://tane.harre.nz/tags/wallpapers/) (1)
-* [Yunohost](https://tane.harre.nz/tags/yunohost/) (2)
+* [Villiers sous Grez](https://tane.harre.nz/tags/villiers-sous-grez/) (1)
 
 [Tane Harre](https://tane.harre.nz/)
 
