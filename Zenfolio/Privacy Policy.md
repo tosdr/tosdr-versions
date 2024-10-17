@@ -287,6 +287,7 @@ We reserve the right to amend this Privacy Policy at any time. We will notify yo
 Company
 
 * [About](https://zenfolio.com/company/about/)
+* [Zenfolio vs Competitors](https://zenfolio.com/compare/)
 * [Careers](https://zenfolio.com/company/jobs/)
 * [Reviews](https://zenfolio.com/company/reviews/)
 * [Press Room](https://zenfolio.com/press/)
