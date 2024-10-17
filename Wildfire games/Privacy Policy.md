@@ -134,7 +134,7 @@ View revision:
 ### Download in other formats:
 
 * [Plain Text](https://trac.wildfiregames.com/browser/ps/trunk/binaries/data/mods/public/gui/userreport/Terms_and_Conditions.txt?format=txt)
-* [Original Format](https://trac.wildfiregames.com/export/28209/ps/trunk/binaries/data/mods/public/gui/userreport/Terms_and_Conditions.txt)
+* [Original Format](https://trac.wildfiregames.com/export/28231/ps/trunk/binaries/data/mods/public/gui/userreport/Terms_and_Conditions.txt)
 
 * * *
 
