@@ -259,29 +259,173 @@ _Category 1: Strictly Necessary Cookies_
 
 These cookies are essential in order to enable you to move around the website and use its features. Without these cookies, services you have asked for such as remembering your login details or data provided for a purchase cannot be provided.
 
+|     |     |
+| --- | --- |
+| Name | \_cf\_clearance |
+| Type | Persistent |
+| Purpose | Used to grant access to Substack’s servers from its CDN |
+| Lifetime | 30 minutes |
+| Domain | .substack.com |
+| Vendor Privacy Policy | Link |
+
+|     |     |
+| --- | --- |
+| Name | \_cf\_bm |
+| Type | Persistent |
+| Purpose | Used to block bot access to the site. |
+| Lifetime | 30 minutes |
+| Domain | .substack.com |
+| Vendor Privacy Policy | Link |
+
+|     |     |
+| --- | --- |
+| Name | substack.sid / connect.sid |
+| Type | Persistent |
+| Purpose | Session identifier (login, etc) |
+| Lifetime | 90 days max |
+| Domain | .substack.com |
+
+|     |     |
+| --- | --- |
+| Name | \_substack.lli\_ |
+| Type | Persistent |
+| Purpose | Communicates login state across first party domains. |
+| Lifetime | 90 days max |
+| Domain | .substack.com |
+
+|     |     |
+| --- | --- |
+| Name | cookie\_storage\_key |
+| Type | Persistent |
+| Purpose | Allows storage of user cookie preferences |
+| Lifetime | 90 days max |
+| Domain | .substack.com |
+
 _Category 2: Performance Cookies_
 
 These cookies collect information on how people use our website. The data stored by these cookies never shows personal details from which your individual identity can be established.
+
+|     |     |
+| --- | --- |
+| Name | visit\_id |
+| Type | Persistent |
+| Purpose | First-party analytics tracking. |
+| Lifetime | 30 minutes |
+| Domain | .substack.com |
+
+|     |     |
+| --- | --- |
+| Name | ajs\_anonymous\_id |
+| Type | Persistent |
+| Purpose | First-party analytics tracking. |
+| Lifetime | 365 days |
+| Domain | .substack.com |
+
+|     |     |
+| --- | --- |
+| Name | ab\_testing\_id |
+| Type | Persistent |
+| Purpose | First-party analytics tracking. |
+| Lifetime | 1 year |
+| Domain | .substack.com |
+
+|     |     |
+| --- | --- |
+| Name | ga\_family |
+| Type | Persistent |
+| Purpose | Third-party analytics tracking. |
+| Lifetime | 2 years |
+| Domain | .substack.com |
+| Vendor Privacy Policy | Link |
+
+|     |     |
+| --- | --- |
+| Name | muxData |
+| Type | Persistent |
+| Purpose | Anonymous video metric collection and aggregation. |
+| Lifetime | 2 years |
+| Domain | .substack.com |
+| Vendor Privacy Policy | Link |
+
+|     |     |
+| --- | --- |
+| Name | dd\_s |
+| Type | Persistent |
+| Purpose | To identify and diagnose technical problems on the site. |
+| Lifetime | 4 hours |
+| Domain | .substack.com |
+| Vendor Privacy Policy | Link |
+
+|     |     |
+| --- | --- |
+| Name | fs\_uid |
+| Type | Persistent |
+| Purpose | Used to track user actions across the site for debugging purposes. |
+| Lifetime | 1 year |
+| Domain | .substack.com |
+| Vendor Privacy Policy | Link |
+
+|     |     |
+| --- | --- |
+| Name | ab\_experiment\_sampled |
+| Type | Persistent |
+| Purpose | First-party analytics tracking. |
+| Lifetime | 1 year |
+| Domain | .substack.com |
 
 _Category 3: Functionality Cookies_
 
 These cookies remember choices you make such as the country you visit our website from, language and search parameters. These can then be used to provide you with an experience more appropriate to your selections and to make the visits more tailored and pleasant.
 
-Necessary Cookies
+|     |     |
+| --- | --- |
+| Name | like\_upsell\_last\_shown\_at |
+| Type | Persistent |
+| Purpose | Prevents users from repeatedly being shown features. |
+| Lifetime | 10 years |
+| Domain | .substack.com |
 
-[![](https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F778030c8-c3ea-4a0a-8b87-af5bf4e4ccfc_1260x660.png)](https://datawrapper.dwcdn.net/TCAE7/1/)
+|     |     |
+| --- | --- |
+| Name | AWSALBTG |
+| Type | Persistent |
+| Purpose | Ensures a consistent user experience across network requests. |
+| Lifetime | 2 years |
+| Domain | .substack.com |
+| Vendor Privacy Policy | Link |
 
-#### [](#)
+|     |     |
+| --- | --- |
+| Name | zlcmid |
+| Type | Persistent |
+| Purpose | Stores visitor’s machine-id for authentication with Zendesk chat widget. |
+| Lifetime | 1 year |
+| Domain | .substack.com |
+| Vendor Privacy Policy | Link |
 
-Performance Cookies
+|     |     |
+| --- | --- |
+| Name | hideCookieBanner |
+| Type | Persistent |
+| Purpose | Remembers that the user dismissed cookie banner. |
+| Lifetime | 365 days |
+| Domain | .substack.com |
 
-[![](https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16b742d3-6721-422d-ad9e-6b4ceb644eb0_1260x660.png)](https://datawrapper.dwcdn.net/VPfMY/1/)
+|     |     |
+| --- | --- |
+| Name | intro\_popup\_last\_hidden\_at |
+| Type | Persistent |
+| Purpose | Prevents showing introductory information the user has already seen. |
+| Lifetime | 10 years |
+| Domain | .substack.com |
 
-#### [](#)
-
-Functionality Cookies
-
-[![](https://substackcdn.com/image/fetch/w_640,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee5b6803-7284-4c09-be6a-884ae6c9ba81_1260x660.png)](https://datawrapper.dwcdn.net/XUqfs/1/)
+|     |     |
+| --- | --- |
+| Name | chatbot\_terms\_last\_accepted\_at |
+| Type | Persistent |
+| Purpose | Prevents users from repeatedly having to accept chatbot terms |
+| Lifetime | 10 years |
+| Domain | .substack.com |
 
 _**Creator cookies**_
 
