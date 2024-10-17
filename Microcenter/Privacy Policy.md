@@ -1,5 +1,3 @@
- 
-
 Member Pricing Free Until 2025
 
 Meet Micro Center Member Pricing
@@ -42,7 +40,7 @@ Search for product
     
     Dallas
     
-    Opens at 10AM
+    Open until 9PM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
@@ -90,7 +88,7 @@ Search for product
         
         Questions? Text or call
         
-        Closed
+        Open Now
         
         Mon - Sat 10 to 9, Sun 11 to 6
         
@@ -897,7 +895,7 @@ Product category, brand navigation and general site naviation
         
     * Brands
         
-        Brands options - 2 groups of items - 25 total selections
+        Brands options - 2 groups of items - 24 total selections
         
         * A - M
             
@@ -915,7 +913,6 @@ Product category, brand navigation and general site naviation
             * [Lenovo](https://www.microcenter.com/site/brands/lenovo.aspx)
             * [LG](https://www.microcenter.com/site/brands/lg-showcase.aspx)
             * [LianLi](https://www.microcenter.com/site/brands/lian-li.aspx)
-            * [Linksys](https://www.microcenter.com/site/brands/linksys.aspx)
         * N - Z
             
             * [NETGEAR](https://www.microcenter.com/site/brands/netgear.aspx)
