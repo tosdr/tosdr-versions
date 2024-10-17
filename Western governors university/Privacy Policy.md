@@ -347,15 +347,13 @@
 
 [Military and Veterans](https://www.wgu.edu/student-experience/learning/military-va.html)
 
-[Alumni](https://www.wgu.edu/alumni.html)
-
 [Commencement](https://www.wgu.edu/alumni/commencement.html)
 
 [Blog](https://www.wgu.edu/blog.html)
 
-[Careers at WGU](https://www.wgu.edu/about/careers.html)
+[Alumni](https://www.wgu.edu/alumni.html)
 
-[WGU Impact](https://www.wgu.edu/impact.html)
+[Careers at WGU](https://www.wgu.edu/about/careers.html)
 
 [About WGU](https://www.wgu.edu/about.html)
 
@@ -739,15 +737,13 @@ Student Success
         
     * [Military and Veterans](https://www.wgu.edu/student-experience/learning/military-va.html)
         
-    * [Alumni](https://www.wgu.edu/alumni.html)
-        
     * [Commencement](https://www.wgu.edu/alumni/commencement.html)
         
     * [Blog](https://www.wgu.edu/blog.html)
         
-    * [Careers at WGU](https://www.wgu.edu/about/careers.html)
+    * [Alumni](https://www.wgu.edu/alumni.html)
         
-    * [WGU Impact](https://www.wgu.edu/impact.html)
+    * [Careers at WGU](https://www.wgu.edu/about/careers.html)
         
     * [About WGU](https://www.wgu.edu/about.html)
         
