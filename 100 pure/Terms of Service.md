@@ -490,7 +490,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[HAPPY MUSHROOM DAY! Free Mushroom Serum w/ $49+ USE CODE: MUSHROOMGLOW](https://www.100percentpure.com/products/mushroom-peptide-serum?variant=40095138873422 "https://www.100percentpure.com/products/mushroom-peptide-serum?variant=40095138873422")
+[Free Palette of Choice with any purchase over $65+ USE CODE: GLAMGIFT](https://www.100percentpure.com/collections/natural-makeup-palettes-natural-gift-sets "https://www.100percentpure.com/collections/natural-makeup-palettes-natural-gift-sets")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
