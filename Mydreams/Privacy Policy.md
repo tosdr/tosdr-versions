@@ -262,6 +262,10 @@ IX. Zvláštní ujednání
 
 1. Na provozovaných mailserverch může provozovatel automaticky promazávat data v koši.
 
+### Vývoj
+
+1. Poskytovatel má oprávněni využít jimi naprogramovanou funkci, funkcionalitu, složku programu nebo jeho nový modul či část programu i při poskytování služeb jiným klientům a takovou funkci, funkcionalitu, modul část nebo složku programu integrovat do programu jiného.
+
 ### Stabilita a bezpečnost
 
 1. Základní správa serverů zahrnuje bezpečnostní aktualizace a minoritní aktualizace. Nadstandardní úpravy, jako jsou např. provoz vyšších verzí PHP, MySQL nebo [MariaDB](https://www.mydreams.cz/cz/wiki/492-mariadb-5-a-mariadb-10-porozumeni-hlavnim-rozdilum.html "MariaDB"), než doporučují vývojáři operačního systému, nejsou součástí správy a mohou být zpoplatněny.
