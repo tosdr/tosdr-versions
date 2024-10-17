@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KHOU/images/ece6f968-22e8-4e74-8bc5-3368b03baed0/20241016T191801/ece6f968-22e8-4e74-8bc5-3368b03baed0_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/ece6f968-22e8-4e74-8bc5-3368b03baed0/20241016T191801/ece6f968-22e8-4e74-8bc5-3368b03baed0_360x203.jpg)](https://www.kagstv.com/article/news/local/propane-explosion-fm-529-brookshire-waller-county-texas/285-acf418fc-454b-4af0-b405-a75f0c3e503b)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/cce4691b-3780-4f18-bb4f-e37f336892b6/20241016T204948/cce4691b-3780-4f18-bb4f-e37f336892b6_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/cce4691b-3780-4f18-bb4f-e37f336892b6/20241016T204948/cce4691b-3780-4f18-bb4f-e37f336892b6_360x203.jpg)](https://www.kagstv.com/article/news/crime/plantersville-pellet-gun-shooting-arrest-oct-2024/500-f65d1df0-82aa-4930-b84d-0d67a5dc2705)
         
-        #### [Explosion reported at propane production facility in Brookshire, Waller County Sheriff's Office says](https://www.kagstv.com/article/news/local/propane-explosion-fm-529-brookshire-waller-county-texas/285-acf418fc-454b-4af0-b405-a75f0c3e503b)
+        #### [Man arrested after shooting victim in the back with pellet gun in Plantersville](https://www.kagstv.com/article/news/crime/plantersville-pellet-gun-shooting-arrest-oct-2024/500-f65d1df0-82aa-4930-b84d-0d67a5dc2705)
         
-    *  [![](https://media.kagstv.com/assets/KCEN/images/bfc93b48-b9d9-4f82-87d6-98d8496851b6/20241016T153929/bfc93b48-b9d9-4f82-87d6-98d8496851b6_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/bfc93b48-b9d9-4f82-87d6-98d8496851b6/20241016T153929/bfc93b48-b9d9-4f82-87d6-98d8496851b6_360x203.jpg)](https://www.kagstv.com/article/news/local/bcso-looking-for-assistance-finding-stolen-wheelchair/500-724734d2-77d9-4d33-89f3-8d3cb4572fcf)
+    *  [![](https://media.kagstv.com/assets/KHOU/images/da431ec1-9857-4e15-a1ff-9b83ba28e9a3/20241016T203846/da431ec1-9857-4e15-a1ff-9b83ba28e9a3_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/da431ec1-9857-4e15-a1ff-9b83ba28e9a3/20241016T203846/da431ec1-9857-4e15-a1ff-9b83ba28e9a3_360x203.jpg)](https://www.kagstv.com/article/news/local/propane-explosion-fm-529-brookshire-waller-county-texas/285-acf418fc-454b-4af0-b405-a75f0c3e503b)
         
-        #### [Brazos County investigators looking to find unique stolen wheelchair](https://www.kagstv.com/article/news/local/bcso-looking-for-assistance-finding-stolen-wheelchair/500-724734d2-77d9-4d33-89f3-8d3cb4572fcf)
+        #### [1 injured in explosion at propane facility in Brookshire area, officials say](https://www.kagstv.com/article/news/local/propane-explosion-fm-529-brookshire-waller-county-texas/285-acf418fc-454b-4af0-b405-a75f0c3e503b)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-72°
+60°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
