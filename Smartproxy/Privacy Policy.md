@@ -350,7 +350,7 @@ Data sharing
 
 Smartproxy will use certain service providers (data processors) to process your personal data. Such data processors are: CRM software providers, email and email tracking service providers, online live chat service providers, business development service providers, customer support specialists, data analysis service providers, payment services firms, web hosting companies and other service providers. In all cases, your personal data is disclosed only to the extent necessary for the provision of their services. We do not share your data with any third parties that are not our service providers.
 
-Our data processors are usually based in European Economic Area (EEA) and US. When choosing our service providers in US, we try to make sure that they are members of EU – US Privacy Shield Framework and are publicly committed to complying with mandatory EU privacy standards. In other cases where necessary, we make sure that our US-based data processors would comply with EU privacy standards by entering into agreements with standard data protection clauses adopted by the European Commission.
+We may share personal data with state agencies, government bodies, law enforcement, courts, and regulatory authorities when legally mandated. This may include responding to official requests, such as subpoenas, or supporting investigations. Such actions are taken to fulfill our legal duties and respond to legitimate demands from law enforcement or to safeguard our rights, interests, and the safety of our company, employees, clients, and the public.
 
   
 
