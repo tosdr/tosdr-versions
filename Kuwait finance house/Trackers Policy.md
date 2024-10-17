@@ -35,7 +35,7 @@ Personal Banking
 
 ### _![](/dam/jcr:1119a502-6f7b-46da-bc67-ea51c9b6df9a/menu-icon2.png)_ [KFH | Ways to bank](https://www.kfh.com/en/home/Personal/Ways-to-bank.html)
 
-### _![](/dam/jcr:1f84629b-bcf8-441e-ab2e-157d16ccbf0d/menu-icon7.png)_ [Banking Tiers](https://www.kfh.com/en/home/Personal/Banking-tiers.html)
+### _![](/dam/jcr:208cee88-6a32-4f00-87b8-92c888f1a6c2/banking-tier.png)_ [Banking Tiers](https://www.kfh.com/en/home/Personal/Banking-tiers.html)
 
 ### _![](/dam/jcr:c5b52a1e-5cec-4ef1-974e-8b4ebbc32f3c/menu-icon5.png)_ [Tools & Services](https://www.kfh.com/en/home/Personal/Tools-services.html)
 
@@ -112,7 +112,7 @@ KFH Auto
 * [E-services user guides for KFHOnline App](https://www.kfh.com/en/home/Personal/Ways-to-bank/KFH-online-user-guide.html)
 * [Services user guides for KFH ATMs](https://www.kfh.com/en/home/Personal/Ways-to-bank/ATM-services-user-guides.html)
 
-### _![](/dam/jcr:1f84629b-bcf8-441e-ab2e-157d16ccbf0d/menu-icon7.png)_ [Banking Tiers](https://www.kfh.com/en/home/Personal/Banking-tiers.html)
+### _![](/dam/jcr:208cee88-6a32-4f00-87b8-92c888f1a6c2/banking-tier.png)_ [Banking Tiers](https://www.kfh.com/en/home/Personal/Banking-tiers.html)
 
 * ["Al Ruwad" Program](https://www.kfh.com/en/home/Personal/Banking-tiers/Al-Ruwad.html)
 * ["Al Tamayoz" Program](https://www.kfh.com/en/home/Personal/Banking-tiers/Al-Tamayoz.html)
