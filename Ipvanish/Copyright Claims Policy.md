@@ -17,7 +17,7 @@
     * [![](https://www.ipvanish.com/wp-content/uploads/flags/se-flag.png)Sweden](https://www.ipvanish.com/se/dmca-policy/)
     * [![](https://www.ipvanish.com/wp-content/uploads/flags/en-gb.png)United Kingdom](https://www.ipvanish.com/gb/dmca-policy/)
 
-[![IPVanish logo](https://www.ipvanish.com/wp-content/uploads/2021/10/ipvanish-text-logo-148x23.png)](https://www.ipvanish.com/)
+[![IPVanish](https://www.ipvanish.com/wp-content/uploads/2021/10/ipvanish-text-logo-148x23.png)](https://www.ipvanish.com/)
 
 * [Product](#) Menu Toggle
     
@@ -303,7 +303,7 @@
 
 Main Menu
 
-[![IPVanish logo](https://www.ipvanish.com/wp-content/uploads/2021/10/ipvanish-text-logo-148x23.png)](https://www.ipvanish.com/)
+[![IPVanish](https://www.ipvanish.com/wp-content/uploads/2021/10/ipvanish-text-logo-148x23.png)](https://www.ipvanish.com/)
 
 [Get Started](https://www.ipvanish.com/pricing/)[Get Started](https://www.ipvanish.com/pricing/)
 
