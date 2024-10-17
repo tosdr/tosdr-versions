@@ -40,7 +40,7 @@ Menu Close
     * [Bachelor of Science](https://www.unibocconi.eu/en/programs/bachelor-science-programs)
     * [Master of Science](https://www.unibocconi.eu/en/programs/master-science-programs)
     * [Law](https://www.unibocconi.eu/en/programs/law-programs)
-    * [Specialized Masters Programs](https://www.unibocconi.eu/en/programs/specialized-master-programs-0)
+    * [Specialized Masters Programs](https://www.unibocconi.eu/en/programs/specialized-master-programs)
     * [PhD](https://www.unibocconi.eu/en/about-us/organization/schools/phd)
     * [Summer School](https://www.unibocconi.eu/en/programs/summer-school)
     * [SDA Bocconi School of Management](https://www.unibocconi.eu/en/programs/sda-bocconi-school-management)
