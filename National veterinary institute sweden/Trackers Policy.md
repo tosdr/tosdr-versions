@@ -1388,6 +1388,7 @@ Gå direkt till :
     * [Välkommen tillbaka till Renögabloggen!](https://www.sva.se/renogabloggen/valkommen-tillbaka-till-renogabloggen/)
     * [Nu börjar ett nytt renskötselår!](https://www.sva.se/renogabloggen/nu-borjar-ett-nytt-renskotselar/)
     * [Glad sommar önskar RenögaBloggen!](https://www.sva.se/renogabloggen/glad-sommar-onskar-renogabloggen/)
+    * [Hösten är här och projekt Renöga analyserar ögonprover ännu en säsong!](https://www.sva.se/renogabloggen/hosten-ar-har-och-projekt-renoga-analyserar-ogonprover-annu-en-sasong/)
 * [Spjuverbloggen](https://www.sva.se/spjuverbloggen/)[](#)
     * [KNS – vad är det för skillnad på olika koagulasnegativa stafylokocker?](https://www.sva.se/spjuverbloggen/kns-vad-ar-det-for-skillnad-pa-olika-koagulasnegativa-stafylokocker/)
     * [Nya rön om bakteriefynd vid klinisk mastit hos mjölkkor](https://www.sva.se/spjuverbloggen/nya-ron-om-bakteriefynd-vid-klinisk-mastit-hos-mjolkkor/)
