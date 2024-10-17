@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Elainekitty](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46962%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/628450-elainekitty/ "Ir ao perfil de Elainekitty")
+    * [![Ticodao](https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg)](https://www.clubedohardware.com.br/profile/958787-ticodao/ "Ir ao perfil de Ticodao")
         
         0
         
-        Excel [Rodar macro automaticamente dependendo de CheckBox marcada](https://www.clubedohardware.com.br/forums/topic/1699904-rodar-macro-automaticamente-dependendo-de-checkbox-marcada/?do=getNewComment "Rodar macro automaticamente dependendo de CheckBox marcada")
+        [Pc desligando vídeo em alguns jogos](https://www.clubedohardware.com.br/forums/topic/1699938-pc-desligando-v%C3%ADdeo-em-alguns-jogos/?do=getNewComment "Pc desligando vídeo em alguns jogos")
         
-        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
-        Por [Elainekitty](https://www.clubedohardware.com.br/profile/628450-elainekitty/ "Ir ao perfil de Elainekitty")  
-        1 minuto atrás
-        
-    * [![karendavis140519](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/1734697_6a22f260f8b4a978d5106d9ed44a10b9.thumb.jpg.2861ccc795ca266ee1662154033ee528.jpg)](https://www.clubedohardware.com.br/profile/1254635-karendavis140519/ "Ir ao perfil de karendavis140519")
-        
-        1
-        
-        [Vale a pena comprar streams no Spotify para aumentar a visibilidade das minhas m](https://www.clubedohardware.com.br/forums/topic/1699903-vale-a-pena-comprar-streams-no-spotify-para-aumentar-a-visibilidade-das-minhas-m/?do=getNewComment "Vale a pena comprar streams no Spotify para aumentar a visibilidade das minhas m")
-        
-        [Programas](https://www.clubedohardware.com.br/forums/forum/24-programas/ "Programas")  
-        Por [karendavis140519](https://www.clubedohardware.com.br/profile/1254635-karendavis140519/ "Ir ao perfil de karendavis140519")  
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [Ticodao](https://www.clubedohardware.com.br/profile/958787-ticodao/ "Ir ao perfil de Ticodao")  
         15 minutos atrás
         
-    * [![Adam Simonsen](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1241800.thumb.png.4ef5031dfe3c76989ce64d02170680ee.png)](https://www.clubedohardware.com.br/profile/1241800-adam-simonsen/ "Ir ao perfil de Adam Simonsen")
+    * [![Felipemart08](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254661.thumb.png.a5e118524c2ac8860a6672c9559a94d8.png)](https://www.clubedohardware.com.br/profile/1254661-felipemart08/ "Ir ao perfil de Felipemart08")
+        
+        1
+        
+        [Qual fonte na faixa de R$ 300,00 para Ryzen 5 5600 e Radeon RX 6600?](https://www.clubedohardware.com.br/forums/topic/1699936-qual-fonte-na-faixa-de-r-30000-para-ryzen-5-5600-e-radeon-rx-6600/?do=getNewComment "Qual fonte na faixa de R$ 300,00 para Ryzen 5 5600 e Radeon RX 6600?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Felipemart08](https://www.clubedohardware.com.br/profile/1254661-felipemart08/ "Ir ao perfil de Felipemart08")  
+        18 minutos atrás
+        
+    * [![ktv](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254660.thumb.png.55abb032bee06713869abbe81c79db4c.png)](https://www.clubedohardware.com.br/profile/1254660-ktv/ "Ir ao perfil de ktv")
         
         0
         
-        [Mouse super sensível para clique em alguns jogos, com duplo clique](https://www.clubedohardware.com.br/forums/topic/1699902-mouse-super-sens%C3%ADvel-para-clique-em-alguns-jogos-com-duplo-clique/?do=getNewComment "Mouse super sensível para clique em alguns jogos, com duplo clique")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Adam Simonsen](https://www.clubedohardware.com.br/profile/1241800-adam-simonsen/ "Ir ao perfil de Adam Simonsen")  
-        19 minutos atrás
-        
-    * [![Mary](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254634.thumb.jpeg.4ed5b663e764d7f2eda5c9c81367e7e7.jpeg)](https://www.clubedohardware.com.br/profile/1254634-mary/ "Ir ao perfil de Mary")
-        
-        0
-        
-        [Preciso de opinião sobre pc gamer](https://www.clubedohardware.com.br/forums/topic/1699901-preciso-de-opini%C3%A3o-sobre-pc-gamer/?do=getNewComment "Preciso de opinião sobre pc gamer")
+        [um Pc para estudo bom em multitarefas](https://www.clubedohardware.com.br/forums/topic/1699935-um-pc-para-estudo-bom-em-multitarefas/?do=getNewComment "um Pc para estudo bom em multitarefas")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Mary](https://www.clubedohardware.com.br/profile/1254634-mary/ "Ir ao perfil de Mary")  
-        21 minutos atrás
+        Por [ktv](https://www.clubedohardware.com.br/profile/1254660-ktv/ "Ir ao perfil de ktv")  
+        22 minutos atrás
         
-    * [![Thalysson Xavier](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254632.thumb.png.48e59d56f6e49c0f1ea6ee65da4f0afc.png)](https://www.clubedohardware.com.br/profile/1254632-thalysson-xavier/ "Ir ao perfil de Thalysson Xavier")
-        
-        1
-        
-        [Como posso consertar está GeForce GTX 1060? Componente estourado](https://www.clubedohardware.com.br/forums/topic/1699896-como-posso-consertar-est%C3%A1-geforce-gtx-1060-componente-estourado/?do=getNewComment "Como posso consertar está GeForce GTX 1060? Componente estourado")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [Thalysson Xavier](https://www.clubedohardware.com.br/profile/1254632-thalysson-xavier/ "Ir ao perfil de Thalysson Xavier")  
-        1 hora atrás
-        
-    * [![O tal do Boechat](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1234753.thumb.jpeg.2d70c13f594c4049dc05132c165fe630.jpeg)](https://www.clubedohardware.com.br/profile/1234753-o-tal-do-boechat/ "Ir ao perfil de O tal do Boechat")
+    * [![PAULO SERGIO MAIA](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1163793.thumb.jpeg.f0454b23977c968b9c551c5192b8fa00.jpeg)](https://www.clubedohardware.com.br/profile/1163793-paulo-sergio-maia/ "Ir ao perfil de PAULO SERGIO MAIA")
         
         1
         
-        [Comprei uma GeForce GTX 1060 usada, devo ficar com ela?](https://www.clubedohardware.com.br/forums/topic/1699895-comprei-uma-geforce-gtx-1060-usada-devo-ficar-com-ela/?do=getNewComment "Comprei uma GeForce GTX 1060 usada, devo ficar com ela?")
+        [Monitor Acer Full HD](https://www.clubedohardware.com.br/forums/topic/1699934-monitor-acer-full-hd/?do=getNewComment "Monitor Acer Full HD")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [O tal do Boechat](https://www.clubedohardware.com.br/profile/1234753-o-tal-do-boechat/ "Ir ao perfil de O tal do Boechat")  
-        1 hora atrás
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [PAULO SERGIO MAIA](https://www.clubedohardware.com.br/profile/1163793-paulo-sergio-maia/ "Ir ao perfil de PAULO SERGIO MAIA")  
+        24 minutos atrás
         
-    * [![Queropcbom](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23a5c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EQ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/542164-queropcbom/ "Ir ao perfil de Queropcbom")
-        
-        1
-        
-        [Preciso trocar de gabinete? Airflow pessímo e frontal fechada](https://www.clubedohardware.com.br/forums/topic/1699894-preciso-trocar-de-gabinete-airflow-pess%C3%ADmo-e-frontal-fechada/?do=getNewComment "Preciso trocar de gabinete? Airflow pessímo e frontal fechada")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Queropcbom](https://www.clubedohardware.com.br/profile/542164-queropcbom/ "Ir ao perfil de Queropcbom")  
-        2 horas atrás
-        
-    * [![Z3h](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254631.thumb.png.6d1d3974f17fec9426dca8a5b3f09ad2.png)](https://www.clubedohardware.com.br/profile/1254631-z3h/ "Ir ao perfil de Z3h")
-        
-        1
-        
-        [O que posso melhorar no meu pc? Ryzen 5 PRO 4650GE - Radeon RX 6600](https://www.clubedohardware.com.br/forums/topic/1699893-o-que-posso-melhorar-no-meu-pc-ryzen-5-pro-4650ge-radeon-rx-6600/?do=getNewComment "O que posso melhorar no meu pc? Ryzen 5 PRO 4650GE - Radeon RX 6600")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Z3h](https://www.clubedohardware.com.br/profile/1254631-z3h/ "Ir ao perfil de Z3h")  
-        2 horas atrás
-        
-    * [![Luankps](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1250488.thumb.png.c9563c04038bc01e4c041e1688b20550.png)](https://www.clubedohardware.com.br/profile/1250488-luankps/ "Ir ao perfil de Luankps")
-        
-        0
-        
-        [Recomendação de peças para pc de até R$ 8.000](https://www.clubedohardware.com.br/forums/topic/1699892-recomenda%C3%A7%C3%A3o-de-pe%C3%A7as-para-pc-de-at%C3%A9-r-8000/?do=getNewComment "Recomendação de peças para pc de até R$ 8.000")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Luankps](https://www.clubedohardware.com.br/profile/1250488-luankps/ "Ir ao perfil de Luankps")  
-        3 horas atrás
-        
-    * [![Guilhermerodrigus](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254629.thumb.png.99b5ef410c82df316d5010afbcff9ef3.png)](https://www.clubedohardware.com.br/profile/1254629-guilhermerodrigus/ "Ir ao perfil de Guilhermerodrigus")
+    * [![Jefersom Pereira](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/imported-photo-1049254.thumb.jpeg.fcb2233618f181a218ada03bcbdf136b.jpeg)](https://www.clubedohardware.com.br/profile/1049254-jefersom-pereira/ "Ir ao perfil de Jefersom Pereira")
         
         2
         
-        [Radeon RX 560 não aparece nem é reconhecida pelo pc](https://www.clubedohardware.com.br/forums/topic/1699891-radeon-rx-560-n%C3%A3o-aparece-nem-%C3%A9-reconhecida-pelo-pc/?do=getNewComment "Radeon RX 560 não aparece nem é reconhecida pelo pc")
+        [Microfone sem fio Lyco UH08MM não funciona, o que pode ser?](https://www.clubedohardware.com.br/forums/topic/1699933-microfone-sem-fio-lyco-uh08mm-n%C3%A3o-funciona-o-que-pode-ser/?do=getNewComment "Microfone sem fio Lyco UH08MM não funciona, o que pode ser?")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Guilhermerodrigus](https://www.clubedohardware.com.br/profile/1254629-guilhermerodrigus/ "Ir ao perfil de Guilhermerodrigus")  
-        3 horas atrás
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [Jefersom Pereira](https://www.clubedohardware.com.br/profile/1049254-jefersom-pereira/ "Ir ao perfil de Jefersom Pereira")  
+        26 minutos atrás
+        
+    * [![Classe13](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1213142.thumb.jpeg.033d16daab700e049403efbd472d62ae.jpeg)](https://www.clubedohardware.com.br/profile/1213142-classe13/ "Ir ao perfil de Classe13")
+        
+        0
+        
+        [Virtual Box: como configurar a internet?](https://www.clubedohardware.com.br/forums/topic/1699932-virtual-box-como-configurar-a-internet/?do=getNewComment "Virtual Box: como configurar a internet?")
+        
+        [Programas](https://www.clubedohardware.com.br/forums/forum/24-programas/ "Programas")  
+        Por [Classe13](https://www.clubedohardware.com.br/profile/1213142-classe13/ "Ir ao perfil de Classe13")  
+        34 minutos atrás
+        
+    * [![Frank C.](https://www.clubedohardware.com.br/uploads/members/monthly_2019_07/909044623_PUNISHERLOGOPROFILE.thumb.jpg.8b9edef16926ebbb5c26e16f6ca65baf.jpg)](https://www.clubedohardware.com.br/profile/1046678-frank-c/ "Ir ao perfil de Frank C.")
+        
+        0
+        
+        [Recomendação de Chip Wi-Fi M2](https://www.clubedohardware.com.br/forums/topic/1699931-recomenda%C3%A7%C3%A3o-de-chip-wi-fi-m2/?do=getNewComment "Recomendação de Chip Wi-Fi M2")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Frank C.](https://www.clubedohardware.com.br/profile/1046678-frank-c/ "Ir ao perfil de Frank C.")  
+        38 minutos atrás
+        
+    * [![CristianCDS](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247041.thumb.jpeg.d087c51a2322ac7f4e0e8a325ce3d158.jpeg)](https://www.clubedohardware.com.br/profile/1247041-cristiancds/ "Ir ao perfil de CristianCDS")
+        
+        1
+        
+        [Adaptador Bluetooth TP-Link ou UGREEN?](https://www.clubedohardware.com.br/forums/topic/1699930-adaptador-bluetooth-tp-link-ou-ugreen/?do=getNewComment "Adaptador Bluetooth TP-Link ou UGREEN?")
+        
+        [Periféricos - outros](https://www.clubedohardware.com.br/forums/forum/280-perif%C3%A9ricos-outros/ "Periféricos - outros")  
+        Por [CristianCDS](https://www.clubedohardware.com.br/profile/1247041-cristiancds/ "Ir ao perfil de CristianCDS")  
+        52 minutos atrás
+        
+    * [![marcos Cieri](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47b62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/982947-marcos-cieri/ "Ir ao perfil de marcos Cieri")
+        
+        1
+        
+        [Minha TV de tubo.... me orientem](https://www.clubedohardware.com.br/forums/topic/1699929-minha-tv-de-tubo-me-orientem/?do=getNewComment "Minha TV de tubo.... me orientem")
+        
+        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
+        Por [marcos Cieri](https://www.clubedohardware.com.br/profile/982947-marcos-cieri/ "Ir ao perfil de marcos Cieri")  
+        55 minutos atrás
+        
+    * [![Blumer Celta](https://www.clubedohardware.com.br/uploads/members/monthly_2019_11/transistorverde.thumb.jpg.8b20762fa682b9bf68c746c8cd0ce2aa.jpg)](https://www.clubedohardware.com.br/profile/825205-blumer-celta/ "Ir ao perfil de Blumer Celta")
+        
+        3
+        
+        [Quantos mA precisa para acender um LED comum de 3mm/5mm?](https://www.clubedohardware.com.br/forums/topic/1699928-quantos-ma-precisa-para-acender-um-led-comum-de-3mm5mm/?do=getNewComment "Quantos mA precisa para acender um LED comum de 3mm/5mm?")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [Blumer Celta](https://www.clubedohardware.com.br/profile/825205-blumer-celta/ "Ir ao perfil de Blumer Celta")  
+        1 hora atrás
         
     
 
