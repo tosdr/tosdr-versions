@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Wizard of Wor](https://www.myabandonware.com/game/wizard-of-wor-56h)
+* [Virtua Racing](https://www.myabandonware.com/game/virtua-racing-813)
 * [4-Get-It](https://www.myabandonware.com/game/4-get-it-6oj)
 * [P.T. Barnum's Acrobats!](https://www.myabandonware.com/game/p-t-barnum-s-acrobats-svj)
 * [Power Lords](https://www.myabandonware.com/game/power-lords-svi)
-* [Serizawa Hachidan no Tsumeshogi](https://www.myabandonware.com/game/serizawa-hachidan-no-tsumeshogi-svh)
-* [Borderline](https://www.myabandonware.com/game/borderline-sj7)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
