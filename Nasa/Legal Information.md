@@ -263,69 +263,69 @@ article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-gran
 
 ### Highlights
 
-[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
+[![](https://www.nasa.gov/wp-content/uploads/2024/10/gateway.png?w=1024)
+
+3 min read
+
+### What Human Health Science Should Be Done on Gateway Lunar Space Station?
+
+article 5 hours ago](https://www.nasa.gov/humans-in-space/what-human-health-science-should-be-done-on-gateway-lunar-space-station/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
 
 4 min read
 
 ### NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet 
 
-article 23 hours ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)[![An astronaut wearing headphones works with multiple laptops inside the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/iss060e033664.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)[![An astronaut wearing headphones works with multiple laptops inside the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/iss060e033664.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Oct. 11, 2024
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-11-2024/)[![A long-legged golden spider the size of a person’s palm is visible in the middle of a web with uneven and asymmetrical lines.](https://www.nasa.gov/wp-content/uploads/2024/10/iss027e035652.jpg?w=1024)
-
-4 min read
-
-### Spooky on the Space Station
-
-article 2 days ago](https://www.nasa.gov/missions/station/iss-research/spooky-on-the-space-station/)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-11-2024/)
 
 ### Highlights
 
-[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
+[![Amendment 62: New Opportunity: A.61 INSPYRE Science Team](https://science.nasa.gov/wp-content/uploads/2024/09/quebec-canada-wildfire-smoke-consumes-new-jersey-and-new-york-city-june-7-2023-52958921436.jpg)
+
+2 min read
+
+### Amendment 62: New Opportunity: A.61 INSPYRE Science Team
+
+article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
 
 2 min read
 
 ### Amendment 17: B.5 Living With a Star Science: Several Small Updates
 
-article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)[![Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.](https://science.nasa.gov/wp-content/uploads/2023/12/jason3-20160114climate.jpg)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)[![Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.](https://science.nasa.gov/wp-content/uploads/2023/12/jason3-20160114climate.jpg)
 
 1 min read
 
 ### Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.
 
-article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)[![Carbon Mapper Coalition’s Tanager-1 satellite detected this methane plume in Karachi, Pakistan](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26416-ghg-plumes-16.jpg?w=1024)
-
-4 min read
-
-### First Greenhouse Gas Plumes Detected With NASA-Designed Instrument
-
-article 7 days ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
+article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)
 
 ### Highlights
 
-[![Track the Solar Cycle with Sunspots](https://science.nasa.gov/wp-content/uploads/2024/10/sdo-1024-hmiic-10-8-24.jpg)
+[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
+
+5 min read
+
+### Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
+
+article 2 hours ago](https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)[![The white material seen within this Martian gully is believed to be dusty water ice](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26408-dusty-water-ice-in-mars-dao-vallis-already-published.jpg?w=1024)
+
+4 min read
+
+### Could Life Exist Below Mars Ice? NASA Study Proposes Possibilities
+
+article 3 hours ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/)[![Track the Solar Cycle with Sunspots](https://science.nasa.gov/wp-content/uploads/2024/10/sdo-1024-hmiic-10-8-24.jpg)
 
 5 min read
 
 ### Track the Solar Cycle with Sunspots
 
-article 17 hours ago](https://science.nasa.gov/sun/track-the-solar-cycle-with-sunspots/)[![New Team to Assess NASA’s Mars Sample Return Architecture Proposals](https://science.nasa.gov/wp-content/uploads/2024/05/nasa_meatball_large.jpg)
-
-4 min read
-
-### New Team to Assess NASA’s Mars Sample Return Architecture Proposals
-
-article 18 hours ago](https://science.nasa.gov/missions/mars-sample-return/new-team-to-assess-nasas-mars-sample-return-architecture-proposals/)[![Amendment 61: C.23 Analog Activities to Support Artemis Lunar Operations Deferred to ROSES-25.](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
-
-1 min read
-
-### Amendment 61: C.23 Analog Activities to Support Artemis Lunar Operations Deferred to ROSES-25.
-
-article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-61-c-23-analog-activities-to-support-artemis-lunar-operations-deferred-to-roses-25/)
+article 22 hours ago](https://science.nasa.gov/sun/track-the-solar-cycle-with-sunspots/)
 
 ### Featured
 
@@ -351,25 +351,25 @@ article 2 days ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missi
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/04/51231541422-c6a4663ee7-k.jpg?w=1024)
-
-4 min read
-
-### NASA’s SpaceX 31st Resupply Mission to Launch Experiments to Station
-
-article 8 mins ago](https://www.nasa.gov/missions/station/iss-research/nasas-spacex-31st-resupply-mission-to-launch-experiments-to-station/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
-
-4 min read
-
-### NASA Pilots Add Perspective to Research
-
-article 17 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![Track the Solar Cycle with Sunspots](https://science.nasa.gov/wp-content/uploads/2024/10/sdo-1024-hmiic-10-8-24.jpg)
+[![Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip](https://science.nasa.gov/wp-content/uploads/2024/03/venus-mariner-10-pia23791-fig2.jpg)
 
 5 min read
 
-### Track the Solar Cycle with Sunspots
+### Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
 
-article 17 hours ago](https://science.nasa.gov/sun/track-the-solar-cycle-with-sunspots/)
+article 2 hours ago](https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/)[![Amendment 62: New Opportunity: A.61 INSPYRE Science Team](https://science.nasa.gov/wp-content/uploads/2024/09/quebec-canada-wildfire-smoke-consumes-new-jersey-and-new-york-city-june-7-2023-52958921436.jpg)
+
+2 min read
+
+### Amendment 62: New Opportunity: A.61 INSPYRE Science Team
+
+article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)[![The white material seen within this Martian gully is believed to be dusty water ice](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26408-dusty-water-ice-in-mars-dao-vallis-already-published.jpg?w=1024)
+
+4 min read
+
+### Could Life Exist Below Mars Ice? NASA Study Proposes Possibilities
+
+article 3 hours ago](https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 17 hours ago](https://science.nasa.gov/sun/track-the-solar-cycle-with-su
 
 ### NASA Pilots Add Perspective to Research
 
-article 17 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
+article 22 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
 
 3 min read
 
@@ -401,13 +401,13 @@ article 4 days ago](https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family
 
 ### The View from Space Keeps Getting Better  
 
-article 18 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
+article 23 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
 
 4 min read
 
 ### NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet 
 
-article 23 hours ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
+article 1 day ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
 
 3 min read
 
@@ -445,7 +445,7 @@ article 6 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/contr
 
 ### Kathryn Sullivan: The First American Woman to Walk in Space
 
-article 7 days ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)
+article 1 week ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)
 
 ### Highlights
 
@@ -455,7 +455,7 @@ article 7 days ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-amer
 
 ### Sacrificio y Éxito: Ingeniero de la NASA honra sus orígenes familiares
 
-article 18 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+article 23 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
 
 2 min read
 
