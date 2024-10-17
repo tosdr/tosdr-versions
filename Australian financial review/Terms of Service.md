@@ -292,43 +292,46 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1283%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c3b2f32aad49be0bf45a5c730f7e0058b241deb7)](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-what-happened-at-the-financial-review-s-prestige-watch-weekends-20240829-p5k6ff)
+[![ ](https://static.ffx.io/images/$zoom_0.6192%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_148%2C$y_560/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/7fbf39e70bc7e555d7bf32ecff7c1d23eb8e0bf5)](https://www.afr.com/life-and-luxury/fashion-and-style/made-in-australia-a-showstopping-watch-for-530-000-20241016-p5kir6)
 
-### [Here’s what happened at the Financial Review’s prestige watch weekends](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-what-happened-at-the-financial-review-s-prestige-watch-weekends-20240829-p5k6ff)
+### [Made in Australia – a showstopping watch for $530,000](https://www.afr.com/life-and-luxury/fashion-and-style/made-in-australia-a-showstopping-watch-for-530-000-20241016-p5kir6)
 
+* 55 mins ago
 * Bani McSpedden
 
-* ### [Outback-inspired pieces set to go on show at Design Miami fair](https://www.afr.com/life-and-luxury/design/outback-inspired-pieces-set-to-go-on-show-at-design-miami-fair-20240829-p5k6fa)
+* ### [How to make Supernormal’s famous lobster roll](https://www.afr.com/life-and-luxury/food-and-wine/how-to-make-supernormal-s-famous-lobster-roll-20240829-p5k6fk)
     
-* ### [The Australian fashion staple you won’t see on the streets of Paris](https://www.afr.com/life-and-luxury/fashion-and-style/the-australian-fashion-staple-you-won-t-see-on-the-streets-of-paris-20241008-p5kgkw)
+* ### [This Australian winemaker has just won a global award for his sparkling](https://www.afr.com/life-and-luxury/food-and-wine/this-australian-winemaker-has-just-won-a-global-award-for-his-sparkling-20240829-p5k6fh)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Jaqui Lane, Founder of The Book Adviser.](https://static.ffx.io/images/$zoom_0.6917%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_941%2C$y_387/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b6bd2c768698b09df06387c1148773001ed7bf2b)](https://www.afr.com/work-and-careers/workplace/this-year-s-worst-corporate-jargon-and-the-woman-trying-to-fight-it-20241009-p5kh24)
+[![ ](https://static.ffx.io/images/$zoom_0.9201%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/57eeffba48f75fbe6bcc236babe669b4f546b12c)](https://www.afr.com/work-and-careers/careers/how-to-have-a-job-you-love-save-the-world-and-earn-up-to-800k-20240827-p5k5o1)
 
-### [This year’s worst corporate jargon, and the woman trying to fight it](https://www.afr.com/work-and-careers/workplace/this-year-s-worst-corporate-jargon-and-the-woman-trying-to-fight-it-20241009-p5kh24)
+### [How to have a job you love, save the world and earn up to $800k](https://www.afr.com/work-and-careers/careers/how-to-have-a-job-you-love-save-the-world-and-earn-up-to-800k-20240827-p5k5o1)
 
-* Patrick Durkin
+* 55 mins ago
+* Sally Patten
 
-* ### [Why Nelson Mandela’s election was a turning point for this CEO](https://www.afr.com/work-and-careers/workplace/why-nelson-mandela-s-election-was-a-turning-point-for-this-ceo-20241014-p5ki0u)
+* ### [This year’s worst corporate jargon, and the woman trying to fight it](https://www.afr.com/work-and-careers/workplace/this-year-s-worst-corporate-jargon-and-the-woman-trying-to-fight-it-20241009-p5kh24)
     
-* ### [Solomon Lew reveals why he is still obsessed with Myer](https://www.afr.com/work-and-careers/workplace/solomon-lew-reveals-why-he-is-still-obsessed-with-myer-20240925-p5kdfp)
+* ### [Why Nelson Mandela’s election was a turning point for this CEO](https://www.afr.com/work-and-careers/workplace/why-nelson-mandela-s-election-was-a-turning-point-for-this-ceo-20241014-p5ki0u)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![“great value” 1945 cognac from Old Master spirits](https://static.ffx.io/images/$zoom_0.8278%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_437/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/bd25d932ddded422a65ebb9ed59f8ea3376e9f99)](https://www.afr.com/life-and-luxury/food-and-wine/this-world-war-ii-cognac-could-be-yours-for-a-mere-1299-a-bottle-20241008-p5kgpp)
+[![ ](https://static.ffx.io/images/$zoom_0.3027%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8726ecfad2e596c4658f956c093f8ea9451e8935)](https://www.afr.com/life-and-luxury/fashion-and-style/wes-anderson-art-organic-tableware-and-the-closest-shave-20240930-p5kemz)
 
-### [This World War II cognac could be yours for a ‘mere’ $1299 a bottle](https://www.afr.com/life-and-luxury/food-and-wine/this-world-war-ii-cognac-could-be-yours-for-a-mere-1299-a-bottle-20241008-p5kgpp)
+### [Wes Anderson art, organic tableware and the closest shave](https://www.afr.com/life-and-luxury/fashion-and-style/wes-anderson-art-organic-tableware-and-the-closest-shave-20240930-p5kemz)
 
-* Max Allen
+* 55 mins ago
+* Eugenie Kelly
 
-* ### [Why you would go skiing in Whistler in spring](https://www.afr.com/life-and-luxury/travel/why-you-would-go-skiing-in-whistler-in-spring-20240505-p5fp1z)
+* ### [How do I know my resale handbag is the real deal?](https://www.afr.com/life-and-luxury/fashion-and-style/how-do-i-know-my-resale-handbag-is-the-real-deal-20240920-p5kc8a)
     
-* ### [A hidden gem on Morocco’s Barbary Coast](https://www.afr.com/life-and-luxury/travel/a-hidden-gem-on-morocco-s-barbary-coast-20240926-p5kduw)
+* ### [This World War II cognac could be yours for a ‘mere’ $1299 a bottle](https://www.afr.com/life-and-luxury/food-and-wine/this-world-war-ii-cognac-could-be-yours-for-a-mere-1299-a-bottle-20241008-p5kgpp)
     
 
 [Rich List](https://www.afr.com/rich-list)
