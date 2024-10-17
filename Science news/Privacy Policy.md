@@ -114,11 +114,17 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Life](https://www.sciencenews.org/topic/life)
+    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+            
+            ### [How tiny phytoplankton trek long distances upward in the ocean](https://www.sciencenews.org/article/phytoplankton-trek-upward-ocean)
+            
+            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")6 hours ago
+            
+        * [Life](https://www.sciencenews.org/topic/life)
             
             ### [Here are some stellar picks from Nikon’s top microscopy images of 2024](https://www.sciencenews.org/article/2024-nikon-small-world-photography)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")1 hour ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")7 hours ago
             
         * [Plants](https://www.sciencenews.org/topic/plants)
             
@@ -126,19 +132,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")October 16, 2024
             
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [At-home experiments shed light on cats’ liquid behavior](https://www.sciencenews.org/article/home-experiments-cats-liquid-behavior)
-            
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 15, 2024
-            
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
         * [Agriculture](https://www.sciencenews.org/topic/agriculture)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Science & Society](https://www.sciencenews.org/topic/science-society)
+    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+            
+            ### [How tiny phytoplankton trek long distances upward in the ocean](https://www.sciencenews.org/article/phytoplankton-trek-upward-ocean)
+            
+            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")6 hours ago
+            
+        * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
             ### [There’s a new term for attempting to own the wind: ventography](https://www.sciencenews.org/article/wind-ownership-ventography)
             
@@ -149,12 +155,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [What leads rivers to suddenly change course?](https://www.sciencenews.org/article/why-rivers-suddenly-change-course)
             
             By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")October 10, 2024
-            
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [Climate change fueled the fury of hurricanes Helene and Milton](https://www.sciencenews.org/article/climate-change-hurricanes-helene-milton)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")October 9, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
