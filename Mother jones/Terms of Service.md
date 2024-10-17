@@ -8,10 +8,10 @@
 
 *  
     
-* [RFK Jr.](https://www.motherjones.com/politics/2024/10/jessica-reed-kraus-houseinhabit/)
-* [Disability Rights](https://www.motherjones.com/politics/2024/10/suit-over-gender-dysphoria-could-dismantle-disability-rights/)
-* [Trump](https://www.motherjones.com/politics/2024/10/tens-of-thousands-of-people-gathered-in-dc-to-worship-tr-i-mean-jesus/)
-* [Tim Walz](https://www.motherjones.com/politics/2024/10/a-maga-conspiracist-is-trying-to-launch-a-lurid-lie-about-tim-walz-and-its-working/)
+* [Ted Cruz](https://www.motherjones.com/politics/2024/10/texas-democrats-are-trying-the-throw-ted-cruz-in-a-locker-strategy/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/10/kamala-harris-donald-trump-racism-misogyny-our-land/)
+* [Trump’s Mass Deportation Plan](https://www.motherjones.com/politics/2024/10/donald-trump-mass-deportations-us-food-supply-problems-immigrant-labor/)
+* [Georgia](https://www.motherjones.com/politics/2024/10/a-georgia-judge-just-blocked-7-rules-passed-by-maga-election-officials/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [RFK Jr.](https://www.motherjones.com/politics/2024/10/jessica-reed-kraus-houseinhabit/)
-* [Disability Rights](https://www.motherjones.com/politics/2024/10/suit-over-gender-dysphoria-could-dismantle-disability-rights/)
-* [Trump](https://www.motherjones.com/politics/2024/10/tens-of-thousands-of-people-gathered-in-dc-to-worship-tr-i-mean-jesus/)
-* [Tim Walz](https://www.motherjones.com/politics/2024/10/a-maga-conspiracist-is-trying-to-launch-a-lurid-lie-about-tim-walz-and-its-working/)
+* [Ted Cruz](https://www.motherjones.com/politics/2024/10/texas-democrats-are-trying-the-throw-ted-cruz-in-a-locker-strategy/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/10/kamala-harris-donald-trump-racism-misogyny-our-land/)
+* [Trump’s Mass Deportation Plan](https://www.motherjones.com/politics/2024/10/donald-trump-mass-deportations-us-food-supply-problems-immigrant-labor/)
+* [Georgia](https://www.motherjones.com/politics/2024/10/a-georgia-judge-just-blocked-7-rules-passed-by-maga-election-officials/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
