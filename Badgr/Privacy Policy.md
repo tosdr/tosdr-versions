@@ -321,7 +321,7 @@ Footer Utility
 * [Do Not Sell My Personal Information](https://info.badgr.com/policies/california-opt-out)
 * [Modern Slavery Act](https://info.badgr.com/policies/modern-slavery-act)
 * [Acceptable Use](https://info.badgr.com/policies/acceptable-use)
-* [Data Processing](https://info.badgr.com/policies/data-processing-addendum)
+* [Data Processing](https://info.badgr.com/policies/data-processing-addendum-2022)
 * [Status](https://status.instructure.com/)
 
 Social
