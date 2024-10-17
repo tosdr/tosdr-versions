@@ -299,13 +299,21 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» запустила Всероссийский мониторинг безопасности пешеходных переходов «Дом-школа-дом»](https://cdn.er.ru/media/news/October2024/UjueGdt0PTXBqzXJ1JcE-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zapustila-vserossijskij-monitoring-bezopasnosti-peshehodnyh-perehodov-dom-shkola-dom)
+
+[«Единая Россия» запустила Всероссийский мониторинг безопасности пешеходных переходов «Дом-школа-дом»](https://er.ru/activity/news/edinaya-rossiya-zapustila-vserossijskij-monitoring-bezopasnosti-peshehodnyh-perehodov-dom-shkola-dom)
+
+[#Тен](https://er.ru/activity/news?tags%5B0%5D=10707) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#БезопасныеДороги](https://er.ru/activity/news?tags%5B0%5D=1091227) [#мониторинг](https://er.ru/activity/news?tags%5B0%5D=5385) [#пешеходныепереходы](https://er.ru/activity/news?tags%5B0%5D=110758) [#безопасностьнадороге](https://er.ru/activity/news?tags%5B0%5D=119360) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418)
+
+17.10.24
+
 [![Владимир Путин: В планах – ежегодно строить за счёт федеральной поддержки не менее 350 спортивных объектов](https://cdn.er.ru/media/news/October2024/s9DgE5CPTw1tAHTYlmTC-small.jpg)](https://er.ru/activity/news/vladimir-putin-v-planah-ezhegodno-stroit-za-schyot-federalnoj-podderzhki-ne-menee-350-sportivnyh-obektov)
 
 [Владимир Путин: В планах – ежегодно строить за счёт федеральной поддержки не менее 350 спортивных объектов](https://er.ru/activity/news/vladimir-putin-v-planah-ezhegodno-stroit-za-schyot-federalnoj-podderzhki-ne-menee-350-sportivnyh-obektov)
 
 [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#спортплощадки](https://er.ru/activity/news?tags%5B0%5D=5617) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#спортобъекты](https://er.ru/activity/news?tags%5B0%5D=2005) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637)
 
-Сегодня 18:35
+17.10.24
 
 [![Госдума приняла в первом чтении законопроект о запрете пропаганды идеологии чайлдфри](https://cdn.er.ru/media/news/October2024/s1iyWjzzaR6YAchOECTQ-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-o-zaprete-propagandy-ideologii-chajldfri)
 
@@ -313,7 +321,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#семейныеценности](https://er.ru/activity/news?tags%5B0%5D=135171)
 
-Сегодня 14:56
+17.10.24
 
 [![«Единая Россия» подключится к разработке госстандарта для проведения квестов](https://cdn.er.ru/media/news/October2024/T3hTpp0vDc2vDffLvOJ4-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-podklyuchitsya-k-razrabotke-gosstandarta-dlya-provedeniya-kvestov)
 
@@ -321,7 +329,7 @@
 
 [#Шапошников](https://er.ru/activity/news?tags%5B0%5D=3789) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#квесты](https://er.ru/activity/news?tags%5B0%5D=101108) [#квест-игры](https://er.ru/activity/news?tags%5B0%5D=97183) [#развлечения](https://er.ru/activity/news?tags%5B0%5D=47330)
 
-Сегодня 13:30
+17.10.24
 
 [![Трудоустройство участников СВО, профориентация подростков, переподготовка кадров: партпроект «Моя карьера с Единой Россией» представил итоги работы с начала года](https://cdn.er.ru/media/news/October2024/0fudalmTeilGZxFYrTus-small.JPG)](https://er.ru/activity/news/trudoustrojstvo-uchastnikov-svo-proforientaciya-podrostkov-perepodgotovka-kadrov-partproekt-moya-karera-s-edinoj-rossiej-predstavil-itogi-raboty-s-nachala-goda)
 
@@ -329,21 +337,13 @@
 
 [#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#Иванков](https://er.ru/activity/news?tags%5B0%5D=92573) [#Роструд](https://er.ru/activity/news?tags%5B0%5D=30255) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#МояКарьерасЕдинойРоссией](https://er.ru/activity/news?tags%5B0%5D=1093129) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#профориентация](https://er.ru/activity/news?tags%5B0%5D=6397) [центрызанятости](https://er.ru/activity/news?tags%5B0%5D=153605) [#рыноктруда](https://er.ru/activity/news?tags%5B0%5D=112742) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642)
 
-Сегодня 12:30
+17.10.24
 
 [![Подготовка к выборам, привлечение активистов и молодежи, работа с избирателями и первичками: Дмитрий Медведев поставил задачи региональным отделениям «Единой России»](https://cdn.er.ru/media/news/October2024/Ts1ybY83k6Rmib8BUaPe-small.jpg)](https://er.ru/activity/news/podgotovka-k-vyboram-privlechenie-aktivistov-i-molodezhi-rabota-s-izbiratelyami-i-pervichkami-dmitrij-medvedev-postavil-zadachi-regionalnym-otdeleniyam-edinoj-rossii)
 
 [Подготовка к выборам, привлечение активистов и молодежи, работа с избирателями и первичками: Дмитрий Медведев поставил задачи региональным отделениям «Единой России»](https://er.ru/activity/news/podgotovka-k-vyboram-privlechenie-aktivistov-i-molodezhi-rabota-s-izbiratelyami-i-pervichkami-dmitrij-medvedev-postavil-zadachi-regionalnym-otdeleniyam-edinoj-rossii)
 
 [#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#региональныеотделения](https://er.ru/activity/news?tags%5B0%5D=140130) [#РИК](https://er.ru/activity/news?tags%5B0%5D=123) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-16.10.24
-
-[![Дмитрий Медведев ответил на вопросы руководителей региональных исполкомов «Единой России» со всей страны](https://cdn.er.ru/media/news/October2024/alzDqY1d7PJXJYn2QMy8-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-otvetil-na-voprosy-rukovoditelej-regionalnyh-ispolkomov-edinoj-rossii-so-vsej-strany)
-
-[Дмитрий Медведев ответил на вопросы руководителей региональных исполкомов «Единой России» со всей страны](https://er.ru/activity/news/dmitrij-medvedev-otvetil-na-voprosy-rukovoditelej-regionalnyh-ispolkomov-edinoj-rossii-so-vsej-strany)
-
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#реготделения](https://er.ru/activity/news?tags%5B0%5D=82524) [#ЦИК](https://er.ru/activity/news?tags%5B0%5D=1527) [#исполкомы](https://er.ru/activity/news?tags%5B0%5D=17190)
 
 16.10.24
 
