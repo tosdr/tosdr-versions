@@ -184,7 +184,7 @@ Ask USA.gov a question at
 
 USAGov is the official guide to government information and services
 
-An official website of the [U.S. Gerneral Services Administration](https://www.gsa.gov/)
+An official website of the [U.S. General Services Administration](https://www.gsa.gov/)
 
 * [GSA accessibility support](https://www.gsa.gov/website-information/accessibility-statement?footer=)
 * [GSA privacy policy](https://www.gsa.gov/website-information/website-policies#privacy)
