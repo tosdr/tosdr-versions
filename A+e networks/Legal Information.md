@@ -70,6 +70,12 @@ Latest news
 
 [All articles](https://www.aenetworks.tv/news)
 
+    [![Hearst Networks UK and Sky Ireland Ad Sales Launch](/s3/files/styles/card_tablet/public/2024-10/Hearst%20Networks%20UK%20x%20Sky%20Media%20-%20Ad%20Sales%20Ireland%20Launch%203.jpg?itok=4levHaee)
+
+17 October 2024
+
+### HEARST NETWORKS UK EXPANDS REACH IN IRELAND WITH SKY MEDIA PARTNERSHIP](https://www.aenetworks.tv/news/uk/hearst-networks-uk-expands-reach-ireland-sky-media-partnership)
+
     [![Hearst Networks UK GPTW ](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-09/September%20-%20GPTW%20EMEA%20PR_2.jpg?VersionId=yt4IvdiRIb04.OrEYqTFUo_Ws3U14QTy&itok=SaLx8iBj)
 
 24 September 2024
@@ -87,12 +93,6 @@ Latest news
 12 September 2024
 
 ### A+E NETWORKS EMEA IS REBRANDING ITS COMPANY NAME TO HEARST NETWORKS EMEA](https://www.aenetworks.tv/news/ae-networks-emea-rebranding-its-company-name-hearst-networks-emea)
-
-    [![Robert Catesby (played by Chuku Modu) at the Duck and Drake Inn](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-09/Gunpowder%20Siege%20Release.jpg?VersionId=F5tkmW2_93apozf3XrdHmRc8ZvWav0_E&itok=RdvmDdjD)
-
-11 September 2024
-
-### AWARD WINNING LIGHTBOX PRODUCING A NEW HISTORICAL DRAMA SERIES FOR SKY HISTORY](https://www.aenetworks.tv/news/uk/award-winning-lightbox-producing-new-historical-drama-series-sky-history)
 
 Corporate
 ---------
