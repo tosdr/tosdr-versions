@@ -68,7 +68,7 @@ Close
 
 [Support Children's](https://www.childrensal.org/foundation) [Volunteer Services](https://www.childrensal.org/services/volunteer-services)
 
-[![Back to homepage](https://www.childrensal.org/sites/default/files/hg-brands/childrens-of-alabama-logo_0.png)](https://www.childrensal.org/)
+[![Childrens of Alabama logo](https://www.childrensal.org/sites/default/files/hg-brands/childrens-of-alabama-logo_0.png)](https://www.childrensal.org/)
 
 * [Locations](javascript:void(0);)
 * [Programs & Services](https://www.childrensal.org/services)
@@ -157,14 +157,14 @@ Privacy Officer 
 Children’s of Alabama   
 1600 7th Avenue South  
 Birmingham, AL 35233  
-Email: HIPAA@ChildrensAL.org  
+Email: [HIPAA@ChildrensAL.org](mailto:HIPAA@ChildrensAL.org)  
 Phone: 205.638.5959  
 Fax: 205.638.2857
 
 Questions regarding fundraising activities, may be directed to: 
 
 Stefanie Blakely  
-Stefanie.blakely@childrensal.org  
+[Stefanie.blakely@childrensal.org](mailto:Stefanie.blakely@childrensal.org)  
 Phone: 205.638.2769  
 Fax: 205-638-2743
 
