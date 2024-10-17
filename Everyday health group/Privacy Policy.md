@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/which-matters-more-dementia-prevention-diet-exercise-1440x810.jpg)
+
+Which Does More to Prevent Dementia, Diet or Exercise?](https://www.everydayhealth.com/neurological-disorders/which-does-more-to-prevent-dementia-diet-or-exercise/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/covid-can-raise-risk-of-heart-attack-and-stroke-1440x810.jpg)
 
 COVID-19 Infection May Raise Heart Attack Risk for 3 Years](https://www.everydayhealth.com/infectious-diseases/covid-infection-may-raise-heart-attack-risk-for-three-years/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/25-percent-adults-suspect-undiagnosed-adhd-1440x810.jpg)
-
-1 in 4 Adults Suspect They Have ADHD, Survey Says](https://www.everydayhealth.com/mental-health-conditions/one-in-four-adults-suspect-they-have-adhd/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/with-mounjaro-shortage-over-will-tirzepatide-become-unavailable-1440x810.jpg)
 
