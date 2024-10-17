@@ -70,7 +70,7 @@ Breadcrumb
 1. [Home](https://www.identrust.com/) \-
 2. IdenTrust Privacy Policy
 
-_September 20, 2023_
+_September 30, 2024_
 
 1\. INTRODUCTION AND PURPOSE OF INFORMATION COLLECTION
 ------------------------------------------------------
@@ -192,7 +192,7 @@ If you obtained your Digital Certificate through a Registration Authority, we wi
 
 We do not sell or otherwise provide your data to any third party for their marketing purposes.
 
-**2C.**  **HOW YOUR PERSONAL INFORMATION IS DISCLOSED**
+**2C.**  **HOW YOUR PERSONAL INFORMATION IS DISCLOSED**
 
 We may be required to disclose your personal information by law, by order of a court with suitable jurisdiction, by subpoena, or by request from other government or law enforcement authorities. We may also disclose it if, in our judgment, we have a good-faith belief that such disclosure is necessary or advisable. This includes the protection of your rights and property and the rights and property of others with whom we do business, or the resolution of a dispute related to your Personal Information.
 
@@ -238,7 +238,7 @@ Your Personal Information is used for fulfillment of our contracts, for adherenc
 
 **2G. USING YOUR DIGITAL CERTIFICATE**
 
-The purpose of issuing Digital Certificates requires disclosing certain information about the Digital Certificate holder to any person or organization that relies upon the Digital Certificate (a Relying Party). The information to be disclosed is contained within the Digital Certificate itself. Disclosure of the information is made at the Relying Party’s request using special online protocols that are part of email,  browsers, and other computer applications. IdenTrust maintains lists, or repositories, of certificates and their statuses, and only the information contained in a Digital Certificate is available in a repository for disclosure, as described in the following paragraphs.
+The purpose of issuing Digital Certificates requires disclosing certain information about the Digital Certificate holder to any person or organization that relies upon the Digital Certificate (a Relying Party). The information to be disclosed is contained within the Digital Certificate itself. Disclosure of the information is made at the Relying Party’s request using special online protocols that are part of email,  browsers, and other computer applications. IdenTrust maintains lists, or repositories, of certificates and their statuses, and only the information contained in a Digital Certificate is available in a repository for disclosure, as described in the following paragraphs.
 
 All information contained in a Digital Certificate, or in a revocation or suspension instruction, validation request, validation response, or certificate revocation list (collectively, "Credential Documents") is not considered confidential and can be viewed by others. A Relying Party may access, review, and rely on such Credential Documents; these activities are essential to the purpose and function of a Digital Certificate.
 
@@ -282,7 +282,7 @@ We can correct inaccurate data using the processes described above. We can also 
 4\. DISPUTE RESOLUTION; BINDING ARBITRATION
 -------------------------------------------
 
-In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, IdenTrust commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States, Canada, and the UK.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework) to get more information or to file a complaint. The services of JAMS are provided at no cost to you.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, IdenTrust commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States, Canada, and the UK.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework) to get more information or to file a complaint. The services of JAMS are provided at no cost to you.
 
 In accordance with the DPF and subject to any applicable statutes and case law, it may be possible, under certain conditions, for an individual who is identified within Subject Data to invoke binding arbitration with respect to what the DPF identifies as “residual” claims; provided, however, IdenTrust only agrees to such arbitration where (a) such arbitration is required under the DPF, (b) such arbitration subject to all conditions set forth in the DPF relating to such arbitration, and (c) the individual initiating such arbitration notices IdenTrust of the arbitration and follows the procedures specified in the DPF.
 
