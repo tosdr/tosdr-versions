@@ -76,7 +76,7 @@ article4 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-o
 
 ### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 
-article1 day ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article2 days ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -253,7 +253,7 @@ article 4 days ago](https://www.nasa.gov/missions/europa-clipper/can-life-exist-
 
 ### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 
-article 1 day ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
+article 2 days ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
 
 2 min read
 
@@ -269,7 +269,7 @@ article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-gran
 
 ### NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet 
 
-article 8 hours ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)[![An astronaut wearing headphones works with multiple laptops inside the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/iss060e033664.jpg?w=1024)
+article 13 hours ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)[![An astronaut wearing headphones works with multiple laptops inside the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/iss060e033664.jpg?w=1024)
 
 2 min read
 
@@ -291,7 +291,7 @@ article 1 day ago](https://www.nasa.gov/missions/station/iss-research/spooky-on-
 
 ### Amendment 17: B.5 Living With a Star Science: Several Small Updates
 
-article 6 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)[![Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.](https://science.nasa.gov/wp-content/uploads/2023/12/jason3-20160114climate.jpg)
+article 11 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)[![Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.](https://science.nasa.gov/wp-content/uploads/2023/12/jason3-20160114climate.jpg)
 
 1 min read
 
@@ -313,19 +313,19 @@ article 6 days ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detec
 
 ### Track the Solar Cycle with Sunspots
 
-article 2 hours ago](https://science.nasa.gov/sun/track-the-solar-cycle-with-sunspots/)[![New Team to Assess NASA’s Mars Sample Return Architecture Proposals](https://science.nasa.gov/wp-content/uploads/2024/05/nasa_meatball_large.jpg)
+article 7 hours ago](https://science.nasa.gov/sun/track-the-solar-cycle-with-sunspots/)[![New Team to Assess NASA’s Mars Sample Return Architecture Proposals](https://science.nasa.gov/wp-content/uploads/2024/05/nasa_meatball_large.jpg)
 
 4 min read
 
 ### New Team to Assess NASA’s Mars Sample Return Architecture Proposals
 
-article 3 hours ago](https://science.nasa.gov/missions/mars-sample-return/new-team-to-assess-nasas-mars-sample-return-architecture-proposals/)[![Amendment 61: C.23 Analog Activities to Support Artemis Lunar Operations Deferred to ROSES-25.](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+article 8 hours ago](https://science.nasa.gov/missions/mars-sample-return/new-team-to-assess-nasas-mars-sample-return-architecture-proposals/)[![Amendment 61: C.23 Analog Activities to Support Artemis Lunar Operations Deferred to ROSES-25.](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
 
 1 min read
 
 ### Amendment 61: C.23 Analog Activities to Support Artemis Lunar Operations Deferred to ROSES-25.
 
-article 6 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-61-c-23-analog-activities-to-support-artemis-lunar-operations-deferred-to-roses-25/)
+article 11 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-61-c-23-analog-activities-to-support-artemis-lunar-operations-deferred-to-roses-25/)
 
 ### Featured
 
@@ -335,7 +335,7 @@ article 6 hours ago](https://science.nasa.gov/researchers/solicitations/roses-20
 
 ### NASA’s Hubble Sees a Stellar Volcano
 
-article 9 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
+article 14 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)[![Amendment 60: New Opportunity: D.21 U.S. Contributions to Ariel Preparatory Science](https://science.nasa.gov/wp-content/uploads/2023/09/CASE_768.jpeg)
 
 3 min read
 
@@ -347,7 +347,7 @@ article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024
 
 ### Snippet of Euclid Mission’s Cosmic Atlas Released by ESA
 
-article 1 day ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)
+article 2 days ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missions-cosmic-atlas-released-by-esa/)
 
 ### Highlights
 
@@ -357,19 +357,19 @@ article 1 day ago](https://www.nasa.gov/missions/euclid/snippet-of-euclid-missio
 
 ### NASA Pilots Add Perspective to Research
 
-article 2 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![Track the Solar Cycle with Sunspots](https://science.nasa.gov/wp-content/uploads/2024/10/sdo-1024-hmiic-10-8-24.jpg)
+article 7 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![Track the Solar Cycle with Sunspots](https://science.nasa.gov/wp-content/uploads/2024/10/sdo-1024-hmiic-10-8-24.jpg)
 
 5 min read
 
 ### Track the Solar Cycle with Sunspots
 
-article 2 hours ago](https://science.nasa.gov/sun/track-the-solar-cycle-with-sunspots/)[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
+article 7 hours ago](https://science.nasa.gov/sun/track-the-solar-cycle-with-sunspots/)[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
 
 2 min read
 
 ### Amendment 17: B.5 Living With a Star Science: Several Small Updates
 
-article 6 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)
+article 11 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 6 hours ago](https://science.nasa.gov/researchers/solicitations/roses-20
 
 ### NASA Pilots Add Perspective to Research
 
-article 2 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
+article 7 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
 
 3 min read
 
@@ -401,13 +401,13 @@ article 4 days ago](https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family
 
 ### The View from Space Keeps Getting Better  
 
-article 3 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
+article 8 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/)[![An artistic rendering. We see a line art representation of a commercial satellite relay communicating with Earth over a blue starry background. Four blue commercial satellites are seen surrounding the top half of the Earth. A thin bright blue beam of light is shown connecting each satellite to Earth, as a way to represent the flow of data. The surface of the Earth is covered in many small dots connected by lines to represent communication nodes across near-Earth orbit and on Earth.](https://www.nasa.gov/wp-content/uploads/2024/10/csp.webp?w=1001)
 
 4 min read
 
 ### NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet 
 
-article 8 hours ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
+article 13 hours ago](https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/)[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
 
 3 min read
 
@@ -445,7 +445,7 @@ article 5 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/contr
 
 ### Kathryn Sullivan: The First American Woman to Walk in Space
 
-article 6 days ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)
+article 7 days ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)
 
 ### Highlights
 
@@ -455,7 +455,7 @@ article 6 days ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-amer
 
 ### Sacrificio y Éxito: Ingeniero de la NASA honra sus orígenes familiares
 
-article 3 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+article 8 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
 
 2 min read
 
