@@ -60,7 +60,7 @@ We Champion Freedom & Self-Reliance
         
         ###### "Ultracharge" Patriot Power Generator 2000X + Sidekick Package
         
-        7 reviews](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
+        8 reviews](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
         
         [![ 4Patriots 3-Month PlatinumXL Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/ARRAY-3MO-PLAT-1024x1024_360x.png?v=1716225013)
         
