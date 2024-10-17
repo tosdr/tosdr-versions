@@ -129,9 +129,9 @@ Mobile Navigation
     
     ###### [Downtown Summer Sounds](https://downtownseattle.org/events/downtown-summer-sounds/)
     
-    ###### [DSA Member Roundtable](https://downtownseattle.org/events/dsa-member-roundtable/)
+    ###### [DSA Member Roundtable](https://downtownseattle.org/event/dsa-member-roundtable/)
     
-    ###### [DSA Virtual Access](https://downtownseattle.org/events/dsa-virtual-access/)
+    ###### [DSA Virtual Access](https://downtownseattle.org/event/dsa-virtual-access/)
     
     ###### [Holidays](https://downtownseattle.org/events/holidays/)
     
@@ -324,8 +324,8 @@ Fax 206-625-9940
 3. [Annual Meeting](https://downtownseattle.org/events/annual-meeting/)
 4. [Downtown Preview](https://downtownseattle.org/events/downtown-preview/)
 5. [Downtown Summer Sounds](https://downtownseattle.org/events/downtown-summer-sounds/)
-6. [DSA Member Roundtable](https://downtownseattle.org/events/dsa-member-roundtable/)
-7. [DSA Virtual Access](https://downtownseattle.org/events/dsa-virtual-access/)
+6. [DSA Member Roundtable](https://downtownseattle.org/event/dsa-member-roundtable/)
+7. [DSA Virtual Access](https://downtownseattle.org/event/dsa-virtual-access/)
 8. [Holidays](https://downtownseattle.org/events/holidays/)
 9. [State of Downtown](https://downtownseattle.org/events/state-of-downtown/)
 10. Search for:  Search Search
