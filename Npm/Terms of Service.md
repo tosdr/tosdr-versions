@@ -203,7 +203,6 @@
             * [npm fund](https://www.npmjs.com/cli/v10/commands/npm-fund)
             * [npm help](https://www.npmjs.com/cli/v10/commands/npm-help)
             * [npm help-search](https://www.npmjs.com/cli/v10/commands/npm-help-search)
-            * [npm hook](https://www.npmjs.com/cli/v10/commands/npm-hook)
             * [npm init](https://www.npmjs.com/cli/v10/commands/npm-init)
             * [npm install](https://www.npmjs.com/cli/v10/commands/npm-install)
             * [npm install-ci-test](https://www.npmjs.com/cli/v10/commands/npm-install-ci-test)
