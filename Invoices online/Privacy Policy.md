@@ -118,59 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Shaun Gartshore
+Anri van der Linde
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=80288617)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=81350455)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=209679283)  
-BD Maintenance
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=70360191)  
+OptaServ
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=45629303)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=164458475)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=183255788)  
-TIGERDSL
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=163692649)  
+Westside Car Audio CC
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=58181519)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=76135313)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=31175170)  
-UMVIKELI PRIVATE SECURITY
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=62328131)  
+WIP Digital Solutions
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=32046468)  
-Kainos (Pty) Ltd
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=52830479)  
+CGHK Enterprises (PTY) LTD
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=211779224)  
-Know Informatics
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=188931318)  
+Xpress Designs
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=87794433)  
-United Paintball Federation
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=48654720)  
+Wiselink Broadband Vryheid
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=157520571)  
-Blue Sky Solar Services
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=163524201)  
+Druce Digital
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=11744824)  
-kidoscabbie
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=85581859)  
+Network Grey (Pty) Ltd
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=186113302)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=212826976)  
+Repairs In Motion
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=37575067)  
-Multi CNC Solutions CC
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=134270603)  
+Kara Medical (Pty) Ltd
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=27632380)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=52631313)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=2dab536407e102ff7375de8fa4ec683cc377cb45ee870c246d83eada25868d0c&c=22534955)  
-Nogana Events and Decor
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=067cbb4660864c830cad502268ec878487b998736f24f115be71f9cad5a4d7e8&c=213494118)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
