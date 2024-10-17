@@ -11,43 +11,59 @@
     [CEU Series Login for Online Learning](https://www.nccdp.org/my-account/)
     
 
-[![nccdp logo](https://www.nccdp.org/wp-content/uploads/2023/01/nccdp-logo.svg)](https://www.nccdp.org/)
+[![nccdp logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20218%2061'%3E%3C/svg%3E)
+
+![nccdp logo](https://www.nccdp.org/wp-content/uploads/2023/01/nccdp-logo.svg)](https://www.nccdp.org/)
 
 * [Certifications](https://www.nccdp.org/certifications/)
     
     Featured All Certs MCEN FAQ's
     
-    [![](https://www.nccdp.org/wp-content/uploads/2024/04/CDP-Home-Hero-150x150.jpg)](https://www.nccdp.org/cdp/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
     
-    [![CDP Text Icon](https://www.nccdp.org/wp-content/uploads/2023/08/CDP-Text-Icon.svg)](https://www.nccdp.org/cdp/)
+    ![](https://www.nccdp.org/wp-content/uploads/2024/04/CDP-Home-Hero-150x150.jpg)](https://www.nccdp.org/cdp/)
+    
+    [![CDP Text Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2083%2027'%3E%3C/svg%3E)
+    
+    ![CDP Text Icon](https://www.nccdp.org/wp-content/uploads/2023/08/CDP-Text-Icon.svg)](https://www.nccdp.org/cdp/)
     
     ### [**Certified Dementia Practitioner**](https://www.nccdp.org/cdp/)
     
     [Learn More](https://www.nccdp.org/cdp/)
     
-    [![](https://www.nccdp.org/wp-content/uploads/2024/04/CADDCT-Home-Hero-150x150.jpg)](https://www.nccdp.org/train/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
     
-    [![CADDCT Text Icon](https://www.nccdp.org/wp-content/uploads/2023/08/CADDCT-Text-Icon.svg)](https://www.nccdp.org/train/)
+    ![](https://www.nccdp.org/wp-content/uploads/2024/04/CADDCT-Home-Hero-150x150.jpg)](https://www.nccdp.org/train/)
+    
+    [![CADDCT Text Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2083%2027'%3E%3C/svg%3E)
+    
+    ![CADDCT Text Icon](https://www.nccdp.org/wp-content/uploads/2023/08/CADDCT-Text-Icon.svg)](https://www.nccdp.org/train/)
     
     ### [**Certified Alzheimer’s Disease and Dementia Care Trainer®**](https://www.nccdp.org/train/)
     
     [Learn More](https://www.nccdp.org/train/)
     
-    [![All Certifications Mega-Menu CDP-min](https://www.nccdp.org/wp-content/uploads/2023/08/All-Certifications-Mega-Menu-CDP-min-150x150.jpg)](https://www.nccdp.org/certifications/)
+    [![All Certifications Mega-Menu CDP-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![All Certifications Mega-Menu CDP-min](https://www.nccdp.org/wp-content/uploads/2023/08/All-Certifications-Mega-Menu-CDP-min-150x150.jpg)](https://www.nccdp.org/certifications/)
     
     ### [**View All  
     Certifications**](https://www.nccdp.org/certifications/)
     
     [Learn More](https://www.nccdp.org/certifications/)
     
-    [![Renew Certification Mega-Menu CDP-min](https://www.nccdp.org/wp-content/uploads/2023/08/Renew-Certification-Mega-Menu-CDP-min-150x150.jpg)](https://www.nccdp.org/certifications/#renew)
+    [![Renew Certification Mega-Menu CDP-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Renew Certification Mega-Menu CDP-min](https://www.nccdp.org/wp-content/uploads/2023/08/Renew-Certification-Mega-Menu-CDP-min-150x150.jpg)](https://www.nccdp.org/certifications/#renew)
     
     ### [**Renew My  
     Certification**](https://www.nccdp.org/certifications/#renew)
     
     [Learn More](https://www.nccdp.org/certifications/#renew)
     
-    [![](https://www.nccdp.org/wp-content/uploads/2023/08/MCEN-Badge-150x150.png)](https://www.nccdp.org/certifications/nccdps-memory-care-excellence-network/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![](https://www.nccdp.org/wp-content/uploads/2023/08/MCEN-Badge-150x150.png)](https://www.nccdp.org/certifications/nccdps-memory-care-excellence-network/)
     
     #### Advancing Excellence in Dementia Care
     
@@ -65,37 +81,49 @@
     
     ADDC Seminar Classes Staff Training
     
-    [![ADDC Header Image - NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/ADDC-Header-Image-NCCDP-min-150x150.jpg)](https://www.nccdp.org/seminars/addc-seminar/)
+    [![ADDC Header Image - NCCDP-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![ADDC Header Image - NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/ADDC-Header-Image-NCCDP-min-150x150.jpg)](https://www.nccdp.org/seminars/addc-seminar/)
     
     ### [**ADDC Overview**](https://www.nccdp.org/seminars/addc-seminar/)
     
     [Learn More](https://www.nccdp.org/seminars/addc-seminar/)
     
-    [![ADDC Header Image - NCCDP-1-min](https://www.nccdp.org/wp-content/uploads/2023/10/ADDC-Header-Image-NCCDP-1-min-150x150.jpg)](https://www.nccdp.org/seminars/addc-seminar/#register)
+    [![ADDC Header Image - NCCDP-1-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![ADDC Header Image - NCCDP-1-min](https://www.nccdp.org/wp-content/uploads/2023/10/ADDC-Header-Image-NCCDP-1-min-150x150.jpg)](https://www.nccdp.org/seminars/addc-seminar/#register)
     
     ### [**Register Today**](https://www.nccdp.org/seminars/addc-seminar/#register)
     
     [Learn More](https://www.nccdp.org/seminars/addc-seminar/#register)
     
-    [![CADDCT Classes Header Image-min](https://www.nccdp.org/wp-content/uploads/2023/10/CADDCT-Classes-Header-Image-min-150x150.jpg)](https://www.nccdp.org/seminars/#seminar-corporate)
+    [![CADDCT Classes Header Image-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![CADDCT Classes Header Image-min](https://www.nccdp.org/wp-content/uploads/2023/10/CADDCT-Classes-Header-Image-min-150x150.jpg)](https://www.nccdp.org/seminars/#seminar-corporate)
     
     ### [**Corporate Seminars**](https://www.nccdp.org/seminars/#seminar-corporate)
     
     [Learn More](https://www.nccdp.org/seminars/#seminar-corporate)
     
-    [![CADDCT Classes Header Image-1-min](https://www.nccdp.org/wp-content/uploads/2023/10/CADDCT-Classes-Header-Image-1-min-150x150.jpg)](https://www.nccdp.org/seminars/#seminar-caddct)
+    [![CADDCT Classes Header Image-1-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![CADDCT Classes Header Image-1-min](https://www.nccdp.org/wp-content/uploads/2023/10/CADDCT-Classes-Header-Image-1-min-150x150.jpg)](https://www.nccdp.org/seminars/#seminar-caddct)
     
     ### [**Approved Trainer Seminars**](https://www.nccdp.org/seminars/#seminar-caddct)
     
     [Learn More](https://www.nccdp.org/seminars/#seminar-caddct)
     
-    [![Staff Certificate for CADDCT-min](https://www.nccdp.org/wp-content/uploads/2023/10/Staff-Certificate-for-CADDCT-min-150x150.png)](https://www.nccdp.org/seminars/staff-training/distributed-training/)
+    [![Staff Certificate for CADDCT-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Staff Certificate for CADDCT-min](https://www.nccdp.org/wp-content/uploads/2023/10/Staff-Certificate-for-CADDCT-min-150x150.png)](https://www.nccdp.org/seminars/staff-training/distributed-training/)
     
     ### [**Distributed Training**](https://www.nccdp.org/seminars/staff-training/distributed-training/)
     
     [Learn More](https://www.nccdp.org/seminars/staff-training/distributed-training/)
     
-    [![Private Seminars-min](https://www.nccdp.org/wp-content/uploads/2023/10/Private-Seminars-min-150x150.png)](https://www.nccdp.org/seminars/staff-training/private-seminars/)
+    [![Private Seminars-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Private Seminars-min](https://www.nccdp.org/wp-content/uploads/2023/10/Private-Seminars-min-150x150.png)](https://www.nccdp.org/seminars/staff-training/private-seminars/)
     
     ### [**Private Seminars**](https://www.nccdp.org/seminars/staff-training/private-seminars/)
     
@@ -105,7 +133,9 @@
     
     Online Learning Live Webinars CE Info
     
-    [![](https://www.nccdp.org/wp-content/uploads/2024/08/ANCC-Badge-min-150x150.png)](https://www.nccdp.org/online-courses-and-ceus/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![](https://www.nccdp.org/wp-content/uploads/2024/08/ANCC-Badge-min-150x150.png)](https://www.nccdp.org/online-courses-and-ceus/)
     
     ### Online Courses & CEUs
     
@@ -113,11 +143,15 @@
     
     [Learn More](https://www.nccdp.org/online-courses-and-ceus/)
     
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20495%20124'%3E%3C/svg%3E)
+    
     ![](https://www.nccdp.org/wp-content/uploads/2024/08/Alzbetter-Logo-min.png)
     
     #### ANCC Accredited & Nationally Accepted
     
-    [![Webiners Header Image 1 - NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/Webiners-Header-Image-1-NCCDP-min-150x150.jpg)](https://www.nccdp.org/seminars/#webinars)
+    [![Webiners Header Image 1 - NCCDP-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Webiners Header Image 1 - NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/Webiners-Header-Image-1-NCCDP-min-150x150.jpg)](https://www.nccdp.org/seminars/#webinars)
     
     ### [**Upcoming Webinars**](https://www.nccdp.org/seminars/#webinars)
     
@@ -129,43 +163,57 @@
     
     Who We Are Accreditation Blog
     
-    [![Office Pic Exterior - Photoshopped Resized](https://www.nccdp.org/wp-content/uploads/2023/08/Office-Pic-Exterior-Photoshopped-Resized-150x150.jpg)](https://www.nccdp.org/about-us/)
+    [![Office Pic Exterior - Photoshopped Resized](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Office Pic Exterior - Photoshopped Resized](https://www.nccdp.org/wp-content/uploads/2023/08/Office-Pic-Exterior-Photoshopped-Resized-150x150.jpg)](https://www.nccdp.org/about-us/)
     
     ### [**About NCCDP**](https://www.nccdp.org/about-us/)
     
     [About Us](https://www.nccdp.org/about-us/)
     
-    [![Meet the Team Image Small-min](https://www.nccdp.org/wp-content/uploads/2023/10/Meet-the-Team-Image-Small-min-150x150.jpg)](https://www.nccdp.org/about-us/nccdp-history/)
+    [![Meet the Team Image Small-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Meet the Team Image Small-min](https://www.nccdp.org/wp-content/uploads/2023/10/Meet-the-Team-Image-Small-min-150x150.jpg)](https://www.nccdp.org/about-us/nccdp-history/)
     
     ### [**NCCDP History**](https://www.nccdp.org/about-us/nccdp-history/)
     
     [Our History](https://www.nccdp.org/about-us/nccdp-history/)
     
-    [![Become a Community Partner Mega Menu-min](https://www.nccdp.org/wp-content/uploads/2023/10/Become-a-Community-Partner-Mega-Menu-min-150x150.jpg)](https://www.nccdp.org/about-us/who-we-are/)
+    [![Become a Community Partner Mega Menu-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Become a Community Partner Mega Menu-min](https://www.nccdp.org/wp-content/uploads/2023/10/Become-a-Community-Partner-Mega-Menu-min-150x150.jpg)](https://www.nccdp.org/about-us/who-we-are/)
     
     ### [**Meet the Team**](https://www.nccdp.org/about-us/who-we-are/)
     
     [Team & Council](https://www.nccdp.org/about-us/who-we-are/)
     
-    [![Community Partners Mega-Menu-min](https://www.nccdp.org/wp-content/uploads/2023/10/Community-Partners-Mega-Menu-min-150x150.jpg)](https://www.nccdp.org/about-us/#staterecognition)
+    [![Community Partners Mega-Menu-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Community Partners Mega-Menu-min](https://www.nccdp.org/wp-content/uploads/2023/10/Community-Partners-Mega-Menu-min-150x150.jpg)](https://www.nccdp.org/about-us/#staterecognition)
     
     ### [**State Recognition**](https://www.nccdp.org/about-us/#staterecognition)
     
     [Learn More](https://www.nccdp.org/about-us/#staterecognition)
     
-    [![University Partner-min](https://www.nccdp.org/wp-content/uploads/2023/10/University-Partner-min-150x150.jpeg)](https://www.nccdp.org/become-a-partner/university-partners/)
+    [![University Partner-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![University Partner-min](https://www.nccdp.org/wp-content/uploads/2023/10/University-Partner-min-150x150.jpeg)](https://www.nccdp.org/become-a-partner/university-partners/)
     
     ### [**University Partners**](https://www.nccdp.org/become-a-partner/university-partners/)
     
     [Learn More](https://www.nccdp.org/become-a-partner/university-partners/)
     
-    [![CMSgov-Logo](https://www.nccdp.org/wp-content/uploads/2023/10/CMSgov-Logo.svg)](https://www.nccdp.org/about-us/cms-recognition/)
+    [![CMSgov-Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20496%20374'%3E%3C/svg%3E)
+    
+    ![CMSgov-Logo](https://www.nccdp.org/wp-content/uploads/2023/10/CMSgov-Logo.svg)](https://www.nccdp.org/about-us/cms-recognition/)
     
     ### [**CMS Recognition**](https://www.nccdp.org/about-us/cms-recognition/)
     
     [Learn More](https://www.nccdp.org/about-us/cms-recognition/)
     
-    [![Blog Hero Image NCCDP CDP](https://www.nccdp.org/wp-content/uploads/2023/09/Blog-Hero-Image-NCCDP-CDP.svg)](https://www.nccdp.org/blog/)
+    [![Blog Hero Image NCCDP CDP](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20636%20483'%3E%3C/svg%3E)
+    
+    ![Blog Hero Image NCCDP CDP](https://www.nccdp.org/wp-content/uploads/2023/09/Blog-Hero-Image-NCCDP-CDP.svg)](https://www.nccdp.org/blog/)
     
     ### [**NCCDP  
     Blog**](https://www.nccdp.org/blog/)
@@ -176,35 +224,45 @@
     
     Marketplace Member Resources FAQ's Become a Partner
     
-    [![Dementia Store](https://www.nccdp.org/wp-content/uploads/2023/10/Dementia-Store.svg)](https://portal.nccdp.org/nccdp-store/shop/)
+    [![Dementia Store](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202160%202160'%3E%3C/svg%3E)
+    
+    ![Dementia Store](https://www.nccdp.org/wp-content/uploads/2023/10/Dementia-Store.svg)](https://portal.nccdp.org/nccdp-store/shop/)
     
     ### [**Dementia  
     Store**](https://portal.nccdp.org/nccdp-store/shop/)
     
     [Learn More](https://portal.nccdp.org/nccdp-store/shop/)
     
-    [![Intimacy and Aging Icon](https://www.nccdp.org/wp-content/uploads/2023/10/Intimacy-and-Aging-Icon.svg)](https://marketplace.mimeo.com/NCCDPIntimacyandAging#name=0&c=00000000-0000-0000-0000-000000000000)
+    [![Intimacy and Aging Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20646%20590'%3E%3C/svg%3E)
+    
+    ![Intimacy and Aging Icon](https://www.nccdp.org/wp-content/uploads/2023/10/Intimacy-and-Aging-Icon.svg)](https://marketplace.mimeo.com/NCCDPIntimacyandAging#name=0&c=00000000-0000-0000-0000-000000000000)
     
     ### [**Intimacy &  
     Aging Video**](https://marketplace.mimeo.com/NCCDPIntimacyandAging#name=0&c=00000000-0000-0000-0000-000000000000)
     
     [Learn More](https://marketplace.mimeo.com/NCCDPIntimacyandAging#name=0&c=00000000-0000-0000-0000-000000000000)
     
-    [![cdppin-min](https://www.nccdp.org/wp-content/uploads/2023/10/cdppin-min-150x150.png)](https://www.nccdp.org/resources/nccdp-cdp-pin-order-form/)
+    [![cdppin-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![cdppin-min](https://www.nccdp.org/wp-content/uploads/2023/10/cdppin-min-150x150.png)](https://www.nccdp.org/resources/nccdp-cdp-pin-order-form/)
     
     ### [**CDP  
     Pin**](https://www.nccdp.org/resources/nccdp-cdp-pin-order-form/)
     
     [Learn More](https://www.nccdp.org/resources/nccdp-cdp-pin-order-form/)
     
-    [![CDP Icon](https://www.nccdp.org/wp-content/uploads/2023/08/CDP-Icon.svg)](https://portal.nccdp.org/order-replacementform/order_authnet.cgi)
+    [![CDP Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2069%2076'%3E%3C/svg%3E)
+    
+    ![CDP Icon](https://www.nccdp.org/wp-content/uploads/2023/08/CDP-Icon.svg)](https://portal.nccdp.org/order-replacementform/order_authnet.cgi)
     
     ### [**Order a Hard  
     Copy of your CDP**](https://portal.nccdp.org/order-replacementform/order_authnet.cgi)
     
     [Learn More](https://portal.nccdp.org/order-replacementform/order_authnet.cgi)
     
-    [![Members Only Resources NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/Members-Only-Resources-NCCDP-min-150x150.jpg)](https://portal.nccdp.org/members-only/resources/resources.php)
+    [![Members Only Resources NCCDP-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Members Only Resources NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/Members-Only-Resources-NCCDP-min-150x150.jpg)](https://portal.nccdp.org/members-only/resources/resources.php)
     
     ### [**Toolkit**](https://portal.nccdp.org/members-only/resources/resources.php)
     
@@ -216,13 +274,17 @@
     
     [* CADDCT FAQs](https://www.nccdp.org/resources/frequently-asked-questions/#CADDCTFAQs)[* Misc. Information](https://www.nccdp.org/resources/frequently-asked-questions/#misc)
     
-    [![Corporate Partner NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/Corporate-Partner-NCCDP-min-150x150.jpeg)](https://www.nccdp.org/become-a-partner/become-a-corporate-partner/)
+    [![Corporate Partner NCCDP-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Corporate Partner NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/Corporate-Partner-NCCDP-min-150x150.jpeg)](https://www.nccdp.org/become-a-partner/become-a-corporate-partner/)
     
     ### [**Corporate Partner**](https://www.nccdp.org/become-a-partner/become-a-corporate-partner/)
     
     [Learn More](https://www.nccdp.org/become-a-partner/become-a-corporate-partner/)
     
-    [![Associate Partner NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/Associate-Partner-NCCDP-min-150x150.jpeg)](https://www.nccdp.org/become-a-partner/become-an-association-partner/)
+    [![Associate Partner NCCDP-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+    
+    ![Associate Partner NCCDP-min](https://www.nccdp.org/wp-content/uploads/2023/10/Associate-Partner-NCCDP-min-150x150.jpeg)](https://www.nccdp.org/become-a-partner/become-an-association-partner/)
     
     ### [**Association Partner**](https://www.nccdp.org/become-a-partner/become-an-association-partner/)
     
@@ -256,6 +318,8 @@ Anyone who has signed up to receive the NCCDP e-publication or is a member, The 
 
 If you believe you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [nccdpoffice@nccdp.org](mailto:nccdpoffice@nccdp.org) for review.
 
+![Office Pic Exterior - Photoshopped Resized](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20534'%3E%3C/svg%3E)
+
 ![Office Pic Exterior - Photoshopped Resized](https://www.nccdp.org/wp-content/uploads/2023/08/Office-Pic-Exterior-Photoshopped-Resized-1024x683.jpg)
 
 Hi There!
@@ -268,6 +332,8 @@ Need help with anything? The NCCDP team is here for you. Don’t hesitate to con
 * [1.973.729.6601](tel:19737296601)
 
 [Or, email us at nccdpoffice@nccdp.org](mailto:nccdpoffice@nccdp.org)
+
+![Favicon SVG](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20116%20106'%3E%3C/svg%3E)
 
 ![Favicon SVG](https://www.nccdp.org/wp-content/uploads/2022/08/Favicon-SVG.svg)
 
@@ -313,6 +379,8 @@ Harvesting of information is prohibited. For assistance with using the web site 
 National Council of Certified Dementia Practitioners
 
 ©2003 to 2023
+
+![Mobile Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20213%20248'%3E%3C/svg%3E)
 
 ![Mobile Logo](https://www.nccdp.org/wp-content/uploads/2022/08/Mobile-Logo.svg)
 
