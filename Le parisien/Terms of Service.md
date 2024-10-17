@@ -66,7 +66,6 @@ Rechercher sur Le Parisien
     
 * [Politique](https://www.leparisien.fr/politique/)
     
-    * [Michel Barnier](https://www.leparisien.fr/politique/michel-barnier/)
     * [Résultats législatives 2024](https://www.leparisien.fr/resultats-elections/)
     
 * [International](https://www.leparisien.fr/international/)
@@ -826,9 +825,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=744)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=745)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=744)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=745)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
