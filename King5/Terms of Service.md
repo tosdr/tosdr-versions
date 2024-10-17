@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/dbd15c82-7288-44a1-a7c4-d3a7190ae96e/20241016T051232/dbd15c82-7288-44a1-a7c4-d3a7190ae96e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dbd15c82-7288-44a1-a7c4-d3a7190ae96e/20241016T051232/dbd15c82-7288-44a1-a7c4-d3a7190ae96e_360x203.jpg)](https://www.king5.com/article/news/local/navy-aircraft-crashes-near-mount-rainier/281-e14b3068-e1ae-48db-ad68-0d034ee02cc0)
+    *  [![](https://media.king5.com/assets/KING/images/b48e2037-81d6-4f0c-9b4b-5950f060b1fa/20241015T134931/b48e2037-81d6-4f0c-9b4b-5950f060b1fa_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b48e2037-81d6-4f0c-9b4b-5950f060b1fa/20241015T134931/b48e2037-81d6-4f0c-9b4b-5950f060b1fa_360x203.jpg)](https://www.king5.com/article/tech/science/environment/environment-northwest-when-the-earth-shakes-earthquakes/281-701dba5e-9a36-4898-b83c-d18dd7bb5a11)
         
-        #### [Navy aircraft crash site located east of Mount Rainier, condition of crew still unknown](https://www.king5.com/article/news/local/navy-aircraft-crashes-near-mount-rainier/281-e14b3068-e1ae-48db-ad68-0d034ee02cc0)
+        #### [Environment Northwest: When The Earth Shakes](https://www.king5.com/article/tech/science/environment/environment-northwest-when-the-earth-shakes-earthquakes/281-701dba5e-9a36-4898-b83c-d18dd7bb5a11)
         
-    *  [![](https://media.king5.com/assets/KING/images/deccc6a2-1a17-4610-9a1b-3b092c0ad91d/20241017T063754/deccc6a2-1a17-4610-9a1b-3b092c0ad91d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/deccc6a2-1a17-4610-9a1b-3b092c0ad91d/20241017T063754/deccc6a2-1a17-4610-9a1b-3b092c0ad91d_360x203.jpg)](https://www.king5.com/article/tech/self-driving-wheelchairs-alaska-air-tests-for-customers/281-9a5b25ff-61fa-4efb-a41c-610df6123588)
+    *  [![](https://media.king5.com/assets/KING/images/6ed0e4f6-0113-40bd-9dd5-e73f3d639f84/20241014T160026/6ed0e4f6-0113-40bd-9dd5-e73f3d639f84_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6ed0e4f6-0113-40bd-9dd5-e73f3d639f84/20241014T160026/6ed0e4f6-0113-40bd-9dd5-e73f3d639f84_360x203.jpg)](https://www.king5.com/article/news/local/woman-charged-enumclaw-crash-history-driving-violations/281-fd31367e-89cb-4166-b13e-14cbb59185ff)
         
-        #### [Customers share thoughts on self-driving wheelchairs provided by Alaska Air](https://www.king5.com/article/tech/self-driving-wheelchairs-alaska-air-tests-for-customers/281-9a5b25ff-61fa-4efb-a41c-610df6123588)
+        #### [Woman charged in Enumclaw crash has history of driving violations](https://www.king5.com/article/news/local/woman-charged-enumclaw-crash-history-driving-violations/281-fd31367e-89cb-4166-b13e-14cbb59185ff)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/b48e2037-81d6-4f0c-9b4b-5950f060b1fa/20241015T134931/b48e2037-81d6-4f0c-9b4b-5950f060b1fa_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b48e2037-81d6-4f0c-9b4b-5950f060b1fa/20241015T134931/b48e2037-81d6-4f0c-9b4b-5950f060b1fa_360x203.jpg)](https://www.king5.com/article/tech/science/environment/environment-northwest-when-the-earth-shakes-earthquakes/281-701dba5e-9a36-4898-b83c-d18dd7bb5a11)
+        
+        #### [Environment Northwest: When The Earth Shakes](https://www.king5.com/article/tech/science/environment/environment-northwest-when-the-earth-shakes-earthquakes/281-701dba5e-9a36-4898-b83c-d18dd7bb5a11)
+        
     *  [![](https://media.king5.com/assets/KING/images/c1f14933-7778-4608-8a52-df736f841cff/20241017T120622/c1f14933-7778-4608-8a52-df736f841cff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c1f14933-7778-4608-8a52-df736f841cff/20241017T120622/c1f14933-7778-4608-8a52-df736f841cff_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KGW/images/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0/20241016T232022/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0/20241016T232022/0533b8c9-cb09-4ad9-9b34-6c652dc0adc0_360x203.jpg)](https://www.king5.com/article/news/local/funnel-cloud-battle-ground/283-ebb98481-5982-4cbe-b6b2-4e9b1260166a)
-        
-        #### [Funnel cloud spotted in southwest Washington, NWS confirms](https://www.king5.com/article/news/local/funnel-cloud-battle-ground/283-ebb98481-5982-4cbe-b6b2-4e9b1260166a)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-48°
+50°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
