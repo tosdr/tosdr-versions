@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-esa-kiax-uss-astraeus-prestigious-service-medallion-operations/)
+
+### [Award Winner – Esa Kiax – USS Astraeus – Prestigious Service Medallion – Operations](https://www.starbase118.net/2024/award-winner-esa-kiax-uss-astraeus-prestigious-service-medallion-operations/)
+
+otterhooligan October 17, 2024
+
+Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
+
+[Read More »](https://www.starbase118.net/2024/award-winner-esa-kiax-uss-astraeus-prestigious-service-medallion-operations/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/05/OEB_Exterior_Shot_8-768x531.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/busy-oe-bees/)
 
 ### [Busy OE-Bees](https://www.starbase118.net/2024/busy-oe-bees/)
@@ -377,18 +389,6 @@ otterhooligan October 15, 2024
 Each month, we interview a captain or first officer of the fleet to gain more insight on what it takes to command a ship and
 
 [Read More »](https://www.starbase118.net/2024/captains-corner-addison-mackenzie-uss-artemis-a-2/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/07/akira-class-768x480.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/crew-of-the-uss-chintoka-comes-home/)
-
-### [Crew of the USS Chin’toka Comes Home](https://www.starbase118.net/2024/crew-of-the-uss-chintoka-comes-home/)
-
-Federation News Service October 14, 2024
-
-Sol System — Fitting Reward?
-
-[Read More »](https://www.starbase118.net/2024/crew-of-the-uss-chintoka-comes-home/)
 
 Ready to get started?
 ---------------------
