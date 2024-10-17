@@ -28,10 +28,10 @@ Products
         ### For developers
         
     
-    Consumer services
-    -----------------
+    Get 1.1.1.1
+    -----------
     
-* [View What's New](https://www.cloudflare.com/whats-new/)
+* [Latest product news](https://blog.cloudflare.com/tag/product-news/)
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
 Pricing
