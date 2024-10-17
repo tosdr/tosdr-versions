@@ -2,11 +2,15 @@
 
 [](https://buypiezano.com/Home)
 
-Make Gourmet Crispy Delicious
+[](https://buypiezano.com/Home)
 
-Pizza in Just 6 Minutes!
+[Order Now!](https://buypiezano.com/checkout/8e35bf/step1?m=345001070071466467)
 
-[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=345004477050113773)
+Make Golden Crispy, Extra Cheesy, Stone Baked Pizza in Minutes!
+
+[Order Yours Now →](https://buypiezano.com/checkout/8e35bf/step1?m=345001070071466467)
+
+Please Click Here to Call: [1-800-309-0437](tel:18003090437)
 
 Privacy Policy
 
@@ -175,13 +179,17 @@ If you need to access this Policy in an alternative format due to having a disab
   
 
 * [Home](https://buypiezano.com/Home)
+* [How to Use](https://buypiezano.com/How-to-Use)
+* [Manual](https://buypiezano.com/Manual)
+* [Accessibility](https://buypiezano.com/Accessibility)
 * [Privacy Policy](https://buypiezano.com/Privacy-Policy)
 * [Contact Us](https://buypiezano.com/Contact-Us)
 * [Return Policy](https://buypiezano.com/Return-Policy)
 * [Terms and Conditions](https://buypiezano.com/Terms-and-Conditions)
 * [Arbitration Agreement](https://buypiezano.com/Arbitration-Agreement)
+* [Shipping Policy](https://buypiezano.com/Shipping-Policy)
 * [California Consumer Privacy Act Disclosures](https://buypiezano.com/California-Consumer-Privacy-Act-Disclosures)
-* [How to Use](https://buypiezano.com/howto)
-* [Manual](https://buypiezano.com/Manual)
+* [Do Not Sell or Share My Personal Information](https://www.emson.com/optout)
+* [Limit the Use of My Sensitive Personal Information](https://www.emson.com/optout)
 
-Copyright © 2024 E. Mishan & Sons, Inc.
+Copyright © 2024 E. Mishan & Sons, Inc. | Built with [**Buyist**](https://buyist.com/)
