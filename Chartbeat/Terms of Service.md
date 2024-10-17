@@ -27,8 +27,6 @@ Chartbeat Terms of Service
 ==========================
 
 **Effective date: September 9, 2024**  
-  
-_We have updated our Terms of Service to delete the following from section 6 – “Chartbeat will pay all arbitration fees for claims less than seventy-five thousand ($75,000) dollars. Chartbeat will not seek its attorneys’ fees and costs in arbitration unless the arbitrator determines that Customer’s claim is frivolous.”_
 
 These Terms of Service (the “Terms”) are a binding contract between the customer listed on the applicable Work Order (including any end-users, “Customer”) and Chartbeat, Inc. These Terms govern Customer’s use of the website(s), products, services and applications (the “Services”) offered by Chartbeat, Inc. (the “Chartbeat Services”) and/or by its affiliate, Tubular Labs, Inc. (“Tubular” and, such Services, the “Tubular Services”). Chartbeat, Inc. and Tubular are collectively referred to as “Chartbeat”.
 
