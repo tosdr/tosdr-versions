@@ -64,6 +64,7 @@
     * [Data Centers](https://pinkerton.com/industries/data-centers)
     * [Retail](https://pinkerton.com/industries/retail)
     * [Manufacturing](https://pinkerton.com/industries/manufacturing)
+    * [Supply Chain Risk Management](https://pinkerton.com/industries/supply-chain-risk-management)
     
 * About Us
     
@@ -222,6 +223,7 @@ We use appropriate security measures to protect agains the loss, misuse and alte
     * [Data Centers](https://pinkerton.com/industries/data-centers)
     * [Retail](https://pinkerton.com/industries/retail)
     * [Manufacturing](https://pinkerton.com/industries/manufacturing)
+    * [Supply Chain Risk Management](https://pinkerton.com/industries/supply-chain-risk-management)
     
 * About Us
     
