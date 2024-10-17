@@ -118,7 +118,7 @@ Europees wetsvoorstel
 
 ### [Nieuws](https://www.bit.nl/nieuws)
 
-#### [BIT geeft kaarten weg voor F1 in Zandvoort](https://www.bit.nl/news/3571/88/BIT-geeft-kaarten-weg-voor-F1-in-Zandvoort)
+#### [ECOFED wint ICT Innovatieprijs Regio Foodvalley 2024](https://www.bit.nl/news/3611/88/ECOFED-wint-ICT-Innovatieprijs-Regio-Foodvalley-2024)
 
 [](https://www.bit.nl/nieuws)
 
