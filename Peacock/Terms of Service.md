@@ -194,4 +194,4 @@ Wow, you made it to the end of the whole document. Amazing! You deserve a long, 
 * [](https://www.instagram.com/peacock/ "Instagram")
 * [](https://x.com/peacock "X")
 
-Peacock © Peacock TV LLC. All other programs and/or marks are the property of their respective owners. All rights reserved.
+Peacock © Peacock TV LLC. A Division of NBCUniversal. All other programs and/or marks are the property of their respective owners. All rights reserved.
