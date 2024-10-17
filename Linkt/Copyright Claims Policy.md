@@ -101,7 +101,9 @@ Travelling on toll roads](https://www.linkt.com.au/help/travelling-toll-roads/br
 
 Accounts and billing](https://www.linkt.com.au/help/accounts-billing/brisbane.html)[![Scams and fraud icon](/content/dam/mylo/images/header-footer/nav-icons/help-security.svg)
 
-Scams and fraud](https://www.linkt.com.au/help/security/brisbane.html)
+Scams and fraud](https://www.linkt.com.au/help/security/brisbane.html)[![Support services icon](/content/dam/mylo/images/header-footer/nav-icons/helping-hands.svg)
+
+Support services](https://www.linkt.com.au/help/support-services/brisbane.html)
 
  ![Go to help icon](/content/dam/mylo/images/header-footer/nav-icons/help-home.svg)[Go to help](https://www.linkt.com.au/help/brisbane.html)
 
@@ -226,7 +228,7 @@ We will work with eligible customers to help match their use of our roads with w
 3. granting a payment free period
 4. writing off some or all of the debt owed to us
 5. advocating for the recall of a toll infringement
-6. providing [toll credit support](https://www.linkt.com.au/linkt-assist/before-you-apply/brisbane.html) for essential toll road travel (for active Linkt accounts only)
+6. providing [toll credit support](https://www.linkt.com.au/linkt-assist/before-you-apply.html) for essential toll road travel (for active Linkt accounts only)
 7. Referral for additional external support through established partnerships:
     1. Linkt Assist 360 via Good Shepherd 
     2. The One Stop, One Story Hub via Thriving Communities Partnership
@@ -236,7 +238,7 @@ We will work with eligible customers to help match their use of our roads with w
 6\. How to apply for help
 -------------------------
 
-Customers wanting help can contact us by telephone on [1300 767 865](tel:1300767865) or write to us at [linktassist@transurban.com](mailto:linktassist@transurban.com). They can also contact us online at [www.linkt.com.au/assist](https://www.linkt.com.au/linkt-assist/brisbane.html "Linkt Assist can support you when times are tough").
+Customers wanting help can contact us by telephone on [1300 767 865](tel:1300767865) or write to us at [linktassist@transurban.com](mailto:linktassist@transurban.com). They can also contact us online at [www.linkt.com.au/assist](https://www.linkt.com.au/linkt-assist.html "Linkt Assist can support you when times are tough").
 
 We will need to record, use and if necessary, share a customer’s personal information to assess their situation and eligibility for hardship assistance. We will seek a customer’s consent before collecting, using or sharing their personal information. We may also ask for supporting documents such as statements of current income, expenses, assets, liabilities or other documents to support their situation. Find out more by reading the [Linkt Assist privacy collection statement](https://www.linkt.com.au/legal/policies/linkt-assist-privacy-collection-statement/brisbane.html) and [Transurban Privacy Policy](https://www.linkt.com.au/legal/policies/transurban-privacy-policy/brisbane.html "Read Transurban's Privacy Policy here").
 
@@ -265,7 +267,7 @@ If a customer or an authorised representative wants to talk to us about privacy,
 9\. Further information
 -----------------------
 
-For further information about this Hardship Policy please e-mail [linktassist@transurban.com](mailto:linktassist@transurban.com) or visit [www.linkt.com.au/assist](https://www.linkt.com.au/linkt-assist/brisbane.html).
+For further information about this Hardship Policy please e-mail [linktassist@transurban.com](mailto:linktassist@transurban.com) or visit [www.linkt.com.au/assist](https://www.linkt.com.au/linkt-assist.html).
 
  [Back to top](#jumpto)
 
