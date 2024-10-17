@@ -308,6 +308,10 @@
     
     Success Stories
     
+    [![Logo](https://static.wingify.com/gcp//uploads/2024/03/image004.png)
+    
+    Performics Lowers Cost Per Conversion, Improves RoAS 1.5X for HDFC ERGO General Insurance with VWO](https://vwo.com/success-stories/performics-hdfc-ergo/)
+    
     [![Logo Energysage](https://static.wingify.com/gcp//uploads/2024/10/LOGO-energysage.png)
     
     EnergySage increased approved users by adding a personal touch to emails](https://vwo.com/success-stories/energysage/)
@@ -343,10 +347,6 @@
     [![Screenshot 2023 07 26 At 11 14 08 Am (1)](https://static.wingify.com/gcp//uploads/2023/07/Screenshot-2023-07-26-at-11.14.08-AM-1.png)
     
     CodaLift LLC Drives Revenue Growth By Testing Pricing Page CTAs](https://vwo.com/success-stories/codalift-llc/)
-    
-    [![Logo](https://static.wingify.com/gcp//uploads/2023/06/logo-2.png)
-    
-    ForestView optimizes website forms and boosts engagement with testing](https://vwo.com/success-stories/forestview/)
     
     [View all Success Stories](https://vwo.com/success-stories)
     
