@@ -8,4 +8,4 @@
 
 [Home](https://www.ultrasurf.us/) | [About](https://www.ultrasurf.us/about/) | [Download](https://www.ultrasurf.us/download/) | [Vulnerability Disclosure Policy](https://www.ultrasurf.us/vdp/) | [Your Security](https://www.ultrasurf.us/security/) | [Contact](https://www.ultrasurf.us/contact/) | [Press](https://www.ultrasurf.us/press/) | [Terms](https://www.ultrasurf.us/terms/) | [End of Life Policy](https://www.ultrasurf.us/eol/) | [**Privacy Policy**](https://www.ultrasurf.us/privacy/)
 
-Copyright © 2023 UltraReach Internet Corp. U.S.A. All Rights Reserved.
+Copyright © 2024 UltraReach Internet Corp. U.S.A. All Rights Reserved.
