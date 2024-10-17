@@ -8,7 +8,7 @@
 
 Cookies \& Similar Technologies Policy
 
-Updated August 2024
+Updated October 2024
 
 
 
@@ -180,7 +180,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 2
+Updated: October 2024 2
 
 
 
@@ -340,7 +340,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 2
+Updated: October 2024 2
 
 
 
@@ -432,7 +432,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 3
+Updated: October 2024 3
 
 
 
@@ -532,7 +532,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 4
+Updated: October 2024 4
 
 
 
@@ -652,7 +652,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 5
+Updated: October 2024 5
 
 
 
@@ -772,7 +772,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 6
+Updated: October 2024 6
 
 
 
@@ -854,7 +854,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 7
+Updated: October 2024 7
 
 
 
@@ -950,7 +950,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 8
+Updated: October 2024 8
 
 
 
@@ -1068,7 +1068,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 9
+Updated: October 2024 9
 
 
 
@@ -1182,7 +1182,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 10
+Updated: October 2024 10
 
 
 
@@ -1302,7 +1302,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 11
+Updated: October 2024 11
 
 
 
@@ -1372,11 +1372,23 @@ data on the website during the quote journey to improve performance.
 
 Session
 
+
+
+123.ie First-Party \_pxttld Strictly
+
+Necessary
+
+This cookie determines the appropriate domain settings for cookies to
+
+enable site-wide detection functionality.
+
+1 millisecond
+
 Cookie Policy
 
 
 
-Updated: August 2024 12
+Updated: October 2024 12
 
 
 
@@ -1440,7 +1452,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 13
+Updated: October 2024 13
 
 
 
@@ -1528,7 +1540,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 14
+Updated: October 2024 14
 
 
 
@@ -1590,7 +1602,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 15
+Updated: October 2024 15
 
 
 
@@ -1676,7 +1688,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 16
+Updated: October 2024 16
 
 
 
@@ -1788,7 +1800,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 17
+Updated: October 2024 17
 
 
 
@@ -1910,7 +1922,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 18
+Updated: October 2024 18
 
 
 
@@ -2030,7 +2042,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 19
+Updated: October 2024 19
 
 
 
@@ -2096,7 +2108,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 20
+Updated: October 2024 20
 
 
 
@@ -2158,7 +2170,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 21
+Updated: October 2024 21
 
 
 
@@ -2220,7 +2232,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 22
+Updated: October 2024 22
 
 
 
@@ -2304,7 +2316,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 23
+Updated: October 2024 23
 
 
 
@@ -2386,7 +2398,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 24
+Updated: October 2024 24
 
 
 
@@ -2472,7 +2484,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 25
+Updated: October 2024 25
 
 
 
@@ -2550,7 +2562,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 26
+Updated: October 2024 26
 
 
 
@@ -2666,7 +2678,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 27
+Updated: October 2024 27
 
 
 
@@ -2766,7 +2778,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 28
+Updated: October 2024 28
 
 
 
@@ -2874,7 +2886,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 29
+Updated: October 2024 29
 
 
 
@@ -2976,7 +2988,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 30
+Updated: October 2024 30
 
 
 
@@ -3018,7 +3030,7 @@ Cookie Policy
 
 
 
-Updated: August 2024 31
+Updated: October 2024 31
 
 
 
