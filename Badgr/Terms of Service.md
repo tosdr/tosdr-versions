@@ -492,7 +492,7 @@ Main
             * [All Products](https://info.badgr.com/products)
         
     * Column
-        *   ![Supporting One of the World’s Largest Sports Organizations with Canvas LMS](/sites/default/files/styles/small_hq/public/image/2024-02/matthew-mcbrayer-pga-unsplash.jpg?itok=eMhiNdkG)
+        *   ![Supporting One of the World’s Largest Sports Organizations with Canvas LMS](/sites/default/files/styles/small_hq/public/image/2024-10/matthew-mcbrayer-pga-unsplash.png?itok=9EWiK67M)
             
             Case Study
             
@@ -901,7 +901,7 @@ Footer Utility
 * [Do Not Sell My Personal Information](https://info.badgr.com/policies/california-opt-out)
 * [Modern Slavery Act](https://info.badgr.com/policies/modern-slavery-act)
 * [Acceptable Use](https://info.badgr.com/policies/acceptable-use)
-* [Data Processing](https://info.badgr.com/policies/data-processing-addendum)
+* [Data Processing](https://info.badgr.com/policies/data-processing-addendum-2022)
 * [Status](https://status.instructure.com/)
 
 Social
