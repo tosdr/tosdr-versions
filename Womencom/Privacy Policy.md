@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Julia Roberts speaking](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+*  [![Megan Markle](https://www.women.com/img/gallery/5-celebs-who-have-opened-up-about-having-miscarriages/intro-1729097631.jpg)](https://www.women.com/1689914/celebs-open-up-miscarriages/)
     
-    [Politics](https://www.women.com/category/politics/)
+    [Wellness](https://www.women.com/category/wellness/)
     
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
     
-    [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
-    =======================================================================================================================================================================================
+    [5 Celebs Who Have Opened Up About Having Miscarriages](https://www.women.com/1689914/celebs-open-up-miscarriages/)
+    ===================================================================================================================
     
-    Although many things are at stake with this upcoming presidential election, reproductive rights is one of the most important.
+    While not easy, talking about miscarriages openly and honestly is a healing way for those who know the pain and struggle to come together and relate.
     
-    By Amanda Chatel [Read More](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    By Amanda Chatel [Read More](https://www.women.com/1689914/celebs-open-up-miscarriages/)
     
-* *  [![Hands in shadows](https://www.women.com/img/gallery/quirofilia-the-sexual-fetish-explained/intro-1728933241.jpg)](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-        
-        ### [Quirofilia: The Sexual Fetish, Explained](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
-        
-        Sexuality, sexual desire, and sex acts themselves are gorgeously complicated, such that there's genuinely something for everyone. Enter: Quirofilia.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
-        
-    *  [![Lady Gaga in red](https://www.women.com/img/gallery/lady-gagas-most-harley-quinn-esque-looks-of-all-time/intro-1728929082.jpg)](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
+* *  [![Ariana Grande in pink](https://www.women.com/img/gallery/5-glinda-coded-outfits-ariana-grande-has-worn-promoting-wicked/intro-1729004293.jpg)](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
         [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [Lady Gaga's Most Harley Quinn-Esque Looks Of All Time](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
+        ### [5 Glinda-Coded Outfits Ariana Grande Has Worn Promoting Wicked](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
         
-        It doesn't surprise us at all that the "Poker Face" hitmaker has mastered the art of harlequin dressing. Here are 5 looks that were straight-up vicious serves.
+        When it comes to Ariana Grande's "Wicked" fashion, it's all about pink-u-lar. Here are the best Good Witch outfits we've seen on the star in 2024.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
+        By Emily Hutchinson [Read More](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
+        
+    *  [![Julia Roberts speaking](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+        
+        [Politics](https://www.women.com/category/politics/)
+        
+        [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+        
+        ### [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+        
+        Although many things are at stake with this upcoming presidential election, reproductive rights is one of the most important.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
         
 
 More Stories
 ------------
 
+*  [![Hands in shadows](https://www.women.com/img/gallery/quirofilia-the-sexual-fetish-explained/intro-1728933241.jpg)](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    
+    ### [Quirofilia: The Sexual Fetish, Explained](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
+    
+    Sexuality, sexual desire, and sex acts themselves are gorgeously complicated, such that there's genuinely something for everyone. Enter: Quirofilia.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
+    
+*  [![Lady Gaga in red](https://www.women.com/img/gallery/lady-gagas-most-harley-quinn-esque-looks-of-all-time/intro-1728929082.jpg)](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Lady Gaga's Most Harley Quinn-Esque Looks Of All Time](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
+    
+    It doesn't surprise us at all that the "Poker Face" hitmaker has mastered the art of harlequin dressing. Here are 5 looks that were straight-up vicious serves.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
+    
 *  [![Couple kissing in bed](https://www.women.com/img/gallery/5-reasons-why-doggy-style-may-not-be-the-best-sex-position-for-you/intro-1728680105.jpg)](https://www.women.com/1686679/reasons-why-doggy-style-may-not-be-best-sex-position-for-you/)
     
     [Exclusives](https://www.women.com/category/exclusives/)
@@ -381,30 +405,6 @@ More Stories
     To make Eterneva Diamonds happen, Adelle Archer and Garrett Ozar needed help. So they took their business to Shark Tank.
     
     By Emily Hutchinson [Read More](https://www.women.com/1677621/what-went-down-with-eterneva-diamonds-after-shark-tank/)
-    
-*  [![Sabrina Carpenter performing](https://www.women.com/img/gallery/5-retro-trends-sabrina-carpenter-cant-stop-wearing/intro-1727721858.jpg)](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [5 Retro Trends Sabrina Carpenter Can't Stop Wearing](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
-    
-    No matter what retro outfit Sabrina Carpenter rocks, she always 100% nails it which makes her even more captivating to watch.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1676803/retro-trends-sabrina-carpenter/)
-    
-*  [![Couple on the couch](https://www.women.com/img/gallery/what-is-sexual-fasting-everyone-has-an-opinion-on-this-controversial-trend/intro-1727711524.jpg)](https://www.women.com/1676724/sexual-fasting-explained/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
-    
-    ### [What Is 'Sexual Fasting'? Everyone Has An Opinion On This Controversial Trend](https://www.women.com/1676724/sexual-fasting-explained/)
-    
-    People claim to feel more mental clarity, emotional intimacy, and arousal after sexual fasting. But is it actually right for your relationship?
-    
-    By Bernadette Roe [Read More](https://www.women.com/1676724/sexual-fasting-explained/)
     
 
 Back
