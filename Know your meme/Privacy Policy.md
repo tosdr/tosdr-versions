@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Muscular Lara Croft Controversy](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy "Muscular Lara Croft Controversy") ["Fuck Israel" Paid For By MrBeast LLC Billboards](https://knowyourmeme.com/memes/events/fuck-israel-paid-for-by-mrbeast-llc-billboards ""Fuck Israel" Paid For By MrBeast LLC Billboards") [Donald Trump Dancing At Rally](https://knowyourmeme.com/memes/events/donald-trumps-oaks-pennsylvania-rally "Donald Trump Dancing At Rally") [Woman Tearing Down Greek Flags Video](https://knowyourmeme.com/memes/ambamelia-tears-down-greek-flags-thinking-theyre-israeli-flags "Woman Tearing Down Greek Flags Video") [Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy")
+[Muscular Lara Croft Controversy](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy "Muscular Lara Croft Controversy") [Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hello! You must login or signup first!
+### Hauu! You must login or signup first!
 
 |     |     |
 | --- | --- |
