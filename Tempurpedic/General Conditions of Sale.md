@@ -280,11 +280,9 @@ Evaluating our products and need advice before you buy?
 
 [### (888) 811-5053](tel:+1-888-811-5053)
 
-Monday: 9am - 11pm EST
+Monday - Friday: 9am - 9pm EST
 
-Tuesday - Friday: 9am - 9pm EST
-
-Saturday: 9am - 7pm EST
+Saturday: 9am - 6pm EST
 
 Sunday: 9am - 6pm EST
 
