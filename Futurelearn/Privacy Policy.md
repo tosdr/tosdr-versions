@@ -720,6 +720,15 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![woman on ipad](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/GettyImages-1552881556-150x150.jpg.optimal.jpg)](https://www.futurelearn.com/info/blog/impact-of-ai-on-job-roles)
+    
+    [How does the future of AI integration impact those looking for their next role or degree?](https://www.futurelearn.com/info/blog/impact-of-ai-on-job-roles)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    As AI becomes more popular, FutureLearn asked ChatGPT which job roles and degrees AI would …
+    
+    Category: [Career Development](https://www.futurelearn.com/info/blog/careers)
+    
 * [![Cop29 Blog 1500x750](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/COP29-Blog-1500x750-1-150x150.png "Cop29 Blog 1500x750")](https://www.futurelearn.com/info/blog/what-is-cop-a-comprehensive-guide)
     
     [What is COP29?: A comprehensive guide](https://www.futurelearn.com/info/blog/what-is-cop-a-comprehensive-guide)
@@ -744,15 +753,6 @@ Powered By
     -----------------------------------------------------------------------------------------------------------------------------
     
     Wondering which postgraduate certificates will lead to the highest paid careers? Keep reading to discover …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
-    
-* [![masters student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-92-150x150.png)](https://www.futurelearn.com/info/blog/highest-paying-masters-degrees)
-    
-    [10 highest paying master’s degrees](https://www.futurelearn.com/info/blog/highest-paying-masters-degrees)
-    ----------------------------------------------------------------------------------------------------------
-    
-    Wondering which master’s degrees will lead to the highest paid careers? Keep reading to discover …
     
     Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
     
