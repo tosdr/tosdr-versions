@@ -453,7 +453,7 @@ Mobile Menu
                 * [Fireworks](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-permits/fireworks)
             * [Fire Prevention & Safety](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-prevention-safety)
             * [Fire Stations](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-stations)
-            * [Firefighter Recruitment](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/firefighter-recruitment)
+            * [Firefighter Recruitment](https://www.cityofgp.com/GPFDrecruitment)
             * [Grande Prairie Firefighters Charitable Foundation](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/grande-prairie-firefighters-charitable)
         * [Grande Prairie Municipal Police Service](https://www.cityofgp.com/city-services/emergency/grande-prairie-municipal-police-service)
             * [About the Police Commission](https://www.cityofgp.com/city-services/emergency/grande-prairie-municipal-police-service/about-police-commission)
