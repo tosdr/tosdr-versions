@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/293/brpfp.jpg "What Is The 'Bull Rider Pose' On TikTok? The Controversial Slang Term Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/307/where_are_the.jpg "Where Are They Now? How Justin Kuritzkes Went From Being The 'Potion Seller' Meme To Writing 'Challengers'")
     
-    What Is The 'Bull Rider Pose' On TikTok? The Controversial Slang Term Explained](https://knowyourmeme.com/editorials/guides/what-is-the-bull-rider-pose-on-tiktok-the-controversial-slang-term-explained)
+    Where Are They Now? How Justin Kuritzkes Went From Being The 'Potion Seller' Meme To Writing 'Challengers'](https://knowyourmeme.com/editorials/guides/where-are-they-now-how-playwright-and-novelist-justin-kuritzkes-went-from-being-the-potion-seller-meme-to-writing-challengers)
     
-* [![Muscular Lara Croft design and red circles. ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/292/lara_croft_design_cover.jpg "Muscular Lara Croft Design In New Netflix Adaptation Sparks Controversy And Memes On The Internet")
+* [![Photoshop Blending Okarun From 'DanDaDan' And McLovin From 'Superbad' Becomes Meme In The DanDaDan Community](https://i.kym-cdn.com/featured_items/icons/wide/000/026/306/okarun_revised.jpg "Photoshop Blending Okarun From 'DanDaDan' And McLovin From 'Superbad' Becomes Meme In The DanDaDan Community")
     
-    Muscular Lara Croft Design In New Netflix Adaptation Sparks Controversy And Memes On The Internet](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy)
+    Photoshop Blending Okarun From 'DanDaDan' And McLovin From 'Superbad' Becomes Meme In The DanDaDan Community](https://knowyourmeme.com/memes/okarun-mclovin-edits)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/291/Planet-Fitness-91st_F4515A07-AF5E-9B78-4BB5CA00C43D7381-f451585ecb478d1_f4516458-a146-0ba1-aaa99e96501441b2.jpg "FTC Announces 'Click To Cancel' Rule Making It Easier For Consumers To Cancel Subscriptions, And All Memers' Eyes Turn To Planet Fitness")
+* [!['Gabriel Xuxu:' Brazilian Kid Gains Ironic Fandom On TikTok Chearing For Him To Win A Vegetable That He Hates In The Mini-Games He Plays With His Friends](https://i.kym-cdn.com/featured_items/icons/wide/000/026/305/Gabriel_Xuxu_cover.jpg "'Gabriel Xuxu:' Brazilian Kid Gains Ironic Fandom On TikTok Chearing For Him To Win A Vegetable That He Hates In The Mini-Games He Plays With His Friends")
     
-    FTC Announces 'Click To Cancel' Rule Making It Easier For Consumers To Cancel Subscriptions, And All Memers' Eyes Turn To Planet Fitness](https://knowyourmeme.com/news/ftc-announces-click-to-cancel-rule-making-it-easier-for-consumers-to-cancel-subscriptions-and-all-memers-eyes-turned-to-planet-fitness)
+    'Gabriel Xuxu:' Brazilian Kid Gains Ironic Fandom On TikTok Chearing For Him To Win A Vegetable That He Hates In The Mini-Games He Plays With His Friends](https://knowyourmeme.com/memes/people/gabriel-xuxu-nepo-baby)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/290/locktober_meaning.jpg "What Does 'Locktober' Mean? The Viral TikTok Term's Two Meanings And Confusing History Explained")
+* [![Knee Thing TikTok](https://i.kym-cdn.com/featured_items/icons/wide/000/026/304/kneething.jpg "Can't Believe We Got 'The Knee Thing' Two Years Ago (And Before GTA 6)")
     
-    What Does 'Locktober' Mean? The Viral TikTok Term's Two Meanings And Confusing History Explained](https://knowyourmeme.com/editorials/guides/what-does-locktober-mean-the-viral-tiktok-terms-two-meanings-and-confusing-history-explained)
+    Can't Believe We Got 'The Knee Thing' Two Years Ago (And Before GTA 6)](https://knowyourmeme.com/memes/the-knee-thing)
     
-* [![TikToker Tears Down Greek Flags At A Restaurant, Mistaking Them For Israeli Flags](https://i.kym-cdn.com/featured_items/icons/wide/000/026/289/cover5.jpg "TikToker Tears Down Greek Flags At A Restaurant, Mistaking Them For Israeli Flags In Viral Video")
+* [![Frankie Valli, 90, Sparks Concern And Memes After Series Of Performances](https://i.kym-cdn.com/featured_items/icons/wide/000/026/303/88487495-0-image-m-46_1723568800149.jpeg "Frankie Valli, 90, Sparks Concern And Memes After Series Of Performances")
     
-    TikToker Tears Down Greek Flags At A Restaurant, Mistaking Them For Israeli Flags In Viral Video](https://knowyourmeme.com/memes/ambamelia-tears-down-greek-flags-thinking-theyre-israeli-flags)
+    Frankie Valli, 90, Sparks Concern And Memes After Series Of Performances](https://knowyourmeme.com/memes/frankie-valli-september-2024-performances)
     
 
 ##### Also Trending:
 
-[Muscular Lara Croft Controversy](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy "Muscular Lara Croft Controversy") [Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy")
+[Muscular Lara Croft Controversy](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy "Muscular Lara Croft Controversy") ["F Israel" Paid For By MrBeast LLC Billboards](https://knowyourmeme.com/memes/events/fuck-israel-paid-for-by-mrbeast-llc-billboards ""F Israel" Paid For By MrBeast LLC Billboards") [Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy") [Game Freak Pokémon GigaLeaks](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks "Game Freak Pokémon GigaLeaks") [Donald Trump Dancing At Rally](https://knowyourmeme.com/memes/events/donald-trumps-oaks-pennsylvania-rally "Donald Trump Dancing At Rally")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hauu! You must login or signup first!
+### Howdy! You must login or signup first!
 
 |     |     |
 | --- | --- |
