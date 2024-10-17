@@ -50,7 +50,7 @@ CHOOSE Size
 
 ### [Multi-Vitamin + Antioxidants Ultra Riché PM Treatment](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
 
-1046 reviews (1047)
+1048 reviews (1048)
 
 $64.00
 
@@ -214,7 +214,7 @@ CHOOSE Size
 
 ### [Acai Pulp Facial Scrub](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
-844 reviews (844)
+845 reviews (845)
 
 $38.00
 
