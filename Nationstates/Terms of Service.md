@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [How disturbing is AN? (51)](https://forum.nationstates.net/viewtopic.php?t=556696&f=25&view=unread#unread ""How disturbing is AN?" (51 posts)")
-* [AI Art, Chatbots, and the morality of… (25)](https://forum.nationstates.net/viewtopic.php?t=557028&f=20&view=unread#unread ""AI Art, Chatbots, and the morality of their use." (25 posts)")
-* [What is your relationship with AU? II (2,404)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (2,404 posts)")
-* [State Banquet, Rep. South Darolia(OOC… (14)](https://forum.nationstates.net/viewtopic.php?t=556943&f=4&view=unread#unread ""State Banquet, Rep. South Darolia(OOC, Sign-Up)" (14 posts)")
-* [Illegal Immigrant Voting? (360)](https://forum.nationstates.net/viewtopic.php?t=556847&f=20&view=unread#unread ""Illegal Immigrant Voting?" (360 posts)")
+* [MALINOVKA ALLIANCE (18)](https://forum.nationstates.net/viewtopic.php?t=557013&f=6&view=unread#unread ""MALINOVKA ALLIANCE" (18 posts)")
+* [The Western Isles News (8,444)](https://forum.nationstates.net/viewtopic.php?t=337003&f=4&view=unread#unread ""The Western Isles News" (8,444 posts)")
+* [What Music Are You Listening to? v18 (11,993)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (11,993 posts)")
+* [A contradiction with German National… (21)](https://forum.nationstates.net/viewtopic.php?t=557032&f=20&view=unread#unread ""A contradiction with German National Socialism?" (21 posts)")
+* [Guess AU's favorite irl country (421)](https://forum.nationstates.net/viewtopic.php?t=554724&f=25&view=unread#unread ""Guess AU's favorite irl country" (421 posts)")
 
 Advertisement
 
