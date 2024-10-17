@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-fe97bc598b79fa795c25ce07417fb215
+d390ec004def860077f8b3a9cce6fee8
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![6 mm round rose quartz beads](https://www.sojourner.biz/images/cache/rose_quartz/RQ0009.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/6-mm-round-rose-quartz-beads.html "6 mm round rose quartz beads")
+[![Sterling silver twisted knot bracelet](https://www.sojourner.biz/images/cache/jewelry/BR0025.200.jpg)](https://www.sojourner.biz/jewelry/bracelets/sterling-silver-twisted-knot-bracelet.html "Sterling silver twisted knot bracelet")
 
-#### [6 mm round rose quartz beads](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/6-mm-round-rose-quartz-beads.html "6 mm round rose quartz beads")
+#### [Sterling silver twisted knot bracelet](https://www.sojourner.biz/jewelry/bracelets/sterling-silver-twisted-knot-bracelet.html "Sterling silver twisted knot bracelet")
 
-$11.00
+$75.00
 
 ### Best Sellers
 
