@@ -22,13 +22,11 @@ Schedule call[(800) 854-2772](tel:8008542772)
 
 [](https://www.listenlively.com/survey)
 
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
-
 Previous
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
 
-New
+Latest
 
 It’s your hearing. Let’s make the most of it.
 ---------------------------------------------
@@ -49,13 +47,9 @@ sound, our most discreet design](https://www.listenlively.com/product)[Our clear
 sound, our most discreet design _Shop Now_](https://www.listenlively.com/product)[Our clearest  
 sound, our most discreet design _Shop the Select 500_](https://www.listenlively.com/product)
 
-“Best Hearing Aids of 2024 Editor's Pick”
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
+“Best if you're new to hearing aids”
 
 Next
-
-![NCOA](/_next/static/media/ncoa-adviser-logo.d5975983.svg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
@@ -158,7 +152,7 @@ Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watc
     With our **Premium Package**, get a 3-year comprehensive virtual care plan with our Audiology Team (aka no office visits).
     
 
-* [New
+* [Latest
     
     ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es500-home-bundle.3f699127.png)
     
