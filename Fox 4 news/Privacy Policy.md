@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![2 killed, 5 injured in head-on crash in Wise County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/b3c1ded6-f7eb340e-f60b8a48-4dbf119a-8677dd54-d338eb2c-police-lights-1.jpg?ve=1&tl=1)
+
+ ![2 killed, 5 injured in head-on crash in Wise County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/b3c1ded6-f7eb340e-f60b8a48-4dbf119a-8677dd54-d338eb2c-police-lights-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-killed-5-injured-head-on-crash-wise-county)
+
+### [2 killed, 5 injured in head-on crash in Wise County](https://www.fox4news.com/news/2-killed-5-injured-head-on-crash-wise-county)
+
+ [!["Way too drunk": Hotel staff reportedly made 911 call before Liam Payne's death](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-626297592-scaled.jpg?ve=1&tl=1)
+
+ !["Way too drunk": Hotel staff reportedly made 911 call before Liam Payne's death](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-626297592-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/liam-payne-911-call)
+
+### ["Way too drunk": Hotel staff reportedly made 911 call before Liam Payne's death](https://www.fox4news.com/news/liam-payne-911-call)
+
+ [![North Carolina starts early in-person voting while recovering from Helene](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/early-voting-north-carolina.jpg?ve=1&tl=1)
+
+ ![North Carolina starts early in-person voting while recovering from Helene](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/early-voting-north-carolina.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-carolina-early-in-person-voting-helene)
+
+### [North Carolina starts early in-person voting while recovering from Helene](https://www.fox4news.com/news/north-carolina-early-in-person-voting-helene)
+
+ [![Fire destroys apartments in Las Colinas, residents saved by mother and son](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/kdfwu20_3552_mxf_00.53.30.04.jpg?ve=1&tl=1)
+
+ ![Fire destroys apartments in Las Colinas, residents saved by mother and son](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/kdfwu20_3552_mxf_00.53.30.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fire-destroys-apartments-las-colinas-residents-saved-mother-son)
+
+### [Fire destroys apartments in Las Colinas, residents saved by mother and son](https://www.fox4news.com/news/fire-destroys-apartments-las-colinas-residents-saved-mother-son)
+
  [![Texas board votes against clemency for a man facing execution in shaken baby syndrome case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1)
 
  ![Texas board votes against clemency for a man facing execution in shaken baby syndrome case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-intro-robert-roberson-execution-9p_00.00.11.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-board-votes-against-clemency-man-facing-execution-shaken-baby-syndrome-case)
 
 ### [Texas board votes against clemency for a man facing execution in shaken baby syndrome case](https://www.fox4news.com/news/texas-board-votes-against-clemency-man-facing-execution-shaken-baby-syndrome-case)
-
- [![Deaf man with cerebral palsy hit and tased by Phoenix Police officers; investigations underway](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-16-15h25m36s381.png?ve=1&tl=1)
-
- ![Deaf man with cerebral palsy hit and tased by Phoenix Police officers; investigations underway](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-16-15h25m36s381.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/deaf-man-cerebral-palsy-hit-tased-phoenix-police-officers-investigations-underway)
-
-### [Deaf man with cerebral palsy hit and tased by Phoenix Police officers; investigations underway](https://www.fox4news.com/news/deaf-man-cerebral-palsy-hit-tased-phoenix-police-officers-investigations-underway)
-
- [![Former One Direction star Liam Payne dies after fall from hotel floor](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/liam-payne-one-direction.jpg?ve=1&tl=1)
-
- ![Former One Direction star Liam Payne dies after fall from hotel floor](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/liam-payne-one-direction.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/one-direction-liam-payne-dies)
-
-### [Former One Direction star Liam Payne dies after fall from hotel floor](https://www.fox4news.com/news/one-direction-liam-payne-dies)
-
- [![Keller ISD, nonprofit launch fundraiser to pay student lunch debt to avoid 'alternative meals'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/15145f8d-GettyImages-875207542.jpg?ve=1&tl=1)
-
- ![Keller ISD, nonprofit launch fundraiser to pay student lunch debt to avoid 'alternative meals'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/592/333/15145f8d-GettyImages-875207542.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/keller-isd-alternative-lunches-community-storehouse-partnership-online-fundraiser-school-lunches)
-
-### [Keller ISD, nonprofit launch fundraiser to pay student lunch debt to avoid 'alternative meals'](https://www.fox4news.com/news/keller-isd-alternative-lunches-community-storehouse-partnership-online-fundraiser-school-lunches)
-
- [![Arizona's famous 'Thanksgiving Grandma,' Wanda Dench diagnosed with cancer](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/screenshot-2024-10-16-180006.png?ve=1&tl=1)
-
- ![Arizona's famous 'Thanksgiving Grandma,' Wanda Dench diagnosed with cancer](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/screenshot-2024-10-16-180006.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arizonas-famous-thanksgiving-grandma-wanda-dench-diagnosed-cancer)
-
-### [Arizona's famous 'Thanksgiving Grandma,' Wanda Dench diagnosed with cancer](https://www.fox4news.com/news/arizonas-famous-thanksgiving-grandma-wanda-dench-diagnosed-cancer)
 
 ###### [News](https://www.fox4news.com/news)
 
