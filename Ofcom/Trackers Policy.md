@@ -143,7 +143,7 @@
 
 ### New ten-year public service broadcast licence for Channel 4
 
-15 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/new-ten-year-public-service-broadcast-licence-for-channel-4/?language=en)
+15 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/new-ten-year-public-service-broadcast-licence-for-channel-4/)
 
 [![An external shot of Channel 4 headquarters](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/channel-42.jpg?width=1920&height=1085&quality=80)
 
@@ -157,7 +157,7 @@
 
 7 October 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-literacy/Online-services-pledge-to-prioritise-media-literacy/)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/ "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
