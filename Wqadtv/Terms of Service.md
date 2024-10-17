@@ -30,14 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/740e2974-2945-419e-83dc-f961f05d0c8a/20240523T220434/740e2974-2945-419e-83dc-f961f05d0c8a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/740e2974-2945-419e-83dc-f961f05d0c8a/20240523T220434/740e2974-2945-419e-83dc-f961f05d0c8a_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/unitypoint-health-certified-virtual-nursing-program-remote-new/526-06e6089a-6487-4a86-bbc5-f188d827bc76)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_360x203.jpg)](https://www.wqad.com/article/money/business/john-deere/congressional-candidates-react-latest-john-deere-layoffs/526-8ab271b2-d0ed-4120-b8ee-d8a9af8c9e31)
         
-        #### [UnityPoint Health is helping to pioneer virtual nurse certifications](https://www.wqad.com/article/news/local/the-current/unitypoint-health-certified-virtual-nursing-program-remote-new/526-06e6089a-6487-4a86-bbc5-f188d827bc76)
+        #### [Congressional candidates react to latest John Deere layoffs](https://www.wqad.com/article/money/business/john-deere/congressional-candidates-react-latest-john-deere-layoffs/526-8ab271b2-d0ed-4120-b8ee-d8a9af8c9e31) [![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_360x203.jpg)](https://www.wqad.com/article/money/business/john-deere/congressional-candidates-react-latest-john-deere-layoffs/526-8ab271b2-d0ed-4120-b8ee-d8a9af8c9e31)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ae559308-f19e-4cb5-a17c-97b1af4579d5/20241016T215546/ae559308-f19e-4cb5-a17c-97b1af4579d5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ae559308-f19e-4cb5-a17c-97b1af4579d5/20241016T215546/ae559308-f19e-4cb5-a17c-97b1af4579d5_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/lee-county-ashton-illinois-murder-teenage/526-4f70aafc-b892-4568-b90a-8d3a88cc258c)
+        #### [Politicians, candidates react to latest John Deere layoffs in the Quad Cities](https://www.wqad.com/article/money/business/john-deere/congressional-candidates-react-latest-john-deere-layoffs/526-8ab271b2-d0ed-4120-b8ee-d8a9af8c9e31)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e8818ec1-7873-49f2-81e3-aa1f432d1e8d/20241017T021051/e8818ec1-7873-49f2-81e3-aa1f432d1e8d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e8818ec1-7873-49f2-81e3-aa1f432d1e8d/20241017T021051/e8818ec1-7873-49f2-81e3-aa1f432d1e8d_360x203.jpg)](https://www.wqad.com/article/news/education/mercer-county-football-coach-suspended-following-incident/526-e2049449-c969-41b6-81d1-ec2b582f56ea)
         
-        #### [16-year-old girl killed in Lee County, 17-year-old boyfriend charged with murder](https://www.wqad.com/article/news/local/public-safety/lee-county-ashton-illinois-murder-teenage/526-4f70aafc-b892-4568-b90a-8d3a88cc258c)
+        #### [Mercer County football coach suspended indefinitely](https://www.wqad.com/article/news/education/mercer-county-football-coach-suspended-following-incident/526-e2049449-c969-41b6-81d1-ec2b582f56ea) [![](https://media.tegna-media.com/assets/WQAD/images/e8818ec1-7873-49f2-81e3-aa1f432d1e8d/20241017T021051/e8818ec1-7873-49f2-81e3-aa1f432d1e8d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e8818ec1-7873-49f2-81e3-aa1f432d1e8d/20241017T021051/e8818ec1-7873-49f2-81e3-aa1f432d1e8d_360x203.jpg)](https://www.wqad.com/article/news/education/mercer-county-football-coach-suspended-following-incident/526-e2049449-c969-41b6-81d1-ec2b582f56ea)
         
+        #### [Community Reacts as Mercer County Football Coach Faces Suspension](https://www.wqad.com/article/news/education/mercer-county-football-coach-suspended-following-incident/526-e2049449-c969-41b6-81d1-ec2b582f56ea)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,13 +58,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/40cd23ae-a737-4fb7-8fdc-defed1a4edea/20241016T225032/40cd23ae-a737-4fb7-8fdc-defed1a4edea_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/40cd23ae-a737-4fb7-8fdc-defed1a4edea/20241016T225032/40cd23ae-a737-4fb7-8fdc-defed1a4edea_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [More warmth on the way for the rest of the week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_360x203.jpg)](https://www.wqad.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
         
         #### [October's supermoon pairs with a comet for a special nighttime spectacle](https://www.wqad.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
-        
-    *  [![](https://media.tegna-media.com/assets/WTSP/images/c2f988d9-b964-4ec3-a996-b1cb9c58d51e/20241011T023631/c2f988d9-b964-4ec3-a996-b1cb9c58d51e_16x9.jpg) ![](https://media.tegna-media.com/assets/WTSP/images/c2f988d9-b964-4ec3-a996-b1cb9c58d51e/20241011T023631/c2f988d9-b964-4ec3-a996-b1cb9c58d51e_360x203.jpg)](https://www.wqad.com/article/news/crime/dog-tied-fence-i-75-hurricane-milton-animal-cruelty-owner-charged/67-f0270b3f-d988-4568-b40f-8d548b3c05e0)
-        
-        #### [Owner of dog left tied to fence on I-75 ahead of Milton charged with animal cruelty](https://www.wqad.com/article/news/crime/dog-tied-fence-i-75-hurricane-milton-animal-cruelty-owner-charged/67-f0270b3f-d988-4568-b40f-8d548b3c05e0)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +88,9 @@ Navigation
 
 Davenport, IA »
 
-57°
+40°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
