@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-exploit the possibilities
+what you don't know can hurt you
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -28,12 +28,12 @@ Packet Storm supports full disclosure on all items we add to the site. With our 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 304 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 320 files
 * [indoushka](https://packetstormsecurity.com/files/authors/7697) 142 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 100 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 103 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 32 files
 * [Debian](https://packetstormsecurity.com/files/authors/2821) 24 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 17 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 18 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 11 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 8 files
 * [malvuln](https://packetstormsecurity.com/files/authors/15382) 8 files
@@ -44,6 +44,14 @@ Recent News
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
+[Deepfake Lovers Swindle Victims Out Of $46M In Hong Kong AI Scam](https://packetstormsecurity.com/news/view/36487/Deepfake-Lovers-Swindle-Victims-Out-Of-46M-In-Hong-Kong-AI-Scam.html)
+
+Posted [Oct 17, 2024](https://packetstormsecurity.com/news/date/2024-10-17/ "13:18:10 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [china](https://packetstormsecurity.com/news/tags/china), [botnet](https://packetstormsecurity.com/news/tags/botnet), [fraud](https://packetstormsecurity.com/news/tags/fraud), [scam](https://packetstormsecurity.com/news/tags/scam)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36487/) | [View](https://arstechnica.com/ai/2024/10/deepfake-lovers-swindle-victims-out-of-46m-in-hong-kong-ai-scam/)
+
 [The Crusade To Replace Passwords With Passkeys Just Intensified](https://packetstormsecurity.com/news/view/36482/The-Crusade-To-Replace-Passwords-With-Passkeys-Just-Intensified.html)
 
 Posted [Oct 16, 2024](https://packetstormsecurity.com/news/date/2024-10-16/ "14:21:17 UTC")
@@ -51,6 +59,14 @@ Posted [Oct 16, 2024](https://packetstormsecurity.com/news/date/2024-10-16/ "14:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [password](https://packetstormsecurity.com/news/tags/password), [identity theft](https://packetstormsecurity.com/news/tags/identity_theft)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36482/) | [View](https://gizmodo.com/an-industry-group-wants-you-to-replace-your-passwords-with-passkeys-2000512254)
+
+[Varsity Brands Data Breach Impacts 65,000 People](https://packetstormsecurity.com/news/view/36481/Varsity-Brands-Data-Breach-Impacts-65-000-People.html)
+
+Posted [Oct 16, 2024](https://packetstormsecurity.com/news/date/2024-10-16/ "14:21:13 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36481/) | [View](https://www.securityweek.com/varsity-brands-data-breach-impacts-65000-people/)
 
 [Cisco Investigating Breach And Sale Of Data](https://packetstormsecurity.com/news/view/36480/Cisco-Investigating-Breach-And-Sale-Of-Data.html)
 
@@ -68,6 +84,30 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36479/) | [View](https://www.bbc.com/news/articles/ce8vedz4yk7o)
 
+[Jetpack Patches Critical Bug That Exposed Data On 27 Million WordPress Sites](https://packetstormsecurity.com/news/view/36478/Jetpack-Patches-Critical-Bug-That-Exposed-Data-On-27-Million-WordPress-Sites.html)
+
+Posted [Oct 16, 2024](https://packetstormsecurity.com/news/date/2024-10-16/ "14:20:52 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [wordpress](https://packetstormsecurity.com/news/tags/wordpress)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36478/) | [View](https://www.scworld.com/news/jetpack-patches-critical-bug-that-exposed-data-on-27m-wordpress-sites)
+
+[North Korean Hackers Use Newly Discovered Linux Malware To Raid ATMs](https://packetstormsecurity.com/news/view/36477/North-Korean-Hackers-Use-Newly-Discovered-Linux-Malware-To-Raid-ATMs.html)
+
+Posted [Oct 16, 2024](https://packetstormsecurity.com/news/date/2024-10-16/ "14:20:45 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware), [bank](https://packetstormsecurity.com/news/tags/bank), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [north korea](https://packetstormsecurity.com/news/tags/north_korea)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36477/) | [View](https://arstechnica.com/security/2024/10/north-korean-hackers-use-newly-discovered-linux-malware-to-raid-atms/)
+
+[CISA Flags Critical SolarWinds Web Help Desk Bug](https://packetstormsecurity.com/news/view/36476/CISA-Flags-Critical-SolarWinds-Web-Help-Desk-Bug.html)
+
+Posted [Oct 16, 2024](https://packetstormsecurity.com/news/date/2024-10-16/ "14:19:33 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36476/) | [View](https://www.securityweek.com/organizations-warned-of-exploited-solarwinds-web-help-desk-vulnerability/)
+
 [Internet Archive Wobbles Back Online, With Limited Functionality](https://packetstormsecurity.com/news/view/36475/Internet-Archive-Wobbles-Back-Online-With-Limited-Functionality.html)
 
 Posted [Oct 16, 2024](https://packetstormsecurity.com/news/date/2024-10-16/ "14:19:23 UTC")
@@ -83,46 +123,6 @@ Posted [Oct 15, 2024](https://packetstormsecurity.com/news/date/2024-10-15/ "13:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [iran](https://packetstormsecurity.com/news/tags/iran)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36474/) | [View](https://www.securityweek.com/iranian-cyberspies-exploiting-recent-windows-kernel-vulnerability/)
-
-[Splunk Enterprise Update Patches Remote Code Execution Vulns](https://packetstormsecurity.com/news/view/36473/Splunk-Enterprise-Update-Patches-Remote-Code-Execution-Vulns.html)
-
-Posted [Oct 15, 2024](https://packetstormsecurity.com/news/date/2024-10-15/ "13:53:37 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36473/) | [View](https://www.securityweek.com/splunk-enterprise-update-patches-remote-code-execution-vulnerabilities/)
-
-[Log4j Still Being Exploited Nearly 3 Years Later](https://packetstormsecurity.com/news/view/36472/Log4j-Still-Being-Exploited-Nearly-3-Years-Later.html)
-
-Posted [Oct 15, 2024](https://packetstormsecurity.com/news/date/2024-10-15/ "13:53:28 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36472/) | [View](https://www.scworld.com/news/vulnerable-instances-of-log4j-still-being-used-nearly-3-years-later)
-
-[New CounterSEVeillance And TDXDown Attacks Target AMD And Intel TEEs](https://packetstormsecurity.com/news/view/36471/New-CounterSEVeillance-And-TDXDown-Attacks-Target-AMD-And-Intel-TEEs.html)
-
-Posted [Oct 15, 2024](https://packetstormsecurity.com/news/date/2024-10-15/ "13:53:21 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [intel](https://packetstormsecurity.com/news/tags/intel)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36471/) | [View](https://www.securityweek.com/new-counterseveillance-and-tdxdown-attacks-target-amd-and-intel-tees/)
-
-[Ward Christensen, BBS Inventor And Architect Of Our Online Age, Dies At 78](https://packetstormsecurity.com/news/view/36470/Ward-Christensen-BBS-Inventor-And-Architect-Of-Our-Online-Age-Dies-At-78.html)
-
-Posted [Oct 15, 2024](https://packetstormsecurity.com/news/date/2024-10-15/ "13:53:12 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36470/) | [View](https://arstechnica.com/gadgets/2024/10/ward-christensen-bbs-inventor-and-architect-of-our-online-age-dies-at-age-78/)
-
-[Pentagon Shares New Cybersecurity Rules For Gov't Contractors](https://packetstormsecurity.com/news/view/36469/Pentagon-Shares-New-Cybersecurity-Rules-For-Govt-Contractors.html)
-
-Posted [Oct 15, 2024](https://packetstormsecurity.com/news/date/2024-10-15/ "13:53:09 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [military](https://packetstormsecurity.com/news/tags/military)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36469/) | [View](https://www.scworld.com/news/pentagon-shares-new-cybersecurity-rules-for-government-contractors)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1579638706&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1579638706.1729155476.1729155476.1729155476.1%3B%2B__utmz%3D32867617.1729155476.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1381534364&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1381534364.1729177850.1729177850.1729177850.1%3B%2B__utmz%3D32867617.1729177850.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
