@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road”
+“ Anything not saved will be lost”
 
-[Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand)
+[Nintendo Wii 'Quit Screen'](https://en.wikipedia.org/wiki/Everything_Not_Saved_Will_Be_Lost_%E2%80%93_Part_1#Album_artwork_and_title)
 
 [](https://www.adafruit.com/about)
 
