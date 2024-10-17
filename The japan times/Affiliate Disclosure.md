@@ -257,23 +257,17 @@ Latest News
 
 [Wise becomes first foreign firm to gain direct access to Japan's payment clearing network](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
 
-4 hours ago
+9 hours ago
 
 [Two unexploded bombs found near airport in Okinawa](https://www.japantimes.co.jp/news/2024/10/17/japan/unexploded-bombs-southern-japan-airport/ "Two unexploded bombs found near airport in Okinawa")
 
-4 hours ago
+10 hours ago
 
 [Ishiba Cabinet logs lowest initial support since 2000: Jiji poll](https://www.japantimes.co.jp/news/2024/10/17/japan/politics/ishiba-cabinet-lowest-public-support/ "Ishiba Cabinet logs lowest initial support since 2000: Jiji poll")
 
-6 hours ago
-
 [Robberies in Kanto region may be linked to 'dark' part-time jobs](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/kanto-region-robberies-yamibaito/ "Robberies in Kanto region may be linked to 'dark' part-time jobs")
 
-7 hours ago
-
 [Japan Post Insurance markets chief sees Nikkei setting new records after votes](https://www.japantimes.co.jp/business/2024/10/17/markets/japan-insurer-nikkei-share-prediction/ "Japan Post Insurance markets chief sees Nikkei setting new records after votes")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
