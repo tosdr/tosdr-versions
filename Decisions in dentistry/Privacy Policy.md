@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[The ADA Forsyth Institute has received a $6.2 mill ![The ADA Forsyth Institute has received a $6.2 million grant to develop AI-powered dental fillings that can repair themselves and fight off harmful bacteria. This groundbreaking innovation will accelerate dental care advancements, setting the stage for smarter and more durable dental materials. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBMHPfZviRx/) 
+
 [Recent advancements have redefined the management ![Recent advancements have redefined the management of peri-implant disease, distinguishing it from periodontitis and emphasizing conservative treatments. Studies highlight the effectiveness of targeted anti-infective surgical therapies over aggressive protocols, underscoring a shift toward minimally invasive approaches to preserve implant health and reduce complications. Link in bio.⁠
 ⁠
 ⁠
@@ -225,13 +232,6 @@ Click the link in bio for full article.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA_BjClzNTj/) 
-
-[Penn’s School of Dental Medicine just received a ![Penn’s School of Dental Medicine just received a $620,900 grant to improve oral health education for caregivers of people with disabilities. Over 3 years, this initiative aims to boost caregiver knowledge through engaging training and resources, benefiting thousands in the community. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA8qdCqNW-n/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
