@@ -191,7 +191,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111151-the-cover-of-vague-2024-10-17)
+     [](https://patriotpost.us/memes/111178-ugh-2024-10-17)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -203,6 +203,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Victor Davis Hanson Election 2024 — Those who lecture versus those tired of being lectured](https://patriotpost.us/opinion/111176-election-2024-those-who-lecture-versus-those-tired-of-being-lectured-2024-10-17)
 *      [Hans von Spakovsky How States Can Protect the Right to Vote in Hurricane-Ravaged Areas](https://patriotpost.us/opinion/111150-how-states-can-protect-the-right-to-vote-in-hurricane-ravaged-areas-2024-10-17)
 *      [Larry Elder Obama Again Whips Out His Race Card — Tells ‘The Brothers’ How To Vote](https://patriotpost.us/opinion/111148-obama-again-whips-out-his-race-card-tells-the-brothers-how-to-vote-2024-10-17)
 *      [Gary Bauer JDFI Defends Religious Liberty](https://patriotpost.us/opinion/111147-jdfi-defends-religious-liberty-2024-10-17)
@@ -210,7 +211,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Cal Thomas Regime Change in Iran Is the Only Option](https://patriotpost.us/opinion/111144-regime-change-in-iran-is-the-only-option-2024-10-17)
 *      [Mark Alexander JD Vance v. New York Times](https://patriotpost.us/alexander/111104-jd-vance-v-new-york-times-2024-10-17)
 *      [The Babylon Bee Democrats Wondering If It’s Too Late to Go Back to Joe Biden](https://patriotpost.us/opinion/111168-democrats-wondering-if-its-too-late-to-go-back-to-joe-biden-2024-10-17)
-*      [Jeff Jacoby Oklahoma Urges Private Groups to Launch Charter Schools — as Long as They’re Not Religious](https://patriotpost.us/opinion/111145-oklahoma-urges-private-groups-to-launch-charter-schools-as-long-as-theyre-not-religious-2024-10-16)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,7 +224,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
