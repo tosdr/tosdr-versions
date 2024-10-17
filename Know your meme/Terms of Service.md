@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![This Guy Is Pondering His Orb, And Memers Join In Pondering Their Orb](https://i.kym-cdn.com/featured_items/icons/wide/000/026/288/Screen_Shot_2021-11-03_at_12.03.40_PM.png "Happy Orb Pondering Anniversary")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/293/brpfp.jpg "What Is The 'Bull Rider Pose' On TikTok? The Controversial Slang Term Explained")
     
-    Happy Orb Pondering Anniversary](https://knowyourmeme.com/memes/pondering-my-orb)
+    What Is The 'Bull Rider Pose' On TikTok? The Controversial Slang Term Explained](https://knowyourmeme.com/editorials/guides/what-is-the-bull-rider-pose-on-tiktok-the-controversial-slang-term-explained)
     
-* [![GeorgeNotFound Crying refers to a piece of fanart depicting Dream SMP member GeorgeNotFound crying in his car while holding an invite for fellow Minecraft YouTubers Dream and Fundy's wedding. Dream and Fundy held a joke wedding in Minecraft in December 2020, with George jokingly objecting to the wedding in a YouTube video. The fanart came to be used as an ironic reaction meme to depict great sadness in 2024.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/287/george_not.jpg "GeorgeNotFound May Have Been Cancelled Months Ago, But People Are Still Using This Niche Piece Of Fanart")
+* [![Muscular Lara Croft design and red circles. ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/292/lara_croft_design_cover.jpg "Muscular Lara Croft Design In New Netflix Adaptation Sparks Controversy And Memes On The Internet")
     
-    GeorgeNotFound May Have Been Cancelled Months Ago, But People Are Still Using This Niche Piece Of Fanart](https://knowyourmeme.com/memes/georgenotfound-crying)
+    Muscular Lara Croft Design In New Netflix Adaptation Sparks Controversy And Memes On The Internet](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy)
     
-* [![In Da Clerb, We All Fam is a memorable quote from a March 2016 episode of the Comedy Central Broad City. The catchphrase originates from a scene where Ilana Wexler waves to two women she doesn't know after crashing a party, saying "In da clerb, we all fam," to her confused friend Abbi. After Abbi fails to compute the statement, Ilana says, "In the club, we are all family. Are you racist?" The catchphrase became a viral TikTok meme in October 2024.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/286/in_the_clerb.jpg "'In Da Clerb, We All Fam' Is The Next TikTok-Enabled Catchphrase You Will be Seeing All Over Your Timelines")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/291/Planet-Fitness-91st_F4515A07-AF5E-9B78-4BB5CA00C43D7381-f451585ecb478d1_f4516458-a146-0ba1-aaa99e96501441b2.jpg "FTC Announces 'Click To Cancel' Rule Making It Easier For Consumers To Cancel Subscriptions, And All Memers' Eyes Turn To Planet Fitness")
     
-    'In Da Clerb, We All Fam' Is The Next TikTok-Enabled Catchphrase You Will be Seeing All Over Your Timelines](https://knowyourmeme.com/memes/in-da-clerb-we-all-fam)
+    FTC Announces 'Click To Cancel' Rule Making It Easier For Consumers To Cancel Subscriptions, And All Memers' Eyes Turn To Planet Fitness](https://knowyourmeme.com/news/ftc-announces-click-to-cancel-rule-making-it-easier-for-consumers-to-cancel-subscriptions-and-all-memers-eyes-turned-to-planet-fitness)
     
-* [![Screenshot from the film I, Robot of the character Sonny saying "no"](https://i.kym-cdn.com/featured_items/icons/wide/000/026/285/irobot.jpg "I, Robot 'No' Scene Resurfaces As Viral Exploitable Meme On TikTok Alongside Alicia Keys' 'No One' Song")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/290/locktober_meaning.jpg "What Does 'Locktober' Mean? The Viral TikTok Term's Two Meanings And Confusing History Explained")
     
-    I, Robot 'No' Scene Resurfaces As Viral Exploitable Meme On TikTok Alongside Alicia Keys' 'No One' Song](https://knowyourmeme.com/memes/i-robot-no)
+    What Does 'Locktober' Mean? The Viral TikTok Term's Two Meanings And Confusing History Explained](https://knowyourmeme.com/editorials/guides/what-does-locktober-mean-the-viral-tiktok-terms-two-meanings-and-confusing-history-explained)
     
-* [![LeBron Hennessy, also known as LeHenny or LeBrenny, refers to a 2024 limited edition cognac bottle made by Hennessy in collaboration with NBA player LeBron James. LeBron Hennessy was released in late September 2024 but generated significant viral discourse and memes in October 2024. Notable influencers like Twitch streamer Kai Cenat reviewed LeBron Hennessy and joked about it after its release.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/284/lebron_hennessy.jpg "LeBron's Got His Own Hennessy Bottle, So Now, If The Function Got Hennessy, It Might Be 'LeHenny'")
+* [![TikToker Tears Down Greek Flags At A Restaurant, Mistaking Them For Israeli Flags](https://i.kym-cdn.com/featured_items/icons/wide/000/026/289/cover5.jpg "TikToker Tears Down Greek Flags At A Restaurant, Mistaking Them For Israeli Flags In Viral Video")
     
-    LeBron's Got His Own Hennessy Bottle, So Now, If The Function Got Hennessy, It Might Be 'LeHenny'](https://knowyourmeme.com/memes/subcultures/lebron-hennessy)
+    TikToker Tears Down Greek Flags At A Restaurant, Mistaking Them For Israeli Flags In Viral Video](https://knowyourmeme.com/memes/ambamelia-tears-down-greek-flags-thinking-theyre-israeli-flags)
     
 
 ##### Also Trending:
 
-[Donald Trump's Oaks, Pennsylvania Rally](https://knowyourmeme.com/memes/events/donald-trumps-oaks-pennsylvania-rally "Donald Trump's Oaks, Pennsylvania Rally") [Woman Tearing Down Greek Flags Video](https://knowyourmeme.com/memes/ambamelia-tears-down-greek-flags-thinking-theyre-israeli-flags "Woman Tearing Down Greek Flags Video") [Muscular Lara Croft Controversy](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy "Muscular Lara Croft Controversy")
+[Donald Trump Dancing At Rally](https://knowyourmeme.com/memes/events/donald-trumps-oaks-pennsylvania-rally "Donald Trump Dancing At Rally") [Muscular Lara Croft Controversy](https://knowyourmeme.com/memes/events/the-legend-of-lara-croft-controversy-muscular-lara-croft-controversy "Muscular Lara Croft Controversy") [Woman Tearing Down Greek Flags Video](https://knowyourmeme.com/memes/ambamelia-tears-down-greek-flags-thinking-theyre-israeli-flags "Woman Tearing Down Greek Flags Video") [Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy") [Game Freak Pokémon GigaLeaks](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks "Game Freak Pokémon GigaLeaks") [Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks") [From the Screen To the Ring](https://knowyourmeme.com/memes/from-the-screen-%F0%9F%93%BA-to-the-ring-%F0%9F%A5%8A-to-the-pen-%F0%9F%96%8A%EF%B8%8F-to-the-king-%F0%9F%91%91 "From the Screen To the Ring")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hey! You must login or signup first!
+### 'lo! You must login or signup first!
 
 |     |     |
 | --- | --- |
