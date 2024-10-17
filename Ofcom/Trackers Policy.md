@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Countdown to a safer life online HERO (1336 × 560px)](/siteassets/resources/images/-news-centre/body-images/2024/countdown-to-a-safer-life-online/countdown-to-a-safer-life-online-hero-1336--560px.png?width=1920&height=1085&quality=80)
+
+### Countdown to a safer life online
+
+17 October 2024](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/countdown-to-a-safer-life-online/)
+
 [![Family on computer](/siteassets/resources/images/-news-centre/body-images/2024/why-were-supporting-get-online-week/why-were-supporting-get-online-week-hero-1336--560px.png?width=1920&height=1085&quality=80)
 
 ### Why we’re supporting Get Online Week
@@ -150,12 +156,6 @@
 ### Response to Channel 4 Corporation’s Statement of Media Content Policy 2023
 
 8 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/response-to-channel-4-corporations-statement-of-media-content-policy-2023/)
-
-[![App design for media literacy](/siteassets/resources/images/-news-centre/thumbnail-images/internet/ml-pledge-web.jpg?width=1920&height=1085&quality=80)
-
-### Online services pledge to prioritise media literacy
-
-7 October 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-literacy/Online-services-pledge-to-prioritise-media-literacy/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
