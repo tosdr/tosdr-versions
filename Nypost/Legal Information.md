@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### 2024 election looms
+#### Breaking News
 
-[Here’s the moment Kamala Harris’ aides shut down Fox News interview with Bret Baier](https://nypost.com/2024/10/17/us-news/heres-when-kamala-harris-aides-ended-fox-news-interview/)
+[Hamas chief and Oct. 7 mastermind Yahya Sinwar confirmed dead](https://nypost.com/2024/10/17/world-news/hamas-chief-and-oct-7-mastermind-yahya-sinwar-killed-in-israeli-strike/)
 
 Privacy Notice Highlights
 =========================
