@@ -20,16 +20,16 @@ Thursday, October 17 2024
 
 Latest
 
-* [New Fido standard for passkeys will make it easier to change services](https://digitpatrox.com/new-fido-standard-for-passkeys-will-make-it-easier-to-change-services/)
-* [The Most Cliched Halloween Costumes to Avoid in 2024](https://digitpatrox.com/the-most-cliched-halloween-costumes-to-avoid-in-2024/)
-* [Baby Bottles With No Detected BPA, Lead, or Phthalates](https://digitpatrox.com/baby-bottles-with-no-detected-bpa-lead-or-phthalates/)
-* [Firefox Is Now ”More Than 75X Faster” Running WebAssembly](https://digitpatrox.com/firefox-is-now-more-than-75x-faster-running-webassembly/)
-* [State-sponsored cyber crime is officially out of control](https://digitpatrox.com/state-sponsored-cyber-crime-is-officially-out-of-control/)
-* [Mobile, IoT, and OT Cyber Threats Surge in 2024](https://digitpatrox.com/mobile-iot-and-ot-cyber-threats-surge-in-2024/)
-* [You only need 2 dumbbells and 6 moves to build full-body muscle and boost your metabolism](https://digitpatrox.com/you-only-need-2-dumbbells-and-6-moves-to-build-full-body-muscle-and-boost-your-metabolism/)
-* [70% of exploited flaws disclosed in 2023 were zero-days](https://digitpatrox.com/70-of-exploited-flaws-disclosed-in-2023-were-zero-days/)
-* [Google asks 9th Circuit for emergency stay, says Epic ruling ‘is dangerous’](https://digitpatrox.com/google-asks-9th-circuit-for-emergency-stay-says-epic-ruling-is-dangerous/)
-* [What Is Private Space on Android 15 and How to Use It](https://digitpatrox.com/what-is-private-space-on-android-15-and-how-to-use-it/)
+* [Can you see internet search history on your WiFi bill?](https://digitpatrox.com/can-you-see-internet-search-history-on-your-wifi-bill/)
+* [Using campus recruitment to unlock top talent in tech](https://digitpatrox.com/using-campus-recruitment-to-unlock-top-talent-in-tech/)
+* [Chinese cybersecurity association urges review of Intel products – Computerworld](https://digitpatrox.com/chinese-cybersecurity-association-urges-review-of-intel-products-computerworld/)
+* [Raw Cider Is Just As Unsafe As Raw Milk](https://digitpatrox.com/raw-cider-is-just-as-unsafe-as-raw-milk/)
+* [Honda Accord, Civic, and CR-V RecllDue to Fuel Pump Problems](https://digitpatrox.com/honda-accord-civic-and-cr-v-reclldue-to-fuel-pump-problems/)
+* [This Android Launcher Helped Me Cut My Phone Use in Half](https://digitpatrox.com/this-android-launcher-helped-me-cut-my-phone-use-in-half/)
+* [Cutting cloud complexity without losing the rewards via cloud tech consulting](https://digitpatrox.com/cutting-cloud-complexity-without-losing-the-rewards-via-cloud-tech-consulting/)
+* [10 Best Project Portfolio Management (PPM) Software for 2024](https://digitpatrox.com/10-best-project-portfolio-management-ppm-software-for-2024/)
+* [iPad mini 7 uses the same chip as the iPhone 15 Pro — but with one key downgrade](https://digitpatrox.com/ipad-mini-7-uses-the-same-chip-as-the-iphone-15-pro-but-with-one-key-downgrade/)
+* [USDoD hacker behind National Public Data breach arrested in Brazil](https://digitpatrox.com/usdod-hacker-behind-national-public-data-breach-arrested-in-brazil/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.csoonline.com/wp-content/uploads/2024/10/3566575-0-46450500-1729098656-shutterstock_1117015901.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/new-fido-standard-for-passkeys-will-make-it-easier-to-change-services/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Can-you-see-internet-search-history-on-your-wifi-bill_.jpg)](https://digitpatrox.com/can-you-see-internet-search-history-on-your-wifi-bill/)
     
-    [New Fido standard for passkeys will make it easier to change services](https://digitpatrox.com/new-fido-standard-for-passkeys-will-make-it-easier-to-change-services/)
+    [Can you see internet search history on your WiFi bill?](https://digitpatrox.com/can-you-see-internet-search-history-on-your-wifi-bill/)
     
-    9 mins ago
+    24 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01HF2HHM54C052X9TSKKRBK2K1/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-most-cliched-halloween-costumes-to-avoid-in-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/em73sw4NYTD4tNx4XQ6WPe-1200-80.jpg)](https://digitpatrox.com/using-campus-recruitment-to-unlock-top-talent-in-tech/)
     
-    [The Most Cliched Halloween Costumes to Avoid in 2024](https://digitpatrox.com/the-most-cliched-halloween-costumes-to-avoid-in-2024/)
+    [Using campus recruitment to unlock top talent in tech](https://digitpatrox.com/using-campus-recruitment-to-unlock-top-talent-in-tech/)
     
-    36 mins ago
+    46 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1691541828/prod/content/dam/CRO-Images-2023/08August/Babies/CR-Babies-InlineHero-Best-Baby-Bottles-0823)](https://digitpatrox.com/baby-bottles-with-no-detected-bpa-lead-or-phthalates/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3567767-0-90640600-1729160617-IDG-Germany-Intel-September-News.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/chinese-cybersecurity-association-urges-review-of-intel-products-computerworld/)
     
-    [Baby Bottles With No Detected BPA, Lead, or Phthalates](https://digitpatrox.com/baby-bottles-with-no-detected-bpa-lead-or-phthalates/)
-    
-    1 hour ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/firefox2.jpg)](https://digitpatrox.com/firefox-is-now-more-than-75x-faster-running-webassembly/)
-    
-    [Firefox Is Now ”More Than 75X Faster” Running WebAssembly](https://digitpatrox.com/firefox-is-now-more-than-75x-faster-running-webassembly/)
+    [Chinese cybersecurity association urges review of Intel products – Computerworld](https://digitpatrox.com/chinese-cybersecurity-association-urges-review-of-intel-products-computerworld/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/x36eFsVMn7zTT8Pg9QZZhm-1200-80.jpg)](https://digitpatrox.com/state-sponsored-cyber-crime-is-officially-out-of-control/)
+* [![](https://lifehacker.com/imagery/articles/01JABE1HXCZHDHFDP9YM5FN975/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/raw-cider-is-just-as-unsafe-as-raw-milk/)
     
-    [State-sponsored cyber crime is officially out of control](https://digitpatrox.com/state-sponsored-cyber-crime-is-officially-out-of-control/)
+    [Raw Cider Is Just As Unsafe As Raw Milk](https://digitpatrox.com/raw-cider-is-just-as-unsafe-as-raw-milk/)
+    
+    2 hours ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729000611/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2025-Honda-Civic-Sedan-Sport-Touring-Hybrid-f-driving-10-24)](https://digitpatrox.com/honda-accord-civic-and-cr-v-reclldue-to-fuel-pump-problems/)
+    
+    [Honda Accord, Civic, and CR-V RecllDue to Fuel Pump Problems](https://digitpatrox.com/honda-accord-civic-and-cr-v-reclldue-to-fuel-pump-problems/)
     
     2 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [9 mins ago
+* [24 mins ago
     
-    ### New Fido standard for passkeys will make it easier to change services](https://digitpatrox.com/new-fido-standard-for-passkeys-will-make-it-easier-to-change-services/)
-* [36 mins ago
+    ### Can you see internet search history on your WiFi bill?](https://digitpatrox.com/can-you-see-internet-search-history-on-your-wifi-bill/)
+* [46 mins ago
     
-    ### The Most Cliched Halloween Costumes to Avoid in 2024](https://digitpatrox.com/the-most-cliched-halloween-costumes-to-avoid-in-2024/)
+    ### Using campus recruitment to unlock top talent in tech](https://digitpatrox.com/using-campus-recruitment-to-unlock-top-talent-in-tech/)
 * [1 hour ago
     
-    ### Baby Bottles With No Detected BPA, Lead, or Phthalates](https://digitpatrox.com/baby-bottles-with-no-detected-bpa-lead-or-phthalates/)
+    ### Chinese cybersecurity association urges review of Intel products – Computerworld](https://digitpatrox.com/chinese-cybersecurity-association-urges-review-of-intel-products-computerworld/)
 
 Most Popular Topics
 
-* [September 6, 2024
+* [August 29, 2024
     
-    ### Elastic returns to open source, but can it regain the community’s trust? Some industry players aren’t holding their breath](https://digitpatrox.com/elastic-returns-to-open-source-but-can-it-regain-the-communitys-trust-some-industry-players-arent-holding-their-breath/)
-* [5 days ago
+    ### Ransomware gang Brain Cipher adds the Réunion des Musées Nationaux to its data leak site – 300GB of data stolen](https://digitpatrox.com/ransomware-gang-brain-cipher-adds-the-reunion-des-musees-nationaux-to-its-data-leak-site-300gb-of-data-stolen/)
+* [August 17, 2024
     
-    ### Discover How Yaber Is Partnering With Pantone Color Institute With This New Exclusive Projector K3](https://digitpatrox.com/discover-how-yaber-is-partnering-with-pantone-color-institute-with-this-new-exclusive-projector-k3/)
-* [September 3, 2024
+    ### School Bus Safety Tips for Back-to-School](https://digitpatrox.com/school-bus-safety-tips-for-back-to-school/)
+* [3 weeks ago
     
-    ### Linux version of new Cicada ransomware targets VMware ESXi servers](https://digitpatrox.com/linux-version-of-new-cicada-ransomware-targets-vmware-esxi-servers/)
+    ### Vendor Spotlight: Datadog](https://digitpatrox.com/vendor-spotlight-datadog/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### You only need 2 dumbbells and 6 moves to build full-body muscle and boost your metabolism](https://digitpatrox.com/you-only-need-2-dumbbells-and-6-moves-to-build-full-body-muscle-and-boost-your-metabolism/)
 * [3 hours ago
     
-    ### 70% of exploited flaws disclosed in 2023 were zero-days](https://digitpatrox.com/70-of-exploited-flaws-disclosed-in-2023-were-zero-days/)
+    ### Cutting cloud complexity without losing the rewards via cloud tech consulting](https://digitpatrox.com/cutting-cloud-complexity-without-losing-the-rewards-via-cloud-tech-consulting/)
 * [3 hours ago
     
-    ### Google asks 9th Circuit for emergency stay, says Epic ruling ‘is dangerous’](https://digitpatrox.com/google-asks-9th-circuit-for-emergency-stay-says-epic-ruling-is-dangerous/)
+    ### 10 Best Project Portfolio Management (PPM) Software for 2024](https://digitpatrox.com/10-best-project-portfolio-management-ppm-software-for-2024/)
+* [3 hours ago
+    
+    ### iPad mini 7 uses the same chip as the iPhone 15 Pro — but with one key downgrade](https://digitpatrox.com/ipad-mini-7-uses-the-same-chip-as-the-iphone-15-pro-but-with-one-key-downgrade/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
