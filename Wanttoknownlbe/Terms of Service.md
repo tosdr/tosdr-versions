@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/maarten-van-rossem-is-het-angstzaaien-zat/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/ontsporing-op-meerdere-lijnen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
