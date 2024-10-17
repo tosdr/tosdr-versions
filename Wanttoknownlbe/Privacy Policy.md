@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/geen-bewijs-dus-waarom-nog-steeds-n-griepprik/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/oorlog/vals-vlag-operatie-gifgas-op-onschuldige-mensen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
