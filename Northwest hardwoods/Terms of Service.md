@@ -2,9 +2,13 @@
 
 [Skip to content](#content)
 
-[![](https://nwh.com/wp-content/uploads/2022/07/TheAlderAuthorityTopBar-300x23.png)](https://www.nwh.com/alder-authority)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2023'%3E%3C/svg%3E)
 
-[![](https://nwh.com/wp-content/uploads/2022/07/logo-1.svg)](https://nwh.com/)
+![](https://nwh.com/wp-content/uploads/2022/07/TheAlderAuthorityTopBar-300x23.png)](https://www.nwh.com/alder-authority)
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20152%2061'%3E%3C/svg%3E)
+
+![](https://nwh.com/wp-content/uploads/2022/07/logo-1.svg)](https://nwh.com/)
 
 Menu
 
@@ -186,7 +190,9 @@ Governing Law & Jurisdiction
 
 These Terms will be governed by and interpreted in accordance with the laws of the State of us, and you submit to the non-exclusive jurisdiction of the state and federal courts located in us for the resolution of any disputes.
 
-[![](https://nwh.com/wp-content/uploads/2022/07/logo-1.svg)](https://nwh.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20152%2061'%3E%3C/svg%3E)
+
+![](https://nwh.com/wp-content/uploads/2022/07/logo-1.svg)](https://nwh.com/)
 
 * [History](https://nwh.com/company/history/)
 * [Company](https://nwh.com/company/)
