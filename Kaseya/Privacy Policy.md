@@ -338,7 +338,9 @@ Kaseya 365 - Everything needed to manage and secure your endpoints.
     
     Blog
     
-    [Top Compliance Standards and the Differences Between Them: SOC 2, ISO 27001, NIST and PCI DSS
+    [![](https://www.kaseya.com/wp-content/uploads/2024/10/top-compliance-standards-soc2-pci-iso-nist-thumb-600x400.jpg)
+    
+    Top Compliance Standards and the Differences Between Them: SOC 2, ISO 27001, NIST and PCI DSS
     
     October 10
     
@@ -356,11 +358,11 @@ Kaseya 365 - Everything needed to manage and secure your endpoints.
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/10/K365-Webinar-Fall-into-IT-Productivity-1200x800-px-1-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/09/KAS_Webinar-VSA-Q4-Pro-300x200.jpg)
     
-    Fall Into IT Productivity: Improve Efficiency & Avoid Burnout With Kaseya 365
+    VSA Quarterly Product Innovation Update
     
-    October 16
+    October 22 - 23
     
     [View All Events](https://www.kaseya.com/events/)
     
