@@ -72,11 +72,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![Picture of hands tying a pink shoe. Text reads "left-right confusion and functional tasks"](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![picture of a stress meter with arrow pointing to red. Words read "stress and dysregulation. Therapy tools, information, resources".](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![Picture of hands tying a pink shoe. Text reads "left-right confusion and functional tasks"](https://www.theottoolbox.com/wp-content/uploads/2021/05/left-right-confusion-in-shoe-tying.png)](https://www.theottoolbox.com/left-right-discrimination-slide-deck/)
+                ![picture of a stress meter with arrow pointing to red. Words read "stress and dysregulation. Therapy tools, information, resources".](https://www.theottoolbox.com/wp-content/uploads/2022/10/stress-response-.png)](https://www.theottoolbox.com/understanding-sensory-dysregulation/)
                 
-                #### [Left Right Discrimination](https://www.theottoolbox.com/left-right-discrimination-slide-deck/)
+                #### [Understanding Sensory Dysregulation](https://www.theottoolbox.com/understanding-sensory-dysregulation/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
