@@ -227,6 +227,34 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Oct 17, 2024
+
+> Mel is friendly and patient
+
+> I would usually book my trips myself. Lucky for me I sent off an enquiry to Safari.com and received Mel's wonderful help. Mel responded quickly and made me feel comfortable with Safari.com. organising my trip. Later on, when I realised my dates didn't work with the rest of my trip, Mel gave me my options and costings and rebooked for me. Mel was very patient and friendly. I wouldn't hesitate to use Mel again.
+
+Kylie
+
+,
+
+au
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 16, 2024
+
+> Outstanding service
+
+> Response was very quick and helpful. Answered all questions. Laid out a trip that went beyond what I expected
+
+Stan
+
+,
+
+us
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Oct 16, 2024
 
 > Very responsive and accurate
@@ -322,34 +350,6 @@ Diana Gray
 ,
 
 US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 8, 2024
-
-> Great service
-
-> Great service. Shann was incredibly helpful and responsive in setting up our trip.
-
-Mark D.
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 8, 2024
-
-> Excellent and responsive
-
-> We have not travelled yet but so far our experience with Anya has been excellent and so responsive. We have booked for a 2025 trip
-
-Bobbie
-
-,
-
-GB
 
 VIP service
 
