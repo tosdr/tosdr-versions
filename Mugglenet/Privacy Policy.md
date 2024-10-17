@@ -310,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Minerva McGonagall’s mother kept her own magical heritage a secret from her Muggle husband for years, which made her life very sad and difficult.
+Originally, the Weasleys’ cousin who was a Squib was going to have a child who would be a first year during “Goblet of Fire”. The child, Mafalda, was cut and her role was given to Rita Skeeter.
 
 ### Potter History
 
-December 15, 2004 – Producer David Heyman says Harry Potter and the Goblet of Fire filming is 75% complete.
+October 28, 2005 – The Weasleys’ Ford Anglia, used in Chamber of Secrets, was stolen.
 
 ### Potter Quote
 
-“You’ve gone middle head!”
+“You actually are joking, Perce. . . . I don’t think I’ve heard you joke since you were —”
 
 [](#)
 
