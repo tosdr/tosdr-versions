@@ -289,6 +289,10 @@ Definitions and legal references
 Latest news
 -----------
 
+[![How Google Killing Ad-Blocking](/wp-content/uploads/2021/02/D9B0RFbXkAA3Hkh.jpg)
+
+### How Google Killing Ad-Blocking](https://adlock.com/blog/chrome-killing-adblock/)
+
 [![How to Remove Lock Screen Ads on Android](/wp-content/uploads/2023/12/android-lock-screen.png)
 
 ### How to Remove Lock Screen Ads on Android](https://adlock.com/blog/how-to-remove-ads-from-lock-screen/)
@@ -308,10 +312,6 @@ Latest news
 [![How to Get Rid of Ads on USA Today in a Snap](/wp-content/uploads/2024/08/Usa-Today.png)
 
 ### How to Get Rid of Ads on USA Today in a Snap](https://adlock.com/blog/remove-ads-on-usa-today/)
-
-[![How to Block Annoying Ads on Wall Street Journal](/wp-content/uploads/2024/08/Wall-street.png)
-
-### How to Block Annoying Ads on Wall Street Journal](https://adlock.com/blog/remove-ads-on-wall-street-journal/)
 
 [For Android](https://adlock.com/adlock-for-android/)[For Windows](https://adlock.com/adlock-for-windows/)[For Chrome](https://adlock.com/adlock-for-chrome/)[For Safari](https://adlock.com/adlock-for-safari/)[For macOS](https://adlock.com/adlock-for-macos/)[For iOS](https://adlock.com/adblocker-for-iphone-ios/)[For YouTube](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)[For Twitch](https://adlock.com/blog/how-to-block-twitch-ads/)
 
