@@ -190,15 +190,6 @@
 
 Subscribe
 
-[#### Weight Management](https://www.healthline.com/weight-management)
-
-* [Nutrition](https://www.healthline.com/weight-management/nutrition)
-* [Fitness](https://www.healthline.com/weight-management/fitness)
-* [Mental Well-Being](https://www.healthline.com/weight-management/well-being)
-* [Healthy Habits](https://www.healthline.com/weight-management/healthy-habits)
-* [Treatment](https://www.healthline.com/weight-management/treatment-medication)
-* [Apps](https://www.healthline.com/weight-management/apps-products)
-
 Privacy Policy
 ==============
 
