@@ -463,7 +463,7 @@ Try Beacon for free today.
 
 **Support**
 
-[Support](#contact)[Guide](https://guide.beaconcrm.org/)[Lighthouse](https://lighthouse.beaconcrm.org/)[Events](https://www.beaconcrm.org/events)[Platform Status](https://status.beaconcrm.org/)[Become a partner](https://beacon.beaconforms.com/form/60d57099)
+[Support](#contact)[Guide](https://guide.beaconcrm.org/)[Lighthouse](https://lighthouse.beaconcrm.org/)[Events](https://www.beaconcrm.org/events)[Platform Status](https://status.beaconcrm.org/)[Our partner network](https://partners.beaconcrm.org/)[Become a partner](https://beacon.beaconforms.com/form/60d57099)
 
 **Trust**
 
