@@ -80,6 +80,12 @@ Image via Hillsborough County Sheriff's Office
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-1170136379-220x180.jpg)](https://americanwirenews.com/arnold-ventures-under-fire-for-weakening-ip-and-patents/)
+
+[Arnold Ventures under fire for weakening IP and patents](https://americanwirenews.com/arnold-ventures-under-fire-for-weakening-ip-and-patents/)
+
+Getty
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-behar-fascist-220x180.jpg)](https://americanwirenews.com/joy-behars-unabashed-trump-fearmongering-he-wants-to-send-the-military-to-attack-liberals/)
 
 [Joy Behar’s unabashed Trump fearmongering: ‘He wants to send the military to attack liberals’](https://americanwirenews.com/joy-behars-unabashed-trump-fearmongering-he-wants-to-send-the-military-to-attack-liberals/)
@@ -177,10 +183,6 @@ Photo by Theo Wargo/Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumpbloomberg1-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-spanks-haughty-snob-bloomberg-editor-youve-been-wrong-all-your-life/)
 
 [Trump spanks haughty snob Bloomberg editor: ‘You’ve been wrong all your life’](https://americanwirenews.com/trump-spanks-haughty-snob-bloomberg-editor-youve-been-wrong-all-your-life/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-david-plouffe-220x180.jpg)](https://americanwirenews.com/top-harris-adviser-dismisses-horsest-polls-claims-theres-no-gop-army-of-incels-showing-in-early-voting/)
-
-[Top Harris adviser dismisses ‘horses\*\*t’ polls, claims there’s no GOP ‘army’ of ‘incels’ showing in early voting](https://americanwirenews.com/top-harris-adviser-dismisses-horsest-polls-claims-theres-no-gop-army-of-incels-showing-in-early-voting/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
