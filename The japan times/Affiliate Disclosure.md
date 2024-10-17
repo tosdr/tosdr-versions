@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 17, 2024](https://www.japantimes.co.jp/archive/2024/10/17/ "archive page")
+[October 18, 2024](https://www.japantimes.co.jp/archive/2024/10/18/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428063.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/hawaii-prison-murder/ "First Japanese national extradited to U.S. killed by Hawaii cellmate")
 
+[JICA staffer suspected of leaking info on Philippines railway project](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
+
+  [![The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428055.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
+
 [Ishiba's goal of revising U.S. troops pact likely long-term project](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
 
   [![Prime Minister Shigeru Ishiba would face a number of obstacles to updating the Status of Forces Agreement — something that hasn’t occurred since its promulgation in 1960.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428041.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba would face a number of obstacles to updating the Status of Forces Agreement — something that hasn’t occurred since its promulgation in 1960.")](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
 
-[Gone in 3 minutes: Yakuza member held over Osaka luxury watch heist](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/yakuza-watch-theft/ "Gone in 3 minutes: Yakuza member held over Osaka luxury watch heist")
+[Bandai Namco cuts jobs and culls titles as game sector woes deepen](https://www.japantimes.co.jp/business/2024/10/16/companies/bandai-namco-cuts-jobs/ "Bandai Namco cuts jobs and culls titles as game sector woes deepen")
 
-  [![Osaka police have arrested two people, including a yakuza member, on suspicion of stealing a light truck loaded with about 200 items that included luxury watches on a street in Osaka’s Chuo Ward in May.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428010.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Osaka police have arrested two people, including a yakuza member, on suspicion of stealing a light truck loaded with about 200 items that included luxury watches on a street in Osaka’s Chuo Ward in May.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/yakuza-watch-theft/ "Gone in 3 minutes: Yakuza member held over Osaka luxury watch heist")
+  [![Attendees play an online game on computers in the Bandai Namco Entertainment booth at the Tokyo Game Show in Chiba in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428048.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees play an online game on computers in the Bandai Namco Entertainment booth at the Tokyo Game Show in Chiba in September.")](https://www.japantimes.co.jp/business/2024/10/16/companies/bandai-namco-cuts-jobs/ "Bandai Namco cuts jobs and culls titles as game sector woes deepen")
 
 [Foreign wrestlers add international flair to All Japan Women’s Sumo Championships](https://www.japantimes.co.jp/sports/2024/10/16/sumo/womens-sumo-championships-international-flavor/ "Foreign wrestlers add international flair to All Japan Women’s Sumo Championships")
 
   [![Australian Giselle Shaw, 18, competes at the All-Japan Women's Sumo Championships in Uji, Kyoto Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428127.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Australian Giselle Shaw, 18, competes at the All-Japan Women's Sumo Championships in Uji, Kyoto Prefecture, on Sunday.")](https://www.japantimes.co.jp/sports/2024/10/16/sumo/womens-sumo-championships-international-flavor/ "Foreign wrestlers add international flair to All Japan Women’s Sumo Championships")
-
-[Election to test Ishiba's ability to build a strong political base](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
-
-  [![A board for election posters in Tokyo's Chuo Ward on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A board for election posters in Tokyo's Chuo Ward on Monday")](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
 
 Editors' Picks
 --------------
@@ -164,17 +164,27 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[JICA staffer suspected of leaking info on Philippines railway project](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
+
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428055.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Japan International Cooperation Agency is responsible for most of Japan's overseas aid known as official development assistance.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Ishiba's goal of revising U.S. troops pact likely long-term project](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
 
 By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
   [![Prime Minister Shigeru Ishiba would face a number of obstacles to updating the Status of Forces Agreement — something that hasn’t occurred since its promulgation in 1960.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428041.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba would face a number of obstacles to updating the Status of Forces Agreement — something that hasn’t occurred since its promulgation in 1960.")](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Gone in 3 minutes: Yakuza member held over Osaka luxury watch heist](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/yakuza-watch-theft/ "Gone in 3 minutes: Yakuza member held over Osaka luxury watch heist")
+[Bandai Namco cuts jobs and culls titles as game sector woes deepen](https://www.japantimes.co.jp/business/2024/10/16/companies/bandai-namco-cuts-jobs/ "Bandai Namco cuts jobs and culls titles as game sector woes deepen")
 
-  [![Osaka police have arrested two people, including a yakuza member, on suspicion of stealing a light truck loaded with about 200 items that included luxury watches on a street in Osaka’s Chuo Ward in May.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428010.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Osaka police have arrested two people, including a yakuza member, on suspicion of stealing a light truck loaded with about 200 items that included luxury watches on a street in Osaka’s Chuo Ward in May.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/yakuza-watch-theft/ "Gone in 3 minutes: Yakuza member held over Osaka luxury watch heist")
+By [Takashi Mochizuki](https://www.japantimes.co.jp/author/456/takashi-mochizuki/ "Takashi Mochizuki")  
+
+  [![Attendees play an online game on computers in the Bandai Namco Entertainment booth at the Tokyo Game Show in Chiba in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428048.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees play an online game on computers in the Bandai Namco Entertainment booth at the Tokyo Game Show in Chiba in September.")](https://www.japantimes.co.jp/business/2024/10/16/companies/bandai-namco-cuts-jobs/ "Bandai Namco cuts jobs and culls titles as game sector woes deepen")
 
 [SUMO](https://www.japantimes.co.jp/sports/sumo/ "SUMO")
 
@@ -183,14 +193,6 @@ By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse
 By [John Gunning](https://www.japantimes.co.jp/author/286/john-gunning/ "John Gunning")  
 
   [![Australian Giselle Shaw, 18, competes at the All-Japan Women's Sumo Championships in Uji, Kyoto Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428127.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Australian Giselle Shaw, 18, competes at the All-Japan Women's Sumo Championships in Uji, Kyoto Prefecture, on Sunday.")](https://www.japantimes.co.jp/sports/2024/10/16/sumo/womens-sumo-championships-international-flavor/ "Foreign wrestlers add international flair to All Japan Women’s Sumo Championships")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Election to test Ishiba's ability to build a strong political base](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
-
-By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
-
-  [![A board for election posters in Tokyo's Chuo Ward on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A board for election posters in Tokyo's Chuo Ward on Monday")](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
 
 Podcast
 -------
@@ -211,9 +213,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Wise becomes first foreign firm to gain direct access to Japan's payment clearing network](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
+
+4 hours ago
+
+[Two unexploded bombs found near airport in Okinawa](https://www.japantimes.co.jp/news/2024/10/17/japan/unexploded-bombs-southern-japan-airport/ "Two unexploded bombs found near airport in Okinawa")
+
+4 hours ago
+
 [Ishiba Cabinet logs lowest initial support since 2000: Jiji poll](https://www.japantimes.co.jp/news/2024/10/17/japan/politics/ishiba-cabinet-lowest-public-support/ "Ishiba Cabinet logs lowest initial support since 2000: Jiji poll")
 
-4 mins ago
+6 hours ago
 
 [Robberies in Kanto region may be linked to 'dark' part-time jobs](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/kanto-region-robberies-yamibaito/ "Robberies in Kanto region may be linked to 'dark' part-time jobs")
 
-43 mins ago
+7 hours ago
 
 [Japan Post Insurance markets chief sees Nikkei setting new records after votes](https://www.japantimes.co.jp/business/2024/10/17/markets/japan-insurer-nikkei-share-prediction/ "Japan Post Insurance markets chief sees Nikkei setting new records after votes")
 
-56 mins ago
-
-[Tourism has rebounded worldwide but not in Hong Kong.](https://www.japantimes.co.jp/business/2024/10/17/tourism-worldwide-hong-kong/ "Tourism has rebounded worldwide but not in Hong Kong.")
-
-1 hours ago
-
-[Tokyo court upholds dual nationality ban, rejecting teen's citizenship case](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
-
-1 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
