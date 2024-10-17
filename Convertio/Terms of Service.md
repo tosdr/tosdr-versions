@@ -3,7 +3,7 @@
 * [Compress Video](https://clideo.com/compress-video)
 * [Video Editor](https://clideo.com/video-editor)
 * [GIF Editor](https://clideo.com/gif-editor)
-* [Split Video](https://clideo.com/split-video)
+* [Video Translator](https://clideo.com/video-translator)
 * [More](#)
     
 
@@ -286,7 +286,7 @@ Visit our [Help Center](https://support.convertio.co/)
 
 ###### Converted Files:
 
-3,006,003,937 54,947 TB
+3,008,019,122 54,979 TB
 
 * [About](https://convertio.co/about/)
 * [Security](https://convertio.co/security/)
