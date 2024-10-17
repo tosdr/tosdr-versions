@@ -72,9 +72,6 @@ When you use any page on this site except the home page, you accept the followin
 
 By looking at or using the website, you agree that you have read and understand these policies and that you will follow all laws and regulations that apply to using this site. You also promise that the information you provide is accurate and complete. You authorize us (Central Source LLC) to send your information to whichever nationwide credit reporting companies you want a credit report from. We may change or update these policies at any time. Please check this page each time you visit this website for the most current policies.
 
-* [Previous(disabled)](https://www.annualcreditreport.com/privacy.action)
-* Next
-
 * [About this site](https://www.annualcreditreport.com/aboutThisSite.action)
 * [Accessibility](https://www.annualcreditreport.com/accessibility.action)
 * [Privacy](https://www.annualcreditreport.com/privacy.action)
