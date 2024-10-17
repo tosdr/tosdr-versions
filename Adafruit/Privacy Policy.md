@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ In considering any new subject, there is frequently a tendency, first, to overrate what we find to be already interesting or remarkable; and, secondly, by a sort of natural reaction, to undervalue the true state of the case, when we do discover that our notions have surpassed those that were really tenable”
+“ Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road”
 
-[Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace)
+[Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand)
 
 [](https://www.adafruit.com/about)
 
