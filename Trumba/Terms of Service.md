@@ -14,7 +14,7 @@ Ask us about ✔ room reservations [Contact Sales](https://www.trumba.com/connec
 * [Customers](https://www.trumba.com/connect/onlinecalendars/customers.aspx)
 * [Resources](https://www.trumba.com/connect/webcalendars/spud_gallery.aspx)
 
-[Free Trial](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9eQQik3OjsNs9ZQ-XIcMq4U!X)
+[Free Trial](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9YUlmVm*4A5JVmcmchGlhDI!X)
 
 [Sign In](https://www.trumba.com/t2)
 
@@ -221,7 +221,7 @@ Seattle, WA 98107
 
 30-day free trial. No credit card required.
 
-[Get Started Now](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9eQQik3OjsNs9ZQ-XIcMq4U!X)
+[Get Started Now](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9YUlmVm*4A5JVmcmchGlhDI!X)
 
 #### Connect with us.
 
@@ -241,9 +241,9 @@ Seattle, WA 98107
 #### Pricing
 
 * [Overview](https://www.trumba.com/connect/eventcalendar/pricing.aspx)
-* [30-day Free Trial](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9eQQik3OjsNs9ZQ-XIcMq4U!X)
+* [30-day Free Trial](https://www.trumba.com/t.aspx?e=CgDYD3AooH8puUBOBPGB0MsUdkkE6HCUs0IDNk6hepig9YUlmVm*4A5JVmcmchGlhDI!X)
 * [Contact Sales](https://www.trumba.com/connect/eventcalendar/contact_sales.aspx)
-* [Purchase](https://www.trumba.com/t.aspx?e=CgDoSA7qdkJUajYRRESZn5TFJtgVmXedsTTfM62bGe*Rn0*iS5I0Kh56lwGDW*uFob0!X)
+* [Purchase](https://www.trumba.com/t.aspx?e=CgDoSA7qdkJUajYRRESZn5TFJtgVmXedsTTfM62bGe*RnyYyFloy6dLD7Hd*le-La38!X)
 
 #### Resources
 
@@ -282,6 +282,8 @@ Seattle, WA 98107
 
 [![Instagram](../images/template/icon_instagram.svg)](https://www.instagram.com/trumbacorporation)
 
-  [![Incommon Participant](../images/template/logo_incommon.png)](http://www.incommon.org/)[![Accessibility](https://www.trumba.com/connect/images/accessibility.png)](https://www.trumba.com/help/accessibility.aspx)
+  [![Incommon Participant](../images/template/logo_incommon.png)](http://www.incommon.org/)[![Accessibility](https://www.trumba.com/connect/images/accessibility.png)](https://www.trumba.com/help/accessibility.aspx)[![](https://brand-assets.capterra.com/badge/c8b3e266-504f-42dc-9339-c32a0487c899.svg)](https://www.capterra.com/p/36208/Trumba-Connect/reviews/)
+
+[Trumba Reviews](https://sourceforge.net/software/product/Trumba/)
 
 ©2004-2024 Trumba Corporation. All rights reserved. Trumba is a registered trademark of Trumba Corporation.
