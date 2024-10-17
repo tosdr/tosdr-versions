@@ -68,7 +68,7 @@ All Policies
 ### Contact Support
 
 * [Mail hi@kinopio.club](mailto:hi@kinopio.club)
-* [Support Forum](https://club.kinopio.club/)
+* [Support Forum](https://forum.kinopio.club/)
 * [Discord](https://discord.gg/h2sR45Nby8)
 
 ### Spread the word
