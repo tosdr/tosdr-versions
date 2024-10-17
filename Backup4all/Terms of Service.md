@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to use the compression](https://www.backup4all.com/how-to-use-the-compression-kb.html)  
+* [How to backup your data to OneDrive](https://www.backup4all.com/how-to-backup-your-data-to-onedrive-kb.html)  
     
-* [How to back up data files from HGST using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-hgst-using-backup4all-kb.html)  
+* [How to back up data files from OneDrive using ...](https://www.backup4all.com/how-to-back-up-data-files-from-onedrive-using-backup4all-kb.html)  
     
-* [How to backup on two external drives using th ...](https://www.backup4all.com/how-to-backup-on-two-external-drives-using-the-daily-rotation-scheme-kb.html)  
+* [How to restore a backup from Backblaze](https://www.backup4all.com/how-to-restore-a-backup-from-backblaze-kb.html)  
     
-* [How to back up data files from SFTP using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-sftp-using-backup4all-kb.html)  
+* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
     
-* [How “Smart file scanning mode” works in B ...](https://www.backup4all.com/how-smart-file-scanning-mode-works-in-backup4all-kb.html)  
+* [Restore demo](https://www.backup4all.com/restore-demo-kb.html)  
     
 
 Choose language:
