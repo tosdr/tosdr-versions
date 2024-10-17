@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=1010709999020775&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-1-prd-us-central1-188204308506)                             
+![null](https://www.facebook.com/tr?id=1010709999020775&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-1-prd-us-central1-188215995919)                             
 
 [Toggle Menu](#)
 
@@ -48,14 +48,15 @@ close
     * [Americana™ Puzzles](https://buffalogames.com/americana/)
     * [Dog Days™ Puzzles](https://buffalogames.com/by-series/dog-days/)
     * [Art of Play™ Puzzles](https://buffalogames.com/art-of-play/)
+    * [Wooden Puzzles](https://buffalogames.com/jigsaw-puzzles/series/wooden-puzzles/)
     * [Star Wars™ Puzzles](https://buffalogames.com/star-wars/)
+    * [Buffalo Gold™ Puzzles](https://buffalogames.com/jigsaw-puzzles/series/buffalo-gold-puzzles/)
     * [Little Buffalo™](https://buffalogames.com/jigsaw-puzzles/series/little-buffalo/)
     * [Marvel™ Puzzles](https://buffalogames.com/marvel/)
     * [Pokémon™ Puzzles](https://buffalogames.com/pokemon/)
     * [Cats™ Puzzles](https://buffalogames.com/cats/)
     * [Amazing Nature™ Puzzles](https://buffalogames.com/amazing-nature/)
     * [blanc™ Puzzles](https://buffalogames.com/blanc/)
-    * [Buffalo Gold™ Puzzles](https://buffalogames.com/jigsaw-puzzles/series/buffalo-gold-puzzles/)
     * [Cities In Color™ Puzzles](https://buffalogames.com/cities-in-color/)
     * [Color Explosion™ Puzzles](https://buffalogames.com/color-explosion/)
     * [Earthpix™ Puzzles](https://buffalogames.com/earthpix/)
