@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Grassland Biodiversity Loss: Nitrogen and CO2](https://www.sciencedaily.com/releases/2024/10/241016115849.htm)
+* [Treatment for Deadly Skin Reaction](https://www.sciencedaily.com/releases/2024/10/241016115626.htm)
+* [Forever Chemicals in Bottled and Tap Water](https://www.sciencedaily.com/releases/2024/10/241017112517.htm)
+* [It's Twins! Mystery of Famed Brown Dwarf Solved](https://www.sciencedaily.com/releases/2024/10/241016115852.htm)
+* [Origin of Most Meteorites Finally Revealed](https://www.sciencedaily.com/releases/2024/10/241016115629.htm)
+* [One in Three Plants Call Islands Home](https://www.sciencedaily.com/releases/2024/10/241016115623.htm)
+* [Childhood Fitness Protects Mental Health](https://www.sciencedaily.com/releases/2024/10/241015141618.htm)
+* [Several Clocks in One Quantum Timekeeper](https://www.sciencedaily.com/releases/2024/10/241009121304.htm)
+* [Robot Swims Autonomously in Viscous Liquids](https://www.sciencedaily.com/releases/2024/10/241008150249.htm)
 * [Human Skin Map Gives 'Recipe' to Build Skin](https://www.sciencedaily.com/releases/2024/10/241016115854.htm)
-* [Monarch Butterfly: Endangered Migration](https://www.sciencedaily.com/releases/2024/10/241016120135.htm)
-* [Men, Women Process Pain Differently: Study](https://www.sciencedaily.com/releases/2024/10/241016120023.htm)
-* [Hacking Bacteria to Attack Cancer](https://www.sciencedaily.com/releases/2024/10/241016115915.htm)
-* [Planets Sending Radio Signals to Each Other?](https://www.sciencedaily.com/releases/2024/10/241016115910.htm)
-* [Sun: Maximum Phase in 11-Year Solar Cycle](https://www.sciencedaily.com/releases/2024/10/241015183526.htm)
-* [Toward Fully 3D-Printed Active Electronics](https://www.sciencedaily.com/releases/2024/10/241015141022.htm)
-* [Liftoff! NASA's Europa Clipper](https://www.sciencedaily.com/releases/2024/10/241014145904.htm)
-* [Mysterious Heating of the Sun's Atmosphere](https://www.sciencedaily.com/releases/2024/10/241011141015.htm)
-* [Evolution in Real Time](https://www.sciencedaily.com/releases/2024/10/241011140950.htm)
 
 Trending Topics
 ---------------
@@ -238,17 +238,17 @@ this week
 
 [Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
-
 [Space Missions](https://www.sciencedaily.com/news/space_time/space_missions/)
+
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
+[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
+
+[Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
 
 [Mating and Breeding](https://www.sciencedaily.com/news/plants_animals/mating_and_breeding/)
-
-[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
 
   
 
