@@ -280,11 +280,11 @@ For additional information about EINSTEIN capabilities, please see the EINSTEIN 
 Vulnerability Disclosure Policy (VDP)
 -------------------------------------
 
-The Department is committed to ensuring the security of the American public by safeguarding their digital information. The [Vulnerability Disclosure Policy (VDP)](https://www.justice.gov/node/190476) provides guidelines for the cybersecurity research community and members of the general public (hereafter referred to as researchers) on conducting good faith vulnerability discovery activities directed at public facing DOJ websites and services.  The VDP also instructs researchers on how to submit discovered vulnerabilities to the DOJ’s Office of the Chief Information Officer (OCIO), within the Justice Management Division.
+The Department is committed to ensuring the security of the American public by safeguarding their digital information. The [Vulnerability Disclosure Policy (VDP)](https://www.justice.gov/jmd/vulnerability-disclosure-policy) provides guidelines for the cybersecurity research community and members of the general public (hereafter referred to as researchers) on conducting good faith vulnerability discovery activities directed at public facing DOJ websites and services.  The VDP also instructs researchers on how to submit discovered vulnerabilities to the DOJ’s Office of the Chief Information Officer (OCIO), within the Justice Management Division.
 
 Public Key Encryption information will be posted in this location soon.
 
-For more information, see our [Vulnerability Disclosure Policy](https://www.justice.gov/node/190476).
+For more information, see our [Vulnerability Disclosure Policy](https://www.justice.gov/jmd/vulnerability-disclosure-policy).
 
 Updated June 3, 2024
 
