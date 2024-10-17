@@ -555,17 +555,17 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
-    October 16, 2024
+    October 17, 2024
     
-    [Treasury Targets Hizballah Finance Network and Syrian Captagon Trafficking](https://home.treasury.gov/news/press-releases/jy2648)
+    [U.S. Department of the Treasury Reaches Major Milestone, Approving Over $500 Million to Support Small Businesses in Tribal Nations](https://home.treasury.gov/news/press-releases/jy2653)
     
-    October 15, 2024
+    October 17, 2024
     
-    [United States and Canada Target Key International Fundraiser for Foreign Terrorist Organization PFLP](https://home.treasury.gov/news/press-releases/jy2646)
+    [Treasury Targets Actors Involved in Drone Production for Russia’s War Against Ukraine](https://home.treasury.gov/news/press-releases/jy2651)
     
-    October 11, 2024
+    October 17, 2024
     
-    [Treasury Expands Targeted Sanctions on Iranian Petroleum and Petrochemical Sectors in Response to Attack on Israel](https://home.treasury.gov/news/press-releases/jy2644)
+    [Treasury Sanctions Network for Shipping Oil on Behalf of Iran-Backed Houthi Financier](https://home.treasury.gov/news/press-releases/jy2652)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
