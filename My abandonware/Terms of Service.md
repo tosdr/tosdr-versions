@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Mouse Trap](https://www.myabandonware.com/game/mouse-trap-5a2)
+* [More After Dark: Volume 1](https://www.myabandonware.com/game/more-after-dark-volume-1-saf)
+* [Szkoła Koziołka Matołka](https://www.myabandonware.com/game/szkola-koziolka-matolka-sae)
 * [Wielki Teleturniej Smoka Wawelskiego](https://www.myabandonware.com/game/wielki-teleturniej-smoka-wawelskiego-sad)
 * [Reksio i UFO](https://www.myabandonware.com/game/reksio-i-ufo-sac)
-* [Reksio i Skarb Piratów](https://www.myabandonware.com/game/reksio-i-skarb-piratow-sab)
-* [Champion Golf](https://www.myabandonware.com/game/champion-golf-sv8)
-* [Pachinko II](https://www.myabandonware.com/game/pachinko-ii-sv7)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
