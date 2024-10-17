@@ -399,11 +399,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [\[2024\] 600+ Free Courses to Learn JavaScript, React, Node](https://www.classcentral.com/report/javascript-online-courses/)
-2. [\[2024\] 200+ edX Courses That Are Completely Free](https://www.classcentral.com/report/edx-free-online-courses/)
-3. [6 Best Linguistics Courses for 2024](https://www.classcentral.com/report/best-linguistics-courses/)
-4. [7 Best Microsoft PowerPoint Courses for 2024](https://www.classcentral.com/report/best-microsoft-powerpoint-courses/)
-5. [7 Best Microsoft Power BI Courses for 2024](https://www.classcentral.com/report/best-microsoft-power-bi-courses/)
+1. [\[2024\] 300+ Philosophy Courses You Can Take for Free](https://www.classcentral.com/report/philosophy-free-online-courses/)
+2. [From Zero to Cybersecurity Analyst: How Google’s Certificate Can Launch Your Career](https://www.classcentral.com/report/google-cybersecurity-certificate-launch-your-career/)
+3. [100 Top FutureLearn Courses of All Time](https://www.classcentral.com/report/futurelearn-top-courses/)
+4. [\[2024\] 600+ Free Courses to Learn JavaScript, React, Node](https://www.classcentral.com/report/javascript-online-courses/)
+5. [\[2024\] 200+ edX Courses That Are Completely Free](https://www.classcentral.com/report/edx-free-online-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. excel
+1. python
     
-2. psychology
+2. digital marketing
     
-3. French
+3. excel
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Computer Science
     
-    4,055 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Machine Learning
+    38,828 courses](https://www.classcentral.com/subject/cs)
+2. [Artificial Intelligence
     
-    14,590 courses](https://www.classcentral.com/subject/machine-learning)
-3. [Digital Marketing
+    12,086 courses](https://www.classcentral.com/subject/ai)
+3. [Communication Skills
     
-    5,926 courses](https://www.classcentral.com/subject/digital-marketing)
+    4,061 courses](https://www.classcentral.com/subject/communication-skills)
 
 Popular courses
 ---------------
 
-1. [Introduction to Mathematical Thinking
+1. [Learn Like a Pro: Science-Based Tools to Become Better at Anything
     
-    Stanford University](https://www.classcentral.com/course/maththink-370)
-2. [Herramientas de la Inteligencia de Negocios
+    edX](https://www.classcentral.com/course/how-to-learn-barbara-oakley-olav-schewe-learn-lik-40292)
+2. [Mathematical and Computational Methods
     
-    Galileo University](https://www.classcentral.com/course/business-intelligence-universidad-galileo-herrami-10281)
-3. [Basic Spanish 1: Getting Started
+    Georgetown University](https://www.classcentral.com/course/math-georgetown-university-mathematical-and-compu-27989)
+3. [FinTech Ethics and Risks
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/language-universitat-politecnica-de-valencia-basi-3698)
+    The University of Hong Kong](https://www.classcentral.com/course/fintech-university-of-hong-kong-fintech-ethics-an-11392)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
