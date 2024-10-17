@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_360x203.jpg)](https://www.wqad.com/article/money/business/john-deere/congressional-candidates-react-latest-john-deere-layoffs/526-8ab271b2-d0ed-4120-b8ee-d8a9af8c9e31)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/68690903-3a2e-4647-ab5a-9d44fdd6d1c6/20240719T210845/68690903-3a2e-4647-ab5a-9d44fdd6d1c6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/68690903-3a2e-4647-ab5a-9d44fdd6d1c6/20240719T210845/68690903-3a2e-4647-ab5a-9d44fdd6d1c6_360x203.jpg)](https://www.wqad.com/article/news/crime/steven-coleman-sentencing-fatal-sterling-apartment-fire-2020/526-f35a45f6-ffac-4de6-8094-7425687c1476)
         
-        #### [Congressional candidates react to latest John Deere layoffs](https://www.wqad.com/article/money/business/john-deere/congressional-candidates-react-latest-john-deere-layoffs/526-8ab271b2-d0ed-4120-b8ee-d8a9af8c9e31)
+        #### [Steven Coleman receives 3 lifetime sentences in Sterling apartment fire that killed 3 people](https://www.wqad.com/article/news/crime/steven-coleman-sentencing-fatal-sterling-apartment-fire-2020/526-f35a45f6-ffac-4de6-8094-7425687c1476) [![](https://media.tegna-media.com/assets/WQAD/images/68690903-3a2e-4647-ab5a-9d44fdd6d1c6/20240719T210845/68690903-3a2e-4647-ab5a-9d44fdd6d1c6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/68690903-3a2e-4647-ab5a-9d44fdd6d1c6/20240719T210845/68690903-3a2e-4647-ab5a-9d44fdd6d1c6_360x203.jpg)](https://www.wqad.com/article/news/crime/steven-coleman-sentencing-fatal-sterling-apartment-fire-2020/526-f35a45f6-ffac-4de6-8094-7425687c1476)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e8818ec1-7873-49f2-81e3-aa1f432d1e8d/20241017T021051/e8818ec1-7873-49f2-81e3-aa1f432d1e8d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e8818ec1-7873-49f2-81e3-aa1f432d1e8d/20241017T021051/e8818ec1-7873-49f2-81e3-aa1f432d1e8d_360x203.jpg)](https://www.wqad.com/article/news/education/mercer-county-football-coach-suspended-following-incident/526-e2049449-c969-41b6-81d1-ec2b582f56ea)
+        #### [Man found guilty in Sterling apartment fire that killed 3 people sentenced to life in prison](https://www.wqad.com/article/news/crime/steven-coleman-sentencing-fatal-sterling-apartment-fire-2020/526-f35a45f6-ffac-4de6-8094-7425687c1476) [![](https://media.tegna-media.com/assets/WQAD/images/68690903-3a2e-4647-ab5a-9d44fdd6d1c6/20240719T210845/68690903-3a2e-4647-ab5a-9d44fdd6d1c6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/68690903-3a2e-4647-ab5a-9d44fdd6d1c6/20240719T210845/68690903-3a2e-4647-ab5a-9d44fdd6d1c6_360x203.jpg)](https://www.wqad.com/article/news/crime/steven-coleman-sentencing-fatal-sterling-apartment-fire-2020/526-f35a45f6-ffac-4de6-8094-7425687c1476)
         
-        #### [Mercer County football coach suspended indefinitely](https://www.wqad.com/article/news/education/mercer-county-football-coach-suspended-following-incident/526-e2049449-c969-41b6-81d1-ec2b582f56ea)
+        #### [Judge in Morrison issues 3 life sentences in fatal 2020 Sterling apartment fire](https://www.wqad.com/article/news/crime/steven-coleman-sentencing-fatal-sterling-apartment-fire-2020/526-f35a45f6-ffac-4de6-8094-7425687c1476)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +59,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/40cd23ae-a737-4fb7-8fdc-defed1a4edea/20241016T225032/40cd23ae-a737-4fb7-8fdc-defed1a4edea_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/40cd23ae-a737-4fb7-8fdc-defed1a4edea/20241016T225032/40cd23ae-a737-4fb7-8fdc-defed1a4edea_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb/20241017T133346/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb/20241017T133346/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb_360x203.jpg)](https://www.wqad.com/article/news/nation-world/la-nia-could-soon-what-that-means-for-winter-weather-outlook-2024-2025/507-e78f5997-5997-4dfc-9120-fbaee14c5924)
         
-        #### [More warmth on the way for the rest of the week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [La Niña could soon arrive. Here's what that means for winter weather](https://www.wqad.com/article/news/nation-world/la-nia-could-soon-what-that-means-for-winter-weather-outlook-2024-2025/507-e78f5997-5997-4dfc-9120-fbaee14c5924)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_360x203.jpg)](https://www.wqad.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f/20241017T121237/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f/20241017T121237/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [October's supermoon pairs with a comet for a special nighttime spectacle](https://www.wqad.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
+        #### [Above normal temperatures return](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +89,9 @@ Navigation
 
 Davenport, IA »
 
-37°
+61°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
