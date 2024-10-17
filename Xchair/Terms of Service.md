@@ -1,6 +1,7 @@
 [Skip to content](#MainContent)
 
-### NEW X-Tech Vegan Leather Colors || [Shop Now](https://www.xchair.com/pages/xtech-limited-edition "The Limited Edition X-Tech Collection")
+15% OFF OFFICE CHAIRS >> SIGN UP NOW!
+-------------------------------------
 
 [](https://www.xchair.com/)
 
@@ -177,101 +178,131 @@ ${ cartItemCount }
 Terms of Use
 ============
 
-Terms of Use
-============
+**TERMS AND CONDITIONS**
 
-* * *
+**THIS DOCUMENT CONTAINS VERY IMPORTANT INFORMATION REGARDING YOUR RIGHTS AND OBLIGATIONS, AS WELL AS CONDITIONS, LIMITATIONS, AND EXCLUSIONS THAT MIGHT APPLY TO YOU. PLEASE READ IT CAREFULLY.**
 
-Welcome to Xchair.com. X-Chair, Inc and its affiliates (e.g., Xchair.com) provide their services to you subject to the following conditions. If you visit or shop at Xchair.com, you accept these conditions. Please read them carefully. In addition, when you use any current or future Xchair.com service or visit or purchase from any business affiliated with Xchair.com, whether or not included in the Xchair.com Web site, you also will be subject to the guidelines and conditions applicable to such service or business.
+**THESE TERMS REQUIRE THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN A JURY TRIAL OR ANY OTHER COURT PROCEEDINGS,  OR CLASS ACTIONS OF ANY KIND. THE ARBITRATION AGREEMENT IS SET FORTH IN THE “****Dispute Resolution, Arbitration, Class-Action Waiver, Jury Waiver” SECTION BELOW.**
 
-Privacy
--------
+**BY PLACING AN ORDER FOR PRODUCTS FROM THIS WEBSITE, YOU AFFIRM THAT YOU ARE OF LEGAL AGE TO ENTER INTO THIS AGREEMENT, AND YOU ACCEPT AND ARE BOUND BY THESE TERMS AND CONDITIONS. YOU AFFIRM THAT IF YOU PLACE AN ORDER ON BEHALF OF AN ORGANIZATION OR COMPANY, YOU HAVE THE LEGAL AUTHORITY TO BIND ANY SUCH ORGANIZATION OR COMPANY TO THESE TERMS AND CONDITIONS.**
 
-Please review our [Privacy Policy](https://xchair-us.myshopify.com/pages/privacy-policy "Privacy Policy") , which also governs your visit to Xchair.com, to understand our practices.
+**YOU MAY NOT ORDER OR OBTAIN PRODUCTS OR SERVICES FROM THIS WEBSITE IF YOU (A) DO NOT AGREE TO THESE TERMS AND CONDITIONS, (B) ARE NOT THE OLDER OF (i) AT LEAST 18 YEARS OF AGE OR (ii) LEGAL AGE TO FORM A BINDING CONTRACT WITH X-CHAIR, OR (C) ARE PROHIBITED FROM ACCESSING OR USING THIS WEBSITE OR ANY OF THIS WEBSITE’S CONTENTS, GOODS OR SERVICES BY APPLICABLE LAW.**
 
-Electronic Communications
--------------------------
+These Terms and Conditions (“Terms”) constitute an agreement between you (“Buyer,” “you,” or “your”) and X-Chair (“X-Chair,” “us”, “we”, or “our” and together with you, the “Parties”) concerning the purchase and sale of products (individually a “Product” and collectively the “Products”) through www.xchair.com (“Site”). Upon acceptance of an order for Products placed by you (“Order”), we agree to supply the Products specified in the Order to you, under these Terms.
 
-When you visit Xchair.com or send e-mails to us, you are communicating with us electronically. You consent to receive communications from us electronically. We will communicate with you by e-mail or by posting notices on this site. You agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
+1. **Changes**. These Terms are subject to change by X-Chair, without prior written notice at any time, in X-Chair’s sole discretion. Any changes to the Terms will be in effect as of the "Last Updated Date" referenced on the Site. You should review these Terms before purchasing any product that is available through this Site. If you do not agree with a change to the Terms, your sole remedy is to not access or use the Site. Your continued use of this Site after the "Last Updated Date" will constitute your acceptance of and agreement to such changes.
 
-Copyright
----------
+2. **Order Acceptance and Cancellation**. You agree that your Order is an offer to buy, under these Terms, all products listed in your Order. All Orders must be accepted by us, or we will not be obligated to sell the Products to you. We may choose not to accept orders at our sole discretion, even after we send you a confirmation email with your order number and details of the items you have ordered.
 
-All content included on this site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the property of Xchair.com or its content suppliers and protected by United States and international copyright laws. The compilation of all content on this site is the exclusive property of Xchair.com and protected by U.S. and international copyright laws. All software used on this site is the property of Xchair.com or its software suppliers and protected by United States and international copyright laws.
+3. **Prices and Payment Terms.**
 
-Trademarks
-----------
+a) All prices, discounts, and promotions posted on the Site are subject to change without notice. The price charged for a product will be the price in effect at the time the Order is placed and will be set out in your order confirmation email. Price increases will only apply to orders placed after such changes. Posted prices do not include taxes or charges for shipping and handling. All such taxes and charges will be added to your merchandise total and will be itemized in your shopping cart and your order confirmation email. We strive to display accurate price information; however, we may, on occasion, make inadvertent typographical errors, inaccuracies, or omissions related to pricing and availability. We reserve the right to correct any errors, inaccuracies, or omissions at any time and to cancel any orders arising from such occurrences.
 
-X-Chair, Xchair.com, ELEMAX and other marks indicated on our site are registered trademarks of X-Chair, Inc. or its subsidiaries, in the United States and other countries. Xchair.com graphics, logos, page headers, button icons, scripts, and service names are trademarks or trade dress of X-Chair, Inc. or its subsidiaries. X-Chair, Inc. trademarks and trade dress may not be used in connection with any product or service that is not X-Chair Design's, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Xchair.com. All other trademarks not owned by X-Chair or its subsidiaries that appear on this site are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by X-Chair or its subsidiaries.
+  
 
-License and Site Access
------------------------
+b) We may offer, from time to time, promotions on the Site that may affect pricing and that are governed by terms and conditions separate from these Terms. If there is a conflict between the terms for a promotion and these Terms, the promotion terms will govern.
 
-Xchair.com grants you a limited license to access and make personal use of this site and not to download (other than page caching) or modify it, or any portion of it, except with express written consent of Xchair.com. This license does not include any resale or commercial use of this site or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of this site or its contents; any downloading or copying of account information for the benefit of another merchant; or any use of data mining, robots, or similar data gathering and extraction tools. This site or any portion of this site may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without express written consent of Xchair.com. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of Xchair.com and our affiliates without express written consent. You may not use any meta tags or any other "hidden text" utilizing Xchair.com's name or trademarks without the express written consent of Xchair.com. Any unauthorized use terminates the permission or license granted by X-Chair.com. You are granted a limited, revocable, and nonexclusive right to create a hyperlink to the home page of Xchair.com so long as the link does not portray Xchair.com, its affiliates, or their products or services in a false, misleading, derogatory, or otherwise offensive matter. You may not use any Xchair.com logo or other proprietary graphic or trademark as part of the link without express written permission.
+  
 
-Your Account
-------------
+c) Terms of payment are within our sole discretion and full prepayment is required for any order unless otherwise specified by us. We reserve the right to specify the manner of payment and shall be permitted to withhold delivery of Products until payment is made by you. All payments shall be made in cash or other immediately available federal funds and shall be transferred by credit card, cash, check, money order or wire transfer. You shall pay all bank fees and other charges related to payment. Each returned check (not sufficient funds) or stopped payment is subject to a $20.00 fee.
 
-If you use this site, you are responsible for maintaining the confidentiality of your account and/or password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. Xchair.com does sell products for children, but it sells them to adults, who can purchase with a credit card. If you are under 18, you may use Xchair.com only with involvement of a parent or guardian. Xchair.com and its affiliates reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders in their sole discretion.
+Amounts designated as “N15 Payments” are due within fifteen (15) days after the invoice date. Late payments shall bear interest at 1.5% per month. You shall be liable for all costs of collection and attorney's fees. You grant a security interest to us in the Products to secure all amounts due under the Order. These Terms shall constitute a security agreement and afford us all rights of a secured party under the Uniform Commercial Code.
 
-Reviews, Comments, Communications, and Other Content
-----------------------------------------------------
+4. **Shipments; Delivery; Title and Risk of Loss**.
 
-Visitors may post reviews, comments, and other content; send email via the Bag Builder and other communications; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or otherwise injurious to third parties or objectionable and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of "spam." You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of a card or other content. Xchair.com reserves the right (but not the obligation) to remove or edit such content, but does not regularly review posted content.
+a) For purchases of our Products, we will arrange for shipment of the Products to you in accordance with the address and shipping method set forth in your Order. You will pay all shipping and handling charges specified during the ordering process. Shipping and handling charges are reimbursement for the costs we incur in the processing, handling, packing, shipping, and delivery of your Order. We will charge a drop shipping fee of $10 per Order (not per Product/carton) for any order shipping to an address other than the your principal address. All shipping and handling fees are non-refundable.
 
-If you do post content or submit material, and unless we indicate otherwise, you grant Xchair.com and its affiliates a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media. You grant Xchair.com and its affiliates and sublicensees the right to use the name that you submit in connection with such content, if they choose. You represent and warrant that you own or otherwise control all of the rights to the content that you post; that the content is accurate; that use of the content you supply does not violate this policy and will not cause injury to any person or entity; and that you will indemnify Xchair.com or its affiliates for all claims resulting from content you supply. Xchair.com has the right but not the obligation to monitor and edit or remove any activity or content. Xchair.com takes no responsibility and assumes no liability for any content posted by you or any third party.
+  
 
-SMS Messaging
--------------
+b) Title and risk of loss pass to you upon our transfer of the Products purchased on our Site to the carrier.
 
-If you opt-in to our SMS messaging program, you agree to the X-Chair Messaging Terms & Conditions, which are hereby incorporated into these Terms of Use.
+  
 
-If you opt-in to service promotions, specials, and other marketing offers (i.e., cart reminders), you will receive text messages from X-Chair through your wireless provider to the mobile number you provided.  If you opt-in to transactional messages, you will receive updates, alerts, and information (e.g., order updates, account alerts, etc.) from X-Chair via text messages through your wireless provider to the mobile number you provided.
+c) Shipping and delivery dates are estimates only and cannot be guaranteed. We are not liable for any delays in shipments. If the Products cannot be shipped or delivered as set forth in your Order, you shall have the option to terminate your Order with respect to any of the Products. Any Product that is placed on backorder will be shipped promptly when available, unless cancelled in writing by you prior to shipment.
 
-Message and data rates may apply. Carriers are not liable for delayed or undelivered messages. Reply STOP to stop, HELP for help, or reach out directly at marketing@xchair.com. Message frequency will vary and frequency is based in part on your response to messages sent to you.
+5. **Returns and Refunds**. Except for any products designated on the Site as final or non-returnable, Products may only be returned within thirty (30) of purchase. To be eligible to return a product, you must obtain a Return Merchandise Authorization Number (“RMA”) from our customer service department. No returns of any type will be accepted without an RMA number. All returns are subject to our approval. Once an RMA is obtained, you must ship the Products, at your expense, to us. You bear the risk of loss during shipment. All returns must be made in original packaging and the original Products must be returned in “like-new” condition for a full or partial refund to be considered. After the Products are received by us, we will examine and inspect the Products and will make a determination on whether the Products are in “like-new” condition. If the Products are in “like-new” condition, we will accept the Products for return and will credit your account for such Products, less the original shipping and handling costs. Returned Products are subject to a 25% restocking fee. Your refund will be credited back to the same payment method used to make the original purchase on the Site.
 
-You can cancel the SMS service at any time, just reply STOP to the short code. After you send the STOP message to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If you want to join again, just sign up as you did the first time and we will start sending SMS messages to you again. 
+6. **Errors or Omissions**. All measurements on the Site and within our advertising are approximate. Errors or omissions in any quotation or other document shall be subject to correction, in our sole discretion, and we shall not be liable for any deviation in measurements listed on the Site or in our advertisements.
 
-Risk of Loss
-------------
+7. **Warranty and Disclaimers**.
 
-All items purchased from Xchair.com are made pursuant to a shipment contract. This means that the risk of loss and title for such items pass to you upon our delivery to the carrier.
+**ALL PRODUCTS AND SERVICES OFFERED ON THIS WEBSITE ARE PROVIDED “AS IS” WITHOUT ANY WARRANTY WHATSOEVER, INCLUDING, WITHOUT LIMITATION, ANY (A) WARRANTY OF MERCHANTABILITY; (B) WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE; (C) WARRANTY OF TITLE; OR (D) WARRANTY AGAINST INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OF A THIRD PARTY; WHETHER EXPRESS OR IMPLIED BY LAW, COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE OF TRADE, OR OTHERWISE.** 
 
-Product Descriptions
---------------------
+**SOME JURISDICTIONS LIMIT OR DO NOT ALLOW THE DISCLAIMER OF IMPLIED OR OTHER WARRANTIES SO THE ABOVE DISCLAIMER MAY NOT APPLY TO YOU.** 
 
-Xchair.com and its affiliates attempt to be as accurate as possible. However, XChair.com does not warrant that product descriptions or other content of this site is accurate, complete, reliable, current, or error-free. If a product offered by Xchair.com itself is not as described, your sole remedy is to return it in unused condition.
+**YOU AFFIRM THAT WE SHALL NOT BE LIABLE, UNDER ANY CIRCUMSTANCES, FOR ANY BREACH OF WARRANTY CLAIMS OR FOR ANY DAMAGES ARISING OUT OF THE MANUFACTURER’S FAILURE TO HONOR ITS WARRANTY OBLIGATIONS TO YOU.**
 
-Disclaimer of Warranties and Limitation of Liability
-----------------------------------------------------
+8. **Limitation of Liability**.
 
-THIS SITE IS PROVIDED BY XCHAIR.COM ON AN "AS IS" AND "AS AVAILABLE" BASIS. XCHAIR.COM MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS, OR PRODUCTS INCLUDED ON THIS SITE. YOU EXPRESSLY AGREE THAT YOUR USE OF THIS SITE IS AT YOUR SOLE RISK.
+**IN NO EVENT SHALL X-CHAIR, its parents, subsidiaries, affiliates, partners, agents, OR licensors and each of their respective officers, directors, shareholders OR employees BE LIABLE TO YOU OR ANY THIRD PARTY FOR CONSEQUENTIAL, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR ENHANCED DAMAGES ARISING OUT OF, OR RELATING TO, AND/OR IN CONNECTION WITH ANY BREACH OF THESE TERMS, REGARDLESS OF (A) WHETHER SUCH DAMAGES WERE FORESEEABLE, (B) WHETHER OR NOT WE WERE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND (C) THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH THE CLAIM IS BASED.**
 
-TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, XCHAIR.COM DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. XCHAIR.COM DOES NOT WARRANT THAT THIS SITE, ITS SERVERS, OR E-MAIL SENT FROM XCHAIR.COM ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. XCHAIR.COM WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THIS SITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES.
+**OUR SOLE AND ENTIRE MAXIMUM LIABILITY, FOR ANY REASON, AND YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY CAUSE WHATSOEVER, SHALL BE LIMITED TO THE ACTUAL AMOUNT PAID BY YOU FOR THE PRODUCTS AND SERVICES YOU HAVE ORDERED THROUGH OUR WEBSITE.** 
 
-CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.
+The limitation of liability set forth above shall apply to the extent permitted by law.
 
-Applicable Law
---------------
+9. **Time Limitation for Claims**. TO THE EXTENT PERMITTED BY APPLICABLE LAW, ANY CLAIMS RELATING IN ANY WAY TO THE SITE, THESE TERMS OR YOUR ORDER MUST BE COMMENCED WITHIN ONE (1) YEAR OF THE EVENTS FIRST GIVING RISE TO THE CLAIMS. IF NOT COMMENCED WITHIN THIS ONE (1) YEAR PERIOD, YOU AND X-CHAIR ARE PERMANENTLY BARRED FROM PURSUING THAT CLAIM.
 
-By visiting Xchair.com, you agree that the laws of the state of California, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and Xchair.com or its affiliates.
+10. **Indemnification**. You agree to indemnify and hold harmless X-Chair, its parents, subsidiaries, affiliates, partners, agents, and licensors and each of their respective officers, directors, shareholders and employees against and from any and all liabilities, claims, costs, damages, reasonable settlements and expenses (including without limitation reasonable attorneys' fees and court costs) to the extent arising out of or attributable to your breach of any of the provisions, representations, or warranties set forth in these Terms. We reserve the right to take over the exclusive defense of any claim for which we are entitled to indemnification under this Section. You will cooperate as fully and as reasonably required in our defense of any claim.
 
-Disputes
---------
+11. **Force Majeure**. We will not be liable or responsible to you, nor be deemed to have defaulted or breached these Terms, for any failure or delay in our performance under these Terms when and to the extent such failure or delay is caused by or results from acts or circumstances beyond our reasonable control, including, without limitation, acts of God, flood, fire, earthquake, explosion, governmental actions, war, invasion or hostilities (whether war is declared or not), terrorist threats or acts, riot or other civil unrest, national emergency, revolution, insurrection, epidemic, lockouts, strikes or other labor disputes (whether or not relating to our workforce), or restraints or delays affecting carriers or inability or delay in obtaining supplies of adequate or suitable materials, materials or telecommunication breakdown or power outage.
 
-Any dispute relating in any way to your visit to Xchair.com or to products you purchase through Xchair.com shall be submitted to confidential arbitration in Cypress, California, except that, to the extent you have in any manner violated or threatened to violate Xchair.com's intellectual property rights, Xchair.com may seek injunctive or other appropriate relief in any state or federal court in the state of California, and you consent to exclusive jurisdiction and venue in such courts. Arbitration under this agreement shall be conducted under the rules then prevailing of the American Arbitration Association. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration under this Agreement shall be joined to an arbitration involving any other party subject to this Agreement, whether through class arbitration proceedings or otherwise.
+12. **Governing Law and Jurisdiction**. These Terms and your Order shall be governed and interpreted in accordance with the laws of California, including its provisions of the Uniform Commercial Code, without reference to principles of conflict of laws. The Parties exclude the application of the Convention on International Sale of Products to the Terms and Order. Any action at law, suit in equity, or other judicial proceedings for the enforcement of these Terms or the Order, or related to any provision of these Terms or the Order, shall be instituted only in state or federal courts with venue in Orange County, California. Each Party hereby consents to personal jurisdiction and venue in Orange County, California.
 
-Site Policies, Modification, and Severability
----------------------------------------------
+13. **Dispute Resolution, Arbitration, Class-Action Waiver, Jury Waiver**.
 
-Please review our other policies, such as our privacy policy, posted on this site. These policies also govern your visit to Xchair.com. We reserve the right to make changes to our site, policies, and these Terms of Use at any time. If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.
+a) **Disputes**. The terms of this Section 13 shall apply to all Disputes between you and X-Chair. For the purposes of this Section, "Dispute" shall mean any dispute, claim, controversy or action between you and X-Chair that has arisen, arises under or relates in any way to your use of the Site, these Terms, your Order, or any other transaction or interaction, whether occurring in the past, present, or future, involving you and X-Chair, or involving anyone acting on behalf of or in concert with you and/or anyone acting on behalf of or in concert with X-Chair, whether in contract, warranty, misrepresentation, fraud, tort, intentional tort, statute, regulation, ordinance, or any other legal or equitable basis, and shall be interpreted to be given the broadest meaning allowable under law.
 
-Our Address
------------
+  
 
-X-Chair, Inc. 6415 Katella Ave,  
-Cypress, CA 90630  
-www.xchair.com
+b) **Binding Arbitration**. You and X-Chair agree: (1) all Disputes shall be resolved exclusively by final and binding individual arbitration, except as otherwise set forth in these Terms, and, except that, to the extent you have in any manner violated or threatened to violate X-Chair’s intellectual property rights, X-Chair may seek injunctive or other appropriate relief in any state or federal court in the state of California, your state of domicile now, at the time of such violation, or at the time of such an action, or any state in which you have conducted business, and you consent to jurisdiction and venue in such courts; (2) these Terms involve a transaction in interstate commerce; (3) the Federal Arbitration Act (9 U.S.C. subs 1, _et seq_.) governs the interpretation and enforcement of this Section (notwithstanding the choice-of-law provision contained herein); and (4) this Section shall survive termination of these Terms.
+
+  
+
+c) **WAIVER OF CLASS ACTIONS AND CLASS ARBITRATIONS**. EXCEPT AS PROVIDED FOR IN SECTION 13(g) BELOW, ANY DISPUTES WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE BROUGHT IN AN INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, INCLUDING WITHOUT LIMITATION FEDERAL OR STATE CLASS ACTIONS OR CLASS ARBITRATIONS. ACCORDINGLY, EXCEPT AS PROVIDED FOR IN SECTION 13(g) BELOW, AN ARBITRATOR SHALL NOT COMBINE OR CONSOLIDATE MORE THAN ONE PARTY'S CLAIMS WITHOUT THE WRITTEN CONSENT OF ALL AFFECTED PARTIES TO AN ARBITRATION PROCEEDING.  
+
+  
+
+d) **Arbitration Procedure**. An arbitration under this agreement shall be administered by the AAA and be governed by the then-current AAA Consumer Arbitration Rules ("AAA Rules"), except AAA may not administer any multiple claimant or class arbitration, as the Parties agree that the arbitration shall be limited to the resolution only of individual claims. If there is a conflict between the AAA Rules and the rules set forth in these Terms, the rules set forth in these Terms shall govern. All Disputes shall be resolved by a single neutral arbitrator, and both Parties shall have a reasonable opportunity to participate in the selection of the arbitrator. The arbitrator is bound by the terms of these Terms. The arbitrator, and not any federal, state, provincial, territorial or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of these Terms, including, but not limited to, any claim that all or any part of these Terms is void or voidable. The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity. The arbitrator's award shall be binding on the Parties and may be entered as a judgment in any court of competent jurisdiction.
+
+You may obtain more information about arbitration and how to file a Demand for Arbitration at [www.adr.org](http://www.adr.org/).
+
+  
+
+e) **Hearing Format**. Unless otherwise agreed, the arbitration shall take place in either Orange County, California, your County of residence at the time of purchase or at the time the arbitration is initiated, or virtually. In all hearing formats, the arbitrator shall issue a written decision that explains the essential findings and conclusions on which an award, if any, is based. If the Mass Filing process described in Section 13(g) is triggered, then the location of any hearing will be determined by the arbitrator.
+
+  
+
+f) **Arbitration Fees**. The fees and costs of the arbitration will be borne according to AAA's then-applicable Consumer Fee Schedule.
+
+  
+
+g) **Mass Filing**. If 25 or more claimants (including you), represented by the same counsel or counsel acting in concert with one another, seek to pursue in arbitration similar Disputes against X-Chair ("Mass Filing"), you agree to the application of the AAA Mass Arbitration Supplementary Rules and Consumer Mass Arbitration and Mediation Fee Schedule.
+
+  
+
+h) **Small Claims Court**. Notwithstanding the foregoing, you may bring an individual action in the small claims court of your state, municipality, province, or territory if the action is within that court's jurisdiction and is pending only in that court.
+
+  
+
+i) **Opt-Out**. You may elect to opt-out (exclude yourself) from the final, binding individual arbitration procedure and waiver of class and representative proceedings specified in these Terms by sending a written letter to X-Chair, LLC, Attn. Legal Department, 6415 Katella Avenue, Cypress, CA 90630 USA within thirty (30) calendar days of your Order. The letter must be signed personally by you and specify: (1) your name; (2) your mailing address; (3) and your request to be excluded from the final, binding individual arbitration procedure and waiver of class and representative proceedings specified in this Section. In the event that you opt-out consistent with the procedures set forth above, all other terms of these Terms shall continue to apply.
+
+  
+
+j) **Severability**. If any provision in this Section is found to be unenforceable, that provision shall be severed with the remainder of these Terms remaining in full force and effect. The foregoing shall not apply to the prohibition against class or representative actions; if the prohibition against class or representative actions is found to be unenforceable, this entire Section 13 shall be null and void. The foregoing shall also not apply to the Mass Filing process described in Section 13(g); all aspects of that process are part of one integrated whole, and if any part of that process is held to be invalid or unenforceable, then this entire Section 13 shall be null and void. The terms of this Section shall otherwise survive any termination of these Terms.
+
+  
+
+k) **Exclusive Venue for Other Controversies**. X-Chair and you agree that any controversy excluded from the dispute resolution procedure and class action waiver provisions in this Section (other than an individual action filed in small claims court) shall be filed only in the state or federal courts located within the Orange County, California, and each Party hereby irrevocably and unconditionally consents and submits to the exclusive jurisdiction of such courts for any such controversy.
+
+14. **Assignment**. You will not assign any of your rights or delegate any of your obligations under these Terms without our prior written consent. Any purported assignment or delegation in violation of this Section 14 is null and void. No assignment or delegation relieves you of any of your obligations under these Terms.
+
+15. **Privacy Notice**. By accessing and using the Site, you confirm you have read and understand our Privacy Policy. [Click here to view our Privacy Policy](https://www.xchair.com/pages/privacy-policy).
+
+16. **No Waivers**. The failure by us to enforce any right or provision of these Terms will not constitute a waiver of future enforcement of that right or provision. The waiver of any right or provision will be effective only if in writing and signed by a duly authorized representative of X-Chair.
+
+17. **Severability**. Unless otherwise stated, if any provision of these Terms is invalid, illegal, void, or unenforceable, then that provision will be deemed severed from these Terms and will not affect the validity or enforceability of the remaining provisions of these Terms.
+
+18. **Entire Agreement**. These Terms shall constitute the entire agreement between the Parties and shall supersede all prior and contemporaneous proposals, negotiations and counterproposals. The Parties intend for the Terms to be a final expression of their agreement and a complete and exclusive statement of the terms and conditions thereof. Prior dealings between the Parties or usage of trade (whether before or after the date of the Order) shall not be relevant to supplement or explain any term used in these Terms. Acceptance or acquiescence in a course of performance rendered under the Terms shall not be relevant to determine the meaning of the Terms even though the accepting or acquiescing Party has knowledge of the nature of the performance or usage of trade and an opportunity for objection. Nothing in the Terms shall be construed as creating any direct or beneficial right in or on behalf of any third party.
 
 * [](https://www.instagram.com/thexchair/ "X-Chair on Instagram")
 * [](https://www.linkedin.com/company/x-chair "X-Chair on LinkedIn")
