@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Robert McCulloch (right) with his business partner CV Wood (centre), in front of London Bridge after he purchased it in 1968](https://southwarknews.co.uk/wp-content/uploads/2024/10/1.-Robert-McCulloch-right-with-his-business-partner-CV-Wood-centre-360x180.jpg)](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
+    
+    ### [‘My grandad did not try to buy Tower Bridge’, American man insists](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
+    
+    [![Canada Dock boardwalk (British Land)](https://southwarknews.co.uk/wp-content/uploads/2024/10/20240913-67-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
+    
+    ### [New 170m red boardwalk at Canada Water set to open in November](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
+    
+    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
+    
+    ### [Southwark resident suffers collapsed lung after mouldy home unfixed for eight years](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
+    
     [![CGI of new Nine Elms primary school.
     Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
     
@@ -43,19 +55,6 @@
     [![Benedict O'Looney (centre right) and Andy Savage (right) at the plaque unveiling](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2833-360x180.jpeg)](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
     
     ### [Victorian winery by London Bridge gets plaque celebrating landmark restoration](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
-    
-    [![Ellie Reeves MP speaking to staff at the East Dulwich and Peckham Delivery Office. Credit: Ellie Reeves (X)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Ellie-Reeves-MP-speaking-to-staff-at-the-East-Dulwich-and-Peckham-Delivery-Office.-Credit-Ellie-Reeves-X-e1728920597509-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
-    
-    ### [Ellie Reeves latest MP to wade into East Dulwich postal fiasco but locals fear she will just be ‘fobbed off’](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
-    
-    [![Southwark Foodbank](https://southwarknews.co.uk/wp-content/uploads/2024/09/People-have-been-amazing-since-the-breakin-pic-from-SouthwarkFoodbank-360x180.jpg)](https://southwarknews.co.uk/area/london/over-300000-low-paid-londoners-have-to-resort-to-foodbanks/)
-    
-    ### [Over 300,000 low paid Londoners have to resort to foodbanks](https://southwarknews.co.uk/area/london/over-300000-low-paid-londoners-have-to-resort-to-foodbanks/)
-    
-    [![A map of the proposed Bakerloo Line extension to Lewisham. 
-    Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-360x180.jpg)](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
-    
-    ### [Plans for the Bakerloo Line extension have taken a crucial step forward](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/) 
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -101,6 +100,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Robert McCulloch (right) with his business partner CV Wood (centre), in front of London Bridge after he purchased it in 1968](https://southwarknews.co.uk/wp-content/uploads/2024/10/1.-Robert-McCulloch-right-with-his-business-partner-CV-Wood-centre-360x180.jpg)](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
+    
+    ### [‘My grandad did not try to buy Tower Bridge’, American man insists](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
+    
+    [![Canada Dock boardwalk (British Land)](https://southwarknews.co.uk/wp-content/uploads/2024/10/20240913-67-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
+    
+    ### [New 170m red boardwalk at Canada Water set to open in November](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
+    
+    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
+    
+    ### [Southwark resident suffers collapsed lung after mouldy home unfixed for eight years](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
+    
     [![CGI of new Nine Elms primary school.
     Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
     
@@ -125,19 +136,6 @@ View All Result
     [![Benedict O'Looney (centre right) and Andy Savage (right) at the plaque unveiling](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2833-360x180.jpeg)](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
     
     ### [Victorian winery by London Bridge gets plaque celebrating landmark restoration](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
-    
-    [![Ellie Reeves MP speaking to staff at the East Dulwich and Peckham Delivery Office. Credit: Ellie Reeves (X)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Ellie-Reeves-MP-speaking-to-staff-at-the-East-Dulwich-and-Peckham-Delivery-Office.-Credit-Ellie-Reeves-X-e1728920597509-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
-    
-    ### [Ellie Reeves latest MP to wade into East Dulwich postal fiasco but locals fear she will just be ‘fobbed off’](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
-    
-    [![Southwark Foodbank](https://southwarknews.co.uk/wp-content/uploads/2024/09/People-have-been-amazing-since-the-breakin-pic-from-SouthwarkFoodbank-360x180.jpg)](https://southwarknews.co.uk/area/london/over-300000-low-paid-londoners-have-to-resort-to-foodbanks/)
-    
-    ### [Over 300,000 low paid Londoners have to resort to foodbanks](https://southwarknews.co.uk/area/london/over-300000-low-paid-londoners-have-to-resort-to-foodbanks/)
-    
-    [![A map of the proposed Bakerloo Line extension to Lewisham. 
-    Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-360x180.jpg)](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
-    
-    ### [Plans for the Bakerloo Line extension have taken a crucial step forward](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/) 
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -351,17 +349,17 @@ Website
 
 [10th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
 
-[![The Den. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Den-generic-1-750x375-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
-
-### [On this day: Millwall splashed the cash on Brighton youngster](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
-
-[11th October 2024](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
-
 [![Central Cee with Debbie Monfries, owner of Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.21-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
 ### [Exclusive: Central Cee donates £15,000 to help struggling Caribbean restaurant in Herne Hill](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
 
 [15th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-central-cee-donates-15000-to-help-struggling-caribbean-restaurant-in-herne-hill/)
+
+[![The Den. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Den-generic-1-750x375-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
+
+### [On this day: Millwall splashed the cash on Brighton youngster](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
+
+[11th October 2024](https://southwarknews.co.uk/sport/football/millwall/on-this-day-millwall-splashed-the-cash-on-brighton-youngster/)
 
 [![Nursery Row Park, Walworth. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Nursery-Row-Park-Walworth.-Image-Southwark-Council-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/walworth/walworth-park-once-denounced-as-crime-hotspot-set-for-exciting-revamp/)
 
@@ -376,6 +374,24 @@ Website
 [15th October 2024](https://southwarknews.co.uk/sport/football/millwall/it-has-a-nice-little-ring-to-it-millwall-defender-pleased-with-chant/)
 
 ### Featured Articles
+
+[![Robert McCulloch (right) with his business partner CV Wood (centre), in front of London Bridge after he purchased it in 1968](https://southwarknews.co.uk/wp-content/uploads/2024/10/1.-Robert-McCulloch-right-with-his-business-partner-CV-Wood-centre-120x86.jpg)](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
+
+### [‘My grandad did not try to buy Tower Bridge’, American man insists](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
+
+[17th October 2024](https://southwarknews.co.uk/area/borough/my-grandad-did-not-try-to-buy-tower-bridge-american-man-insists/)
+
+[![Canada Dock boardwalk (British Land)](https://southwarknews.co.uk/wp-content/uploads/2024/10/20240913-67-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
+
+### [New 170m red boardwalk at Canada Water set to open in November](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
+
+[17th October 2024](https://southwarknews.co.uk/area/rotherhithe/new-170m-red-boardwalk-at-canada-water-set-to-open-in-november/)
+
+[![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
+
+### [Southwark resident suffers collapsed lung after mouldy home unfixed for eight years](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
+
+[17th October 2024](https://southwarknews.co.uk/area/southwark/southwark-resident-suffers-collapsed-lung-after-mouldy-home-unfixed-for-eight-years/)
 
 [![Walworth Post Office (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/08/Image-14-08-2024-at-15.14-120x86.jpg)](https://southwarknews.co.uk/area/walworth/new-permanent-location-found-for-walworth-post-office/)
 
@@ -394,25 +410,6 @@ Website
 ### [Southwark to use ‘Uber-style’ bidding system to repair council homes more quickly](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
 
 [16th October 2024](https://southwarknews.co.uk/area/southwark/southwark-council-to-use-uber-style-bidding-system-to-repair-council-homes/)
-
-[![Benedict O'Looney (centre right) and Andy Savage (right) at the plaque unveiling](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2833-120x86.jpeg)](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
-
-### [Victorian winery by London Bridge gets plaque celebrating landmark restoration](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
-
-[16th October 2024](https://southwarknews.co.uk/area/borough/victorian-winery-by-london-bridge-gets-plaque-celebrating-landmark-restoration/)
-
-[![Ellie Reeves MP speaking to staff at the East Dulwich and Peckham Delivery Office. Credit: Ellie Reeves (X)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Ellie-Reeves-MP-speaking-to-staff-at-the-East-Dulwich-and-Peckham-Delivery-Office.-Credit-Ellie-Reeves-X-e1728920597509-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
-
-### [Ellie Reeves latest MP to wade into East Dulwich postal fiasco but locals fear she will just be ‘fobbed off’](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
-
-[16th October 2024](https://southwarknews.co.uk/area/dulwich/ellie-reeves-latest-mp-to-wade-into-east-dulwich-postal-fiasco-but-locals-fear-she-will-just-be-fobbed-off/)
-
-[![A map of the proposed Bakerloo Line extension to Lewisham. 
-Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-120x86.jpg)](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
-
-### [Plans for the Bakerloo Line extension have taken a crucial step forward](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/) 
-
-[16th October 2024](https://southwarknews.co.uk/area/southwark/plans-for-the-bakerloo-line-extension-have-taken-a-crucial-step-forward/)
 
 ### USEFUL PAGES
 
