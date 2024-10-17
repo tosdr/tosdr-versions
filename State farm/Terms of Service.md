@@ -10,8 +10,8 @@ For California residents, click [here](https://www.statefarm.com/customer-care/p
 
 Para español, haga clic [aquí](https://es.statefarm.com/atencion-al-cliente/privacidad-seguridad/privacidad/derechos-de-privacidad-del-estado) para ver la versión completa del Aviso de Privacidad del Consumidor de California. [Read less](javascript:void(0))
 
-* [Customer Care](https://www.statefarm.com/content/StateFarmAEM/us/en/customer-care.html) 
-* [Disclosures](https://www.statefarm.com/content/StateFarmAEM/us/en/customer-care/disclosures.html) 
+* [Customer Care](https://www.statefarm.com/customer-care) 
+* [Disclosures](https://www.statefarm.com/customer-care/disclosures) 
 * Terms of Use for statefarm.com 
 
 State Farm® Terms of Use for statefarm.com®
