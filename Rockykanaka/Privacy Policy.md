@@ -1,6 +1,6 @@
                 [Skip to content](#MainContent)
 
-     
+      
 
 * Treats
     
@@ -48,7 +48,9 @@
 
  Search our site  
 
-Clear[Log in](https://rockykanaka.com/account/login) [Cart](https://rockykanaka.com/cart)
+Clear[Log in](https://rockykanaka.com/account/login) Cart
+
+[Cart](https://rockykanaka.com/cart)
 
  
 
@@ -458,6 +460,10 @@ Menu
 
 Search
 
-[Shop](https://rockykanaka.com/collections/all) [Cart](https://rockykanaka.com/cart) [Account](https://rockykanaka.com/account/login)
+[Shop](https://rockykanaka.com/collections/all)
+
+Cart
+
+[Account](https://rockykanaka.com/account/login)
 
 * Choosing a selection results in a full page refresh.
