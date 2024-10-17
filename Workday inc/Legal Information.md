@@ -1,4 +1,4 @@
-      
+   
 
 Skip to main content
 
@@ -250,9 +250,9 @@ Skip to main content
         
         * ### About Workday
             
-            * #### [Our Story & Leadership](https://www.workday.com/en-us/company/about-workday/our-story-leadership.html "Our Story & Leadership")
-                
             * #### [Our Values](https://www.workday.com/en-us/company/about-workday/core-values.html "Our Values")
+                
+            * #### [Leadership](https://www.workday.com/en-us/company/about-workday/leadership.html "Leadership")
                 
             * #### [Belonging & Diversity](https://www.workday.com/en-us/company/about-workday/belonging-and-diversity.html "Belonging & Diversity")
                 
@@ -492,7 +492,7 @@ If you believe that your copyrighted work, or the copyrighted work of someone yo
 
 Please also see Section 512(c)(3) of the DMCA for the requirements of a proper notice. If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your notice may not be effective.
 
-3.2. Your notice should be sent to us or our designated copyright agent by email to [copyright@workday.com](mailto:copyright@workday.com) or by mail to the following address:
+3.2. Your notice should be sent to us or our designated copyright agent by email to [copyright@workday.com](mailto:copyright@workday.com) or by mail to the following address:
 
 Copyright Agent  
 Workday, Inc.  
@@ -528,7 +528,7 @@ Pleasanton CA 94588 USA
 
 (f) your physical or electronic signature.
 
-4.3. Your counter notice should be sent to us or our designated copyright agent by email to [copyright@workday.com](mailto:copyright@workday.com) or by mail to the following address.
+4.3. Your counter notice should be sent to us or our designated copyright agent by email to [copyright@workday.com](mailto:copyright@workday.com) or by mail to the following address.
 
 Copyright Agent  
 Workday, Inc.  
@@ -538,9 +538,9 @@ Pleasanton CA 94588 USA
 
 4.4. If your counter notice is received by our designated copyright agent, we will send a copy of the counter-notice to the original complaining party informing that person that we will replace the content that we removed or ceased making available. Unless the original complaining party files an action seeking a court order against you within ten (10) business days of receiving the copy of your counter notice, we will restore the removed or disabled content at our discretion. If you knowingly materially misrepresent that content on the Workday Platforms was removed or disabled by mistake or misidentification, you may be held liable for damages (including costs and attorneys' fees) under Section 512(f) of the DMCA.
 
-If you have any questions about this policy, please contact us at [copyright@workday.com](mailto:copyright@workday.com). For questions related to our trademarks, please see our [Trademark Usage Guidelines](https://www.workday.com/en-us/legal/workday-trademark-usage-guidelines.html) or e-mail [trademarks@workday.com](mailto:trademarks@workday.com).
+If you have any questions about this policy, please contact us at [copyright@workday.com](mailto:copyright@workday.com). For questions related to our trademarks, please see our [Trademark Usage Guidelines](https://www.workday.com/en-us/legal/workday-trademark-usage-guidelines.html) or e-mail [trademarks@workday.com](mailto:trademarks@workday.com).
 
-(Last updated: October 18, 2022)  
+(Last updated: October 18, 2022)
 
 [](https://www.workday.com/)
 
