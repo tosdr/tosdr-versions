@@ -62,6 +62,7 @@ Check out
     
 * [COMMUNITY](https://puresportcbd.com/en-us/pages/community)
 * [BRAND STORY](https://puresportcbd.com/en-us/pages/our-story)
+* [THE HUB](https://puresportcbd.com/en-us/blogs/the-run-down)
 
 * [](https://puresportcbd.com/en-us/account/login)
 * [](https://puresportcbd.com/en-us/cart)
@@ -107,6 +108,7 @@ Check out
 
 * [COMMUNITY](https://puresportcbd.com/en-us/pages/community)
 * [BRAND STORY](https://puresportcbd.com/en-us/pages/our-story)
+* [THE HUB](https://puresportcbd.com/en-us/blogs/the-run-down)
 
 PRIVACY POLICY
 ==============
