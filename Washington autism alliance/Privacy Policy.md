@@ -2,15 +2,15 @@ Due to the high volume of calls, we're experiencing a higher-than-usual backlog.
 
 We appreciate your patience. In the meantime, please refer to our [Resource Directory](https://washingtonautismalliance.org/resources), [Special Education Legal Library](https://washingtonautismalliance.org/training-portal/special-education-resources/home/), or [Insurance Portal](https://washingtonautismalliance.org/insurance-portal-toc/) as needed on our website while you're waiting
 
-[Visit our Facebook](https://www.facebook.com/WashingtonAutismAlliance)[Visit our Twitter](https://twitter.com/Autism_Warrior)[Visit our LinkedIn](https://www.linkedin.com/company/washington-autism-alliance-and-advocacy/mycompany/)[Visit our YouTube channel](https://www.youtube.com/channel/UC-2dbVPpL82miVCPu3kr9mg)
-
 [![Gala 2023](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABRQAAADXAQAAAABD2eD4AAAAAnRSTlMAAHaTzTgAAAA5SURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH4MibwAAbrgVg0AAAAASUVORK5CYII=)
 
 ![Gala 2023](https://washingtonautismalliance.org/wp-content/uploads/2023/03/GALA_2023_Banner_1300×215.png)](https://washingtonautismalliance.org/gala)[MORE INFO](https://washingtonautismalliance.org/give)
 
 [](https://washingtonautismalliance.org/give/)
 
-[(425) 894-7231](tel:4258947231)[Contact](https://washingtonautismalliance.org/contact/) 
+[(425) 894-7231](tel:4258947231)[Contact](https://washingtonautismalliance.org/contact/)   
+
+[Visit our Facebook](https://www.facebook.com/WashingtonAutismAlliance)[Visit our Twitter](https://twitter.com/Autism_Warrior)[Visit our LinkedIn](https://www.linkedin.com/company/washington-autism-alliance-and-advocacy/mycompany/)[Visit our YouTube channel](https://www.youtube.com/channel/UC-2dbVPpL82miVCPu3kr9mg)
 
 [Login](https://washingtonautismalliance.org/login/)[REGISTER FOR SERVICES](https://washingtonautismalliance.org/register)
 
@@ -26,7 +26,7 @@ We appreciate your patience. In the meantime, please refer to our [Resource Dire
     * [Our Impact](https://washingtonautismalliance.org/our-impact/)
     * [Stories of Hope](https://washingtonautismalliance.org/stories-of-hope/)
     * [News & Events](https://washingtonautismalliance.org/news-and-events/)
-    * [Careers](https://washingtonautismalliance.org/careers/)
+    * [Careers](https://washingtonautismalliance.org/?page_id=37226)
     * [Contact Us](https://washingtonautismalliance.org/contact/)
 * [Services & Resources](https://washingtonautismalliance.org/get-help-now/)
     * [Join WAA](https://washingtonautismalliance.org/join-waa/)
@@ -54,7 +54,7 @@ We appreciate your patience. In the meantime, please refer to our [Resource Dire
     * [Our Impact](https://washingtonautismalliance.org/our-impact/)
     * [Stories of Hope](https://washingtonautismalliance.org/stories-of-hope/)
     * [News & Events](https://washingtonautismalliance.org/news-and-events/)
-    * [Careers](https://washingtonautismalliance.org/careers/)
+    * [Careers](https://washingtonautismalliance.org/?page_id=37226)
     * [Contact Us](https://washingtonautismalliance.org/contact/)
 * [Services & Resources](https://washingtonautismalliance.org/get-help-now/)
     * [Join WAA](https://washingtonautismalliance.org/join-waa/)
@@ -162,6 +162,16 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
+    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABDAQAAAABWicHTAAAAAnRSTlMAAHaTzTgAAAAUSURBVDjLY2AYBaNgFIyCUUAqAAAFPAABh2z/ogAAAABJRU5ErkJggg==)
+    
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/08/Understanding-Applied-Behavior-AnalysisABA-Medium-Banner-US-Landscape-1-150x67.jpeg)](https://washingtonautismalliance.org/events/understanding-applied-behavior-analysis-aba-in-spanish/?occurrence=2024-11-21)
+    
+    Nov 21 2024
+    
+    #### [Understanding Applied Behavior Analysis (ABA) in Spanish](https://washingtonautismalliance.org/events/understanding-applied-behavior-analysis-aba-in-spanish/?occurrence=2024-11-21)
+    
+    Zoom https://zoom.us (please download the app and check your internet connectivity)
+    
     No event found!
     
 * Blog Archives
@@ -193,7 +203,7 @@ Search for:
 * [Our Impact](https://washingtonautismalliance.org/our-impact/)
 * [Stories of Hope](https://washingtonautismalliance.org/stories-of-hope/)
 * [News & Events](https://washingtonautismalliance.org/news-and-events/)
-* [Careers](https://washingtonautismalliance.org/careers/)
+* [Careers](https://washingtonautismalliance.org/?page_id=37226)
 * [Contact Us](https://washingtonautismalliance.org/contact/)
 
 #### SERVICES & RESOURCES
