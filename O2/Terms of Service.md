@@ -551,8 +551,8 @@ Related links
 * [Mobile](https://www.o2.co.uk/termsandconditions/mobile)
 * [Other products and services](https://www.o2.co.uk/termsandconditions/other-products-and-services)
 * [Archive](https://www.o2.co.uk/termsandconditions/archive)
-* [Finance & Insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
 * [Rewards, promotions & competition](https://www.o2.co.uk/termsandconditions/rewards)
+* [Finance & Insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
 * [Privacy Policy](https://www.o2.co.uk/termsandconditions/privacy-policy)
 
 * * *
