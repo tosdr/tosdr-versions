@@ -81,7 +81,7 @@ Learn & get help
     
     Learn how to use the system](https://www.planningcenter.com/training)
     * [Planning Center University videos](https://www.planningcenter.com/university)
-    * [How-to articles](https://www.planningcenter.com/blog/tags/tips-and-tricks/1)
+    * [How-to articles](https://support.planningcenteronline.com/)
 * [Community
     
     Connect with customers on Facebook or Slack](https://www.planningcenter.com/community)
