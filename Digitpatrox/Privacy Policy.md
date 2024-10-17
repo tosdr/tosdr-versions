@@ -20,16 +20,16 @@ Thursday, October 17 2024
 
 Latest
 
-* [Can you see internet search history on your WiFi bill?](https://digitpatrox.com/can-you-see-internet-search-history-on-your-wifi-bill/)
-* [Using campus recruitment to unlock top talent in tech](https://digitpatrox.com/using-campus-recruitment-to-unlock-top-talent-in-tech/)
-* [Chinese cybersecurity association urges review of Intel products – Computerworld](https://digitpatrox.com/chinese-cybersecurity-association-urges-review-of-intel-products-computerworld/)
-* [Raw Cider Is Just As Unsafe As Raw Milk](https://digitpatrox.com/raw-cider-is-just-as-unsafe-as-raw-milk/)
-* [Honda Accord, Civic, and CR-V RecllDue to Fuel Pump Problems](https://digitpatrox.com/honda-accord-civic-and-cr-v-reclldue-to-fuel-pump-problems/)
-* [This Android Launcher Helped Me Cut My Phone Use in Half](https://digitpatrox.com/this-android-launcher-helped-me-cut-my-phone-use-in-half/)
-* [Cutting cloud complexity without losing the rewards via cloud tech consulting](https://digitpatrox.com/cutting-cloud-complexity-without-losing-the-rewards-via-cloud-tech-consulting/)
-* [10 Best Project Portfolio Management (PPM) Software for 2024](https://digitpatrox.com/10-best-project-portfolio-management-ppm-software-for-2024/)
-* [iPad mini 7 uses the same chip as the iPhone 15 Pro — but with one key downgrade](https://digitpatrox.com/ipad-mini-7-uses-the-same-chip-as-the-iphone-15-pro-but-with-one-key-downgrade/)
-* [USDoD hacker behind National Public Data breach arrested in Brazil](https://digitpatrox.com/usdod-hacker-behind-national-public-data-breach-arrested-in-brazil/)
+* [Where to preorder Amazon’s first color Kindle and purchase other new models](https://digitpatrox.com/where-to-preorder-amazons-first-color-kindle-and-purchase-other-new-models/)
+* [Brazilian police arrested the hacker who stole everyone’s SSN](https://digitpatrox.com/brazilian-police-arrested-the-hacker-who-stole-everyones-ssn/)
+* [NYT Strands Today: Hints, Answers & Spangram for October 18](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-18/)
+* [DevSecOps teams are ramping up the use of AI tools, but they’ve got serious concerns — AI-generated code is causing major security headaches, rampant ‘alert fatigue’, and is slowing down development processes](https://digitpatrox.com/devsecops-teams-are-ramping-up-the-use-of-ai-tools-but-theyve-got-serious-concerns-ai-generated-code-is-causing-major-security-headaches-rampant-alert-fatigue-a/)
+* [Here’s how Cleary Gottlieb law firm uses genAI for pre-trial discovery and more – Computerworld](https://digitpatrox.com/heres-how-cleary-gottlieb-law-firm-uses-genai-for-pre-trial-discovery-and-more-computerworld/)
+* [You Can Get This M1 MacBook Air on Sale for $515 Right Now](https://digitpatrox.com/you-can-get-this-m1-macbook-air-on-sale-for-515-right-now/)
+* [How to install Windows 11 on unsupported hardware](https://digitpatrox.com/how-to-install-windows-11-on-unsupported-hardware/)
+* [Talking Cars 456: Driving the Chevrolet Traverse](https://digitpatrox.com/talking-cars-456-driving-the-chevrolet-traverse/)
+* [5 Tools to Try Instead](https://digitpatrox.com/5-tools-to-try-instead/)
+* [AMD and Intel’s new x86 advisory group looks to tackle Arm, but will it succeed?](https://digitpatrox.com/amd-and-intels-new-x86-advisory-group-looks-to-tackle-arm-but-will-it-succeed/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Can-you-see-internet-search-history-on-your-wifi-bill_.jpg)](https://digitpatrox.com/can-you-see-internet-search-history-on-your-wifi-bill/)
+* [![](https://cdn.vox-cdn.com/thumbor/VXLByKoVmL_6CIJ_3PnjTrVJ4_o=/0x0:2000x1125/1200x628/filters:focal(1000x563:1001x564)/cdn.vox-cdn.com/uploads/chorus_asset/file/25679802/The_New_Kindle_Family.jpg)](https://digitpatrox.com/where-to-preorder-amazons-first-color-kindle-and-purchase-other-new-models/)
     
-    [Can you see internet search history on your WiFi bill?](https://digitpatrox.com/can-you-see-internet-search-history-on-your-wifi-bill/)
+    [Where to preorder Amazon’s first color Kindle and purchase other new models](https://digitpatrox.com/where-to-preorder-amazons-first-color-kindle-and-purchase-other-new-models/)
     
-    24 mins ago
+    5 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/em73sw4NYTD4tNx4XQ6WPe-1200-80.jpg)](https://digitpatrox.com/using-campus-recruitment-to-unlock-top-talent-in-tech/)
+* [![](https://cdn.vox-cdn.com/thumbor/sCmNW1WQui173vJSZ5jcDGRH8bQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg)](https://digitpatrox.com/brazilian-police-arrested-the-hacker-who-stole-everyones-ssn/)
     
-    [Using campus recruitment to unlock top talent in tech](https://digitpatrox.com/using-campus-recruitment-to-unlock-top-talent-in-tech/)
+    [Brazilian police arrested the hacker who stole everyone’s SSN](https://digitpatrox.com/brazilian-police-arrested-the-hacker-who-stole-everyones-ssn/)
     
-    46 mins ago
+    6 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3567767-0-90640600-1729160617-IDG-Germany-Intel-September-News.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/chinese-cybersecurity-association-urges-review-of-intel-products-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-18/)
     
-    [Chinese cybersecurity association urges review of Intel products – Computerworld](https://digitpatrox.com/chinese-cybersecurity-association-urges-review-of-intel-products-computerworld/)
+    [NYT Strands Today: Hints, Answers & Spangram for October 18](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-18/)
     
-    1 hour ago
+    21 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JABE1HXCZHDHFDP9YM5FN975/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/raw-cider-is-just-as-unsafe-as-raw-milk/)
+* [![](https://cdn.mos.cms.futurecdn.net/ocFArXc8Xs3XJZGFNijYG6-1200-80.jpg)](https://digitpatrox.com/devsecops-teams-are-ramping-up-the-use-of-ai-tools-but-theyve-got-serious-concerns-ai-generated-code-is-causing-major-security-headaches-rampant-alert-fatigue-a/)
     
-    [Raw Cider Is Just As Unsafe As Raw Milk](https://digitpatrox.com/raw-cider-is-just-as-unsafe-as-raw-milk/)
+    [DevSecOps teams are ramping up the use of AI tools, but they’ve got serious concerns — AI-generated code is causing major security headaches, rampant ‘alert fatigue’, and is slowing down development processes](https://digitpatrox.com/devsecops-teams-are-ramping-up-the-use-of-ai-tools-but-theyve-got-serious-concerns-ai-generated-code-is-causing-major-security-headaches-rampant-alert-fatigue-a/)
     
     2 hours ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729000611/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2025-Honda-Civic-Sedan-Sport-Touring-Hybrid-f-driving-10-24)](https://digitpatrox.com/honda-accord-civic-and-cr-v-reclldue-to-fuel-pump-problems/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3564813-0-95231400-1729182906-shutterstock_2345949869.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/heres-how-cleary-gottlieb-law-firm-uses-genai-for-pre-trial-discovery-and-more-computerworld/)
     
-    [Honda Accord, Civic, and CR-V RecllDue to Fuel Pump Problems](https://digitpatrox.com/honda-accord-civic-and-cr-v-reclldue-to-fuel-pump-problems/)
+    [Here’s how Cleary Gottlieb law firm uses genAI for pre-trial discovery and more – Computerworld](https://digitpatrox.com/heres-how-cleary-gottlieb-law-firm-uses-genai-for-pre-trial-discovery-and-more-computerworld/)
     
     2 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [24 mins ago
+* [5 mins ago
     
-    ### Can you see internet search history on your WiFi bill?](https://digitpatrox.com/can-you-see-internet-search-history-on-your-wifi-bill/)
-* [46 mins ago
+    ### Where to preorder Amazon’s first color Kindle and purchase other new models](https://digitpatrox.com/where-to-preorder-amazons-first-color-kindle-and-purchase-other-new-models/)
+* [6 mins ago
     
-    ### Using campus recruitment to unlock top talent in tech](https://digitpatrox.com/using-campus-recruitment-to-unlock-top-talent-in-tech/)
-* [1 hour ago
+    ### Brazilian police arrested the hacker who stole everyone’s SSN](https://digitpatrox.com/brazilian-police-arrested-the-hacker-who-stole-everyones-ssn/)
+* [21 mins ago
     
-    ### Chinese cybersecurity association urges review of Intel products – Computerworld](https://digitpatrox.com/chinese-cybersecurity-association-urges-review-of-intel-products-computerworld/)
+    ### NYT Strands Today: Hints, Answers & Spangram for October 18](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-18/)
 
 Most Popular Topics
 
-* [August 29, 2024
+* [2 weeks ago
     
-    ### Ransomware gang Brain Cipher adds the Réunion des Musées Nationaux to its data leak site – 300GB of data stolen](https://digitpatrox.com/ransomware-gang-brain-cipher-adds-the-reunion-des-musees-nationaux-to-its-data-leak-site-300gb-of-data-stolen/)
-* [August 17, 2024
+    ### What’s Inside Microsoft’s Major Windows 11 Update?](https://digitpatrox.com/whats-inside-microsofts-major-windows-11-update/)
+* [1 week ago
     
-    ### School Bus Safety Tips for Back-to-School](https://digitpatrox.com/school-bus-safety-tips-for-back-to-school/)
-* [3 weeks ago
+    ### Too Many DIY Projects Unfinished? The Blackzero 3-In-1 Portable Tool Set Is Here to Help](https://digitpatrox.com/too-many-diy-projects-unfinished-the-blackzero-3-in-1-portable-tool-set-is-here-to-help/)
+* [1 week ago
     
-    ### Vendor Spotlight: Datadog](https://digitpatrox.com/vendor-spotlight-datadog/)
+    ### California Bans 6 Food Dyes in School Foods](https://digitpatrox.com/california-bans-6-food-dyes-in-school-foods/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Cutting cloud complexity without losing the rewards via cloud tech consulting](https://digitpatrox.com/cutting-cloud-complexity-without-losing-the-rewards-via-cloud-tech-consulting/)
+    ### How to install Windows 11 on unsupported hardware](https://digitpatrox.com/how-to-install-windows-11-on-unsupported-hardware/)
 * [3 hours ago
     
-    ### 10 Best Project Portfolio Management (PPM) Software for 2024](https://digitpatrox.com/10-best-project-portfolio-management-ppm-software-for-2024/)
+    ### Talking Cars 456: Driving the Chevrolet Traverse](https://digitpatrox.com/talking-cars-456-driving-the-chevrolet-traverse/)
 * [3 hours ago
     
-    ### iPad mini 7 uses the same chip as the iPhone 15 Pro — but with one key downgrade](https://digitpatrox.com/ipad-mini-7-uses-the-same-chip-as-the-iphone-15-pro-but-with-one-key-downgrade/)
+    ### 5 Tools to Try Instead](https://digitpatrox.com/5-tools-to-try-instead/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
