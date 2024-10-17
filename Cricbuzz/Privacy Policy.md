@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUSW vs RSAW - Preview](https://www.cricbuzz.com/live-cricket-scores/94687/ausw-vs-rsaw-1st-semi-final-icc-womens-t20-world-cup-2024 "Australia Women v South Africa Women, 1st Semi Final - Preview")[SL vs WI - Toss](https://www.cricbuzz.com/live-cricket-scores/108259/sl-vs-wi-3rd-t20i-west-indies-tour-of-sri-lanka-2024 "Sri Lanka v West Indies, 3rd T20I - Toss")[IND vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/100265/ind-vs-nz-1st-test-new-zealand-tour-of-india-2024 "India v New Zealand, 1st Test - Stumps")[PAK vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/101043/pak-vs-eng-2nd-test-england-tour-of-pakistan-2024 "Pakistan v England, 2nd Test - Stumps")[KAR vs KER - Preview](https://www.cricbuzz.com/live-cricket-scores/97358/kar-vs-ker-elite-group-c-ranji-trophy-elite-2024-25 "Karnataka v Kerala, Elite Group C - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUSW vs RSAW - RSAW Won](https://www.cricbuzz.com/live-cricket-scores/94687/ausw-vs-rsaw-1st-semi-final-icc-womens-t20-world-cup-2024 "Australia Women v South Africa Women, 1st Semi Final - RSAW Won")[WI vs SL - SL Won](https://www.cricbuzz.com/live-cricket-scores/108259/wi-vs-sl-3rd-t20i-west-indies-tour-of-sri-lanka-2024 "West Indies v Sri Lanka, 3rd T20I - SL Won")[IND vs NZ - Stumps](https://www.cricbuzz.com/live-cricket-scores/100265/ind-vs-nz-1st-test-new-zealand-tour-of-india-2024 "India v New Zealand, 1st Test - Stumps")[PAK vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/101043/pak-vs-eng-2nd-test-england-tour-of-pakistan-2024 "Pakistan v England, 2nd Test - Stumps")[WIW vs NZW - Preview](https://www.cricbuzz.com/live-cricket-scores/94696/wiw-vs-nzw-2nd-semi-final-icc-womens-t20-world-cup-2024 "West Indies Women v New Zealand Women, 2nd Semi Final - Preview")
 
 AllLive NowToday
 
@@ -68,11 +68,7 @@ AllLive NowToday
     
 * Sri Lanka v West Indies, 2024
     
-    [Sri Lanka vs West Indies](https://www.cricbuzz.com/live-cricket-scores/108257/sl-vs-wi-2nd-t20i-sri-lanka-v-west-indies-2024 "Sri Lanka v West Indies, 2nd T20I - SL Won")
-    
-    2nd T20I
-    
-* [Sri Lanka vs West Indies](https://www.cricbuzz.com/live-cricket-scores/108259/sl-vs-wi-3rd-t20i-sri-lanka-v-west-indies-2024 "Sri Lanka v West Indies, 3rd T20I - Toss")
+    [West Indies vs Sri Lanka](https://www.cricbuzz.com/live-cricket-scores/108259/wi-vs-sl-3rd-t20i-sri-lanka-v-west-indies-2024 "West Indies v Sri Lanka, 3rd T20I - SL Won")
     
     3rd T20I
     
@@ -134,13 +130,21 @@ AllLive NowToday
     
     28th Match
     
+* [Dolphins vs Boland](https://www.cricbuzz.com/live-cricket-scores/103575/dol-vs-bol-27th-match-csa-t20-challenge "Dolphins v Boland, 27th Match - Upcoming")
+    
+    27th Match
+    
+* [Warriors vs Titans](https://www.cricbuzz.com/live-cricket-scores/103566/war-vs-tit-26th-match-csa-t20-challenge "Warriors v Titans, 26th Match - Upcoming")
+    
+    26th Match
+    
 * CSA T20 Knock Out Competition
     
     [Eastern Storm vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/105266/estorm-vs-ncape-1st-semi-final-csa-t20-knock-out-competition "Eastern Storm v Northern Cape, 1st Semi Final - ESTORM Won")
     
     1st Semi Final
     
-* [South Western Districts vs Tuskers](https://www.cricbuzz.com/live-cricket-scores/105268/swd-vs-tusks-2nd-semi-final-csa-t20-knock-out-competition "South Western Districts v Tuskers, 2nd Semi Final - Ings Break")
+* [South Western Districts vs Tuskers](https://www.cricbuzz.com/live-cricket-scores/105268/swd-vs-tusks-2nd-semi-final-csa-t20-knock-out-competition "South Western Districts v Tuskers, 2nd Semi Final - TUSKS Won")
     
     2nd Semi Final
     
@@ -157,18 +161,6 @@ AllLive NowToday
     [Assam vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97387/asm-vs-cdg-elite-group-d-ranji-trophy "Assam v Chandigarh, Elite Group D - Preview")
     
     Elite Group D
-    
-* [Gujarat vs Andhra](https://www.cricbuzz.com/live-cricket-scores/97329/guj-vs-ap-elite-group-b-ranji-trophy "Gujarat v Andhra, Elite Group B - Upcoming")
-    
-    Elite Group B
-    
-* [Meghalaya vs Tripura](https://www.cricbuzz.com/live-cricket-scores/97320/mgly-vs-tri-elite-group-a-ranji-trophy "Meghalaya v Tripura, Elite Group A - Preview")
-    
-    Elite Group A
-    
-* [Punjab vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/97378/pun-vs-mp-elite-group-c-ranji-trophy "Punjab v Madhya Pradesh, Elite Group C - Preview")
-    
-    Elite Group C
     
 * [Mumbai vs Maharashtra](https://www.cricbuzz.com/live-cricket-scores/97311/mum-vs-mah-elite-group-a-ranji-trophy "Mumbai v Maharashtra, Elite Group A - Preview")
     
@@ -218,6 +210,18 @@ AllLive NowToday
     
     Elite Group D
     
+* [Gujarat vs Andhra](https://www.cricbuzz.com/live-cricket-scores/97329/guj-vs-ap-elite-group-b-ranji-trophy "Gujarat v Andhra, Elite Group B - Upcoming")
+    
+    Elite Group B
+    
+* [Meghalaya vs Tripura](https://www.cricbuzz.com/live-cricket-scores/97320/mgly-vs-tri-elite-group-a-ranji-trophy "Meghalaya v Tripura, Elite Group A - Preview")
+    
+    Elite Group A
+    
+* [Punjab vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/97378/pun-vs-mp-elite-group-c-ranji-trophy "Punjab v Madhya Pradesh, Elite Group C - Preview")
+    
+    Elite Group C
+    
 * Ranji Trophy Plate
     
     [Nagaland vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98114/ngl-vs-mnp-plate-ranji-trophy-plate "Nagaland v Manipur, Plate - Preview")
@@ -238,7 +242,7 @@ AllLive NowToday
     
     1st Match, Group A
     
-* [Sri Lanka A vs Afghanistan A](https://www.cricbuzz.com/live-cricket-scores/107585/sla-vs-afga-2nd-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Sri Lanka A v Afghanistan A, 2nd Match, Group A - Upcoming")
+* [Sri Lanka A vs Afghanistan A](https://www.cricbuzz.com/live-cricket-scores/107585/sla-vs-afga-2nd-match-group-a-acc-mens-t20-emerging-teams-asia-cup "Sri Lanka A v Afghanistan A, 2nd Match, Group A - Preview")
     
     2nd Match, Group A
     
@@ -246,19 +250,19 @@ AllLive NowToday
     
     3rd Match, Group B
     
+* [India A vs Pakistan A](https://www.cricbuzz.com/live-cricket-scores/107595/inda-vs-paka-4th-match-group-b-acc-mens-t20-emerging-teams-asia-cup "India A v Pakistan A, 4th Match, Group B - Upcoming")
+    
+    4th Match, Group B
+    
 * WOMEN
     
     ICC Womens T20 World Cup
     
-    [England Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/94678/engw-vs-wiw-20th-match-group-b-icc-womens-t20-world-cup "England Women v West Indies Women, 20th Match, Group B - WIW Won")
-    
-    20th Match, Group B
-    
-* [Australia Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94687/ausw-vs-rsaw-1st-semi-final-icc-womens-t20-world-cup "Australia Women v South Africa Women, 1st Semi Final - Preview")
+    [Australia Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94687/ausw-vs-rsaw-1st-semi-final-icc-womens-t20-world-cup "Australia Women v South Africa Women, 1st Semi Final - RSAW Won")
     
     1st Semi Final
     
-* [West Indies Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/94696/wiw-vs-nzw-2nd-semi-final-icc-womens-t20-world-cup "West Indies Women v New Zealand Women, 2nd Semi Final - Upcoming")
+* [West Indies Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/94696/wiw-vs-nzw-2nd-semi-final-icc-womens-t20-world-cup "West Indies Women v New Zealand Women, 2nd Semi Final - Preview")
     
     2nd Semi Final
     
@@ -605,41 +609,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/132068/rishabh-pant-forced-off-the-field-after-blow-to-knee "Rishabh Pant forced off the field after blow to knee")
+  [](https://www.cricbuzz.com/cricket-news/132076/anneke-bosses-giant-killing-act-to-dethrone-australia "Anneke bosses giant-killing act to dethrone Australia")
 
-[Rishabh Pant forced off the field after blow to knee](https://www.cricbuzz.com/cricket-news/132068/rishabh-pant-forced-off-the-field-after-blow-to-knee "Rishabh Pant forced off the field after blow to knee")
-
-30m ago
-
-  [](https://www.cricbuzz.com/cricket-news/132067/new-zealand-occupy-box-seat-after-henry-orourke-skittle-india-out-for-46 "NZ in box seat after Henry, O'Rourke skittle India out for 46")
-
-[NZ in box seat after Henry, O'Rourke skittle India out for 46](https://www.cricbuzz.com/cricket-news/132067/new-zealand-occupy-box-seat-after-henry-orourke-skittle-india-out-for-46 "NZ in box seat after Henry, O'Rourke skittle India out for 46")
-
-42m ago
-
-  [](https://www.cricbuzz.com/cricket-news/132066/shakib-al-hasan-unlikely-to-feature-in-first-south-africa-test "Shakib Al Hasan unlikely to feature in first South Africa Test")
-
-[Shakib Al Hasan unlikely to feature in first South Africa Test](https://www.cricbuzz.com/cricket-news/132066/shakib-al-hasan-unlikely-to-feature-in-first-south-africa-test "Shakib Al Hasan unlikely to feature in first South Africa Test")
+[Anneke bosses giant-killing act to dethrone Australia](https://www.cricbuzz.com/cricket-news/132076/anneke-bosses-giant-killing-act-to-dethrone-australia "Anneke bosses giant-killing act to dethrone Australia")
 
 1h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132065/pcb-removes-captains-head-coaches-from-selection-panel "PCB removes captains, head coaches from selection panel")
+  [](https://www.cricbuzz.com/cricket-news/132075/kusal-mendis-kusal-perera-set-up-sri-lankas-series-victory "Kusal Mendis, Kusal Perera set up Sri Lanka's series victory")
 
-[PCB removes captains, head coaches from selection panel](https://www.cricbuzz.com/cricket-news/132065/pcb-removes-captains-head-coaches-from-selection-panel "PCB removes captains, head coaches from selection panel")
+[Kusal Mendis, Kusal Perera set up Sri Lanka's series victory](https://www.cricbuzz.com/cricket-news/132075/kusal-mendis-kusal-perera-set-up-sri-lankas-series-victory "Kusal Mendis, Kusal Perera set up Sri Lanka's series victory")
 
 1h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132064/nz-wi-aim-to-keep-punching-above-their-weight-to-reach-world-cup-final "WI, NZ aim to keep punching above their weight to reach World Cup final")
+  [](https://www.cricbuzz.com/cricket-news/132074/the-familiar-defiance-of-agha-salman "The familiar defiance of Agha Salman")
 
-[WI, NZ aim to keep punching above their weight to reach World Cup final](https://www.cricbuzz.com/cricket-news/132064/nz-wi-aim-to-keep-punching-above-their-weight-to-reach-world-cup-final "WI, NZ aim to keep punching above their weight to reach World Cup final")
+[The familiar defiance of Agha Salman](https://www.cricbuzz.com/cricket-news/132074/the-familiar-defiance-of-agha-salman "The familiar defiance of Agha Salman")
 
-2h ago
+3h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132063/46-all-out-india-v-nz-chinnaswamy-stadium-bengaluru-test-cricket-matt-henry-virat-kohli-rohit-sharma-william-orourke "46 all out: Records rewritten as India register lowest Test total at home")
+  [](https://www.cricbuzz.com/cricket-news/132073/ghosh-vastrakar-and-sobhana-not-picked-for-new-zealand-odis "Ghosh, Vastrakar and Sobhana not picked for New Zealand ODIs")
 
-[46 all out: Records rewritten as India register lowest Test total at home](https://www.cricbuzz.com/cricket-news/132063/46-all-out-india-v-nz-chinnaswamy-stadium-bengaluru-test-cricket-matt-henry-virat-kohli-rohit-sharma-william-orourke "46 all out: Records rewritten as India register lowest Test total at home")
+[Ghosh, Vastrakar and Sobhana not picked for New Zealand ODIs](https://www.cricbuzz.com/cricket-news/132073/ghosh-vastrakar-and-sobhana-not-picked-for-new-zealand-odis "Ghosh, Vastrakar and Sobhana not picked for New Zealand ODIs")
 
-2h ago
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132072/we-wanted-to-be-relentless-matt-henry "We wanted to be relentless - Matt Henry")
+
+[We wanted to be relentless - Matt Henry](https://www.cricbuzz.com/cricket-news/132072/we-wanted-to-be-relentless-matt-henry "We wanted to be relentless - Matt Henry")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132071/india-tripped-up-by-conditions-and-overheads "India misread conditions, trip up against stern examination")
+
+[India misread conditions, trip up against stern examination](https://www.cricbuzz.com/cricket-news/132071/india-tripped-up-by-conditions-and-overheads "India misread conditions, trip up against stern examination")
+
+4h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
