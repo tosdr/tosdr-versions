@@ -1,6 +1,6 @@
 We’re sorry, but our website doesn’t work properly without JavaScript enabled. Please enable JavaScript in order to continue using our website.
 
-            Privacy Policy                                     
+             Privacy Policy                                     
 
 [![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwd5a2f71b/images/newlogo_v1.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
