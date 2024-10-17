@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Planets Sending Radio Signals to Each Other?](https://www.sciencedaily.com/releases/2024/10/241016115910.htm)
 * [Sun: Maximum Phase in 11-Year Solar Cycle](https://www.sciencedaily.com/releases/2024/10/241015183526.htm)
 * [Toward Fully 3D-Printed Active Electronics](https://www.sciencedaily.com/releases/2024/10/241015141022.htm)
 * [Liftoff! NASA's Europa Clipper](https://www.sciencedaily.com/releases/2024/10/241014145904.htm)
@@ -238,7 +239,6 @@ this hour
 * [High-Speed Printable Circuits: Next-Gen Displays](https://www.sciencedaily.com/releases/2024/10/241010142542.htm)
 * [Single-Atom Editing Tech Developed](https://www.sciencedaily.com/releases/2024/10/241011141546.htm)
 * [Electron 'Pinball' in Space After Lightning](https://www.sciencedaily.com/releases/2024/10/241010142536.htm)
-* [Playing Songs to Darwin's Finches: New Species](https://www.sciencedaily.com/releases/2024/10/241010142532.htm)
 
 Trending Topics
 ---------------
@@ -259,17 +259,17 @@ this week
 
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Sun](https://www.sciencedaily.com/news/space_time/sun/)
-
 [Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+
+[Sun](https://www.sciencedaily.com/news/space_time/sun/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
+[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
 
-[Extinction](https://www.sciencedaily.com/news/plants_animals/extinction/)
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
-[Endangered Animals](https://www.sciencedaily.com/news/plants_animals/endangered_animals/)
+[Air Pollution](https://www.sciencedaily.com/news/earth_climate/air_pollution/)
 
   
 
