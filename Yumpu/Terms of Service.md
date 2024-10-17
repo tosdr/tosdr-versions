@@ -1,4 +1,4 @@
-[![logo](https://assets.yumpu.com/release/v7gI1kFIkEIPNUk/v5/img/logo/Yumpu_Logo_RGB.png)](https://www.yumpu.com/en "Yumpu")
+[![logo](https://assets.yumpu.com/release/rIp2QjzsDgEAuCN/v5/img/logo/Yumpu_Logo_RGB.png)](https://www.yumpu.com/en "Yumpu")
 
 [EN](#)
 
@@ -33,7 +33,7 @@ Terms of Service
     2. If Publishers/Readers are individuals, they confirm that they are at least 18 years old. iMAG concludes no contracts with individuals younger than 18.
     3. If Publishers/Readers accept these Terms and Conditions on behalf of a legal person, they hereby guarantee towards iMAG that they have the authority to bind that legal person and that such legal person is bound by these Terms and Conditions, the Privacy Policy and all other provisions governing the use of the iMAG Services.
     4. The below Terms and Conditions represent the basis of all offers, deliveries and services; upon opening an account for this Service, they also apply to all subsequent transactions. We accept other terms and conditions only to the extent that they comply with iMAG’s Terms and Conditions or that iMAG expressly makes them the basis of the respective contract or service in writing in individual cases.
-    5. iMAG reserves the right to regularly adjust the Terms and Conditions. After significant amendments, iMAG Publishers/Readers are prompted to accept the amendments to continue their use of the Services. Minor amendments take effect upon publication. The version as amended and published on the portal at [www.yumpu.com](https://www.yumpu.com/en/info/www.yumpu.com) applies. By using the access data (log-on), Publishers/Readers accept the Terms and Conditions as amended.
+    5. iMAG reserves the right to regularly adjust the Terms and Conditions. After significant amendments, iMAG Publishers/Readers are prompted to accept the amendments to continue their use of the Services. Minor amendments take effect upon publication. The version as amended and published on the portal at [www.yumpu.com](https://www.yumpu.com/) applies. By using the access data (log-on), Publishers/Readers accept the Terms and Conditions as amended.
 2. **Contents**
     1. All contents published on the website (texts, graphics, pictures, layouts etc.) are subject to copyright. Publishers are responsible for their own contents and shall ensure that they have all the rights and authorisations necessary to use these contents for the Services. iMAG is not liable for the accuracy, contents and appropriateness of the published contents or for any intellectual property rights in or related to such contents. iMAG assumes no liability for the contents of external links; the respective operators are exclusively responsible for them.
     2. Contents are generally freely accessible to everyone, but iMAG reserves the right to require prior registration to access certain contents.
@@ -130,7 +130,7 @@ Terms of Service
 
 This document was last updated on March 21, 2022
 
-![logo](https://assets.yumpu.com/release/v7gI1kFIkEIPNUk/v5/img/logo/yumpu-footer2x.png)
+![logo](https://assets.yumpu.com/release/rIp2QjzsDgEAuCN/v5/img/logo/yumpu-footer2x.png)
 
 [](https://www.facebook.com/yumpunews "Facebook")[](https://twitter.com/yumpu_com "Twitter")[](https://www.pinterest.com/yumpucom "Pinterest")[](https://www.youtube.com/user/yumpucom "Youtube")[](https://vimeo.com/yumpucom "Vimeo")
 
