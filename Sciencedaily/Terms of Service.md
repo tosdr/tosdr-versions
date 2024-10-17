@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 16, 2024**
+**October 17, 2024**
 
 * * *
 
@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Human Skin Map Gives 'Recipe' to Build Skin](https://www.sciencedaily.com/releases/2024/10/241016115854.htm)
+* [Monarch Butterfly: Endangered Migration](https://www.sciencedaily.com/releases/2024/10/241016120135.htm)
+* [Men, Women Process Pain Differently: Study](https://www.sciencedaily.com/releases/2024/10/241016120023.htm)
+* [Hacking Bacteria to Attack Cancer](https://www.sciencedaily.com/releases/2024/10/241016115915.htm)
 * [Planets Sending Radio Signals to Each Other?](https://www.sciencedaily.com/releases/2024/10/241016115910.htm)
 * [Sun: Maximum Phase in 11-Year Solar Cycle](https://www.sciencedaily.com/releases/2024/10/241015183526.htm)
 * [Toward Fully 3D-Printed Active Electronics](https://www.sciencedaily.com/releases/2024/10/241015141022.htm)
 * [Liftoff! NASA's Europa Clipper](https://www.sciencedaily.com/releases/2024/10/241014145904.htm)
 * [Mysterious Heating of the Sun's Atmosphere](https://www.sciencedaily.com/releases/2024/10/241011141015.htm)
 * [Evolution in Real Time](https://www.sciencedaily.com/releases/2024/10/241011140950.htm)
-* [Small Brains Can Accomplish Big Things](https://www.sciencedaily.com/releases/2024/10/241003123111.htm)
-* [High-Speed Printable Circuits: Next-Gen Displays](https://www.sciencedaily.com/releases/2024/10/241010142542.htm)
-* [Single-Atom Editing Tech Developed](https://www.sciencedaily.com/releases/2024/10/241011141546.htm)
-* [Electron 'Pinball' in Space After Lightning](https://www.sciencedaily.com/releases/2024/10/241010142536.htm)
 
 Trending Topics
 ---------------
@@ -253,23 +253,23 @@ this week
 
 [Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
-[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
+[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
-
 [Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
-[Sun](https://www.sciencedaily.com/news/space_time/sun/)
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
 [Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
-[Air Pollution](https://www.sciencedaily.com/news/earth_climate/air_pollution/)
+[Mating and Breeding](https://www.sciencedaily.com/news/plants_animals/mating_and_breeding/)
 
   
 
