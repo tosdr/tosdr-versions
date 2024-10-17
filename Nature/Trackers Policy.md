@@ -10,7 +10,7 @@ Advertisement
 
 * [View all journals](https://www.nature.com/siteindex)
 * [Search](#search-menu)
-* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/cookies?error=cookies_not_supported&code=1abe378e-9b1f-4431-9e84-632a0c2c1aec)
+* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/cookies?error=cookies_not_supported&code=83742b2c-cd69-4b95-a0df-adb881de87a5)
 
 1. [nature](https://www.nature.com/)
 2. [nature info](https://www.nature.com/info)
