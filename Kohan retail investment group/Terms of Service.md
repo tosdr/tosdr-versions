@@ -1,8 +1,8 @@
-Shopping Hours: [11am-8pm](https://www.seminoletownecenter.com/hours/ "Shopping Hours:")
+Shopping Hours: [11am - 6pm](https://www.seminoletownecenter.com/hours/ "Shopping Hours:")
 
   |  
 
-85˚F Sun
+82˚F Sun
 
 [Seminole Towne Center home page Seminole Towne Center logo SEMINOLE TOWNE CENTER](https://www.seminoletownecenter.com/ "Click to return to the home page.")
 
