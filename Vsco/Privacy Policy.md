@@ -338,6 +338,8 @@ If we know that you’re 13-15 years of age, we won’t “sell”or “share”
 
 ‍_Opting out of “Sales,” “Shares,” and“Targeted Advertising” Involving Cookies or Other Tracking Technologies_
 
+You can opt-out of "sales,” “shares,” and processing for “targeted advertising” that occur via cookies or other tracking technologies by clicking **Your Privacy Choices** in our website footer below and opting out of “Targeting Cookies”. Your request to opt-out will apply only to the browser on the device from which you submit the request, and, if you delete your cookies, you will need to opt-out again in a subsequent session on this website. Alternatively, for this opt-out in relation to cookies and other tracking technologies, you can also broadcast the Global Privacy Control (GPC) to opt-out on each participating browser on the device that you’re using. Learn more at the [**Global Privacy Control website**](https://globalprivacycontrol.org/).
+
 To opt-out of “sales/shares” or processing for “targeted advertising” that do not rely on third-party advertising partners or intermediaries’ tracking technologies on this website (e.g., upload of users’ email addresses to other social media platforms to target them with ads), you must also opt out by submitting a request [here](https://vsco.formstack.com/forms/vsco_data_request) (also accessible via our **Your Privacy Choices** link).
 
 **Appeals.** If you are a Colorado, Connecticut, Motana, Oregon, Texas, or Virginia resident, you may appeal our refusal to take action on a request exercising one of your rights mentioned above by contacting our [Support Team.](https://support.vsco.co/hc/en-us)
