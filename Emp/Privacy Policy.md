@@ -88,7 +88,7 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
     
 * [Brands](https://www.emp.de/markenkleidung/)
     
-* [Entertainment](https://www.emp.de/fan-merch/)
+* [Entertainment](https://www.emp.de/entertainment/)
     
 * [Lifestyle](https://www.emp.de/fun-lifestyle/wohnen/)
     
@@ -491,7 +491,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
@@ -594,9 +594,7 @@ Nachnahme
 
 Versender
 
-![DHL Standard](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= "DHL Standard")
-
-![DHL Express](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= "DHL Express")
+![DHL](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= "DHL")
 
 EMP App
 
