@@ -565,9 +565,7 @@ Nächste Seite
 
 [Mein Konto](https://www.test.de/Hilfe-5836822-5225600/)
 
-Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
-
-     ![](https://cdn.test.de/file/image/e5/61/6779b92a-d6ce-4c4d-b513-5de339add36e-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/f7/62/f729a330-047c-4d89-a43e-72d179d33160-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -587,21 +585,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 
 test.de entdecken
 
-* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
-* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
-* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
+* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
 
 Fußbereich
 
@@ -2702,9 +2700,7 @@ Nächste Seite
 
 Nächste Seite
 
-Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
-
-     ![](https://cdn.test.de/file/image/e5/61/6779b92a-d6ce-4c4d-b513-5de339add36e-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/f7/62/f729a330-047c-4d89-a43e-72d179d33160-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2724,25 +2720,23 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 
 test.de entdecken
 
-* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
-* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
-* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
+* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
 
-Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
-
-     ![](https://cdn.test.de/file/image/e5/61/6779b92a-d6ce-4c4d-b513-5de339add36e-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/f7/62/f729a330-047c-4d89-a43e-72d179d33160-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2758,7 +2752,7 @@ Mobilrufnummer 2  Eltern-Geburtstag  Untertitel 2
 
 Ja, ich möchte diesen und weitere Newsletter der Stiftung Warentest abonnieren und bin mit der Auswertung meiner Newsletternutzung einverstanden. [Informationen zu den Newslettern und zum Datenschutz.](https://www.test.de/datenschutz/#id5105473)
 
-     ![](https://cdn.test.de/file/image/e5/61/6779b92a-d6ce-4c4d-b513-5de339add36e-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/f7/62/f729a330-047c-4d89-a43e-72d179d33160-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2782,39 +2776,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 
 test.de entdecken
 
-* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
-* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
-* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
+* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
 
 Neueste Tests
 
+* [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Depot-Vergleich: Billiges Depot, bessere Rendite!](https://www.test.de/Depotkosten-im-Vergleich-4864312-0/ "Depot-Vergleich - Billiges Depot, bessere Rendite!")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 
 test.de entdecken
 
-* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
-* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
-* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
+* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
 
 Service Stiftung Warentest
 
