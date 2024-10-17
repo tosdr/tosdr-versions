@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Corrections Officers Benevolent Association](/assets/Images/teasers/small/COBAbyPartybyOffice.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-police-officers-benevolent-association/)
-
-Corrections Officers' Benevolent Association giving, by party.
+[![Independent Spending by Type of Office Targeted, 2009–2016](/assets/Images/teasers/small/IS.JPG)](https://www.followthemoney.org/research/institute-reports/independent-spending-overview-2015-and-2016)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
