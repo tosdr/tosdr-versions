@@ -195,9 +195,9 @@
             
             Whitepaper
             
-            ##### LevelBlue Labs: Whitepaper
+            ##### Why Organizations Are Prioritizing Incident Readiness and Response in the Face of Regulatory Scrutiny
             
-            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/whitepaper-test)
+            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/orgs-prioritize-incident-response)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
