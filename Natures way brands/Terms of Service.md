@@ -1502,8 +1502,6 @@ Nature's Way Brands | 2024 All Rights Reserved
 
        
 
-Chat not available
-
 #### Hello there, looks like you're located in Canada.
 
 Would you like to visit our Canada Store?
