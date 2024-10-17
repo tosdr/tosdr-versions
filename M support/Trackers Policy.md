@@ -6,7 +6,7 @@
 Άνω Λιόσια 13344, Ελλάδα
 
 Δευτέρα - Παρασκευή  
-9:00 - 18:00
+9:00 - 17:00
 
   [](https://www.facebook.com/msupport.com.gr/) [](https://twitter.com/msupport_com_gr)
 
