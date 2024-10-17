@@ -198,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/0/csm_acidente-transito-interior-alagoas-carro-forte-reproducao_47788fa884.jpeg)
-
-acidente grave
-
-acidente grave
-
-Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas
-
-Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/tres-pessoas-morrem-e-uma-fica-ferida-apos-colisao-entre-veiculo-de-passeio-e-carro-forte-no-interior-de-alagoas/ "Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio e carro-forte no interior de Alagoas")[![Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_principe-harry-meghan-foto-FramePhotoFolhapress_5f0deb4a98.jpeg)
+[![Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_principe-harry-meghan-foto-FramePhotoFolhapress_5f0deb4a98.jpeg)
 
 'Não é seguro'
 
@@ -214,23 +206,31 @@ Três pessoas morrem e uma fica ferida após colisão entre veículo de passeio 
 
 Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos
 
-Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos](https://www.tnh1.com.br/noticia/nid/principe-harry-e-meghan-markle-nao-vao-passar-natal-com-a-familia-real-por-causa-dos-filhos/ "Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos")[![Questões de concurso público são anuladas por conteúdo machista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/e/csm_questao_machista_reproducao_redes_sociais_6e357ecf05.jpg)
+Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos](https://www.tnh1.com.br/noticia/nid/principe-harry-e-meghan-markle-nao-vao-passar-natal-com-a-familia-real-por-causa-dos-filhos/ "Príncipe Harry e Meghan Markle não vão passar Natal com a Família Real por causa dos filhos")[![Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025 ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/1/csm_record_brasileirao_R7_75e8296243.jpg)
 
-em macaé
+Futebol Nacional
 
-em macaé
+Futebol Nacional
 
-Questões de concurso público são anuladas por conteúdo machista
+Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025
 
-Questões de concurso público são anuladas por conteúdo machista](https://www.tnh1.com.br/noticia/nid/questoes-de-concurso-publico-sao-anuladas-por-conteudo-machista/ "Questões de concurso público são anuladas por conteúdo machista")[![Fisiculturista brasileira é internada com desidratação severa após pódio no Mr. Olympia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/f/csm_fisiculturista-internada-reproducao-redes-sociais_1d6a3779e1.jpg)
+Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025](https://www.tnh1.com.br/noticia/nid/record-ja-garantiu-5-marcas-patrocinadoras-para-transmissao-do-brasileirao-2025/ "Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025 ")[![Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/5/csm_familia_jonatas_morte_colonia_leopoldina_reproducao_video_a08bca134e.jpg)
 
-25 anos
+Colônia Leopoldina
 
-25 anos
+Colônia Leopoldina
 
-Fisiculturista brasileira é internada com desidratação severa após pódio no Mr. Olympia
+Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"
 
-Fisiculturista brasileira é internada com desidratação severa após pódio no Mr. Olympia](https://www.tnh1.com.br/noticia/nid/fisiculturista-brasileira-e-internada-com-desidratacao-severa-apos-podio-no-mr-olympia/ "Fisiculturista brasileira é internada com desidratação severa após pódio no Mr. Olympia")
+Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"](https://www.tnh1.com.br/noticia/nid/mae-de-adolescente-morto-em-abordagem-da-pm-desabafa-eles-deram-5-tiros-foi-pra-matar/ "Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"")[![Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/7/csm_carro-derrubou-motos-arapiraca_bf1dbeb721.jpg)
+
+interior de Alagoas
+
+interior de Alagoas
+
+Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados
+
+Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados](https://www.tnh1.com.br/noticia/nid/video-motorista-perde-o-controle-e-bate-em-13-veiculos-que-estavam-estacionados/ "Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados")
 
 [![Passageira pula de carro após ser assediada por motorista de app](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/4/csm_Passageira_pula_de_carro_apos_ser_assediada_por_motorista_de_app_em_SP_-_foto_Reproducao_TV_Globo_8a26a6fa79.jpg)
 
