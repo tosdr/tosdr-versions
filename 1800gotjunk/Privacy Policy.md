@@ -866,6 +866,22 @@ Bruno Souza Monteregie Metro 16/03/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+KD and Drew were so amazing! So helpful! They helped me clean out my garage that was just full. Thank goodness for these guys!
+
+Kayla Noller Wisconsin 12/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Justin and Jabray very professional and very courteous. Would definitely recommend service to others. Thanks so much. Great Job
+
+Adriane Guy Baltimore 12/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Fast, professional, and kind Will use again
 
 Barb Hill Baltimore 12/10/2024
@@ -922,17 +938,41 @@ Debbie Besaw Austin 12/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-KD and Drew were so amazing! So helpful! They helped me clean out my garage that was just full. Thank goodness for these guys!
+TC and JOE were outstanding
 
-Kayla Noller Wisconsin 12/10/2024
+Crystal Wales Austin 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Justin and Jabray very professional and very courteous. Would definitely recommend service to others. Thanks so much. Great Job
+Alex and Dray were great. Respective of our home and the contents. I would use these guys again.
 
-Adriane Guy Baltimore 12/10/2024
+Erv Bluemner Wisconsin 11/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great job, Dray and Alex maxed out the truck capacity and were very timely. Would highly recommend!
+
+George Rolfs Wisconsin 11/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Super fast. Great service. Would recommend. Caleb and August were amazing and very friendly!!!
+
+Jake Arneson Madison 11/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+TC and JOE were outstanding
+
+Jaye Wright Austin 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -965,46 +1005,6 @@ Mandar Chati Cincinnati 11/10/2024
 I just had the most amazing experience! Super easy scheduling and very friendly service. I will definitely use them again and again!
 
 Becky Feldman Baltimore 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Justin and Ernesto were great! Efficient and professional. Was a quick and easy process
-
-Penny Wolf Baltimore 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-They did a fantastic job they were quick and efficient and the price is right
-
-Barbara Shea Columbus 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-TC and JOE were outstanding
-
-Crystal Wales Austin 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Alex and Dray were great. Respective of our home and the contents. I would use these guys again.
-
-Erv Bluemner Wisconsin 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great job, Dray and Alex maxed out the truck capacity and were very timely. Would highly recommend!
-
-George Rolfs Wisconsin 11/10/2024
 
 ### 
 
