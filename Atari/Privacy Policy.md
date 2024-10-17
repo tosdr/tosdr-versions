@@ -330,6 +330,10 @@ New
 
 Atari 7800+](https://www.atari.com/collections/7800)
 
+[![](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
+
+Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
+
 [![](files/classic-dad-hat-black-front-66fe06e85b6fdcopy.jpg)
 
 Limited Edition: Haunted House](https://www.atari.com/collections/limited-edition-haunted-house)
@@ -347,6 +351,10 @@ Menu
 [![Atari 7800](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
 
 Atari 7800+](https://www.atari.com/collections/7800)
+
+[![](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
+
+Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
 
 [![](files/classic-dad-hat-black-front-66fe06e85b6fdcopy.jpg)
 
