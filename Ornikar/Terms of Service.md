@@ -18,6 +18,8 @@ Votre permis dès 559,99 € ! Nouveau : paiement en 4x sans frais [J'en profit
 
 [Permis de conduire](https://www.ornikar.com/permis)
 
+Permis de conduire
+
 [Permis B
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66fff075fc9b634e2d7ef1a3_Badge%20promo%20court.png)](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
@@ -25,6 +27,8 @@ Votre permis dès 559,99 € ! Nouveau : paiement en 4x sans frais [J'en profit
 [Code de la route](https://www.ornikar.com/code)
 
 [Assurance](https://www.ornikar.com/assurance-auto)
+
+Assurance
 
 [Assurance auto](https://www.ornikar.com/assurance-auto)[Assurance habitation
 
