@@ -536,20 +536,25 @@ If you, the User, do not agree with the way Freepik Company processes your perso
 
 **February 2024**
 
-Content
+Tools
 
-* [Search trends](https://www.freepikcompany.com/tags)
-* [Blog](https://www.freepik.com/blog/)
+* [AI image generator](https://www.freepikcompany.com/ai/image-generator)
+* [Image upscaler](https://www.freepikcompany.com/ai/image-upscaler)
+* [Background remover](https://www.freepikcompany.com/ai/background-remover)
+* [Photo editor](https://www.freepikcompany.com/ai/photo-editor)
+* [All Freepik tools](https://www.freepikcompany.com/tools)
 
 Information
 
 * [Pricing](https://www.freepikcompany.com/pricing?origin=freepik_web)
 * [About us](https://www.freepikcompany.com/company/about-us)
-* [API](https://freepik.com/api)
+* [API](https://www.freepik.com/api)
 * [Jobs](https://jobs.freepik.com/)
 * [Sell content](https://contributor.freepik.com/)
 * [Freepik brand guidelines](https://freepik.design/)
 * [Events](https://lu.ma/freepik-sf)
+* [Search trends](https://www.freepikcompany.com/tags)
+* [Blog](https://www.freepik.com/blog/)
 
 Legal
 
