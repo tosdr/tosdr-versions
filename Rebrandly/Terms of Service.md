@@ -308,7 +308,7 @@ Resources
 
 Audiences
 
-[Agencies](https://rebrandly.com/agencies)[Developers](https://rebrandly.com/developers)[Partners](https://rebrandly.com/partners)[Marketers](https://rebrandly.com/marketers)[Domain industry](https://rebrandly.com/registrars)
+[Agencies](https://rebrandly.com/agencies)[Developers](https://rebrandly.com/developers-old)[Partners](https://rebrandly.com/partners)[Marketers](https://rebrandly.com/marketers)[Domain industry](https://rebrandly.com/registrars)
 
 Solutions
 
