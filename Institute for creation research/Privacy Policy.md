@@ -96,6 +96,66 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Days of Praise
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/wisdom-for-encountering-trials)
+
+[Wisdom for Encountering Trials](https://www.icr.org/article/wisdom-for-encountering-trials/)
+
+“Count it all joy when ye fall into divers temptations; knowing this, that the trying of your faith worketh patience. But let patience have...
+
+BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/14283)
+
+[Man's Grief and God's Compassion](https://www.icr.org/article/14283/)
+
+“For the LORD will not cast off for ever: But though he cause grief yet will he have compassion according to the multitude of his mercies....
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/days-two-thousand-years)
+
+[Two Days and Two Thousand Years](https://www.icr.org/article/days-two-thousand-years/)
+
+“But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day. The Lord...
+
+BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
+
+The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
+
+$16.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474057/file.jpg)
+
+Days to Remember](https://store.icr.org/dr-henry-morris-days-to-remember.html)
+
+$9.99
+
+$12.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
+
+Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
+
+$14.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
+
+The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
+
+$13.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475255/file.jpg)
+
+The God Who is Real](https://store.icr.org/dr-henry-morris-the-god-who-is-real.html)
+
+$9.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
