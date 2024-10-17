@@ -43,7 +43,7 @@
     
 * Resources
     
-    * [What’s new](https://plaid.com/whats-new/spring-2024/)
+    * [What’s new](https://plaid.com/whats-new/fall-2024/)
     * [Blog](https://plaid.com/blog/)
     * [Library](https://plaid.com/resources/library/)
     * [Industry resources](https://plaid.com/resources/)
@@ -102,7 +102,7 @@
     
 * Resources
     
-    * [What’s new](https://plaid.com/whats-new/spring-2024/)
+    * [What’s new](https://plaid.com/whats-new/fall-2024/)
     * [Blog](https://plaid.com/blog/)
     * [Library](https://plaid.com/resources/library/)
     * [Industry resources](https://plaid.com/resources/)
