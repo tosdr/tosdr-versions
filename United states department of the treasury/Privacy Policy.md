@@ -557,20 +557,24 @@ MENU MENU
     
     October 17, 2024
     
+    [Treasury International Capital Data for August](https://home.treasury.gov/news/press-releases/jy2655)
+    
+    October 17, 2024
+    
     [U.S. Department of the Treasury Reaches Major Milestone, Approving Over $500 Million to Support Small Businesses in Tribal Nations](https://home.treasury.gov/news/press-releases/jy2653)
     
     October 17, 2024
     
     [Treasury Targets Actors Involved in Drone Production for Russia’s War Against Ukraine](https://home.treasury.gov/news/press-releases/jy2651)
     
-    October 17, 2024
-    
-    [Treasury Sanctions Network for Shipping Oil on Behalf of Iran-Backed Houthi Financier](https://home.treasury.gov/news/press-releases/jy2652)
-    
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
+    
+    October 17, 2024
+    
+    [Remarks by Secretary of the Treasury Janet L. Yellen at the Council on Foreign Relations](https://home.treasury.gov/news/press-releases/jy2654)
     
     October 13, 2024
     
@@ -579,10 +583,6 @@ MENU MENU
     October 11, 2024
     
     [Remarks by Under Secretary for International Affairs Jay Shambaugh on the Essential Role of the International Financial Institutions for the Global and U.S. Economies](https://home.treasury.gov/news/press-releases/jy2643)
-    
-    October 10, 2024
-    
-    [Remarks by Deputy Secretary of the Treasury Wally Adeyemo at Press Conference at the Department of Justice](https://home.treasury.gov/news/press-releases/jy2640)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
