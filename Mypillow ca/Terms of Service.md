@@ -165,7 +165,7 @@ SHOP NOW](https://www.mypillow.com/hannity-new)
 
    [](https://www.mypillow.com/mystore-gummies)
 
-   [](https://www.mypillow.ca/toppers)
+   [](https://www.mypillow.com/open-box)
 
    [](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
 
@@ -175,7 +175,7 @@ SHOP NOW](https://www.mypillow.com/hannity-new)
 
    
 
-   [](https://www.mypillow.com/open-box)
+   [](https://www.mypillow.ca/toppers)
 
    [](https://www.mypillow.com/gift-cards)
 
