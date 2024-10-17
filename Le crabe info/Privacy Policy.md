@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 602 utilisateurs actifs
+##### 176 utilisateurs actifs
 
 Chargement en cours
 
@@ -132,7 +132,7 @@ Chargement en cours
 ### À la une
 
 * [Windows 11 24H2 provoque des écrans bleus (BSOD) avec les SSD Western Digital](https://lecrabeinfo.net/windows-11-24h2-provoque-des-ecrans-bleus-bsod-avec-les-ssd-western-digital.html)
-* [Télécharger les wallpapers du 10ᵉ anniversaire de Windows Insider](https://lecrabeinfo.net/telecharger-les-wallpapers-du-10%e1%b5%89-anniversaire-de-windows-insider.html)
+* [Téléchargez les wallpapers du 10ᵉ anniversaire de Windows Insider !](https://lecrabeinfo.net/telecharger-les-wallpapers-du-10%e1%b5%89-anniversaire-de-windows-insider.html)
 * [Windows 11 : Microsoft brise la limite de 32 Go pour le FAT32 (qui passe à 2 To)](https://lecrabeinfo.net/windows-11-microsoft-brise-la-limite-de-32-go-pour-le-fat32-qui-passe-a-2-to.html)
 
 ### Tendance
@@ -154,7 +154,7 @@ Chargement en cours
 
 * 67 752 membres
 * 924 articles
-* 26 726 commentaires
+* 26 727 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
