@@ -41,7 +41,7 @@ MENUMENU
                 * [CHPW Dual Plan](https://medicare.chpw.org/home-highlights/dual-plan/)
                 * [Medicare Resources](https://medicare.chpw.org/member-center/member-resources/)
                 * [Medicare Specialists](https://medicare.chpw.org/contact-us/chpw-representatives/)
-        * * [![CHPW Medicaid Apple Health Plan](/wp-content/uploads/images/nav/nav-cta_hrz-FindaPlan.jpg)](https://www.chpw.org/find-health-plan/ "Find a health insurance Plan today.")
+        * * [![CHPW member advisory council.](/wp-content/uploads/images/nav/AH-MAC-nav-tile-promo-1.webp)](https://www.chpw.org/about-chpw/member-advisory-council/ "Join our member advisory council.")
                 
 * [Benefits+](https://www.chpw.org/chpw-benefits-plus/)
     * [Benefits+ Overview](https://www.chpw.org/chpw-benefits-plus/)
@@ -89,7 +89,7 @@ MENUMENU
             * [Member Rights and Privacy](https://www.chpw.org/member-center/member-rights/)
                 * [Fraud, Waste, and Abuse](https://www.chpw.org/member-center/member-rights/fraud-waste-and-abuse/)
             * [Care Team](https://www.chpw.org/member-center/member-resources/care-team/)
-        * * [![CHPW member advisory council.](/wp-content/uploads/images/nav/AH-MAC-nav-tile-promo-1.webp)](https://www.chpw.org/about-chpw/member-advisory-council/ "Join our member advisory council.")
+        * * [![CHPW member pregnancy care.](/wp-content/uploads/images/nav/nav-cta_pregnancy_care.webp)](https://www.chpw.org/member-center/pregnancy-care/ "Pregnancy care")
                 
 * [Provider Center](https://www.chpw.org/provider-center/)
     * * * [Provider Center Home](https://www.chpw.org/provider-center/)
