@@ -270,4 +270,4 @@ SUPPORT
 
 © 2024 Microsoft. All rights reserved.   © 2024 Nuance Communications, Inc. All rights reserved.  
 
-|  [Legal](https://www.nuance.com/about-us/company-policies/legal-notices.html) |  [Site Map](https://www.nuance.com/site-map.html) |  [Privacy policies](https://www.nuance.com/about-us/company-policies/privacy-policies.html) |  [Consumer Health Data Privacy](https://www.nuance.com/about-us/company-policies/privacy-policies/consumer-health-data-privacy-policy.html) |  [Accessibility](https://www.nuance.com/about-us/company-policies/company-accessibility.html) |  [Subscriptions](https://www.nuance.com/subscription.html)
+[Legal](https://www.nuance.com/about-us/company-policies/legal-notices.html) |  [Site Map](https://www.nuance.com/site-map.html) |  [Privacy policies](https://www.nuance.com/about-us/company-policies/privacy-policies.html) |  Manage cookies |  [Consumer Health Data Privacy](https://www.nuance.com/about-us/company-policies/privacy-policies/consumer-health-data-privacy-policy.html) |  [Accessibility](https://www.nuance.com/about-us/company-policies/company-accessibility.html) |  [Subscriptions](https://www.nuance.com/subscription.html)
