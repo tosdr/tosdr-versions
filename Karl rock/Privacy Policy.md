@@ -410,17 +410,17 @@ Top
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
-* [![My Karakoram Highway Travel  Super Guide (Safety, Must-Visit Stops, Itinerary, & More)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2024/09/IMG_0336-scaled.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/my-karakoram-highway-travel-super-guide/ "My Karakoram Highway Travel  Super Guide (Safety, Must-Visit Stops, Itinerary, & More)")
-    
-    [My Karakoram Highway Travel Super Guide (Safety, Must-Visit Stops, Itinerary, & More)](https://blog.karlrock.com/my-karakoram-highway-travel-super-guide/ "My Karakoram Highway Travel  Super Guide (Safety, Must-Visit Stops, Itinerary, & More)")
-    
 * [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
     [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-* [![How I Learnt Urdu Script (and How You Can Too!)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/06/karl-rock-day-1-studying-Urdu-at-earth-diverse.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
+* [![My Karakoram Highway Travel  Super Guide (Safety, Must-Visit Stops, Itinerary, & More)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2024/09/IMG_0336-scaled.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/my-karakoram-highway-travel-super-guide/ "My Karakoram Highway Travel  Super Guide (Safety, Must-Visit Stops, Itinerary, & More)")
     
-    [How I Learnt Urdu Script (and How You Can Too!)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
+    [My Karakoram Highway Travel Super Guide (Safety, Must-Visit Stops, Itinerary, & More)](https://blog.karlrock.com/my-karakoram-highway-travel-super-guide/ "My Karakoram Highway Travel  Super Guide (Safety, Must-Visit Stops, Itinerary, & More)")
+    
+* [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
+    
+    [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
