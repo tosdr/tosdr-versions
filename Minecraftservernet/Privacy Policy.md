@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![DreamPlyz](plugins/MineCraft/icons/25x25xDreamPlyz_1716563897.png.pagespeed.ic.5Gklaql-xu.png)
+[![EcoSMP](plugins/MineCraft/icons/25x25xEcoSMP_1714532090.png.pagespeed.ic._cNYKCUl0B.png)
 
-Dream Plyz](https://minecraft-server.net/details/DreamPlyz/ "Dream Plyz")[![InfiniteMCnet](plugins/MineCraft/icons/25x25xInfiniteMCnet_1714858695.png.pagespeed.ic.1du3bP5yn9.png)
+EcoSMP](https://minecraft-server.net/details/EcoSMP/ "EcoSMP")[![Nekonecny_pribeh](plugins/MineCraft/icons/25x25xNekonecny_pribeh_1716904567.png.pagespeed.ic.eqSFnj3yeR.png)
 
-InfiniteMC - Slimefun Towny Survival](https://minecraft-server.net/details/InfiniteMCnet/ "InfiniteMC - Slimefun Towny Survival")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
+Nekonečný příběh](https://minecraft-server.net/details/Nekonecny_pribeh/ "Nekonečný příběh")[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
 
-Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")[![PlayNoPay](plugins/MineCraft/icons/25x25xPlayNoPay_1632052343.png.pagespeed.ic.aOBdPpUgag.png)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")
+PlayNoPay](https://minecraft-server.net/details/PlayNoPay/ "PlayNoPay")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -142,4 +142,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06407 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06682 - Created by [Debaucus](https://debauc.us/)
