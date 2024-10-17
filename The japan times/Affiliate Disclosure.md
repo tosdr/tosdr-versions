@@ -131,28 +131,58 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[First Japanese national extradited to U.S. killed by Hawaii cellmate](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/hawaii-prison-murder/ "First Japanese national extradited to U.S. killed by Hawaii cellmate")
+
+  [![Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428063.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/hawaii-prison-murder/ "First Japanese national extradited to U.S. killed by Hawaii cellmate")
+
+[Ishiba's goal of revising U.S. troops pact likely long-term project](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
+
+  [![Prime Minister Shigeru Ishiba would face a number of obstacles to updating the Status of Forces Agreement — something that hasn’t occurred since its promulgation in 1960.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428041.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba would face a number of obstacles to updating the Status of Forces Agreement — something that hasn’t occurred since its promulgation in 1960.")](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
+
+[Gone in 3 minutes: Yakuza member held over Osaka luxury watch heist](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/yakuza-watch-theft/ "Gone in 3 minutes: Yakuza member held over Osaka luxury watch heist")
+
+  [![Osaka police have arrested two people, including a yakuza member, on suspicion of stealing a light truck loaded with about 200 items that included luxury watches on a street in Osaka’s Chuo Ward in May.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428010.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Osaka police have arrested two people, including a yakuza member, on suspicion of stealing a light truck loaded with about 200 items that included luxury watches on a street in Osaka’s Chuo Ward in May.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/yakuza-watch-theft/ "Gone in 3 minutes: Yakuza member held over Osaka luxury watch heist")
+
+[Foreign wrestlers add international flair to All Japan Women’s Sumo Championships](https://www.japantimes.co.jp/sports/2024/10/16/sumo/womens-sumo-championships-international-flavor/ "Foreign wrestlers add international flair to All Japan Women’s Sumo Championships")
+
+  [![Australian Giselle Shaw, 18, competes at the All-Japan Women's Sumo Championships in Uji, Kyoto Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428127.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Australian Giselle Shaw, 18, competes at the All-Japan Women's Sumo Championships in Uji, Kyoto Prefecture, on Sunday.")](https://www.japantimes.co.jp/sports/2024/10/16/sumo/womens-sumo-championships-international-flavor/ "Foreign wrestlers add international flair to All Japan Women’s Sumo Championships")
+
 [Election to test Ishiba's ability to build a strong political base](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
 
-  [![A board for election posters in Tokyo's Chuo Ward on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A board for election posters in Tokyo's Chuo Ward on Monday")](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
-
-[40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
-
-  [![Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427856.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.")](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
-
-[China’s ‘new Great Wall’ casts a shadow on Nepal](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
-
-  [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
-
-[ASML shares plunge as bookings miss signals chipmaker woes](https://www.japantimes.co.jp/business/2024/10/16/companies/asml-shares-bookings-chipmaker/ "ASML shares plunge as bookings miss signals chipmaker woes")
-
-  [![ASML shares slumped 16% on Tuesday after third-quarter figures were mistakenly released earlier than scheduled.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/427958.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "ASML shares slumped 16% on Tuesday after third-quarter figures were mistakenly released earlier than scheduled.")](https://www.japantimes.co.jp/business/2024/10/16/companies/asml-shares-bookings-chipmaker/ "ASML shares plunge as bookings miss signals chipmaker woes")
-
-[Japan’s sales tax likely to remain 10% as big parties avoid third rail](https://www.japantimes.co.jp/business/2024/10/15/ishiba-sales-tax/ "Japan’s sales tax likely to remain 10% as big parties avoid third rail")
-
-  [![Prime Minister Shigeru Ishiba during a debate session with other political party leaders at the Japan National Press Club in Tokyo on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427615.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba during a debate session with other political party leaders at the Japan National Press Club in Tokyo on Saturday")](https://www.japantimes.co.jp/business/2024/10/15/ishiba-sales-tax/ "Japan’s sales tax likely to remain 10% as big parties avoid third rail")
+  [![A board for election posters in Tokyo's Chuo Ward on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A board for election posters in Tokyo's Chuo Ward on Monday")](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
 
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[First Japanese national extradited to U.S. killed by Hawaii cellmate](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/hawaii-prison-murder/ "First Japanese national extradited to U.S. killed by Hawaii cellmate")
+
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+
+  [![Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428063.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Raita Fukusaku arrives at Narita Airport in Chiba Prefecture in August 1994 to be extradited to the United States.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/hawaii-prison-murder/ "First Japanese national extradited to U.S. killed by Hawaii cellmate")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Ishiba's goal of revising U.S. troops pact likely long-term project](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
+
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+
+  [![Prime Minister Shigeru Ishiba would face a number of obstacles to updating the Status of Forces Agreement — something that hasn’t occurred since its promulgation in 1960.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428041.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba would face a number of obstacles to updating the Status of Forces Agreement — something that hasn’t occurred since its promulgation in 1960.")](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Gone in 3 minutes: Yakuza member held over Osaka luxury watch heist](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/yakuza-watch-theft/ "Gone in 3 minutes: Yakuza member held over Osaka luxury watch heist")
+
+  [![Osaka police have arrested two people, including a yakuza member, on suspicion of stealing a light truck loaded with about 200 items that included luxury watches on a street in Osaka’s Chuo Ward in May.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428010.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Osaka police have arrested two people, including a yakuza member, on suspicion of stealing a light truck loaded with about 200 items that included luxury watches on a street in Osaka’s Chuo Ward in May.")](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/yakuza-watch-theft/ "Gone in 3 minutes: Yakuza member held over Osaka luxury watch heist")
+
+[SUMO](https://www.japantimes.co.jp/sports/sumo/ "SUMO")
+
+[Foreign wrestlers add international flair to All Japan Women’s Sumo Championships](https://www.japantimes.co.jp/sports/2024/10/16/sumo/womens-sumo-championships-international-flavor/ "Foreign wrestlers add international flair to All Japan Women’s Sumo Championships")
+
+By [John Gunning](https://www.japantimes.co.jp/author/286/john-gunning/ "John Gunning")  
+
+  [![Australian Giselle Shaw, 18, competes at the All-Japan Women's Sumo Championships in Uji, Kyoto Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428127.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Australian Giselle Shaw, 18, competes at the All-Japan Women's Sumo Championships in Uji, Kyoto Prefecture, on Sunday.")](https://www.japantimes.co.jp/sports/2024/10/16/sumo/womens-sumo-championships-international-flavor/ "Foreign wrestlers add international flair to All Japan Women’s Sumo Championships")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -160,51 +190,19 @@ Editors' Picks
 
 By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-  [![A board for election posters in Tokyo's Chuo Ward on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A board for election posters in Tokyo's Chuo Ward on Monday")](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
-
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
-
-  [![Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427856.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.")](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
-
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[China’s ‘new Great Wall’ casts a shadow on Nepal](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
-
-By [Hannah Beech](https://www.japantimes.co.jp/author/943/hannah-beech/ "Hannah Beech") and [Bhadra Sharma](https://www.japantimes.co.jp/author/4517/bhadra-sharma/ "Bhadra Sharma")  
-
-  [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[ASML shares plunge as bookings miss signals chipmaker woes](https://www.japantimes.co.jp/business/2024/10/16/companies/asml-shares-bookings-chipmaker/ "ASML shares plunge as bookings miss signals chipmaker woes")
-
-By [Cagan Koc](https://www.japantimes.co.jp/author/4056/cagan-koc/ "Cagan Koc")  
-
-  [![ASML shares slumped 16% on Tuesday after third-quarter figures were mistakenly released earlier than scheduled.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/427958.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "ASML shares slumped 16% on Tuesday after third-quarter figures were mistakenly released earlier than scheduled.")](https://www.japantimes.co.jp/business/2024/10/16/companies/asml-shares-bookings-chipmaker/ "ASML shares plunge as bookings miss signals chipmaker woes")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Japan’s sales tax likely to remain 10% as big parties avoid third rail](https://www.japantimes.co.jp/business/2024/10/15/ishiba-sales-tax/ "Japan’s sales tax likely to remain 10% as big parties avoid third rail")
-
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
-
-  [![Prime Minister Shigeru Ishiba during a debate session with other political party leaders at the Japan National Press Club in Tokyo on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427615.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba during a debate session with other political party leaders at the Japan National Press Club in Tokyo on Saturday")](https://www.japantimes.co.jp/business/2024/10/15/ishiba-sales-tax/ "Japan’s sales tax likely to remain 10% as big parties avoid third rail")
+  [![A board for election posters in Tokyo's Chuo Ward on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427899.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A board for election posters in Tokyo's Chuo Ward on Monday")](https://www.japantimes.co.jp/news/2024/10/15/japan/politics/ninivaggigeneral-election-kickoff/ "Election to test Ishiba's ability to build a strong political base")
 
 Podcast
 -------
 
-  [![One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410707.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.")](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabukicho: Tokyo’s ‘stadium of desire’")
+  [![One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410707.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.")](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabukicho: Tokyo’s ‘stadium of desire’")
 
 [Kabukicho: Tokyo’s ‘stadium of desire’](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabukicho: Tokyo’s ‘stadium of desire’")
 
 Longform
 --------
 
-  [![Capsule hotels were created as a way to deal with the amount of overwork employees tend to do in Japan. Can't commute home? Then spend the night in an tiny, affordable sleeping space.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/426751.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Capsule hotels were created as a way to deal with the amount of overwork employees tend to do in Japan. Can't commute home? Then spend the night in an tiny, affordable sleeping space.")](https://www.japantimes.co.jp/business/2024/10/12/tech/sleep-market-tourism-japan/ "Japan wakes up to the market for a proper sleep")
+  [![Capsule hotels were created as a way to deal with the amount of overwork employees tend to do in Japan. Can't commute home? Then spend the night in an tiny, affordable sleeping space.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/426751.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Capsule hotels were created as a way to deal with the amount of overwork employees tend to do in Japan. Can't commute home? Then spend the night in an tiny, affordable sleeping space.")](https://www.japantimes.co.jp/business/2024/10/12/tech/sleep-market-tourism-japan/ "Japan wakes up to the market for a proper sleep")
 
 [Japan wakes up to the market for a proper sleep](https://www.japantimes.co.jp/business/2024/10/12/tech/sleep-market-tourism-japan/ "Japan wakes up to the market for a proper sleep")
 
@@ -213,9 +211,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,23 +253,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Key lawmakers push to cut off Huawei suppliers from U.S. chip gear](https://www.japantimes.co.jp/business/2024/10/17/tech/huawei-suppliers-us-chip-gear/ "Key lawmakers push to cut off Huawei suppliers from U.S. chip gear")
+[Ishiba Cabinet logs lowest initial support since 2000: Jiji poll](https://www.japantimes.co.jp/news/2024/10/17/japan/politics/ishiba-cabinet-lowest-public-support/ "Ishiba Cabinet logs lowest initial support since 2000: Jiji poll")
 
-16 mins ago
+4 mins ago
 
-[TSMC bulls expect strong results to support record-high shares](https://www.japantimes.co.jp/business/2024/10/17/tech/tsmc-record-high-shares/ "TSMC bulls expect strong results to support record-high shares")
+[Robberies in Kanto region may be linked to 'dark' part-time jobs](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/kanto-region-robberies-yamibaito/ "Robberies in Kanto region may be linked to 'dark' part-time jobs")
 
-28 mins ago
+43 mins ago
 
-[Georgia judge overturns changes to election rules by pro-Trump Republicans](https://www.japantimes.co.jp/news/2024/10/17/world/politics/georgia-judge-trump-republicans/ "Georgia judge overturns changes to election rules by pro-Trump Republicans")
+[Japan Post Insurance markets chief sees Nikkei setting new records after votes](https://www.japantimes.co.jp/business/2024/10/17/markets/japan-insurer-nikkei-share-prediction/ "Japan Post Insurance markets chief sees Nikkei setting new records after votes")
 
-52 mins ago
+56 mins ago
 
-[Ishiba sends offering to war-linked Yasukuni Shrine](https://www.japantimes.co.jp/news/2024/10/17/japan/japan-ishiba-yasukuni-shrine/ "Ishiba sends offering to war-linked Yasukuni Shrine")
+[Tourism has rebounded worldwide but not in Hong Kong.](https://www.japantimes.co.jp/business/2024/10/17/tourism-worldwide-hong-kong/ "Tourism has rebounded worldwide but not in Hong Kong.")
 
 1 hours ago
 
-[LVMH sales drop as Chinese demand for costly handbags cools](https://www.japantimes.co.jp/business/2024/10/17/companies/lvmh-sales-chinese-demand/ "LVMH sales drop as Chinese demand for costly handbags cools")
+[Tokyo court upholds dual nationality ban, rejecting teen's citizenship case](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/tokyo-dual-nationality-ruling/ "Tokyo court upholds dual nationality ban, rejecting teen's citizenship case")
 
 1 hours ago
 
