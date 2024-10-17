@@ -1,30 +1,14 @@
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20142%2045'%3E%3C/svg%3E)
-
 ![](https://earnapp.com/wp-content/uploads/2021/03/earnapp_brd.svg)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2057%2057'%3E%3C/svg%3E)
+![](https://earnapp.com/wp-content/themes/earnapp/assets/images/hand_coin.svg) By downloading EarnApp you will get paid for allowing vetted companies route traffic through your desktop.
 
-![](https://earnapp.com/wp-content/themes/earnapp/assets/images/hand_coin.svg)
-
-By downloading EarnApp you will get paid for allowing vetted companies route traffic through your desktop.
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2056'%3E%3C/svg%3E)
-
-![](https://earnapp.com/wp-content/themes/earnapp/assets/images/agreement.svg)
-
-By installing this application, you are agreeing that you have read and accepted Bright Data's [End User Agreement](https://brightdata.com/legal/sdk-license) as well as [Bright Data's Privacy Statement](https://brightdata.com/legal/sdk-privacy).
+![](https://earnapp.com/wp-content/themes/earnapp/assets/images/agreement.svg) By installing this application, you are agreeing that you have read and accepted Bright Data's [End User Agreement](https://brightdata.com/legal/sdk-license) as well as [Bright Data's Privacy Statement](https://brightdata.com/legal/sdk-privacy).
 
 Download Patent: [https://brightdata.com/patent-marking](https://brightdata.com/patent-marking)
 
 Sorry, your platform is not yet supported by EarnApp
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2036'%3E%3C/svg%3E)
-
-![](https://earnapp.com/wp-content/uploads/2021/05/logo.svg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2099%2018'%3E%3C/svg%3E)
-
-![](https://earnapp.com/wp-content/uploads/2021/05/by_brightdata.svg)](https://earnapp.com/)
+ [![](https://earnapp.com/wp-content/uploads/2021/05/logo.svg)![](https://earnapp.com/wp-content/uploads/2021/05/by_brightdata.svg)](https://earnapp.com/)
 
 * [Referral income](https://earnapp.com/)
 * [How it works?](https://earnapp.com/?=#how_it_works)
@@ -164,8 +148,6 @@ Bright Data may, at any time, and its sole discretion, modify this Agreement, wi
 [contact us](http://help.earnapp.com/)
 
 ### certified by
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2082%2071'%3E%3C/svg%3E)
 
 ![](https://earnapp.com/wp-content/uploads/2021/09/AppEsteem_Seal_Logo-1-2.svg)
 
