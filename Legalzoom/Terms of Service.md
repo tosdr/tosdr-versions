@@ -193,7 +193,7 @@ Thank you for subscribing to our newsletter!
 * [Contact](https://www.legalzoom.com/contact-us)
 * [Investors](https://investors.legalzoom.com/)
 * [Press](https://investors.legalzoom.com/news-events/press-releases)
-* [Affiliates & partners](https://www.legalzoom.com/partner-programs)
+* [Partner with us](https://www.legalzoom.com/partner-programs)
 * [Fast Break for Small Business](https://www.legalzoom.com/fastbreakforsmallbusiness)
 
 [Support](#footer-support)
