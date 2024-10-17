@@ -18,21 +18,21 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 2
+    Day 3 Session 2
     
     |     |     |
     | --- | --- |
-    | PAK | 366 |
-    | ENG | 6 /239 |
+    | PAK | 366 & 3 /50 |
+    | ENG | 291 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
 * [Men's Test
     
-    Day 1
+    Day 2 Session 2
     
     |     |     |
     | --- | --- |
-    | IND |     |
+    | IND | 46  |
     | NZL |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250301)
@@ -48,20 +48,22 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250201)
 * [Women's T20
     
+    SYDT won by 8 wkts
+    
     |     |     |
     | --- | --- |
-    | SYDT | 1 /72 |
+    | SYDT | 2 /116 |
     | SYD6 | 9 /114 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250117)
 * [Women's T20
     
-    17/10 14:30 AEST
+    MELS won by 1 wkt
     
     |     |     |
     | --- | --- |
-    | MELR | –   |
-    | MELS | –   |
+    | MELR | 8 /139 |
+    | MELS | 9 /143 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250118)
 * Netball
@@ -168,14 +170,24 @@ FOX SCORES
     
 * [MLB
     
-    Bottom 5th Innings
+    Final
     
     |     |     |
     | --- | --- |
     | NYM | 0   |
-    | LAD | 2   |
+    | LAD | 8   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002434AC)
+* [MLB
+    
+    18/10 8:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CLE | –   |
+    | NYY | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002B5C98)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
