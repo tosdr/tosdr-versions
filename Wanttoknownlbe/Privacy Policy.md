@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/vals-vlag-operatie-gifgas-op-onschuldige-mensen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/chemtrails-het-bewijs/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
