@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-16 Oct 2024
+17 Oct 2024
 
 * [Home
     
@@ -282,6 +282,13 @@ Filming taking place next to Derry Walls
 [Number of road closures in Derry as emergency services attend gas leak](https://www.derrynow.com/news/local-news/1631786/number-of-road-closues-in-derry-as-emergency-services-attend-gas-leak.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'")](https://www.derrynow.com/story-telling/pictures---videos/1476050/in-pictures-foyle-hospice-hosts-coffee-morning-for-hospice-care-week.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'](https://www.derrynow.com/story-telling/pictures---videos/1476050/in-pictures-foyle-hospice-hosts-coffee-morning-for-hospice-care-week.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Donegal man pleads guilty to attempted sexual communication with a child](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man pleads guilty to attempted sexual communication with a child")](https://www.derrynow.com/news/local-news/1631479/donegal-man-pleads-guilty-to-attempted-sexual-communication-with-a-child.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -305,6 +312,13 @@ The PSNI are appealing for information.
 [Victim of Garvagh shooting sustains 'serious and potentially life changing injuries'](https://www.derrynow.com/news/home/1631751/victim-of-garvagh-shooting-sustains-serious-and-potentially-life-changing-injuries.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![PICTURES: Hope Walk to Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Hope Walk to Guildhall")](https://www.derrynow.com/news/pictures---videos/1631339/pictures-hope-walk-to-guildhall-to-raise-awareness-around-suicide.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Hope Walk to Guildhall](https://www.derrynow.com/news/pictures---videos/1631339/pictures-hope-walk-to-guildhall-to-raise-awareness-around-suicide.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies")](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
 
 The mural in the Bogside labelling General Mike Jackson a war criminal
@@ -314,30 +328,14 @@ The mural in the Bogside labelling General Mike Jackson a war criminal
 [Adjutant of Parachute Regiment on Bloody Sunday Mike Jackson dies](https://www.derrynow.com/news/local-news/1631299/adjutant-of-parachute-regiment-on-bloody-sunday-mike-jackson-dies.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI")](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
+[![County Derry man suffered panic attack after taking cocaine and handed himself into police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man suffered panic attack after taking cocaine and handed himself into police")](https://www.derrynow.com/news/home/1631987/county-derry-man-suffered-panic-attack-after-taking-cocaine-and-handed-himself-into-police.html)
 
-Issac's family pictured with representatives from Burnfoot Community Centre handing over the cheque to Air Ambulance NI.
+The defendant attended Magherafelt PSNI station seeking assistance.
 
 [Home](https://www.derrynow.com/)
 
-[Tractor run held in memory of Burnfoot teen raises more than £32,000 for Air Ambulance NI](https://www.derrynow.com/news/home/1631158/tractor-run-held-in-memory-of-burnfoot-teen-raises-more-than-32-000-for-air-ambulance-ni.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'")](https://www.derrynow.com/story-telling/pictures---videos/1476050/in-pictures-foyle-hospice-hosts-coffee-morning-for-hospice-care-week.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Foyle Hospice hosts coffee morning for 'Hospice Care Week'](https://www.derrynow.com/story-telling/pictures---videos/1476050/in-pictures-foyle-hospice-hosts-coffee-morning-for-hospice-care-week.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with posting menacing messages to the Mayor of Derry pleads not guilty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with posting menacing messages to the Mayor of Derry pleads not guilty")](https://www.derrynow.com/news/local-news/1631434/man-charged-with-posting-menacing-messages-to-the-mayor-of-derry-pleads-not-guilty.html)
-
-Mayor of Derry City and Strabane, Cllr Lillian Seenoi-Barr
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with posting menacing messages to the Mayor of Derry pleads not guilty](https://www.derrynow.com/news/local-news/1631434/man-charged-with-posting-menacing-messages-to-the-mayor-of-derry-pleads-not-guilty.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry man suffered panic attack after taking cocaine and handed himself into police](https://www.derrynow.com/news/home/1631987/county-derry-man-suffered-panic-attack-after-taking-cocaine-and-handed-himself-into-police.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
