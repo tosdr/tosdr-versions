@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Israeli Military Checking Whether Hamas Leader Among 3 Killed](https://www.theepochtimes.com/world/israeli-military-checking-reports-hamas-leader-yahya-sinwar-is-dead-5742948)
+* [Unlock the Mystery of Shen Yun: A Rare Glimpse into the Art Behind the Global Sensation](https://www.theepochtimes.com/bright/unlock-the-mystery-of-shen-yun-a-rare-glimpse-into-the-art-behind-the-global-sensation-5740286)
     
-    1hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    NEW By [Shen Yun Creations](https://www.theepochtimes.com/author/shen-yun-creations)
     
-    [![Israeli Military Checking Whether Hamas Leader Among 3 Killed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Unlock the Mystery of Shen Yun: A Rare Glimpse into the Art Behind the Global Sensation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israeli Military Checking Whether Hamas Leader Among 3 Killed](https://img.theepochtimes.com/assets/uploads/2024/09/03/id5717613-GettyImages-1243644178KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/israeli-military-checking-reports-hamas-leader-yahya-sinwar-is-dead-5742948)
-* [Fani Willis Asks Appeals Court to Reinstate 6 Charges Against Trump in Georgia Election Case](https://www.theepochtimes.com/us/fani-willis-asks-appeals-court-to-reinstate-6-charges-against-trump-in-georgia-election-case-5742792)
+    ![Unlock the Mystery of Shen Yun: A Rare Glimpse into the Art Behind the Global Sensation](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743273-3000x2000-EN-1-205x123.jpg)](https://www.theepochtimes.com/bright/unlock-the-mystery-of-shen-yun-a-rare-glimpse-into-the-art-behind-the-global-sensation-5740286)
+* [Harris Campaign, Fox News’ Bret Baier Respond to Contentious Interview](https://www.theepochtimes.com/us/harris-campaign-fox-news-bret-baier-respond-to-contentious-interview-5743143)
     
-    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Fani Willis Asks Appeals Court to Reinstate 6 Charges Against Trump in Georgia Election Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris Campaign, Fox News’ Bret Baier Respond to Contentious Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Fani Willis Asks Appeals Court to Reinstate 6 Charges Against Trump in Georgia Election Case](https://img.theepochtimes.com/assets/uploads/2024/03/15/id5607968-Fani-Willis-GettyImages-1615631732-LSedit-2-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/fani-willis-asks-appeals-court-to-reinstate-6-charges-against-trump-in-georgia-election-case-5742792)
-* [LIVE: 7th NTD International Piano Competition Semifinals](https://www.theepochtimes.com/epochtv/7th-ntd-international-piano-competition-semifinals-5736335)
+    ![Harris Campaign, Fox News’ Bret Baier Respond to Contentious Interview](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743221-Fox-News-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-campaign-fox-news-bret-baier-respond-to-contentious-interview-5743143)
+* [Texas AG Alleges Doctor Provided Banned Gender Treatment to Nearly 2 Dozen Minors](https://www.theepochtimes.com/us/texas-ag-alleges-doctor-provided-banned-gender-treatment-to-nearly-2-dozen-minors-5743157)
     
-    4hr By [Epoch Video](https://www.theepochtimes.com/author/epoch-video)
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![LIVE: 7th NTD International Piano Competition Semifinals](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Texas AG Alleges Doctor Provided Banned Gender Treatment to Nearly 2 Dozen Minors](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![LIVE: 7th NTD International Piano Competition Semifinals](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741236-2024-PIANO-COMPETITION-SEMIFINALS-1920-x-1080-205x123.jpg.webp)](https://www.theepochtimes.com/epochtv/7th-ntd-international-piano-competition-semifinals-5736335)
-* [US B-2 Stealth Bombers Target Houthi Weapons Storage Bunkers in Yemen](https://www.theepochtimes.com/world/us-b-2-stealth-bombers-target-houthi-weapons-storage-bunkers-in-yemen-5742853)
+    ![Texas AG Alleges Doctor Provided Banned Gender Treatment to Nearly 2 Dozen Minors](https://img.theepochtimes.com/assets/uploads/2024/03/26/id5615545-Ken-Paxton-CPAC-Dallas-3-OP-e1711502061278-205x123.jpg.webp)](https://www.theepochtimes.com/us/texas-ag-alleges-doctor-provided-banned-gender-treatment-to-nearly-2-dozen-minors-5743157)
+* [Food utensils, toys, hair accessories are made with chemicals recycled from electronics containing flame retardants](https://www.theepochtimes.com/health/toxic-electronics-chemicals-found-in-childrens-toys-and-kitchen-utensils-study-5742921)
     
-    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    NEW By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
     
-    [![US B-2 Stealth Bombers Target Houthi Weapons Storage Bunkers in Yemen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Food utensils, toys, hair accessories are made with chemicals recycled from electronics containing flame retardants](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US B-2 Stealth Bombers Target Houthi Weapons Storage Bunkers in Yemen](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742932-GettyImages-452289750-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-b-2-stealth-bombers-target-houthi-weapons-storage-bunkers-in-yemen-5742853)
-* [Takeaways From New York’s 17th Congressional District Debate](https://www.theepochtimes.com/us/takeaways-from-new-yorks-17th-congressional-district-debate-5742784)
+    ![Food utensils, toys, hair accessories are made with chemicals recycled from electronics containing flame retardants](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743232-shutterstock_2394337423_black_plastic_kitchen_utensil-205x123.jpg.webp)](https://www.theepochtimes.com/health/toxic-electronics-chemicals-found-in-childrens-toys-and-kitchen-utensils-study-5742921)
+* [US Sanctions Chinese Entities Over Drone Development for Russia](https://www.theepochtimes.com/world/us-sanctions-chinese-entities-over-drone-development-for-russia-5742996)
     
-    6hr By [Juliette Fairley](https://www.theepochtimes.com/author/juliette-fairley)
+    1hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
     
-    [![Takeaways From New York’s 17th Congressional District Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Sanctions Chinese Entities Over Drone Development for Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Takeaways From New York’s 17th Congressional District Debate](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742901-Mike-Lawler-Mondaire-Jones-Cover-205x123.jpg.webp)](https://www.theepochtimes.com/us/takeaways-from-new-yorks-17th-congressional-district-debate-5742784)
-* [Biden to Focus on Ukraine War and Other International Challenges in Germany Visit](https://www.theepochtimes.com/world/biden-to-focus-on-ukraine-war-and-other-international-challenges-in-germany-visit-5742701)
+    ![US Sanctions Chinese Entities Over Drone Development for Russia](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735731-2024-09-25T143033Z_2_LYNXMPEK8O0CJ_RTROPTP_4_UKRAINE-CONFLICT-RUSSIA-DRONES-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-sanctions-chinese-entities-over-drone-development-for-russia-5742996)
+* [Upside-Down Car Loans Owed by Americans Hit All-Time High](https://www.theepochtimes.com/us/upside-down-car-loans-owed-by-americans-hit-all-time-high-5743089)
     
-    6hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Biden to Focus on Ukraine War and Other International Challenges in Germany Visit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Upside-Down Car Loans Owed by Americans Hit All-Time High](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden to Focus on Ukraine War and Other International Challenges in Germany Visit](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742931-Olaf-Scholz-Biden-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-to-focus-on-ukraine-war-and-other-international-challenges-in-germany-visit-5742701)
-* [Raytheon to Pay Over $950 Million in Settlement Over Fraud, Bribery, and Export Violations](https://www.theepochtimes.com/us/raytheon-to-pay-over-950-million-in-settlement-over-fraud-bribery-and-export-violations-5742560)
+    ![Upside-Down Car Loans Owed by Americans Hit All-Time High](https://img.theepochtimes.com/assets/uploads/2024/08/19/id5708290-GettyImages-1241224919-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/upside-down-car-loans-owed-by-americans-hit-all-time-high-5743089)
+* [Health Care Network Serving 35,000 Patients Files for Bankruptcy](https://www.theepochtimes.com/us/healthcare-network-serving-35000-patients-files-for-bankruptcy-5742916)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Raytheon to Pay Over $950 Million in Settlement Over Fraud, Bribery, and Export Violations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Health Care Network Serving 35,000 Patients Files for Bankruptcy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Raytheon to Pay Over $950 Million in Settlement Over Fraud, Bribery, and Export Violations](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742930-2021-11-19T220230Z_1_LYNXMPEHAI17V_RTROPTP_4_RAYTHEON-RESULTS-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/raytheon-to-pay-over-950-million-in-settlement-over-fraud-bribery-and-export-violations-5742560)
-* [Biden Looks to Cement US Influence in Africa](https://www.theepochtimes.com/us/biden-races-to-cement-us-influence-in-africa-5742675)
+    ![Health Care Network Serving 35,000 Patients Files for Bankruptcy](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743191-GettyImages-462270656-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/healthcare-network-serving-35000-patients-files-for-bankruptcy-5742916)
+* [Trump Shooting Calls for ‘Fundamental’ Secret Service Reform, Independent Panel Says](https://www.theepochtimes.com/us/trump-shooting-calls-for-fundamental-secret-service-reform-independent-panel-says-5743024)
     
-    7hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor)
+    3hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Biden Looks to Cement US Influence in Africa](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Shooting Calls for ‘Fundamental’ Secret Service Reform, Independent Panel Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Looks to Cement US Influence in Africa](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742929-Biden-Africa-Summit-GettyImages-1245632553-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-races-to-cement-us-influence-in-africa-5742675)
-* [New York’s US House Races That May Decide Control of the Chamber](https://www.theepochtimes.com/us/new-york-house-races-that-may-decide-control-of-the-chamber-5740108)
+    ![Trump Shooting Calls for ‘Fundamental’ Secret Service Reform, Independent Panel Says](https://img.theepochtimes.com/assets/uploads/2024/08/29/id5714865-GettyImages-2161356025-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-shooting-calls-for-fundamental-secret-service-reform-independent-panel-says-5743024)
+* [How to Remove Fluoride From Your Water At Home](https://www.theepochtimes.com/health/fluoride-free-your-guide-to-water-filtration-and-health-5741827)
     
-    7hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    3hr By [Sheramy Tsai](https://www.theepochtimes.com/author/sher-tsai)
     
-    [![New York’s US House Races That May Decide Control of the Chamber](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![How to Remove Fluoride From Your Water At Home](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New York’s US House Races That May Decide Control of the Chamber](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737080-10072024-DSC03104-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-house-races-that-may-decide-control-of-the-chamber-5740108)
-* [Early In-Person Voting Begins in Helene-Battered North Carolina](https://www.theepochtimes.com/us/early-in-person-voting-begins-in-helene-battered-north-carolina-5742282)
+    ![How to Remove Fluoride From Your Water At Home](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743134-shutterstock_2485393435-205x123.jpg.webp)](https://www.theepochtimes.com/health/fluoride-free-your-guide-to-water-filtration-and-health-5741827)
+* [Florida Sues Federal Government, Seeking Data on Noncitizen Voters](https://www.theepochtimes.com/us/florida-sues-federal-government-seeking-data-on-noncitizen-voters-5743068)
     
-    7hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Early In-Person Voting Begins in Helene-Battered North Carolina](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Florida Sues Federal Government, Seeking Data on Noncitizen Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Early In-Person Voting Begins in Helene-Battered North Carolina](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737556-GettyImages-2177177639-205x123.jpg.webp)](https://www.theepochtimes.com/us/early-in-person-voting-begins-in-helene-battered-north-carolina-5742282)
+    ![Florida Sues Federal Government, Seeking Data on Noncitizen Voters](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743137-GettyImages-2172608196KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-sues-federal-government-seeking-data-on-noncitizen-voters-5743068)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
