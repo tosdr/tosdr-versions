@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
+* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
+* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
+* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
+* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
+* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
+* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
+* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [test warnt: Daten­klau mit der Energiepauschale](https://www.test.de/test-warnt-Datenklau-mit-der-Energiepauschale-5930971-0/ "test warnt - Datenklau mit der Energiepauschale")
+* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
 
 Service Stiftung Warentest
 
