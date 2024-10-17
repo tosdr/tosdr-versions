@@ -182,7 +182,7 @@ Support
 
 Software
 
-[Bambu Studio](https://bambulab.com/en/download/studio)
+[Bambu Studio](https://bambulab.com/en/download/studio)[Bambu Handy](https://bambulab.com/en/download/app)
 
 Company
 
