@@ -29,7 +29,6 @@ Alle resultaten
     * [Donateursomgeving](https://donateurs.bitsoffreedom.nl/)
 * [Kom in actie](https://www.bitsoffreedom.nl/kom-in-actie/)
     * [Doneren aan ons](https://www.bitsoffreedom.nl/doneren/)
-    * [Projecten & campagnes](https://www.bitsoffreedom.nl/tips-en-tools/)
 * [Financiering](https://www.bitsoffreedom.nl/financiering/)
     * [Onze bedrijfsdonateurs](https://www.bitsoffreedom.nl/bedrijfsdonateurs/)
     * [Doneren met belastingvoordeel](https://www.bitsoffreedom.nl/doneren/fiscaal-voordeel/)
