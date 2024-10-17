@@ -122,6 +122,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Jeff Jacoby Oklahoma urges private groups to launch charter schools — as long as they’re not religious](https://patriotpost.us/opinion/111145-oklahoma-urges-private-groups-to-launch-charter-schools-as-long-as-theyre-not-religious-2024-10-16)
 *      [Mark Alexander The 2024 Election IS Rigged!](https://patriotpost.us/alexander/111103-the-2024-election-is-rigged-2024-10-16)
 *      [Ben Shapiro The Brat Energy Is Gone](https://patriotpost.us/opinion/111130-the-brat-energy-is-gone-2024-10-16)
 *      [Betsy McCaughey Harris’ Approach: Only Blacks Get Government Help](https://patriotpost.us/opinion/111126-harris-approach-only-blacks-get-government-help-2024-10-16)
@@ -144,9 +145,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
