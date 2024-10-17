@@ -2,14 +2,14 @@ Thursday, October 17 2024
 
 Breaking News
 
+* [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/)
+* [Former Clinton Pollster Warns Of ‘Eroding’ Blue Wall For Harris After Failing To Connect In Fox Interview](https://www.conservativedailynews.com/2024/10/former-clinton-pollster-warns-of-eroding-blue-wall-for-harris-after-failing-to-connect-in-fox-interview/)
+* [Trump-Appointed Judge Orders Alabama To Stop Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/trump-appointed-judge-orders-alabama-to-stop-effort-to-remove-non-citizens-from-voter-rolls/)
+* [Kamala Harris’ Refusal (and Inability) to Answer Questions](https://www.conservativedailynews.com/2024/10/kamala-harris-refusal-and-inability-to-answer-questions/)
+* [Supreme Court Allows Biden-Harris EPA Power Plant Rule To Stay In Effect](https://www.conservativedailynews.com/2024/10/supreme-court-allows-biden-harris-epa-power-plant-rule-to-stay-in-effect/)
+* [President Joe Biden’s Schedule for Thursday, October 17, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-17-2024/)
+* [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/)
 * [Biden-Harris Admin Recalls Hundreds Of Electric Buses Amid Fire Concerns](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/)
-* [MSNBC Interviews Early Voters In Key Battleground State, Struggles To Find Anyone Who Voted For Harris](https://www.conservativedailynews.com/2024/10/msnbc-interviews-early-voters-in-key-battleground-state-struggles-to-find-anyone-who-voted-for-harris/)
-* [Massive Teachers Union Used Dues For Pricey Meeting At Legendary Casino](https://www.conservativedailynews.com/2024/10/massive-teachers-union-used-dues-for-pricey-meeting-at-legendary-casino/)
-* [White House Press Briefing with Karine Jean-Pierre – 10/16/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-16-24/)
-* [Border Crossings Might Be Declining — But That’s Not The Whole Story](https://www.conservativedailynews.com/2024/10/border-crossings-might-be-declining-but-thats-not-the-whole-story/)
-* [Tariffs Are Like A Golf Handicap](https://www.conservativedailynews.com/2024/10/tariffs-are-like-a-golf-handicap/)
-* [Take the Federal Budget Quiz](https://www.conservativedailynews.com/2024/10/take-the-federal-budget-quiz/)
-* [President Joe Biden’s Schedule for Wednesday, October 16, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-16-2024/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,82 +111,82 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.74%
 
-* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/10/msnbc-interviews-early-voters-in-key-battleground-state-struggles-to-find-anyone-who-voted-for-harris/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Kamala-Harris-Brett-Baier-illegal-immigration-Fox-News-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/)
     
-    [MSNBC Interviews Early Voters In Key Battleground State, Struggles To Find Anyone Who Voted For Harris](https://www.conservativedailynews.com/2024/10/msnbc-interviews-early-voters-in-key-battleground-state-struggles-to-find-anyone-who-voted-for-harris/)
+    [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/)
     
-    October 16, 2024
+    October 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/08/Tim-Walz-220x150.jpg)](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/)
-    
-    [Tim Walz Let Slip What We Knew About The Left All Along](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/)
-    
-    October 15, 2024
-    
-
-Recent Posts
-
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/07/Connecticut-electric-bus-battery-fire-220x150.jpg)](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/)
     
     [Biden-Harris Admin Recalls Hundreds Of Electric Buses Amid Fire Concerns](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/)
     
     October 16, 2024
     
-* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/10/msnbc-interviews-early-voters-in-key-battleground-state-struggles-to-find-anyone-who-voted-for-harris/)
+
+Recent Posts
+
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Pentagon-220x150.jpg)](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/)
     
-    [MSNBC Interviews Early Voters In Key Battleground State, Struggles To Find Anyone Who Voted For Harris](https://www.conservativedailynews.com/2024/10/msnbc-interviews-early-voters-in-key-battleground-state-struggles-to-find-anyone-who-voted-for-harris/)
+    [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/)
     
-    October 16, 2024
+    October 17, 2024
     
-* [![Tim Walz shooting blanks](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv101624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/shooting-blanks/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Kamala-Harris-Brett-Baier-illegal-immigration-Fox-News-220x150.jpg)](https://www.conservativedailynews.com/2024/10/former-clinton-pollster-warns-of-eroding-blue-wall-for-harris-after-failing-to-connect-in-fox-interview/)
     
-    [Shooting Blanks](https://www.conservativedailynews.com/2024/10/shooting-blanks/)
+    [Former Clinton Pollster Warns Of ‘Eroding’ Blue Wall For Harris After Failing To Connect In Fox Interview](https://www.conservativedailynews.com/2024/10/former-clinton-pollster-warns-of-eroding-blue-wall-for-harris-after-failing-to-connect-in-fox-interview/)
     
-    October 16, 2024
+    October 17, 2024
     
-* [![school choice randi weingarten](https://www.conservativedailynews.com/wp-content/uploads/2023/03/stg031323dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/massive-teachers-union-used-dues-for-pricey-meeting-at-legendary-casino/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/caution-democrat-voter-fraud-ahead-corrupt-treasonous-democrats-hope-to-cheat-election-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-appointed-judge-orders-alabama-to-stop-effort-to-remove-non-citizens-from-voter-rolls/)
     
-    [Massive Teachers Union Used Dues For Pricey Meeting At Legendary Casino](https://www.conservativedailynews.com/2024/10/massive-teachers-union-used-dues-for-pricey-meeting-at-legendary-casino/)
+    [Trump-Appointed Judge Orders Alabama To Stop Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/trump-appointed-judge-orders-alabama-to-stop-effort-to-remove-non-citizens-from-voter-rolls/)
     
-    October 16, 2024
+    October 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/1662070130_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-16-24/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/05-prop-kam-ci-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamala-harris-refusal-and-inability-to-answer-questions/)
     
-    [White House Press Briefing with Karine Jean-Pierre – 10/16/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-16-24/)
+    [Kamala Harris’ Refusal (and Inability) to Answer Questions](https://www.conservativedailynews.com/2024/10/kamala-harris-refusal-and-inability-to-answer-questions/)
     
-    October 16, 2024
+    October 17, 2024
     
-* [![Joe Biden Kamala Harris border crisis policy](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/border-crossings-might-be-declining-but-thats-not-the-whole-story/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/03-doj-lsuit-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/doj-vs-fair-elections/)
     
-    [Border Crossings Might Be Declining — But That’s Not The Whole Story](https://www.conservativedailynews.com/2024/10/border-crossings-might-be-declining-but-thats-not-the-whole-story/)
+    [DOJ vs Fair Elections](https://www.conservativedailynews.com/2024/10/doj-vs-fair-elections/)
     
-    October 16, 2024
+    October 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5651-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/tariffs-are-like-a-golf-handicap/)
+* [![undecided voter](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/undecided/)
     
-    [Tariffs Are Like A Golf Handicap](https://www.conservativedailynews.com/2024/10/tariffs-are-like-a-golf-handicap/)
+    [Undecided](https://www.conservativedailynews.com/2024/10/undecided/)
     
-    October 16, 2024
+    October 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/05-prop-kam-ci-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/10/team-kamala/)
+* [![Joe Biden kamala harris the same](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz101724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-mirror-doesnt-lie/)
     
-    [Team Kamala](https://www.conservativedailynews.com/2024/10/team-kamala/)
+    [The Mirror Doesn’t Lie](https://www.conservativedailynews.com/2024/10/the-mirror-doesnt-lie/)
     
-    October 16, 2024
+    October 17, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/08/us-supreme-court-building-2225765_1920-220x150.jpg)](https://www.conservativedailynews.com/2024/10/supreme-court-allows-biden-harris-epa-power-plant-rule-to-stay-in-effect/)
+    
+    [Supreme Court Allows Biden-Harris EPA Power Plant Rule To Stay In Effect](https://www.conservativedailynews.com/2024/10/supreme-court-allows-biden-harris-epa-power-plant-rule-to-stay-in-effect/)
+    
+    October 17, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [X-Vision Optics Unveils the Shadow 10 Night Vision Binocular](https://www.thegunpage.com/x-vision-optics-unveils-the-shadow-10-night-vision-binocular/10611270)
+* [Walgreens Employee With Concealed Carry License Fatally Shoots Suspected Thief](https://www.thegunpage.com/walgreens-employee-with-concealed-carry-license-fatally-shoots-suspected-thief/10611269)
+* [MA: Anti-Liberty Super Bill Update](https://www.thegunpage.com/ma-anti-liberty-super-bill-update/10611268)
+* [Maryville, TN Police Department Awards Contract to Smith & Wesson](https://www.thegunpage.com/maryville-tn-police-department-awards-contract-to-smith-wesson/10611262)
+* [Taurus Pocket .22 Returns as the New 22TUC](https://www.thegunpage.com/taurus-pocket-22-returns-as-the-new-22tuc/10611261)
+* [TFB Behind the Gun #137: Modern Military Movie Guns w/ Darwin](https://www.thegunpage.com/tfb-behind-the-gun-137-modern-military-movie-guns-w-darwin/10611263)
+* [Instagram Post Leads To Arrests At Indianapolis Gun And Drug Bust](https://www.thegunpage.com/instagram-post-leads-to-arrests-at-indianapolis-gun-and-drug-bust/10611260)
 * [The History of PKM, the Most Common Machine Gun In the World. Part 5](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-5/10611256)
 * [POTD: Winkler Knives Push Dagger EDC](https://www.thegunpage.com/potd-winkler-knives-push-dagger-edc/10611257)
 * [Wheelgun Wednesday: NEW Charter Arms Double Dog Revolver Series](https://www.thegunpage.com/wheelgun-wednesday-new-charter-arms-double-dog-revolver-series/10611258)
-* [NSSF Launches Resource Page For Vets About VA Health Care and Guns](https://www.thegunpage.com/nssf-launches-resource-page-for-vets-about-va-health-care-and-guns/10611254)
-* [Barrett Unveils Squad Support Rifle System (SSRS) at AUSA](https://www.thegunpage.com/barrett-unveils-squad-support-rifle-system-ssrs-at-ausa/10611253)
-* [Massachusetts Petition Drive Gaining Momentum](https://www.thegunpage.com/massachusetts-petition-drive-gaining-momentum/10611251)
-* [SIG SAUER Opens Jacksonville Arkansas Ammunition Center](https://www.thegunpage.com/sig-sauer-opens-jacksonville-arkansas-ammunition-center/10611247)
-* [H&K USA Unveils Its Inaugural Gun: The CC9](https://www.thegunpage.com/hk-usa-unveils-its-inaugural-gun-the-cc9/10611248)
-* [Gun-Ban Groups Spend Big and Sell Lies To Defeat Pro-Gun Candidates](https://www.thegunpage.com/gun-ban-groups-spend-big-and-sell-lies-to-defeat-pro-gun-candidates/10611245)
-* [ECC Debuts New FR Gloves](https://www.thegunpage.com/ecc-debuts-new-fr-gloves/10611242)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,15 +228,15 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Biden-Harris Admin Recalls Hundreds Of Electric Buses Amid Fire Concerns](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/#comment-782725)
+* charles wilkins on [Team Kamala](https://www.conservativedailynews.com/2024/10/team-kamala/#comment-782723)
+* Bill on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782720)
 * charles wilkins on [It’s the Economy, Stupid](https://www.conservativedailynews.com/2024/10/its-the-economy-stupid-2/#comment-782712)
 * Stan on [The Brat Energy Is Gone](https://www.conservativedailynews.com/2024/10/the-brat-energy-is-gone/#comment-782707)
 * charles wilkins on [Uncle Barack](https://www.conservativedailynews.com/2024/10/uncle-barack/#comment-782706)
 * William Wallace on [Tim Walz Let Slip What We Knew About The Left All Along](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/#comment-782701)
 * TMann on [President Joe Biden’s Schedule for Monday, October 14, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-14-2024/#comment-782685)
 * charles wilkins on [The Story Teller](https://www.conservativedailynews.com/2024/10/the-story-teller/#comment-782684)
-* charles wilkins on [Here’s How Much More Everyday Items Cost Than When You Voted Four Years Ago](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/#comment-782668)
-* Stanley Warner on [Democrat Policies are Killing Small Businesses](https://www.conservativedailynews.com/2024/10/democrat-policies-are-killing-small-businesses/#comment-782658)
-* charles wilkins on [Prominent Election Expert Suggests Pollsters ‘Have No Idea’ If They’re Accurately Measuring Trump Support](https://www.conservativedailynews.com/2024/10/prominent-election-expert-suggests-pollsters-have-no-idea-if-theyre-accurately-measuring-trump-support/#comment-782655)
 
 [Close](#)
 
