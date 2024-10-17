@@ -206,50 +206,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Shaun Gartshore
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=112321550)  
-Wiselink Broadband Vryheid
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=171076724)  
+Forgotten Goods (Pty) Ltd
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=74449534)  
-Imhoff Equestrian Centre
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=11184895)  
+Lizzy Pop PTY(Ltd)
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=45201671)  
-Entidee Enterprise PTY (ltd)
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=9931298)  
+Dombieterfontein (PTY) LTD
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=17969309)  
-Wiselink Broadband Pty Ltd
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=8296231)  
+webb it services
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=60537262)  
-MSPCloud (Pty) Ltd
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=163318723)  
+Norton Medical & Consult - Namibia
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=126997779)  
-FJW Security Cc
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=16538222)  
+Well Hung Art
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=213042621)  
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=33479067)  
+KTEN PARTS
+
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=102365012)  
+RADIO TYGERBERG 104FM NPC
+
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=59528649)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=90531659)  
+Stories (Pty) Ltd t/a Storietyd
+
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=9469248)  
+Cooper Power South Africa (Pty) LTD
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=132873188)  
+Baby Toddles Infant Care
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=8470087)  
+NEW BEGINNINGS DESIGNS
+
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=181277842)  
 M's Frozen Delights
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=119975177)  
-Sarabi
-
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=91830790)  
-Van Der Merwe Olieverspreiders
-
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=201577945)  
-Bloem Rugby Academy PTY (Ltd)
-
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=164198056)  
-WIP Digital Solutions
-
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=84546959)  
-Goju-Ryu Pretoria East
-
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=37761644)  
-Druce Digital
-
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=165501416)  
-Tagline Brands
-
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=50faedccf2bf47c318840219fbadcf69ad85a2a9e2bf790635a3a4df145d94f9&c=201075914)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=df85ee31c3a84f6cd0ab17c75f851fb5f4b8b1749ba621f34154596fd4b7a01e&c=56853310)  
+Karino Merinos ( PTY ) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
