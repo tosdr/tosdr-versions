@@ -14,7 +14,7 @@ You are here » [Home](https://www.seymourlerhn.com/) » Privacy Policy
 
 * [01246 622622](tel:01246622622)
 * [30-Day Free Membership](https://mailchi.mp/f802c89193c3/sign-up-website)
-* [Login](https://www.seymourlerhn.com/platform/)
+* [Login](https://mailchi.mp/f802c89193c3/sign-up-website)
 
 [](#)
 
