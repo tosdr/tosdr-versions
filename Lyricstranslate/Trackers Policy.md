@@ -137,67 +137,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
+[![Joshua Woods 3](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1583491-1688246744.png)](https://lyricstranslate.com/en/translator/joshua-woods-3 "Joshua Woods 3")
 
 New translation
 
-[ITZY - VAY](https://lyricstranslate.com/en/itzy-vay-ukrainian)
-
-English → Ukrainian
-
-[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
-
-New translation
-
-[ITZY - VAY](https://lyricstranslate.com/en/itzy-vay-russian)
-
-English → Russian
-
-[![novo_balanco](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611343-1725386152.jpg)](https://lyricstranslate.com/en/translator/novobalanco "novo_balanco")
-
-New translation
-
-[Lyubo Kirov - Последното решение (Poslednoto reshenie)](https://lyricstranslate.com/en/lyubo-kirov-poslednoto-reshenie-english)
-
-Bulgarian → English
-
-[![Serguei Batonov](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1587348-1691003603.jpg)](https://lyricstranslate.com/en/translator/serguei-batonov "Serguei Batonov")
-
-New comment
-
-Esta versión del poema no es completa. Faltan las...  [more](https://lyricstranslate.com/en/comment/1170085#comment-1170085)
-
-[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
-
-New translation
-
-[Bump of Chicken - 望遠のマーチ (Bouen no March)](https://lyricstranslate.com/en/bump-chicken-bouen-no-march-transliteration)
+[SATOMI' - Beautiful Life](https://lyricstranslate.com/en/satomi-beautiful-life-transliteration)
 
 Japanese → Transliteration
 
-[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
-
-New translation
-
-[Bump of Chicken - レム (Rem)](https://lyricstranslate.com/en/bump-chicken-rem-transliteration)
-
-Japanese → Transliteration
-
-[![Cemile Üre](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/cemile-%C3%BCre "Cemile Üre")
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
 
 New request
 
-[GISELLE (aespa) - Dopamine](https://lyricstranslate.com/en/request/dopamine-2)
+[Johnny Hallyday - Je ne danserai plus jamais](https://lyricstranslate.com/en/request/je-ne-danserai-plus-jamais)
 
-English → Turkish
+French → English
 
-[![Serguei Batonov](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1587348-1691003603.jpg)](https://lyricstranslate.com/en/translator/serguei-batonov "Serguei Batonov")
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
 
 New translation
 
-[Osip Mandelstam - Нежнее нежного (Nezhneye nezhnogo)](https://lyricstranslate.com/en/osip-mandelstam-nezhneye-nezhnogo-spanish)
+[Chatmonchy - ツマサキ (Tsumasaki)](https://lyricstranslate.com/en/chatmonchy-tsumasaki-transliteration)
 
-Russian → Spanish
+Japanese → Transliteration
+
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
+
+New song
+
+[Johnny Hallyday - Je ne danserai plus jamais](https://lyricstranslate.com/en/johnny-hallyday-je-ne-danserai-plus-jamai-lyrics)
+
+French
+
+[![Joshua Woods 3](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1583491-1688246744.png)](https://lyricstranslate.com/en/translator/joshua-woods-3 "Joshua Woods 3")
+
+New song
+
+[SATOMI' - Beautiful Life](https://lyricstranslate.com/en/satomi-beautiful-life-lyrics)
+
+Japanese
+
+[![D_000](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1330100-1653491284.jpg)](https://lyricstranslate.com/en/translator/d000 "D_000")
+
+New request
+
+[Zaz - Éblouie par la nuit](https://lyricstranslate.com/en/request/%C3%A9blouie-par-la-nuit-8)
+
+French → IPA
+
+[![Влада Лебедева](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633340-1729165612.jpg)](https://lyricstranslate.com/en/translator/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B0-%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%D0%B0 "Влада Лебедева")
+
+New song
+
+[Kate Earl - All that glitters](https://lyricstranslate.com/en/kate-earl-all-glitters-lyrics)
+
+English
+
+[![Влада Лебедева](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633340-1729165612.jpg)](https://lyricstranslate.com/en/translator/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B0-%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%D0%B0 "Влада Лебедева")
+
+New request
+
+[Kate Earl - All that glitters](https://lyricstranslate.com/en/request/all-glitters-1)
+
+English → Russian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
