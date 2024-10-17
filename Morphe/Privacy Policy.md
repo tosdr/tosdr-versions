@@ -6,7 +6,7 @@ Map of Australia Map of Canada Map of European Union United States United Kingdo
 
 Close×
 
-![](//www.morphe.com/cdn/shop/t/904/assets/shipping_icon.svg?v=127807994505907103401728322420)
+![](//www.morphe.com/cdn/shop/t/909/assets/shipping_icon.svg?v=127807994505907103401729102856)
 
   One or more of the items in your cart is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
 
@@ -33,13 +33,13 @@ Privacy Policy
 
 #### Free shipping on US orders $35+](https://www.morphe.com/collections/shop-all)
 
-* ![toggle mobile menu](//www.morphe.com/cdn/shop/t/904/assets/hamburger-icon-black.svg?v=37398962526372985731728322350)
-* ![Search](//www.morphe.com/cdn/shop/t/904/assets/search-icon-black.svg?v=109393770938569529511728322415)
+* ![toggle mobile menu](//www.morphe.com/cdn/shop/t/909/assets/hamburger-icon-black.svg?v=37398962526372985731729102782)
+* ![Search](//www.morphe.com/cdn/shop/t/909/assets/search-icon-black.svg?v=109393770938569529511729102851)
 
 [![Morphe logo](//www.morphe.com/cdn/shop/files/morphe_chrome_logo-new_400x.png?v=1704369663)](https://www.morphe.com/)
 
-* [Login](https://www.morphe.com/account/login)
-* ![Bag](//www.morphe.com/cdn/shop/t/904/assets/cart-icon-new.svg?v=164380968832671469731728322319)
+* [![Login](//www.morphe.com/cdn/shop/t/909/assets/dt-user-icon.svg?v=114168080545525583191729111916)](https://www.morphe.com/account/login)
+* ![Bag](//www.morphe.com/cdn/shop/t/909/assets/cart-icon-new.svg?v=164380968832671469731729102749)
     
     Items in cart 0
     
@@ -51,8 +51,6 @@ Main navigation
 
 * ### New
     
-    Show submenu for New
-    
     #### Featured
     
     [Shop All](https://www.morphe.com/collections/shop-new-arrivals) [NEW Holiday Drama](https://www.morphe.com/pages/holiday-drama) [Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful) [Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond) [Hot Shot Drops](https://www.morphe.com/pages/cheeks) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
@@ -63,17 +61,15 @@ Main navigation
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/904/assets/clock-icon.svg?v=42723469760392072181728322323) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
     
     #### 10 Morphe Makeup Must-Haves You Need for Summer
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/904/assets/clock-icon.svg?v=42723469760392072181728322323) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
     
 * ### Makeup
-    
-    Show submenu for Makeup
     
     #### Featured
     
@@ -97,11 +93,9 @@ Main navigation
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/904/assets/clock-icon.svg?v=42723469760392072181728322323) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)
     
 * ### Brushes & Tools
-    
-    Show submenu for Brushes & Tools
     
     #### Featured
     
@@ -121,17 +115,15 @@ Main navigation
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/904/assets/clock-icon.svg?v=42723469760392072181728322323) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
     
     #### 10 Morphe Makeup Must-Haves You Need for Summer
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/904/assets/clock-icon.svg?v=42723469760392072181728322323) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
     
 * ### Sets & Gifts
-    
-    Show submenu for Sets & Gifts
     
     #### Featured
     
@@ -147,18 +139,15 @@ Main navigation
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/904/assets/clock-icon.svg?v=42723469760392072181728322323) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
     
     #### 10 Morphe Makeup Must-Haves You Need for Summer
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/904/assets/clock-icon.svg?v=42723469760392072181728322323) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
     
-* [### Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
 * ### Discover
-    
-    Show submenu for Discover
     
     #### Artistry
     
@@ -182,18 +171,18 @@ Main navigation
     
     Aug 20, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/904/assets/clock-icon.svg?v=42723469760392072181728322323) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)
     
 
-[MORPHE2](https://www.morphe.com/collections/morphe-2)
+[Find your shade](https://www.morphe.com/pages/lightform-shade-finder)
 
-Choose your region USD$  [Stores](https://www.morphe.com/pages/store-locator) [Login](https://www.morphe.com/account/login)
+![Search](//www.morphe.com/cdn/shop/t/909/assets/dt-search-icon.svg?v=133757945041640155491729111915)
 
-![Search](//www.morphe.com/cdn/shop/t/904/assets/dt-search-icon.svg?v=101893264991972337941728322337)
-
-![Bag](//www.morphe.com/cdn/shop/t/904/assets/dt-cart-icon.svg?v=143133360700128768681728322337)
+ [![Login](//www.morphe.com/cdn/shop/t/909/assets/dt-user-icon.svg?v=114168080545525583191729111916)](https://www.morphe.com/account/login)![Bag](//www.morphe.com/cdn/shop/t/909/assets/dt-cart-icon.svg?v=122358542057934602441729111914)
 
 Items in cart 0
+
+Choose your region USD $ 
 
 When typing into this search field, autocomplete results will appear
 
@@ -210,21 +199,14 @@ The following text field filters the results that follow as you type. Use Tab to
 
  Or select from the list below:
 
-[MORPHE](https://www.morphe.com/) [MORPHE2](https://www.morphe.com/collections/morphe-2)
-
-* [Stores](https://www.morphe.com/pages/store-locator)
-* Choose your region USD$ 
-
 Main navigation
 ---------------
 
 * [ ] 
     
-    ### New
+    ### New 
     
-    #### 
-    
-    Featured
+    #### Featured 
     
     [Shop All](https://www.morphe.com/collections/shop-new-arrivals)
     
@@ -242,11 +224,9 @@ Main navigation
     
 * [ ] 
     
-    ### Makeup
+    ### Makeup 
     
-    #### 
-    
-    Featured
+    #### Featured 
     
     [Shop All](https://www.morphe.com/collections/all-makeup)
     
@@ -254,9 +234,7 @@ Main navigation
     
     [Exclusive Offers](https://www.morphe.com/collections/sale-items)
     
-    #### 
-    
-    Eyes
+    #### Eyes 
     
     [Eyeshadow & Palettes](https://www.morphe.com/collections/eyeshadow-palettes)
     
@@ -270,9 +248,7 @@ Main navigation
     
     [All Eye](https://www.morphe.com/collections/eye-makeup)
     
-    #### 
-    
-    Lips
+    #### Lips 
     
     [Lipstick](https://www.morphe.com/collections/lipstick)
     
@@ -282,9 +258,7 @@ Main navigation
     
     [All Lip](https://www.morphe.com/collections/all-lip)
     
-    #### 
-    
-    Face
+    #### Face 
     
     [Complexion](https://www.morphe.com/collections/face-complexion)
     
@@ -296,11 +270,9 @@ Main navigation
     
 * [ ] 
     
-    ### Brushes & Tools
+    ### Brushes & Tools 
     
-    #### 
-    
-    Featured
+    #### Featured 
     
     [Morphe Brush Guide](https://www.morphe.com/pages/the-morphe-guide-to-makeup-brushes)
     
@@ -310,9 +282,7 @@ Main navigation
     
     [Morphe x Ariel](https://www.morphe.com/pages/morphe-x-ariel)
     
-    #### 
-    
-    Makeup Brushes
+    #### Makeup Brushes 
     
     [Brush Sets](https://www.morphe.com/collections/makeup-brush-sets)
     
@@ -322,9 +292,7 @@ Main navigation
     
     [Vegan Brushes](https://www.morphe.com/collections/vegan-pro-brushes)
     
-    #### 
-    
-    Makeup Tools
+    #### Makeup Tools 
     
     [Sponges & Applicators](https://www.morphe.com/collections/makeup-sponges-applicators)
     
@@ -332,11 +300,9 @@ Main navigation
     
 * [ ] 
     
-    ### Sets & Gifts
+    ### Sets & Gifts 
     
-    #### 
-    
-    Featured
+    #### Featured 
     
     [Shop All](https://www.morphe.com/collections/best-gifts)
     
@@ -348,9 +314,7 @@ Main navigation
     
     [Exclusive Bundles](https://www.morphe.com/collections/exclusive-bundles)
     
-    #### 
-    
-    Gift By Price
+    #### Gift By Price 
     
     [$10 and Under](https://www.morphe.com/collections/10-and-under)
     
@@ -358,14 +322,11 @@ Main navigation
     
     [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
     
-* [Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
 * [ ] 
     
-    ### Discover
+    ### Discover 
     
-    #### 
-    
-    Artistry
+    #### Artistry 
     
     [Artistry Diaries](https://www.morphe.com/blogs/artistry-diaries)
     
@@ -375,17 +336,13 @@ Main navigation
     
     [Who we are](https://www.morphe.com/pages/about-morphe)
     
-    #### 
-    
-    Collabs
+    #### Collabs 
     
     [Morphe X Ariel](https://www.morphe.com/pages/morphe-x-ariel)
     
     [Morphe X Meredith](https://www.morphe.com/collections/morphe-x-meredith-duxbury)
     
-    #### 
-    
-    Conscious Beauty
+    #### Conscious Beauty 
     
     [Vegan Makeup](https://www.morphe.com/collections/vegan)
     
@@ -393,9 +350,7 @@ Main navigation
     
     [Clean Beauty](https://www.morphe.com/collections/morphe2)
     
-    #### 
-    
-    Trending Now
+    #### Trending Now 
     
     [Festival Shop](https://www.morphe.com/pages/festival-shop)
     
@@ -404,19 +359,12 @@ Main navigation
     [Cloud Skin](https://www.morphe.com/collections/cloud-skin)
     
 
-[![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
+* [Stores](https://www.morphe.com/pages/store-locator)
+* [Contact Us](https://www.morphe.com/pages/contact)
 
-#### How To Prep & Set Your Makeup All Summer
+Choose your region USD $ 
 
-Aug 20, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/904/assets/clock-icon.svg?v=42723469760392072181728322323) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
-
-#### 10 Morphe Makeup Must-Haves You Need for Summer
-
-Aug 20, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/904/assets/clock-icon.svg?v=42723469760392072181728322323) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+[Find your shade](https://www.morphe.com/pages/lightform-shade-finder)
 
 Privacy Policy
 ==============
@@ -633,6 +581,8 @@ Sign up for email updates to be the first to receive our gift guides, product sp
   Submit
 
 By entering your email you agree to receive marketing communications from Morphe at the email address provided. View our [Privacy Policy](https://www.morphe.com/pages/privacy-policy).
+
+![](//www.morphe.com/cdn/shop/files/MORPHE_CHROME_LOGO_master_1.png?v=1707917900&width=1600)
 
 Satisfaction guaranteed
 -----------------------
