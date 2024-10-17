@@ -24,6 +24,7 @@ Menu
     * [Neighborhood Safety Network](https://www.cpsc.gov/Safety-Education/Neighborhood-Safety-Network)
     * [Community Outreach Center](https://www.cpsc.gov/Safety-Education/Community-Outreach-Resource-Center)
     * [Recall App](https://www.cpsc.gov/Data)
+    * [Multimedia](https://www.cpsc.gov/Newsroom/Multimedia)
 * Business & Manufacturing
     * [Business & Manufacturing Resources](https://www.cpsc.gov/Business--Manufacturing)
     * [Testing & Certification](https://www.cpsc.gov/Business--Manufacturing/Testing-Certification)
