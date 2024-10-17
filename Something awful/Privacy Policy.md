@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Slacker Music FAQ](https://www.somethingawful.com/garbage-day/slacker-music-faq/1/)
-* [Bad-Ass Presidential Moments!](https://www.somethingawful.com/photoshop-phriday/badass-presidential-moments/1/)
-* [The Big Ten List of Little People](https://www.somethingawful.com/news/top-ten-midgets/1/)
-* [Bareback Exchange](https://www.somethingawful.com/weekend-web/bareback-exchange/1/)
+* [Children's Books](https://www.somethingawful.com/photoshop-phriday/childrens-books/1/)
+* [Magazine Mayhem 3 (Part One)](https://www.somethingawful.com/photoshop-phriday/magazine-mayhem3/1/)
+* [Techwank: Only the Most Infuriating Upcoming Tech Headlines](https://www.somethingawful.com/news/annoying-tech-headlines/)
+* [We're Bringing Sexy Back](https://www.somethingawful.com/great-goon-database/great-goon-sexy/1/)
 * [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) ["World's/international <thing no one cares about> day" ideas](http://forums.somethingawful.com/showthread.php?threadid=4072795 ""World's/international <thing no one cares about> day" ideas")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/movies.png) [In Alien Romulus](http://forums.somethingawful.com/showthread.php?threadid=4072809 "In Alien Romulus")
 * ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Thinking about replacing all the dishes in my house with custard cups](http://forums.somethingawful.com/showthread.php?threadid=4072806 "Thinking about replacing all the dishes in my house with custard cups")
+* ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [Singer Liam Payne fell One Direction (down) off a hotel balcony and died](http://forums.somethingawful.com/showthread.php?threadid=4072830 "Singer Liam Payne fell One Direction (down) off a hotel balcony and died")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/movies.png) [In Alien Romulus](http://forums.somethingawful.com/showthread.php?threadid=4072809 "In Alien Romulus")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) ["World's/international <thing no one cares about> day" ideas](http://forums.somethingawful.com/showthread.php?threadid=4072795 ""World's/international <thing no one cares about> day" ideas")
 
 ### Random Articles
 
-* [Flashback Retro Gaming: Drug Exterminators (1990)](https://www.somethingawful.com/news/nes-drug-war/)
-* [How to be a Writer: Step 1](https://www.somethingawful.com/news/writer-tips/1/)
-* [The Most Bachelor Thing You've Done!](https://www.somethingawful.com/comedy-goldmine/bachelor-gross-beer/1/)
-* [President Trump Compliments Video Game Villains](https://www.somethingawful.com/video-game-article/trump-villain-compliments/)
-* [Jefferson Lives](https://www.somethingawful.com/news/jefferson-lives/)
+* [Fashion Forum, MovieCodec, and TeenHavon](https://www.somethingawful.com/weekend-web/fashion-forum-moviecodec/1/)
+* [Outdated GPS Devices: Where Are They Now?](https://www.somethingawful.com/news/gps-where-now/)
+* [Guff Hamham](https://www.somethingawful.com/flash-tub/guff-hamham-cartoon/)
+* [The Least Essential Wikipedia Pages](https://www.somethingawful.com/comedy-goldmine/worthless-wikipedia-pages/1/)
+* [Facebook's Latest Censorship Guidelines Revealed](https://www.somethingawful.com/feature-articles/facebook-zuckerberg-abuse/)
 
 [Random!](https://www.somethingawful.com/random/)
 
