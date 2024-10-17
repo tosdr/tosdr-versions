@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/de-kankerwerende-eigenschappen-van-hennep/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/reizigers-uit-veilig-gevaccineerd-israel-verboden/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
