@@ -381,8 +381,6 @@ GDPR and LevelBlue
 
 The European Union's data privacy regulation called the General Data Protection Regulation (GDPR) became effective on May 25, 2018. The GDPR strengthens the privacy rights granted to EU individuals and introduces new and enhanced obligations on how organizations worldwide will collect, use, and manage personal data.
 
-(If interested, here’s additional information about GDPR: [https://www.dataiq.co.uk/blog/summary-eu-general-data-protection-regulation](https://www.dataiq.co.uk/blog/summary-eu-general-data-protection-regulation))
-
 **LevelBlue Customers:**
 
 If you are a customer of LevelBlue, you can access our Customer Data Processing Addendum here: [https://cybersecurity.att.com/legal/gdpr/customers](https://www.alienvault.com/legal/gdpr/customers)
