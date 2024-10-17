@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Israeli Military Checking Whether Hamas Leader Among 3 Killed](https://www.theepochtimes.com/world/israeli-military-checking-reports-hamas-leader-yahya-sinwar-is-dead-5742948)
+    
+    1hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Israeli Military Checking Whether Hamas Leader Among 3 Killed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israeli Military Checking Whether Hamas Leader Among 3 Killed](https://img.theepochtimes.com/assets/uploads/2024/09/03/id5717613-GettyImages-1243644178KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/israeli-military-checking-reports-hamas-leader-yahya-sinwar-is-dead-5742948)
+* [Fani Willis Asks Appeals Court to Reinstate 6 Charges Against Trump in Georgia Election Case](https://www.theepochtimes.com/us/fani-willis-asks-appeals-court-to-reinstate-6-charges-against-trump-in-georgia-election-case-5742792)
+    
+    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![Fani Willis Asks Appeals Court to Reinstate 6 Charges Against Trump in Georgia Election Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Fani Willis Asks Appeals Court to Reinstate 6 Charges Against Trump in Georgia Election Case](https://img.theepochtimes.com/assets/uploads/2024/03/15/id5607968-Fani-Willis-GettyImages-1615631732-LSedit-2-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/fani-willis-asks-appeals-court-to-reinstate-6-charges-against-trump-in-georgia-election-case-5742792)
+* [LIVE: 7th NTD International Piano Competition Semifinals](https://www.theepochtimes.com/epochtv/7th-ntd-international-piano-competition-semifinals-5736335)
+    
+    4hr By [Epoch Video](https://www.theepochtimes.com/author/epoch-video)
+    
+    [![LIVE: 7th NTD International Piano Competition Semifinals](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![LIVE: 7th NTD International Piano Competition Semifinals](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741236-2024-PIANO-COMPETITION-SEMIFINALS-1920-x-1080-205x123.jpg.webp)](https://www.theepochtimes.com/epochtv/7th-ntd-international-piano-competition-semifinals-5736335)
+* [US B-2 Stealth Bombers Target Houthi Weapons Storage Bunkers in Yemen](https://www.theepochtimes.com/world/us-b-2-stealth-bombers-target-houthi-weapons-storage-bunkers-in-yemen-5742853)
+    
+    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![US B-2 Stealth Bombers Target Houthi Weapons Storage Bunkers in Yemen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US B-2 Stealth Bombers Target Houthi Weapons Storage Bunkers in Yemen](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742932-GettyImages-452289750-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-b-2-stealth-bombers-target-houthi-weapons-storage-bunkers-in-yemen-5742853)
+* [Takeaways From New York’s 17th Congressional District Debate](https://www.theepochtimes.com/us/takeaways-from-new-yorks-17th-congressional-district-debate-5742784)
+    
+    6hr By [Juliette Fairley](https://www.theepochtimes.com/author/juliette-fairley)
+    
+    [![Takeaways From New York’s 17th Congressional District Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Takeaways From New York’s 17th Congressional District Debate](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742901-Mike-Lawler-Mondaire-Jones-Cover-205x123.jpg.webp)](https://www.theepochtimes.com/us/takeaways-from-new-yorks-17th-congressional-district-debate-5742784)
 * [Biden to Focus on Ukraine War and Other International Challenges in Germany Visit](https://www.theepochtimes.com/world/biden-to-focus-on-ukraine-war-and-other-international-challenges-in-germany-visit-5742701)
     
-    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    6hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Biden to Focus on Ukraine War and Other International Challenges in Germany Visit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden to Focus on Ukraine War and Other International Challenges in Germany Visit](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742885-Olaf-Scholz-Biden-205x123.jpg)](https://www.theepochtimes.com/world/biden-to-focus-on-ukraine-war-and-other-international-challenges-in-germany-visit-5742701)
+    ![Biden to Focus on Ukraine War and Other International Challenges in Germany Visit](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742931-Olaf-Scholz-Biden-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-to-focus-on-ukraine-war-and-other-international-challenges-in-germany-visit-5742701)
 * [Raytheon to Pay Over $950 Million in Settlement Over Fraud, Bribery, and Export Violations](https://www.theepochtimes.com/us/raytheon-to-pay-over-950-million-in-settlement-over-fraud-bribery-and-export-violations-5742560)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Raytheon to Pay Over $950 Million in Settlement Over Fraud, Bribery, and Export Violations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Raytheon to Pay Over $950 Million in Settlement Over Fraud, Bribery, and Export Violations](https://img.theepochtimes.com/assets/uploads/2021/11/20/2021-11-19T220230Z_1_LYNXMPEHAI17V_RTROPTP_4_RAYTHEON-RESULTS-205x123.jpeg.webp)](https://www.theepochtimes.com/us/raytheon-to-pay-over-950-million-in-settlement-over-fraud-bribery-and-export-violations-5742560)
-* [Biden Races to Cement US Influence in Africa](https://www.theepochtimes.com/us/biden-races-to-cement-us-influence-in-africa-5742675)
+    ![Raytheon to Pay Over $950 Million in Settlement Over Fraud, Bribery, and Export Violations](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742930-2021-11-19T220230Z_1_LYNXMPEHAI17V_RTROPTP_4_RAYTHEON-RESULTS-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/raytheon-to-pay-over-950-million-in-settlement-over-fraud-bribery-and-export-violations-5742560)
+* [Biden Looks to Cement US Influence in Africa](https://www.theepochtimes.com/us/biden-races-to-cement-us-influence-in-africa-5742675)
     
-    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor)
+    7hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Darren Taylor](https://www.theepochtimes.com/author/darren-taylor)
     
-    [![Biden Races to Cement US Influence in Africa](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Looks to Cement US Influence in Africa](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Races to Cement US Influence in Africa](https://img.theepochtimes.com/assets/uploads/2022/12/15/Biden-Africa-Summit-GettyImages-1245632553-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-races-to-cement-us-influence-in-africa-5742675)
+    ![Biden Looks to Cement US Influence in Africa](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742929-Biden-Africa-Summit-GettyImages-1245632553-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-races-to-cement-us-influence-in-africa-5742675)
 * [New York’s US House Races That May Decide Control of the Chamber](https://www.theepochtimes.com/us/new-york-house-races-that-may-decide-control-of-the-chamber-5740108)
     
-    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    7hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
     [![New York’s US House Races That May Decide Control of the Chamber](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![New York’s US House Races That May Decide Control of the Chamber](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737080-10072024-DSC03104-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-house-races-that-may-decide-control-of-the-chamber-5740108)
 * [Early In-Person Voting Begins in Helene-Battered North Carolina](https://www.theepochtimes.com/us/early-in-person-voting-begins-in-helene-battered-north-carolina-5742282)
     
-    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    7hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![Early In-Person Voting Begins in Helene-Battered North Carolina](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Early In-Person Voting Begins in Helene-Battered North Carolina](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737556-GettyImages-2177177639-205x123.jpg.webp)](https://www.theepochtimes.com/us/early-in-person-voting-begins-in-helene-battered-north-carolina-5742282)
-* [5 Takeaways From the Only Texas Senate Race Debate](https://www.theepochtimes.com/us/5-takeaways-from-the-only-texas-senate-race-debate-5742443)
-    
-    1hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
-    
-    [![5 Takeaways From the Only Texas Senate Race Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![5 Takeaways From the Only Texas Senate Race Debate](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742837-Election_2024_Texas_Senate_24290038543069-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-takeaways-from-the-only-texas-senate-race-debate-5742443)
-* [3 Takeaways From Harris’s Fox News Interview](https://www.theepochtimes.com/us/harris-fields-tough-questions-in-fox-news-interview-5742725)
-    
-    7hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![3 Takeaways From Harris’s Fox News Interview](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![3 Takeaways From Harris’s Fox News Interview](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742800-Harris-Fox-News-205x123.png.webp)](https://www.theepochtimes.com/us/harris-fields-tough-questions-in-fox-news-interview-5742725)
-* [Supreme Court Grapples With San Francisco’s Challenge to EPA Wastewater Permit Rules](https://www.theepochtimes.com/us/supreme-court-grapples-with-san-franciscos-challenge-to-epa-wastewater-permit-rules-5742363)
-    
-    8hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Supreme Court Grapples With San Francisco’s Challenge to EPA Wastewater Permit Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court Grapples With San Francisco’s Challenge to EPA Wastewater Permit Rules](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737036-10072024-DSC03070-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-grapples-with-san-franciscos-challenge-to-epa-wastewater-permit-rules-5742363)
-* [Man Arrested Outside Trump Rally Sues California Sheriff Over Assassination Claims](https://www.theepochtimes.com/us/man-arrested-outside-trump-rally-sues-california-sheriff-over-assassination-claims-5742487)
-    
-    9hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Man Arrested Outside Trump Rally Sues California Sheriff Over Assassination Claims](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Man Arrested Outside Trump Rally Sues California Sheriff Over Assassination Claims](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742662-GettyImages-2178151545-205x123.jpg.webp)](https://www.theepochtimes.com/us/man-arrested-outside-trump-rally-sues-california-sheriff-over-assassination-claims-5742487)
-* [Georgia Judge Blocks 7 Election Rules as 2024 Voting Begins](https://www.theepochtimes.com/us/georgia-judge-blocks-7-election-rules-as-2024-voting-begins-5742705)
-    
-    10hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![Georgia Judge Blocks 7 Election Rules as 2024 Voting Begins](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Georgia Judge Blocks 7 Election Rules as 2024 Voting Begins](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741949-Georgia-Vote-2_JF_10142024-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-blocks-7-election-rules-as-2024-voting-begins-5742705)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
