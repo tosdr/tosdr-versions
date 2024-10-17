@@ -394,14 +394,6 @@ Nothing contained in this Agreement limits Fox’s right to comply with governme
 
 Please contact the Site Administrator with any questions regarding this Agreement by sending an email to: [**Terms-KDFW@fox.com**](mailto:Terms-KDFW@fox.com)
 
-[![Former One Direction star Liam Payne dies after fall from hotel floor](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/liam-payne-one-direction.jpg?ve=1&tl=1)](https://www.fox4news.com/news/one-direction-liam-payne-dies)
-
-BREAKING NEWS
-
-[Former One Direction star Liam Payne dies after fall from hotel: Reports](https://www.fox4news.com/news/one-direction-liam-payne-dies)
-
-[Former One Direction singer Liam Payne has reportedly died after falling from the third floor of a hotel in Buenos Aires, Argentina.](https://www.fox4news.com/news/one-direction-liam-payne-dies)
-
 ###### [News](https://www.fox4news.com/news)
 
 * [Local News](https://www.fox4news.com/local-news)
