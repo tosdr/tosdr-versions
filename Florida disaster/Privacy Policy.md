@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Wednesday, October 16, 2024**
+**Thursday, October 17, 2024**
 
-**...Cold Front Continues to Move Southward Through the Peninsula, Bringing Coolest Temperatures of the Season...Mostly Dry Conditions Across the State Throughout the Day...Isolated to Widely Scattered Showers with Embedded Thunderstorms Along Central Florida Coastlines, South Florida, and The Keys...Breezy Winds Statewide With Gusts Upwards of 15-30 MPH...Relative Humidity Values Near Critical Thresholds Across North Florida Today (25-35%); Red Flag Warnings in Effect Along the Florida Panhandle for Sensitive to Critical Wildfire Conditions...Instances of Minor to Locally Moderate Coastal Flooding Along Tidal Portions of the St. Johns River; Coastal Flood Advisories Remain in Effect...King Tides Developing to Bring Minor to Locally Moderate Coastal Flooding Along the East Coast, South Florida, and Keys...Low to Moderate Risk for Rip Currents Statewide...Widespread Riverine Flooding Continues Throughout West-Central, Central, and Northeast Florida and St. Johns River...NHC Continues to Monitor Two Disturbances Within Atlantic Basin...**
+**...Cool, Dry, and PLeasant Conditions Nearly Statewide As High Pressure Builds In Behind the Recent Cold Front...Isolated to Widely Scattered Showers with Embedded Thunderstorms Along Far Southern Peninsula and Keys...Breezy Northerly to Northeastery Winds Along the Peninsula and Keys With Gusts Up to 35 MPH; Wind Advisories In Effect Along the Southeast Coast...Relative Humidity Values Near Critical Thresholds Across the Florida Panhandle and Suwannee Valley (25-40%); Sensitive Wildfire Conditions Possible...Minor to Moderate Coastal Flooding Along Tidal Portions of the St. Johns River; Coastal Flood Warnigns and Advisories In Effect...****Developing** **King Tides to Bring Minor to Locally Moderate Coastal Flooding Along the East Coast and Keys; Coastal Flood Advisories and Statements in Effect...Moderate to High Risk for Rip Currents Statewide...Widespread Riverine Flooding Continues Throughout West-Central, Central, and Northeast Florida and St. Johns River...NHC Continues to Monitor Two Disturbances Within Atlantic Basin...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
