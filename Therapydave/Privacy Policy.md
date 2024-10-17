@@ -114,7 +114,7 @@ Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
-_“At first I thought I had to do what everyone else wanted and that I just had to get through the day meeting everyone’s demands. Then I learned that I can state my boundaries and what I will and won’t do and what I do and don’t want to do. And people actually respected that (the majority of people, there’s still people who try to push and get what they want more than anything).”_
+_“A lot of times I didn’t let myself be happy. After working with Dave, I’ve learned to change my focus. I’m not lying to myself anymore, I’m just allowing myself to just let it happen.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
