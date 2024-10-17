@@ -36,24 +36,22 @@ FOX SCORES
     | NZL |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250301)
-* [Women's T20
+* [Women's T20 WC
     
-    SYDT won by 61 runs
-    
-    |     |     |
-    | --- | --- |
-    | SYDT | 3 /183 |
-    | PER | 9 /122 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250116)
-* [Women's T20
-    
-    17/10 10:00 AEST
+    18/10 1:00 AEST
     
     |     |     |
     | --- | --- |
-    | SYDT | –   |
-    | SYD6 | –   |
+    | AUS | –   |
+    | RSA | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250201)
+* [Women's T20
+    
+    |     |     |
+    | --- | --- |
+    | SYDT | 1 /72 |
+    | SYD6 | 9 /114 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250117)
 * [Women's T20
@@ -170,12 +168,12 @@ FOX SCORES
     
 * [MLB
     
-    17/10 11:08 AEST
+    Bottom 5th Innings
     
     |     |     |
     | --- | --- |
-    | NYM | –   |
-    | LAD | –   |
+    | NYM | 0   |
+    | LAD | 2   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002434AC)
 
@@ -814,7 +812,6 @@ FOX SCORES
 
 [Football](https://www.foxsports.com.au/video/football)
 
-* [EPL](https://www.foxsports.com.au/video/football/epl)
 * [A-League](https://www.foxsports.com.au/video/football/a-league)
 * [Women's World Cup](https://www.foxsports.com.au/video/football/womens-world-cup)
 * [Asian Cup](https://www.foxsports.com.au/video/football/asian-cup)
