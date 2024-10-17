@@ -309,6 +309,18 @@ _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
 _By_ [Elizabeth Landau](https://www.quantamagazine.org/authors/landau_liz)
 
+[![An astronaut floats in front of a black hole, which is sucking various shapes and objects into it.](https://www.quantamagazine.org/wp-content/uploads/2024/09/MainSpaceTime-crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/)
+
+[#### The Unraveling of Space-Time](https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/)
+
+_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood) [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett) [Amanda Gefter](https://www.quantamagazine.org/authors/amanda-gefter) [Emily Buder](https://www.quantamagazine.org/authors/ebuder) [Mark Belan](https://www.quantamagazine.org/authors/markbelan) [Natalie Wolchover](https://www.quantamagazine.org/authors/natalie)
+
+[![Lenka Zdeborová in a tan sweater stands outside in a large pavilion](https://www.quantamagazine.org/wp-content/uploads/2024/10/LenkaZderborova-crSamuelRubio-Thumbnail.webp)](https://www.quantamagazine.org/the-computer-scientist-who-builds-big-pictures-from-small-details-20241007/)
+
+[#### The Computer Scientist Who Builds Big Pictures From Small Details](https://www.quantamagazine.org/the-computer-scientist-who-builds-big-pictures-from-small-details-20241007/)
+
+_By_ [John Pavlus](https://www.quantamagazine.org/authors/john-pavlus)
+
 The Quanta Newsletter
 
 _Get highlights of the most important news delivered to your email inbox_
