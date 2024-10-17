@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-WOW!! YOU GUYS ARE GOOD!!!! You can use this as a testimonial if you want, with my middle name, Natalie if you want. And my location is Vancouver, BC. The main reason I've had foxyproxy for years is so I can watch American Netflix and buy movies on Amazon US. Here in Canada, our selection is a lot more limited, and usually several seasons behind what's available in the US. Again, thanks!! That information you gave me goes above and beyond just proxy services.
+I just made a new subscription. Thanks again for helping me. Your support is really great!
 
-Lana Natalie Asprey
+Carsten Thienemann
