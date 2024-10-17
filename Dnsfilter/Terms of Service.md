@@ -441,7 +441,7 @@ AS64089
 
 ### Leave a Review
 
- [![google](https://www.dnsfilter.com/hubfs/Dnsfilter_March2023/images/gooogle.svg)](https://g.page/r/CWYqY6gPdEchEB0/review)[![g2](https://www.dnsfilter.com/hubfs/Dnsfilter_March2023/images/g2.svg)](https://www.g2.com/products/dnsfilter/reviews/start)[![capterra](https://www.dnsfilter.com/hubfs/Dnsfilter_March2023/images/capterra.svg)](https://reviews.capterra.com/new/156036)[![Gartner Peer Insights_Logo](https://www.dnsfilter.com/hubfs/Dnsfilter_March2023/images/Gartner%20Peer%20Insights_Logo.svg)](https://www.gartner.com/reviews/market/endpoint-protection-platforms/vendor/dnsfilter/product/dnsfilter)
+ [![google](https://www.dnsfilter.com/hubfs/Dnsfilter_March2023/images/gooogle.svg)](https://g.page/r/CWYqY6gPdEchEB0/review)[![g2](https://www.dnsfilter.com/hubfs/Dnsfilter_March2023/images/g2.svg)](https://www.g2.com/products/dnsfilter/reviews/start)[![capterra](https://www.dnsfilter.com/hubfs/Dnsfilter_March2023/images/capterra.svg)](https://reviews.capterra.com/new/156036)[![Gartner Peer Insights_Logo](https://www.dnsfilter.com/hubfs/Dnsfilter_March2023/images/Gartner%20Peer%20Insights_Logo.svg)](https://www.gartner.com/reviews/market/security-solutions-others/vendor/dnsfilter/product/dnsfilter)
 
 ### Follow Us
 
