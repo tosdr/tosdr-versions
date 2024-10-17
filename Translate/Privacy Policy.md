@@ -729,7 +729,7 @@ This Agreement, including these terms and conditions (Terms), constitutes a lega
 
 For Customers
 
-* [Translation Services](https://www.translate.com/services)
+* [Translate Services](https://www.translate.com/services)
 * [Online Document Translation Service](https://www.translate.com/services/document-translation)
 * [Business translation](https://www.translate.com/services/business-translation)
 * [Medical translation](https://www.translate.com/services/medical-translation)
