@@ -533,15 +533,20 @@ Webseite erstellt durch [BC Media](mailto:info@bc-mediaservice.de)
 
 [Page load link](#)
 
-**BITTE BEACHTEN!**
+Bitte beachten!
+===============
 
-Bei einem medizinischen Notfall oder Lebensgefahr wählen Sie sofort die
+Bei einem medizinischen Notfall oder Lebensgefahr  
+wählen Sie sofort die
 
-**112.**
+  112
+=====
 
-Für gesundheitliche oder medizinische Beratungen wenden Sie sich bitte an die
+Für gesundheitliche oder medizinische Beratungen  
+wenden Sie sich bitte an die
 
-**116117.**
+116117.
+=======
 
 ##### Datenschutz Einstellungen
 
@@ -623,6 +628,6 @@ Unterstützt von [![CookieYes Logo](https://rettungsdienst-tf.de/wp-content/plug
 
 [![web analytics](https://c.statcounter.com/12513782/0/65642dfa/1/)](https://statcounter.com/ "web analytics")
 
-                                                                   
+                                                                 
 
 [Nach oben](#)
