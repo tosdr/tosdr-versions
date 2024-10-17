@@ -149,36 +149,36 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
-* MAKE AN IMPACT ✨
-* 💗 SAVE $30 and WE'LL DONATE $10 TO [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
+* 🎃 SHOP our [SPOOKY SALE](https://www.bosu.com/collections/halloween-collection "Halloween Collection") - GET 15% OFF 🎃
+* 💗 AND SAVE $30 FOR [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
 * Free shipping over $100 📦
-* MAKE AN IMPACT ✨
-* 💗 SAVE $30 and WE'LL DONATE $10 TO [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
+* 🎃 SHOP our [SPOOKY SALE](https://www.bosu.com/collections/halloween-collection "Halloween Collection") - GET 15% OFF 🎃
+* 💗 AND SAVE $30 FOR [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
 * Free shipping over $100 📦
-* MAKE AN IMPACT ✨
-* 💗 SAVE $30 and WE'LL DONATE $10 TO [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
+* 🎃 SHOP our [SPOOKY SALE](https://www.bosu.com/collections/halloween-collection "Halloween Collection") - GET 15% OFF 🎃
+* 💗 AND SAVE $30 FOR [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
 * Free shipping over $100 📦
-* MAKE AN IMPACT ✨
-* 💗 SAVE $30 and WE'LL DONATE $10 TO [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
+* 🎃 SHOP our [SPOOKY SALE](https://www.bosu.com/collections/halloween-collection "Halloween Collection") - GET 15% OFF 🎃
+* 💗 AND SAVE $30 FOR [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
 * Free shipping over $100 📦
-* MAKE AN IMPACT ✨
-* 💗 SAVE $30 and WE'LL DONATE $10 TO [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
+* 🎃 SHOP our [SPOOKY SALE](https://www.bosu.com/collections/halloween-collection "Halloween Collection") - GET 15% OFF 🎃
+* 💗 AND SAVE $30 FOR [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
 
 * Free shipping over $100 📦
-* MAKE AN IMPACT ✨
-* 💗 SAVE $30 and WE'LL DONATE $10 TO [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
+* 🎃 SHOP our [SPOOKY SALE](https://www.bosu.com/collections/halloween-collection "Halloween Collection") - GET 15% OFF 🎃
+* 💗 AND SAVE $30 FOR [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
 * Free shipping over $100 📦
-* MAKE AN IMPACT ✨
-* 💗 SAVE $30 and WE'LL DONATE $10 TO [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
+* 🎃 SHOP our [SPOOKY SALE](https://www.bosu.com/collections/halloween-collection "Halloween Collection") - GET 15% OFF 🎃
+* 💗 AND SAVE $30 FOR [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
 * Free shipping over $100 📦
-* MAKE AN IMPACT ✨
-* 💗 SAVE $30 and WE'LL DONATE $10 TO [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
+* 🎃 SHOP our [SPOOKY SALE](https://www.bosu.com/collections/halloween-collection "Halloween Collection") - GET 15% OFF 🎃
+* 💗 AND SAVE $30 FOR [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
 * Free shipping over $100 📦
-* MAKE AN IMPACT ✨
-* 💗 SAVE $30 and WE'LL DONATE $10 TO [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
+* 🎃 SHOP our [SPOOKY SALE](https://www.bosu.com/collections/halloween-collection "Halloween Collection") - GET 15% OFF 🎃
+* 💗 AND SAVE $30 FOR [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
 * Free shipping over $100 📦
-* MAKE AN IMPACT ✨
-* 💗 SAVE $30 and WE'LL DONATE $10 TO [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
+* 🎃 SHOP our [SPOOKY SALE](https://www.bosu.com/collections/halloween-collection "Halloween Collection") - GET 15% OFF 🎃
+* 💗 AND SAVE $30 FOR [BREAST CANCER AWARENESS](https://www.bosu.com/products/bosu%C2%AE-pink-nexgen-pink-pods-bundle "BOSU® Pink NexGen + Pink Pods Bundle - Breast Cancer Awareness") 💗
 
 Terms of service
 ================
