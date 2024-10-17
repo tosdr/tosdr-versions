@@ -12,7 +12,9 @@ plans and pricing
 
 [standard](https://keys.casa/standard)[premium](https://keys.casa/premium)[private client](https://keys.casa/private-client)[ENTERPRISE](http://contact.casa.io/institutional)[compare pricing](https://keys.casa/pricing)
 
-[blog](https://blog.casa.io/)
+RESOURCES
+
+[SUPPORT](https://support.casa.io/)[BLOG](https://blog.casa.io/)
 
 [log in](http://app.keys.casa/?ga=Ry0xVlo1Wk1OSEtZIDE3MTQ1ODEwNDIgMTcxODQzMTQ2LjE2OTc4MjIwODc-)[Sign Up](https://keys.casa/pricing)
 
