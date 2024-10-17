@@ -1,6 +1,7 @@
 [Skip to content](#MainContent)
 
-### NEW X-Tech Vegan Leather Colors || [Shop Now](https://www.xchair.com/pages/xtech-limited-edition "The Limited Edition X-Tech Collection")
+15% OFF OFFICE CHAIRS >> SIGN UP NOW!
+-------------------------------------
 
 [](https://www.xchair.com/)
 
