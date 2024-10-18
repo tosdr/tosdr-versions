@@ -20,16 +20,16 @@ Friday, October 18 2024
 
 Latest
 
-* [Google Chrome Is Fixing Autofill on Android Phones](https://digitpatrox.com/google-chrome-is-fixing-autofill-on-android-phones/)
-* [A Complete Guide For 2024](https://digitpatrox.com/a-complete-guide-for-2024/)
-* [No, not pull-ups — personal trainer recommends this one exercise that builds upper body strength without weights](https://digitpatrox.com/no-not-pull-ups-personal-trainer-recommends-this-one-exercise-that-builds-upper-body-strength-without-weights/)
-* [Fake Google Meet conference errors push infostealing malware](https://digitpatrox.com/fake-google-meet-conference-errors-push-infostealing-malware/)
-* [Amazon will stream a live election special hosted by Brian Williams](https://digitpatrox.com/amazon-will-stream-a-live-election-special-hosted-by-brian-williams/)
-* [How to Post Anonymously on Facebook](https://digitpatrox.com/how-to-post-anonymously-on-facebook/)
-* [How to remove mugshots from the internet](https://digitpatrox.com/how-to-remove-mugshots-from-the-internet/)
-* [About that brawl between the WordPress co-founder and WP Engine… – Computerworld](https://digitpatrox.com/about-that-brawl-between-the-wordpress-co-founder-and-wp-engine-computerworld/)
-* [The Best Horror Movies That Aren’t Too Scary to Watch With Your Kids](https://digitpatrox.com/the-best-horror-movies-that-arent-too-scary-to-watch-with-your-kids/)
-* [Ransomware gang claims it breached Tennessee school district, disrupted internet access](https://digitpatrox.com/ransomware-gang-claims-it-breached-tennessee-school-district-disrupted-internet-access/)
+* [Data center provider fakes Tier 4 data center certificate to bag $11M SEC deal](https://digitpatrox.com/data-center-provider-fakes-tier-4-data-center-certificate-to-bag-11m-sec-deal/)
+* [The Best Ways to Keep Your Old House Warm in the Winter](https://digitpatrox.com/the-best-ways-to-keep-your-old-house-warm-in-the-winter/)
+* [How to install ChatGPT as an app on Windows 11, 10](https://digitpatrox.com/how-to-install-chatgpt-as-an-app-on-windows-11-10/)
+* [Tips on Choosing a Security Camera (From Someone Who’s Owned a Few)](https://digitpatrox.com/tips-on-choosing-a-security-camera-from-someone-whos-owned-a-few/)
+* [NIS2 is now in force around the EU – can business keep up with new compliance obligations?](https://digitpatrox.com/nis2-is-now-in-force-around-the-eu-can-business-keep-up-with-new-compliance-obligations/)
+* [AI Training a Problem For Australian Employees](https://digitpatrox.com/ai-training-a-problem-for-australian-employees/)
+* [9 new movies and shows to watch this weekend on Netflix, Max and more (Oct. 18-20)](https://digitpatrox.com/9-new-movies-and-shows-to-watch-this-weekend-on-netflix-max-and-more-oct-18-20/)
+* [Undercover North Korean IT workers now steal data, extort employers](https://digitpatrox.com/undercover-north-korean-it-workers-now-steal-data-extort-employers/)
+* [Google will once again ban election ads after the polls close](https://digitpatrox.com/google-will-once-again-ban-election-ads-after-the-polls-close/)
+* [Blindfire Early Access Impressions: Need Friends or a Drink to Have Fun](https://digitpatrox.com/blindfire-early-access-impressions-need-friends-or-a-drink-to-have-fun/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/chrome2.jpg)](https://digitpatrox.com/google-chrome-is-fixing-autofill-on-android-phones/)
+* [![](https://www.networkworld.com/wp-content/uploads/2024/10/3567954-0-86252500-1729176549-shutterstock_2030685905.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/data-center-provider-fakes-tier-4-data-center-certificate-to-bag-11m-sec-deal/)
     
-    [Google Chrome Is Fixing Autofill on Android Phones](https://digitpatrox.com/google-chrome-is-fixing-autofill-on-android-phones/)
+    [Data center provider fakes Tier 4 data center certificate to bag $11M SEC deal](https://digitpatrox.com/data-center-provider-fakes-tier-4-data-center-certificate-to-bag-11m-sec-deal/)
     
     2 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241017-pos-terminals.jpg)](https://digitpatrox.com/a-complete-guide-for-2024/)
+* [![](https://lifehacker.com/imagery/articles/01HF2GYDJ8JCEEH7AZNFEPMNT2/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-ways-to-keep-your-old-house-warm-in-the-winter/)
     
-    [A Complete Guide For 2024](https://digitpatrox.com/a-complete-guide-for-2024/)
+    [The Best Ways to Keep Your Old House Warm in the Winter](https://digitpatrox.com/the-best-ways-to-keep-your-old-house-warm-in-the-winter/)
+    
+    29 mins ago
+    
+* [![](https://pureinfotech.com/wp-content/uploads/2024/01/windows-11-chatgpt-app-hero-maurohuculak.webp)](https://digitpatrox.com/how-to-install-chatgpt-as-an-app-on-windows-11-10/)
+    
+    [How to install ChatGPT as an app on Windows 11, 10](https://digitpatrox.com/how-to-install-chatgpt-as-an-app-on-windows-11-10/)
+    
+    50 mins ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-security-camera-on-an-external-wall-with-icons-of-some-features-it-has-a-security-camera-on-an-external-wall-with-icons-of-some-features-it-has.jpg)](https://digitpatrox.com/tips-on-choosing-a-security-camera-from-someone-whos-owned-a-few/)
+    
+    [Tips on Choosing a Security Camera (From Someone Who’s Owned a Few)](https://digitpatrox.com/tips-on-choosing-a-security-camera-from-someone-whos-owned-a-few/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/SHTFkbTmWNHEhWmmRYS7kZ-1200-80.jpg)](https://digitpatrox.com/no-not-pull-ups-personal-trainer-recommends-this-one-exercise-that-builds-upper-body-strength-without-weights/)
+* [![](https://cdn.mos.cms.futurecdn.net/drfSnL94YBbqohSPBuBLnP-1200-80.jpg)](https://digitpatrox.com/nis2-is-now-in-force-around-the-eu-can-business-keep-up-with-new-compliance-obligations/)
     
-    [No, not pull-ups — personal trainer recommends this one exercise that builds upper body strength without weights](https://digitpatrox.com/no-not-pull-ups-personal-trainer-recommends-this-one-exercise-that-builds-upper-body-strength-without-weights/)
-    
-    1 hour ago
-    
-* [![](https://www.bleepstatic.com/content/hl-images/2024/04/24/meet-2.jpg)](https://digitpatrox.com/fake-google-meet-conference-errors-push-infostealing-malware/)
-    
-    [Fake Google Meet conference errors push infostealing malware](https://digitpatrox.com/fake-google-meet-conference-errors-push-infostealing-malware/)
-    
-    2 hours ago
-    
-* [![](https://cdn.vox-cdn.com/thumbor/6C8OpvYEs71fFNQbuXCgZpuLWjk=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25685860/prime_video_election_night_brian_williams.jpg.png)](https://digitpatrox.com/amazon-will-stream-a-live-election-special-hosted-by-brian-williams/)
-    
-    [Amazon will stream a live election special hosted by Brian Williams](https://digitpatrox.com/amazon-will-stream-a-live-election-special-hosted-by-brian-williams/)
+    [NIS2 is now in force around the EU – can business keep up with new compliance obligations?](https://digitpatrox.com/nis2-is-now-in-force-around-the-eu-can-business-keep-up-with-new-compliance-obligations/)
     
     2 hours ago
     
@@ -210,49 +210,49 @@ Recent Topics
 
 * [2 mins ago
     
-    ### Google Chrome Is Fixing Autofill on Android Phones](https://digitpatrox.com/google-chrome-is-fixing-autofill-on-android-phones/)
-* [1 hour ago
+    ### Data center provider fakes Tier 4 data center certificate to bag $11M SEC deal](https://digitpatrox.com/data-center-provider-fakes-tier-4-data-center-certificate-to-bag-11m-sec-deal/)
+* [29 mins ago
     
-    ### A Complete Guide For 2024](https://digitpatrox.com/a-complete-guide-for-2024/)
-* [1 hour ago
+    ### The Best Ways to Keep Your Old House Warm in the Winter](https://digitpatrox.com/the-best-ways-to-keep-your-old-house-warm-in-the-winter/)
+* [50 mins ago
     
-    ### No, not pull-ups — personal trainer recommends this one exercise that builds upper body strength without weights](https://digitpatrox.com/no-not-pull-ups-personal-trainer-recommends-this-one-exercise-that-builds-upper-body-strength-without-weights/)
+    ### How to install ChatGPT as an app on Windows 11, 10](https://digitpatrox.com/how-to-install-chatgpt-as-an-app-on-windows-11-10/)
 
 Most Popular Topics
 
-* [1 week ago
+* [August 12, 2024
     
-    ### Big shift in IT employment shows new skills are needed – Computerworld](https://digitpatrox.com/big-shift-in-it-employment-shows-new-skills-are-needed-computerworld/)
-* [August 15, 2024
+    ### Hackers leak 2.7 billion data records with Social Security numbers](https://digitpatrox.com/hackers-leak-2-7-billion-data-records-with-social-security-numbers/)
+* [4 days ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for August 15](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-august-15/)
-* [August 15, 2024
+    ### How to watch ‘Married at First Sight USA’ 2024 online](https://digitpatrox.com/how-to-watch-married-at-first-sight-usa-2024-online/)
+* [3 weeks ago
     
-    ### The Nintendo Switch Lite (With ‘Animal Crossing New Horizons’) Is on Sale for $159](https://digitpatrox.com/the-nintendo-switch-lite-with-animal-crossing-new-horizons-is-on-sale-for-159/)
+    ### Data breach at Louisiana accounting firm compromises SSNs and finances](https://digitpatrox.com/data-breach-at-louisiana-accounting-firm-compromises-ssns-and-finances/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### 9 new movies and shows to watch this weekend on Netflix, Max and more (Oct. 18-20)](https://digitpatrox.com/9-new-movies-and-shows-to-watch-this-weekend-on-netflix-max-and-more-oct-18-20/)
 * [3 hours ago
     
-    ### How to remove mugshots from the internet](https://digitpatrox.com/how-to-remove-mugshots-from-the-internet/)
-* [4 hours ago
+    ### Undercover North Korean IT workers now steal data, extort employers](https://digitpatrox.com/undercover-north-korean-it-workers-now-steal-data-extort-employers/)
+* [3 hours ago
     
-    ### About that brawl between the WordPress co-founder and WP Engine… – Computerworld](https://digitpatrox.com/about-that-brawl-between-the-wordpress-co-founder-and-wp-engine-computerworld/)
-* [4 hours ago
-    
-    ### The Best Horror Movies That Aren’t Too Scary to Watch With Your Kids](https://digitpatrox.com/the-best-horror-movies-that-arent-too-scary-to-watch-with-your-kids/)
+    ### Google will once again ban election ads after the polls close](https://digitpatrox.com/google-will-once-again-ban-election-ads-after-the-polls-close/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 21, 2024
-    
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
