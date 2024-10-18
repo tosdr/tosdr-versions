@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/b/csm_17-10-24-comite-tecnico-dcm-pinheiros-defesa-civil-fotos-beto-macario-1_c7efab4a5d.jpeg)
+   [![3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/4/csm_capa-pajugamer-certa_15688d44e1.jpg)
+
+Veja programação
+
+3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://www.tnh1.com.br/noticia/nid/3a-edicao-do-arena-pajugamer-ta-on-o-tnh1-foi-conferir-abertura-do-evento/ "3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento")   [![Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/b/csm_17-10-24-comite-tecnico-dcm-pinheiros-defesa-civil-fotos-beto-macario-1_c7efab4a5d.jpeg)
 
 Maceió
 
-Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://www.tnh1.com.br/noticia/nid/comite-tecnico-faz-novas-vistorias-nos-bairros-adjacentes-ao-mapa-de-afundamento-do-solo-em-maceio/ "Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió")   [![Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/5/csm_incendio_carro_Avenida_Josefa_de_Melo_-_foto_Reproducao_0d121e277a.jpg)
+Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://www.tnh1.com.br/noticia/nid/comite-tecnico-faz-novas-vistorias-nos-bairros-adjacentes-ao-mapa-de-afundamento-do-solo-em-maceio/ "Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió")   [![Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/5/csm_incendio_carro_Avenida_Josefa_de_Melo_-_foto_Reproducao_0d121e277a.jpg)
 
 barro duro
 
-Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://www.tnh1.com.br/noticia/nid/perda-total-video-mostra-carro-sendo-destruido-por-chamas-na-josefa-de-melo/ "Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo")   [![Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_operacao-firewall-prisao-suspeitos_35360c8e33.jpg)
+Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://www.tnh1.com.br/noticia/nid/perda-total-video-mostra-carro-sendo-destruido-por-chamas-na-josefa-de-melo/ "Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo")   [![Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_operacao-firewall-prisao-suspeitos_35360c8e33.jpg)
 
 Operação Firewall
 
-Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-suspeita-de-furtar-equipamentos-em-torres-de-telefonia-em-maceio/ "Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió")   [![Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_fraude-grupo-IML_35c3b93d98.jpg)
+Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-suspeita-de-furtar-equipamentos-em-torres-de-telefonia-em-maceio/ "Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió")   [![Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_fraude-grupo-IML_35c3b93d98.jpg)
 
 Veja vídeo
 
-Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://www.tnh1.com.br/noticia/nid/imagens-mostram-suspeitos-de-fraude-em-abastecimento-de-viatura-do-iml/ "Imagens mostram suspeitos de fraude em abastecimento de viatura do IML")   [![Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_outubro_rosa_parque_shopping_bb283e7abf.png)
+Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://www.tnh1.com.br/noticia/nid/imagens-mostram-suspeitos-de-fraude-em-abastecimento-de-viatura-do-iml/ "Imagens mostram suspeitos de fraude em abastecimento de viatura do IML")   [![Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_outubro_rosa_parque_shopping_bb283e7abf.png)
 
 Maceió
 
-Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://www.tnh1.com.br/noticia/nid/outubro-rosa-parque-shopping-promove-rodas-de-conversa-com-medicos-desfile-e-oficinas-de-autocuidado/ "Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado")   [![Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/d/csm_3o_Edital_Projetos_que_Transformam_3d3ba9024b.jpeg)
-
-Maceió
-
-Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”](https://www.tnh1.com.br/noticia/nid/mundau-mundo-e-instituto-do-bordado-file-vencem-o-3a-edital-braskem-projetos-que-transformam/ "Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”")
+Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://www.tnh1.com.br/noticia/nid/outubro-rosa-parque-shopping-promove-rodas-de-conversa-com-medicos-desfile-e-oficinas-de-autocuidado/ "Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projet
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/8/csm_governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano_7c02becd94.jpg)
+   [!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_742e2e7175.jpeg)
+
+quase 10 mil imagens
+
+"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")   [![Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/8/csm_governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano_7c02becd94.jpg)
 
 EM MACEIÓ
 
-Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://www.tnh1.com.br/noticia/nid/governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano/ "Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano")   [![Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/6/csm_artesa-4_0bfcff0625.jpeg)
+Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano](https://www.tnh1.com.br/noticia/nid/governador-e-ministro-autorizam-duplicacao-da-br-424-e-dao-inicio-ao-arco-metropolitano/ "Governador e ministro autorizam duplicação da BR-424 e dão início ao Arco Metropolitano")   [![Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/6/csm_artesa-4_0bfcff0625.jpeg)
 
 Alagoas
 
-Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://www.tnh1.com.br/noticia/nid/desenvolve-lanca-linha-de-credito-voltada-a-sustentabilidade-no-setor-turistico/ "Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico")   [!["É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/3/csm_casal_josimar_e_taciana_feminicidio_sp_37c2ccc375.jpg)
+Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico](https://www.tnh1.com.br/noticia/nid/desenvolve-lanca-linha-de-credito-voltada-a-sustentabilidade-no-setor-turistico/ "Desenvolve lança linha de crédito voltada à sustentabilidade no setor turístico")   [!["É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/3/csm_casal_josimar_e_taciana_feminicidio_sp_37c2ccc375.jpg)
 
 Taciana Maria
 
-"É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima](https://www.tnh1.com.br/noticia/nid/e-um-monstro-irma-de-alagoana-morta-por-companheiro-em-sp-revela-ultimo-contato-com-vitima/ ""É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima")   [![Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/e/csm_Policia_Federal_-_foto_Divulgacao_PF_a33221fd73.jpg)
+"É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima](https://www.tnh1.com.br/noticia/nid/e-um-monstro-irma-de-alagoana-morta-por-companheiro-em-sp-revela-ultimo-contato-com-vitima/ ""É um monstro": irmã de alagoana morta por companheiro em SP revela último contato com vítima")   [![Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/e/csm_Policia_Federal_-_foto_Divulgacao_PF_a33221fd73.jpg)
 
 Operação Landinos
 
-Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://www.tnh1.com.br/noticia/nid/homicidios-roubos-de-cargas-e-trafico-pf-cumpre-mandados-em-al-contra-organizacao-criminosa/ "Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa")   [![Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_foragido-morto-troca-tiros-marechal_4d04254ec8.jpg)
+Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa](https://www.tnh1.com.br/noticia/nid/homicidios-roubos-de-cargas-e-trafico-pf-cumpre-mandados-em-al-contra-organizacao-criminosa/ "Homicídios, roubos de cargas e tráfico: PF cumpre mandados em AL contra organização criminosa")   [![Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/e/csm_foragido-morto-troca-tiros-marechal_4d04254ec8.jpg)
 
 Marechal Deodoro
 
-Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas](https://www.tnh1.com.br/noticia/nid/foragido-de-pernambuco-morre-apos-trocar-tiros-com-policiais-em-alagoas/ "Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas")   [![MPAL cobra implementação de câmeras corporais nos policiais militares](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/0/csm_reuniao_mp_ascom_9769df3179.jpg)
-
-durante reunião
-
-MPAL cobra implementação de câmeras corporais nos policiais militares](https://www.tnh1.com.br/noticia/nid/mpal-cobra-implementacao-de-cameras-corporais-nos-policiais-militares/ "MPAL cobra implementação de câmeras corporais nos policiais militares")
+Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas](https://www.tnh1.com.br/noticia/nid/foragido-de-pernambuco-morre-apos-trocar-tiros-com-policiais-em-alagoas/ "Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ MPAL cobra implementação de câmeras corporais nos policiais militares](https:
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Seis policiais envolvidos em perseguição que terminou com dois adolescentes mortos são afastados das funções ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/c/csm_csm_protesto_colonia_cisp_897daeffe8_1e0edb08b4.jpg)
+   [![Mãe encontra filho de 11 anos morto boiando em piscina de plástico ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/b/csm_guilherme_piscina_3f9c722a00.png)
 
-No Interior
+em rio largo
 
-Seis policiais envolvidos em perseguição que terminou com dois adolescentes mortos são afastados das funções](https://www.tnh1.com.br/noticia/nid/seis-policiais-envolvidos-em-perseguicao-que-terminou-com-dois-adolescentes-mortos-sao-afastados-das-funcoes/ "Seis policiais envolvidos em perseguição que terminou com dois adolescentes mortos são afastados das funções ")   [![Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/3/csm_Rua_Jangadeiros_Alagoano_-_foto_Google_Street_View_68ecf3146c.jpg)
+Mãe encontra filho de 11 anos morto boiando em piscina de plástico](https://www.tnh1.com.br/noticia/nid/mae-encontra-filho-de-11-anos-morto-boiando-em-piscina-de-plastico/ "Mãe encontra filho de 11 anos morto boiando em piscina de plástico ")   [!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_742e2e7175.jpeg)
 
-55 anos
+quase 10 mil imagens
 
-Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias](https://www.tnh1.com.br/noticia/nid/turista-e-abordado-por-assaltantes-na-pajucara-e-perde-r-6-mil-em-transferencias-bancarias/ "Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias")   [![Vídeo: homem é suspeito de furtar hidrômetros durante madrugada na Ponta Grossa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/0/csm_suspeito_furto_ponta_grossa_reproducao_video_60bba2c3d4.png)
+"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")   [![Polícia apreende mais de três quilos de drogas durante ação em Piranhas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/c/csm_pm-apreende-mais-de-tres-quilos-de-drogas-durante-acao-em-piranhas_d0887af054.jpeg)
 
-Em Maceió
+Polícia
 
-Vídeo: homem é suspeito de furtar hidrômetros durante madrugada na Ponta Grossa](https://www.tnh1.com.br/noticia/nid/video-homem-e-suspeito-de-furtar-hidrometros-durante-madrugada-na-ponta-grossa/ "Vídeo: homem é suspeito de furtar hidrômetros durante madrugada na Ponta Grossa")   [![Homem é preso por agredir ex com facada, mordidas e puxões de cabelo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/5/csm_csm_viatura_Policia_Civil_AL_6cb24d60b2__2__af9c15c3bf.jpeg)
+Polícia apreende mais de três quilos de drogas durante ação em Piranhas](https://www.tnh1.com.br/noticia/nid/policia-apreende-mais-de-tres-quilos-de-drogas-durante-acao-em-piranhas/ "Polícia apreende mais de três quilos de drogas durante ação em Piranhas")   [![Vídeo mostra mulher colocando fogo em motos na frente de loja na Avenida Fernandes Lima](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/c/csm_incendio_fernandes_lima_-_foto_reproducao_video_9bf2f553e3.jpg)
 
-No Tabuleiro
+Contida por gerente
 
-Homem é preso por agredir ex com facada, mordidas e puxões de cabelo](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-agredir-ex-com-facada-mordidas-e-puxoes-de-cabelo/ "Homem é preso por agredir ex com facada, mordidas e puxões de cabelo")   [![Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_operacao-firewall-prisao-suspeitos_35360c8e33.jpg)
+Vídeo mostra mulher colocando fogo em motos na frente de loja na Avenida Fernandes Lima](https://www.tnh1.com.br/noticia/nid/video-mostra-mulher-colocando-fogo-em-motos-na-frente-de-loja-na-avenida-fernandes-lima/ "Vídeo mostra mulher colocando fogo em motos na frente de loja na Avenida Fernandes Lima")   [![Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/9/csm_lider_pcc_66b1883f54.png)
 
-Operação Firewall
+'Damares'
 
-Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-suspeita-de-furtar-equipamentos-em-torres-de-telefonia-em-maceio/ "Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió")   [![Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_prisao_rio_largo_6de5761313.png)
+Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/acusada-de-ordenar-mortes-lider-do-pcc-e-presa-vivendo-tranquilamente-no-interior-de-alagoas/ "Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas")   [![Foragido por estuprar criança enquanto trabalhava como garçom em festa é preso em Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/f/csm_viatura_pc_-_foto_ascom_pc_ff803f7f79.jpg)
 
-em Rio Largo
+12 anos depois
 
-Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-assassinar-e-carbonizar-corpo-do-amante-para-esconder-relacionamento/ "Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento")
+Foragido por estuprar criança enquanto trabalhava como garçom em festa é preso em Arapiraca](https://www.tnh1.com.br/noticia/nid/foragido-por-estuprar-crianca-enquanto-trabalhava-como-garcom-em-festa-e-preso-em-arapiraca/ "Foragido por estuprar criança enquanto trabalhava como garçom em festa é preso em Arapiraca")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,16 +115,6 @@ Homem é preso por assassinar e carbonizar corpo do amante para esconder relacio
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
-
-Pessoas & Negócios
-
-Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,7 +188,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_prisao_rio_largo_acc562b54d.png)
+[![Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/3/csm_prisao_rio_largo_acc562b54d.png)
 
 em Rio Largo
 
@@ -206,23 +196,15 @@ em Rio Largo
 
 Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento
 
-Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-assassinar-e-carbonizar-corpo-do-amante-para-esconder-relacionamento/ "Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento")[![Liam Payne, do One Direction, morre aos 31 anos, diz site](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/2/csm_liam-payne-01-press-photo-new-2018-billboard-1548_4688a64678.jpg)
+Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-assassinar-e-carbonizar-corpo-do-amante-para-esconder-relacionamento/ "Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento")[![Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_sombra_suposta_vitima_dono_de_academia_6ad1fc91ce.png)
 
-caiu de prédio
+Polícia investiga
 
-caiu de prédio
+Polícia investiga
 
-Liam Payne, do One Direction, morre aos 31 anos, diz site
+Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió
 
-Liam Payne, do One Direction, morre aos 31 anos, diz site](https://www.tnh1.com.br/noticia/nid/liam-payne-do-one-direction-morre-aos-31-anos-diz-site/ "Liam Payne, do One Direction, morre aos 31 anos, diz site")[![Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/0/csm_ryan-gosling-eva-mendes-filho-reproducao_3a63cbbc81.jpg)
-
-Gente Famosa
-
-Gente Famosa
-
-Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'
-
-Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'](https://www.tnh1.com.br/noticia/nid/eva-mendes-se-emociona-ao-revelar-maior-dificuldade-de-criar-filhas-com-ator-nao-e-justo/ "Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'Não é justo'")[![Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/3/csm_Rua_Jangadeiros_Alagoano_-_foto_Google_Street_View_c8fc9d4848.jpg)
+Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://www.tnh1.com.br/noticia/nid/mulheres-denunciam-dono-de-academia-por-assedio-estupro-e-violencia-psicologica-em-maceio/ "Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió")[![Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/3/csm_Rua_Jangadeiros_Alagoano_-_foto_Google_Street_View_c8fc9d4848.jpg)
 
 55 anos
 
@@ -230,41 +212,49 @@ Eva Mendes se emociona ao revelar maior dificuldade de criar filhas com ator: 'N
 
 Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias
 
-Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias](https://www.tnh1.com.br/noticia/nid/turista-e-abordado-por-assaltantes-na-pajucara-e-perde-r-6-mil-em-transferencias-bancarias/ "Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias")
-
-[![Itália: lei caracteriza barriga de aluguel como "crime universal"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/8/csm_1_pregnant_woman_touching_her_belly-37658239_f3404e2026.jpg)
-
-projeto de lei
-
-projeto de lei
-
-Itália: lei caracteriza barriga de aluguel como "crime universal"
-
-Itália: lei caracteriza barriga de aluguel como "crime universal"](https://www.tnh1.com.br/noticia/nid/italia-lei-caracteriza-barriga-de-aluguel-como-crime-universal/ "Itália: lei caracteriza barriga de aluguel como "crime universal"")[![Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/1/csm_Liam_Payne_-_foto_Reproducao_-_Instagram_-_%40liampayne_a176e3cbe4.jpg)
+Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias](https://www.tnh1.com.br/noticia/nid/turista-e-abordado-por-assaltantes-na-pajucara-e-perde-r-6-mil-em-transferencias-bancarias/ "Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias")[![Influenciadora de viagens, Fernanda Lind morre atropelada em Paris](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/c/csm_Influenciadora_de_viagens_morre_atropelada_em_Paris_-_foto_Reproducao_7a3683586e.jpg)
 
 31 anos
 
 31 anos
 
-Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel
+Influenciadora de viagens, Fernanda Lind morre atropelada em Paris
 
-Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel](https://www.tnh1.com.br/noticia/nid/medico-que-socorreu-liam-payne-informa-de-qual-altura-cantor-caiu-em-hotel/ "Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel ")[![Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/2/csm_Ator_diz_que_biscoito_foi_seu_cache_para_estrear_em_filmes_de_Adam_Sandler_-_foto_Reproducao_4d3858bb52.jpg)
+Influenciadora de viagens, Fernanda Lind morre atropelada em Paris](https://www.tnh1.com.br/noticia/nid/influenciadora-de-viagens-fernanda-lind-morre-atropelada-em-paris/ "Influenciadora de viagens, Fernanda Lind morre atropelada em Paris")
 
-Henry Winkler
+[![Mãe encontra filho de 11 anos morto boiando em piscina de plástico ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/b/csm_guilherme_piscina_0e30a7a8ee.png)
 
-Henry Winkler
+em rio largo
 
-Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler
+em rio largo
 
-Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler](https://www.tnh1.com.br/noticia/nid/ator-diz-que-biscoito-foi-seu-cache-para-estrear-em-filmes-de-adam-sandler/ "Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler")[![Vini Jr entra no top 10 de jogadores mais bem pagos; Neymar segue em 3º](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/8/csm_neymar-no-al-hilal-750x450_411aba9a5f.jpg)
+Mãe encontra filho de 11 anos morto boiando em piscina de plástico
 
-veja a lista
+Mãe encontra filho de 11 anos morto boiando em piscina de plástico](https://www.tnh1.com.br/noticia/nid/mae-encontra-filho-de-11-anos-morto-boiando-em-piscina-de-plastico/ "Mãe encontra filho de 11 anos morto boiando em piscina de plástico ")[![Relembre o caso do Maníaco do Parque, que virou tema de filme](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/8/csm_maniaco_do_parque_divulgacao_18a50f5495.jpg)
 
-veja a lista
+Estreou esta sexta
 
-Vini Jr entra no top 10 de jogadores mais bem pagos; Neymar segue em 3º
+Estreou esta sexta
 
-Vini Jr entra no top 10 de jogadores mais bem pagos; Neymar segue em 3º](https://www.tnh1.com.br/noticia/nid/vini-jr-entra-no-top-10-de-jogadores-mais-bem-pagos-neymar-segue-em-3o/ "Vini Jr entra no top 10 de jogadores mais bem pagos; Neymar segue em 3º")
+Relembre o caso do Maníaco do Parque, que virou tema de filme
+
+Relembre o caso do Maníaco do Parque, que virou tema de filme](https://www.tnh1.com.br/noticia/nid/relembre-o-caso-do-maniaco-do-parque-que-virou-tema-de-filme/ "Relembre o caso do Maníaco do Parque, que virou tema de filme")[!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_dce7d2bc3d.jpeg)
+
+quase 10 mil imagens
+
+quase 10 mil imagens
+
+"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas
+
+"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")[![Morte de bebê é investigada pela polícia em Taquarana; pais foram ouvidos e liberados](https://tnh1-cdn2.cworks.cloud/fileadmin/user_upload/tnh1/2024/05/23/csm_csm_csm_Delegacia_de_Palmeira_dos_Indios__Ascom_PC_ed2fb4d399_9d45e2e29c_2996738e71.jpg)
+
+Causa desconhecida
+
+Causa desconhecida
+
+Morte de bebê é investigada pela polícia em Taquarana; pais foram ouvidos e liberados
+
+Morte de bebê é investigada pela polícia em Taquarana; pais foram ouvidos e liberados](https://www.tnh1.com.br/noticia/nid/morte-de-bebe-e-investigada-pela-policia-em-taquarana-pais-foram-ouvidos-e-liberados/ "Morte de bebê é investigada pela polícia em Taquarana; pais foram ouvidos e liberados")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
