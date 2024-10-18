@@ -29,15 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![projectsurvival](plugins/MineCraft/icons/25x25xprojectsurvival_1720953261.png.pagespeed.ic.hQETp6pFjB.png)
+[![LihP](plugins/MineCraft/icons/25x25xLihP_1614868981.png.pagespeed.ic.a4JSmpFys1.png)
 
-MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4](https://minecraft-server.net/details/projectsurvival/ "MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+DvZ Server - Dwarves Vs Zombies - PVP - The LihP Network](https://minecraft-server.net/details/LihP/ "DvZ Server - Dwarves Vs Zombies - PVP - The LihP Network")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
 
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
+CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
 
-BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexMc")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief") [GlacierMc](https://minecraft-server.net/details/GlacierMc-Lifesteal/ "GlacierMc")
+1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")[![EcoSMP](plugins/MineCraft/icons/25x25xEcoSMP_1714532090.png.pagespeed.ic._cNYKCUl0B.png)
+
+EcoSMP](https://minecraft-server.net/details/EcoSMP/ "EcoSMP")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -114,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05807 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06289 - Created by [Debaucus](https://debauc.us/)
