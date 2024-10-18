@@ -103,6 +103,7 @@ Error
 * [Canadian Criminal Record Consent Form NEW\* (French)](#contract-evru8dyya)
 * [Identity Fraud Notice](#contract-bjksxbw00)
 * [California Credit Disclosure](#contract-bk8o6a-ar)
+* [Authorization](#contract-hywkt6cca)
 
 Test Contract 2
 ---------------
@@ -2638,7 +2639,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective October 17th 2024
+##### Effective October 18th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -6114,6 +6115,33 @@ A named signatory on the bank or credit card account of the employer;
 \[{{1024\_5\_a\_8}} \] The job for which you are applying (or if current employee, already occupy) is a position that involves regular access during the workday to cash totaling Ten Thousand ($10,000) Dollars or more and which belongs to the employer, a customer or client.\]
 
   
+
+  
+
+Authorization
+-------------
+
+### Version 1.0
+
+##### Effective October 2nd 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/66fd4cdf4080d748fc882d71.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**Authorization**
+
+  
+
+You have asked [Certn](http://certn.co/) to collect, process and deliver the following verifiable credentials through the MyCertn Wallet: \[CertnID, Income Verification, Criminal Record…\] In order to complete this request, you will be asked to provide the following personal information \[identification information including full name, maiden name and aliases; address history; date of birth; contact information including phone number and email address…\]. We may collect information regarding you directly from you or third parties such as \[government authorities, credit bureaus, financial institutions…\]. We will compare information received from different sources for consistency.
+
+It may be necessary for Certn to transfer and process your information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which you made the request. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
+
+You can withdraw your consent, dispute the accuracy of your credentials, or ask for a correction, deletion or copy of your information at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](https://certn.co/privacy-policy/privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found in our Privacy Policy ([https://certn.co/privacy-policy/](https://certn.co/privacy-policy/)).
 
   
 
