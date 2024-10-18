@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/5/csm_incendio_carro_Avenida_Josefa_de_Melo_-_foto_Reproducao_0d121e277a.jpg)
+   [![Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/b/csm_17-10-24-comite-tecnico-dcm-pinheiros-defesa-civil-fotos-beto-macario-1_c7efab4a5d.jpeg)
+
+Maceió
+
+Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://www.tnh1.com.br/noticia/nid/comite-tecnico-faz-novas-vistorias-nos-bairros-adjacentes-ao-mapa-de-afundamento-do-solo-em-maceio/ "Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió")   [![Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/5/csm_incendio_carro_Avenida_Josefa_de_Melo_-_foto_Reproducao_0d121e277a.jpg)
 
 barro duro
 
-Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://www.tnh1.com.br/noticia/nid/perda-total-video-mostra-carro-sendo-destruido-por-chamas-na-josefa-de-melo/ "Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo")   [![Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_operacao-firewall-prisao-suspeitos_35360c8e33.jpg)
+Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://www.tnh1.com.br/noticia/nid/perda-total-video-mostra-carro-sendo-destruido-por-chamas-na-josefa-de-melo/ "Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo")   [![Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_operacao-firewall-prisao-suspeitos_35360c8e33.jpg)
 
 Operação Firewall
 
-Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-suspeita-de-furtar-equipamentos-em-torres-de-telefonia-em-maceio/ "Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió")   [![Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_fraude-grupo-IML_35c3b93d98.jpg)
+Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-suspeita-de-furtar-equipamentos-em-torres-de-telefonia-em-maceio/ "Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió")   [![Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_fraude-grupo-IML_35c3b93d98.jpg)
 
 Veja vídeo
 
-Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://www.tnh1.com.br/noticia/nid/imagens-mostram-suspeitos-de-fraude-em-abastecimento-de-viatura-do-iml/ "Imagens mostram suspeitos de fraude em abastecimento de viatura do IML")   [![Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/6/csm_outubro_rosa_parque_shopping_bb283e7abf.png)
+Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://www.tnh1.com.br/noticia/nid/imagens-mostram-suspeitos-de-fraude-em-abastecimento-de-viatura-do-iml/ "Imagens mostram suspeitos de fraude em abastecimento de viatura do IML")   [![Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_outubro_rosa_parque_shopping_bb283e7abf.png)
 
 Maceió
 
-Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://www.tnh1.com.br/noticia/nid/outubro-rosa-parque-shopping-promove-rodas-de-conversa-com-medicos-desfile-e-oficinas-de-autocuidado/ "Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado")   [![Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_3o_Edital_Projetos_que_Transformam_3d3ba9024b.jpeg)
+Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://www.tnh1.com.br/noticia/nid/outubro-rosa-parque-shopping-promove-rodas-de-conversa-com-medicos-desfile-e-oficinas-de-autocuidado/ "Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado")   [![Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/d/csm_3o_Edital_Projetos_que_Transformam_3d3ba9024b.jpeg)
 
 Maceió
 
-Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”](https://www.tnh1.com.br/noticia/nid/mundau-mundo-e-instituto-do-bordado-file-vencem-o-3a-edital-braskem-projetos-que-transformam/ "Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”")   [![Vídeo: pane em contador de energia elétrica assusta moradores no Farol](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_Pane_em_poste_de_energia_no_Farol_-_foto_Reproducao_efa311dc3e.jpg)
-
-assista
-
-Vídeo: pane em contador de energia elétrica assusta moradores no Farol](https://www.tnh1.com.br/noticia/nid/video-pane-em-contador-de-energia-eletrica-assusta-moradores-no-farol/ "Vídeo: pane em contador de energia elétrica assusta moradores no Farol")
+Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”](https://www.tnh1.com.br/noticia/nid/mundau-mundo-e-instituto-do-bordado-file-vencem-o-3a-edital-braskem-projetos-que-transformam/ "Mundaú Mundo e Instituto do Bordado Filé vencem o 3ª Edital Braskem “Projetos que Transformam”")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -196,65 +196,65 @@ Futebol Nacional
 
 Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025
 
-Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025](https://www.tnh1.com.br/noticia/nid/record-ja-garantiu-5-marcas-patrocinadoras-para-transmissao-do-brasileirao-2025/ "Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025 ")[![Saiba quem eram as vítimas do acidente com carro-forte em São Luís do Quitunde](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/4/csm_vitimas-acidente-sao-luis-quitunde_97dd1d12b9.jpg)
+Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025](https://www.tnh1.com.br/noticia/nid/record-ja-garantiu-5-marcas-patrocinadoras-para-transmissao-do-brasileirao-2025/ "Record já garantiu 5 marcas patrocinadoras para transmissão do Brasileirão 2025 ")[![Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_prisao_rio_largo_acc562b54d.png)
 
-Três mortos
+em Rio Largo
 
-Três mortos
+em Rio Largo
 
-Saiba quem eram as vítimas do acidente com carro-forte em São Luís do Quitunde
+Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento
 
-Saiba quem eram as vítimas do acidente com carro-forte em São Luís do Quitunde](https://www.tnh1.com.br/noticia/nid/saiba-quem-eram-as-vitimas-do-acidente-com-carro-forte-em-sao-luis-do-quitunde/ "Saiba quem eram as vítimas do acidente com carro-forte em São Luís do Quitunde")[![Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/7/csm_carro-derrubou-motos-arapiraca_bf1dbeb721.jpg)
+Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-assassinar-e-carbonizar-corpo-do-amante-para-esconder-relacionamento/ "Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento")[![Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/0/csm_csm_IML-viatura_f11c21a970_62eeaa15d8.jpg)
 
-interior de Alagoas
+Polícia
 
-interior de Alagoas
+Polícia
 
-Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados
+Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió
 
-Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados](https://www.tnh1.com.br/noticia/nid/video-motorista-perde-o-controle-e-bate-em-13-veiculos-que-estavam-estacionados/ "Vídeo: motorista perde o controle e bate em 13 veículos que estavam estacionados")[![Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/5/csm_familia_jonatas_morte_colonia_leopoldina_reproducao_video_a08bca134e.jpg)
+Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió](https://www.tnh1.com.br/noticia/nid/tres-homens-sao-presos-suspeitos-de-fraudar-abastecimento-de-viaturas-do-iml-em-maceio/ "Três homens são presos suspeitos de fraudar abastecimento de viaturas do IML em Maceió ")[![O que pode mudar na multa do FGTS e no seguro-desemprego de quem for demitido](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_FgTS_-__Marcelo_Camargo_Agencia_Brasil_3ccf715570.jpg)
 
-Colônia Leopoldina
+Economia
 
-Colônia Leopoldina
+Economia
 
-Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"
+O que pode mudar na multa do FGTS e no seguro-desemprego de quem for demitido
 
-Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"](https://www.tnh1.com.br/noticia/nid/mae-de-adolescente-morto-em-abordagem-da-pm-desabafa-eles-deram-5-tiros-foi-pra-matar/ "Mãe de adolescente morto em abordagem da PM desabafa: "Eles deram 5 tiros. Foi pra matar"")
+O que pode mudar na multa do FGTS e no seguro-desemprego de quem for demitido](https://www.tnh1.com.br/noticia/nid/o-que-pode-mudar-na-multa-do-fgts-e-no-seguro-desemprego-de-quem-for-demitido/ "O que pode mudar na multa do FGTS e no seguro-desemprego de quem for demitido")
 
-[![Seis policiais envolvidos em perseguição que terminou com dois adolescentes mortos são afastados das funções ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_csm_protesto_colonia_cisp_897daeffe8_fb017bc783.jpg)
+[![Itália: lei caracteriza barriga de aluguel como "crime universal"](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/8/csm_1_pregnant_woman_touching_her_belly-37658239_f3404e2026.jpg)
 
-No Interior
+projeto de lei
 
-No Interior
+projeto de lei
 
-Seis policiais envolvidos em perseguição que terminou com dois adolescentes mortos são afastados das funções
+Itália: lei caracteriza barriga de aluguel como "crime universal"
 
-Seis policiais envolvidos em perseguição que terminou com dois adolescentes mortos são afastados das funções](https://www.tnh1.com.br/noticia/nid/seis-policiais-envolvidos-em-perseguicao-que-terminou-com-dois-adolescentes-mortos-sao-afastados-das-funcoes/ "Seis policiais envolvidos em perseguição que terminou com dois adolescentes mortos são afastados das funções ")[![Bloqueio do cartão do Bolsa Família em bets está sendo implementado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/e/csm_Bolsa_familia_701bd33bab.jpg)
+Itália: lei caracteriza barriga de aluguel como "crime universal"](https://www.tnh1.com.br/noticia/nid/italia-lei-caracteriza-barriga-de-aluguel-como-crime-universal/ "Itália: lei caracteriza barriga de aluguel como "crime universal"")[![Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/1/csm_Liam_Payne_-_foto_Reproducao_-_Instagram_-_%40liampayne_a176e3cbe4.jpg)
 
-Brasil
+31 anos
 
-Brasil
+31 anos
 
-Bloqueio do cartão do Bolsa Família em bets está sendo implementado
+Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel
 
-Bloqueio do cartão do Bolsa Família em bets está sendo implementado](https://www.tnh1.com.br/noticia/nid/bloqueio-do-cartao-do-bolsa-familia-em-bets-esta-sendo-implementado/ "Bloqueio do cartão do Bolsa Família em bets está sendo implementado")[![Ataque de abelhas deixa 6 cães mortos e 4 pessoas feridas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/1/csm_Ataque_de_abelhas_deixa_6_caes_mortos_e_4_pessoas_feridas_em_GO_-_foto_Reproducao_-_Redes_sociais_2524cf5851.jpg)
+Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel](https://www.tnh1.com.br/noticia/nid/medico-que-socorreu-liam-payne-informa-de-qual-altura-cantor-caiu-em-hotel/ "Médico que socorreu Liam Payne informa de qual altura cantor caiu em hotel ")[![Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/2/csm_Ator_diz_que_biscoito_foi_seu_cache_para_estrear_em_filmes_de_Adam_Sandler_-_foto_Reproducao_4d3858bb52.jpg)
 
-em abrigo
+Henry Winkler
 
-em abrigo
+Henry Winkler
 
-Ataque de abelhas deixa 6 cães mortos e 4 pessoas feridas
+Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler
 
-Ataque de abelhas deixa 6 cães mortos e 4 pessoas feridas](https://www.tnh1.com.br/noticia/nid/ataque-de-abelhas-deixa-6-caes-mortos-e-4-pessoas-feridas/ "Ataque de abelhas deixa 6 cães mortos e 4 pessoas feridas ")[![MC alagoano vai representar o Estado no Duelo de MCs Nacional em Belo Horizonte (MG)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/7/csm_mc_maceio_c7ddfeffb4.jpeg)
+Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler](https://www.tnh1.com.br/noticia/nid/ator-diz-que-biscoito-foi-seu-cache-para-estrear-em-filmes-de-adam-sandler/ "Ator diz que biscoito foi seu cachê para estrear em filmes de Adam Sandler")[![Vini Jr entra no top 10 de jogadores mais bem pagos; Neymar segue em 3º](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/8/csm_neymar-no-al-hilal-750x450_411aba9a5f.jpg)
 
-Agenda Cultural
+veja a lista
 
-Agenda Cultural
+veja a lista
 
-MC alagoano vai representar o Estado no Duelo de MCs Nacional em Belo Horizonte (MG)
+Vini Jr entra no top 10 de jogadores mais bem pagos; Neymar segue em 3º
 
-MC alagoano vai representar o Estado no Duelo de MCs Nacional em Belo Horizonte (MG)](https://www.tnh1.com.br/noticia/nid/mc-alagoano-vai-representar-o-estado-no-duelo-de-mcs-nacional-em-belo-horizonte-mg/ "MC alagoano vai representar o Estado no Duelo de MCs Nacional em Belo Horizonte (MG)")
+Vini Jr entra no top 10 de jogadores mais bem pagos; Neymar segue em 3º](https://www.tnh1.com.br/noticia/nid/vini-jr-entra-no-top-10-de-jogadores-mais-bem-pagos-neymar-segue-em-3o/ "Vini Jr entra no top 10 de jogadores mais bem pagos; Neymar segue em 3º")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
