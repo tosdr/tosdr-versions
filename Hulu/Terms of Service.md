@@ -266,7 +266,7 @@ You are about to exit Hulu.com to visit the Shop Hulu site, where a different Te
 
 [Max](https://secure.hulu.com/max "Max")[Cinemax](https://secure.hulu.com/cinemax "Cinemax")[Paramount+ with SHOWTIME](https://secure.hulu.com/paramount-plus-with-showtime "Paramount+ with SHOWTIME")[STARZ](https://secure.hulu.com/starz "STARZ")
 
-[Disney Bundle Trio Basic](https://secure.hulu.com/hulu-disney-espn-bundle-offer "Disney Bundle Trio Basic")[Disney Bundle Trio Premium](https://secure.hulu.com/disney-bundle-hulu-no-ads "Disney Bundle Trio Premium")[Disney Bundle Duo Basic](https://secure.hulu.com/disney-bundle-duo-basic "Disney Bundle Duo Basic")[Disney+, Hulu, Max Bundle](https://secure.hulu.com/disney-hulu-max-bundle "Disney+, Hulu, Max Bundle")[Student Discount](https://secure.hulu.com/student "Student Discount")
+[Disney Bundle Trio Basic](https://secure.hulu.com/hulu-disney-espn-bundle-offer "Disney Bundle Trio Basic")[Disney Bundle Trio Premium](https://secure.hulu.com/disney-bundle-hulu-no-ads "Disney Bundle Trio Premium")[Disney Bundle Duo](https://secure.hulu.com/disney-bundle-duo "Disney Bundle Duo")[Disney+, Hulu, Max Bundle](https://secure.hulu.com/disney-hulu-max-bundle "Disney+, Hulu, Max Bundle")[Student Discount](https://secure.hulu.com/student "Student Discount")
 
 ### HELP
 
