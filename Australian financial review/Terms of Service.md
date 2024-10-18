@@ -334,15 +334,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Paula Hitchcock and her husband Nassib Thoumi leave court after Wednesday’s decision.](https://static.ffx.io/images/$zoom_0.3235%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_614%2C$y_262/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8395ec8c261e5ea64c7d0f08954d3e98530501f5)](https://www.afr.com/companies/manufacturing/richard-pratt-s-love-child-free-to-sue-family-for-slice-of-the-fortune-20241016-p5kinx)
+[![The 50 most valuable pubs in Australia. ](https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/0cb3c663de93d89831c82f16255691ff42560fa2)](https://www.afr.com/property/commercial/revealed-australia-s-50-most-valuable-pubs-20240904-p5k7qm)
 
-### [Richard Pratt’s love child free to sue family for slice of the fortune](https://www.afr.com/companies/manufacturing/richard-pratt-s-love-child-free-to-sue-family-for-slice-of-the-fortune-20241016-p5kinx)
+### [Revealed: Australia’s 50 most valuable pubs](https://www.afr.com/property/commercial/revealed-australia-s-50-most-valuable-pubs-20240904-p5k7qm)
 
-* Max Mason
+* Larry Schlesinger
 
-* ### [Young Rich Lister matches major labels with $10m for local music](https://www.afr.com/life-and-luxury/arts-and-culture/young-rich-lister-outspends-major-labels-with-10m-for-local-music-20241014-p5ki7q)
+* ### [Richard Pratt’s love child free to sue family for slice of the fortune](https://www.afr.com/companies/manufacturing/richard-pratt-s-love-child-free-to-sue-family-for-slice-of-the-fortune-20241016-p5kinx)
     
-* ### [Richard White’s alleged lover claims he expected sex for investment](https://www.afr.com/technology/richard-white-s-alleged-lover-claims-he-expected-sex-for-investment-20241008-p5kgph)
+* ### [Young Rich Lister matches major labels with $10m for local music](https://www.afr.com/life-and-luxury/arts-and-culture/young-rich-lister-outspends-major-labels-with-10m-for-local-music-20241014-p5ki7q)
     
 
 [The Australian Financial Review](https://www.afr.com/)
