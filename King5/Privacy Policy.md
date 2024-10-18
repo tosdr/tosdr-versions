@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/KING/images/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619.jpg)](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
+    *  [![](https://media.king5.com/assets/KING/images/a5c5046c-debb-4d5a-aab1-de2822f81f54/20240515T211607/a5c5046c-debb-4d5a-aab1-de2822f81f54_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a5c5046c-debb-4d5a-aab1-de2822f81f54/20240515T211607/a5c5046c-debb-4d5a-aab1-de2822f81f54_360x203.jpg)](https://www.king5.com/article/news/politics/elections/washington-initiative-2124-general-election/281-9d7b6709-f8ac-433c-b03d-678e06168e20)
         
-        #### [Cantwell leads Garcia by 23 points in US Senate race: WA Poll](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
+        #### [Initiative 2124 is on the general election ballot. Here's what it does](https://www.king5.com/article/news/politics/elections/washington-initiative-2124-general-election/281-9d7b6709-f8ac-433c-b03d-678e06168e20)
         
-    *  [![](https://media.king5.com/assets/KING/images/d7771a02-dd89-4c95-96f0-914879e07505/20241018T064501/d7771a02-dd89-4c95-96f0-914879e07505_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d7771a02-dd89-4c95-96f0-914879e07505/20241018T064501/d7771a02-dd89-4c95-96f0-914879e07505_360x203.jpg)](https://www.king5.com/article/news/local/marysville-woman-110-years-old/281-347e8c3d-5efa-4837-bb5d-9e3540cca6b6)
+    *  [![](https://media.king5.com/assets/KING/images/7502da9e-1c99-4819-9f11-b4a2e4acd300/20241018T003500/7502da9e-1c99-4819-9f11-b4a2e4acd300_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7502da9e-1c99-4819-9f11-b4a2e4acd300/20241018T003500/7502da9e-1c99-4819-9f11-b4a2e4acd300_360x203.jpg)](https://www.king5.com/article/news/local/state-using-cell-phone-data-make-highways-safer/281-efa71b9f-b501-4e39-81af-fcc2521edfde)
         
-        #### [Marysville woman turns 110 years old](https://www.king5.com/article/news/local/marysville-woman-110-years-old/281-347e8c3d-5efa-4837-bb5d-9e3540cca6b6)
+        #### [State using cell phone data to make Washington highways safer](https://www.king5.com/article/news/local/state-using-cell-phone-data-make-highways-safer/281-efa71b9f-b501-4e39-81af-fcc2521edfde)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-47°
+50°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
