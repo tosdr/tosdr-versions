@@ -190,22 +190,6 @@
 
 Subscribe
 
-[#### Black Health](https://www.healthline.com/black-health)
-
-* Conditions
-    
-    * [Cancer](https://www.healthline.com/black-health/cancer)
-    * [Diabetes](https://www.healthline.com/black-health/diabetes-resources)
-    * [Sickle Cell](https://www.healthline.com/black-health/sickle-cell)
-    * [Other Conditions](https://www.healthline.com/black-health/chronic-conditions)
-    
-* [Heart Health](https://www.healthline.com/black-health/black-heart-health)
-* [Mental Health](https://www.healthline.com/black-health/black-mental-health)
-* [Maternal Health](https://www.healthline.com/black-health/black-maternal-health)
-* [Black Skin](https://www.healthline.com/black-health/black-skin)
-* [Nutrition & Fitness](https://www.healthline.com/black-health/nutrition-fitness)
-* [Advocacy & Equity](https://www.healthline.com/black-health/advocacy)
-
 Privacy Policy
 ==============
 
