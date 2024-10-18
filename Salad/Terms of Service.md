@@ -80,7 +80,7 @@ Running securely on our distributed cloud](https://salad.com/security)
 
 Deploy popular models in a few clicks](https://salad.com/models)
 
-[Earn with your GPU](https://salad.com/download)[Deploy on Salad](https://portal.salad.com/)
+[Earn with your GPU](https://salad.com/download)[Deploy on SaladCloud](https://portal.salad.com/)
 
  
 
