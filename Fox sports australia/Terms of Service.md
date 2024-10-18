@@ -18,12 +18,12 @@ FOX SCORES
     
 * [Women's PC
     
-    18/10 18:05 AEST
+    1st Half
     
     |     |     |
     | --- | --- |
-    | AUS | –   |
-    | PNG | –   |
+    | AUS | 20  |
+    | PNG | 0   |
     
     Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240101)
 * [Men's PC
@@ -40,24 +40,24 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 3
-    
-    |     |     |
-    | --- | --- |
-    | PAK | 366 & 221 |
-    | ENG | 291 & 2 /36 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
-* [Men's Test
-    
-    Day 2
+    Day 3 Session 2
     
     |     |     |
     | --- | --- |
     | IND | 46  |
-    | NZL | 3 /180 |
+    | NZL | 402 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250301)
+* [Men's Test
+    
+    PAK won by 152 runs
+    
+    |     |     |
+    | --- | --- |
+    | PAK | 366 & 221 |
+    | ENG | 291 & 144 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
 * [Women's T20 WC
     
     RSA won by 8 wkts
@@ -80,14 +80,14 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250202)
 * [Men's T20I
     
-    SRI won by 9 wkts
+    NEP won by 17 runs
     
     |     |     |
     | --- | --- |
-    | SRI | 1 /166 |
-    | WI  | 8 /162 |
+    | USA | 7 /147 |
+    | NEP | 9 /164 |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250203)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250301)
 * Netball
     
 * [Women's Test
@@ -138,12 +138,12 @@ FOX SCORES
     
 * [NFL
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | NO  | 3   |
-    | DEN | 16  |
+    | NO  | 10  |
+    | DEN | 33  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250717)
 * Basketball
@@ -174,16 +174,6 @@ FOX SCORES
     
 * [MLB
     
-    Top 5th Innings
-    
-    |     |     |
-    | --- | --- |
-    | NYM | 2   |
-    | LAD | 5   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002A0FB0)
-* [MLB
-    
     Final
     
     |     |     |
@@ -192,6 +182,26 @@ FOX SCORES
     | NYY | 5   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002B5C98)
+* [MLB
+    
+    Final
+    
+    |     |     |
+    | --- | --- |
+    | NYM | 2   |
+    | LAD | 10  |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002A0FB0)
+* [MLB
+    
+    19/10 8:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NYM | –   |
+    | LAD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002AB903)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
