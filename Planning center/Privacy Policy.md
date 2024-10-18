@@ -98,7 +98,7 @@ Switch to Planning Center
     
     A roadmap to migration](https://www.planningcenter.com/getting-started)
 
-Use Cases
+Use cases
 
 * [Church planters
     
@@ -476,7 +476,7 @@ Get updates delivered to your inbox!
 
 * [Pricing](https://www.planningcenter.com/pricing)
 * [Changelog](https://www.planningcenter.com/changelog)
-* [Blog](https://www.planningcenter.com/blog)
+* [What's new](https://www.planningcenter.com/blog)
 * [Security](https://www.planningcenter.com/security)
 * [Status](https://status.planningcenter.com/)
 * [Downloads](https://www.planningcenter.com/check-ins/download)
