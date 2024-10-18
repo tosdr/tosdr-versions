@@ -2,14 +2,14 @@ Friday, October 18 2024
 
 Breaking News
 
+* [Dangerous To America, Or To Democrats](https://www.conservativedailynews.com/2024/10/dangerous-to-america-or-to-democrats/)
+* [President Joe Biden’s Schedule for Friday, October 18, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-18-2024/)
 * [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/)
 * [Former Clinton Pollster Warns Of ‘Eroding’ Blue Wall For Harris After Failing To Connect In Fox Interview](https://www.conservativedailynews.com/2024/10/former-clinton-pollster-warns-of-eroding-blue-wall-for-harris-after-failing-to-connect-in-fox-interview/)
 * [Trump-Appointed Judge Orders Alabama To Stop Effort To Remove Non-Citizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/trump-appointed-judge-orders-alabama-to-stop-effort-to-remove-non-citizens-from-voter-rolls/)
 * [Kamala Harris’ Refusal (and Inability) to Answer Questions](https://www.conservativedailynews.com/2024/10/kamala-harris-refusal-and-inability-to-answer-questions/)
 * [Supreme Court Allows Biden-Harris EPA Power Plant Rule To Stay In Effect](https://www.conservativedailynews.com/2024/10/supreme-court-allows-biden-harris-epa-power-plant-rule-to-stay-in-effect/)
 * [President Joe Biden’s Schedule for Thursday, October 17, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-17-2024/)
-* [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/)
-* [Biden-Harris Admin Recalls Hundreds Of Electric Buses Amid Fire Concerns](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,24 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5652-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/dangerous-to-america-or-to-democrats/)
+    
+    [Dangerous To America, Or To Democrats](https://www.conservativedailynews.com/2024/10/dangerous-to-america-or-to-democrats/)
+    
+    October 18, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-18-2024/)
+    
+    [President Joe Biden’s Schedule for Friday, October 18, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-18-2024/)
+    
+    October 18, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/10/why-cant-kamala-answer-a-simple-question/)
+    
+    [Why Can’t Kamala Answer a Simple Question?](https://www.conservativedailynews.com/2024/10/why-cant-kamala-answer-a-simple-question/)
+    
+    October 18, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Pentagon-220x150.jpg)](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/)
     
     [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/)
@@ -156,27 +174,10 @@ Recent Posts
     
     October 17, 2024
     
-* [![undecided voter](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/undecided/)
-    
-    [Undecided](https://www.conservativedailynews.com/2024/10/undecided/)
-    
-    October 17, 2024
-    
-* [![Joe Biden kamala harris the same](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz101724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-mirror-doesnt-lie/)
-    
-    [The Mirror Doesn’t Lie](https://www.conservativedailynews.com/2024/10/the-mirror-doesnt-lie/)
-    
-    October 17, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/08/us-supreme-court-building-2225765_1920-220x150.jpg)](https://www.conservativedailynews.com/2024/10/supreme-court-allows-biden-harris-epa-power-plant-rule-to-stay-in-effect/)
-    
-    [Supreme Court Allows Biden-Harris EPA Power Plant Rule To Stay In Effect](https://www.conservativedailynews.com/2024/10/supreme-court-allows-biden-harris-epa-power-plant-rule-to-stay-in-effect/)
-    
-    October 17, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [AR-15 for Home Defense: Why It Should Be Your Go-To Choice](https://www.thegunpage.com/ar-15-for-home-defense-why-it-should-be-your-go-to-choice/10611282)
 * [TFB 1,000 Round Review: PSA Sabre 15 (Duty Grade Or Don't-y Grade?)](https://www.thegunpage.com/tfb-1000-round-review-psa-sabre-15-duty-grade-or-dont-y-grade/10611277)
 * [POTD: Sandstorm by Daniel Defense](https://www.thegunpage.com/potd-sandstorm-by-daniel-defense/10611278)
 * [Concealed Carry Corner: Carrying In A System](https://www.thegunpage.com/concealed-carry-corner-carrying-in-a-system/10611279)
@@ -186,7 +187,6 @@ Recent Posts
 * [Walgreens Employee With Concealed Carry License Fatally Shoots Suspected Thief](https://www.thegunpage.com/walgreens-employee-with-concealed-carry-license-fatally-shoots-suspected-thief/10611269)
 * [MA: Anti-Liberty Super Bill Update](https://www.thegunpage.com/ma-anti-liberty-super-bill-update/10611268)
 * [Maryville, TN Police Department Awards Contract to Smith & Wesson](https://www.thegunpage.com/maryville-tn-police-department-awards-contract-to-smith-wesson/10611262)
-* [Taurus Pocket .22 Returns as the New 22TUC](https://www.thegunpage.com/taurus-pocket-22-returns-as-the-new-22tuc/10611261)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,8 @@ Contact Us
 
 Recent Comments
 
+* Will Delito on [US Hammers Underground Houthi Weapons Sites In Yemen With Airstrikes](https://www.conservativedailynews.com/2024/10/us-hammers-underground-houthi-weapons-sites-in-yemen-with-airstrikes/#comment-782733)
+* charles wilkins on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782729)
 * Stanley Warner on [Biden-Harris Admin Recalls Hundreds Of Electric Buses Amid Fire Concerns](https://www.conservativedailynews.com/2024/10/biden-harris-admin-recalls-hundreds-of-electric-buses-amid-fire-concerns/#comment-782725)
 * charles wilkins on [Team Kamala](https://www.conservativedailynews.com/2024/10/team-kamala/#comment-782723)
 * Bill on [Kamala Harris’ Interview On Fox Comes Unglued After Bret Baier Presses On Border Crisis](https://www.conservativedailynews.com/2024/10/kamala-harris-interview-on-fox-comes-unglued-after-bret-baier-presses-on-border-crisis/#comment-782720)
@@ -235,8 +237,6 @@ Recent Comments
 * Stan on [The Brat Energy Is Gone](https://www.conservativedailynews.com/2024/10/the-brat-energy-is-gone/#comment-782707)
 * charles wilkins on [Uncle Barack](https://www.conservativedailynews.com/2024/10/uncle-barack/#comment-782706)
 * William Wallace on [Tim Walz Let Slip What We Knew About The Left All Along](https://www.conservativedailynews.com/2024/10/tim-walz-let-slip-what-we-knew-about-the-left-all-along/#comment-782701)
-* TMann on [President Joe Biden’s Schedule for Monday, October 14, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-14-2024/#comment-782685)
-* charles wilkins on [The Story Teller](https://www.conservativedailynews.com/2024/10/the-story-teller/#comment-782684)
 
 [Close](#)
 
