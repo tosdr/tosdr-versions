@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Betrug mit Finanz­amts­briefen: Behörden warnen vor Betrug mit gefälschten Steuer­bescheiden](https://www.test.de/Betrug-mit-Finanzamtsbriefen-Behoerden-warnen-vor-Betrug-mit-gefaelschten-Steuerbescheiden-6163227-0/ "Betrug mit Finanzamtsbriefen - Behörden warnen vor Betrug mit gefälschten Steuerbescheiden")
-* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
-* [Unregelmäßig­keiten bei offenem Immobilienfonds: Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam](https://www.test.de/Unregelmaessigkeiten-bei-offenem-Immobilienfonds-Wie-es-zur-Abwertung-beim-Fonds-UniImmo-Wohnen-ZBI-kam-6142636-0/ "Unregelmäßigkeiten bei offenem Immobilienfonds - Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Betriebs­rente: Satte Renten­erhöhung dank Inflation](https://www.test.de/Betriebsrente-Satte-Rentenerhoehung-dank-Inflation-5977597-0/ "Betriebsrente - Satte Rentenerhöhung dank Inflation")
+* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
+* [Gut essen mit der Stiftung Warentest: Côte de Bœuf mit Pilzen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Cte-de-Buf-mit-Pilzen-5991048-0/ "Gut essen mit der Stiftung Warentest - Côte de Bœuf mit Pilzen")
+* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Betrug mit Finanz­amts­briefen: Behörden warnen vor Betrug mit gefälschten Steuer­bescheiden](https://www.test.de/Betrug-mit-Finanzamtsbriefen-Behoerden-warnen-vor-Betrug-mit-gefaelschten-Steuerbescheiden-6163227-0/ "Betrug mit Finanzamtsbriefen - Behörden warnen vor Betrug mit gefälschten Steuerbescheiden")
-* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
-* [Unregelmäßig­keiten bei offenem Immobilienfonds: Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam](https://www.test.de/Unregelmaessigkeiten-bei-offenem-Immobilienfonds-Wie-es-zur-Abwertung-beim-Fonds-UniImmo-Wohnen-ZBI-kam-6142636-0/ "Unregelmäßigkeiten bei offenem Immobilienfonds - Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Betriebs­rente: Satte Renten­erhöhung dank Inflation](https://www.test.de/Betriebsrente-Satte-Rentenerhoehung-dank-Inflation-5977597-0/ "Betriebsrente - Satte Rentenerhöhung dank Inflation")
+* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
+* [Gut essen mit der Stiftung Warentest: Côte de Bœuf mit Pilzen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Cte-de-Buf-mit-Pilzen-5991048-0/ "Gut essen mit der Stiftung Warentest - Côte de Bœuf mit Pilzen")
+* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Betrug mit Finanz­amts­briefen: Behörden warnen vor Betrug mit gefälschten Steuer­bescheiden](https://www.test.de/Betrug-mit-Finanzamtsbriefen-Behoerden-warnen-vor-Betrug-mit-gefaelschten-Steuerbescheiden-6163227-0/ "Betrug mit Finanzamtsbriefen - Behörden warnen vor Betrug mit gefälschten Steuerbescheiden")
-* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
-* [Unregelmäßig­keiten bei offenem Immobilienfonds: Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam](https://www.test.de/Unregelmaessigkeiten-bei-offenem-Immobilienfonds-Wie-es-zur-Abwertung-beim-Fonds-UniImmo-Wohnen-ZBI-kam-6142636-0/ "Unregelmäßigkeiten bei offenem Immobilienfonds - Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Betriebs­rente: Satte Renten­erhöhung dank Inflation](https://www.test.de/Betriebsrente-Satte-Rentenerhoehung-dank-Inflation-5977597-0/ "Betriebsrente - Satte Rentenerhöhung dank Inflation")
+* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
+* [Gut essen mit der Stiftung Warentest: Côte de Bœuf mit Pilzen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Cte-de-Buf-mit-Pilzen-5991048-0/ "Gut essen mit der Stiftung Warentest - Côte de Bœuf mit Pilzen")
+* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
-* [Betrug mit Finanz­amts­briefen: Behörden warnen vor Betrug mit gefälschten Steuer­bescheiden](https://www.test.de/Betrug-mit-Finanzamtsbriefen-Behoerden-warnen-vor-Betrug-mit-gefaelschten-Steuerbescheiden-6163227-0/ "Betrug mit Finanzamtsbriefen - Behörden warnen vor Betrug mit gefälschten Steuerbescheiden")
-* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
-* [Unregelmäßig­keiten bei offenem Immobilienfonds: Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam](https://www.test.de/Unregelmaessigkeiten-bei-offenem-Immobilienfonds-Wie-es-zur-Abwertung-beim-Fonds-UniImmo-Wohnen-ZBI-kam-6142636-0/ "Unregelmäßigkeiten bei offenem Immobilienfonds - Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Betriebs­rente: Satte Renten­erhöhung dank Inflation](https://www.test.de/Betriebsrente-Satte-Rentenerhoehung-dank-Inflation-5977597-0/ "Betriebsrente - Satte Rentenerhöhung dank Inflation")
+* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
+* [Gut essen mit der Stiftung Warentest: Côte de Bœuf mit Pilzen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Cte-de-Buf-mit-Pilzen-5991048-0/ "Gut essen mit der Stiftung Warentest - Côte de Bœuf mit Pilzen")
+* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
 
 Service Stiftung Warentest
 
