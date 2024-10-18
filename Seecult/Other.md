@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/marica-radojcic-presic/five-eggs/bendzamin.?itok=-idMZjOP)](http://seecult.org/galerija/galerija-umetnika/marica-radojcic-presic/five-eggs)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2009/2010/marko-krsmanovic-n.jpg?itok=vUTts44I)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20092010)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/trio-miska-plavog/dscf4621.jpg?itok=b8cGKB3J)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/trio-mi%C5%A1ka-plavog)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/mermer-i-zvuci/slavko-zivanovic/arandjelovac.jpg?itok=yAmHqs1z)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/mermer-i-zvuci/slavko-%C5%BEivanovi%C4%87)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
