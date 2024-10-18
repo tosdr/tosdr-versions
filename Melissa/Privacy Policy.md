@@ -627,23 +627,36 @@ View Data Broker Registrations](https://www.melissa.com/data-broker-registration
 
 [](https://www.melissa.com/data-broker-registrations "View Data Broker Registrations")
 
-[](https://www.melissa.com/data-broker-registrations "View Data Broker Registrations")
+[](https://www.melissa.com/data-broker-registrations "View Data Broker Registrations")[Modern Slavery Statement
+------------------------
 
-[](https://www.melissa.com/data-broker-registrations "View Data Broker Registrations")
+Melissa recognizes it has a key role to play in preventing all types of modern slavery.
 
-[](https://www.melissa.com/data-broker-registrations "View Data Broker Registrations")
+Read Modern Slavery Statement](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")
 
-   [](https://www.melissa.com/data-broker-registrations "View Data Broker Registrations")
+[](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")
 
-[](https://www.melissa.com/data-broker-registrations "View Data Broker Registrations")
+[](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")
 
-[](https://www.melissa.com/data-broker-registrations "View Data Broker Registrations")
+[](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")
 
-[](https://www.melissa.com/data-broker-registrations "View Data Broker Registrations")
+[](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")
 
-[Get in Touch](https://www.melissa.com/data-broker-registrations "View Data Broker Registrations")
+[](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")
 
-[](https://www.melissa.com/data-broker-registrations "View Data Broker Registrations")* [](https://www.melissa.com/data-broker-registrations "View Data Broker Registrations")[Contact Us](https://www.melissa.com/company/contact)
+[](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")
+
+   [](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")
+
+[](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")
+
+[](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")
+
+[](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")
+
+[Get in Touch](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")
+
+[](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")* [](https://www.melissa.com/modern-slavery-statement "Read Modern Slavery Statement")[Contact Us](https://www.melissa.com/company/contact)
 * [Customer Support](https://www.melissa.com/company/product-support)
 
 Brands
