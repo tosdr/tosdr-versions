@@ -242,7 +242,7 @@ For data portability requests, we will select a format in which to provide your 
 We do not charge a fee to process or respond to a Verified Request unless such Verified Request is excessive, repetitive or manifestly unfounded.  If we determine that a Verified Request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request. 
 
 _Right to Appeal_  
-In the event we deny a Verified Request, you have the right to seek an appeal of that decision.  To appeal a decision, please email californiahrprivacy@frontdoor.com and include “Privacy Appeal” in the subject line.  Within sixty (60) days of our receipt of your appeal request, we will inform you of any action taken or not taken in response to your appeal.  If you remain unsatisfied with our decision, you may contact your state’s attorney general via the contact information provided here. 
+In the event we deny a Verified Request, you have the right to seek an appeal of that decision.  To appeal a decision, please email californiahrprivacy@frontdoor.com and include “Privacy Appeal” in the subject line.  Within sixty (60) days of our receipt of your appeal request, we will inform you of any action taken or not taken in response to your appeal.  If you remain unsatisfied with our decision, you may contact your state’s attorney general via the contact information provided [here](https://www.naag.org/find-my-ag/). 
 
 **Non-Discrimination**  
 We will not discriminate against you for exercising any of your rights under the CPRA.  Unless permitted by the CPRA, we will not:
@@ -269,7 +269,7 @@ Frontdoor, Inc.
 3400 Players Club Parkway, Suite 300  
 Memphis, TN 38125
 
-(Last updated 10, 2024)
+(Last updated October 1, 2024)
 
 * [About](https://www.frontdoorhome.com/about/)
 * [Brands](https://www.frontdoorhome.com/brands/)
