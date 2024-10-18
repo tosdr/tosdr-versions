@@ -147,9 +147,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Attendees play an online game on computers in the Bandai Namco Entertainment booth at the Tokyo Game Show in Chiba in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428048.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees play an online game on computers in the Bandai Namco Entertainment booth at the Tokyo Game Show in Chiba in September.")](https://www.japantimes.co.jp/business/2024/10/16/companies/bandai-namco-cuts-jobs/ "Bandai Namco cuts jobs and culls titles as game sector woes deepen")
 
-[Foreign wrestlers add international flair to All Japan Women’s Sumo Championships](https://www.japantimes.co.jp/sports/2024/10/16/sumo/womens-sumo-championships-international-flavor/ "Foreign wrestlers add international flair to All Japan Women’s Sumo Championships")
+[TSMC bulls expect strong results to support record-high shares](https://www.japantimes.co.jp/business/2024/10/17/tech/tsmc-record-high-shares/ "TSMC bulls expect strong results to support record-high shares")
 
-  [![Australian Giselle Shaw, 18, competes at the All-Japan Women's Sumo Championships in Uji, Kyoto Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428127.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Australian Giselle Shaw, 18, competes at the All-Japan Women's Sumo Championships in Uji, Kyoto Prefecture, on Sunday.")](https://www.japantimes.co.jp/sports/2024/10/16/sumo/womens-sumo-championships-international-flavor/ "Foreign wrestlers add international flair to All Japan Women’s Sumo Championships")
+  [![The Taiwan Semiconductor Manufacturing Co. logo at the TSMC Museum of Innovation in Hsinchu, Taiwan, on May 29. Analysts say TSMC's longer-term outlook, which hinges on demand for the high-end chips used to train and host artificial intelligence models, should remain intact.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428296.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Taiwan Semiconductor Manufacturing Co. logo at the TSMC Museum of Innovation in Hsinchu, Taiwan, on May 29. Analysts say TSMC's longer-term outlook, which hinges on demand for the high-end chips used to train and host artificial intelligence models, should remain intact.")](https://www.japantimes.co.jp/business/2024/10/17/tech/tsmc-record-high-shares/ "TSMC bulls expect strong results to support record-high shares")
 
 Editors' Picks
 --------------
@@ -186,13 +186,13 @@ By [Takashi Mochizuki](https://www.japantimes.co.jp/author/456/takashi-mochizuki
 
   [![Attendees play an online game on computers in the Bandai Namco Entertainment booth at the Tokyo Game Show in Chiba in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428048.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees play an online game on computers in the Bandai Namco Entertainment booth at the Tokyo Game Show in Chiba in September.")](https://www.japantimes.co.jp/business/2024/10/16/companies/bandai-namco-cuts-jobs/ "Bandai Namco cuts jobs and culls titles as game sector woes deepen")
 
-[SUMO](https://www.japantimes.co.jp/sports/sumo/ "SUMO")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Foreign wrestlers add international flair to All Japan Women’s Sumo Championships](https://www.japantimes.co.jp/sports/2024/10/16/sumo/womens-sumo-championships-international-flavor/ "Foreign wrestlers add international flair to All Japan Women’s Sumo Championships")
+[TSMC bulls expect strong results to support record-high shares](https://www.japantimes.co.jp/business/2024/10/17/tech/tsmc-record-high-shares/ "TSMC bulls expect strong results to support record-high shares")
 
-By [John Gunning](https://www.japantimes.co.jp/author/286/john-gunning/ "John Gunning")  
+By [Charlotte Yang](https://www.japantimes.co.jp/author/3663/charlotte-yang/ "Charlotte Yang")  
 
-  [![Australian Giselle Shaw, 18, competes at the All-Japan Women's Sumo Championships in Uji, Kyoto Prefecture, on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/16/428127.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Australian Giselle Shaw, 18, competes at the All-Japan Women's Sumo Championships in Uji, Kyoto Prefecture, on Sunday.")](https://www.japantimes.co.jp/sports/2024/10/16/sumo/womens-sumo-championships-international-flavor/ "Foreign wrestlers add international flair to All Japan Women’s Sumo Championships")
+  [![The Taiwan Semiconductor Manufacturing Co. logo at the TSMC Museum of Innovation in Hsinchu, Taiwan, on May 29. Analysts say TSMC's longer-term outlook, which hinges on demand for the high-end chips used to train and host artificial intelligence models, should remain intact.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/17/428296.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Taiwan Semiconductor Manufacturing Co. logo at the TSMC Museum of Innovation in Hsinchu, Taiwan, on May 29. Analysts say TSMC's longer-term outlook, which hinges on demand for the high-end chips used to train and host artificial intelligence models, should remain intact.")](https://www.japantimes.co.jp/business/2024/10/17/tech/tsmc-record-high-shares/ "TSMC bulls expect strong results to support record-high shares")
 
 Podcast
 -------
@@ -255,19 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Wise becomes first foreign firm to gain direct access to Japan's payment clearing network](https://www.japantimes.co.jp/business/2024/10/17/wise-payment-clearing-first-foreign-firm/ "Wise becomes first foreign firm to gain direct access to Japan's payment clearing network")
+[Nvidia-backed firm eyes a data center near nuclear power in Japan](https://www.japantimes.co.jp/business/2024/10/18/companies/data-center-nuclear-power/ "Nvidia-backed firm eyes a data center near nuclear power in Japan")
 
-9 hours ago
+24 mins ago
 
-[Two unexploded bombs found near airport in Okinawa](https://www.japantimes.co.jp/news/2024/10/17/japan/unexploded-bombs-southern-japan-airport/ "Two unexploded bombs found near airport in Okinawa")
+[Couche-Tard’s 7-Eleven overlaps to face skeptical U.S. FTC review](https://www.japantimes.co.jp/business/2024/10/18/companies/couche-tard-us-ftc/ "Couche-Tard’s 7-Eleven overlaps to face skeptical U.S. FTC review")
 
-10 hours ago
+45 mins ago
 
-[Ishiba Cabinet logs lowest initial support since 2000: Jiji poll](https://www.japantimes.co.jp/news/2024/10/17/japan/politics/ishiba-cabinet-lowest-public-support/ "Ishiba Cabinet logs lowest initial support since 2000: Jiji poll")
+[MHI, BAE Systems showcase drones for potential use with GCAP fighter](https://www.japantimes.co.jp/news/2024/10/18/japan/defense-exhibition-gcap-fighter-jet/ "MHI, BAE Systems showcase drones for potential use with GCAP fighter")
 
-[Robberies in Kanto region may be linked to 'dark' part-time jobs](https://www.japantimes.co.jp/news/2024/10/17/japan/crime-legal/kanto-region-robberies-yamibaito/ "Robberies in Kanto region may be linked to 'dark' part-time jobs")
+48 mins ago
 
-[Japan Post Insurance markets chief sees Nikkei setting new records after votes](https://www.japantimes.co.jp/business/2024/10/17/markets/japan-insurer-nikkei-share-prediction/ "Japan Post Insurance markets chief sees Nikkei setting new records after votes")
+[Japan’s inflation slows for first time since April](https://www.japantimes.co.jp/business/2024/10/18/economy/japan-september-inflation-slows/ "Japan’s inflation slows for first time since April")
+
+1 hours ago
+
+[China launches survey to understand 'fear of having children'](https://www.japantimes.co.jp/news/2024/10/18/asia-pacific/society/china-childbearing-fear-survey/ "China launches survey to understand 'fear of having children'")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
