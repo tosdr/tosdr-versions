@@ -3,7 +3,6 @@
 [![Open Source Initiative](https://i0.wp.com/opensource.org/wp-content/uploads/2023/03/cropped-OSI-horizontal-large.png?fit=640%2C229&ssl=1)](https://opensource.org/)
 
 * [About](https://opensource.org/about)
-* [Open Source AI](https://opensource.org/deepdive)
 * [Open Source Definition](https://opensource.org/osd)
 * [Licenses](https://opensource.org/licenses)
 * [Blog](https://opensource.org/blog)
@@ -11,7 +10,6 @@
 * [Join](https://members.opensource.org/join/)
 
 * [About](https://opensource.org/about)
-* [Open Source AI](https://opensource.org/deepdive)
 * [Open Source Definition](https://opensource.org/osd)
 * [Licenses](https://opensource.org/licenses)
 * [Blog](https://opensource.org/blog)
