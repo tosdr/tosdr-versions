@@ -39,7 +39,7 @@
     * [Make an appointment](https://patients.adhdonline.com/dashboard/appointments)
     * [Updates](https://adhdonline.com/patient-updates/)
     * [Submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new)
-* [Start now](https://patients.adhdonline.com/signup)
+* [Take Smart Assessment](https://patients.adhdonline.com/signup)
 
 * [Diagnosis](#)
     * [Smart Assessment](https://adhdonline.com/assessment/)
@@ -76,9 +76,9 @@
     * [Make an appointment](https://patients.adhdonline.com/dashboard/appointments)
     * [Updates](https://adhdonline.com/patient-updates/)
     * [Submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new)
-* [Start now](https://patients.adhdonline.com/signup)
+* [Take Smart Assessment](https://patients.adhdonline.com/signup)
 
-![ellipse-and-diamond](https://adhdonline.com/wp-content/uploads/2023/05/ellipse-and-diamond.svg "ellipse-and-diamond")
+![](https://adhdonline.com/wp-content/uploads/2023/05/ellipse-and-diamond.svg "ellipse-and-diamond")
 
 Terms & Conditions
 ==================
