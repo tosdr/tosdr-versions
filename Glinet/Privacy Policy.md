@@ -13,7 +13,7 @@
     
     |     |     |
     | --- | --- |
-    | ![GL-X750 / Spitz](https://static.gl-inet.com/www/images/products/general/product-list/product-list_x3000.jpg) | ###### Cellular Router<br><br>[GL-XE3000 / Puli AX](https://www.gl-inet.com/products/gl-xe3000/)  <br>[GL-X3000 / Spitz AX POPULAR](https://www.gl-inet.com/products/gl-x3000/)  <br>[GL-X750 / Spitz](https://www.gl-inet.com/products/gl-x750/)  <br>[GL-X300B / Collie](https://www.gl-inet.com/products/gl-x300b/)  <br>[GL-XE300 / Puli](https://www.gl-inet.com/products/gl-xe300/) |
+    | ![GL-X750 / Spitz](https://static.gl-inet.com/www/images/products/general/product-list/product-list_x3000.jpg) | ###### Cellular Router<br><br>[GL-XE3000 / Puli AX](https://www.gl-inet.com/products/gl-xe3000/)  <br>[GL-X3000 / Spitz AX POPULAR](https://www.gl-inet.com/products/gl-x3000/)  <br>[GL-X2000 / Spitz Plus UPCOMING](https://www.gl-inet.com/products/gl-x2000/)  <br>[GL-X750 / Spitz](https://www.gl-inet.com/products/gl-x750/)  <br>[GL-X300B / Collie](https://www.gl-inet.com/products/gl-x300b/)  <br>[GL-XE300 / Puli](https://www.gl-inet.com/products/gl-xe300/) |
     
     |     |     |
     | --- | --- |
