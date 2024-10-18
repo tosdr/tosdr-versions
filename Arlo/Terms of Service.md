@@ -8,7 +8,6 @@ Shop [Top Deals](https://www.arlo.com/en-us/top-deals "Top Deals") & save up to 
 * [Security Plans](#)
 * [Accessories](https://www.arlo.com/en-us/accessories)
 * [Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html)
-* [Arlo Total Security NEW](https://www.arlo.com/en-us/arlototalsecurity)
 
 * [Support](https://www.arlo.com/en-us/support)
 * [Sign in](https://www.arlo.com/en-us/login)
@@ -18,10 +17,10 @@ Shop [Top Deals](https://www.arlo.com/en-us/top-deals "Top Deals") & save up to 
     * [Order Status](https://www.arlo.com/en-us/orderstatus)
     * [My Arlo Dashboard](https://my.arlo.com/)
     
-* [![Search](/on/demandware.static/Sites-arlo-Site/-/default/dwe619d7ed/images/assets/images/navigation/search.png)](# " ")
+* [![Search](/on/demandware.static/Sites-arlo-Site/-/default/dw9c306a8e/images/assets/images/navigation/search.png)](# " ")
 * [0
     
-    ![Cart](/on/demandware.static/Sites-arlo-Site/-/default/dw0f7cac65/images/assets/images/navigation/cart.png)](https://www.arlo.com/en-us/cart)
+    ![Cart](/on/demandware.static/Sites-arlo-Site/-/default/dwc97559f9/images/assets/images/navigation/cart.png)](https://www.arlo.com/en-us/cart)
 
 ### Security System
 
@@ -130,7 +129,7 @@ From $79.99](https://www.arlo.com/en-us/doorbell/AVD3001-100NAS.html)
 
 [NEW
 
-![Arlo Wired Floodlight, in white, facing right](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw2694547a/Products/HiRes%20Images/Wired%20Floodlight/wired-floodlight-right-w.png?sw=840&sh=723&sm=fit)
+![Arlo Wired Floodlight, in white, facing right](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwbe74d2bb/Products/HiRes%20Images/Wired%20Floodlight/wired-floodlight-right-w.png?sw=840&sh=723&sm=fit)
 
 Wired Floodlight
 
@@ -273,7 +272,7 @@ From $79.99](https://www.arlo.com/en-us/doorbell/AVD3001-100NAS.html)
 
 [NEW
 
-![Arlo Wired Floodlight, in white, facing right](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw2694547a/Products/HiRes%20Images/Wired%20Floodlight/wired-floodlight-right-w.png?sw=840&sh=723&sm=fit "Wired Floodlight")
+![Arlo Wired Floodlight, in white, facing right](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwbe74d2bb/Products/HiRes%20Images/Wired%20Floodlight/wired-floodlight-right-w.png?sw=840&sh=723&sm=fit "Wired Floodlight")
 
 Wired Floodlight
 
@@ -312,8 +311,6 @@ Security Plans
 [### Accessories](https://www.arlo.com/en-us/accessories "Arlo Smart")
 
 [### Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html "Arlo Smart")
-
-[### Arlo Total Security NEW](https://www.arlo.com/en-us/arlototalsecurity "Arlo Smart")
 
 * [### Products](https://www.arlo.com/en-us/products "Arlo Smart")
     
@@ -445,7 +442,7 @@ Security Plans
         
         * [NEW
             
-            ![Arlo Wired Floodlight, in white, facing right](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw2694547a/Products/HiRes%20Images/Wired%20Floodlight/wired-floodlight-right-w.png?sw=840&sh=723&sm=fit "Wired Floodlight")
+            ![Arlo Wired Floodlight, in white, facing right](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwbe74d2bb/Products/HiRes%20Images/Wired%20Floodlight/wired-floodlight-right-w.png?sw=840&sh=723&sm=fit "Wired Floodlight")
             
             Wired Floodlight
             
@@ -485,7 +482,6 @@ Security Plans
     
 * [### Accessories](https://www.arlo.com/en-us/accessories "Arlo Smart")
 * [### Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html "Arlo Smart")
-* [### Arlo Total Security NEW](https://www.arlo.com/en-us/arlototalsecurity "Arlo Smart")
 
 * [Support](https://www.arlo.com/en-us/support "Support")
 * [Store Sign In](https://www.arlo.com/en-us/login "Store Sign In ")
