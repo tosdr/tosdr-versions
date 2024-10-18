@@ -1,6 +1,6 @@
 [Toronto, ON](https://www.redflagdeals.com/in/?return_url=https%3A//www.redflagdeals.com/info/privacy/)
 
-[](#)   [![RedFlagDeals.com](https://assets.rfdcontent.com/graphics/rfd/v33.36.315/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")![](https://assets.rfdcontent.com/graphics/rfd/v33.36.315/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com") ![Uniquely Canadian](https://assets.rfdcontent.com/graphics/rfd/v33.36.315/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")](https://www.redflagdeals.com/)[Login](#)
+[](#)   [![RedFlagDeals.com](https://assets.rfdcontent.com/graphics/rfd/v33.36.315-hotfix/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")![](https://assets.rfdcontent.com/graphics/rfd/v33.36.315-hotfix/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com") ![Uniquely Canadian](https://assets.rfdcontent.com/graphics/rfd/v33.36.315-hotfix/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")](https://www.redflagdeals.com/)[Login](#)
 
 [Login/ Create an account](#)
 
@@ -29,7 +29,7 @@ Don't have an account? [Sign up now.](https://www.redflagdeals.com/user/signup/?
 * [Deal Alerts](https://www.redflagdeals.com/alerts/)
 * [Log out](https://www.redflagdeals.com/user/logout/?return_url=https%3A//www.redflagdeals.com/info/privacy/)
 
-[![RedFlagDeals.com](https://assets.rfdcontent.com/graphics/rfd/v33.36.315/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")](https://www.redflagdeals.com/)
+[![RedFlagDeals.com](https://assets.rfdcontent.com/graphics/rfd/v33.36.315-hotfix/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")](https://www.redflagdeals.com/)
 
 * [Deals](https://www.redflagdeals.com/deals/)
     
