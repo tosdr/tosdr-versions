@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Why some of the source files are not backed u ...](https://www.backup4all.com/why-some-of-the-source-files-are-not-backed-up-kb.html)  
+* [How to backup your data to Eucalyptus/Walrus](https://www.backup4all.com/how-to-backup-your-data-to-eucalyptus-walrus-kb.html)  
     
-* [Backup images with Backup4all](https://www.backup4all.com/backup-images-with-backup4all-kb.html)  
+* [How to override the application folders](https://www.backup4all.com/how-to-override-the-application-folders-kb.html)  
     
-* [How to test a backup?](https://www.backup4all.com/how-to-test-a-backup-kb.html)  
+* [How to restore a backup from Amazon S3](https://www.backup4all.com/how-to-restore-a-backup-from-amazon-s3-kb.html)  
     
-* [How to back up data files from Dunkel using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-dunkel-using-backup4all-kb.html)  
+* [How to backup your data to Backblaze](https://www.backup4all.com/how-to-backup-your-data-to-backblaze-kb.html)  
     
-* [How to back up data files from Numergy using ...](https://www.backup4all.com/how-to-back-up-data-files-from-numergy-using-backup4all-kb.html)  
+* [Backup to DVD](https://www.backup4all.com/backup-to-dvd-kb.html)  
     
 
 Choose language:
