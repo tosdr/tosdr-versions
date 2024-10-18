@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/eb923b7c-f58a-452c-bfed-b68f6c146801/20241018T022340/eb923b7c-f58a-452c-bfed-b68f6c146801_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eb923b7c-f58a-452c-bfed-b68f6c146801/20241018T022340/eb923b7c-f58a-452c-bfed-b68f6c146801_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-correctional-workers-rally-stronger-security-protections/526-7b0927d8-ba78-42d2-9c74-399b7740b19c)
+    *  [![](https://media.tegna-media.com/assets/KREM/images/b8edee53-a71b-4288-84b4-287679d190fc/20240531T211648/b8edee53-a71b-4288-84b4-287679d190fc_16x9.jpg) ![](https://media.tegna-media.com/assets/KREM/images/b8edee53-a71b-4288-84b4-287679d190fc/20240531T211648/b8edee53-a71b-4288-84b4-287679d190fc_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-local-gas-tax-street-improvement-utility-fee/526-c1d7ce74-f39c-495e-bb97-9b8c5a14b652)
         
-        #### [Illinois correctional workers rally for stronger security and better protections](https://www.wqad.com/article/news/local/illinois-correctional-workers-rally-stronger-security-protections/526-7b0927d8-ba78-42d2-9c74-399b7740b19c)
+        #### [City of Rock Island implements new street improvement utility fee, eliminates local gas tax](https://www.wqad.com/article/news/local/rock-island-local-gas-tax-street-improvement-utility-fee/526-c1d7ce74-f39c-495e-bb97-9b8c5a14b652)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a1459d43-12eb-47ad-9bf6-b212c51694ef/20240619T233058/a1459d43-12eb-47ad-9bf6-b212c51694ef_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a1459d43-12eb-47ad-9bf6-b212c51694ef/20240619T233058/a1459d43-12eb-47ad-9bf6-b212c51694ef_360x203.jpg)](https://www.wqad.com/article/sports/local-sports/quad-city-steamwheelers-subscription-season-tickets/526-87256f12-2eb1-4425-b168-1989bc9f47f0)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e408e63f-1bdb-450d-94b8-1f8f637cd037/20241018T203823/e408e63f-1bdb-450d-94b8-1f8f637cd037_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e408e63f-1bdb-450d-94b8-1f8f637cd037/20241018T203823/e408e63f-1bdb-450d-94b8-1f8f637cd037_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/fulton-police-searching-fugitive-pursuit/526-2fef9b9c-d8eb-4899-8bd5-79482021b926)
         
-        #### [QC Steamwheelers offering new subscription pricing on season tickets](https://www.wqad.com/article/sports/local-sports/quad-city-steamwheelers-subscription-season-tickets/526-87256f12-2eb1-4425-b168-1989bc9f47f0)
+        #### [Fulton police searching for fugitive after pursuit](https://www.wqad.com/article/news/local/public-safety/fulton-police-searching-fugitive-pursuit/526-2fef9b9c-d8eb-4899-8bd5-79482021b926)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-60°
+67°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
@@ -98,10 +98,11 @@ Davenport, IA »](https://www.wqad.com/weather)
 * [Ask Andrew](https://www.wqad.com/article/weather/ask-andrew/ask-andrew/526-62a556b9-8c63-4d25-9bb1-d4f62ce24546)
 * [As Seen On TV](https://www.wqad.com/as-seen-on-tv)
 * [Meet the Team](https://www.wqad.com/meet-the-team)
+* [The Current](https://www.wqad.com/the-current)
 * [Contact Us](https://www.wqad.com/contact-us)
+* [Radars](https://www.wqad.com/radar)
 * [Sports](https://www.wqad.com/sports)
 * [TV Listings](https://www.wqad.com/tv-listings)
-* [Radars](https://www.wqad.com/radar)
 * [Contests](https://www.wqad.com/contests)
 * [Advertise With Us](https://www.wqad.com/advertise)
 * [Gas Prices](https://www.wqad.com/gas-prices-quad-cities)
