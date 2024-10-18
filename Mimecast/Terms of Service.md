@@ -14,7 +14,7 @@
 
 [](#main)
 
-[M365 Threat Scan](https://www.mimecast.com/free-trial/)
+[M365 Threat Scan](https://www.mimecast.com/free-trial/?nv=true)
 
 [Get a Quote](https://www.mimecast.com/get-a-quote/)
 
@@ -217,7 +217,7 @@ Quick Links
     * [français](https://www.mimecast.com/fr/legal/terms-of-use/)
     
 
-[M365 Threat Scan](https://www.mimecast.com/free-trial/)
+[M365 Threat Scan](https://www.mimecast.com/free-trial/?nv=true)
 
 [Get a Quote](https://www.mimecast.com/get-a-quote/)
 
