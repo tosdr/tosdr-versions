@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/4/csm_capa-pajugamer-certa_15688d44e1.jpg)
+   [![Câmera flagra criminosos furtando moto guardada em estacionamento ](https://tnh1-cdn1.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/18/furto_motocicleta.png)
+
+Polícia
+
+Câmera flagra criminosos furtando moto guardada em estacionamento](https://www.tnh1.com.br/noticia/nid/camera-flagra-criminosos-furtando-moto-guardada-em-estacionamento/ "Câmera flagra criminosos furtando moto guardada em estacionamento ")    [![3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/4/csm_capa-pajugamer-certa_15688d44e1.jpg)
 
 Veja programação
 
-3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://www.tnh1.com.br/noticia/nid/3a-edicao-do-arena-pajugamer-ta-on-o-tnh1-foi-conferir-abertura-do-evento/ "3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento")   [![Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/b/csm_17-10-24-comite-tecnico-dcm-pinheiros-defesa-civil-fotos-beto-macario-1_c7efab4a5d.jpeg)
+3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento](https://www.tnh1.com.br/noticia/nid/3a-edicao-do-arena-pajugamer-ta-on-o-tnh1-foi-conferir-abertura-do-evento/ "3ª edição do Arena Pajugamer tá on! o TNH1 foi conferir abertura do evento")   [![Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/b/csm_17-10-24-comite-tecnico-dcm-pinheiros-defesa-civil-fotos-beto-macario-1_c7efab4a5d.jpeg)
 
 Maceió
 
-Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://www.tnh1.com.br/noticia/nid/comite-tecnico-faz-novas-vistorias-nos-bairros-adjacentes-ao-mapa-de-afundamento-do-solo-em-maceio/ "Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió")   [![Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/5/csm_incendio_carro_Avenida_Josefa_de_Melo_-_foto_Reproducao_0d121e277a.jpg)
+Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió](https://www.tnh1.com.br/noticia/nid/comite-tecnico-faz-novas-vistorias-nos-bairros-adjacentes-ao-mapa-de-afundamento-do-solo-em-maceio/ "Comitê Técnico faz novas vistorias nos bairros adjacentes ao Mapa de afundamento do solo em Maceió")   [![Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/5/csm_incendio_carro_Avenida_Josefa_de_Melo_-_foto_Reproducao_0d121e277a.jpg)
 
 barro duro
 
-Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://www.tnh1.com.br/noticia/nid/perda-total-video-mostra-carro-sendo-destruido-por-chamas-na-josefa-de-melo/ "Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo")   [![Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_operacao-firewall-prisao-suspeitos_35360c8e33.jpg)
+Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo](https://www.tnh1.com.br/noticia/nid/perda-total-video-mostra-carro-sendo-destruido-por-chamas-na-josefa-de-melo/ "Perda total: vídeo mostra carro sendo destruído por chamas na Josefa de Melo")   [![Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_operacao-firewall-prisao-suspeitos_35360c8e33.jpg)
 
 Operação Firewall
 
-Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-suspeita-de-furtar-equipamentos-em-torres-de-telefonia-em-maceio/ "Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió")   [![Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_fraude-grupo-IML_35c3b93d98.jpg)
+Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió](https://www.tnh1.com.br/noticia/nid/dupla-e-presa-suspeita-de-furtar-equipamentos-em-torres-de-telefonia-em-maceio/ "Dupla é presa suspeita de furtar equipamentos em torres de telefonia em Maceió")   [![Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_fraude-grupo-IML_35c3b93d98.jpg)
 
 Veja vídeo
 
-Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://www.tnh1.com.br/noticia/nid/imagens-mostram-suspeitos-de-fraude-em-abastecimento-de-viatura-do-iml/ "Imagens mostram suspeitos de fraude em abastecimento de viatura do IML")   [![Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_outubro_rosa_parque_shopping_bb283e7abf.png)
-
-Maceió
-
-Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado](https://www.tnh1.com.br/noticia/nid/outubro-rosa-parque-shopping-promove-rodas-de-conversa-com-medicos-desfile-e-oficinas-de-autocuidado/ "Outubro Rosa: Parque Shopping promove rodas de conversa com médicos, desfile e oficinas de autocuidado")
+Imagens mostram suspeitos de fraude em abastecimento de viatura do IML](https://www.tnh1.com.br/noticia/nid/imagens-mostram-suspeitos-de-fraude-em-abastecimento-de-viatura-do-iml/ "Imagens mostram suspeitos de fraude em abastecimento de viatura do IML")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,31 +82,31 @@ Foragido de Pernambuco morre após trocar tiros com policiais em Alagoas](https:
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Mãe encontra filho de 11 anos morto boiando em piscina de plástico ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/b/csm_guilherme_piscina_3f9c722a00.png)
-
-em rio largo
-
-Mãe encontra filho de 11 anos morto boiando em piscina de plástico](https://www.tnh1.com.br/noticia/nid/mae-encontra-filho-de-11-anos-morto-boiando-em-piscina-de-plastico/ "Mãe encontra filho de 11 anos morto boiando em piscina de plástico ")   [!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_742e2e7175.jpeg)
-
-quase 10 mil imagens
-
-"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")   [![Polícia apreende mais de três quilos de drogas durante ação em Piranhas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/c/csm_pm-apreende-mais-de-tres-quilos-de-drogas-durante-acao-em-piranhas_d0887af054.jpeg)
+   [![IML procura familiares de homem assassinado por amante em Rio Largo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/c/csm_Moacir_da_Silva_-_foto_Divulgacao_Policia_Cientifica_2_e5e1224cb0.jpg)
 
 Polícia
 
-Polícia apreende mais de três quilos de drogas durante ação em Piranhas](https://www.tnh1.com.br/noticia/nid/policia-apreende-mais-de-tres-quilos-de-drogas-durante-acao-em-piranhas/ "Polícia apreende mais de três quilos de drogas durante ação em Piranhas")   [![Vídeo mostra mulher colocando fogo em motos na frente de loja na Avenida Fernandes Lima](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/c/csm_incendio_fernandes_lima_-_foto_reproducao_video_9bf2f553e3.jpg)
+IML procura familiares de homem assassinado por amante em Rio Largo](https://www.tnh1.com.br/noticia/nid/iml-procura-familiares-de-homem-assassinado-por-amante-em-rio-largo/ "IML procura familiares de homem assassinado por amante em Rio Largo")   [![Um dia após sair da cadeia, homem volta a ser preso por furtar lojas em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/8/csm_homem-preso-Jatiuca-furtos-cortesia_d25a74c8cc.png)
 
-Contida por gerente
+Veja vídeo
 
-Vídeo mostra mulher colocando fogo em motos na frente de loja na Avenida Fernandes Lima](https://www.tnh1.com.br/noticia/nid/video-mostra-mulher-colocando-fogo-em-motos-na-frente-de-loja-na-avenida-fernandes-lima/ "Vídeo mostra mulher colocando fogo em motos na frente de loja na Avenida Fernandes Lima")   [![Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/9/csm_lider_pcc_66b1883f54.png)
+Um dia após sair da cadeia, homem volta a ser preso por furtar lojas em Maceió](https://www.tnh1.com.br/noticia/nid/um-dia-apos-sair-da-cadeia-homem-volta-a-ser-preso-por-furtar-lojas-em-maceio/ "Um dia após sair da cadeia, homem volta a ser preso por furtar lojas em Maceió")   [![Operacão Game Over: Polícia Civil encerra investigação contra influenciadores digitais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/c/csm_csm_Carros_apreendidos_Jogo_do_Tigrinho_-_foto_PCAL_a8e2e220d4_afbc5b41c4.jpeg)
 
-'Damares'
+Polícia
 
-Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/acusada-de-ordenar-mortes-lider-do-pcc-e-presa-vivendo-tranquilamente-no-interior-de-alagoas/ "Acusada de ordenar mortes, líder do PCC é presa vivendo tranquilamente no interior de Alagoas")   [![Foragido por estuprar criança enquanto trabalhava como garçom em festa é preso em Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/f/csm_viatura_pc_-_foto_ascom_pc_ff803f7f79.jpg)
+Operacão Game Over: Polícia Civil encerra investigação contra influenciadores digitais](https://www.tnh1.com.br/noticia/nid/operacao-game-over-policia-civil-encerra-investigacao-contra-influenciadores-digitais/ "Operacão Game Over: Polícia Civil encerra investigação contra influenciadores digitais")   [![Quatro meses depois: veja o que se sabe sobre a morte de blogueiro de política em Junqueiro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/d/csm_adriano_farias_arquivo_pessoal_15c4a2d4a9.png)
 
-12 anos depois
+morto a tiros
 
-Foragido por estuprar criança enquanto trabalhava como garçom em festa é preso em Arapiraca](https://www.tnh1.com.br/noticia/nid/foragido-por-estuprar-crianca-enquanto-trabalhava-como-garcom-em-festa-e-preso-em-arapiraca/ "Foragido por estuprar criança enquanto trabalhava como garçom em festa é preso em Arapiraca")
+Quatro meses depois: veja o que se sabe sobre a morte de blogueiro de política em Junqueiro](https://www.tnh1.com.br/noticia/nid/quatro-meses-depois-veja-o-que-se-sabe-sobre-a-morte-de-blogueiro-de-politica-em-junqueiro/ "Quatro meses depois: veja o que se sabe sobre a morte de blogueiro de política em Junqueiro")   [![Veja as pistas que levaram à prisão de companheiro de professora morta com coxinha envenenada ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_Caso_Joyse_-_coletiva_-_delegado_Romulo_Andrade_-_foto_Reproducao_TV_Pajucara_78e8bab311.jpg)
+
+passo a passo
+
+Veja as pistas que levaram à prisão de companheiro de professora morta com coxinha envenenada](https://www.tnh1.com.br/noticia/nid/veja-as-pistas-que-levaram-a-prisao-de-companheiro-de-professora-morta-com-coxinha-envenenada/ "Veja as pistas que levaram à prisão de companheiro de professora morta com coxinha envenenada ")   [![Perícia confirma que professora morreu após ingerir alimento contaminado com praguicida ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_mulher-morre-envenenada-interior-alagoas-reproducao_ba21091880.jpeg)
+
+caso joyce
+
+Perícia confirma que professora morreu após ingerir alimento contaminado com praguicida](https://www.tnh1.com.br/noticia/nid/pericia-confirma-que-professora-morreu-apos-ingerir-alimento-contaminado-com-praguicida/ "Perícia confirma que professora morreu após ingerir alimento contaminado com praguicida ")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,6 +115,16 @@ Foragido por estuprar criança enquanto trabalhava como garçom em festa é pres
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
+
+Pessoas & Negócios
+
+Primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -188,7 +198,15 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/3/csm_prisao_rio_largo_acc562b54d.png)
+[![Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/b/csm_menino-2-anos-bahia-QI-reproducao-arquivo-pessoal_152e53af00.jpg)
+
+superdotado
+
+superdotado
+
+Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI
+
+Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI](https://www.tnh1.com.br/noticia/nid/menino-de-2-anos-da-bahia-e-o-brasileiro-mais-jovem-a-entrar-para-sociedade-internacional-de-alto-qi/ "Menino de 2 anos da Bahia é o brasileiro mais jovem a entrar para sociedade internacional de alto QI")[![Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/3/csm_prisao_rio_largo_acc562b54d.png)
 
 em Rio Largo
 
@@ -196,49 +214,7 @@ em Rio Largo
 
 Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento
 
-Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-assassinar-e-carbonizar-corpo-do-amante-para-esconder-relacionamento/ "Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento")[![Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_sombra_suposta_vitima_dono_de_academia_6ad1fc91ce.png)
-
-Polícia investiga
-
-Polícia investiga
-
-Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió
-
-Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://www.tnh1.com.br/noticia/nid/mulheres-denunciam-dono-de-academia-por-assedio-estupro-e-violencia-psicologica-em-maceio/ "Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió")[![Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/3/csm_Rua_Jangadeiros_Alagoano_-_foto_Google_Street_View_c8fc9d4848.jpg)
-
-55 anos
-
-55 anos
-
-Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias
-
-Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias](https://www.tnh1.com.br/noticia/nid/turista-e-abordado-por-assaltantes-na-pajucara-e-perde-r-6-mil-em-transferencias-bancarias/ "Turista é abordado por assaltantes na Pajuçara e perde R$ 6 mil em transferências bancárias")[![Influenciadora de viagens, Fernanda Lind morre atropelada em Paris](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/c/csm_Influenciadora_de_viagens_morre_atropelada_em_Paris_-_foto_Reproducao_7a3683586e.jpg)
-
-31 anos
-
-31 anos
-
-Influenciadora de viagens, Fernanda Lind morre atropelada em Paris
-
-Influenciadora de viagens, Fernanda Lind morre atropelada em Paris](https://www.tnh1.com.br/noticia/nid/influenciadora-de-viagens-fernanda-lind-morre-atropelada-em-paris/ "Influenciadora de viagens, Fernanda Lind morre atropelada em Paris")
-
-[![Mãe encontra filho de 11 anos morto boiando em piscina de plástico ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/b/csm_guilherme_piscina_0e30a7a8ee.png)
-
-em rio largo
-
-em rio largo
-
-Mãe encontra filho de 11 anos morto boiando em piscina de plástico
-
-Mãe encontra filho de 11 anos morto boiando em piscina de plástico](https://www.tnh1.com.br/noticia/nid/mae-encontra-filho-de-11-anos-morto-boiando-em-piscina-de-plastico/ "Mãe encontra filho de 11 anos morto boiando em piscina de plástico ")[![Relembre o caso do Maníaco do Parque, que virou tema de filme](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/8/csm_maniaco_do_parque_divulgacao_18a50f5495.jpg)
-
-Estreou esta sexta
-
-Estreou esta sexta
-
-Relembre o caso do Maníaco do Parque, que virou tema de filme
-
-Relembre o caso do Maníaco do Parque, que virou tema de filme](https://www.tnh1.com.br/noticia/nid/relembre-o-caso-do-maniaco-do-parque-que-virou-tema-de-filme/ "Relembre o caso do Maníaco do Parque, que virou tema de filme")[!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_dce7d2bc3d.jpeg)
+Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-assassinar-e-carbonizar-corpo-do-amante-para-esconder-relacionamento/ "Homem é preso por assassinar e carbonizar corpo do amante para esconder relacionamento")[!["Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/4/csm_panda_esta_preso_e_e_apontado_pelo_MPF_como_abusador_em_serie_dce7d2bc3d.jpeg)
 
 quase 10 mil imagens
 
@@ -246,15 +222,49 @@ quase 10 mil imagens
 
 "Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas
 
-"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")[![Morte de bebê é investigada pela polícia em Taquarana; pais foram ouvidos e liberados](https://tnh1-cdn2.cworks.cloud/fileadmin/user_upload/tnh1/2024/05/23/csm_csm_csm_Delegacia_de_Palmeira_dos_Indios__Ascom_PC_ed2fb4d399_9d45e2e29c_2996738e71.jpg)
+"Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas](https://www.tnh1.com.br/noticia/nid/abusador-em-serie-saiba-como-agia-homem-preso-em-maceio-por-estupro-e-pedofilia-mpf-busca-novas-vitimas/ ""Abusador em série": saiba como agia homem preso em Maceió por estupro e pedofilia; MPF busca novas vítimas")[![Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_sombra_suposta_vitima_dono_de_academia_6ad1fc91ce.png)
 
-Causa desconhecida
+Polícia investiga
 
-Causa desconhecida
+Polícia investiga
 
-Morte de bebê é investigada pela polícia em Taquarana; pais foram ouvidos e liberados
+Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió
 
-Morte de bebê é investigada pela polícia em Taquarana; pais foram ouvidos e liberados](https://www.tnh1.com.br/noticia/nid/morte-de-bebe-e-investigada-pela-policia-em-taquarana-pais-foram-ouvidos-e-liberados/ "Morte de bebê é investigada pela polícia em Taquarana; pais foram ouvidos e liberados")
+Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió](https://www.tnh1.com.br/noticia/nid/mulheres-denunciam-dono-de-academia-por-assedio-estupro-e-violencia-psicologica-em-maceio/ "Mulheres denunciam dono de academia por assédio, estupro e violência psicológica em Maceió")
+
+[![Veja as datas de pagamento do 13º salário de trabalhadores em 2024](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/4/csm_Dinheiro_Agencia_Brasil_17113d0b9d.jpg)
+
+duas parcelas
+
+duas parcelas
+
+Veja as datas de pagamento do 13º salário de trabalhadores em 2024
+
+Veja as datas de pagamento do 13º salário de trabalhadores em 2024](https://www.tnh1.com.br/noticia/nid/veja-as-datas-de-pagamento-do-13o-salario-de-trabalhadores-em-2024/ "Veja as datas de pagamento do 13º salário de trabalhadores em 2024")[![Laboratório do RJ emitiu dezenas de resultados errados para HIV, aponta MP](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/1/csm_laboratorio-testes-HIV-agencia-brasil_c62328b444.jpg)
+
+órgãos infectados
+
+órgãos infectados
+
+Laboratório do RJ emitiu dezenas de resultados errados para HIV, aponta MP
+
+Laboratório do RJ emitiu dezenas de resultados errados para HIV, aponta MP](https://www.tnh1.com.br/noticia/nid/laboratorio-do-rj-emitiu-dezenas-de-resultados-errados-para-hiv-aponta-mp/ "Laboratório do RJ emitiu dezenas de resultados errados para HIV, aponta MP")[![IML procura familiares de homem assassinado por amante em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/c/csm_Moacir_da_Silva_-_foto_Divulgacao_Policia_Cientifica_2_40e56524b1.jpg)
+
+Polícia
+
+Polícia
+
+IML procura familiares de homem assassinado por amante em Rio Largo
+
+IML procura familiares de homem assassinado por amante em Rio Largo](https://www.tnh1.com.br/noticia/nid/iml-procura-familiares-de-homem-assassinado-por-amante-em-rio-largo/ "IML procura familiares de homem assassinado por amante em Rio Largo")[![Saiba quem é o alagoano, prefeito de Taboão da Serra, que foi alvo de tiros](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/8/csm_Apri__gio__Podemos___candidato_a_Prefeitura_de_Taboao_da_Serra_-_Foto_Reproducao_-_Instagram_9ab3a0c29e.jpg)
+
+Brasil
+
+Brasil
+
+Saiba quem é o alagoano, prefeito de Taboão da Serra, que foi alvo de tiros
+
+Saiba quem é o alagoano, prefeito de Taboão da Serra, que foi alvo de tiros](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-o-alagoano-prefeito-de-taboao-da-serra-que-foi-alvo-de-tiros/ "Saiba quem é o alagoano, prefeito de Taboão da Serra, que foi alvo de tiros")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
