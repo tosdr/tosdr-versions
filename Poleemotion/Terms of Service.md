@@ -2,7 +2,7 @@
 
 Pour accéder à toutes les fonctionnalités de ce site, vous devez activer JavaScript. Voici les [instructions pour activer JavaScript dans votre navigateur Web](https://www.enable-javascript.com/fr/).
 
-  [![logo blanc de l'école Pole-Emotion](https://app.pole-emotion.ch/img/logo_Blanc_votre_ecole_depuis_2005_ROND-AVEC-TRANSPARENCE_V3_800x302.png)](https://app.pole-emotion.ch/)
+[![logo d'Halloween de l'école Pole-Emotion](https://app.pole-emotion.ch/img/halloween_logo_Blanc_V1.png)](https://app.pole-emotion.ch/)
 
 * [Connexion](https://app.pole-emotion.ch/login)
 
