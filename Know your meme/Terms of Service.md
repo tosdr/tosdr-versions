@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Cynthia Erivo Wicked Poster Controversy](https://knowyourmeme.com/memes/events/cynthia-erivos-wicked-poster-controversy "Cynthia Erivo Wicked Poster Controversy") [Donald Trump Dancing At Rally](https://knowyourmeme.com/memes/events/donald-trumps-oaks-pennsylvania-rally "Donald Trump Dancing At Rally")
+[Asmongold Palestine Comments Controversy](https://knowyourmeme.com/memes/events/asmongold-palestine-comments-controversy "Asmongold Palestine Comments Controversy") [Josh Seiter's Transgender Experiment Hoax](https://knowyourmeme.com/memes/events/josh-seiters-transgender-experiment-hoax "Josh Seiter's Transgender Experiment Hoax") [SFW Artists Posting OCs](https://knowyourmeme.com/memes/sfw-artists-posting-ocs "SFW Artists Posting OCs") [Donald Trump Dancing At Rally](https://knowyourmeme.com/memes/events/donald-trumps-oaks-pennsylvania-rally "Donald Trump Dancing At Rally") [Game Freak Pokémon GigaLeaks](https://knowyourmeme.com/memes/events/game-freak-pokemon-gigaleaks "Game Freak Pokémon GigaLeaks")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hauu! You must login or signup first!
+### O HAI! You must login or signup first!
 
 |     |     |
 | --- | --- |
