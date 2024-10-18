@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djtalsmith-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-serves-up-brutal-jokes-at-catholic-charity-dinner-kamala-appears-via-cringe-video/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-ff-viewer-1200x630.jpg)](https://americanwirenews.com/trump-keeps-the-comedy-going-cracks-up-fox-friends-with-hilarious-response-to-childs-question/)
 
-[Trump serves up brutal jokes at Catholic charity dinner, Kamala appears via CRINGE video](https://americanwirenews.com/trump-serves-up-brutal-jokes-at-catholic-charity-dinner-kamala-appears-via-cringe-video/)
+[Trump cracks up Fox & Friends with hilarious response to child’s question: ‘I love cows…’](https://americanwirenews.com/trump-keeps-the-comedy-going-cracks-up-fox-friends-with-hilarious-response-to-childs-question/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jean-pierre-obama-biden-1200x630.jpg)](https://americanwirenews.com/whoops-did-jean-pierre-just-give-the-entire-game-away/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-polk-sheriff-press-conference-1200x630.jpg)](https://americanwirenews.com/fla-sheriff-slams-biden-harris-admin-for-aiding-and-abetting-human-trafficking-details-sex-trafficking-sting/)
 
-[WHOOPS: Did Jean-Pierre just give the entire game away?](https://americanwirenews.com/whoops-did-jean-pierre-just-give-the-entire-game-away/)
+[Fla. sheriff slams Biden-Harris admin for ‘aiding and abetting human trafficking’, details sex trafficking sting](https://americanwirenews.com/fla-sheriff-slams-biden-harris-admin-for-aiding-and-abetting-human-trafficking-details-sex-trafficking-sting/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rob-oneill-sg-sinwar-drone-1200x630.jpg)](https://americanwirenews.com/drone-footage-released-of-hamas-leaders-last-moments-bin-laden-assassin-has-warning-for-joe-biden/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-fox-friends-1200x630.jpg)](https://americanwirenews.com/trump-hints-at-who-helped-write-jokes-for-his-epic-speech-at-al-smith-dinner-i-shouldnt-say-that-but/)
 
-[Drone footage released of Hamas leader’s last moments, Bin-Laden assassin has warning for Joe Biden](https://americanwirenews.com/drone-footage-released-of-hamas-leaders-last-moments-bin-laden-assassin-has-warning-for-joe-biden/)
+[Trump hints at who helped write jokes for his epic speech at Al Smith dinner: ‘I shouldn’t say that, but…’](https://americanwirenews.com/trump-hints-at-who-helped-write-jokes-for-his-epic-speech-at-al-smith-dinner-i-shouldnt-say-that-but/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-chris-jake-wolf-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/tapper-blitzer-denied-raises-at-cnn-wallace-offered-a-pay-cut-in-overhaul-report-says/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-bongino-1200x630.jpg)](https://americanwirenews.com/more-receipts-for-you-fksticks-bongino-goes-ballistic-on-unrepentant-liars-at-kamala-hq/)
 
-[Tapper, Blitzer denied raises at CNN, Wallace offered a pay cut in overhaul, report says](https://americanwirenews.com/tapper-blitzer-denied-raises-at-cnn-wallace-offered-a-pay-cut-in-overhaul-report-says/)
+[‘More RECEIPTS for you f\*\*ksticks’: Bongino goes ballistic on unrepentant liars at Kamala HQ](https://americanwirenews.com/more-receipts-for-you-fksticks-bongino-goes-ballistic-on-unrepentant-liars-at-kamala-hq/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musk-1-1200x630.jpg)](https://americanwirenews.com/musk-campaigns-for-trump-in-vital-battleground-state/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sheriff-t.k.-waters-1200x630.jpg)](https://americanwirenews.com/trump-supporting-florida-sheriff-targeted-with-racist-banner-flown-over-downtown-jacksonville/)
 
-[Musk campaigns for Trump in vital battleground state](https://americanwirenews.com/musk-campaigns-for-trump-in-vital-battleground-state/)
+[Trump-supporting Florida sheriff targeted with racist banner flown over downtown Jacksonville](https://americanwirenews.com/trump-supporting-florida-sheriff-targeted-with-racist-banner-flown-over-downtown-jacksonville/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-walz-1200x630.png)](https://americanwirenews.com/thats-bullsht-frustration-sinks-in-with-tampon-tims-foul-mouthed-trump-rant/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-deutsch-1200x630.jpg)](https://americanwirenews.com/are-you-worried-youre-on-a-list-msnbc-ramps-up-the-rhetoric-as-kamala-implodes/)
 
-[‘That’s bullsh\*t!’ Frustration sinks in with ‘Tampon Tim’s’ foul-mouthed Trump rant](https://americanwirenews.com/thats-bullsht-frustration-sinks-in-with-tampon-tims-foul-mouthed-trump-rant/)
+[‘Are you worried you’re on a list?’ MSNBC ramps up the rhetoric as Kamala implodes](https://americanwirenews.com/are-you-worried-youre-on-a-list-msnbc-ramps-up-the-rhetoric-as-kamala-implodes/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-mitch-mcconnell-1200x630.jpg)](https://americanwirenews.com/mcconnell-cried-on-j6-trashed-trump-cheered-biden-win-new-book-says/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-bronx-1200x630.jpg)](https://americanwirenews.com/trump-applauded-in-bronx-barbershop-registered-democrat-says-the-fmr-president-has-his-vote/)
 
-[McConnell cried on J6, trashed Trump, cheered Biden win – new book says](https://americanwirenews.com/mcconnell-cried-on-j6-trashed-trump-cheered-biden-win-new-book-says/)
+[Trump APPLAUDED in Bronx barbershop, registered Democrat says the fmr. president has his vote](https://americanwirenews.com/trump-applauded-in-bronx-barbershop-registered-democrat-says-the-fmr-president-has-his-vote/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gaffigan-1200x630.jpg)](https://americanwirenews.com/trump-wasnt-the-only-one-who-took-a-shot-at-kamala-at-charity-dinner/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-paxton-1200x630.jpg)](https://americanwirenews.com/texas-sues-doctor-for-gender-transition-treatments-on-minors-in-violation-of-state-law/)
 
-[Trump wasn’t the only one who took a shot at Kamala at charity dinner](https://americanwirenews.com/trump-wasnt-the-only-one-who-took-a-shot-at-kamala-at-charity-dinner/)
+[Texas sues doctor for gender transition treatments on minors, in violation of state law](https://americanwirenews.com/texas-sues-doctor-for-gender-transition-treatments-on-minors-in-violation-of-state-law/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumppbd1-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-pointing-1200x630.jpg)
 
-### Trump says he’s proud he ‘killed’ the mainstream ‘fake news’ media](https://americanwirenews.com/trump-says-hes-proud-he-killed-the-mainstream-fake-news-media/)
+### ‘You lost zero fans’: Maxim Magazine makes unapologetic presidential endorsement](https://americanwirenews.com/you-lost-zero-fans-maxim-magazine-makes-unapologetic-presidential-endorsement/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,6 +78,22 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-keir-starmer-220x180.jpg)](https://americanwirenews.com/leftist-uk-leader-to-deploy-100-volunteers-to-u-s-swing-states-vows-to-show-dems-how-to-win-elections/)
+
+[UK leftist Labour Party plans deployment to US swing states, will show ‘Dems how to win elections’](https://americanwirenews.com/leftist-uk-leader-to-deploy-100-volunteers-to-u-s-swing-states-vows-to-show-dems-how-to-win-elections/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-mark-cuban-2-220x180.jpg)](https://americanwirenews.com/mark-cuban-blames-social-media-for-trumps-gangsta-image-as-meltdown-continues/)
+
+[Mark Cuban blames social media for Trump’s ‘gangsta’ image as meltdown continues](https://americanwirenews.com/mark-cuban-blames-social-media-for-trumps-gangsta-image-as-meltdown-continues/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pixabay-bible-study-220x180.jpg)](https://americanwirenews.com/oklahoma-superintendents-response-to-lawsuit-over-school-bibles-is-straight-fire-i-will-never-back-down/)
+
+[Oklahoma superintendent’s response to lawsuit over school Bibles is straight fire: ‘I will never back down’](https://americanwirenews.com/oklahoma-superintendents-response-to-lawsuit-over-school-bibles-is-straight-fire-i-will-never-back-down/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2021/10/SG-Mitch-McConnell-220x180.jpg)](https://americanwirenews.com/republican-attempts-to-find-mcconnell-replacement-lead-to-in-fighting-over-best-path-forward/)
+
+[Republican attempts to find McConnell replacement lead to in-fighting over best path forward](https://americanwirenews.com/republican-attempts-to-find-mcconnell-replacement-lead-to-in-fighting-over-best-path-forward/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-baierspecreport1-1200-x-628-220x180.jpg)](https://americanwirenews.com/bret-baier-says-he-made-a-mistake-during-kamala-interview/)
 
 [Bret Baier says he made a mistake during Kamala interview](https://americanwirenews.com/bret-baier-says-he-made-a-mistake-during-kamala-interview/)
@@ -85,6 +101,42 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-doug-emhoff-and-kamala-harris-220x180.jpg)](https://americanwirenews.com/famous-columnist-asks-why-one-question-that-would-expose-kamalas-fraudulent-campaign-is-being-avoided/)
 
 [Famous columnist asks why ONE question ‘that would expose Kamala’s fraudulent campaign’ is being avoided](https://americanwirenews.com/famous-columnist-asks-why-one-question-that-would-expose-kamalas-fraudulent-campaign-is-being-avoided/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gaffigan-220x180.jpg)](https://americanwirenews.com/trump-wasnt-the-only-one-who-took-a-shot-at-kamala-at-charity-dinner/)
+
+[Trump wasn’t the only one who took a shot at Kamala at charity dinner](https://americanwirenews.com/trump-wasnt-the-only-one-who-took-a-shot-at-kamala-at-charity-dinner/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-mitch-mcconnell-220x180.jpg)](https://americanwirenews.com/mcconnell-cried-on-j6-trashed-trump-cheered-biden-win-new-book-says/)
+
+[McConnell cried on J6, trashed Trump, cheered Biden win – new book says](https://americanwirenews.com/mcconnell-cried-on-j6-trashed-trump-cheered-biden-win-new-book-says/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-walz-220x180.png)](https://americanwirenews.com/thats-bullsht-frustration-sinks-in-with-tampon-tims-foul-mouthed-trump-rant/)
+
+[‘That’s bullsh\*t!’ Frustration sinks in with ‘Tampon Tim’s’ foul-mouthed Trump rant](https://americanwirenews.com/thats-bullsht-frustration-sinks-in-with-tampon-tims-foul-mouthed-trump-rant/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musk-1-220x180.jpg)](https://americanwirenews.com/musk-campaigns-for-trump-in-vital-battleground-state/)
+
+[Musk campaigns for Trump in vital battleground state](https://americanwirenews.com/musk-campaigns-for-trump-in-vital-battleground-state/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-chris-jake-wolf-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/tapper-blitzer-denied-raises-at-cnn-wallace-offered-a-pay-cut-in-overhaul-report-says/)
+
+[Tapper, Blitzer denied raises at CNN, Wallace offered a pay cut in overhaul, report says](https://americanwirenews.com/tapper-blitzer-denied-raises-at-cnn-wallace-offered-a-pay-cut-in-overhaul-report-says/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rob-oneill-sg-sinwar-drone-220x180.jpg)](https://americanwirenews.com/drone-footage-released-of-hamas-leaders-last-moments-bin-laden-assassin-has-warning-for-joe-biden/)
+
+[Drone footage released of Hamas leader’s last moments, Bin-Laden assassin has warning for Joe Biden](https://americanwirenews.com/drone-footage-released-of-hamas-leaders-last-moments-bin-laden-assassin-has-warning-for-joe-biden/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jean-pierre-obama-biden-220x180.jpg)](https://americanwirenews.com/whoops-did-jean-pierre-just-give-the-entire-game-away/)
+
+[WHOOPS: Did Jean-Pierre just give the entire game away?](https://americanwirenews.com/whoops-did-jean-pierre-just-give-the-entire-game-away/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djtalsmith-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-serves-up-brutal-jokes-at-catholic-charity-dinner-kamala-appears-via-cringe-video/)
+
+[Trump serves up brutal jokes at Catholic charity dinner, Kamala appears via CRINGE video](https://americanwirenews.com/trump-serves-up-brutal-jokes-at-catholic-charity-dinner-kamala-appears-via-cringe-video/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumppbd1-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-says-hes-proud-he-killed-the-mainstream-fake-news-media/)
+
+[Trump says he’s proud he ‘killed’ the mainstream ‘fake news’ media](https://americanwirenews.com/trump-says-hes-proud-he-killed-the-mainstream-fake-news-media/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-spoof-1-220x180.jpg)](https://americanwirenews.com/well-why-dont-you-ask-good-old-donny-kamala-impersonator-wins-x-with-hilarious-interview-spoof/)
 
@@ -121,58 +173,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-father-cabarrus-220x180.jpg)](https://americanwirenews.com/irate-father-scolds-cowardly-school-board-after-8-yr-old-girl-reports-a-boy-watched-her-use-restroom/)
 
 [IRATE father scolds ‘cowardly’ school board after 8-yr-old girl reports a boy WATCHED her use restroom](https://americanwirenews.com/irate-father-scolds-cowardly-school-board-after-8-yr-old-girl-reports-a-boy-watched-her-use-restroom/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-tren-de-aragua-220x180.jpg)](https://americanwirenews.com/violent-venezuelan-gang-empowered-and-spreading-in-u-s-20-members-walk-after-nyc-crime-spree/)
-
-[Violent Venezuelan gang ‘empowered’ and spreading in U.S.; 20 members WALK after NYC crime spree](https://americanwirenews.com/violent-venezuelan-gang-empowered-and-spreading-in-u-s-20-members-walk-after-nyc-crime-spree/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tucker-carlson-2-220x180.jpg)](https://americanwirenews.com/tucker-spills-inside-tea-on-trumps-brave-vance-pick-tears-into-more-than-weird-walz-i-mean-cmon/)
-
-[Tucker spills inside tea on Trump’s ‘brave’ Vance pick, tears into more than ‘weird’ Walz: ‘I mean, c’mon!’](https://americanwirenews.com/tucker-spills-inside-tea-on-trumps-brave-vance-pick-tears-into-more-than-weird-walz-i-mean-cmon/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lemon-220x180.jpg)](https://americanwirenews.com/don-lemon-brags-about-correcting-trump-supporting-black-men-over-and-over-in-battleground-states/)
-
-[Don Lemon brags about ‘correcting’ Trump-supporting Black men ‘over and over’ in battleground states](https://americanwirenews.com/don-lemon-brags-about-correcting-trump-supporting-black-men-over-and-over-in-battleground-states/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-3-220x180.jpg)](https://americanwirenews.com/gop-turncoats-try-to-derail-trumps-madison-square-garden-rally-theres-just-one-little-problem/)
-
-[GOP turncoats try to derail Trump’s Madison Square Garden rally, there’s just one little problem…](https://americanwirenews.com/gop-turncoats-try-to-derail-trumps-madison-square-garden-rally-theres-just-one-little-problem/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dave-price-logansport-220x180.jpg)](https://americanwirenews.com/we-need-some-help-here-indiana-town-reportedly-strained-with-massive-migrant-influx/)
-
-[‘We need some help here’: Indiana town reportedly strained with massive ‘migrant’ influx](https://americanwirenews.com/we-need-some-help-here-indiana-town-reportedly-strained-with-massive-migrant-influx/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-shoplift-220x180.jpg)](https://americanwirenews.com/the-atlantic-claims-nobody-knows-how-to-stop-dem-created-surge-in-shoplifting-mockery-ensues/)
-
-[The Atlantic claims nobody knows how to stop Dem-created surge in shoplifting – mockery ensues](https://americanwirenews.com/the-atlantic-claims-nobody-knows-how-to-stop-dem-created-surge-in-shoplifting-mockery-ensues/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/03/SG-Jill-Biden-220x180.jpg)](https://americanwirenews.com/jill-biden-says-shes-bonded-with-kamala-as-dems-make-final-push-for-one-party-rule/)
-
-[Jill Biden says she’s ‘bonded’ with Kamala as Dems make final push for one-party rule](https://americanwirenews.com/jill-biden-says-shes-bonded-with-kamala-as-dems-make-final-push-for-one-party-rule/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cnnpanel3-a1200-x-628-220x180.jpg)](https://americanwirenews.com/cnn-panel-careens-off-the-rails-after-guests-remarks-about-house-blacks-vs-field-blacks/)
-
-[CNN panel careens off the rails after guest’s remarks about ‘house blacks’ vs ‘field blacks’](https://americanwirenews.com/cnn-panel-careens-off-the-rails-after-guests-remarks-about-house-blacks-vs-field-blacks/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-univision-1-220x180.jpg)](https://americanwirenews.com/trump-asked-to-name-three-virtues-of-kamala-harris-surprises-everyone-with-answer/)
-
-[Trump asked to name three virtues of Kamala Harris, surprises everyone with answer](https://americanwirenews.com/trump-asked-to-name-three-virtues-of-kamala-harris-surprises-everyone-with-answer/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Symone-Sanders-220x180.jpg)](https://americanwirenews.com/former-top-harris-aide-cries-foul-over-fox-interview/)
-
-[Former top Harris aide cries foul over Fox interview](https://americanwirenews.com/former-top-harris-aide-cries-foul-over-fox-interview/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mother-trump-ivanka-220x180.jpg)](https://americanwirenews.com/trump-talks-about-how-ivanka-pushed-him-as-president-my-daughter-drove-me-crazy/)
-
-[Trump talks about how Ivanka pushed him as president: ‘My daughter drove me crazy’](https://americanwirenews.com/trump-talks-about-how-ivanka-pushed-him-as-president-my-daughter-drove-me-crazy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-byron-donalds-sg-kamala-harris-220x180.jpg)](https://americanwirenews.com/finally-byron-donalds-counters-false-claim-schools-on-why-senate-border-bill-actually-failed/)
-
-[Finally! Byron Donalds counters Kamala’s false claim, schools on why Senate border bill ACTUALLY failed](https://americanwirenews.com/finally-byron-donalds-counters-false-claim-schools-on-why-senate-border-bill-actually-failed/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-baier-220x180.jpg)](https://americanwirenews.com/kamala-harris-gets-nasty-with-bret-baier-for-not-airing-what-trump-said-about-political-foes/)
-
-[Kamala Harris gets nasty with Bret Baier for not airing what Trump said](https://americanwirenews.com/kamala-harris-gets-nasty-with-bret-baier-for-not-airing-what-trump-said-about-political-foes/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
