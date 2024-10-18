@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Sinwar's killing opens up opportunity and much uncertainty for the war in Gaza](https://apnews.com/article/sinwar-death-israel-hamas-hostages-gaza-170b010299a62f679fe5ee7324a69ff5)
-    * [Israel says it has killed Hamas leader Yahya Sinwar in Gaza](https://apnews.com/article/israel-palestinians-hamas-lebanon-hezbollah-news-10-17-2024-d12ca71945313e601cf10876072f4182)
-    * [Who was Yahya Sinwar, the Hamas leader Israel says it killed?](https://apnews.com/article/israel-palestinians-hamas-war-sinwar-leader-2963dbc6e8ef040a00e588488cba33e7)
+    * [Hamas official confirms Sinwar's death, as Hezbollah vows a new phase of war with Israel](https://apnews.com/article/sinwar-hezbollah-lebanon-killed-israel-hamas-39dde452082d4130556f13f87e700125)
+    * [South Korean intelligence says North has sent troops to aid Russia's war in Ukraine](https://apnews.com/article/north-korea-russia-ukraine-war-troops-south-spy-9cd563c5570f68e9b314976009682810)
+    * [Sinwar’s killing means much uncertainty for the war in Gaza but also possible opportunity](https://apnews.com/article/sinwar-death-israel-hamas-hostages-gaza-170b010299a62f679fe5ee7324a69ff5)
     
     Newsletters
     
@@ -32,7 +32,7 @@ Menu
     
     * [Texas Supreme Court halts execution of man in shaken baby case after lawmakers' last-minute appeal](https://apnews.com/article/texas-execution-shaken-baby-syndrome-1ef99c052cc1630785ac5d6e2edfc9cb)
     * [Republicans appeal a Georgia judge’s ruling that invalidates seven election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-f5a6fd0ca2dffb13eed3d2a89494b25f)
-    * [Alabama executes man who killed 5 and asked to be put to death](https://apnews.com/article/derrick-dearman-death-penalty-alabama-3bbb792e73b7c82faccea13ea8254009)
+    * [Murder trial to begin in small Indiana town in 2017 killings of two teenage girls](https://apnews.com/article/abby-libby-delphi-indiana-richard-allen-trial-9d9756a1e076edaa2f0694a2b54ab3da)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Harris will campaign with the Obamas later this month in Georgia and Michigan](https://apnews.com/article/harris-barack-michelle-obama-b31b662260f8e22131123a0d32888b56)
     * [Right-wing influencers hyped anti-Ukraine videos made by a TV producer also funded by Russian media](https://apnews.com/article/social-media-influencers-ben-swann-russia-trump-jr-ukraine-zelenskyy-9d4281756246b94eda05c478f3dac203)
-    * [As Biden meets with European allies, the possibility of another Trump term hangs over their talks](https://apnews.com/article/biden-germany-ukraine-trump-harris-047d46d4ef80804ebee515ee5d2d449c)
-    * [Harris and Trump target Michigan as both parties try to shore up 'blue wall' votes](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf)
+    * [Biden says Western allies must keep aiding Ukraine as he meets European partners before election](https://apnews.com/article/biden-germany-ukraine-trump-harris-047d46d4ef80804ebee515ee5d2d449c)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Ohtani and Betts lead Dodgers to latest blowout of Mets for 3-1 lead in lopsided NLCS](https://apnews.com/article/mlb-playoffs-dodgers-mets-ohtani-b74016de46665008a9cc927a14d21f75)
     * [Mets look for biggest comeback yet after falling behind Dodgers 3-1 in NLCS](https://apnews.com/article/mlb-playoffs-mets-dodgers-b089693f23dcdf9f56f588b725ee94bd)
     * [Fry's 2-run homer in 10th sends Guardians to stunning 7-5 win over Yankees, close to 2-1 in ALCS](https://apnews.com/article/guardians-yankees-mlb-playoffs-54dd54dd01493c61d60f6e84b24296df)
+    * [Sean Payton triumphs in return to New Orleans as the Broncos dominate the Saints, 33-10](https://apnews.com/article/broncos-saints-score-0070b3eb6d8415b06f843574c3662b94)
     
     Newsletters
     
@@ -115,8 +115,8 @@ Menu
     TOP STORIES
     
     * [Cissy Houston mourned by Dionne Warwick, politicians and more at longtime church](https://apnews.com/article/cissy-houston-memorial-7447ed3ed015fab5238875ba429cbe9a)
-    * [Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony](https://apnews.com/article/liam-payne-one-direction-death-487239e4f0b938a6f350a7d2f14737e4)
-    * [Mitzi Gaynor, star of ‘South Pacific,’ dies at 93](https://apnews.com/article/mitzi-gaynor-dead-south-pacific-320eb99fe0824091babafac794dc2320)
+    * [One Direction were the internet's first boy band, and Liam Payne its grounding force](https://apnews.com/article/one-direction-liam-payne-400a27d1ad01a3b53058aef8cbd38da4)
+    * [Liam Payne’s 1D bandmates, James Corden and more friends and musicians mourn singer](https://apnews.com/article/liam-payne-death-reactions-one-direction-band-tribute-f08045886ebff903fbc3addc62dcb836)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [Average rate on a 30-year mortgage in the US rises to the highest level in 8 weeks](https://apnews.com/article/mortgage-rates-housing-interest-financing-home-loan-e7d5328d9f0ae06086c108b870eba987)
-    * [US shoppers spent more at retailers last month in latest sign consumers are driving growth](https://apnews.com/article/retailers-spending-consumers-inflation-stores-shoppers-economy-3e4df15431444adb36a67c628c6553b7)
-    * [Netflix's subscriber growth is slowing, but its profit and stock price are still surging](https://apnews.com/article/netflix-quarterly-earnings-subscribers-slowdown-6bb73a293cb37348819574ea1db65dbd)
+    * [Wealthier Americans are driving retail spending and powering US economy](https://apnews.com/article/economy-consumers-inflation-retail-spending-growth-wealth-be68f97bba5970ed4ce4fc8b8c7333af)
+    * [CVS Health CEO Lynch steps down as national chain struggles to right its path](https://apnews.com/article/cvs-health-ceo-lynch-joyner-56ad4f6c4fed7a293b841f7037bd71a8)
+    * [‘Kindness’ influencers on TikTok give money to strangers. Why is that controversial?](https://apnews.com/article/kindness-content-influencers-charity-tiktok-7d5f5bb4e02c34339a3e4d3d8d2343e6)
     
 * [Science](https://apnews.com/science)
     
@@ -258,8 +258,8 @@ Menu
     TOP STORIES
     
     * [Elon Musk holds his first solo event in support of Trump in the Philadelphia suburbs](https://apnews.com/article/elon-musk-america-pac-donald-trump-344f1ecc9770c4e394fceb7bbbe2b237)
+    * [US to probe Tesla's 'Full Self-Driving' system after pedestrian killed in low visibility conditions](https://apnews.com/article/tesla-full-self-driving-investigation-pedestrian-killed-f2121166d60d85bd173a734c91049e73)
     * [Netflix's subscriber growth is slowing, but its profit and stock price are still surging](https://apnews.com/article/netflix-quarterly-earnings-subscribers-slowdown-6bb73a293cb37348819574ea1db65dbd)
-    * [Meta lays off staff at WhatsApp and Instagram to align with 'strategic goals'](https://apnews.com/article/meta-layoffs-whatsapp-instagram-4af727c7fb75f89bc50c84284fef2fee)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [‘Kindness’ influencers on TikTok give money to strangers. Why is that controversial?](https://apnews.com/article/kindness-content-influencers-charity-tiktok-7d5f5bb4e02c34339a3e4d3d8d2343e6)
     * [King Charles III's visit rekindles Australia's debate on ending ties to the British monarchy](https://apnews.com/article/australia-king-charles-visit-sydney-dcb4baf655f28fc20068c5991f09f28f)
     * [One Direction were the internet's first boy band, and Liam Payne its grounding force](https://apnews.com/article/one-direction-liam-payne-400a27d1ad01a3b53058aef8cbd38da4)
-    * [Biggest source of new Floridians and Texans last year was other countries](https://apnews.com/article/florida-texas-migration-states-census-bureau-933b58ac9f4a231d9d603209aab3a239)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [What's a 'Jezebel spirit'? Some Christians use the term to paint Kamala Harris with a demonic brush](https://apnews.com/article/jezebel-spirit-kamala-harris-christian-nationalismv21-0a513c9e549a57a33f864341556d1b7a)
     * [What to know about the Los Angeles Catholic Church's $880M settlement with sexual abuse victims](https://apnews.com/article/los-angeles-church-sexual-abuse-settlement-8d04f5c8da061462f04be59b73cc3e92)
     * [Oklahoma parents and teachers sue to stop top education official's classroom Bible mandate](https://apnews.com/article/oklahoma-bible-mandate-schools-lawsuit-c5c09efa5332db1ab16f7ff2da7be0b8)
-    * [Cissy Houston mourned by Dionne Warwick, politicians and more at longtime church](https://apnews.com/article/cissy-houston-memorial-7447ed3ed015fab5238875ba429cbe9a)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Israel confirma que líder de Hamás, Yahya Sinwar, murió en operativo militar en Gaza](https://apnews.com/world-news/general-news-5da0cfbadfe66c06d9cdac10be71bb16)
-    * [¿Quién era Yahya Sinwar, el líder de Hamás a quien Israel dice haber abatido?](https://apnews.com/world-news/general-news-8af18edfa5ec7fd2f91fa344029f04e8)
-    * [Mayoría de nuevos residentes de Florida y Texas el año pasado procedían de otros países](https://apnews.com/us-news/general-news-ab22d4a72029fb18296865f0ce50d169)
+    * [Hamás confirma la muerte de Sinwar y Hezbollah anuncia una nueva fase en la guerra contra Israel](https://apnews.com/world-news/general-news-eda474f2e95c76c0316e40c00e608bb9)
+    * [Alemania la contribución de Biden a las relaciones transatlánticas en vísperas de elecciones en EEUU](https://apnews.com/world-news/general-news-c515131547eaa90a45c287bb3cb46891)
+    * [Medios: agencia de espionaje de Seúl cree que el Norte envió tropas para apoyar a Rusia en Ucrania](https://apnews.com/world-news/general-news-de0a49cfbd2994998b0d2411b1309295)
+    * [EEUU investiga sistema de conducción autónoma de Tesla tras muerte de un peatón con baja visibilidad](https://apnews.com/business/general-news-d9124d0b47418176aae27faacc7c1012)
     * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-5e9379a2244ac0e2b1ef7c7bbe0efb4a)
-    * [El riesgo de hambruna en Gaza sigue siendo alto, dicen expertos](https://apnews.com/world-news/general-news-3fd551225c9722d4d20db981c7d4bb02)
-    * [La tos ferina alcanza su nivel más alto en una década en EEUU](https://apnews.com/health/la-tos-ferina-alcanza-su-nivel-mas-alto-en-una-decada-en-eeuu-165cab449cb71c7c8a823477b8cb0b79)
+    * [Texas demanda a doctora por supuesta violación de la ley que impide atención de afirmación de género](https://apnews.com/us-news/general-news-55c965405e1be9cc8e9cacfa9b715b8a)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -459,9 +459,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Sinwar's killing opens up opportunity and much uncertainty for the war in Gaza](https://apnews.com/article/sinwar-death-israel-hamas-hostages-gaza-170b010299a62f679fe5ee7324a69ff5)
-    * [Israel says it has killed Hamas leader Yahya Sinwar in Gaza](https://apnews.com/article/israel-palestinians-hamas-lebanon-hezbollah-news-10-17-2024-d12ca71945313e601cf10876072f4182)
-    * [Who was Yahya Sinwar, the Hamas leader Israel says it killed?](https://apnews.com/article/israel-palestinians-hamas-war-sinwar-leader-2963dbc6e8ef040a00e588488cba33e7)
+    * [Hamas official confirms Sinwar's death, as Hezbollah vows a new phase of war with Israel](https://apnews.com/article/sinwar-hezbollah-lebanon-killed-israel-hamas-39dde452082d4130556f13f87e700125)
+    * [South Korean intelligence says North has sent troops to aid Russia's war in Ukraine](https://apnews.com/article/north-korea-russia-ukraine-war-troops-south-spy-9cd563c5570f68e9b314976009682810)
+    * [Sinwar’s killing means much uncertainty for the war in Gaza but also possible opportunity](https://apnews.com/article/sinwar-death-israel-hamas-hostages-gaza-170b010299a62f679fe5ee7324a69ff5)
     
     Newsletters
     
@@ -479,7 +479,7 @@ Submit Search
     
     * [Texas Supreme Court halts execution of man in shaken baby case after lawmakers' last-minute appeal](https://apnews.com/article/texas-execution-shaken-baby-syndrome-1ef99c052cc1630785ac5d6e2edfc9cb)
     * [Republicans appeal a Georgia judge’s ruling that invalidates seven election rules](https://apnews.com/article/georgia-election-rules-invalidated-appeal-f5a6fd0ca2dffb13eed3d2a89494b25f)
-    * [Alabama executes man who killed 5 and asked to be put to death](https://apnews.com/article/derrick-dearman-death-penalty-alabama-3bbb792e73b7c82faccea13ea8254009)
+    * [Murder trial to begin in small Indiana town in 2017 killings of two teenage girls](https://apnews.com/article/abby-libby-delphi-indiana-richard-allen-trial-9d9756a1e076edaa2f0694a2b54ab3da)
     
     Newsletters
     
@@ -531,9 +531,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Harris will campaign with the Obamas later this month in Georgia and Michigan](https://apnews.com/article/harris-barack-michelle-obama-b31b662260f8e22131123a0d32888b56)
     * [Right-wing influencers hyped anti-Ukraine videos made by a TV producer also funded by Russian media](https://apnews.com/article/social-media-influencers-ben-swann-russia-trump-jr-ukraine-zelenskyy-9d4281756246b94eda05c478f3dac203)
-    * [As Biden meets with European allies, the possibility of another Trump term hangs over their talks](https://apnews.com/article/biden-germany-ukraine-trump-harris-047d46d4ef80804ebee515ee5d2d449c)
-    * [Harris and Trump target Michigan as both parties try to shore up 'blue wall' votes](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf)
+    * [Biden says Western allies must keep aiding Ukraine as he meets European partners before election](https://apnews.com/article/biden-germany-ukraine-trump-harris-047d46d4ef80804ebee515ee5d2d449c)
     
     Newsletters
     
@@ -561,9 +561,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Ohtani and Betts lead Dodgers to latest blowout of Mets for 3-1 lead in lopsided NLCS](https://apnews.com/article/mlb-playoffs-dodgers-mets-ohtani-b74016de46665008a9cc927a14d21f75)
     * [Mets look for biggest comeback yet after falling behind Dodgers 3-1 in NLCS](https://apnews.com/article/mlb-playoffs-mets-dodgers-b089693f23dcdf9f56f588b725ee94bd)
     * [Fry's 2-run homer in 10th sends Guardians to stunning 7-5 win over Yankees, close to 2-1 in ALCS](https://apnews.com/article/guardians-yankees-mlb-playoffs-54dd54dd01493c61d60f6e84b24296df)
+    * [Sean Payton triumphs in return to New Orleans as the Broncos dominate the Saints, 33-10](https://apnews.com/article/broncos-saints-score-0070b3eb6d8415b06f843574c3662b94)
     
     Newsletters
     
@@ -591,8 +591,8 @@ Submit Search
     TOP STORIES
     
     * [Cissy Houston mourned by Dionne Warwick, politicians and more at longtime church](https://apnews.com/article/cissy-houston-memorial-7447ed3ed015fab5238875ba429cbe9a)
-    * [Argentine authorities probe what happened before Liam Payne's fatal fall from his hotel balcony](https://apnews.com/article/liam-payne-one-direction-death-487239e4f0b938a6f350a7d2f14737e4)
-    * [Mitzi Gaynor, star of ‘South Pacific,’ dies at 93](https://apnews.com/article/mitzi-gaynor-dead-south-pacific-320eb99fe0824091babafac794dc2320)
+    * [One Direction were the internet's first boy band, and Liam Payne its grounding force](https://apnews.com/article/one-direction-liam-payne-400a27d1ad01a3b53058aef8cbd38da4)
+    * [Liam Payne’s 1D bandmates, James Corden and more friends and musicians mourn singer](https://apnews.com/article/liam-payne-death-reactions-one-direction-band-tribute-f08045886ebff903fbc3addc62dcb836)
     
 * [Business](https://apnews.com/business)
     
@@ -606,9 +606,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Average rate on a 30-year mortgage in the US rises to the highest level in 8 weeks](https://apnews.com/article/mortgage-rates-housing-interest-financing-home-loan-e7d5328d9f0ae06086c108b870eba987)
-    * [US shoppers spent more at retailers last month in latest sign consumers are driving growth](https://apnews.com/article/retailers-spending-consumers-inflation-stores-shoppers-economy-3e4df15431444adb36a67c628c6553b7)
-    * [Netflix's subscriber growth is slowing, but its profit and stock price are still surging](https://apnews.com/article/netflix-quarterly-earnings-subscribers-slowdown-6bb73a293cb37348819574ea1db65dbd)
+    * [Wealthier Americans are driving retail spending and powering US economy](https://apnews.com/article/economy-consumers-inflation-retail-spending-growth-wealth-be68f97bba5970ed4ce4fc8b8c7333af)
+    * [CVS Health CEO Lynch steps down as national chain struggles to right its path](https://apnews.com/article/cvs-health-ceo-lynch-joyner-56ad4f6c4fed7a293b841f7037bd71a8)
+    * [‘Kindness’ influencers on TikTok give money to strangers. Why is that controversial?](https://apnews.com/article/kindness-content-influencers-charity-tiktok-7d5f5bb4e02c34339a3e4d3d8d2343e6)
     
 * [Science](https://apnews.com/science)
     
@@ -756,8 +756,8 @@ Submit Search
     TOP STORIES
     
     * [Elon Musk holds his first solo event in support of Trump in the Philadelphia suburbs](https://apnews.com/article/elon-musk-america-pac-donald-trump-344f1ecc9770c4e394fceb7bbbe2b237)
+    * [US to probe Tesla's 'Full Self-Driving' system after pedestrian killed in low visibility conditions](https://apnews.com/article/tesla-full-self-driving-investigation-pedestrian-killed-f2121166d60d85bd173a734c91049e73)
     * [Netflix's subscriber growth is slowing, but its profit and stock price are still surging](https://apnews.com/article/netflix-quarterly-earnings-subscribers-slowdown-6bb73a293cb37348819574ea1db65dbd)
-    * [Meta lays off staff at WhatsApp and Instagram to align with 'strategic goals'](https://apnews.com/article/meta-layoffs-whatsapp-instagram-4af727c7fb75f89bc50c84284fef2fee)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -775,17 +775,17 @@ Submit Search
     
     TOP STORIES
     
+    * [‘Kindness’ influencers on TikTok give money to strangers. Why is that controversial?](https://apnews.com/article/kindness-content-influencers-charity-tiktok-7d5f5bb4e02c34339a3e4d3d8d2343e6)
     * [King Charles III's visit rekindles Australia's debate on ending ties to the British monarchy](https://apnews.com/article/australia-king-charles-visit-sydney-dcb4baf655f28fc20068c5991f09f28f)
     * [One Direction were the internet's first boy band, and Liam Payne its grounding force](https://apnews.com/article/one-direction-liam-payne-400a27d1ad01a3b53058aef8cbd38da4)
-    * [Biggest source of new Floridians and Texans last year was other countries](https://apnews.com/article/florida-texas-migration-states-census-bureau-933b58ac9f4a231d9d603209aab3a239)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [What's a 'Jezebel spirit'? Some Christians use the term to paint Kamala Harris with a demonic brush](https://apnews.com/article/jezebel-spirit-kamala-harris-christian-nationalismv21-0a513c9e549a57a33f864341556d1b7a)
     * [What to know about the Los Angeles Catholic Church's $880M settlement with sexual abuse victims](https://apnews.com/article/los-angeles-church-sexual-abuse-settlement-8d04f5c8da061462f04be59b73cc3e92)
     * [Oklahoma parents and teachers sue to stop top education official's classroom Bible mandate](https://apnews.com/article/oklahoma-bible-mandate-schools-lawsuit-c5c09efa5332db1ab16f7ff2da7be0b8)
-    * [Cissy Houston mourned by Dionne Warwick, politicians and more at longtime church](https://apnews.com/article/cissy-houston-memorial-7447ed3ed015fab5238875ba429cbe9a)
     
     Newsletters
     
@@ -799,12 +799,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel confirma que líder de Hamás, Yahya Sinwar, murió en operativo militar en Gaza](https://apnews.com/world-news/general-news-5da0cfbadfe66c06d9cdac10be71bb16)
-    * [¿Quién era Yahya Sinwar, el líder de Hamás a quien Israel dice haber abatido?](https://apnews.com/world-news/general-news-8af18edfa5ec7fd2f91fa344029f04e8)
-    * [Mayoría de nuevos residentes de Florida y Texas el año pasado procedían de otros países](https://apnews.com/us-news/general-news-ab22d4a72029fb18296865f0ce50d169)
+    * [Hamás confirma la muerte de Sinwar y Hezbollah anuncia una nueva fase en la guerra contra Israel](https://apnews.com/world-news/general-news-eda474f2e95c76c0316e40c00e608bb9)
+    * [Alemania la contribución de Biden a las relaciones transatlánticas en vísperas de elecciones en EEUU](https://apnews.com/world-news/general-news-c515131547eaa90a45c287bb3cb46891)
+    * [Medios: agencia de espionaje de Seúl cree que el Norte envió tropas para apoyar a Rusia en Ucrania](https://apnews.com/world-news/general-news-de0a49cfbd2994998b0d2411b1309295)
+    * [EEUU investiga sistema de conducción autónoma de Tesla tras muerte de un peatón con baja visibilidad](https://apnews.com/business/general-news-d9124d0b47418176aae27faacc7c1012)
     * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-5e9379a2244ac0e2b1ef7c7bbe0efb4a)
-    * [El riesgo de hambruna en Gaza sigue siendo alto, dicen expertos](https://apnews.com/world-news/general-news-3fd551225c9722d4d20db981c7d4bb02)
-    * [La tos ferina alcanza su nivel más alto en una década en EEUU](https://apnews.com/health/la-tos-ferina-alcanza-su-nivel-mas-alto-en-una-decada-en-eeuu-165cab449cb71c7c8a823477b8cb0b79)
+    * [Texas demanda a doctora por supuesta violación de la ley que impide atención de afirmación de género](https://apnews.com/us-news/general-news-55c965405e1be9cc8e9cacfa9b715b8a)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
