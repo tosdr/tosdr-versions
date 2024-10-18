@@ -127,50 +127,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Shaun Gartshore
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=75110696)  
-RADIO TYGERBERG 104FM NPC
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=90457944)  
+VerdanTech Pty Ltd
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=204194407)  
-AFS Electrical
-
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=177314825)  
-NEW BEGINNINGS DESIGNS
-
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=126346591)  
-CGHK Enterprises (PTY) LTD
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=193182752)  
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=186874851)  
 OrgChart Hosting Pty Ltd
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=27330264)  
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=61079852)  
 SLOANE STAR MEAT MARKET
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=134197945)  
-Meyer Towing & Recovery
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=27900977)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=40342952)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=29253863)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=70035668)  
-Forgotten Goods (Pty) Ltd
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=49174829)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=31459845)  
-Camp 4 Africa (Pty) Ltd
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=128987885)  
+MR Compressors& Industrial Supplies
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=18062531)  
-OXYAIDER (PTY) LTD
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=85552890)  
+Know Informatics
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=104747535)  
-Blue Bulls Rugby Coaches Association
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=159335958)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=61894862)  
-Skinz Printing & Branding
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=214293554)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=156441900)  
-M's Frozen Delights
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=21884193)  
+CLEVER STUDENTS
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=d61f8c987dc512e1e341d2506c08e8120179045051aacd20cae9004649abc87f&c=79790102)  
-Druce Digital
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=26014374)  
+Safe Train Mokgethwa (PTY) Ltd
+
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=27135809)  
+Vplay Letsheng Mall
+
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=179769289)  
+AquariumSmiths
+
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=39e3aea94678a57e80f3faf0a0fae1dd5a35bdb4d95312aaf449a48e85670bd3&c=81764071)  
+Bloem Rugby Academy PTY (Ltd)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
