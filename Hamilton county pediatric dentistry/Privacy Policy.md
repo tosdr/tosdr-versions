@@ -1,12 +1,12 @@
 [Skip to content](#content)
 
-Get Directions (open in new window) [Call Our Office](tel:317-846-5893) [Open or Close Menu](#sidr-main) [![Hamilton Pediatric Dentistry Logo](https://www.hcpdent.com/wp-content/uploads/2017/12/Hamilton-Pediatric-Dentistry-logo-color.png)](https://www.hcpdent.com/)
+Get Directions (open in new window) [Call Our Office](tel:317-846-5893) [Open or Close Menu](#sidr-main) [![Hamilton Pediatric Dentistry Logo](data:image/svg+xml;nitro-empty-id=MjUzOjE1Mg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE3MSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxNzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.hcpdent.com/)
 
 [317-846-5893](tel:317-846-5893)
 
 Search for:    
 
- [![Hamilton Pediatric Dentistry Logo](https://www.hcpdent.com/wp-content/uploads/2017/12/Hamilton-Pediatric-Dentistry-logo-color.png) ![Hamilton Pediatric Dentistry Logo](https://www.hcpdent.com/wp-content/uploads/2017/12/Hamilton-Pediatric-Dentistry-logo-color.png)](https://www.hcpdent.com/)
+ [![Hamilton Pediatric Dentistry Logo](data:image/svg+xml;nitro-empty-id=Mjc4OjE2Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE3MSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxNzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![Hamilton Pediatric Dentistry Logo](data:image/svg+xml;nitro-empty-id=Mjc5OjE2Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE3MSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxNzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.hcpdent.com/)
 
 * [Our Smile Makers](#)
     * [Meet Dr. Juntgen](https://www.hcpdent.com/about/dr-juntgen/)
@@ -230,7 +230,7 @@ Stay Connected
     
 * How can we help you?
     
-* Email
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
