@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_44333_2022/44333-2022-simeon-brown-to-the-minister-of-defence/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/all/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_44333_2022/44333-2022-simeon-brown-to-the-minister-of-defence/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/all/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
