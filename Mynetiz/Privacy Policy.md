@@ -48,7 +48,7 @@ October 18, 2024
 
 Yeni
 
-[FIDO Alliance, Parolasız Geleceğe Doğru Bir Adım Attı](https://mynetiz.com/fido-alliance-parolasiz-gelecege-dogru-bir-adim-atti.html) [Yaşayanlar bilir](https://mynetiz.com/yasayanlar-bilir.html) [Gara Bağtlılar](https://mynetiz.com/gara-bagtlilar.html) [Mastodon : Yeni Özellikler ve İyileştirmeler](https://mynetiz.com/mastodon-yeni-ozellikler-ve-iyilestirmeler.html) [Haberleşme ve Duyumsamanın Gücü](https://mynetiz.com/haberlesme-ve-duyumsamanin-gucu.html) [Winamp son durum](https://mynetiz.com/winamp-son-durum.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi-2.html) [Bilginin Tevazusu, Cehaletin Kibri](https://mynetiz.com/bilginin-tevazusu-cehaletin-kibri.html) [Hızlı Değişim Çağı](https://mynetiz.com/hizli-degisim-cagi.html)
+[BRICH+](https://mynetiz.com/brich.html) [FIDO Alliance, Parolasız Geleceğe Doğru Bir Adım Attı](https://mynetiz.com/fido-alliance-parolasiz-gelecege-dogru-bir-adim-atti.html) [Yaşayanlar bilir](https://mynetiz.com/yasayanlar-bilir.html) [Gara Bağtlılar](https://mynetiz.com/gara-bagtlilar.html) [Mastodon : Yeni Özellikler ve İyileştirmeler](https://mynetiz.com/mastodon-yeni-ozellikler-ve-iyilestirmeler.html) [Haberleşme ve Duyumsamanın Gücü](https://mynetiz.com/haberlesme-ve-duyumsamanin-gucu.html) [Winamp son durum](https://mynetiz.com/winamp-son-durum.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi-2.html) [Bilginin Tevazusu, Cehaletin Kibri](https://mynetiz.com/bilginin-tevazusu-cehaletin-kibri.html)
 
 Privacy Policy
 ==============
@@ -221,7 +221,7 @@ Should we update, amend or make any changes to this document, those changes will
 * [Kullanım Koşulları](https://mynetiz.com/kullanim-ve-gizlilik-kosullari)
 * [İletişim](https://mynetiz.com/ileti)
 
-15.10.2024 tarihinde yenilendi
+18.10.2024 tarihinde yenilendi
 
 [![](https://mynetiz.com/wp-content/themes/ipt-knowledgebase-theme-wp-master/images/logow.png)](https://kutuphanemizden.com/ "Kütüphanemizden") © 2024 · [KBT](https://github.com/swashata/ipt-knowledgebase-theme-wp "WP Knowledge Base Theme")
 
