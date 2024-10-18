@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/da458223-10db-4a3d-902b-ec17fa50e618/20241017T200931/da458223-10db-4a3d-902b-ec17fa50e618_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/da458223-10db-4a3d-902b-ec17fa50e618/20241017T200931/da458223-10db-4a3d-902b-ec17fa50e618_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/pumpkin-smash-event-illinois-extension-macomb-dixon-methane/526-dce691dd-54da-40ac-ae60-8f0e7c371577)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/eb923b7c-f58a-452c-bfed-b68f6c146801/20241018T022340/eb923b7c-f58a-452c-bfed-b68f6c146801_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eb923b7c-f58a-452c-bfed-b68f6c146801/20241018T022340/eb923b7c-f58a-452c-bfed-b68f6c146801_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-correctional-workers-rally-stronger-security-protections/526-7b0927d8-ba78-42d2-9c74-399b7740b19c)
         
-        #### ['Don't trash it, smash it!' | Here's how you can recycle your Halloween pumpkins](https://www.wqad.com/article/news/local/the-current/pumpkin-smash-event-illinois-extension-macomb-dixon-methane/526-dce691dd-54da-40ac-ae60-8f0e7c371577)
+        #### [Illinois correctional workers rally for stronger security and better protections](https://www.wqad.com/article/news/local/illinois-correctional-workers-rally-stronger-security-protections/526-7b0927d8-ba78-42d2-9c74-399b7740b19c) [![](https://media.tegna-media.com/assets/WQAD/images/eb923b7c-f58a-452c-bfed-b68f6c146801/20241018T022340/eb923b7c-f58a-452c-bfed-b68f6c146801_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eb923b7c-f58a-452c-bfed-b68f6c146801/20241018T022340/eb923b7c-f58a-452c-bfed-b68f6c146801_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-correctional-workers-rally-stronger-security-protections/526-7b0927d8-ba78-42d2-9c74-399b7740b19c)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bb3c7a7c-7a0e-4aab-ab19-fc186735ffba/20241017T195330/bb3c7a7c-7a0e-4aab-ab19-fc186735ffba_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bb3c7a7c-7a0e-4aab-ab19-fc186735ffba/20241017T195330/bb3c7a7c-7a0e-4aab-ab19-fc186735ffba_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/the-kewanee-voice-press-forward-100000-grant-nonprofit-newsroom-henry-county/526-e78f431a-4aff-46a9-8bbe-d42e3a43d9a8)
+        #### [Union picket calls for action against contraband in Illinois prisons](https://www.wqad.com/article/news/local/illinois-correctional-workers-rally-stronger-security-protections/526-7b0927d8-ba78-42d2-9c74-399b7740b19c)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a1459d43-12eb-47ad-9bf6-b212c51694ef/20240619T233058/a1459d43-12eb-47ad-9bf6-b212c51694ef_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a1459d43-12eb-47ad-9bf6-b212c51694ef/20240619T233058/a1459d43-12eb-47ad-9bf6-b212c51694ef_360x203.jpg)](https://www.wqad.com/article/sports/local-sports/quad-city-steamwheelers-subscription-season-tickets/526-87256f12-2eb1-4425-b168-1989bc9f47f0)
         
-        #### [The Kewanee Voice chosen for $100,000 Press Forward grant](https://www.wqad.com/article/news/local/the-current/the-kewanee-voice-press-forward-100000-grant-nonprofit-newsroom-henry-county/526-e78f431a-4aff-46a9-8bbe-d42e3a43d9a8)
+        #### [QC Steamwheelers offering new subscription pricing on season tickets](https://www.wqad.com/article/sports/local-sports/quad-city-steamwheelers-subscription-season-tickets/526-87256f12-2eb1-4425-b168-1989bc9f47f0)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f/20241017T121237/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f/20241017T121237/9b4dc0dd-947a-4787-b2b8-3c4c3da2dd9f_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/9e3a994f-3310-4c5d-b5dd-834a32b3cc8d/20241018T033138/9e3a994f-3310-4c5d-b5dd-834a32b3cc8d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9e3a994f-3310-4c5d-b5dd-834a32b3cc8d/20241018T033138/9e3a994f-3310-4c5d-b5dd-834a32b3cc8d_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Slowly warming up each day](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-65°
+53°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
