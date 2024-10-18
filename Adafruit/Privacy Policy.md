@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We are what we celebrate”
+“ Don't fight forces, use them”
 
-[Dean Kamen](http://en.wikipedia.org/wiki/Dean_Kamen)
+[R. Buckminster Fuller](http://en.wikipedia.org/wiki/Buckminster_Fuller)
 
 [](https://www.adafruit.com/about)
 
