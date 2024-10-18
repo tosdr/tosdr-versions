@@ -42,11 +42,15 @@ BESTSELLERS
 
 New
 
-[Shop all new products](https://www.bobbibrowncosmetics.com/products/14460/new "Shop all new products") Shop all new products
+[Shop All New Products](https://www.bobbibrowncosmetics.com/products/14460/new "Shop All New Products") Shop All New Products
 
    ![](/media/export/cms/10.4 GG Holiday/20230411_BB_PC_FY24_Holiday_GNAV_Eyeshadow_Palettes_Global_01.jpeg)
 
-[Shop all new products](https://www.bobbibrowncosmetics.com/holiday-gift-guide "Shop all new products")
+[Shop Limited-Edition City Lights Holiday Collection](https://www.bobbibrowncosmetics.com/holiday-collection "Shop Limited-Edition City Lights Holiday Collection") Shop Limited-Edition City Lights Holiday Collection
+
+   ![](/media/export/cms/10.4 GG Holiday/20230411_BB_PC_FY24_Holiday_GNAV_Eyeshadow_Palettes_Global_01.jpeg)
+
+[Shop Limited-Edition City Lights Holiday Collection](https://www.bobbibrowncosmetics.com/holiday-collection "Shop Limited-Edition City Lights Holiday Collection")
 
  [SKINCARE](https://www.bobbibrowncosmetics.com/products/14006/skincare) SKINCARE 
 
