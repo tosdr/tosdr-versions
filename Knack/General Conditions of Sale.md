@@ -254,8 +254,6 @@ We can restore your database records and even your app interface in case it’s 
 
 Add blocks of additional records and storage without upgrading your plan.
 
-Start building with Knack today – no credit card required. You can build a web app in just a few minutes by leveraging AI, templates, or Knack’s extensive resource library.
-
 We know some of the terms may be unfamiliar. We have some more info [here](https://www.knack.com/blog/online-database-definitions/) on some of the common database terms.
 
 No, there is no limit on users who can optionally log in and access your app. Each user just counts as a record stored in your database.
