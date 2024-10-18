@@ -511,7 +511,7 @@ Thank you for signing up!
 
 Thank you!
 
-[facebook](http://www.facebook.com/DefendersofWildlife) [twitter](http://twitter.com/defenders) [instagram](https://www.instagram.com/defendersofwildlife/?hl=en) [youtube](http://www.youtube.com/defendersofwildlife) [medium](https://medium.com/wild-without-end) [tiktok](https://www.tiktok.com/@defendersofwildlife) [threads](https://www.threads.net/@defendersofwildlife)
+[facebook](http://www.facebook.com/DefendersofWildlife) [twitter](http://twitter.com/defenders) [instagram](https://www.instagram.com/defendersofwildlife/?hl=en) [youtube](http://www.youtube.com/defendersofwildlife) [tiktok](https://www.tiktok.com/@defendersofwildlife) [threads](https://www.threads.net/@defendersofwildlife)
 
 ### Footer menu
 
