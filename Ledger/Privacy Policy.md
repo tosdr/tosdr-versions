@@ -7,8 +7,10 @@ You can revert to English at any time by clicking on the language menu on the to
   [![Ledger](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-long.svg)](https://www.ledger.com/ "Ledger")
 
 * [Products](# "Products")
+    * [Ledger Flex
+        
+        New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
-    * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
