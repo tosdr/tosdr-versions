@@ -11,17 +11,15 @@
     * [Android](https://www.xfire.com/game-platform/android/)
     * [iOS](https://www.xfire.com/game-platform/ios/)
 * [Game Pass / PS Plus](https://www.xfire.com/signup/)
-    * [Instant Emails](https://www.xfire.com/signup/)
+    * [Email Alerts](https://www.xfire.com/signup/)
     * [Game Search](https://www.xfire.com/search-game-subscriptions/)
     * [Game Pass Calendar](https://www.xfire.com/xbox-game-subscriptions/)
-    * [PS Plus Calendar](https://www.xfire.com/playstation-game-subscriptions/)
+    * [PlayStation Plus Calendar](https://www.xfire.com/playstation-game-subscriptions/)
 * [Guides](https://www.xfire.com/guides/)
     * [Call of Duty](https://www.xfire.com/guides/call-of-duty/)
 * [Wordle](https://www.xfire.com/wordle/)
-    * [Today’s Answer](https://www.xfire.com/todays-wordle-answer/)
     * [Word Lists](https://www.xfire.com/wordle/1-letter-in-position/)
     * [Word Finder](https://www.xfire.com/wordle-word-finder-tool/)
-    * [Answers](https://www.xfire.com/wordle/answers/)
 
 About Xfire
 
