@@ -20,7 +20,7 @@ Geneanet is ad free and your Ad Blocker may affect your Geneanet experience. We 
 
 * [Family Tree](javascript:;)
     * [Start your family tree](https://en.geneanet.org/create-your-family-tree/)
-    * [Import/Export a GEDCOM File](https://en.geneanet.org/create-your-family-tree/gedcom)
+    * [Import a GEDCOM File](https://en.geneanet.org/create-your-family-tree/gedcom)
 * [Search](javascript:;)
     * [All Records](https://en.geneanet.org/fonds/individus/)
     * [Archives and Documents](https://en.geneanet.org/fonds/individus/archives/)
@@ -59,7 +59,7 @@ Geneanet is ad free and your Ad Blocker may affect your Geneanet experience. We 
 
 [Start your family tree](https://en.geneanet.org/create-your-family-tree/)
 
-[Import/Export a GEDCOM File](https://en.geneanet.org/create-your-family-tree/gedcom)
+[Import a GEDCOM File](https://en.geneanet.org/create-your-family-tree/gedcom)
 
 [Search](javascript:;)
 ----------------------
