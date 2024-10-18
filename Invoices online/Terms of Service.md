@@ -197,59 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Shaun Gartshore
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=96292737)  
-High Point Marketing CC t/a Leads For Africa
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=111881772)  
+Desygn
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=5183528)  
-Fox Alarms & Security CC
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=100540652)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=126237583)  
-Baby Toddles Infant Care
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=204939824)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=38974793)  
-Frequency Fanatics (Pty) Ltd
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=82863719)  
+Bchange Online CC
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=200643814)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=109382163)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=28659548)  
-van Schaik rentals
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=60492510)  
+Tantra Sound and Lightz
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=162280039)  
-J.M. HUMAN RESOURCES
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=164783637)  
+Lindani Protection Services & Projects
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=89420030)  
-MONSTER SECURITY GUARDING
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=19537196)  
+KTEN PARTS
 
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=144614053)  
-Secunda Signs T/A Local Print and Signs
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=5722120)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=136913797)  
-All Trucking Solutions
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=70846739)  
+Sonic Electrical Services PTY Ltd
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=41082570)  
-MR Compressors& Industrial Supplies
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=208813668)  
+Enhle Oarabile Kea
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=7192979)  
-AquariumSmiths
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=30127347)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=19112169)  
-BD Maintenance
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=90169767)  
+United Paintball Federation
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=84351082)  
-FJW Security Cc
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=103919348)  
+Vplay Letsheng Mall
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=b468ecbb1ed0ba2eaf02945715be806d8a618d208edd45b503b3fdd383d8d583&c=186114521)  
-Vplay Grafix
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=f2f42e7c816251438e0b7b2e19209b16ac9625233c734e38c7d356114241c204&c=97895748)  
+Electro-Heat
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
