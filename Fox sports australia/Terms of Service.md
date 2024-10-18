@@ -18,33 +18,43 @@ FOX SCORES
     
 * [Women's PC
     
-    1st Half
+    Complete
     
     |     |     |
     | --- | --- |
-    | AUS | 20  |
+    | AUS | 84  |
     | PNG | 0   |
     
     Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240101)
-* [Men's PC
+* [Women's PC
     
-    18/10 20:10 AEST
+    19/10 17:00 AEST
     
     |     |     |
     | --- | --- |
-    | AUS | –   |
     | TON | –   |
+    | SAM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240102)
+* [Men's PC
+    
+    Complete
+    
+    |     |     |
+    | --- | --- |
+    | AUS | 18  |
+    | TON | 0   |
     
     Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/PAC20240101)
 * Cricket
     
 * [Men's Test
     
-    Day 3 Session 2
+    Day 3
     
     |     |     |
     | --- | --- |
-    | IND | 46  |
+    | IND | 46 & 3 /231 |
     | NZL | 402 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250301)
@@ -58,16 +68,6 @@ FOX SCORES
     | ENG | 291 & 144 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250202)
-* [Women's T20 WC
-    
-    RSA won by 8 wkts
-    
-    |     |     |
-    | --- | --- |
-    | AUS | 5 /134 |
-    | RSA | 2 /135 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250201)
 * [Women's T20 WC
     
     19/10 1:00 AEST
@@ -88,6 +88,26 @@ FOX SCORES
     | NEP | 9 /164 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250301)
+* [Women's T20
+    
+    19/10 10:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BRI | –   |
+    | ADE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250201)
+* [Women's T20
+    
+    19/10 14:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | HOB | –   |
+    | MELS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250202)
 * Netball
     
 * [Women's Test
@@ -104,12 +124,12 @@ FOX SCORES
     
 * [AFL Women's
     
-    18/10 19:45 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | POR | –   |
-    | STK | –   |
+    | POR | 7.5.47 |
+    | STK | 5.2.32 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240802)
 * Motorsport
@@ -150,26 +170,36 @@ FOX SCORES
     
 * [NBL
     
-    18/10 19:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | TAS | –   |
-    | SYD | –   |
+    | TAS | 71  |
+    | SYD | 80  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25050002)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25050002/play-by-play)
 * Football
     
 * [A-League M
     
-    18/10 19:35 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | CCM | –   |
-    | MVC | –   |
+    | CCM | 0   |
+    | MVC | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250101)
+* [A-League M
+    
+    19/10 15:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AFC | –   |
+    | BRI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250102)
 * Baseball
     
 * [MLB
@@ -202,6 +232,16 @@ FOX SCORES
     | LAD | –   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024002002AB903)
+* [MLB
+    
+    19/10 11:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CLE | –   |
+    | NYY | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240020025C142)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
